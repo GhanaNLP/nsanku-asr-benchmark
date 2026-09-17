@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Sasak ma doho nɩaa nɛ: Ɩsɩpaŋ, Ɛba, Ɛlɩɛl,",सकमेडुनियाने इसापन इबा इलियाम,1.0,1.0
+1,"Má ŋmoo niiŋ a tɩŋ girep nɛnɛɛ sɩ-falɩɩ-la wɩaa,",M'awoni atengrip nane sefali laa wia.,1.0,0.4865
+2,"Nɩaa bʋɩ banɛsɛ ma jaŋ pʋpɔ Wɩa dɩɩ-bal-la boi baalaa, dɩ nɩaa bʋɩ banɛsɛ ma du kʋduulo-la mɩ sɩ chɛ bil dɩ ba kaa dɩdɛnnɛ La TƖƖNA.”","Na ya abụọ ịkpá na-asị mụ jọmpụọ wee dị baala wee dị baala, dị na ya abụọ ịkpá na-asị mụ du kudulụ mụ sị chebụl dịwa ka dịdị nị latịna.",1.1111,0.5842
+3,Doŋ pɩnɩŋ kɩŋkɛŋ jaŋ leŋ dɩ ba laalɛ gɛrɩ-kɔsʋmɔɔ.,Don penen kankang jyanlen. Dan lale garkosom,1.0,0.575
+4,"Hamaŋ sɩ kʋ jɩŋ dɩ Modikaaya ŋaa Juu tɩɩna nɛ, ʋ beŋ dɩ ʋ nɛ kpʋ ʋ dʋndʋŋa, ŋɩɩ ha bɩ magɛ. Ʋ lɛɛlɛ chɩchɛ wombiiŋ dɩ ʋ kpʋ Juu tɩŋŋaa kala sɩ hɔŋ kuoro Zɛzɛs tinteeŋ lɛ.","Hee ma, sokojem, dimkpa a ya na-aju uti na nee, ube ndi onokpo odondu a, n'ihi na maka o lelee echiche nwa mbinyi di okpu ji utinwa akara suho kwuru ozo zi tin tin.",1.0,0.5426
+5,ŋɩɩ nɛ ŋ yaraa ma yie fɩɛlɛ dɩ ŋ nɛ nɩɩ wʋzɔmʋŋ sɩ lɩɩ,Nye na enyara manye firi na onane wuzomnsili,1.0,0.6341
+6,"Dɩ ʋ nɛ pɩɛsɛ wɩaa bʋɩ, ŋ bɩ jaŋ wuo laa wʋbala ma a bʋl.","De one wey dem dey call 'wear boy', na mumu dey wear am.",1.0,0.878
+7,"Pʋlʋmʋŋ tʋɔŋ nɛ nɩaa ŋɩŋaa wʋzɔŋŋɔɔ, tʋɔpʋl wɩaa arɩ wʋtɩtɩɩba.","Poli m'tua n'inya nge nga wusongo, tua poli vya ari wutiti",1.1,0.6538
+8,Zɛzɛs kuori kpaha fa hɛ taŋ-la ba sɩɩ yɩrɛ Susa lɛ nɛ.,Ndi na-achọrọ ịbịa ọrụ maka ihe a m na-achọ ịrụ.,1.0,0.9268
+9,"dɩ mɩ kala birisi, dɩ mɩ gɛnnɩŋ ma paala bɛrɛmɛ.","Dama kala biri si, dama ga nan mapala",0.9,0.4054
+10,"Nɩarɩa ma hambolibiisiŋ ŋaa batori nɛ: Elionai, Hizikia arɩ Azirikam.","Nehemiah, 1 Chronicles 3:9, Ezekiel",1.0,0.807
+11,"Kirisito tɩtɩa nɛ leŋe la sɩŋ, ʋ nɛ kɛŋ nɩalɩŋ sɩ ŋaa Juu tɩŋŋaa arɩ nɩalɩŋ sɩ bɩ Juu tɩŋŋaa ŋaa kala hɛ dɔŋɔ lɛ ba kʋ ŋaa kʋbala. Ʋ sɩ sʋʋ daagɛsɛ nyuŋ nɛ giri dʋndɔnnɩɩ-la fa sɩ hɛ la pɛgɛ ta.","kedu ka chi adighi na-esigha ajugote n'a, ara na-esigha be ji ugote n'a n'a, kala ha don'le bako n'a kubala. Osusu uda ga se nyu ni giri don don n'o la fa se he la",0.9535,0.5878
+12,Ʋ nɛ ŋaa baga kɩaa kala kuoro.”,Unu nga baka kia kala kuoro.,0.7143,0.3043
+13,"Dɩ nʋʋ tʋɔŋ nɛ cheye, ʋ maga dɩ ʋ nandɔnsʋŋ nɛ chɩna gbɛrʋ,","Dalu nwanne m nwoke. O maghi m na ndu so nne, i na-agbara",1.0,0.6667
+14,"Arɔŋ doho nɩaa dɔnsʋŋ nɛ ŋaa Kohaf nyɩŋ-nɩaa, ba nɛ fa ŋaa nɩalɩŋ ba sɩ laa sɩpaaŋ joŋ tasɩŋ pa.",,,
+15,"Ɛlɩfas hambolibiisiŋ nɛ ŋaa: Tɛmaŋ, Omaa, Zefo, Gatam, Kɛnas arɩ Amalɛk. Amalɛk naaŋ nɛ fa Tɩmɩna.","Eliphas en Bulubisana Teman, Uma, Zefu, Katam, Kenaz, Ari, Amalek. Amalek na Eliphas Timna.",1.0,0.4474
+16,"bɛɛ wɩaa, mɩ dʋndʋŋa nɛ Wɩa, Wɩa dɔŋ bɩra tuo.","Bia bia, m'edendwan bia, bia dɔm bretu",1.0,0.5294
+17,"Ma saa bɩra bɩ nʋhʋɔraa ŋaa, ma bɩ jʋjʋʋlʋ ma ŋaa. Ma dɩ Wɩa nɩaa kala ŋaa kʋbala nɛ a ŋaa Wɩa dɩa nɩaa.","Masa ababen da huwara nga, maba jijjulo manga, madi wuya ni akala nga akubala ne, nga wuya diya ni",1.0,0.4744
+18,a bɩra nagɛ gɛrɩpɛ-yuoro sɩ chuoli gɛrɩpɛɛŋ gɛrɩpɛ-yuori sɔŋɔ lɛ.,አብራንናኬ ጋርፔ ዩረስች ወለ ጋርፔን ጋርፔ ዩረስን አለ,1.0,1.0
+19,"Tʋɔtɔrʋŋ bɩra tuo, nɩaa bɩra bɩ jʋɔsɛ Wɩa dɩɩ-balɩŋ lɛ.","Tụọ tụọrọ m bọọlụ abụọ, nye abụọ bịa juo m, ole dị bọọlụ",1.3,0.7907
+20,"Sobal ma hambolibiisiŋ nɛ: Alɩvaŋ, Manahaf, Ɛbal, Sefo arɩ Onam. Zibioŋ hambolibiisiŋ nɛ: Aya arɩ Ana.","Si ebel ma ha mbuiri si nne, a leban ma na haf ebel si fu ari unam. Zi biyon ha mbuiri si nne aya ari ana.",1.4375,0.3375
+21,"Wɩaa deemba sɩ bala, bʋa kʋbala lɛ kuoro Zɛzɛs joŋ ʋ tɩntɩnnɩ-hɩasɩŋ ma kala hɩasɩŋ a pɩ baal kʋbala ba sɩɩ yɩrɛ Hamaŋ, ʋ nyɩmma nɛ Hamɛdata a ŋaa Agag doho nʋʋ.","Bịa dín basị balah, bu akụbalah le kụ orọ zọ zọ sị jụ ọtịntịn n'ịhịa sị mma kala hịa sị apị baalụ kụbalah basị yịrị heeman. Onye mma n'e heme data a ga a ga dịhụ",1.0625,0.4206
+22,Jesi nanʋala Devit nɛ fa ŋaa Iziral tinteeŋ kala kuoro.,"Jiya tana wuya, ji bi nefa nga izal tintin kalekuru.",1.0,0.5111
+23,"Naamaŋ, Ahija arɩ Gɛra. Gɛra fa ŋaa Uza arɩ Ahihud nyɩmma nɛ, ʋ nɛ fa laa ba sɩpaaŋ a kɛmba mʋ.","naa mang, aheja, are gara, gara fana, uza are ahihud nyamane, unu fa la basipa akan ma",0.8571,0.3099
+24,Wɩa wombie-la arɩ ʋ wɩalɩŋ Mosis sɩ joŋo dagɛ Iziral tɩŋŋaa dɩ ba tuto nɛ ŋ-la:,Onye bu MBA na ara o wialu Moses si jonye dika iza aturu nga diba chitu na ila.,1.125,0.6066
+25,Juda arɩ ʋ bii-haala Tama ma lʋl hambolibiisiŋ balɩa nɛ. Ba yɩraa nɛ: Pɛrɛs arɩ Zɛra. Juda hambolibiisiŋ kala fa ŋaa banɔŋ nɛ.,Judah hambi bi sin bali ane. Bayira ne Peres are Zera. Judah hambi bi sin kala faa banon,0.9565,0.4343
+26,"Nɩaa fa yʋga a bɩ nii kɛnɛ a tuto ʋ harɩŋ. Ama nɩalɩŋ sɩ to harɩŋ kɔ tʋɔŋ bɩ nɩɩ-la sɩ laa kuoru-la nyuŋ tɔrɔ. Wɩɩŋ deeŋ ma bɩ bʋbʋɔ kɛnɛ, ʋ nagɛ nʋʋ sɩɩ kiri peliŋ nɛ.",,,
+27,"Avad tɩŋŋaa, Zɛma tɩŋŋaa, arɩ Hama tɩŋŋaa.","अवत न्गा, ज़मत न्गा, अरे हमत न्गा",1.0,1.0
+28,"Ʋ jaŋ leŋ dɩ wɩɩpɔsʋŋ daaliimiŋ mɩɩra mʋ harɩŋ naakieliŋ fii, lee-la kuoro Ahas lusuŋ-choluŋ sɩ chɩna.” Ŋɩɩ nɛ daaliiŋ-la sɛnɛ mɩɩra mʋ harɩŋ naakieliŋ fii.",Gajeren tarihin marigayi Malam Muhammadu Buhari na Katsina. Ga tarihin rayuwar Malam Muhammadu Buhari na Katsina.,1.0,0.7903
+29,"Ŋɩɩ nɛ La TƖƖNA bʋla pʋ, “Tɩa-la ŋ sɩ bɩ chɔnsɔ, a bɩ bene ʋ waa, ʋ wɩaa nɛ fɩɛsɛ ŋ sɩɩŋ. Ʋ nyʋ chɛ-bala nɛ a sʋʋ chɛ-bala ma.","Nye na Chineke nlabu, tiela nsogbu chanso abebene ogu a. O wee na-fiaso nsi, onyocha bala na aso chabala",0.9667,0.5341
+30,"Tɩntɩmɩɩ-la kala ŋ sɩɩ tɩŋ, fɩɛsɛ sɩɩŋ a faasa tɩmʋ. Ʋ bɩ jaŋ dieni ka ŋ mʋ lɛlɛɛ-jaŋ, lee-la nɩaa sɩ bɩ tɩŋ, a bɩ wɩaa ka bɩɩnɛ, a bɩ wʋjɩmɩŋ kɛnɛ, a bɩ wɩaa sɩaa ma jɩŋ.",,,
+31,"Dɔŋɔ ma nɛ Salɩma, ʋ ma nɛ suomi taŋ-la ba sɩɩ yɩrɛ Bɛtɩlɛhɛm. Dɔŋɔ ma nɛ Harɛf, ʋ ma nɛ suomi taŋ-la ba sɩɩ yɩrɛ Bɛf Gada.",Doma mane salema. Omani suomi tana wase yere Bethlehem. Doma mane haref. Omani suomi tana wase yere,0.9259,0.4286
+32,"Ŋɩɩ nɛ Jona jʋʋ taŋ-la. Chɛ-bumbuŋ-la ʋ sɩ jʋa, ʋ heele bʋl, “Ʋ ka tapʋlaa mahɩŋ balɩa aŋ ka dɩ Wɩa chei Nɩnɩvɛ kala.”","Na na jo na jo, ta balla, chebunbun la osi jua, ohele bol, okata pula maham balia, anka de we che na na be kala.",1.0,0.3837
+33,"Wɩa nɩaa kala tʋɔŋ, mɩ nɛ ŋaa ba kʋbie, aŋ ka ʋ lɩɩsɛmɛ ʋ lahɔrɩmɔ lɛ dɩ mɩ bʋl ʋ wʋzɔmɔ-la wɩaa a pɩ nɩalɩŋ sɩ bɩ Juu tɩŋŋaa ŋaa, dɩ ba jɩŋ Kirisito dʋa-la sɩ bɩ dɩdɛrɩ kɛnɛ wɩaa,","Bia nu ya ka laa tuo, m na-ario unu biko bia. Nke a olee sama olohoro m lee, dika bulu owo uzo malite ya apenialu nsi bu ji ututu nga nga. Dika ji n'Kristu, di ala sebedari kene ya.",1.0,0.6
+34,koo a na dɩɩsɩ-la lɛ mɩ sɩ joŋ duoŋ-tabɩaa bil?,"Koo ana di silale, Mrs. John duo ntabi abali.",0.9,0.3714
+35,"Ʋ chɩŋ dundolo-la wɩɩpɔsʋŋ dɩɩrɩŋ ba sɩ dɩŋa lɛ, aŋ saa taŋ-la golli. Ka Jʋab ma beŋ ba wasa bɩrɩmɛ taŋ-la kʋkaanɩŋ.",Achen Dondola wé posen derang basen dengale an sataba legonli ka job mebin ba wasa birme tanla ko kanen.,0.9091,0.4607
+36,Bʋa-la lɛ ba sɩ jaŋ kɛŋ tabɩaa pɩsɛ arɩ bʋa-la lɛ ba sɩ jaŋ gbaaba hɛ dɔŋɔ.,Buhari lallai basu ja hankali ba yadda ya kamata. A rubu lallai basu ja gaba ba yadda ya kamata.,1.1176,0.8571
+37,Ŋmobuŋ ka giri,"Ngwa biko giri, tupu anyi banye n'onu.",2.0,2.0
+38,"La TƖƖNA sɩ ŋaa la naabalɩma Abɩraham, Aɩzɩk, arɩ Jekɔb ba Wɩa, leŋ dɩ ŋ nɩaa kɛŋ tʋɔŋ deeŋ doho, a kɛŋ wʋtɩtɩɩ arɩŋ a kaa mʋ wuu.","laƙabin sa na gaba ma Abraham, Ishaƙu, da Yakubu babiya, len di'in niya kan huwan de nduhu aka wotatai a ran aka mugu",0.9643,0.5918
+39,"Chɛ wʋjɩmɩŋ a sɛɩ dɩ ba kɛnɩŋ tʋrɛ, arɩ ŋɩɩ ŋ sɩ jaŋ to","Ciaw jiman, a sayadi makani turay. A ringi in sigi",0.9286,0.7073
+40,"Má cho dɔŋɔ arɩ Kirisito sɩ chola ŋɩɩ a sʋʋ la wɩaa. Ʋ joŋ ʋ tɩtɩa a pɩ Wɩa nɛ, ba kpʋʋ arɩ ba sɩ yie kpʋ pʋsʋŋ a nyɩga pɩ Wɩa ŋɩɩ, ʋ sʋɔra sɩŋ.","mɛkyerɛ dɔn a, ɛrekrisiasi kyerɛ dɔn a ɛsɔla via, ʊjɔn ʊtutuya apɛ wia nɛ bakoo arabasi yɛ pɔpɔtɔn anyɛka pɛ wia nɛ usɔrasa",0.9444,0.581
+41,"Maakɩl, Ɩsɩpa arɩ Joha.",अरे जो,1.0,1.0
+42,"Mɩ bɩra sʋlʋ dɩ ma wuo laa Kirisito wɩaa dii woruŋ, dɩ ʋ hɛ ma tʋɔŋ lɛ a leŋ dɩ ma chɩŋ kpaŋ kpaŋ a cho nɩaa.","mgbara aslo rime we laa, Kristi o bia di iweru. Do uhe matua le, ala ndi mache nkpa nkpa acho na ya",0.963,0.4198
+43,"Má lɩɩsɛ ma tɩtɩa birimiŋ tʋɔŋ wɩalɩŋ nɩaa sɩɩ ŋaa lɛ. Má joŋ ba bʋbʋɔŋ ta, a leŋ dɩ nɩaa jɩŋ wɩalɩŋ ba sɩɩ ŋaa bɩ zɔŋ.","Malisiri mmadu tinyere mmadu abuo nwanyi ala na ya si nwanyi. Majo mgbabapu nta, ele ndi na-ajin wele mba si na abizo.",1.0,0.6556
+44,"Wombii-la ʋ sɩ to kɔ, ʋ tɩtɩa nɛ ʋ jaŋ bɩra to a mɩɩrɛ,",Wembley lauscht Schoko. Otetiana Ojambré Tomi,1.0,0.6154
+45,La TƖƖNA bɩ jaŋ leŋ dɩ nyanyalɩɩ kala jʋʋma. Ʋ bɩ jaŋ joŋ nyanyal bɔmɔ-la ma sɩ na Ijipiti tinteeŋ lɛ kʋŋkala hɛ ma lɛ. Ama La TƖƖNA jaŋ joŋ nyanyal bɔŋŋɔɔ hɛ ma dʋndɔŋŋɔɔ lɛ.,"Latina be gyaleng, denya nyale kala joma. O be je nyo nyale boma la masina Egypti nte la kon kala hemale. Amalatina je nyo nyale bo nyo he madondo nyo le.",0.9722,0.4412
+46,Wɩaa deemba kʋŋkala bɩ mɩ tʋɔŋ tɔrɔ a tɩŋ mɩ sɩ yie na Modikaaya Juu tɩɩna-la dɩ ʋ hɔŋ kuoro dɩa boiŋ niiŋ.”,"Ya adimba, konkala be mmetuon toro atin, masiye na Modikaya Ju tinara do ohon kuoro dia buenni.",0.913,0.4096
+47,"Ŋɩɩ nɛ Wɩɩsʋllɩ sɩpaalaaraa arɩ Levi doho nɩaa pɩɩsɛ ba tɩtɩa ta a kɛŋ ba tɩtɩa hɛ dɔŋɔ dɩ ba joŋ La TƖƖNA, Iziral tɩŋŋaa Wɩa niiriŋ daga-la.","N'ime izu ole na ole gara aga, arịrịọ ndị ụka bịara akwụkwọ ozi ha doro ndị bishọp latịna bịara na njem nleta.",1.0,0.7658
+48,"Nafɩtalɩ hambolibiisiŋ nɛ ŋ-la: Jazɩɛl, Guni, Jeza arɩ Sɩlɛm. Ba fa ŋaa Nafɩtalɩ naaŋ Biliha doho nɩaa nɛ.",நான் பர்த்தாலே ஹம்பலிவிசன் ஜாஸ்யா குன்னி ஜேசா அரேஸ்லம் ப பங்கா நாப்தாலே நான் பிலஹா ருஹுனியான,1.0,1.0
+49,Ɩsaka doho wɩaa ba sɩ ŋmʋnsa bil daga arɩ ba doho fa kɛŋ laalɩyuoroo bʋɩ mahɩŋ banɛsɛ arɩ balɩpɛ nɛ.,Dhaka Dhaka,1.0,0.8875
+50,"Mɩka hambolibiisiŋ nɛ: Pɩtɔŋ, Mɛlɛk, Tarɩa arɩ Ahas.","Mickey and Bully and Python, Malik, Taria, Are Ahad",1.125,0.5854
+51,"Lɛɛlɛ, la Wɩa, laa lɔllʋŋ a dɩdɛnnɛ ŋ yɩrɩ zɔmʋŋ.",love love love you love,1.0,0.8919
+52,"Yarɩwɩɩ tɩɩna bɩ bʋa-la sɩ maga dɩ ʋ pɛrɛ lɛ ka pɛrɛ,","Yariman waje tana ba, bola sun maka. Oper laka per.",1.0,0.575
+53,"Ŋɩɩ nɛ tɩɩ, dɩ mɩ nɩɩ chʋɔlɛ Wɩa na-kala, mɩ yie lʋlɔllʋ nɛ a tɩŋ ma wɩaa. Mɩ yie liisi ma wɩaa nɛ a chʋɔlɛ Wɩa pɩpɩma.",Meye nneɛte de me ne chuol bia na kala. Meye loolu ne atimmadi a meye lisi ma bia ne chuol bia,0.9259,0.5568
+54,"Ŋɩɩ nɛ Devit bʋl, “La TƖƖNA Iziral tɩŋŋaa Wɩa pɩ ʋ nɩaa wiese nɛ, ʋ tɩtɩa jaŋ hɛ Jerusalɛm lɛ a kaa mʋ wuu.",ယနေ့ဗီဒီယိုမှာ လက်တင်နိုင်ငံသား ၅၁၈ ဦးနဲ့ ၈၃ ကျမ်းဟာ ဂျေရုဆလင်နဲ့ အကာအကွယ်ယူ,1.0,1.0
+55,"Mɩ bɩɩna mɩ tʋɔŋ lɛ, “Mɩ jaŋ kɛŋ tʋɔtɔrʋŋ ŋaa wɩaa a na sɩma-la sɩ hɛ ʋ lɛ.” Ama mɩ na dɩ ŋɩɩ ma bɩ bʋbʋɔ kɛnɛ.","Mbe na mụ tuwa nle. Mụ jikanyere tuwa toron ngalaba Anas Mall, si ha yoo le. A ma m na ndị ịma bụ ndị buo ka unu.",1.0,0.6456
+56,"Sɩ́ ŋ tʋɔbɩɩnaa lɛ to a dii, to nɩɩ-la sɩ bʋla pɩŋ tʋɔbɩɩnaa lɛ a sɩ́ dii. Dɩ mɩ nɛ jɩma arɩ mɩ kɛŋ wombiiŋ dɩ mɩ ŋaa wɩɩ, bɛɛ nɛ saa tɩɩ nʋʋ dɔŋ tʋɔbɩɩnaa jaŋ wuo pɔ dɩ mɩ sɩ́ wɩɩ-la ŋaa?","De me n'ejema a na-eme ka m wee bịa, de me nga wee bịa na saịtị na ụbọchị ahụ m ga-ewepụ de me si wee lagha.",0.9773,0.7794
+57,a gɔllɛ nɩmɛ a chɩchɛ pɩpaa-laarɩŋ dɩ ʋ dii.,አጎልንሜ አቺቼ ፐፓላረን,1.0,1.0
+58,ŋɩɩ nɩɩ tɔrɛ La Tɩɩna tʋɔŋ a kɩɩ nʋʋ sɩ kpʋ pʋsʋŋ a ŋaa Wɩɩsʋlʋŋ pʋ.,"N'enye ha ọrụ latịnụ ha tụọ, ha kee nụ ụzọ kpọmkwem a ga-esi dee",0.9375,0.75
+59,"Dɩ ŋ nɛ mʋ ʋ dɩa, ʋ naga ŋ sɩɩ mʋ lee sʋʋŋ sɩ hɛ nɛ,","Da annamu da annamu odia, ona ga anse mo leso nse",1.0,0.8571
+60,"la tʋɔbɩɩnaa lɛlɛ nɛ, la-na bɩ wɩɩ kɛnɛ dɩ la bʋla pʋ.",laa tuo be na alele na la na bu wee kene di la buru,1.1667,0.475
+61,"arɩ tinteye-la lɩɩŋ sɩ gollo chu nɩaa, má dɛnnʋ.","Aha m bụ Tayo, a na m asụ Gonja chụ nụ ya. Madaala",1.4444,0.6216
+62,"Uzi nanʋala nɛ Izirahia. Izirahia ma hambolibiisiŋ nɛ ŋ-la: Maakɩl, Obadaaya, Jowɛl arɩ Ɩsɩa. Ba kala banɔŋ fa ŋaa kuoroo nɛ.",وزیر انوارانے ایزدی رہیا ایزدی رہیا مہن بولی ویزن انلا ماکیل اوبدایا جویل ارے ایتیا بکالا بانوں فنگا کورونے,1.0,1.0
+63,Ʋ maga dɩ ŋ jɩŋ arɩ La TƖƖNA lɩɩsɩŋ nɛ dɩ ŋ saa ʋ dɩɩ-balɩŋ sɩ bɩ disiniŋ kɛnɛ. Kɛŋ tʋɔ-doluŋ a tɩŋ tɩntɩmɩɩ-la.”,Motar engine a rataye na lissafi na ɗan sa odibalon sibilisinan ka ne kan todolon atan tantame,1.0,0.6071
+64,"Ɛnɔk, Mɛtʋsɛla, Lamɛk arɩ Nowa.",I don't know.,1.0,0.7917
+65,"Mɩ bɩra na dɩ tɩntɩmɩɩ-la kala nɩaa sɩɩ tɩŋ arɩ kɩalɩŋ kala ba sɩ yie na lɩɩ ba yaraa sɩɩ bieri ba dɔŋɔ nyuŋ nɛ. Wɩɩŋ deeŋ ma bɩ bʋbʋɔ kɛnɛ, ʋ nagɛ nʋʋ sɩɩ kiri peliŋ nɛ.","Mgbera na-adị ntị mela kalama na-asị taa, a rike ya na kalama si na liba ya rasi biri ba dọrọ nyụ nne. Wịde mabe bụbụọ kene, ụnọhanụ si kripeli nne.",0.9474,0.4651
+66,Ŋ jaŋ wuo leŋ dɩ taŋ lɩgɩsɛ joŋ ʋ wombiiŋ?,जेंवेलेन्डा लगसाज्यों,1.0,1.0
+67,"Ʋ yaraa yie nyaasɛ nɛ ʋ chichel, a faasa fá.","Oye, a la niña esa le gusta el azafrán.",1.0,0.7273
+68,"Ŋ jaŋ hɔŋ ŋ dɩa lɛ a bɩ wɩɩkala ka fá,",injang ho in di ele abui kala,1.0,0.6667
+69,"Mɩ jaŋ yallɛ ma hambolibiisiŋ arɩ ma hantolibiisiŋ a pɩ Juda nɩaa, dɩ ba ma laa yalla pɩ Sabɩa nɩaa sɩ hɛ tintee-la sɩ bolie lɛ.”","M'agyan yalla mahn bolibisan, aramahan tolibisan, api judaniya. Dubamala yalla pesa biya niya sehetin tela su boliya.",0.9615,0.31
+70,aa chɔl nɩaa vaasɩŋ koo aa bori nyusuŋ.,Akyerɛkyerɛfoɔ aboro nyansun,1.0,0.7097
+71,"Devit sɩ sʋl Wɩɩsʋlɩɩ-la a dɛrɛ, ʋ sʋl Wɩa pɩ nɩalɩŋ La TƖƖNA yɩrɩŋ lɛ,",,,
+72,"Ma dɩ Wɩa pɛgɛ fa bolie nɛ, ama lɛɛlɛ ma dɩ Kirisito sɩ ŋaa kʋbala ŋɩɩ, ʋ joŋ ʋ chalɩŋ jaasɛ ma wɩaa nɛ, a kɛŋ ma dɩ Wɩa kʋ kpagɛ dɔŋɔ.","mmadu we apara kwa ife buli ya na, amalu ya na mmadu krisien si na akwa balu ya, ujo ochallenge ya si ma bu ya na, aka mmadu we akokpali ya do",1.0,0.58
+73,"Baalaa, má cho ma haalaa, arɩ Kirisito sɩ cho nɩalɩŋ sɩ laa Wɩa wɩaa dii aa hilimi ŋɩɩ, ʋ sʋʋ ba wɩaa,","Bala, mace ma hala, a riƙa yi wa su cewa ni'ala a biya di a hile minge a suɓa biya.",0.9545,0.5455
+74,La TƖƖNA doluŋ kala Tɩɩna chaasa kɛŋ ʋ tɩtɩa hɛ dɔŋɔ nɛ,Latina dolun ka Latina caa sakan otitiye he dongo,1.0,0.4318
+75,"Wɩa sɩ laama ta ŋɩɩ, ʋ maga dɩ ʋ nagɛ hɔɔŋ nyuŋ-chu-gbaŋkogo nɛ ma joŋo chu, aŋ joŋ Wɩa Dɩŋ-zɔmʋŋ tokobiiŋ a kori. Tokobii-la nɛ ŋaa Wɩa niiŋ wɩaa.","We are saluting you. Umara do unu na ohonim chigbo nkoke na ya mejongochu. Anjum, we are the nzomin toco bean akori. Toco bean aninga we ni nvia.",1.0,0.6216
+76,"Ŋ nɛ yie pɩ nɩaa dʋa, ŋ yie leŋ nɩaa kɛŋ yɩrɩŋ.","Nye yaa fụ na ya dịwa, nyele ya ka ya",1.0,0.6765
+77,"Sɩ́ nɩbɔmʋŋ nagʋ, a faa gbɛrɛ dɩ ŋ ŋaa wʋbɔŋ tʋɔpʋl tɩɩna dɩa lɛ,",Chineke bụ mụ na gị. Afa m gbara dị n'awụbọọ 14 na,1.0,0.6939
+78,arɩ Mɩkɩlɔf sɩ ŋaa Sɩmɩa nyɩmma. Ba ma hɔnɔ kpagɛ ba naambiiriŋ nɛ Jerusalɛm lɛ.,አሬ መክለፍ ሲጋ ሲምያ ኝማ በምሆን አኳኪ በናምቢሪነ ጀሩሳለም,1.0,1.0
+79,"Wʋtɩtɩɩ nɛ, a chɩŋ dɩ-suomuŋ kala mɩ nɛ Wɩa.",Wata ce na a kind of suwun kala,1.0,0.6667
+80,"Sɩmɩrɩ nanʋala Jɛdayɛl arɩ ʋ naambie Joha, sɩ ŋaa Tis tɩɩna,",सिमीरी नान वाला ज्यादा याल अरे उनाएम बी जुहा सिंगा ही,1.0,1.0
+81,Nyilli-la nɛ ʋ jaŋ kaa gbaa tinteyee a hɛ dɔŋɔ,"Nne la na oji aka gba tinte ya, ehe do",1.0,0.4722
+82,dɩ nɩɩ-la ma sɩ bɩ wʋtɩtɩɩ kɛnɛ laa nɩɩ-la wɩaa sɩ tʋʋla nyuŋ a na hɛɛŋ.,Danella masaba wata ce kanella. Danella ya satolan yun. Ana hen.,1.0,0.4815
+83,Mɩ jaŋ laa ŋ dɩ Jerusalɛm nɩaa kala ta Asiiria kuoro nɩsɩŋ lɛ. Mɩ jaŋ pɔ taŋ deeŋ woruŋ.’ ”,Mijin la'inde Jerusalem ni'a kalata a sire koro ni sirle. Mijin po tondi'e ngoro.,1.0,0.4118
+84,"Ʋ yie pɩna gbɛrɛ nɛ a nagɛ gaara,","willen ze bejaren. Hoe je het ook wendt of keert, een akker",1.5,1.56
+85,a bɩra chɩchɛ dɩ mɩ jɩŋ ŋɩɩ bɔnsʋŋ sɩ naga,Abaraje ciyadumejan ni,1.0,0.7273
+86,"Daŋ, Josɛf, Bɛnjamɩŋ, Nafɩtalɩ, Gad arɩ Asa.",Dan Joseph Benjamin Naphtali Gad,0.8571,0.4848
+87,"Dɩ ʋ nɩɩ jʋʋ kuoro dɩa, ʋ jaŋ wuo joŋ gɛrɩ-la kala koo kpɩɛrɛ-la kala ʋ sɩɩ chɛ haalaa dɩa-la lɛ a laalɛ.","Onye juo ajuju gbasara ya, o zaa ya n'eziokwu, ghara ikala koo ya karịa ka ọ dị.",0.9565,0.7436
+88,"Má bʋla pɩba, “La fa ŋaa yosi nɛ Ijipiti tinteeŋ kuoro nɩsɩŋ lɛ, ŋɩɩ nɛ La TƖƖNA joŋ doluŋ a yuo laala.","Mba, o bu laa fa baa. Laa fa na US na, i jibe tinte kwuru ni si nle. N'ihi na China joo ndu lu, ayu laa",1.1364,0.5513
+89,"Ŋɩɩ nɛ La TƖƖNA bʋla pɩ Gad sɩ ŋaa Devit sɩɩ-naara,",งั้นเราไปหาบล็อกเพจกัน,1.0,1.0
+90,"Ŋɩɩ nɛ kuoro ŋaa ba heele pɩ Nɩnɩvɛ nɩaa a bʋl, “Kuoro arɩ ʋ nɩhɩasɩŋ sɩ nuhuobiiŋ koo pʋna kala bɩ maga dɩ ʋ dii kɩaa koo a nyʋa lɩɩŋ.","Ihe na-ekwu n'a bụ ihe mere na-ebe na ya abụghịkwa arụghịhịa siri na obi m ka ọ na-ala, kama dị udidi ka ya kọọ anyị",1.0,0.6505
+91,ama fawʋllʋŋ yie faasa jʋʋ wʋbɔŋ ŋaaraa-na nɛ.,na twon ye torne ama fa wulin ye fasajo,1.125,0.8108
+92,"Má lɔllɛ La TƖƖNA, bɛɛ wɩaa ʋ wɩaa zɔmɔ, ʋ chonuŋ bɩ dɛrɛ.",말론리 라티나 베비아 오비아조 우추는 베데레,1.0,1.0
+93,aŋ pɔ laa nɩalɩŋ kala sɩ bɩ lee kɛnɛ dɩ ba wuo na wɩalɩŋ sɩ maga dɩ ba na.,"Amaka Paul Anierinibe, lee kene. Debe gi onawiri nsi mma ga. Dalu",0.9474,0.6182
+94,"Wɩa Dɩŋ-zɔmʋŋ ʋ sɩ joŋo hɛ la lɛ nɛ sɛnɛ daga arɩ wʋtɩtɩɩ, maachie la jaŋ dii kɩalɩŋ Wɩa sɩ ŋaa bil ʋ nɩaa lɛ, aŋ laa ʋ nɩaa ta. Ŋɩɩ lɛ nɛ ʋ yɩrɩŋ jaŋ yɩrɛ.","Wee adighi aza mụọ osisi jiri helele, sị na daka araghị otiti. Ma hie laa jee ndị ịkịala bịa sị na abịlị. Ụnịala, ala ụnịata. Ngịla na oyere njanya oyere.",1.0,0.6435
+95,Ŋmoo babii-balɩŋ dɩ nɩɩ-la sɩ bɩ wɩaa jɩŋ woruŋ,Gobe bi balan. Da na lasa biya aikin,1.0,0.5946
+96,Wɩɩ-la sɩ jaŋ ŋaa magɩl a pɩ ŋ-na Hezikaaya nɛ:,wele se janga mal apeng' na Hezekaya,1.0,0.4571
+97,"Má zizil ma nyɩmmaba arɩ ma naamba arɩ ba sɩ bʋl ŋɩɩ Wɩa teniŋ tʋɔŋ. Wɩalɩŋ Wɩa sɩ dagɛ nɩaa dɩ ba tuto tʋɔŋ, wɩɩŋ deeŋ nɛ kɛŋ time.","maka na ihe mụ na gị na-arụkọta ọnụ, arụba sịbụlụ gị wee tinye n'ụlọ. Wee na-enye gị aka na-adịbatado ụlọ, wee na-enye gị aka",1.0,0.703
+98,"Dɩ ŋ nɛ ku pʋsʋŋ ya-diiliŋ a ku dundolo nyuŋ kɩaa ma pɛ a hiese hɛ dɔŋɔ,",Dan nku pusun ya dealin a kudu ndolo nyun ke ama pe ahise he don,0.9412,0.3333
+99,"Wɩɩ dɔŋ ma nɛ bɩra ŋaa dʋnɩa lɛ a bɩ bʋbʋɔ kɛnɛ: Ba yie joŋ nɩbɔŋŋɔɔ time a tiŋ tʋɔpʋl tɩŋŋaa lɛ, aŋ joŋ tʋɔpʋl tɩŋŋaa time a tiŋ nɩbɔŋŋɔɔ lɛ. Mɩ sɩ, wɩɩŋ deeŋ ma bɩ bʋbʋɔ kɛnɛ.",We don marry brang adi nyele abubo buo kene. Be ye jon ni bo ngor time atin tuo pulu tin ngale an jon tuo pulu tin nga time atin ni bo ngor le. Mese we de ma buo buo kene,0.9744,0.5299
+100,"Má leŋ dɩ la nɩalɩŋ kala sɩ laa Yesu wɩaa dii aa hilimi to Kirisito Yesu lɛ, a leŋ dɩ ʋ yɩrɩŋ yɩrɛ a lɩɩ lɛɛlɛ a kaa mʋ wuu. Amɩɩ.","Me lende na nyal kalas la Yesu Kristo biadi, ahilmito Kristo Yesu le, alende oyere nyere, alelele aka amugu, amen.",0.9355,0.4124
+101,"Fii arɩ batorumuŋ nɛ ŋaa Sʋbɛɛl arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",في أريبت رومون نغا سو بيل أريو هومبليسين أريو أونامبيرن غاماناسي أرافالي,1.0,1.0
+102,"a pɩɩsɛ ba disiniŋ ta, a fo ba wʋbɔŋŋɔɔ kala ma ta arɩ lɩɩŋ, a tɩŋ Wɩa niiŋ wɩalɩŋ ba sɩ nɩa wɩaa.","Apesi bedi senea afo wubong ocalamata arilieng, atim wie ni wialu mbasi ni avia.",1.0,0.4932
+103,Kʋbɛɛ nɛ ha wuo magɩsɛ Wɩa dɩ wɩɩ bɩ ʋ lɛ ŋaa?,Kube na hawo mma ka se wea da we ba wulanga,1.0,0.5588
+104,Sɩ-nyʋaraa arɩ nɩalɩŋ sɩ faasa cho kʋdiilee jaŋ nyaabɛ.,ሰንየራ አርኒ ያለን ሰፋሰቸው ጉዲሌ ጃኛ,1.0,1.0
+105,"Má sɩ́ Hezikaaya teeŋ jegilu.’ Asiiria kuoro sɩ, ‘Má kɔ mɩ teeŋ dɩ la ŋaa sɩma, ŋɩɩ nɛ ma kʋŋkala jaŋ wuo dii ma tɩtɩa girep nɛnɛɛ aŋ nyʋa ma vilee ma lɩɩŋ,","Mafi Hezekaya cengelo, Asiria koresa makomite dila a sama, ngene makon kala jen wodi mataciya geref nane, anyo ma vile malen",0.9697,0.4188
+106,Sɩ́ nʋʋ yɩrɩŋ chei pɩ ŋ dɔŋɔ tɩɩna dɩ ŋ nɛ jɩma ʋ bɩ wɩɩ cheye.,Chineke nyere anyị chepe andọrọtị na na nnagima ọbụghị ịche,1.0,0.7826
+107,"Ʋ dɩ la nyɩmmaba dʋndʋŋa pɛgɛ dee ʋ hɛ nii-la, ama ʋ hɛ nii-la ʋ dɩ la nɩalɩŋ kala ha sɩ hɛ la mɩɩsɩŋ lɛ jɩnɩŋ pɛgɛ nɛ.",O di la nima ba don donga paka de oheni la. Ama oheni la odi la nyalen kala ha se he la me sen la jenan paka,0.8214,0.4432
+108,"Wʋkpuŋkperisiŋ deemba Wɩa sɩ ŋaa arɩ ʋ jɩma, ŋ jɩmba nɛɛ?",O comparison de ba wuya san a rai ogema in jan ba ne.,1.1818,0.6222
+109,"Ŋɩɩ nɛ Devit bʋl, “Daha nɛ maga dɩ La TƖƖNA Wɩa dɩɩ-balɩŋ arɩ Iziral tɩŋŋaa kʋnyɩgaa Wɩɩsʋllɩ koruŋ hɛ.”",David,1.0,0.9506
+110,“Daŋ nagɛ naachigi-bie nɛ a fɩla lɩɩ Basaŋ tinteeŋ lɛ.”,Naa nna kee na achi gi biena? Afulalu basantinte,1.0,0.3571
+111,Ŋ ha na lɛlɛɛ-jaŋ dɩ-bine-la boi-baalaa?,Nke a na-elele anya dị́ binu na-ala bụ́ ebe a na-akpọ,1.8333,0.7333
+112,"Mali hambolibiisiŋ nɛ Elieza arɩ Kɩs. Elieza bɩ hambolibie lʋla, ama Kɩs-na lʋl hambolibie nɛ baa yɩrɛ Jɛramɛɛl.",,,
+113,"nʋʋkala bɩ ŋɩɩ lɛ jɩŋ, a lɛl a kaa mʋ wuu.","No kala bangi legend, Allah ya kawo muku.",1.0,0.6333
+114,Ŋɩɩ nɛ La TƖƖNA leŋ pel-bal lu mʋgʋ-bal-la lɛ. Lɩɩ-pel-bal sii a chɩchɛ dɩ ʋ yɛrɛ lɩɩŋ daboro-la.,"Ngela thi ne leng, pele ballu mokobala le, le pele ball si acheche do yare leng da borola.",1.0,0.4167
+115,"Ŋ ha maachie wuo bʋla pɩ wɩɩhɛyɛ pʋlʋmʋŋ dɩ ʋ chaana mʋ yi dʋnɩa dɩdɛrɩŋ,",Amachi wu bulape we haya pulumun du ocha na muyi dunia di dara.,1.0,0.431
+116,Ŋɩɩ nɛ Ɛsɩta yɩrɛ bafere-la dɔŋɔ ba sɩɩ yɩrɛ Hatak kuoro sɩ leŋe ʋ bibenu dɩ ʋ lɩɩ pɩɛsɛ Modikaaya na wɩɩ-la sɩɩ walɩmʋ.,"Mee na-achọghị ịbịfere laa dọrọbịa si na ya bụ hatak, kụọrọ si na ya abụbụenụ, dị ole pịa sịmọ dị ka ya na wụla sị wara.",1.0,0.5851
+117,"Kuoro sɩ mɩɩra lɩɩ lɩga-la lɛ a kʋ jʋʋ dɩa-la lɛ ba fa sɩ hɔnɔ dii kɩaa, dɩ Hamaŋ tuu kpirimi Ɛsɩta sɩpaaŋ a sʋsʋlʋ dɩ ʋ fá ʋ nenige.",Korasị m era le le ka la le akọjọ di a la le ba fa sọ na di kịa. Dehe m'anụkụrị m'eche sị pa asọ sọlụ dị ọfa ụne nịkị.,1.0,0.49
+118,"Nanchʋɔsʋŋ sɩ jaŋ sʋʋ hɛ tʋlaalɩ lɛ dɩ ʋ sʋɔra lɔrɛ ŋɩɩ,","Nantuo sunsujan so, hetulali le, du suola lorin",1.0,0.5682
+119,"Ba sɩ kʋ yi baal kʋbala ba sɩɩ yɩrɛ Kɩdɔŋ taha, nɛsɩ-la gɛrɛ. Uza guu mʋ kɛŋ Wɩa niiriŋ daga-la dɩ ʋ sɩ́ tel.",Basse kuye baalkobala basse yere kedong taha nasila gere uza gumo kanwe niri ndakala de osite,0.9167,0.375
+120,"mɩ jaŋ pɩɛsɩŋ wɩaa, dɩ ŋ chaarɛ ba sɩaa pɩmɛ.",na jam piya samiya re'en cha raba siyafi,1.0,0.6471
+121,"Ʋ yie kɛnʋ dagɛ wombii-la kala ʋ sɩ cho dɩ ʋ to, a nagɛ lɩɩŋ sɩɩ to lɩɩ-libe ŋɩɩ.",O ye kɛnɛ daa wɛnbi la kala osiki odi woto. Anagɛlɛnsi to li le bɛngɛ,0.9474,0.4576
+122,"Wɩa sɩ yɩrɛma dɩ ma wuo jʋʋ ʋ kuorii-la tʋɔŋ ŋɩɩ, mɩɩ sʋlʋ dɩ ʋ wuo suri ma tʋɔŋ dɩ ma wuo jɩŋ kʋ-la ma sɩɩ yɩɛlʋ nagɩsɩŋ, a bɩra jɩŋ kɩalɩŋ ma dɩ Wɩa nɩaa kala sɩ jaŋ dii zɔmʋŋ.","Wia si jiamadi m'ewu oju okwori la tuo n'e, m'esolu d'owu suru m'atuo di m'ewu ji, k'ula m'asi ya li naksen, abura ji k'ialu m'a di wia n'ia kalu si ji ndi zọ m.",0.9756,0.4737
+123,"Rɛwɛl hambolibiisiŋ nɛ ŋaa: Nahaf, Zɛra, Sama arɩ Mɩza.",ham bol rahe hain na naaf Zara sama,1.0,0.5581
+124,Má sɩ́ ma TƖƖNA Wɩa magɩsʋ arɩ ma fa sɩ ŋaa ŋɩɩ lee-la ba sɩɩ yɩrɛ Masa lɛ.,"Masa matinavia marso, aramfasang'a ng'i lela, base yere masa",0.9444,0.4182
+125,Ŋɩɩ nɛ mɩ jɩŋ dɩ nuhuobiine mɩɩsɩŋ lɛ kʋŋkala tuo a kpɩa tʋɔtɔrʋŋ arɩ wʋzɔŋŋɔɔ ŋaanɩŋ.,"Nna m ejịghị obi na-eme ihe nsọ, lee kụọ nkà letuo akụa ntọala arụsị ọnọghị anahụ.",1.0,0.7286
+126,"Ama dɩ ŋ nandɔŋ fɩamɩŋ nɛ chaasa bʋl wɩaa chagɩlɩŋ,","Mada'in nan don fiyayyen halitta Chasa'bol, wuya chagalal.",1.0,0.6098
+127,Wʋbɔŋ ŋaara yie jegilee nɩɩ nɩbɔmʋŋ wʋbʋlʋŋ nɛ.,"wọpọ́ n'ará yí jẹ́glẹ́ nne, nùbá mọ́ wọpọ́",1.0,0.6923
+128,"Ba sɩ joŋ Jona yuo hɛ mʋgʋ-bal-la tʋɔŋ ŋɩɩ, La TƖƖNA leŋ chenfil-bal joŋ Jona liŋ, ʋ hɛ ʋ tʋɔŋ tapʋlaa batori, wɩɩhɛyɛ arɩ tɩtaŋɩŋ kala.","Basi jonjon na yu ohe mu gba laltuwan e, lati na len chem filibal jonjon elen ohe otuon tapu labe tori wehaye arata tanga kala.",0.9615,0.3942
+129,"Dɩ wɩaa nɛ jʋʋŋ, dɩ ŋɩɩ leŋ dɩ ŋ nandaasɩŋ yʋɔrɛ,",Do we have a job?,1.0,0.8649
+130,mɩ na dɩ wɩalɩŋ kala mɩ sɩ ŋaa bɩ bʋbʋɔŋ kɛnɛ.,"Muna dafe biyan kala, mutunga bibibuwanka",0.9091,0.6571
+131,"Dɩ ma nɛ kʋ hilimi a bʋl Wɩa wɩaa pɩpɩ dɔŋɔ, má yɩyɩɩ Wɩa yɩɩlaa a dɩdɛnnɛ Wɩa, a yɩɩ yɩɩla-la dɔnsʋŋ ma sɩɩ dagɛ Kirisito wɩaa. Má yɩɩ Wɩa yɩɩlaa a dɩdɛnnɛ La Tɩɩna Kirisito arɩ ma tʋɔŋ kala.","ma ya yi viye la adidani viya, aye yila la donsi masi daki Kristo viya, ma ya yi yila adidani latine Kristo, ara ma tuon kala",0.9,0.5743
+132,aŋ sɩsaa ʋ dɛlɛ tɩa nyuŋ dɩ-leŋii?,Acuña ojalá tiene un dile.,1.0,0.6538
+133,"Ba joŋ ʋ laalɩyuori kɩalɩŋ a bil ba vesiŋ dɩa lɛ, aŋ joŋ Sɔɔl nyuŋ sagɛ ba vene-la ba sɩɩ yɩrɛ Dagɔŋ dɩa lɛ.",,,
+134,"Nibi nɛ ŋaa Matanɩa arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.","Niveren'ga matania, ara oham bolibisin, ara una mbiren, bava nga si ara balia.",1.0,0.3871
+135,Ʋ maga dɩ ba laa gɛrɩ-la nʋhʋɔrʋ-la chɩmɩŋ,Maganar Allah gairar nan huwar la. Ce min,1.0,0.6061
+136,"Ama mɩ dɩ mɩ nɩaa nɛ kʋbɛɛba a magɛ dɩ la kɛŋ kɩaa kʋ ŋaa chɔgɩta pɩŋ la tɩtɩa tʋɔtɔrʋŋ lɛ. Ŋ nɛ tɩɩ kʋŋkala, kɩalɩŋ ŋ sɩ pɩla, ba nɛ la bɩra joŋo pɩŋ ŋɩɩ.","Amaa mede mmanyaa na kụọ beba, ama gịdịla kee nkịahụ kụọ ngá chọkọta pịm, lọtịta tụọ tụọrọ nle. Ị nịtị kụọ nkala kịalị nsịpụla banị labụrụ jụọ pịngị.",1.0,0.5431
+137,"Mɩ nɛ ma TƖƖNA, ma Wɩa sɩ bɩ disiniŋ kɛnɛ, mɩ nɛ ŋaa ma",Me ne ma ti na ma wie fɛfɛɛfɛ ne nkane. Me ne nga,0.9286,0.6
+138,"Má liisi wʋkpuŋkperisi-la arɩ wʋduoru-la ʋ sɩ ŋaa arɩ ŋɩɩ ʋ sɩ dii sarɩya ʋ bʋa lɛ,",mili isi ukwu nke siri ara udori la osi nga ara gi osi di siri ya obula,1.0,0.5
+139,"Ka dɩ ʋ-na suomo ŋaa dʋnɩa, ʋ to Kirisito lɛ nɛ a lɩɩsɛla, dɩ la kɛŋ tʋɔpʋla, a sɩ́ cheeri kala kɛŋ ʋ sɩpaaŋ. A tɩŋ Wɩa sɩ chola wɩaa,",ka do na swimming a duniya ote kirisene ale sala dile ka ntuo pola asike ri kala ken osupa atim Yesu chola bia,0.9,0.4898
+140,"Má zizil ma nyɩmmaba arɩ ma naamba, arɩ mɩ-na ma TƖƖNA Wɩa sɩ dagɛma ŋɩɩ. Dɩ mɩ leŋ dɩ ma mɩɩsɩŋ duomi, dɩ wɩaa vɛŋ woruŋ a pɩma tintee-la mɩ sɩ jaŋ joŋo pɩma lɛ.","mazi sil, ma nye m ba, a ram na amba. a ram na ma tị na bịa si daa ma gị. dị mịlị dị ma mịsị ndụọ mị, dị bịa zọ ngọrọ a pụma tịntịla mị sị gị anụ gị nọ pụma",1.0857,0.4754
+141,"Nɩalɩŋ kala sɩ laaʋ dii, ʋ yie nagɛ tɩa-la sɩɩ pɩ mɩɩsɩŋ nɛ ba teeŋ",Yala kala silaw di. O yai na kati Yala sai pemme sinna butte,0.9333,0.5098
+142,"Wʋtɩtɩɩ nɛ La TƖƖNA, Asiiria kuoroo chei nɩ-daŋ nɛ, ka ba tinteyee pɩŋ jikpeeŋ.","weta ya na latina, asiri kworo che na dan na ka batun taye pinjibe",1.0,0.4032
+143,"Ba biiri-la yie waa gɩrɩ-la tʋɔŋ a kɛŋ doluŋ,",Bebir le ye wa gela tro aken dolo,1.0,0.4706
+144,"ŋɩɩ deeŋ deeŋ a mʋ yi bʋa-la lɛ mɩ sɩ jaŋ kɛmma mʋ lee-la sɩ nagɛ ma tɩtɩa tinteeŋ, a kɛŋ mɩaa ma sɩ jaŋ kaa ŋaa kʋdiilee arɩ girep nɛnɛɛ ma sɩ jaŋ kaa chɔ sɩnɩŋ.’","Ndeende amuyi buolale massage anka maka mu lele sị na akụ matatieti nte. Aka m ya massage anka akụdile, a rigrepu nene massage anka chọsịrị.",0.973,0.5
+145,"Mara arɩ kʋbala nɛ ŋaa Hotii arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.","ara ara kụbalụ n'oge ochie, arị ụwa mbụ bịsịrị, arị ụwa mbịrị, bamafị arị balịrị.",1.0,0.5362
+146,"Kuoro sɩ bʋl wɩɩŋ deeŋ dɩdɛrɛ, dɩ ʋ tɩntɩnnaa guu tɔ Hamaŋ sɩaa.",Kwara si bulu uzo denye dere de otu ntanetị akwụkwọ ha mansia.,1.0,0.62
+147,Nasɔŋ nanʋala nɛ Salɩmɔŋ. Salɩmɔŋ ma nanʋala nɛ Bʋas.,Nna na nụala na Salemon Salemon mana nụala na,1.0,0.3953
+148,Baalaa deemba fa ŋaa Rafa doho nɩaa nɛ a hɔŋ Gaf lɛ. Ŋɩɩ nɛ ba jʋʋ Devit arɩ ʋ nɩaa nɩsɩŋ ba kpʋba.,Bala dimba fanga rafa duhu niane ahongafale ngini bajo. David ari uniane san bapu ba.,0.913,0.4267
+149,"Ʋ nɛ chagɛ dɩa-la kala bil ʋ kʋ ŋaa Wɩa dɩɩ-balɩŋ sɩ bɩ disiniŋ kɛnɛ, La Tɩɩna Yesu dɩa-la.","Onye chere di ya na akara akpili, okongwa ya di balan, si ya di soso nne ya kene. Lati na Jesu di",1.1579,0.6618
+150,"Ŋ jaŋ nagɛ nʋʋ sɩ pɩŋ lɩɩŋ daboro tʋɔŋ mʋgʋ-balɩŋ lɛ,",A jannakai na usapan lin da burutuwan mu gbalin,1.0,0.6098
+151,"peelee arɩ tɩa na-kala sɩ hɛ duuŋ lɛ má faasa yɩɩ yɩɩlaa,","Pele arati anakala, sahadunle mafasa yeyela",1.0,0.3409
+152,"Gɛdɔ, Ahio, Zɛkarɩya arɩ Mɩkɩlɔf.",አይሆንም ዘካርያስ አሬ ሚክሎስ,1.0,1.0
+153,"Samʋa, Sobab, Netaŋ arɩ Solomoŋ. Nɩaa deemba banɛsɛ naaŋ nɛ Bafɩsɛba, Amɩɛl tolo.","Amua suba Nathan, Ari Solomon, na ndị mbụ a na-asụ anọ na-afọ iri asaa. A mụrụ",1.2308,0.5625
+154,Má heele bʋl ʋ ballɩŋ wɩaa arɩ tɩntɩŋ-duoru-la ʋ sɩ tɩma a pɩ tinteyee nɩaa kala.,"Me hile bol, obanle ya are tintin duru la, otete me api tintin ye ni akala.",1.0,0.4286
+155,aŋ kɛŋ ma nyu-kpal duduosu-la puri ma nyusuŋ lɛ.,Anka meye pal de doual cela pour meye,1.0,0.6216
+156,"Dɩ wɩaa deemba kala nɛ ŋaa ma lɛ, dɩ hɛɛŋ jʋʋma, ʋ ŋɩɩ harɩŋ ma jaŋ mɩɩra kɔ ma TƖƖNA Wɩa teeŋ a sɛyʋ.",Ndi be anyi adighi makala na ihe amere di ha njo uma. Onye ihara maja mmiri ka omatinehi etu asaa,1.0,0.6579
+157,"Bʋa-la lɛ, La TƖƖNA leŋe mɩ dagɛma wombie-la arɩ wɩalɩŋ ma sɩ jaŋ tuto nɛ dɩ ma nɛ chol Jɔdaŋ fuo-la a jʋʋ tintee-la ʋ sɩ jaŋ joŋo pɩma dɩ ma tɩɩʋ.",,,
+158,Ba nɛ ŋaa nɩkaana-la mɩ-na ma TƖƖNA sɩ lɩɩsa.,vananga nikanala manamathina silaisa,1.0,0.3529
+159,"Dɩ ma nɛ na baanɩŋ, má sɩ́ leŋe dɩ ma baaŋ-la leŋ dɩ ma ŋaa wʋbɔŋ. Má sɩ́ baanɩŋ na ŋɩɩ dɩ wɩa tuu jʋʋ.","Ndi ma nna ba nu, mụ sị na ndi ma ba nụlụ nu, ndi mụ na ha bụbọọ. Mụ sị ba nu nụ ngị, ndewo tuju.",0.96,0.589
+160,"Laalɩyuoro-la yɩraa nɛ ŋ-la a chɩŋ ba nɩhɩaŋ a kaa tuu kʋbie: Ɛza, Obadaaya, Ɛlɩab,",laliiure layyaane enna achen banhiyaan akaatu kubiye esa obadaya eliya,1.0,0.4444
+161,"Ŋɩɩ wɩaa, má pɔ ma tɩtɩa lɛ arɩ ma wʋŋaalaa lɛ. Má sɩ́ nɩyaaraa nagʋ. Má ŋaa wɩaa a nagɛ nɩalɩŋ sɩ kɛŋ wʋjɩmɩŋ.","Nye bia mụọ kwa m asụsụ Igbo a, a na m awụgharị ala. M asị na ya raa nnagụ. M ga-awụgharị ala ka m nwee ike ịma",1.125,0.6988
+162,"Ŋɩɩ wɩaa, má bɩra sɩ́ wɩaa nyɩnyɩa. Má leŋ dɩ nʋʋkala bʋl wʋtɩtɩɩ a pɩ ʋ dɔŋɔ tɩɩna, bɛɛ wɩaa la kala nagɛ nandaasɩŋ nɛ a kʋ mɛrɛ dɔŋɔ lɛ a ŋaa kʋbala.","Nne bia, m bia ebe a taa nyinwa, m ele ndu n'ukala buru nwete afa udoka Chineke. Biko bia lakara naki na ndase nne akomiri dongole, ana akobala",1.0,0.5614
+163,Nafɩtalɩ nɩaa ma fa ŋaa laalɩyuori-hɩasɩŋ bʋɩ nɛ a pɛ laalɩyuoroo bʋɩ mara arɩ fii arɩ balɩpɛ sɩ kori hɔɔtaalɩŋ ba sɩ kaa kɛrɛɛ laa bayuori hɛŋŋɛɛ arɩ tiŋŋee lɛ.,Naftali nyaa ma faŋa laalu yori hya san buye na. A pe laalu yoro buye mara a refi a rwal pe. Sikori o taaliŋ basika kare la. Ba yori haŋe a ritiŋe.,1.0,0.3615
+164,Sʋbaɩl fa ŋaa Mosis nanʋala Gesom doho nʋʋ nɛ. Ʋ nɛ fa ŋaa tɩntɩnnɩ-hɩaŋ-la sɩɩ beŋ Wɩa dɩɩ-bal-la dʋa.,Subaal. Fanga moosista nuula gosum duhunooni. Ona fanga tintin hiyanla siibing. Yaade balla,1.0,0.481
+165,"Mɩ jaŋ wuo ŋaa wɩɩkala, ama ba kala bɩ jaŋ wuo pɛ mɩ lɛ. Ba kala bɩ jaŋ wuo ŋaa dɩ mɩ waa Wɩa wɩaa lɛ.","Mụ je nwee ngawụ ịkala, a ma m na kala bụ ji m nwee pemele. Bakala bụ ji m nwee ngawụ a, di m wa awụ ya awụala.",1.0385,0.5135
+166,"Kʋbɛɛ nɛ jaŋ wuo tɔ lɩɩ-nɛŋ sɩaa aŋ kɛnʋ,",Kọwe na njikọ tọle nansi a.,1.0,0.7742
+167,"Huu nanʋala nɛ Uri, Uri ma nanʋala nɛ Bɛzalɛl.","U na nụ ala nị ụrị, ụrị ma nụ ala nị bẹ Zala",1.3333,0.4167
+168,Hajaaŋkuŋkumba arɩ gɩlɩŋgaamba dʋndʋŋa nɛ jaŋ hɛ tintee-la lɛ.,"Hajja Kunkumba, a rigali ga amba dundungane, janhetin tela",1.0,0.3269
+169,Mɛsɛlɛmɩa nanʋala Zɛkarɩya ma nɛ faa pɔ lɛbɩ-la lɛ La TƖƖNA sɩ yie kɔ Iziral tɩŋŋaa teeŋ boi-baalɩŋ.,"Masallami ya na nwala Zakariya, mani fafo lewla le lati na yi koyi a tin'a te mboyin ba Allah.",1.0556,0.475
+170,"Ʋ ŋɩɩ harɩŋ nɛ bʋa kʋbala lɛ kuoro Zɛzɛs baanɩŋ fɩɛlɛ, ka ʋ ha kɛŋ wɩɩ-la ʋ habidiire Vasiti sɩ ŋaa arɩ nii-la ʋ-na kuoro sɩ bile a tɩgɛ ʋ lɛ wɩaa bɩbɩɩnɛ.","Onye hụrụ na ọ bu akụba lere koro zọọzị baa n'ime ya lee. Ka ọha kenweela, ọha bidoro visitịsị ncha, arịrịọ niile ọ na-kọrọ si bile atake ọ lewịa be be.",0.9697,0.5339
+171,"Má yɩɩ yɩɩlaa a dɛnnɛ La TƖƖNA, má bʋl wʋkpuŋkperisi-la kala ʋ sɩ ŋaa a pɩ nɩaa.","Maa yaa yaala adanla siina, m'abọọlụ ụmụ nkwere si na ka laa ụsịngaa apị ụnyaahụ.",1.0,0.541
+172,"Nowa hambolibiisiŋ nɛ ŋ-la: Sɛm, Ham arɩ Jafɛf.",Sam Ham,0.875,0.8333
+173,"Ama ŋ-na Mosis, hɛ mɩ teeŋ daha, dɩ mɩ dagɩŋ mɩ wombiee arɩ mɩ niiriŋ ŋ sɩ jaŋ kaa mʋ a dagɛba dɩ ba tutoba tintee-la lɛ mɩ sɩ jaŋ joŋo pɩba dɩ ʋ ŋaa ba kʋŋ.”","Ama n'emosis, ha metere ha dika mgbewiembiere a re minirin suja nka mu a dagba diba tutoba tinte lale suja jonwa foba do onwa abako.",0.9189,0.4138
+174,"Ŋɩɩ nɛ Azaaya ma laa bʋl, “Wɩɩ-la La TƖƖNA sɩ jaŋ joŋo dagɛ arɩ ʋ jaŋ ŋaa wɩalɩŋ ʋ sɩ bʋla nɛ ŋ-la:",Ngị na-aza ya malabụl. Wee laa tinye na-esighị nri dake. Arịọ m ya na-arịọ ya na ọ sọbụla n'elu.,1.0,0.6111
+175,"ŋɩɩ wɩaa mɩ jaŋ fɩɛlɛ mɩ sɩaa mɩ mɩɩsɩŋ kala lɛ,",,,
+176,a chɛ saarɩ-gɔgɔ ʋ saa tɔmʋŋ ʋ joŋo bil,"Acha saro gọkọ, ọsa tọmụ ụjọ gị",1.0,0.6
+177,Ʋ nɛ jaŋ tɩɩ Galilii mʋgʋ-bal-la wɩɩpɔsʋŋ nadiiŋ dɩɩrɩŋ tinteeŋ.”,Wona janti gelili mogo bala weh posin ne di di rentin te,1.2,0.4808
+178,"Kʋbɛɛ nɛ yie leŋ duonuŋ nɩɩ tinteeŋ lee-la nʋʋkala sɩ tuo,","Kowane yelendu ne ne, tun ta lela no kala su",1.0,0.4783
+179,a nɩɩ laalɩyuori-hɩasɩŋ ma sɩɩ ŋaa laalɩyuori goŋ.,"Ani lali yoro hiasamma, seena lali yoro go",1.0,0.439
+180,aŋ kɛŋ gɛrɩpɛ fʋfʋlʋŋ arɩ gɛrɩpɛ-vachalɩŋ a yɛrɛ,"Anya anya eruo afọ ụlọ, arịrịọ afọ ịcha ala. Anyị ga-",1.375,0.8
+181,"Wɩɩ-la mɩ sɩ nɩa nɛ ŋ-la: Ma dɔŋɔ yie bʋl dɩ ʋʋ to Pɔɔl harɩŋ nɛ, ka dɔŋɔ ma sɩ dɩ ʋʋ to Apɔlɔs harɩŋ nɛ. Dɔŋɔ ma sɩ ʋʋ to Pɩɩta harɩŋ nɛ, ka dɔŋɔ ma sɩ ʋʋ to Kirisito harɩŋ nɛ.",nke doro anyi gbara lara mana anyi biara maka ya. Ma bu je ariri bongos bu je wuchu wuchu ya kowiri la tuo. Ma si ma titi anyi so,0.9535,0.8438
+182,"Mɩ bɩra bɩɩnɛ mɩ tʋɔŋ lɛ, “Wɩa ka magɩsɛ nuhuobiinee dɩ ʋ dagɛ arɩ ba ma nagɛ pʋsʋŋ nɛ.",Mepra be na me twa nle. Wia ka m'akyi na obi ne doo dake are. Baba ndake poson,0.9474,0.5152
+183,"aŋ bʋl, “Mɩ yaraa lɩma nɛ, nyiniŋ zɔmɔ.”",am bol ma yara aloma ne,1.0,0.5357
+184,aŋ vɩa dɩ ʋ pɩɛsɛ La TƖƖNA. Ŋɩɩ nɛ La TƖƖNA kpʋʋ aŋ joŋ ʋ kuoruŋ pɩ Jesi nanʋala Devit.,"Anya di ọpias Latina, ngị na Latina kọ, anyị jọọ ụlọọrụ mpee, jị sị na nụọla, David.",1.0,0.5606
+185,"Devit laalɩyuori babiibalaa arɩ Iziral tɩŋŋaa kala nɛ leŋe ʋ kuoruŋ dol dɩ ʋ wuo bibeŋ tintee-la kala, arɩ La TƖƖNA sɩ bʋl ŋɩɩ.",David lallai yaron bibi bala David lallai yaron bibi bala ari izatun ya kalanni leni ukurun dul du'uwo bibin tin tela kala Allah tina si bulin,1.0833,0.5941
+186,"Ba kala tʋɔŋ tɔrɛ wɩɩ-la lɛ, ba sɛɩ.",Bacalaureatul are vineri la bază,1.0,0.7308
+187,"Dɩ losuŋ nɛ kɛŋ ma dɔŋɔ, ʋ maga dɩ ʋ dii kɩaa ʋ dɩa lɛ nɛ aŋ-na kɔ. Dɩ ma nɛ ŋaa ŋɩɩ aŋ hilimi, Wɩa bɩ jaŋ joŋ cheeriŋ pɩma. Wʋkaanala-na, dɩ mɩ nɛ kɔ, mɩ jaŋ dagɛma ba wombiiŋ.","Relief na ke m ma dọrọ, ọ mara dị udị ịkya ọ dịalụ na nnako. Dị ma na ngị a hịlị m bịa be je njoncho ịrị mụ pụma. We ka na la na dị mụ nọ ka mụ ja daka ma ba we mbịị.",1.0488,0.4922
+188,Nʋʋ sɩ lɩɩ wɩɩpɔsʋŋ dɩɩrɩŋ a kɛŋ mɩ yɩrɩŋ tɩtɩŋ nɛ mɩ lɩɩsɛ.,Noo sali we pasen deera ak am yaram tetteen malee,1.0,0.6383
+189,"Dɩ ŋ nɛ joŋ chɩba dɔgɩsɛ ŋ bie, ʋ bɩ jaŋ sʋʋ.",Ɛnneɛ gyae Chibado so na mpie. Ɔbɛgya so.,1.0,0.7188
+190,Ʋ nɛ ha mʋ kɛŋ Jɔdaŋ fuo-la wɩɩpɔsʋŋ dɩɩrɩŋ a mʋ yi Mʋgʋ-sʋʋŋ a kaa mʋ Pisiga peel-la lee-la sɩ chullo tuu.,na ha mụ ka jọọ ndị mmụọ laa wee fọdụ ndị ọzọ a mụrụ ọhụrụ a ka mụ pịsịgatụ pịrị laa leela si chụọ nla otu,1.0909,0.6543
+191,"Soma ma hambolibiisiŋ nɛ: Ahi, Roga, Huba arɩ Aram.","सोमा, मां हम बोली फिरना है, यही रोगा, हुबा, अरे आराम",1.2222,1.0
+192,"Nɩalɩŋ sɩ jɩŋ wɩaa sɩaa, ʋ nagɛ lɩɩ-bul-sɩɩŋ sɩɩ pɩ nɩaa mɩɩsɩŋ nɛ ba teeŋ.",Ya lasikiyan ya siya. Wannan kalmar burusin sefe niya mai sanna batin.,1.0,0.7018
+193,"Ŋɩɩ wɩaa, má hɛ doluŋ aŋ to wɩalɩŋ kala ma TƖƖNA Wɩa sɩ dagɛma, má sɩ́ begilu.","Névia, méh dolong antou yalon kala mati na vié sidagma. Masi bégué",0.9412,0.4828
+194,a nagɛ laalɩyuori babii-balɩŋ sɩ kɛŋ ʋ tɩtɩa hɛ dɔŋɔ dɩ ʋ yuo laalɩŋ.,Anaral yuure be bi balansekai otociye hedo do oyu lala.,1.0,0.5556
+195,"Kenas, Tɛmaŋ, Mibizaa,","Kina, tamam.",1.0,0.5882
+196,"ʋ hɛyɛ, ʋ nɛ yuŋŋie a kɩɩ yaraa kpɩɛrɩ kala yalɩŋ sɩ hɛyɛ.","Oheya, onye iju nye, a ka i ga-ara akwa iri kala ya na nse ya.",1.0769,0.5909
+197,"La TƖƖNA, ŋ nɛ Wɩa. Ŋ hɛ niiŋ arɩ ŋ jaŋ ŋaa wʋzɔŋŋɔɔ deemba nɛ a pɩ mɩ-na ŋ tɩntɩnna.",naa cheena enniya enheneen ari enjangaa gujongo gimbane ape mana entintina,1.0,0.6452
+198,"Má kɔ dɩ ma dɩ mɩ nɩhɩaŋ sɩ ŋaa Asiiria kuoro bʋla nɩɩ dɔŋɔ lɛ. Mɩ jaŋ joŋ janɩŋ bʋɩ balɩa a pɩma, dɩ ma nɛ jaŋ wuo na nɩaa dɩ ba jɩlba.","maka dịka m dị n'ihe dị ka afọ iri kworo bụla na-edo nwanyị, m jere njem njem na mgbe ịbalị a atọma. Dịka m ji ngwo na na-adịba jịlị",0.9394,0.5941
+199,"Nɩɩ-la ma kala sɩ jegile nɩɩ ʋ teeŋ, ba jaŋ cheyu a",neema kalasi jekelen ne wute bajanceyu,1.0,0.4211
+200,Nɩɩ-la kala sɩ cho sɩnɩŋ arɩ nii-sɩŋ kɩaa kɩŋkɛŋ bɩ,ne la ka la si ce wosanang ari ni sunki hakan kayan,1.2,0.525
+201,"Ŋɩɩ wɩaa, chɛ wʋjɩmɩŋ. Dɩ ŋ nɛ kɛŋ wʋjɩmɩŋ, ʋ kɛŋ chie nɛ,","New Year, chawu jimin. Dannukan wujimin, wukan ciye",1.0,0.6667
+202,"Ŋɩɩ nɛ Hezikaaya kɛŋ ʋ sɩaa bɩrɩma chaasɛ jeeŋ aŋ sʋl La TƖƖNA,",Nga na zaka yakan ushiya birma cha su je an sallati,1.0,0.52
+203,Ʋ maga dɩ ma gʋnnɛ wɩalɩŋ ma sɩ jaŋ ŋaa dɩ La Tɩɩna Yesu tʋɔŋ tɔrɛ nɛ.,"Omaara dema gonne wiyala masi janga, de lati ne Yesu tuwan tori",0.9412,0.4906
+204,Juda doho laalɩyuoroo fa ŋaa bʋɩ balɩdʋ arɩ zɔlɔ chori nɛ a kori ba hɔɔtaalɩ-la ba sɩ kaa kɛrɛɛ laa bayuori hɛŋŋɛɛ arɩ tiŋŋee.,"Jude Duhu Nyalali, iro fang'a boyi malit, azisolo churi ne okori bohot alila bazika karela boyi ur hange aritinge",1.0,0.5149
+205,"Ba fa sɩɩ chɛ yaŋ dɩ ba pɩ ba pʋsʋŋ, ba vɛŋ ŋɩɩ nɛ mʋ yi fuonaa-la wɩɩpɔsʋŋ dɩɩrɩŋ, taŋ-la ba sɩɩ yɩrɛ Gɛdɔ.","Ndi be anyi, ekele m unu o. Ka odi.",1.0,0.8875
+206,"ba jaŋ kpʋba laalɩŋ lɛ, dɩ ba sʋʋ nɩyaarɛ sʋʋ.","Ba za mu ƙwaba la'ilin ba, da ba so na yara su",1.0,0.5429
+207,"Uzia sɩ ŋaa Asɩtɛraf tɩɩna, Sama arɩ Jɛyɛl, ba nyɩmma nɛ Hotam sɩ ŋaa Arʋa tɩɩna,",,,
+208,"“Má kɛŋ wombiiŋ dɩ ma pɩɛsɛmɛ wɩalɩŋ maachie sɩ jaŋ ŋaa,","Mɛ kɛŋ wɛn biŋ, dimapiɛsɛ mɛ wɛyɛlɛ mɛ aciɛsɛ jaŋa.",0.9091,0.3864
+209,"Mɩ jaŋ joŋ Ijipiti tɩŋŋaa arɩ tasɩ-la ba sɩɩ yɩrɛ Kus arɩ Sɛba, time laama ta.",Me jéé njó wé jéé bítanga à rà tà sàlàbà sé yéé ré kùùs à rà sàbà timéé là à matà,1.3125,0.6333
+210,"Dol-la tɩtɩa nɛ ʋ kaa chɩsɛ Kirisito sʋʋŋ lɛ a leŋ ʋ hɔŋ ʋ nadiiŋ Wɩa-jaŋ lɛ, nɩduoŋ dɩhɔnʋŋ.","Duu lasitiyane o ka chisikisosu nle, eleng oho unu di wuya ja nle na duu ndohonu.",1.0,0.5634
+211,"Nuhuobiine yaraa ŋaa kʋbala nɛ, ama ʋ nandaasɩŋ yʋga nɛ. La yaraa nandaasɩŋ sɩ yʋga ŋɩɩ, ba kala pɛ dɔŋɔ lɛ nɛ a ŋaa yarɩ-bala. Ŋɩɩ tɩtɩa nɛ Kirisito ma nagɛ.",Ndi nwe obi na yara m akuko bala na ama ulo ndasi yoga na le yara na ndasi si yoga ni bakala fa dongala na anga yara bala. Ngi tetie na Kristo mana,1.0645,0.4344
+212,"La Tɩɩna bɩ cho dɩ ba gʋrɛ nʋʋkala kɩaa yallɩŋ lɛ,",Lati na be cho da ba gorno kala ki ayalan,0.8182,0.3846
+213,"Mɩ jaŋ ŋaa ʋ nyɩmma, dɩ ʋ ma ŋaa mɩ bie. Mɩ chonuŋ bɩ jaŋ kɔ dɩ ʋ dɛrɛ ʋ teeŋ, arɩ ʋ sɩ dɛrɛ Sɔɔl teeŋ ŋɩɩ.",Me janga onyam ma du'oma me bie. Me chono be janko du'o dare uteng are uteng dare sol tengi.,0.9286,0.5263
+214,"Dɩ mɩ nɛ lɔllɛ Wɩa aŋ-na dii kʋdiil-na kala, ɛɛ nɛ saa nʋʋ dɔŋ jaŋ wuo bʋl arɩ mɩ cheye nɛ a tɩŋ kʋdiile-la mɩ sɩ die wɩaa?","de m'en aller via, année de deal na kala, et ne sera nous donne je vous vole, arme chez elle, a tenu de la musique via.",0.9286,0.6154
+215,"Ŋɩɩ nɛ ʋ haala arɩ ʋ nandɔsʋ-la sɩ dagʋ bʋla pʋ, “Dɩ Modikaaya nɛ ŋaa Juu tɩɩna, ŋ wʋwalɩmaa dɩ-suomuŋ nɛ ŋ-la, ŋ lɛlɛ nɛ.”","Nne na ohala, a na m ano ndu siri ike ubosi taa. Di m di ka ya na nwa aju tinye na m wu nwanyi di so m nna m la. M lele",1.32,0.6222
+216,ŋɩɩ tɩtɩa nɛ ʋ bɩ maga dɩ ŋ chɩchɛ dɩ ba ziziliŋ kɩŋkɛŋ.,Ihe di mkpa na obim maka di ncheche di bazizili nke nke.,1.0,0.5349
+217,"La kala ŋaa kʋbala nɛ a tɩŋ Kirisito wɩaa. Wɩa Dɩŋ-zɔŋ-la sɩ hɛ la lɛ, ma ŋaa kʋbala nɛ. Wɩa sɩ yɩrɛla ŋɩɩ, la kala ka yɩɛlɛ wʋbala nɛ.",la ka la nga akobale na a ti increase ebia wea den so le si hele le ma nga akobale na wea si yiri la ngi la ka la ka yiale we bale na,1.0,0.46
+218,Ŋɩɩ nɛ Netaŋ bʋl wɩalɩŋ kala Wɩa sɩ joŋo dagʋ a pɩ Devit.,N'ime ụlọ ụka anyị sị jụọ daka apị David.,1.0,0.6591
+219,"Sɩ́ nɩalɩŋ sɩ bɩ ba tɩtɩa lɛ wuo pɛ gʋrʋ sarɩya dɩ-diiliŋ,",Sannu ya'an su Baba Talle wope goro sarya da dealing.,1.0,0.5455
+220,"Mɩ nanʋala, La TƖƖNA jaŋ hɛ ŋ teeŋ, dɩ wɩaa vɛŋ woruŋ a pɩŋ, dɩ ŋ saa ŋ TƖƖNA Wɩa dɩa arɩ ʋ sɩ sɩ ʋ jaŋ leŋ dɩ ŋ ŋaa ŋɩɩ.",,,
+221,"Kuoro Zɛzɛs sɩ dii kuoruŋ ʋ jɩsɩŋ balɩpɛ lɛ nɛ, ba kɛŋ Ɛsɩta jʋʋ pʋ ʋ kuoru dɩa lɛ. Chɛŋ-fii-la ba sɩɩ yɩrɛ Tɛbɛf tʋɔŋ.","Kụọla jazz, sị dịkwa ọrụ, o jesimbalụ pele nụ. Bịa ka Esther ji ụpụ, ụkụrụ dịalụ. Chee n'ịla, basị eyere tabefụ tọọnụ.",1.0,0.6333
+222,Nɩɩ-la kala sɩ ŋaa ʋ baanɩŋ sii jaŋ ŋaa chalɩŋ ta ʋ bɔyɛ.,ne la kalasinga obaninsi yan kalanta,1.0,0.5581
+223,Ʋzɩɛl hambolibiisiŋ nɛ: Mɩka ʋ bii-hɩaŋ arɩ Ɩsɩa ʋ bii-lɩa.,"Iya, saya boleh izin ke Mekah. Ubi hian, areh isiya ubi",1.1,0.6522
+224,nii-la ʋ sɩ bile ʋ dɩ Abɩraham arɩ Aɩzɩk pɛgɛ.,نیلا اس سے پہلے اور ابراہم اور ازک,1.0,1.0
+225,"Dɩ ma TƖƖNA Wɩa nɛ yuo kiri nɩalɩŋ, má sɩ́ bɩɩna arɩ ma sɩ ŋaa tʋɔpʋl tɩmma nɛ tɩɩ ʋ joŋ tinteeŋ deeŋ pɩma. Ama nɩalɩŋ tʋɔbɔmʋŋ nɛ tɩɩ La TƖƖNA chɩchɛ dɩ ʋ kiriba ta tintee-la lɛ.","Chematil na biyen yu okirini yalon, masibeyin ar masin atupul timaneti, ujontintei ndei mpima. Aman yalon tuobomnitei, latil na chichedu okiriba tatintei lale.",1.0,0.4161
+226,"Mɩ na dɩ wɩalɩŋ kala ba sɩɩ ŋaa dʋnɩa lɛ bɩ bʋbʋɔ kɛnɛ, ba nagɛ nʋʋ sɩɩ kiri peliŋ nɛ.",Mmadu adighi uyan kala ba si ya na duniya le be bu buo kene ba na nu si kripeli,0.9,0.5538
+227,"Má leŋ dɩ ba bʋl, “La TƖƖNA, laa sʋlʋŋ, joŋo chɛ ŋ nɩaa.","M'alente pa boul, la tèna la solon jongcha nnia.",0.9231,0.4615
+228,"ʋ nagɛ ŋ sɩ joŋ toŋguluŋ a ŋmobu nɛ, koo ŋ sɩ joŋ tokobiiŋ koo to-hɛmɩŋ sɩ kɛŋ niiŋ woruŋ a tɔbʋ.",nna kee nsogbu tongulun a mabu unu? kee nsogbu toko bin? kee heman si kee ni nwuru atoba?,0.9545,0.5479
+229,"Ahɩmaas ma nanʋala nɛ Azarɩa, Azarɩa ma nanʋala nɛ Johanaŋ,",आदरणीय मदन न्यौपाने जोहानम,1.0,1.0
+230,"Ʋ sɩ ŋaa la kala nyuŋ ŋɩɩ, dɩ nandaasɩ-la kala nɛ mɛrɛ dɔŋɔ lɛ a tɩtɩŋ ba tɩntɩŋŋaa woruŋ, yara-la jaŋ waa a tɩŋ ba sɩ cho dɔŋɔ.",musa ngala kala nyunge dana ndasila kala nimeri dongole achi timba tincha weru yala jangwa atin basicho dongole,0.9286,0.4896
+231,"Devit sɩ na dɩ La TƖƖNA laa ʋ Wɩɩsʋlʋŋ nɛ Araʋna Jebus tɩɩna-la taha lɛ, ʋ bɩra kpʋ pʋsʋŋ a ŋaa Wɩɩsʋlʋŋ nɩmɛ.",debe sị na e liri ya na Awkuzu na-adịghị anya jebu tinye na tahale obodo Akpuuson na Awkuzu,0.9565,0.6588
+232,"Kirisito sɩ sʋʋ daagɛsɛ nyuŋ ŋɩɩ, ʋ leŋe ba dʋndɔnnʋ-la dɛrɛ nɛ. Ʋ sɩ ŋaa ŋɩɩ, ʋ leŋe ba kala balɩa to ʋ lɛ nɛ a ŋaa kʋbala, ʋ kɛŋ ba dɩ Wɩa hɛ dɔŋɔ lɛ ba sɩŋ.",Kedu ihe mere o ji soo daa? O sị na ya bụ nwoke ole na ole bido ndụ nọọla dara na ya. Ọ sị na ya bụ nwoke bakara baa na etu ole na ole a na-akọbala. Ụka mbàrị bụ ya bụ ihe doro ya basam.,1.2105,0.7241
+233,"Dɩ dɩmɩŋ nɛ dɩmɩŋ, ka dɩ ŋ-na ŋaa dɩ ʋ bugumi,",da daman daman ka dai in na ga dubu ku,0.9091,0.5758
+234,"Wɩa Dɩŋ-zɔmʋŋ yie ŋaa nʋʋ dɔŋ ma kɛŋ laa diiniŋ, ka dɔŋɔ ma kɛŋ doluŋ a ma wuo vɩvaarɛ nɩaa,","Bia nu, zụọ mụ ihe a nọrọ m aka na di ni. Ka m dọrọ m aka dolo, a ma wee baara ya.",1.0,0.5857
+235,"Sɛla dɩa nɩalɩŋ ma sɩ mɩɩra kɔ nɛ: Asaaya, ʋ hambolibii-hɩaŋ arɩ ʋ hambolibiisiŋ.","Chala, diyan yala mase mera ko ne azaya, ohan bulbi hiyan arai ohan bulbi",1.0,0.5156
+236,Mɩ yaraa kala nɛ tɔ arɩ nanchʋɔlaa arɩ chalɩŋ sɩ hɩla.,mayara kalana to arinancola aricalan sahal,1.0,0.3721
+237,a kɛrʋ kɩɩ a nagɛ ba sɩ kɛŋ doloo arɩ borusuŋ kɛrɛ kʋa.,"A karauke, ana ba sakandare aribon sun kara kuwa.",0.8462,0.5238
+238,"Gizoŋ tɩŋŋaa Hasɛm hambolibiisiŋ, Sagi nanʋala Jonataŋ sɩ ŋaa Hara tɩɩna.","Guzon, Tenga ha Sam, Mbulu Biting, Sagi, Nanwala Jonathan, Sanga Haratine",1.0,0.3934
+239,"La TƖƖNA fa na baanɩŋ nɛ woruŋ Arɔŋ ma nyuŋ bʋa-la lɛ, a chɩchɛ dɩ ʋ kpʋʋ. Ŋɩɩ nɛ mɩ sʋla laa ʋ ma.",Lota ihe na-afanaba n'ụlọ arụmọrụ buala na achịcha dị oké ọnụ. Ngị na m sụlala,1.0,0.6111
+240,"Ma tɩtɩa na wɩalɩŋ kala La TƖƖNA sɩ ŋaa nɛ peel-la ba sɩɩ yɩrɛ Pio lɛ. Ma tʋɔŋ, ʋ fa kpʋ nɩalɩŋ kala sɩ kpaarɛ vene-la ba sɩɩ yɩrɛ Baal, a hɛ Pio lɛ nɛ.","Mata Tiana, wialen Latina singaane pe laba se yere tie ule. Matuong ofako nialen kala sikpaari veni laba se yere baal, ehe tie ule",0.9429,0.4464
+241,"nɩalɩŋ sɩ yie bʋl wɩalɩŋ maachie sɩ jaŋ ŋaa a pɩpɩŋ chɛnɛ na-kala,","Nyaleng siye bolo, nyaleng machiye sejang na apapang. Chara naka",1.0,0.5385
+242,"Hɛbʋrɔŋ ma doho nɩaa tʋɔŋ, Ɛlɩɛl nɛ ŋaa ba sɩpaalaara a pɛ ʋ naambiiriŋ mahɩŋ banɛsɛ lɛ.","Hebrew, ma dịghịrị ya mfe ma ọlị, afọ ole na ole mbụ mụ na mgbasa ozi",0.9412,0.7714
+243,"Ma TƖƖNA Wɩa nagɛ nyiŋgeliŋ sɩɩ belimi kɩaa nɛ, ʋ bɩ hadɔrʋŋ ka chɛ.",machi na we nare ngelensi belu maki ane obodo ha doro,1.0,0.5849
+244,"Ula hambolibiisiŋ nɛ: Ara, Hanɩɛl arɩ Rɩzɩa.","Hula, ¿cómo vives en Arahal? Are you",1.0,0.5714
+245,"Ladaŋ fa ŋaa Gɛsɔŋ nyɩŋ-nʋʋ nɛ, ʋ nanʋala nɛ Jɛhɩɛlɩ. Ladaŋ doho nɩaa fa yʋga nɛ a ŋaa sɩpaalaaraa ba nyɩŋ-nɩaa tʋɔŋ.","Laden faŋa kuɛ̈th nyuun ne, ona nɔŋ alɛ̈ne jɛ̈h yali. Laden duhuun ya fayukane aŋaasipa alara ba nyiatuɔŋ",0.9545,0.4286
+246,"dɩ ŋ dɩgɩlaa tɔ a bɩra bɩ goŋ ba sɩɩ ŋaa wombiiŋ lɛ ka nɩɩ,","Ndi gị laa taa, abalị ụbọchị ụka niile ka na-e.",0.9333,0.6136
+247,"Wɩa fa bɩ leŋe nʋʋkala jɩŋ wɩaa deemba, ama lɛɛlɛ ʋ to ʋ Dɩŋ-zɔmʋŋ lɛ nɛ a joŋ wɩalɩŋ dagɛ ʋ nanzɔɔba-la sɩ kɛŋ tʋɔpʋla arɩ ʋ wʋlaabʋllaa.","ya fa bille ga no kala jan wuya di mba, amalele uto odunso m'lene ajo wuyale ndaka una nso bala siken tuopula ari owula bula",0.9643,0.4766
+248,Wʋbala nɛ summo arɩ nɩɩ-la sɩɩ dɔgɩsʋ kala kaa magɛ dɔŋɔ:,"O balanai sumu, arila se dɔsɔ kala ka makɔnɔ.",0.9091,0.4444
+249,"Ʋ luoruŋ teniŋ paala kɛŋ niiŋ a nagɛ kenchele nɛ,",Ulluuren cenempaala kenniin anake kencelena,1.0,0.3846
+250,"Ba kpʋ Pasandata ma nɛ, Dalɩfɔŋ arɩ Asɩpata.","Bappo, passan data mane. Delifa are asipata",1.0,0.2857
+251,"Ŋɩɩ wɩaa, má joŋ ma nyuŋ kala hɛ sɩɩfɩaŋ kɩalɩŋ Wɩa Dɩŋ-zɔŋ-la sɩ joŋo dii zile ma lɛ. Mɩ jaŋ dagɛma wombii-la sɩ kɩɩ wombiee kala dɩ ma tuto.","Nnebia, mụ na ụmụ nne mụ ka na-esighị ike, karịsịa onye ga-enye anyị nri sị anyị rie malụ. Mụ na nwanne m nwanyị na-esighị ike karịsịa nri.",1.0,0.8148
+252,"Má leŋ dɩ la chɛ wɩɩ, dɩ ŋɩɩ dee ba jaŋ pʋŋa kieli, dɩ laalɩŋ nɛ maachie kʋ sii, ba jaŋ pɛ la dʋndɔŋŋɔɔ lɛ dɩ ba yuo diila aŋ fá.”","Mee le ndela chaa wee, ndi ngidi bajam pu nga kiele. Delaa le nne ma chee kusi, bajam pala di ndongole di be yoo di la am.",1.0,0.4632
+253,"Wɩɩsʋllɩ sɩpaalaaraa ma sɩ mɩɩra kɔ nɛ: Jedaaya, Jehoyarib, Jakɩŋ,",Kita nak sepaara masa mera kone jedaya johari jakin,1.0,0.4717
+254,"Dɩ kuoro nɛ tuo ka dɩ nʋʋ dii kuoruŋ ʋ nyuŋ lɛ,",du koro na tuo ka dano di korin,0.8333,0.4571
+255,"Ŋɩɩ nɛ kuoru-falɩɩ kʋ dii kuoruŋ Ijipiti tinteeŋ lɛ, ʋ bɩ Josɛf wɩaa jɩŋ.","Nyan kuur fale ku dii kuur in Egyptin tayla, obe Joseph wiaaj.",0.9286,0.5263
+256,"Ama nɩalɩŋ sɩ chomi a tuto mɩ niiriŋ, mɩ jaŋ dagɛ mɩ chonuŋ a pɩba arɩ ba doho doho bʋɩba sɩ jaŋ to ba harɩŋ kɔ.","Aman ya len su chomi, atuto miniren, majan dake, machonon apiba, aribe doho doho boyiba su janto baharon",0.9231,0.3176
+257,"Má jɩŋ arɩ ma fa ŋaa yosi nɛ Ijipiti tinteeŋ lɛ, mɩ-na ma TƖƖNA Wɩa kɛŋ mɩ doluŋ a kɛmma kaa kʋ lɩɩ. Ŋɩɩ nɛ tɩɩ mɩ-na ma TƖƖNA bʋla pɩma arɩ ma tuto mɩ chɛ-wiesii-la woruŋ ŋɩɩ.","Mazi Arinze Nwosu na-ejibu tinte nile, mana mụ atụgharịọ ya ka mụ dolụ aka mụ ka akụlị. N'eleghị anya, mụ atụgharịọ ya bụrụ apụma arụmatụtụ omiche we sị na ọ bụrụ mụ.",1.0,0.6288
+258,"Sɛm, Aafaza, Sɛla,","Shem, do you know a car movie about a man named Shem?",4.0,2.5385
+259,"Mɩ joŋ hɛɛŋ sɩ nagɛ nyiniŋ nɛ a hɛ ma lɛ a magɩsɛ ma,",Mijong haen sanda gyeonnine ehemelle amalseo,1.0,0.6154
+260,bɛɛ wɩaa mɩ jaŋ leŋ dɩ lɩɩŋ hɛ tintee-hɩlɩŋ lɛ,Bavia.,1.0,0.9167
+261,"Dɩ ŋ nɛ cho La Tɩɩna a kɛŋ wʋtɩtɩɩ, ʋ jaŋ joŋ ŋ wʋbɔŋŋɔɔ","Nnechola Tina, a ka m nwetete. Oja njom onwe bu",0.9286,0.5714
+262,"a mʋ tɩgɛ mɩ nɩaa Iziral tɩŋŋaa lɛ, nɩalɩŋ mɩ sɩ lɩɩsa,",အမတ်တကဲ့ မနီးယားအစ္စရာတန်ကလည်း နေရာလမ်းမစလေ,1.0,1.0
+263,Mɩ saa sʋlma dɩ má sɩ́ leŋe dɩ ma tʋɔŋ chei a tɩŋ mɩ sɩɩ na hɛɛŋ ŋɩɩ wɩaa. Mɩ sɩɩ na hɛɛ-la jaŋ leŋ dɩ ma laa yɩrɩŋ.,"Masaa somaa dem asileng'ede mat wenci, atem mesineng'e ng'e wia. Mesineng'e lajenleng demala yeren",1.0,0.5357
+264,"Baala-na bɩ maga dɩ ʋ joŋ kʋŋ a chu tɔ ʋ nyuŋ, bɛɛ wɩaa ŋɩɩ Wɩa sɩ naga, ŋɩɩ tɩtɩa nɛ ʋ ŋaa baala. Baala tʋla lɩɩ Wɩa teeŋ nɛ, ka haala ma tʋla lɩɩ baala teeŋ,","Bara na-abụ maka ndị ujọ nkụ atọ onụ. Beere ya, gịnị bụ asịrị na gịnị ka Chineke na-agwa bara? Bara tụlarịrị ihe dị n'ime ka ha laa ma tụlarịrị bara tị.",0.973,0.6667
+265,"Má lɔllɛ La TƖƖNA, má yɩrɛ ʋ yɩrɩŋ. Má leŋ dɩ tinteyee nɩaa nɩɩ wɩalɩŋ ʋ sɩ ŋaa.",မော်လမြိုင်မြို့နယ်၊ မရမ်းကုန်းရွာ၊ မြိုင်ကြီးငงูတောင်နယ်မြေ၊ ဝါလောင်အုပ်စု,1.0,1.0
+266,"dɩ ma kaa ŋaa mɩaa Wɩɩsʋlʋŋ arɩ kʋnyʋalaa Wɩɩsʋlʋŋ,","Tamaka nga, mya we solong arako nyuala we solong",1.0,0.5476
+267,Mɩ jaŋ ŋaa wʋmagɩlaa wɩa-nyuŋ arɩ tinteeŋ lɛ.,bajang agomakla wuyun aritin ten,1.0,0.5278
+268,"Joram, Joram ma nanʋala nɛ Ahazɩa, Ahazɩa ma nanʋala nɛ Jʋas, Jʋas ma nanʋala nɛ",Joram Joram mananwalane Ahazia Ahazia mananwalane Joas Joas mananwalane,0.8667,0.1587
+269,"Jaarɛsɩa, Ɩlaaja arɩ Zikiri.",प्यारे सिया इलाजा अरे,1.0,1.0
+270,"Dɩ ŋ nɛ kɛŋ kenyiri, ŋ jaŋ wuo sʋl sɩpaalaara dɩ ʋ sɛɩ ŋaa wɩɩŋ.",,,
+271,"ama nɩbɔmʋŋ kuoruŋ nɛ dɛrɛ, tʋɔpʋl tɩŋŋaa yie pʋŋa pɛ nɛ.",A ma da na ba mun korin nan dare.,1.0,0.7778
+272,"Ŋɩɩ wɩaa, ma sɩɩ gbɛrɛ La Tɩɩna Yesu Kirisito dɩ ʋ mɩɩra kɔ ŋɩɩ, ŋɩɩ nɛ tɩɩ ʋ joŋ kɩalɩŋ kala sɩ lɩɩ ʋ Dɩŋ-zɔmʋŋ teeŋ a dii zile ma lɛ.","ma ha si na na balapala etu mmadu nso ka ya ngwajiman, na wee na-eko ha weere na abali apake, di uwa obula wee na-agwa",0.9677,0.8416
+273,"Ma sɩ ŋaa Wɩa nɩaa ŋɩɩ, ʋ maga dɩ ma lɩɩsɛ ma tɩtɩa wʋlɩɩlɩŋ lɛ, a bɩra lɩɩsɛ ma tɩtɩa disiŋ kala lɛ, a sɩ́ tʋɔ-luŋuŋ kɛŋ.","Masịnga wị anyị anyị, ụmaka dịmalụ ịsị m, atụcha wụ lịlị nle. Abịra ịsị m atụcha dịsị nkalịle. Asị m tọlụ ngụ nke",1.0,0.5333
+274,"Má saa maga dɩ ma jɩŋ nɛ, a nagɛ nuhuobiine sɩ yie kɛŋ ʋ bie a dagʋ wɩaa a kɛnʋ tʋra kɩkɩɩ ŋɩɩ, ŋɩɩ tɩtɩa nɛ ma TƖƖNA Wɩa ma kɛmma tʋra kɩkɩɩ.","Masaa makaa dema jenne, anaa nuhu bii na siye kan ubie, adako bia akanu turakiki nye, nye titia na mate na bia maa, ka ma turakiki.",0.9697,0.4299
+275,"Dɩ ŋ nɛ jegili mɩ teeŋ, ŋ jaŋ jɩŋ wɩalɩŋ sɩ ŋaa wʋtɩtɩɩba,",en jagali meten an jangen wiyalen singa wata,1.0,0.6136
+276,"Ɛlɩasɩb ŋaa fii arɩ kʋbala, Jakɩm ŋaa fii arɩ balɩa,",Jacket,1.0,0.9512
+277,Nihee ŋaa babiibal kɩaa nɛ ba naabalɩmaba teeŋ.,"Ndi ịsị anyị, banyere ihe a na-akpọkwa n'ala Igbo",1.125,0.7949
+278,"Dɩ nɩyaarɩŋ nɛ pɩɛsɩŋ nɩyaarɩ wɩɩ, sɩ́ wɩɩ-la bʋbʋɔŋ lɩɩsʋ.",دنیارن پی سن نیارگوی,1.0,1.0
+279,Ŋ jɩŋ ŋɩɩ ba sɩ yie kɛŋ luoruŋ a diene magɛ nɛɛ?,Jangai basi yakan luwru adon makna.,1.0,0.5556
+280,"Hamaŋ sɩ ŋaa ŋɩɩ dɛrɛ, Modikaaya mɩɩra mʋ hɔŋ kuoro-dɩa boiŋ niiŋ, ka hɩɩsɩŋ kɛŋ Hamaŋ ʋ kɛŋ nyuŋ gʋrɛ a fá mʋ dɩa.","Ha ma si nga-ngị dịrị, ma dịka a maara, mu hụrụ nkworo dị ebu ịnnị ka ha isi nkenụ, ha ma oké njụngụrụ afa m dị.",1.0833,0.5455
+281,"Dɩ haal nɛ bɩ chɛ dɩ ʋ joŋ kʋa tɔ ʋ nyuŋ, ʋ maga dɩ ʋ fʋŋ ʋ nyuŋ nɛ. Ʋ sɩ ŋaa hɩɩsɛ wɩɩ ŋɩɩ dɩ haala nɛ fʋŋ ʋ nyuŋ koo dɩ ʋ kɛ ʋ nyuŋ ŋɩɩ, ʋ maga dɩ haala joŋ kʋŋ nɛ a tɔ ʋ nyuŋ.","Dahaal na pacha dujon ko ato unyun, omaka dufon unyun ne, osi nga hi se nwe nwe dahaal na fon unyun ko do oke unyun e. Omaka dahaal jon kun ne ato unyun",1.0,0.488
+282,"Peelee nyuŋ nɛ ʋ kʋdiilee yie waa ʋ didii,","Pele nyunne, okudile yiiwa odidi.",1.0,0.3636
+283,"Dɩ nuhuobiine dɩgɩlɩŋ ma nɛ sɩ ʋ bɩ sɩɩŋ ŋaa, ŋɩɩ wɩaa ʋ bɩ nuhuobiine yaraa sɛmɛ dɔŋɔ ŋaa, ʋ ŋɩɩ bɩ jaŋ leŋ dɩ ʋ sɩ́ nuhuobiine sɛmɛ dɔŋɔ ŋaa.","Ndi nụrụ olu Chineke na-asị, ọ sị m sị gị a, nye ya olu Chineke ya rasa ma dọọ gị aka, onye ịbụ Jenlen do osi Chineke rasa ma dọọ gị aka.",1.0323,0.7523
+284,Ŋ leŋe Iziral tɩŋŋaa nɛ ŋaa ŋ nɩaa a kaa mʋ wuu. Ŋ-na La TƖƖNA nɛ lɛɛlɛ ŋaa ba Wɩa.,lele nga nna nnya a ka mụ gị nna latị na nị lele nga,0.95,0.623
+285,Leŋ dɩ mɩ nanʋala Solomoŋ kɛŋ tʋɔ-la sɩ jaŋ leŋ dɩ ʋ to wɩalɩŋ kala ŋ sɩ daga aŋ pɛ kɛŋ kɩalɩŋ mɩ sɩ chɛ bil a saa ŋ dɩa-la.”,Lende me na nwala solo mankan. Tuwala siyanlen du utu wiyalen kala en sedaka an fekan kiyalen mesen ce bil asa indiyal,0.9333,0.4891
+286,"Hɛzɩ ŋaa fii arɩ balɩpɛ, Hapɩzɛs ŋaa fii arɩ chori,",heavy,1.0,0.95
+287,"Dɩ nɩaa nɛ yuou arɩ timiŋ, ʋ yie paala mʋmɔmba nɛ.","Danyal yuo ariti min, wuye falama mombane",1.0,0.4211
+288,"Ŋɩɩ nɛ kuoro kpɩa a bʋl, “Baala deeŋ paala chɩchɛ dɩ ʋ gurigi mɩ habidiire nɛ mɩ kuoru dɩa lɛ koo?”",Ya na-ekwu okwu ya abụọ. Bala dee mpaghara chiche uguru ka ma ha bidoro na-ekwuoro di ya lekwaa ya.,1.0,0.5733
+289,"Ʋ yie leŋ duoŋ-bɩlɩmbaanaa kala su arɩ fɩɛlɩŋ,",Waiye lentuom blambana kalasu arafiya la,1.0,0.4324
+290,"Bɩra, Wɩa bɩ baala ŋaa a tɩŋ haala wɩaa, ama ʋ ŋaa haala nɛ a tɩŋ baala wɩaa.","Brah, we have a balance at a Hala via, ama on a Hala ne at a balance via.",0.9444,0.5263
+291,"Sawʋl nanʋala nɛ Salum, Salum ma nanʋala nɛ Mibisam, Mibisam ma nanʋala nɛ Mɩsɩma.",Salum Salum,0.8571,0.8485
+292,"mɩ yie pɩna bilimi ŋɩɩ nɛ, a chɩchɛ dɩ taŋ pʋl lɩma.",የተነበልን መነሻ አጭር ታሪክ አምፖል,1.0,1.0
+293,Mɩ na dɩ nɩaa bʋɩ tʋɔŋ ba-bala dʋndʋŋ nɩɩ ŋaa wɩaa ba bʋa lɛ.,"Nnaa di na abuo, baabolo di na ndu nne m ga-awia baabolo.",1.0,0.6087
+294,"Kirisito yie ŋaa ŋɩɩ, bɛɛ wɩaa la ŋaa ʋ nandaasɩŋ nɛ a mɛrɛ ʋ yaraa lɛ.",ਕ੍ਰਿਸਚੀਅਨਾਂ ਨੇ ਬੀਵੀਆ ਲਾਗਾ ਉਨੰਦਾਸਨ ਨਾਲ ਅਮਰ ਵਿਆਹ ਲਿਆ।,1.0,1.0
+295,"Nɩalɩŋ sɩ lɩɩ Juda doho, Bɛnjamɩŋ doho, Efirem arɩ Manasɛ doho doho a fa hɔŋ Jerusalɛm lɛ nɛ:",የአለቃ ገብረ ድัህ ዮሐንስ ድัህ ኤፍሬም አርአያ ማናሴ ድህ ድህ አፋሆ ጀሩሳሌም,1.0,1.0
+296,"Kɩalɩŋ kala fa sɩ hɛ tasɩŋ deemba lɛ nɛ Iziral laalɩyuoroo paa, a kɛsɛ ba pʋsʋŋ ma pɛ. Ama ba kpʋ nʋʋkala sɩ hɛ tasɩ-la lɛ nɛ, ba bɩ kʋŋ ka.",kaalun kala faasaha tasin dayn baalana Israel laali yuro fa akas bafusun mape ama bakunu kala siha tasila leena babe,0.9355,0.4286
+297,Ba tɔmɔ-la nagɛ peliŋ nɛ.”,"Bà Thoma Landake, PII.",1.0,0.6316
+298,Elieza nanʋala Finihas nɛ faa beŋ ba nɩalɩŋ sɩɩ pɔ boi-baalaa. La TƖƖNA fa chɩŋ ʋ harɩŋ nɛ woruŋ.,"Eleeghi ihe na-anụ ala Chineke na-afá bịa, ma n'ala nsọ bụ ebe a na-atụgharị na-akpọgharị okwu Chineke.",1.0,0.75
+299,"Moza ma nanʋala nɛ Bɩnɩa, Bɩnɩa ma nanʋala nɛ Rɛfaaya, Rɛfaaya ma nanʋala nɛ Ɛlɩasa, Ɛlɩasa ma nanʋala nɛ Azɛl.","Moses amanyane anuwala ne Biniya, Biniya amanyane anuwala ne Rephaya, Rephaya amanyane anuwala ne Eleyasa, Eleyasa amanyane anuwala ne Azeli",1.0,0.6136
+300,Ba doho wɩaa ba sɩ ŋmʋnsa bil daga arɩ ba dɩa dɩa nɩhɩasɩŋ arɩ ba laalɩyuoroo ŋaa bʋɩ mara arɩ zɔɔ-balɩa nɛ.,Bado huviya basi mwinsebulu taka are badiyadiya nihiyasang aravalali yuro nga buye mara ara zawa liyane,0.9545,0.4941
+301,"Dɩ Wɩa nɛ joŋ dʋa pɩ nuhuobiine dɩ ʋ kɛŋ kɩaa, a wuo leŋ ʋ nɩɩ kɩalɩŋ sɩma, ʋ maga dɩ ʋ tʋɔŋ tɔrɛ nɛ ʋ sɩ nɩɩ kɩalɩŋ ʋ sɩ tɩma na sɩma. Wɩa nɛ joŋo pʋ.","Wife of John III, Queen of Denmark, Norway and Sweden.",1.0,0.8455
+302,"Hazɔ kuoro Jabɩŋ fa sɩ nɩa dɩ Iziral tɩŋŋaa yuo didii tasɩŋ ŋɩɩ, ʋ tɩma pɩ Madɔŋ kuoro Jobab, a tɩma pɩ Sɩmɩrɔŋ kuoro arɩ Akɩsaf kuoro,","Ha zọkwara Jabin, eze ndị Kenan chịrị na Hazọr. O tumapi Madọn kworo Jobab, a tumapi Shimrọn kworo, ari Akshaf kworo",0.9259,0.5377
+303,"Hatak sɩ mʋ bʋl wɩɩ-la Ɛsɩta sɩ bʋla a pɩ Modikaaya,",Ha takwụsịrị m bụrụ na ọwụla esịrị m nri ka anyị rie.,1.0909,0.8
+304,"Nɩɩ-la kala sɩɩ fá La Tɩɩna bʋa-kala, ʋ tʋɔŋ jaŋ tɔrɛ,",neela color se phala teenabua color uthaun jaantor,1.0,0.625
+305,ŋ kaa nʋɔsɛ Ijipiti tinteeŋ fuonuŋ kala tɔ ba hɩl.,ka na wasu ijiɓin tin tayin fuɗin kalato ba,0.9,0.525
+306,"Ŋɩɩ nɛ Ijipiti tinteeŋ kuoro tɩŋ dɩ ba mʋ kɛŋ Mosis arɩ Arɔŋ kɔ lɩma. Ba sɩ kɔ ʋ bʋl, “Mɩ ŋaa wʋbɔŋ nɛ a chei ma dɩ ma TƖƖNA Wɩa.",ne ne eji bututun korata mgbakọọlụ mọọsịs arọ arọ kọlụma basịkọ ụbọlị mụ na ụbọlị na achị madu matị na abụọ,1.0,0.5789
+307,"Nɩɩ-la kala sɩ joŋ nɩyaarɩŋ koo nʋʋ na-kala sɩ kʋʋ bal dɩ ʋ tɩŋ ka ʋ timu,",ne na kala su jon ne yaran ko ne una kala sokoto ba dogon tan ka ntim,0.9412,0.4545
+308,"Ma sɩ ma kɛŋ laalɩŋ-yuonuŋ jɩma arɩ doluŋ nɛ, ama ma wʋbʋlɩɩ-la kala ŋaa pɛɩ nɛ. Kʋbɛɛ lɛ nɛ ma joŋ ma yɩɛlaa a daŋ aŋ vɩamɛ?","Maka na m ka na-alinu nri m, jema ario nne. Ama m na ọ bụrụ na m akala nwaa pụọ na, kụọ ya lene, mụ ejuo mma yiela adan.",1.037,0.5957
+309,Chɛŋ-nɛsɛ sɩpaalaara nɛ Jʋab naambie Asahɛl. Ʋ nanʋala Zɛbadɩa nɛ laa ʋ nyuŋ.,चन्ना से सिपाही लाल ने जवाब न एमबीए असहेल। और आने वाला जाबा दिया। नीला उनु।,1.2308,1.0
+310,"Taŋ sɩ pʋla Fɩlɩsɩtɩa tɩmma-la sii mʋ dɩ ba wuri nɩalɩŋ ba sɩ kpʋa kɩaa, ba na dɩ Sɔɔl arɩ ʋ hambolibiisiŋ batori sʋʋ pɩŋ Gɩlɩbʋa peeliŋ nyuŋ.",Chọọsụ maka filisịatịmalịsị mụ debawụrụ n'ịalụ basịkụwa kịa banadịsọlụ arụ ụhọmbọlụ wịsịmbọtụrụ sọọpanụ gịlịbụwaị filinyụ,1.0,0.5536
+311,"Kɩalɩŋ lɛ ba sɩ joŋ ba yɩɛlaa hɛ bɩ doluŋ kɛnɛ mʋa ma,",K'aaląą łéé' bázidjónba' yáalaahę́ę bedoolnkaanamóó,1.0,0.6585
+312,"Hakɔs ŋaa pɛɩ, Abija ŋaa chori,",ထာခေါ် ကာဖေး အဘေဂျာ ငါချွေး,1.0,1.0
+313,"Ɛlɩpaal hambolibiisiŋ nɛ: Ɛba, Mɩsam, Sɛmɛd (ʋ nɛ saa tasɩ-la ba sɩɩ yɩrɛ Ono arɩ Lod arɩ tabiisi-la sɩ golliba),",,,
+314,"Dɩ ŋ nɛ joŋ kʋŋ a lʋara ŋaa zile pɩ nʋʋ sɩ na baanɩŋ ŋ nyuŋ,","A ni jonkon, a lora di je le peno senna banin inyu.",0.9375,0.5455
+315,Mɩ fa joŋ mɩ nyuŋ kala nɛ hɛ dɩ mɩ gʋnnɛ a kɛŋ wʋjɩmɩŋ a chɛ na wɩɩkala sɩ hɛ dʋnɩa lɛ. Chʋgʋ yuŋii nɛ Wɩa joŋo daŋ nuhuobiine nyuŋ.,"Mụ fa jụọ mụ, ""Yung Kala na hɛɛ, di mụ gị nɛɛ, a ka enwe gị mụ, a chɛɛ a naa, wii Kala sị hɛɛ dunya le?"" Chukwu Yung iile, wia jọọ gị daan n'obi iile Yung.",1.1,0.5248
+316,"a bʋl, “Má kʋ pɛ mɩ lɛ dɩ la yuo Gibioŋ tɩŋŋaa, bɛɛ wɩaa ba sii mʋ ba dɩ Josua arɩ Iziral tɩŋŋaa pɛ niiŋ nɛ.”","Maku pem lei dhelai yu gi biyon tin nga. Beewia ba Simon, Bari Joshua, ari Israel tin nga pe ni",0.9615,0.5316
+317,"La TƖƖNA nɩɩ wɩalɩŋ ma sɩ bʋla pɩmɛ nɛ, ŋɩɩ nɛ ʋ bʋla pɩmɛ, “Mɩ nɩɩ wɩalɩŋ kala nɩalɩŋ sɩ bʋla pɩŋ nɛ, ba bʋl woruŋ nɛ.",na chi na ne weh yalum aso bula pemene ne na obula peme mene weh yalum kala ne yalum so bula penne babulu were,0.963,0.5455
+318,"Jonataŋ ma nanʋala nɛ Mɛrɩb-Baal, Mɩka nyɩmma.",Jonathan Amanna Nwalane mara baal n'ika nye,1.0,0.4054
+319,"Tɔmɔ-la arɩ pʋsʋ-la sɩ chʋmba kala tuu kpirimi nɛ,",Shamuwa da arafa sallah su jon baka latu,1.0,0.7179
+320,"Dɩ ŋɩɩ dee, ka dɩ mɩ kɛŋ kɩaa yʋgɛ, mɩ jaŋ wuo vɩaŋ",diling. Dang ni de ka da ma ka yang ka ya yo ge mu jan wo,1.1538,0.7838
+321,"Wɩa ŋaa tʋɔpʋl Tɩɩna nɛ, ʋʋ beŋ wɩɩkala sɩ hɛ nɩbɔmʋŋ","O bialu na tuo portena na, o bia wee kalasi ha na bọọlụ",1.1818,0.619
+322,"La TƖƖNA, ŋ nɛ yʋga kɩɩ kʋŋkala, a kɛŋ doluŋ,",Latina na-ejikwa keekonkara akendoro,1.0,0.5758
+323,"Ba doho nɩaa nɛ ŋaa Gaam nyɩŋ-nɩaa a hɛ taŋ-la ba sɩɩ yɩrɛ Kɛɛla lɛ, arɩ Maaka nyɩŋ-nɩaa ma sɩ hɛ taŋ-la ba sɩɩ yɩrɛ Ɛsɩtɛmʋa lɛ.",,,
+324,"Takɩkas sɩ ŋaa la naambii-choolii a bɩra ŋaa La Tɩɩna Yesu tɩntɩnnɩ-tɩtɩɩ, ʋ jaŋ kɔ ma teeŋ a bʋl mɩ wɩaa pɩma, dɩ ma jɩŋ ŋɩɩ mɩ hɔnʋŋ sɩ naga arɩ tɩntɩmɩɩ-la mɩ sɩɩ tɩŋ.","Chineke a sị na n'ime obi chọọchị, abụghị naanị Chineke Jisọs Kraist na-ete. Oge a kọmitii abụghịzi apịma. Dịmaji ngị, mụ hụrụ nsị na gị, a na-etinye m ịla mụ sị",0.9714,0.7077
+325,"Ŋɩɩ lɛ nɛ ŋ jaŋ jɩŋ arɩ mɩ nɛ ma TƖƖNA,",Ngilane njajengaramene,1.0,0.7143
+326,"Wɩaa deemba kala harɩŋ, La TƖƖNA jaŋ leŋ dɩ Iziral tinteeŋ zɔŋ a pɩ nɩalɩŋ sɩ bɩ sʋba. Ba tʋɔŋ jaŋ tɔrɛ dɩ ba bibigisi a tɩŋ kɩalɩŋ ba sɩ pɛrɛ sɩ jaŋ wasɛ tintee-la lɛ.",Wuya dai ba ƙaramin hara ba. Latsa na je na leƙa izuwa tin tin zang. A fannin su ba su ba. Batuwan jan tore. Dubu biyu da biyar si. A tunƙiyalen ba su pere. Su jan gwas tin tin lalle.,1.0556,0.5736
+327,Ba babiibal goŋ-la ba sɩɩ ŋaa jaŋ bɩrɩmɛ yele.,"Bà bà bị bà lùn là bà sẽ ngã, Dép bà bị",1.3333,0.75
+328,"Ŋ bɩ jaŋ wuo nyalɩmɛ a mʋ tɩgɛ wɩɩ-la mɩ sɩ cheye lɛ,","Mbejanwanyi alume, amatakwa wela m si che ya",1.0,0.5128
+329,"Ʋ yie lɔgɛ tinteeŋ yuyuo, aŋ jʋjʋɔsɛ ʋ sɩ kɛŋ doluŋ,","Onye na-achọ ka Chineke yighị ya, anaghị ajụ ya ase. O si ka ya ndụ",1.3636,1.025
+330,"Pʋpɔ ŋ sɩ́ bʋl, “Mɩ jaŋ joŋ wʋbɔŋ-la ŋ sɩ ŋaa mɩ lɛ chɩmɩŋ timiŋ.”",Papa m si m gwa m na m si na m ele chi m atimu,1.0,0.6522
+331,"Tintee dɔŋ kala tuo a kɛŋ yɩrɩ-balɩŋ ba vene chɩŋ ba harɩŋ arɩ La TƖƖNA Wɩa sɩ chɩŋ ma harɩŋ ŋɩɩ. Dɩ la nɛ sʋlʋ bʋa na-kala, ʋ yie laa la sʋla nɛ.","Chinedu ka na-etu aka ya na ya bụ onye nke mbụ ha na Latin America. Ma ha na-e de na nsogbu ha na-akala, o yiri na ala siri",0.9697,0.6055
+332,"Ma TƖƖNA Wɩa jaŋ joŋ ma dʋndɔŋŋɔɔ a hɛ ma nɩsɩŋ lɛ, a leŋ dɩ ba wɩaa kala vʋgʋmɛ dɩ ba to ŋɩɩ lɛ a kala sʋʋ.","mache na vie jeun-jeun, ma dondon o, ehen ma n'si le, ale ndi ba wu ya akala bukume, debe chongile akala su",0.8889,0.55
+333,"Ma sɩɩŋ jaŋ na kuoro sɩ hɔnɔ arɩ ʋ zɔmʋŋ,","Mazi Njannụ Koro, sọhọ nọ arị ụzọ mụ",1.0,0.4839
+334,"La TƖƖNA fa sɩ dagɛ ʋ tɩntɩnna Mosis ŋɩɩ, ŋɩɩ tɩtɩa nɛ Mosis ma dagɛ Josua ʋ ŋaa. Wɩalɩŋ kala La TƖƖNA fa sɩ dagɛ Mosis, ba kala nɛ Josua fa ŋaa, ʋ bɩ ba kʋŋkala kere ta.",,,
+335,"Ɛlɩsama, Bɛlɩada arɩ Ɛlɩfɛlɛt.","Alexa, belleiada. Alexa,",1.0,0.72
+336,"fii arɩ nibimiŋ nɛ ŋaa Maloti arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",ఫీ అరే నిబిన్ నే నా మలోతి అరే ఒహంబిల్ బిసుం అరే ఒనాంబిరన్ బమపి అరబలే,1.0,1.0
+337,Ŋɩɩ nɛ La TƖƖNA leŋ Ijipiti tɩŋŋaa cho Iziral tɩŋŋaa. Ijipiti tinteeŋ kuoro nɩhɩasɩŋ arɩ ʋ nɩaa kala joŋ Mosis ʋ ŋaa nɩ-yuŋi.,"Ng'eny laktin elink, Egypt ng'acho isache ng'a. Egyptin tey kuro ni hiasan ara orni akalajon Moses ongan yu",1.0,0.55
+338,koo ʋ kaa jɛrɛ ʋ nagɛ palɩŋ.,"Koo, o ka jere, o na-akpa",0.8571,0.4762
+339,"Ʋ ŋaa ŋɩɩ a wuo mʋ kuoro dɩa boi-baalɩŋ dʋndʋŋa nɛ, bɛɛ wɩaa ba bɩ jaŋ sɛɩ dɩ nʋʋkala sɩ laalɛ tʋɔ-chei-gɛrɩŋ jʋʋ kuoro kaala.","Nganga, awo mụkwa oro dị ya kpoo ebe arụndụndụ na ya, beewie ya, babụja nsị dị n'ụka sịrị na ya tọchị garọ ji ụkwụ oro kaala.",1.0,0.5773
+340,"Nɩɩ-la sɩ kori Sɔɔl laalɩyuori kɩalɩŋ sɩ na dɩ ʋ sʋba, ʋ ma lɩɩsɛ tokobiiŋ kpʋ ʋ tɩtɩa a pɛ Sɔɔl lɛ.",,,
+341,"Ama nɩalɩŋ-na sɩ kɛŋ ba tɩtɩa muuri, ʋ yie dagɛ ʋ zile",Amanyɛla na sika a yɛmpatice muri. Oye daka,1.0,0.5854
+342,"Devit fa leŋe Zadɔk sɩ ŋaa Wɩɩsʋllɩ sɩpaalaara arɩ Wɩɩsʋllɩ sɩpaalaaraa dɔnsʋŋ ma faa tɩŋ La TƖƖNA dɩ-zɔŋ-la lɛ nɛ, dundolo-la nyuŋ ba sɩɩ chʋɔlɛ Wɩa Gibioŋ lɛ.",,,
+343,"Ma paa mɩ hɔpʋla arɩ sɛlɩmɛ nɛ, mɩ dʋa-la sɩ zɔmɔ a kaa mʋ ma vesiŋ dɩɩsɩŋ.","Mepam ho, plae, ara mesomene, meduara so somo aka mu ma bentsi ndi so.",1.0,0.5357
+344,"Nyɩrɛ ŋ bɔyɛ a kɛŋ tʋɔ-doluŋ, bɛɛ wɩaa ŋ nɛ jaŋ laa nɩaa deemba sɩpaaŋ dɩ ma mʋ laa tintee-la tɩɩ, tintee-la mɩ fa sɩ hɛ niiŋ a pɩ ba naabalɩmaba arɩ mɩ jaŋ joŋo pɩba.","Nne bu ya, a ka m tuo dolum. Bee ya, nne m ji ala na-adi mba si paan, dimam ula tinte la tee. Tinte la mefasi ha ni a pi m na abali maba, ari m je njoo pe",1.0278,0.4127
+345,"La TƖƖNA sɩ, “Iziral tɩmma, ma taŋa nɛ a pɛ nyʋlɩmɛ ma,","Latina se, isa atemma matangane apanyuluma",1.0,0.4
+346,Ʋ yie bee gʋʋnɛ baga kɩalɩŋ kala sɩ bɩɩna ba ŋaa wajɩaba nɛ.,"Onye be goni? Bịa ka ị ghọta nke a, sị be na be anyị gwa gị ya bụ.",1.3846,0.6809
+347,"Sɩnaɩ peel-la lɛ La TƖƖNA hɛ nyiniŋ tʋɔŋ nɛ a chaasɛma, aŋ bʋl wɩaa pɩma.",suna i pelale lati nehe nyinintuo ne achasima ambulewya,1.0,0.4464
+348,"Lɛɛlɛ, ma wʋŋaalaa daga arɩ ma bɩ mɩ lɛ wuo pɛ.",lele mawu ngala daga ada mabe mele wu,0.9091,0.4286
+349,nyiŋ-kɛntɛrɩsɩŋ ma to dɔŋɔ a lɩlɩɩ.,in ka sanar da san mutum don Allah,1.3333,0.75
+350,Ama sɩɩpʋʋraa Wɩa leŋ nanchʋɔlʋŋ dii tɩa-la ʋ sʋʋ.,阿玛西佛拉，威尔林，南楚林迪提亚拉奥索。,1.0,1.0
+351,"Ŋɩɩ nɛ Mosis bʋl, “Mɩ nɩa nɛ, mɩ bɩra bɩ jaŋ kɔ ŋ sɩpaaŋ.”","Nye mụ bụ onye isi bọọlụ, mụ na ya na-agba bọọlụ jankọ n'oge gara aga.",1.0714,0.925
+352,"Fii arɩ kʋbala nɛ ŋaa Azarɛl arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",في اركبالنغا ازريل اري و مبليسين ارو نامبيرين بمانغاسي اربالي,1.0,1.0
+353,"Apem nanʋala nɛ Ɩsɩ, Ɩsɩ ma nanʋala nɛ Sɛsaŋ, Sɛsaŋ ma nanʋala nɛ Alaɩ.","Ife, Nananwene Ife, Ife Nananwene Sasa, Sasa Nananwene Alai",1.0,0.5636
+354,"Ʋ yie ŋaa gɛnnɩŋ ʋ sɩ jaŋ kaa jɩjɛrɛ ʋ kʋpɩnaa nyuŋ nɛ,",ya na gani su ka ko su ka yi in ka gyara ku fi na yunna,1.2308,0.7857
+355,ama nandɔŋɔ dɔŋɔ hɛ nɩmɛ a jaŋ wuo kɛnɩŋ woruŋ a kɩɩ,"Madu dongo dongo heneme, a ga enwu oke na nwuru, a ka ina mbie.",1.0833,0.7561
+356,"Wɩɩsʋllɩ sɩpaalaaraa, má laalɛ tʋɔ-chei gɛnnɩŋ a yel,",ወይ ሰለስፓላራ መላእክወቼ ገነን አየ,1.0,1.0
+357,"Jeroham doho nɩaa nɛ: Samɩsɛraɩ, Sɛharaya, Atalɩa,",जोराह रोहनियाने समसेराई सहाराया अतालिया,1.0,1.0
+358,"Abɩsʋa ma nanʋala nɛ Buki, Buki ma nanʋala nɛ Uzi.",Nawa sooma na nwala ni buki buki ma na nwala ni,0.8,0.2821
+359,arɩ ŋɩɩ ŋ sɩ bʋl wɩaa a polli nɩalɩŋ sɩ bɩ doluŋ kɛnɛ nandaasɩŋ.,Aran nge an sabolivia apolinyalan sabodolon kene nandaasu.,1.0,0.48
+360,Ʋ bala yie ŋaa nɩ-jɩmɩɩ nɛ a guoli,Obaa no yɛ ngaa na gyama na aguo,1.0,0.6154
+361,La TƖƖNA Wɩa chaasa na baanɩŋ Uza nyuŋ a tɩŋ ʋ sɩ digi Wɩa niiriŋ daga-la. Ʋ ŋmobu kpʋ a bil daga-la sɛmɛ.,Latsa ina waja chana ba nan uza nyu atin osidiki we ni re ndakala umubu po abul dakala,0.9565,0.425
+362,"Ma jaŋ dii boroboro-la sɩ bɩ sɩbʋrʋŋ kɛnɛ tapʋlaa balɩpɛ. Tapʋl-pɛɩ chɛɛŋ, má gbieli gbiele a zil La TƖƖNA.",Majendi buruburu la saba saporonkanè ta fulabalpè ta fulapèchian magueliguelè azillatinè,1.0,0.4405
+363,"Nɩɩ-la kala sɩ lu buotuoŋ bil ʋ dɔŋɔ lɛ, ʋ jaŋ gʋra tuu bʋa-la.",Nela kala siluboto umbulu dongole ojangorotu,0.9286,0.5217
+364,"Mɩ jaŋ bɩra pɩma kɩalɩŋ kala hɔbɔ sɩ die,","मैडम, ब्रह्मकिया लंका",1.0,1.0
+365,"Nɩalɩŋ kala sɩɩ beŋ dʋnɩa deeŋ bɩ wɩaa deemba bʋbʋɔŋ jɩŋ. Dɩ ba nɛ fa jɩmba, ba fa bɩ jaŋ kpaasɛ La Tɩɩna sɩ kɛŋ tʋla a mɛrɛ daagɛsɛ nyuŋ.","N'ala nke Kalabari, be ndu niile di, bu kwa di mba bu nja. Na ba na fa jim ba, ba fa be ja nkwasi lati na sika ntula, a mere da ga se nyu.",1.0,0.4717
+366,"Tinteyee kala, má lɩɩ sɛmɛ na-kala a kɔ lɩma, a hilimi fuonaa-la lɛ.","Tentei falar, mas ele se engana, cara, a colima. A",0.9231,0.6471
+367,"Adam doho nɩaa nɛ fa Sɛf, Ɛnɔs,","Adam, duhunia akamuyi abraham le. Adam duhunia ne fa, Seth, Enos",1.2857,1.5217
+368,"Ʋ nɛ La TƖƖNA Wɩa, ʋ niiŋ wɩaa hɛ dʋnɩa lee-kala nɛ.","ਉਹਨੇ ਲਾਥੀ ਨਾ ਵਿਆਹ, ਉਹਨੇ ਵਿਆਹ ਹੈ ਦੁਨੀਆ ਲੇਕਲਨ",1.0,1.0
+369,"Ba sɩ faasa dʋdɔgɩsɛba ŋɩɩ, ŋɩɩ tɩtɩa nɛ ba pʋŋa pɩpɛ, a jɛrɛ su tintee-la. A tɩŋ ŋɩɩ wɩaa Ijipiti tɩŋŋaa fɩfába woruŋ,","Basa fasaha da dolsa bange, nge da tiya ne ba funga fefe a jere sutin tela. A ti nge biya i ji bi tin nga fafabe woru",1.0435,0.5109
+370,"Ʋ ŋaa ŋɩɩ dɩ la nɩalɩŋ sɩ laa sɩpaaŋ joŋ la yɩɛlaa hɛ Kirisito lɛ, dɩ la wuo leŋ dɩ ʋ yɩrɩŋ yɩrɛ.","Oga ni, di ni alansi lasapain July ala he krisile di le wu lin do oyere nyere.",1.0,0.5479
+371,"dɩ ʋ joŋuŋ ta pʋlʋŋ-jaala lɛ, ŋ gʋgɔllɛ ŋ tʋɔtɔrʋŋ,","Ujo ngantapulu njaalale, ngogol entuotoron",1.0,0.5641
+372,"Wɩɩ-la mɩ sɩɩ chɛ mɩ bʋl, ʋ wʋkaanɩŋ nɛ ŋ-la: Má leŋ dɩ La Tɩɩna dol-bal-la hɛ ma lɛ dɩ ma kɛŋ doluŋ woruŋ.",Kela Messi chama ball,1.0,0.8312
+373,Mɩ jaŋ leŋ ʋ dɩ ʋ doho nɩaa nɛ didii kuoruŋ a kaa mʋ wuu.’ ”,m'jele n'de o doho n'yane ridi kuoro aka mu wu,0.9333,0.4048
+374,dɩ ma wuo jɩmmɛ a laamɛ dii woruŋ arɩ mɩ dʋndʋŋa nɛ Wɩa.,na mu wujjamme alaami di woron ara me dondowa nabiya,1.0,0.4419
+375,"Ama má leŋ dɩ nʋʋkala laalɛ tʋɔ-chei gɛnnɩŋ, aŋ paa dɔnsʋŋ vɔɔ pʋsʋŋ a chaasa sʋl Wɩa woruŋ a leŋ yuosuŋ arɩ wʋbɔŋŋɔɔ ŋaanɩŋ.","A ma m na elili nu okala laali, tupu eji ga na, na m baa dosim voopurum, achaa so solu ya welu, elenyo su, a ruwa bongoo ngaa nu.",1.1667,0.5253
+376,ʋ wʋbʋlaa nɛ yie leŋ ʋ na ʋ wʋchɛɛlɛɛ.,so heesu o bolani yelle o na o wuchele,0.8889,0.7241
+377,"Ŋɩɩ wɩaa nʋʋkala saa sɩ́ ʋ bɔyɛ lɛ ŋmoo a dagɛ wɩɩ-la nuhuobiine sɩ jaŋ wuo ŋaa. Wʋtɩtɩɩ, ma nɛ tɩɩ kʋŋkala.","Nne bịa, nụ ka m sị kọọ gị gbasara ụmụ ya na nwunye. Adaghị m welanụ obi na m sị gị na nwunye ya nwụrụ. Wete, mmadụ wete kọọ m",1.3636,0.8537
+378,Kʋŋkala tuo a magɛ ma Iziral tɩŋŋaa Wɩa.,concaletuo,1.0,0.8438
+379,"Devit bɩra dagʋ ŋɩɩ ʋ sɩ jaŋ kɛŋ Wɩɩsʋllɩ sɩpaalaaraa arɩ Levi doho nɩaa kpaa bugoo dɩ ba tɩtɩŋ Wɩa dɩɩ-bal-la tʋɔŋ, aŋ pɛ bibeŋ Wɩa dɩa-la tɩntɩnnɩ kɩaa.","Levi eberada ko, nge osi jan ken we sen sepa ala ara, ari Levi dohunia kwa buku, debacitin wea di balla tuon, ampe bibin wea di a latinniki a",1.0,0.4463
+380,"Ŋɩɩ nɛ lɩɩ-pel-la faasa nyɛsɛ. Ba pɩɛsʋ, “Ɛɛ nɛ la jaŋ ŋaaŋ dɩ lɩɩ-peliŋ deeŋ sigile pɩla?”",Nga li pella fa sa nya se. Ma piaso. En la janga li peli ndi sikile,1.0,0.5075
+381,"La TƖƖNA sɩ sɩ ma lɩɩ Kadɛs Banɩa lɛ a mʋ tintee-la ʋ sɩ jaŋ joŋo pɩma dɩ ʋ ŋaa ma kʋŋ, ma vɩa nɛ. Ma bɩ wɩalɩŋ ma TƖƖNA Wɩa sɩ daga to, ma bɩ ʋ laa dii.","na Chineke si malite dasị bịa na ya, amụtinụ ya osisi dị ndụ pụta ma dị ṅaa mma kụọ. Ma bịa na ma bịa wee lee mmatị na ya si dịghị mma tụọ. Ma bụrụ na adị",0.9487,0.6273
+382,"ma-na Iziral tɩŋŋaa sɩ ŋaa ʋ tɩntɩnna doho nɩaa, Jekɔb biiriŋ, nɩalɩŋ ʋ sɩ lɩɩsa.",Manna is a,1.0,0.873
+383,"Tʋɔpʋl tɩŋŋaa wombiiŋ nagɛ taŋ sɩ pʋlaa kɔ leriŋ pʋpʋllɛ nɛ,","Tupu olutenga gwa mbiri na ke, tansa pula ko, leri mpopolo",1.0,0.5306
+384,"Ʋ sɩ dii kuoruŋ ʋ jɩ-tori lɛ, ʋ yɩrɛ ʋ tɩntɩnnɩ-hɩasɩŋ, Pɛsɩa arɩ Midia laalɩyuori hɩasɩŋ, sɩpaalaaraa arɩ ʋ tinteeŋ nɩbalaa a hɛ dɔŋɔ a ŋaa kʋdiilee ba gbieli.","Ọ sị dịkwa unu ojị tulu le. Ọ yịrị otu ntị nne hịa sị, pịa sị a arị media lali yọrị hịa sị. Sị fa lara arị tịntị nne bala a hịdọghọ a na kụdịle be gụịle.",1.2414,0.5317
+385,"Hezikaaya sɩ, “Ba na kʋŋkala sɩ hɛ mɩ kuoru dɩa lɛ nɛ. Kʋŋkala tuo mɩ kɩaa tʋɔŋ mɩ sɩ bɩ kaa dagɛba.”","Asaase ba na Konkaleseɛ mekoro diɛɛ lene Konkalese tuo mekyia tuo, me se meka daka",0.8636,0.5333
+386,"Mɩɩ chɛ dɩ ma jɩŋ arɩ dɩ nʋʋ nɛ kɛŋ Wɩa Dɩŋ-zɔmʋŋ, ʋ bɩ jaŋ wuo bʋl wʋbɔŋ a tɩgɛ Yesu lɛ. Nʋʋkala bɩ jaŋ wuo bʋl dɩ Yesu nɛ ŋaa La Tɩɩna, see dɩ Wɩa Dɩŋ-zɔmʋŋ hɛ ʋ lɛ.","Mee chọrọ mụ ajụjụ arịrịọ na aka na-ewia dinzọmụ, ụbọchị mụ bụrụ ụbọ atụkụ Jesu le. Na ụka ụbọchị mụ bụrụ dị Jesu na-ala tịna sị na wia dinzọmụ ha ole.",1.0,0.6393
+387,"a joŋo daŋ nɔmʋŋ nyuŋ a nɔŋ a nagɛ ŋɩɩ ba sɩ yie nɔŋ munuŋ,","Ajonwa daa nọ mụ nri ụ, a nọ mụ, anaghị m abanye nri nọ mụ nụ.",1.0,0.6136
+388,"Ma nɩalɩŋ sɩ bɩ Juu tɩŋŋaa ŋaa, má sɩ́ yʋ arɩ Juu tɩmma-la fa sɩ keri ba penee kɛŋ ma nɩalɩŋ sɩ bɩ ma penee keri yɩyɩrɛ peŋ-puru tɩmma nɛ. Ama nuhuobiine nɛ keri ba penee.","Mmanụ ya bụ ihe e ji ụtentá aṅụ, ma si ya ọ bụrụ ihe e ji ụtentá malafasị kere bekee. Maka mmanụ ya bụ mebekee kere ya yere pụmpụrụta mmanụ a. A ma nụrụ na e kere bekee",1.0278,0.6154
+389,"Uzi ma nanʋala nɛ Zɛrahɩa, Zɛrahɩa ma nanʋala nɛ Mɛrayɔf,",मुझे माना नवलानी ज़रा हिया ज़रा हिया मा नवलानी मारा यो,1.1,1.0
+390,"Ʋ dɩdɛrɩŋ, ʋ jaŋ kɛnɩŋ a nagɛ dɩmɩŋ sɩ ta nɩa,",da dadin wajan kiran annabi da munsali,1.0,0.7059
+391,"“Mɩ jaŋ pɩma mɩaa, girep nɛnɛɛ sɩ-falɩŋ arɩ nʋʋŋ,","Madame Pomia, grippe",1.0,0.7838
+392,"Dʋ nɛ ŋaa Bukia arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",चिनंगा बुखिया अरे ओहम बोलवी सिंह अरे ओनाम्बिरन बामांगा फी अरवाली,1.0,1.0
+393,"Nɩaa sɩ kɛŋ yuosuŋ ŋ wɩɩ tuo nɩmɛ, ka ŋ joŋ ŋ niiŋ hɛ,",Nya se ka nyo sun and we turn me. Ka nyo ni,1.0,0.5897
+394,Juda kuoro Hezikaaya fa sɩ wɩɩla aŋ duori harɩŋ nɛ ʋ ŋmʋnsɛ yɩɩlɩŋ deeŋ:,"Ihe a kọrọ ha ka ya fasara wee laa, ha ndụrụ ha rịọ na onwe nsogbu dị.",1.2143,0.6552
+395,"Ʋ nɛ jaŋ paa mɩ taŋ Jerusalɛm a wasa saa,",Wannan jampa mutanen Jerusalem a wasassa,0.9,0.4194
+396,Ŋ nɛ Nɩɩ-la fa sɩ hɛ nyiniŋ sɩɩ dii tɩɩ-pugu-la lɛ aŋ bʋl wɩaa pɩmɛ.,"Nneela fụsịrị ya n'ụdị tipụgulara ya, ambụlụbịa apụọ",1.0,0.64
+397,Má jɩŋ arɩ ma tʋɔpʋla wɩaa dee bɩ tɩɩ ma TƖƖNA Wɩa joŋ tintee-zɔmʋŋ deeŋ a pɩma. Ma paala ŋaa nyu-duo tɩmma nɛ.,Ma je na arụmatụ a pụrụ ịbụ ihe dị mkpa. Ma gịnị bụ eziokwu nke ziri ezi na apụta? Ma paala a nyidoro tim na,0.913,0.6235
+398,"Ʋ yaraa sɩ kuriso kuriso ŋɩɩ chaasa jʋʋ dɔŋɔ lɛ nɛ,",오야라 수쿠루 수쿠루송에 차사 조드와 레네,1.0,1.0
+399,"Mɩ nɛ bʋla pɩ Siirus, ‘Ŋ nɛ jaŋ beŋ mɩ nɩaa nyuŋ,’","Mene polapesi irus, ne jambe, menya nyu",1.0,0.3714
+400,Ma nɩalɩŋ ma sɩ kpaga jaŋ na mɩ doluŋ sɩ magɛ ŋɩɩ.”,ማን ያለም ማሰክ ፓካጃና ምደልን ሰማከኝ,1.0,1.0
+401,"Ŋɩɩ nɛ kuoro-dɩa tɩntɩnna-la bʋl, “Hamaŋ nɛ chɩŋ kaala tʋɔŋ.”","N'enweghi ike iji ntị na-anụ bọọlụ, ha maara nke ka ha tụọ.",1.2,0.7174
+402,"Dɩ la nɛ chaasa to wombie-la kala, arɩ ŋɩɩ La TƖƖNA sɩ daga, ʋ tʋɔŋ jaŋ tɔrɛ la nyuŋ.”","Dị na chaasị tọ wee bịa laa kalaa, arịọ ịlaa tị na sị dakaa, otuọ njem tọrọ lenyụọ.",1.0,0.5238
+403,"Mɩ bɩ chɛ dɩ mɩ kʋ nama aŋ parɩma kieli. Dɩ Wɩa nɛ sɛyɛ, mɩ cho dɩ mɩ dieni nɛ ma teeŋ.","Mewɔ kwan a ɛda m'anim a amparu m'akyi. Deewia ne saa yɛ, me kwan da m'adii nune mete.",1.0,0.5873
+404,"Nɩɩ-la sɩ duu kʋdoho-la arɩ nɩɩ-la sɩ ŋaa lɩɩŋ mɩsɛ, ba kala tɩma magɛ dɔŋɔ nɛ. Wɩa jaŋ tiŋ nʋʋkala a magɛ ŋɩɩ ʋ sɩ tɩŋ ʋ tɩntɩmɩɩ-la magɛ.",N'eleghi anya n'ihe gbasara akara ule mgbakọrọụka na ngalaba sayensị na teknụzụ na,1.0,0.7885
+405,Ahitofɛl nɛ fa ŋaa nɩɩ-la sɩ bʋl wɩaa chɩchagɩlɛ kuoro. Husai sɩ ŋaa Akɩ tɩɩna fa ŋaa kuoro Devit nandɔŋɔ nɛ.,"Ahyiafoɔ anigyefoɔ, anigyeɛ ne sɛ Bolivia kyerɛw kuro. Wusai, seesei aka akyiri na mfeɛha kurodebi na ndwomene.",1.0,0.686
+406,"Josua arɩ Iziral laalɩyuoroo kpʋ nɩalɩŋ jesiŋ kala nɛ, ba nɩaa mʋa nɛ wuo fá a mʋ jʋʋ ba sɩ saa kɛrɩsɩŋ a golli ba tasɩ-la a laa ba mɩɩsɩŋ.",Joshua,1.0,0.9533
+407,"Nyaŋkɩɩbʋʋna yie ŋmoo ʋ kɩŋkɛnsɩŋ arɩ tʋɔtɔrʋŋ,",Yankee Bona yengu okinkansin arituwatoro,1.0,0.575
+408,"Ŋɩɩ nɛ Josua arɩ ʋ laalɩyuoroo kala, a pɛ nɩalɩŋ sɩ faasa jɩŋ laalɩ-yuonuŋ woruŋ, lɩɩ Gɩlɩgal lɛ a mʋmʋ.","Ngị na Joshua a rụọlụ ọrụ kala, a pụọlụ nsị fa sejịm, rụọlụ ọrụ dị iche iche. Lee, gị ga le a mụ",1.0,0.6667
+409,"Wɩaa deemba saa jaŋ nagɛ magɩlɩŋ ŋ nɩsɩŋ lɛ, a nagɛ magɩl ŋ tile lɛ arɩ La TƖƖNA nɛ kɛnla lɩɩ Ijipiti tinteeŋ lɛ arɩ ʋ doluŋ.”",We are the ambassador of Egypt in Sudan.,1.0,0.866
+410,a jʋʋ ʋ duuŋ tʋɔŋ a keri ʋ kuolu tɩɩ-duduosuŋ,"Aju odun tuo, ekeresimesi di duoso.",1.0,0.6286
+411,"Ama La TƖƖNA ha leŋ Ijipiti tinteeŋ kuoro tʋɔŋ pɩrɛ, ʋ bɩ Iziral tɩŋŋaa wombiiŋ pa dɩ ba mʋ.","Amalathina hali, ijiptin tein koretwan pre, obo isaton ng'o wendi pa daban",0.9474,0.4861
+412,ʋ dɔgɩsɛba naansɩɩŋ bʋlɩa nɛ a tɩŋ ba wʋbɔmɔ-la wɩaa.,"Dɔgɔsaba n'an sèmblé anè, n'a tè m'ba b'u b'o malaviya.",1.0,0.4762
+413,"dɩ ʋ nɩɩ vɛŋ vʋchɔɔŋ tʋɔŋ, ʋ yie kpɛrɛ tinteeŋ ŋɩɩ nɛ a mʋ.",yɛka nsɛm pii nyinaa a,0.9286,0.8636
+414,"Ɛsɩta bʋl, “La dʋndɔmɔ nɛ ŋaa Hamaŋ, babɔmʋŋ deeŋ.","Asta ball, ladon dama na nga he man. Ba bomu de.",1.2222,0.4474
+415,"Hefa sɩ ŋaa Mɛkɛra tɩɩna, Ahija sɩ ŋaa Pɛlɔŋ tɩɩna,",एफ़ा सिंहा मकरा टीना अहीजा सिंहा पेलोंटीना,1.0,1.0
+416,"“Kʋbɛɛ nɛ kaŋ dɩ ŋ pɩɛsɛ wɩaa a mʋ tɩgɛ mɩ wʋjɩmɩŋ lɛ,",Kwara na kan di enpi a siriya a motoke ma wujamen,0.9231,0.65
+417,"Ʋ sɩ nagɛ ŋɩɩ, Wɩa ŋaa nuhuobiine nandaa kala arɩ ʋ tɩntɩmɩɩ nɛ, arɩ ŋɩɩ ʋ sɩ cho.","Ọsị n'agaghị, ihe a nụrụ bụ ihe na-ada akara, arụ ọtụtụ ime na arịghị ofu",1.0,0.6129
+418,"Ba pʋsʋŋ fa yʋga Gɩlɩad tinteeŋ lɛ, ŋɩɩ wɩaa ba hɔŋ ŋɩɩ a mʋ yi tintee-hɩlɩɩ-la wɩɩpɔsʋŋ dɩɩrɩŋ a kɛŋ ŋɩɩ mʋ yi Yufireti fuo-la.","Ọ bụrụ sọọsọ ịyọka kele tinye nụ ya, ịbụghị amụyị tinye hịla wee pọsịndịrị aka ịmụ yị Yufretị fụrụ.",1.0,0.6465
+419,"Nuhuobiiŋ bɛɛ nɛ jaŋ wuo jɩŋ wɩɩ-la ʋ dɔŋɔ sɩɩ bɩɩnʋ? Nʋʋkala bɩ wuo jɩŋ, see ʋ tɩɩna tɩtɩa sɩɩ bɩɩnʋ wɩɩ-la. Ŋɩɩ tɩtɩa nɛ nʋʋkala bɩ jaŋ wuo jɩŋ wɩalɩŋ Wɩa sɩɩ bɩɩnʋ, see Wɩa Dɩŋ-zɔŋ-la dʋndʋŋa.","N'ubi ịmbe na Jenụwarị Jenụwarị, wee laa ọdọ mmiri Bịno. N'ụlọ akwụkwọ Jenụwarị, site n'ụtụtụ ruo n'etiti ehihie wee laa. Mgbe m tetara n'ụlọ akwụkwọ Jenụwarị Jenụwarị, m wee laa site n'ụlọ akwụkwọ, site n'ụlọ akwụkwọ ruo n'ụlọ.",1.0,0.9597
+420,"Ŋɩɩ wɩaa, má laalɛ laalɩyuori kɩaa Wɩa sɩ joŋo pɩma, dɩ tapʋlɩɩ-la wʋbɔŋŋɔɔ sɩɩ chɛ dɩ ba ŋaa ma lɛ, dɩ ma wuo kɛŋ ma tɩtɩa hɛ dɔŋɔ chɩna gbɛrɛ.",Nke a bu ihe mere na ala Yoruba na oge gara aga. O nwere otu nwoke na-ere akwa na obodo Oyo. O nwere otu nwanyị mara mma nke ukwuu nke na ọtụtụ ndị isi na-achọ ịlụ ya.,1.2333,0.9545
+421,"Dɩ ŋ bɩɩnɛ woruŋ aŋ tɩŋ arɩ sɩɩfɩɛsɩŋ, ŋ jaŋ na ʋ",da na bi na wurin antin a rashe fiyason in janna onyoron,1.0,0.8108
+422,"Azaaya bɩra pɩɛsɛ, “Bɛɛ kɩaa nɛ ba na ŋ dɩa lɛ?”","Azaa yaa braa piiasee, bee kyenna banna endiele.",1.0,0.5882
+423,Kohaf tɩŋŋaa naambiiriŋ dɔnsʋŋ ma nɛ fa yie wasɛ boroboro a daŋ teebʋl nyuŋ chɛ-wiesii-la chɛɛŋ na-kala.,Kwa ha changa na mbirindom simma nufaye wasai buruburu adan table nyu chewe sila chen na,1.0,0.4643
+424,"ŋɩɩ wɩaa dɩ baga kɩaa ŋaanɩŋ nɛ yie, ʋ bɩ kʋŋkala ka na.","Nivea, debe ka ke anaa ne ni yie? Ọbɛkɔ nkara ka",0.8462,0.5238
+425,Josua fa mɩɩrɛ bʋa-la tɩtɩa lɛ nɛ a mʋ taŋ-la ba sɩɩ yɩrɛ Hazɔ a yuo dii ʋ dɩ ʋ kuoro kala. (Bʋa-la lɛ Hazɔ nɛ fa ŋaa tasɩ-la kala tʋɔŋ kʋbalɩŋ.),Joshua Famira bu ala teti ala na amuta nlabasi iri hazo ajuo di udi ukwuoro kala buala hazo nifa nga tasila kala tuo nku balan,0.9688,0.3491
+426,"Sobal, nɩɩ-la sɩ suomi Kɩrɩaf Jɩarɩm doho nɩaa nɛ: Harɔɩ arɩ Manaha tɩŋŋaa kpaa magɛ dɔŋɔ,",Subal ne lasuome kerya jarem doho nyane horoi are mana ha tanga pamar dong,0.9375,0.4085
+427,"ka ʋ wiese mɩɩra mʋ Wɩa teeŋ, nɩɩ-la sɩ joŋu hɛ ʋ lɛ.",Khau vhe se mira muvhete. Nne la si dzongu helu.,1.0,0.5789
+428,Wɩɩpɔsʋŋ jɩl nyu-gbaŋa aŋ chɩŋ nɩmɛ ŋɩɩ a mʋ yi tapʋl-piliŋ.,"Onye pasent jụrụ njụ gbanụ, achịlụ m ya, nye amụ yi tapụlụ plị.",1.0909,0.6596
+429,"a nagɛ gɛrɩpɛ-yuoro kpʋlʋŋ-kpoguluŋ sɩɩ fá lɩma lɩma ŋɩɩ,",Anaka gartai yoro polonpogolu nse fa lamaluma ye.,0.8889,0.4565
+430,"Ama tasɩ-la ba sɩ saa dundol-biisiŋ nyuŋ, Iziral laalɩyuoroo bɩ ba-na nyɩga. Hazɔ dʋndʋŋa nɛ Josua nyɩgɛ.",Amaghị m ma ha sị na dun dolụ bisi nyụọ Israel lara Yoruobụ bana Nyeka. Ha zọtụrụ ndụ ha na Joshua Nyeka.,1.2353,0.4458
+431,"Ŋɩɩ nɛ Wɩa pɩɛsɛ Jona, “Ŋ kɛŋ wombiiŋ dɩ ŋ na baanɩŋ tɩa-la wɩaa?”",Nye na ya pia si Jonah. Nke m wee bụ ndị m na-anaghị tiara bia.,1.0714,0.625
+432,"Dɩ La TƖƖNA nɛ kɛmma mʋ Kɛnaŋ tɩŋŋaa tintee-la ʋ sɩ hɛ niiŋ pɩ ma naabalɩmaba arɩ ʋ jaŋ joŋo pɩma,",Relational and communicative intent in Taylor's essay ni mpe mana abalunaba ari ojenjoma,1.0,0.5921
+433,"Laalɩyuori babiibala-la dɔnsʋŋ yɩraa nɛ ŋ-la: Jʋab naambie Asahɛl, Dodo nanʋala Ɛlɩhanaŋ sɩ lɩɩ Bɛtɩlɛhɛm,",La your baby Bala La Johnson Iran in La Job NBE Asahel Dodo na Nwala Ele Hanan Ele Bethlehem,1.2,0.4253
+434,"Má bee na Zaayɔŋ tabal-la lɛ la fa sɩɩ gbieli la gbielee,","Mụ bụ ịna, Zayyanu Tambuwal, Lafia LGA,",1.0,0.6364
+435,Ma jaŋ faasa na hɛɛŋ kɩŋkɛŋ.,Maji anfasaneh kenken.,1.0,0.5
+436,"Araʋna sɩ na kuoro Devit dɩ ʋʋ kɔ, ʋ lɩɩ taha-la lɛ a mʋ chemu, a tuu kpirimi kuoro Devit sɩpaaŋ a kɛŋ ʋ sɩaa chu tinteeŋ.","arụ na-asị na kụrụ dibịa ndụ ọkụ o letaha lalee amụchaghị mụ, atụrụ mụ kụrụ dibịa sị paanụ aka osiachụ tintee",0.963,0.5543
+437,"Tinteeŋ sɩ kɛŋ kɩalɩŋ ŋaa nʋʋkala kɩaa nɛ, kuoro ma tɩtɩa yie na kɩalɩŋ ba sɩ pɛrɛ nyʋʋrʋŋ nɛ.","Tuntaye su kyan kyalanga, noka lakiya na. Koro matitiye na kyalon basapere nyoron na.",0.9474,0.4595
+438,"Lorigo laa nɩalɩŋ sɩ bɩ wɩɩ cheye ka ba chɩchɛ dɩ ba kpʋba ta,","Duru gọọla, mmiri anaghị ewe ike, kọba chiche dị na akwụkwọ",1.0,0.7292
+439,"a lɩɩsɛ kɩaa deemba kala mɩ sɩ chɛ bil a ta. Mɩ ha bɩra joŋ mɩ tɩtɩa hɔpʋla arɩ sɛlɩmɛ nɛ a pɛ, a tɩŋ mɩ sɩ cho Wɩa dɩɩ-bal-la wɩaa.",አልኤስክያ ዲምባካላ ምስቸ ቢልአታ መሃይ ብረጆ መተቲያ ሆፕላ አርሳልማኔ አፔ አተምስቹ ዚያዴ ዚያላቪያ,1.0,1.0
+440,dɩ mɩ bɩra sɩ́ fawʋllʋŋ fá a mʋ tɩgɛ ʋ sɩ jaŋ dɔgɩsɛmɛ lɛ.,de ma bras de feu wallon fa a motike osi ja ndokosom,0.9286,0.5581
+441,"Dɩ ŋ nɛ sɩ, “Aɩ, mɩ bɩ wɩɩ jɩŋ",da na sayi ai,1.0,0.7895
+442,"Ŋɩɩ nɛ Devit yɩrɛ Wɩɩsʋllɩ sɩpaalaaraa Zadɔk arɩ Abɩata, a pɛ Levi doho nɩaa balɩdʋ lɛ: Ʋrɩɛl, Asaaya, Jowɛl, Sɛmaaya, Ɛlɩɛl arɩ Amɩnadab.",إن ديبي يرى ويسمع صدى الأحرار زادوك. أري أبياتا. أفعى لبي دهونيا. بالدوله. أسيال أزايا، يويال، سمايا، إليال، أري أميناداب.,1.0,1.0
+443,"dɩ Wɩa nɛ fa leŋe dɩ mɩ na wɩɩ-la mɩ sɩɩ yɩɛlʋ,",deɛ w'anya fa lengeɛ de ma na w'elaa ma se,0.8333,0.6176
+444,"Nɩɩ-la sɩ kɛŋ wʋjɩmɩŋ na lee-la ʋ sɩɩ mʋ nɛ,",Leila sakayan wujimin na Leila,0.9,0.6562
+445,"Yarɩwɩɩ tɩɩna yie joŋ nɩsɩŋ a nʋrɛ kʋdiilee lɛ nɛ,",Yar wutsiya ce yau na san. An narka dile,1.0,0.6
+446,"Nɩɩ-la sɩ duu kʋ-la arɩ nɩɩ-la sɩ ŋaa lɩɩŋ mɩsɛ kala bɩ sɩɩfɩaŋ wɩɩ ŋaa. Wɩa nɛ kɩɩ ba kala, bɛɛ wɩaa ʋ nɛ leŋe ʋ waa.","N'eleghi anya n'ihe niile mere na ndụ ya, ọ nọgidere na-ejere Chineke ozi. Onye na-ekpe ekpere. Be ebe a, o nile bụ ụgha.",1.0,0.9186
+447,Lɛɛlɛ ma bɩ jaŋ sɛɩ arɩ wɩalɩŋ kala ŋaa wʋtɩtɩɩba nɛɛ?,lele maba jansi ara wiyalen kala na awata tibane,0.9091,0.4419
+448,"Ma nɩalɩŋ kala sɩɩ duori lɩɩŋ arɩ kɩalɩŋ kala sɩ hɛ lɩɩŋ tʋɔŋ,","Manni alankala si duura leen, araki alankala sihee leen tuwo.",1.0,0.4898
+449,"hɛ Zaayɔŋ lɛ nɛ, mɩ peel-la sɩ bɩ disiniŋ kɛnɛ lɛ.",हैप्पी ऑनलाइन में पहला,1.0,1.0
+450,"Ŋɩɩ nɛ Asiiria tɩŋŋaa laalɩyuoroo nɩhɩaŋ-la bʋla pɩba, “Má pɩɛsɛ kuoro Hezikaaya dɩ wɩɩ-la Asiiria kuoru-balɩŋ sɩɩ chɛ ʋ jɩŋ nɛ, ‘Kʋbɛɛ lɛ nɛ ma yɩɛlaa paala hɛ?’",na a si ya tinye ala yoruba hianla bulafoba mepe ya si kori hazikaya dewe ya si re kori balansi cha ojenne kobe la ne ma yala afa le,1.0,0.5079
+451,Má kɔ sarɩya dɩ-diiliŋ a bʋl wɩɩ-la ma sɩ kɛnɛ dɩ mɩ nɩɩ.,"Maka siri adidi ile, aburu we ila masi Canada mini.",1.0,0.4762
+452,"Kʋbɛɛ nɛ jɩma dɩ nuhuobiine dɩma ka jɩl wɩa-nyuŋ nɛ, aŋ ka pʋna kʋa tutuu tinteeŋ?”","Kube na ajuma di do, obi na ajuma ja njiri yue nnu na. Anka puna kuo tu tintin.",1.125,0.5781
+453,"Nɩaa dɔnsʋŋ yie chaarɛ sɛlɩmɛ ba lʋagaba lɛ,",न्यायदान सिंह ये चार साल में,1.0,1.0
+454,"Chɛnɛ-la ba sɩɩ yɩrɛ Adaa tapʋlaa fii arɩ banɛsɛ chɛɛŋ, Juu tɩmma-la sɩ hɛ Susa lɛ bɩra sii hɛ dɔŋɔ lɛ a kpʋ nɩaa zɔɔ-batori ama ba bɩ ba dʋa paa.","Chineke na-asị ya adịla ụjọ tụọ ma na-asị ya, giụrụ mmadụ niile sị ha susuo ya bara sị ha dọrọ ha akpụ n'anya zoba tụrụ ama ba be ba duwa pa.",0.9032,0.6306
+455,"Bɛka hambolibiisiŋ nɛ: Zɛmɩra, Jʋas, Elieza, Elionai, Omiri, Jɛrɛmɔf, Abija, Anatɔf arɩ Alɛmɛf.",,,
+456,"mɩ bɩ ba kʋŋkala na sɩ jaŋ wuo bʋl wɩaa a chagɩlɛba,","N'obodo Akokwa na Anambra steeti, jee ngwo bulie achaghariba",0.9167,0.825
+457,"Hɛzɩrɔŋ sɩ sʋba, Kalɩb joŋ ʋ nyɩmma haala Ɛfɩraf a jaa. Ba lʋl hambolibie a hɛ ʋ yɩrɩŋ Asihu. Ʋ nɛ suomi taŋ-la ba sɩɩ yɩrɛ Tɛkʋa.","Ha zoro sọsọwa Kalebụ jụọ onye mahala Ifrah aja baa lụrụ ha mgbe ole na ole, ehee, o yighị asịhụ. Ọ nị suọ mịta naba sị yịrị Takụọ",1.037,0.5354
+458,"Má tɩtɩa bɩɩnɛ wɩɩŋ deeŋ woruŋ, a na dɩ haal nɩɩ chʋɔlɛ Wɩa lee-la nɩalɩŋ sɩ laa Yesu wɩaa dii sɩɩ hilimu aŋ bɩ kʋŋ joŋo tɔ ʋ nyuŋ, ʋ zɔmɔ nɛɛ?","maka na chi abịrị gị n'ime ngwụrọ a na-adị haala na i chụọlụ ya leela ya nsogbu anya esi bịa dị si hiri mu. M bụ kunje nweta onyunwu, ọzọ ma na",0.9688,0.6389
+459,"Ma jɩma bʋa-la lɛ ma fa sɩ bɩ Wɩa ka chʋɔlɛ, ma faa to Sɩtaanɩ harɩŋ nɛ, a faa kpaarɛ vʋɩyaa ma. Vʋɩyaa deemba fa bɩ wɩaa wuo bʋbʋl. Ba leŋe ma yeŋŋi nɛ.",maji ma buwala le ma fase be wuya ka chwale ma fa ato sita na harin ne afa akwara wuya ma wuya de mba fa be wuya wobo bol belenge me yenge ne,0.8824,0.3772
+460,Abɩraham hambolibiisiŋ nɛ ŋ-la: Aɩzɩk arɩ Ɩsɩmɛl.,Abraham diana Abraham Isaac Ishmael,1.0,0.7
+461,"Johanaŋ ma nanʋala nɛ Azarɩa (ʋ nɛ fa ŋaa Wɩɩsʋllɩ sɩpaalaara, Wɩa dɩɩ-bal-la Solomoŋ sɩ saa Jerusalɛm lɛ),",ya na mma na nụala niile Azaria Ọ nụfa ya wee si na ya si paalaara wee dịrị Bala Solomọn si ha Jeruselem,1.2778,0.4405
+462,"Asa hambolibiisiŋ nɛ: Imina, Isiva, Isivi arɩ Bɛrɩa. Ba dɩhaala nɛ fa ŋaa Sɛra.",ka haṁ bolī thī ki main na isī vā isī vī are bāriyā na dahālā nafaṅgā,1.1429,0.5738
+463,"Mɩ sɩ kʋ tuu, mɩ na dɩ ma vɩa wɩalɩŋ ma TƖƖNA Wɩa sɩ dagɛma nɛ, aŋ ŋaa wʋbɔŋ a kɛŋ sɛlɩmɛ a libi nɛ-bie. Ma guu vɩa wɩalɩŋ La TƖƖNA sɩ dagɛma nɛ.","Mister Couture,",1.0,0.9439
+464,a joŋu pɩ ŋ hantolibiisiŋ dɩ ba kaa gbigbielii?,"Ajonwa pe nka ntolubi isi, na-ewaka agwugwu eli.",1.0,0.4211
+465,"Biiri-la ʋ sɩ lʋla Jerusalɛm lɛ nɛ ŋ-la: Samʋa, Sobab, Netaŋ, Solomoŋ,",في رحلة أورشليم لنن في صموئيل، سفر نثان، سليمان,1.0,1.0
+466,ŋɩɩ nɛ ʋ nagɛ nɩalɩŋ ma sɩɩ fá fawʋllʋŋ a bɩ ta lɛ.,"Nye na o ndakayɛ, nye le mmasi fafawonlon abetal",1.0,0.5526
+467,"Dɩ ma nɛ fa jegile nɩɩ wɩalɩŋ mɩ sɩ dagɛma, a kɛmba tɩŋ,",Jamanar fajjar ne biya lam masallaci a kan batun,0.9231,0.6429
+468,a leŋ dɩ kʋŋ na-kala sɩ zɔmɔ hɛ ba tinteeŋ lɛ.,"Elen de kụọ n'akala, sụ zọọ mụ hị, m bido ntị ịnụ.",1.0909,0.5588
+469,"Dɩ ŋ nɛ cho nɩaa, ŋ jaŋ kɛŋ kenyiri ba teeŋ a kɛŋ zile ma, ŋ bɩ jaŋ kɛŋ yarɩ-bieriŋ nɩaa teeŋ, ŋ bɩ jaŋ bibigisi ŋ tɩtɩa lɛ ba teeŋ, ŋ bɩ jaŋ ŋɩŋaa sɩɩ-duoŋ ma ba lɛ.","en ni chuonya, nja ka en keny irbete akasulema mbeja ka en yer biere ni a te mbeja mbe bigis ntati ala bete mbeja ng'asi duoma",1.0,0.4959
+470,arɩ ŋ sɩ kɛŋ jɩma arɩ ŋ chichiribiŋ ma kala.,"Aro esekene jama'a, aro cicirbin makala.",1.0,0.4118
+471,"La pʋsʋŋ ma maga dɩ ba to la harɩŋ mʋ nɛ. Kʋŋkala bɩ maga dɩ ʋ ka, ba nɛ la jaŋ kaa zil La TƖƖNA Wɩa. La bɩ jɩŋ pʋna-la la sɩ jaŋ kaa kpʋ zil La TƖƖNA, see dɩ la yi nɩmɛ.”",la fa so mma ka de be to la haram muna kon ka la be maka du o ka ba ni la janka zi latina diya la be jempo la zi janka kpo zi latina se de le yi na,0.8372,0.4016
+472,Pɛrɛs hambolibiisiŋ nɛ: Hɛzɩrɔŋ arɩ Hamʋl.,Para el ambulismo de San Jerónimo,1.0,0.7143
+473,"La TƖƖNA Wɩa jaŋ kɛmma kaa mʋ tintee-la ʋ sɩ hɛ niiŋ pɩ ma naabalɩmaba Abɩraham, Aɩzɩk arɩ Jekɔb arɩ ʋ jaŋ joŋo pɩma, tabalaa sɩ kɛŋ dʋa ma sɩ dee bɩ chɛ,","na Chineke m ka mụ tinye la osisi ha niile pụta mana abalị ma ba Abraham, Isaac, na Jacob. Oge njọ pụta, taa bụla asị ka m duo mụ dee",0.9394,0.5763
+474,"Kaku-werigiŋ nɛ na yaŋ a didii, ʋ bɩra bɩ yel,","Kakuwakan nan na yyan adiddi, wofi da biye",0.9,0.5
+475,"Baa bal nɛ lɩma lɩma, a nagɛ lɩɩŋ daboro sɩɩ fá lɩɩŋ tʋɔŋ,","Bábaláwo náà lẹ́ẹ̀kan sí i, ó ní àwọn ò gbọdọ̀ sọ ìfá lẹ́ẹ̀kan tó.",1.0769,0.8182
+476,Nɩɩ-la wʋŋaalaa sɩ tɔrɛ Wɩa tʋɔŋ dʋndʋŋa nɛ jaŋ fori ʋ nɩsɩŋ lɛ.,ne na wanga lasu torbiyaton danga ne jamfuri wuni,1.0,0.6
+477,Onam ma hambolibiisiŋ nɛ: Samaɩ arɩ Jada. Samaɩ ma hambolibiisiŋ nɛ: Nadab arɩ Abisu.,,,
+478,Wɩɩŋ deeŋ nɛ ŋaa bʋa-la lɛ Zɛzɛs sɩɩ beŋ tasɩŋ zɔlɔ arɩ mara arɩ balɩpɛ a chɩŋ Indɩa lɛ a kaa mʋ Kus.,India na-agba mbọ lee na ha ga-esi be ha tasịnzọlụ arụmara arụmalụ pụrụ iche n'India lee aka amụkụ,1.0,0.6104
+479,"Zerubabɛl fa kɛŋ hambolibiisiŋ banɔŋ ma nɛ: Hasuba, Ohel, Bɛrɛkɩa, Hasadɩa arɩ Jusab-Hɛsɛd.","Ndi be Alpha Conde na ndi be isi mba na-omanu Hasuba, Ohel, Berachah, Hassadiah, Are Jethro, Haset",1.1538,0.5479
+480,"“Ou wɩɩpɔsʋŋ, ha chɩŋ dɩ-bala a chugili Gibioŋ lɛ.",Wai pasun hacin dabala a chuguligibiyon,0.8889,0.4211
+481,"Ŋɩɩ nɛ Solomoŋ laa ʋ nyɩmma Devit nyuŋ a dii kuoruŋ a hɔŋ La TƖƖNA kuoru kpasa-la nyuŋ, wɩɩkala vɛŋ woruŋ pʋ, Iziral tɩŋŋaa kala tuto ʋ niiŋ.","Nye na nsogbu na-adịghị mma dị iche iche, adịghị kụrụ ahịhịa na-adịghị kụrụ kpasara gị, wee kalịbe nwụrụ mpụ. Ihe a na-akpọkwa ụmụ nwaanyị",1.0,0.7545
+482,"Dɩ nɩyaarɩŋ ma nɛ paala tɔrɛ ʋ niiŋ, ba yie bɩɩnɛ ʋ ŋaa wʋjɩnnʋ nɛ.",,,
+483,"Dɩ ŋ nɛ sɛnɛ chomi a cho dɩ ŋ ŋaa wɩɩ-la mɩ sɩɩ chɛ, ŋɩɩ na ŋ dɩ Hamaŋ chie bɩra kɔ daha a dii kʋdiilee, bʋa-la lɛ nɛ mɩ jaŋ dagɛ kʋla mɩ sɩɩ chɛ.","De ene sanne chomi, acho de inna welamase che. Nena ande heman chie berako da ha adiku dile. Bualane maja ndaka kulamase che.",0.9444,0.4057
+484,"Ʋ bʋl nii-la sɩ hɛ ma dɩ ʋ pɛgɛ wɩaa nɛ, niiri-la fii ʋ sɩ dagɛma dɩ ma tuto, aŋ ŋmʋnsɛba hɛ tabɩɩ-taalaa balɩa lɛ.","O bulu na ị lasa, ma dobe ka ụyanị, n'ihi na ọ sọrọ m adị mfe tupu a nwonsaba ha taa bụ taa laa balịa.",0.96,0.5529
+485,"a chɩchɛ lɩɩŋ, bɛɛ wɩaa fuonuŋ kala hʋa nɛ,","Ache chele, boro hoye fulon kaler fuon.",1.0,0.6364
+486,Ʋ yie na dɩ tɩntɩmɩɩ-la ʋ sɩɩ tɩŋ kɛŋ nyʋʋrʋŋ.,Yana da tantance maila a saitun kanyon.,1.0,0.6571
+487,"Mara arɩ balɩa nɛ ŋaa Gidaliti arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",ማራ አረባሊያ ንጋ ገዳሊቲ አሬ ኦሃምቦልቢሲን አሬ ኦናይንቢሪን ባሜፊ አረባሊያ,1.0,1.0
+488,"Dɩ mɩ nɛ bɩɩnɛ wɩalɩŋ Wɩa sɩ ŋaa pɩla, mɩ yie tuu kpirimi la Nyɩmma Wɩa sɩpaaŋ nɛ.","Ndi muna be na Umuariam Obowo, mụ ya na ụmụ nne mụ nwanyị wee sapaa nri.",1.0,0.746
+489,Ɔbɛd-Ɛdɔm doho nɩaa mahɩŋ batori arɩ balɩa kala nɛ fa ŋaa nɩduoru sɩ jaŋ wuo pɔ Wɩa dɩɩ-bal-la.,Robert Adam,1.0,0.9189
+490,"Azarɩa ma nanʋala nɛ Amarɩa, Amarɩa ma nanʋala nɛ Ahitub,",အာမားရီးယား မာလာနွယ်လမ်း အာမားရီးယား အာမားရီးယား မာလာနွယ်လမ်း အဟိတု,1.0,1.0
+491,Bʋa-la lɛ nɩaa sɩ jaŋ kɛŋ kʋa kɩɛsɛ arɩ bʋa-la lɛ ba sɩ,Bwala le nya se janke kwa kese. A ri bwala le,1.0,0.4634
+492,"Ba tɔ Ijipiti tinteeŋ kala nɛ ʋ biri, a dii kʋŋ na-kala sɩ nyʋa, tɩɩnɛnɛɛ, pɩpaarɩŋ arɩ kʋŋ na-kala duoŋ-tabɩa-la sɩ bɩ kpʋa.","Acha ojị bụ tinye ya na ụibiri, adịkọna kala senụa, tinye nanị peparanụ, arịkọna kala dịka ụdị alasa bụpụ.",1.0,0.5474
+493,Má keri peelee arɩ dundolluŋ a kaa jɛrɛ dɩ ba magɛ dɔŋɔ. Má tɔ buotuonuŋ dɩ ba kala magɛ dɔŋɔ.,"Maka na ihe a na-eme na-akwado ya, ọ bụghị naanị maka ụmụ nwanyị.",0.95,0.7671
+494,"Fɩlɩsɩtɩa tɩmma-la fá a vɩa ba tɔŋŋɔɔ ta nɩmɛ, ŋɩɩ nɛ Devit bʋla pɩ nɩalɩŋ dɩ ba paa nyɩgɛ.",Fleshy yaa tum maala fa a viaba tongo ta ni mi. Nyeri debir bula pe ni ala di ba pa nyeke,0.9474,0.4714
+495,Wombii bɛɛ nɩɩ mʋ lee-la duonuŋ sɩ yie lɩgɩsa lɩɩ a pɩsɛ?,"Wani ba ne Mullele, twanin siye lakasale.",1.0,0.6364
+496,"Dɩ nʋʋ nɛ vɩa dɩ ʋ nɩɩ summo yele, ʋ ma jaŋ yel,",Dị n'onwe ya. Dị ka onye so mụ yere. Ọma m ji nye.,1.0,0.6176
+497,"dɩ ba nɩɩ vɛŋ sɩma kɛnɩŋ, ba bɩ wɩɩ ka fá.","Ndi be anyi efenne, si m akenu, baba gozie ka",0.9091,0.7333
+498,Tɩntɩŋ-dosunuŋ deemba kala lɩɩ Wɩa Dɩŋ-zɔŋ-la teeŋ nɛ. Ʋ tɩtɩa tʋɔtɔrʋŋ lɛ nɛ ʋ to a joŋ kʋ-dosunuŋ deemba a pɩ nʋʋkala arɩ ŋɩɩ ʋ sɩ cho.,"Chineke dosiri ndị ya mba ka ha laa n'iyi adịghị so na leta ya na. Otú ọ dị, ọtụtụ n'ime ndị mba apụghị n'ụlọ arụghị ọrụ",1.0,0.7619
+499,Ŋɩɩ nɛ Devit leŋ Asaf arɩ ʋ harɩŋ nɩalɩŋ hɛ Wɩa niiriŋ daga-la teeŋ aa dɛnnɛ La TƖƖNA bʋa na-kala a ŋaa wɩalɩŋ sɩ maga baa ŋaa tapʋlɩɩ kala.,"Nye na-ejebe ịlụ agha, ọ bụghị naanị na ha ga-enweta ihe ha chọrọ, mana ha ga-enwetakwa ọtụtụ ihe.",1.0,0.7798
+500,a kɛmba kʋ tuu fuonaa-la ba sɩɩ yɩrɛ Jehosafat.,Aka mba kutu fu na alaba sey iri Jehovah Safa.,1.1111,0.3243
+501,La laa Wɩa Dɩŋ-zɔŋ-la nɛ. Ʋ tuo dʋnɩa deeŋ kʋŋ. Wɩa joŋ ʋ Dɩŋ-zɔŋ-la a pɩla nɛ dɩ la wuo jɩŋ kɩalɩŋ kala ʋ sɩ joŋo dii zile la lɛ.,"Na la wey adin sanla ne, otu oduniyan de nkon wey je odun sanla a pulane dile wey je kyalankala osi je odi zile lala.",0.9333,0.4894
+502,"Ŋɩɩ nɛ Mosis hɛ niiŋ a bʋl tapʋlɩɩ-la, arɩ tintee-la mɩ sɩ joŋ mɩ naaŋ a nʋɔsɛ jaŋ ŋaa mɩ dɩ mɩ biiriŋ kʋŋ a kaa mʋ wuu, bɛɛ wɩaa mɩ to mɩ Tɩɩna Wɩa arɩ mɩ tʋɔŋ kala nɛ.","Nna Moses Henneh abotreepre la, a reteela mesidom mena anwase, jaa meni mena birin kon aka mu wu. Beewia, meto meti na wia are metuankala",0.975,0.504
+503,"Ŋ jaŋ bee chɛmɛ, ama ŋ bɩ jaŋ namɛ.”",njambe chere mma mma janna m,1.0,0.48
+504,"Jadaɩ hambolibiisiŋ nɛ: Regem, Jotam, Gesaŋ, Pɛlɛt, Ɛfa arɩ Saaf.","चडाई, हमबली विसन ने, रे गेम, ग्युथाम, गेसांग, फेलेट, एफा, आर एस साफ",1.3,1.0
+505,Saharem arɩ ʋ haala Husim ma fa lʋl hambolibiisiŋ balɩa nɛ: Abitub arɩ Ɛlɩpaal.,"Saherim, are o hala usim ma falola mbolibisi mbaliane. Abitu are ele pa",0.9286,0.2812
+506,"Zɩf, Zɩfa, Tɩrɩa arɩ Asarɛl.",Zif Zifa Ziria Are Asra,1.0,0.4286
+507,a leŋ mʋgʋ-balɩŋ vuvuugi a nagɛ nʋʋŋ ba sɩ joŋo hɛ pupoiŋ tʋɔŋ a chɔ nyiniŋ lɛ.,"Mogbalen vuvu ki, anar non, besu jon ha pepen tro, acho nyin le.",1.0,0.5082
+508,bɛɛ wɩaa ba ŋaa mɩ nɩaa pɩsa hɛ tinteyee lɛ nɛ a kɛŋ mɩ tinteeŋ kpaa.,ဘယ်သူ့အပေါ်မှာ မေတ္တာပসাဒ ထားသင့်ရေးနဲ့ အဂတိ ထားသင့်,1.0,1.0
+509,"Ŋɩɩ wɩaa dɩ nʋʋkala nɛ dii boroboro-la koo a nyʋa nyʋnyʋala-la tʋɔŋ ŋɩɩ sɩ bɩ maga, ʋ ŋaa wʋbɔŋ nɛ, bɛɛ wɩaa ʋ bɩ La Tɩɩna yaraa arɩ ʋ chal-la joŋo arɩ ba ŋaa sɩɩfɩaŋ kɩaa.","Nye ya na nọọka na-adị buru buru leko anya onye nyọlala tụọ, nye ya sebe maka onye agbụbọ nne. Bee ya obelatịna yara arụ ọcha le jọọ arụba ngasị fịa nkea.",1.0,0.5496
+510,"Nɩɩ-la kala sɩ chɔnsɛ tɩa-la nɛnɛɛ ba sɩɩ dii a beŋ ʋ nyuŋ,","Nne ya kacha ya nso si ya laa n'ụlọ, bịa si D.A.B. onye ụṅụ",1.0769,0.7045
+511,"Ram nanʋala nɛ Amɩnadab. Amɩnadab ma nanʋala nɛ Nasɔŋ, ʋ fa ŋaa Juda nɩaa sɩpaalaarʋ nɛ.",Ram Nanuwala ne Amina Daap Amina Daap Mananuwala ne ne song ofa Judaa Diya sipaala aur ne,1.0,0.4
+512,"sɛlɩmɛ, hɔpʋla, kɔlɩɩŋ arɩ hɔɔŋ kaa tɩmɩŋ. Lɛɛlɛ suomi tɩntɩmɩɩ-la, La TƖƖNA jaŋ pɛ ŋ lɛ.”",สาลเม อะปะลา คอเลียง แอรฮอง คาตะมัง เลเล ซูมี ชันทะเมลา ละทีนา ยัมเปอัง,1.0,1.0
+513,Ŋɩɩ nɛ Josua arɩ Iziral tɩŋŋaa laalɩyuoroo kala sii Makɛda lɛ a mʋ taŋ-la ba sɩɩ yɩrɛ Libina a yuou.,Nna Joshua a ri Israel tinye ala yoro kalasi maki dalu a mọ tị ala ha bụ ndị Lebanọn. A,0.95,0.5063
+514,ŋ sɩ jɩŋ wɩaa sɩaa ma nɛ kpɩa ŋ sɩ kɛŋ hɔpʋla.,Asi gi na m bia asi ya mana m bia asi gi na m hopu,1.25,0.7647
+515,"Ŋ pɩɛsa, ‘Kʋbɛɛ nɛ kaŋ dɩ ŋ pɩɛsɛ wɩaa a mʋ tɩgɛ mɩ wʋjɩmɩŋ lɛ,",kobanikan danpiya sawiya amutaga mawujiman,1.0,0.6304
+516,Adɩɛl nanʋala Azɩmavɛf nɛ faa beŋ kuoro chʋgʋsʋŋ dɩɩsɩŋ.,"Realmente no era así, más bien fue un vínculo circunstancial.",1.1111,0.8936
+517,"Ɛlam, Jehohanaŋ arɩ Ɛlɩɛhɔnaɩ.",JOHO HANA ARE LIA HONA,1.25,0.48
+518,"Levi hambolibiisi-la batori, Gɛsɔŋ, Kohaf arɩ Mɛrarɩ, ba ma kɛŋ hambolibiisiŋ nɛ.",la bature,1.0,0.9077
+519,kɔlɩɩŋ ma nagɛ daa-pʋɔŋ ʋ teeŋ.,Kholé ma nakhé da puong uté,0.8333,0.7083
+520,Jɛhɩɛlɩ hambolibiisiŋ Zetam arɩ Jowɛl nɛ faa beŋ La TƖƖNA dɩɩ-balɩŋ tʋɔŋ dʋa.,क्या हाल है? हम वर्ल्ड रेसिंग जीता है और यह वर्ल्ड नंबर वन है। लैटिन डी बैलून डी'ओर,1.3846,1.0
+521,"Amazɩa, Amazɩa ma nanʋala nɛ Azarɩa, Azarɩa ma nanʋala nɛ Jotam, Jotam ma nanʋala nɛ",अमेज़िया अमेज़िया माना नुआलाने अज़ारिया अज़ारिया माना नुआलाने जोटाम जोटाम माना नुआलाने,1.0,1.0
+522,Amɔŋ. Amɔŋ ma nanʋala nɛ Josaaya.,Amon amon anwalani,1.0,0.5769
+523,a laa nɩalɩŋ sɩ bɩ ba tɩtɩa lɛ wuo pɛ ta dɩ nɩduoruŋ sɩ́ ba dɔgʋsʋ.,Alani alaji suba batati ale wupe ta di nuduro suba dogo,0.9375,0.44
+524,Ŋ ha vɛŋ tintee-la sɩ hɛ mʋgʋ-balɩŋ bʋbʋɔŋ?,na ventin tela se he mo balan bubu,1.0,0.4848
+525,"Wɩa nɛ paala vɔɔba bil ma, ba bɩ yele sʋsʋlʋ dɩ ʋ pɛ ba lɛ.",,,
+526,"Ŋɩɩ nɛ kuoru Zɛzɛs pɩɛsɛ Ɛsɩta, “Kʋbɛɛ nɩɩ chɛ dɩ ʋ ŋaa wʋdoho deeŋ? Nɩɩ nɛ tɩɩna hɛ?”",Ya na-ekworo ziri ezi site na esta. Koba na-iche dị ụnọ wụ dị hụ dị. Na-ịna tinye,1.0,0.6875
+527,Ŋɩɩ nɛ Mosis lɩɩsɛ tabalaa batori sɩ hɛ Jɔdaŋ fuo-la wɩɩpɔsʋŋ dɩɩrɩŋ.,Nyenemosis lesa tabala betori sehe jodan fuola we posindira,0.9167,0.3929
+528,"Modikaaya lɛɛlɛ kʋ ŋaa nɩbal kuoro dɩa lɛ, ʋ yɩrɩŋ teeli tintee-la kala kuoro sɩɩ beŋ, ʋ doluŋ faasa pʋŋa pɛ.","mọdịka a ya leele kụọ na balụ nụ mọdịka a ya leele kụọ na balụ kụọrọ dị elu, o yiri ntị elu tịntịla kala kụọrọ si ibe odolo mfasapụ apụ",1.4286,0.7059
+529,"Ŋɩɩ nɛ Josua hɛ Iziral tɩŋŋaa tɩntɩnnɩ-hɩasɩŋ a bʋl,","Ni Joshua, ha Isral ta nga tuntun na hiyason abul.",1.1111,0.4762
+530,Leŋ dɩ nɩaa ziziliŋ dɩ ŋ gigenni dɩ mɩ na.,Blender nyazisile di ingigenni,1.0,0.5625
+531,ba jaŋ wuo yɛrɛ mɔlɩɩ arɩ ba sɩ yie chagɛ pʋgʋmʋŋ yɛrɛ ŋɩɩ.,बजन वो यारे मोले अरबसिये चगे पोकोमन यारे,1.0,1.0
+532,"Saŋgɛɛŋ bɩ jaŋ wuo waa yi lee-la lɩɩŋ sɩ bɩ yʋgɛ,","Sannu, in bijimi wuwu ayi, de la le sabayoko",1.0,0.5676
+533,"Ŋɩɩ nɛ kuoro pɩɛsɛ, “Modikaaya sɩ ŋaa wɩɩŋ deeŋ, bɛɛ kʋŋ wʋzɔŋ nɛ ma joŋo siilu?” Ŋɩɩ nɛ kuoro dɩa tɩntɩnna-la bʋla pʋ, “Ba bɩ wɩɩkala ŋaa pʋ.”","Nye nu kwụrụ pịa ya, ma degaa ya na akwụkwọ ozi na-acha anụnụ anụnụ. Nye nu kwụrụ di ya tuntun na-abụghị abụ, baba wee kalaa",1.0,0.6792
+534,"Ŋɩɩ wɩaa, jegile nɩɩʋ woruŋ aŋ kɛnʋ kaa tɩŋ.”","Nye wa, jegede nniọ wụrụ akọnụ ka atọnụ.",1.0,0.5588
+535,"Dɩ Wɩa nɛ sɛyɛ, mɩ bɩ jaŋ dieni aŋ kʋ nama. Dɩ mɩ nɛ kɔ, mɩ bɩ chɛ dɩ mɩ nɩɩ deŋgiŋ tɩŋŋaa deemba wʋbʋlaa dʋndʋŋa, ama mɩ jaŋ chɩchɛ dɩ mɩ jɩŋ dol-la ba sɩ kɛnɛ,",deɛ me ne saa yɛ mebɛgyae ndidi na ankoma de me nokorɔ mebɛkyerɛ de me nni dɛn gin tin nga de mbaa wopula adundo ama megyaa nkyekyɛ de me gye ndo laba,0.973,0.6218
+536,Gɩrɩma dii nɛ yie leŋ wʋjɩnna bɩrɩmɛ nɩyaarɩŋ.,"Agụrụ m adị na-agụ m, e ji m nna abụrụ m na-arịọ",1.5,0.6053
+537,"Juu tɩŋŋaa cho dɩ Wɩa ŋaa wʋmagɩl nɛ dɩ ba na, ka Giriik tɩŋŋaa ma cho dɩ Wɩa dagɛ ʋ wʋjɩmɩŋ dɩ ba na.","Ndi Uruagu Nnewi North Local Government Area, Anambra State, Nigeria.",1.0,0.8701
+538,"Ʋ nɛ hɛ doho kala yɩrɩŋ, kɩalɩŋ kala sɩ hɛ Wɩa-jaŋ arɩ kɩalɩŋ kala sɩ hɛ tinteeŋ lɛ.","Wɔne no di hɔ kala yeren. Kyerɛn kala se ha wia jan, ara kyerɛn kala se ha tintin.",0.8889,0.5
+539,Ma bɩɩna mɩ bɩ wʋzɔmʋŋ arɩ wʋbɔmʋŋ bʋa jɩŋ?,"Mabịa na mbeghachi ọmụmụ, a na m gụba ọmụmụ ụbọchị ahụ.",1.2222,0.9412
+540,"Nɩalɩŋ sɩɩ kpaarɛ tɔmɔ-la ma ŋaa nyʋlɩma nɛ,",Nyalal se karachomala. Mang'a nyuol mane,1.0,0.5143
+541,"Daŋ, Nafɩtalɩ, Gad arɩ Asa.","Dang, Napthali, God,",1.0,0.65
+542,"Ama wɩaa bɩ jaŋ vɛŋ woruŋ a pɩ nɩbɔŋŋɔɔ-na. Ba mɩɩsɩŋ bɩ jaŋ duomi, a nagɛ daaliimiŋ sɩ yie duomo pɩpɛ ŋɩɩ, bɛɛ wɩaa ba bɩ Wɩa ka fá.","Amaa, mụ ya bụ jamfụlụ n'ụlọ akwụkwọ na-abụ mụ esem beje ndụọ mụ, a na m a sị ya na ndụọ mụ pụpe gị. Ma ya bụ, mụ na ya ka",1.0345,0.72
+543,"Ŋɩɩ nɛ Modikaaya ŋmʋnsɛ wɩalɩŋ kala sɩ ŋaa a hɛ teniŋ tʋɔŋ a bil, aŋ joŋ tenni-la dɔnsʋŋ a kpaa Juu tɩmma-la kala sɩ hɛ kuoro Zɛzɛs tinteeŋ lere-la sɩ bolie arɩ lere-la sɩ kpaga kala,","Ngene mọ deka, mwanse wialọ kalasị a ahe, tenen tuon abụl. Anjon tenela dosọn akwụajụ tun mala kalasị he, kọrọ zọzọsị tin ten lere la sị bolie, arụ lere la sị kwaka kala.",0.9444,0.3803
+544,"Dʋnɩa nɩaa wʋjɩmɩŋ ŋaa pɛɩ nɛ Wɩa teeŋ. Wɩa teniŋ tʋɔŋ ba bʋla,",Nyan Nyan wujin nga pe ne wietin wietin tuong,1.0,0.7143
+545,Dɩ nʋʋ nɛ joŋ kɩaa chɩŋ nɩaa a faasa kɛŋ lɩɩŋ dɩdaŋ,Then only John Keats and Nia are faster than Linda Dan.,1.0,0.775
+546,"Kohaf doho nɩaa: Hemaŋ nɛ yɩɩlɩ yɩɩra-la sɩpaalaara, ʋ nyɩmma nɛ Jowɛl, Jowɛl ma nyɩmma nɛ Samʋɛl,",कोहा दुहुनिया हेनमान ने येरेला येरेयेरासपा लारा ओन्यामने जोएल जोएल मन्यामने,1.0,1.0
+547,"Wɩa pɩmɛ wombii-bal nɛ dɩ mɩ tɩŋ tɩntɩŋ zɔŋ daha, ka nɩalɩŋ sɩ bɩ chɛ dɩ mɩ tɩŋ tɩntɩŋŋaa daha yʋgɛ.","ya fi mu wanda ya balne da ma tantantan zong da ha, ka ni ya linsirche da ma tantantan a da ha",1.0476,0.5584
+548,"Mɩ naambiiriŋ, mɩɩ sʋl ma kala La Tɩɩna Yesu Kirisito yɩrɩŋ lɛ, dɩ ma kala kɛŋ nii-bala a sɩ́ dɔŋɔ lɛ pɔrʋ. Mɩɩ sʋlma dɩ ma kɛŋ tʋɔ-bala a chɩŋ wʋbala lɛ.","bụ ndị maara ụbọchị ọma. Dịka a na-amakwa letịle na ya bụ mbibi nile, dị na unu ga-awụcha ụdọ ọbụla etị obetọrọ. Dị na unu gịrịmala ụdọ ọbụla",1.0,0.8448
+549,ama La Tɩɩna nɛ jaŋ dagɛ wɩɩ-la sɩ jaŋ ŋaa.,"Amalathina ni kya ndake, wila sigyan'a.",1.0,0.5
+550,"Nɩmɛ nɛ ba na pʋsʋŋ ya-zɔmʋŋ, tintee-la ma jal woruŋ, a fɩɛla pɩŋ sɔm, wʋwalɩmɩɩ ma kala tuo. Ham tɩŋŋaa dɔnsʋŋ nɛ fa hɔŋ lee-la aŋ ka.","Nne m na-abụkarịkarị ya zọọ m, tinye la majalụrụ m, afiala pensụl m, ụmụ akwụkwọ m na-agaghị etu ha, tinyea dọsịrị na faịlụ lela.",1.0,0.6436
+551,“Nɩalɩŋ La TƖƖNA sɩ cho nɛ ŋ-la a leŋ ba hɔŋ sɔm.,"Ndi ala nile tinyere isi ha na nla, eleghi anya ha hụ nsogbu",1.0833,0.9429
+552,Ama nɩyaarɩŋ-na tʋɔbɩɩnaa kala nɛ dɩ ʋ ŋaa wʋlɔrʋŋ.,na yara na tuwo biyu na kala na dunga wulakanta,1.1111,0.6341
+553,"Kɛnaŋ nɛ lʋl Sɩdɔŋ, ʋ bii-hɩaŋ, Hiti tɩŋŋaa,",坐下。,1.0,1.0
+554,"Yesu nanzɔɔba-la kala, mɩ nɛ paala ŋaa ba tʋɔŋ kʋbie. Ʋ paala bɩ maga dɩ ba kɛmmɛ kaa yɩrɛ Wɩa nanzɔɔ, bɛɛ wɩaa mɩ to naasɩŋ dɔgɩsɛ nɩalɩŋ sɩ laa Yesu wɩaa dii aa hilimi nɛ.","Yesu na nzo ba la kala, o ne fa la nga ba tuo nku bie, o fa la ba maka, ne ba ka emi ka yere wiya na nzo. Be bia, mi tu na asi ndo si nyali nsa la Yesu bia di, a hili me",1.1389,0.4211
+555,"Ɛlɩab, Jeroham, Ɛlɩkaana arɩ Samʋɛl.","Jeroboam, elcana, are Samuel.",1.0,0.4828
+556,"La bʋla arɩ Kirisito sʋʋ daagɛsɛ nyuŋ, ŋɩɩ bɩ bʋbʋɔ kɛnɛ nɩalɩŋ sɩ lɛlɛ teeŋ. Ama la nɩalɩŋ Wɩa sɩ laa ta, wɩalɩŋ nɛ ŋaa Wɩa doluŋ la teeŋ.",ama we have four ma bu bongochane wea na ti ma atelachi na kristo via ara wea dunzolo dolinle,1.0,0.7757
+557,"Má leŋ dɩ ma tʋɔŋ tɔrɛ a tɩŋ ma sɩ ŋaa ʋ nɩaa, ma nɩalɩŋ kala sɩ ŋaa ʋ nɩaa, má jʋjʋɔsɛ.",မလိုင်သီး မထောပတ်သီး အသီးမစေ့ ငါ့ဦးနှောက် မနီယံကလပ်စေ့ ငါ့ဦးနှောက် မကျီးစေ့,1.0,1.0
+558,"Ama, ma nɩalɩŋ kala sɩ lɔgɛ wɩaa a wuwurisi ma dɔnsʋŋ,","Amaghị m ma na-alọghị n'ala sọọsọ ka ọ dị a, a wụrụ m mmadụ ọzọ",1.1818,0.7143
+559,"Ama Wɩa dii zile mɩ lɛ woruŋ. Ʋ nɛ leŋe mɩ ŋaa nʋʋ lɛɛlɛ, ʋ zile ma bɩ pɛɩ ŋaa, ama mɩ nɛ faasa tɩŋ kɩŋkɛŋ, a kɩɩ ba kala. Mɩ tɩtɩa doluŋ lɛ dee mɩ wuo tɩtɩŋ, ama Wɩa dol-la ʋ sɩ joŋo pɩmɛ nɛ tɩɩ.","A ma wee di izu ole na ole gara aga, onye ịrọ ga-eme nga anụ ụlọ elele. O zuo ole ma be ya nga, a ma m nịfa asatọ nke nke ya a ka ịba kala. M chọọchaa dozie nlele di, m wee tetanụ. A ma wee dozie ọsịja ọfịs permanentị.",1.0638,0.662
+560,"Devit fa paa laalɩyuori kɩalɩŋ ba sɩ kɛŋ sɛlɩmɛ ŋaa nɛ, hɔɔtaalɩ-la Hadadɛza laalɩyuori-hɩasɩŋ sɩ kaa kɛrɛɛ laa bayuori hɛŋŋɛɛ, a kaa mʋ Jerusalɛm.","David faapaa laa liyuru kyalem baasee kansaala mangaane, haataala laa haada dezaa laa liyuru hyaasong sakaa karelaa be yuru hange akaamu Jerusalem.",1.0,0.4202
+561,"Dɩ ʋ nɩɩ vɛŋ mʋgʋ-balɩŋ tʋɔŋ, ʋ libe yie pɩŋ nɛ a tʋtʋl,","Onye iro balụntụọ, ụlọ ya epenne atọtọ.",1.0,0.6829
+562,"Nɩalɩŋ sɩ cho La Tɩɩna Yesu Kirisito a kaa mʋ deeŋ deeŋ, Wɩa jaŋ fá nɩaa deemba kala nenige.","Nia l'insurgé latin est écrit tout à cas mon dindé, via jam fa, nia de m'accaparer les niquer.",1.0,0.6528
+563,dɩ tɩɩna nɛ paala bɩra bɩ Wɩa doluŋ kala Tɩɩna ka fá ma.,"TINA paala berabe, we doli nkala TINA ka fa",0.7692,0.3721
+564,"Mɩ tuu yi peele-la sɩ hɛ mʋgʋ-balɩŋ tʋɔŋ bʋbʋɔŋ nɛ,",Mitu yi fele la sehe mu balan tuwa mu buwane,1.0,0.5128
+565,"Bapʋɔsɛ bie, leŋ dɩ ŋ tʋɔŋ tɔrɛ ŋ bapʋɔsʋŋ lɛ,","Mba pụọ na be ya. London tụọ ntụrụ, mba pụọ na",1.1,0.7143
+566,"a leŋ dɩ ʋ tinteeŋ ma kɛŋ olif tɩɩsɩŋ a yʋgɛ,",Hellen de Ootmarsum en Olst die zijn aan het,1.0,0.9118
+567,"Hɛzɩrɔŋ ma hambolibiisiŋ nɛ: Jɛramɛɛl, Ram arɩ Kalɩb.",हैदराबाद में हम बोली भी सुने। जारमेल राम खेलप,1.125,1.0
+568,"A nagɛ wɩɩpɔsʋŋ sɩ yie guu tɔɔ lɩɩ ŋɩɩ peelee nyuŋ,",A na-ewepụta nsị ya gụtọrọ n'ihe pere mpe.,0.9091,0.7
+569,"nɩwogo, ŋ tɩtɩa-na dee.",nuwogo inditiana de,1.0,0.4118
+570,"Ʋ tʋɔtɔrʋŋ lɛ nɛ ʋ leŋ la jɩŋ ʋ wɩalɩŋ kala fa sɩ faa, wɩalɩŋ ʋ sɩɩ chɛ dɩ ʋ to Kirisito lɛ a ŋaa pɩla.",Ochicha torela ne ulen lajang owialo kala fasifa. Wialo osichedu otu krisole anapili,0.9615,0.5395
+571,"Bɛtʋɛl, Hɔma, Zɩkɩlag,",bacterial trauma,1.0,0.8824
+572,Ɛɛ nɛ saa mɩ jaŋ wuo kɛŋ wɩaa lɩlɛrɛ Wɩa teeŋ?,N'est-ce pas me dire où quand il y a le leurre et votre.,1.1818,0.9714
+573,"Ma sɩɩ benla ŋɩɩ, ʋ maga dɩ nʋʋkala jɩŋ arɩ la ŋaa Kirisito tɩntɩnnaa nɛ. Wɩa joŋ ʋ wɩalɩŋ fa sɩ faa a hɛ la nɩsɩŋ lɛ nɛ.","m'ase beela nge. Omaa dunu kala jeng, a langa Kristo tuntunna ne, wia jong o wialo mfasa fa, ehelani si le",0.9643,0.4505
+574,Sɛgub nanʋala nɛ fa Jaa. Ʋ faa beŋ tasɩŋ mara arɩ batori nɛ Gɩlɩad tinteeŋ lɛ.,"Segun na nwala ne fa, ja ofa ben tasen mara a ribe turu ne",0.9375,0.4754
+575,"Asa doho nɩaa ma tinteeŋ lɛ, ba laa tasɩŋ deemba nɛ: Masal, Abɩdɔŋ,","Masa duniya matintin ne, ba laifin da bane. Masal abadan.",0.8462,0.4706
+576,"Má pɔ, a chɩŋ wɩalɩŋ ma sɩ laa dii lɛ kpaŋ kpaŋ. Má kɛŋ bɔɩ-duoŋ a kɛŋ doluŋ Wɩa teeŋ.","Mpa, achi m wealu mmasi na di la kpamkpam. Maka mgbe duo, aka ndu lum yete.",1.0,0.4603
+577,ba jaŋ kɛŋ tʋɔtɔrʋŋ jɩ-kaana-la ba sɩ jaŋ hɛ ba mɩɩsɩŋ lɛ.,Pajang ke antoro toron jek ka'an la bhabas jhang eh bhammisennah.,1.0,0.7045
+578,"Kɩalɩŋ kala sɩ hɛ wɩa-nyuŋ, má jʋjʋɔsɛ, dɩ kɩalɩŋ ma sɩ hɛ tinteeŋ lɛ tʋɔŋ tɔrɛ. Má bʋla pɩ tinteyee nɩaa arɩ La TƖƖNA nɛ kuoro.","Kyalankala se hayu yong, majujuwa se dekyala masi hetintien le tuantore, mabula pe tintienya a latinan ne",1.0,0.4898
+579,Dɩ baal kʋbala ma hɛ taŋ-la lɛ a nyaabɛ aŋ jɩŋ wɩaa. Ʋ kɛŋ ʋ wʋjɩmɩɩ-la laa taŋ-la ta. Ama nʋʋkala bɩ nyaabʋ-la wɩaa liise.,"deɛ baako a ɔwɔ me hatan la laa nyaa be, angyinwia. Oken owujimila laatan lata. Ama na okala be nyaa bula wia",1.0,0.4348
+580,"Má sɩ́ leŋe dɩ Wɩa Dɩŋ-zɔmʋŋ tʋɔŋ chei. Ʋ nɛ Wɩa joŋo hɛ ma lɛ, ʋ ŋaa magɩlɩŋ ma lɛ a dagɛ arɩ Wɩa jaŋ laama ta tapʋlɩɩ-la Kirisito sɩ́ jaŋ mɩɩra kɔ.","Bụrụ na anyị ga-adị ndụ n'afọ 20. Onye ga-eje nwa ya nwoke, nwa ya nwanyị adịghị, ọ bụrụ na ọ ga-ala mmụọ, ọ pụtara na Kraist esighi bịa.",1.0,0.8273
+581,"Dɩ ma nɛ dii kɩalɩŋ kala ma sɩɩ chɛ tintee-la lɛ a vɔgɛ, má zil ma TƖƖNA Wɩa arɩ ʋ sɩ joŋ tintee-zɔŋ-la pɩma.","Ndi k'ala n'kàlàmà si che tinteela le avoke. Mezi le ma tinà wia, àrọ osi jon tinte zọlapa",0.875,0.4321
+582,"Haalaa, má tuto ma balaba niiŋ arɩ ma sɩɩ to Kirisito ŋɩɩ,",hala matete ma bale benin aramasito kristo,0.9167,0.3556
+583,"Ŋ cho ŋ kɛŋ wʋjɩmɩŋ koo ŋ jɩŋ wɩaa sɩaa koo a bɩbɩɩnɛ wɩaa woruŋ ɛɛ kala,",Nchọn can we jị mụ kọọ njem wịase a? Kọọ mbe bịa na wịa wụrụ. Ịkala,1.0,0.5893
+584,Mɩ nɩɩ ŋɩɩ ma sɩ laa La Tɩɩna Yesu wɩaa dii arɩ ŋɩɩ ma sɩ cho Wɩa nɩaa ma nɛ.,"Mene maslahat, latine yesuviadi, arani masichoviya neyameni.",1.0,0.4912
+585,"Ŋɩɩ nɛ La TƖƖNA bʋl wɩaa pɩ Jona lɩamɩŋ lɛ,","Nila Tina, Bolivia",1.0,0.7273
+586,"dɩ ŋ yɩrɩŋ yɩrɛ a kaa mʋ wuu. Ŋɩɩ nɛ nɩaa jaŋ bʋl, ‘La TƖƖNA doluŋ kala Tɩɩna nɛ Iziral Wɩa.’ Ŋ jaŋ leŋ dɩ mɩ-na ŋ tɩntɩnna Devit dɩa chaasa chɩŋ.",,,
+587,Mosis hambolibiisiŋ nɛ: Gesom arɩ Elieza.,मुझसे मिलने घुसून अरे एलियास,1.0,1.0
+588,"Zabad ma nanʋala nɛ Ɛfɩlal, Ɛfɩlal ma nanʋala nɛ Ɔbɛd,",zabar manan walane afal al afal manan walane obaid,1.0,0.3023
+589,"Ŋɩɩ nɛ nɩalɩŋ kala mʋ ba dɩɩsɩŋ, ka Devit ma mɩɩra kɔ dɩa dɩ ʋ sʋl Wɩa pɩ ʋ dɩa nɩaa.",Nyelele nyalankalamu badisen ka David ma me rako diya do oso luwape odia nya.,0.9048,0.5079
+590,"Nuhuobiine bɩ jaŋ wuo nɩɩ sɩma kala ʋ tɩntɩŋŋaa lɛ, a pɛ ʋ sɩ na kɩaa dii aŋ nyʋa lɛ. Mɩ na dɩ wɩɩŋ deeŋ ma lɩɩ Wɩa teeŋ nɛ.","Na obi na-ebuje nwoke na-esu akara, ọ tuntun na-alẹ. A pẹ́ ọsịna ka adị anyụalẹ. Mụ na di wịndị malị wịetẹlẹ.",0.9333,0.5217
+591,"Ŋ mɩɩ-boiŋ peliŋ nɛ yigi lɩɩŋ mʋ hɛ dɔŋɔ,","Mee bughi m pelu na yikiri ya mụ hè, ọ dọọ",1.2222,0.6774
+592,"Mɩ bii, kɛŋ wʋjɩmɩŋ, dɩ ŋɩɩ leŋ dɩ mɩ tʋɔŋ tɔrɛ.",mabi kanwo jaman deni leni,1.0,0.7143
+593,"Ama Iziral tɩŋŋaa tʋɔŋ, vaha ma bɩ jaŋ huosi nʋʋ koo pʋna. Ŋɩɩ nɛ ma jaŋ jɩŋ dabaŋ-la La TƖƖNA sɩ joŋo hɛ Iziral tɩŋŋaa arɩ Ijipiti tɩŋŋaa pɛgɛ.","Ama izi atunato, fa ama be jan huwusi nuko pona. N'i nma jan je ndabanla ti na si je nwehe izi atunaa ari iji utunaa pege.",0.9655,0.4643
+594,"Ʋ nɛ jaŋ saa dɩa dɩ ba dɩdɛnnɛmɛ nɩmɛ. Ʋ jaŋ ŋaa mɩ nanʋala, dɩ mɩ ma ŋaa ʋ nyɩmma. Ʋ doho nɩaa nɛ jaŋ dii kuoruŋ Iziral tinteeŋ lɛ a kaa mʋ wuu.’",Onne jansa diya de badadame name o janga mana nwala ribama nga o nyama. O duho ni a ne je ndi kurun isatin tin le akamugu.,1.0,0.4907
+595,"Iziral tɩŋŋaa Wɩa sɩ jɩmɩŋ, a yɩrɩŋ.",ya zama cengabiyar su jiman a yaran,0.8571,0.7143
+596,"Kalɩb haal-la dɔŋɔ ma ʋ sɩ bile aŋ bɩ jaa baa yɩrɛ Maaka, ʋ nɛ lʋl Sɛba arɩ Tɩɩhana.",Keleb hala dongo ma osibiri ambeja bayere maka onolu saba are ti hana,0.9474,0.4286
+597,kɩalɩŋ ŋ sɩ bɩ na tɛtɛ arɩ kʋzɔŋŋɔɔ a su dɩɩsɩ-la tʋɔŋ.,Kele anse banna tete? A riko zonwo? A su di sila tuon?,0.9167,0.5476
+598,"Levi doho nɩaa sɩpaalaara nɛ Kɛmʋɛl nanʋala Hasabɩa, Arɔŋ doho nɩaa sɩpaalaara nɛ Zadɔk.",,,
+599,"Ʋ leŋe ma nɩɩ ʋ yikoro sɩ lɩɩ wɩa-nyuŋ nɛ, a bʋl wɩaa dagɛma. Tinteeŋ ma lɛ, ʋ leŋ ma na nyiniŋ, ka ʋ hɛ nyiŋ-la tʋɔŋ aŋ bʋl wɩaa pɩma.","Ule nga mani, u yikhorisile, u yenyi nne, a mbolovhi a dhakma. Tinte male, ule mani nyining ka u he nyinla tuon a mbolovhi a",0.9355,0.5102
+600,Sɩ́ leŋe dɩ tinteyee nɩaa pɩɛsɛ arɩ nɩɩ nɛ ba Wɩa hɛ.”,ስለ አዲሱ ትንታኔህ አድማጮች አርኔና ባጉያ,1.0,1.0
+601,"Ŋɩɩ nɛ ba mʋ yuo Hagi, Jɛtɔ, Nafɩs arɩ Nodab tɩŋŋaa.",Nne bamu yuo hagi yato nafi are nodap,0.8182,0.4615
+602,"Basaŋ tinteeŋ arɩ peel-la ba sɩɩ yɩrɛ Kamɛl,",Basantun te a rupe laba se yere kamer.,1.0,0.3714
+603,chɩŋ-diiree ma ŋaa nɩalɩŋ teeŋ ba sɩ dii chɩŋŋaa yosi.,"Chinedu ma nga nyelu nti, biko di chenu anya",0.9,0.6279
+604,Ma bɩɩna mɩ tɩtɩa doluŋ lɛ nɛ mɩɩ kɔ dɩ mɩ yuo tinteeŋ deeŋ a cheyu ŋɩɩ? La TƖƖNA tɩtɩa nɛ pɩmɛ wombiiŋ dɩ mɩ kʋ yuo ma tinteeŋ a cheyu.”,"Mba binu, mụ si gị doiri nla na m ga-akọ dị mụ yuo, tinte nde a che yuo n'e. La tinata tia na pe mụ we mbin, dị mụ kụ yuo ma tinte a che yuo",0.9677,0.4327
+605,"Ŋɩɩ nɛ Devit bʋla pɩ Levi doho nɩaa sɩpaalaaraa dɩ ba lɩɩsɛ ba naambiiriŋ dɔnsʋŋ dɩ ba du kɔnɛba, chenniŋ, a chɩgɩsɛ buguloo a yɩɩ tʋɔtɔrɛ yɩɩlaa a hɛ.","N'ebe a, e bulitebe ihe dị iche iche dị iche iche site na mbido ruo ugbu a, chee nụ, a chọrọkwa gị aka na ntụziaka.",0.931,0.7583
+606,"Dɩ nʋʋ nɛ bɩ ʋ tɩtɩa lɛ bene woruŋ arɩ boroboro-la ʋ sɩɩ dii ŋaa Kirisito yaraa nɛ, sɩ-huo-la ma ŋaa ʋ chalɩŋ, ʋ kɛŋ ʋ tɩtɩa baŋŋaa hɛ ŋmɛnɩŋ nɛ ŋɩɩ.","Ndi na otutu ihe mere buru ibu na uwa ugbua, na Kraist nyarane suholu ma na ochichi. Oken otutu ihe banye na ya bu ihe nwanne anyi",0.9688,0.7232
+607,"Ŋɩɩ nɛ Josua arɩ Iziral tɩŋŋaa laalɩyuoroo kala bɩra sii Libina lɛ a mʋ Lakɩs, a gollu chu a yuou.","N'ebe Joshua na Israel tinyere ala Yorokala, ha si Lebona na Amu-Laki, ha goro chu ayuo.",0.95,0.4805
+608,bɛɛ nɛ tɩɩ mɩ bɩ chɛ dɩ nɩɩ kɩalɩŋ mɩ sɩ kɛnɛ sɩma?”,Bani ta mace addu'a ne. Kyakkyawar mace kana son,1.0,0.7895
+609,"Ʋ sɩ sʋʋ ŋɩɩ, ba joŋu hugi, ka ʋ sii sʋʋŋ lɛ tapʋlaa batori chɛɛŋ, arɩ ba sɩ ŋmʋnsɛ ŋɩɩ Wɩa teniŋ tʋɔŋ.",Osu songu be jongu huki ka usi sola tapula ba turkiya arabasengu ba sengi wete nintuwa,0.913,0.5584
+610,ʋ nɛ kpɩa ŋ dɩ haala sɩ cho yuosuŋ a kɛŋ baanɩŋ sɩ pɛ dɩa.,"ɔno kyerɛ a, anadwo ha na ɛsɛ kɔ yɔɔ sum. Akenkan mpaane nsepeɛ",1.0,0.814
+611,"Pɛɩ nɛ ŋaa Jesarela arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",ഫെനഗ ജെസെറില ആരെ ഒഹാംബെൽ വിസിൻ ആരെ ഒനാംബീരൻ ബമംഗ ഫി അർബാലിയ,1.0,1.0
+612,"Levi nyɩŋ-nɩalɩŋ sɩ hɛ Mɛrarɩ lɛ, laa tasɩŋ fii arɩ balɩa nɛ a lɩɩ doho doho deemba leriŋ: Rubiŋ, Gad arɩ Zebuluŋ.",लेवी इंडिया लसे मरारी ले लातसिन्सी अरवालियाने आले डुहु डुहु दिमबलेरिंग रुबिन गाद अरे जे बुलुन,1.0,1.0
+613,"Kuoro baanɩŋ nɛ sie, ʋ yie nagɛ naachigiŋ sɩɩ huosu nɛ.","Kwarabanan nisa'e, a wujen da kai, na cikin sihosina.",1.0,0.5814
+614,Ŋɩɩ nɛ Ijipiti tinteeŋ kuoro ŋaa siri a paa ʋ laalɩŋ janɩŋ torukoba a kɛŋ ʋ laalɩyuoroo ba lɩɩ kiri nɩalɩŋ harɩŋ.,"Ginee yitintee kooren asiri, afa ulalen janin torokoba, aken ulali yoro bali kiri nealan haran.",0.9545,0.4176
+615,"Ama nɩalɩŋ Wɩa sɩ yɩra kala teeŋ, Juu tɩŋŋaa arɩ Giriik tɩŋŋaa kala, Kirisito lɛ nɛ Wɩa doluŋ arɩ ʋ wʋjɩmɩŋ kala hɛ.",We are not here alone. We are dwelling in the which is Latin for Christ alone. We are,1.0,0.8462
+616,"Devit sɩ dii kuoruŋ, ʋ hɔŋ Jerusalɛm ma lɛ jɩsɩŋ mara arɩ fii arɩ batori nɛ.",Dabino da kworon oho je salale je sammara arisi arewa turanci.,1.0,0.5254
+617,"Má ŋmoo niiŋ, ma nɩalɩŋ kala sɩɩ nyʋa girep nɛnɛɛ sɩnɩŋ.","Mụ onwe m, mụ na ya na-akparịta ụka grape nene na",1.0,0.7045
+618,"A tɩŋ hachagɩra-la sɩɩ fá Wɩa a bɩ hambolibiisi-la kpʋa, Wɩa leŋ ba kʋŋkala lʋl biiriŋ, a kɛŋ ba tɩtɩa dɩa nɩaa.","Achenhacha la si savia, abham boli si la kua. Vielle, bakon kalak lulbiren. Aka mbatichia diania.",1.0,0.4651
+619,"Nɩalɩŋ sɩ laa Yesu wɩaa dii aa hilimi sɩɩ to Kirisito niiŋ wɩaa ŋɩɩ, ŋɩɩ tɩtɩa nɛ haalaa ma maga dɩ ba tuto ba balaba niiŋ wɩaa.",Nye na-esila ya si ya di ahịrị m si too ka sọọ nị ya ṅụọ. Nye na-enye ya na hala ma maka na ọ bụ otu too ma baa nị ya ṅụọ.,1.1481,0.65
+620,nampɩl-bʋɔlaa yʋgɛ ʋ huiyee lɛ.,ናምፕል በኋላ,1.0,1.0
+621,Ŋɩɩ wɩaa ŋ-la nɛ La TƖƖNA bʋl a mʋ tɩgɛ Asiiria kuoro lɛ:,"Nye via, ŋla le lati na bul amutika a si le kulu",0.9231,0.5349
+622,"Wombie-la kala ma TƖƖNA Wɩa sɩ dagɛma, má tutoba a ŋɩŋaa wɩalɩŋ kala ʋ sɩ daga a zizilu.",Motsi tuba,1.0,0.8971
+623,"Chonuŋ-na bɩ dɛrɛ. Dol-la Wɩa Dɩŋ-zɔmʋŋ sɩ joŋo pɩla la wuo bʋbʋl Wɩa wɩaa, a wuo bʋbʋl yikori dosunuŋ kala a pɛ wʋjɩmɩŋ ma lɛ, ba kala jaŋ lɛl.",Chineke nna biko b,1.0,0.9174
+624,Samʋɛl hambolibiisiŋ nɛ: Jowɛl ʋ bii-hɩaŋ arɩ Abija ʋ bii-lɩamɩŋ.,Samuel Hambly,1.0,0.8269
+625,"Nɩaa deemba kala ŋaa dɩa dɩa nɩhɩasɩŋ nɛ Levi doho nɩaa tʋɔŋ, aŋ ŋaa nɩbalaa ma ba sɩ ŋmʋnsa bil. Ba fa hɔŋ Jerusalɛm lɛ nɛ.",Nga di emba kala nga diadia ne hiasene lebi duhu ni atuon an nga ne bala ma ba si mansa bil bafoho,0.8846,0.4583
+626,"Ŋɩɩ nɛ Ɛsɩta bʋl, “Mʋ bʋla pɩ Modikaaya,",n'astable mobụlape mọdịka ya,1.0,0.4667
+627,"Má fɩɛlɛ ma sɩaa a sɩ́ ma TƖƖNA Wɩa wɩaa yʋ. Má to ʋ niiŋ, ʋ wombiee arɩ ʋ wɩalɩŋ mɩ sɩɩ dagɛma jɩnɩŋ.",Masiya la Masiya a se mati na viye wiyayo. Moto uning wembiye ara owiya la masiye darma jenang.,0.9583,0.5333
+628,"La dɩ Kirisito Yesu sɩ ŋaa kʋbala ŋɩɩ, Wɩa chɩsɛla sʋʋ-la lɛ la wʋbɔŋŋɔɔ fa sɩ ŋaa la sʋʋ lɛ nɛ, arɩ ʋ sɩ chɩsɛ Kirisito sʋʋŋ lɛ ŋɩɩ, a leŋ la dɩ Kirisito Yesu kala hɔŋ Wɩa kuorii-la tʋɔŋ Wɩa jaŋ lɛ.",Ladi Kristi asụ na akobala gị. Wepụta oge ole na ole gụọ akwụkwọ nsọ ndị a. A na m ekpe ekpere na Chineke ga-agọzi gị.,0.9767,0.7881
+629,"Wʋnyɩɛrɩ wʋpɛ naara, yie nyɩɛ wɩaa aa sieri wʋtɩtɩɩ","Wani yaro mai ƙanana, ya yi niyya a asiri, wata",1.1111,0.5952
+630,"Nɩyaarɩŋ teeŋ ʋ bɩ bʋbʋɔ kala kɛnɛ dɩ ʋ chei moribiee wʋjɩmɩŋ wɩaa,",Na yɛnkyerɛɛ wo obuo kwan kene di w'uchemoro bie w'ojaman wia.,1.0,0.6111
+631,Nɩɩ-la sɩ joŋ wɩalɩŋ nɩaa sɩ ŋaa chei chɩchɛba ka chɛ,"Né la si jong Yalang, nya singa che cheba ka",0.9091,0.5238
+632,"dɩ ʋ nɛ gɛrɛ ma, sɩ́ jʋɔsʋ.",da Antuan Tore da Ona Gerama su giwa,1.1429,1.2778
+633,"La TƖƖNA jaŋ yuo laama, má-na bibeŋ Wɩa lɛ.”",Latina ga-enye gị ọrụ ọma. Mụ na gị ga-enwe ya,1.1111,0.6875
+634,"nɩalɩŋ ma sɩ kɛŋ tabɩɩ-tʋlaa joŋo hɛ Jɛhɩɛl sɩ ŋaa Gɛsɔŋ doho nʋʋ nɛsɩŋ lɛ, dɩ ba kaa saa La TƖƖNA dɩɩ-bal-la.",Nyame mmaseɛ ka taa bɛtua gyawu hɛ. Gyahiaa singa gyesɔn duhu nu nisin le dewa kaasa Latina de bala.,0.9545,0.5476
+635,"Devit sɩ nɩɩ wɩɩŋ deeŋ, ʋ leŋ Jʋab kɛŋ ʋ laalɩyuoroo kala mʋ dɩ ba yuoba.","Ndi be anyi nwanyi oma, unu ejula oke ura na-ario Chukwu kala mu di be ya",0.9375,0.7679
+636,arɩ Tɩza kuoro. Kuoro-la kala ŋaa mara arɩ fɩɩ arɩ kʋbala nɛ.,ari ti za kworo kworo la kala nga mara ari fi ari ku bala na,1.0833,0.2553
+637,"Dɩ ba nɩɩ du pampam tʋa, dɩ ba nɛ bɩ ʋ dunuŋ duo, nʋʋkala bɩ jaŋ wuo jɩŋ arɩ wɩɩ nɛ ŋaa ba yɩyɩrɛ nɩaa.","Ndi be anyi, ekene m unu o. N'uka a bu nke m nwere ohere ikwu okwu, a na m ayo unu ka unu biko gee m ntị.",1.08,0.8553
+638,"Lahadi chɛɛ na-kala, moribie-la ma kʋŋkala sɩ tɩma a na yɔbɔ-la tʋɔŋ, nʋʋkala lɩɩsɛ magɛ ŋɩɩ ʋ sɩɩ chɛ dɩ ʋ joŋo bil, a bil. Dɩ mɩ nɛ kɔ, ma bɩra bɩ jaŋ kɩkɩɛsɛ moribiee.","Laa di ci yaa na kala, muribie lamakon kala sita ma anna yobala tuon. Nu kala le samageng, o se ciadu u jong bil, a bil. De me noko, ma bira be jaa ke kiati muribie.",0.9429,0.378
+639,"Ham ma hambolibiisiŋ nɛ ŋ-la: Kus, Mizirem, Puti arɩ Kɛnaŋ.","हम दुल्हनिया हम हम बोल भी सकते हैं ना? खुश, मिजरेम, पुटी अरे कहना",1.4,1.0
+640,Ma ŋaa kukeri nɛ ma sɩ liisi mɩ wɩaa wɩɩkala lɛ a tuto wɩalɩŋ mɩ sɩ dagɛma.,Manga kokerena meselisa nadiya wey kalale atito wey lamu,1.0,0.5172
+641,Lɩɩ-la kʋ tɔ janɩŋ torukoba arɩ ja-jɩlla-la arɩ Ijipiti tinteeŋ kuoro laalɩyuoroo kala fa sɩ to Iziral tɩmma-la harɩŋ jʋʋ mʋga-la. Ba nɩbala ma bɩ wuo lɩɩ.,Bà na balama bu wole.,1.0,0.8934
+642,"Ba ŋaa ŋ nɩaa nɛ, ŋ nɛ tɩɩba, ŋ nɛ kɛmba arɩ ŋ dol-balɩŋ a kaa lɩɩ Ijipiti tinteeŋ lɛ.”",Banga nyan ne nna ceeba nna kyan ba ari in dul balan akale e jeptin te le.,1.0,0.5238
+643,"Nyaaba yie sʋsʋl kɩaa tɩɩna dɩ ʋ fá ʋ nenige,",Nyame ye sɔre kɛse a ɛte na daa ofa,1.0,0.6857
+644,"Bee na, nɩalɩŋ sɩ kɛŋ bɔɩ-duoŋ ka ŋmoo niiŋ nɛ wombiee lɛ.","Biko, nye m nsogbu na-adịghị mma.",1.0,0.8409
+645,Kʋbɛɛ nɛ saa jɩŋ wʋlɔrʋ-la doho ba sɩ jaŋ joŋo hɛ ba lɛ.,"Kowane sa'a kin wullar da duhu, ba su janjuma herbal",0.9231,0.5476
+646,"Ŋɩɩ nɛ Kalɩb kiri Anakɩ nyɩŋ-nɩaa deemba batori arɩ ba dɩa nɩaa Hɛbʋrɔŋ lɛ: Sɛsaɩ, Ahɩmaŋ arɩ Talɩmaɩ.","Ndi na-aklefkiri ana m akeyi nyin ya adim mma batori. Aribadia na Hebrew le, sesayi ahiman ari talima",1.0,0.4444
+647,"Mʋgʋ-balɩŋ arɩ kɩalɩŋ kala sɩ hɛ ʋ tʋɔŋ, má ŋaa goŋ, bagɩsɩŋ arɩ kʋduuloo kala, má jʋjʋɔsɛ.","Moro belo, ariyo kalase otuo, mang'ang'o, barthn ari ku dulo kala majijuose",0.9412,0.5286
+648,ama summo sɩ jɩŋ wɩaa sɩaa yie bibenu dɩ ʋ bɩ wɩɩ jɩŋ.,"Amos and Moses gang, Yasiya, Yabibenu, and Obewager.",1.0,0.6098
+649,"arɩ Ofi, Havɩla arɩ Jobab. Ba kala ŋaa Jɔkɩtaŋ biiriŋ nɛ.",अरे ओफी हैवला अरे जो बात बकलाना जोकेथांग बिरिन,1.0,1.0
+650,Nɩaa deemba kala nɛ fa ŋaa Levi doho nɩaa nyɩŋ-nɩaa sɩpaalaaraa.,न्यादीम बाकलने पंगालेवी दुहुन्या न्यन्यास्पाला,1.0,1.0
+651,Má sɩ́ wɩaa nyɩɛ a joŋ cheeriŋ pɩ ma dɔnsʋŋ tɩŋŋaa.,"Mazi Vianney, ajụghị m cheere mpe, m adaghị nsogbu nwa.",1.0,0.6923
+652,"Ʋ yie leŋ wɩalɩŋ badɛ-tɩŋŋaa sɩ bɩɩna dɩ ba ŋaa birigi nɛ,",Ngwiyala ngwiyala mbadateng'a sabina aduba ng'a,1.0,0.7111
+653,"Ama má kɛŋ zile dɔŋɔ lɛ, a fɩfá dɔŋɔ nenige. Má joŋ wɩaa chɩchɛ dɔŋɔ, arɩ Wɩa sɩ to Kirisito lɛ a joŋ ma wʋbɔŋŋɔɔ kala chɛma ŋɩɩ.","Ma ma ka jide do nwa le, afa fa do n'eneke, mejo nwe achicha do nwa, o riwe ya si to Kristi le, ejo ma wa bo nwa kala cha ma gi.",1.0357,0.4694
+654,"Teniŋ ŋmʋnsʋŋ bɩ dɩdɛrɩ kɛnɛ, dɩ ŋ nɛ gʋnnɛ wɩaa ma kɩŋkɛŋ ŋɩɩ jaŋ leŋ dɩ ŋ kɔsɛ.",da na mun san ba zata raina ka ba da na gwada biya ma kankan ni zan lendin,1.0,0.7419
+655,bɛɛ wɩaa wʋtɩtɩɩ nɛ yie leŋ ʋ kuoruŋ chɩŋ woruŋ.,Baya wata ceni yallan okworonkenwurin,1.0,0.6842
+656,Wʋkpuŋkpere deeŋ ŋaa wʋbal nɛ a faa. Mɩ saa jɩma arɩ wɩɩŋ deeŋ mʋʋ tɩgɛ Kirisito arɩ nɩalɩŋ sɩ laa ʋ wɩaa dii aa hilimi lɛ nɛ.,Okwu nkwere dị na-awụba n'afọ. Mpaghara ji ma arịrịọ ndị mụrụ ụmụ nwoke Kraịst arịrịọ na-esoro obi ha dị ahịrị malite.,1.0,0.6837
+657,leŋ dɩ ba nagɛ ŋmɛnɩŋ a vɔɔ laalɛ ŋ baŋŋaa lɛ.,"Lendebana ka nme na, afo lale, mbanale",1.0,0.5143
+658,Ba sɩ cheyiŋ aŋ kɛnɩŋ mʋ tintee-wogo,Basi ciyayin ankanin mu tun tayi,1.0,0.5862
+659,Ba jaŋ kɛnʋ kpaa pɛ ba bayal kɩaa lɛ a yallɛɛ?,"Bàja nka nụ kpaa pɛ, baba yali k'ala, aya nle.",0.8182,0.3143
+660,Wʋbala nɛ kɩaa tɩŋŋaa arɩ summoo kaa magɛ dɔŋɔ:,"Wobala na kyautun a, a rasu mu ka maka don",1.1111,0.4737
+661,"Pʋpɔ ŋ sɩ́ ma tinteeŋ bʋa magɩlɩ-bɩnɩŋ tabɩɩŋ kaa joŋ,",Babu wani samartin da ya yi wa Magajiya banan ta biyan ka aji.,1.3,0.7381
+662,"dɩ Kirisito nɛ mɩɩra kɔ tapʋlɩɩ-la, kɩalɩŋ nʋʋkala sɩ kaa saa dɩa-la, ba jaŋ naʋ. Nyiniŋ nɛ jaŋ dagɛ kʋ-la ba sɩ kaa saa nagɩsɩŋ. Ba jaŋ to ŋɩɩ lɛ a jɩŋ tɩntɩmɩɩ-la nʋʋkala sɩ tɩma.",Jekada ne me raƙata furela. Kialan no kalasa ka sa diala ba janna o. Nyinene ja ndaƙa kula ba sa ka sa naƙasan. Bajen to rila ne a jententemila no kalasa tuma.,0.8889,0.4526
+663,"Porata, Adalɩa arɩ Arɩdata.",parata adalia are ari,1.0,0.3636
+664,"Dɩ kɩalɩŋ ba sɩ kaa gbigbieli, ŋmʋlʋŋ arɩ cheŋ, dɩ ba nɛ bɩ woruŋ du hɛ dɔŋɔ lɛ, kɩalɩŋ bɩ dɩgɩlɩŋ ka kɛŋ.","Kpakpando m bụ asá ka agwụgwị e li. Mụ na ọnọdụ ha dọrọ, kpakpando m bụ dọrọ nke abụọ.",1.0,0.7625
+665,"Dɩ ma nɛ lɩɩsɛ pʋsʋ-la, má beŋ ba nyuŋ a mʋ yi chɛŋ-bumbuŋ-la tapʋlaa fii arɩ banɛsɛ chɛɛŋ, dɩ Iziral tɩɩna-kala kpʋ ʋ pʋna wɩɩ-mul-jʋʋlʋŋ lɛ.","Jemane le e soso la, m'e mbe nyung a muyi cha mbu mbu latap la fi arbanas chen. Ri za tina kalakpo o puna wi mulo jolen",1.0385,0.4352
+666,"Má sɩ́ leŋe dɩ nʋʋkala bee gʋʋnʋ. Má pɛ ʋ lɛ dɩ ʋ vɛŋ wombiiŋ arɩ yarɩfɩɛlaa, aŋ mɩɩra kɔ mɩ teeŋ. Mɩɩ gbɛrɛ ʋ dɩ la naambiiri-la nɛ dɩ ba mɩɩra kɔ.",Masiilanga tinokale bikuno. Mapeole du uven gwenbi aryar fiala. Amira komiti migbare odilane anyi mbiri lane reba amira,1.0,0.5545
+667,"Komo yie mʋmɔŋ goŋ-la ba sɩɩ ŋaa tabalɩŋ tʋɔŋ,","Koma yiemu mongola, baseng ata balantuo.",1.0,0.3889
+668,"Bɩlɩga ŋaa fii arɩ banɔŋ, Ɩma ŋaa fii arɩ balɩdʋ,",Bilega ngarfi arabonong. Ima ngarfi arabal,1.0,0.5263
+669,"Baalaa deemba nɛ fa ŋaa ba nyɩŋ-nɩaa sɩpaalaaraa: Mɛsobab, Jamɩlɛk, Amazɩa nanʋala Josa,","Bala Devi, Phani Bhushan, Sripala, Meisu Ba, Jamlik, Amar Riya, Nola",1.0,0.6056
+670,ba sɩpaalaaraa ma ŋaa nɩaa sɩ yie sii chʋchʋɔ fɩɛla kala,Mfasapala a mangane a si si chuchuofiela,1.0,0.5217
+671,"Ʋ bɩ nii-la ʋ sɩ bile ʋ dɩ ma pɛgɛ ka yʋ, nii-la sɩ hɛ nɩmɛ a kaa mʋ wuu,","Nila, o sipele odema pake kayo. Nila se namai akamu",1.0,0.5
+672,Daasɩ-la dɔnsʋŋ nɛ ʋ yie kaa hɛ nyiniŋ a ŋaa kʋdiilee,Dika odiro adiri n'onye ka ha niile anaghi akwado ile,1.0,0.6905
+673,Bʋa-la lɛ nɩaa sɩ jaŋ yuo laalɩŋ arɩ bʋa-la lɛ ba sɩ jaŋ hɔŋ,Wannan ne ya sa jan juyin lallen a rubu wannan ne ya sa jan,1.0,0.6889
+674,"Lee-la sɩ maga dɩ ba ŋaa wɩaa ba bʋa lɛ, mɩ na wʋbɔŋŋɔɔ nɩmɛ.",Lela sun ma ka da ba mu a wuya ba buwale. Muna wubo ngo,1.0,0.4889
+675,"Ŋɩɩ nɛ Kalɩb bʋl, “Mɩ jaŋ joŋ mɩ tolo Akɩsa a pɩ baal-la sɩ jaŋ yuo dii Kɩrɩaf Sɛfa a kɛsɛ ʋ nɩaa dɩ ʋ jaa.”","Nii na ka lebɔlɔ, mɛjɛnjɔ mɛtɔlɔ akisa apɛ baala, si jɛnjɔ di kiri afɛfa akɛsɔ nia duja.",1.0,0.4615
+676,"Ba sɩ kɛŋ Wɩa niiriŋ daga-la kɔ Jerusalɛm, ŋɩɩ harɩŋ, nɩaa deemba nɛ Devit lɩɩsɛ ba ŋaa kʋduuroo arɩ yɩɩlɩ yɩɩraa La TƖƖNA dɩa lɛ.","Basa kan wuyan ni randa kalla, ko jere selen ni haran ni adin ba ni debi lise. Ba nga kuduro are iyele yera la tina diyal.",1.0,0.4804
+677,"Mɩ Wɩa, liise yi arɩ mɩ mɩɩsɩŋ kala ŋaa pel nɛ,",maviya lisayi alame mesen kalanga,1.0,0.5714
+678,"Dɩ nʋʋ nɛ bɩ bɩɩna yi woruŋ aŋ guu joŋ kʋŋ a pɩ Wɩa,",na na na babi na yi woron Angu Johnkon a pe,0.8571,0.5263
+679,"Ba nɛ ŋ-la, ‘Má sɩ́ leŋe dɩ Hezikaaya nyɩsɛma, ʋ bɩ ma wuo laa ta.","Banyere ya, mụ na gị dị ka Ezikaya nyere nsogbu. Ọ bụ mụ nweela",1.0,0.6957
+680,"Efirem doho nɩaa nyɩŋ-nɩa nyɩŋ-nɩa fa sɩ laa tinteeŋ nɛ ŋ-la: Ba tinteeŋ bʋa nɛ a chɩŋ Atarɔf Ada wɩɩpɔsʋŋ dɩɩrɩŋ a kaa jɩl Bɛf Hɔrɔŋ sɛmɛ-la sɩ hɛ nyuŋ,",Ephraim dooniyan nyinnya nyinnya fa si laa tinteen na laa. Ba tinteen buwane acin atorof ada wee posin deeren aka jil bef haron samala sehenyu,0.8667,0.4068
+681,"Nɩɩ-la kala sɩ jaŋ yɩrɛ mɩ-na ma TƖƖNA yɩrɩŋ, mɩ jaŋ laaʋ ta,",,,
+682,"Dɩ ŋ nɛ na nʋʋ sɩ bɩɩna ʋ jɩŋ wɩɩkala nɛ aŋ bɩ wɩɩ jɩŋ,","Da anan na nuna sabbi na, wajan wai kala ne, amma wai",0.9333,0.625
+683,"a pɛ Joola arɩ Zɛbadɩa lɛ, Jeroham sɩ lɩɩ Gɛdɔ ʋ hambolibiisiŋ.",आपण जोला अरे झबा दिया ले जो हम से ले गयो और हम बोली भी,1.25,1.0
+684,"Rubiŋ doho nɩaa tinteeŋ wɩɩjʋʋlʋŋ dɩɩrɩŋ bʋa nɛ Jɔdaŋ fuo-la niiŋ. Tabalaa arɩ tabiisiŋ deemba kala nɛ ba joŋo pɩ Rubiŋ doho nɩaa nyɩŋ-nɩa nyɩŋ-nɩa, ʋ ŋaa ba kʋŋ.",Rubin Dohonia tuntun diran buwene Jordan Fulani. Tabala arita bisin demba kalane bajonpe Rubin Dohonia nyinnya nyinnya unga bakon,1.0,0.4141
+685,"Ŋɩɩ nɛ Wɩa tɩndaarʋ-la fa sɩ laa Iziral tɩŋŋaa sɩpaaŋ mɩɩra bala chɩŋ ba harɩŋ, duoŋ-bɩlɩmbaaŋ-la ma fa sɩ nagɛ jebiiŋ ma lɩɩ ba sɩpaaŋ kʋ bala chɩŋ ba harɩŋ.",Ngene wiyasan dala fasala isa tunasafa mai rabalacin baharan. Duwimbin bala mafasala yebin malebasafa kubalacin basu haran.,0.9667,0.5
+686,"Ʋ bɩ jaŋ kɔ dɩ ʋ lɔlɔ koo dɩ ʋ nandaasɩŋ yʋɔrɛ,",O bughi ya nkodiri o lolo. Kedu na ala ndi asaa you are?,1.0833,0.8
+687,ŋɩɩ tɩtɩa nɛ nɩyaarɩŋ ma yie ŋaa nɩyaarɩ wɩɩŋ aŋ bɩra ŋaa wɩɩ-la tɩtɩa.,Nge tetianai ne yaren mayen ng'an ne yaren woyen amburan ng'an we latetia,1.0,0.6071
+688,La TƖƖNA hɛ nyiŋ-la tʋɔŋ nɛ aŋ bʋl wɩaa pɩma. Ma nɩɩ ʋ yikoro dʋndʋŋa nɛ aŋ bɩ ʋ nagɩŋ na.,"Ndi latrine a, nyi latuo na ambolu ya apuma, ma na uyikoro di ndu wa na ambo unakanna",0.9524,0.4627
+689,"Dɩ nʋʋ nɛ ŋaa wɩɩ jʋʋ ma lɛ, má sɩ́ joŋo hɛ ma tʋɔŋ lɛ. Má sɩ́ tɛrʋ, má sɩ́ baanɩŋ na. Má sɩ́ goŋ ŋaa nɩaa nyuŋ. Má sɩ́ nɩaa yɩrɩŋ chichei. Má sɩ́ nʋʋkala bɛrʋ.",,,
+690,"Adaaya, Bɛraaya arɩ Sɩmɩraf.",Adaya. Daraya. Are Simra.,1.0,0.3478
+691,"Dɩ waarɩŋ nɛ kʋ hɛ nɩmɛ, fawʋllʋŋ bɩ ʋ kɛŋ a tɩŋ ʋ dɩa nɩaa wɩaa,",Dowan nako hen me fa wona be okken atam odianiya wiya,1.0,0.5833
+692,"Hambie wʋŋaalaa lɛ nɛ ba yie to a jɩŋ ŋɩɩ ʋ sɩ naga,",hambi wunghala le neba yito ajenge osi na,1.0,0.4615
+693,"Sanakɛrɩb, ŋ bɩ wɩalɩŋ mɩ-na La TƖƖNA sɩ bɩɩna bil",ሰላም ክቡር ሚኒስተር መናላቲና ሰቢይነ,1.0,1.0
+694,Ŋ jaŋ wuo kɛŋ ŋmɛnɩŋ vɔbʋ a leŋ dɩ ʋ pɛrɛɛ?,Njemu ka m na-eme bu ịlọndọ,1.0,0.75
+695,"Má chʋchʋɔlɛ Wɩa bʋa na-kala lɛ ʋ Dɩŋ-zɔŋ-la doluŋ lɛ, a sʋsʋlʋ wɩɩ-wɩɩkala lɛ. Ma sɩɩ ŋaa ŋɩɩ, má pɔ woruŋ a sɩ́ doŋ dɩɛgʋ, aŋ pɛsɛ, a chʋɔlɛ Wɩa pɩpɩ Wɩa nɩaa ma.","Masi chuo na bia bu ana kariri, odimma na dolimle, asusu na wiwi kariri. Masi nga nga, mpopogoro asido ndiago. Ampsa, achuo na bia pepe wia na ya",1.0,0.575
+696,"Mara arɩ batori nɛ ŋaa Mahazɩɔf arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.",મારા અરે બચુડાને મહા ઝીઓફ અરે ઉહાં બોલવીસિંગ અરે ઉન્હાં બીરિંગ બમેફી અરે વાલે,1.0,1.0
+697,"Taŋ-la ba sɩɩ yɩrɛ Tɛma bʋntaŋŋɩ-laalɩŋ ka chɛ lɩɩŋ nɛ,","Talla ba sai yara tama, bonta ngalalin kachele",0.9,0.4419
+698,Mɩ tɩntɩmɩŋ dee dɩ mɩ laa nɩalɩŋ sɩ bɩ Yesu laa dii wɩaa jɩŋ. Ama ma-na saa maga dɩ ma laa dɔŋɔba wɩaa jɩjɩŋ nɛ.,maka na ịtimin dị mma na ya na nsogbu ya adịghị njọ. Mana m na-asị na ọ dị mma na ọ dịghị njọ.,1.0,0.7176
+699,"Iziral tɩŋŋaa vɛŋ tintee-hɩlɩŋ lɛ nɛ a lɩɩ mʋgʋ-balɩŋ tʋɔŋ, ama Ijipiti tinteeŋ kuoro janɩŋ arɩ ʋ janɩŋ torukoba arɩ ja-jɩllaa sɩ mʋ jʋʋ mʋga-la, La TƖƖNA leŋe lɩɩŋ mɩɩra kʋ tɔba nɛ.","Ihe a chọrọ anyị tinye n'ihe nlele a bụ ịmụkọ balịntụọ, ama ịji tinye nkuoro janị, arị ụjanị ntọrọkoba, arị jajịlasịmụjọ mụkala, latịnelele leemera kọ tọbanị.",0.9697,0.4965
+700,"Job, ŋ jaŋ wuo yɩrɛ dɩ nʋʋ pɛ ŋ lɛ, ama nʋʋkala bɩ jaŋ jegili ŋ teeŋ.","Job tembino? Job, injan wa yire nu pa'nle, ama'n ukala bu ja njegili nte.",0.9412,0.62
+701,"Tɩndaarɩ-zɔmʋŋ yie leŋ nɩɩ-la sɩ tɩmʋ yaraa kala fɩɛlɛ nɛ,","Tanda risa mun yelley, ni lasa tumo yara kala fiel.",1.0,0.4565
+702,"Gɛbal tɩŋŋaa tinteeŋ arɩ Lɛbanɔŋ tinteeŋ kala ŋɩɩ a kaa mʋ wɩɩpɔsʋŋ dɩɩrɩŋ, a chɩŋ Baal Gad sɩ hɛ Hɛmɔŋ peel-la wɩɩpɔsʋŋ nadiiŋ, a mʋʋ yi Lebo Hamaf.",gebal tengatenten arulabanon tenten kala ngi akamu weposen dirin acin balgad sehayemon pilla weposen nadin amuyi lebohaman,0.9643,0.4322
+703,Manasɛ doho nɩaa kpaa magɛ dɔŋɔ-la sɩ hɛ Jɔdaŋ fuo-la wɩɩpɔsʋŋ dɩɩrɩŋ ma nɩaa ŋaa bʋɩ fii arɩ chori nɛ.,"Mmanụ a sị na juru nụ ya ka mmadụ nọla, sị na jụọ dem fụrụ na ọ bụ ịpọsị ndụ ya na mmanụ ya na-agba ifi arịchọrọ na ya.",1.45,0.679
+704,"dɩ nɩɩ-la nɛ paala hɛ ʋ mɩɩsɩŋ lɛ jɩsɩŋ bʋɩ balɩa ma, aŋ bɩ wuo nɩɩ kɩalɩŋ ʋ sɩ kɛnɛ sɩma, dɩ-bala nɛ ba kala mʋmʋ.",Di na na pala ha omesinle jisom pui baliama. Am buo ne kialon osi kenesima. Di bala na bakala mu,1.0,0.4471
+705,"Ŋɩɩ nɛ hachagɩra-la bʋla pɩ Ijipiti tinteeŋ kuoro, “Hiburu tɩŋŋaa haalaa bɩ Ijipiti tɩŋŋaa haalaa naga. Hiburu tɩŋŋaa haalaa kɛŋ nyalɩma nɛ woruŋ, dɩ kʋŋ nɩɩ chɛ dɩ ʋ lʋl, hachagɩraa jaŋ magɛ ŋɩɩ kʋkɔ dɩ ʋ lʋla.”","Nke na-achara laa bụrụ na Egypt tinye n'okoro. Hebrew tinye ha n'ala be Egypt tinye ha n'ala anaga. Hebrew tinye ha n'ala ka ha nyalụ ma na nwụrụ. Dika onye isi di ololọ, ha chara jaa mmadụ iri kụkọ di ololọ",1.0789,0.5569
+706,"Ba jaŋ kpirimi ma sɩpaaŋ a suri ba niiŋ bʋl,","bayan ƙuru'u masu fa'ida, a suru Benin",0.9,0.5882
+707,"Mɛrarɩ doho nɩaa nɛ ŋ-la: Mali, Mali ma nanʋala nɛ Libini, Libini ma nanʋala nɛ Sɩmɛɩ, Sɩmɛɩ ma nanʋala nɛ Uza, Uza ma nanʋala nɛ","Malaari duhu ni a ne nla. Mali, Mali ma na nuola ni. Libini, Libini ma na nuola ni. Simai, Simai ma na nuola ni. Uza, Uza ma na nuola ni.",0.8,0.2828
+708,"Kenaŋ, Mahalalɛl, Jarɛd,",Khenan Mahalalel Jared,1.0,0.2105
+709,"Mɩsɩma nanʋala nɛ Hamʋɛl, Hamʋɛl ma nanʋala nɛ Zakɔ, Zakɔ ma nanʋala nɛ Sɩmɛɩ.",Mister ma na nwa ala ne hamu ya hamu ya ma na nwa ala ne zacko zacko ma na nwa ala ne himan,1.5,0.4355
+710,ama nɩyaarɩŋ wʋŋaalaa sɩ yie hɛ wɩalɩŋ nɛ yuŋŋie,Amana yara wanga lasi yehe. Wiyali ni,1.0,0.525
+711,"Ŋ jaŋ na bʋ-yɩlɩŋ yʋgɛ,",and then I,1.0,0.8824
+712,"Mɩ bʋla pɩŋ arɩ ŋ nyɩrɛ bɔyɛ a kɛŋ tʋɔ-doluŋ. Sɩ́ leŋe dɩ fawʋllʋŋ kɛnɩŋ dɩ ŋ nandaasɩŋ yʋɔrɛ, mɩ-na ŋ TƖƖNA Wɩa jaŋ hɛ ŋ teeŋ lee na-kala ŋ sɩɩ mʋ.”",,,
+713,"Ama nɩɩ-la sɩɩ bʋl Wɩa wɩaa ʋ Dɩŋ-zɔŋ-la doluŋ lɛ, ʋ bʋl wɩalɩŋ a pɩpɩ nɩaa nɛ. Ʋ yie pɛ ba lɛ a leŋ ŋɩɩ ba sɩ laa Wɩa dii pʋŋa pa, a leŋ ba nyuŋ nyaasɛ Wɩa wɩaa lɛ, a leŋ ba tʋɔŋ ma tɔrɛ.",Amanehila si bulubiya odunsole dolinle obulubiyalen apepe ni ane. Uye pabale elenyi basila biya biya di pungapa. Elenbe nyunyasiba biya biya le elenba tuo mator,1.0,0.5704
+714,ŋ sɩ pɛ sɩɩ-duo tɩŋŋaa sɩ yuo laa kɩaa a kaa kpɩkpaa lɛ.,si di otina si yola ke a aka akwukwo,0.9231,0.5714
+715,"Ama dɩ ba nɛ kɛnʋ, ʋ maga dɩ ʋ tiŋ kʋ-la ʋ sɩ gaa","Amada ba na kenu, omada de otunkula oso ga",0.9286,0.4118
+716,Wɩaa jaŋ jʋʋ nɩɩ-la sɩ kɛŋ ʋ ŋɩŋaara yuyuo yuosuŋ.,bia janjohn ne lasakya onye ngara yuyu yusu,1.0,0.5128
+717,"Ŋɩɩ nɛ Azaaya bʋla pɩ Hezikaaya, “Jegile nɩɩ wɩɩ-la La TƖƖNA doluŋ kala Tɩɩna sɩ bʋla:","I na-asaya plọpị hazịkaya, jikọọ na igwe ịlele tinye dọlị nke ịlele tinye asụsụ",1.0,0.6866
+718,"Modikaaya bʋl wɩalɩŋ kala sɩ ŋaa a pʋ, aŋ dagɛ moribiee niiŋ ma Hamaŋ sɩ daga arɩ ʋ jaŋ joŋo time hɛ kuoro dɩa moribiee lɛ, dɩ ba nɛ kpʋ Juu tɩŋŋaa kala sɩ hɛ kuoro Zɛzɛs tinteeŋ lɛ,","Mordecai abụrụrụ ya na kalasin a afo, and ka moribie nịịma, he ma nsị daka ojonjo time he kworo diere moribie le. Dịba na kwo juotin ya kala si he kworo zọọzị tin tin le.",0.9487,0.4752
+719,"Tɩɩsɩŋ ma kala sɩ hɛ duuŋ lɛ, jaŋ yɩɩ yɩɩlaa arɩ tʋɔtɔrʋŋ a pɩ La TƖƖNA. Ʋ jaŋ kʋ dii dʋnɩa nɩaa kala sarɩya.","Teesan makala se dundee, jaŋ yee la aratotoron afee latena o jaŋ ko di duniya niya sari.",0.9167,0.5181
+720,"Ama lɛɛlɛ nɩbɔŋŋɔɔ sarɩya nɛ ba joŋo didii ŋ lɛ,",malili na bu ngosari ya na bu nyogidi nle,1.0,0.5263
+721,"bʋla pʋ, “Ŋ bɩ jaŋ wuo jʋʋ daha.” Ama Devit arɩ ʋ nɩaa wuo yuo dii Zaayɔŋ (Jerusalɛm nɛ ŋɩɩ) dɩɩ-duo-la, ʋ nɛ lɛɛlɛ baa yɩrɛ Devit taŋ ŋɩɩ.","Bụrụ na unu bịa n'ụlọ nsọ Dịwara, ama Devid, a na-akpọ ya ""The Zion Jerusalem"", dị na Ogbo La, ọ bụ na lele baịrị Devid taa.",0.9655,0.6337
+722,"Dɩ mɩ nɛ yuo diiba, mɩ yɩrɩŋ jaŋ yɩrɛ, dɩ Ijipiti tɩŋŋaa jɩŋ arɩ mɩ nɛ ŋaa ba TƖƖNA.”",ဒီမနက် ၈ နာရီခွဲ မရဲတရဲ ထရယ်။ ၈ နာရီ ၅ မိနစ်,1.0,1.0
+723,"La TƖƖNA Wɩa nɛ ŋaa wɩa-nyuŋ a leŋ ʋ jɛrɛ tɔ leriŋ,","Lati ọjọ keje oṣu kẹsan-an, wiye nyun ele nku jara to le ni",1.0833,0.7632
+724,"Ʋ chʋŋ moribiee su ʋ moribie-lʋaga nɛ a kaa lɩɩ,","Ochum'u biye su, umu biye luwa gane akale.",0.9,0.4865
+725,"nɛ kpɩa nʋʋ sɩ mʋ lee-la ba sɩ dii kɩaa a gbigbieli,","Nụkpụa, nụsịmụ l'eleba sịdịkịaa agụgụ ịlụ.",1.0,0.4615
+726,"Kuoro baanɩŋ nɛ sie, ʋ yie nagɛ naachigiŋ sɩɩ huosu nɛ.",Koro banana ne su ye na gna cikin seafood sun,1.0,0.4651
+727,"bɛɛ wɩaa haala lɛ dee Wɩa to a ŋaa baala, ama ʋ to baala lɛ nɛ a ŋaa haala.","Mewɔ ha lɔlɛde, wietu angabala. Ama uto balalɛ ne angahala.",0.9474,0.3818
+728,"Mɩ sɩ kɔ ma teeŋ, mɩ joŋ mɩ tɩtɩa a nagɛ mɩ bɩ wɩɩkala jɩŋ nɛ, see Yesu Kirisito sɩ sʋʋ daagɛsɛ nyuŋ dʋndʋŋa wɩaa nɛ mɩ jɩŋ.","Me ka mete me jom me tya anake me be we kala jene, se Yesu Kristo so da ge se nyu dondogo awuya ne me ja.",1.0,0.4574
+729,"Ma jɩŋ la naambie ba sɩɩ yɩrɛ Apɔlɔs nɛ. Mɩ bʋla pʋ woruŋ arɩ ʋ dɩ la naambiiri-la kʋ nama. Ama ʋ bɩ ʋ tɩtɩa kaa hɛ dɔŋɔ dɩ ʋ kɔ lɛɛlɛ. Ama dɩ ʋ na wombiiŋ, ʋ jaŋ kɔ.","M ga-ejide na m biara ebe a site na Apollo's nne. M bu laa kwa ugoro m, odi laa na m biara kunama. Ama m na ubutata ka ha donyo do ukoleele. Ama na ole na ole m bi, uja m",0.975,0.6116
+730,"Ŋ sɩ, ‘Jegile nɩɩ mɩ teeŋ, ka dɩ mɩ bʋl wɩaa,",Jigawa nemi thing kar ma bulu ya,1.0,0.6774
+731,"Ma jɩŋ woruŋ jɩnɩŋ a sɩ́ yʋ, La TƖƖNA nɛ ŋaa wɩa-nyuŋ arɩ tinteeŋ kala Wɩa, wɩa dɔŋ bɩra tuo.","Majiɓin gurin janin asiyo, latinan awiyun a ritinteyin kalawiya, wiyadomuretu",1.0,0.5217
+732,Ʋ bɩɩna dʋa-la nagɛ jebii duo nɛ a chu tɔʋ.,"Obi na aduala nna gi je bee iduo na, achuta",1.0,0.375
+733,Modikaaya joŋ tenni-la kpaa Juu tɩŋŋaa sɩ hɛ kuoro Zɛzɛs tinteeŋ tasɩ-la zɔlɔ arɩ mara arɩ balɩpɛ kala lɛ a chʋɔlɛ ba arɩ Wɩa jaŋ leŋ ba hɔŋ woruŋ arɩ yarɩfɩɛlaa.,Mọdika ajọntẹ nla kpa jụ tị nga sị hẹ kwọrọ zẹzẹ tịntịn tasịla zọlọ arịmmara arịbalụ pẹ kalalẹ. Achụalụba arị yajẹlị ndẹ bọhọwọrụ arị yara fịala.,1.0,0.4574
+734,"Wʋbɔŋ dɔŋɔ ma nɛ mɩ na dʋnɩa lɛ, ʋ yuŋŋie nɛ woruŋ a daŋ nuhuobiinee nyuŋ:",O bu ndu m na-eme na ndu nye le. O yiri m na o nwere m adanu obi na-enyo.,1.125,0.5965
+735,Ba paa ba vesi-la sɩ bɩ Wɩa ŋaa a nyɩgɛ nɛ. Daasɩŋ arɩ tabɩaa nɛ nuhuobiinee kaa ŋaaba.,Baffour besra sebewie nyaa anyekene daasen areta biaa ne nuhu bi ne kaaba.,1.0,0.4328
+736,"Sɩmɩa ma nyɩmma nɛ Maakɩl, Maakɩl ma nyɩmma nɛ Basɛya, Basɛya ma nyɩmma nɛ Malɩkɩja,","Maa kel, maa kel manyi mani. Basaya, basaya manyi mani.",1.0,0.4925
+737,"Kʋdiilee bɩ jaŋ kɔ dɩ ba nyaa tintee-la lɛ. Ma bɩ jaŋ chɛ kʋŋkala ka nɩmɛ. Tintee-la bʋsʋŋ kɛŋ hɛgɛŋŋɛɛ, ʋ dundolluŋ ma kɛŋ hɔɔ-fɩaŋ, ma sɩ jaŋ wuo huri.",Kedu ihe m ga-ejikọ debanye aha tinye na le? Ma m ga-eji check ụlọ akụ na me? Tinye na bụsụ nke m hegenye. Ụdị ndụ m maka hụfịa. Masi je nwuo,1.0,0.569
+738,Tapʋlɩɩ-la nʋʋ sɩ sʋba nɛ kpɩa tapʋlɩɩ-la ba sɩ lʋlʋ.,"Tapoli la, no so subanekwa tapoli la,",1.0,0.5122
+739,"Dɩ Wɩa nɛ joŋ kʋŋkala a hɛ Kirisito nɩsɩŋ lɛ, ʋ ŋɩɩ harɩŋ lɛ, Kirisito ma jaŋ joŋ ʋ tɩtɩa a hɛ Wɩa nɩsɩŋ lɛ, nɩɩ-la sɩ joŋ kʋŋkala hɛ ʋ nɩsɩŋ lɛ, dɩ Wɩa kɛŋ kʋŋkala doluŋ.","Ndi wehe na John Kunle, ehe Kristi onye nwe anyi. Onye ihere nle, Kristi mma je njoo, otiti ya ehe wehe nle. N'ihi na John Kunle ehe onye nwe anyi. Ndi wehe ka Kunle dolu.",1.0,0.7422
+740,"Wʋtɩtɩɩ, hɛɛ-la mɩ fa sɩ na kɛŋ nyʋʋrʋŋ nɛ a pɩmɛ.",Hela mefa sena ka nyoro ne apem,1.0,0.5405
+741,ʋ nagɛ vʋchɔɔŋ sɩ tɔ lɩɩ-bʋl-sɩɩŋ nɛ koo ba sɩ chʋŋ nʋsʋrʋŋ hɩhɛ viliŋ lɛ nɛ.,O na ka fu cho ncha olu bu si na ko ba so cho na soro ha ha bili na,1.1875,0.5932
+742,Chɛŋ-dʋ sɩpaalaara nɛ Tɛkʋa tɩŋŋaa Ɩkɛs nanʋala Ɩra.,ချောင်းဆိုးဖျားနာခြင်း၊ ထွက်ခွာ၊ ထွက်ငါး၊ အီကဲ နာနဝါး,1.0,1.0
+743,"Jɩnɩŋ, má jɩŋ arɩ ma TƖƖNA Wɩa nɛ laa ma sɩpaaŋ dɩ ʋ yuo dii nɩalɩŋ a nagɛ nyiniŋ sɩɩ dii kɩaa ŋɩɩ, dɩ ma kiri ba kala ta dɩ ba lɩɩ tintee-la lɛ arɩ ma TƖƖNA sɩ bʋl ŋɩɩ.","Jaanang, majang, arammatina biyan laamasapaan du'uyudi nialan anak nyininsi di ki'ang-e. Dimakiri bakala ta debalebetinteyele arammatina sibulung-e",0.975,0.4365
+744,"Má nyɩgɛ ba vesi-la kala. Má sɩ́ vesi-la sɛlɩmɛ arɩ hɔpʋla paa a kɛŋ. Dɩ ma nɛ ŋaa ŋɩɩ, ʋ jaŋ lɔrɛ a pɩma, bɛɛ wɩaa ma TƖƖNA Wɩa ka kɩsɛ ŋɩɩ nɛ.","Manya ke be bese la kala, masi bese la salime ari hopla fa aken. Demanengane o ja lore afuma bevia mati na wia ka keseni.",0.9697,0.4423
+745,ka ʋ toŋ ma ŋmooba pɩsɛ a nagɛ peliŋ sɩ paa mɩɩ-jɔrʋŋ.,"Ka otu mmanwu wapusiri, ana m repu ya nsogbu a m jọrọ.",0.9167,0.6829
+746,"Ŋɩɩ nɛ Josua sʋl Wɩa a pɩ Jefuni nanʋala Kalɩb, aŋ joŋ taŋ-la ba sɩɩ yɩrɛ Hɛbʋrɔŋ a pʋ, ʋ ŋaa ʋ kʋŋ.","na Joshua solu ya, apu je fini na nuala Caleb na John Tanla basi yire Hebron apu unga uko",1.0,0.4459
+747,ama nɩɩ-la kala sɩ kɛŋ tʋɔ-doluŋ jaŋ jʋʋ wɩaa.,A ma ni la ka la se ken to dolum janjo wea.,1.3333,0.3714
+748,Haal kala fa tuo tintee-la lɛ a zɔmɔ magɛ Job toloo. Ba nyɩmma kpaa ʋ dʋa pɩba a nagɛ ʋ sɩ kpaa ŋɩɩ pɩ ba dɩbaalaa.,"Ha kara fa too tun telaa a zamanka job too low. Banyi makwaa drop baa, annabi osikpaa n'ipe ba di baa laa.",0.8846,0.3908
+749,"Yikorusuŋ yʋga nɛ dʋnɩa lɛ, ama ba kʋŋkala tuo dɩ ʋ bɩ bʋbʋɔŋ kɛnɛ.",Yukarısındaki yukarıya dönüyorum. Ama bak o yukarıya tuo,0.9286,0.8269
+750,"Mɩ bii, jegile nɩɩ mɩ teeŋ woruŋ, kɛŋ wʋjɩmɩŋ,",mabii jega leni meten worun kan woji ma,1.0,0.4
+751,"Nɩa dɔŋɔ jaŋ pɩɛsɛ, dɩ ɛɛ nɛ nɩalɩŋ sɩ sʋba jaŋ wuo ŋaa a sii sʋʋŋ lɛ? Dɩ yarɩ bɛɛba nɛ ba jaŋ kɛŋ?",Nia don jump pass am. Di one wey pass am na as e be so. Di one wey follow am na bajankem.,1.0,0.7534
+752,Wɩa ŋaa wɩaa deemba kala ba lɛ dɩ ʋ chagɩlɛba nɛ. Ama ba saa ŋmʋnsɛ wɩaa deemba bil nɛ a pɩla dɩ ba dɩdagɛla wɩaa nɛ. La hɛ bʋa-la lɛ dʋnɩa sɩ kpagɛ dɩdɛrɩŋ nɛ.,"We ya na we ya di mba Calabar le, du ocha Calabar ne, ama kpasam nsi we ya di mbe bil ne apula dabada dagala we ya, lehe buo na le dunia sikwa di dere ne.",1.0286,0.4508
+753,Má leŋ dɩ tʋɔbɩɩŋ falɩa-la nagɛ gɛrɩŋ ma sɩ laala. Wɩa ŋaama dɩ ma nagʋ nɛ a kɛŋ tʋɔpʋla ʋ sɩpaaŋ a sɩ́ disiniŋ kɛŋ.,Mele n'est-ce pas bien fait l'air n'a garé ma salle à la. Oui en amont de ma la couronne à quand tu as voulu aussi pas ainsi de ce n'est que.,1.16,0.8182
+754,Ama La Tɩɩna nɛ yie magɩsɛ nuhuobiine tʋɔŋ a na dɩ ʋ zɔmɔ koo ʋ bɩ zɔŋ.,Amala Chineke m ga-asị na ọ bụ ihe na-atọ ụtọ. A na m arịọ Chukwu ka ọ bịzọọ.,1.0,0.7593
+755,wɩɩ na-kala sɩɩ ŋaa dʋnɩa lɛ kɛŋ bʋa-la sɩ maga dɩ ʋ ŋaa nɛ:,"Wina kalasinga dunyale, kambwala simukadunga",1.0,0.4773
+756,"“Mɩ Tɩɩna, liisi ŋɩɩ mɩ sɩ kɛŋ wʋtɩtɩɩ a toŋ arɩ mɩ tʋɔŋ kala, a ŋaa wɩalɩŋ sɩɩ tɔrɛ ŋ tʋɔŋ.” Ʋ bʋl ŋɩɩ aŋ chaasa yel woruŋ.",Matin na li senge mesekan wete ce atun ara metuwan kala. Anawiyalen se tore intuwan. Obulenge ancase yel woro,0.9286,0.5824
+757,"Ahimof doho nɩaa nɛ: Ɛlɩkaana, Zofai, Nahaf,",Ihe mụ na ya na-elekọta zụfanyere,1.0,0.6471
+758,Ŋɩɩ nɛ Jona tʋɔŋ faasa chei ʋ na baanɩŋ.,na na jo na,0.8889,0.8387
+759,ʋ nɛ kpɩa nʋʋ sɩ ŋaa nɩyaarɩ aŋ nyɩnyɩɛ wɩaa.,"Onye cheriri ka ọ na-anọsị n'ala ya arị, anyị nye ya ya.",1.2,0.8286
+760,"Hɩlɩkaaya ma nyɩmma nɛ Amizi, Amizi ma nyɩmma nɛ Banɩ, Banɩ ma nyɩmma nɛ Sɛma,","de la calle, mañanera, MZ, MZ mañanera, Vani, Vani mañanera,",1.0,0.6393
+761,Ʋ jaŋ laa ba wɩɩŋ bʋla pɩba a leŋ dɩ ŋ laa cheeriŋ.,"Ya laa baa wee m bula piba, alende nla kee ri",0.9231,0.4211
+762,"La sɩɩŋ lɛ nɛ La TƖƖNA ŋaa wʋkpuŋkperisiŋ, wʋmagɩlaa arɩ wʋduoruŋ Ijipiti tinteeŋ kuoro arɩ ʋ tɩntɩnnɩ-hɩasɩŋ kala lɛ.","Lachi n'alene, lachi na nga bu kunkwere si, wu magala, ari wu duoro, ijiwuti nte kuoro ari utuntun ya sankala",1.0526,0.4536
+763,"Ŋɩɩ wɩaa, dii kɩaa arɩ tʋɔtɔrʋŋ, a nyʋa kɩaa a nɩɩ sɩma, bɛɛ wɩaa Wɩa sɩ cho dɩ ŋ ŋaa wɩɩ-la nɛ ŋɩɩ lɛɛlɛ.","N'ewia, dịkwa arụ tọtọrọ, anyụọkwa anị ịsị ma, b'ewia, wụe sụchọ dị n'a wụịla na ngịlị",1.0,0.5641
+764,Baala-la kala fa ŋaa zɔɔ-balɩa mahɩŋ banɛsɛ arɩ chori nɛ. Ba fa dagɛ ba kala ba jɩŋ yɩɩlaa wɩaa nɛ woruŋ.,,,
+765,Chɛŋ-nibi sɩpaalaara nɛ Abieza a lɩɩ Anatɔf sɩ hɛ Bɛnjamɩŋ tinteeŋ lɛ.,ਚੰਨੀ ਵੀ ਸਫา ਲਾ ਰਹੇ ਨੇ ਅਬੀਜਾ ਅਲੇ ਅਨਾਟੋਫ ਸੇ ਹੈ ਬੈਂਜਾਮਿਨ ਟੀਨਟੀਨ,1.0833,1.0
+766,"Má sɩ́ leŋe dɩ ma tʋɔŋ vʋgʋmɛ, mɩ nɛ ma Wɩa.",,,
+767,"Má tɩŋ ma tɩntɩŋŋaa tapʋlaa balɩdʋ pɛgɛ,",mutton mutton,1.0,0.8485
+768,"Dɩ haal ma kala nɩɩ chʋɔlɛ Wɩa koo dɩ ʋ nɩɩ bʋl Wɩa wɩaa, aŋ bɩ kʋŋ joŋo tɔ ʋ nyuŋ, ʋʋ hɩɩsɛ ʋ bala nɛ. Dɩ haal nɛ bɩ kʋŋ joŋo tɔ ʋ nyuŋ, ʋ naga arɩ ʋ fʋŋ ʋ nyuŋ nɛ.","Ndi ha makara na echu ala via, koodu o na ebulu via via, ha mbe kunjo uto unyun, ohisa ubalani, ndi ha na mbe kunjo uto unyun, onaka ari ofon unyun ne.",1.0,0.5254
+769,"Ama la kala kɛŋ bʋa-la lɛ Wɩa sɩ jaŋ chɩsɛla sʋʋŋ lɛ nɛ. Kirisito nɛ Wɩa laa sɩpaaŋ chɩsɛ sʋʋŋ lɛ. Dɩ ʋ nɛ mɩɩra kɔ, nɩalɩŋ sɩ ŋaa ʋ nɩaa, Wɩa jaŋ chɩsɛ ba ma sʋʋŋ lɛ.",Amala kala kam bwalale wia ji anchesa sola le ne. Kristo ne wia la asipa anchesa sola le. Do uneme irako nyalensa nga unia. Wia ji anchesa bama sola le.,0.9737,0.4274
+770,"Dɩ nɩaa nɛ hɛ nɩmɛ a bɩ bee na wɩaa sɩpaaŋ, ba yie berimi nɛ,",deɛ yɛn ahyɛdeɛ me abebɛ na wia ase pan ma yɛɛbɛre me,0.9333,0.5778
+771,ŋɩɩ nɛ ʋ nagɛ summoo lɛ dɩ nɩbɔmʋŋ nɩɩ bemba.,"Nge na wonna kae, su mole, de ne bomo nne",1.0,0.6857
+772,lee-la ŋ sɩ saa pɩ ŋ tɩtɩa a jʋjʋʋ.,Laila asesa pii entetia ajuju,1.0,0.56
+773,"Elieza ka sʋʋ dɩ ʋ bɩ hambolibie kɛnɛ, toloo dʋndʋŋa nɛ ʋ lʋl. Tolie-la jaa ba nyɩŋ-bie Kɩs hambolibiisiŋ nɛ.",leela ka so do obey ham boliye kana tulu dondona olol to leela ja banyam diye case ham boli,0.95,0.4706
+774,"Dɩ nʋʋ nɩɩ wɩɩlʋ aŋ kɛŋ tʋɔtɔrʋŋ, ʋ jaŋ wuo nyanyalɩɩ-la,","Nwanne welu nke ntutu onu, uja mbu ya nyalu",1.0,0.6364
+775,La TƖƖNA jaŋ pɩɩsɛ Jerusalɛm haalaa disiniŋ ta arɩ chal-la kala sɩ jaasɛ Jerusalɛm lɛ aŋ dii nɩalɩŋ kala sɩ ŋaa wʋbɔmɔ-la sarɩya arɩ nyiniŋ.,"Latsa na ja'an su Jerusalem, hala disininta. A rashi Allah kala su ja'a su Jerusalem le. Andini Allah kala su na wu bomala, sariya a rinyi ni.",1.0,0.3009
+776,bɛɛ wɩaa ʋ pɩma duoŋ-puso ŋɩɩ sɩ maga nɛ.,Béwé à opamaduon pusongé sama,1.0,0.5161
+777,Jerusalɛm jaŋ ŋaa lee sɩ bɩ disiniŋ kɛnɛ.,जरूर सलाम जंगले,1.0,1.0
+778,"Wɩa sɩ to baala lɛ a ŋaa haala ŋɩɩ, ŋɩɩ tɩtɩa nɛ haala ma lʋlʋl baala. Wɩa nɛ ŋaa ba kala.","Wepụta baala na-aghaghịghị, ịghọtara na ha na-alọlọlọ baala. Wepụta ngaba ka",0.9048,0.5672
+779,"Wʋjɩnna ka bɩɩnɛ lee-la ba sɩɩ yel wɩaa nɛ,",Wujin na kabine lela basiyel biya,1.0,0.3939
+780,ama lɛɛlɛ ʋ jaŋ ŋaa kʋbie ŋ teeŋ a tɩŋ nɩalɩŋ sɩɩ kɔ dɩ ba hɔŋ nɩmɛ wɩaa.,"Amalélé, o jangaa ko biye nteeng, atunni alensi koduba hannum biya.",1.0,0.4909
+781,"arɩ kʋ-la wɩaa ha sɩ bɩ nuhuobiine tʋɔbɩɩnaa jʋa,","Arokhulla, uya hasa binwibine wabenaju.",1.0,0.5641
+782,ʋ niiŋ nagɛ bɛrɛ nɛ a yie,Odi ya? Onye nna ke be re na?,1.1429,0.8947
+783,"Daasɩ-la kʋkaanaa, ʋ yie kaa ŋaa tɔmʋŋ a kpʋkpaarɛ.",Da sassafe kana wanke ka na atomin akwaryar,1.0,0.525
+784,"ŋ jaŋ kɛŋ dʋa, nɩaa jaŋ ziziliŋ, ka dɩ ŋ mɩɩsɩŋ ma pɛ duomuŋ.","Jankanduwa, na ajanzizilin, kada in mai sanma pedumi.",1.0,0.4444
+785,bɛɛ wɩaa Manasɛ doho nɩaa toloo ma fa laa tinteeŋ kpaalɩŋ nɛ ba hambolibiisiŋ tʋɔŋ. Gɩlɩad tinteeŋ nɛ ŋaa Manasɛ doho nɩaa nɩkaana-la ma kʋa.,Biafra mana asaa dohunia tunlo mafala tinte nkwalunne baham bulu bi isi ntuo. Giliad tinte nne mana asaa dohunia nika na alama,1.0,0.4211
+786,"Ɛlɩpaal doho nɩaa nɛ: Zɛbadɩa, Mɛsʋlam, Hiziki, Hɛba,",ਇੱਕ ਪਾਲ ਦੁਹਨਿਆ ਨੇ ਜਵਾਬ ਦਿੱਤਾ ਮੈਂ ਸੁਣਿਆ ਹੈ ਜੀ,1.25,1.0
+787,"Ŋɩɩ nɛ Ijipiti tinteeŋ kuoro bʋla pɩ ʋ tinteeŋ nɩaa kala, “Má kɛsɛ Hiburu tɩŋŋaa hambolibiisiŋ kala a yuo hɛ fuo-la ba sɩɩ yɩrɛ Naayɩl lɛ, aŋ leŋ hantolibiisiŋ.”","N'ime ututu nke ubochi ututu nye akara. M ka si iburu ututu mmalite mbu na-ebido isi nkala ayuo ha fuel abasi-yere na-alee. Anli, anuli bu isi.",1.0,0.5512
+788,"Yuria sɩ ŋaa Hiti tɩɩna, Alaɩ nanʋala Zabad,",Uria singer hit it na Allah na nuala Zaba,1.125,0.3429
+789,"Ba suri bʋa-la a kɛŋ Jerusalɛm kuoro, Hɛbʋrɔŋ kuoro, Jaamʋf kuoro, Lakɩs kuoro arɩ Ɛgɩlɔŋ kuoro a kaa kʋ lɩɩ.","Bụrụ na akara Jerusalem kworo, Hebron kworo, Jamuf kworo, Lakis kworo, ari Eglon kworo aka akụlị.",1.0,0.3765
+790,"Nɛɛ nanʋala nɛ Kɩs, Kɩs ma nanʋala nɛ Sɔɔl, Sɔɔl ma hambolibiisiŋ nɛ: Jonataŋ, Malɩkɩ-Sʋa, Abɩnadab arɩ Ɛsɩ-Baal.","Nna nụ ala nri kee. Kee si ma nụ ala nri? Sol, sol ma ha bụrụ isi nne Jonathan Malikiwa. Abịna dap, Arrey Essiba.",1.2222,0.4886
+791,"Ba sɩ tɔnsɛ bumbuŋ, Jehoyarib nɛ ba lɩɩsɛ, ba bɩra tɔnsɛ lɩa a lɩɩsɛ Jedaaya,",巴塞隆納邦邦，就好像是，你巴塞，巴塞隆納，巴塞,1.0,1.0
+792,"Dɩ wʋtɩtɩɩ ma nɛ, kʋbɛɛ nɛ jaŋ wuo kɛnʋ mʋ sarɩya dɩ-diiliŋ?",da wata taimana ku bani jan wuyan kanu mu salary dealing,1.0,0.5652
+793,"Ŋɩɩ nɛ La TƖƖNA joŋ nyanyal bɔŋŋɔɔ hɛ Iziral tinteeŋ lɛ, nɩaa bʋɩ mahɩŋ batori arɩ fii sʋʋ.",Nye na-atinye uche na ya na-agba ngọzi na-atinye na ya bụ ịmahi mbu turi arịrị.,1.0,0.6389
+794,Wɩa laa sɩpaaŋ nɛ a joŋ Yesu Kirisito dɩ ʋ ŋaa ʋ dɩa-la gentine. Nʋʋkala bɩra bɩ jaŋ wuo bil dɩa-la gentine doho.,We are last a partner a John Yeas Christo do nga odi elegant ni na o kalabara be je wu bil di elegant ni do,1.0,0.4943
+795,"La TƖƖNA ŋaa wɩaa deemba kala dɩ ʋ dagɛma nɛ, dɩ ma jɩŋ arɩ ʋ dʋndʋŋa nɛ ŋaa Wɩa, wɩa dɔŋ bɩra tuo.","Na chi na nga bu ya di mbala, bu udo di na ya. Di mma ji, na udo di na nga ya. Ya do mbre to",1.1304,0.6081
+796,"Hupa ŋaa fii arɩ batori, Jɛsɛbɩab ŋaa fii arɩ banɛsɛ,","Oupa, ngafika erhabithori, jasabiya, ngafika erhabanasi.",1.0,0.5238
+797,"Ŋɩɩ nɛ Mosis bʋla pɩ Ijipiti tinteeŋ kuoro, “La TƖƖNA sɩ ʋ jaŋ gɔllɛ Ijipiti tinteeŋ kala tɩta-siesee.","N'ime mọsịrịpụlaa Egyptị tupu koro, Latịna sị Ujangorị Egyptị tupu ịkala teta fụsị.",1.0,0.6296
+798,"Wɩa wʋzɔmɔ-la nɛ jaŋ laama ta, dɩ ma nɛ kɛŋ wɩalɩŋ mɩ sɩ bʋla pɩma woruŋ. Má sɩ́ leŋe dɩ ʋ nagɛ arɩ wɩalɩŋ ma sɩ laa dii bɩ bʋbʋɔ kɛnɛ.",ወያ ወያነ ጋላ መታ ደማነከን ወያነ ምስ ብላዕ ፍመወሮን መሲልኒ ደኦ ናካ ኣረ ወያነ መሲላዲ ብመብዋከን,1.0,1.0
+799,koo ŋ joŋ gbɩaŋ tɔɔ gɩrɩgɛ ʋ tapaŋaa lɛɛ?,ko ajeng bia ntok kereke otap ngale,1.0,0.5938
+800,"dɩ ŋ sɩɩŋ nɛ paala naʋ, ŋ nandaasɩŋ yie yʋɔrɛ nɛ.",The insane Nepali now and,1.0,0.8108
+801,"Birimiŋ tɔ ba wʋjɩmɩŋ nɛ. Ba bɩ jaŋ wuo na mɩɩsɩ-la Wɩa sɩ joŋo pɩ nɩaa, bɛɛ wɩaa ba bɩ wɩɩkala jɩŋ, ba dɩgɩlaa ma bɩ wɩaa ka nɩɩ.","Bụrụkwa ihe gbasara onye mere ya, na-abụghị na ọ bụ naanị ya siri jọọ njọ. Be ebe a bụkwa ihe arụrụ arụ, ma dịgide na-ama ha aka.",0.931,0.8247
+802,Ʋ wɩɩŋ nɛ dɩ ʋ ŋmoo tɔ nɩaa wʋcheelee a laa yɩrɩŋ.,O wee na-edum ụgbọala na-awụchele ala ya,1.0,0.6316
+803,"Nɩɩ-la kala sɩɩ yɛrɛ tabɩaa, ba jaŋ wuo pɩrʋ.",neela color se yaar tabiyat,1.0,0.7353
+804,Pupo-balaa jaŋ bɩra su arɩ girep nɛnɛɛ sɩ-falɩŋ arɩ nʋʋŋ.,"Popo Bala, Jambrezu, Arekerep Nene, Sefalan Are Nu",1.0,0.4222
+805,"ŋɩɩ nɛ tɩɩ ʋ ŋaa ŋɩɩ pɩla. Ʋ sɩ kɛŋ wʋjɩmɩŋ, a jɩŋ wɩaa sɩaa lɛ nɛ ʋ ŋaa ŋɩɩ pɩla.",Ngị na-eto onye isi ala na onye isi ala na,1.0,0.8475
+806,"Hambiisiŋ, ʋ maga dɩ ma tuto ma nyɩmmaba arɩ ma naamba niiŋ. Ŋɩɩ nɩɩ to Wɩa wombiiŋ.",ham bisun,1.0,0.8769
+807,"ʋ bɩ maga dɩ haalaa bʋbʋl wɩaa. Ʋ maga dɩ ba tɔrɛ ba niiŋ aŋ tuto baalaa niiŋ nɛ, arɩ wɩalɩŋ Mosis sɩ ŋmʋnsa bil dɩ ba tuto sɩ dagɛ ŋɩɩ.","O maka di haala bo bule ya, o maka di ba toro be nni, a tito baala ni ne. A re wele Mosesi sen se building ya tito so daga ye.",0.9677,0.466
+808,Ŋɩɩ nɛ Devit yɔɔ taha-la arɩ nɛ-ferisi-la a tiŋ sɛlɩmɛ moribibiiŋ zɔɔ-balɩdʋ.,ne ne debi yor tahala are ne fel sila atin salama morbi bi zowal,1.0833,0.4098
+809,"Dɩ la nɛ laa sɩpaaŋ beŋ la tɩtɩa lɛ, la bɩ jaŋ kɛŋ la tɩtɩa baŋŋaa kaa hɛ ŋmɛnɩŋ lɛ Wɩa teeŋ.",Nla nla asụsụ bekee na-atụgharị ya. Na bekee na-atụgharị ya bụ ngá ka e nwere nlele.,1.0,0.7429
+810,"Bɛla sʋʋ, ka Zɛra nanʋala Jobab sɩ lɩɩ Bozira dii kuoruŋ ʋ nyuŋ lɛ.","Bia so, ka zara na nụla, ịzịbapụ sị na ọ bụzịrị dịịrị onye ọ bụla",1.0,0.6154
+811,"Ma sɩɩ bigisi ma tɩtɩa lɛ ŋɩɩ, ʋ ŋɩɩ bɩ zɔŋ. Ma bɩ jɩŋ arɩ sɩbʋrʋŋ mʋa nɛ ba yie joŋo hɛ boroboro munuŋ lɛ, ka ʋ sii pʋɔrɛ a yʋgɛɛ?","Maa si bi ki si maa si tiya lange, o nge be so. Maa bi je ara si buru muwa ne, be ye je o he buru buru mu ne le, ka u si foro ayo ge.",1.1613,0.5567
+812,Ŋ-la nɛ teŋ-la bʋl: “Má bʋla pɩ Juda tinteeŋ kuoro Hezikaaya dɩ ʋ sɩ́ leŋe dɩ Wɩa-la lɛ ʋ sɩ joŋ ʋ yɩɛlaa hɛ nyɩsʋ arɩ Asiiria kuoro bɩ jaŋ wuo yuo dii Jerusalɛm.,"Lallai, tun da farko Yahaya ya yi ta yin koro Hizkiya. Duk wasu lalle da wuya lalle, su John suka yi la'akari, ya sa Asiria koro su daga woyoyodi Jerusalem.",1.0,0.6066
+813,Haal-la sɩ gɔllɔɔ chɛ nɩaa balaba wɩɩŋ kala nɛ ŋ-la:,Ha lasu goro chee na abalabaa wee nkarani,1.0,0.5
+814,"Ama, mɩ joŋ wɩalɩŋ hɛ La TƖƖNA nɩsɩŋ lɛ nɛ,","Ama, mejon wialen he latri nisenlen",0.9,0.4688
+815,Sɛlɔmɩf arɩ ʋ naambiiriŋ nɛ faa beŋ kɩalɩŋ kuoro Devit dɩa dɩa nɩhɩasɩŋ arɩ laalɩyuori-hɩasɩŋ sɩ kaa kʋ ŋaa chɔgɩta pɩ Wɩa.,सलाम है अरे उन एम बीरिंग नफा बैंक की आलम कुरेदी भी दिया दिया निहत्थं अरे लाल यूरिहत्थं से काकुंगा चौखटा,1.0,1.0
+816,Magɩdɩɛl arɩ Ɩram. Ɛdɔm tinteeŋ kuoroo nɛ ŋɩɩ.,"Aree, Iram, I don't think",1.0,0.7838
+817,"Ama nɩbɔŋŋɔɔ wombiiŋ-na nagɛ leriŋ sɩ chaasa biri nɛ,",Amara na ọbụ onye m na-a na-agaghị elerịnsị ya anya abụọ.,1.2222,0.7674
+818,Samaɩ nanʋala nɛ Mayɔŋ. Mayɔŋ ma nanʋala nɛ Bɛf Zuu.,समय माना नुआला ने मयोन मयोन माना नुआला ने बेथजू,1.0,1.0
+819,"Bɛnjamɩŋ sɩ ŋaa Sɔɔl doho nʋʋ, ma nɩaa fa ŋaa bʋɩ batori nɛ. Ba jesiŋ kala faa to Sɔɔl nɛ aŋ lɛɛlɛ mɩɩrɛ ʋ harɩŋ.",Benjamin si nga soldu hunu ma ni afa nga bui gbetorine beche si nkala fa atu sol ne anlele mere uhara,0.96,0.4535
+820,see ʋ dɩ nɩɩ-la sɩ kɛŋ kaalɛrɛ kʋ lɩɩ pɩɛsʋ wɩaa.,"Si odanila si ka nka lere, kole pia so uwa.",1.0,0.5676
+821,"Matɩtɩa, Ɛlɩfɛlɛhʋ, Mikineya, Ɔbɛd-Ɛdɔm, Jɛyɛl arɩ Azazɩa ma nɛ faa du chenniŋ.","m'atete ya, elefa elefelehu, mekeneya, obed edom, jeiel, azaziah, manat, fadu, chienim",1.0,0.5323
+822,"Dɩ ba nɛ jaŋ kɛŋ ŋɩɩ naaŋ lɛ a zizilmi, aŋ tuto wɩalɩŋ mɩ sɩ daga, ŋɩɩ fa jaŋ leŋ dɩ wɩaa vɛŋ woruŋ a pɩ ba dɩ ba biiriŋ kala a kaa mʋ wuu.","Ndi be anyi jikannu, ezinifere m, a tutuwalam m si daka, unu fanye nu ndi be anyi ebe nwuru apuba di be biri kala a ka amu wu.",0.9143,0.5882
+823,"“Dɩ bʋa-la sɩ maga dɩ mɩ laa nɩaa ta nɛ yie,",Tebura lasimaka demala niya tani,1.0,0.4516
+824,"Hɛzɩrɔŋ bii-hɩaŋ Jɛramɛɛl fa kɛŋ hambolibiisiŋ banɔŋ nɛ: Ram, Buna, Ɔrɩŋ, Ozem arɩ Ahija.","Ram, Buna, Orin, Ozim, Ari,",0.8571,0.8
+825,"Ama dɩ ʋ nɛ kɛŋ ʋ kɩŋkɛnsɩŋ yɛrɛ dɩ ʋ fá,","Ama, de onkel, ook een kanselier de",0.9091,0.6667
+826,Bʋa-la lɛ dɩ Fɩlɩsɩtɩa tɩmma-la kʋ lɩɩ su Refem fuonaaŋ a yuo dii tabiisi-la sɩ kpagɛ lee-la.,"Bualale lefelisi ya temala koo Jesu, lefe mfu na ayo di tebi sila sekpake lela.",1.0,0.375
+827,"a joŋ ba hambolibiisiŋ yallɛ dɩ ba kaa ŋɩŋaa wʋlɩɩlɩŋ,","A jụm ba ha mbụ, ọ bụ isi ya le, dọba ka aṅụṅụọ ịla.",1.2,0.5
+828,a nagɛ kɩaa sɩ bɩa ba bʋa lɛ ba kʋŋ.,ana ka kya sabiya ba bole ba,0.8,0.5
+829,Ŋɩɩ nɛ saa ʋ nagɛ nɩɩ-la sɩ kɛŋ ʋ dɔŋɔ haala pɩŋ lɛ.,"N'enesa wonna ke, n'ilaseken odongohala",1.0,0.6579
+830,"Tasɩŋ dɔnsʋŋ ma nɛ ŋ-la: Gibioŋ, Rama, Bɛɛrɔf,","Donsin donsin manilla, gibeon, rama, bero",0.875,0.4706
+831,"Maluk ma nyɩmma nɛ Hasabɩa, Hasabɩa ma nyɩmma nɛ Amazɩa, Amazɩa ma nyɩmma nɛ Hɩlɩkaaya,",Malo komanyimane hasabya. Hasabya komanyimane amazya. Amazya komanyimane elekaya.,1.0,0.3286
+832,"Kɛnʋ a kpaa pɩ Iziral do-kaana-la nibi arɩ Manasɛ doho kpaa magɛ dɔŋɔ-la, dɩ ʋ ŋaa ba kʋŋ.”",Kedu akụkụ Israel do ka na-ala? N'ebe a na-asị doho kwa ma dọọla do na-abakọ?,0.9444,0.4706
+833,Kʋbɛɛ nɛ bʋla faafaa kala arɩ wɩɩŋ deeŋ jaŋ ŋaa?,"Kobe na bula faafa kala, ariwi ndi nji anga.",0.9,0.4474
+834,"Dɩ ŋ nɛ joŋ ŋ yɩɛlaa hɛ nʋʋ sɩ bɩ wʋtɩtɩɩ kɛnɛ lɛ, bʋa-la lɛ",na enu igwe njem ala ha na-usoro weteete kelele. Bọla,1.0,0.7273
+835,"Kʋbɛɛ nɛ ha wuo joŋ mʋgʋ-balɩŋ lɩɩŋ kala hɛ ʋ nachala lɛ a magɩsɛ,",Kobe na hawo jo mogbalen leen kala he onachala le amaksi,0.9286,0.3725
+836,"Ka dɩ ba-na kɛŋ ba tɩntɩŋŋaa kpaaba, ba kala yie tɔnsɛ nɛ, dɩ ŋ ŋaa bii-bie koo nɩhɩaŋ, wʋjɩnnʋ koo gʋŋgʋnnʋ.","Kada ba na ƙyan ba ta tsakiyar ƙafa ba, ba ka yi tonse na, zan ɗaga bibiye ko na hiyan, wujin ko gungun.",1.0,0.5181
+837,Wɩa Dɩŋ-zɔmʋŋ yie joŋ wʋjɩmɩŋ a pɩ nʋʋ ʋ wuo bʋl Wɩa wɩaa pɩpɩ nɩaa. Ʋ yie joŋ wɩɩ pɩ nʋʋ dɔŋ ʋ wuo jɩŋ Wɩa wɩaa bʋbʋɔŋ a wuo dɩdagɛba woruŋ.,"Onye ije njem na-eje njem ogologo, a panụ owu bụrụ ihe mgbu na-apapụ na ya. Onye ije njem na-eje njem dị mkpụmkpụ, owu ji ya bụrụ abụbụọ, a wụọ didakwá bụrụ",0.9688,0.8598
+838,"Ma jaŋ kɛnʋ a kpaa leree balɩpɛ. Juda doho nɩaa ha jaŋ hɛ wɩɩpɔsʋŋ nadiiŋ dɩɩrɩŋ tintee-la lɛ, dɩ Josɛf doho nɩaa ma ha hɛ wɩɩpɔsʋŋ nagʋa dɩɩrɩŋ tintee-la lɛ.",ma jankanu apa lere balpe Juda dohonya aha ja nhe weposin nedi ndi iri ntinti lale di Joseph dohonya amahe weposin nago di iri ntinti lale,0.9333,0.3871
+839,Ma dɩ ma doho nɩaa kala maga dɩ ma tuto wɩaa deemba nɛ a kaa mʋ wuu.,"Madi m adughu na akara m, m adighi etinye ya, we are the mba na akam uvu.",1.0,0.549
+840,"Má leŋ nɩalɩŋ sɩ bɩ wɩaa jɩŋ wombiiŋ aŋ kɛŋ mɩɩsɩŋ,","Malling, nyala nsibawu yajen wunbi anke m'esɛn",1.0,0.6
+841,Wʋbɛɛ nɛ fa maga dɩ mɩ ŋaa mɩ girep tɩɩsɩŋ baga-la lɛ,"Me ba ne fa, marade manga, me gree tii san ba ka da",1.0,0.5122
+842,"Wʋjɩnna wʋbʋlʋŋ luŋie a nagɛ fuoŋ sɩ luŋie nɛ,","Woyé na wubolon yugnié, anaka foni silugnié",1.0,0.6216
+843,"“Bie sɩɩ wasɛ yɩlɩŋ, ʋ naaŋ jaŋ wuo yʋ ʋ wɩaa","Bia siwa siyelam, onye anjem nwayo obia.",1.0,0.6364
+844,"Dɩ nɩaa dɔnsʋŋ nɩɩ chɛ dɩ ba bʋl wɩaa yikoro-la Wɩa Dɩŋ-zɔmʋŋ sɩ pɛ nɩaa lɛ ba bʋbʋl lɛ, ʋ maga dɩ ba ŋaa balɩa koo batori a bʋl kʋŋ kʋŋ, ka dɩ nʋʋ ma hɛ nɩmɛ aa dagɛ wɩalɩŋ ba sɩ bʋla bʋbʋɔŋ.","Taa na ya dọsịrị ya chọwa bụrụ ịsị a, ị kụrụ ya dị nsọ ma sị ya pụọ na ya bụ bọlbọl. Ụmụaka dị n'ebe a balịịkọọ wee tụrụ a bụrụ kọọnkọọn ka nụ ụmụhị nịịme a adaghị ya na mbà sị bụla bụrụ",1.0,0.6944
+845,a laalɛ kɩaa a nagɛ hachɔrʋŋ a kɛŋ ʋ tʋɔŋ lɛ dɩ ʋ ŋaa wʋbɔŋ.,ala ala kya annaka ha choro a kan wuton le do unga wubo,0.9333,0.5111
+846,"a pʋpɔ ŋ sɩ́ wɩalɩŋ mɩ sɩɩ dagɩŋ yʋ, a sɩ́ ba vɩa ta.","Apopɔ, ɛnsɛ wiara mma se dagon yɔ. Asiba via",1.0,0.5
+847,ŋ ha laa mɩ mɩɩsɩŋ pɩmɛ nɛ sʋʋŋ-bʋa lɛ.,Hala ve hemşireme sordum bu arada.,1.0,0.8276
+848,"Ʋ bɩ naga ma sɩ yʋga nɛ tɩɩ La TƖƖNA choma a lɩɩsɛma dɩ ma nɛ ŋaa ʋ nɩaa, ma nɛ paala ŋaa doho-la nɩaa sɩ bɩ yʋgɛ dʋnɩa nɩaa kala tʋɔŋ.","Onye na-aghaghi masi ya ka na-eti Latin choma alisi ma di manga onye a. Mana fa na-adu hu lasi ya si bu yuke, dunia na-akala tuo.",0.9375,0.495
+849,"Ŋɩɩ nɛ kuoro bʋla pɩ ʋ tɩntɩnnaa, “Má mʋ lɩma a kɛŋ Hamaŋ kɔ dɩ la mʋ Ɛsɩta yɩra-la.”","Ngene kwara ula pee otutu nnaa, ma mụ na mụ aka nri mụ kọọrọ mụ Esther yiri ala.",0.9474,0.6129
+850,"Ŋɩɩ nɛ fawʋllʋŋ faasa jʋʋ ʋ dɩ ʋ nɩaa woruŋ, bɛɛ wɩaa Gibioŋ fa ŋaa tabal nɛ, a magɛ ta-jalɩa-la dɔnsʋŋ sɩ kɛŋ kuoroo. Ʋ fa yʋga kɩɩ Aɩ, ʋ nɩaa ma kala chaasa ŋaa bayuoro.","N'ihe fọdụrụ n'ụmụafọ a jụrụ, ụdị ụmụ nwanyị a bụ ndị a na-akpọ ""mgbada balụ n'elu,"" a makwaara ha dịka ""Johnson si kee kworo."" Ụfọdụ na-akpọ ha ""ụmụ amakalacha asa na-abayụọrọ.""",0.9722,0.6822
+851,"Nɩaa yie sʋsʋʋ nɛ, aŋ ka ba bɩra lʋlʋl dɔnsʋŋ,",Ndeye Sona,1.0,0.8286
+852,"Tasɩŋ dɔnsʋŋ ma nɛ: Mayɔŋ, Kamɛl, Zɩf, Jʋta,","tussen de zonen Mayon, Kamel, Zef,",1.0,0.625
+853,"Ŋɩɩ nɛ Jeturo arɩ Mosis haala arɩ ʋ biiriŋ kɔ Mosis teeŋ tintee-hɩlɩɩ-la lɛ ʋ fa sɩ hɔnɔ, a kpagɛ peel-la ba sɩɩ yɩrɛ Wɩa peeliŋ.","N'inye ya ntụ, a rụọ m ọfịs hala, a rụọ ụlọ birin kọ, ọfịs chentinte, ha nyere m ya. Ọ fasa họnụ, akwa peila ba sị yere wụrụ peiling.",1.0769,0.6061
+854,"Dɩa tɩntɩnna sɩ kɛŋ wʋjɩmɩŋ jaŋ wuo kɛŋ doluŋ, a kɩɩ ʋ nɩhɩaŋ bie sɩɩ hɛ hɩɩsɩŋ dɩa lɛ.",我今天要去上外語門，下午有空讀書。,1.0,1.0
+855,Ba fa kɛsɛ Juda doho nɩaa-na kaa mʋ Babɩlɔŋ nɛ a tɩŋ ba sɩ bɩ wʋtɩtɩɩ kɛnɛ Wɩa teeŋ.,Biko gwa m ihe mere na kam banyere atumatu Bible nke a.,1.0,0.7344
+856,"Ŋɩɩ nɛ La TƖƖNA pɩɛsʋ, “Ŋ kɛŋ wombiiŋ ŋ sɩ jaŋ na baanɩŋ?”","Nke m wee bịa, m si ya nna baa n'ime.",1.0,0.7381
+857,Má kɛŋ ma tʋɔŋ arɩ ma wɩɩ-wɩɩkala a cho ma TƖƖNA Wɩa.,Maka mụ atụghị anya na m ga-eweta achịcha m taa,1.0,0.7
+858,a bɩra wuo chɛ sɩnɩŋ nyʋa?”,아버지가 쓰러지셨어요.,1.0,1.0
+859,"Mɩ naambiiriŋ, mɩ nɩa dɩ maa yuo dɔŋɔ nɛ. La naambie ba sɩɩ yɩrɛ Kuluuwi, ʋ dɩa nɩaa nɛ bʋla pɩmɛ.","to, o billa ngati na keke nke ya lụ, ọ ma masi ti ye ye na wụya",1.0,0.8108
+860,"Dɩ losuŋ nɛ jʋa, ʋ jaŋ laaŋ ta dɩ ŋ sɩ́ sʋʋ.",Dillunne jwa o janla ta da'insa,0.9167,0.5333
+861,"Hemaŋ nɛ fa ŋaa kuoro sɩɩ-naara. Wɩa pʋ hambolibiisiŋ fii arɩ banɛsɛ, toloo ma batori arɩ Wɩa fa sɩ bʋl ŋɩɩ a leŋ ʋ yɩrɩŋ yɩrɛ.",hemane fanga kuru senara wiafu hamburi bisimfi ari banasi tuluma buturi ari wiafase bulenge eleng oyerenyira,1.0,0.4286
+862,"Wɩa sɩ ŋaa baala, ʋ daga arɩ baala arɩ nyu-pʋŋ-duduosuŋ kɛŋ hɩɩsɩŋ nɛ,",Biafra abali odaga aro abali ari nịpu nduduo sun ka eji,1.0,0.5185
+863,"Kuoro sɩ na ʋ habidiire Ɛsɩta, dɩ ʋ kʋ jʋʋ chɩŋ ʋ sɩpaaŋ, ʋ tʋɔŋ tɔrɛ, ʋ kɛŋ ʋ kuoru dantɩga ba sɩ kɛŋ sɛlɩmɛ ŋaa a liesi Ɛsɩta. Ɛsɩta mʋ yiu a digi dantɩga-la niiŋ lɛ.","Kọọsị na ọhabidi Esther. Dịka njucha usụpa, otu antọrị, okenye ukwu ọrụ dịka abụsị nke Solomon a, allie si Esther. Esther mu yụ adịka dịka lannị.",0.9459,0.6429
+864,"Efirem nanʋala dɔŋɔ yɩrɩŋ nɛ Refa. Refa doho nɩaa nɛ: Resef, Tɛla, Tahaŋ,","Zefra na nwa ọlọdọọ yiri nne, Zefa, Zefa dohu na ya na Zesif, Chala, Tahan",1.1538,0.4643
+865,"Rɩbaɩ nanʋala Ɩtaɩ sɩ lɩɩ Gɩbɩa sɩ hɛ Bɛnjamɩŋ tinteeŋ lɛ, Bɛnaaya, a ŋaa Pɩratɔŋ tɩɩna,","Reba, na nwa ya nwoke bụ Philip Gebia, na Benjamin Tinti na Benaya aṅa pịrị ọtọ n'ụlọ",1.0625,0.6286
+866,Ma nagɛ tie-biee Wɩa sɩ kaa sɩsaa ʋ dɩa nɛ. Wɩa nanzɔɔba arɩ Wɩa wʋlaabʋllaa nɛ ŋaa dɩa-la gentine. Kirisito Yesu tɩtɩa nɛ ŋaa tie-bii-duo-la ba sɩ kaa bil dɩa-la gentine.,Mmadu na-achọghị ibe ya bụ ya si ka ọ sị saa ụdị ya na. Ya na Zoba arụọla abụọ laa n'ụlọ dị elegantị. Kraist Jesu si ya na ya bịa duola basị ka ha bil dị elegantị.,1.1613,0.553
+867,"Mɩ sɩɩ bʋl Kirisito wʋzɔmɔ-la aa pɩ nɩaa ŋɩɩ, ŋɩɩ nɛ tɩɩ ba kɛmmɛ kaa hɛ chɔrʋmɔɔ. Má sʋl Wɩa pɩmɛ dɩ mɩ wuo bʋl Wɩa wɩaa arɩ nyuduoŋ, arɩ ŋɩɩ sɩ maga dɩ mɩ bʋl ŋɩɩ.",Masi bule krisimesi ọwụsa mara apeni anyi. Ngenechi wa kam ka ha chọrọ mọ. Masọlụ bia pemi. Dimọgwu bụlụ bia bia arijụ duọm. Ara ngi samaka demọ bụlụ gi.,1.0,0.6048
+868,"Dɩ ʋ nɛ fá a mʋ tasɩŋ deemba kʋŋ, ʋ maga dɩ ʋ chɩŋ taŋ-la boi-baalɩŋ lɛ nɛ, taŋ-la nɩhɩasɩŋ sɩpaaŋ aŋ bʋl wɩɩ-la kala sɩ ŋaa a pɩba. Ba nɛ jaŋ laaʋ, a pʋ leriŋ dɩ ʋ hɛ ba tʋɔŋ.",,,
+869,"Kʋbɛɛ nɛ ha wuo joŋ tinteeŋ hagɩla kala hɛ sime lɛ a magɩsɛ,",Kwe nu afo a ubochi nke mbu na afo a ka ana-akpo ya si melee amaghi,1.2308,0.7021
+870,"Wɩaa yie wuo jʋʋ tʋɔpʋl tɩɩna a yi naansɩɩŋ bʋlɩpɛ nɛ,",Yɛayi w'adwuma twa pɔtee na ayi na asɛnbol pɛn,1.0,0.5349
+871,"Ŋɩɩ nɛ La TƖƖNA bʋla pɩ Mosis, “Kɛŋ ŋ nɩsɩŋ je wɩa-nyuŋ, birimiŋ jaŋ kʋ tɔ Ijipiti tinteeŋ kala, dɩ leriŋ biri churu.”","Nye na Chineke bụ Moses ka ndị Israel jewe nye unu. Bịrị mụ na gị kọọ, i ji ututu nye m kara, di lerim biri.",1.087,0.618
+872,"“Bʋla pɩ Iziral tɩŋŋaa dɩ ba lɩɩsɛ tasɩ-la ba sɩ jaŋ fá mʋ a yuyuori arɩ mɩ sɩ dagɛ Mosis ŋɩɩ,",Are you worried?,1.0,0.9014
+873,bɛɛ wɩaa sʋʋŋ ŋaa nuhuobiiŋ kala kʋŋ nɛ.,"Baya baya, so nan ho biyan kalakol",1.0,0.5938
+874,"Ʋ tʋɔsɛ ʋ janɩŋ toruko zɔŋŋɔɔ zɔɔ-balɩdʋ a pɛ janɩŋ torukoba dɔnsʋŋ sɩ hɛ Ijipiti tinteeŋ lɛ, a leŋ ʋ laalɩyuori-hɩasɩŋ kʋbala kala hɛ ʋ janɩŋ torukoba-la kʋŋkala tʋɔŋ.",Tua se ujenin turuko zango zwaldo ape ujenin turuko ba donsin fehe ijiwtin tin le allen ulali yuro hiasin ko bala kale he ujenin turuko bala kon kala tuo,1.0,0.4519
+875,"A tɩŋ Wɩa sɩ pɛ Levi doho nɩaa lɛ ba wuo chʋŋ daga-la, ba kpʋ nɛ-belliŋ balɩpɛ arɩ pie-belliŋ ma balɩpɛ a ŋaa Wɩɩsʋlʋŋ.","na-eme ya ka ebe ihe di ha n'ala, ha wee chuo dakala banye n'ebe nri balife, a rifee ebe nri mma balife, aṅaa wee sụlọ",1.0417,0.5604
+876,"La Nyɩmma Wɩa arɩ La Tɩɩna Yesu Kirisito jaŋ leŋ dɩ la naambiiri-la kala sɩ laa Yesu wɩaa dii hɔŋ arɩ fɩɛlɩŋ, a kɛŋ wʋtɩtɩɩ, a cho dɔŋɔ.","La nyɛmɛ via, a rɛ la Chine Yezu Kristo jɛnlen, de la Namibie la Kalasala Yezu via di hon a rɛ fialan. A kɛ ngotote, a cɛ don",0.8571,0.4476
+877,ba bɩ jaŋ wuo saa lusuŋ-choluŋ a to nɩmɛ jʋʋ.,Babu jiyan gwasa alusun chollun a tonema,0.9,0.4412
+878,ŋɩɩ tɩtɩa nɛ yuo-hɛɛrɛ ma yie leŋ yuosuŋ pupusi.,Nke a putara na ihu here ma ihu n'anya bu isi nzube,1.2222,0.8158
+879,"Bɛnjamɩŋ bii-hɩaŋ nɛ Bɛla, Asɩbɛl ŋaa ʋ bii-lɩa, Ahara ŋaa ʋ bii-tori,",Benjamín Bihari ne Bela esebel nga ubilia ahara nga ubituri,0.9167,0.4151
+880,"Mɩ sɩ kɛŋ mɩ nɩaa Iziral tɩŋŋaa vɩvɛŋ, mɩ ha bɩ ba sɩpaalaara-la mɩ sɩ lɩɩsa dɩ ba bibemba kʋŋ pɩɛsa: Bɛɛ nɛ tɩɩ ŋ bɩ kuolu daasɩŋ kaa saa dɩa pɩmɛ?",,,
+881,"Dɩ nuhuobiine yaraa kala nɛ fa ŋaa sɩaa, ɛɛ nɛ nuhuobiine fa jaŋ ŋaa a nɩnɩɩ wɩaa? Dɩ nuhuobiine yaraa kala ma nɛ fa ŋaa dɩgɩlaa, ɛɛ nɛ ʋ fa jaŋ ŋaa a nɩnɩɩ sʋɔra?",Ndi na-enwe obi na-anụ olu ya. Ndi na-enwe obi na-anụ olu ya. Ndi na-enwe obi na-anụ olu ya.,1.0,0.76
+882,"Bɛnjamɩŋ fa kɛŋ hambolibiisiŋ batori nɛ: Bɛla, Bɛka arɩ Jɛdayɛl.","Benjamin Franklin and William F. Buckley, Jr. Bella, Becca, Ari, Jadayah",1.1,0.6538
+883,"Nɩalɩŋ sɩ laa Yesu wɩaa dii aa hilimi nɛ ŋaa Yesu yaraa. Nɩalɩŋ nɛ leŋe Kirisito ŋaa nɩ-piliŋ, ʋ ma leŋ kʋŋkala ŋaa kʋpiliŋ wɩɩkala lɛ.",,,
+884,Jonataŋ hambolibiisiŋ nɛ: Pɛlɛf arɩ Zaza. Nɩaa deemba kala fa ŋaa Jɛramɛɛl doho nɩaa nɛ.,Jana m na-achọghị ịbụrụ gị sị na Khalaf arịghị njọ. Ya mere m kpọrọ Khalaf na Jaramel dị na,1.2667,0.7324
+885,"Nɩaa yie tɔnsɛ a chɩchɛ dɩ ba na wɩɩ-la ba sɩ jaŋ ŋaa nɛ,",ya ye tonse achiche di banna we laba si gyanu,1.0,0.4524
+886,ama nɩbɔŋŋɔɔ-na wombiiŋ jaŋ cheiba.,Amaa na baa mụ onwe m bịa njem ebe a.,2.0,0.6207
+887,"Dɔnsʋŋ ma hɛ nɩmɛ a bɩɩnɛ dɩ ba tʋɔŋ pʋlla nɛ,","Dan sunma hanna me, abin ne, da ba tuwon polla",0.9091,0.5143
+888,"Ʋ sɩ bɩ wɩɩpɔsʋŋ na ma kala, a bɩ wɩɩkala jɩŋ, ʋ nɛ ha na wiese a kɩɩ nɩɩ-la,","Oso bu uzo m na-amakala, a bu m wikala ji. Unu ha na-eje a ka i",0.8421,0.5455
+889,"Jobab ma sɩ sʋba, Husam sɩ lɩɩ Tɛma tɩŋŋaa tinteeŋ nɛ dii kuoruŋ ʋ nyuŋ lɛ.","Gaba masu saurare, ku san cewa tema ta na tin tin ne di kurum onyinle.",1.0,0.5517
+890,Bʋa-la lɛ ba sɩ jaŋ ŋmoo lo arɩ bʋa-la lɛ ba sɩ jaŋ saa.,Bualala ebasijan chibe. Bualala ebasijan ngolo. Aribualala ebasijan sa.,1.0,0.85
+891,"Wɩɩsʋllɩ sɩpaalaaraa ma tɩtɩa maga dɩ ba pɩɩsɛ ba disiniŋ ta nɛ aŋ-na kɔ mɩ sɩpaaŋ, dɩ ŋɩɩ dee mɩ-na ma TƖƖNA jaŋ dɔgɩsɛba.”","Wee sɔlɛ sɔ paa laara ma ti tiamaka, dɛba pii sɔ disinintɛnɛ, a nɔkɔmɛ sɔ paa. Dini di, mɛna mati na ja ndɔkɔ sɔ",1.0,0.3958
+892,"Ba sɩ lɔgɛ tɩarɩŋ a mɛ Adam ŋɩɩ, ŋɩɩ tɩtɩa nɛ nɩalɩŋ kala ma sɩ lɩɩ Adam lɛ ŋaa tɩarɩŋ. Kirisito sɩ lɩɩ Wɩa-jaŋ kʋ tuu ŋɩɩ, ŋɩɩ tɩtɩa nɛ nɩalɩŋ ma sɩ lɩɩ ʋ lɛ ma nagɛ ʋ-na nɩɩ-la sɩ lɩɩ Wɩa-jaŋ.","Bassel la ka tiyaren ama Adam nge, nge tiyaren nyalen mas kalasili Adam la ka tiyaren. Kristo sili weya ja kutu nge, nge tiyaren nyalen masili ole mana ke ona nila sili weya ja.",0.9535,0.5625
+893,"Ŋɩɩ nɛ La TƖƖNA Wɩa bʋla pɩla arɩ la to wɩaa deemba kala aa zilu. Dɩ la nɩɩ toba bʋa na-kala, ʋ jaŋ beŋ la nyuŋ woruŋ a leŋ dɩ la wɩaa kala vɩvɛŋ ba bʋa lɛ.","Ndi na-achị na-ewepụta akụkọ ụgha dị iche iche maka azụrụ. Ndị na-eto baa bụ anakala, o jee mbe nlenyu ngwọrọ, ele ndị na-ewepụta akala bekee bụ",1.0,0.6638
+894,"ama nɩɩ-la sɩ bɩ wɩaa jɩŋ woruŋ-na yie vɛnɛ vɛnɛ mʋ jʋʋ-ʋ nɛ, a na hɛɛŋ.","Amanịla ka m wee ajụ gị gburugburu na ihe a niile, mụ jụọ unu, anaghị m",1.0,0.7115
+895,a kɛŋ moribie-la ʋ sɩ tɩma na a chɔnsɛ girep tɩɩsɩŋ baga.,"Akyɛm Mmorobɛla, osetteeman na achon se grape tea sombo",0.9167,0.5455
+896,Ʋ saa maga dɩ tɩntɩnnʋ kala kɛŋ wʋtɩtɩɩ a tɩtɩŋ ʋ tɩntɩŋŋaa.,Makarantar tun tun na kala ta unguwa ta ce a caccan otantan,1.0,0.7083
+897,"Wɩa lɩɩsɛ nɩalɩŋ dʋnɩa nɩaa sɩ bee gʋgʋʋnɛ arɩ nɩalɩŋ sɩ bɩ lee kɛnɛ dʋnɩa lɛ, dɩ ʋ wuo chei nɩalɩŋ dʋnɩa nɩaa sɩ bɩɩna arɩ ba ŋaa nɩa.",malesị mụ na chi m wee lelee ụbọ nna m ochie na-ahụ b'ị na-asị na ọ ya rị aka chi,1.0,0.7524
+898,"Peelee sɩ yʋga tintee-la lɛ tasɩŋ ma nɛ ŋaa: Samɩɩ, Jatɛ, Soko,",Feleshi yugak tintin lale. Tasin manna Sami Jata Soko,0.9167,0.383
+899,"Mɩ gbieni La TƖƖNA sɩpaaŋ wɩɩhɛyɛ arɩ tɩtaŋɩŋ kala tapʋlaa mahɩŋ balɩa nɛ, bɛɛ wɩaa La TƖƖNA fa sɩ ʋʋ chɛ dɩ ʋ cheima nɛ.","N'ebe a na Latin America kwa ngwa, e nwere ọtụtụ narị puku mmadụ bi ebe a. Latin America fọrọ nke nta ka ọ bụrụ chọọchị mana",1.04,0.7789
+900,"Ŋɩɩ nɛ La TƖƖNA bɩra bʋla pɩmɛ, “Mɩ jɩŋ nɩaa deemba nɛ, ba ŋaa nyu-duo tɩmma nɛ woruŋ.","Nne na nna m chinyere m ndụ, mụ na nwunye m",1.0,0.7969
+901,"Mɩ naambiiriŋ, mɩɩ chɛ dɩ ma liise mʋ yi wɩɩ-la sɩ ŋaa la naabalɩmaba fa sɩɩ to Mosis harɩŋ lɛ. Wɩa leŋe duoŋ-bɩlɩmbaanɩŋ nɛ kʋ kiese tɔ ba kala lɛ, a beŋ ba nyuŋ woruŋ ba kala chol mʋgʋ-bal-la ba sɩɩ yɩrɛ Mʋgʋ-fɩaŋ.","Mụ na ndị ịrị mma na-esemokwu ga-eweta nsogbu na-abaghị uru ma ọ bụrụ na anyị ekweghị ka udo kachaa. A bịa na mberede, nsogbu na-ebilite nke na-esiri ike idozi.",0.9767,0.7879
+902,"Hɛbʋrɔŋ ma hambolibiisiŋ nɛ: Jɛrɩa ʋ bii-hɩaŋ, Amarɩa ʋ bii-lɩa, Jahazɩɛl ʋ bii-tori arɩ Jekamɩam ʋ bii-nɛsɛ.","Hebron, Merari, Jareah, Obiah, Jerimoth, Eliah, Zichri, Abihail.",1.0,0.7412
+903,"Ŋɩɩ nɛ Iziral tɩŋŋaa kala sii Elim lɛ a mʋ tintee-hɩlɩɩ kʋbala baa yɩrɛ Sɩŋ, a hɛ Elim arɩ Sɩnaɩ pɛgɛ. Ba sɩ lɩɩ Ijipiti tinteeŋ lɛ, ʋ chɛŋ-lɩa tapʋlaa fii arɩ banɔŋ harɩŋ nɛ ŋɩɩ.","Nne ya bụ Chinyere Ilomuanya, onye nkụzi ama ama na Bayelsa. Ee, Ilom bụ onye isi na-elekọta ụlọ ọgwụ Federal Medical Centre, Owerri, Imo Steeti.",1.0,0.8333
+904,"Nɩɩ-la sɩ nyagɛ summoo bil ka dɩ ʋ dʋa pʋŋ,",Nécessaire sur meuble. Cadeau doit pont.,1.0,0.7812
+905,"Ŋɩɩ nɛ La TƖƖNA bʋla pɩ Mosis, “Kɛŋ ŋ dantɩga-la sɩ hɛ ŋ nɩsɩŋ lɛ tɩɛnɛ a zaarɛ mʋga-la nyuŋ, dɩ lɩɩŋ mɩɩra kʋ tɔ Ijipiti tɩŋŋaa arɩ ba janɩŋ torukoba arɩ ba ja-jɩllaa lɛ.”","Ng'e latienna bura Moses, ka ndanteka lase en ne latyenne, azarum kolonyu, dole emmi rakuto, ijipt nga ariba janin torikoba ariba jajin lale.",1.0,0.4769
+906,"Chɛŋ-lɩa sɩpaalaara nɛ Dodai, ʋ ŋaa Aho tɩɩna nɛ. Nɩɩ-la sɩɩ tɩgɛ ʋ lɛ nɛ ŋaa Mɩkɩlɔf.",ਚਰਨ ਲਿਆ ਸੀ ਪਹਿਲਾ ਰਾਣੇ ਡੂਡਾਈ ਉਹਦਾ ਆਹੂ ਥੀਣਾ ਨੇ ਨੀਲਾ ਸੀ ਠਕੋ ਓਲੇ ਨੇ ਨਾ ਮੈਕਲੋਫ,1.0,1.0
+907,"Dɩ nɩbɔmʋŋ nɛ jaŋ ŋaa wʋbɔŋŋɔɔ zɔlɔ aŋ ha hɛ ʋ mɩɩsɩŋ lɛ a dieni, mɩ jɩma nɩalɩŋ sɩɩ fá Wɩa a zizilu, ba-na wɩaa jaŋ vɛŋ woruŋ pɩba.","Ndi bamu m na-eje na ụbọchị ụka, ahụghị m isi nlele adịghị. M ejima na-ele nsị afa ya a zịzụlụ, ba na-awa aja mfe m were mpe",1.0,0.65
+908,dɩ nɩbɔŋŋɔɔ dɩɩsɩŋ ma lɛl.”,Jana Banga Desh Malel,1.0,0.619
+909,a faa saŋgɛɛŋ sɩ hɛ lɩɩŋ niiŋ vʋchɔɔŋ leriŋ.,阿爸，三根绳子，连拧，围着我拧。,1.0,1.0
+910,"Zɛla, Haɩlɛf, arɩ Jebus tɩŋŋaa taŋ-la (ʋ nɛ ha Jerusalɛm), Gɩbɩa arɩ Kɩrɩaf. Tabalaa ŋaa fii arɩ banɛsɛ nɛ arɩ ba tabiisiŋ.","Zella, Haile Selassie, Arijebu Tenganla, unuha Jerusalem, Gibeah, Arika Kiria, Tabala, Nafi, Aribana si ne Aribata Bisi.",1.0,0.4681
+911,"Wɩɩ-la sɩ ŋaa sɩɩfɩaŋ nɛ, Wɩa wʋzɔmɔ-la la sɩɩ bʋl. Wʋzɔmɔ-la ba sɩɩ bʋl, ba nɛ mɩ ma bʋbʋl, ba nɛ ma laa dii.",,,
+912,"Ʋ yie bɩ bɩɩnɛ arɩ nʋʋ jaŋ wuo nʋɔsɛba yɛrɛ,",Ihe a wee bụrụ ihe a na-anụ ya n'ụwa sị na-arị.,1.1,0.8529
+913,"Bʋa kʋbala lɛ kuoro Devit arɩ Iziral tɩŋŋaa kala sii mʋ dɩ ba yuo Jerusalɛm nɩaa, bʋa-la lɛ ba faa yɩrʋ Jebus nɛ. Ŋɩɩ nɛ Jebus tɩmma-la sɩ hɔŋ nɩmɛ","Bụọkọba l'alẹ, k'ore David arẹ izaa t'anya ka l'esimọ d'ibẹ yuo Jerusalam n'ya, bụọ l'alẹ, bafaa iyaro Jebus nẹ, ngene Jebus t'ọmbala, si họn n'",0.9,0.3772
+914,"“Wʋtɩtɩɩ, ma dɩɩ-balaa deemba jaŋ pɩŋ hoi,",Madu ya balaa dee mba jaa mpu ho,1.1429,0.4688
+915,"Naabʋɔsʋŋ deemba lɛ losuŋ arɩ lɩɩnyʋasʋŋ kɛnla nɛ, la laalɛ gɛrɩ-kɔsʋmɔɔ, ba ŋmuŋmoola, la gɔllɔ bɩbaarɛ.","Na nwosine mbele, lusim ariri nwosine kalla na, lala gal kosmo, bemumula, logon la bebari.",0.9375,0.5647
+916,"Ŋɩɩ nɛ Jʋab arɩ ʋ laalɩyuoroo mʋ yuo Siiria tɩmma-la, ba fá.",A yé jo arɛ o lalé yoro mu yo Siriya tɛmɛla,1.0,0.5435
+917,bɛɛ wɩaa ba kɛnʋ vaara laa nɛ ma niiŋ lɛ.,"Bɛɛ we are, ba kanu fara la nɛ ma ni",0.7,0.3871
+918,ʋ nagɛ ba sɩ kɛŋ sɛlɩmɛ libi dɩgɩlɩŋ-kpɛnsɩŋ arɩ kpɩɛraa dɔnsʋŋ nɛ.,On a quand même annulé le remboursement.,1.0,0.8519
+919,"Ŋ jaŋ wuo kɛŋ habalɩŋ arɩ ŋ nɩsɩŋ,","Yaanwokan, habalan, ara nne",1.0,0.5385
+920,"Ŋɩɩ tɩtɩa nɛ ʋ nagɛ dɩ nɩaa nɛ sii sʋʋŋ lɛ. Yara-la ba sɩ joŋo hugi jaŋ pʋa, yara-la ʋ sɩ jaŋ kaa sii sʋʋŋ lɛ bɩ jaŋ kɔ dɩ ʋ pʋa.",Nyetetyana onake deniyani si sole yala laba si jonho kuja mpua yala osi janka si sole laba ja kodo,1.0,0.4946
+921,Ama mɩ-na Nɩɩ-la sɩ ŋaaʋ ha jaŋ wuo yuo diiu.,A ma mana na ị laa sị ngaọ ha jee nwaa ya odi,1.2,0.4848
+922,"Nɩɩ-la kala sɩ faasa tɩŋ ʋ baga lɛ jaŋ na kʋdiilee yʋgɛ,","Nila kansa fasatan, obagale janna kudile",1.0,0.4186
+923,"Kuoro pɩɛsɛba, “Mɩ tɩŋ mɩ tɩntɩnnaa nɛ dɩ ba mʋ kɛŋ mɩ habidiire Vasiti kɔ, ba mʋ ʋ vɩa. La naabarɩŋ lɛ bɛɛ nɛ maga dɩ la ŋaaʋ?”",Kụọla pịa saba. Mụ na ndị ọzọ na-arụkọ ọrụ na Mahadum nke Benin na-arịọ gị ka ị bịa na mmemme anyị na-eme n'oge na-adịghị anya.,1.0,0.8211
+924,"Hɛbʋrɔŋ ha ŋaa Jefuni nanʋala Kalɩb sɩ ŋaa Keni tɩɩna-la kʋŋ nɛ, arɩ jɩnɩŋ kala, bɛɛ wɩaa ʋ to La TƖƖNA Iziral tɩŋŋaa Wɩa arɩ tʋɔŋ kala nɛ.","Hebrew ha nga Jafeni na Nwala Kaleb. Siga Keni ti nala konne a rejini kala. Be wia, otola ti Israel ti nga wia a re tuon kala na.",0.8571,0.4074
+925,Mɩ jaŋ yɩrɛ nʋʋ dɩ ʋ lɩɩ wɩɩpɔsʋŋ dɩɩrɩŋ dɩ-bolii a kɔ.,De jager en de oude leeuw passeerden de politie,1.0,0.7619
+926,"La TƖƖNA Wɩa, la kɛŋ dʋa deeŋ kala kɔ dɩ la saa ŋ dɩɩ-balɩŋ nɛ a zil ŋ yɩrɩ-la sɩ bɩ disiniŋ kɛnɛ, ama kɩalɩŋ kala lɩɩ ŋ teeŋ nɛ, ŋ nɛ tɩɩ ba kala.",laa thi na bia la kan duu de kala ko de la sa ndi balin ne a sili in yiri la siweji si nin kene amakialen kala le in tin ne nti ba kala,0.8286,0.4393
+927,Ama nɩɩ-la sɩɩ kuusi wɩalɩŋ kɛŋ nandɔŋ-fɩɛmaa pʋpɔrɛ,"Ama ne lafiya ƙusai, walanƙan na ɗon fiye ma",1.0,0.6512
+928,Ma dɔnsʋŋ bɩrɩmɛ deŋgiŋ tɩmma nɛ a bɩɩnɛ arɩ mɩ bɩ jaŋ kʋ nama.,"Madu asaa bu ndi dika iri na abuo, ha biara mmaji akwuna",1.0,0.7143
+929,"Bɛrɩa ma doho nɩaa nɛ: Ahio, Sasak, Jɛrɛmɔf,","Beria, Madhuniane, Ahio, Sasak, Jarmo",0.75,0.3333
+930,"Ʋ jaŋ pɛ ma lɛ a kɩɩ tintee dɔŋ kala. Ma tʋɔŋ, bapɩrɩ koo hapɩrɩ bɩ jaŋ hɛ nɩmɛ. Ma pʋsʋŋ ma kala jaŋ lʋlʋl.","O jụrụ m ajụjụ ma ọ bụrụ na m ga-alụ ya, m sị ya na m ga-echebara ya echiche.",0.96,0.825
+931,"Ŋɩɩ nɛ Ijipiti tinteeŋ kuoro bʋla pɩ Hiburu tɩŋŋaa hachagɩraa deemba balɩa: Sɩfɩra arɩ Pʋa,","Nne ji, sị m tee nku robota ị bụrụ tanga ha chọkara dịịrị m babalụ ya. Safira, arịpụọ",1.2,0.5467
+932,"Hɔbɔ-la faasa yʋgɛ a kʋ tɔ Ijipiti tinteeŋ lee-kala. Hɔbɔ-la doho ha bɩ Ijipiti tinteeŋ ŋɩɩ tɔ aŋ ka, ba maachie ma saa bɩra bɩ jaŋ kɔ dɩ ba tɔ Ijipiti tinteeŋ ŋɩɩ.","Ha'a lafazi a ƙauye, a kwaso iji tin tin le kala. Ha'a la doho ha'a iji tin tin ŋe to'a nka. Bama ciye masa, bara ba jaŋko'o ba to'a iji tin tin ŋe.",0.9697,0.4603
+933,"Mɩ jaŋ leŋ dɩ ma baalaa dʋndʋŋa nɛ mʋ a zil ma Wɩa arɩ ma sɩɩ chɛ ŋɩɩ.” Ʋ sɩ bʋl ŋɩɩ dɛrɛ, ʋ kiri Mosis arɩ Arɔŋ ʋ sɩpaaŋ.","mgbanyeghị na mgbasa ozi dị iche iche na-esilị m ike, a na m asi Chineke ọsọ bụrụkwa ihe dịrị ukiri mosis arị arọ ọsọ pụta",0.9667,0.6966
+934,"Fii arɩ balɩamɩŋ nɛ ŋaa Hasabɩa arɩ ʋ hambolibiisiŋ arɩ ʋ naambiiriŋ, ba ma fii arɩ balɩa.","Si aribali amana nga hasabiya, ari ohanboli bisin, ari unanbiren, baba nga si aribali.",1.0,0.4306
+935,koo ma bɩ leŋe mɩ vɔgɛ ma Wɩɩsʋlʋŋ kɩaa nʋʋra lɛ.,ko ma billenge,0.9091,0.7895
+936,"a saa dɩɩ-leŋiŋ ʋ sɩ jaŋ chɩŋ ʋ nyuŋ aŋ bibeŋ baga-la,",,,
+937,Mɩ jaŋ leŋ dɩ lere-la kala sɩ ŋaa nyʋra nyʋra ŋaa mʋla mʋla.,"M'a jwenn dil la la, se m'a nyora nyora. M'a moula moula.",1.0,0.5
+938,"A nagɛ gbɛrɩgɛ naasɩŋ bɩra sɩ́ bɩ tɩntɩmɩɩ kɛnɛ ŋɩɩ,","Anak akbar ge, nasam beras be, tentume kanang",1.0,0.5122
+939,"Dɩ mɩ nɛ paala yɩrʋ dɩ la mʋ sarɩya dɩ-diiliŋ, dɩ ʋ sɛɩ ma,",de m'n palaver yero de la mosara de dealing de wose,0.9286,0.5814
+940,Nuhuobiiŋ kala ka chɛ dɩ nɩaa kɛŋ chono-la sɩ bɩ dɛrɛ,"Nuwuo bi nkala ka kye, deni aken chona la sebede",1.0,0.4048
+941,"Tuuri magɩlɩŋ golli peel-la aŋ bʋla pɩ nɩalɩŋ, dɩ ba pɔ ba sɩ́ magɩl-la kielu a kʋ jɩl peel-la nyuŋ koo ba paala sɩ́ ʋ bʋbʋɔŋ ma kʋ yi. Dɩ nʋʋkala nɛ kʋ yi, ʋ maga dɩ ma kpʋʋ.","Tulu malin go'n lupeela, ambula piniyalun diwa pobase malin le kielu, aku jilipe lenyu ko, bafa alaso ubu buo maku yi, di no kalen kuyi, umaka diwa ku",0.9487,0.4219
+942,bɛɛ kʋŋ nɛ ʋ ŋaa ŋ faasa bɩbɩɩnɛ ʋ wɩaa?,"Bɛkɔ na onua, mfasabe bɛn na owia",1.0,0.5333
+943,"Lee na-kala ma sɩ jaŋ joŋ ma naaŋ nʋɔsɛ, mɩ jaŋ joŋo pɩma arɩ mɩ sɩ bʋl ŋɩɩ a pɩ Mosis.",Le na kala masi ja njo mana anuose. Mija njo ngopi ma ari masi bolu ngi apimoti.,1.0,0.375
+944,"Ʋ mɩɩsɩŋ kala lɛ ʋ yie ŋaa wʋzɔŋŋɔɔ nɛ ʋ bala lɛ,","Onye m son kalala, onye m ga-awụzịrị ọnụ na ụbọla",1.0,0.6757
+945,"Mɩ kɛmma lɩɩ dʋnɩa loŋgoruŋ dɩ-bolii nɛ a bʋla pɩma,",Maka malụ na ụwa niile gburugburu dịịrị anyị abụla,1.0,0.7561
+946,"má ŋmoo niiŋ, ma nɩalɩŋ sɩɩ tɩŋ Wɩɩsʋlʋŋ koru-la lɛ.","Mụ onwe mụ, mụ na ya lụrụ nsogbu adịghị.",1.0,0.85
+947,"Mosis arɩ Arɔŋ ŋaa wʋmagɩla-la kala nɛ Ijipiti tinteeŋ kuoro sɩpaaŋ, ama La TƖƖNA leŋe Ijipiti tinteeŋ kuoro tʋɔŋ pɩrɛ nɛ, ʋ bɩ leŋe Iziral tɩŋŋaa lɩɩ ʋ tinteeŋ lɛ.","Moses arara aro na agwa mmadu ka ha lee Egypt nti nke kwuru isi paa, amalata ihe niile Egypt nti kwuru tuo mpiri na obilleghi Izraeli lee otu nti nle.",1.0,0.6183
+948,"Ɩfɩta, Asɩna, Nɛzɩb,","Ifeanyi, Azubike, Nnezi",1.0,1.0667
+949,"Dɩ Wɩa nɛ bɩ jaŋ chɩsɛ nɩaa sʋʋŋ lɛ, ŋɩɩ-na ʋ bɩ Kirisito ma chɩsa sʋʋŋ lɛ.","Ruwianë bë ciän kethënyasolë, nyenë ubi krisomachethasolë.",1.0,0.6429
+950,"La TƖƖNA nɛ, Nɩɩ-la harɩŋ la sɩ lɩa a ŋaa wʋbɔmʋŋ.","Laat je nou net niet langer lastig liggen. Aan het werk, bom.",1.0909,0.8919
+951,Wɩa tɩndaarɩ bɛɛ teeŋ nɛ ŋ jaŋ mʋ dɩ ʋ pɛ ŋ lɛ?,weyatun da rabete na njammu du pen,1.0,0.5588
+952,"Sɩmɛɩ hambolibiisiŋ dɔnsʋŋ ma nɛ: Jahaf, Ziza, Jeyus arɩ Bɛrɩa.","Jahaf, Reza, J.U., Are, Beria",0.9,0.72
+953,Ŋ ha tuu mʋgʋ-balɩŋ bʋbʋɔŋ a mʋ yi ʋ lɩɩ-bul sɩaa leriŋ?,"Na true o, make balance bumbua, e no easy, make e balance well well.",1.1667,0.9286
+954,"Jʋa, Jʋa ma nanʋala nɛ Ido, Ido ma nanʋala nɛ Zɛra. Zɛra ma nanʋala nɛ Jɛtɩraɩ.",Jatra Jatra manana nua lani Idu Idu manana nua la ne Jatra Jatra manana nua la ne Jatra,1.125,0.4833
+955,Ba-nɩhɩasɩŋ ma nyu-pʋmpʋllʋŋ nɛ ŋaa ba yɩrɩŋ kɩaa.,"Bia nu, ihe a semanyụ pọmpụọlụ nna, ngá ba nyere nke a?",1.375,0.55
+956,ama Wɩa niiŋ wɩaa-na jaŋ hɛ nɩmɛ a kaa mʋ wuu.”,Amaghi m ihe mere m ji wee na-eche na a ka m nwụọ.,1.0909,0.7941
+957,"Nɩalɩŋ tɩtɩa sɩ bʋl wɩalɩŋ pɩpɩŋ nagɛ ya-yʋalaa nɛ,",Nyalancha tiyasa boliviya lampa pang nariya yuwalane,1.0,0.6341
+958,"Sɩ́ pipesu dɩ ŋ sii kuoro sɩpaaŋ. Sɩ́ nɩalɩŋ sɩ bɩ ʋ harɩŋ chɩna lɛ pɛ, bɛɛ wɩaa ʋ jaŋ wuo ŋaa wɩɩ-la kala ʋ sɩ cho.","Si na ya na-esebụ ha arịnsị na lepe. Be nwia, oge nwụọ na-awụla kala osisi.",0.963,0.6786
+959,"Mɩka nanʋala nɛ Samɩɩ, ʋ ŋaa Ʋzɩɛl doho nʋʋ nɛ.",మేకై నాను వాల నే సమి ఒంగా ఉజియల్ దుహునోనే,1.0,1.0
+960,"Ŋɩɩ wɩaa mɩɩ sʋlma dɩ ma to mɩ naabʋɔsʋŋ, a ŋɩŋaa wɩalɩŋ mɩ sɩɩ ŋaa.",,,
+961,"Nʋʋkala dii ʋ tɩntɩŋŋaa leriŋ nɛ. Ma jɩma nɩɩ-la sɩɩ tɩŋ Wɩa dɩa lɛ ka dii Wɩa dɩa lɛ nɛ, nɩalɩŋ ma sɩ ŋaa Wɩɩsʋllɩ sɩpaalaara Wɩɩsʋllɩ koruŋ lɛ, ba ma yie laa ba toruŋ nɛ Wɩɩsʋlʋŋ kɩalɩŋ lɛ.","n'ụlọ akwụkwọ dị ụtụtụ na-adịghị mma, ma jee ma aranụ ya lasị tupu ya pụọ na-ara, wee sulu nkọrọ nle. Bịa mee ya laa bụ torọ na wee sulu kịalịlị.",0.9487,0.7027
+962,Zabad arɩ Sʋtɛla. Gaf taŋ nɩaa fa kpʋ Ɛza arɩ Ɛlɩad nɛ ba sɩ mʋa dɩ ba gaa ba pʋsʋŋ.,,,
+963,"Dɩ mɩ nɩɩ chʋɔlɛ Wɩa yikoro-la Wɩa Dɩŋ-zɔmʋŋ sɩ pɛ nɩaa lɛ ba bʋbʋl lɛ, mɩ dɩma nɛ yie chʋchʋɔlɛ, ama mɩ tʋɔbɩɩnaa lɛ mɩ bɩ wɩɩ-la mɩ sɩɩ bʋl bʋbʋɔŋ jɩŋ.",Jemeni chuala bia ya kụrụla. Bia denụ sọmụsụ pem na ya na Baba Bọlụ. Mejemenị ya echuchuala ama mụ tụọ be na ya mebe wila mụ sị Bọlụ bụbu anụ.,1.0,0.5776
+964,"Hɛbʋrɔŋ hambolibiisiŋ nɛ: Kora, Tapʋa, Rɛkɛm arɩ Sɛma.","हैलो, हम बोल रहे हैं, खुरा, थापवा, रेकम, अरे, श्यामा",1.25,1.0
+965,"Ama la bɩ naga nɩalɩŋ sɩɩ yuo nuhuobiinee. Laa yuo Sɩtaanɩ arɩ ʋ harɩ-tooroo nɛ, arɩ kʋŋkala sɩ kɛŋ doluŋ nɩalɩŋ sɩ hɛ birimiŋ tʋɔŋ teeŋ. Dʋnɩa deeŋ arɩ dol-bɔmɔ-la kala sɩ hɛ wɩa-nyuŋ, ba nɛ laa yuo.","Ama, na a na-alụ nsogbu ndị a. Na a na-alụso China agha ahia toro na a na-akwụsị ịkwụ ụgwọ mgbazinye. Ụwa niile na-akwụsị ịkwụ ụgwọ mgbazinye.",0.9737,0.7468
+966,ʋ tʋɔŋ bɩ nɩɩ-la sɩɩ gʋrɛ nɩaa kɩaa yallɩŋ lɛ nyuŋ ka tɔrɔ.,Otu a unu banere na shegoro nya ke a yelu unu ka toro,0.9231,0.6444
+967,"Ŋɩɩ nɛ ba joŋ Wɩa niiriŋ daga-la Abɩnadab dɩa lɛ, a joŋo daŋ nɛsɩŋ toruko falɩŋ lɛ. Uza arɩ Ahio nɛ fa kɛŋ toruko-la vɩvɛŋ.","Nye na-ege ntị, nye ndị nka la. Abụ m Nadab, tupu e jụọ m daa, m si na Turkey fallin la. Ụzọ arị ahịrị na-fa kee Turkey la vve vve.",1.2,0.6489
+968,"Jowɛl, Asɩɛl nanʋala Sɛraaya sɩ lʋl Josibia, ʋ ma nanʋala Jehu,",ya wel asyal nanwala sereya,1.0,0.7
+969,a pʋllɛ ŋɩɩ a mʋ yi bʋa-la lɛ leriŋ sɩ chaasa pʋlla dɛrɛ.,"A pụrụ ịla n'iyi gbuo ala lee, lee nsị chaa sa pụrụ ịla dere.",1.0,0.5581
+970,ama wʋbɔŋ ŋaarɩ bala yie chei wʋzɔŋŋɔɔ yʋgɛ nɛ.,Amaa ụbọchị ụka ọ bụla ị na-eche ụzọ gị ọ ga-adị.,1.2222,0.7368
+971,Nuhuobiine wʋjɩmɩŋ nɛ yie leŋ ʋ kɛŋ kenyiri.,Nu hoobina woyyamani yellen o kenkeni,1.0,0.5278
+972,a nagɛ tʋɔ-chei gɛrɩŋ ba sɩ yie laalɛ a yiyel yoho.”,አናከ ቱቺ የገረም በሲየ ላለ አየየሊሆ,1.0,1.0
+973,Bʋa-la lɛ nɩaa sɩ jaŋ tɔrɛ ba niiŋ arɩ bʋa-la lɛ ba sɩ jaŋ bʋl wɩaa.,wala la niye su jam tori bani a rabwala la niye su jam boliya,1.0,0.5
+974,"ama ba tʋɔŋ cheye nɛ, bɛɛ wɩaa ba yɩɛlaa kala ŋaa pɛɩ nɛ,","Ama batuwanci yana ba'a wuya, ba yara, kalanga,",0.8462,0.5349
+975,"Zanʋa, Ɛŋ-Ganɩm, Tapʋa, Ɛnam,","Nyanua, Engannim, Tapua, Enam",1.0,0.4286
+976,Kʋbɛɛ nyuŋ nɛ ŋ ŋɩŋaa goŋ arɩ babii-ballɩŋ ŋɩɩ?,"Kụbe anyịụnne, enweghị m ike ịga ozioma n'ebe Bible na-agwa m.",1.2222,1.0
+977,"Tintee wogusuŋ nɩaa kala kpaarɛ vesiŋ nɛ, ama La TƖƖNA nɛ ŋaa wɩa-nyuŋ.",今天我认识了几个新朋友。,1.0,1.0
+978,"Ʋ nɛ ŋaa mɩ nyɩmma Wɩa, mɩ jaŋ leŋ dɩ ʋ yɩrɩŋ yɩrɛ.","O n'anga m'nyemba via, m'jenle ndi oyere nyere.",1.0,0.5405
+979,"Sɩmɛɩ sɩ lɩɩ Rama nɛ faa beŋ girep tɩɩsɩŋ bagɩsɩŋ, ka Zabidi sɩ lɩɩ Sɩfam ma nɛ bibeŋ girep nɛnɛɛ sɩnɩŋ biliŋ wɩaa.","सेमाई, सेले रामा, नफाबेंग, गिरेबथि समबाकसन, का जेबेदि, सेले साफाम, मा निबिबेंग, गिरेब नने सनम बिलिनदिया",1.0,1.0
+980,"Dɩ nuhuobiine fa kɛŋ nandaa-bala, nɩɩ nɛ ʋ yara-la fa jaŋ hɛ?","Na nu obi na fa ka n'anda abala, na enu oyara fa jang",1.0,0.3696
+981,"La Tɩɩna wɩaa zɔmɔ, ʋ chonuŋ bɩ dɛrɛ,",Uchonim bedaro,1.0,0.75
+982,"Mɩ sʋllʋ a bʋl, “Mɩ Tɩɩna Wɩɩjarɩbakɔ, sɩ́ ŋ nɩaa ŋ tɩtɩa sɩ lɩɩsa chei. Ŋ nɛ laaba arɩ ŋ doluŋ Ijipiti tɩŋŋaa nɩsɩŋ lɛ a kɛmba kaa lɩɩ Ijipiti tinteeŋ lɛ.",Masu lura da al'amura na bayyana ra'ayoyinsu akan makomar al'ummar Masar.,1.0,0.7881
+983,"Chɛŋ-fii sɩpaalaara nɛ Maharaɩ a lɩɩ Netofa, ʋ fa ŋaa Zɛra nyɩŋ-nʋʋ nɛ.",Keenfi sefaaraana maharaay ale na tufa ofa nga zara nyenno,1.0,0.4727
+984,"Zɛra hambolibiisiŋ nɛ: Zimiri, Ɛtaŋ, Hemaŋ, Kalɩkɔl arɩ Daada. Ba ŋaa banɔŋ nɛ.","Zimri, Ethan, Heman, Calcol, and Darda, five in",1.0,0.6885
+985,Nɩalɩŋ sɩ bɩ Wɩa ka fá bɩ leŋe ba baanɩŋ fɩfɩɛlɛ.,Nyalasabau yakafa bilengwe babanefesyalila.,1.0,0.5526
+986,"ama nɩɩ-la sɩ bɩ wɩaa jɩŋ woruŋ-na yie vɛnɛ vɛnɛ mʋ jʋʋ, a na hɛɛŋ.","Amara na ịla ebe a wee ajọọ, wuru na ị bụ ezigbo mmụọ. Anaghị",1.0,0.6735
+987,Mɩ mɩsɛ mɩ bɔsɔ nɛ arɩ tʋlaalɩɩba ba sɩ kaa lɩɩ dɩ-bolii kaa kɔ:,Mema se mo bɔsoɔ na a retwa aleeba. Mese kaale de bɔɔri ka,1.0,0.4694
+988,"Ŋɩɩ nɛ lɩɩŋ daboro-la tɩntɩnnaa bʋla pɩ dɔŋɔ, “Má leŋ dɩ la tɔnsɔ na nɩɩ-la sɩ leŋe wʋbɔmʋŋ deeŋ puula.” Ŋɩɩ nɛ ba tɔnsɛ, ʋ kɛŋ Jona.","Ngelele nu buro la, tantanna bu lafi dongọ. Mele ndila tọnsa na nni la silengị, uwọmị ndị mpụla. Ngele ba tọnsa. Ok, June",0.9259,0.5455
+989,"Dɔnsʋŋ ma nɛ: Ɛkʋrɔŋ arɩ ʋ tabalaa arɩ tabiisiŋ sɩ gollu,","Dan somana Ekron, Aro, Otabala, Aritabisi nso",1.0,0.4222
+990,"Ŋɩɩ nɛ Mosis bunso pɩ La TƖƖNA a bʋl, “Bɛɛ nɛ mɩ jaŋ ŋaa pɩ nɩaa deemba? Ba paala ŋaa siri nɛ dɩ ba yagɛmɛ kpʋ arɩ tabɩaa.”",Ndi na Moses bụso pilatịna abụọ. Beenu mụ jaa gaa pịna ya dị mba. Bafala mụ sịrị na debe ya mụ ko aracha ya.,1.0,0.4725
+991,"Zɩkɩlag, Madɩmana, Sansana,",ziklak madimana sansana,0.6667,0.1818
+992,"Ŋɩɩ nɛ Ijipiti tinteeŋ kuoro kpɩa Mosis lɛ, “Nyɩɩgɛ mɩ sɩpaaŋ, chɛɛ-la mɩ bɩra sɩ jaŋ naŋ mɩ sɩpaaŋ, ŋ jaŋ sʋʋ.”","Nye nye ji tin tin koro ku ye Moses la. Nye ka ma safa. Cɛla ma bira sa ji anan, safa, n'ji an so.",1.0909,0.5476
+993,"a bʋl, “La TƖƖNA Wɩa kɛŋ ʋ doluŋ arɩ ʋ tʋla dagɛla nɛ, la nɩɩ ʋ yikoro ma nyiŋ-la tʋɔŋ. Jɩnɩŋ la jɩma arɩ Wɩa arɩ nuhuobiine jaŋ wuo bʋl wɩaa, ka dɩ tɩɩna ha kɛŋ mɩɩsɩŋ.",ka bol la tinawiya kan udolon ara otola dagalane la ni wiyukoro ma nyinla tuon jenla jema ara wiya ara nuho biye je ngobolo wiya kadetiya haka mison,0.9189,0.4206
+994,"Ŋ bɩ jaŋ wuo ŋaa ŋɩɩ aŋ mʋ pɛɩ, dɩ ba bɩŋ dɔgʋsɔ.",mgbanye ụgbọ ala mụ pụọ. Di baa m dị ọgọ,1.0,0.7714
+995,"Ba fá mʋ ba teeŋ Sɩlɔ sɩ hɛ Kɛnaŋ lɛ nɛ, a bʋla pɩba, “La TƖƖNA fa to Mosis lɛ a bʋl arɩ ma pɩla tasɩŋ nɛ dɩ la jʋjʋʋ, arɩ la pʋsʋŋ dɩ-diilee.”","Mba ha mụbaara nke ukwuu, ha wee na-alene abụlị ha. Leatinọfọ Tọmọsịlị abụọ arị, mapụla tasịlị na dịla jọjọ. Arịla pụsị ndị dịlị",1.0,0.5534
+996,"Bʋa-la bɩra lɩɩ Janʋa lɛ a tuu Atarɔf arɩ Naara, a mʋ yi Jeriko a to ŋɩɩ lɩɩ a mʋ dɛrɛ Jɔdaŋ fuo-la lɛ.","Biko, biko, nye m otu atarọf arịnaara. A mụrụ m Jericho, atọrọ m na Amman, Jordan.",0.9583,0.6316
+997,Wɩɩsʋllɩ sɩpaalaaraa dʋndʋŋ nɛ fa kɛŋ tegisi-la tɩtɩŋ.,Es un zapala don don ne.,1.0,0.7778
+998,"Hurai sɩ lɩɩ Gaas fuonaa luŋuŋ, Abɩɛl, a ŋaa Aaba tɩɩna.",Urua ye selekar fuọn na lungụọng Abialọọng a aba,0.9091,0.6744
+999,"Ama ŋ-la nɛ La TƖƖNA bʋla pɩmɛ: ‘Ŋ kpʋ nɩaa yʋgɛ nɛ, a yuo laalɩŋ ma woruŋ. Ŋɩɩ wɩaa ŋ dee bɩ jaŋ saa dɩa dɩ ba dɩdɛnnɛmɛ nɩmɛ.",အမေရိကန်နိုင်ငံ လော့စ်အိန်ဂျလိစ်မြို့မှာ အခုနီးယားယိုကေးနဲ့ အယူလာလစ်မားဝူရုံ၊ ငြိမ်းဗျာ၊ အင်ဒေးဗစ်ဂျန်၊ ဆာဒီယပ်၊ ဒေဗစ်ဒန်းနီမန်းနဲ့,1.0,1.0
