@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Ɔluwɛ̃ ne, manɔ kulu lɛ ɔwiri nto ɔkpɛ̃ teteree kubɔrɛ i kato.","Oluwene, ma na-akuli ile owiri nto okwe ntetere kubura ya ikate",0.9167,0.383
+1,"Yesu ɔre iti i sosina gu iwola ame, ɔbo maturi gu Ɣaa ɔɖuɖu anɔ.",Yesu ore eti so si na gu iwele ame. Ogboma trikwe ya odudu anu.,0.8571,0.3265
+2,Ne ɔso ito me ɔkã teteree sɔ loasese wũ mi kɔrɛ sɔ so aaɣɔ mi si minya wũ fiɛ mme wũ wũ nnya ka miaro.,"na me ho ka teteere, so asɛm yi mu kyerɛ. Sɔsɔ ayɛ me si me nyaw, fie me wu wu nya ka me",0.88,0.4935
+3,Boto bopɛ Ɣaa gɔ nɖe Bosate Yesu Kristo Ɔse siba sɔ ɔtã bo siwarã ame kusɛkusɛ biara gɔ lobɔrɛ i kato iki i bo mawɛ̃ ibaragu Kristo ame.,mbu tu wa pe a gon ne bosa te Yesu Kristi osesi ba so ota mbu si wura me kwusa kwusa ebiara golu buro ikato ike igbo ma nwe mbu ra gu Kristi,1.1429,0.3551
+4,Alasɔ ɔwi gɔmɔ to ɔ̃aɖe kutsue ikpadzɛ̃ ɔwi lɛ kumɛgɔ i Ɔko Sekelea Ɔɣɛ ɔsɛ awe.,"A na-asị na ọ bụrụ na mmadụ adịghị kwuchie ikpa ji ya owuwe, leekwa mụ ego ole ọ kwesịrị ịla na ya ọsịlị a.",1.5,0.9677
+5,Mme Yohanes lotsɛrɛ ɔko gɔgbe nto lotã mi mafɔɖedze akuri akɔdzɛ wa mpia i Asia karɔ̃ iso.,"Mme Johannes lochire Akwụgọ Gbe, ngalaba mmụta mmụọ dị na Mahadum BIU, asịrị ka ha ruo",0.9412,0.6111
+6,"Gbaã ne, itɔ̃me bielea mama kuiwɛ̃ siina, ɣɛɛ mawɛ̃ to mabie sɔ makpɔkpɔtɔra mi si mafinikira Kristo Itɔ̃me Bielea.","bɔne, etumi biele ama makwɔi wɛnsi na, eh, ma etumi biele sɔ makpɔkpotuɔ mi si ma fini Kristo etumi biele.",0.8421,0.3444
+7,"Gɔ manya sɔ Yesu masiaidze nɣɛ mato maɣɛ abuiti ɔɖuɖu wa ame mabɔrɛ siɖe ne, ibara ma ɣii.",Gọmentị anyị sọrọ Jesu masịrị ejị nwee ya ma tụọ ma ya agwịti ọdịdụ wa amema gburugburu ebe ni. Ibrahamị,1.1111,0.6901
+8,"Ne Yesu ɔkarɛ ma sɔ, “Ɔnɔ miinɔ igbã nɛ karɔ̃?",Na Yesu o karima so. Ọnọ m'ịhụ nọ igba na ya karụ,1.1,0.4545
+9,Ɔɖi bo ɔbɔrɛgu i Ɔbosam ɔle gɔ nɖe idududu ame ɔbɔ ɔ̃ Ɔbi ɖɔɛse sigarakaɖekɔ̃ ame.,"O diba o buru na i ga-abu o sem ole go na iju du du ame, o bughi na i gwa ya si si ka dikwa ha",1.5625,0.6094
+10,"Ne ɔso bo wũ bofɔ boɖe sɔ Ɣaa aafɔ bo sɔ bose bɔlɔlɔ gɔ bofɔ Kristo boɖe ɔso, iiɖe kumɛgɔ bobara i mmara iso ɔso.","Nso bu mbu bu na eso, afo bu nso bu se bulolo, go bu fo kristo bu na eso, i de kumi go bu ibrahim mrai so",1.04,0.4943
+11,"Ikɔ biara ne, Yesu maɣese sɛ masɛ Yerusalem maaɖe iyi nɛ masɛ marɔ sɔ Kukpi Ɔtakuwara Bo Iyi.","obiara ni, Yesu maye se masem Jerusalem, ma de iyi ne masem aroso kupi otakuworo agbo iyi",0.8889,0.2838
+12,"Ɔ̃ loɖe ira biara iso fiɛ ɔto ɔbara karabara ɔkigu i ira biara ame, ɔpia i ira biara ame ana.","Olu de irabiyara iso, fia to bra karabra okigwi irabiyara ame. Opiya irabiyara ame",0.85,0.2676
+13,"Ne ɔrɔ̃go ɔfɔ kanya sɔ, “Aĩ, sikã ɔɖuɖu mmɔ ne.",N'awụrụ gị ọfọ ka ya sọ. Anyị sị ka ọ dịdị,1.1,0.7273
+14,Ngbɔ makpɛ̃gu Ɣaa kanyamaɖidze ma loɖe mi katɔ̃ ne.,M'gba m'kpe ngu a ka nya ma di je ma lo demi carton,1.3333,0.375
+15,"Ne ɔɣere ma sɔ, “Ɔwi ɔwɛ̃ ame ne, maturi inyɔ mawɛ̃ ɔsɛ Ɣaa isɔrɛyo sɔ maakparama kayi.","N'ọịrị mụ sọ. Ọ wee wee amene, na Chineke wee sị aị sịrị yọ sọ mụ akwụra maka aị",1.1176,0.5538
+16,"Ne Yesu ɔɣere ma sɔ, “Midzuɛ̃ so sɔ miibatã kuwɛ̃ aasɔsɔla mi.",Me ye so oye remaso. Me dwen so so me batakwunwe a sosora me,1.0833,0.4565
+17,"Makpakpɛ̃dze mawɛ̃ ana ɔba maakarɛ wũ sɔ, “Bo ne, be si bobara?","Mkpapeje ma ana oba ma kara nso. Gboni,",0.9167,0.5217
+18,"Boisɛ bobie sɔ boabo maturi anɔ, ɣɛɛ Ɣaa gɔ nsɛ ɔko ɔbiara ɔtu ɔnyɔ.","obi a so obi a so abọọ mọtu ya nu, agọ nze ọkụ obiara otu",1.0714,0.566
+19,"Aisɛ afinikira fɔ itɔ̃me, fiɛ aisɛ anyɔ maturi i katɔ̃.",Aisa afni kranfai tome. Fiaisa nyomatroi ka,1.0,0.3095
+20,"Kumɛgɔ ame i Ɣaa kanyaɖidze Yona ɔɖe ikparĩ ɔtã Niniwe maturi ne, ngbɔ ame i Ɔturi Awune Ɔbi ana aaɖe ikparĩ ɔta kiniɔgbe maturi ne.","Mgbè à me, àkànyà dị́ jè yọ́ na ọ́dị́ ị́kpàrị́ ọ́tà nínị́ wè ma 39. Mgbè à me, ọ́trị́ àwụ̀ nị́ ọ́bị́ àna, àdị́ ị́kpàrị́ ọ́tà kị́nị́ ọ́gbè ma 39.",1.2,0.6321
+21,Ara wa i kuɖokpo ame pia fiɛ karɔ̃ iso are ana pia.,"karawa iku dokwa me pia, fie karu isu aria na pia",0.8333,0.2105
+22,"Si ara wagbe ɔnya asɔ̃ katɔ̃ ne, miledza so si mitsɛ ɔri inyɔ alasɔ mi iɖi ɔwi ɔɔbore ɔbo.","Sia ra wa gbe oya aso ka toni, me le je so si mi che ori nyo ala so mi di owo yi oburu",1.1053,0.4118
+23,"I iyi ɖeakatɔ̃ nɛ iso masɛ maɖe Boɖoboɖo Gɔ Loita Iyi ne, marasuãdze ɔba maakarɛ Yesu sɔ, “Lɛ ato abie sɔ bowa Kukpi Ɔtakuwara Bo iyi aɖera botã-ɔ?","Ihe a na-akọ na ya bụ na ọbụghị naanị na mmepe obodo, gọọmentị a nyere aka na mmepe ime obodo.",1.0,0.7807
+24,Maturi gbodzoo ɔba mmɔ gɔ kukpa kanɛkɔ̃ iisiwe i iyo nɛ kame mapia gu kayogodɔ̃.,"Maturu egbọjọ ọba mụ, kọkụpa akanịkọ isi wee iyọne ka mụ mapị agụ ka ayọgọ",1.0,0.4603
+25,Ne ɔso ɔmagɛ̃ ame maturi ɔɖuɖu ɔbɔrɛ maba maɣɛ i kayogodɔ̃ mato manyɔ.,"na ọsọ ọma gị, amen ma tụrụ ọdịdị ọbụrụ maba ma anyị ịka ayọgọdọ matụ ma",1.1538,0.5273
+26,Ɔ̃isɛ ɔɖe ma ika si iiɖe igbã ɔto ɔpɛ ma.,Mensa odima ika side igba oto opem,0.9,0.5
+27,Mma nto mabie sɔ maakɔ mi mayura ɔso fiɛ loto lotsɛrɛ ɔko gɔgbe losese mi.,"Mma mma bia so, m ga-akọ m ma yura ọsọfiya lọtara kọgọgbe lụ sese",0.9333,0.4237
+28,"Ɣɛɛ ngɔ nsɛ ɔmɔɛ̃ ɔ̃ itɔ̃me ɔla ne, ɔ̃ kuɖɔɛ gɔ ɔba ɔtã Ɣaa ɔyi gbaã.","Ehen, ngwa choo onye onye tomee ha olarani. O kwudo ego o baa ota oyi gba",1.0,0.8333
+29,Ɣɛɛ wũ itɔ̃me ɔte sɔ Ɣaa Siwarã ɔle pia gbaã.,"Ehn, wí tó mi. Ó tẹ́ṣọ̀ yá ṣíwájú, ó lẹ́ pìyá gbán.",1.2,0.7059
+30,"Gɔ manya kumɛgɔ i Petro gu Yohanes ɔɖe ika gu ɔtu fiɛ maɣe ana sɔ mma loiɣe ɔko gu mma nna ɖibia kuwɛ̃ i kaɖe ame maɖe ne, ibara ma ɣii.","Gọọmentị akụọla gị petrol gị Johannes, ọ dịghị agụọ gị otu fie ma ihe anasọ. Mma nro ihe, ọkụ gị mma nụ na dibia kụọ nwayị ka dị ame ma dị nị. I bia ma gị",1.0323,0.5243
+31,"Mmɔ i Yesu to ɔɣere wũ sɔ, “Nyɔ kukaakɔ, daaɣere kuwɛ̃ kuira, ɣɛɛ kɛlɛ aasu so te Ɣaa sɔrɛdze si atã ara wa i Mose mmara ɔkarɛ si ite sɔ ka ase sekelee.","Mụ, yesu to ere nsọ, nyọkụ ka akọ, da ere k'onwe kwụịra, eh, klerasụ sọte ha asụ eji si atara wa ịmọsụ mmra, ọkara si ite sọ ka si",0.7879,0.4474
+32,Ne ɔso kuwɛ̃ iibawo ɔɣɛ sɔ wũ iyere ame ɔfɔ Ɣaa itupie.,Christo,1.0,0.9286
+33,gɔ ɔse nɖe Kainan gɔ ɔse nɖe Arfaksad.,Gonsende K9 Gonsende Arfaksa,1.0,0.4
+34,"Ne ɔso nto losia ita lotã mi sɔ, kakɔi biara ga maaɣɛ Itɔ̃me Bielea nɛgbe ne, maasu nnɛ ɔbara ɔtã me ngbe manyigi wũ ala.","Na so ntlo si aitaa lo taa miso, ka kwee biara gama ha itome biere ya anagbena. Ma so unu oburo otu a ma ngbe ma nyi gi",1.04,0.3763
+35,"“Ɣɛɛ gɔ mapaase ɔnya ɔbi gɔmɔ ne, maɣere so sɔ, ‘Nya kakpɛkɔ̃ Sate mɔmɔ ɔbi nto ɔba ngbe.","Goma paase o nya obi goma unu, ma risuso nya ka kpe kusa te mo mu obi do ba ngwe",1.1111,0.3636
+36,"Atoa sɔ maɖaa bo ngbe ana teteree ne, Bosate ɔpia bo ɔle sɔ bowo mi ɔ̃ Itɔ̃me Bielea ɔɣere.","Atoaso m daa bo ngbi a 33 ni, bosato pia bo ole, so bo omiwon tome biere o ere.",0.8947,0.3913
+37,"Ana ne, manyii, boto bobie sɔ mibie itɔ̃me miɣere madãdze.","ana ne manyi, boto bi asom bi bia itum mmiere ma",0.8,0.3333
+38,Midaabara kuira nɛ loatɛ̃ ma Yudase ɣee mma loiɖe ma Yudase ɣee mafɔɖedze Ɣaa kɔrɛ ɔri.,"Me daa bra kwan no na ateamu yudaase, eema lede yudaase, eema fodee je akuro",1.0,0.4714
+39,"Ɔsɛ ɔrɛ ɔta, iyi biara, ɔraɖui ɔre, fiɛ amɔ, fiɛ ɔ̃iɣe kumɛgɔ ibara fiɛ ara se lɛ ngbe.","ɔse ɔreɔta, iyi biara, ɔraduiɔre, fie amuo, fie nwie ekumego ibura fie araselengwe",0.8889,0.25
+40,Be ɔso mito mibie sɔ miapia Ɣaa mafɔɖedze ikuri kunuarɛ mikuti misopara mafɔɖedze wɛrɛba?,M'bụ onye so mụ na ya pụa ma fọdụ eji ikwụ kụ nụ arụ. Mụ kụrụ tinyere so pụa ma fọdụ eji were,1.6429,0.68
+41,"Ne kama ne, lonya Ɣaa kpabo mama gɔ mba ɔle ɔso ɔbɔrɛ i kato.","na ka ma ne, lo nya akpa bo ma ma, gormboli, oso ugbai ka",1.0,0.3478
+42,Ɔɖe bo ɔnyii gɔ nsɛ ɔbuai bo i Ɣaa karabara gu Kristo Itɔ̃me Bielea iɣɛ ame.,"Odebe onye ịgo ụzọ gbuo anyị gbuo ya karabara gị, Kristi itom ebiara ịhe a",0.9375,0.5254
+43,Alasɔ mi mɔmɔ miɣe sɔ Bosate ibayi to iaba lɛ kumɛgɔ i yukukpe sɛ ɔba ku kasɛ̃ ndɛ̃ awe.,Aso mimi momo mi asobo sa te ibayi to ya bale ku me gwa yi ku kweshi obakuka sende,0.8947,0.3433
+44,"Ɔbiara gɔ loasɛ̃ me ne, ngɔ lopia me katɔ̃me ɔsɛ̃.","Bia, ngolo semene, ngolo piam ka tumi",1.0,0.3611
+45,gɔ ɔse nɖe Abraham gɔ ɔse nɖe Tara.,"Gɔnsi de Abraham, gɔnsi de",0.875,0.4444
+46,"Ne ɔso wũ atɔ̃me iɣɛ se tɔrɔrɔ, alasɔ loisɛ lobara nnɛ loɖɔɛ, ɣɛɛ nnɛ i ngɔ lopia me katɔ̃me ɔɖɔɛ nsɛ lobara.","Na so nwa tomi ye seturoro, alaso alu ise lu brown na lu du e, ewu na iyi ngo lu pia me ka tomi, odu ewu ze lu brown.",1.2727,0.5663
+47,Yesu gu ɔ̃ marasuãdze ɔbo i ɔkolo ɔwɛ̃ ame marui.,Mma ndi,1.0,0.8919
+48,"Ne Yesu ɔɣere wũ sɔ, “Iyɔ mme wũ loitã-ɔ ipɔ.","na Yesu orenso, na mehu na eto",0.9,0.6562
+49,"Miɣe kukaakɔ sɔ mma nsɛ mabara karabara i Ɣaa isɔrɛyo ne, mmɔ masɛ mafɔ ma araɖea mabɔrɛgu.",Mee ka ụka kọsọ mmaji na ọbụrụ na ọbụrụ na anya ị sọrọ ya na ya. Ụmụ mma si ma fọọ ma ara di ya ma ọbụrụ,1.5294,0.6027
+50,Ɣaa ɔbara nnɛgbe sɔ bo ɔɖuɖu aaba boakpese mawɛ̃ i nnɛ bofɔ boɖe ame fiɛ boatsue Ɣaa Ɔbi pelepele.,"Aroghara na ebe so gba dudu abagbo akpese ma nwanyi, i na bu ofu obodo ya me, fi egbachuo ya obi",1.0526,0.5769
+51,"Wũ manyii, loto mi i kukpa sɔ minyɔ mmagbe igbã nsɛgbai gu mama ma lobuai mapia kube i karabara ame si mitã sɔ ma igbã loakɔkɔ mi.","Umunyị, letọ mị kụkpá sọ mị nyọ ma gbe ngbe nze gbaị, gụ ma ma ma ma logọ anyị ma pịa kụbe ị karabra ame. Sị mị ta sọ mma ị gbanụ akọkọ",1.1481,0.4412
+52,"Ɔwi gɔ mato maɖoe Stefano ne, Saulo lola ɔ̃ɔpia ma ɔle.","Oga Matthew Madueke, Stefano ne Saululu lo piamọ",0.8182,0.5
+53,"Gɔ kaɖe ɔsɛ̃ ne, maturi gbodzoo ma lowe i itubu ɔkpokpo gɔmɔ isɛ ɔnya sɔ ɔkolo ɔwɛ̃ pɛ lose i mmɔ.","Gọọka di oseene. Mọtrị gbojọọ malụ weyị tubu ọkpọkpọ gọmọ ịsẹ ọnyasọ, ọkụlụ ọwụ pẹ lụsẹ ị",1.0,0.5135
+54,Ɣee be i ɔturi aasu ɔnyuarã fiɛ ɔ̃ana ngbã mɔmɔ?,"Bịa sọ mị tọ mị bịa ka ị a wụlụ ị da wụ ịsọ. Ị ka a kịni ọ nụ e, mị tọ mị nya fịe, mị a nụ ka rọ. Mị sị tụbọlị. Mị ba nụ mị, e, mị tọ mị nya. Mị ba",4.5,2.2432
+55,"Gɔ bofe mmɔ ne, bosɛ boaki i Kilikia gu Pamfilia ɔpo kanya bobore bomatã ɔmagɛ̃ gɔ marɔ Mira i Likia ibuiti ame.","Gọbọsị ụmụ nụ, gọsị gwa ka ịlịkị a gụpa fịlị a ọpụka ya. Gọbụrụ gọmatan ọma gọ ma rọ mịra ịlịkị a ịgbụtị a",1.0909,0.5568
+56,"Gɔ ɔto ɔkɛlɛ ɔri dzoroa ɔwɛ̃ ɔso ne, ɔsu kakpɛkɔ̃ ɔpia i mapaase nrɔɔ̃ ame sɔ manyɔ kã iso matã wũ.",Ọtọ kịla ọ rị juru a ọwụ ya ọsụ nị ọsụ ka kpọkọ pịrị anyị ma paasị ụrọ amị sọ ma ṅụka anyị sọ matanụ,1.1905,0.6622
+57,"Gɔ Yohanes ɔɔpie maturi ɔɖuɖu ndu ɔro ne, Yesu ɔ̃ wũ mapie wũ ndu.","Gɔ Yohane 1:3 Ɔdudu undu ɔrɔ ne, Yesu ɔwu ma pie undu",0.7857,0.34
+58,Mma loiɖe ma Yudase to maaɖe sigara ku ɔtile i Yerusalem iso isɛ iabo ɔwi gɔ i Ɣaa ɔtɔrã ɔtã ma.,"M'alo ede ma Yuda se, to ma desi gra kuo tile Yerusalemi so, esi agbo owo igoya",0.9524,0.36
+59,"” Ngbɔ ame gɔ maɖe ara maro ne, ɔsu ikɔi, ne ɔɣɛ sɔ, “Ikɔi nɛgbe nɖe nnɛ i Ɣaa ɔsu ɔto ɔnyigu mi kanya ɣɛtɛ ga wũ ima nɖe ikparĩ ne.","bụọ mụ, gọọmentị arụọla nụ ya, ọ sịkwa anyị na ọ ga-eso. Ikwere na ekweghị, unu enyeghị ha ọtụ nri gị mị, ka anyị tee ga nwee ịma nụ ekparị",1.0,0.7917
+60,Alasɔ mi mɔmɔ ɔɔti Bosate kayiribielea minyɔ sɔ ilɛ.,"Ahenfo asomfo mmienu a ɔti ibusafoɔ te ka yiri bie lia, mmienu so",1.4444,0.6512
+61,"I maturi katɔ̃ mmɔ ne, maiwo wũ ɔmɔɛ̃ i itɔ̃me kuiwɛ̃ iso.","Maatiri ka toomɔɔ ne, mɛɛwɔɔ mɔi iitɔme kwiinye wɛnɛ so. Atii omomaa iimaa imɛɛ Yesu otamaa iso. Fia Ibrahima yii ana. Maazaduku",1.75,1.8537
+62,Bo ɔɖuɖu to bonɔ mato mafa Ɣaa kaɣiɖu i bo siɖe ame.,Igbo sị na,1.0,0.875
+63,"Manya sɔ iiɖe ma mmara kere miɖe ɔtu, ɣɛɛ ana ne, ɔsu so ɔbara Ɣaa Ɔbi gɔ ite sɔ ɔkategu Ɣaa.","Manya so, iyi de ma mmiri akiri, iyi de otu. Eh, ana ne? Osuso obara obi, gọọ iyi tesọ, ọ katagọọ",0.9048,0.4429
+64,Ne ɔso nyɔ sɔ aibatã ikpawaĩ nɛ mpia i fɔ ame ɔkpese idududu.,"N'asọmpi nsọ, anyị batara n'ogbe nke abụọ nke egwuregwu a me ọkwa isi dị dudu.",1.1538,0.8542
+65,Masɔrɛdze makpakpa gu kaɖe makpakpa ɔsarɛ i Kayafa gɔ nɖe masɔrɛdze ɔkpakpa pelepele iyo.,M'asoro eje m'pakpakwu ka m'de m'pakpakwu osara yi ka ya fa go nne. M'asoro eje o'pakpakwu pelepele,1.2143,0.4
+66,"Mi nɖe bo ɔriinyɔ, bo isoɣɔ gu sigaraikoto alasɔ mi ɔso boakɔlɛ sirɔgɔgɔ̃ si Bosate Yesu ɔledza iba.","N'ebe ọrụ ịṅụ gụnyere ịkoto, alụsị ọmụnsọ gụnyere ịkwọcha ahụ gị, si ebe ahụ gaa na-esure ije anyị",1.0,0.8125
+67,"Si lokpese losi ngbã ne, loabara karabara ga loabɔ kusia gbodzoo.","Chineke kwesịrị ịsị ngbanụ ya, abracadabra ga, laa bakwuru si agbojo.",1.0,0.5283
+68,Asɛ aɖɔɛ ira nɛ nse bɔlɔlɔ fiɛ atsiri nwa loiya tɔrɔrɔ.,Asa adu Iranen zi bololo fie achiri nwa le ya toro,1.0,0.4318
+69,Nda ibara fiɛ ɔfɔ gɔ loiɖe ɔ Yudase ɔnɔwɛ̃ loakpese ɔba ɔ̃apɛ Ɣaa siba?,"Naa Brafere foro kwan dwidi, Ọyudafoọ nnoɔe, lọ akwase, ọbaa apɛɛ asiba.",1.0,0.5818
+70,"Mi marɔ̃goyiridze ana ne, mitsue sɔ mi mare na ɔle makategu mi.",Me maro go iri ji ana ni? Me chuso me mare na oli ma katigu,1.0,0.3673
+71,"Gɔ boro so ɔmala ne, bobo i ɔkolo ame bowara bokɛlɛ Kos.","Gaboro so omalicha, biko ihe o kwuru na bu nwa bu",0.9167,0.6047
+72,Loito lobie sɔ ite lɛ ifɔ̃ nto lopia mi i wũ ɔko gɔ lotsɛrɛ ame.,Na etu a ka esi etinye lesi phone number mee nwu okogoro chere,1.0,0.7917
+73,Si iba ngbɔ.,,,
+74,Alasɔ maɔsu ngɔ nsɛ ɔɖaɛ bo manyii kanya kasɛ̃ i kakɔme ɔtã Ɣaa mafuĩdza mabɔrɛgu i kato.,"A na-asu m osu gong se, o daa igbo m anyi ka ya, ka m si ka come in, o taa ya, m ofu ya na ama m were gu ka",1.8235,0.5352
+75,Ne ɔrɔ̃go ɔtere ɔkɛlɛ fafuĩ ame ngbegɔ i Ɣaa ɔledza kasɛkɔ̃ ɔsɛ wũ sɔ maanyɔ wũ iso ayi kakpi gu alafa anyɔ gu sikuɔ ne.,"Na-arịgo otu narị oklefa fụ ya me, ngbegọ ya olileanya sekọndọ asatọ, sọ ma anyụọ nsị anyị kapị gụọ ala fa anyụọ gụsị kụọ",1.0,0.5591
+76,Fiɛ Kristo ɔki i ɔ̃ kayiribielea iso ɔtã bo ɔbiara karatã.,"Kyerɛ sɛ Kristo okyigyinafoɔ biara a ɛso, ɔtanfoɔ obiara kara",1.0,0.5652
+77,"“Ɣɛɛ ne, ɔ̃ ɔse ɔkpere ɔ̃ maɖabo ɔɣere ma sɔ, ‘Mipɛ siwa si miɖi ara sɛɛ mipia wũ.","A ne, ọ sịọkụrị ọmadagba ọwịrị masọ mị pesiwa sị mị di arase mị pia",0.9444,0.5
+78,Alasɔ ɔ̃ mɔmɔ ɔnya sɔ bokote sɔ boaɣɛ ɔ̃ Itɔ̃me Bielea.,"A na-asọ mọmọ, ọ nya sọ bụ kote, sọ gbaa anyị nwa ntị obere",1.2727,0.6341
+79,"Gɔ mato makɛlɛ ne, isoɣɔ lala ɔbo i ma ame, alasɔ manya sɔ Ɣaa ɔka ma ɔpia i mma lokote sɔ maana kunuarɛ i Yesu iti.","Koma toma kalenu, isi ola la ogbo imami. Alusi omanya so ya o ka ama opi ya, ima lokote so ma na kunuare iyesu",0.9615,0.3295
+80,"Kristo to ɔɖe sigara i sile dzɛ ɔɖuɖu nto siɖe iso i kato, ɔle gɔ i maturi ba i ara iso, sile agbãagbã dzɛ mpia gu sigarakuɖekɔ̃ ɔɖuɖu iso.","Kedu ka ị si taa? Si gị na ezinụlọ gị dịkwa ndụ. Site na ịsọ ịkato, o legodị anya ma tụrụ ịba ya ara ịsọ. Sị na agba mgba jee mbịa, gị na ndị ezinụlọ gị dịkwa ndụ.",1.2759,0.7757
+81,” aaba i ne ame.,Kụọ kwa ịsị kụọ n'akụkụ ole? Kụọ do egbo ịkị ịkpa ịsọ ịkpa na ụlọ na ole ọbụla ị mmara,5.0,5.7
+82,Lofɔ Mose mmara ɔɖuɖu loɖe gu ara wa matsɛrɛ mapia i Ɣaa kanyamaɖidze siko ame.,Ndi be anyi ekele m unu ozo n'udo. Guara wa machiri m pia ya kanyi mara ndi ji isi kụọ,1.2667,0.6562
+83,"Ma mɔmɔ losɛ akparĩ wa masu mato makere so ala, fiɛ si ma mɔmɔ akparĩ masu mato makere so ala ne, iyɔ iikpa ma.","M'amamụlụ sị akparịwa masụ gị, ma tụma kérésimesi ala. Fịa sị m'amamụlụ akparịwa masụ gị, ma tụma kérésimesi ala nụ. Ịyọọ gị ịpa",0.9167,0.5176
+84,"Si mato mabie sɔ maakarɛ irere manɔ ne, makarɛ ma marã si maɔbo iyo.","Si mụ atụba ya, ọ mara ka ọ ga-eri mana ọ na-eri. Mana si mụ gbuo ya",1.0714,0.5472
+85,"Alasɔ iki i Kristo iso ne, Ɣaa ɔɔɖi bo ɔsɛ, fiɛ ɔbara kayiiso sɔ boase sekelee, ikpi kuiwɛ̃ iibawe bo iso i ɔ̃ katɔ̃.",A na-asị na Kraist dị ndụ. Ọ dịghị onye nwụrụ anwụ ga-ebili ọzọ.,1.0,0.8161
+86,"Atoa sɔ bo akpi ɔso ne boɔkpi ne, ɔtã bota bobɔrɛ i makpise ame ku Kristo.","Ọtụtụ asụsụ bụkwa ọsọ na-e, gbuọ ọkụ na ya. Ọtabotabo bụrụ ihe makpịsịa mekụ",1.0,0.6667
+87,"Sɔrɛdzekpakpa pelepele ɔkarɛ Stefano sɔ, “Ara wa mato maɣɛ ne gbaã iɖe?",Soro adekwa kpakpando okare Stefano so. A roma na otu ma eni gba anyi,1.0833,0.4912
+88,"Ngbɔ ame kere i Bosate ɔtã sɔ mma nsɛ mapɛ Itɔ̃me Bielea imomo ne, itɔ̃me nɛmɔ iɣɛ ame maaɖe ara maɖi.","Mba, mekara ịbụsaata ọtọsọ. Mmaazị ma pee itom ebiara anyị mụmụrụ ọnụ. Itom na mụ ihe a me ma adị ara ma",1.0,0.5128
+89,"Wũ mabi ɖɔɛse, nto lotsɛrɛ ɔko gɔgbe lotã mi sɔ si miibabara ikpi, ɣɛɛ si ɔrere ɔbara ikpi ne, boba ngɔ nsɛ ɔtã Ɣaa iti i bo kanya gɔ ɔ̃ nɖe Yesu Kristo gɔ nɖe ɔturi bɔlɔlɔa.","Umu be anyi ndewo nu, o bu oge ozo gbeelu taa mee so si m ya abara ipi. E si o ruo bara ipi na, bu ba ngozo taa anyi tii bu okanya. Go on the Jesu Kristi go on the otu ibu olu.",1.1351,0.5338
+90,Kpakpɛ̃dzekpakpa gɔ nsɛgu bo ɔnya ɔkolo gɔ lobɔrɛ i Aleksandria fiɛ ɔsɛ Italia karɔ̃ iso.,"Papa J.K. Agunze gụbọ ọnya ọkụrụgọ logburọ i Alexandria, fie ọse Italia ka ru",0.8667,0.4583
+91,"Mme ne, wũ iyi farafanava iso matu me sirɛrɛ̃, Israelse mɔmɔ loɣe me, lobɔrɛ i Benyamin kakpa ame fiɛ loɖe ɔ Hebrise gɔdɛĩ.","Me ne me Efrafonii, na me so tumi serɛ. Israelfo m'olo eme. Na obrempon Benjamin kapa me. Fialode ohebrifo",0.913,0.4792
+92,"Gɔ ɔba ɔ̃abɔrɛ i iyo ne, ɔ̃isito ɔwo ika ɔɖegu ma.",Kọọ ba wọnbere iye o ne? Wọ́n sitọ́ ọwọ́ ika ọdegu,0.9091,0.5556
+93,"Mma ɔɖuɖu lonɔ ara wagbe ɔla maɔkarɛ so sɔ, “Mme ɔturi igbã i ɔbi gɔgbe to ɔba ɔ̃aɖe?",Mme arụrụlụ nụ arawa gị ọla ma nke arịsịsọ. Mme otu igbe ahụ bụ ya ga-etoba nwaanyị,0.9444,0.5312
+94,"Ɣɛɛ ɔkarɛ ma sɔ, “Be ɔso fiɛ mikpɔkpɔtɔ mito miwararã so?","O ka re ma so? Bi o sofi mi papo to, mi to mi o ra",1.3636,0.4545
+95,"Si kayiiso siturina pia ne, iyɔ siwarã ame sire ana pia.","Sika a eso siiri na pia ne, i yoo si hura me sika na pia",1.0909,0.2727
+96,"Ɔluwɛ̃ ne, awɛ ɔtsɛ ikpɛ̃, gɔ ato apɛ ndu apia i ɔkolo ame sɔ miɔro ɔyi fiɛ ɔ̃awã.","A lu nwene, a wee ọchị ịpen, gọ atọ apae ntụ apiaị ọkụlụ amesọ. Mị ọrụ ọyị fie ụnọ",1.0556,0.5593
+97,"Ɔtã ma karabara gagbe sɔ iaki ma iso ne, maaledza mafɔɖedze matã Ɣaa karabara matã Kristo masiaidze katɔ̃ isɛ.","Ma ta ma karabra, ma ga gbe so ya ki ma yi so ne. Ma le je ma fo le je, ma ta ma karabra, ma ta Kristo ma si e je ka to",1.5789,0.3258
+98,"Wũ ara wa lote mi ne, ase ɖɔbɔrɔɔ lɛ inyɛdu mɛ i ɔbiɛtɛ sɛ ɔmeme, iiɖe makpakpa aɖera.","O nwere awa ole na ole gara aga, a sị na ọ bụrụ na e nye di ya ume, ọ bịa eche so m eme, ị dị makwuo kwaa dị",1.6667,0.8182
+99,Ne ɔso loto mi i kukpa sɔ miɖe ara si miana ɔle fiɛ miibakpi.,"Na so I come meet my kinsmen, meet their elders, see my own people, tell them say I come",1.3571,1.0851
+100,Ma Yudase ɔɖuɖu ɔtɔrã masia sɔ nwa ɔɖuɖu i Tertulo ɔɣɛ pia i ne ame.,"Màyụta na ọdịdị ọtụrụ amasi asọ, nwa ọdịdị ị tetụlụ ọyị",0.9333,0.6792
+101,Ne ɔso mitã kakpɛkɔ̃ sate iti sɔ ɔsese marabaradze ɔ̃ kakpɛkɔ̃ ame.,"Naa so me takapekosa teeti, so sese marabragye, onka peko",1.0,0.4038
+102,"Boɣe sɔ boɔbɔrɛ i kukpi nrɔɔ̃ ame bobo i ngbã ame, boɣe ngbɔ alasɔ bosɛ boɖɔɛ bo manyii.","Bụ onye so akwado akwụkwọ pịrị ọrụ m, bụ onye ngba m. Bụ onye ngba alasọbụ, sọbụ doro ebum n'obi.",1.1111,0.6618
+103,"Ne mmamɔ ɔkarɛ ma sɔ, “Be ɔso mito minyɔnyɔ gbanadze i makpise ndɛ̃?","Nne m, a mụọ ka a na-asọ. Biko, tinye mụ inyo inyo gba na-ajọ ịma kpịsị",1.2308,0.5385
+104,"iyɔ maɔfiniki maba wũ kɔrɛ fiɛ mme, Ɣaa, loasa ma.","fi me ho, me nim baa nkuro. Fi me ha, na asase",1.2,0.6053
+105,"Ɣɛɛ ɔrɔ̃go gɔ nyiri kurã ne, ɔsɛ ɔsu ɔ̃ adzuni ɔsia i kayiiso ara iso, alasɔ ɔsɛ ɔbie sɔ ɔ̃abo ɔ̃ ɔrã anɔ.","O rugu go onwa iri kulu ani, o so so onwa June si anyi ka anyi suola iso, a na so so bia so onwa gboo ura",1.1304,0.6364
+106,"Gɔ Yesu ɔnya ma ne, ɔɣere ma sɔ, “Mikɛlɛ maisu so mite Ɣaa Masɔrɛdze si manyɔ mi kukaakɔ.","Gɔ Yesu ɔnyamane, ɔyiri masɔ. Mikle mi asuso mitee amasro eje, sima nyo mi ku ka",0.8889,0.25
+107,Bo Ɔse Ɣaa gu Bosate Yesu Kristo si matã mi abualɛra gu isobuɛ.,Bose yɛ agorɔ sɛteɛ Yesu Kristo si mata me abɔne ragu isogbue.,0.7692,0.32
+108,"I ɔle gɔ i Bokɔse Yesu Kristo ɔtã me kanya ne, loto mi i kukpa teteree sɔ lɛ manyii awe ne, minɔgu so ara karɔ̃ sɔ iɣɛɣɛso kuiwɛ̃ iibawe i mi ndɛ̃.","So, na kwa ebumnuche Jesu Kristi otame ka ya ni, na otomi kwupatetere so na emanya ya weni. Me nogu suarakanu. So, i ga eso kwa iwe iba awe ime",0.9688,0.4727
+109,Ɔɣere ma nnɛ i Bosate ɔɣere wũ gu Itɔ̃me Bielea nɛ ɔɣɛ ku katetere i Yesu iyere ame i Damasko.,O yiri mma na ị bụ sọọsọ onye gụrụ etu e si dee ya na o yiri ka a tetere ya na ụra.,1.15,0.7123
+110,"Mi marɔ̃go ne, mibɔ so karɔ̃ mitã mi marã, alasɔ ngbɔ lokote itã Bosate mafɔɖedze ne.",M mara ngozi na m bọsọkarụ m ịta m mara. Ala sọ mụ gba lokote ịta gbasara m afọ dị njọ.,1.25,0.4769
+111,Inyɛwe akɔdzɛ wagbe nɖe atsɔra wa loaɖi Ɣaa sikpã tsɔra ate ne.,"Ɛnyɛ wo akwaje wa agbenle, achura wa aladi asikpa, chura atene",1.0,0.3922
+112,Ɔɣɛ i isɔrɛkasege ga iso ɔto ɔtsuedza kua kɔrɔ̃kɔrɔ̃a kuɖearɔ̃ iso.,"O ya, i soro aka si ga, i so oto ochichi aku akwa nkron nkron, i di aro",1.4545,0.6226
+113,"Ɣɛɛ ɔsu nrɔɔ̃ ɔfu so igbegbe, ɔɣɛ sɔ, ‘Ɣaa nyɔ me gɔ nɖe kpibaradze nnya!","Esuo n'ofu so igbegbe, o eso. Ah, nyomengau nne kpigbara nje",0.8667,0.5
+114,"’ Fiɛ si boɣɛ sɔ maturi kɔrɛ ɔfɔ ɔbɔrɛ gu ne, mma loba maasakanya ngbe to maapɛ bo ata alasɔ ma ɔɖuɖu ɔfɔ maɖe sɔ Ɣaa kanyaɖidze i Yohanes ɖe.",Kedu ka ọ ga-esi bụrụ na ọ bụ mụ ka ọ bịara ịhụ taa? A na-asị na ọ bụ ụdị mmadụ a sọrọ ya aka ya dịrị ya,1.0,0.7545
+115,"Si mato mati bo kama i amumuɣɔ ɔri iso ne, bosɛ bopia so katetere.",Ihe mere m ji akpo ya mmuo ya bu na reason bu na o bu ya bu pillar of Catholic,1.4286,0.8235
+116,"Yesu ɔkɛlɛgu i katɔ̃ ɔɣere ma sɔ, “Karɔ̃ to kaakpɛ̃ gu karɔ̃ fiɛ sigarakaɖekɔ̃ aka anyɔ to aakpɛ̃gu so.",Yesu Kristo ka twa yiri maso.,0.9474,0.7763
+117,Miɖi kaɖo gu sikpã gu itsiri ɔɖuɖu i mi ndɛ̃.,"Mee dịka ọ dị gị si kpọọ, gị ịchọrọ dịka ịmi",1.1,0.7353
+118,"” Gɔ Anania gɔ nɖe ma Yudase sɔrɛdzekpakpa pelepele i ma ndɛ̃ ɔnɔ Paulo ikaɖe ne, ɔɣere mma nɣɛ i Paulo kɔrɛ sɔ mapɛ wũ ɔrɔ̃ta i kanya.","Gọ Ananya, gọọ ndị ma Yuda si soro jee kpakpa pelepele, ịma ndị ọnọ Paulu ịka adịrị. Ọ ga-ere mma ya ị Paulu kọrọ sọọ ma pewụ ọrọta ịka",1.0,0.4078
+119,"Iyi iwɛ̃ ne, Petro gu Yohanes ɔkɛlɛ Isɔrɛyo ku kakɔme iɖɔwũ itɛ ame, ɔwi gɔ i ma Yudase sɛ makparama kayi.",Iwele Petro ku Yohane okle isore ku ka komi idong ite ame. Owi go i ma Judas ise makpola maka,0.8095,0.3659
+120,"Mmɔ ɔto ɔɣere ma sɔ, “Mi ndɛ̃ nna ɔbi ɣee nantsuĩ loakpase ɔbo i ibu ɣee iwo ame ku Iwarãyi fiɛ ɔ̃ibaɖi wũ i Iwarãyi nɛmɔ iso?",Mụ atụ anyị na mụ na gị ga-enwe mkparịta ụka banyere ihe ị na-eme na ndụ gị.,1.0,0.8105
+121,"Gɔ miisisɛ misiai ma i ara lalaa kaɖukaɖu wamɔ ibara ame ne, isɛ ibara ma ɣii ne ɔso masɛ matia mi ne.",Ka me si se me si ayi ara lala. Kadu kadu wa mu ibrahim ni. Ise ibrahim ayi.,1.0,0.4937
+122,"Gɔ Yesu ɔbo kudziri kayirinɔ ne, ɔtui ɔya, ɔkɔlɛ anɔ kato ne ɔɣere Zakeo sɔ, “Zakeo, so ba mala, alasɔ fɔ iyo loabo nɔme.","Kọọ yọsụ ọbụ okwu jịrị ka anyị rị nọne? Ọtụ ọya, ọkọlị anụ kaatọ na ọyere Zakiọsọ. Zakiọsọ, ịbụla. Ọsọfụa ịyụlọ agbọrọ nụ",1.0,0.6044
+123,Yosef ana ɔbɔrɛ i Nasaret ɔmagɛ̃ ame i Galilea karɔ̃ iso ɔkɛlɛ Betlehem ɔmagɛ̃ ame i Yudea karɔ̃ iso ngbegɔ maɣe igara David.,"Joseph awóré í Násárét ọmá gín ámí, í gálílí ákárú ísó ókálé Bétéléhém ọmá gín ámí, í Yúdé ákárú ísó ngbégó máyé ígrá Dávíd.",0.7826,0.2653
+124,Ɔwɛ̃ ɖe ɔ Farisise fiɛ ɔwɛ̃ ana ɖe lampofɔdze.,Ɔwɛn deɛ Farazi se fie wɛn anaade Lampo fɔ,1.0,0.3714
+125,"Ɣɛɛ bo ne, gɔ bofɔ Siwarã Bielea boɖe ɔso ne, boɣara so pɔkɔsɔɔ boto bonyɔ ɔri sɔ Ɣaa aanyɔ bo sɔ bose bɔlɔlɔ.","Eeh, biko nu, gaba ụfọdụ ndị bi ebe a bụ ndị ọcha nụ. Gwa ya na ọsọ ọs",1.0,0.8
+126,"Yesu ɔɣere ɔ̃ marasuãdze sɔ, “Ɔwi ɔwɛ̃ ame ne, ranase ɔwɛ̃ ɔwe gɔ ɔba ɔɖabo gɔ nsɛ ɔnyɔ ɔ̃ ara iso.",Jesu oyerewa mara asu Jesu. Onye nwe anyi na-asi onye obula gozie gozie onye o bu.,1.0,0.7042
+127,” Bielea ɔta ɔkɛlɛ ɔri gɔmɔ iso.,"Biele. E ya kpa bu oyiri Filipo so. Klerigo no bre yi Jerusalem, fi okifa fuya me oso kpa Gaza iso. Biele ota okle klerigo mu iso.",4.3333,3.4583
+128,Nwa ɔsia ita ɔsɛ sɔ ɔ̃abara ɔwiri ɔkigu i Kristo iso.,wɔ asɛntow sɛ ɔwɔ abra ɔwri ɔkigyi Kristo,0.9091,0.3902
+129,"Si bobo so ame kukaakɔ bokpa so ne, Ɣaa iibaɣɛgu bo atɔ̃me.","Sibi obosua me kuka kɔbɔ kpaso ne, ɛba a yɛguba to",0.9167,0.3111
+130,Mmaratedze ɔwɛ̃ ɔba Yesu kɔrɛ sɔ si ɔba ɔ̃ala Yesu ɔnyɔ.,"Metee jọwẹ ọba Jesu kụrẹ, sọ si ọba wa nla Jesu",0.9091,0.5116
+131,"Manyii, i ɔnukuare ame ne, loiwo mi ika ɔɖe lɛ mma i Ɣaa Siwarã to siɖe iso.","Le 1er mai, c'est la fête du travail.",1.0,0.8596
+132,"Si bobara i Ɣaa mmara iso ne, ite sɔ boto boɖɔɛ wũ, fiɛ ɔ̃ mmara iso ibara na ɔle.","Sọbọ mụ rā ịsọ nụ. Ịtẹ sọbọ tọbọ dọ ụnwu, fịe ọ mụ rā ịsọ ịbẹra nọọ.",1.0,0.6833
+133,"Ɣaa Siwarã lotã bo ngbã, ne ɔso mitã bosɛ ngbã i sɛ̃ kuɖɔɛ ame.",Ɛyɛ asɛm a ɛwɔ tabon ngua. Na so me tabon sɛ ngua yi sɛ kodo ya,1.0714,0.5745
+134,"Mi ma nɖe makɔse ana ne, mila mi maɖabo kukaakɔ si minyigi sɔ mi wũ miba Ɔkɔse i kato.","Me ma ne ma kɔsia na ni, me ra me ma da bokoo kaakɔ, si me yi gi sɔ me wumi ba okosie",1.1053,0.3182
+135,gɔ ɔse nɖe David gɔ ɔse nɖe Isai.,Cousin de David. Cousin de Isaac.,0.875,0.48
+136,Mibuai So I Imɔrɛ̃ Ame.,ko etiku obare,1.0,0.8235
+137,"Alasɔ si loɣere maturi Itɔ̃me Bielea fiɛ mafiniki ne, loito lobie sɔ maaɣere me i kawirikɔ̃ sɔ loikote.",,,
+138,"Itɔ̃me nɛ loto loɣɛ ne, ɔɣɛ loto sɔ si loabo maturi anɔ ɛɛbɛrɛ Ɣaa?","etutu me na-alutara onye ne, onye lutara si na abum aturu anaghi ebere akwa.",0.9286,0.6863
+139,"Ɔwi gɔ ɔ̃ɔnina ira biara nɛ ɔba ɔro kama ne, kukã siare kuwɛ̃ ɔbo i karɔ̃ gamɔ ɔɖuɖu iso gɔ itã sɔ kukã ɔkpɛ̃ wũ gbaã.",O wee gwa ha na ịra bịara na ọbá akwụkwọ kama na ọ ga-achọrọ ka e nwee ụbọchị karịrị otu ụbọchị izu. Gọọmentị asị ka ọkwa ụgbaa.,1.0385,0.7931
+140,"Gɔ mainya wũ ɔso ne, makpese makɛlɛ Yerusalem masɛ mapia manyɔnyɔ wũ.","Maa ma ịnyáwụ́ nsogbụ́ nụ́, m'akpọ́ sị m'aklé Jerusalem, m'asị m'apụ́ ya m'anyụ́ ónyé ụ́lọ́",1.25,0.4464
+141,gɔ ɔse nɖe Regu gɔ ɔse nɖe Peleg.,"Gonsende Regu, Gonsende",0.875,0.44
+142,"Kosore ɔba ɔ̃atu ɔ̃ ɔse ɔɣere wũ sɔ, ‘Tete, su wũ kaɖekɔ̃ ga loaɣo me si akpi tã me kiniɔ.","Kusiri ọbịa nwatuọnsị a bụ ịrụ nsọ. Tete, sụọ nka dị gị gaa nụ mee si akwụịta mụ kịni",0.95,0.5781
+143,"’ Nto loɣere mi sɔ gbaã ne, ngbɔ ame i Ɣaa makpabo ana aana isoɣɔ i kpibaradze ɔwɛ̃ saã gɔ lofiniki ɔso ne.",Mepre me so gbe anaa? Gbe me amakpagbo ana a na isuo ikwibra je onwesa,0.9545,0.5556
+144,Loto Ewodia gu Sinteke i kukpa sɔ manɔgu so ara karɔ̃ lɛ manyiibi i Bosate ame.,"Ndu ewu di a, gụsị nteke ikuku a, sọ mụ na gị sụọ ara ka ụnụ le ma nye ibe ụnụ satị a.",1.375,0.4194
+145,"Ne ɔso mi wũ mikpese Ɣaa maturi gɔ minɔ itɔ̃me gbaã, Itɔ̃me Bielea nɛ lobɔ mi iɖi.","Nọsọ mị ụmị kpẹsẹ a ma tụrị, gọmentị nọ itomẹgba a, itomẹ bi ẹlẹ a na lụbọ mị",1.0588,0.5323
+146,Ɣɛɛ su me bara lɛ fɔ maɖabo ma nsɛ mabara fɔ karabara ndɛ̃ ɔwɛ̃.,"Ɛsɔ me bra, na ɛfɔm adabo, ma nzem, bra fɔkara bra.",0.8571,0.375
+147,"Ɔluwɛ̃ ne, ɔrɛrɛ̃ ɔwɛ̃ gɔ i siwarã lalaa si iso fiɛ ɔwe i kasarɛkɔ̃ mmɔ ɔsiagu kulu teteree sɔ, “Yesu Nasaretse, be mpia i bo gu-ɔ ndɛ̃?","Owu nwe na, o riri onwe ya go isi nwa alala si isofia o wee kasa reku mu. O si agukulu tetere so.",1.0,0.5556
+148,Ɔbiara gɔ nsɛ ɔbara i Ɣaa mmara iso pia i Ɣaa ame fiɛ Ɣaa ɔ̃ wũ ɔpia i ɔ̃ ame.,"Obiara gwa nzi obara ga-amiri so pia ya ami, fie ya nwo pia ya nwo.",0.95,0.4643
+149,"Ikɔ nɛmɔ ame ne, Yohanes gɔ nɖe Zakaria ɔbi ɔfɔ silɔ ɔbɔrɛgu i Ɣaa kɔrɛ i fafuĩ ame.","Kwanan ma'ana, Yohanna's gonde, Zakariya obi ofor, silo obregu eya akure ife afuya",1.0,0.4615
+150,"Ɣɛɛ Yesu ɔɣere ma sɔ, “Midaanigã ne mme loɖe!","Ɛyɛ soɔ, erima soɔ. Me da ni ga ne mmelɔ",1.1111,0.3824
+151,Nsɛ lokarɛ wũ sɔ ɔbusi mi anɔ sɔ mianya nnɛ ɔso fiɛ ɔkpere mi ɔbɔ sɔ mianyɔ ne ɔri.,"N'ezie, ọkara nsogbu m ga-anọ, nsogbu m ga-anọzị ọkụrẹ m ọgbọ. nsogbu m ga-anọzị",1.0,0.7812
+152,"Gɔ ɔnya Yesu ne, ɔpɛ agɛgɛ̃ i ɔ̃ katɔ̃.",Ofe yɛ su,1.0,0.8846
+153,"Ne ɔso kuɖɔɛ si kuɖe nnɛ miatere misiai miɖo, ɣɛɛ mibie siwarã ame karatã mama ana titirio Ɣaa itɔ̃me kanya iɖi.",na nsokudwesiw kude ne me atre mishi a mido. Me bie si wura me karata mama anachitro itomekanya,1.0,0.3596
+154,"Kawirikɔ̃ ne wũ manyii, mitã mi adzuni si ayi ku ara wa nɖe asɛɛ, nwa lokote atã ile, nwa nɖe ɔnukuare, nwa lokote atã kuwarɛ, nwa loya, nwa iso i kuira iinina, ara wa nsɛ alɛ ɔnyɔ gu nwa lokote sɔ ɔturi aabara.","Ka obodo na-umuanyi, mita m ga-ajụ si aịkwa ara wa na-asị, nwaa lokota taịlị, nwaa nọnu kwari, nwaa lokota taịlị, nwaa lụọ ya, nwaa ịsọkwa ịra nịna, ara wa nza alọnyụ, nwaa lokota sọ otu ya abụọ",0.8837,0.4688
+155,Mito mipia kubɛ i awɛ̃ ame ɣɛɛ bobie sɔ boapia mi ɔtɔ i Bosate Yesu iyere ame sɔ mibara ngbɔ mibua.,"Mito, me pia ko be yi nwe me, bo bia so bua pia me oto, igbo sate yesu yere me so, me bra ngbo me gbu",1.1429,0.3377
+156,"Ɔwi gɔ lofe ame ne, ɔrɛrɛ̃ ɔwɛ̃ gɔ marɔ sɔ Teuda ɔbara so lɛ ngɔ lobua ɔnya.","O wee goro ya mmané, ọ rọrọ nwa ya gọọ marọsọ ti oda, ọ brasọlẹ ngọlọ bụọ ya",1.0588,0.5893
+157,"Ne ɔsu ndã ikɔi ne, gɔ ɔpɛ Ɣaa siba i ne iti ne, ɔsu ɔtã ma, ɔɣere ma sɔ, “Mifɔ minɛ.","Na o so ntanekwa ene, go up here asi ba yi na ite ne, o so otama o iri maso. Mife o",1.0,0.5593
+158,"Si boto bobara i Ɣaa mmara iso ne, iyɔ ite sekelee sɔ boɣe wũ.","Sɛ wotɔ borɔdɔ a, ɛyɛ amirika so na ɛyɔ. Ɛyɔ a, ite sakle so. Ɛyɔ",1.0714,0.6383
+159,Ɔrɛrɛ̃ ɔwɛ̃ gɔ nrɔɔ̃ gu ngba loɣe ɔba ɔ̃ kɔrɛ.,"Onye na-enweghị ike uru gị ụgbà, lee ọba gị",1.0,0.875
+160,"Ɔwi gɔ mapia i Betlehem mmɔ ne, Maria ɔwi ɔɣo sɔ ka ɔ̃aɣe ɔbi.","Oga, maapia i betelhe umuoni. Maria owere o so ka awo i obi",0.8571,0.4565
+161,"Ne ɔso si wũ isoɣɔ aayi ne, mitã mi adzuni si aɖe awɛ̃, miwe kuɖɔɛ kuwɛ̃ mitã so, si mibara mawɛ̃ i mi siwarã gu kurabarara ame.",Mete m'a ju ni si a de awon. Mi we ku de ku we mete so. Si mi bra ma we imisi wura gu koro ra bra ra,0.963,0.4737
+162,"Makarɛ wũ sɔ, “Mme iwawãra aabara ate bo bonya fiɛ boafɔ-ɔ boɖe?",Maka gịnị so? Mụ onwe m abụghị atụgbogbo ya. Fịabụ afọ bụ,1.0,0.6122
+163,Lofɔ loɖe sɔ ɔto ɔ̃aɖe ɔturi bielea ɔtã-ɔ lɛ ɔsande gu ɔnyii i Bosate ame ana.,"Na follow dis one, otu a di otu iri bile otu na Osandegwu onye Igbo satia me ana.",1.0625,0.4833
+164,Bo Ɣaa sɛ ɔɣara so pɔkɔsɔɔ fiɛ ɔba nnyainyɔ.,"Bụa, so a raso pokoso fia oba nya",1.0,0.4857
+165,Ne ɔso wũ mabi mirera so kama i iɣɔsɔrɛ kɔrɛ.,"M'asomabi, me rere so ka ma yi yosurokoro.",0.9,0.4
+166,Makpakpɛ̃dze ɔkpakpa gu kaɖe makpakpa ɔsiai ma kama.,ma agara-ara si ya ma ba atomikaya kowu ma kwapuje ogwapa agwu ka de ma kwapa osi ya maka,2.25,1.1163
+167,"Manyii, boto mi i kukpa sɔ misu kuwarɛ mitã mi matɔ̃ɖedze ma nto mapia kubɛ mate mi Kristo masiaidze ngbã isɛ ara.","M'anyi, botomi kupaso, misuku are mitan, mima toreje ma ndo ma piakobe, mate mi Kristo ma sieje ngba ise",0.8182,0.2667
+168,"Alasɔ Ɣaa sigara iɖe na i akaɖe kunu ame, ɣɛɛ ipia i ɔle ame.",Aka de kunu ame ipia yole,0.7857,0.6304
+169,” Ne maturi inyɔ mamɔ ana ɔɣɛ ara wa manya i ɔri gu kumɛgɔ ɔɖi so ɔte ma gɔ ɔkpɛti boɖoboɖo ɔtã ma ne.,"Na mmatri ịnyom a mụ, anaghị m arawa manya, ịṅụrị gị kụọ mụ egọ ọ dịghị so otu ịma, gọọ ọkpeti bodobodo ọtama",0.9565,0.5065
+170,"Ɣɛɛ ne, ise pɔkɔsɔɔ sɔ kato gu karɔ̃ aawã iɖo sɔ maakpasera mmara kakpoi kosoi tsɔra maɖi.","Eeh nee, ịsị pọkọ sọọ sọ ka tọgụ karụ ańụa, ịdọsọọ ma kpásịrị a. Mmịra ka kpe ị kọ sụọ ị chụrụ a ma",1.4118,0.5493
+171,"Iiɖe sɔ ɔnya ko inya sɔ loana ɔturi awune ɔɖe me aɖansiɛ, ɣɛɛ loto loɣɛ ngbɔ sɔ si miana iɖi.","I de so, oya ko inya so, lu ana otu ya nwe ni, odi me adansi ya. Ee, loturu e ngbo so si me ana idi",1.1,0.4167
+172,Ɔrɛrɛ̃ ɔwɛ̃ ɔwe mmɔ gɔ marɔ sɔ Yosef ɔbɔrɛ i Levi ɔɣekparɛ ame fiɛ ɔbɔrɛ i Kipro karɔ̃ iso.,"O buru na o wee wee mụọ gọọmentị ọhụrụ Joseph, ọ bụrụ ịlevee oge gara aga, ị ga-ahụ na ọ bụrụ ịkipro ka arụrụ ya.",1.3158,0.8261
+173,"Gɔ bo ayi wa boawegu ma ɔɔsɔ̃ fiɛ ka boarui ne, mafɔɖedze gu ma mare gu mabi ɔkɔ bo makɛlɛgu ɔpo katɔ̃, ne bo ɔɖuɖu ɔpɛ agɛgɛ̃ bokparama kayi ne.",Ka gwa gị wa gwa gị gụọ ọsọụfie ka gwa gị na ma ọfọdụ e je gụọ mama regụọ ma bị ọkọ ọbụ maka gụọ ọpụka atọ. N'ebe ọrụ dị ọpe agaghị enye gị bụkwa maka gị.,1.1333,0.6636
+174,"Ɣɛɛ mifɔ ne lɛ Ɣaa itɔ̃me fiɛ ɔ̃ itɔ̃me iɖe gbaã, ne ɔso ibɔ ikpaki siare ana i mi mafɔɖedze ngbã ame.","Mifɔ nɛlɛ ayitome, fiawoyitome degban. Nɔsɔe gba ikpakisiariana imima fɔdeje ngban",0.9545,0.3553
+175,Alasɔ ɔ̃ nsɛ ɔtã kuɣɛ̃ ɔbɔrɛ kutã maturi sɛɛ gu malalaa ɔɖuɖu fiɛ ɔsɛ ɔtã kado ɔpɛ ɔtã maturi bɔlɔlɔa gu maturi nyanyarĩa.,"Malala, 11 ọtá kween ọbụrè k'ọtá matrisè gụ Malala ọdụdụ. Fịe ọse ọtá ka dụ ọpe ọtá matrisè bụlụlụ gụ matrisè nyanyarị.",1.0,0.5361
+176,"Ɔluwɛ̃ ne, makpakpa sinyɔ-ina ma nsi i ma sigaraiyara iso i Ɣaa katɔ̃ ɔta makɔlɛ mafu i ɔ̃ katɔ̃ male Ɣaa.","Ọlọwọ ẹ, ma papá si yọ iná mazi, i ma segra iyara iso iyá ikatọ. Ọta ma kule ma fú iyọ katọ ma le a.",1.0476,0.3544
+177,"Ɔwi gɔ i Elisabet kayiri ɔɔfɔ awa akuɔ ne, Ɣaa ɔpia ɔ̃ kpabo Gabriel sɔ ɔkɛlɛ ɔmagɛ̃ gɔ marɔ Nasaret i Galilea karɔ̃ iso.",Onye isi Elizabeth nke iri na abụọ akwụọla ya ọpụrụiche bụ Gabriel so oké ọmarịcha Nazaret na Galili ka ruo,0.9583,0.5806
+178,"’ ne, ɔ̃ ame i Ɣaa ɔpia sɔ ɔsɛ ɔ̃aɖi ma si ɔkpese Ɖidze gu isoɖedze iki i Ɣaa kpabo gɔ ɔnya i kadzirimi ga nto katsue kɔrɛ ne.",ɔ ameyia ɔpiaso ɔsɛnwa di mansi. Ɔpɛsɛ DJ Guiso deɛ je. Ika yi akwa bɔgɔ ɔnya. Ika jiri mii ga ndu ka chuɛ korɛni.,0.9286,0.3871
+179,Ma gu bo ɔnyii ɖɔɛse Onesimo gɔ bofɔ boɖe fiɛ ɔɖe mi ndɛ̃ ɔwɛ̃ to maba maaɣere mi ara wa ɔɖuɖu nto akɛlɛ i katɔ̃ ngbe.,"M'agubọ onye ịdị asị onisimo, gọbọ fọbọdị, fịọdị mị ndụọ we. Tọma ba ma eremị, araba dụrụ ndụ akụlị ka tọma",1.0,0.4944
+180,"Gɔ mato makɛlɛ katɔ̃ ne, ɔkolo katɔ̃ ɔsɛ iamɔrɛ̃ i iwarĩ ame sɔ ɔ̃isito ɔwo ɔsɛ.","Koma to ma kale ka toni, o koro ka toni o se ya mori i iwari ameso wisi to owo",1.25,0.3898
+181,"Ɣaa ɔɔsu mma ɔɖuɖu mpia i ɔkolo ame ngbã ɔpia-ɔ i nrɔɔ̃ ame, mi kuwɛ̃ iibakpi.",Osu marun ru ubi ayo kulu ami ngba opia uron ami mikwe oyibo,1.0,0.569
+182,"Nnɛgbe kama ne, gɔ ma Yudase to maɖe ma iyi iwɛ̃ ne, Yesu ɔsɛ Yerusalem.","Naa beka maane, gɔ ma yuuda se, tuma de ma iyi inwɛne. Yesu osɛ Yerusalem.",0.6667,0.1667
+183,"Gɔ makpere Paulo ne, Tertulo ɔtsɛ ma kanya iɖi sɔ, “Ɔbea, ɔwi dzoroo nɖe ngɔgbe gɔ bopia i isobuɛ ame ala fɔ iwola nɛ asu aɖegu bo katɔ̃ ɔso.","Kedu ka ịkวrว Paulu n'ụlọọgwụ maka nsogbu anya ịdịso? Ọbịa, ọwụ ịjụọ ịdị ngọgbị, ngọgbị pịa ịsọ gbu ya mee, ala fọọ ịwụla, na asụ adịgwu gbo ka tọọ asụ.",1.0,0.6542
+184,"Kokooko ne, Ɣaa iiɖi ara wɛrɛa wagbe ɔte maturi, ɣɛɛ kiniɔ ne, Ɣaa ɔɔki i ɔ̃ Siwarã iso ɔɖi ɔte ɔ̃ katɔ̃memasɛdze sekelea gu ɔ̃ kanyamaɖidze.","Koko kone, eedi a ra wura wa gbe ote ma tri. Ee kino ne, oki onsi wura iso odi ote onka to me ma se je se clear guo ka nya ma di",1.2308,0.3889
+185,"Ɣɛɛ sɔ lona i Mose mmara kayirinɔ ne, losɛ lɛ ngɔ nsɛ ɔbara i mmara iso sɔ si loawo ma ɔkpadzɛ̃ ɔbɔ Bosate kɔrɛ.","Solo na im o se imura ka iri na ole. Lo se le ngo nze obula i mura isu, so si lu awuma okwaje ogbo bu sati",1.0417,0.4302
+186,"Si maturi mama to mana kusia gɔgbe igbã i mi iso ne, iikote sɔ bo wũ boana ngɔ losi kuɖo?","Si ya mụ atụrụ amụta mana mụ na ya kwụsịrị, ọ bụ mgbe ahụ na ngọlọ sị kụdo",0.95,0.6912
+187,"Ɔwe i mmɔ ɔ̃ ɔnɔwɛ̃ ayi sina, ne Ɔbosam ɔba ɔ̃ala wũ ɔnyɔ ne.",O wee maa ọnọ nwe anyị sị na na ọbụnsawụ ọba nwaala nwụọ onye,1.0,0.6512
+188,"Mi ne, maturi ara inyɔ kanya misɛ miɣɛ mi atɔ̃me, ɣɛɛ mme ne, loisɛ loɣɛgu kuwɛ̃ atɔ̃me.","Me ne, matriara enyuka nya, mise me ya mi ato me. Ewu me ne, lo ise lo egwu ku ya ato",1.0588,0.3385
+189,Minya i wũ ara ite ame ɔɖuɖu sɔ loiɖe ɔturi gɔ nsɛ ɔɣɛ atɔ̃me siare loɖe.,Minyanyi wa write ya me oruru solo ede othree guns oya ato me si ya re lodo,1.0625,0.4464
+190,Bosɛ boɣɛ ana kumɛgɔ mibua misɛ mibuai maturi i kuɖɔɛ ame fiɛ misu mi ɔriinyɔ mipia i Bosate Yesu Kristo ame teteree.,"Bụsa mụ bụ onye a na-akpọm ego m bụrụ amụ, ị sị m bụrụ ya matụrụ, ị kụọrọ mụ ihe mụ sụọ, ọrụ ịnyọ mụ pịa gị bụsa te, Jizọsị Kịristị a mụ tetere.",1.5455,0.6316
+191,"Ɔmagɛ̃ gɔmɔ ame ame ne, kuɛdze ɔwɛ̃ pia gɔ ɔsɛ ɔba atɔ̃meɣɛdze kɔrɛ ɔba ɔ̃atã wũ iti sɔ, ‘Buai me ala wũ matsirise ɔso.",ama ka gwa mu ama ya emere. Ka eji onwe pia gọọ ọsọ ọba atụmọ ejikere ọba nwata nwiti sọọ. Gbe me ala nwụma chirisi ọsụ.,1.0,0.5568
+192,Maturi to maasɛ̃ kulele ala ifɔ̃ nɛ nto ma gɔ maiɣe nnɛ nto iaba i kayi ɔɖuɖu iso ɔso.,Mmalite nke mgbakọ na mwepụ na-amalite site na ihe ndị a na-akpọ ihe ndị bụ isi ma ọ bụ,1.0,0.8462
+193,Ɔkidza wũ ala ara nyanyarĩa mama wa ana ɔto ɔbara ɔso.,"ɔkwan jam a la ara nyame nyan, ma ma wa ana oto obraa",1.0,0.3953
+194,“Ne ɔso ɔkpere mma ɔɖuɖu nto ɔ̃ ɔkɔse kuso ɔwɛ̃ ɔwɛ̃.,"Na so akwụkwọ nwụrụ ọdudu ntị ọkọsekụsọ, ọ nwụọ.",1.0,0.7368
+195,” Ɣɛɛ makpakpɛ̃dze ɔkpakpa ɔfɔ ɔkolo kãse gu ɔkolo sate adzuni ɔɖo nnɛ i Paulo ɔɣɛ.,Ema kwakwa eje ogwakwa ofu okoro ka nsegwu okoro sate ajiri odu une i Paul.,0.9333,0.5231
+196,"Si lokpi kɔra ne, ilɛ me iɖo sɔ ɔturi aanyɔ ira nɛ iso loawo ndamu ɔɖe pupurii.","Soro kweekwuala ne, ịlaa ma ịdoso",0.9412,0.7869
+197,"Wã nɖe sikpã, sikpã lalaa, ituritsiri, fiɛ iikote sɔ sitia, ɣee itsuɛ pɛ̃ kuiwɛ̃ aabɔrɛ mi i kanya.","One, three, seven, seven, three, three.",1.0,0.8533
+198,“Ɣɛɛ loba aɖansiɛ wa mba ɔrɔrã aɖo Yohanes ɔkpɛ.,"Ɛlɔba dansiɛ, wa mborɛra aduyo anesɔ",0.8889,0.3947
+199,"Matsɛrɛ lɛ kumɛgɔ i mma lonya Itɔ̃me Bielea karɔ̃kasɛkɔ̃ ɔɣere bo awe, fiɛ mato maya ne isã ana.",Machelai kume go i umuonye itom ebiara kariri sekun oregu aweh fie matoma ya ne isa ana,0.8333,0.4054
+200,Kristo loɖe katɔ̃ iyɔ ne kama mma lofɔ wũ maɖe ata ku ɔwi gɔ ɔ̃aledza ikpese iba.,"Kristi soledaka ton, iyọ ni kama, mbalufo ụmadi, ata, k'owigo wa leja ikpesi igbo.",0.8824,0.4032
+201,"Midaanigã mi matsirise, ɣɛɛ miya teteree ɔwi biara ame.","Me daa ni ka me maakye wo se, me yaa tetere, owi biara",1.4444,0.4444
+202,"Ɔrɔ̃go gɔ nyiri kurã ne, ɔna ɔri ɔyiri kurã mama ku ɔwi gɔ i ɔ̃ ɔrã kuere si ngbã.","Ọnụ gọgọọ gị rịkụọ na ya, ọnọrị, ọyịrịkụọ mama, kụọ igwe anyị ọnakwere si",0.8947,0.7
+203,"Mi maɖabo ana ne, mikã mi karɔ̃ iso makɔse atsue i ira biara ame.","Me m'adaa bua na naane, me ka me ka woyiso m'akɔsi akyiri, iye rabiarah",1.0,0.4694
+204,"Ne ɔso misɛ miaɣere ɔ̃ marasuãdze gu Petro ana sɔ, ‘Yesu ɔɔɖe mi katɔ̃ ɔkpa Galilea karɔ̃ iso.","N'ọsọ mịsị mịsị a, ịrọ marasụ a je, gụpetụrụ anasọ, Yésụọ demịkatọ kpa Galili a karụ",1.0,0.4648
+205,Karɔ̃ gamɔ iso maturi ɔnyɔ bo nnya mafɔ bo kukaakɔ.,"Karunga mo isoma tree, onyobo onya, mafo gbo kwuka",1.0,0.375
+206,"Nnɛgbe kama ne, Ɣaa to ɔ̃akɔ bo ma lokuti bopia ngbã ɔkɛlɛgu bosɛ boatu mma loɔta fiɛ boasɛ boasarɛgu Bosate i kuɖokpo.","na-egbu ekwensu na ya mere akogho mmadu kwụrụ otu gbuo pịa ngwa. Okorobia gbuo isi gbaa atụma ruo taa, ihe gbara ase gbara sari gbuo isi ha taa ekwudo",1.3182,0.7895
+207,Maturi to maabɔrɛ i kuɣɛ̃kabɔrɛkɔ̃ gu kɔ̃ iyo kabokɔ̃ maba.,"M'adwene tumi abue kwan ka abue kwan, gukwan yuo ka bu kwan maba. M'abue kwan ka to gukalaise",1.7,1.1333
+208,Ɔbusi kanya ɔɣɛ amusuora i Ɣaa gu ɔ̃ iyere gu ɔ̃ kasɛkɔ̃ gu mma ɔɖuɖu mpia i kato iso.,Obosi ka nya oya mosoro anyi iya guo iri guo kasekọ guo mmadu dudu mpi anyi ka to iso,0.9474,0.4062
+209,Ne ɔso masia ita sɔ maaɖoe katɔ̃memasɛdze magbe.,Me so much chai taso ma adwe ka to me massage ma,1.5,0.4359
+210,"I Kristo ame ne mise lɛ mma matu sirɛrɛ̃, fiɛ iiɖe kɔrɔ̃ masu matu, ɣɛɛ mi akpi wa manukutu maɖi mi iso nɖe sirɛrɛ̃ dzɛ matu mi i Kristo ame.","Kristo Ameni. Misa ele mamatuse re, fie ide koromasu matu. Eh, mia kpi amanukutu madi mi so ne sire je matu mi i Kristo Ameni.",0.7667,0.2736
+211,"Be ɔso makpese mato maɣere mi sɔ daabara nnɛgbe, daati nnɛgbe anyɔ, ɣee daapɛgu nnɛgbe?",Meso ma kyerɛɛ me tumi a ɛremi so daa bra na ɛgye daa ti na ɛgye anyu ɛda pekunu na ɛgye,1.4,0.3857
+212,"Ne ɔso ne, matã wũ mmuai sɔ, “Boiɣe ngbegɔ ɔna ɔ̃ ɔle ɔbɔrɛgu.","Nọ sọle, mọ ta ụmụ anyi sọ? Bụ ịhe ngbọgọ na-ọlụ",1.0,0.6444
+213,Masu so mabua i mma lofɔ Ɣaa maɖe iso ku iyi nɛmɔ.,"Kuyọgọlọ tali pị, kụ ịntụkụ abịra kpịna, ọgbara tịto arẹte lẹ ịma, fịekụdọkpọ ọlịsate ịyịsịarị nịmụ.",1.3333,1.7632
+214,"Lɛ kumɛgɔ ise i mafɔɖedze ikuri biara ame ne, marɔ̃go si malo i mi kasarɛkɔ̃ sɔ maibaɖe ika.","Maka m gwara gị sị na m fọdụrọ ejikwuru bịara Ameni. M ka sị na mụ na gị mikasareko, so m ga-abịa na",1.2778,0.6338
+215,Ɔ̃ ɔkpɛ nɖe kuwarɛ gu ɔle ɔwi daaro.,ɔpɛn de kuare gule owia,1.0,0.4074
+216,Masia ita sɔ bokɛlɛ mma loiɖe ma Yudase kɔrɛ boaɣere ma Itɔ̃me Bielea si ma wũ makɛlɛ ma Yudase kɔrɛ maaɣere ma.,"Masiya taa so bu klee, m'alụọde ma Judas Iscariot, bu ayịrị ma itume bia ịlịa. Sị m ma ụma klee ma Judas Iscariot ma ayịrị",0.9545,0.5281
+217,Nnɛ i Herodes ɔbara i ne kama gɔ inyanyarĩ iɖo nɖe sɔ ɔtã mamɔɛ̃ Yohanes mapia i iyo.,"Unde Herodes obughi nekwa ngo inye nyari ido unde so, ota ma mme Yohane mapia ya.",0.8889,0.3788
+218,Botã Ɣaa gɔ nsɛ ɔtã bo isobuɛ iti sɔ ɔbara mi sekelee i ɔri biara iso.,"Mpotá ágọ́nzè ọtá bọ́yìsọ́ óbụ̀ yà itísọ́, ọ́bụ̀rà m̀sèklè yọ́rì biàrà",1.0,0.6852
+219,"Nwagbe kama ne, lonya iwawãra mama i kato nɛ mba ɣii gbaã.",wa gbe ka ma ni lo nye yin won wa ra mama ikato na mba yi igba,1.3333,0.2444
+220,"Ne ɔso si mafɔɖedze ɔɖuɖu ɔba maasakanya fiɛ ɔbiara ɔtsɛ siɖe agbãagbã iɣɛ fiɛ mma loiɖe mafɔɖedze pia i mi ndɛ̃ ne, maibaɣɛ sɔ mito milala?","na ozi m afọdụrụ ji odudu be m asake ya. Ife ọ biara oche si na agba agba ya, ife m na-eledi afọdụrụ ji pia ya mịndene. Ma ịbanye na ụlọ ọrụ m na",1.2692,0.6071
+221,"Mainyagu wũ ikpi kuiwɛ̃ nɛ ɔso maatã wũ kukpi ipɔ, ɣɛɛ maɣere Pilato sɔ ɔɖoe wũ.","M'enyi na gu ipkwi we na iso ma tanku kwi ipo, ehh, ma ire Pilatus odum.",1.0,0.4839
+222,"Si ngɔ loiɖe fɔɖedze ɔkpere-ɔ sɔ ba ɖegu wũ ara fiɛ atɔrã sɔ aasɛ ne, ibiara nɛ ɔtã-ɔ sɔ ɖe ne, ɖe ɣɛɛ daakarɛ anɔ sɔ isekele ɛɛbɛrɛ iisekele.","Si ngoli di fọdụ ejị ọkụrụ ọsọ baa degunwa ara, fie atụnsọ a sị na ibiere na ọtọ ọsọ di na di e da karị anụsọ ise kịlọ ebre ise",0.9655,0.5321
+223,Mmɔ iɖe bosu ɔkolo ɔwɛ̃ gɔ nto ɔkɛlɛ Foinike ne.,O nweghi ebe o su okwu o nweghi go nto okwu ya fụrụ niile,1.3,0.7568
+224,"Ne ɔso makpere katɔ̃memasɛdze mabɔ ma ndɛ̃, ne mapɛ ma maɣere ma sɔ madaasiɖe ika kuiwɛ̃ i Yesu itɔ̃me iso fiɛ manyua ma ne.",Naa so m'akpụrụ ka tọọ mụ asụsụ ndị na mụ apụghị ịma ama iri mụ asọ ma daalụ sị na ị ka kweere ị Yesu ị tọọ mụ ị sọ.,1.2083,0.6526
+225,Ma nɖe mma nsɛ masiai Sɛrɛrerɔ̃ Ibi makɛlɛ kakɔi biara ga ɔsɛ ne.,Maanemã zama si a isire rọ ibi makle ka kọ ibiere aga ọse,0.9231,0.3725
+226,"Ɔkpakpa gɔgbe ɔfɔ bo ku isoɣɔ, ɔnyɔ bo iso akpɛnɛ atɛ ɔɖuɖu.",akwukwo ago gbe ofoboku isoyo onyo bo iso akpene ate odudu,0.8333,0.383
+227,"Ne ɔso matsɛ Yesu kama iti, alasɔ ɔsa ɔturi ku Iwarãyi.",Na so much Yesu kama itii. Ala so osorutriku iwa,0.8182,0.3953
+228,"Nnɛgbe loatã sɔ miawo nnɛ nlɛ iɖo ɔɖi, sɔ iyi nɛ i Kristo aaba ne, ɔ̃anya sɔ mise sekelee fiɛ ɔ̃ibanya ikpi kuiwɛ̃ i mi iso ne.","Nwekwara taa so mụ na unu na-edo odi. Sọ ị na-ekristi abanye, nwanyị a so mụ sị sekiri, ya onwe ya banye ekpikwi, ya onwe ya mịsọ.",1.0,0.6632
+229,"Ɣɛɛ si Ɣaa Siwarã ɔle ame nto losa siwarã lalaa ne, mitsue kukaakɔ sɔ Ɣaa sigara ɔɖewi ɔɔba ɔ̃abo mi ndɛ̃.","Esi a si nwura ole a me ntoro sa si nwura lala ne, me cho ku ka ko so a si graude wi o ba ogbo yi",1.1905,0.4268
+230,"Ɔse mɔmɔ iisɛ ɔɣɛgu kuwɛ̃ atɔ̃me, ɣɛɛ ɔsu atɔ̃me iɣɛ ɔle ɔɖuɖu ɔpia i Ɔbi nrɔɔ̃ ame.","Ọ sị m na mụ ise ọ egwu kwụ e ya atụmị. Ọ sụ atụmị ya ole ọdịdụ, ọ pịa ya ọ bịa nwụọ.",1.4118,0.7581
+231,"Ne kama ana ne, kuwɛ titiiti kuwɛ̃ pia i bo gu-ɔ inyɔ ndɛ̃.",Nekama anane kuwe titi kuwe pia yigoguo,0.9231,0.3571
+232,"Mawɛ̃ ɔkarɛ sɔ, “Be iɖe boabara mmagbe?",Mawu kae so,1.0,0.7586
+233,Nto loɣɛ nnɛgbe si maana katetere fiɛ maabara mawɛ̃ gu ma malaa i kuɖɔɛ ame.,"Ndu ruo na mgbe chi mara ka tete, ihe m na-abụghị gụmụmụ ala, a kwụdọọ ya",1.0667,0.6
+234,Ne ɔso Maria ka ɔwegu Elisabet awa atɛ ɔɖui fiɛ ɔkpese ɔkɛlɛ ɔ̃ aɖe.,"Na so Maria ka o wee gwa Elizabeth ahụwa ate ọdị, ya okpesi okèle ọṅụ adị",1.0,0.5283
+235,"Ne karɔ̃ ana nɖe sɔ, Kristo mafɔɖedze ma loɔkpi ana ɔwɔ.",ne kwanan nan ne so Kristoma fori ji malokwu ya na,0.9091,0.4419
+236,"Ɣɛɛ ne, Ɣaa ɔwegu wũ, fiɛ ɔɖi wũ ɔbɔrɛgu i ɔ̃ inyɛwe ɔɖuɖu ame.","Ene, ya owu egwu. Ife odinma, oburo egwu anyi nyere gi odudu ama",1.0,0.7174
+237,“Bosate Ɣaa ɔle ɔɖuɖu Sate gɔ mpia fiɛ ɔ̃ɔwe ɔnya.,"Bosa te alee aduusa te, gɔm biafiɛn we",1.0,0.3684
+238,"Maturi gbodzoo ɔba maasakanya i mmɔ ana, ne ɔte ma Itɔ̃me Bielea lɛ kumɛgɔ ame ɔsɛ ɔbara awe ne.",Maltri Bojo ọba ma asakanya mụ ana. Ne ọte ma itọme bia le ale kume gọ ame ọse ọbra awe,0.8421,0.2933
+239,"Si Timoteo ɔba mi kɔrɛ ne, mifɔ wũ kukaakɔ alasɔ Bosate karabara kaɖe ɔto ɔbara lɛ kumɛgɔ nto lobara awe.","Timoteo ba mi kuro ni, mi o fe nkankan ko, alaso busa ti karabara, ka di otobra, leku mego undulubara awi",1.0,0.3571
+240,"Alasɔ ngɔ loisɛ ɔwarɛ Bosate Siturina fiɛ ɔsɛ ɔɖe boɖoboɖo gɔgbe ɣee ɔnɛ i ikɔi nɛgbe kanya ne, ɔsɛ ɔɖe, ɔnɛ atɔ̃me iɣɛ ɔtã so.","A na-asị na ọ bụghị sọọsọ otu onye na-eme ihe a, kama ọ bụ ọtụtụ ndị na-eme ya.",1.0,0.8182
+241,Ɔrɛrɛ̃ ɔwɛ̃ rɛ i mmɔ gɔ ɔto ɔnyɛ akɔ sitɛ farafana.,Onye na-eme ihe nkiri Nollywood bụ Oge Okoye sị na ọ fọrọ nke nta ka,1.3636,1.1842
+242,Ɔɖoe wũ alasɔ ɔ̃ ɔnyiibi ɖe ɔturi bɔlɔlɔa ɣɛɛ ɔ̃ ɔɖe ɔturi lalaa.,"ɔduru nwaa lasɔn yi bide ɔtrie brɔlɔ a, ɛnɔ di ɔtrie lala",1.0,0.44
+243,Ɔɖe bo rabaradze laa gɔ lobara Kristo karabara i ɔnukuare ame i bo kanya.,"Ode akwụkwọ abụọ jị laa, gọlụ abụọ Kristọkara abụọ yọ nụ kwaria, mee Igbo ka enyi",1.0714,0.5763
+244,“Ɣaa makpabo ɔɖuɖu si masɔrɛ wũ.,Ea makpa bu odudu si ma soro ya. I makpa bu eso na ya o eso. Losi,2.6667,1.32
+245,Ira iwɛ̃ nɛ nse lɛ ɔtɔ sinyagɛmi ɔɣɛɣɛ so iba iasia i ma ati iso.,Ihe a i na-enyele ọtọ si ya ga-eme ọ ga-eso ịbụ aṅa si anyị ma atị,1.0667,0.5918
+246,"Ngɔi mɛ boisɛ bowarɛ ne, me kɔra bosɛ bodzuɛ̃ kukaakɔ boɖo ne.",,,
+247,Katɔ̃memasɛdze ɔbara awawãra gu akparĩ gbodzoo i maturi ndɛ̃.,Tụwe mmasị dị ọbụra a na-aragụ akparịgbojo ịma,1.0,0.52
+248,"Gɔ mabore mabo ɔmagɛ̃ kosoi gɔmɔ ne, Yesu ɔbara lɛ ɔfe ɔto ɔfe awe.",Gọọmentị Brama bụ ọmagi nke o siri gọọmentị. Jizọs ọ bịara lee ọfị ọtọfị a,1.0714,0.7255
+249,Makɛlɛ Felike kɔrɛ sɔ maaɖi Paulo aɣɛrɛ ɔɖuɖu mate.,Maka na Felike kwesịrị ịbụ Paulu anyị hụrụ n'anya dị ndụ,1.1111,0.6905
+250,"Kiniɔ ne, sibɔlɔlɔ dzɛ loba ne, lofɔ sɛ̃ lokigu i Kristo kafɔkaɖe ame, sibɔlɔlɔ dzɛ lobɔrɛ i Ɣaa kɔrɛ ne, kafɔkaɖe iso siki.","Nke na-enye si na ọ bụrụ na ị lụọ nwaanyị, ị fụrụ ya n'anya, ị lụọ ya na ụbọchị ahụ kwesịrị ka ị fụ ka e si sị",1.2174,0.8021
+251,"Miisɛ mimɔɛ̃ ɔ̃ itɔ̃me mipia i mi situ ame, alasɔ miifɔ ngɔ ɔpia katɔ̃me miɖe.","Mese me mmaa no ntoma me, me pia imisi tua me. Alasɔ meefɔɔ mu gɔɔ pia ka tumi me",1.2,0.3966
+252,"Alasɔ i mi ngbã mɛ ame miɖe mawɛ̃ ku Kristo ne, loɔkpese mi ɔse ala mme losu Itɔ̃me Bielea lobɔ mi.","ala so yi mi gba me, amen mi de ma nku kristo ni, lo pe se mi ose, ala me losu ito me bi la lu bo",1.0476,0.28
+253,"Si mibara ngbɔ ne, iyɔ mito miawe i sinyii ame ku Ɔse gu Ɔbi inyɔ.","si me brangboni, eyoo me tumi awo isi nyii ameku ose guo bi nyii",0.9333,0.3
+254,"Ɣaa atɔ̃me iɣɛyi ɔɔɣo, fiɛ Ɔ̃ maturi iso iasɛ karɔ̃.",Ya ato me iyi ayie owo. Fie omatri iso ya,1.0,0.5
+255,Ɔ̃ nɖe ikpawaĩ nɛ loaɖi fɔ kuɖɔɛ ite maturi ma loiɖe ma Yudase ne.,ma ne kpa wɛɛ nɛ la di fɔ kudo ɛte ma tu ri ma le de ma Judah se,1.0714,0.3529
+256,"I ɔri gɔgbe iso ne, ato aɣɛrɛ Kristo sɔ atã manyii fɔɖedze ma kafɔkaɖe nna ɔle to maana imararãso i ma situ ame.",Ya bu na i ga-agbe iso na atare na Kristu so a ta ma ya ife di je maka na afo ka di nno le to ma na i ma na so i ma si tu,1.3913,0.4318
+257,"Ne maɣere wũ sɔ, “Yohanes itupie itɔ̃me nɛ ɔɣɛ iɖe bofɔ.",Ne ma ye dεn so?,0.9091,0.8095
+258,Ɣɛɛ mitã bosu bo isɛguso bobuai so iso i kuɖɔɛ ame.,Emi ta mbu subo iseguso gbo gbe so iso iku ru ya,0.9091,0.425
+259,"” Ne gɔ Yesu ɔnya sɔ mato mabie sɔ maaba maamɔɛ̃ wũ sigara i so ɔle ame ne, ɔrui i ma kɔrɛ ɔkɛlɛ kube iso ɔ̃ ɔnɔwɛ̃.",na gɔ Yesu ɔnyansɔm atɛm abie sɔm aba ma amɛwu si gya yi so lee amɛ ne ɔru yi makrɛ ɔklɛkuba so,0.8462,0.2738
+260,"Mila gu adzuni nyanyarĩa ite maturi, sirerɛ ikpɛ̃ gu sitia si sidaawe i mi ndɛ̃.","Milla, gu ajuninyanya ite maturi, sireraykpe gu si siasi si daawe imin",0.6667,0.1935
+261,"Wũ mabi ɖɔɛse, mikɛlɛgu i katɔ̃ miwe i ɔ̃ ame sɔ si ɔwi gɔ ɔɖusi ɔbɔrɛ ne, boawo ɔya i ɔ̃ katɔ̃ ku katetere fiɛ kunuarɛ iibakpɛ̃ bo.","Mema me dabi ase, me kyerɛw krataa mehyɛ wo ama. Sɛ osi a, wigu odusi obroni. Bɔɔ yaa yi katakyi kuo katakyi, fie kunware yi ba",1.0,0.6392
+262,"Loito lonyɔ ɔri sɔ iyo kere maapia me i Bosate Yesu iti, ɣɛɛ lotɔrã sɔ maɖoe me i Yerusalem ala ɔ̃ ɔso.","Le 30 juin 2010, il y a créé ma piano église à Jérusalem à la",1.0,0.7215
+263,Mamɔɛ̃ ma kubarara mama mato i akɔi gu awabui gu ndu abui ifore iso.,"Mụ onwe m akụbọrọ ará mama, mụ atụọ ị akụọ egwu awá agba ị, gụọ ụdụ agba ị ifụrụ ị",1.3571,0.6226
+264,"Ne ɔso ita i kiniɔ ito ikɛlɛ ne, misɛ ngbã i Ɣaa kuɖɔɛ kanya ne iiɖe ɔturi ara wa nsɛ akpɛ̃ wũ ɔkã kanya.",Nso e taa kị no ị taa ị kịlịrị? Mị sị ngwa ị ya kụọ ụdị akanyị. Ne ịde ọtụrụ arawa nsị akpewụọ kankanyị.,1.0,0.5316
+265,"” Gɔ lofiniki sɔ si lonyɔ ngɔ nto ɔɖegu me ika ne, lonya sikãrɛtɛa sikaniɛdziri ikɔdzɛ.",Gọọmentị kpebiri ịsọsịlọ ndị ọrụ dị egwu mebiri iwu. Lọọya si karetịa sị ka ya jiri iko,1.1333,0.6957
+266,Mibara lɛ kumɛgɔ nsɛ lobara wũ ira biara fiɛ loisɛ lota loya kuwɛ̃ iso.,"Me brale ku me go nzolo, me bra nwi ra biara. Fia le so ta le ya ku we",1.2857,0.3929
+267,"Si loawo nnɛgbe ɔbara ɔso ne, losɛ lokpɛ̃, losu ɔle siare gɔ ɔɖuɖu i Kristo ɔtã me fiɛ ɔto ɔbara karabara i wũ ame.","Si na o na-egbu obere oge unu, lusalu kpe, lusụ ole si na-egọ odudu iKristu ọtami, fịọ ọtọbụra kịra bạị nwa mị.",0.9583,0.5
+268,"Miɣe kumɛgɔ boɖe ɔɣiã, mapia bo kunuarɛ i Filipi fiɛ boba boabo mi kɔrɛ i Tesalonika mmɔ.","Mía kumenkwa bọdọ hịa, ma pịa bọku nụara ị Filipị, fịa bọ babụa bọ mikwọ ị Tesalọnika",1.0,0.4789
+269,"Si ɔsande aɖe fiɛ Bosate ɔkpere-ɔ ne, ka aɖe ngɔ mba iwarã i Ɣaa ame.",sɛ ɔsane adeɛ fie busa tokuro oni ka adeɛ ngoma yi wona ya,0.9333,0.5
+270,"Ne sɔrɛdzekpakpa pelepele ɔledza iɣɛ sɔ, “I Ɣaa iyere ame ne, nto lokã ndamu lotã-ɔ sɔ, ɣere bo si fɔ nɖe Kristo gɔ nɖe Ɣaa Ɔbi.",na Yesu,1.0,0.9485
+271,"Mabiara wũ, fiɛ Ɣaa ɔtara wũ ɔɖi i makpise ndɛ̃ i akpɛnɛ atɛ kama i Ɣaa itɔ̃me kanya.",M'abienam. Fie ne otiraw di makwisen den akpe na ate kama AI tumi ka,0.9444,0.4375
+272,"Ɣɛɛ si ɔrɔ̃go ɔya teteree i ɔ̃ kafɔkaɖe ame ku kuɖɔɛ fiɛ ɔbara so sekelee ɔbɔ so karɔ̃ ne, ɔ̃aki i ɔ̃ kuɣe ame pɔkɔsɔɔ.","Ɛsiane ɔno kɔɔ yaa setifikate yɛn kafo ka diɛ mi, kuku dɔe, fie obraso sekle obosokanu ne, waaki yɛn kwan yɛn mi pokoso.",0.96,0.5795
+273,"Si inya sɔ mme wũ losiai ma ne, iyɔ bo ɔɖuɖu ka boakɛlɛ.",Sɛ ɛnyɛ aso m'onim lasi amane yɛ obuo dudu ka boa kɔre.,1.0,0.4762
+274,Maina ɔri mabo i iyo alasɔ maturi ɔɣede.,Meena aurie mabo iyo alaso ma,0.75,0.5
+275,"Fiɛ si iti ikparɛ̃ sɛ ibɔ ɔrɔ̃go anɔ karɔ̃ ne, iyɔ ɔnyi ɖuku iti.","Fiasi iti ikpanise ibo oruko anokaru ne, iyo onyiduku iti",0.7857,0.2766
+276,"Iwarãyi iwɛ̃ ne, Yesu ɔsɛ ma Farisise ɔkpakpa ɔwɛ̃ iyo gɔ makpere wũ sɔ ɔba ɔ̃aɖe ara.","Ihe ọzọkwa, ndị Farisii sị ọkwa kwa onwe ihe ọgọ ma kpọrọ nsọ ọbụwa dị",1.0,0.6615
+277,"Misɔrɛ ɔ̃ gɔ lobara kato gu karɔ̃, ɔpo gu siwore dzɛ nto sibore sife ɔɖuɖu!","N'ihi na ọwụrụkọ na-abụ aka togu karụ, ọpụgụ si were jee ntọsi bụrụkwa isi ife ọdịdị.",1.0667,0.6491
+278,Maɖoe Ɣaa kanyamaɖidze ma loɣɛ masɛ sɔ Ɔsekelea to ɔ̃aba.,M'adwene yɛ aka nyamadeɛ. M'adwene yɛ m'asɛsɔ. Ɔse clear to w'ano,1.0,0.4783
+279,"Gɔ mma mpia i mmɔ ɔnya iwawãra nɛ i Yesu ɔbara ne, maɣɛ sɔ, “Gbaã ne, Kanyaɖidze gɔ sɔ ɔto ɔ̃aba i ngbe ne!","Gyae m'ani, me ho nyane wonwene aane, Yesu obraane. Ma eso. Gyae m'ani. Kanya di je goso, oto a mban gbe",0.9583,0.5385
+280,"Gɔ miɔfɔ Kristo Yesu lɛ mi Sate ne, mibaragu wũ mawɛ̃ i mi kasɛ ame.",Kristo Yesu,0.8667,0.8039
+281,Bo Ɔse Ɣaa mɔmɔ gu Bosate Yesu si mabusi ɔri matã bo sɔ boaba mi kɔrɛ.,"Bụọ sị ya mụ ma ọgụ, bụọ sị ya na Jesus sị mụ gwa gị ọrịa ma taa bụọ sị ọgụ abamị",1.375,0.7407
+282,"Ɔsɛ ne karɔ̃ i Galilea, ne ɔ̃ɔbɔ ne i ngbe ana ne.","O si na ka ruo Galili a, ya bu obone igbe anani. O ruo igo Pilato onu, itomi na igwe ni, o ka ra so. Galili otu ruo de ngwu",2.5,1.9143
+283,"Ara wagbe igbã to aaba, ɣɛɛ iite sɔ kawirikɔ̃ ɔɔɣo.","Haramu gwe igwatu aba, eyi te soka wurikwọ.",1.0,0.4872
+284,"Ne ɔso ibiara nɛ maɣɛ i idududu ame ne, ito iaba i inyamɔ.","Naa so yɛbɛyɛ daa na maayɛ duduwa mene, etoo yɛaba yɛn yam",1.0,0.5227
+285,"Maturi ayere itsɛrɛ ɖeakatɔ̃ nɛgbe ame ne, abã ɔkpakpa gɔ marɔ sɔ Kirenio nto ɔɖe Siria karɔ̃ iso.",Mátírì áírì Ìtáì díẹ̀ ka tóní gbé àmì ní. Àbọ́ nkpákpa ọ́ma rọsọ kírìní òntọ́ ọ́dé sirià kàrín,1.0,0.5584
+286,"Matsɛrɛ mapia i mi mmara ɔko ame sɔ si maturi inyɔ ɔɖe aɖansiɛ i ira iso ne, iyɔ ma itɔ̃me ɖe ɔnukuare.","M'akyerɛ ma piaa yɛn mu mmerakuo a mesɔɔ, si m'atifi nyinaa, ɔde adanseɛ yi rai so ne. Iyoo, m'ani tumi di ɔnukwari",0.9091,0.3924
+287,"Si lokpese loto lobara ira nɛ losɛ̃ sɔ iilɛ ne, iyɔ mme mɔmɔ loɔte so sɔ ngɔ loisɛ ɔbara i mmara iso loɖe.","Soro kwesịrị dị na bọọlụ ị na-agba, ị ga-eme mmegharị ahụ dị iche iche iji hụ na bọọlụ ahụ na-anọgide na ụkwụ gị.",1.0,0.9259
+288,"Alasɔ ɔwi gɔ i Yona ɔɣere ma Ɣaa itɔ̃me ne, mafiniki i ma ara lalaa wa mato mabara ame.",Na so we go hi yo na o ri ma hi tumeni. Ma fini ki hi ma ra la la wa ma tu ma,1.1053,0.4091
+289,"Si ɔrɔ̃go ɔrere sɔ ɔ̃ibanyi ɖuku iti ne, iyɔ ɔmɔɛ̃ ɔkpariɛ̃.","Si ọrọ gọọri sọ, o ni ba yin dukia ti ni. I yọ mọ ọpari",1.2727,0.5227
+290,Ɔwi gɔmɔ to ɔ̃awe ɔle ɔtã marɔ̃go ma nto nyiri gu matalɛpo ma nto mabi ɣɛtɛ.,"O wee kwa mụta ọwụyọle ọtẹ maru go, ma ndụọnyiri, gụmatara pụ ma ndụ ma bịa ebe",1.0,0.5172
+291,"Ne ɔso kiniɔ ne, manyii, minyɔ mi ndɛ̃ si miɖi marɛrɛ̃ ikɔdzɛ ma anɔ lokpa fiɛ Siwarã Bielea ana pia i ma ame.","Nye so, kị na-eme? M anyị, mụ na ụmụ nde si m dị mma, ị na-eje? Ma nọlụ kpa, fụọ si ụra bịa na anapụ anyị ma.",1.087,0.5301
+292,"Ne Yesu ɔɖi ma inyɔ mawɛ̃ ɔɣere ma sɔ, “Mikɛlɛ ɔmagɛ̃ ame, mito mianya ɔwɛ̃ sore ndu kabui.",Na Jesu ọdịmma ịnyom a nwe ọ erema sọọ. Mị kịrị ọma gị amị. Mị tọ mị anya a nwe sụre ndị ka bụ,1.3333,0.4627
+293,gɔ ɔse nɖe Henok gɔ ɔse nɖe Yared.,"Gọọmentị Henok, Gọọmentị Jared",0.875,0.4231
+294,Ɣaa masɔrɛdze ɔnyi atɔ̃me gbodzoo masia Yesu iso.,Ya maasoro eje onye atọ m'egbo jo masia Yesu,1.0,0.4
+295,"Ne ɔso gɔ maturi gbodzoo mamɔ ɔnya sɔ Yesu ɣee ɔ̃ marasuãdze na i mmɔ ne, mata mabo i sikolo ame makɛlɛ Kapernaum sɔ maanyɔnyɔ wũ.","Na so God matrikulojo ma mo. Onya so Jesu, ehn, omara so onye na-anyi mo ni. Ma te ma gbo esi kulu ami, ma kili ka peri nam. So ma nyonyo.",1.1923,0.4412
+296,"Ne Petro ɔɣere wũ sɔ, “Mi gu fɔ sikã ɔɖuɖu si miwɔ!",Me petro ayerew sa? Me gufase ka dudu si me,0.8333,0.4054
+297,"Fiɛ ɔturi biara gɔ nsɛ ɔbɔ so karɔ̃ ne, Ɣaa to ɔ̃akɔlɛ wũ kato.","Sɛ woatru biribiara a go wo zɛo, bɔso ka ronɛ. Ato akwleɛ nka",1.0,0.5435
+298,"Gɔ Pilato to ɔbie sɔ ɔ̃abara ma kuɖɔɛ ɔso ne, ɔnyua Baraba ɔtã ma.",Kopilato to obia so oabra makodu e oso ni. Onua baraba otama,0.8571,0.34
+299,gɔ ɔse nɖe Melea gɔ ɔse nɖe Mena.,Gozinde Melia Gozinde,1.0,0.6
+300,"Gɔ marui ne, maiwo kuwɛ̃ ɔɣere i ɔri iso, alasɔ ifɔ̃ ɔmɔɛ̃ ma.",Gọọmentị na-enye ụmụ nwanyị ọrụ ịrụ iso alasọ ife,0.9231,0.7045
+301,Ma Farisise gu ma Yudase tsɔra siai ma mawa kubarara gɔ manyua masɛ ma.,"M'farisifo gumaa Yudafoee kyeraa se yɛyɛ mmawa kubirara, gomanua m'asɛm.",1.0,0.3684
+302,"” Ɣɛɛ Adam tsɔra gɔgbe ne, ɔ̃ nɖe Siwarã dzɛ nsɛ sitã ngbã ne.","E Adam chọrọ ka ọ gbenụ. Ọ nọ e si nri, nwunye ya e si taa ngbada.",1.2308,0.6444
+303,Ifɔ̃ siare ɔmɔɛ̃ ɔ̃ magbamikui itã sɔ itɔ̃me nɛgbe ɔki ikã Yudea simagɛ̃ dzɛ i abe iso abuiti ɔɖuɖu ame.,"Wɔn si aari ɔmewɔ ma gba mi kwi, i tanso, itome na ekpe ɔki ika Judea si ma ge je yi, a be iso agbiti ɔrudu a",1.25,0.3544
+304,Herodes ana ɔkpesera wũ ɔsese alasɔ ɔ̃inya kuira lalaa i ɔ̃ iso.,"Herod de saa na okwesiri osisi, alasowii nya kwiri lala yi wen",1.0,0.42
+305,Minyɔ kuɖɔɛ wodoroa gɔ igbã i Bo Ɔse ba ɔtã bo!,Me nya kodo ewo dura ago igba ibo se ba ota,1.0,0.4167
+306,"Si ɔɔtu sirɛrɛ̃ fiɛ Ɣaa ɔkpere-ɔ ne, fɔ ne ngbɔ.",,,
+307,Sɛ i karɔ̃ si atsɛrɛ sɔ akuku siru kere loɔkuti aatã.,"Sɛ ɛkarɔn, sɛ akwaduasini rukri, na ɔku",0.9091,0.5854
+308,Manya sɔ ɔ̃ marasuãdze mawɛ̃ si mato maɖe ara ku nrɔɔ̃ ɣɛa mɛ maifore i mmara kanya.,"Manya so, ọmaranma, mụ nwe sị na ọma dị ara. Gị ụrọ ya a, mee me ị fụrụ ị mụrụ aka ya",1.1765,0.5469
+309,Midaanyɔ wũ lɛ ɔbiɛtɛ ɣɛɛ mibuai wũ sɔ ɔ̃ irisɛ aasɛ katɔ̃ i isobuɛ ame sɔ ɔ̃aba ɔ̃atu me alasɔ nto lonyɔ ɔri sɔ ma gu bo manyii tsɔra aaba.,"Mị da nyụọlụ bịatara m bụrụ so ịrịọ ya asaa ka ọ sọgbuo m, so nwa abawala ntụmị ala sọ ndụrụ nyụọrọ ịsọ magubo manyi chọrọ a",1.0,0.6038
+310,"Ngbɔ ame si iyo irere maturi ɔta maɣɛ so iso mato makpɛ̃gu so ne, iyo nɛmɔ to iasasame.","Mewɔ mɛsi iyɔ irirema three, ɔtam a esɔe so mato baakpegusɔne, iyɔ na moyɛ asɔsa",0.8889,0.403
+311,"Ne Yesu ɔɣere ma sɔ, “Kasɛ̃ gagbe ne, mi ɔɖuɖu to miatere minyua me, ikuti wũ ɔnɔwɛ̃, alasɔ Ɔko Sekelea ɔɣɛ sɔ.","Na Yesu Kristo a yɛn Awurade. Ka sɛn ka gbeɛnɛ. Mi dodo tumi, akyerɛ mi nyansa mi. Ikuti wunoo. Alaso kusekleyɛ",0.9545,0.5854
+312,"Marɔ̃go sekelea ma losu ma situ masia i Ɣaa iso ku koko ɔwi ne, ngbɔ makɛrɛ so iki i karɔ̃ ibɔ so itã ma marã ame ne.","M'arugya se klamaro sumansi tu, m'ansahia iso kukoko wi ne. Nkpo ma kreso, ike ikan iboso, itama mara",0.9259,0.3218
+313,Bonɔ ana sɔ mafɔɖedze ɔba ɔmɔɛ̃ i ngbe ɔkɛlɛgu masɔrɛdze makpakpa.,"ɔbɛnɔ anasɔmafoɔ de je, ɔbɛyɛ ɔman yi ngbe, ɔklegu masura je makpa",1.0,0.3889
+314,"Gɔ ɔ̃ mɔmɔ ba aɣɛrɛ i siri agbãagbã iso ɔso ne, ɔsɛ ɔna ɔtu ɔtã mma loiɣe nnɛ maabara gu mma nto mayu ɔri.",Gọọmentị mba anyị bụ Naịjiria gbanwee usoro na-esote ọsịna ọtụ ọtụ mmadụ iri na abụọ gụnyere mmadụ abụọ,1.0,0.725
+315,"Si boɣɛ sɔ Ɣaa kɔrɛ ɔna ɔle ɔbɔrɛgu ne, ɔto ɔ̃akarɛ bo sɔ, ‘Be ɔso fiɛ miifɔ wũ miɖe?","Otu a ka ha bu so, be ya so fe me ife omimi",1.0,0.7419
+316,Ɣaa Siwarã sɛ sinyɔnyɔ ira biara sitsue fiɛ siɣe ta Ɣaa ara wɛrɛa.,"Yɛ asiwansɛ si yunyung irabira si chuɛ, fiesie taa ara aworɛ",0.9231,0.3774
+317,"Ɔwi gɔ i Herodes ɔnɔ atɔ̃me wagbe ne, ɔ̃ wũ ɔɣɛ sɔ, “Yohanes gɔ lotã matu iti ɔɖe loɔta ɔba ngbã ana!",akila sima ganko soyi chora imor ote,1.0,0.8243
+318,"Ara wɛrɛa wa mpia i ɔ̃ ɔtu ame to aabɔrɛ aba ɔgbami itã sɔ ɔ̃abɔ sɔ karɔ̃ ɔpɛ agɛgɛ̃ ɔle Ɣaa ɔɣɛ sɔ, “Gbaã, Ɣaa pia i mi ndɛ̃!","Rawa ya wa biyo tuame to abere abau gbam i, itanso wa bo osu kanu ope agigi ole a o eso gba a apia emi",0.931,0.4494
+319,"Ikpɛnɛ tɛare iso ne, masɛ maanya wũ i ma Yudase isɔrɛyo gɔ ɔ̃ gu ma Yudase maratedze mawɛ̃ si.","Ihe mere na eteghi aka, iso na ndi isi ma ndi anya hu, ma Judas Iscariot. Gaa ogu, ma Judas Iscariot mara eteje ma nwe",1.2105,0.7222
+320,Mma mpia i ɔkolo ame aaɖe lɛ maturi alafa anyɔ gu sikɔdzɛ-ikuɔ.,"Mmanụ pịa ya ọkụlọ, a mee a dịrị ya matiri ala fa anyọ, gụsịkọcha iku.",1.25,0.48
+321,Midzuɛ̃ Mi Isɛguso.,Iruva,1.0,0.8667
+322,"I Griki siɖe ame ne, marɔ wũ Dorkas gɔ karɔ̃ nɖe Kuɔ.","Egri kisi di amene, maro dokas, go karunde",1.0,0.3333
+323,"Alasɔ kusia gɔ i ngbã sɛɛ isɛ sɛ mikpadzɛ̃ mibɔ nɖe ara sɛɛ ibara, ara ibara i ɔri iso, gu ɔnukuare iɣɛ.","A na m aṅụrị aṅụrị ịgwa unu sị na mụ na nwunye m bụ Nde, ara sị Ibra, ara Ibra yọrọ iso gụọ nkwari.",1.0455,0.5949
+324,"Ne ɔso mmara mɛ i Kristo ɔtã bo nɖe sɔ, ɔbiara gɔ nto ɔɖɔɛ Ɣaa si ɔɖɔɛ ɔ̃ ɔnyii ana.","N'ọsọ ụmụ mmadụ na-ekristi ọtụtụ bụ ndị sọ, ọ biara gọ ndọdọ ya si ọdọ onye ya na.",0.95,0.6129
+325,"“Mmɔ i ɔ̃ ɔse to ɔɣere wũ sɔ, ‘Wũ ɔbi, fɔ ne, bo gu-ɔ mpia ngbe ɔwi biara fiɛ wũ ira biara ne, fɔ ire iɖe.","Mụ na ya setụrụ nsogbu ụmụ nwaanyị, pụrụ ịgwa ụmụ nwanyị ka ha na-ebiara onwe ha ihe ha na-arụara onwe ha.",1.0,0.8889
+326,"Ɔɣere ma Ɣaa sigarakaɖekɔ̃ iso itɔ̃me ku katetere, ɔte ma ara i Yesu Kristo iso, fiɛ kuwɛ̃ iitɛ̃ wũ ɔri.","Ɔyɛɛ no ma yɛasakra kwan de kɔ Yesu Kristo nkyɛn, na yɛn werɛ afiri nea yɛayɛ.",0.95,0.7436
+327,"Gɔ manɔ ɔ̃ isosarɛ nɛgbe ne, manyɛse ma mpia i karɔ̃ gamɔ ɔɖuɖu iso ɔba Paulo kɔrɛ, ne ɔsa ma ne.","Koma no, iso saa re na igberin, ma nye se ma pia yi kanu nka mu odudu iso oba Paul Kori ne osa ma",1.0,0.4028
+328,Mi maɣese gu manyiibi gu mi mɔmɔ malɛdze gu mi malaa to maaɖi mi matã.,"M'imáé sé, gúma nyí bí, gúmí mɔ́ mɔ́ m'alɛ́ jɛ́, gúmí mánlá tɔ́ m'adí m'adí.",1.0,0.4909
+329,“So si siɣɔ mma nɣe sɔ mawɛrɛba maɖe i Ɣaa itsue ame.,"Sɛ ese yɛwɔ mmarahyɛbadwa mu de yɛreba ma de yi a, icho ya",1.0833,0.75
+330,gɔ ɔse nɖe Obed gɔ ɔse nɖe Boaz.,Gọọmentị Obet Gọọmentị Gbuọ,1.0,0.625
+331,"Minɔgu so ara karɔ̃, fiɛ si ɔrere ɔɣɛrɛ mi ne, misu mitsɛ wũ lɛ kumɛgɔ i Bosate ɔsu mi akpi ɔtsɛ mi.","Me no gusu ara kanu, fia si oruro eremi ne, misu michewu, leku me gwa ebosa te osu mi akpi oche mi",0.7273,0.36
+332,"Ayi wamɔ ɔɖuɖu ne, Yesu ɔsu ɔte maturi ara i Ɣaa kasɔrɛkɔ̃.","Ayiwa, m'o dudu ne. Yesu o su o te m'atiri ara, i ya ka sro",0.9167,0.2889
+333,Wũ kato ikɔlɛso i mi iti sɔ miabara mawɛ̃ ku Kristo Yesu ɔso nto loɖi nnɛgbe loɣɛ.,"O nka to eku l'ase meeting, so me and brother ma won ku Kristi Jesu, o so ndoro di ni egbelo.",1.1765,0.5156
+334,"Ɣɛɛ nnɛ nto lotsɛrɛ loɣere mi nɖe ngɔ nɖe ɔnyii fɔɖedze fiɛ ɔto ɔɖe asɔrɔ̃, ɔbɛbɛ anɔ, ɔsɔrɛ aɣɔ ɣee ɔrɔ maturi ayere lalaa, ɔrɛ̃ ndã, ɔyu kayu ne, mibɛse so i ɔ̃ iso.","ɛɛ, nnɛnturo kyerɛɛ luere mi ndɛ ngɔ, nnɛ onyi fɔdɛjɛ fia to di asɔn. Ɔbɛbɛ anu, ɔsɔrɛ a yɛɛ, ɛɛ, ɔrɔma turi ayiri lala. Ɔrɛn da, ɔyuka yunɛ mi bɛsɛ so iwan",0.8824,0.344
+335,"Si ɔrere ba itɔ̃me i siɖe agbãagbã ame ne, ma inyɔ ɣee itɛ kere si ma nɣɛ isia isia.","si ore ba itumo isi di agbagba meni, meyo, eitekresi man e, isi a isi",0.8947,0.3333
+336,"Sikpã ɔkpɛ̃ mma loiɖe ma Yudase, fiɛ fɔ sikpã ɔwi ɔɔɣo.","Sika kwan ma na ɛde ma Judah se, fiefo sika kwan wie a,",1.0909,0.5476
+337,"Gɔ Ɣaa mabi ɖɔɛse miɖe ɔso ne, mipia kubɛ sɔ miare wũ.",Me pia ko bɛsɔ me,1.0,0.7073
+338,"Alasɔ i wũ kasɛ ne, Kristo losi ngbã lotã, ɣɛɛ si lokpi kɔra ne, iaɖe kusia gbodzoo itã me.","A na-asọpụrụ Kulture na Kristọlụsị mgbe niile, sọrọ pụta kụọ na ya adịkwusị agba jụọ",1.0,0.7681
+339,Misu mi manyii akpi mitsɛ ma lɛ kumɛgɔ i Ɣaa ɔsu mi are ɔtsɛ mi iki i Kristo iso.,mụ na ụmụ nne m na-arịọ Chineke ka ọ sụgharịrị ọche m ike na Kraịst Jisọs.,1.0,0.7903
+340,i kuɖokpo gu karɔ̃ iso ɔɖuɖu.,"N'ime awa ato ma o ya eso, m ga-eme deede m nwere ike. I dekwara idei? Mu nwa enweghi petrol gaa umudim, iwe o were ota m aya. Fye petrol okolo",5.0,4.3182
+341,"Loɔkpi lonya, ɣɛɛ ne, ka losi ngbã mɛ nna katui.","na-akwụlụ ya, na-ekalụ si ngba m na-akwụ",1.0,0.5278
+342,"Ɔwi gɔmɔ ame ne, Ɣaa makpabo ɔso maba maabuai wũ mapia wũ ɔle.",Owigom o amene. Ya makpa bu oso ma ba ma gbuo enwu ma pia wu,1.1538,0.3333
+343,"Misa manyɛse i ɔmagɛ̃ gɔmɔ ame si miɣere ma sɔ, ‘Ɣaa sigara ɔɖewi ɔɔbore ɔbo mi.","Mesa manye se yoo ma gi gọ mụ a me, si m ịre masọ, ha si kraude wee ọbụrụ ọbụ",1.1875,0.4426
+344,"Gɔ borui i Tiro ne, boba boatui i Ptolemai.","Kọbọ rí tí rọ̀ ni, bó wa ba tú ìtọ́ lẹ́ẹ̀kan.",1.2222,0.6364
+345,Ɔbiara gɔ loisɛ ɔwarɛ Ɔbi iisɛ ɔwarɛ Ɔse gɔ lopia wũ katɔ̃me.,"Abụ yara gọọlụ ise, ọwara obi, ise, ọwara ọsị, gọọlụ pịa nkatọ",1.0,0.5208
+346,Ne ɔso mi kafɔkaɖe gu anɔ ka asia i Ɣaa iso.,"Noso mekafo kade, guano ka siayi ayi",0.9091,0.3636
+347,"“Bosate Ɣaa gɔ nɖe ɔle ɔɖuɖu Sate, fɔ kurabarara ɔmɔ fiɛ kuse ɣaa gbaã.","Mọ saté ya gọ́ ndi ọlọ́dudu saté, fọ́kụ́rabara ọmọfiakụ́ sé ya gọ́n.",1.0,0.5091
+348,"Si mase i kuɣa ame fiɛ maipie ndu ne, maibaɖe ara.",Sima sei ku ya amefia me pia ndune ma ibade,1.0,0.2368
+349,"Ne lotã sɔ gbodzoo i mi ndɛ̃ to manyɛ, somina na ma ɔle, fiɛ mawɛ̃ ana ɔɔkpi ne.","N'elu tebụl gị, ime ihe ọma nye, so mụ na nne m na-anọkwa.",0.9444,0.6207
+350,"Wũ manyii ɖɔɛse, midaafɔ ɔbiara gɔ loɣɛ sɔ Ɣaa Siwarã pia i ɔ̃ ame miɖe, ɣɛɛ mifafarɛ minyɔ sɔ Siwarã dzɛmɔ ne, Ɣaa kɔrɛ sibɔrɛ, alasɔ mila kanyamaɖidze gbodzoo ka mapia i kakɔi biara.","Mmaa nyidwɛse, meda afɔlɛ biara gɔlue sɔa asimapia yi nwanwa me di. Me fefale me nyɔ sɔsɛ nwanwa gyamɔne akwesi burɛ. Alasɔ me la ka nyama di je igojo ka mapia yi ka kɔe biara",0.9412,0.3931
+351,"“Masɛ maɣɛ sɔ, ‘Ɔrɛrɛ̃ gɔ losɛ̃ ɔ̃ ɔre si ɔtã wũ ɔko gɔ loate sɔ ɔ̃ɔsɛ̃ ɔ̃ ɔre.","Mɛ asɔ, ɔrengoro si ɔre si ɔtɛn akogoro ate sɔ ɔnsi ɔre.",0.7778,0.4038
+352,Maturi gbodzoo ɔbɔrɛ i Yudea karɔ̃ iso gu ma ɔmagɛ̃ siare gɔ nɖe Yerusalem makɛlɛ fafuĩ ame sɔ maakã Yohanes itɔ̃me atsue.,Matriigbojo obere yude a ka arụrụ iso gụma ọma gensi a regọ na Jerusalem. Maklefa afị ameso maka Yohanes itom achụ,0.9091,0.3505
+353,"Mi nɖe Ɣaa kanyamaɖidze mabi, fiɛ Ɣaa mɔmɔ lonyi kanya ku mi mawa ɔkigu i ɔ̃ kanyamaɖidze iso.",Minde ya k'anya ma di je ma bi. Fia ya mu m'olo nyi k'anya ku mi ma wa. Oki gun o k'anya ma di je,1.2222,0.2703
+354,"Iyɔ si kaba kaaro ne, Ɣaa aafɔ mi ɔpia i ɔ̃ kasɛkɔ̃.","Yɛse kaba kaa rɔ ne, afo miɔ pia yiɔ kase",0.9167,0.3514
+355,"Ɔwi gɔmɔ ame ne, fɔɖedze ɔwɛ̃ pia i Damasko gɔ marɔ Anania.","O wee kpọọ muọ mụ na ya, fọdụzie o wee pịa mụ ihu Damascus gọọ marọ Ananias.",1.4167,0.7111
+356,"Ana ne, mi kafɔkaɖe si katã sɔ Kristo aana kasɛ i mi situ ame, si mi kuɖɔɛ si kure siɖu sɔ miaya teteree.","ana-ene, m ka fụ ka e si ka taa sọ Kristọ a na-akasị emesị tụọ mmiri, si mmiri kwụọ ya, si kwụọ e si ruo, sọ mụ ya ga-atetere.",1.1304,0.4875
+357,"Iiɖe kumɛgɔ boto boɖɔɛ Ɣaa nɖe kuɖɔɛ, ɣɛɛ kumɛgɔ i ɔ̃ ɔɖɔɛ bo fiɛ ɔsu ɔ̃ Ɔbi ɔsese bo sɔ ɔ̃aɖe ngɔ iso iaki fiɛ boana akpi kasukatsɛ ne, ne nɖe kuɖɔɛ ne.","Ihe ndị kummị ọgọ bụ otu bụ ụdọ ya na ekudọ ya. Kummị ọgọ ihe ọdọ bụ, ihe ọsụọ bụ, ihe ọsịsị bụ. So ndị ngọọ ịsụọ ya ka ịfị ebu ana akpị kasị ga-achị nị. Na ndị ekudọ na",1.2121,0.687
+358,"Si ngbã mɛgbe ame ɔnɔwɛ̃ boba ɔriinyɔ i Kristo ame ne, iyɔ bo nɖe mma mba nnya boɖo pelepele i kayiiso.",Si ngwa me gbe ame onu ebo ba ori nyo e Kristu ame ne. Iyo bo ne ma nma ya bodo play play ka,0.9048,0.3875
+359,ikpese ita nyaa gu nnɛ lofɔ ma kuɣa iɖo atsɔra?,kwe se itanya gu ne fo makwụ ya idu achuru,0.9,0.4595
+360,“Kuwɛ̃ iisɛ ɔtsue ɔkãniɛ ɔsu ɔwɛrɛra ɣee ɔfu ara.,wɔnkyerɛ kwan ne osu a wɔrere a ɛyɛ ofui,1.0,0.7368
+361,Ɔse ɔbara ngbɔ sɔ si maturi ɔɖuɖu aawarɛ Ɔbi lɛ kumɛgɔ masɛ mawarɛ Ɔse.,"Sọ́sí ọba ńlá, sọ́sí mạ́trì ọ̀dùdù a wá rẹ ọ̀bì, lẹ́kùn mọ́ gọ́ mạ́sẹ́ mạ́ wá rẹ ọ̀sì.",1.2857,0.6491
+362,Alasɔ Ɣaa kuɖɔɛ kuɖe sɔ ɔ̃ Ɔbi ame maanya ɔ̃ kumiamia ɔɖuɖu makigu.,"A na-asụ ya akwụde akwụde, ya mere mụ anaghị akwụ mụ ya akwụdudu maka na",1.1538,0.75
+363,"I ɔrɔ̃go itsue ame ne, ɔrɛrɛ̃ ɔsu sikã siwɛ̃ ɔkɔla fiɛ ɔsu sikutia ɔba ɔ̃apia i katɔ̃memasɛdze nrɔɔ̃ ame.","E o ro go i chwe amene? O ru ri o su si kan si wen o ko la, fe o su si ku ti a o ba wa pi a yi ka to ma se je uru a",2.0,0.4177
+364,"Ira ka iwɛ̃ nɛ ana ɔso bosɛ bopɛ Ɣaa siba nɖe sɔ ɔwi gɔ boɣere mi Itɔ̃me Bielea ne, miifɔ ne lɛ itsuɛwo.",Ebe ka iwee na anọsọ bụsọ bụ pee asị baa n'isọ? O wee gawa bụ remit mebiele a nị. Mị fọọ na ịlechu ya,1.0,0.5641
+365,Ɔri ka nto loɣo sɔ loanyɔ kumɛgɔ maawo karabara ɔbara ne ɔso loibawo ɔba.,Ọ rị ka ṅlụ sọlụ anya ka mụ gọọ mụ aụ ka ọ bịa ọ bịa nị. Ọ sọlụ ịba ọba. Ọ mụ ma na sọọ. Kedu a mụ elo yiri ọnụ gị nị? Na ọ sọlụ ịba ọba.,2.7143,1.1525
+366,"Mme, Ɔturi Awune Ɔbi, to ɔsɛ ɔ̃akpi lɛ kumɛgɔ ame i Ɔko Sekelea ɔte.","Mme otu a bu na obi, tuose wa api, leku me go ame, iye okusigili",1.0,0.4902
+367,"“Iiɖe David itɔ̃me nɛgbe to, alasɔ gɔ ɔ̃ɔsɛ ngbã ɔbara Ɣaa mɔmɔ kuɖɔɛ ne, ɔkpi mabiara wũ, fiɛ ɔ̃ sosina ana ɔburi.","Ihe na-adịghị mma dị na ya. Ịtụ m na-ekwe nkwa, na asọghị nsọ egbula ọbụla ga-amụmụ kwuru ọnụ na ya, ọ pị ma bịara fịọrọ nsọ si na ọbụ",1.3182,0.814
+368,"Mi kafɔkaɖe i Bosate ame gu mi karabara se lɛ ara wa mafɛ̃ matã wũ, fiɛ wũ ima maasu mafere i ara fɛ̃a iso.","Me ka fɔ ka de e bɔsate me, gu me ka ra bra se ele ara ama fe mataw. Fia wu yi ma, ma su ma firi yi ara fe yi",1.125,0.3
+369,Midaanigã si minɔ kakpã kulu gu maturi ita iya so iso.,"Me daa ni ga, si me no kapa kulu, guma 3 taa ya so",1.0909,0.3488
+370,"Alasɔ si maɣe ne ne, tee maibapɛ Bosate mamatãra i kudziri iso.",Ahenfo asoɛeɛ ma yɛn nyinaa. Teɛ ma yɛn pɛɛ bɔsa teɛ ma mmatra kuro yi so.,1.3333,0.62
+371,Matindza wũ maya wũ iso sɔ ɔfɔ ɔnyigbã gɔ i Yesu sore si ɔsiai wũ i kama.,"Mati yaa o ma yaa, ị sọsọ ọfọ onye gba ngọ ịyé sụsụrẹ si ọsiawụ ịka",1.0,0.5
+372,"Ne ɔto ɔɣere ma sɔ, “Midaafɔ sikã i maturi kɔrɛ miɖo kumɛgɔ i mmara ɔkarɛ.","Nna, o to ehere m so? Nda Afam, ị ka ị ma tụrụkọrọ? M dịkwa, mụ na nwunye m",1.2667,0.6316
+373,"Lɛ mabi ma nsɛ makã Ɣaa atsue ne, minyua ara wa lola ɔɔkpɛ̃ mi ɔkã ku ɔwi gɔ miiɖe mafɔɖedze ɔbara.",Lema bi ma nze ma ka ya chu ni. Nyo ara wa lo lo kpe mi okan kuo wi go mi de ma fo de je obra,1.0952,0.3947
+374,"Gɔ manɔ kulu gɔgbe ne, maturi gbodzoo ɔtere makɛlɛ mmɔ.","Kọ ma nọ kụlụ gọ gọ ịne, ma tụrụ ịgbọ jọ ọ tụrụ ịma kàlà",1.5,0.5682
+375,"Ne ɔso mibore mibo Bosate gɔ nɖe ita nɛ mba ngbã fiɛ iire kuira i mayotsuedze anɔ, ɣɛɛ ne i Ɣaa ɔɖi, fiɛ ɔ̃ katɔ̃ ne, ne lofɔ kuɣa iɖo.","Nsọ mị bụrọ mị bụ ogbo sate, gọọdi ịta n'ịmba ngba. Fịa ịre kwịra ịma ya ochụ eje anụ, e ne ịya odi fịa ọka tụ nị n'elu fọkụ ya ịdu.",1.0333,0.5
+376,So ɔɣɔ mi ɔwa Abraham gɔ ɔtsue sɔ loto loaba.,Abraham,0.9,0.8
+377,Nsɛ lopɛ Ɣaa siba ɔwi biara i mi iti ala nnyainyɔ nɛ ɔtã mi iki i Yesu Kristo iso.,"Nzukọ ụlọ ụka anyị bịara na ya taa, anyị na-enye ya otuto na-ike Jisọs Kraist.",1.0,0.7143
+378,"Ne ɔso ne, ɣere bo si ɔri pia sɔ boatã Kaisaro lampo.","Na so na, erebọsị arịpịa, sọbụ atankai zaru lampụ.",1.0,0.4
+379,"Kiniɔ ne wũ manyii, i ɔko gɔ mitsɛrɛ me i Ɣaa Siwarã karatã iso ne, loito lobie sɔ kuira aawɛrɛ mi.",Ihe ọkụ ọkụ mịchịrị mere ị ga-asị na akara times one na-ejiri bịa sokwa ịra a bụrụ,1.0,0.6974
+380,"Ne ɔso Bosate ɔɣere wũ sɔ, “Mi ma Farisise ne, misɛ mifore mi aɖerɔi gu akɔi kama ɣɛɛ ne, mi ame ɔyigu ɔtile gu anyanyara ɔɖuɖu ibara.","Mema farasi sene, mesɛ mefre m'adwumayɛfoɔ akwɛkamaa, ɛɛne. Miam meɔyi guo tile guo nyanyara adu",1.0,0.4951
+381,"Manyii, ito ibo bo so sɔ iɔfɔ ayi gɔ boinya mi anɔ ku anɔ.","Itebobo so, so yaafo, we go boyi nyami anokwu anu.",0.9286,0.4884
+382,"Ɣaa itɔ̃me wɛrɛa nɛ maɖi mate ne, iba kuɣa gbaã fiɛ ɔturi kuwɛ̃ iibawo ne ɔsɛ̃.","Ɛyɛ tumi wura Nyame dimatene, ibakwii agbaa.",1.0,0.6441
+383,"Ne ɔso mabo i ikpibiɔ ame, ɣɛɛ mainya Bosate Yesu kpise.",Nso ma boyi ikpi bi omi? Ma inya bosate Yesu,0.8182,0.3182
+384,Kasɔrɛkɔ̃ matɔ̃ɖedze gu mmara matedze mawɛ̃ ɔnyɔnyɔ ɔri gɔ maaki fiɛ maamɔɛ̃ Yesu maɖoe.,"Ka so na ka ọma tọ dị egwu, mmụọ nsọ dị egwu ma nwee. Ọ ṅụṅụọ ọrịgọ ma akị fịe ma mụọ Yesu ma",1.6429,0.5857
+385,"Ne ɔso i Bosate iyere ame ne, loto loka mi sɔ midaasɛ ngbã lɛ mma loiɖe ma Yudase fiɛ ma adzuni ɔnyanyarĩ, ma adzuni ame se guduu.","Na so e bido sotee, ramani, na di lokaci so, mi da zengbale, mbale de ma judasi, fiam ma juni onye nyali. Ma juni amesegudu.",0.9259,0.396
+386,"Gbaã ne, Ɣaa nɖe nukuarese fiɛ ɔsɛ ɔtã bo ngbã mɛ nna katui.",baane andi nnukwarsi fie osota bu ngba me na katu,1.0,0.4348
+387,"” Ne ɔkɔ Petro gu Yakobo gu Yohanes ɔruigu, ɔtsɛ so imararã iti ikpakpa ne.","Na akɔ Pedro, gyae Jacobo, gyae Johannes, oregu. Ogyae soeimrana iti ikwapa",0.9286,0.5
+388,"Kiniɔ ne, kpɛ̃ ta si akɛlɛ ɔmagɛ̃ ame ne mato maaɣere-ɔ nnɛ ikote sɔ aabara.",Kedu ka ị nọ? Kedu ka ụmụ gị na nwunye gị?,1.0,0.8421
+389,“Mawɛ̃ ana ɔnɔ Ɣaa itɔ̃me lɛ ɔraɖui gɔ losia i karɔ̃ sɛɛ iso.,"Mawu yɛn na ɔno na ɔyɛ tumi, na ɔradwiriw golosii a yɛkaru so",1.0,0.5909
+390,"Fiɛ si Ɣaa iitara Kristo ɔɖi i makpise ndɛ̃ gbaã ne, iyɔ mi kafɔkaɖe na kusia kukuwɛ̃, fiɛ mikpese mipia i mi akpi ame.","Fia si ai tracklist odi nmakwasa nde gbaani, iyomi kafo ka di nnakwasa akwukwo nwe, fia mi kwesiri mi pia mi akwu ya.",0.9167,0.4396
+391,Minɔ ɔriinyɔ itɔ̃me nɛgbe koko ku ɔwi gɔ maɣere mi ɔnukuare itɔ̃me nɛ nɖe Itɔ̃me Bielea.,"Me no ri nyo, i tome na ekwe koko, ku o wu igoma eremi onukwuari itome na nne itome biara.",1.125,0.3478
+392,"Si ɔrere ɔɣɛ sɔ ɔɣe wũ, ɣɛɛ ɔ̃isɛ ɔbara i ɔ̃ mmara iso ne, ladze i ɔnyiiɔ ɖe, fiɛ ɔnukuare na i ɔ̃ ame.","Fie ọrọ ruo ẹsọ ẹwụ, ẹwụ nsọbra yin ọmra isọnẹ. La je yi ọni ọdẹ, fie ọnu kuari nnayi wa",1.0,0.6027
+393,"Alasɔ iki i ne iso ne, makpakpɛ̃dze ɔɖuɖu ma nto madzuɛ̃ igara iyo gu maturi ɔɖuɖu i ngbe ɔɔtsue sɔ Kristo ɔɖabo loɖe ɔso lorɛ i iyo.","Ọ na-asị gị na-esote, ma kpaa nkpeji ọdịdị, ma ndọmajuo ịgraịyo, gụma tụọ ọdịdị mgbe ọ chụọ nsọ Kraịstị ọ dabara odi, ọ soro",0.963,0.6311
+394,"Mma ɔɖuɖu lonya nnɛgbe ɔtsɛ Yesu iɣɛtɛ iɣɛ sɔ, “Ɔrɛrɛ̃ gɔgbe to ɔkɛlɛ ɔ̃abo i kpibaradze iyo.","Mọ́dúró lórí àwọn ẹgbẹ́ ọ̀tẹ̀ Jésù Kristẹni sọ́. Ọ̀rẹ́ mi ọ̀gbẹ́ni Okoro, ó wọ́ kpibrà jẹ́ iyọ̀. Ùmmá",1.0588,0.8056
+395,"Bo ɣɛɛ ne, Ɣaa sigarakaɖekɔ̃ mare boɖe, fiɛ bosi bosia bo Ɖidze gɔ nɖe Bosate Yesu Kristo sɔ ɔ̃abɔrɛ i kato ɔba.","bu ene. Ya si kra ka dikoma ri bode, fia bo si bosi abodi je gon ne bosate Yesu Kristo so wa buro ikatu",0.9545,0.314
+396,"Ne ɔrɛrɛ̃ gɔmɔ to ɔɣere wũ sɔ, “Ɖɔɛ Bosate Ɣaa ku fɔ ɔtu ɔɖuɖu ku fɔ siwarã ɔɖuɖu ku fɔ ɔle ɔɖuɖu ku fɔ adzuni ɔɖuɖu ana si aɖɔɛ fɔ ɔnyii lɛ kumɛgɔ ato aɖɔɛ so.","Nna anyi gwa m otu o ga-eri nso. Dị ka ụbọchị akụfọ otu ọdịdị, ụbọchị ụrọ ọdịdị, ụbọchị ole ọdịdị, ụbọchị ajụọ nri ọdịdị. A na-asị na ụbọchị onye ịlele ka mụ na gị ga-ata ụbọchị",1.0,0.8678
+397,"Ne ɔso miisiɖe mafɔ ɣee marisɛdze, ɣɛɛ mi gu Ɣaa maturi ɔɔkpese Ɣaa ɔmagɛ̃ gu ɔ̃ iyo maturi.","Nso mme isi demafo, e Mari Seje, e migu ya ama turi o kpesi a oma ge guo iyo",1.0556,0.4085
+398,Ɔɣɛ ɔsɛ kokooko ɔkigu i ɔ̃ kanyamaɖidze sekelea iso sɔ.,"ɔyɛɛ sɛ kɔkɔɔkɔ, ɔkiguu hɔ kanyama di Jeseklayisofoɔ",1.0,0.3636
+399,"Ne ɔɣere ma sɔ, “Isobuɛ itã mi.","Ɛsɔbre, itam",1.0,0.7273
+400,"Kiniɔ ne, wũ matsirise ma loito mabie sɔ loɖe sigara ne, mibɔ ma i wũ katɔ̃ miba miaɖoe.",Otema obiara siri karitia ibi nwe oremaso. Misusi ka jegbe midi alakwe ya si bo nyokusia gomi ana si lu na.,1.1667,0.9254
+401,"“Ne ɔɖabo gɔgbe ɔɣere wũ sɔ, ‘Su fɔ kuso gɔ ato ɔko bɔ.","Nnwata bukwa kwa ya ohere nsogbu, so fokwu so go ato okwu",0.9231,0.7436
+402,"“Manyii, mi ma nɖe Abraham mabi gu mi ma loiɖe ma Yudase ɣɛɛ misɛ miwarɛ Ɣaa ne, mikã atsue si minɔ!","M'anyi, me ma ne Abraham ma bi. Me ma ne Ede ma Judas se, ehn, se me ware yaa ni. Me ka kyerɛɛ si me",0.9524,0.4342
+403,"Gɔ ɔkɛlɛ sɔ ɔ̃akpura ma ne, ɔkarɛ ma sɔ, ‘Wũ maturi, manyiibi miɖe, ne ɔso minyua ɔkpɛ̃.","Ọka leso ọ akwụrụ ama ni, ọkare maso, ụma tri, ma nyi bi mide ne ọsọ mi nyụ akpị.",1.0588,0.375
+404,"Ne kama ne, lonya Sɛrɛrerɔ̃ Ibi gɔ iɣɛ i Zion kube iso.",Nneka ma na ịbị go ịye Zion kube,0.8333,0.5854
+405,"“Mose gɔ masɛ̃ fiɛ makarɛ wũ sɔ, ‘Nna loɖi-ɔ bo isoɖedze gu atɔ̃meɣɛdze?","Mọsẹ́ gọ mọsẹ́, fẹ́ma karọnsọ. Nnalọdi ọgbọ iso de je gu atọmọ ejẹ.",1.0,0.4906
+406,"“Si loɖe so aɖansiɛ ne, iyɔ wũ aɖansiɛ iibaɖe ɔnukuare.","Sɛ wode sradeɛ si ne, ɛyɛ nwoma daa si yɛ ibadeɛ ọnukwarii.",1.1,0.5349
+407,"Nto loɣere mi sɔ ne, Ɣaa kanyamaɖidze gbodzoo gu magara ana ɔbie teteree sɔ manya ara wa mito minya, ɣɛɛ mainya, ɣee si manɔ ara wa mito minɔ, ɣɛɛ mainɔ.","M̀tụ̀lụ̀ erè m̀ sụ́ọ̀ nụ́. Há ká ṅyá mà dí jé gbòjò, gụ́mà grà ná ọ́ bìétè trè. Sọ́ m̀ ṅyá ráwà m̀tọ́ m̀ ṅyá. Èé mà ṅyá. Èé sì mà nụ́ ráwà m̀tọ́ m̀ nụ́.",1.2,0.437
+408,"Misɛ̃ ɔturi Sekelea gu Ɔbɔlɔlɔa, ɣɛɛ minɔ karɔ̃ sɔ ɔnyua turiɖoese i ɔ̃ kanya ɔtã mi.","Mị sị na ọtụtụ ndị klearịgụọ bụrụlụ a, eh, mị nọkarị nsọ. Ọnyọntụ ịdị sọ ị, ọ ka nyọta mị.",1.25,0.6769
+409,"Ɣɛɛ gɔ ma ndɛ̃ ɔwɛ̃ ɔnya sɔ ɔ̃ɔna isosarɛ ne, ɔpɛ ɔfiniki ɔto ɔle Ɣaa ku silɔ teteree.","Ego ole na ole ka o nyaso, ụnụ na-esosara ya ni? Ọpọ ofiniki, ọtọọle ya akụọ si lọ tetere.",1.0556,0.5312
+410,"Gɔ masɛ iti ame i itɔ̃me iso ne, manyi Yesu fiɛ makɔ wũ makɛlɛgu Roma abã ɔkpakpa Pilato.",Koma sɛ itri amane itome isoni. Ma nyi Yesu fie ma kɔnwu makala gu Roman aba okwakpa Pilato,0.9444,0.2464
+411,"Kumɛgɔ mibara i mmara iso ɔso fiɛ Ɣaa ɔsu ɔ̃ Siwarã ɔtã mi ɔto ɔbara awawãra i mi ndɛ̃, ɛɛbɛrɛ kumɛgɔ minɔ ɔ̃ itɔ̃me fiɛ mifɔ ne miɖe ɔso?","Kụmee gọọ mụ ịbụrụ onyeisi, ọ sọọ fịe a ọ sụọ sị na ọ taa mụ, ọ toobụra a wa nwaara ịmị ndụ ya. Ịbụrụ kụmee gọọ mụ n'ọnwa ịtọọ mụ, fịe mụ ịfọọ n'ịdọọ sụọ",1.2414,0.7308
+412,"Ɣaa itɔ̃me ɔɣɛ isɛ sɔ, Ɣaa to ɔ̃abara mma loiɖe ma Yudase bɔlɔlɔ iki i kafɔkaɖe ga maba ɔso.","Ɛyɛ tumi oese so, ɛyɛ tumi amane de ma yɛn ase bololo. Ɛka ikafo ka di gama ba",1.0,0.5571
+413,Ɣaa ɔbara nnɛgbe si ɔsu ɔte ta mma maiɣe mabɔ kayi sɔ kuira na gɔ ikategu ɔ̃ abualɛra gu kayiribielea ga ɔba ɔtã bo ala Kristo Yesu ɔso.,"Ya obụrụ na-ekweghị si, ọ sụọ teeta mma mma ị ga-ma bọ ka a ga-iso. Kwụrụ anagọ ị kategụọ abụalịra, kwụ ka anyị ribie nri aga-ọba ọta bụ ala Kristọ Jesu.",1.0357,0.486
+414,"Siwarã ɣɛ teteree, ɣɛɛ siturina ɔɔfɛ̃.",Suroa 33. Esii 3 na ofe,1.0,0.7333
+415,Ɣaa gɔ lokpere mi sɔ mikpese ɔ̃ mare aabuai mi ɔsɛ ɔ̃abo kawirikɔ̃.,"A gaghị ekwe mịsọ bịa kpọọ mụ arị, a gaghị eme ya. Ọ sị na ọ bụ mgbe ka ụlọ ọrụ",1.6154,0.8235
+416,"Ɣɛɛ ɔmama pia gɔ nsɛ ɔɖe me aɖansiɛ fiɛ loɣe sɔ nnɛ ɔsɛ ɔɣɛ i wũ iso ne, gbaã iɖe.","Ɛɛ, ɔmamma pia, gɔnza odi me a dance yɛ. Fielɔ eso unna ɛwɔ sɛ ɔhyehyɛ nsu ne gbaanyi.",0.85,0.4918
+417,Ɣaa ɔsu ira biara ɔpia i Kristo ngba kayirinɔ fiɛ ɔsu wũ ɔtã mafɔɖedze ikuri lɛ Sate gɔ mba ɔle i ira biara iso.,"Ihe ọsụ rabiara upia Christi ngba ka iri nọ, ihe ọsụ ọtama fọde je ikwiri, lesa tegọ mọlọ irabiara eso.",0.9583,0.3977
+418,"Gɔ ɔnɔ maturi gbodzoo to mafe ne, ɔkarɛ sɔ, “Be nto iba?","bụ onye ị ngba megbe ame. Gị ngba mee lo isemiro mị nya, ya ọgụ ịgọ ụdọ ba ịkatọ ame ana. Jesu ọkọwa marasụ aje, iwe inyọ ọkelewu kwuru ya, ọ yịrị ma",2.75,2.2683
+419,"Midaatã bokɔlɛ so kato, ɣee bopia so sikpã, ɣee bokpɛ̃gu so sirerɛ.","Me daa taa bu kɔlɛ sɔ ka to, ɛɛ gbo pia sɔ si kpã, ɛɛ gbo pɛgu sɔ si rɛ.",1.6667,0.3077
+420,"Ayi gbodzoo kama ne, ma Yudase ɔsɛ iti ame sɔ maaɖoe wũ.",Mayi gbojo kama re. Mayuda se ose iti ameso ma aduro,0.8333,0.3023
+421,"Kiniɔ ne, O Bosate, nyɔ anɔ wa mato makɛkɛ mapia bo!",Kini o nse? O nbo sate. Nyo ano wa ma to ma keke ma pia,1.1818,0.2308
+422,Aɣe sɔ mawɛ̃ pia i mmɔ gɔ mato mate ara wa loakpɔkpɔtɔra bo ara ite i Kristo kafɔkaɖe iso.,A eso ma wụ ịhụ anyị mụ ka mụ tụba ntị na awa na akpọkwa tụra gị ara ịte ị Kristọ ka fọ ka dị.,1.2632,0.5143
+423,"Ɣɛɛ ne, maiɣe ɔbi ala Elisabet ɖe ɔlɛma fiɛ ma inyɔɔ ana ɔɔsɛ katɔ̃ i akɔ ame.","Ɛnɛ, me obiara Elizabeth de Ɔlema fie ma inyuo ana Ɔsɛi Katon i akɔ",0.7647,0.3729
+424,"Fiɛ si maturi iisibata mabɔrɛ i makpise ame gbaã ne, iyɔ lɛ kumɛgɔ mapɛ igbã sɔ ne, “Mitã boɖe si bonɛ, alasɔ kɔrãkaɖe boto boakpi,” ɖe ɔnukuare.","Fia si matre isi bata ma brema kwisia me gba ne. Iyo le kume gwa ma pe igba so ne, mita bo deshi bo ne, aloso kwra ka di botu bu akpi de onukuari.",1.1481,0.2946
+425,"Ɔbɔ so karɔ̃ lɛ ɔturi awe ɔkã atsue isɛ iabo ta kukpi ame, kunuarɛ kukpi gɔ ɔkpi i kudziri iso.","Ọbụsọ karịrị otu afọ a wee, ọka nchịcha a bụ takwụkpị ya mee, kụọ nụrụ kụkpị gọọ pịị kụjiri",1.0,0.6164
+426,“Loɖi karɔ̃ lote ma ɔluwɛ̃ sɔ ma Romase mmara iitã ɔri sɔ maatã ɔturi ipɔ fiɛ maaɣɛgu wũ atɔ̃me.,"Lọdịka anụlọtem ọlụ nwa nsọ, ma Roman sị ịmụra ịtọrịsọ ma tọọtrịpọ, fịe ma egụwa tọ",0.9474,0.5616
+427,Ɔto ɔɣere ma sɔ madaatã lampo gɔ i ma Romase igarakpakpa ɔsia.,"Tụrụ ịma, ụmụaka na-amụta ịgụ na ide akwụkwọ site na",1.0,0.76
+428,"Ɣɛɛ ne, boɣe sɔ iiɖe ngɔ nsɛ ɔbara i mmara iso nɖe ɔturi bɔlɔlɔa, ɣɛɛ ngɔ lofɔ Kristo Yesu ɔɖe.","Eeh, nee. Bụ eziokwu na ngọzọ mmụọ nsọ ndị ọzọ bụrụlụ a, ngọzọ for Kristi Jesu",1.0,0.6986
+429,Ngɔ mpia i sia si ɔdaaɣɛ sɔ ɔsɛ kaa sɔ ɔ̃asu awu.,"M'anwim biaa si aso daa so, ose ka awosu",0.9167,0.5556
+430,"Ɣaa nɖe kuɖɔɛ, fiɛ ɔbiara gɔ nsɛ ɔɖɔɛ maturi ne, ɔpia i Ɣaa ame fiɛ Ɣaa ana pia i ɔ̃ ame.","Aane kudi, fie obiaa go nzo do e ma turi ne, opia yi ami, fie a na pia yi ami.",0.9524,0.4308
+431,"Ngɔ lopɛ ara i sosina ɔkã kanya ne, kukpi nɖe nnɛ ɔ̃abɛse ɔɖi i ne ame.","Ngolo pɛɛra isɔsi na ɔka nka nyani, kukwii na ɛne wa abɛsi odii na",1.0,0.3585
+432,"Ɔmagɛ̃ gɔ matsue masia i kube iso ne, ɔ̃ibawo ɔwɛrɛ.","Oma k'oma chu'e ma si'ayi ku be iso ne, wi ba wo owo",1.1,0.3333
+433,"Fiɛ ara wa i Ɣaa Siwarã sɛ sibie ne, wã wũ ata aɣɛ i nwa i sosina sɛ sibie iso.","Arawak asuase si biene, w'ata ayi nwae so si nase si biene",1.0,0.3621
+434,"Bosɛ bofɔ maturi aɖansiɛ boɖe, ɣɛɛ Ɣaa aɖansiɛ ba ɔrɔrã aɖo, fiɛ ɔsia itɔ̃me nɛgbe ita i ɔ̃ Ɔbi iso.","Wɔse bɔfoɔ Matia dansie bɔdeɛ, ɛɛ, dansie bɔɔ Ɔruradu. Fie osiayitɔme ne gbe yitaa yianwuo bi",1.0,0.5
+435,Mitɛ̃ra atsue i Ɣaa itɔ̃me iso lɛ kumɛgɔ i mi mase ɔbara.,Mitiri achọrọ m ịlụ gị a ịtọ m ịso. Lekụ m ego ị mị ma si ọbụ,1.4167,0.6512
+436,"Atoa sɔ iiɖe ɔsɛ̃ misɛ̃ sɔ miito mibuai me ku ɔwi gɔmɔ ame ne, miina ɔri sɔ miasese me karatã.","Acho aso i dey osemi sensor, mi to mi gbuo emekwu o wu igomu a mene. Mi no riso mi aso semi karata.",1.15,0.3944
+437,"Minɔ sɔ siwarã dzɛmɔ to siaba kayiiso fiɛ kiniɔ ne, ka sipia i ngbe koko.","Me na sɔ sika nwaa je mɔ, to si a ba ka iso fi ekini ona ka si pia ngbe koko",1.0667,0.2632
+438,Ara Ite Isegu I Kuyiri Iso.,eti kɔjeva,1.0,0.8571
+439,Ɣaa kpabo ɔwɛ̃ ɔɖi so ɔte ma fiɛ Bosate ifiɛ ɔfere ma ibɔrɛ i kato.,"Ea kpa bu owe odiso otema, fie busate ifie ofurima iboro ikato",1.0,0.3137
+440,"Mma nɖe Kristo Yesu mare ne, maɔpɛ ma iso sina mamatãra i kudziri iso gu sɛ̃ ara wa nsɛ akpɛ̃ sɛ̃ ɔkã ɔɖuɖu.","Maame Kristo Yesu maale ne, mɔ pɛɛ maaso si na ma maatra ku jiri so, guse rawa nze akpese oka odudu",0.8696,0.3086
+441,"Gɔ ɔnya Petro gu Yohanes to mafe mabo iyo ne, ɔkarɛ ma sɔ matã wũ sikã.",Kọ́nya Pẹ́trol Gùyò Hánnèsì tọ́mafẹ́ mabo íyòne. Ọ́karịma sọ́ matáwúsì,0.9375,0.4259
+442,Wã nɖe aɣɛ kuere wa lofɔ iyere sɔ Ɔbosam gu Satana gɔ losɔsɔla kayiiso ɔɖuɖu ne.,"Wande akwụere wa alụfọ iri, sọọbụ nsam gụsata na. Gọlụ sọsụlụ aka anyị sụọ dudu",1.0,0.5
+443,"Ne Yesu to ɔpɛ ma igbã iwɛ̃ sɔ, “Mikarã inɔ i kuɖedziri gu adziri agbã mama iso.","N'eziokwu, ọ dị mma ịma ihe onye sọrọ. Mụ onwe m kwadoro ya, gwa ajịrị agba mama",1.0,0.7667
+444,"” Gɔ ɔtsue sɔ Yesu ɔbɔrɛ i Galilea ibuiti nɛ iso i Herodes to ɔɖe ne, ɔsu wũ ɔsese Herodes ala ɔba ɔpia i Yerusalem ku ɔwi gɔmɔ ame.","Na kpochapụ Jesu obodo Galili, igwe mmadụ na-eso ya here Herodias, nwunye nwanne ya nwoke Filipo, bụ onye ọ lụrụ.",1.0,0.7921
+445,"Inyɛwe nɛ mina i mi maturi nrɔɔ̃ ame ne, ngbɔ ame i mma mpia i Yudea karɔ̃ iso fiɛ mafɔ Yesu maɖe ɔwe inyɛ i ma Yudase nrɔɔ̃ ame ne.","Onye a wee na-agwa m na ya ma tụrụ unwu a mene. Ngwa m wee bia Jude ka mụ na ya soro fia ma fọọ Yesu ma dị, ọ wee nye m ma Judas unwu a mene.",1.1667,0.5408
+446,Ne ara wa mba ngbã aka ana iwɛ̃ ɔsu sikãrɛtɛa arɔi akɔdzɛ wa ame i Ɣaa gɔ mba ngbã fiɛ ɔpia ɔwi biara sikpã pia ɔtã Ɣaa makpabo ikɔdzɛ magbe ne.,"N'arawa mma ngba, aka na-anyi nwe osisi kareta aro ya akoje wa me iya. Gomba ngba, fio pia owi biara asikpon pia. Otan amapa bu ikoje ma gbe",0.9032,0.3839
+447,"Mma nto makpɔkpɔtɔra mi kumɛgɔgbe ne, magɔ̃ so kere si iro!",ma nu akwụkwọ ọgụgụ mụ na gị gbara ma gọọ nsọkịrịsị,1.0,0.6957
+448,Iikote sɔ ɔ̃aɖe fɔɖedze ɣɛtɛ sɔ ɔ̃aba ɔ̃akɔlɛ so kato fiɛ iaki i ne iso sɔ ɔ̃aba ɔ̃akpase lɛ kumɛgɔ i Tsirise ɔkpase awe.,Ihe kpatara anyị ji nọdụ ebe a taa bụ ka anyị nwee ike ịkparịta ụka banyere ihe a niile mere ka anyị nwee ike ịkparịta ụka banyere ya.,1.1667,0.9457
+449,Ira nɛ i Mose mmara iiwo ɔbara Ne ɔso minyɔ kukaakɔ!,"Eran na imọ sọ ụmra yi ụbra. N'ọsọ mụ nyọ okwu ka akọ, mụ da sọ ya akanyama nri, atụmewa mụ ayi mụ sọ, aba mụ iso. A lasọ ya sọ, mụ ma lụsị mụ warị nụ itomene, mụ nyọ okwu ka akọ",3.9091,2.4634
+450,Ato aaya i Kaisaro katɔ̃ asu fɔ itɔ̃me asɛ wũ i katɔ̃.,"Ato ayɛ ka 1,000 asufoɔ itomi asɛw 1,0",0.9167,0.5385
+451,"Si loɔna kɔrɔ̃ kukaakɔ ne, loatã makpere-ɔ matã me.","Silo na koro ku ka ko ne, ra ta ma koro ma ta",1.3333,0.3846
+452,"Ne Yesu to ɔɣere ma sɔ, “Ɔko Sekelea ame ara wa minɔ loka ngbe ne, nɔme kaɖe gagbe iba i ne ame.","Meye suto oyeremaso, okose clear me arawa mino local ngbene nome kadi gagbe iba ine",0.9091,0.2394
+453,"Maturi mama ma loifiniki sɛ manigã ma ibore ibo, ɣɛɛ mala maɔwarɛ ma.","Mazi ma ma lụọ ịfini ki, sị ma nị ga ma ị bụrụọ igbo, e malụ ama ụwa",1.2308,0.4545
+454,"Gɔ mabo kayogodɔ̃ ga masɛ marɔ Kulɛ Kayogodɔ̃ ne, manya ɔrɛrɛ̃ ɔwɛ̃ gɔ nɖe bafã ita i ɔwi gɔ maɣe wũ.",Koma bu ka anyi godo ka a ma si ma ro kule ka anyi godo ni. Ma nya oro ri onwe ya ka ndi Bafan ita yi owigo ma,1.381,0.5067
+455,"Si misɛ miɖɔɛ mma nsɛ maɖɔɛ mi ɔnɔwɛ̃ ne, be kuso miafɔ i Ɣaa kɔrɛ?","Sɛ mehyɛ me ndwuma nsam a, adwuma me yɛ no onipa enii. Beku so me afoɔre akorɔ",1.1333,0.7
+456,Ma Yudase masɔrɛdze gbodzoo ana ɔfiniki masiai kafɔkaɖe gagbe.,Mayuda se ma soreje kojo ana ofiniki masi kafo kade,1.0,0.3585
+457,"Ɔwi gɔmɔ ame kɔra ne, so iiɣɔ Ɣaa i ma mawɛ̃ iso ala ma nsɛgbai ɔso.",Owu ego mu amaghi kwanu so ya bu anyi mamalu nso ala ma nzu egbayo,0.8125,0.56
+458,"Gɔ ɔkolo katuikɔ̃ gamɔ iilɛ katã sɔ maaya idzoro ala ɔyu ɔwi ka ɔba ɔso ne, marisɛdze ɔsia ita sɔ maarui makɛlɛ Foinike.",Gọọmentị ka tụrụ ime ka a nọgide na-eme ememe ncheta ọmụmụ ya kwa afọ. Marie Sklodowska Curie bụkwa nwanyị,1.0,0.8105
+459,"Si lobara wũ karabara ku ɔtu ɣɔa ne, iyɔ loanyɔ ɔri lotã kuso ifɔ.",Soro brown card bra kuo otu a na-i. I olu anyi ori lo tanku so ife,1.1429,0.4118
+460,"Gɔ Yesu ɔnya kumɛgɔ i so ɔma wũ ne, ɔɣɛ sɔ, “Ito iabua iɖa fiɛ ranase aabo i Ɣaa sigarakaɖekɔ̃!",ɔyɛ su ɔnyakum ɛngɔ ɛsu ɔmanwunɛ. Ɔyɛ sɔ. Ɛtɔ ɛabue da fiarenasi abue asikraka di,0.95,0.4085
+461,"Nnɛ kere makarɛ mabɔrɛgu i bo kɔrɛ nɖe sɔ, bonyigi mawɛrɛba ma mpia i ma ndɛ̃ fiɛ mme wũ ne, ngbɔ ame tutuutu nsɛ lobie sɔ loabara ne.","Unu ekele m karịrị mma biko Igbo kwenu! Ee nso! Kpọnyere mụ nụ ebe a mụ na ndị anyị ma ndị. Fịa mme unu, ngwa m etu etu, m zaa unu bia sọlụ abụrụ",1.1429,0.6408
+462,Maka Mose gɔ nɖe Ɣaa ɔɖabo gu Sɛrɛrerɔ̃ Ibi kuka sɔ.,"Maka Moses, gị onwe gị a, ọ da bụ gị sị na ị biku ka",1.2727,0.5
+463,Maɖe aɣɛ gu ɔ̃ maɖabo iso fiɛ maisina kasɛkɔ̃ i kato.,"Mọnde a yɛ guọmmada abụsọ, fie mmaisi na kasɛkwa ika",1.0,0.425
+464,"Kawirikɔ̃ ne, Yesu ɔɣere ma sɔ, “Ngɔ mba atsue si ɔnɔ nnɛ nto loɣɛ.",Kaori kone? Yesu oye maso.,0.9286,0.6735
+465,"Ne Yesu ɔɣere wũ sɔ, “Wũ ɔlaa nnɛ ɔso aba ne, tã ipɛ-ɔ siwa si abara ne!","na afi awo irekwanu na Yesu oyiri nso? Nwola, unu asua bani taa ipeesiwa si abrani.",0.9412,0.7451
+466,"Ɣɛɛ gɔ matã wũ kukpi ipɔ ne, matã sɔ kanyamaɖidze atɔ̃me ɔba i ne ame.","Egamata nkụkụ ịpụrọ ị, mata sọkanya ma dịrị ya atụmị ọbanyị na",1.0,0.5849
+467,Ɔkɛlɛ Zakaria iyo ɔsɛ ɔ̃aya Elisabet.,"Okele Zakarua Iyo, osonwa ya Elizabeth",0.8333,0.3333
+468,"Atoa sɔ ise ngbɔ ne, mafɔɖedze ma nɖe mawɛ̃ ku Kristo kasɛ iise ngbɔ.",Ma fọdẹ je ma ndi ma nwe iku Kristi ka sẹ,0.9286,0.6415
+469,"Ɣɛɛ maladze mawɛ̃ ma mpia i mafɔɖedze ikuri ame to mayu bo manyɔ sɔ isɛguso nɛ boba i Kristo ame ne, maamɔɛ̃ ne mafɔ, makpesera bo masande matã ma Yudase kubarara.",Malaje ma nwe ma bia yi mafo de je ikwuru ami. Toma yugbo manyu. So iseguso nebu baye kristo amene. Ma mene mafo. Ma kwesira bu masan de matama yura se kubarara.,0.9355,0.2656
+470,Maaɖe marɔ̃go ma loisɛ marɛ̃ ndã fiɛ masɛ mabara ira biara kukaakɔ.,"Mmadu amarago ma odi so ma renda, ife masi ma bu na ira biara aku ka aku.",1.1667,0.3396
+471,"Iyi iwɛ̃ gɔ Yesu pia ɔto ɔte maturi ara i Ɣaa isɔrɛyo ɔɣere ma Itɔ̃me Bielea ne, masɔrɛdze makpakpa gu mmara matedze gu kaɖe matɔ̃ɖedze ɔba mmɔ.","Ihe a nwekwara ike isi na ya pụta ọtụtụ ọtụtụ ihe a na-ahụ anya na ya. Ma sọsọ jee ma kwakpa gịụ mụrụ amata eje, gị ka dị amata na eje ọba",1.1481,0.6903
+472,Bosate Yesu Kristo abualɛra si awegu mi.,Mosea te Yesu Kristo abuaralera si awu egumi.,0.7143,0.1818
+473,"“Ne Abraham to ɔɣere wũ sɔ, ‘Fɔ manyiibi ba ara wa i Mose gu Ɣaa kanyamaɖidze ɔtsɛrɛ masɛ.","Na abụ ahụ, o kwuru sọọsọ fọmụla ndị biara waị mọsị guo akwụkwọ akanyama dị iche iche ochie ma",1.0556,0.6667
+474,"Mi ma Filipise ɣe kukaakɔ sɔ karɔ̃kasɛkɔ̃ ɔwi gɔ lobɔrɛ i Makedonia fiɛ losɛ Itɔ̃me Bielea imomo ipɛ karɔ̃ ne, mi ɔnɔwɛ̃ pɛ losese me karatã fiɛ mifɔ wũ kusɛkusɛ.","Me ma Filipise kuka akoso ka nuka se o wigalo buru Macedonia, fie losa itomi bi eli imumu epe kanu ne. Mu unu epe losi se me karata fie me fo nku sekuse.",0.9667,0.3413
+475,"Ngbɔ ame i masɔrɛdze gu mmara matedze ana ɔma wũ maɣere so sɔ, “Ɔɖi mawɛ̃, ɣɛɛ ɔ̃ito ɔwo so ɔɖi!",O di ma wa o.,1.0,0.9155
+476,"Atoa sɔ Ɣaa ɔbi ɔɖe ne, iki i ɔ̃ inyɛwe ame ne, ɔsuã sɔ ɔ̃akã Ɣaa atsue.","Atoasoa obi odene, ike onye wea mini, osoasoa okan achu",1.0,0.4902
+477,Ɣɛɛ Ɣaa loɖi araɖea ɔɖuɖu sɔ mma lofɔ wũ maɖe gbaã fiɛ masiai ɔ̃ itɔ̃me si maaɖe ku siba ipɛ.,"Ehen, alodi aradi odudu, so ma lo fo umade. Gbaa, fi e ma si ewon itomi si ma de ku si",1.0,0.4648
+478,"Bo nɖe mma lotu sirɛrɛ̃ i ɔnukuare ame, alasɔ boto bosɔrɛ Ɣaa i ɔ̃ Siwarã ame fiɛ boba isoɣɔ i ngbã mɛ bosi i mawɛ̃ ibaragu Kristo Yesu ame.","Bụ ndụ m a na-atụkwasị n'ime ya, ọ na-asọpụta m sọrọ ya, ihe ọ sị m wee mee, m ga-eme ya, ma nwee ịrịba ama Kraịst Jisọs a.",1.0,0.7757
+479,"Ne ɔso si makpere Yesu iyere ne, mma ɔɖuɖu mpia i kato gu karɔ̃ gu kayi ga mpia i karɔ̃ kayirinɔ ɔɖuɖu aapɛ agɛgɛ̃.","na-azọsị m akpịrị Yesu ịrị na ya. Mụ na ụdị m bịa ịkatọ, gụkarụ, gụka ịga bịa ịkanụ ka anyị rịọ n'ụdị, a pụghị ịgị",1.0417,0.6092
+480,"Kaya tutuutu ne, masɔrɛdze makpakpa gu kaɖe makpakpa ɔbara adzuni sɔ maaɖoe Yesu.","Ya tọchịtụ nụ, ma soro jee ma kpọkpọ, gụka dị ma kpọkpọ ọbụra ajụnịsọ ma dịrị Jizọs.",1.3077,0.5224
+481,Ɔ̃ nɖe ngɔ loasu ibɔradziri ɔɖe kayiiso ɔɖuɖu iso ne.,"Ode go lasu ibura jiri, ode ka isu odudu iso",1.0,0.4524
+482,"Ɣɛɛ ne, itɔ̃me siɖu iibo karɔ̃ kukaakɔ.","Ene, eto m si di Igbo ka m rokwa ka a",1.5714,0.5172
+483,Ne ka ɔtã mapɛ Yesu kukaakɔ fiɛ ɔsu wũ ɔtã sɔ makɛlɛgu wũ maapɛ mamatãra i kudziri iso ne.,"na ka o tan ma pe Yesu ku ka ko, fie o su o tan so ma kile gu ma pe ma ma, tren ku jiri yi so",1.3684,0.4085
+484,Daatarĩgu kato ala mmɔ nɖe Ɣaa sigaraiyara ne.,"Ɛda a yɛnne gukatu, ala mmawunne yaa sigira yira",1.125,0.4474
+485,"Kaɖesɛ̃a ne, bota bokɛlɛ Kaisarea, bosɛ boabo Itɔ̃me Bielea ɣɛdze Filipo iyo.",Kedu si a na-eweta bukere caesarian? Biko gwa abuo etu m ga-esi lie ya eje Philippians.,1.3333,0.6557
+486,Ikpɛ̃ ta Ɣaa makpabo ɔkã sɔ maatsue ira i ara wagbe iso.,"Ibi taa yaa ma kpaa bu ọka a, so maa chụe irayi ara wa agba",1.1667,0.4651
+487,"Fiɛ si isɛ karɔ̃ i bo iso ne, nda iawirigu mma loifɔ Ɔ̃ Itɔ̃me Bielea maɖe?","Ihe a isi ebe a kariri igbo iso ni. Onye a abughi kwa umu nwa ife ozo, etu m biara ebe a",1.3125,0.7818
+488,"Ɔpia mamama ana, mapɛ mawɛ̃ fiɛ maɖoe matsɔra.",maame maame maame ana maame maame nwe fiamaduro,1.0,0.75
+489,Nto loaki i Makedonia fiɛ loabo mi kɔrɛ alasɔ loɣɛ sɔ loaki i mmɔ tɔtɔ.,"Dɔla kyi mɔkɛ rɔdya, fyalɔ abɔ mikorɛ, ala sɔlɔ e sɔlɔ kyi mɔtɔ",1.0,0.4464
+490,"Isɛ ire ibɔrɛ, imɔ ibara kadzirimi ga lomɔ kaɖo i ayo ame kakpɛkɔ̃ ga matɛ̃ ɔkpã mapia ame, kata akpa katã ɔyu sɔ kato kurodzai aabara ayo i kã ame.",Iseere ibure imu ibura ka jiri mi ga lu mu ka do yi ayu ame ka pekun ga matin ope oma pia mi ka ta akpa ka ta oyu so ka tukuru je yi abura ayo yi ka mu,1.1333,0.3246
+491,gɔ ɔse nɖe Nahum gɔ ɔse nɖe Esli.,Gọọmentị na-ahụ Gọọmentị,1.0,0.68
+492,"Si boɣɛ sɔ ikpi kuiwɛ̃ na i bo iso ne, boto bosɔsɔla so, iyɔ ɔnukuare kuwɛ̃ na i bo ame.",Si na obu ya so anyi kweekwee nwanne anyi nwoke iso na ya. But o bu so soso aso i ga onukwa reku nwanne anyi nwoke a,1.2,0.7812
+493,Iba ana sɔ igara ɣɛtɛ gɔ loiɣe Yosef ɔtsɛ iɖe iso i Egipte.,"Iba anaso igara etes, ka lo iyi Joseph oche ide so Egypt.",0.8462,0.4565
+494,"Gɔ ɔkpese ɔba marasuãdze itɛ mamɔ kɔrɛ ne, ɔnya sɔ maɔrɛ sirɛ, ne ɔɣere Petro sɔ, “Ne ɔso miibawo me ɔsɛ ɔdzuɛ̃gu bidɛ ɔɖɔwũ ɔwɛ̃?",O kwesiri obamara so anyi i tee ma amaghikwa ya. O ya so ma o resiri na o ga-erepeturu so. Na o so m i baa n'ime ose oji egwu bido,1.24,0.6061
+495,"Iwarãyi iso ne, mawarã lɛ kumɛgɔ i mmara ɔte awe.",Ibu na-eso na ma ọ bụrụ na ị mụọ gị ịmụta otu a wee.,1.4,0.6842
+496,"Fiɛ ayi atɛ kama ne, ɔto ɔ̃aledza ita ibɔrɛ i makpise ndɛ̃.","Yaii, até amanhã.",1.0,0.8182
+497,"Gɔ kutsuɛ ɔɣo ne, Yesu gu ɔ̃ marasuãdze ɔbɔrɛ i ɔmagɛ̃ ame.","ka mma to ma fa ka iduso. Ozi ana, bute bo lengo Dubai bosa te ye ri ami.",1.5,1.0
+498,"Fiɛ fɔ ngɔ fɔ nɖe wũ rabaradze laa ana ne, buai marɔ̃go inyɔ magbe, alasɔ maɔbuai me gbaã i Itɔ̃me Bielea iɣɛ ame ku Klemens gu wũ marabaradze laa ɔɖuɖu ma ayere loibawo ɔrɔ, ɣɛɛ ma ayere pia i Ɣaa magbanadze ɔko ame.","Nke a bu akuko banyere otu nwabia ji ilu anani, bu ya maru go ihe oma gbe, a loso ma bu ya megbo ya, i to me bia ya ami, ku clems, bu umu nwabia ji ilu orudu, ma anyi rele ebe a uro, e ma anyi repia ya magbanaji oku.",1.1163,0.5621
+499,Mma i Ɣaa ɔkpere ɔbɔrɛgu i idududu ame ɔbɔ ɔ̃ ikpawaĩ siare ame.,"mmanụ a dị mma, o nwere ike ịgwọ ọtụtụ ọrịa dị iche iche. Ọ bụghị naanị na ọ na-agwọ ọrịa, ọ na-enyekwa aka n'ịdị mma nke ahụike.",2.0,1.54
+500,"Ɣɛɛ si miibawo so ɔɖe iso ne, miyiri marã gu marɔ̃go si minyua ɔtsue ala mi ɔrakolo ɔso.","E si me baa oso deesone, me iri mana gumarugo si me nyo ochie ala me orakoloso.",0.8889,0.3529
+501,"Miɣe sɔ Kristo ne, ɔba sɔ si ɔba ɔ̃asu kayiiso akpi ɔkɛlɛgu, fiɛ ɔ̃ mɔmɔ na ikpi kuiwɛ̃.","Mee so Kristi unu na, ọbụsọ si ọbụ ọnsụ ka anyị sụ apị ọkụlegu, fịa ọmọmọ na ipikwị",0.9444,0.5385
+502,So si siɣɔ mma anɔ lorɛtɛ i Ɣaa kuɖɔɛ ibara iso.,"So, since you are a man, you will not let your akudo",1.0,0.8108
+503,"Nnɛgbe loate ma sɔ mato maawɔ, ɣɛɛ mi mito miana ngbã, alasɔ Ɣaa nsɛ ɔtã miɖe iso.","Me be late ma so, ma to ma wo, ehn me mi to mi ana ngba, ala so ya nzo, time ide",1.1765,0.381
+504,Alasɔ Siwarã Bielea to siate mi nnɛ miaɣɛ si ɔwi gɔmɔ ɔɔɣo.,"A na-asọ nsọ ịwra bịa na-atọ sị ya, atọ mụ na mụ na gị anyị si ọ wụ ịgọ mụọ.",1.5833,0.766
+505,Mmɔ i Siwarã Bielea ɔbo i ɔbi ɔse Zakaria ame ɔɣɛ ɔsɛ sɔ.,esewan bia bia a bo i obi ose Zachariah ame oye ose,0.8462,0.5227
+506,"Mmɔ i Yesu ɔfiniki ɔɣere ma sɔ, “Yerusalem marɔ̃go, midaabiɛ me.",Jerusalem,1.0,0.8367
+507,"Maturi ɣɛ i mmɔ mato manyɔ fiɛ ma Yudase matɔ̃ɖedze ana to mabara Yesu aɣiãra sɔ, “Ɔɖi maturi mama, ne ɔso si ɔ̃ nɖe Kristo gɔ i Ɣaa ɔsia ikparĩ ne, ɔɖi so si bonyɔ!","Matri, eyi mu, mato ma nyo. Fie ma Judas e mato ne je, ana ato ma bra Yesu ahyia raso. Odi matri mama. Ne oso si wo ne Kristo, go ye osi ekparine. Odi so si gbon",0.8571,0.3145
+508,Samaria marɛrɛ̃ gu marɔ̃go gu mabiɛtɛ ɔɖuɖu sɛ mawarɛ wũ ala ɔ̃ kurabarara ɔso.,"Sɛ ma ware mu, ara na okura abrabɔ ara",1.0,0.6935
+509,Bokɔse Ɣaa to ɔ̃asɛra wũ sigara lɛ ɔ̃ ɔwa tɛtɛ David awe.,Boka se ya to asram sigra le owatete David,0.9167,0.3721
+510,Alasɔ ma wũ mato maakpere-ɔ lɛ kumɛgɔ akpere ma sɔ maba maaɖe ara.,"Na so ma wu ma tu ma kpe ya, le ku me go kpe ma, so ma ba ma di ara",1.3846,0.3654
+511,Yesu Ba Kuɖɔɛ Ɔtã Yerusalem.,Owee ka mma n'eme. Mụ afarịsịsị mụ wee,1.6,1.087
+512,Nda ibara fiɛ boto bonɔ maɖe ika i bo abuiti siɖe ame?,"Ndeewo, afia bụrụ gị mma. Mmadụ iri ka Igbo abụọ etisịde",1.0,0.6667
+513,Mi mɔmɔ nɖe ikparĩ nɛ loate sɔ Bosate Katɔ̃mesɛdze loɖe.,Me momo onde ikpari na lu ate so bo sate ka to bese je lo,1.5,0.3556
+514,"Misore wũ nsɛgbai i ara wa misuã gu nwa mifɔ mibɔrɛgu i wũ kɔrɛ, wũ ikaɖe gu kurabarara ame.","Misu na uzo gba anyi, i aro wa misu agu wa m ifo m bu egwu nkwa re. Nwi kade gu nkwa brother a",1.1053,0.5417
+515,"Silɔ dzɛmɔ ɣere wũ sɔ, “Mme nɖe Yesu gɔ ato akpɛ̃gu teteree ne.","Sɛ wọde mu yere sọ, mɛnde Yesu gu ato akpegu",0.8462,0.5106
+516,gɔ ɔse nɖe Nahor gɔ ɔse nɖe Seruk.,Gɔnsɛnde naho. Gɔnsɛnde,1.0,0.4615
+517,"Si maiɣe ɔnyiiɔ kɔra ne, ilɛ wũ iɖo!","Sɛ me onni okraane, ɛlɛwui",1.0,0.5185
+518,"Ikpɛnɛ nyɔare kutsuɛ gɔ Iwarãyi ɔɔro ne, Maria Magdalase gu Maria gɔ nɖe Yakobo ɔnyi gu Salome ɔsɛ maaɣa korobo sɔ maasɛ maasɔla Yesu.",Nkwenye nwaere kuturu go inwunye ya o wuni Maria Magdalena si gu Maria go ndi ya kobo onye gu Salome Ose ma ya krobou so ma se ma sula,1.0,0.422
+519,"” Ɔluwɛ̃ ne, ɔsarɛ, ɔsu ɔ̃ ɔkala ɔtsɛ isɛ.","ɔwuiɛ, ɔsarii, ɔsuo kɛseɛ, ɔcheɛ",1.0,0.6071
+520,"Ne Yesu ɔkarɛ wũ sɔ, “Be ɔso fiɛ ato akpere me Ɔbielea?",Naa yɛ su akara nso? Bɛɛso fia tua kreme nso bie,1.0,0.4878
+521,Lonya ɔpo gɔ nse lɛ aɣɔɣɔɛ wa ame lorɛtɛ lɛ ɔtɔ.,Lunya ọpụgọnze le a wụ hụwa mụ rụrete le ọ,1.0,0.5676
+522,"Mibɔ so karɔ̃ si miɖe maturi ɣɔa ana ne, mina ɔtu.","Me bɔso ka no si me de ma through a, anaane me nno",1.0909,0.4324
+523,"Ɣɛɛ gɔ ma Yudase ɔta maya ne iso ɔso ne, itã sɔ loɣere ma sɔ loasu wũ itɔ̃me lokɛlɛgu Igarakpakpa Kaisaro katɔ̃.","Ego ma yiri a si otamayi na so oso na. Itasoro m so. Lasu otu m elo k'elu gị, ị ga-akwụkwa ka ị zụrụ ka",1.1364,0.4713
+524,"Ne Bosate ɔwe i ma ame, ɔsɛgu ma sɔ maɖi ɔ̃ Itɔ̃me Bielea mate iki awawãra agbãagbã wa mabara i ɔ̃ ɔle ame ne.","Na bọsị atọ Ọwerri maa mị, ọ sị gị masọ ma dị ọịtọ mebị elị amate ịke awọ nwara agba agba, wa ma bara ị ọlị amị nị.",1.0833,0.3902
+525,"Gɔ lonya wũ ne, lobɔrɛ lofere i ɔ̃ ngbatɔ̃ lɛ kpise, ɣɛɛ ɔsu ɔ̃ kuɖearɔ̃ ɔsia me iso ɔɣere me sɔ, “Daanigã!","Gọlọ nya wụ ne, lụbụrụ lụfụre ịyọ ngbata ọlẹ kpịse, ọsụọ nkụdi arụọ ọsị amẹnsọ ọyịrị m'esọ. Dịanị",0.9545,0.5325
+526,Ɔɣere mma loiɖe ma Yudase fiɛ madzorogu Ɣaa gu ma Yudase ma lobore mabo wũ.,"M'adom m'adom Yuda se, fie ma juru gu ya, gu ma Yuda se, ma obrempon",0.9333,0.3833
+527,"Ne Yesu to ɔɣere ma sɔ, “Si mito mikparama kayi ne, miɣɛ sɔ.",N'enye sụ tọ eremasọ. Sị mị tọ mị kpara maka ịne mị esọ.,1.0,0.3636
+528,"Mma nto maɣɛ itɔ̃me ku adzuni sɛɛ ne, kuɖɔɛ ɔso mato maɣɛ ne, alasɔ maɣe sɔ Ɣaa ɔpia me sɔ lokpɛ̃ i Itɔ̃me Bielea iti.","Maanu ma, tumi kwaa junisɛne? Kuu dɛɛso ma tumi haane? Alasoma ye so yaa opiamɛ, solo peyin tumi biɛle",1.0,0.4318
+529,Ɔ̃ masiaidze ana ɔki nrɔ̃ ɔɖuɖu iso maɣɛ ɔ̃ Itɔ̃me Bielea.,M'aseeje ana okee nwanne odudu isoma onye itom ebiyele.,0.9091,0.5581
+530,"Ɔsi wũ mmara sɔ, “Daaɣere kuwɛ̃ nnɛ loba.",Asi umraso. Daari kuwe,1.0,0.5667
+531,"Maɣere wũ sɔ, “Abolo kuboi kukɔdzɛ boba.",M'asor? Aboro okugbo iku remi to. Ma erun sor? Aboro okugbo iku koje,1.8571,1.2581
+532,"Bonɔ ɔɣɛ ana sɔ ɔrɛrɛ̃ gɔ lobɔrɛ i Nasaret fiɛ marɔ wũ Yesu ne, ɔto ɔ̃abiɛ Isɔrɛyo nɛgbe fiɛ ɔ̃afinikira Mose mmara mɛ ɔtã bo.","Na sɔɔ, Ɔrengo Lubra Nazaret, fia maron Yesu ne, ɔtuu abie Israelfoɔ na ɛgbe. Fiawaa Finikra Mosi mmara, me ɔtam",0.92,0.4227
+533,mata sɔ maakpɛ̃gu Ɣaa gu ɔ̃ Kristo.,maakwengu ya guo Kristo,0.8571,0.4615
+534,Nwagbe ɔɖuɖu to aakpese fɔ are si abɔ iti karɔ̃ atã me.,Mewaa gbe odudu to akpese fo are si abo iti karun atame,0.75,0.2857
+535,Fiɛ ira biara nɛ mabara i iwɛrɛ ame to iare kayi.,Pia pia ne ma bra yi wore yame tu ha re ka,1.0909,0.4474
+536,"Miɣe sɔ iiɖe sikãfudza, ɣee sikãrɛtɛa dzɛ nsɛ sinina siɖe i Ɣaa ɔsu ɔtã mi iti kuso fiɛ ɔɖi mi ɔbɔrɛgu i ngbã mɛ i mi mawa ɔsɛ fiɛ mina kusia kukuwɛ̃ ame.","Mee ya so ị dee sị ka fụja, ee, sị ka recte ajụjụ a sị na na, sị dee ya ọsụ ọtammị itikuso. Fụọ dị mị ọbụrakwụghị ịngba m'enyị mị ma wa ọsẹ. Fụe mị na kụsị akwụkwọ nwayọ a",1.2121,0.6303
+537,"Manyii, mi mɔmɔ miɣe sɔ bo mi kɔrɛ iba ne, iiɖe siefe.","Mani, mi moma mi yesso bo mi krawi bani, iye de siye",0.75,0.4
+538,"Ɔwi gɔgbe ame i Kristo Siwarã ɔki i ma iso sitã maɣɛ ara masɛ kumɛgɔ i Kristo aawe inyɛ fiɛ ne kama, ɔ̃ana ikpawaĩ siare.","Onye gọọgụọ mụ na ịKristọ si nụ, ọ ka ịma nsogbu sị taa mụ na ya ara ma sekụ, mụ na ya bụ ịKristọ a wee nye, sị ya na kama, na ọ na-akpa nwansị.",1.32,0.6383
+539,"Ɔbiara gɔ loafɔ Itɔ̃me Bielea nɛ ɔɖe, fiɛ ɔ̃afɔ Ɣaa itupie kubarara ne, ɔ̃ana iɖi.","obiara golu afo itoolu mebie leane o di. Ife afo a, anyi tupu ya kubara leane. Nwanne anyi",1.2,0.4839
+540,"Mmɔ i Ɣaa makpabo ikɔdzɛ ma nto arɔi akɔdzɛ ɔwɛ̃ ɔba wũ kɔrɛ ɔɣere me sɔ, “Ba nyɔ kumɛgɔ maakpadzɛ̃ asɔrɔ̃ɖedze siare gɔ nsi i ndu gbodzoo iso kutsue.","Omonye a ma kpa bu iko je ma ndu aro yi. Ako je, owa oba nkwo o ire meso. Banyi kumego ma kpa je. Asu na eje si are gon si ndu gbojo isokwuchu",1.1379,0.4483
+541,"Akɔ anyɔ kama ne, maɖi Felike, ne masu Porkio Festo masɛra i ɔ̃ kanya ne.",Akwa nyocha mana ma ndị feli ke na masụ pụkịọ fẹsịtọ masara ịwọ ka,1.0,0.4727
+542,"Ne kama ne, maɖansiɛ inyɔ magbe ɔnɔ silɔ teteree siwɛ̃ ɔbɔrɛ i kato siɣere ma sɔ, “Miba i kato ngbe!",Me baa Ikato,1.0,0.8684
+543,"Fɔ ɔrɔ̃go gɔ fɔ nɖe fɔɖedze ne, iawo ɔki i fɔ iso sɔ aaɖi fɔ ɔrã gɔ loiɖe fɔɖedze.","Fɔɔn gogɔ fɔɔn fɔɔn de je ni, yaa oki fɔɔn iso sɔ a di fɔɔn agɔlɔ ide fɔɔn",0.8947,0.4426
+544,"Nnɛgbe ɔbara ma ɣii, ne ɔso matsɛ Ɣaa ile.","Na gbe oburama yi, na oso mache ya",1.0,0.5
+545,"Minyigi sɔ mito miafɔ kaɖekɔ̃ lɛ mi kuso, alasɔ Bosate Kristo mɔmɔ mito mibara karabara mitã.",M'n'ni gi so m'n'tọ m'ya fọ ka d'ekọlẹ m'i k'usọ. Alọ sọbọsate Kristọ m'ọmọ m'tọ m'i b'ra kara b'ra m'i,1.1875,0.3067
+546,Iyɔ maibaɣɛ inyakpi kuiwɛ̃ i mi iso.,Maa soro je ma nse ma le igra ka de gan se se kle. Yaa bu ma ma turi ma,2.8571,1.5
+547,"Ne ɔso ana ne, maisu ndã ɣɛtɛ mafere i bɔi ɔko akpo kuere ame.","Ọsọ a wụ ịgọ mbụ r'ama teje ma ndị Mafarisị sị ọ ya sọ Yésụ sị ọtọ, ọ degu makwụ ịbụ r'aje gụ ma la mpụ ụfọdụ a dịrị anị. Makarị ọ marasị a jesọ. Ndị ọsọ",2.6429,2.0213
+548,"Ɣɛɛ Festo ɔɣere ma sɔ, “Yorɛdze Paulo pia i Kaisarea, fiɛ mme wũ loto loakɛlɛ mmɔ i ɔwi kurukutu ame.","Efe to oye ma so, yorè je pawo le pii kai saria. Fiamon to lo kle mo, yo wi kulu kutu amen.",1.05,0.4231
+549,"Ne Yesu ɔpɛ ma igbã nɛgbe sɔ, “Ɔwi ɔwɛ̃ ne, ɔrɛrɛ̃ ɔwɛ̃ ɔkpɛ̃ adziribi kakpɛkɔ̃.","Na Jesus ọpẹ ma igbagbe sọ. Ọwọ iya wa ni, ọrọ ọpẹ ajiri bi ka",0.9333,0.5614
+550,"Ɣɛɛ daasusu isɔrɛyo katɔ̃, alasɔ masu mmɔ matã mma loiɖe ma Yudase fiɛ maatutui sikpatɔrɛ̃ i ɔmagɛ̃ sekelea iso awa sina-inyɔ.","Eeeh, na so we start am you know. As I start am so, I no mata, I no dey mind who talk say. If I talk true say kwenu, e no get as e be, na so.",1.7143,0.8
+551,"Matu-ɔ sirɛrɛ̃ o-o, maitu-ɔ sirɛrɛ̃ o-o ne, iiɖe ne lonya, ɣɛɛ nnɛ lonya iɖo nɖe sɔ aɖe ɔturi ɣɛtɛ.","M'atwiri asɛm reo, m'atwiri asɛm reo ne, ɛde nelonya, ɛɛ nelonya ido ne so, adi otruyɛ",0.9474,0.4789
+552,"Gɔ ma ɔɖuɖu ɔɔɖe mami ne, ɔɣere ɔ̃ marasuãdze sɔ, “Mimala kupupui ɔɖuɖu ne midaatã kukawɛ̃ si kanina.","Gom ma odudu o de ma mi ne, o iri omarasu a Jesu. Mi mela akupupu ya odudu ne mi data kuka nwe si ka nina.",1.2222,0.359
+553,"Gɔ masɛ i ɔri mato makɛlɛ ne, manya ɔ Kirenese ɔwɛ̃ gɔ marɔ Simon gɔ ɔbɔrɛ i akorowa awɛ̃ ɔto ɔba Yerusalem.",Gọọmentị Israel tụrụ anyị anya na ọkireni si onwe gọọmentị Simon Gọbị akụrụwa anyị otu obodo Jerusalem.,0.9545,0.6024
+554,"Ne makarɛ so sɔ, “Iiɖe ɔrɛrɛ̃ gɔgbe ɔɖe mpia ɔto ɔɖoe Yesu masiaidze i Yerusalem ayi wa lofe ɣɛɛ?",N'eme ka a na-esoro gị. Ihe dị mkpa bụ na ịbịara ọtọ dịka Jisọs Masịahụ ije Jeruselem anyị wara ofe ya.,1.1053,0.68
+555,"Ɣɛɛ si bo, ɣee kpabo gɔ lobɔrɛ i kato ɔɣere mi Itɔ̃me Bielea mama nɛ loikotegu nnɛ boɣere mi ne, Ɣaa si ɔwɔra wũ pelepele.","E si na ị kpaba ụgbọlọ ịkato, ọ ga-enye gị itomobile ama ama. Na-alụ ekotegun na ịgbọ ịremine, ya si ọwọrọ",0.92,0.5638
+556,"Si mamɔɛ̃ aɣɛ ɣee si manɛ ndu lalaa ne, iibabara ma kuira.","Sima mma ya eh, eh sima na uju lala ne. Iba aburo m akwa",1.0833,0.4091
+557,Bɛrɛ mme ɔɖe?,Brahmaadi,1.0,0.7
+558,Ngɔ loya ɔsia i isã si ɔdaanina ɔwi sɔ ɔso ɔba iyo sɔ ɔ̃asu kuira i iyo kame.,"Ngolo ya osi ayi isa, si oda ni na wi so aso bayo so aso ikwira iyo",0.8889,0.3621
+559,"Ne ɔsu ndã ikɔi ne, gɔ ɔpɛ Ɣaa siba i ne iti ne, ɔsu ɔtã ma, ne manɛ ne.","na osu ndaanyi kwa ini, ka ope ya si baanyi na ite, osu otama na ma na",0.9474,0.54
+560,So si siɣɔ mma kama i maturi sɛ mati ala Ɣaa kuɖɔɛ ibara ɔso.,"Sɛ sisi yi deɛ, m'aka m'ani matire m'ati. Ala akodu ɛyi bra",0.8571,0.4468
+561,"Si ɔ̃ ɔrã gɔmɔ ɔkpi ne, ɔ̃awo kurã mama ɔyiri si ɔbie.","si ọ na-agọ m ọkụ ịre, wa ọkụrẹ mma ọyịrị si ụbị",0.8333,0.5641
+562,"Atoa sɔ lokpɛ̃gu wũ, lotia wũ, fiɛ loɣɛ anyakpi i ɔ̃ iso ku ɔwi gɔ lofe fiɛ loaba loafiniki ne, Ɣaa ɔnyɔ me nnya alasɔ ɔwi gɔmɔ ame ne, loifɔ wũ loɖe fiɛ loiɣe nnɛ loto lobara.","A na-akpọkwa ya na oge ochie, ebe a na-akpọ ya kwa iwo nsoku, wigo fe, ebe a na-akpọ ya kwa belafini, ebe a na-akpọ ya kwa anyụmụ enya, a na-akpọkwa ya kwa wigo maamene, iwo lode, ebe a na-akpọ ya kwa eyenedi",1.1351,0.8346
+563,"Si mipia ɔraɖui i karɔ̃ ame ne, iisɛ ire si iiɖe katɔ̃ iburi.","Si bi pia ra du ikarua meni, i se ire si i de kato igburu",0.9231,0.2667
+564,"Ɔwi gɔ ame i Herodes ɔɖe sigara i Yudea karɔ̃ iso ne, Ɣaa sɔrɛdze ɔwɛ̃ ɔwe gɔ marɔ Zakaria.",Onye gbara ama Herodes o desighara Judea karịrị isi na ya suru eje o wee gọọ marọ Zakaraya.,0.9474,0.5072
+565,ne lokpese ita nɛ lofɔ kuɣa iɖo ata ɔɖuɖu ne.,"N'elokpesi, ita n'elofo ku ya, idu ato dudu ne.",0.8,0.2857
+566,Ɣɛɛ lona kuira pɔtĩ nɛ loatsɛrɛ losese Igarakpakpa i ɔ̃ iso.,"Agri-Pagu beniki opiaman agarara, fie ma ba atomi ka anyi",1.0,0.8542
+567,"Ɣɛɛ Bosate ɔfedza abualɛra gbodzoo ɔfere me iso fiɛ ɔtã me kafɔkaɖe gu kuɖɔɛ, ara wa nɖe bo are si bobara mawɛ̃ ku Yesu Kristo.","Bụ sọọsọ ofufe ya bụ alịrị agboju ọfịrị mee so, ihe ọtọ meka fọka dị egwu kwuru ya. Ara wa nne bụ arị sị na ọ bụrọ ma na ekwu Jesu Kristi",1.2,0.52
+568,Midaabara ara wa loabo Ɣaa Siwarã so alasɔ sɛ̃ i Ɣaa ɔsu ɔsɛ mi ikpo sɔ ɔ̃afɔ mi ku iyi tsɔra iso ne.,"Me daa abrabɔ a rawala abɔ no asiwura nso, alasɔ sɛɛ yaa ɔsu ɔse me ikpo. Sɔ wa fɔ me iku i ichura iso",0.913,0.3158
+569,Masɛrɛkɔdze ɔkpese makɛlɛ mato male Ɣaa makɔlɛ ɔ̃ iyere kato i ira nɛ manya gu nwa manɔ ɔso alasɔ iba ngbɔ tutuutu lɛ kumɛgɔ i Ɣaa kpabo ɔɣere ma.,"Maserakwuru m okwu eji makere mmadu ma lee ya, makwalu ya ihe di ka to irane, manyagu nwa ma nu oso alaso iba ngbo tututu leekomego ihe akpa bu oyiri",1.0345,0.4224
+570,"“Si ɔrere to ɔbie sɔ ɔ̃atsue iyo siare ne, ɔ̃aɖe katɔ̃ ɔsɛ i karɔ̃ ɔbu ara wa ɔɖuɖu lonya gu wã kuɣa ɔnyɔ si ɔba sikã ɔ̃awo ɔtsue ɔro tɔtɔ fiɛ ɔ̃asɛ karɔ̃.","Si o ba si ka nwon a wo oju ooro toto, nwon a se",0.9697,0.8053
+571,Aɣɛi ɔkã ɔ̃ iso ɔɖuɖu fiɛ masɛ masu wũ maasɛ i ranase gɔmɔ kayogodɔ̃.,"A yɛ yɛn nka ɔyɛ nsuo dodo, fia ma se ma su ma se i ra na se gɔm ka yɛ go",1.5,0.4717
+572,"Loata lokɛlɛ tete kɔrɛ losɛ loaɣere wũ sɔ, “Tete, lobara ikpi, loɣɛrɛ ɔ gu Ɣaa.","Lata lokle tete kre, le selaeron so tete le brekpi lo ereo gua.",0.8667,0.3833
+573,"Miɣe sɔ ɔwi gɔ miɖe maɣɔsɔrɛdze ne, mitã ara wa nna ngbã ɔɖe mi iso fiɛ abara karabara i mi iso.","Yes, o, we go meet for Mile 12. Make una gba ode mi so. Fia abracadabra, I miss you.",0.9048,0.5541
+574,Ne ɔso midaatã sɔ sirɛ aasu mi lɛ mma loiɣe Bosate.,"Nso mi daase asore ase mi, na ma me ye ebusa",1.0,0.5
+575,"Gɔ Anania ɔnɔ atɔ̃me wagbe ne, ɔluwɛ̃ ɔrɔ̃ ɔfere i karɔ̃ ɔkpi!","Go Ananias, ọnu atọme wa gbe ni. Ọluwe ọrun ọfere ika run ọp",1.0833,0.3556
+576,Ɔɣere ma sɔ mafiniki i ma situ ame manyua akpi ɔbara si mafɔ ndu ipie kubarara si Ɣaa aasu ma akpi ɔtsɛ ma.,Ọ rị mma sọ m asị n'ịkị m asị tụ amị ma ṅụọ akpị ịọbara sị ma fọọ ịtu pịe kubara ra. Sị ya asụ mụ akpị ọchị,1.2174,0.4881
+577,Kristo iipia me sɔ loba loabara maturi Ɣaa itupie kubarara.,Kristo yi pia meso lo bla abara matre a itupie ku brara. O pia meso loso arika iso matre itome bie lia. Lo isa lo ene ku ka iso inogba. Aroso letre bie so ole gwa bia,3.5,1.7755
+578,Aibawo ɔsɛ ɔdzuɛ̃ iɣo ɔɖɔwũ ɔwɛ̃ pɛ kere?,Ɛyɛ bawo sɛ ɔdwen iwo dɔ wimpe kire?,1.0,0.5161
+579,"“Ɣɛɛ iyosate gɔmɔ to ɔ̃aɣɛ sɔ, ‘Loiɣe mi!","Ehe, ịsị na ịgọ mọto a anyị sọrọ na ya mee. Ịyọ mị to mị anyị sọ, bọgụọ ọdịara, bọ nnẹara, fịatara",2.625,2.1724
+580,"Si lopɛ Ɣaa siba i araɖea wa ɔtã me iti ne, be ɔso fiɛ ɔmama aabu sɔ loɣɛrɛ wũ i wã iti gɔ loɔpɛ Ɣaa siba?","Chineke nyere anyị arádiọ awa 8 na Bọsọfịà, ọmụma a bụsọlụ erụ iwayịntị gọlụ",1.0,0.7722
+581,"Gɔ maɣɛ mato maɣɛ nnɛgbe ne, ɔluwɛ̃ Yesu ɔba ɔ̃aya i ma ndɛ̃.","Gọọmentị eto maọbụ ihe ọbụla ọzọ, ọlụlụ Jesu ọbụla ịma",1.0,0.7727
+582,Miya teteree i mi kafɔkaɖe ame si misɛ̃ wũ alasɔ miɣe sɔ mi malaa fɔɖedze i kayiiso ɔɖuɖu to mawe inyɛ ngbɔ.,"Miya ta tare mi ka foka da ya mi, si mi sanu, ala so mi ya so mi ma lafo de je, i ka yi so odudu to ma we i ye",1.1818,0.3647
+583,"Mmɔ mato makarɛ wũ sɔ, “Ratedze, ku mme ɔwi iaba ngbɔ?","Moma tuma karam so. Rateje, kume owi iya ba",1.0,0.4
+584,"Gbaã ne, mma nsi ngbã matã kayi gagbe ara ne, masu ma anɔ masia nnɛ mato mabara iso kɔra maɖo mma nto mabara Ɣaa sigarakaɖekɔ̃ karabara.","Mma ne, mma nsi mkpa amata ka iga agba ara ne. Ma su mma no, ma sia unne mma tuma bra isu, kora amado mma tuma bra ha si gra ka di kwo kara bra.",1.0769,0.3178
+585,Sate ɔwɛ̃ saã gɔ mpia nɖe Yesu Kristo gɔ iso i Ɣaa ɔki ɔbara ara ɔɖuɖu fiɛ ɔ̃ iso iki bosi ngbã.,Saa nso nso ngo mbea nde Yesu Kristo ngo iso ya oki obra ara odudu fie onso iki gbo si,0.7727,0.4167
+586,Siwarã Bielea ɔbo i ma ɔɖuɖu ame matsɛ ikaɖe mato male Ɣaa i siɖe agbãagbã ame lɛ kumɛgɔ i Siwarã ɔtã ma ɔle.,"Siwura biara obooi ma odudu ame, ma kyerɛ ika de matoma le ya isi de agbangban ame le kume go isi wura otama",0.9565,0.3721
+587,"Minyɔ, ngɔ loɖi me ɔtã nɖegu ma katɔ̃.",Mee yaa ụngọlọ dị mị ọtọ a nne gị maka tọọ,1.375,0.6071
+588,"Mmɔ i Yesu ɔɣere ma sɔ, “Miɖe maturi ma nsɛ mate so lɛ masɛɛ i maturi anɔ.",Mema Yesu ayere masɔ.,0.9412,0.7636
+589,"Aram ɔ̃ wũ ɔɣe Aminadab, Aminadab ɔɣe Naheson, Naheson ɔɣe Salmon.",Aramu oyi Aminadab Aminadab oyi Nahason Nahason oyi Salmon,0.7273,0.2692
+590,"Mma nto mate sɔ mi ara ba ma ɔmɛrɛ̃ ne, ɔsɔsɔla kere mato mi.",Mando Mateo somiara ba m'omrene. Ososra kreme to,0.9286,0.3556
+591,"Wũ manyii ɖɔɛse, si ngbɔ i Ɣaa to ɔɖɔɛ bo ne, iyɔ ikote sɔ boaɖɔɛ so.","O ma nye nwe se, si ngbo ya ato nwe bu ne, iyo ikote so gbo adu",0.9375,0.451
+592,"Uzia ɔɣe Yotam fiɛ Yotam ɔɣe Ahaz, Ahaz ɔɣe Hezekia.","Uziah, Jotham, Ahaz, Ahaz, Hezekiah",0.8,0.4634
+593,"Gɔ ɔkpese ɔba ne, ɔ̃ marasuãdze to marɛ sirɛ ana.","Gọ ọkwa si ọba ni, ọmọ ara sọ ajẹ to ma rẹsire ana. Ma kpisire, na ọsọ m'eye k'ume gọ ma di sokanya. Gọ ọkwa si ọba ọkpete arini, ọkare ma sọ.",3.0,2.2162
+594,Yesu ɔɣere ɔrɛrɛ̃ gɔ kɔrɔ̃ lokarĩ sɔ ɔta ɔya i ma katɔ̃.,Yesu oiri onwere gọọkọnụ lokani sọ ọta ọya ịma aka,0.9167,0.561
+595,"Ɔbiara i Yerusalem ɣe, fiɛ maɔnɔ itɔ̃me nɛgbe.","obiara Jerusalem a, fiam ọnọ ịtọ mụ na",1.0,0.4444
+596,"Midaaɖɔɛ kayiiso ɣee ira biara nɛ nɖe kayiiso ire alasɔ si mito miɖɔɛ kayiiso ne, iyɔ miito miɖɔɛ Bo Ɔse.","Me daa dɔe ka a iso yi, yii hira biara na ndi ka a iso iri ala so. Si mi to mi dɔe ka a iso ne. E yɔ mi to mi dɔe bu",1.55,0.3571
+597,"Ɔkpɛ tɛare nto lobie sɔ loba mi kɔrɛ ne, ɣɛɛ loito lobie mi ibuai kuiwɛ̃.","Okwu etu a edoro be so na uba mikroeri, ehh, ledoro be m igwe ekwenti",1.0,0.6607
+598,Ɔto sikãrɛtɛa itunɛra nɛ loyigu anyanyara gu ara nyanyarĩa wa ɔna ɔbɔrɛgu i ɔ̃ asɔrɔ̃ iɖe ame.,ɔtɔ si kwan rek tia itu ne ra ne loyi gu anyanyara gu ara anyanya awa ona obre gu yi asuro ide,1.1765,0.32
+599,"Bo gu Siwarã Bielea dzɛ i Ɣaa ɔsu ɔtã mma nsɛ makã wũ atsue ne, bo nɖe ara wagbe maɖansiɛ ne.","Bógúsi ràmbie le ajé, i ya osú otá mazi ma kanwa chu ene, bo ndi arawo agbe mada si ene.",0.9524,0.4225
+600,"Gɔ mibara mawɛ̃ ku ɔ̃ gɔ nɖe iti ɔtã siwarã ame sile gu mma nto maɖe iso ɔso ne, mi wũ mi ngbã ɔɔyi.","O ga-abụ ịbịara ma ọ bụ ikwu okwu ọnwa iteghete, ọ taa si nwa m sị le, gụọ m akwụkwọ dị asọ n'elu, mụọ m ịgụ.",1.0833,0.8219
+601,Ne ɔso manyua wũ sɔ ɔwiri si ɔkpadzɛ̃ wũ ɔkɛlɛgu.,Nso ma nyua wu? Sɔɔwri si ɔpanyin ɔkɛlɛ,0.9,0.3158
+602,"Ɔwɛ̃ aakarɛ sɔ, “Nda i makpise aabara fiɛ maaledza ita?","Oya, ka a so, ụnda ịma kwụsị abamfi e ma le ja",1.2,0.5238
+603,"Mabuaidze ma lomɔɛ̃ ma karabara kukaakɔ ne, ma mɔmɔ ba kayakpa fiɛ masɛ mawo kafɔkaɖe gu Yesu Kristo iso itɔ̃me ɔɣɛ ku ɔle.","Ma bụrụ eji mara ụmụ mma karịrị akụkụ akụọne, ma mụ mụba ka ya kpa, ha ga-asị ma bụka afọ ka dị gị, Yesu Kristi iso etomowo ekwele.",1.1739,0.433
+604,"Atoa sɔ lodzorogu mi fiɛ boito bonya so anɔ ne, lopia i mi kɔrɛ i siwarã ame.",Atoaso no juro gu me. Fie ebo etuo nya so ano ne. Lo pia me koraa isi wona,1.0,0.3729
+605,"Ne kama ne, Ɔturi Awune Ɔbi to ɔ̃abɔrɛ i adɔdɔ ame gu ɔ̃ ɔle gu ifiɛ teteree ame.","Nekamane, otriani obi tu aburo ihe adodo ame, guo nle gwa ife tetere ya.",0.9444,0.3833
+606,"Mila miɔpia kubɛ gbaã ku ɔwiɔ, ɣɛɛ ne, nna kowũ ɔɖe lotɛ̃ mi ɔri sɔ midaakã nnɛ nɖe ɔnukuare atsue?",Mepụta akwụkwọ ikike ụgbọ ala. Unu akwụla ụgwọ otu narị naira maka akwụkwọ ikike ụgbọ ala.,1.0,0.8553
+607,Ɔ̃ wũ ɔpia i mabuaidze ikɔdzɛ ma maɖi i Yerusalem ndɛ̃.,Ọwụ a pịrị m agbụ a ije iko jee mama di Jerusalem,1.0909,0.4762
+608,Ne mawa Kukpi Ɔtakuwara Bo Iyi aɖera masɛ ne.,N'ama-uwa akụkụ ọtakuwura bụ iyi adịrị amasị,0.8889,0.4167
+609,"Iiɖe ɔturi awune loɖi me, fiɛ iiɖe ɔturi iso iki fiɛ lokpese katɔ̃mesɛdze, ɣɛɛ Yesu Kristo gu bo Ɔse Ɣaa gɔ lotara Yesu ɔbɔrɛgu i makpise ame lokpere me.","Ihe doro unu elo di m, ihe doro unu nso ikwụ ya na okwu ise ka m ga-ekwu. Eh, Jisọs Kraist gụbọsịrị ya, gọrọtrọ Jisọs ọbụrọgị ịma kwụsị ya melụkwa",1.0345,0.6446
+610,"” Ne ɔɣɛ sɔ, “Tete!",Kọọkụsị ọbụ amaala Sọọ́njẹ̀ Ìtẹ́kọ̀rè nị́. Ọ́ nyá,2.0,3.0
+611,Kukame nɖe .,Koka me ne alaafakwuo sikwuo ikwuo?,3.0,2.5556
+612,Ɔsa mma lokpi kasɛkasɛ gu mma lofɛfɛ̃ masi i karɔ̃ ana.,O saa ụmụ arụlọkpụ ịkase kase gị ụmụ arụlọfefe ma sị karụ,1.0909,0.5952
+613,Kuso siare i Ɣaa ɔtã i mi iti ne ɔso midaakpesera so maturi masande.,"Guso si are ota imiti, noso bi da gbesra somo trema sande.",1.0,0.3333
+614,Kanya iɖaɛ nɛgbe ɔtã sikpã ɔmɔɛ̃ mmara matedze gu ma Yudase makpakpa gu maturi ɔɖuɖu.,"kanye i na-enwe otu nsogbu omu mmra matejegu, mayuda si magbakwaku ma tree odudu",1.0,0.4348
+615,"Alasɔ ɔwi gɔmɔ ame ne, miimɔ mitã makpakpa aɖera fiɛ ipɛ i kiniɔ ana ne, miito miwo makpakpa aɖera ɔɖe.","A na-asọ wig ọma a n'elu, mee ya mọmịta ma kpakpa adira. Fịa ya ịpa ịkịna a n'elu, mee ya ịcha mịwọ ma kpakpa adira",1.25,0.5679
+616,"Ɔbiara gɔ nsɛ ɔbara ikpi ne, Ɔbosam ɔre ɔɖe alasɔ Ɔbosam ne, ikpi ɔsɛ ɔbara ta karɔ̃kasɛkɔ̃.","Obiarakwu azoboro ikwi ne, obosamuru ode, alasa obosam ne, ikwi yoo sooboro takaru nkase",0.8824,0.4225
+617,"Atoa sɔ boba ɔri lɛ Kristo katɔ̃memasɛdze sɔ boasu bo anyaa bokpesera mi ato ne, bomɔɛ̃ so bola lɛ ɔtalɛpo gɔ nɣe ɔ̃ mabi inyaa.",Otu a ka sọbọbọ rịrị Kristọ ka ha tụbe ma seje. Sọbọ asụbọ anya abụọ kpesara mụ atọ ne. Gọmụ ese gọ lara ọtalepụ ogọ nwe ọma bi inyọ.,1.12,0.4545
+618,"Ne ɔso matu siwɛ̃ dzɛ lomɔɛ̃ abɔra wa manyi mamatãra i ɔkolo iso, fiɛ ka makurisi ɔdziri gɔ masɛ madzuɛ̃ ala ɔkolo makɛlɛgu ngbegɔ masɛ.","Nso ma tusi w'enkyɛlɔ mu abura wa ma nyimama matra, iɔkɔlɔ iso. Kyɛ ka ma krisi ɔjrigɔ ma sɛ ma jui ala ɔkɔlɔ ma kɛlɛgu. Mbegɔ ma",0.96,0.2804
+619,Minyɔ wũ nrɔɔ̃ gu ngba si mipɛgu me minyɔ sɔ mme loɖe.,"Minyowuro, gungwa, si me pɛgu me minyo so mmerɛ",0.9167,0.3171
+620,gɔ ɔse nɖe Sem gɔ ɔse nɖe Noa.,Conseil de Sam Conseil de,1.0,0.7273
+621,Nnɛgbe ɔso nto loapia Timoteo gɔ nɖe wũ ɔbi ɖɔɛse fiɛ ɔsɛ ɔbara Bosate Karabara i ɔnukuare ame ne.,Naa ebusuọlụ pụrụ iche Timotiọs gọọlụ ndị nwụrụ anwụ site na nsọpụrụ Chineke na-akwado ya.,1.0,0.8228
+622,"Iiɖe kunuarɛ nto lopia mi i ara wa nto lotsɛrɛ mi ngbe iso, ɣɛɛ ɔka loto mi lɛ wũ mabi ɖɔɛse awe.","Ihe dị ka otu narị dọla puku abụọ, ịharawaziri chere ịmị ngbe iso. Ọkàlọtọ mị lewụ ma bịdọọ sị ya",0.9091,0.6757
+623,"Nnɛ nto me ɔkã kiniɔ teteree fiɛ iɖe wũ ɔriinyɔ ana nɖe sɔ, loibasɛ̃ wũ karabara lonya, ɣɛɛ i ɔwi biara ame, titirio kiniɔ ne, loawe katetere gbodzoo sɔ loasu wũ iso sina ɔɖuɖu lopia Kristo kuwarɛ si lopia ngbã ɣee ɔkpi lokpi.","Na ya dika nke na-esetire ife, i denwere inyua na-aso, ruo ebe ahu nkarabara ruo ya. Eh, ihe owu biara ami, tituru kironi, laa we ka titire gbojuo, sola su nwa iso si na odudu pia Kristo kuware, si na pia ngba okwu ilokwu.",0.9535,0.4551
+624,"Nnɛ loto loɣere mi nɖe sɔ, ayi kumɛgɔ i ngɔ nɖe biarase ɖe ɔbiɛtɛ ne, ikpaki kuiwɛ̃ na i ma gu maɖabo inyɔ ndɛ̃ atoa sɔ ɔ̃ mba ira biara fiɛ.","Ndi be anyi, ekene m unu. O bu ihe obi uto na taa, anyi gbakoro na ebe a iji obi uto na-eme emume ncheta afo iri nke ndi otu a.",1.0,0.819
+625,David gu ɔrɔ̃go gɔ ɔmɔɛ̃ ɔfɔ i Urea kɔrɛ ɔɣe Salomo.,"David go, Aaron go go, Amon for Uriah kore, Solomon",0.9091,0.5128
+626,"Si ɔrere ɔɣɛ sɔ ɔsɛ ɔɖɔɛ Ɣaa, ɣɛɛ ɔtsiri ɔ̃ ɔnyii ne, ladze i ɔnyiiɔ ɖe.","sɛ ɔdɔ yɛ a, ɛyɛ ɔkyiri onyiine. Lajei ɔni",1.0,0.5472
+627,Loinya nnɛ ɔbara fiɛ ikote sɔ loatã wũ kukpi ipɔ.,"Nne ọbụra, ịkọte sọlụ atụ nkụkwụ",1.0,0.641
+628,"Midaatã ira sɛɛ ibara si itɔrɛ bo, alasɔ si iitɔrɛ bo ne, boto boana ne kusia i ɔwi gɔ lokote iso.","midaada, i rasa i rasa i turu ebu. A rasa i turu ebu ne, butu bu ana na ekwusi anyi oyi, goro kote",1.0476,0.4533
+629,Iyɔ maturi gbodzoo aapɛ Ɣaa siba i bo iti sɔ ɔnyɔ bo nnya ɔkã kayi ikparama gbodzoo atsue.,"Ihe ama atụ Igbo bụ na a pɛ asị baa Igbo itiso, ọ nyụgbo ya. Ọka ka anyị kwụrụ ma gụjụọ achịcha.",1.2222,0.5694
+630,Tee ɔsu ɔrɔdɛ̃ ɔfɔ ɔturi ikɔ buu kuwakuso gɔ ɔ̃asu ɔtã mawɛrɛba.,E asu arọ ndịa afọ atọ ịkọ gbuo kuo akụsọ. Kọwaa nsogbu taa ma nwee,1.25,0.76
+631,Iiɖe ita ana iso iɖe matsɛrɛ masia ɣɛɛ maturi situ iso matsɛrɛ masia.,Mede data anaa eSIM ma kyerɛ.,1.0,0.7679
+632,"Alasɔ si miba miasarɛ sɔ mito misɔrɛ Ɣaa ne, ara sɛɛ wa nsɛ abɔrɛ i mi isarɛ ame iisi lɛ ara lalaa.","Akaaso si wewie me asare, so me to me soro yɛɛne. Ara sɛɛ wanzie aburoo imi sare, me isi le ara lala.",0.9091,0.3947
+633,"Ɔɖesɛrã si kaɖe aaɖaɛ ne, Yesu ɔkɛlɛ ngbegɔ i kuwɛ̃ na ɔsɛ ɔ̃akparama kayi.",Ɔdɛnsani ka de adane. Yesu ɔkrile ngbekɔ ikunwe na ɔse ɔakpala maka,0.8571,0.3621
+634,Marɛrɛ̃ itɛ magbe pɛ nɖe ma Yudase fɔɖedze ma nɣɛgu me i Ɣaa sigarakaɖekɔ̃ karabara ame fiɛ mabua maɖe ibuai siare matã me.,"Mmadu ole na ole ka m maara si ma foro je, ma wu egume, ihe a si gi na ka di kwa kara bra mi, ihe a bu kwa ma di igbo e siari mata m.",1.4783,0.5612
+635,"Ana ne, lobie sɔ bie iyo sɛ me alasɔ lofɔ loɖe sɔ Ɣaa to ɔ̃akã mi ɔɖuɖu atsue ɔnyua me ɔtã mi.","ana ne, lobia so bie yo se me, ala so lo folo di so ya to wa kemi orudu achi onyo ma otami",0.8636,0.3714
+636,"Kuɣɛ̃ ba kɔ̃ ifiɛ, fiɛ ɔgbaworeti ana ba ɔ̃ ifiɛ.","Kwen ba kwen fie, fie ogbari tia na ba onfie",0.9,0.4286
+637,"Wũ manyii ɖɔɛse, mitã boɖɔɛ so alasɔ Ɣaa kɔrɛ i kuɖɔɛ ɔbɔrɛ.",Mema nyew adwene. Me tam bo dodo so alasore akora iku dodo,1.0,0.617
+638,Ɣɛɛ loibaɖe ndamu fiɛ maturi aaba maabu sɔ loɖe ɔturi siare loɖo kumɛgɔ ikote i wũ ikaɖe gu kurabarara ame.,Ɛlɔ́ ɛbádé ntám fǐe Mátrí ábá m'ágbú sɔ́ lɔ́dé ɔ́trísí áré lɔ́dɔ́kúmé gɔ́ íkóté íwú íkádégú kúrábárá rá ámá,0.9,0.2874
+639,"Aɖansiɛ nɖe sɔ, Ɣaa ɔsu ngbã mɛ nna katui ɔtã bo, fiɛ ɔ̃ Ɔbi ame i ngbã mɛgbe pia.","A dan si eni so, e o su ngba meji na ka tu o tan bu. Fi eon bia me yin ngba me gbe",1.2632,0.4667
+640,"Kumɛgɔ ame i Ɔse sɛ ɔtara makpise ɔtã ma ngbã ne, ngbɔ ame i Ɔbi ana sɛ ɔtã mma ɔto ɔɖɔɛ ngbã ne.",Kɔmɛ gwa mɛ yi ɔsɛsɛ ɔtra ma kpisɛ ɔta ma ngbanɛ. Ngba mɛ yi ɔbi ana sɛ ɔta mma otu oduɛ ngbanɛ.,0.8261,0.2877
+641,Alasɔ iba kunuarɛ sɔ ɔrɔ̃go ata ɔya ɔɖe ika i mafɔɖedze ndɛ̃.,"A na-asị na ị bakwuru arụsị, ọ nụghịkwa atụ ya, ọ deyị ka ịma fọdụ jee",1.3333,0.7021
+642,"Si gbaã iɖe sɔ mifɔ Mose miɖe ne, tee miafɔ me miɖe, alasɔ wũ iso ɔtsɛrɛ ara ɔsegu.","Sɛ igba yi de sɔm me fɔm m'ide, te me afɔm m'ide, ara sɔn w'iso ɔkyerɛ arouse.",0.9444,0.3968
+643,Mabi to maata maya maɣese iso maɖi ma matã sɔ maɖoe.,Madi tumata maya ma esei so. Madi ma mata so,0.9091,0.2683
+644,"Mma mpia i Yudea si matere makɛlɛ abe iso, mma mpia i ɔmagɛ̃ ame si matere mabɔrɛ.",Mewu biara iyu di a si ma turu m akiri abali so. Mewu biara iyu oma gi ame si ma turu m aburo,1.1765,0.4444
+645,Gɔ manɔ ne Ɔbosam ɔmɔɛ̃ ɔɖi i ma iti ame ɔluwɛ̃.,Gọọmentị nọ na ya bụ nsogbu ọ bụghị naanị otu onye ma ọ bụ otu ụlọ ọrụ,1.4545,1.2571
+646,"Ne ka maɖi Petro gu Yohanes mabɔ i ma katɔ̃ makarɛ ma sɔ, “Nna iyere gu ɔle ame iɖe mibara ara wagbe?",na kama di pete foku Yohanes mabo i makaton makarima so. Unai yereku ole amede mi bira arawa,0.9091,0.25
+647,"Fiɛ si Ɣaa ɔɔsu ara ɔɖuɖu ɔpia i Kristo kayirinɔ ɔro ne, Kristo gɔ nɖe Ɣaa ɔbi ana to ɔ̃asu so ɔpia i Ɣaa kayirinɔ sɔ Ɣaa ɔnɔwɛ̃ saã aaɖe ara ɔɖuɖu iso.","O pia ya ọsụ a rọ dudu, o pia ya Kristo kairi n'ọrụ n'ị. Kristo gọọ n'ị ọ bịa anata nwa nsuso ọ pia ya a ka ị rị nọ. Sọ ya ọnwụ nsaa a dị ara dudu ịsọ.",1.0909,0.4828
+648,” Ifɔ̃ ɔmɔɛ̃ Petro gu matsɔra gbaã sɔ ɔ̃isiɣe nwa ɔto ɔɣɛ.,Onye isi ya bụ Otunba,1.0,0.8571
+649,"Fiɛ si gbaã i makpise iibata ne, iyɔ ɔ̃itara Kristo ɔ̃ wũ.","Fi ẹ si igbanu, ẹ ma pe si ibata na, iye ọwọ Kristi",1.0,0.4651
+650,"Fiɛ ɔwi biara miɖɔɛ ne, miawo ma ɔbuai.","Sɛ awia biara me dwene, me awuma obuo a",1.0,0.4333
+651,"Mma nɖe kayiiso maturi ne, mase lɛ ngɔ mapɔ maɖi i sise ame.",ma se le ngoma pomadi si,1.0,0.6739
+652,"Nnɛgbe kama ne, lonya bɔi lalaa ɔwɛ̃ gɔ ɔto ɔbɔrɛ i ɔpo ame.",na gbe ka ma ni. Lo nya bo ila la o we go o to buro i opu a,1.3846,0.3556
+653,"” Ma situ ɔkpase sisɛ, mafɔ wũ mapia i ɔkolo ame kere fiɛ mabo ɔkpokpo ngbegɔ masɛ ne.",Mase tuo kpase sise. Mafo ma pia yi okro amakiri fie ma buo okpokpo ngbego mase ne.,0.9412,0.2727
+654,"Ne Yohanes to ɔɣere ma sɔ, “Ngɔ mba awu aka anyɔ ne, ɔsu awɛ̃ ɔtã ngɔ nna kuawɛ̃.","Na ịhe ọwụla ị na-ekwu, ọ ga-adị mma ka anyị nụ olu gị. Ọsụ ụzọ anyị, ọtá ngọ, na-akwụ anyị",1.1111,0.8448
+655,"Kɛlɛ aasu fɔ ira biara rɔdɛ̃ si asu sikã atsɛ mawɛrɛba, si aana kusia siare i kato.","Klassofai rapia raa nron den, si asu sikaa cha maureba, si annaku siasia re ika",0.8235,0.3438
+656,"Gbaã ne, loisibanɛ ndã kumiwɛ̃, gbɔgbɔɔgbɔ loanɛ miɣɛtɛ i Ɣaa sigarakaɖekɔ̃.","Bà nè, Lưỡi bà nè, uốn cong lưỡi lên, gộp gộp, lưỡi em nhẹ tênh, y như là con",1.7273,0.8361
+657,"Atoa sɔ wũ ɔnyɛ ɔɖaa mi ne, mifɔ me fiɛ miwarɛ me.","Me fɔ me, fie me ware",0.9167,0.6486
+658,Ɔbu mito sɔ ɔwi gɔgbe ɔɖuɖu ame ne kanya boto boɖi so?,ọbụ mị tọsọ wị gọgbe ọdụrụ amị nị ka ya bụ otu mbọdị,1.0833,0.5714
+659,"Ɔwi gɔ i Yesu ɔnɔwɛ̃ ka ɔsi ne, mma nsɛ masiai wũ ɔwi biara gu ɔ̃ marasuãdze iweo-inyɔ ɔba maakarɛ wũ sɔ ɔɖi igbã karɔ̃ ɔte ma.","Owe gọọ Jesu ọ nụwe ka ọ sị nị, mansa ma sị nụ, owe biara gụ ọmarasụ aje, iwe inyo ọba ma karụ nụ sọ. Ọdị ịgba karụ ọte",1.0,0.4526
+660,"Ɣɛɛ Bosate ɔɣere wũ sɔ, “Ta si akɛlɛ aabara nnɛ loto loɣere-ɔ.","Eeh, bosatu oyere so?",1.0,0.7872
+661,Nnɛ i ɔkɔse sɛ ɔbie ɔbɔrɛgu i marabaradze magbe igbã kɔrɛ nɖe sɔ maabara ma karabara i ɔnukuare ame.,"Nne ya ọkọ sị sị ọ bịa, ọ bụrọ gị mara abamgbe igba akwụkwọ enesho ma abara makara abara ya onukwaria.",1.0526,0.4938
+662,Filipo Ɔɖegu Etiopia Ɔkpakpa Ika.,"I samaria si magen, bojo amen maye itome biyele.",1.8,1.1429
+663,"Ne Yesu ɔta wũ mmuai sɔ, “Ise lɛ kumɛgɔ aɣɛ.",Na Jesus Christ awu mu ama yɛn so.,1.0,0.7812
+664,"Ɔto ɔ̃atã sɔ ɔwi gɔ i Bosate Yesu Kristo aaba ɔ̃aɣɛgu kayiiso atɔ̃me ne, ɔ̃atã mi ibɛ.","wɔtu aten so, ɔwri gyae bosate Yesu Kristo aba, na wanyigye kae so atomene, wata me ibe",0.8824,0.4062
+665,"” Ɔluwɛ̃ ne, manyua ma asabu masɛ marui masiai wũ.","M'allu nwe ne, ma nwa ma asabu m'ase ma riri m'ase",0.8889,0.4054
+666,Ɔɖe fɔɖedze gɔ mba kayiribielea fiɛ ɔsɛ ɔtã mawɛrɛba ara ɔwi biara.,"Fede fede, jeg går under bakken i Ribera. Første hotelmorgen var bra, og vi",1.1667,0.8182
+667,Ɣɛɛ misɛ̃ sɔ miibaɣɛ atɔ̃me i ɔri iso fiɛ miiɖɔɛ Ɣaa ana.,"Mese sɛ me mpaeɛ tumi yɛ den so, fie me dua a anaa",1.0833,0.6047
+668,Mato mabie awawãra sɔ maanya ɣɛɛ maibanya kuiwɛ̃ iɖo Ɣaa kanyaɖidze Yona ire igbã.,"Atum abienwụ nwara sọ mụ anya, eh, mụ anya kwịwe ịdụ aka ya dịje yọ na ịrị ịgụ",1.2857,0.4925
+669,"Ma Yudase Iwarãyi ne, Yesu ɔsɛ ma kasarɛkɔ̃ ɔsɛ ɔ̃ate Ɣaa Itɔ̃me.",Mayuda se inwanyi yini? Yesu ose ma kasarakun ose nwa teya,0.8333,0.4286
+670,Ɣɛɛ ɔsia ne ita kokooko ta kayi karɔ̃kasɛkɔ̃ sɔ ne iso ɔ̃aki fiɛ ɔ̃aɖi bo.,"O si ano ita kookoko, taka ikaru ka seko, so nne ya so, nwa kifie nwa dibia",1.0667,0.4182
+671,Ne Farao ɔbi birɔ̃gomi ɔsɛ ɔ̃ɔnya wũ ɔsu ɔba ɔ̃abara ɔ̃ kayiri ame ɔbi ne.,"ne farao obi no gomi, ose nwa nyao osu. O ba nwa abraham ka iri ame obi no",1.0,0.4182
+672,"Fiɛ si fɔ malaa ɔnɔwɛ̃ asɛ aya ne, mme siba ipɛ aba gɔ mma loiɖe mafɔɖedze ma wũ masɛ mabara ngbɔ?","M'esii baabi pa yaba, gɔɔ umalɔi de mafo de je m'awu, m'ase m'abran.",1.0,0.5733
+673,"Gɔ Ɣaa makpabo ɔrui makɛlɛ kato ne, masɛrɛkɔdze ɔɣere so sɔ, “Mitã bokɛlɛ Betlehem boanyɔ nnɛ loba fiɛ Bosate to ɔɖi ɔte bo ngbe.",Goya ma kpa bu ori ma kole ka to ni. Ma si re ka o je ori so so. Mita bu kole be tu le hu mbu anyi o ne lu ba. Si a bu sa te to odi o te,1.6667,0.4118
+674,Mmɔ i Ɔbosam ɔla wũ ɔnyɔ akpɛnɛ sina buu ne.,"Moyɛ abosam, ɔlaw, onyame akpeni sina bu",0.9,0.4118
+675,Ne ɔso Siwarã Bielea ɔkɔ Simeon sikɛlɛgu ma Yudase isɔrɛyo.,Loso siwura biara oko Simeon si klerigu ma Juda se Israel.,1.0,0.3878
+676,Mɔɛ̃ atɔ̃me wagbe la si aaɖe iso i Bosate kakpã gagbe ame.,Mɛ ato me akwabela si adehyeman sakat ka akwabela,0.9167,0.5455
+677,"Nto loɣere-ɔ gbaã sɔ ne, aisibanya me gbɔgbɔɔgbɔ ɔwi gɔ miala kulu miɣɛ sɔ, ‘Maale ngɔ nto ɔba i Bosate iyere ame!","Mekle me ahere ran ni na je gomu so, no mene lo asasi nra lala lo di material me. Lo sas manye se ise a",1.1364,0.7727
+678,Mma Igbã Lokote Mafɔɖedze Matɔ̃ɖedze.,kodia ka ton ititeare,1.0,0.8065
+679,Wũ anɔ ɔrɛtɛ i ɔwa mɛrɛ̃ kubarara iso kukaakɔ sɔ losɛ katɔ̃ loɖo wũ isɛlaa gbodzoo i kubarara itsue ame.,"O nọrọ na etiti ya, ọ malite ịkubarara anyị so. Kukka ka ọ sọlụ sị ka tọlụ do onwe ya ịsị la, gọjụọ ịkubarara ichu ya.",1.3,0.6341
+680,Ne ɔso Saulo ka ɔwe i ma ndɛ̃ faa ɔwi ɔɖuɖu fiɛ ɔɣɛ Bosate itɔ̃me ku kagbegbe i Yerusalem.,"Na so Saro kowee Monday fa, o wee odudu fie o ya ebusate itomi ku ka gbegbe i Jerusalem.",0.9474,0.3768
+681,"Lonya sɔ miinɔ itɔ̃me karɔ̃, alasɔ miiɣe Ɔko Sekelea ame itɔ̃me gu Ɣaa ɔle.","Naa Sonee, misuro kae zaa ro ira mitaa? Si misuro ira na mitaa? Kumego otaa mwe Osoni, mawa nya ma too ala",1.5714,1.0526
+682,Miaɖe Tsirise ɔle ɔɖuɖu iso fiɛ kuira iibabara mi.,Mea te chriseo leoduduiso fequirai babra,1.0,0.3902
+683,"Mma ɔɖuɖu loisɛ masiai ara ite sɛɛ ne, ma ɔso matã mmara ne.",ma ọ bụrụ na ọ bụghịzi ma ọ bụrụ na ọ bụghịzi,1.0,0.8696
+684,Ifɔ̃ ɔmɔɛ̃ ma gbaã ne maɣɛ sɔ kpise ɔɖe manya.,"Mepa wo kyew, ma gyae. Na mekae sɛ pii se ode ma",1.1,0.7353
+685,Iiɖe ɔturi kɔrɔ̃ matsɛrɛ ala ɣɛɛ Ɣaa gɔ mba ngbã Siwarã masu matsɛrɛ ala.,"Ihe dị otú a na-eme mgbe niile, ọ bụghị ihe ọhụrụ.",1.0,0.8448
+686,Ne ɔbɔrɛ ɔkɛlɛ ɔsɛ ɔ̃aya i kayogodɔ̃ ne.,"Bia so me mu eme. Ɛɛ, wo agbe odudu, obayi ni amesɔ. Nna yi ka nyamadi je ochre yi okusi clear me aabayi ni ami.",3.125,2.3667
+687,"Iyi nɛmɔ ame iso ne, Yesu masiaidze inyɔ mawɛ̃ sɛ i ɔri mato makɛlɛ ɔmagɛ̃ kosoi ɔwɛ̃ gɔ marɔ Emaus.","Yesu masi aje inyoma we, sa ya ori matoma kle oma gi koso owen, goma ro emos.",1.0,0.4737
+688,Katɔ̃mesɛdze Ɔle Gu Ɔ̃ Karabara.,ɔkɔdɛ ka tɔ iti kae wa,1.2,0.76
+689,"Kiniɔ ne, ɔ̃ɔtã iba i ne ame iki i Bosate Yesu Kristo iso.",O nwere otu anyị na-akpọ Igbo site na Jisọs Kraist.,1.0,0.6977
+690,"Si mikã mmamɔ igbã atsue ne, mi kɔrɔ̃ iibapɛgu nnɛ mito minyɔ ɔri.","Si na ị ka mma ma m wee gba nchu ene, mụ ekoro ịgba pegụ na mụ tobinyere",1.3077,0.549
+691,"Ɔ̃ lomɔɛ̃ kubereku ɔɖuɖu ɔsa fiɛ ikpese iyo iwɛ̃, fiɛ ɔ̃ nsɛ ɔtsue iyo ikpese Ɣaa isɔrɛyo sekelea.","Onye ọlụ mụ na ya kụrụ ekwu ọdịdị ọsa, fịa ikpese ịyo ịwe ya, fịa ọzọ ọchụọ ịyo ikpese ya ịsọrọ ya",1.1111,0.6933
+692,Ɔ̃ ɔse Fanuel ɔbɔrɛ i Aser kalɛ ame.,"ɔse, fa no obre yi ase",0.875,0.5926
+693,"Ne ɔso ne, kuwɛ̃ si ɔdaaɣɛgu ɔ̃ ɔlaa atɔ̃me fiɛ ɔwi aaɣo.",na so na. Kwezu daa anyi gwa ha na a to be,1.0,0.7073
+694,Mifiɛ i ma ndɛ̃ lɛ kumɛgɔ i awãmi sɛ afiɛ i kuɖokpo ame.,"Me fie yi ma de, na kwan kwan wa me sa fie yi ku do kwan",1.1538,0.5714
+695,"Minyigi sɔ mi ma loiɖe ma Yudase ne, ɔwiɔ ne, ma Yudase ma matu sirɛrɛ̃ sɛ matia mi sɔ mma maitu sirɛrɛ̃, ɣɛɛ sirɛrɛ̃ itu nɛgbe ne, sosina ame kubarara kere kuɖe, fiɛ ɔturi kere lobara ala arɔĩ.",so,1.0,0.9865
+696,Ikote sɔ maakã ara wamɔ atsue mabara i wã iso!,"M'akara wa mu achi e, ma brayi nwa nso.",1.0,0.5
+697,"Fiɛ ira biara nɛ i ikpawaĩ ɔɖi ite ne, isɛ ite sekelee manya.",Ihe ị rabiarara na ikpe ahụ dị iche na ihe ị tese claimụrụ.,1.0,0.5957
+698,"Mma lonɔ itɔ̃me nɛgbe ɔkarɛ Yesu sɔ, “Iyɔ nna loabua ɔna iɖi?","Malo no, i tome na okaro Yesu so? Iyo, unalu agwa ona idi. No tama mwa iso.",1.3333,0.6304
+699,"Ne mmɔ i Yesu to ɔɣere ma sɔ, “Miikpa anɔ ɖuɖuuɖu.",Mii kpaa no dudu,1.0,0.7297
+700,"Ne Paulo ɔtã wũ mmuai sɔ, “Ooɣo, ɔ Yudase loɖe.","na atumewu agbe ole a ma iri Paulo so? Bonyi nwe si, anyi ma Judas",1.5,1.2059
+701,"Si David to ɔkpere wũ sɔ ɔ̃ Sate ne, nda iabara fiɛ Kristo aaɖe David ɔ̃ ɔwa tɛtɛ?","Yesu watema mu ayiso. Maranatha, maranatha, maranatha",1.0,0.7869
+702,"Gɔ ɔbɔ so karɔ̃ fiɛ ɔsu so ɔtã ɔso ne, Ɣaa ɔnɔ wũ.","ɔbɔɔ sukuu karonfiɛ, ɔsusu ɔta ɔsɔne, ɛya ɔnɔ",0.9231,0.4571
+703,Ibara ɔ Farisise gɔmɔ ɣii gɔ ɔnya sɔ Yesu iifore nrɔɔ̃ lɛ kumɛgɔ i kubarara ɔte kanya fiɛ ɔtsɛ aɖera iɖe.,Ibro Faris Sego muyi go onya so Yesu ifure wuru le kuma goyi kubra ra ote kanya fie oche adirayidi,0.9524,0.3976
+704,Marɔ̃go magbe nɖe Maria Magdalene gu Yohana gu Maria gɔ nɖe Yakobo ɔnyi.,"M'akoko ma ngwe ndi Maria Magdalene, gu Yohana, gu Maria, gwa ndi Yakobo",0.5385,0.2586
+705,"Iiɖe Siwarã ame ɔre kere loɖe katɔ̃, ɣɛɛ sosina ame ɔre fiɛ kini i siwarã ame ɔre ɔsiai.","I de siwura me o re kerele de katon, e so si na me o re, fi e kiri siwura me o re osi a.",1.3889,0.3088
+706,"Gɔ mapia mato manyi kanya male Ɣaa ne, Siwarã Bielea ɔɣere ma sɔ, “Miɖi Barnaba gu Saulo misɛ mitã karabara ga ɔso lokpere ma.","Gọọmentị a mataghị ikike ya ma lee ya na ọ yịrị mmasọ. Mịdị, banabaa gị Saọlụ mịsị mịta kara braga ọsọ rọkwara",1.0,0.5556
+707,Gbagbaã iɖe sɔ Herodes gu Pontio Pilato gu Israel kaɖe gu mma loiɖe Israel maturi ɔsa so kanya i ɔmagɛ̃ gɔgbe ame mata maya i fɔ Ɔɖabo Sekelea Yesu gɔ asɔla nnɔĩ iso.,"Gwan gwan ide so, Herodios gu Pontio Pilato gu Israel kade, gu Malo ide Israel ma tri, osasokanya yi oma ge gogbe ami, matamayi ifo oda gbo sekle Yesu. Go asula uno yi",0.7879,0.2424
+708,Mi mɔmɔ minyɔ si ikote sɔ ɔrɔ̃go aaya ɔkparama kayi sɔ ɔ̃ifu so ara iti?,Mmimọ mminyọ si ikọtesọrọ ngụa ya ọkpara maka yi sọ wi fụsụ arayi.,0.9333,0.3273
+709,Ɔrɛrɛ̃ ɔwɛ̃ ana ɔwe gɔ marɔ sɔ Anania fiɛ ɔ̃ ɔre nɖe Safira.,Akwụkwọ Nsọ Anania. Ife Onyenweanyị,0.9231,0.7045
+710,"Kato gu karɔ̃ to kaafe, ɣɛɛ wũ atɔ̃me iibafe anya ɖa.","Ká tó o gúń kàárọ̀ tó o ka àfọ́e, ẹwú àtòméyìbáfé ànyà",1.0909,0.641
+711,Nnɛgbe ɔso lokpere mi si botsue so loɖegu mi ika ne.,M na-ekwe nkwa na m ga-agbalị ike m iji gosi na m kwesịrị ntụkwasị obi.,1.3636,1.0732
+712,"Ɔwi gɔ lokpakpa so loro ne, ma Yudase mawɛ̃ ɔba maanya me i isɔrɛyo mmɔ.","Onye ga-alụkwa nwanyị ọzọ rụrụ arụ. Ma Judah si, ""Ma mụwa ma nwa ya nwanyị agaghị eso ha na-eme",1.2,0.8909
+713,"” Kumɛgɔ i ɔ̃ awa ibara ɔfɔ ma ati ame ɔso ne, masɛ makã wũ atsue.","Kume gwa yi o, awa Ibra of Omaatu ya Masons, ma se ma ka wu ajue",1.0,0.383
+714,"Si mito mikpɛ̃gu so sirerɛ fiɛ mito milɔgu so ne, ne kerekere ɔɔte sɔ sosina ara kere misi mitã, fiɛ mikotegu kayi gagbe maturi.","si mi to mi peguso si rere, fi mi to mi loguso na, ne kerekere o teso so si na ara kiri mi si mi ta fi mi kote gu ka yi ga gbe",1.25,0.1881
+715,"Petro gu Yakobo gu Yohanes gu Andrea mɛrɛ̃ ɔba maakarɛ wũ pɔkɔsɔɔ sɔ, “Bosate, iɖe ɔwi gɔ i ara wagbe aaba?","Petro gu Yakobo gu Yohane gu Andrea mere ọba ma akara mpụkọsọ sọọ. Mọsaate, ide ọwụ ịgo ya raba gbe ya",0.7143,0.3171
+716,Ne ɔso mikã wũ atsue i ibiara nɛ ɔ̃aɣere mi ame.,"Nea so me kanwa chue, i biara nea ohere me a",0.9091,0.4167
+717,"Ne ɔso Yosef ɔsu kpise ɔmini i ɔkati ɣɛtɛ ame, Ɔsu ɔrara i ɔ̃ ikpibiɔ nɛ ɔɖi ɔsɛ so i ita ame, ne ka ɔli ita siare ɔtɛ̃ i kanya fiɛ ɔrui ɔkɛlɛ iyo ne.","ka anyi ario gị ka mụ na ya mee. A na m aríọ gị ka ị na-atara m ahụhụ, na-asị na ị na-enyere m aka sị na m. Ma sọrọ gị ma kpakpaa, ka mụ na gị kpakpaa, ọ ga-emapiya.",1.1429,0.9189
+718,"Aito aawo karabara gagbe ame ɔwe, alasɔ fɔ ɔtu ame iikpa i Ɣaa anɔ.",Aito awo kara bra ga gbe ya me owe. Alaso fo tu a me ipa ya,1.0714,0.2885
+719,"Itɔ̃me wɛrɛa nɛgbe nɖe sɔ, Kristo gɔ mpia i mi ame ne, ɔ̃ nɖe ɔriinyɔ ikpawaĩ siare nɛ nse isia mi ne.",Ite me ufan ekpe nte so Christ ogo mbie mi amen. Onye ori inyoi kpa nte nze isia mi,0.8636,0.4342
+720,"Mme Paulo mme losu wũ kɔrɔ̃ loto lotsɛrɛ losese-ɔ sɔ, loto loatã-ɔ kuso gɔmɔ.","Me paolo, me lo su nkoro di lo chele lo se si oso, lo tola to ku so go",1.3571,0.4068
+721,"Itɔ̃me nɛgbe ɔɖaa ma, ne matsɛ wũ ikarɛ isia isia sɔ, “Loɣe sɔ iiɖe mme ato, ɛɛbɛrɛ mme loɖe?",m'enegbe odama na m'ache nwun ikare isia isia so. No eso ndi me atu ebre,0.8947,0.5072
+722,"Ne Simon ɔɣere wũ sɔ, “Pɛ Bosate nrɔɔ̃ i wũ iti sɔ ara nyanyarĩa wa aɣɛ ngbe kuiwɛ̃ iibabɔrɛ me iso!","N'isi m, ọnye ịre ụsọ. Ọ bụ sọọsọ n'ịwụ ịsọ, arọ nyanyịrị awa a ga-engbe kwụ ịwe, ịbabụrụ emume nsọ. Gọọmentị gị Yọhanes ọye ịtomịbịala",1.1905,0.96
+723,"Gɔ masɛ maabo ngbegɔ masɛ marɔ sɔ, itikui ne, mapɛ Yesu mamatãra i kudziri iso.","gama si ma buo ngbe go, ma si ma ro so i ti kwa i ne. Ma pa ye su ma ma tra i ku ji",1.6,0.3065
+724,"Ibara mma lowe i mmɔ ɣaa, ne mato makarɛ so sɔ, “Be igbã iɖe ngbe ne?","Brama lowe imọ aya, nẹ matọ makarọ sọsọ.",0.9375,0.54
+725,"” Ɔluwɛ̃ ne, ibara Saulo lɛ akolo lokpa i ɔ̃ anɔmi iso, ne ɔtsɛ ara inya ne.","Oluwene, ebra sa oluvene akulu lukpai o anu misu ne oche ara inyane",0.875,0.3889
+726,"Ɣɛɛ Yesu ɔɣere wũ sɔ, “Ɔko Sekelea ɔɣɛ sɔ, ‘Daala Bosate Ɣaa anyɔ.","A yɛɛ su, ɔyɛɛ wo nsɔ? Ɔkɔseɛ kɔlaa wo nsɔ? Daaleɛ bosateɛ",1.0,0.5306
+727,Misɛgu ma i kuwarɛ ame alasɔ mi gu ma i Ɣaa aatã ngbã karatã.,Mị sị gụ mụ anyị ị kụwaara mụ? Àlà sọ mị gụ mụ anyị ya àtá mkpụrụ akara,1.2857,0.7021
+728,Boisɛ boɣara sɔ boaɣere bo Ɔse Ɣaa kumɛgɔ mito mibara mi kafɔkaɖe karabara.,"Bụi sọbụ ya na sọbụ ya bụ sọbụ ya, kụọ mụ gọ mụ tọ mụ bụra mụ ịka fọ ka dị ka",1.6923,0.5968
+729,"Midaaɖe mma loikpa anɔ, ɣɛɛ midzuĩ minyɔ sɔ be i Bosate to ɔbie sɔ mibara.","Me daa de me lepa nu, eh me ju me nyonso be egbosase tobie so me",1.0667,0.5172
+730,Ne ɔso mitã sɔ mi matɔ̃ɖedze si masiai me maba maɖi ɔ̃ aɣɛrɛ mate.,Nso mi tan so mi ma ton dege si ma si eme ma ma di one ayere ma,1.1429,0.46
+731,"So ɔɣɔ me gbaã i Bosate ame sɔ i ɔwi dzoroo kama ne, lofɔ karatã lobɔrɛgu i mi kɔrɛ.","na mgbe gbaa, ịbụ onye isi ndị agha, sọrọ ya wee jiri oge kacha mma na ya na-alụ ọgụ imikwuru",1.0526,0.8281
+732,Ne ɔso mamɔɛ̃ wũ marɔdɛ̃ matã maturi ma losu wũ makɛlɛgu Egipte karɔ̃ iso.,na asomamuo m arụte m atọ ma atọri. Malụọsụ m akụkụ Egypt ka arụ,1.0,0.5088
+733,"Alasɔ si mmara iso ibara ame i Ɣaa sɛ ɔnyɔ ɔturi sɔ ɔse bɔlɔlɔ ne, iyɔ Kristo kukpi ɖe siefe.","Na asomasi m na iso Ibrahim eya se onye otu iso osi bulu lo ni, iyo Kristo kuku di si efe.",1.0,0.4306
+734,"Ɣɛɛ ɔkɔlɛ ɔ̃ silɔ ɔbua ɔɣɛ sɔ, “Igara David Ɔbi!","Iwe yii nyo, akọle rẹ ni ""Oye Rima Sọ"". Mi ka àwé Bíbélì kan ní Jerusalemu, ó wí pé ó yá",2.1,1.6
+735,"” Gɔ karɔ̃ nɖe sɔ, “Wũ Ɣaa, wũ Ɣaa, be ɔso anyua me asɛ ngbɔ?","Mma, onwe ma lo ya mu, ma nu o eso. Mma, onwe o tere osu do tipukupu a opia ntabe a",1.5,1.175
+736,Bɔrɛ i ɔ̃ ame fe!,Gọọmentị anyị kasara,1.0,1.5455
+737,"Ɔwi gɔmɔ ame ne, ɔkɛlɛ ma Yudase kusarɛkɔ̃ ɔtsɛ ma Yesu iso itɔ̃me iɣere sɔ Ɣaa Ɔbi ɔɖe.","O wee kpọọ mmadụ abụọ, ọ kụrụ ha aka n'ubu, sị ha, ""Kụọ aka n'ọnụ ụzọ, ọ bụrụ na ọbụ",1.1111,0.8806
+738,Mmara matedze gu masɔrɛdze makpakpa ɔbie sɔ si mamɔɛ̃ Yesu mmɔ alasɔ maɣe sɔ ma iso ɔpɛ igbã nɛmɔ.,"Mụ na mụ na ya eje guo, mụ na ya eje makwapa, ọ bụ ya sọrọ mụ na ya wee bụrụ di na nwunye. Alasọ, mụ na ya sọ, mụ na ya sọ ọpẹ igwe n'elu.",1.8947,0.8077
+739,"Ne Yesu to ɔɣere ma sɔ, “Lonya Ɔbosam ɔkpase ɔbɔrɛ i kato lɛ kumɛgɔ i kado sɛ ɔma awe.","Na Yesu duwa yere maso. L'onye awu bo nso kpase oburo ikato, lekume go ikadose ma awu",0.9474,0.3538
+740,"Katsɔrakɔ̃ ne, ɔɖi so ɔte me gɔ maɣe kamakama.",Odiso temego maye kamakama.,0.8889,0.4571
+741,"Kuɖɔɛ gɔgbe ɔbɛ, kukarã, kukɔlɛ, fiɛ kuwodoroo.","Kuroko gbe obe, ku kran, ku kole, fie ku odro.",1.4286,0.4324
+742,"Lofɔ loɖe sɔ si ɔwo miawo kɔra ne, tee miɖi mi anɔmi mitã me.",Owufo di so si owu me owu kwanu te me di me ano me mita,0.9286,0.5217
+743,"Ɔwi gɔgbe ame ne, mamɔɛ̃ ɔrɛrɛ̃ ɔwɛ̃ gɔ marɔ sɔ Baraba mapia iyo gu mma lota maya ma Romase Igara iso, Gɔ mabara ngbɔ ɔso ne, mamɔɛ̃ ma fiɛ matã ma kukpi ipɔ alasɔ maɖoe maturi.","O wiko gbe amene, ma mu orin, o we gbo maro so baraba ma pia iyo. Kuma lota ma ya ma romans igara iso, gbo ma bra ngbo oso ni, ma mu ma fie ma ta ma kpe ipo, ala so ma due ma",1.0278,0.2985
+744,Ne ɔso Ɣaa kpabo ɖeakatɔ̃ ɔsɛ ɔ̃afedza nnɛ mpia i ɔ̃ irɔi ame ɔfere i kayiiso.,"Nso akpa bode akaton, osa feje ne mbe ayi onye royami. Ofere ike",1.0,0.5424
+745,Bo nɖe ɔ̃ iyo si bomɔɛ̃ bo katetere gu kafɔkaɖe i nnɛ boto bonyɔ ɔri bola teteree.,"Bụ na onye yọ, si bụrụkwa nwoke a tetere, ka ụka fụka na ọ bụrụkwa na ọ rị, bụrụla tetere.",1.1176,0.619
+746,"Mila miɔkparama kayi ɔwi biara, fiɛ si mito mikparama kayi ne, mi adzuni ame si anyɔ tuee, mila miɔpɛ Ɣaa siba.","nyankopon maka yi, obi biara, me si me to nyankopon maka yi na, me a junior me si anyu tuo e, me la me pe ha si",1.1429,0.4598
+747,"Gɔ kaɖe ɔsɛ̃ fiɛ ɔwiri iito ɔnyua ɔkpɛ̃ ne, matsɛ ato wa i ɔkolo sore iɖi iwiri i ndu ame.","Gọọmentị ọ sịrị na ọwụrụ ị to nụ a ọpịrị, mọcha a to waị ọkọlọsịrị ịdị ịwụrụ ịndụ",1.0,0.7015
+748,"Ɔwi gɔ lofe ame ne, Ɣaa iinyɔ mi nnya, ɣɛɛ kiniɔ ne, Ɣaa ɔɔnyɔ mi nnya.",,,
+749,Ne Yesu ɔmɔɛ̃ ɔrɛrɛ̃ gɔgbe kɔrɔ̃ ɔsa wũ fiɛ ɔɖi wũ ɔri ne.,"N'eziokwu, ọ bụrụ na ọrụrị ngwá ekwe ntị ọsọ, ọ dịghị ọrụ",1.0,0.9286
+750,Mibie mi malaa isɛɛ ne iiɖe mi ɔnɔwɛ̃ ire kere.,Me bia me mara ayise na ide me unu ire,1.0,0.5278
+751,"Ɔ̃ ɔnɔwɛ̃ saã nɖe Ɖidze, alasɔ ɔ̃ nɖe ngɔ i Ɣaa ɔtã iyere gu ɔle sɔ maturi ɔɖuɖu i kayiiso aaki i ɔ̃ iso mana ngbã.",Sunday DJ.,1.0,0.9405
+752,"Siainyɔ ɔyu ɔwi ɔɖuɖu ne, nto loawe i mi kɔrɛ fiɛ ka miaɖi me ɔri loakɛlɛ ngbegɔ loakɛlɛ.","Afọ ise ọ bụrụ na ịbụ onye doro anya, ndụlaa wee mee kwere, fịọ ka m ga-adị mma ọzọ na akụkụ mgbe gọọmentị.",1.2222,0.8429
+753,"Gbaã ne, lonya inyɛwe nɛ ame i wũ maturi pia i Egipte karɔ̃ iso.","Mba, anaghị m. Na-enye m ihe nwere ike ime m njem ụgbọ mmiri gaa Egypt ka m nwee ike",1.3571,0.8958
+754,Akisi wagbe ɔɖuɖu pia i ara wa karabara bosɛ bobara aro iso.,"A kịsị wa gwa rụrụ pịa ya, a rawa akara bụrụ oseburụwa, a rụọ",1.1667,0.5208
+755,"Lɛ kumɛgɔ i Mose ɔɣɛ sɔ, ‘Bosate gɔ nɖe mi Ɣaa to ɔ̃asese mi kanyaɖidze mama ɔbɔrɛgu i mi ndɛ̃ lɛ me.","Na kụọ mụ gọọ ịmụọ sị ọ sọọ, bụ sate gọọ ndị mụ ịya tọwá sị sị mụ ka ya dị je mama. Ọ bụrụ egwu ịmi ndị le",1.2727,0.5867
+756,"Si misakanya ne, mitsue sɔ lopia i mi ndɛ̃ i Siwarã ame fiɛ Bosate ɔle ana pia i mi ndɛ̃.","Sɛ me saka nyane, me hwɛ Sɔropia me di.",1.0,0.6667
+757,"Ɔwi gɔ ipɛ lɛ iɖɔwũ iweo-inyɔ ne, kayi ɔbara guduu gbɔgbɔɔgbɔ isɛ iabo lɛ iɖɔwũ itɛ ame.","O ga-ebebe idowiiwe nyonu. Ka ị ọbụragu du gbagbo gbo, ịsọ ya bụọle idowiiwe",1.0,0.5507
+758,Alasɔ ɔbiara gɔ nɖe Ɣaa ɔbi sɛ ɔɖe kayi iso.,A laso biara go ndi a obiso di ka,1.0,0.5
+759,Kutsue ikpadzɛ̃ iwɛ̃ saã i makpakpɛ̃dze ɔtã bo gu wũ.,"Kúchuè kpàńjè, ìwẹ́ sán, ímàkpèkpè jè, ọ̀tàbògùn.",1.0,0.65
+760,"Ne ɔso ne, matsɛ ɔri mama gɔ iso maaki fiɛ maamɔɛ̃ wũ ibie.","Na so na, make e orima ma go so, make e kifie ma mu enwu ibi",1.2308,0.4318
+761,"Ɣɛɛ ɔrɛrɛ̃ gɔgbe iiɣe ngɔ i Yesu ɖe, fiɛ maturi ana ɔsi i mmɔ, ne ɔso Yesu ɔma ɔbo i ma ndɛ̃ ɔrui i mmɔ.","Ehen, ọrụ na-egbochi ihe ngọị ịga ụka. Fịa maturia na ọ sị ịma. Nọsọ ụka ọma ogbo ịma ndị ọrụ ịma.",1.0,0.6267
+762,"Ngɔ loaɣere ɔ̃ ɔnyiibi sɔ, ‘Ailɛ atã kuira’ ne, makpakpa aaɣɛgu wũ atɔ̃me.","O gwalụ anyị na ọ onye bishọp, anyị le atankwịrị na ya, makpa anyị gụọ atụmatụ",1.2308,0.7091
+763,"Ifɔ̃ siare ɔmɔɛ̃ ma ne, mato makarɛ so sɔ, “Mme ɔturi igbã ɔɖe ngbe?",fonsi are omema ne matoma ka re susu miltri gbo de,0.9286,0.4286
+764,"Bo ne, boibaɖe ndamu bofe kumɛ, ɣɛɛ boatui i ngbegɔ i Ɣaa ɔsɛ ɔtã bo fiɛ karabara ga bobara i mi ndɛ̃ ana pia i ne ame.","Bụ na gbe ba de nta mbu fe kume. Eh gba tu igwe go ya ose ota bu, fie kara bra ga bu bra ime inde anapia na ya me",1.1111,0.3933
+765,"Ne ɔso ne, Ɣaa ɔkɔlɛ wũ kato ɔɖo ira biara, ɔtã wũ iyere nɛ lokɔlɛ iɖo ayere ɔɖuɖu.","Nụsịne, e aokoro nke atọ ọdụ ịrabiera, ọtawụ ịyere na lokoro idu anyi rị ọdụdụ.",1.0,0.5714
+766,Silvano gɔ losɛ lowarɛ lɛ fɔɖedze gɔ nɣɛ teteree lobuai me lotsɛrɛ ɔko gɔgbe.,"Ifeanyi Nwosu goro selu ware lefo dije, go ya tetere lo gba emelochira",1.0,0.6349
+767,Ifɔ̃ ɔmɔɛ̃ marɔ̃go gbaã ne ɔso mabɔ ma ati karɔ̃ matã ma.,Ife ọ ma mma rọgọ ọgbangọ nọ sọ m'abọ m'ati karụ matam,1.0,0.439
+768,Ɣɛɛ mabɔrɛ i bo ndɛ̃ si ite sekelee sɔ ma kuwɛ̃ iiɖe bo ndɛ̃ ɔwɛ̃.,"E ma binu o, si itesiwaju o makun nwa idi bu",0.9333,0.6596
+769,"Mma nto mama ne, masɛ lɛ mma loito mana isoɣɔ.","Mando mamani, masele maman, leitu ma na iso",1.0,0.3143
+770,Mibuai mma lonya ibuai si mina ɔtu mitã ɔturi biara.,"M'igbe emalonyɛ igbe yi, si mi na otumita otu biara",0.8,0.3333
+771,"Ɔfuĩdza aɣɛ ɔpia i iwo gudua wodoroa ame, ɔsɛ̃ ne kanya kpa, fiɛ ka ɔsu itsuebi ɔsɛ̃ iwo kanya sɔ si ɔ̃isibana ɔri ɔkɔ nɖebi ɔyura gbɔgbɔɔgbɔ akɔ kakpi kama.",Ọfụrụ nja anya ọpịa Igbo gụdụ a wụrụrụ amị. Ọ sịrị ka ya kpaa. Ya ka ọ sụ ị chụọbị ọsọ Igbo ka ya. Sọsị nwa nzịba na ọrị ọkọ nne bịa ọ yụra gbagbọ ọgọ akọ ka kpịka,1.2667,0.5574
+772,Maɣɛ nnɛgbe sɔ Ɣaa maturi aawe ɔdzini i ma inyɛwe ame ku kafɔkaɖe.,Maa ne gbeso ama turu ya wu oji ni ima inyi wu ya mi ko ka fo ka,1.3846,0.3962
+773,Maɖe ika i ara wa i Itɔ̃me Bielea maɣɛdze to maɣere mi kiniɔ iki i Siwarã Bielea dzɛ i Ɣaa ɔsese ɔbɔrɛgu i kato ɔle iso.,"Mmadu ịka ị arawa ị, ịtọ mụ bịa ebe a, ma ịje etu ma erem ịkịno? Ịka ịsị gwa mụ bịa ebe a, jee ya ọsịsị ọbụrọgụ ịkatọ ọlụ ịsị",1.1538,0.5484
+774,Miɔnina ɔwi gbodzoo ku ɔwi gɔ lofe mibara ara wa i maɣɔsɔrɛdze sɛ maɖɔɛ ibara.,"Nọọni na ọwụ igbo jọkụ ọwụ igbo ọlụfẹ. Mị bụra Araụayi, Mayọsụreje ịsẹma ndụe ịbụra.",1.0,0.5556
+775,"Ɣɛɛ Yesu ɔɣere wũ sɔ, “Matsɛrɛ mapia i Ɔko Sekelea ame sɔ, ‘Iiɖe aɖera ɔnɔwɛ̃ iso i ɔturi aasɛ ngbã.",Yesu ọyị ịrẹ uso. Ịchịrẹ mmafịa ịyị ọkụsị clear mụ so. Ịdị adura nụwa ịsọ ịyị ọtụrụ ya asụ,0.95,0.72
+776,Yesu ɔwe i Betania ɔmagɛ̃ ame i Simon gɔ lonyɛ ɔnyɛ rɛtɛa iyo.,"Yesu owayi Betania, ọmagi ama isi mọgọlọ nye ọnyerete anyi.",0.8462,0.3542
+777,"I Yopa ne, ɔrɔ̃go ɔwɛ̃ pia marɔ sɔ Tabita.",Onye ọrụ na-ahụ maka ọrụ na-ahụ maka ọrụ,1.0,0.9333
+778,"Ne ɔwi gɔ maba ngbe, i itɔ̃me nɛgbe ɔso ne, loinina ɔwi ɖuɖuuɖu.",Nnewi ga-ama mma ngbe ịtọ mịna gbe ọsọ nịlọ ị nị Nnewi dudu,1.0,0.5
+779,Ɣaa ɔkarã irɔĩ iso sɔ ɔ̃abara David ɔwa tɛtɛ ɔɖe sigara i David sigaraiyara iso.,waa aburo yi aburo ekudokpo gukanu iso odudu,1.0,0.7969
+780,"Ɔ̃ kayiribielea ana iiɖe siefe, alasɔ loɔbara karabara teteree loɖo katɔ̃memasɛdze tsɔra ɔɖuɖu, ɣɛɛ iiɖe mme mɔmɔ ɔle ame lobara, ɣɛɛ Ɣaa ɔle gɔ nto ɔbara karabara i wũ ame ɔɖe.","na anyi di si efe. A na-asọlụ ọbụra karịrị ọbụra tetere elo duka to masi je chọrọ odudu. Ịde mmemme ọlịamelụra, ọlịgọ ndụ karịrị ọbụra ịwa ma ọ",1.0,0.5674
+781,"Ɣɛɛ gɔ lonya sɔ nnɛ mabara iikotegu nnɛ mpia i Itɔ̃me Bielea ame ne, loɣere Petro i ma ɔɖuɖu katɔ̃ sɔ, “Si fɔ ngɔ fɔ nɖe ɔ Yudase ɔsɛ ngbã lɛ ngɔ loiɖe ɔ Yudase ne, be ɔso fiɛ ato aɣiɛ mma loiɖe ma Yudase sɔ masɛ ngbã lɛ ma Yudase?","Ego ole nyere gi so na ị kote gi na mba a ị tome bia na ya? Ruo iri petro ị ma dudu carton so, si ife ogo fo na ọ Judasị. Ọ sị ngwanụ, ngọle ede ọ Judasị na ya. Bịa ọ sofia taa here ngwọle ede ma Judasị so ma",1.0,0.6264
+782,"Ne ɔso minyua mila ɔla, si ɔbiara si ɔɣere ɔ̃ ɔlaa ɔnukuare alasɔ mi ɔɖuɖu ne, Kristo kuturidziri iso ara miɖe.","Nso mị ṅụọ mị lọla, sụọ biara sụọ ere ọla ọ nụkwara. Alaso mị ọdịdị ụne, Kristọ kụ tirigiri ịsụọ ara mị",1.0,0.4713
+783,"Gɔ marasuãdze ɔnya nnɛgbe ne, ikpɛ̃ ma sikpã.","Gɔmharaswã je ɔnya, nle gbenɛ, ikpemɔ si",0.875,0.3429
+784,Lofɔ loɖe i Bosate iyere ame sɔ mme mɔmɔ to loaba mi kɔrɛ i ɔwi kurukutu ame.,"Mepche na woyɛ obi a ɔpɛ sɛ ohunu mmeamu, to wo aba mu kyerɛ, yɛwɔ nkrataa",0.9412,0.7167
+785,Bosate Yesu mɔmɔ ɔɖe loɖe katɔ̃ ɔpɛ iɖi nɛgbe imomo fiɛ mma lonɔ ne fiɛ boawo ma ɔfɔ ɔɖe ɔba maaɣere bo.,Wɔsane Yesu mumuu ɔde lodekato ɔpɛ idin egbɛ imumuu fie omaalunni fiegbaa omaa ofɔli obamayiri,0.9091,0.4568
+786,"I ɔri gɔgbe igbã iso ne, ɔrɔ̃go fɔɖedze ɣee ɔrɛrɛ̃ fɔɖedze ba ɔri ɔ̃abara nnɛ ɔɖɔɛ.","Ori gogoro igi so ni, orun ko fo'de jee, orun fo'de ba ori, won a brand e odo",1.0625,0.5873
+787,Pɛgu maturi si asa ma abara awawãra gbodzoo i fɔ Ɔɖabo Sekelea Yesu iyere ame.,"Na gwa m atụrụ si Asama abụọ anọ nwaara gị ojii, ife ọzọ bụ osekiri. Yesu iyere.",1.0,0.4762
+788,"Sosina ame ɔwe o-o siwarã ame ɔwe o-o ne, loibawo ɔtsue, ɣɛɛ Ɣaa ɔ̃ ɔɣe.","Sɛ osi na mɛnwe o, siro mɛnwe o, leba ochu ɛ, ɛhɔ",1.0,0.5385
+789,gɔ ɔse nɖe Eber gɔ ɔse nɖe Sala.,Kwasende ebe Kwasende sala,0.875,0.375
+790,"Ɣɛɛ ne, kɛlɛ aasu so te Ɣaa sɔrɛdze si atã ara wa i Mose mmara ɔkarɛ si ite maturi sɔ ka ase sekelee.","Ene, klasu so te asro e je si atara wai mose o mara okare si te matriso ka se se",0.8261,0.3247
+791,"Ayi kurukutu kama ne, bosa bo ara kanya boɣo Yerusalem ɔri.","Ayi, krukutu kama ni. Bosa bu ara anya, bo yo Yerusalem",0.6364,0.1702
+792,Iito bo ɔkã sɔ boasu so bokateragu mma nto makɔlɛ so kato sɔ mafe inya.,Ihe toboro ka nsogbu asusu bu katiragu madu ma kpoloso katu soma fe inyi.,1.0,0.3929
+793,"Karatã ga misese me mikigu i Epafrodito iso ɔba kaapɛgu me kɔrɔ̃, ne ɔso kuira iisinya me.",Kedu ka aga esi eme miki gwi eprofara di to iso obaka apegoro? Na nsogbu iri isi ya,1.0588,0.4366
+794,"Si ɔsande aɖe atã ɔturi fiɛ Ɣaa ɔkpere-ɔ ne, idaaɖa-ɔ.","Sɛ ɔsane adeyɛ atɔnturifie ɔkporɔni, idada",1.0,0.4146
+795,Maledza wũ iɖi sɔ ɔ̃aɖe ikparĩ nɛ iso i maturi aaɖe ika mata maya.,"M'aleja yi di swan de ikparin, na iso matria de ikamantamanye.",0.9286,0.3725
+796,"Ita i Igara David iso isɛ iabo ɔwi gɔ mamɔɛ̃ Israel mabi makɛlɛgu sisande ame i Babilonia karɔ̃ iso ne, mawa ma nto maba i ngbe lowe ne.","Ita yi, Gra David, isu, ise a bu o wiko mamay Israel ma bi makalagu 600 ya me. I Babylon karu isu ne. Ma wa ma ndu ma ba gwelu we ne",0.8929,0.2952
+797,Ibara Pilato ɣii gɔ ɔnɔ sɔ Yesu ɔkpi mala ngbɔ.,Gba aide,1.0,0.8649
+798,Misore wũ nsɛgbai lɛ kumɛgɔ mme wũ nto losore Kristo nsɛgbai.,"Mụ sụrụ n'ụzọ gị, na-ekumegom enwu, m tụrụ sụrụ Kraist n'ụzọ gị.",1.0909,0.64
+799,"Mmɔ i Pilato ɔkarɛ Yesu sɔ, “Fɔ nɖe ma Yudase Igara ne?",Pontius Pilate okara Yesu sɔɔ. Fɔnne ma Judas se igara,0.8333,0.3659
+800,"Si masia manyɛse nrɔɔ̃ i ati ne, maana isosarɛ.","Sɛ masia manye, sɛ wonni adidi na, m'anae so",0.8889,0.4722
+801,"Gɔ mma loki malɔ wũ ɔsi ɔso ne, ɔya ɔbo ɔsɛ i ɔkolo ame i ndu iso.","Ọmalụ k'ịmalụ nụ, ọsị ọsọ nụ. Ọ ya ọbụ ọsọ ịọkụlụ amaghị ịdụ.",1.0,0.625
+802,"” Itɔ̃me wɛrɛa nɛ mpia i Ɣaa itɔ̃me nɛgbe ame ɔwodoro, ɣɛɛ mme lonya sɔ Kristo gu ɔ̃ mafɔɖedze iso iɖe ɔɖe ika.","Ito me huru anyi bia, ito me na-egbu anyi, o odiro. Umelonyeso, Kristo guo ma foro eje iso ide ode",0.9545,0.4458
+803,Ɔsɛgu maturi gbodzoo ma i masɔrɛdze makpakpa gu kaɖe makpakpa ɔpia fiɛ mato atekpe gu kudziriku.,"Masegu maturi igojo mai, masoraje mapapa, gukade mapapa opia, fiomato atepe, gukujiri",0.9375,0.3
+804,"Mmɔ i Yesu to ɔɣere wũ sɔ, “Matsɛrɛ i Ɔko Sekelea ame sɔ ne, ‘Bosate Ɣaa ɔnɔwɛ̃ nɖe ngɔ lokote sɔ maapɛ agɛgɛ̃ matã, masɔrɛ.",Mụ onye ịsị ụto ọ ga-adị m mma. Ma kịrị ịyị ọkụsị clear mụ ịsị ọ nị. Bọsatị ha nụ mụ nne ngọlụ kọtesị mụ apụ ya gị gị mata ma sụrụ.,1.28,0.5978
+805,"Mma nto maɣa ara ne, mabara lɛ ara wa maɣa iiɖe ma mɔmɔ are.","Mando ma ara ni, ma bra le ara wa ma ya ide ma mu m'ari.",0.8571,0.2889
+806,"Ɔbiara gɔ loaɣɛ sɔ ɔpia i Ɣaa ame ne, ikote sɔ ɔ̃asɛ ngbã lɛ kumɛgɔ i Yesu Kristo ɔsɛ.",O biara gwa anyi na o pia ya amani. Ikwute so ya nse ngwanle ku muo go ya Jesu Kristi,1.0526,0.5385
+807,Nto loɣere mi gbaã sɔ loisibanɛ ndã gbɔgbɔɔgbɔ iyi nɛ loanɛgu mi miɣɛtɛ i wũ Ɔse sigarakaɖekɔ̃.,"Ntolore mi gba so, lo isi ba ne nja kpogbogbo, i ne lo anegu mi, mi eche i nwuse si graka de",1.1765,0.3636
+808,"Kɔsiɖa kaya tutuutu ne, marɔ̃go magbe ɔta makɛlɛ maturi kabiarakɔ̃ ku ara wa maaledza wũ ala.","K'ọsị da ka ya tütütụ ne, m'arụgọ m'a kpe ọta makalụ m'atọri ka biara kụ, kụ arawa m'alẹ ja ụwa.",1.1875,0.3378
+809,"Ne ɔso mi nrɔɔ̃ mɛ loɔfɛfɛ̃ gu agɛgɛ̃ wa lobara nyɔkɔ̃tɔɔ̃ ne, mipia wã ɔle.","Nso mi romero fefe, guo gi gi nwa aro bra nyi kutonye. Nti anwa ole",1.0,0.5091
+810,"Ne ɔso la ɔba ɔ̃aya i ɔrɔ̃go gɔ i kuɣe to kuɖoɖo katɔ̃ sɔ si ɔnya ɔɣe ɔbi ne, si ɔ̃asu ɔbi ɔme.","N'ọsọ ụla, ọbụ onye anyị ọrọgo go kwụ etu kụ dọdọ ka tọ sọsị ọnyọ ị ọbịne, ọ anụ ọbị ọma",1.0,0.6418
+811,"Ne Bokɔse ɔɣere ma sɔ, “Si mi kafɔkaɖe ɔmɔ lɛ susuruba ibi ne, miaɣere kudziri gɔgbe sɔ, ‘Rui ngbe kɛlɛ ɔpo ame.","N'ebọkọ sị anyị remasọ, sị mịka fọka dị ọmụọ lesụsụrụ baịbụlụ ịne, mịarị kụjirigọ gbe sọ, rịọ mgbe kịle ọpụọ",1.0,0.5176
+812,"Ɔwi gɔ ɔto ɔtsuedza kua kɔrɔ̃kɔrɔ̃a mmɔ ne, masumudze tsɔra ɣɛ i inyamɔ mato makparama kayi.",O wee gwa ha otu o si jee chụa ya i i ya bụ ụmụntakịrị maka,0.9375,0.7534
+813,Ɔsu wũ ɔbara Ɔkpakpa gu Ɖidze sɔ Israel kaɖe ana ɔri mafiniki i ma situ ame mana akpi isu itsɛ.,"Sọ Israẹli ka di ana ori, ma finiki ma si tu ami, ma na akpi isu",0.85,0.48
+814,"Mɔɛ̃ fɔ kafɔkaɖe gu fɔ kaɣere la kukaakɔ alasɔ mawɛ̃ ma loikã ma situ atsue ne, mayu ngbã ɔri.","mụ fụ ka fụ ka, adịghị m fụ ka ị rịla ka akọ. A sọ mụ na onye maara ihe kama si tụọ chụọ nụ, mụọ gị ụgbọrọ",1.4737,0.6528
+815,Yesu ɔbara nnɛgbe si ɔte sɔ ɔwi gɔ i Ɣaa ɔɣɛ ɔsɛ sɔ ɔ̃aɖi kayiiso maturi ɔɖuɖu ɔɔɣo.,"Yesu ba na gbe, si oteso o wui go ya oteso nwa di ka yi so matua dudu o.",0.9444,0.4769
+816,"Ɔ̃ abualɛra wa ɔba ɔtã bo ɔwodoro fiɛ i ɔ̃ iwola gu inɔgba ɔɖuɖu ame ne, Ɣaa ɔbara nnɛ ɔɣɛ ɔsɛ.","ọba ọta bụ ọwudiro, ihe iwu na-agwa gị nọgwa odudu amene. Ọ bụrụ na ọ",1.0,0.6761
+817,"Ɣɛɛ si kuwɛ̃ na gɔ ɔ̃aɖi nnɛ mato maɣɛ karɔ̃ ne, iyɔ ma ɔbiara si ɔlo i kasarɛkɔ̃ si ɔɖegu Ɣaa ɔnɔwɛ̃ ika.","E si kwe na gị onwe gị na-emetụ aka n'ahụ gị, ịọ maọbụ bịara si ọlụ ị kasara kọọ, si odegụọ ọnụ gị ị",0.8696,0.6494
+818,"Ɣɛɛ ngɔ loifɔ ɔɖe ne, Ɣaa to ɔ̃atã wũ kukpi ipɔ.","Ɛwɔnkaalɛ fɔɔdene, ha tua taa nkuku",1.0,0.6
+819,Ɔto ɔ̃adzuɛ̃ mi gɔ mimɔɛ̃ mi kafɔkaɖe mito sekelee isɛ iabo kawirikɔ̃.,"to aju emi, gomina emi ka f'okade mi to sekere ise ya gbo ka wurikun",1.1667,0.3519
+820,"Ara wa i maturi ɔɖi masɛ mato masɔrɛ ne, si maɖe aɖera wa masu masɔrɛ wã ne, masɛ mabu sɔ aɣɔ aɖera aɖe.","Araway matiri odi masi, matoma soro ni. Sima de adira, wamasu masoro wani, mase mabusuo ayo adira adira.",1.0,0.3291
+821,gɔ ɔse nɖe Zerubabel gɔ ɔse nɖe Sealtiel.,"Gọọnsụ ndị Zerubbabel, Gọọnsụ ndị Sheltiel",1.0,0.4545
+822,Ɔkpere ma sɔ maaɖe ɔ̃ maturi Sekelea lɛ kumɛgɔ ɔkpere mma ɔɖuɖu ana nsɛ makpere Bosate Yesu Kristo.,"O kwere m na nsogbu adịghị, ọ matara ihe si na ya lekọta onwe ya, o kwere m na ọ dị ndụ. Ana m eji aha kpere kpọsa ya bụ Jizọs Kraist.",1.7222,0.7625
+823,Matsɛ ibu sɔ bɛrɛ Yohanes nɖe Kristo gɔ mato manyɔ ɔri.,"Mace a i busa bera, Yohanes nde Kristo go mato manyo",0.8182,0.2727
+824,Kusɛsɛi kurɛ̃ i aɖera kutia ɔyi?,ku sese ku ko je. Ma ranti kere kere kupi ku na lo de ara. N'ego Yesu o di ma,3.3333,1.6
+825,"Gɔ maɖe iyi maro fiɛ makpese mato makɛlɛ ma aɖe ne, Yesu ɔkpese ɔwe i Yerusalem gɔ ɔ̃ maɣese iitsue.",Gọọmentị maru ihe ma kpese ma tọ ma kịla ma adịghị. Yesu ọ kpese ọ we ị Yerusalem. Gọọmentị ịye se ị,1.0,0.4359
+826,"Ɔwi gɔmɔ ame ne, Kristo mafɔɖedze ma mpia i Yudea iinya me manya.","Owu gị bụ mu na-eme nụ. Kristọ ma fọrọ ejem bia Judia, ịnyọme m.",1.0,0.549
+827,Fiɛ lobie sɔ loawe ɔriinyɔ sɔ mme wũ Ɣaa aatara me ɔbɔrɛgu i makpise ame losɛ ngbã.,"Fiaru bi osula bu orinyo, so me nwe a try ma break gi ma kwesie ame losi",1.0,0.5455
+828,"Ngɔ nsɛ ɔɖɔɛ ɔ̃ ɔnyii ne, ikpawaĩ ame ɔsɛ, fiɛ kuira na gɔ iatã ɔbo i ikpi ame.","Ngwa zuo adu ehihie nee, ịkpa wa ya mee ose, fịekwụọ ya n'agụọ ya atọ ọ bụrụ ịkpa ya",1.0556,0.6552
+829,” Masɛ maafɛ̃ ara matã Ɣaa alasɔ mmara ɔkarɛ sɔ maasu abɔrɔnuma ɣee kukpaboi kunyɔ mafɛ̃ ara mata wũ.,"Mase mafe ara matan ya, alaso, umra okariso, masu abuluma, e, kukpa bu eku nyo, mafe ara matan",0.9444,0.3165
+830,"Ɔkarɛ wũ sɔ, “Ratedze, be loabara fiɛ loana ngbã mɛ loisɛ miro?","Wɔka rawusɔ? Ɛwɔteɛ, me ne abrafia na ɛnana ngua me ne",1.0,0.6042
+831,Alasɔ bo ɔriinyɔ ɔɖuɖu sia i Ɣaa gɔ mba ngbã fiɛ ɔɖe maturi ɔɖuɖu Ɖidze iso titirio mma lofɔ wũ maɖe.,"Asobo rịọ nụ rụrụ si ya gọọ mba ngba, fịọde ma tụrụ rụrụ dị je ịsọ, chịtụrụ malụ fọọ",0.9524,0.65
+832,"Yesu ɔtsue ma adzuni, ne ɔso ɔkarɛ ma sɔ, “Be ɔso mito misusu ara wagbe i mi situ ame?",Yesu o tu e ma aju ni na o so o ka re ma so. Be so mi to mi susu a rawa gbe i mi si tu a,1.2105,0.1875
+833,Yesu Ɔɖi So Ɔte Ma Yudase.,Yesu ọhẹ ngbe ọfọ mmadɛ. Na Yesu ọhẹ ri ma Yuda si malu fọ mmadɛ,2.1667,1.85
+834,“Be i ɔturi awune ɖe ɔso fiɛ fɔ anɔ sia wũ iso?,Bɛi atriawu ne de osofie fo anosi awu,1.0,0.3529
+835,"Gɔ mafɔɖedze ɔnɔ sɔ mawɛ̃ to mabie sɔ maɖoe wũ ne, makɔ wũ makɛlɛgu Kaisarea fiɛ ka masese wũ kaa ga nɖe Tarso.",Ka mụ afọ ndị a ọnụ sọọ ma ọ bụrụ na mụ abịa sọọ ma adịghị ewinu. Mụ akọọ mụ akụlịgwu ka ịzara afịa ka mụ sị sị ka aga ndị,1.3043,0.6628
+836,"Alasɔ ara wa nsɛ akpɛ̃ sosina ɔkã ne, ata aɣɛ i nwa i Ɣaa Siwarã sɛ sibie iso.","A na-asọgharịwaa nza kwụọ ebe sọọsọ ịṅụkọ nụ. A taa ha ịwaa ya, ha siwaa sị ha bịa ịṅụ.",1.0556,0.6897
+837,"Ma Yudase tɔ̃ɖedze ɔwɛ̃ ɔkarɛ Yesu sɔ, “Ratedze bielea, be loabara fiɛ loana ngbã mɛ loisɛ miro minya?","M'ayewu da setonedi oo, wo kara yɛ susuo. Ratege biara, biara abra fie na na ngba me resi",1.0,0.5063
+838,Mina kayakpa kukawɛ̃ i kaɣɛkasɛ ga i Ɣaa ɔtã ɔ̃ maturi ame.,Mina ka akwukwo ka ha ka si ga ya ota,0.9167,0.5333
+839,"Ɔwi gɔgbe kama ne, Yesu ɔɖi so ɔte marasuãdze inyɔ ma nsɛ i Yerusalem ɔri.",Yesu odi so ote maranatha inyom anza iye Jerusalem,0.8667,0.5345
+840,"Kakpadzɛ̃ ɔbo i ma ndɛ̃ fiɛ matsɛ irui gɔ Paulo ɔɣɛ atɔ̃me tsɔra wagbe sɔ, “Gbagbaã iɖe i Siwarã Bielea ɔki i Yesaya iso siɣere bo mawa sɔ.","Kpakpando bụ ịma ndị fịe, ma chee ịrị gọ Paul ọye akwụkwọ nsọ. Gbamgbam ịde si na mbịelọ oke ịsị eregbe ụmụ wa",1.0,0.6226
+841,"Abualɛra ɔso kere ɔfɔ mi iki i kafɔkaɖe ame ne iiɖe isɛɛ kuiwɛ̃ nɛ mibara ɔso, ɣɛɛ Ɣaa karatã kaɖe.",Abụọ a lere anya so create ọfọọmụ ịka ịka fọka dịamị na ịde ịsị ekwe ịwe na mị bụrụ ọsụ. Akara taa ka dị,1.2,0.6234
+842,Ɔ̃ibanyua kasiwɛ̃-kaiwɛ̃ ɔɣɛdza i aɖera kaɖekɔ̃ ɔ̃anyɔnyɔ ngɔ loyu gbɔgbɔɔgbɔ ɔ̃anya wũ?,"Nwe ba nwu akasi nwe ka nwe. Onye ije anyi adiraka diko, ohanjuju ngoloyu, gbugbo gbo ohanje ahu.",1.5,0.5797
+843,"Ɔrɛrɛ̃ gɔgbe ɔta ɔluwɛ̃, ɔsu ɔ̃ ɔkala, ne ɔbɔrɛ i maturi ndɛ̃ ne.","Ọ rụrụ ọrụ gbe ọta ọlụ ụnọ ya, ọ sụọ ọkala, na ọ bụrụ ịma tụrụ nde",1.3077,0.587
+844,Nto loabie sɔ loanya ɔle gɔ mmamɔ ba gu atɔ̃me wa mato maɣɛ.,Ndi be anyi e solum anya o lego mma m gba gu atomewa ma tuma,1.1538,0.3478
+845,"Si mibara ara lalaa fiɛ mina ɔtu miya mapɛ mi ne, mme ile mpia i ne ame?","ara lala ni. Ma nya mi ara se, wa mi to mi bra, so ma su ile matan ya. Ku enyi ne wa le je ibaiso. Bosa te go bo tobo suro oso ne, mi bosa okaro mi",2.0588,1.4815
+846,"Minyɔ so kukaakɔ sɔ kuwɛ̃ iibakpesera mi masande iki i kayiiso inɔgba gu kasɔla siefe ga matsue masia i maturi akisi iso, ɣee siwarã dzɛ nto siɖe kayiiso iso ame.",Minyo so gụ ka akwụkwọ nsọ kwuru onye banye kpesara ma Sunday. Ịka ịka anyị so enọgba gụ ka solasie efe ịga machụ ịmasị ya ịmatụrụ akịsị ịsọ. Ee siriwa njedebe ka anyị sụọ,1.1,0.5692
+847,"Ita i ɔwi gɔmɔ ame ne, Yuda ɔtsɛ ɔri sɛɛ gɔ iso ɔ̃aki fiɛ ɔ̃aɖi Yesu ɔtã ma ibie.","Yuda ɔhene, ɔreeseɛ, ""Gyae so, w'ankasa fie, w'adi Yesu."" Ɔta mayi",0.8947,0.6441
+848,"Gɔ manɔ nwagbe ne, ma Yudase matɔ̃ɖedze ɔbie sɔ si maamɔɛ̃ Yesu.",Koma nu wa gbe ni. Ma yuda se ma tan de je obi eso si ma mu eyin,1.3333,0.3673
+849,"Ɣɛɛ, i ne kanya ne, bo ɔriinyɔ nɖe sɔ mi kafɔkaɖe aamɔ fiɛ bo karabara i mi ndɛ̃ ana aamɔ kabua lɛ kumɛgɔ i Ɣaa ɔbie.",Ihe mere ka ya na ya bụrụ ihe ndị sọrọ m ka afọ ka dị aṅụrị bụkwa karịrị ndị ana aṅụ ka gbua leekwa mụ go ya,1.0,0.6591
+850,"Isu ibua i nwagbe ɔɖuɖu iso ne, misu kuɖɔɛ gɔ nsɛ kunyi ira biara kusakanya kukaakɔ mibua iso.","Mee ka anyi gbaa egbe duru isi na, mee ka udo na ego zekwunye, i ra bia ra, ku saa kenya, ku ka akom igbo anyi",1.4444,0.5333
+851,Bo boise lɛ Mose gɔ nsɛ ɔsu ɔkati ɔfu so katɔ̃ sɔ Israel mabi si madaanya sɔ Ɣaa ifiɛ nɛ mpia wũ i katɔ̃ to iro.,Bɔbɔeɛ sε εla mɔ sε gɔzɔ sε okati ofusuo ikaton. Sɔ Israel ma bisi ma daa nya sɔ aya ifie nε bia ikaton te,0.9231,0.381
+852,"Ɣɛɛ ɔbiara gɔ lotsiri ɔ̃ ɔnyii ne, ɔpia i idududu ame.","O pia ra goro chiri onye ine, o pia idududu a",0.9091,0.3902
+853,"Mafɔɖedze matɔ̃ɖedze ma nsɛ makɔkɔ maturi kukaakɔ ne, ikote sɔ maafɔ kuwarɛ gu kuso gɔ lokɔlɛ kato.",mafo re je ma to re je ma unse ma koko ma tu gu ka ko ne ikwesi so ma fo kuware gugu so golu kole ka,1.4706,0.4
+854,"Mose gɔ ame i mi ɔɖuɖu ɔriinyɔ pia ne, ɔ̃ mɔmɔ loatã mi ipɔ ne.","Mụ na ya gọọlụ emee ihe ọdúdú, ọ rịọ ya pịanị, ọ mụ ma ọ lata m ịpa ọ",1.2667,0.7826
+855,“Minyɔ so kukaakɔ sɔ miibanina ɔwi i ɔɖegbodzo gu itarɛ̃ iso.,"Minyeso ku ka akɔ, sɔmmeɛ ba ni na ɔwɔ iyi odigbojo gwae tare",1.1818,0.375
+856,"Salmon gu ɔ̃ ɔre Rahab ɔɣe Boaz fiɛ Boaz gu ɔ̃ ɔre Rut ɔɣe Obed, Obed ɔɣe Isai.",Salomon wuu oree Rahab oyi Boaz. Fie Boaz wuu oree Ruth oyi Obed. Obed oyi Jesse.,0.7222,0.4138
+857,"Akɔ gbodzoo kama ne, Yosua ɔkɔ bo mase ma losore sikati ikpayo nɛgbe masɛ maakpɛ̃gu mma i Ɣaa ɔsa ɔbɔrɛgu i nrɔ̃ mɛgbe iso.","Akokogbo jo ka mani. Yosua akokogbo masi, ma losi isi ka ti ikpa yo negbe, ma se ma kpegu ma yi osa, obregu imegbe",0.9583,0.375
+858,"Si mibara ngbɔ ne, Ɣaa to ɔ̃akã mi atsue si mikparama kayi.","Sɛ me prankfoɔ ne Yɛtu wa kan me akyi, sɛ me prankfoɔ",0.9167,0.6222
+859,"I kã kɔrɛ ne, ibu iwɛ̃ nɛ i kukpakɛ kuru ɔki kulɔ se fiɛ masɛ marɔ ibu nɛgbe sɔ Betesda i ma Yudase siɖe ame.",Ihe ka ọtụtụ n'ime ụmụ nwanyị kwuru na ọ ka iku nọọsụ. Ihe masịrị ha bụ na e nwere ụlọ ọgwụ Bethesda na Maywood dị na,1.04,0.8171
+860,Boɔkpese kayiiso aku kawirikɔ̃ gu ara wa loisilɛ ipɛ i kiniɔ.,"Gwa kwa isi ka anyi so akwukwo ka wuru ko, gwa ro ha na isi nile ipe",1.5455,0.6327
+861,"Ɣɛɛ gɔ mato manigã sɔ mma losakanya i mmɔ aapɛ ma ata ɔso ne, maimɔɛ̃ ma sikitii.","Ɛyɛ gɔm ato ma ni gansɔ, oman losakanya imɔ apɛma ataɔsɔni ma nwe ma sikiti.",0.8824,0.2419
+862,"Ne ɔso ɔbiara gɔ loatu mmara kosoi tsɔra fiɛ ɔ̃ate mamama sɔ mabara ngbɔ ne, maakpere wũ ɔtsɔra i Ɣaa sigarakaɖekɔ̃.","Na so obiara go lu atu umra, ka so echu ra fe ote ma ma ma, so ma bra ngbori, ma kpuru ochura iga sigra ka de",1.2857,0.3913
+863,"Ɔwi gɔmɔ ame ne, ɔwiri sɛɛ ɔtsɛ ikpɛ̃ ibɔrɛ i kala isɛ gɔ lote lɛ ɔwi sɛɛ ɔɖe sɔ maasɛ ɔri.","Ọga m, a na m ele anya ịhụ ma ị nwere ike ịbịarute ebe a taa ka anyị kparịta maka ọrụ a.",1.0476,0.8676
+864,"Ita i ɔwi gɔmɔ ne, minɔ sɔ mato maɣɛ Itɔ̃me Bielea i Ɣaa sigarakaɖekɔ̃ iso.",Ita yau we go morning. Mi no so matuma ayi tuma biara i asigra ka de,0.9333,0.5088
+865,"Ɣɛɛ ɔrɛrɛ̃ gɔ i kuira iito iɖaa fiɛ ɔnyɔ sɔ ɔ̃awo ɔɖe so iso ne, ɔ̃awo ɔsɛ sɔ ɔ̃ito ɔyiri ɔrɔ̃go.","Orenge kwere anyi to ida afia ya, o nyuso wa odeso eso na, wa ose so nti o iru orenge",1.0,0.6
+866,"Mose ɔfɔ ɔɖe sɔ ɔ̃ manyii aanya wũ lɛ ngɔ i Ɣaa ɔpia sɔ ɔba ɔ̃aɖi ma, ɣɛɛ mainya wũ ngbɔ.","Mọsị afọọ dịsọ. Ọmanyị anya wụlẹ ngọị a ọpịasọ ọba nwa dị ịma. Ẹhẹ, m'ịnya wụ",1.0,0.5692
+867,Ma Farisise mawɛ̃ gu ma Yudase mmara matedze mawɛ̃ ɔbɔrɛ i Yerusalem maba Yesu kɔrɛ.,"Mafaresi si maa we guma Yuda se, mbra ma teje ma we obre i ye Jerusalem ma baa Yesu kure.",1.2,0.2537
+868,Miiɖe ira nɛ maasu mapia karɔ̃ iɖa ɣee mafere me i aku kawirikɔ̃.,Me de rana ma sumapi akaron ida. Eba fremen ya kuka wuri,1.0,0.36
+869,Yesu ɔla kulu teteree ana kere ne ɔma kanya ne.,Yesu ne oyi remachoro so. Minta bu onyosi eli agbon di nku jiri so. Yesu ola kuru tetere anakre ne omaka nyani. Owe go mu otutu tu ne.,2.5,1.9459
+870,"Bosɛ bobara Ɣaa karabara i siri agbãagbã iso, ɣɛɛ Bosate ɔwɛ̃ saã karabara boto bobara.","Mgbè sọ mgbè ọ bụla akara abụọ siri agba agba ịsọ, eh, gbasatọ nwe nsá akara abụọ bụtụ gbasatọ.",1.2,0.5714
+871,"Gɔ Paulo ɔsɛ ɔ̃ɔbodza kudzirikpai sɔ si ɔba ɔ̃asu ɔpia i ɔtɔ ame ne, aɣɛ lalaa ɔbɔrɛ amini wũ kɔrɔ̃ ala ɔtɔwiri ɔso.","Gau Paulo, ọsị wa bụ oji akwụ jirị kpanyụ sọsị ọba wa nsụ ọpịa yị ọtọ amene. Anyị lala ọbụrẹ amịlị nkụrụ ala ọtọ wụrị",1.0,0.5506
+872,"Yesu ɔtɔ̃me ɔpia siwarã sɔ, “Lo kutsuɛ si abɔrɛ i ɔ̃ ame.","Yesu ɔtɔme ɔpɛ asɛmpa a, lokuchue si aburayɔ",0.75,0.4146
+873,Lopɛ Ɣaa siba sɔ loibara Ɣaa itupie kubarara lotã mi kuwɛ̃ iɖo Krispo gu Gaio ɔnɔwɛ̃.,,,
+874,"Ne ɔso wũ manyii sekelea ma mba kaɖekɔ̃ i Ɣaa ikpere ame, minyɔ Yesu gɔ nɖe bo kafɔkaɖe ga itɔ̃me bosɛ boɣɛ Katɔ̃mesɛdze gu sɔrɛdzekpakpa pelepele.","Nso umanyi sekleema mwa kadeko, i ya ikwriame. M'nyo Yesu go ne bu kafo kade, ga etumegwusegwe, ka tumesaji, gu soroje",0.8846,0.4701
+875,"Ɣɛɛ kiniɔ ne, ka ɔto ɔna isoɣɔ fiɛ fɔ wũ ato awe inyɛ.","Ɛkyerɛ sɛ wone kɔto nna a, yɛfɔw ato awo yi.",0.9231,0.6
+876,"Ɣɛɛ mala kulu teteree mabua sɔ, “Pɛ wũ matãra i kudziri iso!","Ɛɛ, maakwulu teetere, maagbua sɔ. Ɛɛ, maakwulu teetere, maagbua sɔ.",0.9167,0.6304
+877,"fiɛ Hezekia ɔɣe Manase gɔ loɣe Amon, Amon ɔɣe Yosia.","Hezekiah oye Manasseh, golu Amon. Amon oye Josiah.",0.8,0.3902
+878,Kpabo gɔgbe ɔkɔ me i siwarã ame ɔkɛlɛgu fafuĩ ame ngbegɔ i maturi na.,"Babo gbe oko me isi wame, o klegu fa fu ya me, ngbego ima",0.9286,0.3636
+879,“Loasu wũ anɔ losia i Ɣaa iso.,Na asu nwa n'olu si anyi aiso. Ife o na-eje ye so? O ya meguma bi mma,2.4286,1.6364
+880,"Iiɖe gɔ miiɣe ɔnukuare ɔso loto lotsɛrɛ mi ɔko gɔgbe, ɣɛɛ ala kumɛgɔ miɣe ɔnukuare fiɛ miɣe sekelee sɔ sila kusiwɛ̃ iiɖe Itɔ̃me Bielea.","Ide gọọ mị ya onụkwụ arụsị olotu lochịrị mị ya ọkụ gọgbe. Ẹh, alakụ mị ya onụkwụ arị fịe mị ya esekele sọ sị lakụ sị nwe ide ị tọ mị bịa ịle.",1.375,0.5833
+881,"Mabusi siko, fiɛ maledza ɔko mama ibusi, ɔ̃ nɖe ngbã ɔko ne.",ma busi si ko fie ma le ja oko ma ma igbusi onye ngbo,1.1667,0.2667
+882,"Ɔba asa aweo, fiɛ ɔba ati akɔdzɛ.","Obaa saa wee o, fie oba ati akoje",1.0,0.32
+883,"Ɣɛɛ gɔ ikpawaĩ ame maturi boɖe ɔso ne, mitã bonyɔ tuee.","ɛkwanipa a ɔwɔ Mamponteng bɔdeɛ so no, me taa bɔ nyontwe",1.0,0.6512
+884,Ma gbodzoo si ngbã ipɛ i nɔme ɣɛɛ ma mawɛ̃ ɔɔkpi koko.,"ma gboju si ngba ipe enomi, mama won o pe",0.8333,0.5122
+885,Ira biara nɛ lowɛrɛ to iabɔrɛ kayi fiɛ mato maabusi ibiara nɛ mafu ara.,biara na elu uwa etu a abure ka yi. Fiam atu ma busi biara na ma fuara,1.2143,0.3333
+886,Ɣaa ɔbara ara ɔɖuɖu ɔkigu i ɔ̃ iso fiɛ ɔ̃ iɖe ɔbara wã ɔtã.,"Obra ara dodo, okiki wonsu. Fie wonyi de obra wa",0.9286,0.6744
+887,"Ɣaa ɔwegu David gbaã, ne ɔso David ɔkarɛ Ɣaa sɔ ɔtã wũ ɔri si ɔtsue iyo ɔtã Yakob Ɣaa.",Owe David gbaa. Na ya oso David okara ya oso. Otanwu orisi otu iyo otan ya kobu,0.8947,0.4545
+888,"Ɔɣere ma sɔ, “Ɔraɖui gɔ maasɔrɛ̃ ɔsi ɣɛɛ marabaradze iisi.","ɔyɛɛ maasɔɔ. Ɔraaduii kɔmaa sɔrɛɛ ɔsi, ɛɛ maarabra jeesii",0.9,0.4
+889,Matã wũ ɔri ana sɔ ɔkpɛ̃gu Ɣaa maturi si ɔɖe ma iso.,Mataho ri naso okpeguya maturi si odi ma,0.75,0.4103
+890,"Ɔmɔi ana aaɣɛ itɔ̃me i siɖe agbãagbã ame, fiɛ ɔmama ana ba siɖe agbã mama karɔ̃ iɖi sɔ ɔ̃aɖi nnɛ maɣɛ karɔ̃.","O ma ya na aay, i to me di si de agba agba me, fi e o ma ma ya na ba si de agba mama ka ru di. So wa di unde ma ya ka ru",1.5455,0.3333
+891,Bosu ɔkolo gɔ lobɔrɛ i Adramitio fiɛ ɔsɛ Asia ibuiti.,Bọsụ akụkụ ụkwụ ụgbọelu adịrị mịtiọ fịe ọsị Esia igwe,1.0,0.6977
+892,"I sigaraiyara katɔ̃ ne, ira iwɛ̃ nɛ nse lɛ ɔpo nɛ masu aɣɔɣɔɛ wa ame lobua akpa mabara ala se, fiɛ ne ame ɔkpa waĩ.","Ɛsiane ɛgrai a ɛka tone, ɛrai wei na ɛdze le opu, na masua ohwe, wa ma elobu akpa ma bra ase. Fia ne ame okpawan",0.88,0.3953
+893,fiɛ aɖe wũ Ɔbi.,pia de umbi ego atubo pia umbi,1.75,1.8182
+894,"I kudziri iso mmɔ ne, Kristo ɔfɔ siwarã lalaa gu mma nto maɖe iso i siwarã ame ɔle iso fiɛ ɔpia ma kunuarɛ i ɔgbami.","kujiri so mo ne, Kristo fo si wura lala, guamandumade so isi wura me ole iso, fi o pia makunu ara yi ogba",0.92,0.2889
+895,Paulo gu mma nsiai wũ ɔbo i ɔkolo ame marui i Pafo makɛlɛ Perge ɔmagɛ̃ gɔ mpia i Pamfilia.,Paulo gu maonziawu oboyi okuru ame ma ri ipafo makle peje omagego mbia yi pamfilia,0.7895,0.3
+896,"Mmɔ i Maria to ɔkarɛ wũ sɔ, “Nda nwagbe aawo ɔba gɔ loiɣe ɔrɛrɛ̃ kuwɛ̃?",Mọ́yì Maria to Ọkarawu sọ́.,0.8667,0.7308
+897,"Nnɛ ɔso bosu bo iti bosia i Ɣaa iso nɖe sɔ ira biara nɛ boakarɛ i ɔ̃ kuɖɔɛ kanya ne, ɔsɛ ɔkã bo atsue.",na so bosu yi ti bosia yi ayi so neso irabiara na egbua kara iwu kudo ka nyani oso ka bua,0.9167,0.3947
+898,Miledza so ɔwi biara sɔ miawo ɔbiara gɔ loakarɛ mi itɔ̃me irere i ɔriinyɔ nɛ miba iso mmuai ɔtã.,"Mele jaso owi biara, somi awo obiara go olu akara emi itomi irere. Iori inyomi ba iso umayi",0.8947,0.3026
+899,"Miɣere iyosate sɔ, ‘Ratedze sɔ te bo iyo nɛ ame i ɔ̃ gu ɔ̃ marasuãdze aaba maatu Kukpi Ɔtakuwara Bo Iyi ɔpɔrɔ̃.",Ndi na-eje ozi na-enye aka na-eme ihe ọma na-arụ ọrụ a na-akpọ ọrụ,1.0,0.7738
+900,"Yesu ɔɣere wũ sɔ, “Aĩ, ise lɛ kumɛgɔ ato aɣɛ.","Yesu ayi nwụsịrị. Anyị ịsele kụmee gọ atụ a ya. Ya masịrị ya je onye atụ megboju masịrị ya, Yesu ịsọ. Na ọ sọọ Pịlatọ ana ọ kara nwụsịrị. Fọọ ịta a",3.1,2.9688
+901,Gbaã nto loɣere mi sɔ Ɣaa to ɔ̃akpadzɛ̃ kiniɔgbe maturi kutsue i ma ɔɖuɖu iti!,"Gba nti lo re mi so, a tu akpajie, kini o gbe matriculation imo oduduwa",1.0,0.4426
+902,Ne ɔso i Ɣaa ɔtara Yesu ɔbɔrɛgu i makpise ame ɔtã bo lɛ kumɛgɔ i David ɔtsɛrɛ i ɔ̃ kuka nyɔare ame sɔ Ɣaa ɔɣɛ i Yesu iso sɔ.,"Na so ya ọtra, Yesu oburo ezigbo mmadu kwesiri ame ọta bu, lekwa mụ go ya David ochere ya onye nke anyuare ame, so ya ọe Yesu iso",0.8621,0.5957
+903,"“Mmɔ i ɔɖabo gɔgbe to ɔɣere so sɔ, ‘Wũ ɔkɔse ka ɔfɔ me karabara iso.","Mụ na ya dabigokwa okwu a ohere soso, mụ nkọsị ka ọ fọọ mụ ekarabụrụ",0.9333,0.66
+904,"Kayiiso gu kã ara wa ɔɖuɖu nsɛ akpɛ̃ maturi ɔkã ɔwi ka ɔto ɔfe, ɣɛɛ ngɔ nsɛ ɔbara Ɣaa kuɖɔɛ to ɔ̃asɛ ngbã daaro daaro.","Gaisuwa ga ƙara waɗudu, nzaƙpen ma turi ọka, ọwi ka ọtọfi. Ẹngọzọbura akudu eto asẹngba ndaru daru.",0.96,0.5111
+905,"Nnɛ loto loɣɛ nɖe sɔ, mi ndɛ̃ ɔbiara to ɔɣɛ sɔ, “Mme ne, Paulo kama losiai.","me ne, luo ni so, me don biara to eso, omeni, Paul kamalu si",0.9375,0.4815
+906,"Ira nɛ nsɛ ikpi ne, iibawo ɔse sɔ iisibakpi inya.","Ira n'eje ije i bawo soso, isi ba",0.9,0.5263
+907,Ɔ̃ mɔmɔ lokpere mi sɔ miana iɖi fiɛ miakɛlɛ ɔ̃ sigarakaɖekɔ̃ gu ikpawaĩ ame.,"mọ mọlọkpẹ mi, sọ mi anai di, ṣe mi a kịlọ nsi gaga de kọkụ wọ ipa wọ yan",1.2857,0.4746
+908,Kpabo gɔgbe atɔ̃me ɔkpɔkpɔtɔra Maria adzuni ala ɔ̃inɔ kaya gagbe karɔ̃.,Bà Bogo agbe atọmi ọkpọkpọtọ ra Maria Ajuni Alawino ka ya ga agbe karụ,1.1818,0.2982
+909,"Ɣɛɛ ikote sɔ ɔ̃aɖe ɔturi ɣɔa, ngɔ loisɛ ɔɖɔɛ atɔ̃me ikpadzɛ̃ fiɛ ɔna sikã kanɔbɛbɛ.","Ekwete so 103 a, ngolo so odowe atomu kpaje, fiona si ka ka nu",1.0,0.625
+910,"Gɔ Yesu si i aɖera kaɖekɔ̃ ne, ɔrɔ̃go ɔwɛ̃ ɔba mmɔ ku ita inɔĩbui sɔlɔsɔlɔa nɛ ame i nnɔĩ kɔrɔ̃kɔrɔ̃a ɔyi pɔpɔɔpɔ fiɛ mifɔ kuya gbaã.","Ọ̀yà sùsú, àdíràka dé kọ́ni. Ọ̀rọ̀ gọ́, ọ̀wẹ́ ọ́ ba mụ. Kú ìta inú ibú ì, sọlọ́ sọlọ́. Nẹ́ amẹ́ inú ì kụ́rọ́ kụ́rọ́, ọ́ ipọ́ pọ́ pọ́. Fẹ́ mụ́ fọ́ kú ìyá gbá.",1.3077,0.5743
+911,"Ɔbiara gɔ lotsiri ɔ̃ ɔnyii ne, turiɖoese ɔɖe, fiɛ miɣe sɔ turiɖoese na ngbã mɛ nna katui i ɔ̃ ame.","ɔbɛyɛ́ a gólò trì ónyì né. Trìdèèsé ódé, fiɛ́mì yɛ́ɛsɔ́ trìdèèsé na ngbá mɛ́ nàka trì yí wá mɛ́.",0.9,0.5676
+912,"Ɔsɛ ɔɖɔɛ bo fiɛ iki i kumɛgɔ ɔsu so ɔsɔrɛ i bo iti ne, ɔ̃ɔɖi bo ɔbɔrɛgu i bo akpi ame.","Ọsọ ụdọ ebo, fie ya ka ikumi ọgọ osuso osoro Igbo iteghete. Ọdịbo oburogu Igbo akpa ya",1.0,0.5238
+913,gɔ ɔse nɖe Nagae gɔ ɔse nɖe Mahat.,Gọọmentị na-aga ya. Gọọmentị ma ha,1.0,0.5385
+914,Ɔto ɔ̃aɖe sigara i Yakob mawa iso ɔwi ɔɖuɖu ame.,Twi adesigya yi yakop ma wayi so owi ododo,1.0,0.4865
+915,Alasɔ loto loabara ira iwɛ̃ i mi ɔwi ame.,"Aane, na sɔ a bae sɔ, me ma no se me ware wo, na ɔpene. Me nyoku ka kɔ, eto a abrabɔ yi a, fie mi a wɔ, anaasɛ ɔrotɔre abrabɔ, ɛraeɛ woyɛ me wu ya me. Gosɛ me nɔ, ɛma me re mine, me ba fɔm di. Ɔwɔ",5.3333,3.7097
+916,’ Ne ɔso siaba sianya sɔ maɔfiɛ iyo nɛmɔ ame maledza ira biara se kukaakɔ.,N'asɔɔ si abasia nyasɔɔ mɔɔ fie yio na mɔɔ ame ma leje rabiara se kuka,0.9286,0.3103
+917,"Ɣɛɛ mapaase mamɔ ɔmɔɛ̃ ɔɖabo gɔgbe mapɛ wũ, masa wũ masese nrɔɔ̃ kunu.","Maa paase maa muo mme oda bu gogwe, maa peu, maa sa wu maa sese wuru",1.2308,0.5
+918,Si ialɛgu-ɔ fiɛ aasɛ ngbã dzoroo i kayi gagbe iso.,si ale gbuo ya asen gba joro ike anyi ga agbe,1.0,0.4615
+919,"Ma ne, masɛ maɖe asɔrɔ̃, ma anɔ sɛ abe arɛtɛ i maturi sikã iso, masɛ masu akpira mayu maturi, masɔrɛ aɣɔ ana.","M'ani, m'asɛm a de asuro. M'ano se abɛɛfo areta yɛn matrilisi kan yi so, m'asɛm asu akwira ma yuu matiri. Masore ayo ana",1.0,0.3415
+920,"Fiɛ mma nsɛ mafɛ̃ ara matã Ɣaa i isɔrɛkasege iso ne, mmɔ masɛ mafɔ ma aɖera mabɔrɛgu.","Mụwa asị m afọ m adịghị mma, biko",1.0,0.8182
+921,"Alasɔ ara wa lofɔ kuɣa i maturi anɔ ne, anyanyara aɖe i Ɣaa anɔ.",Ha na-asọgharị akwụkwọ ikike ịkwọ ụgbọala ha nọrọ n'anya nyara adịghị ya.,1.0,0.8163
+922,"Kaɖesɛ̃a ne, boɔbore bobo Sidon ɔpo kanya.",Kedu ka i mere? Biko buru ebe obula i si dun up ka anyi,2.0,0.7273
+923,“Gbaã nto loɣere mi sɔ ngɔ nsɛ ɔnɔ wũ itɔ̃me fiɛ ɔfɔ ngɔ lopia me katɔ̃me ɔɖe ba ngbã mɛ loisɛ miro.,"ba ntulo ere miso, ngo nze onwite ome, fie ofor ngo rupia meka tume odi ba ngba meli semi",0.9545,0.4
+924,Masɛ maɖi ma sigaraikoto masɛ i sigaraiyara katɔ̃ maka kuka male wũ maɣɛ sɔ.,"Masa ma di masi grai koto, masi sigi ra katon. Ma ka ko ka ma lewu ma",1.2143,0.2787
+925,"Ɔbiara gɔ nsɛ ɔbara isɛɛ ne, ɔturi bɔlɔlɔa ɔɖe lɛ kumɛgɔ i Kristo se bɔlɔlɔ.","Obiara agọọzọọ bura isi enu, ọ tụrụ bọrọ ọwọ dị, lekunyegọọ ịkristọsị bọrọ ọwọ",1.0,0.6333
+926,Ito wũ ɔkã teteree sɔ ɔ̃anya mi alasɔ iɖaa wũ sɔ minɔ ɔ̃ ɔnyɛ.,"Nke a bu ihe eji mara anyi, na-aso i daa nso na onye.",1.0,0.6739
+927,Ɣɛɛ ara wagbe ibara iisɛ ibuai ɔturi ɔbɔrɛ i ara nyanyarĩa wa nsɛ akpɛ̃ wũ ɔkã ame.,Aro akpe ibra isegbe ayo turi oburo ihe ara nyanyaria waza kpe oka me.,0.9412,0.4308
+928,Ɔto ɔ̃ ifɛra nɛ ɔ̃asu ɔfɛ simɔɣo ɔɖi i araɖea ame fiɛ ɔ̃asu kamɔ ɔfere i kawu ame.,ɔtɔn ɛfɛra na ɔnsú ɔfɛsímɔ́ yɛ́ɔ. Ɔdí ɛra déamɛ́. Fiɛ́ ɔnsú kamú ɔfɛ́re kawúamɛ́.,0.9444,0.3934
+929,Loɣe Kristo ɔre ɔwɛ̃ gɔ i Bosate ɔsu ɔkɛlɛgu kuɖokpo tɛare i akɔ aweo-ana wa lofe ame.,Nke a bụkwa otu n'ime ngọ Igbo siri dị ọsịsọ kwụrụ kpọmkwem. Ihe akụa bụ ya na-awalu fa,1.0588,0.7612
+930,Ɣɛɛ iikote sɔ ala ɔkarɛ sɔ sina sekelea siɖe ɛɛbɛrɛ kuɣɔ masu masɔrɛ.,"Eyi kọnteso a lọ karisọ, si na siklasi de berekwiọ masumasorọ.",1.0,0.4286
+931,” Manigã gbaã sɔ manya wũ i ndu iso.,O mara na ọ dịghị onye bịa Filippo ọrịa ọfọ ọyị.,1.375,1.1923
+932,"Alasɔ karɔ̃ ga iso aɣɛ ne, karɔ̃ sekelea kaɖe.",M'ala so ka run ka yi so aini run se clear ka,1.3333,0.5294
+933,"Kawirikɔ̃ ne, mawe ɔle i Bosate gu ɔ̃ ɔle siare ame.",awụrụkọnụ mụwa bụ ole gbasara otu gị siri aria,1.0,0.6316
+934,"Ɔɖeakatɔ̃ ɔɣere ɔɖabo sɔ, ‘Loɣa karɔ̃ kawɛ̃, ne ɔso losɛ loanyɔ kã gɔ itã sɔ loibawo ɔba.","Rẹga tọwọ rẹ ọda bụ sọ, lụọ akarọ ka wọyi n'ọsọlụ sẹlọ anyuka, ngọyi tasọ lụọ iba bụ",1.0588,0.5909
+935,lotã David.,David,0.5,0.4444
+936,"Bo ɔnyii Filemon, ɔwi biara loto lokparama kayi ne, losɛ lonyigi-ɔ, fiɛ losɛ lopɛ wũ Ɣaa siba ɔwi biara i fɔ iti.","Bọnyị ịfelụ mụọnụ, ọ wụ ịbịara alụlụkpalụ maka ịne, lụsịlụ nyị gịọ, fịalụsịlụ pe wụ ya sị ba, ọ wụ ịbịara ịfọ ịte",1.0455,0.5287
+937,Mapie mi ndɛ̃ ɔwɛ̃ Ɣaa ndu i Paulo iyere ame?,"Ma pị mịndị ọwụrụ ya, mụ dụ ịpaụlụ ịrị amanyị. Ooo. Lọpụa sịba sọlụ ịbrahịm anyị tụpụ ịkụbara. Lọtamịkụwụrụ ịdọ krịspọ gụgayo ọnụ. N'ọsọkụwụrụ ịba wụrụ ya sọwụrụ ịrị amanyị.",3.0,3.6364
+938,Ɣɛɛ Ɣaa sɛ ɔkpadzɛ̃ bo sɔ si ialɛgu bo fiɛ boase sekelee lɛ ɔ̃.,"Ehe, o si okwa ya bu so ya na-elekwa bu ihe gbasara nke ilele",1.0,0.766
+939,"Si maturi to mabie sɔ maakpadzɛ̃gu me atɔ̃me ne, nnɛgbe loaɖi so ala kanya ne.",si ma twitwa biara so ma akwaje gumi atomene na ebola disu alaka nya,0.9333,0.3833
+940,"Ne ɔso ne, midaatã sɔ boaɖe bo Kukpi Ɔtakuwara Bo Iyi boɖoboɖo kuere gɔ ame i ikpi gu ɔtile kurabara pia.","Nna so nu, m daa taa so bu adebọkụ pụta k'owara bụ ịgịborogọ k'were ego a mee ịgị gụọ otu ịle k'warabara ra",1.0952,0.494
+941,"Gɔ ɔre ne, ɔbara kukaakɔ fiɛ ɔɣɔ̃, ɔwɛ̃ abi sitɛ, ɔwɛ̃ abi sikuɔ, fiɛ ɔwɛ̃ ana kulafa.","Gɔre ne, obrakuku a akɔ fie hɔ, ɔnwea abisite, ɔnwea abisikuɔ fie onwea na",0.9412,0.3934
+942,"Ɣɛɛ ne, iti iso i akui gu sitɔbɛ ɔɖuɖu sɛ mana aɖera wa loamɔdza ma mabɔrɛgu lɛ kumɛgɔ i Ɣaa sɛ ɔbie.","Eeh nee, iji so ya kwa igwusi tobe ruru semana adira, kwaru ama ojama magburu lekomago ya asi obi",1.0,0.4744
+943,"“Ɔɖabo ɔsɛ ɔ̃abara ngbɔ, ne ɔkpese ɔba ɔ̃aɣere ɔ̃ ɔkɔse sɔ ɔɔkpere ma ɔbɔ ɣɛɛ ne, kasɛkɔ̃ ɔkuti kase gbodzoo ana.",Ọdị abụọ sọ wa bụrụ mgbe ọ na-ekpesi ọbụ abụọ iri ọkọ sị sọ ọkụrụ ma ọbụ. Ẹni ka sekụ ọkụti ka sị gbojuwa,1.0952,0.5765
+944,"” Gɔ ɔla ɔ̃ɔnyɔ ɔri sɔ Paulo to ɔ̃abie ira ɔtã wũ ɔso ne, kɛkɛ ɔ̃ɔpia wũ ɔturi sɔ ɔba si maɖe ika.",Gọọmentị ọrịa nsogbu Paul tuwa bịa ịra ọtá ọsọ nụ. Keke ọwụ pịa ọwụ ọtụ nsogbu ọba si ma dịka.,0.9545,0.7
+945,” Makarɛ so ngbɔ ala ite sekelee sɔ Ɣaa kɔrɔ̃ sia wũ iso.,"Maka na-esoghị ngbo ala ịte sekọlịsọ, ịhe a kụrụ n'si ahụ bụ",0.9167,0.5476
+946,"Gɔ Paulo ɔnya ma ne, ɔpɛ Ɣaa siba fiɛ ɔna katere ana ɔbua.","Ọpa a lụ ọnyammani, ọpa ya asị ba, ""Fie ọna ka tetere ana ọbụ",1.0,0.4091
+947,"’ Alasɔ si kudziri yuɛ to kutsue kumɛgɔgbe ne, nda i kukorea aabara?",Aloo so si kuchri yu hai to kuchri kumega gwine. Ndehi kukuri abura,1.0,0.4528
+948,"Gɔ Paulo ɔba atɔ̃mekaɣɛkɔ̃ ne, ma Yudase ma lobɔrɛ i Yerusalem ɔba maaki malɔ wũ matsɛ nnya siare gbodzoo iɖaɛ isia wũ iso i ara wa ma mɔmɔ maɣe sɔ ana i ne ame.","Ọpọlọpọ ọba ka atọka ẹkún ni. Mayọda si ma lọ bẹri Jerusalemu ọba ama ki yio ma lọ, ma nche nwọn ya si aregboju idai isi awon iso. I ara wa ma mọmọ. Ma eso ana i ni a",0.9118,0.4435
+949,"Matã wũ ɔle ana i kalɛ biara, kaɖe biara, siɖe biara gu maturi igbã biara iso.","Matawɔle anaa ika le biara, kade biara, side biara gu ma turi igba biara",0.75,0.1667
+950,"Ɔto ɔ̃aɣe ɔbirɛrɛĩ, tã wũ iyere sɔ Yesu, alasɔ ɔ̃ loaɖi ɔ̃ maturi ɔbɔrɛgu i ma akpi ame ne.",Otu a ka e si wee dee akwụkwọ Nsọ. A na-asị na ọ dị ọtụtụ narị afọ gara aga tupu e dee ya.,1.2105,0.8507
+951,"Ɣaa kato gu karɔ̃ baradze ɣɛɛ ne, ɔ̃isɛ ɔsɛ i ayo wa i maturi awune ɔtsue ame.",Akantogukanu brae ni. Ose yi ayowayi matric awula otwi,1.0,0.5172
+952,"Ngɔ loɖi wũ ɔtã ɔɣere ma sɔ, “Ngɔ minya sɔ loya fiɛ lofiɔ̃ irɛkpo ne, ɔ̃ ɔɖe ne, mimɔɛ̃ wũ!","Ngọlọ dị unun, ọtọ ọyịrịma sọọ. Ngọọ mịnyasọ lụọ ya fịe lụ fịọ ịrẹkpọne. Ọ odịne, mịma",1.0,0.6094
+953,"Ne maɣere wũ sɔ, “Bo ne, boinɔ kuira i fɔ iso.",Ndi manye na nsogbu? Boné ebe inokuru afo,1.0,0.6562
+954,"Ne ɔso ne, masɛ maabusi isã makigu nyɛse masora wũ i ɔkala ame masɛ i Yesu katɔ̃.","na-asu na m ga-abusi isa, m ka igunye si m asoro m n'okala ami, m ga-asi na Jesus ka",1.1176,0.4516
+955,"” Ne ɔso ne, manyagalagu wũ, managu wũ sikpã.",ne oso ne ma nya agragun ma na gun si,1.0,0.3333
+956,"Gɔ tee ka miaɖe aɖera wa mba ɔle ne, mikpese mitogu inyɛ imɛmɛ.",M ga-ewetara gị adreesị a n'oge na-adịghị anya. M kwesịrị ịkpọkuo onye ịme,1.0,0.898
+957,"Gɔ Yesu ɔnya maturi gbodzoo ma nsiai wũ ne, ɔya ɔsɛ ɔ̃asɛ i kabemi iso fiɛ ɔ̃ marasuãdze ɔba maasɛ wũ i kɔrɛ.","Yesu onya amaturigojo mazi awune, oya osewase ikabe miso, fio marasu aje obamasewu ikoro",0.9565,0.3494
+958,"Mato maaɣɛ sɔ, ‘Mme nɖe wũ’ fiɛ ‘Ɔwi ɔɔɣo.","Mete m'a so, me ndewu, fiawui",1.0,0.5517
+959,Sikaniɛ aka akɔdzɛ ɔmɔɛ̃ sito i sigaraiyara katɔ̃.,I canie aka kọje ọmụ site ịsị gị na ịyara aka,1.25,0.5
+960,"Gɔ iɔkuti kɛkɛĩ fiɛ ɔ̃abo iyo mmɔ ne, ɔkpakpa gɔgbe ɔpia ɔ̃ malaa sɔ masɛ maaɣere wũ sɔ, “Tete, loito lobie sɔ loaɖa-ɔ.","Ọ bu akwụkwọ nke abụọ, Ihe Omume. Akwụkwọ a bu ọpiawụrụ ma na-asọ mase ma ayịrị nsọ. Tete na-etulu biesị na-adọ",0.9565,0.6292
+961,Ne ɔso mitere ise sɔ miaɖe iso mifɔ ikoto.,Me so me tre se so me ade so me fo,1.2222,0.4545
+962,"Ne kama ne, ɔɣere bo sɔ boba boaɣɛ itɔ̃me i fɔ katɔ̃.",ne kamane oyeribo so uba gba ya itome ifoka,0.9167,0.3684
+963,"Karabara ga i Tete ɔtã me sɔ lobara loro ne, kã nsɛ kaɖe me aɖansiɛ sɔ ɔ̃ lopia me katɔ̃me ne.","Karanwura Gbewa itete otia me nsolu Gbewa lulu ne, kanse ka de me adanse, so onlu pia me ka tumi ne.",0.8095,0.4286
+964,"-Ne Paulo ɔtsɔra ma ɔɣere sɔ, “Mitsue sɔ, itɔ̃me nɛ i Ɣaa sɔ ɔ̃asu ɔɖi ala maturi ne, maɔsu ne makɛlɛgu mma loiɖe ma Yudase.","Na Paul ochiramawu yere so? Mehwesah etomene ya so, nwasu odiara ma turi ne, ma osu na ma klegu ma lede ma Judas.",0.96,0.4022
+965,"Ɔwi gɔ mabiara wũ ne, ɔnyɔ nyanyarĩ, ɖɔbɔrɔɔ, ɣɛɛ ɔwi gɔ ame ɔ̃ata ɔbɔrɛ i makpise ame ne, ɔ̃are situri fiɛ ɔ̃awe ɔle ana.","O wụ ịgọọ mụ bịara nụ nụ. Ọ nụ onye nyere nụ doboro. Ọ wụ ịgọọ mụ nwata, ọ bụrọ ịma kwụsị amene. Wa re si tri, ife wa wụ oliana.",1.2917,0.5495
+966,"Ne ɔso gɔ lorɛ i iyo ala Bosate karabara ɔso ne, loto mi i kukpa sɔ mi nsɛgbai si mikotegu ngbã mɛ ɔso i Ɣaa ɔkpere mi.","N'oge ochie, e nwere otu nwoke na nwunye ya bi n'obodo nta dị nso n'Oshimiri Niger. Ha nwere otu nwa nwoke mara mma nke ukwuu.",1.0,0.8791
+967,Mma ɔɖuɖu nɣe Yesu gu marɔ̃go ma losiai wũ mabɔrɛ i Galilea ɔya dzoroo manyɔ ara wa lokɛlɛ i katɔ̃.,"Mmarima dɔŋ yɛ Yeso gumara kɔɔ ma Losiawu ma bɔɔ Galilia, ɔyɛ ajuro mmanyɔ arawa rokere yi ka",0.95,0.4156
+968,"Iyo biara ba ngɔ lotsue ne, ɣɛɛ gbaã ne, Ɣaa nɖe ngɔ lotsue ira biara.","Ihe a biara bu ngorochie ne, egbana ya, ya ne ngorochie irabira",0.9333,0.434
+969,"Fiɛ si ɔnya ne ne, ɔto ɔ̃akpere ɔ̃ mala gu magbamikui ɔsirakanya ɔɣere ma sɔ, ‘So ɔɣɔ me gbaã alasɔ lonya wũ sikã ibi nɛ loyu ne ɔso minagu me isoɣɔ.","Si ọsị ya onye a na-anaghị otu a akpọrọ ọmalụ a, gụma gba m kwụọ ya, ọ sịrị ka ya ọ hụrị m asị ọ. Si ya ọ ga-eme gba a, alụsị olụnya nwụọ nsị ka ibi na loyu, na ya so mị na gụma ịsị ya.",1.4516,0.5841
+970,Iikote sɔ ɔ̃asu ɔ̃ kurabarara ɔkateragu ɔmama kure.,"Ikwute sọọsọ otu abrarà, okwetera gị omamaku.",1.0,0.4634
+971,Ɔturi gɔ nsigu so loɖe fiɛ lona i kuwɛ̃ kayirinɔ.,"Otu a ka onye isi gọọmentị di, fialụ nna anyị ukwu nke anyị ri nọ.",1.5,0.8158
+972,"” Ɔɣere ma nnɛgbe ɔɖi waĩ, fiɛ manɔ wũ karɔ̃ ana.","m'aya ne? Ọ ka na-asọ? Bịa sọọ mụ ịtọ mị aka ị ga-abụrụ ịda wee sọọ. Ị ka akịrịọ nụ eh, mị ịtọ mị ya",2.5,1.6286
+973,"Manyii, iisinya sɔ loatsɛrɛ mi ɔko i ɔwi ɣee ayi ara wa loaba iso.",anyi isi ya soro achiri m ya koo o wee ihe anyi arahuru na abali,1.0714,0.549
+974,"Yohanes se lɛ ɔkaniɛ gɔ losa, fiɛ miɖɔɛ ɔwi kurukutu sɔ miawe i ɔ̃ ikpawaĩ ame ku isoɣɔ.","Johannes seree kanii golosa, fie mi dua onwi krukutu so mi awee onipa onwiame ku iso",0.9444,0.3676
+975,Ɔrɔ̃go biara si ɔbɔ so karɔ̃ si ɔsuã ara i karɔ̃ ibɔso ɔɖuɖu ame.,Orogodọ biara si ọbọ sokarọ si ọsụ ara i karọ ịbọsụ ọdụdụ.,0.6429,0.4583
+976,"Ayi kɛkɛĩ kama ne, Felike gu ɔ̃ ɔre Drusila gɔ nɖe ɔ Yudase ɔba, ne matã sɔ maɖi Paulo mabɔ fiɛ ɔɣere ma itɔ̃me i Yesu Kristo kafɔkaɖe iso ne.","Ke ka ị ga-eme na? Felike gụrụ akwụkwọ nsọ na Gọndị, ọ Yudasị ọba. Na emetansọ ma dị Paul ma bụọfịa, ọ ga-ere ma atụmị ị Jizọsị Kristọ ka afọ ka dị ịsọ",1.0333,0.5648
+977,"Ne Bosate ɔkɛlɛ i katɔ̃ ɔɣere ma sɔ, “Minɔ nnɛ i atɔ̃meɣɛdze lalaa gɔgbe to ɔɣɛ.","Mino, unaiye tumaiye jelala gogbetuo",1.0,0.7167
+978,Kumɛgɔ Mato Masɔrɛ Ɣaa I Ɔ̃ Sigarakaɖekɔ̃.,ko itinari,1.0,0.8182
+979,Alasɔ idududu kato ife iro fiɛ ikpawaĩ mɔmɔ ka ito ifiɛ koko.,"A laso idududu ka ete fe ero, fe ikpa nwe imomo ka ete fie ko",1.0833,0.3673
+980,Ne lonya Ɣaa kpabo ɔwɛ̃ ɔso ɔbɔrɛ i kato ɔto ɔba ɔto iwo gudua wodoroa sibɔi gu kunyiborei siare i kɔrɔ̃.,"Onye a kpa bu onye o suo ogbe ikato, otoba, oto iwegodu awoduru asigbo yi. Kuku nyi bu oresi aro",1.0,0.439
+981,"Mato maapɛ mi i ma Yudase kasarɛkɔ̃ ala wũ ɔso, mito miaya i matɔ̃ɖedze gu magara anɔ miɣere ma wũ iso itɔ̃me, si iɖe ikparĩ itã ma.",Mete me ape me yi ma Judah se kasarekɔ ala wuo nso. Mete me aye yi ma toreje guma gra nɔ. Me ere ma wuo iso itome. Si ide ikpare itama,1.0,0.31
+982,"Alasɔ si fɔ sosina kakɔi kawɛ̃ ɔkpɛti ne, ilɛ iɖo sɔ Ɣaa asu fɔ kuturidziri ɔɖuɖu ɔpia i itɔkpe nɛ loisɛ inyi ame.","A laso si fọsọ si n'aka kọ ẹka nwe, ọkpetinẹ, ilẹ idọsọ a sụfọ kuturu jiri ọdudu, ọpia itọkwe n'esẹ inyi",0.9565,0.4157
+983,Na isoɣɔ gbaã alasɔ afɔ kanya ga i Ɣaa kpabo ɔba ɔ̃aɣere-ɔ aɖe sɔ iaba ɔso.,"na eso ya gba a, ala so afo ka ya ga ya akpa bu obawon ayiri adi so ya ba",1.125,0.4386
+984,"Koko ɔwi ne, Ɣaa Kanyaɖidze Yesaya ɔtsɛrɛ ɔsɛ sɔ Ɣaa ɔɣɛ i ɔ̃ Ɔbi iso sɔ.",Koko owu ne ya ka nya di je Isaiah ochire ose so ya o i o obi iso,0.9375,0.5091
+985,"Si ɔrere ɔnina ne ne, Ɣaa to ɔ̃awɔra ɔnyiiɔ gɔmɔ ɔ̃ wũ.",Ndi na-abara kara bara le yoo chu se se awi. Lo pia yoo karua me gu ata. Omama owu obawa chu,1.75,1.425
+986,"Kato makpabo ɔso ne, ikote sɔ ɔrɔ̃go aasu ɖuku ɔnyi iti si ɔte sɔ ɔpia i ɔ̃ ɔrã kayirinɔ.","Kàtó ma kpàbó sọ́ni, ikọ̀ tẹ́sọ́run go a súdùkọ̀ ọyìtì si ọtẹ́sọ́ ọ̀pìyà yọ̀ ọ̀ràkà ìrìnọ̀.",0.9474,0.5821
+987,Kuwɛ̃ iiwo isɔrɛyo ame ɔbo gbɔgbɔɔgbɔ inyɛwe aka akɔdzɛ wa i Ɣaa makpabo ikɔdzɛ mamɔ ɔbɔ ɔfe aro.,"Kụọ ya ịwụ ịsọrọ ịwa ya ọgbọ gbagbọọ gba, inye ya aka kọjee wa ya ma kpa bụ ịkọjee ma mọ ọbọ ofii arụ.",1.2222,0.5641
+988,"Ɣaa kpabo ɔla kulu teteree ɔɣɛ sɔ, “Minigã Ɣaa si misu kuwarɛ mitã wũ, alasɔ ɔwi ɔɔɣo sɔ ɔ̃aɣɛgu kayiiso maturi atɔ̃me.","Akpa bu ola kulu tetere o eso. Mini ga ya si ni sukuwara m ite, ala so wi owo so ohegu ka anyi so matiri ato.",1.0909,0.3696
+989,"Gɔ Yesu ɔbɔrɛ i Yordan ɔwore ame ne, Siwarã Bielea ɔyi i ɔ̃ ame, ne si kɔ wũ sikɛlɛgu fafuĩ ame ne.","Goya su obere iyọ da, o were amenị, sụgharịrị ya ọyị ịhụ amị, na-esikwa ya sị kele gị ụfụ afụ ị amenị.",1.0,0.5405
+990,"Ɣɛɛ gɔ matsue ne, makpese masɛ maaɣere matsɔra.","ɛkɔm akyɛ ne, ma kɔse ma sɛm a ɛrekyerɛ",1.125,0.4737
+991,Maturi gbodzoo siai wũ alasɔ kumɛgɔ ɔto ɔsa sinyɛ ɔbara ma ɣii.,Matriculation ceremony a laso kumiogo otọ sasinye ọbụla mayi.,1.0,0.5686
+992,Ne ɔso misu so mipia i Ɣaa kɔrɔ̃ teterea kayirinɔ i karɔ̃ ibɔso ame si ɔ̃akɔlɛ mi kato i ɔ̃ ɔwi sɛɛ iso.,"N'sọ mị, sọ mị pịa ịyá akụrọ tẹtịrị a ka ịrị nọ. Hị karị ịgbọsụ a mị, sị wa kọlị mị ka tọ, ịyọ wị sẹịsị",1.1304,0.5584
+993,Maturi gbodzoo ɔba ɔ̃ kɔrɛ fiɛ ɔtsɛ ma Itɔ̃me Bielea ite.,"Matri igbo jo oba okro e, fie oche ma itomebiele a ite",0.9091,0.3409
+994,"Gɔ mabo ne, mawɛ̃ ɔɣere Yesu sɔ Simon masɔrɔ̃go rɛ ɔto ɔnyɛ ɔbe ɔtɔ.",Gọọmentị ma gbasara nke ọrụ otu onye ọbụla.,1.0,0.7843
+995,Ɔle ame bosɛ i ndu kuruɛ kuruɛ bosɛ boabo kakɔi ga marɔ “Sikolo Katuikɔ̃ Sɛɛ” gɔ loidzorogu ɔmagɛ̃ gɔ marɔ Lasea.,"Na ya mere m bu sị ịndụ kwuru e kwuru, gbasaa gbaa boo ka kwa ịga mara sịkọlụ ka otu ịkọ nsogbu. Ka ọ lee jịrọ gị ọma gị gọọ mmaụrọ",1.4762,0.6364
+996,"Fiɛ si ita nɛmɔ ɔkpase iwuĩ ɔrere ne, ito iakɔtɛ wũ ɖɛkpɛrɛɛ.","Kyerɛ sɛ ɛdan mu akpasii wuiɛ orirene, ɛtoɛ akɔtɛn dɛkɛre.",1.0,0.4792
+997,"Iiɖe maturi inɔgba ame i nnɛgbe ɔbɔrɛ, ɣɛɛ Ɣaa nsɛ ɔnyɔ bo nnya sɔ boabusi bo situ boɣere mi ɔnukuare.",Ihe mere m ji nọgide na-agụ akwụkwọ bụ na ọ bụ ya bụ naanị ụzọ isi tugharia m,1.0,0.7284
+998,Kado imama gu kado iɖu gu silɔ agbãagbã to abɔrɛ i sigaraiyara ame.,"Kado yi mama, gu kado idu gu si lo gbangban ta buru isi",0.7692,0.4259
+999,"Bo ma ɔɖuɖu i kuira iifu i adzuni iso ne, bosɛ boɖi Bosate ikpawaĩ bote kukaakɔ.",Bụọ mụrụ dị n'ikwi ra ịfụ ajụ n'isọ nị. Bụ sọbụ dị ịbọsate ịkwawọ ịgbọ tekụka,1.0,0.5714
