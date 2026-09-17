@@ -93,6 +93,32 @@ benchmarks:
       valid: 999
       avg_seconds_per_sample: 0.48
   source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: gur
+  wer: 1.0344
+  cer: 0.5926
+  per_category:
+    bible:
+      wer: 1.015
+      cer: 0.6569
+      samples: 1000
+      valid: 947
+      avg_seconds_per_sample: 0.28
+      failures:
+        TypeError: 212
+    jw:
+      wer: 1.0537
+      cer: 0.5283
+      samples: 1000
+      valid: 998
+      avg_seconds_per_sample: 0.22
+      failures:
+        TypeError: 8
+  source: evaluated
 - model: google/gemini-3.6-flash
   model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.6-flash
   owner: google
