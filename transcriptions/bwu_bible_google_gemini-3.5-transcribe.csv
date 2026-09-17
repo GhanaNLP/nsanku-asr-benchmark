@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Fi dan pai nisa a tiri ku fi teeri gigelika ate fi kan ŋman nye dila.,"à Truku, Fitiere, Galgalka et",1.0,0.717
+1,"Dila nyiŋ Wen a dan bo ba buusa ayen ba lo ya, ba an ŋman baga a weeni wari ale wa.",Dele Nyan na wen Adamu Baba Musa ayen ba loya ba man bara awen ware ala,0.8571,0.3279
+2,"Yɔgyɔgla de piilim tuini, Naawen a bo le fu.","A yorade, pilintwini nawe abole",1.0,0.3824
+3,"Ba le tɔgri ka, a tiak ziimu gela a sa Aaron ale wa nidoabilisaŋa juga tueŋa kie ale ba juga nandub doataŋa ale ba nandub doataŋa.","Aletor ka, atiazimugala, asaaro, alonu dobilisina, jugotuonake, alaba juga, na ndubu doatana",0.9231,0.3786
+4,Ti kan maa nya gebiga yaase kɔmmoa.,Tekamanya gebga yasee,1.0,0.3929
+5,"Waai a dan poom a yaali ayen wa nak nanpaga ale wa, wa kan baga a tulisi wa bunyi tusidi po.",wa adam pum ayale anyi wa nna nna paka aluwa wakan baga atulu suwa bunyi tusi,0.8571,0.3
+6,Filistia demma yaa wom ayen Izirali demma a tu chaab Mizpa.,"Felista Dema, ya wom ayen Israel Dema atukya",0.8182,0.375
+7,"Num ŋan nyuntisaŋa lɔklɔk ase zom la a nyo nɔiyeŋka dakanni ale Tuka Viuku niŋka, juijui ate mi ale tu fu la.",à ce jour-là,1.0,0.9535
+8,"Mi ale wi la, fi tulisi mu kama, fi basi kama ate m tua ale ta suinum pagrik.",me allume la télé sur M6,0.9444,0.7895
+9,"Ti waba tii meena ale ŋmarisi doa ale ŋa sinsaŋŋa meena la, Kirisitawa ko ŋa meena a basi kama a pai ŋa kpi maŋ Kirisitawa kummu jabarimu nyiŋ.",Christa,1.0,0.9561
+10,"Deevid nuruma ale ga paari du la, ba yaa weeni Nabal Deevid ale weeni ba diila alege a limisi.",David Nuru ma ale ga pare dula. Baya wii na ba David ale wii na ba diira ale ga lemi si.,0.9474,0.2297
+11,"Ase Naawen biisiteerɔ a dan bo ni po, m te pai m dek sak wa kama, m le biisi ale wa gɔdaasima po.","A si na m bishitiri, a da m bu nipo. Nti payi m deksawa kama. Le bisi alewa gwadasimapu.",0.8696,0.3056
+12,"Ni a nye wieŋa de meena dii nyiŋla, nama dek seba ku ale ka dii yɔgyɔgla de la kama.",Naa nyu wiya adim ye na di nyi la na madet sabuku alka di yoyor la dela ka,1.0,0.2969
+13,"Ti tiirimu dan ka ti chim Wen biisiteerɔba a weeni wa tuntomika, ti a weeni a magsi chaab ale ti siaka ale soa diila.",,,
+14,Betel ale Ai tɛŋsaŋa demma a jam ka kobsiye ale pisiye ale bata.,"Bettel Allee 1, Dinslaken",1.0,0.7843
+15,Ni ale magsi ni ŋɔbi lammu diila ale nna.,"Né à la Marseille,",1.0,0.7188
+16,Kpagni Nebuzaradan a jam pai ba meena kama a ta ba jam Babilon naawa jigi Aribla.,"Tani da bu zaranda, ajam paba miina kama, ataba jamba bulon nawa jigi arbla.",0.875,0.2
+17,Ba jam tu chaab ka Sokoyo ale bo Juda po la.,bayan tichawka sukuyu alabo juda,0.9091,0.3939
+18,Ba jam dɛ tigini Naawen ti Wenni niŋ ka daa ŋayopɔi a ŋman pa daa ŋayopɔi a vi du ate ŋa meena a chim daa pi ale ŋanaansi.,bajan de,1.0,0.9255
+19,Wa jam ta ka piisa tusa pi ale ŋanaansi ale laalaakomiba tusa ŋayuebi ale lalik kpaansa beŋsa tusidi ale bonsa tusidi.,A jantaka pisa tu sa pi alanga nansi. Ale lala komiba tu sa na yubi. Ale lala pansa bensa tu sa di ale bonsa tu sa di.,1.0952,0.1856
+20,"Ba gela a jam a weeni ayen, <<Tama ale ti nidoabilisaŋa ale ti liema a piisi kama, ku a fɛ ayen ti ta ŋanbie a dɛ ate ti vua.",bagalai jama weni ayem tama aletinu dubul singa aletin lima apisikama kwafe ayenta tanga biya de atetu,0.9655,0.2826
+21,Wa jam pai ka ligmɔniŋ a kuri mɛ ŋanta ase ŋanvuta baye la nanlikka noawaaŋa.,"O jampa ka le mwanin, a kuri me, nganta a si nga vuta, bayela, nanleka no wa",1.0,0.3387
+22,"Yeezu yaa weeni ba ayen, <<Mi Kowa a basi kama ate mi tom tuimaŋsa nna yegayega ate nama nya.",Yesu ayayen ba ayen,0.8947,0.8028
+23,"Ba chak kama ase wusum doata ale chak diila, a ta kɔrisa, ate waai meena a yaali wa vaanchoa pok.",na chaka ma asu usum data ale cha dila ata kwarsa atua mina hayaluwa,0.95,0.4
+24,Ti wanyi mɛ la abe kan kpi ka tidek nyiŋŋa.,አቤካን ፒ,1.0,1.0
+25,Ti lalik kpaansaŋa ale dari ŋandobra.,कलालपांस्या अलडारे नांदोबा,1.0,1.0
+26,Keenan demma ale Perizzi demma mɛ jam maa bo ka tɛŋ kala dila po.,"Ke na ndem ma, ali peris di dem ma me ja ma bu ka ten kala di la",1.1429,0.2353
+27,Alege Yeezu an jam tulisi ba a yaa le ge a koori tɛŋ a pai wa nandub a ŋmarisi tɛŋ.,అలాగే యేసు అంజం అతుల్సిబా అయాలెగ అకోరెతెన్ అపావునన్ దుప్ అగ్మర్తెన్,1.0,1.0
+28,Moosis yaa ta tacheksaŋa meena a nyini Naawen niŋ a jam te Izirali demma meena.,"Moses, ya atata che sị na m ga-eme na anyị na-awụnnị ajam taa Israel demam ya",1.0667,0.375
+29,Nye ligmɔniŋ baŋsa siye a maŋ nsila siyema ale bo suinum jaligimmu gugottaŋa po a moata garuk genni la.,Nyelleng ma Bangsa Siya amang sila siyama alubo sunum jallengmu gogwata ngapo amata gargenel,1.0,0.3571
+30,"Diipo meena Moosis a dan cheŋ jo viuku po, nuruma meena nyiem jam yiti za kama ba viitaŋa nansuiŋtaŋa noa a nya Moosis ate wa ga jo viuku po.",Jepu mena Moses adanken jo vikupu. Nurma mena nyem jam yiti. Zakama ba vitina na shintina nwa. Anya Moses atoga jo vikupu.,0.8276,0.2793
+31,"Abram le jam bo juijui la a moata ka Mamre, Amori denɔwa tiib kpieŋsaŋa.",Abraham le jambo jujila amataka mamre amori denuwa chi kwe nsanga,0.8571,0.2456
+32,"Dila nyiŋ, ku a fɛ kama ayen ni pai jiirim ale zula ale zaab m dek ale ŋmam ŋmam nyeka ale chichiiba ase gatta la a jo.",de laignan kwafe kama ayen ne pajirim,0.9259,0.7692
+33,Ni seba mi ale a cheŋ juijui la kama ale suik kuui ale a cheŋ ku jigini la.,,,
+34,Ni teeri dii ate m weeni ni ayen tomteerɔ an baga a zuak a gaam wa nyɔnɔ la.,"Icheere ji, atụọ ya enine, ayanụ yọma, a mbara azụrụ ya ga amụ, ọ nwụọla.",1.0,0.5517
+35,"Alege tama ale ti Naawenni ale ka bunyi la, m ta siaka kama nalimnyiini ayen ni popolaŋa ale mi popolaŋa ka bunyi.","A le ge tama, a le tu nyu wa, a le ka bunyila, ntasi a ka kama na le nyi ni, a ye nupo polanga, a le mopo polanga ka bunyila.",1.2273,0.2198
+36,"Fi nak ba, alege ba zɛ ayen ba nyiŋsa a dom.","Inna gba, alge baze, anba nyin sun adon",1.0,0.3438
+37,Ate wa jam yaali siik daata a pai ligmɔniŋ a taari ti zuk.,"A to ja yale si data, a palu mana a tare to",0.8462,0.4667
+38,Ni be da nina kpaam mɛ m jigi a nyo ni ninaŋa po ate ni a nya.,"N'ebe a na-anakpa mejiri anyi onye nile na-akpo, a na m ayo",0.9412,0.4889
+39,"Mi yaa wom ale wa a pɛ waai ale boro taam wuu la nyiŋ, a weeni ayen, <<Ku ale paari ka bena ŋata ale geli.",ya wu alwa pe wa aluboro ta wula nyin awu ene ayen kule pare ka bena ngata aligeli,0.84,0.2987
+40,"<<A te ŋaaŋbiik sii ale cheen la, juka tiirimu de ale kasim a nye kama Tuka Viuku nansuiŋ Naawen niŋ.","A cɛ an b'i si, a li kɛnɛ, jukatiilu mɔde, a le ka sim, a nyɛ ka ma, tuka, viku, nansun, na wɛnɛn.",1.0,0.3462
+41,"Alege ku goanti a nye ase ka ba ale ŋmarisi Wen Gbaŋka po dii ayen, <<Waai ale a va sinsaŋŋa ale weeni diila, ale vuuk kama ŋa nyiŋ.",Why?,1.0,0.98
+42,Arama ale Geba tɛŋsaŋa demma a gum chaab a jam ka kobsiyuebi ale pisiye ale wanyi.,Harama ale giba tensa dema agum chap ajanka kopsi yebi alipisie alowenye,0.9375,0.2576
+43,Nama dek seba ti ale jam sak ni diila kama.,Namadé sabatélé jam sarni,0.9,0.4848
+44,"Alege fi le nya nidoabili dii ale wa chim nidoa waai ale ta suiyɔgni ale vuusum la, ate mi ale te wa vuusum a nyini wa dachaasaŋa jigi kauk meena.",alụgị fị alị ya na WD alụọcha mụ na dọwaị alụtasịrị ya na alụbụsị mụ la atụ mụ alụtawa bụsị mụ enyị mụ dacha asị na ejigị karụ mụ ịna,1.0,0.5304
+45,"Ba a weeni ayen, <Suiyɔgni a boro, suiyɔgni a boro,> alege suiyɔgni a ka.","Mavie ni ayin, siyonne aburu, siyonne aburu, alige siyonne",1.0,0.463
+46,Ti dan nye nna meena ku a peenti Wen ti Varibasidɔwa sui kama.,Keda nyɛ na miɛ na kwa piɛntɛ na wɛi te varba sro su ka,1.0769,0.5102
+47,"> Fi sui a dan peenti ale mu, sak mu fi suitaŋa ate dila ale basi ate m seba fu abe m diem gum du a nya ŋmanteka a nyini fi jigi.","Ese adan pịente alụmụ, sọ mụ fụsị tị nga, atị dela alụ basị, atị nsọ fụ, abị ndịe ngụndụ anya ngwa ntị ka anyị nụ fị jịgị.",1.0,0.4526
+48,"Ni dan nye dila, wa le vari ni Filistia demma jigi basi.",ነዳይ ንእድላ ወልቫርነ ፍሊስታ ደማ ጅግዪ ባሰ,1.0,1.0
+49,"A nyini Koyat ŋaaŋbisaŋa po, jam ka Uriel ale niŋdeerɔ ale suata kook ale pisiye.",anyị na-akwụ ụgwọ maka ọrụ anyị na-arụ kwa ụbọchị,1.0,0.7538
+50,Vuuta titawa ka tintain bibituk ale tintain paasa ale tintain ŋaai ale a nye ase busumbooŋ la.,"Voter à Tawa, carte en main, bébé tout à l'état de grâce à l'état de gai à l'année à ce beau sourire",1.2941,0.6494
+51,"Wa weeni ayen, <<Ni cheŋ a ga dɛ nidek ale a yaali ŋandiin tii ale damasik kaai la abe ni tom gela a te baai ale kan ta jaab la.",O wene ayen neken agade nede alayale ngandinti. Ale damasa kala abene tomgela ate baye ale kanta ja,0.9,0.3053
+52,"Deevid yaa jam bo tɛŋka ate ba sɛ parisa a gilim la po, dila nyiŋ ka yuei jam le Deevid tɛŋ.",David a jambo. Tenka atobase parsa a gelm lapo. Bilanyin kawe janle David tenka,0.9524,0.3286
+53,Wa jam pai ka siik daata a nye jazaanimu.,O jam pakasiik data anye jasanu,0.8889,0.25
+54,Ba zɛri nɔiyeŋka ate ba nye ale Wen la kama.,na yanka. A tabanye aluwan,1.0,0.5588
+55,"Wabaata nyama ale maa pulim nuruma po la meena a za ba kpi kama kpaliŋ po, ale baai mɛ ale weeni ayen kaasuŋ a kan paari ba la mɛ la meena.","wa ba tenya ma, ale ma peli m, nori ma pola miena, azaba kpe kama, kpalimpo, ale ba me, ale wi ne ayen kasu m, akam pari bala me, la miena",0.9032,0.1963
+56,"Wen a nya ayen, ku la a nya la a nala, ate wa gaari nyaka legini po.","nwe anya, ayen kula nyala anara, ato gaari nyaka leenu",0.8235,0.2449
+57,A te waai ale dɛ wa nuruma niŋ a ta ba va gɔnni po la.,"Atawa holiday onurmanin, atababa gwanu",1.0,0.4615
+58,"A ta va Weleŋsa Chiika a mooli ale pagrim ayen wa ka Wen Nidoabili wa le yiti kum po la nyiŋ, wala ale Yeezu Kirisita ti Nyɔnɔwa.",David Ngambi,1.0,0.9307
+59,Ka wana ale ta wari ale mi ayen ku a fɛ ayen m tuni?,Kowona alita ware ale mi ayin ku afe ayin,0.7857,0.3158
+60,Ba le daani ni dii nyiŋla ba zɛ waai ale tom mi la.,Baledan ne di nyi la baze wa aloto,1.0,0.3684
+61,"Waai mɛ abe ale a de jenvaata nyiini alege kan de jaab meena la, ku an magsi ayen wa mɛ biisi nwala jigi ase wa a bo wa ka buusa la.",waa me abilaade jenfaata nyiini alikaandi jaa miinala kwaamarsi ayinwa mi biisi nwala jiri asi waabo waka,0.9032,0.28
+62,Varibasika a nyini ka Naawen jigi.,А не на,1.0,1.0
+63,"Ku a fɛ ayen ni teeri ayen, nama meena baai ale chim bunyi ale Yeezu Kirisita la, ni ka Wen nidoabilisaŋa ni ale ta siaka la nyiŋ.",Kwafe anyi n'etiti anyi na mme mme na baanyi alichu mbu yi na Jesu Kristi ala na ka na awu mbisa na leta si akala nyi.,0.963,0.4257
+64,"Pak Wen wa weleŋsa boka jigini po, pak wa wa wenŋmazuk tanjaŋini po.","Power, power",1.0,0.8704
+65,Wom fi tomteerɔwa ale a saalim la ale fi nuruma Izirali ase ba niŋ tuk dela nyiŋ a puusi.,Wom futum tirowa ala salem la ale funurma Israel ase banin tuk dalin yin apushi.,0.7368,0.2857
+66,"Mi a kan baga a ta nuruma de meena m dega, wanni a ŋmasi pagra a gaam mu kama.",me akam bara atandurma demyena ndera wanni anmase bagara aga amukama,0.9474,0.2241
+67,Ba an diem miŋ suik kuui ale a nye ate nuruba a chim wayɔrisima nyam m jigi la.,Bịa ndị mmụọ nsọ kwụrụ ala nye atụrụ nụba achịwa ya bụ arụsị manya m njigide.,0.9444,0.4754
+68,"Dai yeŋ Jonatan yaa weeni waai ale a yik wa kpaliŋ kɔlimaŋa la ayen, <<Te ti gaam taam Filistia tugurik tɔŋdɔma ale za juijui limisi a nya la.",Jonathan,1.0,0.9369
+69,"Vuuk kuui ale dɛ niŋka la, ku a magsi ka tintain munta ale tintain ŋaai ale a nye ase dubuulim la ale tintain paata.",vukoi ala denunla kwa masika tintan munta ala tintan ngai ala nye asu dubulumla ala tintan pata,0.9167,0.2637
+70,Ba jam ta ka nuru baai ate Naab Deevid ale wa nuruma a jam lueri ayen ba a maari Livaima kobsiye ale pisiye wa la a jam.,"Aja nta ka unu ba ate na Abidjan, ale unu ma? Aja lụiri anyị ba? A maara ịlịba ma kọbsi ya ale pịsi ya wala? Aja",0.8519,0.3441
+71,Ba kan pai ba a nyo chivie po ase ba nin ta chaab ale ba dachaasaŋa nansuiŋku nɔi ya.,Bakampaba anyi chiri ya ipo asuba n'enta cha alubada cha asaa na nsị ụbọchị iri na abụọ.,1.0,0.4091
+72,Diila m basi kama ate fi chim tɛŋsa yega ko.,Dila mbaskama atefi chimtensa,1.0,0.2941
+73,"Ba giŋgeluŋtaŋa ka pein yaani, ti a biisi ka venta.",Bagi ngelinting kaping yaani.,0.9,0.575
+74,"Ase Yadadezer nuruma ale ga nya ale Izirali demma a nak yik ba la, ba yaa nye nɔiyeŋ ale Deevid a siak te wa.","Asi ya dedeaza, nuru ma aliganya, aliza dema anarigbala. Baye nye noyen alidewit. Asi ato",0.9583,0.3333
+75,"<<Dila wom mi, nama baai ale a miŋ la.",De la wome na ma baye ale amme,1.0,0.3462
+76,"Ase Deevid ale ga wom kude la, wa yaa tigsi Izirali meena a lo Jodan Benni a jueli, wa jam ga moata ba kama, a zaani wa kpaliŋ zaaniŋa a tuk ba nyiŋ.","Asi David, a ga-awu m kodala. Wa ya tukwasa Izraela na alo Jodani be ne ajụele. Wa ja nga mmata ba kama a zaa ne, wa kpalu zaa ne a tukwaba anyi",0.8485,0.3363
+77,Naawen ale nye dii ale nala la wa nimbie po.,Naa wɛɛ alɛ nyɛ di alɛ nalala wɛɛ nɛɛ mbɛ,1.0,0.4118
+78,Gedor denɔwa Jeroyam nidoabilisaŋa Joela ale Zebadia mɛ jam boro kama.,Kedu afa Chineke? Kero ya na Baibụl si na Julaị na Elizabetị aya mee ajụjụ nke,1.4545,0.7288
+79,"Ba le ta dakanni a jam Izirali tigsika jigini la, Yofni ale Fineyas a maa va jam.",Bale tada kani ajam Israel tuska jikila yofeni ale finyas ama avajam.,0.9412,0.2063
+80,Viok yaa nyini yeniŋ a gala geŋ a fuk nna balibali ate ba yaa poli ayen nya kude ale deri basi kama ate ba nye ba ale poom a yaali dii ayen ba cheŋ la.,,,
+81,Be ka ŋaaŋbiik kala ate Wen nye pumpuulimaŋa a te la.,"Békala, békala, atenna wé nyé poun poul m'nga atel",1.0,0.4762
+82,"Baai ale a nye ti la ale nye ase ka bɔgtaŋa la, ale baai meena ale ta sebchakka ale ti la.",ba alanyitila alanye asika bortala albamiena alta sebchaka altila,1.0,0.25
+83,Deevid yaa jam tigsi Izirali demma meena Jerusalem po ayen wa ta Naawen nɔiyeŋka dakanni a jam juijui ate wa gomsi a magsi di la po.,"David ya ajam, tupu Israel demma mee na Jerusalem pu ayen, wata na ween na yen kada kani ajam jwi jwi atọọ gwom si. Amma si",0.9231,0.2925
+84,"Waai karo a nye wamaŋŋa, wanyi mɛ la a ka.",Waa karo anyo wamang wanyimila,0.9,0.2903
+85,"Legi a karo, birim jigi a karo ate nuru baata a suk.",akaro birimjigi akaro ate nurubata,0.9167,0.2308
+86,Tugurik tɔŋdɔba kobsiyuebi ale jam bo ale wa.,"Tuguru tondaba, kopsi yube, ale jambo ale",0.875,0.2703
+87,Dii ale di sak ayen mi ale a tom fu la ale nna.,Dès l'aube du sac à aimer à la tombée de la,0.9231,0.6765
+88,Pai tana ŋaye ate ŋa yik ŋa a tanla garuk genni ŋmankpalaŋa zuk ase tintain ŋaai ale ŋa chim teerika a te Izirali nidoabilisaŋa.,"A ta na nga ya, a ta nga yi nga, a ta nla, gar geni, nwa nkpa nga zuk, a se te ntan nga ye, a le nga chim tiye ka, a te Izra nu do blis nga",1.375,0.3558
+89,Wa jam basi ate suŋsuŋka chimmu a vi zaŋŋa zuk a nyini ka kpeglimka a ga paari kpegli kinkala.,"Ojam base, atusunsunka kimu, avizanga zuk, anyinika, pelenka, agapare, pelenkankara.",0.9474,0.3067
+90,"Baai ale ta siaka ale Yeezu la, a yaa jam waaŋ chaab Judia ale Samaria tɛŋsaŋa meena po.",बाय अलत्तासियाका अलियेसुला आया जंवानचा जुदिया अलिसमेरिया तेनसंगामियाना,1.0,1.0
+91,Ba pai ka daa ŋata a cheŋ a paari ka.,bapakka da ngata. Aci ngapar,1.0,0.3704
+92,"Ase nuru ale jam weeni Deevid nuruma wie la, wa yaa tom nuruba ayen ba tu ba, ba jam nyo ba ka chivie po nna yegayega.","Asinnorɛ alejan wɛɛ na David, nnoro ma wɛɛla, waya to nnoro ba, ayɛnba tuba, bajanyo baka, chiviepo, nna yiyiri.",0.9231,0.3
+93,Yasabia ale Jesaiya ale nyini Merari buuni po la ale wa suataŋa ale wa suataŋa bisaŋa a jam ka nuruba pisiye.,"Yassah Biah, Ali, Jessaya, Ali Nyini, Mirari, Bulu Pula, Ali Wosatenga, Ali Wosatenga, Bisinga, Ajamka, Nurba, Pisi.",1.0,0.3409
+94,Ku be ka Wen tomtomiŋ maŋka de nyiŋ ale soa ate mi Pɔɔl yaa chim tomteerɔ.,"Kwakana we, tuntum nka di nyin alusa atumpo ya chim tuntiror.",0.9375,0.5172
+95,"Filistia demma a jam ta ka ganduok, wa yuei jam le Goliat a nyini Gat.","Fleshy adama, ajantaka, gandju, owaye, jale, goliath, anyi ni god.",1.0,0.2778
+96,"Moosis ale wom nna la, wa yaa suk wa nimbidiaka dii nyiŋla wa jam a chali ka yɔgsum ale wa le nya Wen la.",Moses,1.0,0.9375
+97,<<Cheŋ Niineve tɛŋ kpieŋka a weeni ba wa dii ate m pai te fu ayen fi weeni ba la.,"Chị Nenebetenka, a wụ e neba wọ dị a tẹmpa a tẹfụ a yị fụ wụ e neba",1.0,0.45
+98,Ba jam gu ba kobaŋa ka Jabes tiib kpiemu kiri ale bobi nɔi daa ŋayopɔi.,ka jabes tikwiyemu kiri alebobe nno da anyo,0.8,0.4821
+99,">> Ase Izirali tigsuŋku meena ale diem jam za dula la, naawa yaa viriŋ niak ba.",Na wa ya,1.0,0.9
+100,"Wa yaa weeni wa chorɔwa Abram ayen, <<Naawen a kasi mu kama ale bisa biam.",Baya wene wacoro wa Abraham ayin na wen akasmuka ma albisa biya.,0.9333,0.25
+101,Wa tuesi wa suoku nidoabinni Lɔti ale wa ŋantaŋa meena ale nipooma ale nuru yontaŋa.,wote se wose ko no dwabene lote aloo nanta miina alene poma alenu yanta,1.0,0.4203
+102,Piilim ka danni ni nye tuilum tigsuŋ ale daa ŋayopɔiwa danni mɛ ni ŋman nye tuilum tigsuŋ.,Pielęgnacja dni niech tytułem tegorocznego wydarzenia będzie na miarę tytułem,1.0,0.7397
+103,Ba yaa bek Izirali demma a tuesi kpana ale ligmɔniŋ ale gatta.,"Bịa bịrịzị radam atụrụ sụkpana, alịrụ mmanụ alịgata.",1.0,0.5
+104,"Ester an jam basi ate ba seba wa nuruma yaase wa buuni, dii nyiŋla, Mordekai ale weeni wa ayen wa kan basi ate ba seba.",a sa an jam basi ataba seba uwanurma ya se wubuni di nyila morikaya alu wenuwa ayin waka basi ataba seba,0.8,0.2391
+105,"Ate wa yaa niak Abram ayen, <<Wen Dii Ale Bo Wenŋmazuk La a niak Abram, wa ka waai ale nye wenzuk ale tɛŋ.","A to wa ya ni a Abraham, a yen wun di alubu won ma zula a ni a Abraham. O ka wa ya a linye wun zu aliteng",1.087,0.3291
+106,Nama dek seba Wen ale a yaali diila kama.,Na mada siba na we ala ya le di la,1.1111,0.4375
+107,Naawen Dii Ale A Dɛ Tugurik Tɔŋdɔma Niŋ La ale weeni diila ale nna: <<Poli yɔgyɔgla!,na wendi alade tugur tongdama ningla alawendi la alenna poli yola,0.875,0.3231
+108,Ate Pabiika yaa ŋman foli bobi kaai ale saari bunaansiwa.,atupika ya mwanfole bokai alesa,1.0,0.5106
+109,Wa diem ayen wa basi ate ka laata a bo fi nɔi po abe suipeentik nuemka a bo fi nɔngbanvaata po.,"wụ di m, a yị m wọbụ asị, atịka, latọ, abụfụ nnọpụ, abụ sụ pịntụ nịụmka, abụ fị nọ ngbanva atọ",1.0,0.4054
+110,"Fi yik mu kama niŋ ale ŋaaŋ a tara, fi basi ate fi nisa a bo m zuk.","Fe yuu mu kụma nịng alụ ngạ atara, fị basị atị fị nịsạ abụọ nzụ",0.9444,0.4792
+111,"Ba jam nak Filistia tugurik tɔŋdɔma dɛ kama, ale tusi ba ta gaam Bet Aven a basi.","Baya zane a filista, tuguri ton doma a",0.9412,0.6667
+112,Te nuru baai ale magsi ni te ba zula la.,"Tannu bay, Allah marsi, metta ba zulala.",0.9,0.4333
+113,Dila Jeyoiachin yaa yeeri wa likka gattaŋa a dueni nakpiak alege ate wa boka po meena wa a dɛ ale naawa.,Dila joakim ya yiri wulika gatna adyena pya alige ate oboka pumina wande alina,0.9048,0.3855
+114,M le ŋmarisi Wen yuenni ale wa tɛŋka yuenni a dueni ba nyiŋ.,Lomarse na wenwenni alawattan ka wenwenni adueni,1.0,0.4894
+115,Ate wa yaa weeni Naawa yenni kpaŋŋa ayen ba kan te wa ŋandiinta ale da buui ate ba a chari naawa yenni po la.,"Acho bu ihe o bu. Na wa ya enne kwa ya, a yin, baka ntewa nga ndi nta. Ale da bu ihe a na-achari na wa ya",1.0417,0.4
+116,Ba kisi mu nna la kama ayen dii ate ba ŋmarisi Wen Gbaŋka po la a chim wensie.,"Bịa ke si m nala, kama a ga m aga a tabanụ nwaarịsị. Na ọ ngwa ngwa pụọ, dịla pụọ dịla pụọla, achọghị m",1.2778,0.8
+117,"Nuru waai ale a misi nya buui ale basi ate nuru a nye cheri la, ku a fɛ ate wa mɛ sugri wa gattaŋa.",Nuru anyi chere la kwa afe atọ me suri ọgọta,0.9167,0.6486
+118,Kirisita tigini demma abe a nye tuka ka wala yenni.,Krista túnè dèmma àbá nyè túkà kà wàlà yè,1.0,0.4878
+119,Ba dachaasaŋa ale yik ba ta ga basi badek tɛŋ po ate m le te ba ko ba.,Badachas nga aligba atarabasaba dek tenpo atinli tebakoba,1.0,0.2692
+120,"Waai abe dan zɛri kpaŋŋa de noa, kula nyɔnɔwa a zɛri ka baai ate Wen lueri zaan du la noa.",wa abidanzere kpanade nwa kulanyonuwa azereka bala ba atina wenwiri zandula,1.0,0.3623
+121,"Alege nya, ni a pai ni sebchakka a basi ka pimpaasima wie ŋaai ale kan ta kiri la.",aliginya napa ni sewchaka abaskapim pasumewngai alikanta,0.9444,0.3333
+122,Wa ale vari baai ale a silim la gebi kaai ale bo ba noaŋa po la jigi a basi.,"Rarar bai a lasillan, giwkai alubu banu angula jigi abasi.",0.8947,0.386
+123,"Ase ba ale jam paari Kidon ŋanta fɔbika jigini la, Uzzaya yaa laari wa nisaŋa ayen wa yik dakanni, dii nyiŋla lalisaŋa nyiŋsa ale jam a gɔk.",A sị na alị jampara kedụ ngada ka o wee ka e jiri lee Josiah ya lara. O wee si mee anyị nwaa yị dika nị dị ṅịla laa sị ṅị ya sị ṅị alị jam agụọ,1.3704,0.5766
+124,Ba le ba nam diila a nye se ka nueoŋ ale dom fu ate fi a nam diila.,"Bala Banam Jila, Anya Seka Nyo, Ale Domfo, Atifa Nam Jila",0.8889,0.2449
+125,"Nuruma ale jam a paari la, Piita yaa deri basi dɛka ale nuruma dii nyiŋla, wa jam a chali ka yɔgsum ale baai ale jam maa siak ayen baai ale kan daa Juuba la a gebi ba yoaŋa la.","Nurma, alejam apara la pita yader base. Deka ale Nurma jinyila waja chal ka yosum. Aleba alejam masia. Ayenba alekanda jubala ageba bayo angala.",0.9231,0.2074
+126,Miriam ale Aaron a yaa piilim a biisi Moosis a kaasi Kus tɛŋka liewa ate wa jam faari la nyiŋ.,Miriam al-Haroun aya film abis Moses akase ku stanka lewa atawajam fare,0.95,0.3378
+127,Yɔgyɔgla de nuruma ale ba pooma a yaa kaari nna tuotuowa a ta chaab ale ba suataŋa Juuma.,ya ya ole de nuru ma aliba pu ma aya ka re na tuetuwa atacha aliba soatana eju ma,1.0556,0.2958
+128,Ase mi nin basi ate Nabal nuruma wanyi mɛ la a bɛ alege ate vari a veenti.,"A sị m na m basị, a sị m na m baalụ, na m agaghị enye mela. A bịa, a laa gị, a sị na ị vari a vien te.",1.5882,0.5789
+129,Nama mɛ abe le ta siaka dii ale wa la ale maari ka mi mɛ.,na ma me ableta siaka ji alwala almare,0.9333,0.3333
+130,"Alege ba an wom ya yaase ba popola a boro, ba goanti va ka badek tuikpanni ale ba popola baataŋa ale a yaali diila.","Alee baa wumiya, ya si ba pupola aburu, ba gwanti vaka, ba de tukwani, alee ba pupola baati nga, ala yaa diila",0.7917,0.2444
+131,Wala ale saafiik kaai ale baga a lak Wen Yammu ale wa sebchakka ale suk juijui la ate ti a nya.,wala alesa feka ale bara lare na wenyamu alosiri chaka alesuwi jujila ateta,0.9048,0.3784
+132,">> Ba jam a wom wa kama nalimnyiini dii nyiŋla, wa wakperikaliisaŋa a jam cha ba beni ka nna yegayega.","Bà già vốn quá cam, nể nhịn đi nhịn lại. Vốn quá kham nhẫn, bà già nhịn nhục,",1.0,0.7975
+133,"Pa di a te kaabteerɔwa Eleaza, ni ta di a nyini ni boka jigini a nyini peelim a tɔgri di wa niŋ.",Pade a te kapte wa Eliyaza.,0.8636,0.7534
+134,Ni da garuk peelita mɛ mi jigi a lik ni chivieŋa.,,,
+135,Fi le poom nak gbaŋ a te baai ale kan ta koba la abe fi pai ŋanta a tagri fi doa.,"Filipo nagbang, atebay alakanta kobala, abifipa nganta ataghari",1.0,0.3
+136,Wamaŋsaŋa de ka ŋaai ate wa puulim a biisi ŋa dipo ate wa biisiteerɔma a ŋmarisi nyo Wen gbaŋka po la.,wa mansa nade kangai ato pulu abisina dela po dela po ato bisitirama anwar sinyo na wu gbanka,1.0,0.4815
+137,"A nyini wala jigini, Sekania nidoabinni Sɛmaiya ate wa a nya Kori Nansuiŋku la a sɛ.","Ndi nwe ala jigini, sekene, n'udo bini, semeya, atụwa anya, kwere na Chineke.",0.9375,0.4179
+138,Alege tugurik tɔŋdɔma kpagni a kan jam a yaali ayen wa ko Pɔɔl.,A na-eche echiche makwa na a ka njọ a ga-ali anyị nwoke,0.9231,0.58
+139,"Mi dan cheem nya mi gauŋ, waai a karo a maari mu, waai a karo a lik mu.","Me ga wa akara amara mu, wa akara alu",0.9444,0.5098
+140,Mi a chiini ba ase ka mi dachaasa la.,Me achinba aska meda chasa,1.0,0.2857
+141,Naawen a basi ate bela a kpeeri meena ale basi ate beli naŋsa nyiam a kan chali.,"Naa wee abase, atibela akwiri miena, alabase atibele nausinyam akanchala.",1.0,0.2381
+142,"Dii nyiŋla Naawen a weeni Moosis kama ayen, <<Weeni Izirali demma ayen, <Ni ka tukpari nyam.","Jéhovah na wé agwé na Moses kama ayen, wé na Israel déma ayen na katokpari nyam",0.8125,0.4085
+143,Naawen a jam te Deevid ka nak dɛka juijui meena ate wa jam cheŋ la.,na we agent David kana deka yoju mina atọja m chinla,1.0,0.4038
+144,Ba le tɛŋzuk de demma a daa bunyi ase mi ale tɛŋka meena demma ale kan daa bunyi diila.,"A letan zude, dama ada bu yi, a simi, a letan kamye na dama, ala kan da bu yi di",1.0,0.2941
+145,Wen maarɔ waai ale jam saari bayuebiwa la a yaa peeri wa damuniŋka ate mi yaa wom lueluk ale ku nyini ligmɔniŋ kuŋkuŋku nyiila ŋanaansiwa ale bo Wen niŋ la a jam.,,,
+146,Daa ŋayopɔi nye biem duisi basika a te kuŋkuŋku a gaari ku.,Danga yopai nyebiem di sebasca ate kunkunku agaro.,1.0,0.2766
+147,Wa jam pai ka tiita a nye wakperikaliisa nna yegayega ate ŋa cha Samaria demma.,anya m baka chita anya we kweru ka anyi si na ya yiga atughi anya na Mary ga-adiri,1.2,0.5156
+148,Filistia tugurik tɔŋdɔma a jam siti ba kama ale pagrim a nak dɛ Izirali demma.,"Festa do Grupo Tondema, Agência de Bacama, Ale, Bagara e Narde, Ilha de",0.9333,0.5714
+149,Ba seba ayen wa pagrimu a kasim boro ka dila taam wuu.,ባሰባ አየን ወፓርሙ አከስን ቦሮ ቀድለ ታንው,1.0,1.0
+150,"Dila nyiŋla, diipo ate tama wom ni wie la, tama kasim a puusi Wen a te ni ka dila.","De la nyin la, a tanyin di pu, a ta tamawom ne we la, tamakasma pusi na we atanu ka",1.0526,0.3934
+151,"Jonatan yaa weeni waai ale a yik wa kpaliŋ kɔlimaŋa la ayen, <<Jam ti ti cheŋ Filistia tugurik tɔŋdɔma baai ale kaa va Naawen la jigini.","Jonathan Yawe ni wa ala yi, o pa nka, o pa nma ala ayen. Ya ntitian Philistia tuguru tondema, ba ya le ka ava na wenla",1.0,0.3645
+152,"Sinsaŋŋa a gumdu kama ayen ŋa sak wakaasima ale ka diila, abe ŋa boro a ta ga paari diipo ate Abrayam ŋaaŋbiika ale jam la.","Sannu, a gunduma ayen Asak waka'asma alƙarya, a babban birni a taƙaɓari Dipo a taƙa Abraham Nambika Ali Jamla",0.88,0.3814
+153,"Pɔɔl yaa te ba sinsaŋŋa de ayen, <<M doaba, mi nya kama ale ti chelimu a zaani dela a cheŋ a kan nala.",Ọ̀lị́ àtụ̀bàsị̀ nsàgàńdị̀ ayị́m ndụ̀bà mị́nyá àkàma àlị̀ tị́chyàlụ́ mụ́ àzàànídị̀là àchàń àkà nàlà,1.0,0.6
+154,Simeyon dɔkku tugurik tɔŋdɔma ale gomsi a magsi kpaliŋ la jam ka tusa ŋayopɔi ale kook .,"Si mon d'oko, tu gros tongodoma, ale gonsi mase pala nla. Janka tusa, ngoyokpa ale ko.",0.875,0.4085
+155,">> Sinsaŋŋa de chaab a biisi a magsi chaab ale ka jaabuuri meena wuu ate fi dan ga pai wa tom tuini, wa ŋman ka kiri diila.",,,
+156,"Ŋandiinta ale masa ase yesa a nin kan karo, yaase masim a bo jein peeluk po?",Nandinta almasa ase yesa aninkankaro ya sumasum abu jempioluk,0.875,0.2203
+157,"A nyini Jodan beni kori geŋsa, Aruben dɔkku ale Gad dɔkku ale Manasa dɔkku ale kpesi badek ale kpaliŋ ale kpaliŋ jaab meena la, jam ka tusa kook ale pisiye .","Anya ne jọrọ mbe ne kọrọ gị nsị. A rubin dọkọ, alịga dọkọ, alịmanaza dọkọ, alịpesi badịk, alịkpalịm, alịkpalịm jaa mịna la, jamka tusa kụọkụ alịpesi ya.",0.9333,0.3548
+158,Ku le nye nɔiyeŋ ale fu ate fi pai ku chim fi yɔma ku nyuvuri po meena?,Kunyanya nyen alfu ate fepaku cin fu yoma. Kunyu vuru po,0.8824,0.3704
+159,Wieŋa de a nyini ka waai ale ka nuru weleŋ ale wensie nyɔnɔ ale ge ta Deevid safiika la.,"Naka wa, alka nuru wale, alawushe nyono, alake tanna David, saafi",0.9474,0.5217
+160,"Naawen ale weeni ayen, <<Daaŋa a cheena ate naa kpaarɔwa ale gaam cheerɔwa a taam.",na we alu we ni eyi daa nga achi na ati na kparawa alu gaam chiro wa ata,1.1333,0.3281
+161,Deevid ale wa nuruma a jam paari Ziklag ka daa ŋata dai.,David,1.0,0.9091
+162,"Fi dan pai ŋa meena a gum chaab, kpana chinaŋa, magsika dobrimu jam ka ligbie tusa ŋaye ale kobsinaansi a ta va Naawen yenni magsika ale ka diila.","Par exemple, l'année dernière, à Guinée, pendant le carême, Macky Sall a offert des billets toussants à des aliénés. Attaquant à nouveau, Yenne, Macky Sall a offert des",1.0,0.8793
+163,"Ase ba le jam paari Eskol Viaka la, ba yaa jam che tiib naŋ ale yɔn fi gilima sagi.",,,
+164,"M ka Piilimka, m be kasim boro kama taam wuu.",ka pilen ka bkasen buru kama ta wu,0.8,0.3824
+165,"Baai ale velim a te nuruba la kan te ba kali tɛŋka po, kaasuŋ a jam kaasi baai meena ale ka gaasa nyam la.","Ba alif velum, at nur bala. Kantaba kalitengapu. Ka asun ajam. Ka asu ba mina. Alika. Gasan yamla",1.0,0.2469
+166,Ka wana ate mi ale biisi a te abe m te kaamka?,at me I'll be at a,0.9167,0.7353
+167,"Dila nyiŋ, ni yaa be a nye ase Yeezu Kirisita ale ka diila.",de le nyin ne ya ba nye na si Yesu Kristo alika di,0.9231,0.3778
+168,Waai mɛ la bi kan ta niiga yaase duŋ buulim a nyini ate ŋa dɛ jaaboa yaase ŋa nyu nyiamoa.,wa mɛ la bɛ kan ta ni yi ga ya si dun bulu m'a nyini a ti ŋa dɛ ja wa ya si ŋa nyu nyiɛ,0.85,0.2714
+169,"Alege tama baai ale poom kan pai yua gebika chim wari la, tama ta yiila kama ayen Wen Chiika pagrim nyiŋ ti le chim ka wayɔrisima nyam Wen jigi.",አለገ ታማ ባይ አለፖንካምፓ ዩአገብካ ቲሙዋርላ ታማ ተይላከማ አየናዊን ቺካፓርምኝን ትልቺም ከዋይዋርስማኛም ናዊን,1.0,1.0
+170,Wen yaa wi tɛŋ kosikka ayen tɛŋ alege a wi nya tii ale chuiri dua jigi yeŋ ka la ayen nyakpiem.,Wè ya wì tankwasika ayen tan aluge awi nyati alikwiri dwa jiyankala ayen nyakwi,0.9048,0.3378
+171,"Wa yaa jam tuesi ŋan baai ate ba te wa la a nye bɔgluk ase naabiik la, a salisi ku.","Oya, jiam, tu es sûr? Ngam baa, atabata wala anye boolu. Asin na biila, asalu",1.0,0.371
+172,Dila nyiŋ Naawen a yaa basi ate ba waaŋ chaab tɛŋka meena zuk ate ba basi tɛŋka sɛka.,dị na ya na-ewe anyị abalị atọ ma ụbọchị atọ tinka mee na zụ atọ ma abalị tinka,1.0,0.5224
+173,"Ka wana ale biak ŋmoruk tanaŋa ale nyini wenŋmazuk la, ase nyaataŋa a nin pagra ase tintain la, ase nyiamu ŋmazukku a nin goa?",ka wa na alibi nweta na alinyi we mazuk la ase nyat na anim pakra ase tintan la ase nyamu mazuku anim,0.75,0.29
+174,Dila nyiŋ Abram yaa torisi wa viitaŋa a cheŋ moata Mamre ale bo Yebron la tiib kpieŋsaŋa jigini.,Delañin Abraham ya torse wo vitin a kyeñ mwata Mamre ale bo Hebron la tikpiñ siñ jiñi.,0.7222,0.3718
+175,<<Fi cheŋ nyakpiemu bulisaŋa jigi ya yaase fi cheŋ nyakpiemu tɛŋka zuwa?,"Ficção científica, Bulisanga, Jigiya, ya se ficção científica, tanka zu",0.9167,0.569
+176,Kus nidoabilisaŋa jam ka Sɛba ale Yavila ale Sabta ale Araamaya ale Sabteka.,"कुस, नुआबेलिसेंगा, जंकासेबा, अलियाविला, अलसावता, अले, रामाया, अलसावटे",1.0,1.0
+177,Nuru baai ate Nebukadnezzar a ji a ta cheŋ la ale nna: Bena ŋayopɔiwa po jam ka Juuma tusa ŋata ale pisiye ale bata .,"Ndi baa ti Nebuchadnezzar a ji taa cengla a lenna, be na pisu pa wa pu, janka juma tusa ngata, alipisie albata.",0.875,0.2967
+178,"Ate Moosis yaa siak ayen, <<Nya mi ale nna.",Musa ya siya ayin nyami alenna. Wuyan wini ayin kancan,1.1111,0.871
+179,"Ni kan pai sebchakka a basi pimpaasima wie po a weeni ayen, <<Naawen yenni ale nna, Naawen yenni, Naawen yenni!","Nke mpa sọcha ka abasị pempas mụ wee pụọ, a wee na-ayọnụ. Na-awụ yẹnị, alịnnọ. Na-awụ yẹnị, na-awụ yẹnị.",0.95,0.407
+180,"Alege yɔgyɔgla de, wa biika kummu nyiŋ ate Wen yaa dɛ doata ale ni ayen ku basi ate ni chim nuru weleŋsa wa niŋ.","Alagae yalade, wabi kakumunyin atinawun yade, dota, alini, ayinkubasi, atinichim nuruwolinsa",1.0,0.3218
+181,Basi ate ba pai jiam a te Naawen wa ŋmanteka ale wa wakperikaliisaŋa ate wa nye a te nuruba la.,"Bịa sị a tụ apụ ajịam, a tụ na-awụ, ụmụ nteka alọ okweru ka lisị a, a tụ onye, a tee. Nụrụba",1.05,0.4267
+182,Nɔiyeŋ dakanni a jam Kiriat Jearim a beni kama a paari bena pisiye.,"Na'i yanda kani, ajankiri a Jerem, a Bena kama, a Pare Bena Pisiyya.",0.6923,0.2407
+183,M le ta masim ale suipeentik nuemka a jam kpeglimka jigi.,Leta masum alsupe ntu nyi nka ajam.,1.0,0.5
+184,"Wen viuku a bo ka nuruba suŋsuŋ, wa ale bo ale ba, ate ba ale chim wa nuruba, ate Wen dek ale bo ale ba.",,,
+185,"<<Pai tintain ŋaai ale gamisi ŋaye a maŋ du a ŋmarisi Izirali nidoabilisaŋa yue ŋa nyiŋ, a ta va ba biamu ale ka diila.","Patente ngae, aligam si ngae amandu anmarsi. Israel nudo bilisi ngae wue ngae nyin. Atava ba biamu alika di",0.9167,0.3696
+186,Dila nyiŋ m le teeri m nisaŋa a nak Ejipiti demma ale wakinkagla ŋaai ate mi ale tom ba suŋsuŋ la.,,,
+187,"Mi ta m fɔbilika meena a jam ka wa jigi, mi weeni wa kama m daanika meena.","mita, unfolo kamina, ajiyan kawu jigi. Mewi ni wakama, ndanika mina",0.9412,0.3393
+188,Waai ale pai wa miŋka a nye wenzukku la.,wa alpa waminka anye,0.8889,0.4839
+189,<<Naawen a kasi fu kama ate fi an ko nuru fi abe an namsi waai ya.,"Nawen, akasofukama, atifi anko nuru fi abe namsi",0.75,0.2292
+190,Nya si zuk a ga paari chiika daa pi ale ŋanaansi dai ku junɔi ate Izirali demma meena ale tɔgri si la.,ya suzu agapari chika dapi,1.0,0.7375
+191,Wa nyiŋtuilaŋa ale wa mulaŋa a kasim bo ka mi niŋ.,wonyin trilinga alo womlinga akasum boka,1.0,0.4615
+192,Ni dan a nye dila ba a jɔk ka nyiŋbiiri wie nyeka po.,Neda nyedila ba jok ka nyen biri we nyeka,0.8462,0.275
+193,"Fi jigi ate mi a suk, kan pai mu a te kummoa.",Fidji atmasu kampa mu ate,0.9167,0.4375
+194,"Bena ŋatawa ate Naab Nebukadnezzar a jam te la a yaa paari, wa yenni kpagni a yaa ta nuru paalukku meena a jam wa jigi.","Atenaa abebuo ka neza, agya mpotela, agya paari. Woyɛ ne kwan ni, agya taa nuru paalu ko meena, agya",0.92,0.4409
+195,Pak Naawen.,pak na win,1.0,0.2222
+196,Ayitub nidoabinni Zadok ale Abiata nidoabinni Ayimelek jam le kaabteerɔma.,J'adore.,1.0,0.9375
+197,"Dai dii ale pasaŋ la, ase Filistia demma ale jam ba kɔlim kpiema ŋantaŋa la, ba yaa nya ale Sɔɔl ale wa nidoabilisaŋa a kpi doa Gilboa Guuku zuk.","dị ala pasị ala. A sị na Filistia adịghị ala jị mba kwalụ pụọ ma ngantị ala. Baya na ala Sọl, ala onye Dọbụlụ sị na Akpịdụa, Gilbọa, gọkụzụ",1.0,0.4649
+198,"Wa jam pai garuk pali sobluk a nye ŋanyiŋta garuk panni kpeglimka, dila degadega ate wa jam nye ndila mɛ.",garpa garpa garpa,1.0,0.8452
+199,"A nyini wa mɛ jigini, Yasabia waai ale jam a nya Keila tɛŋka la ale sɛ a magsi wa tɛŋka demma.",Ya sebia.,1.0,0.9167
+200,Wadek yaalika de ka yaali kaai ale nala a te wa suipeentik la.,"Wodi yalkade, kayalkai alinnara attowasu pientala.",1.0,0.3469
+201,Sɔɔl a jam maa siak kama ayen ba ko Sitiven.,"So, aga m akabai. Alesia, i mbakwe Steven?",1.0,0.5882
+202,Wen jam pai sinsaŋŋa a nyo ka wa maarɔma nisima po ayen nuru a yaa be chim Wen ale nurubiik sanyigmoa.,"Nawui, jampasansa na anyo ko sabila ma nesma po ayenuru aya bichum naawui alenu bi san",0.9524,0.4444
+203,Jafet nidoabilisaŋa jam le Gomer ale Megɔg ale Madai ale Javan ale Tubal ale Mesek ale Tiras.,"Jafè, N'Djamena, Djougou, Alibori, Atakora, Alibori, Atakora, Alibori, Atakora, Alibori, Atakora.",1.0,0.8026
+204,"Diila kaasuŋ ale vuri nyini wiilukku geŋ, poom ka kaasuŋ kuui ale bie.",Dila kasu ale wurinye wil ko gan. Punka kasu ku ale,0.8462,0.4107
+205,Alege Naawen a yaa siŋ nya tɛŋ nummu ale kiani ate saalɔ bisaŋa a sɛ la.,"Alikana wii ya sunya, tunumu, alikiani, atisala bisunga",1.0,0.4286
+206,"Ni jam, ate ti siŋ tɛŋ a butim ba biika ate ba kaa miŋ chaaba.","Nijam, atete sun tan, abutum ba bika, atabaka min cha",0.9333,0.2826
+207,"Ba yie ŋaai ale lo la, mi ale pilim a sɛ ŋa ate ŋa pilim a nye ase ŋa nyiem ale jam ka diila.","Béyé ngai, alóla, mé alu film asénga, atínga film anyé aséngai. Nyém alu jam ka",0.9167,0.4853
+208,">> Ka Naawen ale a weeni, waai yue ale ka Wen Dii Ale A Dɛ Tugurik Tɔŋdɔma Niŋ La.","Kasa wain alawiyeni, wawe alaka wain di aladetuguru tongoroma nengla.",1.0,0.4667
+209,"Pai jiam a te Naawen, diila wa nala kama.",Pista alanga yubi.,1.0,0.7097
+210,Ni kan poli a te nidek ayen nama ka yanta nyama.,nakam pole atene det ayen nama kayan tanya,0.8182,0.1892
+211,"Izirali tugurik tɔŋdɔma ale nya dakanni la, ba yaa kaari ate ku jueli ate tɛŋka a choa.","Ezra atụgharịrị ntụgharị mme, ale nya daka n'ala, ba ya akara atụkụ jụrụ atụ tenka achọ",0.8824,0.4928
+212,Wa le yuk fi dachaasaŋa nyuvooŋa a basi ase wa le pai tintain a nyo visiŋ po a nak a basi diila.,"Oluwufeyi d'achasa a nyu vo a abasi, a si ole payi tentain a nyu visin po a nna abasi",0.8182,0.3378
+213,Nuru pagrisaŋa de batawa ale jam nye diila ale nna.,,,
+214,"Ba biisi ka biem a te fu, fi dachaasaŋa a kaasi fi yuenni kama.","Bisi ka biim atufu, fida caa singa a ka sufi yanu",0.8571,0.3958
+215,"Ŋanvutaŋa a jam lagri ba kinkaŋŋa a lik juijui ate dakanni a za la kama, ate kinkaŋŋa a lik dakanni ale di da yik jiintaŋa.","Nvu tana ajen lare, baken kanga, alik juyui ate dakani azala kama. Ate ken kanga alik dakani alik deda yikji",0.88,0.268
+216,"Naawa a weeni ba ayen, ba magsi ayen ba ta nyiŋyɔgsa, ba nala, ba korisi, ba ta yam, ba seba gbaŋ, ba magsi ba a tom naab yenni po.","Nawa a wele ba ayen, ba marse ayen bata, nyuyoksa, ba nala, ba korse, bata yam, ba seb gban, ba marse ba tom na ayen",0.5517,0.2292
+217,Wa jam biak ka nidoabilisa ba chaab ale lieba.,Ojamvi aka no do bilisa bacha aleleba.,1.0,0.2432
+218,"Pak Wa ale sinyaara, pak wa ale sinyaara yeksika yegayega.",Pawa al siara. Pawa al siara.,1.0,0.5319
+219,Bala tuesi ba charuku.,Kwesiri ya bụrụ na cafe jara taa gara mịkị ya si nwesiri,3.0,2.1111
+220,Nidoama a jam ka nuruba tusa kobsiyuebi a cheŋ naŋta.,"N'ọdịmma, a ga m akwụsị ya ebe a. Achen nanta",0.8,0.5349
+221,Alege mi nina a sueri kama ale wari meena ale ta suiyɔgni.,alguemina aswira kama alwarmina altasyona,0.9167,0.3696
+222,"Naawen a jam weeni Moosis ayen, <<Tuesi ŋantaŋa de ba jigi, ate ba pai ŋantaŋa a tom Tuka Viuku tuima, pai ŋantaŋa a te Livaima ase nuru meena tuini ale magsi diila.","Na wen, Aaron weh Moses Aaron, Chidinma, Levi,",1.0,0.8125
+223,"Alege waai mɛ siaka ale kan pagra la, a de ka jenvaata nyiini.",Ala gawa me siaka ala kam para la adeka jenfa tenyi,0.8462,0.2917
+224,"M Suiyɔgni Nyɔnɔwa a bo suipuurum po, m suinummu a fuŋti kama.",,,
+225,"Ba kasim a kum a te mu kama ayen, <Te ti lam ate ti ŋɔbi.","ba kasamaku, a ta mukama a yan, ta talam a ta tunwa",0.8667,0.3
+226,Ate nuruma meena a kpesi wom Sinsaŋŋa gbaŋka nalimnyiini.,Atụrụ na-eme na akpụsụghị m sịnsị a gbanka na ala,1.1111,0.5417
+227,"Dipowa, Deevid ale Asaf daaŋa po, niŋdeerɔba ale jam boro a nya yilendisaŋa ale Wen pimpauk ale jiam teka zuk.",de puwa de wit ala asaf da rapu neng di roba olu jam buro onya ile ndi suga olu wein pampakwa olu jiam teka,1.05,0.375
+228,"Ate nuruma meena jam weeni ayen, <<Ku be nye dila,>> ale <<Pak Naawen.","Achen nawi, izuwa weni jigi, akasim achen tanwu, atunurmiye na yanwini ayin gubin",1.0,0.9592
+229,Mi a tom fu ka Faaro jigi ayen fi ta m nuruma Izirali demma a nyini Ejipiti a nyini.,"Matonfo, kafaro jigi, ayen fete anuruma Israel demma anyin Egypt anyin",0.8421,0.2615
+230,Ezer nidoabilisaŋa jam le Bilyan ale Zaavan ale Jakan.,billion,1.0,0.8667
+231,"Alege a ta wa nuruma a nyini ase piisa la, wa ta ba kama ase piisa la a va sagni po a nyini.","अत्ता ओनुर्मा अञ्जिनी, असिपीसाला वत्ताबाक्कमा असिपीसाला अभासानुपो अञ्जिनी",1.0,1.0
+232,Ni ale ŋmasi zaani ale ni siaka ale ti Naawenni nalimnyiini dila te ti ka nyiŋ pagra ale nyuvuri.,"Nyaleng mase zane, alensiaka, aletunyonoa, nalenyi diila teteka nyimpara alenyo",1.0,0.3462
+233,Baai ale ka Girik dem la ale nuru baai ale kan daa Girik dem la.,Bye.,1.0,0.9592
+234,"Isaka dɔkku, baai ale seba diipo ale magsi ba nye kpaliŋ ale seba Izirali demma ale ba nye diila jam ka kpaga kobsiye a nya badek nuruma zuk.","Ise aka doko, ba alusi ba, diro alu marse, ba nye kwalu alusi ba. Ise adighi ma alu be nye di la, i jam ka para kowusi ya. Anya ba di nuru mazu",1.0,0.3304
+235,Da dila a saari ka daa ŋayuebi.,da di la sare da da nga wube,1.0,0.375
+236,Bena kobsinaansi ale pisita ale jam taam alege ate Wen yaa te Juuma wa sinsaŋŋa.,"Bena ko wasin nansi, ale pesita, ale jamtam, ale ge atinawin ya te juma wasinsan.",0.8667,0.2154
+237,"Nuru waai ale ta yam la, wa be wom wieŋa de abe wa poli Naawen ŋmanteka.","Nụ wa ya alụta ya amala, wa bụrụọm nwunye adị abụọ pụrụ na-awụ na nteka.",0.9375,0.4909
+238,Joyanan ate wa kowa a nye Yakkatan la a nyini ka Azgad buuni po.,Jeyanan atokwa anye ya katan la anyi nika azgad,0.8571,0.26
+239,"Dila abe dan nye, ni le baga a boro a kasim a nye dii meena ate Naawen a yaali ate ku a te wa popeentik la.",dịla abanye n'ebe bara aboro akwụsịma anyị dị ime na atụnyere wa ayali atụkwaa te wọpụ pịntị,0.9615,0.4
+240,Ni pai kpaliok a su ziimu ale bo taasi kpienni po la a pai ziimu gela a sa tuataŋa ganaŋa meena.,,,
+241,"Alege Naawen yaa weeni wa ayen, <<Nye nuruma ale a yaali diila.",Alagan na wen ya wen wa ayen. Nyinuruma alay ayali,0.9167,0.2917
+242,Ku a basi ate suik nyiamu po a nyaksi ku ŋaaŋ ale labri nyakpiemu ate bu a chim puuk.,"K'abba s'at'e, s'unyamo p'u anyarzi k'ong'a ali labre. Nyakwemu at'e buachim p'u",0.9474,0.303
+243,Deevid ale wa tugurik tommu meena yaa ŋmani cheŋ Jerusalem.,"David alụọla nwunye ya bụ Michal, Jerusalem.",0.9,0.5306
+244,Ba tueŋa a lik kama dila ba kan wom.,Batriyong hahlikama dila bakan wo,0.8889,0.3704
+245,"Parisa se kasika a kan boro, tɛŋ yonsa yik ta cheŋka a kan boro.",parsa sakaska akamburu tenyosa iitachenka akamburu,1.0,0.3061
+246,Ka wari ate m pai nye ni ate ni a tuni mu?,"Kowari, atempa, anyeni, atinatu",1.0,0.2667
+247,Ba meena pi ale baye.,M'yena pi alebaye.,0.8,0.1875
+248,"Wa jam nya zula a gaam mbala Pisitawa meena kama, alege wa an jam gum nuruba Batawa po.",wa janya zula a ga mbala pista wa meena kama alge wa njam agum nuruba bata,0.6111,0.1618
+249,Ba jam tuesi soka ka ti Nyɔnɔwa Yeezu Kirisita yuenni nyiŋ.,,,
+250,<<Dai dila danni da paalik ale nyini guutaŋa zuk a siŋ ate biisim ale nyini gu fiisaŋa po a nyini.,Dada dani da palak ale nyine gutenga zuk asin. Ate bisim ale nyine gufisanga po anyine.,0.7,0.2368
+251,"Weeni ayen, <<Naawen ale weeni diila ale nna: <Kpieba nyiŋsa ale duak ase tampoi la peelimmu po, ase ŋanbie ate ŋaridɔ a ŋari dueni wa ŋaaŋ la, ate waai karo a tigsi.",,,
+252,Te ate ba cheŋ paari Jeyosafat dii nyiŋla m za m kali ka dula a bo tɛŋ kpieŋsaŋa meena ale bo jigi meena la buusa.,"Té à Téba, à Tchi-Paré, Jéhovah s'est fait digne là, un zakalaka dula. A bô té kpin'sè miéna, alubo'i djigmiéna la",0.88,0.5393
+253,"Ase waai ale Yeezu Kirisita a dan chim bunyi, kula nyɔnɔwa gebi yoari yaa wa an gebiya, ba daa tɔgatɔga ale chaaba.","Aso wa, ale Yesu Kristo adanci bunyi, kulan yunu wa gabi yuware, ya wan gabi ya bada toto wa ale chaba.",0.9091,0.2857
+254,Dila nyiŋ ni be ŋmasi yik nidek ate ni kan ŋman chim yɔmba.,"Dila nyin, nubin wa si yir na dek, atin kan man cin yom.",0.8462,0.3261
+255,Gomer nidoabilisaŋa a jam le Askenaz ale Arifat ale Togarma.,"Goma na dubu sunya, ajali, askenas, ale arifat, ale to gama",0.8,0.3
+256,Yɔgyɔgla de Sodom nuruma nyeka jam tua kama ale a nye biem nna yegayega a kaasi Naawen.,"ya yaa le, soom nuruma, nyeka yan tokama ala nye biem na ye yiga akasi na wee",0.8824,0.2714
+257,"<<Mi ale te ka nɔi, ayen tɛŋ yonsa demma a nye Izirali demma ase ba ale a yɛliŋ zom diila a yeeri baai ale kan ta kiri la a basi.","Alekana ayi tanwun sa demma, anyi iza demma, asi bala yelen, zom dila, ayiri bae, ale kanta kirila abase.",0.8667,0.3021
+258,"Ni jam pai Juda ale Jerusalem demma a da te Girik demma, ayen ni nye ate ba yalima ale ba tɛŋka.","na gyam pɛ adwuma, ale Jerusalem dɛma, ada Atika Greek dɛma, ayɛ nneɛma atuba yɛlɛma aleba.",0.9048,0.4189
+259,"Wen dan pilim boro a ko ba, ba nyiem yaa ŋman viriŋ a gisi wa nna a wuli.",Wanda pilimboro akoba banye ya ngamviri agiswi wanawuli,1.0,0.2222
+260,Joksan nidoabilisaŋa jam le Siiba ale Dedan.,Yọksan na dọbụl sị ngị ga-ejị alị sịba alị dịda.,1.4286,0.5676
+261,"Pak Wa ale damuniŋ kumsa, pak wa ale kpanuŋ ale baganiŋ.",Paroisse Alédjo Mununkumsa Paroisse Alokpanou Albarika,1.0,0.5909
+262,Wen yaa nya ayen ku nala a te wa.,wonyanya ayunkunara ato,1.0,0.2917
+263,Naawen an ŋman jam basi ate ba soa Izirali tɛŋka kauk kuui ya Samuel daaŋa po.,"Na wen I manjambase ate, Besso Israel tenka, kokuya samol da",0.9375,0.4194
+264,"Wa yaa le deri tigsi tama baai ale tali a vua la, ate tama yaa yiri a jueli chiŋmaaŋa po a tu ti Naawenni dula.",,,
+265,Tama meena za ti kpi kama?,Nnamdi Azikiwe kama,0.8333,0.55
+266,Nuru baai ale kan daa tuim kaasima nyam la a kan chali yɔgsum ale kpaga.,"nuru bye, alekanda tuyu ka asi ma nyam la akan chalu yosom ale",0.7333,0.2632
+267,"Ase ba le jam kpiiri kpaam kuŋkuŋku zuk la, niŋdeerɔma a ta ba tiiritaŋa a jam magsi ka kuŋkuŋku Naawen nisima po pai nyo ka, a pai ti a zaani kuŋkuŋku niŋ.","Ase bale jam, tirikwam kunkunku zula. Ndeema atabatirta a jam maska kunkunku na wenesimapo banyuka. Apate azane kunkunku",0.875,0.2869
+268,"Alege waai dan poli ayen ba an welema, ba an sum welema a te wa.","Alaga wa, a don pule, a yin ban walima, ban sun walima a",0.9333,0.375
+269,M wom ba le kasim a kaari yɔmma kpaŋŋa ale a nye diila kama.,Wombat kasim akare. Yoma kpanga ala nyi di la,0.9286,0.3478
+270,Ni cheŋ a ga puusi Naawen ase ni ale bek diila.,"Niché en agapes et en vin, assis né à la",1.0,0.5833
+271,"Diila wa weeni kama ayen, <Ku kan te nuru nyuenta ase wa ale a nye ate Wen sui a peenti.",Jirra woyyen kama ayen kukante nuru nyuenta asowa ale anye atuwe,0.75,0.303
+272,Sobal Kiriat Jearim kowa ŋaaŋbisaŋa a jam le Yaroe ale Manahat demma geli ale Kiriat Jearim yezuimaŋa.,so ba keret jarem kowa ngambis nga ajanle iyarai ale mana ha dema gele ale keret jarem yesu,0.9412,0.3412
+273,"M dan poom yiti, m diem bo le ka fi.","Ndam pu yi te, ndem bo le ka",0.7,0.4
+274,"Yachmoni denɔwa Jasobeam ale jam chim kpaŋŋa kpagi, wa jam pai wa gbaluku a ko ka nuruba kobsita, wa jam ko ba ka kpaliŋ yeŋ po.","ya mere, tenwa, jụọ sobiam, alịja nchim, kwanụ akwanụ, wee ji mpawa gbalụkụ akwụkwọ nụrụba kọbịsịta, wee ji nkwụba ka gbalụ",0.9615,0.48
+275,Ka boa abe le soa ate tebika a karo a te m nuruma mulaŋa?,akaro ate nurma mulanga,0.9286,0.6047
+276,"Ku ŋaaŋnyiŋ Keenan demma diinaŋa a yaa waaŋ chaab, ate Keenan tɛŋka a yaa paari Saidon a ta tuak Gerar.",Onye na-eme ihe na-adịghị mma na-akpata nsogbu.,1.0,0.7561
+277,"Ba gela a nyini cheŋ nyakpiemu po kama ale ŋaaruŋta, ba jam ka geruŋdɔba nyakpientaŋa po.",ba gela anyi ni cen ya kwe mu po kama al ngaranta a janka garandoba ya tanga,0.875,0.3472
+278,">> Nuruma yaa weeni wa ayen, <<Tama a kan yaali ayen ti ko fu fi tuimaŋsa nyiŋŋa, alege ka fi ale a lɛ Wen la, fi mɛ ka nurubiik ale ge fi pai fidek a magsi chaab ale Wen.",,,
+279,Nuru boari yaa ŋman tigsi gilim wa ate wa yaa kala a sak ba.,"Nuru pare, aya mantekse, agalinwa atuwaya kala asha",0.8571,0.3696
+280,A weeni abe fi a sak nuruba wieŋa de.,,,
+281,"<<Mi daaŋa a taam kama alege ate yiila a ka, a kpabi a taam ase yɔgrɔ jayɔgim la.",M'danga atankama alige atiyila aka akpabe atam asu yoro je yom,1.0,0.3333
+282,"Yik fidek ase nidoa la, m le bek fu, ate fi tulisi mu.","Ife di ka asusu dala na-ebe fu, a tee fa tulu",0.9231,0.4615
+283,Waai ale bo ale mi ate mi mɛ a bo ale wa la ale yɔni yɔna yega.,wa alabo aleme atememe abo alewala aleyane yane yaga,1.0,0.2391
+284,"Ku daa ayen ti a nye a va ka Sinsaŋŋa ale a weeni diila, dii nyiŋla, waai karo a chim wayɔrisima nyɔnɔ Wen jigi Sinsaŋŋa vaka nyiini nyiŋŋa.","Odaye ntanye, avaka sinsanga alawe na di la di nyi la wa karo achi wa yor sumanyo na wu jiri sinsanga vaka nyi nyi",0.9643,0.2909
+285,Ziimu ale bu sak yie ŋaai ate ni bo ŋa po la.,"Jimo, alabo sak yengai, atinu bongapolo",0.9167,0.3939
+286,Nuru waai ale a tiri nya buui ale basi ate nuru nye cheri la ale daŋ kama a ga paari wen siŋka.,"Nuruwa a letiri ya bu ale basi, ato nuru nye cherela ale dankama aga pare",0.7273,0.2466
+287,Nidoa waai ale kan gebi la a kan dɛ.,nụ do wa anyị alịka ngebịla,1.0,0.4815
+288,"<<Fi zulaŋa ate fi a te mi la, mi pai a te ba kama ayen ba chim bunyi ase tama la.",,,
+289,<<Alege yɔgyɔgla de ta jiirim abe fi nya mi.,Alegeți o ladă. Te jurăm. Apoi femeia,1.0,0.5758
+290,Ba biem nyeelaŋa a ka magsa.,Mabiem nyelenga aká,1.0,0.5
+291,"Ate ba yaa ta sebchakka ale Wen ate ba kan baŋ wa tuim kperisaŋa, alege ba le kasim a siak a va Wen sinsaŋŋa.","A tewe a tese chakaluwi, a tewe kambang weti ngkarsinga, alige balakasum asiya ava wensinsa",1.0,0.4048
+292,"Jam a maari mu ase fi nin vari fi nuruma a basi, ate fi nuruma ate fi lueri la ale nya ŋan baai jigsi la, mi maa dɛ ba ale masim.","jam amaru, a tifinvari, a finurma abasi, a tifinurma, a tifinlula, alinya nyamba jiksila, mima deba, alimasu",0.9355,0.2917
+293,<<Chekki Wen a kan zɛri nuru waai ale kan ta kaasuŋ la yaase wa basi ate nuru baata nisima a pagra.,Cheke wayi akanzeru wayi alkanta kasula ya se wobase atunurubata nisima,0.9524,0.3289
+294,"Ba kan weeni badek ayen, <Te ti a chali Naawen ti Wenni yɔgsum, waai ale a te fanɔi ŋmoruk ale teŋsim ŋmoruk la.",Baka wuni ba dai? An teti a chali na wuni to wuni yau sum. Waye ale ate fannai nwuru? Alitin sim nwuru,0.913,0.3721
+295,"Ka boa ate ba nye ate mi sui a puuri ale ba ŋanmɛɛntaŋa, ale ba bɔgluk chaŋ sii ale kan ta kiri la?",Taba atubanye atumiswi apuri alubanga miintina alubabolu jansi alkanta,1.0,0.3867
+296,Ba jam ka nalima pisita ale wanyi.,bajangka dalam mah peseta alowenyi,1.0,0.3704
+297,"A nyini Mayali po jam ka Eleaza, waai ale kan jam ta nidoabilisa la.",ma yalla pour ka Elijah wa alakan janta no double,0.9286,0.5094
+298,<<Ni an magsi ni nyiŋsa a gɔk mi niŋŋa?,Namakse ninyinsa agwok minin,1.0,0.3571
+299,Izirali demma a jam goa Ejipiti ka bena kobsinaansi ale pisita.,Isabella Damla Güvenilir ka bena kobsinaansi alepisita,0.7273,0.3462
+300,"Dila nyiŋ ate mi a yaali ayen jigi meena nidoama ale va Wen nalimnyiini la, a zak nisim weleŋsa wen a puusi abe ba kan ta suipuurum ale nanpaga nakka ale chaaba.","Dị na enyi m, atụma ya alị, anyị ejighị mịena nụ dịọma alị fa na awụị na alị nyịne la apụsị na awụị. Baka nta sụ pụrụm alị na mpaghara Nka alị Chaba",1.0312,0.5
+301,Wen dek ale lueri mu a potim gaari mu ayen m chim wa tuimtomdɔ abe m weeni wa wamaŋsaŋa a sak nuruba.,"Onye nke a lụrụ di ya, a pụtaghị na a ga-eme ya ihe ọjọọ, kama a ga-enye ya nkwanye ugwu kwesịrị ya.",1.0,0.7595
+302,>> Moosis yaa nye dii dek ate Naawen a weeni wa la.,Musa yayi di dak a tunawen a wene,0.9091,0.4595
+303,Nama mɛ abe a teeri ayen ni ta Nyɔnɔ mɛ kama wenŋmazuk.,Nna mme abali iri ayịọ na tanọ na mme kama ụọ nwọzụ.,1.0,0.5116
+304,"Nyɔnɔwa, Naawen Dii Ale A Dɛ Tugurik Tɔŋdɔma Niŋ La, waai ale a tiri tɛŋka ate ka a nyaliŋ la, ate baai meena ale bo ka po la a kum.",Ndi ala di otu a na-eme n'ala anyi bu ihe na-ewute m nke ukwuu. Anyi kwesiri ime ihe iji kwusi omume a.,0.9333,0.7879
+305,Dila nyiŋ ale soa ate Kirisita kpi a ŋman yiti kum po a vua la ayen wa chim ŋanvuta ale kpilima Naawen.,Dile nyin à l'eso àti Yésù Kristẹni kpi àmànyìrì kùmpú àvòlà àyìn wàcìm ngàn vùtá àlìkplì mànyòn.,1.0,0.5679
+306,"Wensie ate mi a weeni ni, juijui meena ate nuruba a sak Wen wamaŋsaŋa la, ba le weeni nipowa de ale nye dii a te mi la.",,,
+307,Ni ba gela ale bo Sardis la an diem tom tuimbaata tii le ti nye ate ni suiniima a daŋ la.,"N'abaghịrịrị, ọ dịghị ihe ọzọ dịla. Anyị ga-atụgharị uche na ihe ndị a n'ime izu ole na ole sochirinụ.",1.0,0.9412
+308,Bade meena jam ka tugurik tɔŋdɔba a pai badek te ayen ba tom.,"Bade mine, jankatukuru tongdeba, apa badeka, ate ayen bato",0.8462,0.3125
+309,Ba ale a tuni wa ate wa a nya ŋa la nyiŋ ale soa ate wa kan zaani a vari ŋa a basi.,"Bala tunuwa, a tawanya lanyin, alissa, a tawakan zani, a farin abas",0.8696,0.2667
+310,Ka boa ale soa ate ni a yaali Naawen Danni?,"ka bùa, alụsị atị na ya arị na-awụ ndị",0.9,0.3939
+311,Wa labika ka tusa pisinaansi ale dinyi ale kobsinu .,"Wallaw ka katu sa, bisin na hanse, alidinyi, alkobsunu.",1.0,0.2381
+312,Abe wa sueri ni ale yam buui ale miŋchak kaai ate Wen Chiika a te ni la.,"Awu siiri ne, ali ya m bui, ali m ncha ka atụna wụ nchika atụna",1.0,0.3818
+313,Ni lak ni tueŋa a wom dii ate Wen Chiika a weeni Kirisita bisaŋa ale a tu chaab a bo Asia la.,"Ala n'etughi anya, onye di aturu na nwoke, awughi na Krisimasi, ala tuchaa, abuo eshiara",1.0,0.5634
+314,"Naawen a weeni Moosis ayen, <<Nye kutuk mɔnuŋ chin kpienni ale kutuk mɔnuŋ jazaanim a magsi sugrika.","Na we na we na Moses ayi nye kwụtu mmọnụ, Chineke na-arụkụtu mmọnụ, jee zaa nụ amaghị sọsọ",1.0588,0.4625
+315,Ku a fɛ kama ate ni ta wensie yaalika ale nuruba.,"kwaa fya ka ma, a te ne ta wun si ya al ka al",1.1818,0.3947
+316,Koora demma Elkana ale Issia ale Azarel ale Joezer ale Jasobeam a jam maa boro kama.,"Kora dema, Elkana, Aleisa, Aleazra, Alejozer, Alejocebiam, Achiam,",0.9375,0.3382
+317,">> Pimpauk a cheŋ Naawen, Izirali Wenni jigi, a kasim a cheŋ taam wuu.",अले पाक नावेन,1.0,1.0
+318,"Naawen yaa, mi an kisi baai ale kisi fu la kama yaa, ale kisi baai ale yiti a ta chaab ale fu la yaa?",na wuya mai alkisibai alkisifula kama ya alkisibai aliyiti atachap alifulaya,0.9583,0.2133
+319,"Alege Piita yaa tulisi wa ayen, <<Fi ale fi ligraŋa meena a kpi, fi a poli ayen fi baga a da Wen tiirimu ale ka ligra!",Alhaji Peter aya tulusuwayin. Fene fene ringa mina machakpi banyi nga. Fa polkama ayin fe bagada na win tirimu alka lura,1.0,0.5682
+320,"Ba biisi kaasi Wen a weeni ayen, <<Wen dek baga a yaali ŋandiinta a te tama sagni nna po ya?","Bisi kaasuwe, awi na ayen wende bagayaale ngandinta. Atte tamasanni nappo",0.95,0.2899
+321,Kaleb pokbinni Maaka jam ka Seber ale Tirana ma.,Kala po benema ka jamka sebia ale tarena,0.8889,0.3333
+322,"Waai meena nuru kpienta ale nuru fiisa tɛŋ kala po a jam a wom wa ka nna yegayega a weeni ayen, <<Nuruwa de ta ka Wen pagrim kpiem buui ate ti a wi ayen Pagrim kpioŋ la.",wa mere nu kwi nta a nu nu visa nke alapu aja won woka na ya yiga awu ini ayin nuwa di taka na won paru kwi mbu atiba awi ayi mparu kwi,1.0,0.4341
+323,Ba jam yeeri wa kpaliŋ ŋantaŋa kama a ta ba ale wa zukku a cheŋ ale tom nuruba Filistia tɛŋka po meena ate ba ga mooli wapaalaŋa a te ba wenaŋa ale ba nuruma.,"bajaan yii ree wappaala, ngaata akama ataba aluwo zuku, acin alutum nuruba filisitiya tenkapo miyena ataba gaamuli wappaala ataba wona aluba nuruba",0.9706,0.3226
+324,Pi ale bunuwa po gbaŋka a lo ka Jerimot ale wa nidoabilisaŋa ale wa kobisaŋa zuk.,P L W nwaụgbanụka alọka Jermat alụanụ W S N alụọkobisụnga,1.0,0.5385
+325,Daniel yaa nye wa popolaŋa ayen wa kan taŋ wadek ale naab yeri ŋandiintaŋa ale daamu.,Nyaneli ya enye wopukwela nga ayen wokan tang wa dik ale na ayeli nga ndintinga ale da,0.875,0.3913
+326,Ni ka ŋanjaksa a cheŋ chaboala ale chim yeoba.,Nka ngai ja sa achari cha bala alichi,1.0,0.4324
+327,Zaŋŋi dindila ale di yɔn fii gilimaŋa a jam ka dila.,de la à la,1.0,0.8537
+328,"Wen yaa ŋman weeni ayen, <<Basi ate peelim a bo nyaataŋa suŋsuŋ a gaari ti tɔgatɔga.","Onye a ma mma nwe na-ayị? Mba, ọ dịghị mma, ọ bụ nwaanyị na-asị nsị. Ọ gara dịtụ ntakịrị.",1.1875,0.6615
+329,Ba le kaasi ni tɛŋ pagrisaŋa ate ni ta sebchakka la.,Malka se ne tempare se na atineta se,1.0,0.5366
+330,Ni maa puusi a te mu ayen Wen maari ate m mooli wa wanni ate ku ŋmasi lagri a sak ba.,"na m'apụsị, atụmọ, anyị na-awụ mmiri, atụ mụọlị wawani, atụkwa nwasịlagharị asagharị",1.0,0.5312
+331,"Tɛŋka meena a yiti kama ase Nile benni la, a yaa siŋ ase Ejipiti benni la.","Tanka me na, a yi dikama, a san na albinila, a ya asin, a sa Egypt benila.",0.9375,0.3158
+332,Abe fi pai m sinsaŋŋa piwa ale ŋmarisi doa tintain paglaksa siyewa nyiŋla a nyo dakanni po.,Abena pai nsinsanga tiwa alu nmarisudwa tentanparlarsa siyewa nyinla anyodakane,0.8824,0.2568
+333,Mi zukku a dan poom ka bulik nyiam ate mi ninaŋa a chim ninyaata bulik m ti le kum kantueŋ ale yok a te m nuruma koka.,"M'zugu, Adamu punka bulugniyam, atimininya achimniyata bulug, ntilukum kan tuwon aliyok, ate nurma ko",1.0,0.3187
+334,"Zuar nidoabinni Netanel ale jam chim Isaka dɔkku niŋdeerɔ, alege ate Yelon nidoabinni Eliab a chim Zebulun dɔkku niŋdeerɔ.","Zuwairu Njobvu ni Nathaniel Alija Nchim, Isaac Dokku Ndiro ali gi ati Yellon Njobvu ali Achim Zabulon Dokku Ndiro",1.0,0.4216
+335,Ate Izirali demma yaa kaari a saalim Naawen ayen wa maari ba.,A na-eji Israel mee ihe a kara asị na a na-enye anyị ụmụ mmadụ.,1.0833,0.6735
+336,"Ni a teeri Naawen ale wa pai tutuna ŋaai a te wa nuruma la, ŋala dekdega ate wa le pai te nama mɛ.",Naa tiere nyono wa alo pa tutu na ngai ato normala ngala de dega ato le pa te nama,0.8261,0.3919
+337,Wen pai wa pagrimu a nyo ŋa po kama.,Power Parmo,1.0,0.7778
+338,Ba ka nuru leerisa mɛ ale kanjanta nyam ale a yaali yue a te badek ale a gisi ayen ba nya su paalita ate ba a tom tuimbaata.,,,
+339,"<<Nuru waai ale jɔk yiila la a yaali ka ŋmanteka a nyini wa doaba jigi, ase wa nin poom basi Wen Dii Ale A Niak La yɔgsum chalika.","Nuru wa alu jo yila la, ayi alu ka manteka. Anyi ni odoba jigi, aso ni mpu mbasi wen di ala nni ala yosom chalaka.",0.8214,0.2626
+340,"Alege ku an poom magsi ayen sanyigmoa bo ti suŋsuŋŋa dii nyiŋla, yigma a bo ka nuruba baye suŋsuŋ alege ka nuru yeŋ ale boro, Wen ka wanyi dekki.",A le ka kwanpoo marse a yeen san yirima bo tu sunsun a jinyi la yuma a bo ka nurba ba ye sunsun a le ka nur yen a le boro na ween ka wa nyi de,1.0345,0.2807
+341,Zeruiya nidoabilisaŋa batawa jam le Abisai ale Joab ale Asayel.,Zeru ya nu dubu sun a bata wajanle abisa alijap ale asayer.,1.1,0.283
+342,Ni a namsi nuru maŋsa ale a tuesi ŋanta a nyini ba jigi ale a kasi ŋanjaksa ate ba kan nya nyemagsika wie buusa yeeŋa po.,"Na namsi, nurum mansa, ala tuese ngata anyi na ibajiri, ali ge akasi nga njaksa atuba ka nya nye maru si ka. Wee bu sa iye nga",1.0385,0.2632
+343,"Alege, ku an niak ya, kantueŋka a muriŋ a bɛ ate junɔi yisuŋtaŋa a teeri a cheŋ.",alge wanya kan kyanka amurun abbe atijunayi suntina atiyere,1.0,0.459
+344,> >> Ate nuruma a koori tɛŋ a puusi wa.,A tun nurma a kwore tan a puso,0.875,0.4231
+345,>> Ka Naawen fi Wenni ale weeni.,kana wee fuwene alewene,1.0,0.3043
+346,Basi ate ba pak wa yuenni ale gɔgta ba pai sinyaksa ale kpanuŋ a nak yiila a te wa.,"Basse à toi, papa, où es-tu? Allons goûter. Papa, c'est l'heure ça. Allez, quand nous.",1.0,0.7812
+347,Peleg ale biak Areu la wa goa ka bena kobsiye ale neok.,"Ale, ale bia riu la, ogwaka, pena kopsia. Ale",0.75,0.3953
+348,Koyat kabini a yaa nyini a ji ŋan weleŋsaŋa.,Koya kabne aya nyi aji ngam,1.0,0.4571
+349,Josefi ŋaaŋbisaŋa Ɛfraim ale Manasa dɔkku ale bo yeniŋ geŋ la a jam tuesi tɛŋka de kama a tara.,"Josephine, ngam besengai Ephraim, ale mana sadoko, ale boye nengeng la, ajen tuese tenka, dekama atara",0.8947,0.3553
+350,"Yiti, Naawen yaa, a jam fi vuusumu jigini, fi ale fi pagrim nɔiyeŋka dakanni.",Jite na enyị a ajamfụfụsụ m jikọrọ. Fịrị alụfụparụm na enyị m ka daka,0.9286,0.5
+351,"Dila yiti, te ti siti yok a kaasi wa jigi pagrisaŋa.","de laiti, de laiti",1.0,0.75
+352,Dakanni ale di daataŋa ale biem duisi basika nanlikka ale garuk panni ale a lik di la.,Dakar ni ale de data nga ale BMDC Baska na leka al garpani ala,0.8824,0.3913
+353,"Kauk kuui ale pai a vi la ka Tekoa demma ale sɛ, alege ba kpaŋŋa jam zɛri tuim ŋaai ate baai ale jam a nya ba zuk la a te ba la kama.",ka ko alpa vela ka ta ko dema alise algeba panga janzar tui ngai atibaya alijamanya bazula atibala,0.9697,0.3434
+354,"Dula jigini mi dek ale tu Izirali demma, ate dula jigini ale chim tuilum jigi m zulaŋa niŋ.",,,
+355,"Ase guutaŋa ale gilim Jerusalem la, Naawen mɛ a gilim wa nuruma ka dila, yɔgyɔgla de ale daaŋa meena.","Na wọ me agịlịm, wọ nụrụ ma ka dịla? Ị yọla dị, alị daa ngamịna",1.0,0.625
+356,Nebukadnezzar naamu bena pi ale naanika po nuruba kobsinaaniŋ ale pisita ale baye a nyini Jerusalem.,"Nebukadneza, namu bena pi alena kapu nurba kopsi nanu alpista albeye alinyi Jerusalem.",0.8125,0.2262
+357,Nalima ŋanaansiwa yaa vari Sodom ale Gomora kɔlimaŋa meena ale ba ŋandiintaŋa meena a ta cheŋ.,Nalụmanya na nsụwa ya bụ arụsọ dị iche iche na-alụgoro ụmụ nwanyị iri na abụọ.,1.0,0.641
+358,"Dila nyiŋla, waai ale a zɛri ti sinsaŋŋa de la, wa kan zɛri ka nuruba ale a sak diila, alege wa a zɛri ka Wen dii ale pai wa Chiika a te ni la.","De la yingla, waye ala zere, tesin sanga dela, wakan zere kanuruba, ala sadi la, ale ga wa zere kanawun waye, ale porcika, atenela",0.9118,0.3302
+359,Tɛŋ boanni po naab a jam karo a nye ase wa la.,na ajankar anyi asu,1.0,0.6176
+360,Lɔti ale jam va Abram nyiem a cheŋ la a jam ta piisa ale niiga ale viita kama.,"Lotte, alejanva, Abraham, nyem, achenla, ajanta, pisa, alenniga, alevitakama",1.0,0.2
+361,"Mi a yaali ayen m ŋman kaam ni kama ase m le poom liŋ kaam ni diila, baai meena ale a tom nyaŋa de chaab la a kan maa nya Wen Naamu.",ma yaale ayang man kaani kama asen lepun len kaani jila ayen ba miina alatom nyaa di chala aka ma nyaa naawu naamu,0.9375,0.3434
+362,Ŋa meena jam ka zaŋŋa naaniŋ ale kpana gola pi ale ŋayuebi ate zaŋi yeŋ a soa gola ŋaye.,"Ngam me na, janka zanga na alikpa na, gwala pi alinga yuebe, ate zang yen aso gwala ngayi.",0.8947,0.3768
+363,"Livaima tachekka nyiŋ ŋmarisi Aaron yuei a dueni du, ku a fɛ ate tachek yeŋ a magsi ŋiak dɔk meena niŋdeerɔ.",,,
+364,Bunuwa po ka Araddai ate Ozem a saari bayuebi.,Banu wapo ka aradia ate osem asare ba wii,0.7778,0.2703
+365,Pai ba a nyo kpanjɔk po a te a gum chaab ale lalikka ale padaasa siyewa.,Pala anyị ọkpa njọkọ pụ atị agụmcha alịlalka alịpadasa sị yawa.,1.0,0.3214
+366,Ka wana ale wa cheŋ paari ku ale nɔi baŋŋa?,Kowana ale waccen faruku ale na banza,0.8,0.303
+367,"Mi le lik wa kaabteerɔma ale varibasika, ate wa bisaŋa a yi suipeentik yiila.",Mille Lacs okaa tiroma albarbasca. Atoo bisina ayi,1.0,0.5484
+368,"Filistia demma ale wom kaarika la, ba yaa bek chaab ayen, <<Ka boa ate Izirali tugurik tɔŋdɔma a kaari ba jigini?","Fils d'Adam, allume un cierge à la Vierge, car elle a bercé l'Enfant Jésus dans la crèche, à Bethléem.",1.0,0.7727
+369,Ka cheri ligmɔniŋ dobrim ase boorik yeŋ la ate ba jam pai nye zeuŋ jazaanimu ale ku ŋantaŋa meena.,"Ka kyale le mmanu doborom, asobori yanga, ataba gyan panye, zongyaza anu mu, aluko nganta mi na.",0.9474,0.4557
+370,Ka boa ale soa ate ka nuruma a bo tɛŋsaŋa po?,Apa alasan hati kamu mahu bertunang,1.0,0.6471
+371,Kum ale ninam ale nyiŋdomma a kan ŋman boro.,kum ale ne nam ale nyon joma akan ma,0.7778,0.3143
+372,A nyini piilimka po ate Wen a nye wenzukku ale tɛŋka la.,Anyi ne pilin kapo ato we anyi wunzuku alitankal,1.0,0.2727
+373,Waai meena a cheŋ ka wa ale nyini tɛŋ kaai la.,waa miina acen ka wa alinyi tenka,0.8182,0.4
+374,Basi ate fi nina muni ate fi a karim Wen gbaŋka ate waai meena a wom.,"Bịa sị, a tụfịrị nọ mmụọ nị, a tụfị akarị m na-awụ gba nka, a tụwa mịna awụ",1.0,0.5094
+375,"Ba yaa bek wa ayen, a weeni, <<Ka wana ale soa ate ninammu de a jam tama zuwa?",Bịa bịgwa anyị awịanị ka ha na alụsa atị na ndị ajam tamazụ,0.9444,0.4286
+376,<<Wa dii ale bie ale ta chakka ale nye tɛŋka de po.,waɗi albishir al'ta chaka al'nye,1.0,0.5135
+377,"Fi dan cheŋ gala, mi ale cheŋ juga, fi be dan cheŋ juga, mi ale cheŋ gala.","Fevera nche ngala, mme alicha njuga. Fevera nche njuga, mme alicha ngala.",1.0,0.3519
+378,"Naawen, midek Wen yaa, nya mi niniga abe fi tulisi mu.","naa we, mɛde we ya, nya mɛninnɛ a bɛ fɛtulu su",1.0,0.3415
+379,"Ba basi ate wa sui a puuri ale ba bɔgtaŋa, ba basi ate wa a dɛ nyuri ale ba bɔgtaŋa.","Mba se à to su, à puru àlụba batị nga. Mba se à to adị nyuri àlụba batị nga.",0.95,0.5238
+380,Alege Wen Chiika a jam basi ate ni sue a peenti ka yegayega.,"Alegana wenci ka ajambase, atenesue apienteka yiri yiri.",1.0,0.3191
+381,Ni siak ate ni pai nidek a gum chaab ale nuru baai ate nuruba a poli ayen ba daa nuruba la.,,,
+382,Baai ale a kpaliŋ ale naab wusuma la a kan vari ba nyuvooŋa a basi.,baayi alakwalu alicha wusimma la akan vari banyuvu nga abasi,0.8667,0.2692
+383,Mi a weeni nya kude a sak ni kama ayen ku deŋsi ba kpa ate ba jam jigi yeŋ ale yaalika.,"Maa wɛɛnɛ ya kɔdɛ, asanɛ ka ma ayɛn kɔdɛnsi bakpa atɛ ba janjigiyɛn ali yaalaka.",0.9524,0.2879
+384,"<<Ase nuru a dan weeni Wen ayen, <Mi nye ka foolaa alege mi kan ŋman tom kaasi.","Asụsụ Igbo adịghị mfe, ma ọ bụrụ na ị gaghị agbalị ịmụta ya.",1.0,0.7759
+385,Filistia demma a jam bo ka Arefaim Viaka po.,"Folasade Ajao FM, viaka",0.8889,0.5143
+386,"Wamaŋ kaai ate Kirisita nye te ni la, abe ŋman daa wamaŋ a te ni.",wanman kai a ti Yesu Kristo nyetenele abenmanda wanman a,0.9333,0.4082
+387,"Alege wa ta pagrim nuru ale tɛŋ kpieŋ meena zuk, a kasi waai ale kan ta Wen la ate wa kan de kpaŋta ate wa kan dueni batta a bari nuruma.",,,
+388,Baai ale pai badek a seeri bɔgta la a yeeri badek Naawen jigi kama a kan nya wa jiirimu.,ba'i alapa ba dek asira bo'tala ayira ba dek na wenjigi kama aka nya wejiri,0.8947,0.2464
+389,"Alege Abram yaa weeni ayen, <<M Nyɔnɔwa waai ale ka Naawen la, fi le te mu ka boa mi ale kan ta biik nna?","Ale ga Abraham ya wene ayen, nyonowa wae ale ka na wenla. Filitim ka bwa, mii ale ka nta bii na",0.8333,0.2468
+390,Yelon nidoabinni Eliab tiirimu a jam le la.,"Yello nọ dọbị nị elia, dịrị mụ ajụọ",1.0,0.5714
+391,"Ba yieŋa ale tulim te nuru yonta ale ba laŋsa ale ba pooba meena, ase m nin teeri m nisaŋa a ta chaab ale baai ale bo tɛŋka po la.","Na ị ga-ala tulum tinụrụ ya nta. A laa baa langa, a laa baa pụọ baa mịịna, a sị na nịị tịịrị nịị sị na a taachaa albaye, alụbọtịịka pụla",1.0,0.4747
+392,"Waai ale seba kpaam tuima la, a gum ba chaab ate ba nyummu a masa.","waa alissara, baa ntui mala, agunbachaa, ataba nyumu amasa",1.0,0.24
+393,Wieŋa de chaab nyiŋ ate Wen le ta suipuurum ale baai meena ale kan a zuli wa nɔi la.,,,
+394,"Waai ale a nye ŋan baai nyum ale masa ase bade la, a de masim ba nyummu nyiŋla, ku a fɛ ate ba yeeri wa a nyini wa nuruma po.",wa alanye ngambanyum alimasa asibadila ademasum banyumu nyingila kwafe atiba yero wa anyini,0.9667,0.3333
+395,"A zaani diipo ate mi ta ba nyini Ejipiti tɛŋka po nyini la, ba kasim a zɛri mi kama alege a va wena.",A ziri m di pụ atụmetaba anyị na Egypt tankpụ anyị na la. Maka a ziri m kama a na gi afa,0.8261,0.4737
+396,"Naawen a maari baai ale a yik badek la kama, alege yuk wabaata nyama a lɔnsi tɛŋ.",naa wee amara baayi ala yuu ba dighala kama ala ga yuu wa baata nyama Allah an siten,1.0,0.3175
+397,Ni kan basi ate m Kowa yenni a chim geruŋ jigi ya.,Someone,1.0,0.8684
+398,Ba ale jam a chari ŋanta a te ba suataŋa.,"Ba ale jam, acharanantena, atebasoatena.",0.7,0.2258
+399,"Ni bisaŋa ale jam tom kaasi wa la, wa namsi ba kama ku nyiŋ.","Ndi bisi nga, ale jam tom kaase wala. On namse bakka ma, kunyin",0.8571,0.2222
+400,"Nye gattaŋa ate ti ta tuilum a te fi suoku Aaron, ate ku te wa yuei ale zula.",ye gatan a tete ta chulum a tefesioko aaron atukutawa uwe aluzula,0.8333,0.2931
+401,Ba yaa nya chaab a zɛri ŋandiinta dɛka.,bayan ya kya a zeren ga ndin ta,1.0,0.4516
+402,Ni be dan a yaali ayen ni kan a chali ba ni be a tom tuimaŋsa ate ba te ni pimpauk.,"Nnebe daa yaale, anyi na-aka chalaba. Nnebe atom chim mansa, ataba tene tumbo.",1.0,0.4032
+403,Alege wa dan nye diki ka wana ale baga ayen wa an nye magsi ya?,Alhaji wada'ine diki kawana albarka ayen wa'a nyimarsi,0.8667,0.2917
+404,Tɛŋzuk nuruma meena ale nya niauŋ fi nyiŋ.,Tanzu nuru miena alinya nion finye,1.0,0.3529
+405,"<<Nuru baai ate fi lueri ba tɛŋka po a te mi la, mi a basi ate ba seba fu kama.","Nde baye atafullere, batankafu atamela, me abase atabasafukama",1.0,0.3571
+406,"M le niak baai ale a niak fu la, abe waai ale ka a te fu la m le ka a te wa.","Nri n'ebe a, a na-eri afụla, na bụghị anyị, a na-eri ka a na-eri afụla, nri ka a na-eri",0.8261,0.7308
+407,Waai ale ka a yaali nuru kpienta wie la a basi kama ate ba a nyiem juijui ale kan ta suik la.,wa alka ya ale niru kenta wila abasikuma atubaya anyim jiji alkanta,1.0,0.3239
+408,"M wom fi biika kama, m be le nye fi le weeni diila.","nwanne m nwoke, kama mbele nye, fela wee na di la. A begi, alimma kwulu ga",1.1538,0.8108
+409,>> Wa buuni ale jam liŋ kali kab tii la ale Babilon ale Erek ale Akkad ale Kalne ale bo Sinar la.,"Baboni, Alejanlenkale, Kabitila, Alebabylon, Aleere, Aleakad, Alekalane, Alebo, Sainala",1.0,0.2055
+410,"Dila m le cheŋ niŋdeerɔma jigi a biisi ale ba, wensie ba seba Naawen suiku kama, wa ŋaai ate Wen a yaali la.",dila licen nung dirma jigi abisiba wunse basaba nawun sugu kama wun aye atu wun aye ale,0.8696,0.3735
+411,Tampoi Nansuiŋku ka Arekab nidoabinni Malkija waai ale jam a nya Bet Yakkerem tɛŋka la ale sɛ.,Tambo na si nku ka a ri ka no do beni ma aliki ja wa aleja ma anya beti i karim tankala alisi,1.2941,0.3247
+412,Ka wana ale a te tagaaruk ŋandiinta ase ku bisa ale a kum a te Wen ale a tuinti ŋandiinta silim nyiŋŋa?,"Ka wuna, alate tagaru nga ndinta. Ase ku bisa alakum atewi ale atwinti nga ndinta silimyi nga.",0.7727,0.1975
+413,"Nuru baai ale pagra la, wa basi kama ate kaasuŋ a jam ba jigi ale te tɛŋ pagrika a waaŋ.","Nde baye, ala para la, wa basa kama, ate kasu, ajamba jigi, ale te te mpara sa awa.",0.65,0.2537
+414,"Dila nyiŋla, Sinsaŋŋa ale jam soa ti a ga paari diipo ate Yeezu jam la, ayen siaka ale wa ale ku basi ate tama yaa chim wayɔrisima nyam Wen jigi.","Jila nyin la, sán sán a, àlè ján sàté, àgà páré jípò àté Yézù jám lá. Àyén sí àká, àlè wá, àlè kùbásè, àté tàmà yá ichim wá yó àrúsì mányám. Nà wé njì",1.1333,0.5398
+415,"A magsi chaab ale tuimbaata, dii nyiŋla ba ka siaka ale mi.","Asema, ale tu mbata, dila bakasiaka ale",0.8333,0.3696
+416,Basi ate ba jam mwuli a kum ti zuk ate ti ninaŋa a ga chali ale ninyaata ate ninyaata a kpiiri a zi.,Basi atụba m jam m gwịrị akụm tụzụ atụ tinye n'ịnga aga chale alị nịnyata atị nịnyata akwụịra,0.913,0.3766
+417,Wa labika ka tusa pisita ale ŋaye ale kobsiye .,واللہ کا کٹو سفستا الہایہ الکوفسیہ,1.0,1.0
+418,Nipowa de a kpiiri kpaamu a nyo mi zuk a gomsi mi nyiŋka a magsi ka guka.,,,
+419,"Ba le sak nuruba ayen ku an nala ate ba a faari nipooba, yaase nipooba a yali nidoaba yaase ku a kisi kama ate nuru a dɛ ŋandiinta gela.","Balese anuru ba, ayo kwanala, atuba faari npo ba, yasi npo ba, ayalu ndoba, ayasi kwakisi gama, atunuru adinga nji.",0.9655,0.3208
+420,Zaŋŋi yeŋ meena woglim a jam magsi paari ka anamagib pisita ale buyuebi a jueli ŋmai ale chim anamagib pisiye ale bunaansi a ta gilim.,"Jangai, yeng mi na wolom ajam makase. Parka ana mak pista. Al bu yewi, ajuelu may. Ale chim ana mak pisiye. Ale bu nansi, atagelu.",0.88,0.2936
+421,"Wa tom wa wanni ate di nyaliŋ ba, wa dam wa maglimu, ate nyaataŋa a chali.","Wodam, wowane atinya alamba. Wodam, womalmu atinya atinga achali.",1.0,0.3393
+422,Mi a puusi baai ale chim Kirisita bisa a bo Naasisus yenni po la.,"Mepawokyew, kyerɛ me kristabisa abɔ na asusuiɛ nnipa",1.0,0.4902
+423,Dila wa yaa luk lueri tugurik tɔŋdɔ maŋsaŋa gela ale bo Izirali po la ate ba tu chaab ale Araam demma.,,,
+424,Ni be ta nyuvuri kama nalimnyiini ni le chim bunyiwa ale wa la nyiŋ.,Néwétan youurou kama na lényini né léthiémbou niouwa alou walé,0.9286,0.463
+425,"Ba le jam boro a dɛ la, wa yaa weeni ba ayen, <<Wensie ate mi a weeni ni, nama po wanyi ale a yaali ayen wa ta mi a ga bobri sak.",Wai ze atma wene ne na mpu wanyi ala yale ayen watame agabore asa.,0.9375,0.5326
+426,Limisidɔma Nansuiŋku ate ba yaa ga zaani.,na siyonko atibay ya,1.0,0.7059
+427,"Pɔɔl yaa weeni nuruma ayen, <<Dila nyiŋla, nidoaba, ni yik nidek, m ta siaka ale Wen kama ayen wa ale weeni mi diila, dila dekdega le ku nye.",Pauline Yawin Ndoma-Egba,1.0,0.8585
+428,Ku a fɛ kama ayen nama nidoama a seba nye magsi kaai ate ni le nye a ta nipok ate ni nyeka a peenti Wen sui abe ka peenti nuruba sue mɛ la.,"Afe ka ma, ayenam anu doma, aseba nyem asika, ate nelenye atanu poku, ate lenye ka apinti na awunsu, abeka pinti nuru basue",0.9394,0.2547
+429,Suipeentik a bo ka nuru baai jigi ate wieŋa a chim wensie la.,"Siphiwe, abokana rhu ba jigi atuwena achim. Wunsi",0.9231,0.375
+430,Ka ka bulik kaai ale jam bo suik kuui ale a cheŋ Sur la nakpiak.,Kaka buli kaale jambu su ku ala chen su ala nakpia.,1.0,0.2449
+431,Dai yeŋ po ate Yeezu yaa jam bo Simon yenni po Betani tɛŋka.,"Ayamfo, ati Yesu aya ja mbonu wanyi ati ba ja awu wa ayi Simon la ye nefo di ale ja mbo batani",1.6154,1.0638
+432,Ba an se parik a gilim si yaase ba se parik a gilim si?,Ba'a sanse park a Gelenzi ya sai ba'a sanse park a Gelenzi.,0.8571,0.4634
+433,Nama dek seba ayen ku a fɛ kama ayen baai ale a va Wen suiku la a nam kama.,"Na mada saba, ayin kwafe kama, ayin bay, alava na wunsikula anam.",0.9474,0.3214
+434,"Gɔi kosikka po ba siak te badek yaalika, tɛŋ kaai ate nuruba karo la ba nye Wen a nya.",Gwakwa sakpo basiya tabadek yalka tenka atunurba karola banye wey anya,1.0,0.2879
+435,Aizik pimpitimaŋa ale kaasi.,Azik pimpetimanga alika,1.0,0.3333
+436,Ku be beni maga kama alege ti an diem baga a ŋman nya chaaba.,kòlèdè n'mra kàma àlè gèdè ndièmbrà ànwa nyàchàbà,1.0,0.5745
+437,"Che fi zuisaŋa a yuk basi, abe fi pai kumsa a su a kum guuk tii ate tiisa karo la zuk.","C'est physiquement à Roubaix. Ah ben, il faut pas comme ça à sous. À comme goûter à tes. Tissa.",1.0,0.875
+438,Nyɔnɔwa Naawen ale pai dii a sak mi la ale nna: Ku jam ka busik ate yɔn ŋaai ale bɛ la a sueri ka.,"N'oge nwannawụ, alụpa dị asaa mụla alena. Kweja nga bụsịkị atụ yọ ngá alụbele asụrụ",1.0,0.4795
+439,Wa le chim ka mi nidoabili ate mi ale chim wa ko.,wale chimka meno do abele atemi ale chim woko,0.8333,0.1351
+440,"Zurisaddai nidoabinni Selumiel ale jam dɛ Simeyon dɔkku niŋ, alege ate Deuel nidoabinni Eliasaf a chim Gad dɔkku niŋdeerɔ.","Jésus a dit à Nathanaël, Salomon, Alexandre, Siméon, d'aucun, à l'égard de Doua, Nathanaël, Éliasa, Achim, Gad, d'aucun,",0.9474,0.5882
+441,Juijui meena ate fi boro la ŋɔbi boroborok kuui ate ba an pai dabinta a nye la.,"Ji ji mee na, a taa fụbọrọla nwa bụrụrụkụọ, a taa baa mpada binta anyị era.",1.0,0.4194
+442,Ba le yaali ayen ba kpi alege kum le chali bɛ kama ba jigi.,,,
+443,Fi ta fi nɔiyeŋka ale a sak ŋmanteka ale fi tomteerɔma baai ale a yaali fi ale ba suinum meena a gum du fi suiku po la.,,,
+444,"Basi ate Izirali sui peenti ba Nyeerɔwa nyiŋ, basi ate Zayon nuruma a ta suipeentik ba Naawa nyiŋ.",Basa atis jasu pienti. Banyero nyin. Basa atis zayo nurma atis pienti banna wonyin.,1.0,0.3418
+445,"Izirali nidoama meena yaa tigsi jam jigi yeŋ Naab Solomon niŋ tigini daaŋa po Etanim chiika po, chiisa siyopɔiwa po.",Israelite,1.0,0.9158
+446,Wa jam maa tigsi niŋdeerɔma meena kama jigi yeŋ Izirali po ale kaabteerɔma ale Livaima.,"Wajen ma tukunsi. Ni dai rama meye na? Kama jiki yan, isa po. Alƙawari rama, ala lefa ma.",1.0667,0.4444
+447,"Ŋmazukku, wenŋmazuk an poom soa dii ate fi a boro alege ka yie fiika de ate mi a sɛ la!","Mazi ku, wanwa zuku, anpwonso di atefi aboro aligeka yefika de ate me asala.",0.9,0.2424
+448,Wa jam sɛ ka kaabka kuŋkuŋ dula jigini a te Naawen.,Wajan saka kaɓa ka kunkun dula jini a te na wain.,0.7273,0.275
+449,"Wa basi ate viok a jam ase ziŋa la, waai a kan baga a tu chaab ale ŋootaŋa ate wa tom la.",waa a ka baa a tu chaa alu ngutunga a tu atom,0.8636,0.6212
+450,"Waai ale ta pabiika a cheena ase juka tiirim la yaase kaabka la, a ta daam leŋ a lab bunaansi a pai bunyi a gum du ase nyuka tiirim la.",wa ale tapa bika akena ase nyuka tirinla ya se kabakala a tadam len ala bunanse a pabunyi agumdu ase nyuka tirinla,0.8,0.2019
+451,"Ba nimbidaasaŋa jam a nye ase ka gbeŋma nimbidaasaŋa la, a korisi ase walisa ale bo guuta zuima la.",Ndi be anyi daalu nu maka oge anyi na-eso gị gbanwe echiche. Daalu nu maka nkwado unu na-enye anyị.,1.0,0.7722
+452,"Boan nyiŋŋa, wa dii meena ate nuru a nye alege ku kan nyini wa siaka jigi la, wa dila abe ka wabiok ate wa a nye.",Wanyị nga wọ jị mịna atụrụ anyị alege kụka nyịni wọ sịaka jịla wọ dịla abụka wọ bịọ atụ wanyị.,0.9615,0.4118
+453,Ti an jam bek wa a wom dii ate ti le nye a ta va wa ale weeni diila.,"Anya mberwa, owu m di, atete lenye, atava, walu wene di",1.0,0.3061
+454,"Dila nyiŋla, bala chaab a ka suik ale biisi a vari badek a basi ale ba ale nye diila.",Dele nyi la bala cha akasiuk ale bisi avar badet abase aleba ale nyi di,0.8947,0.2308
+455,Tintueŋa jam ta pagrim ase ka tɛŋzuk de nuenta ale ta pagrim diila.,,,
+456,<<Ku a fɛ ate Aaron a ju ŋan baai nyum ale masa la kuŋkuŋku zuk saluik meena ase wa nin jam wa nya zeuŋtaŋa zuk.,"Kọfị na ti arọn a jụ n'mba anyụm, alị masara kụnkụ kụzụk sa lụmịenụ asọ nị njam ọnya zị ntanụzụk.",0.96,0.4471
+457,Wa jam nyeka ŋanyiŋta pisinu garuk yeŋ nyiŋ ale ŋman nye ŋanyiŋta pisinu a basi ndila kpeglimka ate ŋanyiŋtaŋa a tuk chaab.,,,
+458,Ba tɔgri ka a pai ziimu a misi kuŋkuŋku ganaŋa meena.,Batoraka apazimu ameso kunkunku ngana ngamina,1.0,0.3333
+459,Sak mu kauk kuui ate m nye kaasi la.,Samu kaku ate inye ka,0.8889,0.4074
+460,Pai ligmɔniŋ garuk miik ale garuk miik sobluk ale garuk miik ŋmiŋmiruk ale garuk miik mɔnuŋ ale gattiak peelik kaai diak ale pagra la a nye gattaŋa de.,,,
+461,"Mi a yaali kama ayen ni seba ayen ba ale te ti soka ayen tama ale Yeezu Kirisita chim bunyi la, ku a nye ase tama ale wa maa chaab a kpi kama la.","Mayala kama, ayen saba, ayen baliteti soka, ayen tama Aliyezu Kristo, chimbu nyila, kwanye asi tama aluwa macha apu kamala.",0.7941,0.1909
+462,"Daniel yuei jam le Beltesazzar, Yanania jam le Sadrak, Misael jam le Mesak, ate Azariya a chim Abednego.","Daniel, oui, Jean-Lee. Belsazzar. Hanani, Jean-Lee, Shadrach. Mishael, Jean-Lee, Meshach. Azariah, Achim, Abednego.",0.8889,0.3012
+463,Wa jam biak ka nidoabilisa ba chaab ale lieba.,wajan biyu ka nudo bilisaba cha aliliye,0.8889,0.2973
+464,Pisiye ale bunaansiwa po gbaŋka a lo ka Aromamti Ezer ale wa nidoabilisaŋa ale wa kobisaŋa zuk.,"Bịa, alụbana nsogbu gị nke a, alụka alụmanchị ezia, alụwa nụ dobulu nsị, alụwa kwa obisị nsị",0.9412,0.5769
+465,Dula jigini Naawen maarɔwa a yaa pai wadek a sak wa bolim ŋiak ale jam a dɛ tiib fiik po.,Dula jigne na wamaruwa aya paye wode asawa bolenyak alijam aditi,0.95,0.3913
+466,Mi jam maa basi ate Izirali demma cheesi ka daata mɛ daaŋa gela a magsi yɔn ŋaai ale dɛ niŋ a bɛ la.,mụ ya abịa bị atụ ịza adịma echichi ka data mụ daa ngala amaghị mụ ya anaghị alị denịn abalị,0.9565,0.5325
+467,"A magsi chaab ale wayɔrisima, dii nyiŋla mi a cheŋ ka Kowa jigi ate ni kan ŋman nya mu.","A ta pupul kasma, a luwa yarsama, di la ma canka, nko wa jire a tan kan manya",0.9474,0.4776
+468,"Asɛ dɔkku tugurik tɔŋdɔma ale nye kpaliŋ a nya, gomsi magsi kpaliŋ la jam ka tusa pisinaansi .","A sị na ọkụ tụgburu tọọndị ma alịnye kpalị a nya, agụmsị m arụsị kpalị la, jankọtụsa pịsị na asị.",1.0,0.4133
+469,Vɔŋ a te ba dii nyiŋla ba an piisi ya!,Ateba de nyi la,1.0,0.6071
+470,<<Ni magsi ni dɛ masim danni de nyiŋ kama.,ne ma ne de ma dan de,0.8889,0.6129
+471,"Wen yaa weeni ayen, <<Basi ate ŋanta tɔgatɔga ale tiisa a nyini tɛŋka zuk ate ba a yɔni yɔna a ta bie a va ba buuni ale ka diila.","Wè ya wè ni, ayi, basi, atin nga ta tòtòra, ali tisa, anyi neta nka zu, ati ba yuana yuana, ata biè, ava ba buli, ala ka di",0.931,0.3711
+472,Kaleb pokbinni Efa jam ka Yaran ale Moza ale Gazez ma.,"Kelepukwane, Efa, Janka, Yaran ale Musa ale Gazes",0.6364,0.3023
+473,"Mi a biisi le wa ka wa nina po nalimnyiini, daa sunsuelima, wa a nya mi ase ka mi ale ka diila.","Da sun shuelle ma. Wa nyami, a si ka mi, a le ka di",0.8182,0.5915
+474,Puusi Ayerodiyan m Juu choawa.,"Pusi, ayero deyan, njut",1.0,0.4
+475,Nuru bala chaab mɛ a sak ka sinsak ŋaai ale kan a va sinsak ŋaai ate nama poom zamsi la.,,,
+476,Wa a tigsi nyakpiemu nyaataŋa a kpiiri a basi tɛŋka zuk.,"waa tikise, nyekpiye mu, nyaatengaa akriri, abase tenkazu",1.0,0.3333
+477,Wensie wayɔrisima nyama ale pak fi yuenni ate nuru maŋsaŋa ale bo ale fu.,"Wunse wuyarsum nyama, alpa fiyeni, atunuru, mawsinga, albu alfu.",0.9286,0.322
+478,"Alege ba le jam paari Yaran la, ba yaa kali dula.","Alega, alega, yampare, yaranla, bayakale,",1.0,0.3514
+479,"Yeezu yaa zak nya nuru boanni a cheena ate wa yaa bek Filip ayen, <<Ti ti nya ŋandiinta ka be a te nuru boanni nna ate ba dɛ?",ya su aya chi mu anya nurbani ale baki na atowa ya be filip ayen,0.9643,0.6915
+480,"M kan puusi a te ka tɛŋka meena demma, alege mi a puusi a te ka baai ale ta siaka ale mi la.",Ata ka tenkam miye na dama. Alege ma pusi ata ka ba'e ale ta siaka ale,0.7391,0.3824
+481,Jinla tomteerɔba yegayega ale a chali ale a ge ba kpaga.,"Gilla, tamtira bayo yiga, alachale, alage bakwa",1.0,0.3556
+482,Deevid ale wa nuruma a jam kum kama a ga jiak a ŋman ka pagrim a kum.,"David Alonruma, ajankun kama agajak, amankaparam aku",0.9412,0.25
+483,"Mi a kan puusi a te fu ayen ka fi yeeri ba tɛŋka po a basi, alege mi a yaali kama ayen fi lik ba a tanla ate jabioku a kan paari ba.",Me akam pu si atafu ayenka feyereba canka po abase. Alike ma yale kama ayen feyeleba atanla ate welen vendika akam paraba.,0.8788,0.3571
+484,Daa fi ale waai ale wa sɛ yeri a te mi a bo di po la.,"Gafie alụwa, alụwa sị yiri atụmị agbọdịkwa",1.0,0.4595
+485,">> Wa le weeni dila la, wa yaa ŋman koori tɛŋ a ŋmarisi.","Wala yuwene dilala, waya man koreten, amara",1.0,0.375
+486,"Alege Araam demma jam yiti chali ale ge Izirali demma, ate Deevid a ko ba toroko damdɔma tusa ŋayopɔi ale ba tugurik tɔŋdɔba tusa pisinaansi .","Anya bụrụkwa arụndịma, ya bụ ihe dị mkpa. Anya bụrụkwa ịzarụndịma, ọtụtụ ndị mmadụ akwụghị ụgwọ ọrụ ha kwesịrị ịkwụ. Ọtụtụ ndị mmadụ akwụghị ụgwọ ọrụ ha kwesịrị ịkwụ.",1.16,0.9652
+487,Kaabteerɔma po a jam le bade: Yabaiya ŋaaŋbisaŋa ale Yakkoz ŋaaŋbisaŋa ale Barzillai ŋaaŋbisaŋa.,Kaptiermapuo yamle bade yabiya ngambisunga ale yakwos ngambisunga ale bazilaya ngambisunga,0.7857,0.3951
+488,>> Ka Naawen dii ale wa nye wieŋa de la ale weeni.,Kanna wunti aluwanye wuya adala aluweni.,1.0,0.3056
+489,Fi dan pai wensie sinsaŋŋa de a sak fi suataŋa Kirisita bisaŋa fi le chim ka Yeezu Kirisita tomteerɔ maŋ.,"Fodampa wunshie, sensangade asafesatenga, krisabisanga, felichim ka Yesu Kristo. Tonty Roman.",0.95,0.3647
+490,Sinsaŋ ŋala maari a basi kama ate nuruba a namsi ba nyiŋsa nalimnyiini.,"Sɛ nsɛm a ɛla, meara baskama atunuruba annam se bɛyɛ nsa nali nyini.",1.0,0.2931
+491,Ale ŋman nyini Gezer a ga kpeglim Nyakpiemu.,Alung manyin ni Gaza agap nyin ye,1.0,0.5278
+492,Kula ŋaaŋnyiŋ kaabteerɔwa a yaa sugri wa gattaŋa abe wa so wa nyiŋka ale nyiam.,Kulanganyi ka tirwa aya suri waga tanga abe wa so wanyinka alinya.,0.8,0.2812
+493,"Dila nyiŋ Wen yaa ta ba jam wa tɛŋ weleŋka po, wa ta ba jo tɛŋ kaai ate guutaŋa a bo ka po la ale wadek pagrim.",,,
+494,Dii meena ate fi jɔk la a kan magsi chaab ale Wen ale za wa te fu dii chum la.,Dimma na atfijok la akam marsichap ale we aleza wetafidi,0.9,0.3448
+495,Ni kan baga a nye wari ya ka mi nin bo ale ni.,"Ninkam bara anya warya, asimi ninkambo ale",0.9231,0.3939
+496,"Ate Izirali demma a yaa basi Sinai Gɔnni a taam dɛ, a ga dɛ ate ku ga paari diipo ate chiŋmanni a ga bo Paran Gɔnni zuk la.","Ache izu adamma, aya abali, sena, gwani, atamde, agade, atokugapari, dipu, atichingmani, agabu, param, gwani,",1.0,0.3404
+497,Nuruma a yaa pak nidoama meena ale siak ayen ba bo Jerusalem po la.,Lema aya pak. Nudoma mi na alesiak ayen babu Jerusalem,0.7857,0.2642
+498,"Kpeglimka po ase baai ale jam potim a nya labika zuk la, ka Dan dɔkku ale jam wari ŋaaŋ a nyini ale ba tikti wa a ta va ba mɛ ale ka diila.","Bà Lênka pụ, a sị baị a le jà m pụta m. Anyị a laba ka Zula ka daan dọkọ a le jà nwarị n'a anyị nị. A le ba tịktụwa a tava ba me a le ka di ra.",1.0909,0.3143
+499,"Ba le wom wa wieŋa la, ba yaa waaŋ chaab wanyi wanyi, ŋankpagsaŋa a dɛ niŋ ate mbala a pai saŋ.","Baluwan wuyun ala, bayawun chap wunyi wunyi. Na kpak sanga, adineng adin bala apasang",1.0,0.4306
+500,"Gebik a karo a nye ku jaaboa, gbaluk yaase pein mɛ a kan nye ku jaaboa.",akaro anyoku java gbalụ ya si peme akanyoku java,1.0,0.3889
+501,Buyopɔiwa po gbaŋka a lo ka Jesarela ale wa nidoabilisaŋa ale wa kobisaŋa zuk.,"Bụrụ na ọ pụrụ, gwa nka alọka, jee zere la, alụọ nụ dobe sị na, alụọkọbe sị na,",1.2857,0.5625
+502,Wa jam nye ka ligmɔniŋ baŋsa sinaansi a magsi jazaanimu gugotta tinaansiwa juijui ate naŋsaŋa sinaansiwa jam boro la.,Onye kalu mma na bansa sị na nsị. A marọ sị ya zaa nụ gọọmentị na nsịwa jụjụ. A tị nsị na nsịwa ya mbọrọ,1.2632,0.5
+503,"Wensie a bɛ kama, ŋa muriŋ bɛ ba noaŋa po kama.",nwe sị abịa kama na amuru m be ya mana na anaghị kpọ kama,1.0909,0.6571
+504,A nyini diipo ate ni kokpieŋsaŋa a basi Ejipiti la a jam paari yɔgyɔgla daa meena mi jam tom mi tomteerɔma ale biisiteerɔma a tulim kama.,"anyi ne Dipo, ate Noco Queen Sunga, abasi Egypt la, aja mpaa ri yola, da miina, mijom tum, mutum tii ma, ali biis tii ma, atulunka",0.9231,0.3694
+505,Eber ale nya bena pisita ale ŋanaansi la wa yaa biak Peleg.,aba alinya be na peseta alanga na nsila oya bia pele,1.0,0.3191
+506,"Alege Moosis a weeni ayen, <<Dela mi bo ka nidoaba tusa kobsiyuebi po a cheŋ naŋta, ate fi weeni ayen, <Mi ale te ba lam ate ba ŋɔbi chiika meena.",Ale gbe moses awene ayen dela moboka ne doba tusa kopsi wibe po acen nanta atifi wene ayen mi ale teba lam atiba nwobe chika miena,0.7667,0.2364
+507,"Wanni de choa a diem nye ni daaŋa po a nya, yaase ni kokpieŋsaŋa daaŋa po?","Nne daa kịa, adịghị nye. Nne daa ṅụpuo anya ya. Ya asị na okupụ ya sị na daa",1.125,0.5439
+508,Ba sue ale peenti ase Naawen a nin basi ate ba nya badek.,ba shayi a filin ti a sunna wani a nan ba sai a tabanya ba,1.0,0.4318
+509,Sɛmaiya dɔkdemma po jam ka Jeyonatan.,Samu ya rodemapo janka je yo Nathan,1.1667,0.2903
+510,Naawen Danni a za di chim ka legi daa kantueŋŋa.,na wanda ne a zarge ka da kan tuyan,0.9,0.5
+511,Golaŋa ale zaŋŋa jam ka kutuk mɔnuŋ.,"Gwalanga, Alezanga, Janka, Kutumono",1.0,0.3793
+512,"Alege baai ale cheem va biem suita la, Naawen ale yiak ba basi ale wabaata nyama.","Alee, goodbye. Alee chi nwa, biko sutara na. Naa ween, alee yie ababasi. Alee, wa bata ya",1.0625,0.4219
+513,"Ba ŋmarisi ayen, <Ba kisi mu kama kinla nyiŋ.","Bawarsayen, bakki semo kama killenying.",0.8889,0.3235
+514,Ni kisa biem abe ni a yaali nalim ni ta nyemagsika buusa boka ni yeeŋa po.,ne kɛsɛ biɛm abɛ na ayi alɛ hnalɛ nɛtɛ nyɛ makasika buusa boka ne yie ngpɔ,0.875,0.3621
+515,"> Wen a kan yik wa suinni, jachichimini ŋaaŋviirɔma poom a ŋɔriŋ ka wa naŋsa po ale yɔgsum.","Ouais, à quand il est pour suivre j'ai quitté l'environnement pour mon envoie un cas on n'a pas le jour.",1.1765,0.8873
+516,"Alege yɔgyɔgla de, wa yaa be basi kama ate di nyini peelim a sak wa nuruma.","Alee geu yaa lede, o yaa be basakama atudi nyini, pielum asawa nuru",0.875,0.2759
+517,Miniamin ale Moadia dɔkdemma po jam ka Piltai.,menu,1.0,0.9474
+518,Ba wusumaŋa a jam ka kobsiyopɔi ale pisita ale ŋayuebi ate wusum bonsaŋa mɛ a paari kobsiye ale pisinaansi ale ŋanu.,Vous mangez à quelle heure le soir ?,1.0,0.8421
+519,Mi ale cheŋ ka bɛ abe m ge fi chiika?,Me alechenka be aben ge fe chika,0.9,0.2222
+520,"Ba popolaŋa ka betta popola, ŋa daa popola yɔrisima.",Ngada,1.0,0.9286
+521,"Waai ale ta pagrim wie meena zuk la ale wa tuesi ŋantaŋa de meena, mi ale chim wa Wen ate wa mɛ ale chim m nidoabili.",,,
+522,"Ba tiiritaŋa a dan poom ka dii ya, ti le kasim bo ka Aaron dinni nyiŋ, ate dila ale basi ate Naawen tuesi tiiritaŋa.","Batiriti nga, adanponka diya, tilikason boka, aron deninyin, atidila albasi, atinawin, twisiti",1.0,0.3111
+523,Bala ale ba wari ŋaaŋ a nyini cheŋ a kali ba tiktiwa kiri.,"Bala, aleba waran an anyi ne, a kyan akale batutuwa",0.8462,0.4
+524,"Sɔɔl ale ga yiti la, wa ninaŋa yaa lik ate wa an ŋman baga a nya.","Sòl alaga yirima zugula, wani na ya alaga, ato wa mambaga",0.9375,0.5
+525,"Ase Aaron ale jam nya kude la, wa yaa sɛ kuŋkuŋ naabiika niŋ ale mooli ayen, <<Chum tigi ale boro a te Naawen.","Asaaron, alijanya, kudela, wayase, kunkun, nabika, nung, alumoli, ayen, chumtiri, aluboro, ate nawe",0.9565,0.2169
+526,"Ba weeni ayen, <<Kan daa di ti meena ale kpi.","Bia nwanne, anyị ka na-adị mma na",1.0,0.625
+527,"Nama nisɔmma, ni abe wom nya kude.",na ma na so ma na bu wom ya kwa,1.2857,0.3462
+528,Jeriko demma a sɛ tom du ate Imri nidoabinni Zakkur mɛ a sɛ tom bala jigini.,"Giero kodema, asetomdo, ate emore, nedoabene, zakayame, asetom, balajigine",0.9375,0.3167
+529,Bulik Nansuiŋku ba jam tom du kama a va Deevid Tɛŋka tiilaŋa a jueli parika jigini a gaam Deevid yenni taam cheŋ Nyiamu Nansuiŋku kori geŋsa.,"Bụrụkwa na nsịnkọ, bịa na tọmdo kama afa David tenka tịlụ a ajụrụla. Paraga jịgịrị aga David ịyị na taa chịngị. Nyịam na nsịnkọ kọrọ gị",0.9615,0.5043
+530,Izirali demma meena a magsi ba dɛ tigini kama.,"Ise ademme meena, amasi bade teknika",0.8889,0.3514
+531,"Mi dachiaka le weeni ayen, <<M nya pagrim wa zuk kama.",Medaase akyerɛwfoɔ nyinaa a ayɛ m'apakan,1.0,0.675
+532,"<<Taaya ale Saidon ale Filistia tɛŋsaŋa meena, yɔgyɔgla de ka boan wari ate ni pai a ta chaab ale mi?","Taaya, ale saadi, ale filistia, tasanga, miena, eyolade, ka gbanwari, atinipai, atachia ale",0.7,0.2564
+533,Fi le suk fidek mi jigi a paari ka dimpo?,Aparca,1.0,0.8387
+534,M le te ni garuk peelita ate ni jo a be m basi ate nama ale mi a cheŋ ale chaab diila ni magsi ka dila.,le temps de garer le temps à temps de jour à des bases à des nama à la mi à temps à la chapelle,0.9615,0.7532
+535,Ti a tom ti tuimaŋa yegayega a te ka Wen dii ale sum boro la.,"Atum tu chim nga ye ye ga, atum ka na weh, wa'a alusum buru",0.9333,0.5
+536,<<Dila kan puusi nuruma de yaase fi saalim te ba.,pour ce numéro 2,1.0,0.8649
+537,"Nabal tomteerɔma wanyi yaa weeni Nabal powa Abigail ayen, <<Deevid ale tom nuruba gɔnni po ayen ba jam puusi ti kpagni alege Nabal a lɛ ba.",Nabalụ tọm tieremụ nwaanyị ya wee na nabalụ pụwa abigel ayen. David ale tọm nụrba gwanụ pụ ayen ma ya mpụsị tekpaa nị alege nabalụ aleba,0.9231,0.3
+538,M le fɔbili ale m chiika po sui kaasuŋku.,le hable a la chica por su casa,0.8889,0.5312
+539,Alege nuruma de suiniimaŋa a lik a kan tagri.,Alik,1.0,0.8889
+540,Bunaansiwa po gbaŋka jam lo ka Izri ale wa nidoabilisaŋa ale wa kobisaŋa zuk.,M na-achọpụta ụlọ akụkụ nkeji iri na abụọ na ọkara.,1.0,0.746
+541,"Ti nyiem dan boro a puusi Wen, ti maari a puusi a te nama mɛ kama.","Nye nda mboro pusi na we, mara pusi ate na mame",1.0,0.4082
+542,Anatot tɛŋka demma a jam ka kook ale pisiye ale naaniŋ.,"Anatòt, tɛnka dɛma ajamka kɔk alipisiye alinan.",1.0,0.25
+543,Juda ale boro taam wuu ate Jerusalem ale kasim boro gaŋsa meena po.,Guda a cikin boro ta mu a ta Jerusalem a cikin boro gansa miye na,0.9231,0.3704
+544,Ba mɛ a jam ka nidoaba pisiye ale naaniŋ.,Bame ajam ka nudo ba pisi alenaanu.,0.8889,0.2188
+545,Ba ga paari du an nya ba le a yiili diila.,"Baga paru, anya bale, ayili di",1.0,0.2581
+546,"Nna ase geruk ate nuinsa a sueri la, pimpaasima ale sueri ba yieŋa.",na ase goro atenuisa asure la empasema alusure bayenga,0.8462,0.3208
+547,Mi jam wom ba nɔi ale ka diila kama.,,,
+548,Tama mɛ abe yiti kum po kama ayen tama mɛ ta nyuvuri paali.,Tamame abeyir kumpokama ayen tamame tanu vur pale.,0.9231,0.1739
+549,Viaka jam ka Naawa Viak le la.,Vyakajamka nawa vyanu,1.0,0.3478
+550,"Izirali demma a jam chali kama, ate ba yega a kpi Gilboa Guuku zuk.",adema ajankala kama atubayi ga akpi gilboa,0.8571,0.4038
+551,Basi ate baai ale gilim mu la zuima a lik ale daani kaai ate ba noaŋa a nye la.,Basse atba alaglo mola jima alik aladana kai ati banwanga anyila,1.0,0.35
+552,Ku a fɛ kama ayen waai meena a seba chak wa popola po ayen wa dii ate wa a nye la ka wamaŋ.,Kwakha kama ayongwa mina asebeca wopupulapu ayongwa di atuwanyela kawama.,0.9565,0.3382
+553,Ti wom ni siaka ale Yeezu Kirisita ale soa diila kama ale ni yaalika ale Wen nuruma meena ale soa dii mɛ la kama.,"O wụ m na-esị aka na Jizọs Kraist a, a na-asọdịla kama a na-enyere aka, a na-awụ nnụrụma, a na-asọdịmela kama",0.9583,0.5281
+554,"Moosis yaa weeni Wen ayen, <<Ase m nin cheŋ Izirali demma jigi a weeni ba ayen, <Ni koma Wenni ale tom mi ni jigi>, ate ba bek mu ayen, Wa yuei ale boa?",Mósùsì yá wèé nùwéyí àyí àṣínnán càn. Ísrádà má jírí àwèé nùbá àyí nùkòmá wèé àlùtọ́mí nìjírí. Àtìbá bírímu àyí wòwé àlù,1.0,0.7027
+555,"Wa jam pai wa gbaluku a tu chaab ale ka nuruba kobsita, baai ate wa ko, ate wa yuei a yiti ase mbala Pisitawa la.","wa jampa wa gbaluku, ato cha alka nurba kopsita. Ba'e ato oko. Ato yuwe yi ti, ase mbala pesita wala",0.8,0.2209
+556,Boanni padiaka bunabuna a sugri ka ponni po ŋantaŋa ale naŋsaŋa a pa ba a gum zukku ale gela nŋala po.,Bwana Padri aka buna buna asoro ka ponopo ngantanga alena nsanga apaba gum zuku ale gela ngala,0.8571,0.2593
+557,M beni dula kama dii nyiŋla Persia maarɔwa ale kasi mu la nyiŋ.,,,
+558,"Arisitaakus waai ale bo likka dɔk ale mi la, a puusi ni.","Arestakus, waye alebulika doki alemele apusini",1.0,0.2791
+559,Yarim dɔkdemma po jam ka Adna.,"Yaram dogo da mafo, yanka",1.0,0.5417
+560,Kirisita bisaŋa baai meena ale kan daa Juuba la mɛ a nye ba jiam.,Chris bisanga ba miena aleka nda juba la me anye ba jiama,0.8571,0.2745
+561,"Wa jam nyeka ligmɔniŋ baŋsa sinaansi a maŋ di gugotta tinaansiwa, baŋsa siye meena a bo ganaŋa.",Agya Nyankopɔn bɔɔ nipa baasa si nase. Ɔmmane de gogota si nase wa. Baasa si ye me na abɔ,1.1176,0.4935
+562,Ba bori laŋsaŋa po ale vuk tiisa kaduksaŋa po a tigsi ŋanta nna yegayega.,,,
+563,"Dii nyiŋla, diipo ate ti le nya varibasika la a poom moata kama a gaam diipo ate ti liŋ jam ta siaka la.",Ji nyung la ji pu atineli nya varbaskala apu matakama. Agan ji pu atineli jamta siakala.,0.9565,0.3375
+564,"Ba le wom lɔŋni kumsaŋa ase wa nin jo jigi dii ale ta tuilum la Naawen niŋ ale a nyini peelim, ate wa kan kpi.","Baluwam lụọlụ ka mụ sị nga, asịwa nne m jụọ jịdị aletachụ ịlụ m la na a bụ nne alanyị nị pịlụm. Atụọ ka m",0.96,0.5119
+565,Ŋanbie tiirita ale nyuka tiirita a ŋman ka Naawen yenni po.,"ngam be tirata, a le nyuka tirata, a manka na wenye",1.0,0.3125
+566,"Alege mi, ale pai ka yiila a nye kaabka a te fu.",Alguimi alpakilla anyi ka abia atụ,0.9167,0.3714
+567,"Wa bisaŋa a yaalima kama ale maarika, nuru karo a vari ba a basi.","Wabisin'a ayal ma kema, almar ka nur karu afarbaba",1.0,0.3
+568,">> Naawen ale wom ba la, wa sui yaa puuri, wa yaa basi ate wa bolimu a lo Jekob zuk, wa pai suipuurum a bo Izirali demma buusa.","Na when alusi nwoke nwụrụ, ha si na obodo mu, alọ Jacob Zụkọpụa sụ pụrụ m, a bụ Israel Dema Bụsa",0.963,0.5745
+569,Wa a yik yam nyama ba kperisaŋa po ate baai ale a poli ayen ba ta yam la wa chuiri ba zɔŋŋa a basi.,"Anyi ya nyama, akpọrọ ya pọ, atụba ya ala pụlị, anyi mbata yamla, ochiri bazọnga abanye",0.9583,0.3867
+570,"Diipo meena ni dan wom ale damuniŋka a peeri, ni jam ti Wenni ale kpaliŋ a te ti.",Ji pụ mụ ịne na daa nwụọ mụ na daa mụ na gaa apịere na ji mụ atọ wụ nne na kpalụm atọ,1.2778,0.5645
+571,Jerusalem pai kaamka dan kan daa di m le cheem abe m ge fu abe m basi ate fi tɛŋka a doa koruk ate waai a kan baga a bo ka po.,"Jerusalem pa kam ka na kanda di, nlechi aben gefu aben basi atfetenka adokor atwaye akam baga aboka",0.875,0.2553
+572,Kaab pabiik m kala junɔi ale ŋandiinta tiirim bula dek ale bu nyuka tiirimu ase saluik la.,"Ka pabik nkalajunai, alu ngandinta tirim bula dek alu bu nyuka tirimu a sa salu la",0.7647,0.2055
+573,"Naawen a ta wensie kama ale wa pumpuulimaŋa meena, ale a yaali baai meena ate wa nye la.","Naa wee ataa, unu si ya kama alupumpulu mu nga, mi na alaya aluba mi na atii onye",1.0,0.3913
+574,Kaai ale saari buyewa la a jam lo ka Gedalia ale wa kobisaŋa ale wa nidoabilisaŋa zuk.,ka alu sara bu yawala ajang loka gadaliya aloko bisina aluwana dabilsina,1.0,0.3478
+575,"Alege Moosis a weeni Wen ayen, <<Mi ka wana, a cheŋ Faaro jigi a ta Izirali demma a nyini Ejipiti a nyini?",Alegamose a wenu wayi ayen maka wana achen fara jigi ata Israel dema anyin Egypt anyin,0.8182,0.3
+576,"Dila Deevid yaa tom weeni ate ba tigsi nichamma meena ale bo Izirali po la, a nyini ba po wa jam lueri ka tintain peesirɔba ayen ba peesi tana a magsi Wen yenni sɛka.","Tɛlɛdɛviri ya tumu wɛnɛ atɛba tɛksi, nɛ chamɛ mɛɛna alu bu Isra pɔla, anyinaba pɔ wajan luyiri ka tɛntan piisiraba ayinba piisi tana amasi wɛn yɛn nɛ",0.9412,0.3664
+577,Vuuk kuui ale saari tiyewa ka tintain ŋmiŋmirita ale tintain sobta ale tintain ŋaai ale a nye ase gunungoona la.,vukoi ala sare tiowa ka tintan munmita ala tintan sobita ala tintan ngai ala nye asu gwanongu na,0.9,0.337
+578,"Mi tom ka tuimkperikaliik sii ate waai an baga a tom la, ba nimbie po.",,,
+579,"Dii nyiŋla wa a kpesi ba nyeelaŋa kama, wa a yiak ba ka yok ate ba a ŋɔriŋ.",Dii nyi ngela waakpese banyi ngela kama waayi aba ka yook atba nwar,0.8333,0.3036
+580,Waai ale a te javuk meena ŋandiinta la.,wa aliti ya vu mina na,1.0,0.5806
+581,"A nyini Simeyon dɔkku, ba jam tom ka Yori nidoabili Safat.","Anya na Simeon dọkọ, bat jantọmka yọrị na dọbị nị safa.",1.0,0.3913
+582,"Tɛŋka a kilisi kama ase yak la ate jaab a ji maŋ ka la, ate fi yaa piilim a nya ŋanta nalim ase garuk la.","Tenga a kelz kama, ase yarla, ate jaap aji, mankala ate fiap pilum. Anya, nganta nalm ase garla",0.76,0.2405
+583,"Naawen yaa weeni ayen, <<Ka boan ni la a bo fi nisaŋa po?",na wen ya we noi ayin kaboa nela abofin,1.0,0.3415
+584,Ku a fɛ kama ayen ni a vɔŋ a te chaab ase Naawen ale vɔŋ a te ni diila.,"Kouafokama, ayenavon, atecha, asunyowa, alovon, atenedi",1.0,0.3846
+585,"Ase Jabes Gilead demma meena ale ga wom dii meena ate Filistia demma a nye Sɔɔl la, ba nidoa tuasaŋa meena yaa ga pai Sɔɔl nyiŋka ale wa nidoabilisaŋa nyiŋsaŋa a ta jam Jabes.","A sị Jabez gị na demem mịna, a na-agwa m dị mịna a tefelụsịa demem anyị sọrọ. Ba nị do tụọsị mịna, ya gapa sọrọ nyị nka, a na-agwa nị do bụlụsị mịna nyịsị mịna a ta jam Jabez.",1.0294,0.4714
+586,Ku a fɛ ate ti basi ti tɛŋka dii nyiŋla ti yieŋa a dua ga guura.,"Kuafe, ate, tebase, tetenga, dinila, teyia, adakagura",0.9375,0.3333
+587,Dila nyiŋ Abram yaa basi dula ase Naawen ale weeni diila.,"Abraham yaa baa sedulaa, a si na wey, a lu wey ne",1.0909,0.5
+588,"Ase mi a dan nya mi ale a bek diila, ase Wen a dan te mi ale a yiili diila, ase Wen a dan siak ayen wa ko mi, wa teeri nisa a gebi mi a basi!",Asimmi adanya mi ala be diila asuwe adante mi ali ayiili diila asuwe adansiak anwukomi watiri nisa agemi abasi,0.8649,0.1683
+589,"Ku be dan ka dila, Sinsaŋŋa kiri abe le boa?","Ovidon kadila, sensa keri abele",1.0,0.3939
+590,"Ni dan ga nya suik diipo meena, ni nyiem a kpabi nwuli ate ni nye wari dii ate ni a yaali ayen ni nye la.","Nne ranganya su di pu mena ni nyeng pabe ngwuli ngwuli, ati ni nye wa di ati na ya le, aye ni nye",0.8,0.3797
+591,">> Wa ŋman pilim weeni mi ayen, <<Ŋmarisi dii ate m le weeni fu a dueni, dii nyiŋla m wieŋa ka wensie wie ale magsi mɛ.",,,
+592,Ŋanvutaŋa wanyi a zaani nanlikka nɔi abe m wala mɛ a zaani kpeglimka.,na vutenga wanyi azani na likanwa abinwara me azani,1.0,0.4286
+593,"Wen ŋman weeni ayen, <<Basi ate ŋanvuta tɔgatɔga a bo tɛŋka zuk, yeri duŋsa, ŋan baai meena ale vuuri a cheŋ ale gɔi duŋsa ba meena ba tɔga ba tɔga.","Wong man weni, ayem basi, atengam vuta totora, abotanka zuk, yere dunsa, ngamba mena, ale vura kyen, ale gwadunsa, bamena, batoga batoga",0.8667,0.292
+594,Lusiyas ale Jeesin ale Sosipeeta m Juu chaama a puusi ni.,"Lucia, alle gießen alle Suppe da. Und du, Chama, abpuschen.",1.0,0.5435
+595,"Asdod demma ale nya dii ale a nye la, ba yaa weeni chaab ayen, <<Ti jɔgi ta nɔiyeŋka dakanni ale ka Izirali demma wen la a ga te ya.","A sị na ọ dị mma, a leghị adị, a leghị anya. Bịa wee na-achọkwa anyị. Dọkịta na-eche na ọ dịghị mma, ọ ga-adị ya.",0.931,0.6465
+596,"Mi a toariŋ baai meena ate m ta yaalika ale ba la kama, ale ŋman a yaali ayen m dak ni tuimbaataŋa a sak ni.","N'attends pas demain. Attends, tu es allé à l'école, à l'école à la fin. À la fin, tu es allé à l'école, dernière",1.0,0.8049
+597,Wa ta ba nyini legi po a nyini legi nna kpitɔ po a nyini ale gebi ba chɔrimaŋa.,"A taba anyi ni, lele pu anyi ni. Lele na kpeto pu anyi ni. Ali gebe, ma chwaro",1.0,0.3279
+598,<<Mi ale naapeerik maŋka waai ale gomsi magsi a yaali ayen m kpi piisaŋa nyiŋla.,मैं आलेला पेरे मंकाय आले गोमसे अमर्से आय आले आयन पी पी संगन,1.0,1.0
+599,"Wa yaa yeeri Zedekia ninaŋa ale bobi wa ale kutuk mɔnuŋ chɔrima a ta wa cheŋ Babilon, juijui ate wa lik wa a ta ga paari wa kum dai.","Ọya yiri, jelụ ka ya nụ nụ na alụbọbụa alụkụtumọnọ chọrọ ma atawọcha Babylon, jịjị atọlịgụa ataghapara wụkụmda",1.0,0.4412
+600,"<<Ate nuru waai ale daŋ la a nye cheri la, nye buntuem a ta nyini cheri juka tiirimu jigini a nyo leŋ po a kpeeri nyanaliŋ a vi bu zuk.","A tun ru wa, a le da la, a nye chere la. Nye bon ti om, a ta nyi ne, chere ju ka, ti mu ji ni. A nyo le mpo, a ti ri, nya nna le, a vu bu zu",0.9667,0.2549
+601,"Naawen ale basi ate fi dɔkdemma a ta nalima yegayega, dii nyiŋla fi ale a kpaliŋ wa kpaliŋsaŋ.","Na wen Allah basi atifi, dogo demma ata nalma yiri yiga. Denyila fi ala kpali kpali",0.9444,0.32
+602,Ni be wom Wen niauŋku wie kama ti tomteerɔ choawa jigi.,na wuna wuniyan ko,1.0,0.8182
+603,Ni wanyi mɛ la a kan gaam yenni tuoku a nyini peelim ate ku ga paari saluik.,"N'awụnyemela, akam ga-anọtuo k'anyị nụ pielụ atụkọga Paris, Salut.",1.0,0.3729
+604,"Ba an ko tɛŋsaŋa nuruma ase Naawen ale weeni ba diila, alege a gum chaab ale tɛŋsaŋa a maara nye ba le a nye ba wie diila.",ba'anko tunsunga nurma asina wi alwiin badila alge agumchap altunga amaranye balaye anye bawe dila,1.0,0.3085
+605,Alege ti a saalim ni ti Naawenni Yeezu yuei nyiŋ ayen ni kasim ŋman a va wa dila nalimnyiini a gum du.,"alegita salani, tunyunuwa yesu wenyin, ayen kasenman afawa dila nali nyini agundu",0.9091,0.35
+606,"Wa jam bo ale ka Deevid Pas Dammim po, ate Filistia demma a tigsi dula a magsi kpaliŋ la.","O jambo alika David, pasa mpo, ate Felicia deme, atiksedula, amasekwa",0.9474,0.3478
+607,"Sak mu dii ate mi an baga a nya la, ase m dan nye kaasi, m kan ŋman nye dila.",Samedi atmi an baga anyala ase ndan nye ka ase nka nman nye,0.75,0.2182
+608,Ba gela ale ta nyuvu woŋ alege ba gela nya chivie ale ninam buui ale kan ta kpeglimka la.,"Biko aleta, unu vuo aligie. Biko anya chivie alili na mbuo a, alikanta kpele nka",0.9474,0.3571
+609,Nuru wala ba yeeri wa a ta nyini Izirali demma po a nyini.,Nuruwala bayerewa atanyi Israel de ma po anyi.,0.9231,0.2444
+610,Ba yaa jam cheŋ a ga kpesi nya tɛŋka a nyini Zin Gɔnni po a ta ga paari Areyob a tuk Lebo Yamat tɛŋsaŋa nyiŋ.,"Bịa ya jụọ ajụjụ, a ga-ajụkwa gị ya. Ajụjụ a bụ nke mbụ a na-ajụ gị. A rịọ m atụle gị ya ma a tọọ gị ụtọ.",0.96,0.7143
+611,"Vari mu m dacha sii nyeka ale tua la a basi, vari mu nicham pagrim po a basi, baai ale kan maara a weeni wensie alege velim a pɛ.",,,
+612,Ku a fɛ ate m cheŋ dula jigini ate ŋa wom mi lueluku ate ŋa baga a va mu.,"kafe, atị nchọndụleji nị, atị ngwa mị lịlụkọ, atị ngwa baga, afa",0.9474,0.5185
+613,<<Yaali siik daata a nye kuŋkuŋ a magsi ŋan baai nyum ale masa la juka.,"Yalasi data anyị kụnkụ. A mịsịghị m baa nyụọ, alụmasịla jụọ",0.9333,0.463
+614,"Mi yaa tom a tulisi wa ayen, <<Wari an nye ase fi ale a weeni diila, ka fidek ale a poli dila fi zukku po.","Mère Tom à Tulcea à Yen. Ouais, elle a une idée là. Café des. À la pôle de là.",0.92,0.5974
+615,Ti ti nye ka sɛ a yi Naawen yiila tɛŋ chaŋka po?,"Tụtinye ka sị, ayị na-ewị ịla tịngchanka.",0.9167,0.4167
+616,Livaima ba an jam chiini ba a gum Izirali dem mbala po ase Naawen ale jam weeni Moosis diila.,"Levi ma, ba njin chini ba, agum Israel dem mbalapu, asi na wen alija weni Moses",0.8947,0.3108
+617,Bala a jam le Biio nidoabinni Bela waai tɛŋ kpieŋ yuei ale chim Dinyaba la.,"Bala ajamle, biyo nu do bene, Bala wa teng puen we ale chem te ya bala.",0.9333,0.35
+618,Ku be sum chim ka wensie ayen ŋa ka Wen dek wie.,कलेसन टिंका वन्से अयन अकाना वन्दे,1.0,1.0
+619,M be ŋman a saalim ayen ti Wenni ŋmanteka a bo ale ni.,"Mba mụ asala, a ga m a wụnye aka abụọ n'elu.",0.9231,0.6098
+620,"<<Ni le nye ka sɛ ayen, <Tama ka tugurik tɔŋdɔba, nuru tuasa kpaliŋ po?",Négné kassé ayin tamaka tuguru tondeba nuru twasa,0.9286,0.4231
+621,"Daa ayen ka nuru bisa ale a gebi ba yoaŋa diila, alege ka Kirisitawa dek ale gebi ni yoaŋa.","Daayen kanu rbisa, ale gabe, biba'a diila, ale ka krista waade, ale gabe, meba'a",0.7895,0.2958
+622,Ni be pii nyiŋ meena ate ni boro ale masim ale waai meena.,neve pinyin miena atenu boro ale masom ale wa miena,0.7692,0.2222
+623,Juda Livaima beŋsaŋa gela a jam bo ka Benjamin.,"Gudali vama, benge na gala ajambo ka benge me.",1.0,0.2895
+624,Wanni a jam bo ale ka Wen a nyini piilimka.,Wani anyim kasim jam bol kana won di,1.0,0.697
+625,"Sarai yaa weeni Abram ayen, <<Fi ale soa kaasuŋ kuui ate mi a namu nna.","Sir, a na-ewena bram, a ya emewu alusọ ka asụ nkụ a na-eme anamụna.",0.9333,0.434
+626,Sinsak sagrɔma ale Farisiima yaa yik nipok ale wa boro a nye kaboŋ a ta wa jam zaan ba suŋsuŋ.,"nsa nsawroma, aleparisi ma aya yimpo wanyi ata jamzani bamelele ba ja yimpo wode alewa boro anye ka ka bon. Baye ale tawa jamla aya",1.25,0.8108
+627,"Ni kum dapaalika nyiŋ, dii nyiŋla ba chiak bu a nyini ni nɔngbanvaataŋa po kama.","N'ụkwụ dapụrụ aka, nyịng dị nyịngla. Bịa chiabo anyị nị, nị na gbamgbam faatụrụ pụ ka",1.0667,0.5312
+628,">> Dila nyiŋla, ase Abrayam ale jam ta siaka dii a nya niaka la, suik kula po mɛ, Wen a niak waai meena ale ta siaka ale wa la kama ase Abrayam la.","Jile nyi la, Ase Abraham, alijante siaka di anya ni akala sukula pome na we anyawa miena alita siaka alowala kama ase Abraham la.",0.8438,0.2018
+629,"Fi be ale pai ka mɛ a da la, ligraŋa mɛ daa fi ale soa?",adalah,1.0,0.8718
+630,Alege tɛŋka an jam soa dii ate ba meena a bo du ale chaaba.,aligatan ka anjansadi atabamena abodula alichaba,1.0,0.2889
+631,Wen a poom liŋ sugri ni suiniimaŋa kama ale wie ŋaai ate mi a sak ni la.,,,
+632,Wa nye ate si yiri a lo ba suŋsuŋ a gilim viitaŋa meena.,"Wanye ate siiri. Allo, basunsu agilinvite amin",0.9231,0.2558
+633,Daani kpieŋ ale za ka jam ti kpagni ale wa dɔkdemma zuk.,daniki ale zaka jam,0.8333,0.6364
+634,Maa ta daam liŋ geli a jam ase nyuka tiirim la.,Matadam lengale ajam asinyuka,1.0,0.4167
+635,"Yeezu a weeni ayen, <<Nya, m cheena ku kan beni.",I am the warm,1.0,0.8235
+636,"Javuk kuui ale saari siyewa la yaa weeni mi ayen, <<Jam nya.","Dunkai, alassane yawla, yaw wéne mi ayen",0.8333,0.5333
+637,"Ate wa bek Naawen ayen, <<Ka boa ate fi a ta daanika dɛ a jam fi yɔmawa jigi ya?","A tuwa beek, na wen ayen kaba a tefi, a ta daani ka de, ajamfi yomowa",0.8947,0.2241
+638,M le basi ate m nɔiyeŋka a chim nɔiyeŋ kaai ale kaa kpeglim mi ale fi ale fi ŋaaŋbisaŋa suŋsuŋ la.,le bassé,0.9524,0.9221
+639,Vɔŋ te fi nuruma baai ale nye biem a kaasi fu la.,vonté funérailles,1.0,0.7297
+640,Ba yaa zak garuk kuui ale bobi yiga ŋaaruŋku niŋka la ale ge ayen vioku fuk ku a basi niŋ.,"Bịa zaa ngarụ kwụọ, alị boba yee ngarụ kwụọ nịnkala alị gị bụ ịvịokụ fụkụ abasị",1.0,0.5571
+641,Wa tagri tintain busuŋ tɛŋsa ate si ta bulisa ale nyiam tɛŋ kosisa ate si ta beli naŋsa ate ŋa nyiam a chali.,,,
+642,Gersom ŋaaŋbisaŋa Subael jam le kpagi.,Gwa m ihe mere i ji wee sọrọ m jọọ njọ.,1.8333,0.9062
+643,"Ate Samuel yaa weeni Izirali demma ayen, <<Ni daa yaali ayen ni ŋmani Naawen jigi ale ni suiniima meena ni basi tɛŋ yonsa wena vaka.","a samaw yaa wene, Israel dema ayen, neda yali ayen, nman ni nawe njiri, alenu si nima miena, ne basi tenyuon sa wena",0.8,0.3077
+644,Ba yaa wɛ tɛŋ nummu parika a jo ate tugurik tɔŋdɔma meena a yiri chali.,"Baya wuya, tun mu parke a joro, atete guru tondama, me na hayir chale.",0.9333,0.375
+645,"Dai yeŋ ate naawa a yaa weeni Aspenaz, wa yenni kpagni, ayen wa lueri nuruba maga a nyini Juda naab dɔkku po, ale Juuma niŋdeerɔma po.","Dịka atụmatụ, a ya wele aspanas wele kpọọrọ anyị nwelu iri, nuru ba maka anyị na Judia na Dokupu, ala Juma na ndị dị ịroma",1.0,0.4667
+646,"Nipok baai ale jam bo Tuka Viuku nansuiŋku nɔi a tom la, nyaasuŋta ate ba jam pai nye ku kutuk mɔnuŋ chin kpienni ale ku kutuk mɔnuŋ jazaanimu.","na pobai, ari jambo, tuka viku na nsiku, nno atumla, nya asinta, ataba jampa nye, kutu mmonu, chin kwini, ari ko kutu mmonu ya zaanu",0.9286,0.2807
+647,Ka dii nyiŋ ate fi tom mi la ale la?,Tengkanur ma ya pis gama atifi akasba tomka. Da dladane fara ya wene ba alafe yoma atiba tom,1.8,2.1923
+648,"Wen yaa ŋman weeni ayen, <<Basi ate ŋan nyaksinta a bo wenzukku a gaari yok ale kantueŋ.","Nwanyị a maara ihe niile, a ga-emebisi atụmatụ ya, abụọ nsogbu a ga-arụ ọrụ aka ntụ.",0.9412,0.6324
+649,Wa baga kama a weeni juijui ate ti a nya si la.,wa ba ka ma awen jujui ate ta nyasala,0.8333,0.2
+650,"Pak wa, wa Wen maarɔma meena, pak wa, wa ŋan baai meena ale bo wenŋmazuk la.","Pawa, wọ wẹ́ málà m'á m'ínà. Pawa, wọ ngá m'bà m'ínà àl'bọ̀. Wọ mọ̀ zụgla",1.0,0.5789
+651,Mi sui an peenti ni tuka suŋsuŋŋa.,Moussa a pitié de Touka,1.0,0.7407
+652,"Maarɔwa jam magsi ka parika ate ka biglimu a chim ka anamagib kobsiye ale pinaanuŋ ale naaniŋ, a va chaab ale nurubiik magsika.",Yang maksi. Perkah asu alepum. Ammaksi dila. Ataka jule awunga naya yaga.,1.0,0.699
+653,"Biika ale ka biik diipo la, nuruba a nye wa ase wa ka yɔma la.",Bika alkabidi pula nurba anyewa asowa kayo,1.0,0.2826
+654,Alege ba biak nurubiik a te ka daanika ase bolim ale na a yiti wen diila.,"Alege babbia nur biik, atteka daanaka asubulum ala naayiti wendi",0.9375,0.2105
+655,Ba ka Wen tomteerɔba a tom ayen nalim jam ni jigi.,"Baka na wun tun tiroba, atom ayin nalom jamni",1.0,0.359
+656,Kude ale chim ka ŋmarisi kaai ale ka beni a te fi ale fi gaŋsaŋa.,"Gude alekin ka, marsa ka, aleka beni, atifi alefi gansan",0.8667,0.26
+657,Ni gebi ni yoaŋa ate ku a sak nɔiyeŋka ale bo mi ale fi suŋsuŋ la.,"na gọọmentị ụlọ anyị, atụkwasa nno ya aka na-alụ ọgụ mi, na-alụfesunsu",0.9375,0.68
+658,<<Fi jo ŋmoruk tana dɔk po a nya yaase fi nya ŋmoruk tana dɔk wa?,Fijoo mortana doppo anyaase fenya mortana do,1.0,0.3125
+659,"Abram le bo Keenan tɛŋka bena pi la ŋaaŋnyiŋ, wa powa Sarai yaa pai wa dɔkliewa Ejipiti denɔwa Aga a te wa chorɔwa ayen wa chim wa pok.","Abraham legburu Kanaan, tenka be na Pila, Nganyị, opowa Sera, ya apai, ụdọliwa, Ijipt, denwa, Aga, atewochorwa, ayinwa kinwa",0.9643,0.3585
+660,<<Mi le basi ate Ejipiti demma a lak badek a te ni ale jiirim ate ni daa basi tɛŋka abe ni kan cheŋ ale ni koruta.,"Le base atyi jidama, alarba dek, ateni, alijuma, atenada abase tenka, abenaken alinuwata.",0.9615,0.3953
+661,Budukta pi ale tiye ate ba jam pai nye biem tiirimu.,Boodu tan api alesi ya. A ta ba j'anpanye biem ti,0.9091,0.3659
+662,Livaima ale paari bena pisita yaase ba gaam di la ba jam chiini ba kama ate nidoama meena nɔi a chim tusa pisita ale naaniŋ .,le ba ma ale para be na pisita ya si ba ga andi la ba jen chini ba kama ate nu doma mi na nu ayi achim tusa pisita ale na nu,0.84,0.2121
+663,"Tama a bo ale ka fi, Jese nidoabili yaa!",tama abɔ alikafe,0.8889,0.6
+664,Koyat nidoabilisaŋa jam le Amram ale Izyar ale Yebron ale Uzziel.,"Kweya nọ na dubulu si na Jánle, Amram, Alé, Azíya, Alé, Yabọl, Alé, Yuzẹl.",1.1818,0.5
+665,"Fi a nya m peelim nyinika ale m duaka, fi malim chaab ale m nyeka meena kama.",anya mpiere nyi nka alu ndu aka. Fimm alu ncha alu inyeka mii na ka,1.0,0.339
+666,Malluk dɔkdemma po jam ka Jonatan.,maluk do demapo i janka jonata,1.0,0.25
+667,Merari nidoabilisaŋa jam le Mayali ale Musi.,"Mma ra re, no double, si nga ja le. Mma ya le. A le.",1.8571,0.4595
+668,"Ku vuusumu a fuk ka bolim kaala a tɔti, ate bolim ŋiak a nyini ku nɔnni po.",Kuvusumu apuka bulin kala atati ati bulin yak anyini kunanu,1.0,0.2982
+669,Ka boa ate nama a kan chali yɔgsum ale biisi m tomteerɔwa Moosis a kaasi?,"Kaba a tinama akan kyale yosom, ale bise ntomtiro Moses aka se",0.9333,0.3448
+670,M Ko Weleŋa a nya ba zuk nalimnyiini ale fi pagrimu ate ba chim bunyi ase mi ale fi ale ka bunyi diila.,"अन्याबाजू नालमिनी, अल्फे पारमो, अतेवा किंबुनी, असमी, अल्फी, अलकाबुनी डीला",1.0,1.0
+671,Tama a kan wom yɔgyɔgla de ayen nama mɛ a nye gaasaŋa de meena a ka wensie ale ti Wenni a faari tɛŋ yonsa lieba!,"Tana akan wuni yau yau lade, a yau na mame, anyi gasa da miya na, akan wuni, a letu wuni, afare ten yau sa leba.",1.0,0.3793
+672,>> Samuel yaa weeni Izirali demma ayen waai meena a kuli.,Samuori a wee na-enra dama a ya na waamị na akwụlị.,1.1,0.4545
+673,"M le basi ate fi ŋaaŋbisaŋa a piisi ase tintain busuŋ la, ate waai a dan baga a chiini tintain busuŋku, wa le baga a chiini fi ŋaaŋbisaŋa.",Ndi ba si a tu fu nga mbu si nga a pi si a si tin ta mbu su la a tu wae a da mbu ra a chi ni tin ta mbu su ko wae ba ra a chi ni fu nga mbu si nga,1.4643,0.3611
+674,Jazaanimu ale ku daataŋa ale ku ŋantaŋa meena ale Wen niŋ boroboroku.,"ya zaanu, alu ko daata nga, alu ko nganta nga miina, alu wonni borbor",1.1667,0.386
+675,"<< <Yɔgyɔgla de cheŋ juijui ale bo Siilo la juijui ate mi liŋ nyeboka jigi m Yuenni nyiŋla, a nya m le nye jigini dii, m nuruma Izirali gaasaŋa nyiŋla.","Eyi olade, chee ji ji alu bu si lo la, ji ji na tumillu ya bu ka ji gi, inwe ni nyin la, anya elinye ji ni di inurma Israel ga asi na nyin la",1.1724,0.3276
+676,Ku danni mɛ dek ale jam paari ate baai ale ba ko ni la a poli ayen ba a tom ka dii ate Wen a yaali la.,"Kwadano mai doka Alhaji Jafaru, a taɓa ai aliba kwannila, a pule, a yin ba tom ka ji, a ta na wuna ya alila.",0.8889,0.4133
+677,Nuruwa dɛ a jam faari ka Gilead denɔwa Barzillai lie ate ba yaa a deri a wi wa yuei dila.,"Nduwade, ajamfarka gelet denwa. Bazilai hle atubaya adire awi waye",1.0,0.3333
+678,Alege jigi ate ba paari dɔkku tɛŋka la gbeŋmaŋa a poom labi ba ka gela gela.,"Ouais. Allez, bon.",1.0,0.9
+679,"Mi, fi tomteerɔwa ale cheŋ a ga kpaliŋ ale Filistia denɔwa de.","A na-akpọ ya Betlehem, akasị m anya okwu pịsị na ala mmalị.",1.0,0.7959
+680,"Ka wensie ate nuruba weeni nya kude, ku be magsi ka nuruba siak nalimnyiini ayen ku ka wensie.","Ka wunse a tunur ba weni nyakore, ko bi maasaka nur ba siyat naali nyini, ayen ko ka wunse",0.8889,0.2667
+681,"Bu ka nyum masik, tiirim buui ate ba ju ale bolim a te Naawen.",bokan yu masek kirin boy atabaju albolom atenawe,1.0,0.2979
+682,Ba sue an peenti ya dii nyiŋla ba jam ta ka sebchakka.,Ba suye ampiye di nyula ba jamta ka sauka.,0.75,0.3571
+683,"Alege m baga a weeni kama ayen, m nyiŋtuilaŋa jam daani ni kama alege, ni jam tagri mi zuk kama a nya ninam m tuemu nyiŋ.","Alege, mbaraga, awi ni kama ayin nyin cilina jam danini kama alege ni jam tare mazu kama anyaninam ntyo mu nyin.",0.6923,0.2151
+684,Ba kan nya ŋanjaksa wensie a vari ba a basi.,"Makanya ngajak saya ngunci avanza, abas",1.0,0.4706
+685,"Izirali tɛŋ sii ale jam bo Ekron ale Gat suŋsuŋ ate Filistia demma jam tuesi soa la, a ŋman jam chim ka Izirali tɛŋsa.",Israel ten si ale jambo ekron ale gat sunsun ate philista dema yentui sosala anwanja nchim ka Israel,0.75,0.3333
+686,"Solomon yaalika yiilaŋa ale nna: Basi ate wa gbaari mu, diila wa yaalika a zunchoŋ daam kama.","Solomọ yálà kí yí lẹ́ àlínà, bàsè àtẹ́ wọgbàrọ́, dílà yálà ka àzùnchọ́ndáàmù ka",1.0,0.5676
+687,"Jeyoiada nidoabinni Benaya ale jam a nya Keret ale Pelet demma zuk, ate Deevid nidoabilisaŋa a jam chim kpaga a tom ale wa.","Jeyo ada nụ do beni, banaya, ale jam anya, kere ale pelete de mazu, ate David nụ do bụlụ sịnga ajị nke nkwaghị atọ m alụwa.",1.0,0.303
+688,"Pimpauk a nyini Zayon a cheŋ Naawen jigi, waai ale bo Jerusalem la jigi.",Pimpak anye zayo acan nawin jiri wa albu Jerusalem la jiri,0.8571,0.2807
+689,Ba le jam se Yebron la ku paari ka bena ŋayopɔi alege ate ba se Zoan ale bo Ejipiti po la.,"Aleejancee ya buru la kupaara ka be na-ayokwa ya, alee gi atiba ya ise. Zuwon alee bu Egypt lapo.",0.9524,0.4928
+690,Ba abe jam yik Juda demma a nyini ka badek tɛŋka a ta cheŋ.,ba abijam yuguda dima anyinika badirinka atachi,0.9286,0.2889
+691,"A ta va chaab ale yam wie, wa nya ayen ba yammu a gaam sampopori sii ale bo wa tɛŋka po la kama ku naŋ tuok nɔi pi.","A ta vacha, ale yamwe wanya ayen, be yamwe agan sampu porisi ale gbo wotenga pula kama",0.7857,0.3488
+692,Ni be kan pai ni nyiŋsaŋa juijui ya a te biem ate bu nye ate nyiŋka kabta a tom tuimbaata.,"N'ebe nke a, anyị nụsịrị olu olu ya, atụbịa ma atụbụnye ya, atụ ndi nyịka kapịta atọmkị mbata.",0.95,0.5571
+693,"Wen maarɔ waai ale a saari banuwa la, a yaa peeri wa damuniŋka.",barka charka sabin lawa alasa banu ala aya firo wada,1.0,0.6122
+694,Ka labsimu ale ka juelika a jam soa ase ka dila la.,कल आप सुबह अलकजुअल का अजम स्वास्थ्य का,1.0,1.0
+695,Adonikam ŋaaŋbisaŋa a jam ka kobsiyuebi ale pisiyuebi ale bayuebi.,"Adonikam, ngambis nga, ajamka, kopsi yuebi, alpisi yuebi, alba yuebi.",0.9,0.1429
+696,"Ba po biik paali sii ate ba jam lueri la ale, Daniel ale Yanania ale Misael ale Azariya, ba meena a nyini ka Juda buuni po.","Bụrụkwa ndị bi ebe a bụ ndị si na ezinụlọ Daniel, Hanania, Mishael, na Azaria. Bụ ndị ezinụlọ Juda",0.9231,0.6105
+697,"Deevid yaa bek Wen ayen, <<M ga siti Filistia demma?","David yaa be gween ayen, ngasiri Philistia dem",0.8,0.2564
+698,"Alege ni suiniimaŋa ku a fɛ ate ni pa ŋa meena a te Naawen ti Wenni, a boro wa ŋmarisika nyiŋ abe ti a va wa wieŋa, ase ku ale ka dii vaaŋa de la.",Alge,1.0,0.9633
+699,"Naawen a lueri Jekob ayen wadek soa, Izirali a chim wa tuilum jaab ate wa tara.","Na'un alheri, Jacob ayin waddak sa. Izra'a chim watulum ja'a ate wata.",0.875,0.2742
+700,"Alege ate wa tulisi ayen, <<Aaya, m kan cheŋŋi.",ta malinyi fo a marse na win a pulu ka wa mansa ala isra'ila damma ala gi to tulsi ayen aya nka,2.3333,1.6471
+701,"Nuru waai a dan nyiem jam ni yeeŋa, ni tuesi wa nalimnyiini.","Nuruwa adanye njam, ni yenga ni twesuwa nali nyi",0.8333,0.2766
+702,"M Wen yaa, kpesi a nya mu, a seba m popolaŋa, chamsi mu a nya, ate fi seba m popolaŋa.","Onye ya kwesịrị anya m, aseba m pupụlụ ya, chamsụ m anya, atụfụ seba m pupụlụ ya.",0.9,0.3548
+703,"Wa le biak Sɛla la ŋaaŋnyiŋ, wa nya ka bena kobsinaansi ale ŋata.","Onye aka be na, kwasị m na-asị, alụla",1.0,0.6667
+704,Alege mi a jam wom Naawen m Wenni kama.,alegemme ajawom nawe onweneka,1.0,0.3333
+705,"Naawen tomteerɔwa Moosis kummu ŋaaŋnyiŋ ate Naawen a yaa weeni Nun nidoabinni Josua waai ale pai a vi Moosis ŋaaŋ la ayen, <<Moosis m tomteerɔwa a kpi kama.","na ntụgharịrị Moses, ụmụ anyị atụgharịrị ya wee na Nụnnị Dọbị na Josuwa wee alịpaa ha vi. Moses na-ala anyị. Moses ntụgharịrị akwụkwọ",0.9643,0.544
+706,"Ni kan basi ate wabaata nya suik a nak ni yiagi, ni basi ate wamaŋsa nak wabaata yiak basi.",ne ka mbase a tuwa bata nya su an na ni ya re ne base a tuwa mang sa na wa bata ya base,1.1579,0.3099
+707,<<Aaron tuilum gattaŋa ka wa ŋaaŋbisaŋa ale soa ti a jo diipo meena ale magsi ayen ba kpiiri kpaam ba zuk a bobi ba ase kaabteerɔba la.,"Aromtu ilengatunga, kawongambisunga aluswa, tiajio dipumiena alu marsi ayemba kwiri kwam bazuk abobva asika atirbala.",1.0,0.3208
+708,Wa tɛŋka ka Jerusalem paalik kaai ate Wen ayen wa basi ate ka jam tɛŋzuk meena chum diipo la.,Wotanka ka Jerusalem paalka a tina wen ayen wopasi a ti ka janton zu miye na,0.7368,0.3919
+709,"Bisa, ku ka Kirisita bisa tuini ate ni kasim a zuli ni nyama, dii nyiŋla, dila a te Naawen ka popeentik.","Bisa, koka krisa bisa ciyine atin kasam azuli ne nyama. Dinyinla dila atin awe kapu pienti.",0.8095,0.25
+710,"Ba meena a cheŋ ŋmeriŋ ka nakpiak, ba meena a maa chaab a ka wensie.","Bammbina, a ce nwarin ka na kwiya. Bammbina, a ma ce a account",0.7333,0.5
+711,Wa kan basi ate m ŋman nya m vuusumu alege basi ate ka niniga a paari mu.,A ka m ba sị a te ụmụ nya m vụsụmụ alụghị ba sị a te ka nị nị ga apaarụ,1.0588,0.3571
+712,Nyenyaka dan jam ni jigi ni ta chichiiba.,Nyanya ka ada njam na jigi na tachichi,1.0,0.2121
+713,"Zɔŋku nɔnni limisidɔwa a nyiem ale kasim a lak ku nɔnni a te naapeerika ate wa jo a wi wa piisaŋa yueŋa ate ŋa a va wa a nyini, dii nyiŋla ŋa seba wa lueluku kama.","zọkụnnane, lụmụsụdọwa, anyị em alụkasam, alakụnnane, atena pịrịka, atewajọ, awụọ pịsịnga, wịnga, atena vawa anyịni. di nyịla, ngasaba olịlọkụ",1.0,0.4286
+714,"Ase Izirali demma ale diem jam bo gɔnni po la, ba yaa nya nuru ale wa boro yaali daata Vuusum Danni.","A sị Izrelị demma, alị dị ya njambe gwanụ pụla. Ma ya anya nụrụ alị wa bụrụ anyị alị data, vuuzum da",1.0,0.3718
+715,Yeezu ale wa ŋaaŋviirɔma yaa ga jueli kala guuk kunyi zuk.,Yesu a le wa nga birima a le ga pare du la jikina la ba ya a ga jueli a kala gu ku,1.8182,0.7872
+716,"Ni kum ŋankpaantaŋa nyiŋ, dii nyiŋla kaduksaŋa ate ba a che ŋantaŋa du la a kaasi kama.",n'ụkwụ nganị. Dị ịnyịla ka dịgụsị a atụba ịche nganị dula akasị ga,0.9412,0.5362
+717,Joiarib dɔkdemma po jam ka Mattenai.,Jare bdo demapo janka ma,1.0,0.4333
+718,"<<Mi ta ka wie nna yegayega ayen m weeni a sak ni a gum du, alege ŋa zuak kama a gaam ni womka.","Bhetakawu enayi yira, anyi nwuene asane agomdo. Aliranga juakama aganu wom",1.0,0.4493
+719,"A nyini Kis po, Kis nidoabinni jam le Jerameel.",anyi ni kee ispo kee isi na double ni jali jere ya mere,1.4444,0.4054
+720,Baai ale jam bo Wen yenni po a tom la a jam bo ka Ofel guuku zuk ate Ziya ale Gispa a nya ba zuk.,ba'a ale jambo wenyenepo atom la ajambo ka ofel gugu zuk atezia ale gespa anyaba,0.76,0.1389
+721,Padiaka ale nna a magsi kaabteerɔwa bobika.,Bịa ka a le na a masi ka a chiro wa,1.4286,0.4722
+722,"M Kowa a yaali mu, dii nyiŋla m le kasim gomsi magsi ayen m kpi la.",kowa ayalemu ji nyela lekasan agomse amase aye,0.9375,0.44
+723,"Ase ba dan pai nuru ayen wa a nya piisaŋa zuk, abe ba a tuni wa, wa kan nya ŋa nalimnyiini.","A si ba na m panuru, anyi nwa ya pii na zu. A be ba tuni wa, o ka nya na nalu nyii",0.9048,0.3088
+724,Wa le lueri ni gela ate ba a nya tugurik tɔŋdɔba tusidi tusidi zuk ate ba gela a nya tugurik tɔŋdɔba pisinu pisinu zuk.,,,
+725,Ate ba kum a wi Naawen ba daanika po ate wa ta ba nyini daanika po nyini.,"Atabakwu, awi nawe? Adaa nkapu, ato taba nyine, daa nkapu nyine.",1.0,0.2679
+726,Tɛŋka an doa daa mi ale fi meena niŋŋa?,"Danka and Dada mi, alifimina",0.8889,0.4333
+727,Ni kan te ni sue a kaasi ale Naawen mariŋka ka ni pagrim.,La chanteuse à case à la marinka,1.0,0.6591
+728,Ku tua kama ale waai ale vari ti Izirali wen kpiemaŋa de jigi a basi.,"Kpotakwamma Aliyah Aluwarty, Israel, wee kwụọ mụ na ndị ji rị abalị.",1.0,0.537
+729,"Deevid sui yaa jam puuri dii nyiŋla Naawen suipuurumu ale jan jam Uzzaya zuk la, a ta jam paari jinla danni dula yuei ale Perezi Uzzaya.",David su ya jam pure. De nyin la na wun su pur mo ale ja jam Josiah su gula. A ta jam pare jin la da ni du la we ale pere zi Josiah.,1.0385,0.3394
+730,"Ba jam ŋmarisi Wen Gbaŋka po ayen, chum diipo ku le jam chim ka nuruba siaka ale wa nyiŋ ale ku basi ate Naawen nya baai ale kan daa Juuba la ayen ba ka wayɔrisima nyam.","Gajamarse, na won gankapo ayin chin jipo kulijan chim ka nurba shiaka alu wanyin alu kubasi ati na won nyabai alu ka ndajubala ayin ba ka waya risimanya",0.8889,0.2424
+731,"Wa kowa yuei jam le Abiel, wa kokpieŋka yuei jam le Zeror.",Okwu ya jere abuo. Okwu nke ya jere zero.,1.0,0.6222
+732,">> Alege wanni ale ka diila, sinsaŋŋa ka wari a nye ale waai a nin ta siaka ale Wen.",,,
+733,"Daa maga ale taam la, ate Sifas yaa jam Antiok.","Damara, ale tamla ate pita ya jam antur.",0.7,0.2778
+734,"Ba le nye ni nyaŋa de meena, dii nyiŋla ba zɛ mi yaase m Kowa.","Bà lẹ nyene, nyanga de miena, di nyila ba zeme ya se nkọ.",0.8667,0.3261
+735,Nuruba baye ale jam pai yɔn fi gilima a yik diok nyiŋ a ji ate di bo ba suŋsuŋ ale yɔn kpieŋ gilima ale kiŋkama.,"N'ụbọchị ahụ, ale jụmpụrụ, yọ mfe gịrịma, anyị udiok, nyịn, ajị, atedịbọ, basụnsụ, ale yọ kịma, gịrịma, ale kịnkama.",0.88,0.4713
+736,<<Yik padiak m kala ale Aaron ale wa nidoabilisaŋa ate ba le pai nisa a vi ka zuk.,yupadya nkala ale aro alonu dobilisina atibale panisa,0.9444,0.3871
+737,"M le bo vɔrumu po la, m wi wa a bek maarika, ate fi wom m kumsa.",le beau worme pala ouwa avec maarka,0.9412,0.6444
+738,Ba jam yik maarɔma kama a zaani ayen Wen weeni dai dii danni ate ba le tom ba tuimaŋa la.,,,
+739,Ni a teeri chɔrimaŋa ate ba pai bobi mu la wie.,"Nna chere, chere mụ a, a tabakwala bọbe. Mụ na",1.0,0.5556
+740,Baai tɛŋ po ate ba jam ko nuru baai ale kan nye wari a kaasi la.,"Baye, tempo atiba jam. Okunuru baye alika nye ware aka",0.875,0.3542
+741,Pi ale buyuebiwa po gbaŋka a lo ka Yanania ale wa nidoabilisaŋa ale wa kobisaŋa zuk.,pe alu wụ ya wọpụ gbanka alụka ya na ania alụọ nụ dọbụlụ sị nga alụọ kọbụ sị nga,1.1875,0.5147
+742,"Wa sak wa suipuurumu nna yegayega ale ba, ale basi ate wa suipuurumu a siŋ ba zuk, ate Wen maarɔ boari a jam ba zuk ale kaasuŋ.",N'est-ce pas?,1.0,0.9286
+743,Wa jam kɔlim ka ŋanta nna yegayega a nyini tɛŋka po.,"wajan kwallon ka, nanta na yage yaga, anyi nite nka",0.9091,0.3659
+744,"Naawen a bo ka wenŋmazuk a nya saalɔ bisaŋa ase waai a boro a miŋ ya, yaase waai boro a gisi Wen yaa.","Naa wee, abokawon ma zu, anya sala bisin a, asu wae, aburu aminya. Ya suwa buru, agi suwa ya.",0.9565,0.3117
+745,"M le niak wa, abe m basi ate wa biak nidoabili a te fu.","Nne ya wa abughi mbasi, ato bia, nudo biri ato",0.9286,0.475
+746,Sɛm ale Yɛm ale Jafet buuni wie ale nna.,"Sam, Aliyam, Alijafet, Buniwe, Alena",1.0,0.2258
+747,Ti jam te ni ka nyiŋbiiri ale deŋsi ni kpa ale maari weeni ayen ni a tom tuim ŋaai le ŋa peenti Wen sui la.,te jante na ka nyen biri ale den se na pa ale ma weni ayi na tum tu ngayi le na pinte na wunsulu,0.92,0.378
+748,"Ni dan ŋman nye dila, ni le ŋman chim ka si yɔm.","N'damagné dila, n'lamagné ciom kasu yuwa.",0.9167,0.4857
+749,"Ba yaa jam ta Ester a ga te Naab Ayasuerus wa yenni po, chiisa piika po, Tebet chiika ale la, wa ale dɛ wa naamu a ta a ga paari bena ŋayopɔi wa po la.",Baya janta esta. Agatena ayozaros woyenufo. Shisa pikapu tabetshika alela. Wa alede wonamu ataka pare bena,0.9429,0.3717
+750,Deevid a jam maa nya pagrim Moab demma mɛ zuk kama ate ba siak te wa a tuni lampoo.,David Agyemang,1.0,0.8438
+751,Ba nye ka nwuli a basi dii ate mi a weeni ba la ale nye bɔgluk ase naabiik la a te badek.,banyekam wuli abasidi atema wienbala alinyebulu asina bila atabade,1.0,0.2239
+752,"Naawen yaa, mi a wi fu kama a yaali maarika.","Nawa ya, me awufu kama aya aluma",0.9,0.3636
+753,"Dila nyiŋla Moosis yaa kaari a te Naawen ayen, <<Wen yaa, tebi wa.","dila, nyi la Moses ya kaare atina wen ayen wen ya tebwa atina wen",0.8462,0.3265
+754,"Fi naapeerisaŋa ale jam bo le ti la, ti an nye ba wari ya.",na piri senga ale jambo ale tila te nyeba,1.0,0.4186
+755,Be ka ni siaka ale Wen pagrimu ale soa diila ate wa nak wa yiti kum po la.,Dukan isiyaka al'umman farmu al'umma jila atuwanna wa yitukumpulu,0.9444,0.375
+756,"M dan jueli wenŋmazuk, fi bo ka dula, m dan siŋ tɛŋ a duak, fi bo ka dula.",Ndan juel wenzuku fu boka dula ndan sinten aduya fu boka dula,0.8889,0.2642
+757,Ba jam maa gum ka tugurik nyama po baai ale jam maari wa kpaliŋ ka po la.,"Aja ma gumka, tuguru nyamapo bae, aleja ma wakpalenkapo",1.0,0.2679
+758,Ti meena yaa jam siak ayen Banabas ale mi a maa chaab boro ale nuru baai ale kan daa Juuba la a tom ti tuimaŋa abe ba mɛ bo ale Juuma a tom ale ba mɛ.,"Tụrụ ime na-adịghị mfe, a ga-emba na baasị, alụmị, amacha, bụrụ alụrụbaya, alụkanda jụọ bala, atọm tụtụmụga, abịba me bo alụjụma, atọm alụbame",0.9444,0.4211
+759,Buyuebiwa po ka Attai buyopɔiwa a chim Eliel ate Joyanan a nye naaniŋ.,"O wee bụọpụ ka a tịa, o wee pụwa achịmụ elele. A tụgharịa na anyị na-anụ",1.0769,0.5263
+760,">> Dila nyiŋla, nuruma meena a yaa jam yeeri ba tukpanaŋa a ta jam te Aaron.","De la niña la, lo rompió una a ya ya yére. Patukana a ta jam te aaron.",0.8,0.3684
+761,"Dila nyiŋ, ku a fɛ kama ayen fi tagri fi popola baataŋa de abe fi puusi ate ti Naawenni a vɔŋ a te fu fi ale poli wanni de choawa la nyiŋ.","Déléguer, quoi faire comme rien, fêter, f",1.0,0.8571
+762,Ti jam ka suipeentik dai ta jiirim ale m nuruma.,de janka,1.0,0.8684
+763,Bi kpesi fidek ate fi va sinsaŋŋa meena ate m tomteerɔwa Moosis a te fu la.,,,
+764,Ammiyud nidoabinni Elisama tiirimu a jam le la.,"Ame yune do beni, elesa ma tirmu ajalele.",1.0,0.3077
+765,Suik karo ate ni baga a bo nuru tomteerɔ buusa.,"Shikaro, ateneba abonu donchiro busa.",1.0,0.3784
+766,"M nuruba, ni wom m sinsaŋŋa ni chelsi wom m nɔi po wieŋa.","N'urba, n'uwom nsinsan a, n'Chelsea, wom nnopowien",0.9231,0.3256
+767,"Yeezu Kirisita waai ate ti a nya ale ti nina la alege an baga a nya Wen ale ti nina la, a neensi ka Wen dek waai ate ti an baga a nya wa la.",Jesu Kristi wa atitanya ale tenena la ale gamba anya na we ale tenena la anyi Jesu ka na we dodo ga wa atita mbara anya wa,0.8286,0.3942
+768,Kude ale chim ka ŋmarisi kaai ale ka beni a te Izirali demma ale nichamma ale bo ale ni la.,"Kude alikim kan marsa ka'i, alikabeni ate Izra'a dama, ale nikyama, albo ale",0.85,0.2958
+769,Biem a kan maa paari ni ase m nin boro a kaasi Ejipiti.,Yaam akam maphare ni ase nimboro akase Egypt.,0.8462,0.3571
+770,Wa yaa yiti zaani a tuesi soka.,anyi?,1.0,0.875
+771,Wa ta pagrim kama nuru baai zuk ate mi a nya la.,Pataparan kema nur bazuk at manya,1.0,0.3333
+772,"Wa yaa basi ate ba daaŋa chim kinla a te ba, ale basi ate ba benaŋa po ba yɔgsa.",,,
+773,Berakaya ale Anatot denɔwa Jeyu jam gum du kama.,Barakallah aleh anatot.,0.8889,0.6923
+774,Ku jam daani Deevid ka nna yegayega diila nuruma jaa biisi kama ayen ba le yuk wa ale tana.,Oya nda na David ka na yoyira. Dila nuruma ja bisikama ayen balu yuwa ale tana,0.7368,0.2639
+775,Obed Edom ale Jeyia mɛ a jam maari a nya ka dakanni nansuiŋku.,A na-ejikwa ya mee ajam mara anya ka daka ni na nsị,1.0,0.4694
+776,"Dila nyiŋla, waai a dan ta yaalika wa va Sinsaŋŋa meena kama.",yaya,1.0,0.9167
+777,"Wa jam ka baai ate ba jam nak yik a ta nyini Jerusalem tɛŋka ate ka bo Juda po la wanyi, ale ka naawa ate ba a wi ayen Jekonaya la.",wa jang ka ba ataba jan na yi ka atanyi Jerusalem ten ka ataka bo Judah pola wanyi alka nawa ataba wi ayen,0.7419,0.2828
+778,Wa jam nyu ka daam buk ate wa sui a peenti.,À tout de suite à bientôt.,1.0,0.75
+779,"<<Mi daaŋa a kpabi a gaam waai ale a chali kama, ŋa kasim a yiti kama alege masim nna maga a karo.",Mị da nga akpaba ga nwayi ala chali kama nga kasị m ayịdị kama alị ga masị m nna mma ga akaro,0.9091,0.2466
+780,Wa kan begi ale a kaasi nuru kpientaŋa ale pai nuru yonta a zaani ba jigini.,"Wakanbe, alaka si nuru pientenga alpa nuru yonta azani ba jigni",0.75,0.2
+781,"Lalik kanyi meena yaase padiak, pabiik kanyi meena yaase buuk paaluk meena a magsi ni gomsi si nnala.",Lala kanyi miɛna ya se padiya. Babi kanyi miɛna ya se bupalu miɛna amase nu gɔmse si,0.8889,0.3537
+782,"Naawen yaa, ase fi a daa chiini wabaata a tara, M Nyɔnɔ, ka wana ale wa baga a zaani?","Na wuya, a siffi, a da'a cini wa ba ta tara in yino ka wana albagaza",0.7895,0.3175
+783,Ba le biisi fi tuim kpiema wari ate m mooli fi tuim kpiemaŋa a te.,Talbi se fitin kema ware atumole fitin,1.0,0.5098
+784,"Kauk kuui ate ba jam boro la, ba jam teeri kama a nyini Mesa a cheŋ Sefar kori geŋ ate guuta boro la.",ka kwi a ta ba ja mboro la ba ja ntiere ka ma anyi ni mesa aceng sefa kori gan a tu guta,0.8696,0.2857
+785,Yɔgyɔgla de nama a nye ate ka suipuurum yega a jam Izirali zuk a ta va nama ale a valiŋ Vuusum Danni la.,"Et vous, la dé?",1.0,0.9259
+786,Mi ale pai kauk kuui meena ate ni pai naŋ a tabi du la ase mi ale puulim ale Moosis diila.,me alepa ka ku me na atena panan atawdula ase me alepolim ale Moses,0.9048,0.3188
+787,Ate Deevid yaa jam ŋmasi pagra a gum du dii nyiŋla Naawen Dii Ale A Dɛ Tugurik Tɔŋdɔma Niŋ La ale jam bo ale wa.,A David ya jara ngbasa para a gomdu di nyingla na wen di ala detuguru tongoro man nyingla ala ja mbo ala,0.96,0.3908
+788,Ate m yaa ta buusa boka a jam Ejipiti wenaŋa meena zuk.,"A tin ya ta busa boka a jam Egypt, wuni na miye na zo",0.8333,0.3488
+789,"Ku le liŋ jam ka diila, ku kan ŋman nye dila diipo diipo.",,,
+790,Bilga dɔkdemma po jam ka Sammua.,Bilga do demapo yanka samu,0.8333,0.2692
+791,Wa jam nye zeuŋ jazaanimu zuk ka beerisa sinaansi ale a niesi almond puuta la.,"Wojanye zan, jazanu zu ka beresa sinansi. Alanesi alamon putala",0.9333,0.2698
+792,Nidoama meena ale jam bo Dan dɔkku la jam ka tusa kook ale pisinu ale ŋayopɔi ale kobsiyuebi .,,,
+793,Joab suoku Abisai ale jam chim Pisitawa kpagi.,"ga-abụ ya ka ọ abịsa ya aleja nchim, pụsịtawa",1.125,0.4737
+794,"Nyaataŋa a lik ba dachaasaŋa, ba wanyi mɛ la an vuuk ya.",nyata aliba da chaa singa bo nyimila,1.0,0.4419
+795,"Pai kpapalaŋa meena ale bo ponni po la, ju ale paŋni kauk ale yiimaŋa ŋayema ale kpapalaŋa a ju kuŋkuŋku zuk.","Pai, papai langa meena. Ale buponupula. Ju ale pangni. Kau ale yimunga ngayama. Ale papalinga ajukunkunkusu.",0.7143,0.2989
+796,"Dila Zerubabel ale Neyemia daaŋa po, Izirali demma meena a jam a cheesi ba danni po cheesuŋku kama a te yilendisaŋa ale nansuiŋ limisidɔma.","dịla, zerọ bọọbụ, alụ n'ehma ya daa ngụpụ, ịzịra demamịna, ajamụ achịesi, gbadane, pụ, chiesị nkụ kama. Atee yịle ndị sị gị, alụ na nsị yịlị nsị",1.125,0.4386
+797,M ŋman ka pagrimoa mi an baga a vuusi.,mme futomti rowa ma yale enye ka se abisi alufu inyona mme amanka paarma,1.4444,1.5517
+798,"Alege Naawen wanni de a jam mi jigi ayen, <Fi basi ate ka ziim a nyini nna yegayega ale kpaliŋ boari.","A na-ekwu na o nwere otu aja mmeji e ji anyị nụ, na ya mere a na-akpọ ya mgbe ahụ",1.0,0.6795
+799,">> Dila nyiŋ Yanun yaa yik Deevid nuruma a chiiri ba teeŋsaŋa, a cheeri ba gattaŋa suŋsuŋsaŋa po ba butagkolaŋa geŋsa a basi ba suik po.",,,
+800,Babilon tugurik tɔŋdɔma meena ate kpagni Nebuzaradan a jam a nya ba zuk la a jam wɛ parisaŋa meena ale gilim Jerusalem la kama.,Babylon to Jerusalem,0.9583,0.8447
+801,Manasa dɔkku genni nidoama ate ba te ba yueŋa ayen ba jam bobi Deevid naab la jam ka tusa pi ale naaniŋ .,Mana asadokoge nne nụ dọma atụba te be yuo nga ayen bajam abọbụ David Nawla jankatụsepi alenanu.,0.9545,0.3171
+802,Ba jam nye ka ligmɔniŋ ŋanyiŋta a magsi ti ale nye kpana gola ŋanaansi.,Bajan yaa kalu mmanu n'anyi yita. A masi ti alinyi kpala gwola nga n'asi.,0.8571,0.3509
+803,"Mi dan poom a cheŋ daanika po, fi lik m nyuvunni ta kama, fi teeri fi nisa kama a ta chaab ale mi dachaasaŋa suipuurumu.",Mida mpo ma ceng dano ka po. Pili munyu vuni takama. Fitiere fini sa kama ataca ale. Mida caa singa supuru.,0.92,0.2581
+804,"Wie ŋala chaab ase, suipuurum ale chaab kisika venta biisa ale bibuloarisa meena wuu a kan nyini ni nɔi po a nyini.",O n'ala cha asusu puru cha kusika 20 bisha. A lebebuluara ya na ime nwuu aka nyiri na nnoapa nyiri.,1.0,0.4348
+805,"Dila nyiŋla, ba yaa pai miik a bobi jaab dobruk nyiŋ a yaa basi ate ku siŋ nyiamu po a nya ale ku limisa ka nna yegayega.","Dina nyi ngala, ba ya pamik, abobija dworok, nyi aya basi, atokosi nyamukpo, anyalokulimisa kana yeye.",0.963,0.2796
+806,"Jigsirɔma a kan te a gaam dila, ŋanjaksaŋa mɛ abe kan te pɔsimu ase nama a nin boro a te Naawen ayen wa nye biem duisi basika ni nyuvooŋa nyiŋ.","Jesu rọma, akantị agam dịla, nga njasọrọ m, abụkantị apọsụmụ, asị n'ama, anị m bụrụ atị na nwanyị, ayị nwanyị bịa dịrịsị basịka n'ụnyọvụ nganyị.",0.9667,0.4196
+807,Ka dila ale soa ate mi a weeni ni ayen Wen Chiika ale wom dii ate mi a weeni ka la abe ka pai a sak ni.,"Kalla alissa, atama wenene, aina wankika, alawamdi atama wenewala abu wa fasa",1.0,0.4211
+808,"Dila nyiŋ mi yaa bek ayen, <<M nyɔnɔ, wieŋa de meena kiri ale boa?","Dịlịnyị, mụ ya abịa ayen, ụnọ na, we nga dị mịna kịrị alị Igbo.",1.0,0.4792
+809,">> Wa le weeni dila a ga nueri la, vari kpadiaka yaa deri kum.",Batawa aduagwa,1.0,0.8444
+810,Ba jam pai ligbie tusidi ale kobsiyopɔi ale pisiyopɔi ale ŋanu dobrim ayen ba nye ŋanyiŋta ale zaŋŋa ale taari ŋa ŋmanni.,,,
+811,Ate Naawen a yaa siŋ jam ba jigi ase chiŋmari la.,"A di na nwen, a ya si nja mma jiri a sechin mara",1.0909,0.2632
+812,Ba jam nyini ka meena ale ba tugurik tommu ale wusuma ale torokoba a piisi nna ase beli tintain busuŋ la.,na asibele tentambusuna,1.0,0.7976
+813,"Wusumaŋa zuimaŋa a jam a neensi ka gbeŋma zuima, nyuisa ale jam a nye se dubuulim ale bolim la nyini ba noaŋa po a nyini.",,,
+814,"Ase nuruma ale jam wom daanika wieŋa de la, ba yaa piilim a kum ba wanyi mɛ la an jam su nifelima ale baŋsa.","Asụsụ ndị bụ isi nke mba ahụ gụnyere Bekee, nke bụ asụsụ gọọmentị.",1.0,0.8313
+815,Berekiya ale Elkana ale jam ayen ba a nya dakanni nansuiŋku.,"Barka ya, Allah ya kana, Allah jam ayin, banya da kani na",1.0909,0.4286
+816,M ta suik a siak alege ta suik a zɛri alege m Kowa ale weeni ayen m nye dila.,"ta shuk, a shuk, a le ga ta shuk, a zere, a le gan kowa, a le wene, a yan yi da",0.9474,0.3448
+817,Wa jam chim Izirali niŋdeerɔ a paari ka bena pisinaansi.,Dilawajang pangkama ale bigi. Wajangkim Israelin diro aparka benapisinansi.,1.0,0.8043
+818,Seir nidoabilisaŋa jam le Lotan ale Sobal ale Zibeon ale Anaya ale Dison ale Ezer ale Disan.,"Si a na-edobe usoro a ji nri: Lutan, Ali Subai, Ali Zibian, Ali Anoia, Ali Disson, Ali Ezzat, Ali Dissan.",1.1765,0.44
+819,Dii nyiŋla wa jam ka koa yaa si ma.,,,
+820,Ba an lak ba suiniimaŋa a te Wen ya ba ka nimmuna ale nɔiyeŋka ate wa nye ale ba la.,Bà lặc bà sừn ni m'a à tò wè ya. Bà ka n'muna à lu na yèn ka à tò nyè à lu,1.05,0.5469
+821,Pisiye ale butawa po gbaŋka a lo ka Mayaziot ale wa nidoabilisaŋa ale wa kobisaŋa zuk.,"bụsị ya, alụọta ọfụgbanka, alụọ ka ama ya azọ, alụọ nụ dọbụlụ sị nga, alụọ ka ọbụsị nga zọ",1.1875,0.5857
+822,"<<Ase nidoa a dan nye kaasi wa vaanchoa ate ku magsi wa nye pɛka, ate wa jam a nye pɛka fi kuŋkuŋku niŋ yenni de po be wom a nyini wenŋmazuk a nye wari.","Asi na ndu adaghi anyi ka asi, o bu ncha. Atukom m asi onye peka, atu m jam nye peka. Fuku nkuku nni, yie ni depo, bu wom anyi na onwe m zuk, anyi wara.",0.9706,0.3826
+823,Ba yaa jam gaari Abinadab nidoabinni Eleaza ayen wa a nya dakanni zuk.,"Anya m gara, abia na dapụ na ụdọ bini Eliazar. Anyị nwaa ya, dakanụ",1.0769,0.4386
+824,<<Nye biem duisi basika nanlikka ale cheri ligmɔniŋ.,ye BMD se basika na leka ale cere lewu mana,1.0,0.4048
+825,<<Nichaanɔ waai ale maa bo ale ni la a daa yaali ayen wa dɛ Naawen Gaambasika ku a fɛ ate wa gebi nidoama ale bo wa yenni po la yoaŋa.,ne cha na wae ali ma bo ande nla ada ayali ayenwade na wen ga mbasika kwafe ato gebi nu doma ali bu waye nu pula yoa,0.9667,0.2745
+826,Ku a nye nna ase ka Yermon maglim ale a lo Zayon Guuku zuk la.,Banye na aska yemọn maalum ali alọ zayọn gụkụ zụgla,1.0,0.3404
+827,"Naawen yaa pai wadek a sak Abram, a yaa weeni wa ayen, <<M le pai tɛŋka de a te fi ŋaaŋbisaŋa.","na when ya power dey as I burn, I ya we nuwa ayin nlepaten ka de atifun am pisin",0.9524,0.4638
+828,Kan baŋ tiirim buui ate Wen a pai a te fu diipo ate Wen biisiteerɔma a biisi Wen pagrim nyiŋ ate Kirisita bisa kpaŋŋa a yaa pai ba nisaŋa a vi fu zuk la.,,,
+829,"Abram yaa ta ŋantaŋa de meena a jam wa jigi, a gebi ŋa gela buye a yaa pai dueni a tuk chaab.",de akam paye fene talmu ale ge kanu do bidi alu wakim fedi zimla alu paye fene talmu na wen ya ta wa nyini pelim aweni ayi nza zu anya wemazu,1.4091,1.1429
+830,Naawa ale diem doa wa zukpaglika zuk la mi kpaamu nyummu yaa waaŋ jigini meena.,"Nawa, aliri m do, were zu kwalụ ka zula, mụ kwa m ṅụọ mụ ya ṅụọ, jiri nụ mịna",1.2667,0.4688
+831,"Alege ni dan nye wari kaasi, ni basi ate yɔgsum yik ni boan nyiŋŋa, ku daa kinla nyiŋŋa ate ba ta ba pagrimu.",አለገነ ዳኘው ዋርካሴ ንባሴ አቱ ዮስም ይግኒ ቦኚንኣ ኮዳ ክንለ ኝንኣ አትባታ ባፓርሙ,1.0,1.0
+832,Alege mi seba ayen Ejipiti naawa a kan te ni cheŋ se ka ni kpieŋsa a nin fɛ wa.,A ga-eme ya seven. A ga m eji ya nawa. Ka m tinye ya. Sai ka tinye ya a nụfụ,1.0526,0.6167
+833,Nuru meena ale wa yezuk ale wa dɔkdem.,"Ndu m yela, alowai yezu, alowa do dem.",1.0,0.3333
+834,Ku woglimmu a chim anamagib bunaansi ate labsimu a chim anamagib buye ate ku juelika a chim anamagib buta.,"Kụọlụ mụ achịm, ana m aghọta ihe ị na-ekwu. Atịla mụ achịm, ana m aghọta ihe ị na-ekwu. Atụkọjụrụla ka achịm, ana m aghọta ihe ị na-ekwu.",1.4211,0.6437
+835,Tɛŋsa ale nyini fi jigi ate nalima mɛ a nyini fi jigi.,"Tansa alinyini fijigi, atennal mame alinyini fijigi.",1.0,0.1905
+836,"<<Mi a yaali ayen fi lak nina a nya fi tomteerɔwa ale fi nuruma Izirali demma saalimka, be wom ba diipo meena ate ba kaari a te fi la.",me ayale ayen falat nena anya fitomtiro wa ale finurma Israel demma salinka buwom badipo mena atabakari,0.8966,0.2745
+837,Ni lak ni tueŋa a wom dii ate Wen Chiika a weeni Kirisita bisaŋa ale a tu chaab a bo Asia la.,,,
+838,"Ga vuusi, da kpeglimaŋa danni fi ale yiti a tuesi fi tiirimu.",ka vu si dakpa le mwa da ni fi ale yiti atwi si fetiri mu,1.0,0.25
+839,"Pai yesa a nyo Moab zuk, diila ka le doa kinla, ka tɛŋsaŋa ale doa koruk ate waai a kan bo si po.","Payer ça à New Mobzo. Dila, Kalouda, Kinla, Atinsinga, Aloudo Kor, Atouwaye, Akambo",0.9565,0.4583
+840,Waai ale ko nalim kpiema a lɔnsi la.,wa aluko nalunpima,1.0,0.5357
+841,Fi le ta jabuui meena la pai te ba ale fi biika Deevid.,Feletha ya bu miena la pataba ale Sebika David.,0.8462,0.3095
+842,"Yɔgyɔgla ate ti ta siaka ale Yeezu Kirisita la, sinsaŋŋa an ŋman soa ti.",Yo yo la,0.9286,0.9298
+843,Mi a puusi tidek toawa Perisis waai mɛ ale jam a tom tuima nna yegayega a te Naawen la.,ma pu cete d'etowa pereses waime alejam atomtuma neye yiga ate nyonu wala,1.0,0.3382
+844,"Alege yɔgyɔgla de, ku a fɛ kama ayen ni pai ŋa meena a basi.",,,
+845,>> Ba yaa miŋ ayen Naawen nɔiyeŋka dakanni ale ba ta jam ba jigini.,"Bayamun ayan na win, na yanka dakka ni, ale bata jam bajigini.",0.9231,0.2353
+846,"Abram ale nak Chedorlaomer ale nalimaŋa ale nye nɔiyeŋka ale wa a dɛ la, Sodom naawa a yaa nyini ayen wa tu wa Saveya Viaka po.",Abraham,1.0,0.93
+847,Dula jigini wa yaa tu Deevid ale wa nuruma a siŋ cheen wa jigi.,today with,1.0,0.8776
+848,"Naawen yaa, vari Naawa a basi!","Na wuya, bari na wa abasi.",1.0,0.2609
+849,"Nya kude ale nye la, alege Jona a daam nya ka ŋaaruŋku gugoruk po a doa ate goom a chiak wa.",nyakwede alenyele alagyeona adam nyakanarunku gogorupo adwa ato gom achiwa,1.0,0.2429
+850,"Naawen a jam weeni Abram ayen, <<Basi fi tɛŋka, ale fi nuruma, ale fi kowa dɔkdemma abe fi cheŋ tɛŋ kaai ate mi ale dak a sak fu la.","Naa wɛi, ajangwɛɛne, abram, ayɛn, basifitɛnka, alifunnuruma, alifukowa, dɔdɛmma, abifitɛn tenkae, atimi, alidak, asafola",0.9655,0.2959
+851,Ni kan basi ate ŋa chim wakayaata a te ni.,Na kam base atengachem waka yata atene,1.0,0.25
+852,Naawen maarɔ yaa nya Aga ale wa kali moata bulik gɔnni po.,na nwunye ya ya aga aluokalu motor buli gwanu,0.9167,0.4783
+853,"Ayeziron ale jam kpi Kaleb Efrata po la ŋaaŋnyiŋ, Abaija Ayeziron powa a jam biak ka Asur Tekoa kowa.","Anyi zoro alejangbe, kalep ife ratapola nganyin abiaja. Anyi zoro powa aja mbiaka aso tekwa",0.9474,0.3457
+854,"Moosis a jam ka nuru waai ale a yik wadek la, wa jam ŋmasi yik wadek a gaam waai meena kama tɛŋzuk de.",Musa ajanka nuruwaye alayi waddala waja masi yi waddak agam wa mi'ina kama tunzu,0.913,0.3333
+855,"Ba ale jam te wa soka a ga nueri la, wa yaa jam maa boro ale Filip a nya wakperikaliisa ale wakinkagla nna yegayega ate ku cha wa.",Balégan té wasuka aganwéla. Waya jamaburu aléfili atukukasin janchawa atuwéyanawé alépawa enyewépéri kalisa alowéngayé alasa yénawé,1.0,0.703
+856,"<<Pai gattiak kaai diak ale pagra la, a nye garuk kuui ate ba yɔk la ale zutɔk.","Pakka Tekay, Diak, Aleparala, Anyigarkuy, Atbayorla, Aluzutok",0.9412,0.322
+857,"Nama danyuirisa, ni yiti zaani a kum!",na m'adwen yire sa na yite zaane aku,1.1429,0.2759
+858,Tekoa demma a sɛ tom ba ale kpeglim juijui la a nyini yewɔŋku a ga paari Ofel jigini parika la.,"Tekwaa di ma, o setumbe, a lekwere m jụọ ndị ịla. Anyị na-eje nwụgụ, a ga-apara ofe ejigiri para ka",1.0,0.4667
+859,Ale pai ba tɛŋka a te ase nitalim la.,alfa batinka ate asini talun,1.0,0.3571
+860,Ɛlieza ŋaaŋbisaŋa Areyabiya jam le kpagi.,Elijah,1.0,0.8857
+861,"A nyini Isaka dɔkku, ba jam tom ka Josefi nidoabili Igal.",Joseph,1.0,0.9111
+862,"Ka boa ale soa ate fi weeni ayen, wa ka m toa, ate mi yaa pai wa chim m powa?",Kabba alusa atifi yie ni ayɛn woka ntua atimi apawa nchim mpawa.,1.0,0.2909
+863,"Ka wana ale baga a lak ku nɔnni, ale nyina ŋaai ale a nak kpaziim la?",कौना अलबगाल ला कुनानी आले निनुंगाई आले अन्ना कजीना,1.0,1.0
+864,"Yeezu yaa weeni ba ayen, <<Wensie ate mi a weeni ni, nama baai ale bo dela la, gela a kan kpi ka ni nin nya Wen naamu ale bu cheena ale pagrim.","Yes, ya wene ba ayin? Wene se atama wene ne. Nama ba alibodala gala akan pi. Asika baninya na wena mo alibokye na",0.9375,0.434
+865,"Dila powa, ni an jam moata Wen ya ate dila jam basi ate ni chim Wen dachaasa dii nyiŋla, ni jam a tom ka wabaata ale ta popola baata mɛ.",Dila pu dila pu na nja mwata na wenya at dila jam base at nichim na wenda chasa dinyin la ni jama tom kawa bata alitapu pole bata,0.8667,0.25
+866,Fi kasi mu kama ate mi an ko nuruba yaase m namsi nuruba jinla.,kama atame an kunurba ya se inam se,0.8571,0.5306
+867,"Dii nyiŋla ba ka siaka ale Wen ya, ba ka sebchakka ayen wa ale vari ba a basi.","Dila, bakassi ka alwena bakka seb chaka anwa alvarba abas",0.9444,0.2712
+868,"Mi kan yaali ayen m ŋman weeni ayen ni ka mi yɔm, dii nyiŋla yɔma a zɛ wa nyɔnɔ ale ta diila.","मैं अकाया ले आयन, अंगमा वेने आयन नेकामे चुनतोमदाबा। जीनीला चुनतोमदो अजोवा न्योनों अलेता जीला।",1.0,1.0
+869,"Ni nya de, dipo, ni jam pai ka nidek meena ase yɔm la a te tuimbaata ale gaasa tuima.",ne nyade dela po dela po ne jam paka ne deg mi na asu yom la ate tu mbata al gasa tu,1.0526,0.3906
+870,Yɔgyɔgla de ni yeeri ni nifelimaŋa ale baŋsaŋa ate m poli m le a yaali ayen nye ni diila.,"Ya Allah de ni yiri ni ne falen a, a le bangen a, a tumboli, n'a yali, a ye nyeni di",0.9474,0.4
+871,"Dii nyiŋla, Wen jam pai wa pagrimu a te mi kama ayen m chim wa tuimtomdɔ a sak nuru baai ale kan daa Juuba la ase wa ale basi ate Piita mɛ a sak baai ale ka Juuba la.","Dị ụnụla na nwunye ya bụ Paulina, atụmaka anyị nchim wụrụ ntọndọ, asaa nụrị baị alịka Nda Juvala, asị wọlị basị atị Peter ma asaa baị alịka Juvala.",1.0,0.4683
+872,"Mi nye tintain busuŋku ka bain a te nyakpiemu, taam wuu jakasim ate bu an baga a gaamu.",mị ya tị ntan bụ sịnkụ ka baị a tị ya kwị mụ tan wụ ja kasịm atụ bụ an baga a ga mụ,1.0556,0.3824
+873,"Dila nyiŋ Naawen sui yaa puuri ale wa nuruma, a kisi wa le soa baai la.",na wunsu ya pure alu nurma akisa wolesa,1.0,0.5
+874,Nowa nidoabilisaŋa jam le Sɛm ale Yɛm ale Jafet.,"Noa noa double zinga jali sam, ale yam, ale jafet.",0.7778,0.359
+875,"Wa yaa puusi a te Naawen a weeni ayen, <<Naawen yaa, daa m ni poom bo yeri a weeni diila ale la?","O wee a pụọsị, ha tenawen awenị ayịna. Na wenya, na nị pụọm, agbọyịrị awenị dịla, ala",0.9545,0.4571
+876,Sɔɔl jam diem ka biik a chim duerɔ a nala.,Chor Jandem ka big achim joro,0.9,0.5312
+877,Ti jam poom a yaali mɛ ayen ka ti pai tidek nyuvooŋa a te ni.,te jampou mayal mé ayanka te paté deuk niou wone atté,1.0,0.413
+878,Chichirik biok an baga a nye ate yeeba nina a lagri.,Kichiri biyo anbaranye ate yeba nina alagare,0.8182,0.2439
+879,"A nyini Merari ŋaaŋbisaŋa po, Asaiya jam le niŋdeerɔ ale suata kobsiye ale pisiye.",nyenimare ngambesengpo aseya jable nengdiora alosata kopsiye alepesiye,1.0,0.3731
+880,"Dila ŋanjaksaŋa a ta yiila kama, ate baai ale kan ta nyemagsika la a mum ba noaŋa.","De la nganyang sengha, a teyila kama, a tebayi alakanta nyimma sakala amum banuwan",1.0,0.3438
+881,"<<Wayɔrisima Koa, tɛŋzuk de demma a zɛ fu alege mi seba fu kama ate bade a seba ayen ka fi ale tom mu.",,,
+882,Woolika ale wom a nyini Zayon: <Ti le kaasi soa dii!,"Koolka aan uumay ninyo Zayon, tanikaa",0.9091,0.5385
+883,Yɔgyɔgla de be te mu tɛŋ kaai ale bo guuku zuk ate Naawen a puulim dai dila danni ayen wa le pai ka a te mu ase mi ale jam weeni fu tɛŋka wie la.,"A yọlẹdẹ, bẹ́ tẹ́mù tẹ́mù ka àlọbọ̀ gúkọzù àti nàwé àpúlù. Dẹ́ lẹ́dàní, ayé wọ̀lẹ́pa ka àtẹ́mù. Àsémí àlìjà wẹ́lẹ́fọ̀ tẹ́nkawé",0.9714,0.6182
+884,Deevid a jam dɛ naam Jerusalem po a paari ka bena pisita ale ŋata.,David ajande nam Jerusalem po apara ge bena pisita alengata.,0.7143,0.2115
+885,Mi nɔiyeŋka ale bo ni nyiŋ lammu nyiŋla ka nɔiyeŋ kaai ale kan ta kpeglimka.,,,
+886,Ka boa ate tɛŋka a kaasi a doa kinla ase gɔi la ate waai an baga a va du a taamu?,"tọwa, atụrụkị nka aká sị, adọkịla, asụgwara, atụwaị ambará, afadụ atá",1.0,0.55
+887,Wa yaa nyini Filistia demma tuka jigini a nyini.,Waya nyi ne? Please adda ma tuka jini anyi ne.,1.0,0.3333
+888,Nuruma de a jam maari wa kama ale basi ate naawa a kan namu.,"Nnọọ mmadụ. Jaa m, ama m arụ ọrụ ma alịbasa, a tenawa aka nna m",1.0714,0.3913
+889,Mi yaa jam toariŋ ale ka kikaasa a te ba.,"me ya jam, toron, alika, kasa,",0.9,0.4516
+890,"Ayen ba a nya jumaŋa ale bo nyakpiemu po la, ale nuinsaŋa ale bo wenzukku la, ale ŋanvutaŋa meena ale a cheŋ tɛŋka zuk la.",Ihe mbanye jụmụga alụbanya kwụrụ mụ pụla alụ nụsịga alụbụ nzukọla alụ nga vụtụga miena alụ achịen tankasụla,1.0,0.4632
+891,Pai garuk genni a jo wa ale chiak gbain dii ate ba yɔk di nalimnyiini la.,"A garge ni ajo wa, a le chi agba ndi ataba yodi nali nyi le",0.9375,0.2807
+892,"Wen maarɔ waai ale biisi ale mi la, a jam ta ka tachek ate ba pai ligmɔniŋ a nye ka ayen wa magsi tɛŋka, ale nansuiŋtaŋa ale parisaŋa.",,,
+893,"Nyɔnɔwa jam za ka siak kaai ate ba jam pai magsika miik a sɛ la tɛŋ, ate magsika miika a bo wa nisa po.",,,
+894,Nebo tɛŋka demma a jam ka pisinu ale baye.,Nebu tenka dema ajamka pisinu albaye.,0.8889,0.1515
+895,Wen tomtomiŋ maŋka ale liŋ jan jam ni jigi diipo la ni jam wom yiila ŋaai ate ŋa jam pai te ni la kama.,,,
+896,Nya kude be a sak kama ayen ka Kirisita ale soa ate tama a tom wabaata?,"Nyankopɔn de baasa ka ma, ayɛ nkai yie so alisuwa, atetama, atwam wọ baata.",1.0,0.3636
+897,Deevid a jam nye kude ale ka Ammon tɛŋsaŋa meena.,David Ajanya kụrụ aka amụ taa nsị na,1.0,0.4872
+898,"Ba kan pai ligra yegayega a da ŋanta a bobi ba zuk zuisaŋa, abe ba kan a su ni felima ŋaai diak ale pagra la, abe ba kan a jo garuk tii diak ale pagra la.",Bakampalera yeyega adangata abobe bazuzi singa abebaka su nefelumangai diak aleparala abebaka jo garati diak aleparala,0.8889,0.2414
+899,<<Fi baga a lak fi lueluku a biisi ale chiŋmaaŋa ale a lik fidek ale nyamobimoa?,,,
+900,"Wa a tom ka wakinkagla ŋaai ate nuru a kan miŋi, wakperikaliik sii ale kan ta chiina.","Mba tum ka wa ken ka la, ngai atu nuru aka mini. O kpere ka isi alikanta China.",1.0,0.2836
+901,Alege nuru waai ale a peeri damuniŋka la a za ale mi.,"Alhaji Nuru ai, Alhaji Piri Damunkala, Alhaji",0.9167,0.439
+902,"Wen an lueri ti ayen ka ti a tom tuimbaataŋa de chaaba, alege wa lueri ti kama ayen ti chim nuru weleŋsa.",we and reality,1.0,0.8659
+903,Nuruma de ka nuru maŋsa a nye ti a magsi ba kan nye ti a kaasi.,"Nuru Madé ka Nuru Mansa, anyete a marse baka anyete a ka",0.75,0.2128
+904,"Bo fi tomteerɔma buusa, ŋma waai ale kaasi la abe fi basi ate wa ale nye diila a jam wa zuk.","wa futomtiro wa busa. Nma wa ali kasila, abefe basi ato wa ali dealer ajam",0.9048,0.4
+905,Yɛm nidoabilisaŋa jam ka Kus ale Mizraim ale Put ale Keenan.,"Yana da balls na ja ka quiz, ale mezram, ale put, ale kena.",0.7273,0.3265
+906,"Ate Moosis yaa tigsi nuruma a yaa weeni ba ayen, <<Ni cheŋ nwuli a ga luk duŋsa a te ni dɔkdemma a magsi chaab ale Gaambasika.","A tumosisi, ya ti sunuruma aya weenba ayin ni can wuli, a ga ludunsa, a tene dodema, a marsi ca aligamba",0.8077,0.2887
+907,"Ba le dɛ ni ŋancheentaŋa ale ni ŋandiintaŋa, a yik ni nidoabilisaŋa ale ni liema.",Balidde,1.0,0.8923
+908,Izyar nidoabilisaŋa jam le Selomit wa ale kpagi.,"No problem, sọ nọ ị ga-alị. Ụwa alịkwara",1.0,0.725
+909,"Ti tom kaasi kama, ase ti koma ale nye diila, ti nye kaasi kama, a bola nye gaasa.","To tum kaasu kama, a se to koma, a lenye diila, tenye kaasu kama, a boli nye gasa",0.7222,0.1311
+910,Ate bolim a nyini Naawen jigi a dɛ ba alege a kaasi ba boka jigini nakpiaka gela.,"atubalum anyin na wengiri, adaba, alige, akasi, baboka, jirni nakwa si nga",1.0,0.2969
+911,"Daa pi ale ŋayewa danni, Enan nidoabinni Ayira, waai ale ka Nafitali dɔkku niŋdeerɔ la ale jam ale wa tiirimu.","Dapi, alengayawa dane, ena nedobini ayira. Wa aleka nabtale dokoni ndirola alejam ale otirim",0.9,0.2955
+912,"Da woŋtaŋa abe kasim bo dakanni baŋsaŋa nyiŋ po, ni kan yeeri ti.",na nwoke a na-akpọ Dakani bansiri nyin pụ na ka anyị yere,1.0,0.5294
+913,Mi a yaali kama ayen gaasa nyama a basi mu m dek m nyiini.,አያልከማ አየን ጋሰኛማ አባሱሙ እንደቅ,1.0,1.0
+914,Wa jam biak ka nidoabilisa ba chaab ale lieba.,"O Zambia, ka ni do birisa bacha aleleba.",0.8889,0.2432
+915,"Ku ale nye ase mi a nyu ka nuruma de ziim la, baai ale kan kpaliŋ ba nyuvooŋa nyiŋ a ta bu jam te mi la.","K'ọlịnye asịm, anyị ụka n'ụbọchị ụka gara aga, a na m akpọlụ gị na ekwentị, atagbuo m gị.",1.0,0.6494
+916,Fi baga a tom bolim nyaksisa ti suik po?,Phibaga tum bulum nyarsisa,1.0,0.4839
+917,"Pai jiam a te Naawen diila wa nala kama, wa ŋmanteka a boro ka dila cheŋ.","Fai, fai jiam atena wai, dila wanala kama, ogmanteka, oburkadla achen",0.9375,0.3036
+918,"Kan pai mi fi tomteerɔwa a zaani nyenyaka po, waai karo ayen wa zɛ kaasuŋ nɔi po fi niŋŋa.",Kampala,1.0,0.9143
+919,Ka boa ate fi a din tiik mi nyiŋŋa?,Kabba adu fe adin tik minyin,1.0,0.3077
+920,Ni basi ate ti yiti a cheŋ jigi yoŋ.,"Namaso wakama, jinyala wabolene kama. Nka mbasine nede ni nyini, nlenwa ja ni",1.4444,1.8889
+921,"Waai ale a biisi wensie a nyini wa suinum po la, alege ate nuruba wie biisi kaasika a ka wa nɔi po la.",waa la bisunsi anyi na-asunu mpula alu gi atunuruba wee biisi ka asika akụọ nọpụla,0.913,0.2821
+922,Bebai nidoabinni Zakaria a nyini ka Bebai buuni po.,"Bemba, Ndombele, Zakaria, anyi nika Bemba bu unu",0.8889,0.3095
+923,Wa ŋmanteka a ka kpeglimka.,Omanteca akakpalinka,1.0,0.3182
+924,Abram yaa basi Ejipiti alege cheŋ Negev ale wa powa ale jaabuuri meena ate wa jam ta la.,"Abram yaa baasi, Egypt aligicɛn, Negeb. Alo powa, alija Burimina, ato",0.8333,0.4143
+925,"Alege wa vari ba a basi wa yuenni nyiŋ, ayen wa basi ate wa pagrim kpiemu ba seba.","Alogoba abasi, onye nnyi, anọ m abasi atụrụ paụlụ nkwụ e mu.",1.0,0.5238
+926,M le pai biem nina a nya ba alege daa nalimmoa.,"na anya ba, o ga-ada n'ala",0.9091,0.6111
+927,"Wen yaa ŋman weeni ayen, <<Basi ate nya buui ale bo tɛŋka la a chuiri ga duek jigi yeŋ ate tɛŋ kosik a nya.",Onye a ma ama wee na ayi n'base tinyabu alibo tenkala achiri ga dua jigi ya atete nkwosa,0.9167,0.3625
+928,Mi jam basi ate Juda niŋdeerɔma a jueli ka parika zuk.,Parakou,1.0,0.8837
+929,"A nyini Nun nidoabinni Josua daaŋa po a ta ga paari dai dila danni, Izirali demma an jam dɛ tigini ase nnala la.","Nụlụ, na-adọbe na-ejusụwa daa ngwụọ ataghị paari. Na-adịla dani. Ịsa adịma anụja ndị tirị ni asị na",0.9565,0.5341
+930,"Mi puusaŋa a jueli ka fi jigi, sak mu suik kuui ate mi ale cheŋ la.",me pusuna ajuelekwa fijige sangmu sukulu atume alichenga,1.0,0.36
+931,"<<Nye dii meena ate m weeni fu la a te Aaron ale wa nidoabilisaŋa, a pai daa ŋayopɔi a bobi ba kaabteerɔba.","ya di mma na, a tenwe nu fula, a tee aro, alo ni dobilisi ya. apada nwa yo puo anyi, a buo be ba ka a tiere",1.0909,0.378
+932,Adina jam ka Aruben dɔkku kpagi ale nuruba pisitawa ale bo ale wa la.,Aji na janka a rubin doko,1.0,0.7091
+933,"Naawen yaa, mi a weeni fu ayen, <<Fi ka mi Wen.","Naa wunyaa, mi awie nufu ayin, fikam",0.9091,0.25
+934,Puusi Kirisita tigini demma baai ale a nye tuka ba yenni po la.,Poussez Christ dans ma vie à la une tout cas,1.0,0.74
+935,Yɔgyɔgla de pai fi suinum ale fi chiik a gisi Naawen fi Wenni.,"Yɛɛ yɔle de, pɛfɛsɛnum alifɛɛci agyesi na wɛn fɔ wɛn",1.0,0.4694
+936,"Jeyoiada nidoabinni Benaya ale nyini Kabzeel la, a jam tua kama ale kpaliŋ nyeka, waai ale jam nye wakpiema nna yegayega.","Jeya da na do beni, bana ya, ale nyini, kabzela, aja nto kama, alikpalu nyeka, wae ale ja nye, wekpi ma nna yiri yiri.",0.9524,0.2653
+937,Naawen ale vari wa nuruma a basi abe wa ta jiirim ale wa tomteerɔma.,"Naa wun alvari wun nuru ma abasi, abei wate jirim ale otum tiyoro",0.9286,0.2963
+938,Mi dek a baga a weeni kama ayen ku dan poom siak a nye kama ni ti yeeri ni ninaŋa a te mu kama.,"Midik, abara wiyen kama ayen kudam pun siyak anye kama neti yere neni nga atamu kama.",0.8333,0.2535
+939,Be ka boa ale soa ate nama baai ale a de jenvaata nyiini la a bo ni suataŋa baai ale a de jaab meena la buusa?,"Biko biko, alụsị atụnamụbaị, ala dịrị gị mma, atụnyenụla abụnụsọ atụnaị, ala dịrị gị mma na-abụsa.",1.0,0.5238
+940,"Naawen a weeni Moosis ayen, <<Biisi a te Izirali demma a weeni ayen, <Ase ni dan jo tɛŋ kaai ate m ta ni a cheŋ la po, ate ni dɛ tɛŋka ŋandiintaŋa, Ni pai kauk a te Naawen ase tiirim la.","Naa wen awen Moses ayen busy at the Israel demma awen ayen, I say na danjo tenkay at ntani achinlapu at nede tenka nga ndi nda. Na pakau at naa wen I say",0.9268,0.3841
+941,Yega ale taam de a ga de ate yam ale kasim a gum du.,"Aletamde, agade, ateyam, alkasam, agum",1.0,0.2368
+942,"Alege ni weeni ayen, <Ti kan cheŋ ku po.",Alege nu vine aien de cântec,0.8889,0.5862
+943,"Wa jam a nye dila kama dii nyiŋla, wa jam a yaali kama ayen wa da tuesi baai meena ate Sinsaŋŋa soa la a basi.","wa ja nye dlakama, ji nye ngla, wa ja ya alka ma, ayi wa vari ba mi na atesinsang sola abasi",0.84,0.3095
+944,Fi yaa le nya nyeboka ase fi a nin kpesi a ta wa ŋmarisika ale buusaŋa ate Naawen a jam te Moosis ate wa weeni Izirali la.,"Bia le nya nyi boka, a se fe ene kpesi ata wenyemarseka ale busenga ate na wenye aja ntemosis. Atu wenye",0.8148,0.3895
+945,Wa labika ka tusa pisinaansi ale kobsinu .,"Walla bka, kar tusa, pisna anse, alkobzunu.",0.8571,0.2353
+946,Wa jam ta ka lɔgi a moata biam.,Israel,1.0,0.913
+947,"Sodom naawa yaa weeni Abram ayen, <<Te mu nuruma abe fi tanla kɔlimaŋa fidek.","Sodom na Gomora ya we na Abraham, ayin, tumu, nuruma abefitaala kwala",0.9286,0.3833
+948,Alege Jona sui a jam kaasi ate wa sui a puuri nna yegayega.,"Alege Jonasui, a janka si. A to sui apure na",0.7692,0.3478
+949,Yilendisa buyewa po a jam tuk kauk yoŋ.,I learned a lot from a young cook.,1.0,0.7419
+950,"Samla ale jam kpi la, Sɛyaul ale nyini Areyobot ale bo Benni nɔi la ale jam chim naab.","Samla aleja nkwela, Seyol ale nyini, Ara yobot ale bo, Benenala aleja nchimna.",0.7778,0.209
+951,Ku piilimka po ni jam a va Wen suiku ka nalimnyiini.,Sri Lanka pɔ ne jam va na wensuku ka nare nyini,0.8182,0.3659
+952,Wa wi ni kama ayen ni jam jo wa naamu ale wa nyaksika yegayekka po.,Wunakam ayen nijanjo wanam alonyasika yiriyeka,0.9333,0.3462
+953,Sedeur biika Elizur ale Aruben dɔkku niŋdeerɔ.,"Sedyo, Pika, Alizu, Ale Arubin, Toko",0.8571,0.5128
+954,"Ba weeni ayen, <<Ti nyuvooŋa a bo ka wari po ase wa a nin ŋman cheŋ wa kpagni Sɔɔl jigi.","Bawu na ayen, te nyu vonga, abokawapo, ase wanin mayenkin, wokpa ni solo",0.9,0.3692
+955,"Javuk kuui ale saari sinaansiwa la a yaa weeni mi ayen, <<Jam nya.","Donka, Alassane Souala, Aya Wouéminien, Ayen",0.9231,0.62
+956,"Tɛŋka nuru baai ate maarɔma an diem lueri ayen ba ko ba la, an jam basi ba tuimbaataŋa ale va Wen yaa.","Dankannur bay, achi chobila ma, ande luere, anba kobala, anja mbas batunba tenga, aleba na wuya.",1.0,0.4304
+957,"Nipok ale wa chorɔ lueluta Juda tɛŋsaŋa ale Jerusalem suitaŋa po ale nye diki, diila tɛŋka ale chim tɛŋ koruk.",,,
+958,Wa basi ate suiyɔgni a bo ni tɛŋ banaŋa alege a te ni ŋanbie maŋsa.,"Abba se, atsu yaune. Abbu nittin bana alge ateni nyambe mangsa.",1.0,0.4231
+959,"Samuel yaa pai tintain a ti Mizpa ale Sen suŋsuŋ a yaa te jigini yuei ayen, Ebenezer, <<Naawen a maari ti ate ti nak dɛ.",Samu ya patentain a timiz pa alesan sunsun a yate jiniye ayen Ebenezer na wen amarte ate,0.8,0.2637
+960,"Kenania Livaima kpagni ale jam a nya yiilaŋa zuk, wa tuini jam le la dii nyiŋla wa ale jam kperi ale yiila lennika.","Kee na na, leeva makpa ni, alee ja ma nya, yiri ngazu, wa tu i ni ja lela di nyi la, wa alee ja kpere alee yi la le",1.1304,0.2747
+961,<<Ŋmarisi wieŋa de a te Wen maarɔwa waai ale a nya Kirisita bisaŋa ale a tu chaab Laodisia la zuk.,"Marcellin a dit à sa nouvelle épouse, Waali Anya, qu'il a besoin d'aller à Tchiap-Ladisia.",0.9,0.6579
+962,"Ni a namsi ŋanjaksaŋa kama, ale a fɛ ba ate ba pai ba zaaŋa a te ni.","Naa namsi, nga n jagsa kama ala feba at ba pa bazanga atena",0.8824,0.26
+963,Mi nyiŋka a ta ka nira a nyini nyaata.,Nyenka ataka nira anyi nyata.,0.8889,0.2414
+964,Wa be tom maarika wa boka jigini a te fu.,obutton marka obuka jini,1.0,0.5484
+965,"Ale wa nɔnni waai meena biisi ka yaalika a te wa vaanchoa, alege wa suinummu po wa bari baruk a limisi wa.",alwanna wammina biska yalka atovantwa alge osupurmu po wabbare baru allimso,0.9545,0.3976
+966,<<Mi a kan bo ale ni a beni abe m ge cheŋ m Kowa jigi ya.,"Me a kamba le ne a benne, a ben ge chan nko wa ji",0.8125,0.359
+967,"Naawen yaa, mi pai kanjanta a basi kama alege cheem ŋaaŋ a te gaasa.","Na wuya, me pa ka njanta a baskuma, ali ge chim nga a tegasa",0.9286,0.283
+968,"Ni ale jam ka biem yɔm la, wayɔrisima an jam soa ni.",,,
+969,Kutuk mɔnuŋku ale nyini zak sakka tiirimu po la jam ka boorisa pisiyopɔi dobrim ale ligbie tusa ŋaye ale kobsinaansi dobrim.,Kotomano ko alinyi ni zasaka. Tirimu pula janka borisa pisu yo pwayi dobrom ali libe tusa ngayi alikobisi nansi dobrom,0.9524,0.2816
+970,Ŋa ŋanyiŋtaŋa ale ŋan bobintaŋa jam ka kpana ate ba pai kpanaŋa a taari ŋa zuk.,"Nga nga ying tenga, ala nga nga boben tenga, jam ka pana. Ataba pay, panenga atara ngazu",1.0625,0.4921
+971,Wen a nye ka ŋan nyaksin kpienta baye wenbinni ale chiika.,Anye ka anya si na Kenta bụ ịya. Onye mbụ na alị ịka,1.1818,0.5106
+972,"Fi le seba ayen fi bisaŋa ale piisi, ate fi ŋaaŋbisaŋa a nye ase tɛŋka wuuku la.",Feliz Navidad,1.0,0.8871
+973,Tiiritaŋa de ale Izirali niŋdeerɔma a jam te a magsi ayen ba pai kuŋkuŋku a nyo Naawen nisima po diipo ate ba kpiiri kpaam ku zuk la.,"Kiritanga de ale Israel, nung dierema ajante a marse, ayem bapai kunkunku anyo na wunni simapo di po atabekpiri kpam ku zulu",0.8148,0.2642
+974,Bunuwa po jam ka Sefatia wa mawa jam le Abital.,"O nweghi ike ijan ka ha fetia, o ma ojanle abita.",1.0,0.5676
+975,"Naawen a yaa biisi ale Amittai nidoabinni Jona ayen, <<Cheŋ tɛŋ kpieŋka Niineve a ga biisi ale ka nuruma, dii nyiŋla ka nuruma biemu a zuak kama m niŋ.",Na nwaanyị a ga-abịasị alị Amate na ụbọchị nnị iji ụlọ anyị jee nzukọ nke ndị Nenevi a ga-abịasị alị ka nuru ma dịịrị la ka nuru ma bịa mụ azụọ ka mụ na,1.069,0.5508
+976,Ba nakka gbaŋ m nuruma nyiŋ ale pai nidoabilisa a da te taabuksa ale pai nipokbilisa a da daam nyiŋ ayen ba nyu.,"Nna ka gba onye ruo manye, alipa ya na dobulu si ya ada, ateta abughi sa. Alipa nu puo bulu sa ada, daa minye anyi mba",1.1304,0.4382
+977,"Wa ale nak piuŋku la, nyiam ale burinti nyini, ate bela a sueri mobi pimpanta.",,,
+978,"Alege ba ale jam wom Filip sinsaŋŋa a magsi chaab ale Wen naamu ale Yeezu Kirisita pagrimu wie la, ba meena nidoaba ale nipooba a jam tuesi ka soka.","Alegebele jangu Philip, semsa nga amasekyab ale naunamu ale Yesu Kristo.",0.931,0.6356
+979,"Gbaŋ kaai ale dɛ niŋ la, kaai ale magsi Asaf la a lo ka Josefi ale wa nidoabilisaŋa ale wa kobisaŋa zuk.",ban ka'i ale de neng le ka'i ale marse asaf la aloka josef alowanu da blesinge alowa kobisenge,0.8182,0.3457
+980,Fi be a te mu dii meena ate mi a yaali la kama.,sɛbe atɛmú di mmire na atemuda ara lakama,1.0,0.3529
+981,Adin ŋaaŋbisaŋa a jam ka kobsinaansi ale pisinu ale banaansi.,A din ngam bisu nga ajamka kopsi na si alpisunu albana si.,1.2,0.2745
+982,"Vari ale veenti la, ti yaa paari Saidon.",à travers un événement là à travers Paris,1.0,0.871
+983,Ŋanvutaŋa a jam ta ka kinkaŋŋa ate ŋa lagri a ti wen a lik nanlikka.,,,
+984,Ku a fɛ kama ayen Kirisitawa tomtomika ale ka masimu meena a bo ni suiniima po.,"Kwafɛ ka mɛ ayɛ Kristowa tumtumka, alkamasu mienna abɔne sunyima",1.0,0.3333
+985,"Daa dila nyiini, ba tuesi Naawen nɔiyeŋka dakanni kama.","Daalụ na ị nị. Biko, ị na-awụ nnọọ ya nka, dika na",1.3333,0.5333
+986,Ku jam tali ka maga ate Gaambasika Tigini a paari.,ko jamtale ka dayan atigamaska turni apara,0.9,0.35
+987,Varibasika de a liŋ a cheŋ ka Juuma jigi ale ge a cheŋ baai ale kan daa Juuba la jigi.,"Verba skade allan, accianka bae, alkaju bala jige, alege accian bame, alkanda jula jige.",1.0,0.4848
+988,Waai ale vari buluataŋa a pai ba fɔbi pinaŋa la.,वा आलवारे बिल्लो आतिंगा अप्पाबा फोबे पिनंगाला,1.0,1.0
+989,Wa jam weeni sak ti ni ale ta siaka ale Yeezu dii ale a yaali nuruba mɛ la.,Oya nwe nsati neleta siaka ali yezo di ala yale,0.9444,0.4561
+990,"Naawen ale yik Izirali a zaani, wa le a tigsi Izirali dem baai ate ba yik ta cheŋ la.","Naa weh Aliyu Isa Azare, wah leh attajirin Isah Dummai atubayyi ta cin",0.9474,0.5077
+991,"Dila ninam a kan nyini tanta po a nyini, yaase daanika a nyini tɛŋka a jueli.","Dila ninnam, akanyi ni tantapu anyini. Ya sida nika anyini tenka ajuele.",0.9375,0.15
+992,"Suya denɔwa Bildad yaa tulisi ayen, <<Fi le weeni wieŋa de a beni soa ka sɛ?",,,
+993,"Wa yaa pai ba a te tɛŋsaŋa, ate ba dachaasaŋa a nya ba zuk.","Waya baba, ate tensa? Ati bada kya sa, anya ba",0.9286,0.3636
+994,Sinsaŋŋa ka dila degadega ale tɛŋ biik ale nichaanɔ waai ale bo ale ni la.,Sunsanga kadila darga darga,1.0,0.7119
+995,"Pɔɔl yaa ŋman pilim weeni ba ayen, <<Daa pi ale ŋanaansi ale jinla ate ni kasim a limisi a jam paari yɔgyɔgla de alege ni an diem dɛ jaaboa.",Depuis,1.0,0.963
+996,"Fi dachaasaŋa chivie ale paari ba, ate nyeka tuem nyama viitaŋa a kan ŋman boro.",,,
+997,Dila abe basi kama ate m boro a te Wen.,"Dila, abebasokama atumboro atena",0.9,0.1724
+998,Wa jam jo ka kuta ŋanta lik wa naŋsaŋa ale ta kuta gbaluk wa ŋaaŋ.,"Onye njem ka ụta nganta lek, ọ na-asị na a letakwa ụta gbaara ọṅaa?",0.9333,0.5294
+999,"Ni kan basi ate ti ta kanjanta, abe ti a nye ate chaab sue a puuri yaase ti a yaali chaab ŋanta.","Na kam base, atete ka njanta, abita nye, aticha sue, apuri ya sita ya lichap nganta.",0.9091,0.2603
