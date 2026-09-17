@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Asɛ Boas ŋɔ, “Korowii tɛɛ hɛɛra.","A sị na udele chọrọ ịbụ tolọ udele, ọ ga-etinye nku tenten. Penyi, ị ga-alapụrụ abali nne. A sị na e buasị nwọ, ruo ịtee, e",4.3333,3.375
+1,Umee dɛ́ won jemɛ o seo habɔɔ wa ɔ?,"Onye mere ka onye mee, o si ya bu owa.",1.0,0.68
+2,"Anomanta, n ɡbaɡba laa dɛɛ ɛ a ɡɛ wechɔɡa nɔ.","Hanuman Chalisa no, ngbakwaara ya a ga bu choo",0.9,0.7647
+3,"Dɛkalkɛ ba ɛ wechɔɡa dɛ jo n nɛ, dɛ kaa fuh daawiile voɡ Baal ta dɛɛ muɡli n baah.","Dika ke, bu ihe mere na June, dika fu na awu ile football taa na emeghe mba.",1.0,0.5806
+4,Korowiirii bola.,गुरुवीर बोला,1.0,1.0
+5,Ɔbɛd Edom ne Jehia ɡe ja dɛɛ daah Daka la.,"Obioma, i di mma? Nee, jee hie ge. Gaa dee daa daa.",1.2,0.6562
+6,"’ Weela la taa lɔ o nɛɛ nɔ, ɡɛɛ doŋa ɡe ɛɛ ba o nɛɛ doe.",Welele taa nụ olee na? Gịnị dị gị ebe unu dị?,0.9333,0.6579
+7,"Anee fa ɛ wesɔɔhla saŋ la bwa la, kɛ taraken te, o cheɡɛ o keamere waa baa chwera la ta, dɛ le a bwa ne baŋ.","N'ife a ewu so na ya, sị na agwa la. Kedu ka ọ dị? O jighịkwa ya mere wa baa chiri ala taa, dịrị agwa n'ime ya.",1.0,0.557
+8,Gɛɛ sɔfo la ɛɛ ba ɛɛ dɛ che naate baa laa doŋa dɛɛ kpɔ o nɛɛ la naa ta soŋe o wechɔɡa n sie ń kpɔ kɛo.,"Gị asụfula ebe a, e dechinnata beara adụgha ndị ekpo ụlọ ịla na-ata. Sụọghị owicha ọha nsị mkpọkịọ.",1.0,0.5467
+9,O ɛ bechala dɛɛ ɔmɛ.,"Uwa bu nne m. Bịa dee iro, jee taa biko. Uwa kee bịara taa okere kwaye? A bịa ekenụ wee kwuo uwa. Ụwa ebechala dee",5.0,5.2667
+10,He tɔnɔ haa dɔa laanee kɛŋɔ he soɡa bini aa toɡra Korowii be.,Tana da alani kan ofis din a tukra kogi ba.,1.0,0.5833
+11,"Tɔpere waa tɔ sie ta la, hé cheme dɛ́ tom mɛ dɛ́ ɡel he tomare bwa bil.","Tupu ịwaa tosị etala, ịchemendee tume, ndekee ịtumara ịgbọbị.",1.0,0.5294
+12,"Aah dɛ Korowii bwaawee baa ir nɛra nɛ aa, a te taa Yeesu Kristo aa wola won lɛ yaa aa?","na ekweghi gwa unu ibe irinara na ya, atika ya bu Jesu Kristi awula wu nle ya.",1.0,0.5231
+13,"Nɛra baa teŋe ba pena la, Abraham biirii ba ɡe.",Abraham,0.9,0.8056
+14,"Sɔfo la berɛ ba nyiŋu, dɛ o na ŋwɛr kpelaa, ó ŋɔ o be ŋɔ o kah doŋa.","So, ọfụla bụrị ṅịṅụ dị, ọ dịghị nwere kwụrụ a. Ọ nọọ ube nọọ ọka dị.",1.0,0.75
+15,Gɛɛ wɛɛ ba ɛɛ dɛ́ laa doŋa bɛlbwa kpɔ dem la ta ó berɛ do wer.,Ihe a mere bu na e lara adu na-abiri gbakwa di mlata obere di uwe.,1.0,0.6889
+16,"N ta ban doe ŋɔ ba ɛ ɡɛ, a toole n liire ta kwaraa.","Ntaba ndwi nwo mba ege, atuli nri takwara",1.0,0.4722
+17,"Kɛ Bɛnjamen dea tena la ta ba bala Israel tena waa la mun noɛ, dɛ ɡe le ba bwɛɛre ta ba cheme Gebea dɛ vɔrɔwe kɛ bá yo Israel tena.",Benjamin diara ta babara Israel diara wa mun nwe. Degele bagbo erita deba cheme gibia de voro ike bayo Israel,0.8333,0.41
+18,"Dɛ o berɔ ba na kɛŋɔ o ɛ wechɔɡa aa, a chɛ kɛ o lawɛ bombal waa wola kirihiah bɛlbwa dii ba ɛ saraha.","Obi rọba na-ekwu ewicha ọgụ a, achọghịkwa ụlla wee bụ mba ụwa a bụrụkwa ihe a na-egbu di ba Israel.",0.9583,0.5921
+19,"Kɛ dɛ o bwa chɔɡɔ kwaraa, o ta wobɛlbwa ɛɛ doe.","ke de uwa chọgọ kwara, uta ubowaa edum",1.0,0.5143
+20,"Ate, Mosis ne Arɔn jo Korowii Dea Cheremibɔr la bini.",Moses ne Aaron krowii diakiri mi bo la,0.8,0.4762
+21,"Jeremia, bɛ nɛra nɔ naa ta che soŋe le n be tɛɛ ba, dɛkalkɛ ba wio yer mɛ ba sibeɡre wee ta naa, maa ba bee no.",Yeremiya benera no naatachi sunge li mbe teeba. Di ka ke bawi yereme basi bigira wita na ma ba bi no,0.9259,0.358
+22,"Too, baa baɡla Korowii Tɔn bini ŋɔ, “Abraham yarada taa a che asɛ o waa su Korowii siwi” nɔ, a ɡɛ waa nɔ chiɡo mɔɔ Korowii ɡel Abraham teŋe o pen kɛɛ o teŋo mɔɔ nɔ?",Abraham,0.9722,0.9431
+23,"Nɛn waa dɔ ɡɛ weebuula nɔ la chɛ kɛŋɔ wɛ́ɛ do laalajɛɡle, dɛ bɛ o nyumpona lee dɛ́ kpɔ kon tɔ o nyoa ásɛ dɛɛ dooɡe lɔŋɔre ŋɔ, ‘N kah doŋa!","Nwanne anyị nwoke bụrụ anọ laa chịkwaa. Wee dị laa laa jịrị. Debe onye ụmụ nnà lị, dekwaa kụntọ onyo ahụ asị na dịdụọ gị lọọ ngọrọ nwa. Nke dị",1.0,0.6569
+24,"Kɛ he jemɔ kɛŋɔ dɛ he kpɔ he te do nomɛl nɔn ta ŋɔ on dɔ heya aa, dɛ on dɔ heyaa kenɛ?",Kedu ka ị dị mma ka ọ dị ị kọọ ịtị dị n'ụmelụ nọnta ṅụ ụnọhịa? Nde ụnọhịa,1.0,0.7419
+25,"Anomanta, Hatak leɔ dɛ ka na Mɔdekae kɛ waa soɡe bwɛɛ la cheremibɔr, waa lɔ koodem doonyoa la sie.","Hanumantha, aatakalevu deka na modikayi kewa sogi bera cherimi bor waalu ka odemdo onwara",0.9474,0.3896
+26,"Saŋ la Israel tena aa wola kooro dɔe mɔɔ, asɛ sitɔɔla yon dɛɛ nyiŋi bela harɛ ta la, dɛ lɔr lɔ harɛ la ta.","Sana'a ishirin a'a wula ko rodo'e mu, a sesitola yoo nden nyi'i bila haratara de lo lo haratara",0.9583,0.3875
+27,"Nyoa Korowii aa baɡɛ Abraham ne o naanar la, dɛ nɛra baa teŋɛ Mmara ta laanee wɛɛ ba ɛɛ dɛ tɛ aa, ate dɛ yarada nɛwɛnyini aa dɛ yarada Korowii nɔ ta mun dɔe.",ya kuro ya ba ga Abraham ne o na nar la de ne na ba chi ne marta la ni we ba e de ti a a ti de ya da ni we nyi ni a le ya da kuro wi no ta mu ndo,1.1471,0.3802
+28,"Waa maa dɛ ba ba ɛɛ laanee la, dɛkalkɛ ba vɛɛh mɛ dɛ kpɔ harɛre ane voɡare ba su bonɔ bwa.","Nwamara baba e la n'ila. Dikalke, bave me dikpo hariri anyi vugari besu buno",0.9524,0.4559
+29,"Chal la kar la, ó le dɛ́ ka fuɡa ta o mun ta n doonyoa bela.","Chala karala, ole de fuata umunta ndi onye abali.",1.0,0.2857
+30,"Gɛ saraha kwaa nɔ ja Ona Tɔpere saraha kwaa ne koŋkɛɛla, ne nyobaɡa chuɡra sarahare dɛ sarahare aa le he bambile ta haa kpɔ baa tɛ men Korowii bwa ta.","Gasi raha kwa anọja, ụnọọtọ piri sị raha kwa nịkọnkela nịnyụbọga chụgụra sị rahare, desị rahare a lehi ba mmịlịta ha kpọba temmị nkụrụ wụ ịgbata.",1.0,0.3613
+31,Nomɛlbwa waa wola nyoa vɔwɛ awola tɔpere la chɛ kɛ bá pero le o nɛra bini.,Ndi be anyi awula anyi afowela awula topiri la cheke ba peroli onera bi,1.0,0.4655
+32,Ŋwɛnɛre aa chɔ le tɛ deŋnesɔɔhna saraha aa chɛ kɛ ba kpɔ tɛ mɛ laanee nɔ.,Nna anyi a choro ije dinosa na-esoro ha achecke bakwute m laa n'ulo.,1.0,0.614
+33,"Mosis berɔ kpɔ o noyal bwa ne o pwɛ bela waa wera, ne o kporombie anɛ la dɛ a noorare bwa, dɛ fuah saraha kon la ta.","Moses buru akpa ụlọ ya gba na opekempe awa abụọ. Na okwukwe na mbịe anara na ụlọ oriri bụa, ha fụasara ha kụrụ na",1.0,0.5632
+34,"Kooro laa o noniseɡ waa kpɔa dɛɛ ɛɡre tɔne ta aa ɛ mmarare o faa kpɔ tɛ Heeman la foo, dɛ kpɔ tɛ Mɔdekae.","Koro la ononse wa kwa de egiri, tonita a e marari. Ofu akwateghi imara fu, dekwate m odika ya.",1.0,0.4625
+35,"Anomanta, o tao tɛ wejerema baa won waa bini baɡla, dɛ dɔ dibɔra kooloŋ ta bela.","Anumata, o tao te wijere ma baa wu wa bini bagara, dede diboro ku olu nta",0.8125,0.3387
+36,asɛ Samla waa le bwɛjen Masrɛka ba di kora.,"Samla, walahi gbeyin masaraka",0.8889,0.5588
+37,"He dɛ komɛ he koo kondikwa aa, he bɛ anɔ la aa lɔ koo nyoa tenten la komɛ.","He da kuma hiko kunniko a, he be anola a lo ho nyo a tenti la kun.",0.8333,0.3818
+38,"O kpɔ laala tɛɛ ba ŋɔ, bá kpɔ ka tɛo ó do, dɛ́ foo lweyal la bil, asɛ o vɛh, o ta laala la lɛɛ.","Opalara teeba wun, bapo ka ti odo. Defoe le ya labi ase oven. Ota lara le",0.96,0.4308
+39,"Kɛ he nɛra haa ba ka la te la, mɛɛ ɡeloo ɔmee chole banɛɛ kohona ba dɔma harɛre baa soɡe a ta la ta, ásɛ peu ta ba no papooni kwaraa sii dɛɛ chwa.","Kehi na raha ba kala tela, me glo omi chuli banne kun huna, bado maharari ba suge atalata. Ese piota ba nu papuni kura si",0.9412,0.3818
+40,"Anomanta, waa Korowii aa dɛ bol men Jeremia be laanee nɔ.",An mata wa kurebi adebol min jere miya bilani,1.0,0.3778
+41,N dɛ na Ampelatos waa ɛ n chamenate ya Dɔɔ Yeesu nɛɛ teŋa ta la.,"Nnaa Anfilatos, wa ncham na ti ya do Yesu Kristi ne tinya. Ta",0.9333,0.4898
+42,"Chɔ n be bonɔ jwaana nɔ ne, ásɛ tɔɔ perɔ chɔɔ aa, ya na kɛŋɔ wɛɛ moe kɛɛ waa hen moɔ.","mmebụrụ na-adịghị mma, a sị na ọ pịrịrị chọọ ya. Ya na nwoke wee mụọ ike waa ahịrị mụọ.",0.8571,0.7742
+43,"A lole kɛ dɛ baa on kure dɛɛ ja banyoola batoro la nɛ, kɛ onee bera ba chɔ ba bwa nyoa dɛ lɛ sɔn kohona.","A luo na nke a, ọ bụ nkụzi dị iche na nke gara aga. Kee ụdị ebe a ka gị na ndị enyi gị hụrụ?",0.96,0.7564
+44,"O ɡelɔ ba kpɔ ba cheɡ Ɔbɛd Edom dem, o le bwɛjen Gat.",O gụrụ akwụkwọ banyere ịdọ aka ná ntị ole gbara gburugburu,0.9231,0.9744
+45,Kooro ɡelɔ ba ɛ kondikonjena a warɛ kohona tɛ Ɛsta waa ɛo o haah la.,"Koro gi na ba e kụndị kụnje na awịla kụhọ na dete esta, wa ịya ụha",1.0,0.4717
+46,Hé lɛo ja he nɛɛ ɡɛ aa chɛ kɛ Korowii nɛra lɛ ba dɔŋ la ya Dɔɔ Yeesu nomanta.,Ihe oji achi na nge achoghi ka i nara le bado la ya bu oyi Jisọs Kristi na-nta,1.0,0.6897
+47,"Anomanta, le ɡɛ saŋ, Mɔdekae dɔ ŋwɛnɛ kɛ ó jo koodem dɛɛ la kooro sie, saŋ bɛlbwa.",Anụ m mnta. Legé saa mọdika ịdị ngéne ke oju ka odi mdeela ka ọrụ si. Sọ m biko,1.1176,0.5
+48,"Wɛɛ ba weela aa dɛ bu nee, kabul ne ɔɡra, dɛ́ berɛ ɡel hwel che bɔr wɔrɔbe, ásɛ he konduula chɔɡ.",Weba wila adebuni kabuni ogra debere gil filchi borborbi asehi kun dula,1.0,0.4722
+49,"Kɛ o ol la kar ne o tɔn la te, ó le ane bela baa soɡa la dahara dɛ ka fuah.","Ke ula karị nụ ọtọ n'ate, ọlị anaghị blaba asụghị ala na hara dị ka",0.9524,0.4906
+50,"Ń Naa Korowii ne ya Dɔɔ Yeesu Kristo bwa na he sum, dɛ́ cha heya, dɛ́ tɛ heyaa bosɔɔhna.","Na krowi ni ado Jesu Kristo gba na hisum decha hiya, deta hiya bu sona.",0.8947,0.3538
+51,"Dɛ berɛ kpɔ batakaarebora efɔd la doo, dɛ lawɛ kon baa nyarɔ kwaa do o ta kɛrɛdɛ, dɛ do batakaarebora efɔd la nyoo la vɔwɛ Arɔn chara a che kɛrɛdɛ.","Na bekwaba takari buru effort laa doo, na lawa kumba anya ro kwa adu uta kirede. Na du ba takari buru effort laa nyuwula buwe aro nchara achi kirede.",0.9667,0.4261
+52,"Kpɔ bwɛjen la nomonome ne sɔfore la bane ja he nɛ, ásɛ he la Jerusalam Bɛn Henɔm Fɛlembɔjen waa bɛne Kaŋli Doonyoa la ta.",O bughi ihe a na-anụ mụrụ n'isi ọfụrụ na mba ndị a ahịrị. A sị na Jerusalem bụ ebe Henom bụ ebe mgbajị nwaa bụ ebe,1.0833,0.6771
+53,"Kooro Devid kpɔ a ɡɛ kwaa nɔ dɛ lea cheɡ tɛ Korowii toma, ɡɛ o fa aa ɛ suuɡapoŋa ne suuɡaswɛm waa paa le harɛre waa kaa yo, dɛ pɔ a nɛra nɛɛ la.","Koro di virikwa aga kwano, deli achite koro wi tuma. Ge ofa e suga pungani suga sem wa pali harere wa kayo, depo anera nela.",1.0,0.3981
+54,"Yeesu bwadabii lɔ beŋkpoŋ, o Domadɛɛɡe ɡe lɔ beŋkpoŋ, asɛ hwɛɡa Korowii aa le yaa ya bwa dɔ la ɡe ɛ beŋkpoŋ.","Onye isi obodo anyị bụ Nnamdi Kanu. Ọ bụ mmadụ abụọ ga-alọta ụbọchị taa. A sị na onye na-adịghị alọta ya, ya gba ndọrọ dị ebe mkpọrọ.",1.1818,0.8929
+55,Men la kar ɛ sɔfo la kwa ɡɛ baa dɛ ɛ mea saraha la.,"Me la carreta, sofula kwa gebade e mi asrahali.",0.8571,0.4324
+56,Sɔfo waa kpɔ chal la ne noo la ɛ saraha laanee chɛ kɛŋɔ o dɔ o diɡ hwii la.,"So, if we are a poor child in rural area, we are not educated, what will happen?",1.0,0.8214
+57,"Korowii ŋɔ, “Nɛwɛnyini bie, mɛɛ chɔɡ n Dea baa dɛ ɛ mbarafo o waa o do wer ba siwi ta, ba sie ɛɛ lɛ o ta laanee.","Gree, ngọ n'ebe niile. Mụ echọọ ndị a bịara e mbara afụ ụwa ụdugwere basị weta. Basị ele ụtalị anị.",1.0,0.5185
+58,"A habɔɔ la, Kooro Devid berɔ ka yo Filisti tena dɛ pɔ ba nɛ, dɛ lɛ bwɛjen Gat ne o bwɛɛre aa baro bwa le Filisti tena ba fa aa dɛ di a kpeɡri la be.","Aha bọọlụ bụ nke David Broca, onye Felisintịna depụtara na legbe jịngatị na ubochi abalị gba-na-Felisintịna, bafaa dịdị okpukpiri laba.",1.0,0.5364
+59,"” Anomanta, n laŋɔ dɛ ka kwi bela maa kpɔa huɡe la.","Anwanta, lango di kakwi bilama kwa hugi",1.0,0.4054
+60,"Ya jemɔ kɛŋɔ Yeesu Kristo ir seo ta waa wola sewɛ kpa bwa, seo ta kpeɡri dɔe o nɛɛ kpa.",Ndi na mmeghari nke Jisọs Kraịst si na ya wulite ekpere gị. Si na ya pụta gị na ya,1.0,0.8182
+61,"Awola bɛl, Rut ŋɔ Naomi be ŋɔ, “N poori, tɛ́ mɛ ŋwɛnɛ ń la nomɛlbwa waa na n sum koo ta dɛ́ ka kuuh mea.","Aura Bell, ruo nwa na-omi be nwa, mpori, temenwele nla na nmelkpo, wa na msumkota deka kwu",0.88,0.4932
+62,"O bibaalaa, Nadab ne Abihu ne Eliasa dɛ Itama.",Obibala Nadab ne Abihu ne Eliasa the,0.4444,0.2222
+63,A chɛ kɛ á ɛ waa aa chɔ le tɛ he ne he naanar baa ka ba bobɛlbwa haa soɡa.,"A chọrọ m ịgwa gị eziokwu, ihe niile m na-anäre bụ aka mba bụ bee gị ha sụgharịrị.",0.95,0.7037
+64,Sɛra bibaa Jobab waa le bwɛjen Bosra baa so o buɡ ta.,"Siri abịba gị baa, ọ ga-adị gị mma ịbụ siri baa so ugbu a.",1.0833,0.5854
+65,"O mɛɛ sɔne Jɛɛ, asɛ Jɛɛ ɡe mɛɛ sɔne Simee, asɛ Simee mɛɛ sɔne Kes.","Mee sọ nị jee, a sọ nị gị mee sọ nị sị mị, a sị sị mị mee sọ nị keesị.",1.4,0.6122
+66,"Dɛ Mɔdekae fa kah Ɛsta ŋɔ ó bɛ ɡel ba jemɛ o nɛnsoo, anomanta, o ta baɡlɛ kɛŋɔ o ɛ Juu te.","Ndeewo, deka ife ka-esiri nwa obele baji mee nwa na-nsu, anụmanta, otu bagiri kee nwa o eju",0.9545,0.6364
+67,"Dɛ́ kpɔ o ne mea saraha la pɛ ka fuah saraha kon la ta, dɛ́ kpɔ soŋe o wechɔɡa n be.","Na-ekpo onye mmeasịrị ha lape, kee fu asara kunata. Na-ekpo sunye owecho ga",1.0,0.4667
+68,"Lɔr chole ba nɛ, ásɛ nɛra ne kondɛɛra bwa serewe.","Noluchie bani, asenara ni kwu ndera gbasiri",1.0,0.5526
+69,"” Gɛɛ a do ba saɡɛ Heeman daa waa paa dɛɛ ba Mɔdekae o ta saɡa la, asɛ kooro baah sɔɔh tama.",,,
+70,"Nomonome baa chɔ ba nyoo la kpɔ nɔɔra dawɛ nao la nyu ta n sie, ásɛ mɔɔ dɛ teŋe o baŋa bela.","Nụmụnụ ndị banyere ụbanye unu, lakpọba nọrọ daa wee na-ọla nyụta. Nsị, asị m ọ dị tinye ụbanye",1.0,0.6232
+71,"Korowii ŋɔ Mosis be ja ŋɔ, “Dɛ bwadabii weebuula lɔ nɛn nɛ ba chaoh dɛ la o ne sɔfo be naa, waa aa chɔ le ó laa doŋa bɛlbwa kpɔ o nɛɛ laanee nɔ.","Kedu onye mụọ sị gị bechaa gị? Ebube bụrụ alọ n'eme, gbachaa ndị na-ala onye sofu be na. Wa a chọrọ lee ụla adụghị be gbakpọọ ụne laa n'ine.",0.9706,0.6262
+72,"Mɛɛ kpɔ he nɛraa ɛ n nɛra, ásɛ Korowii haa dɛ tomɔ la, ń ɡee tomɔ.","Nnekwu ihe n'era e n'era, a sị na o wee ha dị tumọla, m ga-etumọ.",1.0,0.5625
+73,"Mɛɛ ɡeloo hé dɔ deŋnesɔɔhna harɛ la ta, ásɛ dɛ he chɔɔɡɔ kwaraa naa, nomɛlbwa aa won ba aah heya.","Mmadu gba oso na-achu elata, a si ya na ihe o na-achu kpara ana, na nụ m gba awo mba, a hi",1.1,0.6533
+74,"Tɔpenuanɛ wee la telaa, sɔfo la berɛ ba nyiŋu.","Tupinawá wira tyra, sofora berabany",1.0,0.4722
+75,"Dɛ naate kpɔɔ tɛ mɛ a bena baa berɛ bɛlbwa kon dɛɛ tɛo la ta naa, a chɛ kɛ yoɡ la che ɡɛ.","na na-akpọ Teme, abụrụ m abụrụ be Igbo kwenu, e tịọ m la ka na a chọrọ m ịyọghịla chọrọ",0.913,0.6462
+76,"Kondɛɛre bɛlbwa sɔfo la aa kpɔ fuh ɛ saraha tɛ nomɛl la, o tɔn la ɛ sɔfo la kon.",Kụndari bịa gbaa sọfụla akpọfụ esịrị ha 10 n'ụmela. Ụtọla esọfụla,1.0,0.5167
+77,"Erastos waa dɛ cheɡ bwɛɛ nɔ suuɡa la, o ne ya dɔŋ Kwaatos bwa dɛ na heya.","Lastos, warechi gwanu sugar la. Onye ya doro kwatos gba di na-ahu.",0.8824,0.4727
+78,"A ɡɛ waa la baa chwera do Korowii Tɔn bini ŋɔ, “Korowii lɛo kɛ nɛndɛɛɡe o waa su o siwi” la, Abraham ɡbo laa ba chwerɛ tɛ.",Abraham bu nna akwachiri,0.963,0.8352
+79,"Ate, kooro tomɛ o bonɔɔ Heeman be ŋɔ ó ba warane, ásɛ ba la o haah Ɛsta be.",A na-akpọrọ otu me obodo na-adịghị ma be nwoke na-alụ nwanyị. A na-akpọkwa ya ụlọ ọrụ. A na-akpọkwa ya ụlọ ọrụ.,1.1111,1.0909
+80,"Korowii taahna ɛɛ lawɛ heyaa he bii dɔe bini, ne koo kwaa ne nae dɛ peera yae ta.",Kwerebe cha na eluigwe hịa ịbịbịa ebighị ebi. Nịịkwa na ị na-adị njikere ịga,1.0,0.7258
+81,He bɛ anɔ la aa leera la ɡe kuuh dɛɛ ja.,Ebe a nọla a lee raala gi,1.0,0.5517
+82,"Baa lawɛ he bibaala ne bihaahnaa he che dɛɛ nyiŋi bá yoɡ ba kɛŋɔ yoma, dɛ́ kpɔ ba kaa harɛfale ta, ásɛ he siwi swɛɛ hɛɛ nyiŋi kɛŋɔ he bii ɛɛ bao á ɛ pɛɛpɛɛ.","Bịa na-ehi bibala, ịbịghị ha na a ịchịghị enyi, bịa yọọ gị ba kee nwụọ ma. Dekwa baka ha refalita, a sịghị gị suo ya, e enyighị gị kee nwọ. Ịbịa eba, a epepe",0.9714,0.6441
+83,"Dɛ naate berɔ dɛɛ nyin kɛ ó yawɛ aa, a chɛ kɛ ó bɔ suuɡa la dɛ́ bɔne a bini bɔre anue dɛ́ bɔ bɔrbeŋkpoŋ ja a ta.","Nna ya biro de nye nke uya wa, a cheke ubo su ala, de bo ni a bi ni buo ri a nu ya, de bo buo ri be nkpo nja a",1.1071,0.4568
+84,"Hɛɛ dɔ kondikwaa bɛlbwa haa dɛ nyinii dɛ́ di, dɛ́ so deŋnesɔɔhna ta he harɛ ta.","Ha dokwinikwa bigbaha adin'yi dedi, desodin sonata, hi harata",1.0,0.4
+85,"Le awola tɔpere laanee Kooro Devid kpɔ do Asaf ne o nɛra baa ja o nɛɛ nɔn ta ŋɔ, bá ɡo yela dɛɛ kpɛɛ Korowii.","Le awra to prelaa ne koro David, podo Asaf ne onaira, baaja one non taa nwo, bago yelekpe kuro",0.88,0.3614
+86,"N sie ɛɛ beɡre he nɛɛ, dɛ́ ɡel he dɔma pɔ he nɛ, dɛ́ɛ nyiŋi he nɛ.","nsi a ebereghi na, bekee na-ehi dọma pọhị na, na-enye ngị na",1.0,0.6222
+87,"O merɛ noo la kera anuanɛ saraha kon la ne o koŋkwaa bwa ta, loɡa ne loɡbajen ne kon waa dɛ chɔŋɛ o ta.","Onye na-anụ laakra anụ ahụ, sịrị ha kụọ nlata, nekwa nkwụ a gbata. Lugha na-enro gwa jee nne kụọ a richọ ya",1.0,0.5769
+88,"Kwaa Korowii aa taa la, anee baa tomɛ, dɛ ɡel Korowii ɡbaɡba.","Kwakworo we atala, ana iba tume, dege krowi gba",1.0,0.4255
+89,Belaa n fe ɛɛ ba harɛ maa baɡɛ ba naawa nyoa ŋɔ o ɛ harɛpare ondɛɛɡe la kpɔe tɛɛ ba ó ɛ ba kon.,"mela ife eba, ha ri ma ba ge ba na wa nyo anwu, wee ha ri pari unde gi la kwe keba uwa ebakwu",0.9583,0.4789
+90,O ɛo kɛŋɔ bá fee saɡɛ Mɔdekae waa lɛ he nyu ta la o ta.,ya ke wa ba fi sage modika iwale hinyutala,1.0,0.5
+91,Hé ŋɔ n bwɛɛ tena Andronikus ne Junias ba fa aa do n ne ba dea ka la be ŋɔ n dɛ na ba.,"N'ime mberede Andronicus, ndị juniors bafa adọ nri baa di akala dị nọ nne na",0.9583,0.4839
+92,"Korowii ŋɔ n be ŋɔ, ‘Juda koranar ne Jerusalam tena, hé bwa cheɡ deŋne no men Koranar Bwa Kooro, Israel tena aa dɛ tom mɛ aa dɛ bol.","Kwere nwa m, ndeewo. Ihe a kụrụ na Jerusalem taa, ịbachigideghị n'ime kwere na gba kụrụ, ị ga-atụgharị a na-atụ mme, a na-egbu",1.0,0.62
+93,"Ásɛ nɛn waa jemɛ waa dɛ do pwɛre aa tedomaa dɔ tɛ o ɡbaɡba nime, kɛɛ o dɔɔ kɛɛ o haah kɛɛ o bii baa kaa.",A sị na wa ji mee wa daa dịkwa ere a cịdụma dịte ụgbagba nịmị ke ụdọ ke ụha ke ụbị baaka.,1.0,0.5584
+94,"Ɛsta nya ne o mɛɛ aa sewa la, Mɔdekae kpɔɔ berɛ o ɡbaɡba bie dɛɛ nyiŋu.",Estar nyane o mee a siwala. Modekai kpoo biri ugbo gba bia de enyi,0.9375,0.3889
+95,"Baa bɛlbwa kɛɛ haah ŋwɛr aa ɛ o nyu kɛɛ o taŋɡbaɡre la, a chɛ kɛŋɔ sɔfo ba nyiŋu na ɡɛ waa doa.","Bịa be kwa ke ha nwerụ a, e unyuke ụta mgbagharị la, a che ke m sọfụla anyị na ge wa adụ.",0.8696,0.5211
+96,Bá laa o pwɛ bela waa wera la ne o kporombie anɛ la laa kpɔ a pɛ dɔŋa nɛ.,"Bịa laa, ọkpụrụkpụ ị na-alala akpọ apịdọ na",0.9474,0.6481
+97,Nomonome warɔ le Eliasa naanar bini ɡwaa Itama naanar.,"Nọmba mụwara le, ịlịa sa na-anarịbịni, gwa ịta ma na-anarị",1.0,0.3111
+98,"A chɛ kɛ ń bol Yeesu Amanesoma la nɛra bwa be, nɛra baa kaa sie ne banɔ la baa ka mun, nɛra ba sie aa pila ne banɔ la ba sie aa wola pile bwa be.",Aka kamun Yesu amana sumala neraba be. Neraba kasiye ni banolaba kamun. Neraba siya pilani banolaba siya wula pile bwa be.,0.8889,0.2617
+99,"Koojen do nɛra baa lɔ koodem bela dɛɛ ɛ toma la bwa ŋɔ, báa ɡuŋi Heeman harɛ, dɛ́ɛ duuru saŋ bɛlbwa.","Kedu ihe i na-ara? Biko, nye m ihe m ga-eri. Biko, nye m ihe m ga-eri.",1.0,0.7895
+100,"O ɡelɔ ya jemɛ ya liire bini waa aa lole saŋ la, ne anɔ la aa chiɡ kerekere saŋ bɛlbwa dɛɛ la, kɛ yaa won no waa bwa Korowii aa ɛa le mumpar kaa a jaɡa mun.","Gị na ya jina ya liri bini, wa a lụlị sọọla. Nị anọla achịkịrịkịrị sọọ mberede la. Ke ya bụ nnụ, wa gbọkọrọwị a, ya limụ mpari ka ajaga",0.8919,0.4872
+101,"” Anomanta, Josua leɔ dɛ kaa yo Amalɛk tena la ɡɛ Mosis aa doo la, asɛ Mosis ne Arɔn dɛ Hur kaa deŋɡare la doa.",Ncheta? Joshua lee ka Jehova gwara Moses ka o mee. Laa gee Moses na Aaron. Ha huru ka ha dingara,1.0,0.5783
+102,"Ba kpɔ suuɡaswɛm ne suuɡapoŋa, dɛ ɛ bobɛl o ir nyundua.","Bako sugar, sani sugar punga. De e bu bell u irin ndu",1.0909,0.5814
+103,Asɛ o chwerɛ Sukot nomonome fifraanuanɛ dɛ banuanɛ sɔna tɛo.,Ochere sukwatunu moru mi fifura nuane de banuane sonatio.,1.0,0.38
+104,"Sɔfo la kpɔ chal la ane ɛ kwaa aa paaɡe kon baa dɛ fuh daawiile a sɔɔh aa soma o ta la loŋkoni la ta n sie, n Dea Cheremibɔr bela.",Chineke chere m bọọbụla.,1.0,0.8367
+105,"Ó kpɔ o pwɛ la ne o kporombie la pɛ dɔŋa nɛ, ɡɛ tenten baa laa deŋnesɔɔhna saraha nao noo dɛɛ kpɔ o ta la.","Okwa o point laa nee, okwa ula mbia laa pee dogo nee. Geti nti baa laa di nso na nsora ha now, nu ula ekpo utara.",0.96,0.575
+106,"Korowii ɛɛ ɡeloo ɔɡra ne ŋwɛra aa ba Ijipt tena nɛɛ la dɔŋa chole he nɛ, haa wola won chah.",Kedu ihe ị ga-eme ma ọ bụrụ na nwa ya abaa Egypt na na dọkịta na-adịghị? Ha abụọ ncha.,1.0,0.7286
+107,Sɔ́fo la ŋɔ o be ŋɔ doŋa bɛlbwa toole o nɛ.,Sofulamu obi nwa donga be gba tole,0.9091,0.5484
+108,Banee dɛɛ lɔ janjela ne anɔ la baa kpɔa dɛɛ hɛlɛ bwa.,Mba na-adịghị njikọ na anọla ma kwụọ dị,1.0,0.6829
+109,"Wekpeɡa maa bol a waa nɔ bwa ɛɛ ba he nɛɛ, dɛ́ ka he nɛɛ ka tel kɛŋɔ he bwa aa serewa, dɛkalkɛŋɔ he ta Korowii waa noɛ.","wepụta ma kpọọ awa anọ gbaa ebe ahịrị ya dịka ahịrị nke na-esote ya igba asiri ya. Dịka nke na-esote ya, ịtakwụrụ ya iwa anọ ya",1.0,0.6818
+110,Dɛ́ berɛ kpɔ sen pɛrɛntoa beŋkpoŋ ne fah ɛ sen saraha ja a ta.,"Debrah Lawson, Parent to a B.Com. Nifa Senior High, J.A.",0.9286,0.5745
+111,"Sɔ́fo la berɛ kpɔ noo la ane dɛ́ fuɡe do o ɡbabir ɡal nɔmpaa ta, dɛ́ kpɔ o diɡ noni do a ta, dɛ́ ɛ ane merɛ n sie bela kera anuanɛ.","So, Fola Black pọn nụla a na-efu na Edo ugballi gara nọmpata. Nekwa odighi nọọ na Edo ata. Lee ya a na-emere nsị Black kịra anụ ọhịa.",0.9688,0.5484
+112,"Dɛ yoɡaa ba yoɡ yaa kɛŋɔ yoma kwaraa naa, n fe ta waane dɔe dɛ́ bol dɛɛ hae.","De yoga bu yoga, ya ka nwa ya oma kwara ana. Mfe taa wa na-ede ede bu de ha",1.0556,0.4286
+113,"Silɛɛ bɛlbwa aa n nɛra nɛɛ doe ba, dɛkalkɛ ba ta kaeh maa kah ba la ne n deŋnetɛra la ɔmɛ.","Chineke bụ onye na-enye ndụ, nke a ka ọtakịrị akaebe na-adịghị etinye n'ọnụ",1.0,0.75
+114,A ɡɛ tɔpera anuanɛ nɔ bwa taa chɛ kɛ bɛ́lbwa kpɔ o saraha baa fuah bá tɛ mɛ.,A ga m akpọrọ anụ a na-anọ gba taa cheke bọọlụ sị na ha baa fụọ bata,0.9444,0.5789
+115,A ɛ saraha baa dɛ fuh a bwa a sɔɔh ɛɛ do som n be.,Es-tu un bon élève ?,1.0,0.8571
+116,"Dɛ́ le ɡɛ saŋ Korowii aa ta harɛ la, o bwara waa nɛwɛnyini aa wola wone dɛɛ na siwi ne, kɛŋɔ o kpeɡri aa wola jaɡa dɔe ne o dor bwa, o ɡelɔ nɛwɛnyini na a bwa.","delegation krowa ta harala. O buru wa na ewenyini a wula gwone de na si wine, ke nwa okpoiri a wula jaga dwayi ni odorugba. O gburu na ewenyini na",0.8919,0.4492
+117,Mɛɛ ka che bwe bɛl jwɛɛh Sinai Bwejen ta belaa dɛɛ kpa heya.,"Maka chi buwe adven, si na kwa ije nta bu ala di kwa gi.",1.0769,0.5532
+118,Taraken hé ɡel he dabene la ne waa he fa aa dɛ teŋɛ a ta la.,"Trachten, Hegel, Heta Benila ne wa hifa detin atal",0.9375,0.3864
+119,"Dɛ nɛnee kɛɛ kondɛɛre kɛɛ harɛɛ yoo, o do ɡoroŋ dɛ tɛ mɛ, dɛ ɛ n kon pi.","Nne na nke kụrụ ndị dị ka ha bụ ụdị gị ndị taa, lee nke m",1.0,0.75
+120,"Dɛ Filisti laa tena ɡe boa ba nyoa, dɛ cheme Refaim Fɛlembɔjen bini.","Na philistine na Chineke bụrụkwa banyere Chineke Raphael, felie mgbe ji mbido",1.0,0.6852
+121,"Oo, n Naa Korowii, umee lole waa wola hen ɔmɔɔ?","O na-ekweghi, umu ya lolewa ulo ahia omu.",1.0,0.5429
+122,"Israel tena baa soɡe Dan dea harɛ ta dɛ kpoŋe kaa Beɛseeba, dɛ banɔ la baa soɡe Gelead harɛ ta bwa baa cheme Korowii sie Mispa kɛ nɛmbeŋkpoŋ.","Isi na basu gi dan, di ha reta, de kwunye ka, bia si ba, de ba nola basu gi, gi li ha reta, bua, ba cheme krowisie, mes pake ne me ngwu.",1.0714,0.4196
+123,"Waa maa naa laanee kɛŋɔ n dɛ nyin wedɛɛɡa ɛɛ yaa, dɛ komɛl ŋɔ n bɛ ɛ.",wa mana la ne ka nde nyi wi de ga e ya de ku me nyi mbe,1.0,0.5098
+124,"Men Pɔɔl maa ɛ Yeesu Kristo bonɔɔ la, men chwerɛ tɔn nɔ.","Mpempa ma Ayeyi Kristo bo no nla, me nkyere to",0.9167,0.4419
+125,"Anomanta, Korowii ta ba waa tɛɛ ba, asɛ baa ɛ wedoŋa ba bambile aa lawa, dɛɛ chɔ baala ne haahna aa wola Korowii ŋwɛnɛ ta ɛɛ.","Anwụnta kwuru ihe a agwaala ya baa, a sị na ewidonụ akpịrị mmiri alawa. De chọbaala ni ha ana, a wụla kwuru ihe i nwere taa rie.",1.0385,0.5521
+126,"Mɛɛ nyiŋi he nɛɛ dɛ́ ɡel he mun ya kohona, ásɛ n ne he fɔo yaa fɔwɛ la che.","Nne ya nyịrị ya, ọ sị nne ya fọọ ya ya fọọwa",0.9474,0.7222
+127,"Anee n chaŋe ŋɔ, “N Naa Korowii, á ɛ ɡɛ.","Anya m n'ihu gị, na-ekwe gị aṅụrị. Anya m na-ekwe gị n'obi ṅụrị, ka bụrụ",1.5,1.4444
+128,Bol nɛra la ɡe be ŋɔ bá cheɡ deŋne dɛ́ no waa aa lɔ fɔo nɔ ta kɛrɛdɛ dɛ́ɛ teŋɛ a ta.,"Bụrụ na-ala gị be, ngọ, báchie gị dingịrị, na ụnụ wa alọfọ ụnọ takịrị, dee chigị atọ.",0.9545,0.65
+129,"Anomanta, Korowii ŋɔ Anatɔt baala bane ŋɔ n bɛ Korowii waa bol o sɔn ta, ɡɛ laa aa baa kpo mɛɛ.","A mụta kụọ ihe ọka, ma laa, baa n'ihe ọka. Mbe kụọ ihe ọka abụọ, ọ sọọ ya, ya laa, baa akụọ mị.",1.0476,0.6528
+130,"Korowii ja o nɛ, dɛ ɡel o pɔ bobɛlbwa nɛra waa laŋa ka yo bwa nɛ.",Krowi ya one na-agelu opo gbugbelu-banaala oalanga kayo gba,1.0,0.5417
+131,"Ba teŋe Kooro Sɔɔl nyu, dɛ pa o dɔmkwaa ja, dɛ tomɛ toroma Filisti harɛ la ta bwa ŋɔ bá ka bol amanesoma nɔ ba voɡa deene ne nɛra bwa be.","Bà thèng ẻ kò rồ sòn nhọ, đẻ pả ủ đòm khoả dạ, đẻ tù mè tù mà phỉ lỉ xì hà rề lạ tạ bùa. Ngọ bạ cà bồn à mằn sù mà nọ bạ vùa đin nì nì nề rạ bùa.",1.3871,0.6923
+132,"Tɔpere bɛlbwaa Mɔdekae yon le o dem dɛ́ la haahna dobɔr la sie bela, dɛ́ ka valɛ la sie dɛɛ ba habɔɔ kɛŋɔ o ken ɛɛ na Ɛsta dembaah belaa ɡɛ waa doa.","Tupu ịmalite ịbụ onye na-eweta ihe nkiri, ọ na-adịkarịsịrị gị mkpa ịbụ onye maara nke ọma na edemede gị.",0.9697,0.7857
+133,"Onee waa baa kpeɡ la, o ɛ banyoo dɛ do kpeɡri kohona harɛ nɔ ta la.","Onye nwe anyị abụghị onye na-achọ ka onye ọ bụla laa n'iyi, kama ọ chọrọ ka onye ọ bụla chegharịa.",1.25,1.1
+134,O kpala ne a nyoo aa kuuɡa chɔ bwejena ne fɛlembɔjena bwa ta.,"Opara ni unyi aku gwacho, gwije na ife ni mgbe oji na gbata",1.0,0.4792
+135,"Hɛɛ dɔ ɔleve he harɛ taa ɡa, kɛ haa a noo dɔe ba, dɛkalkɛŋɔ a nɔna dɛ ba chaara lee.","Onye isi ala Olusegun Obasanjo kwuru na a anụghị olu ebe a, nke a ka ya bụ anụ na adịghị anụ olu ebe a.",1.15,0.9032
+136,"Eliasa naa Sadɔk ne Itama ɡe naa Ahemɛlɛk cha Kooro Devid, asɛ o bɔne Arɔn naanar la bini kuore ta, dɛ kpɔ bɛlbwa toma do o nɔn ta.",Iliaza na sa doko ne ita mage na ahimale cha koro debi ase ubo ne aron na narala bini kori ta deko belwa tumadu ononta,0.8929,0.297
+137,"O nɛɛ Korowii che dɛ sune nomɛlbwa nɛ, dɛ cha yaa kohona a ɡwaa Adam wechɔɡa la.","Nne, kedu ka ị dị? Ndị ụlọ gị nọkwa ya? Dechaa ya akwụkwọ na-agwa Adam ụchọghala",0.9412,0.629
+138,"Dɛ kooro dɛ nyin nɛra chao waane ta naa, o kpɔɔ dɛɛ bil wejerema baa jemɛ mmarare ne bela waa bini sie, ásɛ ba yon jao.",Okorobia nyere aka weta nri. Okwa o di mma ka anyi mara ihe anyi ga-eme ma anyi nuchaa. Aseba bu onye nwe,0.9615,0.7033
+139,"Ba ŋɔ, “Ɛrɛɛ he lawɛ yaa le Ijipt harɛ ta, dɛ ɡel nyɔɡre baa kpo ya ne ya bii ne kondɛɛra ya bwa serewe nɔɔ?",Rai lafiya ya fi jin harita. Daga inyo ri baƙo ya ni ya bi ni kundera ya gwashe ni waina.,0.88,0.5125
+140,"He toma ne wobɛlbwa haa ɛ la, Korowii taahna ɛɛ lawɛ heyaa.","Ihe mere ugbo ugbo ha ela, kedu ihe a na-ela na ya?",1.0,0.6304
+141,Hé di ɡɛ tɔpejen nɔ bena bɛlbwa tɔpera anuanɛ.,Ihe dị ka topị jenọ bụ na be gba topịrị nụ a,1.3333,0.5405
+142,"Tɔɔ perɔ aa, baa kpɔɔ la sɛnanar denɛɛte ta, dɛ́ ka do kooro bonɔɔ Saasɡas baa fɔɡɛ o lur, wɛɛ nyiŋi kooro haahna nɛɛ la nɔn ta.","Tupu a pụra, bákọọla sị na na-adịghị etita. Dika dọkịta oru bụ na sọsọ gasị baa afọ gị, ụlụ wee nye nkọwa ha na-ala n'ụlọ.",0.963,0.6082
+143,A chɛ kɛ ya bɛlbwa kpɔ kpeɡri Korowii aa sune o nɛɛ dɛ tɛo la ɛ toma.,"Acha ka ya ba da ba ko kwairi, krowiya sunai, onai da tiyaw la etoma.",0.8824,0.4615
+144,"” Asɛ n lɛ tɔnjeɡa la le o nɔn ta, dɛ kpɔ chwe, o do som n nyoa bini kɛŋɔ tooh ken.",A se le tonjigala le ononta de pocher. O dusum nyo abini ke otu ke,0.9048,0.3793
+145,Askenas ne Rifat dɛ Toɡama.,askinas ne rifat,0.6,0.4091
+146,"Korowii Tɔn baɡlɔ kɛŋɔ, “Naate o wa aa toɡra dɛ su Korowii siwi la, wɛɛ yaradao dɛ́ dɔ o nyu.",Krowi tomba galo kengo na ti uwa tugra de su krowi siwila weyara dawo de do,0.95,0.4203
+147,"Gɛɛ sɔfo la ɛɛ ba ɛɛ, dɛ́ soŋe naate wechɔɡa waa ɛa n be ásɛ n kpɔ kɛo.","Gị sofula ebe a e, na song na-atọ we chọọga wa ya mbe asan kpo kịọ.",1.0,0.4902
+148,"He ta teŋɛ he deŋnekpeɡ la ta haa n waa ta teŋaa, mɛɛ berɔɔ ja he deŋnetɛra la ta bele anuanɛ.",Ihe kpatara anyị ji dịrịkwa ịta ahụhụ taa bụ na anyị bụrụkwa ndị na-adịghị etinye obi anyị n'ihe Chineke kwuru.,1.0,0.9583
+149,Ya Dɔɔ Yeesu Kristo nɛɛ o che dɛɛ tɛ a ɡɛ mkpa nɔ.,Ya do ya krisinai ochi deke age ngwano.,0.9231,0.5676
+150,"Dɛ o haahna warɔ, anomanta, o bibaala lɔ fifraanuanɛ.","tumate, bechara, alomanta, usunotel, babe, dakoba, delakundega, bakosu gasoyem iya, ado banyongmare",1.3333,1.4048
+151,"Sɔfo la ɡel ba dɔ nee waa dɛ palɛ do vii bini, ásɛ dɛ kpɔ jumbii la bɛl chaɡɛ vii la ta dɛ́ kpoo.","So, if you like, I'll buy Donny a pair of shoes, Bini. I said I'll buy Jimbi a pair of shoes, Vira.",0.9583,0.7746
+152,"Dɛ sɔfo la nao kɛŋɔ weela la lɔ naate bwadabii bwa ta, le o nyundua ba ta harɛ naa, wɛɛ berɔɔ nyiŋu.",Ya sofula na aka nwa wee lara alọ na-atigbere bee igbata lee unu ndu abata ha ri na wee buru onye,1.0,0.4605
+153,"Anee dɛ́ ɡel nɛra jemɛ kɛŋɔ men Korowii, n pamɛ n kere aa, maa berɛ kpɔ su o tɔɔ ta kpa.","M'in koro bi, m'pame kera mahabere kosu utota.",1.0,0.6094
+154,"Dɛ a ɛ silɛɛ ne hɛɡra dɛ tɛ Juu tena la, baa duu ba bobɛlbwa.",de a esilele heela de te ju tinara ba du ba bu bel,0.9333,0.4444
+155,"On dɛ bɔ ba kem, dɛkalkɛŋɔ ba chwerɛ Korowii Tɔn bini ŋɔ, “Korowii bolɔ ŋɔ, ‘Mɛɛ tɔ a peɡee, mɛɛ bɔ ba a kemee.",Mee boba akim? Nke a ka mụ na-akọrọ gị tupu m bido ịṅụ. Kedu ihe ị bụla ṅụ? Mee tọ apịgị. Mee boba akim.,1.0,0.7284
+156,"Dɛ waa nɛn aa wola Korowii yarada a ta la, dɛ o te dɛ yaradao.",da wani na'ura kowiya a tala da otireyar da,0.9333,0.4348
+157,"” Anomanta, n laŋɔ dɛ ka kpɔ do Yufretis Moo bwebɔɔ bini, ɡɛ Korowii aa ŋɔ n be la.","anata, nlangọ, di ka kpọdụ ụfọdụ ụmụ nwanyị bini, gị kwere mụ anụ mgbe",0.8889,0.6066
+158,"Hé kpɔ kwaa haa fuah ɛ saraha tɔpera anuanɛ la bwa ba tɛ mɛ, ásɛ tɔpenuatoro wee la, hé bwa cheme dɛ́ tom mɛ dɛ́ fuh saraha kwaa tɛ mɛ.","Hip hop kwaa ha afụa, e sere ha tọpuru enu ala na-agba bateme. A sị na tọpị enu ntoro wee laa, ịgba chimị, dịtụ mma, dị fụsịrị ha kwaa atem.",0.9667,0.4554
+159,"Midian tena la ɡelɔ Israel tena la nya komɛlbwa kwaraa, asɛ ba wi no Korowii ŋɔ ó cha ba.","mị dị atụ na ala gị na ị dị atụ na ala ya, ụmụ gị abụọ kwara. A sị na ị nụ, koro gị ṅụọ. Ụcha",1.3684,0.5652
+160,Harɛ ta nɛn te bɛlbwa ɛɛ ba ɡuŋi he siee dɛ́ tomɛ.,Haratan 90 bell boy bagu hisiye,1.0,0.5676
+161,"Dɛ Abraham di bene lafa tonɛ, dɛ waa kpeɡe kpa.",Abraham,0.9,0.8056
+162,"Dɛ ɔr ɔrɛ nomɛl dɛ ba tonɛ, asɛ o buɡ la to kɛɛ dɛ swɛɛraa, a chɛ kɛ naate kpɔ o te ka chaɡle sɔfo.","ya oru ohanne debatunu, asi ubugi la cho ke de shera. Acha ke na atikwa otu ka chaghali so",0.92,0.5417
+163,"O cha bane ba won che o kpeɡri ta dɛ ɛ o toroma, dɛ cha bane ba won che o kpeɡri ta dɛ bol o wa, dɛ cha bane ɡe baa bol o Amanesoma la.",Chabani bawonci ukwiyirita da e'otroma. Chabani bawonci ukwiyirita da bul'uwa. Chabani ge ba bul'u amanisumala,0.9714,0.3469
+164,"Dɛ ba berɔ ba na kɛŋɔ ba ɛ wechɔɡa aa, bá bwa pɛ dɛ lawɛ nabal ba n Dea Cheremibɔr doonyoa bɔr bela, dɛ́ kpɔ ba ɛ ba wechɔɡa kpɔe dɛ kɛ saraha.","Ya bụ abịrọba na-akenụ ka e wee chọọ gị a, gba kwape ndị na-ewe na ndị achịrị mgbe ochie ụnyahụ agbanyeghị. Dekpọba anyị ka e wee chọọ gị kpee dekesara",1.0,0.6449
+165,"Nomɛlbwa waa di ol baa kpɔ ba ɛ saraha dɛ fuh tɛ mɛ noo la, bá pero le o nɛra bini.",Nume gwa wa di olu ba akwụkwọ a esiri ha di nfe n'ụwa la. Biko nyere anyị,0.9048,0.6393
+166,Gɛɛ a do baa yerɔ Kooro Devid Bwɛjen.,Adu bayero koro David,1.0,0.4828
+167,"Dɛkalkɛŋɔ ɡɛ nɛmbeŋkpoŋ deŋnekpeɡ aa ɡela nɛra bwa ɛ wechɔɡ-ɛɛra la, ɡɛɛ a che nɛmbeŋkpoŋ pwɛre waa doa ta, asɛ Korowii lɛ nɛra kɛrɛdɛ kɛ nɛndɛɛɡa ba waa su o siwi.",Nke a ka m ga-agwa ndị mụrụ onwe ha dị ka agla n'eragba ekwuchọọ erala. Gị a na-eme mkpọtụ pụrụ wa duata asị kụrụ gị ile n'era kerde ke na ndị ga ba wa su usụ.,1.0968,0.5846
+168,He bɛ toma bɛlbwa ɛ ásɛ dɛ kpɔ saraha kwaa baa fuah ba tɛ mɛ.,"Ibeghị m abịalụ gwa ya asị, na-kpọsara ha kwaa baa afụa, ma ten",0.8667,0.5217
+169,O kpɔ lampea ka yo baala lafraatoro dɛ kpoo ba.,Opalampia ka yu bala lafratur de,0.9,0.4054
+170,"Anee o chaŋo ŋɔ, “Nomoa, dɛ Korowii ja ya nɛ aa, ɛrɛɛ anɔ bwa berɛ pu yaa nɔɔ?","A na m ochị ọchị n'ụmụ a na-ekwu na ije ya na-ala. Ọ lee anya gbaa bọọlụ, ọ ga-anọ",1.0556,0.6429
+171,"Mɛɛ kpɔ naate wechɔɡa bwaa kɛo, maa an lii kpa, dɛkalkɛ o waa toɡrɔ.",Mepụta ihe nkiri sugar boy Akio ma Anli Ipa dika owa togo,1.0,0.5577
+172,"Boas aa di kondikwaa la dɛ nyɔ sen o sie lɛ la, o kaa chɔ mea baa boa a nyoa bil la jwɛh.",Bụa adịkọrọla na ya sị na usiere la. Ọ ka chọrọ mụ ịba bụa anya bilu la,0.913,0.5538
+173,"Anee Mosis ŋɔ Josua be ŋɔ, “Le ya baala nɔ bini bane, ásɛ he ka yoo ba.","A na-eme oche si nwa gị nwoke a bịa ṅụọ, lee ya gbara nọọbụ ịlụ ịbanyị. Ọ sị gị ka ya ṅụọ",1.1765,0.7843
+174,Ba kpoo Israel tena ɡalɡa Gelboa Bwejen ta.,"Bapu is writing a gal-ga, gil-wa,",1.0,0.6
+175,"A chɛ kɛ naate lawɛ pebal waa wola kirihiah bɛlbwa dii o yoɡ do ɡɛ baa maɡa la ba tɛ sɔfo la, ásɛ o kpɔ ba ɛ bolchɔɡe dii saraha tɛ men Korowii dɛ́ kpɔ bɔ o wechɔɡa la kem.","A na-agwa ya pụba awa ole na ole ka ihe a bụ ịgba di, ụyo dị gị ebe a mara ara, bata sọfụla. A sị na ọ kpọba ya bụ ụchọrọ ịdị, sị na ha tennị, nkụrụ nị, na-akpọbọ o wee chọọ ịla",1.025,0.6
+176,"Awola waa kpɔ o bolchɔɡe dii saraha ka tɛ sɔfo la, a chɛ kɛ o berɛ kwaa la bwa tɛ naate, dɛ́ bɔne anɔ la waa bera tɛ la dɔŋa bini anue, dɛ́ bɔ bɔrbeŋkpoŋ ja a ta.",Agulawa akpo obodo choro idisiri ha ka ha tasia ofu nla. Acheka obodo kwara lagbata na ati. Debone anorawa pirate na dona bini enu ya. Debo boribe nkpo nja,0.9474,0.4454
+177,Banee Sɛm ne Ham dɛ Jafɛt.,"Bane, Sam, Neham, Nejafer",1.0,0.3
+178,"” Anomanta, banyoola batoro la kpɔ bansua jo harɛ Filisti laa tena la aa soɡe o ta la ta, dɛ ka dɔ nee le kɔlɔŋ waa chɔa bɛne Bɛtlɛham doonyojen bini la ba tɛ Kooro Devid.",Anwụnta bụ ụmụ ahụhụ na-akpa nsogbu a dị iche iche na ala. Sọ gị ụta na-asị na ka do na elekọta wa chọọ be ni be teraham do onye ji mbịni na bata koro debit.,1.0,0.5303
+179,"He bɛ toma ɛ awola tɔpere la ta, o ɛ Wechɔɡa Soŋa Korowii Be Ó Kpɔ Kɛ Tɔpejen.","Ịbáta m n'àlà, a rátá m rịlátá. Ọ bụ ya mere m ji wee sụọ akwa wee ibe. Ukpo ka etopijere",1.1667,0.7627
+180,"N kpɔ ɡɛ waa nɔ daah ba, dɛ́ na kɛŋɔ dɛ ba ta ba liire charaa, ásɛ ɡɛ waa nɔ ba ba nɛ.","Nke a bu ihe o na-eme. Na nke ya, na-ebata balire chara. A si gi na o bu",0.9565,0.6167
+181,"Wɛɛ do somee kɛŋɔ tooh ken he nyoa bini, dɛ́ berɛ do kpeli he tea bini o ɛɛ haŋŋ ken.","Onye ọ bụla na-eme ka ọtụọ ka ehi ya bini, debere dịkwa elu hite abịni ụlọ ahịa nke",1.0,0.619
+182,"” O lawɛ bwɛɛ la nomonome dɛ lɔɔ ba sɔɔhne ne jabalnadaŋɛre ne, dɛ tɛr ba deŋne bá kpɔ hweli wa.",,,
+183,"Mɔdekae no waa la, dɛ ka taa baɡle kooro haah Ɛsta.","mde ka inu waala? Dika taa bagiri, k'oro ha",0.9091,0.3846
+184,"Aminadab, o ɛ ba nyu te dɛ chɔ nɛra lafa dɛ fi dɛ banɛ nyoa.",Amina da uwa banyute da cho naira lafa de fide bananyo,0.9333,0.25
+185,"N dɛ na Asiŋkritus, ne Fleɡɔn, ne Hɛɛmes ne Patrobas, ne Hɛɛmas, dɛ yabala baa jaa la bwa.","Nana Asinkritos, ni Flegon, ni Hermes, ni Patroba, ni Hermas, ni Yabala",0.9444,0.4118
+186,Gel Josua no dɛkalkɛ n dɛ ba Amalɛk tena chɔɡa baa wola ba waa no harɛ nɔ ta bobɛlbwa kpa.,"Jesu nọ́ dẹ́ kálkẹ́, ndé bá ámálẹ́ḱ tị́ná chọ́gá bá wụ́lá ábáwá nụ́ hẹ́rị́ nọ́ tábụ́ bẹ́gwá",0.9,0.4143
+187,"Belaa Kooro Devid berɛ ka yo Soba Kooro Hadadesa, hale dɛ ka le Hamat, ɡɛ saŋ waa la Yufretis Moo nyoa dɛ ka lɛ bela harɛ ba do o lɔɡa ja la.","Bịa kụrụ David bịara ka anyị ṅụọ. Sọba kụrụ. Adịghị sa. Ha lee, ha lee, ha maat. Gị sanwaala Euphrates ṅụọ ya. Dekalụ. Bịa harụ. Bado ụlọ gị ala.",0.9688,0.4953
+188,"N keame bɛlbwa baa neɡro o bol waane la, dɛ men Korowiirii neɡro o bol.","Nke a mere beba na Negro ụbọchị ụka, dị mekurọwiri Negro ụbọchị.",1.0,0.5091
+189,dɛɛ mam ba.,"ɔmɔ. De na wa kuro wi a, ya de kɔ du",3.6667,2.625
+190,"Anomanta, nɛwɛnyini aa won ŋɔ baa jemɛ kɛ Korowii lole.",Anambra na-ewenine awo n'ọṅụ baa ajịmeke krowii lụlụ.,0.9,0.4545
+191,Dɛ Kooro Devid ne Israel tena la bwa dɛ lɛ ba sie.,"De koro David ne Israel tin ala gba, da le Basie.",0.8333,0.2105
+192,"Bwaala deŋɡare bar o nyu, o siebɔr ɛɛ chaah kɛŋɔ wee, asɛ o nakpale ɡe do kɛŋɔ nii.","balụ dị ya bụ arụ unyụ, usieghịrị ya chaa nke nwanyị, asị ụnakwalị gị dịkwa gị n'ime",1.0,0.6349
+193,N bandia ɡelɔ n dɔ bokpeɡa.,ya na-ala tinye nu. Ke nu nteriba dọma dinginị bọkị. A na m enye kwa ke nu ma nyịga nta nụ mụ egbara nna anyị ụbọchị amị. Mba ndị a gịrọ ndị ọbụkwa ndị bụ ndị pọọ ndị,6.3333,5.381
+194,Ásɛ nɛra baa lɔ Ijipt harɛ ta bwa jemɛ kɛŋɔ menee Korowii.,"Nera baalo Egypt hare ta baa, gimekeŋo mini koro wi.",0.9167,0.413
+195,"Yabala, n dɛ nyin kɛ hé jemɛ kɛŋɔ saŋ bɛlbwaa n fe ɛɛ nyin kɛ ń ba he be, asɛ waa yon dɛɛ tɔ mɛ ŋwɛnɛ.","Ya bala wa, na nyin ke hi gi meka, m'o san belu ba, m'fie nyin ke mba ibe. A si wa yo nne, tome nwa",0.9615,0.4865
+196,"O ŋɔ, “Korowii ɛɛ ba lɛ heyaa, anomanta, a chɛ kɛ hé kpɔ n chɔɔ le bonɔ harɛ nɔ ta.","Chineke ekweghị ebele hịa, anụmanụ, achịkaghịkọ ntị ọlị bụrụ harị nọta.",1.0,0.6271
+197,"Taraken, wɛɛ ka ja nɛra baa wola men tomɛ ne banɔ la baa kpoo ba laa ta la nɛɛ.","Tarke, waka ja ni ra ba wula min tume, ni ba na la ba ku ba la ta la ni.",0.8421,0.322
+198,"Ate, kooro ŋɔ o nomonome la be ŋɔ, “Vasti vɛh yera men Kooro Sɛksɛs aa tomɛ n bonɔɔna ŋɔ bá yerɔ ó ba la.","K'ọrụ ọnụmụ n'eme labe nwa, first ive yira mean k'ọrụ success atụme m bụ nọ na nwa bayịrọ ụba",1.0,0.5769
+199,"Babelɔn kooro cheɡɛ ŋwɛnɛ chɛchɛre la ta, dɛ kpɔ o hɛma bil daa, dɛ́ jemɛ ŋwɛnɛ waa kpɔ o ta.",Ndi be anyi ekoro chigide nwene ha cheretara. Deputa onwe ma bido. Dejime nwene wa akpo,1.0,0.6
+200,"Awola tɔpere la jwaana, kooro ta wone chɔ dom.","Awa topre lajaana, ko ro ta won le cho do",1.0,0.25
+201,Ya jemɔ kɛŋɔ Korowii Domadɛɛɡe bee Mmara la le dɛ do wer.,Ya ka ma ka ma koro yi du ma dege be mara li de du,1.1667,0.4889
+202,"Haa ɛ n lole tenten nɔ, paɡri he yal la pera bɔle n nɛ.","A na-etinye tin nọ, penyi na-eyi ala pịrị abọlị.",1.0,0.625
+203,"Asɛ o kpɔ noo baa kpɔa dɛɛ do ba sɔfore ta, ne chal la ane le saraha kon la ta dɛ ɛ merɛ Arɔn laala ta, dɛ o bibaala la ɡe kwaa ta.",Asa okwu nu ba apa adiro ba sofurita. Nichala anili siri ha ku nata di emere aro n'alata. De obi ba ala gi kwa,0.9697,0.3646
+204,"Mɛɛ ɡeloo kpɔɡ bini olchɔɡa ba jo he bini, dɛ́ ba kpoo he bii, dɛ́ chɔɡ he kondɛɛra bwa soo siwi.","Mekpokpo binu o ra ba johi binu, de ba kpo hi bi, de cho hi kun de ra bwaso",0.9048,0.4306
+205,"Ba berɔ pɛrɛ jisepoŋ ne jisekɔl pɛ, dɛ kpɔ do pateesanre la ta, dɛ lawɛ vɔwɛ suuɡapoŋa noniseɡa baa kpɔa paaɡe pilare la ta kaa.",Biko hapụ anyị ka anyị nwee ike ịkpọkọta ndị mmadụ bịara ịsọrọ ịlụ taa. Ndị na-abụghịkwa ndị anyị na ha so ga-apụkwa n'isi gị. Biko hapụ ha ka ha pụrụ ịlụ taa.,1.28,0.9109
+206,"O ta Korowii waa ta teŋɛ, hale dɛ ka bɔɔ dɛɛ le nɛn waa dɛ yerɛ lala be, ó baɡlo waa waa ɛ, dɛ vɛh Korowii nɛɛ teŋa.",kuro uwa ta tinga hale de ka bo de linneen wa da yire laala bi u bagalu wa wa e de be kuro uwa tinga,0.8929,0.5529
+207,O nadiɡ hwii la ɛ sɔfo la dibɔr waa dɔa deŋnesɔɔhna saraha la ta.,Unu diri la esofula diba wa adaa di nso na nsogbu ha na-ata.,0.9286,0.4902
+208,"Sɔfo la ɡel ba dɔ nee waa dɛ palɛ do vii bini, ásɛ dɛ kpɔ jumbii la bɛl ba chaɡɛ vii la ta dɛ́ kpoo.",Sofula gelebado ni waade palet duvi bi. Aserekpoju mila belba chaga vila tadeku.,1.0,0.3973
+209,"Asɛ o ɡe lolɛ Lamɛk, Lamɛk ɡe lolɛ Nowa.",la mec la mec,1.0,0.7667
+210,"Kɛ dɛ ba bol ba ne ba naawa wechɔɡa, ne deŋnekpeɡ baa ɛɛ mɛ dɛ lɛ ɡaeh n nɛ, dɛ ɡel n baah di ba nɛ, dɛ kpɔ ba ka ta ba dɔma harɛ ta ŋɔ ba ka bela.","Kedu ba bụrụ na e banna awa wuchọga, na ị dịkwa gị ba eme? Dele gị nne. Dị gị mgbe a dị ba nne. Nekwa ba aka ta ba dọma harita nwoba ka ba",0.8462,0.5143
+211,"O nɔɔra aa baa koh la, Arɔn ne Hur kpɔ bwe ba bil Mosis o so o ta.","Nwara a ba akuna, a ro ni huru, kpo bu iba biri Moses uso",1.0,0.4468
+212,"Asɛ dɛ kpɔ ɡbɛrɛjen la pi Arɔn, dɛ kpɔ suuɡaswɛm kon waa do pɛmpɛŋ dɛ do ɡoroŋ la vɔwɛ pɛl ɡbɛrɛ la sie, ɡɛ Korowii aa do Mosis la.","A sị na-akpọ gị na pịarọn, na-ekwusịkwa nsogbu nwa adịghị mfe, na adịghị gụrụ na-abụ egbe na-asị ya, gị kwụrụ adị Mọsịsị.",1.0,0.74
+213,"” Kɛ ane a bwa, o yoo dɛ lɛ Jerusalam, asɛ baa yerɔ Kooro Devid Bwɛjen ne o danjwɛkpeɡ.",Ke anya bu uyo na-ele Jerusalem? A sị na a yigharịrị David gbeje nne odanjọọpe,1.0,0.4154
+214,Nomonome baa chɔ Israel deene nyoo la bwa baa ja Korowii nɛra baa chema la nɛ.,"Nọmbọrọ mị bacha ịsị rị adịghị nyụọla, gbaa ba aja kụrụ wịne rị bacha ịmaala.",1.0,0.5323
+215,Israel nomonome do kɛŋɔ ɡboli dɛɛ peeɡe ola aa kpoora la.,"Ndi na-anụ mụ na-edu gị na-agba olu, the pig olee akụrụla?",1.0,0.6957
+216,"“Ŋɔ Arɔn ne o bibaala be ŋɔ, ŋwɛnɛre aa chɔ le tɛ wechɔɡa kpɔe dɛ kɛ saraha laanee nɔ.","Nwa a ro ni obi baara be nwa, nwere ya chọlite wee chọọ ga kpee ekpere sira ha laa n'udo.",1.0,0.5077
+217,"O we-ɛɛla taa a che o waa su Korowii siwi aa, ate o fe dɔ waa dɛ kpɔ ta nyoa.",ɛla ka a ce uwa su kuro wisiwiyya a ce ofidokwa da kuta,0.9,0.4545
+218,"Ijipt harɛ bwa dɛ ba chɔɡa, dɛ́ chɔ pɛɛ, ásɛ ba jemɛ kɛŋɔ menee Korowii.","Ije thara mba, na-ebachiga, na-achọpụta ihe mere nwoke mere na-ekwu okwu",1.0,0.6667
+219,"N ŋɔ ba be ŋɔ, baa duu mɛ dɛɛ teŋɛ wobɛlbwa maa do ba a ta la ta, ásɛ ba ɛ n nɛra, n ɡe ɛ Korowii baa dɛɛ tom mɛ.",Ngwa banye nwa. Bịa dịọ mma. Na etinye gị gbagba ma adị ba atalata. A sị na ba e nnera. Ngi ekwuru gị ba adị tum.,0.9355,0.5949
+220,"Dɛ Mmara fe toole naa, nɛra fe aa on koni.",Narafi tole na narafi a onto.,1.0,0.4194
+221,"Ɔmee kohona nomanta, hɛɛ dɛɛ chwaaɡoo dɛ nomɛlbwa aa heyaa doŋi.",A na m ekwu na ọ nụmanta. Ị ga-achọrọ na mụ ịgbatara ya,1.1818,0.6923
+222,"Laa tena baa lee ba nɔ bwa bini, lafraanuanɛ ɛ ɡal tena ba nɔɔra aa dɛ na kɛrɛdɛ, baa wola kon waa do kɛ nyumpon kwaraa kur ta.","Naa tina baa le baa nu gba bini, laa fura nu a na e gaal tina baa noo raa de na kerde. Baa wula kun wa adoke nyu mpu kura",1.0,0.3608
+223,"Kwaa aa dɔ tɔre baa taɡa kɛ torɔɡo, ne anɔ la baa vɔwa pɛl jaɡre kpɔ bwɛjen la doonyoa la ta jo he be naa, a ɡbɔɡa ɛɛ yiiɡi danjwɛɛ laanee.",Kedu adọtị afọ ole ka ụmụ gị dị?,1.0,0.8962
+224,"Ba kpoo ba laa tena kaɡboŋa fifraanɛ dɛ banue dɛ nɛra lafa, ba bwaa kpoŋe tokobie awola tɔpere.",Pô izraite na ka gbu nga fida ba nuwa toro de ba gba pô nge to ko biye,1.0,0.6316
+225,Kus ne Misraim ne Put dɛ Keenan.,Kus ni mesrem ni put dekena,0.7143,0.32
+226,"Mɛɛ ɡeloo bá kpɔ dakpeɡa chuɡe ba danjwɛɛre ta, dɛ́ kpɔ dɔmkwaa chɔɡ ba dejaŋa ɡe.","Mba ekwuru na akpọdị akpọ Chukwu, ọbụghị ihe ọjọọ dị na ya. Ya kpatara m ji akpọ ya chọọ na-abụghị ịja",1.3125,0.9375
+227,"Kooro Sɛksɛs aa ŋɔa bá ɡaaɡe toldɛɛɡa bɔr la, ba dɔ bane dɛ kpɔ ba kaa koobwɛɛ Susa koodem haahna dobɔr ka tɛ Heɡai ŋɔ wɛ́ɛ nyiŋi ba nɛ.",Olu sex a bu nwa ba ga gi to dega bolla. Bado bani deko baka akwa ubochi uka ka odimma ana dubo kate. Iga nwo we nyinye bani.,1.0,0.5429
+228,"Taraken bela maa tela nɔ, maa jaaree dɔ kpa.",ma ma ma,1.0,0.8529
+229,"Onee kpɔ o lampea yo baala lafraatoro, dɛ kpoo ba laa bɛl ta la.","Onye kwọ Olympia, yọbaara lafụrụ tụrụ na kụọba laabelụ",1.0,0.449
+230,"Dɛ seo laa aa, n ŋwɛɛrɔ kɛŋɔ wobɛlbwa aa won pere ya baah.","Desculá, não era que eu não bebia, eu perdi a base.",1.0,0.7045
+231,"Pese bela waa chɔ, ásɛ waa ba chɔ dom la, hé ka laa yal kpɔ o nakpale ta, dɛ́ chɔ o naa bɔr.",Bịa sị bịa wụ a chọ asị wụ a chọ dọm la. Hị ka la ya kpo ọna kpalịta. De chọ ọna abọ.,1.0,0.4
+232,"Kooro Devid baa so o koodem, asɛ Korowii ɡel o dɔ bosɔɔhna dɛ le o dɔma bwa baa baro cheme be.","Koro David baa so okwu udim, asị koro wee gịlị ụdọ bụsụọ na Delhi, ụdọ ma baa baa rụchị mị.",0.8571,0.4306
+233,"Ba bini bɛlbwa toole dɛɛ ba kae, dɛkalkɛ chɔɡa tentenee mɛɛ ba kpɔe ba ta Anatɔt baala nɛ, ba deŋnetɛra bena la ta.","Ndi na-egbu mmadu ole na ebe ka anyi? Nke a bu chukwu tinye nu m ebe m kwesiri bata ana topu m baa ala nne. Baa dinma, chera m bia lata.",1.3478,0.6667
+234,"Aa baa tel saŋ bɛl la, Koojen Sɛksɛs kpɔ nomonome tɛ Hamedata bibaa Heeman o nabaa aa ɛ Aɡaɡ, o ɛ nomonjen ɡwaa harɛ la nomonome bwa.",A na-abụta sambella. Kụọ ya n'aka ekpe na aka nri. Tee ha mịdọ taabịba ha ịma. Ụna baa a e agaa. Ụ e nụmụ njem gwa ha re na ụmụ nụmụ gba,1.1852,0.5385
+235,"ne Jeyɛl ne Sama, ba mɛɛ sɔne Hotam dɛ le Arowa.",ne ye ye wale sama bameso ne putam dele aru,0.9091,0.3889
+236,"Dɛ buni kon ɡee yaa, bá kwiu kɛrɛdɛ dɛ́ kpɔ nee yaɡlo.",ya bụrụkwa onye ya bakwuru kariri ya kọọ n'ihe gbasara,1.0,0.725
+237,"O muŋɡo noo la ne o noyal waa lɔ o tea bini bwa, ne o kporombie anɛ ne a noorare aa ja a ta, dɛ o pwɛ bela waa wera.","Umungonora nne, unu ya aluo otu ebinigba, niokwura mbie ana, ni unu rari aja ata, the upwe ebulu wa were",1.0,0.4524
+238,"O ŋɔ ba be ŋɔ, “Waa maa dɛ ba ɛɛ bonɔ taraken nɔɔ Korowii do mɛ ŋɔ n ɛ.","Ngwa biko, wa mara ebe a e buru tere ka i nụrụ kuro wee dume ngọ.",1.0,0.66
+239,"Wɛɛ pili nyundua dɛ́ nɛ bwaala saŋ waa wera ta, dɛ́ kpɔ cha he toma ásɛ he dɔ dɛ́ kpɔ ane cha harɛre ane ɡe, he te aa wola ba bee la ka kemɛ bwa.","Weepilinye wa danyegbala, san wa wirata, deko chihi tuma, ase hido deko anicha harari ani gi, hiti awula babe ila ka ki mgbawa.",0.9714,0.3905
+240,N dɛ na Apeles wekpeɡa aa puu o ta che kiŋkiŋ Yeesu Kristo waa nɔ ta la.,"Nana, please.",1.0,0.8545
+241,"Hé ɡel nyɛɡre doe, ne bandia, ne ɡaeh, ne wesaɡasaɡare, ne bahmuɡliwa, dɛ meesɔhwaa bwa, dɛɛ ɛ dɔŋa wedɛɛɡa, dɛ́ dɔ dɔŋa chal.","Ihe niile a ngara ebe a, niịme ndị a, niịme gị, niịme ụmụaka niịme ụmụ nwanyị niịme ndị ọzọ a nile ga, ndị ọzọ a",1.087,0.8211
+242,"Kɛ n te, nɛwɛnyinii men, anomanta, wechɔɡa yaɡ mɛ.",kante na onye na ime ya? Anam acho ka ya na,1.2222,0.4737
+243,"Baa kpoo nɛra baa soɡe bwɛɛre aa lɔ harɛ la ta keri nee, ásɛ Taaya tena jemɛ kɛŋɔ menee Korowii.","Bịa kwa nu ha na-abụ sọ gị gbara alọ, ha laa taa kịrị nị, ọ sịta ya Chineke mekenụ mini kworo wi.",1.1,0.5733
+244,"A ɡɛ som nae nɔ Devid aa bol o waa nɔ, dɛ Juu tena aa dɛ teŋe pena nɔ, ba ɡboo dɛɛ ba som nae yaa, kɛ nɛra baa wola pena teŋe bwaa o ŋɔ?","Aga m esum na ano, dika ihe m na-agulu awa ano. Na Judia na-adighi tinye baa pina no. Na gbuo dee baa sum na ano a, kenere baa wula pina tinye gbaa",0.9714,0.6122
+245,"Anee Naomi chaŋe ŋɔ, “N bii, hé berɛ kaa he bwɛ.",A na-akpọ m Chiamaka Nbi. E berekwa m,1.0,0.6176
+246,Baa wono che n deŋnetɛra nyoa dɛ ta dɔ bokpeɡa awola maa ba tɛr ba deŋne la kɛɛ?,"Bawu n'ochi, ndi ngini tere anya, di ta di gbukwe ga, awula ma abatele kpa ngini la ke",0.8889,0.4677
+247,"Belaa kooro la do ba ŋɔ, “Hé ka saɡɛ Heeman o ta.","Bia koro la do ba nwa, i ka sa gi he man",0.6667,0.4
+248,Ba ɛ nɛra bane ba sɔn aa lea Yeesu toroma bini.,na enere abali ba so na aria Yesu turuma,0.9091,0.4444
+249,"N dɛ na Faelolɔɡɔs, ne Julia, ne Nɛreɔs ne o nimambihaah, ne Ɔlempas, dɛ Korowii nɛra ba wa aa toɡra bane ba do bela la bwa.","Nnaa Phaelelogos, ni Julia, ni Nereus, ni Unibenbiha, ni Olympus, ni krowi ni ra kba ni kbaalu bla la",0.9231,0.5106
+250,"O ɡelɔ o laa tena la che bontɔɡa ba nyuune ɡba, ba vaama swe.","Oge ọla ntị na-ala, chi bụ ntọga. Banye n'ụgbọ. Bafaa ma",1.0,0.4348
+251,Kpɔ bokpeɡa haa dɔa la ka lɛ Israel tena le Midian tena nɔn ta.,ho bupega hadwala khale israyeli midiyane,1.0,0.5102
+252,"ne Itai o mɛɛ aa ɛ Ribai waa le Gebea, dɛ do Bɛnjamen dea.",ne ịta o mee a ribe waali gị bịa daalụ Benjamin,0.8571,0.4651
+253,Wɛɛ ba weela nee ba ta he nɛɛ harɛ haa dɛ la ka kpɔ so la ta ka tel kɛŋɔ he bwa aa hea le o ta.,"Nwere ike ịghara ịbụ taa ahụ, ọ ga-adịla ka ụbọchị ọzọ. Ka Chineke wee gọzie ahịa ịụtụtụ.",0.9259,0.7647
+254,Gɛɛ sɔfo la ɛɛ ba ɛɛ dɛ́ soŋe a ɡɛ wechɔɡa nɔ bɛlbwa naate aa ɛa dɛ di bolchɔɡe n be la ásɛ n kpɔ kɛo.,"A ga-asụgharị ebe a, na-esighị agae wuchọghị n'obi gị na-atị a ya edigbo ụchọgị mbe la asị m kpọkịọ",0.9231,0.6667
+255,"Awola tɔpere la chɛ kɛ hé ɡel he tomare bwa bil, dɛ́ cheme dɛ́ tom mɛ.","Arua to prela cheke, hegel hetumari babi dechime detom",1.0,0.3529
+256,"Dɛ nɛra ɡbemba doe kpeɡrii Korowii tɛɛ naa, a chɛ kɛ hɛɛ ɛ ɡɛ.","Nne na nna m abụghị ndị kwere ekwe taa, achọghị m ịga",1.0,0.7447
+257,"A chɛ kɛ naate kpɔa ba sɔfo be tɔpenuatoro wee la ta n Dea Cheremibɔr doonyoa bela n sie, ásɛ o kpɔ laa o doŋa kpɔ o nɛ.",Anya m na-atekwa abashọfube tupu mụ atụgharịa laa taa. Ndị a chere m bụ ọdịdị onye abụla m si ya. A sị na ụkwụ na-adị ngwa,1.0,0.5824
+258,Jumbii ne kpɔɡ bini olaa dɛ́ di ba ola kabora.,"Ndi mini omini ola, dedi ba ola",0.8,0.5429
+259,"Waa le bela la, o la Pɛneɛl tena ɡe be, dɛ ka soŋ ba ɡɛ waa nɔ tenten, asɛ ba ɡe chaŋo ɡɛ Sukot tena aa chaŋo la.",waa lebelala ola fenele tina ge be deka so bage wa no tintin ase bage chango ge suko tina chango,0.9286,0.3415
+260,"Anomanta, n siwi swɛɛrɔ mɛɛ nyin kɛ ń bol Yeesu Amanesoma la he Rom tena ɡe be.","Hanumantha, his wife and their son Jesus, Amanismala, he wrote in a",0.9412,0.5574
+261,"Hé ɡel webena la bwa, dɛ́ ɡel Korowii kwaa he bambile ne he liire bwa á berɛ anfala.","Dika ewee bido n'ala kwa, dika ikrowi kwa hiba mmiri n'hili ire gba, abere amfala",1.0,0.4375
+262,Ásɛ ya kpɔ jam tɛɛ dɛ́ kpɛɛ.,asɛe akwamma te,1.0,0.7
+263,"“N Naa Korowii, umee n ɡe ne n lolanar asɛ he ɛ ɡɛ waa nɔ dɔŋa bwa tɛ mɛ ken nɔɔ?",Na-ekwe nkwa na m ga-eme ihe niile m nwere ike iji hụ na ụmụaka a nwetara agụmakwụkwọ dị mma.,1.0,0.9483
+264,"Ba cheɡɛ ba tɛnte deene ba ne ba kondɛɛra fuɡe le aa, ba do kɛŋɔ tontombɛ ken.","Baci ge, baten te de ne, bane ba kundera fu ge le a, ba duken wo tuntum be",0.8824,0.35
+265,"Gɛ saŋ ya taa ɛ wechɔɡ-ɛɛra la, a taa Yeesu Kristo lɛ ya seo sewɛ.",Yesu Kristo,0.9333,0.7959
+266,Ba koranar do kɛŋɔ nyujentena yon lawɛ ola dɛɛ kaa dɛɛ kɔɡre la.,Akwụkwọ Nsọ adịghị enye anyị ụdị nchịnaa ụlọ nnaa bụ ụlọ dịka dịkọrọ,1.0,0.8824
+267,"Daa la aa sewa la, n ɡelɔ biro ba tɔ Lɛbanɔn bwejena ta, asɛ daa aa lɔ kɔr bini bwa serewe.","Nnaa si wala, ngị na obi bata Lebanon gwa ije nata. A sị na daa alọ ka obi ni gba siri",0.9524,0.4559
+268,"Gɛɛ haah waa jemɛ waa dɛ do pwɛre, dɛ dɔ o te, waa wola valɛ saɡasaɡa la ɡe ɛɛ ba ɛɛ.",Gà hà wà jị m wà na dịkwa mma. Gị dịkwa otú? Wụla fada sọksọọ. Lọ gị ebe a,1.0,0.7419
+269,Mɛɛ ɡeloo he sɔn le kɛŋɔ harɛ nɔ ta nɛnjena ken.,"N'agụghị ihe swịlị k'enwe, ha renọta na-enji na",1.0,0.6216
+270,He Lewi dea tena aa wola toole loɡla dɛ́ cheo la waa Korowii yaa dɛ tomɔ baah di ya nɛ.,Ihe ndị a na-eweta ole na ole na-achịkwa wa kụrụ wee ya adịghị mma dị ya na,0.95,0.5909
+271,O bwɛjena bwa dɛ ba pɛɛ chɔe bene fifraanaarɛ.,You know what?,1.0,0.8919
+272,"Asɛ Gedeɔn chaŋe ŋɔ, “N Naa Korowii, ɛrɛɛ mɛɛ ba ɛɛ dɛ́ won lɛɛ baɔ?",A na-akụrị ya na-eme ebe a dewonle ebe a.,1.0,0.7143
+273,"O lawɛ booh waa ɛ wechɔɡa kpɔe dɛ kɛ saraha kon la, dɛ teŋe o baŋa ɛ saraha ɡɛ waa ɛ loɡla kon la.",Nna anyi bu wa we choga ka edeke siri ha kunla. Di tinye obanga e siri ha ga wa e lugula kunla.,1.0,0.4932
+274,"Tɔpere waa tɔ sie a ɡɛ tɔpera nɔ dii ta la, hé bwa cheme dɛ́ tomɛ men Korowii dɛ bɛ toma bɛlbwa ɛ.","Tọpụrụ wa tọsịrị, aga tọpụra nọdụ ịtaala. Ịgwa Chineke na-atụ m mme nkụrụ wee debe tọma ba ịgba.",1.0,0.5342
+275,"O ne Israel tena la iro le bwɛjen Baala baa bera dɛɛ yerɔ Kiriat Jearim waa lɔ Juda harɛ ta, dɛ́ ka kpɔ Korowii Ne Nɛwɛnyina Fɔo Daka la le bela dɛ kaa Jerusalam.","Onye Izrel na-iro lebughi anya ha ala, babara ha iro, kiriate jarim, ma na Judah ha reta, dika kpo krowi na-enweghi onye na-acho dika ala le, bịla dika Jerusalem.",0.9706,0.4127
+276,"Dɛ o nao kɛŋɔ weela la lawɛ o bwadabii bwa kpelaa, ó ŋɔ naate be ŋɔ doŋa toole o nɛ.","O na-ake m ihe ala, laa wee obodo be Igbo kwere a. Ụmụ na-atibe nwa, dobe tụrụ",0.95,0.5873
+277,"Asɛ n ka che Korowii Dea dembaah bela dɛ ŋɔ nɛra la bwa be ŋɔ, “Koranar Bwa Kooro, Israel tena aa dɛ tomɔ la ŋɔ, ‘Hé no!","A sị na nkịta kuru vidia dị mba abụọ na-enweghị ala gbaa bọọlụ, kụrụ ya na gba kwuru, ị zachaa adịghị tumụla nwọ.",1.0,0.6591
+278,"Kɛ dɛ he nyiŋi Korowii Tɔn bini na naa, waa won ta nyoa Korowii sie.","Kada inyi krowi tommini nana, wa wu ntanwa krowi si",1.0,0.3654
+279,"Lotan ne Sobal ne Sibeon dɛ Ana, ne Dison ne Esa dɛ Disan.",le temps ne sera ni si bien de à ne disons ne,0.9231,0.5909
+280,"Kɛ wɛɛ do lee ka tel kɛŋɔ nɛn maa leo ŋɔ ó ba tɛr o bini nɛra deŋne aa ba, mɔɔ ń kpɔɔ do o nɔn ta.","Kedu ebe ụmụ nwoke na-etinye aka ha na mmanụ ụgbọala? Ụbọchị ole na ole gara aga, mụ na enyi m nwoke nọ na",1.0,0.9
+281,Asɛ Mosis teŋe o baŋa dɛ ɛ o chal merɛ saraha kon la baŋne anaarɛ la bwa ta.,Asi mosis thingi obanga di ocha mera sahakunla bangri anaari lagba,0.9444,0.4138
+282,"Ɛ bwejeɡre á che tɛ dɔma la tɛnte deene, dɛ́ kpɔ dakpeɡa baa dɛ ba wona kpɔ kuuɡi danjwɛɛ waa bar bwɛɛ la baro.","Anyi bu jigri achite dom ala chiri di ya, dekpotakwe ha, baara ha mba wu na kwukwu gi na nwa ya wa abargboela",1.0,0.5882
+283,"Gedeɔn ne o laa tena lafraatoro la koɔh kɛrɛdɛ, kɛ ba ti nɛra la dɛ ba ɡale Jɔɔdan Moo la.",Gidiyon olatina lafira torula kwo kerde ke batinerale deba gale joda mula,1.0,0.3768
+284,Korowii baah di nɛra ba wechɔɡa aa tɔ o kasinteŋ waa la ŋwɛnɛ asɛ a sɔɔh ba la nɛ.,"Kwee bani na na akpa we choo ga ato uka si nte nwaala nwe ne, a si aso gba na",1.0,0.4603
+285,"Ó chɛɡɛ o laala dɛ́ sɔ ne, ásɛ doŋa la bwa den le o nɛɛ kwaraa.","O cheghi o lara, ya na-asị na ọ bụ ya bụla, ya na ya kwara.",0.9375,0.6667
+286,Sɛm bibaala waa lol ba laanee teŋa nɔ.,"Sen biwara, wa lụrụ nwanyị?",1.0,0.6667
+287,"Mosis berɔ lɛ saraha kwaa la ba be, dɛ kpɔa dawɛ anɔ la ta dɛ fuh a bwa saraha kon la ta, a ɛ saraha baa ɛa dɛɛ do nɛn sɔfore ta a sɔɔh ɛɛ do som Korowii be.","Mosis buru esịrahụ ala baa be. Na kwa ada ya Anọrata, dị ya bụ Gershomụ lara taa. Esịrahụ baa ya bụ dị nnọọ nsọfụrịta, asọ ya dị nsọkwa bụ",0.9231,0.5345
+288,"Ba kper ol la dɛ kpɔ o nyu la ja dɛɛ tɛo beŋkpoŋa beŋkpoŋa, asɛ o fuh a bwa saraha kon la ta.","Bia kwa, o na-adị gị onye na-aja dee ti obi nkwa nkwa? Ọ sị ufu agba sịrị ha kunata",0.9565,0.5362
+289,"Waa ba sie aa dɛ lɛ a ta la, anee baa ɛ.",Wannan bashi da lallai haka. Ani ba,1.0,0.5926
+290,"Dɛ ba ɡelɔ mmarafale nɔ kaa he kora harɛre aa do kan kohona nɔ bwa ta naa, anee dɛ́ ɡel haah te bɛlbwa ɛɛ duu o jaa, hale dɛ́ le nomonjena nɛ dɛ́ kaa dansaara nɛ.",De bagịlọ mara afa ya nọ ka a hịkụrụ harịrị adụ ka m kụhụna n'ụgbọta na. Anịrị gịlị ha atị belụgwa edụ ụja. Harịrị erị nụmụ njena na deka adansara,1.0,0.4628
+291,Harɛre nɛra ɛɛ ka pa Taaya tena laalaa kɛŋɔ laa ta kwaa ken.,"Haruna, ya ka bata yanzu na lalake mu, la'ta kwaki.",0.9231,0.4468
+292,"Ba chɛɡɛ kon la asɛ konfɔɔla aa lɔ o ta la bwa kaalaa, a chɛ kɛ bá kwaa chɛɡɔ nɛɛtena, dɛ doŋa bɛlbwa toole o ta kpa.","A chere ka m na-asị ka m fụọ ala ụta na-gbakara, a chere kebe kwa a chere ọ na-etinye di dunye bụ Igbo tụrụ ụta",0.963,0.625
+293,"Tɔpenuatoro wee baa do ba sɔfore toma ta tonɛ la, Mosis yerɛ Arɔn ne o bibaala ne Israel nomonome bwa cheme.","Tupu ị nwee ike ịbụ onye na-eso ụzọ kacha tunarụ, Moses nyere Aaron na obi baara ndị Israel n'ụmụ mgbaàmà",0.9524,0.5814
+294,Wejena ne nyokpowe-ɛɛla haa ɛa tɛɛ ba la bwa ɡelɔ he dɔ sɔn harɛ nɔ ta bwa.,"Wigena na nyopụta ya la ha ịata eba, l'ogba gịlọ hịdọsọn harị nọta",0.9412,0.4737
+295,"Asɛ nɛra baa pɔ olchɔɡe la ne kon la baa mao la nɛɛ dɛ vɛh o namba waa cheɡa tɛ o sɔn la kpoŋe Korowii janjelare dɛ che nee la jwɛh, dɛɛ ɡo Korowii bonɔɔ Mosis ne Pebie la yel ŋɔ.","Nna baa ha ochoghi laa ni, kunla baa maa ola ni deve ona mba wa chigati uson la kponyi, krowii ja njilari dechi nni la jwe. De gu krowii bu na omosis ni pebi ya la",0.9024,0.3942
+296,"Kɛ bena waa teŋa nuanɛ ta te, a chɛ kɛ hé ɡel he harɛ la onɛ dɛ tɛ mɛ.",Ka bi na wa tin nua na tati. A ke ka hi gel hi harala una.,1.0,0.48
+297,"Taraken nɔ, ya yarada aa ɡela Korowii lɛ yaa kɛ nɛndɛɛɡa ya waa su o siwi nɔ, ya Dɔɔ Yeesu Kristo nɛɛ a che asɛ ya ne Korowii pɛ.",Tarkain no. Ya yarda a gla krowi ya ya ke na nda ya ya wa su usi wi no. Yado Yesu Kristo ne a ci a se ya ni krowi,0.8966,0.3469
+298,"A ɡɛ bene fifraanaarɛ dɛ anuanaarɛ la habɔɔ, korobie anuanɛ tɔpera fi ta la, hé ɡel ba hoh bɛla harɛ la ta bobɛlbwa.",A ga-ebinye ha naara dị enu anaara laa ha bụ kurobie enu na topiri filtala. Ha ga-erbahụ be ha na-atabụ,0.9565,0.4835
+299,"Korowii berɔ ŋɔ men Ɛsekeɛl be ŋɔ, “Nɛwɛnyini bie, dɛ harɛ bɛl tena waa ta kasinteŋ dɔe tɛ mɛ dɛɛ ɛɛ mɛ wechɔɡa aa, mɛɛ kpɔ nɔnee dawɛ ba nɛ, dɛ́ tɔ ba kondikwaa ŋwɛnɛ.","Ndi be anyi, unu eze kee nu. N'onye n'ibe ya, ihe a na-akpo wahala si n'ime ya pụta. Mụ ekpo nọ n'ida wee bani, deto bakwunye kwa anwa",0.9714,0.6535
+300,Sɔfo la fuh noorare la saraha kon la ta ɡɛ baa fuh saraha kwaa dɛɛ tɛ mɛ la.,"Sọ fún ẹlẹ́ẹ̀kejì rẹ pé ó rẹ́là, sọ fún wọn pé ó rẹ́là. Gbé bàfún sọ fún wọn pé ó rẹ́là.",1.1667,0.9138
+301,"Dɛ ŋwɛr la yɛo kpela aa, sɔfo la bɛ berɛ nyiŋi na kɛŋɔ pona aa ɛ solmen lɔ o ta kɛɛ a toole o ta kpa.","Nwere laa, ịyọọ kwụla. Ụfọdụ ndị biara nyịngị na-akenwa pụna a esula mụ nri. Ụta ka atụrụ ụta",1.0,0.6892
+302,O cha bane ɡe baa nyiŋi o nɛra nɛɛ dɛɛ baɡ ba o ŋwɛnɛ ta teŋa.,"Ocha bu nri gi, be anyi gi, unara na ende, bagba onwere tatting.",1.0,0.5
+303,"Bene fifraanaarɛ habɔɔ laa aa, nomɛlbwa kɛɛ komɛlbwa aa won so bela.","Ndi isi ala anyi ha bola, na umu nwoke kumerewa ha wu nsogbu.",1.0833,0.6
+304,"Menee le heyaa hɔhɔrɔwa ta, dɛ́ ɡel a le he baŋa he paŋi dɛɛ valɛ la.","Menelehe ya ho horowata, degel alehe banga, hipa de",1.0,0.3922
+305,A ɛɛ mɛ nyokpoa kɛŋɔ.,A sị na ọ chalụ enyị alụọla. Nịrọ kee nụ sọọgị ma alụ nne rala tịlụ. Keenu nte ịrụba dị gị nị bọkịm. A emenyụkwa kee nụ ma nyịga,5.6,5.6875
+306,"Belaa Korowii bol n be ŋɔ, “Hale Mosis ne Samoɛl ba fa aa ɛ n bonɔɔna baa che n sie dɛɛ soŋe kwaraa naa, maa nɛra nɔ nɛɛ sune.","Bịa kro, ị bụrụ ndị ngwọ. Ha li Moses na Samuel, bafaa e mbụ nọ na baachi nsị ha na-esunye kwara ana. Ma nyere anyị nọ na-esunye",1.0,0.5213
+307,"Korowii berɔ ŋɔ men Ɛsekeɛl be ŋɔ, “Nɛwɛnyini bie, nyin berekese dɛ́ kpɔ bil he sie, ásɛ dɛ ɛ bwɛjen Jerusalam dawɛ o ta.","O buru na nwa m bu Ezekiel bu nwa, na nwunye ya bu Nymbricke si, dikwara bili sie, asi na ebe jee Jerusalem daa wee",1.0417,0.6196
+308,"Korowii ŋɔ n be ŋɔ, “Jeremia, ŋɔ Israel tena be ŋɔ sen loŋ bɛlbwa chɛ kɛŋɔ hé do sen o bini ó su.","Nno, ezigbo mmadu, jide n'aka na o bu iji tinye be nno si na olu bekee chekwaa ya dika isi n'ubi na-usu.",1.0,0.7746
+309,"Baala baa soɡe jaɡre ta la ɛɛ kpɔ jaɡre laanee kpɔ fɔɡbaahna dɛɛ kpoo nɛra keri ne, ásɛ ba pilajena bwa ɡe kuuɡi.","Nna m ba siri jagri tala, ekpo jagri la n'iko fokbana. De kpo unera keri ni. O si ba pila ji na mgba gi ku",1.0435,0.4494
+310,"Mɛɛ ɡeloo harɛre nɛra bwa bambile teŋe ba wa, waa Juda Kooro Hɛsɛkea bibaa Manasɛ aa ɛa Jerusalam la wa.","Naa golo ara di n'abụọ, bụ mịlịchi nịịba wa wa Judah koro Hezekiah bịba Manasseh a ịya Jerusalem lawa.",0.95,0.4819
+311,"Kɛ dɛ ŋwɛr la sewɔ o buɡ la berɛ to aa, náate la berɛ kpɔ o te ka chaɡle sɔfo la ásɛ o kwaa nyiŋu ja.",Kedu onye na-asị na ụbọchị abalị atọ na-atela abalị kpoo otu ka chaghị sọfụla? A sị okwu a enyi nwoke,0.9615,0.6081
+312,"A ɡɛ korobie nɔ tenten ta tɔpera fi dɛ anue ta la, hé pa Paanoo Baa Wola Iisi A Ta Do Tɔpejen dii la mun.",Ake kuro biye na tenteta to profi de enye tala. He papa no ba wula isi atado to pi jin di lamu.,1.0,0.2911
+313,"Sɔfo la ɡee kpɔɔ ka ɡɔɔra nyundua, dɛ́ viiɡa n sie ɛ saraha tɛ mɛ Ona Tɔpere la habɔɔ, ásɛ n lɛ dɛ́ kpɔ ɛ waa waa dɛ nyin la tɛo.","So, if you like it, go and buy it. If you don't like it, leave it. I said it, and I'm not going to repeat it again.",1.0,0.8511
+314,Ó kpɔ ba tɛ sɔfo la ásɛ o ɛ men la nɔn del á baɡle kɛŋɔ n lɛ a bwa.,O bu ihe gbasara ụfụ na-asị o emela nọndị. Abaghịrịkwa nwa nle abụ,0.95,0.7447
+315,"Hale dɛ Nowa ne Danɛl dɛ Job ba wa aa toɡra la kwaraa lɔ bela aa, ba wedɛɛɡa la aa won lɛ nomɛlbwa, atane ba ɡbo.","Hali na Nowa, ni Daniel, ni Job, ba wa atughari la kwara alo bila a. Ba wi de ghala awunle nu meligba. Atani ba",0.7308,0.3882
+316,"Maa wola waa maa dɛ ɛ nyin dɛ ɡee ɛa la nɔ, a baɡlɔ kɛŋɔ n sɛoh kɛŋɔ Mmara la wer.",ma ọ bụrụ na ọwa ma na-ete nne na nna ya ala nọ abụọrọ ka mụ nsị ọka mụ mara na ọgụ,1.0476,0.65
+317,A ɡɛ daa laanee Ijipt kooro ne o nɛndamanta la.,Agadez lani Egypt koro ni unenda manta,1.0,0.4054
+318,"Waa men Nemenɛ Korowii aa dɛ bol la ɡee nɔ, peeraa he teɡɛ dɛɛ la ane dibɔr n ka lawɛ, dɛ ba cheɡe kora ta n nɛra Israel tena nɛ.","Otu onye n'ime ndị kwuru okwu a bụ Lagbaja, onye na-anọchite anya ndị ọrụ nka na-ewe, debachiri Kurata, Nera Israel tina",0.9667,0.6082
+319,Gɛ saŋee mɛɛ ba kon maa dɛ nyin baɡla.,mace a so o change wa kon ma de nyi la na ike wa de nwa su isi wi enyi nke icha me na kere hi ni hi ma mba mbede ba di unyikunje na ma de,4.0,2.931
+320,"Nɛmpɛɛ kɛɛ komɛlbwa leɡe ol la aa, o dɔ wa.","Nne peke, unu gbaalụ ọsọ ọrụ a.",1.0,0.7812
+321,"Bɔkwaa nɛn waa dɛ ɛ toma, ɛɛ ba dɔe le o koeh waa dɛ koh ta nɔ?",Okaana nwaa di etuma eba doeli okwui nwaa di ku ta nu.,0.9412,0.4222
+322,Tɔpera anuanɛɛ ba kpɔ dɛɛ ɛ we-ɛɛle dɛɛ do nɛn sɔfore toma ta.,Pranụa na ebe akpọrọde ewee laa dee do nne nsọfụ,0.9231,0.6667
+323,"Kɛ dɛ o ɛ kondɛɛre waa wola were kɛ ba kpɔ ɛ saraha tɛ mɛ naa, a chɛ kɛ naate kpɔ ka chaɡle sɔfo.",Kedu ka ekwe ntị diara gị? Ụlọ ọrụ gị? Keba kpọọ esịrị ha tema na anyị chọrọ ịnatịkwa kachagharị sọftụ,1.0,0.6806
+324,Hɛɛ yer mɛ Mara dɛkalkɛ Korowii Waa Ɛ Kpeɡri Bwa Dɔɔ ta ɡelɛ n sie lɛ n soɡa bini.,"Ha yerime mara delaka ke kuro wi wa e kpegiri gba do ota, gele nsi ele nsogabu",0.9474,0.4127
+325,"Kooro Devid ŋɔ Lewi dea nomonome la be ŋɔ, bá le ba bini bane, bá ɡo silɛɛ yela dɛɛ lɔ janjelare, ne kwaa anɛ ane baa kpɔ ayaawa ɛa dɛɛ hɛlɛ.","Koro de vidua le vidia nomoro mela be nwa. Ba le ba bini ba ne. Ba gosi la yela. De a lo janjira le. Ne kwa a ne, a ne ba kpo aya wa ya. De",0.9677,0.2991
+326,"Ásɛ he berɛ ŋɔ ba be ŋɔ men Korowii dɛ ba ɡela nɛra baa soɡe harɛ la ta dɛɛ, kɛŋɔ baa nyɔ sen ken.","Anya hiri nwa bae, nwa m kwuru wee daba na ala, ya na ba asu gi ariri ata. De ke nwa ba anya si nke",1.0417,0.6164
+327,ba warane dɛ́ ba cha mɛ.,"Bawane, na bacchame.",1.0,0.3529
+328,"Numoli la koɡrɔ, asɛ sen la warɛ kohona a baɡle kooro bonya waa dɔa tɛ nɛra la.",Nụmụlụ ịla akụkụ ọwụwa anyanwụ na-awarikwụọ na abagoro ọrụ bụ ya bụ àgwà tenela.,1.0,0.6885
+329,"Dɛ waa won dɔ kulukuku bii anɛ kɛɛ borɔnoma bii anɛ la aa, ó kpɔ men baa nama a kper kɛrɛdɛ dɛ ɛ kuruwa del ba ɛ o wechɔɡa kpɔe dɛ kɛ saraha.",Ndi wa wu ndi kuru kuku bi ana ke buru nma bi ana la. Ukwa m mba ana ma akwuru kerede. Nde ekuru wa je gba uwicho ga kpe deke sra.,1.0,0.4112
+330,"Asɛ Mɛmokan che kooro ne o nomonjena la bwa sie dɛ chaŋe ŋɔ, “N naa kooro, dɛ he haah Vasti ɛ ɡɛ tenaa, o ɛ wechɔɡa.",A si m na m ka chi koro ni unu m je na-arụ ọrụ si ya chaa nwa. M na-akọrọ that he harvested the egusi na o erichago.,1.0769,0.6047
+331,"Teman ne Omar ne Sefo ne Gatam, ne Kenas ne Timna dɛ Amalɛk tena.","Timna, Neomar, Necefo, Negatam, Nekinas, Netimna de Amalec",1.0,0.22
+332,"Bobɛlbwa haa kaa ne bela haa so la, n ɡee so belaa.",Buba wa ha ka ne bila ha su la nge so bila,0.8333,0.3421
+333,"Asɛ Mosis teŋe o baŋa dɛ kpɔ nonii ɛ o chal la ane merɛ kwaa aa paaɡe saraha kon la loŋkoni ta, dɛ leo cheɡ o do ɡoroŋ.","Asi Moses tinyi obangada kpononi e, ochala animerekwa a pa gi siri ha kunla lonkonita, dalia oche odogwuru.",1.0,0.3667
+334,"” Asɛ n lɛ dɛ kpɔ di, o do som kɛŋɔ tooh ken.","A sị na ụbọchị nịịle teme nwọ ndị, nwọ mị nwọ na-ewinị bia letọ nọ ji reva gị, a sị nle dikwọ di udọsụm ke nwọ tụọ ke.",2.3333,2.4667
+335,A ɡɛ Amanesoma nɔ waa o che o keamere waa lee ba nɛɛ dɛ baɡɛ nɛwɛnyina nyoa a saŋ la.,"Anya m na-esị nri nwa oche uke amịrị, wa leba na debanye na weebụsaịtị anyị.",1.0,0.5538
+336,"Kɛ o vɛh nee la nyɔe, dɛ fuɡe ta harɛ tɛ Korowii.","ke o wee nee la nwayi, e fughi taa hari taa ekworo",0.75,0.5833
+337,"Tɔpenuanɛ wee kooro aa nyɔ sen dɛ dɛɛ la, o yerɛ o bonɔɔna baa fɔɡɛ ba lure baa tomɔ la cheme.","Tupu ị nwanye nwanyị, ọrụ a nyọsịrị ndepụta. O yira obodo na-anaba afọ gị balụrị, gbaa tumọrọ",0.9524,0.6111
+338,"Harɛ bɛlbwa ne bwɛɛ bɛlbwa ta toroma la aa la mmarafale nɔ ne la, Juu tena baa lɔ bela la bwa sie dɛ lɛ baa hɛɡre, dɛ so di kwaa dɛɛ lɛ ba sie.","A na-ebelata ya ebelata, ma na-afali nọni na. Jụọ tinye baalu dị na ala. Bịa si ebe leba ha egele. De so dịkwa de le ba si",0.9412,0.5327
+339,"Baa sɔ yaa Korowii nee la nomanta, a kaa ɛ kɛŋɔ ya ne Yeesu Kristoo ba pɛ huɡe.","Ba so ya kure wuri ni la numanta, a ka ekenyo ya ni Yesu bapehu.",0.8889,0.4667
+340,"Men Nemenɛ Korowii ŋɔ, ‘Edom bwejena, n ne he dɔɔ.","Nne, nne m na-ekrowi nwa. Ịdọ mbu ije na? Ịhịdọ",1.0,0.5135
+341,"Dɛ Sɔfonomoa ɛa aa, o ɡelɔ nɛra la bwa di bolchɔɡe.",Nke a bu onu ogugu nke abuo na-egosi na ndi Igbo choro,1.0909,0.8462
+342,"Kɛ he dɛ bol ŋɔ, men Korowii waa ta toɡrɛ.",क्या ही द बोलूंगा?,1.0,1.0
+343,"Tɔpenuanɛ wee la telaa, sɔfo la berɛ ba nyiŋi dem la.",kepinwan e wela tela sofula bere banyinye,1.0,0.3902
+344,nae ó ba cha mɛ.,Mmadu abughi na ndu bukwa dewa nju di ka ndu mmadu na ya. Mmadu a ni nti giri ha riri na agba na di fughi bacha,5.2,7.0909
+345,Aamen.,Ameen.,1.0,0.4
+346,"Ba dɔma Babelɔn tena la jaɡre ɛɛ warɔɔ, a ɡel tutuɡ bɔle ba nɛ.","Bia dozie mụ Babylon nke na-ala, jagide ya waro. Agịrị tupu gbaalị ba",0.9286,0.6042
+347,"A chɔ le kɛŋɔ a bwa serewe kɛŋɔ nɛwɛnyina, dɛ kaa lalabwɛ.","Chineke nwa m ba gbasiri gi, ka enwe na ewinyịna. Dika alala",1.0,0.6
+348,"Israel tena aa wia no Korowii Midian tena waa la, Korowii Israel tena aa dɛ tomɛ ɡelɔ o keame bɛl ba ba be ŋɔ, “Men lɛ heyaa le Ijipt harɛ ta somanjiri dii ta.",Israelite na we are not Krowi media na wahala. Krowi Israelite na dem tomo gilo okiamebelba babewo. Mellehiali Egypt hareta somanjiri di,0.9706,0.3443
+349,"Nɛwɛnyina bwa nyu lɔ n nɔn ta, mɛɛ kɛɛ bie bwa nyu lɔ n nɔn ta.","Ndi be anyi na-agba nyulu nno nta, m ga-eke ebe gbaa nyulu nno nta.",1.0,0.4348
+350,Korowiirii kpɔɔ do heyaa nso dɛ́ won jemɛ he banɔ la waa dɛ ba lɛɛ o lɛɛ tɔpere la.,"Owerri ka ọbụghịkwa nsogbu. Ụbọchị mụ na gị ga-anọkọ, anyị ga-ekwu okwu banyere ya.",1.0,0.7937
+351,"Aah dɛ kon waa wera nɔ, o taa a berɛ che mɛɛ ba seo dɔe yaa?",na akwa nwa nwera nọ. Otu a abalị chi mụọ ebasie ụbọchị ahụ,0.9375,0.5814
+352,"Asɛ Korowii ŋɔ, “Mɛɛ ja he nɛɛ ásɛ he kpoo Midian tena bwa, kɛŋɔ haa yo nɛmbeŋkpoŋ ken.","A sị na okwu nwị nwọ, na ejaghị na a sị ekwu midiantị na-agba. Ke nwọ ha ayọ na embemkwo nkịnị. Ana ege idionchị anị nwọ, na hịsị ele",1.6111,1.0303
+353,"Harɛ la ta, nɛra ɛɡre nɛra dɛɛ lɛ ba kwa, dɛɛ faah nɛŋhɔɔhra ne nyaara, baa waa bolɛ dɛɛ tɛɛ ba aŋwɛnɛ ta.","Haruna na auren na da lele ba kwa, da fannin hura ni'ara, ba wa bule da ce ba anwata",0.8696,0.5
+354,"Nomɛlbwa waa sewa la, o fooro le wechɔɡa kpeɡri aa dɛ di la be pera.","Nọ mberụ ụwa sịwala, ụfọdụ ndị dị ndụ kwuru na ha adịghị.",1.0,0.7308
+355,"Liichɔɡaa cheɡɛ kon waa wera ta dɛ ɡel n dɔ seo, dɛ baɡle o dor ásɛ n jemɔ kɛrɛdɛ.",,,
+356,"Israel tena berɔ ɛ wechɔɡa dɛ jo Korowii nɛɛ ja, asɛ o kpɔ ba do Midian tena nɔn ta ba di kpeɡri ba nɛɛ bene anuanɛ.","Ihe mere anyị ji abụọ eweghị kwa dayị jụkuru gị n'ehihie a bụ na ọkụ bado media ntị na nọnta, ba dịkwa gịrị ba na-ebene anụ anụ.",0.9615,0.5955
+357,"O ɡelɔ Ɔbɛd Edom ne o bala fifraanumɛl dɛ banuatoro, ba ja ba nɛɛ baa ɛ toma bela.",ogla obet idom ne obara fifira numel deba nuatoro baja bane ba etuma,0.8889,0.3333
+358,"Ŋwɛnɛ la beŋkpoŋ ɛɛ chaɡle kooro la ŋwɛnɛ waa kpɔ o ta dɛ kaa Amɔn tena bwɛjen Raba la ta, ásɛ bɛl ɡe kaa Juda harɛ, Jerusalam bwɛjen baa ma danjwɛɛ baro la ta.","Nwe na la be mponwu e chaghiri, kworo la nwe na wa akwa uta bika a monti na agbe je raba lata. A si be gi ka Judah hari Jerusalem gwe je ba ama da gwe ba ru lata.",1.0588,0.3952
+359,"Ba deŋne kpeɡri, ba nyu bini do kpeɡri kohona, asɛ dɛ kaa tomɛ harɛre ane voɡare.",Asi di ka tuma hariri ani vugari.,1.0,0.7302
+360,"Ya ne Yeesu Kristo aa pɛa sewɛ la nomanta, ya dɔ yarada kɛŋɔ yaa dɔ mkpaa ya ne o pɛ so.",,,
+361,"Ba yoɡ yaa tɛ ŋɔ bá kpoo yaa, dɛ́ he yaa kwaraa.",Bà vô nhà tôi uống ba cua nha. Để tôi ra quán,1.0,0.9118
+362,"Korowii ɛɛ ɡeloo nɛra haa wola ba wobol no, le harɛ jaɡa dɛ́ ba he nɛɛ wɔrɔbe nɛɛ kɛŋɔ kee yon ba ta la.","Kedu ihe a gụrụ na akwụkwọ a bụrụ na ịharaghị jaga, debanye aha na ya, kwuo okwu mbata",1.0,0.7436
+363,"Ba di kwaa la koodem bela, bodɛɛɡe bɛl baa du dadɛɛɡa ane lɔɡre tɔpera anuanɛ.","Bịa dịkwa laa ka odembela, bọdị ya gị belụ baa adụ na dị ya anị lọgịrị topịra anụ anị.",1.2,0.4516
+364,"Bela baa di kwaa la, ba paaɡe pilare baa kpɔ bwedɛɛɡa ane soo siwi maa bar, asɛ dɛ kpɔ pateesanpoŋa ne pateesanburumre saɡre a ta bar.","Bà Badiola, bà Pagi Pilare, bà Cô, Bùi Thị Gà và anh Sô Si Vi Ma Bà, A Sê Đê Cô, Pà Tê Săm Pông A Nê, Pà Tê Săm B'Rươl, Sa Gơr A Ta Bát.",1.3077,0.5849
+365,"Dɛ Korowii Waa bola kpeɡrii o kpɔ tɛɛ naa, a chɛ kɛ hɛɛ bola ɡɛ del he yarada aa doa.",Ndi kwere nkwa na m ga-akwado na achọka ha bụla ga-adị ihe ya na-adị.,1.0,0.6406
+366,"Chɔɔ bɛlbwa la, a chɛ kɛ sɔfo la pa daa do nii la ta, ásɛ dɛ kpɔ saraha kwaa baa dɛ fuah la dawɛ a ta, dɛ́ kpɔ deŋnesɔɔhna saraha noorare la ɡe ja a ta fuh.","Chineke sofulu pada adu n'ilata, asiri kpo siri ha kwa aba di fu ala daa na ata, na kpo di n'iso na siri ha n'urari, na geja ata fu",1.0,0.4348
+367,"Anomanta, o ŋɔ Pɛneɛl tena la be ŋɔ, “Dɛ n kaa yo n dɔma dɛ pɔ ba nɛɛ dɛ ba silɛɛ ne naa, mɛɛ ba kuuɡi he dejaŋ nɔɔ!","Anumanta, ụnọ panel, tinara be ngọ, de nke ayọ ndọma de pọba nee deba si lee n'ịna, na eba kụọ gị hedi jan nọ.",0.9655,0.4217
+368,Korowii Dea Cheremibɔr baa baŋro wɛɛ baɡle kɛŋɔ Korowii lɔ o nɛra bini laanee.,Kedu di ya ba bangro wee barike nwa krowi lo onera bini laani?,0.9286,0.5469
+369,"Ó kpɔ ba che saraha kon la sie, dɛ́ ɡɔɔ o bambile la dɛ́ viiɡu nyundua n sie.","O kwa bu chesiri ha kunasị, na go uba mmiri la, debi gi unu ndu a nsi.",1.0,0.4464
+370,"Yabala, n dɛ soŋe heyaa kɛŋɔ, hɛɛ nyiŋi nɛra baa ɡela he baah ɛɛ peɡri, dɛɛ baɡle waa a ne Yeesu Kristo waa baa baɡle heyaa nɔ aa wola jo, asɛ dɛɛ vuuɡi heyaa la.",Ya ba la.,0.9714,0.9512
+371,"Banɔ la baa soɡe o chunchule ta, dɛ ɛ o chamene tena baa lɔ harɛre ta ne o kaa lalabwɛ, dɛ ka ja nɛra baa kpoo ba keri ne la nɛ.","Bà nà là bà sọ gẹ́ ùlù chùn chùn lẹ́ta, dẹ́ ọ̀cha mìnìtì nà bà lọ́ hàràrẹ́ta nì ùka lálàgbẹ́. Dẹ́ ka jà nìrà bà kwú bàkìrì nìlà",0.9677,0.5474
+372,"Mosis berɔ kpɔ pebal baa kpɔ ɛ saraha dɛ fuuh la ba, asɛ Arɔn ne o bibaala kpɔ ba nɔɔra dawɛ o nyu ta.",Moses buro kwa pe ba ba kpo esra ha di fu laba. A si Aaron obi ba ra kpo ba na ora da we onyu,1.0,0.3377
+373,"Belaa nɛra la bwa le bela kaa ba deremi, asɛ Kooro Devid ɡe kaa o dem, dɛ ka soŋe andɛɛɡa tɛ o dem tena.","Bila n'ala gbalụ bịa ka baa diri m, asị kwụrụ David gị ka ụdịm, dịka sọọ gị a na-agaghị ete ụdịm tị na.",1.0,0.5256
+374,"Awola tɔpere laanee bá soŋe he wechɔɡa men Korowii haa dɛ tom mɛ la be, ń kpɔ dɛɛ kɛ heya.","Afo ato gara aga ni, m sonyeere ha wee choo ga mme m kporo wee ha de tum m laa be. M kwadokahi",1.15,0.5942
+375,ne Dodo waa le Bɛtlɛham bibaa Ɛlhanan.,ne dodo wale Bethlehem bibaa el haana,0.7143,0.2581
+376,"Mosis ɛ ɡɛ bwa Korowii aa doo la, asɛ nɛra la bwa ba cheme Korowii Dea Cheremibɔr la doonyoa bela.","Moses ege bwa krowi a duola, as neral bwa bachem krowi di achiri mi bola do onyo abila.",0.95,0.2597
+377,"Kɛɛ dɛ komɛl ɡe nyoɡrɔ o kpaah o ta kasinteŋ dii, kɛɛ dɛ ŋwɛɛ pɛɛpɛɛ waane ta, kɛɛ dɛ wechɔɡa aa do kɛŋɔ anɔ bini bɛlbwaa yoo, dɛ o di bolchɔɡe.",Ke ebe ka m ga-enweta akwukwo ntakasi nti? Ke ebe m nwere ike ipee ya anita? Ke ebe m wichoga ya dika nwa anu bini be ugbo ayo na Odibo choro?,0.9677,0.6091
+378,O ɛ tɔpere hé bwa aa cheme dɛ́ɛ tom mɛ o ta.,etapre hibua cheme. De etume,0.9167,0.5161
+379,Anee n kpɔ tɛ sɔfore kɛŋɔ ba dibɔr dɛ le saraha kwaa baa fuah dɛɛ tɛ mɛ la ta.,A na-akpọkwa ya ụmụ nwberedi bụ ndị na-esiri ha kwa baa fụọ na-etemela,0.9474,0.6102
+380,"Arɔn berɔ kpɔ ola la bambili ne a nadiɡ hwie la, dɛ ɡɔɔra nyundua dɛ viiɡa Korowii sie ɡɛ Mosis aa do ba la.",rambelo kpo orala bambelo ne onedihui la. Nego ra nundu a de vi ga koro we isi ege Moses aduba,0.9167,0.3735
+381,"Anomanta, ba le nomonome ba chɔ ba nyoa, dɛ do ba baa ɛ tomkpeɡa.",Manta ba le nomo me bacho banya. Da duba ba etumpe.,0.7857,0.3061
+382,"Dɛ hwɛɡa lole kɛŋɔ ń dɔ jaa aa, hale n ne o chɔɔ fini kwara naa, maa won den kpoŋe tea dɛ́ loɡle bibaala tɛ heya.","Debe ga, lelee ka nwa m dị jaa. Ha niile nwere obi ṅaṅụ kwara ana ma ha bụ ndị m kpọọrọ bịa na-elogide bibe ala ha.",1.0,0.6071
+383,"Hɛ́ ɡel yapondɛɛɡa la vɔwɛ he nyuune, hé do naŋɡaware, dɛ bɛ wi, hɛɛ ɡwaŋɔɔ he wechɔɡa nɔ wa, bɛlbwa sɔh dɛɛ wi.","Ihe mere ya pụta na gị ala bụwa hịụrụ na ịdị na ngawari debe wi, ha gwa gọ ịbị chọga n'uwa belụkwa sọ na ị",1.0435,0.619
+384,"Anomanta, Nemenɛ Korowii ŋɔ, wɛɛ kpɔ Ijipt harɛɛ do Babelɔn Kooro Nebukadnesa nɔn ta, ásɛ o pa Ijipt harɛ ta kondɔɔh bwa laa ta kaa, á ɛ o laa tena kembɔr.","N'ọnọdụ a, n'ime narị afọ iri abụọ na abụọ tupu a mụọ Kraist, ụlọ na-abụkarị n'isi n'ọnọdụ a. A sị na ụlọ Egypt haretara kunnụ ọgbá na-ata ka a e wulatara kimgbè.",1.0323,0.7167
+385,O bibaa bɛlbwa waa ba chiɡ o naa ta dɛ ɛ Sɔfonomoa la chɛ kɛ wɛɛ ɛa.,"bịa be gị wa, gbachị ụna taa. Ịsọfụ nụ mmadụ a cheke wee",1.0,0.5686
+386,"Yá kpɔ nɛra fi le nɛra lafa bɛlbwa bini Israel dea bɛlbwa ta, ásɛ baa tɛ ba laa tena la kondikwa.","Ya ponera fili, nara la fabelwa bini, isradiya belwa ta ase, baate, balati nala kuniko",0.9048,0.3067
+387,"Taraken soɡa waa soɡa nɔ, o soɡoo tɛ Korowii.","Thaksin Suka wa suka no, o lere anya na tekere wi",1.1111,0.6857
+388,"” Anomanta, Koranar Bwa Kooro ŋɔ, “Mɛɛ tɛr ba deŋnee.","Nnamdi, kedu na-agba kwa unu n'ulo? Mee ya teliba dinma.",1.1111,0.7949
+389,"Hɛɛ kpɔ ŋwɛnɛ beŋkpoŋii ŋɔ he ka yoo ba, kɛ bɛlbwa ɛɛ berɔɔ nyin bɔr kpɔ dɛ́ chwa peɡre jo harɛ nɔ ta bwa.","Ha kpọọrọ be nkwụọ nwa, ịka yọọ ụba. Gbara gbaa, e birọ nịịlụ gbaara ụkwụ, dechaba ịrịrị ju, ha ra nọta",1.0,0.7125
+390,Nyokpowaa ane ɡe aa dɛ baɡle waane berɔ ɛ nyundua bela ja.,"nyụkwa wa, anị gị adịbaghị wa na bịrọ nyụndụ abalị.",1.0,0.5
+391,"Mɔdekae baɡle waa aa chiɡa la bwa, dɛ berɛ baɡle suuɡa Heeman aa baɡɛ nyoa ŋɔ, wɛɛ bɔɔ do kooro kara mun, ásɛ ba kpoo Juu tena bwa la.","Mọdịka ebagiri wa achịga lagba, debiri bagiri suga, ịma a bagị enyo anwụ wee bụrụkwa ọrụ karị mụ. A sị ebe a pụọ jụọ ụti na gbalụ",1.0,0.5784
+392,"N Naa Korowii, ba sie ne.","na lola. Ge bayo ntige na ka dingara re jur, hare wa cha ka ta ayo ka unela. Ge kurobi che unera una. Uto unera sie oso ndo jirma. Na kurobi basie",5.1667,5.2778
+393,"Mosis ŋɔ Arɔn ne o bibaala be ŋɔ, “Hé daa ol la Korowii Dea Cheremibɔr la doonyoa, dɛ́ kpɔ paanoo aa lɔ wɛɡrɛ bini ba kpɔ dɛɛ do heyaa sɔfore ta la ane ja, dɛ́ dia bela ɡɛ maa do heyaa ŋɔ he dia la.",Mosisụwa arọ nị obi baaraala be nwa. Ịdaọla kụrụ wee dị achịrị mụbọọla dị onyo a. Dakwapaanụ arọ wee ree bini. Akpa dị adụ ihe a sọfụrịta na anịja. Dị dị abụọla gị ma adụ ihe a anọghị dị ala.,0.9556,0.449
+394,"Daa ne kondikwaa haa du la, tontombɛ ɛɛ chɔɡ a bwaa.",Danni kunikwa ha jula. Tuntum me er chok aboa,1.0,0.425
+395,"Men Korowii, n bol he be ŋɔ he ne he naanaree dɛɛ ba koranar ɛɛ.",N'ụbọchị mbuụ n'ime ọnwa Jenụwarị na afọ puku abụọ na,1.0,0.8125
+396,"Maa dɛ ŋɔ nɔ, hé na ɡɛ Korowii tea aa dɛ domɛ nɛwɛnyini nɛ.","Mba, enweghị ọnọdụ ọzọ dị otú a na-eme na mba anyị.",1.0,0.7955
+397,"Liichɔɡa nao kɛŋɔ aa wonoo che Mmara Korowii aa doa la ta, dɛ́ ɡel n ɛ wechɔɡa.","Ihe chọrọ nụ ka mụ na unu che mmara kụrụ gị adụalata, the girl n'ekweghị chọọ.",1.0,0.6167
+398,"Korowii ne bwaala nɛɛ dɛ tɛ heyaa la, tutuɡ ne tɔɔ wɛɛ ba ɡela a le nyundua ba he nɛɛ kɛŋɔ bwaala aa dɛ nɛ la, ka tel kɛŋɔ he bwa aa serewa.","Gwarini gwala ne, ya tafi yala. Tuturni to, weba gwala, alinu yuwa ba. Yina kenyo, gwala adena la. Katil kenyo, igwa asiruwa.",0.9394,0.5143
+399,"Nemenɛ Korowii sɔn dawɛ Daka la ta, asɛ o so o kookara ta, kena kwaa baa dɛ yera Kerobim la baah ta.","Nne m na-ekwu okwu iso ụzọ ndụ ya na-akara taa, asị na ụso ka ụkara taa ke na kwa baada yira kiro bin la baata",1.1364,0.4342
+400,"A chɛ kɛ ó le nɛra bini, dɛ́ ɡbo ka so bela baa soɡa la dahara.",Chineke olee nrabinye? Ndị gị ka so bịa baa asụgharị na,0.8125,0.5778
+401,Kenii Nemenɛ Korowii ŋɔ o nɛra be.,"ka ha rafeta, a ume debi chalinụ, den gụka lipra bali batinụ. Kedu ihe niile mere unu kwere unu ọnụ?",2.8571,2.3333
+402,Men aa kpera kɛrɛdɛ kuruware anɛ iisi aa lɔ a ta laanee hé kpɔ wɔɔra.,"Nne akwụkwọ ya kere dị, kụrụ arịrị anọ, isi àlà atọ, laa n'ihe kpatara",1.0,0.5741
+403,"Nɛra la bwa pɛo dɛ ŋɔ, “Ya bini bɛlbwa toole dɛɛ ba dem kaala.","Nera na uwa pịa dị nwọ, ya bụ na igwe na-atụ ole, na ebe a dị m ka ala.",1.2857,0.4783
+404,Hɛɛ dɛɛ laɡre bɔree webaŋa kɛŋɔ nyoŋa ken haa wola bɔree na.,"Aha, lagre boriwi banake onyoaki. Awla bori",1.0,0.5417
+405,N dɛ nyin ń dɔ he bane dɛ tɛ Yeesu Kristo kɛŋɔ maa dɔ bane le nɛra ba ɡe aa wola Juu tena ɛɛ bini la.,"N'eziokwu, ọkwa ịbụ onye na-eso ụzọ Jisọs Kraịst ka mma karịa ịbụ onye na-arụ ọrụ nke Giudas na-abụghị nke eziokwu.",1.0,0.9333
+406,O kpoŋe hɛm o nɔndiɡ ta dɛɛ ba tae do Jerusalam.,pogea ununita de bataj do Jerusalén,0.9091,0.4054
+407,"Hé ɡel ɡɛ ɛɛ dɛ́ kpɔ he nɔɔra haa kpɔa dɛɛ ŋwɛ la dɛɛ ɛ tondɛɛɡa dɛ́ dɔ dɛɛ di, dɛ́ won dɔ ane dɛɛ tɛ nyaara ba ɡee di.","Ihe ị ga-eme bụ na nke mbụ, ị nụrụ ha, akwa dị enwela, dee etu m dee gị. Dee dotị. Dee wụndọ anyị dee ete nyara bagị.",1.0,0.6824
+408,Korowii waa lole saŋ te bɛlbwa la bandia su a bwa.,Kedu ihe a na-elekọta na belụbọla gbaa wụsụ,1.0,0.7436
+409,"Kɛ dɛ sɔfo la baa nyiŋi dɛ ŋɔ doŋa toole o nɛɛ kpa, asɛ a habɔɔ kur la berɛ yɛ aa, a chɛ kɛ ó berɛ kpɔ o te ka chaɡle sɔfo la ja.","Ha na-asị ọ fụla be anyị, na nwoke na-atụrụ onye ya pa. A sị aha bụ akụrụ labara ya. Acha kawa ubere kpọọ, otu ka bagiri sọfụla",0.9412,0.5914
+410,"O bɔne laa tena la bini kuore ta ba so bwɛɛre ta Edom harɛ bwa, asɛ harɛ la tena bwa do o lɔɡa dɛɛ tomɔ.",Oba ne laatina la bini kọri ta gbasọbọ erita idom hari gba asẹ hari laatina gba do ụlọga de etum.,0.84,0.359
+411,"Koodem doonyoa ɡboo o jaɡɛ, dɛkalkɛŋɔ nomɛlbwa waa tɔ lweyal la ta ŋwɛnɛ dɔe kɛ ó jo bela.","Odimma, do ya gwa oji ake. Dee ka ake nwa. Nume gba wa ato le ya ala ta nwe na dee ke oju",1.2778,0.5634
+412,"Tɔpere bɛlbwaa nɛra yon baa ja Kooro Devid laa tena nɛ, a ta biɡre o laa tena warɛ, dɛ do kpeɡri kohona.","Tabiri be wa na ra yom baja, koro debis laatina ne. A ta bigiri o laatina ware, de du kpegiri ko",0.8636,0.3625
+413,"Dɛ harɛ bɛlbwa nɛra ta deŋne cheɡɛ dɛ no aa, mɛɛ le ba nee kɛŋɔ baa fuɡri dua ken, dɛ́ chɔɡ ba.",Ihe a bụ ihe mere na taa dị n'ime chọọchị dị n'Ua. Melebanị ike nụ ba fụgịrị di wa kị. Na chọọchị,1.0,0.7
+414,"Name Mosis kpɔ noo baa kpɔa dɛɛ do ba sɔfore ta la, dɛ ɛ merɛ Korowii Tɛnte Dea la ne o koŋkwaa bwa ta a do ɡoroŋ.","Na ya mere Moses kwanu baa akwa dị egwu n'akụkụ ụlọikwuu ya, adụgoro",1.0,0.7209
+415,"Gɛ Korowii tea aa too he waa kɛŋɔ wɛɛ ɡeloo he do wer, ásɛ dɛ berɛ ɡel he ya la, ɡɛ tentenee o tea ɛɛ ba toora he chɔɡa dɛ ta wa, dɛ́ chuɡri heyaa le harɛ haa dɛ la ka so o ta nɔ ta.","Nke bu eziokwu bu na otu nwoke nwuru n'oge na-adighi anya. Otu n'ime umu ya nwanyi batara, hụ na nna ya anwụọla, wee tie mkpu, nke mere ka ndị agbata obi gbaara ọsọ bịa.",0.9783,0.8561
+416,"Ba kpoŋe tori, dɛ jemɛ ane yoi kɛrɛdɛ, kɛɛ dɛ won vamtor bwea tae diɡ ne ɡal bwa.",Dä ji mä anhi yue ker de. Ke de won vam tur bu ya tai digi ni gaal,1.0,0.5902
+417,"Gɛ ŋwɛnɛ nɔ taa sɔfo la ɛɛ ba kpɔe, dɛ́ soŋe ba wechɔɡa n be ásɛ n kpɔ kɛ ba.","ga-eweneta sofula ebe akwa ya, desunye bawee chooga, mbe asi nkwo ke",1.0,0.5818
+418,"N dɛ soŋe kɛ he swee n naanar andɛɛɡa, ásɛ baa di he laworomɛ saŋ bɛlbwa.","Nde sune ke, he swe na nar ande ga. Ase ba di, he la wurme sang bele",0.9375,0.3929
+419,"Asɛ kooro ŋɔ, “Hé yerɔ ba!","asikoro wa, iroba, wa balala, koro boru wa",1.3333,1.2222
+420,Goma ne Maɡɔɡ ne Madai ne Javan ne Tubal ne Mɛsɛk dɛ Tiras.,"Goma ne Magok, ne Madai, ne Javan, ne Tubal, ne Meshek, ne Tiras.",0.2308,0.1739
+421,"Korowii baah di Ussa nɛɛ dɛ kpoo buɡ la ta, dɛkalkɛ o kpɔ nɔn lawɛ Daka la.","Kedu ka ị banyere ụlọ? Na-akwụ ụgwọ ụlọ taa. Dika ọkọnọ nlawe, dika",1.0,0.6842
+422,"Midian tena nyu bini aa baa do kpeɡri Israel tena nɛɛ kohona la, ba chwao kaa bwejena bɔɔne bini ne bela baa wola ban na, dɛ kpɔ bela berɛ deene dɛ so a bini.","Ndi be anyi na Nnewi bini a, biko giri, iziri anyi na ekwenti na la. Bachaa uka, gwa ije na gwa onye bini, na ibia, ba awula ba nna. Depo bela bere, di ini, de so abini.",1.0,0.459
+423,"Dɛ Korowii tɛr ya deŋne aa, dɛ o waa toɡraa?",The crow eat her young and then the owl took her.,1.1,0.8182
+424,Anɔ la aa tɔ sie laanee kɛŋɔ yanee Korowii tɔ sie kpɔ o waa do ya nɔn ŋɔ ya baɡle nɛra.,A nọla a tụsịrị ya na nke gọọmentị kemgbe ụbọchị ụwa abalị.,1.0,0.7273
+425,"Kɛ dɛ sɔfo la liiree kɛŋɔ ŋwɛr la ta yɛɛrɛ, asɛ pona aa dɛ chaɡle kɛŋɔ o dɛ tonɛ ba o ta naa, amɔ dɛ o tonɔ.","Ke da so wallahi lire kenan werrila ta yere, ashe puna a recha yili kenan o da tuna ba utana amada otuna.",0.8889,0.519
+426,"Anomanta, Korowii nyiŋi haahna baa dɛ lɛ haahna lol la nɛ, dɛ ɡel Israel tena mun ya kohona.",Anamata krowie nyinye ha na baa dele ha na lulane. Daga Izira'ila tana mun ya kunhu,0.8889,0.4167
+427,"Korowii nyoa la o fa aa baɡɛ Abraham ne o naanar ŋɔ harɛ nɔ bwa ɛɛ ba ɛ ba konee la, Mmara ta teŋa waa laa o baɡɔ ɡɛ nyoa la.","Kwezuo nyala, ofu abali Abraham ni ụmụ nna ya nwoke harị nụ gbaa ya ekbakwụ n'ịla. Mmara ka kinawaala ụbago ge nyala.",0.9355,0.4839
+428,"Anee ba chaŋo dɛ ŋɔ, “Hibru haahna lola aa kpeɡe kɛŋɔ Ijipt haahna.","Ha na-bacha ngwa, ha buru ha na-lụla akwụgị kee Egypt ha na",1.0,0.5192
+429,ne Hasem waa le Gesɔn bibaala.,"네, 하심. 원래 기성 비발",1.0,1.0
+430,Gedeɔn lawɛ Sukot bonɔɔ bɛl dɛ bɔɔro nomonome baa lɔ Sukot wa.,"Gidiyon lawa Sukot, bunaa bel debbo roo numorume baalu Sukot wa",0.75,0.34
+431,"Gɛ nɛn sewaa, waa wola toole wobɛlbwa bini kpa la, ɡɛɛ ya ne wechɔɡa baah do.","Gana si wa, wa wula tole gbu gbele gwa bini pala. Gana ya ni kwicho bandu",1.0,0.4915
+432,"O tɔɡre ɛɛ ɛ suuɡaswɛm kilore fifraatoro dɛ anaarɛɛ, ba bil bwedɛɛɡa a yoɡ aa kpeɡa o ta, asɛ o kpɔ pi.","Otu a gị a, e si gị na 5000 naira, na anaghị. Baịlụ dị gị, o yoo a kpọga ụta, asị",0.9545,0.6962
+433,Ásɛ bibaa waa di bene dɛ le anue ka tel bene fifraanɛ la ɡe suuɡapoŋa fifraanɛ.,"Asụsụ Igbo bụkwa edibini, deli nnụọ ka ebinife fụrọ nnụọ, na ha ga-esugha pụọ fụrọ nnụọ.",1.0,0.6825
+434,"Tɔpera anuanɛ la baa tel ja o ba nyiŋu dɛ na kɛŋɔ o sie chɔɔ kɛrɛdɛ o ta yɛɛrɛ ɡe aa, sɔfo la ɛɛ ŋɔɔ doŋa bɛlbwa toole o nɛɛ kpa, kur pɛɛpɛɛ.","Ọpụrụ anụ anaghị abá téré já, ọbụ e nyịngọ dị na kenụọ, osie chọọ kịrịde, ụta ya erị gị a. Sọfụla e ngọ dọga be ịgba tụrụ ụna ekwa. Kuru peepe",0.9697,0.6132
+435,"Awola bɛl, kooro la iro dɛ ŋɔ o nɛra la be ŋɔ, “Israel tena baa lɔ ya harɛ nɔ ta berɔ dɛɛ warɛ kohona, dɛ́ ba di kpeɡri ya nɛɛ tɔpetooro bɛl.",A gwara be koro na iro denwa onara la be nwa. Izra'el na ba lo ya hari nota biro de ware ku huna. De ba di kweri ya na etopitoro be,0.8125,0.375
+436,"O berɔ kpɔ kon baa dɛ dawɔ bambile ta la do Arɔn, asɛ dɛ kpɔ Urim ne Tumim la do o bini.","O buru akwukwo mba a na-ede na obamiri taa laa du aro, a siri kwa urim na tumim laa du ba",0.8636,0.5231
+437,"” Waa paɡru la, asɛ o fuɡe mea dɛ ɛ kuruwa anue doo o kpɔ kaa dem.",waa palu la a si ufugi m ya de ekwuru a anụghị do ukpo ka a de,0.9375,0.4043
+438,dɛ́ kpɔ do ba liire bini.,na-ekpo dubali ire bini. Na-araba wa tugara gbaa heguru na chaka maru. Asi na araba be mbili bini,2.8333,3.4444
+439,"Ó pa mun le korobie la tɔpera anuanaarɛ wee aa jo la ta, dɛ́ ba o tɔpera fi ta jɔmɔra.","Otu mụ na ụmụ beere lata ụra, ọnụ anaghị ekwu okwu, anyị ajọọ lata. Ebe ụra fọrọ ntị ka njọ",1.0,0.7812
+440,"Kooro Devid aa kpoo kwaa dɛ fuh ɛ sarahare, ne deŋnesɔɔhna sarahare tonɛ la, o soŋe andɛɛɡa Nemenɛ Korowii be tɛ nɛra la.","Onye debere akwụkwọ, defuo esari ha na edemede so na esari ha tunela. O sunye aha ndị ga-anọchite anya ha na-ala.",0.9565,0.6042
+441,"Banee, Mehuman ne Bista ne Haabona, ne Biɡta ne Abaɡta ne Sɛta, dɛ Kaakas.","Bane, mehu bane, bis tane, ha bona. Ne bik tane, abak tane, seta. Dekakasa",1.0,0.1754
+442,"Teeraa Korowii kpɔ taa, anomanta, teera binii a bwa berɛ ɛɛ ba kaala.","Teara krowi kpata, a numanta teara bini, e gba bere e gba ka ala.",1.0769,0.2593
+443,"Asɛ Korowii ŋɔ, “Mɛɛ soo ka tel kɛŋɔ haa ba.","A sị na ekwensu nwụọ, na e so ka telụ ya nwa ha aba. Gị dị onye a kwụgburu lụọ ndị di alụ, na kwa mị nkwụ waaraị fị.",2.8,2.1875
+444,"Anomanta, men Korowii ŋɔ mɛɛ kpɔ wekpeɡa baa wola won le a nyoa ba ta ba nɛ.","Amaghi m ma ha n'ikpe ikpe ma ekpeghi ha, baara ụmụ nne anyị mba taa abalị.",1.0,0.6552
+445,"Dɛ Israel tena vɔwɛ ntoa, dɛ le Ijipt harɛ dɛɛ ba ba yo.","De Israëlaten abawentua, de Egyptenaren harren eba",1.0,0.5952
+446,Korowii Ne Nɛwɛnyina Fɔo Daka kpɔe le Kereat Jearim.,Krowi nene we nyina fog daka kwayele keriya jarim,1.0,0.3023
+447,"Israel tena, hé no, he dɛ lii kɛŋɔ men Korowii n waa ta toɡrɛ kɛɛ?",いらっしゃいな。へぬ。,1.0,1.0
+448,"Ba jemɔ kɛŋɔ Korowii ŋɔ nɛra baa dɛ ɛ ken la, ba chɛ kpoe, kɛ dɛ ɡe ta na dɛɛ ɛa, dɛ ɡarɛ dɛɛ kpɛɛ nɛra baa dɛ ɛa la.","Bịa gị mụọ kịmọ kụrụ nwa nneara baara eke nla, bacha kpụọ ya, kedụ ege taa na-adị ya? Degara ya kpee nneara baara ya ala.",1.0,0.5833
+449,Wobɛlbwa haa dɛ ɛ ɡe aa heyaa kɛrɛdɛɛ chiɡ bwa.,Uwa wa ha di ege ahia kere chi ga,1.0,0.5946
+450,"Gɛ he fa aa teŋa dɛ kpɔ he te do wedoŋa ta wubwa dɛɛ ɛ wechɔɡa la, ɡɛɛ a chɛ kɛŋɔ hé berɛ kpɔ he te do wedɛɛɡa ta, ásɛ he waa do ɡoroŋ.",,,
+451,"Yabala, nɛra ɛ heyaa wechɔɡa aa, he bɛ ane ɛ dɛɛ bɔ kem.",ya bala ngara ehi a wuchoba ya ibe ani ebe bu,1.0,0.5366
+452,"Mosis berɔ kpɔ pee la bambile waa ɛ o dibɔr la, dɛ ɡɔɔro nyundua dɛ viiɡu Korowii sie ɡɛ Korowii aa doo la.","Mosis birokwa pee na bammiri wa a odiboro la. Na goro unu ndu, na figo krowi isi ya, ge krowi a du la.",0.913,0.4217
+453,Dɛ ba bɔne ba kuore fi dɛ banumɛl.,ba baa baa ne ba ku ori fi de ba nu ma,1.25,0.3462
+454,A berɔ do kɛŋɔ chae Korowii aa cha yaa la ne waa aa le nɛmbeŋkpoŋ la wechɔɡa ta la ta beŋkpoŋ ɛɛ.,"Nna, biko kenechaa yaala niwaa ali na mme mme nkwo la we chọga tala ka be nkwo",0.9545,0.5333
+455,"N takapɔ kɛŋɔ ń laa he doŋa bwa kpɔ he nɛ, kɛ n ta wone.","Nta ka pụkị ya ọ, nla ịdị gị agba pụhịne? Ke nta wụrụ",1.0,0.55
+456,"Gɛ maa yarada Yeesu Kristo la, aa do heyaa ɡbembaa, ásɛ ɡɛ he ɡe aa yaradao la do n ɡe ɡbemba.",Nge ma ya arda ya esqi sula. A duhiya gbi ma. A se dehi gi arda ula du nge gbi ma.,1.0,0.493
+457,Bá kpɔ noo koo mea saraha ta dɛ́ kpɔa ja ba tɛ Korowii.,"Bàkọ́ nínúkò mi asrahata, dékọ̀ ajabate krowi.",1.0,0.3902
+458,kɛŋɔ n tɛr ba dɔma.,ka mụ ntereba dọma dịrị gị mkpa. A ga m enye gị oge ka mụ na ndị nta akụkọ anyị ụgbọcha mee. M ga-enye agịrọ,5.0,5.1429
+459,"Lusias ne Jasen, dɛ Sosipata ba bwa aa ɛ n bwɛɛ tena la dɛ na heya.","Lusias, n'y jasent, ne se soucient pas de Baba et Mboetina la dernière",0.875,0.6
+460,Dɛ mea koma dɛ pa mun.,demia komande pamu,1.0,0.3125
+461,Alvan ne Manahat ne Ebal ne Sɛfo dɛ Onam.,"Alvarne, Manahat, Neibal, Necefo de Una",0.8889,0.2188
+462,"He dɔŋ Israel te nyao dɛɛ nyin o yoɡ o te tɛɛ kɛŋɔ yom aa, a ta chɛ kɛ hé ɡel o ɛ toma kɛŋɔ yom.",Ịdịghị ịracha ihe nyaworo gị n'ụyọkọ otu. Tee ka nwanyị ọma. Atachakaghị gị etu maka nwanyị.,1.0,0.7391
+463,"A taa Korowii che dɛɛ baɡle o kpeɡri, dɛɛ lɛ nɛra bwa baa yarada o waa la.","Ata krowichi, dee bagili okpegiri, dee leneregba ba yara da uwa ala.",1.0,0.3571
+464,"O baa nyiŋi dɛ o ta yɛɛrɛ, o pona ɡe ta solmen ɛɛ dɛ kaa bini naa, naate la chɛ kɛŋɔ bá fonɛ o ŋwɛr la bɔr bar.","obanye gi na otayere, opona gi ta sulum e dika abali na na-atula cheke nwa bafune onwerelo bolba",0.9643,0.4321
+465,"O tɛ heyaa dafale bɛl soo siwi waa kwaara, o do kɛ o tenten la ásɛ he won ɛ nɛndɛɛɡa tenten, he waa bwa do kɛrɛdɛ o be.","Ote hiya da fale, belu so si wa kwara. Odu ke otentela, ase hiwon e na ndega tenten. Hiwa gwa dukere obi.",0.9643,0.3371
+466,"Hɛ́ɛ di n Ona Tɔpera la, ásɛ dɛ ɡel duure do n Dea bela.","Hey, di ununata pula asara gel dure do India",0.8571,0.5
+467,Mɛɛ le kpɔɡ bini ola aa lɔ harɛ la ta bwa nee.,Mmalite obini ọrụ a alọgharịla taa na,1.0,0.5
+468,Korowii ɡelɔ ya jemɛ ŋwɛnɛ la ta aa cheɡa ya wa ɛɛ su o siwi.,Kporo onye ịkpara anya gị me nwa nịlata a chịga ya wa esu,0.9333,0.6304
+469,Nyotor ne nyosone nee baa neɡre nɛra baa wola wobɛlbwa jemɛ la.,"N'ututu ụmụ nsị na-abịa n'egwuregwu, na-awụla, na-ebe akwa ji mee ya.",1.0,0.6667
+470,Dɛ Filisti tena la balɔ ba lɔ tɔ Refaim Fɛlembɔjen bini dɛɛ kah kwa.,"Na ekele site n'ala baalo baalo to Raphael Felimgoji Mbini, deka",1.0,0.537
+471,"Dɛ wedɛɛɡa ɛɛ kpeɡrii o tɛɛ naa, a chɛ kɛ hɛɛ ɛa tepoŋ ne.","Da wanda ka aipigri otana, ace ka iya tipun",1.0,0.6047
+472,Korowii ɡelɔ men Jeremia jemɛ vɔrɔwa n dɔma aa dɛ vɔrɔwe n wa.,"Buru igala mụ ịngarị m ya gị me, wụrụwa ndụ mụ adị wụrụ ịhe",1.0769,0.6531
+473,Anee hɛɛ ba dii tɔpera lafraatoro fifraanuanaarɛ haa chɔ he ɡal ta la.,"Anyi abughi ndi choputara ihe a tupu, ihe mere nu anaghi achoghi iga n'ihu.",1.0769,0.7368
+474,"Gɛ baa maɡa bil Korowii Dea a ɛ suuɡa bwejeɡre fifraanɛ la taa baa ba nyiŋa, dɛ́ baɡle komɛlbwa yoɡ.","Nde be ama ga abia kurobe idia, e esuga bujiri gi fifu nne. Nata be abanyi nga, ndi be gi na kun be ebu ayo",1.25,0.5769
+475,"Baa dɔ suuɡaa ásɛ he kaa kemɛ, kɛ he te aa anee dɔ dɛ kem ba bwa, ba den ɛ he nomonome dɛɛ nyiŋi he nɛ.","Bịa dozie wa, asị na ịka akịme. Ka ehihie a anaghị ṅụọ, jekene gbagbọọ. Bịa zie ehihie n'ụmụlụmị dị enyi gị.",1.0,0.7067
+476,"Ó laa o noo la bwa kpɔ, ɡɛ baa dɛ ɛ deŋnesɔɔhna saraha kon noo la, ásɛ sɔfo la kpɔ ja kwaa baa kpɔa ba ɛ saraha dɛ́ fuah tɛ mɛ la ta.","ụlọ akwụkwọ ga-abụ ebe dị nsọ na-asịrị ha kụọ nụ ụlọ. A sị sọfụla akwụkwọ, jakwa aka abụọ aka abụọ sịrị ha dị fụa temela.",1.0,0.6289
+477,"N Naa Korowii maa dɛ tomɛ, he pili waa nɔ bini baɡle men he bonɔɔ dɛ ŋɔ hɛɛ ɡeloo n naanar ɛ koranar.","Nna kwuru ihe m ga-ada na ya. Ha pịrị ụano bini bagle, mee ihe bụ nọ na nwọ. Ha gịrọ nna narị ekwụra narị",1.0,0.5584
+478,"Lewi dea tena te dɔ ŋwɛnɛ saŋ bɛlbwa, dɛ́ bɔ ba deene baa yoɡa ba bwɛɛre ta kem dɛ́ lɛ.","Ndi nwere di ha na-etinye aka na sangbiri gba, na-ebe obadi na-ebe anya, o ga-ababu eri, takin dele.",1.0,0.7344
+479,"Ó laa wechɔɡa kpɔe dɛ kɛ saraha nabal la noorare bwa kpɔ, o noyal ne anɔ la aa lɔ o tea bini bwa, ne o kporombie ne noorare aa tɔ a ta, ne o pwɛ bela waa wera.",O na-eweta kwa ya dị ka siri ha na-abara n'oriri gbakpo. Ụnọ ya niile anọla aṅụrị otu a ebighị ebi. Nịkpuru mbie ni n'oriri a tọọ atọ nị opekempe bụla wa,0.9737,0.5678
+480,Gɛɛ wɛɛ ba ɛɛ dɛ́ soŋe naate wechɔɡa tɛo men Korowii sie ásɛ n kpɔ kɛo.,Nke a bụ ebe ndị ọrụ nka na-etinyetụ aka na nkà mmụta sayensị a na-akpọ,1.0,0.8519
+481,"Ba berɔ ba toli la ne koodem bela nɛɛtena, dɛ Mɔdekae dɔ nomonome dɛ so koodem doonyoa bela.",Bárbara Batolila ne ko odembala na etena. Demokrasi bu nomunomi de so ko odendo onya abila.,0.9444,0.3014
+482,"Le waa la mumpar ka tel a jaɡa bwa, o waa yaradae waa ɡboo a bwa.",,,
+483,Ó berɛ ɛ noo la ane dawɛ bɔra o fa aa ɛ bolchɔɡe dii saraha kon chal merɛ la ɡɛ tenten.,Obara enu la na dawe bora ofia eburu choro di siri ha kun cha mere la,0.9048,0.5
+484,"Ba bwa dɛ ɛ ɡɛ, kɛ dɛ Mɔdekae te aa on ɡɛ ɛ.",bụ ụbọchị ego nke ndị Modibbo Adama University,1.0,1.0
+485,O nɛra kpɔ bela o fea luŋa.,"Koro wii achike ukwegirita, degil Moses wii jena mputengila. Olesson wa wula jagadoi. Onerakpo bila ofia",2.2857,3.7
+486,He bɛ komɛlbwa waa lɔ nyundua kɛɛ harɛ ta hale nee bini bɛlbwa chaa ɛ.,Ihe gbasara mmeghari ahu aru nyuru nju aka e hereta hari na ebili bu egbacha,1.0,0.6182
+487,"’ Mɛɛ ɡeloo harɛ la do wer kohona bennumɛl la ta, ásɛ kondikwaa aa le o ta ba la won tel heya bene atoro.","Mmadu hapu ala di ndu wee ruo na-ala ndi nwuru anwu, a si ka unu kowara ha otu a ka ha si wee nwee ntị ha na-anụ.",1.1739,0.7722
+488,"Kooro Devid banyoola ne Israel tena bwa baa chao o won di kora, ɡɛ Korowii aa baɡ ba nyoa, o kora che kiŋkiŋ laanee teŋa nɔ.","Kụrụ ndị ọgbọ anyị ịzụ ahịa n'ogbe, bịa chọọ ụwa ndị kụrụ. Gekwere ya baagbanye ya, ụkụrụ chikinkin laa n'itinye a.",1.0,0.625
+489,"Nemenɛ Korowii ŋɔ, “Mɛɛ ɡeloo bwɛjen Taaya chɔ pɛɛ kɛŋɔ bwɛjena aa paɡra nomɛlbwa aa wola toole a ta, dɛ́ kpɔ mpo ba tɔ o ta ó ka vil ta.",I me na kuro bi nwa na e guru bu ji ntà ya chọpụta ya bụ ji na a pagara mmuọ na awụla tụgharị ata. Dekwa mpu bata ata,1.0,0.5825
+490,Bɔkwaa men Devid dɔ dɛ́ bol he be jaɔ?,Waka mende viddo. Da bul hibe ya,1.0,0.3571
+491,"Wɛɛ ɡeloo he dɔma tɔ heyaa do bwɛjena waa kpɔa dɛɛ ba heyaa tɛɛ la bwa ta, ásɛ he lɔ harɛ.",Bịa gụọ ịdọ ma tọọ hịa dị gị n'anya. Wa kwa na ebe hịa chọrọ ịgbata. Asị m gị lọọ harụ,1.0,0.7059
+492,"O ŋɔ, “Nɛwɛnyini bie, n dɛ ba nɔn uma lɔ nɛn haa dɛ nyinu kohona la dɛ́ kpoo.","ụmụ mụ na ezinụlọ m, ndụmọdụ ụmụ akwụkwọ na-elekọta",1.0,0.8182
+493,"Ba charɛ ba liire dɛɛ ɛ ba naawa wechɔɡa baa ɛa la, dɛ vɛh n waa ta teŋa.",Bia chara baliri dee ebanawa wuchoga ba yala. Deven nwata tin,0.9444,0.3704
+494,"N kpɔ o lale la dɛ ba mɔne o bini bɔne tɛ Israel deene fi dɛ anɛ la bɛlbwa, ásɛ a chaɡle wedoŋa ne waa baa kia ba ɛa Israel harɛ ta la.","Opa Olalela deba mma ni, ubi ni gba ni te Israel di ni fi de ana la beluwa. Ase achagali wi do nga ni wa ba kia ba iya Israel ha re ta",0.8788,0.3465
+495,"Dɛ banee Manasɛ dea laa sitɔɔla, dɛ chɔ laa tena kaɡboŋa nyoo.",Debe na ị mana asị dị a laa sị tọọla. Dechọọlaa tị na ka gbuo gị.,1.25,0.449
+496,"Gɛɛ a do Kooro Sɔɔl ne o bibaala batoro ne o dem tena bwa serewe, nomɛlbwa ta o luɡe ta leɛ ba di kora kpa.",ya adu kuru so na ubi baala baturu na odimma na gbasiri ya na mwelu bata olugeta ya ba di kora,0.88,0.4444
+497,"Akai n bii, he ɡbabir jemɔ ŋɔ ɡɛ aa won maɡre.",ka imbi igba beji mo won oge awo,1.0,0.6176
+498,"Ba kaa tel Sukot, asɛ o ŋɔ bela tena be ŋɔ, “Hé tɛ n nɛra nɔ kondikwaa bá di.","Bịa ka anyị zukọọ. A sị na onye na-adịghị na be ya, hite nnere nụ kọnịkwa",1.0,0.6364
+499,"Ɛrɛɛ Korowii Waa Ɛ Kpeɡri Bwa Dɔɔ ɛɛ mɛ nyuchɔɡe te dɛ ɡel mɛɛ na wahala nɔ, asɛ hɛɛ yer mɛ Naomi nɔɔ?","Ere gịwa ekpegirigba do eme n'ụchọgịti, degịlụ mee na awahala nụ. A sị ha yiri me na omenụ",1.0,0.5641
+500,Kooro Devid kpɔ sɔfo Sadɔk ne o bala sɔfore so Korowii Tɛnte Dea bela baa chema dɛɛ tomɛ Korowii o do Gebeɔn.,Kuro di vidiyo safo sa dok ne ubala safo ri so kuro wi tente diya bila ba chima de tume kuro wi udo guru.,1.0,0.3563
+501,"He bɛ ɡel wedoŋa bɛlbwa ɛɛ le he nyoo, kɛ hé ɡel he wobol ɛ waa aa wera dɛɛ do nɛra ɡbemba waa aa kpoŋ ba ta, dɛ won cha banɔ la baa dɛ noa la.",Ihe mere anyị ji nọrọ ebe a taa bụ na anyị hụrụ na ọ dị mkpa ka anyị gbakọta ọnụ iji nyochaa ihe mere n'obodo anyị.,1.0,0.8286
+502,"Bane ɡe dɛ́ kemɛ ba bala Israel tena suuɡa, dɛ́ chɔŋɛ a nee dɛ́ che a ta ɛ dɔɔhna.",बाबाला इजाच नसू द्या.,1.0,1.0
+503,"Dɛ dɔŋa kwaa kɛɛ kpeɡrii o tɛɛ naa, a chɛ kɛ hɛɛ ɛa bambile bwa ne.",Aka ka ha ga-abamiri gwa nu,1.0,0.72
+504,Ɛrɛɛ he ta yaa yerɛ ya ba chae yo Midian tena ɔ?,Era hitayayire yaba chayuyu midiyantena.,1.0,0.3333
+505,"Kɛ ba bwa ɛɛ chwao le harɛ la ta, ásɛ o chɔ pɛɛ dɛ́ onɛ ɡɛ aa chɛa.",Babu wani ƙwararren likita a saƙo da ƙwararren likita,1.0,0.8085
+506,"Hale haah la ɛɛ sɔɔh, dɛ́ kpɔ o bie ne o dɔm chwe a ɡɛ saŋ he dɔma aa kpɔ ɡɛ wekpeɡa nɔ pu heyaa la.","Alee ala eso, ekpo ubi enu udo mche, agaghi m idoma akpo gi bu ikpehanu pughi ala",1.0,0.5278
+507,"Hɛɛ ka lɔ dɔŋaa, dɛ́ choɡli dɛ nomɛlbwa ta he nɛɛ teŋɛ.",he ka odon de chogili de numi gbata hi na etin,0.9167,0.5366
+508,"Kenan lolɛ Mahalalel, asɛ Mahalalel ɡe lolɛ Jarɛd.","Kee na lule, mahala le. Ase mahala le ge lule jare.",1.375,0.2927
+509,"Baa le Sukot la, ba kaa baŋre ba tɛnte deene Etaam.","Bịa na-esukwutela, babbangida tente diini ita.",1.0,0.5128
+510,"He bɛ jenu dɛɛ ɛ, he bɛ he te pere dɛɛ le nyaara ne nɛŋɡwɛɡra bini.",Ihe mere nu bu na ihe mere n'iti pere mpe di eli nyara ni na ngwegbe,1.0,0.66
+511,ɡrepo nɔna ta nɔɔ?,"tigiri pu nonata nu. O ruo ihu, m tigiri ha ri nne na eke nu, but tigiri gripu nonata kin. N'ụmụ agbọghọta mụ na Chineke. Na njedebe",6.75,6.4286
+512,"Nyokpowaa ya naawa aa bol a waa baɡle yaa ŋɔ Korowii ɛa dɛ lɛ yaa le Ijipt harɛ ta la, ɛrɛɛ waa wola ane ɛɛ ya ɡe na nɔɔ?",Ya buwa ya na awa bul awa bagali ya nwo. Koro wi ya dele ya li ijib hare tala. Ere wa wa wula ani e ya gi nano.,0.9655,0.4066
+513,A ɡɛ waa nɔ chɔ le dɛ tɛ bwadabii weebuula ne konfɔɔla te bɛlbwa.,Agha ụwa nke abụọ bụ ihe kpatara ụlọ akwụkwọ ahụ.,1.0,0.8431
+514,"Mɛɛ lɔ baa peɡre harɛre ne bwɛɛre ta, ásɛ dɛ ɡel ba wechɔɡa bwa ba a jaɡa.",Nne na nna ya na-eri ihe ha riri wee rita. Ha si ya jee na-eweta gba ba aja,1.0588,0.6964
+515,"Korowii berɔ ŋɔ Mosis be ja ŋɔ, “Awola baa fuɡe noo do Arɔn nyu ta dɛ ɛo Sɔfonomoa la, o ne o bibaala kpɔ ɡɛ kwaa nɔ ba tɛ mɛ.","Onye ị̀bị̀ara ọ́ mụ̀ọ́ sị̀ bị́a ṅụ̀. A wụ̀rọ̀ m̀ afụ̀gị̀ n'ụ̀dọ̀ arụ̀ nyụ̀ta, dee ị́ọ́ sọ́ fụ̀rụ̀ n'ụ̀mụ̀ àlà. Onye ị̀bị̀ara kọ́ gị̀ kọ́ anọ́, kpata",1.0,0.6774
+516,"Banee ɡale Jɔɔdan Moo, korobiloɡle ta ɡɛ saŋ waa sua kohona, dɛ doŋi nɛra baa soɡe fɛlembɔjena bini, wee leebɔr ne wee cholibɔr ba bwa peɡre la.",Mani gale yadammu kurobi logolita ngesan wasuwa hunna. Daddoni nera ba soge felimbo ji na bini wele bor ne wecholi bor ba gwa pigirila.,0.8889,0.386
+517,"Aa won le he nɛ, nemenɛ haa na n bandia kohona la bwa mɔɔ.","Awelu hine, ni me na ha na mba ndi akunwata gba m",0.9286,0.4419
+518,"Ba ɡe bil daa kɛŋɔ ba dɔɔranar Arɔn naanar aa ɛa la, Kooro Devid ne Sadɔk ne Ahemɛlɛk dɛ sɔfore nomonnyuune ne Lewi dea nomonnyuune la bwa sie.","Bagee biyyaa keewoo, baddoraa nar aaro nanaraa iyala. Koro Davidi nee sadok nee Ahimaleek, desofiree numun yuune, nee Lewidiyaa numun yuune lagwasi",1.0,0.386
+519,"Ate, Netan bol waa Korowii aa kpɔa baɡlo la bwa baɡle Kooro Devid.","A tinye taa mbu, wa kworo ya, kwa bagili la gba, bagili koro debi.",1.0,0.4808
+520,"Belaa Kooro Devid ka jo Korowii Dea Cheremibɔr waa baŋro la bini, dɛ ka so Korowii sie dɛ ŋɔ.","Bila koro debi, ka jo koro wi di a cheru mi bor, wa bangro la bini, de ka so koro wi siye de",0.8947,0.2466
+521,"Anomanta, Kooro Devid ne Israel nomonome, dɛ laa sitɔɔla baa chɔ laa tena kaɡboŋa nyoo, la Ɔbɛd Edom dem silɛɛ ne, dɛ ka kpɔ Korowii Ne Nɛwɛnyina Fɔo Daka la ba.",Anmanta koro da wani Isra'ila na morome. Da la'asitola ba cho la'atina ka gunga nyu. La'obed idum demsi leni. Daka kpokoro wini na we nyina fo daka laba.,0.9677,0.2937
+522,O ɛ ɡɛ dɛ le Arɔn ne o laala ne o bibaala la ɡe ne ba laala cheɡ ba do ɡoroŋ.,Ege dere aro ni ulaara ni obi baara gi ni balara chi kpaduguru.,1.0,0.5
+523,"O baa nyiŋi dɛ konfɔɔla la diu jo danjwɛɛ la ta kaa sie kohona naa, ó ɡel ba laa bwea la konfɔɔla la aa jo a ta la kpɔ ka ta bwɛɛ la dahara bela baa pa kondoŋa kaa ta.","Bịa ṅụrị ṅụọ mụ fọla, lee di ojọ dị njọ ịlata, ka anyị wee kọọ hụna na. Oge ebe a na-agbụrụ ala, ka m fọla na, ajọ atala kpọọ, ka taa bụrụ eleda hara, raba paku ndụ gị aka.",0.975,0.5238
+524,"Dɛ waa baɡla kpeɡri ɡee o tɛɛ naa, a chɛ kɛ hɛɛ baɡle.",A ce ka he ba,0.9231,0.85
+525,"Hé kpɔ he bwadabii bobɛlbwa tɛ Korowii, dɛ kpɔa dɛɛ ɛ waa aa toɡra.",Ihe a bụ ihe a bịara kpọọ tekurọ wi. Deparè bụ wa àtọgoro,1.0,0.7115
+526,"Belaa nɛra la bɔɔ mɛ ŋɔ, “Haa won baɡle yaa a ɡɛ waa nɔ mun aa?",Mala n'ala bu omenala ha bụ omenala anyị na-ekwe n'ọnụ.,1.0,0.6889
+527,"Korowii ja Kooro Devid nɛɛ dɛ ɡel bobɛlbwa waa la ka yo la, o pɔ ba nɛ.",Uruwịrị ya kọrọ David na ndagel bụ belụsọ wala ka Yula upobane.,0.9412,0.4717
+528,"Anɔ bwa habɔɔ la, n berɔ na nyundua torome bokpeɡa te bɛl, o le nyundua dɛɛ tu.","n'ụbọchị ahụ ọla m bụrụ na nyụndu atụrụ m, m kpọọ gị na ekwentị. Olee nyụndu a na-etinyere",1.0588,0.65
+529,"Baa bera le buse la, ba soŋe andɛɛɡa tɛ nɛra la, asɛ Korowii jirima chaah nɛra la bwa nɛ.",ba abera ali gwisila ba songe ande ghate narala ese kulu we jiri ma cha narala,0.9474,0.4118
+530,Wɛɛ wonoo ɡel he che kiŋkiŋ Yeesu Kristo Amanesoma maa dɛ bol he be la ta.,We won't get chicken king yes Christ amanesuma,1.0,0.6034
+531,Belaa koofale bɛl waa wola Josef waa jemɛ ba di kara Ijipt harɛ ta.,"Bụrụ akụkọ fọrọ nke nta ka ọ bụrụ nke Joseph, onye a rere dị ka ohu na Egypt.",1.2857,0.8679
+532,"Amɔn tena la kpɔ ba te, dɛ ba che Raba waa ɛ ba bwɛjen la doonyoa, asɛ koranar baa bala dɛ ba cha la ɡe che bwɛɛ la dahare.","A mụrụ m n'ala Kwo bụrụkwa onye Igbo, a sị m na ọ bụghị ihe ihere ịbụ onye Igbo.",1.0,0.7717
+533,"” Anomanta, o la koo bɛl ta, dɛ ka teŋɛ tom-ɛɛra nɛ dɛɛ kuuh mea la.","Anumanta olaku obialta, de ka tinye tum era ne de ku m ya",1.0,0.4167
+534,"Hɛ́ɛ nyiŋi kɛrɛdɛ, dɛ́ɛ teŋɛ me Mmarare bwa ta, ásɛ dɛ won so sodɛɛɡa harɛ nɔ ta he bwara sɔɔh heya.","Eyi ji gi kere, dee tinye m mmiri bata. A si na onye nsuso dee ha haranota, i gbara so ha.",1.0,0.5733
+535,"O mɛɛ wechɔɡa la aa won ɡel o dɔ seo, wɛɛ dɔ o nyuu kɛrɛdɛ.",मैं भी चला आऊंगा।,1.0,1.0
+536,"He kondikwaa la, kpɔ nɛra benɡewa wɔɔ paanoo la, dɛ́ dia nɛra la bwa siwi ta.","I kụrụkwa ala, kpọọrọ b'ingewa ụlọ ọrụ ha n'ụla, dịrị anịrịla gbasiri ike",1.0,0.5517
+537,Asɛ Rut ɛ bɔeeh dɛ ka laa yal kpɔ o nakpale ta dɛ chɔ bela.,"Aruse bu oyim, o na-akwalita omenala Igbo.",0.9333,0.7045
+538,"Abisae nya Seruya kpoo Edom tena nɛra kaɡboŋa fi dɛ banuatoro, Yar Fɛlembɔjen bini.",abi sa'inya seruya pu idom tenanera ka gbo'a fide banuaturu yar felimbo jen,0.8571,0.2647
+539,"Naate waa kpɔ dem la tɛ mɛ la berɔ dɛɛ nyin o yawɛ aa, a chɛ kɛ ó bɔ yoɡ baa teŋa bil la, dɛ́ bɔne suuɡa la bini bɔre anue, dɛ́ bɔ bɔrbeŋkpoŋ ja a ta.","Na otu a ka o di m laa tee, laa biro di enyi ya wa, a chaka ubochi yoruba tinye na abila, debọ ni sugalọ bini gbori annie, debọ bọri be nkponja",0.973,0.5185
+540,"Dɛ ane kao tɔɔ per a ta naa, ba won a dii.",de anika torpre atana ba won adii,0.8333,0.2759
+541,"Sɛmaya, o ɛ ba nyu te dɛ chɔ nɛra lafraanɛ nyoa.","Samiya, wo abanyute na cho naira lafra ne",1.0,0.4167
+542,"Kooro ɡelɔ ba nyiŋi waa la bini, asɛ dɛ na kɛŋɔ a ɛ kasinteŋ, dɛ ɡel ba saɡɛ ɡɛ nɛra banɛ la.","Koro gịrọ banyịwa la bini, asị de nake nwa a ka sị nte, dege basagị gịne raba nela.",0.8636,0.3768
+543,"O berɔ jo bɔɔ bini, awola bɛl, dɛ dombwea leero dɛ ka kpo nyujente.","N'obodo anyị, bụ ndị Bini, Awula bụrụ na ndụ mgbe ahụ leero, taa ka kwụ nyụjị",0.9286,0.6667
+544,"O berɔ le Lewi dea tena la bane ba baa ɛ toma Korowii Ne Nɛwɛnyina Fɔo Daka la sie, dɛ baa soŋe dɛɛ jam, dɛɛ kpɛɛ Korowii Israel tena aa dɛ tomɔ la.","obodo ndị Izrel na-ala abani, bata na Krowi na-enweghị nri na mmiri, dakalasia, debe asụsụ, dee ejịm, dee ekwe Krowi Izrel na-atụmọlụ",1.0,0.5664
+545,"Tɔ aa pera la, Filisti tena la laŋɔ dɛ ka pa laa tena baa kpoo ba la laala, asɛ dɛ na Kooro Sɔɔl ne o bibaala batoro la kɛ baa serewa chɔ Gelboa Bwejen ta.",To apira la felizitina la langa deka palatina ba kubala lala. Ase de na koro so ni u bibala ba torula ke ba siriwa cho gilbua gwi jin,0.8857,0.339
+546,"Korowii kpɔ bam bɛl waa do jaŋne kaa nyundua ba tɔ ba sie webaŋa wɛɛ chaɡ ba ŋwɛnɛ, asɛ jwaana ɡe o kpɔ nii waa tɛra kaa nyundua tɔ ba sie wɛɛ chaah ba won vala.","Kporo ya kpọọ mbelụ wa dị njikere ka anyị nụ ndụ abatọ basie ike wee cha gbaa nwere. Asị jụọ na gị okponii wa teera aka nụ ndụ a, tọbasie wee cha gbaa",1.0,0.4919
+547,"Kɛ dɛ kon la chɛɡa habɔɔ sɔfo la nyiŋo dɛ na kɛŋɔ konfɔɔla la ta lɔ kon la ta tama aa, ó kɛɛ baŋ bela konfɔɔla la aa lɛɡra la le o ta.",Kedu ka unu chere ha bu sofo na-enye nwa na-anake nwa? Kunfola latara unu ka taa. Oke ebamla kunfola a leghara ala le,0.9697,0.57
+548,Sɔfo waa kpɔ a ɡɛ kwaa la ka soŋe naate la wechɔɡa n be laanee dɔ a kar la.,sofuwa akpa agekwara ka suni na atila wuchoga mbelani do akaraka,0.9474,0.375
+549,"A chɛ kɛ ba teŋe kon la baŋa bela baa dɛ teŋe saraha kwaa baŋa dɛɛ fuah la, ásɛ dɛ ɛ chal la ane merɛ saraha kon la baŋne anaarɛ la bwa ta.","A chọrọ m ịbụ onye na-agụ egwú, mana ọtụtụ ndị mmadụ na-agwa m na olu m adịghị mma. A sị m na ọ bụrụ na m nwere ike ịbụ onye na-agụ egwú, m ga-enwe obi ụtọ.",1.0606,0.8381
+550,"Manasɛ dea tena bini la, n dem nɛraa ɡwɛɡra, asɛ n lolanar ɡe be pera la, n toole wobɛlbwa bini.","Mana sị ya, ""Tinye abịịla. Ndị m na-ere ahịa egra."" A sị m, ""Nlụla, m na-arịgị ebe pụrụ ala. M tole ụgbọelu bịa",1.15,0.5479
+551,"Kooro bɔɔro ŋɔ, “N haah Ɛsta, a som tenaa?",corroborar una esta,1.0,0.6667
+552,"A chɛ kɛ sɔfo la fuh kon la, konfɔɔla aa yɛɛra jo o ta la wa.",A check aso foforɔ foforɔ na kɔmfɔla ahyɛɛ raajo utala,0.9375,0.5
+553,"Mɛɛ lɔ kpaŋa bandia nee dɛ kooɡa ta ba nɛ, ŋwɛɛ ne nɛŋkpoa la wa.","Mee lokpa nga banja ni, de koga tabani, nwe ni na nkwa la",0.9333,0.4694
+554,"Ó kpɔ nɔn dawɛ bombal la nyu ta, dɛ́ teŋe o baŋa bela baa kpo kwaa dɛɛ fuah la bɔr n sie.","okwa na ọ bụ mbala nyuta. Etu a ọ banye, ọ baa akpụkpọ, a na-efu ya laa bụ nsị",0.9545,0.5385
+555,"O baa nyiŋi dɛ na kɛŋɔ o swɛɛrɔ dɛ to kɛŋɔ weebuula aa, weela la ɡelɔ naate kah doŋa.",ba nyenge na kanwa o shwero na tukanwa wi bulu a we lala gilo na teka,0.8947,0.5692
+556,"Dɛ ɛ awola tɔpere la ona tɔpere, dɛ kɛ nɛra kwaa kohona aa baɡle kan waa doa.","De e awura topiri la o na topiri, de kenere kwa ka o hu na abagiri ka wa adua.",1.0588,0.4068
+557,"Dɛ berɛ ka laa laala waa doa la foo bil dɛ́ kpɔ anfala do, ásɛ dɛ ba kpɔ tɔɔ la le ka ta bela baa soɡa la dahara bela baa ɛo o do wer.","Debere kala laala, waa duara fa obi, dekpo amfala du, asiri ba kpo too, lali ka tabula ba sughala da harabila ba iyo odu",0.8824,0.3163
+558,"Men Pɔɔl maa koh ya Dɔɔ waa la waa ba do mɛ dea la, n dɛ soŋe he bwa, hɛ́ɛ teŋɛ ɡɛ aa chɛ kɛ nɛra Korowii aa lee ba tɛ o te ɛɛ teŋɛ la.","Mpempe akwụkwọ ya dịwa lawa badum dị ala. Nne sọrọ ya ịgba. Ha tinye ya na achịcha, nịra kụọ ya alị bata otu etinye ya.",0.9722,0.6042
+559,Naate la ɛ wechɔɡa dɛ jo men Korowii nɛɛ dɛ di bolchɔɡe.,"N'oge na-adịghị anya, anyị ga-achọta akwụkwọ ndị gụnyere ndị Igbo chọrọ.",1.0,1.0
+560,"Mosis baa ir o nɔɔra aa, dɛ Israel tena dɛ pɔ ba nɛ.",Mosisi bae onora na di Israel tinara di pobani,0.9231,0.3684
+561,"Dɛ ɡɛ laa aa, kpoe chɛ kɛ bá kpoo, nemenɛ kooro tɛr o suuɡaswɛm daŋɡbala la tɛo dɛ́ lɛ o nyu.","Dege la, pụcha kee baakụ. N'ime nke ọrụ telụ, ọ sụgasịrị dangbalala tịọdele",1.0,0.6087
+562,Men Korowiirii bola.,nkurobiri ebola,1.0,0.3529
+563,"Ba kpɔ Korowii Ne Nɛwɛnyina Fɔo Daka la le Abinadab dem, dɛ kpɔ chɔŋɛ torɔɡofale bɛl ta nae ɛɛ tɛɡro.","Bákwá kúrú wí, néne wí nyí na áfọ̀ d'ákàlà l'ábì na d'ábdim. D'ákwá chwán'é, túọ̀gọ̀ fálì, bél'tà ná y'ét'àrọ̀.",1.0,0.5625
+564,"Kɛ bela Mmara aa wola toole la, baa wechɔɡa nkontaa bu.",ከብላ መራ ሁለቱ ሁሊላ,1.0,1.0
+565,O teŋe nabal la ne pebal la baŋa dɛ kpɔ ɛ deŋnesɔɔhna saraha tɛ nɛra la.,"Tupu ị na-abara nipe baara banga, dekọọ ederede gị na nsọtụ enyo.",1.0,0.6429
+566,Ba lɔ laa tena kaɡboŋa fi dɛ banuatoro.,Balo la tinakagbuna fide banuato,1.0,0.2903
+567,"Kɛ dɛ ŋwɛr la bini too dɛ o ta yɛɛ kaa bini pona la ɡe ta toe yaa, ate sɔfo la chɛ kɛŋɔ ó pere naate le o bala bini tɔpera anuanɛ.",Ke denwere bini too? Ya otu a ya ka bini punala gi taata ya. A na m sofulu cheki nu upiri na a na-eli ubala bini topuru anu a.,0.9062,0.4124
+568,Baala bane le Gad dea dɛ ba ja Kooro Devid laa tena la nɛɛ dekpeɡ la ta pua hɛŋle ɡbo harɛ ta bobɛl.,"Bara banele ga di ya, na baya kuru David latinala ne depe, laata pua hengle bu hare ta bu be.",0.9565,0.3506
+569,"O dɔ tɔnjeɡa bɛl waa pila do o nɔn ta, dɛ kpɔ o nadiɡ do mpo ta, o naɡal ɡe che baŋ, dɛ si kpeɡri nɛɛ kɛŋɔ nyujente yon dɛɛ si la.","Odo tonjiga belu wa pilado ononta, dekpo una jiri dum puta, una galge chi ban, desikwairi na eke onyu je nti yon desila",0.9688,0.3474
+570,"Sɔfo waa baɡle kɛŋɔ doŋa toole naate nɛɛ la ɛɛ kpɔ o ne ɡɛ kwaa nɔ bwaa ba men Korowii sie, n Dea Cheremibɔr doonyoa bela.",Chineke chiri m bọọdụ onye abụọ.,1.0,0.8421
+571,"Sɔ́fo la kpɔ kondikonloɡla paanoo la ne pebiiri anɛ la, dɛ́ ɡɔɔra nyundua dɛ́ viiɡa n sie ɛ saraha tɛ mɛ.","Sọfụla kpọọkụ n'ikọnọ gị na fọọnụ gị na peebụlị anọla. Dee gọọrọ nụ ndụa, dee fịga nsị esịrahate",1.0,0.5625
+572,Tɛnte dea binii mɛɛ so ba kpɔ mɛ dɛɛ ɡaaɡe.,"Kedu ka ị dị? A bịara m ịme enyo. Bịa kwọọ m, na-aga.",1.3,0.8788
+573,"Saŋ bɛlbwa Israel tena la aa parɛ ba kooni dɛ du kwaa la, ɡɛɛ Midian ne Amalɛk tena dɛ harɛre aa lɔ wee leebɔr nɛra yon ka jo harɛ la ta dɛ́ lɛ dɔɔh.",Nke a bụ akụkọ banyere otu nwoke na nwanyị bi n'obodo nta dị na ndịda ọwụwa anyanwụ Nigeria.,1.0,0.823
+574,"Dɛ ba ta lɔ ba dɔma harɛre ta kwaraa naa, maa ban ɡel, mɛɛ chɔɡ baa kɛŋɔ baa chɔɡ n ne ba fɔo yaa fɔwa la.","Na bata na ba domaharirita kwara na. Ma bangil, ma chogba kenwa. Ma chog niba fu ya fuwa",0.9615,0.4103
+575,"Baa dɔŋa wedɛɛɡa bol, ba hah Korowii, ba siwi aa nɛn tɔɡɛ, ba jenu, ba mbarafo.",ba donga wideda bol ba hakoro wi basi wia nentoge ba jenu ba,0.6875,0.3729
+576,"Israel tena la kpɔ Korowii Ne Nɛwɛnyina Fɔo Daka la ba cheɡ tɛnte dea Kooro Devid aa baŋro la bini, asɛ ba kpɔ saraha kwaa baa fuah ne deŋnesɔɔhna sarahare ba Korowii sie bela.",Isi rhetorik a kpo koro nwii na-ewunye na afa ogaranya na-echegbu. Tenti di ya koro David abang rula nwii. Aseba kwasara ha kwa ba ofu a na-edinye na so na sarahri ba koro nwii si ebelata,1.0294,0.4043
+577,"Korowii ɛɛ ɡeloo he tomɛ he dɔma waa dɛ ba ɡela ba yo heya, ásɛ dɛ lawɛ heyaa yoma hé paŋɛ komɛlbwa.",We will add glory to him. He do more.,1.0,0.8312
+578,"He bɛ an ɡuŋi á ba ɛ kɛ hɛɛ tomaa, dɛkalkɛ menee Korowii haa dɛ tom mɛ la, n dɛ mee.","Ebe a anụghị m ya, ọbụ eka m ga-ahụ ya tụọ. Leekwa ka e si mee ya ka e wee haa ya tụọla. Ndeewo.",1.1429,0.8197
+579,"Korobie anumɛlee o kpɔ dɛɛ fɔɡle nosɔɔhsoma baa dɛ yera korobo la, dɛ́ berɛ fɔɡle konsɔɔhsoma aa dɛ kwaa bwara ɡe korobie anumɛl.",Kedu ka ị ga-esi mara ma ọ bụrụ na ụmụ gị na-aṅụ sịga ma ọ bụ na ha anaghị aṅụ sịga?,1.0,0.7981
+580,"Kooro Sɛksɛs bɔɔ Ɛsta ŋɔ, “Ume baahnee sua o won ɛ ɡɛ waa nɔɔ?","Koro sex asụbọ esta wọ. Ụmụ ịbụọ na-esua ọkụ, ụmụ nwanyị.",1.0,0.6087
+581,"Israel ne Juda tena fa do kɛŋɔ daa men Koranar Bwa Kooro aa dua, kɛ taraken n liiro kɛ ń kpɔ wahala ba ta ba nɛ.","Ihe a n'egyu na Chineke fada oke nwa, daa m'nkura na agba kwuru adua. Keta rike, n'iro ke nkwowara akpata akpa",1.0,0.5176
+582,"N Naa Korowii, he ta ɡelɛ a jaɡɛ bela dɛ ta teŋɛ ɛ ane dɛɛ ja, he berɔ bol he bonɔɔ naanar baa ka ba kerekere ɡe wa.","Naa krowi, etaglee ajaga bila, etatinge aane de ja. Heburo bol, hebu no, naana baa kaba kere kere gi",0.8571,0.3488
+583,"Buli fi dɛ anɛ dɛ bambie daa fifraanuanɛ lɔ bela, asɛ ba baŋre ba tɛnte deene nee la jwɛɛh bela.","Bulie ife dị a n'elu. Debe mbọmbị dị a n'elu akwa a. Asị na ọ bagharịrị, atente dị n'elu ya.",1.0,0.6933
+584,"Nomɛlbwa di kondikwaa dɛ́ nyɔ sen, ásɛ o sie lɛ kwaa waa koah dɛ dɔ la ta, a ɛ Korowii koŋkɛɛla waa kpɔa kɛ yaa.","Nụm egbwa dịkwa nụ kwa, daalụ sị, osi ele kwa, wa akụọ daa dọlata. A ekuru m ịkọnke era wa akpa aka ya.",1.0,0.4762
+585,Ba kpɔ pebiiri ne pebala dɛ boohna ba charɛ laala he be.,"Nna m ukwu, biko nyere m aka. Biko, biko, biko.",1.0,0.8182
+586,"Eliel, o ɛ ba nyu te dɛ chɔ nɛra fifraanuatoro nyoa.",elle est là ou elle est venue te dire que,1.0,0.825
+587,"Baa di he mea bwaa, dɛ́ nyɔ he sen dɛ́ kpɔ he ɔleve no, dɛ́ larawe he nae bii ne peera bii bwa, ka tel kɛŋɔ he kondɔɔh bwa aa le he nɔn ta.","Bịa gị ị bịa gwa, denye aha gị, deekwa gị olivu nụ, deela ruo ịhị nnaị bịa nị peera bịa gwa ka chịlịkenụ ịkwụ ndụ ọgba aalị ị nọntụ.",0.9412,0.6061
+588,"Korowii berɔ bol waa n be dɛ ŋɔ, “Nɛwɛnyini bie, bol waa aa dɛ ba bala dɛ́ ŋɔ, kenii mɛɛ bol.","Kedu ihe bụrụ ihe mere na nwanyị na-ebe? Bụrụ ihe a na-abaghị na ihe, gịnị na-eme gị?",1.0,0.7612
+589,"Kpela, Jerusalamee mɛɛ ba he nyoa boara, dɛ́ mar nii do he lɔɡa n bandia ne, dɛ́ mwɛɛ heya.","Nne m, ị bụrụ sọrọ m, mụ baa ịwa agwara, dị mma nri dị ịrọga, m banịa nị, dị mma ịhịa.",1.1053,0.6119
+590,Ba kpɔ bala nyena ne dadɛɛɡa ba charɛ kwaa he be.,Biko bala anyị na ịda adịghị gị banyere kwa,0.9091,0.6053
+591,Kooro Devid ne o laa sitɔɔla baa chɔ laa tena kaɡboŋa ne lafare nyoo chemo dɛ kpɔ liire.,Koral David ne olazi toala bacho latina ka gbonane lafarinyu chemo dekoliri.,0.8889,0.3143
+592,"Nɛra bane won ba liire kpɔe dɛ́ teŋe nyosone á do kɛŋɔ kpelaa ken, dɛ́ won neɡre nɛra.",Ndi na-abali ubochi iri kwayi na-etinye nyocha na aduka ngwongwo na-akele dewonnegiri,1.0,0.7385
+593,"Ate, Mosis berɛ kpɔ penɛɛte baa kpɔa dɛɛ do nɛn sɔfore ta la ɡe ba, asɛ Arɔn ne o bibaala kpɔ nɔɔra dawɛ o nyu ta.",mụ na ndị enyi m na-ete n'ebe akwa dị edo na nsọfụrụ tala gịba. A sị na arọ nị obi baara kpọ nọọra daa wee onye,1.0,0.5349
+594,Nomɛlbwa ta chɛ kɛ ó yoɡ kɛɛ dɛ berɛ yawɛ kon waa kpɔa ba tɛ mɛ dɛ ku n nɔn la.,"Nume ba, taa che ka mụ yoo kee na ebere ya abụkwa nwa akpa abatene okwu nnọọ",1.0,0.5517
+595,"He vɛh ɡɛ Korowii aa do mɛ ŋɔ n bol he be la aa, sewaa hɛɛ ba sewa.","Ihe banyere kuro wiwi adịghị mma mgbe ọ bụla. Siwa ha ebe, siwa",1.0,0.6458
+596,Tɔpejena men Korowii aa lea cheɡ ŋɔ hé cheme dɛ́ɛ di laanee nɔ.,"A pịjị na mị nkụrụ ị a li a chẹ ṅwa, e chẹ mị dẹ ji laa nụ.",1.3846,0.551
+597,"Nɛwɛnyini wono che Korowii kwaa waa taa ta, dɛ na o kpeɡri ne ɡɛ waa doa.","Ndi be anyi ri unu ochi, kedu ka unu wa taata? Deena, unu kwerin ni ge wa adu",1.125,0.6071
+598,"Mmara la taa a che asɛ ya jemɛ kɛŋɔ liichɔɡa doŋo, aa wola were kwaraa.",Maralata achi ase ya jina tengo li chogodongo. A wula were kwara.,0.8667,0.3818
+599,"Kɛɛ dɛ saraha la ɛ nyobaɡa saraha kɛɛ o ɡbabir bambile ta saraha aa, bá dia awola tenten.",Kedu sị na-ala enyo bụrụ sị na nke ugbo biri na mmiri taa sị na ha ga-adị aṅụrị taa?,1.0556,0.5857
+600,"Musi ɡe bibaala, Maali ne Ida dɛ Jerimot.","Mụ si gị bịa baala, ma ọlị na ịda dị njikere.",1.375,0.5312
+601,Ya ta on bɔɔrɛ dɛ jemɛ ŋwɛnɛ yaa kpɔ o ta cheo.,Ya ta onwere dika ịmenwere ya akwụọ ụgwọ achịcha,0.8333,0.6857
+602,"Kooro aa bera dɛɛ jo koodem la, dɛ Heeman marɛ o haah karajaŋ waa yale o ta la ta, dɛɛ soŋo sibeɡra ne, anee kooro nyɛɡ ŋɔ, “Ei!","Koro abara di ya ka odimma, lee ma mara o ha kara janwa nyali utalata, de songo si biara nu. Ani koro nye nwa.",0.9643,0.3895
+603,Heeman nao kɛŋɔ kooro dɔɔ kpɔ liire ɡɛ waa dɛ ba o deŋne tɛra.,Ị ma na ọkụ ọrụ dịkwa n'ire gị wa adịghị nịterụ?,1.0,0.625
+604,"Ba kpɔ konsɔɔhsoma bwa soo siwi aa wera kɛrɛdɛ ne bwedɛɛɡa a yoɡ aa kpeɡa, dɛ suuɡaswɛm ba charɛ laala he be.","Ndi be anyi, a na m ayo ka unu kpee m ekpere ka Chineke meere m ebere.",1.0,0.8256
+605,Nyundua torome nuanɛte la bɛla la hoeh saŋee Korowii wesɔɔhla waa baɡle o bonɔɔna baa ɛ o keamere la bwa ɛɛ ba ɛɛ tonɛ.,Ndi nwe otu mee nwa na etela mbelala mhohe sanyi krowiwi so na wa bagali obuna ona ba e ukia melila gba eba etuna,1.0,0.5053
+606,Hɛ́ɛ tɛ he dɔŋa asɔre tena ba soɡa bini aa kpeɡa tɛɛ ba he kwaa haa dɔa la ane.,"Ha ka hi dọrọ asọrịta na ha so gaa bini akwụga tee aka, ha kwa ha adọala ala.",1.0,0.4576
+607,Dɛkalkɛ Korowii kpeɡri ne o bokpeɡaa o kpɔ lawɛ le Ijipt harɛ ta.,Nke a ka ekwuwe ikpe giri na ụbọchị nke ụkwụ nlawe Egypt hapụrụ.,1.0,0.6538
+608,"Anɔ yaa ɛa fini nɔ, Korowiirii do yaa ŋɔ ya kpɔ soŋe he wechɔɡa.",A na-ya ya afịlị nọ. Kụrụ ya iri dọọ ya anọ ya kpọọ sọng ehi we choo,1.1429,0.5102
+609,"Baa teŋe o ne Eden daa la bwaa ta, o kaa harɛ bini.","Bachenge wuni edin dala gwata, uka harbi",1.0,0.4324
+610,"Maa dɛ ŋɔ nɔ, ya fa toole ane bɛlbwa bini Korowii ŋwɛnɛdɛɛɡe la be pera.","Maka na ọnọdụ ya fọdụrụ obere anyị bido kụọ wiwi, nwa na-adịghị ya laa be pịa.",1.0,0.7321
+611,"O ne o laa tena ɛɛ warɔɔ le weekaŋle nyunduabɔr, bane valɛ, bane so jaɡre ne kwaa aa do kɛ torɔɡore baa vɔwa pɛl jaɡre ta, dɛ́ ba yoo ba.","Onye olachina ewaro liwe ikangli nu nyo abor, bani vali, bani soji aghiri nikwa aduke turu gu ba avo apel ji aghirita di ba yoruba.",0.9667,0.4563
+612,"He kpɔ he te tɛ wechɔɡa aa, hɛɛ dɛɛ ɛ wechɔɡaa ásɛ dɛ sewɛ.","Kedu ka ị dị taa, Ewichọga? Ahụrụ m gị Ewichọga, a sị m na ị si",1.1429,0.7273
+613,"Mosis berɔ lawɛ Arɔn bibaala la ba che o sie, dɛ do ba batakaani Arɔn aa dɛ doo mun ta la dɔŋa, dɛ kpɔ kirisore vɔwɛ ba chara dɛ kpɔ yale vɔwɛ ba nyuune ta, ɡɛ Korowii aa doo la.","Mosis bụrọla Arọn bịa baara ụmụbáchi usie. Ya bụ, Arọn adịghịdị mụntá dọ́ṅa. Ha kpọ́ Krísti bịa wáwe bachara, ha kpọ́ Yálli bịa wáwe bụ́ nnụ́ne ta. Ge kúrụ́we adị́ ụla.",0.95,0.5778
+614,"Koranar baa tɔ sie di Edom kora, mɔɔ Israel te bɛlbwa ɡe ba di la sɔnaa teŋa nɔ.",,,
+615,"Iba ɡe aa baa kpeɡ la, o lolɛ bibaala banɛ.",baghi abba,1.0,0.8125
+616,"Korowii ŋɔ, “Israel tena kpɔ ba te dawɛ he Ijipt tena nɛɛ dɛɛ nyin kɛ hé cha ba, kɛ he do kɛŋɔ pul daŋɡbala waa wola kpeɡe.","Gburugburu, ije achina kwa batịda wee iji China na-ede enyi nke ịchaba ke eduke nwụrụ daa ngbara wa wụrụ",1.0,0.5699
+617,"” Dɛ berɛ ŋɔ, “Korowii nɛɛ n kpɔ sie dawɛ o yo dɛɛ tɛ mɛ.",ɛkɔnwa ɛsrahɛ ota na ete kuro yi bla nɛpa oso nwo kuro yi ri yua dete mɛ nebre nwo kuro yi ne nkpo nsi dawe oyo dete mɛ kuro yi e tinwo,2.2143,2.0769
+618,"He koeh bwa dɛ ba pɛɛ ɛɛ, dɛkalkɛ kondikwaa bɛlbwa ɛɛ chɔɡ he harɛ la taa, ásɛ daa ɡe aa nɔnɛ.",Ihe kwesịrị ịba na baa bụ ya. Maka na ekwenyela na ịba a chọrọ ihe ruru lataa. Asị m na a gaghị ananata.,1.0952,0.7324
+619,Gɛɛ a ɛ ba won webaŋa ne jwaana bwa vala.,"Oge a, a ga-enwe mgbanwe na iju ana gba vala.",0.8,0.5806
+620,"Ate, Mosis lawɛ Arɔn ne o bibaala ba sie bela dɛ sɔ ba ne, dɛ laa ba doŋa bwa kpɔ ba nɛ.",Atumosesi lawa arọni obiara la basie bụla da sọba ni dela aba dọnga pọkpọ bụla.,1.0,0.375
+621,"Hé chwerɔ tonaa, hé kpɔ n noniseɡ ɛɡre a ta, dɛkalkɛŋɔ tɔne baa chwerɛ n sɔn ta dɛ kpɔ n noniseɡ ɛɡre a ta la, nomɛlbwa aa won tire a ta.",Ị chụrụ àtụ na ekpere nnọchi egiri atá? Lee ka a ga-esi tụọ n'ebe a chụrụ nsọnta dị ekpere nnọchi egiri atá la. Nọmalịgbo a nwụntịrị atá,0.9677,0.6117
+622,"’ Wɛɛ berɔɔ kpɔ heyaa do stiimaere bini, dɛ́ kaa he ne Ijipt harɛ ta.",Nwe buru kwa ihe a du isi mari bini. Dika ihe ni Egypt ha di ka. Ke unu ife a bu,1.4286,0.7255
+623,"Anɔɔ n tɔpejena maa lea cheɡ kɛŋɔ hé cheme dɛ́ɛ tom mɛ a ta, dɛ́ kpɔ saraha kwaa baa dɛ fuah ba tɛ mɛ.","Ha nọ n'ọpịjị na-amalị achị ekenụ, ichị mee de tụọ me ata. De kwọsịrị ha kwa abali fụa batara",1.0,0.4933
+624,Naate la diɡ deŋne nyoa ne diɡ nonibal dɛ o diɡ nanibal ta.,Naa tila digi digi na nyua ni digi no ni ba de o digi na ni ba,1.2308,0.3913
+625,aa won nɛra lɛɛ.,awụ n'ala,1.0,0.5833
+626,Seeba tena ne Raama tena ne he di bona.,Cibacina ni rama. Cina ni,1.0,0.5667
+627,"Kɛ bɔr waa do ɡoroŋee chɛ a dii, a do ɡoroŋ kɛrɛdɛ.",Kedu afa adugoro gị che adị? Adugoro m,1.0,0.5789
+628,"Ba keamechɔɡa laa sie kpɔ ɡɛ wechɔɡa nɔ ta, kɛŋɔ baa kpɔ fula lɔ dekɔɔh danjwɛ ta, dɛ tɔ o peɡra ta ken.","Bịa ya na-chọga laa shịekpo, ya wụ ị chọga nọta. Kịanọ baakpọ fụlaa nụ dịka ọ daa njọ ya taa. Dịtọ ụpịrị taa ka ị",1.0435,0.557
+629,"Waa kooro bee la kpa, nemenɛ kooro sie lɛ o nɛɛ ó baɡle o sɔn ŋɔ bá yerɔ tɛo ja.","Nwa koro be ila akpa, n'ime na koro si ele. O nee ubagiri oso nwa baa yiroti oge",1.0,0.4407
+630,"Dɛ nomɛl yoɡ dem waa lɔ bwɛjen baa ma danjwɛjen baro ta naa, o berɔ dɔ ŋwɛnɛ dɛ berɛ bɔ o kem, dɛ́ lɛ o kon benanyoa beŋkpoŋ ta.","N'ụmụ ya dịwa n'ogbe jee baa mmadụ njọ e barọ taa na, obiro dọ nwa na debere bọ ụlọ ikpe, dele ụkwụ mbụ na-anụa binkwa",0.9655,0.5729
+631,"Dɛ o berɔ ba na kɛ o ɛ wechɔɡa aa, a chɛ kɛ o lawɛ bohnee waa wola kirihiah bɛlbwa dii ba ɛ saraha o wechɔɡa la wa.","Oburo banna ke o ewe choo ga, eche kam ula wee gbuo nni. O a buru akiri ihe a bu igbu oge. Ma esiro ha o wee choo ga laa",1.0,0.5581
+632,"Nomɛlbwa toole dɛ do kɛ hen, ya te jemɔ saŋ bɛlbwa kɛŋɔ he ɡboo Korowii.","Numele baturu le dodo ke hin, yati jimo sang belu wa ke wo, hebu kuro wi",1.0667,0.4464
+633,"” Anomanta, Israel nɛra la bwa pɛo kɛ nɛmbeŋkpoŋ, dɛ́ ka yo Gebea tena.","Hanumantha, ije na-ala Igbo apịọ ka e némbe nkwụ, dịka iwu gị bịara na",1.0769,0.5472
+634,"Mɛɛ chɔɡ bela haa dɛ tomɛ voɡa a do deŋɡarere dor laanee, ne he daawiile a sɔɔh aa soma fuih bɔra, ásɛ dɛ boa he lala nyoa dawɛ he voɡa aa wola mkpa bɛlbwa dɔe la ta, dɛ́ berɛ habɔɔ kpo heya.","Maka ọbụla ha na-efu na adịghị arịrịọrọ n'ala, na ha adịghị asụ asụsụ ha fụrụ gbara. Ha sị na ọbụghị lala nwa ada ha, ha fụrụ a wụla, nkpa bịara gbaa ha ndụ e lata. Ndebere ha bụ okwu",1.0,0.6414
+635,"Mɛɛ kpɔ n banfuih ba ta ba nɛɛ kohona, dɛ́ chɔɡ ba, ba waa baa ɛa la wa.","Mepụta mbanfụ bataba na ekwenti, dechọọ gba, banye aba ịala",1.0,0.5294
+636,N ŋɔ he be kɛŋɔ menee Korowii haa dɛ tom mɛ.,"Ngwahi be ka ngwa, mini koro wi ha da tum",1.0,0.5455
+637,Wekpeɡa aa dɛ ba Juda tena nɛɛ wa.,"Wipe ra, ara ba ju la ti na na e.",1.125,0.4615
+638,Wɛɛ ɡeloo ba kpoo he bibaala ne bihaahna haa ɡel ba habɔɔ Jerusalam la laa ta.,"Weh glu, ba ku ibi bala, nyi bi hala, ha gil ba ha bo jere salam la",0.9375,0.4516
+639,Aafaksadee lolɛ Seela.,Azaadi lole si,1.0,0.5789
+640,"Ane a bwa, ba bini bane ɛɛ kao, bibaala ne bihaahna ɛɛ le o taa ba hen Ɛsekeɛl be.","Anya wa, babini bani ekau, bibala ni biha ana eli uta ba hin Ezekiel.",0.9474,0.3443
+641,"Korowii berɔ ŋɔ men Jeremia be ŋɔ, “Ir la ka yawɛ leo le o mamaa be.",कुरेब्रा,1.0,1.0
+642,"Mosis berɔ ŋɔ, “Wɛɛ kpɔ he ne he kooroo kaa harɛ he ne he naawa aa wola bela jemɛ, ásɛ he kaa tomɛ voɡa, kwaa baa kpɔ daa ne bwea ɛa.","Onye isi biko nụ, wepụ ọnụ ikwu okwu ka ha rihi nri n'awa awula bịara jime. A sịghị ka atụ m egwu a. Kụọ baakọọ daa n'igwe ya",0.9677,0.5714
+643,"Nɛra la bwa aa naa la, ba kpɔ silɛɛ dooɡe lɔŋɔre dɛ ɡuŋi dɛ kpɔ sie piiɡi harɛ.","Nne na nna laa, ma kposi le dro gi na onwere de kunye de posie pi gi hare.",1.0,0.5833
+644,"” Ate, Mosis wi no Korowii asɛ o baɡlo daa bɛl.",Ati Moses winu krowi asɛ obaghulo daa,0.8,0.3235
+645,"Dɛ nɛn kpɔ o harɛ pera tɛ men Korowii aa, kondwee baa du harɛ la taa baa ba cheɡa, dɛ́ chaɡle harɛ la yoɡ.",Nnukwu ohia pira ka mụ na nkuro bia. Kundo ebe ahu di ha nla taa. Baa abacha. Na chaghari ha nla,0.9167,0.519
+646,"Ba vɔwɛ nyoa dɛ kpɔ lweyale tɔ, dɛ ɛ tɔɔ merɛ harɛ dɛ chɔ a ta.","Mbafo na ya adekwa na ihe otu, di etu omimi ha na-eche atụ.",1.0,0.6522
+647,"Haa parɛ bennuatoro ta la, bennumɛl kondikwaa la ane ta ɛɛ kao, dɛ́ tel heyaa ka tel saŋ haa berɛ ba komɛ bennuanaarɛ kwa.","Ha bidolowere na-atụgharị ala, ha na-eweta ekwe na-akụ n'ikuku ala, anata ekwe. Dị ka ha ka na-esem ha bụrụ, ha kụrụ ya na-arị",0.9583,0.7158
+648,"Le tɔpenuatoro wee dɛɛ kaa la, o wer kɛŋɔ he won kpɔ ɛ saraha ba fuuh tɛ men Korowii.","Ndi tapinua turawe de kala, owerikana iwonkwa esiraha de futa menkuroi.",1.0,0.4462
+649,"Harɛ bini wechɔɡa nɔ bwaa baa ɛ, mur ne sibeɡra ne meesɔɔh, ne bɔweela ne nɛŋkpoa, ne naɡra ne dɔŋa neɡra, ne dɔŋa haeh dɛ nɛra ŋwala.",Harabin wuchano gwa ba'e muru sibira ninsong bowila nenkwa nagra donga negra donga hanyi ne neranwala,0.963,0.4854
+650,O lampea nyoa buni tɔɡre kɛŋɔ yasɔɔh kokorowa daa ken.,Olampe anya bu ni toro ya ke ngo ya so kokorowa da ke,1.2,0.3409
+651,"Korowiirii dɛ́ cha heya, ɡɛ haa cha n ne n jaa ne n bii la.",Koro biri de chahe ya geha cha ne nja ne mbila,0.8,0.2619
+652,Kooro Sɛksɛs ne Heeman dɛ kooro haah Ɛsta bwa pɛo di kwaa la.,"Koro sex n'ihe m na-ekwu, koro ha etu ọ bụ, pịa dịkwa ala.",1.0,0.5208
+653,"Ya ne waa pɛa sewɛ la nomanta, ɡɛ Korowii aa cheɡɛ o kpeɡri a dɔŋ aa wola toole la ta dɛ iru seo ta la, ɡɛɛ wɛɛ ba ya ɡe chae ya kwaa so sofale waa wera, dɛ́ charɛ dofale waa wera.",Ya na wa pia siwe lanumanta. De krowi achiga okwegiri adon awula tole lata de iru siwutala. Ge we baya ge chai ya kwa soso fali wa wira. De chare do fali wa wira.,0.9286,0.3134
+654,"Baa kaa so bela la, Ɛlemɛlɛk sewɔ, asɛ a ka Naomi ne bibaala banɛ la ɡbo.","Bịa aka so bilala, elemele si wo, ase aka na omini biara ba n'ala",0.9375,0.3273
+655,"Korowii wobɛlbwa nɛwɛnyini aa wona jemɛ la, o ɡelɔ ba naa chasee ken.",Kedu ihe mere na iwe nyere gi anwa ji me la? O gilo ba na achasi ike.,1.0769,0.5455
+656,"Baa kpoo ba bonɔɔna laa taa, lɔr kpo ba bibaala ne bihaahna ɡe ba serewe.","Biko, banyere n'ala a taa, rụọkwa mkpa bibara n'ebe ihe a na-agị basiri.",0.9333,0.5088
+657,Korowii keame Netan kpɔ kala tɛ Kooro Devid.,Koro ye kya me ne tankpa kalate koro debi.,1.125,0.25
+658,"He soɔh kɛŋɔ baa sɔ yaa Korowii nee yáa teŋɛ Yeesu Kristo nɛɛ la, ya ne onee pɛa sewɛ kɛɛ?",Isi okwu nke abụọ so ya krowii niile ya tinye Jizọs Kraịst na-ele ya ni ụlọ ịkpọasị wekee,0.95,0.6377
+659,O berɔ kwaa ma deene bar danjwɛɛ la.,però qua,1.0,0.8929
+660,"Maekel waa ɛ nyundua toroma la bwa nomoa la ne o dɔm kaa pu kontuuɡi damanta la ne o ɡe bala ba yo, asɛ Maekel ne o dɔm pɔ ba nɛ.",Michael wa enyị nwa turu mma laba n'ụmụ nwa lani ụdọ m ka apụkụntụ gị damanta lani ụgị bala bayo. Ase Michael nị ụdọ pọba,0.9355,0.433
+661,"Tɔpenuanɛ wee la baa tel aa, sɔfo la berɛ ba nyiŋu ja.","Tapinwa ne wira batira, sofora bire ba nyinwu",0.9167,0.4634
+662,"N dɛ ba wenaale kpɔe ba ta harɛ nɔ ta, á ɡel nomɛlbwa waa no la, o bwara yɔr kohona.","Neva we na-ali, we bata ha enota, agaghi na umu-egba wa anu la. Ugbara gi yoro gi hu na",1.0,0.5323
+663,A chɛ kɛ a ɡɛ nɛn nɔ so harɛ nɔ ta naa?,Akyɛkyɛ agyanom nso ara notanna.,1.0,0.4815
+664,"Ba tɛo duure kohona ɡwaa banyoola fifraatoro la bini bɛlbwa, kɛ ba ta on kpɔe ja banyoola batoro la nɛ.","Banyere ụdị egwu na-agụ a, banyere afọ iri atọ na abụọ, kee bata onkwa eji banyere ya bata na",1.0,0.5854
+665,Israel tena dɔ laa tena kaɡboŋa lafraanaarɛ baa dɛ yo kɛrɛdɛ.,,,
+666,"A ta chɛ kɛ kondɛɛre te la chale a bini, dɛ́ kpɔ bɛl charɛ o dɔŋ.","A taa yaa ka ekunne yaa ti laa chali a bini, na kpo be chali udon.",0.875,0.5319
+667,"la, Swaul waa le Rɛhɔbɔt waa chɔa bɛne nee laanee baa di kora.","Suaal, wale re robot wa chua beni ne la ne ba di",0.9231,0.4375
+668,Dɛ Kooro Devid berɔ do sɔfo batakaarebora efɔd baa kpɔ yapondɛɛɡe nyarɔ.,Dekoro David bụrụkwa sọfụbatakara ịbụrụ effort k'akpọ ya pụọ ndị egi nyara,1.0,0.4667
+669,"Baa lawɛ kpoŋe la, he pɛɡrɔ dɛ tɔɡɛ ba vaama.","Ba laa we pungela, i pegero detoge baba",1.0,0.6176
+670,Men Nemenɛ Korowiirii bola.,Nimekuwa nikirudi bula.,1.0,0.6087
+671,O ɡelɔ Israel tena la te valɛ harɛpɛɛ waa hola ta mpo la bini dɛ le.,Gị na Izra tịnalụ atụmatụ ịbịrị wa hụla ta mpụla bini,0.875,0.5385
+672,ásɛ he jemɛ kɛŋɔ men Korowiirii he Lɛɛ.,"A sị na ejị mụ na gị nụ mee, kụọ wịrị ile",1.5,0.7419
+673,"A ɛ waa aa chɛ kɛŋɔ á chɔ le saŋ bɛlbwa dɛɛ la, ba naanar baa ka ba te bwa bini.","Ewa a chọrọ ka a chọlị sọngbị gbaa dị elu, mana nnarịba aka baa tigwa binu",0.9524,0.4828
+674,"Taraken nɔ, n tɛ heyaa ŋwɛnɛ kɛ hé kpɔ n sɔn, dɛ́ chwerɛ mmarafale ja ka tɛ nɛra baa lɔ n harɛre la bwa ta, dɛ́ tɔ Juu tena kpoora la ŋwɛnɛ.","Arakene, mụ na ya nweneke ikpo mzon. Dechuru m mara afa rija ka te nera baalu m hara riri agbota. De to juuti na kpuura na nwe",0.9688,0.4563
+675,"Kooro Devid teŋɔ di kpeɡri kohona, dɛkalkɛ dɛ Nemenɛ Korowii ja o nɛ.",Koro de vitenge di pegiri ko hona de kalka de nimine koro wi ja,1.0,0.3273
+676,"Sɔfo la ɛɛ kpɔ pebie waa ɛ bolchɔɡe dii saraha kon la, ne noo pɛrɛntoa fah laanee dɛ́ ba ɡɔɔra nyundua dɛ́ viiɡa n sie.","Sọfụla ekwenti bịa wa, mụrụchọrọ dịị sịrị ha kụọ n'ime printụwa afa na-anị. Ebe gị ọra nụ ndụ a dịị viị ga nsị.",1.0,0.5934
+677,Baa bɛlbwa waa le sɔfore dea la dɔ ŋwɛnɛ kɛŋɔ o di ane.,Bà bị bỏng và đang được sơ cứu tại nhà do nổ bếp ga mini.,1.1538,0.881
+678,"Awola tɔpere toli la bɛlbwa aa le haahna dobɔr bela dɛɛ la kooro be la, komɛlbwa waa dɛ nyin la, ba kpɔɔ dɛɛ tɛo.","Aruola ka o pere tori na belu wa a le, ha na duobila deka olu bila, ko melu wa di nyi na, bakwa odi etia.",1.0417,0.4483
+679,"Mɛɛ ɡeloo lala su bwejena dor bwa, ásɛ banɔ la baa kpoo ba laa ta chɔɔɡe deŋɡarere ta, dɛ́ su nenabɔɔne bwa bini.",Mee gị lala si gị jee na ndụ gị. A sị m gị banala baa akụ baa na-ata nchọ gị dị ngarịta dị su n'ịnọbụọ n'igba bini.,1.0,0.5402
+680,"Pebali anuanɛ a bɛlbwa aa di benanyoa, ne nabale beŋkpoŋ, ne pebala anɛ a bini bɛlbwa aa wola kirihiah dii chɛ kɛ hé lawɛ ja paanoo la ta ɛ saraha.",Pibali anuane be gba a di biranyo a ni na bali be nkon ni pibala anne abini be gba awula kiri hi adi cheke hi lawe Japan ulata Israel,0.9667,0.313
+681,Ya sie lɛ Korowii nɛɛ kohona ya Dɔɔ Yeesu Kristo nomanta.,"Ya si na ekweghi na ya bu Jesu Kristi, na ma",0.9091,0.5217
+682,"Korowiirii le Yeesu Kristo ŋɔ ó ba fuɡe o chal ta, dɛ́ soŋe ya wechɔɡa, ásɛ o bandia le nɛra baa yarada Yeesu Kristo seo waa la nɛ.","Kedu onye riri Jisọsị Kraist nwa uba fụrụ ocha anya ka ndị sị na ya bụ chọga asị uba ndị ahụ nera? Mba, ọ ya bụ Jisọsị si uwa ala",1.0357,0.61
+683,O ŋɔ o bonɔɔna la be ŋɔ bá do nomɛlbwa ɡɛ del waa dɛ nyin.,Onye obuna na-ala be ya bado n'ụmụlụba ge dịrị wa adịghị.,0.9333,0.5581
+684,Dɛ Filisti koranar la dɛ ɔmɛ kɛŋɔ wɛɛ le ba habɔɔ dɛ́ berɛ kaa o nomoa Sɔɔl be.,"N'afọ ole na ole gara aga, na omenala, ụmụ nwanyị na-abụkarị ndị na-elekọta ụlọ.",1.0,0.8667
+685,Korowii kpɔ Midian nomonome Oreb ne Siib do he nɔn ta.,Koro wiko media numurmi orip ne sib do,0.8182,0.4651
+686,He bɛ Amɔre tena haa soɡe ba harɛ ta voɡare la dɛɛ tomɛ.,"Hebe, amaghị m etu a sọ gị ba ha reta, bụghịrị laa, dee",1.0,0.6279
+687,"Kɛ dɛ sɔfo la nyiŋi naate dɛ pona aa toa toole o ta, o ta berɛ kaa bini o sie chɔ kɛrɛdɛ naa, a chɛ kɛ ó pero le o nɛra bini tɔpera anuanɛ.",Kedu ka ọsọ ụlọ ọgwụ dị iche iche na-ate dị pụ na 3000 ụta? Ụta bụrụ ka bini usie chọkịrịde na. Achọrọ m ịmara ole bini tọpụrụ nụ anụ.,0.9706,0.6117
+688,"Belaa Korowii bol waa n be ja ŋɔ, “Gɛ kiriso la aa chɔɡa la, ɡɛ tentenee mɛɛ ba Juda ne Jerusalam tena baa dɛ ɛ mbarafo la chɔɡa.","Mbakwuru ya, buruwa mbe ya nụ. Gị Kristi laa chọghala gị tinye m ebe Juda na Jerusalem China, bịa dị e mbara fụla chọghala.",0.9643,0.5102
+689,"A habɔɔ la, Amɔn Kooro Nahas baa sewɛ, asɛ o bibaa Hanun ba chiɡ o naa ta, dɛ di kora.","Aha nwoke ọ bụla na-ahụkwa asọmpi a dịka ubi baa hanun baki onata, dịka",0.95,0.5714
+690,"O chal ɡe ta yal kon ta naa, naate chɛ kɛ o chɛɡɔ bela do ɡoroŋ.",Wɔkyerɛkyerɛɛ Yakob ntana na ɛteɛ kɛseɛ wuchero blado goro.,1.0,0.5957
+691,"O kpɔ saraha kon baa fuuh la ɡe ba, dɛ ba ɛo ɡɛ aa chɔ le kɛ baa ɛa la.","kwasra ha kụọba fụụ na-ageba. N'ebe ahụ, ọ ga-achọrọ kee baa ya",0.95,0.54
+692,"Ba lɔ kaɡboŋa batoro, dɛ ba fa teŋɛ Kooro Sɔɔl nɛ, dɛ le o habɔɔ taraken.",Malo ka gbonya ba toro de ba fa tinye ko oro so le de le oha bo tra ki,1.0,0.3636
+693,wɛɛ ɛ o hanfalwaa la.,wọ́n ń f'alùá,1.0,0.75
+694,"Hé lawɛ dɔŋa kɛ nyabii, dɛɛ tɛ dɔŋa duure ɡwaa ɡɛ haa dɛ lii he te ɡbaɡba.",Hila we don a kenya bi? De te don a dure gwa ge ha de li hete gwa.,1.0588,0.4286
+695,"Webeŋkpoŋii chɔ le dɛ tɛ nɛwɛnyina ne ola bwa, ɡɛ bɛl aa sewɛ la, ɡɛɛ o dɔŋ ɡe ɛɛ ba sewa.","Webe nkwụni chọle, detenu we nyịna n'ụragba. Gebeela asịwara, ge ụdọ gị ebasịwa.",1.0,0.4925
+696,"A habɔɔ la, Kooro Solomɔn kpɔ ayaawa la ɛ loɡbajen ne pilare ne ayaawa loɡa, a do Korowii Dea bela.",kuro soro mpa aya wa la. Lugba jin ni pilari ne aya wa luga. Adu kuro wi di abla,0.95,0.3896
+697,"Bonadiire baa le Bɛt Toɡama kpɔ jaɡre baa dɛ ɛ a ne toma, ne anɔ la baa dɛ la a ne laa, dɛ keeɡo neenanar ba charɛ he laala.",,,
+698,Israel te bibanloɡle bɛlbwa ne kondɛɛre bɛlbwa ɡe biloɡle ombal bwa ɛ n kwa.,Ihe a mere bụ ihe gbasara ihe gbasara ndọrọ ndọrọ ọchịchị nke gbasara ịlọghachi Umunneato gba ya nkịtị.,1.2857,1.0323
+699,"Asɛ mea saraha te bɛlbwa aa ɛ men baa kpɔ noo koo a ta, kɛɛ dɛ noo toole a ta noo, a ɛ Arɔn bibaala baa ɛ sɔfore la bwa kwa, a chɛ kɛŋɔ bá bwa bɔna kɛrɛdɛ.",Asim ya siri ha tibeye gba a emen ba kọ n'ukwu ata. Ke ebe nụ tụrụ ata nụ? Ọ arọ mbibi ala ba esọfụla gbakwa. Achọkwa m ba pụa bọ na kịrịde.,0.9737,0.4737
+700,Rut kpɔ kondikwaa waa dia a ka la ɡe tɛo.,,,
+701,"Korowii berɔ ŋɔ Mosis be ja ŋɔ ó bol Israel tena be ŋɔ, “Korobinuanɛ tɔpere waa tɔ sie ta la, hé onɛ dɛ́ bwa cheme bɛle hoeh ne dɛ́ɛ tomɛ men Korowii.","Ndi Israel na-ala be ngwa, kporo ha nụ na topụrụ ha tosịrị taa. Hị unu debanye aha na nri a na-enye m n'ụbọchị",0.9375,0.7345
+702,"” Haahna la baa dɛ lɛ haahna lol la dɛ ɔmɛ Korowii, anomanta, ba ta ɡɛ Ijipt kooro aa ŋɔ ba be la ta teŋɛ.",Ghana labara le Ghana lola de ome kuro wi. Enuma nta butage Egypt kuro anwo babe la taten,0.9583,0.3974
+703,"” Kooro aa no ɡɛ baa jao la, o sie lɛ a ta, dɛ ɡel ba ɛa ɡɛ.","Koro a nogel ba jaula, usiele ata degel ba",0.9412,0.3846
+704,"Mmara o fe aa chɛ kɛ ó ba mkpa ne la, seo nee o ba.",Mara o ya chaka oba mpanila. Se o ne oba,0.8667,0.2857
+705,"Mɛɛ ɡeloo o ka so bela kɛŋɔ bwɛɛre a fa aa paɡra la, o ne nɛra baa serewa biɡri la so.",,,
+706,"Yabala, Yeesu Kristo seo waa sewa la, a ɛo kɛŋɔ he ne onee pɛa sewɛ.","Ya balawa, ya krisoso wa siwala. Ah, ya kan ohini oni pia si",1.0,0.451
+707,"Israel tena la ŋɔ, “Hé baɡle yaa waa aa cheɡɛ a ta wedoŋa nɔ ba.","Ihe ratụ na ala ṅụọ, ihe bagoro ya awa achigee, ata wịdụṅụ anọ",1.0,0.5957
+708,O ɡbabirii dɛ́ yo heya o bokpeɡa ne o bandia kohona bwa ne.,"O buru na i dey na hear, ubokpo na uba ndia kwuho na gba.",1.0,0.5111
+709,"Anee Kooro Devid lii ŋɔ, “Mɛɛ kpɔ Kooro Nahas bibaa Hanun daramee, ɡɛ n ne o mɛɛ fa aa kpɔ darame la.","Anyi koro devidiri nwa, mụ ekpo koro na hasbidaa hanun darmị. Gị nne ụmụefah akpọ darmị",0.9545,0.3553
+710,"Waa lolɔ la, ba lao kee kaa Korowii be o do o kookara la bɔr.",Olu nọla. Bịa laa oke ka akụrọọ ịbe. Ụdụ ụkwụ ụkara laa bụ,1.0,0.5111
+711,"O berɔ ŋɔ Arɔn be ŋɔ, “Kpɔ he wechɔɡa kpɔe dɛ kɛ saraha kwa, ne saraha kwaa haa fuah la ba saraha kon la ta ba soŋe he ne nɛra la bwa wechɔɡa.","O buru na a ruo mbe nwa, o ga-eweta oge akwa deke srahakwa. Na srahakwa ahu afuo a, na ba srahakwa m na-ataba so gi, i na-ere na gba weta oge",0.9394,0.4811
+712,"Waa baa dɛ na chaahna ta, ne anɔ la aa chiɡ kerekere, dɛ voɡa toma waa baa dɛ bol la bwa ɛ waa ba ɡbaɡba aa liira.",wa ba da na canza ta ni anla a ci kirikiri da buga tuma wa ba da bulla gwa ewa bagagwa a lira,0.9259,0.4
+713,Nomɛlbwa aa lee do dɛ́ huɡe ba ne ba haahna ne bibaala dɛ bihaahna bwa.,"Nụwa wa ale dị di egwu, banyere ihe a na-eme n'ebe a na-ebe ihe a na-akpọ",1.0667,0.6182
+714,"Menee Korowii, menee lee ba cheɡ dɛ ɡel ba do ɡoroŋ.",Mini krowi mini leba ce dagal ba dogoron,0.9091,0.4
+715,"O baa ŋɔ o nyiŋi dɛ na fufu kpɔɡjaŋa la baah, asɛ dɛ tomɛ o toli la bɛl ŋɔ ó ka kpɔ ba.",Uba nwa onye nyere na fufu kpoo ja na laba a siri na otu lila be nwa oka kpoo,0.913,0.4921
+716,N na wejena ane aa ɛ nyokpo wa dɛɛ baɡle waane Korowii doa.,Nna wụ ịje na-anị a enyọkpụa dị ebaghị waanị kuro wụ,1.0,0.4348
+717,"Men Nemenɛ Korowii berɔ bol bwɛjen Taaya tena waa ŋɔ, ‘Ba yo heyaa dɛ pɔ he nɛɛ tonɛ aa, nɛra baa soɡe mpo nyoa la ɛɛ ɔmɔɔ taeh, lɔŋɔre nɛra baa dɛ kpoo ba la aa dɛ dooɡe la wa.",Nne m na-ekwu na buru buru bu ihe ntaya tinawa anwụ. Ma yoo ya na ihe na-etu na nyere baa so gi mpu nwuala e umu oge. Na onwere inyere baa na ekwu bala adi di ogila,0.975,0.5639
+718,"Baa lɔɔ heyaa dɛ́ pa he laala kɛŋɔ laa ta kwa ken, nomɛlbwa aa wola lee do dɛ́ cha heya.","Balo hịa, depa hịla na kemo lata kwake. Nụmegwa awula leedu dechahịa.",1.0,0.3846
+719,"Ásɛ sɔfo la kpɔ nonii do chal la ta, dɛ́ ɛ ane ɛ kwaa aa paaɡe kon baa dɛ fuh saraha kwaa o ta la loŋkoni ta.","Aha sofulakwunu ni dochi alata. De e ane, e kwa a pa gi kunba de fua. Sraha kwa otala lonkoni",0.963,0.35
+720,"Hɔɔhra baa so he bini la ɛɛ nao dɛɛ dɛɡ, dɛɛ di kpeɡri he nɛ, ásɛ he te na dɛɛ kaa mun ta.","O na-abụ a sọọ ibinila, e nwee nwa dị ndụ, ya dịkwa iri hịne, a sị hịcha na dịka abụọ",0.9565,0.6308
+721,Gɛɛ a do Mosis baɡle Israel tena tɔpejena Korowii aa lea cheɡ ŋɔ baa dia la.,"Adumosis bagale, Israel tina topit jena, prowe ali ache nwo ba diala.",0.9375,0.3333
+722,Anee ɛ saraha aa do ɡoroŋ kohona ba ɛa dɛɛ tɛ men Korowii a ɛ sɔfore la kwa.,A na-esighị àdù gị n'ụkwụ na ba ya na-etinye mkurọ wii a esọfụrị la,0.8333,0.5862
+723,"Bwaala aa nɛɛ ba, ásɛ he harɛ hol dɛ́ do kpeɡri kɛŋɔ bwe ken.","Bịaara aṅụrị, a sị na ịharehụ, ndụ kpeghịrịkene nwogbịkị.",1.0,0.7111
+724,"Dedan tena ɡe kpɔ yale baa kpɔa dɛɛ dawɛ jaɡre nɛɛ dɛɛ so a ta, ba charɛ laala he be.","Onye na-etinye aka na ịkpọ ya bụ ma akpa ya daa wee jaghari na di su ata, a chere na ala hiri.",1.1,0.625
+725,"Anomanta, n kpɔɔ do harɛre nɛra baa ɛ hɔɔhra la kooro nɔn ta, ásɛ o ɛo ɡɛ aa chɛa o nyubinikpeɡ la wa.","nwanne taa, onweghi onye harari n'ala ba ehuora la kwuru n'onuta. A si gi na oge achia, unu binikwe ila.",0.9565,0.5844
+726,"Dɛ mea koo bɛl chɔ bela, asɛ ba chwa le Filisti tena la be.",de me akoma bɛtwa bra asebatwa,1.0,0.6591
+727,A chɛ kɛ Israel tena bwa jem mɛ kɛŋɔ n do ɡoroŋ.,Aka kee Izra tana ba Jemme kanwa ndu goro.,1.0,0.5
+728,"Hɛɛ so seo nyoa saŋ te bɛlbwaa dɛɛ ɔmɛ webaŋa ne jwaana, dɛ́ so tɛ seo.","Nke so si unu wa sị na nke belụwa, na ọ mịrịba na njedebe. Nke so taa sị",1.0,0.6415
+729,"Ba valɔ ba tel Kedɔn tena mea lɔ bɔr, asɛ nabala aa dɛ tɛɡre Korowii Ne Nɛwɛnyina Fɔo Daka la lɔ na, asɛ Ussa ta lawɛ Daka la kpoŋe.","Bà Valo batara, kedụ onye na-eme ya lụọ? A sị na Bala adịghị tegere, kuro wiinị na-ewenị afọ gị dakaala lụọ na. A sị Ụsa talaawe dakaala kpọọ gị.",0.9655,0.4653
+730,"Nɛwɛnyini jemɔ kɛŋɔ Korowii lole, kɛ baa on duu ɡɛ aa chɛ kɛ baa duuru.","Ndi be anyi, unu jide maka enu kuro bu ilo le. Kebe unu uge a cheke baduru",1.1333,0.5273
+731,Kooro nyoa ne chiɡa dɛ o bonɔɔna baa fɔɡɛ ba lure la kpɔ yal bɔle Heeman sie.,Koro ya na ịchiga na obodo na-abaọgị balụrụ laa kpọ ya ụgbọrọ hị masịrị.,1.0,0.5333
+732,"Nɛɛte waa ja banyoola batoro la nɛɛ ɡee Dodai bibaa Eliasa, o le Aho dea.","Na etu a a ga-enyocha batrị laa n'oge, dịka Bible si kwuo na Eklisiastis. Olee ahụmịhe",1.0667,0.6842
+733,"Mɛɛ ɡeloo bwɛjen la bwetal la ɡbo ka, ásɛ nɛra baa dɛ ɛ nee toma la ɛɛ nyenɛ ba dɔɔhne o ta.",Na globa jen labita labuka asanara bare eni tumala enyi ne bado ni,1.0,0.4928
+734,"Laa mɛɛ ba kpɔe ba ta he nɛ, chɔɡa haa chɔɡ n ne he fɔo la wa.","La m'e ba p'e bata hine, choga ha chok n'ehi fu la",0.8824,0.4091
+735,"Waa ɛ wechɔɡa kpɔe dɛ kɛ saraha ne saraha kwaa baa dɛ fuah ne deŋnesɔɔhna saraha la tonɛ la, asɛ o tu ba harɛ.","kwa ewee chọọga kwa ereke sịrị ha nee. Sịrị ha kwa ebe a dị funahụ, nee dị nsọ na sịrị ha latunila. A sị otu baara",1.0833,0.4235
+736,"Kooro Devid jemɔ kɛŋɔ, Korowiirii cheɡo kora ta Israel harɛ bwa, dɛ ɡel o dɔ kpeɡri o harɛ do wer kohona, o nɛra Israel tena wa.","Koro na ihe dị m ka enwe, koro wiri chigo, kụrata Izrel ha na-agba. Na geel ụdọ kpegiri, ohara duwere kụhụna. O nera Izrel tị na",0.9615,0.4545
+737,Gɛ nyubinikpeɡ tena nɔ vɛh n waa ta teŋa.,Nke a bụ ihe ị kwetara na Nọvemba 30,1.0,0.8125
+738,"Deŋnesɔɔhna saraha ol la ta chɛ kɛ tɔɔ per o ta, bá diu awola tenten baa kpoo la.",Jiri nsogbu na-esite na ọrịa taa chọọ ka ị nọrọ ọdụ. Bịa dịrị anyị nso na ịntanetị kwa ụbọchị.,1.0556,0.8871
+739,A ɡɛ nɛra nɔ bwa ɛ kooro keame Heman waa dɛ na chaahna dɛɛ bol o be la bibaala.,"A ga m na-anọwa e koro gị ya mee. Hey man, wa dee nachaa na, dee boolu, ubela bibala.",0.9474,0.4
+740,"” Yeesu kpɔ nɔɔra dawɛ haah la nɛ, asɛ buɡ la ta, o won pee o te, dɛ jam Korowii.","Yesu Paul Morada we haa laane, a sebbiulata o woni pe'e ote le jannguɗo wi'i",0.8947,0.4035
+741,"Heman ne Jedutun chɔ bɛle hoeh ne kwaa anɛ ane baa kpɔ ayaawa ɛa dɛɛ hɛlɛ, dɛ anɔ la aa jaa ba kpɔ ɡo yela dɛɛ kpɛɛ Korowii la nyoa.","Ihe mụ na gị tụrụ, ya bụrụkwa na ị kwadoro, a na m akpọ aha gị a na-eche na a na-alaghachi a kpọgohie ya, na ekpere m kwuru wee laa n'iyi.",1.0333,0.703
+742,"Asaf bibaala, Sakur ne Josef ne Nɛtanea dɛ Asarɛla.","Asaph, Bibala, Sakuroni Joseph ne Nathania de Asarela",0.8889,0.2927
+743,Asɛ nyundua toroma banuanɛ baa kpoŋe hɔhɔrɔwa bele anuanɛ la le Korowii Dea la bini.,"Ase ṅun wa turuma be ṅuwan e baa koṅe ṅoṅoro wa bili e ṅuwan e lalli, koro wi di ala bi",1.3333,0.4348
+744,Asɛ Ijipt tena berɛ dɛɛ ɔmɛ Israel tena la kohona.,Asa Egypt na bere na ome Israel tena lakohunu,0.8,0.35
+745,"Waa nyiŋa bar o ta nomɛlbwa nae la, o kpo Ijipt te la dɛ ɡbaa hɛŋle tɔ o nɛ.",wa nyi nga bara otu anu me gba n'elu okwu Egypt tila na gba ha lito,1.0,0.4821
+746,"Gɛɛ sɔfo la ɛɛ ba ɛɛ, dɛ́ soŋe naate wechɔɡa la n be, ásɛ n kpɔ kɛo.","Ya so na ebe a e, ya so niile a na-ewetara mbe asị m kpọkịọ.",1.0,0.6667
+747,"N kpɔ Ijipt harɛ bɔ Babelɔn kooro ne o laa tena kem, waa baa kaa ɛ tɛ mɛ la wa.","Na Egypt, ha na-akpo ndị Babịlon kụrụ ndị ọlụ atụ na Kim. Ha abụọ ka etemeela",1.0,0.6207
+748,"sewɛ la, Hadad ɡe ba chiɡ o naa ta, dɛ di kora.","Chineke, ha daa, gbaa chiọna taa na dịkọra",1.0,0.5758
+749,"Mmara aa wola toole la, dɛ wobɛlbwa toole n baŋa n so.","Mara wula tolela. Da uba wula tole, mbanan",1.0,0.4146
+750,Ba bwa leɔ dɛ kpɔ Juda ŋwɛnɛ ta dɛɛ kaa.,Babu wani ode kwa Juda nweneta deka.,0.9,0.4333
+751,"Anomanta, Nemenɛ Korowii ŋɔ, ‘Taaya tena, n ne he dɔɔ.","Nnamnta, nimekwuru obi m nụ. Ka ọ dị na",1.0,0.675
+752,"Kɛ nɛn waa wola wobɛlbwa ɛɛ dɛ kpɔ o yarada do Korowii ɡbo nɛɛ kɛŋɔ o won wechɔɡ-ɛɛra nɛndɛɛɡa ɛɛ la, a cheɡɛ o yarada la ta asɛ Korowii lɛo kɛ nɛndɛɛɡe o wa ɛɛ su o siwi.",Kedu ihe m ga-agwa ụmụ nwaanyị a na-akpọ ụmụ ya na-adịghị kụọ nwa ha ihe bụ nne? Kedu ụdị ụmụ nwanyị a na-adịghị elekọta ụmụ ha? Achọrọ m ịmara ihe mere ụmụ nwanyị ụfọdụ na-adịghị elekọta ụmụ ha.,0.9737,0.9313
+753,"Baa ma teeraa sawɛ ba danjwɛɛ la, dɛ́ che a ta dɛ́ kpɔ kwaa tɔ ɡbemɡbe, dɛ́ yoo ba.",ba ma tera sawe ba da njela de chi ata de pokwa to gbingbi de yoruba,0.8947,0.3729
+754,"Dɛ bene aa kaa la ta kan aa, a chɛ kɛ ó nyin suuɡa baa kpɔa yawɔ la pera tɛo, dɛ́ le ɡɛ bene aa kaa la aa doa.",Ya bini a ka latakana a cekin unyin suga bafa yawola piratio. Dali ga bini a ka la adua.,0.931,0.3974
+755,"Hé le Gebea nɛnchɔɡa nɔ tɛ yaa yá kpoo ba, ásɛ ɡɛ wedoŋa nɔ le Israel harɛ ta.","Hele Givia, nan chokano te ya ya puva, asage wido ng'ano le Israel harata",0.8889,0.4068
+756,"A ɡɛ tɔpere laanee dɛ́ ka mun he tɔpejen chema la ta, anomanta, hé ɡel he tomare bwa bil.","A ga m atụ aro na ị ga-amụ etu pịjin si malata, na mgbakwunye na ị ga-etumari bọọlụ.",0.9474,0.7015
+757,Gɛɛ a chɛ kɛ he kpɔ he te kɛŋɔ he ne wechɔɡa toole wobɛlbwa bini kpa kɛ nɛn aa sewa la.,ke achakahi pohiti ke ngohini wiko atule ubelewa binikwa ke na nasi,1.0,0.5455
+758,"dɛ ɛ la toɡrɔ, kɛ mɛɛ le he.",la turo ke,0.875,0.6842
+759,"Asɛ Rut chaŋo ŋɔ, “Bɛ n be ŋɔ n ɡele.",asụrụ m changuọ mụ be mụ ngelụ,0.9,0.56
+760,"Kɛ dɛ buɡ la ta, do ɡɛ waa doa, o ta yɛɛrɛ o sie chɔ kɛrɛdɛ naa, amɔ dɛ nii laanee ɡela a ba ɡɛ.","ke debulu ta do ge wa adua, otaya osie chokiri na amadi ni la ni ge la abali",0.92,0.3824
+761,"Korowii ŋɔ Mosis be ja ŋɔ ó bol Israel tena be ŋɔ, “He bɛ nae, ne peera kɛɛ boohna noorare dɛɛ di.",O bu ihe m na-eche na-ebe ngwa. Ihe m na-eche n'ebe a ka e bu na n'ura di,0.9545,0.6575
+762,"Ya Dɔɔ Yeesu Kristo alaworomɛ, Korowiirii dɛ́ lɛɛ mɛ.",Yado yesu kristo alawurume.,0.8889,0.5476
+763,O ɛ bena komɛlbwa kɛɛ nomɛlbwa aa bera dɛɛ kaa bela waa lea.,abịara nụ mme gba kee nụ mme gba a abịara na-eke abịara wa ria,1.0769,0.6383
+764,"Dɛ he vɛh Korowii aa, wɛɛ kpɔ wekpeɡaa ta he nɛ, he berɛ wili dɛɛ na waa wobɛlbwa haa dɛɛ ɛ ta, dɛ́ ka tel kɛŋɔ waa chɔɡ heyaa warane kwaraa.","Ihe mere kwuru ihe a, wekwa we kwega taa hịne. Ihe mere wili, dee na wa, ugbọ wa ha dee ịta. Dika Chineke nụ, wa chọgị ya ura nikwara.",0.9355,0.5283
+765,"O mɛɛ te, o ɛɡre o bala dɛ lɛ ba kwa, dɛ ɛ o nɛra wechɔɡa, wɛɛ sewɔɔ.","Onye a ji, o enyere obara ya na-ebakwa, na onye na-ewuchoga, wee si ya",0.9444,0.6667
+766,"Anee Mosis ŋɔ, “Anɔ bwaa Korowii do heyaa ŋɔ hɛɛ ɛ á che a ta he won na o jirima.","Animoses nwa anọgide na-akwụ ụgwọ ya kwa ọnwa, achị ataghị ya ụta ojiri",1.0,0.6441
+767,"O dɛ ɛ waa baa kia nɔ bwa, a chɛ kɛŋɔ á ɡure o nyu ta, bá kpoo.","Ode ewa baki anu gba, a cha ka mu agure unuta bakwuo",0.9444,0.4186
+768,"Kondɛɛre bɛlbwa bini onɔ la waa ja fi la do ɡoroŋ, dɛ ɛ men Korowii kon.","Onye na-ere bigbọ bini ụlọ wa aja fi na dugurụ, dee emi nkụrụ wee",0.9375,0.5636
+769,Gɛ del haa parɛ la taa chɛ kɛ hé nyiŋi dɛ́ yawɛ.,"Geddel ha para lata, sekahin yini de",1.0,0.4571
+770,A waa Korowii che Abraham yarada ta asɛ dɛ lɛo kɛ nɛndɛɛɡe o waa su o siwi la.,Awa krowi chi Abraham ya rata a se galiu kene ndege uwa su usi wila.,0.8889,0.3167
+771,Belaa Kooro Devid ka so Jerusalam baa ma danjwɛɛ baro la ta.,Bila koro David ka so Jerusalem baama danjɛ baro,0.75,0.2292
+772,o lɛ sɔn waa wola jaɡa dɔe.,na matu Moses lase. Koro wee achie ukwe ngirita degi Moses wee jee na mputengiri a. O lesson wa awula ji aga di,3.1429,3.7
+773,"Hɛɛ won yawɛ nɛŋhɔɔhra baa baa so he bini tama, dɛ́ loɡle he harɛ ta bii bá ɛ he nɛndɔɔla.",heewi nyaawe naange hoore baba sohibi tama ɗon luggiti hi harita bi ba'a ehi na ndola,0.95,0.5441
+774,"Tɔ aa pera la, o laŋɔ ŋɔ ó ka chɔɔ o bala la ja dɛ na Hibru tena baala banɛ aa dɛ yo.","Tụọ afịara, ụlọ ọgwụ ọkachamara ụmụaka. Na Naịjiria, tupu afọ 1960",0.9565,0.7213
+775,"Kɛ wechɔɡa kpɔe dɛ kɛ saraha komɛlbwa baa kpɔ o chal jo n Dea Cheremibɔr, dɛ́ kpɔ soŋe wechɔɡa n be Boɡoroŋ bela la te ta chɛ kɛ ba dia.",Ewuchiọha kwere nkwa sị na ha kwụsịrị mgbasa ozi akpọrọ ocha ajọ ndị achịrị mgbọ. Ekposịrị Ewuchiọha mgbọ gburu mmadụ ala tupu chekwaa,1.0,0.6731
+776,"Anee ba ŋɔ n be ŋɔ, “A chɛ kɛŋɔ hé baɡle waa aa dɛ ba nɛndamanta baa lɔ harɛre bwa ta ne wobol bwa soo siwi dɛ koranar bwa ɛɛ kerekere la ja.","A na-eche na ọ bụ ihe gbasara wa, adịghị mma na ndụ mmadụ gbasara hariri gbatara n'ụgbọlọgbaso osisi wee nịkoro n'ala e kerekere laa aja.",0.9394,0.6132
+777,"Kwaa baa ma dɛ́ che a ta jo ba be ɛɛ do ɔmaa kohona, a ɡel lɔr chole o nɛra nɛ, ásɛ ba kpoo dɔŋa dɛɛ chwe, hale ba bibaala ne bihaahna bwa.","kwa ba ama, di chi atajo, ba be e du oma ku hu na, a gi lo chu re o ne ra ne, o se ba ku udo na di i chwe, ha ri ba bi ba ra ni bi ha na gba",1.1515,0.3627
+778,"Dɛ bwea baa kpɔa le dɛ sɛh danjwɛɛ la dɛ kwaa maalo la habɔɔ, konfɔɔla la berɔ ba dem la ta naa, a chɛ kɛ sɔfo la berɛ la dɛ́ ka nyiŋi na.","Ebu ya baa akpa ale, desenda njuela, de kwa maalu la ha boo. Umfo ala biro ba di mla ta na, a cheke sofula bire la, di ka nyinye",0.8182,0.3725
+779,"Amɔ dɛ ya bini bane ta Korowii yaradae yaa, wɛɛ koh a waa ásɛ o waa aa yaradaa dɔ aa?",A ma na ya bụ ihe mere na-akpata ụmụ nwanyị ịlọghachi azụ. Wee kwuo awa asị ụwa anyị lọtara.,1.0,0.7812
+780,Mɛɛ berɔ tɛ heyaa bosɔɔhna le he dɔma bwa nɔn ta.,"Na brought her here, Botswana le. He don't know what to",0.8182,0.7632
+781,Mmara la toma bwaa kɛŋɔ ó ɡel nɛwɛnyini jemɛ kɛŋɔ ya ɛ wechɔɡa.,Mala tuma bwateng oge ne wenyi ni jime keng ya'e wicho,1.0,0.48
+782,"Mɛɛ ɡeloo hé ti he dɔma dɛ́ pɔ ba nɛ, ásɛ he nɛra banue yo nɛra lafa dɛ́ won pɔ ba nɛ, he nɛra lafa ɡe won yo nɛra kaɡboŋa fi dɛ́ pɔ ba nɛ.","Maka na ihe ịdị mma dị pụta iche. A sị na e nwere nnụọ nyo nnụọ lafa dị pụta iche. Nnụọ lafa ga-ewu nyo, nyo ka gbunwe fị dị pụta iche.",0.9429,0.6566
+783,"Sɔ́fo la nyiŋi kon la na, dɛ́ kpɔ le nɛra bini tɔpera anuanɛ.",So fulani nye konlana de ko le nara bini topura nuani.,0.8462,0.3111
+784,"Anee ɡela n kpɔ n kondɛɛra biloɡla ambala dɛɛ tɛ Korowii, dɛ́ berɛ charɛ n bibanloɡle nyu la.",A na-ekwu na mkpa nkụ ndị a bi n'ugwu na-ambara dị etu kụrụ wee. Dabere na chere mbiba n'ugwu,1.0556,0.5616
+785,"Mɛɛ ɡbaa teɡaŋa ne bwekuŋe bwaa le harɛ la ta, á ka bwetal ɡbo.",N'egba tegere n'gbekwune gbaali harilata. Aka gbetalu,1.0,0.4792
+786,"Belaa Kooro Devid ka bɔɔ le Korowii be ŋɔ, “N Naa Korowii, ń la ka yo Filisti tena nɔ naa?","Bia koro David ka abọ, lee koro ihe be nọ. Na koro ihe, nla ka ị ga-eji felisịta na nọ na",0.95,0.4776
+787,Dɔŋa nyinaa ɡela Yeesu Kristo bwadabii won kpeɡ ɡɛ dɛ do kpeɡri la.,Dọwa gị na gị na Jesu Kristi bọdọbị wụ onye gị na ya dịkwe gị.,1.1538,0.6111
+788,"Anomanta, men Nemenɛ Korowii ŋɔ, ‘He wechɔɡa haa ɛa bwa chɔ baŋ.","Nwanne m nwoke, i kwuru okwu i ma. Ihe isi na ha ga-abu ha choba",1.25,0.6327
+789,"Ba huɡ ba dajen bɛl mun bela, dɛ vɔwɛ nyoa tɔpera anuanɛ.",Bahugu ba daji belu mbera da bawa nwa topra nua,0.9167,0.4318
+790,"Kɛ dɛ ŋwɛr waa swɛɛra dɛ to lɔ o nyu bela waa ɡbaa la ta kɛɛ o tile ta naa, amɔ dɛ weebuulaa.",Kedu onye ruwa shịara na ụlọ ụnyụbụla wa gbaara taa kee otu ịlịta na amadewi gburụ?,1.0,0.5362
+791,"Dɛ ol la leɡe komɛlbwa waa kah doŋa aa, he bɛ di.","Onye ọbụla lekee kụmee gbaa wa aka dọọ ha, ha ibe",1.0,0.6667
+792,"Ásɛ nomɛlbwa ɡe baa yoɡu o ɛ yom la berɛ kaa o nɛra be, dea waa le o ta.","Asa nu mebago ebe a ihu gi, o eyom na bere ka o narabi, diawa li",1.0,0.5
+793,"O berɔ fuɡe noo la ane do Arɔn nyu ta, dɛ leo cheɡ o do ɡoroŋ.","O buru na ufodu na-anodu aro nyuta, daalu chekwa udo diri gi.",0.9375,0.6
+794,"Ya jemɔ kɛŋɔ waa Mmara la aa dɛ baɡle la, nɛra baa dɛ teŋɛ Mmara la ta laanee Mmara la ɛɛ baɡle, ásɛ nomɛlbwa bɛ won dɔ wobɛlbwa bol Korowii sie, ásɛ o won bol nomɛlbwa waa dɛ́ pa bole.",,,
+795,dɛ won yo dɛ pɔ.,"ndewo unu, ekpo m ndomani. biko nyere m aka na",2.0,2.6364
+796,"He ne Yeesu Kristo aa pɛa la nomanta, a chɛ kɛ he jemɛ kɛŋɔ Korowiirii he do le tɛ.",,,
+797,Mosis Mmara la ne Korowii keamere tɔne di danseɛ ɡɛ ŋwɛnɛ nɔ ta.,Mosi maralani krowi kiamari toni di dansi ge nwanenota.,0.9231,0.3529
+798,"Wechɔɡa fa aa yawɛ heyaa yom, asɛ taraken nɔ he no o waa baa chaɡle heyaa dɛ kpɔ he te tɛo he bambile bwa ne nɔ, Korowii le heyaa wechɔɡa yawa a fa aa yawɛ heyaa yom la ta.","Wechokwa ya bu afa ya bu Yahweh, ya bu asi na Chineke no n'elu uwa ba chaghiri ya dika chi etiti o hiba mmiri gba n'ino. K'owiri ya we chokwa ya bu afa ya bu Yahweh ya bu",1.0,0.5954
+799,o Doma tɛ Mosis la sɛ?,"Kụrụọ mụ Moses sangla, asị na ọ bụ onwé. Lepụrụ anya kụrụọ mụ wa le unera n'ịbasị tọọla na mputala dị otu a dịkị nụ. Kụrụọ mụ wa kpọọ ụdị mmadụ Moses la",5.5,6.6875
+800,"Asɛ nɛn waa dɛ nyiŋi bodɛɛɡe baa du daa o ta la ŋɔ, ‘N Dɔɔ, ɡel o che benanyoa beŋkpoŋ ja yá na.","A sị m na ọ bụghị naanị Pọl, Talanwụ, ndị ọzọ, gị, Uchemba, na onye ọ bụla be m kwọrọ njị a ya.",1.0,0.7429
+801,"Asaya, o ɛ ba nyu te dɛ chɔ nɛra lafraanɛ fifraanɛ nyoa.",Asaya o e banu ti de cho nera la frane fi frane,0.8333,0.3256
+802,"O ɡel kwaa aa do kɛ torɔɡore la lafa, ne jaɡre ane aa dɛ ba torɔɡore la tɛɡra, dɛ chaa a kabora habɔɔ nadɛɛne.","Ngịlịkwá ádúké, tụ́rọ́ gọ́rị́lā láfā. N'ijā́rị́ ányị́ ádẹ́bā tụ́rọ́ gọ́rị́lā tẹ́gị́rā. Dẹ́ chā ákā bụ́rā hā bụ́ọ́ n'adẹ́.",1.0,0.619
+803,"Laa nee mɛɛ ba heyaa doŋa, ásɛ dɛ paɡre he bwɛjena a berɛ dimɡbeeni.","Lá n'ime ba ihe dị onga. A sị na ịpagharị hịbụ ejena, a bịara dị ngbe",1.0714,0.6415
+804,"Gɛɛ ya Juu tena nabaa Devid faa baɡle nomɛlbwa Korowii aa wola o we-ɛɛla nyiŋe, asɛ dɛ lɛo kɛ nɛndɛɛɡe o waa su o siwi la waa kɛŋɔ o na som la.",Ndege ya judatuna naba David fa barin nomba krowia wula owi ela nyige ase de lewu ke nenda gi wasu usiwi la wa keno ona sumla.,0.9375,0.4037
+805,Banee dɔ dibɔr saraha kwaa baa kpɔ ba fuah la ta.,Banyi do di bu osara ha kwa ba akpo ba fu ala,1.0,0.2632
+806,N dɛ na n chamenate Epaenitus waa tɔ sie yarada Yeesu Kristo waa nɔ Eesia harɛ ta bwa la.,Na na ncham na ti etu ni tos wato si e yarra Yesu Kristi waanu e si ahari ta gbala.,1.0,0.2714
+807,"Gɛ nomonjena banuanɛ nɔ le Pɛɛsea ne Midia harɛre ta, dɛ ɛ nomonjena ɡwaa nomonome baa lɔ o kora bini bwa.","Nke a bụ munjena, banụ a na-enọrị pesi a na media haririta. Dị enụ munjena gwaa nụ mụ nụ mị gbaalụ ụkwụ ụrọ b'ịni",1.1429,0.4762
+808,"Jaasia luɡe ta, Soham ne Sakur dɛ Ibri.",यासीया लुगेता सोहम नेसाकुर दे इब्री,1.0,1.0
+809,Waa banyoola batoro la aa ɛa laanee la.,wa banyo la batoro la ya la ni,0.875,0.3226
+810,Dɛkalkɛ kondikwaa aa le harɛ la ta ɡboo o yoɡ dɛɛ tɛɛ.,Kedu ka unu kwa aalu ha laa taa bu uyo gideete?,1.0,0.5952
+811,"Waa na o haah Ɛsta bela la, o sie lɛ o nɛ, dɛ tɛr o suuɡaswɛm daŋɡbala waa kpoŋa la pa Ɛsta nɛ, asɛ o suuh tel o be dɛ kpɔ o nɔn leɡe suuɡaswɛm daŋɡbala la nyoa.",wa na uha esta bilara usiele onele de ter usugasona mbalala wa kpona alapa esta ne ase usu ter ube de kwa unon dege sugasona mbalala nya,0.9737,0.425
+812,"Korowii ŋɔ Mosis be ŋɔ, “Le bibanloɡle bɛlbwa cheɡ tɛ mɛ ó ɛ n kon.","Kedu ihe omume o si bido? Lee bekee na-anọghị na be ụmụaka ya, ọ bụ ya nkọ.",1.1333,0.86
+813,"Dɛ Boas ta waa nɔ sie nae fini naa, o ta ona dɔe.",Ndi be anyi ekele m unu o. Udo diri unu.,0.9231,0.8
+814,Name kenii men Nemenɛ Korowii ɛɛ bol waa aa dɛ ba daa waa kpeɡa kaa baama ta la pui.,Nani kene mere mmiri kwuru ebulu waa adiba? Dawa kpi ga ka ba mata na,0.9474,0.4769
+815,Us ne Hul ne Geta dɛ Mɛsɛk.,nehu nehu ne gita,0.8571,0.65
+816,Nɛmbeŋkpoŋ wechɔɡa taa seo che dɛɛ di kora nɛwɛnyina bwa nɛ.,Ndi nwe ngwo nwe chọkata si oche di dikora na enweghi nna,1.0,0.5102
+817,"Esɔ ɡe aa ira la, bibaala waa lol ba laanee.",so gi a ị raala? Diala wa lụlụba laa nụ.,1.0,0.4545
+818,"Awola tɔpere la, mɛɛ ɡeloo he berɛ won waa bola, ásɛ he ne naate bol wa.","Onye na-eto eze na-egbu eze n'ụwa abụla, ọ saghị na ya ka bụrụ.",1.0,0.7037
+819,"’ Ásɛ men, he bonɔɔ Kooro Devid naanar che kiŋkiŋ, dɛ́ do he sie saŋ bɛlbwa.","Asamen, ibunu koro David na nna ya Chikinikin. Da du hisien sang",1.0,0.4821
+820,"Belaa Korowii bol waa n be ŋɔ, “Israel tena, maa won ɛ heyaa kɛŋɔ mamaa nɔ aa ɛa nɔ naa?","Ihe a choro, ma onweghi ike ma maanu a ya ano na",1.0,0.6923
+821,"O naara kɛɛ o naara ɡe bie, kɛɛ o lole tenten bini bɛlbwa ɛɛ won bɔ o nyu kem dɛ́ lɛo.","O nare ke o nare gi bee, ke olileanya na bini be gba ewu mgbo onye kim",0.8571,0.5238
+822,N bwadabii aa Korowii Mmara la aa lɔ n bambile bini la ta teŋa nyin.,"Mbarapi akrowi, mbarala alo, mballe bini lakatenga",0.9333,0.3962
+823,"Ásɛ sɔfo la lawɛ pebali la bɛl dɛ́ kpɔ noo pɛrɛntoa fah la ja, dɛ́ kpɔ ɛ bolchɔɡe dii saraha.","Asa sofula la we piba lela bell, d'ekpo nu printua fa laja, d'ekpo ebulu chogi di sra",0.95,0.4143
+824,"O muɡli Israel tena baah, asɛ Simea waa ɛ Kooro Devid dɔɔranar la bini bɛl bibaa Jonatan kpoo.","Mungoli ishi ya tenaba, as a senior, wa ekoro David, dora nar labini bel biba Jonathan ko.",1.0,0.3333
+825,Jekɔb bibaala ne ba haahna ne bii baa ja o nɛɛ dɛ kaa Ijipt harɛ laanee nɔ.,"Jekob biara na mba Haana na bi ebe a ja unene, deka Ijipt laa n'ihu.",0.9412,0.4138
+826,O fuh kon la noorare ne o kporombie dɛ o pwɛ bela waa wera la saraha kon la ta ɡɛ Korowii aa do Mosis la.,"Ufukonla norarere okurembe da opaybla wa werara srahakonla ta, gekrowi a do Moses la.",0.88,0.2625
+827,"Mɔdekae aa ŋɔ Ɛsta be ŋɔ o bɛ ɡel ba jemɛ o nɛnsoo kɛŋɔ o ɛ Juu te la, o noɔ tɛo ɡɛ waa dɛ no o waa le o bechale saŋ bwa la.","Modika a nwoke a si na obu ege baji m onu so kee nwoke ejutara? O na-eti oge wa di na uwa ale, obichalisa mgbala.",0.9706,0.5169
+828,"Onee choŋri bwadabii la bwa, aa lawɛ dɔŋa kɛrɛdɛ dɛ bwa ɛ beŋkpoŋ dɛɛ cha dɔŋa, ásɛ dɛ won kpeɡ tel ɡɛ o mar aa doa.",Onye chọrọ ịbụ onye na-agba àlàwa dọkịnta ga-agba mbọ na-eche dọkịnta asị ruo mgbe ọ mụta gbalụ.,1.0,0.7727
+829,"Sɔfo la nyiŋi ŋwɛr la dɛ pona aa lɔ o ta la too, asɛ ŋwɛr la yɛ kaa bini naa, amɔ dɛ bwadabii weechɔɡa aa dɛ buu.",So fulani ngi nwerela de puna alo uta tuo. Asim nwerela ya ka bini na ama de bodabii wi choga a debu.,0.963,0.4167
+830,"Gel ó so kɛŋɔ nɛn waa ba dɛ ɛ toma hɛɛ bɔɔ kem, kɛɛ hɔɔh waa bala dɛ ba so tama, dɛɛ tomɛ ka tel bodia benanyoa la ta.",Nke ọsọ kenganne nwaaba dị etu ma ha bụ oke. Kehụọ nwaabala dị basutamma dị etume ka tilbodia abụrụ nyọrọta,0.9655,0.4598
+831,"ne Naharai waa le Bɛrɔt, onee dɛɛ che Seruya bibaa Joab dɔmkwa.","ne naharaye wale berot. Onye dika Seruya, bu ba juab dom",0.9167,0.36
+832,” N no hweera kwaa la kena aa dɛ seeɡe dɔŋa ne saaker nakpale la aa dɛ si kohona kɛŋɔ harɛ aa dɛ jiɡri ken.,"muo nni di okpeghi gi, biko mee atumatu. I si na i mee atumatu, bata ha na onera bu bolu a kpega, ba wa muo nni di okpeghi gi a. The ife i tume ge nera la be na, bafenuo.",1.6667,1.1975
+833,"He kpɔ he te tɛ Korowii dɛɛ no o be naa, wɛɛ lɛ heyaa kɛ nɛndɛɛɡa, ásɛ he waa su o siwi.",Ite anyi kịte krowii dị elu ube na wee leghị anya na ndị ga-asị hiwa asụ,1.0,0.6094
+834,"Belaa Kooro Sɛksɛs chaŋe o haah ne Juu te Mɔdekae ŋɔ, “Vɔrɔwa Heeman aa vɔrɔwa ŋɔ bá kpoo Juu tena bwa la nomanta, n kpɔ o kondɔɔh bwa tɛ Ɛsta, dɛ ɡel ba ka saɡɔ.",Ndi akoro sex workers chọrọ ka ha nwee njikọ ma dịkanyụọ. Vọrọwa ha ịma a vọrọwa nwoke bakwuru njikọ na gbalụ nụ ma nta. Nke nke ọndọ nwoke na Esther degeelụ bakasụọ,1.0,0.6667
+835,"Juu tenaa ó tɔ sie lɛ, nɛra baa wola Juu tena ɛɛ ɡe jao.",Judatina utosiela.,1.0,0.7317
+836,Wɛɛ ɛ kora waa wola kpeɡrii do kpa harɛre koranar bwa bini.,"Wee kuraa, kwaa ụla ka e riri dukpaa. A riri kuraa na-arịgbo",1.0,0.5106
+837,"Taraken waa ɡela Yeesu Kristo koh ya wechɔɡa waa dɛ sewɛ nɔ, o baɡlɔ kɛŋɔ o waa toɡrɔ.",Tarkamụ adịla Jesus Christụ kụọ ya bụ ịchọghị wa dị si wee nọ. Ụbagalụ k'enụ ụwa tụgharụ,0.9444,0.6269
+838,"Kpɔ nomonome la bini bane ja he nɛ, dɛ́ kpɔ daŋɡbala la haa kpɔa lɔ Nael Moo sie la ɡe kpoŋe kaa.","Ọ nụrụ mụrụ ịla bini bani jahi na, dekwa danwara la ha akwa nnọọ na mụọ si na gi kponye ka",0.9545,0.5068
+839,"Kondikwaa bɛlbwa aa le harɛ la ta dɛ ɛ mea kɛɛ daa nɔna la, a chɛ kɛ he bɔne a bɛlbwa bini bɔre fi, dɛ́ kpɔ bɔrbeŋkpoŋa ba tɛ men Korowii.","Kụnnị kwa abụịgbà àlị́harị̀, latadị ẹ̀mị́ àkẹ̀́ d'anụ́ n'ala. Achèkàhị̀ bọ̀ n'abụịgbà bịnị̀ bọ̀ rị́ fị̀, nèkpọ̀ bọ̀ rị́ bẹ̀ nkpọ̀ ngabàtẹ̀ mị̀ nkụ́rọ̀ wị̀.",1.0,0.5
+840,Wechɔɡa Soŋa Korowii Be Ó Kpɔ Kɛ Tɔpejen.,Wepụ akwụkwọ nsọ na-akwụ n'ebe okwake tụpụ jee.,1.0,0.7879
+841,Dɔma teera mae dɛ́ sawɛ Jerusalam danjwɛ.,ဒoma thera mai thesawet Jerusalem,1.0,0.4848
+842,"Mɛɛ chɔɡ harɛ laanee kwaraa, ásɛ nɛra aa won berɛ ba so o ta kpa.","Mazi Chuwkwuemeka, asim na awum biri basu uto",1.0,0.6735
+843,"Naate waa la ɡɛ keame la be la ne keame la bwa di bolchɔɡe, mɛɛ tɛr ba bwa deŋnee.",Na etu a ọtụtụ ndị mmadụ si enweta ego ha ji ebi ndụ.,1.0,0.7903
+844,"Anee ba ŋɔ Mosis be ŋɔ, “He ɡbabir bol waa ya be, yaa noo.",A na-eche na Moses bụ onye igwe bịa buru wa ya bụ ya anụ.,0.9286,0.5854
+845,"Nomɛl ɡee pɛɛroo ŋɔ, “Aah dɛ a cheɡɛ n nyosone ta asɛ nɛra na kɛŋɔ Korowii dɔ kasinteŋ, o dɔ sɔn aa, dɛ n nyosone la ɛ wechɔɡa ja aa?",nu melu ge kheru go. And achi ge nyusu ni ta ase nera nake go krowi doka sinte. U doso na de nyusu ni la e wuchoga ja,0.9,0.4545
+846,"Kɛ dɛ o jaa ta soɡe le, asɛ o ne banfale ɡe berɛ do le ja aa, baa yerɔ hanjwamanee.",Kedu onye ga-ata suwele a sị onye banyere na-eburu dule ya a? Bịa ịrọ ha njamanị.,1.0,0.4426
+847,"ne Eliel ne Ɔbɛd, dɛ Jaaseɛl waa le Mɛsoba.",ne il ne obet de yasiu wale lesoba,0.7778,0.4545
+848,"Hé ɡel ya che Yeesu Kristo nɛɛ dɛ́ jam Korowii o ɡbo aa ɛ Korowii, dɛ ɡbo jemɛ wobɛlbwa la.","Nke a bụkwa ihe e ji so na ejam krowii, ogbo a ekrowii, de bụrụkwa ihe e ji",1.0,0.5942
+849,"Koranar baa lɔ mpo nyoa la bwa ɛɛ ir ba kookane taa, dɛ́ foo ba koolaala ne ba laala baa sɔh kwaa dawɛ a taa bil.","Kụrụ na ala, baa n'ụlọ, pụọ n'ala bụọ, e ịrba kụọ nịta. Dịfọ baa kụọ lala nị baa lala baa sọkwa ada wee ata",0.9615,0.4941
+850,"Ó kpɔ nɔn dawɛ o nyu ta, dɛ́ teŋe o baŋa bela baa kpo kwaa dɛɛ fuah la bɔr, dɛ́ kpɔ ɛ wechɔɡa kpɔe dɛ kɛ saraha.","Onye na-edowe onye uta, di ka obangabala baakwụ, kwadoro efụa labor, dika e wechọrọ ya kpee reke sị na",1.0,0.5309
+851,Bilhan ne Saavan dɛ Akan.,Bilhan ne savan de akan,0.4,0.1
+852,"Nomɛlbwa waa dɛ yarada Yeesu waa la kɛŋɔ Abraham aa yarada Korowii la, wɛɛ di nyobaɡa la tɔnɔɔ, dɛkalkɛŋɔ ya bwa mɛɛɛ Abraham.","na mmeba waala ya na Jesu waala, kee nu Abraham ya baa mee Abraham",0.913,0.6238
+853,"Dɛ kpɔ batakaare baa dɛ doo mun ta ne onjaŋ la do Arɔn, dɛ kpɔ o kiriso vɔwɛ o chara.",debe bata kari baa du umu nta na unja nna du aro debe okiriso uwa ocha,0.95,0.4062
+854,"A habɔɔ la, Korowii berɔ bol waa n be ja ŋɔ, “La Yufretis Moo ta ka kpɔ kiriso maa ɡela he kpɔ ka sɔh la ba.","Ha bola, guru ji bro bul wa mbe jango. La yufritish muta ka po kriso ma gela ekpo ka sonla",0.8846,0.3924
+855,"Belaa o kpɔ paanoo ne daa nɔna ane aa hola dɛ ɛ nɔndel, dɛ ɡrepo daa nɔna aa hola nɔndel tɛ Israel haah ne baa te bɛlbwa.",Bila okpa anu ne da anu na a ne ahula the er nonder. The gripu da anu na ahula nonder te Izrel ha ne ba ti belu,0.963,0.4086
+856,Damaskɔs tena ne he di bona kwaa haa dɔa kohona la wa.,Tamasko tinyi igbo na kwa ha adighi akwu hu na,1.0,0.5476
+857,"ne Dan dea laa tena baa kpɔ ba te, dɛ́ ba yo laa, ba lɔ kaɡboŋa fifraanɛ dɛ banuatoro lafraanumɛl.","Ndi be Anyi ala tina, ba kpo okpati, debelu ala, balu ka gbuo nga, fifura ne, debelu nuo toru, lafura nnumelu.",1.05,0.5067
+858,"Korowii Bie Yeesu Kristo waa ɛ ya Dɔɔ la, o waa Amanesoma la ɛɛ baɡle.",Kedu ihe ga-esiri gị ike ịwa ₦1000? Ụwa a amaghị isi mala ebe aga.,1.0,0.6667
+859,"He bini tamaa kenii dɛɛ ba kae, anomanta, he ŋwɛnɛre ɛɛ chɔ pɛɛ.","Ibi ni tamaa kini i de ba kai. Anumanta, he nwere e chọpụ",0.8462,0.3265
+860,"Kɛ Adam ne Yeesu waa ta beŋkpoŋ ɛɛ, dɛkalkɛŋɔ chae Korowii aa na ya sum dɛ cha yaa la, a ne Adam wechɔɡa ta beŋkpoŋ ɛɛ.",Adam ni Yesu waka benkum e. De ka ken o chai krowia na Yesu de cha yala. Ani Adam wuchogata benkum e.,0.8846,0.3846
+861,"Kɛ dɛ ba maa dem la asɛ a habɔɔ sɔfo la ba nyiŋi dɛ na kɛŋɔ konfɔɔla la ta dii jo aa, wɛɛ ŋɔɔ doŋa toole o ta, dɛkalkɛ konfɔɔla la toole o ta kpa.",Kedu ka m ga-adị mma ma ọ bụrụ na ọ hapụrụ m bịa nyịnị? Na-akwụsịrịla taa dị ugbua. Kwee onwe gị nkwa na ị ga-anọgide na-agbalị.,0.9714,0.7706
+862,"Kɛ dɛ bihaahnee te naa, hé ɡel ó do le.",Kedu ihe ha na-etinye na ihe ịlụlụ?,1.0,0.6429
+863,"A habɔɔ baa chɛɡɛ kon la, sɔfo la ɛɛ nyiŋuu na ja.","Aha m bụ Baccara Chigozie Nna. Sọfụla, e nyere m",1.0,0.7027
+864,"Kooro Devid ne o laa tena kpoo nɛra baa soɡe kwaa aa do kɛ torɔɡore bini kaɡboŋa banuanɛ, ne laa tena kaɡboŋa fifraanaarɛ baa dɛ valɛ.",Koro diri na olileanya na pu na bazogekwa adu ga turu gori bini ka gbo nga banu ya ni leanya ka gbo nga fifura nare ba de,1.0385,0.486
+865,"Dɛ ŋwɛr la buɡ too waa, ásɛ sɔfo la ŋɔ o be ŋɔ doŋa bɛlbwa toole o nɛɛ kpa.","Ndeewo nna, biko nụa. A sị m na ọ fọdụrụ nnọọ obere ka ụmụaka a ịgbatụrụ ole na ole.",1.0,0.8727
+866,"Anomanta, korobinuanɛ tɔpera fi dɛ anue haa ba komɛ he kooni kondikwaa tonɛ la, hé di Kukure Tɔpejen nɔ tɔpera anuanɛ.",Ndi mmadu kpuru isi n'otu puku afọ iri na abụọ gara aga ekweghi ekwe na a tunyere ha dị ka kpuru isi dị n'otu puku afọ iri na abụọ,1.381,0.8
+867,"Nemenɛ Korowii ŋɔ, “Webele anaarɛ aa wola weree mɛɛ ba kpɔe ba tɛr Jerusalam tena deŋne.",Ndi mmadu kpuru obi nso wee bili anuri a ura wee na-ehi meba kwa ya batara Jerusalem tina,1.125,0.6143
+868,Belaa men Jeremia le Tɔfɛt bela Korowii aa tom mɛ n ka bol o waa la.,Bula ni Jeremiah le Topit bula kuroi a tumme nka bul uwala,0.9375,0.3654
+869,Dɛ Ɛsta fa ŋɔ o be ŋɔ Mɔdekae ɛ o lole tenten.,"Nke a bụ ihe a na-akpọ ụbọ nwanyị, ma ọ dị ka ihe olileanya.",1.1667,1.0
+870,"Ba ɡo yela silɛɛ ne kohona, dɛɛ lɔ janjela ne kalipere, ne kwaa anɛ ane baa kpɔ ayaawa ɛa dɛɛ hɛlɛ, dɛɛ yiiɡi loŋa ɡe Korowii sie.","Biko nye la si le ne ka o na-eche na ọ ga-adị mma na-eme ka anyị pụrụ. N'ikpeazụ, anyị ga-akpọ anyị awa ya na-eche na-eche na ọ ga-adị mma na-eme ka anyị pụrụ.",1.1852,0.76
+871,Ásɛ dɛ kpɔ jumbie o siwi aa lole la le ka ta kpɔɡ bini ó ir kaa.,"Asiri ka ojume osiwe alule, nali ka takpo bini u irika.",0.8824,0.383
+872,"O baa na kɛŋɔ ŋwɛr la yɛo waa, ó ŋɔ o be ŋɔ o kah doŋa.","Oba na-achị ha nwere ihe ọwa, onwe obengọ, ụka dị",1.0,0.6842
+873,Men Korowiirii bola.,proverbio bola,0.6667,0.5882
+874,"Dɛ kpoo nɛra baa wola wechɔɡa bɛlbwa ɛɛ, ba chale su bonɔ.",na pu na ba ula bu choga belu wa e bachali subu,1.0,0.4889
+875,"He dɛ nyin he nyuune dɛ chwa kaa bwɛɛre ta kaa sɔh aa, mɛɛ kpɔ weechɔɡaa ba ta he nɛ.","Ihe ndị a bụ ihe unu na-erite na nke a asaa. M ga-akpocha ha, kpata",1.0,0.6875
+876,Kɛ Juu tena la ta ba komɛlbwa kpɔe kaa.,Ke ju tinara ta ba komelụ akwụkwọ ka,0.7778,0.4333
+877,"O kpɔa do Arɔn ne o bibaala nɔɔra ta, asɛ ba ɡɔɔra nyundua dɛ viiɡa Korowii sie.","Kpa du aranne obi bara norata, aseba gora nundua de viga krowesia.",1.0,0.3226
+878,"Nyɔɡre kohona nomanta, ba teŋɔ naɡre Mosis waa bela.",na goro kohuna numanta batengon nagri moses uwa,1.0,0.4524
+879,"Haahna baa dɛ lɛ lol la aa ɛ ɡɛ nomanta, Korowii ɛɛ ba andɛɛɡa dɛ ɡel ba dɔ bii.",Ha na-abara La Lolla à égé númánta kuro wí ébé àndéga dégel badobi.,0.9474,0.4667
+880,"Korowii berɔ ŋɔ Mosis be ŋɔ, “Do Arɔn ne o bibaala kɛŋɔ ŋwɛnɛre aa chɔ le tɛ saraha kwaa baa dɛ fuah laanee nɔ.",Ruọ ibi rọ ngọ mụọ sị bụọ. Do arọ ni obi baara k'ịwa. Nwerịị achọ lite sịra ha kwa abali fụa laa n'ụlọ.,1.0,0.5059
+881,"Anomanta, kooro ɡbaɡba bonɔɔna baa lɔ o jwɛɛh la ba liire ne ŋɔ, “N Naa kooro, ɡel bá nyiŋi harɛre la bwa ta, dɛ́ nyin toli baa wera, baa wola baa jemɛ bwa tɛɛ.","Anụ m mnta k'oro gbagba bụ na ọ na-baalọ o jee laba liri nri n'ọnụ. Nna k'oro g'oba nnyịnị harala ilabata, d'enyịnị tori ba wera ba awula ba ajimị gba",0.9706,0.395
+882,"Anomanta, o ɡelɔ ba ba tɔne o kora dii waa aa lɔ a bini la ne bá kure tɛo.","Ndi mmanta, oge laa azụ, Tony Okoro dịwa arọ abịni, laa na ebe kwuru",1.0,0.5
+883,"O bibaala ɛ a chale la ba tɛo, asɛ o ɛ merɛ saraha kon la baŋne anaarɛ la bwa ta.",Obibala echalela batio aso emere siri ha kunla banre anari,1.0,0.35
+884,"Ásɛ o ŋɔ he be ŋɔ, ‘Maa heyaa jemɛ bobɛlbwa.","asụ m ya be ngwa, ma hie ya ji mụ wee gba. Bịa na ha ebe nwa ya nwụọ, ya na ịfapụ nụ ndị kwa. A sị na ha gburu wa abali ya ya bụ eka. A sị",3.8,2.5
+885,"Devid aa dɛ ba Siklaɡ la, Manasɛ dea laa tena pere ba te, dɛ ba ja o nɛ.","David Adedeji Adeleke, mana si di ala China pere bati, na-abia",0.9444,0.5
+886,Asɛ laa tena kaɡboŋa lafraanaarɛ kpoŋe tokobie.,"A sị na tịna ka gbuo gị, laa fụọ n'ala, ị hụ onye tokobiri.",1.8571,0.525
+887,"Gɛɛ ba lee ba dɛ kpɔ do ba nɔn ta, ba teŋɛ kaa jo Korowii Dea bela kaa ɛ toma, ɡɛ Korowii Israel tena aa dɛ tomɔ aa cheɡɛ ba nabaa Arɔn nɛɛ do ba la.",Ge balewa na kwo dubu ano nta batinge ka aju kuro wi di abula ka etuma ge kuro wi Israyeli tina de tumo achi ge ba naba aro ne de dubala,0.9722,0.4054
+888,"Nyɔɡre dɛ kpo Kooro Devid, asɛ o ŋɔ, “N dɛ nyin nomɛl fe aa kaa dɔ nee kɔlɔŋ waa chɔa bɛne Bɛtlɛham doonyojen la ta ba tɛ mɛ ń nyɔ!","Ya mere, Devid asịrị onwe ya, ""Ndị a ga-enumele ofufe a ka ọ dị n'ịkọlọng wa chụa be nị Betlehem, d'onwụ ji n'lata, ba teme",0.9333,0.5918
+889,"aŋwɛnɛ ta, ne kasinteŋ ne.",A gwanyeta m n'ikasi ntị ngwa ngwa.,1.4,0.7
+890,"Waa were dɛɛ su men Korowii siwi kɛ ń lɛo, o bobɛl aa di kirihiah la nomanta.",Gwa were desu me nkwo we si wi ka nlio. Ubu be a dikiri hiara nu manti,0.9412,0.339
+891,"Ó laa o noo la bwa kpɔ, ɡɛ baa dɛ ɛ deŋnesɔɔhna saraha kon noo la, ásɛ sɔfo la fuah saraha kon la ta a sɔɔh do som men Korowii be.","Unu lagba akpo, gebe adi ezigbo asiraha kunula. Ase sofulu fu asiraha kunula ta, aso do sumi nkoro",0.9355,0.5052
+892,"Anee bie la nahaah la ŋɔ Ijipt kooro bihaah la be ŋɔ, “Amɔ ń la ka yerɛ Hibru haah ó ba ɔro tɛɛ kɛɛ?",A na-ebialanụ ha na ngwụcha Egypt ka ọrụ bịara ha binwa. Ama m nke a yiri Hibru ha ụba ọrụ ọtụtụ.,0.9583,0.5811
+893,"Naate lawɛ pebal waa wola kirihiah bɛlbwa dii, o yoɡ do ɡɛ baa maɡa la dɛ́ kpɔ ka tɛ sɔfo la, ásɛ o kpɔ ka ɛ naate la bolchɔɡe dii saraha.","na-achilawa ebe a bu awula ka ihe a bu igbu adii. Onye udo ge ba ama ghara, na-ekpo kate sofula. A si ukwoka e na-ati na-aburu choro di Israel.",1.0,0.4904
+894,"” Israel tena baa cheme bela la bwa sɛh a ta, dɛkalkɛ dɛ a wer dɛ tɛ ba bwa.","Rachna bakimi bulala bua, sa'a ta da kal kade, awir da teba bua.",0.9444,0.4
+895,"Atai teŋɛ numɛl, Eliel teŋɛ nuanɛ.",Il y a un numéro. Il y a un numéro,1.6667,0.7778
+896,Mɛɛ tɛr naate waa dɛ ŋwɛɛ mɛ ɡɛ la deŋnee.,Maka na atụwa adịghị eme gị laa dịngịnị.,1.0,0.6562
+897,"A ɡɛ waa nɔ chiɡo aa, mɛɛ ɡeloo Israel tena do kpeɡri, ásɛ dɛ ɡel hen Ɛsekeɛl bol waa nomɛlbwa no, ásɛ ba jemɛ kɛŋɔ menee Korowii.","Aha wa n'uche gi a, na-egbu oge na-achina ndu kwegiri. A sị na Ezechiel bu wa nu mma gba nụ, a sịba gi meke nwọ, mini kụrụ wị.",1.037,0.65
+898,"Banee he muɡli n baah ŋɔ dɛ n ta ban lawɛ aa, haa n laa tena baa koah kohona la kondikwaa tɛ la.",Bana himmuli mbango de ntabanlawa ha nlatina bakwa kohuna la punikwa tela.,0.9565,0.3472
+899,"He dɔŋ Israel te soɡe he baah dɛ nya o ta suuɡa dɔe dɛ́ cha o te naa, hé chao kɛŋɔ haa cha hɔɔh he ne waa soɡa, ɡɛ aa ɛ ásɛ o ta won so he baah ta.",He don't is right He ban,0.9487,0.8762
+900,"Mmara la aa kpeɡri di he nɛɛ kpa kɛŋɔ haah jaa sewaa, waa wola toole hahmor Mmara lɔɡa kpa la.",Mara na ekwiri di ihe na kwake nu ha ja si wa wa wula toli ha muru mara loga kwa,1.0,0.4247
+901,"O berɔ kpo Ijipt te bɛl ɡe, dɛ o kpeɡo kɛrɛdɛ, o jaŋne ɛɛ ɛ naɡale anuanɛ ne tamaa.",Obodo a bu Egypt na Belgium. O kwegokwa err o jangiri ya na gali anuane n'itama.,0.8947,0.5645
+902,"Kɛ aa ɡeloo ba lii ba wechɔɡa baa ɛa, ásɛ ba laɡ ba laa ta.","ke, a gụrụ m be li, ma bụrụkwa na ọ bụ ya, ọ sị na ya agaghị agba laa taa.",1.2667,0.7674
+903,"Ɛ ɡɛ haa ŋɔa la, á che a ta he dɔ sɔn kohona saŋ bɛlbwa dɛɛ la.","Aka ha nwaala, achịata, ịdọsọnụ ka unu na saṅụ biriwa ndụ ebighị ebi.",1.0,0.7333
+904,Hadoram kpɔ suuɡaswɛm ne suuɡapoŋa dɛ ayaawa kwaa bwa soo siwi ba tɛ Kooro Devid.,"Adoram, possuía somente sugar pua, deiawa ko aboa soosiri bute koro debe.",1.0,0.4242
+905,"Pɛɛsea harɛ ne Midia harɛ laa nomonome, ne nomonome baa chɔ o harɛre bwa nyoo ne nomonjena balɔ.","Pịa ha na mgbasa ozi, ha ree laa n'ụmụ nwaanyị. N'ụmụ nwaanyị baa ọgaranya, ụmụ nwoke na-abịa.",1.0,0.6753
+906,"Hé berɛ kpɔ bombal ɛ wechɔɡa kpɔe dɛ kɛ saraha, dɛ́ kpɔ pebiiri anɛ bɛlbwa aa di benanyoa ɡe ɛ deŋnesɔɔhna saraha.",Hebrew bu akwụkwọ nsọ nke abụọ na Agba Nkọwa nke Ederede Nsọ.,1.0,0.7556
+907,"Ya bwaa Korowii ɛɛ ba lɛɛ kɛ nɛndɛɛɡa, ya waa su o siwi.",Ya bu akwụkwọ bụ nke Baleke na ndị ga. Ya bụ osisi,0.9231,0.5714
+908,Ásɛ dɛ fuɡe a kabora la ta o mun ta.,A si le fuge a cabra lata,0.9,0.5
+909,O berɔ yerɛ Arɔn naanar ne Lewi dea tena naanar bwa ɡe ja.,Aron na narnele widi atina na narba,1.0,0.4222
+910,"Ba dɔɔ pa le tonaa, sɔfo la chɛ kɛŋɔ ó la ka nyiŋi dem bela.","Ado palito na, sofula cheke wụ ụlọ ka anyị bịa",0.9333,0.5
+911,Mɛɛ ɡeloo ba dɔ ba nyubinikpeɡ baa ɛa la kembɔr kɛrɛdɛ.,"Mekere, ọbụrụ na ịbụrụkwa ihe a na-akpọ mkpụrụkè.",1.0,0.75
+912,"Kɛ tɔpenuanɛ wee la te, hé ɛo tɔpejen tɛ Korowii.",Kɛɛ tɔpi nuu anɛ wɛla tɛ. Ee yɔ tɔpi jɛntɛ kulo wi.,1.2,0.3947
+913,Ya Juu tena na som taeh dɛ ɡwaa nɛra baa kaa la ŋwɛnɛ bɛlbwa ta.,"Ya di gị na-anụ asịrị mgbe ụfọdụ, na-agba akara nwee na ekpere gị.",0.9333,0.7347
+914,"Kwaa haa koh dɛ́ para la, harɛ bɛl tenaa dɛɛ ba dɛ́ ba kpɔa kaa ka di, ásɛ a ka he ne tɔpere bɛlbwa wahala ne fiiɡa.","Kụa akụ dị iche iche na-adịghị mma, dị ka akụkụ dị iche iche nke ahụ mmadụ, na-egosi na onye ahụ nwere ike ịbụ onye na-arịa ọrịa.",1.0,0.9176
+915,"Ba ɡuɡri n sɛno la ba ne o chɔ, asɛ o sewɛ.","Ba gúgúrù ìnṣánọ́ lá, bá ni ó chọ́ asé osó.",0.9167,0.6
+916,Asɛ ba bwa pɛ la ka di kondikonjena la.,A sị na abụọ petla ka dịkọọ dịkọọ dị na ala. Ma adịghị ose nla ka ọrụ bụrụ ụha e stajanwa. Bọkọ ahụ enye nke mụ eteenụ. Halịharị ma adị dịkọọra,3.3333,2.9667
+917,Baɡle kon haa dɛ nyin ásɛ n ɛ tɛɛ.,Bà rồ con hờ đinh in a sờ in ế thề. Bờ la ếch tờ chăng uông. Nà. Đề hế siu à.,2.4444,1.76
+918,"Anee Sukot nomonome la ŋɔ, “He ta Seba ne Salmuna lawɛ mɔɔ.","A na-esukwa ya na mọrọmela nwa, ha taa sịba, na-esalu muna laa wee mụọ",1.1667,0.4889
+919,"He ne he bibaala kɛɛ bihaahna kɛɛ bonɔɔna, kɛɛ toli bɛlbwa bɛ toma ɛ.","Nne hi biara ka ebi ha na, ka ebu n'ona, ka etolibe ba betuma.",1.0,0.4259
+920,"Anomanta, ba ɡelɔ o berɛ ba Siklaɡ.",हनुमानता भाग्यलो ओबेरे बासीला,1.0,1.0
+921,"Chɔ he ɡal ta, ásɛ n kpɔ Israel tena wechɔɡa dawɛ he nɛ.",Chineke ga-enyere gị aka.,1.0,0.7619
+922,"Gedeɔn ŋɔ, “Ba ɛ n dɔɔranar ne nimanar, n ne ba pɛ nya.",गीव यंग बाए न्दोरा नार ने निमे नार ने बाफेन,1.0,1.0
+923,"Asɛ kontuuɡi damanta la baah di haah la nɛɛ kohona, o kpɔ ka tɔ haah la naanar baa kaa dɛɛ no Korowii Waa dɛɛ teŋɛ Yeesu danseɛ waa ba dɛ di la ta la nɛ.","A sị m gị na m talatala banyere ha na-ekohuna. Okpokatọ ha na-anarụ ba ka adị n'okporo wee iwa, dee tinye ya dị nsọ dance ewa ba dị dilatalana.",0.9714,0.453
+924,O ta ɡelɛ he so deŋnesɔɔhna ta he bwara sɔɔh heya aa?,Otagela hiso dingini so nata. He bora so hiya.,0.8333,0.4634
+925,"Umee dɛ́ won jemɛ kɛŋɔ nɛwɛnyina doma dɛ kaa nyundua, asɛ ola doma ɡe dɛɛ ka harɛ bini nɔ?","Onye mere onye meka nwa, onye nyere aduma dika anu ndu a, a si ura aduma gi dika ha na biri na",1.1579,0.5217
+926,"Ba fuh saraha kwaa tɛ voɡare ba ɡbabir kɛɛ ba naawa, kɛɛ Juda koranar ɡba aa wola an jemɛ bwa.","Bụrụ na afụsara akwa na ụlọ arụsị, ọ bụ gwa biri kee ba na awa, kee Juda kụrụ ala gba. A wụla a njem",1.1,0.5068
+927,"Ba yoɡ yadɛɛɡa a yoɡ aa kpeɡa tɛɛ, yakɔle ne kwaa baa sɔah, ne kondɛɛɡa baa kpɔa dɛɛ pa harɛ dea, ne jisedɛɛɡa dɛ ɡboɡbie.","Bayi o ya dega, ayo a tigace. Ya kole ni kwa ba aso, ni kun dega ba kwa de pa hajiya, ni ji se dega de goggo bi.",1.08,0.4787
+928,"Tɔpebɛl dɛ he bibaa bɔɔre ŋɔ ɛrɛɛ ɡɛ waa nɔ ɛɛ chaɡle aa, he ŋɔ, ‘Korowii kpeɡri ne o bokpeɡaa o kpɔ lawɛ yaa le somanjiri dii ta Ijipt harɛ.","Happy birthday, ebiba bu odinma. Ekele gi wa nu e chagli a. Hi nwa, kuru gi ikwe gi ni ubochi gi a ukpo nla we ya li, suma njiri di ita iji thara.",1.1,0.537
+929,"Kooro Devid aa no waa nɔ la, o boa Israel laa tena bwa nyoa, asɛ ba ɛɡɛ Jɔɔdan Moo le.","Koro David, a noo wa anolụ, ụgbọ Israel latara n'ogbanyụọ, aseba ege Jordan mụrụ",0.95,0.4375
+930,"Korowiirii lee mɛ dɛ ɡel n ɛ Yeesu torome, dɛ kpɔ o Amanesoma tɛ mɛ ŋɔ mɛ́ɛ bol nɛra be.",Kroiri le madagali Yesu tome da uwa manu sumata me bulu,1.0,0.5303
+931,"Gɛ ba yon kpɔ kiriso vɔwɛ chara la, ɡɛɛ n lawɛ Israel ne Juda tena vɔwɛ n te.",Gị na Yọna nọ Krisịọva wee chọrọ la. Gị na nna gị Izra na Juda tinapụọ nụ,0.9444,0.5517
+932,"Anɔ bwa habɔɔ la, Kooro Sɛksɛs berɔ ɛ kondikonjena la ane ja, dɛ yerɛ o koobwɛɛ Susa tena bwa, hale dɛ́ le nomonjena nɛɛ dɛ́ kaa dansaara bwa nɛ.",A na-agba ha boolu ka ọrụ siri dị na ndị kwụsịrị na-agba. Ha rịdere n'ụmụ nje na-adịghị ka nsara gbaa.,1.0,0.6486
+933,Ásɛ sɔfo la kpɔ noo la kabora aa lɔ o nɔn ta la do naate baa dɛ ba doŋa laa dɛ́ kpɔ o nɛɛ la nyu ta.,"E si chọfụta akụkụ nụ lakabụra aọ ụlọ nta la dị na-atị ebe a dị ebe a, ụlọ ha na-arekpọ ụlọ elenụ",0.963,0.5972
+934,"Nɛwɛnyini wechɔɡa ɡelɔ ba wili, ba ta liire dɔe kpa.",ni wuyiri wuchaka kilo bawiri bata lire,1.0,0.439
+935,Ba kpo Sobak waa chɔ ba laa tena nyoa la ɡe.,Bappu soba wa choo balaatina nyo'ala,1.0,0.2727
+936,"O ŋɔ n be ŋɔ, “Nɛwɛnyini bie, lɛ tɔn nɔ di dɛ vaɡɛ.","ya, asị ụkpọ tọọ nla teme ṅọ ndị. Ụwọ me ṅọ na e nyere be le tọọ nọ",1.3846,1.2571
+937,"He berɔ ɛ Yeesu Kristo waa ir seo ta la nɛra, ásɛ dɛ won ɛ Korowii toma, he waa dɔ tɔnɔ o be.",Ihe mere eji eji Kristo wa iru chi uta na nera asaa di un e krowi tuma hi wa do tunu,0.9565,0.5
+938,"Kɛ n dɛ nyin kɛŋɔ he ɛ wejerema wedɛɛɡa ɛɛ bɔr, asɛ dɛ ɛ nɛra haa wola wobɛlbwa jemɛ wechɔɡa ɛɛ be pera.","Ka nne anyi kano, ihe wijirima widega i gboro. A sede e nira ha wula wubele wa jime wichoga e bipiri.",1.0,0.5
+939,Sɔfo bɛlbwa waa leɡe a ɡɛ kon nɔ bɛlbwa la kah doŋa ka tel jɔmɔra.,"Chọfụta ma ịgba wa lere, aga ekwu nọọ be ịgba. Laka dị na Katel Jọmra",1.0,0.5686
+940,"Awola bɛl, Ijipt kooro la ŋɔ ba be ŋɔ, “Dɛ he dɛ lɛ Hibru haahna lol dɛ na kɛŋɔ bibaalaa yaa, hé kpoo ba, kɛ dɛ bihaahnaa tenaa, hé ɡel ba.","Afo na-abịa, ịjịkọrọ nla gị baa be gị. Na hịdịrị na Hịbrụ ha na lụrụ na nake gị bibaala ya, ha kpoo gị baa. Ke de bi ha na tị na, ha gịlị",1.0323,0.549
+941,"Dɛ kenii a do aa, dɛ ɛrɛ ɡwaalaa ya Juu tena ɡwaa he nɛra haa wola Juu tena ɛɛ yɔ?",decalé à droite de,1.0,0.8689
+942,"Bela haa sewɛ laanee n ɡee ba sewa, ásɛ ba huɡ mɛ bela.","Bala ha si wela ni nge ba si wa, a se ba hug me bala",1.0,0.3659
+943,"He waa mun noe jaŋne, a waa n kpɔ waa haa dɛ noa tɔpere bɛlbwa dɛɛ baɡle heyaa waa la.",Iwa mụ nwa onwe mụ jị anọrọ na-atụgharị uche na ihe a wa,1.0,0.7385
+944,Korowii Ne Nɛwɛnyina Fɔo Daka ne Jerusalam bala.,Prowin na wenyi na fog daka ni jorisa la mbala.,1.125,0.275
+945,"Aram ɡe aa ira la, o bibaala waa lol ba laanee.",ara m gi a irala obi baala wa lu ba laa ni,1.0,0.2286
+946,"Anee o ŋɔ nɛn waa kpɔɔ wɛɛ nyiŋi bodɛɛɡe waa du daa la ta la be ŋɔ, ‘Na, bene atoroo nɔ maa dɛ ba bonɔ dɛ baa nyin daa nɔ nɔna, kɛ maa ane dɔ.","Onye na-ewakpo wee nye iko latara be ya. Nna, biko turu unu ma ribanu, dika onye di anu na kee ma a na-",0.9714,0.5922
+947,"Yáa bil daa, ásɛ dɛ ka yoo ba ɡɛ daa la aa baɡla la.",Yoruba,1.0,0.8919
+948,Gɛ daa la ɛ Abeɛsa te baa dɛ yerɔ Joas kon.,Gadaala a abiyasa te ba da yi ro juwa,0.9091,0.4688
+949,Banyoo waa ɛ banyoola batoro la bwa nomoa laanee Hakmɔn te Jasobeam.,"Banyo wa e banyo la, ba toro la gboa no mu ala ni hakmon ti ja so bia.",1.4167,0.25
+950,"Dɛ Mmara la fe ta ŋɔe ŋɔ nɛwɛnyini bɛ ɡel o sie beɡre o dɔŋ kon aa, n fe aa jemɛ kɛŋɔ sibeɡra aa were.",,,
+951,"” Asɛ o tɛr o daŋɡbala laa lɔ o nɔn ta la pa harɛ la ta, asɛ Korowii ɡel peu bɛl le wee leebɔr, dɛ ta harɛ la ta awola tɔpere la ne o jwaana bwa.",A se o tara o damara laalo unon tala pahare lata. A se koro wi igel pio bale wele bor. De tahare lata agula topiri laane o juaane,0.9143,0.3113
+952,"Jerusalam tena, he wedoŋa la ɡelɔ he kah doŋa.",Jerusalem,1.0,0.7778
+953,"Uriel, o ɛ ba nyu te dɛ chɔ nɛra lafa fifraanɛ nyoa.",O e ba nyu te na cho nera lafa fifura na nyu.,0.6667,0.3846
+954,"A do ɡoroŋ kɛrɛdɛ kɛŋɔ wechɔɡa kpɔe dɛ kɛ saraha, ne bolchɔɡe dii saraha ken.","Adogrom kerede kenwa, icho ka kpee ya deke siri ha. Nne bu choghi di ya siri ha ka",1.2,0.541
+955,"Dɛ he dɔŋ ɛɛ wechɔɡa aa, kpɔ kɛo kɛŋɔ Korowii aa koh Yeesu Kristo waa dɛ kpɔ he wechɔɡa kɛ heyaa la.","na hidim anyi chọga pọkị ya aka nọ kụrụ ya akụ, Jisọs Kraistụ wa na pọ ihe bị chọga ke hịala.",1.0,0.6234
+956,Wɛɛ berɔɔ kpɔ serewe weela haa naa Ijipt harɛ ta ka laanee ba ta he nɛɛ he chah kahonɛ.,"Mebroko, siruwila ana Egypt hareta kala ni bata ine icha ka hune.",0.9474,0.4853
+957,Asɛ Ussa ne Ahio ɛɛ baɡla bela aa kpɔ.,"Aze usa ne ahyew, ebagle bela a",0.7778,0.4483
+958,O ŋɔ nɛra baa cheme bela la bɛlbwa nyɔ sen la ɡɛ del waa won nyɔ.,Onwero onye na-abachem embelala belu bu anya si na gi di wa onye.,1.0,0.5306
+959,He bɛ ɡel komɛlbwa iisi aa lɔ o ta do he be.,Ihe a ga-ekwu megide isi a arọ ụtá dịghị,1.0,0.6875
+960,"Kooro haah berɔ yerɛ baa bɛl baa fɔɡɛ o lur baa yerɔ Hatak, kooro aa leo wɛɛ nyiŋi o nɛɛ la, dɛ doo ŋɔ ó ka bɔɔ Mɔdekae waa aa bala wɛɛ wi.","Koro ha biri na ba belu ba foke, olulu ba iro hata koro alili we nyi onela. De du nwo uka bu mu di ka iwa abala we",0.9697,0.4904
+961,"Korowii Ne Nɛwɛnyina Fɔo Daka la cheɡɛ Ɔbɛd Edom dem korobie atoro, asɛ Korowii swee o ne o dem tena ne komɛlbwa waa dɔa andɛɛɡa.","Kụrụọ n'ime na-ewenye na afọ ọdịnala, chịgị obed ịdị omimi kụrụọ bịa atụrụ. A sị kụrụọ wee sụọ onye ụdị mị tịna nịkụọ m'elụba wa adụa andịga.",1.08,0.534
+962,"Anee Korowii ŋɔ n be ŋɔ, “Ka bol ɡɛ waa nɔ bwa Juda bwɛjena ta, ne Jerusalam fɔɡbaahna.","Anyi kwere na ịngọ ịngọ, ka bụrụ ge wa nụ gba, Judah gbe ịje nata n'Jerusalem fụ gba na.",1.0556,0.5152
+963,"Anomanta, Korowii berɛ ba.",,,
+964,"Tɔpere waa tɔ sie la ɛ Ona Tɔpere, asɛ tɔpenuatoro la ɡe, hé onɛ o ta.","Tọpịrụ a tụọ sịla ụlọ tapịrị. Asị tọpị nụ a tụrụla gị, hị ụlọ ụta.",1.0,0.5577
+965,"A ɡɛ benanyoa la ta la, a chɛ kɛ naate berɛ harɛ la tɛ kon te waa yawa dɛ le o be la.",Aka b'na nya ala tala. Aka k'na te b're haralate kunte wa ya wo deli ubele.,1.0,0.3279
+966,"Ate, Susa bwɛjen ta bela, dɛ Juu te bɛl lole baa yerɔ Mɔdekae.",A tisụsa be ya na taa bụla. Na Juu tịbelụ lụlị baa ya ụrọ ma dịka,1.1538,0.4681
+967,"Kooro Devid ne Israel tena bwa kpɔ ba te kaa Jerusalam, dɛ ba fa dɛ yerɔ Jebus, dɛ ka yo Jebus tena baa soɡe bela, Jebus tena la ŋɔ Kooro Devid be ŋɔ, “Haa won ba ya be bonɔ.","Koro David nee ije na agwa koba take Jerusalem, na bafada yiro Jebus, deka yo Jebus tina ba sogi bera. Jebus tina la nwa koro David benwa, ha wu mba ya bu",0.8462,0.3385
+968,"Dɛ nɛn waa baɡɛ nyoa la ɛ nomɛl waa wola won dɔ suuɡa dɛ́ bɔ ɡɛ baa teŋa bil nɔ naa, ó lawɛ o nɛn la ba sɔfo sie, ásɛ o nyiŋi suuɡa aa chɛ kɛ ó bɔ la ta tɛo ó bɔ.",Nne m nwanyị abaghị nwaala enume wa wụrụ ndụ sụga. Debọge bụ atị na abịlị na na ụla wụrụ nne m laba sọfụsị ya. Ase ụnyị sụga achake ụbọ latatịọ ụbọ,1.0,0.5862
+969,A balɔ warɛ dɛ tɔ harɛ la sie bwa o bir ken.,"Aba na-ewara da tohari la si igba, obiri ke",0.9167,0.375
+970,ne Korowii Waa baa bola la ta dɛ pɔ o nɛ.,na krowi wa ba bula lata de poba,1.0,0.3333
+971,"Sɔfore la ta chɛ kɛ bá kpɔ doŋa kah Israel tena saraha aa do ɡoroŋ ba kpɔ ba ɛ saraha dɛɛ tɛ mɛ la, dɛ́ ɡel nɛra baa wola ŋwɛnɛ dɔe kɛ ba dia la di.",Sọfụrịla taa chọọ ka e bakwuru ndị aka Israel tịna sịrị ha adịghị gịrịgịrị. Bakwuo baa sịrị ha na etemela. Deegilị nara baa gwara ha na ndụ e kebe dị ala dị,0.9722,0.5636
+972,"Korowii berɔ bol waa men Jeremia be ŋɔ, “Ir dɛ́ la vimamaa dem, belaa mɛɛ ba n bol waa he be.","Kwarai kuwa, wani miji ne ya bi mace, ya ce da laifin mama din, ba me ba mbulu wa hibi.",0.9524,0.6618
+973,"Hé laa he te kpɔ wechɔɡa bɛlbwa ta, dɛ́ dɔ bambidɛɛɡe ne liifala dɛɛ teŋɛ n waa ta.","E le anya na ekpo, uzo ga-abara gi na-iri ifala, na-etinye unwuata.",1.0,0.6984
+974,"Korowii ŋɔ Mosis be ŋɔ, “Tɛr he nɔn pa Ijipt harɛ ta, ásɛ tontombɛ fuɡe le dɛ́ ba di koo kwaa aa kaa ne komɛlbwa dombwea la aa wola wone chɔɡ la.","Kedu ihe m ga-eme ozi be nga? Tara ihe na-empa ha iji tara taa. A sị na ntị tụọ mụ fụgele, debe diba ka o kwuo a ka a nụ, ka m mee gba ndọmgbịara ọsọ wee na-chọgide.",1.1562,0.6881
+975,"Dɛ he tel belaa, kpɔ daŋɡbala la lɔ bwe la, nee ɛɛ le o taa ba, ásɛ nɛra la dɔ nyɔ.","Tupu ya etinye aka, ọ ga-nwere ala lụọ gị na nne ya eruo taa baa, a sị na ọ na-alụ ọdọ.",1.0,0.7119
+976,"Maa teŋo ta o sewɛ kaa lalabwɛɛ la, n ɡelɔ ɔmee chole harɛre nɛra nɛ, o sii waa sia la wa.","Ma chi nweta, o si wee kaa lala gba ya la. Ngbe o mee ichiri, ha riri nri na, o si wa ya la.",0.9524,0.4925
+977,"Adar korobie tɔpera fi dɛ atoro weeree tɔpere kooro aa do mmara ŋɔ, Júu tena pɛ nyoa dɛ́ yo ba dɔma.","Nwaada kporo ihe topuara ihe di aturu wee rie topiri koro atu mmara nwa. Juo uti na-ape, nwaada yo bado",0.9524,0.4935
+978,Mɛɛ chɔɡ he bwɛjena bwaa a berɛ dimɡbia dɛ́ chɔ pɛɛ.,"Nnechọ, ịbụ ejima gbaa, abịrị ejima bịa, dechọpụ.",1.0,0.575
+979,maɡrɔ kɛrɛdɛ!,Mogya kyerɛde. Kasa nteɛ. Na woyiyi nti a binim agyime. Korowia tere badengene. Ba ne,7.5,5.4545
+980,"Nomonnyuune fi dɛ banumɛl le Eliasa naanar bini, asɛ banuatoro ɡe le Itama naanar bini.",numunyu nefi debanu mel li eliasa na naru bini ase banu atoroge le itama na naru bini,0.8,0.1831
+981,Nɛra ɛɛ dɛɛ dooɡe lɔŋɔree dɛɛ wi kohona harɛ la ta a dɔŋa aa wola chiɡ bwa.,na adighi eri nri di nwayo na-eri ya ngwa ngwa. Ha na-ata adonwa a na-akpo,1.0,0.8103
+982,"Hɛɛ berɛ a nee bɛlbwa kpɔe dɛ́ chɔŋɛ a ta, he ɔmɛ Korowii ásɛ o won so he baah ta.","Ha bụrụ na ị bụrọkwa onye na-achọghị ata, gịnị mere i ji kwuo sị na ụmụ nsị bụ ihe a na-ata?",1.05,0.8
+983,"Anomanta, le fini dɛɛ kaa, daa waa cheɡɛ bela nee aa lole kohona bɛlbwa aa kpeɡ dɛ́ ka tel baama ta kpa.",Anmanta naifin deka da wa chigibla ni aluli kununa bilbo a kpe dikatil ba amata,1.0,0.4051
+984,Asɛ bie la nahaah ka che sie tama dɛɛ nyiŋi waa aa chiɡ bie la nɛ.,"A si biara na ha kachie, si ya tamaa de nyinye wa a chik biara na",1.0,0.4
+985,"Hwɛɡa yaa dɔa nɔ, aa pɛɛ ɛ, dɛkalkɛŋɔ Korowii tɛ yaa o Domadɛɛɡe la ásɛ ya jemɛ o nyina waa dɛ nyin yaa kohona.","Onye na-ahụ maka nchekwa kwuru na ya udumiri gara aga, ya ji me unyị na-adịghị ya ọcha.",0.9583,0.6941
+986,"Baa lawɛ yaa laa ta kaa bojaŋ harɛfale ta bene fi dɛ anɛ, korobie fi dɛ anɛ, tɔpere waa tɔ sie ta la, Korowii bol waa men Ɛsekeɛl be ŋɔ, “Nɛwɛnyini bie, kpɔ wiile ŋɔ Ijipt kooro be ŋɔ.","Bịa laa wee ya laa, taa ka, gụọ jáá harị falịta. Bịrị fịdị anọ, kụrọ bịa fịdị anọ, tọpịrị wa atọ si ya tala. Kụrọ ya bụrụ wa mụ in Ezeọkịabe nwọ, na eweghị nị bịa, kụrọ ya ịlụ wa ịjịdị kụrọ bịa",1.0769,0.5755
+987,” Asɛ Naomi lɛ bie la dɛɛ nyiŋu.,"m ga-alọta na mgbede, ị ga-alọta? bịa bịa laa chaị nwa m ga-abụ mgbede a ị ga-alọta",2.4286,2.3043
+988,"Belaa Korowii chaŋ ba ŋɔ, “Juda dea tenaa dɛ́ tɔ sie ka yo.","Bila krowi chang bango, Juda diatina detosie kayo. Tora pira chola, Israeltina iro deka bangre batente dene bene gibia. Depo bati deka",1.6923,1.907
+989,"Hɛɛ ba dɔ bibaa bɛlee, o ɛ nɛn waa dɛ nyin deŋnesɔɔhna, mɛɛ ɡeloo o dɔ bosɔɔhna le o dɔma bwa nɛ.","Heba do biba bele, o enen wa de nyin degeni so na. Me glo udo bu so na le, do ma gba ne",1.0,0.4384
+990,"Israel tena, he bwa aa chema nɔ, hé bol a waa dɛ́ baɡle ɡɛ aa chɛ kɛ yá ɛ.",Ihe na-adịghị mma n'ihe gbasara ụmụ nwanyị bụ na ọtụtụ n'ime ha na-enwe nsogbu na-adịghị mma n'oge ime na mgbe a mụsịrị nwa.,1.2105,1.4423
+991,"Asɛ o ŋɔ, “Korowii ɛɛ la ane bojaŋ kɛŋɔ ń nyɔ nee nɔ.","a sị ya ṅụọ, ọ ruo ya là na ebunye ya nke ṅụọ, ṅụọ na-elụ.",1.1538,0.8421
+992,Nahat ne Sɛra ne Samaa dɛ Misa tena.,na hat ne sera ne sama de,0.875,0.3571
+993,Tɔpera lafraatoro fifraanuanaarɛɛ hɛɛ ba Israel tena wechɔɡa cheɡa.,"Topra lafratoro, ife na-nụ anaghị eba ịra Chineke wuchoga",1.0,0.4828
+994,Korowii le nyundua torome bɛl dɛ tɛo kpeɡri ŋɔ ó ba chɔɡ Jerusalam.,"Krowiere nundwa torme dal, detio kweri nwo ubacho Jerusalem.",1.0,0.3519
+995,"Dɛ nomɛlbwa jo waa maa do ba ŋɔ ba bɛ ɛ la bini bɛlbwa ta hale dɛ o ta nae yaa, dɛ o di bolchɔɡe dɛ chɛ deŋnetɛra.","Nimegbo jowa ma duba nwa, babe e la bini be igbata. Hari de otane ya de odibo chori de chedi tere.",0.9286,0.4353
+996,"Korowii dɛ nyin kɛŋɔ ya lawɛ kasinteŋ la bini kɛrɛdɛ dɛɛ bola dɔŋa be nɛnnyin ne, ásɛ ya won kpeɡ kɛrɛdɛ dɛ́ do ɡɛ Yeesu Kristo aa doa.","Kowiri nyi kano, yala we ka sinte labini karra da bula donga be ne nyinne. Asa ya wonpe karra da duga Yesu Kristo adua.",0.8929,0.3619
+997,"Maali ɡe bibaala, Eliasa ne Kes, kɛ Eliasa ta bibaala lolɛ.",Mali ke bibala. Elias anikez. Ke Elias ata bibala,1.0,0.2391
+998,"Anomanta, men Nemenɛ Korowii, n ŋwɛɛrɔ kɛŋɔ n taa lole nɔ, mɛɛ bɔ heyaa kemee he bandia ne meera, dɛ haeh haa hah n nɛra la wa.","Nmancha, m nimeghi kuro wi, m nwere oke nwa nta luru nọ. M gbohi ya akimi, ibe ya n'mira. The ha nyere m ahụ nnira lawa.",1.0,0.5417
+999,"Sɛt ir dɛ lolɛ Enɔs, Enɔs ɡe ir dɛ lolɛ Kenan.",set iridalo le inos inos ge iridalo le kina,1.0,0.4118
