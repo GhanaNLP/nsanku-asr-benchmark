@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Kɔraawiizi kaa ŋɔ, “Gil kunnyinee lii su a nii biini, zumbizi ge ni a dizi su chiŋ, di zaah ra bar.","Kora beze kanwo, gile kunyine lisu ana ibine, zunbi zige ne adizisu cin de zanraba.",1.0,0.3243
+1,"N na suŋŋuubuu ií ni Kɔraawiizi biinanaa la maa wer zum Kristo nɔŋŋaa la, gunla un duwɛɛ, u kanni, u wassi ani u luŋzi maa.","Nna so ngọzi bụ ị na-ekora anyị isi bịa na-ala ma were ndụ Kraịst nọrọ na ala gị na ndụ wee, ụka nne, ụwase, na olileanya.",1.04,0.5474
+2,"Anaazu chi a dia biini, anaazu ge chi baŋgia, bɔr la baŋ ɔɔ ra kpu mbusu lizaa sela la.",An zuke adia bi ne. An zuke ki bangia.,1.0,0.6667
+3,Nabɔma maa dɔɔ u nabɔmaa u ra guuu.,na boma do una boma oragu,1.0,0.4074
+4,"Di i kuu i duma wia di duu winanaa, i daŋ kum miibɔɔ la n waa tunaa dɔɔwɛ lii Kɔraawiizi Duma la be.","Beko idumabe a di duwi nna na, idan ko mibo na nwa tu na dobe di le koro we idumabe.",0.9565,0.4474
+5,Harar hinuu Saraa biibaal Ahiam.,Harahe no sara bibal,1.0,0.4444
+6,"A kora n faa wa du u nonee chigigi, u kpu nabɔnzi la maa n kpu u mɛɛ labuu.","akwụkwọ m fa wado ọnụ na echiche gị, okpo na bọnzịla maa, nkpọ omimi la bụ",0.9474,0.4727
+7,"Ií kpa dɔnnɔŋŋaa di ra hum dɔŋa, dikuubɛɛwiai, Gbɔgni la maa du widaulikpaŋ biinii.",Ihe kpatara na m adighi ahu ndonga dika obere anyi ka izi na m adighi kwa kwa nne na nna,1.4286,0.7164
+8,"Ba faa ma Kɔraawiizi Dia hinnɛ tuŋ, baagu la banna yir Adar la hɔpizaa ahorohiŋ hɔl, Dariɔs kora dii binni anumbɛlhiŋ biini.",Bafana koro ja hinna tun. Bagula banayir adar. La hopida ahuru hin hol. Daaloshkora di beni anumbel hin biini.,0.9091,0.32
+9,A hɔpizaa anumbɛl hinnɛ guŋ.,wopisa anumberehinnago,1.0,0.4783
+10,"I lɛɛ yaabuu lii tɔɔrɔɔ biini, di gil yaa na bɔchaaŋ.",Ele ya boli toro bine. Dege ya na bochan,0.9091,0.4878
+11,"Yaa hummɔɔ saŋa maa di kuuh werge, ya gilɛɛ waa tɔɔri ia dikuu diwee wia.",Ya ho moso ngama de kun werge ya gele wa tore ya diku diwe,0.8667,0.4386
+12,"Denii u ŋɔ Taama be, “Kpa a paanuu di zuu n be wa tɛŋ.",dị na onwa taa ma be kwa afa na-ụdị ụbọchị,1.0,0.5789
+13,"Koorizeŋ Dariɔs n jaa dau a keŋ widaulii la, denii Muu Yufretis wiicholii paga hɛri hina nabɔma Tatɛnai, Sɛtar Bɔzɛnai ani ba balaa la maa jaa hiŋ u nua la nɛnnɛ.","Kozindálo, injálo aké mwi dáli na. Deni muyi fletis wi choli paka here hina na boma. Teta nai, teta boznai ane kbabala la ma ja hin unu ala nene.",0.9677,0.3643
+14,"Aŋhinabe, Kɔraawiizi baaŋ daŋ sɔɔni, ú suŋ yaa ni, wàá ka kpu yaa.","Anya na be kọrọde bandan sọọne, usu ya ni wa ka kpọ ya.",0.8462,0.44
+15,"Hɔnnaabuu Koorizeŋ Aatazɛgzis faa sɛbi tɛɛ Kɔraawiizi kizeehiŋ Ɛzra, n faa ɛɛ bagli, di zum Kɔraawiizi widaulaa ni u Gbɔgni ŋmɛnizi la uŋ kpawɛɛ tɛɛ Izrɛl hina la.",Ọnwa abụọ gara aga ka ndị isi ụlọ ọrụ ụgbọ elu nke Nigeria kwuru na ha ga-amalite ịzụta mmanụ ụgbọ elu na mba ọzọ.,1.0,0.7895
+16,"A saŋa hiŋ, di Koori Deevid faa du diikpeg biini, ka Filisti laallɔɔra suge bɛl wa chɔɔ Bɛtlihɛm.","Asahen, de kɔ David fado de Bethlehem, ka frɛɛse la nɔra fuge Belwa, to Bethlehem.",0.9444,0.5584
+17,"Huram faa kaa kuari viini, sɔɔbulzi ani kuna mizaa tassazi.",Haram faka kwara vine sobulu ze ana ekuna meza tasazi,1.0,0.3333
+18,"Kɔraawiizi kizeehina kalfa ni tokko, faa jaa ba ni di ra huuh bensunozi.",Koraa wizi kizee hinakalfani tukko faajaabani dirahu binsunoo,1.0,0.1379
+19,"Awia, ii gilɛɛ waa kpa ii biihaana di ra tɛɛ ba biibaala gɛɛ di waa kpa ba biihaana di ra tɛɛ ii biibaala.",Ihe a bu akpa eji ha na-ere tiya na-ere biya. Nke a bu akpa eji ha na-ere tiya na-ere biya.,1.0,0.6829
+20,"Kɔraawiizi kissi baa di ŋɔ, “Ií lul su a hɛri maa, di ra binni u ni.","Koraa bisi k'isi baa d'enwa, ilil su aherma, dera benne",0.9375,0.3878
+21,"Denii ba faa bargi Kɔraawiizi kizeehina ni Levi dee la di du sugezi, bá ra hum ba huma Kɔraawiizi Dia la n du Jɛrusalɛm la biini, gunla baŋ sɛbɛɛ Moosis hɔŋ biini la.",De ni ba fa ba ga korodi ki ze hinala ne liba di la di du suge ze. Bara hum ba huma korodi di ala ndu Jerusalam la bini. Gu la ba fa se be Moses hon bini,0.9394,0.3359
+22,"Ka n na suŋŋi Kɔraawiizii ií wer zumuu nɛnnɛ, di wer dɔɔ Kɔraawiizi himmaa ii biine werge maa di wa tuŋ.",ka nna gi nwere zoba nwanne di nwere do kora gi zi ihe ma ibe gi na nwere gi ma di,0.9524,0.6098
+23,"Ahitɔfɛl ŋɔ Absalɔm be, “Gil n lizi baala kagboŋa fidaanɛɛ, di duŋŋi Koori Deevid luge hamuŋa naa.",,,
+24,Netan biibaal Igal n lii Zoba.,"Né t'en bé ba, égal né",1.0,0.5833
+25,I ɔɔ vɛɛ banla maa n waa i Gbɔgni ra hiŋ labuu ta.,Onye bụ ezigbo onye na-eme ihe n'eziokwu?,1.0,0.9189
+26,"U faa gillɔɔ nɛra la n zum huma nɛnnɛ, kuari kuna la n wette di ra taazi hobee ni bizenaa, di hɔŋzi Jɛrusalɛm diijaŋra ni a koŋlii siraa ni.",Jerusalem,1.0,0.9358
+27,"Ka banla maa n kawɛɛ la waa, bá ra hiŋ gunla Kɔraawiizi n tɛɛ baa la.","Kaban la ma, nka wela wa. Barahengu nla kora weze nteba",0.9375,0.3077
+28,"Awia, n daŋ kpu ia di turgi a kim, ii wia tuŋ hɛri naa biini!","Iwe, ndankwọ ya di tụrụ gị aka m. Iwe tọrọ na",0.9333,0.5682
+29,Ba faa bir kpo bol ani baaŋfuuih werge.,Bafa Biripo bol ane banfui were,0.875,0.2581
+30,"Waabuu ba faa ra tɔgzi werge kaali Laallɔkpega Tokko Ni Kpɔrgɔ la bɛl maa, ka u faa waa Laallɔkpega Bahoro La ni jaawɛ.","Wabo, wa fara tauri wuri ga kale la lokwiga toku nekwargo la belma. Ka ufa wa la lokwiga ba huri la",0.913,0.4421
+31,"Ka banla n na tɔɔri ia lawaa, Kɔraawiizi daŋ turgi baa a kim.","Kafin na tura 'ya lawa, kwarai zai tura gaba ake",0.9231,0.4894
+32,"Ií ɔɔ du a koori be, bɔr la maa unna la.","Odo akwụkwọ be, bọrọ mma, ọnụ ala",0.9091,0.5714
+33,"Hɔbaaya, Hakɔz ani Bazilai naanna.","Habaya, hakos, anebazila",1.0,0.4286
+34,"Denii Kɔraawiizi kaa ŋɔ, “Gil kunnyinee maa ni a dizi lii su hɛri, kundɛɛzaa, kuntuuzaa ani pir sela ni a dizi maa.","Ndi ni korabeze kawo, gele ku nyine maane adizili isu here, konde za, kuntusa ani prisela ne adizima.",0.9545,0.3371
+35,"Amɔ, huma la miŋ hummɛ ii be la, pɛɛpɛɛrɛ n humaawaa?","A ma mụ ma na mụ mee ibe la, peepeere mụ ma wa.",1.0909,0.525
+36,N faa kaa chaali saliŋhuŋŋa ani saliŋ lii hɛssi la miŋ faa ra di kora a ni la daama kuna dauribɔra.,Mifara cala salan hunga ana salan li hesila mifara dicora anila dama kuna daura bora,1.0,0.3077
+37,"Di Kɔraawiizi tɛɛ nɛr daama, di gil u ra di a suma, a dɛkkɔɔ ú ra tɛu jaaŋ ka ra di kuna la uŋ kuuhwɛ na la.","D'accord, visite N'Djamena, Deguéla, Ouradi, Assouma. Adéko, Ouratew-Jean, Kara Dikouala, N'Kouménala.",1.0,0.4937
+38,Yaa ni ii maanii niŋ na heezaa u be saŋa la un niŋ gil ya na yaa Dɔɔri Yeesu Kristo la n niŋ lii chiŋ ni u mɛlikakpega ni ninlau ba la.,Ya na-eme nani n'ihe za ube. Sọọsọ ọ n'onwe ya ka a na-adịri Jisọs Kraist na-onwe nli chi nne omalịka pụrụ ịdị na-ala.,0.9688,0.5631
+39,"Ɛrɛɛ á du tɛɛ nɛchɔgaa la n kpu nɛr la n waa wiimaa ɛɛwɛ, ka chɔɔ u dia biini, ba ga kpuuwɛi?",Ere adighi ya na choga ala nkpu na ala nwaanyi na na ewe. Ka choo udi abini baka puwe.,0.9545,0.4058
+40,"Ba kaa sɛbi u wiɛɛlaa la maa uŋ kpa u fɔŋŋa ni u zenni ɛɛ, ni gunla maa un lalli Mɔdɛkai chiŋ di tɛu nabɔmuu.","Maka sị na uwe ị na-ala ma, ụnkwá ụfọdụ n'ụzọ e nị gị na ma, ụnla nị mmadụ ka ị chọrọ ị tewụ na bọmụ.",1.0,0.5783
+41,Ka faa gil ba sii kali Juda ni Jɛrusalɛm hina maa lugɔ bá ba di wa turgi lampoo la Kɔraawiizi balii Moosis n faa dauwɛ hɛribɔduma biini la tɛɛ Kɔraawiizi.,"Ka fa ga, b'a si ka le Juda na Jerusalem hi na mma, lụgọ ba ba di wa turu gi la mpụla. Kọra wụ ze ba li Moses nfa da we heri bọ dọ ma bi ni? La te kọra wụ ze",1.1,0.2903
+42,"N hɔpizaa tunnɔɔ, n jinazi maa bir pɛɛ.",वापस आ तू ना। इंजिन आ जो मारो फिर।,1.125,1.0
+43,"Koori Uzzia binni faa du fidaanumbɛl, ka u di a kora, di so Jɛrusalɛm biini, binni tokkoanɛɛ ni fidaanɛɛ.",Kụọrụ Uzia benne fa dofida nụ mbal ka ụdi akụra dị so Jerusalem bịni benne tukwani nifida,0.9474,0.3494
+44,"A hɔl bɛl Jonadab pɛɛzuu, “Hiŋ ɛɛ koori biibaal, ka ɛrɛɛ wiarɛ i biini ɔɔ ra chɔgi hɔpizi biimaa kennei?","Ahoọlụ be ndị na-apịa eze, ị ekoro bịa baa, ka eree wịara ị bịa na-ọra chọga, hopụzị bịa ma kee",0.95,0.5679
+45,"Yaa ra ŋɔ nɛra naa benii ani yaa Dɔɔri Yeesu Kristo sɔŋ, dí ba ra hum ba himmaa huma bɔɔiih, di ra di ba himmaa kuuhni biini.","Yaran gwamna na Bini ana iya dori Yesu Kristi song, dibar hum kpahim ma hum abwony dere diba him ma ku uni biyi.",0.963,0.3542
+46,"Banla maa n ninna hiŋ gunla miŋ baglɛɛ ani banla maa n ɛɛ Kɔraawiizi nɛra di ɛɛ Jus hina himmaa la, Kɔ́raawiizi tɛɛ baa bampirsɔna di suŋ ba ni.","Balla Gaye 2 et Modou Lô, Balla Gaye 2 a été impressionné par le combat de",1.0,0.7965
+47,"Ba nfɛrɛ tɛɛ baa lugɔ guŋ waa deŋlee ka ba ra ɛɛ guŋ, di wer dar Banabas gba, u ni baa maa ra ɛɛ guŋ.",Bamidele bụ onye na-alụ ọgụ nwaanyị dịrị ya ka bara ego ndi nwere darba na Basugba. Ọ na-abụ a mara ego,0.96,0.5676
+48,"Di i ra nyiŋŋii, di haa nyiŋŋii, ka i danna hiŋaa.","Ihe anyị niile, ihe anyị niile, ka anyị danahịga.",0.9091,0.5946
+49,"Koori Amɔn binni faa du tokko ni anɛɛ, ka u di a kora, di so Jɛrusalɛm biini, binni anɛɛ.","Ọ́ rụ́ á mọ̀n, bẹ́nnẹ́ fá dọ̀ tọ́kọ̀ nẹ́ àní kà údi ákùrà dí sọ̀ Jẹ́rúsalẹ́m̀ bí nẹ́ bẹ́nnẹ́ àní.",1.0526,0.5373
+50,"Di u gillɔɔ i ɛɛ i dɔŋahina balii, a hum baa di ra hiini baa.","Oge ọ bụla ịdị na-abịa, ịrághị mba dịrị gị na be gị.",1.0,0.7333
+51,Di zɛuzi abɛ daazi ni yɔlɔzi dau a ni.,dawo abunda ne yolo dawo,1.0,0.6897
+52,"Awia, n de dui faa waa kaa wa dɔɔ zɛɛ tɛŋ, dikuubɛɛwiai, wan tɛɛwɛ kummaa, di tɔɔrɔɔ bɛŋ lɛi.","Wabiya, nda du ifa wa ka wado zeten, de ko be wabiya, wante wa kumma de toro benle.",1.0,0.5
+53,"A tuna maa, koori wàá wer ɛɛ wiimaa.","A tunama, ko re wa wir e wi ma.",1.0,0.3333
+54,"Ka filaŋkeŋ, u ŋɔ ń pilli gunla un dawuu ni u ŋmɛnizi, tɛɛ nɛra bá zum.",Kedu ihe mere na o nweghi mpelegu na undawu na-eme na zite ya na-abazo?,1.0,0.6604
+55,"Banla ge n faa hiinuu a bola biine, di ra bɔnni a kunaa faa, Ɛdɛn, Miniamin, Jesua, Sɛmaaya, Amaria ani Sɛkania.","N'alaga, m fahinu. Abula biine. Dira boni akuna fa Eden, Miniamin, Jesua, Semaya, Amaria, ani Sekania.",0.7619,0.2
+56,"De jaŋzi faa du nogumzi tokko, u wassi ge ɛɛ guŋ.","De jangze fa do nogum zi tuku, uwa si ge egung",0.9091,0.3514
+57,"“N Dɔɔri Kɔraawiizi la minna hum, hiihzi lawimbuu werge maa, n ŋmaabi.",Ndooro ko raji laamii naahu. Hiɗe laamu wurgema nma,1.0,0.4909
+58,Denii n jaa wer ŋɔ wia tɛɛ banla n na chagziŋ la.,"Jenie, m jaa wuri nwanyi a tee, biko na-chaghachim la.",0.8333,0.5676
+59,"Awia, kunla maa uŋ faa ra nyiŋŋi di ŋɔ koorizeŋ la be, a koori ɔɔ tɛubuu.","A yaa kulla maa, un faran yinye, din wo koori jen labe. Koori o taa bo",1.0,0.3636
+60,"Haali di i laŋŋɔ ga lɔ a laal ni bɔkpega gunla maa gba, ka Kɔraawiizi daŋ kpai du i dɔm la nonee biini, waabuu dɔɔ fɔŋŋa ú hiini gɛɛ ú gil nɛr chol.",Ha lee de elangwo ga lo ala ni bokwe ga gu nla mma agwa. Ka kora we zida nkwa ido idom la nu na ebi ni. Wa bu udo ofa nga uhi ni ge ogilner choro,1.0,0.354
+61,"Yáa Mɛɛ Kɔraawiizi ni yaa Dɔɔri Yeesu Kristo hiini ia, di tɛɛ ia bampirsɔna.",ya mere kora zini ya dori Yesu Kristo hinu ya dite ya ban prison,0.9286,0.3934
+62,Ka yiryitta tɔ ba see di ra lɔ kuna di ra chɔluu werge maa.,"Kayeri yɛ tatɔ basee, dɛra lɔkuna, dɛra cholo weri gemma.",1.0,0.2444
+63,"Di ii wetto, di a lii iawaa be, ií ɛɛ ania gil ii ni nɛr maa wia ɛɛ bɔɔiih.","Iwe to, ti a le ya wa bi, iwe aniyan digel ininurere wa ebun",0.9474,0.5556
+64,"Absalɔm ni Izrɛl hina maa ŋɔ, “Husai baglaa naabuu bɔ Ahitɔfɛl hor la.",Afo saro nwa. Eyeru hu sia. Ya nu go nla uge nne nwo. Hu sia nwa bale. Afo saro nwa ube gulla. Ahi tofel nwa we la. Teo. Ka,2.1538,1.1091
+65,"Koori Jɛhɔram niwizii faa Azaria, Jɛhiɛl, Zɛkaria, Azariahu, Maikil ani Sɛfatia.","Korie je horam niwezi ifa Azaria, Jahiel, Zakaria, Azariahu, Maikel, Anesafatia",0.9091,0.1846
+66,Ba faa furgi tokorjigzii a diini baŋgizi koŋlaa ni a biine koŋlaa la n du a baambaana la ni.,Mba afrịka to koro jeeze adịghị na baa gịzị kọla nị abịghị na kọla landọ abaa mbaa na la.,1.0,0.4795
+67,Guŋ jaa gil ba nɔŋŋuu werge maa kaali Koori Deevid.,"Kedu ihe a ga-eme? Biko, enwere m ike ịkpọ gị? Kedu David?",1.2,0.7561
+68,"Baal bɛl faa ba n benii Ziklag, di wa ŋɔ, ‘Koori Sɔɔl siuwɔɔ.","Bábelé fada, m̀dé ni Zegla, diwa nwọ. Kó ósó sé wọ",1.0,0.6222
+69,"Denii ba faa kpa a kuŋkɛɛlaa, kuna fizi bɔkpaŋkpaŋa ani kuna la baŋ kpawɛɛ tɛɛ Kɔraawiizi ba biinihuŋŋu ni la.","Dị nị bafakpa akụkụ nke elụ, unu fize bọkpa nkpa nga. Ọ nị unu laba nkpa we te kọrọ we ze, ba bị nị hụ ngọ nị",1.3,0.4944
+70,"” Koori Jɛhɔsafat ŋɔ Izrɛl koori be, “Pɛɛzi Kɔraawiizi na mɔɔ.","Kòròja ho safa dunya Israel kòrò bi, pèzè kwara wèzè",1.0,0.6458
+71,"A saliŋ bɛŋ tɔgzi faa du kilozi kalfaanue, , saliŋhuŋŋa ge tɔgzi faa du kilozi kagboŋa anɛɛ ni kalfaanaazu, , ani Kɔraawiizi kizeehina bɔmbɔga ge kalfa, .","A sị na ịbụ onye na-eso ụzọ Kraịst, ị na-agbalị ịdị ka ya na ihe niile ị na-eme. Ị na-agbalị ịdị ka ya na ihe niile ị na-eme. Ị na-agbalị ịdị ka ya na ihe niile ị na-eme.",1.5417,0.8525
+72,"Ka anɛɛ n niŋ wer ma Dia tɛu, dikuubɛɛwiai, chinchiŋ gba himmaa, wàá wer zuu de.","ka anyi nwere mmadu atọ dị ka obodo anyi, chineke gbahimma, wa nwere",0.9375,0.4754
+73,"Ií gil u sɔŋ dɔɔi la lii u bɛmbɛŋ wiɛɛlaa biini, dikuubɛɛwiai, nɛr maa ni u bunnii un niŋ chi.",Otu a ka o si wee na-aliri obembenwi ya laa be ya ni. Nke a bu eziokwu. Nere m anya na obu nne unu nne m,1.3,0.6806
+74,"Ka filaŋkeŋ, ii banla n faa du bɔɔnɛɛ bɔɔnɛɛ la, Kɔraawiizi kuu ii ni Yeesu Kristo n kpauwɛ la wiarɛ, di kpa ia dugli u be.","Ka Chineke ebe na mfa adughu bu na ya bu na ela, mara na jikwa ina ya esu nkwu we na we ara dekwa ya adughu na",1.0,0.5851
+75,Kɔraawiizi sogo u koorikarnaniinanii ninɛɛ.,"Kura üzülsügü, ukur karnını",1.0,0.6053
+76,"Kɔraawiizi kaa ŋɔ, “Gil niiri la n du a chiŋ zɛɛ la chaali chɔɔ bɔkpaŋ, ka bɔ́hilii lii.",Kora beze ka nwo gelnila ndu achinzela chali chobokwan ka bohilili.,0.9444,0.3788
+77,"Saŋa bɛl n wa helle, Absalɔm nyiŋŋi torko, zagra ani baala tokkoanɛɛ ni fi, bá ɔɔ tɔ u see di ra chɔ.","Saa balu wahele, afara nyi turko, zara anibala toko aneni fi. Ba'o tose",0.9545,0.3947
+78,"Kɔraawiizi gillɔɔ koorizeŋ, u zɛɛsogna ani u nabɔnzi nɔŋŋiŋ, dikuu aŋ paruu wia.","Paro de gelo, cor de o de sogna. Ane una bonze nonge. De co amparo",1.1538,0.6154
+79,"N yau yomkpilaa, ba lul baŋhina ge n dia jaa.","Ya bụrụkwa na ị ballụlụ, banye na gị ndị aja.",1.0,0.5294
+80,Koori Deevid jaa gil u ɛɛ u guure nabɔma.,Kòdebi jàgàl o è gùrè nàbọ̀,1.0,0.6562
+81,"Ií gil u na girme dikuu Yeesu hiŋra ni Yeesu Kristo wia, saŋaa saŋa maa.","Onye na-agaghị eme dị ka Onyenwe anyị Jisọs Kraịst si gwa anyị, Jisọs Kraịst bụ asị na asị.",1.2,0.9107
+82,"U faa kpa u biibaalaa lizi mbusu, di fuuh baa Bɛn Hinɔm Waluu biini, di ra di hiri, di ra vug, di ɔɔ gil vugra ni ijɔzi ra yir lalaa, u ra pɛɛzi wia.",O fa akpa obi baala leze mbuso. Di fu baa bee ni nomu walu biine. Dire di hire dire avu. Di ogilivughura ni ijozi ra yiri lala. Ura peze,0.8235,0.3091
+83,"Bɛl maa dɔɔ kuŋ hɔŋ u nyuu, a ge bɛl maa chiŋ laŋaa ɛɛ lugɔ nogumzi anue.","Bèlema dokun hɔn onyo, agè bèlema chin langa è lugo nogumzi anui.",0.9412,0.3818
+84,Kenne n ɔɔ ra ɛɛ n hɔna maa biini ií wer zum lugɔ n hɔnaa.,Ke na mụ ọra a mụ hụna ma bini iwere zụmụlụgọ mụ hụna.,1.0,0.4884
+85,"Yaa waa banla n waa Jus hina ɛɛwɛ, yaa ra yir baa wichɔgɛɛra la ɛɛwɛ.",Ya ba ban la unwa ju su he na ewe yara yir ba wi chog e ra la ewe,1.1333,0.3396
+86,Nunzuma ɔɔ du nɛr la n na nuu wia zɛɛ nfɛrɛ biinii.,"Nneoma ọdịmma, nna na nne unu wiazie mfere be unu.",1.0,0.6154
+87,Ka ba faa waa wette bá bagli lugɔ ba domeezi ɛɛ Izrɛl hina naannaa.,Kabba fawu wete babar leko badumezi e Israhina nanna.,1.0,0.3774
+88,"Ka Kɔraawiizi dɔgtɛɛ bɛl banna yir Ɔdɛd n faa du Samaria, lii di ga chem ba laallɔɔra ni, di ŋɔ ba be, “Kɔraawiizi la ii naabaala n na hum la baaŋ fuuh Juda hina ninɛɛ.","Kwakwaa izi dọkịta Bell banyere obodo Samaria, lee dịga chimba laa lụọ ra na dị ngwa bị. Kwakwaa izi laa ịna baala nna hum laa baa nfụ Judah hịna nịne.",0.9429,0.4264
+89,"U ge gba faa ɛɛ wizenaare, di kpu Moab hina laallɔkpega banɛɛ.",Oge fa ewezigharịrị dịkwa mma abụghị na laa leekwa gị abalị.,1.0,0.6122
+90,"Denii Bɛɛrɔf hinuu Rimɔn biibaala Rɛkab ni Baana izi di ra la Isbɔsɛf dia, baŋ ga hel de, di wiizi baŋŋɔ, u chɔɔ di ra heezi.","De ne beghi afeno, remo bi bala. Rika ne bana izi, dala esabo dia. Banga hilde de wize banwo, ucho dira hezi.",0.9231,0.4062
+91,"U hiini yaabuu ni winanaa la maa n lii u Dumnanii be, di gil yaa ra di suma u be, dikuu yaa ni Kristo n kpauwɛ wia.",Muni yaa bu ne wena na lama nli o domina ni be degeli yaa le disuma u be deko yaani Kristo nkwali,0.8148,0.3256
+92,"Ba nabɔnzi benii n feli la ga bagli ba bɛŋ mɔɔ, ń nuu ba be lugɔ n baglɔɔrɛ nɛnnɛ gɛɛ pɛɛpɛɛrɛ n faa aah siwii ra bagli a wia gunlai?",,,
+93,"Koori Jɛhɔram kora dii saŋa, Ɛdɔm hina faa vɛɛ Juda hina dɔɔra sɛɛirɛ, ka tɔ ba himmaa koori.","Kò rí jọhọrọ́n, kò ràdí sángá. Ẹ̀dọ̀m̀hínà fávẹ́ júdá, hínà dúọ́ràsẹ́rẹ́. Kátòbàhímmá kúọ́rí.",1.0,0.589
+94,"A hɔpizaa ni hamuŋzi tokkoanɛɛ la n wa tunnɛ, Kɔraawiizi faa kpa a bipɛntɛnzi anɛɛ la uŋ sɛbi a nuukpaŋ wia a ni labuu tɛŋ.","Nna ha bụzị ndị ọkọnọ ala Ngwa tụrụ nne. Kwere ha eze fa akwa, abụọ pentịnze a na-ala, onsebe, anụkwa nwa a, anị laa ụlọ ya.",1.0,0.5979
+95,"Awia, Izrɛl hina waa vɛɛ Koori Deevid, ka ga hiŋ Siiba di ra la.",Awa iza hina wa ve kori Davidi ka ga hin siba,0.7857,0.3958
+96,"Ee, n na lugɔ nunzumaa bɔ gɛnaa.",na logo nonzuma,0.8571,0.5833
+97,"Ba jaa ligzi ba bunni di ra ha a nii biini, ka a gberzeŋ wer du fug di kpa baa la.","Bayan lafiya, ba bunne da raha a ni bi ne. Ka agerje uwar dufok da kwabala.",0.9048,0.35
+98,"Di nɛr la hinna nyiŋŋi la haŋ siu, banla maa n kawɛɛ la daŋ chɔ ba waa hiŋii, di birgi i nɛra.",dinna lahinan yini lahansu balla ma inkawe ladancho bawahi di birge,0.9545,0.3286
+99,"Di nɛr maa haŋ wa kpa u wia di ra ba koori be ú kuari, Absalɔm ɔɔ yir a hinnɛ di pɛɛzuu, “Lee bolle i liiyɛi?",na ma han wa kwa o wee adiraba k'ori be o wakwara asoro o yiri ahia na erite ezu lee ilie,0.8846,0.5125
+100,"N Dɔɔri Kɔraawiizi, n na yiriibuu ni n biini maa.","Ndi na akọnabụzị, m na-echebụrụ na m bịara",1.0,0.7368
+101,U Dumnanii gillɔɔ ii doŋa maa lii ii ni ii ge sɛɛ u wibii.,"Odimma gi na i do nga maali, i na-ege weebụ?",1.0,0.5909
+102,"Baŋ wa chaali Jɛrusalɛm, ba ni a koori faa ɛɛ nuukpaŋ Kɔraawiizi Dia la biini.","Bawachaale Jerusalem, ba na akụọrọ fa inukwanụ kọra wizi di ala Bịịni.",0.9333,0.3226
+103,"U faa gil ba ma ligee a Dia see, bɛl chi wiifurii nodig wiikakag, bɛl ge chi wiifurii nomɛɛl wiikakag.","Fagel, ba malige adia se, belche we furi no digi we kakak, belgeche we furi no miel we kakak.",1.0,0.3
+104,"A saŋa, di Filisti laallɔɔra kaa chaali Lɛhi, bɔr la siga n suwee biini.","Sanga, defle se la lora ka chale lehi. Bola sega insuwe bi.",1.0,0.4286
+105,"Denii niinyɔgzi wa lau Koori Deevid werge maa, u ŋɔ, “N bɔra daŋ vii sɔɔni, di nɛbɛl vii la kɔlɔŋ la n dugli Bɛtlihɛm dominuuzeŋ la, di ga ɛɛ nii wa tɛŋ ń nyɔɔ!","Dị ni n'inyozi, walla Kọri David werigị ma. Unu, mgborada V. Soni, di Nevel V. Lakolọ na Ndọlị Bethlehem, Dominị zuo na dịga enị watan June",0.9706,0.4628
+106,"U ŋɔ, “Laau.","onwa abali iri na isii na onwa nke abuo, puku abuo na iri na asaa",5.0,6.5714
+107,Ba maanii Kɔraawiizi faa kpa du Koorizeŋ Nɛbukadnɛɛza nonee biini.,Bá àní kòráwé zé fạ́ kpàdọ́ kụ́ọ́ rị́ zị́ nẹ́bụ́ kà nẹ́zạ́ nọ́ nẹ́bị́ yị́.,1.5,0.625
+108,A baal ɔɔ faa ra ɛɛubuu alugɔ u biihaaŋ.,"Ọbalọfaran, ọba Ọlọwọ Ọbịha",1.0,0.6129
+109,"Di nɛr faa wetto gil u wia deŋli Kɔraawiizi be dikuu Gbɔgni hiŋaa la wia, amɔ, Kristo faa siuwɔɔ pɛɛ.",Christopher,1.0,0.9241
+110,“Ba kpegli bolzeŋ la durnya hina maa n na chɔli labuu!,"Bɛkwaeɛ li bɔ zɛnla, durunya hila maa natural la bo.",0.9091,0.4286
+111,"U wassi faa ɛɛ nogumzi fi, u luŋzi ge ɛɛ nogumzi anue.",wa si fa nogumzi fi ulunguzi ge nogumzi,0.6667,0.3415
+112,"Ií gilɛɛ ra hum fɔŋŋa ni saŋa la iiŋ wa du nɛra baaŋ dikuu sɔŋ wia, ka ɔɔ ra hum nɛnnɛ gunla Kristo balnanaa n ninna hum, di ra ɛɛ Kɔraawiizi kipar la ani ii biine maa.",,,
+113,"Ií ɔɔ suŋŋi wiizi di tɛɛ banla n na tɔɔri ia, di gilɛɛ see baa nua.",ya wasu a kwara wanda suke cewa ba nna tuwo da ya digi da shi ba,1.0,0.76
+114,"Kɔraawiizi kizeehina la n ɛɛ Aarɔn naanna bɛnnɛ ba sɔ di lizi ba doŋa ha, ba ɛɛ nɛnanaananaa Kɔraawiizi be, bá ra ɛɛ guŋ.",Kọrọwụ zị kị zị hịna la ụnọ e arọn nanna benne ba sọọ dị lịzịbet dịụnga ha ba ị nanna nanna kọrọwụ zị be bara ego,0.9583,0.4737
+115,"Ya gilɛɛ ra nyiŋŋi zenni dɔŋa ni, di ra nuu dɔŋa nuuzi, di ra ɛɛ dɔŋa bɔwii.","Ya galera, nyin yi jenne dongane dera no dongane noze dera e dongane bowi.",0.9412,0.5439
+116,"Saŋa bɛl, bunyinzi ɔɔ nyaa diweere, lɔzi ra kpua, a ra bɛɛli.","S'il te plaît, pouvez-vous nous aider à la réparer ?",1.0,0.8043
+117,Ka yaa zummɔ lugɔ nɛr n ɔɔ ra hiŋ Gbɔgni la wia lɛi u wia wer deŋli Kɔraawiizi be.,ka yazi ma lɔgɔn nɛrɛn ɔra hin ki izi la uya le uya wuru din le kɔra,0.8947,0.5238
+118,Ií ra chɔli Kɔraawiizi!,እግራችሁን አኳራቢዛ,1.0,1.0
+119,Kuuhni ɛɛ wipɛɛrii.,kune wipari awiya nda duifa wa ka wado zeten deko beway wante kumma de toro benle nda duima fa,6.3333,4.3125
+120,Ira ni Garɛb n ɛɛ Itri hina.,यह रहने घर है। यह इत्र ही,1.0,1.0
+121,"Kɔraawiizi kaa ŋɔ wia Joona be bunɛɛ, di ŋɔ, “Izi la bolzeŋ Ninɛvɛ, di ga lizi n amaniye tɛɛ baa.",Onye isi ka a na-akpọ nwa ya bu Nne di nwụọ. Izila bọọlụ zi Niniwe. Dịka lesi amara ya tee aka.,1.05,0.6027
+122,"Bɛzai naanna faa du kalfaahoro ni tokko ni ahoro, .","Bɛrɛ zaa nanna faado, karfa huro, ni toko ne ahuro.",1.0,0.275
+123,"Kuna duui saŋa n wa helle, Koorizeŋ Nɛbukadnɛɛza hum ba ga lawuu, ka paagi Kɔraawiizi Dia kuna la yoola n kpolle jaa, di ba Babilɔn.","Kụna dị ịsị na ụnwa helle, kọrọ zị na bụrụ ka na eza hụm. Bịa ga laa wụ ka pa gị kọrọ wụ zị na akụna la yọla mkpọle ja dị Bababylon.",1.16,0.4231
+124,pir sezenaa maa ni.,princesa na amane,1.0,0.4667
+125,Banla n kaa jaa a Laallɔkpega Tokko Ni Kpɔrgɔ ninɛɛ keŋ.,"Bà là Nkechi Alọra, tọkọ nị kọlọ nị na-eke",1.0,0.6667
+126,"“Di lii n pɔlaa saŋa maa, n dɔma sunnimbuu werge.","de le mpolasa ngama, ndoma sunni mbu wergi",1.0,0.3243
+127,"Ka ii kpu baabuu gunla n waa dɛkkɛ, haali chiŋ gba nuu gunla iiŋ chuuri baabuu.",ka epo babu gunla nwa deke haali chingwa nu gunla in chure babu,0.75,0.3065
+128,"U faa ma a koŋliire u la chiŋ jaa, di lizi laallɔɔra nabɔnzi ba du a bolkpega la maa n du Juda biine la.","Fama akongli re, ula chinja de leze la lora na bonze. Bado abul kigala ma ndu juda binela.",0.9583,0.2785
+129,” Denii Joab jaa tɛr u nonii lau Amasa taŋhuna lugɔ unna nyiŋŋi ú suuzuu la.,"Deeni jaab, jaatar unoni lau amasa tan huna lugo unonyi oso-oso",0.8667,0.339
+130,"A koori himmaa gba, a hɛri kumpattaa ninɛɛ u dɛlli.","A kọrọ ihe mụ agba, a hèrekwa mpaghara niile odala.",0.9,0.5
+131,"Di ii bɛl maa ɛɛ yaara hiŋ, waa sɛɛwɛ ú hum gunla yaa n baglɛɛ la, ii gilɛɛ gil ii nuu kpau.","Dei belma e ya rahen, wa sewa ohun alọgọ gunla ya mbaglila, igi le inu ka",0.9545,0.5
+132,"Nɛr la baaŋ n waa fuuh manaŋ, dɔɔ wia zɛɛ zumaarɛ werge.",na laba nwa fu mana do ya ze zumare wurge,1.0,0.3953
+133,"Joab tɔɔh u hia, u looree vir lii chol hɛri, Amasa siu kakpaŋ.","Gafto oha ulore verle cholher, amasa sewka pa",0.9231,0.4043
+134,"U tauduura chignibɔra, u koŋliisaagaa ani u jaŋgal ni anla maa mɛgzaazi faa ɛɛ kpaŋ.","Otal dura kigunbara, ukuli saga ani ojangal ani alama megzaze fa ekpan.",0.9333,0.3676
+135,"Ii gba du denii di ɛɛ dia la Kɔraawiizi n na ma ú ɛɛ u duuribɔr la, dikuu u Duma n du ii ni la wia.",Igba du deni di ala koraa bi ze nna ma o ye odoro bo la de ko odum nani ndu ene la wa.,0.8077,0.4167
+136,Maaka hinuu Ahasbai biibaal Ɛlifɛlɛt.,"Maka ha no a hazị ba, bị ba elifele.",1.8,0.4688
+137,"Kɔ́raawiizi ga suŋ i ni, di hiinii.","ka ha bụrụzi ihe abụọ, ọ sọrọ ha mụrụ Israel, ha na-adị nwa. Ihe a nwa bụ isi nọ n'ime ngwị",3.0,1.9615
+138,"Ba faa taambuu n la har, di ra nyiŋŋi bá kpegliŋ.",bafa tambu nlahar diranyi bakpeglin,1.0,0.1892
+139,"Bɔr duani, hɔpizi chɔɔzi, di ɛɛ a lugli hɔpizii.",Bordeaux hopese chose de alloglé hopese,1.0,0.6216
+140,Guŋ gil u biibaal kpa Koori Ahab biihaaŋ.,O bi ba akpa ka ori aha bi ha.,1.125,0.4242
+141,"Denii Kɔraawiizi Kizeehina Maa Nabɔma Jɛhɔyada faa wa bini werge maa, di di binni kalfa ni tokko ni kpɔrgɔ, ka siu.","Ndi na-ekoro unu ekele dị elu, ma ana m abọ mmaji ho ya daa. Fa wa bi na nwere gi mma, dị dị bi n'ime Kalfa n'itoku n'kpọrọgo ka si",1.3333,0.4783
+142,"Kaa tɛŋ hɛriŋkpol, daananaa ni algum dolli lii Lɛbanɔn, dikuubɛɛwiai, n zummɔ lugɔ i nɛra du denii, di zum daazi teŋraa nɛnnɛ.","Ka ten herin kpol da nana ani algom dolili Lebanon de ko be wai, nzomalugo inera du deni de zumda ze tin ra nen.",1.0455,0.32
+143,“Bampirsɔna du i biini.,Bụ ndị ọrụ n'ụlọ ọgwụ na-ahụ maka inye ndị ọrịa ọgwụ.,2.75,1.8889
+144,"Ií mau, ú chiŋ laŋaa ɛɛ nogumzi tokkoahoro, ú wassi ge ɛɛ guŋ.","Mma, uchinlaga enugwu zi tokwa horo, uwa si gi ego.",1.0,0.4043
+145,"Yaa maanii faa ra hiŋ baa, di ra ɛɛ wia la maa yaa bɔrahɔŋ n tɛɛ yaa ŋɔ ya ra ɛɛ la, di ra hiŋ yaa kunnyiŋŋichɔgaa ni yaa nfɛrchɔgaa.",Ya ma ni ifara hin badira ewi ala ma ya bora hona nte ya nwayara ela. Dirahin ya ku nyinye choga ni ya mfere choga.,0.9667,0.3366
+146,"Wii la miŋ nawɛɛrɛ keŋ, winanii la nɛr n niŋ wer ɛɛu lugɔ ú ra di, di ra nyɔɔ, di kpa kuna la uŋ kuuhwɛ na la, di ra di u hiŋ, miibɔɔkpurii naa Kɔraawiizi n tɛu naa biini.","Wila min na wari ke, wila ni laner ni wari eu logo. Uradi deranyo. Dekpa kuna la unkuwe nala. Deradi ohen. Mibo puri na kora weze nti au na bini.",0.9487,0.3386
+147,"Ka ba purgi u dia ú birgi hul, dikuu a wichɔgii naa wia.",de ko,1.0,0.9524
+148,"Haali ni zinaa, Ɛdɔm hina waa kaa ra sɛɛ Juda hina dɔɔra.",Ha lee nne ya na edom hịna wa kaara sị Judah hịna doo,1.0833,0.4545
+149,"” Denii Kɔraawiizi ta ninzenaa anɛɛ, zeŋhiŋ a chaani hɔpizaa, jigahiŋ ge ra chaani hamuŋa.","Zinhi korabizita ni zena ani. Zinhi achana hopiza, jigahingera chane hamu",1.0,0.3194
+150,Gilɛɛ salli i laal zagu ni ú lɛɛi.,Gidda salle elal zagonne olle,1.0,0.5
+151,Di kaa chɔgi mbusu lizibɔra la maa uŋ faa mawɛɛ Kɔraawiizi Dia giŋgimii nyuu ni Jɛrusalɛm biini maa la.,De ka chọrọ ịmbụsụlụ zọbọla. Ma ọ fa ma wee kwara wee dịa gị gị mị nyụọ. Nị Jerusalem bịne maala.,1.1053,0.4762
+152,"N na lugɔ banla maa n du durnya naa biini, ra hiŋ a biipɔllii la n niŋ wa kpa koori gawa labuu.","Nna loga, b'ala ma ndu duru ya na abịne. Rahen abịpọrọ ịla, nne nwa kwa k'ori gawa labụ.",0.9545,0.3194
+153,"Ligii maa hora faa ɛɛ kalfaanɛɛ, di ta chɔŋ bɔra anɛɛ di hiŋzi dɔŋa.","Ndi gi ma ho ra fa e kalu fa ni. Ndi tachon buro ani, ndi hi gi don",1.2857,0.4151
+154,"Zagra ni kauzi biizi ge faa du kalfaanɛɛ ni tokkoanɛɛ ni anue, .",Zaranikauzi bizi ge fado kalfane ni tukwane ni anoi.,0.75,0.28
+155,"Ba bir hattɛ kpu n widaulaa la, ka ŋmɛɛri saliŋ di kuari vug tɛɛ bahinaa.",Baber hatako unwe daulala. Kanwe resalen de kwara vukte bahina.,1.0,0.3509
+156,Bii la maara n faa vɛɛwɛ ha labuu jaa ɛɛ.,Bịa la mara m fa ha la bụ,0.8,0.5484
+157,"Koori Amɔn faa ra kuari vuga la maa u mɛɛ n faa ra kuari labuu, di ɔɔ lizi mbusuzi di ra tɛɛa.",,,
+158,"Amnɔn vɛɛ dii, ka ŋɔ, “Gil nɛra la maa n du n be la lii.","Amnam vedi, ka wa gelu na la ma ndu mbelali.",0.8667,0.3684
+159,Kɔraawiizi ɔmaa ra tɛɛ miibɔɔ ni hiŋ dɔɔirɛ.,Kora bi ze oma rate mi bo ne hendu ere,1.25,0.5278
+160,"Ii daŋ faa nuu gunla Kɔraawiizi n suŋ n ni, di hiiniŋ werge ni u fɔŋŋa ka ń wer hiini ia.",Ihe na-afanụ gị na-akọrọ anyị zi nsogbu ị na-di na ya nwere ike ịna-afanụ gị ka m nwere ike,0.9524,0.6567
+161,"Ama, u faa waa lugɔ u naabaal Koori Deevid, dikuubɛɛwiai, u faa ɛɛ wia la n waa deŋleere di zuu Kɔraawiizi ni.",Ama ofu awa ulogọ unu abalị ka ụbọchị David dị ka ọbụ ewi anyị ofu ewi ala ngwa dịngịrị dịzụkọra wee zị,0.9545,0.5529
+162,"Denii Sifas ba Antiɔk, n pɛɛzuu wii bɛl, dikuubɛɛwiai, u hor faa waa sum.",ne si fa si ba Antioch mpezo wi bel de ko be yu ai ohoro fa wa so,1.2143,0.5
+163,"Ka Ijip koori faa wiruu, ka gil Juda hina ra turgi lampoo, saliŋhuŋŋa kilozi kagboŋa ahoro ni kalfaanaazu ani saliŋ kilozi tokko ni kpɔrgɔ ni anaazu.",ka ejinkore fa wiru ka gi na Judah na Turkey Lampo salun hu nga kilose ka gbo nga auro na calfa na azo ana salun kilose toko na kporgo na anazo,1.1538,0.3388
+164,u ɔɔ ra fɔrgi Kɔraawiizii dikuu nɛr wia.,और फर्गे क्लोजे,1.0,1.0
+165,"Koori Uzzia faa ma diijaŋkpega, Jɛrusalɛm biini, ba ɔɔ so de di ra du tau, a du Sirii Dominua, Waluu Dominua ani bɔr la a koŋlii n gutte.","Kụrụ ụzị afam dịịrị gị ga Jerusalem biene. Baa ụsọde, gị na ndị taa. Adụsịrị domịnọ a, walụ domịnọ a, anọbọrọ a akụngị ngụte.",0.9643,0.4667
+166,Koori Solomɔn faa gillɔɔ ba ma ligee anɛɛ a Dia see.,"Kòrí Solomon fágìlọ́, ba mma ríge àné adìa sí.",0.9091,0.4878
+167,"A diini nabɔnzi la n faa ra binni a laallɔkpega naa ni, faa du baala kagboŋa anɛɛ ni kalfaanumbɛl.","Adighi m na-abụzịla mpara binnị, ala arụkwa ga na-anị fa adị baara ka gbuo ya anụ nị ka fa anụ mberede.",1.1053,0.3974
+168,"N bɔdaabii wiila nyaŋŋɔɔrɛ, màá ka wer chi chiŋ.",Mba debi wila nya nwore maka wuche,1.0,0.5
+169,"Nɛr maa gilɛɛ waa zuu Kɔraawiizi Dia la biini, di Kɔraawiizi kizeehina ni Levi dee la n dɔɔ huma a hɔl la bɛŋ lɛi.","Daramma agalewa zo, korau zai diya labi ni. De korau zai kizehina, ni lebi dela, ndohuma ahol labenle.",0.9583,0.3933
+170,"Koori Joas faa ɛɛ wideŋlaare Kɔraawiizi be, Kɔraawiizi kizeehiŋ Jɛhɔyada de dui maa biini.","Kọọrọ Jọọsụ fa e wee dịrị gị n'ala, kọọrọ gị ziri ebe, kọọrọ gị ziri kịzị ehin Jehova dị ndụ, maa bịa.",1.5,0.6533
+171,"Kɔraawiizi la minna hum la n du n be wia, n dɔɔ bɔkpegaa di chaali Izrɛl hina sitɔɔra, n ni baa la.","Kọọlụ ndị Laamenahụmla, Ndị Mberịwa, Ndị Ọbụkwega dịka Izraịlị na Sịtọra, Nịbaala.",1.0,0.5067
+172,"A dominua jaŋgal biini faa dɔɔ tɛɛbulzi anaazuu, anɛɛ chi keŋkere naa, anɛɛ ge chi keŋkere naa.","Adom na-aga njem n'abali, fa do tebulu zi ana-azo, ana-echi kinkerina, ana-egechi kinkerina.",1.0,0.4211
+173,"Nunzunni gɛɛ gɛnii, ba maa daŋ siu.",N'zuri nige gani bama dance,1.0,0.4815
+174,gbɛlli yaa birgi.,Belli ya bir gi.,1.3333,0.2143
+175,Ka ba ra nyiŋŋi ba teŋri ii ge hɛna nɛ́ra ra chɔli baa dikuu a wia.,Kparanyị gị batara ịga hē na nlerala chọrọ baadịkọ awụ,1.0,0.48
+176,"Dikuu iiŋ vɛɛ Kɔraawiizii wia, u ge gba vɛɛ iabuu.",deko imve kwa rawezewa oge gwa ve ya bu,1.0,0.5385
+177,Wia la Kɔraawiizi n pillɛɛ bagli Pɛtuɛl biibaal Jowɛllɛ keŋ.,We are according to play ball petrol be bad you are lucky.,1.2,0.7
+178,"Biipɔllii la n ɛɛ nyaari ka zum wiarɛ bɔ koorizɛŋa la n gɛnnɛ, waa baglaa ra nuu.","Bịa Paul Leeland a, nyere aka zụọ ụmụaka anyị ka ha mara akwụkwọ nke ọma. Wa bagara nu.",1.0588,0.6825
+179,"Waabuu ya kpa ra mɛgzi nuukpaŋ la baŋ ɛɛwɛ Bizeŋ Sinaai, bɔr la baŋ faa na Gbɔgni la.",Wabụ ya kwara mịrịzị n'ụkwụ laba ebe sa na ebize laba gba laba fa na ka ịzị,0.8889,0.5909
+180,"Banla maa n faa yarduu, ii ni ba maanii niŋ nau di chɔluu a hɔl, dikuubɛɛwiai, yaa n faa bagli ia u wia la, ii faa sɛɛ yaa daansɛɛ la yaa n diwee tɛɛ ia labuu.","Mba, mma m fa ya do, enwe mma niile m na-achoro ahu na-ekwebeghi anyi. Ya m fa bagharia owu ala, ife a si ya daa si na ya ewetee ala bu",1.0,0.5294
+181,"Baŋ wa chɔgi a maa tuŋ, Izrɛl hina la bir kpo ba bola.","Bụ onye na-achọghị ịma atụ, ịzụ ahịa na-abụkarị ihe mgbagwoju anya.",1.0,0.9
+182,U ni i huŋhunna ani banla n dɔɔri i mɛɛ Koori Deevid n lizɛɛ la danna hum.,"Onye ehu hụna, ana m ba nla ndụọrọ ime ka Onye Nkụzi David nlezie la da nna hụ.",1.0,0.5088
+183,"A koori ŋɔ, “N daŋ kpa baa di tɛɛ ia.","Nke a bụ akwụkwọ ozi nke mbụ nke Pọl, onyeozi nke Kraist Jisọs site na uche Chineke, nye ndị nsọ nọ na Efesọs, na ndị kwere na Kraist Jisọs.",2.8,3.8
+184,U faa ɛɛ wichɔgaarɛ di zuu Kɔraawiizi la unna hum la ni.,O fa ewe chogare de zokwara wezela unahum la,0.9167,0.4545
+185,"Yaa Dɔɔri la n dɔɔ bampirsɔna werge la, ú tɛɛ ia bampirsɔna saŋa maa wii la maa biini iin duwɛɛ, di ɔɔ du ii maa be.",Ya dora la'ando a ban prison a wurin gilla. Ko ta ya ban prison a san'a ma'a wila ma'a bi'i ne'en do waye do odo ima bi.,1.0,0.4659
+186,"Denii Farisizi nuu lugɔ nɛra ɔɔ ra hiŋ Yeesuu werge di kaali Jɔɔn, di sɛɛ ra tɛu, u ra sɔ baa Kɔraawiizi nii.",De ne faris en la loka nea ora hin Jesuo werke de Kalejon. De sera teo ora soba,1.0,0.5357
+187,N na ɛɛ tamiirɛ ani n biini maa lugɔ hiihzi wàá diŋ maa.,Na etu a mụ na ndị mụ na ha lụgọrọ hiri nwa dị mma.,1.0769,0.6512
+188,"Ií gil a Jus hina nabɔma ni ba sitɔɔra bir ma Kɔraawiizi Dia hiŋ, di chiŋŋi u zɛɛbinii la ni.",Aboriginal adu ezi na na abuo ma na asitoro abuo ma koro di ya ahin na Chineke ozioma na ila,0.95,0.5972
+189,Haaŋ naa dee dia zuui ra ba siu ninɛɛ.,Hana dié diazo rabasse onéné,1.0,0.4828
+190,"Levi dee kpu Gillikaali pebii, di lizi ba ni banla n bittɛ ba la ni ba lulla la n ɛɛ kizeehina la maa mbusu, tɛɛ Kɔraawiizi.",de videko gelga kaal pebi de lede bane bala mbita bala ne balulala ekize hila ma mbusu te korosi,0.9615,0.375
+191,"Biizi, ií nuu ra tɛɛ ii maawaa ni ii mɛɛwaa, dikuubɛɛwiai, u guŋ deŋloore yaa Dɔɔri hiŋaa naa biini.","Dizi, e no rate e ma wa ne e me wa. De ko be wai, ogu ndengu no re ya doro hi na bi ni.",1.3158,0.5
+192,"Koori Deevid biibaal Absalɔm faa dɔɔ niuhambiere, ba ra yiruu Taama.",Kedu ihe mere ị ji bịa afọ ole na afọ abụọ gara aga na ihe mere ị na-,1.6364,0.75
+193,Tauduura chignibɔra jaŋzi ni a wassi maa faa ɛɛ a daa jaŋzi magaa.,"Kaudura kirinbara, janze ne a wasima fa'e ada janze",0.9231,0.4528
+194,"Ka banla Jems n hummɛ la n wa ballɛ, u bargi u hiŋ banla n waa Jus hina ɛɛwɛ la be.","ka m bala juice, mụ ṅụọ mela mụ wa bala. Ọ bara gị uru mụ bala mụ ṅụọ juice hị na ewele",0.9524,0.6066
+195,"Minna nyiŋ naa, yarda la miŋ yardi Kɔraawiizi Biibaal labuu gillɛ n wer dɔɔ a miibɔɔ.","Mina nyina, nyedela m ya na kọọrọ gị ihe mere na be ogele m nwere do amibo.",1.0625,0.5588
+196,Kɔraawiizi faa tɛmbuu bipɛntɛnzi anɛɛ la uŋ kpa u nonibii di sɛbi a ni la.,Kwara ezifa tambo be pentenza anela onkwa unu nubi desabe anela.,1.0,0.4407
+197,du i ninɛɛ.,do enene,1.0,0.625
+198,"Ií gil ii bɔra sɔɔni ia banla bɔra n sɔɔnɛɛ wia, di kaa gil ii biine chɔgi banla biine n chɔkkɛ wia.","Ihe a bụla sọ mụ, ị ga-abụrụ m sọ ya na. Dị ka a gị, ịbụ ị na-achọ gị, bụ ị na-inchọkene.",1.0,0.6623
+199,"Ka ba faa ɛɛ Kɔraawiizi dɔgtɛɛzi la chɛɛtɛ, di ra gbɛlli Kɔraawiizi wiŋɔɔlii la, di ra mam baa guŋŋ Kɔraawiizi baaŋ jaa waa fuuh ba ni, waa kaa dɔɔ laafaa.",Kababafa ekwaluweze doctor ezi la cheta. Di na gwellu kwaluweze we nwo li la. Di na mamba gu kwaluweze ban. Ja wa fu gbane. Waka do le fa.,0.9333,0.4918
+200,"U daŋ wer bir hobee la maa Sitaani n kpawɛɛ choŋŋi niŋ, ka kpa ta ia la.",Udo nwere biri na obi ya na masi taa na nkwa nwere chuo gi nri nka kwata ya.,1.0588,0.4815
+201,"Ba faa ba kuna ninɛɛ werge, di faa bargi kuna la maa ge baŋ dɔɔwɛ bɔra fizi, di kpa a bɔkpaŋkpaŋa wa tɛɛ baa.","Bafa abakuna ni na ewere gi, di fa bara gi kuna la. Ma gi ba ndu o buru fize, di kwa abokwa nkpa wa teeba.",0.875,0.3012
+202,"Waabuu du chiŋ, di ta muuzeŋ ni hɛri la.","Wabudu king, ditamuzin ni",0.8889,0.5
+203,"Ka uŋ faa ra yali siwee wia, u lii u nonee chol, di birgi gbɛrii.",ka ụmụaka ya risie nri ha ole unu na-echolụ tupu gị gbafee,0.9333,0.5208
+204,"N zummɔ lugɔ i ɔɔ ra na nɛra sinyɛnaa, di ra suŋ ba ni.",zumba,1.0,0.875
+205,Fɔŋŋa hina ra tɔɔrimbuu gunla n waa dɛkkɛ.,"Fanga hanna na, tooro mbo gunna, n wa deke",1.0,0.4706
+206,"Di nɛr maa waa sɛɛwɛ ú hiŋ gunla yaa n ŋɔwɛɛ hɔnnaa biini, ií zum a hiŋ.","N'ịmalite awa ole na ole gara aga, ọnwa wee hụ nwa abịanị.",1.0,0.7593
+207,Banla n na nyiŋŋi bá lizi n miibɔɔ la hembuu sidɛɛzi.,"Balla Nyingé, Balla M'balla.",1.0,0.6667
+208,"A ninɛɛ ba faa ra kpu mbusu lizaa sefuuhlaa, wichɔgaa mbusu lizaa ani bilchɔg mbusu lizaa sela.",Anineh bafara po mbusuliza sefula. Wichoga mbusuliza anineh bilchog mbusuliza,1.0,0.2727
+209,"A hɛri faa na u heezaa hɔpizaa, saŋa la maa uŋ chɔɔ pɛɛ la guŋŋ binni tokkoahoro ni fi wa tuŋ, di hiŋ gunla Kɔraawiizi dɔgtɛɛ Jɛrɛmia n faa ŋɔwɛɛ la.",Aha m fana bụ Hezekiah Peza. Sọọla m ụnchọpụta gị banyere tọkwa ahụrụ n'ifi watụ. Dehie m gụla akwụkwọ banyere Dr. Jeremiah Mfanonweila.,1.0,0.5862
+210,Denii n faa na koŋliizeŋ bɛl n bar Kɔraawiizi Dia la.,Then if I know I will assemble,1.0,0.7857
+211,Kɔraawiizi ɛɛ n daansɛɛ hinnɛ lugɔ n na kɛlli ii ninɛɛ werge maa dikuu nɔŋŋaa la Yeesu Kristo n kpawɛɛ du n bampirii la wia.,"Kedu ka unu dị n'ụbọchị taa? Nke a bụ ụbọchị nke mbụ n'ime izu ụka a. Dị ka unu maara, Jisọs Kraist nkwado dị mkpa n'ihe niile anyị na-eme.",1.16,0.8081
+212,"Ɛzra faa aah siwiire ú helli Kɔraawiizi Gbɔg la, di ra hiŋuu nɛnnɛ, di ra bagli Izrɛl hina a widaulaa ani a Gbɔgni maa.",There are,1.0,0.9462
+213,"Dɛlaaya, Tobia ani Nɛkɔda naanna faa du kalfaanumbɛl ni tokkoanɛɛ ni fidaanɛɛ, .","Dela ya, Tobia, Aninakoda, Nana Fadukalfanu Mbel ni Tokwane ni Fidaane.",0.8333,0.2308
+214,"Kɔraawiizi la n ɔɔ ra dau gunla wiimaa n niŋ wa ɛɛ la, waabuu felee lizi yaa tɛɛ u hiŋ guŋ, nɛ́ra wer chɔli u zenni lii yaa banla n felee dɔɔ Kristo tamii la wia biini.",Kora zlan ora dawgon la wima nni wa ela. Wa bu fele de lezi yate ohengon. Nera were cholo u zeni de li ya banla mfele do Kristo tami la wiya bi ni.,0.9189,0.3359
+215,Minuu a Kristo.,M na-agwa ya na ịbụ onye na-adịghị anọdụ ala. Ha na-agwa m na ịbụ onye na-adịghị anọdụ ala.,6.0,5.3333
+216,"Nɛra naa sɔna n hiŋzi dɔŋa ɛnnaa, lii bola la baŋ faa ra yir Tel Mɛla, Tɛl Hasa, Kerub, Adɔn ani Imaa.","Nera na sona en hingizidonga enna. Liboro laba fara yiri, telmela, telhasa, kerub, adon, ani ima.",0.9091,0.2895
+217,"Baŋ faa bagli ia wibii di lii amaniyesuma la n dɔɔ lɛɛi ii be la biini, ii gba sɛɛwɔɔ tɛu, Kɔraawiizi kpa u Dumnanii la tɛɛ ia gunla uŋ faa ŋɔ nua la.","Nwanne, biko gwa m ihe m ga-eme iji nyere nwanne m nwanyị aka. Ọ na-arịa ọrịa kansa ma ọ nweghị ego maka ọgwụgwọ.",1.0,0.8087
+218,"Nyugmazi ge faa du kalfaanaazu ni tokko ni kpɔrgɔ ni anue, .",Nyo mazi ga fa do kalfa nazo ni tukko ni kporgo ni annui.,0.9091,0.2766
+219,"Nɛr la n aah siwii u ɛɛ wii, ka nyaa nfɛrɛ, guŋ waa wer.",Nne m na nna m si na ụlọ akwụkwọ sekọndrị gụsịrị,1.0,0.8
+220,"Banla minna ŋɔ ba wia naa, ba aah siwiire ií ni ba wer du sum, ka bá wer dar ia.",Balla Mennan ngoba wiyana ba asi wire ene ba wuri,0.9,0.5172
+221,ba hizi suugi daraa.,बाहर से सुई द्वारा,1.0,1.0
+222,"Yaa hunnanaa biini lɛi a lii, nɛ́r maa gilɛɛ kuu guŋ wia ra chɔli u hiŋ.","Ya honna na bi ni le ali, na ma gi le ko gon wa dara chola ohe.",1.0625,0.4259
+223,"Koori Amɔn nabɔnzi faa suahzi ta u jina, di kpuu u kooridia biini.",Koro amon na bonze fa soaze ta ojina de koro okoro dia bi ni.,1.0,0.3462
+224,"Nɛbɛl Kɔraawiizi n lɛɛwɛ lii siu be, chɔlaa yir.",Nebel kora wuze nle wele si ude chọrọ anyị.,1.0,0.5
+225,"Bɛnaaya gba faa dɔɔ sɔnnɛ, alugɔ Laallɔkpega Bahoro La.",bụ na ya gba fa adụọ ọsọ na alụghọ na alọkwa gbahuru,1.2222,0.4667
+226,"Bɛtlihɛm baala faa du kalfa ni tokko ni ahoro, .",Bethlehem,1.0,0.8649
+227,"A saŋa, di Koori Sɔɔl diahina balii bɛl banna yir Ziba faa du de.","Asa, de quoi le sol de la",1.0,0.8
+228,"Ba faa huuh bensunozi, di ra lɔ danyɛ pɛrɛtuzi, di kpa kunlɔɔlaa aŋhina jaa, di yir yira di ra chɔli Kɔraawiizi, di ra ŋɔ.","bafụọ bụ nsụ nọzie, dika lọ danye pere tozie, dikwa kunlọ ụlọ anwụ na-aja, de yiri yira, de ra chọlọ kwara wụzie, de ra",0.9167,0.4362
+229,"Haali u kaa ma vug Baala mbusu lizibɔra, di baŋzi vughaaŋ Asɛra daazi ge, di ɔɔ faa kaa giŋŋi di ra jaami chinchiŋwilaa maa.",Halle okama vug bala mbusu leze bora. De bangze vug han asera dazi gi. De ofa ka ginye dira jame chinchin wela ma.,0.9583,0.3163
+230,"Ba faa zummɔ lugɔ Taitus la ɛɛ Giris hinuurɛ, u hɛŋ waa teŋŋe.",Bafazumalo gote tusla A Y hinure ohe nwate,1.0,0.4792
+231,"Ka u biibaal Amɔn kpa u gawa, di di a kora.","Ka obi baalụ mụ n'ọṅụ, baa ọgawa dịdị akụra.",0.9091,0.4194
+232,Ka ii gilɛɛ kuu guŋ wia di ŋɔ ii daŋ jaa wer ra ɛɛ wichɔgaa la maa ii bɔrahɔna n na nyiŋŋi ii ra ɛɛ la.,"Ka eji le anya, o bughi ihe i danje we dira, e we chogharia ma i gbara nne nyi Israel.",0.9615,0.5714
+233,"Banla ge, ba himmaa sɔnnyiŋŋaa wiarɛ ba ra ŋɔ Kristo wia.",ban lagé ba hima so nyi nga yo ara bara ngo Kristo,1.0,0.3778
+234,Kɔraawiizi kii banla n kpa fintime mɛgzi kunaa.,Kedu ka ị bụ? Ị̀ dịkwa? Ihe m tinye n'ahịa kọnà,1.375,0.7949
+235,N daŋ lizi jaaŋ kuna tɛi.,Ihe nụrụnụ anụ bụ eziokwu. Ndị na-eje ije anaghị ekwu okwu,1.8333,2.0
+236,"Tichikus la n ɛɛ yaa nɛnɔŋŋii, di kaa ra hum yaa Dɔɔri huma ani wibii la, waabuu niŋ kpa n wia maa bagli ia.",Kedu ka usoro a ga-esi nọrọ ịde akara ha m ga-adọrọ ha ma a niwibe ya? Wa bụ onye nkpa nwe ama baghị,1.0,0.5366
+237,"N na nyiŋŋuu u wa daalaa n dia, n na binnuu ka u ra daali.","Nne m nu, uwa di ala ndi a. Nna be nu, ka uwa diali.",0.9333,0.3333
+238,Horohiŋ genii Agii biibaal Samma n lii yembɛl banna yir Harar.,"ओरेंजेनी, एगी, बीबाल, समना, न्देये म्बेल, बनायिर हारा",1.0,1.0
+239,N ŋɔ n ŋɔ ii benii ii zum wii la iin niŋ ɛɛ tɛɛ a Jus hina nabɔnzi la n na ma Kɔraawiizi Dia hiŋ.,"ụwa ụwa ebene, ezinụlọ enuigwe na ete ajụsị na na-abọrọ na nna m kọrọ dịja ahịhịa",1.0,0.7083
+240,"Juda ni Jɛrusalɛm maanii ba faa kpegli, di kpu ba nabɔnzi maa, ka chi ba kuna maa ga tɛɛ ba koori, Damaskus biini.","Juda ni Yerusalemaani ba faa kpegili, di kpu ba na bo nzimma, ka chi ba kuna ma, ga ti ba kuuri Damascus biini.",0.4348,0.1591
+241,"Ií gil Kɔraawiizi birgi ii biine nfɛssi, ií duula ge birgi dufalaa ií ɔɔ wer zum wia la n ɛɛ Kɔraawiizi kipar wia, anla n wesse, anla n dɛkkɛ, anla n ɛɛ ananaa wa tuŋ la.","Anla wesi, anla deke, anla e anana di waton.",0.9167,0.8077
+242,"Juda bola maa biinee u faa ma vuga kuaribɔra, di ra lizi mbusu kuŋfuuhlaa di ra tɛɛa.","Judith Bulama bi na ofe ama vuga kwara bora, dira leze mbuso kunfu ula dira tia.",0.9412,0.3134
+243,"Awia, Izrɛl Koori Ahab faa chaali dɔgtɛɛzi kalfaanaazu, di pɛɛzi baa, “Yá la ga lɔ Ramɔf Giliad hina laal gɛɛ n gilɛi?",Aha Israel kọrọ aha fa chọlọ dọkịnta ha kalfanazọ depịezịba. Ya lagalọ Ramọv Gịliadị hịna laalụ gị.,0.9545,0.4674
+244,"Awia, ba faa sɔ bahinaarɛ di lizi ba doŋa ha, di ɛɛ nɛnanaananaa, ka kpa mbusu lizaa kuŋfuuhlaa di ba Kɔraawiizi Dia la.","Anya bụ fa so baa hinare, di liri zi baa ndụ ha. Di ene na na na, ka kwa mgbụsị liri za kụmfụla di bakora wizi di ala.",1.0,0.3936
+245,"Awia, n ŋɔ n biini, “Maa kummaa nawɛɛ.","Anya mụ mbịne, mụ na gị na-enwe",1.0,0.7037
+246,"U faa izi Nɛgɛv vol di ra la bɔra guŋŋ ka ga hel Bɛtɛl, bɔr la uŋ faa felee so, a Bɛtɛl ni Ai baambaaŋ la.",Onitsha is a Niger town. The people are very many. Many Onitsha people are traders. Onitsha people are very hardworking.,1.0,1.0256
+247,"Ba wam baglɛɛ wiimaa, ka sɛɛ lugɔ Kɔraawiizi humimbuu ń lizi amaniyesuma la di ra tɛɛ banla n waa Jus hina ɛɛwɛ gunla uŋ faa hum Pitta ge ú lizaa tɛɛ Jus hina la.","Bụọ mba ka lee ịma, ka sị ịlụọ kọra bịzị ọhụrụ mụ bụ Ndịzụ Amara, sọ m na-adịrị a tee ba nla ụwa jụọ sị hị na ewe. Ịlụọ gị nla ụfa hụ m pịta gị olịza a tee jụọ sị hị na gịla.",1.2647,0.5827
+248,"Kɔraawiizi kaa ŋɔ, “Gil nine du chiŋ, di bargi hɔpizaa ni hamuŋa.","Kwara eze ka aṅụ, gị nile dị iche, deba rịga ha pịzaa na ha mụọ.",1.25,0.5
+249,"Di ba wa lizuu, denii gbɔgchɔgrizeŋ hiŋ ge lii chaaŋ ya zumuu.",O nwere ihe ozo? Gịnị ka i chọrọ ịzenye m ihe dị iche a zụrụ m?,1.3333,0.7959
+250,"Wàá bir u har kpu ia, di ii bittɔ ba u be.",waa ber o har ko ya di ibe toba,0.75,0.4138
+251,"Jɛhɔyada faa nyiŋŋi haana banɛɛrɛ tɛu, u lul biibaala ni biihaana.","Ya ho ya dafa anyi ha'ana ba ne ta'u, ulul bi'ibala ni bi'ihana.",1.0,0.2407
+252,Siu faa barimbuu alugɔ muuzeŋ nii n na lɔ.,"So, barambo algo muzenni",1.0,0.5455
+253,"Amnɔn ŋɔ u be, “N na nyiŋŋi n kpɛɛma Absalɔm niuhambie Tamattɛ.","Amnon wa ube, nna ya bụ Nkwema Absalom, nụrụ ha mbe",1.0,0.4694
+254,"Ií kpa kuna la maa baŋ kpawɛɛ tɛɛ ia la ga tɛɛ Kɔraawiizi, Jɛrusalɛm, bá kpaa di ra jaamuu u Dia biini.",Ekpa kunala nma ba nkwa wee tee ya ala ga tee kora ozi Jerusalem. Ba nkwa dira ja mu udi abuo.,0.9545,0.3797
+255,"Yiryitta, Kɔraawiizi Dia guure ani huŋhunna faa so bola la n duglɛɛrɛ.",Erieta kọrọrọ dịa gụrụ anaghị hụ na fa asụ bụrụ na ndụ gị ere.,1.1667,0.5614
+256,"N Dɔɔri Kɔraawiizi, n na nyiŋŋuu ń na ɛɛ i kipar.","Ndo korabize, nna nyinwu nna e ekepali.",1.0,0.4865
+257,Ŋmɛnɛɛ bɛl ɛɛwɔɔ lugɔ uŋ wesse tɛɛ newee.,Mene ne bel ewo lugo? O nwe seti ni,1.125,0.6061
+258,Koori Solomɔn faa hum ŋɔ bá ga ŋɔ Taaya Koori Hiram be.,Koro Solomon faa huma baa taa ya koro,0.9167,0.3953
+259,"Guŋwaa, di nɛr la maa kpa wia ba n be, n daŋ ɔɔ dia ni wibii.","Gụọwa, dị nnala ma kpọọwa ba mbe, ndụ odi a",0.9375,0.5116
+260,"N bagli ia ba wia, ií wer kpa mɛgzi Kɔraawiizi ni newea nuukpaŋ dizi anɛɛ la.",Ebe a bu ya iwere kwanu mmezu koraa buzi n'ime ya na-ukwanu di zi na ya.,1.0,0.5333
+261,"Kennaabuu Koori Hɛzɛkia faa ɛɛ Juda hɛri maa biini, di faa ɛɛ wia la n wesse di deŋli, u wia dɔɔ wibii Kɔraawiizi la unna hum la be.",Kinnabukko Rehzekiya fa'e Juda hara ma bi'ini. De fa'e wia la'n wese de dengle. O wia do wibi kora weze la'n nahum la,0.8214,0.3431
+262,"Nɛra kagboŋa tokkoanaazu, , ge ɛɛ bisɛɛhra, di du giŋgimee nyuuni.","Nera ka gbonya to kwa na azo, nge e besera de dugi ngime nyunu.",1.4,0.3462
+263,"Abramwaa faa so Keenan hɛri, ka Lɔt ga so a waluu bolzenaa biini, di baŋzi u tanti diini dugli bolzeŋ bɛl banna yir Sɔdɔm.",Abram wa faso ke nan here. Kalo gaso awalu bulu zina bini. De banze otanti ze di ne dogo le bulu zinbel bana yir sodon.,1.0,0.3438
+264,"Guŋ wia, a nɛra faa ta jinachɔgaa lugɔ bá kpuu.",gong wa anara fa ta ji na choo ga language,1.0,0.4722
+265,"Ka Kɔraawiizi la ba naabaala n na hum la faa hunzi u dɔgtɛɛzii ba be digiidigii, dikuu unna na ú nɛra ani u duuribɔr la sinyɛna wia.",Kwara weze la ba na ba la nna ha umu la fa hu nze udo te zi ba be di gi di gi di ko onna na onne ra a ne udo re bor la si nye na we,1.1852,0.3269
+266,Koorizeŋ Aatazɛgzis hɔŋ uŋ sɛbɛɛ tɛɛ Ɛzra wia.,"Gudrun, att jag gick hem och sov efter Ezra",1.125,0.7632
+267,"Yeesu Kristo hiŋaa naa biini, di ba teŋ i hɛŋ, di ba waa i hɛŋ teŋŋe, ka a waa wizeŋ maa ɛɛwɛ.","Yes, okay.",1.0,0.913
+268,Awiarɛ n faa hahzi chɔ kaali Taasis la.,"Awa yɛn fa hazi, twokare tasis.",1.0,0.4194
+269,"Denii Jɛhɔyada ŋɔ ba be, “A koori biibaallɛ dɛkkɛ un niŋ kpa u gawa di di a kora, gunla Kɔraawiizi n faa ŋɔ nua lugɔ Koori Deevid naannaa niŋ ɔɔ di a kora la.","Tine Jehova ada ngwa be. Akwụkwọ nsọ Hibru deke, Olenkpa, Ugawa, Dịdi Akora. Gịnị ka akwụkwọ a bụ izi mfa na ụlọ akwụkwọ David na-ala n'ọdị akora?",0.9412,0.5702
+270,N leuwoo di ra juuri alugɔ peezi n leuwe.,"Nlewo, dara jọrọ, alụgọ, peze nlewo.",1.0,0.375
+271,"N Dɔɔri Kɔraawiizi, n na kpaŋiibuu lugɔ i lɛɛŋ.","Ndo akwa na abia, m na-akwanyere gị ùgwù ị̀lị̀ à.",1.1111,0.7297
+272,"Ba ga bɛri zuu u diisee lugɔ banna zuu bá ga ɛɛ mia la, ka tɔɔh u hia, ka Rɛkab ni u lulli Baana jaa ɛɛ fɛɛɛ chɔ kaali.","Baga bere zo, udi se logo, bana zo baga e miala. Ka ton ohea, ka ri ka mne olole bana ja e fie chokali.",0.931,0.3864
+273,"Wia la maa uŋ faa ɛɛwɛ Kɔraawiizi Dia la huma wia biini gɛɛ u Gbɔgni ni u widaulaa hiŋaa nɛnnɛ biini, u faa hiŋ Kɔraawiizii ni biinihuŋŋu.",Nweala ma onfa ewe kpara bu izi dia la huma nwea biene ge ugbo ni ne owi daula hi nga nene biene. Ufa hi nkora bu izi ni biene hu,0.963,0.4
+274,"Hiŋ du bolzeŋ ka ra hiini yaa, aabuu bɔ.",Hindu bhojan karahi niya,1.0,0.5
+275,"Kɔraawiizi ŋɔ u be, “Ga so bolzeŋ Hɛbrɔn.",Gwaa ndị mụrụ gị ga-eso gị Hebrọn. Denye Devid kpọọrọ ụmụ ya na ndị nwunye ya na ndị ikom ya niile fọdụrụ na Bal.,3.0,2.4839
+276,"U kaa kpogliŋ ba Kɔraawiizi Dia jaŋgal la, di mɛgzi u dominuuzeŋ kɛraa daazi, a keŋkerezi bɛl maa wassi ɛɛ nogumzi anuezi.",O ka polim ba koli ja jangala. Nimeri o domin u jen kara da ze. O ke kere zi belma wa si e nogum zi ano ze.,1.1364,0.398
+277,"Ba gil nɛr maa, nabɔnzi ni bichalli maa vɔɔ nua, di tɔ gbɔglɔnzi, guŋ bagli lugɔ ba biine chɔkkɔɔ dikuu ba wichɔgaa wia.","Bá gálà nɛ́ ma, ná bɔ́ nzi nɛ́ bíchàlɛ́ ma vɔ́ nɔ́ a. Ndi tɔ́ gbo gɔ́ lɔ́ nzi, gú mbalu gɔ́ ba bi nɛ́ chɔ́ kɔ́ dɛ́ kɔ́ ba wɛ́ chɔ́ ga wɛ́.",1.3478,0.3511
+278,"Juda ge biini, Kɔraawiizi fɔŋŋa faa du a nɛra benii, ú tɛɛ baa nuukpaŋ, bá wer ɛɛ wia la maa a koori ni u nabɔnzi n ŋɔ ba ɛɛ, gunla Kɔraawiizi n ŋɔwɛɛ la.","Jide aka bini, kwarawezie fọọna fa adu anere bini utee baa nụ kwan, bọ were eweala mma akụọrị na ụna bọnze nnọba ị. Gụla kwarawezie nnọwa ị.",0.9706,0.4655
+279,n ta chiŋ ni hɛri benii.,intaching nehar beni,1.0,0.3889
+280,"Ií gilɛɛ wa gil ɔnsii waa lau ia, ii bɔra ra huah.",Igbara,1.0,0.8378
+281,Denii ií wer dɔɔ wikpila ii kpa di ra chɔliŋ di kaa ra chɔli Yeesu Kristo ani gunla uŋ hiiniŋ n wer bir ba ii be la.,"Ndi ni iwe dowe kwela ikwado cholin, dikala cholin Jesu Kristi anugo nla unyi ni nwe biriba ibela.",1.0,0.3596
+282,A tɛɛbulzi ninɛɛ ba faa kpa mbusu lizaa ola di ra sag.,A taa buro zinnine bafaaka mbu sule zaa ola darasa.,0.8333,0.2619
+283,I kaa kpu i himmaa niuna n ɛɛ i mɛɛ domee hina di bɔi.,ka akpo ihe mma niile a. E i ma i do m ihe na the boy,1.0714,0.5
+284,"A hɔl hiŋ, Kɔraawiizi faa lɔ laal di kpegli Filisti hina werge.","Awalụ ha, kwa afọ ọ bụla ndị Kere eflistehina nwere",1.0,0.54
+285,"Denii u ŋɔ ba be, “Hibru hinuurɛ miŋ, n na jaami Kɔraawiizi La N Na Di Kora Chiŋ la.",Deeni ongba be. Iburu hinure min. Naja mi korojila na dikora chinla.,0.8947,0.3226
+286,"Denii Koori Deevid ŋɔ Netan be, “N ɛɛ wichɔgaarɛ zuu Kɔraawiizi ni.",Tene kọọ David nwa Nathan be. Ewichaara ya zụọ Solomon nwa Bathsheba.,0.9167,0.7736
+287,"Awia, ba faa waa wette zum a danyɛ tɔgzi maga.",Awa bafawa wete zoom adanye togozi,1.0,0.3714
+288,” Ka aabuu faa gillɛ u ni Izrɛl hina maa chol la.,"ka abuo fa gelle, one Israel hinna ma chulla",0.9091,0.3611
+289,Gilɛɛ gil u wàá chɔgi kuna la maa hiŋ kuuhwɛ na la.,"Gele gele, uwa chọrọ ịhụ nna ya.",1.0,0.6923
+290,"Ama, baala baŋhina faa lii Asɛ, Manasɛ ani Zɛbulɔn dizi biine, di sɔɔni siwii, ka la Jɛrusalɛm.","Ama ba la banghina faali ase, mana ase, aneze bulon di zi biine de so ne siwi ka la Jerusaleem.",0.9412,0.2432
+291,"Koori ŋɔ, “Izi di ra kpo.","nwa wee laa ma ndu di nwayọ. Tupu ahịrị ahụ nke kpaa akụkọ David be, dịka gịnị jọgburu onwe ya ka nọ? Chara. Ihe ni akụkọ peezo bịara",4.5,5.5294
+292,Di lii a dominuuzeŋ ga hel a jaŋgal tuna faa ɛɛ nogumzi tokkoanɛɛ ni fi.,,,
+293,Aabuu faa gillɛ Kɔraawiizi la u naabaala n na hum la baaŋ fuuh werge maa la.,"Naa bofaa gelle koraa we zilla, unna baala nna humla baa fu werege maa",0.9375,0.2667
+294,"Gunla maa uŋ faa dau Yeesu Kristo wia u kipar biini, faa suahwɔɔ yaa be.",Gullama'un faɗa wa Kiristoci waɗanda suka yi fadiwa,1.0,0.6071
+295,"Banla n gillɛ ba teŋri ba hɛna la, ba himmaa waa Gbɔgni la maa ra hiŋ.",Balla angila bateng bahenalla bahemma wa kizila maara hen.,1.0,0.3585
+296,"Yaa daŋ teŋri daazi la maa hinna nyiŋŋi lii Lɛbanɔn, di vɔɔzaa sugesuge, di du muuzeŋ, nii palaa la Jɔpa.","Ya dan tingri da zila ma, hinna nyin le lebanon, de voza suge suge, de dumuzin ni pala la jopa.",0.9,0.3049
+297,"N Dɔɔri Kɔraawiizi, hinuu kunla maa min dɔɔwɛ.","Ndi ọkọnọ beze, enọkọnọ mma m'ndọ",1.0,0.6757
+298,"Ií ra tɛɛ Kɔraawiizi jaaŋ, dikuubɛɛwiai, u wia wessoo.","Eratè kòra wì zè jàŋ dè kò bé wì ayì, wì ayì wè sùò",1.5556,0.6047
+299,"Ba paagi ba biihaanaa, di nyiŋŋi baŋhina ge tɛɛ ba biibaala.",babi bahana,1.0,0.8125
+300,"U faa purgaabuu, ba paagaa lii a bolzeŋ biini, di ga ta.","Onye furu gị abụghịzi mbịne, dịka",1.0,0.7619
+301,Kunyauri ɔɔ ra nuumuu kuŋ yoola n kpolle wiarɛ.,"Kunya o ra ora nu mu, kunyo la mpole we ara.",1.1111,0.3421
+302,Kɔraawiizi nuuzi wessoo di dɛg yardaa.,Kora wé zenu sé za wé so de derrière,1.5,0.625
+303,gilɛɛ waa birgi!,lewa birgi,0.6667,0.3846
+304,"Bɔbiri tintintiŋ, faa tɔ a nii ni.",biri tin tin tin fa to anina,1.0,0.2692
+305,"Denii Kɔraawiizi gil laalinla lii tinni wa tɔ a pampanni ni, u chunchugli wa tɔ Joona ni, wiizi waa kaa ra kpuu.","Nnewi bu obodo di na Deni koro zie gi lali lali tinne wato apampa nene, ochuchugwu wato juna ne, wezi wa kara kpu.",1.0455,0.4886
+306,"Dikuubɛɛwiai, n ɛɛwɔɔ lugɔ hɔɔhri i be, hɛri naa biini.","Ndeewo, bebi anyi. Ị nwere ike ịbịa here na abalị?",1.0,0.7674
+307,"U jaŋzi faa du nogumzi tokkoanɛɛ ni fi, u wassi ge du nogumzi tokko ni anue.","Ya bụrụ na ị fụ, wasị gị na ị nọghịzi na àlà",1.0,0.7797
+308,"Ka hɛri la ge sela diiribɔr faa waa kaŋ bá maa wer so de, dikuubɛɛwiai, ba faa dɔɔ selaa werge.",ka hera lege sela diiri borfawa ka ba ma wiri sudi de ko be wayi ba fado sela wiri,0.85,0.3562
+309,"U faa di a koraa di so Jɛrusalɛm biini, binni fidaanumbɛl.","Fadi akura da sojojin salama bine, benne fida numba.",1.0,0.3913
+310,"Waabuu ra hiini nɛra la wia n deŋlee, ba dɔɔ wibii.",Waburahin nara lawya ndengle bado wibi.,1.0,0.3077
+311,"Ka di n haa du de, n daŋ haa wer hum huma a haa wer dɔɔ hiinaa werge.",karin hadu de,0.9444,0.8
+312,"N gɛrga la wia faa kpolloo ii be, ka ii faa waŋ gbɛllɛɛ dikuu a wia.",Ka e fa wa ngbele de ko awia,0.9375,0.7059
+313,"Saŋa bɛl n wa helle, Koori Joas faa ra nyiŋŋi u kaa bir kuari Kɔraawiizi Dia la, ú du wer.","Sanga bel un wahili, kore juas fara nyinye uka bir kwarakwara we ze diya la. Udu we",0.95,0.3676
+314,"Denii n faa so ni bɔhuaih, guŋŋ duana mbusu lizaa wa hel.","N'ihe gbasara ụbọchị gị, gịnị ka ị gụsịrị zaa wa?",0.9167,0.7273
+315,Diini la biine banna ɛɛ mbusu lizaa kuna siryazi wia.,"Dele la bienvenida, van a ir a Mutsuleza con la silla de ruedas.",1.2,0.6977
+316,Ka gil hìŋ́ Moosis ɛɛ hɛri la hina n niŋ dɔɔ fɔŋŋa werge mɛɛ.,ka gellu himosis e herela hina nindo fanga werge me,0.7857,0.3913
+317,"Kɔraawiizi ŋɔ u be, “Ɛɛh, a la.","Mba, enweghị m obi. Ee, ala. Di m dị ka apịazị.",1.5714,1.3333
+318,"Awia, Abram panzi u tantizi, di izi ga so dugli Mamrɛ daazenaa n du Hɛbrɔn, di ma mbusu lizibɔr de tɛɛ Kɔraawiizi.","Anya, abrampanze otanteze, de iziga so dorle, mamre dazina ndo hebrom, de ma mbuso lezi borde te korawize.",0.9091,0.3146
+319,"Duana mbusu lizaa n wa helle, n izi di lii bɔr la miŋ faa soge ni bɔhuaih ni n laalipiilaa la, di giŋŋi, di yaa n nonee chiŋ tɛɛ Kɔraawiizi la minna hum la, di suŋŋuu ŋɔ.","Doana in butuliza wahelle, in izi dille, balla min fasoge ni bahuwaye ni in lalle pilla la, di ginne di ya nono cinte koro zilla min nahum la. Di sunno",0.8108,0.3566
+320,di ra la saŋaa saŋa maa.,Drala Sangha Sangma,1.0,0.3889
+321,"U faa di a koraa di so Jɛrusalɛm biini, binni tokkoanɛɛ.",Ofadi akora the so Jerusalem bi ne? Benitokwanu,0.9091,0.3409
+322,"Awia, ii gilɛɛ ra binni iihinaa dɔɔi la pɛɛ, ka lau guŋ nɛnnɛ.",Awa igle ra bena ehi na do ela pe ka logun nne.,0.9231,0.4468
+323,A ɔɔ kaaluu lugɔ muugbessi la n gbaŋŋɛ nii nyuu.,"Okaalu, lukomugbe sila ngba n'inyu.",1.0,0.3421
+324,"Ka Koori Uzzia n jaa wa dɔɔ fɔŋŋa werge la, u jigsi faa gil u chol.","Kakorɔ oziya, njawa dofo ngawirigela ojegese fagel ucu.",1.0,0.44
+325,"Saŋa bɛl, ba ɔɔ kpa nɛchɔgii dignitɛraarɛ di tɛr nɛnanii digni.",Sanga Bel baa o kpa ne choge degeni tera de ter ne nani degeni,1.1818,0.4118
+326,Kɔraawiizi faa gil u nua la uŋ ŋɔwɛɛ tɛɛ Jɛrɛmia la wa ɛɛ wibii.,"Kwara bụ ezigbo nwa agbọghọ, ọnụ ya na onwunwe ya na-ejere mmadụ ozi ọma.",1.0,0.88
+327,Ba faa kaa kpa saliŋ tɔ chiŋ diini la koŋlaa.,Bafaa ka akpa saalentoo chiin diinila konla,1.0,0.2571
+328,"Bɛl maa faa hiinoore gunla maga uŋ wette, ba kpaa jaa kebee la baŋ kɛɛwɛ ni, bá ma a Dia.","Bà mà phải hiền khô rồi, con làm gì cũng được. Bà không có giận, bà không có la rầy. Bà mà",1.1,0.8358
+329,"U himmaa gba faa ra yali siwee ú lii, dikuubɛɛwiai, Kɔraawiizi faa kpa bɔchɔgaarɛ ta u ni.","Onye mma agba, fa ra ya le si wee ole? Na ka o be wee anyi, koraa wee za fa akpa bọchọ gaare taa une.",1.4118,0.3944
+330,"Ií nɔŋŋi Kɔraawiizi, ii banla maa n ɛɛ u nɛra la.",Ndi nwe ngị kọrọ akụkọ a banyere,1.0,0.8108
+331,"U kora dii saŋa, wia la maa uŋ ɛɛwɛ, u huŋhunnaa di lii u lugli di ga hel u tuna, ba faa sɛbaabuu du Juda ni Izrɛl Koora Faala Hɔna biine.",Kọrọ dị ịsá na-agwa ụmụ Israel ihe niile Chineke gwara ya. Bafasịbụ bụ onye Juda na Israel ka ọ ga-afala ahụna binu.,1.0,0.6442
+332,"Ka Kɔraawiizi n nɔŋŋi yaa werge maa la, u wer suŋ yaa ni werge, di lalli yaa siu la yaa n siuwɛ dikuu yaa wichɔgaa la wia biini, yáa ni Kristo maa wer kpau dɔɔ miibɔɔ.","ka o na-eweta nwa ya nwoke mara, o were suwa ya na-ewere ya na-ala ya na-aso ya na-nsi ya deko ya wee choo ka ala wee bia ya. Ya na Kraist ma were kwa udo na ibe ya.",1.0278,0.5469
+333,"Too, yaabalaa, iáwaa ɛɛ winanaa hanna la di gilɛɛ ra kuuh.","Too, ya wala, ya wa ewinna na aha na ala di gị n'akụkụ.",1.0909,0.4
+334,"Koori Deevid laallɔkpega la sɔnaa keŋ, Takɛmɔn hinuu Jɔsɛb Basɛbɛf, waabuu faa Laallɔkpega Bahoro la sitɔɔri.",Kọdịbịa laa na ụlọ kịga. Takị mụ onwe mụ bụ Joseph Bassebe. Mụ abụghị onye a na-alọkịga. Biko laa site ụzọ.,1.3125,0.7253
+335,"Awia, Taama la u kpɛɛma Amnɔn dia, di u chɔɔwɔ, u ga kpa sau di ŋmir, di ɔɔzi paanuu u sibɔɔ, di kpau du pɛrɛtu biini wa tɛu.","O wee taa mala, o kwe ma anom di ya. Di ochie owo, o ga-akpasa udi nwere di ozo pa nu udi bu ozo. Di kpaa na o pere tobiini, wa taa",1.0,0.4457
+336,"Chɛɛtɛ ɛɛri ɔɔ ra nyiŋŋi nunzumaa, ka wàá nau.","Cheta na oge ọzọ, ị gaghị anọzị ma ka wa nụ.",1.1111,0.6944
+337,Koŋliisaagaa la n du a baambaana gbossi faa ɛɛ nogumzi anuezi.,Koli ha gala ndu abambana. Bosifa e nogumze ano eze.,1.0,0.2941
+338,n dɔɔ Kɔraawiizi tamii la.,Ndo kwara biza Tamil.,1.0,0.4762
+339,U faa kaa gil ba ma diŋŋee ge tɛɛ Kɔraawiizi kizeehina.,O fa ka gel bamma dinye gete kora weze kizi ehina.,1.0,0.3636
+340,"Ka u biinichɔg werge hiŋ biini, u faa sɔɔni siwii, Kɔraawiizi la u naabaala n na hum la be, di suŋŋuu ŋɔ ú hinuu.","ka obi na-achọ were gị na obi. Ọ fa sọ na-asi gị, kwara wee zila ụna baara nna ha ụmụ labe. Dị sọ nụ ṅaụhị nụ",1.0417,0.5349
+341,"Yaa wichɔgaa nyaŋŋɔɔrɛ, yaa chɔgri ge ga chug baama.",Ya wuchu ba anyang ore. Ya chori gi gachuk ba,1.1111,0.4048
+342,N hah banla n na kuari vuga n waa tɔna dɔɔwɛɛ.,"Nna be anyi, nna kwara vuga nwa tona dowe",0.9091,0.3714
+343,Kolzeŋ la uŋ mawɛɛ hɔŋ nabala fidaanɛɛ ni la.,Kozilla umma wehọn na bala fida anẹna,1.0,0.3333
+344,"N biinichɔg biini, n yir Kɔraawiizii.","Bini chaw bini, inyere koraa wee",1.0,0.4667
+345,"Ka ŋɔ, ‘N Dɔɔri Kɔraawiizi, i ŋɔwɔɔrɛ lugɔ i daŋ chɔgi bɔnnaa, newee gɛɛ sel maa wàá ka du de.","Tango, dooro koroze, ngor alugo idan choge bonna ni wege selma wa ka du",0.9,0.5
+346,"A hɛri nabɔnzi ni a nɛra maa bɔra faa sɔɔni, ba kɛɛ ba kebee di ba waa du a dakka biini guŋŋ u wa su.",Aherenna bonze ne annera m'a bora faa soone. Bake bake be de ba wa du ada ka bi ne gon uwa,0.88,0.3467
+347,"Ziba ŋɔ, “Jonatan biibaal bɛl haa du denii, di ɛɛ gbɛrii.",Jonathan,1.0,0.814
+348,"Yaabalaa, Kɔraawiizi yir iabuu ií wer dɔɔ iihinaa.",Ya bụla kọrọ ihe ị rịọbụ ị were dị ihe na.,1.375,0.5854
+349,"A dominuuzenaa jaŋgalli la n faa bar a biini diŋŋee la jaŋzi faa du nogumzi tokko ni anuezi, a wassi ge faa du nogumzi anuezi.","A dominu zena, jangale lanfaabar abin dingela, jangde faadu nogumji tokonii anuyeze. Awasi ge faadu nogumji anuyeze.",0.92,0.23
+350,Ka ga lau a nyaari la pekpaŋ la uŋ dɔɔwɛ la di kpu hɔɔhruu.,ka galau anya la pekpan la ondo we la depon horo,0.7143,0.4
+351,"A Kolzeŋ naa nua kɛraa, faa dɔɔ nabalaa, fi ɔɔ du nogume maa biini.","Akolite na nwa akera fa do na bala, fi odo nogu me ma biine.",0.9286,0.3333
+352,"Denii a hɛri hina ge faa kpu banla maa n ta Koori Amɔn jina di kpuu la, ka gil u biibaal Jɔsia kpa u gawa, di di a kora.","Dị na ahịrị nke na-egfa kpọmkwem na ma, ntakịrị amon jị na de kpọla. Kagel obi bal, Josịa kpa ogawa dị dị akwụra.",0.9655,0.427
+353,"Denii a bol haaŋ bɛl ba kɔlɔŋ la ú wa dɔɔ nii, di Yeesuu soge de.",ni di wa bega ni di we di,0.875,0.7708
+354,"U faa waa kaa ra hiŋ Kɔraawiizi la unna hum la nɛnnɛ, dikuubɛɛwiai, u himmaa faa zuu Kɔraawiizi Diarɛ, di fuuh daahɛgsɔɔhsuma, a fuuhribɔr la ni.","O fa wa ka ra hĩ Kwarawe zilla, unna humla nenne. Di ko be yui, o hi mma fa zo Kwarawe diari. Di fu da hĩ so suma, a fu wur borla ne.",1.1154,0.4087
+355,"Kɔraawiizi ra ɔm, laba du.",corazón lavado,1.0,0.65
+356,N la ga bagli baa gunla maa miŋ ɔɔ lizi amaniyesuma la di ra tɛɛ banla n waa Jus hina ɛɛwɛ la.,,,
+357,"Ata, ba kaa ra yiruu Hɛzɛkia domeezi naanna faa du tokkoanaazu ni fidiŋmantannaazi, .",Ata bakara iro Hezekiya domi ezinana fa adu toko anazo nifiri mata naze.,0.9231,0.2754
+358,Bikri domee baala maa chaali hiŋuu zuu a bolzeŋ biini.,Biko do me baalama chali. Kedu ụzọ abụrọzị m,1.0,0.4773
+359,"Yaa n yardi Yeesu, u ni yaa kpau la, yaa jaa dɔɔ bampiriire lugɔ yaa n niŋ hel Kɔraawiizi be.","Ya ni yel di yeso, o na ya kwola. Ya ja do bampire logo ya ni hil kora",1.0,0.4789
+360,Maa nyiŋŋi nɛr maa wer ŋɔ witama keŋ ii banchulli tenna lɔ ii ra fɛ lugɔ yaa Dɔɔri hɔpizii la teŋ ballɔɔ.,Ndi ịnyịngne na-ama were nwanyị nwata maka ịbụrụ ya na-alọ ịraferụ go ya adọrọghọ pịzị ịletụ mballụ.,1.0,0.6627
+361,Nɛr n du hɛrduma wiisuŋŋaa wia.,na wuro hinneke na la ndo herduma,1.1667,0.92
+362,"Ba ŋɔ, “La, dikuubɛɛwiai, Kɔraawiizi daŋ kpa baa du hìŋ́ koori nonee biini.",la deko bewae kora wizi dan kpa ba dohi kuori no na ebini ka kuori Jehosaphat peze kora wizi do tema wa ho en ya,1.8462,1.1053
+363,U maa sɔnnɛ faa Zibia n lii bolzeŋ Bɛɛsiba.,Masa na fa zibi a nlibolzin,1.0,0.4412
+364,Koori Solomɔn faa gillɔɔ ba kpa saliŋ kuari kuna la maa ge n du Kɔraawiizi Dia biini la.,"Koro Solomon faa gi loo bakpasali nkwara kuna la, maa gi ndu koraa zi di abii ni la.",0.7778,0.2
+365,di na tɔgzaa.,dina torgaza,1.0,0.4
+366,"Baabuu Jeroham biibaal Azaria, Jɛhɔhanan biibaal Ismɛl, Ɔbɛd biibaal Azaria, Adaaya biibaal Maasɛya ani Zikri biibaal Ɛlisafat.","Babo Jahorim bi'l, Azaria. Jahorim bi'l, Ismail. Obed bi'l, Azaria. Adaiah bi'l, Maaseiah. Hanani bi'l, Elisaphat.",0.8824,0.4953
+367,"Ka di u wa siuwɔ, nɛr maa wàá chɔluu, dikuu u wiɛɛlaa wia.",kàdè owá séwó nàràmá wá chòlú dèkú owí èlàwí,1.0,0.6279
+368,"Asna, Mɛyunim, Nɛfusim.",Asna. Mayunim. Nefus.,0.6667,0.2222
+369,"Awia, gaagi a hɛri maa di na, dikuubɛɛwiai, n kpaubuu di ra tɛi.","Anya ga-aga aheru mmadụ na nke ọbụla anyị, mkpa bụ dịrịte.",0.9231,0.5417
+370,"Awia, Lɔt lizi Jɔɔdan Waluu la, di izi kaali wiifurii.",Lot is Jordan,1.0,0.8333
+371,Kɔraawiizi daŋ chɔgi baa dikuu baŋ faa waa sɛɛwɛ bá nɔŋŋi wibii la ú faa wer lɛɛ baa wia.,Kọrọrọ ebe ịdị nchọgaba na kọbanfa waseewe ba nọ nọwịbịla ofa wụrụlị ebe awụya.,1.0,0.5714
+372,"N Dɔɔri Kɔraawiizi, n ba i benii í guuŋ.",Mba ibe ni igwụ,1.0,0.7
+373,"A guŋ saŋa, hàá kaa lɛɛ n nua di mɔgliŋ.",ka gona di wa kale a korinwa o la lora si tora job abesa,1.4,1.1379
+374,"Durnya naa biini, baŋhina dɔɔ fɔŋŋaa, baŋhina ge ra di tɔɔrɔɔ dikuu ba fɔŋŋa hiŋ wia.","Duru nya na b'ine, b'ange na do fa nga b'ange na gera di toro de ko ba fa nga hi",1.125,0.4478
+375,"Baŋ ŋɔ ba lizi ba wichɔgaa giltɛɛi mbusu ge, bubala fidaanɛɛrɛ ba kpa lizi mbusu.","Bịa wa kpọrọ m bịa, bịa weta gị na mbu su gị. Bịa kpọrọ afịa na-ere bịa kpọrọ m bịa mbu su.",1.4667,0.6923
+376,"Ii waa Jus hina ɛɛwɛ, awia, ii waa ii hɛna teŋree.","Iwa ji si hena ewe, awa iwa ehena",1.0,0.5405
+377,"Joas binni faa du aniidaanɛɛ, ka u di a kora.",Tu as bien fait de l'aider.,1.0,0.6471
+378,"Hɔpizikpaŋ biini, Rɛmalia biibaal Izrɛl Koori Pɛka, faa kpu Juda laallɔɔra kagboŋa kalfa ni tokko, dikuu Juda hina n faa vɛɛ Kɔraawiizi la ba naabaala n na hum la wia.","Ọpụzụ ụmụ beene, Remalia, Bibal, Izraelkụre, Peka. Fa kpọrọ Juda laa lụọra ka gbuo na Kalfa n'itọkọ. Dika Juda hịna mfa vekọra wezị laba na baala nna ha ụmụ laa we.",1.0,0.3806
+379,"Di ba ŋɔ Kɔraawiizi Dumaa bagli baa guŋ ba ra ŋɔ, di ii nuu guŋ nɛr maa be, gɛɛ di ii na hɔŋ bɛl ba dar ia lugɔ yaabuu sɛbuu, ka ii gilɛɛ sɛɛ di gil u guŋ tir ia.",de be nwe okoro a bu zi do ma ba goro ba go mbaro nwe de ino ugo nne rima bi ge di ino ho mbelu ba dara ya lugo ya bu sia bu ka yi gi le si di gi ugu nti,1.025,0.4874
+380,"Nɛra kagboŋa ahoro ni kalfaanumbɛl, , ge ɛɛ ba nabɔnzi, di ra binni ba ni, bá ra hum.",Nne na ka gbonye a horo na kalfanu mbel ge e ba na bonze tera binne bane barahum.,1.0588,0.2698
+381,"U baaŋ faa fuuhwoo di hel lugɔ ú chɔgi ia, ka u faa kaa nuu di tɛŋ.","O ba fa fuo di helugo, o choga ya ka ofia ka anu di",0.8235,0.4082
+382,Ɛɛŋ gunla i nɔŋŋaa la n waa tunaa dɔɔwɛ n na bagli.,Ya ngolla inọ ngala nwatu na adọwe nna bagle.,1.0,0.359
+383,"Koori Ahazia maa Atalia n wa nawɛɛ lugɔ u biibaal siuwɔɔ la, u faa jaa ra nyiŋŋi lugɔ u dim Juda kooridiahina maa.",Kedu ahia ma atalụ? Nwanne anyị nwoke lụrụ nwaanyị Igbo aha ya bụ Ụlọ. Ụfọdụ ajụala nye ya ajụjụ gbasara ụdị ndụ dị iche iche. Kedu ihe na-eme?,1.2174,0.8778
+384,"Di annii faa waa i siwii suwee, n daŋ faa tɛi aŋhina jaa.",na anem faa a esi wisu wee idan faa tei ahina ja,0.8462,0.3256
+385,Koori Joas ni Jɛhɔyada ɔɔ faa kpaa di ra tɛɛ huŋhunna la n na hum Kɔraawiizi Dia huma la.,"Kọrọ Jọasị na Jehoshabeat ọfá kpá, na-até hụnhụn na na Nahum kọrawe zịdị ahụma.",0.9474,0.5286
+386,"Uŋ wa tuuzi Amasa lii a ŋmɛnɛɛ tuŋ, a nɛra maa hiŋ Joab di ra dau Siiba luge.",Wato zo ama sale an mana karatu an nima hin job da dau siba,0.9444,0.4828
+387,"N Dɔɔri Kɔraawiizi, anna liizi i wiarɛ hamuŋa ni.","Ndo akona beze, na leze eware hamungha",1.0,0.5897
+388,waa tunaa dɔɔwɛ.,waa tunado we. Balla ma nna om kora wize enwo uno nga waa tunado we.,4.6667,3.3077
+389,"Ií gil ba bir kaali, di guŋ lɛi, Kɔraawiizi daŋ tɛr ii digna ni baaŋfuuih werge.","Eagle baa bɛrɛ kaale, de gunlai, koraa wɛzɛ danter i digina, ni ban fu i wɛrɛgi.",1.0,0.4194
+390,"Yaa daŋ wer ɛɛ keŋ, di lii kuuhni la yaa n na kuuh, yaa de dui durnya naa biini naa.","Ya dan wuri king, da lekon la ya naku ya dai dwi duniya na bi na.",0.95,0.4839
+391,"U kee bɛl jaŋzi ge ɛɛ lugɔ nogumzi anue, di ge ga chug lugli hiŋ la kee bɛl.",Ke ebe m ga-azụta akwa na-adịghị ọnụ ala? Biko gwa m.,1.0,0.7544
+392,u wia waa ɔɔ dɔɔ wibii.,O wa lang. O ya wa o do wibi.,1.5,0.7647
+393,"“Izrɛl hina, iabuu kawɛɛ di lii Asiiria hina laal la baŋ wa lɔ yaa la biini.","Izi ra hina, ya ka we dili asiri ra hina lala ban wa loya labine.",0.9375,0.3276
+394,"Denii Kɔraawiizi kaa pɛɛzi Sitaani, “Ɛrɛɛ n balii Joob wia duɛi?",Ere mbalị jobụ ya adọ,1.0,0.8235
+395,"“Koori ni u nabɔnzii du gbɔg naa di ŋɔ nɛ́r maa ni sel maa, gilɛɛ waa di diwee gɛɛ kooree, bɛl maa gilɛɛ waa nyɔɔ nii gba.","Kwere nụ na ọ na-abụ ndị gị bụkwa na, dị nwannem a, na-esila ma gị na ya dịdiwe gị ekworo, belụsọ gị na ya anyụọ n'igwe.",1.0,0.6264
+396,di ra du n ni.,"nne, nna. Bịa na mụ na gị, mụ na",1.8,2.0
+397,Kɔraawiizi mɛlika ɔɔ ra guu banla maa n na tɔgzuubuu.,"Kọlọbịzị m na-aka ọ ragụ, biko nyere m aka na nsogbu.",1.0,0.7209
+398,"Ba faa wa lɔ baa laal di kpegli baa, ka chi kuna la maa n du a kooridia, u biibaala ani u haana maa kaali.","Bịa fa wa lọ ba Laalụ dịkwa gịrịba, ka ha chekọna laa maa ndụ akụrịdịa obi baala, ana ọha na maa kaala.",0.84,0.3418
+399,"Baŋ ɛɛ gunla, denii Ijip koori ɛɛ Abram nɛnnɛ, di tɛu peeza ni nauna, kaubala ni a niinazi, yombaala, yoŋhaana ani nyugmazi.","ba egwula, dini Egypt koro ya Abraham nna. Di tewu peza nna na ka ubala na aninaze, yombala, yongana, aninyogumaze",0.9545,0.3505
+400,"U faa kaa ma vuga kuaribɔra genii Juda hɛri giŋgimee nyuuni, di gil Jɛrusalɛm ni Juda hina leu, di ra kuari vugkpila, ka gil Kɔraawiizi hiŋaa.","Ovakama voga kwara bora gini, Judah heregi ngimenu one. Digil Jerusalem ne Judah hina liwu. Dira kwara vo kwela, ka gil kora wi zihi nga",0.9615,0.3097
+401,"Asaf naanna faa du kalfa ni tokko ni ŋmantannaazi, .",A sa na na fa duk kalfa ni toko ni manta na azi.,1.1111,0.1951
+402,"Yaa ni Kristo n kpauwɛ la, yaa nuu maanii du Kɔraawiizi be, u bɔr, di ra di suma la.","Ya na Kristo onye nwe anyị, ya na nne ya bụ nwaanyị dị ukwuu n'ime ụbọchị dị ịse",0.9474,0.7419
+403,"N ni Banabas kpauwɔɔ la, di ga lau Taitus jaa yaa ni di la de.",Nne ba na baa kpaa wo landi kpaa taa Tuesday jaa yaa ne di,0.8667,0.4348
+404,"Nɛr la n ɛɛ gbɔgchɔgrizeŋ hiŋ daŋ lii mɔɔ, unla Kɔraawiizi baaŋfuuih n teŋ du u ni lugɔ ú chɔguu la.",Nna m na nne m na-akwado izaba nne na nna m na-asụ asụsụ Igbo.,1.0,0.8205
+405,"Di ii wetto ra ɛɛ guŋ, ii ra hiŋ Kristo widaulii la maanii nɛnnɛ la.","Diweto ra egon, irahen Kristo wi dauli la ma ni nennele.",0.8667,0.3077
+406,N pessoore di na lugɔ wichɔgaa du durnya naa biinii werge.,Nche sọrọ dị naụlọ gị? Wechọga adịdịrị ya na abịanị were gị.,1.0909,0.4468
+407,"Awia, ií gilɛɛ kaa ra ŋɔ ii dɔŋahina wia ni wichɔgaa.","Awe, igi lee kaara nwa idonghi na awe ni we choo",1.0,0.4634
+408,Denii u mɛgzi dominuuzeŋ la n chaŋ wiifurii nomɛɛl wiikakag la baŋ gawɛɛ ra zuu a baŋgia diŋŋee la jaŋzi ni u wassi.,De ne omer di dominu zela nchanwi furi nomeru kakala. Bangu we razo abangu ya dinye la jangze ne owase.,0.9565,0.3978
+409,Haali koora n soge di ra ta n jina gba.,Halikura nsogedera ta njina,0.9,0.2414
+410,Ií gil ii bɔra sɔɔni dikuu yaa n ɛɛ u hora wia.,"Ekele ebere sọ nụ, deko ya, ụnụ e, ụnụ horo",1.0,0.6857
+411,Gil n baglii gunla nyugaa naazi wia n duwɛɛ.,Mbalé gulla,1.0,0.8
+412,” Di u hiŋra ge kpawɔɔ zuu bol biini bá ga nyiŋŋi diwee di.,n'ihe a. Ọ nwa gọnnadị ka ọ bụrụkwa na juice na-afá ọ ragbelụ sọ mmadụ ahụ na-aṅụ. Gbafee wa ọrụ anyị na-arakwụ ka mma abụọ. Yesụ nwa.,2.0769,1.9091
+413,"Ima naanna faa du kagboŋ ni tokkoanɛɛ ni fidaanɛɛ, .",Manna na faɗu ka gbon ni toko a ne ni fida a ne.,1.2222,0.2683
+414,"Ka Kɔraawiizi faa gil wiilkpega chol Ijip koori ni u diahina ni, dikuu Abram haaŋ Sarai wia.","Kakoraze faagel, wi piga chol iji kure ne odaahena ne. Dekoro Abraham haan Sara",0.9412,0.4189
+415,n daŋ jaa gil tɛɛ baa.,Nda njagala teba.,1.0,0.4375
+416,Izrɛl hina la n kawɛɛ la ge faa so bola la ba naabaala n faa soge la.,is,1.0,0.9615
+417,"A koori faa tɛɛ ŋmɛnɛɛ, ba paagi bia di lɔɔzuu kpu, Kɔraawiizi Dia diŋŋee biini.","akụkọ ife nwere na-abapụta na ụzọ ụkwụ, kọwaa ya dịịrị gị ịghọta.",1.0,0.7619
+418,"Denii Kɔraawiizi ŋɔ n be, ‘Tuu manaŋ, dikuubɛɛwiai, i nɛra la hiŋ kpoglee lii Ijip hɛri la chɔkkɔɔ, di ɛɛ wichɔgaa.","Tani ka na-ewizi ngwa mbe? Tụmanụ dị ka o beghi anyị, ị na-arịla ịkwọghịlị ịjegharịla? Chọkọ dị ewi chọga.",1.0,0.5955
+419,"Azmavɛf baala faa du tokkoanɛɛ ni anɛɛ, .",Asma bɛɛ bala fadu toka ne ni ani.,1.0,0.3438
+420,"Ii banla n na nyiŋŋi ií ra hiŋ Gbɔgni la, ii waa nuuwɛ gunla Gbɔgni la n na bagliaa?",Ihe a nụrụ na-egosi na ihe ka izi na nna baghị ya.,1.0,0.7031
+421,"” Ɛlisa sɛɛ, u ni baa kpa di kaali.",O ne ba kwa di ka,0.875,0.625
+422,"Joab ŋɔ Amasa be, “N niwee, jaanjaamu, i du ɛrɛɛ?","Jawa mụ a masabe, nne wee jee nja mụ. Edo ere",1.1,0.4286
+423,"Denii í nyɛɛli, i wiɛɛlaa maa ge lii siwee nɛnnɛ.",Enye ele iwe ele ama ke lisiwe,1.0,0.5526
+424,Binni tokkoo Koori Solomɔn faa kpa di ma Kɔraawiizi Dia ni u kooridia la.,"Di na tukwuo, k'ọrụ Solomon fa kpa, dika ọ na-ezite dia, na-arịọ ka ọrụ diara",0.9286,0.4915
+425,"N daŋ piguu, di u haa kuuhwɔ di pɛssi, ɔnsii lawuu, ú nɛra maa chɔ yaari, ka n kpu u bɛŋ, ka lauri banla maa n kawɛɛ wa tɛi.","Ndam pigu, de oha choro di pese. O si laa wu, unu ana m acho yaari ka m kpuo oben. Ka na-aruba nla ma nke a wee wata",0.8966,0.4222
+426,"Awia, yaabalaa, ií haa lau chigigi di ra hiŋ.","Kavya, ya bala, ya lokin kin da rahen",1.0,0.5882
+427,"U faa ɛɛ wichɔgaarɛ zuu Kɔraawiizi ni, gunla u mɛɛ Koori Manasɛ n faa ɛɛwɛ la.","Nfa Ewichọgaranya zụkọrọ ha izizi, gụọla ụmụ ya bụ Kọri na Ase, Nfa Ewelọ.",1.0,0.5738
+428,"Ka di ii ni ii dɔŋahina ra naa, di ii waa tau ra du, ii daŋ chɔgi dɔŋa ni.","Kada inai dông a hinaranna, di iwa taura do, ima dan choga dông",0.9474,0.3774
+429,"Di kaa lii Janoa tuu la bolzenaa Atarɔf ni Naara, di kaa ga hel bolzeŋ Jɛriko di ga Jɔɔdan muu lii.",de kali janua tu la bulzina atarof ne nara de kaga hel bulzen jeriko de ga jordan muuli,0.8571,0.2597
+430,Ba faa huguu Koori Deevid bolzeŋ la biini.,Bafa Hogo ko Rid David Bolzing Labin,1.0,0.3529
+431,"Kɔraawiizi faa hiinuubuu, u kpegli Filisti ni Lɔrbizi la n faa soge Gur Baal ni Mɛyun hina.",Kwara bụ ebe fa hụrụ bụ Okpella Philistine. N'ihi ọrụ bekee na-afa soge gọọmentị na Meyun,1.0,0.6438
+432,Kɔraawiizi kizeehina kpila maa ge faa sɔ bahinaa di lizi doŋa ha.,Kwara wizi kizehina kwela ma ge fa soba hina. Deh leze dunga,1.0,0.3585
+433,"N Dɔɔri Kɔraawiizi, bagliŋ i Gbɔgni la zɛɛzi.","Ndo rukundo rubize, baguhaye igihe cyo kuririmbira",1.0,0.8889
+434,A ɔɔ wii Kɔraawiizi ninɛɛ.,,,
+435,Kɔraawiizi gillɔɔ ii wer sɛɛ Kristo wia di kaa wer di tɔɔrɔɔ dikuu u wia.,Kedu ihe eji gị lo iwere sị Kraist bụ ihe dịka iwere dịtụ ọrụ dịka,1.0,0.6034
+436,Ba nauna ni buuna faa dɔɔ ilanii werge.,Banauna nebona fado ilani,1.0,0.3871
+437,"Denii nɛkpila maa faa chaali Jɛrusalɛm biini, baaguzi anɛɛhiŋ biini, bá di Paanuu La N Waa Yiisi Dɔɔwɛ Hɔpizizenaa la.",Dị n'ime akwụkwọ Maazị Fachaala Jerusalem bịara baa gụzie ana ehi m bịara biddie paanụ ụlọ ngwaa yisị dọọwe hopụzị zị na ala.,1.15,0.4583
+438,"Di Yeesu hiŋri bɛl du de, waa u hiŋaa fɔŋŋa dɔɔwɛ ka ra nyiŋŋi u zuu ii biini, ií lɛɛu du ii biini di gilɛɛ binni lugɔ ií diu hɔɔzi.",Ihe ohere belu taa bu na ohere afangado wekara nye ozo ibini. Ihe odidi ibini di gile ebinne na ugo idi uhozi.,0.9667,0.51
+439,A dominuuzeŋ jaŋgal hiŋ chaŋ Kɔraawiizi Dia la.,"Adomenu zengal hin, chankoro ziala",1.0,0.4103
+440,"Bɔsɔna werge faa du Jɛrusalɛmnɛ, di lii Izrɛl Koori Deevid biibaal Koori Solomɔn saŋa la guŋŋ di wa hel a guŋ saŋa hiŋ.","Bɔsɔna wɛrɛge faa do Jerusalem ne. Deli Israel koore David, bi Baal koore Solomon. Sanga la gun di wahil agun sanga hin.",0.8696,0.2737
+441,"ba faa ra juuruu, di ɔɔ lii hɛri naa di ga lii unnii.",Bafara joro de oli herena degali one.,1.0,0.4615
+442,"De faa ɛɛ nogumzi kalfa, ú wiifurii paga, di kaa ɛɛ guŋ himmaa u wiifurii nomɛɛl wiikakag barii.","Ifa enogumzi kalfa, owefuri para, deka egungema owefuri nomelwe kakabari.",0.9444,0.3816
+443,"Unla n na kiia ge, u ge gba ra binni u Dɔɔrii di ra kiia, ka ge ra jaamuu dikuu anla unna di la wia.","O nna kị age, oge gbara be nna ụdọrị dịrị kị akara jụọ mụ dịkọ a nna ụnọ dịla.",1.0,0.4795
+444,Hinna nuu nunzunni wiŋɔɔlaa n du bɔɔiih.,E na nu nu nzonne wingo na ndubuoy.,1.1429,0.4848
+445,"Hinla n na kii kuna aŋhina dii, gilɛɛ ra ŋɔ lugɔ unla n na di kummaa la ra ɛɛ wichɔgaarɛ, dikuubɛɛwiai, Kɔraawiizi kpaubuu birgi u hor.","Ihe na-adịghị ka onye na-adị, gị na ya nwalụọ onye na-adịghị gị mma lara ebe chọọ gị arị, dị ka obi dị anyị. Kọrọ ha bido ka ọ bụrụ na ọ bụrụ gị",1.2308,0.7453
+446,I Gbɔgni la ɛɛ n daamaa saŋaa saŋa maa.,"Ebe ọwụla e, ndụ ama sọọ gị sọọ m.",1.0,0.6333
+447,"N kaa dɔɔ Kɔraawiizi yardaa gunla uŋ wette di faari u hunnanii ii biine la, u daŋ haa wer di ra humaa guŋŋ ii wa birgi nɛnanaa di wa tuŋ, saŋa la Yeesu Kristo Hɔpizii la n niŋ wa hel la.",Nke a doro anya na alaeze elu-igwe bu ebe obibi na-adighi agwụ agwụ iwa biri na ya na-adighi nwa ntị nsogbu Jisọs Kraist hoputara nne nweghi ila.,1.0,0.6364
+448,"Nɛtɔfa baala faa du tokkoanɛɛ ni fidaanumbɛl, .","Netofa, barafa do tukwane nifila numbel.",1.0,0.3684
+449,"U faa dau u wiarɛ lugɔ u daŋ wa gil chiŋ ni hɛri kummaa kaa birgi kpaŋ, di sɛɛ Kristo dɔɔra.",Otu nwoke na-akwọ ụgbọala na-ebu ụmụ akwụkwọ na-aga ụlọ akwụkwọ.,1.0,0.8429
+450,"Yaa ra suŋŋi Kɔraawiizii guŋ yáa Dɔɔri Yeesu sɔŋ wer na girme lii ii wia biini, ií ge gba wer na girme lii u ge wia biini.",Ya na-esonyere kwa na-eje gị gị ya doro Jesu Kristi bụrụ na gịrịme dịrị ya bụ ịne. Ị ga-agwa gịrịme dịrị ya bụ ịne.,1.0,0.7234
+451,di ra du n ni.,Dara te ne ra. Bala ma eh. N'hara la. Muni n'wara dara te do nga. De fa n'fere choga dara do,4.0,6.4444
+452,"Nunzunna daŋ ŋɔ ba zummɔɔ, ka ba waa zummɛ.","N'ụzọ na-adịghị anya, bazụmọ ka banyere n'ime.",0.8889,0.697
+453,"Pasur naanna faa du kagboŋ ni kalfaanɛɛ ni tokkoanɛɛ ni aniidaanɛɛ, .",Pachuluna na fa duka gbo ni kalfa ne ni tokuane ni Anida ne.,0.9091,0.3393
+454,"Denii Juda hina maa faa lau Koori Amazia biibaal Uzzia n faa di binni fidaanumbɛl, di tɔu kora, u kpa u mɛɛ gawa.","Dị na Judah na Hina'a, fa lụọkọrọ, amazi Abibail ụzịa. Mfa dị bennefida Numbail, dịtọkụra, ọkwa Omega",1.0,0.4205
+455,Widaulii la yaa n faa dauwɛ tɛɛ ia saŋa la yaa n faa du ii be labuu keŋ.,Kila ya anfate a san la ya anfadu ibe labu ke.,0.9444,0.4074
+456,"Awia, a dɛkkɔ iiŋ kpa Kɔraawiizi laal kuna la maa laali nɛnnɛ, di kunchɔgaa la wa ŋɔ á yoo ia, ií wer chi nɛnnɛ di yooa guŋŋ ga tuŋ, ka haa wer chi.","Aha a adighi ka ihe a kporo ugbu a laarukona laa ma adighi laa n'eme. Dika onye ochichi a laa wa nwu ayiyo ya, iwere Chineke di ndu agun, ka ihe a bia di",0.9697,0.6667
+457,"Ka ií lau keŋ nfɛrɛ lugɔ bɛ́l maa gilɛɛ waa ɛɛ wiimaa n niŋ gil u dɔŋhiŋ leu, di ɛɛ wichɔgaa.","Kedu ihe na-eme? Ihe mere m ji akpọ gị bụ na ị bịara ebe a, e wee mee m nne ngịlị. Ọ dịghị ihe ọzọ m ga-agwa gị.",1.3333,0.9
+458,di kaa kpa torkozi fi la ni a tassazenaa.,da kakpa turkozi fila ni tasazina,0.8889,0.2188
+459,Denii Koorizeŋ Dariɔs bir sɛbi tɛɛ baa di ŋɔ.,de ni,1.0,0.8889
+460,Ií suŋŋi wiizi ra tɛɛ yaa.,Hana labu kin? Ubara ahuri hinne kin?,1.1667,1.3
+461,"Gibar naanna faa du tokkoanaazu ni fidaanue, .",Gye banana fa di tokwana zo ni fida nuwe.,1.1429,0.3514
+462,"A saŋa, di Keenan ni Pɛriz hina maa sogo a hɛri.",Asa na diin nimo peresena maasugod aher?,1.0,0.4722
+463,"I bagli yaabuu i nɔŋŋaa Pɛsia hina koorizenaa see, di tɛɛ yaa miibɔɔfalii.",Bagley a bo inenong'a pesha hina kuru jenase nite ya mi bo fali,1.0,0.4333
+464,Nɛra la wia n deŋlee ŋmɛnɛɛ waa wichɔgaa dɔɔwɛ.,"Nna, na-arịọ gị ndo, mụ na nwunye m chọrọ ịga dozie",1.2222,0.7895
+465,"Haali Izrɛl hina n ɛɛ ba lulla gba, ka ba faa lauri baabuu, di lauri ba haana ni biizi kagboŋa kalfaanɛɛ, di chi ba kuna ge werge maa jaa ba ni, di kaali Samaria.","Ha lee, Izrel hịna n'ime ala olileanya. Ka ha fa lawa n'ebe a bụ de laorịbahana. Nịbị ka gị na ụmụaka gị ga-anọrị ma jaa ba nị de ka le Samaria.",0.9118,0.5081
+466,"Ka filaŋkeŋ, u Duma bagli u wiarɛ tɛɛ nɛnanaa la n ɛɛ u huŋhunna ni u dɔgtɛɛzi la, di gil ba zum lugɔ banla n waa Jus hina ɛɛwɛ daŋ jaa di suma Jus hina wia biini, bá ni baa ɛɛ kpaŋ di wer ra di suma Kɔraawiizi nua la uŋ ŋɔwɛɛ la biini.",Kafiri nki odum na ni bagiri owu arite ne na na lang ihu hu nani odokita ezila. Dikiri bazum lugo banla nwa ju si hina ewe danja di suma ju si hina we bini. Baniba ekwa di were di suma koro ezinoala onwa we le bini.,0.8704,0.3743
+467,"Denii a hɛri hina faa lizi Jɔsia biibaal Jehoahaz, di tɔu kora Jɛrusalɛm biini, u kpa u mɛɛ gawa.","Jesu a hara hina fa leze, jozi a bi ba jo hahas, je to kora Jerusalem bi ne, okwa ome ga",1.0,0.4211
+468,"” Taama kpa a paanuu di zuu u be, u chɔɔribɔr.","Taa ma kwa ahaa nu dezie ube, o choro gbor. Ka o nwa ahaa nu, di ga dogoro rugo udi o ji awo ka nwa ube. Nne wu ha mbe",2.9,1.9394
+469,"Denii Ijip koori yir Abram, di pɛɛzuu, “Ɛrɛɛ i ɛɛŋ kennei?",De ni ejipko riyer abram de peso,0.9091,0.5227
+470,winanaa ni wichɔgaa?,nwunana na-ewe chọga,1.0,0.4706
+471,"Ɛzra faa ba Jɛrusalɛmnɛ Koorizeŋ Aatazɛgzis kora dii binni aniidaanɛɛhiŋ, baaguzi anuehiŋ biini.","Rafa ba Jerusalem ne, ko jin a ta zargi kuradi, bini ani da nehin ba guji anoi hin bi ne.",1.5385,0.378
+472,Gunnɛ niŋ gil ba ɔɔ wer di ra hum gunla Kɔraawiizi Gbɔgni la n na bagli la.,Gọọne nịịngel ba o wụrụ dịrahụm gụla kwarawezị gbagọne na bagala.,0.8824,0.5
+473,Pɔɔl n hum huma tɛɛ nɛra la n waa Jus hina ɛɛwɛ wia.,"Pauline Sabethé, est-ce que vous êtes là ? Bookine, obodo huru gị n'anya.",1.0,1.1538
+474,"A maanii u dau saŋa maa la ka á wer ɛɛ filaŋkennaa, yaa Dɔɔri Yeesu Kristo n ballɛ naa.",Amaghị m onye ọbụla na-akwado ya ma e wezụga Jisọs Kraịst.,1.0,0.7761
+475,"N na suŋŋiibuu, gilɛɛ gil n dɔma bɔra sɔɔni.","Na songi bu, gila gel ndoma bora so",0.8889,0.4412
+476,"Yaa bɛl maa ga nyiŋŋi daakpaŋkpaŋa, di kuari bɔr di ra zuu de.",ya bụ ihe mere anyị ji daa kwa nkịtị. Dekwara bọọlụ na zoo,1.0,0.6042
+477,"Koori la maa n dɔɔ nɔŋŋaa ni wibii saŋa maa, ɔɔ dɔɔ u hinnɛ.","Kọọla mụ ndọrọ ngá n'iwi bịsa ngá mụ a, ọdọ ohenne",1.0,0.6
+478,"N na suŋŋuubuu ani un dɔɔ girmezeŋ himmaa la, ú gil u Duma hiini ia ni fɔŋŋa werge maa ii biine, ií wer dɔɔ yarda nɛnnɛ, Krísto wer na duuribɔr du ii bampiree, di ra suŋŋuu, ií bampiree wer du u ni, di lawuu nɛnnɛ.",Nna suuru gi bu na o ndu ogologo mezie gi mmaala. Oge udom na ihe niile i na-afa ga-ewere gi ma ibe i na. I wee doo yaara daa nene. Kristo were na-aduru gi mma odidi iba mpiri. Dira suuru iba mpiri were doo one dela unu nene.,1.0444,0.4847
+479,"Kɔraawiizi faa ŋɔ wiarɛ tɛɛ Amitai biibaal Joona, di ŋɔ, “Izi la bolzeŋ Ninɛvɛ, di ga ŋɔ wia du u nɛra ni, dikuubɛɛwiai, ba wichɔgaa kannɔɔ werge n be.",Kọrọọji fụrụ wee wee te amịta bị baalụ jụọ na dị nwọ. Ịzịla bụrụ zị nnụnụ efe. Dịka nwọ wee adụ onye rani. Nke ụbọ ewi a. Ma wụchọga aka nọ weru gị,1.1379,0.6034
+480,Nɛr la n fini nɛra di na kebee ɔɔ ba biinichɔg ninɛɛ u diahina ni.,na na,0.9333,0.9216
+481,"Di ii faa wetto, ii daŋ faa lizi ii siwee gba tɛŋ.","If I were to, if I leave the easy way, what is",1.0,0.7027
+482,"Di Ijip hina naa haŋ wa nai, ba daŋ ŋɔ, ‘U haannɛ keŋ.","Egypt na hanwa nni, bana nwo ohanneke",1.0,0.5263
+483,"Denii Kɔraawiizi kizeehina la jaa kpa Kɔraawiizi Ni U Nɛra Nuukpaŋ Dɔɔi Dakka la zuu Kɔraawiizi Dia la biini, di ga chiŋŋi u chignibɔr, Bɔnaniinanii Himmaa la biini, chɛrubzi la keeri zɛɛ.",Jisie ike na laja kwa onwe gị n'onneranụ kwa ndụ ịdị ka lazuo kwa onwe gị dị ala biko. Dị ka Chineke ochie dị bụọ. Bọna n'ịna n'ịhị mma ala biko. Chee na ọbụzị la ka ịrịzị,1.125,0.5621
+484,"Koori Deevid ŋɔ Bɛɛrɔf hinuu Rimɔn biibaala Rɛkab ni Baana be, “N hɛɛhzi Kɔraawiizi la n du de, di liziŋ lii tɔɔrɔɔzi maa biine la.","Kọọ devinụwa, beere ofụ hị nụ, lee mụọmbị baara, lee ka abụ na-baara be. Nke a bụ ịkọrọzịla ndụ dị. Lee ka ọ dị n'oge gara aga b'ịị.",1.08,0.699
+485,"Koora naabuu Izrɛl hina faa kpuuzi di lii Jɔɔdan muu wiifurii paga, di faa lɛɛ ba hɛssi ge di jaa.","Kọ ranna bụ Izrelị na fa kọọze, ndịlị Jọdanụ mụ wee fụrụ paga. Dị fa lee baa ha sị gị, dị ja",1.05,0.4935
+486,"Binni anuere u faa di, ka ba nuu Koori Sɔɔl ni Jonatan wia Jɛzriil.",Bịne anụere ụfọdị kaba na ụka ọlị Sọlị na Jonatan wee jaa Zire.,1.0,0.4808
+487,"Ba faa ɛɛ Amɔri hina yenne, di faa du tama.",Bafa'e ammarhina yanni defado,1.0,0.4688
+488,"Di ba tɔmbuu dia gɛɛ di n wettoo dɔɔ n hiŋ di vol ra lizi amaniyesuma la, di ra di nɛra wibii lii wiŋɔzi la biini, ka n ni ii maanii Kɔraawiizi ra hiini la.","Ndi be anyi, ekele m unu maka nkwado unu na-enye anyi kemgbe anyi bidoro ihe omume a. Ka Chineke gzie unu niile.",0.9714,0.7899
+489,"Ií ra ɔm Kɔraawiizi, ii banla n ɛɛ u nɛra la.","Ira omkoro abize, iballa n'e unara",1.0,0.4242
+490,"Denii a hɔl bɛl, hɔɔhri bɛl wa zuu a dɔɔŋ, ka waa sɛɛwɛ ú lau u peeza gɛɛ u nauna bɛl maa hɔɔhruu.","Ndi na-akụ bell, ha na-ebelata azụ, adọọ ka ha si wee ụlọ, o peza gị, ụna ụna na bell ma,",0.9565,0.6849
+491,"Ninɛvɛ faa kannɔɔ werge, hɔpizaa ahoroo í kpa vol lii u tuna bɛl di ga hel bɛl.",Nne be fa ka nọ n'oge opupu ahụrụ ikpeazụ otu na bel dịgaa Hill Bell.,1.0,0.5738
+492,"Nɛr la maa n niŋ zuu Kɔraawiizi Dia, ií kpuu.","Nne lamma, nne m sokwa nu anyi jee be ya. Ekpo",1.1,0.7059
+493,Koori Hɛzɛkia faa ŋɔ dí ba ma kuna dauri bɔra diini Kɔraawiizi Dia biini.,Kedu ihe a nke a pụtara? Di na nwunye kwara iko na-adịghị mma. Di na nwunye kwara iko adịghị mma.,1.3571,0.9153
+494,hɛɛhraa biiniaa?,Here I been here.,2.0,0.7857
+495,"Dikuubɛɛwiai, Kristo siuwɔɔ di kaa izi siu biini, ú wer ɛɛ lalaa ni nyinee maa dɔɔri.","Ndeewo be anyi. Kristi si n'uwa dika isi ubi ni, uwe ya lara n'iyi n'ime adoro.",1.0,0.4478
+496,ɔɔ lii Kɔraawiizi benii.,"Koli, kora bisi beni.",1.0,0.45
+497,"Awia, Amnɔn jaa kutti chɔɔ, di ɛɛ lugɔ unna wii la.","A bịa, a mụọ nja, kụọ teechọọ, e lee gwa ụmụ nwanyị",1.0909,0.6842
+498,Ka a nabɔnzi ni bensunohuuhra chi u kɛra.,Ka ana bonze ni be nsu na hu ura che okere,1.125,0.2424
+499,” Amasa chɔɔ u chal biini a ŋmɛnibaaŋ.,"A ma sacho, ochel bi ni anwa ne ba.",1.2857,0.3793
+500,"Ka Izrɛl Koori Jehoas bir ŋɔ Juda Koori Amazia be, “A hɔl bɛllɛ Lɛbanɔn sɔɔhpuza tili Lɛbanɔn hɛriŋkpol be, di ŋɔ, ‘Kpa i biihaaŋ tɛŋ ń tɛɛ n biibaal.","Ha izi na-akore Jehova, mana ha jụdịakore amazi ya. A hụrụ m ya na Lebanon. Sọọsọ otu ịrị Lebanon ha na mkpụrụ be dọọ. Gwa ịbị ha ntị, ntị m bị ba.",1.1034,0.6034
+501,U daŋ wer kuari kuna gunla maa ban niŋ bagluu.,Gudun wiyar kwara kuna gun lamma hinnan bagalo.,0.9,0.4444
+502,"Ijip Koori Nɛkɔ faa tɔ Jehoahaz niwee Ɛliakim kora, u ɛɛ Juda ni Jɛrusalɛm koori, di faa bir dau u sɔŋ Jɛhɔyakim.","Nije kọrọ na kọ, fátọ Jehịakaz nọ́ ị́wé Elịakịm kụrụ. Ọ́ ejuda n'Jerusalem kụrụ. Dị́ fada ị́da ósó Jehịakịm",1.0,0.4831
+503,"U heeza bɛŋ daŋ wer kpuu, ú balaa chaanaa la ge chɔg u huma la.","Onye a bu vendor nwere coal, o bara cha na-ere chopu ohuma.",1.0,0.617
+504,U faa kaa kpu Ijip hinuu bɛl n helle kpabaa.,O fa ka a kpo ije ruo na obele nhe le kwaba,1.2,0.4118
+505,"Koori Solomɔn huma maanii ba faa hum nɛnnɛ, di lii a hɔl la baŋ chiŋŋi Kɔraawiizi Dia la zɛɛ guŋŋ di ga hel u mai tuna.","Kọọrọ Solomon hụma maa na bafa hụ m na-eme. Dịlị ahụla, ba nchingị kọra bụ ezi dịa lazie gọọm dị ga hịl. Ụma ị tọna",0.9615,0.413
+506,"Ka di n na nyiŋŋi n kaa tɔgzi Gbɔgni la miŋ faa gil a hiŋaa la, n daŋ birgi wichɔgɛɛri, dikuubɛɛwiai, Gbɔgni labuu gillɛ n zum wia di gil a hiŋaa.",,,
+507,"” Ba jaa ga ta kuna, bá zum a hiŋ, a chol Joona ni.",Baza ga taƙuna ba zum a hankali a cire juna.,0.6154,0.4706
+508,"Di ba wa ŋɔ guŋ, hiŋwaa ŋɔ lugɔ n niuhambiere hiŋ.","Ndi be anyi n'ugwu, ehihie oma rugo. Nni unu ha mbiri taa?",1.0909,0.6316
+509,u nɛra maa see.,Tew de jamu de ko un lewya. Ndan leze nozila ma min lewe la tew. Unnere ma si,4.5,4.5455
+510,Banla n nɔŋŋi sideŋŋa wia ɔɔ birgi nyaaraa.,Bala n'ongisi d'angawa oberege nyara,1.0,0.4571
+511,"U nua kɛraa faa ɛɛwɔɔ lugɔ nopaal wassi, di ɛɛ lugɔ kɔpu nua, di taŋŋi lugɔ yuuga fiiri.","nụ akwụkwọ fa e dere na-eluwa si, dị eluwa ka pụrụ nụwa, dị eluwa yugharịrị",1.0,0.6765
+512,"Nɛr la n na tɔgzi hɔpizii bɛl, yaa Dɔɔrii u ra binni di ra tɔgzuu la.",Na na togozo hopizi bel ya dori orabi ne dira togozo,0.9375,0.4423
+513,U faa ɛɛ ba laallɔkpega bahoro la bɛllɛ.,ba la lokpe ga ba hulu la,0.875,0.5312
+514,"Dia bɛl faa dɔɔ dominua, di chi pɛli biini dominuuzi la jaŋgal maa, ba faa ra yagli mbusu lizaa kuŋfuuhlaa a biine.","Ya bafado dominuwa, de chipele binu dominuze la jangarma. Bafara yagle mbusu le za kufula abine.",0.9091,0.2967
+515,U faa kaa ɛɛ Izrɛl hina yirsuma yittii.,"Faka eh, Israel hina",0.875,0.6774
+516,"Kɔraawiizi Kizeehina Maa Nabɔma Azaria ni kizeehina la maa n faa wa nawɛɛ lugɔ bɔchɔgaa yag u hilee la, ba lawuu manaŋ lii Kɔraawiizi Dia la biini.","Kwara wezi kizee na ma na boma Azaria, niki zee na la ma. Mfawa na we lugo bo choga ya uhili la. Balla wu mana li kwara wezi di ala bina.",1.0741,0.2857
+517,"Uz, Hul, Gɛta ani Mɛsɛk.","Hús, húl, geta, annar mánuður.",1.0,0.8235
+518,Juda hina la maa n faa chaali de la bɔra faa sɔɔni.,"Juda hinala, ma'a mfa chali dela bora fa soona.",0.8333,0.2051
+519,"Awia, ií kpa Kɔraawiizi laal kuna maa laali, dikuubɛɛwiai, newea lɛi yaa ra yoo.",Ihe a ekwekoraghi eze na alaeze na-adighi ala di ka obi eweghi anyi. Na ihe a na-eyighari,1.2143,0.7143
+520,"Hiŋ waa nua ŋɔwɛɛ, aabuu bɔ hiŋ ŋɔu, ka hɔɔ hiŋŋɛ.",Nwa nụ anwụ nwe abụọ bụghị nwa nụ a ka ọ bụghị,1.0,0.7838
+521,"Ba himmaa hizii ba ra hum, di ŋɔ wisuma ra du nɛra nyuuni bá wer dar banla n waa tau ra du.","Bịa ha mụọ ha ịzịbara ha ụlọ, dịka ha kwesịrị ịdị na-adị nne na nna ụmụ gị. Bịa wee daraba na nwa taa ụra",1.0909,0.7059
+522,"Babilɔn Koorizeŋ Nɛbukadnɛɛza faa wa lɔu laal, di kpa danyɛ yɔlɔzi vɔɔzuu, di kpogluu kaali Babilɔn.",Babiloni bụrụ eze Nebukadneza fa wa lọlọọ dịkwa daa ya yọlọ zi vọọzọ dịkwa olu kaalị Babiloni.,1.0,0.4146
+523,Yaara hiŋ ɔɔ dɔɔ tɔɔrɔɔrɛ ú de dui maa biini.,Ya rahin odo torore ude duima bin.,1.0,0.4
+524,"Awia, Abram kpogli u haaŋ, di paa u kuna maa di lii Ijip hɛri, di la Nɛgɛv.",Abia abughi m ugwu ole ohan depa okwu na-ama dili Egypt here di la nege,0.8824,0.5455
+525,Denii Koori Manasɛ faa jaa zum lugɔ Kɔraawiizi la unna hum labuu Kɔraawiizi wibii maa.,Jini koro mana se fa ja azum lugo kora wezi la unna hum la bu kora wezi wibi ma.,1.0667,0.2676
+526,Ka n dɔɔ ii tamiirɛ dikuu yaa Dɔɔri la yaa maa n na hiŋ la wia lugɔ ii wàá ka dɔɔ nfɛrduma bɛl maa wia naa biini.,"ka ndo etamere dika oya doro la ya ma inahin lawia, lugo iwa ka do mfe di ma belu ma owia na abini.",0.9259,0.3488
+527,"U faa lizi baala bunchigna kagboŋa tokkoahoro ni fi, bisɛɛhra ge kagboŋa tokkoanaazu, ba du giŋgimee nyuuni.","O fa leze baala, bu nchi na ka gbo nga tokwa horo n'ifi, bi si ra gi ka gbo nga tokwa na azu, ba du gi ngi me nyu nu.",1.5882,0.236
+528,"Ɛlisa ŋɔ, “Gilɛɛ waa kpuuzi baa.","Ila ganye nye, bola ondo e, mhm, nla lora, baga lawu,",1.8333,1.3333
+529,"Ií gilɛɛ waa gil ii ni baa wàá ɛɛ dammunaa nuukpaŋ, ŋmɛnɛ maa.","Na gile wagle, ina bawa Allah damuna na ukban. Ngwanama.",1.0,0.5
+530,A waa dɛkkɛ yaa n na naa gɛɛ yaa senɔɔna n na naa.,अवा दे के या नन्ना गे या से नोना नन्ना,1.0,1.0
+531,"N Dɔɔri Kɔraawiizi, bɛɛ tamiirɛ n jaa dɔɔ filaŋkennei?","Indoan ko na beze, be tamire njado filenke nne.",1.0,0.5
+532,"Ba daŋ siuzi di ba haa ɛɛ biipɔllaa, dikuu baŋ waa Kɔraawiizi nua ra hiŋ wia.","Bara si uzo dika ha ga-ebi na ya, dika obodo ha kwara bido na rahimụa.",1.0,0.5
+533,"Denii Koori Solomɔn ni a nɛra faa di Pampannizi Hɔpizizeŋ, hɔpizaa aniidaanɛɛ.",Dị ni Kọri Solomọn ne anara fada pampanneze hopizizin hopiza anị daa ni.,1.0833,0.3077
+534,"Ka di nɛr la maa wa di diwee aŋhina a gil u dɔŋhiŋ leu, a diwee dii waa wer tɛɛ a hiŋ.",Karin nalamawa di diwe anhena agel odon hiliw. Adiwe diwa wirti ahen,0.9545,0.3492
+535,A chɛrubzi naa keeri faa jaŋŋɔɔ lugɔ nogumzi tokko.,"Acherubzinna, kedu fa janwa lugo nogumzi toku?",0.8889,0.3095
+536,"N kuari kambolnanaarɛ, di duu daazi irizi la n na nɔŋ, di ki bulli, ń na dua nii.",Nkwari ka m bulu na na-ara di dozi iri zila. Nna nọm di ki buli nna doani.,0.9444,0.2333
+537,"U himmaa ge ra ŋɔ, “Minuu.","Ohema, kedu ka? Meno, bara piezo. Ka ere ikawere dira na nani? Owa, ba laba na yiri esu labo ekwecha ga di",3.6667,3.7778
+538,"Awia, chiiri zɛɛ, di dɔɔ bɔkpega, dikuubɛɛwiai, hinuu niŋ tɔ a nɛra naa see di la hɛri la miŋ ŋɔ nua lugɔ n daŋ tɛɛ ba naabaala la.",Anya Chireze na dobe kwi ga na kobe wayi. I no na nto anara m asi na la hia ri la mme nno nno alugo. Nda nte ba na ba ala la.,1.0,0.4848
+539,"Bɛl sɔnnɛ faa Pɛlɛg, u zɛɛrɛ Bargaa, dikuubɛɛwiai, durnya hina faa bargi dɔŋa ninɛɛ u de dui saŋa, bɛl ge sɔnnɛ faa Jɔktan.","Biko sọnnụ fa phelikụ, o zere barga dị ka obi ewe anyị. Dịrị ya hịna fa bargị dọga n'ele ụdị edu ịsanga. Biko sọnnụ fa jọgtah.",1.1304,0.5312
+540,N de dui maa faa ɛɛ pɛɛrɛ.,Ndezu ịma fa epera. Afa ya bụrụgo Pewre Nnadunye. Kụọla mụ afa hụ mụ na fa wa ka,2.5714,2.5789
+541,"Banna la gaa dugli Ijip hɛri, Abram ŋɔ u haaŋ Sarai be, “I ɛɛ toloorii werge.",Banna la ga dogole Egypt here Abraham nwo uhan sara ibe. I e tolori,0.8125,0.4483
+542,"Di ba gillɔ n du de di dɔɔ miibɔɔ gɛɛ di ba kpuŋ, ka Kɔraawiizi daŋ haa na girme a maa biini, dikuubɛɛwiai, di n dɔɔ miibɔɔ, n wiimaanii haŋ Kristo.","De ba ghelu ndu ndi di ndu omi bo ge de ba kpu ka koro isi dan ha na giri ma ama bi ni, de ko be yu ayi de ndu omi bo nwe ima na ihe nke",1.0968,0.4602
+543,"N Dɔɔri Kɔraawiizi, i guumbuu di lɛɛŋ.","Ndukwu kwanu ozo? Igwe mbu, Dele",1.0,0.6
+544,Waa kaa sɛɛ ba lii chaaŋ maa di ra ba ba siu.,"Wakasé, balé, chamá, draba, basé",1.0,0.3939
+545,“Durnya maanii chiŋ kuna loobee ra hel.,bụ ebe a na-akpọrọzi nwa ziri. Nwa a ọ rugo ya esuo ya edoọrọ ya. Dika a na-akpọrọzi ya bụ mpiri bi n'ụlọ arụrụ obodo si obi ni. Kpọrọ ya,4.2857,2.8387
+546,Yáa Mɛɛ Kɔraawiizi ni yaa Dɔɔri Yeesu Kristo hiini ia di tɛɛ ia bampirsɔna.,"Yɛn a yɛkɔra yɛn nneyɛe adoro Yesu Kristo hɔ no, yɛadete yɛn bam",0.9286,0.5574
+547,"A saŋa di Joona waa tuuwo ga chɔɔ a muugberzeŋ zɛɛ, di ra chɔɔ dɔɔ werge maa, haali di waa zum wii la n na ɛɛ gba.","A sị na dị gị na nwanyị gị achọghị ịmụta nwa ọzọ, enwere ike ime ya site na ịwa ahụ ma ọ bụ site na iji ọgwụ mgbochi afọ ime.",1.037,0.8588
+548,U ɔɔ pessi biinikpola hiŋ dia wiarɛ.,wo pessi bi ne korahen da,0.8571,0.5172
+549,"Waa bɔchaaŋ nawɛɛ gɛɛ di zum gunla de dui n duwɛɛ, ka u na heezaare, di kaali nɛr la n waa de dui suma ra di, haali di u di binni kagboŋa anɛɛ gba.",Nwa bọchị m na-ege dezọ m gị nụla dị ndụ e. Ka unu hịzị arụ. Dịka alị nile nwa dị ndụ sumara dị. Ha dị udi benne ka gwa ha ana ege,0.9706,0.4727
+550,N helli i baglaazi la wiarɛ birgi.,Nyele e bagala la wele birgi.,0.7143,0.4444
+551,A wessoo í gil kunla hiŋ dɔɔwɛ su i siwii.,Awo so igelkuna hindoowe su isi,0.9,0.375
+552,"Ií ra kpogli baa nɛnnɛ, di ra bagli baa ŋmɛnizi ani wia la maa n wesse yaa Dɔɔri be.",,,
+553,"N Dɔɔri Kɔraawiizi, i wiŋɔɔlii du denii saŋa maa.",Ebi nkwali du deni sanga ma.,0.8889,0.641
+554,"I see ɛɛwɔɔ lugɔ lɔɔ, i kpa baa suah.",Ise e logolo ekpaba so,1.0,0.5185
+555,"A tauduura chignibɔra la bɛl maa see faa dɔɔ koŋliikpurii, u chiŋ laŋaa ɛɛ nogume.",A taa do raaki ni bara la belma si fa do komi kuri. O cin la a e nogu,1.1333,0.4242
+556,"N suŋŋi Kɔraawiizii, u nuu n wiisuŋŋaa.",Nzukọ akwụkwọ akụkọ nke Ụlọ Nzukọ,1.0,0.8065
+557,"A hɔl hiŋ, ɔnsii lau Koori Deevid dikuu Kɔraawiizi wia, u ŋɔ, “Ɛrɛɛ Dakka naa ɛɛ ba n benei?","Awalụ ya, ọ sị na ọ bụ David Kọkọrọ zịwa onwa ere dịka na a ba mbene.",0.9474,0.6232
+558,"Di haŋ lii saŋa la maa miŋ zum ia la, ii kpoŋŋoo di ra di Kɔraawiizi mmɔri.","Ihe a na-esighi na mmanụ mịrị ala, ịkwọ nwụọ dịrị dịkwa na-abụghị mmọrọ.",1.0,0.7018
+559,"Ba kpa anue chiŋŋi wiifurii nodig wiikakag, di kpa anue ge chiŋŋi wiifurii nomɛɛl wiikakag.",Ndi kwa anu echenye we fụrụ nọ di we ka ka. Ndi kwa anu egechenye we fụrụ nọ melu we ka ka.,1.4,0.4667
+560,"A baal ŋɔ n be, “Newee biibaal, a binni di ra nuu nɛnnɛ gunla maa min niŋ baglii.","Abaalụ ngombe, na-ewé ibaalụ, abụọ na-adịghị anụ ụna nne gụrụ maa menim baghịlị.",0.9444,0.5667
+561,Ií jaami Pirsila ni Akuila la n na hum lugɔ n dɔŋahina la Yeesu Kristo huma naa biini.,E jaa me presi lani akui lala nna homlogo ndonga hi nala Yesu Kristo homa na biini.,0.8889,0.2059
+562,"U lizi nɛra kagboŋa tokkoahoro ni fi, .",Olleh zennara ka gbon tukwa horo nifi.,1.0,0.4
+563,"Haali, Kɔraawiizi n faa gillɛ u dɔgtɛɛzi ɔɔ la bá ga bir ba bampiree gba, ka a nɛra faa waa ɔɔ nuu.","Nna anyi, kedu ka eze mfa gi le? Udo ka eze ulo? Biko bia ba mpuru egwa ka anera fa wa unu.",1.0,0.52
+564,"Koori Solomɔn faa kpa baa birgi u yoma, ba ra humuu.",Kọrọ Solomon fa kpaba bẹrẹgẹ oyoma bara hụmụ,1.0,0.325
+565,"Awia, ba gillɔɔ nɛra la n ɛɛ nɛnanaananaa koozi nɛra la n bar baa la biini.",A biya bagil lo naralan e na na na kuzi naralan barbalabini.,1.0,0.3103
+566,Ií lizi kunla maa n gillɛ a Bɔnaniinanii la doŋ.,Ihe ọzọ bụ na ị gaghị abụ onye na-elelị mmadụ.,1.0,0.7105
+567,"Awia, lau u naanna la n ɛɛ baala baniidaanɛɛ tɛɛ yaa, yá kpu baa Gibia la n ɛɛ Koori Sɔɔl la Kɔraawiizi n lizɛɛ la bol.","Nwea, na onana la n'ebe ibara bani da ne, te ya ya pu gba gi beola n'e kulu sol la krase nnezi la",0.8462,0.5165
+568,"Denii u jaa binni kuna la maa un tawɛɛ la, di a wesso werge maa, u bɔra sɔɔni.",Deni o ja benne kunalama on taa wela da awesu werge ma obora so,0.9444,0.3448
+569,"Haali minna wii, di ra ŋɔ, ‘U leu n ninɛɛ!","अरे, मेनू वी डरावा। उलेओ इनने",1.0,1.0
+570,Ka ii waa zummɛ lugɔ ii gba ɛɛ wichɔgaarɛ di zuu Kɔraawiizi la iinna hum la ninɛɛaa?,ka ewa zuru m ya na ego igwa ya we chọgharị. Dezie ụkwụ na we ziri na ị na-ahụ m na nịịa.,1.2353,0.597
+571,"Ɛfram hina laallɔɔri Zikri, faa kpu a koori biibaal Maasɛya, kooridia nabɔma Azrikam ani Ɛlkana n faa ɛɛ nɛr la n na hiŋ a koori ni la.","Ephraim na-alọghachi, zikere Farao akwụkwọ banyere Baal. Maesea, ọrụ di ya n'ọbụma azịrịkam, a na-elka na mfa ị nụrụla nna hịrị akwụkwọ nịlị.",1.0,0.5755
+572,Ií ra liizi gunla iiŋ faa gillɛ Kɔraawiizi baaŋ fuuh hɛribɔduma biini la.,"Ihe na-esighi ike, ihe a ike kwara bu izu baa nfu. Heri bu duma bi na",1.2308,0.55
+573,Nɛra ɔɔ ra dau kebeere di ra ba saŋa la ban niŋ wàá nyiŋŋaa.,"Na na ora da ke bere, da na basa na la, ba nan wa nyi nga.",1.0714,0.3478
+574,Ɛfram faa kaa na bolzenaa ni boljigzi aŋhina di lii Manasɛ hina kapɛttɛ la biini.,"from Fa'a'ana, Bolozina, Niue, Bolojigese, Anhina, Deli, Manasehina, Kapete, Labine.",1.0,0.3333
+575,"Ií ba u Dia la uŋ lizi u doŋa ha, u ɛɛ Diinaniinanii la biini saŋaa saŋa maa la.","Iba odi ala, onye ze udo nga ha, di na ni na ni la bi ni, sa nga sa nga ma la.",1.0526,0.35
+576,Joab laallɔɔri hiŋ na lugɔ a laallɔɔra maa ballɔɔ di waa chi de.,"Ibu abali a, a na-alọta n'oge, a na-alọta ma abalị dịwa echi",1.0,0.5686
+577,"Ka ii Samaria hina, ii waa Kɔraawiizi zummɛ nɛnnɛ ka ra jaamuu.",ka nne na nna di mma ndu ha diri ha n'era na. Di enyo a ni na nyozi wa ka kwi ma. Nne na nna m nna taa e na i bule diri ha bu ibi,2.8333,1.32
+578,"U faa gillɔɔ ba faari u mai u kora dii binni anaazuhiŋ biini, baaguzi anɛɛhiŋ hɔpizaa anɛɛ hɔl.","O fa gi lo kpa fa re, o ma yi, o koro di, be ne a na azu hi, bi ni, ba gu ze a na hi, ho pi za a na ho",1.8333,0.3816
+579,"Ii jaa ra nyiŋŋi Jɔɔdan muu giirɛ, ií ga foozi hɛssi la hina n kaali ia hɛssi.",Ihe a na-enye nsogbu na-adịghị mma. Ị ga-afụzi ha si na hịna nkali. Ya,1.0,0.6167
+580,I baglaazi wia zɛɛ pillaa ra ba bɔchaaŋ ninɛɛ.,Balaji,1.0,0.8649
+581,"N na suŋŋi ia, yaabalaa, ií ra du tau di zum banla n na vɛɛ baglaa la baŋ faa bagli ia la ka ra bargi nɛra di ra dar baa ba leu ŋmɛnɛɛ la.",na song ya bala,0.9706,0.902
+582,"Koori Hɛzɛkia ni u nabɔnzi n wa na kuna la baŋ lizɛɛ puugi la, ba chɔli Kɔraawiizi, ka kissi Izrɛl hina la.",Kọrọ Eze Kia na ụnọ bụnze nwaa na kụna laba n'lịzị pụgịla báchọlọ kọra wịzị k'kịsị Izrahel na,0.9545,0.4578
+583,"Banla n faa vɔɔ u jina labuu Zabad, u maa faa ɛɛ Simiaf n ɛɛ Ammɔn hinuu ni Jɛhɔzabad, u ge maa faa ɛɛ Simrif n ɛɛ Moab hinuu.","Balla mfa abuo udi na laabu Zabad, o ma afa ya Simeon, ya Amon hinu. Na ije Zabad, oge ma afa ya Simri, ya Moab hinu.",0.931,0.3474
+584,"Koori Amazia kora dii saŋa, di lii u lugli di ga hel u tuna, ba faa sɛbi u wiɛɛlaa maanii du Juda ni Izrɛl Koora Faala Hɔna biine.","Kòré àmází àkórá dí sàá. Dèlé òlòglè dèga hélò túnà, bàfá sébè òwí élà máání dújúda ní Israel kòrá fáálá hòna bíne.",1.0,0.55
+585,"Banla ge maa n faa gɛrgɛɛ, ba kpa baa soŋŋi kauzi ni, di bir kpogli baa la ba himmaa hɛri Jɛriko la banna yir Abɛ Daazi Bolzeŋ la, ka bir kaali Samaria.","Nwanne m nwoke, m fa agaghi bakwa ba so nri ka ozi na. Dibere kwugodu ba laba hi mma hiri jiri ku laba na yiri abeda zi bulu zi nla. Ka bere kaali Samaria.",0.9375,0.3675
+586,"Hɔpizaa saŋa, Kɔraawiizi ɔɔ bagli u nɔŋŋaa la.",Hopesa sana. Kweli siyo obale.,1.0,0.6757
+587,Denii Koori Solomɔn ni a nɛra maa faa kpa a Dia du Kɔraawiizi nonee biini.,"Dị ka Solomon, lee anya ma fa kpa adịa do kọra wizi nọ na ebi ni.",1.0667,0.4068
+588,U ra di nabɔmuu u nabɔnzi ni.,na abụ m ụnọ bụọ nze,1.0,0.6818
+589,Di gil yaa so Juda hɛri ni Jɛrusalɛm biine ni bɔsɔna.,"N'ebe a, a sị gị na-eje Jerusalem bịa na-bụọ sọọ",1.0,0.6667
+590,"Sitaani ŋɔ, “Nɛr daŋ wer kpa u kundɔɔlaa maa chɛr u miibɔɔ.","Ite anọ, n'ụbọchị nke atọ n'ọnwa Maachị, ụmụ Igbo",1.0,0.6444
+591,"Ka Moosis faa kpa ba hɛssi tɛɛ Rubin ni Gad dizi ani Manasɛ dee yeŋ, a birgi ba kundɔɔlaa.",Ka mụ si fa kpa ba ha site na Garden City dị n'ime ala Hausa dị n'inyi abịrịgị Bakundola.,0.8947,0.5571
+592,"N haa kpekkoo gunla miŋ faa kpekke, saŋa la Moosis n humiŋ a ŋmɛnijaŋ la.","Nha kpeko gunla, m fa kpeke. Sanga Moses nhumi anwene ja nla.",0.9333,0.3158
+593,"Ií suŋŋi bampirsɔna ra tɛɛ bolzeŋ Jɛrusalɛm, di ra ŋɔ.",song ba,1.0,0.907
+594,dikuu ŋmɛnichuma bɛl uŋ kpaa ga wia.,deko,1.0,0.931
+595,"Ɛzra ŋɔ, “Ií ra chɔli Kɔraawiizi la yaa naabaala n faa ra hum la!",Era chuala cora dilla ya na baala mfaara,1.0,0.5306
+596,Koori maa ɔɔ dɔɔ bɔsɔnaa di u balii zum wia la unna ɛɛu.,"Kụrụ mụ ọdụ bọsọna, na ụbọlọ izu ụka ụna ịọ.",1.0,0.6279
+597,"Awia, u faa jaa ɛɛ ba sitɔɔri, haali uŋ faa waa ba ni jaawɛ gba.","Awa, ofaya esitoro, ale ofawa bane jawe",1.0,0.5319
+598,Minna fɛ wia la maa banna ɛɛ durnya naa biini nfɛrɛ labuu n na annii maa.,M na-efe ya ala ma banye ebe dị iche iche n'abali. M fere na-abụ nna ala ịma.,1.0625,0.6491
+599,Simrɔn Mɛrɔn ni Aksaf koora.,"Simran, Meron ne Aksaf ko",0.8,0.3043
+600,"Noowa biibaala Sɛm, Ham ani Jafɛf naannaa keŋ.",Noa bibala sem ham ani jafef nanake,0.75,0.2703
+601,I daŋ wer lawuu alugɔ zumbee di du i dia.,et là où elle a eu à loger une baie de deux,1.2,0.7742
+602,"Faala maa sɛɛlii n ŋɔwɛɛ, dí nɛr ɔɔ ɛɛ u dammuzii sɔsɔgɔ.",Falamá seli ngwé. Dené oé odamuzi sosogo.,1.0,0.5227
+603,ani saŋaa saŋa maa.,ane sanga sanga ma,1.0,0.4
+604,"Ba faa kpa bisɛɛhlaarɛ kuari tɛɛbulzi anaazu, bɔr la baŋ ɔɔ ra fuuh mbusu lizaa kuna la.","Bafakwabiselaarakwa tablezi anaazu, gbolaba ura fu mbusuliza akuna",0.9412,0.3286
+605,"U faa ɛɛ wichɔgaarɛ di zuu Kɔraawiizi ni, di ra hiŋ a hɛssi la hina Kɔraawiizi n duŋŋɛɛ, di Izrɛl hina faa ra ba la wiɛɛlaa, Kɔraawiizi n kiiwe la.",,,
+606,"N faa ŋɔwɔɔrɛ, ‘I ŋmɛnɛ maa wàá nyiŋŋi nɛr huhzi, ú di Izrɛl kora.",Ihe fọrọ nke nta ka ọ bụrụ ihe niile bụ ụdị Israel kọrọ.,1.0,0.7959
+607,Kɔraawiizi turgimbuu dikuu n wideŋlaa ɛɛi wia.,"Kora wize, terganbo deko, ngwede ngla",1.0,0.5897
+608,N kaa ra nyiŋŋuu lugɔ u himmaa mɔŋ a diwee di ra tɛŋ.,Nke a bụkwa ihe mụ na gị nwere ike ikwu.,1.0,0.8
+609,"Gunnɛ niŋ gil ya dɔɔ nuukpaŋ, di gilɛɛ kaa wàá yaari durnya biini maa.","Gunnangil ya do nok pang, digile ka wa yare dunye biin ma.",0.9286,0.3455
+610,"A saŋa hiŋ, lɔzi faa chol Keenan hɛri werge.","Hassan ahen, lozi fa chul kenan heri",1.0,0.4412
+611,“Ií ra nuu gunla wiraa n na lii Babilɔn hina biini.,Era no gulla wira nali bablong hina biini.,0.8182,0.2821
+612,"Mikmas baala faa du kalfa ni tokko ni anɛɛ, .",Mick Mars,1.0,0.8824
+613,"Un suŋ n ni werge wiarɛ u tɛŋ a huma, di hiiniŋ werge u fɔŋŋa ni.",Munsun ni wirgi wara o tan a homa di hinin wirgi ofan,0.8125,0.3958
+614,"Denii i ni i lulla Jus hina jaa wer kpa saliŋhuŋŋa la ni saliŋ la maa n kawɛɛ di ɛɛ gunla maa iinna nyiŋŋi, á par Kɔraawiizi la iinna hum la.",Deni inna elolabiyausina ja werpa salan hunala salan lama nkawe di ego lama inna nyinye. Apparkoro jila inna humla,0.9677,0.3761
+615,"Kɔraawiizi Duma faa guali u ni, di ra bar.",Koraa zuma fa gwale one dera ba.,1.0,0.4062
+616,Waabuu hiŋ nɔŋŋi i dɔŋhiŋ gunla hin nɔŋŋi i hiŋ la.,waa bon hénnoo ngé e don hénnoo luggo golla hénnoo ngé,1.0,0.875
+617,"N ŋɔwɔɔrɛ, “N danna du n wiɛɛlaa tau.",mɔɔrɔ nda ndo nwi e la taa,1.0,0.4444
+618,"Koori Uzzia kora dii saŋa, wia la maa uŋ ɛɛwɛ di lii u lugli di ga hel u tuna, Amɔz biibaal Kɔraawiizi dɔgtɛɛ Aizaaya faa sɛbaabuu dau.",Kọrọ ozi a kọrọ dị ịse a. Wee laa maa onye ewe dịịrị olile dịgaa n'elu ụlọ na. A mụọzịbaalụ kwara wịzị dọktọ Isaiah fa sebabu dị,1.0,0.5755
+619,"Ií ɔɔ kpa bizenaa di ma solaa ahoro di hɔŋ dɔŋa ni, ka ɔɔ kpa dolli ge sag a ni u ge ɛɛ solkpaŋ.",Nke a kwa bịara na dị mma so na ahụrụ dị nhọndọ na ya. Ka ọ kwa dị olileanya na oge ga-esolukwa,1.0,0.5775
+620,"Vuga ni tinnanchɔgaa la maa n dɔɔ fɔŋŋa werge ni bɔbiri naa koora ni kunchɔgaa la yaa n waa na, ka a dɔɔ fɔŋŋa werge maa, di du kpil la, aabuu yaa ra yoo.",O ga na-alịzi na nchịkọta na m dị ofu a na-ewirgi. Na-ebe obiri na-akwụ ụra na-ekonchịkọta ya nwa na ka adị ofu a na-ewirgi ma dị dịkwa ella. A bụ m,0.9412,0.5641
+621,"Denii ií duŋŋi baa di dim baa manaŋ, gunla uŋ ŋɔ nua tɛɛ ia la.",Ndi ni i do nga ba di di mba mana go na onwa no tie ya ala.,1.0667,0.4894
+622,Hiihzi faa lau Kɔraawiizi kizeehina ni Levi dee la.,Ihe a fa na-akọrọ anyị bụ eziokwu na-enweghị mmasị.,1.0,0.7619
+623,"A baal faa kaa kpogliŋ la a wiifurii nodig wiikakag barii, n kaa na dominuuzeŋ bɛl n chaŋ wiifurii nodig wiikakag.","Mba, afa ka kpọgịlị nla, a wụ ịfụrụ ịno dị gị ka ka abalị. Nke a na-adị m n'uzo mbel, ncha wụ ịfụrụ ịno dị gị ka ka",1.2857,0.4348
+624,"Awia, n danna du a Dia naa tau, di keŋŋi digna di ra nuu wiisuŋŋaa la ban ninna suŋŋi u biini.",Anya nda nna do adia na tawo. De kingi deena de ra nu we sunga la ba nna sunge obiini.,0.9524,0.3662
+625,"“Muu Yufretis wiicholii paga nabɔma Tatɛnai, Sɛtar Bɔzɛnai ani ii balaa nabɔnzi la maa n du de la, ii gilɛɛ kaa wàá la Kɔraawiizi Dia la.","Moi, je ferais tout ce que tu es pas en train de me dire. C'est à nous. C'est à nous.",0.9615,0.8611
+626,"Yeesu n wa zummɛ lugɔ Farisizi la nuu guŋ, u izi Juda hɛri di bir la Galilii hɛri.","Ihe so umuazi ma ndi okorobia si na nu ugong o isi Judea here, debirara la galili here",0.9444,0.5397
+627,"Awiarɛ u faa tɛr ba digna werge, nɛra nuuzi kpu, ii himmaa siwee na guŋ.",Awele ọfala tere mbadé gi na weeri gi. Neera nụ uzo kpọọ ihi mma si wee na gụ,1.1333,0.4182
+628,"Ka Haga n wa zummɛ lugɔ u kpogli hiarɛ la, u faa waa kaa ra tɔgzi u dɔɔrihaaŋ Sarai la.",Kaha ga in wazo melugo okpogoluhi arila ofa wa kara torise odoro ha nsara ila.,1.0,0.3636
+629,"Denii n kaa na wii bɛl, gunla durnya naa hina n na fɛ nunzuma wia.","Dene nka na webal, gụnalụ dunye nna hị na nnafe na nzụmawe.",0.8667,0.36
+630,"Kebee gunla maa iiŋ wa nawɛɛ, ii ɛɛ ania di kpaa yau nabala, pebala, peballi, mia ani siŋ di kpaa lizi mbusuzi ra tɛɛ Kɔraawiizi, u Dia mbusu lizibɔr la ni, Jɛrusalɛm biini.","Kebe gulla ma in wa na we, i ye aniya de kwa ya na bala pe bala pe balli. Miya anisin de kwa lezi mbusuzura te koroze, odia mbusuzulezi borla ne Jerusalem biini.",0.9394,0.291
+631,"Denii Kɔraawiizi bir pɛɛzuu, “A dɛkkɔɔ i baan na fuuhwaa?","De ne koro zi biripe zo, ade ko iba na fu a, jo na ja izi lega so",1.7,0.7333
+632,"Gilɛɛ gil i bɔra waa sa di waa huah, dikuubɛɛwiai, mìŋ́ Kɔraawiizi la hinna hum la daŋ du i be, bɔr la maa hin niŋ la.",Gele gele e bora wa sa de wa hua na ko be we ai me nkwara we zila hinna hum la dan do ibe borla ma hinne la,1.0,0.3523
+633,"di kaa kpa saliŋ kuŋkuaraa n lugɔ daa fiiri, fintinazi ani nyɔgzi.",ka akwụkwọ nsọ nke Nkwusa Oziọma nke Jizọs Kraịst nke Ndị Nsọ Ụbọchị Ikpeazụ,1.1667,0.9623
+634,"A koori, u nabɔnzi ani nɛra la maa n chaalɛɛ Jɛrusalɛm la ɛɛ nuukpaŋ, bá di Gillikaali Hɔpizizeŋ la, baaguzi anɛɛhiŋ biini.","O na-abụnze a na-enlerama nchịkọta Jerusalem e n'ụkpụrụ, bido gị lee ka ọpụpụ ndị a laa, baaguzienụ a na-ehin bini.",1.0,0.5714
+635,"Guŋ wia, Kɔraawiizi baaŋ faa fuuh Juda ni Jɛrusalɛm hina ni, u gil ba wia dɔɔ ɔnsii, nɛra nuuzi kpu ba wia alugɔ ii himmaa siwee n nawɛɛ naa.","Oge baa wa, Koraweze baa fa fu Juda na Jerusalem hị na nị. Oge baa wa dọọ onsee, nera n'ụzọ kpọọ baa wa alụgọ ịhị mma si wee nna wee na.",1.0345,0.4312
+636,"U lalluubuu lii siu biini di kpau la u be, u ga so u nabɔmbɔr u be de, di dɔɔ fɔŋŋa werge maa kaali fɔŋŋa dɔɔra lugɔ tinnanni ni vuga dee maa, di dɔɔ nyuu kaali nɛr maa n du de filaŋkennaa ani banla n niŋ haa wa du de durnya naa harbɔɔ la.",O na-alụbọsị ụbọọlụ ụbọọlụ. Ụgasị ụna bụ mgborọ ụbọọlụ dị. Dị ndụ ọfọọma nwere gị ma ka alụfọọma dịọra. Lụọ tinne na-elele vugazị dịịrị ma. Dị ndụ onye ụka alị n'ere ma ndụ dị filị nke ị na a na-aba nla nne nwa dị ndụ dị onye na-harụbọọlụ.,1.0,0.5879
+637,"Ba hɛssi faa lii Aanɔn Gɔmbɔɔluŋ di ga chug Bizeŋ Hɛmɔn, di kpa hɛssi la maa n du Jɔɔdan Waluu wiifurii paga la maa.","Bia ha si fale anon, gombo lun di ga chuk bizen hemon. Di kwa ha si la ma ndu Jordan walu we furi pagala ma",0.9167,0.2967
+638,"Ba faa waa biibaal maa gillɛ tɛu, di u biibambijiga Ahazia bɛŋ lɛi.","Bafaawa bi bal, maa gille tew. De obiba mbe jiga, ahazia den le",0.9231,0.283
+639,Di Joab ge laali u laal kuna di kpa u tokobi suu u too di kirsi u chara.,"De jua ge laale, o laale kuna, de kwa uto kobi su uto de kese ocha",0.8889,0.3148
+640,"Bigvai naanna faa du kagboŋa anɛɛ ni tokkoanɛɛ ni fidaanumbɛl, .","Big bye nanna, faadukka gbonna anne ni toku anne ni fida nu mbel.",1.1,0.2885
+641,"Yaa Dɔɔri Yeesu Kristo balaa wia naa ni gunla yaa maa n niŋ chaali u be naa, n na suŋŋi ia, yaabalaa, ií zum a wia nɛnnɛ.","Ya do Yesu Kristo balawiya na anigola ya ma nni nchali ubi na. Nna sun ya ya bala, izum awiya nne.",0.9259,0.2967
+642,"Haali a Ijip hinuu n kpogli kandaa gba, ka Bɛnaaya faa kpa guliire lɔu, ka foozi u kandaa hiŋ, di kpuu.",Ha na-eji ihe ndị a kpọgide kandụl ọkụ ka ha ghara ịda ma ọ bụ daa n'elu ihe ndị ọzọ.,0.9524,0.6962
+643,Hiŋ du hɛribɔduma biini i bɛnnɛ bɔ.,Hindu herbaduma biine e benna,1.0,0.3571
+644,Nɛr wia n deŋlee de dui waa ɔɔ dɔɔ wichɔgii maa.,"Nne ya ndegele, di di ya wa odo, wee chọghị ma",1.0,0.5676
+645,"Baŋ chigɛ a Nuukpaŋ Dɔɔi Dakka di ra zuu Jɛrusalɛm la, di Koori Sɔɔl biihaaŋ Mikal chigɔ tokoro di ra binni baa.","Bụrụ na Chineke anọpụghị anyị, ọ ga-adịrị anyị Jeruselem laa. The chorus all be hang, maka Chineke tokoro dịrị ya be nne ba.",1.0,0.6292
+646,ka ba waa sɛɛwɛ.,"bụ onye isi ndị Home Builders. Biko, gwa anyị. Ka m nara ma na-eji",3.25,3.6667
+647,di vir hɛɛhraa du n siwee.,de la gare,1.0,0.85
+648,"Uŋ faa du yaa be saŋa la banla Jems n hummɛ la n faa haa waa ballɛ mɔɔ la, u ni banla n waa Jus hina ɛɛwɛ la ɔɔ faa kpawuu ra di.",O nweghi ihe mere na m fa abughi abali ma o bu ehihie.,1.0,0.8211
+649,"A saŋa, di Abram haaŋ Sarai waa bie maa lullɛ tɛu.","A sanna, da brahan sarai, wa bi ma lulle",0.8182,0.3421
+650,"Dikuu ba bilchɔg hiŋ wia, Kɔraawiizi baaŋ faa fuuh Juda ni Jɛrusalɛm hina ni.",de ko ba belu cho hen wia kora weze ba fa fu judani jerusalem hinani,1.0,0.3387
+651,” Ba maa lii.,"Ta ma kwa afa nu de zo ube, o choro m bo. Ka o kwa",5.0,3.75
+652,"Iiŋ faa du Bizeŋ Sinaai zɛɛ la, ii faa ɛɛ wiarɛ di gil Kɔraawiizi baaŋ fuuh werge maa, u faa ra nyiŋŋi ú kpu ia.",Ife a doro bizensi na Izela. Ife a ewero digiri kwaru izu mbu unu were gi maa. O furu anyi inee ukwu,0.96,0.5294
+653,Ba faa ra ɛɛ annii maanii guŋŋ ba wa fuuh mbusu lizaa kuna tuŋ.,Bafara a animanigun bawa fu mbusuli za kuna to.,0.9286,0.2857
+654,Waabuu Kɔraawiizi la Jekɔb n faa ra hum la lizi ú ɛɛ koori.,"Mba bu kwa nu nke a, m faghị ha na leze, o ekwuru.",1.0,0.6957
+655,"Nɛr la n na ta wia jina nɛnnɛ, di aah siwii ra hum daŋ nyɛɛli.","Nna Ntawiah Jnr. The Asiwa Home, Daniel.",1.0,0.587
+656,"Aŋhinabe, u daŋ na yaa sinyɛna di lɛɛ yaa, yaa wàá siuzi.","Ahenabe, odan na yɛase nyinaa dilleɛ ya, ya waase",0.9167,0.3721
+657,Levi dee la siweere faa aahwɛ ni bahinaa sɔi di lizi ba doŋa ha wia kaali Kɔraawiizi kizeehina la.,le vidé la sueur femme anwé ne bahina soe. De le de ba donga hawe ka le kora we zeki zehina,1.0,0.4304
+658,"Ií liizi gunla uŋ faa ɛɛ Kristo u fɔŋŋa biini, di zum lugɔ a fɔŋŋa himmaanii ú kpa hiini yaa.","Ihe niile dị gị n'aka, Ofa, na Kraist, Ofa, na-abụghị na e zọrọ m n'oge Ofa, na-aghị mma n'okpahiịrị a.",1.0,0.6667
+659,"Koori Deevid ni u laallɔɔra maa izi la Jɛrusalɛm, bá ga lɔ Jɛbus dee la n du de la.",Kọọdebe na ụlọ ọrụ ama isila Jerusalem. Biko lọọ. Jebuzdela ndudele.,1.0,0.4603
+660,Nunzuma wiɛɛlaa ra ɛɛ winanaarɛ werge kaali dɔŋkuna.,Donko,1.0,0.9545
+661,"Di ma bolzenaa tɛɛ u laal torkozi, u zagra ani kunla maa uŋ faa ra nyiŋŋi mai Jɛrusalɛm, Lɛbanɔn ani a hɛri bɔr la maa uŋ faa di kora la biine.",Lebanon,1.0,0.9364
+662,"A mbusu lizaa kuŋfuuhlaa, mbusuzi lizaa mia ani ola nuuri la maa faa waa wette sag u ni.","Mba su liza kun fula, mba su ze liza miya ane ula nura la. Ma fa wa wete sa'a",1.0556,0.3333
+663,U ɛɛ gunnɛ bánla n waa Izrɛl hina ɛɛwɛ maa wer sɛɛ a wia di yardi Yeesu Kristo.,"Awa go na-abala nwa Izrahel na ewe ma awurisi, awa di ya na Jesu Kristi.",1.0,0.4262
+664,"Kɔraawiizi ra hiiniibuu werge, di ra tɛi sisɔna, di haa vɛɛ ra dii kanyitti werge maa, ka i ra binni a maa pɛɛ.",Kwara waziri hinibu wurge dara tesisona da havera di kayiti wurge ma. Ka'ira binna ama pi.,0.9565,0.3176
+665,"a bɔmbɔga bɔra anɛɛ la baŋ kpawɛɛ bɔg a tassazi, a ligee nyuuni.",Abụ m bụ onye ọrụ a na-eleba anya n'ihe gbasara alụmdi na nwunye.,1.0,0.66
+666,"Kɔraawiizi faa bir Koorizeŋ Sairus nfɛrɛ, di gil u sɛbi hɔŋ tɛɛ u kora diiribɔra maa, di ŋɔ bá sii, di karmuu nɛr maa nuu.",Kora wazifa behtar ko rizen sairos in fere. Digal o sebehonte o kora diri bora ma. Dehno be si. Deh karmo nermanu.,0.96,0.4255
+667,A waa wer yoŋhaaŋ biibaal ni haaŋ la n dɔɔ u hiŋ la biibaal n kpauwɛ di ra di ba mɛɛ kapɛttɛ.,"Awa bu ndi Umuhan beghi ha laa ndu ha bii, nkwa we dira diba m ya ka fedi.",1.0,0.5493
+668,"Awia, lau n laallɔɔra di dau u luge, di guŋ lɛi, u daŋ chɔ zuu bolzeŋkpega la biine, yaa wàá ka nau lau.","Awa na-alụ ọlụra, di na nwunye. Dịkwa nnọọ anyị, ụdị nchọzụ bụlụzịkwa ihe bini. Ya bụ aka na-alụ",0.9565,0.6623
+669,Baala ni haana ɔɔ faa yir yira di ra deŋŋi n siwee.,Dara jeng in si we,1.0,0.7436
+670,Ií gilɛɛ waa lɛɛ Kɔraawiizi kizeehina gɛɛ Levi dee gɛɛ u Dia yiryitta gɛɛ u Dia guure gɛɛ nɛr la maa n na hum u Dia la huma maa lampoo gɛɛ hɛri kuna gɛɛ kuŋkɛɛlaa.,"Ihe na-ewalụ anyị koro zi, kịde ihe na-agē, lebe dee gē, odi anyị ịta gē, odi anyị gụre. Gē nala ma nna hụm, odi ala hụm ala mpụ. Gē herikuna gē, kụnkela.",1.0,0.5078
+671,’ Ka n na nyiŋŋuu ií zum nɛnnɛ lugɔ Kɔraawiizi la iinna hum labuu tɔ ii see di ra gi Jɔɔdan muu la.,ka nna nyin ko izu m na na lugo. Kụra be zila inna họm labụtọ ise. Diragị jọda mụlụ,0.9545,0.3733
+672,"Miŋ wa lii de ba, n ŋɔ u be wii la maa miŋ ga na denii ani biinihuŋŋu.","Mụwa lịdịba, mụwa ubewụla mma, mụ nga na-adị nị. A na-bụ ị nụhụ",1.0,0.5098
+673,"Denii u kaa kpogliŋ la a biini diŋŋee wiifurii paga, di mɛgzi a dominuuzeŋ, u ni anla maa mɛgzaazi ɛɛ kpaŋ.","Onye na-akpọkọrọ nla, abịghị na dị gị ewi fụrụ ịpagha. Onye a na-akpọ Merdazi ekpaghị",0.9524,0.6667
+674,"De wiifurii nodig wiikakag barii, n faa na diini aŋhina, a chi lugɔ bolzeŋ.",Mfa na-adịghị anụ ihe na-achịlụgo gburugburu,1.0,0.7966
+675,"Di naballii gɛɛ pebalaa gɛɛ peballii ba ra nyiŋŋi, ba kpa lizi mbusuzi di fuuh tɛɛ Kɔraawiizi la n du chiŋ, ií tɛɛ baa.","Ndi na-abali, gee nu ntị. Gee nu ntị, ụmụ nne m. Biko lelee mbupute dị mkpụmkpụ nke kọrọla ndụ Chineke ebe a.",1.0,0.6989
+676,Koori Jɛhɔram faa na hɔŋ lii Kɔraawiizi dɔgtɛɛ Ɛlija be.,Kọọrọ ya hóránfà na hụlị kọrawụ eze Dr. Elijah,0.9,0.587
+677,"N Dɔɔri Kɔraawiizi, gil n wile naa helii.","Ndukwu a na-akọ akụkọ banyere gị, mụ na gị na-ahili.",1.25,0.9062
+678,"Awia, i ŋɔ wibiire.","Ihe na-afasụ gị, ụbọchị",1.0,1.0714
+679,Gilo hinuu Ahitɔfɛl biibaal Ɛliam.,"Kilo Heno, Ahi Tofel, Bibal Elia",1.2,0.3448
+680,"Di lii yaa naabaala saŋa la guŋŋ di wa lii zinaa, yaa bilchɔg kannɔɔ werge maa, dikuu yaa wichɔgaa wia.",De ko ya,1.0,0.9383
+681,U mɛgzɔɔrɛ di ga hel jaŋgal la n chaŋ a diŋŋee la.,Muzorega hill jungle anchan adhingi la,0.9167,0.5263
+682,"Denii ba kaa lizi a kizeehina baŋhina jaa, di sɔ ba doŋa ha.","Dị nị bákà, lụzị akụzị hịna banhịna ja, dị sọba dọna",1.0,0.4565
+683,"Denii u barii hina ni banla n zummɛ lugɔ u faa ɛɛ nyuŋŋii, di ra suŋŋi kuna la nau, di ra pɛɛzi dɔŋa, “Baal naa lɛi ɔɔ faa so di ra suŋŋi kuna laa?",,,
+684,"U ni baa faa suah Kɔraawiizi Dia biini, binni anumbɛl.","Onye baa fa so a, koraa we zi di abii ni, benne anum bia",1.4,0.3023
+685,Silminti ligee faa du u dominuuzeŋ kɛraa daazi keŋkerezi bɛl maa.,"C'est le moment de l'église, faire de à 2 minutes et car d'âge, qu'on crée des belles mains.",1.6364,0.8704
+686,"Ba ɔɔ faa bɔnni a diwee di ra tɛɛ Kɔraawiizi kizeehina ni ba dɔŋahina, di ra hiŋzi gunla baŋ bargi baa la.",ba ọfa bụ na adiwe dira tee kọra wee zịkịzị hịna nịba dọna hịna dira hịngị zị gọla ba mbarị gị bala,0.9545,0.3976
+687,Ka miŋwaa nɔŋŋi i widaulaa labuu kaali saliŋ.,Kamenuwa nọ́ ṅe ewi daụla ala bụ kaali,1.0,0.4595
+688,"A ni a Kolzeŋ maanii ba kpau kuari, a ɛɛ kpaŋ.",A na-akpọkwa ya,0.9091,0.7353
+689,"N kpɛɛma, gilɛɛ firiŋ n nii chɔɔ!",Nnoo ha m bee. Bịa chọọ. Taa mụ na gị ga-anọbe akai nkwe ma. Gịnị ka e fere m? M na-eche,3.0,2.12
+690,"Hiwiilchɔgii daŋ lau i looree, di tɔɔrii guŋŋ a wa lii chaaŋ.",He will try to download a lorry the toy gun early chance.,1.0,0.6875
+691,"Awia, a laallɔɔra faa gil a nɛra ani ba kuna la maa baŋ paagɛɛ la, a nabɔnzi ni nɛra la maa n chaalɛɛ la sibɔɔ.",Anya ala lora fa gel anera anebakuna la ma banpa gela anabonze ninera la ma nchala la si bo,0.92,0.2857
+692,Ii dɔɔ sɔnnɛ yemmaa dikuu gunla iinna hiŋ Kɔraawiizi nuuzi wia.,"Edo sọ n'iyamma de k'ogolla, ẹnna hị k'ọra wizi n'ọzị we.",1.0,0.5
+693,"Amnɔn, Koori Deevid biibaala la bɛl faa ra nyiŋŋuu.","Kedu ihe di na be ala? Laa belu, fa na-enye nwa",1.2222,0.6585
+694,"Di lii saŋa la Koori Amazia n faa waa kaa wàá hiŋ Kɔraawiizi la, ba faa ta u kpui jina Jɛrusalɛm biini.",दिल्ली संगलाखोरे अमासियान फावा कावा हिंन करावेजे ला बफाता ओकुइजिना जेरुसेलम बिनी,1.0,1.0
+695,"Kɔraawiizi faa kaa kpau du Izrɛl koori nonee biini, u kpu u laallɔɔrakpila werge maa.",Kedu ka e si fa ka akwụkwọ Izrel kọọrọ na e binyere ụkpụrụ ụlọ ọrụ kwela nwere ike ịma?,1.2667,0.6377
+696,Kɔraawiizi faa nuu ba suŋŋaa lii u bolnaniinanii la n du chiŋ la.,Kwara wee za ha nu ba so ngali obodo na ni nani la ndu chi la.,1.0769,0.3846
+697,"I ra ɛɛ wichɔgaa la ra dau, di u hɔpizii la wa hello un niŋ di seriyazi ani wibii la, u baaŋ daŋ fuuh i ni werge maa.",Ihe a bụ ihe ịma aka dị ra ndụ. Di na nwunye na-enwe ihe ịma aka ndị siri ike na-enweghị ike ịla. Ụba ndị mmadụ na-enweghị ike ịma,1.0,0.8161
+698,Maa i lɛɛi amaniyesuma la wia kpoglee n bɛŋ.,ma ilia amana suma lawya pegle mbya,1.0,0.4
+699,"Guŋ wiarɛ ba kpu yaa naabaala, ka lauri yaa biizi ni yaa haana kaali hɛrduma la.","Gungure bako ya na baala, kallaure ya biizi ni ya haana kaari herdumala.",0.8125,0.2381
+700,"Ka u himmaa nabɔnzi faa ta u jina bá kpuu, dikuu uŋ kpu Kɔraawiizi Kizeehina Maa Nabɔma Jɛhɔyada biibaal Zɛkaria wia.","Ka o hima na bonze faata udi na kpakpo, deku nkpo kwara bu izi kizi ihi na maa na bo ma, Jehova ya daa bi baa Zekaria",1.1905,0.3579
+701,"Gunla bie la baŋ lullɛ ba himmaa vaaŋ ni n faa ra tɔɔri bie la baŋ lullɛ Kɔraawiizi Dumnanii fɔŋŋa biini la, gunnɛ a kaa wa ɛɛ filaŋkennaa.","Gonnaa bee laa ban loolaa baa himmaava binnaa, mfaara toore bee laa ban loolaa kwaraa bee zumaa fanga binnaa. Gonnaa akawaa eefile kee nnaa.",1.0,0.4909
+702,N dɔɔ nunzumaa di lii i baglaazi la biini.,"Dondon zuma dille, ibarla zila bine.",1.0,0.3636
+703,"” Ba kpa a birkissizi di ra ma, di kpa kotaal ge di ra fargi a baana.",Papa abiriki zeze de Rama de pakotal ge de la farge abana,0.9375,0.3
+704,"Awia, n na ŋɔ i benii lugɔ í kpa a giŋgimee nyuuni hɛri di tɛŋ gunla Kɔraawiizi n ŋɔ nua di tɛŋ a hɔl hiŋ la.","Anya nwa ibe ni lugo, ikwa agingime nye unu here the ten gunlakwara bu ezi nwonua the ten ahu olu hilu.",1.0,0.4512
+705,"Di a hiŋ wa chɔwɔɔ ú ga zuu bolzenaa naa bɛl maa, ú chi a bol dominuuzeŋ, di ŋɔ u nua wia tɛɛ a bol nabɔnzi.","A hịrị m weta gị oghere obodo dị na Abakaliki, oche abụọ dị mma, na ụlọ awịa atọ abụọ na abụọ.",0.9615,0.7375
+706,"Di u gillɔɔ i wer bagli nɛra ŋmɛnizi gunla ban niŋ hiŋ, a hiini baa guŋ.","Ndi ogaranya iwere bagle na-enwe na-esegu nla ba nne hian, ịrahị na baagọ.",1.0,0.5636
+707,"Ií jaami Filɔlɔgus, Julia, Nɛrɛyus ni u niuhambie la, Ɔlimpas ani Kɔraawiizi biinanaa la maa n du ba be la.","N'ime Philologus, na Julia, na Nereus, na Nneoha Mbiere, na Olympus, na kọọrọ ha ozi ọma Ndụ banyere.",0.95,0.6071
+708,"N bie, di i haŋ wa vɛɛ baglaa nuui.",De han wa,0.8889,0.8
+709,"Ijip koori nabɔnzi n wa nau, ba chɔluu di ra tɛɛ a koori, di kpogluu zuu u kooridia.",Ije akwụkwọ na-abụghị ụmụ nwaanyị báchọrọ ịghọrọ ndị ọrụ uzo ukwu dị,1.0,0.7812
+710,"“Nɛr la maa n waa hum, ú gilɛɛ na diwee ra di.","Nna m a, nwa a hụm, oge na-adịghị anya",1.0,0.5938
+711,"Kɔraawiizi la n ɛɛ bampirsɔna hiŋ la, di a wa ɛɛ tama, u daŋ gil ii chɔgi Sitaani huma alugɔ iiŋ kpa naa fɛruu.","Onye isi ala ebido ịpressọ na hịla. Na awa itoma, ụdọ ngịlị ị chọrọ ịsị taa na hụma alụgọ ịkwa na afịa.",1.0,0.5765
+712,"N bɔra daŋ sɔɔni di ra pur, dikuu i nɔŋŋaa la wia.","Ambara dance wò ne, dirapùr de ko inọ́ṅ àlàwị́.",1.0,0.5676
+713,Waabuu gillɛ a par koorizeŋ lugɔ u ra tɔgzi u Dia la n du Jɛrusalɛm la.,Babu gilla a parcours de longue ora toge odiala ndu Jérusalem la.,0.875,0.3636
+714,U maa sɔnnɛ faa Abija n ɛɛ Zɛkaria biihaaŋ.,"O ma so nifa Abuja, eh Zechariah bihan.",1.0,0.5
+715,"ni tɛɛbulzi la paanuu la baŋ ɔɔ kpa tɛɛ Kɔraawiizi, n ɔɔ sag a ni la.",la,0.9375,0.9615
+716,"Ka ɛrɛɛ wiarɛ minna ŋɔ wibii ra tɛɛ ia, ii jaa kpaŋ birgi ii dɔm filaŋkennei?","ka e rere bia na m na-ewu iro tee, iji akpa nde bekee i do feeling nke nne.",1.0625,0.6333
+717,"Levi dee la ɔɔ tɔ see di ra yir yira, di ra chɔli Kɔraawiizi, di kaa ra hiini a kizeehina ba hɔpizi biimaa huma biini.",N'ebe dịla ọtọ sị na-achọrọkwa awa iri dịka awa iri na akịzị ehina baa hopụzị bīma ahụma bīna.,1.0,0.5165
+718,"U mɛgzi u kɛraa daazi ni u jaŋgal, a ni anla maa mɛgzaazi ɛɛ kpaŋ.","ओह, मेरे से हो करा दा से न हो जंगल। आने अनला मां, मेरे से ए",1.0667,1.0
+719,"A di i hiŋ, dikuubɛɛwiai, tɔna la maa hin niŋ na lii i kuuhni biinii guŋ.","A di ehen, di ko be we ayi. Tọna lama, hin nna li ekun bi ni igọ.",0.9375,0.3818
+720,"Ba faa waa kaa ra fuuh daahɛgsɔɔhsuma gɛɛ di ra lizi mbusuzi di ra fuuh a kuna, Kɔraawiizi la Izrɛl hina n na hum la Diinaniinanii la biini.",Bafa wa kara fun da ya san osuma ge dira leze mbusuzi dira fun akuna kwara wi zila izira hina nnahum la di nani nani la bine,0.8929,0.2703
+721,"Ba daŋ ɛɛŋ nɛnnɛ, di gil n kpui dikuu i wia.",Badan yenn na degel m poy deko iwe,1.0,0.5312
+722,"’ Nɛra daŋ ɔɔ ŋɔ, ‘Guŋ ɛɛwɔɔ, dikuubɛɛwiai, ba vɛɛ Kɔraawiizi la ba naabaala n na hum la n lizi baa lii Ijip hɛri labuu, ka ra kuari vuga, di ra tɔgzaa.","Nara dan owa, gun ewo dakobe wai, ba ve koro wizila ba na bala nna humla. Nleze ba li iji phere la bu kara kwara vuga dira togho za",0.871,0.3363
+723,"Taaya, Saidɔn ani Filisti hɛssi maa, beedee ii ra nyiŋŋi ii ɛɛi?","Taya, sai don anifilisti sun ma bi dai irin nyi i'e.",1.0,0.4
+724,"Ba faa kpu yaa ni yaa koora ani i kizeehinaa, di lauri baŋhina birgi yoma, di paagi yaa kuna maa, yaa birgi sɔkpassi kuna hɛrdumazi koora nonee biine, alugɔ zinaa naa.",Mafa akwụkwọ ya kụrụ na ikirihe na nke larịịrị na-abụghị yuma. Na paagị ya kụrụ na maa ya bụrụ sọkwaa sọkụnaa na duma kụrụ na nụ na ebịịrị. Alụgọọ zinaa na.,0.9677,0.5227
+725,"Awia, a dɛkkɔ yaa n niŋ kaa chɔgi i widaulaa, di kaa gil yaa ni banla n na ɛɛ i wikiilaa ra paagi dɔŋaa?","Awa adekor ya ninka chogui, iwe dawla, dika giri ya ni ba na na a wiki ra rapa gi dongar.",0.9167,0.3846
+726,"A saŋa la, Koori Sɔɔl n faa haa ɛɛ yaa koori la, ka hinuu ɔɔ faa tɔ Izrɛl hina see, ba gaa yoo laal.","Asa ngala, kụọụ sọlụ mfa ha e ya kụọụ la. Ka anyị nụ ọfụ atọ Izraịlị na-asị, ""Bịa gị ụla",0.9167,0.589
+727,"Ka di u haa ɛɛ bichala, u wia ni u mɛɛ balaa wia haa ɛɛ kpannɛ, dikuubɛɛwiai, u kebee ni u kuna ni u wia maa du nɛra baŋhina noneere.","Kado ha ebi chala, o we na o me bara we ha e kpanne, de ko be we anyi, o kebe na o kuna na o we ma du nne ra ba nhe na fa nhe.",1.1333,0.46
+728,Minna hiŋii ni wibii la wia.,Mena heghi ni wi bi la,0.8333,0.4091
+729,"N lizuubuu, di lizi u doŋa ha, u ɛɛ kunnaniinanii n be, ń sɔŋ du de, di ra la saŋaa saŋa maa.","Ndi be anyi, ekele m unu. Udo diri unu na mba nso na diche.",1.0,0.806
+730,"Yaa himmaa ɔɔ ra ŋɔ ii wiarɛ Yeesu hiŋra la n du bɔr maa la be di ra chɔli ia di ra ŋɔ gunla baŋ tɛɛ ia tɔɔrɔɔ kpila a nuu ia werge maa, ka ii di kanyitti ka haa vɛɛ ra hiŋ di yardi Yeesu la.",Ya hamma orawa iya ra Yesu hihala ndu boorma labi. Dira chola iya dira nwagun labanti iya toro damta anu iya wirgi ma. Ka idi ka ite ka havera hindir yara di Yesu.,0.9362,0.3846
+731,"Di huuti genii gɛɛ yazi gɛɛ siŋ gɛɛ nuurɛ, ba ra nyiŋŋi, bá ɔɔ wer lizi mbusuzi la n na par Kɔraawiizi La N Na Di Kora Chiŋ, di ra suŋŋuu winanaa ra tɛɛ mìŋ́ koori ni n biibaala.",deho tigene ge yarge sing ge nure berenyi ba owo lizin busu zula napa koro zula dikoracin da sunu we nana ra te min kore ne,0.9487,0.4667
+732,"Ií gilɛɛ yarduu, dikuubɛɛwiai, hɛri maa vug haa waa wette lɛɛ u nɛra lii n nonee gɛɛ n mɛɛwaa nonee biini.","Igele yardo, dekobewai, herimafo hawa wetere onerali noni ge mme wa noni bini.",1.0,0.4578
+733,"A saŋaa Taaya Koori Hiram hum u balaa Koori Deevid be, di gil ba kpa hɛriŋkpol daazi, ba ni kapintazi ani maara, bá wa ma kooridia tɛu.","Asa nga ta ya koli. Hiram, bu obi ba koli David be. Dika ba kwa herin koli daze, ba ne carpenter ze, ane mara. Ba wa ma koli di atea",0.8889,0.3619
+734,"Awia, di yaa ra nyiŋ gɛɛ yaa waa nyiŋ, ka yaa Dɔɔrii dɔɔ yaa.",Aya di ya ra nyi nge ya wa nyi ka ya do ri do ya,0.8571,0.3556
+735,"Kɔraawiizi Dia balaa ani Solomɔn balaa naanna faa du kalfaahoro ni tokkoanaazu ni fidaanɛɛ, .","Kwanaki da dama, an yi sulhu da Mbala Nanna faɗu ƙarfa huru, ni toƙa na zo, na fi daɗi.",1.2857,0.4805
+736,"Harim naanna faa du kagboŋ ni fidaaniidaanɛɛ, .",Alimnana fa dukka gbon nifida ni rani.,0.8571,0.3421
+737,"” U kaa ta muuzeŋ sechɔgaa ni kunnyinee, a su a nii biini.","O kaata muze, se chogaa ne kunyine asu ana ibi ne.",1.0,0.2326
+738,"U faa kaa gil ba kuari tassazenaa fi, bá ra loori kuna.",faka gel bakware tasta zena fi,0.9167,0.5
+739,"Saŋa la Sɛrug ge n wa di binni tokko ni kpɔrgɔ, u lul u biibaal Nahɔ.",Sanga la seru ge unwa di be ni toko ni kporgo olol obi bal na,0.8125,0.3269
+740,Kɔ́raawiizi ra liizi u naabaala wichɔgaa.,Kedu ka obodo Lisa? Ụlọ ọgwụ dị aṅaa?,1.3333,0.7941
+741,"Lɔɔd, Hadid ani Ono baala maa faa du kalfaaniidaanɛɛ ni tokko ni anue, .","Lord, haɗe ni da wani baƙon maɗaukakin daɗaɗɗen ni toƙone annabi.",0.9231,0.6071
+742,Ba faa faarɔɔrɛ di ra lizi a kuna baaguzi ahorohiŋ biini guŋŋ di ga hel baaguzi aniidaanɛɛhiŋ biini.,"Bafana rore de la leze akuna baagoze, a horo himbine gun di ga hil. Baagoze ani daane himbine.",0.9444,0.3171
+743,"Ba pigzi guŋŋ di wa na a guŋ hɔŋ, bolzeŋ la baŋ faa ra yir Ɛkbatana n du Mɛdi hɛri la.","Babban birnin tarayyar Najeriya, Abuja, babban birni ne da aka tsara tun daga tushe.",1.0,0.8438
+744,"Di i hanna hiŋ u widaulaa, wichɔgii maa wàá huuzii.",Dehannahin o widaula. Wichwagima wahuzi.,1.0,0.3
+745,"Ba zum nunzunnii, dikuu u wia zɛɛ zumaa wia.",Bazo nonzonne deko oya zeyazuma,1.0,0.5588
+746,Joab niwee Asahɛl ani Dɔdɔ biibaal Ɛlhanan n lii Bɛtlihɛm.,Jua ni we ase hel ane dodo bi bal el hanan ne betel hel.,1.4,0.3958
+747,"Denii a baal kaa mɛgzi a biini diŋŋee, u wassi ni u jaŋzi maa mɛgzi.","Deni abal ka merze, abin dinye, owa sene o jangzema merze.",1.0,0.4423
+748,"Sitaanii niŋ du a hiŋ ni ra hiinuu werge maa, ú wer dɔɔ fɔŋŋa werge di wer ra ɛɛ wizenaa, witittaa ani nuukpuuri wia ra dar nɛra, di ra ɛɛ wichɔgaa maa dee n du de, di wer ra dar banla n niŋ siu.",Tụtanụ ndị ahenne dirahịnụ werugena. Uwa dofana weruge diwira ewisela niwizi na diratarnara. Dirahụm wị chọga ama di ndị de diwira darbanla nịnsa.,0.9545,0.483
+749,"Ka ba ɛɛ i nɛraa, di ɛɛ i kapɛttɛ hiŋ lizɛɛ lii Ijip hɛri ani i fɔŋŋazeŋ ni i banoniire.",Kaba e inara de e ekapete enleze li Egypt here anufanga ze ne ibanuniri,1.0,0.5075
+750,Ka waabuu niŋ dɔɔ kuna la maa miŋ kuuhwɛ na.,Ka Pete diri. A na m ekele unu nile maka nkwado unu na-enye m.,1.3,0.9706
+751,Nɛkpila maa ɔɔ ra nyiŋŋuu ba wia par hɛri nabɔma.,na ekpele ma o ra nyi nu ba we apar heri na bom,1.1,0.359
+752,"Aabuu, bolzeŋ Baal Gad la n du Lɛbanɔn Waluu di ga hel Bizeŋ la banna yir Halaki la n chɔɔwɛ di ra la Bizeŋ Sɛɛ la.","Na bu bulsin Balgat la ndu Lebanon walu, di ga hel bizin la Banna Yir halaki la nchoe dira bizin sela.",0.6538,0.2614
+753,"Kɔraawiizi la n ɛɛ kanyitti ni bɔkpega dui hiŋ la, ú gil ii wer dɔɔ nuukpaŋ dɔŋa ni gunla Yeesu Kristo n wette bagli yaa la, ií wer ɛɛ nuukpaŋ, di ra kpa yaa ni yaa Dɔɔri Yeesu Kristo Mɛɛ Kɔraawiizi la girme.",Kọráwízị̀là A kà yí tì nì bákpè kà dúyìn hìlà. Ògìlì ì wè dọ́ nụ́ kpàndọ́gà nne gụ̀nlà Yésù Krístò nwétè bàgàlì yá àlà. Ì wè è nụ́ kpàndọ́gà kpà yá nì yá dọ́òrì Yésù Krístò mmé kọráwízị̀là gị̀rị̀,1.0,0.6111
+754,Ka Joab ni u niwee Abisai haa ra dau Siiba luge.,"Ka i jee abụọ n'ụlọ iwe abịsaị, a ra daa ọsịba",0.9091,0.5676
+755,U jaa gil ba kpa a Kolzeŋ chiŋŋi a Dia wiifurii nodig wiikakag wiifurii sirii.,Wujaa gel bakka akkul zeen cinne adde weefuri nodi we kaka weefuri,1.0,0.4444
+756,"Di ma diŋŋizeŋ ge ni u gbessi, di kpa danyɛ tɔ a gbessi ni.",The mad thing is angry and aggressive. The bad thing is aggressive.,1.0,0.7727
+757,"Awia, chiiri zɛɛ di dɔɔ bɔkpega!",A biya cire ze da dobo kwega.,1.1667,0.48
+758,"Gunla yaa n faa hah dɔŋa la faa ɛɛwɔɔ lugɔ koŋlii, di teŋ yaa baaŋ.",Gwanaya infaha don alafa'e wo lugo kongli di ten yabe,0.9333,0.4314
+759,"Guŋ daŋ gil ii dɔɔ fɔŋŋa, di di a hɛri kunnanaa guŋŋ di wa gilaa tɛɛ ii biizi, a ɛɛ ba kapɛttɛ kuna, di ra la saŋaa saŋa maa.","Mundangle, Edo fonga, didi ahere kunana gun duwa glata ibiri a eba kapete kuna drala sanga sanga ma.",0.931,0.3871
+760,"Aŋhinabe, nɛra la koori n na di kora ba ni waa maga dɔɔwɛ.",na na,0.9231,0.9091
+761,"Ba ba wa suahzi zuu yaa biini, bá zum yaa hinaa dɔɔi Yeesu Kristo hiŋaa biini, di faa ra nyiŋŋi ya kaa birgi yoma.",Bà bà wasị anyị sị na ya abịala. Bazọmị ya ahịrị na adọrọ Jesus Christ o hị na abịala di fara nị ya ka abịrị gị,1.0417,0.5341
+762,Kɔraawiizi hah wia la biinikpola hina n ɔɔ ra fɛu.,"Kọlọbị zị ha, ụmụ nna bịne kọlọhị na, ụnọ ọrafia",1.0,0.625
+763,"Josua faa lɔ a kooraa laal di birgi, ka wa kpegli baa.",Jụọ ya fa akụkọ gbasara ala ndị Bịrigi. Ka ha kọọrọ gị ba,1.0,0.5854
+764,Ikɛs biibaal Ira n lii Tɛkua.,"Ikea, Bebel, Era, Nle, Teko",1.0,0.5217
+765,"Tɛra faa di binni kalfaanɛɛ ni anuere, ka siu, di u haa soga a boljiga hiŋ.",Tearifa di bi nekalifa ni ni aluiri ka sew. De ohasugi aborji gahen.,0.875,0.4035
+766,Hinuu gillɛ kummaa du de di wa lii ni zinaa.,Yanu gilla kwanma dude dewalli ne zana.,1.0,0.3824
+767,"A hɔl bɛl, Kɔraawiizi ŋɔ Abram be, “Lii i hɛri ni i nɛra ani i mɛɛ dia, ka izi la hɛri bɛl min niŋ baglii.",Ahol be kora bizonyo abram be. Li ihere ni inera ani imedia ka izila her be menne bagli.,0.8,0.3247
+768,Koori Deevid faa pɛɛzi Kɔraawiizi wii la n gillɛ guŋ ɛɛ.,"Kọl debe fa pịa azụ, kụọ wezụga wiila ngịlị gị.",1.0,0.6444
+769,U biini diŋŋee dominuuzeŋ faa chaŋ wiifurii nomɛɛl wiikakag dominuarɛ gunla wiifurii hor la n duwɛɛ la.,Obi nịdị gị na Dominos n'afọ cha nwefurị nọmba ka ka dominare. Gịnị nwefurị hụla ndụ gị?,1.0,0.5233
+770,"Baŋ zuu u dia la, di u chɔɔ u kunchɔɔrikuŋ ni.","Bànzọ́ ọ́ diara, de ụtụtụ ọkọnchọrọ",1.0,0.6471
+771,"” Denii Ijip koori faa kpa ba ni ba daama maa du u laallɔɔra nonee, ba duŋŋi baa di lii Ijip hɛri.","Dili Egypt ko refaapa, bana ba daama maado, u la loore nu ni, badungba dili Egypt here.",0.8571,0.4189
+772,"Awia, di yaa wa na ŋmɛnɛɛ lugɔ ya ɛɛ winanaa, ya ra ɛɛ guŋ.",ya bu adiya wa na onwe na elugo ya ewinana ya ra ego,0.7143,0.4186
+773,"N Dɔɔri Kɔraawiizi, i nɔŋŋaa la n waa tunaa dɔɔwɛ la, su hɛri naa maanii.","Ndi ooro kora beze, ino ngala nwa tu na adowe la, suheri na ama ni",0.9333,0.375
+774,Amasai biibaal Mahaf ni Azaria biibaal Jowɛl.,"Masa bibal, mahaf. Ne azaria bibal Joel.",0.7143,0.2368
+775,"Hiŋ dɔɔ kanyittii bɔ, hiŋ ɛɛ baal, laal lɔi biini.","Hendu ka yin ti ibo, hin ebal laa loyi biine.",1.0,0.3684
+776,Laal daŋ gil ba ŋmɛnizenaa suugi ni lalaa.,"Laldangyal, bangmani zena suge, nelala",1.0,0.3529
+777,"Baŋ ga hel bizeŋ la n du Gibiɔn, Amasa chem ba ni.",Banga helbi zeng la ndo gibiyo. Amasachim,0.9167,0.2973
+778,Denii Koori Deevid domee koora ɔɔ faa so.,Dɛn yi ko David domi koraa ofasu.,1.0,0.4242
+779,"Yaa faa haa waa helle ka du de, di ra hiŋ durnya wia, a dɔɔ yaa.",Yafa hawa hili kadude dirahin durinya waza adoya,1.0,0.3043
+780,"Wichɔgɛɛri daŋ wer ɛɛ wichɔgaa kalfa, ka haa du de ni miibɔɔ.",Wechok era don were er wechok akalfa. Ka ha dude ne mi bo,1.0,0.4167
+781,"Lugli la, Kɔraawiizi faa ta chiŋ ni hɛri maanii.",Kọrọrọ ife a taa Chineke ekele.,1.0,0.7368
+782,"Aabuu faa saliŋhuŋŋa, saliŋ himmaa ani a kuna maa.","Abo fa, salun hungha, salun himma, ane akuna ma.",1.0,0.35
+783,"Kɔraawiizi la yaa n na hum, ɛrɛɛ ya ŋɔ annii naa maa harɛi?",Kora wusila ya nahu. Ere ya ni na ma,0.9231,0.5111
+784,"Miŋwaa wàá sɛɛ chɔli n hiŋ ani wiimaa, ka ra chɔli yaa Dɔɔri Yeesu Kristo siwaa daakaŋlii la ni la bɛŋ.","Nnewi wa wa se chọla ịhin a na-ewi ma, kara chọla ya doro Jisọs Kristọs se wa da ka ịla na labịa.",1.0476,0.4815
+785,A kuna naa maa Koori Solomɔn n faa gillɛ ba kuari la kpillɔɔ werge maa.,"Akọnan̄a m'akpa Solomon n̄ka agille bakwara, lakwello wiri n̄ma.",1.0,0.3571
+786,"Banla maa n na ɛɛ wia naa, wàá wer du Kɔraawiizi Kora biini di di u suma la.",Bà Lamma na Ebyana wa were dukwara wizi kwara bini didi Osomala.,0.9444,0.3509
+787,"A koori faa ŋɔ Kɔraawiizi kizeehina la n ɛɛ Aarɔn naanna la be lugɔ ba kpa a sela lizi mbusu, Kɔraawiizi mbusu lizibɔr la ni.","A kọrọ fa nwa kora bụ eze kịze hị na ala Nri, Arọnnana, la be Lugọ, bakpa asịla lịze Mbusu. Kọrọ a wee ze Mbusu lịze bụrọ la",0.96,0.3737
+788,"U ŋɔ Abram be, “Kɔraawiizi ɛɛmbuu màá wer lul bie.",Bongo Abraham be.,0.9,0.8158
+789,"Ka Sɔɔl faa ra nyiŋŋi ú dim baa, dikuu uŋ nɔŋŋi Izrɛl ni Juda hina werge wia.","D'accord, on va faire une petite",1.0,0.8305
+790,"Koori Hɛzɛkia ni a nabɔnzi la faa ŋɔ Levi dee la be lugɔ bá kpa Koori Deevid ni Sinaari Asaf wiŋɔzi la, di chɔli Kɔraawiizi.",Kore haza kiya? Ne'a bonzila fa'o lebi de la be logo bakpa kore David ne sinare asaf vi ngosila de chole korawise.,0.88,0.3673
+791,"Denii u faa jaa bir kuari Kɔraawiizi Dia mbusu lizibɔr la, di lizi dɔŋa be chaalaa mbusuzi ani jaaŋ tɛɛi mbusu u ni.","Dị ni ọfọja bịarukwara, kwara ha bịa dịa mbuso ndị Borno. Ndị li dị ndụ ha bịa chala mbuso zi. A na-eje nteyi mbuso",1.0435,0.5543
+792,"N nɛra daŋ wa hiini i nɛra, bá teŋraa wa tɛŋ, dikuubɛɛwiai, Kɔraawiizi Dia la minna nyiŋŋi n ma la daŋ du kaŋ, di du wer werge maa.","Inna raɗan waɗi ni inna ra ba tin ra waɗan da ko be wayi, ku raɓi zai diyal minnan yin immala dan dukkan da du weri weri gi ma.",1.0,0.3939
+793,Denii a nɛra ni hɛssi la hina maa n soge bar baa la faa jaa du ni bampirsɔna.,Deni anera ne he sela hina ma nsoge barbala fa ja do ne bamperisona,0.9444,0.2542
+794,Anna binni yarda nyaara ni hahzii.,na binne yaradanya ra na hazi,1.0,0.2857
+795,Nɛr la maa n nɔŋŋi biinihuŋŋu ni wiŋɔnanaa.,na la ma nọnge bi na hụụ n'enweghị nani,1.0,0.6
+796,"Ba faa bittɔɔ ma Kɔraawiizi Dia gunla baŋ felee mau u du la, di gil u kaa du kpeg jaa.","Bafa be too ma koraa weze dia gunla, ba mfele m'anu odula, degel okaa dupe gija.",0.9,0.2923
+797,A koŋlii bɔpurii la jaŋzi faa ɛɛ lugɔ nogumzi kalfaanaazu.,A kọlị bọpụrụ ịla janjị fa e logọ nọ gụ m'eze kal fa na azụ.,1.4,0.4583
+798,"Nɛr la n na sunni nyaara, ra chagzi Kɔraawiizi la n ta baabuu.",na na sunyara ra chaka za kora wi zila nta babu,0.9231,0.3333
+799,"Baŋ wa zuu Kɔraawiizi Ni U Nɛra Nuukpaŋ Dɔɔi Dakka hiŋ ni a bol biini, ba kpau ga chiŋŋi Tanti Dia la biini Koori Deevid n gillɛ ba baŋ, ú ɛɛ u chiŋŋi bɔr la.",Bịawa zụọ kụrụzịrị onara nụkwa ndụọị daka hinne agwụlụ binii. Bakwaụga Chineke taata dịala binii kụrụ David ngịleba baụ o e o Chineke gbaala.,1.0,0.5124
+800,"Denii Kɔraawiizi ŋɔ Josua be, “Ií gilɛɛ ra ɔm baa.",Jenie kwara we ziga Joshua be. Igilera omba,1.0,0.3947
+801,"Nɛr la n na sɛɛ jugmaa, daŋ dɔɔ miibɔɔ.",Nala nase jogoma dandomi,1.0,0.5172
+802,"A binni aniidaanɛɛhiŋ biinii, Kɔraawiizi kizeehiŋ Jɛhɔyada faa bagli u fɔŋŋa.","A bịara anịda na ehim bi na ya, kọra wee zịkịzie ihe m ji họrọ ya daa fa abalị ofu.",1.7273,0.5538
+803,Amaniyesuma la miŋ lizɛɛ la ɛɛ wia la n faa suahwɛ faala la maanii.,A na-esu malu m na-elezi ya la ewi ala m fa suanwe fa alala maani.,1.0714,0.3585
+804,"Koori Deevid n wa ballɛ ú wa nau, u ŋɔ u be, “N na nyiŋŋuu ń niuhambie Taama ba di wa daali diunanaa tɛŋ n sibɔɔ, haali u himmaa mɔnni di ra tɛŋ.","Good David, ụnwa abalị ụnwa na-awụ, ụnwa obe. Nna ya bụ Nnụha mbe taa maba. Di wa daalụ di ụna na-atịen nsịbụọ. Ha dị ụnọ ịmaamụ nne di na",0.9394,0.4444
+805,ba waa ŋɔ newee n ɛɛwɛ lugɔ nakɛɛh bina.,Bawanga ne we ewelugo na,1.0,0.5161
+806,"Bɛl maa jaŋzi faa du nogume ni keza, u wassi ge faa du nogume ni keza, u chiŋ laŋaa faa du nogume.","N'ime njedebe afọdụ n'ogume nke za, ogechi gafere afọdụ n'ogume nke za, ochiri na afọdụ n'ogume",0.8636,0.473
+807,Haaŋ la n dɔɔ u hiŋ la biizii yaa.,"Sannu, an dade ba a yi lafiya.",1.0,0.64
+808,"Denii Filisti hina kaa kuari ba Rɛfam Waluu, di wa yaari de maa.","Jaanu, please teena ka kwarba. Re fam walo dewa yaride ma.",1.0,0.44
+809,"Lugbidaa la a baal n faa kpoglee la jaŋzi ɛɛ nogumzi anumbɛl, u kpau mɛgzi a koŋlii.",Lobi dala a bal fa kule la jange eno gumze anumbel okpa o merze akongli,0.8824,0.3788
+810,Koori Deevid suŋŋi wiizi lugɔ u faa gil a bie nyaagi.,"Kọọ David laa nụ. Kọọ David sọọngụ wee sị na ụka ọfụrụgelu abịala. The ọfụrụ nụ, ha bịara, ọ dị chọọlụ. Ha mụọ",2.0909,1.5714
+811,"Unla u hɛŋ n waa teŋŋe ka u ra hiŋ Gbɔg la, u daŋ tɛi chɔgri, dikuu hiŋ dɔɔ Gbɔg la di ɛɛ nɛr la baŋ teŋ i hɛŋ ka ra chɔgi a kiizi la wia.",Odan te chogre de ko hindo kiyizila de enelaben te ihyan kara choga a kiyizila,0.9722,0.64
+812,Denii Koori Deevid baaŋ fuuh dikuu gunla Kɔraawiizi n tɛr Uza digni ni baaŋfuuih wia.,"Dị na kọọde bụ Bamenda, kọọ gọọmentị etiti ụzọ, dị na Nịbamfui",1.0,0.7
+813,"Denii Koori Deevid ŋɔ Abisai be, “Bikri biibaal Siiba daŋ ɛɛ wichɔgaa kaali gunla Absalɔm n ɛɛwɛ la gba.","Dị n'ikpeazụ, ekele dịrị onye isi baa sị na, na e wepụghị aka n'olu, afọ ole e weere na",1.0,0.7108
+814,"Ba faa bagli baabuu laal lɔi nɛnnɛ, ba du kpeg werge, di ɔɔ hiini a koori di ra lɔ u dɔma laal.","Báfa abághile báa bu láa lụ́ọ̀ n'ẹnne, bá dụ́ kpegi wẹ́rị́ gị. De ohị́ nị́ akụ́ọ́rị́ dị́ n'alọ́ ụdọ́ m'alọ́.",1.0,0.507
+815,Ba faa fɔɔmbuu saŋa la min du siaahmu biini la.,"Bafanbo, saalamindo si amu biina",1.0,0.3514
+816,"U faa dɛɛzuu guŋŋ u wa hel nɛnnɛ, u ni a baal biizi maa du u dia.","O faa diɛ wogong o wɛ hɛlɛnɛ, o nɛ abal bisi ma adɔ odia",0.9412,0.4255
+817,"Aŋhinabe, u daŋ ɛɛ nunzunni gɛɛ gɛnii.","nbe na kobe anyi, nzu malugo nda ngila tee nkapiti diri. Anaghi na be, odighi enu nzonne ge ge na",2.8571,2.0
+818,"Awia, ba lulla Levi dee la faa hiini baa guŋŋ a huma wa tuŋ.","A bia ballu la le vidéla, faa hiri baa gụụ ahụmawa tụ.",0.8571,0.2889
+819,"Ɛɛ gunla koori n ŋɔ í ɛɛ, ka gilɛɛ hahzi ŋɔ nua ra tɛɛ Kɔraawiizi.","Naa gụla akwụkwọ nwoke a, ka gị na ha zụọ nwa, rata ya kụraa gị.",1.0,0.68
+820,"Lugli baagu hɔpizaa fidaanaazuhiŋ hɔl, Izrɛl hina la baŋ faa laurɛɛ kaali la n bittɛ ba la, di Gillikaali.",Ihe a na-akpọ ala ọrịị karị mbitebala dị gịlịkarị.,1.0,0.7176
+821,"Ba faa bir hattɛ kpu u Dia la, di faa kaa kar u Dia dominuuzi maa, di dinzi de fintinazi ge maa.","Bafa bir hate po odiala. Defa ka kar odia domi nozema, didinzi definti nazi gi ma.",0.9091,0.2222
+822,"N lɔ baabuu ta hɛri, ba waa kaa wer bá izi.","Laba wota here, ba waka wur, ba",0.8182,0.4516
+823,"Awia, Izrɛl Koori Jehoas jaa ɛɛ sirya lii, ú ni Juda koori ga chem Bɛf Sɛmɛs n du Juda hɛri, di lɔ dɔŋa.","Awe Israel kụrụ Jehova, jaa ya Siriali. Onye Judah kụrụ gachim Be'esames, ndọ Judah here, dịlọdọ",0.9565,0.4487
+824,A dominuuzeŋ ni u jaŋgal faa dɔɔ tokorjigzi bar alugɔ anla hora.,Adominou zenne o jangale fa do tokoro jiggi ze bar algo anla ho,0.9167,0.3269
+825,Yaa dɔɔ miibɔɔrɛ dikuu yaa ni Yeesu Kristo n kpauwɛ wia.,"N'abantu nile ba Efeso bahena la buki, uboro ana ehi nneki.",1.0,0.8889
+826,"Kɔraawiizi la n ta kummaa la, u bɛnnɛ faa zum wisuahlii naa guŋŋ wa hel zinaa.","Kedu ka ị dị? Ndeewo. Ụbọchị ole na ole gara aga, enwetara m ozi ịntanetị site n'aka onye na-akwado Hillary Clinton.",1.3125,1.1311
+827,"U faa ga tuu bɔɔ bɛllɛ waari hɔpizii, di kpu bunyiŋ.",kofar ta bo balle warho pizi da ko bunyan,1.0,0.5
+828,"Ií kpa wibii kirsi, di kpa wideŋlaa di tɔ ii sezi ni ii hara, di kpa amaniyesuma la n dɔɔ bampirsɔna baglaa la du ii naazi.",De quoi,1.0,0.9579
+829,"U ra yir bɔhilii la hɛri, di kaa ra yir a niiri la n chaali bɔkpaŋ la ge muuzenaa.",,,
+830,"Kɔraawiizi faa hum u mɛlika, u wa kpu Asiiria koorizeŋ laallɔɔra, ba sitɔɔra ani nabɔnzi maa, bɔr la baŋ faa chaalɛɛ chɔɔ la.","Kwara bụ ihe fa hụrụ o mere ka o kwuo asịrị a ka ọ dịzị na-alọta. Bịa sị tọọra, a na-banabọ nzi ma. Bọrla ba m fa chale chọla.",1.2609,0.5152
+831,"Uŋ volle di ra la see la, a tokobi lii chol.",la,0.9091,0.9375
+832,Baabuu banla n waa zummɛ lugɔ wideŋlaa kuttɔɔ wichɔgaa ni la.,"Babu bala ngwa azu melugo, ndi na-akoluto wecho ga-anila.",1.0,0.38
+833,di lɔɔzi gɛnaa ge.,de los genagi,1.0,0.5714
+834,"Ka ra helluu hɔpizaa ani hamuŋa maa, í wer di ra ɛɛ wia la maa baŋ sɛbɛɛ du u biini la.",Kedu ihe ị na-akpọpụta na aha mụ na gị? Ị nwere ike ịgwa m aha nna gị na,1.0,0.7077
+835,Kɔ́raawiizi ɔɔ ra liizi ba wichɔgaa wia saŋa maa.,"Kwara wizu olizi, ba wicu ga we asanga ma",1.0,0.4359
+836,Sɔɔhri ni sidɛɛzi du biinikpola hina ŋmɛnizii.,"Soro n'isi daazu, do be ni kwala hi na",1.2857,0.5128
+837,Banla n nɔŋŋi i Gbɔg la dɔɔ bampirsɔnaa werge maa.,"Bà nụa ngụ igbo, ladọ bà prịsọna wịrị gị ma.",1.0,0.525
+838,"A saŋa, di Kɔraawiizi haa waa Sɔdɔm ni Gɔmɔra chɔkkɛ.",,,
+839,màá wer ŋɔ wia.,मैं करूंगा वेयर।,1.0,1.0
+840,A bol dugli hɛri bɛl Jus hina naabaal Jekɔb n faa kpawɛɛ tɛɛ u biibaal Joosɛf labuu.,Josephine Nabalayo Jacob Joseph Labo,1.0,0.7463
+841,Mìŋ́ Kɔraawiizi dɔgtɛɛ Jɛrɛmia wiŋɔzi tunaa ɛŋ.,Minkwara bu zi doctor Jeremiah Nwodo tuna,1.0,0.5641
+842,"Denii Koori Deevid ni Izrɛl hina maa ra di bahinaa, di ra chaasi ani bɔsɔna, di ra huuh ba bensunozi, di chi a Nuukpaŋ Dɔɔi Dakka di ra ba Jɛrusalɛm.","Dị ka odi na Izrahel na ma, redịba hịna, dịra Chọọsị, anị gbasara, dịra hụba bịa nsogbu dịche anụkwa ndụ anyị dịka dịra ba Jerusalem.",0.9667,0.4914
+843,"Ka Joona di nyiŋŋi ŋmɛnɛɛ ú la Taasis, ú faa wer chɔ lii Kɔraawiizi be.",Kajona inyinyimene olatasis. Ofa wulu cholli koro di,1.0,0.4727
+844,N faa dɔɔ selaa kaali nɛr la maa n faa felee du Jɛrusalɛm.,"Mfa do sela kale na le ma, mfa fili do Jerusalem.",1.0,0.4222
+845,Bɛllɛ Amɔri hina Koori Sihɔn la n faa du bolzeŋ Hɛsbɔn.,"Belle amore, innamore, si può la infado bolzen",0.9091,0.4773
+846,"Ka ba waa wette, dikuu a pekpeg n nyaŋŋɛɛ wia.","amụrụ m nwa dị ka chi. Ka baba nwete, ya kụọ pụkpụ inyang ewu a, deni ba sọọ weze dị nwọ. O yị kọrọ ozi ya ndị ma, gịle gịle ya sụ dị ka ba na akụ ewu a.",3.7,2.5714
+847,Izrɛl laallɔɔra la jaa chɔgi ba kundɔɔlaa maa dee n du a bol maa di tuŋ.,la la la,0.9375,0.8929
+848,"Tɛŋ fɔŋŋa gunla hiŋ ŋɔ nua la, ń dɔɔ miibɔɔ.",Tụmfanga gụnlahi wọnnụ ala. Ndị ọmịbọ,1.0,0.4848
+849,"Josua faa bɔnni a de hɛri hinnɛ tɛɛ Izrɛl hina dizi, u birgi ba kapɛttɛ kuŋ.","Joshua faa bɔne adeharihina tee Israelhina diizi, oberege baka pete",0.9375,0.3729
+850,"Hɔpizaa aniidaanɛɛ biini, ba faa ra di ba diiribɔra, di ra lizi dɔŋa be chaalaa mbusuzi, di ra chɔli Kɔraawiizi la ba naabaala n na hum la.",Ha pụta anị daa nụ dịịrị. Bafara dịba dịịrị bọra. Dịra lịzị dọọrọ be chaala mbọsị zị. Dịra chọlakwara wụ ịzịla ba na abala nna hụla.,0.9259,0.3853
+851,"Gil i ni haaŋ la hiŋ nɔŋŋɛɛ la ra di iihinaa, i de dui saŋa naa Kɔraawiizi n tɛi, waa tɔna dɔɔwɛ naa biini.",Ina haila hin nonge laradi ihina ida du isanga na kora wize ntei watona dowe na bini.,1.0,0.3704
+852,Gil gunla minna lɔ u wiŋɔzi fasani la paruu.,Dilgulla mennallo oge nwaza fasoni la paru,0.8889,0.4
+853,"Denii u kissi a maa, di ŋɔ, “Ií ra lul di wazi, di su niiri la biine, zumbizi la ge lul su hɛri la maa.",Deni okisi ama di nwa. Ihe a luru di nwanyi. Di su ni ri la bine. Zumbi zi la ge lul su heri la ma.,0.68,0.2466
+854,"U gillɔɔ n du de binni tokkoanɛɛ ani anue, di lii saŋa la uŋ ŋɔ guŋ tɛɛ Moosis, saŋa la Izrɛl hina n faa haa du hɛribɔduma di ra juuri la.","Ogilolo ndu di, binne tokwaa ni, ana anụ ya. Dịlịị sị na ọ nwa gị nte Moses, sị na Israelị na mfa ha dị heri bụdụma, dịra jụọrọla.",1.0,0.4857
+855,"Ka nɛr la maa n du nyinee biini, u dɔɔ tamiirɛ.",ka na la ma ndu nyi ne bi ne u do ta mi ra,1.0,0.2857
+856,Kara daansɛɛ diiri ra ɛɛ wibii dii chɛɛtɛɛ.,karada se diri la WBD ce te,1.0,0.5143
+857,waa tunaa dɔɔwɛ.,wato na dowe,1.0,0.4615
+858,"Haali u faa kaa mɛgzi a dominuuzeŋ jaŋgal, u wassi ɛɛ nogumzi ŋmantannaazi, u kɛraa daazi gbossi ɛɛ nogumzi anɛɛgaa.","Hali ofa ka merde à dominu zang jangale, oasi e nogum zi matanaje. Okarada zi gosi e nogum zi anega.",1.0,0.383
+859,"Kɔraawiizi himmaanii faa gillɛ ba dɔɔ dignikpega, bá ni Izrɛl hina yoo laal, ka ú wer chɔgi baa, di dim baa nyaamm, waa ba ni sunne.",Kwara bụ ezigbo mmadụ fa gille bado dị n'ịkpịga. Bụ nị Izrahel na-ụlál ka ụwère chọgaba dịdịmba ya. Wa bụ nị,0.9615,0.5196
+860,"Kɔraawiizi n wa na gunla baŋ ɛɛwɛ, di gil ba wichɔgaa ɛɛi la, u suŋ ba ni.","Onye iro wa na-agụ laba ewe, dị gịlịba wuchaa ela, ụsụ mbanụ.",0.9412,0.5455
+861,"Nɛra la n na fir ia di ra ŋɔ lugɔ ií teŋri ii hɛna la, nɛra wiarɛ ba ra ɛɛ guŋ, bá wia vii wer par baa, á nɛra ge gilɛɛ kuu baŋ sɛɛ Yeesu Kristo ni u siwaa daakaŋlii la ni wia di ra tɔɔri baa.","Nera la nafer ya dira nwolugo itegere ihenala. Nera biara bara ego, bawe vi were parba, a nera gegele ko banse Yesu ne osiwa da kan ilane we dira torba.",0.9787,0.4014
+862,Waa kaa tɛr ba digna gunla uŋ faa ŋɔ u daŋ ɛɛ baa la.,"Wakar Badukna, gulla unfawo u dan e bala.",0.9286,0.3846
+863,"Yaa n faa lizi amaniyesuma la tɛɛ ia ii sɛɛ la, Kɔraawiizii faa ra yir ia ií wer dɔɔ girme yaa Dɔɔri Yeesu Kristo be.","ya faɗi a maƙasuman laƙabi a Isira, ƙwarai kuwa ya yi fari ya iwire do girma ya dori Yesu Kristu",1.0,0.4945
+864,Ba faa hiŋ gunla Koori Deevid n baglɛɛ lugɔ Kɔraawiizi kizeehina ni Levi dee n ninna hiŋ ani daama dauribɔra wia la.,"Bafa hengulla koore David, m barle lugo kora wizi kizi hi na ni Levi de, nni nnaa hin ane daama daure bora wiala.",0.9091,0.2447
+865,"Waa kaa sɛɛ ú ni baa ra di, dikuu unna ɔm banla n na tɔgzi Moosis Gbɔgni hiŋaa ni hɛŋ teŋaa wia la.",Oka si onye banyere n'ime ya ka izi ha na-ehi nti na-abughi,1.0,0.7733
+866,"U jaŋzi faa du nogumzi tokkoanɛɛ ni fi, u wassi ɛɛ nogumzi tokko ni anue.",Onye na-edebanye aha na ngụgịzị tokwaa nụ n'isi. Ọ sị na ngụgịzị tokwaa nụ anụ.,1.0,0.7544
+867,"Di i daŋ la nomɛɛl, n daŋ la nodig, di i daŋ la nodig, n ge daŋ la nomɛɛl.",De la nommer de la de la,0.8421,0.75
+868,Ba faa zɛuzi abɛ daazii dau a koŋliisaagaa ni.,Bafazéwé abé dazi daw akuli sagana,1.0,0.4054
+869,"Koori Ahab faa kpu peeza ani nauna di hɔɔhri u ni u nɛra, ka suŋŋuu lugɔ ú ga lɔ Ramɔf Giliad laal.","Goro ehab, fa kupieza aninna una di hoore une onera. Ka sunno luggo ugalu Remov Gilliard laal",0.8636,0.3553
+870,"Izrɛl hina nabɔnzi maa n wa ba Koori Deevid be, bolzeŋ Hɛbrɔn la, u ni baa ɛɛ nuukpaŋ Kɔraawiizi see, ka ba waaruu nuu, di tɔu Izrɛl kora.",Izrel na na gwa nze ma nwa baa ka Uri David be buru nze Hebron la. Unu ebe a enu kwa ka ha baa waara unu,1.0,0.5377
+871,"Ba faa ɛɛ nɛra kagboŋa kalfa ni tokkoanɛɛ ni fidaahoro ni kalfaanumbɛl, .",Bafa enere ka gbungha kalfa ni tokwa ni ni fida huru ne kalfa nu mbel.,1.0833,0.322
+872,"” Awia, ba lawuu ga hel kooridia dominuuzeŋ la banna yir Zagra Dominua la, di kpuu de.","A bia, banna wu ga hiel, kuo re dia domino zie na banna yir zagra domino ala. De ku wu de",1.0,0.2424
+873,"Kɔraawiizi la Izrɛl hina n na hum, i wia deŋloore!",Kwara zila izrahena nahum iwe denglo,1.0,0.4359
+874,"Banla n na tɛi girme la daŋ naŋ, bá bɔra sɔɔni.","Balla n'a té guirmi la, danna ba bora son.",0.7273,0.3429
+875,"Banla n ɔɔ haa vɛɛ ra ɛɛ winanaa bá wer na girme, chɔlaa ani miibɔɔ la n waa tuŋ Kɔraawiizi be la, baabuu niŋ na u miibɔɔ la.",Bịa na-ọha bịdọ ewinna na-abawụ na girmene chọla na mịbọ na ụwa tịnkọla wịzịbịla. Ba bụrụ nị na mịbọ,0.9286,0.5368
+876,Wichɔgɛɛra daŋ giŋŋi nɛnanaa sezi di sɛɛ baa dɔɔra.,Wichor era dangi ne na na sezi de se ba do,1.1111,0.4286
+877,"U jaŋzi faa du nogumzi tokkoanɛɛ ni fi, u wassi ge du nogumzi tokko ni anue.","Ojagbe do nogun zito kwanɛ nifi, uwasi ge do nogun zito ko ne anui.",1.0,0.3051
+878,"U kpau tɛɛ Izrɛl hina dizi la, dee maa dɔɔ u bɔr, u birgi ba kapɛttɛ kuŋ, laal ge wia maa tuŋ, a hɛri jaa sɔɔni.",Okwa otu Izraeli na dizila di ma adu ubochi obiri gi kpakpete kun laali gi we ma tun ahia ri ja so unu.,1.0,0.4512
+879,"“N Dɔɔri Kɔraawiizi, gil n zum n saŋa ni n hɔpizaa maga.",Ndo na kona vhudzi. Ndi do mu sanga na nthupedza,1.0,0.6905
+880,"U faa kaa ma koŋlii bɛl genii lugli hor la harbɔɔ, di ma bɔwillaa ge bar Koori Deevid bolzeŋ la.","Fakhamat Ra'is al-Jumhuriyah al-Ghubani, luqila hurra harbu, dima buwila gi bar kori David Bolzin",0.95,0.56
+881,"Awia, Koori Amazia faa bir ta a Ɛfram laallɔɔra hiŋ, ba bir kpo bol.",A wuya ƙure amaziya faberta a ifiram la'lorahin babur kwabo,0.9286,0.3846
+882,Kɔraawiizi waa nyiŋŋi lugɔ ya ra fini dɔŋa kɔɔzaa biini.,Kora wizi wanyi ngelogo yarafi ne donga ko za bine,1.0,0.3913
+883,Hɛssi naa kooraa Josua ni Izrɛl laallɔɔra la faa kpegli Jɔɔdan muu wiicholii paga.,Hassina ko Joshua ni Israel la'ora lafa pegeli. Jordan mo wi'i choli,0.9286,0.3824
+884,"U sɔŋ faa yaari guŋŋ di ga lii Ijip hɛri magbɔɔ, dikuubɛɛwiai, u faa dɔɔ fɔŋŋaa werge maa.","Some five years ago, the Godly Egypt heretic, Magbo, the Kobe way, ofada ofona were given me.",1.0,0.7286
+885,"U faa ra di Koorizeŋ Nɛbukadnɛɛzaa mmɔri, haali uŋ faa gillɛ u hɛɛhzi ni Kɔraawiizi sɔŋ lugɔ u danna sɛɛ u dɔɔra la gba.",O fere dị ka ọ bụrụzi Nebuchadnezzar mmụọ dị. Ha na-efagide ohi zi. Nke ka bụzi nsogbu bụ na ọ dịghị onye na-asị na ọ dịghị mma.,1.125,0.7474
+886,Kɔraawiizi kii wichɔgɛɛra mbusu lizaazii.,Kwara wizi ki wi chok era mbu sulu zazi.,1.8,0.3333
+887,"Mbusu lizaa kuŋfuuhlaa la a nɛra n kpawɛɛ wa tɛɛ Kɔraawiizi faa du nabala tokkoahoro ni fi, pebala kalfa ani peballi kalfaanɛɛ.",Mbuso ndị Zazzau Fulani anara nkpa wee wata ya kwara wee ze fado na Balatukwu ahuru n'ifi pebalakal fa ani pebalikal fa ni.,1.0,0.3462
+888,"Amɔ, tɔɔrɔɔ la maa iin diwee Kristo hiŋaa naa biini naa, pɛɛpɛɛrɛ ii di a tɔɔrɔaa?","A ma atụrụ ọla maa ndị nwe Kristo ihe a na-akpọ ya naa, peepeere idi atụrụ a.",0.875,0.4531
+889,"U himmaa dɔɔrii niŋ zum, di u cholloo gɛɛ waa cholle.","Ohema adorye n'enzom, daa w'ucholo ge w'ucholli.",1.0,0.4878
+890,"Yeesu hiŋra pɛɛzi Yeesu, “Yaa Nabɔma, Baal naa himmaa wichɔgaa wiarɛ u nyuŋŋi gɛɛ u maa ni u mɛɛ wichɔgaa wiarɛ u nyuŋŋɛi?","Yesu hira pe Yesu. Ya na bama, ba na hima wuchoga wara unyungye, uma na ome wuchoga wara unyungye.",1.0,0.3958
+891,Anla n na du bee ni daazi la n na nɔŋ di ra du bee.,Allah na dube ni da zila na nono dira dube,0.8,0.25
+892,bolzeŋ Hɔma ni Arad koora.,"Bolsen, Homa ne arat ko",1.0,0.381
+893,Kɔraawiizii niŋ chɔli a hiŋ.,"Kwarai kuwa, yanzu ne nchala ahen.",1.2,0.7391
+894,"U laallɔɔra ɛɛ neweare, ka yaa waa dɔɔ Kɔraawiizi la yaa n na humuu, ú hiini yaa, di yoo tɛɛ yaa.",O la loora ene we'aare ka yaawa doo koraa wezila yaa nnahumu uhiine yaa di yote yaa,0.8095,0.2603
+895,"U hɔpizaa ŋmantannaazihiŋ hɔl, ba hel Kɔraawiizi jaŋgal la.",Hoɗɓe ɗon tammi na zihinwal bahel korawe zey jangalde.,1.0,0.5306
+896,"Banla n waa Moosis Gbɔg zummɛ ka ɛɛ wichɔgaa wa siu la, Moosis Gbɔg lɛi Kɔraawiizi kpa ra di ba seriya.","Nna m ukwu, Moses Kizi ziri m ka a bịa chọga adaeze Uzula. Moses Kizi leekwara ya zikwa dịrị dibia siri",1.0,0.6296
+897,A kuna naa maa Koori Solomɔn n faa gillɛ Huram Abi kuari du Kɔraawiizi Dia la maanii faa ɛɛ danyɛ la baŋ vɔglɛɛ nɛnnɛɛ.,Akụkọ na-agwa m akụkọ Solomọn nfa gille huru m abịkwaara dika ọ na-ewezu di ala ma na fa e Daniel ba m vọghọle n'eme.,1.0,0.4737
+898,"Ka bɛl ŋɔ, “N dɔɔri, hàá gil i ni i balaa laa?",ka balanwa ndore haagel ene e bala la,0.9167,0.4516
+899,"Awia, jimini maa biini, i naanna baŋhina daŋ ɔɔ siu siukpega, dikuu hiŋ vɛɛ n nua ka kpa Hitti hinuu Yuria haaŋ wia.","Jiri na m abịị ni, ị na-anabata m na Dan'uwa Sew Sew kwee gị. Dika oge m wee nụọ, ka kwa hite hị nụ, yuria ha nwea",1.087,0.5
+900,"Guŋ faa ɛɛwɔɔ binni fi mɔɔ, ka Abram haa wa hel Keenan hɛri la.",Gofa ewo binne fimo kaburam ha wahil kinan herel.,1.0,0.3958
+901,"Dikuubɛɛwiai, u faa ŋɔ wiarɛ pezeŋ izi.",deko bebi ai ofa woyare,1.0,0.6452
+902,Yaa zummɔ lugɔ Kɔraawiizi ra di banla n na ɛɛ wia naa seriyaa ani wibii.,Ya zama lokaci koro wiziro di bala nna ewe ana Siriya ani wibi.,0.8667,0.386
+903,"Baaguzi anɛɛhiŋ hɔpizaa fidaanaazuhiŋ hɔl, ba faa kɔrgi a Gillikaali pebii.",Bagoze anehien hofi zafi da nazo hin hol Bafa kwar ge a gelle kali pebi,1.2727,0.3651
+904,saŋaa saŋa maa.,Sanga Sanga ma,1.0,0.4167
+905,"Binni tokko ni kpɔrgɔɔ Koori Deevid faa di, ka di a kora.",Binito kọ́lẹ̀ pọ̀rọ́gọ́ kọ́lẹ̀ di erifadì. Kadi akurà,0.9167,0.4773
+906,"Denii ba ŋɔ, “Ií gil ya ma bolzeŋ, di ma a diijaŋ bɛl, ú la chiŋ di ga chug baama, ú ra bagli sɔŋ la yaa n dɔɔwɛ!",de ni bango igi le yama bolu jen de ma adi jambel ula chin dega chukbama ora bagle sonla ya ndowe,0.9643,0.3
+907,"A koori sɛɛ di ŋɔ, “N daŋ ɛɛ gunla maa n par ia.",Nke a bụkwa ihe dị nwute. Ndị a egbuola mmadụ. M kpọrọ ya. Awa,1.0,1.0303
+908,"Koori Jɛhɔyakim binni faa du tokko ni anue, ka u di a kora, di so Jɛrusalɛm biini, binni fidikpaŋ.","Kọ́ọ̀dù Jèhófà kẹ́ m bẹ́nè fáàdù tókò ní ànòyí, ka odi àkọ́ra. Dí sọ́ Jérúsálémù bíne, bẹ́nè fìdí kpá.",1.0,0.5658
+909,"Koori Solomɔn faa kpa nauna kagboŋa tokko ni anɛɛ ani peeza ni buuna kagboŋa kalfa ni tokko, di lizi mbusuzi tɛɛ a nɛra Kɔraawiizi be.",Kò ré Solomon fa kpa na wùna ka gbon'a toko ne anné. Anné piéza ne bùna ka gbon'a kalfa ne toko. De lézé mbuso zété annéra kòra wézé,1.08,0.3519
+910,"Haga la ɛɛwɔɔ lugɔ Bizeŋ Sinaai la n du Lɔrbizi hɛri la, di kaa ɛɛ lugɔ Jɛrusalɛm, dikuubɛɛwiai, Jɛrusalɛm ni u hina maa ɛɛ yomaa.","Ha gala ebe o rugo business ha na-ela, ndi Arab a hiere la dika e rugo Jerusalem dika ebe ha ga-ala. Jerusalem na ohaneze a e yuma",1.04,0.5098
+911,Koori Hɛzɛkia ni Kɔraawiizi Dia nabɔma Azariaa faa lizi baa.,Kòrèhèzè kyà nè kwàràwèzè dyà nè bòmà àzàrèhè fàlìzèbà.,1.0,0.62
+912,"Ba ŋɔ dɔŋa be, “Ií ba, ya mɔnni birkissizi di ɔɔzaa nɛnnɛ.",Bambara dɔngɔ be iba ya mɔni biri kizeze de ɔzane,0.8333,0.5116
+913,"Awia, Kɔraawiizi daŋ turgii a kim, dikuu hiŋ ɛɛŋ guŋ wia!",Kwara zai dan turgi a kan dokohin yan gwamna.,0.9091,0.5455
+914,"Juda Koori Jɛhɔsafat ŋɔ, “N nii maa ɛɛ kpannɛ, n nɛra ɛɛ i nɛraa.","Yuda koro Jahosafat nwo, nni ma ekpanne, nera e inera",1.0,0.3958
+915,"Kɔraawiizi faa feloore lizi yaa tɛɛ u hiŋ, saŋa la uŋ faa haa waa durnya gba tawɛɛ la, di ŋɔ u daŋ gil yáa ni Kristo kpau, ya wer ɛɛ u biinanaa di gilɛɛ dɔɔ doŋa maa u be, ka nɔŋŋi dɔŋa ge.","Kwala isi fa fela n'elu zi ya, o hin saa na o fa ha wa du nya gwa ta we la. De ngo u da ngil ya ni Kristo kwa ya we re obi na na de gi le do du nga ma ka nonge do nge",0.9535,0.4225
+916,Di faa kaa ra bɔnni kuna la baŋ kɛɛwɛ ani anla baŋ kpawɛɛ tɛɛ Kɔraawiizi la.,Ndi fa kara bọ na Kunala banke we ani Allah bankwa we tekora wezila.,0.9375,0.3667
+917,"U kaa gil ba ma Bɔnaniinanii Himmaa, u jaŋzi ni a Dia wassi mɛgzi.","O ka gi bamma, mma nna ri nna ni himma, o jangze ne adi awase mhegze.",1.1429,0.4314
+918,"Ií sɔ iihinaa di lizi ii doŋa, di lizi Kɔraawiizi la ii naabaala n na hum la Dia ge doŋa ha.","so ehina, deleze i donga deleze kwaraweze di ala ina bala nna humla di gi donga",0.9524,0.4429
+919,"Denii u faa kaa kpogliŋ ga wiifurii nodig wiikakag dominuuzeŋ la zuu biini diŋŋee la, di mɛgzi a dominuuzeŋ, u ni anla maa mɛgzaazi ɛɛ kpaŋ.","Nani ofu ka akpolinga bu ife ino di ka ka domin ujenla, zu biini dinyeela, temeere odominu ujen. Onye anlama merezazi ekpa",1.0,0.3929
+920,Sɛm n wa di binni kalfa saŋaa u lul Aafagzad.,Sam Nwadibe ni Kalifa sanya olol Asaba,1.0,0.3714
+921,"Mìŋ́ Tɛtiɔs la Pɔɔl n gillɛ n sɛbi hɔnnaa, n na jaami ii banla n na hiŋ yaa Dɔɔri la.",Mente te tuse la Paul in gela in sebo honna. Naja mu ibala nna hin ya doori la.,0.95,0.4127
+922,ba manaŋ wa hiiniŋ!,Bamanang wahinin,1.0,0.2667
+923,"Kɔraawiizi n kuari nuukpaŋ dɔɔi la, binni kalfaanaazu ni tokko ni kpɔrgɔ wa bɛrɔɔrɛ mɔɔ, ka u kaa ŋɔ Gbɔgni la wia di bagli Moosis.",Kedu ihe m ga-eme iji kwado ya? Biko nyere m aka ka m ghọta ihe m ga-eme iji nyere ya aka.,0.96,0.8077
+924,Kɔraawiizi ɛɛ Dumaa.,"de kwee. K'anyi na-enye mmadu ohere naira na de enyo anyi, n'ihi ozo wa ka kwee m.",5.6667,3.0588
+925,"“Joob, i wiŋɔzi gillɔɔ n nfɛrɛ ra koozi.",cube,1.0,0.9667
+926,"Yeesu n volle wibaŋkanchirii ni guŋŋ di jaa wa kuuh, u ba wa so a kɔlɔŋ zɛɛ.","Yesu o völe vö banka nji ene ko de jaa ku, o bö o sö koro la ze",1.0588,0.6034
+927,"Denii Kɔraawiizi ŋɔ, “Ií gil ya ma newea bá du lugɔ yaa, di du yaa duula, bá dɔɔ fɔŋŋa muuzeŋ nyinni, zumbizi, kundɛɛzaa, pir sela ani kuntuuzaa maa ni.","De ne kora b'i zinno, i gili ya ma ni wa bado lugo ya de do ya du la. Bado fa nga muuze nye nne, Zunbizi, Kondeza, Priscila ani Kuntuzama",1.0,0.3534
+928,Ammɔn hina ɔɔ faa wa lizi ba hɛri kunaa di ra tɛɛ Koori Uzzia.,A mụrụ m na 4 a.m. lelee baịbụlụ kụrụ na dirate ka ọ dị ozi,1.0714,0.6667
+929,"Ka sɛnsɛŋ wia, wikuna ani kɛkɛluu dɔŋa kuna ni, ii gilɛɛ ra ŋɔ a wia gba.","Ka Chineke wee kee ụdọ na-akụ na, igwe na-eranwu awụja",0.9375,0.7455
+930,"Dɔɔŋ la dɔɔ peeza ni nauna werge maa, ka nyaari la waa kummaa dɔɔwɛ, pelor kpaŋ bɛnnɛ u ge wer yau.",Dolla pezane na ona nwere gi ma. Kanyi ara la wa kumma dowe pelu kpam be na oge nwere ya.,0.9524,0.3947
+931,"Denii Kɔraawiizi ni Izrɛl hina faa ɛɛ nuukpaŋ, saŋa la baŋ lii Ijip hɛri di ra ba la.",Dini kora wuze ne Israel hina fa enu kpan sangala banli Egypt here dera bala.,1.0,0.4091
+932,Miŋ faa waa kaa dɔɔ tamii maa n miibɔɔ wia la.,"Nifa ka do tami ma, m'bi bo wiala.",1.0,0.4286
+933,"U faa dɔɔ huŋhunnaa, ba ra hum u kooni ani u grepu daazi kooni n du a giŋgimee nyuuni ani a hɛri bɔsuma, dikuubɛɛwiai, u faa nɔŋŋi paraarɛ.","Ofa doho nhunna, barahu okoni, ane ogiri poze daazi kuoni, ndu agi ngi me nyu one, ane ahiare bosuma di ku ube we anyi, ofa no ngi parare",1.0,0.3611
+934,"Ka Koori Hɛzɛkia faa ra jigsi, dikuu guŋ wia, u baga waa hoo winanaa la Kɔraawiizi n ɛɛwɛ tɛu la be.",Kakorhaza kya farajikse de kogonya o baga wa ho winana la kora weze in ewe tewu la,0.9048,0.4026
+935,Nɛr la maa n na vɛɛ baglaa ra tɔɔri u hinnɛ.,Nolamma navve baghlara tora ohenna,1.0,0.4242
+936,"Kɔraawiizi baaŋ faa fuuh Koori Amazia ni werge maa, u hum u dɔgtɛɛ u be, u ga ŋɔ, “Ɛrɛɛ wiarɛ i ra kuari nɛra naa vuga la n waa wette lɛɛ baa lii i nonee biinei?",Kpara uzi banfa fu ka ore amazi a ne were gi mma. Ohum udo te ube uganwo. Ire weare irakwa re nera na vuga la ngwa wete lebali ino na ebine.,0.9444,0.3636
+937,"Awia, di i wa ŋɔ nua tɛɛ Kɔraawiizi, ɛɛ́ hiŋ gunla hiŋ ŋɔwɛɛ la manaŋ.","A bịa, ebe ngwụlụ a tịakoro abịzị, ịhị ngwụlụ hị nwa bụ ịla mana.",1.0,0.6538
+938,"Kɔraawiizi ŋɔ, “Ií na, n tɛɛ iabuu kuna irizi la maa n na du bee ani daazi la n na nɔŋ di ra du bee, ií ra di.","Kụrụọbezi ṅụọ, ị na-eti ya bụ kụrụọ ịrizila mmanya, ṅụọ dubi, a na-adazila nna nọm, ịra dubi, ịra",1.0,0.5128
+939,"U tɔ n ŋmɛnɛɛrɛ, awia, màá na bɔr kaali.",mwenere,1.0,0.8621
+940,"Ba ra ɛɛ gunnɛ, dikuu baŋ waa wichɔgɛɛra digna ra tɛrgi manamanaŋ wia.",bara e gonne de ko banwa,1.0,0.75
+941,"A guŋ saŋa biini, binni anɛɛ n wa helle, a wiila faa gil u looree wa lii chaaŋ, u faa siu ni bɔwiila werge.","Agwọ nsị abụọ na-eme ka a na-enwe ahụ ilili, a na-ewela fa gịlị ụlọ ọgwụ na-adịghị anya ọ fọdụọ nụ ka a na-ewela gị",0.9583,0.7375
+942,"Binni tokkoahoro ni fidaanuere Abram faa di, ka haa izi bol la banna yir Haran la.","Beni toko ahuru, nifida nu ira abram fadi, kaha izi bolla banayar haram la.",0.875,0.2
+943,Denii ú jaa bir la u bol la un chɔwɛɛ lii la.,Deny oja berilla obol la oncho wele la.,0.8333,0.4242
+944,"Denii u faa jaa tuŋ Kɔraawiizi Dia huma la maa uŋ lɛɛwɛ, ú hum tɛɛ Koori Solomɔn la.","Ndi na-efe aja tum kwara wizi di ahụ mala mma, unu lewe uhu m tee ka ori Solomon.",1.0,0.3846
+945,"Kɔraawiizi wàá ka kissii, dikuu keŋ wia.",Koraa wɛ zɛ wa kisi dɛko kɛn wɛ,1.1429,0.5
+946,U koŋlii biini maanii ba faa ŋmɛɛri saliŋ himmaa tɔ.,Okonkwo liri na mma ni bafa nwere salin him ma,1.0,0.4762
+947,"Denii n ŋɔ, “N Dɔɔri Kɔraawiizi, minuu keŋ, n ballɔɔ.","Ndi nne mụọ, ndọrọ kọrọ abịazị, mụ na unu keenye. Mba",1.1,0.6667
+948,"Awia, Abram faa ŋɔ Lɔt be, “Yaa ɛɛ lullaa.","Abia, abram fa oloti be, ya elulla",0.7778,0.3333
+949,"” Awia, ií zum lugɔ banla n yardi Kɔraawiizi, baabuu Abraham biizi himmaa la.","Awa izumlogbon na iya dokora wize, ba bu Abraham bi zi him ma.",1.0,0.3167
+950,"Di chi a saŋa hiŋ di ra la, a hɛssi maa hina faa jaa ra tɔgzuu.",de ce a săracilor de la așezământ haina făcea la,0.875,0.6739
+951,"Ií chaahzi ba zagra zaŋŋuzi, di fuuh ba torkozi maa.",Chah se bazara zango se di fu ba turko zarma,0.8,0.4146
+952,"Koori Amazia binni faa du tokko ni anue, ka u di a kora.",Kedu amazia banye fa adu toko ni anu? Ka udi akuru,0.7692,0.2619
+953,"N na nyiŋŋuu ń turgi wichɔgaa la baŋ kpawɛɛ ɛɛ ia la kim, guŋ gil ii kissi Kɔraawiizi nɛra.","N'anyị ṅụọ, ịntaga ịwụ chọga labankwa wee ịala kịm. Gọọgụ ịkisị kọwa bịzị nụ.",1.0,0.5493
+954,"I ɔɔ hau nɛra ninɛɛ di tɛr ba digna, dikuu ba wichɔgaa wia.","Oha, nna nne, detara badị gị na nke ụmụ gị nwoke.",1.0,0.6667
+955,Ií jaami Yeesu hiŋra la n ɔɔ ra chaali ba dia la ge di jaami n nɛnɔŋŋii Ɛpinɛtus la n ɛɛ banla n sɛɛ Kristo wia Eesia hɛri lugli la.,Di jami yesu hiri lan ora chale. Ba di ale ge di jami neno yi apine tusula eban la siye yesu wiya esi a hiri logole.,0.9,0.3725
+956,"Ba ŋɔ u be, “Bagli yaa wii la n baani wia naa huuzi yaa keŋ.","Bịa ṅụọ ụbee. Bịa ya wụla mbane, bịa na-ahụzi akụ.",1.0,0.5581
+957,"Mɛɛwaa, ii gilɛɛ ra tɔɔri ii biizi, á ɛɛ baa baaŋ.",Mewa eklele atore ibi za e baba.,1.0,0.5676
+958,Nɛr maanii jaa suuh n wia alugɔ miŋ siuwɛ.,"Nne m anaghị asụ ụwa alụgọ, mụ wee sị",1.0,0.6364
+959,"Di i ra binni nɛra la bɔra n na pur, i bɔra ɔɔ sɔɔnuu.","E na-abụ nne na nna laa, ọ bụrụ na pụọ, ọ bụrụ ọsọ ọnụ.",0.9286,0.641
+960,"” U gil chiŋ bargi a niiri, aŋhina du u zɛɛ, aŋhina ge du u chiŋ.","Ogechi mbaraga aniere. Angina do ozi, angina ge do uching.",0.9333,0.413
+961,Ka Kɔraawiizi faa waa gillɛ nɛr maa sunni baa.,ka kwara zifa wa gelle na ma sunna ba,0.8889,0.4054
+962,"Awia, gil ya tuu di ga gil ba ra mɔɔ mɔɔdumazi.",A biya giliye tu daga gilbara mu,1.0,0.4571
+963,"Kenne Kɔraawiizi la Izrɛl hina n na hum la ŋɔ, ‘N tɔibuu Izrɛl hina kora, di lɛɛi lii Koori Sɔɔl be.","Kenne kwa zalla in, Izahina inna hum lawo. Ntoi bu Izahina kura. Dileli ko",0.9048,0.4474
+964,Ií bɛl maa gilɛɛ ra kpa u hiŋ zenni kaali gunla n wesse.,"Ebe elili akụ na ụba, ebe ahụ ka a na-ekwu okwu gbasara akụ na ụba.",1.1538,0.9767
+965,"Ba ɛɛ gunnɛ, gúŋ bagli lugɔ Kɔraawiizi n lalli Kristo di bagli u fɔŋŋazeŋ la, gunnɛ u ɛɛ tɛɛ yaa ge, ya wer dɔɔ miibɔɔfalii, di ra hiŋ miibɔɔfalii la ŋmɛnɛɛ.",,,
+966,"Ka i lizimbuu a vil biini, n haa dɔɔ miibɔɔ.",ka elizimbu avilbine n'ha do mi bo,0.9,0.303
+967,"Yeesu balaa naa wiarɛ yaa ɔɔ ra suŋŋi wiizi ra tɛɛ ia, ú hiini ia ií wer dɛg hiŋaa naa uŋ yir ia ii ra hiŋ naa, di tɛɛ ia fɔŋŋa ií wer ɛɛ winanaa la maa n du ii bampiree ani wii la maa iiŋ ŋɔ ií ɛɛ dikuu iiŋ yardi Kɔraawiizi wia.",De te ya fa nga i wir e wi na la ma ndu i ba mpi ri a ni wi la ma i nwo i e de ko i ya de ko ra wi zi,0.9815,0.6936
+968,"Jus hinaa á feli huuzi, ka jaa huuzi banla n waa Jus hina ɛɛwɛ ge.","Juice hị na afịlụ hụ uzi, karia hụ uzi banla nwa juice hị na iwe gi.",1.0,0.4
+969,Gilɛɛ wa kpaa di ra ɛɛŋ wiimaa gɛɛ di kaa ra liizi a wia kɔrai.,"kedu ihe wa kpa? Ndi bee anyi, unu emela dikaara Lizzy, a wa kora",0.9333,0.5625
+970,"Saŋa maanii n na liizi i wia di ra suŋŋi Kɔraawiizi la minna hum ani biinihuŋŋu gunla n naabaala n faa ra humuu la, di ra jaamuu dikuu i wia.",Walla nabaala mfarahum wula dirate dirajam wula ko,1.0,0.7545
+971,Kɔraawiizi La N Kaali Kummaa la dɛkkɔɔ banna ɔmuu werge.,Kora wuzila nka la kumma la deko banna omu,0.8,0.3913
+972,"Too, yaabalaa, yaa ra ŋɔ ii benii ani yaa Dɔɔri Yeesu Kristo sɔŋ.","Ya bala, yaran wa ibeni ani ya dori Yesu Kristus",0.9231,0.34
+973,Ií fɛrgi baa lugɔ gunla baŋ ɔɔ fɛrgi grepuzi.,fergaba,1.0,0.8333
+974,Yaa kaa dɔɔ fɔŋŋa ya gil nɛra nfɛssi gba wer sɛɛ Kristo dɔɔra.,Yɛka do fanga yɛgel na mfe sigbe wiri si Kristo do.,0.9231,0.4898
+975,"U dɔŋahina faa ra tɔgzuu, dikuubɛɛwiai, u faa hummɔɔ ba wia kuari, u ŋɔ wia tɛɛ baa ba maa bɔra sɔɔni werge maa.","Oge ụfọdụ a na-afara tọọzọ dịka obere ayị, ọ fa hụ mmụọ, mba wee kwari. Ọ nwụọ wee taa ebea, mba ma abọra so na nwiri gi mma.",1.2174,0.6279
+976,"Saŋa la Pɛlɛg ge n wa di binni tokko ni kpɔrgɔ la, u ge lul Riu.",Sị na ha pellege nwadi be nịtọkụ n'ịkwalọgị ọge lụlụ,1.0,0.5319
+977,"U faa hum Kɔraawiizii nɛnnɛ, guŋ wia, u faa kissuu.",Ofahum kwara we zi nenne. Gonwea ofa kisu,1.0,0.4359
+978,"U jaa kpu Filisti hina la, di lii Gibiɔn guŋŋ di ga hel Gɛza.","Oji akpo freestyle ha nala, dere egibiongu di ka ""Hill Geza"".",0.9286,0.4565
+979,"Denii Koori Solomɔn jaa chaali Izrɛl nabɔnzi, ba dizi ni domeezi nabɔnzi maa u be, Jɛrusalɛm biini.","Jézi kòrò Solomon jaa chaale, Israel na bonze, ba dizi ni domezi na bonze maa ube Jerusalem bii.",0.8235,0.2625
+980,"Denii Kɔraawiizi ŋɔ i be, ‘I danna binni n nɛra Izrɛl hina ni, di ɛɛ ba koori.",De ne kwa azịza ya bụ ibe. Ịdị na-abụ nị inera Izrahelị na nị ịbakuere,1.0,0.5517
+981,Ka jaa tɛɛ Izrɛl baal ni haaŋ maa paanuubire ni olɔɔzaa ani grepu nɔŋhilaa.,Kedu aha gị? Ị bịara na oge a anaghị eru n'onhilah.,1.0,0.7049
+982,Kɔraawiizi kizeehina la n faa ɛɛ Levi dee labuu faa chigaa ba.,Kedu abụ izizi ị na-ege na fa elébé dị na bọọlụ fa chigara?,1.0833,0.6
+983,Mìŋ́ Pɔɔllɛ ra fɔrgi ia ni Yeesu Kristo sisɔna ni u kanyitti ni.,"Mempal, n'himmara forga yabo ya dorisi sonani ukainitina.",1.0,0.56
+984,A nabɔnzi ge tɛɛ baa nabala kagboŋ ani peeza ni buuna ge kagboŋa fi.,"Nna bonzi ge te ba nna bala ka gbon, ani piza ni buna ge ka gbon a",0.9286,0.2222
+985,"Zumbizi ge ni a dizi maa lii di su chiŋ, di zaah ra bar hɛri maa.","Je me suis garé à 10h du matin, des arbres",1.0,0.7917
+986,"Rama ni Gɛba baala faa du kalfaanumbɛl ni tokko ni kpaŋ, .",Maa mani gba bala faadu ka faanu mbel ni toko ni kpaan.,0.9091,0.2
+987,"Ka Kɔraawiizi dɔgtɛɛ bɛl faa ba u be, di wa ŋɔ, “Jara, laallɔɔra la n lii Izrɛl la waa dɛkkɛ i ni baa n la laal, dikuubɛɛwiai, Kɔraawiizi waa hoo Ɛfram hinuu bɛl maa be.","Ka koraa wee ze dọkịnta Bel fa baa ụbọ diwa nọọ, jara laa lụọra laa nri izuara laa wa deke ini baa laa laal dika ube ewe anyi. Koraa wee ze wee hụọ Efrem hị nụ Bel ma",1.0286,0.4453
+988,"Koori Deevid nuu guŋ, di izi chɔ ga zuu diikpeg la.",Good evening.,1.0,0.7949
+989,"Ba faa kpaa di kpa maara, kapintazi ani nɛra la n zum lugbia ni danyɛ huma, bá bir kuari a Dia.","Bafa kpa, de kpamara, carpenter ze, aninera la nzum lugu bia ni danye huma ba beru kwari adia.",0.8095,0.2222
+990,"Koori Joas faa waa winanaa la Zɛkaria mɛɛ Jɛhɔyada n faa ɛɛu la liizee, ka kpu u biibaal.",Kedu ka ị dị? Fawa wịna na-ala Zakariya mee Jehova adị mma. Ị̀ dịkwa mma? Ka Chineke gọzie gị.,1.0,0.6571
+991,Hɛssi naa n mɛɛwaa n chɔkkɛ la bɛlii vugrɛ wette lɛɛ u nɛra lii n nonee biinei?,"Kessena, m'bewa n'choke. La belle ivrogne wete le onera le noné bi né.",0.9412,0.5
+992,"Di guŋ wa ɛɛwɔ, ba wàá kaa ra nuu dɔŋa be, bá nuukpaŋ la chɔgi.","De gungwa ewo, ba wa kara nudo na be, panu kwan la choga.",0.8,0.3696
+993,"Denii u faa kaa mɛgzi a tauduura chignibɔra la bɛl harbɔɔ koŋlii chiŋ ga chug bɛl, de ɛɛ nogumzi tokko ni anue, di lii a sal koŋlii vollibɔr ga chug bɛl.","De ni ofa ka merdze, a tar du ra kin borolabel. Har bo kongli chingachuk bel. De e nogumzi toko ne anoi. De le asel kongli volibor gachuk bel.",0.9032,0.35
+994,"Uŋ wa siuwɛ, Juda ani Jɛrusalɛm hina maanii faa tɔgzuu.","Juda, ana Jerusalem hịna ma anị fa tọghụzụ.",1.0,0.4773
+995,"Ka filaŋkeŋ, n na la Jɛrusalɛmnɛ ń ga hiini Kɔraawiizi biinanaa de.","bị nị. N'ala anyị bụ Amanesomala, a na-akpọkịzị ihe n'ụra mị. M nwere nna",1.1667,0.8519
+996,Ii waa liizi miŋ faa ɔɔ ra bagli ia guŋ saŋa la miŋ faa du ii be laa?,"Ndi be anyi, eji m fa oha bagle e agun sangala m fa du ibe la.",0.9444,0.4706
+997,"Waabuu faa ra hiini Juda Koori Zɛdɛkia, saŋa la uŋ la Babilɔn, u kora dii binni anaazuhiŋ biini la.","Babu faraƙin tsakanin Yahudawa da Kirista, sa'ala unla babu lon, ukora di bine an nazo him bi'in la.",0.9474,0.4744
+998,"Di kaa lii Muu Yufretis la n du wiifurii la, di ga Hitti hina hɛri di ra la Muuzeŋ Mɛditerenɛn la n du wiicholii la.",Ndi kalimu Euphrates la ndu we furila. Ndi ga hite na here n'ala muzin Mediterranean la ndu we cholila.,0.88,0.3667
+999,"U baaŋ n faa haa ra fuuh ba ni la, di u chigɔ a daahɛgsɔɔhsuma fuuhribɔr zɛɛ, Kɔraawiizi Dia biini.",Kedu ihe mere ha na-afụhụba n'ala? Di ochie adaghị eso ụmụ nwanyị bọrọ ze. Keduzi ihe ha bụ?,1.0,0.6753
