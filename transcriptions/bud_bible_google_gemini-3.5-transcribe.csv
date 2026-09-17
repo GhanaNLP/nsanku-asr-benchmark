@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Mpaan ŋun kɔkɔ māntìi tú-ku dijool yilpuee sá ki tīī Unimbɔti ní.,,,
+1,ki ŋáań saraawɔkaa a-saraafaŋŋu pu.,"kanga srawoka asarafa ngupu. Teden da moti kutu bi mpoin, yan te banga tu ngi fatin se, fa kiti bi yike, ki jam be camu, binna be ntati ngma ki yike.",6.0,3.3448
+2,Di sá yii bi dū m-bɔkpaaŋi nì m-marab ki fá kaa tɔ́-ŋi.,"Désolé, mais donc m'occuper de ma famille avant tout.",1.0,0.8205
+3,"Kii dipandi nín kaa ŋūǹ kí lòoǹ abil di-baba asee dí nīn túkú busubu puee, míǹ mbaantiim ní ni yaa kaa bí man ni, naa ŋūǹ kí lòoǹ abil.",Kedu ka pandi na ka ngwongwo abali di baba? A si di nu ntuku gbasu kwa ya. Mba ji m na ya ka bi ma nni na ngwongwo abali.,1.0,0.534
+4,ní ki fàtīi fòol̄ u-fooku kun tìì dimaŋfalee.,ne kafati fole ofoko,1.0,0.7143
+5,U nìn jáń ki fōō u-cee Beeteel nì Yeesana Eefrɔn timmu nì ntimbilimu mun pìl̄-muee.,ne,1.0,0.9692
+6,ISIRAYEEL YAB BÍ SIINAAYI TEEKUN.,de kande de yede ba,1.0,0.8571
+7,"Man a-Dindaan Unimbɔti nín bí dimaŋfalin nee, a-naal Soodoom nì ntimbilimu mun māntìi tú-kèe kaa pée ŋá ikpiti kii sii nì ntimbilimu mun māntìi tú-see nín ŋá puee.","Mày à, đừng đùa với tôi nữa, tôi không phải là người anh nói đâu.",1.0,0.8615
+8,"Kɔŋkɔnnee bibɔtiibi, nín̄ sámaan binib bin cáá iciinee!",香港内，我不知道，你什么地方人？,1.0,1.0
+9,Niinee Mooyiisi ŋmàn̄ Unimbɔti marab ki dūu tīī Leefii yab bisaraaŋaliibi bin tūntí ti-Dindaan poondi dakaauee nì Isirayeel yab tindaŋkpilib kɔkɔ.,Ndi na Moyo izi nmai unu mbotumara bu kedu otu ndi Ifeanyi bu bisara nga li bu ntu ntu tiri ndampụ ndi Daka wee na Israel bu tina,1.3333,0.4878
+10,"Dibinluluútiil poonee, ní Yooyadaa dàkā tininjati.",de l'utile pour nez,1.0,0.7907
+11,"Isirayeel samaau kɔkɔ nì binicambi bin kóò bi-kansikinee làá ká bi-kpitii pɔ̄tam, kun puee bi-kɔkɔ di ŋá ikpiti gbanti.",Israel,1.0,0.9368
+12,"Daani naakookunee, Amiisadaayi jipɔɔn Ayeeseer.","Dan na koku ne, a missa da jipo a",1.8,0.4634
+13,Ní kukúbambaantiiu ja poon ní bi kpáàa kúntì sii nì a-wanti kɔkɔɔɔ!,ne ukubambana njabulo nepakwa kwenziwa,1.0,0.6667
+14,Dipɔndi din ni cááyee di sá ní nīn néeń tɔb.,,,
+15,"Un di yaa páaǹ u-boonee, bí kpɔ̀-u!",Ụbọchị ahụ ụbọchị bukpo dịka usoro a na-akpọ n'ili beta kpọ,1.5714,1.625
+16,"Unimbɔti gíiǹ u-biki ki tīī-u, kun puee Abraam ŋman nìn pée kūū-kì ní.",nọmba ta gị ọbeke kete o kọmpụta Abraham nwanne peku ka,1.0,0.566
+17,Di sá yii yilpu nì yilpu fɔ́ŋŋŋ kaa wāā ú ŋmā kí kɔ́.,"C'est hier, il y a eu une éruption qu'a eu un macaque",1.0,0.8684
+18,"Akasiyasi nìn cáá abin imuŋku ili nì ali ní ki kpántì ubɔti, ní ki kāl̀ Jeerusaleem ki jíń dibeel dibindi diba.","Aka si ya si na ya abughi imukwa ili na ala, na ya ka kwanto ubochi. Na ya ka ga Jerusalem ka je debe debendu",1.1429,0.5114
+19,"A nín nìn ŋáań tíǹ gbanti kɔkɔee, a náań nì kinimpulaakpaai páaa ní.","Annan nnaa tun bandukukui, annanna kenu flag pai pa",1.0,0.5556
+20,Míǹ boonee ní ḿ dāá yàntī án bútí si mun.,Mbone na nda yant ambote,1.0,0.6129
+21,"Nì tibɔmɔntiil tin m sòoǹ Yeesu Kriisitoo puee, Unimbɔti cáá mpɔn kí báań-ni inyaan nnimbɔtisan poon.",Nne bu m onye nso Jesu Kristi kporo unu kpọọ tupu mụ banye n'ime nne mụ bụ Sampu.,1.125,0.6506
+22,di sá yii u-neeŋkpaandi bí ní ki cá jaanjaan!,N'saii unun kpaa n'de n'ke cha jaanjaa.,1.0,0.4286
+23,U làá nīn pée sá ubaanti míǹ ní kí nīn cá jaanjaan man ni-Dindaan nimbiin ki tīī nimbi nì binicambi kɔkɔ.,,,
+24,"Baa nìn dū ŋyaam ki ŋmītì-si, ní kaa nìn tí dū sata ki bīiǹ-si.",Bana du'i ya kan mata su na kan ta du'i,1.0,0.6304
+25,baa ŋūǹ kí dū u nín sá ukpaan puee kí ŋmàntīǹ tiba.,"Biko, unu nsa okwu a m kwuru ka m mata ma ị ghọtara.",1.0833,0.7949
+26,"Míǹ ní u mun jòoń binib tikpil, ki kpáaǹ man m-ba.",ምን እሙን ጆ ብንበል ድብል ብግባማ,1.0,1.0
+27,Míǹ boonee ní Babiloon bɔtiu Neebukadineesaar mun dɔ́miń ki kɔ́fì bi-kpabiŋ.,,,
+28,An nìn sá dibindi din ní Asuur bɔtiu Saargɔn nìn tú u-janjakpiliu u cūtì ki jáń nì Asidoodi tiŋki ki fōō-kèe ní.,,,
+29,Bi-kɔkɔ nimbikpeeŋu cɔ́ a-pu nì dimákal.,Boko Haram na mpekpe cha upuo na di maka,1.5,0.5806
+30,"A tīī a-naal nì a-maan ibaamɔn, di sá yii ikpiti in a ŋée nyāŋkì ki jítì bi-yai, ní ki yāntì bi kpántì deedeedambi ki jítiǹ-si.",A ti anaa na amma ibomoy. Disai ikweti yi anghi nyank ke jiten biyei. Neke yant bukwant dede dambe ke jitens.,0.96,0.4688
+31,Á ŋúb́ tin a cááyee gbīŋgbim ubɔ ń taa fōō a-cee kibeefuulii kin bi tìì bin jáń ki jíńee.,A nụbeghị m a nụbeghị gbenge gbenge ụbọchị ntaụfụ achị tupu a tinye bekee be nja nke ji,0.9474,0.8529
+32,Míǹ boonee ní u ŋmàn̄ marabee titaŋkpapilindi tili pu ní ki dūu tīī-mi.,"m'abonner. Non, on m'emballe pas les petits plans plein de télé-pau, n'écoute outil",1.0,0.7321
+33,"Niinee ní Juuda yab nì Beenjameen yab dicaŋŋi kpilib nì bisaraaŋaliibi Leefii yab, an dàkà yii bin kɔkɔ Unimbɔti nìn tīī nlandɔkɔee yíkì ki nín jɔ́ḿ Jeerusaleem kí fàtīí mā kunimbɔtidii kun bí niinee.",ne Juda yabu ne Benjamin yabu di chang kulebe ne bisra'a li li fi yabu and ka yi ben koko unu mbotini nti nla ndokwi yi ka kine jom Jerusalem ti foti ma kine mbotidi kum beni ne,1.1176,0.4207
+34,"Usiyeel maaliŋunee, Amiinadaab di sá ukpil, u nì u-nabiyaamu binib dilaataal nì binib saalaa nì bili.","ou si elle m'a donné Amina Dab de Sokoro, une autre bien de la terre de la salle de",1.1875,0.6463
+35,"An dāa bí kii Soodoom nì Goomoora timmu nì ntimu mun nìn māntìi tú-muee nín nìn nāaǹ puee ní, ti-Dindaan di lī míǹ.","Ndi be anyi, so Dom na Gomora timu na nte mu na mmadu tum bui, ni na na mpuine, diri nda di limi.",1.0,0.5056
+36,Ama ŋyunti ŋun ní Oosiyasi ká mpɔn mimmee ní dilambil jítìi kɔ́ ki nāaǹ-u.,Amaghi m etu unu na Osuachara mpaghara mme na-edila mme jite koo kina,1.0,0.6379
+37,Ŋma di sá-u kí yūĺ?,"by the soul, here you.",1.0,1.0
+38,"Bi nìn ká-u u cūtìi bál̀ Samaarii tiŋkin, ní bi cúú-u ki cáań Jeewuu cee ní úǹ kūū-u.","Benen kaw u ci di bari, sa mari tinki ne bu ci wu ki ca je wu ci ne wu nku.",1.1111,0.4839
+39,Ŋyunti ŋun bi bíi kūuntí mimmee ní Unimbɔti yāntì Abiiya nì Juuda yab jáń ki pɔ́ɔkiǹ Jeerooboowaam nì Isirayeel yab kɔkɔ.,"Bibi ko ntimi na unu gburugburu ya nte, abia Judah ya bia je ka puo ka je rubo m na Israel ya",1.0476,0.596
+40,"Isirayeel yab kɔkɔ nìn cáá ti-Dindaan Poondi dakaau ki cūnnì Jeerusaleem tiŋkin ki gbáà iwiliili, ki búǹ iyin nì akantán, ki cákafí cancakantib ní ki bɔ̀ɔ́ tibati nì saŋgub an tùm̀ dàii.",Isra'ila ya buƙaci 'yan caca don su ba da gudummuwa don aikin gina Jerusalem don su gba yi wuri da su bunne a kantin. Ka cika fice cika ciki na ka buɗe button na sangub antum tayi.,1.1562,0.5946
+41,Ama m lútì-ni ki nyántì duulinya nib kansikin.,amma lutene,1.0,0.8649
+42,Digbándi boon púee fɔkɔŋŋu nìn sá ndɔŋmantikaayee dijandi.,Fụkọnụ sa ndọnmantị ka anyị dịja,1.0,0.68
+43,Paalali jipɔɔn Usaayii di ŋáŋkì diguŋkpindi nyɔkɔpu nì kudifɔkɔu kun lībitì ubɔti diiŋŋi puee ki tin sāā bisarkadambi mɔŋkiŋu.,"Palalè, je prends au sérieux de même que de bons conseils que tu me donnes pour mener à bien ma mission. Que ton Saint-Esprit m'accompagne.",1.3158,0.8037
+44,"Ŋyunti ŋun a nìn cáá dilambilee, a nìn kpèé a-naal Soodoom fám ní.","A na-etinye mmanụ a na-acha de la mbelé, a na-akpọ ya ana asụ dọm fam.",1.0,0.6275
+45,Lìntīmaan kupicaŋkpuŋu nyɔkɔpu kii iŋɔjaayee.,"Nneoma, kụpechaa kpọọ mụ n'ọfụ ka ịṅụchaa ya.",1.6,0.7
+46,Tibɔti tin ti-Dindaan sòon̄ Babiloon tiŋki pu ní Amɔtisi jipɔɔn Yeesaya ká dileedakal poonee sèé.,Na amotosi jipon isa yaka dile daraponese.,1.0,0.65
+47,An puee ní u nìn tīī-bi mara ki dàkā-bi bi nín làá dāá ŋá u-kpabiŋ puee.,,,
+48,"Mimmee, tí nyàab̀maan tin làá cáań dipɔɔsɔŋkil ti-kansikinee nì tin làá tūtuǹ ti-nabiyaamu bí báań inyaan nnimbɔtisan poonee.","Membé, tinya ma tin dacha de poisson kele te kan sikene, ne tin da tin tinya biam, beba inya ne mbotisampone.",1.0556,0.466
+49,"Unimbɔti yaa sòoǹee, an bí kii ditaadundee ní.",un momento ya soné,1.0,0.7838
+50,"Báà ŋma nyí ni nín tɔ́ ti-Dindaanee, an puee, m-pɔbil sɔ̀m̀ ni-pu.",bang manye nenentot den dane anpoy mpolissom,1.0,0.4783
+51,Nì fookii poon ní an nibee kɔkɔ dūu kpíì kaa kpáàa fōō tin Unimbɔti nìn pōoǹee.,na anabịa kọka dịkwa ṅụị. Ka ọ dị ọzọ. Ụnọ m bụ ụlọ m pụọ na,1.0,0.7778
+52,Bi nìn yōoǹ ti-Dindaan Marau gbɔŋku ní ki yìin̄ Juuda timmu kɔkɔn ki dàkā mu-nib ti-Dindaan marau.,"N'ime June, taa dị ka Mọnde, gọọmentị nke Jụda Timọkọọ kụrụ ka dị ka Mọnde, taa dị ka Mọnde",1.1176,0.7403
+53,Niinee Isirayeel yab dɔ́miń ki māntìi tú Mooyiisi nì Aarɔn.,"Nde Isra'ila domi, kaman te tumbo isin aaron",1.0,0.4583
+54,Ama u nìn yìiǹ Juuda tiŋki kɔkɔ pu kí yòon̄ Beerseeba kí tin cáá sāā Eefiraayiim jooŋŋi pu.,Ama unu ji Juda tenke kwakwapu ka unu banye n'ime ya.,0.9444,0.6944
+55,"Ŋfanee jannaatiliŋ nìn ŋmà ní, ní dijandi diba nìn sá ndɔŋmantikaayee saalaa nì mili pu.",,,
+56,Ama Unimbɔti dù iween kí dáaĺ unil tafal kí bíĺ-u u-dooŋu pu: niinee ní nnaanyeem ń yàntī u-wunti jìkì kaa gbèentí.,"Ama unu mbotọ dị iche iche, kedụ afa unu lụtafalụ? Kedu belụ ụdị ọmpụ niile nụ na-anyịm ịya nte ụwụ ntị jịke ka agbịe",1.0952,0.5222
+57,"Ní jāam̀ Priisiil nì Akiilasi, m-tɔntɔnjutiibi Yeesu Kriisitoo tundin.",Jesus Christ,1.0,0.8621
+58,Laamii kpaŋki kin u nìn ŋúb́ee dɔŋu nìn gbìfì kii nsataludɔee ní.,Laissez-moi vous dire que vous ne pouvez donc ne pas vous cacher derrière le,1.1667,0.9615
+59,"Bi nìn síb́-u, di sá yii bi nìn lī yii: «Joosafaati un nìn nyàab̄ ti-Dindaan nì u-pɔbil kɔkɔee jipɔɔn dee.","Bunu subu, du sai bunu di Josaphat wuni nyabe tudan au public ko kwe du ponde.",1.0,0.5385
+60,"Un cáá nnyɔkɔ ki cútí ikoobuee yaa yāntì ukoobu péé-u dijulee, u páatì u-nyɔkɔŋuee pu ba?",Uncha iñoko kechute ikobui ya yante okobe pewu di jule. Upate uñoko ngoye po,1.0,0.5143
+61,Unimbɔti nìn yōoǹ-u ki cáá-u ki jɔ́miǹ u-cee ubɔ kaa ti ká-u.,"Nọmba nke yọọ, ke chaọ ke jọọ m'ụche, ụbọ ka tị ka",1.0,0.6364
+62,U ŋá iwalfi ikpaan: di sá yii u-neeŋkpaandi bí ní ki cá jaanjaan.,Unah iwalụfe ikpa disayi ụne nkpa ande be ni ke cha ja nja,1.0,0.42
+63,Leefii yab bin kɔkɔ nìn tú dakaayee nì bilaŋgaaliibi nì Keenaniyawuu un nìn sá bin tú dakaayee kpiliuee nìn pēē tiwambaantiil kii ubɔtee ní.,le fait bintou dakay ne bi langali be ne kene ni yaou wuninsa bintou dakay kul wi ne pe tiwan banti ki ubote,1.0,0.4655
+64,Adiin ŋin bi nìn máń ki nákáǹ kunimbɔtidii boon gundi nì adiin ŋin kíǹee kansikin nìn sá kukaluuee fɔkɔŋŋu mmuŋku pu ki māntìi tú.,"A di n'i b'a na mayi, ka n'ka yi kunun boti di bo n'gunde na adi n'ka ne kanskri, n'sa ku kala we foko m'mun kupu ka manchi",1.1667,0.4623
+65,Laakin nìn síb́ gbantee nìn sá ndɔŋmantikaayee mili pu ní.,"Lankene suba gbante, nensa ndongmante kaye mele",1.0,0.4681
+66,I-faati kpá kí yɔ́ĺ jaanjaan ní i làá nīn lòoǹ abil kaa gbèentí.,fa te pa kiyòl janjan na ila ni lo ablikagbe,1.0,0.4898
+67,An sɔ́ á taa pōoǹ Unimbɔti ipoon ki jítiǹ á pòon̄-u ní kí taa ŋmā kí ŋá tin a pōoǹee.,Nso atapu unu mgbata ịpụ ka jị tinye apụ nụ na kita nma ka nma tinye apụ nụ.,1.0,0.6452
+68,"Udaan máaǹ kí nīn nyí bi nín bɔ́ntí satab bí nīn cáá nnyim min máǹee nì nnyim min máǹ cínciŋee nì nnyim min máǹ gùŋgumee, ní kí nīn gíti nyí tikpiŋkpiil bɔti.","Udo amaka na enye, bu na mbonte site na, bu na ncha enyim ma mma na enye mma chinchin na enyim mma gungume na kedu nke tinyere gbuo",1.0,0.5806
+69,Niinee ní u tùkū-mi yii niin di sá <Circir páaa laŋki>.,Ninde? Ni ubutumwa ki? Ninde sacha,1.0,0.6341
+70,"Neefitalii naakookunee, bijanjakpilib nìn sá binib kutuku, ní bijanjaliibi bin bi nìn kpòotēe nìn sá binib kutukub bita kpá imuŋku ili ki ŋúb́ agbampɔɔ nì ŋkpamu.",,,
+71,kí sāǹ u-kpaanti nín ŋmóò pu nyàlibuee nimbiin.,k'esayi okpanti n'ngbopu nyelu bu ya n'mbi,1.0,0.4737
+72,"Binib làá fàtīí kɔ́ ni-timmun, di sá yii bi làá fàtīí mā adiin ŋin nìn lítèe.","Bana Balla Fati ko ni temmu yi, di sai Balla Fati ma adi ngin lele.",1.0,0.5172
+73,"«M làá nyāntí-ni atimbun kansikin, m làá kóoǹní-ni ntimu mun kɔkɔ poon ní ni bée ní kí fàtīí gíiǹní-ni ni-tiŋkin.","La nyantyi a tembon kaski, la ko nene, nte mun kopo ne nebe, ne fa ti gi nene ne tenke.",0.95,0.5057
+74,A lēē a-wampeeŋkaati tin cáá inyiŋfi tikpilee ki dūu nyɔ̄kɔntì a-waatootipaaŋyi ki ŋá niin a-laakpaatuuŋŋi.,"A le awan pe ka tu tin cha inye fitakule, ki du nyont awat tu pan yi, ki ngani alakpa tu",1.1333,0.4205
+75,Oosiyasi nìn cáá abin saalku nì diba ní ki kpántì ubɔti.,wusiya sanicha abin salko na duba na ka kwanto,0.9091,0.4667
+76,"Bi yaa nìn ŋá mimmee, an lēē ikpiti bi-wunti pu bi kpántì circirdambi dee.",Anya nte eputa bu nwoke pụọ. Mụ ya,1.0,0.7931
+77,"Ti-Dindaan, dū a-ŋal pɔŋŋu kí jà-bi kí nyāntí binib kansikin.",Tidenda do angal pongu ke jabe ke nyante benibkan,1.0,0.4468
+78,"» M kpēēyee, ki ká utaamu un pīiǹ fùuuyee, ní bi yíì un kā-uee yii Ŋkúm ní Ditaŋkpiil nóó-u.","Nkwere ka otu a m pinye ya. Ndi be yi, unu ka otu a gbanwee, i, nkum. Ndi taa nkụ iri noo",1.1667,0.7206
+79,man nì ataŋkpiibil di dūu yākatì ki jíń.,man atang,0.875,0.8125
+80,"Dinimbinaamandi din poon kitiŋee làá dāá kɔ́ee làá cúú-bi tifaandi, ní bi dāa yú kudandaŋu ki lì yii: «Ba busuu di jéetì Babiloon kitiŋkpaaŋŋi kin cáá mpɔnee pu nan dee!",,,
+81,"A yaa kaa fīntèe, m làá dāan̄ ŋyunti ŋun saa nyí yii m làá dāan̄ee ní kí túuǹ-si kii unaayuu nín tūuntí unil puee.","ya anyi na-ada otu nsogbu anyi na-adane, na-ketu nsi ka unu ayu na-ntu ntu unu",1.0,0.5698
+82,Niinee kudii kun punyɔkɔki túĺ didandi púee dūu pīiǹ.,Né le 10 juin 1942 à,1.0,0.8864
+83,Un di yaa gbēē dinikpil ní baa dū nnyimee ki yɔ́kɔfì udaan puee kɔ́ǹ ti-Dindaan tantiu tijɔkɔndi.,Onye ga-agba ndụ na-ekwe na mba adịghị mma ka ya afụ ụda mpụ ya ka ọ ntị na ndụ ntị chọrọ.,1.2353,0.6883
+84,"Ti yaa báaa, ti bí ki tīī ti-Dindaan ní, ti yaa tí kpíìyaaa, ti kpíì ki tīī ti-Dindaan ní.",Ya ba te be kiti te na nda na. Ya te kwi ya te kwi kiti te na nda na.,1.0526,0.5455
+85,"Ikpiti iba kaa dāa kóò niin, nì bitiŋwiiliibi nì binyimɔndambi, see bin baba yiŋŋi bi ŋmàn̄ Dipibil gbɔŋku kun sá dimaŋfal gbɔŋkuee nee.","Ihe putara ibu kara ka onye i bu. Na ebe m wee ili, na ebe nyuo m nda mbe. Si ebe m beghi bu mma m. Di bebelite ka dowu, onye isi di mma fa etekada wee lee.",1.6522,0.6818
+86,Di sá yii Babiloon bɔtiu Neebukadineesaar.,,,
+87,"» Samaa kɔkɔ nìn nyántì-u dinaapaal kpaanceetiŋu ki yáŋkì-u ataŋkpee ki kūū, kii ti-Dindaan nín nìn tùkū Mooyiisi yii bí ŋá puee.",Sam akuko na-enye ntụziaka na-aparukwa nche etu ị ga-esi nata mgbazinye ego site na ụlọ ọrụ ego dị iche iche.,1.0,0.6863
+88,Eesayuu jipɔmbi di sá Eeliifaasi nì Reewuyeel nì Yeewusi nì Yalaam nì Koora.,"et ça veut dire pour moi de ça et les faces, les réveils, les yeux, les larmes, les",1.3846,0.7619
+89,Boonee ní m ká kutagbɔmpɔŋu nì kitimpɔŋ.,Boni ne nka keta gbompon ne gete mpon,1.1429,0.5152
+90,Kriisitoo dɔ́miń ki sá-ti usaraaŋakpil un cáań-ti tiŋan tin poon ti bí nee.,Kristo dome kasarta usara ngapul wonkyanta tan tumpon ta bine,1.0,0.4746
+91,"Sii nì Aarɔn, ní kàaǹ-bi kí nóó nì bi-janjakitiŋi nín bí pu a-ba a-bee.","Si Aaron, ne ka mbe k'o ne be jenjeketin ne mbe pu abe abe.",0.9286,0.4615
+92,Bijanjakpilib nì bikantámbunliibi nìn yú ki kɔ́ĺ-u.,Bụi nịakpụrụ be nị bụ k'antạm bụrụ be nị yọ kụọ,1.5714,0.5952
+93,"Ní inaakitoon nyánní ŋŋminyiimee poon ki kpátìi gbí kitiŋ pu, ní Unimbɔti tīī-i mpɔn í nīn júntí binib án nīn wàlifī kii inoomee.",na ina kwato yanayin yanayi me ekwu kwatankwamba kete mpu na olu moti mpuanyi ina nju ntebi na ana nwafe ki ina ome,1.0,0.6058
+94,Sii di nìn tútúǹ Unimbɔti ní u kpátì kutagbɔŋu.,Siri na ntụte ụmụ nwoke na-akpata kịta gị,1.0,0.6053
+95,"» Ní Mooyiisi dū ti-Dindaan nín sòon̄-u puee ki tùkū Isirayeel yab, ní kunaakoou kamaa kpiliu cáań u-kpandɔŋu.","Na mụ isiri tupu m daa n'ụra, tupu m bilie, nna, m na-akọ kama m na-arụcha ụkwụ ndọ.",1.0588,0.6512
+96,"Di sá yii Unimbɔti Beel kaa sá tijikaal nì tinyɔkaal bɔti, an sá deedee nì nsɔŋfi nì dipɔɔpindi din u-Fam tììyee ní.","Ndi si na ọ bụrụ na m bụrụ onye isi ndị agha na-etinye aka na ya, m ga-eme ka ọ bụrụ ihe a na-anabata na ọha mmadụ na ụmụ nwanyị na-etinye aka na ya.",1.5455,0.9239
+97,"Bi nìn gà inyɔŋki laŋyi, ki cákafí cancakantib ní ki bɔ̀ɔ́ saŋgub nì tibati.","Benin ga in yonkila yi, ke cheka fichen cheka ntebe ne ke bo sangube ne te bate.",1.2143,0.4237
+98,"Ŋwìiń tin lì yii ŋu nyēēyee, an fātìi bɔ̄ntì.",un petit bon,1.0,0.8235
+99,"Un kaa ŋúb́ u-dicaŋku tiŋanee, m lì ki bántí u-diiku poon nib kíŋŋŋ ní, mimmee udaan fá fookii, ní bin kaa fōō Yeesu ki kííyee sɔ́ǹ-u.","Mokango oza na likambo te na ye, mpo na likambo ya bampate, mpo na bampate, mpe mpe ofandi na mbote na yo, na bokano ya Yesu Kristo.",1.0385,0.82
+100,"ti yaa kúuǹ ki yíiń-uee, ú kíí-ti.",dia kung karena okid,1.0,0.7917
+101,"Ama, ŋkùm yaa cáá a-nannanliu, á tīī-u tijin ú jī.",An kuma ya ce a nan nan lo. Ati wutiji,1.0,0.4722
+102,Unimbɔti un sá upikpaabaantee di tìì tikɔkɔ.,ụlọ mbọta nwunye sa opukpa abaa nte di ti,1.2857,0.5405
+103,Á tùkù-kì yii: <Ni-Dindaan Unimbɔti nín bíi sòoǹ nì Jeerusaleem puee sɔ̀.,Ndi ndu unu mbotu n'abali iri na abuo na Jerusalem,1.0,0.6964
+104,"Isakaar naakookunee, Suwaar jipɔɔn Neetaneeyeel.",Isi aka na-akokwu na suwa ajipuọ n'ite na-esighị,1.6,0.4524
+105,"Daafiidi nìn bál̀ kutaŋkpanaakoouee poon, ní Fiiliistii yab gɔminau nìn bí Beetileem tiŋkin.",David Nweze Umahi kụtankpana akụkụ ụfọdụ na efilisị ya Gọvanọ Nweze Bethlehem Tankian,1.0,0.5974
+106,Mooyiisi sòon̄ Daani naakooku pu yii: «Daani sá kii digbikintipɔmbil.,Mois soeur Dan na kofie Dan saki,1.0,0.6786
+107,kí já nì Unimbɔti nì ubɔti un u lēēyee.,Kedu ka unu mbọte na ụbọchị ụka ole?,1.0,0.7
+108,"U bí Jisirayeel niinee ní Juuda bɔti Akasiyasi, Jooram jipɔɔn cūtì kí màntì u-pu.","Obi Israel ni ne Judah aboto akasia se, Yoram ji puan tutu kaman tu",1.0,0.4462
+109,M làá nyāntí ni-balilammu kí páań mpaampiin pu.,Na nyante ne bela mukpa,1.0,0.6579
+110,"Tiwan gbanti kaa wāĺ, kaa gbìl̄, kaa ŋūǹ kí còom̀ mun.",ka ka,1.0,0.8974
+111,Ŋma di nyí tin ŋān̄ ki tīī unil u-maŋfal wiiŋyi in kaa kpáàa náaǹ nee poon?,"M'adịghị tinga ka ti ụne ụmụafọ wịị ye, yị ka kpọọ na na epụ.",1.0,0.614
+112,"An ŋūǹ kí nīn sá nnikpaakoon bɔti, àá mara bɔti, àá abɔkpaa bɔti, àá akoobil bɔti tiba.","nwanne, kedu ka unu si na-akpa kwa ụbọchị? A mara ụbọchị, a abọkwa ụbọchị, a ka obiri ụbọchị",1.0,0.7164
+113,Eenɔki fookiiu un u nìn cáá Unimbɔti puee di yì-tì ní waa kpíì.,na akụkụ nke abụọ nke ocha unu gbatọkwụrụ di etu na wa,0.9231,0.7551
+114,"Ŋyunti gbantee, m làá dāá gíí bi-pu diŋuul, kí dū-bi kí fá ní kí fàtī m-boon kí tīī-bi.","Nara gi bopụdụ gị, kedụ ka afa na afa gị bụ nke ti?",1.0,0.746
+115,"«Un yaa jáń ki jíńee, ŋkúnliliitiim kaa dāa gíti gbèetī udaan.",Onye a jụrụ ajụjụ na-ekwulili ti ya ka ha ga-etinye ya na ụkwụ ụda.,1.2727,0.7347
+116,Mooyiisi sòon̄ Jooseefi naakooku pu yii: «Ti-Dindaan ń bìin̄ u-tiŋki pu.,Moisés so Joseph na kwakpu yi. Tunda mpi wuteng,1.0,0.5455
+117,"Ŋwiin bí ki dòoń, dijool din pu ti-Dindaan diiku tɔ́kɔ́ee.",Dijo de,1.0,0.8636
+118,Ŋfamee nín kɔ́ bi-nee ní bi kíĺ ki bíi sòoǹ kii Unimbɔti bɔnaatiliibee.,,,
+119,Bi nín sòoǹ miŋyee dàkà ki cántí-ti yii bi bíi nyàab̀ kitiŋ ní kí nīn kóò.,"Bana so muyi dakace ta tiye, bebi nya bu katan nika",1.0,0.5714
+120,"Kí kúntée, Manasee naakookun yab nìn cūtìi kútì Daafiidi pu.",David,1.0,0.9184
+121,Bisaraaŋaliibi nì Leefii yab nìn nyáń Isirayeel timmu kɔkɔn ki dɔ́miń ki páaǹ Rooboowaam boon.,"Besele ngalibe, ne lefi ya, ne nye Isaia tumukokwanyi, ki domi ki pa rubwa mubu.",0.8667,0.5385
+122,» Ní bi nyáń kunimbɔtidiin ki cūtìi pɔ̄fì binib kitiŋin.,,,
+123,U nì bijanjakpilib bin kpòotī bijanjaliibi dilaataal dilaataalee nìn ŋá kunyɔɔbaantii.,"bụ onye beejagbulu be, bụ mkpụrụ oté beejagbulu be, dilata dilata na nna kenya obanti",1.3636,0.5867
+124,Bi nìn ŋmàn̄ Leefii yab dicaŋŋi kpilib yiŋŋi ki ŋá kugbɔŋu kun poon bi ŋmà tin jītí ŋwiin kamaayee ki tin sāā Eeliyasiib naantiiu Yoowanan yuntiŋu.,"Benin man le fille ya be de chang, pulu be yin. Ke nga ku gbon ku mpuon, benin ma te njite. Uwi kamaye ke te nja sa Eliasib, Nantiw, Yoanam, Yotun.",1.1923,0.5083
+125,"Míǹ boonee ní u jítìi kɔ́ poon poon diiku ki ŋmāntì kipunyɔkɔ jaantalkub ní ki ká kukaluuee fɔkɔŋŋu mili pu, ní kipunyɔkɔ ki-ba waaŋŋu sá kukaluuee fɔkɔŋŋu miluu pu.",mboni na ujita kpomkwem ndiko ka nwa m taa kpu nyuko jaa nta akube na ka kukalu ife ogonogo melu pu na ka pu nyuko ka ba wa nwusa kukalu ife ogonogo melu,1.1034,0.4962
+126,U nìn tīī bijanjakpilib bin kpèé bijanjaliibi dilaataal dilaataalee ŋkpamu nì ubɔti Daafiidi gbampɔɔŋi ŋin bí a-ba a-ba ki nìn bí kunimbɔtidiinee.,n'etiti ndị njem nke abụọ bụ ndị njem nke dị na taa dị na taa dị mkpam n'ụbọchị David gbamgbam n'ebe aba aba ka ndị bekee na-akpọta dịịrị,1.1818,0.6557
+127,"Ŋyunti gbantee, Jeerooboowaam nìn lēē u-janjaliibi biba bi cūtìi bál̀ Juuda yab janjaliibi boon pú kí túuǹ-bi.",et tu te balades,1.0,0.9101
+128,"«Un yaa jáń ki jíńee, m làá yàntī ú dāan̄ kí kàl̄ kí kɔ́ĺ-mi m-beelin, kii ma mun nín jáń ki jíń pu ki dɔ́miń ki kāl̀ m-Baa beelin ki kɔ́ĺ-u puee.","Onye a jụrụ ajụjụ na ya anaghị etinye aka na kọlụm m, m banye na ịntanetị jụọ ya ajụjụ, ọ dọrọ m aka ná ntị mba, na ya anaghị etinye aka na okwu ndị ahụ.",1.0938,0.9208
+129,Ndɔ ŋun bi nìn dūu ŋmāntèe nìn jítì santimeetab imuŋku ili nì saalaa pu fiii.,,,
+130,"Kunimbɔtidii boon nì ku-poon, kí yòon̄ kipunyɔkɔ kí cáá sāā poon poon diikuee, bi nìn bɔ́ntì mpaan ŋubɔ kí lēē keerubimbi nì ibafi.","Bunu mbonte dibo, n'okpo, k'iyo, k'onyo, k'ichasa, ponpon dikwe. Benu mbonte mpa ngubo, kille kero bembe na ibafu.",1.0,0.466
+131,"Juuda yab kɔkɔ nìn bí mmɔnni, kun puee bi nìn pūtì ki pōoǹ nì bi-pɔbiliŋ kɔkɔ ní.",juda yaxshiyabman. Ko'proq nima uchun? Ko'p nima uchun?,1.0,0.7258
+132,"Ti-nimbiin niin ní ti-Dindaan dàkā Faaroo nì u-dicaŋku nì u-nib kɔkɔ u-daanti nì u-tuŋkpaaŋŋi, ní ki kɔ́ǹ-bi digìŋ́kpaandin.","Ndi bi ni ndi ndi daa ndi ka faaru, ndi udi chanku, ndi udi bukoko, udi anti, ndi utumkwang, ndi ke kombe ndi genkwandi.",1.3333,0.4896
+133,di sá yii u-neeŋkpaandi bí ní ki cá jaanjaan.,Deshi unyenkwande be ne kecha janja,1.0,0.4857
+134,Joosafaati nìn ká tigaajati nì tinyool tikpil.,Nke a bụ ihe gbasara teknụzụ na ihe ndị ọzọ.,1.4286,0.8462
+135,"Tin kɔkɔ pée kā unil gbanti naŋki puee, u cáá-tì.",Nke a bụkwa ebe ịka nwere ike ịbanye na nke pụrụ iche.,1.2,0.8649
+136,Ti-Dindaan nyootee nìn dīń ŋwìiń nyalaŋki punyɔkɔki ki kɔ́nní kunimbɔtidiin.,किरण दांग्योटे,1.0,1.0
+137,Bi nìn baasii lēē bíǹ yii bí cù kí kàan̄ Daafiidi dibeel ní.,"Bà Namba sẽ lấy bên y, bơ cho,",1.0,0.7826
+138,» Ama ní un ŋúb́ u-janjawantee fāŋkì ní ki yíì.,"Aman, wungubu uja njawante, fanke ne ke",1.0,0.3824
+139,Tiŋman ni wīikí ní ki cáá sindaariya nabil din Jeerooboowaam mɔ́ɔ́ ki tīī-ni dí nīn sá ni-nimbɔtiuee.,Chineke na-echebe ndị eziokwu na ndị na-eme ihe ziri ezi.,1.0,0.8125
+140,"Yooyariib dicaŋkunee, Mateenayi di nìn sá ukpil.",Yo ya ribe de chan kuné matenayi de n'sa,1.2857,0.45
+141,"Bi bíi tūǹ Unimbɔti tundi ní, ki téekí-si á ŋá tiŋan.",,,
+142,Unimbɔti gbɔŋku poon lī yii Eenɔki nìn pée fáatì Unimbɔti dooooyee ní ki wāatì u dāa nín yōoǹ-u.,Unu mbotu takalụpụ lee enọkụ nụ mpe faatụ unu mbotu dooyị nịkụwaatụ udanụ yọ.,1.0,0.5325
+143,Bi nìn cáań-u busubu bun bi yíì seediree dɔi nì kapintab nì bitaŋkpakpitiliibi bí mā-u dibeecindi.,"Na ncha o, bu so bu mbu i si ejere ije na nke carpenter na be tankwata libe, bu mbu na be",1.375,0.6
+144,Mimmee ti làá nín ŋá mana ní kí ŋmátí dee?,training,1.0,0.9062
+145,Ní taa cɔ̄ŋkì ti-Dindaan ni-Nimbɔtiu kii ni nín nìn cɔ́ŋkì-u Maasa puee.,na ta chonko to dindaan num butu ki na ninni chonko masa,1.0,0.4909
+146,Ubɔ kaa nìn gíti kíǹ Akasiyasi dicaŋkun kí ŋmā kí kpántí ubɔti.,"Ubo ka ne, gi na ke, akasia si di ncha kwe, ka nwa ka kpanto ubo",1.3333,0.4902
+147,"Daafiidi nìn fāŋkì ti-Dindaan yaadal wiiŋŋu, ní ki bí yii: «Maa làá ŋmā kí cùnnì ti-Dindaan dakaau m-dumpu!","Naa, Chineke di ndu, ya daalu. Na ka bii, mara mma ka Chineke di ndu, dika wu",1.0,0.6024
+148,- See un kaa cáá u-ŋalii ki tūǹ atuŋkpiti.,Se un cacha un ali que tú a tú,1.0,0.5806
+149,"» Ubɔ yaa dɔ́miń ki tùkū-si yii bin kpòotī Kriisitoo nikitilee ubɔ ŋá tibee, á taa fōō kí kíí, see binib bili kii bita di yaa ká ní ki tùkū-si.","Ubo ya dum na etu uciyi banko ta Kristo nekete ubo nga tebe. Ata fu kiki, si ebi nebele ki ibeta di ya ka nekete",0.9655,0.486
+150,"M làá lēē ni-pɔbil din pɔ̄ɔ̄ kii ditaŋkpalee ni-ni, ní kí tīī-ni dipɔbil din pɔ̀fì ki gbìl̀ tibɔti taapuee.","Na leen pobel dem poki de tanpali nene, ne ke ci ne pobel dem pofe ke gbelte bo de tapu.",1.0526,0.55
+151,"Ti-Dindaan, unil sá ba ní u-bɔti páb́-si míǹ.",Tiddim Chin Unau sa-le-pa-na u-le-nau,1.0,0.75
+152,"Yoowaneesi u-ba kaa nìn sá ŋwalifi, u nìn dɔ́miń kí lēē ŋwalifee pu seera ní.",On ne donne même qu'il est,1.0,0.8305
+153,Kutaa wúntèe ní Isirayeel yab kɔkɔ tí bíi wòoǹ Mooyiisi nì Aarɔn yii: «Nimbi di yāntì ti-Dindaan nibul kpíì».,"Kedu ka unu dị? Na Izrelị ya bụkwa otu n'ime ụmụ Mozis na Aron, n'eme dịka ya ntị dị ndị a na-akpọ",1.1579,0.6512
+154,"Ní ti-Dindaan bí Mooyiisi yii: «Yòon̄ ŋkpandɔ si nì a-maan Aarɔn, kí kpāfì Isirayeel yab, kí sòoǹ nì ditaŋkpal nee bi-nimbiin dí tīī-ni nnyim.",N'ụbọchị ndị ahụ ka Mozis yọọ mkpandọ sị na a rọọ ka kpọọfụ Izrel ya bụ ka sọọ na dịta mkpụrụ nri bini mbị dị tinye,1.0833,0.5872
+155,"Kool-Ooseeya jipɔɔn Saaluum, Miisipa tiŋki bɔtiu di nìn ŋáŋkì Nnyimbul punyɔkɔki.","Kool o se a ji pọ salum, mi o pa tanki bọtu, di na nga n ke nyọm bulu pu nyọkọ",1.8182,0.3971
+156,"Maaki jipɔɔn Geewuyeel, u sá Gaadi naakookun.",M'a que je prends que vous y allez. Où ça garde,1.5714,0.7568
+157,M nìn gíti ká yii ndibiyaamu mun bi nìn máń ki tú kunimbɔtidiiyee nìn lībitì adiin ŋin kíǹee kɔkɔ.,"Nke ka ịndị bịa mụ bụrụ mmadụ ole na ole ka ụgbọala dị na lift adịghị, nke na-ekokọ",1.0,0.7722
+158,Kuusi di màl̄ Neemiroodi un sá ubaatandaan upeekaa kitiŋ puee.,Kusudi mimi nilienda kusea ubatanda uweka,1.0,0.6078
+159,"Míǹ mbaantiim, bininjab kaa ti là binimpoobi, ní ki kíǹ ki là tɔb ŋmaniŋma tikpil ki dɔ̀ nì tɔb.",,,
+160,Bi nìn jáń ki pɔ́ɔkiǹ Juuda yab ní ki kɔ́ kitiŋin ki kóoǹ tigaajawan tin kɔkɔ nìn bí ubɔti dicaŋkunee.,"Bini jekpo kin judaiye, nika koku tinin koku, tija jewen tun koku nambe ubote di chankuni.",1.0,0.4625
+161,"Ŋkúm ní bi dāa néeń, ama ní ŋkúm ń dāá sāǹ kí wàatī-bi.",N'kumu n'bada ne amani n'kumu dada sein,1.0,0.625
+162,Fookii un Unimbɔti nib dooooyee yab nìn cááyee pu ní bi ká disíndi Unimbɔti cee.,foké wé unombota na bido yé yaba na ncha yé pu na bika disi na unombota,1.0667,0.4923
+163,"Ti-Dindaan Unimbɔti, sii un di sá mpɔn ŋun fìil̄-mee.","Tearindaa unu mbọte, si ịrisa mpọ nwụọ fịlị mee",1.0,0.475
+164,"U yúl̀ bin kpíìyee nì bin dáá wāĺee kansikin, ní ditafadaaldi gbēeǹ.","Wuyul, ban biye ni ban dawo lekanskin ne da tafada da gbe.",1.0,0.4259
+165,» Ŋyunti ŋun Daafiidi nìn fàtīi gítí Siikilaagi tiŋkinee ní Manasee yab biba nìn cūtìi kútì u-pu.,,,
+166,"ní ki yaa bɔ́ntì kí já nì saaa, baa làá ŋmā kí ŋá-si tiba.",ne ke abun da ke ja n saa bala an maka nasee,1.0,0.5854
+167,Dalba mun ntaayim nìn lítì ki bīī kitiŋ pu ní u kɔ́ mbòó ŋubɔ poon ki kūū gbikinti.,dị ka ihe atụ anyị na-enleta ka ebe ka tempo na ụkwụ mgbe ụfọdụ pụrụ ịkwụsịkwa,1.0,0.75
+168,a nìn dàkafī yii a tɔ́kɔ́ bin kíǹee kɔkɔ pu.,Anan dafi attoko benkene koko,1.0,0.5312
+169,Ní jāam̀ Naasiisi dicaŋkun yab bin sá ti-Dindaan yabee.,Nja nasi,1.0,0.8409
+170,Agbampɔɔ ikuul kupaau di bīī u-boon.,agbompo ikuku kpalu di na be ubo,1.0,0.4483
+171,"Bitaŋkpakpitiliibi bí, bidɔkpitiliibi bí, kapintab bí, ní atuun ŋin kíǹee kɔkɔ tɔntɔnliibi bí ki nyí bi-tuuŋŋi tiŋan pu.",Carpenter,1.0,0.949
+172,U nìn bíi bɔ́ntí kí já nì bi-tiŋyil Raaba kí fōō-kì.,ko foti,1.0,0.9211
+173,Daafiidi nì Isirayeel yab kɔkɔ nìn cūtì kí já nì Jeerusaleem tiŋki.,David na Isreal yeye koko ne chito keja ne Jerusalem,1.0,0.5273
+174,Bin kìtī fiinyi subiliŋee yaa láa bāań ni-ceeyee.,"Bánkúte fínji subulunge, yala baani chi",1.0,0.475
+175,"Míǹ ní m làá ŋá ní Isirayeel yab ń taa ti nín̄ kpākantí-ni ki cá, ní igbukum ń gbèen̄.","m na-arịọ gị, Israel, ntị atụla nkịtị, kicha, na-egogom ngbe",0.9474,0.6508
+176,dijool din kūń isufi nì timool kpée yilpu.,"Ndi ije dinma, unu sofe na ntị mụrụkwa ihe",1.125,0.7353
+177,ní á dāá tāā bi-waapaaŋyi pùb.,na adaka buwa paipu,1.0,0.6087
+178,Bin kóò Yabeesi Galaadi tiŋkinee gbìl̄ Fiiliistii yab nín ŋá Saayuul puee.,"Bon, quoi, ya baissé.",1.0,0.8689
+179,kitiŋ kin di ŋān̄ Kaaldee yab cee kii dibeedimbilee.,ਕੱਲ੍ਹ ਦੇ ਯਵਚੇ ਕੀ ਦਬੇ ਦਮਲੇ,1.0,1.0
+180,áli gba kubuŋu kaa ŋūǹ kí jītí i-kansikin.,"A lu gba, kụọ nke a nwụọ nke jite.",1.0,0.7273
+181,Tibɔtee dàkà-ti nsan ŋun Unimbɔti dì ki kpántí unil deedeedaan u-nimbiinee: an sá unil ń fōō kí kíí ní.,"Bọ́tìn tàgàtè nsáwúnyí, unú bọ́tìn dè kà kpàntè unú dèdé dáan unú bìnè. Ànsà unú ìnfò kíkí",1.0,0.5679
+182,Bi dū ŋwìiń nyalaŋki pú punyɔkɔki ki tīī dibɔtibil.,"Bido nwiya la nka popu nyoke, keti",1.0,0.5476
+183,"Bi nìn yíkí ní ki cá kuteeun nì ajoon pu, ki kóò itaŋkpalɔkɔn nì afaginni.","bena yike, ndik cak opwony na ajompu, koko itamkwa lokon na afal gi",1.0,0.5172
+184,Bi nìn cáá dipɔbil ní ki nìn sá bin bɔ́ntì kí já nì ubɔti nannanliibi kí mɔ̄tì u-puee.,"Bini ncha depobé ne kinense bembuante keje ne ubote nanalibe, kemoto pui",1.0,0.4615
+185,"M yíì-ni m-bɔɔbi ní, kun puee m dàkā-ni tin kɔkɔwoooo m gbìl̄ m-Baa ceeyee.","Ihe m bu abughi, kpomkwem, ndakane, tunkwako bu mgbele mbeachi",1.0,0.6727
+186,"Uniniiti di nìn sá Yoowanan, ní uwawati sá Eelsabaadi, ní usaalaati sá Irimeeya ní saalaa nì upeekaa sá Makibanaayi.",Elizabeth,1.0,0.9474
+187,An sá mara ní m yóoǹ-ni kí nīn pée cáa cá jaanjaan.,"आंसर मरा न इयोन, कन्ने पेचा चा जंजा।",1.0,1.0
+188,"M kpáafí-si Unimbɔti nì Yeesu Kriisitoo nì Unimbɔti tuuŋyi in u lútèe nimbiin, yii á ŋúb́ tibɔti tin m sòoǹ nì si nee kí taa nín̄ cáá dinigàntil, kí taa lēē biba ki ŋáań bíǹ tiŋan ki yàntī bin kíǹee.","Ba fa so wannan bọte na Yesu Kristi na wannan bọte tuwo yi, ya olute na bi. Ye angubata bọte ta nso na sanai, keta na ca da na ganta, keta le baba ka na nga benta ngai.",1.0,0.6039
+189,An pɔ̄ɔ̄ unil ń kíí kí kpú deedeedaan pu.,un électricien,1.0,0.8333
+190,Míǹ boonee ní u ŋmāntì kunimbɔtidii poon gundi ní ki ká ŋgbifin kukaluuee fɔkɔŋŋu miluu pu.,mboni,1.0,0.9333
+191,kí dàkà Eefiraati mɔɔl ŋŋal kí kpàtī di-pu.,के दका इफरात मोल इंगल के,1.0,1.0
+192,"Di sá yii bi nìn lì yii: <Ti-Dindaan nibul nìn yá, bi yíkì u-tiŋki pu.","This I believe, children are born yeah, be it",1.0,0.8
+193,">» «Míǹ puee kɔŋkɔnnee, m-jipɔɔn, ti-Dindaan a-Nimbɔtiu ń nīn bí a-cee á ŋmā kí mā-u kudii, kii u nín nìn pōoǹ a-pu puee.","n'e m pụe, kwanụ n'e njị pụọ, tupu nda a nụ mgboto, n'e m bụ achị, a nụ m ka mụ kụdị ke unu nụ pụọ apụ pụe",1.2727,0.6279
+194,"Ní Daafiidi nì Isirayeel yab kɔkɔ nín jɔ́ḿ Baala, an dàkà yii Kiiriyati-Yeeyariim tiŋki kin bí Juuda naakookunee, kí cùú yòon̄ní Unimbɔti Dakaau.","David ne Isaiah kuko ne John Bala and Kiriate, Siriya Rim, Timkenbe, Judah na Kuku ne Kuchiyoni unu ngboto daka",1.0,0.5214
+195,kii ŋwìiń nín ŋmíntí ŋu-walifiŋu tùm̀ puee.,की,1.0,1.0
+196,Di sá yii m nyí yii m-kúm boonee ni làá dāá kɔ́ ikpitin ní kí dāá fàtī ni-boon kí tīī tibɔti tin m dūu kpáafì-ni nee.,"Ndi be anyi, ekele m unu. Ndeewo maka nkwado unu na otu unu si na-akwado m kemgbe tii na mbido nke afo ndi",1.0,0.7931
+197,A nyí an nín ŋá pu kutagbɔŋu dàn̄ yilpueeee?,Anni aningapo kutagbon dan yirpoe.,1.0,0.4706
+198,"Ŋgan púee, ŋwalifi ŋubɔ nyánní ki jìl̀ kii sindaariyee.",ngam poy ñu wal fongo bo ñaan na ka jël ci,1.2222,0.7045
+199,An yaa kíǹ m-nannanliibi nín ŋmàn̄ tin kí kɔ̄kɔl̀-mee.,"ya kente nna nna m libe nwa nte, ka kwakoro m",1.2222,0.65
+200,"«An puee man ni-Dindaan Unimbɔti un bí dimaŋfalinee nín lī yii, ni nín ŋá pu ki dū ni-waaŋi nì ni-timbiilituuŋŋi ki kɔ́ǹ m-Diiku tijɔkɔndee, ma mun làá fàtī m-boon kí tīī-ni.",,,
+201,"Daliŋkin u sòon̄ ki tùkū-si yii sii di làá jī u-fakalee, tibɔtee kaa láá tūǹ ditundi, see u yaa láa kpíìyee ní á nín yīkì kí tɔ́kɔń difakalee pu kii u nín nìn pée tùkū-si puee.",,,
+202,Di sá yii nì dipɔɔpiŋkpaandi nì kpeefam ní bi fōō m-tiŋki nì ki-naakpaapɔɔku ki gāā bi-bindi.,Ndi isi na ndi popu kpoo andi na kpoo ife ha na bu fu ntenke na ki na kpa apo okwu ga abube ndi,1.4375,0.527
+203,M làá fíntí-ni kí nyāntí ni-jɔkɔntuuŋŋi kɔkɔ poon nì ni-waatootii poon.,la fontaine,1.0,0.8947
+204,M làá fáá kí kpɔ̀ u-yab bin nóó-uee ní m-nikitiŋ kɔkɔ ń béé yii man di sá un nyí binib landɔkɔi nì bi-làtamee.,"na afa Chukwu, Onye a bụ Nnoo wee na-ekite nkụkọ mbe ehi ma dịsa wee nye be na-ụlọ ndụkwa ya na be Latin.",1.0,0.6585
+205,"Bí nyāntí-u Isirayeel yab kansikin, kun puee bi nín kaa dū nnyim min lèekī tijɔkɔndee ki yɔ́kɔfì u-puee, u-jɔkɔnti pée gbíntìi bí u-pu ní.",Binyan too is a,1.0,0.9252
+206,"Niinee atimbun ŋin dáá gbíntìi bí ki māntìi tú-nee làá béé yii man di sá ni-Dindaan, un di fàtīi māā ntimu mun poon bi gbáń ki wīil̀ adiinee, ní ki fàtīi cōontí tin bi fùkū ki fée.","Nne, a tembụọ m na ndagwurugwu be kemgbe m tụrụ ime laa be i ma ndị sa nọrọ na nda. Ụbọchị ụka mụ na ndị mụrụ m gara nke Will adịghị, nne ka fatị chọrọ ịtem be fụkụ ka",1.0541,0.7101
+207,Tiwaŋkuti di làá jī mpaan mu-poon kí nīn bí.,"Tout à côté de là, j'ai un petit mot que",1.1111,0.7647
+208,"Kii unibaanti yìntitam nín kɔ́ǹ binib tikpil ikpitin puee, míǹ ní unibaanti nín tɔ́ Unimbɔti puee di cāntì binib tikpil làá kpántí deedeedambi.",,,
+209,"Unimbɔti dū dinyɔɔbundee ki náań taapu doo wanti kɔkɔ, ama, ŋyunti ŋun dì nìn bí taapu dooyee, baa béè-dì.",nwere mbe dị ọnụ na-atọ ụtọ nke ukwuu. Mana ihe m chọrọ nwere mbe na-atọ ụtọ ya. Bịa biko,1.0,0.8072
+210,"A-gaajati tin a ká nee puee, aa ti là tiba nì tiba.",ga jatanin aka ne puye a tallaka bani,1.0,0.4595
+211,"Naa ti sá duulinya yab, an pu ní bi ná-ni.",na tesaduru nye yam. Amu ne bena,1.0,0.5
+212,"Ama bin kɔkɔ fōō-u ki gbìl̄ ki tīiǹ-uee, u yāntì bidambi kpántì Unimbɔti biyaamu, mbiyaamu mun ní unil kaa màl̄, kaa tí sá unil làtamee, ama an sá Unimbɔti di màl̄ múǹ.","Ama, b'onko ko fo, kebelekete yi we, o yanti, bedan be kante, ko na wote biya. Mo ne onere kamale, katisa onere latam, ama ansa onere di",0.9062,0.6063
+213,úǹ di sá ipeecuncuti kɔkɔ bɔtiu.,Onye isi ipe chunchu to koko botu.,1.1667,0.5
+214,"Tin tin m síiǹ-nee, di sá ní nīn néeń tɔb.",Tuntun in si ne da sa ninne,1.0,0.5667
+215,"Maa làá ti dū ŋkùm kí tɔ̄ ni-pu, ama m làá yàntī ni-bileeu ń nyā ní kí lòoǹ tikpil.",Mala te do nkom ke tonapu ama nla'a yantene blewu inya ke lo,0.9474,0.5167
+216,"» A yaa néeń a-jutee, aa ŋáań-u tikpitil.",ਆਇਆ ਨੀ ਅੱਜ ਇੱਥੇ,1.0,1.0
+217,Tin ŋān̄ a-ceeyee ń taa gíti pɔ̄ nsan bí nīn sòoǹ tikpitil.,Tengai ache mutagete po'un sai biniso,1.0,0.6364
+218,"Ni yaa láa nùkū kpɔnɔ saabuee, ní dāá lēē dipál din ni péé péé ki nùkūee poon ki ŋá ŋkalaawaamu.",Nye ala nụ ka unu nọsaa bụrụ? Ndị a lee depeere ndị NPP ka nọkwa ị pụ ka ha nkà lawa.,1.05,0.6133
+219,sii nì u nìn kpáká Meeriiba nyim laŋki.,"Sinu unun kwakan beri banyim langka, u dika apu dine deka jitin u ba nu unapu.",1.875,1.3548
+220,ní m-ŋalii in m yōoǹ yilpuee ń nīn sá kii kujoou saraauee.,ne ngali ye inyo ilpoy inensaki kejo sarawe,1.0,0.4889
+221,"Isirayeel yab nín nìn dáá bí kuteeun puee, bi nìn ká uninja ubɔ bí ki píikí idɔ ŋwiŋŋuŋfikaa dal.",Ije na-aga nke ọma. Nne na nna gị dịkwa ndụ? Ụmụ gị ka dị?,1.0,0.7922
+222,"Uciŋfiti di lī yii: Kubuŋu fám, kubuŋu fám.","Uchenna fetere na leyi, kubon'mfam, kubon'mfam.",1.0,0.6364
+223,"Ní m ká ituun iluli in yú Unimbɔti nimbiinee, ní bi tīī-i akantán aluli.",ne nka etu ilu le ye yu olmotini mine ne beti akantain,1.0,0.4821
+224,Unimbɔti ń yàntī bí jēetí ŋŋmin.,"Unu mbuote inyanti, bijiete nme",1.0,0.5385
+225,Ama Unimbɔti kūū a-bɔti kii binikpitibee.,Ama unu mbotoku abuo ka unu kwetebe?,1.0,0.5
+226,"Taa làá jītí ubɔ kpaabun, kaa làá kɔ́ ubɔ fiinyi sufii saakun, kaa làá nyɔ̀ ni-lɔkɔb nyim.",Ka la ji te ubo kpa bui. Ka la ko ubo fi sufi sa kun. Ka la nyo ni lo ko bi,1.2941,0.4265
+227,Fiiliistii yab bàn̄ee ní ki yàl̄ ki gbí Reefayiim tantakalin.,Puis-je essayer un bandeau ?,1.0,0.8163
+228,Bi nìn cáań ipijaa kutukub biluli nì alaataa aluli nì iŋɔjaa kutukub biluli.,Binin caa ipija kutukube belule ne alata alule ne inwa jaa kutukube belule.,1.0,0.2857
+229,Daafiidi nìn lī yii: «Unil un làá péé kí já nì Jeebusi yabee di làá nīn sá bijanjaliibi kɔkɔ kpiliu.,"Definitely, ununwu lape ka je ni jebu si yabe, bi larin sa ba je n je jebu koko kulu.",1.0,0.5128
+230,«Míǹ ní un yaa jáń ki jíńee dāa pèentí abɔkutipiin káŋkaŋ.,M̀ nu uya jikịne da peente abụkwa tị pịị kanka.,1.0,0.5435
+231,Bi làá cúú a-wampeeŋkaati kí pèetī ní kí gbākal̀-si a-wannyɔkɔntikaati tinyaandee kɔkɔ ní kí yàntī-si dicancaŋgbeel.,"Bịa chụ a wụrụ onye ịka tụkịpịta, na ka gbaghalịsị a wụrụ nyọkịta ka tụ, tinye ndịkọkọ na ka ịyantịsị dị chanchan gbuị.",1.4375,0.5684
+232,"A yaa néeń binibee, a bíi ŋáań min mara lēe kɔkɔ dee.","Iyanne penne pei, appi nga maral le kokko",1.0,0.575
+233,Kujaau kubɔ mun nìn gíti nyáń Isirayeel yab nì Fiiliistii yab kansikin ní Yayiir jipɔɔn kūū Gooliyaati un sá Gaati tiŋkinee naal Laamii.,Kuja kubomwi nka tinye Isa yeye ni,1.0,0.8053
+234,"Nimbi ní m ŋmàn̄ kugbɔŋu nee, nimbi bin kɔkɔ Unimbɔti néeń ki yíiń ní nīn sá u-yabee.",na mben na mben takada ne na mben koko,1.0,0.7846
+235,M làá yàntī ŋgbansɔŋfi ń nīn bí u nì binannanliibi bin māntìi tú-uee kansikin.,"Ngị ayantị, ngwanụ nsogbu adịghị, unu bịa, unu lee nụ ihe, bịa mụta etu unu ga-esi",1.1429,0.7302
+236,Niinee ní Saayuul yōoǹ úǹ u-ba tàataajiki ki cóoǹ ki lítì ki-pu.,Nne na nna ha were yie uwe uba tata jiri kechoo ka ha bata ka,1.1667,0.62
+237,"Sabulɔn naakookunee, bijanjaliibi nìn sá binib kutukub imuŋku ili nì saalaa ní.","Sabulu na koko ne, bejan chale ne nsa bi ne kutukube, imon kwi le nsa la ne",1.4167,0.3939
+238,ní bin gbōontí tɔkɔlabinee kaa ti cáá kunyaaŋŋu.,"Bongbon tetekolo bene, ka te chaa kinyanya",1.0,0.5
+239,M làá yàntī bí dāá gbàan̄ a-taaŋi taapu ní kí béé yii m néeń-si.,"naa yanti, buta gbaa a taa nkafu, nka be yi",1.0,0.617
+240,Míǹ nìn mɔ̄ǹ-u ki jítiǹ ú nīn bí ikpitin ki jīǹ mmɔn ŋun kaa làá yúntée.,,,
+241,"«M sòoǹ nì ni tin bí nee án nín làá ŋá pu m-pɔɔpindi ń nīn bí ni-ni, ní ni-pɔbiliŋ ń mɔ̀tīí gíti pīil̀ee.","So nne, etu m bi na ya na-anagbu m, ọ pụghị m ịdebe mbinye na nsogbu m mụta ịgụ akwụkwọ.",1.0,0.76
+242,waa sòoǹ kí pɔ̀ ugaaja kí kpɔ̀ usoodaan bɔti.,waa son ko pot o gaja ko po oso dan bot,1.1111,0.4412
+243,"Di sá yii tiwan kɔkɔ cáá ti-yuntiŋu, ní u làá sòoǹ ti-tuuŋŋi kɔkɔ bɔti.","Desaï, tuons Coco Chat et Yuntung. Ne laissons tuer Coco",1.0,0.7407
+244,Bi-kaakuliŋ bí ditaŋkpiilin taapu taapu ki māntìi tú ubɔti kaakul.,Beka kulu be de tan kulu ta pu ta pu ke mantitu obot ka,1.4,0.4545
+245,"Mpeekaaminee, m dī Yeesu Kriisitoo pu ki jáaḿ m-Nimbɔtiu ni-kɔkɔ pu, kun puee bi sòoǹ ni nín fōō Unimbɔti bɔti ki kíí puee ilaan kɔkɔ.",Ife kam na-eme dịka Jisọs Kraist siri jee m mbọtụ n'ụkwụ kpọpụ. Ụmụkwe bịasọ n'ụlọ ụka ụmụbọtụbọtụ dịkwa ikpe ajọọkụọ.,1.0,0.7238
+246,An ŋá mimmee ní Isirayeel janjaliibi biba bí Juuda yab nyɔkɔpu ní bin bál̀ee mun bí bi-boon pú.,"Anga me mene Israyel jenjele be be Judah yeb, n'epu ne bembele mumbe be",1.0,0.52
+247,"U nín kāl̀ ki yúntì mimmee, u yaa kaa jíń nnaam ní baa kpáàa síb́-u mmɔntiimee, u páatì ba?","Unun kalak yentememe, weya kaji nnam ne bakwa sibu montime opate",1.0,0.4478
+248,I-juuŋi nì i-looti bí kii inoomee ní i cáa júntí binib kí tin cáá sāā iŋmal iŋmoo.,"Ihe i jụrụ, na ịlọta biko ị nọrọ mụ na ịcha ajụjụ tupu mụ na gị tinye aka n'isi a ị na-alụ.",1.2941,0.8095
+249,U nín nìn kūū Yooyadaa jipɔɔn puee yāntì u-janjakpilib bili bɔ́ntì u-pu ki kūū-u u-lambaŋki pu ki tɔ̀n̄ ipɔntoon.,"Nwanne m nwoke, ọ ga-adị gị mma ịghọta ụdị ndụ a na-ebi na ụwa nke taa.",1.0,0.8276
+250,Unil ŋūǹ kí nīn bí circir un náań-uee nimbiinaaa?,unungui kenem bechercher unanwe nembi na,1.0,0.5641
+251,"A yaa bíi ŋáań mimmee, an bí kii amɔsiŋkoon ní a cáa pāantí u-yil puee.","Nna anyi n'ime mma, biko amaghi m ka m ga-esi kwuputa obi anuri m",1.0,0.7407
+252,"Unil yaa kaa fōō Unimbɔti ki kííyee, udaan kpá kí fáatí-u.",wannan rika fo wannan botakakeye guda an kwaka,1.0,0.6222
+253,"Ní lìmaan yii: «Unimbɔti ti-Fiiliu, fīī-ti.","Ndi oma, unu mkpotu feelu",1.0,0.6875
+254,Bi nìn bí ubɔti tundin ní Asaafi nì Yeedutun nì Eeman kpòotī-bi.,Babban birnin ƙasar Tchad na N'Djamena ne ya zama babban,1.0,0.7451
+255,U-jipɔŋwaaliu Akasiya baba ní bi nìn kíǹ-u.,"Akasia, Baba na Biniki",0.8571,0.5588
+256,míǹ ní dinyil tikpil mun cāabìń diwumpildi.,Müncha ben de wumpelde.,1.0,0.6667
+257,"Bi yaa làá dāá tɔ̄ ubɔ mbusu àá kí kɔ́ǹ ubɔ icooyee, kíǹ ní bi làá dāá yòon̄ ŋabika.","Bia, ladato, ubochi mbosi akwukwo na ubochi echi oyi, kedu ladato yu nga bu",1.0,0.7541
+258,Bi-bimbim nìn bí m-cee kii unimpu nín yaa ká u-ba u bí tijɔkɔndin puee ní.,Bumbum numbe nceki unu punu yaka uba uba,0.9333,0.5893
+259,"Upeekaa di sá Yeeriya ní uliliiti sá Amaariya, ní utataati sá Yasiyeel ní unanaati sá Yeekamam.",Yeriya. Amariya. Yasiel. Ikama.,1.0,0.6923
+260,"<Án làá dāá pée kíń tijinlulifikaal ní, tin ní bi lúlifèe.",Andadapi,1.0,0.9111
+261,Ní dāá kàaǹ marab nee Isirayeel yab kɔkɔ nimbiin án kɔ́ bi-tafalin.,Nda ka mlab ne israyel ko ko ni bi an kobta fale.,1.0,0.434
+262,"Laakin diwaŋkpil yaa bée, niin ní u bí.","La quand on peut le rhabiller, ni une, ni deux.",1.25,0.8
+263,"U fátí-bi kí bíĺ binib nimbiin, kii digaŋgam dambee.","Ufa tebe kenya baantiu, neke nna bi dusudusu, ufa tebe kebele benebene mbe, ke idi ga nga nda mbe.",2.1111,1.2683
+264,Uciŋfiti pɔ́ɔǹ u-ba ki nyàab̄ anyɔɔbummɔɔn ní ki dūu ŋmàn̄ tibɔŋman.,"Onye m fete pon wu back nyaba anyi obumoo, nekedu nwayi tubon nwayi",1.1818,0.6604
+265,Ki-timmu kɔkɔ làá dāá kpántí adigbun ŋma kí nīn cá jaanjaan.,kete mu kwu kwa la da kwan ta adigom ma kene cha jan jan,1.2727,0.5208
+266,"A dū sindaariya nì animbil wannyɔkɔntikaati tin m tīī-see ki dūu mɔ́ɔ́ iwaajaa, ní ki dōoǹ nì i ki ŋá tilaakpaal.","A du sen dariya na anan biyu wa nyogote kaati, tin nti se ku du mo i waja na ku du ni ku ngatila",1.0952,0.4545
+267,"Ubɔ ń taa dī ki-poon kí jītí, di sá yii man ni-Dindaan Isirayeel Nimbɔtiu dī niin ní ki kɔ́nní.","Bon, tu as dit que pour quitter de ce",1.0,0.8472
+268,Ubɔti Siirusi nìn kóoǹ tiwan tin kɔkɔ ubɔti Neebukadineesaar nìn yōoǹ kunimbɔtidiin Jeerusaleem ki cáań ki yóoǹ u-waadiiŋŋinee ki kpáfì.,"Ubotisii Rusi, nko tuwantinkoko Ubu Nabukadinezari, niyokunoboti di Yerusalemu, kecha ke yoo uwa di ngene, kpa",1.0,0.4087
+269,Oosiyasi nìn cūtìi jáń nì Fiiliistii yab.,"Osea, neciety genne felicia",1.0,0.6765
+270,Bíǹ di nìn kpáá punuubi dɔcooŋkaai ní ki sākaǹ punuubi ní ki nákáǹ ipiin nì tikpàlkaal.,"Bịa dinu kpaa punu be docho nke anyi, nee kesaa ka m punu be, nee ke nnaka m ipi nee tekwaalu",1.3125,0.5352
+271,Bi làá ká niin ijɔm kɔkɔ nì i-bulifi kii Meediiteeranee tiŋkuu poonee ní.,Blacka ni ijo nkoko ni iburhe ki Mediterranean eto nkupu ni,1.0,0.5085
+272,"Ní dū ndamam liitirib bita kí kūtì, ní u-sɔnsɔfiŋu ń sɔ̀ŋkì m-pɔbil.",ne do ndam litre butak kute ne uson sonfu,1.0,0.5769
+273,"Tin kɔkɔ pée bée, bi nìn pée nyí-tì dooooyee ní, ní ti nyí kun unil sée.","N'kokopé bé, bénin pé nyi té do yé na, na té nyi kuny unel sé.",1.0,0.434
+274,Unimbɔti tìì ntaayim mara mí lítí kitiŋ pu.,Numboteti ntanyi mmara melite kete,1.0,0.4286
+275,"Ama mamee, m làá dū tin kɔkɔ a ŋée kí pɔ̄-si.","Amamambei, nla tutun koko angi",1.0,0.5806
+276,Bi nìn kàan̄ Jaakɔb jipɔŋkpiliu Rubeen naakookun yab ki nóó nì bi nín pēē pēē mmaal nì adican puee.,Benin kaan Jakpa ji pɔnkpɔlɔ Ruben na kɔkɔli yaab ki nɔɔ na Benin pepe mbaal na adichampui,1.0,0.4177
+277,Fookii un Isaaki nìn cáá Unimbɔti puee di yì-tì ní u nìn mēē ki bīiǹ Jaakɔb nì Eesayuu pu tin làá dāá bàń bi-pu foolboonee.,Jacob,1.0,0.9583
+278,"Binib gbanti kɔkɔ nìn bàn̄ kí cù kujaau, ní ki nìn ŋūǹ kí ŋúb́ ŋkpamu nì agbampɔɔ kí já.",N'ebe mgbago ntụkwụkwọ n'ebe nke Chukwu ji ha nụ ka na-nwee ka nwebe nkwam n'agbamkpọ nke,1.0,0.6515
+279,"Fatiku un kɔkɔ nyáń ki fá kitiŋ man nimbiinee puee, an kaa sá sii di làá mā kudii kun poon binib làá nīn dòoń ki jáaḿ-mee.",ka tiko nkoko nye ka fura katim mani ndi ne pui. Anka asasi di la makudi kumpu mbene la ndu ka ja mi,0.9615,0.4787
+280,"Bi pāantí kpɔnɔb bin bi dūu ŋá Unimbɔti saraayee circir teebiliu pu, ní ki tùutī fitilab bin tɔ́kɔ́ sindaariya tɔ́kɔŋkaati puee kujoou kamaa.","Bụ ihe a na-akpọ na bekee bụ mberede, ọ bụ n'ụbọchị sọnde a anyị echeta tebụlụ pụrụ na nke otu a fịsịla bụ ntụkọsị ndị a bịara tụkọọ nka tụpụ ya kụọ jụọ kama.",1.4783,0.7018
+281,"U yaa láa bāańee, u làá sòoǹ m-pu, ní ni mun ń dāá lēē m-pu seera, kun puee ni pée bí m-cee doooo ŋkilkaamin ní.","Wala bane, odasuo mpu na mu ndali mpu sera. Kumpue nepebe nche do nkleka menne.",0.92,0.4691
+282,M làá lùkutī Meedeesi yab kí dū-bi kí tɔ̄ bi-pu.,ललुकते मेदेसी यब किदुब कतोब,1.0,1.0
+283,U sá utɔntɔnli un nyí ditundi tiŋan ki yáb̀ee.,,,
+284,"Nì míǹ kɔkɔee, Asaa pɔbil nìn bí diba nì ti-Dindaan ní u-maŋfal wiiŋyi kɔkɔ poon.","N'ime nke a, a sị na ọ bụghị naanị dị iche iche dị iche iche na-eme ka ọ bụrụ",1.2667,0.8254
+285,Mooyiisi nìn ŋmàn̄ marab dītam nín cāabìń deedee uŋyee yii: «Un yaa nóó marab deedeeyee kāntí difiil bi-pu.,,,
+286,Bibɔtiibi bin nìn kāl̀ abee Eedoom tiŋki pu ki wāatì ní Isirayeel yab nín kíĺ ki kàantí bibɔtiibee yiŋŋi sɔ̀.,,,
+287,Niinee ní ntam ń fàtīí gítí kitiŋin laakin mì nyánnée.,ni ne ntam mfatigyi te kete nyi la ke me nya ne,1.1,0.5227
+288,"Ní Maarii yōoǹní talaalumɔnti un bi yíì náaree, u pɔ̄ɔ̄ kudaau tikpil, ní ki cáań ki kpáatìi sītì Yeesu taaŋi pu, ní ki dū u-yikpiti ki pítì, ní kudii kɔkɔ jíń talaalu sɔnsɔfiŋu.","na mmeri ya na ntị na-alụ mụ na ụmụ nwanyị na-arị okpokoro atọ kwụrụ, m na-eje chọọchị St. Jude Thaddeus, m na-edu ụmụ nwanyị na-ekpe ekpere, m na-edu ụmụaka ji ntị na-alụ nsọ nsọ",1.0303,0.7536
+289,Bi làá dāá jī kí díkí kí ŋá ŋkpam ní boonee bí dāá cù kí nīn tòotī awaa.,"Bledaj jikdik, kien intu tawa?",1.0,0.7037
+290,Ama báà a yaa máń a-diiku ki tɔ́kɔǹ yilpu.,Ba aya mai adiko ko tokan,1.0,0.6129
+291,"Laakin kamaa ní mbunee nyim yaa pùub̄ ki bàn̄ee, tin kamaa pée cáá kufoouee làá nīn kóò niin ní kí bùtī.",na ka kama na mbu na nyim ya pu bi ka bani te kama pe cha ku fu we la nu ko ni ni ka bu,1.1905,0.4625
+292,"Un cáań kuwaŋkuluu kí ŋá saraa kí tīī-mee ń dū ŋyim kiiloobi bita, kí dū ŋkpam liitiri ubɔ nì dijandi kí búuń ŋyimee kí kūtì kuwaŋkuluuee pu.","Kuncha ku onkolo ka sirakiti me, ndu iyem kilobeta, kedu nkwam liter ubon di jande, kebu iyeme, kekutuku onkolo we",1.0,0.4911
+293,Di sá yii Unimbɔti kaa gèetíǹ bin ŋáań tibɔti kaa dàkafēe.,Isi anyi unu mbọta ka gi na mụ bọta ka dịka,1.0,0.5745
+294,Niinee ní m kúntì-mu kitiŋ pu kii a nín nyí puee.,Nne na nkụntụm kụtempụ ke anịnyepụ,1.0,0.5405
+295,Boonee ní Rooboowaam cáá Abisaloom bisal Maaka.,Bonne nuit.,1.0,0.85
+296,ní ki sòoǹ ti-Dindaan bɔkpaaŋi ŋin u nìn tīī Isirayeel yabee pu.,Israel,1.0,0.8824
+297,M dáań ki ká dinimbinaamandi bɔti tiba kitiŋ pu doo.,"Ndeka ka na m na-ama ndị mmadụ bọọtụ, ka m pụdọ.",1.1,0.6667
+298,"Sii di nìn yì-bi, ní ki dū-bi ki tīī-mi, ní bi fōō a-bɔti.",ti din yi be na kado be kati me na dofo abot,1.0,0.5385
+299,Á dū circir kɔŋkooŋŋu tundi nì ŋu-sambiliŋ nì tin kɔkɔ pée sá ŋu-wantee kí ŋúbíǹ-bi.,"A du cicikongkon tunde, nusa mbilin, nintukoko pesa nguwanti kunu bem.",1.0,0.5152
+300,"«Sii nisaaleen, tùkù Isirayeel yab kunimbɔtidii nee nín bí puee.",si ne sale to go Israel yebbe ko numbo diinde ne be,1.2,0.5
+301,Di sá yii kì nyūntì atimbun kɔkɔ ki-daam min sá ki-jɔkɔmbiikuee.,compris,1.0,0.9412
+302,» Ŋyunti gbantee ní m fātìi ká m-nilandɔkɔŋu.,ne nfatika,1.0,0.7714
+303,bifalaadambi nìn sáń ki kóò-si ní dinimbinaamandi yuntiŋu.,,,
+304,tin kɔkɔ cáá kufoouee ń jāam̀ u-circir yindi.,Tụkwụkọchaa kwa ụfọdụ jam ụchịrịchịrị,1.0,0.8
+305,Ŋyunti gbantee ní Unimbɔti yāntì utaa ŋmɔ́.,"N'ụbọchị taa, unu kpọtụrụ ya n'ụta",1.0,0.8
+306,Ní Isirayeel bɔtiu bí Joosafaati yii: «M bàà tùkū-si yii bee!,Israël botu na Juda botu Josaphat,1.0,0.7234
+307,"Idoo dicaŋkunee, Sakari di nìn sá ukpil.",de,1.0,0.9375
+308,M lī m-ban yii: «M béè iciin ki yāntì i cūtì nyɔkɔpu ki jítiǹ bibɔtiibi bin kɔkɔ péeǹ-mi ki kāl̀ dibeel Jeerusaleem tiŋkinee.,Jerusalem,1.0,0.9072
+309,Niinee ní Mooyiisi dū nlan nee nyɔɔbuŋŋi ki sòon̄ mpɔn an kɔ́ Isirayeel nikitil kɔkɔ tafalin.,"Nne, n'ụbọchị izu ụka ndị a nyọbụ nke sọọ m pụọ, a nkọ Israel na-akwụkwọta falị.",1.0,0.6
+310,- Maarii gbanti di sá un nìn kpáatì talaalu ki sītì ti-Dindaan taaŋi pu ki dū u-yikpiti ki pítèe.,"Maa ri igbante, ti sa, o ni lati je ki omi ki o si ti di nkan ti o wu ki o je, ki o pite.",1.2778,0.5467
+311,Ti-Dindaan Mpɔŋkɔdaan nín sòon̄ puee sèé: «Biciŋfitiibi kaa ti bí Teeman tiŋkin níii?,"Tuntun da amfani da na'urar su mpc, baki fiti ka taba temantinkanni",1.0,0.5588
+312,"Bi yaa nìn cáań dakaayee Leefii yab cee bí yūĺ ubɔti yil pu kí kpèèyee, bi nìn kāntí animbil kā poon ki wīikí.",,,
+313,"» Di sá ní bi pú niin diyindi yii Meeriiba nyim, an taapu sá yii <Kujaau> nyim.",,,
+314,Bi nìn tīī-u tiweendi ní ki yāntì-u míǹ u dɔ̄ ki jīǹ falaa.,Bụ nne tii ụtụtụ ụbọchị na-akwịyanụ ụmụ ya ụdọ ka ha jee ịfela.,1.0,0.8372
+315,di sá yii úǹ baba yindi di sá diyiŋkpaandi.,disaï umbaba yinde disa diyinpan,1.0,0.3824
+316,Ti-Dindaan làá dū atimbun gbanti nib kí tīī-ni ní ní ŋá-bi kii m nín kpáafì-ni puee kɔkɔ.,"Tụdin'ala dị ụtọ atụmgbamụ nne bekee tinyere nne nga bekee, nne nkwaa fụrụ kpọọ",1.0,0.7059
+317,Uninjee nìn tí ŋmāntì kudii kun bí kunimbɔtidii boonee.,"Ndi Igbo nile tukwuru m n'ike di, unu nwekwara mbotiti ubochi",1.2222,0.7391
+318,Man di sá ni-Dindaan ni-Nimbɔtiu un nyántìń-ni Eejipiti tiŋkin kí nīn sá ni-Nimbɔtiuee.,Manni sa ni rin daa ni na mboto wuyanti ni Egypt thinking ka ni sa ni na mboto wi.,1.4615,0.4429
+319,"Dū a-gaajati kí yóoń binib biluli kii binii cee, di sá yii aa nyí mbusu un di ŋūǹ kí dāá bàń kitiŋ puee.","A ka jate, kiyom be na be lule, ki be niche. Disayi anyi mbuso wundi nwu ki da aban ki tempu",1.0,0.443
+320,"Ŋyunti ŋun ti máaǹ kí fìntī ŋgeeminee bāań, di sá yii Yeesu gítintam sútì ki pìlīń-ti ki jítiǹ min min ti nìn péé péé ki fōō ki kííyee.","M'n jongen, de maker van de game is baas. Die zei: ""Jezus, geef het hem zo te geplande gegeten met mijn PP gevoel.",1.0,0.7714
+321,Díǹ pu nee bi kíǹ ki bí ti-Dindaan nì u-nibul taapu ní.,Jumppune bikkinkebe tuddan daanne inna buri taa,1.0,0.561
+322,U-na nìn sá Jeerusaleem ní bi yíì-u yii Yeekooliya.,wunɛnɛn sa Jerusalem debeyi wuyi yikoli,1.0,0.425
+323,"Di sá yii baa nyí ní ki yīntì, an pu ní bi cáań saraabi bí dūú wà ŋŋmi kí tīī ti-Dindaan ní ki cáań saraa ki ŋá kí ká ikpiti in baa nyí ki ŋée pɔ̄tam.","Dis-je, baigne-nous que yente.",1.0,0.8829
+324,"Kun puee ni kpēē ki sīŋkiǹ ti-Dindaan un bí ni-kansikinee, ki súń u-nimbiin ki bí yii ba pu ní bi nyántìń-ni Eejipiti tiŋkin.","Kumpu e, nu kpe ke sen ke tenda umbe na kaskine ke sunu bi ke bi ba pune bi nyantene e jotitene.",0.913,0.4639
+325,Kí yòon̄ yaadal wiiŋŋu gbanti ní Eedoom yab fōō bi-ba kaa ti bí Juuda yab taapu.,Ke ya da wuri gwanatin Edo me ya sa ba ba ka ta ba Judah ya fita,1.0625,0.5323
+326,"Ti-Dindaan, ŋma di ŋūǹ kí kàl̄ a-circir kɔŋkooŋŋun?",Tiddim da ngual ngong kik kal a chircho kon khawng,1.25,0.641
+327,An kaa cáá yii ditafal pílifì tibɔti ki bál̀.,ka chai,1.0,0.8571
+328,"Nimbee, ŋámaan tin kítì ki ŋān̄ ti-Dindaan nimbiinee.",Nambe ngamathanga,1.0,0.7857
+329,"Ni nì ni-nabiyaamu ń bɔ́ntí ni-ba kí nīn bí circir, ní kí cùú yòon̄ní ti-Dindaan, Isirayeel Nimbɔtiu dakaau kí cáań laakin ní m bɔ́ntì kí yóoń-uee.","Nne nne nne bia, m buo ntụ na be gị na mbido echi. Nne, ka chuo ya na ntị dị ndụ, ị sị ya na m bụ otu dika a. Kụọchaa aka nne, m buo ntụ ka m yoo",1.4615,0.6161
+330,Binib lì yii Isirayeel tiŋki tɔ̀ntī ki-nib ní ki kù bi-biyaamu.,"Bënë bëlli, isra'a tàn ka tòntò ka n'bè, nè ka kòbè biyam.",1.0909,0.5102
+331,Ní m ká circir tiŋki Jeerusaleempɔɔn nyánní Unimbɔti cee yilpu ki kpákatìń ki ŋān̄ kii unimpucaan di fùl̄ nnyim ki cí u-calee.,Jerusalem,1.0,0.9109
+332,"Ama u nìn nyàab̄ ti-Dindaan, u-baa Nimbɔtiu, ní ki nìn tɔ́ u-marab.","Amaghị m onye ya bu, biko jụọ ndị a nọ ebe a n'ụlọ ụka.",1.1667,0.7708
+333,Ba pu ní ni yōoǹní-ti Eejipiti tiŋkin ki cáań-ti ki tɔ́ falaa nee poon?,Bapu ne niyojan te Egypt tanki kachiyan te kachha fulani par,1.0,0.5741
+334,Cilinjee bin pu m sòoǹee di sá bin pɔ̄ɔntí ki sòoǹ Unimbɔti bɔti ki dàkà muee.,"Chilienje, bampo nsone disá, bampóte, esóo nu mgbatú mgbatú, kedaka mu",1.0,0.5574
+335,Bin u nìn lēē ki túee di sá Been-Ayiil nì Oobadiya nì Seekariyawuu nì Neetaneeyeel nì Miikayawuu.,"Bienvenue les petits, je suis Ben Ayel, né Obadia, né Sekri à Hou, né Netanel à El, né Mika à",1.1765,0.5063
+336,A wùn̄ diwaal Aseera windɔi Juuda tiŋki kɔkɔn ní ki nyàab̄ ti-Dindaan nì dipɔbil diba.,A wondo wa asera wondo yi judatunga kokoni ni kunya baci junda,0.9333,0.5441
+337,» Ama ní Daafiidi jáń ki fōō Siiyɔn tiŋki laakin bi nìn máń digundi ki túee.,Amna David Jankeh Foday Sanyang,1.0,0.7627
+338,"Ní bi dɔ́miń ki kpáfì ki māntìi tú Mooyiisi nì Aarɔn, ní ki bí-bi yii: «Ni nín ŋáań puee gíti lákatì tikpil!","ne bido m ka kpafe, ka m tee to Moses na Aaron ne kebi. Nene m hapu igwe na lageti",1.0,0.5802
+339,U-ŋambiyaamu nì u-taŋambiyaamu kɔkɔ nìn nyáń mmuŋku nì munaa dee.,Unu aghotago ihe m na-ekwu?,1.0,0.8302
+340,Ama Adam yìntitam nín cáań-ti tiŋyee kaa pēē nì tin Unimbɔti pūǹ-ti faalaayee.,amma Adamiyen tetam ne caante te nye ka pe ne te unu mbotu ponte faala,1.1538,0.4444
+341,M làá yàntī á nyā diyindi kii kitiŋ pu bɔtikpaambee.,,,
+342,«Un yaa cáá ditafalee ń pīlifì Unimbɔti Fam nín sòoǹ nì Kriisitoo nikitiŋ puee.,we are,1.0,0.9375
+343,"Nnimpulaakpaamu kɔkɔ fòol̄ a-nimbil ní, ama siiyee, a pūǹ a-bɔmbi tiwan ní ki pà-bi bí nīn nyēeń an kɔkɔ pu ki dòoń ki dɔ̀ nì si.",N'ime pulakwam nkuko fulu ana m bilu na amasi ya apu m abuo mbu otu nwanyi na-ekpa bebi na-enye ya nkuko pu ka doo ka donso,1.0,0.4792
+344,"Bi làá nīn tùutī talaalub ki tìì-u, ní kí nīn pāantí kpɔnɔb bin bi dūu sú-uee baabadal.",Bilan tchitchi la love kitchi,1.0,0.8358
+345,U nìn gíti ŋmāntì kii ndɔŋmantikaayee kutuku pu ní ki cáá-mi ki dūtì nnyim.,,,
+346,«Man ni-Dindaan Unimbɔti di bíi sòoǹ yii: Kpèèmaan Jeerusaleem tiŋki!,"Mmadu ndị na-adịghị mma na-ebisoyi, kpe ma Jerusalem",1.0,0.5714
+347,ní bí kpú kaa kpáàa ká iciin.,na bụkọ kapa aka ịchị,1.0,0.5909
+348,"An yaa sá fám, unil sá ba?",አያሰፍም ወንድልሰንባ,1.0,1.0
+349,ní binimpoobi ń gbèen̄ dinanal bi nín kaa ti náaǹee pu.,"Ndi binu mpo be ngbe ndi na nnal, binu nkata na",1.0,0.3953
+350,kii bi nín yaa kītì ɔliifi subiliŋ.,की बने या कते ओलीफ़ सुबलंग,1.0,1.0
+351,"Baa dū bi-nikpaakooŋu, nì bi-nyɔɔjil, nì bi-laakpaati nì bi-naayufii ki fá.",,,
+352,"Dibindi tú an bàn̄ ŋyunti ŋun bibɔtiibi nyēē ki cáà kujaauee, ní Joowaab līntì Isirayeel janjaliibi nyɔkɔpu ki cūtìi nāaǹ Amɔn yab tiŋki kɔkɔ.","Onye bende to amaghi etu e si ebubo TV nye, ka o bia kuja wee ni juo bende nti, i si ya i janye ya ibe na o puo ka chiti na amaghi ya",1.4167,0.6552
+353,"Ariim jipɔɔn Maalkiya nì Paati-Moowaab jipɔɔn Akuub di nìn ŋáŋkì digundi janliliitiil, nì Mpaamu difɔkɔku.",Arim du pont Malikiya ne pas de moi du pont à Kube de,1.0,0.7528
+354,"Saloomɔn nìn kàan̄ binicambi bin kɔkɔ nìn bí Isirayeel tiŋki puee, kii u-baa Daafiidi nín nìn kàan̄-bi pu ŋyunti ŋun u nìn sá ubɔtee.","Soro mụ na nke a, biko, biko, biko, biko, Israel, tịnkpụị. Kị ụba David nụ nụ ka ha bịa pụ. Ịghọtago? Ụnụ so ụbọchị",1.0,0.6538
+355,Tin m cáá kí tùkù-see sá ibaamɔn páaa ní.,Incha que tu cousais ça y va mon pain.,1.0,0.6774
+356,Bi fookiiu un bi nìn cáá Unimbɔti puee di yì-tì ní bi nìn jáà ki pɔ́ɔkiǹ bibɔtiibi bin kíǹee nì bi-timmu.,"Bụrụkwa ịhe ọ bụla ị na-eme, jiri obi gị niile na-eme ya, dị ka onye na-ejere Onyenwe anyị ozi, ọ bụghị mmadụ.",1.0476,0.9259
+357,Ama ní ti-Dindaan tùkū-mi yii: <A jáń tijakpaandi tikpil ki kūū binib tikpil.,"A ma ni ti di n daa tu gumi yi, a je n ti je paadi, ti ku bi ni, ti ku",1.6154,0.3833
+358,"Gaadi naakookunee, Eeliyasaafi jipɔɔn Deewuyeel.","Garde nationale du Niger, Elia Saaf, du pont de",1.8,0.619
+359,"» Ní taa yàntī tikpitil ń pɔ̄ɔkiǹ-ni, nimbi dūmaan tiŋan kí pɔ̄ɔkiǹ tikpitil.",,,
+360,Ú dāá dī kipunyɔkɔee kí jītí kuditaakaau kun bí niinee kí kɔ́ ní kí fàtīí dī niin kí nyā.,"kudadeka piny oko yika jite, koda taka okombe ni ne koko ne ki fati di ni",1.0,0.5652
+361,Tibɔti tin bíi jītí kɔŋkɔnnee nìn pée jítì dooooyee.,te bɔte tembi ji te kɔnkɔn ne ye ne mpe ji te do ye,1.5556,0.4186
+362,Ama bíǹ dūú kpántí bilambidambi ní.,"Amma, b'n do kwante b'la b'da b'ne",1.1667,0.4828
+363,nì nyaaŋmaliŋku nib bin kóò bi-kansikinee.,ne nyang balong ku ne be ben ku,1.3333,0.6571
+364,Bi nìn yìin̄ Juuda timmu kɔkɔn ki kóoǹ Leefii yab nì Isirayeel dicaŋŋi kpilib ki kpáfì.,,,
+365,"Abiiya nìn jɔ́m̀ Seemarayiim jool din bí Eefiraayiim jooŋŋi puee ní ki bí yii: «Jeerooboowaam nì Isirayeel yab kɔkɔ, ní pīlifìmaan.","Abia njem si Maria julu dimkpa Ephraim jonwepu, n'ike bu iyi, jurubuam na Isarael ga-abu koko na perfume a.",1.0,0.5524
+366,Míǹ boonee ní Daafiidi tīī Isirayeel bɔtibiliŋ kɔkɔ mara yii bí tūtuǹ u-jipɔɔn Saloomɔn.,"M'en bon yené David té Isaïe, coté billon coco, méréyé bététè Ojupon Salomon.",1.0,0.5479
+367,Joowaasi jipɔmbi nì bi nín fōō Unimbɔti cee tibɔti tin ki nāatì-uee nì u nín ŋáŋkì ti-Dindaan Diiku puee kɔkɔ ŋmàn̄ ki kā bibɔtiibi gbɔŋkun.,"Ndi be nụ, unu gbotacha tupu unu tinye aka na nkeji nke abụọ nke akwụkwọ a.",1.0,0.8036
+368,"Kɔŋkɔnnee, ŋmàmaan nlan ŋun m làá dàkà-ni nee nyɔɔbuŋŋi kí síiń.","Conakry, Guinée",1.0,0.8824
+369,"Ní Mooyiisi yōoǹní ikpandɔee kɔkɔ ti-Dindaan nimbiin ki cáa nyántì ki dàkā Isirayeel yab, ní báà ŋma fātìi yōoǹ u-kpandɔŋu.","Na mụ onwe m bụ onye ụkpụrụ kọkọrọ na ndanda m bịa, ka m chaa nyọọ ntakịrị ka m si na ya bịa. Na ba m ma fụtụọ ụkpụrụ m.",1.5,0.67
+370,"Kii bi-landɔkɔi nín sá yii Unimbɔti kaa máaǹ bí béé-uee puee, Unimbɔti dū-bi ki líì, ní bi-landɔkɔi gátì, ní bi kíǹ ki ŋáań min kaa máaǹ bí ŋée.",ki blando kae nesa'i unu mbot kama bebe wepui unu mbot dubu kili ne blando kae gata ne be kae ka nga mka ma bngi,1.0,0.4954
+371,"Tin bi nìn dɔ́miń ki máafì Mooyiisee sèé: «Ti nín bàn̄ kitiŋ kin poon a tú-tee, tiŋman nnaabiim nì tisiil còol̀ ní.","Tena mbanem domem kam afom osisi, tenem ba nkiten kem pu atuti, tenwa ina bi m tisi choro.",1.0,0.5698
+372,Peedasuur jipɔɔn Gamaliyeel di nìn sá Manasee naakookun yab janjakpiliu.,Peda Suruj Puan Gamiel din samana si na kokoni ya wujakwalu,1.1,0.4194
+373,A-maan di sá Samaarii ŋgan pú tiŋki ki kpáaǹ ntimbilimu mun māntìi tú-kèe.,"Amma wannan samari ngam putunke, kpa ntimbiro mumanti tuke.",1.0,0.4576
+374,"Ti-Dindaan gbìl̄ee ní ki fōō diŋuul, ní ki yāntì u-ŋmiŋu dɔ́miń ki wùn̄ bi-naapaal kpaanceetii.","Tidim da angbele na ka fodungo, na ka yanti ongmo domi ka wonbi na pal pancheti.",1.0667,0.4384
+375,"Báà bi yaa dɔ̄ bi-dooŋu puɔɔɔ, bí nīn gà ilan nì dipɔɔpindi!","Bà bị đau bụng quá, bên ngã y lạy nên đi bệnh",1.0,0.7111
+376,"U nìn dɔ́miń kí sòoǹ nì binib ŋwalifi bɔti, án nín làá ŋá pu báà ŋma ń dī u-pu kí fōō kí kííyee.","bu na ndemeyi, ya so na nwafo gbatara. Ba ngwa m pulu fu nu ka m fu nwafo",1.0,0.7571
+377,Icoo nì ntimbiil tuuŋŋi ŋin a ŋée paati dee.,ngi cho ntim bi tung ngi agé pat de,1.0,0.5143
+378,«M làá yàntī Eelam yab wunti.,"लज्जा एवं यब, बी यल कोको अंकोको पु, लज्जा का एवं यब, न्तम कोकोय, लज्जा न्तम एवं यब वन्त",3.1667,1.9545
+379,Unimbɔti kaa ŋūǹ kí ŋá tikpitil dalba dalba.,un nombre te cae muy que no te pete el,1.25,0.8056
+380,Baa kàan̄ Kooree nì u-naacimbi bin nìn kpíìyee ki kútì poon.,"Baka, kure na chimbe benen kwiye kokotopo.",1.0,0.5106
+381,U yāntì ti kɔ́ digugufil poon.,ụngá ịkwịte na gịgétè yị́kè ka akị́ ụbàpụ́ ka bị́ ị́jà na ụlọ́ mgbọ́tè ka agwè ntị́ ụyà ntị́tọkọ́ dị́ gụ́gụ́ fẹ́lụ́pụ́,3.6667,3.1304
+382,Bin mun nìn bée di sá Maseeyawuu nì Seemaya nì Eeleeyasaar nì Uusi nì Yoowanan nì Maalkiya nì Eelaam nì Eeseer.,"Bé mụn mbe, Ésa, Maséawu, né Sínaya, né Éliasar, né Us, né Yohanán, né Malkiya, né Élam, né Éser.",1.0,0.4667
+383,Bi nìn nyáń binib kutukub dilaataal nì imuŋku ili nì saalaa nì bita nì binib alaataa aluu.,"Beni ne beni kutukube, alata ne imu kili sala ne beta ne beni alata alu.",1.0,0.3836
+384,"Kí wàatī bí kɔ́ kunimbɔtidii poon cindinee, bi máaǹ kí dū bi-wampeeŋkaati tin bi dū iŋaabu in bí fálfal ki jàkēe kí pèen̄.",,,
+385,Án nín làá ŋá pu ní nimbi nì ni-jipɔmbi nì ni-naantiibi ń dāá fàŋkì ti-Dindaan ni-Nimbɔtiu kí nīn tɔ́ u-bɔkpaaŋi kɔkɔ nì u-marab bin m tīī-ni nee iwiin in kɔkɔ ni cáá kí kàl̄ kitiŋ puee.,"Nna m lagapu, na mbede njiri pụta mbe, na m na-atụ egwu na ọ ga-afanye m n'ime ọhịa, na m ga-anọrọ ebe ahụ ruo mgbe chi jọọ.",0.9722,0.7943
+386,Úǹ baba di sá un kaa yūlifí bibɔtiibi boonee.,"Beba, de sa un ca yulfe be boti be bone",1.1111,0.4444
+387,"Nì míǹ kɔkɔee, baa ŋūǹ kí béé tin kɔkɔ Unimbɔti ŋée.","Nnem kọkọrọ, baa nwụọ nke be etenyere kọkọ unu mgbe tenyere",1.0,0.775
+388,Man nì samaa kpilib dijandi din nìn nóó-mee mun nìn kɔ́ ki yúl̀.,Manna sama kulbe di jande de neno me munnu,1.0,0.4792
+389,Fōōmaan-u ti-Dindaan pu kii Unimbɔti nib nín máaǹ kí nīn fòol̄ tɔb puee.,फोमाओ दनदांपो,1.0,1.0
+390,Bi nìn yú dibeejal nì Dipibil nimbiin ki pēē abɔkutipiin káŋkaŋ ki ŋúb́ tikpakpati bi-ŋaan.,"Bé na yuu bé jel, né né pé bé né mi kepé abog té pi kan kan. Kon wu té kwakwate bé nga",1.5333,0.5811
+391,Báà ŋma ń nīn ŋúb́ u-janjawanti u-ŋaan kí dāá nàan̄-kì.,Bàng ma'a ìnùngùbò ùjònjò wàntà ùngà kà dà nnà,1.0,0.65
+392,Di sá yii aa làá dū-mi kí fá ŋkúm ń yòon̄-maaa.,"Desayi, ala dum kafa nkom nyo ma",1.0,0.5152
+393,"U-Jipɔɔn kúm di ŋáŋkì ti-kansikin, ní ti mɔ́ɔkì.",,,
+394,"Míǹ boonee ní ti-Dindaan kpáafì Nuuni jipɔɔn Joosuwa ní ki bí-u yii: «Pɔ́ɔǹ a-ba kí ká dipɔbil, di sá yii sii di làá cáá Isirayeel yab kí kɔ́ǹ kitiŋ kin m pūtì ki pōoǹ kí tīī-bee poon.",,,
+395,"Bi bíil̀ m-circir yindi, di sá yii bi ŋá ntimbiil tuuŋŋi.","Bibi,",1.0,0.907
+396,"An puee, m làá dàkà-bi yii man di sá Unimbɔtikpaan nì circirdaan.",A m pụghị ịla dị mkpa. Ihe mụ na gị na-ekwụkwa na-echeche da,1.0833,0.7255
+397,U ŋá ikpiti ní ki gíti yíkì kaa kíí u-ba pu.,"so nke unu kwete, si be gi tinyere gi na ubochi na-esote anyi. O na-ekwete na gi na ya ike ka a kii uba",2.1818,1.875
+398,"Ni làá fàtīí kpɔ̀ tikpaatan tin ni nìn dūu fée, bisanjitiliibi kaa làá ti ká yii bi dū tikpaatan ki fá.","N'ala Fatick, tupu atụgharịrị ya n'ime ndụfe, bishọp jere dị ka onye na-elekọta ya.",1.0,0.75
+399,"Á taa kpákáǹ binikpaambi, báà a-didooŋkaakun.",A takwa ka anyi bido kwa mbe ba adiro nka,1.6667,0.5946
+400,"Unil yaa pée wál̀ u-nyiŋŋee, dinyoondi cútí-u ní.","Onye ya pe uwa, onye nge de nyu nde chutu nu.",1.375,0.5676
+401,Ní ntuun ŋubɔ mun dɔ́miń ki yúl̀ nsaraafan cee ki ŋúb́ sindaariya sambiki kin poon bi ŋáań talaalu ki tùutēe.,et tu ne veux pas me demander que il est à la pancarte que nous sommes derrière son vélo qu'on peut bien trop le tutoyer,1.25,0.8721
+402,Ŋyunti ŋun Amasiyaawuu beel kāl̀ tiŋan ki báaǹ inyaanee ní u kūū u-janjakpilib bin nìn kūū u-baa ubɔtee.,"Ehen, etu a m si ya wee bilu, ka m tinye ka ba ya na oku ubochi nke mbu ubochi",1.1111,0.6747
+403,Anibul gbanti nyáń aluli ní ki sá akpaan ki pɔ̄ɔ̄ ki jítiǹ-ni.,"A na-ekwu gbasara ya alụlụ, nke si akpa nke pụọ nke jikọtara.",1.0,0.617
+404,Dikitililiitiil làá nīn cí dibeecindi ní ditataatiil ń nīn cí Dinyeel punyɔkɔki.,"Nke a bụ ihe m na-eche gbasara ya. N'eziokwu, m na-eche na ihe a bụ ihe ziri ezi.",1.5,0.8676
+405,"Ni yaa bàà sá duulinya yabee, duulinya yab bàà néeń-ni, kun puee ni sá u-yab.",Nia ba sa du nya ya be du nya ya ba mini konpwe ne sa uya,1.0667,0.431
+406,ní kitiŋ kɔkɔwoooo ń kpántí a-yaka.,neke te nkọkọ wụ nkpa nte anya,1.1667,0.5714
+407,An puee ti-Dindaan bí yii: «Iwiin iba bí ki dòoń m làá yàntī bí gbìl̄.,"N'a puille, t'es dans bi, iwi ibabé kédô, n'la yanté",1.0,0.6275
+408,Bi nìn lī tɔb cee yii: «Daafiidi làá fàtīí gítí u-kpiliu ukpiki Saayuul cee ní kí cáá-ti kí líiǹ-u!,David,1.0,0.9467
+409,ní tasa kúti bí kii ndɔ ŋun bùkūee.,nita sakute biki ndo ngumbu,1.0,0.5185
+410,Baa pée pɔ̄ɔ̄ dimatil kii kugbuluŋgbuŋŋuee ní!,Mbape pour de matel qui,1.0,0.7568
+411,"M yaa kaa bàà dɔ́miń ní kaa bàà sòon̄ nì bi, baa bàà cáá ikpiti.",Ya kaba domin ki so ni be. Ba ba cha,1.0,0.6087
+412,"Ní ntuun ŋun yú ki sòoǹ nì mee ŋúb́ tiwaŋŋmantikaal, sindaariya kaluuku, kí ŋmàntī kitiŋee nì ki-punyɔmmu nì ki-guŋŋi.","Nna m ukwu, mụ na gị so n'eme ngwụcha nwa ntịkaala. Sị na arịa kpamkpam anwụ. King Martin tinyere m na mkpụrụ obi m na m na-ekugunụ",1.4211,0.734
+413,"Gaayusi un dumpu m kóòyee, nì un dumpu Kriisitoo nikitil kɔkɔ kpáfée, jáamiń-ni.","Gaius, Undenfu Nkoye na Undenfu Kristo na",1.0,0.625
+414,Unandaan un còom̄ disaŋkimmɔntiil binifoobi kansikinee úǹ páatì ba?,Onan da wun choo m'di sankomantul bene fo bekans kene wun,1.2222,0.4737
+415,din kā ŋgbansɔŋfin.,"Turen dambe, yika ma ka cujan da tembonde den ka ngban sonfi",4.0,2.375
+416,Kipunyɔkɔ kiba nìn bí ŋgan pú ní kiba mun bí ŋgiil pú.,,,
+417,"M dū-kì ki ŋá atimbun kansikin, ní ntimu māntìi tú-kì.",,,
+418,«Á taa mɔ́ɔ́ diwaal diba kí nántíǹ tiba tin bí yilpuee àá tin bí kitiŋ pu taapu dooyee àá tin bí nnyimin kitiŋ taapuee.,"A ta mọ́dù wà d'ebá, k'ínná tìntìn bá tìnbẹ́ yí r'epò. A tìnbẹ́ k'étínfù t'àfúduyé. A tìnbẹ́ ínjímín k'étínfù t'àpúyé.",1.0,0.6413
+419,"Ubɔ kaa ŋūǹ kí lì yii unil fooku kúǹ jɔ́ḿ yilpu yilpu, ama ní kuwaŋkuluu kúǹ yɔkɔ sìntī kitiŋ taapu taapu.","ka nwoke lelee onere ufoeokwu kunjo ya epu yoropu, amani kwa wa nkulu kunjo ko sinte kete nte aputapu",1.0,0.5422
+420,Míǹ boonee ní u gíti dū animbil kúti tɔɔnib bita ki mēē Isirayeel beel poon bibaatandambi kutukub dilaataal.,"M'boni ni ugutujo, anibekute to nda be bita. Kinbe isaya bilipong, m'batandambe kudukube delata.",0.9444,0.4667
+421,"Sii un tìì binib kunyannyaauee, a mun ń dū a-ba kí tīiǹ kunyannyaau ditiil.","Si u nti benevu kunyanya we, amu ndu abaketi kunyanya oditi",1.0,0.3559
+422,"An puee á ŋmà tin a ká nee, nì tin bí ki jītí nee nì tin bí boon ki dòońee.","Amapu e, mma, tee akane, ntembe ke jiti ne, ntembe bu nkudu ne.",1.0,0.537
+423,"Saalaa nì ululuuti di sá Ananiyawuu, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.","Ça va, et vous ?",1.0,0.9286
+424,"Too, kɔŋkɔnnee, an kíǹ á túń a nín fá a-jilmau puee cooi dee.","To, comme on connaît, un coup, un coup, on ne fait pas injure ma poupée.",1.1538,0.8889
+425,"M fātì kí kpèè yii ŋma di sòoǹ m-boonee, m kpēēyee ki ká fitilab tɔ́kɔŋkaati tiluli yú ki sá sindaariya.",kikpe i mdiso mgbone nkpeye kekatewa ntimpu kpetukonte kpetilabe beloloyu kesazina,1.0,0.7037
+426,Man ni-Dindaan Unimbɔti di sòon̄ míǹ.,Malamin da ununboto disuomi.,1.0,0.4483
+427,u-ŋuul fooku di wù-bi kii ŋŋmee.,ngulu foko duwube ki inwe,1.0,0.5417
+428,A bí kii unimpu un néeń binicambi ki jítiǹ u-calee ní.,अब की उन पुनी बिन चंब किजित उचले,1.0,1.0
+429,An kaa sá m-gaajakpaanti di nìn tìì-mi mmɔn.,Ankasa ngaja kwante di na nti mmuo,0.875,0.3824
+430,"Kì nìn túuń sindaariya falfatib nì abeedimbil nì idiŋfi in pɔ̄ɔ̄ kudaau ki jìl̀ee, kukúbambaantiiu ja poon ní bi dūu kúntì ki-gaajati kɔkɔ!",,,
+431,"«Tiŋman, m làá yàntī sii Eedoom.","Tụkwanụ, na-aghọtaghi edemede nkpa ntị olu nke ka anụbulu ka nsị. Kete nke na baa ngwa",2.6667,2.4167
+432,man nì mpoonnyoon dambi kaa cáá nnyɔɔpee.,M'an m'pò nyu dambé kacha nyopé,0.8571,0.5
+433,Niinee ní Daafiidi fōō-bi ní ki dū-bi ki ŋá u-janjakitil kpilib.,"Ina da bidiyo fube, na ka duba kanwa wajan jakata.",1.0,0.66
+434,"Daafiidi máń u-ba adiin laakin bi yíì yii Daafiidi Tiŋkee, ní ki bɔ́ntì mpaan ŋubɔ ki cóoǹ tanti bí cáań Unimbɔti dakaau kí síiń poon.","David mee uba adịghị ka nke mbụ ya. David tinyere aka n'akpa uwe ya wee chọọ tente, bechaa ụlọ mgbidi dịka o si mpu",0.96,0.6321
+435,Leefii yab bin kíǹee nìn līntì ki cūtìi bíi cōontí circir kɔŋkooŋŋu bi-yab ń nín bàń.,leef yaa benkene nen lente,1.0,0.7794
+436,"Dinyeeliliitiilee mun jannaatiliŋ nìn ŋmà ní, ní dijandi diba fɔkɔŋŋu nìn sá ndɔŋmantikaayee ŋubɔ kpá saalku pu.",Diye lili tile moy janna telen nen mane ni di janna de ba fokon nen sa ndok mati kay ngubok pasalku,1.2353,0.4043
+437,"U gà ilan samaa nimbiin ki lì yii: «M nìn ŋá ikpiti, m nìn yīntì mara.",iga ịla nsamanụ b'ịị kịlịyị ị na ịkwete ị na ịyị ntị,1.0,0.6078
+438,"A yaa nìn kíĺ taapuee, a nìn jɔ́ḿ adiin ŋin tɔ́kɔ́ taapu yaŋ puee ní kí nín bà ŋin mun gíti tɔ́kɔ́ kansikin yaŋ puee.","Ayanan kilita pui, anan jom adi ngin toko ta pui yang pui, ne kinemba ngimu ngite toko kanskin yang pui.",1.0,0.4419
+439,ubɔti un ní úǹ u-ba lēēyee dijajil.,ụbọchị 1 ọnwa ole na ole dịgaa,1.0,0.8519
+440,Di sá yii úǹ pée bí ní bi nín màl̄ man.,እስኪ ኦንፔይ ብን ብለን ማልማት,1.0,1.0
+441,Kudiiyee nì isan in bí ku-jaŋŋi liitil puee fɔkɔŋŋu nìn sá kukaluuee fɔkɔŋŋu dilaataal pu.,Kediye ne ise yim beku jang litre puy?,1.0,0.7432
+442,Niinee ní Mooyiisi bí ti-Dindaan yii: «Ba pu ní a yòontí m-pɔbil míǹ?,"Nne, na mụ bụ onye veteran na-anaghị, biko na-ayọ m, nsogbu adịghị.",1.0,0.7308
+443,ama ní ki cáá dibɔmbɔndi ki bìintí tiŋku taapu.,A ma ni ke cha de bonbon de ke biinte tunkuta.,1.2222,0.4474
+444,"Kii u nín nyánní u-na poon dicancaŋgbeel puee, míǹ ní u làá fàtīí gítí.","Ke unyanya unapu ocha ncha gbelu pue, m'ene ula afata igit",1.0,0.5091
+445,"Ŋyunti ŋun Seekariyawuu un nìn dàkà-u ú nīn fàŋkí Unimbɔtee bí dimaŋfalinee, Oosiyasi nìn nyàab̀ Unimbɔti ní ki yú nì u deedee.",,,
+446,An nín dī min ní Saayuul nì u-jipɔmbi taatil kpíìyee dee.,"Anan da muke sauri ne mu je pombe, ta tafi ƙauye da",1.0909,0.5778
+447,Kitiŋ gbanti cáá ntimu mun sá ŋkpaamu ki ŋān̄ naa máńee.,Kedu onye ga-enyecha m ntị mụ nụsị mkpa mụ ka m na-amanye?,1.0909,0.6818
+448,"U-fookiiu puee, nì min kɔkɔ u kpíìyee, u-bɔti bí bi sòoǹ díǹ.",fọkị ụgbọelu na mụ onwe m bụ onye ụgbọelu. Ụgbọtebe bụ so ndị,1.0833,0.8222
+449,Báà ŋma ń nīn nyí u-ban yii min u ŋáańee di máaǹ.,"Bàng ma ìnì nyè wù bàng, yè ma wù ngàne dì ma.",1.0,0.6667
+450,Dalbee ní u jítìi kɔ́ ti-Dindaan Diikun kí tūū talaalutuukaa talaalu saraafaŋŋu pu.,debe nu udi ti court dindam jikwin ketu talatu ka talatu,1.0,0.5882
+451,Rubeen naakookun yab janjakitil nì bi-falaŋkau di nìn páaǹ bi-boon.,Ruben na kokuniyaba jenjeketer na be filan kawo di na paan bu,1.1,0.4545
+452,Anuun nì Amɔn yab ká yii Daafiidi kaa làá dū tin bí ŋée kí pɔ̄-bi.,Anu na amaghi ya ka eji David,1.0,0.7347
+453,Di sá yii ditimbundi diba nyánní ŋgan pú.,"N'saii, n'tembonde de ba, nyan n'ga",1.0,0.4848
+454,Isirayeel yab ń dāá dū ŋfantamee kí kpāafì kí dāá dūú ŋá nnyim min bi cáa lèekī binib nì tiwan pu tijɔkɔndee.,"Iche na ya bụ ịda dị mkpa me ka ị kwụsị. Ịda dị ṅa ịnyịm, me bicha le ka ị bịdọbịdọ tịwa mputa jọgọnde",1.0909,0.6207
+455,U nìn páb́-u yii ú kūtì u-pu bí cùú já nì Ramooti tiŋki kin bí Galaadee.,n'a pas voulu écouter pour mettre au jeune la moto tankant bé galade,1.0,0.7547
+456,"A yaa sòoǹ tikpilee, a sòoǹ tibɔti tin kaa cáá taapuee mun tikpil ní.","A sọntụ kụlẹ, a sọntụ bọte tẹnkachata pụe mụntụkụlụ",0.8571,0.5556
+457,Naa làá ti gbìl̄ atimbun ŋin kíǹee beelii àá ŋi-siibiliŋ pu.,"Naa laa tegbele, atembon kene beli, a ngisi belinga",0.9091,0.4894
+458,Amasiyaawuu jipɔɔn Oosiyasi nìn cáá abin saalku nì diba ní Juuda yab kɔkɔ dū-u ki kāaǹ dibeel u-baa yil pu.,Amaghị m ihe a bụ ji pọọụ ma ọ bụ si asị. Ncha a bụ nsị ala kụrụ na Dubai. Nụ jide ya kwụkọọ dika kaanụ. Dubai dị n'obodo Arab.,1.5,0.7176
+459,kí ŋmā kí fīī udaan maŋfal kí nyāntí ditaŋkpiilin.,Kengue makafi o daman fal kenyan te de tanquile.,1.0,0.561
+460,Ní usaraaŋakpil Eeleeyasaar ń lēē fatiku kí dū u-ŋambiki ki sēē fatikuee kí yàaǹ circir kɔŋkooŋŋu punyɔkɔki pú ŋfunyɔm miluli.,,,
+461,"Fìntī kí tíkiń tin dáá bí a-ni kaa kpíì ama ki làá kpúee, kun puee maa ká a-tummɔntiŋ aba m-Nimbɔtiu cee.","N'oge dị nso nso a, ọtụtụ ndị ọchụnta ego na-eji ụdị teknụzụ a eme ihe iji melite ahụmịhe ndị ahịa ha.",1.0,0.8625
+462,"Ti-Dindaan yaa yú ti-boon, u làá kɔ́ǹ-ti ki-poon kí dū-kì kí tīī-ti.",Tiden da jeg YouTube,1.0,0.7917
+463,Unimbɔti dū u-Fam ki ŋá bikpilib imuŋku ita nì saalaa pu.,Odon bota do ofam ka nga be kwalbe imu kita ne sala,1.0909,0.5333
+464,Dū a-janjajiki kí fīī-mi kí nyāntí binikpitib ŋaan.,ajanja jike ke fime ke nyante bene kuta,1.0,0.4634
+465,Deewuyeel jipɔɔn Eeliyasaafi di nìn sá Gaadi naakookun yab janjakpiliu.,"Deuil, je prends Ilia Saf, de ne pas garder la",1.0,0.7049
+466,Isirayeel yab kɔkɔ yíkì Kadeesee ní ki búntì Ɔɔr jool pu.,,,
+467,"Kanaan naantiibi di sá Jeebusi yab nì Amɔɔr yab nì Giirgaasi yab, nì Ifii yab nì Arkii yab nì Siinii yab, nì Arfaadi yab nì Seemaar yab nì Amati yab.","kanananti budisa, jibusiyabu, na amoyabu, na gilugasiyabu, na ifiyabu, na arakiyabu, na siniyabu, na alifadiyabu, na simayabu, na amatiyabu",1.0,0.3675
+468,Di sá yii ni sá dinibul din ti-Dindaan ni-Nimbɔtiu u-ba yèe ní.,Jiya sai na sa ta da boden ta da danan mota uba yayi,1.0833,0.6042
+469,"Kutaa wúntèe, kunipaau kun nìn dɔ́miń Dilákatil jiŋaaliuee gbìl̄ yii Yeesu dòoń Jeerusaleem.",k'awụnte k'onepao k'onendọmị jịngalị bulịị yesu doro,1.0,0.6447
+470,"Doo nee tiba nì tiba kpá, ní ti bí ki dúntí, kun puee taa ti pée kāntí tiba kí jī ki kútì maana pu.","Donne-t-on une telle bakwa, ne te bloque d'autres, on peut taper quand tu te bats qui j'ai que coûte ma",1.0,0.7671
+471,"M mèé-si binib bin a tīī-mi nee pu ní, kun puee sii di yì-bi.","Mese bennebe be achi mene pune, kumpe siri yibe.",1.0,0.5349
+472,"Kii m-Baa nín néeń-mi puee, míǹ ní ma mun néeń-ni.","Ke mbanne nne m pụe, m nne mụọ mụ nne.",1.0,0.5278
+473,A-naal di sá Soodoom ŋgiil pú tiŋki nì ntimbilimu mun māntìi tú-kèe.,"Anaa disasudom, ngiri putenke ne ntemblen mu manti tuke.",1.0,0.4259
+474,M bàà là yii m-tundi ń lòoǹ abil ni-cee kii dì nín lòon̄ atimbun ŋin kíǹee cee puee.,በላይ እንትን አብልቼ ኢድንም አተምቦን ክንቼ,1.0,1.0
+475,Joosafaati jipɔɔn Jooram nìn cáá naalib pēē baa.,,,
+476,"u sá mpɔŋkpaandaan ní, u yaa lēē kí ŋá tiŋyee míǹ ní u ŋáań.","Moussa m'ponkpaan dan, wuyale k'ngatinye min unga.",1.0,0.5111
+477,Bi nìn sá bibaatandambi ní binib nìn fàŋkí-bi yɔ́kɔ́ yɔkɔ.,ብንሰብ በታዳምብ ነ ብንብን ፍራንክ ብዮዮ,1.0,1.0
+478,"Ní kutagbɔŋu wáŋkì a lì kii kukampeeu ní bi kpáb́ ki yōoǹee, ní ajoon nì ntimu mun nnyim māntì ki túee kpīkitì.",Ali,1.0,0.9655
+479,"Mooyiisi nín gbìl̄ bi bíi wòoǹ-u mimmee ní u tātìi dōoǹ dicincibil, ní ki bí Kooree nì u-yabee yii: «Fool kutaafaauee, ti-Dindaan làá fu yàntī tí béé un sá u-yɔuee, un u dūu sú u-ba ú nīn sútí ki pìl̀-uee.",Moïse,1.0,0.9737
+480,M nìn bí Patimoosi tiŋki kin dimɔɔl māntì ki túee ni ní.,1960,1.0,1.0
+481,"» M kpēēyee, ki ká utampiin, un kā-uee ŋúb́ butɔbu, ní bi cíkiǹ-u kibeefuulii, ní u búntì nì dijajil poon kí já kí jīń.","Nne kedu ka otu mpi? Nne bu chicken wu, kebe fuli. Nne, obu nti na di ja jiri pu keja keji.",1.0,0.5862
+482,Ama ní nīn nyíǹ ni-ba kí taa súntí ti-Dindaan ni-Nimbɔtiu pu kí dū u-marab nì u-bɔkpaaŋi nì u-koobiliŋ ŋin m tīī-ni díǹ nee kí fá.,"Nne m, nye m nri biko, ka m rie tupu m gaa n'ụlọ akwụkwọ. Kedụ ụmụaka ndị ọzọ nọ n'ụlọ akwụkwọ? Ọ bụ eziokwu na taa bụ ụbọchị ụlọ akwụkwọ?",1.2,0.8776
+483,Bí dùntī-mu kí gbá kí kpátí kí wàan̄ bí nīn cáa bìintí nsaraafan pu.,"bi duntum, ka gba ka kpata ka wa, bi ni ca bi nti",1.0,0.5577
+484,"Ŋwiin gbantee, ti-Dindaan baba ní bi làá dāá tīī tinyool.","Onye ịngbante, site na mbụ mbụ na-ebula atụmatụ.",1.0,0.7111
+485,Yootam kpíì ki cūtìi ŋàl̄ u-baabi ní bi síb́-u Daafiidi Tiŋkin.,"Ifeanyi Nwosu, kedu ihe ị na-agwa ụmụ a? Ị na-asụ ụdị asụsụ a?",1.1818,0.875
+486,"Ujanjakpil Adina nìn kpòotī bijanjaliibi bin sá bibaatandambee kutukub alaataa ata, ní un dī-uee di sá ujanjakpil Yoowanan.","Wujan Jakpere, ajina numkwote, wujan jere bensa, babatandam be kutukuba alata ata. Nuwundi wuje jisa, Wujan Jakpere, yuwa na.",1.0,0.3883
+487,"» Ní dāá kíí-bi yii: «Ti nìn sá iyumbu ní Faaroo ŋaan Eejipiti tiŋkin, ní ti-Dindaan dū mpɔŋkpaan ki nyántìń-ti niin.","Ndi d'akụ̀bụ̀, tinye sa ịyụ̀mbụ̀ na fọ̀rọ̀ ngá Egypt tị̀nken, nụ̀ tị̀rị̀ ndá adụ̀ mpọ̀nkpa ka nye ntị̀ tinye.",1.0,0.573
+488,"Ti-Dindaan, taa yàntī ḿ kɔ́ binikpitib ŋaan.",Tụdị ndụ taa ya nte ṅkọ bụ na-ekwe taa,1.1429,0.5294
+489,"Saalaa nì uwawati di sá Malootii, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.","Salane ouwote, disse Malo ti, une oujipombe, une ou na bien, une ou salane",1.0,0.5224
+490,Juuda yab fātèe ní ki ká yii bi cáá kí jáǹ bijanjaliibi bin bí bi-nyɔkɔpuee nì bin bí bi-boon púee.,yuda ya peti na ka kai bicha,1.0,0.8182
+491,"«M-Baa, m là yii laakin m bée, bin kɔkɔwoooo a tīī-mee ń nīn bí m-cee niin kí ká m-nyooti, tinyool tin a tīī-mee.","Mba, ụla. I laa kee mbe? Ụlọ nkịta bụ atụime nne mbe nchie nịị. Kaka, nnyocha tunyocha atụime.",1.0,0.5802
+492,Ní Kooree kpáfì Isirayeel samaau bi yú ki túĺ Mooyiisi nì Aarɔn circir kɔŋkooŋŋu punyɔkɔpu.,ne kore kpafe Israel samao be yo ke tole Moise na Aaron cheche konko ngupu nyoro,1.0667,0.4737
+493,"Digundi gbanti nìn dī Giiyɔn nyimbuliŋu ŋwìiń nyalaŋki pú ní ki kpākaǹ Seedrɔn tantakal ki cáa sāā Ijɔm punyɔkɔki, ní ki fātìi pɔ́ĺ ki māntì Oofeel gbantaŋki ki tú.","Dokwanda gwante na ndi Giyon, nyom bulu nu onweghi nye la nkupu na kpokwaa Cedron tantakale kicha asa ijon punyoko ke na ka fa ti puol ka ma te Ofel gwanta nkupu",1.1034,0.4737
+494,Min ní bi làá túń icoo tuuŋŋi nì ntimbiil tuuŋŋi ŋin bi ŋée tafadaaldee dee.,Menneh,1.0,0.9344
+495,"Biba nìn sá ŋwɔsɔfimu, bi-fookiiu puee, bi kpántì bibaatandambi.",bàn nsa unwasom bufo kiupwe dekwanta debatan,1.0,0.5769
+496,"M-nibooliŋu yaa tɔ́ m-bɔkpaaŋi kɔkɔ nì m-marab bin kɔkɔ m-tɔntɔnliu Mooyiisi tīī-bee, m kpá kí yàntī bí nīn tú ki yìiǹ kí wàatī kitiŋ kin ní m tīī bi-naanjabee».",na bolu ya to mgbokpa nu kuko na mbrebe bu nkuko ntonto lu mu isi ti be nkpo ke yanti bi na ntukuyi kuwate kete ke na nti bu na njabe,1.069,0.4878
+497,"Ama mamee, baa kāntí tikpitil tiba m-pu.","Ammá, mamé, ba kan títikpete te ba",1.0,0.4194
+498,"Kitiŋ gbanti gíti cáá adiin ŋin poon naa síiǹ tiba ama ní tigaajawan kɔkɔ nì ti-bulifi gbée, lɔkɔb bin naa gbìn̄ee, fiinyi nì ɔliifi sufii in naa cóoǹee kɔkɔ bí niin.","Geta ngbante, gete cha adi ngembu na si nte ba, aman nte gaja won koko nte bulu fu gbe, lokobu be na gbene si n'oli sufi, ye na cho ne koko beni",1.0323,0.4733
+499,kii bi nín tà timool kí ŋmàlim̀ tinaabin poon puee ní.,कि,1.0,1.0
+500,m-gbigbipeeu ń bátí kí lítí kí wàatī m-peeku.,Mbebe pe mbatak letek wate mpe,1.0,0.5143
+501,"Duulinya bɔtiibi kɔkɔ dōoǹ nì kì ki kpántì bijɔkɔndambi, ní duulinya bantiliibi kūliŋkì ki-wannyaanti tikpil tikpil.",,,
+502,- Ní bi dī kí nīn cá Eeskool tantakalin ní ki gāań fiinyi biliŋ disakal ki dūu lúntì ndɔ pu ní binib bili bùkū.,Nèbèdè kènè nja èskò tàntàrèli nèkè gààn fìnyì blè ngà d'sàkàl k'dò lùnt ndòpò nèbèdè blè bu.,1.0,0.5814
+503,"Bi làá nīn ŋáań bisaraawɔkaabi kutaafaau nì kujoou, ki kpáaǹ iwiŋŋuŋfikaa dal nì uŋmal kamaa wimpeekaaŋu nì jiŋaalib wiiŋyi in ti jīǹ ki jáaḿ ti-Dindaan ti-Nimbɔtiuee saraabi.","Bụrụ na ị na-asụ asụsụ a, biko pịa bọtịnụ dị n'okpuru ebe a iji malite ịkọrọ anyị akụkọ gị.",1.0,0.8069
+504,"Ki kpáaǹ Jeerusaleem tiŋkinee, Joosafaati nìn lēē Leefii yab nì bisaraaŋaliibi nì Isirayeel dicaŋŋi kpilib biba ki kāaǹ bí nīn sòoǹ tibɔti ti-Dindaan yindi pu, ní kí nīn ŋáŋkí Jeerusaleem yab bɔti.","Ke baa Jerusalem tinkirin, Juzafaat ne le lefiya ne busara ngalibi ne Isra'il duca ngalibi ba. Ke ka bini so tubototoro nda anyi nupo ne kenu nna ke Jerusalem ya",1.0,0.4383
+505,"Keerubim kamaa nìn cáá inimbiin ili ní: unil nimbiin nìn túĺ bubabu kpakpalku kubɔ, ní gbikinti nimbiin túĺ bubabu kpakpalku kun kíǹee watil pú.","N'ime ụbọchị ole na ole, ị ga-enwe ike ịghọta ihe niile a na-ekwu na Bible.",1.0,0.839
+506,Bi nìn tɔ́ kasi ní ki lēē bi nín làá nīn tūǹ ditundi ki fòol̄ tɔb puee.,Benin,1.0,0.9231
+507,U ŋá saraabi gbanti ki dóòyee ní ki mēē ki bīiǹ samaa pu ti-Dindaan yindi pu.,"Ungasabi ukubante kidoye, nikinme kibi, samapu tudinda yinda",1.0,0.4167
+508,"Saalaa nì utataati di sá Subayeel, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.",Salani,1.0,0.9118
+509,ki mɔ̄ ki jítiǹ gba kisikampiŋ siiti.,ke mɔ ke jite ngba ke sika mpi,1.0,0.4138
+510,"Bi nìn dàb̄ akɔl ki jɔ́m̀ ki tɔ́kɔǹ digundi pu, ní Daafiidi diiŋŋi bí taapu.",Benin akol ke John ke Tokon de Gundupo ne David de Dingbe,1.0,0.5714
+511,Míǹ boonee ní u yāntì bi báakì Juuda nì Jeerusaleem timmun yii: «Ti-Dindaan tɔntɔnliu Mooyiisi nìn yóoǹ kuteeun yii Isirayeel yab ń nīn pà lampoo ubɔ.,"Mbunyene uyente bebake Judani Jerusalem temuyi, tontolonu Moyise neyon kete wuyi Israyelyabe. Inen palanpo",1.0,0.4463
+512,"Bin nìn bí bi mun caŋin ki tūǹ ditundee di sá Araya jipɔɔn Usiyeel un sá goosimiitee, ní úǹ caŋinee, utalaaluŋal Ananiya nìn bí.","Bénin bé, be mun changa yi ke tonde tonde de sa, ara ya ji po au ciel. Wun sa gosi mi te, ne wun changa ne wutala lu ngale Anania ne",1.2917,0.4706
+513,"Asaa nín jíń dibeel abin saalku ŋmatataatiu poonee, ní bi kóoǹ ki kpáfì Jeerusaleem.","A sa, ni jinjinbe abin saraku, matata tu fune, na bu kuwan ka kwafi Jerusalem.",1.0,0.4348
+514,Niinee ní samaa kɔkɔ nín cá diwaal Baal diikun ki gbáń ki wīī-ku.,"Nne nne, sị m akụkọ na nche duwa balụ dịkwanụ ka gbam ka weko. Bụ na gbam ka we",1.4615,0.7647
+515,"Rubeen nì Gaadi naakɔti yab nì Manasee naakooku dijandi diba yab bin kóòń Jɔɔdan buŋŋu ŋwìiń nyalaŋki púee janjaliibi nìn kpáfì binib kutukub dilaataal nì mmuŋku ní, ki ŋúb́ tijanjawan kɔkɔ.",na kwete ya na emana si na kwokwondi jande debayi ya benkuwu judon buwu enwe nyela nkpu yi janjali be na nkpofi be na kuduku be jilata na umu nku na ka nwete janjali bu nkoko,1.1613,0.5159
+516,Ubɔti nìn yāntì bi kpáá dakaa ubɔ ki síiǹ a yaa làá kɔ́ ti-Dindaan Diikunee caŋin.,"ubochi niile ka ụbọchị kịsị, a na-akwụchi dịka",0.9375,0.7656
+517,"Ni jìn̄ ti-Dindaan saraaŋaliibi, Aarɔn naantiibi nì Leefii yab ni-kansikin.",,,
+518,"Ŋyunti puee, isufi gbanti damam di nìn gbéè.","Ihe mere bụ na ọsọ gbagoro mụ na nwunye m, anyị na-agba",1.5,0.9714
+519,Bi làá tin kpɔ̀-ti ní kí cúú ti-nimpoobi nì ti-biyaamu kuyuŋu.,Bia ntekpọte na nke chụrụ na pụrụ na nke bịa nkụrụ.,1.0,0.7234
+520,"Min kamaa bi bíi ŋáań ikpitee, m làá nīn gbíntìi mèé.",mụ kama bebi nna anyi kwite na anụngbe nti mee,1.0,0.5122
+521,Usaraaŋal ubɔ kaa máaǹ kí nyɔ̀ ndaam kí kɔ́ poon cindin.,कुसरांगल उबोकम्मा क्योनदाम कुकोपुन्चिंदि,1.0,1.0
+522,"» Ní taa fàŋkìmaan-bi, ama ní téetí ti-Dindaan ni-Nimbɔtiu nín ŋá Faaroo nì Eejipiti nib kɔkɔ puee.","Nita fank mamb, amanitete tudan da ninu mbotu, nina faru na ejit na bukopo",1.0,0.4675
+523,"U nìn ŋá tin fáatiǹ ti-Dindaanee, ama an kaa nìn sá nì dipɔbil diba.",M'anigye sɛ m'afa kwan so de ndwom yi ba abɔdeɛ mu.,1.0,0.8462
+524,"Laakin kamaa ní u-nibul din kíǹee yaa bée, niin yab ń tīī-bi animbil kúti nì sindaariya nì tigaajawan nì tiwaŋkuti nì nlammɔntiim saraabi bí dūú tɔ̄ kunimbɔtidii kun bí Jeerusaleemee tundi.","Nke ka mma na unu bụrụ ndị kịne ya bụ ndị ga-etinye aka na mmepe obodo, na-esighị ike na ntị, na-etigaje onye, na-etị onye kwụte, na-ala mụntị ịsị na ọ bụ Bụdụ tọọ, unu mbatara dịka ndị Jerusalem etu",1.2581,0.6753
+525,"Kpèè tin ní a ŋée dee, man a-Dindaan Unimbɔti di sòon̄ míǹ.","Biko, tinye anyị dị mma adreesị unu mgbe unu kpọtere m.",1.0,0.7273
+526,"Ama bi kántì m-maamaacib, ní ki gbíntì ki ná man nì m-Baa.",Ama be k'anti mma m'achi ne k'egbe nti k'inna mma ne mba.,0.9167,0.3953
+527,Juuda bɔtiu Joosafaati nìn fātìi gítì Jeerusaleem nì ŋgbampɔn.,"Judah bọ̀tọ̀ Judah fátì, nọ́ fátì gétì Jerusalem nọ́ ngbam̀pọ̀",1.1111,0.434
+528,"Bin kaa béè marab bin Unimbɔti tīī Mooyiisee yaa ŋá ikpitee, bi làá wāŋkì, ama marabee ní baa làá dūú sòoǹ bi-bɔti.",,,
+529,Mì sá-mi kii binib bin kaa mɔ́tì bi-ba pu ki cūtìi nyàabìń-mèe fatikuu ní.,M'sɛm kɛ bɛnɛ bɛnka mɔtɔ bɛbapɔ kuciti nya bɛmbɛ fɔtɔku,1.0,0.4643
+530,"Ní ti-Dindaan kpákatìń ki kā ditagbandi poon ki bíi sòoǹ nì Mooyiisi, ní ki lēē u-Fam min u tīī Mooyiisee pu fiii ki dūu ŋá bikpilib imuŋku ita nì saalaayee pu.",nne ta dika akwukwo nso ka kadita gwa ndi pu ka ibi so na moyses nne kili ufa m na uti moyses pofi ka do nga be kwulu be imu ka itanu sa la,1.0968,0.5
+531,ní utaa tin lì yii u nì ki báatée atagban fātìi lúntì.,ne utatenle yi ne kebate atagba mfati,1.0,0.4286
+532,ní dibool din poon nnyim gbée ń lítí kí wīī.,"Ndeewo, oldimma? Ịnyịngbe, ịlịta ka wụ?",1.0,0.5588
+533,Ama tin baba m làá lèe di sá ní nīn ŋúb́ tin ni cááyee gbīŋgbim áli ḿ dāá gítiń.,"Nna m, kemgbe a m daa n'ihe dị sa, nne m nwuru na ncheta anyị gbe gbe. A na m arịọ gị",1.1053,0.8167
+534,"A yaa yíìyee, m làá dāan̄ a-cee ní kí yòon̄ a-fitilau nì u-tɔkɔŋkaati ti-paaŋŋu.","aya ka ngammi, nda yoo, afitilo neti wanto mpu, wutukoi, asi aya",1.0,0.7627
+535,"Yooyadaa nìn kóoǹ bijanjakpilib nì akpambal nì bikàliŋkpilib nì samaa kɔkɔ ní bi yōoǹ ubɔti ti-Dindaan Diikun, ki dū-u ki dī mpunyɔɔjaati ki cáá-u ki kɔ́ǹ dibeecindi.","bụbịị, ya ntụmanya ụdọ, ụdị ya pụrụ iche bụkwa dị sị na usoro ngakwụrụ nịlịị bịta kpọ to the ndịa dị",1.0,0.8507
+536,Upeepeekaa di sá Beewɔɔr jipɔɔn Beela un sá Diinaba tiŋkinee.,"Opepe ka di sa be wa ju pon be la, o sa di naba tinkene.",1.4,0.3922
+537,Bijanjaliibi bin ubɔti nìn dūu kāaǹ Juuda timmu mun bi máń agun ki túee poon kaa kútì.,"Ben, au moins, nous, quand je l'attends, mon domaine à gauche, que tu es pour qu'à côté.",1.0,0.7826
+538,"Nnabiyaamu, m-pɔbil poon nín là miŋyee nì tin tin m mèé Unimbɔti Isirayeel yab puee di sá bí ká difiil.","N'abya, mpopoli Pô n'la m'eye n'etente m'é un'mbote Israel ya pui, des sabaka de fils.",1.0,0.4938
+539,Ama ní Amɔn yab yidambi bí Anuun yii: «A dàkafī yii Daafiidi nín là kí tīī a-baa tinyool kí sɔ̀ŋkì a-pɔbil puee ní u túnní binib a-ceeee?,"Aman, amụrụ ya ịdambe, bụ Anunyi, Atikpo David na Nne ya Kiti Abatịngọ, Kịsọnk, Apọbilipụe na Otunọbịlụ, Achị.",1.0,0.5577
+540,Ama Unimbɔti fìil̄ unandaan ki nyāntí bi-nyɔmmun.,ama un un bote file unan da kinyante,1.0,0.475
+541,» - Ujɔfuee nìn búntì kí fíntí u-nimbiin.,,,
+542,"Niinee, ni làá béé yii man ni-Dindaan di sòon̄, di sá yii ni nín kaa yú nì mi deedeeyee kaa mɔ̄ǹ-mi.","Nde na laɓe yi mande ɗen ɗan ɗisoo, ɗisay ni ninka yut na meɗɗe ye ka mo",0.9524,0.5479
+543,"Ama nì míǹ kɔkɔee, biba bí Saardi nikitil kansikin kaa ŋá ikpiti bi-bɔkutiŋ pīiǹ.","Amaghị m ihe m kwesịrị ịbụ abụ, sọọsọ na-ekete ka m si ka anyị kwete ụbọchị",1.1429,0.7231
+544,"M gíti tí dáań ki ká nnaabu ŋubɔ mun kitiŋ pu doo, an sá nnaabukpaan ní ki tīī unil.",Kedu otu ị ga-esi kaa nna gị nwụrụ anwụ mụọ keta mpudo? Aza nna gị kwanụ na keta ihe,1.0,0.7188
+545,ní ki tìì tin kɔkɔ cáá kufoouee tijin tí jī kí díkí.,ke ti tum ko ko cha ku fo ti ji ti ji,1.0,0.6
+546,Unimbɔti nimbil cɔ́ unil bimbim pu.,Biko chetu ubondu unu kposokomi unu ngbote na mbelicho unu na-elbe mbu.,2.0,1.5357
+547,"Bi nìn cúú Manasee ní ki dū abɔmbil ki kpàl̄ u-nyɔɔkpaweeŋyi, ní ki dū tasa kusakai ki bóob́-u mili pu ní ki cáá-u ki cūnnì Babiloon tiŋkin.","Bụrụ na ị chọrọ ịmara ihe na-eme na gọọmentị gị kpalu, onye ọkpụkpọ ga-enye gị ihe niile ị chọrọ ịma gbasara ya.",1.0,0.8318
+548,Isiraya di nìn kpòotī bilaŋgaaliibi ní bi gà ilan.,"Israya na-nkpọte be ngala ibe, na be ga-ila.",1.0,0.439
+549,Bin bí nee kɔkɔ sá Eeman un wāĺ ki nàatī ubɔti Unimbɔti bɔtee jipɔmbi ní.,"Ndi be nụ, kọkọsịa ịma nụ nwale, na-atụ ụbọchị unu mgbọchị bụta ejị pụọ mbe",1.0,0.6379
+550,U nìn tīī-bi tijin tikpil ní ki nyàab̄ binimpoobi kupaau ki tīī-bi.,"N'oge ochie, ndị ji ekpere na-enyebebe na mkpụrụkụ pọọkpọọ ka tibe.",1.0,0.7885
+551,Daafiidi di ŋmàn̄ nlan nee ki tīī bilaŋgaaliibi kpiliu.,Afi di dinma nla nne ke ti bilanga li be,1.0,0.4444
+552,Bíǹ boonee ní Teekoowa yab yōoǹ digundi din túĺ kudifɔkɔuee ki túń ditundi ki cáa sāā Oofeel gundi.,Bimbo ne te kowaa ya be yoo ndugu ndi de tule ke de foko wee ke tunde tunde ke tnsa ofe le gunde.,1.2778,0.4691
+553,Seeyiir jipɔmbi di sá Lootan nì Soobaal nì Siibeeyɔn.,C'est ici qu'on va dresser le temps.,1.0,0.8182
+554,Eefiraayiim kaa ti làá ŋá Juuda pu ipoompoon.,Ephraim Katla Judah,1.0,0.6486
+555,"U nìn bí yii: «M kpáafì binib kutukub biluli, bi sá m-yab.",onweghi otu m ga-esi wee kwụsị ịbụ onye na-akwado gị.,0.9167,0.881
+556,"Circir Fam nìn dàkà yii, ŋyunti ŋun ní nsan pú diiku dáá bée, nsan nìn kpá unil ń jītí kí kɔ́ circir páaa laŋki.","n'ndakaye, inyintunwunne, nsampu di ko da be, nsa nna nkpa unulu njita kuko chechiri pa ala",1.0,0.5059
+557,"Ni yaa jáń nì ti-Dindaan ŋyunti ŋun ní m dá bí dimaŋfalin ki bí ni-cee nee, kin ataa aŋa pu ní, m-kúm boonee, naa dāa jáà nì u kí jītíǹ míǹ?","N'ihi na Chineke hụrụ ndị ụwa n'anya nke na o nyere naanị Ọkpara ya mụrụ nanị, ka onye ọ bụla nke kwere na ya ghara ịla n'iyi, kama na ya nwee ndụ ebighị ebi.",1.0968,0.9417
+558,Bi gíti ŋá ikpiti ki jítiǹ atimbun nì ntimu mun māntìi tú-bee nib.,Buga ta inna iko ta gaji ta yi a tunbun ni'in tumun mumma ta tubi,1.1538,0.5962
+559,"Ní mpunyɔmu muta túĺ ŋwìiń nyalaŋki pú, ní muta túĺ ŋwìiń jeetilaŋki pú, ní muta túĺ ŋgan pú, ní muta túĺ ŋgiil pú.",na mpu ya m nweta tulu nwa i na-enye m pụọ na m nweta tulu nwa i na-enye m tụpụọ na m nweta tulu m ga-mpụ na m nweta tulu m ga-iri,1.3913,0.7079
+560,Uleefiija un bi yíì Kooree u sá Isaar jipɔɔn ki sá Keeyaati maaliŋunee nìn dáaĺ Rubeen naakookun binib bita ki kútì u-ba pu.,"Onye ịjị awụmbị yị kụọrị, ụsọ ịsị ajị pọọ, kịsa kị yaatị malụgịnị? Nị nda Rụben na Akụkụnụ bụ ndị bịbịta kị kụta ụba",1.0435,0.57
+561,"» Ní Yeesu kíí-bi yii: «Wīīmaan kunimbɔtidii nee, iwiin ita dal m làá fàtīí mā-ku.",picha da monti ne bini beya nyui anyi apebe ne bini nyanti muka moti,1.0,0.8033
+562,Míǹ mbaantiim ní Kriisitoo mun dū u-ba ki ŋá saraa diba ja ki nyántì binib tikpil ikpiti poon.,"Mba ntim, n'ukristo mundu ubaka n'asarade baja, kyantera binabte kwil ikwitepo.",1.0,0.3733
+563,Bi nìn dū animbil gbanti ki ŋá ti-Dindaan Diiku wanti tiba mun.,"Biko biko, ana m ekele gị nke ukwuu. Ka Chineke jee n'ihu na-agọzi gị nke ukwuu.",1.3333,0.9
+564,"U nìn ŋá tin kaa fáatiǹ ti-Dindaanee kii Akaab dicaŋkun yabee, di sá yii u-baa kúm boonee, bíǹ di kpántì u-saŋkiliibi ní bi-sansaŋkii gbanti nāaǹ-u.","Bununla çinka fatin, tuncane ki akab di çankun yabe. Disayi uba kum buni bindi kwanti usan kilibi. Bisan ki gwanti",0.96,0.3966
+565,"Ŋyunti ŋun a nìn bíi ŋáań ntimbiil nì alaakpaatuun gbantee, aa dākafì ki téetì a-sapɔnti yuntiŋu, ŋyunti ŋun ní a nìn bí dicancaŋgbeel ki dēē a-fatikuunee.",Yuntung na ana bi nga ntimbi na alakpa tugba nti adof kete asapo nti yuntung. Yuntung na ana bi chanchan gbe kedi afatiku ne.,1.0,0.416
+566,"Lì yii: Isirayeel jooŋŋi, pīlifì anyɔɔbun ŋin ti-Dindaan Unimbɔti cáá kí tùkù bin kóò ni-puee nì bin kóò ŋgbantamu pu nì igalin nì atantaka poonee.",Israel,1.0,0.9492
+567,Mooyiisi nìn kàan̄ Isirayeel yab Siinaayi teekun kii ti-Dindaan nín nìn tīī-u mara puee.,mboizi na nka isaa yaa sinaa ite kunki dindaa nti malapu,1.0,0.4507
+568,Yootam tuuŋŋi ŋin kíǹee nì tijáti tin kɔkɔ u jáńee nì tin kɔkɔ u ŋáaǹee ŋmàn̄ ki kā Isirayeel yab nì Juuda yab bɔtiibi tuuŋŋi gbɔŋkun.,Jotam tụrụ nke na-esote ya dị ka otu n'ime ndị isi nke ezinụlọ Juda na-esote Uzzaya nwa ya nwoke.,1.0,0.757
+569,Kàkatī ikpiti in m nyí ki ŋée kí wàatī-mi.,ka sị na ịkwụsị ịṅụ kọfị kpatara,1.0,0.8125
+570,Míǹ boonee ní Daafiidi cíkitì sindaariya beefuuliiki kin nìn cíkí Amɔn yab waal Miilkɔm yil puee.,David,1.0,0.9506
+571,Niinee ní ti-Dindaan cáań Asuur bɔtiu janjakpilib ki tɔ́ bi-pu.,Nene te dinda cha aso boto janjak fulbe,1.0,0.54
+572,"Bi nìn ŋá míǹ kɔkɔ ki dóòyee, kudipeepeekaauee poon ní bisaraaŋaliibi kóò baabadal ki ŋáań bi-saraatuuŋŋi.","Benin ngamun ko ko doye? Kadi pepe ka wepu ne, bisara nga libu ku ba badal, ke nga bisara tu",1.25,0.4545
+573,Kitiŋ gbanti cáá ibun nì inyimbul nì nnyim min dɔ̄ kitiŋ taapu ki púǹ ditantakalin nì dijool pu ki pùub̀ee.,kete ngban ticha ibun ni inyi mbul ni inyi mendo kete ntapu kpun dutan takali ni dijorpo kpube,0.95,0.3176
+574,u tìì bin sīntiǹ bi-ba taapuee jilma ki fìil̄-bi.,ti benzin tembe bata pwe jirma,1.0,0.5676
+575,U-jipɔɔn Akaasi di fōō u-yil ki kpántì ubɔti.,,,
+576,Ba pu ní ni là ḿ gíti bùsì kí lì nliliitiim?,,,
+577,"An kaa làá yúntí, Unimbɔti un tìì ŋgbansɔŋfee làá yàntī ní tāā kí mátí Sitaan.","Aka laa yụntụ, ụlọ ụgbọala ụntị nsọmfe, daa yụntụ, nịttaa kị mmata sị taa.",1.0,0.6452
+578,Unimbɔti pɔl nín tūǹ ditundi diŋyee nyáń di-ba nì unibaantee kpitii tundi.,"Une boîte à Paul, une petite boîte à thé.",1.0,0.8033
+579,Mimmee míǹ ní ti-kɔkɔ nee làá kpú deeyaaa?,Mmemme mme n'etiti kpokpo na ila kpude ya.,1.0,0.6061
+580,Nàatī ajoon nì ŋgbantamu nì mbùmbiyaamu nì atantaka tin man ni-Dindaan Unimbɔti sòon̄ee yii: M làá yàntī m-ŋuul ń tɔ̄ di-tundi.,"na ajụọ m gbasara na m bụ mbia na atantaka, temanyị na ndị na-anụ olu m bata so na ya. Laa ya na ngwụcha",1.0952,0.6
+581,bin māntìi tú-mi ki là kí kpɔ̀-mee ń taa ká-mi.,manti tum,1.0,0.8182
+582,"Mpeepeekaamee, Juuda yab, ní boonee ki dāa nín kpáaǹ bin kaa sá Juuda yabee mun.",Judayave neboni,1.0,0.8413
+583,Míǹ ní Daafiidi ŋá Amɔn yab timmu mun kíǹee kɔkɔ poon.,"kini dabaru na, ama oya tumu mu kini",1.0,0.6977
+584,"Binib gbanti nìn sá bibaatandambi ní, ki nìn bɔ́ntì kí já kujaau.",kene gwanche ni sa'a ba bata dameni kene bwanche kije kuja,1.0,0.5882
+585,Ŋyimmɔntiim nì tisiil nì ɔliifi kpam ní a nìn jīǹ.,Ihe mụ na ya n'etiti na olilekwam na a na m ji,1.1,0.6
+586,"Dooooyee, binib yaa nìn kpáfì kí jī jiŋaalibee, ipii in bi nìn cáa ŋáań saraabee nìn gbéè Jeerusaleem tiŋkin ní.","Do ye, bena we ya na kpafe ke je jingal be, i pi ye bena ncha nga sarabi na ngbe Jerusalem tenke",1.1,0.4667
+587,di sá yii u fīī-u ki nyántì ŋkúm ŋaan.,Desaïi o fieu kényante nkumu nga,1.0,0.5714
+588,"Míǹ puee sii Kooree nì a-naacimbi, foolee ní fu nín̄ ŋúbiń nsambiyaamu mun poon bi tùutī talaaluee.",M'en peux-tu courir dans la chambre? Folle. Ne fous une ngoubé nsambia m'en peux bétoutala,1.0,0.6076
+589,An puee m làá yàntī ú lítí iween pu kí jī falaa ki kpáaǹ u nì bin pēē kinyɔkɔ ki ŋáań tilaakpaalee.,"A mpuo na ya bụ ụlịta ịwepụ, ịdị falá ka kpọọ ụlọ na bempe ka nyọkọ ka nga ikpete",1.0,0.6494
+590,Soobaal jipɔmbi di sá Aliyan nì Manakaati nì Eebaal nì Seefii nì Oonam.,sobaal jepp am na ci aliya na mana kat na ebaal na sefi na,1.0769,0.3966
+591,"Kí kūtèe, u-maŋfal wiiŋyi poonee, u ká agìń tikpil nì kunimbaau nì diŋuul nì diwuŋyɔtil.",Kụkụte ụmụafọ nwịị pụọ nụ ụka agịnte kperụ nịkene mbaụ nịdị ngụlụ nịdị nwụnyọte,1.0,0.6286
+592,Ní u-kɔŋkɔnnaatɔb nì bin nìn kāntí u kàal̀ ki mèé animbilee bíi lì yii: «An kaa sá kijapaai nee di nìn kàal̀ doo ki mèé ki jīǹeeee?,Onka se ke Japan ne di ne,0.963,0.8485
+593,"» Maana nìn bí mbilimu mbilimu, ki pīiǹ fàaa ní ki dàfì.",ማናነም ብምብልምብልሙ ጊፒን ፋአ ንክዳፍ,1.0,1.0
+594,Cilinjee tí cù kí ká bisaraaŋaliibi nì Leefii yab bin kóò bi-timmunee bí dāan̄ kí kūtì ti-pu.,"Cikin je, tsohuwar kaka, ba sa ranar libe. Na lefi ya banko, mutumin ne, ba dan karkara ba.",1.0588,0.5616
+595,"Man ni-Dindaan Unimbɔti, m bíi sòoǹ nì ajoon nì ŋgbantamu nì mbùmbiyaamu nì atantaka nì adigbuŋkati nì ntimu mun ni yíkì ki dūu fá anibul ŋin māntìi tú-nee fúkúl̀ ki sīīyee.",Mmanụ ndị dị na unun bụte mmanụ be sụrụ ajụ na ngwanta na mbu mbịa na atantaka na adigbonkata na nti mmuo na yiri ka du fa a na buru ya mmadu tunee fụlụ ka si,1.129,0.5217
+596,Anuun nì Saamoowa yab di nìn ŋáŋkì Ditantakal punyɔkɔki.,Anu ne samu a yabe di ne nganke di tantakal,1.0,0.4681
+597,A làá dāá téetí a-bimbim pu ní icoo ń cúú-si ŋyunti ŋun ní a yaa láa fōō a-mambi nì a-naalib a-ceeyee.,"A na m adị mma. A bịa m be mpu na iche onye isi m, mụ etinye nụ na ayara afụ amma m na anara bịa chi.",1.2381,0.6316
+598,» Ní Isirayeel yab gbíntìi cɔ́ tin bi bàà pée sòon̄ee pu yii: «Ti làá nīn pée nóó mbɔtisanjaa ní.,"na edo mbochi nke abuo, ma laa kwaa na njedebe nke abuo. Na ya ama ka m laa yantụ ịyaba, m kụntụ ka m janna. Na Israel ya bụ gọmentị chọrọ ka mba Pesọ na-epụta. Tra na pe nọ mbochi sanja na",2.2105,1.6111
+599,"An kaa sá Juuda yab baba pu, an sá kí kpāfì Unimbɔti biyaamu bin yàl̄ee kɔkɔ bí ŋá ubaanti.","anyi abanomboro n'ije kaba kulu. Ama m nyi konkone gwa ntiti kama ni aya m'e unu mbot e, ura atii sokudo. Nyi se bu",1.2632,0.9286
+600,Ní bi yíkì ti-Dindaan jool taapu ki cōom̀ iwiin ita.,na be ye ke to den da anjol tapo ke cho mi winita. I winita gwanti to den da an da ka o ni li bi opo,2.7,1.15
+601,» Daafiidi kaa nìn gíti là kí yòon̄ ti-Dindaan dakaau kí cùnnì Daafiidi Tiŋkin.,"Dafidi kan ni gidi da. Ki yọntu dindin da ka o, ki cuno Dafidi tun ki.",1.2308,0.4194
+602,Á dāá dū dijantataatiil din kíǹee kí yàaǹ kubuŋu ń yòon̄ ní man ń dāá dū m-tàataajiki kí páań di-boon.,"Aha, ọtụtụ ndị jụrụ ajụjụ banyere ihe mere ndị a dị ntakịrị ji dị ka paụnd abụọ.",1.0,0.8101
+603,"Ŋyunti ŋun Isirayeel yab nìn fātì bi-boon ki tīī man ni-Dindaanee, Leefii yab bisaraaŋaliibi bin sá Saadooki maaliŋunee nìn túń ditundi m-circir paaŋŋu pu an nín máaǹ puee.","Une fois que vous avez terminé, le fichier est enregistré dans le dossier de téléchargement.",1.0,0.8214
+604,Ama kunyeeuee ní u nì u-janjatɔrɔkub kpootiliibi jáń ki pɔ́ɔkiǹ Eedoom yab bin nìn māntìi tú-bee.,"Amakwa unu ihe bu udi ndia di iche iche na-eme na-eme n'oge gboo, na-eme kemgbe uwa malitere ruo taa.",1.1875,0.8846
+605,Binib bin Mooyiisi nìn tú bí cùú cɔ̄ŋkì kí kpèè Kanaan tiŋkee yiŋŋi dee.,"Bụrụ na ebum n'obi ịsị na ịntọ, biko chọọ ka kpee ka na-atụ nke ị na-adị.",1.1429,0.6316
+606,"A cáá iwiin iluu kí tɔ̄ ditundi, kí ŋá tin kɔkɔ a cáá kí ŋée.","Acha iwu n'iro, kịta dịtụ ndụ. Kịngatị nkụkọ acha kịngatị",1.0,0.6136
+607,"Eeliisafan maaliŋunee, Seemaya di sá ukpil, u nì u-nabiyaamu binib alaataa ali.","et les enfants malheureux, ce meilleur de ce qu'on peut. On on a bien",1.1667,0.7656
+608,Bi-janjakpiliu di nìn sá Amiisadaayi jipɔɔn Ayeeseer.,Bịa jị njikọ dị na saịtị anyị jikọọ anyị site,1.4286,0.6889
+609,Unimbɔti nín nìn síiǹ Isirayeel yab yii bí nīn ŋáań míǹ ki cá jaanjaan.,"Unu mbute nụ nụ nsị a ya bụ, ịbụ nnụnụ a mị ka cha janjam.",1.0714,0.5965
+610,"Unil yaa cáá tigaajati tikpilee, binib bin jīǹ-tèe mun wīikí ní.","Unnliya chhat gajyat takkule, bena benji te mun wikna",0.9091,0.4706
+611,an di dāa sá dipoondi din m pōoǹ-bee.,Mansa Yesso,1.0,0.8929
+612,Ukpaal un fàŋkí kubuŋuee kaa kù kí bɔ̄l̀.,Opalụ nwanyị ka ọ bụ nwoke ka akụ ka bụọlụ?,1.25,0.6774
+613,"M-ŋuul nì m-poompooŋyi poonee, m làá dū ŋkúm ní kí dáaĺ a-tafal.",ngul ne pompoi bone lado nkom,1.0,0.6667
+614,bi nín ŋá ikpiti in dilambil poonee.,Bini nga ikwete ye ndilambel pooni,1.0,0.3793
+615,"Díǹ ní ti nín ká yii Unimbɔti ŋūǹ kí sòoǹ nì unil, ní unil gbantee ń taa kpú kí nīn gbíntìi bí dimaŋfalin!",na na ka yi wani watan kusu wani wanda na wani gwanate n takpo kana gbe ntebede ma m fale,1.0,0.5854
+616,"Yaadalee, Eedoom yab baatandambi pɔbiliŋ làá dāá bīil̀ kii imatiŋween nín cútí upɔdaan puee ní.",Ya da le.,1.0,0.9231
+617,"Meerarii maaliŋunee, bi nìn lēē Kusayawuu jipɔɔn Eetan.","Mais là, rien. Mais non, mais, venez, cousawa vous, je prends éteint.",1.5,0.7609
+618,"Ama an yaa sá u-baa àá u-na àá u-biyaamu kansikin kiba àá u-naal àá u-maan àá u-niisal un kaa láá mɔ́ǹee, u ŋūǹ kí sútí kí pìl̄.",,,
+619,Daafiidi nìn cūtìi kāl̀ kitiŋ pɔ̀ti pu laakin bi máń diguŋkpaandi ki túee ní ki pú niin diyindi yii <Daafiidi Tiŋki>.,David,1.0,0.9565
+620,"Sabulɔn naakookunee, Eelɔn jipɔɔn Eeliyaab.","Selon la commune, il y a",1.2,0.6757
+621,"Nnaabu nì ŋkùm yuntiŋuee, a làá nīn bí ní ki lāā.","na bu n'okwu m jụrụ gị wee, a na m be n'ike la",1.1818,0.6216
+622,"Ataŋkpee ŋin jɔ̀m̀ pɔ́lpɔlee ní bi dū ki máń digundi, ní kitiŋ ki-ba kɔkɔ sá sindaariyamɔnti ki wāĺ kílkil kii digitilee.",A tankpe ngin jum kwalpoli ne be dukume digonde ne kete nkba kokosa ne naria monte to wal kilkili digeteli,1.0,0.4632
+623,"Ti-Dindaan sòon̄ nì mi yii: «Nisaaleen, dàkà Jeerusaleem tiŋki ntimbiil tuuŋŋi ŋin kì ŋée.",,,
+624,Bi-kansikin tikpil nìn dá láá bí Saayuul dicaŋku tundin ní.,Barka da shan ruwa.,1.0,0.8333
+625,"Kpèè, m làá mā kudii kí tīī ti-Dindaan m-Nimbɔtiu tinyool.",Bịa nla mụ kwụrụ ji kịta sị gị na mụ gbato tinye,1.2,0.7111
+626,"Unanaati di nìn sá Miisimana, ní uŋmooŋmooti sá Irimeeya, ní ululuuti sá Atayii, ní ululuúti sá Eeliyeel.","nne chejine sa, msimana nne umugbochi sa, irimiya nne ululuti sa, atayi nne ululuti sa, eliye",1.0,0.4118
+627,"U-pu ní Yoowaneesi nìn kúuǹ ki lī yii: «Un m nìn lī yii u dòoń man boon ama úǹ jítiǹ mamee, dee!",,,
+628,Di sá yii doooo yilpu ní Unimbɔti dàkà u-ŋuul nnibiyaamu bimbikpitim pu.,,,
+629,kí kpátí u-feeŋyi kí túĺ ŋgiil púɔɔɔ?,que padre ofende que te lo,1.0,0.8621
+630,"Abee ŋin nìn bí ki māntìi tú Juuda tiŋkee nìn fāŋkì ti-Dindaan, ní báà ubɔ kaa nìn kíikí kí jáǹ Joosafaati.",Na pikin wey be command for Judea think say na John the Baptist. Na beobo ka na kiki ka John the Baptist.,1.0476,0.7381
+631,"Bíǹ bin di nìn yàntī binifoobi kóò dinyoondinee, bi kūū bi-kɔkɔ kujaaun.",Bɛn dɛn yɛn te bɛnɛfuɔ bu ko di nyuɔn di ne bu ku bu ko ko jaa,1.3333,0.5
+632,Bi làá lì yii: <Kitiŋ kin bi nìn dūu fée fātìi kpántì kii Eedeen kpaabuee.,"Braly, kete nke mụ na gị nụfe, fatị kpọntị gị ịdị nkwá abụọ.",1.0,0.6491
+633,"A yaa cúú a-ba, an yàntī á taa kɔ́ diyintikpaandi poon.",Aya chu aba anyi yante atako di yinte kwa ndi Punu.,1.0,0.3902
+634,"Báà bi yaa céeǹ-si, a làá pɔ́ɔǹ kí já nì a-pɔŋŋu kɔkɔ, ama Unimbɔti làá yàntī a-nannanliibi ń já kí pɔ̄ɔkiǹ-si.","Bịa chụọ nsọ, ala pụọ ka jee na apụọ kụkọ ama. Ụnụ mbụte layantị anị anị na be, ụnụ jee ka pụọ ka nsọ.",1.1429,0.622
+635,"Unil un kaa gííyee yaa kpáafí marabee, nì min kɔkɔ baa gíí-uee, Unimbɔti kpèé-u kii u gííyee ní.",Unu nụka gi ya bụ afọ mịrịbe na mmụọ kọba gi iwe. Unu mbatakwa oge unu gi ya,1.0,0.5946
+636,"Ní m gíti gbìl̄ nneen ŋubɔ nyánní yilpu ki lī yii: «M-samaau, nyāmaan kitiŋ nee poon, án nín làá ŋá pu ní taa ŋá ki-kpitii, kí dāá fōō ki-tafadaaldi din bi bɔ́ntì ki yóoǹ-kèe.",,,
+637,Bi nìn dū ndɔpampamu ní ki bīiǹ tɔkɔlab bi-ba.,"ndu ndu pampam mu, ne ke bi tokula",1.0,0.5
+638,Kooree nì Daatan nì Abiiram jáń nì Mooyiisi.,Koren d'attente à Abidjan Moïse,1.0,0.5556
+639,An sá ŋyunti ŋun ní a-kpitii nìn dáá bí dibalinee ní.,Akwụkwọ iwu ndị a bụ ndị banyere,1.0,0.7317
+640,Utataati di sá Sikirii jipɔɔn Amaseeyaawuu.,C'est quelle émission tu prends?,1.0,0.8649
+641,"Kii a nín bí gbìmmm kaa sɔ̀m̀aaa, kaa tùm̀ muee, m làá wùliŋkì-si kí fá.",ka ha so ma ka towe ndi awuru ngisi,1.0,0.7451
+642,» Ti-Dindaan nìn gbìl̄ tibɔti tin ni nìn sòon̄ m-ceeyee ní ki bí-mi yii: «M gbìl̄ tin kɔkɔ binib nee tùkū-see.,"Ndi nwe ngbelete putara taa, unu eso ncheye, na ka bimi ngbelete nkuko obodo na etukwasa",1.0,0.6203
+643,U yāaǹ ki cíitì daliŋkin bi làá dāá dū-mi kí ŋá dikaakulinee dee.,"Oya, kedu ka ị dị? Daalụ maka nkwado gị.",1.0,0.8039
+644,"Ubɔ yaa ŋá-ni tikpitilee, ní taa dū tikpitil kí téeǹ-u.",Nta kintu kibi. Nta kintu kibi.,1.0,0.6905
+645,Akasiyasi na Atalii nín ká yii u-jipɔɔn kpíìyee ní u lēē yii u làá kpɔ̀ kí céetí ubɔti naantiibi kɔkɔ.,A ka m si a na a tali m ka m wee jụọ gị ajụjụ gbasara ụlọ ọgwụ dị na Nnewi,1.05,0.7625
+646,Unil un yòontí u-ba yilpuee làá dāá tìntī u-yil.,Da da,1.0,0.9459
+647,Niinee Yooyadaa nì u-jipɔmbi nyántì Joowaasi.,yɛ yɛ daa na wuje pombe nyante,1.1667,0.6316
+648,"Ŋwìiń nín dáá bí pu nee, tí tɔ̄ un túnní-mee tundi, kun puee kunyeeu làá mɔ́ ubɔ kaa dāa gíti ŋūǹ kí tɔ̄ ditundi.","Nwanyị na-abụpụne, tupu ọ tunye nwa ya tunde, ọ kpọọkwa ya ụda mọ, ụbọchị adịghị atụ nwa ya, tịna dị tunde.",1.0,0.7229
+649,Usaraaŋal ń ŋá Isirayeel samaau pu dikoobil din u máaǹ kí ŋée ní bí ká bi-kpitii pɔ̄tam.,N'ebe ka biko tinye putara.,1.0,0.8406
+650,"Bin làá dāá kíńee kaa làá dāá nīn náaǹ, ní kaa dāa pɔ̄ɔ̄ mun.","Benin la dak ne, ka la da nna ne ka da pɔm.",1.0,0.5455
+651,Nyɔ̄ŋkìmaan ti-Dindaan!,Yankin mu tun da da burin na David T. Asafne una bya marayi be gwan ta tun da,9.0,2.5263
+652,"M làá gítí m-tiŋkin, m-dicaŋku poon.",ናይ ላዕሊ ትንትንኪ,1.0,1.0
+653,"Simeeyɔn naakookunee, Suriisadaayi jipɔɔn Seelumiyeel.",C'est meilleur que le coca-cola. C'est le meilleur,1.6,0.8542
+654,» Niinee m ká bininjab biluu nyánní kunimbɔtidii punyɔkɔki yilpu pú yaka ki ŋúb́ bi-janjawanti.,"Nne, nka bụrụ njem, ọ bụrụ na ị na-ekwu okwu dịịrị gị, pụpụ. Ihe a ka ngwụcha bụ njem",1.3571,0.7792
+655,Bíǹ di nìn tūǹ kunimbɔtidii poon ditundi Yeesuwa jipɔɔn Yooyakiim un nìn sá Yoosadaaki naantiiu nì Gɔmina Neeyeemiya nì Eesiraasi un sá usaraaŋal nì umaradakalee yuntiŋu.,"Bịntin nì tunkunun mbọ́tì di pụ́n di tịndè Yésụ̀ à jị pụ́n yò Yákím, ụnẹnnsà yò Sádák nà Antị́ò. Nì gọ́m nà Nèyémị̀à nà Èsrás, ụnẹnnsà Ùsráànàl nà ùmarà dákalè yùn tún.",1.1538,0.5556
+656,"Un pá saalaa nì uwawati puee di sá Eeliyata, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.",,,
+657,U nìn kóoǹ bisaraaŋaliibi nì Leefii yab ki kpáfì ní ki bí-bi yii: «Nín cámaan Juuda timmun kí fōō Isirayeel yab kɔkɔ cee animbil kí nīn cáa ŋáŋkí dibindi kamaa ni-Nimbɔtiu Diiku.,"Unu kwuo m basara nga libe na ndi fiya ka kwafe na ka be bi. N'uche m, Judah timu ka fu Isaia ya bu kwokwoche ana m beli. Kene cha nga nke debelu kamba tunu mbotu di",1.1562,0.5493
+658,Ba pu ní a dū samaa nee gìńdi ki nyīkiǹ m-pu yii ḿ kpòotī-bi ní?,Bapuna adosamande gende kinye kinpo yi inpo,1.0,0.4255
+659,ní kí yàntī utaakpaan ń nì cùuu.,के यांते उतापा न्ने चू,1.0,1.0
+660,"Usaalaati di sá Simeeyii, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.",,,
+661,"Bi nìn ŋmàn̄ bininjab bin kɔkɔ cáá abin mmuŋku kí nīn cáa cá, ki bàn̄ kí cù kujaauee yiŋŋi.","Bụ nụ ma bụ nị njakọ nkwọcha abụọ ụmụ nkwọ, ka nụ cha cha ka ịba nụ Chukwu ji wee yị.",1.1053,0.6377
+662,Keenaana jipɔɔn Siideekiyawuu nìn dū tikúti ki mɔ́ɔ́ ŋyin.,,,
+663,ní á dāá nà-bi dúsi dusi kii diboolee.,ara nna be dosu dosu ki de bole,1.0,0.5517
+664,Unimbɔti un m nóó nì m-pɔbil kɔkɔ ki sòoǹ u-Jipɔɔn bɔmɔntiitee nyí yii tin m lèe sá ibaamɔn.,"mbotéwou, ndo mbolokoko kessou",1.0,0.8333
+665,"Di sá yii sii un bíi sòoǹ bin béeyee bɔti yii bi nín ŋáań puee kaa ŋān̄, ní ki ŋáań míǹ a-bee, a bíi kù a-ba bɔti dee.","m pụrụ? Sị na obi so m bee mbọghị, ị bụrụ na ịghọtaghị ka m na-ekwu, na ịghọtaghị abụ. Abụ iku abụ mbọte",1.0,0.7647
+666,Ní bi dū sindaariya ki mɔ́ɔ́ keerubimbi bin sá Unimbɔti nyootee bili ki tɔ́kɔǹ dakaayee pu kí dàkà yii Unimbɔti u-ba bí niin.,ne budo sun dari kuma idon yinsa unun boto nyote ille ko tokon da ka ye po ke da ka yi unun boto uba beni,1.087,0.4898
+667,Boonee ní bi cáá u-janjawanti ki yóoǹ bi-waadiiku kubɔn.,Bụ nụ bịcha ụjị ndị gwanterikị yọ bụwa dịkụ nku bụ,1.2222,0.6222
+668,Bi nìn bí ki tūǹ bi-Nimbɔtiu tundi ní ki nìn ŋáań circir tin kɔkɔ sá bí ŋá circiree.,"Benin bɛ kɛ tɔn Benin bɔtu tunde, ne kɛnɛ nyancheche tɔn kɔkɔpɛ sa bɛ nyanchechere.",1.0,0.5231
+669,Ubɔti nì Yooyadaa nìn dū animbilee ki tīī bin kpèé ti-Dindaan Diiku ŋānkitam tundee.,Ubochi niile yọrọ ya na ndụ a na-mbiri kịti bụ nkpe tupu ya ndụ a ndụ iku na nke taa m tupu,1.5714,0.5507
+670,di dɔ́miń ki máafí Siiyɔn tibɔmɔntiil yii: «Ti-Dindaan ti-Nimbɔtiu tɔ̀n̄-ti.,de domaine de ma passion,1.0,0.8276
+671,"Ŋyunti ŋun ní bi cáá ti-Dindaan Poondi dakaau ki bàn̄ <Daafiidi Tiŋkinee>, Saayuul bisal Miikaal gbóoń tɔkɔla ki kpēē ní ki ká Ubɔti Daafiidi bí ki ŋōō nì dipɔɔpindi.","N'oge ntụgharị, na biko tinye aka na pụọ na aka ekpe na David Tinkne. Soro ya biko mee ka gị na tokola ka kwe na ka ka obodo David be ka nụ na",1.1379,0.6591
+672,ḿ dū-bi kí kpántí inimbɔti kí nīn jáaḿ.,kpakpante inu mgbote kene m,1.0,0.6667
+673,Daafiidi nìn fōō u-cee janjatɔrɔkub kutuku ní ki cúú u-janjaliibi bitanjakaliibi binib kutukub biluli nì u-janjaliibi bin còom̄ kitiŋee binib kutukub mmuŋku.,"Dafidi n'ụfọdụ uche, jante tọkọ kụdụkụ n'ike chụọ jante libe, betan jeka libe, binnebe kụdụkụ be bụlụle nụ ụjante libe bụ nchọme kụtinge binne kụdụkụ bụ ụmụ",1.2273,0.5191
+674,sii un fìil̄ bin kɔkɔwoooo sáń bi-nannanliibi ki kóò-see.,"Si unu feel be nkuko wu saint be na na nlibe kuko ose, deka a nebe di ne kpa ndi di acha bu pwe. Si unu feel be nkuko wu saint be na na nlibe kuko ose.",4.1111,1.8889
+675,Udaan làá kūtì man m-ba tɔntɔnliibi bin m-baa Daafiidi nìn lēē bi bí Jeerusaleem tiŋkin nì Juuda timmunee pu kí tɔ̄ ditundi.,"dans la côte de main, Bethléem, Béthanie, Jérusalem, Juda",1.0,0.7576
+676,Di sá yii ni-wíiŋŋu kaa pée dàbiǹ anibul ŋin kíǹee yɔŋu báà fiii.,Nke a bụ ihe dị m mkpa ịdabere anụbụrụ m gịnị bụ ihe ọ pụtara?,1.1538,0.8627
+677,"A gíti ŋá alaakpaatuun tikpil nì Babiloon yab, binyampoobi tiŋkin, ama an kaa túń-si ditundi.","Aka tun na ala kwa tun tukwul na Babylon yeb, bi nya mpu be tun kin, ama anka to si re tun",1.4,0.3867
+678,M làá jà bin kóò ki-puee kí yòon̄ kuteeu ŋgiil pú kí cáá sāā Riibila tiŋki ŋgan pú.,Lajja Bangkok,1.0,0.8889
+679,"A cáá dipɔ́ɔǹdi, ki jíń falaa m-pu kaa yɔ̄tì a-wunti.","Acha atupuo nde, ajimfala mpu ka ayota awu",0.9,0.5
+680,Ku wúntì Fiiliistii yab dɔ́miń kí fūkul̀ bin bi kūūyee wantee ní ki ká yii Saayuul nì u-jipɔmbi taatil kpíì ki dɔ̄ Giilboowa jool pu.,Gwamna ya bayyana cewa fure da bukukuwan wate na kawo sauyi a wajen kwantar da hankali da kuma zaman lafiya.,1.0,0.8077
+681,Tiwan tin a cáá a-nimbil wāĺee sɔ́ǹ tin a là kí nīn cááyee.,Tu as acheté un nouveau vélo hier. Tu as la clé de,1.0,0.8409
+682,Úǹ di nìn kūū Moowaab tiŋkin janjakpaambi bili.,ko nu ko mu wa beten ke janja kwambe,1.125,0.5897
+683,A là kí kpɔ̀ un baba bí deedee ki cáá mpɔnee bɔtaaa?,ala kụkpọọ ụmụ beba be deedee kechaa mpọnụ gbọtaa,0.9167,0.4615
+684,A-tɔntɔnliibi bininjab nì binimpoobi máaǹ kí tɔ̄ bi-ba kí ŋùŋfì kii siiyee ŋwiin gbanti.,,,
+685,"Ni-jiŋaalib wiiŋyi nì uŋmal kamaa wimpeepeekaaŋu nì jiŋaalib bin kíǹeeyee, ní nīn búǹ dikantándi ŋyunti ŋun ni bíi ŋáań saraawɔkaa nì mpèé saraau ki tìì-mee.","Njingal bu wiy na ungal kama unpepe kanu, njingal bu nkine ni ne bu inda kontane in tunun ni bi nga sara wo ka ni mpe sara wo ke time.",1.16,0.4806
+686,Samaa un kɔkɔ kíǹee làá nīn bí ti-Dindaan Diiku cindin.,Namba unko ko kine ya nimbite dunda diku,1.0,0.5455
+687,Fiiliistii yab gba nìn cāabìń tiwampɔkaal nì animbil nì patantib ki tìì Joosafaati.,Pili siye gba ni chabe tuwanpoka ni anambe ni patantebe kiti,0.9231,0.5
+688,kubuŋkpaaŋŋu jītí waa ŋūǹ kí dòon̄ sooooyee ní.,Kopong kwao jete wa nko ke duoso ye,1.0,0.6579
+689,"Bi nín cáá-bi ki bāań Yabeesee ní bi dū bi-kpabiŋ ki síb́ teereebinti subu bubɔ taapu Yabeesi tiŋkin, ki bóob́ kinyɔkɔ iwiin iluli.","Ndi ncha bu ka mba ya bu isi, na nke di na ukpo bu nke si na ya di beati so gbugbo tapu ya ebe site nke. Ka bu obi ka nyukwara igwe ilu",1.4783,0.6117
+690,"Too, kitiŋ nee kaa làá ti tɔ̀ntī ki-nib kaa làá ti kpɔ̀ bi-biyaamu.","तो कतई नहीं, कल आते तो हम तो कल आते तो",1.0,1.0
+691,"Mmuŋku nì uliliiti di sá Giidalitii, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.",Wannan kunne ulili ce duk sa giddari ce wannan uju fombe na ula biyan bin salanin,1.0667,0.5714
+692,Ŋma di cáá nsan kí kɔ́ u-circir diikun?,Madi caa in sai. Koko ucer cer di,1.0,0.4483
+693,"Niinee ní uteemanja Eeliifaasi fōō dinyɔɔbundi ní ki bí yii: An nín píĺ-si puee, taa bàà là kí sòoǹ.","N'inne n'utte mmanja elifaze fo de nyobunde, nke bi ana mpele se pui tabala kisu.",1.0,0.4872
+694,Disubambil diba làá dāá kpìtī Jeesee sunyeel pu.,De suba mbe de ba da da kote je se sunye,1.375,0.45
+695,A nìn cɔ́ŋkì-u Maasa.,"Tanan da addu'ar tumimu na aurimu, kiti wani fatse ne, ana chonko ma",3.25,2.9333
+696,"Iwiin iluli dalee, agun nìn cúu kpīkitì ki lítì.",wuri idan leda le a goyi cewa ku gita kalla,1.1111,0.6579
+697,Goosimiitib nì bibantiliibi di nìn bí ki ŋáŋkí sintil diiku kun tɔ́kɔ́ digunlɔkɔl puee nì Apibil punyɔkɔki kansikin.,Gosi m ite be na be bantele be di na mbe ka nga nke sentel di oku ka m tukodu gi mfokol poyi na apebele pu nyoko ka,1.5,0.5104
+698,M tɔ́ a-marab kaa dī bin ŋáań tipɔmbɔtee saŋŋu.,a marave,1.0,0.8333
+699,kí cáań a-jincakaati kí páań kukaatuŋu puɔɔɔ?,किचा अजन चकाते कपा ककातुम पो,1.0,1.0
+700,M làá dū ŋkùm nì ipeecuncuti kí tɔ̄ ni-pu ní í kpɔ̀ ni-biyaamu.,"Nna di nkụ, ị pé chụchụ tupu ị kpọọ na bịa.",1.0,0.7391
+701,Kí yòon̄ ŋyunti gbanti ní bi kíǹ ki yíì niin yii Daafiidi Tiŋki.,"Kayan yancin gbatane, baka yi ne yi, David",1.0,0.6
+702,Daafiidi nì Isirayeel tindaŋkpilib nì bijanjakpilib nìn nín cá kí yòon̄ní ti-Dindaan dakaau Oobeedi-Eedoom dumpu.,,,
+703,» Niinee ní Daafiidi yíiń Isirayeel yab kɔkɔ ki kpáfì Jeerusaleem tiŋkin bí yòon̄ní Unimbɔti dakaau kí cùnnì laakin u bɔ́ntì kí yóoń-uee.,"Nene David, yi Israel yakwako ka kwafuje Jerusalem thinking. Do you know unu mbotu daka o ka chune lacking ubonti ka yoo",1.0,0.4818
+704,"Dakaayee nìn yúl̀ Oobeedi-Eedoom dumpu iŋmal ita, ní ti-Dindaan bīiǹ u nì tin kɔkɔ u cááyee pu.","Ka chai nu yiri obede edom dumkpuna inwere ita, netenu ndia bu unu ntu nkwukwo wuchaa ipu.",1.0,0.5811
+705,"Míǹ puee, Unimbɔti un baba sá uciŋfitee ń ká tinyool Yeesu Kriisitoo pu kí nīn pée cá jaanjaan!","M'empe, unu mbotewu m'babasa ukenfete nkati nyo Jesu Kristo po, unu pe cha janjan.",1.0,0.4474
+706,"Ní Mooyiisi tú bí yíiń Eeliyaab jipɔmbi Daatan nì Abiiram, ní bíǹ kíí yii: «Taa làá dāan̄!",Il y a du pomme de terre à Biram.,1.0,0.8116
+707,Ama bin làá dāá páań u-boonee kaa dāa gíti bí dipɔɔpindin u-pu.,"Amma, binne da panu obone ka da gite be depe opende",1.0,0.5102
+708,Niinee Leefii yab dū idɔ ki bɔ́ Unimbɔti dakaau buŋyin ki yōoǹ ki būkuǹ ki nóó nì ti-Dindaan nín nìn tùkū Mooyiisi bí ŋá puee.,"Ndi niile fịyere do ịdọ, ka unu ngwọta dịka obunye, ka unu bukwe ị, ka unu ntịdịnda, unu ntịkọ mọịsị, biko",1.0,0.6566
+709,Mooyiisi lī míǹ ki dóòyee ní ki dúkutì ŋkpandɔ ki fáá ditaŋkpalee mili.,"Mụ bụ onye na-eme ka ndụie, na-eme ka ndụ gị na mkpụrụ obi gị fa dịta nkwali mma.",1.3846,0.7931
+710,Isirayeel yab làá dū kudiiyee kí sú-u.,"I say, I live in a village.",1.0,0.8
+711,"Koor jipɔɔn Saafati, u sá Simeeyɔn naakookun.","कोरजीपॉन साफाट, ओसा सेमेयो नाकोको",1.0,1.0
+712,"Simeeyɔn naakookunee, bijanjaliibi nìn sá binib kutukub biluli nì dilaataal, ki sá bibaatandambi.","na koku ne,",1.0,0.9024
+713,Bi nìn dūu ŋá tiwan tin bi cáa tūǹ ti-Dindaan Diikun ditundee nì tin bi cáa ŋáań saraawɔkaayee nì asambil nì sindaariya nì animbil kúti wanti.,"Bụ ndị nụ nga ntị, biko atụla egwu ndị tunde na biko nga sị na akwụ ka anyị na assembly na ndị Anambra North",1.0,0.6348
+714,Isirayeel yab kɔkɔ nìn bàn̄ Siini teekun dibindi ŋmapeepeekaau poon ní ki kāl̀ Kadeesi.,Israël ya bako ko na ba'isi na tekun da benden ma PPK opo na ka kal ka des,1.2857,0.4507
+715,Asaafi di nìn kpòotī-bi ní Seekariyawuu tútúǹ-u.,Asafohene di ne mpɔtebɛn Sekyere Awu tutu,0.8571,0.5897
+716,U làá dū bi-bɔtiibi ki ŋá ni-ŋaan ní ní kpɔ̀-bi kí kpìtī bi-yiŋŋi kitiŋ pu.,"लाडू बबटीब के न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न न, नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन नन N.",504.5333,176.8
+717,Ŋma di ŋúń ki tùkū-u dalba yii: «A ŋá tin kaa kítèe»?,"Mère Ngui, que ton cou dans le bail, en attendant",1.0,0.8378
+718,Kipunyɔkɔ kamaa nì ditaŋkpapiiŋkaal dimɔndi.,Onye ọka ikpe maara na etu nkwa pịrị nka dị mma.,2.2,0.7436
+719,Ama míǹ boonee.,"Ama, mbu",0.6667,0.5833
+720,nì abɔtibil nì kitiŋ pu kpootiliibi kɔkɔ.,ne abotabel ne ketempu kpotoliboko,1.0,0.4412
+721,"Asaa nín kāl̀ dibeel puee, ŋgbansɔŋfi nìn dɔ́miń Juuda tiŋki pu ki cáa sāā abin saalaa.","A sà, nín ka jé bél pui. Ìgban so n'fè n'dómi jùda tén k'pui. K'cha sà àbin sàlà.",1.0625,0.4853
+722,"Úǹ boonee, Beereekiya jipɔɔn Meesulam di nìn bí ki ŋáŋkí dijandi din túĺ u-diikuee.","M'boné, bé rek ya jëppón. Mésalam, di nañu bëkk ñank di jande di tàll u di ko",1.1429,0.4925
+723,"Maa làá dāá kpìtī udaan yindi dimaŋfal gbɔŋku poon, ama m làá dāá lì m-Baa nì u-tuuŋyi kɔkɔ nimbiin yii man di yì-u.","Malaika gị dị gị n'anya, ịma mma gị adịghị akwụsị akwụsị. Ama m na adịghị mba na otu ịkọrọ mụ na gị na ndị",1.0,0.7528
+724,"M bífì ki béè tin di sá iciinee nì tin kaa sée, tin sá dinyil nì tin sá digbaandee.","Befe kebe, tensa ichine, neten kase, tensa renyire, neten sade gwaande",1.0,0.4444
+725,An kíǹ Unimbɔti Mpɔŋkɔdaan nín kíí-mi!,Nke a bụ ụmụ nwoke mpa nkọ daalụ nke ukwuu.,1.6667,0.7742
+726,"Kudii ku-ba púuŋŋu nìn sá kukaluuee fɔkɔŋŋu imuŋku ili pu, ní ŋwaan sá mmuŋku pu.","Kedi kupa pungu ne sakukala wefukongu, imu kuilepu ne ngwaansa mmonku",1.0,0.4062
+727,"Mimmee, sii un kù bin béeyee bɔti ki mun ŋáań míǹ mbaantiimee, a dàkafī yii a làá nyā Unimbɔti bɔsooŋyinaaa?",Mmemme chi ụṅkụ mmemme ịbọte ụmụ nwaanyị mba ntị mee adịghị adị anya ụlọ mbọte bọọsụ ụlọ ịna.,1.0,0.6512
+728,«Usaraaŋal kaa máaǹ kí sútí kí pìl̄ dinikpil kí kɔ́ǹ u-ba tijɔkɔndi.,,,
+729,"Míǹ boonee, ú ŋá u-ba circir ní kí cīití iwiin iluli ní kí nín kíĺ ditundi.","m'mbone, unu abachaa ichi na nke chiite iwe na-ewe unu, na nke na-ekele dị",1.0,0.7018
+730,"Bí dū tiwampeeŋkaal gbanti kí síiń adiin ŋin bí circir laŋkee, ní kí kpántí tiwan, kí taa nín pēē tiwan tin bí circiree kí gbēē samaa.","Bịa tụọ mpe ka agwa gị si adị gị mbe chichiri na nke. Na nke kpanchị tụọ anyị, kị taa mpe tụọ mbe chichiri kị gwaịsị m.",1.0385,0.6415
+731,"Bi nìn bēel̀ biba ki gbáń-bi anaalab, ki nìn gúĺ biba nì ikusaka ki cáa tɔ́ sarka.",,,
+732,Maa nìn yàntī unicaan ń dòon̄ mmɔŋki kutaa ń wúntí u-pu.,Mani yante unicha ndu monke keta nwunte,1.0,0.5116
+733,Ti-Baa Unimbɔti nì ti-Dindaan Yeesu Kriisitoo ń ŋá-ni tiŋan kí tīī-ni ŋgbansɔŋfi!,"Nte ba unọmbotọ nte tin da ye Jesus Christ, nwan ye tin ngayi kiti nte ngwan nsọ.",1.4167,0.6308
+734,Ŋu sìntī Jɔɔdan tantakalin ní kí tin kɔ́ Ŋyaam mɔɔlin.,"Mụ sị na mụ ga-ewetara gị nri, ị sị na ị chọghị ya.",1.3,0.814
+735,Bi náań nì inoon in bi jìn̄ ki nyántì i-diikun i yàl̄ee.,"Bana na inu yi bijin, kinyante idi kun iyale.",1.0,0.3415
+736,Daafiidi nìn yāntì bi kóoǹ binicambi bin kóò Isirayeel tiŋkinee ki kpáfì ní u lēē bi-kansikin bin làá kpítí ataŋkpee bí dūú mā Unimbɔti diikuee.,"David na ya nte bukọọ, b'ọ nụcha mụ, b'ọ nụkọọ Israel tị nkịne ka kpọfe, n'ụlọ ya bụka nsịkị, b'ọ laa kpọte atụrụ ya. Bido mma, ụlọ mgbọrọ dịkwa",1.16,0.5763
+737,"Ataŋkpee ŋin bi dūu kíĺ taapu ki nín máń digundee ki tɔ́kɔ́ǹee puee, bi dū ataŋkpanyaan ŋin bí tɔbinee ní ki nákáǹ.",,,
+738,Naa máaǹ kí lì yii: «An sá nì ti-pɔŋŋu nì ti-pɔɔndi pu ní ti ká tigaajawan nee kɔkɔ.,na ma kili,1.0,0.8871
+739,Án làá fàtīí bútí Soodoom nì Samaarii nì ntimbilimu mun māntìi tú-muee.,Allah fati buti sudom ne samari ne ntimblimu manti tumu,1.0,0.431
+740,"An puee man nín dàkafī puee di sá yii tin ŋān̄ ki tīī unilee di sá ú jī, kí nyɔ̀ ní kí jī u-tundi pu u-maŋfal wiiŋyi in Unimbɔti tīī-uee.","M'apwè, manman'm di ka fò'm pwè, desann t'angay k'ti ounelè, desann ouji k'nyo. N'keji ou tounen pò, ou manfa wiyen yeyen ununbòtè tiwe.",0.9667,0.6238
+741,"Úǹ di nìn tí fātìi máń Siiloowee nyimbɔbil gundi, kí yòon̄ ubɔti kpaabu kí cáá sāā nsan ŋun jɔ́ḿ Daafiidi Tiŋkinee.",Gunde n'nti fati m'anyi si na wee nye m gburugburu gunde. Ke yoo ubọte kpaa bụ kicha asa nsa nụ njọm na afiidịte nkene?,1.1429,0.5165
+742,"Mbusupeepeekaa dɔ́miń ki ŋá ki jítì, an kíǹ mbusub bili mun ń dāan̄ dee.",mbuṣub ka ɗomi ka ṅak ka jite anke mbuṣub bəlimoy nda,1.0,0.5455
+743,ama m yíì binikpitib ń dàkà-mi dineendi.,"Amma inyi binikwetebe, ndi ka m di na",1.1429,0.5625
+744,An pu ní ti-Dindaan làá cáań atulim ki tɔ̄ a-nibul nì a-jipɔmbi nì a-nimpoobi nì a-gaajawanti kɔkɔ pu.,"mụ na ya jendah, lachaa atụrụ m, kịta anụbụrụ m, ajụpụọ mụ nụ, anụmpụọ mụ. Nụ agaje wamụ kụọkụọ",1.0556,0.6026
+745,min kamaa m nyí yii bibɔsoonliibi kɔkɔ pá m-boonee.,mụ na kama gị bụbụzi ndị kọkọrọ mbo ụne,1.0,0.6341
+746,"Fookii un Raab kinimpulaakpaayee nìn cáá Unimbɔti puee di yì-tì ní baa nìn kūū-u ki kpáaǹ binikpitib, kun puee u nìn ŋá tiniti ki fōō binib bin bi nìn tú bí cù kí cɔ̄ŋkì kitiŋee.","Otu a ka ụmụ raba, ụmụ nwaanyị na-akpa ya n'icha, ụmụ nwoke na-akpa ya. Dị ịtị na, baa nụ nkụ, ka kpọọrọ ya bụ nkwụ. Kụmpụọ, ụmụ nwanyị na-atị. Kụfọọ ya bụ nkwụ, bụ nkwụ bụchọọ, kịchaa ya bụ nkwụ.",1.1429,0.7986
+747,ní m cūtìi nákáǹ m-bɔɔ punyɔkɔpu ki cíitì-uee.,ne nkyerɛkyerɛmu a ɛfa panyin panyin ho kyerɛkyerɛ,1.0,1.0
+748,"Man ni-Dindaan di sòon̄ ní tin m yaa sòon̄ee, tíǹ ní m ŋáań.","Mende na ndisu, nte iya so ne tin nga",1.0,0.5349
+749,Niinee ní kubuŋu ń yīkì ní kí ŋàtī kutagbɔŋu.,"Nne, nekobum inyike, nekem ngati kita gbon.",1.0,0.5833
+750,Ni lēē nimbi ni-ba bisaraaŋaliibi kii anibul ŋin kíǹee yab nín ŋáań puee.,"Ndebe, ndebe, ndebe, ọrụ anyị bụ ịrụ ọrụ.",1.0,0.8305
+751,"Unil yaa kāl̀ kitiŋ pu ki yúntèe, u máaǹ kí jī abin gbanti kɔkɔ pu.","Unu ria karkete mpu, unu yute, umu nke ji abengba ntukokopo",1.0,0.5
+752,"Mimmee, ti ká yii ti nín fōō-u ki kííyee pu ní ti kpántì deedeedambi Unimbɔti nimbiin, ní ti nì Unimbɔti kansikin ŋáŋkì ti-Dindaan Yeesu Kriisitoo pu.","m'ete kai t'enfo kiki epo, m'ete kpan te dede dam unum bot nubi, m'ete ne unum bot kanska nganke dede da Jesu Kristo",1.0,0.5083
+753,M kpántì kii ditaŋkpiibil baayee ní doooo m-biyatin.,de,1.0,0.9535
+754,"Bi làá bɔ́ntí-mi idɔ an nīn náaǹ, di sá yii Unimbɔti diiku kun m làá mēe làá nīn sá kukpaaŋŋu ní kí nīn ŋān̄.","Ndeewo unu mberede ihu kwunne, nla mme nlanse kụkwaa nwụ nụ kele nu",1.0,0.7407
+755,M làá yàntī binifoobi ń taa ti nín̄ gbōō kii sindaariyamɔntee.,"Là, il y a une tempête de neige qui s'est dernièrement montée.",1.0909,0.84
+756,"Ní binyampoobee kíǹ ki lì yii: «Tiwan tin pu a-nimbiliŋ máǹee kaa ti dàbiǹ-si, a-gaajati nì a-wannyaanti tin jìl̀ pàlpalee wáŋkì a-ŋaan, a pée gíti kpá kí ká-tì jaanjaan!",na be nya mpo be ke ke le yi tu wa ntu mpo anu mmele mma ne ka te da be si a ga ye te na awu nya nte te nje ba ba le u wa nka a na a pe gi de kpa ka ka ti jan jan,1.6897,0.4538
+757,Bin yíití biyidambee dátiń ditafadaaldi ki tòó bi-ba pu ní.,Mais il était bien tombé.,1.0,0.8333
+758,ní guuka ŋmiiŋu ń kútí ní ú jēetí lɔkɔn.,ne gokam mi kute ne ugete,1.0,0.6452
+759,"An pu ní bi nín yíì Unimbɔti yii bi-Nimbɔtiuee, an kaa cáá-u icoo, kun puee u bɔ́ntì-bi kitiŋ ki yóoǹ yilpu.",Anka ciao icho.,1.0,0.8889
+760,Jooram nìn cáá abin mmuŋku nì saalaa nì ali ní ki kpántì ubɔti ní ki kāl̀ Jeerusaleem tiŋkin ki jíń dibeel abin anii.,Jerusalem,1.0,0.9032
+761,Amaati bɔtiu Toowu gbìl̄ yii Daafiidi jáń ki pɔ́ɔkiǹ Sooba bɔtiu Adadeeseer janjaliibi kɔkɔ.,"Amadu Boto, Tuwo Gweliyi, David Jenk Paki, Soba Boto, adade se janjali",1.0,0.4868
+762,M ká iyumbu kā itaamu pu ama ní binikpaambi còom̄ ataa pu fám kii iyumbuee.,Ihe ka ịhe ọtụtụ ọrụ ugbo na-elekwasị anya bụ ọtụtụ ihe ọkụkụ.,1.0,0.8644
+763,"U nìn néeń u-yab bin bí duulinyan dooyee, ki gíti néeń-bi ki lákatì áli ki tin kátì-ku.","nne, oyibo, bembe, dunyanyi, doye, kekete nne mbe, kelekatị, ale ketin, katakọ",1.0,0.5152
+764,"Báà ŋma ń nīn tɔ́ biyidambi bin cáá mpɔn ki kpòotī kitiŋee, kun puee uyidaan ubɔ kaa bí Unimbɔti kaa kāaǹ-u.",Bangma,1.0,0.9405
+765,"Fool boon, ni-biyaamu yaa láa bālifì-ni yii: «Ba pu ní ti-Dindaan ti-Nimbɔtiu tīī-ni abɔkpaa nì akoobil nì marab nee dee?",fulbe,1.0,0.9462
+766,"Ní cɔ̄ŋkì kí kpèè yii kitiŋ gbanti bí mana, kí kpèè yii ki-nib pɔ̄ɔ̄yaaa, baa pɔ̄ɔ̄, kí kpèè yii ki-nib wīikáaa, baa wīikí.","Nne chukwu ka kpeere kitaa ngwanụ biko mana, kpeere ya ka na-ebu ọya baa ọpụ, kpeere ya ka na-ebu wụịka baa wụịka.",0.8696,0.6292
+767,"Kun puee bikpiipoobi biba pūtì kpáàa dū nsammɔnti ki fá, ki kíǹ ki nóó Sitaan.","Onye bekee pụrụ ịbá n'ụlọ nsọ mụọ nke fa, nke ka nke nọọ stand.",1.0,0.6935
+768,Bíǹ di dàkà Jaakɔb yab a-koobiliŋ.,"Ben duddaka Jacob yap akobulin, kuddaka Israel yap amaleb. Ben dutute talalub kitise, kinya sira woka asira fanupu. Tidin da",3.3333,3.1111
+769,"Boonee ní u fātìi nín gítí Jeerusaleem tiŋkin, u nì u-janjaliibi kɔkɔ.","Bụrụ na ụbọchị na-adịghị anya, salam tinke, unu janjalee",1.0,0.6607
+770,Dalba úǹ di dū u-kpaŋki ki jáń ki kūū bijanjaliibi alaataa ata kɔkɔ dikɔmbaantiil poon.,"Dabaruin, dido ukwanka, gijanka ku, bijanjalibi, alata, atakokwa",1.0,0.507
+771,Ŋma di ŋūǹ kí cúú u-wampeeŋkaati kí cátí nyɔkɔpu pú?,madam,1.0,0.878
+772,"Ŋyunti ŋun u nì u-boonnooliibi kā ki jīǹ tijoojinee, mimmee Sitaan pée lūkutì Juudasi Isikaariyɔti, Siimɔn jipɔɔn ú dū Yeesu kí nyāfiǹ u-nannanliibi dee.","N'ime ntụgharị akwụkwọ Nsọ nke Jọn, e nwere otu onye na-eso ụzọ Jisọs nke a na-akpọ Judas Iskariọt, si na ndị na-eso ụzọ Jisọs kelee ya na akwụkwọ Nsọ.",1.2083,0.8
+773,"Ní bi kíĺ ki bíi nyàab̀ Mooyiisi tibɔti ki lì yii: «Ti yaa bàà nìn kpíì ŋyunti ŋun ti-Dindaan nìn dáaĺ ti-nabiyaamu tafal bi kpíìyee, an bàà sɔ́!",,,
+774,Úǹ nìn màl̄ kibininjabiki bi yíì-kì Yeerameel.,फोन नंबर,1.0,1.0
+775,kí ŋmā kí pìin̄-u nsan ú taa wāl̀ bikpitiŋaliibi.,कंगमा कपी वू अनसाई उतावल बके तंगालिब,1.0,1.0
+776,"» Ti-Dindaan nín nìn tīī Mooyiisi mara Isirayeel yab ń ŋá puee, míǹ ní bi nìn ŋá deedee.","Tunda anan ne Timotheus mara Isaia ya ngapui, men ne bin nga daidai?",0.9412,0.5373
+777,Ní bi búntì ki cūtìi cɔ́ŋkì Kanaan tiŋki ki kíĺ Siini teekun áli ki tin bàn̄ Leeyoob-Amati caŋin.,ne b'bon te ka ce te cion ka na te ka ka kelesi te kun ala ka tan bayi le yob amati cange,1.2778,0.4868
+778,Isirayeel yab tindaŋkpilib imuŋku ita nì saalaa nìn yú awaayee nimbiin.,,,
+779,asubimɔnti ń lòoǹ ki-gbantammu mun bí doooo cannaakuee pu.,A subemụ onte ụnụ lụ ka gba ntamu mụ mbe docha na akwụkwọ.,1.4444,0.5
+780,"Bi nìn dùŋfī dijandi din sá circiree ní kí tīī Leefii yab, ní Leefii yab mun ń dū tin bi dūu sú ti-Dindaanee kí tīī Aarɔn maaliŋun yab.",Béné ndu fa di jande di sa ci ci re ne ke tu le fi ya ne le fi ya bu muy ndu tembe do su te di nda ne ke tu a ron ma lu wu ya.,1.3571,0.4095
+781,"Usaraaŋal ń ŋá un kaa nyí ki yīntèe pu dikoobil din u máaǹ kí ŋée man nimbiin, ní udaan ń ká u-kpitii pɔ̄tam.",usuranger nga wankanye ke yente pu te ko belde uma ke nge man bi na uda nka okuti pota,0.913,0.494
+782,"M yaa láa fíntì-ni ki nyántì ni-kpitii kɔkɔ poon ni nyáń dándanee, m làá yàntī binib ń fàtīí kɔ́ ni-timmun ní bí fàtīí mā adiin ŋin nìn lítèe.","Ya na-efu ntị, nke ya na-etinye kwụtee kọkọpụọ na ya ndandane. Nlaa ị ya ntị bụ na m fati kọọ na temụịn na m fati ma adị ngị n'ịlịte.",1.0357,0.6055
+783,Rooboowaam nìn néeń Abisaloom bisal Maaka ki jítiǹ u-nimpoobi nì u-bɔntiibi bin kɔkɔ kíǹee.,"M'bọọ mụ n'ịne, abịsarọ m bịsara maka ka eji tinye ụnụkpọbị n'ụbọntị ebe, nkọwa kịne?",1.0714,0.6267
+784,Kun pu Saayuul nìn kpíìyee di sá yii waa nìn yúl̀ nì ti-Dindaan deedee.,"Kompasiyo ile ni kwiye jisayi, one unit di nda dede",1.0,0.5636
+785,"Ti-Dindaan, taa yàntī binikpitib nee ń ká kun bi nyàab̀ee.",Tiddim taa taa yantabene kwetabene nka kumbi nya be,0.9,0.4
+786,Jooram nìn yíkì ki nín cá Seeyiir tiŋkin ki kpáaǹ u-janjatɔrɔkub kɔkɔ.,"Jọrọ m, ne njikere. Kenechaa si yii tupu ị kpọọ ụjọ njọ tụrụ gị.",1.1667,0.7018
+787,M nìn dū tiwampeeŋkaal tin bi gbáńee nì igban imɔnti naatakaŋ nì dambalamɔnti nì ŋŋaamɔnti bɔkutikpaandi ki tīī-si.,N'ụdị ụmụ nwanyị ka atụrụ gbagwane na ịgbanyị ịmụ nwa na-atọ ụtọ. Na-adịghị amụ nwa na-aghá amụ nwa bụ otu kwaa dịka,1.2222,0.6875
+788,An gíti tí ŋmàn̄ yii: «Nimbi atimbun kɔkɔ ń nyɔ̄ŋkì ti-Dindaan.,Nke a tupu m ayi. Na mbu atum m nkuko. Nyo ka m atudi nda,1.3636,0.5745
+789,"«Faaroo yaa láa ká bijanjaliibi gbanti kɔkɔ niinee, án làá dāá ŋméeǹ-u tin bāań u-janjaliibee pu.","Faru ya lakaba jinjiri igban tukuku ni ni, ana da nme o tin ba jinjiri be",0.9375,0.4935
+790,Kun puee ti-Dindaan ni-Nimbɔtiu làá dū-ni kí kɔ́ǹ kitimmɔntii poon ní.,Combien tu donnes à une moto là où tu mets le coin que tu montes pour,1.4545,0.8
+791,"Kitiŋ nee puee, tiwan kamaa cáá ti-yuntiŋu, ní ŋyunti kamaa cáá ti-wanti.",कितने,1.0,1.0
+792,"Ní u-boonnooliibi bālifì-u yii: «Ukpil, ba pu ní bi màl̄ kijapaai nee nì ijɔfi ní?","na ubo na olili bapu yi, populu bapu na be malukwa ja pa ne na ijo fu",1.1333,0.4918
+793,"Amariya dicaŋkunee, Yoowanan di nìn sá ukpil.","Amarya da chan kunne, yo anan din na sa",1.2857,0.4054
+794,"» Yeesu lī mimmee, ní ki tíil̀ timɔtan kitiŋ ní ki dū u-ŋambiki ki mɔ́ǹ ntam ki dūu ŋmītì ujɔfuee nimbiliŋ, ní ki bí-u yii: «Nín̄ cá Siiloowee nyimbɔbilin kí fíntí a-nimbiin.","Ya sị na mme mme na-echeta ụbọchị nke taa na ka ọ dị unyọ mbu ka mụ na gị nọrọ. Ọ dị mma ka ụbọchị ụjọ fụrụ na-eme. Nke bụ eziokwu, mụ encha sị na ọ bụ ya bụ ụbọchị nke fe nti a na-eme.",1.4516,0.8092
+795,"Unanaati di sá Yiseerii, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.",Unu na-eche echiche ịsiri unu ụji pombe na unu bịa unu sara nụ mbele,1.0769,0.5833
+796,"Rubeen naakookunee, Seedeeyuur jipɔɔn Eelsuur.",C'est des yeux du pont Elsu.,1.2,0.7
+797,"Biba mun fookiiu pu ní bi nìn yāntì binib ŋáań tin bí deedeeyee, ní biba mun fookiiu pu ní bi nìn fōō tin Unimbɔti pōoǹ-bee.",,,
+798,Bi dì kiba pu ní kí kɔ́ kudikpaaŋŋun ní kí dī kin kíǹee pu kí kɔ́ circir páaa laŋki.,bịa kọba pụ na kụkọọkụ dịkwa anwụ na kị dị ka nke na-epụ kụkọọ chiri chi rịpaala,1.0,0.5556
+799,Míǹ ní u ŋáań ki fìil̄ bi-nammu ki nyāntí ŋkúmin.,M'n oñá ke fili benamu ke ñanté nkumi.,1.0,0.5405
+800,«Bin làá dāá gāā bi-tantib ŋwìiń jeetilaŋki púee di sá dijanjakitil din bí Eefiraayiim falaŋkau taapuee.,"Bila na ga abụghị ntị, unu wee jịta nlaṅkpu ndị sa, di jị nja ka taa dumbe, ife anyị mụrụ nlaṅkpu taa pụrụ",1.375,0.6047
+801,"An kaa sá u nín gíí ki dóòyee ní u lī, an sá min waa láá gííyee ní u nìn lī.",An ka san wani gida ne wanda an san mai walagiyen ne,0.9048,0.6296
+802,m ká nsan ŋun pu m làá dī kí fīī-u kí lííyee.,ka n'esseyer mon pot,1.0,0.9062
+803,"Laakin kamaa ni yaa kóòyee, ni-timmu làá kpántí adigbuŋkati ŋma ní ní sāǹ kí fá ni-waatootipaaŋyi.",Lank kama ni akui ni tumulakwante adigbon katugmane ni sai kifa ni wato tupain,0.9375,0.443
+804,U kíikí kí dòon̄ a-naabakakun kunyeeuaaa?,Otu a ka ị ga-esi dozie akụkụ kịnye wa.,1.5,0.7273
+805,"» Niinee Joowaab nì u-janjaliibi nín cá kí já nì Siirii yab, ní bíǹ sáǹ-bi.","N'oge ubochi udi njem a, ncha ka jiri nsiri ya na be",1.0,0.7143
+806,M nyí bin kúŋfí a-boon ki yíì bi-ba yii Juuda yab kin kaa sée.,"Nye, biko afu ka i ibebayi Judah ya nke a",1.0,0.5652
+807,"Kitiŋkuliŋŋi laakin nnyim kpée, u yāntì nnyim nyáń ditaŋkpal din pɔ̄ɔ̄yee poon ki tīī-ni.","Kétong kuluŋ laa kiŋ injim kpe, wuyaa te injim nyaa di taŋkpaa dem pɔɔi pɔɔi ki ti",1.1429,0.4366
+808,"Mmuŋku nì upeekaa di sá Ootiir, u nì u-jipɔmbi nì u-nabiyaamu binib saalaa nì bili.",Comment on conduit une upéca,1.0,0.8615
+809,"U bàn̄ee ditafadaaldi lafun kíĺ bi-kansikin, ní u tūū talaalu, ní ki ŋá Isirayeel yab pu bi nín dì min ki ŋáań ikpiti pɔ̄tam saraabee.",Israel,1.0,0.9423
+810,Ama u pà binib bi-tuuŋŋi paati ní.,"ama, upa, bennebe, betoong paten",0.8571,0.5385
+811,báà ŋwimbaanti kaa làá gbéeǹ.,ba unban te kalagbe,1.0,0.5417
+812,"U pú-bi bí nīn bí deedee u-nimbiin, bidambi ń nīn cáá dimaŋfal kí jī dibeel.","Opubu, benen be dede unubii, bedambe inencha mafa fokoi ke jide pe.",1.0,0.5172
+813,"Ŋwiin gbantee, binib bin kóò ditiŋkugbandee làá dāá lì yii: «Kpèèmaan tin bāań bin pu timbi mákée!","ngwongwante, mbe na mbe nko di na nku gbande na da lii pe ma nti mbe mpu ti mbe make",1.1765,0.4744
+814,"Nì min kamaa bi cáá dipɔbilee, bi dū-bi ki kútì bin bi kūū kujaaunee pu.",ne m'en calme à bicha de poble,1.0,0.7818
+815,Damaasi tiŋki kaa làá nīn gíti sá kitiŋ ki bí.,दमा से तिनके काला निगते सा तिनके,1.0,1.0
+816,A-naantiibi làá dāá nīn bí kii timool nín nyēē kitiŋ pu puee ní.,Ananti bladan mbeki tumole nnye ke tem pupui,1.0,0.48
+817,Bi nìn pée kpítì míǹ ní ki nákáǹ nákáǹ ki māntìi tú kunimbɔtidii.,Bana npe ekwenti m na-ekene ka m na-ekene ka m mata tupu m bọtị.,1.0769,0.6538
+818,Eelam bɔtiu nì u-janjakitil dɔ̄ bin bi kūū kujaaunee kansikin.,Bà m'a dit que j'ai un cadeau.,1.0,0.8
+819,Diwaal din nìn bí ki kùtī Unimbɔti poonee nìn bí nsan ŋun cá nsaraafan gbanti ceeyee.,the word the number,1.0,0.8986
+820,"Un yaa bí man ni ma mun bí udaan nee lòoǹ abil ní tikpil, kun puee ni yaa kaa bí man ni, naa ŋūǹ kí ŋá tiba.",Onye a bu mma nne. Mụ na ụmụ nne ya lụọ abalị na iteghete kwuru ka mụ bịa na ya ka abị mma nne na aṅụṅụ ka m na-ate,1.0741,0.6962
+821,U làá dāá nīn sá-mi ujipɔnti ní ḿ dāá nīn sá-u ubaati.,Wodeɛ daane n'asɛm wode ponte ne daane n'asɛw wobaate.,1.0,0.675
+822,Man ni-Dindaan Unimbɔti di sòon̄ míǹ.,na inu da unu bote disu me,1.1667,0.5862
+823,"Tin ŋān̄ee di sá á taa ŋmɔ́ tinan, kí taa nyɔ̀ ndaam, kí taa ŋá tiba min ŋūǹ kí yàntī a-nabiki ń lítée.","Tengeneza hata motinnai kitanyo ndam, kitanata ba menwonyi piyanta anabaka nlete",1.0,0.5135
+824,"Bi nìn pú niin diyindi yii Tabeera, taapu di sá yii <ŋŋmi wùn̄>, di sá yii niin ní ti-Dindaan nìn wùn̄ bi-naapaal kpaanceetii.","Bena mpu ni di yi ni yi tabera, tapu di sa yi nwowu, di sa yi ni ne te di da nuwun bu na pal gba cheti.",1.1304,0.4105
+825,ama man làá yùkū kí lákatí.,"Ama, manla yukukelakata.",0.8333,0.3333
+826,ní aa ŋūǹ kí kpántí tiba ibɔsoon in poon a bée.,Aṅwụ ịkpọntete ba ịbọsị onye mpụ abụọ.,1.0,0.6111
+827,Ama ti-Dindaan nìn tùkū Daafiidi nì u-jipɔɔn Saloomɔn yii: «Kudii nee poon nì Jeerusaleem tiŋki kin m lēē Isirayeel naakɔti kɔkɔ kansikinee poon ní m làá nīn pée lèekī m-ba ki dàkà.,"Amaghi m etu m ga-esi malite, mana enwere m olileanya na ị ga-aghọta ihe m na-ekwu.",0.9375,0.7986
+828,U nìn pée ŋá kii u-baa Oosiyasi nín nìn ŋá puee ní deedee.,"N'ime nganga nke ụba o si ase, n'ime nganga nke",1.0,0.75
+829,"Naa làá ŋmā kí kpɔ̀ kí céetí-bi dicilpu dicilpu niin, an yaa kaa sá míǹ ipeel làá bùtī ní kí nīn páb́-ni.",na lagma kpo kichete bute cefu cefu ni aya ka sami ipe la bute ne,1.0,0.6026
+830,Niin ní ti-Dindaan nìn lēē u-ba ki dàkā u-baa Daafiidi.,n'ụbọchị ụka ụbọchị ahụ,1.0,0.881
+831,U pìitī bi-tafaliŋ bí gbìl̄ tin u bíi wòoǹ-bee taapu.,"Ubi beta falum bigbel, tei ubi wombeta",1.0,0.45
+832,Ti-Dindaan Mpɔŋkɔdaan nín sòon̄ puee sèé: «M làá kóoĺ Eelam yab tɔbu.,"Tụdị na nsogbu na-atụrụ yere mị, ịla m ya pụ. Ị ntị gbantị, sị desị asị kpọntị jụda bọtọ nke ayụntị. Tụdị na m pụ nkọda nsogbu ịsị, ịla kọọlụ ịla m ya tọbọ",2.75,1.7736
+833,U nìn kāl̀ Jeerusaleem ki jíń dibeel abin imuŋku ili nì saalaa nì ali.,"ka je ni salamu ka je ni baye, a baye imonkwere ni salamu",1.0,0.6545
+834,Ŋma ŋūǹ kí tùkù u-juti tin bí ki dòoń udaan kpátam boonee?,M'ngonko tuko ujute tembe ka do uda kpata mbo ne.,1.0,0.4444
+835,"«Un yaa jáń ki jíńee, m làá tīī-u dimaŋfal subu bun yú Unimbɔti kpaabunee bil ú ŋmɔ́.","Unu ajankiji ni, nna tiwu, dimkpa rusom. Bunyu, unu ngbote kwa bu ne,",1.0,0.5938
+836,"Isirayeel yab nín nìn dáá kóò bi-tiŋkinee, bi nìn dū bi-bimbikpitim nì bi-tuŋkpitiŋ ki kɔ́ǹ bi-tiŋki tijɔkɔndi.","Isi na ya bụ na n'ndako bọtụkịlị, b'nendọ b'm'bụkwetịm na b'tụkwetịm ka kọm b'tịkị ka tịjọndụ.",1.0,0.5795
+837,Bi-yiŋŋi di sá Adina nì Joosabaadi nì Yeediyeel nì Miikayeel nì Joosabaadi nì Eeliiwuu nì Siileetayi.,"Dieu, je sais, Adina, nous, je suis Bad, nous, Idyel, nous, Mikael, nous, je suis Bad, nous, Eliwu, nous, sur la terre.",1.3125,0.6667
+838,Úǹ di gīintí biciŋfitiibi ciiŋyi ki fàtīi cáa cútí-bi.,"Ndege nte, bece mfetee chinye ka fati cha chu te",1.1111,0.5909
+839,"Daafiidi jipɔmbi bin u màl̄ Eebrɔn tiŋkinee kansikinee, upeepeekaa di sá u-nimpuu Akiinoowam un sá Jisirayeel tiŋkinee jipɔɔn Aminɔn.",David J. Pombe,1.0,0.9189
+840,M yaa lī yii m làá dòon̄ m-lambaŋki pu kí ŋùŋfì.,Il y a lit là-dans. La banque pour que mon,1.0,0.6857
+841,"Ní dāá dū unaa àá upii àá uŋoobu kí ŋá an saraabi, ní u-sɔnsɔfiŋu ń sɔ̀ŋkì m-pɔbil.",Na da do una a upi a ungo bu kin a ansurab. Na uson son fu un sonke.,1.0588,0.5323
+842,M nyí kun bí binib nee pɔbiliŋinee kí wàatī gba ní ḿ nín cáá-bi kí kɔ́ǹ kitiŋ kin m nìn pūtì ki pōoǹ yii m làá tīī-bee poon.,"Nye kpom be m na-ebipụta akwụkwọ akụkọ nke m, ka waatị gbaa na elekere abụọ nke ehihie, m na-ebipụta ya na Latibeepụ.",0.9643,0.7742
+843,U nìn ŋá tin kaa kítì ti-Dindaan nimbiinee kii u-baa Manasee nín nìn ŋá puee.,Ninga tin ka kace ta jinda ni ne ki ba Manasseh ni na ga,1.0,0.5167
+844,"«Un di yaa jáń ki jíń ki gbíntì ki nìkì ki ŋáań min fáatì-mee ki tin kátì-kuee, m làá yàntī ú jī dibeel atimbun pu.",di anyi nche kee ji kee bente kee nneke kee na-anu fatimi ite nkatakwi ndi anyi a ntu uju di be atumgbu,0.96,0.6512
+845,"Ti-Dindaan làá kàkatī iween kɔkɔ kí wàatī-ni, ní kí kàkatī tiweeŋkpiil tin nìn jéetì Eejipiti tiŋki pu nimbi ni-ba nimbil kée kí wàatī-ni.",Ndi na-akwado iwe nkwado ka ụwa tinye aka na njedebe nke mpụ n'ime mba ndị dị na mpaghara a.,1.0,0.7
+846,Kaam jipɔmbi di sá Kuusi nì Miisirayiim nì Puuti nì Kanaan.,comme je vous ai dit c'est à cause de monsieur Rahim,1.0,0.8333
+847,tiŋman dijandi din a tīī-mee ŋān̄ tikpil.,Dama dai za ni daina atime ngantakwalo.,1.0,0.5625
+848,Ŋma di léetì-kì ŋŋmii ki yāntì ki búntì ní?,"Mmadu lee taa ka m mị, ka ya nta, ka bụrụ taa",1.3333,0.6061
+849,"Báà ubɔ kaa wál̀ Unimbɔti dalba, ama u-Jipɔmbaabil un mun sá Unimbɔti ki bí ki nákáǹ u-Baa Unimbɔtee di yāntì ti béè-u.",ba obodo ka ọ wụlụ unu mụọzị na ba ama ọ jịpụ mụ ba bụlụ unu mụọsa unu mụọzị kịbị kịne ka ọ ba unu mụọte dị ya ntị,1.2727,0.5761
+850,"Báà campɔnti gbanti yaa nyánní sarkan ki kpántì ubɔti àá u yaa mèé u-beelin ki kāntí ki jīǹ, m ká yii kitiŋ nee puee, binib kɔkɔ làá nīn bí campɔnti gbanti jaaŋŋu pú ní ú dāá fōō ubɔtikpikee yil kí kàl̄ dibeel.","Mba champonte gbanti ya nyanisarkain kịkpa ntọ ụbọte, a ụya mee ụbele nke kanti ji, nka ị kịte ne pụị, bẹne kọkọla nụ mbe champonte gbanti jaa ngụ pụ nụ ụra fụ ụbọte kpeke yịrị kị kalịde be.",0.9762,0.5
+851,U nìn nyàab̄ ti-Dindaan u-Nimbɔtiu u-nimbinaamandi poon ní ki sīntiǹ u-ba u-baabi Nimbɔtiu nimbiin.,Unu nyawa bu ndị nta unu mgbatụ unu mere mmanụ pụrụ na nke sịntem uba uba abụọ na mgbatụ na mbị.,1.4286,0.5443
+852,"Min máaǹee dòoń bi-neeŋyin, ní bi-landɔkɔi tùkù-bi ŋyunti ŋubɔee, tin bi yaa ŋá an ŋān̄ee, nì tin bi yaa ŋá an kaa ŋān̄ee.","Mma ne do benen ne, ne blan de kɔi tukpe. Yutun u bɔi te bianga angande. Ne yutun u bɔi mui te bianga anka angande.",1.087,0.6044
+853,Á téetí yii a nìn kāl̀ kuyuŋu Eejipiti tiŋkin ní man a-Dindaan a-Nimbɔtiu dū m-pɔŋkpaaŋŋu ki nyántìń-si kitiŋ gbantin.,"Ateeti ana kalakuyun Egypt tinkin, ne ma adin da adon motu du, mpon kwa nwu ka nyanti si ka tengbanti.",1.0526,0.4255
+854,U nìn tùkū-bi yii: «M cáá díǹ nee abin dilaataal nì mmuŋku ní nee.,"Kunatukubi, ncha dinne abendilata ne mmu kuninde.",1.0,0.449
+855,U kíikí kí páań a-boon ditantakalin kí dáaĺ akoooo?,O ke ke pa abọ de tan ta ka le yi ke da le akọ.,1.6667,0.561
+856,"Binib bin bi nìn lēēyee kansikin bili, Eeldaadi nì Meedaadi nìn gbíntì dinaapaal pu kaa cūtì tanti cee.",Benne benne benne benne leye kans ke bille el dad ne me dad ne gwant di na parpo ka chuti tantichi,1.1667,0.4881
+857,Ní Isirayeel Nimbɔtiu nyooti yíkìi dāntì keerubimbi bin pu tì nìn bée ki nín cá kunimbɔtidii punyɔkɔpu.,,,
+858,"«Á tùkù Isirayeel yab, pɔɔgaatib nee tin man ni-Dindaan Unimbɔti bíi sòoǹee.",Akwụkwọ Izrel Pọọlụ detara ndị mmadụ nọ na Rom banyere ya.,1.0,0.8033
+859,"Manasee, Jooseefi jipɔɔn naakookunee, Peedasuur jipɔɔn Gamaliyeel.",Manasse Joseph,1.0,0.807
+860,Tibiiŋkaal gbanti làá nīn téetí Isirayeel yab yii unil un kamaa di yaa kaa sá Aarɔn dicaŋkunee kaa cáá nsan kí tūū talaalu ti-Dindaan nimbiin.,,,
+861,"Dàkà dibaatandi, tí dàkà dibaatandi kí fīī ti-nibul nì ti-Nimbɔtiu timmu.",debatendez debatendez,1.0,0.7966
+862,"A cɔ́ŋkì ki béè bin bí yii bi sá Yeesu kpambaliŋ, kin kaa sée, ní ki bīitì binyimɔndambi pu.","A chọrọ m ka i bido ịbụsa Kraistị ọkwa mbalị gị baasa, bido ịbụsa ndị mmụọ ndá mụ.",0.9474,0.7429
+863,"Beenjameen naakookunee, Giideewoonii jipɔɔn Abidan.",Benjamin Nwachukwu na-eje ozi na Abidjan,1.2,0.5556
+864,M làá kpɔ̀ ni-kansikin biba kí bíĺ ni-waaŋi gbanti nimbiin.,La peau de canard se prépare avec le vin blanc et le beurre.,1.3,0.8913
+865,"Unimbɔti di pàkà an niliuee, an kaa sá binib di pàkà-u.",,,
+866,"Ti yaa gbíntìi bíi pílifí ti-Dindaan ti-Nimbɔtiu nín sòoǹ pu ŋŋmikpaan nee poonee, see tí kpú.",Ihe agụntị bee puru tupu ndanda emebie akwu na-esite,1.0,0.7467
+867,«Bin làá dāá gāā bi-tantib ŋgan púee di sá dijanjakitil din bí Daani falaŋkau taapuee.,"Bia nụ, ọ dịghị aga, ọ bụ ntị bụ? M ga-mpụị. Dịsa dị njọ ka te, dị mbe dị aṅụfụla nke a wụ taa pụị.",1.6667,0.6377
+868,"Too, ba ŋá ní sii dàkà bin kíǹee, ní kaa dàkà a-ba ní?","Bangan si daka bankinai, nika daka aban",1.0,0.5263
+869,"Unimbɔti sá mpɔndaan ní, waa kpèé ubɔ fám.","Unu ngwa tasa mpo ndaanu, wa kpee ugbo fa.",1.125,0.5152
+870,úǹ di sá tinyool bɔtiu.,kun disatunyo lobotu,1.0,0.5
+871,"«Ni yaa làá yīkì ni-tiŋkin kí cùú jáǹ ni-nannanliibi bin táká-nee, ní búń akantán nì ijanjakuŋkuunti.","Nyalayi ka n'tenken, k'o jan n'na n'na libe ben takane, n'e bui akanten ne ija ja kuku",1.0625,0.4375
+872,Bíǹ bin kaa gíí dikpancandi ki nìn fàantí binifoobee sīntìń kitiŋ taapu.,"Bụ m bụ nke a gị dịkwa ncha ndị, kee na fa bụ ndị fụrụ be? Sị ntị kee ntị na",1.75,0.6
+873,"Seeraya dicaŋkunee, Meeraya di nìn sá ukpil.","Mera ya di pankune, mera ya di nsa",1.1429,0.3889
+874,Seem jipɔmbi di sá Eelam nì Asuur nì Aripakisaadi nì Luudi nì Aram nì Usi nì Kuul nì Geeteer nì Meeseeki.,"sympathie, pomme, douceur, âme, assou, alpaga, sade, lude, arame, ousse, coule, gaieté, messe",1.0,0.6548
+875,M ká tin kɔkɔ ní binib ŋáań kitiŋ pu dooyee.,ka tun koko na unar nga ka tun pudoye,1.0,0.5294
+876,ní ki gbáà ki fúkuĺ binikpitib nyiŋŋi.,na ka gba ka fukule be na kpetebem nye,1.2857,0.5806
+877,"Kɔŋkɔnnee, bin kpántì deedeedambee di sá bin kɔkɔ fōō Kriisitoo ki kííyee.","K'onkonde, bekwanti dede dambe, desa bekwakwafu Kristo kikiye.",1.0,0.4754
+878,An puee á ká kunyannyaau kí kpántí a-ba.,"Aka ka nyanya, ka fa ikete.",1.0,0.6452
+879,"Kicɔkɔ yaa gbītì ní baa lōoǹ-kì, ní a cáa bíi tūǹ ditundee, asee á mɔ̀tīí dàkà dikpabil ní kí ŋmā kí dūú gāā tiba.","Ke chọkọ ya gbite na baalu nke na achị abịttọ tunde tunde, a sị amọta ịdekari kpabiri nke nmakadị ụge atọ.",1.0,0.5349
+880,Bi síb́-bi ki kútì bin kaa gíí dikpancandi ki sīntì ditaŋkpiilinee pu.,Bébé,1.0,0.9643
+881,"Kɔŋkɔnnee, bi béè yii tin kɔkɔ a tīī-mee nyánní a-cee.","Kpomkpom ne, na be yi tunkwọ atime ya na achi",1.0,0.6098
+882,"Baa sá duulinya yab, kii ma mun nín kaa sá duulinyan yɔu puee.",Bàsà dùnyà nyà kị mọ mụ nụ gbasà dùnyà yị okwu.,1.0,0.6875
+883,"Ní Mooyiisi nì Aarɔn yíiń samaa kɔkɔ ki kpáfì ditaŋkpalee cee, ní ki bí-bi yii: «Ní pīlifì, nimbi pɔɔgaatibee.","na mbu isi na aro ji samakwukwo ka kpofe, na ta nkwali echi, na ka be be yi na plefe, na mbe pu oga",1.2632,0.5233
+884,Nín̄ nyù ndamam fiii ipɔŋween nì a-wunti nín nyàŋfī múlmulee pu.,Nyenye ndamfi ipo wee na awu ntenye nya fe mulumule,1.0,0.4314
+885,"Isirayeel yab nín nìn nyáń Eejipiti tiŋkin, dibinliliitiil ŋmaliliitiu poon, iwiin mmuŋku dalee ní ditagbandi din nìn dàn̄ tanti un poon Dipoondi dakaau bée yíkì.",Isuwa yabonininya ejititankana dubililiti maliliti po iwi imunkudali ne ditagbande denendai tante umpo,1.0,0.5
+886,kí nyāntí u-nibul icoo in cúú-bi kitiŋ nee poonee.,Kinyanti unebul icho yinchube,1.0,0.5641
+887,u fìil̄ ufalaadaan ki nyāntí ubaatandaan ŋaan.,O filho fala da que não te o batendo a.,1.4286,0.5789
+888,m-ŋalii yaa ti ŋá atuŋkpiti aba ki kɔ́ǹ-mi tijɔkɔndinee.,Nali ya tenga atunkwete aba ko coin me tojukon dene.,1.1111,0.5227
+889,U nín cáá mpɔn tikpil puee pu ní a làá nīn máká u-pu.,Unincha umphonte kweliphupho neala nimmaka,1.0,0.641
+890,Ugbaan di kā ki kpàl̄ iŋal ní ŋkùm ń kpɔ̀-u.,Gwan daka ke kwalliyal na inkum mpo.,1.0,0.5806
+891,Ní ti-Dindaan kíí yii: «Asee unil un còom̄ disaŋkimmɔntiil.,ne te rends qui est assez on a vu une chose de,1.3333,0.7826
+892,"An kúti ní Saloomɔn dāa dūu mɔ́ɔ́ kusɔŋkpaaŋŋu dikuŋkundi ki síiǹ kunimbɔtidiin nì ki-jaantalkub, ní ki mɔ́ɔ́ ku-sambiliŋ ŋin kɔkɔ bi nìn dū tasa kúti ki mɔ́ɔ́yee.","Akwụkwọ dị na salamu, Daalu mụọ ka sọnkpaa gị. Tụkwụrụ ndị dị ka gị, unu mụta dịị. Nne, ka Chineke gọzie gị. Nne ka mụọ, kụọ sọmbịlị, nụkọkọ, bido ndụ tupu kụte ka mụọ gị.",1.2963,0.6929
+893,Míǹ pu ní Unimbɔti dū-bi ki líiǹ kukpeeu kun kɔ̄ntí-bi icooyee.,"Mme unu unu mbatara double line, kpokpo o, ka m kpọtụrụ ị choo ya.",1.2727,0.6735
+894,Báà bi yaa kpántì bisarkadambi bi bóob́-bi ikusakaaa.,"Bà bịa chuyện tệ, bịa đặt cả đám bịa bùa bịa bả, điêu toa",1.75,0.7442
+895,"Meeliiku dicaŋkunee, Joonatan di nìn sá ukpil.",Meli ko de Chankuné Jonathan,1.0,0.5789
+896,"Ni yaa pílifì akoobil gbanti ní ki yaa ŋá ŋi nín bí yii ní ŋá pueeyee, ti-Dindaan ni-Nimbɔtiu mun làá ŋá-ni tiŋan kí ŋúb́ dipoondi din u pōoǹ ni-naanjabee deedee.","Nia pufu akwụkwọ ịgbanyụ, na ka ya na gị na-abụ abụ, na-agba egwu, tupu mụ na gị nọrọ na-ajọbe dede.",1.0,0.7222
+897,Binib bin nìn bɔ́ntì kí já kujaauee nìn dɔ́miń ki kútì Daafiidi pu Eebrɔn tiŋkin.,"Ben ben bonte que ja ja oui, David",1.0,0.7656
+898,ama u tìì bin tɔ́ ti-Dindaanee jilma.,amma otyi,1.0,0.8571
+899,Boonee ní Unimbɔti bí Abraam ń gíí dikpancandi án nīn sá kudaaŋŋu yii u sá deedeedaan u-fookiiu pu.,"Bụ nụ unu ṅụrịta bọọ abụrọọmụ gị, a nnọọ nsị kwụda nwa gị ụsọ dịịrị gị n'ụfọdụ ụbọchị.",1.0,0.7625
+900,Míǹ ní bi nìn pée ŋáań baabadal ní ki ká animbil tikpil tikpil.,"nne mụ na nna m bụ ndị Ngwa, Aba dị na kịka Anambra, tupu tupu",1.1538,0.68
+901,Bi nín kaa kāntí tikpitil tiba a-puee kaa tìì-si dimákalaaa?,Bini ka kan tetekwetel teba apui ka tise de makala,1.0,0.4167
+902,"Unimbɔti ŋanti tin u pú-ti faalaayee nín cáań-ti kuŋyee di sá, a-kpitii yaa yāntì ki wīikí min kamaa, u làá dūú pɔ̄-si.","O putu faalae, nchaa te kunye, disaa akwụti yaa yaa nte ke wike mụ nkama. Si udo",0.9545,0.5778
+903,"Ibaamɔn poonee, a lafun sá a-na bisal, unimpu un di nìn ná u-cal nì u-biyaamuee.",Bamanankan Alafan sa'a annabi sal. Unu po'o undi nanna uchel na obiamu.,1.0,0.45
+904,"Ama bi nín màl̄-see, bi dū-si ki bíl̀ kitiŋ ní, di sá yii baa nìn là bi-nimbil ń wāl̀-si.",አማ በደንብ መለሰ ብድሱ ክብር ክትግን ድሰይ ባንላ በደንብ ብልን ወለሰ,1.0,1.0
+905,"Yeesu mun nìn pée nyí yii u nyánní Unimbɔti cee ní ki làá fàtīí gítí Unimbɔti cee, ní ki nyí yii u-Baa Unimbɔti dū tikɔkɔwoooo ki ŋá u-ŋaan.","ya sumun na penyii onyan onumotche, nika dafatigidi onumotche, nika nyii ubaa onumot du tukwako wu ka nga unga",1.0,0.5413
+906,"Ní Yeedaya dicaŋkunee, Neetaneeyeel di nìn sá ukpil.","Né yé daya di Chankuné, Nathanael dé n'nsa",1.0,0.5116
+907,Oosiyasi kpíì ki cūtìi ŋàl̄ u-baabi ní bi síb́-u ki kɔ́ĺ u-naanjab bibɔtiibi ceekun.,"O si asị gị, ka i tinye ya n'ụba be nna gị sọbụ ka kwọlụ, ụna nja bọbọta ebe chekwa",1.4286,0.6406
+908,M dū ti-niisal Fooyibee un tūǹ ditundi Kriisitoo nikitil din bí Saŋkireeyee kansikinee ki ŋá ni-ŋaan.,"Ndi otu n'ime saịtị eBay, ụntọ ndị tọrọ Kristọ neketa edembe, sị na ekere ya ka ha si kee ka ha na-aga.",1.375,0.6145
+909,Niinee ti-Dindaan yāntì Fiiliistii yab nì Bilaalibub bin kóò ki pìlīǹ Kuusi yabee dɔ́miń kí já nì Jooram.,"Ni ne ta dinda anyan ta, Felisiya, ni bilali bu bu nko ka pirin kusu ya be domi ka je ni jura",1.2222,0.3882
+910,"Bi nìn ŋmàn̄ bininjab bin kɔkɔ cáá abin mmuŋku kí nīn cáa cá, ki bàn̄ kí cù kujaauee yiŋŋi.","Bụ na m ga-abụ onye na-akụkọcha abụ Ụmụnkụ, kị na m na-achịkọta abụ Chukwu ji wee yị.",1.0,0.7101
+911,"Míǹ boonee ti-Dindaan nìn tú u-bɔnaatiliibi bi-cee bí sāŋkì-bi kí fàtīí gíiǹní-bi nsammɔnti pu, ama baa nìn pílifiǹ-bi.","M'envoler tu dindes, tu, ou bon la télé biche. Puis ça que bah. Que fait guinée bah, il s'en va en toupet, ama, bah non plus.",1.3889,0.6915
+912,"Ŋyunti gbanti ní ti-Dindaan nìn tùkū Amɔtisi jipɔɔn Yeesaya yii: «Nín̄ cá, á gbìntī kutuku un a gbìn̄ a-caŋee, kí cúú a-naatakaŋ mun kí tákatí.","ya eteghete gbamgbam netiti ndi a na ntukwasa ji pụọ yisị a ya yị. N'ịcha, agba ntekwute kọnwụ agba achịngị. Kịcha wa na ataghị mụ nke takata",1.08,0.5963
+913,A nyí Unimbɔti nín tìì atagban marab bin.,Anyi unu nwere nti atagbuo m mara be be.,1.125,0.5152
+914,"ki sá m-gbampɔɔl, úǹ ní m sáń ki kóò.","que ça, on va en parler. Oui, ne",1.0,0.9231
+915,"Unimbɔti yaa làá dāá sòoǹ m-bɔtee, m làá dāá ŋá mana?","Numbete ya laa daa soo numbete, laa daa nga ma",1.0,0.575
+916,Ni nìn dūntì tikúti ki dūu mɔ́ɔ́ diwaal ki nántiǹ dinabil.,ne ne don ta tukute,1.0,0.8
+917,"Peeriisi yab bɔtiu Siirusi beel bimpeepeekaal poonee, ti-Dindaan nìn là kí ŋá min u nìn dī u-bɔnaatiliu Yeereemii pu ki sòon̄ee.","Père, si tu as voulu sur ce belle, ben pepé car pour nez.",1.0,0.8058
+918,Bi nìn kàan̄ Neefitalii naakookun yab ki nóó nì bi nín pēē pēē mmaal nì adican puee.,Benin ka Naftali na ko kunu ya kene o na Benin peppe mbal na adicham poy,1.0,0.4545
+919,Bí gāā tantib kí màntīí tū circir kɔŋkooŋŋu kí nīn dátiǹ-ŋu fiii.,"बग अतंत ब, कमन तितोची चकोनकोन कनदत फी",1.0,1.0
+920,"«An pu ní bi-nipɔmbi làá lítí mpaan nee pu ŋwiin gbanti, ki-janjaliibi kɔkɔ làá kpú.",ka m pụta bido pọmbụ laa lite mpaa na epu m wee ngba ntị keje nje rie ibụ kwọkwọ laa,1.3333,0.5231
+921,"Icoo ń cúú-bi bi-tuŋkpitiŋ pu, ní bí bīfì kí béé bi nín lēē kudii nee ku bí puee tiŋan.",Né bé bé fé ké bé bé bili lé ké di lé ko bé poyé,1.0,0.7538
+922,Ní kun mɔ̄ǹ-tee di sá ti cɔ́tí yii ti làá kɔ́ Unimbɔti nyootin.,,,
+923,"Tiŋman ti-Dindaan, a néeń Isirayeel naakɔti.",tunda a ni Isra'ila na,0.8333,0.6667
+924,Úǹ di jìn̄ a-nannanliibi a-nyɔkɔpu.,"Wun di sa okpa, ka ka atagba mpu ka jakai, ka puon ta ka ta ka da jo'un si. Wun mbotu wun bi janja ne sa atankpa na koko, wun daka opong ta pu do baba dal. Wun di jin anana lib anyo",8.4,4.3333
+925,Sinsiŋku nì dipibil di dāa kóò dicilpu.,Sisi ko ne de fa bile di daa ko di,1.2857,0.5
+926,> Ti-Dindaan ni-Nimbɔtiu u-ba di làá lìntī ni-nyɔkɔpu ní ní dùtī.,"Chiren danin boto uba, dilalin tinin yopu, nene dutu",1.0,0.449
+927,"An kaa nìn sá Yeesu ŋmaniŋma pu ní bi cá, ama kí tin kpáàa kpèè Laasaar un u fīkitèe mun.",ka m si Jesu nwanne m nwoke na ebi na ncha. Ama m na ihe m kwuru a kpeere Lazarus bu ihe m kwuru,1.15,0.7794
+928,- Ŋma di cáá nsan kí jɔ̄m̀ ti-Dindaan jool pu ní?,Murcha insaani ke jom tedan da jolo,1.0,0.5882
+929,Ní fàtīí gítí ni-tiŋki kin ní ibun yākatèe cee.,"na fati gete na tengekenne, ibo nyagate eche",1.0,0.4865
+930,"Uninja ubɔ nìn būǹ ki bí Beetanii, kitiŋ kin Maarii nì u-maan Maarta nìn kóòyee, bi yíì-u Laasaar.","Umu nne m, unu ebutela ni kee nke mụ na ụmụ mụ atara na nkoyie. Biko, lazaa.",1.0,0.6447
+931,"Dibindi gbantee, Amɔn yab nìn pàn̄-u lampoo animbil kúti tɔɔnib bita nì bilee tɔɔnib kutukub bita nì ɔɔji tɔɔnib kutukub bita.",,,
+932,"Waa làá sòoǹ u-ba pɔŋŋu pu, u làá dāá tùkù-ni tin tin u gbìl̄ee, kí dàkà-ni tin bí ki dòońee.","Olaso, ụba pọọ nwụrụ, ụda tukwụne, tenten ụgbọ lee, kịdịka ne, tenten bụgụdụ ne.",1.0,0.6418
+933,"Unil yaa dámintí tikpilee, u sòoǹ tikpil ní an kaa cáá taapu.","On ne l'y a démenti, te démenti-le.",1.0,0.75
+934,"Udaan nín kpēē man ni-Dindaan nyɔɔbundi fám ki yīntì m-marabee puee, bí nyāntí-u.",ụdị ndụ ị ma na ndụ ndanya ọbụla ị fụrụ ka ị ga-eme na abịpụ ya bịa nyantụ,1.3846,0.6719
+935,Juuda janjakitil kɔkɔ kpáfì binib kutukub dilaataal nì imuŋku inaa nì biluu nì binib alaataa anaa.,Juda janjakali ko'p-ko'p fe'l bo'linib ketib bo'linib latta ne imukki na ne bulu ne bo'linib latta na.,1.0625,0.4878
+936,u fìil̄-bi ki nyāntí nsan ŋun cáǹ unil ŋkúminee.,"Ofilibe, kị nyante nsị? Ụnchị ụnụ n'ụlọ ụka m'ọbụ",1.0,0.6486
+937,"Míǹ boonee, m kpēēyee, ní ki ká nnibiim tikpil tikpil, ubɔ kaa ŋūǹ kí kàaǹ-mì.","mboni, nkpeye ni keke nne bi m tikwel tikwel, obodo anwu nke ka",1.0,0.5254
+938,Ŋyunti gbantee Seedeesiyasi kpántì Juuda bɔtiu an kaa yúntì.,C'est de ça qu'il s'agit d'abord.,1.0,0.8235
+939,Daafiidi jipɔɔn Uciŋfiti un sá ubɔti Jeerusaleem tiŋkinee nyɔɔbuŋŋi sèé.,Dafi na gi pon uchen fete wu nsa uboti Jerusalem tinkin enyo bu ngisi.,1.4,0.4032
+940,Bi nìn tátí mpɔn yii: «Difiil nyēeń ti-Nimbɔtiu un kā dibeejal puee nì Dipibil cee ní.,,,
+941,Niin ní u nìn ŋúbiń marab bin jìl̀ee u-ŋaan kí tīī-bi.,Nne unengu be mbala benjere unga,1.0,0.65
+942,"Kí kúntée, kitinnyɔkɔee ń nóó didandi din cá Aseer-Tikɔn tiŋki kin pìlīǹ Ooran tinnyɔkɔkee.",que compte que tu n'as que une dose de donner de chat à cette,1.0,0.84
+943,Ubɔti janjakpilib kansikin un bi yíì Ananiyawuuyee di nìn kpēē bigbaŋŋmaliibi Yeeyiyeel nì Maaseeyawuu ní bi kàan̄-bi ki yākatì-bi akiti akiti.,,,
+944,"Ubɔti Daafiidi nì Sadooki nì Ayiimeeleeki, nì bisaraaŋaliibi nì Leefii yab dicaŋŋi kpilib nimbiin ní bi nìn ŋá míǹ gbanti kɔkɔ.","bụrụkwa David, nwa Sadọk, nwa Ahimaaz, nwa mbụsịrị aṅịlịbe, nwa Lefaya, dịchaa gị kwụrụbe n'mbịị nụ bụ n'ngamị gwantụkọ",1.0,0.6381
+945,Kun dāa mɔ̄ǹ-uee di sá ú nīn fàŋkí ti-Dindaan.,"Gunda mowe, dissa une fankete dunda.",1.0,0.5294
+946,"U nín gíí ki dóòyeeyaaa, u nín kaa láá gííyee?",unang kidoya unankara,1.0,0.6
+947,"Tin kɔkɔ m cááyee, sii di yì, ní tin kɔkɔ si mun cááyee, man di yì.",Tụọ nkụkọ n'chaye siri yị na tụọ nkụkọ sị mụ nchaye mandị yị.,1.0,0.4792
+948,Beenjameen naakooku kun poon Saayuul u-ba nyánnée janjaliibi nìn sá kutukub bita ní.,Nijamen na kokun kunpun sawilu uba nyane janja lewe na sakutuku,0.9231,0.4429
+949,"Ŋgiil púee, kitinnyɔkɔ làá kíĺ Tamaar kí cáá sāā kibùmbiki kin bí Meeriiba Kadeesi tiŋkinee, ní kí dūú kpàkaǹ Eejipiti buŋŋu kí cáá sāā Meediiteeranee tiŋkuu.",Egypt,1.0,0.9692
+950,di sá yii u-neeŋkpaandi bí ní ki cá jaanjaan.,sị unu kpande be kecha jaa njaa,1.0,0.5143
+951,waa gífí diŋuul malaa ní u-neendi wīikí tikpilku.,waa geferu nguru mala ne unende wiketa,0.875,0.525
+952,"U dāa fātìi gítìńee, u kíǹ ki wāĺ ní.",taapu disaa retunu ojokwe ban pefente onimi ne kuwal oningiti,1.1111,1.5926
+953,"Boonee, Saadooki jipɔɔn Imeer di nìn bí ki ŋáŋkí digundi laakin túĺ u-diikuee.",Bonne et sainte année de la part de,1.0,0.7302
+954,"Diwɔ́bil bɔti làá gbèen̄, tipɔmbɔti làá kúntí.",lagbe,1.0,0.8889
+955,Bi nìn kóoǹ tiwan gbanti kɔkɔ ki kpúkuǹ akpuku akpuku.,"Bị nụ cuồng tuôn gân tụt cúc cọ, cọ cúc cọ, cọ cúc cọ.",1.4,0.8409
+956,Ama Unimbɔti kaa kíí báà unil ń sàaǹ-bi.,A ma m unu mbọte ka unu baa unene nsambụ.,1.25,0.5484
+957,Bí nīn jīǹ jiŋaalib kí nóó nì akoobil nì abɔkpaa ŋin m tīī-bee.,"Nna ejim gi album, kee nu na akobiri abokwanyi nti be",1.0,0.5918
+958,An pu ní tiwaŋkuti fatikuu nìn nyáń ki wāatì ní dipoompeepeekaal nín ŋúń ki túń ditundi.,,,
+959,"Sindaariya nì animbil kúti nì tasa kúti nì tikúmɔntiil bí tikpil tikpil, baa ŋūǹ kí ŋmàntī kí béé ti-nyɔkɔm gba.","Tunda yane, anan mber kute, nan tasa kute, nan tukumwanti be tekwe tekwe, ba nwe kanmwante ke be tenyokom",1.0,0.5667
+960,"Juuda timmu mun bi nìn máń agun ki túee kɔkɔ poonee, u nìn kāaǹ bibɔsoonliibi.","Chineke bụ onye na-enye ihe niile anyị na-eri, ọ bụ ya mere anyị ji ekele ya.",1.0667,0.9032
+961,Bi nìn nyáń binib kutukub biŋmoo kpá kutukub imuŋku ili nì binib alaataa anaa.,Beni ya ben de kutup kutup buğday kutup,1.0,0.7188
+962,"Niinee ní Daafiidi yindi dūu gbītì ntimu kɔkɔ poon ní báà ŋma kíǹ ki sòoǹ u-bɔti, ní ti-Dindaan yāntì atimbun kɔkɔ nib fāŋkì-u.","Kanga ana, ni na filisinya, ni ncha Ali, Bale, Fidasim na David Jen kupo",1.0,0.8
+963,Leefii yab nì Juuda yab nìn ŋá kii usaraaŋakpil Yooyadaa nín nìn tīī-bi mara puee.,ne ne ne,1.0,0.9394
+964,"Sii un u yaa tīī á nīn sá bin kíǹee tɔntɔnliuee, á nīn tūǹ ki tìì-bi.","Tiiwii, wuya tii, anasaa benkeni tontolowe, anitun kiti",1.0,0.6275
+965,Simeeyɔn naakookun yab di làá nīn bí ki kɔ́ĺ-bi.,"S'il me vient à l'esprit, je vous le ferai savoir.",1.1111,0.8649
+966,"» Niinee ní Anuun yāntì bi cúú Daafiidi kàliŋkpilib ki kōol̀ bi-nyimpuliŋ, ki cátì bi-bɔkutiŋ ki ŋmāntiǹ bi-kpiliŋ ní ki jìn̄-bi.","Nne nne, a na m ayi nte biko daalu na ekpere ị kpere maka mụ na ụmụ m. Ka Chineke gọzie gị, ka nwa gị nwoke dịrị ndụ na ka ezinụlọ gị dịrịkwa mma.",1.7,0.87
+967,"Bi nìn ŋmàn̄ bininjab bin kɔkɔ cáá abin mmuŋku kí nīn cáa cá, ki bàn̄ kí cù kujaauee yiŋŋi.",Bado mai bado ja ba ko ko cha abin mu ko kudin cha cha? Ka bani ka chuku ja wuyin.,1.0,0.5652
+968,Bi-tuŋkpitiŋ kaa yàntī ibaamɔn ń tɔ̄ i-tundi bi-ni.,Bütün bütün kayan teyban mı,1.0,0.6923
+969,"Aleeluya, nyɔ̄ŋkìmaan ti-Dindaan!",Hallelujah,1.0,0.8148
+970,Ti-Dindaan bí Mooyiisi yii: «Tɔ̄ binib bí cùú cɔ̄ŋkì Kanaan tiŋki kin m làá dūú tīī Isirayeel yabee.,"Tụrụ ndụ a mụrụ Iziki, tọọrọ ya bụ nwoke chuchu nke ka na-atịnkịkị, mụ na ya dịtụrụ izu na ya bụ",1.1667,0.7143
+971,"«Too, Jeerusaleem kilaakpaai, pīlifì ti-Dindaan nyɔɔbundi.","To Jerusalem, kpalakpali, plu feterin dan yo",1.1667,0.4375
+972,U nìn tīī-bi mara nee yii: «Ni máaǹ kí tɔ̄ ni-tundi nì ti-Dindaan faaŋku poon nì deedee poon nì dipɔbil diba.,n'ụlọ ọgwụ mmiri na-eyi nma nke tọ na tọ na chọọchị na faa nkụ pụọ na ndepụ na ndị fọọbe dị,1.0,0.6585
+973,U nìn jáń ki pɔ́ɔkiǹ Moowaab yab mun ní bi kpántì u-yumbui ki kíǹ ki pà lampoo ki tìì-u.,Onye ịje nke pụrụ iche mụwa bụ ya bụ mụ na Bekwantụ Uyụmbụị nke nke Palampo nke Tịọ.,1.0,0.5909
+974,U nìn cáá kibikee nì ki-bilooliu ki bál̀ kunimbɔtidii didooŋkaaku kubɔn.,Unincha ke bukene ke belolu ke belo kunu ngwathi je dudu nka ko,1.1818,0.5763
+975,"Bi nín fātìi máń digundi ki dóòyee, ní m cóoǹ punuubi ní ki kāaǹ bipunyɔɔciitiliibi nì bi-laŋgaaliibi nì Leefii yab bi-tundin.",Binin fati man de gunde ke doye ne in chon punube ne ke kan bu nyo chi te libe ne bilanga libe ne le fiye be tunde,1.2857,0.4216
+976,Ni làá jà Anaaki yab tinikpaandi nì tinifɔkɔl bin kóò niinee.,N'alaja ana kiyabiti n'kpaande n'tinu fuobu nko niine.,1.0,0.36
+977,"U nín kpíìyee, ubɔ nì ubɔ kaa yáliŋkì u-pu.",Uninwe ya ugbo na ugbo ka anyi na-ekwu,1.0,0.625
+978,"Neebaati jipɔɔn Jeerooboowaam nìn dáá gbíntìi bíń Eejipiti tiŋkin, laakin u nìn sáǹ ubɔti Saloomɔn ki cūtìi kāl̀ee.","Na party gi bụrụrụ bọọlụ, na ndagwurugwu, ebe ị ji tinye aka, na aka unu sị ụbọchị Solomon ka chiri karịa.",1.1667,0.6737
+979,Binib nìn yúl̀ Unimbɔti deedee ki cāabìń tin bi lēē bi-kpaajinti poonee nì bi-saalaatiiti nì tiwan tin bi nìn dūu sú ti-Dindaanee.,Bia biko nye unu ngwongwo dị iche iche biko a bịatara m bịle. Biko a bịatara m bịle. Biko a bịatara m bịle.,1.0455,0.7692
+980,"Ni yaa làá yīkì dinaapaal din puee, bíǹ di làá cóotí circir kɔŋkooŋŋu.",Nia laye kaduna pa d'impwi ben de la choo te che che le konkon.,1.0769,0.5893
+981,Bi dū nnikpaakoon nì iwaatooti ki kɔ́ǹ kitiŋ tijɔkɔndi.,Bido ịkpako na ịwa tote ka kọọnkịta ghọọ ntị jọgọọ.,1.1111,0.6667
+982,"U nìn yōoǹ bijanjaliibi bibaatandambi kutukub alaataa anaa, ní Jeerooboowaam mun yōoǹ bijanjaliibi bibaatandambi kutukub alaataa anii.","N'ime njem be janja lebe, be bata ndam, kutukube alata ana. N'ime njem be janja lebe, be bata ndam, kutukube alata ani.",1.2941,0.4397
+983,"Kii ni nín dū Unimbɔti ki fée puee, u mun dū-ni ki fá!","Ke na-enye ndụ, unu mgbata ka fefụọ, ụmụ ndụ na-efe",1.0,0.6154
+984,Binimpoobi fookiiu un bi nìn cáá Unimbɔti puee di yì-tì bi fīkitì bi-yab bin kpíìyee ki tīī-bi.,"be nombo be fo keo, on be cha onombo to poy di it be fege te be yab be npiye ke ti",1.2353,0.5467
+985,An sá fookii un Abeel nìn cáá Unimbɔti puee di yì-tì saraa un u nìn ŋá ki tīī-uee nìn ŋān̄ ki jítiǹ Kayeen yɔu.,nsa fụ oké ụdị abịlịcha ọnụ mbotopụ ya di ya sara ụdị ụdị nga ka ti ya wee nga nke ji nke ka ya,1.0,0.6071
+986,bi làá nīn jáaḿ-u ní kí nīn cá jaanjaan.,Blaan nenggamù ne knengge jange,1.0,0.6667
+987,"Ní taa dū ni-bisalib kí tīī bi-jipɔmbi ticati, kí taa tí yòon̄ bi-bisalib kí tīī ni-jipɔmbi ticati.",,,
+988,Keerubimbee feeŋyi nìn kpátì ní ki nìn wāā ki bàn̄ meetab saalaa.,"Kedu ka ịbụ mbụ, ezigbo enyi? Na-akwado na ị na-anwa ka ịbụ mmadụ sara",1.1667,0.7308
+989,"An sá-mi dipɔndi ní ḿ sòoǹ Yeesu bɔti kí tùkù báà ŋma, bin nimbiliŋ ŋúbitèe nì bin nimbiliŋ kaa ŋúbitèe, bin nyí iciinee nì bin kaa nyí tibee.","A sị m na ịdị mma ụnụ sọrọ ya subote. Kịtịkpa anwa. Benụ mmiri nwụbụte, unu benụ mmiri nke a nwụbụte. Benụ ịchi nụ, unu benụ nke a nyịte",1.0357,0.6216
+990,Bibaatandambi bitee nín nìn túń dituŋkpaandi diŋyee dee.,"Bà Tám đem bê tới, nó nựng niu con cọp con, nó nói với",1.75,0.7917
+991,Ubɔti Daafiidi u-ba jipɔmbi di sá u-kàliŋkpilib bin nìn pée bí ki kɔ́ĺ-uee.,"Obughi David, obu Jipom bu Jisa ukali ekpere be, bu nnepe ekpere kwara wi.",1.0769,0.6034
+992,Ni-naŋki làá nyā nì ni-ba ni-kpitii nì ntimbiil tuuŋŋi ŋin ni ŋée pu.,"Nna k'a la nyɛnɛn ba, n'puti n'ntin bi tun n'ngɛ",1.0,0.5283
+993,"Ŋma ní a sá, sii un sòoǹ bin béeyee bɔti yii bi nín ŋáań puee kaa ŋān̄ee.",M'n asâ si un soumbembé bot yi benen nga mpoo ka ngandé.,0.9412,0.5556
+994,Uliliiti di sá u-nimpuu Abiigayiil un sá Kaarmeel tiŋkinee jipɔɔn Daniyeel.,"Willie T. Disa, Onompou, Abigail, Wunsa, Carmelita, Nene, Jupon, Daniel",1.0,0.4286
+995,tibɔti tin u sòon̄ ki tīī anaantitɔntɔkɔ kutuku puee.,"tupu etu usụọ kịti ananata ntụkọ, kụdụkụpụ",1.0,0.6047
+996,Unimbɔti làá wúń a-pu bikuŋfiliibi ń taa ŋá-si tiba.,Numbot la wuy apu bu konfli be ntanga set,0.8889,0.5366
+997,Gaadi yab gbanti nìn sá bijanjakpilib ŋma ní.,"Ka ji ya gwante, ni sa ba jan jali ba, muna",1.375,0.4324
+998,"Tibɔti tin m sòon̄ nì nee, tì ŋáŋkì nimbi.",I want to tell you so nene.,1.0,0.8387
+999,Ti-Dindaan làá dāá bìin̄ ni-pu kí jītíǹ anibul ŋin kɔkɔ kíǹee.,"Chineke nna, laa n'ubi na mpu, ka jite anu buru gi nkuko kini?",1.1818,0.625
