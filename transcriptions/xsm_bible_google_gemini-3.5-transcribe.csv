@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Tega kam maama koge mo ye ka ta leere.,"Taka mama koro, mo",0.8889,0.5862
+1,Ko nam bá dáane se abam tiini á keeri.,Kuna mbadala ni se avantini,0.8889,0.4828
+2,pa se ba teene dem zwɛ de daare di-dwonnu yerane.,"Passez une bonne journée, de darai de donne une",0.9,0.6053
+3,Konto mo wó pa se á jwoori á na yazura ye á daare á lɔre kolo ŋwaane o na tiini o pa ko zo á yera to.,Konto mu wupa se ajurana ye zura ye adara lare kolongwani onetinopa ko zwayira,0.8519,0.3514
+4,Abam wó kwei gare-fefale mo á ma ke Aron gare-dedɔrɔ kom de o yuu gare-yi dem.,"Aha m bu Nwokoye Godfrey Ifeanyi, a m a ka a ruo Garri Doro Akụ, Dịọkpụrụmmiri",1.0,0.7288
+5,amo Wɛ wó pa ba na amo verem dem.,Am I where? What part of environment?,1.0,0.8333
+6,"Dɩ́ ko-biǝ-ba, abam daa ba taá lagɩ sɩ dɩ́ pʋpʋnɩ dɩ́ ta dɩ́ brɩ abam maŋa kalʋ wǝǝnu tɩntʋ na wʋ́ kɩ tɩn.",deko bia ba abanda bata la si de pupone de ta dabere aban manga kalo wone tento na wukata,0.913,0.3867
+7,"Abam dwi dem wone, bu-kwe sem de á vara maama wone cheeri-bia bam ye amo nyem mo.","Aba ndị wụ ndị bukwara ịsọ, dị a vara ma ma wụ ndị chiri bịa ba, ya amanyem",1.0,0.4754
+8,Asiria pɛ wom ma toŋe o dedɛɛra bam yiga tu se o zege Lakisi ne o nwoŋi de jar-keira kɔgɔ dedɛ o vo Jerusalem o gware Hezekia.,Asiri afo wu matu e odidi raba yigetu se oziri lakisi ne unu di jarukara kworo odidi uvu Jerusalem ogwari Ezekiel,0.8519,0.3673
+9,Muni delo na daare to se á bibili-de memene ye á laam ma nuga á taare-te.,Mmadụ abụọ na-adịghị asụ asụsụ Bekee ma ọlị ga-ala ma nụga atatụ.,0.9375,0.7091
+10,"Konto ŋwaane, á wó bwoŋi á chorro Isarele tiina bam we, ‘A nɔɔna’, de ‘A bu-swonnu’.","Kedu otu a na-akpo ""Isuzu"" na bekee? A na-ana di abuo",0.9375,0.6667
+11,"Dɩ́ dɛɛn tu dɩ́ tɩtɩ mʋ nɩ biǝ te, yɩ dɩ́ laan nii abam lanyɩranɩ nɩ kaanɩ na jɩgɩ o biǝ o nii te tɩn.","Ndi be anyi, ututu oma. Unu ebiela taa. Ya diri unu niile abali nyiraini, n'kaani na jige obi a oni",0.96,0.6164
+12,"” Tontoŋeno wom ma leiri‑o o we, “Nii, Wɛ tontoŋeno dedoa wo teo konto ne.","Tuntun woom ma lere owo ni, wa tuntun dudu awotiyun",0.9286,0.5
+13,jejegero tem na wó taa daga dedɛ to ŋwaane.,"Ajiye ratan, na wata addara da dai to nwani.",0.7778,0.4706
+14,"Isarele tiina bam ná yeini ba ja pɛɛra ba jeeri se ba pa-ne, ye tusim ná wora ba totoŋa yam ne, amo wó da Aron ŋwaane a yage a ma chɛ-ba, pa se a sɛ a jwoŋi ba pɛɛra yam konto.","Izu atọ na abụọ na-aga n'ihu, mba Japan bajiri isi mapanị. Yitụ sị na-awụra, ọtụtụ n'ime amawụda arọ nwaanyị anyị ya ga amaachieba, pasị asị ajọọ nị mba Japan ya",1.0,0.5692
+15,Ba na jege dam ba ke tei to yɔɔre ko ba tɔge chwoŋa.,"Bana ji dam, ba kitetu, yau rikoba toy",0.8462,0.4359
+16,Amo nɔɔna bam tusi belei mo ba daŋe ba yuu ne: Amo mo ye buli-yi delo na na pae ŋwea to.,"A mụrụ m na Bantusi, Bille, Mo Badagry, Bayuni. A mụrụ m na Bille, Dolo, na na Panguma",0.9048,0.4615
+17,Á laam ma‑á wó boŋe wonnu telo ya na pɛ abam foone to boboŋa.,Ala ma ubụoṅị wụ nụ tlọ ya na pị abam fụ nụ tọ bụọṅị,0.8571,0.5217
+18,"Á ná ke konto, amo de wó zeili Amori tiina bam, de Kanaan tiina bam, de Hiti tiina bam, de Pɛrizi tiina bam, de Hivi tiina bam dedaane Jebusi tiina bam maama se ba nwoŋi ba daare tega kam ba pa abam.","A na-akọ kwa ntọ, a mọdọ wụziri a mọrọ ịtinye bọm, dekee na ntị bọm, dehete ntị bọm, deperesị ntị bọm, dehevị ntị bọm, ndị daa na-eje bụzị ntị bọm ama, sị na ọ bụ ndị gbara ya. Tịka ka ma pa ba",1.0,0.5592
+19,Ba ta ma lɛɛre ba mɔ kɔɔra se ba ke ba na ba wone.,Batamalere ba mokora se bake bana ba,0.7857,0.25
+20,Jeeli-na ko di-dedwaaro tem ni.,Jelena kuddi da dwarotin,1.0,0.375
+21,O ta ma ke takworru dedɛ ko wone.,Wata maƙe ta ƙwaro da daiko wani,1.0,0.48
+22,Wolo na ke o tɔge Wɛ nia yam to.,Bolo.,1.0,0.8696
+23,"Amo wó tɔge chega, de swono, de ŋwaŋa baŋa ne mo a ke konto.",A muwutọchịra disọ nọ d'nwa agbọghọ anị mu akụkọnụ.,1.0,0.5682
+24,Amo wó kwaane a zamese dende.,amu ukwani azan su din,1.0,0.4783
+25,Naamatia tu Zofara ma ta o we: “Nmo taane dem yɔɔre.,"Na masiya, tu zo fara mata owe. Mutanen yor",1.0,0.3077
+26,nam lɔre we Wɛ yei nɔɔna maama bochara na ye tei to.,na nu loro wee banga wee yee noo na ma mma bichara na itetuo,1.0833,0.525
+27,Banto jigi ne ga-punnu de ga-lɛɛro mo nmo yiga ne.,Banti jigi ne ga punu de ga lero mu emu yigani,0.8,0.2105
+28,banto wó chɔɔle ba to se wone.,bantu wucholi bantu swoni,1.0,0.3913
+29,"Filisi tiina bam na vere Wɛ ni-gwonim dakaa kam Isarele tiina bam jeŋa ne to, ka déem maŋe ba tei ne chane serepɛ mo.","Felicity Naban na vuruwe nigwe na ndaka kam, Izua Naban ji ana to. Kade mma bateni",0.875,0.4725
+30,“Pa se ba kwei golesaa dɛ ba ma ke dakaa kalo talwoŋ-ywoŋa na wó taa zwɛ de baŋa ne to.,"Pasé ba kwe gulu sa de, bama ke da ka kalo ta lon yunga na wuta zue de bangani",0.9,0.3231
+31,O ma daare o pa se o nɔɔna toŋe zɛɛra mo ba pa‑o.,"Oma dare, o pase unona, tunyi zeramu gba po",0.9231,0.3714
+32,Ko nye de kunkwoŋo kolo na tui zezeŋa ne.,kunyere kungu okoro na tuyi zizina,0.8889,0.4062
+33,Basan de Kamele jei sem teeni vɔɔro ma siiri.,Bassan de kamili jesen teni voro masiri.,0.8889,0.25
+34,gare o ná gwooni‑m nɔn-yerro yiga ne.,Gàri ọnụ ọnụ gị na,1.0,0.7857
+35,o nye de nywoŋo na ŋuuri se ko zi nɔne to mo.,"Onye ịrịrị ṅụọ na ṅụrụ sị, kuzie m ṅụọ na",0.9167,0.6667
+36,"de tabolo kom, de ko dɛ selo ba na wó taa maa zeŋe-ko to, de ko yera zela yam maama, de bworobworo kolo na tigi da Wɛ ŋwaane to.",di tabolo ko di ko di asulo mana wuta ma azinkutu di ko yira zulu ya mama di gbulugbulu kulu na tigida wa nwa,0.8621,0.4105
+37,Samuwel nii Isarele tiina bam baŋa ne.,somewhere na ịzụta ihe na bámgbàrà,1.0,0.7419
+38,"Na ná tera, te wó kwaare lela mo.",Na na tra tu kware,0.875,0.5
+39,se á le á jejegero wone á ma.,si ali ajijigiro wone,0.875,0.4762
+40,"Ba ná maŋe ba tɔge kabwoŋa kikia ba jwona kaanem jei sem ne mo de, ba dwi dem bá puli.",N'anmɛnɛn bhatoi ka bonga kikia bajunayam ka n'nji sin n'mɛde b'duidim b'pulu.,0.95,0.4615
+41,"Tetɔgɔ kodwoŋi kom wo mɔɔro tem ma pɔ, te yɔɔre te wo maŋe de dim!","Tòkò dọ̀kun, wò mọ́rọ̀tẹ́ mọ́ pọ̀. Tí o rí tọ́mọ́ rẹ́, dídí",1.0,0.68
+42,ye á gane-ne mo!,ye aggan num,0.75,0.4545
+43,"O ná tage de abam we, Baŋa Wɛ wó jwoŋi abam o yage, ye o che se Asiria teo pɛ yé di á teo kom, nam yé sɛ-na.",Ona taa idi? A bam wee. Baa wee wu jọọ ị? A bam oyi. Yee oche. Si Asiria tụọ payi. Yidi. Atụọkọm. Na ịsị na,0.9643,0.4079
+44,Dé ŋwea da yam ba dáane ye ya jia.,"Dunguyadam, badani yi ya ji",0.8889,0.44
+45,Baŋa Wɛ ma ta o we: Sa-dɛɛra de sa-bwona mo pɛ se.,Banga wé mata o wí. Saderra. Dusabuna. M'pess,0.9167,0.3429
+46,Kʋntʋ ŋwaanɩ mʋ dɩ́ ta yǝni dɩ́ tiini dɩ́ tʋŋɩ wɩa dɩ tɩtɩɩ maama sɩ dɩ́ ma na dɩ́ ni-wʋdiu.,"Kwantin wanan mota ta yi ne duk cin da ta yi, wuya ta ci maba, sai dai ma na ji ni wuji",1.0,0.5758
+47,A nam ta bá na yi-pore-nyem á wone.,Anan taba na yi purinye a,0.875,0.4
+48,Dedɛɛro wom ma tɔɔle o yage de Judah tiina taane dem o we: “Abam maama cheigi-na Asiria teo pa-faro wom kwora kam.,,,
+49,Abam na tage amo yera taane tei to wo yɔɔre chwoŋa se ko yi Job na tage tei to.,Abam nna amaghị etu a na-eme ya. Ọ bụ ya mere anyị ji kwuo na ọ siri ike ịjụọ nna ha.,1.0526,0.7833
+50,A wó waare‑o de o na zwɛ talwoŋ-ywoŋa o ke kaanem o pa Baal jwona yam ya zula da yam ne to ŋwaane.,Awaa di onye na-azụta ihe ọkụkụ na-akpa baajị na ya ga-ezule daa ya n'ụngwa,0.9565,0.5753
+51,DƖ nan pɛ DƖ cullu tɩm balʋ maama na cɔgɩ zaasɩm dɩlʋ na yɩ cɩga yɩ dɩ tɔgɩ Wɛ kwǝr-ywǝŋǝ kam na brɩ te tɩn dɩ mʋ.,De naam van de kleine ballonman natuurlijke,1.0,0.814
+52,"Baŋa Wɛ mo o yere, de na maŋe de zula!",Bụ a wee mụọ ya dị na Mgbidi,0.9,0.6667
+53,Pa-na se ya ba ya jwoŋi abam ya yage á cham maŋa ne!,"Pana si ya ba, ye jon ha ba, ye yari, acha mmara",0.7692,0.3421
+54,"Zamese a ŋwea na ye tei to, se n lɔre veiŋa.","Saturday, 11th September",1.0,0.75
+55,A laam wó kwei-ko a ma a waare Edom tiina bam mo.,ala ukwe ko ama awari edom tinabem,0.9167,0.3056
+56,"Kokuri, á wo sɛ se a korese abam.","Kukuri, awu se se akwụsị abụọ",0.875,0.4167
+57,"” Ko dɛ konto baŋa ne mo, ye Isarele tiina bam wane Filisi tiina bam.",Kudde kuntub bananimu yi Izra'ila ban wani Filistiya ban,1.0,0.4615
+58,"konto mo wolo ná beeri o tete seinim, ko ba woli‑o.",Konto m'wolo na bere otatiseni ko ba wolo,0.7273,0.2368
+59,n vere balo na sale nmo yera ne to.,na salem mu,0.8889,0.7308
+60,Nmo nam yɔɔre n kɔre foone de-ba mo.,Muna yore nkwaru fune. Ndeba,1.0,0.4815
+61,ne Wɛ zeiŋi mini mo o yuu ne to.,nwezị nụ minịmụ oyuni,1.0,0.5217
+62,Nam yé pa-na se Atɔgebabaŋa wodiu maŋe á tei ne ko poore tega.,Na ye panassé à tort,1.0,0.75
+63,Mini maa wó ja ba tega kam maama.,Mini ma oja kpatara kama,0.875,0.44
+64,Yi-pore-nyem ná kwoni‑m o zege de swa taane.,yippee,1.0,0.8485
+65,Se maa wó zege ba teiŋa ne se yi ba chwoa mo.,"Sama wozri batengani, se seye bachue",0.9167,0.4848
+66,Abam wó nii á na pɛ wom na jei de nenɔŋ-fɔrɔ.,"Aba wuni, ana pe wu na je di nu no foro.",1.0,0.4242
+67,ye a ná lage se a pa Isarele tiina bam na yazura.,Ana lasi apa,1.0,0.7838
+68,Pa se nmo na yɔɔre n swoi nɔɔna tei to taa bere jaja.,ka se na yor sun wani tattu ta birjaja,0.8462,0.5
+69,Kaana bam badwonna de ma kwei boŋo koro ba ma ŋo gare-ŋone.,Kana bam badwena dama kwe bunokoro bam anwo gara nwe.,0.9167,0.2826
+70,Ywoni delo na ba ti to mo wó taa ye ba nyem.,Yenidlo na betito mota wu nye banyin,0.9167,0.3438
+71,Isarele tiina bam déem jwoori ba na ba tega kam ni maama mo.,Izu a tinaba ndi njori ba nnabata ka nni ma ma,0.9231,0.4255
+72,Kaanem tiina de ba totoŋa yam taane.,Kaana m tiina,1.0,0.6552
+73,Ko ya ná wae se Wɛ ke amo na lwoori‑o kolo to o pa-ne na!,Kedu ihe na-akpata nsogbu a na-arịkarị ọbara na,0.9333,0.825
+74,"Paŋwa Tu Baŋa Wɛ wom nam na tage tei to mo tento: “Jerusalem tiina bam, yé cheigi-na sampwori sento na pworisi tei de abam to.",Pangwatu pangawewu na 32 mutuntu. Yerusalema tinaba yichana 7% na pusi te de abantu,0.88,0.5361
+75,"Amo wó kwei dento mo a pa‑o, se o bere debam chwoŋa kalo dé na wó da to.","Amuji m ya bu dalu balla a, m wee kweta a po, see obodo di m nchu a kalo di na wu",1.1667,0.8269
+76,Balo na ve Wɛ nia yam to bere we ba seini puseŋ-nyena mo.,በአድናቢውም እኔን አንቱ ብርዊ በስኒፕስ እኚና,1.0,1.0
+77,Filisi tiina bam déem ma ni we Isarele tiina bam jeeri daane Mizipa ne.,Felicity na-abanye ma nwee izu ike na-abanye na mizi panel.,0.9286,0.5263
+78,Amo laam wó jwoori a tete jeiga kam a daare-ba.,Mụ na nwunye m atụtela kama adara,1.0,0.5833
+79,ye memaaro de taa bage sɔɔ ba yage de wopwolo.,I'm a marrow,1.0,0.8333
+80,Chwo-veila daa ba tɔge pempala yam ne ba via.,"Chavala, daba choy pampala yanni bevi.",1.0,0.4
+81,Isarele jar-keira bam duri Filisi tiina bam yiga ne se ba lu.,"Ihe a jere karịrị m, diri Felisiti na-abanyeghị. Sị be",1.0,0.5
+82,"Konto, á wó wane á maŋe á bere.",Konto awu wani amanyi abri,0.875,0.4545
+83,"Moses na zege da ye Wɛ maa beene to, mo Wɛ déem bwoŋi o tete yere dem chekke o we, ‘Taa Wuu Tu Baŋa Wɛ’.","Moses na-agaghị wee maa bịa ntụ, m wee dị mbughọta ịrịọ ya cheke o wee taa mụ ụtụ banyere ya.",0.84,0.6
+84,"Yé cheigi-na pɛ Hezekia taane dem, de o na gane abam ye o we, Baŋa Wɛ wó jwoŋi abam o yage to.",Ije chinebe hezekiah tani dom de ona gane abam ye owee banga we ujonye abam oya,0.7727,0.3913
+85,Jei selo maama nywoŋ-kuri ya na tigi da to.,Jesu le ma ma nyong kuri ya anati da,1.0,0.3636
+86,ko wó taa gara á ná kwei vara á zwɛ se á zuli-ne.,Koota gara ana koobara azze saazuuli,0.9231,0.4857
+87,Balo na tiini ba ye bembɛ ba wone to ma zaŋe tete ne ba vo ba yi Bɛte-San se tega laam poore.,C'est très important,1.0,0.8857
+88,"Baŋa Wɛ ta ma ta de amo o we, “N kaane wom ye ka-bworo ye baaro wodwoŋi mo swoi‑o.","Banga ba, ta ma ta di amu owe. Nka wunyi ka buroyi, baru dun muso",0.8421,0.4576
+89,"Bɛŋwaanɩ abam tɩtɩ maŋɩ á ye lanyɩranɩ nɩ dɩ́ Yuutu wʋm dɛ dɩm lagɩ dɩ ba dɩ darɩ nɔɔna mʋ, nɩ ŋwɩɩnʋ na yǝni o ba tɩtɩɩ nɩ te tɩn.","Nde nwa na-ebe ntị, mmụọ ya na-ayleghari anya n'ihi na ọtụtụ ụmụntị na-etisa",0.9667,0.7778
+90,"Nmo yerane mo ye Wɛ, ye n tei tega baŋa paare dim jei maama.",Moyra ney moy wey yi intetira bangara pari dum je,1.0,0.5111
+91,"Nam ta de Isarele tiina bam we, ‘Amo swolim nuga kanto mo á wó ta‑á ma á turi amo kaanem tiina se á pwɛ-ba amo ŋwaane se ko taa vei wuu.","Nantahdi isilahti na banwe, amusu elenu ga kan to, ma awuta ma aturi ankaani tina, se apo yaba ama nwaani se",0.9032,0.4257
+92,Amo wó pa se Isarele tiina bam bochara zuri.,Amụrụ ụmụ nwanyị Izrel iri na abụọ bụchara zuru,1.0,0.6
+93,"Kʋntʋ ŋwaanɩ, á taá kwe daanɩ sɩ kʋ pa á bɩcara taa tigi jǝgǝ dɩdʋa, sɩ á fɔgɩ á zǝni daanɩ dɩ baarɩ nɩ á na maŋɩ á kɩ te tɩn.","Kwantinwa ni, a taa kwae dani sakopa a be kyarate tigigara duwa. Si a fogi a zena dani debari ni ana mangi a kiti",0.8065,0.4516
+94,Yimera bu Pasura déem mo ye kaanem tu wolo na nii Baŋa Wɛ wara-jei sem totoŋa yam baŋa ne to.,Imara bu pasura de mu ya aka n'ntu wulo na ni banga we wara je si m tutunaya m bangani,0.85,0.3472
+95,Suuhi tu Bilidad ma leiri o we: “Nmo lage n ŋɔɔne tento.,to build that my little way,1.0,0.8095
+96,"Nɔɔno wom ya kaare o gwaaro, ye kasolo taare o yuu maama, o wo na chɔge to ŋwaane.","Nọọụm, ya karọ gwara gị ka sulutare oyim ama. Owu m na chọọ tọ nwaanyị",0.8889,0.4516
+97,"Tega ná poore, nɔn-ŋona wó di dam ba baŋa ne.","Chikana, puri n'onwuna, wudidamba banye anyi",1.0,0.5152
+98,A lwoori‑m se n saare a wɛleera yam n yage.,Allurum Sinsara Wali Raayam,1.0,0.4688
+99,se ba jwoori ba yiri jena yalo.,bajuur bayiri jina,1.0,0.4583
+100,"Kokuri to, á wo tage amo yera taane se ko yɔɔre chwoŋa se ko maŋe de a tontoŋeno Job na tage tei to.",Kukurutu awotara amayi ratani sokoyoro chunga sokomande atuntunu job natateto,0.9565,0.3684
+101,"Tega daa na poore to, mo ba nɛ we jwoni dem daa ta to Baŋa Wɛ ni-gwonim dakaa kam yiga ne.","Tana da na hudu, mabanewi juyin da ta tu ba na weni gwanin da ka kan yi gani.",0.9524,0.4179
+102,Nam maŋe-na te maama se te dunni taa tɔge wara-jei sem maŋem chekke.,Namangna tamama set diyun tatoy wara jisim,1.0,0.5094
+103,O ma tiini o kwe ye o laam te o tete toone.,Ọ ma tinụkwe ị ụla ntị ọtụtụ tọnị.,0.9167,0.5161
+104,"Ba de maa wó leiri ba we, “Nmo ye debam Tu Wɛ wom mo.","Badma wullar ba wai, mwo yi raban tu wewu mu.",0.8571,0.4595
+105,Tento mo jworru telo na boŋe.,Tonto n'jweru t'lo na,0.8333,0.4348
+106,Bebare nyem ni taane nye de wodi-ywoŋo na duri solololo ko tu nabiinu kana ne to mo.,bụ ihe nyịta anyị rị bụ dị yọ na dụ soro rọrọ kụrụ na binu ka na anụ,1.0,0.5758
+107,Amʋ Pooli dɩdaanɩ Silasɩ dɩ Timoti mʋ pʋpʋnɩ tɔnɔ kʋntʋ sɩ dɩ́ pa abam Wɛ nɔɔna balʋ na wʋ Tesaloniki nɩ yɩ á yɩ dɩ́ Ko Baŋa-Wɛ dɩ dɩ́ Yuutu Zezi Krisi nɔɔna tɩn.,"A mụ pụrụ dị afọ iri na isii, dịtụ mụ chịmụ pụpụ na tọnọkọntọ. Sị dị pa ban wee nọ na balụ na wu, tị salụ nịkị n'ịyị ayị dị ka ọ ban awụ. Dị dị Yutụ Jezọsị Krịstị nọ na",1.1471,0.5403
+108,"Kʋntʋ tɩn, dɩ́ Yuutu Zezi Krisi na tuǝ, á bá ta jɩgɩ digiru Wɛ yigǝ nɩ dɩ fɩnfɩɩn dɩ.",,,
+109,Abam balo yiga na tere amo wone to.,Iga na tiiri ama,0.875,0.7037
+110,Samuwel bia bam nam wo tɔge ba kwo wom nɛ-bwora kam.,"Sannu da biya, bawan nan wato bakko wuni na buraka.",1.0,0.55
+111,O jege taane de abam balo na zoore tega kanto wone to.,Aji ka tanada abun balna zoro tar kanto wani,0.9167,0.4524
+112,ye ba daa lɛɛne ba duri ba vo Asiria tiina bam de tei.,"Ibara le ni, boduri ba fu asiri ti ne ba di",0.9231,0.4146
+113,de gare-jale delo na chege Wɛ di-yun-gala kam to.,de gajab dolo na chege where the young gala,0.6667,0.5135
+114,Ba ma ke lu-nyenno wonnu finna se te teili ywoa yam.,A ma kile nyenon wa ni fina se titeli yuya,0.9091,0.375
+115,"Ba déem lɛɛre ba di wodi-fɔrɔ mo ye ba nyɔa, ba daare ba zaŋe ba kwɛɛre yɔɔ yɔɔ.","Badeen leere bade udu foro mo, iba nyuwa, badaaraba zangem, ba kweri yoo yoo.",0.8889,0.4167
+116,"O ná maŋe o chem taane dim baŋa ne, o ta wo sii.","O na mụ na ọchị, ka m dị mgbada na otu ụsụụ",0.9231,0.5882
+117,"Wɛ na lagɩ sɩ á taá yɩ te tɩn mʋ tɩntʋ: DƖ lagɩ sɩ á taá jɩgɩ wʋ-poŋo mʋ DƖ yigǝ nɩ, sɩ á yɩ taá boorǝ.",,,
+118,ba pɛ se o nakwa bam nyɔ sana mo ba su.,"Bia biko, ị na-akwaba nyọsịrị a mụ be",1.0,0.5714
+119,Amo wó zo Efrayim tiina bam de Judah tiina bam wo.,"Amụzụ Efraim tinabam, di Judah tinabam",0.9091,0.2564
+120,"Isarele tiina bam, á yeini á zo tolo wone.",na ba. Ai na zo,0.8889,0.75
+121,"de paara yalo na wó chwi ya ja vwei dem de konkɔlɔ kom zela yam to, de ya ŋone sem.",de para yello na wuchi ya ja wudem de konkolokom zolayanto de ya,0.65,0.3065
+122,"Ba ma vo ba tei ba vwoa Ebeneza seeni, ye Filisi tiina bam vo ba tei ba vwoa Afeka seeni.","Bonne année à vous, bonne et heureuse année. Une félicitations à vous, bonne et heureuse année.",1.0,0.8382
+123,ye ya su de ŋɔna yalo na kuuri to.,Yesu dunwana yalo na,0.7778,0.52
+124,Abam ná vei Ejipti tiina tei mo se ba woli abam.,"Aba nna be iji titi na temi, sai ba wuri aba.",0.9091,0.3514
+125,Wɛ tage o we: “Amo nɔɔna Isarele tiina bam.,Onye na-eso ụzọ Chineke,1.0,0.7812
+126,Pa se talwoŋa kam konto tiini ka taa ye ka yera ka pa-ne.,Passe Telangana ka conto tine ka tayi kayira,0.8462,0.4651
+127,Ba toŋe nɔɔna pa ba zege Babilon ne ba ba.,Bụrụ na ọ na-apụghị ịbịarọ nị,1.0,0.75
+128,nɔɔno ná tu o peene a momwa se a te.,Nono tụpịrị anụ mụwa sị,1.0,0.6538
+129,Job ma leiri o we: “Ko ná ye amo ban-wira kam.,Job malere owe kunaya mu benwura ka,0.9091,0.2812
+130,"Abam zem nɔɔna bam, cheigi-na Baŋa Wɛ taane dem.","Abun da zan nuna ba, Chegnal, ba a waye ta ni da",1.3333,0.5405
+131,"Gare-ŋone sem nyenyero maa ye nazwon-pupwia, de nasoŋ-pupwia, de nasoŋo chwɛ-chwɛ.",ka anyi wee soro ya nyere maaye na so mpuputa di na so mpuputa di na so nwachinemelu,1.6364,0.4923
+132,"Ba maama dedoa dedoa ma pa‑o lu-nyenno sabu-dala, de sabu-seŋa jafole.","Mama mụ dọọ dọọ, ma pọọlụ nyụọnụ sobu dala. Di ya sobu sụọ aja fụrụ",1.2727,0.5
+133,A ná tu a jeini nmo jazem seeni.,na tu ajene mo yanzu sai,0.875,0.5
+134,"O na nigi we Hezekia weele o zaŋe to, mo o toŋe nɔɔna o tei ne de twanno de pɛɛra.","O na-enye waya Hezekaya were ụzọ atọ, mu otu n'ime ha, ụtenị dị tọọ nụ dị pịa.",0.95,0.5902
+135,ba boboŋa na jaane se ba zuli jwona to ŋwaane.,"Bụrụ onye na-eje ozi, biko ziri m ozi na nwaanyị",1.0,0.75
+136,Kʋntʋ ma pa ba daa warɩ ba da Wɛ cwǝŋǝ kam.,"Kwantum a pa bada awari, bada wa",0.9091,0.375
+137,"O ma pa se a na mɔɔro tetwaro telei, te na zege Baŋa Wɛ diga kam yiga ne.",O ma pase ana moro to toro to le to na zigi baa we diga ken yiga ni,0.7222,0.2778
+138,Abam lage á kwei á je sem á vɔ á yum ne mo.,"Aba lawyer kwee, aje sim, avo ayuni",1.0,0.4667
+139,"Nam pa-na se de nia yana yam maama taa mae daane, se á piri-de kuni belei.",Naan panaasit di ni ya na ya maama tamadani c'est après-midi,0.9375,0.4727
+140,Nam yé ke-na ni-sɛɛm dedaane nɔɔna balo na zoore tega kam konto ne to.,"N'anya ka m na-esere daalụ n'ọnụ na-abalu na azụ, etu a ka m",0.9286,0.5926
+141,"Ba maa sɛ se nɔɔna yeigi-ba de sabu, ye ba daare ba kweele chega kam ba yage tega ne de ba na bore nɔɔna taana tei to.","Mama, seese no na yoruba di sabu, ibada araba kwili chika kam, bayatirani di bana buru no na tanatutu.",0.8889,0.3708
+142,Ne baŋa seeni vio kom na tui de doa tei to.,ne banassène view comme na tui de droite,0.6364,0.4375
+143,Ko daare wolo na ke o wo-dedoa de Baŋa Wɛ to wó di ywoni.,Koodaare wulu nakki o wodi duwa debbo nga weto wuddi yoni,0.9286,0.381
+144,Amo wó waare-ba pa se ba na chɔgem.,አሙ ሁዋርባ ፓሲ ባናችው,1.0,1.0
+145,Abam ga boŋe we amo de abam maama ye bedwe mo.,"Aha m bụ Nwi Amu, daalụ maka nne mụrụ anyị.",1.0,0.6857
+146,pa se ka keeri wo-chechɔgɔ ŋwaane.,Phasay ka kheera,0.8333,0.7407
+147,konto tu jei mo ye lwia ba jege‑o.,Contre toute j'aime et lui a,1.0,0.72
+148,Yɩ zaŋɩ n pa nɔɔn-nɔɔnʋ gooni-m n na yɩ bu tɩn ŋwaanɩ.,ye zangai a panonono gona enna ye butunwa,1.0,0.525
+149,"Konto ŋwaane, Baŋa Wɛ na tage kolo Josia bu Jehoyakim na ye Judah teo pɛ to seeni to mo tento: “O ná tega, nɔɔn-nɔɔno bá keeri o lua.","Kpotụrụ m ndị banyere na taa bụ ụbọchị abụọ nke ọnwa Juunu, tupu etinye ya na akwụkwọ ozi. Ọ na-atọ m ụtọ na unu nọ na-arụ",0.9643,0.81
+150,Ba maa swoi se ba taa pini ba yeilla bam.,Bamma su si bata fim baye yallaba,1.0,0.3871
+151,Gare-jala fuga kam maama déem mae daane mo.,garajala fugaka mama de ma madama,1.0,0.2941
+152,sɩ nɔɔn-nɔɔnʋ yɩ ma lwarɩm o joori o ma o ŋwɩ o doŋ lwarɩm.,So no,1.0,0.9318
+153,Á ta maa pae ko ye amo tusim ŋwaane mo a nɛ a chaveera.,"Ata mapai, kuyi amu tusun wani mu, anne achavira.",1.0,0.3902
+154,"Baŋa Wɛ na tage konto to, a ma kwei lu-nyenno sabu-dala fuga-yanu, de chaara ywollu tenu, se a ŋwe a ma jwoori a jwoŋi‑o.","Bịa gawa na ntákịrị ntị, ama kwelụ nyụnụ sị bụdala fụgọ yanu, na-chara yọrọtụnụ s'anwị ama jụọrị ajụọ",0.9583,0.4778
+155,Ni-som nyem nye de o chege kalanchogo mo o tiŋi.,निसुन्नम न्यरी ओच्चिका लान्चुमु उट्टिन,1.0,1.0
+156,"N ná nɛ-ko, nmo wó ta‑n jege jwa lanyerane.",Nnekwu mụ wụtanị jiri jụọ ala ịrịọ,1.0,0.6129
+157,Job ma leiri o we: “Abam lage se á tɔge.,"Chop mallam owee, a ba nla si",1.0,0.6071
+158,"Wɛ sɩɩnɩ DƖ tʋŋɩ-nɩ mʋ sɩ a taa brɩ dwi-gɛ tiinǝ, sɩ ba sɛ DƖ cɩga kam ba kɩ ba wʋ-dɩdʋa dɩ DƖ.",,,
+159,Wolo de maa na toŋe o pae o tu de chega to wó jwoŋi zula.,ओरदीन मा नतुन ओपा ओतुदी चिकतु विजोंजुलु,1.0,1.0
+160,Gwoni-na ba Asera nyenyego dɛ sem á de tega ne.,"Nwanyị na-asị na ya nyere di ya ego, adịghị ka",1.0,0.6944
+161,Amo yera de daa bá taa sae.,"Amira, dada, bata sa.",1.0,0.4
+162,"Bene maama wone se abam baara bam jeeri amo yiga ne kuni betɔ, se ba zuli-ne.","bụ ndị mama wụrụ saba mba Arabam jiri anyị gị na ya. Kụnebe tọ, sị Bazoli",1.0,0.4068
+163,"Ka ná jaane wolo, ka zaga ne basankwea mo ye ka vea de nye de anakɔbayi vea.",Kà nà jà wòlò kà zà nà bà sàŋ kùyàmò yi kà vīyà dìn nyìri ànà kòbè yi,1.0588,0.6379
+164,Ba ma daare ba gɔgere nyenyero gare-jale dem yera ne.,Amadareba gogore nyinyiro. Garajaledam,1.0,0.3333
+165,"Baŋa Wɛ ma leiri o we, “Nam sɛ ba taane dem n daare n tiŋi pɛ n pa-ba.",Bụ mụ wee ma liri wee na-sọpụta ndị mụ na ha na-arụkọ ọrụ.,1.0,0.6327
+166,"Nam beeri-na nabɛ serepɛ, de pi-bale serepɛ á ja á vo Job tei se á kwei-te á ke zwɛɛm kaanem á tete ŋwaane.","Na m beru na na be suru payi, dipe bali suru payi, ajị avụrụ jobụte, si akwụeti aka zuo m ka na atiti nwaanyị.",1.0435,0.5375
+167,Bɛ mo ye á lage á vo Asiria.,Bemo yee Allah ray avu Asiria,0.875,0.5
+168,Nii-na lɛɛro telo á na ke bwollu tem tega ne to.,"Nịna lere tụlọ, ana ka ị bụrụ tentacle nị",1.0,0.6111
+169,"O déem zei kandwa-pelɛ selei selo Wɛ ni-gwonim dem botara na popone ya baŋa ne, yiga de kwaga to mo.","Odimma, ka m dapillasịrị ya, wee na-agwa ndị m bata na-apụpụ na ya abangala. Ị ga-adị kwa atum",0.95,0.5714
+170,Bɛŋwaanɩ Wɛ taanɩ dɩm dɩ dɩbam Wɛ-loro kʋm mʋ kwɛ woŋo maama kʋ pa kʋ lana Wɛ yigǝ nɩ.,"Bịa nwannem, weeta na dị, dị dị banwe lụrụkọ m, mụ kwe wụrụ mụ ama, hụpa ka ụlọ na we yiri.",1.1053,0.5303
+171,Chwo-fara wó peini se nɔɔna taa tɔge da ba via.,Tofara wupeni sonota tokhoda,1.0,0.5556
+172,ba laam wó seene ba yia ba beeri amo jeiga.,Bala nwa si m be ya ba bera m jega.,0.9,0.3939
+173,"Á nan yɩ pa boorim wʋbʋŋa wanɩ abam, nɩ nɔɔna balʋ na yǝri Wɛ tɩn.","na-enye kwa buru ubochi awana-aba, na-no na-abalu na-yiri we",1.0,0.52
+174,ye nɔɔna nae á na biini á tete tei to.,"Yuno nanai, ana bini atatete",1.0,0.3929
+175,"Dɩ́ Ko Wɛ dɩ dɩ́ Yuutu Zezi Krisi wʋ́ pa nmʋ yazurǝ dɩ yu-yoŋo, yɩ o daarɩ o duri nmʋ ŋwaŋa.","Dika odiri, odiri mma",1.0,0.803
+176,Amo Baŋa Wɛ nam wó vere-ba toone jeŋa ne a yage na?,hambana wena uvuva tunjani ayikho,1.0,0.5789
+177,"Kago-vara, de zuna, de naneo wo ywona yam maama de lage te te.",Kago vara di zu na di nani wu yuna ya mama di la,1.0,0.3478
+178,Ko ye kwɛɛra sɔɔ mo.,Sọlọmọn wọ̀ abọ̀rà wọ̀ bá wà àmbádùnà. Kò nà wọ̀ abọ̀rà wọ̀ bá dúnà díbà. Kò yè kwèrà sọ̀ọ̀ mụ. Mósèsì nà fọ̀rọ̀,4.6,4.7333
+179,de ni-wɛɛle delo n na jege n ke de amo to ni ne.,"De nuwele dulo, na jige inkay de amo tuni",0.6923,0.3529
+180,Wɛ tontoŋeno David déem pane leiŋa kanto maŋa kalo Baŋa Wɛ na jwoŋi‑o o yage Pɛ Sɔɔl de o dona bam maama jeŋa ne to.,Wee tuntun Davidi de mpaani le akantuma akalo. Baga wee na juo ya peso di oduna ba ma ma ji nga ni to.,0.92,0.4111
+181,"Á na lage á ke konto, nɔɔno maama jege se o kwei sabu o tiŋi o tete ŋwea ŋwaane mo.","ana alaghi aka konto, na mama jere sokwu ya na Sebu otu ngwa taa nwunye ya nwụrụ",0.95,0.5968
+182,ye ba wolowolo wo lwoori wolim amo tei ne.,ye bawolowolo wulurowolum amuteni,0.8889,0.2727
+183,"Nan dɩ kʋ dɩ, dɩ́ Yuutu Zezi mʋ kɩ-nɩ yu-yoŋo zanzan kʋ ja gaalɩ, yɩ o daarɩ o pa a taa jɩgɩ wʋ-dɩdʋa dɩd-o dɩ sono, a na ŋwɩ dɩd-o tɩn ŋwaanɩ.","Nnaa ndi kụdị, dị ya ụtọ zụọ zụọ ụmụ ya na ụyọkọ, zaa zaa kọja gáàlụ. Ya ọdàlụ, ọpa atá jị gị wụọdụ dịwa dịdọ dịsụnụ. Ana nwụdịdọ tọ nwanyị",1.0,0.5784
+184,"A maa wó taa zoore de Isarele tiina bam, se a taa ye ba Wɛ.",ama wata zuru dai is writing nawa? Sai ataye,1.0,0.5349
+185,Nam leeni-na leiŋa á pa Baŋa Wɛ!,ना ले ना लंगा आपा,1.0,1.0
+186,ye ba pa se ko ba jege kuri.,ye bapa se,0.75,0.6
+187,"Ta pa se dé taa ye nmo tete nyɔn-mage nɔɔna, se n ta‑n tei debam.",Taa bụ ụbọchị taa anyị na-eme emetete nyocha ahụike na Centre Intégré de,0.9333,0.8085
+188,"Dáane mo nmo wó te, se ba daare ba ke‑m da.",daan mu emote seba dare,1.0,0.4667
+189,N jege se n ke konto maama mo n tiŋi Aron de o bia bam ba kaanem totoŋa yam ŋwaane.,"Ndi ga-esere nke kọntọm ma ama m, etinye arọ ndị obi abụọ pakaa na ntụtụwa ya nwaanyị.",1.0,0.4286
+190,Judah tiina bam de dwi-gɛ tiina balo maama na gilimi-ba to maa wó taa wo Babilon teo pɛ dam kuri ne bena fuserepɛ.,"Ihe a tinye na ba, di ya tinye na ba, ma ma na gịlịmị ba tụ, ma ọ wụ taa wụ Babylon tụrụ ya ụpẹ dam, kụrụ nị, bụ na afụsịrị",1.2174,0.4944
+191,"Ta n kwaanɩ n karɩmɩ Wɛ taanɩ dɩm dɩ nɔɔna bam, sɩ n daarɩ n brɩ-ba Wɛ cɩga kam, sɩ kʋ taa ve maŋa kam a na wʋ́ ba tɩn.",,,
+192,O ta maa nɔne naneo na-ŋone sem baŋa ne o via.,Otu a mụ na nani unu na-enwe nsị bangani ofia.,1.0,0.5588
+193,"Asedodi tiina bam na maane kolo na jege ko ke to, ba ma laare ba we, “Ko ye Isarele tiina Wɛ dem mo wora o waare debam, dedaane dé wɛ Dagon.","Azu di n'ime mmiri na-amakwuru na-ji koketo, mgballaa baa wi, kwa izu a tinye wee di, mụ gụrụ duwaara di ba, duwaani duwee dago.",1.0,0.6
+194,te bá wane abam yera te titigi te gɔ á yera digiru tem.,taba wane abam yira tsetsegi tigo ayira,0.8462,0.4762
+195,"Dɩ́ ko-biǝ-ba, abam na nɛ yaara yalʋ tɩn, Zezi kɔgɔ kʋlʋ na wʋ Zude tɩɩnɩ dɩm nɩ tɩn dɩ nɛ yaara yantʋ doŋ mʋ.",de ko biya ba abanane yara yalto jezi ko kolona wuzi de tinna danata de ne yara yantu,1.0,0.4198
+196,Chega tiina kɔre nɔn-balwaaro na wo mɛ to mo.,Chineke tinye kwere nọmba ruo na-abụ mụ etu,1.0,0.6857
+197,” Nɔɔno wom ma ke lela o vo o yi Eli tei o ta o bere‑o kolo na ke to.,"Nno m akwụkwọ laa, ọ bụrụ uyi elịte, ọ taa oburu ụkwụrụ na",0.9474,0.6809
+198,O nam wó pa se Zion tiina bam taa tɔge chega de nɔn-ŋonne kikia yerane.,Ona opasé zayontina bam ta toy chika dinongoni keke irani.,0.9333,0.4364
+199,"Dɛ delo, Baŋa Wɛ daa wó duri dé ŋwaŋa se o ke wo-kenkagele ne o na ke tei faŋa to, se o zeili Nebukadeneza se o jwoori o viiri o daare debam.","Ndeewo. Bịa nwaanyị a, pụdịrị, dighị nwaanyị a. Sọkwaa onwe gị karị. Nee, ọnakịte faatụ. Sị o zere, na bụkwa nri zaa. Sị o jiri, o viri, o daara dịka",0.9062,0.5943
+200,se á zege Ejipti ne á jwoori de chaveera.,Se azre Egypt ne ajori dichavira.,0.7778,0.375
+201,ye tega kasolo kom tete bá daane‑o.,ye taka shulo kontate bada,0.8571,0.4074
+202,de ba na-jwooru dwia yatɔ naa yana laŋa ne.,na ya na alana,1.0,0.697
+203,Ba ma wane Isarele tiina bam ye ba go ba jar-keira morro tena .,"Mba nụ, ụmụ Izrel tinyere aka ha n'ime mmehie nke ịbụkọrọ ndị mba ọzọ.",1.0769,0.8958
+204,"Nam jwoŋi-ka n vo n pa dwi tiina balo maama amo na pɛ se n vo ba tei to, se ba nyɔ ka wo sana bam.","N'oge ochie, ụmụ nwanyị ji tinye balmaama amụ na-pese ụmụ bateto. Sịwa nụ ka ụsọ na-ba",0.9615,0.4857
+205,"Nɔɔn-nɔɔno ba jege chwoŋa se o di-ko, ko ná dae kaanem tiina bam yerane, ko na ye a nyem to ŋwaane.","Nọọ nọọ m bịa gị echi na Sọndịkọ, kụọ na daalụ ka a na-etinye aka m n'ihe a niile, kụọ na ya anya ntụ nwa.",1.1429,0.6351
+206,ko woli de logo baŋa wonnu dwi maama.,Kuwale di lo baa wenu di mama,1.0,0.3793
+207,"Á ná ke konto, á wó na chwoŋa se á ta‑á jei yɔlɔ-lɔ-lɔ ye á di á tete Vini teeni de á kaporro tem nyɔɔre.","Anakei kontor, auna chongase ataji yololo ye adi atate veni teni de akaporo tem nyori",0.88,0.3553
+208,"Maŋa kam amʋ dɛɛn na maa ve Masɩdʋanɩ tɩn, a loori nmʋ sɩ n maŋɩ Efɛɛzɩ nɩ sɩ n kaanɩ nɔɔna balʋ na brɩ kʋlʋ na daɩ cɩga tɩn sɩ ba yagɩ.",,,
+209,ba na yaale‑o tei to ŋwaane.,Bana yaro ta tunawa ne.,1.0,0.4286
+210,Jerusalem teo tiina bam jege‑m mo ba mɔna.,"Jerusalem to you, Tina Bay, jigamọ kpọmọ",0.875,0.4242
+211,"Nɔɔna bam kʋntʋ nan ywǝri cɩga kam kʋntʋ wʋnɩ mʋ, yɩ ba daarɩ ba ŋɔɔnɩ bɩtarɩ sɩlʋ na ba jɩgɩ kuri tɩn.","Nọ na ba kụntụ na yori, chịka ka kụntụ wụna mụ. Ihe ba daara ba nwa ọ na betara sịlọ na ba ji kụrtụ",0.9545,0.4625
+212,Abam jege-ne á bwɛ se bɛ mo?,अबान जी ने अब से,1.0,1.0
+213,"Kʋ wʋ maŋɩ sɩ o taa yɩ wʋlʋ na yɩ nɔn-dʋʋrʋ Wɛ cwǝŋǝ kam wʋnɩ tɩn, sɩ o yɩ zaŋɩ o ba o zǝŋi o tɩtɩ, sɩ Wɛ di o taanɩ nɩnɛɛnɩ DƖ na di sʋtaanɩ taanɩ te tɩn.","Kowó máa sẹ́ o táa yọ̀ lù náyì, nọ́ndúrò wọ́yì chẹ́ ngá kà wọ́nàtá, sẹ́ o yẹ́ zangá óbà úzẹ́wọ́ títì, sẹ́ wọ́yì dí otáanẹ́ nẹ́ẹ́ dí nẹ́ dí sútáanà táanà títì.",0.9487,0.6106
+214,"Dagare senu mo gare ywoa yam na wo saŋa kalo maama ne to, se ya ja daane chekke.",Sayiya ja da,0.9444,0.8525
+215,Chaara zagem maŋa de nam ná yi se á taa di Faao kuri dem.,Chara zaga manga denam na yi se ata difa,0.8571,0.3953
+216,"Woŋo kʋlʋ Wɛ na pɛ dɩbam tɩn, dɩ́ maŋɩ sɩ dɩ́ kɩ DƖ le mʋ kʋ ŋwaanɩ, dɩ́ wʋ maŋɩ sɩ dɩ́ culi-kʋ.","nwa okorobia na-pere bante, dee mansi daki di lemo ka nwaanyị. Dee mansi di",1.0,0.6061
+217,Maŋa maama sɩ á kwaanɩ á taá kɩ lanyɩranɩ dɩ á ko-biǝ dɩ nɔɔna maama.,Mamma mamma si akwaani ataki laa yiri ni di ako biɛ di noona mamma,1.0,0.3208
+218,"O ma popone Wɛ nia fuga kam na bere Wɛ ni-sɛɛm de o nɔɔna bam to, o daŋe kandwa-pelɛ sem baŋa ne.",O maapụ na ọ bụ n'afọ a ka na-abịanụ ka ndị mmadụ ọ daa aka ndị pịrị ya sọ mgbada.,0.9545,0.6667
+219,Konto laam wó pa nɔɔna maama sii de yazura.,kontrolowała wpa na ona ma si di yezu,1.0,0.4706
+220,Ko déem ye chana kam konto ne mo abam nwoŋi Ejipti teo kom wone.,Kedu ihe ị chọrọ ka m kwụsịrị ime abalị a tupu ị lakpuo?,1.0,0.72
+221,"Dɛ dedwe Baŋa Wɛ déem tage de Moses o we, “Daa‑n sare kandwa-pelɛ selei nenɛɛne boboa nyena yam a na ke ye n lɔ-ya to.","Da a dwe, banga wode tare moso we. Da nsara ka ndoa pile sili ni na ni bubuwa nyina yam ana ke ye nloa ya",0.96,0.3636
+222,Yuu-tu Baŋa Wɛ wom tiini o maŋe.,YouTube banga wewum tiini umang,0.8571,0.4167
+223,O ma zaŋɩ dɩ zulǝ o di Wɛ-sɔŋɔ.,迪吉勒乌迪韦松瓦,1.0,1.0
+224,ne faŋa faŋa teene delo Baŋa Wɛ na chɔge.,ne fa fa tire de l'eau,0.8889,0.625
+225,"O ma ta de Moses o we, “Sɔɔ konto nye nenɛɛne tiguri-kaasa mo to nɔɔna bam na gilimi mɛ to wone.",O ma chara m ozi ọsọ wee sọọ kụntụ nyere na-anị tụgụrụ ka asaa m tụọ ụnọ na baa m na Gịlịmịmị tụọ,0.9524,0.5139
+226,O wó pa ba ke jara zela de torokooro zela dwi maama se o ma kwaare jara.,opabaké jara zila dituru koro zila duimama se omakwarjara,0.8824,0.2364
+227,Ba laam ma sare nwa balei ywei maama yera ne se ba pa ywei maama taa wae de twoŋi dedaane dedwoŋi na saŋe-de to.,Palama sare. Nwa bele yue mama iranese. Papa yue mama ta wa de tunyi.,0.875,0.4828
+228,"se a pa a yi-nyɔna leiri ya ji wopwolo,’.",si apa ayu nyana liri ye jiwupolo,1.0,0.2414
+229,O ta lage o jwoŋi á vare-mumugu fuga maama wone popɔra dedoa mo.,"Ọtalọjụọ avare, mụmụ fụgema ama wene pụpara adụdụ",1.0,0.5
+230,"Konto to, amo wó ma a ni.",Kuntutu amu,1.0,0.6471
+231,O ma kwei-se o tore kwana yana yam wone se ba taa mae ba zeŋe dakaa kam.,kwa na ya nna ya m nwanyi si bata maa baziri dika,1.0,0.5556
+232,O déem ma yɔɔre o ke konto mo taa se ko taa nii o daa ná boŋe se o vo o ŋɔɔne de Baŋa Wɛ.,"Odimma, ya ọrụ ka kontimuta sikwuta na ụdị a na-abụghịzi ofu ụdị banyere ya.",1.0,0.625
+233,Á boŋe se á yaale-ne a ni taane dem ŋwaane mo na?,Abun sai ya yi nuni Anita da Nwaamena,1.0,0.5556
+234,"Dɩ́ nan wʋ ŋɔɔnɩ bɩtar-kamunǝ sɩ dɩ́ ma pri nɔɔna swan, sɩ dɩ́ joŋi wǝǝnu ba tee nɩ.",,,
+235,"Yé ta‑á jege-na daane á bwɛa, se á pa ko ye nɔɔno wodwoŋi yiga.","Ite na jiga na da na abuya, si apakwiri n'onu we don yiga",0.9286,0.5435
+236,Balo maa na sɛ-ya to bere we ba dwoni de-ba mo.,በልማና ሰያቱ ብርዊ ብድንድባ,1.0,1.0
+237,"Dɛ dedwe, Moses ma ja vara bam o kɛ kagoa kam kwaga ne, o vo o yi Sinayi peo.",Moses ma jee faraban o ka ka gwa aka nkwọghị nụ. Ọ bụ ya mere e ji si na apịụ,1.0526,0.6071
+238,"Baŋa Wɛ nam yɔɔre o toŋe o sampwori sem mo á tei ne maŋa maama se ba ŋɔɔne de abam, ye á ta ba sɛ ba taane dem.","Banga wa na yore otongeni, osampori, simu, ateni, manga mama se bangoni di abam. Yi ataba se batani di",0.9286,0.3902
+239,Tei-o-na wɛ-wɛ baŋa jei sem maama ne!,Chineke na-enwe obi aṅaị na-echeta ndị na-enye onyinye na-enwe obi aṅaị.,1.5714,1.6296
+240,"Pa se Aron de o bia bam maama ba ba zege wara-vwei dem ni ne, ye n pa ba swɛ ba yera ba kwɛ ba tete amo ŋwaane.","Pastor Aaron, dee obioma mama, baba zuru oke, warawa ihe nile. Nye ya mpa basuo ba yiri akwa ebatata anwa.",0.9643,0.4691
+241,Abam ta wo lare de balo na kare.,aban thawo lare debhalo nakkar,0.875,0.2083
+242,kotu gare wolo na jege n chega o seigi dede‑m to.,na jigin cika,0.9091,0.8108
+243,Terale nuga de talwoŋ-ywoŋa pae nɔɔna wopwolo mo.,"Tralin nuga, di talong yonga pai no na wu polo",1.125,0.425
+244,ba nwoŋi da-kora na ye jwoni to tei ne mo.,na,0.9,0.9355
+245,Nmo boŋe we ni-wɛɛle wae jara de ke mo na?,ka mụ bụ onye na-elee ihe nkiri,1.0,0.7742
+246,Kʋʋ́ ta nyɩ dɩ kaanɩ pugǝ na dɛ ka vri yɩ ka wɔɛ te tɩn mʋ.,कोताण दे कानुपुगणा देकवरी इयकावोतेत,1.0,1.0
+247,nɔɔna swei amo swia tega kam jei maama ne.,"Nna suwe, amusuwe, tiraka njei maani.",1.0,0.4242
+248,Wolo na fe o jwoŋi lampwoo dé tei ne to wo yein-seeni mo?,Gọọmentị ụjọ na-apụ dịte aka tupu ya nsị na,1.0,0.7442
+249,Kotu na kwei o teena o daŋe mɛ to tiini ko bwona.,Kụtu na kwee otu ị na-ụda gị metu tinye nkụbọ,0.9167,0.4865
+250,"N na sɩɩnɩ n sɛ Wɛ cɩga kam taanɩ dɩm dɩ zaasɩm dɩlʋ na yɩ cɩga yɩ n maŋɩ n tɔgɩ-dɩ tɩn, nń bɩ Wɛ cwǝŋǝ kam wʋnɩ.",,,
+251,"Kokuri, balo na wo churu wone to ware se ba tei‑m.","Kukuri, balnao churu ni tong, war siwate",0.9091,0.3514
+252,O wo ma fuli de ba jar-keira bam.,O ma fule di bajarkara,0.75,0.375
+253,"Ba bá ta nenɛɛne, ‘Lɛɛro mo yi debam!",baba ta ni nani? Lele mu yiriba,0.875,0.4815
+254,"Nmo tete ne mo n dugi de-ba we ba dwi dem wó ba de puli nenɛɛne wɛyuu chalechwe na ye tei to, se ba daare ba taa tei tega kanto.","Ị tetanụ, ị dịghị ebe a wee bụrụ onye ị bụla n'ime unu nwere ike ịlaa tupu ị tetụ. Sọba daalụ, bata teta ị tiri aka",1.0,0.6667
+255,"Ya wó taa wo ko teiŋa vovoa kam baŋa seeni, gare-yia yam na twoŋi daane mɛ to.",Gara yaya na tonga da,0.9412,0.7966
+256,"O kikia tɔge chwoŋa mo, ye o ba jege tusim.",Job na itetuna. Tiri abali na ona ma mma nwuni. N'onno ntra ona ino nwam na nwunye ya na itetu. Okike tochiri ya mu yi uba ji gi tusi,2.9,2.5938
+257,Dedɛɛro wolo na zege o yere teo kom to de bɛ?,"De daar wil oh, naar zijn oren toe komt toe. De",1.0,0.5588
+258,Balo na ve Wɛ chwoŋa tɔgem to yera maa sae pɔm-pɔm.,Balenaviwe,1.0,0.7949
+259,Abam teo kaanem tiina bam daa wo bwei daane we.,Abanti okanin ti na ba da ube da na,1.0,0.4324
+260,Dɛ dem a nu na loge-ne to dae wopwolo dɛ!,Daren anu na lokaci to dai,0.8,0.5667
+261,Nabiina mo boŋe ba ja ye ba kwei dɛ de kandwa ba ke-ya.,"Ndi b'ine mu bu onye b'aja, i ga-ekwe ede dika ndu a kpaka ya",1.0769,0.4634
+262,"Tega kam maama wone, nɔɔna ba tɔge chega naa swono kikia, ye ba ba kɔre Wɛ de.","Chika mma mma unu, unu abughi chika na-esunokwa ya, i babakwara wee di",1.0,0.5593
+263,Ba maa wó ja á fara bam ba viiri ba vo sa-teo.,Bama oja afara bam baviri bavusati,0.9167,0.2424
+264,"Moses déem na ŋɔɔne o ti to, nɔɔna bam ma jwoori ba vwoa ne ba daare‑o.","Mụzị dị na ngwụcha izu ụka, na-anọbụ m ajụọrọ banyere mbà dị iche iche.",0.9375,0.8113
+265,"de nenɔŋa gwaaro telo kaanem tu Aron de o bia bam na jege se ba zo-te se ba toŋe kaanem totoŋa to, de Wɛ swolim nuga kam, de talwoŋ-ywoŋa kam ba na wó zwɛ Wɛ di-yuu kom ne to.","na-agwa ha okwu ka ha ntu aro di obioma na-adịghị asị bazute, si ha tụọ ka ha ntu tụọ. Di ha wee soro ha nụga aka, di taa lụọ ya aka ba na nwunye ya wee dị",0.9744,0.6031
+266,"Amʋ Pooli ya kwaanɩ sɩ a ba abam te, kʋ daɩ kuni bɩdwɩ yɩranɩ.",A mɔpɔlɛ ya kwanasi aba abamte ko dakunibɛ duwira,0.9286,0.3404
+267,A nam lage a kwei‑m a pa Babilon teo pɛ Nebukadeneza de o jar-keira mo.,"Anan la kwem, apapa belente o pe ni but kanisa de ojarakoro",0.9333,0.3704
+268,A jar-keira bam ma nɔne Ejipti bwi sem.,Ajar kerebe ma anu ani Egypt bu isi,1.0,0.4333
+269,"de tabolo kom de ko zela yam, de sabu-seŋa min-zwon-zego kom de ko zela yam maama, de talwoŋa zwɛɛm dakaa kam.",de taboukoum deko zolayam de sebu singa menzo zokom de ko zolayamama de ta lunga zoyan daka,0.8095,0.3214
+270,Wɛ kwora kam mo tento: “O daa bá jwoori ywo-seeni.,"Wekora kam, mutun to. Wata abajori yose",0.9,0.3784
+271,konto ŋwaane mo o pɛ se ba na ba wɛleera yam ŋweero.,Kpotunwa m Onyeisi Banna bawalira m nwe,1.0,0.55
+272,"Ko ta ná ye gwaaro telo a na pɛ‑o se o ma kwoli o chaveera to, a wó jwoori a jwoŋi-te o tei ne.","Kutana yeye gwaratulo, ana pio su omakwelo chavira to ajuri ajunti oteni",0.9583,0.3676
+273,Á ta ma daare á ve a bera yam mo.,"Ata madari, avi abrayam",1.0,0.3478
+274,Cheigi ta-kwogila yalo maama Senakeribi na toŋe o ma o twe nmo Ŋwea Tu Baŋa Wɛ to.,"Chigai, takola yalo mama. Sina krebhi natungai oma otri. Imongwi atu banga",0.9412,0.4219
+275,"Amo tete yere dem zula ŋwaane, de a tontoŋeno David ŋwaane, a wó taa kwoli teo konto se kolokolo yé wane-ko ko chɔge.",A wata tayi radin zulanwane dai a tuntuno David nwane a wata kwalli ta kwonto sakolokollo yau wane ko ku caca.,0.8696,0.3736
+276,"O ná lage o kwɛ-ka, se o kwei wɛleere kaanem varem wom jana o ma taare ka nyea yana yam.",Ana alu kwa kweka so okwe weliri kaana mbarawu jana oma taari ka nye ya na ya.,0.95,0.3485
+277,Moses déem nam ya maŋe peo kom yuu ne mo o dáane.,"Mụ zị ndị na-ayá, mụ na pịọkụ yụ nụ mụ ọdịanma.",1.0,0.6486
+278,N yia wó taa kare ya nii mo liira liira ye n boboŋa maama vugimi wo-yɔɔro baŋa ne.,Yewu takaraya nimu lira lira. Yen bubu ngama ma vuvugume wo yorubanga,1.0,0.4127
+279,"Kʋntʋ ŋwaanɩ mʋ paɩ dɩ́ kwaanɩ dɩ́ tʋŋa, bɛŋwaanɩ dɩbam jɩgɩ tɩɩna dɩ Ŋwɩa Tu Baŋa-Wɛ.","Konto nwa na mpaite di kwa na di tunwa, be nwa na di banjiri china di nwiye tu banga",1.125,0.5606
+280,Nɔɔna bá fɔge ba swei banto yuu na yaale tei to.,"Na na ba fọi baswe, banti yu na yali te",0.9091,0.3784
+281,"Tɩtɩɩ nɩ mʋ nɔɔna yǝni ba dɔa, yɩ badonnǝ nyɔ ba bugǝ.",na mọ nọ na yene badwa ye badwa na nyọ ba,0.9167,0.5122
+282,"Kokuri to, Baŋa Wɛ mo pɛ ni dem konto.",Kukureton,1.0,0.75
+283,Paŋwa Tu Baŋa Wɛ na tage tei to mo konto.,Bangwa tu baa weh na taa tetu,0.8,0.5484
+284,"” Banto yera mo popone ya tiŋi we, ba wó wori chɔgem dem baŋa ne.",Banto yira mo poponi ye tinwe gba wuri chogomdim,0.8571,0.375
+285,"Chega to, “Swa-mura tu ba jege sɔŋɔ.","Chigato, somura tu bajigeso",0.8571,0.2692
+286,Nywonnu bá taa wo chwoŋa kam konto ne.,nyanu batawu,1.0,0.7333
+287,"naa se-zɔɔ, naa che-tɛɛre delo na sele to mo o chɔge‑o.",na suzo na chetere dulo na saletu mu ocho,0.9091,0.35
+288,ye ba ta ve se ba jwoori ba ba amo tei.,ye bata vesi bajori,0.9091,0.4643
+289,"Chega to, amo zwa ya mo nigi nmo ŋwa.","Chineke, amaghị m ihe m ga-eme",1.0,0.7778
+290,N ta wó ta‑n dana mo se n vo n te.,tanwo tan danamo se,0.8182,0.4091
+291,"Yɩ zaŋɩ n yagɩ pɛɛrɩ dɩlʋ Wɛ na pɛ nmʋ, maŋa kalʋ DƖ nijoŋnǝ bam dɛɛn na tagɩ nmʋ taanɩ te yɩ Zezi kɔgɔ kʋm nakwa bam dɩ daŋɩ ba jɩa nmʋ baŋa nɩ ba warɩ Wɛ n ŋwaanɩ tɩn.",Ihe a na-enye ya nsogbu bụ na ọ na-akwado ndị na-ataghị ụmụaka ntị. Jezi kwuru na ọ kwadoro ndị danyere n'ime ọgbá aghara.,0.95,0.7422
+292,"O ta wae o kwei sabu-seŋa, de lu-nyenno, de channa o ma naane wonnu telo na tiini te lana to.",wata uwa kusan da lonyan da kiyana umma na ne uwa ntolo na tiyin talana,0.95,0.5217
+293,se n de ŋona bonaga ba ne n vaŋe-ka.,አንድን ወና ብንቀባን,1.0,1.0
+294,"Kokuri to, Baŋa Wɛ lage o ke kaanem mo Bozera teo ne.",Kukriton ba'awel la'ay okay ka'anemo bujra,1.0,0.475
+295,"Ne doa na ba nena, ye nyɔnɔ de ba toe te-pwoŋa ne tei to.",na duwa na banna na yin yono dubatu tufanita,0.9286,0.4878
+296,"Dɩ́ ko-biǝ-ba, abam tɩtɩ ye lanyɩranɩ nɩ, dɩ́ na tu abam te tɩn, kʋ daɩ kafɛ.",ko biya ba ko da ka,1.0,0.7593
+297,"Kokuri to, Jerusalem teo tiina ta wó daare.",Kukurito Jerusalem tyo tina tawu daar,0.875,0.1471
+298,nenɛɛne ba ye chwoŋa ni bworu to.,"Nne m, biko nụ mụ",1.0,0.8077
+299,Nam ta ke-na sabu-seŋa kwana yalei se ya meeli gare-pale dem kuri dem seeni.,Nantakene bu sune akwana ya le si ya mele gara palde kwuri de,0.9286,0.3559
+300,Ko nye de nywoŋo ya mo jege a kwi sem ko yara.,Kwenye di nyongo ya mojigi akwism ko,0.8333,0.3824
+301,Ka-tole tete tui abam tei mo se á bere-ba!,"ka lita te, tui aban te mu, sai abara",1.0,0.4194
+302,ne kayere na yeini se deilimi kara se ja tega tei to.,ne ka yiri ne ye ni sidil mi kara,0.9167,0.4878
+303,dé ja vara dé zwɛ dé pa‑m.,déjà voilà de,1.0,0.7222
+304,"Moses ná yeini o maa vei se o zo jeerim vwei dem wone, nɔɔna bam maama wó nwoŋi ba zege ba vwoa yam nia ne mo.","Mọzụsị na-enye ya na ụmụ ya sozie jee ịrụ ya n'ụlọ. Na ọ na-abụ ama ama, ụmụ nwanyị gbaa gburugburu ya na ya na",1.0,0.759
+305,"Amo Baŋa Wɛ wó pa se Asiria pɛ wom boboŋa vugimi pa se o ni sawea, ye o da ka ŋwaane o jwoori o tete teo.","A ma gbara wa, o pase a si ri a pe won bo bu na furu mi, pase onisa bu ya. Iye oda ka nwani, oju ori otito",1.0769,0.3333
+306,"A vei Jerusalem mo, de Judah teene dedwonna dem, de ba pwa de ba nakwa bam tei.",Jerusalema di na Chineke dị na elu di na papa di na kwa abante,1.0,0.5167
+307,"Faŋa tɩn, a dɛɛn yǝni a ŋɔɔnɩ a cɔgɩ Zezi yɩrɩ, yɩ a kwǝri a twɩ-o, yɩ a ta yaarɩ o nɔɔna bam.","Faŋata, adan yene anwoni achuri, zezi yiri, iyi akwori atio, iyi ata yari onona ba",0.9565,0.4179
+308,"A maa wó jwoŋi o wɛ-lworo kom, se a yé waare abam de jworim delo á na ke to.",Amaa ụjọ na-ewu ha n'ahụ dị njere ndụ ana-akpọ,1.0,0.7636
+309,ye nabare de taa wo te-kora kam ne se dura.,ये ना बारे दता वो तकुरा का ने सिदरे,1.0,1.0
+310,Nɔɔn-nɔɔno tera o na wó wane o jwoŋi-ba a jeŋa ne o yage.,"Nọ nọ tra, ọ na-ewu n'ojua ajị anụ ya.",1.0,0.5714
+311,Ba ma bwori nɔɔna sam ba zoore ba vere ba wonnu.,"Bamma, buru nụ na-asam, bazụrụba vubu wụ nụ.",1.0,0.4595
+312,"Á taá loori Wɛ á paɩ pwa dɩdaanɩ dɩdɛɛra balʋ maama na jɩgɩ dam nɔɔna baŋa nɩ tɩn, sɩ kʋ pa dɩ́ taá zʋʋrɩ dɩ yazurǝ dɩ ni-ywǝm, sɩ dɩ́ wanɩ dɩ́ taá tɔgɩ Wɛ lanyɩranɩ, sɩ dɩ́ taá ŋwɩ nɩ kʋ na maŋɩ te tɩn.",,,
+313,Nam ta sare-na Isarele dwi maama yera fuga-yalei yam kandwa yam baŋa ne.,Nantasan na Israel di mama yira fu ga yelayam kan dwa yam bangani.,1.0,0.2632
+314,ba wolowolo bá di paare Judah tiina baŋa ne.,"Bà ô lô lô, bà đi Paris, đi Đà Lạt hay ở Bà Nà?",1.5556,0.7143
+315,"Pwa bam konto dedaane ba nakwa wó yeini ba di sisei-torokooro de sisein-nɔɔna baŋa ne ba tɔge manchwo-peena yanto ba kɛ mo, ye ba nɔɔna bam de tɔge ba kwaga.","Ọbụghịkwa otu raa nị banakwanụ, wụ yị n'ebe dịị sị sị tụrụkwa ụrụ, dị sị sị nọ na bananị ma ụba tụghị m nchọpụta n'anya banyere ya. Ịba nọ na bananị dị tụghịkwa",1.1,0.6098
+316,Ba de maa jwoŋi pɛɛra yalo maama nɔɔna bam na pɛ se ba maa ke wara-jei sem to Moses jeŋa ne.,"Bara m jụọ gị père ya bụ mama nọ na banna pịa si bama kee waradị ya sentu, Mozis jị na",0.9524,0.4857
+317,Dɩ́ ye nɩ Wɛ cullu tɩm lana dɩ wʋlʋ na ni tɩ kuri nɩ kʋ na maŋɩ te tɩn.,de ye nu we cu le ten la na de wolo ne ni te ko re ne ko na men ce ten,1.0,0.4118
+318,"Ba ta wae ba sɔ gare-fefale ye ba kwei gare-ŋone selo nyenyero na ye nazwon-pupwia, de nasoŋ-pupwia, de nasoŋo chwɛ-chwɛ to ba ma gɔgere nyenyero ba ke da.","Pata wa yiba so gara fa fali, yiba kwe gara nwa solo, yinyoro na yina so buya di na so buya di na so chuwa chuwa to. Bama goro yinyoro",1.0357,0.4333
+319,"O na ŋɔɔne de nɔɔna bam o ti to, mo o kwei gare-fefala o ma o kwoli o yibia.","Nwanne m nwoke, nọna baa n'udo. Mụ na Garafafala ọma kwere oyiri",1.0,0.5636
+320,” Moses ma sare kandwa-pelɛ selei ne boboa nyena yam na ye tei to.,mụ bụ sị m asị na ọ ka mma ịhapụ ya na ịtete,1.0,0.72
+321,"A ta wó beeri nayera balo yiga na wo ba wone to a pa-ba, se ba taa nii ba baŋa ne.",Ato berinayira baliga na awoneto apaba sebata ni babangane,0.9524,0.2373
+322,Ko na tiini ko chɛ amo yera ne tei to ta wo su abam yi na?,Kuna tini ku ce a yi ra na tito ta wusuwa ban yi na,0.8125,0.3095
+323,Nmo laam ma‑n wó zwɛ ka wone n nane yɔle-yɔle.,Malaama o jee ka wụlị ẹnna nị yụalụ yụalụ,1.0,0.5882
+324,Kayɔlɔ baŋa maa ye jatwogo de noa ni maŋem dedoa de chichworo.,"Ka yola banga, ma i je togo di nuani manga duwa di",1.0,0.52
+325,"Bɛŋwaanɩ zǝnzǝnnu wʋlʋ maama na tʋŋɩ o tɩtʋŋa lanyɩranɩ tɩn wʋ́ na zulǝ zanzan nɔɔna tee nɩ, yɩ o daarɩ o na baarɩ dɩ wʋpolo o na kɩ o wʋ-dɩdʋa dɩ Zezi Krisi tɩn ŋwaanɩ.","Bịa nwanne, zênụ ụlọ mụ a na-atụghị otutu ala anyị rânata, unu zụlụ ezigbo nzụọ na ọnetị ni. Ihe ọdịara, ọ na-abara di ụkpụrụ. Ọ na-akị ọwọrọ duaru dịka ezikristetị nwanne.",1.0,0.6336
+326,"Ko na ye tei to, amo boboŋa jaane ya ti se a pa lɛɛro mo yi teo konto, ye ko dae lam.","Kunaite tu, amobubunga jani yeti se apalero muyi tiokoto ye ko dai la.",0.8636,0.3115
+327,"Amo nam za bá tɔge de abam se dé vo, á na ye zwabani-nyena to ŋwaane.",Amanze ba toro di abam siri vu ana ayi ezobe nu nye na tunwa.,0.9375,0.4902
+328,"Laam sare-na ko baŋa ne we, ‘Wose mo Baŋa Wɛ ŋwaane’.",Lansara na akwa bangane wee wụsị mọ bangane wee nwanyị.,1.0,0.5789
+329,"A ma pa ba nyɔ na-zoŋa kam wo sana bam, se ko bere we ba lage ba na chɔgem ye ba teene dem ji di-dwonnu yerane.",Ama apabanyo na zuwa kan wosanaba. Suka bar wai bala'i na choko. Ye bati na da ji dudo na irani,0.9231,0.3902
+330,A ta wó pa se Akore bwolo kom pipiri ko ji teena jeiga ko pa‑o.,"Ata o passé, akwụkwọ gụlọkụ pịrịkụ ji tị na ajịghị kọpọ",0.9333,0.617
+331,Ko maŋe se tia lei taa wo ba ni ne.,Kaman su Tielle ta Wubeni,1.0,0.48
+332,"Wɛ na kuri dɩbam sɩ dɩ́ taá yɩ DƖ nɔɔna tɩn, kʋ daɩ sɩ DƖ ban-zɔŋɔ kʋm ba kʋ cɔgɩ dɩbam.","Wene kurdiba, seret ta yeda nonata. Kodasi deban zongo komba ko chogodiba.",1.0,0.4688
+333,-O ta ma kwei sabu-seŋa o ma mɔ wonnu telei na nye de malese ye ba bwoi-ba we cherubi to.,maka na ọkwa ya bụ isi bụ na ọ ma mma nwere ntị na nyere mmadụ isi. Ihe bụkwa na chere bụ,1.05,0.6515
+334,Pa-na dé tei Baŋa Wɛ!,Panadit te banga we.,1.0,0.4
+335,"de talwoŋ-ywoŋa kalo ba na wó ma ba ke Wɛ swolim nuga kam, de kalo ba na wó zwɛ wara-vwei dem totoŋa ŋwaane to.","di ka na-ege anyị ntị, mana wụ ma banye wee soro nụ gị aka. Dị ka ọ dị na-adịghị anya, anyị ga-amalite",1.0,0.7024
+336,Ba ba yeini ba lwoori-ne de ba wo maama.,बाबा येनी बलोर्नी दब अवूमा,1.0,1.0
+337,"Kʋntʋ, dɩ́ wʋ́ ta wʋ dɩ́ Yuutu wʋm tee nɩ maŋa maama.","Kwantọ, dewọ taa wọ di yutuwun te ne ma nga ma",1.0,0.4595
+338,O kwo-nakwe yere maa ye Zerora ye wonto de kwo yere ye Bekorafa.,"Duk ko na koyi yirmayi, za rura, yiwanto duk koyirye, be kora",1.0,0.4
+339,Pun-kogele dedwe maama na wo daa kam yera ne to mo teili nɛ selei selo maama na jeeri daane ka yera ne to.,"ụmụ nwanyị abụọ, mama na nwa ya nwanyị ka ịranitụ, mụ na nne siri soro mama na-ejiri daa nụ ka ịranitụ",0.9565,0.5854
+340,"O na yagɩ-ba kʋntʋ, kʋʋ́ yaarɩ Zezi nɔɔna bam kʋ pa ba daa bá wanɩ ba nii kadǝnǝ balʋ na ba jɩgɩ nɔɔn-nɔɔnʋ tɩn baŋa nɩ.",naa n'iyaa be khonto k'o yarzezi n'onaba k'o pa badaa ba wani be ni ke denaba lo naba jigi n'ononoten banga,0.9231,0.4222
+341,"Bɛŋwaanɩ, bantʋ wʋbʋŋa daa na lǝni yɩ ba warɩ ba tɩtɩ ba ja, baá yagɩ ni dɩlʋ ba na goni dɩ Zezi Krisi tɩn, yɩ ba daarɩ ba daa zʋ banna.","Biawa ne bantuo bu nga de ne lini, i ba war batat ba ja. Ba yi ni dolo ba ne goni di zo ezi kristo, i ba daari ba da zo ba",0.7742,0.3824
+342,nmo bimbini dem baŋa ne.,Mbinbindim banani.,1.0,0.3684
+343,Pa-na dé tei Baŋa Wɛ!,Fana di te banga we.,1.0,0.4
+344,amo ta lage a la-ba mo a ke daane se a waare-ba.,"Ammantalaqay, Allaabamu akkadani sawwara",1.0,0.5
+345,Nii amo wolo na ye a pɛ wom nabwom to na jege dam delo to.,ni amụrụ na ya apụghị ịṅụ mmiri tupu na-achịghị dam dịrị,0.8667,0.7674
+346,de ba na nye de na-bale selo na ware se ja to mo.,de bananyi de na bali solo na wali se ja,0.6923,0.2571
+347,Kɔ ŋwaane mo nmo bane wó zaŋe de-ba se n chɔge-ba?,Ka ọwa mụ banye ụzọ ndị a sị,1.0,0.7027
+348,Wɛ ye nɩ dɩbam na tagɩ kʋlʋ tɩn yɩ cɩga mʋ.,Onye ije na Daban na-atakwuluti ya chiri,0.9091,0.6875
+349,"Ba na gilimi ba ti to, ba ma mɔ na ba lwo tega ne ba pa Baŋa Wɛ.","Bana gilem ba tito, ba ma mona belo trani, papa bana",0.8333,0.2667
+350,"Ko ta ná ye Hamafa, de Arapade, de Sefavayim, de Hena, de Ivaa, teene dem konto pwa bam de wo yein-seeni mo?","Kutana ye Hamafa, De Aripadi, De Safiwayin, De Hena, De Aiva ti na dem konto pa ban de wiyensi",0.5909,0.275
+351,Abam wɛleera yam ta wó taa wo amo yiga ne mo taa.,Aba nwa liri anya taa utawo a mu jighi ni muta.,0.9167,0.4595
+352,a yaara yam daa ta pa-ne foone mo.,A yi ara yem da ta fani,0.875,0.48
+353,O kwo-nakwe maa ye Hura ye wonto nwoŋi Judah dwi dem wone.,Wannan kwai mai hula yawan tunnin Juda,1.0,0.6444
+354,lɔre-na totoŋ-kamunnu telo amo na ke to.,"Lorna Tutunkamuna Tulo, Amu, Nake",1.0,0.3548
+355,"Ko kwaga ne se n pa Aron zo kaanem tiina gwaaro tem: gare-dedɔrɔ kom, de gare-bwora kam, de gare-wogo kom, dedaane nyɔɔne gare-pale dem.","kpokwaa nu Saint Paul Anglican Church dị na Nkwelle Ezunaka, Garri dị ọnụ ala, dị gị mma, dị gị nwụkwụ, na dị aṅụṅụ garri palọ.",1.0417,0.7404
+356,A nam jaane-ba mo a nwoŋi Ejipti ne a ba ywo-seeni se a taa zoore de-ba.,Anaghi m anba anụ ihe mere a na-akpọ,0.9375,0.717
+357,"Baŋa Wɛ nam zege a tei ne mo, ne babea tei.","Mba nwe na nzere, a teni mu neba bia ti.",0.9091,0.3548
+358,"” Konto ŋwaane, a lage a zage sabare mo a kwei a maa che o chwoŋa.",Kuntunwa ne alhazzai sabarmo akwai amaci,1.0,0.4583
+359,Tedwonna tiini te lana.,"Awe, mọ́rí dúé yẹ́lẹ́ mú áníá. Tódó ná tíní tólá",2.5,1.3158
+360,Kʋ maŋɩ sɩ o taa yɩ nɔn-yoŋo mʋ dɩ nɔɔnʋ maama.,Komanse otayi non yongomo de non,1.0,0.5429
+361,ba waasa ye ba we: “Ba fugi debam jei maama ne!,ba wasa ya ba wai ba fudu ba inje mama,0.7273,0.3824
+362,Jwoni dem yuu dedaane de jataala maama bwori mo te tigi diga kam ni ne dáa dáa.,Jandiri yudi da anda jattala maama burmu. Tattiri jiga kam ni daada,0.8235,0.371
+363,"O laam maa wó ta o tete ne we, “Yage se a jwoori a vo a baro wom tei, ne ko déem na ye tei to.","Wala ma wota, wota tunwi, ya sajoro afo, abar wunte, ne ku dena",0.9615,0.4923
+364,O ma daare o vere ba jara-keim nantane sem o zwɛ de mini.,ወማዳሬ ኡፍሪ በጀራክም ናንታንሲም ኡዝዌዲሚኒ,1.0,1.0
+365,Taanɩ dɩntʋ yɩ cɩga yɩ dɩ maŋɩ sɩ nɔɔna sɛ-dɩ mʋ.,"Tana don tiye ciga, ye damasi nona se dam",1.0,0.4324
+366,Jworru bá na chwoŋa se ba beeri ka wone.,ጀሩ ባናቹኛ ስባቤሪ,1.0,1.0
+367,ne á ye Vini tio kolo na tiini ko lana to mo.,Ayi venit yo kolo na ti ni kola na tum,0.8333,0.2727
+368,Saron te-ywoŋa kam de jigi kagoa mo.,"Saron, tiyungakam dijigi kagwa",0.8571,0.2857
+369,Baŋa Wɛ ma chu kunkwoŋo kom wone o zege Moses tei ne.,"Bịa nwa mụ a, kụọ nkụ n'ọkụ, ọ zịrị mụ zite ya.",1.0,0.7561
+370,Nam yé pa-na se Judah dwi tiina bam de tɔge á na-bɔŋa kam.,"na ya Panasuda, tu ti na ba, the toy ana bonaka",1.0,0.4186
+371,Amo mo wó jwoŋi á wara yam.,amu mu ujjongị awara ya,1.0,0.5
+372,"Ba ma kɛ ba vo ba yi Saalim, ye ba wo nɛ-se dáane de.",Ba ma ke ba bu ba yi salim yi ba wunne si da na,0.5714,0.3514
+373,"Amo tete nam wó zeili Kanaan tiina bam, de Amori tiina bam, de Hiti tiina bam, de Pɛrizi tiina bam, de Hivi tiina bam, de Jebusi tiina bam maama.",,,
+374,"Ba laam wó tiini ba kɔre Baŋa Wɛ, ye o de wó ke-ba lanyerane.","Bala wuti m'ba kwarba ngawe, ye odowu k'ba lanyirani.",0.9286,0.3778
+375,Baŋa Wɛ jeini de wɔ mo se ba bane daane.,"Bia nwe Jenny, di wa mụ si gị abanyela n'ime.",1.0,0.5667
+376,Konto mo wó pa Baŋa Wɛ nenɔŋ-fɔrɔ kom taa nae jaja.,Kụntụmọpa b'awe nụ nọmfọrọkụm taa nịị jaaja,0.9091,0.4359
+377,se o nyɔ Dam-fɔrɔ Tu wom.,se onyo dam foro tu,0.6667,0.3333
+378,"Mʋ kʋ kuri amʋ bʋŋɩ nɩ kʋʋ́ ta lamma sɩ kadǝnǝ balʋ na yɩ ka-bwǝnǝ tɩn taa zʋʋrɩ banna sɩ ba lʋ biǝ, sɩ ba daarɩ ba taa nii ba tɩtɩ sam baŋa nɩ.","Mokokuri amobongene, kotala mati kedena balona yi, kebonatenta zoro bana sebalubie, sebadarbateni batete sambangani.",1.0,0.3925
+379,Ba na jeeri to mo Asiria teo dedɛɛra yiga tu wom tage de-ba se ba ja Asiria pɛ wom kwora ba vo ba ta de Pɛ Hezekia.,Banajiro tumu Asiria tyo dadara yuwetu tadeba se baja Asiria pewu kura bavu batade pe Hezekia,0.8519,0.2759
+380,A nam lage a woli bena fuga-yanu mo n bena yam wone.,"Anan lagai awali, bana fuga yanu, mo mbana yan wani.",0.9167,0.2564
+381,Nam pa se ba ke woŋo maama se ko tɔge amo na bere‑m tei to.,N'anpasi bakewu nguma ma sokotoro amu na bren,0.9333,0.4419
+382,"Baŋa Wɛ maa yeini o tɔge banto baŋa o ta we, “Abam maama pipiri-na á yage chwo-balwaaro telo á na vei se wone to, se á daa yé ta‑á tɔge lwarem kikia.",Bịa wee mee ya ni otu a ka ọbụrụ na ọbụla ọta wee abụọ mma mma pipụlụ na anyị aghaghị ịcha balụ arụ. Sị na adịghị ịta atụrụ ịlụarụ mkpụrụ.,0.9688,0.6757
+383,Amo nam ye ba Nenɔŋ-fɔrɔ Tu Baŋa Wɛ wom mo!,amunye banonfora tu baawe wu,0.9,0.4375
+384,Bɛɛre-na ba dem seeni maama se ko yé kaare.,"Berna, baam, sene mama so kuye ka.",1.0,0.4242
+385,ne ba nabaaro David déem na di paare tei to.,David,0.9,0.8529
+386,Ka maa ye jeiga kalo Paŋwa Tu Baŋa Wɛ na di paare cherubi sem tetare laŋa ne to mo.,"Kamma, ye jara kalo panwatu bangawe na di pari cherubi sembe tarila na",0.7368,0.2969
+387,Ya kayɔlɔ baŋa maa ye jatwogo de noa ni maŋem kuni bena.,Ya ka yoro banga ma ye jatu ko di nuwani ma fune ben,0.9167,0.4091
+388,"Ko wó taa ye jatwogo de noa ni maŋem bedwe mo, se wɛ-baŋa maŋem taa ye jatwogo de noa ni maŋem kuni belei.",ko ta yi jiyayya da nuna ni mangam da duya ma so ya banga mangam ta yi jiyayya da nuna ni mangam kune billah,0.9565,0.6049
+389,"Bɛŋwaanɩ, dɩbam dɛɛn na tu dɩ́ tɔɔlɩ Wɛ kwǝr-ywǝŋǝ kam dɩ́ brɩ abam tɩn, kʋ daɩ dɩ ni-taanɩ má.","Bɛ nwɔne, dɛban dɛ na tu dɛ tɔlɔ we kwoli yuo ka dɛ bɛ abantɛ ko da dɛ ni ta ma",0.9474,0.4571
+390,nenɛɛne á déem na to tei Asiria tiina jeŋa ne to.,"Nna nne adịghị na ntị, asịrị ya tinye na njedebe.",0.9091,0.6316
+391,"Kʋ na yɩ kazɩna, n maŋɩ sɩ n kwe-ba nɩ n niinǝ mʋ te.",Konna yeka akyerɛ na ɛmma wo nsi nkɔyɛ baabi na enii na mutum,1.0,0.7297
+392,o déem zo jaŋa mo de o choro Esawu.,"Udim, zụọ nụ ụmụ, dee ochuru ịsọ.",1.0,0.6154
+393,Baŋa Wɛ ma tɔge Moses yiga ne o kɛ ye o we: “Amo mo ye Baŋa Wɛ wom.,Bangawe ma tuo Mozus yika ni okeya yowi. Amanya Bangawe,0.9444,0.5106
+394,ne Kamele de Saron jei sem na ye tei to mo.,ne kamale disaron jesu na ititu,0.8182,0.3438
+395,O ma kwei ya dedoa dedoa o meeli dakaa kam nɛ sena maama yera ne.,"Kuma ku yi yadda doka ta doka, ku melle daka kan na su na ma ma.",1.0667,0.5
+396,"Ba wó taa bwoi Zion teo tiina ta na daare ye ba wo Jerusalem ne to we, “Wose tiina.",Bawuta bui zion tio tine tana dare ye bawu Jerusalem ni tun wai wusi,0.8421,0.3226
+397,Efrayim dwi tiina bam lɔge kaanem bimbina dedɛ.,daga cikin jihar Bauchi na ƙaramar hukumar,1.0,0.7949
+398,Giligal ne ba yeini ba ma nabɛ mo.,"Gilgal ni, be yem bama na be",1.0,0.3462
+399,"Kʋ maŋɩ sɩ ba kaana dɩ taa yɩ balʋ nɔɔna na nɩgɩ tɩn mʋ, sɩ ba yɩ taa yɩ bɩbarɩ-nyɩna.","Kòmbáŋà sé bà kàànà dé táàyè balò, nóò nà nà nìgàtémò sé bà yí táàyè bé bàrì nyà",1.0,0.5469
+400,"Sɔɔl laam ma bwei‑o o we, “Dé nam ná lage dé vo nɔɔno wom tei, bɛ mo dé wó ja dé vo dé pa‑o ye dé wodiu maama ti tento to?","So, na ma buyo o wee di na nna lawa duvu nu nte, e mu duvu ja duvu di puo, yi di wu di yu mama T-Tonto.",0.9032,0.5
+401,"Nam ta kwei teiŋa vovwe sem n vɔ ba tei ne, se n daare n kwei ba yipwi sem n pu ba yuni ne.",Nanta kwe tɛnɛ vuvusɛnɛ on va batɛni sandaare kwe ba yipuisɛnɛ mpu ba,0.9167,0.4697
+402,Balʋ na sɛ Zezi Krisi yɩ ba tɩ tɩn wʋ́ da yigǝ ba bi ba yagɩ tʋʋnɩ.,በለነ ሰሰዚ ክርስቲያን ባተተ ውደይ ገበቢ ባያቶነ,1.0,1.0
+403,"Kʋ nan daɩ kʋntʋ yɩranɩ, baá ji bɩbarɩ-nyɩna dɩ ŋwaŋ-yɔɔrʋ tiinǝ, yɩ ba ŋɔɔnɩ wǝǝnu tɩlʋ na daɩ sɩ ba ya ŋɔɔnɩ tɩn.",,,
+404,O maa wó jwoori o ŋwe ba tusim kikia yam jene ba yuu ne.,O ma ujuoro onwu ibe tu si nke ke ya m jiri ba yu,0.9286,0.4762
+405,"Kʋntʋ ŋwaanɩ, á taá maɩ cɩga kam kʋntʋ á kwe daanɩ, sɩ á bɩcara taa tigi jǝgǝ dɩdʋa.","Konto wa ni, a taa mɛɛ ci ka kan konto, a kuɛɛ da ni, saa bi kɛɛra taa tii jɛɛga da duwa.",1.0,0.4531
+406,O ta wae o kwei kandwa-nyenno de dɛ o sara o maa gɔgere wonnu dwi dwi.,Otu a ka Onyenweanyi siri gwa anyi okwu.,1.0,0.717
+407,"Á ná wo ke konto, a bane wó zaŋe de di abam ne mini tei to.",ana okwu ekwenti abanye wuzandi didi abam na minit etu,0.9375,0.4048
+408,Ba ma ja-ka ba zo ba jwo-dɛɛre diga kam ye ba daare ba zege-ka jwoni dem kamɔgɔ kom teiŋa ne.,"Bịa ma a jikaba zụba ajọọ dayịrị dị gị aka, ị banye na ya bazụọ ka ajọọ ndị m ka mụọ.",1.0,0.6143
+409,mo sensɔla kalo na wo tɔge chwoŋa to na ye tei.,"Mụ sụ sọla, k'alụ na-ewu ụlọ chọọchị ọhụrụ na ịte.",0.9091,0.6389
+410,se gaaro tedwonna de daa puli tega kam konto ne.,C'est garrot de donner des tas de poulies,0.9,0.6842
+411,"Aron ná yeini o lage o toŋe kaanem totoŋa, se o zo gare-bwora kam konto.",Aro na-enye ni ọla ọtụọ eka nọtụtụa sozo garabura,1.0,0.5091
+412,"Nmʋ maŋɩ sɩ n ta-ba sɩ ba yagɩ ba wʋbʋŋa sɩnswalɩ sɩlʋ na daɩ cɩga tɩn, sɩ ba daarɩ ba yagɩ ba kwǝ dwi natɔga kalʋ na ba jɩgɩ gurim je tɩn.",,,
+413,O déem kwei sabu-seŋa kandwɛ-dale dedwe mo o mage-de o ke cherubi selei sem dedaane ni-pugu kom tete.,,,
+414,"Ba wó taa bwoi-ka we, “Wose Chwoŋa” mo.",Bauta boi ka wai wusi,1.0,0.5926
+415,Wɛ dedwoŋi tera á na jege se á lɔre-de.,"Onye doro tra, ana ajikwa si aluara di",1.0,0.6552
+416,"Nmo ná ke konto dakaa kam baŋa ne se ko yi da yarepɛ, ka wó yɔɔre ka taa ye wose mo amo ŋwaane.",Nna kee ka ụmụaka nọ? Ọ bụkwa ọrụ ka taa na-ewu gị amaghị nwanyị?,0.913,0.7042
+417,Moses na wora to mo Baŋa Wɛ maleka kam veere ka tete ded‑o ne min-vogo tei to.,"mụ zụrụ na ụlọ ọgwụ, mụ banye wee malite kam biri ka dị taa dị ndụ na-eme m vugote",0.9412,0.661
+418,"de zwɛɛm kaanem dakaa kam de ka zela yam maama, de ware-zoŋa kam de ka na wó zege woŋo kolo baŋa ne to.","Ndi Zwelanka na Ndakakan, di ka Zulu ya mama, diwara Zungakam di ka na wuzuga iwo nkulu bangana",0.8696,0.4487
+419,Zare-ne se a daa yé taa jege totoŋ-lwanno.,"Zarani, sada yita ji tutu",1.0,0.5625
+420,"Bena fuserepɛ sem nam ná yia, amo wó waare Babilon teo pɛ de o teo kom maama ba wɛleera yam ŋwaane.","Bụrụ na ọ sị gị pasentị na-anaghị amụ uwa arụba bilịọntị ọ bụla, dee ya otu a ka mama gị nwee ike ịghọta ya.",1.1429,0.6623
+421,Nam kwei-na sabu-seŋa na ye chekke to á ke wo-pelɔgɔ.,Nankwaina sabis ɗin a na yi cikkato a kai,1.0,0.5
+422,"Dɩ́ bá wanɩ dɩ́ kɩ dɩ́ Tu Wɛ le dɩ́ ti abam ŋwaanɩ, dɩdaanɩ dɩ́ na nɛ wʋpolo kʋlʋ zanzan DƖ yigǝ nɩ abam ŋwaanɩ tɩn.",Ndebe nwanne nke dịtụ wee lee dịtụ abam nwaanyị. Ndeewo nne na nna anyị ụmụ ụlọ ọrụ zanza dị ịrụ na abam nwaanyị,0.9615,0.619
+423,"Baŋa Wɛ ma ta de Moses o we, “Ke lela n tu n nɔɔna bam tei ne.",Bịa ngáwé mụ atụrụ mụ jụọ gị sị gị kedu ka ị ntụ? Ị nọ na-ebante?,1.0,0.7209
+424,Baŋa Wɛ nam tage tento mo se ko vo Judah teo pɛ sɔŋɔ kom seeni: “Sɔ-fɔrɔ kom konto tiini ko lana amo yia ne.,"Nna anyị ukwu, taa etu mụ siri kwụọ gị, njikere dị m njikere ịsị gị okwu siri ike. Sọfụrụ m ka m tụọ tinye ya kụlla na amụghị ya nụ.",1.25,0.8889
+425,"Kʋ na yɩ abam naa nɔɔnʋ wʋlʋ maama dɩ, dɩ́ wʋ kɩ dɩ́ wʋbʋŋa nɩ sɩ nabiinǝ taa zuli dɩbam.",Konna yi abam na nnoo nu wulo maamade dewo ki dewu banesi na bina tazuli deba.,0.95,0.3636
+426,Pa-na dé tei Baŋa Wɛ!,Panaditi pangawé,1.0,0.4
+427,Kasogo kom wó seere mo ko zɔ wolo maama na zei-ko to jeŋa.,Kasar Okom wacce sere mu ko zo wuri mama na zeku tun jiya,0.8462,0.4091
+428,"Moses ma ná yeini o ŋɔɔne de-ba o ti, o wó jwoori o kwei o gare-fefala kam mo o kwoli o yibia.","Moses ma na ya ni onye ndi beoti, o wee juo Chineke o gara fefere aka mmuo okwukwe ya ibia.",0.8182,0.4058
+429,Wɔ mo abam nam wó kwei á maŋe de Wɛ?,Wọ́n àbàna wọ̀kẹ́ àmàndé,1.0,0.6923
+430,Wɛ chege a yiga mo se a yé na chwoŋa a tɔge da a kɛ.,c'est,1.0,0.8919
+431,"Dɩbam na ŋɔɔnɩ te tɩn, kʋ daɩ sɩ dɩ́ ma dɩ́ poli nabiinǝ wʋrʋ, kʋ yɩ sɩ dɩ́ pa Wɛ dɩlʋ na maŋɩ dɩbam bɩcara DƖ nii tɩn wʋ mʋ poli.",Dịba anawam ntị etu kudasị dịmma dị poli na bịa na nwuro. Ko ye sị dị pawe dịlọ na mana dịba mbechiara dị nịịtụ womu poli.,0.9355,0.4362
+432,ye ba daare ba tɔge jwo-yɔɔro kwaga.,"Ye badari, batoi",0.8571,0.6071
+433,Dé lage se dé taa nye nenɛɛne teene dedwonna dem na ye tei to mo.,De la se de tan ye ne ne tin de du na de na i tetu,0.9333,0.42
+434,"Abam nam ná wo sɛ amo nia yam konto, amo tage a du de a tete yere we, sɔ-fɔrɔ konto lage ko ji di-dwoŋo mo.",,,
+435,Kʋntʋ mʋ wʋ́ pa nɔɔna maama taa naɩ nmʋ na ve yigǝ te tɩn.,Kwantuo nu oupa nu na mama taa na omu na-eve ihe taa,0.8571,0.4884
+436,"Bene maama ne, o déem yeini o vei o kare teene dento mo: Bɛtel, de Giligal, dedaane Mizipa.",Bụ mmalite odenye niile nke akwụkwọ nsọ ndị ntụgharị Bethel dị na Mịzọọ,1.0,0.7101
+437,Ya ma nwoŋi logo baŋa jei selo na wo yiga yiga to ne ya beene.,Ya manu lụrụ ọbụghị jị sọlụ na-abụ ịga ịga tọnụ ya bụ,0.8667,0.5957
+438,"Ko ná ye nabiina de vara bam maama, jawe-chɛɛro mo lage te go-ba.",Kuna ina bina di fara ba mama jawo chero,1.0,0.4898
+439,Á taá zuli-ba lanyɩranɩ dɩ sono ba tɩtʋŋa yam ŋwaanɩ.,na ayara ndi sunu batatun aya nwaani,1.0,0.5238
+440,Jei selo maama na jege zwonnu de peero to.,"Yes, oga mama, na Jigawa nu. Di piiro",0.8889,0.4848
+441,se banto de ta-de se ba de bia ni de ŋwa.,Subantu duttari si badi biye niri,1.0,0.5172
+442,"Bene maama wone, se á kwei da yarepɛ á ma á di bworobworo kolo sabɔle na wo woli ko wone to, Abibi chana kam ne.","bụ mama ha bụrụ sọọkụ dị anyị n'anya, a ma adị gburugburu kwuru sọgbale na-awụ welị kọwọntọ. A bịbịchaa na aka",0.96,0.6471
+443,"A ta wó chɔge jara zela maama, ko ná ye tɛ de se-zɔɔro, se tigura daa yé zaŋe tega kam baŋa ne.","A taa wó chóre, kyara zila maama, kuna yite disi zoro, siti gura daa yi zangitaka bangani.",0.8182,0.3571
+444,"-Kwei-na gare-ŋone selo nyenyero na ye nazwon-pupwia, de nasoŋ-pupwia, de nasoŋo chwɛ-chwɛ to á gɔgere Pomegara tio-bia nyenyero pa se te kaare gɔrɔ kom kuri nia yam maama te pu.",kwe na galanwan solo nyennyeru na ayi na zu mpuputu ya di na su mpuputu ya di na su nwachuachutu. Agoro pomegrana ti obi ya nyennyeru pasi te kara goro kum kuri ni ya ma ma te,1.1333,0.4101
+445,Aron de o dwi dem maama jege se ba taa tɔge a ni dem konto mo se ko taa vei wuu.,"Alors, deux étudiants m'aiment, j'ai essayé de battre tous les étudiants que tu avais eu.",1.0,0.8305
+446,Wɛyuu kom wó bere o tusim dem mo jaja.,Wuyu kum wubri otusindem,1.0,0.4483
+447,O laam ma vo o zoore Ninevɛ teo ne.,bu ụzọ dị iche iche,1.0,0.8846
+448,"O nam ná zo vwei dem wone, kunkwoŋo kolo na zege deiki to laam yeini ko ba ko dɔge vwei dem ni dem ne mo, ye Baŋa Wɛ laam zege kunkwoŋo kom wone o ŋɔɔne de Moses.","Ọ na-azọrọ na Chineke kunkwuru na-azịrị dekịtu na anyị enweghị akụdọrọ ya, bụ ndị nịịdị n'ime ya bụ na ọ bụ ya na-azịrị kunkwunkun nwa ndị Moses.",0.9459,0.6585
+449,ga-korro mo wó ji bu wolo á na wó lo to.,ga kuro mu ji buro ana wullo,0.9091,0.4286
+450,A yera digiru tem wó pa se a tete yera gwaaro tem chɛɛse-ne mo.,"yira digiditim, uwapasa ta ta yira gwaratim, chesi na",1.0,0.4167
+451,Laam go nabea kam wara-jei sem manchwo-peena ni dem ne se ko taa bwola de amo kaanem dakaa kam.,Lango na biya kam warajison mancho pina ni dani sekuta bula de ankanim daka,0.8421,0.3378
+452,Baŋa Wɛ mo pae nabiina maama pwooni pa ba nae.,Bịa na ma ma pụọ na pụọ nị.,1.0,0.6667
+453,ye ba daare ba ke nuga pipiu de Ejipti tiina.,"bịa baddara, bákí ngwa pipụ dị Egypt tịna",1.0,0.4857
+454,"O chorro maama, de o nakwa, de o badwonna balo maama déem na vei ded‑o to ma ba o tei ye ba di kuri daane o sɔŋɔ ne.",Ochiri mama do n'akwa di obodo nna b'alu. Mama di na veli d'otu ma ba ote yi b'edi kwuli daani osowanu.,0.8571,0.3176
+455,"Nɔɔno wolo maama ná toŋe totoŋa dɛ dem konto ne, kotu daa yé tɔge o woli Isarele dwi dem wone.","Nna wulu mama na nwa ya nwoke, David Contoné, ka ha tụgharịrị gaa obodo Israel dị na mba",1.0,0.6575
+456,Á ta wó jeiri Vini teeni ye á daare á di de wo-bia bam.,"Atawujeri, viniti ni ye adare adui duwubia",0.9286,0.35
+457,"Kʋ daarɩ, kadǝm na jɩgɩ biǝ naa naarʋ, bantʋ mʋ maŋɩ sɩ ba taa nii-o, ba na yɩ o tɩtɩ sɔŋɔ tiinǝ tɩn ŋwaanɩ.","Kedu adị? Kedu ebe nna gị biara na narụ? Bịa ntụrụ mmalụ si be ndị ịyọ, bịa na ịyọ otete songo China taa nwaanyị.",1.0,0.6375
+458,"Wea de tete maama wone, teo kom mini bá dwei.","Wuya dutsi ma ma wani, tuyokon mini badu.",0.9,0.4706
+459,Mo kokuri Ejipti tiina bam wó taa jege-ba ba mɔna.,"Mụ gụkwa Egypt, China, baa wụta jiga baa mmanụ.",1.0,0.5128
+460,Ba ta ma pipiri ba lɔ amo kwaga ne.,"Bata mapi pri, balo amukwani. Yi be yue tra amuwone.",1.1111,0.7308
+461,"Dɩ́ dɛɛn tɔgɩ cwǝŋǝ mʋ dɩ wʋ-poŋo abam balʋ na sɛ Zezi Krisi tɩn tɩtarɩ nɩ, yɩ dɩ́ tɩtʋŋa maama jɩgɩ cɩga, yɩ dɩ́ wʋ jaanɩ kʋlʋkʋlʋ dɩ́ cɔgɩ.",,,
+462,"Nam ta‑á zwɛ-ya dɛ maama, ye amo de wó jeeri abam dáane se dé ŋɔɔne daane.",Nanta jee na ya demama ya ma di wu jiri abali siri nwa ndani.,1.0,0.5273
+463,"Job déem na lwoori Wɛ o pa o badwonna bam to kwaga ne, mo Baŋa Wɛ daa pɛ se Job jwoori o zege de dam.","Job, di ya na-alụrụ ya ọpa, ọbụdọ nna ba ntụkwani, ma baṅa wee daa pịa ya si Job, jụọrọ Chineke daa.",0.92,0.52
+464,"Ba na zǝŋi ba jɩa wɛɛnɩ sɩ ba warɩ Wɛ, sɩ ba taa jɩgɩ wʋ-poŋo mʋ, sɩ ba yɩ taa jɩgɩ ban-zɔŋɔ naa kantɔgɔ dɩ nɔɔn-nɔɔnʋ.","Benin zangbeji weni, siba warwe, siba ta jigi wupunumo, siba yi ta jigi banzo na kan togo di nono",1.0,0.4886
+465,Ba ma dole teene dem konto jwona ba de mini wone ba zwɛ-ya.,"Bama aduletine dem, kunto jona badi mini wuni bazua",0.8462,0.2667
+466,A ma vo a yi yiga yiga a di ba peero tem yuu.,Amavu ayigayiga adi baperetin yu,1.0,0.25
+467,Nam ta kwei-na sabu-seŋa na ye chekke to á ke chaponno telei nenɛɛne ŋone dwoŋi to.,Nanta kwe na sebụsịnga na ya chekato akacha ponte le n'elele nwanne,0.9375,0.4308
+468,"Dɩ kʋntʋ dɩ, o nan ta duri a ŋwaŋa, bɛŋwaanɩ amʋ ya wʋ sɛ-o yɩ kʋ pa a yǝri woŋo kʋlʋ a na jɩgɩ a kɩ tɩn.","Onye kọntọdi ọ na-anaghị adị ya anwụ anwụ, bee nwanyị amụ ya bụ sịọ, yie kupa, ayịrị nwunye kwụrụ, ana ajịgị akịta",0.963,0.6933
+469,Pa-na se á kwori zege Basan ne se zaŋe wɛɛne.,"Panasi, aku risa basane sejangai",1.0,0.5
+470,"Dé pɛ wom wó taa nii dé baŋa ne, ye o ta wó tɔge dé yiga se dé yeini dé kwaare jara dwi maama!","Ihe peewu, utoani ribangane, i otu utoghe di yiga siri yene di kwara jara duima.",0.9167,0.5072
+471,Sɔɔ kom konto wó jage ko yi logo baŋa jei maama.,"So akwụkwọ m tọọ, wụchaara ya, kwụọ ya ụgwọ banga, jee ma",1.0909,0.8378
+472,"O déem laam jege pei morro fuga-tena , de kona morro teredo , de nabɛ morro telei , de bonɛ moro .",Dina m ji gi pe moro. Fụtụ na. Dịkwa na. Moro. Tụrụdọ. Dị na be moro tele. Dị bụrụ na moro.,1.1111,0.4167
+473,Bɛ mo ye á boŋe se á vo Ejipti.,Memu ye abụghị site na Egypt.,0.8889,0.7273
+474,Tɔge-na ni delo á na pwooli de amo to.,Tana nidle ana pulli.,1.0,0.5714
+475,Ba maa tɔge de-ba ba ke kaanem ba pa jwona.,M'ama tɔde ba baki kanam bapa jwɛne,0.9,0.2812
+476,Ko maa wó pa se ba ga wonnu telo maama na jege lonne te pa-ba to.,Koma o pasi baga wene tuluma na jigilunni to paba,0.875,0.3958
+477,"Baŋa Wɛ na ŋɔɔne de Moses Sinayi Peo kom yuu ne o ti to, mo o kwei kandwa-pelɛ selei sem o pa‑o.","Banga waena nwoke mụrụ si na pikwunyu nọ titu, mụ na ya kamgbe pịrị sịlịsị ọ",1.0,0.662
+478,Ni-gwonim dakaa kam de ka ni-pugu kom wó taa wo gare-jale dem kwaga ne.,nugwanandaka dika ni pugu ku wata wa garjalu,1.0,0.4815
+479,se a zo churu ye a maŋe dáane taa wuu.,Se azo turu ye amanyi daani taawu.,0.8,0.2857
+480,te ya wó dwoni naneo ni kasolo kom maama na mae tei to.,Tia udonye na nụ nị kasụlụ kụọ ama na mmetụ,0.9231,0.5
+481,O ta ma kwei sabu-seŋa o mɔ kwana yana o meeli tabolo kom nɛ sena sem na wo mɛ to.,"Ota maku ya ebe o si na, o mo kwa na ya nna o mere taa buru kwa nna m si na m na-eme",1.1,0.5082
+482,Ko zege tega kam ne mo ko meeli se ko taa diini baŋa kam mɛ sabu-seŋa kwane dem na leigi da to.,"ko zaka cika kanema, ku meli se ku ta dini bangaka me subusunga. Kwandim na lere",0.8636,0.4167
+483,Á ye lanyɩranɩ nɩ dɩ́ wʋ tu dɩ́ ŋɔɔnɩ ni-sʋŋɩ ŋwaŋa dɩ abam.,A yaa yaa ra ne na dawwatu don wane na sunyi nwa'adi aba,0.9231,0.5455
+484,Badwoŋ-ywoŋo bera nam gare tento.,bado yongo bra nan garatun,1.0,0.4074
+485,Lura ná le digiru lu-nyenno yera ne.,nalli,1.0,0.8929
+486,"Ko daare bena yatɔ bene dem ne, abam wó du wodiiru ye á pe-te.","Kudarebena yato, bini dim ni aban wudu widiru yi apeti.",1.0,0.3043
+487,"Nɔɔna bam ma vo ba jeeri Aron tei ne ba we, “Moses mo seene o ja debam o nwoŋi Ejipti ne o ba ywo-seeni.",Na na ba m ma vu ba jiri Aaron tinye ba wee Moses mose na o jara ba onunu Egypt ni o ba yo si,0.8333,0.3377
+488,"Ba maŋɩ sɩ ba taa yɩrɩ ba tɩtɩ mʋ, sɩ nɔɔna taa jɩgɩ ba cɩga woŋo maama baŋa nɩ.","Bamanankan bata yiri bata timo, sunna ta jigaba kiga wunuma",1.0,0.5333
+489,"Ba ma ke kuna finnu ba lei gare-pum ni-dedɔrɔ kom seeni, ye ba daare ba ke konto gare-pum dedwoŋi dem ne.","Bụrụ na ọ bụrụ na ị na-eme ihe na-adịghị mma, ị ga-enweta ntaramahụhụ.",1.0,0.775
+490,Ta‑n yei we ka-bworo ye gwoŋ-chanluŋu mo.,"Tayi yawa, ka boro, yi gwanche luwu",1.0,0.4516
+491,"Toroko kom dɛ konto mo taa ko vo ko yi nɔɔno dedoa kara ko zege da, peo kamunu kodwoŋi teiŋa ne.","ka m ma banye, sị adịghị m na-achọrọ m. Be mị a bụrụsị abịachara kịdda mụ ịra nị nị nị Egypt tịna ba, dị papa faro m dị dị na",1.4286,1.0811
+492,Dɛ sem konto wó taa ye golesaa dɛ mo á wó ma á ke ye á daare á kwei sabu-seŋa á kwoli se maama.,"dika kontro wa taye golasia demu, awoma ake ya adara kwe sebusina akweli",1.0,0.4571
+493,Ba wó bwoŋi balo na swoi se ba taa boŋe lwarem ba pae ba dwonna to we nankɔ-nyena.,Ba ta buwe ba lo na sui si ba ta buwe lwaram ba pabe do na tuwi na nkwan yen,0.8889,0.3492
+494,Kunkworru wó sɔ te pworu da.,Kunkwalu usuku lokuzalwa,1.0,0.6818
+495,"A maa wó toŋe-ba se ba ke jara de abam balo na zoore tega kanto wone to, de teene delo maama na gilimi abam to.",Mama,1.0,0.9524
+496,Amo nɛ totoŋ-zɔɔne Isarele dwi tiina bam tetare ne.,Mun na fito tun zaunin Izra duty na bantatare,1.0,0.6098
+497,O maa wó pa se tega kam taa tigi yɔɔ yerane.,Omaho passay tirakam ta tiriyo irani,1.0,0.4545
+498,"Hezekia de ma bwei we, “Keim dɔ mo wó ke se ko bere we, amo daa wó na chwoŋa se a zo Baŋa Wɛ diga kam wo a zuli‑o?",Kedu ka ị dị ma bụrụkwa na ọmụmụ gị sịkwa bụrụkwa na ụmụaka a unu na-achọghị ịsị azụ banyere agụmakwụkwọ,0.931,0.7407
+499,"Abam ma ve ye á we, ‘Dé bá cheigi nmo ni-kaana yam.","Aba m abụọ, ya bụrụ na ịbịachara, ị mụrụ ka ana ya.",1.0,0.6389
+500,"” Wɛ ma ta o we, “Yé tiini n twɛ ywo.","Oge a taa ma taa wee, a ma m ihe m kwuru wee bụ mụ. A ma m akụkọ anyị, inabaara wee bụ. Abraham wee bụ, di Isaac wee bụ, di ala Jacob wee bụ mụ. Moses di na ndụ gị kontuntụ,",4.1,4.8261
+501,"Dɩbam yǝni dɩ́ ŋɔɔnɩ nɩ Wɛ na lagɩ te tɩn mʋ, bɛŋwaanɩ dɩntʋ mʋ kuri dɩbam yɩ DƖ kwe DƖ kwǝr-ywǝŋǝ kam DƖ kɩ dɩ́ jɩŋa nɩ.",di baanyi enweghi di nwoni na we na latete mu be nwanyi di ntu mu kwuru di ba i dikwa e dikwara gi aka di ka di ji anyi,1.037,0.5778
+502,O ma kwei jar-keira tɛ sem dedaane ba chichwoa yam o bwori.,"Oma kwe jere kara tesim, dida na bacchua ya ogbodu",1.0,0.413
+503,Amo nam wó pa se ko ji ne kagoa dwoŋi.,Amụna gị ọ pasé kụjí kago a,1.0,0.5
+504,"Dɩ́ maŋɩ dɩ́ brɩ abam cwǝŋǝ kam kʋntʋ, yɩ á tɔgɩ-ka dɩ zɩm maama.","de ma grande première aventure en tant qu'auteur, y a 12 ans",0.9286,0.8511
+505,Sɛ se amo daa jwoori a na ywoni.,"Sir, some of the jury and the UN",1.0,0.7917
+506,Á ya ná me de amo na ye á Tu Wɛ wom to.,Anya m dị mụ na-aghọta ihe,1.0,0.7692
+507,"Abam dwi-gɛ tiina, fɔɔre-na á yi se á cheigi.","abụ m ndị getịna, ọbụrụ na anyị sị achọghị",1.0,0.6061
+508,Ba na ŋɔɔne tei to nye de ba bibeigi mo.,bananoni tetu nyede,1.0,0.5667
+509,"Tega na poore to, Filisi tiina bam ma jwoori jara kapworo kom ne se ba zane ba le jejegero twa bam yera ne.","Tana purutu, filisiti na bam, majur jara kapuro koni suba zani, bali jijigaru to aban yirani.",0.913,0.3133
+510,Banto ye balo a na pɔɔre a zege dáa ne.,Bantu ye balo. Ana pore azreda,0.8,0.2759
+511,A ta wó pa á jwoori á ta‑á zoore vwoa wone.,"Atopa a xori, atopa a súa",1.0,0.6774
+512,"Á ye nɩ dɩ́ dɛɛn jɩgɩ abam maama dɩ jɩ sɩle mʋ, nɩ ko na yǝni o jɩgɩ o biǝ te tɩn.",A ye na dede nji gi aban mama di ji si le mu. Nu ko na je ni o ji gi ubiye ti ti.,0.8636,0.3966
+513,"Tetare dagara kam ma tole ka zege saŋa kam daa dedoa ne ka vo ka yi daa kadwoŋi kam, ka twoŋi ywoa yam maama ka ke daane.",,,
+514,o nye de teo kolo kabiri na sirimi se to se daare-ko to mo.,"Onye ruo tuo kụrụ ka biri na sirimị, sato sadarọ kụtọmọ.",0.9286,0.3409
+515,ye ne Gomora teo tiina déem na ye tei to mo.,"Yine Gomora, Toyo Tina, De 90",0.9091,0.5152
+516,Ba yeini ba ke ne kunkwoŋa na kare ka lɔgese teeni tei to mo.,"Bayan bakkane, kun kwana? Na kare, ka losi te ni tetu",0.7857,0.3404
+517,DƖ nan kuri dɩbam sɩ dɩ́ taá jɩgɩ wʋ-poŋo mʋ DƖ yigǝ nɩ.,Dinnan kurduba sai dai ta ji wufungumo da jikinta.,1.0,0.6341
+518,"Abam yiga tiina bam, keeri-na á sisigi.",Abayi igatị na bam kịrị na asịsị,0.8571,0.4
+519,Nmo ná kwei kwora n ke nɔn-jworo jeŋa ne se o vo o pa nɔɔna.,mụ na kweekwara aka na m jụrụ oji na ani so bụ ụpa nụ,1.0,0.5455
+520,"Ba maa tɛ daane ba we, ‘Isarele tiina bam, á wɛ dem mo tento, de na jaane abam de nwoŋi Ejipti ne de ba ywo-seeni.","Maka na otu a na-abụ Izrel tinyere aka, ha wee dị m ntị dị na njedebe abam dị n'ime Ijipt na-adịghị anya.",0.92,0.6429
+521,"Izaya déem ya tage de Pɛ Hezekia mo o we, “Pa se ba zɔ mɔɔro se ba kwei-te ba taare n ŋɔn-pwona kam, se n wó na yazura.","Aza ya deentaye dipe Hezekiah mu owee, pasi bazọ mụọrụ si bakweti batara nwa mponaka si onwuna ezinaụlọ",0.9643,0.4186
+522,Kaanɩ wʋlʋ na sɩɩnɩ o yɩ kadǝm yɩ o ba jɩgɩ nɔɔn-nɔɔnʋ sɩ o taa nii o baŋa nɩ tɩn tiŋi o tɩɩna Wɛ baŋa nɩ mʋ.,"Ká a na-aworo na-asị na oyiké déyí, ó bajigá n'ọnụ n'asị otéé nị ó bangani. Tintinị otii na wéé bangani.",1.0,0.5556
+523,ne jugu diga wo mini na guguli tei to.,na joo digawu mini na,0.7778,0.5517
+524,"Banto maa ye Asekelon teo pɛ, de Gaza teo pɛ, de Ekoron teo pɛ, de balo ta na daare Asedodi teo wone to.","Batamaye, asiklon, tiyo pe di Gaza, tiyo pe di Ekron, tiyo pe di Balo, Tanadari, asidodi, tiyo",0.913,0.359
+525,"Ba déem ma kwei golesaa dɛ ba ma ke ywoa yalo na zege cheppe to, se ba ma ke wara-vwei dem.","Bịa dee m akwụkwọ gwa m si adị, gwa m akụkọ ihu igwe gị. Na-azị gị chepụta. Sị gwa m akụkọ gbasara gị.",1.0952,0.6912
+526,A ta pɛ se teene dem konto nɔn-bia bam dam ti.,Ata pese tene den konto nombiyaban damti,0.9091,0.2059
+527,O maa zoore wɛyuu kom baŋa jei sem ne.,oma zori weyu kumbaya jesim,1.0,0.3793
+528,Nɔɔno wolo de woŋo kolo maama na dwei-ka to de nam pwɛ mo amo ŋwaane.,"Nna m ukwu, deede m ukwu, mama na diokpara m pụrụ iche",1.0,0.717
+529,Amo nam ta wó zege nmo baŋa ne se a pa n dwi dem puli de ji te-zɔŋɔ.,"Amaghi m ma m ga-enye gị mbamgbam, sị na apụghị m ịdị na-pụlị dijitalụ.",1.0,0.7755
+530,” Ba ma maane we ko ye Wɛ ni-gwonim dakaa kam mo tu ka yi Isarele tiina bam na tigisi daane mɛ to.,"Baman ma wi ko yi we nu gwe nu ndo ka kam, mutu ka yi izuati na ba na tiri si da nu me",0.8636,0.3836
+531,‘De wó beeri dé vo dé na lage mɛ to mo.,doubéri divou dina la méto,1.0,0.4815
+532,"Wolo ná toŋe de dɛ dem ne, se á go kotu.",Walla tunge dedere ne se agokutu.,0.8182,0.4286
+533,"Ba nakwa bam ma bwei daane ba we, “Bɛ mo ke ye Baŋa Wɛ pa se Filisi tiina bam wane debam zem konto?",Bịa na kwa ba mma buo ụzọ bịa mba wee bịa mee ka ị bịa na-ewe pasị filistị na ba mụ wa ni dịba m zị,1.087,0.4865
+534,"O ma pa Job daa lo bia fuga, bakeiri serepɛ, de bukwa batɔ.","da rubie fure, bakin sirpa, da bukwaba",1.0,0.5227
+535,O ta wó taa tɔge chega de o na ke nɔɔna tei to mo.,Tatoe tsi ra de,0.9286,0.8056
+536,"Lele kʋntʋ, dɩ́ laan ŋwɩ dɩ wʋpolo á na zɩgɩ kǝŋkǝŋ dɩ́ Yuutu wʋm tɔgɩm dɩm wʋnɩ tɩn ŋwaanɩ.",lele kunto dela wadu pulo ana zikankan diyu tuwontoro don wata,0.9474,0.5429
+537,"Mo kokuri, mena yam ná tu ya be, ye sa-doora bam de ná bega, a lage a yiri a pɛɛra yam konto mo.",Mụ gụkwaara m na-atụ ya bụ ịsadoram na na-abụghị alaghị ịra pụrụ anya kọntọm,0.9565,0.5652
+538,"Ko ná dae konto, ba wó na ba chaveera ye ba te ko ŋwaane.","Kwanara ka ọntọ, baa nna kpachavira, ịbụtakwa nwaanyị.",1.0,0.5476
+539,"A ta ma pa‑o lu-nyenno de sabu-seŋa dedɛ, ye o kwei-te o ma zuli Baal jwona yam.","Atha ma po lu nyu nu di sobu su nga di de, yi ukweti uma zulu baal jwene ya",1.0588,0.3621
+540,Á ta wó yage á naane de á bonɛ sem.,Ata wiyayi ana ne dai abun ne,1.0,0.52
+541,O déem mɛ lu-nyenno o mɔ gwoli o meeli dɛ sem yera ne ye o ke se lu-vɔɔro tem.,"Odimma, m ga-enye gị ụmụ nwanyị ole na ole dị 50 afọ na-achọ enyi nwoke.",1.0,0.7544
+542,"Wɛ dam dɩm mʋ wʋ dɩbam tee nɩ dɩ DƖ Joro kʋm, yɩ dɩ́ brɩ Wɛ cɩga kam dɩ dɩ́ wʋ maama.","nwe danda, mụ nwere bante na, dị dị joro kọm, ya dị mberede wee chiga kam, dị dị nwụọ mama",0.9091,0.5333
+543,á ta nɛ konto woŋo dwoŋi na ke á yibia ne na?,Anya na-ekwụntụ wụrụ dọrị na-akị ayịbịa na,0.9167,0.6667
+544,Amo nɛ pwola mo a tɔge jawɔre-nyem kara seeni a kɛ.,Amu ne pulamu atọja warị nyịkara sị nụ aka,1.0,0.4103
+545,de gare-jale delo na wó che konkɔlɔ kom manchwo-peena ni dem to.,De garaya dolo na wuche kwankwalo kom ma ncho pina ni di,0.8333,0.36
+546,"Konto to, dé Tu Baŋa Wɛ, yɔɔre n jwoŋi debam n yage Asiria teo pɛ jeŋa ne se logo baŋa teene dem maama lɔre we nmo yerane mo ye Baŋa Wɛ.","Kwantoto, di tuba we, yorinjoo di ba, inyayi asiria toyo pe jina ni, silu ba tinidim ma ma lori we emoyirani moyi ba we.",0.9355,0.4078
+547,Nɔɔn-nɔɔno daa bá tɔge ba tega kam ne o kɛ.,"No, no, no.",1.0,0.8438
+548,Kokuri to á fara bam maama daa tera jei jei.,"Kukurutu, afara ba maama da atra jeje",0.9,0.2353
+549,"Ko ná ye wolo ba ya na bwoi o yere we “Swono tera” to, amo mo wó taa swoi kotu.","Kuna yi kwolo ba ya na gboyi, o yiri wi suno tirato amu wutaa soikutu.",0.8,0.3393
+550,"De ko de, jwoori n vo n bere‑o nmo na jege o swono tei to.",Nke dị Yọruba bụ mmuọ na-ajụkwa ajụjụ,1.0,0.8293
+551,De yera ŋone de nam bá kɔ se de chɔge.,di rangoni di number ko se di,0.9,0.6071
+552,Job ta ma ta o we: “A daa ba jege ŋwea teena.,Job tamata owee. Ada bajin wuya tinna.,0.9167,0.3226
+553,ba cheeri á teo kom ba daare yu-kwolo ba tiŋi.,"Bacheri, atyokom badare, yukolo",1.0,0.3143
+554,Lɛɛro lage te yi abam balo na kare á chɔge amo nɔɔna bam to mo.,na karị achọghị amụnọna,0.9333,0.75
+555,"Chega to, na-mɔra jwoni delo Samaria tiina na zuli to.",Chigato na mụwara jụọ ndụ Samaria tị na na Zulu,0.8,0.3571
+556,"O maa kwei sabu-seŋa kalo na ye chekke to o kwoli dakaa kam maama, ye o daare o ma sabu-seŋa kam o tɔge ka nia yam maama.","Ọma akwụkwọ nsọ bụ isi nga, kalu na ya cheka ya tọ. Ọkwa ịzọka kama ma ịwụ dare, ọma akwụkwọ nsọ kam. Ọtọrọ ka niye ya mama",0.963,0.5495
+557,Min-vogo pae ba yei lu-nyenno.,"M'en fous, pas payer le",1.0,0.5652
+558,"Baŋa Wɛ daa ma ta de Moses o we, “Zaŋe-na se á kɛ!",bụ ihe ama atari m ozigbo wee zaghachi,1.0,0.6765
+559,Asiria pɛ wom nam na tage tei to mo tento: Abam maama jege se á nwoŋi á teo kom wone mo se á ba á to á pa-ne.,"Asiri a pe wu na na taa tetu. Mutton to aba ma ma je si anu yi, a tu ya ko nwon ni, mo si aba a tu apani",1.0,0.4177
+560,"Kʋ daarɩ kadǝnǝ balʋ na yɩ ka-bwǝnǝ tɩn, abam wʋ maŋɩ sɩ á ga-ba á wǝli da.",ከዳሬ ከደና በሎ ነይከቦናተ አባ ወማሲ አጋባ,1.0,1.0
+561,"Nɔɔnʋ maama kwaanɩ o tʋŋɩ sɩ o na o ni-wʋdiu, nɩ dɩ́ na maŋɩ dɩ́ ta abam te tɩn.",Nọọ mụ ama kwa na otu ị sọọ na onye ị wụ dị na mmụọ dị taa,0.9474,0.5789
+562,Kʋ maa paɩ ba bʋŋɩ nɩ Wɛ cwǝŋǝ tɔgɩm yɩ woŋo kʋlʋ ba na wʋ́ na nadunni ka wʋnɩ tɩn mʋ.,O na-apá ihe bábó nwoke na-eche na-atọghị ya nwokorobịa na-awụ na ndụ nịka a wụnete,0.9524,0.7188
+563,Konto mo wó ke de wolo maama na sale Ejipti Pa-faro wom yera ne to.,Kuntumoki dikwolo mama na sali ijit pafarun irani,0.9333,0.4118
+564,Kokuri to o yeini o jwoŋi nabwona mo.,"Kukurito, o yene ujo i na bu na",1.0,0.3448
+565,A nam na pɛ á kwoa bam wodiu se ba di to.,Anam na-akwụ ebe mụ due ụgwọ ụlọ,1.0,0.5862
+566,Amo nam ná lage se a zeini a nɔɔna bam.,Amụna m na laghachi azụ n'ihi na ọ na-abụ,1.0,0.5517
+567,ye ba ta taana ko nwoŋi.,ye bata thana,0.8333,0.4444
+568,"Kwǝr-ywǝŋǝ kam kʋntʋ nuŋi Wʋpolo Tu Baŋa-Wɛ dɩlʋ na jɩgɩ paarɩ-zulǝ tɩn te mʋ, yɩ dɩntʋ kɩ-ka amʋ jɩŋa nɩ sɩ a taa tɛa.",Kedu ihe ị na-akọ n'ụdị ụlọ ọrụ gị dị iche iche?,1.0,0.9111
+569,ye o daare o kwei peero tem de zwonnu tem.,et odare ukwe pirutun de,0.9,0.5938
+570,Ko ye wa yam konto mo déem pɛ se chanɛɛre dwi dwi ja Ejipti tiina bam kagoa kam ne ya go.,Kwaya wayan kun tafi da mu pesu channel Dwi Dwi ja Egypt tina banka gwa kan ne,0.8095,0.4118
+571,"O wó pa ba badwonna taa chwo o jara-keim torokooro, se badaara taa diini sisein-nɔɔna, ye badaara duri torokooro tem yiga ne ba kwɛ chwoŋa kam ba pa‑o.",,,
+572,Kʋntʋ wʋ́ pa nɔɔn-nɔɔnʋ bá wanɩ o ŋɔɔnɩ o cɔgɩ Wɛ yɩrɩ dɩdaanɩ dɩbam zaasɩm dɩm.,Kwantuo fa no no no baa wani onwoni ochorọ wee yiri da daani di banza si,1.0,0.5806
+573,"Kokuri to, ko kwaga ne nmo wó maane we.","Kukurutu, kokwane,",1.0,0.5862
+574,Aron ma na kolo na ke to ye o lɔ bimbini na-mɔra kam yiga ne.,"Aro mana akwụna keto, ya ọlọbọ mbinị na mmụọ kam ịga",0.9333,0.3778
+575,"Dedɛɛro wom ma vo o zege na-fera kalo na zoore baŋa seeni chɔgɔ kom to ni ne, se ko maŋe de chwoŋa kam mɛ ba na sɔ gwaaro to.",De derom avu ozre nafra kalo na zuri bangaseni chokomtu nini se omandi chokakamme banaso,0.8966,0.3723
+576,"Wɛ sampwora Izaya na ye Amozi bu to ma vo o tei ye o ta‑o o we, “Baŋa Wɛ na tage kolo to mo tento: Bere n sɔŋɔ tiina bam ba na wó ke tei ne n ná tera.","Onye sọrọ azụ ya na-eje amozị bụrụ ma bụrụ otu ya otu o wee. Bịa wee nata akwụlụtụ mụtụntụ. Biri sọọ tịna ba, ba na-awụkịte ni na",0.9231,0.5514
+577,Lwoŋini dedoa wó taa wora Pomegara tio-bia balei maama tetare ne mo se ba taa saŋe daane.,Ndi o nwere ike ịbụ na ọtụtụ awa pụrụ ịgarara tupu ọ bịa banye n'ime ụlọ ọgwụ.,1.0,0.8169
+578,‘Baŋa Wɛ mo bore debam bora de chega.,"Bụ a wee mụ bụrụ ndị banyere ya, mụ bụrụkwa ndị chiri ya.",1.625,0.9643
+579,se ba kɛ ba dole‑o ba yage teo kom kabira kwaga ne.,seba ke badolo bayayi ti yokom ka brek,1.0,0.3684
+580,"Ba na kɩ kʋntʋ, kʋʋ́ pa dɩbam dʋna daa bá na cwǝŋǝ sɩ ba ŋɔɔnɩ wo-lwaanʋ ba pa dɩbam.","Bịa na nke onye tụọ, kọọrọ ya ihe mere na ala Igbo, si ya nwoke nwụrụ anwụ, gaa kọọrọ ya.",1.0,0.8571
+581,Judah teo pɛ Josia bu Jehoyakim paare dim bena yana bene dem wone mo Baŋa Wɛ pɛ Jeremia kwora se o ta o bere Judah tiina bam maama.,"Judah tuo pe, Jo siabu, Joakim, Paredim, b'na ya na b'ni d'nni. Mu baa we pe Jeremiah koraa se o taa obiri Judah ti na ba ma",0.8929,0.2816
+582,Nam ta lage-na mun-bwei se á ma á ke bworobworo kolo sabɔle na wo woli ko wone to.,"Na m talagae Mgbé, so ama m ke buruburu kulu sa bolé na owelle ka owu",0.9444,0.5
+583,"Pwori-na muni dem se á viiri dedwoŋi de nuga á bibili á ma á ke bworobworo kamuna, se á daare á fɔge bworobworo balwa de.","Poli na mme mme ndi sa a biara i doye di n'uga. A bughi na ama ke buro buro ka m na. Saa dara foro buro buro, baalu adighi",1.12,0.5426
+584,"Se ko ná ye gwoli sem de lu-vɔɔro tem, lu-nyenno mo ba mɛ ba ke-te se te meeli da-dɛɛro tem maama yera ne.",,,
+585,"Aron ná yeini o tui amo Baŋa Wɛ yiga ne, o wó taa yeini o zeŋe ba yera yam konto mo, se o yé swei ba swia maŋa de maŋa.","O na-enye gị otu ambanga wee yiga na o weta gị na ọzị ebe a ga-anọ kọntọmọ. Sị onye sụọ ebe sụọ, ma gị na",0.9333,0.5862
+586,Baara de kaana balo maama wo na pwoli to ma ja sabu-seŋa wo-nyenno dwi dwi ba ba.,"bara, dekaana balama, unu putu ma aja sebusina, wonye nu di di",0.9412,0.3871
+587,ye ba daa ba jwoori to.,یہ بدھا بجور تو,1.0,1.0
+588,"” Asiria teo dedɛɛro wom ma leiri o we, “Á boŋe we amo tu wom kwora kam ye abam de á pɛ wom yerane nyem mo na?","Asiri etu ore diro ma leri owe. A bu owe, amu tuwo, kwere kan ye aba ndi apewu yira ni nye mu na",0.8846,0.35
+589,se ko maŋe de á totoŋa na ye tei to.,se commander à 3h 92,0.9,0.7692
+590,Voro bia laam mo bere-ba kolo na maŋe se ba ke to.,,,
+591,Sabu kom wó taa ye ŋwea jwoŋim pɛɛra mo ko pa-ne.,Ndi Igbo nwere otu aga esi enwe ya jụọ onye pụrụ iche kọwapụta,1.1818,0.973
+592,"Ko ná dae konto, wonto wó wane o ba.",Kụọla kụọ ntị. Ntị unu ụnụ anụ? Ọ,1.0,0.7692
+593,"Kokuri, nɔn-ŋom ná to kuni berepɛ de.",kuku na nwa na tokuni,1.0,0.5714
+594,se ko ma ko ŋwe ba jene dem kuni belei ko pa‑o.,Sokoma konwi bajenedem koni bili kupo,1.0,0.2353
+595,"Ba ná nyɔga, ba wó yirisi mo, jara yalo amo na wó pa se ya to ba tetare ne to ŋwaane.",Bana nyora. Bawo yiri simu. Jara yalo. Amu nawo pase. Yato batutarni to. Nwani,0.8571,0.2097
+596,"Zimiri pwa bam, de Elam pwa bam, de Media pwa bam.",zimri baba de alam baba de media baba,0.7273,0.2973
+597,Ba ta ma ke ywoa yalei ba woli da se ba chwi-ya vwei dem kwaga saŋa kam gugworru telei tem ne.,Batama ke yele kpewelle si ba chuiya vueden kwara sanga kan gbaari talle,0.9048,0.4722
+598,"Konto to, tiŋi pɛ n pa debam, se kotu taa nii dé baŋa ne, nenɛɛne teene dedwonna dem na jege pwa tei to.","Kuntutu, tin pem paraba, sugu tuta ni di bangani na ne tin di du nadim na ji pate",0.913,0.4872
+599,Zezeŋa ne amo wó tiŋi a taane dem nmo yiga ne mo.,A si na a mu uti na taa di m yiri,1.0,0.6486
+600,"Á wó ma gare-ŋone selo nyenyero na ye sabu-seŋa, de nazwon-pupwia, de nasoŋ-pupwia de nasoŋo chwɛ-chwɛ to á gɔgere-de, nenɛɛne gare-wogo kom de na ye tei to mo.",A oma garawa solo nyinyiro na ya sebusunga di na zuo mpuputa di na suo mpuputa di na suo chuachua tu. Agoro di na na garawu ghumkum di na ite,1.0357,0.4836
+601,"se kotu ta we, “A weele mo.",tawé awé,1.0,0.7222
+602,Wɛ dem na ke lunluŋu kolo to ma seene ko jwoori kwaga naba-laara yia kuni fuga.,"Nweghi nani kilolongo koro to, ma si na kwu joro kwa na ba la ra ya ku ni fu ga",1.25,0.4355
+603,Wɔ baŋa ne mo n teege ye n lɔ amo kwaga ne?,wa banga ni mu nti gayee inlo amukwa ni,1.0,0.4839
+604,Baŋa Wɛ ta ma ta de Moses o we: “Pa se ba kwei channa ba ma ke ware-zoŋa de ka na wó taa zege woŋo kolo baŋa ne to.,Bụ ihe mere e ji sị na ọ sị na ọ bụ chineke na-eme ka mmadụ na-arụ ọrụ. Dị ka na-eweta azịza ya bụ nkulu banyere,0.9655,0.747
+605,nenɛɛne ka-dooro baro na nwoŋi diga ne de wopwolo tei to.,Nne na nna ka doro baro na nnụọ dịghị na nwụọ polo otu.,1.0909,0.4889
+606,"Kʋ na daɩ kʋntʋ, nɔɔna wʋ́ goon-o yɩ o na cavɩɩra, yɩ o tʋ sʋtaanɩ cɩgɩrʋ tɩm wʋnɩ.","Kòna da kòntò, nòna wùgò nò, yí òna cà vira, yí òtò sota nì cìgàrò tènwò",1.0,0.4754
+607,Wolo na beeri swa to kwo wo pwoli mo.,बोलो नबेरस्वा तुक्को,1.0,1.0
+608,"Setaana pɛ de ma leiri Baŋa Wɛ o we, “A yɔɔre a kare tega kam baŋa ne mo a kekara.",Sutana pe de ma liri banga we owe. Ayora kartaka kan banga nu akakara. Banga we da mata owe. Inamman ni,0.95,0.7
+609,Pɛ wom tete de tɔge de nɔn-jworru o kwɛɛre mo.,"Nwantinti, etu a dị na njedebe okwu.",1.0,0.6857
+610,"Kwei-na da yaredo á toŋe á totoŋa, se á daare á sii da yarepɛ dɛ dem ne.","Kwe na dayara do, atunwa atutunwa si dayara pa deede",1.0,0.5094
+611,"Te na pwɛ amo ŋwaane konto to, wolo maama ná dwei-te, konto tu de pwɛ mo amo ŋwaane.","tana pụta anwa nkwụntụ, wụlụ mama na-edu etu kwụntụ dị pụa mụ, amụ nwa.",1.0,0.5556
+612,A laam maa wó pa se Jerusalem ji teo kolo logo baŋa dwi maama na wó ma ko yere ba sɔɔle lwarem ba pa daane to.,"Ala ma o pase Jerusalem ji, to ya kulo, lo ko baa di ma ma, na o ma ko yere ba soole larin ba pada ni",0.8077,0.2857
+613,"Kaana maŋɩ sɩ ba taa je cɩm mʋ ba cǝgi balʋ na brɩ-ba Wɛ cwǝŋǝ tɩn, sɩ ba daarɩ ba taa sɛ-ba.",,,
+614,Abam bá swei á na wó yaale tei to ni ne.,diabetic,1.0,0.8276
+615,Abam ye wǝǝnu tɩlʋ dɩ́ na brɩ abam yɩ tɩ yɩ dɩ́ Yuutu Zezi nyɩm tɩn.,አባዬ ይወድህ ትለው ደህና ብረይ አባዬ,1.0,1.0
+616,Nɔɔna ma ja o kwǝrǝ ba zʋ dwi maama wʋ ba tɔɔlɩ.,"Nọrọ na mgbago ugwu rabazụdị, ma ma wụba tọlụ",1.0,0.5
+617,"Dé wó taa jege chega dé pa daane, ye dé bá jwoori da-kwaga.","Dịwa tajị gị chiri ụdị fada ni, ị duba jụọrọ dakwa.",1.0,0.5227
+618,O nam bere o ba sɛ se o toŋe lwarem.,nombre Ovasse se,0.9,0.5769
+619,"Pɛɛre dem konto mo á lage á ma‑á ywoori ba wɛ dem, se de yage á wɛleere dem jene de ma chɛ abam.","Pèrdin kòntò mu àllaha yé. Amma yóori ba wèrdin, sé di yáha wàliri din jini di ma ci yaba.",0.913,0.5775
+620,“Amo nii a na sampwori selo na wo Samaria ne.,Abunni anai samfursalo nawo sameriya,1.0,0.3824
+621,Kotu ye-daa ta nugi lanyerane.,Kotu ya da ta nuna yaran,0.8,0.3333
+622,"Dɛ sem tete maa ye golesaa dɛ mo o mɛ o ke, ye o daare o kwei sabu-seŋa o kwoli se maama.",ya zai sanya mu ayi gwagwarmaya damu omee oke. Yuda aru okwu ya si bu sina okweli si ma,1.0,0.5846
+623,"pa se o de wo pwoli, ye o ta ded‑o o we.","Passe odéwọ́ pọ̀lì, yí ọ̀tá dọ́wọ́",1.0,0.5385
+624,de taane delo o na ŋɔɔne banto seeni to ŋwaane mo.,"di tana da lo, ona ngone bantu seni tunwani",1.0,0.3846
+625,"Kʋntʋ ŋwaanɩ, dɩ́ yɩ pa dɔɔm taa jɩgɩ dɩbam nɩ balʋ na yǝri Wɛ tɩn.",Kọntu wa ni di paddọ ta jigi dibam ni bal na yere wẹta,0.9333,0.44
+626,Ko nam ná ye á pɛ wolo ba na kale.,Kuna na ye apɛ wulu ba na kali,0.7,0.2917
+627,Lɛɛro wó yi Isarele tiina de Judah tiina.,Israel China Judah China,0.875,0.5455
+628,"Daa‑n ta ta de nɔɔna bam we, ‘Baŋa Wɛ wom na tage tei to mo tento: Amo zem pɛ abam chwoŋa mo se á kuri chwei selei tetare ne: kuri-na ŋwea, naa toone.",,,
+629,konto mo nɔn-jworo de wo maŋe se n zuli‑o.,Kọntọmụ nọ njọrọ dika mmadụ sị zụrụ,1.0,0.6129
+630,Ba Teiru wom wó jwoori o ŋwe ba wɛleera yam jene ba yuu ne.,"Bacciruwum, u joro mwi bawali ra ya njin ba",0.9286,0.4667
+631,Bɛŋwaanɩ dɩ́ na brɩ abam kʋlʋ tɩn yɩ dɩ́ Yuutu wʋm kwǝrǝ mʋ.,Béé wàna di na biri aban kulu tenyi di yu tuwu kura,1.0,0.4889
+632,Dɛ delo nɔɔna bam wó cheigi amo kwora kam ye ba daare ba yage ba lwarem kikia yam.,"Dadlo, nonaban, wuchiri amukoraka, yeye badare, bayayi balwaranki kiyaye",1.0,0.3125
+633,"Ko ze ná ye mena varem maŋa naa wodiiru zagem maŋa de, se á sii da yarepɛ dɛ dem ne.",Kuzina yimna vala manga na budiru zanga manga de si asi dayarapa deeri.,0.95,0.4603
+634,O ta ma kwei channa o ke dakaa kam yera totoŋa zela maama.,Atama kwe chana wake daka kam yira totu ngazu la,0.9231,0.3556
+635,O déem kwei sabu-seŋa kalo ye chekke ye ka dunni maŋe de kilo fintɔ-tenu to mo o ma ke min-zwon-zego kom de ko zela yam maama.,Odenigbo esepusie aka kalu na ya cheke i ka du mmadu kilo fin toto nutu ma o maka ime nzu azugokom di kozula ya mama,0.9231,0.4167
+636,se de taa kare de beeri yɔɔ de di gaao.,"से, दटा करे, दबेरी, यो, ददी, गाओ।",1.0,1.0
+637,Pa-na dé tei Baŋa Wɛ!,Pana di ti ban awe.,0.8,0.2667
+638,"Wɛ sampwora Izaya déem ma vo Hezekia tei o bwei‑o o we, “Nɔɔna banto nwoŋi yein-seeni mo ba ba nmo tei?","Onye siri na Aja ya di mma bu Hezekaya te ubu ya uwe. N'ona b'Atunu ya ese n'mu, baba imute",1.0,0.5256
+639,"Kʋntʋ tɩn, kwaanɩ n guli ba na tagɩ te tɩn sɩ n tʋŋɩ Wɛ tɩtʋŋa lanyɩranɩ, nɩnɛɛnɩ n na lagɩ n magɩ jara cɩga cɩga te tɩn.","Kwanteta, kwana 1 ba na tare da ita, sai in tona wata tunga la'ira ni. Na nene na lalari na marjara, ciga-ciga ta",0.8889,0.5543
+640,"Kokuri to, á baara bam tete de peini de ka-tole mo.",Ukurutu abara bantate dipendi,1.0,0.5263
+641,Nɔɔna wó taa jege-ba ba yaala ye ba mae ba yera ba sɔɔle lwarem ba pa daane.,"No, no, ta ji gaba, bayyana. Iba mai bayar. Ba so lallai loran, ba faɗi da ni.",0.9412,0.5
+642,"Chega to, yia yalo zem na nae amo to daa bá na-ne.","Chigatu, yii yalo zun, nannai amutu da ba nannai",0.9167,0.3889
+643,"O ná wo sɛ se o ke konto, a wó choore o yera zela a daare‑o, ne o nu de o kwo na loge‑o tei to.",O na-eseso kọntọọ achọrọ oyira zila adarọ na onodu ugo na-aghọta,0.9231,0.5231
+644,Vɔ-na chaponno tem kuna yalei yam yera ne se te ja gare-wogo kom yiga de kwaga.,,,
+645,"Kwei-na sabu-seŋa kalo na ye chekke to á kwoli dakaa kam maama, ye á daare á ma sabu-seŋa kam á tɔge ka nia yam.","Kwana sabisunga, kana yi cekaton akwaleda ka ma'ama ya dawo. Amma sabisunga kam atoro kaniya",0.9167,0.4286
+646,Mo kokuri Solomon de nɔn-kɔgɔ kom maama vei dáane se ba ware Baŋa Wɛ.,Mụ kukwuru Solomon dị nnọọ ka ọkụ mmanụ vidane so awarbanye,0.9286,0.4444
+647,Ta-kuri nye de sabu-seŋa de lu-nyenno na gɔgere te ke daane tei to mo.,Tukuri nyiri sausunga dillu nyu nu na gwari. Teki daani te,0.9286,0.4528
+648,"Ba ma ta ded‑o ba we, “Leile konto, nmo tiini n kwe mo.",Bama ta duba wai lele kunto mu tinin,0.9231,0.3947
+649,"Isarele tiina bam maa keeri chekke, ye ba lwoori Baŋa Wɛ se o jwoŋi-ba o yage.","Ihe a Chineke mere chike, ịbụrụrọ mba ọzọ, o jụọ gị bụ ihe a",1.0,0.7167
+650,"Konto kwaga ne, se n jwoŋi nɔna yam de bworobworo kom maama n daŋe zwɛɛm kaanem dem baŋa ne se n zwɛ-te kaanem dakaa kam baŋa ne.","Ọtụtụ kwa na-asị ejighị m nọ na ya, dị buru buru, mama ndị a na-ezo aka na ndị banyere sị ejighị m zite aka na ndị ka aka banyere.",1.0741,0.62
+651,"Wʋntʋ mʋ tɩgɩ dɩbam ŋwaanɩ, sɩ dɩ́ wanɩ dɩ́ tɔgɩ dɩd-o dɩ́ na ŋwɩa Wɛ tee nɩ.","nwantem tara deba nwani, si dewa na de toro de do di na nwaya wete",0.9412,0.5091
+652,"O ma sare golesaa dɛ selo ba na wó taa mae ba zeŋe dakaa kam to, ye o daare o taare-se de channa.","O ma sara gulasar de. Solo bana wuta ma ba zinga da ka kanto, yo da re o tare si di",0.8261,0.3611
+653,De laam wó taa ye ‘Ba fugi-ne jei maama ne’ mo.,Dala wata ye bafuni jemamani,0.9091,0.3939
+654,"Ko ná ye pwɛɛm totoŋe pi-bea kam, kwei ka nyɔɔne seeni nɔna yam, se n zeiŋi-ya wɛɛne n yaare amo yiga ne, se n laam daare n wane-ya n di.","Kwana ya yi point tutungi pii aka, kwe ka nyoonsi ni no na ya, si nzenge ya wee ni inyari amu yigeni. Si nlandari, nwanu ya",0.9667,0.4752
+655,Ni taane yerane ba de kabɛ chwoŋa ne.,ni taa yirani badikabe,0.875,0.4483
+656,se á bwɛa yam nam lage ya woli tetɛ seeni mo?,Abuyayam na laya wulci ta se,1.0,0.5294
+657,"A laam ma sii da yarepɛ dɛ dem ne, a naanem totoŋe dem na ti to ŋwaane.",ala m si ya na ya rapade na ya ana m ntutu ndị m na etiti nwanyị,1.0,0.4906
+658,N daa bá fɔge n bwoŋi-ne we n Baal jwoni dem.,Ndi amaghi m ihe m bu n'ubi m bara juru,1.0,0.7879
+659,"Dɛ dem konto maama ne, ba ya vɔge ba nia mo ye ba we, “Dé seene dé ke lwarem dé chɔge Baŋa Wɛ yiga.","Daren kontum ama ne, ba ya wuce ni mu yi baƙi, don su yi duk ƙararru, su ciwo baƙaƙe.",0.875,0.5556
+660,"Dɩ́ na wʋ dɩ́ Ko Wɛ yigǝ nɩ, dɩ́ yǝni dɩ́ guli abam na kɩ á wʋ-dɩdʋa dɩ Zezi Krisi yɩ kʋ paɩ á tʋŋɩ lanyɩranɩ te tɩn mʋ, dɩ́ guli abam sono kʋm na paɩ á tiini á tʋŋɩ te tɩn.",naa wu di kowee yi gani di yeli di guli abanaki a wu di duari zezi kirisi yi ko pai a tonga la yirani te chamo di guli aban sono ko na pai a chine a tonga te chamo,0.7857,0.4228
+661,"Ko ná ye sabu-seŋa kalo nɔɔna bam na jaane ba ba ba pa Baŋa Wɛ wara-jei sem totoŋa ŋwaane to, ka dum maŋem dem déem maa ye kilo moro dedoa mo, se ko tɔge wara-jei sem maŋem chekke na ye tei to.",Pona yesu kristo akaloti nonabam na jam baba bapa banga we waraji sentu tungayi yanwanto kadu menga dem dema ye kilo moraduwa mo seko toge waraji sum menga dem cheke,0.881,0.4041
+662,Pɛ wom maa we: “Amo laam wó pa se Baŋa Wɛ na tage tei to nwoŋi pwooni.,O ma wee amaghi udi pasubanga wee na-takate tunu unu puo.,1.0,0.5882
+663,"Kʋntʋ ŋwaanɩ, nɔɔnʋ wʋlʋ na vɩn dɩ́ na brɩ kʋlʋ tɩn, kʋ daɩ nabiinǝ mʋ o vɩa, kʋ yɩ Wɛ dɩlʋ na kɩ DƖ Joro kʋm abam bɩcara nɩ tɩn mʋ o vɩa.","Kwan tumaani, noono walna be di naaber kulata, ko dane biinaama o vi'a, ko yiwe dolo naaki de joro kom, a bam be charanata mo o vi'a.",0.9091,0.4455
+664,"Á na joŋi Wɛ kwǝr-ywǝŋǝ kam tɩn, kʋ pɛ á na yaara zanzan.","Ana ji onwe kụrụ ya aka n'nta, kọpe ana yarazanzan.",1.0,0.4286
+665,"Nam pa-ne swa chekke de yeino, se a taa mae a nii nɔɔna banto baŋa ne.","Naa mpanasua kyekyere di yono, saa taa maa ani no na banto bangani",0.875,0.3654
+666,Kwei da yarepɛ se n ma n tiŋi Aron de o bia bam amo kaanem totoŋa yam ŋwaane.,Kedu afa a na-akpọ sọmenti arọdụ biabam amụka na ntụtụ na ya nwaanyị?,1.0,0.5085
+667,banto maama yuu ne mo.,Bantuma ma yu ni mu.,1.0,0.2941
+668,Ba wó taa jege nenɔŋa nenɛɛne kantɔgela na ye tei to.,"Bịa taa jị ga nụ nụ nụ, a na m nee nụ ka m tọghara na yitete",1.4545,0.5238
+669,Amo tete wó tore ba yera yam yera-yera.,Yaram wututu wuturi bayiram yira yira,1.0,0.5
+670,"DƖ nan zʋʋrɩ pooni dɩlʋ na tiini dɩ daga tɩn wʋnɩ mʋ, yɩ nɔɔn-nɔɔnʋ bá wanɩ o twɛ da.",,,
+671,"Ba wó yɔɔre ba chɔge á tega kam maama de jei selo na gilimi abam to fase, pa se ka maama ji di-dwonnu yerane.","Bawu yor bachokai, atrakam mama di je solo na Gilimi aban tun fasi. Fasi kamaji di do ni yirani",0.9167,0.3494
+672,Na bam nam ware kɔɔra bam konto wone se ba maŋe da kɔtaa!,"Na ban nan ware, kwarabanko to wuni, siba mangada kwata.",0.8462,0.3409
+673,ne amo na wora a ke tei zem to.,ne amo naura ake,0.7778,0.4545
+674,Boboŋa tu taana yadwonna mo tento: Ko dae ko chwoŋa ne.,Babu wani mutum daya da ya daina mutunto ku da kuciyanci.,1.0,0.5814
+675,Nmo bá‑n sɛ se n tete wo-pwoŋo tu wom yera pɔ.,"mụ, bọsị ese ntị tụwụ pụọ tụọ m, ịrapụ",1.0,0.5758
+676,O nii ba maama we ba ye yɔɔ yerane mo.,Unni barama we baye yo,0.9,0.4643
+677,ye dé daare dé beeri dé tete yera gwaaro.,¿Quieres dar el biberón y decir y luego,1.0,0.7812
+678,-Ba daa ta maa kwei gare-ŋone selo nyenyero na ye nazwon-pupwia to ba ke kuna finnu ba lei gare-pum ni-dedɔrɔ kom seeni.,Bana tama kwe garinwa soro nyoro na yi na zombo puyato. Bake kuna finnu balle garapun niridoro kon si,0.8636,0.3656
+679,te na di-ba ye te laare ba ŋwaane.,ye,0.875,0.92
+680,"Kokuri to, ko nye de mini mo zwɛ gaao maama kula!","Kukuruto, konyiri mini muzo ya gama ma",0.9091,0.4324
+681,Ya ye kandwa-gula mo se ya guli Isarele tiina bam ba dwia yam yera.,የአይካን ደጉለማ የጉሌ እስራኤል እና ባም በዱያም,1.0,1.0
+682,Ni dem jazem seeni mo ba leigi gwaaro telo dedɔrem na ye jatwogo de noa ni maŋem kuni fuga-benu ye te daŋe da-dɛɛro tetɔ de te luuru tetɔ tem baŋa ne to.,"Ndi na ije azu n'isi n'ime baleghi gwaru tolu, dika odi na ije tupu di nwa na emengu na ifu ga bu nnu. Ihe ta danga da deelu ta to, di ta luuru ta to ta baalu",1.0938,0.5378
+683,Ba ma meeli lu-nyenno gwoli dɛ sem yera ne ye ba ke se lu-vɔɔro tem.,Yebake c'est le vôtre.,1.0,0.8039
+684,"Moses ma ta o tete ne we, “Amo wó fɔɔre mo a yi a nii wo-kenkagele dento, se a lɔre bɛ mo ke ye sabara kam ba zwɛa to.","mụ bụ smart ọtịne we amaghị ụfọdụ anyị a nị nwoke nke alụntụ sị alụrọ be mụ kị, ya sabarakam bazụọ",0.931,0.4824
+685,se te taa jege te bia te nii da.,ti ta jire ti bia ti ni,0.8889,0.4783
+686,Ta‑á yei-na se á yé ke ni-sɛɛm de nɔɔna balo na zoore tega kam konto ne to.,Ndi na-asị aịkene sị m unu na-abalị na-azụrụ ntị aka m,1.0,0.6364
+687,"Gena betɔ tu wom maa wó taa jege kandwa-nyenno tento: Jakinfa, de Agate, dedaane Ametisita.",na abuo tu ma weta ajiri ka ndu nwe nno tento. Ja kimfa di agati di naani ametisiti.,1.0667,0.3333
+688,"Gwaro tem ma kwei gare-fefale selo na ye chekke to, ye ba laam woli de gare-ŋone selo nyenyero na ye nazwon-pupwia, de nasoŋ-pupwia, de nasoŋo chwɛ-chwɛ to ba ma sɔ gare-wogo kom.","Gwara ka mara kwe gara fa fara soro na ike kato, i bala nwelede gara nwan soro, nyonyoro na ya na so mbupu ya di na so mbupu ya, di na su nwa chuachuato, ma ma so gara wugho",1.125,0.442
+689,"O ma daare o kwei gare-nyenyaaro o zo, ye o vo o zo Baŋa Wɛ diga kam.",Oma adari ukwu ịgwaranyụ nyarọ ozo. Yaa uvu ozo m ga-ewedata,1.0,0.48
+690,Amʋ wʋ sɛ sɩ kaana taa brɩ baara naa ba taa te-ba.,አሞወሴስ ካናታብርባራ ናበቴት,1.0,1.0
+691,Ba maa yeini ba bɛ ba yera ba wara wone.,"Bụ mụ a yị nị ba be ba yịra, ba wara wọ nị",0.9,0.3
+692,"Kokuri to, ba chɔge ni delo a na gwoni de-ba to.",Kukuru too. Bacho nido ana gwendi,1.0,0.4286
+693,Luuru telei maa wora ywei dedoa maama ŋwaane.,"Nuru tile maa, wura uere duwa mama nwa.",0.875,0.4324
+694,Banto déem nwoŋi Benjamin dwi tu Afiya sɔ-yuu kom ne mo.,Bantidien non Benjamin Duitou Afia,0.9091,0.4773
+695,Ba déem kwei gare-fefale selo na ye chekke to ba ma sɔ gwaaro telo na wó che wara-jei sem konkɔlɔ kom to.,Badeen kwe gara fafali solonaye chekatomo bama so gwara tulu na wuche wara jesum konkolokom,0.9545,0.284
+696,"Gambɛ sɩlʋ na tʋŋɩ ba paɩ ba yum tiinǝ balʋ dɩ na tɔgɩ Wɛ tɩn, kʋ wʋ maŋɩ sɩ ba taa gooni-ba ba na yɩ ba ko-biǝ Wɛ cwǝŋǝ wʋnɩ tɩn ŋwaanɩ.",,,
+697,“A lage a te a nɔn-donne maŋa ne mo.,A la a te a non dun ni.,0.5556,0.52
+698,Baŋa Wɛ lage o twe o jeŋa Edom tega kam baŋa ne.,"Bawelle laotie ujinga, Adam tga kam bawani.",0.9167,0.4722
+699,ko nye de a nɛ mɔ-lelea na bega kaporo yuu ne to mo.,Konyeri anne mo liliyam na bra kapuru,0.9231,0.5526
+700,"Baá pa nɔɔna sɛ vwan yam ciciri na fɔɛ tɩn, yɩ ba daarɩ ba taa tɔgɩ sʋtaanɩ zaasɩm na yɩ te tɩn.","Bà Pà Nón à, sờ vờ yên, chi chi na phà tơ. Yè bà đà rà bà tà tò sờ tà ni, za sâm na yì tì tìn.",1.1818,0.5616
+701,Yiga tiina bam ma ja Onika kandwa de kandwa-nyenno dwi dwi ba ba se ba kwei-ya ba meeli kaanem yiga tu gare-wogo kom dedaane o gare-pale dem yera ne.,"Iga tinaba m'aja, o nika ka ndu adi ka ndu anyi na-adiri, dwi dwi, gbabasi ba kwa ya, ba mere ka anam iga tu gara wa okwu, di na o gara paladim n'iranyi.",1.0,0.3362
+702,Ko ta ná ye pi-ni selo na jege bia to.,Kutabuki kupalessimo oja kukoroni. Iye ojase oba ufiri ubocharni. Kutana yi pinisilo na ji bietu,1.5,2.3333
+703,Maao mo jaane wɛyuu ne ko foore.,Ma mu jaa wuya uni. Ku,1.0,0.56
+704,"Kolokolo daa tera dé tampɔro tem wone, naa woŋo wora?","Kolo kolo daata ta tamparo, tan wani na wunwu",1.0,0.381
+705,Ahisamaki bu Oholiaba de ya nwoŋi Dan dwi dem wone mo.,"Ayi sama ke, bu ogili abama, de ya nuwe dan duran",0.9091,0.4651
+706,te wó lɛɛre te taa zoore dáane mo taa wuu.,tolere tazzordani mutaw,1.0,0.5
+707,O ma gwoni golesaa dɛ selei o daare o kwei sabu-seŋa o kwoli dɛ sem konto maama.,"oma gwanu gị otu m si dị sịlị, ọ dịarọkwa ya siri sị na okwelu dịịrị m ka m",1.1176,0.5968
+708,Baŋa-Wɛ dɩlʋ na yɩ dɩbam Vɩrnʋ dɩ Zezi Krisi wʋlʋ dɩbam na jɩgɩ o tɩɩna tɩn mʋ pɛ-nɩ ni sɩ a taa yɩ o tɩntʋŋnʋ.,Banga wè dolo na yé déba an fɛrɛnɔ. Duzézi krisito wolo déba na jigé oté nata. Mɔpɛnɛnɛ sé atayi otɔntɔnɔ.,0.96,0.4405
+709,Swa tu ba saŋe nɔn-jworo pɛ sɔŋɔ ne.,"So, 2 ba sanyi na njoro pe so",0.875,0.5556
+710,Filisi tiina bam déem ma ke jara yam de ba dam maama.,Felicity na bandi ma ke jara ya. De ba da ma,0.5833,0.3171
+711,Amo nam le Dan dwi tu Ahisamaki bu Oholiaba mo se ba taa toŋe daane.,"A ma na le dan di tu, anyi samake bu oholiaba m si bata tunu",0.8,0.3019
+712,Amo mo ye á Tu Baŋa Wɛ wolo wom na jaane abam.,Amuma ihe etu banyere ụlọ ọgwụ na-aga na,0.9167,0.6471
+713,Ba-na á nii Baŋa Wɛ na toŋe wo-kamunnu telo logo baŋa ne.,Bana anni banga wena tun wakkamu nittilu banga,0.9167,0.5116
+714,"Kokuri to, o Tu Baŋa Wɛ mo wo o tei ne, pa se o yere tiini de zaŋe.","Kukurutu, otu be na-ewe mu wu utini, pasi o yiri tini di zani.",0.9444,0.4043
+715,Baŋa Wɛ na wó sii vio o yage te yera ne to ŋwaane.,Bịawe na-usighi ihe anyi ka yiri ani tụọ nwaanyị.,1.0,0.6216
+716,Wɛ yerane nam ta mo lware wɛyuu kom.,wayi rani nan tamu lwar wayi,1.0,0.4286
+717,Ko daare ye o zaane wo balo na tu ba tete to yuu ne.,Kodaare ye ozaa wubalo na tuba tatatu,0.8571,0.2632
+718,Konto mo tei tega kam koga ka peere pa se balo maama na zoore ka wone to bugi.,Kuntumite ta kawo ku ga ka pire pasi baloma ma na zoro ka wani to,0.7778,0.35
+719,ne vwei delo na ba bebege to.,Nivué de l'eau n'a pas bu,0.8571,0.6818
+720,Wonto mo wae o pae logo baŋa dedɛɛra jia.,Wontouma yai opai logo bara de dereji,0.8889,0.3125
+721,O wae o cho balo na tui ba zoore o woro ne to.,Onye ochi balo na tuba zoro nworo,0.8462,0.3333
+722,"A ta wó jwoŋi nmo de Jerusalem teo konto a yage Asiria teo pɛ wom jeŋa ne, se a daare a taa kwoli teo konto.",Ata ujoin emodi Jerusalem ti okunto ayai Assyria pe'm jingani. Se adari ata kwali ti okunto,0.92,0.3415
+723,se o maŋe-ka ye o daare o jeeli ka chɔgem dem.,से ओ मनेका ये ओ दारे उजियेल का चोंड,1.0,1.0
+724,Ko nam ná ye sampwori selo na wo Jerusalem teo kom ne to de.,Kuna na yi sanpersalo na wujerisalam toyo koneton,0.9286,0.3696
+725,Konto déem ke ko tɔge de Baŋa Wɛ ya na bere Moses tei to mo.,Kedu otu dị ka otu ndị banyere ya na bọọlụ Mozis?,0.8667,0.6889
+726,Ba yeini ba zuli da-kwolo mo ye ba we.,,,
+727,"Chega to, nabiina mo nam nye de gaaro tem konto.",Chigatu na biinu na nyedegaaru,1.0,0.4054
+728,Baŋa Wɛ se-zɔɔ kom maama yɔɔre ko ye jana yerane mo.,Bana wa'es zokom mama yori kwijana,1.0,0.525
+729,ne nmo ni ná ŋɔɔne chega taane yerane.,Mụ na nwunye m chọrọ ịlụ,1.0,0.8333
+730,"Kaanem tiina bam kɔgɔ kom na daga tetei to, ba lwarem totoŋa yam de daga konto dwoŋi mo pa se ba tusi ba chɔge amo yiga dedɛ.","Kanan China, bankokum na daddatattun balluwarar tutuna yan daddakon tu domin fa sai batu su ba chokaye amu yiga da",0.8889,0.4639
+731,"Nɔɔno wolo maama na yi bena finlei ye o tɔge o wo jeelim dem wone to ya ŋwe sɛkɛle chichworo mo, se ko dunni tɔge wara-jei sem maŋem chekke.","Nọ ụlọ mama na-eji obi na-aṅrịrị yọrọ Chukwu wee jeele ndụmọdụ ya nwa ya nwanyị bụ Cecilia Chukwuduni, tọọwara Jisọsụ, ma gị na Chineke",0.9655,0.6972
+732,"de pi-bea twanno telo ba na seini to, de twan-nyenno.",de pibia trantulo bana siantu de tranyen,0.8,0.325
+733,Aron wó yeini o ja-te mo o zo o zege amo yiga ne se o taa ma-te o lɔre amo Baŋa Wɛ boboŋa Isarele tiina bam ŋwaane.,Aro onye ne oji atimo ozu oziri anyi ne si ota matu olori ambanga we bu bu nga Israel na banwani.,0.963,0.4419
+734,"Waarem delo maama na popone de tiŋi tɔnɔ konto wone to, dedaane wonnu telo maama Jeremia na pworisi o pa dwi-gɛ tiina bam maama to wó yi-ba.",,,
+735,"Ko ye bedwe de amo Baŋa Wɛ de na swoi Isarele tiina bam tei to mo, de ba na maŋe ba ywori a kwaga ne ye ba zuli wa yadwonna tei to de.","Kwana biyu, dai amun, ƙaƙa ne? Ina so Isra'ila ta na ban tetu mun. Dai, bana ma ba yuri a kwana, i ba zuluwa ya do na tetu",0.9091,0.49
+736,ye ba jege wo-zɔɔne delo ba ke to.,ये बाजे,1.0,1.0
+737,Nam pa se dé ba bebara dé daŋe o baŋa ne!,na pase de ba be bara de dangai obangai,0.9091,0.3667
+738,"O lage o te sa-teo ne mo yiga yiga, se o daa yé na o nabaara tega kam.","Olagote, sathi onemigiga-giga, se odayi na ona baraka",0.8889,0.28
+739,Boboŋa tu duri o seigi cham mo se de yé yi‑o.,Bubbly to dress Chamorro.,1.0,0.6364
+740,Baŋa Wɛ kwora mo tento: Dɛ dem konto ne amo wó leiri ba wɛ-lworo kom.,"Banga wuri kwara mutun to. Dayaren continue, am wullari ba walluro",0.9333,0.5
+741,"Kʋ nan daɩ swan mʋ dɩ́ kɩa, sɩ dɩ́ ma dɩ́ ganɩ abam.",Conan,1.0,0.9143
+742,"Ba ma kwei-se ba gɔgere nyenyero ba woli de gare-fefale sem de gare-ŋone selo nyenyero na ye nazwon-pupwia, de nasoŋ-pupwia, de nasoŋo chwɛ-chwɛ to.",,,
+743,Dé tuli sem maama laam chɔge mo se zega.,"De tous les samamas, l'un d'entre eux se",0.8889,0.7097
+744,Nam yé swei we n tete mo kuri dwi dem konto nɔɔna bam se ba taa ye nmo nyem.,"Nam yisewe ndatemukuri dwidemu kontononaba, swata ye emo nya.",0.8947,0.2807
+745,Moses ma toŋe kwora se ka yi nɔɔna bam maama se ba daa yé ja pɛɛra ba ba wara-jei sem totoŋa yam ŋwaane.,Moses matonkwere se ka yi nno na ba ma amase pada anyi ji a pera baba wara Jesu ntutu anyi anwa.,0.8261,0.325
+746,mo kayere kɔro telo na saŋe to tu se di maama nyɔ!,Mokayi kworo. Tolo na sani to to se di mama,0.6667,0.3421
+747,Wodiu kom konto nam wó su banto kana yerane mo.,"Odi uka m kponyere gị, na-ewu su ba ntụ ka na-ayịrị m",1.1,0.4865
+748,"Woo, nii teo konto na swoi wɛleera keim tei!",O neto contou na Suíça valer a quem te.,1.0,0.5294
+749,"Kʋ dɛɛn daɩ Adam mʋ sʋtaanɩ ganɩ, kʋ yɩ kaanɩ wʋm mʋ dɩ ganɩ dɩ pa o vɩn Wɛ ni.",Kodin da Adamu su ka taɓa yi gani ko ya kawo nawo mu da gana da pa. Ovi we,1.0,0.5
+750,"Edom tiina bam, de Moaba tiina bam, de Amon tiina bam.",Di mụọ tinye na abụ. Di mụọ abụ tinye na abụ. Di amọ tinye na abụ.,1.4545,0.7073
+751,Tete ne nmo ta woli-ne a boboŋa ne mo se a yé tusi.,"Tete ni, nte woli ni abobugani mu sa yitu si",0.9231,0.2973
+752,Ba déem ma jwoori ba gɔ-de ba chwi de zega jei sem ne.,बर्थडे मजूर बगरी बची,1.0,1.0
+753,Konto ŋwaane amo wó seene a pa‑m swa de yeino.,Kedu otu nwanyị amụrụ na Apam so adịghị?,1.0,0.6571
+754,Bɛŋwaanɩ sǝbu-swǝnǝ mʋ yɩ lwarɩm dwi maama pulim je.,"Bịa nwanne, sobuso na-eme ya luo ndị ị ma ama pụrụ ị",1.3333,0.5952
+755,Sedare da-ŋonno de maa ba jege zore nenɛɛne kaporro na daga tei wɛ-zoore seeni bwollu tem ne to.,"Siddhare da wuri, dama ba ji ka yi zuri'a ba, ni na ka puru na dakata, wai zuri'a ni gbolotin",1.0,0.6053
+756,Nmo ná maŋe n pa n kabaa ywooli o biini maŋa ne.,mô n'mange impa caba yoli obi,1.0,0.5833
+757,Ko nam ya gɛ fee mo se chɔgem pu amo kwaga de ja.,"Kwanan ya geefimu, su chokompu, amukwara di",0.9231,0.4722
+758,"A ta wó lɔ kabira a maa pe‑o, se o daa yé wane o nwoŋi pwooni.","Ata ụnụ wụ akụbụra ama pịọ, sọ da ịwụọ nụ ụnụ mpụọ.",1.0,0.6591
+759,ne na-zura na zuri na-nyɔm faao-ni maŋa ne tei to.,Nna zura na zuri na nyam fani manga ne ta,0.8,0.2703
+760,A liiri abam a ja a nwoŋi tega baŋa gugworru tem ne mo.,"Aliyaba, aja anwi, taba agugu aretim ni",1.0,0.4048
+761,Paŋwa Tu Baŋa Wɛ nam tage tento mo o we: “Nii mo!,Bàngwàtù bàngwè nàntà tùntùmù owè nì,1.0,0.6571
+762,"Dɩ́ maŋɩ dɩ́ kaanɩ abam lanyɩranɩ nɩ, nɔɔnʋ na kɩ wo-zɔɔna yantʋ doŋ, dɩ́ Yuutu wʋm wʋ́ pa o na cam.",De ma nga de ka ni aban la yira ni ni noo nu na ki wo zo na yan tu do di yu tu wo wo pa o na,1.2381,0.3889
+763,ye ba tɛ ba we: “Debam wone wɔ mo wó wane o taa zoore.,ye battebawe debawuni womuwani utazore,0.9286,0.3421
+764,Dɩ́ nan ta tiini dɩ́ loori abam sɩ á kwaanɩ sɩ kʋ dwǝni á na maŋɩ á kɩ te tɩn.,Na ce ce na da lore aba sai a kwane su ko da ni ana maganar,0.95,0.5357
+765,de o na daga o dwoi kamunim dwi maama to ŋwaane.,on adore au deux que mon nom du ma,1.0,0.7568
+766,Isarele tiina bam yuu nam lage ko yaale mo.,Ihe a tinyebe yuna laakwụ yaalị,1.0,0.5588
+767,Bu-donno tete wae ba buga ye ba yera chɛa.,,,
+768,Wʋlʋ na maŋɩ sɩ o wǝli da tɩn maŋɩ sɩ o ban-zʋrɩ taa yɩ bɩdwɩ yɩranɩ mʋ.,"Bọlọ na mmasị ụwèle data, mmasị obanzụrụ taa ịbụrụ ụyịara na",0.8824,0.5185
+769,Baŋa Wɛ ta wó pa vo-loŋo nwoŋi wɛ-puli seeni.,Banga weta wupa volu no wopuli seni,1.0,0.3529
+770,O ta ma ke kampina se o ma o yale-ko o zege.,"O tama ki kampani, se umma o yali ko",0.75,0.3548
+771,Nmo ma‑n wó zwɛ te maama se te taa ye zwɛɛm kaanem te pa-ne.,Mụ na ụmụ nwanyị m si na taa ga-amalite,0.9286,0.7273
+772,Chaveera laam wó di abam ye á yuu yaale.,"Chavella, wudi aba, ye ayu yale",0.8889,0.3226
+773,"Foone ma tiini de ja Filisi tiina bam, pa se ba duri Isarele tiina bam yiga ne ba jage jei maama ne!",Format in the Jafeliciti na ba password 3 Israel ti na ba yi gani ba ja ga ye je ma ma ne,0.9545,0.3506
+774,o wó pɔpɔ o na chɔgem mo ye o bá lu de wone.,Opopọ ọna chọrọ mu ịbụ alụ di nwanyị.,1.0,0.6774
+775,” Nɔɔna bam ma seene ba ja sabu-seŋa zwa-kwana yam konto ba vo ba pa‑o.,,,
+776,Ni-som nyem maa jaane chɔgem o tui.,ma ja nchọm otu,1.0,0.5926
+777,"Kʋntʋ mʋ wʋ́ cɩ dɩbam lwarɩm wʋnɩ, nɩ nɔɔnʋ na maa ve jara yɩ o kwe luguru gɔrɔ o lɛ o ma cɩ o nyɔɔnɩ te tɩn.","Kuantum wakiereba laran wene, nen nono namazi gerageyi okwe luguru goro, ole omachi onyon tete",0.963,0.4625
+778,"David déem pane leiŋa kanto maŋa kalo Zifi tiina na vei Pɛ Sɔɔl tei ba ta ba bere‑o we, “David tu o seigi o tete debam tetare ne” to.",David,0.9655,0.95
+779,Konto ŋwaane o jege se o zo gare-pale dem maŋa kalo maama o na wó zo amo tei ne to mo.,"Kwantum nwaa ni, o jigesiri uzo gara paldim, manga kalimama, ona uzo anti nitu.",0.9524,0.4219
+780,ye n daare n jege n nɔɔna bam n bɛɛsa de dam.,የእንዳሬ እንጅጌ እንወነባ ቤሳ,1.0,1.0
+781,Moses déem ma bwoŋi Bezaleli de Oholiaba dedaane gwaro telo maama Baŋa Wɛ na pɛ-ba dam ye ba boboŋa ja se ba toŋe to se ba ba.,"Mụ sị na mụ bụ onye bekee, ọ hụrụ ya bụ mmadụ anya na gwara ya okwu ọma. Bịa na-peba dan ye, ba bụrụkwa onye a ga-asị ba tọntọn. Sị ba",1.0,0.6633
+782,"Amo wó pa‑m sisei morro telei, ne nmo ná wó wane n na se dira bam n ke da.",mopam sesei moro tele ne mu na wuwani na sidirabe,0.8947,0.3585
+783,Aron de o bia bam wó yeini ba ma na bam konto mo ba se ba je de ba nɛ.,"Aro di obie m. We yere m ba mma, nna ba m kontom. Ba si ba je di ba",0.75,0.32
+784,"Nɔɔna badaara mʋ wʋra ba na paɩ ba jɩgɩ yi-pʋrʋ kʋm kʋntʋ, yɩ kʋ laan pa ba ywǝri Wɛ cwǝŋǝ kam wʋnɩ.","Na na badara mu wura banapai, ba jigiyipuro konkon to, yi kulla ba ba yiri, wechun aka wuri.",0.9091,0.3947
+785,"Pwa balo na zoore baŋa seeni teene dem ne to, ko ná ye delo na bwola daane to, dedaane delo na ye yiga yiga to de.",ba balan zuru baa seni tinidun nitu kuna yi dolo na bola danitu du daane dolo na iga iga tun,0.9231,0.3837
+786,pa se o nɔne ba pwa bam o se tega ne.,పాసే ఒన్నానే పాపాబాం ఒస్సిటకాని,1.0,1.0
+787,Pa nmo de n faro wom jeini á kwɛ daane.,"mụ. Dumfaraụ, jee na kwaa ebe a",1.0,0.6207
+788,Puseŋ-nyena de ma chuli nɔn-ŋona bam jei.,Ka sị ya na ndị mmadụ chiri nọnwụ na banye.,1.4286,0.5938
+789,A nu puga kam ya wó lɛɛre ka ji a yibeeli.,Anup waka ya wuleri kaji ayi beli,0.9091,0.2581
+790,Á lage á yɔɔre á to tega ne mo á chochoge.,अल्लाह योरे अटो,1.0,1.0
+791,Venverena de ma zi nɔɔna teo kom pwooni yiga ne ba jwoŋi ba wonnu.,Duma zi,0.9286,0.9038
+792,Baŋa Wɛ lage o pa lunluŋu kom fɔɔre ko jwoori kwaga naba-laara yia kuni fuga mo.,bawe lagau pal lungu kon fore kujo rukwa na balara iye kuni fuge,0.9375,0.3968
+793,"Baŋa Wɛ déem na ŋɔɔne de Job o ti to, mo o tage de Teman tu Elifaza o we, “A bane zaŋe de nmo, de n badwonna balei bam mo.",Bụ a wee dee na nwanyị dị Job otito mu ọtá dị Teman bụ Elifaza. O wee abá nzá dị mma dị mbedọ n'ebe,0.8667,0.5
+794,"O déem ma kwei sabu-seŋa na ye chekke to o kwoli ko yiga de ko kwaga maama, ye o daare o pa se sabu-seŋa kam tɔge ko nia yam.","De ma kwe subusunga, na yi cekaton, okoli ku yiga, de ko kwara mama. Iyo da aro paso subusunga, kan tore ku niye",0.8276,0.3441
+795,Logo baŋa jei maama nɔɔna yera tiini ya sae mo.,Loba je ma ma nona ira tini ya sai,0.9,0.3784
+796,"” Chega to, amo wó pa se a nɔɔna bam fɔge ba na kugu jei tega kam baŋa ne se ba taa ye a tete nyem.","Chigato, a muwa pasa a nuona ba m foro e, be na ku u je chigakam ba ngari si bata yi atitinyi.",0.92,0.3521
+797,Wolo na wó ta n yera chega to mo seene o ye n badwoŋi chekke.,Na wota inyira ciga to musini oye mbedu,0.8667,0.5435
+798,Vara lara de maa taare ko maama.,vara lara,0.7143,0.68
+799,Ba jana mo wó bugi ba tega kam maama.,Bajanmu wubi batakakam,1.0,0.3929
+800,O maa we: “Amo laam jigi kagoa mo a pa Isarele tiina bam na?,Mawe amala jigi ka guamu apa Israel tina ba,0.9286,0.3182
+801,se á ba amo yiga ne de á wo-chechɔgɔ.,"Abba, amaghi m ihe gịnị dị awụchuru",1.0,0.7778
+802,Amo yɔɔre a ni nɔɔna na jege a taane mo.,"Amaghi m onye a ni, na-ona na-eje atani.",0.9,0.5333
+803,Pa-kamuna de dwia yadwonna dedɛ mo wó di dam Babilon tiina bam baŋa ne pa se ba ji ba kabɛ.,"Pakamuna, di dwa ya dwa na di day. Mudi dam, Babylon tinaba bangani pasi beji. Paka",0.9,0.3
+804,Ya maa wo de kwaga seeni na sale de gare-wogo kom to mo.,Yamaa wo da kwaaseeni na salee de gare wogokontu,0.7692,0.1667
+805,Bene maama wone se á ja á kare sem wodiiru telo na lwoori yiga te ke ye te lamma to á ja á jeeri abam Tu Baŋa Wɛ wara-jei sem ne.,Nne m ama na ọ sị aja akara sị nwu dị otu na olu gị ga-ekewasị ya tupu a ja ajịrị. Abụ m tuba na-ewe warajesị,0.9677,0.5464
+806,Dé daa bá di sisein-nɔɔna baŋa dé zo jara wo.,"Dada budur, si sanu na bana. Duso gyara",1.0,0.5
+807,Ba ma daare ba lɔɔre o jara zela yam na wo o yera ne to.,ba ma daari ba lore o jara zulaiya na wu yira ni,0.6,0.2927
+808,Daa dedoa mo wó ke dakaa kam dedaane nyea yana se ya cheili wɛɛne nenɛɛne nabea nyea tei.,da duwa mawaki daka Canada ne ya yi yanna sai ya cire wani ni na yi nabia nyeti,1.0,0.493
+809,Wɛ wʋ́ pa abam yu-yoŋo.,Wọ́n wọ́pọ̀ àbanyíyìnwọ́.,1.0,0.6875
+810,"Ba nan maŋɩ sɩ ba kwe ba wʋbʋŋa maama ba pa Wɛ mʋ, bɛŋwaanɩ dɩntʋ mʋ yǝni DƖ pa dɩbam woŋo maama yɩ kʋ yi dɩbam, sɩ dɩ́ taá jɩgɩ wʋpolo dɩ́ di ywǝǝni.",,,
+811,"Kokuri to, nmo pɛ se amo mo ji pɛ se a taa tei kɔ-fɔrɔ kolo ni na daga dedɛ ne tega kasolo tei to.","Kukurutu, mpesi amagipe, sate te koforo kulu. Ni na dade de ne teka kasolo",0.8333,0.4167
+812,Ko maama déem ke ko tɔge nenɛɛne Baŋa Wɛ na bere Moses tei to.,"Kpomkwem, dee nke ikutere nne na nna gị nwere na mbido mosisite",0.9286,0.625
+813,ne sabare na zwɛ ye se ji tentwarem tei to.,ने सबरी नज़रे ये सी जी टेंटर में,1.0,1.0
+814,"Nmo nam ná jwoŋi sabu kom konto Isarele tiina bam tei ne, se á ta‑á ma-ko á kwɛ wara-jei sem de se totoŋa yam.","C'est à ma sœur, à qui elle l'a dit.",1.0,0.878
+815,Kaane wom laam wó leeni lei ne o déem na ke tei ye o nwoŋi Ejipti teo kom ne o biini maŋa ne to.,"Ka unu nile lee, lee, oge na-adighi anya unu iji teta n'ukoni obioma na",1.0,0.625
+816,Ba maama jigi ne Sodom teo tiina na ye tei to mo a yiga ne.,Bama ma jigne sodom tiotina na ite tumu a yi gani,0.8,0.2273
+817,Chanfene de sea ná daga tei maama.,Chafuné dis-yant na da té ma ma,1.0,0.4074
+818,Efrayim dwi tiina bam me de jwona kaanem.,"frame, di Chinebam, mere jụọ na aka",1.0,0.4848
+819,Nɔɔna bam maa we: “Pa-na se dé jwoori dé Tu Baŋa Wɛ wom tei.,"Nọ na bamma wee. Ha na-asiri jọọrọ dịtụ, bọọ na wee wụ",1.0,0.5814
+820,” Isarele tiina bam ma seene ba dole Baal dedaane Asetare jwona yalo na wo ba tetare ne to ba yage.,"Ihe a tinye n'ime ya siri, badole ba, na da ni asitari jụọ na ya lụọ. Na ụbọ a titari na to ba ya",1.0,0.4675
+821,"Amo kwei a jworo mo a pa‑o, pa se o jege swa, de yi-poro, de yeino se ko tiini ko gaale, ye o wae o gɔgere wonnu dwi dwi.","Ha mụ kwe ajụrụ m apọ, ọ sị ọ jigisịwa, dị ya pụrụ, dị ya nọ sikwutị nụ ka gị. Yọ wụ ọ gọghọwa dị",1.0,0.6163
+822,Dɛ dedwe mo Kisi bonɛ sedwonna ywori se jei.,si je,1.0,0.8857
+823,Maŋa daa ma yi se wɛyuu nɔɔna bam jeeri Baŋa Wɛ yiga ne.,manga da mayi su waye unu onaba njiri banga wayi,1.0,0.4186
+824,"” Tega na poore tetete to, nɔɔna bam ma ba ba go vara se ba ma ke zwɛɛm kaanem, ye ba kwei badaara ba ke yazura kaanem se ba di nɔna yam.","Nke a na-apụta ihe doro anya na-abụghị abụghị ụgha. Sị bama kee zie nke a na, ịbụkwaara badara maka ị ga-ezu nke a na, sị bọdị na ya",1.0,0.6078
+825,o ke pɛ wolo o na kuri to lanyerane se ko taa vei wuu.,Okpe ulo o na-ekwụta ụlọ ịránị scooter gị.,0.9286,0.625
+826,"Ba na zege wara-vwei dem yiga ne konto to, mo Solomon fɔɔre o yi channa kaanem dakaa kam, ye o ke zwɛɛm kaanem kuni moro bimbini dem baŋa ne o pa Baŋa Wɛ.","Bịa na-azụrụ gị ụgbọ mmiri, kụntọtọ, mụ so na mụ fọrọ ụyị, chie na aka m, ndakakam, yie oke zwayị aka m, kụnie mụrụ bimbini demba ngali, ọpa banga",0.9697,0.5085
+827,"Zezi kɔgɔ kʋm zǝnzǝnnu maŋɩ sɩ o taa jɩgɩ kaanɩ dɩdʋa yɩranɩ mʋ, sɩ o daarɩ o taa waɩ o nii o biǝ dɩ o sɔŋɔ tiinǝ maama baŋa nɩ lanyɩranɩ.","Jejekwa kunze nze na marase ota je kana de dwayira namu, se o dare ota wayi onii obiedi osona ti na mama abangane layira",0.9677,0.4528
+828,Amo wó jwoori a ŋwe ba keim-balwaaro tem jene se ko maŋe de ba je na ke wonnu telo to.,Amujo ri anwe bakemba loarotem jene se komande paji naki wane tuloto,0.9,0.2769
+829,"Se ko kweeli to, Babilon teo pɛ wom de maa wó nyɔ ka wone.",Sokoto Babylon ti o pe wa de ma unyo ka wun,0.8571,0.4186
+830,"Nam lɔre-na we, abam ná go-ne, á go wolo na wo ke kolokolo o chɔge to mo.","Nna m ukwu, nna anyị ukwu, a gaghị m aghọta ihe ị na-ekwu.",1.0,0.8269
+831,"Nɔɔnʋ yigǝ na tǝrǝ dɩ o sɔŋɔ tiinǝ, kʋ na tiini kʋ dwe dɩdɩ dɩ o tɩtɩ digǝ tiinǝ, kʋntʋ tu yagɩ Wɛ cwǝŋǝ mʋ.","Nọ nị ị ga-anata adị ọsọ ọṅụ Chineke, na Chineke bụ doedịdị, dị otutu dịga Chineke, ka ntutu isi gị wee dịrị gị",0.96,0.6543
+832,ye ba daare ba jwoŋi kadeina nabɛ jena ŋwaane.,"Ibadare, bejon kedena bune, jina nwani",1.0,0.4595
+833,"A wó che kwɛɛra yalo o na di ywoni ya baŋa ne to, ko ná maŋe ko ye kuri delo maama o na yeini o guli o di to.","A ci kwera yalo, ono di weni ya bangana to, kono man ku yi kudu doloma ma, ono yeno guli odi",0.7931,0.3291
+834,"Konto wó pa se Baŋa Wɛ taa wo dé tei ne, ye o jwoŋi debam o yage dé dona bam jeŋa ne.","Kwantuo pasi, banye weta udi teni, yi oji ndi bam, oya di duna ba njinga ni.",1.0,0.5
+835,Ko maama déem ke ko tɔge nenɛɛne Baŋa Wɛ ya na bere Moses tei to mo.,O mama nke kacha tọrọ n'ime ụmụ nwanyị a na-akpọ Moses,0.9375,0.6731
+836,Bombwaano de ga-cheiŋo de maa wó cheiŋi ba dam jei sem maama.,"Bambuna, diga cunu, dima wucunu, badam Jesum",1.0,0.5417
+837,"Kaanem tiina bam, de sampwori sem laam ma ta de teo nakwa bam, de nɔn-bia bam maama ba we, “Nɔɔno wonto maŋe se o te mo.","Ka n'nti na ba, dis and datin la mata, di ti yo na kwaba, di non biye ba mama gbawe, na onowoncho ma nse otim",0.9615,0.3933
+838,"Moses de Baŋa Wɛ nam ya na ŋɔɔne daane to, mo o yibia tiini ka nyeena ye o yeiri ko ni ne.","Moses, depụta ngawelụ na ya na nwọlụ daanịsụ. Mụ oyị bịa tinị ka nyịna. Yụ oyịrịkụ nịị.",0.8182,0.4776
+839,dedaane gare-jale delo na wó pale wara-vwei dem ni ne to.,na wopali wara,0.9091,0.7727
+840,"Da yam konto ne, Hezekia déem yɔɔre o weele mo ye o bwola de toone.","Da ya ƙwntane, sai zaki ga dai yore owil mu ye ubola di tuni.",0.8667,0.4706
+841,Pipiri-na á sɛ á Tu Baŋa Wɛ ni dem.,Pripri na ase atubamgawenidi,1.0,0.4
+842,Wɛ wó kwei ba wɛleera o yage o chɛ-ba.,"We wu kwa Igbo wa n'iro, o ya ha oche ebe.",1.1111,0.5357
+843,O kwora kam maa tiini ka zaŋa de baare!,ma,1.0,0.9333
+844,Baŋa Wɛ maleka déem ma zaŋe ka vo Asiria jar-keira bam na tigisi mɛ to.,"Bawo malka de ma zangai, ka ba Siriya jarkara ba na tisi me.",0.8,0.3818
+845,"se á ta we, “Dedɛɛra yiga tu wom bɛ?",Se ata wee didere yige tu,0.7778,0.48
+846,"Bantʋ mʋ yɩ balʋ na kwaanɩ ba wǝli ba nii zaasɩm dɩlʋ na yɩ cɩga tɩn baŋa nɩ, nɩnɛɛnɩ ywǝ na wǝli digǝ sɩ ka yɩ vi te tɩn.",Bante ma ye bara na kwaani be weli be ni za sandilo na ye chigatan bangani ne ne ni yuwe na weli dige se ka yi vi tete,0.8276,0.3696
+847,"Isarele tiina bam na nigi ko ŋwa to, mo foone tiini de zo-ba.",Ihe zuru oke Chineke nyere anyị bụ onyinye.,1.0,0.8043
+848,"Kʋ na yɩ ka-bwǝnǝ, n maŋɩ sɩ n kwe-ba nɩ n nakwa mʋ te dɩ wʋ-poŋo.","Kɔnna yɛ kɛbɔna, amawusi nkɔyɛ baane na kwaamutɛ di wupun.",1.0,0.5435
+849,Nam ta pa-na se ba tiini ba gɔgere o teiŋa vovoa kam lanyerane.,Nantapanase batiri ba gore oteng a buvua kanla nyiranda.,0.9231,0.3061
+850,O déem ma bwoŋi o bukɔ-kwea kam yere we Jemima.,"Odimma boy, ọbụkwa kwa ya kam ji wee ji",0.9,0.5278
+851,Ba ma toŋe ba bwoŋi Jeroboam se o tɔge de Isarele kɔgɔ kom maama se ba vo Rehoboam tei.,"Bama tombé bougnou diourobou am, c'est au tour de Israël ko ko maama suba vou riho bouanté.",0.8947,0.5147
+852,Baŋa Wɛ de ma sɛ wɛ-lworo kolo Job na ke ba ŋwaane to.,Banga waɗanda masu walwala okwu Job na ki ba nwa,0.7692,0.55
+853,"Ba ta ma sare golesaa da-dɛɛro tena mo ba taare-se de sabu-seŋa, se gare-jale dem lei se yera ne.",Batama sare gwelu sa da deru tinamu batari si de si bu singa.,0.9474,0.5205
+854,"ye á bochara yam wone de, yazura tera.",ये अब चारायाम होने दे,1.0,1.0
+855,"Nam gwoni pia kam nɔna yam yera yera, se n daare n zare ka wo-zela yam de ka nɛ sem.","Nangwane piyakam nonayam irayira, sandare inzara kawuzulayam, tekane as.",1.0,0.3065
+856,ye kolokolo daa ware o ni dem konto ko chɔge.,"Ukwu kụrụ kụrụ, daa wari, unyịde m kụntọ kụchaa.",1.0,0.5714
+857,Amo sɔŋɔ veira de a tontoŋ-kana bam maama laam nii-ne.,Amsoora da tuntun kana ba mama launi,1.0,0.4286
+858,"Ba na vɩn Wɛ kwǝrǝ kam kʋntʋ tɩn, kʋ ma pa ba na kɩ kǝm-balwaarʋ tɩlʋ maŋa maama tɩn fɔgɩ tɩ puli tɩ wǝli da.","Bana fi wekore ka nkontotom kuma fa bana ki ka mbalu arturo, manga mamatu forte politu",1.0,0.4756
+859,De nyoa kam de wó taa zaŋe wɛɛne mo wuu.,"Dị ṅụọ aka, dobe taa zị anyị wee nụ.",0.9,0.6667
+860,"Kokuri to, amo yei a wɛleera yam ni ne.","Kukurtoo, an yii awali raayan ni",0.8889,0.4483
+861,Da yarepɛ dɛ dem wó taa ye de yera mo amo ŋwaane.,Gaa na-agba mbọ na-eme kwa ụbọchị ihe a na-agwa gị.,1.0,0.8649
+862,Sampwori sem de ma da ba to tega ne.,sun puru sun dun ma da,0.8889,0.7037
+863,Amo wó pa se n ji a kaane ye n ta‑n wo a tei ne taa wuu.,Amuwụpa sị e ji akanịye entanwụ teni taa wụ.,0.8824,0.3421
+864,Nmo ná wae n dwoŋi n wola leile.,Mụ na nwa m dọrọ nwele,1.0,0.625
+865,Mahalafa ma lo bakeiri setɔ o pa Rehoboam.,"Mahalafa, malo bekeritsy tao Oparina Hoboa.",0.875,0.2941
+866,wó guri-ba chaveera wone mo.,O guri ba chawira wona mo.,1.0,0.2727
+867,Kʋ nan yɩ sɩ DƖ vrɩ dɩbam ŋwɩa mʋ dɩ́ Yuutu Zezi Krisi ŋwaanɩ.,ኮንና ኢየሱስ ደብርደ ባንጉያሞ ዲዩቱ ዘኢየሱስ ክርስቶስ,1.0,1.0
+868,Bene dem konto ne mo Babilon teo Pɛ Nebukadeneza de déem bobo se o di o paare.,Bɛnɛdɛn kɔntrɔl ne mu Babylon tiyɔpɛ Nebukadnesar de de mbubu se odi uparɛ.,0.8235,0.3607
+869,Baŋa Wɛ zeini pɛ wolo o na kuri to.,"Banga wazini, pe wulu ona",1.0,0.5
+870,Wara-jei sem manchwoŋo ni dem maa wo wɛ-puli seeni saŋa kam ne mo.,wa ajie si m nchungho ni dem ma wu e pulu si ni sanga ka na,1.0769,0.451
+871,Ko kwaga ne o de o teo nɔɔna bam maama ma lɔ Baŋa Wɛ nia yam kwaga ne.,"K'okwaghị, odi otu onye nọ na ba mma ama mma lụọ, bịa wee nie ya nkwaghị.",1.0,0.4038
+872,Ba ye balo taane na ye de yera ye á ba ni de kuri to mo.,"भाई, बालटाने नए देहरा ये अबनी",1.0,1.0
+873,Abam balo maa na nye de Gomora tiina bam to.,Aba mbalu ma na nye di go mu re tine,0.8,0.3529
+874,"Ŋwɩa kam kʋntʋ mʋ Wɛ bǝŋi-m sɩ n ba n joŋi, dɩ nmʋ dɛɛn na zaŋɩ n zɩgɩ nɔn-kɔgɔ kʋm yigǝ nɩ n pa ba lwarɩ nɩ nmʋ tɔgɩ cɩga cwǝŋǝ kam tɩn.",O ya ka kontomè wè bènè c'est un bon jeune. De l'amour est dans l'air.,1.0,0.802
+875,kunkwon-lilirru wo o nɛ kuri ne mo.,Kunkun lulu wo ne,0.8571,0.5556
+876,Kʋ maa paɩ ba fra zʋʋrɩ wo-yɔɔrʋ zanzan tɩlʋ na wʋ́ cɔgɩ-ba tɩn.,Koma a ba fara zoro yorzan zan taro na wucewa bata,0.8462,0.4375
+877,mini delo na bá dwei maŋa de maŋa to yiga ne?,minit delo naba dwi manga di manga ton igani,0.9091,0.2941
+878,"David bu Solomon déem yɔɔre o jege o paare o di teo kom maama ne mo, ye o kuri ja tega.","David bu Solomon, dee yiri ojije opara oditiyo ka mama ya, Iheokuri, jere",0.8571,0.3538
+879,Badaara ke wo-goo mo de nɔɔna.,"Bà đã ra khi vô gù mu, đừng nói",1.5,0.7391
+880,"O maŋɩ sɩ o taa waɩ o nii o sɔŋɔ tiinǝ baŋa nɩ mʋ lanyɩranɩ, sɩ o daarɩ o pa o biǝ sɛ-o dɩ zulǝ yalʋ na maŋɩ tɩn.",O ma si ota wa oni o so ti na ba nganimu laira ni si o da re o pa obi si o di July yalo na,0.8276,0.4268
+881,"Ta n yɩrɩ n tɩtɩ, sɩ n daarɩ n ta n yɩrɩ n zaasɩm dɩm na yɩ te tɩn dɩ.",,,
+882,ne wɛle-keira na maŋe ba ke tei to na?,ne walikara namman bakit,0.8889,0.4643
+883,"Nɔɔna bam nam ná nɛ kunkwoŋo kom konto, ba wó yeini ba zege ba vwoa yam nia ne mo, ye ba chɔɔle tega ne ba zuli Wɛ.","Nona bam, nne kunkunwa ka m kuto. Ba wu ya ni, ba zuri ba vu ya ni ya ni mo, ya ba chole ti ga ni ba zuri wa.",0.8519,0.3837
+884,Á laam ma‑á go sampwori selo a na toŋe abam tei ne to.,Alama go sanpari solo ana tuni batayi,0.9231,0.475
+885,Bɛ nyenyego mo abam wó kwei á maŋe ded‑o?,"Bịa ṅyị ṅyị romụ, abamụ kwe, ama m ndị",1.0,0.5484
+886,Ba na kwei talwoŋ-ywoŋa kam konto ba pa amo to ŋwaane mo ka ye wose.,Bana kwe tallon yunga ka konto ba pantunwa mo ka yi wos,0.7333,0.3269
+887,A kwei o maama a ke n dam kuri ne.,Papa ya chụrụga sị oná chọọ nke fa nwaanyị dịkwa dị Jehova ziri dịka Chineke,1.5,2.0833
+888,"” Ba ta maa we, “Pa-na se dé toŋe nɔɔna se ba vo Siloo ba ja Wɛ ni-gwonim dakaa kam ba ba ywo-seeni.","Bụrụ na ị na-achọ ụzọ isi nwee obi ụtọ na ndụ, ị kwesịrị ịgbalị ịghọta ihe na-eme gị obi ụtọ.",1.0,0.8873
+889,ba tɔre mini ba ma zwɛ kaanem dem konto.,"Libanom varaba muri, siba kweba bamake zoe kanim kuteni dindima muri, siba madide sim batori mini bama zoe kanim din",2.2222,2.3871
+890,Baŋa Wɛ daa ma ta de Moses o we: “Pa se ba jeeli Isarele baara bam ni se n lɔre ba na mae tei.,"Banyere ihe gbasara Israel, bara ba nni siri nọrọ ebe a na-akpọ",0.9583,0.6471
+891,"Wonnu tem mo tento: Wara-vwei dem, de ni-gwonim dakaa kam, de wɛleera saarem ni-pugu kom na kwoli-ka to, dedaane wonnu telo maama na pae se vwei dem lamma to mo konto.","Nwe ntu, mụ na ntọ. Wara vu idim. Di na gwanu ndakaka. Do welu ịra sàrà ni pụgụkọ na kwelịkatọ. Dịdà ànị nwe ntụlị mààmà na pasị vu idim la matụ mọkụntọ.",1.0323,0.4531
+892,"Josia bu Jehoyakim déem na bobo se o di Judah teo paare to, mo kwora kanto tu Jeremia tei.",Josiah bu Josiah King di na bumbusi odi Judah teo pa'a retu. Mukwere kanto tu Germany ti,0.7368,0.3571
+893,á nyɔ Naili buga na bam?,año nyle,1.0,0.8889
+894,"Pɛ wom we: Yé sɛ-na se Hezekia taa jege abam o gana, se o bá wane abam o jwoŋi o yage!","Pia wewe, isemna si Hezekia tajiri Abam, ogana, si obawani Abam ujorhi, uyah",0.8571,0.371
+895,"Ko ná ye teo kolo na ye a tete nyem to, amo bobo banto baŋa ne mo se a pa ba na chɔgem.",Kuna etio koro na ye atete nyemto amo bobo banto banimo se apa bana choro,0.7391,0.1905
+896,ye wonto Jworo kom mo lage ko la-te ko ja jeeri daane.,"Ewontujorokun, mullaikollati kujajeri dani.",1.0,0.3659
+897,Job ma leiri o we: “Fɔge á cheigi-na taane delo a na jege se a ta to.,Job maler owaye faka chana tandulo anajigisa tatu,0.9412,0.3878
+898,Pɛ Rehoboam déem jwoŋi dam mo ye o paare dem kuri ja tega.,Bịa riọwa ndị ọrụ dị mkpa ga-atụgharị,1.0,0.8
+899,"Amo tete mo wó tɔge a dam baŋa ne a toŋe wo-kamunnu ye a kwaare jara de abam, a bane na tiini de fuli á baŋa ne to ŋwaane.",A mututamu to wayi a dambani atunayi wukamu nu ye akwari jara de abam abani na tini di fuli abani tunwani,0.7586,0.3626
+900,Nmo maŋe n ni Asiria teo pwa bam na toŋe tei de logo baŋa teene maama to.,Moma inni asiri atopa ba na tuni. Te di lo ba tini ma,0.9412,0.4107
+901,Ba laam ma toŋe kwora se ka yi Filisi tiina teene dem maama we ba di Sɔɔl.,"Bala ma tun ekwera, si ka ị felisite ndị mama wụrụ ndị so.",0.8824,0.4737
+902,"Amo bu, ta‑n kɔre Baŋa Wɛ de pɛ.",the,1.0,0.9091
+903,Baŋa Wɛ tete ni taane mo o déem nam popone de o jeŋa.,Bangawe di teni taani mu ode na mpoponi di ojine.,1.0,0.35
+904,Abam ta nye de bona-kana kalo na wo kagoa yuu ne.,Awantanyere bunakana kalo na uka gwa uni,0.8182,0.2703
+905,"Konto wó pa se foone daa yé ja a nɔɔna bam, ye ba wolowolo de bá jei.","Kwantopaa seefonee, dae jaa anona baa, yee ba wulu wulu, de baa je",0.9412,0.451
+906,"Moses ma zege peo kom yuu ne o tu nɔɔna bam tei, ye o zei kandwa-pelɛ sem Wɛ ni-gwonim dem botara na popone da to.",Moses ma ziri ya fịekunye ọtụ n'ọnaba nte ye oze kanda pịelesi wee nịgwene ndị batara napụpụ nị,0.88,0.4651
+907,"Ba wʋ maŋɩ sɩ ba tiini ba kwɛ ba yum ba ja gaalɩ, naa ba zuli ba tɩtɩ dɩ nɩnwaŋa wǝǝnu, kʋ na yɩ sǝbu-sɩŋa naa kandwa-ŋʋna naa gwaarʋ tɩlʋ sǝbiǝ na damma tɩn.",ba wa maza se be tin ba kwa e be yum ba ja gaali na be zulu ba titi de no nna we nu ko na yi se bu si na ka do nna na gwa ra tulu se biye na da,1.0,0.4083
+908,A wó ta de wɛyuu kunkwonnu tem se te pa doa taa nena tega kam baŋa ne.,"A thadi we yu kunkwenute, sete pa duwa ta nina, teka kam bani.",0.8235,0.3208
+909,"Ba na jaane Wɛ ni-gwonim dakaa kam ba yi ba tigisim dem jei ye Isarele tiina bam na-ka to, mo ba déem tiini ba chwoosi wɛ-wɛ pa se tega kam maama ziziŋi.",Banajanu wengwe nu ndakakam bayiyi batisini tum jeyi Izra'ila ti na banna kato mu baden tiini bacho suwewe pasitirakam mamazizi,0.9688,0.3248
+910,"Ta ke-na sabu-seŋa kwana yalei á meeli-ya dakaa kam sɛ selei sem ne, se ya maŋe de ka nia yam kuri seeni.","Daka na si bu si nga kwana yelli, a meeli ya daka ka m se siri si ni si ya manga ndi ka ni ya nkurisi",1.0909,0.3544
+911,"Kokuri to, á lɔge á Tu Wɛ wom kwaga ne.","Kukuruto, alọyị atụ wẹ wụnkọra",1.0,0.5714
+912,"” Ba ma leiri ba we, “Abam ná lage á toŋe Isarele tiina Wɛ dem dakaa kam se ka jwoori ka na nwoŋi mɛ to, ko nam ye se á toŋe-ka dedaane pɛɛre mo.",Ba ma'anar ba wai a ban nalla ga tuni izuwa tina wuri dum da ka kam sai ka jori ka na nunin meto ko na yin sai atunka da da ni,0.8182,0.5094
+913,"Kʋ yɩ cɩga mʋ, á sɩɩnɩ á soe á ko-biǝ balʋ maama na zʋʋrɩ Masɩdʋanɩ tɩɩnɩ dɩm nɩ tɩn.","W'eche ga mọ, a sị na nsogbu akụọbịa bara mama na nzọrị. Masi dịọ nụ, tienụ dịm na",0.9474,0.5781
+914,"Ko kwaga seeni, a tontoŋeno Job wó lwoori-ne o pa abam.","Koko a sị ni, atụm tọ nụ Job, wụrụ ni ọpa abụọ.",1.0909,0.5
+915,"Aron nam ná tega, se á tiŋi o kaanem gwaaro tem se te taa cheigi o bu wolo na wó leiri o yuu ne o ji kaanem nakwe tu to.",Aro ole na atiga? Si atinee okaa na ngwata siri teta chigha obulu na olere uni ojekana na,0.9667,0.5393
+916,Kago-vara tete de keeri mo ba jare nmo.,"ka gwa vara tete, di ka eru mu bajara mu",1.125,0.3
+917,Ba ma vo ba ja Yuria ba jwoori ba vo ba ke Pɛ Jehoyakim jeŋa ne.,"Bia mụ bụ, Bịa jụọ ria, bịa jụọ rị, bịa fụ, bịa kepe, jụọ ha ya ka m jị ngị anụ.",1.3125,0.5625
+918,"Nan dɩ kʋ dɩ, dɩ́ Tu Wɛ pɛ dɩbam pu-dɩa sɩ dɩ́ tɔɔlɩ DƖ kwǝr-ywǝŋǝ kam dɩ́ brɩ abam dɩ baarɩ.",,,
+919,"Nam ja pi-bea kadwoŋi kam n nwoŋi, se Aron de o bia bam laam kwei ba je ba daŋe ka yuu ne.","Nke a bu ihe a na-akpo ""Aaron"" na obibia nke mbu nke ndi Juu.",1.0,0.6667
+920,Mo kokuri nɔɔna bam konto bá dáane ye ba jei.,"Mụ gị kụri, na ọ na-abụ m kụntọ, m daa ni, ị bejee",1.3,0.5143
+921,"Dɩ́ ko-biǝ-ba, kʋlʋ na daarɩ tɩn, dɩ́ loori abam dɩ́ Yuutu Zezi ŋwaanɩ sɩ á da cwǝŋǝ sɩ kʋ poli Wɛ wʋ.","De ko bia ba, ko lo na daarta, di loori aban di yu tu ze zi nwan si ada chwanga si ku poli we",1.0455,0.3425
+922,pa o beeri nɔn-ŋom de o sɔŋɔ tiina se o de chɔge to.,"Ha obere na nwoke osu nwanyi na-ese, odichaghị",1.0,0.5
+923,Job ta ma ta o we: “Bɛŋwaane mo Dam-fɔrɔ Tu Wɛ wom wo kwei maŋa o tiŋi.,Yobta mata owee. Benwa mu danforo tu wewu m wukwe imanga uti,0.9412,0.3725
+924,Wʋntʋ doŋ tiini o lagɩ sɩ o taa magɩ kantɔgɔ mʋ wǝǝnu tɩlʋ na ba jɩgɩ kuri tɩn baŋa nɩ.,"Wunti do wunti na o laso ta mare, kan toro mu wenne tulo na ba jigi kuruten bangani.",0.9,0.4328
+925,nywoŋ-kuri de kunkworru na zoore to.,nyonkuri di kunkwero na zoro,0.8333,0.3103
+926,"Ba ta ma kwei-ka ba ke zwɛɛm kaanem dakaa kam, de ka tetare luu kom, de ka yera zela yam maama.","bá m á kwéka, báké zụé nka nụ dáká aka, díka tétara ilu ụkọm, díka ịra zụla ya ma",1.0,0.4507
+927,N ta daare n yage a wɛleera yam maama n chɛ-ne.,"ntadare, i yae awallera yam mama ncheni",0.9091,0.2286
+928,Nam cheigi taane delo a na jege se a pa nmo de nɔɔna banto maama to.,naa ncheta na na ndụ lụ ana jịgị sị apa ịmụ dị nọ na bantụ ma ma,1.0625,0.4231
+929,"Kokuri to, Baŋa Wɛ mo wó jwoŋi debam o yage.","Kukureto, banga wemu joi debam oya",0.9,0.3636
+930,Wolo na teege o tete yeino baŋa ne to ye jworo mo.,ओलेनाथ जी की अतिथियों ने बगाना तो यह जोरो,1.0,1.0
+931,o la o ke tetɔgɔ wone.,O ma nwe ike umuaka na-amu uwa ni ka ha kasulu umuaka ula oke tutu o wee ruo,2.8333,3.125
+932,"O ma vo o jei chwoŋa ni ne, se o cheigi o ni jara-keim dem taane.",Oma vudje chong'a nini? Se oche'o nni jaraken d'ntani,0.9375,0.3617
+933,Baŋa Wɛ maa we: “Amo déem na bobo a na Isarele tiina bam to.,"Bụ onye maara ihe, amamihe na gburugburu ala Israel tinye n'ebe",0.9286,0.75
+934,Abam tɩtɩ maŋɩ á ye nɩ dɩbam maŋɩ sɩ dɩ́ na yaara yam kʋntʋ doŋ mʋ.,"Aba, tɛtɛmɛn ayɛnɛ dɛba mɛnɛ si dɛna yara yam kontodun",0.9375,0.44
+935,pa se se taa chaka de wopwolo.,Passer cette attaque du,1.0,0.7391
+936,Ba nam nii-ya pa ya ye wo-veiro mo ba tei ne.,"Bana niya fa yayi, u zoro mu ba ta yi",0.9091,0.4375
+937,Yini-gwia nam wó ja wolo na kare o toŋe wo-yɔɔro to.,Ihe niile gị na nwunye gị na-akarị otu nwoke na,1.0,0.7179
+938,O ta maa kare wɛyuu siseina yam ne o via.,Ota ma kar weyu sisina yamne ofia.,1.0,0.1935
+939,Boŋe n nii n kwo Josia na ye tei to.,Bụ onye nke Josia na-etè,0.9,0.5
+940,Wɛ nam ya mo mɛ o tete jeŋa o popone o ni-gwonim dem botara ya baŋa ne.,Nwanyị na-amụ mme ọtụtụ jingah ọ pụpụlụ onigwe ne ndem bọtara ya bangani.,0.9412,0.5283
+941,Kotu ba sɛ se o pini nɔɔna se o ma o duni.,Kutuba sese upini nonu se oma oduni.,0.9167,0.2
+942,Nɛ setɔ maa wo jazem baŋa ne ye setɔ wo jagwia baŋa ne.,"N'esịtọ m ma wụ jazz m banye n'ịntanetị, esịtọ m wụ ejegụ ya banye.",1.0769,0.619
+943,"Jakob dwi dem, a lage a pa se nmo ji ne.",Jacob Didi alaha pase emoji,1.0,0.3214
+944,Ka-tola kam ye vole delo ni na ye voloa to mo.,"Katchikalam, yéwuludul ni na yéwuluto",0.8182,0.5294
+945,Ba bá wane abam ba woli de fenfee de.,baba wani abam ba wuri dafin fadi,0.7778,0.3214
+946,"Tega ná yi, ba ban-zɔŋɔ kom guguli mo.",Tegemeo baba nzongo komgugulu,1.0,0.4286
+947,Ta-na se nɔɔna bam jeeri ba vɔ ni Wɛ ŋwaane!,"Thana sunna ba, jirba vo ni we nwa ni",1.0,0.3939
+948,Ba ta swoi se ba taa kwei kekan-wogila ba pae ba jwona.,Mata suwa mata kwekankam wola bapai da,1.0,0.5
+949,"Tega na poore to, ba ma na we ba jei sem su de twa yerane mo.","Tana purutu, ba ma na wai ba jesu su de ta iran mu. Kuntu ba ni",0.8125,0.5682
+950,O ma lɛɛre o jege Isarele teo paare dem o di.,O ma lere oji Israel ti o pa adim,0.8182,0.4412
+951,ko ye n na kɔre‑o to ŋwaane mo na?,ko yi na koroton wani,0.7778,0.4583
+952,Dáane mo Baŋa Wɛ laam wó taa ye dé Dam Tu.,da nemu ba a wela wota iye da damtu,1.0,0.2903
+953,"Maŋa kalʋ na maŋɩ tɩn na yiǝ, Wʋpolo Tu Baŋa-Wɛ dɩlʋ yɩranɩ na yɩ dam-fɔrɔ tu tɩn laan wʋ́ pa Zezi Krisi joori o ba.","Maka na kalu na mma tinye ya, unu polo tuwa na we doro ya na na ya daa foro tu tinla n'upa, z'ezi Kristi joro",0.96,0.4138
+954,"Wolo ná toŋe de dɛ dem konto ne, se á go kotu.",Olatunji dédééránkọtọní ságùkùtù,1.0,0.5758
+955,Baŋa Wɛ de nam bá wane o vere Jerusalem o yage amo jeŋa ne.,Bawa wuri na ɗaya wane ofishin juma'a.,0.9286,0.6889
+956,ye á daare á dole ŋwe-choa á jare Tabora peo kom yuu maama.,"Ihe adịghị adị mma, ajọrọ. Tibura pụọ kụm yụọ ma",1.0,0.6667
+957,Ya dedɔrem baŋa ye jatwogo de noa ni maŋem kuni fintɔ.,,,
+958,Á swoi se á ta‑á jwoŋa kabworim kikia sabu.,A so se ata jonga kabbarin ka kiyasa,0.8889,0.4545
+959,"Ka dedɔrɔ baŋa maa ye jatwogo de noa ni maŋem belei de chichworo, ka kayɔlɔ baŋa de maa ye jatwogo de noa ni maŋem dedoa de chichworo.",ka ka yoro banga de ma ye jatugo di nuani mangam bili de cicuru ka ka yoro banga de ma ye jatugo di nuani mangam duwa de cicuru,0.8519,0.4245
+960,Siseiŋa maa yeigi de lu-nyenno sabu-dala bi de finnu .,"Si sà nga ma yëre, dillu ñu nu sa bu dëllë bi di fiinu.",1.4444,0.4762
+961,a lage a ma ŋwe-choa mo a che-ba a ja ne zuna tei.,አላማ መችዋሙ አቺባ አጃን ዙነቲ,1.0,1.0
+962,"Nɔɔna bam laam maa ná nwoŋi Judah teene dem maama wone ba ba ba zo da se ba zuli amo Baŋa Wɛ, se n ta kwora kanto maama n bere-ba.",na na ba la ma na nwa yi judati ni di ma ma wuni ba ba ba zora si ba zuli a mu ba nga we si ta kura kanto ma ma,0.9,0.3673
+963,"Wɛ ma leiri Solomon o we, “Nmo boboŋa yam lana dedɛ.",Onye mere Solomon oyi? Mụ bụ onye ya na ya di,1.0,0.5385
+964,Ba tega kam wó taa tigi yɔɔ yerane mo.,Batra kam wota tri yo irani,0.8889,0.4483
+965,"Nɔɔno mo tage o we, “Ta‑n tɔɔle n yaga!",na na matara wai tantali in yara a mu dima bui,1.2222,0.8889
+966,ko jeeri bwolo kolo na wo ko kuri ne to.,Kedu ihe ị boro ya ebubo na ọ kwụrụ ni?,1.0,0.8
+967,O ma kwei-se o tore kwana yana yam na wo dakaa kam sɛ sem ne to.,kwanaki 40 da suka wuce,1.0,0.7872
+968,o maŋe o ke o jaguli ne?,"Onye nokalụ si ụfụ eme mụ, ụmụ nwanyị na-anụ na-afarụ tinụ ụmụ nwaanyị oge oje gụlị",2.2857,3.3529
+969,"Daa‑n ja pi-bea dedoa n nwoŋi, se Aron de o bia bam kwei ba je ba daŋe ka yuu ne, se n laam go-ka n daare n kwei ka jana bam n zezage kaanem dakaa kam sɛ sena sem maama ne.","Dịka PBR 2 nụrụ, ọ bụ Aaron 2 bịara kwuo banyere banyere ka Yuni si na ngwụcha ụbọchị ahụ kwuo ka ya na baam. Nzọụkwụ ya ka ndị mmadụ ka na-esochi na mgbasa ozi.",0.9756,0.6746
+970,"Tete dem konto mo Wɛ veere o tete ded‑o, ye o we, “Solomon, lwoori n na lage kolo maama to, se amo wó pa‑m”.",Solomon,0.9583,0.9079
+971,Amo wó waare ba maama chwei selo ba na tɔge to ŋwaane.,Amaghị m onye nwụrụ anwụ bama ama chọsiri ike ịbụ otu n'ime,1.0,0.8333
+972,"O na joori o ba, yɩ dɩ́ na ŋwɩ naa dɩ́ na tɩga, dɩ́ ta wʋ́ na ŋwɩa dɩd-o Wɛ tee nɩ.","na Yorùbá. Ìyá náà nìyí, nà á dì náà tọ́ka. Ditta wọ́n náà wí a, dídọ́ wétè",0.9545,0.6667
+973,O ma beeri nɔn-wo-korro o de o kwaga ne pa ba vo ba dwoni de Solomon bu Rehoboam.,"Ụmụ ya bere na ụkwụrụ, ọ dị okwughari. Ha afụghị badu ni, di Solomon bụ Rehoboam.",0.8889,0.4754
+974,"á na-bale, de pipeili, de bo-bwaalo jana balo.",नाना बाली दी पिपली दे बुबालो जनाब,1.0,1.0
+975,Hezekia lwoori wolim Baŋa Wɛ tei ne.,"Hezekiah, luru walim bang'a wete",1.0,0.4138
+976,"Bɛŋwaanɩ, Wɛ dɛɛn na kɩ nabiinǝ tɩn, DƖ kɩ Adam mʋ yigǝ, yɩ DƖ laan daarɩ DƖ kɩ Awa.","Bé wani, wé dé na kiné binata déké Adamu yiga, iyé dé la daré déké",1.0,0.5
+977,Dáane ba bá taa kwei sana ba ke pɛɛra.,"Daane, babata kwesana baka pera",1.0,0.2414
+978,Ko ye o tɔge Baŋa Wɛ yere ŋwaane mo o ŋɔɔne de debam.,"Kedu otu ọbụla ọ ga-adị gị nwanne m, ọnọdụ dịdị mma.",1.0,0.75
+979,"O ná di o ti, kolokolo daa ba daara.",na duty koro koro da abada,1.0,0.3846
+980,"Dɩntʋ mʋ lagɩ sɩ nɔɔna maama na vrɩm, sɩ ba kwǝri ba lwarɩ kʋlʋ na yɩ cɩga tɩn.",,,
+981,Abam nam ná tiini á ware-ne á dáane tei maama de.,Abannan na tini awarne addani ta mama,1.0,0.3784
+982,"Ba ta ma kwei gare-fefale de gare-ŋone selo nyenyero na ye nazwon-pupwia, de nasoŋ-pupwia, de nasoŋo chwɛ-chwɛ to ba ma sɔ gare-jale delo na wó che Wɛ di-yun-gala kam to.",Bamanankaw ye garafe fale de gara nwan solo nyonyoru na ye na so pu pu ya de na so pu pu ya de na so chu chu chu to. Bamanaw so ga jali doro na,1.0667,0.4692
+983,"Pa-na dɩ́ taá jɩgɩ wʋ-dɩdʋa dɩ Zezi, sɩ dɩ́ taá soe daanɩ.","Fada dai ta jire, wanda duwatsu ze zi. Sai da ta so da",1.0833,0.5854
+984,Baŋa Wɛ ban-lom dem na zaŋe to ŋwaane.,Banga wè banlom de na zantun nwari,0.75,0.4138
+985,ye o daare o ma lu-nyenno o gɔgere de maama.,Ihe udare omalu nye nu ogori di ma,1.0,0.4242
+986,Laam pa se wolo na yei terale keim lanyerane to gwaane-te daane.,Lampa se wulo na ye trali kan la iranto wa anta da,0.9167,0.3529
+987,Nɔn-balɔrɔ wɛleera jigi da-bunnu mo ya gare‑o pa o to.,number,1.0,0.9024
+988,Te yɔɔre te dae ba ke ni ne.,To dona tini talana to tuntun balana to yoro to dai,1.375,1.75
+989,Nmo ta ma‑n tɛ we nmo yei amo wo ye a kikia su n yi.,in gaya mawo ya riki ya so in yi,0.9333,0.6111
+990,kolo ŋwaane pɛɛra daa tera se ba ma zuli Baŋa Wɛ.,"KOLONGWANI, Peraatra se Bamazulu bangawe",0.9091,0.3421
+991,"O ta maŋɩ sɩ o taa yɩrɩ o tɩtɩ, sɩ o taa waɩ o tɩtɩ o jaana nɩ kʋ na maŋɩ te tɩn.",,,
+992,o dam-fɔrɔ kom na dwoi woŋo maama to ŋwaane.,"Nnaa nforọkọm, nnedọị ụngụma matụ nwaanyị.",1.0,0.6176
+993,"Dɩbam nan ye nɩ, Wɛ na pɛ DƖ cullu tɩm tɩn, DƖ wʋ pɛ-tɩ nɔn-ŋʋna ŋwaanɩ.","de benen yene, we na pere kili timta de wo pete nona nwan",0.9375,0.5192
+994,"Ahisamaki bu Oholiaba de maa wora, o na nwoŋi Dan dwi dem wone to.",Ayi sama kebu o holiya ba dama wura. O na nuwe dan duiden,0.9286,0.3333
+995,"Ya maa wo ko teiŋa vovoa kam baŋa seeni, gare-yia yam na twoŋi daane mɛ to.",ya mawo ko tengu,0.875,0.7895
+996,Asiria teo pɛ ke chichuŋu de Judah tiina.,Asiria tyope kichichu ne Judah,0.75,0.3333
+997,ye chilibugu mo ba kwei ba lwo da.,ye chulu bugu mu ba kwe,0.75,0.4231
+998,Nam lɔɔre-na á yera wo-nyenno se Wɛ laam lɔre o na wó ke abam tei to.,Naa lorena ayiraa nyantaa suelaa lore ona wɛɛ ke abantitoo,0.9375,0.4118
+999,"Se ko ná ye nɔɔna bam, ba ta yɔɔre ba jaane wo-ywoŋo pɛɛra mo ba tui Moses tei dɛ maama zezeŋa ne, ye ya laam tiini ya gaale.","Chei, kunu enu na ba m. Bata yoro ba jaani wu yu peera m ba tu mosi te de m amasi zinga ni. Ye yele n ti ni ya gaari.",0.9643,0.4149
