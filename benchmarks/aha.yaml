@@ -95,7 +95,7 @@ benchmarks:
       cer: 0.8042
       samples: 1000
       valid: 995
-      avg_seconds_per_sample: 0.23
+      avg_seconds_per_sample: 0.21
       failures:
         TypeError: 20
   source: evaluated
