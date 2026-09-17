@@ -493,6 +493,52 @@ benchmarks:
       avg_seconds_per_sample: 0.65
   source: evaluated
   evaluated_at: '2026-08-14'
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: twi
+  wer: 0.941
+  cer: 0.5424
+  per_category:
+    bible:
+      wer: 0.6874
+      cer: 0.3289
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.21
+    finance:
+      wer: 0.7718
+      cer: 0.325
+      samples: 1000
+      valid: 998
+      avg_seconds_per_sample: 0.19
+      failures:
+        TypeError: 8
+    lds:
+      wer: 1.6893
+      cer: 1.2161
+      samples: 1000
+      valid: 995
+      avg_seconds_per_sample: 0.24
+      failures:
+        TypeError: 20
+    unicef:
+      wer: 0.8209
+      cer: 0.4967
+      samples: 196
+      valid: 195
+      avg_seconds_per_sample: 0.26
+      failures:
+        TypeError: 4
+    waxal:
+      wer: 0.7356
+      cer: 0.3454
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.24
+  source: evaluated
 - model: katrintomanek/whisper-large-v3-turbo_Akan_standardspeech_specaugment
   model_url: https://huggingface.co/katrintomanek/whisper-large-v3-turbo_Akan_standardspeech_specaugment
   owner: katrintomanek
