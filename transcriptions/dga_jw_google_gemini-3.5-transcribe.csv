@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,TA WA TERƐ SORI KA NEƐZAA VƐNƐ KA SAGEDIIBU HO NAŊ TAA A LAŊNOƆRE PUORUU EŊƐŊ NA SIGRE TEŊƐ,Pawa tresor kanie za veneka saglibu hunanta ala lorpul en en na sigri tenge.,0.9474,0.411
+1,YƐLƐ TE NAŊ NA ZANNE,Yele tu nanna zanna.,1.0,0.3125
+2,VƐŊ KA HO TEƐROŊ GAŊ KA HO NAŊ KYƐNƐ SIGRI HO MEŊƐ MEŊ,Vanka witirom gan kahona chena sigiriho mengamen.,1.0,0.4286
+3,YƐLƐ TE NAŊ NA ZANNE,Yele tenanne zanne.,0.8,0.25
+4,"A maŋ kyɛrɛɛ fẽẽ ka N nyɛ accident, kyɛbee N maŋ de la a lɔɔre te va boma mine naŋ are?","M'an kyere fĩ ka m'enyɛ accident, kyɛ bɛ m'andɛlɛ a lora to vabu m'mine naŋ ara.",0.8095,0.3385
+5,GYOOB YƐLƐ ŊA NA BAŊ SOŊ TEŊ KA TE NYƆGRƆ TE MENNE,"Jo biɛlɛ nga na ba soe nten, katenyoro temene.",0.9167,0.359
+6,Bon nanso ka Naaŋmen tere sori teŋ dire dɔgɛɛ,Bona so kana montessori tendere doge.,1.0,0.3243
+7,"Sobuoŋ ka a Baabole vɛŋ teŋ baŋ peɛlaaŋ ka ka Jehoovaŋ wa di suuri ko te, a ba la seŋ ka te vɛŋ ka a dɔnnɔ te?","Sobu ka ababul 20 n'baampiela nka ka Jehova wuli suri kote, abale si nka 20 ka adonoti.",0.8889,0.4146
+8,Hulda Da Toɔ̃ Ta La Yɛlɛ Na Oŋ Da De Biŋ O Nimitɔɔreŋ Na,"O da, da tuon tala yele na o da dibing o nimi toore na.",0.7143,0.3333
+9,Jehoova da wuli teŋ ka o sereŋ eɛ siri ka o kaa te zu. Yɛlɛ yoŋ aŋ da seŋ ka te e la ka te de o Naaloŋ yɛlɛ de weɛ te zemmo poɔŋ.,"Daho ba dauli zinka, o siri ya siri ka alka tizu, yela yong anda zinka te elaka te de onnalo yela di wete zama puan.",0.8235,0.3936
+10,Bonso aŋ e nimizeɛ ka noba naŋ waana ka ba kultaa de emmo ko Jehoova ba kultaa bebiri?,"Bonsaane, nimbie zi'a ka nuba na nwa na ka ba kul taa di'e muku Jehovah gba kul taa bebiri.",0.8889,0.2353
+11,WALA HOŊ NA IRI A NOƆRE?,Wa na ho na iri annuore.,0.8333,0.2778
+12,Bonso aŋ ba fɛre ka te baŋ bieu yɛlɛ sɛre kyɛ na baŋ taa popeɛloŋ?,"Bonso, Amba fere. Ka ce ban biyu yele, sere ce na ban taa po piiro.",0.8,0.3137
+13,WALA HOŊ NA IRI A NOƆRE?,Wala honne iri annuore?,0.6667,0.2778
+14,Maŋ Moɔrɔ Ka Ho Manne Yɛlɛ Na Hoŋ Zanne Na Ko Ho Taaba,M'mora ka homma na yela na ho zana na ko taba.,0.6923,0.3571
+15,LƐ TEŊ NA BAŊ E TAA POPEƐLOŊ KYƐ NAŊ KYƐNLƐ,Lɛtin a bayɛ ta popieluŋ kyɛ na nchale.,0.9,0.4118
+16,"Te na zanne nyɛɛ tɛɛtɛɛ naŋ be yelmeŋɛ na te naŋ zanne yi Jehoova zie, ane zirii na Setaana ane te dɔndɔnne naŋ ŋmaara na kpakyagaŋ.","Tenzan nye tete nambe yelmenge na tenzan yi Jehova zie, ani ziri na sita na anentidondoni na nwara nakwacha gaa.",0.8462,0.3429
+17,"Ka ba naŋ yelka Jehoova de la o yuori na ko Yezu, wala ka lɛ wuli?",Kaban yele ka Jehova dili oyoru na ku Yesu wala kale wuli.,0.8125,0.2245
+18,Gyoob Gane Na Na Baŋ Soŋ Boŋ Ka Ho Terɛ Kawaŋ-Sonne,Job gane na na ba nsombon ka ho tere ka wa sonne.,0.7273,0.2
+19,NAŊ KYƐNƐ TU PUORE SƆROO EŊƐŊ A TAGRA PEƐLƐ JEHOOVA,Nanchina tupur saro eneng attagara piele Jehovah.,1.0,0.4762
+20,Sobuo ka Jehoova da maŋ tu kyɛ korɔ a Izerayɛl biiri sowuli?,Sobuo ka Jehova damantu chakkora Israel biri soole.,0.8333,0.3125
+21,De Apoɔsori Ho Naŋ Taa Ka Ho Puoro Jehoova O Siiloŋ Ŋmenpuoredie Naŋ Tegroŋ Yaga Zaa,Di apozol nansa ka hupuro Jehova osiromwin pur di na tigero yagaza.,0.9375,0.3913
+22,"Aneazaa ka a Kyɛrite noba, a Pɛlite noba, ane a Giti noba da ba e Izerayɛl biiri, kyɛ ba da taaɛ gyeremɛ naŋ e zuluŋ a ko Jehoova a yelmeŋɛ Naaŋmen, a neŋ neɛ na Jehoova naŋ sɔ naaloŋ kãã na. Deevid niŋe da paalɛɛŋ yaga zaa neŋ lɛ na a dɔbɔ ŋa naŋ da be o zieŋ a dire yelmennoŋ koroo na!",Azaan no yalabare.,1.0,0.9315
+23,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,Suri adan yelebu nanchu anya iyebo.,1.0,0.3846
+24,TƆNƆ NOBA NAŊ BE A SIILOŊ POƆ PARADIISI NAŊ NYƐRƐ,Tana nuba na mbe a seelumpuo paradisena nyere.,0.9,0.375
+25,MOƆRƆ HO MOƆBO ZAA A SONNƆ HO TAABA,Mwaa ro mwaa za a so na ko taaba.,0.875,0.4643
+26,"“Naaŋmen naaneŋ maale boma, boma la leɛre a menneŋ a wa bebe.”","Naa winnane mmaale buma, buma liri a menne awa bebe.",0.8333,0.2766
+27,YEZU POƆ MAŊ PƐLEŊ KA TENEEŊ WA PUGIRO JEHOOVA YUORI,Yezu po ma pɛlɛ ka tɛnɛ wopugulo jogu ba yori.,0.8,0.3953
+28,YƐLƐ TE NAŊ NA ZANNE,Yele tenna na zane.,0.8,0.3125
+29,WALA HOŊ NA IRI A NOƆRE?,Wala hunna in anwari.,0.8333,0.3889
+30,"Mɔɔ kyɛ kanna gama na zaa ba naŋ maŋ iri teŋ de pono korɔ noba na, a maŋ kaa vidiori ane boma na zaa ba naŋ maŋ de eŋ jw.org zuŋ na.",Mụ onwe m ka na-agamanazị abalịịma iri tupu ndị polisi kụrụ n'ụlọ m. Ama m ka a vidiyoere a na-ebumanazị abalịịma ndị jw.org zụrụ nna.,0.9375,0.4694
+31,SOŊ HO BAABOLE ZANNEZANNA KA O ZƆƆTOƆ̃ YELKPEƐNE NA OŊ TUORO NA,Sohaba wanzanna kawo zoto yarepiena untorona.,1.0,0.451
+32,Wala ka a ŋmenpuoredie na Soolomoŋ naŋ da mɛ na varanda da do seŋ?,Wala ka nimpure di na Solomon nanda mena varanda do dosi.,0.6429,0.25
+33,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,Sori a dayɛlɛbonan tu anya yebo.,0.625,0.2308
+34,Naaŋmen Nɔmmo Bebeŋ Tegitegilɛ,Naa mennɔnɔmɔ bebe ntektigile.,1.0,0.3333
+35,bo yɛlɛ teŋ na baŋ sagedi peɛlaaŋ?,Bòyèla tinnabansar de pialaan.,1.0,0.4444
+36,BON NANSO AŊ SEŊ KA TE SAGEDI KA JEHOOVA NƆNƆ TEŊ,Bunnin su an san ka ti seridika Jehovah nọ nọ tin.,0.9091,0.4103
+37,yɛlɛ Jehoova naŋ erɛ pampana?,Yele gyoo bana era pampana.,0.8,0.3333
+38,Te na zanne nyɛɛ ananso te naŋ maŋ pugiro Jehoova yosoŋ na wagre zaa te naŋ wa nyɛ a vuo ka te e lɛ.,"Tinasan nye anaso tinan ma puguro Jehova yuoso na, wa grizar tinan wanye avuo kata ele.",0.9167,0.2763
+39,"WALA KA NOBA DA MAŊ E TAKOREŊ SAŊA NA, KYƐ TOƆ̃ PƐLE JEHOOVA POƆ?","Wala kannu ba da man e ta korong sangana, cha tuon piere Jehova puo.",0.7857,0.3878
+40,YƐLƐ TE NAŊ NA ZANNE a,Iye le na nazaane.,0.8333,0.4118
+41,Bo tɔnɔ teŋ nyɛrɛ yire a yɔɔdeɛbo eŋɛŋ pampana?,Butchano,1.0,0.8947
+42,"Azuŋ “a malekere ba naŋ kaa-iri” ka Pɔɔl yel ba yɛlɛ na eɛ malekere naŋ be sazuŋ a tonɔ toma sonnɔ “Naaŋmen ane . . . Krista Yezu,” a lɛ sɛgre na boɔlɛɛ Naaŋmen ane Krista Yezu meŋ.","Azum, malikrena banenka ire ka puori yelba yelena e malikrena mbe sazum attu attu masunna na ngwon ane Kristo Yesu. Alle sari na buole na ngwon ane Kristo Yesu men.",0.9143,0.3731
+43,c A FOTO POƆ YƐLƐ: Te yɔɔpɔge kaŋa naŋ e woŋo la teɛrɛ a Baabole nɔ eŋnee yɛlɛ a ŋmeɛrɛ a yiele vidiori na kaŋa ka a somoo ka o ŋmaa lɛ zemmo naŋ na waa a Paradiisi poɔŋ yɛlɛ foto o teɛroŋ poɔŋ soŋ.,"Yelbie nan chara photo kanne nka, tuopuo ka ana yiwu onwela tiara ba abuna eniyere, and yere ayi ire video na ka nga ka asumo ka onwa lezi muna na waa paradise puo nyere photo, otiare m puo son.",0.8889,0.5921
+44,bo yɛlɛ mine la teŋ ba baŋ?,Bọlɛm nɛla ti mba baŋ.,0.8571,0.35
+45,JEHOOVA “GYOGRI NA NIMIE NAŊ KOŊ BAŊ NYƐ NA KYAANƐƐŊ”,Jehova yori na nimie na nkombaanya na chaane.,0.7,0.2857
+46,YƐLƐ TE NAŊ NA ZANNE,Yele chana zanne.,0.8,0.375
+47,YƐLƐ TE NAŊ NA ZANNE,Yele tu nanna zanne.,0.8,0.25
+48,LƐ HO NAŊ NA TOƆ̃ E A ZANNE BAABOLE DAŊYELBO SOŊ,Lɛ hɔna na tɔ̃ a zane Bible dan yeli bo sɔ̃.,0.9091,0.3243
+49,Ananso Aŋ Da Waa Ŋa A Koŋ Baŋ Nyɛ Eebo,"Ananso a na wa'a nga, a kumbanye i bu.",0.7,0.3448
+50,ASEŊ KA TE TAA SAGEDIIBU SƐRE KYƐ NA BAŊ E NEMMENNE NAAŊMEN NIMITƆƆREŊ,A sin karatta sardibu sare kyena ba A na menne na anwene ni mbi tooreng.,1.0769,0.3793
+51,a Zenɛ ŋa ona la Te Kristabiiri Zemmo Ane Te Naaŋ Moɔloo Toma—Lammo Yelsɛgraa Gane na .,"Amunizie yela na kanne nka, zine nga onalate krisita biiri zimo a nete na muolo tuma na muo ya sagara ganna. Amunizie yela na baare.",1.5,0.8261
+52,A LAMMORE DA VƐŊƐƐŊ BAŊ TAA NOƆREYENI,A lamre da vɛngɛ bantaa no ri yeni.,0.8571,0.2581
+53,"Ka hooŋ kaa te gama na poɔŋ, ho na nyɛɛ fotori yaga naŋ wulo yelnimizeere. Wala hoŋ na baŋ e a nyɛ tɔnɔ yaga zaa yi a fotori ŋa poɔŋ?","Ka hoŋ ka te gama na puo, ho na nye a future yada na uŋ lo el nimbiri. Wala hoŋ na ba e a nyetuona yaga zaa a futuore na puo.",0.6333,0.3366
+54,YƐLƐ NAŊ NA BAŊ SOŊ TE KA TE TA TEƐRƐ TE YOŊ YƐLƐ BEE A TEƐRƐ KA TE SEƐ LA TE TAABA,"I yela na na baa sonte ka te taa siere ti yelyele, be a siere ka te siere taaba.",0.6818,0.4194
+55,YEZU DA MAŊ TU LA NAAŊMEN BONMAALEE EŊƐŊ A KYƐ WULI NOBA O SAA YƐLƐ,"Yie zu Daman tula na amen bo maale enye, a che wulo nuba osa ayile.",1.0,0.283
+56,"Ka Posãã Yɛlɛ Mineŋ Wa Kyoɔre Ho Eŋɛ, Kyɛ Ho Naŋ Na Baŋ Moɔ̃ La Niŋe A Puoro Jehoova","Kapsayel minan wa choro ho eŋe, ce honanabong mola neng apuro Jehova.",0.8947,0.3906
+57,WALA HOŊ NA IRI A NOƆRE?,Waa yahu na ir anuore?,0.8333,0.3889
+58,TE DA EƐ BOOREE NAŊ DA DE TE WAGRE ZAA TONƆ A NAAŊ MOƆLOO TOMA,"Sori, yaa boori na daa di so wagre zaa tuuro a naamu olo tuume.",0.8,0.5208
+59,MOƆ̃ NIMIRI A TAGRA PEƐLƐ JEHOOVA,Mwenimre atara pele Jehovah.,1.0,0.3333
+60,"Ka neɛ kaŋaŋ wa te zie a wa sɔre kawane, wala aŋ seŋ ka te e?","Kani a kanga wati zie a wa soro kawane, wala an sanka te?",0.625,0.2727
+61,Bonso aŋ soma yaga zaa ka te sage ka Jehoova baŋ teŋ velaa zaa?,"Bonso, a Somaliland gaza, ka te sarka Jehovah bantimulaza.",0.7857,0.3673
+62,YƐLƐ TE NAŊ NA ZANNE,Yela tina nanzanne.,1.0,0.3125
+63,Baapaalba—Wala Yɛŋ Boɔrɔ Ka Yɛ Zemmo Waa?,"Ba palaba, wala yambora ka ya zem wa.",1.0,0.3333
+64,BO YƐLƐ KA JEHOOVA EŊ TE NOƆRE?,Bong yele ka Jehovah entinwori.,0.8571,0.4583
+65,"Ka Hooŋ Teɛrɛ Ho Taaba Yɛlɛ, A Na Baŋ De La Maaloo Yaga Wane","Ka ho tiere ho taa ba yele, ana ba ndila maalu yaa gaa wani.",0.8571,0.3043
+66,VƐŊ KA NAAŊMEN YELBIRI NA EŊ BO FAŊA,Vɛn ka na nwe nyɛlibiri na i mbo faa nga.,1.0,0.3793
+67,N booree deme bee N zɔmenne yeleeŋ ka ba pulaa teɛrɛŋ neŋ lɛ na maŋ mɔnɔ a lɔɔre bee?,Mbori de me bi n zaa mine yele n ka ba pulat sere ne le na ma mona alora be.,0.8947,0.3939
+68,Ananso Aŋ Da Waa Ŋa A Koŋ Baŋ Nyɛ Eebo,Anaso a da waana a kumbanye ebo.,0.8,0.2414
+69,Soŋ Ho Baabole Zannezanneba Ka Ba De Gbɛre A Wa Puoro Jehoova,"Sohaba zane zane ba, kabetegbere awor poro Jehovah.",0.9167,0.34
+70,ASEŊ KA TE TAA TEƐROŊ SOŊ A KYAARE TE PUORE SƆROO,A sɔŋ ka taa tiarong sɔŋ a charity pool sorrow.,0.8182,0.4872
+71,"SAŊA na maŋ da e bibile na, ka maaŋ wa nyɛ aeroplane naŋ egrɛ sazuŋ, a maŋ vɛmeŋ maŋ meŋ boɔrɔ ka N kpɛ kaŋa a ɛge gaa paaloŋ yuo kaŋa. Kyɛ N da teɛre ka lɛ daŋ koŋ baŋ nyɛ eebo zaa.","Sana manda a bible na ka ma wa nye aeroplane na ege sazon, a ma vengen ma min buora ka mkpe ka a ege ga pa alu yuo ka. Che nda tiere ka le da nku mbanne i buzaa.",0.814,0.3529
+72,YƐLƐ NAŊ NA BAŊ SOŊ BO HO ZANNOO POƆŊ,Yella nanna ban somboho za no puo.,1.0,0.3793
+73,WALA HOŊ NA IRI A NOƆRE?,Walla huna ila anwar.,1.0,0.4444
+74,BO SAŊA AŊ SEŊ KA TE “BOƆLE A LANTAAPUORUU NEMBƐRƐ”?,Bui sanna an sanka ti bu wolo alantapuro nembere.,1.0,0.45
+75,Ananso la wala teŋ na baŋ sagedi ka Naaŋmen poɔ pɛlɛɛ te yɛlɛ?,Ana sụla wala tinna ba nsagidi ka na-anwe mpuo peleeti yele.,0.8462,0.3469
+76,BONSO TEŊ MAŊ PUGIRO JEHOOVA?,"Bonsoir tout le monde, pour le Jéhovah.",1.4,0.7917
+77,wala teŋ na baŋ e ka teneeŋ ba wa taa a boɔbo?,Wala tina baa e ka tina mba wa taa abuo bo.,0.5833,0.2647
+78,"Ka teneeŋ taa nɔmmo ko Jehoova ane te taaba, sobuo aŋ na baŋ soŋ te ka te taa popeɛloŋ a naaŋ moɔloo toma poɔŋ?","Pattale n taa nombo kuji Jehova anet taaba, sobo a na ba sonte ka ti taa puoriŋ anaa muolu tuma puoŋ.",0.7917,0.3605
+79,"Oo Jehoova, ho na go baŋ;",O Jehova huna gbang.,1.0,0.3333
+80,SETAANA MEŊ DA POƆ LA BA EŊƐŊ A KPƐ JEHOOVA ZIE,"Sitaana menda puola ba enyeeng, akwe Jehovah zie.",0.8182,0.3784
+81,TE NA BAŊ DƐLƐƐ JEHOOVA KPƐLƐŊKPƐLƐŊ KA O NA PAALƐƐ O NƆ-ENNEE ZAA,Tuna baa ndɛle Jehova pɛlɛ nchɛlɛ ka o na paale ọnọ enɛɛ zaa.,0.6923,0.3396
+82,Bo yɛlɛ teŋ na baŋ e a de wuli ka te taaɛ gyeremɛ ko te booree deme?,Bòyà ná tìnnàbà è àdùwúrí kàtà tàà jèrmà kò tò bòrì dèmé.,1.0,0.6471
+83,ANANSO LA WALA AŊ SEŊ KA TE BAŊ “A SAMUN-GƆƆ SEŊ” ANE “A SAMUN-DURI SEŊ” NAMINE NA YƐLƐ?,Annan sulawula an sin kataban a semunugo sin anee a semundrusin nna mine na yele.,0.8333,0.3594
+84,a A zannoo ŋa na soŋ teŋ ka te nyɛ ananso teŋ na baŋ dɛle Jehoova ka o na iree te puoro nɔɛ ko te nɔmmo ane dantorii soriŋ.,"A zano na na sonteng, katinya ana nso tin na ban da Jehovah ka ona ire ti puoro nua kute nombo anin dan tori sorin.",0.8276,0.2979
+85,Ananso la wala ka a Hiburu Kristabiiri yɛlɛ da ferɛ a bitontona Pɔɔl?,Anansesɛm a ɛfa Kristofo bi a yɛde afiri Agyenkwa Paul.,0.9231,0.6071
+86,aŋ soŋ bo ka ho naŋ kyɛnɛ puoruu yelmennoŋ poɔŋ?,Sopo a sombo ka ho na kyenepolo yeli me no mpuong.,0.9,0.5
+87,Bo yɛlɛ mine la ka kultaa deme na baŋ e a de wuli ka ba wulee taa gyeremɛ?,Bòyɛlɛm nɛla ka k'ulta deme na baŋ a adi wulkaa ba wule taa jiri mɛ.,0.6667,0.2321
+88,Bonso aŋ soma yaga zaa ko te ka te tagra peɛlɛ taa?,Bolsu ar Sumaya Raza kote katachakara piyeleta.,1.0,0.4103
+89,Yelbie Naŋ Na Baŋ Dii Te Sukyie Ka Teneeŋ Wa Kono,"A daga na mbebe na puo yele ka nne ka, yelbie na nna be ndi tisuchie ka tene nwokunu.",1.5455,1.0256
+90,Naŋ Kyɛnɛ Tuuro Jehoova Sowuli,Naa kyeneturo Jehovah soore.,1.0,0.3846
+91,Wala hoŋ na baŋ e ka nɔmmo ho naŋ taa ko Jehoova na maaleŋ e kpeɛŋaa?,"Wala huna ban e kanno ngbena hu na ta ku Jehova na, maale ekye nga.",0.8125,0.3774
+92,ZANNE YƐLƐ YI MOOSIS NEŊ A IZERAYƐL BIIRI ZIEŊ,Zanielle yiri Moses na Ezra birizie.,1.0,0.4474
+93,"Sobuo ka Jehoova na tu a sãã Setaana donɛɛ ŋa? Bo ka Jehoova erɛ pampana, ka lɛ na vɛŋ ka o poboɔbo na nyɛ eebo?",Sobuo ka Jehova na tu asaa setana dunenga. Boka Jehova era pampana ka le na ven ka opobuobu na nya ebo.,0.64,0.2118
+94,"Aneazaa ka ho koŋ baŋ wuli ho serɛ yɛlɛ zaa naŋ seŋ ka o e, kyɛ yɛlɛ mine bebeŋ hoŋ na baŋ e ka a soŋ bo ka ho taa sukyirimaaroŋ. Te nyɛ yɛlɛ hoŋ na baŋ e.","Anyi ezaaka okwu mba nwere gosiri yele zaa na nse nke oyi. Chee, yele me na ebebe unu na baa i ka aso mbu ka hute asuchiri ma aru. Tinye yele hu na baa i.",0.8684,0.4435
+95,"Ka noba naŋ waana ka ba kultaa naŋ vɛŋ ka ba kultaa na e mɔlɔ, sobuo aŋ na baŋ soŋ ba?",Kanna ba na wa na kaba koro ta na ba kaba koro ta na imoro soburo anaba sumba.,0.9048,0.3906
+96,ka o baŋ yɛlɛ naŋ pigruu sori ka o de gbɛre a puoro Jehoova?,"Ka o ben yele ne pigru suri, ka o degere apuore Jehovah.",0.7143,0.2826
+97,SAŊA NA TE YƆƆDƆƆ KAŊA BEE TE YƆƆPƆGE KAŊA NAŊ WA E BO YƐLƐ NAŊ BA SEŊ NEŊ,Sãna ti yoro ka na biiti yopo ka na na wa ebo yele na mba senne.,0.9444,0.4386
+98,"Vɛŋ ka a pɔge baŋ ka Jehoova, a nembɛrɛ ane a lantaapuoruu deme zaa nɔmooŋ, a taa gyeremɛ koo, ka o yɛlɛ meŋ fɛre ba yaga zaa.","Venta por banca Jehovah, a ne m bere a ne alanta poru de me zaa nomon. Atā jiri me ku ka uyɛlɛ min fere ba yahaza.",0.8889,0.3542
+99,Bonso aŋ ba soma ka neɛ naara ka o de suobu?,Bonso amba soma kani na ara ka o di suo bu.,0.7273,0.1212
+100,MAŊ TAA GYEREMƐ KO HO TAABA TEƐROŊ,Manta jiri me ko huta batieru.,0.8571,0.4643
+101,JEHOOVA NƆŊƐƐ O YELMEŊƐ PUOREBIIRI,Jehova nong'e oyiel muna puor biri.,1.2,0.3667
+102,YƐLƐ NAŊ MAŊ E SUOBU DEEBO SAŊA,Yele na ma isobo deba sanga.,1.0,0.44
+103,Ho na baŋ teɛrɛɛ yɛlɛ mine meŋ poɔŋ Jehoova naŋ wuli ka o maŋ paalɛɛ nɔɛ na zaa oŋ eŋ na bee?,"Naanbɛrɛ yele mine na m puo, Jehova na nwulkaa, o ma mpaare nno na zaa o nna be.",0.8182,0.4085
+104,noba naŋ de suobu na baŋ wuli nimipa ko a yɔɔdeɛbo sareka?,Subu kanne ba na di subu na ba wuli nimepa ko ayuodibe.,0.9167,0.5
+105,Ho mãã la ho meŋɛ a kanne a yuoni ŋa Kaakaara Ziduoruu na velaa zaa bee? Kanne a nyɛ ka ho na baŋ iree a soorebie ama nɔɛ bee:,Pomaala hommenye akanne ayuoni nga ka kara ze doro na vlaza bee. Kanne anye ka ho na ba ire asur bie ama no bee.,0.7241,0.2708
+106,"Te na nyɛɛ yɛlɛ naŋ na baŋ soŋ noba naŋ tuuro taa ka ba tutaa na gaa te baare soŋ, ane lɛ a lantaapuoruu deme naŋ na baŋ e a soŋ ba.","Tunaa zannye yelaa na nabaa soŋ nuba na nturo taa ka wato taa na gaat baarsong, anii la aal ta puoru demi na nabaa a soong ba.",0.75,0.3535
+107,Ananso la wala ka dɔɔ neŋ pɔge maŋ tuuro taa?,Anasela wula ka doonim pogman tuuta.,0.9,0.3714
+108,Dɛle Jehoova,"A fũtĩ na bibe na pwoyala, ti yà pwo ka ala maala obuma binne zi paala ka a ona nga, achɛle zi ka o pɛne fĩ achɛ kane a Baibolo.",15.0,8.1818
+109,"Baŋ ka ka neɛŋ toɔ̃ bare pornography kaabu gba, kyɛ aseŋ ka o naŋ kyɛnɛ nyɛrɛ sommo naŋ seŋ neŋ a toɔ̃ tage o meŋɛ yi a poɔŋ kpɛlɛŋkpɛlɛŋ.",Bankah kadi a tom bari pornografi ka abugba te ase nka wu na nchare nyere su muna nse nne atuo tagi omenye yi apuo nkele nkele.,0.9655,0.4528
+110,"Sɛgre yaga be la a Baabole poɔŋ naŋ wulo ka Jehoova maŋ nyɛɛ kuori na zaa te naŋ maŋ kono na, a e siri meŋ ka o soŋ te. Te nyɛ a mine:",Sịrị m ka ọ sị m tee aka mụ na Jehova na-akparịta ụka na mụ na ya dị ná mma.,0.9394,0.7475
+111,Wala teŋ na baŋ e zo a nyɔvore zoobu te baare?,Wala tunna baa izu anya vu izu oboti baari.,0.9091,0.3714
+112,WALA HOŊ NA IRI A NOƆRE?,Walla hunna ida nware.,1.0,0.3889
+113,YE MƆƆ KYƐ BAŊ TAA SOŊ,Yɛn mo chabba n taa sɔŋ.,0.8333,0.5294
+114,"Ho tɔ kaŋa na baŋ iree ho suuri, kyɛ a be la ho zieŋ ka ho di suuri ko o soba bee ho koŋ di suuri koo","O tɔka nga na ba yiri husuri, ce abila hu zie ka hu di suro ko suba, bee hu kundi suru ko.",0.8148,0.3378
+115,YƐLƐ TE NAŊ NA ZANNE,Yele tɛ nanna zanne.,0.8,0.25
+116,A zannoo yɛlɛ ane a vidiori na naŋ be “ Was It Designed? ” zie na,A za no yelle ane a video rina nna mbe was it designed zine?,0.6429,0.2128
+117,ka te maŋ teɛrɛ yɛlɛ aŋa Jehoova?,Katmang siere yeli na Jehovah.,1.0,0.5
+118,A Somaŋ Ka Te Tagra Peɛlɛ Taa!,Asumaan katatara pialeta.,1.0,0.3913
+119,Ka teneeŋ wa woŋ zirii noba naŋ ŋmaara kyaara a laŋnoɔre puoruu wala teŋ na e?,"Ka tuu wanziri nuba na mara kyara ala nuor puru, wala tin na e?",0.75,0.3548
+120,Ho Na Baŋ Zannɛɛ Yelnimizeere A Yi Fotori Naŋ Be Te Gama Na Poɔŋ,Kwanabanzanne yel nimbizere ayi fotore na mbe tigamanapuo.,1.0,0.2745
+121,"Ka teneeŋ nɔnɔ Jehoova, a ba boɔrɔ ka te daŋ e yelzaa naŋ na sãã o poɔ a kyɛ taa sigrimennoŋ meŋ, sobuo aŋ na toɔ̃ soŋ te ka te wa baŋ a yelmeŋɛ a kyɛ tuuro a yelmeŋɛ?","Katalen ne Jehova abapuoro katida eyel za na na saa opuo, ache taa sire me nome, sobu ana tuo sonte kat wa bang ayel me, ache tuoro ayel me.",0.9231,0.344
+122,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,"Sori, a dayɛlɛbu nanchu a nya ebo.",0.625,0.3462
+123,AMINEKAŊAŊ JEHOOVA KOŊ IRI TE PUORO NOƆRE LƐ TEŊ KAARA SORIŊ NA,A mine ka nga Jehovah kun iri puoro nuor letin kara sorinna.,1.0,0.3269
+124,wala teŋ na baŋ e a taa a boɔbo?,"Wala tunna baa'e, ataa'a buobu.",0.8889,0.2609
+125,Wala ka Yezu e wuli ka puoro yɛlɛ eɛ nimizeɛ koo?,"Wala ka Yesu e wulika, kureyala e numizia ko.",0.7273,0.2895
+126,"KA BA NAŊ WA DE A YELBIRI SUKYIRIDII TOŊ NEŊ TOMA A BAABOLE POƆŊ, WALA AŊ MAŊ WULI?","Kabanan wa de ayelbere sekyire de tonen tuma abaye bupuọ, wala amma nguli.",0.8333,0.3281
+127,Ananso Aŋ Da Waa Ŋa A Koŋ Baŋ Nyɛ Eebo,Anaso anda waanga a kombanya ebo.,0.9,0.2759
+128,JEHOOVA MAŊ GORO TEŊ,Jehovah maŋ koro chɛŋ,0.75,0.3529
+129,ANANSO LA WALA AŊ SEŊ KA HO DE HO MEŊƐ KO JEHOOVA?,Anasola wula asen ka gudeho menga kye Jehovah.,0.9167,0.3421
+130,"Saŋa na dɔɔ kaŋa naŋ be Korinti naŋ da ba e kaŋdabaŋkalɛ o yelfaare yɛlɛ na, boŋ ka Pɔɔl da yelka a lantaapuoruu e?","Sero doka na nbe Korinti na ndaba yi ka ndaba nkale oyel fare yele na, bo nka Paul da yel ka alanta puru e.",0.9167,0.2778
+131,TE MAŊ MOƆLƐƐ A DUORISOŊ TE NAŊ NƆŊ NOBA ZUŊ,Tamong maale aduoro soŋ tenan no nuba zuŋ.,0.9,0.3714
+132,Sori Ho Taaba Naŋ Na Baŋ Tu A Soŋ Bo,"A daggane mbebe na puo yela ka neɛ nka, soro hɔ taaba na nna be ntu asombo.",1.7,1.3333
+133,Bo yɛlɛ mine la teŋ na baŋ de poɔ te puoro poɔŋ?,Bòyɛlɛ mɛnla tin na gba ndi puori puoro puong.,0.8333,0.4167
+134,Bo teŋ na baŋ e a wuli ka te taa la sagediibu?,Boti na baa e a wuli katitaala saakdibu.,0.6667,0.2059
+135,JEHOOVA NEŊ YEZU BA NƆŊ DAŊKYAGRE,Jehovah ne yɛ suban naondan kyare.,1.0,0.3929
+136,ZANNE YƐLƐ MINE EEBO NAŊ NA BAŊ SOŊ BO HO ZEMMO POƆŊ,Zaniel ne ebo na nna ba nso bu hozi puo.,0.9167,0.439
+137,Wala teŋ na baŋ e a wuli sagediibu ka teneeŋ wa boɔrɔ te puoro nɔɛ iribo?,"Wala tin na ba e, a wuli sardi bo ka tin na buore ti puoro nuori iribo.",0.5625,0.3509
+138,Ho Na Baŋ Wulee Tɛɛtɛɛ Naŋ Be Yelmeŋɛ Ane Zirii Kpakyagaŋ Bee?,Naa baa wuli teete nambe yelmenne a ne ziri kwachagaa bii.,1.0,0.42
+139,YƐLƐ TE NAŊ NA ZANNE,Yele za nanda zane.,1.0,0.4375
+140,TAGE HO MEŊƐ YI A LIGROŊ POƆ,"Chake homeng'e, yi aligru mpuo.",0.8571,0.4545
+141,Te nyɛ tɔnɔ teŋ na baŋ nyɛ yi a siiloŋ poɔ paradiisi na poɔŋ ane lɛ teŋ na baŋ e soŋ noba ka ba meŋ wa be o poɔŋ.,TINYE TƆNƆTƐ NA BANYE YI A SAIL & MPƆ PARADISE NA PƆƆNG: A ni le na ba yisuu nuba ka ba min wobe ofuɔɔng.,0.7586,0.381
+142,“Pugiro Jehoova Yuori Na”,Pugro Jehovah yuori na.,0.5,0.15
+143,Bonso teŋ na baŋ yelka Yezu potuuro Marko eɛ ewuli soŋ a ko pɔlbilii?,Bonso naba yelkaaye zoputuuro mako iye i wuli so a ku Paul Billy.,0.9286,0.3091
+144,MAŊ TEƐRƐ A YƆƆDEƐBO YƐLƐ GƐRƐ TƆƆRE,Mansiɛre Ayodia bu yele gɛre tɔri.,1.0,0.4667
+145,"Die na te naŋ da ha Karttula, Finland paaloŋ","Yeli biɛ na nimbɛ a foto puli na ka nɛnka, biɛ na kynan da ha katchulɛ Finland baalun.",1.5556,1.2286
+146,Gyoona naŋ da taa na?,Jo na nanda taana.,1.0,0.25
+147,JEHOOVA NƆŊ TEŊ YAGA ZAA,Jehovah nɔn ti yagaza.,1.0,0.3
+148,HO NENDAARE KAŊA TEƐRETƆ NA BAŊ EŊ BOŊ FAŊA,Hone ndaara ka a tiere to na ba embon faa.,1.1111,0.2571
+149,A Baabole taa la a yo-maree ŋa zaa ane a taaba yaga naŋ na baŋ soŋ te ka te neŋ Jehoova niiloŋ na maaleŋ e kpeɛŋaa yaga. De a yelpeɛre tontoŋ boma ho naŋ taa ho kɔkɔre poɔŋ na e a yɛlɛ ŋa:,"A baa bo taale ayu maare nga zaa, a ni a taaba yaga, nanna ba sonte, ka ti ni Jehova ni lo na maare ipia nga yaga. Ndi ayalepiere tontombu maahu na taa kukokore puo nna i ayaleng.",0.8372,0.3357
+150,Bo yɛlɛŋ na baŋ soŋ te ka te naŋ moɔ̃ niŋe ‘tagra peɛlɛ Naaŋmen’?,Poyelle naba sonte katinam moni ni taara pielle na angwene.,1.0,0.3958
+151,Boŋ na baŋ soŋ te ka te de gbɛ-sonne a kyaare dããkpeɛne nyuubu ka toɔrɔ naŋ maŋ yi dããnyukuoli poɔ na ta pɔge te? Aseŋ ka te taa teɛroŋ na Naaŋmen naŋ taa na a de lɛ tonɔ neŋ toma.,"Bụna baa sọnte ka ti de gba sọne achari daa nkyɛ nyuubu. Ka tuworo na ma yi daa nyu kuworo puona tapọgiti, asi ka ti taa tiyero na na nwe na ntaana adi le turo ni ntuma.",0.8,0.4058
+152,TE DA ZANNƐƐ KƆKƆ PAALAA A DA LEƐRE TE TEƐROŊ MEŊ,Keleza ne kɔkɔpala adaliɛ tetiero mɛŋ.,1.0,0.3846
+153,JEHOOVA NIŊE PAALƐƐ YƐLƐ NA ZAA HOŊ E KOO NA,Jehovah nne palayara na zaa ho iko na.,0.7,0.3714
+154,"Wuli ka ho be la dɛlebo. Maŋ de ho meŋɛ tere ka ho soŋ toŋ toma a Lammozieŋ. Ka ba naŋ wa ko bo toma, maŋ tu sowuli ba naŋ ko bo a kyaare a toma a toŋaa soŋ.","Welka hɔbila di alibo, maaluhen nwatiri ka usu ntuntuma ala muzi'en, ka baa ni woku bu tuma, ma'an di so weli baa na nku bu achara atuma atuma asu.",0.9487,0.4522
+155,boŋ na baŋ soŋ bo ka ho suuri mãã?,Bonna ba nso mbo ka ho suru ma.,0.7778,0.28
+156,JEHOOVA LA MAŊ KO TE A “BOƆBO ANE A KPEƐ̃O KA [TE] DE TOŊ NEŊ TOMA”,Boro ba la mang kote a bwo bo ane a pieng kade chonne choma.,0.875,0.4255
+157,TƆGLƆ JEHOOVA NEMBAZO ANE NIMIMAAROŊ NA,"Kyole Jehovah nimbaazu, ane nim maaronna.",0.8333,0.3235
+158,Sobuo ka a lantaapuoruu nembɛrɛ na baŋ tɔgle Jehoova nembaalonzoe na?,Sobo ka alanta puru nim bere na ba togle Jehova nim ba linzui na.,1.0,0.2586
+159,DAŊ TA WA VƐNƐ KA HO EŊƐ KYOƆRƆ HO BOOREE DEME NAŊ BA PUORO JEHOOVA YƐLƐ,Dantaa vena kaho enga chuoro hu buuri deme na mbe puore Jehovah yele.,0.9375,0.4211
+160,WALA HOŊ NA IRI A NOƆRE?,Wala hunne iri anware.,0.6667,0.2778
+161,"Ka Neɛ Kaŋaŋ Wa E Yelkaŋa A Kyɛre Te Sukyiri Yaga Zaa, Wala Teŋ Na E?",A daa gane na mbebe na puo yele ka nne nka. Kanne a kanhang wa i yele kanhang a kyɛle tu sukyiri yagaza wala tin na e.,1.3125,0.9423
+162,BOŊ HOŊ ZANNE YI:,Bong zanni.,1.0,0.4615
+163,MOƆRƆ KA HO TAA “TEƐROŊ NAŊ SOMA”,Moro ka taa chiere ninsuong.,0.7143,0.6
+164,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,Suri adaye lebu nantu anya ebo.,1.0,0.2692
+165,JEHOOVA NA DII LA HO SUKYIRI,Jehoba na di la hosichiri.,0.6667,0.2609
+166,Maŋ Nare Ho Meŋɛ Sɛre Kyɛ Zanna Boma,Manneru minasere chazannaboma.,1.0,0.4138
+167,N DE LA NYAA A KAARA NENDAARE KAŊA SORI,"Nda la nya, a kaara nendaare ka nga soori.",0.6667,0.1613
+168,A dɔɔ ane a pɔge zaa seŋ ka ba bɔ sommo yi a lantaapuoruu nembɛrɛ zie,"LBA nambe a foto pole na ka ninka, adoo aning apogoro zaase nka babasomoyi alanta puoro ni mberesii.",1.0625,0.8519
+169,Bo yɛlɛ mine la da vɛŋ ka Yezu e “Kawaŋ-terɛ naŋ waa seɛlee yaga”? Wala teŋ na baŋ e a tɔglɔ o ewuli soŋ na? A yɛlɛ ama na baŋ soŋ teŋ.,Bò yele mine la daa vɛnka Jesu e kawantere naŋ wa siɛle yaga. Wala tin naba e a togle oyuli sunna. Ayela ama naba sunteŋ.,0.7188,0.2653
+170,N daaŋ mɔnɛɛ a lɔɔre a kyɛ piili gbire bee?,Ndamone alore achi pil gbire bee.,0.8,0.3636
+171,"Ka teneeŋ maŋ puore sɔre ka Jehoova ko te nyaa, sobuo aŋ na baŋ soŋ te ka te taa popeɛloŋ a naaŋ moɔloo toma poɔŋ?","Katenne mmapu wuli soro ka Jehova kọte nyaa, so bu anaba sonte kateta pupialụ anaamụọlụ ntụmapụọ.",0.92,0.3409
+172,YƐLƐ TE NAŊ BA BAŊ,Iyele tinan baban.,1.0,0.4286
+173,Ho na baŋ de la a yɛlɛ ŋa naŋ be jw.org na toŋ ne toma,Hona bandela a yiele nŋa na mbe jw.org na tɔnne ntuma.,0.8,0.2564
+174,Ka Dɔɔ Neŋ Pɔgeŋ Wa Tuuro Taa Boŋ Na Baŋ Soŋ Ba Ka Ba Tutaa Na Baare Soŋ?,"Ka dɔnne pɔge n wɛ turo taa, bo naba n somba ka ba turo taa na ba arso.",0.7778,0.2182
+175,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yele nno ba na kanatigama na mansoro.,1.0,0.303
+176,Wala teŋ na baŋ e dire yelmennoŋ korɔ Jehoova?,Wala tinaban a dire yel menu koro Jehovah.,0.8889,0.2703
+177,"Ka hooŋ wa zanna boma, maŋ mɔɔ kyɛ drɔɔ yɛlɛ na ho naŋ zanna na. A na e boŋ seɛlee ane lɛ a naŋ na soŋ bo yaga zaa ka ho toɔ̃ leɛteɛre yɛlɛ na zaa ho naŋ zanne na!","Ka o wa zanna bu ma, ma mo che doro yele na ho na zanna no. Ana ebulu siere aninle ana na sunbu yaga zaa. Ka o tuonle kyeriyela no zaa ho na zanna no.",0.725,0.3667
+178,Noba Naŋ Boɔrɔ Ka Ba Pɛlɛ Jehoova Poɔ Maŋ Derɛɛ Gbɛ-Sonne,Ne ba na mbora ka ba pele Jehovah puo mandire gbesu ne.,0.9091,0.3696
+179,Wala Teŋ Na Baŋ E A Eŋ Te Sagediibu Faŋa A Kyaare Noɔre Na Jehoova Naŋ Eŋ Te Ka Dompaalaa Na Waŋ Na?,Wala tinaba e a entisagri bu fanga achari nuor na Jehovah na enti ka dompala na wanna.,0.7391,0.3247
+180,Wala teŋ na baŋ e tɔgle Yezu ewuli soŋ na?,"Wala tinaba a torgle, Yezu i wul soona.",0.8,0.2812
+181,Ka lɛ yelfaa bonyenaa yɛlɛ ka Gyɔɔn ane Pɔɔl zaa da yele a yɛlɛ bee? Ai lɛ naane.,Ka le yele fa bu ye na yele ka John ane Paul za de yele a yele bee? Ayi le naani.,0.8333,0.3387
+182,"“Yɛ Are Kpeɛŋaa, A Ta Wa Leɛrɛ Puori”","Yar pieng a, a sawaliri puri.",0.875,0.4444
+183,Boŋ na baŋ soŋ te ka te naŋ moɔ̃ niŋe zanna yɛlɛ yire a Gyoob gane poɔŋ?,Bon na baa sonte katu na mu nyi nge zana yele yire a Job Ghana puon.,0.8235,0.3889
+184,SOBUO TEŊ NA BAŊ TU A DE EMMO KO JEHOOVA?,Sobu tin na bɔntu a deɛ mɔku Jehovah.,0.8,0.3548
+185,YƐLƐ TE NAŊ NA ZANNE,Yele na nanzane.,0.8,0.375
+186,TEƐRE NOBA MINE PUORE SƆROO BAŊ SƐGE EŊ A BAABOLE POƆŊ NA YƐLƐ,Tiare nimbɛ mine puoro sooroo baŋsere na a Bible poɔ na yele.,0.7692,0.36
+187,Yɛ Kaa Iri Neɛ Na Yɛŋ Na Puoro,Yakka ire ne na yennapuro?,0.875,0.3043
+188,YƐLƐ TE NAŊ NA ZANNE,Yele tenanne zanne.,0.8,0.25
+189,YƐLƐ TE NAŊ NA ZANNE,Yela tenna nazaanne.,1.0,0.3125
+190,Ananso la wala teŋ nɔŋ te yɔɔmine yaga zaa lɛ?,Anasilaa wuli aten naantii yoo mune yagazaale.,1.0,0.4167
+191,Bonso ka noba ba nɔŋ Yezu potuuribo yɛlɛ?,Bonso ka noba ba noo yeli Jesu potuuro bo yele.,0.75,0.303
+192,A YELMEŊƐ NAAŊMEN LAGRƐƐ NOBA ZAA NAŊ NƆŊ A YELMEŊƐ LAŊNA TAA,A yelminne na a man lagre a noba zaa na noo a yelminne la nata.,0.9167,0.34
+193,Boŋ na baŋ soŋ kultaa deme ka ba zɔmennoŋ na maaleŋ e kpeɛŋaa?,"Bong nabaa sung ku cha deme, kaba zomme no na ma le piema.",0.8462,0.4286
+194,"Ka teneeŋ maŋ teɛrɛ yɛlɛ gɛrɛ tɔɔre, sobuo aŋ na baŋ soŋ te ka te taa sumaaroŋ?","Katinem mman si ere ya le gere tore, sobuo anaba nsunti katita asu maru.",1.0,0.377
+195,JEHOOVA MAŊ DIIREE TE SUKYIE,Jehovah manni dire tu sichie.,1.0,0.4167
+196,Bo yelnimizeere mine la na baŋ soŋ Kristabiiri ka ba e kultaa yɛlɛ naŋ na de emmo ko Jehoova?,Bo yel nimbiri mine la na ba soŋ Kristabiri ka ba e kluuta ayele na na di immoku Jehovah.,0.5789,0.2297
+197,maŋ derɛ gbɛɛ te menneŋ?,Mandrebe to meneng.,1.0,0.5263
+198,George Naish la,Yerebiyen be a photo puli na kanne ka George Naasila.,3.3333,2.4615
+199,A taaloŋ zannoo na wulee lɛ Jehoova naŋ da boɔrɔ ka a lantaapuoruu naŋ be Korinti na e kyaare dɔɔ kaŋa naŋ da e yelfaa kaŋa naŋ e nimizeɛ.,"A taa lo zaa na nauli la gyuo nanda bora ka a lantapuuru nambe koru tina e, kyare do ka nanda e yelfaa ka ana enebizie.",0.7931,0.3211
+200,"TEƐRE NYƐ ANANSO HO NAŊ MAŊ NYU DÃÃKPEƐNE, ZIE HO NAŊ MAŊ NYU A, ANE LƐ HO NAŊ MAŊ NYU SEŊ","Kyere nye ananso honamanyo dankyɛnɛ. Ze honamanyo a, anillɛ honamanyo seng.",0.9048,0.3382
+201,Boŋ Teŋ Na Baŋ Zanne Yi A Yɔɔdeɛbo Eŋɛŋ?,Boonsin na ban zani ye ayo diabo ineng?,0.8889,0.5806
+202,A maŋ eɛ kpeɛŋaa ka N lonne wieoŋ a bare a gas a kyɛ neɛ a brake bee?,Amma yelkyanga ka nlonni wiyon abar agas achennie abirikbe.,0.9444,0.4314
+203,Boŋ teŋ na baŋ zanne yi sori na Yezu naŋ da maŋ tu Naaŋmen bonmaalee eŋɛŋ kyɛ wulo noba na?,Bọntin a baa nza ni ye so na ye so na ma ntu na mwanu gba maali enye nchewulo nọba na.,0.95,0.4789
+204,HO EƐ SIRI KA HO DE HO MEŊƐ KO JEHOOVA A DE SUOBU BEE?,Pɔyɛ siri ka hɔdɔhɔmɛŋɛ ku Jehovah a disuobu bee.,0.7143,0.275
+205,"Ka teneeŋ wa toŋ toma baare a daagbuli poɔ lammo saŋa, a dakogizusoba na baŋ ko teŋ kawane. Saŋa na a sakuubie naŋ tonɔ a toma na, a dakogizusoba maŋ kaaraŋ ka o nyɛ lɛ na oŋ de a zannoo zie toŋ neŋ toma.","Daga na waton tuma bara a daa bulu pro lambo sa, a daa ko o zu suba na banko tin ka wane. Saa na a saku biye na tuma na, a daa ko o zu suba ma kaara ka o nye le na o di a zano zie tonne tuma.",0.9318,0.3121
+206,TAA NIMIMAAROŊ KO BA,Ta ni mɛ maaroŋ koba?,1.25,0.1176
+207,aŋ na baŋ eŋ bo faŋa?,Sopo a na ba en bu fa nga.,1.1667,0.6667
+208,Te naŋ na baŋ moɔ̃ la niŋe a puoro Jehoova ka teneeŋ gbaŋ wa tuoro posãã yɛlɛ mine naŋ vɛŋ ka te enne kyoɔre.,Tụna na ba mọọla n'ịị apụrụ Jehova ka tị ne ngba nwe tụrụ pụsa ayala mịne na mve nkatị ene chọọrị.,0.9167,0.4286
+209,Ho na baŋ peɛrɛɛ a yelzuri ŋa yɛlɛ gaa tɔɔre ho meŋɛ zannoo saŋa:,Malo anpiere a yezu ne ayala ga tore a gomen gaza no sana.,1.0,0.5294
+210,Wala Hoŋ Na Baŋ E A E Zɔmeŋ-soŋ?,Wala na ba a a zomen so?,0.625,0.3913
+211,"Saŋa na Elaihu naŋ wa korɔ Gyoob kawane na, bo yɛlɛ oŋ e a de wuli ka o taaɛ yɛŋ naŋ e zuluŋ?","Sãna elahu na wã koro Job ka wane na, boyele o e adewul ka o taa yelne izulung.",0.8261,0.3188
+212,"c FOTO POƆ YƐLƐ: Te yɔɔdɔɔ kaŋa la kanna a bebiri zaa Baabole poɔ yɛlɛ, a kanna a Baabole o ŋmenaa pɛnnoo saŋa, a gaa a Lammozie meŋ a daa gbuli poɔ lammo, zimaanee saŋa.","Yele bi na nchar a foto na ka nne ka, te yuo do ka ngala ka na ebe biri za Bible puo yele, a ka na a Bible onwena pen nu sa nga, a ga alamuzie me a da gbul puo la mozi ma na",1.1429,0.4962
+213,BON NANSO TEŊ KAA IRI KA TE NA PUOREE JEHOOVA,Burna so tenka iri katu na puore Jehovah.,0.8,0.25
+214,Te na zannɛɛ Yezu yelmannee ata mine yɛlɛ a nyɛ lɛ a naŋ kyaare a sɛrɛɛdiibu naŋ na wa a donɛɛ baaroo saŋa.,"Naa Zenne Yezu Kristo yelmani a tambene yele, a nyele ana nchare asere dibu na nawa aduna ebaaru sanna.",0.8261,0.4405
+215,"Te na zanne nyɛɛ bon nanso aŋ e nimizeɛ ka te sagedi ka Jehoova nɔnɔ teŋ, ane yɛlɛ teŋ na baŋ e ka a maaleŋ soŋ te ka te sagedi peɛlaaŋ ka Jehoova nɔnɔ teŋ.",Tana zane nyɛ bu nensa an i ni miziɛ ka ti seridika Jehova nonotin. Ani nyɛla tinaba a ka amaalu nsunti ka ti seridi piela ka Jehova nonotin.,0.8857,0.3667
+216,WALA TEŊ NA BAŊ E WULI NƆMMO KO TAA?,Wala tinna ba e wuli nɔ mɔkuta a.,0.6667,0.2222
+217,Wala ka ho teɛretɔroo na waa pampana ka hooŋ de o manne neŋ saŋa kaŋa naŋ pare?,"Wala, ka tiɛrɛ tɔrɔ na wa pampana ka ho di u ma nɛnɛ sa ka a na mpa.",0.7647,0.3387
+218,DE HO YEL-EREE WULI KA HO NƆŊ BAŊ,Deɛ ho yɛlɛ iri wuli ka ho nɔmbang.,0.625,0.36
+219,SAŊA NA NEƐ KAŊA NAŊ WA TE ZIE A WA SƆRƆ KAWANE,Saanan yaga na na wate zie a wa soro kawane.,0.6667,0.2222
+220,A zannoo ŋa na soŋ teŋ ka te taa sagediibu kpɛlɛŋkpɛlɛŋ ka Jehoova na ko teŋ te eŋgannoŋ poɔ yelfɛree.,A zannu na na son ten karita sa vadibo pelen pelen ka Jehovah na ko ten te en gannu puo ilifere.,0.75,0.4024
+221,YƐLƐ YEZU POTUURIBO NAŊ ZANNE A KYAARE KAŊDABAŊKALƐ,Yel-nyɛrɛɛzu potuuro na nzane achara ka na bankale.,1.0,0.4091
+222,"Ka teneeŋ taa nimimaaroŋ, sobuo aŋ na baŋ soŋ te ka te soŋ te booree deme naŋ ba puoro Jehoova?","Katenne ta ni mimaaru, soobu anaba sonte ka te sonte buuri deme na mba puoro Jehova.",0.8,0.2297
+223,ASEŊ KA HO BAŊ YƐLƐ NAŊ NA BAŊ VƐŊ KA HO TEƐRE KA JEHOOVA BA NƆŊ HO YƐLƐ,A sɔŋ ka ho baŋ yele na nna baŋ vɛŋ ka ho tiere ka Jehovah ba nɔkɔ yele.,0.5556,0.2364
+224,MATS ANE ANN-CATRIN KASSHOLM LA MANNE BA ZEMMO YƐLƐ,Maas ane Anne Catherine ka somlamane ba zambo yele.,0.7778,0.3095
+225,WALA HOŊ NA IRI A NOƆRE?,Walaana ira nuore.,1.0,0.3333
+226,a A zannoo ŋa yɛlɛ kyaarɛɛ sereba naŋ kaara pornography. Kyɛ a sowuli naŋ bebe na meŋ na baŋ soŋɛɛ dɔɔ pɔge meŋ naŋ kaara pornography.,"Amụrụ m izu ole na ole ka m nụ nka. Aza mụ na ya na-esiri ba na nka ara pornography. Chei, asụ m na mbebe na mụ na ba nsogbu adịghị pụghọ mụ na nka ara pornography. Amụrụ m izu ole na ole gara aga.",1.5769,0.7757
+227,Mɔɔ kyɛ maŋ taa teɛroŋ na Jehoova naŋ taa kyaare ho taaba na.,Moɔ cha manta tierong na Jehovah na ta chaara wetaabana.,0.9231,0.3958
+228,Yɛlɛ Naŋ Na Baŋ Soŋ Bo Ka Ho Nare Ho Meŋɛ Ko Yelkpeɛne Na Hoŋ Na Baŋ Tuore Ho Suobu Deebo Puoriŋ,Yele na na ba nsum bu ka hun nar ho menga ku yele piene na hun na ba tuori ho sobu de bu puore.,0.8182,0.3467
+229,A YI LIGROŊ A GAA KYAANEE,Ayillu goro ha gachane.,1.0,0.45
+230,YƐLƐ MINE TEŊ NA BAŊ LƐ E A DE WULI KA JEHOOVA YUORI NA EƐ TEGROŊ YAGA ZAA A KO TE,Yele mine tinna benne e adu wulika Jehovah yuori na e tagoro yaga zaa akute.,0.7143,0.2581
+231,WALA HOŊ NA IRI A NOƆRE?,Wala oona iri Anwar.,0.6667,0.2778
+232,LƐ HOŊ NA BAŊ E TAA SUMAAROŊ,Lehuna baa taa sumaru.,0.8571,0.3636
+233,BOŊ NA BAŊ SOŊ TE KA TE . . .,Bonne santé.,1.0,0.7059
+234,NAŊ KYƐNƐ KAARA VELAA,Manchamekara vla.,1.0,0.5556
+235,"Te na zannɛɛ bon nanso aŋ e nimizeɛ ka neŋnyaane naŋ kyɛnɛ taa popeɛloŋ, ane yɛlɛ naŋ na baŋ soŋ ba ka ba taa popeɛloŋ.","Tenezan ne bu nna nso a inimi zie ka nnyane na nchene taa pupiɛlu, a ni nyɛle na naba nso mba kabata pupiɛlu.",0.88,0.3333
+236,Bonso aŋ e nimizeɛ ka te maŋ teɛrɛ maaloo na teŋ na nyɛ ka teneeŋ ‘tagra peɛlɛ Naaŋmen’ yɛlɛ?,"Bonso a inimbizie, kateman tiara malo na tenneye katene tagra pira naamu yele.",0.8421,0.3611
+237,BOŊ NA BAŊ SOŊ BO KA HO NYƐ KULTATƆ NAŊ SOMA?,Bona ba nsombo ka hunye ku ta tor na nsuma.,1.0,0.2941
+238,TE MAŊ FAA LA NOBA NYƆVOƐ KA TENEEŊ WA PUGIRO JEHOOVA YUORI NA,Tamafala nuba nyovie ka tin wa puguro Jehova yuori na.,0.6923,0.26
+239,BONSO AŊ BA SEŊ KA N SƆRE NOBA MINE KA BA DE GBƐƐ KO MA?,Boso ambassanga sorneba mine kabate be akuma.,0.9333,0.3659
+240,Jehoova Na Soŋ boŋ Ho Yelkpeɛne Saŋa,Jehovah na somboŋ ho yelpiene saŋa.,0.5714,0.2
+241,Tamare teere naŋ be Feiran baa na poɔ,"Yelbi na mbe a foto puli na ka neng ka, ta mare tere na mbe foreign ba na pu.",2.25,1.2667
+242,Te na nyɛɛ soe anaare mine Jehoova naŋ maŋ tu a kaara te zu velaa.,Tana nye su annarimine Jehova namman tu akara ti zuvela.,0.9333,0.2549
+243,GYOGRI A NAŊ SEŊ KA TE TAA A TOƆ̃ BAŊ A YELMEŊƐ,Jori ananse nkateta atumoban ayilmenge.,1.0,0.4
+244,SOŊ HO BAABOLE ZANNEZANNA KA O DE JEHOOVA YƐLƐ DE WEƐ O ZEMMO POƆŊ,Soho baa wozanazana ka o di Jehovah yela tuu vi o zambo puo.,0.7857,0.4151
+245,"b Ka hooŋ boɔrɔ ka ho baŋ a Hiburu gane poɔ yɛlɛ, kaa a vidio ŋa jw.org zuŋ, Hiburu Gane Poɔ Yɛlɛ .","Amunizie yele na ka ni nka, ka hu mbuoro ka hu bang, a hi buru gan puo yele ka a video nga jw.org zuhu. Hi buru gan puo yele, amunizie yele na baari.",1.2727,0.8767
+246,"Yɛ vɛŋ ka te nyɛ ziiri ayi mine baŋ da maale eŋ beŋ, ka lɛ vɛŋ ka a ŋmenpuore wedeɛreba da maŋ toɔ̃ pɛge a zĩĩ yi a sareka irizieŋ.","Yɛn ven ka tinɛ ziri ayimene banda maala enbɛn, ka le ven ka mun puru wi diɛrɛ ba daman tom pirɛ azin yi asar ka iri ziɛn.",0.9,0.3333
+247,Bo tɔnɔ teŋ nyɛrɛ pampana a naŋ na nyɛ nendaarekaŋa meŋ Jehoova naŋ di te yelbebe suuri ko te zuŋ?,"Bota na te nyera pampana, ana na nyane ndaar ka nga men Jehovah na nditi yelbeebe suuri kutizung.",0.9,0.2564
+248,Yelnimizeere Teŋ Na Baŋ Zanne Yi A Izerayɛl Namine Na Zieŋ,Yelmeŋa zɛre te na baŋ zani yi a Israel na mena zie.,0.7273,0.3333
+249,Bonso teŋ maŋ korɔ Jehoova gyeremɛ?,Bonsu tuma kuro Jehovah jiri me.,1.0,0.4138
+250,"Ka te eŋɛŋ wa kyoɔre, wala teŋ na baŋ e?","Ka te ṅa wa chuore, wọla tin na ba'a.",0.6,0.4483
+251,YƐLƐ JEHOOVA NAŊ BOƆRƆ KA HO ERƐ,Yeleh Jehovah nam booro ka o kaara ere.,1.0,0.5769
+252,WALA HOŊ NA IRI A NOƆRE?,Mara hunna iri annual.,0.8333,0.4444
+253,JEHOOVA FAA TEŊ YI YELBEBE ANEŊ KŨŨ POƆŊ A KYƐ NYƐ KA TE EƐ SONTUURIBO,"Jehova faa tingyi yelbeebe anu nkum puon, a chanya ka ti yel suntuurubo.",0.8,0.375
+254,Ananso la wala aŋ seŋ ka te maŋ bɔ wagre a kaa Naaŋmen bonmaalee gaa tɔɔre?,Anansilla wara anasin ka timma mbo waara akaa na anwen bu maale ga toora.,0.9375,0.3729
+255,JEHOOVA LA SONNƆ O PUOREBIIRI ZENƐ ŊA,Jehova la sonno upuori biiri zi na nga.,1.0,0.2581
+256,TE DE LA TE TEƐROŊ EŊ NENDAARE KAŊA YƐLƐ,Tiedonlaatu siirtyy enemmän dataa kanavalle.,1.0,0.7188
+257,LƐ HOŊ NA TOƆ̃ E SOŊ NOBA NAŊ BOƆRƆ A DUORISOŊ,Lehun na tuo a sonnoba na mbuoro a doro so.,0.9091,0.4
+258,Te na wa nyɛɛ lɛ nɔmmo naŋ na baŋ eŋ te faŋa ka te yi te poɔ zaa a de eŋnyagroŋ moɔlɔ a duorisoŋ.,Zanawa nyɛle no munna ba enti fana ka ti di puo zaa adi en nyarum wola adwerson.,0.9167,0.4247
+259,Lantaapuoruu nembɛrɛ sakuu la maŋ e a wulwulo,A foto na mbebe na puo yele la ntaa puoru ne mberesakole ahman i awuluwulu.,1.75,0.8421
+260,Lɛ A Nembɛrɛ Naŋ Na Baŋ Soŋ Noba Na Ba Naŋ Iri Bare A Lantaapuoruu Poɔŋ,Lɛ animberɛ na naba sunnɔ bɔna bana iri barɛ alantee pɔru pɔɔŋ.,0.8125,0.2857
+261,Tɔnɔ Teŋ Na Baŋ Nyɛ Yi Naaŋmen Zoobu Eŋɛŋ,"A daga pụọ yle ka nne nke a, tọnatị nna banye yi na-anwụ n'eziokwu ịnyá.",1.5556,1.1212
+262,TA TAA LIBIE NƆMMO,Taali biɛ nomo.,1.0,0.3333
+263,Boŋ na baŋ soŋ bo ka ho toɔ̃ taa popeɛloŋ ka hooŋ wa gaa lantaapuor-paalaa kaŋa?,Bòl na ba nsombu ka ho tuon taa puopielo nka ho wa gaara taa puoru paala akaŋa.,0.8125,0.2581
+264,Peɛre a yɛlɛ zaa naŋ bebe. Nembuoŋ yel a yɛlɛ ŋa? Bo yɛlɛ poɔŋ oŋ da be? Ananso la wala aminekaŋaŋ oŋ de a yelmannaa ŋa toŋ neŋ toma?,"Pire ayera zaa na m bebe, nuobu yele ayera nga. Bo yele puong onde be, anonsaala wala amene kãã onde ayera maana nga tonne ntoma.",0.8621,0.3861
+265,"Ka te libi-yɛlɛŋ ba wa taa nimiri, wala teŋ na baŋ e a de wuli ka te dɛlɛɛ Jehoova?",Kati libi yele mbo wa tana nimbiri. Wala tin na ba a ajiwuli ka tedele Jehova.,0.7368,0.2742
+266,KA TENEEŊ WA TUURO JEHOOVA SOWULI TE MAŊ NYƐ LA TƆNƆ,Katsini ngo turo Jehova sooli ta ma nyɛla tɔno.,1.0,0.3333
+267,"Ka neɛ kaŋaŋ e te yɛlɛ ka a kpɛ te, boŋ na baŋ soŋ te ka te di suuri ko o soba?","Kani a kanga e te yele ka a pɛte, bo naba nsontɛ ka te di suri ko o suba.",0.5909,0.25
+268,Te na wa nyɛɛ lɛ Jehoova naŋ na wuli nimimaaroŋ ane dantorii yaga zaa saŋa na oŋ na wa seŋnɛ a neŋfaare yire kũũ poɔŋ na.,Tɛ na wanyɛɛle Jehovah na na wuli nimi maaro a ni da nturi ya ka zaa saŋa na u na wa si na a nimfaare yire ku puɔŋɔ.,0.8077,0.2316
+269,YƐLƐ TE NAŊ NA ZANNE,Yele tɛ na nanzane.,0.8,0.375
+270,YƐLƐ TE NAŊ NA ZANNE,Kyela tenanne zanne.,0.8,0.3125
+271,a naŋ kyɛnɛ puoro Jehoova neŋ te sukyiri zaa?,Anansɛne phure Jehovah ne nteasekyerɛ zaa.,0.8889,0.3889
+272,Lɛtɛ Naŋ Na Baŋ Soŋ Te Ka Te Naŋ Dire Kannyiri Yelmennoŋ Poɔŋ A Te Ta A Baaraa,Latsen an na ba son zikatsin en dire kanyiri almenu po atitsa abara,0.8889,0.3934
+273,YƐLƐ TE NAŊ NA ZANNE,Tuna zani nya,1.0,0.6875
+274,SOBUO KA SIGRIMENNOŊ NA BAŊ SOŊ BO . . .,Sobu ka sigiri minon na ba sombo.,0.8571,0.25
+275,‘Nembuo poɔŋ na pɛle ka o woŋ a Baabole poɔ yɛlɛ ŋa? Bo saŋa aŋ na soma ka N manne a yɛlɛ ŋa koo?’,Numbor phone a tele ka o wa a baabul a poore langa. Bo sanga anna suma ka amma na ayelanga ko.,0.7917,0.4507
+276,b FOTO POƆ YƐLƐ: A foto wulee a takoreŋ saŋa lɛtɛ a bitontona Pɔɔl naŋ da sɛge ko a Efesu deme na.,"Elbii na nchaara afụtụ na kaanị nka. Afụtụ wule atakwiri sịnglelet, abị tuntu na Paul na nda sịngle ko a Efesọ demina.",0.9545,0.68
+277,NAŊ MOƆ̃ NIMIRI A VƐŊ KA NƆMMO HO NAŊ TAA KO JEHOOVA E KPEƐŊAA,Na m wonim bere ahen ka nnombo hu na nteakwajehova epia nga.,0.9286,0.4792
+278,MAŊ SAGRA HO DƆGREBA NƆƐ,Ma sagra hot dog ra banne.,1.0,0.3
+279,A EƐ NIMIZEƐ KA HO TAA A BOƆBO,A ye nimizie ka ho taa abuo bu.,0.5,0.3043
+280,"O sakuu neŋkpoŋ na noɔre da mããyɛŋ oŋ sooroo ka, “Blankson, a yɛlɛ ŋa hoŋ boɔrɔ ka ho sɛge te koo bee?”","Usaku ni kpo na nuwar da maayen n soro ka. Blessing, ayala na humbu war ka hu Sekondi-Takoradi.",0.8182,0.5584
+281,Bo saŋa aŋ na maŋ fɛre ka te nyɛ Jehoova sommo yaga zaa?,Mọ saana a nna ma m fɛre ka tin nye Jehova sumbo yagazaa.,0.9231,0.2791
+282,WALA HOŊ NA IRI A NOƆRE?,wala huna iri anware,0.6667,0.2222
+283,a talɛntere yelmannaa na poɔŋ?,A talent yielmanaa na puong.,0.6,0.36
+284,Yɛlɛ Naŋ Na Baŋ Soŋ Te Ka Te Neŋ Te Kristabitaaba Naŋ Kyɛnɛ E Zɔmenne Naŋ Peɛle Taa,Yele na naba sonte katene Kriste bitaba na nchena e zomme na pieta.,0.8889,0.3636
+285,N PUOREE JEHOOVA BAREKA!,Npuore Jehovah barka.,1.0,0.2
+286,Bo saŋa ka a naaŋ moɔloo toma na teŋ tonɔ pampana na na baare?,Pɔsɔlɔ ka na mɔlɔ sumana cen cɔna pampana na na baari.,0.7143,0.3958
+287,Boŋ ka Jehoova da wuli a Izerayɛl biiri a kyaare kaŋdabaŋkalɛ?,Bonka Jehovah da wuli a yel-biri a chara kanda bankale.,0.7273,0.3333
+288,A BAABOLE ZANNEZANNEBA DA PIILEEŊ A MAŊ LEƐ GAA NOBA NA NAŊ SAGEDE A DUORISOŊ ZIE,Aba bule zanzan ma da piili a manli ga nu ba nanna sagidi adoro sunzie.,0.9375,0.3485
+289,"Bo yɛlɛ aŋ seŋ ka te maŋ erɛ, ka bo yɛlɛ aŋ ba seŋ ka te inne?",Bụ yela anseŋ ka ti maŋ ire ka bụ yela amba seŋ ka ti inne.,0.6471,0.2727
+290,ka o taa nɔmmo naŋ e zuluŋ ko Jehoova?,Kauta nombo na i zuluŋ ku Jehovah.,0.8889,0.3103
+291,YƐLƐ NAŊ NA BAŊ SOŊ BO HO ZANNOO POƆŊ,Yele nensa ba somboho za no puo.,1.0,0.4138
+292,YƐLƐ TE NAŊ NA ZANNE,Yele tana zanne.,0.8,0.3125
+293,LEƐ MAALE TAA: Jehoova boɔrɔŋ ka nensaaleba naŋ ba pɛgeyi neŋ o taa niiloŋ naŋ soma,Lia maale taa te gela ka Jehovah buora nka ne nsaalba na mbe pirii no taa ne lo na suma.,1.0,0.4478
+294,TƆGLƆ JEHOOVA GYOGRI NAŊ VƐŊ OŊ WAA ŊA PI-KPƆGREE NA,Tɔgle jehuu wa yɔgɔre na nyan un wa a piipɔgɔre nu.,1.1,0.4762
+295,a yi ho taaba Kristabiiri zie?,A yiri taaba krisaa birizie.,0.6667,0.1667
+296,WULO HO BOOREE DEME GYEREMƐ,Wulo ho bore demegere me.,0.6,0.1739
+297,WALA HOŊ NA IRI A NOƆRE?,Wala na iri anwaru.,0.5,0.3333
+298,SAGRA “A TEŊƐZU KPEƐ̃O DEME NƆƐ”,Sagra a tinga zu pio demene.,0.6667,0.375
+299,“DE EŊNYAGROŊ ANE POPEƐLOŊ PUORO JEHOOVA”,De ŋyaro a nofupiele na puoro Jehova,0.8333,0.3824
+300,"a Pampana o na baŋ boɔlɔ ka, Te Kristabiiri Zemmo Ane Te Naaŋ Moɔloo Toma​—Lammo Yelsɛgree Gane na .","Amụnịzie yere na ka nne nke a. Pampana, unu baa mbuọlọ ka ti krisita biri zị mụ a nị tị nna mbuọlọ tuma laa mụ yelị sịrị ga nna. Amụnịzie yere na baare.",1.6667,0.8846
+301,Jehoova Taa La Nɔmmo Ko Bo,Jehovah chaala noomɔ kobo.,1.0,0.3333
+302,Te na zanne nyɛɛ lɛ na Jehoova naŋ maŋ e a dii noba sukyie. Ane lɛ na noba mine meŋ naŋ da e a tɔgloo. Ana soŋ teŋ ka te baŋ lɛ teŋ meŋ na baŋ e a diire taa sukyie.,"Tenezan nye le na Jehova namma a diini ba sichie, ana le na nuba mine me nna ndap e atogru. Ana sonte ka ti ba lete mme nna ba e adiri ta sichie.",0.8049,0.314
+303,"Gaad, Asɛ, ane Nafetali?","God, I said, I'm in Natali.",1.5,0.6667
+304,Tere yelmannee mine naŋ kyaare soe na mine Jehoova naŋ maŋ tu kyɛ iri te puoro nɔɛ ko te.,Tiri elman ni mini na nchari so na mini Jehova na ma ntu che iri tu puuru na ya kwute.,0.9474,0.3857
+305,BOŊ NA BAŊ SOŊ TE KA TE SAGEDI PEƐLAAŊ KA JEHOOVA NƆNƆ TEŊ?,Pɔn na ba sonte kati sege di pielle a Jehovah no notin.,0.9231,0.413
+306,Ta yele yɛlɛ a wuli ka ho arɛɛ a serɛ puoriŋ bee a paana a pɔge.,"Teng yele yele, a wul ka o are a sori puori bee a pana a pogu.",0.5625,0.3125
+307,Wala Teŋ Na Baŋ E Taa Popeɛloŋ Yaga A Naaŋ Moɔloo Poɔŋ?,Wala tunsina ba'e ta pu pielle yaga a namuolumpu.,0.75,0.4651
+308,Hoŋ na teɛrɛ ho teɛretɔ na yɛlɛ,O nna ziera ho tiara tona yele.,0.8571,0.48
+309,Jehoova la sonnɔ o puorebiiri zenɛ ŋa,Jehovah la sunna puori biri zine na.,0.8571,0.3226
+310,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yelana bana nkanate gama na mma suuro.,0.8889,0.303
+311,YƐLƐ TE NAŊ NA ZANNE,Yele tinaan zaane.,1.0,0.375
+312,Tɔglɔ Yezu Saŋa Na Hoŋ Wa Korɔ Noba Kawane,A dãa naŋ be ba pɔye la kankane ka. Tɔglɔ Yesu sãa na huura kɔɔre ba kawanɛ.,1.7778,1.0882
+313,"Yelsɛgraa kaŋa naŋ maŋ kaara neŋnyaane laafeeloŋ yɛlɛ yeleeŋ ka, neŋnyaane na baŋ de la a soorebie ama peɛre neŋ ba menne a nyɛ:",Yele sega ra kanga nam man kara ne nyane la felu yele yele ka. Nyane na bandi la asuri bi ama pyeleni ba minne anye.,0.9583,0.3495
+314,BA DA DE LA NYAA A YEL A ZIRII ŊMENPUORE WEDEƐREBA NIMIRI YƐLƐ KO BA,"Badile nyaa, a yeli ziri mwin puori wɛ di erba nimiri yele kuba.",0.9333,0.3148
+315,LƐ TEŊ NA TOƆ̃ TERE KAWANE WAGRE ANE SORI NAŊ SEŊ NEŊ POƆŊ,Let's not wait to kawane wara anunsuri na sennam puo.,0.9231,0.4889
+316,Te na zannɛɛ yelnimizeere mine yi yɛlɛ naŋ da e a Korinti lantaapuoruu na poɔŋ saŋa na neɛ kaŋa naŋ da e yelfaa kaŋa naŋ e nimizeɛ yaga zaa na.,"Tenezane yel nimi ziri mine, yiele na nda e a Korintila ncha puoru na puong, sanga na ni ka nga na nda yel fa ka nga na yel nimi zie yagazaana.",0.9,0.2832
+317,"Ka a Baaboleŋ wa de a yelbiri “sukyiridii” toŋ neŋ toma, bo oŋ maŋ are ko?",Ka bae bolen wde ayil birisichiri di ton nentuma bu mma areku.,0.9375,0.3091
+318,YƐLƐ TE NAŊ NA ZANNE a,Yele tɛ nansaane.,1.0,0.4706
+319,Bo yɛlɛŋ na baŋ soŋ te ka te baŋ yɛlɛ na meŋɛ teŋ na baŋ yeli te puore sɔroo poɔŋ saŋa na teŋ wa puoro korɔ te yɔɔmine?,Bɔyɛlɛ na bansu te katɛ banyɛlɛ na mingati na bɛn yelitu puoro soro puo sanga na tin wa puoro kuroti yoo mine.,0.75,0.3407
+320,Bɔ yɛlɛ hoŋ na baŋ zanne yi be. Soore ho meŋɛ ka:,Bo yele ho na banzane yibe? Sorong menga kaa.,0.9167,0.3889
+321,Neemaŋ naŋ da taa na?,Nen ma nanda taana.,1.0,0.1875
+322,"Ka teneeŋ wa tuoro daŋkyagre, wala teŋ na baŋ e?","Katsina wetaura dainchare, wala tin naba e.",0.8,0.4595
+323,Kawane Na Baŋ Maŋ Ko Te A Daagbuli Poɔ Lammo Saŋa,"A taa na nimbɛbɛna puo yɛla kannɛɛ ka, ka wa na na ba maŋ ko te a daabulupuo lambuori.",1.4545,1.0769
+324,Bo yɛlɛ hoŋ zanne yi Marko ewuli soŋ na poɔŋ?,Poyala hun zane yimmako i wuliso na puo.,0.9,0.3714
+325,Sobuo ka Yezu da tu a soŋ noba baŋ wa sagedi ka ba eɛ neŋtegrɛ Naaŋmen nimitɔɔreŋ?,Sobukwe yese de tu a son noba bansare de ka ba yel nintegre na nmennimitoreng.,0.7059,0.3538
+326,"a Ka teneeŋ wa are a lantaapuoruu noba gbɛbɔgriŋ a puoro sɔrɔ, aseŋ ka a puoro maŋ e ŋmaa.","A munizie yela na kanne nka, ka ti na wa'ari alanta poro nu ba bwe boguri a poro soro, a sin ka a poro ma enwa a munizie yela na baare.",1.3684,0.8714
+327,“Noba naŋ ba gaa sakuu yoŋ la sage Naaŋmen di.”,Noba namba ga saaku yon la saage naangwindi.,0.8,0.2857
+328,NAAŊMEN BIDƆƆ NƆŊNAA WA LA A TEŊƐZU,Naa min bi doong na wala atinge zu.,1.1429,0.3793
+329,"Ka Hooŋ Wa Gaa Lantaapuor-yuo Kaŋa Ka Ho Te Bebe, Boŋ Na Baŋ Soŋ Bo Ka Ho Minli Te Yɔɔmine Na?","Ka ho a galanta pur yu ka ho ti bebe, bo naba sum bo ka ho meli yu omini na.",0.619,0.3239
+330,Ta Maŋ Teɛrɛ Ho Yoŋ Tɛgɛ Yɛlɛ,Ta maanse a ra wuo n ta gyele.,1.0,0.5652
+331,“YƐ [PEƐRE] YƐMENNE NYƐ . . . YƐ TEGRE YƐMENNE NYƐ”,"Yɛ pɛrɛ yɛ mɛnneɛ, yɛ tsigiri yɛ mɛnneɛ.",0.75,0.3529
+332,"Zɛbulun, Isaaka, ane Daan?","Zebulun, Issachar, hanen Dan",1.0,0.4
+333,Ananso la wala aŋ seŋ ka te naŋ kyɛnɛ kaara te menne velaa?,Anasulawula anseka tunanci na karata mene vlaa.,1.0,0.3261
+334,SƐGRE HO MEŊƐ KO NENDAARE KAŊA YƐLƐ,Sero hume kono ndaare ka nga yele.,1.0,0.3793
+335,“A TENDAA ZAA SƐREŊMAARA” NA EƐ “YƐLƐ NAŊ SEŊ NEŊ”,Attendaza sereng maara na iye yele na senne.,0.9,0.3784
+336,"KA BA NAŊ YELKA TE KORƆ JEHOOVA GYEREMƐ, WALA KA LƐ WULI?","Kabella ka to kuro Jehova jiri me, wala ka le wuli.",0.75,0.3864
+337,"KA TENEEŊ BOƆRƆ KA TE DE KAWAŊ-SOŊ TOŊ NEŊ TOMA, BONSO AŊ SEŊ KA TE . . .",Katenem bora kadedeka wansontonne tuma. Bonso ansenkate.,0.9333,0.2353
+338,DE HO WAGRE TONƆ NEŊ TOMA SOŊ,Deh wara tona na tuma so.,1.0,0.3478
+339,WALA HOŊ NA IRI A NOƆRE?,Wala huna ira nuoray.,0.8333,0.3889
+340,Bonso aŋ seŋ ka te gaa a nembɛrɛ zie a te bɔ sommo?,Bonsu a 1950 ga a na mbele zie a ta bosu mu.,0.8462,0.5
+341,SORI TEŊ NA BAŊ TU A TERE KAWANE SAŊA NA O SOBA NAŊ BA SƆRE A KAWANE,"Sori, tinna bon tu, a tere kawane sanna o suba namba sor akawane.",0.6471,0.1923
+342,"a A zannoo ŋa poɔŋ, te maŋ de la neɛ naŋ e yelfaa naŋ e nimizeɛ na are ko dɔɔ. Kyɛ a kyaarɛɛ pɔgeba meŋ.","Azaa nuong a puong, tumand la ni na il faana in nimiziene arko doo, che achare pogba min, amunisi ele na bare.",0.96,0.6753
+343,YƐLƐ TE NAŊ NA ZANNE,Yele tana nazzane.,1.0,0.375
+344,Sobuo ka Jehoova da maŋ tu kyɛ korɔ a dɛndɛŋ Kristabiiri na sowuli?,Sobuo ka Jehova daman tu cha kora a dande Kristabiri na saole.,0.6154,0.2593
+345,LƐ DƆƆ NAŊ NA BAŊ E A WULO EMMO KORƆ O PƆGE,Lɛ dɔna la ba yaa wuli emo koro pɔge.,0.8333,0.25
+346,WALA HOŊ NA IRI A NOƆRE?,walaa na ir anwari,0.8333,0.3889
+347,YƐLƐ TE NAŊ NA ZANNE,Yele cenanna zanne.,0.8,0.25
+348,"Yuomo zaa ho naŋ nyɛ, kyɛ ho na baŋ deɛ ho meŋɛ eŋ a gyamaa poɔ naaŋ moɔloo poɔŋ.","Yoma zaa nainge, chaa na ban ti a yelmenne ing a jama puo na moale puom. A zano yele bare.",1.0,0.7705
+349,LƐ A NEMBƐRƐ NAŊ MAŊ SOŊ NEƐ NAŊ E YELFAA NAŊ E NIMIZEƐ,Le anembera nam sonni ana elfa ne inimisie.,1.0,0.4419
+350,Bo yɛlɛ ata mine la na baŋ vɛŋ ka te maŋ yi te sukyie poɔŋ a puoro sɔrɔ?,Boya laa tamile laa laa ma 24 ma yi tu si chi puo a puoro soro.,0.8889,0.4259
+351,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,Soo a daa nyɛɛ le munantu a nya iyebo.,0.875,0.5
+352,YELBEBE PƆGEBO (ane SAREKA NAŊ PƐLƐ NAAŊMEN POƆ): Jehoova sɛgrɛɛ yɛlɛ ka lɛ na baŋ vɛŋ ka nensaaleba nyɛ ba yelbebe sudi,"Yelbibee poorebo, a neɛ saraka na mbele na a nmenne puore tege la ka Jehovah segere yele ka le na ba mwe ka neɛ salba nye be yelbibee suudi.",1.1818,0.4792
+353,JEHOOVA MAŊ SOŊ TEŊ TEŊ BA ZORO DABEƐ̃,Jehovah ma sonteng tembazuore dabie.,1.0,0.3667
+354,YƐLƐ A BAABOLE NAŊ YELKYAARE DÃÃKPEƐNE NYUUBU,Yele a baabo na yel chaldang kyen nyuubu.,0.8571,0.4103
+355,A YELSƐGRAA: NAAŊMEN YUO LA SORI KO TE KA TE WA E O ZƆMENNE,A yelyɛ sagara na ngui yiele soro kote katuwa e ozamine.,0.8571,0.4
+356,ANANSO LA WALA AŊ SEŊ KA TE MAŊ MÃÃ TE MENNE KYƐ KAARA NAAŊMEN BONMAALEE NA?,"Ansi lawala ansi n ka tuma ma tumene, che kaara naamin bo mmaale na.",0.875,0.3167
+357,SIIMIYOŊ NEŊ LIIVAI,Simeon nɛ Levi,1.0,0.5294
+358,Te na zannɛɛ a Izerayɛl namine na yɛlɛ ka a soŋ te ka te baŋ yɛlɛ na Jehoova naŋ boɔrɔ ka te erɛ a toɔ̃ pɛlɛ o poɔ.,"Na zane a izu na mịlịna yele, ka a sọntị ka tịba yele na Jehova na mgbọrọ katị ịre atụọ mpele ụpụọ.",0.7857,0.4651
+359,Jehoova Maŋ Nyɛrɛɛ Kuori Na Zaa Ho Naŋ Maŋ Kono Na A Taa Ho Yɛlɛŋ Meŋ Yaga Zaa,"Jehova manyere kụrụ na zaa hụ na mma nkụrụ na, atụhụ yele m ya ka zaa.",0.7778,0.377
+360,A “Yelmeŋɛ Naaŋmen” Maŋ Vɛŋeŋ Ka O Poboɔbo Nyɛ Eebo,"A yelmeŋa na mɛnɛ, maŋ vɛŋɛ ka opobuobo nyɛ eebo.",0.6,0.225
+361,SAŊA kaŋa noba naŋ sɛge a Baabole na maŋ sɛgɛɛ yelbie mine neŋ a zuŋ eŋ a Baabole ziiri mineŋ. Te nyɛ yɛlɛ ata mine zuŋ aminekaŋaŋ baŋ da maŋ e lɛ:,"Sanna kanga, noba na sege abaye bona ma sege yeli biiri ni azuuri abaye bo ziri mine. Te neel ata mine zuo amini kanga ma nda ma yeli.",0.875,0.386
+362,"“Vi da maŋ kpɛ maŋ, maŋ teɛrɛ ka N ba veɛlɛ, a teɛrɛ ka N ba taa tɔnɔ meŋ.”",Wi demang demang mantier ka mba viere atier ka mba ta tonomen,0.8947,0.4808
+363,LƐ HOŊ NA BAŊ E A TAA TEƐROŊ SOŊ,Lɛbɛnna ba a atatiɛrɔnsun.,0.8889,0.4583
+364,Maŋ teɛre yɛlɛ na ho naŋ zanne na. Soore ho meŋɛ ka:,Mansiari yele na ona zani na sore ho mine ka.,0.6667,0.3846
+365,Jehoova Soŋ Teŋ Teŋ E Leɛroo A Kyɛ Taa Popeɛloŋ Zie Zaa Te Naŋ Be,Jehovah's Witnesses te eliaro a kyeta a puoroo zie zaa ta nambe.,0.8,0.4314
+366,Daŋ Ta Wa Yire A Siiloŋ Poɔ Paradiisi Na Poɔŋ,Daanthaa woyiri a seɛlumpuo paradis na puoŋ.,0.8,0.4444
+367,Kaa te puoruu vidiori na kaŋa a kyɛ manne o yɛlɛ ko neɛ kaŋa bee a sɛge yɛlɛ na hoŋ zanne yi o poɔŋ na biŋ.,Kaatipuuru vidiri na ka nga akyemane o yela ko ne ka nga bi a sege yela na wuu zaa na yi wupuo na bi.,0.8077,0.358
+368,WALA HOŊ NA BAŊ E KA HO NEŊ NEƐ KAŊA PIILI TUURO TAA?,Wala ho na baa e ka ho ni nie ka nga piilituuro taa.,0.5385,0.2
+369,WALA HOŊ NA IRI A NOƆRE?,Wa laa na ir anoor.,0.8333,0.3333
+370,LƐ TEŊ NA BAŊ E KAARA TE MENNE VELAA A TA TE E YELFAA ZAA,Lɛɛnaba e kara te mene vla a ta ti i il faza.,0.7333,0.3256
+371,GUSTAVO JOSEPH LA MANNE O ZEMMO YƐLƐ,"Gustavo Joseph la manne o zemmo yele. A foto na mbibe na puo yele, Gustavo ane Emilia Joseph la.",1.8571,1.5667
+372,YENEE TEŊ NA BAŊ NYƐ A YELMEŊƐ,Yeni tin na banye ayelmenge.,0.8571,0.375
+373,Jehoova la iri boma zaa,Jehovah la iru bomaza.,0.8,0.2105
+374,Bonso aŋ diire sukyiri yaga zaa Jehoova meŋɛ naŋ eŋ te noɔre a kyaare Paradiisi?,"Bonso, andi lesekiri yaga za Jehovah minye na entenuore achari paradisi.",0.8667,0.3231
+375,Te na zanne nyɛɛ lɛ a yɔɔdeɛbo sareka naŋ na baŋ soŋ te ka te nyɛ gyog-sonne na Jehoova Naaŋmen ane Yezu Krista naŋ taa.,Tɛnaza ninyɛlɛ ayo diɛbo sarka na na ba sonse ka tinye Joosoni na Jehova na anwuo ani Yesu Kristo na nta.,0.92,0.3085
+376,"Wala ka Pɔɔl da boɔrɔ ka o wuli saŋa na oŋ da sɛge ka “neɛ maŋ leɛ la nemmeŋɛ yi o soba yeldeebo eŋɛ, kyɛ a ba e o soba toma zuiŋ, aŋa lɛ a bege naŋ yeli” na?","Wɛla ka pɔl da buora ka o wuli sensa na unda seɛ ka, nie ma ndɛla na mminge yi o subo yeldiibu ingan, che agba ye o subo tuma zuin, anale abegi na nyeli na.",0.7179,0.4
+377,"A yɛlɛ ŋa taa daaŋ pɔge boŋ bee? Ka hooŋ iri a noɔre ka ɛɛ, boŋ na baŋ soŋ bo ka ho peɛre ho meŋɛ velaa a nyɛ ka aseŋ ka ho naŋ kyɛnɛ mɔnɔ lɔɔre bee?",A yeli na taa daanpɔge bombee ka huuri anuar ka e. Bon na ba sumbo ka ho piere gomee a velaa anye ka a senka ho na nchene moono loore bee.,0.7027,0.3182
+378,ANDRÉ RAMSEYER LA MANNE O ZEMMO YƐLƐ,Andre Ramcy yela manne uzemo yele.,0.8571,0.2667
+379,Ka Hooŋ Maŋ Mãã Ho Meŋɛ A Zanna Boma A Na Soŋ Boŋ Ka Ho Kaara Soŋ,"Ka hom ma ma hom ne azana bomor, ana sombo ka o kara so.",0.8824,0.3265
+380,JEHOOVA DA KAA LA TE ZU SOŊ ZAA,Jehovah daa kaara ti zu soza.,0.875,0.2917
+381,A BAABOLE ZANNEZANNEBA EŊƐ DA NYAGRAŊ KA BA TOŊ TOMA YAGA,"A baa bolizanzan ba, inga da nyagra n kaba tuntuma yaga.",0.8182,0.2766
+382,SOBUO KA A YƐLƐ ŊA NA BAŊ SOŊ BO KA HO DE SUOBU?,Sombuo ka yele nga na baa so sombuo ka ho di sombuo.,0.6923,0.4286
+383,SOBOBO POƆŊ KA JEHOOVA MAŊ TU A . . .,Suba puo ka jawa man tu.,0.7143,0.56
+384,Te na zanne nyɛɛ lɛ teŋ na baŋ de gyeremɛ naŋ seŋ neŋ Jehoova na a koroo.,Tengan zanni nye letu na bande jere me na nsinne Jehovah na koro.,0.8824,0.3571
+385,YƐLƐ TE NAŊ NA ZANNE,Yalɛ ce na nanzanne.,0.8,0.25
+386,KA TE EŊƐŊ WA KYOƆRE A KYAARE GBƐƐ MINE TE NAŊ ŊMƐ SAŊA KAŊA NAŊ PARE YƐLƐ,Ka te n yel ma chuore a chare bɛ miniti na mɛ sa na ka na na m pare yele.,0.9412,0.3966
+387,"Te na zannɛɛ sori teŋ na baŋ tu a tagra peɛlɛ Jehoova, ane maaloo teŋ na nyɛ ka teneeŋ e lɛ.","Tengan zanne soro tin na ban tu a chara piere Jehova, anin malo tin na nye katsini ele.",0.8095,0.4143
+388,"A waa ŋa ware ba naŋ nyɛle vũũ dekpoŋ zie ba naŋ mɛ poɔŋ a iri a dɛgre zaa bare, a vɛŋ aŋ pɛgeyi gbɛre boyɔpoi.","A wanga warba na nyeli vu ndi puonzie ba na me puon, a iri a dagri zaa abara a ven am pegi gbarbu yo puon.",0.7692,0.3929
+389,Bonso aŋ soma yaga zaa te naŋ ba baŋ bebiri na meŋɛ a donɛɛ ŋa naŋ na wa o baaroo?,"Bonso a sumale re za, te n ba be bir na meng e aduna na nna wa u baaru.",0.75,0.3871
+390,ANANSO LA WALA KA NƆMMO NA BAŊ SOŊ TE KA TE BAŊ YEZU YELMEŊƐ POTUURIBO?,A na-asụ lawala ka nọmba na-abụsụntị ka teban Yezu yelimụe putụrụbọ.,0.8,0.375
+391,“N DE LA N NYƆVORE TERE”,N dela navora tere.,0.6667,0.2353
+392,YƐLƐ TE NAŊ NA ZANNE,Iye la tenna zane.,1.0,0.375
+393,Ba Iree Te Yɔɔdɔba Bayi Baŋ Wa Poɔ A Lantaa Zukaareba Poɔŋ,"Ba yiri te yu hardo ba yi, ba wa puo a lansa zu karba puom.",0.9167,0.4043
+394,WALA HOŊ NA IRI A NOƆRE?,Wala huna iri anuwar.,0.6667,0.3333
+395,naŋ erɛ yɛlɛ naŋ na vɛŋ ka ho neŋ Jehoova niiloŋ na naŋ e kpeɛŋaa?,Naa Era yele na nvenkpehoone Jehova n yelona na ekpe nga.,0.8667,0.3922
+396,WALA HOŊ NA IRI A NOƆRE?,Gwala hunna iri annuore.,0.8333,0.3333
+397,"A zannoo ŋa na soŋ teŋ ka te maaleŋ taa a boɔbo ka te kanna Naaŋmen Yelbiri na bebiri zaa, a maŋ teɛrɛ yɛlɛ te naŋ kanna na yɛlɛ gɛrɛ tɔɔre a kyɛ de yɛlɛ na te naŋ kanne na tonɔ neŋ toma te zemmo poɔŋ.","A zaa nno nga na nsɔnsɛn ka timale taa abuo bu kati ka na na nwin yeli biri na be biri zaa. A ma ntiyera yele na na nka na na yele gere tɔri, acha di yele na na nka na na tuolo ne ntoma ti zɛ mɔ puo.",0.8696,0.3961
+398,JEHOOVA ANE YEZU YƐLƐ BA TUO TE GAALI,Jehova ane Yesu yeleba itu tigali.,0.875,0.2667
+399,WALA HOŊ NA IRI A NOƆRE?,wala ganna ira nuore,0.8333,0.3333
+400,Ho Vɛŋɛɛŋ Ka Boma Na Hoŋ Taa Na Paale Ho Niŋe Bee?,O venyɛn kabu mana hon ta na pale ho ninne bi.,0.8333,0.3421
+401,Wala teŋ na baŋ e a soŋ neŋnyaane?,Wala tɛnna ba a sunna nyaane?,0.75,0.3077
+402,JEHOOVA NA EŊ BOŊ FAŊA,Yehova na imbong fanga.,0.8,0.4444
+403,YƐLƐ TE NAŊ NA ZANNE,Yele tu nanna zanne.,0.8,0.25
+404,Bon A Siiloŋ Poɔ Ŋmenpuoredie Naŋ Ba Are Ko,"A da ka puo yele ka nne nka, bon a siilo puo mimpore die namba aarku.",1.6667,0.8857
+405,"“Te na kare boŋ yi a sakuu ŋaŋ. Ka hooŋ yele yelfaare a kyaara puoruu na a paaloŋ gɔmenante naŋ are o puoriŋ na wedeɛrɛ, lɛ yɛŋ a paaloŋ gɔmenante koŋ baŋ ko bo toma.”","Tana karbu yi a sakon nan, kahun yel-yel fare a chara puru na a gomenti na a uporu na wudiere, leyan a palu gomenti kun banko butuma.",0.8,0.4219
+406,TAA TEƐROŊ NA JEHOOVA NAŊ TAA A KYAARE YELKPEƐNE NA,Tarchiaru na Jehovah na ntaa achara yiele piana na.,0.8,0.4524
+407,BA DA NƆŊ LA JEHOOVA NEŊ BA SUKYIE ZAA,Bada nɔla Jehovah ni mba sukyiezaa.,1.0,0.1667
+408,pɛlɛ Naaŋmen poɔ?,Pala na aŋ maana puo.,1.6667,0.5
+409,LƐ A TOMA NAŊ DA NYƐRƐ NIMITƆƆRE GAABO A DONƐƐ LOMBORE ZAA,La atmananda nyire no mitor gaabo adne lo murza.,0.9167,0.3404
+410,BONSO KA NOBA MINE BA NƆŊ TE YƐLƐ?,Bonsu kando ba mene ba nonta yele.,0.875,0.3077
+411,"Te na nyɛɛ bon nanso aŋ e nimizeɛ ka te maŋ puoro korɔ te taaba, ane soe teŋ na baŋ tu a e lɛ.","Tenganne a bun nanso a inimiziye katema mpuro koro taa ba, a ne so e tin na ba ntu a ele.",0.875,0.2754
+412,YƐ VƐŊ KA JEHOOVA BAARE KO YƐ WULIBO,ku ya wulu bu. Welu bu,1.0,0.8276
+413,YƐLƐ TE NAŊ NA ZANNE,Yele tenna zanne.,0.8,0.25
+414,YƐLƐ TEŊ NA BAŊ ZANNE YI BE A KYAARE NYONONO,Yele na ban zani yi be achari nyonono.,0.6,0.3143
+415,Maaloo Maŋ Nyɛ Ane Yelnimizeere Maŋ Zanne Yi Jehoova Puoruu Poɔŋ,Maalu maŋye a niŋ yelne miziiri maŋ zani yi Jehova puoru puo.,0.9091,0.3148
+416,“JEHOOVA EƐ NEƐ NAŊ TAA NIMIBAALOŊ ANE NEMBAALONZOE YAGA ZAA”,"Jehova e nimbɛrɛ nimbali baalo, a nimbɛrɛ nimbali yɛlɛza.",1.0,0.62
+417,Claude Brown,Cloud Brown fo to la bandi embe.,3.0,1.5455
+418,Ananso la wala aŋ seŋ ka ho mãã ho meŋɛ a kaa neɛ kaŋa yel-eree gaa tɔɔre sɛre kyɛ ka ho neŋ a soba piili tuuro taa?,"Anonsula wala an sin kahun ma huminge, aka niye ka ngal ire ga tori sere che kahun ni asuba pili turo ta.",0.963,0.4432
+419,TE DA MOƆRƆŊ KA TE TU BEGE SORI A NYƐ APOƆSORI TONƆ A DUORISOŊ MOƆLOO TOMA,Te daa moore aŋ kati to bigger story a nyaa puori so chona a doro so molo toma.,0.875,0.4068
+420,sonnɛɛ noba ka ba baŋ Jehoova velaa?,Sonne nuba kaba banje ho ba vela.,1.0,0.2414
+421,Boŋ na baŋ soŋ te ka te taa teɛroŋ na Jehoova naŋ taa kyaare yelkpeɛne na teŋ maŋ tuoro na?,Bụ n'abam sọnte ka tịta tịeru na Jehova na m taa chọrọ ịrịọ ya na-atị mma ntị ụrụ na.,0.9,0.4648
+422,WALA HOŊ NA BAŊ E A DE WULI HO NIMIPA?,"Wala hanna baa e, adiwulhu nimmipa.",0.8,0.25
+423,TAA EMMO KO BANA NA NAŊ ZORO JEHOOVA NA,Taa yiri muku banana na n zori Jehovah na.,0.6667,0.3226
+424,Taa Teɛroŋ Na Naaŋmen Naŋ Taa A Kyaare Dããkpeɛne Na,Taachiri na na anwɛ na taa achari daa nkuiyeni na.,0.7,0.5238
+425,JEHOOVA NA SOŊ BOŊ,Jehova na somboŋ,0.75,0.1333
+426,Sobuo ka a Naazariti yelsɛgraa na vɛŋ teŋ baŋ ka Jehoova sage teŋ di?,Sobukwe anazire taa yisɛgre na ventin banka Jehovah Sagrenti di.,0.8571,0.4182
+427,Nɔnɔ Noba—Soŋ Ba Ka Ba Leɛ Yezu Potuuribo,"A da yelne bee be na poyele ka nenne ka, noɔnɔnuba sumba ka ba lye Yezu poɔ tuuro bo.",2.0,1.1515
+428,TE NƆNƆ TAA “YELMENNOŊ ANE TE EROŊ POƆ”,Tinnona ta yele menon anente erompuo.,1.0,0.4
+429,"Ka teneeŋ maŋ nare te menne soŋ sɛre kyɛ gɛrɛ a naaŋ moɔloo, sobuo aŋ na baŋ soŋ te ka te taa popeɛloŋ a naaŋ moɔloo toma poɔŋ?","Katenne mannare tumminne soŋ sereke gere anaamwolu, sobu ana ba soŋte hatita akpo pieluŋ anaamwolu tumapuong.",0.9643,0.3469
+430,"TE TAA la apoɔsori ka te neŋ te yɔɔpɔgeba naŋ dire yelmennoŋ laŋ puoro Jehoova. Te nɔŋ la te yɔɔpɔgeba ŋa yaga zaa ka te poɔ meŋ pɛle ba yɛlɛ ane ba yelmennoŋ ane toŋ kpeɛne na zaa ba naŋ tonɔ na! a Azuŋ te yɔɔdɔbɔ, te mɔɔ te mɔɔbo zaa a kyɛ maŋ wulo ba nimimaaroŋ, a ta erɛ ba nimikpɛ yɛlɛ, a taa gyeremɛ meŋ ko ba. Kyɛ te naŋ ba pɛgeyi na zuŋ, a na maŋ eɛ kpeɛŋaa ko te ka te e lɛ. Kyɛ yɛlɛ mine zuŋ a maŋ la maaleŋ eɛ kpeɛŋaa yaga ko te yɔɔdɔbɔ mine ka ba e lɛ.","A tana a puo so le kat l'intérieur pour venir réellement pour Jehovah, te non la te yuo puo ba yaga zaa, ka te pompel ba yele, a nu ba yelmenong, a ne tong kene na zaa ba na tonona.",0.8868,0.7429
+431,a lantaapuoruu nembɛrɛ toma na?,Alansa puoro ne beru tuma na.,1.0,0.3077
+432,A Yɛlɛ Ata Ŋa Zuŋ Teŋ Na Baŋ Sage Jehoova Nɔ-Eŋnee Di,"A dãa kpɔ́ yeli ka nínka, ayeli atã nga zū te na ba sãre Jehovah nɔ́ enídi.",1.25,0.8293
+433,Watchtower INTANƐT ZU GAMA BINZIE ™,Wà taa wa internet zú gama benzie.,1.2,0.4138
+434,N EƐ SIRI KA N NAŊ NA DEƐ WULUU ZAA JEHOOVA NAŊ NA KO MA ZENƐ ŊA TOŊ NEŊ TOMA,N'isi ka nna nna di ya wulu uzo aji Jehova nna nna kwumazi na nga tonn entuma.,0.95,0.3966
+435,ka hooŋ maŋ puoro sɔrɔ Jehoova kyɛ zanna boma?,"Ka homan puoro soro Jehova, kyɛ zaa na boma.",0.6667,0.1892
+436,A Tamaa Duoro gampɛlee na la,"A foto na n be be na puo yele, a gam tali na n ta a chama duoro la. Yele bie na n de a foto puli na ka n ka, a chama duoro gam pele ye na la.",5.8333,3.3478
+437,Bo saŋa ane yenii ka bidɔgreba na baŋ toɔ̃ wuli ba biiri Jehoova gyogri?,Bong ana yelye na ka bidobla na ba tuu wuli ba biri Jehova jori.,0.7143,0.3684
+438,Bo yɛlɛŋ vɛŋ hoŋ sagedi ka Jehoova neŋ Yezu nɔŋɛɛ ho yɛlɛ?,Poyele m vɛɛ honsa gidi ka Jehova ne Yesu nnoŋ ehu poyele.,0.9167,0.3913
+439,Jehoova Maŋ Be La Te Zieŋ Wagre Zaa,Jehovah mampela tiziem wa gari zaa.,0.875,0.2857
+440,YƐLƐ NAŊ NA BAŊ SOŊ BO HO ZANNOO POƆŊ,Yele nanaba sombo ho za nopo,0.8889,0.3103
+441,YƐLƐ TEŊ NA BAŊ ZANNE YI JEHOOVA ANE YEZU ZIE,"Yelyeta naba nzaani, Yidindaa ane Yesu zie.",0.8,0.4167
+442,Sobuo ka Pɔɔl kawane na na baŋ soŋ bipɔlɔ ka ba nyɛrɛ nimitɔɔre gaabo Jehoova puoruu poɔŋ?,Sobu o ka puolo ka wa na na ba sumbi polo ka ba nira nimbi toora gaabo Jehovah puoru puo.,0.8235,0.3151
+443,YƐLƐ TE NAŊ BAŊ,Yele tɪnaanba.,1.0,0.5
+444,Bo yɛlɛ la wuli ka Jehoova yuori na eɛ tegroŋ yaga zaa ko Yezu potuuribo?,"Bong yele la uleka, Jehova yuoro na yel chiron yir za ko Yesu pu'turo bo.",0.8667,0.3793
+445,WALA HOŊ NA IRI A NOƆRE?,Wala huna iri anwari.,0.6667,0.2778
+446,Yɛlɛ Naŋ Na Baŋ Soŋ Bo Ka Ho Ko Ho Taaba Kawaŋ-Soŋ,Yele nanna ban sombo ka o ko ta ba kawan son.,0.9167,0.2895
+447,SORI HOŊ NA BAŊ TU A DII HO TAABA SUKYIE,Soro ho na bantu a di huta abasichie.,0.8,0.2581
+448,sowuli naŋ yi Jehoova lantaapuoruu poɔŋ?,Soo na yi Jehova lanta puoro puo.,1.0,0.3529
+449,N neŋ N dɔgreba ane te booree deme mine la,Yelbie nambe a fo so puli na ka neng ndooreba ani te buuri demen mine la.,1.3,1.0
+450,WALA TEŊ NA BAŊ E A EŊ TE SAGEDIIBU FAŊA KA TENEEŊ . . .,Wa laa tin a baa e a entisare bu faa nga ka tin,0.8333,0.4359
+451,ANANSO LA WALA HOŊ BOƆRƆ KA HO WA LEƐ A NEMBƐRƐ SONNEBA KAŊA?,"Anasola wala humborakahu waliye, anembera sunu bakana.",0.9231,0.3125
+452,"N neŋ Mary la, saŋa na teŋ da tonɔ a gbandige zukaara toma na","Afo tuona nwebe na puo yele, n'imme la, saana na tuon daktunu agbe ndie zu kaara tu mana.",1.1429,0.7021
+453,Manayɛn—De Jehoova Puoruu Yɛlɛ Nimizeɛ Ho Zemmo Poɔŋ,"Manna yeng, di Jehovah puoru yelle limie zie ho zema puon.",1.25,0.4318
+454,"A zannoo anaare soba na poɔŋ, te na zanne nyɛɛ lɛ a lantaapuoruu nembɛrɛ naŋ maŋ soŋ noba naŋ e yelfaare naŋ e nimizeɛ.","Naa Zano anaara Subaanapuon. Te Naa Zani nye ele, a lantana puoru ne ba naa maale sunnu ba, naa i yelfaare na i nimbizie.",0.9583,0.383
+455,VƐŊ KA NƆMMO HO NAŊ TAA KO HO TAABA MAALEŊ ERƐ KPEƐŊAA,Vɛnka nombo ho na ntaa kɔkɔɔ taaba maale e piengaa.,0.8333,0.3488
+456,NAŊ MOƆ̃ NIŊE ERƐ YƐLƐ NAŊ NA VƐŊ KA HO NEŊ JEHOOVA NIILOŊ NAŊ E KPEƐŊAA,Naa moɔneŋ a erayelle nanna ven ka ho ne Jehovah neɛloŋ na pieng a.,0.875,0.3929
+457,Maŋ Ŋmaa A Baabole Poɔ Yɛlɛ Foto Ho Teɛroŋ Poɔŋ,Maang ma a Bible pɔyɛ le foto ho tiɛrɔm pɔɔng.,0.7,0.3947
+458,NAŊ KYƐNƐ BOƆRƆ SOWULI YIRE NAAŊMEN ZIE,Naaŋmen na buro soe wuli na aŋwɛne zie.,1.0,0.4848
+459,"A Baabole Waa Ŋa Kyaanaa, De O Tonɔ Neŋ Toma Soŋ",Abaabul waana chana diwot nonne tuma sun.,1.0,0.4054
+460,SAŊA NA YƐLƐ MINE TE NAŊ BA KAARA SORIŊ NAŊ WA PƆGE TE,Sana yele minee na namba kaara soore na nwa puobate.,0.9231,0.381
+461,TE MAŊ TONƐƐ A NAAŊ MOƆLOO TOMA TE NAŊ NƆŊ A DUORISOŊ ZUŊ,Daman tɛnɛ abna mɔlɔ tsina tɛnɛ nɔŋ aduoro sɔŋ zun.,0.9231,0.4444
+462,SORI NA JEHOOVA NAŊ MAŊ TU KYƐ WULO O NƆMMO,Sori na Jehova na mụ ntu chee wulọ ọnọmụ.,0.8,0.3824
+463,Kyɛ ananso la wala teŋ yele ka Jehoova yuori na ane o pɛgeyiibu yɛlɛ eɛ nimizeɛ yaga zaa a gaŋ yelzaa? Yɛ vɛŋ ka te nyɛ yɛlɛ ata mine zuŋ teŋ yele lɛ.,"Kyɛ a nɛnsi la wɛlɛ tin yele ka Jehovah Yuori na a ninupiɛli wɛlɛ, i yɛlɛ nimbiri yagaza a gan yɛlɛ zaa. Yɛ vɛng ka tin yɛlɛ atamne zun tin yɛlɛ la.",0.7576,0.3534
+464,Bo Yɛlɛ Hoŋ Na Soore Ba?,"A daga nan, beben apuọ yele ka n-enka bu yele hu na suurba.",2.1667,2.0
+465,YƐLƐ TE NAŊ NA ZANNE,Yele tina na zanne.,0.6,0.25
+466,Bo ka te kaŋa zaa na toɔ̃ e a vɛŋ ka naaŋ moɔloo sugu na poɔŋ teŋ be na nyɛrɛ nimitɔɔre gaabo?,Bokatɛɛ ka nga zaa a na tuɔ e a venne ka na amɔɔlusuŋ na puɔ nti mbe na nyɛre n bitoore gaabu.,0.7273,0.3662
+467,WALA HOŊ NA IRI A NOƆRE?,wala hunna iri annuwar,0.6667,0.3889
+468,WULI KA HO NIŊE PAƐ̃ NEŊ NƆMMO NA JEHOOVA NAŊ WULI KO BO NA,Min nömbo na Jehovah na ngwuli ko buna? Wuli bu piene ata,0.9286,0.8
+469,Bo yɛlɛ hoŋ na baŋ e a wuli ka ho nɔŋ la ho yɔɔmine?,Bo yela ho na ba yi awuli kaa hono la ho yɛlmini.,0.7143,0.2895
+470,a peere ane a boore yelmannaa na poɔŋ?,A piri ane a buri yelmana na puong.,0.5,0.3667
+471,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yelen no banan kana te gamana ma nsuro.,0.8889,0.303
+472,"SAŊA NA NEƐ KAŊA NAŊ DA E YELFAA NAŊ E NIMIZEƐ KORINTI LANTAAPUORUU POƆŊ NA, BOŊ BAŊ DA E?",Sãa na ni a kãa na nda i yel faana i nimi zie korinchilaa chaa puoru puona bomba nda i.,1.0,0.3429
+473,A zannoo ŋa na soŋɛɛ te yɔɔdɔbɔ naŋ de suobu ka ba mɔɔrɔ ba moɔbo zaa ka ba wa e noba naŋ seŋ neŋ ka ba e a lantaapuoruu nembɛrɛ sonneba.,A zaa nụ gị na asụsụ a tụgharịrị ọdabara na ndị isi obodo ka gị na ha nwee ike ịkparịta ụka gbasara nsogbu gị na ndị ọrụ nchekwa.,0.9355,0.7547
+474,JEHOOVA VƐŊƐƐŊ KA O NƆ-EŊNEE ZAA NA NYƐƐ EEBO,Jehovah weng ka ono eni za na nye ebu.,0.7778,0.4167
+475,Wala ka Yezu da e a soŋ a pɔge naŋ taa pɔg-pɛge baaloŋ na?,Waja ka yiri so da a aso a porin ta por per baalona.,0.7857,0.4651
+476,Zanne Yelkaŋa Yi Baabole Daŋyelbo Poɔŋ,Zaniel kaŋa yie Bible gbandigiri bu puoŋ.,1.1667,0.5758
+477,Tɔglɔ Jehoova A Ta Vɛŋ Ka Ho Yɛlɛ E Tuo Te Gaali,"Ba iri a zano nga ye Filipai zura anaar welu bu ano, ye ven ka neza aban ye sumaro yele.",1.5833,1.4865
+478,NEƐ KAŊA YƐLƐ NAŊ BE A BAABOLE POƆ,Nia ka na yele na bi a Bible puo.,1.0,0.4444
+479,"Ka hooŋ wa tuoro daŋkyagre noba mine nuuriŋ, boŋ na baŋ soŋ bo ka ho e yɛlɛ sori naŋ seŋ neŋ poɔŋ?","Kahuu wuu tuuro daa nchaare nuu ban mine nuuriing, boona ban sombo kahuu yiele soro na nse nimpong.",1.0,0.4267
+480,De Apoɔsori Na Hoŋ Taa Ka Ho Puoro Jehoova Na Tegroŋ,De apɔstoro na hɔn taa ka hɔpuoro Jehova na tigri ŋu.,0.6364,0.2381
+481,ANANSO LA WALA TEŊ NA BAŊ SAGE A KŨŨ LEƐ IRUU NƆ-EŊNAA NA DI?,A na-asụ na-abụkarị na nsogbu kụrụ ya iro na-anaghị adị.,0.9286,0.6522
+482,"A maŋ eɛ kpeɛŋaa ko ma ka N kanne sori zu sowuli, kyɛbee a nyɛrɛ zie velaa zisoɔree saŋa bee?","A ma yel kyɛ a ko ma ka a kannu so ri zu so wuli, cha be a nyɛre zie vla zi soare sanga be.",0.9,0.2778
+483,"Ka booree demeŋ lantaa a gaa zie kaŋa ka ba te kaa Naaŋmen bonmaalee ka lɛ vɛŋ ka ba taa popeɛloŋ, sobuo baŋ na nyɛ tɔnɔ?","Kaburi de me lanta a ga zie kanga kaba te ka na nwanne bo mmale, kale ven kaba ta popielu sobuo ba na nya tono.",0.8077,0.3085
+484,“Jehoova Sieree Deme kyiiree noba naŋ erɛ dɔɔ neŋ dɔɔ ane pɔge neŋ pɔge gaŋ neŋ taa yɛlɛ.”,Jehovah sere de me chire no bana era doonendoo a ne pogonimpogo ga ne ta yeli.,1.0,0.3714
+485,SOBUO TEŊ NA BAŊ TƆGLE TEƐROŊ ZULUŊ NA . . .,Subu na baa tɔgle tiirun zuluŋ na.,0.5,0.3226
+486,Wala Ka Jehoova Yuori Na E Tegroŋ A Ko Bo Seŋ?,Olla ka Jehovah yiri na e cheverong a ko bo se.,0.4545,0.3714
+487,Sobobo poɔŋ la aŋ soma ko te ka te ‘tagra peɛlɛ Naaŋmen’?,Subuwo fuo la a sumakote ka ba taara piera na amone.,0.9167,0.4419
+488,Yɛ Vɛŋ Ka Te Yi Sigrimennoŋ Poɔŋ A Sage Ka Yɛlɛ Mine Bebeŋ Teŋ Ba Baŋ,Yɛ maŋ ka ti sigi ne me nɔnpɔŋ a saaka yɛlɛ mine bebeŋ teŋ baba.,0.625,0.2593
+489,Lɛ teŋ na baŋ e a maaleŋ taa sagediibu yaga zaa Jehoova lantaapuoruu na eŋɛŋ.,Lɛɛ tɛnna ba yɛ amalin taa sadi bu yaga zaa Jehovah lantaa puru na enɛɛn.,0.8667,0.2903
+490,Faaloŋ,A daa ka nɛn bɛbɛ na puo yela ka nɛn ka faaluo.,12.0,5.1667
+491,WALA KA NOBA MINE NA BAŊ E A SOŊ KRISTABIIRI NAŊ NAŊ BA KPƐ KULTAA POƆ?,Wala kannu ba mine na ba yi asu krista biri na namba kpe fu ta puo.,0.8125,0.2727
+492,Bo teɛroŋ naŋ tori la ka Jehoova wulo te ka te taa a doŋfaa ŋa poɔŋ?,Sobo ka Jehova da so o yielebeng a porbiri ta korinsangana.,0.875,0.8269
+493,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yele nuba na kanati gama na mansaura.,0.8889,0.3333
+494,Jehoova la a Soobu Kpeɛ̃o Zaa Daana?,Jehovah la asobu kpiɛ zaa daana.,0.5714,0.1786
+495,Jehoova la iri boma zaa,Jehovah la iribu maza.,0.8,0.2105
+496,TƆGLƆ YEZU SAŊA NA HOŊ WA NYƐRƐ DAŊKYAGRE,"Tawule Yesu, sanna naahnu wanyere daan chagra.",1.0,0.5
+497,MOƆ̃ NIŊE A NAŊ TAA JEHOOVA TEƐROŊ A KYAARE YƐLƐ,Monee ananta Jehovah terong achara yele.,1.0,0.4211
+498,TEƐRE A SAKUU GAABO YELSONNE NEŊ YELFAARE YƐLƐ,Tiere a saku ga a yuori 1947.,0.875,0.641
+499,WALA HOŊ NA IRI A NOƆRE?,Wala huna iri Anwar.,0.6667,0.2778
+500,WALA TEŊ NA BAŊ E A TƆGLƆ A MALEKERE . . .,Wonaa tenna baa e artola amalakare.,0.8889,0.3929
+501,TA WA VƐNƐ KA YELZAA PIGRE BO SORI KA HO PUORO SƆRƆ JEHOOVA,Tawavena ka yelza pigirbu sor ka hupuoro sor Jehovah.,0.8462,0.2553
+502,"“N da koŋ baŋ yel a yɛlɛ ko neɛzaa. A da maŋ dɔnnɔ maŋ yaga zaa, kyɛ neɛzaa ba kyebe a na dii N sukyiri.”","Nda ko ma yel ayel a ko nie zaa, adaman do no ma nyagra zaa, che nie zaa be che bi ana di nsochiri.",0.88,0.3421
+503,Maana ane korinhi yoŋ da la bondirii a Izerayɛl biiri naŋ da dire a wɛgyɛŋ poɔŋ bee?,Man ane koro hi yon da labundiri a Israel biri nan da dire a wojen puombe.,0.7059,0.3284
+504,‘N EƐƐ LA KA BA BAŊ HO YUORI’,I yela kabang huyori.,1.0,0.45
+505,Moɔrɔ Ka Ho Teɛrɛ Yɛlɛ Aŋa Lɛ Na Jehoova Ne Yezu Naŋ Maŋ Teɛrɛ Yɛlɛ Na,"Moro ka ho ti ra yele, a nga le na Jehova ni Yesu na ma ti ra yele.",0.9375,0.4
+506,Ananso la wala ka a siiloŋ poɔ ŋmenpuoredie na puoruu yɛlɛ soma gaŋ a Izerayɛl deme ŋmenpuoredie puoruu yɛlɛ na?,Anansesɛm a ɛfa asɛmmpatrɛw mu de na ɛporu yɛle sumogang a ɛyɛ Israel demɛ mu patrɛw de poru yɛle na.,0.95,0.5435
+507,YƐLƐ NAŊ NA BAŊ SOŊ BO HO ZANNOO POƆŊ,Yele nanna bansombo hozanopuo.,1.0,0.3448
+508,Toŋboɔle noba ka ba wa a Leɛteɛroo lammo.,yie chiere laamu konne palba na wa,1.0,0.8485
+509,"Te na zanne nyɛɛ toma na a lantaapuoruu nembɛrɛ sonneba, a lantaapuoruu nembɛrɛ, ane a gbandige zukaareba naŋ tonɔ a sonnɔ te, ane lɛ teŋ na baŋ e a wuli nimipa ko ba.","Tinasani nye tuma na alanta puoru ni mberɛ sunu ba, alanta puoru ni mberɛ, ani agwanne ge zu kaaruba na ntuno asunoti, ani leti naba i awuli ni mi pakoba.",0.9697,0.2748
+510,"Te na zanne nyɛɛ lɛ teŋ na toɔ̃ e a de Naaŋmen sowuli toŋ neŋ toma, saŋa na teŋ wa derɛ gbɛɛ naŋ e nimizeɛ.","Tenne zanne ne le tenne tuon e, a den na amone so le tonnen tuma, saana teng wa dera bee na inim bi zie.",0.88,0.4
+511,"Gɔɔ: A radio station na baŋ boɔlɔ ka a YELBIRI la baŋ transmiterɛ zie kaŋa naŋ do yaga zaa zuŋ Batavia, Illinois teŋkpɛŋ poɔŋ","Yelbie nambe a foto puli na kanneem ka, go a radio station na bam woloka a yelbiri laban transmitre zie kana nan do yara zaa zuum Batavia, Illinois teng pampuong.",0.875,0.52
+512,WALA HOŊ NA IRI A NOƆRE?,Wale na iri anware.,0.6667,0.3333
+513,BON NANSO AŊ NA BAŊ E KPEƐŊAA KO BO KA HO TAA POPEƐLOŊ HO NYAAMMO SAŊA,Búnnànsù annabàrì pìyàŋà kùbò kà hò tàpù pìyàlòng hò nyà mǔsàngà.,1.0,0.6364
+514,BO YƐLƐŊ NA BAŊ SOŊ TE KA TE NARE TE MENNE KO A YELKPEƐNE AMA?,Buiyelle na ba sonse ka tin nar temme ko ayel piene ama.,0.7333,0.3617
+515,ka te Kristabitɔ kaŋaŋ wa e yelkaŋa a sãã te poɔ?,Kati Kristabi toɔkanna wa yi yeli kaana a Saint-Pierre.,0.9091,0.4737
+516,"KA NEƐ KAŊAŊ E YELKAŊA A SÃÃ HO POƆ, . . .","Kanya kaŋa, yelye kaŋa a saho puo.",0.8889,0.3333
+517,Bo teŋ na baŋ e a maŋ de diire neŋ te taaba sukyie?,Bochɛnna ba ayi ama ndɛ di re ne n titaa suchi ye.,1.0,0.4474
+518,"SƐRE HOŊ NA GAA SAKUU GAA TƆƆRE NA, BOŊ NA BAŊ SOŊ BO KA HO . . .","Sero na gaa saku ga torna, bon na ba sombo ka ho",0.6667,0.2727
+519,Ho Eɛ Nanee Yaga Zaa Ko Jehoova,Bo yenn na ne ya ga za ku Jehovah.,1.2857,0.36
+520,WALA HOŊ NA IRI A NOƆRE?,Wala hunn Eid al-Fitr,0.8333,0.5556
+521,Naa Hezekaiya naŋ da wa kono na?,Naa Hezekiah na da wa ko no na.,0.5714,0.16
+522,Sobuo ka te puore sɔroo na baŋ soŋ te yɔɔmine?,Sobu katu puoro na bansontu yoo mine.,0.9,0.3333
+523,Yɛlɛ Teŋ Na Baŋ Zanne Yi A Sukyiridii Zaa Naaŋmen Zieŋ,Yele ten na baa zane yi asochiri di zaa ana anwene zie.,0.8182,0.3182
+524,d A FOTO POƆ YƐLƐ: Te yɔɔdɔba ne te yɔɔpɔgeba la korɔ noba naŋ de suobu na waayaane.,"Waale bo piina wa ye foto puo yele, ti yo dobo ne ti yo pobu minela chenne la ba mopenkaaziye. Noba ne ndi suobu wa pare e ba bi tore ba munyere nuoro koro ba.",1.6667,1.3077
+525,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,"Sori, a daa yielebo nantuu anya ebo.",0.75,0.2692
+526,Bo yɛlɛ ka Jehoova yel a wuli te ka o nɔ-eŋnaa na na nyɛɛ eebo?,"Bụrụ na ị ka dị gịrịgịrị, ọ nọọ ị na-ana na nye ịbụ.",0.9333,0.6809
+527,Bo Tɔnɔ Hoŋ Na Baŋ Nyɛ Yi Jehoova Sudi Na Eŋɛŋ?,M'u tana ho la banye yi Jehovah sudi na eneng?,0.7273,0.3889
+528,“A SAA ANE A BIE ANE A VOOROŊ SOŊ YUORI EŊƐ”,A sa ane a bie ane a voro so yiri ne.,0.4545,0.2812
+529,pɛlɛ Yezu Krista poɔ?,Pelee yiri krista puo.,0.75,0.4706
+530,SOŊ TE YƆƆDƆBA KA BA KYILE A TOƆ̃ DEƐRƐ A LANTAAPUORUU WEƐ,"Sọntị yọdọba ka ba ch'ele, atụa ndịara alantá puọrọ wiye.",0.8333,0.5
+531,WALA HOŊ NA IRI A NOƆRE?,Wala hunne iri anmore.,0.6667,0.2778
+532,Yezu La Te Ŋmenpuore Wedeɛrekpoŋ Naŋ Taa Nyonono,Yie zie la tengne puoru diere pong nan taa nyonu no.,1.125,0.4146
+533,A vidiori na naŋ tutaa a be Viewpoints on the Origin of Life zie na,A vi di yiri na na tu chita a be view points on the origin of life zie na.,0.5333,0.1321
+534,Sori na a nembɛrɛ naŋ maŋ tu a mɔɔrɔ ka ba soŋ noba naŋ e yelfaare naŋ e nimizeɛ a lantaapuoruu poɔŋ.,"Sori na animberena mɛntu, amora ka ba sonu ba na eyelfaari na inimizie alensa puoru puo.",0.8182,0.3038
+535,"Maŋ vɛŋ ka a naaŋ moɔloo lammo e ŋmaa lɛ. Ho na baŋ deɛ minti aŋa ayɔpoi a e lɛ, ka a soŋ ka ho yɔɔmine maŋ toɔ̃ gaa a naaŋ moɔloo wieoŋ.","Maamveng ka ana amu oru la ngbu enmaali, wulaba ndie minti ana ayopui ale ka asong ka hu yomine maantuong ga ana amu oru wiyom.",0.8788,0.4554
+536,ka te kultatɔŋ wa e yelkaŋa a sãã te poɔ?,Kate ku taaŋ wa e iel kaŋa a sante puo.,0.8,0.2581
+537,Saŋa na maŋ da tonɔ toma a Japan Bɛɛtil na,"A fuoto na mbibi na puo yele, ke lazing utuma zi mbetere, yelbie na mbibi a fuoto puli na kanne nka, sanga na maanda tuona tuma a Japan mbeto nu.",2.7,2.7273
+538,"Tuuro a Leɛteɛroo Baabole kannoo naŋ be A Bebiri Zaa Baabole Zannoo gane na poɔŋ, a maŋ kanna a Leɛteɛroo Baabole kannoo na bebiri zaa .","A na-eme ya abịbịrị zaa baa bụzị anọ ga na-afụ ya, a ma na a lietiara baa bụzị ka a na-abịbịrị zaa. Tumbụọ nụ baa ka ba wa",1.04,0.7523
+539,BONSO AŊ SEŊ KA TE BOƆLE A LANTAAPUORUU NEMBƐRƐ?,"Bonsoir, a zɛn ka te bɔlɛ a lanta puru nɛmbɛre.",0.7778,0.3333
+540,KA NEƐ KAŊA HO NAŊ SAGEDIŊ WA YI HO PUORI,A ne ka nga ho na sori din wa yi hupore.,0.9,0.375
+541,Bo yɛlɛŋ na baŋ soŋ neŋnyaane ka ba naŋ kyɛnɛ taa popeɛloŋ?,Boyela naba sonne nyane kaba na nchane taa po pialu.,1.0,0.3404
+542,TE DA LƐ NYƐƐ APOƆSORI MINE NAŊ E A YOŊ ANE YELKPEƐNE MINE TEŊ DA TUORE,"Dala nye a puoso mine na a yong, ale yelpiene mine tenda tuore.",0.75,0.3214
+543,Yezu nɔmmo na?,Yezu nombo na.,0.3333,0.1818
+544,Bo yɛlɛ mine la da maŋ vɛŋ ka bitontona Pɔɔl eŋɛ kyoɔre yaga zaa saŋa kaŋa?,Bong yele mine la da ma weng ka bi tontuna pol enga chuori yaga zaa sanga kanga.,0.6875,0.3898
+545,Naaŋmen Da Iree Ba Puoro Nɔɛ Ko Ba,"A dã da nambibe na puo ya kanne ka, na me n de iri ba puoro na ya kuba.",2.0,1.1852
+546,"Ka Hooŋ Wa Kanne A Zannoo Yɛlɛ Ayi Ŋa, Ho Na Taa La Popeɛloŋ","A da ka naambe be na puo yele ka neɛn ka ka wonuop kanne a zanoo yele a yi nya, ona taa la kopieloŋ.",1.3571,0.9348
+547,STÉPHANE LANDEROIN LA MANNE O ZEMMO YƐLƐ,Stéphanie Landreville la manno o zembo yele.,0.7143,0.3235
+548,"“Kyɛ, N Neŋkpoŋ, . . . ka hooŋ wa wulo te boma a wa ta zie kaŋa ka te ba baŋ a tɛgɛ soŋ, te ba maŋ soore bo soorebie bee?”","Che, innung puong, ka hu ula teb ma awat zie ka nga ka ta ba ban a tagi so, ta ba ma sorubu sorubi ye be.",0.8214,0.4217
+549,N neŋ Adel la,"Yelbie nambe a foto pulli na ka nne nka, nne n'ade olla.",3.0,3.3
+550,MOƆRƆ KA HO TEƐRƐ YƐLƐ AŊA JEHOOVA,"Mwara, ka o cira yele a na Jehovah.",1.0,0.4643
+551,Maŋ Kyɛllɛ Wono Yɛlɛ Soŋ Ka Hooŋ Wa Gaa A Lammore Zie,Manchen le wone yela so nka hu wa gaa ala mmorizie.,0.8333,0.3333
+552,Bo yɛlɛ aŋ seŋ ka Kristabie peɛre gaa tɔɔre sɛre kyɛ derɛ gbɛre ka o na gaaɛ sakuu gaa tɔɔre?,Bùyàlà a sǐn kɛ Kriste biɛ piɛl gá tɔre sàra chaa dɛdɛ gberɛ ka ūnà gá saku gá tɔre.,0.95,0.4658
+553,Bo Yɛlɛŋ E Nimizeɛ Aseŋ Ka Ho Daŋ Zanne?,"Bọ yela nne me zie, a sa nka ho daa nzaane.",1.1111,0.4516
+554,SOŊ HO BIE KA O BAŊ LƐ NA OŊ NA MAŊ MANNE O SAGEDIIBU YƐLƐ KO O TAABA,Sọọbịa ka ọbụlụ ụna ma mma na usagidi igbo yela kọọta aba.,0.8889,0.4808
+555,Tɔglɔ Jehoova Sigrimennoŋ Gyogo Na,Tawla Jehovah sigri men non jona.,1.2,0.3333
+556,c A FOTO POƆ YƐLƐ: Te yɔɔpɔge kaŋa naŋ e Kristabie naŋ kyile la korɔ te yɔɔpɔge bile kaŋa kawaŋ-sonne.,Yelbie na kyɛ a foto na kanne nka. Tiyopo kaŋa na a krista biiri na nchili lakuro tiyopo bile kaŋa ka wansoni.,0.9,0.5875
+557,Sɛge ho noɔre iribo na eŋ kyɛ,"Wɛlbu ayu a be suori biri, bon ka Yezudaa e okuuli iri puoriŋ.",1.8571,1.6087
+558,SETAANA ŊMAAƐ ZIRII DƆGLE JEHOOVA NEŊ YEZU,Setaana maa ziri dogle Jehova ni yɛlɛ su.,1.0,0.3056
+559,Tɔnɔ bana na ba naŋ sɔ a naaloŋ kãã ane a pikyɛlɛɛ naŋ na baŋ nyɛ yi Yezu Krista sareka na eŋɛŋ.,Naa ba na na ba na so a na a lonka a ne a pichele na ba nye yi Yesu Kristo sara ka na eneng.,0.8182,0.3514
+560,TƆGLƆ LƐ NA YEZU NAŊ DA E SAŊA NA OŊ DA WA TUORO DAŊKYAGRE NA,Chagla le na yie zu na na yisangana onda wo tuore da nchagla na.,0.8667,0.4255
+561,YƐLƐ TE NAŊ NA ZANNE,yelet na na zane,0.8,0.3125
+562,Sobuo ka Jehoova ane Yezu tu kyɛ de Naaŋmen bonmaalee wuli te yelnimizeere mine?,Soo buo ka Jehova ni Jesu to chade na amwe mbo maali wulti yeli mbe ziri mine.,1.0714,0.3636
+563,De Jehoova puoruu yɛlɛ de weɛ ho zemmo poɔŋ.,"Jose Mourinho, monimiri a tunu ana",1.0,0.8857
+564,"Sɛrɛɛ diibu na Jehoova naŋ na di nendaare kaŋa na, te na baŋ sagediŋ ka o na di la sɛrɛɛ mennoŋ ane dantorii soriŋ.","Sere diibu na Jehovah nenne di na ndaar kaŋa. Tinebaansaar diŋka, ona di la asere menu ani ndantori sorin.",0.75,0.3222
+565,TA VƐŊ KA HO EŊƐ KYOƆRE KA YƐLƐŊ BA WA KYƐNƐ SOŊ,Tɛvɛn ka o e n-kyuoro ka yele mba wa chɛ na sung.,0.8333,0.4595
+566,Yɛlɛ Hoŋ Na Baŋ E A De Soŋ Ho Booree Deme Naŋ Ba Puoro Jehoova,Yele ho naba a adesoŋ ho buori demine namba puoro Jehovah.,0.8,0.2708
+567,WALA HOŊ NA IRI A NOƆRE?,Wala bonniri annuol,0.8333,0.3889
+568,Wala Ka A Nembɛrɛ Na Baŋ E Soŋ?,"A daa ka pɔyɛ le ka nɛnka, wala ka nɛn bɛrɛ naba i so.",1.625,1.0435
+569,LƐ N YIDEME ZEMMO NAŊ DA WAA,Le enyɛ demɛ zɛmɔ nanda wa.,1.0,0.4091
+570,BO GYOGRI LA AŊ SEŊ KA N TAA?,"Bonjour la, a sanka anta.",0.875,0.4286
+571,WALA TEŊ NA BAŊ E A DE WULI KA TE . . .,Wala tana baa a adewule katɛ.,0.8,0.25
+572,maŋ erɛ yɛlɛ naŋ na vɛŋ ka te tage peɛle Jehoova?,Maan irele na na ven katitaa piili Jehovah.,0.9091,0.4737
+573,“Saa Na Te Zaa Naŋ Boɔrɔ”,"Tagara na m bebe na puo yela ka ne nka, saa na tiza na m buoro.",2.3333,1.9444
+574,"Teŋ na vɛŋ ka te teɛroŋ gaŋ, ane sigrimennoŋ gyogo",Kyenaa ba ka ta chierong gang a na sigiri min nu njuko.,1.2,0.6
+575,Lɛ na maŋ mɔnɔ a lɔɔre na maŋ vɛŋɛɛŋ aŋ e kpeɛŋaa ko noba naŋ tuuro ma ka ba nyɛ zie a gaa bee?,Lana ma mɔna aluore na ma vɛŋɛ a epieŋa ko nuba na tuuro maka ba nyezi a ga abe.,0.7917,0.2535
+576,"ka nandaaneba meŋ pɛnɛ zuŋ,",Kannan daan ba mɛn pɛnɛ zuo.,1.0,0.2273
+577,Bo Baabole sowuli mine la ka Yezu wuli te a yi o Taŋazu Yelyaga na poɔŋ?,Bo babuli so wuli mine la ka yezu wuli ti a yi utaŋa zu yalyara na puo.,0.5,0.1786
+578,a sigri te menne?,A cigarette menne.,0.5,0.3077
+579,NAŊ MOƆ̃ NIŊE PUORO JEHOOVA,Naa moori ne foro Jehovah.,1.0,0.3636
+580,YƐLƐ NAŊ SEŊ KA A E NIMIZEƐ KO TE TE ZEMMO POƆŊ,Yele na sanka inimizi a kote te zema puo.,0.8333,0.3889
+581,A zannoo ŋa na soŋ teŋ ka te nyɛ lɛ teŋ na baŋ taa popeɛloŋ a naaŋ moɔloo poɔŋ.,A zano nga na sunten ka tinye le tinna ban taa pupielong ana muolumpuong.,0.7895,0.4333
+582,"Bo yelkpeɛne mine yɛŋ da tuore, ka boŋ da soŋ yɛ yɛŋ toɔ̃ are a noɔreŋ?","Bò yel piili mine yen daa tuori, ka bon daa suŋ ye yen so aara noore.",0.9375,0.3962
+583,SORI NA JEHOOVA NAŊ DA MAŊ TU KYƐ KORƆ A DƐNDƐŊ KRISTABIIRI SOWULI,Surna Jehova nandaan tu cha kora a denden Kristo biri sowuli.,0.8462,0.2778
+584,Soorebiri Naŋ Ba E Kpeɛŋaa Neɛzaa Naŋ Na Baŋ Soore,Sori bire namba a piana ni a zanna naba sori. A foto na mbe be na puo yeli ti yelpo ka ana osirela zanna abayi bo ne mpo ka ana video conference zoom.,3.2,2.122
+585,WALA HOŊ NA IRI A NOƆRE?,Wala hunna ila anwar.,0.8333,0.3889
+586,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yiranda ba naŋ kanna sigga ba naŋ mansoro.,0.6667,0.3636
+587,Mɔɔrɔ Ka Ho Taa Teɛroŋ Na Jehoova Naŋ Taa Kyaare Yelkpeɛne Na Hoŋ Maŋ Tuoro Na,Mɔrɔ ka ho taa tiyaru na Jehovah na nta chare yeli piene na huma tuuro na.,0.6875,0.3175
+588,saŋa na Jehoova lantaapuoruu naŋ wa korɔ te sowuli?,Sana Jehovah lancha puoro namakrochi sooli.,1.0,0.4048
+589,"“Tɔɔ, N Neŋkpoŋ, lɛ ne o zuŋ da e be meŋ. A dɔɔ da wulo teŋ a Baabole poɔ yɛlɛ, maŋ sooroo soorebiri kaŋa. Ka o naŋ ba toɔ̃ iri a soorebiri noɔre, bonso aŋ pãã seŋ ka N lɛ sɛge lɛtɛ koo a sɔre sudi?”","Ka nimbong, le na o zune da ibe meng, ado da wulu teng a Bible puo yele, ma soro so bir ka nga. Ka ona ba ton ir a soro bir nuori, bo so an pasen ka ilesayilete ko asoro su di.",0.8696,0.4306
+590,bo teɛroŋ aŋ seŋ ka te taa kyaare yelkpeɛne na teŋ na baŋ tuore na?,Buchi a ron ai san ka ta ta charil kenna tan na ban turina.,0.9333,0.4808
+591,Jehoova Taaɛ A Kpeɛ̃o Ka O E Lɛ,Jehovah taya a piemo ka o ele.,0.625,0.3478
+592,YEZU DA MAŊ BƆ LA WAGRE BIŊ A PUORO,Yesu daa man bola waagri biing apuoro.,1.0,0.3333
+593,"e FOTO POƆ YƐLƐ: Yezu la are a puori seŋ, kyɛ ka a pɔge paalaa neŋ o serɛ ane ba saamma nyuuro a dãã naŋ kpɛ na, a taa popeɛloŋ.","Foto na char o welu piene bu nyeni puo yele na ka nne nka. I yelsu la a puri seng, che ka pogpaala ne osire, a ne ba saama nyuuro ada na npena ata puopielo.",1.0667,0.6842
+594,JEHOOVA VƐŊƐƐŊ TEŊ BAŊ KA TE EƐ NANEE YAGA ZAA KOO,Jehova vɛnɛn ti mba nka a ti i nna ni ya ka za akuu.,1.2727,0.4
+595,WALA HOŊ NA IRI A NOƆRE?,Wala huna iri anuwar.,0.6667,0.3333
+596,Bo ewuli soŋ ka Jehoova e wuli te a kyaare gyogo a naŋ seŋ ka te taa kyaare pɔgeba?,Boli wulu sonka jowa wulu ti achara jogo ana nse nkata ta chara pogba.,1.0,0.4219
+597,"TA TAA SAANAA ZAA, MAŊ ERƐ YƐLƐ NAŊ TORI","Taataana zaa, maa ire yeli na ntori, o welu anaar suru biri. Walaa kyɛ banka, soobu diibu yoo naane ka Jehova buoro yire te zie.",2.7778,2.5484
+598,Gyekɔb Yelyag-Baaraa Soba Oŋ Manne Ko O Bidɔba A Kyaare Nendaare Kaŋa,"A dara nimbie na puo yela kaniŋ ka, chakop yeli yire baara soba, Umaru Musa Yar'Adua achar nen dar kaŋa.",1.5833,0.9649
+599,WALA TEŊ NA BAŊ E A TƆGLE JEHOOVA DANTORII ANE O NIMIMAAROŊ NA?,Wala chana banye a chorle Jehova daa tuori ani onimi maaro na?,0.8462,0.3
+600,MAŊ WULO BA JEHOOVA YƐLƐ,Maan gulo ba Jehovah yele.,0.8,0.35
+601,Bo yɛlɛ ka Jehoova maŋ kaa kyɛ di te yelbebe suuri ko te?,Bòlè ka Jehova manka che di ti yelbee suru kote.,0.8462,0.3182
+602,Wala Ka Gyud Da Boɔrɔ Ka O Wuli?,"A daka na beebee na puo yele ka ninkaa, uo yele ka juut da buoro ka uuli.",1.875,1.6667
+603,NAŊ KYƐNƐ DE YƐLƐ NA JEHOOVA NAŊ MAŊ LEƐTEƐRE TE NA TEGROŊ,Nang chana yele na Jehovah nammanli a kyere ti na tegarong.,0.8333,0.4894
+604,"A zannoo ŋa poɔŋ, bidɔgreba na nyɛɛ lɛ baŋ na baŋ yel Naaŋmen ane a Baabole yɛlɛ ko ba bibiiri, a soŋ ba ka ba eŋ ba sagediibu faŋa.","A zano nga puo, mbe dogru ba na nyele ba na ba nyeli na anwene, ana a Baibulu yeli a koba bibiri, asu mba kaba imbasagidi ebu fana.",0.931,0.3267
+605,Ananso Aŋ Da Waa Ŋa A Koŋ Baŋ Nyɛ Eebo,Ana so a nda waa nga akumbanye i bu.,1.0,0.3448
+606,ho na baŋ dɛlɛɛ a Soobu Kpeɛ̃o Zaa Daana Jehoova kpɛlɛŋkpɛlɛŋ?,Naa Baan Dele asubuki yong zaa daana Jehova kylene kylene.,0.9091,0.52
+607,NYONONO,Yele biɛle mbe a foto puli na ka neɛ ka n nyonono.,11.0,4.4286
+608,A NAAŊ MOƆLOO TOMA DA VƐŊƐƐŊ BAŊ TAA NOƆREYENI,Anamworo tuma da be nga mba ntaanu ori yeli.,1.0,0.4737
+609,A KORINTI NOBA DA DE LA SUOBU,A koranti nuba da Dila si o bo.,0.8571,0.2174
+610,N DA MAŊ EƐ N YOŊ LƐ A KYƐ DA NAŊ TONƆ TOŊKPEƐNE MINE MEŊ,"Nda me ye i yolle, a cha da na ntsu na tu pielle mine min.",0.9333,0.4884
+611,N DA BARƐƐ UNIVERSITY NA MAŊ DA GƐRƐ NA A KYƐ LEƐ TONƆ A PAANEƐ TOMA,"Nda bare university na ma nda gere na, a chel ye tuona apaani ye tuona.",0.75,0.3208
+612,MAŊ TEƐRƐ YƐLƐ NA HO NAŊ KANNA NA GƐRƐ TƆƆRE,Mantiire yele na ho na ka ana na gere toori.,0.8,0.3714
+613,Kaara soŋ a ta wa vɛŋ ka ho noɔre iribo na sãã ho yɔɔ kaŋa poɔ. Ka hooŋ wa ire yɛlɛ noɔre kaara soŋ a ta wa derɛ ho noɔre iribo na terɛ kawane bee a neɛnɛ yele ho yɔɔ kaŋa nimiri yɛlɛ.,"Kaara soŋ atawa veŋ ka hunuori iribu na saa hu yoo ka na puo, ka huŋ wa ire yele nuori, ka ara soŋ atawa dira hunuori iribu na tiri akawane be annie na yele hu yoo ka na nimiri yele.",0.814,0.3
+614,JEHOOVA MAŊ KORƆ TEŊ TEƐRETƆ,Jehovah mankuratem tiireto.,1.0,0.375
+615,"KA HOOŊ WA BONNƆ KA KAAPƆGE SAŊA KAŊA NAŊ PARE HO BA DE GBƐ-SONNE HO ZEMMO POƆŊ, BOŊ NA BAŊ SOŊ BO?","Ka mụwa bụ Nnọka ka a pụrụ isi aka na mparị, uba dị egwu siri na ya pụta. Gịnị bụ aha nsogbu gị?",0.9545,0.6
+616,Wala teŋ na baŋ e wuli nimipa ko a yɔɔdeɛbo?,A wuli ni mi pako a yiri a bu. Yelong koo,1.1,0.7353
+617,"A yuomo ŋa zaa poɔŋ, Jehoova korɔ maŋ wuluu naŋ na toɔ̃ soŋ ma ka N e o puorebie naŋ seŋ neŋ. A Buddhist puoruu poɔŋ maŋ da be, yɛ vɛŋ ka N manne koɛ lɛ maŋ e nyɛ a yelmeŋɛ.","Aju m onye a za apụọ, Jehova kwụrụ m nwụrụ na nna tọọ sọ mma ka m ga-apụọ bịa na nsị ni. Abụrụ m esịpụọ apụọ ma ndabị. Ya bụ nke m ma nnekwu ya lema enye ayịlị mịe.",0.9756,0.5625
+618,A ZANNOO ŊA EŊNƐƐ SAGEDIIBU FAŊA YAGA ZAA,"A zano nga, inne sak di bu faŋa yagaza.",1.0,0.3235
+619,Bonso ka a Baabole maŋ yele yɛlɛ mine gbɛɛ yaga?,Mba sokha bae bo ma yeli yeli mine be yela.,0.9,0.4211
+620,Gyekɔb Yelyag-Baaraa Soba Oŋ Manne Ko O Bidɔba A Kyaare Nendaare Kaŋa,A dɔge nɛn bi-bɛr pɔge la kaniŋka. Je-kɔb yeli yiri bara soba ʊmmanɛ kɔbi dɔbo a charinɛ darka.,1.5,0.8596
+621,"WULO HO YƆƆMINE NƆMMO, A MAŊ DERƐ BA SAANNOŊ MEŊ","Wulo huyomine nammo, amandereba saa nomme.",0.9,0.2368
+622,Bo hoŋ na baŋ e a “naŋ kyɛnɛ tuuro” Yezu ho suobu deebo puoriŋ?,Bọmunaba eh ana nchineke turo yezu usu ogbe di wu puori.,1.0,0.4894
+623,Boŋ na baŋ soŋ te ka te taa teɛroŋ na Jehoova naŋ taa kyaare te na?,Bòl na baasonte ka titaa teeru na Jehovah na ntaachare tina.,0.8125,0.2941
+624,A sakuu neŋkpoŋ da yelko la John ka o sɛge lɛtɛ a te ko a ŋmenpuore wedeɛrɛ a sɔre sudi. Ka John da sɛge ka:,"A sị na kọmputa na-elekọta John ka o si gaa leta, a na-emepụta ya dị ka a sọrọ sụdị ka John na-ese ka.",0.68,0.5488
+625,‘Jehoova La So A Zɔɔre’,Jehovah la so azore.,0.6,0.2353
+626,KA TENEEŊ WA PUGIRO NAAŊMEN YUORI NA SOBUO AŊ MAŊ . . .,"Katu ni wa puoro na muoni yuor na, sobuo amman.",0.8,0.35
+627,Ananso la wala ka Jehoova da nɔŋ Daaniel?,A na-asụ lawa ka Jehova na Daniel.,0.875,0.303
+628,"Ana saŋa na, neɛ kaŋa da ko maŋ Baabole. N da piili kannɛɛ a Baabole a teɛre ka o na soŋ maŋ ka N taa popeɛloŋ N zemmo poɔŋ. Kyɛ, N da ba maŋ baŋ yɛlɛ na maŋ kanna na pare.","Anasãna na yaga na da ko ma baabul, de piili ka ne a baabul a kyere ka ona somman ka n taa pu pyele n ze m puon. Che, n da be ma baanyele na man ka na na pare.",0.7073,0.3386
+629,Gaa A Lantaapuoruu Nembɛrɛ Zie A Te Bɔ Sommo,Ga alanta purunim berezi a tabosong mo.,0.8889,0.3333
+630,JEHOOVA MAŊ WULO TEŊ SORI,Jehovah maŋ wulo tinsori.,0.6,0.1905
+631,"Ka teneeŋ na toɔ̃ wuli nimipa meŋɛmeŋɛ ko sudi na Jehoova naŋ di ko te na, aseŋ ka te zanne baŋ yɛlɛ na Jehoova naŋ e ko te ka lɛ vɛŋ teŋ nyɛ yelbebe sudi.",Kotee na tuu nguli nimmipam meŋe meŋe kusu di na Jehova na ndi kotee na. Asi nkate zaa nibe anyele na Jehova na ekotee ka la vien tin nya yelibebe sudi.,0.8571,0.2966
+632,"Ka ba naŋ yelka ho eɛ “neɛ naŋ ba taa saanaa zaa [ho] sokyenee poɔŋ, a maŋ erɛ yɛlɛ naŋ tori” wala ka lɛ wuli?","A bana yelka ho yelye na mataa saana huso cha na puong, ama ire yeli na tuori wala ka le wuli.",0.8,0.3625
+633,BO YƐLƐŊ NA BAŊ VƐŊ KA TE MAŊ DIRE NOBA SƐRƐƐ A KYAARE BA GBƐ-DEREE?,Boya la naba mven ka tumen dire nuba sere achari ba gwediri.,0.8,0.4231
+634,"Te na zannɛɛ yelnimizeere na aŋ seŋ ka ho teɛre gaa tɔɔre sɛre kyɛ derɛ gbɛre a kyaare sakuu gaa tɔɔre yɛlɛ, ane Baabole sowuli naŋ na soŋ bo ka ho de gbɛre naŋ soma.",Tuna zanne yel-nimbiri zere na an sori ka hotiyere ga toori sere cha diri gberu a chara se ku ga toori yele. A ninbaale so wuli na nna sum bu ka ho di gberu na nsuma.,0.8857,0.3923
+635,Wala teŋ na baŋ e a “naŋ kyɛnɛ aŋa kyaanee biiri”?,"Wala China ban'e, ana nchane a ngachane ibiri.",0.8182,0.4324
+636,BOŊ NA BA SOŊ TE KA TE SAGRA . . .,Bonna ba sonte ka te sagra.,0.5,0.0952
+637,YƐLƐ TE NAŊ NA ZANNE,Yele tenan la zanne.,0.8,0.25
+638,MAŊ LEƐRƐ HO YƐLƐ A KYƐ TAA TEƐROŊ NAŊ SOMA A KYAARE A NOBA,Maan lere ho yele a chetaa tiaru na nsuma achari anoba.,0.8571,0.413
+639,WALA HOŊ NA IRI A NOƆRE?,Wala hoona ira nuuware.,0.8333,0.3333
+640,"Saŋa na te zaa naŋ wa piili zanna a Baabole na, te zannɛɛ yelnimizeere mine, te na nyɛɛ lɛ te naŋ na baŋ de ana yɛlɛ na tonɔ neŋ toma zenɛ ŋa.",Saan ti zaa na wopile zaa na a baabol ma. Ti zanne yelne bi ziri mine. Ti na nye le ti na naba de ana yelne atwanne toma zine nga.,0.8125,0.3333
+641,SETAANA NAŊ ŊMAARƐƐ ZIRII DƆGLƆ JEHOOVA NEŊ YEZU,Setaana naŋ maare ziri dogolo Jehova na Yesu.,0.75,0.2683
+642,N DƆGREBA NAŊ DA E MISINAAREHE LA DA GUOLI MA,N dogr baa laa daa emmis naare laa daa goluma.,0.9,0.3889
+643,WALA HOŊ NA IRI A NOƆRE?,Wala hunna idan wara.,0.8333,0.3889
+644,te teɛretɔ na oŋ ko te na eŋɛŋ a sonnɔ te teŋ dire kannyiri?,Ditiara tona ọn kote na eneng asu na tetindire ke nyiri.,0.9286,0.413
+645,SAŊA NA TEŊ WA NARA TE NENDAARE KAŊA YƐLƐ,Saana na taa waannara a tenne daare kma yele.,0.8889,0.3939
+646,Lɛ Jehoova Naŋ Ko Ma Wuluu Aŋ Soŋ Ma N Zemmo Poɔŋ,Lɛɛ Jehova na nkuma wulu a nsoma nzi mu puo.,1.0,0.3421
+647,YƐLƐ TE NAŊ NA ZANNE,Yele na na zanne.,0.6,0.25
+648,Gyekɔb Yelyag-Baaraa Soba Oŋ Manne Ko O Bidɔba A Kyaare Nendaare Kaŋa,A dã la nɛn bi bɛna pɔyɛ la kanneka. Ja ko pɛlɛ yɛ bɛra suba umma na ko bi dɔbɔ achari nɛn darkɛnɛ.,1.8333,0.8947
+649,ANANSO LA WALA AŊ NA FƐRE KA TE MAŊ PUORO SƆRƆ YELYOBO SAŊA KAŊA?,Anu sola wala anu fere katem puoro soro yeli yubu sanga ka.,0.9286,0.3137
+650,saŋa na te yɔɔmine naŋ wa dire dɔgɛɛ?,Sanga na chi yoo mine na n wɛ dire doge.,1.0,0.4138
+651,A MALEKERE NƆNƆ LA NOBA,Amanlekre na la noba.,0.6,0.2632
+652,"Watchtower INTANƐT ZU GAMA BINZIE na baŋ soŋ boŋ ka ho peɛre yɛlɛ yaga. Ka hooŋ kaa a Watchtower INTANƐT ZU GAMA BINZIE na poɔŋ, ho na nyɛɛ dag-bile kaŋa baŋ sɛge eŋ ka bɔ.","Wọ́ytàwà ịntaneeti zụ́ gáma bínzíe na bánsọ́ bọ́n ka hópíre yele yaga. Ka họn ka a wọ́ytàwà ịntaneeti zụ́ gáma bínzíe na pụ́ọ́n, hụ́ na nyɛ́ dabụ́lè ka nga bánsà ìn ka bọ́.",0.7714,0.4701
+653,Sori A Daŋyelbo Naŋ Tu A Nyɛ Eebo,"Sori, a dayɛlɛbu nanchu anya ebo.",0.75,0.3462
+654,YƐLƐ A LANTAAPUORUU NAŊ NA BAŊ E,Yele alancha puoru na nabaayi.,0.8571,0.3462
+655,KRISTAALOŊ GYOGRI MAŊ VƐŊEŊ KA TE ZƆMENNOŊ NA MAALEŊ E KPEƐŊAA,Krestalo njowuri maangye nkatizo m'nno na maali ekwianga.,0.9091,0.4423
+656,iri wagre biŋ a maŋ de kanna a Baabole?,"Kati iri wa ribi, a mande kana a baibuli.",0.7778,0.4
+657,BA DA EƐ KAŊDABAŊKALƐ BA YELFAARE YƐLƐ,Bada yie ka na bankale ba yelfare yele.,1.0,0.3125
+658,A Baabole sɛgre ŋa eŋnɛɛ sagediibu faŋa ka ho eɛ nanee yaga ko Jehoova:,A baa bo sagree nga na baa enge ho sagri bu faŋa ka ho yel na ne ya ga ku Jehovah.,1.2143,0.4211
+659,Te na zanne nyɛɛ lɛ teŋ na baŋ iri bonnoo zaa naŋ na baŋ sãã puoruu na te naŋ de korɔ Jehoova na yi te teɛroŋ poɔŋ.,"Tuna zaa ni yelle, tuna ban iri bonu zaa na na ban saŋ puru na tuna di koro Jehova na yi titiaru puo.",0.7778,0.3636
+660,WALA KA TE YƆƆDƆBƆ NA BAŊ E A TAA TEƐROŊ NA JEHOOVA NAŊ TAA KYAARE PƆGEBA NA?,Wola kati yoo dobana baa i ataa tierona Jehova na taa charo paobana.,0.8824,0.3333
+661,NAŊ MOƆ̃ NIŊE A NYƐRƐ NIMITƆƆRE GAABO HO WULUU POƆ,Naa moni nge anyera nimbitor gaa bu huulu puo.,1.0,0.4
+662,Jehoova eŋɛ maŋ nyagraŋ ka o ko o yelmeŋɛ puorebiiri maaloo?,Jehova inema nyaa goro ka oku yelne puori biri maalo.,0.9091,0.3469
+663,YƐLƐ TE NAŊ NA ZANNE,Yelek nanna zane.,1.0,0.375
+664,"KA HO NƆŊNA KAŊAŊ WA KPI KA HO KONO, JEHOOVA MAŊ NYƐRƐ BOŊ","Kaho na na kaŋa wɛ pi, kaho kunu, Jehova ma nyɛre boŋ.",0.9231,0.2222
+665,Wala teŋ na baŋ e ka te sagediibu e kpeɛŋaa yaga a kyaare Naaŋmen nɔ-eŋnaa na?,Bọlọ chi na-abanye ka ti sagi di bu epie nga yara a chara na nwin nọ inna na.,1.0,0.4918
+666,WALA HOŊ NA IRI A NOƆRE?,Wa laa hu laa iri anwara.,1.0,0.3889
+667,Sobuo ka yɛlɛ na Yezu naŋ tuore saŋa na oŋ da be a teŋɛzuŋ na somoo oŋ wa seŋ neŋ ka o e Ŋmenpuore Wedeɛrekpoŋ?,"Soba ka yela na Jesu na ntuure, sanga na o nde be atinge zu na, sumoo nwa si ni nke o inwme mpuori wɛ diere poɔŋ.",0.84,0.407
+668,Bo la Baabole sowuli?,wula baabul soobuli,1.0,0.3529
+669,Bipɔlɔ—Yɛ Tɔglɔ Marko Neŋ Timoti,Bipolo yetolo ma ko nin Timoti.,1.0,0.3333
+670,YEZU YƆƆDEƐBO NA LA YƆƆ A SANE,Yezu yuo diabo na la yuo asana.,0.7143,0.2917
+671,N DA E LA GBANDIGE ZUKAARA SAŊA NA A GƆMENANTE NAŊ WA DE O NU DƆGLE TE PUORUU TOMA NA,Nda ilakban dige zukaara sanga na agomineens na wa di unu wɛlɛti puoru chuoma na.,0.8,0.3182
+672,TƆNƆ TEŊ NA NYƐ KA TENEEŊ MAŊ NYƐ PƆGEBA NAŊ BE A LANTAAPUORUU POƆŊ NA KA BA SEREŊ EƐ TE YƆƆPƆGEBA,Thonathimanye ka tene manya powe na mbi ala ntha puur puuna ka kbasiri iya ti yoo powa.,0.9048,0.4744
+673,YƐLƐ MINE HOŊ NA BAŊ ZANNE HO MEŊƐ ZANNOO SAŊA,Ielem ne hon na ban za ne ho meng za nu sanga.,1.0,0.3784
+674,YƐLƐ TE NAŊ NA ZANNE,Yele tɛnanna zanne.,0.8,0.25
+675,N MAŊ ZANNƐƐ JEHOOVA YƐLƐ A YI TE LAMMOBƐRƐ ZIEŊ,Maan zanne Jehovah yelle hayitila mumbere ziin.,1.0,0.4615
+676,“YƐNEE LA N SIEREE DEME”,Yeniri la nsiri deme.,0.6,0.3889
+677,TE DA LEƐ NYƐƐ TOMPAALA ASIA TEŊƐ NAŊ,Tidaali nyaa tumpala a isi a tengɛ na.,1.0,0.4
+678,Bo aŋ seŋ ka te erɛ ka bo yɛlɛ aŋ ba seŋ ka te erɛ ka lɛ na baŋ vɛŋ ka te ennɛ bana naŋ zoro Jehoova na?,Bo 54 ire ka bo yele 54 ire ka le na ba 24 ene ba na na zure Jehova na.,0.7857,0.5263
+679,Gbɛɛ Noba Mine Naŋ Maŋ De,"LBA na mbe adaga puo na ka na enka, ngbe enu ba mini na Monday.",2.5,1.8
+680,Wala teŋ na baŋ e a sonnɔ neŋnyaane naŋ be te lantaapuoruu poɔŋ?,Wala tunna ba a asonani nyaane na mbe tila ta puoru puon.,0.9231,0.3137
+681,SOBUO KA YEZU DA WULI NƆMMO KO O BITONTONEE NA?,Sobu ka Yesu daa wuli noɔmɔ ku obituutu na.,0.7,0.3514
+682,Yɛlɛ Teŋ Na Baŋ Zanne Yi Yelbie Dɔbɔ Naŋ Taa Yelmennoŋ Naŋ Da Yel Kyɛ Kpi Na Poɔŋ,Yelɛ tɛnna ba n zani yi yelbie dɔbɔnaa yelmennu na n de yelchepienaa puon.,0.8889,0.3438
+683,TA WA VƐNƐ KA YELZAA SÃÃNA HO POPEƐLOŊ,Ka wa vena ka yele za saana hopu piilu.,0.875,0.3871
+684,YEZU DA EƐ YELSEƐLEE A KO NOBA TURI YAGA BOROBORO,Yezu da Eya lesiele a kunu ba turi ya ga boroboro.,0.6,0.2
+685,YELKPEƐNE DA PIILI WAANAŊ,Yelpiene da pii luo naŋ.,1.0,0.3182
+686,Bo yɛlɛ ka Setaana maŋ de a boɔrɔ ka o bale te sagediibu ka a e kpeɛŋaa ko te ka te are kpeɛŋaa?,"Bụi yela kstana mande, abuo ra ka ubaltisa di bu ka i pienga koti ka ti ar pienga.",0.8696,0.4384
+687,Sobuo ka nimipa na baŋ soŋ bo ka ho de ho meŋɛ ko Jehoova?,Sɔpuo ka nimi pana ba nsombol ka hude homeng ku Jehova.,0.8571,0.2273
+688,YƐLƐ NAŊ NA BAŊ VƐŊ KA A E KPEƐŊAA KA HO TAA POPEƐLOŊ,Yelena na ban ven ka a pieng ka o taa po piellu.,0.6923,0.439
+689,Baabole zannezanneba na baŋ wuli nimipa ko a yɔɔdeɛbo sareka?,Sobu ka ba bo zani zani ba na gba nwuli ni mipa ko ayi odi a busara ka.,1.5,0.3725
+690,BO YƐLƐŊ NA E?,Boyaare na e?,0.5,0.4
+691,WULO HO KRISTABITAABA GYEREMƐ,Wulo ho Kriste bita ba jereme.,1.0,0.1923
+692,BO YƐLƐ MINE LA KA PIITA LEƐ TEƐRE TE . . .,la capitale,0.8889,0.6897
+693,YƐLƐ TE NAŊ NA ZANNE,Yelet nanna zane.,1.0,0.3125
+694,Arezie Na Ho Kultatɔ Naŋ Taa Ho Zemmo Poɔŋ,A daa na nbe be na pwoe la kanneng ka a zie na ho ko taa na ntsa ho zemu puong.,2.0,1.1176
+695,SAŊA NA HOŊ WA TAA A BOƆBO KA HO LEƐ TE DE BOMA NA HOŊ BARE KYƐ WA PUORO JEHOOVA NA,Sanna na huwata a buobo ka huli a debu ma na humbaree chiree Jehova na.,0.7619,0.4127
+696,Sobuo ka a Samareya noba ewuli soŋ na na baŋ soŋ bo ka ho e leɛroo a toɔ̃ de suobu?,Sobuo ka sa maaria noba i wulo so na naba nsombuo ka ho eliaro atuon disuobu.,0.7,0.2581
+697,Bo tɔnɔ teŋ na nyɛ yi a yɔɔdeɛbo eŋɛŋ nendaarekaŋa?,Ayi ayuo di a bo enyeni ndaara kanga? Wala tina baane,1.1,0.9024
+698,Boŋ na baŋ soŋ te ka te sagedi peɛlaaŋ ka Jehoova nɔŋ teŋ?,Bolanabae sunte kati sori piyele ka Jehovah nonte.,0.9231,0.4444
+699,Te na zanne nyɛɛ lɛ te kaŋa zaa naŋ na baŋ wuli nimipa ko Yezu yɔɔdeɛbo sareka na.,Tɛ na zaa ne yɛlɛ te kaŋa zaa na nna ba wuli ni mi paku yɛlɛ zu yɔɔ diɛ bu sara ka na.,0.9444,0.2031
+700,NAŊ KYƐNƐ TAA SAGEDIIBU NAŊ E KPEƐŊAA A LAŊNOƆRE PUORUU EŊƐŊ,Naaŋmen taa saakɛɛbu na e piiliŋaa a la noor puoruu eŋɛ.,0.7273,0.4
+701,BAAPAALBA—YƐ NA BAŊ NYƐ LA POPEƐLOŊ YƐ ZEMMO POƆŊ,"Ba palba, yela banye lapu pielu ya zi mpuong.",1.0,0.45
+702,YƐLƐ TE NAŊ NA ZANNE,Yele tenan zane.,1.0,0.3125
+703,NEMBOBO BAŊ NA “TAA . . . GAA NE”?,Nimbobo ba na taa gaane.,0.6667,0.1
+704,VƐŊ KA HO BAABOLE ZANNEZANNA NA BAŊ KA HO SAGOOŊ DI,Venkatesh wozan zena na banka ho savandi.,0.8182,0.4634
+705,Bo Teŋ Na Baŋ Zanne Yi Piita Lɛtare Ayi Na Poɔŋ?,Bótin na ma zani Peter letare ayi na puo.,0.7273,0.4324
+706,Wala teŋ na baŋ e taa sumaaroŋ?,Wala tunna ba ita sumarum.,0.8571,0.3333
+707,bo kyɔɔta-tegroŋ la ka Jehoova de ko te?,Bo chota tekeron la ka Jehovah dakote.,0.75,0.3226
+708,Ka Lɛ Jehoova Na Kyɛlle Woŋee N Puoro?,Kalle Jehova na chenne wuli mpuro.,0.875,0.4667
+709,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yel'ɛnna ba naŋ ka na te gane na ma soro.,0.8889,0.303
+710,Te Nɔŋna Naŋ Kanna A Yɛlɛ,Kyenona na nkan na ayela.,1.0,0.35
+711,"Jehoova da ko la Siimiyoŋ apoɔsori oŋ nyɛ Yezu saŋa na oŋ naŋ e bilɛɛ, a da lɛ somoo oŋ manne daŋyelbo yɛlɛ a kyaare a Mɛzaaya",Yelbi a na nbe a foto puli na kanne ka Jehovah da kulasii m yona puoso ruo nyɛ yɛ suongana onna bile. A la somu omma ne da yelbu yele achara me zaya.,1.2222,0.6566
+712,TA VƐŊ KA HO YƐLƐ E TUO TE GAALI KA YƐLƐŊ WA LEƐRE HO ZEMMO POƆŊ,Taveng ka ho yele etuo tegale ka yele nwaliere ho zem puo.,0.75,0.3469
+713,NAŊ KYƐNƐ DE YƐLƐ NA HO NAŊ ZANNA NA TONƆ NE TOMA,"Nanchana, de yela na ho nan zana na tunan tuma.",0.6667,0.3421
+714,Dɛle Jehoova Ona La Ho Pi-kpɔgree Na,"Dele Jehová, por alabanza y por honra.",1.0,0.5517
+715,Yelko a soba na naŋ e bo a yelfaa na ka ho di la suuri koo.,Yelko asubana na ebo ayel faana ka hu dilesuuri ko.,0.8125,0.1163
+716,Gyekɔb Yelyag-Baaraa Soba Oŋ Manne Ko O Bidɔba A Kyaare Nendaare Kaŋa,"A daka nambi bena poyele kanne ka, Jacob yeli a baara soba umma ne ko bii tabon achari ne daar ka.",1.5833,0.8421
+717,Jeffrey Winder ane o pɔge Angela la,"A foto na m bi na puola, jeferi winda, ana ngopoga anjelala.",1.7143,0.931
+718,"Yelpeɛre wuleeŋ ka dɔɔ nyaane neŋ pɔge nyaane naŋ moɔrɔ a sonnɔ ba taaba maŋ taaɛ laafeeloŋ naŋ soma, teɛroŋ soŋ, ane nyɔvo-tɔɔre.",Yelpiere wuliŋ ka doŋa ne nempo biŋa ne na mooro asuŋ na ba taaba mantaa laa fɛlũ na asuma. Ti a roŋ som a ne nyovotore.,1.0,0.3462
+719,JEHOOVA LA MAŊ DE WULIBO KORƆ TE A LAMMOZIEŊ,Jehovah la maando wulu bukoro taa a laa muzieng.,0.8889,0.3889
+720,Bo soe mine la teŋ na baŋ tu a tɔgle Jehoova gyogri naŋ vɛŋ oŋ waa ŋa pi-kpɔgree na?,"Bosse mla la tin Labantu, a togoli Jehova togoli na nve un wa'a pi pogri na.",0.7895,0.4219
+721,Ko ho meŋɛ wagre fẽẽ ka ho suuri mãã.,Koho me nga baara teefeng ka hu suri maang?,0.8889,0.6071
+722,"Ka a naŋ e kpeɛŋaa ko ho Baabole zannezanna ka o woŋ yelkaŋa muni soŋ, wala hoŋ na baŋ e?",Ka na a pịena a kọhụ Baibulu zanzan na ka ubochi yere ka a mụ na gị sụọ. Wala hụ nna baa ị.,0.95,0.4706
+723,Bo yɛlɛ hoŋ na baŋ zanne. Soore ho meŋɛ ka:,Bòyɛ la ho na ba zani soro menga kaa.,0.9,0.4062
+724,“Ɛɛ N Neŋkpoŋ. Yɛlɛ zaa maŋ na baŋ sɛge la lɛ.”,"Nuumbo, yele zaa manna banse'e lale.",0.9091,0.4545
+725,A zannoo ŋa na soŋ teŋ ka te mɔɔrɔ te moɔbo zaa a ta te e yelfaa zaa. A kyɛ lɛ teɛre te yɛlɛ mine a naŋ seŋ ka te erɛ ka lɛ vɛŋ ka te ta te e yelfaa naŋ e nimizeɛ.,"A zanoŋ ana soŋte ka ta muo ta muo boza, a ta ti iyil fa zaa. A kyile tiye ti yeli mine ana soŋ kati ire, ka le veŋ kati ta ti iyil fa na enimi zie.",0.7907,0.3277
+726,Te na zannɛɛ lɛ na a Gyoob gane naŋ na baŋ soŋ te ka te maŋ terɛ kawaŋ-sonne.,Tenganza na elena ajoob Ghana na nnaban sonte ka te ma ntere ka wa sunne.,0.8889,0.2931
+727,"“NYƐ, N ERƐ LA KA A YƐLƐ ZAA NA LEƐ YELPAALAA”","Nye, irela ka a yiele zaa na le yelpaala.",0.6364,0.2727
+728,BA DA MAALƐƐ RADIO STATION PAALAA,Madama radio station paala.,0.6667,0.2143
+729,"Ka hooŋ maŋ teɛrɛ puoro na Jehoova puorebiiri naŋ da puore baŋ sɛgaa eŋ a Baabole poɔŋ na, sobuo aŋ na baŋ soŋ bo?","Ka ho maŋ tiere puoru na Jehovah puori na da puori ban sega en a Bible puona, sobu a na ba sumbo.",0.75,0.3371
+730,YƐLƐ A YƆƆDEƐBO NAŊ WULO TE A KYAARE YEZU,Yele ayodie na wuli a kyare Yezu.,0.7778,0.3939
+731,TE LANTAAPUORUU NA MAŊ TUURO LA YEZU EWULUU,Tlan taa poru na ma tuure Yesu i wulo.,1.0,0.3056
+732,WALA MAŊ NA TOƆ̃ E A DE WULI KA N SEREŊ BOƆRƐƐ KAWANE?,"Wala ma na tuon e, a de wuli ka m sere m buoro ka wane.",0.6154,0.225
+733,A SAMAREYA NOBA DA DE LA SUOBU,A Samaria noba da dela siubu.,0.5714,0.1667
+734,Boŋ la Baabole sowuli? Wala teŋ na toɔ̃ e baŋ Baabole sowuli saŋa na teŋ wa kanna a Baabole? Te na nyɛɛ a soorebie ama nɔɛ iribo a zannoo ŋa poɔŋ.,Bɔn la Baebul sɔre? Wala tin na a tuɔ a ba Baebul sɔre sanga na tin wa kanna a Baebul? Tinanye asuri bi ama na a iri bu azanuu nga puo.,0.8065,0.4286
+735,Te na zannɛɛ soe anaare mine teŋ na baŋ tu a tɔglɔ Jehoova sigrimennoŋ gyogo na.,Tɛnɛ zannɛ se annar minɛ tɛnnabɛntu artorolɛ Jehova sigirimɛn nɔn jɔgɔna.,1.0,0.3906
+736,"Ka te neŋ neɛ kaŋa naŋ taa sukyiri soŋ wa di dama a piilee saŋa, wala teŋ na baŋ e?",Kateni ni a kanga na nta su chiri soŋ wulli dama a piiye saŋa wala tun na baŋ e.,0.6,0.2742
+737,"Te na zanne nyɛɛ yɛlɛ naŋ na baŋ soŋ te ka te sɛgre yelbawoŋtaa naŋ na baŋ wa te neŋ te yɔɔmine naŋ be a lantaapuoruu poɔŋ kpakyagaŋ, ka lɛ vɛŋ ka te naŋ kyɛnɛ e zɔmenne.",Tɪ na za nɛ nyɛ yɛla na a naba nsuntɛ ka tɪ sɛgiri yelebɔwentaa na a naba nwatɛnɛ tɪ yɔmine na mbe alanta puoru puo nkwachagan ka lebe ka tɪ na nchɛ na izominɛ.,0.8378,0.3636
+738,Ka Ho Neŋ Neɛ Kaŋaŋ Wa Tuuro Taa Kyɛ Ba Peɛle Taa Fẽẽ Zaa,"A daka na embewi na puo yela ka ne nka, ka ho nnie ka n woto taa cheba piel taa feenza.",1.4286,0.9773
+739,Hooŋ teɛrɛ nyɛ a dompaalaa poɔŋ hoŋ na soore noba mine naŋ iri yi kũũni poɔŋ a soorebie ŋa:,Hón siɛrɛ ne a dún pálá puong?,0.9474,0.8333
+740,yɛlɛ Jehoova naŋ na e nendaare kaŋa?,Yele jo wanna enen dare kaŋa.,0.8571,0.3103
+741,"Saŋa na maŋ da wa tere yelyaga kaŋa baare French kɔkɔre poɔŋ na, N da zannɛɛ yelnimizeɛ kaŋa","Andere la tere yeli yaga, yeli biɛna mbe a photo pulling na kanne nka. Saa na ma nda wa tere yeli yaga ka nga baari French kɔkɔr puo na, nda zaa na yeli nimi zie ka nga.",1.7778,0.9865
+742,Wala teŋ na toɔ̃ e a de wuli ka Jehoova yuori na eɛ tegroŋ yaga zaa ko te?,Wulna te naator e a dooleka Jehovah yuori na te kaara yiri zaa kote.,0.7222,0.3818
+743,Bo teɛroŋ aŋ ba seŋ ka te taa saŋa na teŋ wa tuoro yelkpeɛne na? Ananso la wala?,"Bo chiaron ambase katata, sa ana tunwo tori yalpianana, ana so lawala.",0.9444,0.3443
+744,WALA HOŊ NA IRI A NOƆRE?,Wala hanna ir anware.,0.8333,0.2778
+745,YƐLƐ TE NAŊ NA ZANNE,Yele tenan zanne.,0.8,0.25
+746,BO TOMA KA A NEMBƐRƐ SONNEBA MAŊ TONƆ?,Bo tuma ka animbɛre sunne wa mantuna.,0.75,0.2667
+747,A GIIBIYOŊ DEME DA NAŊ MOƆ̃ LA NIŊE A PUORO JEHOOVA YELMENNOŊ POƆŊ,A gɛbɛ yɛn demɛ dɛna mɔnla nimbɛ a puoro Jehova yɛlɛ mɛ nɔmbo.,0.8462,0.434
+748,‘A HO YUORI HO NAŊ DE KO MA ZUŊ’,"Aho yiri, nando kumazun.",1.0,0.3636
+749,Yɛlɛ Noba Naŋ Kanna Te Gama Naŋ Maŋ Soorɔ,Yele na na kana ta ga ma na ma suuro.,1.1111,0.3636
+750,YƐLƐ MINE NAŊ BE A BAABOLE POƆŊ,Yele mine na mbe a Bible puo.,0.7143,0.36
+751,Ananso la wala aŋ seŋ ka te maŋ kyɛllɛ wono yɛlɛ soŋ ka te naŋ wa gaa ka te zanne yɛlɛ a lammore zieŋ?,Anasara wala ansen katu manchen le wone yela so katu na nwage akatu za ne yela ala morizie.,0.9583,0.3333
+752,"Te na zannɛɛ yelnimizeere a kyaare yɛlɛ na bitontona Piita naŋ zanne yi Yezu teɛrɛ poɔŋ, ane sori na teŋ na baŋ tu a tɔgloo.","Tuna zanni yelbi zere achari yelena bi tun tuna picha na zani yi Yesu tiera puon, ana sorna tennu bantu atoglo.",0.96,0.3469
+753,saŋa na nɔkpeɛne naŋ wa kpɛ te kpakyagaŋ?,Sanna na nwa kịị na na nwa kpetekwacha gị.,1.0,0.4545
+754,Bonso teŋ na baŋ taa popeɛloŋ aneazaa ka noba kyiire teŋ?,Bonso tɛ na bantaa po piɛlɔ a ni a zaa ka n gbechiri teng.,1.0,0.3261
+755,Saŋa na aŋ wa wa te teɛroŋ poɔŋ ka te leɛ te de boma na teŋ bare kyɛ wa puoro Jehoova na,Saanan awawa te tiyero puong katili te debu mana tembar che wopure Jehova na.,0.8636,0.3433
+756,Nare Ho Meŋɛ A De Suobu Wieoŋ,Naa yir mine a disi o bu bu ye.,1.1429,0.6087
+757,ERKKI MÄKELÄ ZEMMO YƐLƐ,"Bɛre ka ma kyele, n zɔ m yele.",2.0,0.65
+758,BO YƐLƐŊ NA E NENDAARE KAŊA?,Boya laa e nandaarkama.,0.8333,0.3182
+759,Jehoova Yelbiri Na Na Baŋ Soŋ Boŋ Ka Ho Iri Bonnoo Zaa Yi Ho Teɛroŋ,"A daa kalle m biibi na poore, yeli kani ka Jehova yelbirna na ba sumbuŋ ka hu irbonno zaa yi hotiero.",1.2,0.8302
+760,SOE NA JEHOOVA NAŊ MAŊ IRI TE PUORO NƆƐ ZENƐ ŊA,Sɔena Jehova na maŋ iri ti puoro no ezi neŋ a.,0.8182,0.2162
+761,ANANSO LA WALA AŊ SEŊ KA TE NƆŊ TAA?,A na-asụlawala asụsụ ka atịnọnta.,0.8889,0.4074
+762,BOŊ MAŊ WULI KA NEƐ TAA LA KANNYIRI?,Bong ma wul ka ni a taa la kan yiri.,0.875,0.25
+763,WALA HOŊ NA IRI A NOƆRE?,Wala hunna iri annuure.,0.6667,0.2778
+764,JEHOOVA MAŊ TU LA TE YƆƆMINE EŊƐŊ A KYƐ DII TE SUKYIE,Jehovah manchulla ti yelminne eneng ache di ti suchie.,1.0,0.5
+765,WALA HOŊ NA IRI A NOƆRE?,Wala huna iri a nuor.,0.5,0.2778
+766,Ananso la wala ka a Baabole boɔle Jehoova ka “a Pi-kpɔgree”?,A na sọ na akwụkwọ nsọ bụ okwu Jehova ka e ji pụta ihe.,1.1818,0.6087
+767,SAGRA NOBA NAŊ DERƐ WEƐ TE POƆŊ NA NƆƐ,Sagrannu ba nan tera wuiye tupu nanme.,1.0,0.4667
+768,"Ka teneeŋ wa tuoro yelkpeɛne, sobuo ka Gyoob yɛlɛ ŋa na baŋ soŋ te?","Katuo tuoro yelkyane, so puo ka juo bieleng na bansongtse.",0.8571,0.4423
+769,YƐLƐ NAŊ NA BAŊ SOŊ TE KA TE DE JEHOOVA PUORUU DE WEƐ,Yele na naba nso nte ka ti de Jehovah puoro de wɛ.,0.6923,0.2683
+770,Boŋ na baŋ soŋ baalkaareba ka ba naŋ kyɛnɛ taa popeɛloŋ?,Bon na ba sumbal karba ka ba naŋ kyen taa puoriŋ.,0.5455,0.3333
+771,Wala teŋ e baŋ ka nensaaleba daaŋ koŋ toɔ̃ iri daŋkyagre bare zaa?,Wala te i banka ne saalaba daa kon tuo iri dan chagara barza.,0.8462,0.3077
+772,Zanne Yelkaŋa Yi Daaniel Zemmo Yɛlɛ Poɔŋ,Daniel ka nga ye Daniel zimu yele puong.,1.1429,0.4706
+773,Jehoova yɛlɛ maŋ pɛgeyiŋ;,Joo wa yele maam pɛgiying.,1.25,0.4762
+774,Tenee Yɛŋ ‘A Soma Ko Teŋ Ka Te Tagra Peɛlɛ Naaŋmen’!,Kyne yane asoma kuteŋ katchaara piele naawane.,1.0,0.4359
+775,"Ka ba naŋ wa iri neɛ kaŋa bare a lantaapuoruu poɔŋ, bo gbɛre ka Kristabie zaa na baŋ de ko o meŋɛ?","Kabanan wa iri ni a ka baara alantsaapu ru puom, bo gber ka Kristabiɛ zaa na baande ko omenɛ.",0.7273,0.24
+776,TE TAAƐ APOƆSORI KA TE PUORO JEHOOVA,Teta a poso ri kati foro Jehova.,1.0,0.2333
+777,"Ka teneeŋ tɔglɔ Yezu a taa teɛretɔ ka noba na sage de la a duorisoŋ, sobuo aŋ na baŋ soŋ te ka te de eŋnyagroŋ moɔlɔ a duorisoŋ?","Kã tẽne t'o le yisid a ta tiir a to konn vana safo dila adoresong, sobo a na ban sonte k'a te i nyaro mo la adoresong.",0.8929,0.4242
+778,Sagediibu Ane Te Yel-eere Na Baŋ Vɛŋeŋ Ka Te E Nemmenne Jehoova Nimitɔɔreŋ,Sagdiibu ana intueli 3 na ba mzaa nka te ene mme Jehovah nembi tooring.,0.9231,0.459
+779,A YELNIMIZEƐ LA ŊA: JEHOOVA BOƆRƆŊ KA TE WA E O ZƆMENNE,"A yel-nimizie alanga, Jehova buoro katua e ozomenne.",0.8333,0.2791
+780,SAŊA NA MAŊ DA E BIBILE NA N DA BƆ LA A YELMEŊƐ NAAŊMEN,"Sanga na manda e bibili na, nda bola ayelme na anmine.",0.7857,0.2381
+781,Bonso hoŋ kaa iri ka ho na puoree Jehoova?,Bonsu hunka iri kahuna puore Jehovah.,0.8889,0.2424
+782,WALA HOŊ NA IRI A NOƆRE?,wala hunna ila anwari,0.8333,0.3889
+783,Yɛlɛ Naŋ Na Baŋ Soŋ Baalkaareba Ka Ba Naŋ Taa Popeɛloŋ,Yele nimmabɛ sunbal karaba kaben paapu pielong.,1.0,0.4773
+784,Wulo Nimipa A Korɔ Dɔbɔ Naŋ Derɛ a Lantaapuoruu Weɛ Na,Wullo ni pa akoro dobo na ndiri Alantapuru wiena.,1.0,0.3182
+785,YƐLƐ TE NAŊ NA ZANNE,Yele na na zaane.,0.8,0.3125
+786,“N da maŋ teɛrɛŋ ka Jehoova baga kye N zieŋ.”,N da man tiere n ka Jehovah baga chenzi yin.,0.7,0.3636
+787,a kyaare teŋ na nɔŋ te yɔɔmine “tegitegilɛ”?,Tengnaa nón ti yelminetigitegile. I yel,1.0,0.6176
+788,"Te na zanne nyɛɛ yɛlɛ naŋ na baŋ soŋ noba naŋ kaara baalba ka ba are yelkpeɛne ba naŋ tuoro noɔreŋ, ka lɛ vɛŋ ka ba naŋ kyɛnɛ taa popeɛloŋ.",Tenzani yelena na bansu nuba na nkara balba kaba aryel pieni banen turu nwaren kale then kaba 19 tabo pienu.,0.9667,0.4537
+789,Lɛ Kristabiiri naŋ waana ka ba kultaa naŋ na baŋ de emmo ko Jehoova ba kultaa bebiri.,La kris ta birina wara ka ba kulta na naba de emu ko Jehova ba kulta be biri.,0.7647,0.1765
+790,Naŋ Vɛŋ Ka Ho Neŋ Jehoova Niiloŋ E Kpeɛŋaa Saŋa Na Hoŋ Gɛrɛ Sakuu Gaa Tɔɔre,Naa Vengkaane Jehovah ne lo ekpi'aang a sanna ho ngeresaa ku gaatore.,1.0,0.4333
+791,ka o sagedi ka ka o naŋ de a Baabole sowuli naŋ kyaare yɛlɛ naŋ soma ane yɛlɛ naŋ ba soma na tonɔ neŋ toma a na soma kooŋ?,"Ka o saakidika, ka o na ndi ababuso wuli na nchari yele na nsuma ana yele na mbasuma tunoni ntuma ana suma kuwuo.",0.8276,0.3763
+792,Bo yɛlɛ naŋ eŋnɛ sagediibu faŋa teŋ zanne yi Yezu toŋseɛlɛ na poɔŋ?,"Boyle na a na sakrebo fanga, tenzaana yelye so tunsiele na puong.",0.9231,0.537
+793,LƐ JEHOOVA NAŊ MAŊ SOŊ YELFA-EREBA KA BA E KAŊDABAŊKALƐ A LEƐRE BA EEBO,"Na jụọwa na mma nsị nyerụ fa erba, kape anyi ka ndabanka le alị erba igbo.",1.1429,0.4737
+794,TE BA BAŊ SAŊA NA A DONƐƐ BAAROO NAŊ NA WA,Tepabong sanna abune baaro nanna wa.,0.9091,0.375
+795,ka a maŋ e mɔlɔ ka noba wa ho zie?,Ka ma molo kɔnɔ ba wahu zie.,0.8,0.3333
+796,WALA HOŊ NA IRI A NOƆRE?,wala gonne iri annuore,0.6667,0.3333
+797,YƐLƐ JEHOOVA NAŊ DA WULI A IZERAYƐL BIIRI A KYAARE KAŊDABAŊKALƐ,Yela Jehovah nandaa wuli a Israel biri a chaar ka nda bankale.,0.9091,0.3208
+798,YƐLƐ TE NAŊ NA ZANNE,Yel-zuur na zanne.,0.6,0.4375
+799,YƐLƐ NAŊ NA BAŊ SOŊ BO KA HO NAŊ KYƐNƐ TAA POPEƐLOŊ,Yele na na baa sumbo ka ho na ncha na taa puoriŋ.,0.75,0.425
+800,Bo Teŋ Baŋ Kyaare Sɛrɛɛ Diibu Na Jehoova Naŋ Na Di Nendaare kaŋa Na?,Butum banchara sere di na Jehovah nanna di na ndaara kaana.,0.8571,0.3704
+801,lɛ teŋ na moɔ̃ niŋe a puoro Jehoova yelmennoŋ poɔŋ?,Lɛtɛ na mu nniɛ a puoro Jehova yelmenno puo.,0.7,0.275
+802,KA HOOŊ WA TEƐRƐ KA HO BA TAA TƆNƆ KO JEHOOVA,Kaŋ wa chi re ka wa taa tu na ku zuva.,0.9091,0.5143
+803,Sangir Besar teŋɛ na koɔ̃ naŋ ŋmaa gyeere oŋ be Indonesia paaloŋ samun-gɔɔ seŋ,"Ya bụ ihe na-enye afọ ojuju na ka na-enka, Indonesia anaghị paalụ na nwajiịrọ mapụla, foto ble ka nga labe be agwụlọ sanga bisa tsịga na kụọ na nwajiịrọ na.",2.0,1.5556
+804,YƐLƐ TE NAŊ NA ZANNE,Yele tina zaane.,1.0,0.4375
+805,YƐLƐ TE NAŊ NA ZANNE,Yele ti nanna zani.,1.0,0.375
+806,SAŊA NA TEŊ WAANA KA TE IRI TE KULTATƆ,Salanatun waana kati irete kultato.,0.8889,0.2
+807,NEMBUOŊ NA BAŊ KO TE POPEƐLOŊ MEŊƐMEŊƐ?,Nimbuo na baa nkweta po piale mmenge mmenge.,1.0,0.5625
+808,LƐ HOŊ NA BAŊ E TAGE PEƐLE JEHOOVA,"Naa yel-naba ee, taa piili Jehowa.",1.0,0.5185
+809,WALA TEŊ NA BAŊ E ZANNE NAAŊMEN YƐLƐ YAGA A TUURO O BONMAALEE EŊƐŊ?,"Walaa tina baa izani na, mwanne yele yaga aturo ubon maale enya.",0.9286,0.3774
+810,YƐLƐ TE NAŊ NA ZANNE,Yala tinanazane.,1.0,0.3125
+811,"Mats, sɔrebo la manne ko te lɛ ho naŋ e nyɛ a yelmeŋɛ.","Maa, soorubla maana koteelle hona inye ayelime.",1.0,0.4
+812,N BAAPAALOŊ SAŊA FINLAND PAALOŊ,"Mba paalo saana, felaan paalo.",1.0,0.3704
+813,YƐLƐ TE NAŊ NA ZANNE,Yele tina nanzanne.,1.0,0.3125
+814,Ho De La A Kpããmo Tonɔ Neŋ Toma Bee?,Pɔdɛlla akpaamotu na nintuma bii.,1.0,0.4815
+815,Wala hoŋ na baŋ e a maŋ toɔ̃ kyɛllɛ wono yɛlɛ soŋ zaa?,Gwala honna ba e amantuo nchenne wone yela so nzaa.,0.9231,0.4
+816,Yɛlɛ Naŋ Na Baŋ Soŋ Kultaa Deme Ka Ba Zɔmennoŋ Na Maaleŋ E Kpeɛŋaa,Yele nanna baa sunkoo taa demeh ka bazon menna na maaleh epiana.,0.8571,0.3585
+817,Ho Eɛ Siri Kyɛnlɛ A Dɔgroŋ Kpoŋ Bee?,O yiri chala dogoro kpombee.,1.0,0.4643
+818,KEN KIUCHI LA MANNE O ZEMMO YƐLƐ,Ken Kyo chila ma na o zemoyele. Afoto na mbibi na puo yele Ken Kyo chila.,2.0,1.4231
+819,"Ka ba naŋ yelka Yezu da vɛŋɛɛŋ ka o potuuribo na baŋ Jehoova yuori na, wala ka lɛ wuli?","Kabanang yele ka Yezu da vɛne ka o poturbo na ban Jehova yuori na, wala ka le wuli?",0.4737,0.1791
+820,Sobuo teŋ na baŋ tu a zanne Baabole daŋyelbo?,Subuori na banto a zanna Baibul da yelbo.,0.8889,0.3056
+821,Sobobo poɔŋ ka te Ŋmenpuore Wedeɛrekpoŋ na maŋ tu a sonnɔ te zenɛ ŋa?,Soba ba puo ka ti ngm puo na widiara puona mantu a sunna te zin'a.,0.8571,0.4545
+822,"Ka neɛŋ wa de suobu, wala aŋ maŋ wuli?","Kanni a wa di suuro, wala ama wuli?",0.6667,0.3214
+823,Ho boɔrɔŋ ka ho maŋ nyɛ tɔnɔ yaga yi ho Baabole zannoo poɔŋ bee? Te nyɛ yɛlɛ mine naŋ na baŋ soŋ bo ka ho maŋ de ho teɛroŋ zaa eŋ a zannoo poɔŋ:,"Gbọbụrọ akụkụ mmadụ niile na-aga ịhụ abụzị anụ ụlọ mbụ gị, kenye ya ebe obibi na-adịghị mma nsogbu ka ahụ mmadụ na otu ya dị n'anya anụ ụlọ.",0.9706,0.7615
+824,Yɛlɛ Naŋ Na Baŋ Soŋ Bo Ho Zannoo Poɔŋ,Yele na na bansu boho za nu puo.,0.8889,0.4138
+825,WALA TEŊ NA BAŊ E KA TE SAGEDIIBU TE NAŊ TAA JEHOOVA NƆ-EŊNAA NAŊ KYAARE PARADIISI NA E KPEƐŊAA,Wuli tinna baa e ka ti sari di wuli tinna n taa Jehovah nọ i na na n chaadi paradise na epie nga.,1.0526,0.4342
+826,WALA HOŊ NA IRI A NOƆRE?,wula hunna ire anoor,1.0,0.3333
+827,"N DA BA KAARA SORIŊ KYƐ BAŊ TOŊBOƆLE MA KA N WA TOŊ TOMA ESTONIA, LATVIA ANE LITHUANIA PAALOŊ POƆŊ","Aŋa ba kaaresore ŋmɛɛre ba tuumboluŋ aka uwa tuntuma Estonia, Latvia ani Lithuania paaluŋ puo.",0.8,0.3077
+828,aŋ vɛŋ hoŋ sagedi ka o na ko boŋ maaloo?,Subu anwa hụnsa dị ka ụnọ kọbọọ maalụ.,0.9,0.6667
+829,Boŋ na baŋ soŋ te ka te nyɔge a yelmeŋɛ kpeɛŋaa?,Bong na ba sonte ka ti na nyu a yelmenge pianga.,0.8182,0.4324
+830,"a Pampana ona teŋ boɔlɔ ka, Te Kristabiiri Zemmo Ane Te Naaŋ Moɔloo Toma​—Lammo Yelsɛgree Gane.","Amu ni zie yela na kan neŋ ka, pampana ona tum boɔlo ka, zi kuister biiri zɛmboɔ anɛn zie na muolo tuma la muol segrɛ eganɛ. Amu ni zie yela na baare.",1.8125,0.8553
+831,Moɔ̃ Nimiri Moɔlɔ A Duorisoŋ Nɔmmo Ho Naŋ Taa Zuŋ!,Moni me muo la aduoro so nomo gane taa zu.,0.9,0.4103
+832,WALA HOŊ NA IRI A NOƆRE?,Wala hunna iri anwaar.,0.6667,0.3333
+833,Te na zanne nyɛɛ lɛ serɛ naŋ na baŋ eŋnɛ o pɔge a tuuro o yelyaga ane o yel-eree poɔŋ.,Tengan ye lesre na na ba na opoge a tuuro uyel yaga ane uyel ere puore.,0.8,0.3385
+834,YƐLƐ TE NAŊ NA ZANNE,Iɛ la te maana zani.,1.0,0.375
+835,"A zannoo ŋa na soŋ boŋ ka ho neŋ Jehoova niiloŋ soma yaga zaa, ka lɛ vɛŋ ka ho boɔrɔ ka ho de ho meŋɛ koo a de suobu.",Aza nọṅa na sọmbọọ ka ha n'Jehova n'ịlọ nsụma yaghazaa ka Levị ka ha bụọrọ ka ha dị ha menụkụ adịsọgbu.,0.8276,0.4023
+836,"Ka hooŋ kanne yelzu kaŋa, kyɛbee a kaa vidio bee a woŋ yelyaga kaŋa ba naŋ maale ko nempaalba naŋ zanna a yelmeŋɛ, maŋ teɛre nyɛ lɛ hoŋ na baŋ de a yɛlɛ soŋ neŋ ho taaba. Ho na baŋ soorɛɛ ho meŋɛ ka:","Kaŋ ka n yeli zɔkama, chebe a ka video bi a wa yeli a akama bana mala koŋne palu bana zanna ayelamine. Man tiere nyelle koŋne bante ayela sonne ho taaba. Ho na ba soro ho menga ka.",0.7955,0.3553
+837,Te na zanne nyɛɛ lɛ hoŋ na baŋ e baŋ ka Jehoova poɔ pɛlɛɛ ho yɛlɛ.,"Tuna zani nyele, nuna ba e banka Jehovah puo pele hu nyele.",0.9375,0.44
+838,WALA HOŊ NA IRI A NOƆRE?,walaa hunna iri annuware,0.8333,0.3889
+839,YƐLƐ TE NAŊ NA ZANNE a,Yele tinanazane.,1.0,0.3529
+840,LƐ YEZU NAŊ SOŊ NOBA BAŊ WA BAŊ KA BA EƐ NEŊTEGRƐ JEHOOVA NIMITƆƆREŊ,"Le Yezu na sonna ba, ba wa banka ba yel ne tegere Jehova nimi toori.",0.9286,0.2909
+841,Wala teŋ na baŋ e a ko Jehoova gyeremɛ naŋ seŋ neŋ ka te koroo na?,Wella tunna baa a aku Jehovah gyina ma nsin nin katu corona.,0.9375,0.44
+842,"A dɛndɛŋ zannoo na poɔŋ, te na zanne nyɛɛ lɛ Jehoova naŋ nɔŋ nensaaleba seŋ, ane lɛ o naŋ e ka o soŋ nensaaleba ka ba zɔɔtoɔ̃ faaloŋ.","A dande a zane o napu o, ti na zane nye ele Jehova na nu nisaalba sim. A nile, una eka usu nisaalba ka ba zontuo faalu.",0.8929,0.3725
+843,A lɔɔre na N beɛre naŋ da ko te na,"Yelbie nimbie a foto puli na kanne ka, a noorina mbie re nanda ko tsina.",1.3,1.56
+844,Bo ziri-ŋma yɛlɛ la aŋ seŋ ka te go te mine yi a eŋɛŋ?,Buzurum ayala la an sung ka tuutumini ya inyen.,0.8571,0.5385
+845,N na iriŋ a e yelkaŋa.,Ne irin a iyiel kan a.,1.0,0.375
+846,N na faa baŋ a yi noba naŋ erɛ ba yɛlɛ naŋ ba seŋ neŋ na nuureŋ.’,"Na faa ban ayi nuba na, era yela na mba si nne na nuri.",0.8235,0.3191
+847,“Naŋ Kyɛnɛ Tuuro” Yezu Ho Suobu Deebo Puoriŋ,"Naa ti ne suuro yɛlɛ so, o sobo diibu poreen.",1.25,0.5714
+848,a A zannoo ŋa wulee lɛ teŋ na baŋ iri soorebie nɔɛ ne sumaaroŋ ka neɛ kaŋaŋ wa soore te soorebi-kpeɛne mine a kyaare te sagediibu.,"A zannu nga wuli let naba iri soro biye noy, ni sumaro ka ni ka nga wa sorite soro bikpe ni mini achare ta sagdi igbo.",0.9231,0.3592
+849,Bo Saŋa Baŋ Da Leɛ Deɛ A Dɔɔ Korinti Lantaapuoruu Poɔŋ?,Bùsà ŋa bandali a dɛ a dɔɔ Korinthian taa puoru puoŋ.,0.9091,0.25
+850,Te na nyɛɛ yelnimizeere teŋ na baŋ zanne yi a malekere naŋ puoro Jehoova yelmennoŋ poɔŋ na zieŋ.,"Tana nya yelne bi ziri tana ban zane yi, amalikrena puoro Jehovah yelmenon puo na zie.",0.8333,0.2949
+851,c Kaa a vidio ŋa Preserve the Precious Gift of Unity jw.org zuŋ .,"Jéyéle na kánne ka, ka video ŋa, ""Preserve the Precious Gift of Unity,"" jw.org zúŋ, amóni zi Jéyéle na báreŋ. Lanta",1.0,0.82
+852,DE JEHOOVA DAŊWEƐ HO ZEMMO POƆŊ,De Jehovah daaŋ wie ho zembopuo.,0.8333,0.3462
+853,"Naaŋmen yelmeŋɛ puorebiiri da tuoree yelkpeɛne yaga, kyɛ a yi a yɛlɛ ama zaa poɔŋ, ba da maŋ yi la ba sukyieŋ a puore sɔre Jehoova. Yɛlɛ na baŋ tuore na mine daaŋ pɔge boŋ bee?","Naaŋmen yel meŋa puori biri de tuori yelpiane yaga. Cɛ ayi ayel ama zaa puon, ba de maŋ yile ba suochien a puori sori Jehova. Yele na baŋ tuori na mine da mporo bonbɛɛ.",0.6944,0.2701
+854,Wala teŋ na baŋ e a naŋ kyɛnɛ wulo ka te taa la sagediibu Jehoova laŋnoɔre puoruu na eŋɛŋ?,Wala tina ba yi a nyanne wulo kaa titaa lesere dibu Jehova la nuor puru na eneng?,0.7895,0.3803
+855,Saŋa na te yɔɔ kaŋa naŋ wa e te yɛlɛ naŋ ba seŋ neŋ,Sanna na te yuo ka na wa ti yele na mba senne.,0.7857,0.3684
+856,Deevid naŋ da wa kono na?,David Nanda wa koona na,0.6667,0.2632
+857,N nyuuree teenɛɛ mine naŋ maŋ vɛŋ aŋ e kpeɛŋaa ko ma ka N mɔnɔ a lɔɔre bee?,Nyure tine mine na mma mven a etuianga komaka mmona alore bi.,0.9444,0.4386
+858,Ananso la wala ka noba mine na maŋ teɛrɛ ka Jehoova poɔ ba pɛle ba yɛlɛ?,Anaa Sola wɛlɛ ka nɛ wɛ mini na maanti yɛlɛ ka Jehovah puoba pɛlɛ ba yɛlɛ.,0.75,0.3036
+859,YƐLƐ TE NAŊ NA ZANNE,Yela tuna nazaana.,1.0,0.375
+860,Sobuo ka Jehoova ko nensaaleba teɛretɔ?,Sobu ka Jehova ko ne sa albatiare to.,1.0,0.2121
+861,“A da erɛ maŋ ŋa N serɛ naŋ sãã kultaa gbɛɛ yaga.”,A da yiri manga nsere na saakwulutaagbe yaga.,0.75,0.3611
+862,Bo saŋa aŋ seŋ ka te gaa a nembɛrɛ zie a te bɔ sommo?,Bòsã ã sã katɛ ga anẽmbere zi atã bwasu mu.,1.0,0.5128
+863,Sobuo ka Setaana maŋ boɔrɔ ka o tu a sãã noɔreyeni naŋ be te neŋ te Kristabitaaba kpakyagaŋ na?,Subu ka sitana maŋ gbaara ka otu asa nuori yaga na mbe te neta Kristo betaba kwacha ga anna.,0.8421,0.3553
+864,saŋa na te neŋ te taaba gyogri naŋ ba yitaa naŋ wa laŋ erɛ yɛlɛ?,Sanna tenenta ta ba juri na mbe yita na nwala ire yele.,1.0,0.3673
+865,Sobuoŋ ka Kristabiiri maŋ tuo a “dɔgɛɛ daa . . . bebiri zaa”?,Tuo buong a kuista be dem tu a doge da be brezaa.,1.1,0.4186
+866,Tontoŋ Boma Bidɔgreba Naŋ Na Baŋ De Wulo Ba Biiri,Tuntun bum ma bi dogruba na naba ndi wulu ba biri.,0.9,0.3
+867,"Ka hooŋ gaa JW.ORG, ho na nyɛɛ yɛlɛ yaga ba naŋ maale ko bibiiri, a mine la vidiori, ane zannoo yɛlɛ mine a bibiiri naŋ na baŋ sɛge ba mine yɛlɛ eŋ. a Ka hooŋ sɛge “Children” bee “Teenagers” eŋ a bɔ zie naŋ, ho na nyɛɛ mine beŋ.","Ka baa se kyuo den bi chi ne gyes en abuzie nan, ona nye mine ben?",0.9592,0.7751
+868,Yezu Da “Zanne La Noɔre Sagoo”,Yezu da zanne la noor sago.,0.3333,0.1304
+869,Ananso Aŋ Da Waa Ŋa A Koŋ Baŋ Nyɛ Eebo,Ana so anda waa nga a kɔmbanye eebo.,0.7,0.2759
+870,GBANDIGE ZUKAAREBA MAŊ EŊNƐƐ A LANTAAPUORUU FAŊA,Bàndìgè zù kàràba ma ìnne àlàntaa pùòrù fànga.,1.1429,0.5238
+871,Ho Narɛɛŋ Ka Ho “Sagra Noɔre”?,Naa ranka ho sagra nuori.,0.6667,0.4091
+872,"Maŋ sonnɔ ho yɔɔmine. Ka te yɔɔmineŋ wa wa a Lammozie, maŋ ko ba waayaane a vɛŋ ka ho neŋ ba di dama. Maŋ wuli ka ho teɛrɛɛ neŋnyaane yɛlɛ.","Ma so na ho yiri omina, kati yiri omina wawa ala mo zie, ma nkuba wa yaani, a be ya ka ho ni mba di da ma, ma nwere ka ho tiere ya ni yele.",0.9333,0.3868
+873,MAŊ BƆ WAGRE A KANNA NAAŊMEN YELBIRI NA,Mambo waare a kana na a nwne yelbir na.,1.0,0.2812
+874,Sɔre Jehoova ka o soŋ bo ka ho suuri mãã.,Sori Jehova ka o sọ m ka m hụ suuru ma.,0.8,0.3871
+875,Boŋ Teŋ Na Baŋ Zanne Yi Toŋseɛlɛ Na Yezu Naŋ Da Toŋ Na Poɔŋ?,"Bonsu na banzani yi, tun siɛlɛ na Yesu na nda tun napuong.",0.8571,0.3696
+876,Wala teŋ e baŋ ka Jehoova maŋ vɛŋɛɛ te yelbebe ko te kpɛlɛŋkpɛlɛŋ?,"Wala ti e banka, Jehova ma vɛŋɛ ti a bibi kɔte pɛlɛŋ pɛlɛŋ.",0.8462,0.283
+877,"A vidiori naŋ tutaa yelzu naŋ la, For a Happy Marriage","Ayi suba, a video na n tiri zaa yeli zunna la for a happy marriage.",0.8182,0.4186
+878,"Te na nyɛɛ Baabole sowuli naŋ na baŋ soŋ neɛ ka o nyɛ kultatɔ naŋ soma, ane lɛ a lantaapuoruu deme zaa naŋ na baŋ soŋ te yɔɔmine naŋ naŋ ba kpɛ kultaa poɔ kyɛ taa a boɔbo ka ba kpɛ kultaa poɔ.",Tụ na nye ya baabul so wuli na na ba nsọnne ka onye kwụta apụọ na nsụma. A na le alantapụọrọ deme zaa na na ba nsọnte yọọ mini na na ba kpe kwụta apụọ cheta agbọọ bụ ka ba kpe kwụta apụọ.,0.814,0.3581
+879,Wala teŋ na baŋ e ka lɛ vɛŋ ka noba mine meŋ boɔrɔ ka ba wa poɔ a siiloŋ poɔ paradiisi poɔŋ?,Wɛlɛkyɛnɛ banɛ ka Lɛvin ka noba mine min buoro ka ba wa puo Asili Puo Paradisi puo.,0.6818,0.3714
+880,Bo saŋa meŋɛ la aŋ soma ka te nare te menne a te de suobu?,Busa na mmeŋa la anso ma ka tin naru tin min ne ati disuobu.,0.8667,0.3023
+881,HO MEŊ POƆ LA A YƐLƐ ŊA POƆŊ,A puo a la ayeleng a puo.,0.875,0.6667
+882,BOŊ NA BAŊ SOŊ BO KA HOOŊ WA TEƐRƐ KA JEHOOVA BA TAA HO YƐLƐŊ?,Bulla ba sumbo ka hun watiere ka Juo batahu yiri.,0.8667,0.4894
+883,SOBUO KA A YƐLƐ ŊA MAŊ EŊ TE FAŊA TEŊ MOƆLƆ A DUORISOŊ?,Sobo ka ayelenga ma entefana ti mola aduoro so.,0.9231,0.3333
+884,BO YƐLƐ KA JEHOOVA DA E SAŊA KAŊA NAŊ PARE?,Puyele ka Jehovah da e saa ka nga na mpare.,0.8,0.303
+885,Jehoova taa la noba na sukyie naŋ kyɛre na yɛlɛŋ yaga zaa. A zannoo ŋa na soŋ teŋ ka te nyɛ soe o naŋ maŋ tu kyɛ diire te sukyie ka te sukyieŋ wa kyɛre ane lɛ teŋ na toɔ̃ e a dii te taaba sukyie.,Jehova tsala no bana si chie na nchari na yele ya gaza. A za no nga na sonte ka tinye so e wena ma tu che direti si chie ka si chie nwachar. A ni la te na song a di ta ba si chie.,0.8696,0.381
+886,YƐLƐ NAŊ NA BAŊ SOŊ TE SAŊA NA TE ENNE NAŊ WA KYOƆRE,Yele na naba son te sanga na te inne na wa chuore.,0.6154,0.325
+887,Nɔmmo te naŋ taa ko Jehoova ane o yuori na,Nọ mụ na nwa akwụkwọ Jehova àlíwòyúrù na.,0.9,0.6364
+888,Wala teŋ na baŋ e a nyɛ sommo yi Jehoova zie ka teneeŋ wa tuoro yelkpeɛne?,Wala tun na baa a anye sumbo yi je ho vazie ka tene nwa tuoro yelkpanyeni.,0.6875,0.2586
+889,A gambile na baŋ da boɔlɔ Ecclesiastics Indicted na la,"Yelbie na nbe a photo pulli na ka ne nka, a ganbili na ba nda buolo Ecclesiastes indicted nala.",1.6,0.8667
+890,YƐLƐ TE NAŊ NA ZANNE,Yele tu na na zane.,0.8,0.3125
+891,A yieme sɛgre ŋa poɔ yɛlɛ zaa wuleeŋ ka a yelbiri “baŋ” are ko la noba.,A yi me sãra ngapuoyele zaa wuli nka a yi le biri baŋ ara kora noba.,0.8125,0.3208
+892,Bo teɛroŋ aŋ seŋ ka Kristabie taa kyaare sakuu gaa tɔɔre yɛlɛ?,Bo tiyero ansing ka Kristabiya taachare seku ga toori yeli.,0.8333,0.42
+893,"Wala teŋ na baŋ e a zagre a ‘pɔge damboli’ toŋboɔle na, a kyɛ lɛ tage te menne yi yɛlɛ naŋ na baŋ yi o toŋboɔle na poɔŋ a pɔge te na?","Wala tuna baa'e a zahar a poodon boli tumboona, a ce taartiminii yi yele na nabaa'e o tumboona puo a port na.",0.7188,0.4592
+894,A NYƐ MENNOŊ: Jehoova yeleeŋ ka te eɛ nemmenne; a waa ŋa te daŋ ba e yelfaa zaa Yezu sareka na zuŋ,"A nya mɛn nɔn tɛre la ka, Jehova yelee n kati a mɛn nɛ, a wa a tin damba yelfaa zaa Yesu Kristo ne zu, a daka puo yelbaare.",1.0909,0.6667
+895,N DA BOƆRƐƐ POPEƐLOŊ AZUŊ N DA LEƐ GAAƐ FRENCH GUIANA,Nda puore pupieluŋ azuŋ nda le gaa French Guiana.,0.7273,0.2558
+896,Wala ka a lantaapuoruu deme na baŋ e soŋ te yɔɔdɔɔ ane te yɔɔpɔge kaŋa naŋ tuuro taa?,Wala kaalenta puru deme na ba yeli sonti yoodo ana nti yopuo ka ana nturo taa.,0.7778,0.3582
+897,Bidɔgreba—Yɛ Soŋ Yɛ Biiri Ka Ba Eŋ Ba Sagediibu Faŋa,"Bidaa goro ba, yɛ sun yɛ biri kaba embasa gdie bu faŋa.",1.0,0.2381
+898,a pɔgeba naŋ ba baŋ dɔbɔ mine naŋ e dambolo ka mine meŋ e yɛmbaŋneba yelmannaa na poɔŋ?,A pogba na ba ba ndoba mene na idambolo ka ba mene me iye mba ba yelma na na puo.,0.9444,0.3333
+899,“a paaloŋ kaareba nɔɛ”?,A paaloŋ kaara ba nne.,0.75,0.1765
+900,Jehoova niŋe paɛŋ neŋ yɛlɛ na zaa ho naŋ maŋ erɛ koroo na,Yuoni a peng ne nyelena zaa go na ma era corona.,0.9231,0.4444
+901,YƐLƐ TE NAŊ NA ZANNE,Yelek nanna zane.,1.0,0.375
+902,Moɔ̃ Niŋe Sonnɔ Noba Naŋ Sagede A Duorisoŋ,Mwaani yɛ sonna n ba na sagade aduori son.,1.125,0.2941
+903,A BA SEŊ KA ‘WƐLTAA BE TE SOGƆŊ’,Aba sen ka wuli sa bee 1900,0.875,0.4348
+904,TE KAŊA ZAA FEREBO TOMA,Te kanga zaa fara bo toma.,0.6,0.2105
+905,YƐLƐ NAŊ DA SOŊ PƆƆL SAŊA NA O EŊƐ NAŊ WA KYOƆRE,Yela na da sumpol sanga na o eng a na nwa chuore.,0.8333,0.4595
+906,Te na zanne nyɛɛ yɛlɛ naŋ seŋ ka te e a toɔ̃ de kawane ba naŋ ko te toŋ neŋ toma soŋ.,Tana zannye yele na nsen ka te a toone ka wane banao kote tonen tumason.,0.8636,0.2742
+907,Bonso aŋ na e nimizeɛ yaga zaa ka te sagra noɔre a “dɔgroŋ kpoŋ” saŋa?,"Boso ana inimbize yara zaa, ka te sagra nmoare a dogeroŋ puoriŋe.",0.6667,0.3019
+908,Boŋ hoŋ zanne yi yɛlɛ na Yezu naŋ da e sɛre kyɛ de a boroboro ane a zomma ko a noba na?,Bon zani yele na Yezu nanda e sere cha de aburuburu anin azuma ku anubana.,0.8182,0.3692
+909,ka teneeŋ wa nyɛ ka te ba taa tɔnɔ?,A sị na ọnwụ ya ka tịba taa tọ nọ.,1.0,0.4615
+910,saŋa na teŋ wa boɔrɔ ka te iri te kultatɔ?,Saanatungaa mborokati iri taa kulitaa too.,1.0,0.4688
+911,"Ka Hooŋ Wa Zanne Boma Baare, Maŋ Leɛteɛre Yelnimizeere Na Zaa Ho Naŋ Zanne Na Yɛlɛ","Ka ba zanne bu ma bare, man le ti a yel ni bi ziere na zaa hu na zanne na yele.",1.0,0.2879
+912,TE MAŊ NYƐƐ SOMMO WAGRE NAŊ SEŊ NEŊ POƆŊ,Tɛ maali ne a sombo wagre nan seŋ puo.,0.8889,0.4688
+913,YƐLƐ TE NAŊ NA ZANNE,Yele tɛ na na zane?,0.8,0.3125
+914,BO YƐLƐ TEŊ NA BAŊ ZANNE YI . . .,Boŋ yele tina baanzanee yi.,0.8571,0.381
+915,Te Yɔɔdɔbɔ—Ho Mɔɔrɛɛ Ho Moɔbo Zaa Ka Ho Wa Leɛ A Nembɛrɛ Sonneba Kaŋa Bee?,"Tiyadoba, humaare humaare zabaan ka hawaley ani mbera suuniba ka nga bii.",0.9333,0.5172
+916,Ho toɔ̃ kannɛɛ a yuoni ŋa Kaakaara Ziduoruu gama na zaa? Te nyɛ ka ho na baŋ leɛteɛrɛɛ a soorebie ŋa nɔɛ iribo bee:,"Ho tran kanne ayuol nga ka kara ji duro gama na zaa, tinye ka ho na ban na ye tiere asuru bii nga no iri bu bii.",0.875,0.4045
+917,YƐ ERƐ YƐ YƐLƐ “AŊA KYAANEE BIIRI”,Ere yiele nga chani biri.,1.0,0.5769
+918,LƐ MAŊ E WA BAŊ N SAZU SAA NAŊ YUORO O NU YAGA ZAA NA,"Lemaan i waaban, n sezu sa na yuoro unu yave zana.",0.8667,0.3333
+919,"Te na zanne nyɛɛ lɛ Jehoova nɔmmo naŋ na tage te peɛloo, a vɛŋ ka te taa gomeŋɛ, a nyɛ ka o kaarɛɛ te zu soŋ, a kyɛ korɔ te pɛnnoo meŋ.","Tena zani nyele Jehovah na omu na nna target PLU, a ven kateta gu mine, anye ka okara etizu so achakoro tupe nu umin.",0.9062,0.41
+920,Yɛ Korɔ Jehoova Gyeremɛ,2025 yuoni yelzu ya kuro Jehovah gyere me.,2.0,1.0
+921,WALA KA NOBA MINE NA BAŊ E SOŊ DƆƆ NEŊ PƆGE NAŊ TUURO TAA?,Wala kannu wɛ mine na ba yel sɔndɔɔne mpogrɛ nturo taa?,0.7143,0.3409
+922,SAŊA NA HO NEŊ HO ZƆMEŊƐ NA GYOGO NAŊ BA YITAA,"Sanga na hwanenwuzo, m'e ne jogo na mbe yitaa.",0.7273,0.4167
+923,"Yezu dɔgebo puoriŋ, bonso ka Gyoosɛf neŋ Mareya da ba leɛ gaa Naazɛrɛ, a kyɛ da leɛ kpeɛrɛ Bɛtelɛhɛm?","Yesu dɔgbuu Pɔɔreeng, bɔnsuka Joseph ne Maria da ba le gaa Nazare, a cha da le kpeere Bethlehem.",0.7368,0.4375
+924,Bo yɛlɛ mine poɔŋ aŋ seŋ ka te kaara te menne soŋ a ta kpɛ pigrinyɛ poɔŋ?,Buiyelle mine puo an seng kaate kaara te mene so a taa kpe pirinye puo.,0.7647,0.375
+925,Sɛgbie Naŋ Maŋ Wulo A Baabole Ziiri Mine Na Toɔ̃ Soŋ Boŋ,Sɛ a pɛ na ma w'ulo a Baibolo ziri mine na tuoso mbo.,0.8333,0.2955
+926,Boŋ na baŋ soŋ kultaa deme ka ba kpimare taa saŋa na baŋ wa tuoro yelkpeɛne a kultaa poɔŋ?,"Bong na ba sung ku ta de me, ka bat pi mar ta son ana ba wo su re yel pi ane a ku ta puom.",1.2105,0.3662
+927,YƐLƐ NAŊ NA TOƆ̃ SOŊ BO KA HO KAA IRI KULTATƆ NAŊ SOMA,Yela nan tuon sombo ka ho ka iruku sa tonan soma.,0.7692,0.3171
+928,WALA HOŊ NA IRI A NOƆRE?,"Well, abun na Iwe January.",0.8333,0.6111
+929,Te na zanne nyɛɛ lɛ teŋ na toɔ̃ e nyɛ sukyiridii saŋa na teŋ wa kanna kyɛ teɛrɛ a Aizeeya gane poɔ yɛlɛ gɛrɛ tɔɔre na.,"Tɛna zaa nne ya la tɛna tɔwa enyɛ suchiri di saana nateɛ wa paka na, cha ti yeli a Isaiah gane puo yele gare tɔri na.",0.8846,0.4505
+930,"(Duluŋ seŋ) Maaŋ la ŋa, saŋa na N neŋ N zɔmenne naŋ da kpeɛrɛ a mɔpiri poɔŋ na","Dieloŋ soriŋ maŋ laŋa, saana inne a zaa mine na na de piere a moɔpple puoriŋ na.",0.8889,0.5
+931,"A zannoo anuu na poɔŋ, te na zanne nyɛɛ lɛ a lantaapuoruu nembɛrɛ ane te yɔɔmine naŋ be a lantaapuoruu poɔŋ naŋ na baŋ wulo nɔmmo korɔ noba ba naŋ iri bare a lantaapuoruu poɔŋ.",Aha m bụ Anụnaepụọ. Tinye aha nna gị ebe a na nta akụkọ n'ime bọọlụ a na-etinye onunụ na mbinye aka nta akụkọ pụọ. Na m na-abanye nọmba okro n'ụgbọ ala iri abụọ na nta akụkọ pụọ.,1.0286,0.6357
+932,LƐ A LANTAAPUORUU NAŊ DA SEŊ KA BA E A DƆƆ NAŊ DA E KAŊDABAŊKALƐ NA,Le alanta puru nanda si ka bayi adoo nanda eka ndaba nka le na.,0.875,0.2885
+933,SƆƆL NAŊ YI TAASU DA DE LA SUOBU,Sɔl na yi taso da dela subu.,0.75,0.2
+934,Maŋ Teɛrɛ Te Yɔɔdɔba Naŋ Deɛrɛ Te Weɛ Na Pɔgeba Yɛlɛ,"A daga na mbebe na puo yele ka nne nkaa, ma nchiere ti yoo doba na ndiere ti wuli na puo gba yele.",2.0,1.2381
+935,Ho Na Baŋ Sagediŋ Ka Jehoova Nɔnɔ Boŋ,Ona bane sere di nka Jehova no no bon.,1.125,0.3333
+936,JOEL ADAMS LA MANNE O ZEMMO YƐLƐ,Joo Adams la maane o zemm yele.,0.5714,0.2308
+937,Wala teŋ e baŋ ka Jehoova taa la te yɛlɛŋ?,Wola te e banka juo taale tiyele.,0.9,0.4062
+938,YƐLƐ NAŊ NA BAŊ SOŊ BO KA HO MAŊ YI HO SUKYIRI POƆ A PUORO SƆRƆ JEHOOVA,Yele na naba soŋ bɔka huma yi hu si ciripuo a puoro sore Jehova.,0.7059,0.2909
+939,ananso la wala teŋ na baŋ sagedi ka Jehoova na kaa la o noba zu?,Anansesɛm a ɛfa Nyankopɔn ne Ananse ho,1.0,0.7143
+940,Bo yelsonneŋ na baŋ yi o gbɛ-de na poɔŋ wa?,Boya lo sonna na ben ye ogwada na puon wa.,0.8,0.4062
+941,"A zannoo ŋa poɔŋ, te na zannɛɛ yelmannee mine a Baabole naŋ de toŋ neŋ toma naŋ na baŋ soŋ te ka te wuli nimipa a ko Jehoova sudi naŋ e o yoŋ na eŋɛŋ.","Azaa naŋ a puoriŋ, te na zaa na e Yelmani mini a Baabul na ndi tuonli toma na na ba sɔnti ka ti wuli nimi paakoo Jehovah suori na ayi oyuo na eŋ.",0.8286,0.3421
+942,Maaloo Te Naŋ Maŋ Nyɛ Jehoova Naŋ Nɔŋ Te Zuŋ,Jehova na nonzi zung. Ba ire a za nu,1.0,0.8286
+943,JEHOOVA MAŊ PƐGƐƐ TE YELBEBE,Jeho vahaman pheget yelbibe.,1.0,0.4167
+944,"Ka yɛlɛ na oŋ waana ka o e naŋ e yelfaa, kyɛ maaŋ la ka a Baabole ko sori ka aseŋ ka N somoo ka o leɛre o teɛroŋ bee?","Kyɛ yelana ʊn wa na ka o enan i yel faa, kyɛ manla ka a Baibulum kusoru ka a sin ka ʊn somo ka ʊn liare ʊn tiaru mbe.",0.7667,0.3721
+945,JEHOOVA DA VƐŊƐƐŊ KA GYOOB DƆGƐƐ NA BAARE,Jehova daa vɛrɛ ka Job doge na baare.,0.625,0.3235
+946,WALA HOŊ NA IRI A NOƆRE?,Wala hoona Iran nworɛ.,0.8333,0.3333
+947,“BOŊ LA NA PIGI N SUOBU DEEBO?”,Bonla na pige insi'o ba de yabo.,1.0,0.2727
+948,"Saŋa na a dɔɔ naŋ e yelfaa naŋ e nimizeɛ naŋ da e kaŋdabaŋkalɛ o yelfaare yɛlɛ na, boŋ ka Pɔɔl da yelka a lantaapuoruu naŋ be Korinti na e?","Sanna na adon na iyelfana inimiziye na nda i ka nda bankale iyelfara yele na, bo nka Paul da iyelfa lansa puru na mbe Korinti na i.",0.8333,0.3148
+949,Bo yɛlɛ hoŋ na baŋ e a de soŋ baalkaareba naŋ be ho lantaapuoruu poɔŋ?,"Buiyiri ho na bae, a daa sombar karbenn bihu lentaa puoru puong.",0.8667,0.4364
+950,‘YƐ NA TOƆ̃ ARƐƐ KPEƐŊAA A KƆƆRE’,Yana tonu are pii a koori.,0.8571,0.5833
+951,WALA HOŊ NA IRI A NOƆRE?,Anwar,1.0,0.7778
+952,Bo zirii la ka Setaana ŋma dɔgle Jehoova neŋ Yezu saŋa kaŋa naŋ pare?,Boziri la ka setan na ngma dogli Jehovah ne Jesus sa ka nga na mpare.,1.0,0.2909
+953,"Te na zannɛɛ bon naŋ la suobu deebo, bon na suobu deebo naŋ wulo, ane sori na aŋ seŋ ka te maŋ tu a de suobu.","Tenganne zanne bonna suo bodibo, bonna suo bodibo na wulo, ani soro na ansi nka tima ntu adisuo wo.",0.8846,0.321
+954,"Boŋ na baŋ soŋ kultaa deme ka ba e yɛlɛ naŋ na vɛŋ ka popeɛloŋ be ba kultaa zieŋ, a kyɛ naŋ de emmo ko Jehoova meŋ?",Bonna ba sankulta deme ka ba yelana na dɛn ka puoriŋ bɛ ba kulta zie. A cha na di immoku Jehovah min.,0.7407,0.3563
+955,SOBUOŊ KA JEHOOVA NA EŊ O YUORI NA GYEREMƐ NENDAAREKAŊA?,Sọbuu ka Jehova na Ịnyori na Jerimen ndaar kaana.,0.8,0.3478
+956,Naazariti Na Jehoova Naŋ Da Maŋ Iri,"Yelbie nambe adaga puo nna ka ne nka, ""Nazarite na Jehovah na ndaman iri.""",1.8571,1.1379
+957,YƐLƐ TE NAŊ NA ZANNE,Yele tina na zani.,0.8,0.375
+958,"Setaana boɔrɔŋ ka o bɛnle te ka te sagedi ka Jehoova neŋ Yezu ba nɔŋ te yɛlɛ, azuŋ ka a ba seŋ ka te dɛle ba. A zannoo ŋa na soŋ teŋ ka te zagre a Setaana bɛnlɛ ŋa bare.",Setan abuoro nka obbenlete ka tisagidi ka Jehova na-enye ezu banno ntiyere. Azu ka abase nka ti daliba. Aza nno nga na sunte nka ti zagiri a Setan abenle nga bari.,0.875,0.3071
+959,"A dɛndɛŋ soba, a da waa ŋa a libie na oŋ na de da ne a teŋgane na na e la zaala, bonso Eliimelek teŋgane na koŋ e o soobu. O na leɛ la Ruut bidɔɔ soobu.","Adandan suba, adawaa nga alibie na ọnna di danen atengan na na ilazaala. Bonso, elimale tenganna kon iwu subo, ona riele urut bido subo.",0.8919,0.3214
+960,"Ka ba naŋ yelka te korɔ Jehoova gyeremɛ, wala ka lɛ wuli?","Kaba na yelkato koro Jehovah gyelma, gola ka lewuli.",0.9167,0.25
+961,"SAŊA NA TEŊ MƆƆRƆ KA TE TA YƐLƐ NA TEŊ DE BIŊ TE NIMITƆƆREŊ JEHOOVA PUORUU POƆŊ NA, . . .",Saa na ta moro ka ta tayelana tin bintin mi toore njiuoba puru puona.,0.8333,0.4308
+962,te yɔɔmine zieŋ a sonnɔ te teŋ dire kannyiri?,Tii mine zie a sunna tiri dire ka nyiri.,0.8889,0.3333
+963,A MALEKERE MAŊ MOƆRƆŊ KA BA VƐŊ KA A LANTAAPUORUU E FORIFORI,Amalek re ma moron kaba ven ka lan ta puru iforfuri.,0.9167,0.2857
+964,Boŋ teŋ na baŋ e a toɔ̃ nyɛ Jehoova sommo?,Bụ tinna bae a tuonye Jehovah sombo.,0.9,0.3548
+965,"a Jehoova yelko teŋ ka, o na kyɛlle woŋ la te puoro ka ane o boɔboŋ wa kyaare taa. Te na baŋ sagediŋ peɛlaaŋ ka Jehoova na ko teŋ sommo zaa naŋ fɛre te ka teneeŋ wa tuoro yelkpeɛne. Te nyɛ soe na mine Jehoova naŋ maŋ tu kyɛ kyɛlle woŋ te puoro.",Jehovah yiel kutsenka ona chel wuli ti puru ka ani obuo bun wa charita. Tinaban sardin pielanka Jehovah na kutsen sumu zana freti ka tinin wuturo yiel pieni. Tinye soe na mini Jehovah na man tu chel wuli ti puru.,0.8679,0.4309
+966,WALA HOŊ NA IRI A NOƆRE?,Wala hunna iri annuori.,0.6667,0.3333
+967,Bonso Aŋ Soma Ka Te Boɔrɔ Kawane?,Bonso a suma ka te bora kawane.,0.4286,0.1538
+968,NAŊ MOƆ̃ NIMIRI A PUORO JEHOOVA KA HO YƆƆ KAŊAŊ WA E YELKAŊA A SÃÃ HO POƆ,Na m wonimiri aporo Jehovah ka ho yọ ka nga nwa e iyel ka nga asan hupuọ.,0.8824,0.3393
+969,Boŋ da soŋ Pɔɔl oŋ de popeɛloŋ puoro Jehoova aneazaa ka o eŋɛ da maŋ kyoɔreŋ saŋa kaŋa?,"Bon, dasum pɔl onde pu piɛlɛm puore Jehova, a ne a zaa ka o e nga dama chuoro nsang a kaŋa.",1.0,0.3188
+970,A LANTAAPUORUU NEMBƐRƐ TONƐƐ TONKPEƐNE “YƐ POƆŊ”,Alansa puru nimbere tu ne tu nkyene ya puo.,1.2857,0.425
+971,YƐLƐ TE NAŊ NA ZANNE,Yele tuma na zanni.,0.8,0.375
+972,"‘Yelmannaa kaŋa naŋ toɔrɔ sukyiri be la a yɛlɛ ŋa poɔŋ maŋ na baŋ de toŋ neŋ toma, saŋa na maŋ wulo neɛ kaŋa a Baabole bee?’",Yelamanne ka manan tori suori bela ayelanga puo manna bande tonna toma. Saana ma ulunia ka abahule bi.,0.963,0.3723
+973,LEƐTEƐRE KA A DONƐƐ BAAROO PEƐLƐƐŊ,Lietiere ka aduna ebe a ruo puku iri.,1.0,0.5172
+974,bo ka Jehoova maŋ kaara soriŋ ka te e?,Bokah Jehovah man kaara sorin ka te e.,0.5556,0.1724
+975,O DA TAAƐ SAGEDIIBU KA JEHOOVA NA SOMOOŊ,Oda taa sa wa dibuka Jehovah na somo.,0.875,0.2424
+976,BO YƐLƐŊ NA BAŊ SOŊ TE . . .,Bo yel-nyuuro ban sonte,0.8333,0.5294
+977,"A yiiloŋ soba, a na eɛ o ferebo toma ka o kaara Nawomi ane Ruut zu.",A yi lonsu ba. A na yela o firibu tuma ka o kara na womi a ni uru tuzu.,0.8125,0.3
+978,YƐLƐ TE NAŊ NA ZANNE,Yele tana zanne.,0.8,0.3125
+979,ANANSO JEHOOVA NAŊ E PI-KPƆGREE,Anaa so Jehovah na a pipori.,1.2,0.3846
+980,Te na zanne nyɛɛ lɛ a Naazariti deme ewuli na naŋ na baŋ soŋ te ka te taa nyaa a kyɛ e siri meŋ ka te de bonzaa te naŋ taa iri sareka ko Jehoova.,"Tana zani nyelle, a nazara ti deme i wulu na na na ba sunte ka tita nya a che isiri min ka ti di bonza tana nta iri sare ka ku Jehovah.",0.8571,0.2909
+981,YƐLƐ TE NAŊ NA ZANNE,Yelɛ na na zane.,0.8,0.3125
+982,a kaara te zu velaa?,Akaratizo vela,1.0,0.2667
+983,WALA HOŊ NA BAŊ E NYƐ FAŊA EMMO . . .,Wala hen na baa enye faa imu?,0.75,0.3333
+984,YƐLƐ NAŊ DA MAŊ VƐŊ KA PƆƆL POƆ SÃÃ WAGRE MINEŊ,Yele na n da ma ven ka puor puor san waari mining.,0.9091,0.4865
+985,Sobuo ka Yezu wuli nɔmmo a ko o bitontonee na?,Subu ka yezu wil nombo ako ubi tuntuni na.,0.7,0.3056
+986,Taa Popeɛloŋ Kyɛ Naŋ Di Kannyiri A Kyɛnlɛ Jehoova,Tapo pialong chenne ndikanyiri a chenne Jehovah.,0.8889,0.4634
+987,Bonso aŋ e nimizeɛ ka te sagedi peɛlaaŋ ka Jehoova nɔnɔ teŋ?,Bonso a inimbi zie kati sori piɛla n ka Jehova nɔnɔtɛn.,0.8333,0.3333
+988,YƐLƐ TE NAŊ NA ZANNE,Yelekye n' nazaane.,1.0,0.4375
+989,JEHOOVA POƆ MAŊ PƐLEŊ KA TENEEŊ WA PUGIRO O YUORI NA,Joo wa puo man peleng ka tin nwo puore o yuori na.,0.7273,0.4048
+990,a moɔrɔ te moɔbo zaa a vɛŋ ka a lantaapuoruu e forifori?,Amoora chimbovesa a venka lanta puru iforifori.,0.9167,0.3864
+991,"Sɛgre ho meŋɛ ko a naaŋ moɔloo. Aŋa mannoo poɔŋ, a booree neɛ kaŋa na baŋ leɛ la a die daana ka ho manna a yɛlɛ koroo aŋa ho naŋ be a naaŋ moɔloo poɔŋ.","Soro m ya kụọ a na-amụrụ anaghị ma n'ụpụọ, abụrụ m nne ka a na-abanle la adịghị daana ka ha ma na ayala kụrụ anaa hụna be a na-amụrụ ụpụọ.",0.8286,0.5088
+992,ZANNE YELKAŊA YI YELBIE NA DƆBƆ NAŊ TAA YELMENNOŊ NAŊ DA YEL KYƐ KPI NA POƆŊ,Zaniel ka ngayi yelbie na dobana ntaa yelmenno na da yel chepkinapuong.,0.75,0.2951
+993,yɛlɛ Jehoova naŋ e saŋa kaŋa naŋ pare?,Yele Jehovah na sɔng a kana mpari.,1.0,0.4333
+994,Teɛroŋ Zuluŋ Na Toɔ̃ Soŋ Teŋ Ka Te Yɛlɛ Maale,Tiero zulu na tuosenti ka te yele maale.,0.6,0.3429
+995,Bonso aŋ seŋ ka te taa kannyiri neŋ te booree deme naŋ ba puoro Jehoova?,Bonsu an seng kati taa ke nyire ne nte buri deme na ba puoro Jehova.,0.8,0.2632
+996,BON NANSO TEŊ NA BAŊ DƐLE A YELMEŊƐ NAAŊMEN,Bụ nna sọ ti nna ba ndali ayeli mị ha na anwị.,1.3333,0.4571
+997,TAA GYOGRI NAŊ PƐLƐ NAAŊMEN POƆ,Ta jori na pele na anwene puo.,1.1667,0.4615
+998,TE DA TE LAŊ TONƐƐ A PUORUU TOMA CAMEROON PAALOŊ,Teda tɛlɛntunɛ a pɔlɔ tuma Cameroon paalɔŋ?,0.8,0.3077
+999,John Blankson,John Blangsin fo tɛla bandi inbe.,2.5,1.3333
