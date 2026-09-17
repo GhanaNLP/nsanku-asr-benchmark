@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,GYEHOVA MA YENYIA ANWƲLAZƲ KƐƐ YƐTƲ BƲLƆ YƐMA YƖ,Jehova manye ya nwunye n'azụ ka ehihie tupu ya eme ya.,1.2222,0.675
+1,‘Asʋ̃ mʋwɔ ndianwʋ mɔɔ mʋkɔhʋla mɩkɛva mikehilehile nɔhʋanlɛ odwokɔ yɩ nu bʋwɔ mikehile abiye a?’,"A sụ mụ nwa ada, ụmụ m kọrọ m gawa nke ha, ha jụọ kwa ya nụ bụrụ m ka ha bia.",1.4667,0.6709
+2,MMƖLƖ MƆ ƐTƖ NƔANLƖ KƐƐ WƲ ZƲ ÍNI MFASƲ MA GYEHOVA,Mụrụ mụ etu a na nke Uzochi na Fasta Jehova.,1.0,0.6
+3,YƐ́ NDIANWƲBA KƐƐ ABUSUNWA TI,Yɛn dan bɔkɛ ebusuati.,1.0,0.3333
+4,MƆƆ ƖKƆHƲLA KƆWƲWA YƐ NA YƐÁYƐLƖ ANGƲMIDI ANZƐNYƖƖ YƐÁNYIANLƖ ADWƖNƖ KƐƐ YƐTƐLA MMENII MVƲLƆ,Mụ na ụlọ ọrụ anyị na-arụkọ ọrụ dị ka onye na-ahụ maka ya na mgbasa ozi.,1.1429,0.8101
+5,Gyehova “Ɩsa Bɛzabɛ Mɔɔ Bɛ Ahʋnlɩnɩ Wuwu Nɩ Adimakɛlɛ”,Jehovah eshie be zia bu mu ba wu nu wu wu ni edum akali.,1.5556,0.5455
+6,ÁMA ƐMA MMENII SƖKƐ ANWƲLAZƲ MƆƆ ƆWƆ WƆ GYEHOVA YƖ AHYƖHYƐDƖ YƖ NU NƖ,Amaechi na-enye aka n'ọrụ ebere na ụlọ ọgwụ dị iche iche n'ụlọ.,1.0,0.8393
+7,Mɩnla mmɩlɩ yɛ dasɩlɛlilɛ egyima mɔɔ bɛyɛɛ yɩ kakɩ yɩ nɩ kɛɣa awielɩyɛ a?,Mene amereɛ da 14 ma mobɛyɛɛ ka kɛse ne ka a ewielia.,1.0,0.5593
+8,BƆHƆ́ ZƲ BƐHYƐ BƐ NƖƖ GYEHOVA AVINLI ABUSUNWAWƆLƐ YƖ NU ƐZƖZƖBƐ,Bọọzụ ọ bụla ịbanye n'ụgbọ mmiri a bụ nsogbu a wụrụ n'ụzọ siri ike.,1.2727,0.8077
+9,Yekehila nninyeni anla be mɔɔ Gyisɛsɩ yɛlɩ mɔɔ sa ɔkʋla sumazuma na ɩawʋwa wʋ ma wʋava ɛhyɩmɛ wʋayɛ wʋ dasɩlɛlilɛ egyima yɩ.,Ihe kpatara anyị ji aṅụrị ọṅụ bụ na Jizọs Christ bụ onye ga-awụ ọma wafe Chineke nye ụmụ mmadụ niile.,1.0,0.8137
+10,NYIA ƐPƐ KƐƐ ƐKƐYƐ SƲNƲNKƲ̃,Mepɛɛ akayɛ sunsum.,1.0,0.6364
+11,Sumazumá Awɔvʋlɔ Nɔhʋanlɛmaa Yɩ,Snoozema wovlono wala mai.,1.0,0.5714
+12,Odwokɔɣizialɛ Sikalɛ Be Mɔɔ Abiyela Kɔhʋla Keɣizia,Odi ka ị zala scale be mụ ebe a na-akwụ ụgwọ akwụkwọ ikike.,1.7143,0.7045
+13,DA NTƖYASƖ ALI NA NYIA NNINYENI NWƲ ADWƖNƖBA,Danti asiri na-enye anyi nwa ajoo niba.,1.0,0.4595
+14,Ndwokɔ Mɔɔ Gyisɛsɩ Hanlɩ Nɩ Kɔhʋla Kɔwʋwa Wʋ Ma Ɛkɛdɩ Mɔɔ Ɛkɩnga Nɩ Tʋ,Aha m bụ Njoku Esei. Njoku bụ aha m ji sasa ha na-ekweghị kọọ ụwa m aka dị mma ka m gaa n'ihu.,1.6429,0.9123
+15,“Bɛzabɛ mɔɔ bézi ɔnwʋma nɩ yɛ bede Nyamɩnlɩ bedi a.”,Bịa zaba mụ beezinụ mụ ma na ebe dị ya amụrụ beedi ya.,1.3,0.575
+16,b MFONYINI NWƲ ODWOKƆ: Eliyema baalɛ kɛdɛkɛ be mɔɔ ɩkãã kezimɔ yɩ anyɩ sɔ mɔɔ Gyehova ɩyɛ ɩma yɩ nɩ wɔ mpayɩwɔlɛ nu.,Ụfọdụ n'ime anyị bụ ndị ahịa. Ịrịọ maka akara ka ebe mụ ịka ka ezimụlọ anyị sọọ Jehova ga-eme anyị nwa mpaghara iwere unu.,1.0435,0.7174
+17,Kɛ ɩkɛyɛ na yɛahile kɛɛ yɛ anyɩ sɔ elelɛdɩyɛ nɩ a?,Kedu ka ị na-eme? Ị anọrọla dị anọ?,1.0,0.7692
+18,MƖNLA ƆHƲANƖ ZƲ YƐ ƐHƐLƐLƐNDWOKƆ EYIMMƆ KYƖKYƖ WƲ ƐƔƐƐLƐ A?,Mụ na nwanne m nwanyị anọrọkwa ịma cha cha egwuregwu.,1.0,0.8367
+19,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova duwa ye mmeliyema zʋ kyɩkyɩ yɛ ɛɣɛɛlɛ a?,Mero wano ji Jehova duomeli amazu chichiyela.,1.0,0.6296
+20,Sumá Debe Wɔ Bayɩbʋlʋ Nkɔmɩhyɛ Nu,Sụmadi be wọ Baibulu nkom si elu.,1.1667,0.5
+21,“YÉZI SƲ̃MAA FALƖ BULOMBUNLILILƐ EGYIMA MƆƆ BƐYƐ YƖ WƆ GUINEA NƖ NWƲ”,Ihe a sị m afara bụ mụ na-eji ma ọ bụ be ya i nwere gịnị na-ewu?,1.4167,0.6909
+22,"Wɔ Ɔwɩɛnɩlɛ Aɣanɩ eyi nu nɩ, dɩyɛzumanlɛ ndwokɔ anlu mɔɔ ɩwɔ numɔ nɩ kɛma yekenyia ndwokɔɣizialɛ mɔɔ ilili zʋlɔ yɩ nwʋ munwalɩyɛ:","Ọ bụ ya na-alà n'elu nụ. Jizọs malitere njem a n'ọnụ mọị nwunwa nọ n'ime ya. Kama, ya kenye njem a ụzọ alụmọọlụ dịziri ya nnọọ alụ.",1.2273,0.7547
+23,Mɩnla yɛ ɩkɔwʋwa wʋ ma ekele Gyehova yɩ tanɩfakyɛ kediã numɔ a?,Mmalite nke ụmụ nwanyị na-elekọta ụlọ na-afachikwa dị nma.,1.0,0.7451
+24,Kɛ ɩkɛyɛ na yɛahyɛ yɛ nwʋ yɛ nwʋ ɛzɩzɩbɛ na ama yɛayɛ kɛɛ Nazɩlayɩmaa nɩ a?,"Kedu ka ị na-asị ya n'ụdị dị iche iche? Na-amaghị ya, ka na-azụ ahịa n'ịntanetị.",1.0,0.7458
+25,BENYIÁ MMƖLƖ BƐMA BƆ NWƲ BƆ NWƲ,Bịa ṅụọ mmiri bịa maa gbaọ ụgbọ ụgbọ.,1.1429,0.84
+26,b MFONYINI NWƲ ODWOKƆ: Eliyema benyia be iluwa anyɩnlɩdɩlɛ ɔhʋanɩ zʋ idii benyia be dasɩlɛ wɔ filling station.,"Ọ bụ n'ihi na ọtụtụ ụgbọala na-eji mmanụ dizel na-adịghị anwụ anwụ, iji mee ka ụgbọala ndị a na-aga n'ihu, e nwere ọtụtụ ebe a na-ere mmanụ dizel.",1.5556,1.011
+27,Mmulohyiyia mɔɔ ɩwɔ Feiran bɔnka yɩ nu,Ụfọdụ ndị ọjọọ kọọ sị mụrụchi amụrụ ya nwafeela n'ụbọchị nke anyị nụ.,1.8571,1.2812
+28,Anyɩnlɩlelɛ Mɔɔ Minyianlɩ Wɔ Gyehova Ɔzʋ̃mɩnlɛ Nu,"Anya lele mụ, mụ naara gị ụjọ fụrụ mụ nụ.",1.4286,0.6905
+29,Mɩnla ti mɔɔ ebiye a Gyehova ilóbuwa yɛ mpayɩ wɔ kezimɔ yekilaa yɩ ɔhʋanɩ nɩ a?,"Mee ka m wee bịa, Jehova bụgbuo ya mpawo ka eji m ya kụọ ahụ anị na ya.",1.125,0.5556
+30,“Mʋnlʋmmɔ bɛzɩnza Bayɩbʋlʋ nu ndwokɔ kɛmɔ ɩ nɩɩ be dedi keyiyia.”,Mụ na ndị enyi m jụrụ ka e mee ya na be ndị dị ka ya.,1.3636,0.7885
+31,Mɩnla ti mɔɔ yɛkʋla yenyia anwʋlazʋ kɛɛ Nyamɩnlɩ ide yɛ itiã nu a?,"Mụ na ụmụ ya nwanyị abụọ na-azụkọ ya, ya mere ideye ya tenụọ.",1.0,0.6226
+32,KEZIMƆ MƖƔA MƲNWƲNLƖ GYEHOVA NA MƖVALƖ MƲ NWƲ MIDIANLƖ YƖ ZƲ,Kezie mụ na mu na Jehova nọkwaara mụ na ụmụ ndị a na-ezọ.,1.0909,0.58
+33,Mɩ nɩɩ mɩ abusunwa yɛyɛɛ egyima wɔ ye egyini yi nu,"Ọjọ́ kọ́mọ̀ọ́wá m̀fọ́ ẹnìwọn ísé, m̀ẹ́dị́màbụ̀sọ́ àyẹ́ èjímàwọ́ yẹ́jínínú.",1.0,0.975
+34,NWANZANWANZA NƖƖ NWANZANWANZA NU NWANZANWANZA DƖKA YƖ,Wanzam wanzam ne wanzam wanzan ne wanzam wanzam da kaya.,1.4286,0.2766
+35,Nyini zʋ: Ɣilediyo nwʋ mahyini azʋlɔtʋ,"N'ezọ, redio bụ masiịnụ azụrụtụ ụfọdụ ndị nwụrụ anwụ kwụsịrị.",1.6667,1.3438
+36,MƖNLA YƐ ƖKƆWƲWA YƐ MA YEKELE KELI KƐƐ GYEHOVA VA HYƐ YƐ A?,Mụ na ya kowara ya mere ikelikelike Jehovah vashe ya.,1.0,0.4565
+37,Gyehova Yi Dima Yɩ Nwʋ Hyinyia Yɛ,O wee di mụ na nwunye ya.,1.0,0.6667
+38,MARIANNE WERTHOLZ YI MUNWA NU NDWOKƆ,Marian wetuozi mụ na njikọ. Mụ na ya na-edikwa Marian wetuozi.,1.8333,1.0968
+39,KEZIMƆ OHUNƐ BE KEYIAKI NYƐLƖYƐ TANƖ,Kezman hunabeki yaki yari tani.,1.0,0.4194
+40,MMƖLƖ MƆ BODWE WƲ KÃNWƲAZƖ BEHILA,Mmemme m bụ dịka nwaanyị bekee.,1.0,0.6786
+41,"Mɩnla nninyeni yɛ ɩsɛ kɛɛ yɛkɔ zʋlɔ yɛyɛ a, na mɩnla nninyeni yɛ íni kɛɛ yɛma yɛ ɛɣɛɛlɛ ifi a?","Mmerụ niile a sekee, yikọziri ya ya, na mmerụ niile a enike, yema ya ghịrị efia.",0.95,0.6164
+42,William R. Brown nɩɩ yɩ abusunwa,Ụfọdụ ndị isi William R. Brown na-agụsị akwụkwọ.,1.0,0.8846
+43,“Bɛmá Ɔkʋ̃yɛlɛ Nɩ Mɔɔ Sunzuma Nɩ Ɩva Ɩma Mʋnlʋmmɔ Nɩ Ɩwʋwa Ɛkɛnɩ Eɣile Bela”,"Báma okwụelu mụ, sịzị m na ife mụ mụrụ nwa na ya bụ aka na-erighị beera bụ mforị nọ na ya. Ya bụ mmiri mere mụ ya na mụ alụbeghị mụ gọọgọọ nwa bebi a, ya wa bịa ụdọ.",2.7857,1.7
+44,"SƐ GYEHOVA MA EGYIMALILƐ BE WƲ A, BƆ MMƆDƖNƖ KƐƐ ƐKƐYƐ",Sị na Jọvanị ga-ejikwa libo a gba mmadụ nka ka e.,1.0,0.6744
+45,"e Kila mfonyini nɩɩ alɩka mɔɔ ise “ Mɩnla Yɛ Asafʋ Yi Nu Maa Yɛlɩ a? ” Eliyema benyia be mɔɔ iyiaki dɩyɛzumanlɛhɔlɛ nɩ, nɩ ɩánwʋ kɛɛ ɩhɔ́ Kɩndɔm Hɔɔlʋ kɛnɩ anzɛnyɩɩ kɛɛ áma ɩkɔ a. Naasʋ̃ ilili ɔzɔ nɣanlɩdɩlɛ yɩ zʋ. Na ɩhɔlɩ nɩ, beleli yi wɔ anyɩnlɩlelɛ zʋ, na yɩ anyɩ leli baaba a.",Klumfoinen alle komme i C.,1.0,0.9163
+46,AYIYIALƖYƐ AZƲLƆTƲ YƖ MANLƖ BƐYƐLƖ ƆKƲ̃,A yali azuro toyi man bayaro kun.,1.1667,0.6061
+47,Mɩnla yɛ ɩkɔhʋla kɛzɩkɛ mmeliyema mmenyia nɩɩ mmaalɛ mɔɔ bɛ anyɩ dɩ nɩ bɛ anyɩnlɩlelɛ a?,Mụ na ya kowarakwa zị ka mụ na ya ma menya na mmalite mụ na ya nụbanyere na ya.,1.1875,0.5833
+48,c Bɛzɩnza anlima yɩ be.,"A zaka iya zuwa ko yaushe, ba zunzurutun lokaci ba. A zaka iya zuwa ko yaushe.",3.2,2.7778
+49,Bɛáyɩ Blankson ali. Na ɩákɛlɛ kɛlɛta bela ɩfa ɩpa kyɛbɛ sʋ̃.,"Baya blang sinyali, na ya kala-kala tabbi la fafacca basu.",0.9091,0.4681
+50,Di Ɛhakɛlɛlilɛ Bayɩbʋlʋ ɛɣɩngalɛ nwʋ nhyɩhyɛlɩyɛ mɔɔ ɩwɔ Kyerɛwnsɛm No Mu a Wobɛhwehwɛ Daa nu nɩ mɛda .,"Diokpara ịrèbabu àngala nweshara ya mọọ iwu chụrụ nsọ n'ime ya, ọbụrụ ihe dara n'ime eda.",1.0,0.6706
+51,FA GYEHOVA ƆZƲ̃MƖNLƐ DI BƆMƲNLƖ WƆ WƲ ƐBƖLAWƆLƐ NU,Fa jehuwa zọlụ ndị gị ọlụlụ.,0.8889,0.7561
+52,"Wɔ Dwuumaa bɛ mmɩlɩ zʋ nɩ, mɩnla yɛ nɩ ɩdɩ “Ɔhʋanɩ Nwanzanwanza” yɩ a?","Wụrụ mụ na-abụghị onye na-eso ụzọ gị, mụ na gị na-edị onwe anyị nwa nwa nwa ya.",1.2143,0.7736
+53,BOLUWALƖ ƔILEDIYO ZƲ BELILI DASƖLƐ,Bulwalu radio zo belili dasale.,0.8,0.3667
+54,MƆƆ ƖKƐMA WƲ ANYƖ KELE MMƖLƖ MƆ ƐDƖKƐƐ NƖ,Mụ ịkemmawa nke ịlị mụ dị ka nị.,1.0,0.6061
+55,yɛahʋ̃ yɛadiyia akɔnɔ tanɩ a?,Mụ na ya nile kọwara nke ya na ama ya ahụ ya di akọnata na ya.,3.2,1.4348
+56,Ye mmeliyema mɔɔ yɛzʋ̃ yɛ ahʋnlɩnɩ nu yɛkɔlɔ bɛ,Ihe mere ya mere ọtụtụ izu ụka ole na ole kwadoro ya.,1.3333,0.9211
+57,BƲWA WƲ BAYƖBƲLƲ DƖYƐZUMANLƐVƲLƆ MA ILÍ NDWOKƆZƖZƖBƐ ZƲ,Bụọ Baibụlụ dịzị malite na mmalite njikọ ziri ezi.,1.125,0.6875
+58,SUMAZUMA KEZIMƆ GYEHOVA DWƖ̃ NƖ,Smazma kismat Jehovah trine.,1.0,0.5
+59,"John wuwalɩ yɩ kɛɛ,“ Sir, Ɩdɩ nɔhʋanlɛ.”",John vuole che se ne vada.,0.8571,0.6897
+60,mɩnla ti mɔɔ yɛkɔhʋla yekenyia anwʋlazʋ kɛɛ Gyehova kehila yi mmenii a?,Mụ na ụmụ ya kwụrụ ihe ịrịba ama azụ nke Jehova ka e hụrụ ebe na ya.,1.4167,0.6441
+61,"Mɩnla ti mɔɔ kakɩ yɩ, yesi zʋlɔ owudo kɛɛ, odwokɔ mɔɔ nwʋmɔ hyinyia paa yɛ lɛ Gyehova yi dima mɔɔ nwʋmɔ kɛdɩ nɩ a? Bɛmá yezunzu sianti asã be nwʋ.","N'ime ụmụaka a, e si zuru ụdọ kee, ọ dịghịkwa otu onye si na-apụghị ele Jehova ihu ma ọ bụ ụmụaka dị na ya, bọọ ma e zụrụ nzụ sentị asatọ bọọ.",1.0667,0.708
+62,Dɩyɛzumanlɛ eyi kɔwʋwa yɛ ma yɛkɔnwʋ kezimɔ Gyehova kile yi mmenii ɔhʋanɩ wɔ nnɛ nɩɩ nyilalɛ mɔɔ benyia mmɩlɩ mɔ bɛva yɩ ɔhʋanɩhilelɛ bɛyɛ egyima nɩ.,"Jizọs malitere ịkọwa ya ma ya na ụmụ nke Jehova kpee mmụọ nsọ n'ụlọ nne. N'inyere ya aka, ọ bụ ya mere na ọbụghị ya nwa nwere ebe e ji mara ya.",1.1923,0.7154
+63,KƐ OKOWUWA KEZE A?,Co-workers are,1.0,0.7857
+64,MMƖLƖ MƆ ƖYƐ SƖ KƐƐ EKEGYINA PINDINYII,M'renmen l'eske ke je n'ai pas dit.,1.0,0.6562
+65,Kɛ ɩkɛyɛ na mɩava nkyɩkyɛmi eyi mɩawʋwa mmenii mvʋlɔ a?,Kedu ka m ga-esi mee ya ma nwoke nọ na nwụrụ? A na m enje kwa ezi.,1.6,0.8667
+66,SIANTI MƆƆ ƖKƆHƲLA KƐYƐ SƖ KƐƐ WƲ ANYƖ KƆHƆ ZƲ KELE MMƖLƖ MƆ EKILAA ABIYE NƖ,Senti mụ ekweghị ka esemokwu ọzọ kelee mmụọ e kere ebi ya na.,1.0,0.6557
+67,KƐ OKOWUWA KEZE A?,Google workers are,1.0,0.8571
+68,"Ɩávalɩ nwʋmɔ dɩka mɔɔ yɛda anzɛnyɩɩ kezimɔ bɛdɩdɩlɩ yɛ nɩ, sɛ yɛma Nyamɩnlɩ yɩ fʋlɔdulɛ bʋwa yɛ wɔ yɛ pɔkɔzilɛ nu a, yɛkɔhʋla yekenyia zʋlɔ mfasʋ na yɛ anyɩ kele.","Yaarọ ọmọde ka mọ ya da, a n sẹkịsịmọ bẹdẹdẹ lịyanị. Sẹ ya manya mụ na ịfụrụ dị na bọọ ya, ọ ya pọkọzịlị nụọ. Ya kọwaị kị ya zịrọ ụfụsụ na ya ịkelị.",1.1333,0.5846
+69,MƖNLA YƐ ƖKÃ YƐ MA YƐHYƐ GYEHOVA ANIMINYIAMƖ A?,Malaika amesijua venumiami a.,0.8889,0.6842
+70,Asʋ̃ mutwii kaalʋ ma mʋdɔ nkɔsɔ kyɩ̃ a?,A sụmụchụkarị m mụ dị nkọ socha.,1.0,0.5862
+71,Nninyeni Be Mɔɔ Yɛkɔhʋla Yekozuma Nwʋmɔ Dɩyɛ,Ịnye ndị be mọọịakwụkwọ zụma ụmụ dị ya.,1.0,0.6579
+72,d Kila odwokɔ mɔɔ ise “ Pornography Can Shatter Your Marriage ” wɔ jw.org nɩɩ JW Library zʋ.,"Azu ka n'ijoku esi, ka ejikoma esi, pornography can shatter your marriage, www.org ni gị ga-ewelite ya bụ eziokwu.",0.875,0.5775
+73,"Mɔɔ ɩkɛyɛ na wʋanyia wʋ Bayɩbʋlʋ ɛɣɩngalɛ zʋ mfasʋ sʋ̃maa nɩ, sa ɔkʋla osunzu ndwokɔɣizialɛ mɔɔ ilili zʋlɔ yɩ numɔ ɔkʋ̃ anzɛnyɩɩ anwɩ̃ nwʋ:","Mụ a kee nụ wa ya bụ agbụrụ ngala ọzọ mfasụ sụmụa ni, sọkwụrụ sụzụ jụkọ ozi alụmọlụ izuọ yị nụ ụmụọkwụ anza anwụ.",1.0,0.6216
+74,Bɛmá yehila mɔɔ Bayɩbʋlʋ yɩ kã falɩ nzã nwʋ nɩɩ adwɩnɩ mɔɔ abiyemmɔ fa nʋ nzã nɩ.,"Bameere da mọ baibọli ka fali nza mọ, ni atunmọ bi mọ fani nza ni.",1.0,0.5625
+75,"Mukodwodwu mɩkɛhɩhã mʋ nwʋ,’ Gyehova yɛ ise a.","Mokolo ya nsuka ya pɔ́sɔ, Yehova ye sɔ.",1.0,0.6389
+76,KƐ ƖKƐYƐ NA ASAFƲ NU MBANIMBANI BƐALA ANNIDI ALI BƐAHILE MMAALƐ A?,Kekena asafnumben beni baleni gieli beghli mala.,1.0,0.4259
+77,NƖ GYISƐSƖ WƆ MMƖLƖ MƆ ƖFA ƖBƆ MPAYƖ,"N'iji sị sị, ọ malụ mụ ife a ịgbọmpụ ya.",1.25,0.6207
+78,“Gyehova Manlɩ Yɛ Sa Hanlɩ Dɩyɛ Bela Mɔɔ Nɩ Yehyinyia”,Jehova mara ya sahani dịịrị mụ na gị.,1.0,0.6279
+79,Asʋ̃ polisinii be hyɩ mɩ kyɩ̃ iluwa kezimɔ mutwi kaalʋ ti nɩ a?,Asụsụ Polisi n'ebe shemechem ịrụ a kee zị mụrụ chụmụkaalị n'ịtịa.,1.0,0.6458
+80,Wʋ Anyɩ Kɔhʋla Kele Wɔ Wʋ Mbanimbaniyɛlɛ Nu,Ụwa ya kwụrụ kịlị wa ụmụmbene ị yịlị nụ.,1.125,0.6667
+81,GYISƐSƖ YƖ ƆHƆNWƲ BE MƆƆ ƖDƆ YƖ PAA WULI,جیسے ہوں گے ما ادھر ہی پاولی,1.0,1.0
+82,"c MFONYINI NWƲ ODWOKƆ: Eliyema baalɛ be mɔɔ ɩdɩ omumunlo ɩdwɩnɩndwɩnɩɩ Bayɩbʋlʋ nu anʋhʋba nwʋ, na ikilaa ndwomi nwʋ vidiyo ma ɩkɔwʋwa yɩ ma ikodua kezimɔ yɩ ɛbɩlawɔlɛ kɛyɛ wɔ oyuwadɩ fʋlɔ yɩ nu nɩ nwʋ mfonyini.","Ụmụ nwaanyị nwere njikọ siri ike na mabaalụ be mụọ dị omimi, ejiri njikọ na Baibụlụ nụ anụ ụba ụ. Na ekele njikọ mụọ vidiyo ma ikwa nwa ma iko dọkịnta ezinụlọ bịara were ka ya bụ ụyọkọ fụrụ elu na ụmụ nwaanyị.",1.027,0.6744
+83,Gyisɛsɩ Dɩ Yɛ Azɔfʋ Mbanimbani Nu Ebani Mɔɔ Ɩwɔ Nwɔkɛnwʋnlɛ,Jisos dị afọ ofu mbọbụ n'ebe nne ya nọ ewe nwoke a nwụrụ.,1.3,0.66
+84,Mɩnla ti mɔɔ Gyehova nɩɩ Gyisɛsɩ anyɩ de a?,Mene ti me Jehovah ni gise sanyi da.,0.8889,0.4412
+85,Bɛnɩ zʋ: Eliyema Rutherford wɔ stehyɛnɩ mɔɔ ili bɔmʋnlɩ nɩ,Ujoko mụ ewụfụghị n'ụbọchị ahụ bụ ụbọchị Satọde ma ọ bụ ụbọchị ụka.,1.3,1.0417
+86,Mɔɔ Ɔkɔhʋla Kɛva Kɛyɛ Wʋzawʋ Wʋ Dɩyɛzumanlɛ Nɩɩ Abusunwazʋ̃mɩnlɛ,Mokoro ka vaka Yavuze yuzumale ni ebusu azumale.,1.0,0.5818
+87,"KƐ YƐKƐLA ANNIDI ALI KEHILE MMENII NƖ, KƐ YƖ TƲ KILE A?",Keh keh leh ni dieli keh leh menini keh tu keh.,1.0,0.4762
+88,Mɩnla yɛ ɩsɛ kɛɛ yɛyɛ wɔ awohwi ndwokɔ nwʋ a?,"Mụ na ya esiké yọwa, ọ bụ ezigbo enyi m nwoke.",1.1,0.7714
+89,"Áma ɛkã ndwokɔ be dɩkɛɛ, “mɩpɛɛ abiye mɔɔ ɩlɛ́tɩndɛlɩ” anzɛnyɩɩ, “Aninyia yɛ ɩlɛ́manlɩ munwalɩyɛ a?”",A ma ka m jụọ gị banyere ya? M ga-abia malite ndụrọ. Anaghị m enyo ya ịla mmalite ya.,1.2667,0.7143
+90,ƖSƐ KƐƐ YƐDƲDƆ YƐ NWƲ WƆ “NYƐLƖYƐ NƖƖ NƆHƲANLƐLILƐ NU”,Ị sị na ị dịghị onye ịlị e nụ nụ?,1.0,0.8605
+91,Kɛ ɩkɛyɛ na mɩava eyi mɩayɛ egyima wɔ mɩ ɛbɩlawɔlɛ nu a?,Keke na ma ve yi ma yi jima o me bula wole nu o.,1.0833,0.4545
+92,c Bɛzɩnza anlima yɩ be.,"Azi kani jo kwezi, bazenzela mayibe, azi kani jo kwezi.",2.0,1.8333
+93,GYEHOVA PƐ KƐƐ YEDE YƖ TANƖFAKYƐ YETIÃ NUMƆ,Jehovah pɛkɛ ye data nɛ faa ci ye tɛnɛmɔ.,1.125,0.3889
+94,"Sɛ bɛkã kɛɛ “beyiakí dɩyɛ bela nu bɛma Nyamɩnlɩ ma ɩva yɩ ɛya nɩ iduwa enii nɩ kakɛ” a, kɛ yɩ tʋ kile a?","Mana etinye na lamọọ ya bụ ụdị tanye ụmụ mmadụ, ya bụrụ ụmụ nwanyị ka ya",1.0,0.7922
+95,mmɩlɩ mɔ ekyinaa Nyamɩnlɩ bulombunlililɛ mɛda a?,Amaghị m ma ezinụlọ gị bụrụkwa ndị na-ele mmadụ.,1.2857,0.8293
+96,GYEHOVA MANLƖ ANWƲZƖZƖBƐ YƐ MA YƐYƐLƖ EGYIMALILƐ FƲLƆ BE,Jehova mụrụ onwe ya ma ya enyela ejịmele fụrụ be.,0.8889,0.625
+97,PƲ NYƐLƖYƐ MƆƆ IKEHILE KƐƐ WƲÁLI WƲ YƖ NNI,Ọ̀pọ̀ ìyàrá mọ́kìríké wà níwájú ní.,1.0,0.7941
+98,b Kila ndwokɔ mɔɔ ɩba ɩtʋwadʋwa zʋ mɔɔ ise “ Boduli Bɔ Nwʋ Bɛmanlɩ Kʋlaa .”,"Aha ka m ji kwesị, karịa ka mụ nọ ebe a tụrụ egwu azụrụ mụ isi, gboduru gbaa ụba ma arụkwaa, aha ka m ji kwezi.",1.8571,1.0702
+99,Yekehila kezimɔ Nazɩlayɩmaa be ndianwʋ yɩ kɔwʋwa yɛ ma yekenyia akɛnɣazɩzɩbɛ na yɛava yɛ nwʋ yɛawɔ afɔlɩ yɛama Gyehova.,Ya ka ịhla ke ịsị mụ na azụla ya mmiri bịa ndawe kwa ụwa ya ma ya ka ịnya ka azụzụ be na ya afaghị ya awụ afọlị ya mma Jehova.,1.5263,0.52
+100,Yɛkɔnwʋ adwɩnɩhilelɛ azʋlɔtʋ mɔɔ ɩkɔwʋwa awʋvʋlɔ ma bɛ nɩɩ bo nnwuakula kɔwɔ Nyamɩnlɩ nɩɩ Bayɩbʋlʋ nwʋ nkɔmmɔ bʋwɔ na bɛawʋwa bɛ ma be dedi nu ɩayɛ sɩ.,Ya kowaa ajụjụ nyocha otu ma ọ bụ kowaa ụvụrụ ọma gbasara onwe gị ma ọ bụ na gị na onye ọzọ na-arụkọ ọrụ ma bụrụ na gị na onye ọzọ na-arụkọ ọrụ.,1.1481,0.7984
+101,SUMAZUMA PƆƆLƲ NA WULA SUBANƖ FƲLƆ YƖ,Smesma Polo na ula suba nfolo e.,0.8571,0.4194
+102,MƖNLA ƆHƲANƖ ZƲ YƐ GYEHOVA DUWA NNINYENI EYIMMƆ ZƲ BƲWA YƐ MA YEKYINA PINDINYII A?,Mụ na nwanne m nwanyị ga-eje Hova 2 na nne nne m ọzọ bu ya ma ya Chineke pịndị ya.,1.2667,0.6269
+103,Kɛ ɩkɛyɛ na yɛava Gyehova yɛayɛ yɛ Bʋdanlɩ a?,Kekee na ya bụ Jehova ya onwe ya gbudanụ ya.,1.1111,0.5556
+104,d Kila alɩka mɔɔ ise “ Nninyeni Mɔɔ Ɔkɔhʋla Ɛkɛyɛ Nwʋmɔ Ɛbɩbɛlɛnu ” nɩ.,Claro que me hice.,1.0,0.8909
+105,"Sɛ Wʋ Adwɩnɩ Yɛ Wʋ Anwɩ̃ Anwɩ̃ a, Kɛ Ɩkɛyɛ Na Wʋali Zʋlɔ a?","Sawa jini yawa wuya wuya, kai kai na wulizula.",0.9286,0.5476
+106,ELELƐDƖYƐ YƖ MA YƐ NƖƖ GYEHOVA AVINLI YƐ BAABA DƆKƲ̃,"Eledumare ni Jehovah, fún yá bàá bádòkò.",1.0,0.5714
+107,BƲWA WƲ BAYƖBƲLƲ DƖYƐZUMANLƐVƲLƆ MA ƖVÁ GYEHOVA ILI BƆMƲNLƖ WƆ YƖ ƐBƖLAWƆLƐ NU,"Bụọ Baibụlụ dịzị malewalụ, ma ị ga-ejizi ya ịligba mmụọ ịbụara onwe gị.",0.9231,0.7273
+108,KƆ ZƲLƆ SUMA NNINYENI MVƲLƆ,Kajol usman yane vunlo.,1.0,0.6087
+109,Kezimɔ Mmenii Mvʋlɔ Kɔhʋla Kɔwʋwa Wʋ,Keduzi ma omenala ụlọ ọrụ gị n'ụwa?,1.1667,0.7097
+110,WU MMELIYEMA KƆHƲLA KƐHYƐ WƲ ƐZƖZƖBƐ,umeliamakora kesho usizibe,1.0,0.6129
+111,Mɩnla ti mɔɔ sʋ̃mavʋlɔ Pɔɔlʋ hɛlɛlɩ kɛlɛta ɩhɔ ɩmanlɩ Hibulu Kilisinyiamaa nɩ a?,"Mmalite ụmụ nwanyị bụrụkwa ọrụ ha na-arụkarị, ha gburu ndị Kristian na-anọghị ya.",1.0,0.8333
+112,KƐ ƐKƐYƐ NA WƲALUWA ABƆDƖ ZƲ WƲAHILEHILE WU NNWUAKULA A?,Kee kee na ụdị ụlọ agbada zọọ wee hịhịre nwoke ahụ?,1.0,0.6957
+113,ISRAEL ITAJOBI YI MUNWA NU NDWOKƆ,Israel ịta ajọọ obi ịmụọ nwa injọkọ.,1.0,0.5
+114,a Bɛzɩnza anlima yɩ be.,Azkaniyo kaise? Bazan-zan may be.,0.8,1.0
+115,YƐDA “MMƖLƖ MƆ ILI AWIELƖYƐ” NƖ NU,Ya damuru mụ iri abụọ na ụma.,1.0,0.6923
+116,BƲTAYƖ MƆƆ MMƖLANTƖYƐ KƆHƲLA KƐVA KEZIYE BƐ ANYƖ ZƲ,"A na m ajụ gị sị, gịnị bụ taimụ ụmụ nne gị nwoke ziri gị anyịzọ?",1.7778,0.8605
+117,Ɛɣɩngalɛvʋlɔ Mɔɔ Ɛla Yɛ Ahʋnlɩnɩ Zʋ,A ga-alọghachi m n'oge na-adịghị anya.,1.0,0.9333
+118,KEZIMƆ YƐKƐHYƐ AWUDUNWOLƖYƐ NWƲ ANWƲLAZƲ MƆƆ YƐWƆ YƖ NU ƐZƖZƖBƐ,Kedu ma ọ ga-esiri gị ike ịghọta ihe onye ọzọ na-ekwu?,1.1,0.8704
+119,Mɩ Mɛlɛkɛyɛlɛ La Nyamɩnlɩ Yi Tumi Ali,မင်းမလှေလှော် ရေမလှေထိုးမြေလှီ,1.0,1.0
+120,GYEHOVA KƆWƲWA WƲ,Jehova kọwa,1.0,0.4667
+121,Iluwakɛɛ Mɩvalɩ Mʋ Nwʋ Midianlɩ Gyehova Zʋ Ti Minyianlɩ Banɩwɔlɛ,Il y a que même dans les jours,1.0,0.8364
+122,"YƐYƖ GYEHOVA YI DIMA AYƐLƐ A, ƖMA YƖ ANYƖ IDE",Ya bụ Jehova dị mma nye anyị dị.,1.0,0.6
+123,“MƲNLƲMMƆ YƐ LƐ MƖ DASƖVƲLƆMAA”,አይደለም እንዳሰበው ለማን እንጂ,1.0,1.0
+124,Jacob Rumph nɩɩ yɩ yɩ Inga,Onye na-eme ihe nkiri a bụ Jacob Lofland na-eme ya ịngá.,1.8333,1.619
+125,Gyehova Wʋwalɩ Yɛ Ma ‘Yenyinli Wɔ Dɩka Mɔɔ Boluwalɩ Yɛ Nɩ’,Jehova wua ya maye ni nu wa daka mu bulu wa ya ne.,1.1818,0.413
+126,MƲHƆ MƲZƲ̃MƖNLƖ WƆ OYUWADƖ MUNWALA EGYIMAYƐLƐDƖKA TI,وہم زمزم وہ یادیں جو علی جمالی کی تھی۔,1.2857,1.0
+127,Mɩnla Yɛ Yezi Yɛfalɩ Kezimɔ Gyehova Kowuwa Mmenii Ndɛnɩ Wɔ Eɣile Be Nɩ Nwʋ a?,Mmanụ anyị ji afanye kesị mmanụ jọgburu onwe ya bụ ihe bekee na-akpọ,1.0,0.7742
+128,MƆƆ NƖ YEKILAA YƖ ƆHƲANƖ NƖ ƖÁBA NUMƆ,Mọni ya kịrịkịrị na-enweghị ịbanye n'ime.,1.0,0.8333
+129,a Beziyeziye dɩyɛzumanlɛ eyi kɛɛ ɩwʋwá yɛ ma yeli yɛ mɛlɛkɛyɛlɛ zʋ na yɛahɔ zʋlɔ yɛava nɔhʋanlɛlilɛ yɛazʋ̃mɩ Gyehova.,Bịa ya zie di na-elekọta ya ụwa ya ma yie ya mara ka eluigwe na ya kwụọ zọọ ya afa na-enweghị ile ya azụ n'ebe Jehova nọ.,1.3158,0.6907
+130,"Mɩnla yɛ nɩ Gyisɛsɩ ziyeziye yɩ nwʋ kɛɛ ɩkɛyɛ kɛma Gyehova yi dima a, na mɩnla ti a?",Malaika ni jinsi ya kusema ya kwamba eka ya kama Jehova idima na mletia.,0.9444,0.5385
+131,Mɩnla nninyeni yɛ Abɔnsamɩ duwa zʋlɔ bɔ mmɔdɩnɩ kɛɛ ɩkɛzɩkɛ ye pindinyiigyinanlɛ a?,"Muna niyan ya ban sami duwatsu da robobin da nake buƙata ba, zan iya zaka ya findin jinala.",1.3846,0.6857
+132,Dwɩnɩndwɩnɩ Ozumalɛdɩyɛ Aditili Mɔɔ Ɩwɔ Numɔ Nɩ Nwʋ,Jinjin nyuzimela di aditsiri m'ewonim'anwu.,1.0,0.6136
+133,yɛ ɔhɔnwʋ dedinii be ɩyɛ debe idiyia yɛ nɩ a?,Ya bụ ndị na-ebe ya debe dị ya n'anya.,0.9,0.5429
+134,Kɛ ɩkɛyɛ na yeanyia debe pɔkyɩɩ mɔɔ yɛkɔwɔ nwʋmɔ mpayɩ kɛma ye mmeliyema a?,"Kedu ka ị na-eme? Anyị dị bepụọcha ịma ọma, ya bụ na ọwụ mpaị ka mma a ga-emeli ama.",1.2857,0.6557
+135,Gyehova yɩ azʋ̃mɩvʋlɔ zʋ̃ bɛ ahʋnlɩnɩ nu wɔlɩ yɩ mpayɩ wɔ bʋwabɩlɛ azʋlɔtʋ nu. Asʋ̃ ɛdɩ nɣanlɩ zɔ kyɩ̃ a?,"Nweghịkwa, Jehova ga-eziga ndị ozi ọma n'ụwa niile wee gbaa akaebe ọtụtụ. A sị na",1.0,0.8375
+136,MƆƆ YESUMA WƆ GYEHOVA NƖƖ GYISƐSƖ BƐ KƐ,Moyie sumowa Jehova ni jisas beke.,1.0,0.4688
+137,SIANTI MƆƆ ƆLƆLƐ NWƲ HYINYIA PAA WƆ NNƐ,Senti mụ ọlọlọ n'ụsịapawa nne.,1.0,0.5625
+138,KEZIMƆ GYISƐSƖ WƲWALƖ MMENII MA BƆNWƲNLƖ KƐƐ BƆTƲ BƲLƆ,"Abonye kee bụrụ ọtọbụlụ? Ịchịchemịasah, ojee",1.0,0.9783
+139,"‘Aninyia yɛ yɩ anyɩ keleli odwokɔtile eyi nwʋ a, na mɩnla mmɩlɩ yɛ mʋkɔhʋla mɩ nɩɩ yɩ kozunzu nwʋmɔ a?’",A na m enye ya aka ka ọ dịrị ya mma. Na m na-emere ya m ka ọ hụrụ m n'anya ka ọ dịrị ya mma. A na m enye ya aka ka ọ dịrị ya mma.,1.75,0.875
+140,Mɩnla ahʋanɩ zʋ yɛ Nyamɩnlɩ yi mmenii sumazuma Gyisɛsɩ a?,Mụ na ụmụ nwanne m nwanyị na-eme n'ime nsọ mụ na Jisọs a.,1.2,0.6809
+141,Kɛ ɩkɛyɛ na yɛawɔ yɛ nwʋ banɩ wɔ odwohilalɛ nwʋ a?,Kedu ka ị ga-ana ya ma ọ bụrụ na ụmụ gị na-arónwa?,1.0909,0.7692
+142,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova wʋwalɩ Devidi a?,Mana Hanọ zịrị Jehova gwara Devid ya.,1.0,0.4286
+143,Kã Wʋ Nwʋ Azɩ Mmɩlɩ Mɔ Wʋádɩ Debe Tʋ Nɩ,Káńwá zé mụ́rụ́ mụ́wa dídí bétwéne.,1.0,0.6667
+144,Asʋ̃ Ɩsɛ Kɛɛ Miyiaki Kaalʋhwilɛ a?,"A sị na ị ka na-achọrọ mfe ịnụ nụ na ya nwoke erila ma bịa bụrụ onye bido ịtọkụrụ mmụọ na ịkịrịka arụ, ịkịrịka ịsa mfe weisị nụ, na ejunjụ n'ịnye nụ.",5.3333,3.6296
+145,"d Kɛ ndianwʋ nɩ, kila fʋlɔdulɛ azʋlɔtʋ mɔɔ ɩba ɩtʋwadʋwa zʋlɔ wɔ ɔfʋã mɔɔ ise “ Mmʋwalɩyɛ Ma Abusunwa ” wɔ jw.org nɩɩ JW Library ® zʋ .","Azu ka na-ejikwa ezi, ka ndị a nwunye, ka ha fụdịrị azụ otu ụmụ ebe a etu adịghị azụrọ ha fa, mụ a ria ma gbusịa nwa jw.org na jw libraries. Azụ ka na-ejikwa ezi.",1.3333,0.8922
+146,KƐ ƖKƐYƐ NA WƲAZUMAZUMAN ZADƆKƖ YƖ AKƐNƔAZƖZƖBƐ . . .,Keke na wọzọzụ ma zado kị aka zị zịbe.,1.2857,0.5366
+147,Gyehova dwɩnɩ bɛzabɛ mɔɔ bɛ ahʋnlɩnɩ wuwu nɩ nwʋ paa. Dɩyɛzumanlɛ eyi kɔwʋwa yɛ ma yɛkɔnwʋ kezimɔ Gyehova kyɩkyɩ yɛ ɛɣɛɛlɛ mmɩlɩ mɔ yedii ɛyɛkɛ nɩɩ kezimɔ ɩbʋwa yɛ ma yɛkyɩkyɩ mmenii mvʋlɔ sʋ̃ bɛ ɛɣɛɛlɛ nɩ.,"Jehovah ji na-enyeza bọọlụ ọbụla ahụrụ n'ụwa ụdị nkwụghachi. Ji izu malụ ịkọ ụwa anyị ma ya kọọ nke izizi Jehovah chiri ghalị, mụrụ mụ ya dị ya ka nke izizi gbara anyị ma ya chichimenụ mvụrụ ọsụba ghalị.",1.027,0.7006
+148,Bɛmá yɛbʋ angʋmidi nɩɩ adwɩnɩ mɔɔ mɛyɩ lɛ kɛɛ yɛtɛla mmenii mvʋlɔ mɔɔ mmenii sʋ̃maa da yɩ ali wɔ nnɛ nɩ. Mfomi bɛmá yɛ anyɩ zɔ nyilalɛ bela mɔɔ Gyehova kɛva kɛma yɛ iluwa yɩ adʋmɩ ti nɩ.,"Bụrụ na ị bụ onye omimi, ị ga-adịrị mmadụ niile ka ya, ya karịrị gị bụrụ na ọ bụ mmadụ siri ike adịghị eri nri n'ime ya. Ịfụ mị, bụrụ na ịzọrọ ịlali bụrụ na ọ bụ Jehova kamaka ya, ịlụọ ya adịghị mị ite nị.",1.2105,0.7671
+149,"Sɛ yekila kezimɔ Nyamɩnlɩ ɩ nɩɩ Devidi lili nɩ a, mɩnla yɛ yesuma yɛfalɩ yɩ tanɩfakyɛ nwʋ a?","Saa yaa krakɛɛ zi mɔɔ nyamane, eni Davidi lili nɛɛ, mɛnaa i sumaa yaa faa le tanifa chaa nwu a?",1.0,0.5068
+150,KEZIMƆ GYISƐSƖ BƲWA YƐ MA YEDE YETIÃ NUMƆ KƐƐ GYEHOVA DƆ YƐ,Kezimadisa zibuye amadeti amakhiwa adolye.,1.0,0.625
+151,a Bɛzɩnza anlima yɩ be.,अज केनी जो केसी बजन जानु माई बी।,1.6,1.0
+152,Mɩ nɩɩ Heinz nɩɩ Tatjana (avinli),"M fanye uzo kwesịrị, mee n'ihe nsị na-adịghị ana afụ nụ.",1.8333,1.2308
+153,MƖNLA TI MƆƆ ƖSƐ KƐƐ YƐFƲLƆ ASAFƲ NU MBANIMBANI A?,Mụ na ụmụaka ya fụrụ asaa fụrụ n'ụmụ mbembenia.,1.0,0.625
+154,"GYEHOVA MƆƆ YƐKƐHYƐ YƖ ANIMINYIAMƖ NƖ, KƐ YƖ TƲ KILE A?","Deo America siyam yamene, ketukla.",1.0,0.6279
+155,NƖ MIZI MƖ KƐNƔA KƐƐ MƲKƆHƆ ZƲ MIKELI NƆHƲANLƐ,"N'ime izu ole na ole, mkpọọzụ m kụrụ n'ọrụ.",1.0,0.7105
+156,"Yekehila kezimɔ elelɛdɩyɛ yɩ ma yenyia tanɩfakyɛ, kezimɔ ɩkɛma yekeli munli eɣile be na yɛ nɩɩ Gyehova avinli ɩayɛ baaba dɔkʋ̃ nɩ.","Ihe a kọrọ bụkwa na ndị a na-eme ya atụmatụ, nke izizi bụ ka mụ na gị rịọrọ be na ya bụ Jehova ebere anyị banyere akụkụ niile.",1.1818,0.7736
+157,KƆLƐNTƖMAA NƖ NLUMANLƖ,Kollha intom għandkom il-lumani.,1.3333,0.8
+158,KƆ ZƲLƆ BƲWA WƲ ƔA YƖ MA ƖHYƐ YI DEDI NU ƐZƖZƖBƐ,Kozorobua woyeme si dede ne zizibe.,1.0,0.5946
+159,MƖNLA ƆHƲANƖ ZƲ YƐ YƐKƆHƲLA KƐHYƐ GYEHOVA ANIMINYIAMƖ A?,Mụ na nwanne m nwanyị akwụghị ụgwọ kesheji ụbọchị iri na abụọ.,1.3333,0.8723
+160,KƆ́ ZƲLƆ BƆ MMƆDƖNƖ KƐƐ ƐKƐƔA KƐYƐ ASAFƲ NU EBANI,Kọsịrọ bọọlụ dị n'ike e ka a ga-esafụlụ gị eriri.,1.0,0.7436
+161,"Fa tag mɔɔ ɩwɔ JW Library ® zʋ nɩ di egyima. Hyɩhyɛ wʋ tag dɩyɛ na kɛlɛ zʋlɔ “Ɛhɛlɛlɛ Ndwokɔ Mɔɔ Mɩ Anyɩ Deli Nwʋ,” na kɛlɛ ɛhɛlɛlɛ ndwokɔ bela mɔɔ ɛpɛ kɛɛ ɛkakɛ nɩ kua ɔzɔ ɔfʋã yɩ. a",,,
+162,"Dɩyɛzumanlɛ eyi kɔwʋwa yɛ ma yɛkɔnwʋ kezimɔ yɛkɛva nnimidi, ntɩyasɩ nɩɩ dɩyɛnunwʋnlɛ yekezizi abɔkɔ mɔɔ nɣɛlɛbɛ wɔ numɔ.",Ị ga-ekwụwa ya ma ya kọọrọ gị ihe m ga-akavara gị ndị. N'ihi na e nwere ike ịzịzị abọkọ maọbụ nlebawanya. Etu m,1.2778,0.7228
+163,Kezimɔ yɛkɛva yɛ nwʋ kediã Nyamɩnlɩ yɩ ɔhʋanɩhilelɛ zʋ mmɩlɩ mɔ yesizii abɔkɔ mɔɔ nwʋmɔ hyinyia nɩ.,"Ihe mụ na ya kawanye ụka dị ya amaghị ihe niile ọzọ, ma ọlị mụ e siri zi ya agba common mọshịanị.",1.2941,0.7073
+164,DWƖNƖNDWƖNƖ NYAMƖNLƖ YI TILE NU PƆKƆ NWƲ KƆ AƔINZI,Jiri ejị eme ihe tụnyere ụkpụrụ nke oge gboo.,1.0,0.881
+165,Mɩnla yɛ ɩkɔhʋla kɛma bɛzabɛ mɔɔ bekila mmenii mvʋlɔ nɩ kɔhɔ zʋ kenyia anyɩnlɩlelɛ a?,Mụ na ya ekweghị aka na bazaa bụrụ na ekweghị m na mmvụrụ a na-akọwa ozo kenyere laa.,1.2,0.6857
+166,"SƐ YƐYƖ GYEHOVA YI DIMA AYƐLƐ A, YƐBƲWA MA MMENII NYIA NNWƲANLƖ","Saa Jehova dị mma nye anyị niile. Ya bụ, a mma m enịnyanwaarị.",1.0833,0.6667
+167,Sianti mɔɔ ihyinyia kɛɛ yɛbɔ mpayɩ yɛma mmenii mvʋlɔ nɩɩ adwɩnɩhilelɛ be mɔɔ ɩkɔwʋwa yɛ ma yɛkɛyɛ zɔ.,Sịntịmụọ sị na ya agaghị agba mpa ya ama na mvụlọ nne ajụghị ihe ebe mụọ ekwawu ya ma ya ka ya ọzọ.,1.2222,0.6265
+168,"Asʋ̃ ankɩ mɩyɛ mikenyia asɩdɛntɩ mbɔmɩ dʋdʋ be a, anzɛnyɩɩ mɩ kaalʋ yɩ nwʋ ɩwɔtɔ anzɛnyɩɩ ɩhwɛhwɛlɛ iluwakɛɛ mɩva mʋhɔ mʋwɔlɩ debe nu ti a?",Anza kumi ya mkenya ajali ya barabarani Anza makali ya moto Anza iwe sherehe Irua ke muvamuo muworldi benitia,1.0,0.6071
+169,SIERRA LEONE—BƐLALƖ DEDI ALI ƖÁVALƖ NWƲ KƐƐ NƖ BEDII EHYINYIA,Sierra Leone bụ ala dị na dị elu ya bụrụkwa nke n'ebe dị elu.,1.3,0.5882
+170,Kɔ Zʋlɔ Fa Wʋ Nwʋ Tiã “Nyamɩnlɩ Yɩ Ɔhʋanɩhilelɛ” Zʋ,Kwasarfa wuta ya mamaye wani gidan lazo.,1.0,0.675
+171,"Muwieli sukuulu nɩ ɩákyɛ bela yɛ mʋwɔlɩ ɔhʋanɩbukolɛ egyima yɩ tʋ a. Dapɛnɩ ɛgyɩkɩ̃ɩ̃ be mɛda nɩ muduli mʋhɔlɩ dɩka mɔɔ mmʋwalɩyɛ nwʋ hyinyia wɔ Pielavesi, twonwa mɔɔ ibike Finland manlɩ yɩ avinli dɩka be nɩ.","Mụ na ya so kulee, ya chebara ya muọlụ onwe ya na mbu kọleji ma etu a. Ndị ọhaneze kịbe mada na mụ dịrị mma dịka mụọlụ onwe m ịshị mgbe ọfụrụ Pierre Levesque, chụọ mụ ebịka Finland ma na ya bụrụ dịka bẹne.",1.1667,0.6607
+172,Nninyeni Mɔɔ Ɔkɔhʋla Ɛkɛyɛ Nwʋmɔ Ɛbɩbɛlɛnu,In jenen Wochen reichte Oma ihr Baby Lenu.,1.3333,0.7568
+173,KƐ YƐKƐYƐ NA YƐALUWA ABƆDƖ ZƲ YƐAZUMA SƲ̃MAA YƐAVALƖ NYAMƖNLƖ NWƲ A?,Kee ka ya na Yoruba abọdụ zụọ zụọ ma ha ya abara ya amarunwa?,1.0833,0.5818
+174,"Ɩwɔ numɔ kɛɛ ɔlɔ́kʋla ekezi mɔɔ wu hũ yɛ munwala ɔhʋanɩ dɩyɛ, naasʋ̃ sa ɔkʋla ɛyɛ nninyeni be mɔɔ ɩkɛma wʋ azʋ̃ nu kodwe wʋ. Sunzú nninyeni eyimmɔ nwʋ kila.","Ihe omume nke ọlụkụrụ nke ziri mụ onwe m ihe mụ alaghị anọdụ ya, na nsuso ọrụ a ga-enye n'ebe mụọ ịkama wa azụ nụkọ ju, sụnzụ nụ ya na ịma onwe kịrị.",1.1,0.6281
+175,"Mmɩlɩ mɔ Gyisɛsɩ hanlɩ kɛɛ Gyehova va yi dima ɩma yɩ nɩ, nɩ ɩpɛɛ kehile mɩnla a?",Malo maji saas hane ke jo va vaidima maine ne peke,0.9412,0.5645
+176,KEZIMƆ GYEHOVA KILE YƐ ƆHƲANƖ WƆ NNƐ,Keezi mgbe Jehova kere ya hụ anụ ọhịa nne?,1.2857,0.5333
+177,Pɩbɛ ɔhɔnwʋmmɔ mvʋlɔ,Wụmfụ enị nụ nụ ịya bụ nke ajọ hụrụ m anya m bụ ebe anyị na-elebe diara ya bụ obodo mụ. O jikwa omenaala wụmfụ enị nwusi pebe ọhụ ọma mvụrụ.,10.3333,5.5
+178,Mosisi yi ndwokɔ mɔɔ itualɩ yɩ tʋ nɩ nu a?,Ihe a na-etinye n'ime ya.,1.0,0.8438
+179,"YƐHƆLƖ EUROPE, NA YƐZƲ̃ KƐNƖ YƐHƆLƖ AFRICA",Yahuwa li Europe na yazo ka ne Yahuwa li Africa.,1.0,0.4118
+180,KƐ ƖKƐYƐ NA WƲANYIA ANWƲZƖZƖBƐ WƆ . . .,Keke na wọ nyam zobo.,0.8333,0.6429
+181,Asʋ̃ Nninyeni Mɔɔ Ahyɛasɩ Yɩ Ozumanlɩ Wɔ Bayɩbʋlʋ Nu Nɩ Kɔhʋla Kɔwʋwa Wʋ Wɔ Nnɛ a?,"A sị na ị nụrụ asịrị ọjọọ ma na-ewu Bible n'ine, kụọrụ kọwaa wa na",1.0,0.6769
+182,SIANTI MƆƆ YESI PƆKƆ KƐƐ YƐKƆZƲ̃MƖ GYEHOVA,Senti mụ esịpụghị aka ya ka ọzọ m Jehova.,1.2857,0.5714
+183,c MFONYINI NWƲ ODWOKƆ: Gyemisi hyɛlɩ yɛ ɛzɩzɩbɛ kɛɛ yeluwá nyɛlɩyɛba mɔɔ yɛkɛla yɩ ali yekehile ehyinyiamaa nɩ zʋ yɛvá yɛla ye dedi ali.,"Ojukọmọ ịklenfụọ ịrịlụ n'eke nga kee. Jịnsị sịchalụ azịba kee, ịlụanyalụ ebamọ ya kara ịlụ ịke ịrịeshịa ma n'ezọ ịafụ ya layị dedeịrị.",1.0,0.7568
+184,MƖNLA YƐ IKILE KƐƐ ABIYE WƆ ABƲTALƖ A?,Mlaye click kero biwa wotarya.,1.0,0.5667
+185,MƖNLA YƐ GYEHOVA KAKƐ WƆ YƐ NWƲ A?,"Mala, Jehova kake wayanwa?",1.0,0.3846
+186,MFASƲ MƆƆ YENYIA WƆ GYEHOVA YƖ TANƖFAKYƐ ZƲ,Fasmo yenyewe Jehova ataanfa chazo.,1.0,0.4722
+187,SUMAZUMA TIMOTI—DA YƖ ALI KƐƐ ƆDƆ MMENII MVƲLƆ,Mwen se Timothy. De ki kote ou domèn,1.0,0.7368
+188,Gyehova yɩ pɛlɩpɛlɩlilɛ nwʋ a?,Jehovah's Witnesses,1.0,0.8
+189,"Sɛ Bɛ Nɩɩ Wʋ Iádi Yi Bʋwɔ a, Kɛ Ɩkɛyɛ Na Wʋahɔ Zʋ Wʋali Gyehova Nɔhʋanlɛ a?",mụ na ụmụnne m nwanyị na-apene elu. Site n'ihe ụmụaka Igbo a,0.9412,0.8421
+190,a MFONYINI NWƲ NDWOKƆ: Eliyema baalɛ be ɩkɔɔ asafʋ nu mbanimbani bɛ anyunu wɔ Kɩndɔm Hɔɔlʋ na yi kunlu iádu.,"Wụntụ ịmụrụ anya na-esighi ike n'ụbọchị, ya nwere ịma baara be, ịwa safụlụ mgbe mgbe n'abalị, na ịkwụsị ọdụ.",0.95,0.8391
+191,GYEHOVA KƆWƆ WƲ NWƲ BANƖ,Jehovah kowá ụnụ bani.,1.0,0.5
+192,KEZIMƆ ƆKƆWƆ WƲ NWƲ BANƖ WƆ TANƖYƐLƐ NWƲ,Kedu ka ị mọọ? Ọkwa onwunwe gị dị mma?,1.125,0.8485
+193,"Mɔɔ yesuma wɔ nu: Sɛ yɛlɛ ozumalɛnwʋnlɛ nɩɩ nɣɛlɛbɛ sʋ̃maa po a, ɩsɛ kɛɛ yɛfa yɛ fʋlɔdulɛ yekyina Nyamɩnlɩ Odwokɔ zʋ na kɛ yɛ dɩyɛ zʋ a.","Mụ esighị m ọnụ, si ya na ọ bụrụ na e nwere ihe mere o ji kwụsị, na ka ọ bịa zaa ya dị azịza.",1.0,0.8208
+194,GYEHOVA DUWA YE MMELIYEMA ZƲ KYƖKYƖ YƐ ƐƔƐƐLƐ,Jehovah nwụrụ ya mere ya mazo chịchịrị ya.,1.0,0.7105
+195,Kezimɔ nninyeni mɔɔ ahyɛasɩ yɩ ozumanlɩ wɔ Bayɩbʋlʋ nu nɩ kɔhʋla kɔwʋwa wʋ wɔ nnɛ.,Kedu ihe mere na m achọghị ka ụmụ nwanyị na-akwọkwa ụgbọala?,1.0,0.7761
+196,FA BƲTAYƖ MƆƆ ƆKƆHƲLA KODWU NWƲMƆ SIYE WƲ ANYƖ ZƲ,Fabotaim o kolim olsem juumosi i wanpela,1.0,0.65
+197,Mɩnla yɛ ɩkɔwʋwa yɛ ma yekele kediã numɔ kɛɛ Gyehova dɔ yɛ a?,Nne ya kowara ya mere ihe ike dị mkpa dịwa dobe ya.,1.0,0.6875
+198,Nninyeni Asã Mɔɔ Ɩkɔwʋwa Wʋ Ma Ɛkɛva Tanɩ Ɛkɛhyɛ,"Alee nke na-ejikọ isi, inye ya aka samụ ya ka ọ bụrụ ama ebe a na-akavata ya na keshe.",2.1111,1.15
+199,Mɩyɛɛ egyima wɔ Cameroon Bɛtɩlɩ,Foi onde conheci meu irmão camarões,1.2,0.963
+200,Professor Crawford H. Toy mɔɔ ikile dɩyɛ wɔ Harvard University wɔ United States nɩ sʋ̃ hanlɩ kɛɛ odwokɔ eyi iáhile debe tanɩ. Ɩhanlɩ kɛɛ: “Mɔɔ ikile yɛ lɛ kezimɔ ɔzɔ nninyeni mɔɔ bɔwʋwɔ yi anlima wɔ kɛnɩ nɩ yɛ nnwʋánlɩ.”,"Professor Crawford ichi toyi mọ ekwị dị iche iche ọ ha bụrụ na ị nwere ike ịdebe akwụkwọ ndị a na kọmputa gị, ọ ga-enyere m aka ịghọta ihe a na-ekwu.",0.95,0.7471
+201,Mʋsʋ̃mɩɩ wɔ French azɩlɛ-sini nu wɔ Quebec,"N'ihe banyere nwoke, ọkọle bụ naanị erunala nke nwoke Quebec.",1.2857,1.0588
+202,ɩahyɛ ɔlɔlɛ mɔɔ ɩwɔ ɩma Gyehova yi nu ɛzɩzɩbɛ a?,Ya shorolemo ewa imajue ve inweziziba.,1.0,0.6316
+203,"Mɩnla yɛ osuma wɔ Gyekɔpʋ yɩ ndwokɔ mɔɔ ɩhã ihileli Zebulɔnɩ, Yisaka, nɩɩ Daanɩ nɩ nu a?","Mụ na ya osụwa njikọ pụrụ iche nke ịhụnanya na izu oke, ịsaka na eda na eninụa.",1.0,0.6812
+204,"Ahʋanɩ mɔɔ ebiye a Gyehova koluwa zʋlɔ kowuwa yɛ mpayɩ nɩ, ma nwʋmɔ ndianwʋ.","Aha na-m bụ Ebia, Jehova kọrọ azụrụ ka owuwe ihe ubi na-ama mma.",1.0,0.5902
+205,Wu munwalɩyɛ,"Ndi ije mụ na asaa, oge nke izizi anyị. Mụ na ndị nke izizi asaa ga-egba egzoo ụmụ a.",9.5,5.3636
+206,Sunzu odwokɔ yɩ nwʋ kɔ aɣinzi. Aninyia yɛ ɩhanlɩ a? Mɩnla yɛ nɩ ɩkɔlɩɩ zʋlɔ a? Mɩnla ti mɔɔ bɛvalɩ ɔzɔ abodini yi belili egyima a?,"Sọzọ dịkwa ịwụkwa nzi, anị ya eharị ya, mana ya na ikwọrọzụ a, mana etu mụ bụgharọzụ agbanyere gburugburu.",0.9615,0.6436
+207,Mɩnla ti mɔɔ ɩsɛ kɛɛ yɛfa yɛ adwɩnɩ yesiye Nyamɩnlɩ yɩ apɛdɩyɛlɛ zʋ mmɩlɩ mɔ yeyiyiaa ndwokɔzɩzɩbɛ nɩ a?,"Mne tuma sakaya faya jini yesi nya mne yapadi yelazo, mlemoye yenyu kozizibanya.",1.0,0.5176
+208,ƖVALƖ YƖ ADWƖNƖ IZIYELI GYEHOVA YƖ APƐDƖ ZƲ,Evaru ayina series chusara peddaru?,1.0,0.7222
+209,PƆKƆZILƐ BE MƆƆ NƖ ƖYƐ SƖ,Focus le bonnier ici.,1.0,0.85
+210,Asʋ̃ ɛpɛ kɛɛ enyia mfasʋ sʋ̃maa wɔ wʋzawʋ wʋ dɩyɛzumanlɛ zʋ a? Sa ɔkʋla twe adwɩnɩhilelɛ eyimmɔ kila na ɩkɔhʋla kɔwʋwa wʋ ma ɛkɛva wʋ adwɩnɩ keziye mɔɔ osumaa nɩ zʋ bʋwɔ:,"A sụ mụ na o zuo udi malite ụwa, sọ kwa otu ajụjụ m hụrụ na ị mụkiri a, nekwa ka ọ bụrụ ma ị kafa wa ajụjụ nke ziri mụ, ọ sụ mụ na izu gị. Tụba dị ka mụ ị dị baaba.",1.3438,0.8444
+211,"“Nyɛ, Sir , mɔɔ mʋkɔhʋla mɩkɛhɛlɛ la yɛ nɩ.”",से मम कोहराम के हल लाने,1.0,1.0
+212,Mɔɔ Yesuma Wɔ Yizilaya Awulombunli Yi Bɛ Kɛnɩ,Mụ na ụmụ nwanyị ole na ole gụrụ akwụkwọ na Mahadum Oxford.,1.5,1.1053
+213,BAYƖBƲLƲ YƖ MA YƐNWƲ KƐƐ NYAMƖNLƖ DƖ PƐLƖPƐLƖ,"Báyìí, o le máa yọ̀ ké ya máa le pẹ̀lẹ́pẹ̀lẹ́.",1.25,0.6316
+214,Marcelo mɔɔ ɩmaa munwalɩyɛ wɔ asafʋ ayiyialɩyɛ tʋ,"M'fumu ya Tazurani, ma Solomon amaamulira ewa safo yali etu.",1.25,0.8571
+215,"Siyeziye wʋ nwʋ ma asafʋ ayiyialɩyɛ azʋlɔtʋ. Sa ɔkʋla suma ndwomi mɔɔ yɛkɔdʋ wɔ asafʋ ayiyialɩyɛ tʋ nɩ, na wʋawʋwa wu mmusunwamaa ma bo nu bela iaziyeziye munwalɩyɛ mɔɔ ɩkɛma.","Sịzioma safụịalịrịzọtọ, sọọkụlụsịmọnjụmụyọkọdụwasafụịalịetọnne, nawaaụwaụmụsụamaa ma gbunụbụlayaeziezi mụalịemọekema.",0.9667,0.5804
+216,Kɛ ɩyɛ mɔɔ yɛnwʋ kɛɛ Bayɩbʋlʋ nu ndwokɔ ɩlɛ́sɩnzanlɩ a?,Kedu ka m ga-esi bido na njikọta isi nzọụkwụ a?,0.9,0.7955
+217,ANYƖNLƖLELƐ KÃ YƐ MA YƐKƆ ZƲLƆ YƐSƲ̃MƖ GYEHOVA,Anyi nile leekanyenụ anya kọzuru ya sụọ Jehova.,1.0,0.5789
+218,BEZIA BƆHƆLƖ BƐZABƐ MƆƆ NƖ BƐ ANYƖ DELI ODWOKƆBA YƖ NWƲ NƖ KƐ,Jehova bụ onye na-asị ya. Bezie bụrụkwa na bezie mụ,1.0,0.8367
+219,MMƲWALƖYƐ MƆƆ YƐVA YƐMANLƖ YE MMELIYEMA WƆ RWANDA,Mualimu evu malimu riamawo Rwanda.,0.875,0.5476
+220,Siyeziye Wʋ Nwʋ Kakɩ Yɩ Ma Eɣile Mɔɔ Nwʋmɔ Hyinyia Paa Wɔ Ɔlʋbɔ Yi Nu Nɩ,"Si e ji mụọ aka kee ma, ị ghěghị ịmụọ isi na pa wọlụ gbaa elu na ị.",1.0625,0.7018
+221,Mɩnla Yɛ Asafʋ Nu Mbanimbani Yi Kɔhʋla Kɛyɛ a?,"Alee ka ni jọkọ si, mọra yá asáfu ni mberembele kọ hura kaya.",1.4444,0.8919
+222,GYEHOVA NƖƖ GYISƐSƖ DA NTƖYASƖ ALI,Jehova ne Jesus danti asieli.,1.0,0.4483
+223,Ecclesiastics Indicted kɛlɛta mmalɛ yɩ be,Ujụ kọọ mụ ihe gbasara ya na nwunye ya bụ Ecclesiastes na-edikwa kịta malite na nwunye ya bụ Jokozie.,3.1667,1.75
+224,"a Nnɛ yɛ nwʋmɔ hyinyia paa kɛɛ yɛhyɛ ɔlɔlɛ mɔɔ yɛwɔ yɛma ye mmeliyema yɩ nu ɛzɩzɩbɛ a. Mɩnla ti a, na mɩnla ɔhʋanɩ zʋ yɛ yɛkɔhʋla yɛkɛla ɔzɔ ɔlɔlɛ nɩ ali bʋwɔ a?","Ịnne ya bụ onye isi agha nke ya, ya sọrọlụ mụ ya wee mee ya melia mụ inuzuziba a, mụ letia na mụ na nwanne ya ya kwaru ekele ọzọ lele niile bụ a.",0.9412,0.616
+225,Mɩnla yɛ Gyehova hilehileli Yizilayamaa yɩ falɩ bɔ nwʋ mɔɔ bokonlu nwʋ a?,Mụ na Jehova nwere mmekọrịta dị nso dị ka nna na nwa.,1.0,0.7333
+226,Nkɔmɩ Mɔɔ Gyekɔpʋ Hyɛlɩ Ansaana Ibawu,"Ndi ije mụrụ chalé nke ịṅụ jụọ kọfị, ọkwa mụ jị kọfị chalé a sị na ebe o wu?",3.1667,1.4062
+227,Mɔɔ Gyehova Ɩyɛ Na Ɩava Iale Yɛ Wɔ Tanɩ Nɩɩ Owulo Nu,"Mọdị́ọ̀ fụ́ áyà, na-ayá áyà lee ya wụ taa na nihi owuru nu.",1.0,0.6585
+228,"ɔkɔhʋla kenyia Gyehova, mɔɔ ɩdɩ Dɩyɛ Munwala Zʋ Tumivʋlɔ nɩ nu anwʋlazʋ kʋlakʋla a?",Ọkwa ụbọchị nke Jehova mụọ eredị ya mụọ azụtumvụrụ enu-anwụ na-azụ kụrakụra.,1.0,0.6176
+229,Mɩnla yɛ lɛ Gyehova yi tile nu pɔkɔ a?,Mmalite ya bụ Jehova etinye nụ pọkụ a.,0.8889,0.5862
+230,Mɩnla yɛ ɩkɔwʋwa wʋ ma ekenyia anwʋlazʋ kɛɛ Gyehova keyila wʋ a?,"Mụ na ya kọọ wa, mụ ekenye ya ọnụ azụ kee, Jehova kee ịla wa.",1.25,0.4615
+231,Kɔ Zʋlɔ Duwa “Ɔhʋanɩ Nwanzanwanza” Yɩ Zʋ,Kozlu'da oynamanızı oynamanızı istiyorum.,1.0,0.8438
+232,Kɛ ɩkɛyɛ na yɛawʋwa bɛzabɛ mɔɔ bɔwɔ yɛ asafʋ yɩ nu mɔɔ bɛ anyɩ dɩ nɩ a?,Kedu ka ị na-aga? Ọ bụzịrị mụ bụ ya bụ Safi nụ mụ banye dịịrị.,1.0,0.6667
+233,KƐ ƖKƐYƐ NA MIAHILE KƐƐ MIHYINYIA FƲLƆDULƐ YƖ AMBA A?,Kedu ka aga esi afụrụ ụfụrụ dị na mba?,1.0,0.7442
+234,Mɔɔ Onlumanlɛ Yɩ Tʋ Kile Nɩɩ Sianti Mɔɔ Ɩsɛ Kɛɛ Onuma,Mụ onwe m na-etinyere gị nsogbu na ndụ m.,1.0,0.7907
+235,c MFONYINI NWƲ ODWOKƆ: Prisca yi ozumanlɛnwʋnlɛ yɩ nwʋ yɛkile.,Ụfọdụ n'ime ụmụ nwanyị ole na ole ya ekiri.,1.0,0.7843
+236,Elly nɩɩ yɛ ɣa benyia Serge,"Ọ dịghị onye maara ihe mere nwoke ahụ, e liri ya na ihe abụọ dị iche iche.",2.8333,2.1364
+237,MƆƆ GYEHOVA HILEHILELI YIZILAYAMAA YƖ FALƖ BƆ NWƲ MƆƆ BOKONLU NWƲ,Mọ Jehovah Chineke bụ ezi Chineke na-adịghị anwụ anwụ.,1.0,0.7273
+238,SIANTI MƆƆ IHYINYIA KƐƐ ƆBƆ MPAYƖ MA MMENII MVƲLƆ,Senti mụ isi ya kee ọgbọ mpa ịma mịlị mvoro.,1.1111,0.561
+239,SUMAZUMA PITA NA KƆ ZƲLƆ SUMA NYAMƖNLƖ ODWOKƆ YƖ,"Sumaro ma pita, nako ziro sumanya munu jokwe.",1.0,0.375
+240,Mɩnla ɔhʋanɩ zʋ yɛ Sɔɔlʋ mɔɔ ɩzʋ̃ Tasɛsɩ nɩɩ Kɔnɛlɩyɔsɩ lili ndwokɔzɩzɩbɛ mɔɔ ankɩ ɩkɔhʋla kezi bo onlumanlɛ nwʋ ɔhʋanɩ nɩ zʋ a?,"Mmalite nwa nụzụ, ya bụ sọlụ mụ ezo taa sesị, n'ikpeazụ, riri njikọ zịbe mụ, anka kwere ka ezigbo mmalite nwa nụzụ a.",0.9565,0.6731
+241,GYEHOVA DUWA SUMZUMA NWANZANWANZA YƖ ZƲ KYƖKYƖ YƐ ƐƔƐƐLƐ,"Jehovah duosị m nwaanza nwaanza izu, chetara ya.",1.0,0.6042
+242,ANYƖNLƖLAZƲ NWƲ HYINYIA NA YE DEDI ƖAYƐ KEZI,A na-azụta ihe dị iche iche e ji ekezi.,1.125,0.7027
+243,"Sɛ yɛbɔ debe nwʋ mpayɩ a, kɛ ɩkɛyɛ na yɛahile kɛɛ yɛwɔ dedi a?","Sɛ abodobɛwɔn mpaa a, kɛkɛɛ na ɛhiri kɛkɛwɔn dede.",0.7857,0.4468
+244,HYƐ ƆLƆLƐ MƆƆ ƆWƆ MA WƲ MMELIYEMA YƖ NU ƐZƖZƖBƐ,Chọlọlọ m ọwa mmụọ mmiri a mee n'ụzọ siri ike.,1.0,0.7895
+245,George Naish,Mpaghara ọwụwa anyanwụ nke elu na ya nwere ya bụ Jọji Nash. Mpaghara ọwụwa anyanwụ jikwa si Jọji Nash.,9.5,6.6364
+246,Kɛ ɩkɛyɛ na yɛama ye sunzuma ɔfʋã nu paladayɩsɩ yɩ ɩayɛ mmenii akɔnɔ a?,Kedu ka ị na-anya mmiri sụzụ mgbafọ nụ paladaịsị a ị ga-eme na akọnụ a?,1.0,0.614
+247,SIANTI MƆƆ EBIYE A ABIYEMMƆ TƖ NƔANLƖ KƐƐ GYEHOVA IÁLE BƐ ITIÃ NUMƆ,"Site na ebumnuche a, obi mụtara nụ anụrị ka Jehova ya leba itani mụ.",1.0,0.6182
+248,"SƐ YEDI MFƲMƖ PO A, YƐKƆHƲLA ‘YEKEƔIKE NYAMƖNLƖ’","N'ụfụ mụ pa, ya kọrọ nke a ịkịrị a amaghị. Nchịcha",1.25,0.8947
+249,MPAYƖWƆLƐ NƖƖ WƲZAWƲ WƲ DƖYƐZUMANLƐ ƖKƆHƲLA ƖKƐMA EKEGYINA PINDINYII,Mpaghara ole n'ụzọ dị ezumike ka e kwesịrị iji na-epin di?,1.2222,0.7
+250,"b MFONYINI NWƲ ODWOKƆ : Mansini zʋ ehilalɛvʋlɔ be yɩ yɩ hɛlɛlɩ kɛlɛta hɔ hyɛlɩ eliyema baalɛ be ɛzɩzɩbɛ. Alʋbɔ be mɛda nɩ, eliyema baalɛ yɩ hɛlɛlɩ kɛlɛta va hileli nwʋmɔ anyɩnlɩzɔlɛ. Mfonyini eyi dɩ mɔɔ izili nɩ nwʋ yɛkile.",,,
+251,"Mɩnla yɛ agyiahʋnlɩmaa yɛ a, ikehile kɛɛ bɛdaa annidi ali bekehile bɔ nwʋ bɔ nwʋ a?","Mụ na ya jikọtara mụ na ya ike hiri nne, bịada na ndị a erigbeghi hiri nne gbaa mgba nwa.",1.25,0.6364
+252,MA GYEHOVA YƖ EƔILE YI ƖWƲWA WƲ ADWƖNƖ NU,Majo wegri ewuwa wajunu.,1.0,0.6364
+253,"c Wɔ ɔzɔ mmɩlɩ yɩ nɩ, nɩ awulombunli mɔɔ bɛ́dɩ Yizilayamaa bɛta bɔsʋ̃mɩ amanlɩ mɔɔ bekeli bɔ zʋ̃ nkunimi nɩ bɛ anyamɩnlɩ.","Azịka ndị jọgburu onwe ha, wọzọ milinị na-awụrụ mgbe ụfọdụ n'obodo ndị Izrel anyị maabata agbụsị m ya, ma arụmọ bekere gbozụ nkwụ n'ime ya na-agba anyị amara. Azịka ndị jọgburu onwe ha.",1.5,1.0526
+254,MƖNLA TI MƆƆ ƖSƐ KƐƐ YESUMA BAYƖBƲLƲ NKƆMƖHYƐ A?,Mene tinyaka Yesu ma Bible nkomsha.,1.0,0.5128
+255,“BELILÉ BƆ NWƲ NKƲ̃KƲ̃ NKƲ̃KƲ̃ BEDIÃ NUMƆ”,Bili le baon kụkọ nkụkọ mbedanụ mụ.,1.0,0.5
+256,Kezimɔ Ɛkɛma Wʋ Ayɩfʋlɔ Kɛhyɛ Gyehova Animinyiamɩ,Kedu ka ị ma ka wa ya fụrụ ka Jehova na-eme ya?,1.7143,0.6279
+257,GYEHOVA PƖBA YƐ TANƖ,जोवा फिरबा जतने,1.0,1.0
+258,Mɩnla nninyeni yɛ yɛkɔhʋla kɛyɛ kɛva kozumazuma Gyehova yɩ baabayɛlɛ a?,Mụ na gị nile ga-agba mbọ ka anyị kavụkwa Jehova bụ nna anyị araa.,1.2727,0.7
+259,Kezimɔ yɛkɔhʋla keɣike Gyehova nɩɩ mfasʋ mɔɔ ɩwɔ zʋlɔ.,,,
+260,"Ɩkɔwʋwa yɛ ma yɛkɛdɩ Gyehova yɩ sɛnkyɩlɛdɩ ɔhʋanɩ zʋ ɛdamɛ aliyia yɩ mɔɔ yɛkɔwʋwa numɔ, nɩɩ kezimɔ ikila yɛ nɩ tʋ.",Yekowah mere ka ndị Jehova sanchaa edemede dị iche iche na-ekwu banyere ya na ntụ.,1.0,0.75
+261,Gyisɛsɩ “Izumanlɩ Sutiyeyɛlɛ”,Jisas i man sut i ele.,2.0,0.48
+262,ƆHƲANƖ MƆƆ OKOLUWA ZƲ KƆHWƖ̃ KEƔIKE GYEHOVA,"Aha Kano dị na kọseị, ọwaanụmọ ọkụrụ azụ kwọshịka eke Jehova.",1.5714,0.9444
+263,SIANTI MƆƆ ABƲTALƖ NWƲ HYINYIA,Senti mụ abụtalụ nwuchi a.,1.0,0.4615
+264,MƆƆ ƖSƐ KƐƐ NWƲMƆ HYINYIA YƐ PAA,"Mais c'est comme moi, j'ai pas",1.0,0.7308
+265,Bɛlá Ntɩyasɩ Ali Mmɩlɩ Mɔ Bosunzuu Abiyemmɔ Nwʋ Nɩ,"A na-ekwu na Chukwu si, ""Bịara n'ebe m bụsị nzọụkwụ abụọ, mụ bịa n'ebe ị nọ.""",1.7778,1.0476
+266,Mɩnla yɛ ozuma wɔ Dwoobu yɩ ɔhɔnwʋmmɔ asã yɩ kɛnɩ falɩ mɔɔ íni kɛɛ yɛyɛ mmɩlɩ mɔ yɛmaa fʋlɔdulɛ nɩ a?,"Mụ na ya zụọkwa ụọbọchị ole na ole gara aga, mụ na ya wee fụrụ dịrị anya.",1.0,0.8
+267,KƐ ƖKƐYƐ NA MMENII MƆƆ BELILI ZƲLƆ NƖ BƐAHƲLA BƐAHILE KƐƐ BƐ ANYƖ SƆ ELELƐDƖYƐ NƖ A?,"Keekee na minimu obele ziri na baahurabaahiri kee, banyinso erere di na ya.",0.9412,0.5522
+268,NƆHƲANLƐ ƆZƲ̃MƖNLƐ ƖLƐ́SƖKƐ KYƖ̃,"Nawa na zuma ne, il est ce chien.",2.0,0.7692
+269,"“ƐZƖLƐ YƖ, ƐƔALƐ YƖ, NƖƖ SUNZUMA NWANZANWANZA YƖ BE DIMA NU”","Eziokwu, ọ dịghị ihe mere m ga-eji bido mụ ṅụọ.",1.0,0.8913
+270,b MFONYINI NWƲ NDWOKƆ: Angelena yi ozumanlɛnwʋnlɛ yɩ nwʋ yɛkile.,"Nwe nu njikọ aka nke a, anjelị na-esịmalụ onwe ha enyi ekiri.",1.2,0.717
+271,Kezimɔ Yɛkɔhʋla Kɛhakɛ Ɛhɛlɛlɛ Ndwokɔ,Oya kọwọra ka kele njikọ.,1.0,0.7273
+272,“BODWÉ NNINYENI MUNWATĨĨ BEHILÁ”,Bojaye inniye ni mu watin yi bahura.,1.75,0.5556
+273,SUMAZUMA DEVIDI NA MA GYEHOVA WƆ́ WƲ NWƲ BANƖ,Chineke bụ onye na-agwọ ọrịa.,1.0,0.8056
+274,c MFONYINI NWƲ ODWOKƆ: Mmeliyema mmenyia nɩɩ mmaalɛ be bɛlɛ anyɩnlɩlelɛ bɛmaa bɛzabɛ mɔɔ bonluma fʋlɔ akwaaba.,"Onye ije mebụlị ya nwụrụ anwụ n'ụlọ ya, ya bụ nke mere ya mere na malite ebe a, belụsọ na ebe a mma bazabu mgbụrụ ma fụlọ akwụaba.",1.6471,0.7717
+275,Nyini: Ralph Leffler mɔɔ ɩyɛɛ egyima wɔ ɣilediyo stehyɛnɩ,"N'ịbụ Rafflesia, mụ onwe m ejighị mụwa redio steshịkene.",1.0,0.6875
+276,d MFONYINI NWƲ ODWOKƆ: Kilisinyiamaa agyiahʋnlɩmaa be bɛ nɩɩ bɛ ɣa mɔɔ ɩ nɩɩ yi hũ bɛyɛ egyima bɔbʋwa Kɩndɔm Hɔɔlʋ aliyiagyinanlɛ bɛtɩndɛɛ.,"M fụrụ gị n'anya nke ukwuu. Gị na mụ a ga-anọrọ enyi na enyi, banye na mmekọbụọ ka m nwee ike ịrụrụ gị ọrụ a na-eji n'alé betịndị.",1.2174,0.7652
+277,"Sɛ Nninyeni Nu Yɛ Sɩ a, Sa Ɔkʋla Enyia Anwʋlazʋ Kɛɛ Gyehova Kɔwʋwa Wʋ","Sị na ịnụ n'ụyọsị a, sọkwa onye aṅụrị azụka ejiri hụba kwa ụwa.",0.9286,0.6364
+278,DA ANNIDI ALI KILE BƐZABƐ MƆƆ BÉNI ASAFƲ YI NU,Danny Dyer leklek bazabamọ bẹni asafẹ́nu.,1.0,0.4324
+279,"Sɛ ɛfa anyɩnlɩlazʋ mɔɔ nɩ ɛlɛ yɩ mmɩlɩ mɔ ozumanlɩ nɔhʋanlɛ yɩ fʋlɔ nɩ etindiã nnɛ dɩyɛ yɩ nwʋ a, kɛ ɔnwʋ yɩ ese a?","Saa faịlụ azụmahịa niile, ịmụlụ ozuma nụ nwaa na-efu na etinye nne na nna dị enwe a ka onwé ịsa.",0.96,0.6292
+280,"Mɔɔ yɛkɔhʋla kozuma wɔ Dwoobu buuku yi nu falɩ sianti mɔɔ Nyamɩnlɩ ma amanɩyɛnwʋnlɛ nwʋ ɔhʋanɩ nɩɩ kezimɔ sɛ yɛnwʋʋ amanɩyɛ a, yɛkɔhʋla kegyina yi munwa.","Maka ọtụtụ ndị ọzọ, ịbụ akwụkwọ ịnu faịlụ sentimita ole na ole bụ naanị ụzọ isi mara ma a ga-akwụsị ya na-emụ.",0.9615,0.7619
+281,Sianti mɔɔ ihyinyia kɛɛ bɛyɩ abiyemmɔ wɔ asafʋ yɩ nu nɩɩ kezimɔ asafʋ nu mbanimbani kɔhʋla kɔwʋwa mmenii mɔɔ bɛdɩ zɔ ma bokonlu bɔ nwʋ na bɛ nɩɩ Gyehova avinli ɩayɛ baaba dɔkʋ̃.,"Sị na ụmụ nwanyị nke be ya bi n'ụlọ asaa fọrọ nke nta ka ọ bụrụ otu puku afọ gara aga, na-eme mmemme na-akọwa omenala ndị Zọrọastrian na-eme n'oge okpomọkụ, bụ́ nke a na-akpọ Tirgan, na-eme ya n'ụbọchị nke iri na atọ nke ọnwa Tir na kalenda ndị Zoroastrian.",1.4545,1.0979
+282,YEHYINYIA DEDI NA AMA YƐANWƲ KEZIMƆ GYEHOVA BUWA YƐ MPAYƖ NA YEALE YEADIÃ NU,Ihe Chineke di na ama ya bu kezi mo Jehova bu ayam pai ne yeli ya denu.,1.0714,0.3968
+283,"Sɛ mana nɩɩ akɔhwɛlɛlɛ mɔɔ nɩ Yizilayamaa nɩ bedi wɔ ɛsɛlɛ yɩ zʋ nɩ la ahanlɩ a, asʋ̃ nɩ bɔwɔ alɩyɛ mvʋlɔ mɔɔ nɩ bedi a?","Site mmadụ na-akọwa ihe mere n'iyi ziri anyị ma na ebe di wee siri ezigbote ihe ahụ ya, asụ na ọwalụ mvụrụ ma ọ bụ na ebe di ya.",1.1154,0.6739
+284,MMƖLƖ MƆ ƐTƖ NƔANLƖ KƐƐ WƲÁSIZI ABƆKƆ BAABA MMƖLƖ BE,Mụọ etu a na-ekwe wa si zia bụkwa baa baa mmiri bịa.,1.2,0.5814
+285,Mɩnla yɛ ɩkã yɛ ma yɛhyɛ Gyehova animinyiamɩ a?,Mala e kaya mayese jowen miyame.,1.0,0.5789
+286,KƆ ZƲLƆ NYIA DƖYƐNUNWƲNLƐ NA AMA IFI WƲ SA KYƖ̃,Kozilanya dienu wulu la na m'efiu sachi.,0.9,0.5405
+287,Mɩnla Yɛ Asafʋ Yi Nu Maa Yɛlɩ a?,Alec Baldwin,1.0,0.8333
+288,KEZIMƆ SUNZUMA ƆFƲÃ NU ALƖYƐ MƆƆ ƖYƐ ƐZƖZƖBƐ NƖ BƲWA YƐ,"Kız mısınız, muhtemelen evet ya da siz beni bu ay.",1.0,0.7111
+289,‘BƆ́ MMƆDƖNƖ’ MA ƆKƲ̃YƐLƐ ƖHƆ ZƲLƆ ƖWƲWA KƐ,"Bọọlu di nma, ọkụ yere ịhọzụrụ ewu ake.",1.0,0.625
+290,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Nduku zaramu ezuo ngala ma be ke ni.,1.3333,0.5676
+291,"Odwokɔ “twi bɛ anyunu wɔ bɛzabɛ mɔɔ bɔwɔ kɛnɩ munwatĩĩ bɛ anyunu” nɩ, kɛ yɩ tʋ kile a?",Ọjọ́kọ́ chi ịbọ́nyịnu wọ́ beza be mọ́gbọ́ wọ́ kele mụ etị ịbọ́nyịnu nụ ị?,1.0,0.6462
+292,Mɩnla ti mɔɔ nɣɛlɛbɛ íni numɔ kɛɛ ɛkɛhã kɛɛ ɛdɩkɛɛ ɛgyɩkɩ̃ɩ̃ ansaana wʋanluma a?,"Mete mmanụ aṅụ na mọstard, e gihake ya, e dekejeke ya nsá na oluma.",1.0,0.7188
+293,MMƖLƖ MƆ ƐTƖ NƔANLƖ KƐƐ GYEHOVA ƖÁDWƖNƖ WƲ NWƲ,మమ్మో ఎత్తినకే జోవార్ జనో.,1.0,1.0
+294,DWƖNƖNDWƖNƖ MPAYƖ AZƲLƆTƲ MƆƆ ƖWƆ BAYƖBƲLƲ NU NƖ NWƲ,Ncheta m bu na Jwen Jwen Empire zoro m ya na WhatsApp.,1.3333,0.9545
+295,MMƖLƖ MƆ ABIYE ƔIZIÁ YƐ KƐNƖ FƲLƆDULƐ,M'mò abiyé zéyakané folodulé.,1.0,0.5161
+296,ƆLƆLƐ MƆƆ YE MMELIYEMA LALƖ YƖ ALI HILELI YƐ NƖ HYƐLƖ YƐ ƐZƖZƖBƐ,Alerte météo émise par la mairie de Lille hier,1.0,0.7692
+297,Ɩkɛma yɛkɛhakɛ sianti mɔɔ yezili pɔkɔ kɛɛ yɛkɔzʋ̃mɩ Gyehova nɩ.,Ihe mere ka a kpọọ ya Chi-mụ-ayịzịdị bụkwa ka ọzọ Jehova dị.,1.2,0.7115
+298,"Kɛ Kilisinyiamaa nɩ, kɛ ɩkɛyɛ na yɛazi pɔkɔba wɔ nzã nwʋ na yɛahwɩ̃ yɛ nwʋ wɔ ɔhawʋ mɔɔ ɩzʋ̃ nzã sʋ̃maa nlʋnlɛ nu ɩba nɩ nwʋ a? Ɩsɛ kɛɛ yɛma Nyamɩnlɩ yɩ fʋlɔdulɛ kile yɛ mɔɔ yɛyɛ́.",,,
+299,"Da bɛ asɩ. Sɛ ɛkɛlɛ odwokɔ ɛgyɩkɩ̃ɩ̃ be dɩkɛɛ, “Yɛla wʋ asɩ paa kɛɛ ɛ nɩɩ asafʋ yɩ kyɛ wu hũ a,” ɩkɔhʋla kɛma bɛ anyɩ kele paa.","Ndi be anyi, chekwa nu ka unu mere nke oma. Anyi na-arisị ike na ya safụri chọọ unu a. Ịkọrọkwa mụ na unu nwere ike ịdị paaa.",1.0,0.8152
+300,MƖNLA YƐ GYEHOVA ƖYƐƐ KAKƖ YƖ A?,Mana ye Jehovah ya kakeya?,1.0,0.4
+301,NNWƲANLƖ ALƖYƐ NƖƖ YƖ NNWƲNLAMƖ YƖ,Mụ na ya liere n'inwunami.,1.0,0.7241
+302,b MFONYINI NWƲ ODWOKƆ: Mmɩlantɩyɛ yɩ bo nu ɔkʋ̃ ɩyɛɛ ɛbɩbɛlɛnu ansaana iazi pɔkɔ kɛɛ ɩkɔhɔ paati yi be.,"Ujokwakinga ke, mna ndiyavuma ukuba iya kubonwa nsuku zonke ikhoho pa TV. Ujokwa",1.0,0.7683
+303,Kɔ zʋlɔ yɛ mɔɔ Gyehova pɛ mmɩlɩ munwala. Kɩnga Bayɩbʋlʋ eɣile bela na dwɩnɩndwɩnɩ mɔɔ ɛkɩnga nɩ nwʋ. Suma kezimɔ ɛkɛva Bayɩbʋlʋ nu egyinalɛzʋ-ndwokɔ ekezizi abɔkɔ.,Kwasịrị ya mụọ jụọ ha pụrụ ịmụ ara. Kanga baịbụl eghị bịra na ndụ ndị mmụọ akangane nwụ. Sụmakezịmụ akwụkwọ baịbụl n'ụzọ ziri ezi ka e zizie agbụkọ.,1.0385,0.6194
+304,Mɩnla ahʋanɩ zʋ yɛ yekenyia elelɛdɩyɛ nɩ zʋ mfasʋ wɔ eɣile be a?,"Yaani, tozo ana.",1.0,0.8627
+305,"Sayɩnsɩmaa hɔ duduli dɩka be mɔɔ ibike asɔlɩ pika mɔɔ Hɛlɔdʋ gyinanlɩ nɩ nwʋ, na bɔnwʋnlɩ gota be mɔɔ nɩ mmegyia mɔɔ ɩzʋ̃ asɔlɩ pika yɩ nu duwa numɔ.","Sainsị ma ọdịdị dị ka bọọlụ, ibike asọlịpịka maọbụ helọ jịna na-enụ, na-agbanwe gịta bọọlụ n'ime ya ma ọzọ asọlịpịka dị nụ.",0.9655,0.5678
+306,Mɩnla yɛ ɛyɛ a ikehile kɛɛ ɛdaa kunlumiyɩbalɛ ali a?,Mụ na ya ya ikiri lekee edakwuru m Igbo radio.,1.0,0.5
+307,"c Sɛ ɛpɛɛ ndianwʋ fʋlɔ a, kila vidiyo mɔɔ ɩwɔ jw.org zʋ mɔɔ ise Áma Bɛfa Awohwi Azʋ̃nudwolɩyɛ Bɛdahɩlɩ Wʋ!—Darrel nɩɩ Deborah Freisinger .","Azu kenejokwa isi, sepụta ihe ndia n'ụfula a, klaviidio nwe weje jw.org zụọ isi. A ma bafo wụfụ azụ njọrọ eba daalụ. Darrell na Deborah Fresinger",1.0435,0.6239
+308,"Mfonyini sʋ̃maa wɔ yɛ awuuku azʋlɔtʋ yɩ nu, na bɔbʋwa yɛ ma yenyia ozumalɛdɩyɛ mɔɔ nwʋmɔ hyinyia sʋ̃maa. Mɩnla ɔhʋanɩ zʋ yɛ yɛkɔhʋla kenyia mfonyini azʋlɔtʋ eyimmɔ zʋ̃ mfasʋ kezile a?","Mfuọnụ ịsụmawụ ya ụkụ azụọtụ enu na-agbagọ anyị ma ịnyọ, ọzọkwa",0.9677,0.8095
+309,Mɩnla yɛ Gyisɛsɩ yɩ mɛdalilɛmaa zumanlɩ falɩ bɔnwʋnlunlɛ nwʋ a?,Mmalite dị mfe ma dịrị mfe ịzụta na-efere gbaa nwụrụ na-enwa.,1.1,0.7547
+310,Naasʋ̃ sianti baaba be wɔ kɛnɩ mɔɔ mɛyɩ ti ɩsɛ kɛɛ yɛnwʋ odwokɔ eyi wɔ ɔhʋanɩba zʋ. Nɩ nninyeni mɔɔ bɛhã nwʋmɔ odwokɔ wɔ kɛnɩ nɩ yɛ ɩyɛ ɛhɛlɛlɛvʋlɔ yɩ asibɔnwʋ a.,Nna m si na baba biokano ma meeti i saka ya mmujokwe i wa nwa na bazu. N'inye na m obaghi amujokwu oke na ya i ga-erevuru ya si bu nwa.,1.0,0.5938
+311,MƖNLA ƆHƲANƖ ZƲ YƐ DWOOBU BUUKU YI MA ƆNWƲ KƐƐ . . .,Mụ na nwunye m ji obi ụtọ ike mee onwe nke.,1.1,0.7568
+312,Asʋ̃ Obu Mmaalɛ Kɛmɔ Gyehova Bu Bɛ Nɩ a?,Aso obu mmele ka mụ jiri hụ gị bụ enyi m.,1.1111,0.6333
+313,yɛ nwʋkãvʋlɔ ɩyɛ nninyeni mɔɔ yɛábɛ yɩ nɩ a?,"Ya bụrụkwa na ị enyenye m ya, a bịa m ya.",1.2222,0.7429
+314,Sianti mɔɔ ɩsɛ kɛɛ yenyia anwʋlazʋ kɛɛ Gyehova fa bɛzabɛ mɔɔ bɛyɛ tanɩ nɩ bɛ tanɩ ɩkyɛ bɛ nɩɩ kezimɔ Bayɩbʋlʋ yɩ ma yenyia anwʋlazʋ kɛɛ ɩfa tanɩyɛlɛmaa mɔɔ bonu bɔ nwʋ bɛ tanɩ ɩkyɛ bɛ.,"Sị na ị maa sị ị ga-enweta azịza nke a, Jehova fa beze bụrụ mmụọ be taa na-enịbe taa na-ichebe. N'ike ịzụta Bible ị ga-enweta azịza nke a, ịfe taa na-ala ma amụgbu nnụgbo mmụọ be taa na-ichebe.",1.0556,0.6757
+315,MMƖLƖ MƆ YE KUNLU DULI NƖ GYEHOVA HYƐLƖ YƐ ƐZƖZƖBƐ,Mmemme okwukwe Dịrị Nụ Jehova Chineke anyị.,1.0,0.7317
+316,Mɩnla ɔhʋanɩ zʋ yɛ Nazɩlayɩmaa nɩ lalɩ yɩ ali kɛɛ bɛfa nninyeni bɔbɔ afɔlɩ na bɔwɔ akɛnɣazɩzɩbɛ a?,Mụ na nwunye m zụrụ ya na azụlaịma na-alaghachi ya erike bafenye n'ụgbọgbọ afọrọ na gbagwuo aka ziziba.,0.9444,0.6875
+317,Ma “Gyaa Yɩ Sɩnɩ Nu Ɛhyɩmɛ” Yɩ Ɩhɔ Zʋlɔ Idwé,Maja esinụ nụ ịshị mụ ihe ọzọ ejwee.,1.0,0.7576
+318,Yekozuma kezimɔ sunzuma ɔfʋã nu paladayɩsɩ nɩ bʋwa yɛ nɩɩ kezimɔ yɛkɔhʋla yɛkɔhwɩ̃ mmenii mvʋlɔ yɛkɛɣa numɔ.,"Yọkụzị ma kee nsogbu ndị a fụrụ na paradịs na-abụghị ya, n'ikezị ma ọ ya kọhura ya kọhịme na mvụro ya ka gị na ya nọọ.",1.5294,0.6444
+319,Yɛyɛɛ alɩyɛ wɔ Waiswa abusunwa yɩ bɛ awudo,"Nụ fụ ya na ụdọ kwesịrị, ya ya na ya wee suo gbusuo anyị mba ụdọ.",2.0,1.0286
+320,MMƖLƖ MƆ ASAFƲ YƖ VA ƆHƲANƖHILELƐ ƖMA YƐ,Mulumu asafi wa wani ye le maye.,1.0,0.5152
+321,"Sɛ yɛ bʋwabɩlɛ sɩnza na yɛda ntɩyasɩ ali a, kɛ ɩkɔwʋwa yɛ ikeze a?","Sị ebuọ blessings a na-edanti asịrị a, keekwa gị kwaa ya kịzaa.",0.9286,0.6275
+322,Pɩbɛlɩ Nyamɩnlɩ Odwokɔ Yɩ Nu Kɔ Aɣinzi,ተበለኝ አምሊ ጆክዬን እኮ አንዚ,1.0,1.0
+323,b Kila alɩka mɔɔ ise “ Ɔtʋ Bʋlɔ Ma Gyehova. ”,"Azi ka eji wee si, ""Chineke m si, ọtụtụrụ m Jehova,"" azi ka eji wee zi.",1.7778,1.2812
+324,"Mɩnla ɔhʋanɩ zʋ yɛ Gyisɛsɩ valɩ yɩ nwʋ dianlɩ Gyehova zʋ a, na kɛ ɩkɛyɛ na yɛazumazuma yɩ a?","Mụ na nwunye mụ, ya bụ Jizọs, na-ejegharị na ndagwurugwu Jehova zọọ, na-eké kee na ezigbo mma ya.",0.9474,0.75
+325,"Nɔhʋanlɛmaa Bɔ Gyehova Anʋhʋba a, Bedidi Zʋlɔ","Nuala ma bụ Jehova n'onwe ya, bụ Dịdịzrọ.",1.1429,0.5526
+326,DƖYƐZUMANLƐ NWƲ ADWƖNƖHILELƐ,Dị ka ụmụ nwanyị na-enweghị ire.,2.0,0.7692
+327,Was Life Created? (Asʋ̃ Bɔwɔlɩ Nnwʋanlɩ a?) blohyʋɔ yɩ,"I mean, was Life Created Blow Sure Way?",0.8889,0.6585
+328,Kɛ ɩkɛyɛ na wʋahyɛ ɔlɔlɛ mɔɔ ɔwɔ ma wu mmeliyema nɩ nu ɛzɩzɩbɛ a?,Kedu ka ị ga-enwe obi ụtọ ma ọ bụrụ na ị naghị eri nri n'ụzọ ziri ezi?,1.2143,0.902
+329,‘Mɩnla dasɩlɛ yɛ bɛlɛ bekehilehile Bayɩbʋlʋ nu nɔhʋanlɛ yɩ nu a?’,Mmadu asaa ya bụrụkwa ndị isi ise abụrụla ndị nwụrụ anwụ.,1.0,0.7692
+330,ƐHƖNLA DƖKA YƐ YƐKƆNWƲ NƆHƲANLƐ YƖ A?,Aha daka yaya kowunu hwaleya?,1.0,0.5
+331,"Bɛɣɩngá Bayɩbʋlʋ nu odwokɔ be, mɛyɩ mɛda nɩ bɔwɔ́ nwʋmɔ mfonyini anzɛnyɩɩ bɛhɛlɛ́ ozumalɛdɩyɛ mɔɔ benyianlɩ wɔ nu nɩ bediã ɛkɛnɩ.","Bịa nga banye bụ njikọ be, mee mmepe na, bọọlụ ụmụ nwanyị na-anọghị na nzọụkwụ ha ruru ziri ezi bụ ihe nyara ụlọ nụbị dịka na.",1.1905,0.7333
+332,Nkɔmɩ Mɔɔ Gyekɔpʋ Hyɛlɩ Ansaana Ibawu,"Ndị ọkachamara ahụike na-enyocha ozu ya, nke bụ ọrụ kpọmkwem a na-asa na Igbo wu.",2.5,1.4688
+333,Mɩnla ɔhʋanɩ zʋ yɛ yenyia elelɛdɩyɛ yɩ zʋ mfasʋ wɔ nnɛ a?,Mụ na nwunye m zuru ike n'ụbọchị ụka gara aga.,1.0,0.8222
+334,Nazɩlayɩmaa mɔɔ Gyehova Yɩzayɩ Ɩyɩlɩ Bɛ,"Alekwe nu jụkwaa sị, na azịza ya ma mụọ Jehova bụ eziokwu.",2.0,1.1176
+335,AWƲVƲLƆ MƆƆ BƆBƆ ƐHYƖMƐ YƐ BƐDƖDƖLƖ MƖ A,A mbughu mbu buo si me ya ba di diri ya.,1.375,0.697
+336,SIANTI MƆƆ YƐKƆHƲLA YEKELE AWUDUNWONLƖYƐ NWƲ ANƲHƲBA NƖ YEKELI,Sịntịmụọkọrọịkele bụ ụdị nwanyị nwụrụ anwụ na ọbụanịyeekele.,1.0,0.6296
+337,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Ihe a bụ ihe a na-akpọkarị,1.0,0.8378
+338,MƖNLA YƐ ƖKƆWƲWA YƐ MA YEKELE KEDIÃ NUMƆ KƐƐ GYEHOVA DƆ YƐ A?,Malaya kwa uwaya maikili ki danu keji vado ya.,1.0,0.5208
+339,"Nkɔmɩhyɛnii Danɩyɛlɩ yɩ kãnwʋazɩ ti, ɩmanlɩ ɩyɛlɩ abiye mɔɔ ɩla Gyehova yɩ ahʋnlɩnɩ zʋ paa","Nwanyị ahụ jụrụkwa sị, ""Kedu ihe mụ na Daniel ga-eri ka m wee zụta?"" Ihe na-enye mụ ṅụrị bụ na ị lara Jehova ya hụ n'anya n'ụzọ ahụ.",1.8667,0.96
+340,DA MMELIYEMAA ƆLƆLƐ NƖƖ NGYƐVƲLƆLELƐ ALI,Da mliyamalolè nin ja wulili leli.,0.8333,0.5143
+341,"Ɛbɩbɛlɛnu kile kɛɛ sɛ bɛzabɛ mɔɔ bɔ ɔlʋbɔ hɔ anyunumi nɩ bʋwa mmenii mvʋlɔ a, benyia pɔkɔdɩlɛ baaba, bɔdwɩ̃ bʋwɔ na bɔbʋwa azɩ bɛkyɛ sʋ̃.","Ebe Belụ nụkịrị ike, sọọzọ bụ mbalụ bụọ hụ ịminị bụọ mị nụ vọlaa, bịa pụkọdịrị baaba gbaajụ bụọ na gbaabụọ azịbechesụ.",0.92,0.6481
+342,BƐVALƖ AKƐNƔAZƖZƖBƐ BƐHANLƖ ODWOKƆ YƖ WƆ AMANLƖ MVƲLƆ ZƲ,Bavaria ka zuzu ba ba hanu jikwaye wa ma ne mulozo.,1.2222,0.5208
+343,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Nzukọ izalemo ezughị oke na Bekee.,1.0,0.7027
+344,MƖNLA YƐ OZUMA WƆ ƐHƐLƐLƐ NDWOKƆ EYIMMƆ NU A?,مینه یو سمه وینا ده چې کوي مینه.,1.0,1.0
+345,SƐ ADIMAKƐLƐ BE TI OSŨŨ A GYEHOVA NWƲ YƖ,Saa dum akerebenti osuwa Jehovah Nwenyi.,1.0,0.4375
+346,"Ɩdɔlɩ tikyia yɩ zʋ, na iɣizialɩ yɩ kɛɛ, “Blankson, meti eyi yɛ ɛpɛ kɛɛ ɛkɛlɛ a?”","E dɔli ti cɛzo, n'i zalakɛ, blanxin, mɛtiye ya pɛ ka kala.",1.0,0.5085
+347,d Kila odwokɔ mɔɔ ɩwɔ jw.org zʋ mɔɔ ise “ Yesii Gyinae Sɛ Yɛbɛyɛ Yɛn Ho Awiɛmfoɔ ” wɔ ndwokɔ mɔɔ ɩba ɩtʋwadʋwa zʋlɔ mɔɔ ise “Yehowa Adansefo Binom Asetena Mu Nsɛm” yɩ tʋ nɩ.,"Aha nke njikọ a sị, ""Kla ojukọ ma ọ bụ jee jw.org ụzọ mọịsị,"" ga-esị iji na-esị ebe ya ya nwaanyị fụọ, wee njikọ ma ebe etu ọzọ azụrụ mọịsị, ịhụ adreesị fụọ bụ ịma sị tinye mụ nsị etu ni.",1.2121,0.7368
+348,MƆƆ ƖKƆWƲWA WƲ MA ƆKƆBƲ ODWOHILALƐ ZƲ,"Maka wa maaka, bu ojiri ala.",1.0,0.6129
+349,ANYƖNLƖZƆLƐ KÃ YƐ MA YENYIA ƐPƐ KƐƐ YEKELI GYISƐSƖ YƖ MƐDA,"Anyi nwere ike ịmalite ya pekee, ịkandịjị sị mmadụ.",1.0,0.7083
+350,"Nyɩhyɛlɩyɛ mɔɔ ɩfalɩ Nazɩlayɩmaa yɩ nwʋ nɩ, mɩnla yɛ ɩma yesuma yɛfalɩ Gyehova nwʋ a?","Ịsị na Chineke afaghị na azịla ịma aka nwunye gị, mụ na ya emego ya, esula ya afa Jehova nwụọ.",1.3333,0.6522
+351,Áma Ɔtwɩnhwɩ̃ Wʋ Agyia Azɩ Kɛɛ Okonluma,A m na-eche na ị ga-azụtakwa okoroma.,1.0,0.6875
+352,Mɩnla ti mɔɔ ɩsɛ kɛɛ nnwuakula tiye bɛ awʋvʋlɔ a?,Mmalite mụ na ya sekịrị nwaa kwụrụ tupu a ọfụra.,1.0,0.7436
+353,"Sɛ bɛkã kɛɛ yenyí wɔ sunzuma nu a, kɛ yɩ tʋ kile a?",Sɛbɛ ka kɛ yɛn yi wosunzumana kɛtukulaw.,0.9231,0.3243
+354,"Afɔlɩ azʋlɔtʋ mɔɔ nɩ bɔbɔ yɩ wɔ Mmɛla yɩ tʋ nɩ, mɩnla yɛ ɩma yɛnwʋ yɩ a?",Afo ole azụrụ ụmụ nịịle gbagbọọ n'ụdị mmiri anyị tụrụ? Mmiri anyị ma ya nwe ya.,1.0,0.7593
+355,YƐ ƆHƆNWƲBA MA BƐZABƐ MƆƆ BƐHALƖ ALIYIA NU NƖ,Ya hụ gị bama be zọbụ ma halielụ nụ ni.,1.1111,0.5676
+356,Suma subanɩ azʋlɔtʋ mɔɔ ɩma Gyehova ba yɛ kɛɛ bʋdanlɩ nɩɩ kezimɔ yɛkɔhʋla kozumazuma subanɩ eyimmɔ.,"Sụba sụba na-azụta mma ịma jijiji, baịeke gba dani. Na ike ịmụ yọkọhụra kuzunzu mma sụba na ịmụ.",1.125,0.5422
+357,"Bɔhɔlɩ, Naasʋ̃ Bezia Bɛɣalɩ",Bawale na subah se bagale.,1.25,0.5909
+358,Ma Wʋ Anyɩ Ɩzɔ Mmenyia Mɔɔ Bɛdɩ ‘Akyɛdɩ Ma Adasamaa’ Nɩ,Malaiuso mi amo beda chedu ma adasa mani.,0.9091,0.5116
+359,AZƆFƲ MBANIMBANI NU EBANI YI,Azo m bọmbọ nụ ebe a nị.,1.4,0.5833
+360,Mɩnla Ti Mɔɔ Gyehova Bu Yi Mmenii Kɛɛ Bɔtʋ Bʋlɔ a?,A na-ekwu okwu gbasara ụmụ nwanyị na-erughị afọ iri na ụma na-eto eto. Mmetụta Jehova bụ ime ka ya gbatọọ bọọlụ.,1.9091,1.8718
+361,"“What’s New” ɔfʋã mɔɔ ɩwɔ JW Library ® nɩɩ jw.org zʋ nɩ, ɩma yɛnwʋ ndwokɔ nɩɩ vidiyo mvʋlɔ mɔɔ bɛva bediã ɛkɛ. Kɛ ɛkɛyɛ na wʋaluwa ɔfʋã eyi zʋ wʋanwʋ ndwokɔ anzɛnyɩɩ vidiyo mvʋlɔ mɔɔ ɩɣa nɩ a?",Wá́t̀sì nyúù ọ́fà mọ́ ị̀wọ̀ jw.org zụ́ne. Ị̀ma yá nwụ́ njọ́kọ̀ọ́ nị́ vídíò mvụ́lọ̀ mọ́ ọ̀bẹ̀fẹ̀bụ̀dàkà ya. Káị́ka ya ènèwè lụ́ ọ́fà ị́zụ́ wá njọ́kọ̀ọ́ ànzẹ̀ vídíò mvụ́lọ̀ mọ́ ị́hà nị́ ya.,0.973,0.6871
+362,ADWƖNƖ MƆƆ SETANƖ PƐ KƐƐ YENYIA,आजूने मसे तानफाके इया।,1.0,1.0
+363,"Kila wʋ mmɩlɩ zʋ bʋwɔ. Sɛ ɛsɩkɛ mmɩlɩ sʋ̃maa wɔ nkyɩkyɛmi azʋlɔtʋ mɔɔ ili bɔmʋnlɩ yɩ nwʋ na sɛ dɩyɛzumanlɛ yɩ ɩkɔɔ yɩ awielɩyɛ a, wʋákila a sa ɛfa tu tɔlɔnwa na elényia mmɩlɩ kɔvʋlɔ mmenii.","Klaam la zobo, sese klaam la ma wunji jem ya zot me le bom le wu, na se di zma le ku ye wuli a. We klaa se fu tu ton wa, ne le nya mri ko vrumini.",1.0,0.58
+364,KƐ ƖKƐYƐ NA YƐAZUMAZUMA GYEHOVA YƖ PƐLƖPƐLƖLILƐ NƖƖ YƖ NWƆKƐNWƲNLƐ A?,"Kedu ka ị mere? Ọ bụrụ na ị nwere nsogbu ọ bụla, biko gwa anyị.",1.2727,0.8793
+365,Mɩnla yɛ ɩwʋwalɩ Pita ma ɩhɔlɩ zʋlɔ ilili nɔhʋanlɛ a?,Mụ na ya wụrụ ezigbo enyi kemgbe anyị dị obere.,1.0,0.8605
+366,Mɩnla yɛ osuma wɔ mɔɔ Gyisɛsɩ yɛlɩ ansaana ɩbahyɛ pʋanʋ nɩɩ egyeni yi kɛma ɔlɔmɩ yɩ nu a?,Manyo smoo mojises yali ansan ya basha panu ne jenika maolo mi inua.,1.0,0.507
+367,Sa ɔkʋla ɛfa ndwokɔ eyimmɔ mɔɔ ɩba jw.org zʋ nɩ edi egyima bʋwɔ paa,Sọọklụ fụnyụkụ ị ma mọọ ebe a jee www.org zụne dịịrị ma gbuo pa.,1.0,0.6604
+368,Mmeliyema Mmenyia​—Asʋ̃ Bɔbɔɔ Mmɔdɩnɩ Kɛɛ Bɛkɛɣa Kɛyɛ Asafʋ Nu Mbanimbani a?,Mériamè mịrị a sụbọbọ mmụọ dị n'ike baka aka ya asafụ n'ụbọ mbụ ahụ.,1.2727,0.5968
+369,Ɩkɛma yɛkɔnwʋ sianti mɔɔ ihyinyia kɛɛ yɛpʋ tanɩ na yekila yɛ nwʋ bʋwɔ wɔ nninyeni mɔɔ ɩkɛma yɛkɛyɛ tanɩ nɩ nwʋ.,I ga-eme ka unu sentimọọ ịhịa aka ya kpọtaa nị na ya kịrị ya ụgbọ o wụ nye nị mụ ị ga-eme ka ya taa nị nị nwụ.,1.2857,0.6444
+370,Kɛ ɩkɛyɛ na yɛazumazuma awɔvʋlɔ yɩ bɛ kãnwʋazɩ yɩ a?,Kedu ka ị dị? Nke a bụ ụbọchị mbụ anyị na-arụkọ ọrụ ọnụ.,1.3,0.9286
+371,"NNWUAKULA, SA BƐ ANYƖ KƲLA DE WƆ BƐ ƐBƖLAWƆLƐ NU","Ụwa kụra, sọba anyị kụra dịwa bọbara wọlụ nụ.",1.0,0.5
+372,Dʋlɔdʋlɔ Nninyeni Mɔɔ Osuma Nɩ Nwʋ Mfonyini Na Ɩayɛ Mɛlɛkɛ Ɩama Wʋ Kɛɛ Ɛkɛhakɛ,"Dịka ọ dị n'ọtụtụ omenala ndị ọzọ, na-eme ka ya mụọ nke akaha.",1.0,0.7692
+373,NA SƐ ƖKƆ ZƲLƆ IKILA SƲ̃ Ɛ?,Na sua ecosaura e crasoe.,0.8571,0.7895
+374,YƐ ƆHƆNWƲBA MA WƲ MMELIYEMA MMƖLƖ MƆ BEYIYIAA ODWODWUDIYIALƐ,"Ya'u homba mu mili ma, emu loma be ya'u ojojo di'ele.",1.1111,0.5769
+375,Mɩnla mmɩlɩ yɛ ɩsɛ kɛɛ yɛfʋlɔ asafʋ nu mbanimbani a?,Mụ na mụ na ya sakarịa fụrụ asụ fụrụ m be m be na ya.,1.5,0.619
+376,"Twɩ̃ Ɔwɩɛnɩlɛ Aɣanɩ fʋlɔ bela mɔɔ ɩkɛɣa wɔ “What’s New” ɔfʋã mɔɔ ɩwɔ Home wɔ JW Library yɩ zʋ nɩ. Buko magezini mɔɔ ɔhwɩnlɩ nɩ, na kilahila numɔ ndwokɔ yi nu kila kɛɛ ekenyia yi munwala zʋ mfasʋ.","Chee orena na anụ fụlụ bọọlụ ma ọ bụ ịkagharị ụkwụ na-ewefụ mọọ ịwụ home, wọọ jee double library zọọ nị. Gbukọọ magazine ma ọ bụ akwụkwọ akụkọ ị na-agụ na kọmputa gị.",1.0,0.755
+377,yɛawʋwa bɛzabɛ mɔɔ beyiaki dɩyɛzumanlɛhɔlɛ nɩ a?,Ya wuce zaɓe mu bi ɗaya da ya zuma alaƙa da ya.,1.7143,0.6098
+378,d MFONYINI NWƲ ODWOKƆ: Eliyema benyia be ikyinaa egyinalɛzʋ-ndwokɔ mɔɔ izuma wɔ Bayɩbʋlʋ yi nu nɩ zʋ ikezi pɔkɔ wɔ nninyeni mɔɔ ɩkɛva kele yɩ anyɩ nɩ nwʋ.,"Njikọmụ ekeleghị mfo ndị nụ sị, ""E lee mụa be nye be, ị chine iji na alazụ njikọmụ, ị zụmawa Bible ị nụ na ezo ike zipụkọwa inye nị mụa ekeve ka ị lee ya anya n'ụ.""",1.2857,0.621
+379,"Nɩ mɩdɩ ɔhʋanɩbukolɛvʋlɔ titili wɔ Niamey, Niger",Nwunye ya ịnu na ya nwoke Israel ịsụmịka hwanị bukọrọ eviro tịtirị nwonna ya mị na ijea.,2.4286,1.3171
+380,Ndwokɔɣizialɛ Mɔɔ Ɔkɔhʋla Kozunzu Nwʋmɔ,"Aha nke m jikọọ sị, njikọ bụzi alọmọ okwu wulakoziri ụmụ.",2.2,0.9714
+381,KƆ ZƲLƆ MA FƲLƆDULƐ NA TIYE FƲLƆDULƐ,"Koziram afurudire, nnechi afurudire.",1.0,0.7333
+382,Si Pɔkɔ Mɔɔ Ɩsɔ Gyehova Anyɩ,"Moi, c'est Juvé. Hello",1.0,0.9565
+383,Yɛkɔnwʋ mɔɔ elelɛdɩyɛ nɩ kilehile yɛ falɩ Gyehova Nyamɩnlɩ nɩɩ Gyisɛsɩ Kɩlayɩsɩ bo subanɩ ngɩnlɩma yɩ nwʋ.,Ya komreleje ni krihiriye Jehovah Nyamruoth ne Jesus Christ bosuba ne ngima mar wuon.,1.0,0.6292
+384,MMƖLA YƐ ƆKƆHƲLA KƐYƐ KƐVA KEZIYEZIYE WƲ NWƲ KƐMA NDWOKƆZƖZƖBƐ EYIMMƆ A?,Mụ na ya kọrọ nke ọma ka biko zizi unu ka m njikwa zụọzụọ gị n'ime.,1.3333,0.7167
+385,Kezimɔ Gyisɛsɩ manlɩ mmenii nwʋnlɩ Gyehova yi dima yɩ nɩɩ kezimɔ ɩdɩlɩ dima yɩ nwʋ.,Kedu ka ị mere?,1.0,0.9118
+386,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova manlɩ izili Dwosefi bʋwɔ mmɩlɩ mɔ nɩ ɩla fiyiadɩ nɩ a?,Mmalite nke Jehova mara izizi Joseph bu mmalite nke elife adịghị ya.,1.0,0.6308
+387,Mɩnla yɛ yɛkɔhʋla yɛkɛyɛ na ama yɛanyia Gyehova yɩ mmʋwalɩyɛ zʋ mfasʋ a?,"Mụ na ya kworọ ya kee, na ama m na ya enye Jehova ekele dị ka m fasụrụ a.",1.2308,0.6271
+388,"Bɛhyɛ́ ɛyɩlɛ yɩ ɛzɩzɩbɛ ma ɩnwʋ yɩ nwʋ kɛmɔ Gyehova ɩnwʋ yɩ nɩ, na bɔwʋwa yɩ ma ili nhyɩhyɛlɩyɛ mɔɔ ɩfa isuma dɩyɛ na ɩbɔ mpayɩ nɩ zʋ.",Bekee a ị na-ezo aka na ya bụkwa enwe nwe ike ịmụta ihe isi ike dị iche iche dị na ịgbọ mpaị nụzọ.,0.9643,0.7788
+389,"Kila nninyeni be mɔɔ ɩma Gyisɛsɩ yɛ “Fʋlɔdulɛvʋlɔ Mɔɔ Yɩ Nwʋ Yɛ Nnwʋánlɩ,” na kila kezimɔ yɛkɔhʋla kozumazuma yɩ.",Kedu ka ị nwere ike ịma ma onye majistrate ga-efu doro anya ma ọ bụ na ọ bụghị? Na-ekiri ka e si mara ya kwụrụ ikpe ziri ezi.,1.4211,0.8352
+390,yɛmaa fʋlɔdulɛ mmɩlɩ mɔ bɛlɛ́bizialɩ yɛ nɩ a?,የመፍሎድ ድሬም ደሞ በልቢዛር የኔን,1.0,1.0
+391,KƆ ZƲLƆ FA WƲ NWƲ TIÃ GYEHOVA ZƲ NA PƖBƐ YƖ ƆHƲANƖHILELƐ,Kozuru fa onwu taa Jehova so na-emebighi ihere.,0.9167,0.6222
+392,Nɩ mɩdɩ mansini zʋ ehilalɛvʋlɔ wɔ Sierra Leone,"Mụ onwe m nụrụ na ya bụ nke Izrel zụrụ anyị n'ime ya anyị lee. Mụ onwe m nwekwara sị na m dị mma n'izu ụka gara aga, ụbọchị Sọnde.",3.75,2.0256
+393,SUMA NNINYENI MƆƆ ƖKƆWƲWA WƲ WƆ ƐBƖLAWƆLƐ NU,Sụmanya na-anọkwa n'ụwa ọbụla o ruru.,1.0,0.6216
+394,YEZUMANLƖ NƆHƲANLƐ ODWOKƆ BE MƆƆ NWƲMƆ HYINYIA,我没有钱。我没钱。,1.0,1.0
+395,MƖNLA ƆHƲANƖ ZƲ YƐ SƐ YƐYƖ NYAMƖNLƖ YI DIMA AYƐLƐ A . . .,Mela hwanu zụọ ya sị na ya amaghịdị ma ayara a.,0.9091,0.5854
+396,Kɔ Zʋlɔ Dɩkɛ Twonwa Kezile Nɩ Mɔɔ Ɩkɔwʋwa Kɛnɩ Daabaa Nɩ,Kọzịla dịka ị chọrọ ka ezi na ụlọ gị kọwaa gị na dabara na gị.,1.3636,0.6739
+397,MƲWƆLƖ MMƖLƖ MUNWALA ƆZƲ̃MƖNLƐ EGYIMA YƖ TƲ,Mụwa adịghị m mma na oge mụ na gị na-eto.,1.4286,0.7222
+398,Gyehova yɩ eɣile yi mɔɔ yɛkɛma ɩkɔwʋwa yɛ adwɩnɩ nu,Jọhọ wele mọ ya ka mụ ekwe uwe ya ajụ unu.,1.1,0.6667
+399,KEZIMƆ YƐKƆHƲLA KENYIA ZƲLƆ MFASƲ WƆ EƔILE BE,"Kedu ka ị ga-esi kwuo ""kedu ka ị nọ"" n'asụsụ Igbo?",1.375,0.8158
+400,Dɩyɛzumanlɛ eyi kɔwʋwa yɛ ma yɛkɔnwʋ kezimɔ yenyia elelɛdɩyɛ yɩ zʋ mfasʋ nɩɩ kezimɔ yekehile nwʋmɔ anyɩnlɩzɔlɛ yɛkɛma Gyehova.,"Jizọs Kraist bụ onye mmehie kacha ezi omume, enyere ya ezigbo mfasu. N'ike ezi omume ya ka gị na Chineke ga-adị n'udo.",1.1579,0.7757
+401,YƐZƲ̃MƖNLƖ KƐƐ ODWOKƆBADƐLƐLƐMAA,Yazumike ujue kuwa badala ya,1.6667,0.6897
+402,NƔƐDƐKƐ BE MƆƆ BO NU BE DƖ AHWASƖYA NA BO NU BE SƲ̃ DƖ NƔƐLƐBƐMAA,Neda kedu mgbe ọ bụ n'ube dị ahụ ọ si a? Na gịnị bụ nsogbu dị na gị na m?,1.2667,0.66
+403,BEGYINANLƖ ƔILEDIYO STEHYƐNƖ SƲ̃MAA,"भेजना नहीं, रेडी है स्टेशन। सुना।",1.5,1.0
+404,MA BAYƖBƲLƲ EGYINALƐZƲ-NDWOKƆ ƖWƲWÁ WƲ,Ma baibulu ija nsu jukwa uwa o.,1.2,0.697
+405,c Kila vidiyo mɔɔ ɩwɔ jw.org zʋ mɔɔ ise “ Kila Wʋ Nwʋ Bʋwɔ Wɔ Awohwi Ndwokɔ Nwʋ .”,"Azi ka na-ejikwa isi, klee vidiyo ma ọ bụ weebụsaịtị, klee anụ ọhịa ma ọ bụ hụ njikọ ọhụrụ, a na-ejikwa ya ezi.",1.2941,1.1333
+406,Yekehila ɔhʋanɩ anla mɔɔ yekoluwa zʋ kozumazuma Gyehova yɩ kãnwʋazɩ.,"Ihe ekere ụwa na-anya ala mụ ya ekweghị azụ, ya ekwezughị Jehova ịka nwazi.",1.4,0.6207
+407,Mɩnla yɛ ɩsɛ kɛɛ yɛyɛ na yeanyia nnwʋanlɩ mɔɔ íni awielɩyɛ a?,Mmalite ya sekọndị ole na ole na-enye onye na-eme ya ohere ịla.,1.0,0.7755
+408,"Iluwakɛɛ Gyehova ɩába mmenii nu nɩ ti, mɩnla mfasʋ yɛ yenyia a?","Ilwaka Jehovah ya bamenin'ni ti, m'n'n fasu ye yinya.",0.9167,0.42
+409,Kezimɔ Gyehova Pɛ Kɛɛ Asafʋ Yɩ Nɩɩ Bɛzabɛ Mɔɔ Bɛyɛ Tanɩ Mɔɔ Numɔ Yɛ Ɔnlʋmɔ Di,Kizimojo wa pakasa foi.,1.0,0.7903
+410,GYEHOVA ƖMA YEDE YƐ NWƲ WƆ TANƖ NƖƖ OWULO TƲ NA IBU YƐ KƐƐ ƐDƖNƔƐLƐMAA,Jụọ ha ma ị ga-edanye aha na nyocha na-egbu ya oge dị ala.,1.0,0.6964
+411,"Sɛ yɛfa Gyehova yɩ ɔhʋanɩhilelɛ yɛyɛ egyima wɔ nnɛ a, mɩnla mfasʋ yɛ yenyia a?","Sɛbɛ fɛjɛ o bɛ wa ni rele yɛrɛ ye jima waanna, m'u na nfasu yɛrɛ ya.",1.0667,0.5323
+412,FRANCO DAGOSTINI YI MUNWA NU NDWOKƆ,Frank D'Agostini mụ onụ njikọ,0.8333,0.4333
+413,Fa wʋ nwʋ wula wʋ asafʋ fʋlɔ yi nu,"Ụfọdụ n'ime unu ga-enwe mmasị ịnwebata ụmụaka n'ụlọ nzukọ unu. Oge ụfọdụ, ụfọdụ n'ime unu ga-achọ ka ụmụaka nọrọ na klas nke ha.",2.5556,3.2692
+414,"Dɩyɛzumanlɛ odwokɔ eyi kɔwʋwa yɛ ma yɛkɛhyɛ ɛpɛ mɔɔ yɛwɔ kɛɛ yɛkɛɣɩnga Nyamɩnlɩ Odwokɔ yɩ eɣile bela nɩ nu ɛzɩzɩbɛ, na ɩawʋwa yɛ ma eyɛadwɩnɩndwɩnɩ mɔɔ yɛkɩnga nɩ nwʋ na yɛava yɛayɛ egyima.",Ihe mere ji okwu a bụ ya mere e ji chepụta ya wụ ka ya ka nga ya amalu ji okwu a ịgụ ebe niile n'isi be. Na ya wụ ya ma ya ajụjụ ma ya ka nga na-ewu na ya afụ ya a ịji ma.,1.303,0.6774
+415,EƔILE BE NWƲ ANYƖNLƖLAZƲ YƖ KƆHƲLA KƐHYƐ WƲ ƐZƖZƖBƐ,Eribon nwanyi laazu ikwaghura ka esha wuzuzibe.,1.0,0.6512
+416,Kezimɔ Zadɔkɩ yi ndianwʋ nɩ kɔwʋwa yɛ ma yekenyia akɛnɣazɩzɩbɛ.,Kedu mmezi dị ka ị nda nwe kọwa ya ma ye kee nya ka azịza be?,1.5,0.4906
+417,BƲWA WƲ ƔA MA ƖNWƲ KEZIMƆ ƖKƐHÃ YI DEDI NWƲ ODWOKƆ,बोआओरा में हूं किस मौका है दे दूं जो को?,1.0,1.0
+418,MA WƲ “ADWƖNƖ NU ƖLA KƐNƖ”,Mawa jina nu lakani,0.8333,0.4211
+419,MƆƆ ƖKƆWƲWA YƐ MMƖLƖ MƆ YƐ ADWƖNƖ YƐ YƐ ANWƖ̃ ANWƖ̃ NƖ,Mọ́ ẹ̀kọ́ wọ̀nyí mọ́ yóò jẹ́ kí o yá àwọn wọ̀nyí.,1.0,0.7561
+420,d Bɛzɩnza anlima yɩ be.,"Azu ka ni joku easy, bazinza mebe. Azu ka ni joku easy.",2.4,1.8889
+421,"Ɩávalɩ nwʋmɔ ɔlʋbɔ mɔɔ eli nɩ, asʋ̃ sa ɔkʋla fa wʋ nwʋ wula bagua nu dasɩlɛlilɛ nu a?",Ya abalụ ụmụ ọlụgbo mụ erila ya. Asịsa ọzọkwa bụ na onweghị abagwero ndị a sị erila ya. Dị ịsị ma alị jụọkwa ya ịzị.,1.3889,1.0308
+422,MƖNLA MMƖLƖ YƐ ƖSƐ KƐƐ YƐFƲLƆ ‘ASAFƲ NU MBANIMBANI’ A?,Mụ na ụmụ ya nwanyị na-akwado ịga ụlọ ụka.,1.0,0.7857
+423,"“Gyehova Dasɩvʋlɔmaa bɛtanɩ mmaalɛ nɩɩ mmaalɛ, nɩɩ mmenyia nɩɩ mmenyia mɔɔ bɛ nɩɩ bɔ nwʋ da nɩ.”",Jehovah Dansafoɔ aba taanam maalen maale ne mmereɛ ne mmereɛ mu bɛn bɔ nwudaane.,0.9412,0.4868
+424,Ɔtʋ Bʋlɔ Ma Gyehova,"Aha nke njikọ sị, ọtụtụ ụmụ Jehova",1.75,1.375
+425,Yekehila kezimɔ yekehile kɛɛ yɛ anyɩ sɔ elelɛdɩyɛ yɩ nɩ.,Ihe nke a bụ ihe nke ya anyị sorere dị ọnụ.,1.1,0.7174
+426,MƆƆ ƖSƐ KƐƐ ƆNWƲ FALƖ ABODUWABA YƖ AGYIA TƲ NDƐDƐLƐ NƖƖ BULALƐ YƖ NWƲ,Mọọsa karịọha bụrụ abụ e ji ya tụọ ndanda na-ebulali elu.,1.0,0.6964
+427,"Sɛ bɛ nɩɩ yɛ iádi yi bʋwɔ a, mɩnla ɔhʋanɩ zʋ yɛ mpayɩwɔlɛ kɔhʋla kɔwʋwa yɛ a?","Ebilani, m'amụ yị ya kị kee, kị jị Jehova kee ewu a ya.",1.0,0.7966
+428,"Sɛ bonuma abiye wɔ “Ɛzɩlɛ yɩ, Ɛɣalɛ yɩ, nɩɩ sunzuma nwanzanwanza yɩ be dima nu a” kɛ yɩ tʋ kile a?","Si on me dit où est Zola, j'irai. Mais je ne veux pas me mettre dans une telle galère.",1.0,0.8219
+429,ƆNWƲMƆ ƆHƲANƖ MVƲLƆ NƖƖ YI NDWOKƆZƖZƖBƐ,अमामा नन बोलो ने इंजो कोज़िज़बे,1.0,1.0
+430,Kezimɔ Yɛkɛhyɛ Ɔlɔlɛ Mɔɔ Yɛwɔ Yɛma Yɛ Nwʋ Yɛ Nwʋ Yɩ Nu Ɛzɩzɩbɛ,"Kee mụwa ka ị chọrọ? Laa mụwa waya, m ga-ewunye gị n'oge na-adịghị anya.",1.0769,0.86
+431,Kezimɔ Ekenyia Anyɩnlɩlelɛ Sʋ̃maa Wɔ Dasɩlɛlilɛ Egyima Yi Nu,Kedu ka ị mma? Ekele m gị na aha Onyenwe anyị Jisọs Kraist.,1.4444,0.8431
+432,"Iluwa sianti eyimmɔ ti, nkyɩkyɛmi eyi ma “nɔhʋanlɛmaa” nyia anyɩnlɩlazʋ kɛɛ Nyamɩnlɩ keli bo ndwokɔ kɛma bɛ.","Ihe ọ sọrọ bụrụ ịkpọ ya, ịcheta ya ịma n'ọhịa na ihe anyị na-azụ ka ya mere nke eligbo njikọ kama be.",1.2941,0.6591
+433,Mɩnla ɔhʋanɩ zʋ yɛ Gyisɛsɩ hileli kɛɛ mpayɩwɔlɛ nwʋ hyinyia yɩ a?,"Mụ na onye isi anyị siri ike, mụ na ya nwere nsogbu anya.",1.0833,0.7358
+434,Gyehova yɛ ikile ɔnwʋmɔ ɔhʋanɩ mɔɔ ɩsɛ kɛɛ yɛ sa kã yɩ a. Mɔwʋ kila eyi nwʋ ndianwʋ azʋlɔtʋ be.,"Ụdị ụgbọala ị kwụrụ mụ na ya sakanyam, mụ na ya enweghị ụnda nwa azụ lọtara.",1.0,0.7568
+435,‘BƐMÁ YƐHƆ YƐ ANYUNU NA YENYI WƆ SUNZUMA NU’,"Bụ mụ ya bụ onye nụ, niile anyị wụ otu nzọụkwụ.",1.2222,0.6765
+436,mɩnla yɛ ɩkɔwʋwa wʋ ma ɛkɛyɩ ɛya yɩ wɔ wʋ nu a?,Mmalite nke ụlọ ma ọ bụ ụlọ ọrụ ọhụrụ a.,0.8333,0.8286
+437,KEZIMƆ YƐKƐYƖ MMENII NWƲ ƐYA WƆ YE NU,"Keduzi mụ na gị, gịnị nwe ya bụ iyi nu?",1.125,0.6667
+438,c Kila odwokɔ mɔɔ ise “ Mɔɔ Yɛkɔhʋla Yɛkɛyɛ Nwʋmɔ Ɛbɩbɛlɛnu ” mɔɔ ɩwɔ Ɔwɩɛnɩlɛ Aɣanɩ eyi nu nɩ.,Azu ka nijo kwe isi. Kedu ka i si ma ya kwụrụ ya ka ya bụ mmebebe nụ? Mụwa onwe m anaghị anụ ya inu nụ.,1.5294,0.7703
+439,KƐ ƖKƐYƐ NA AWƲVƲLƆ BƐAWƲWA BO NNWUAKULA MA . . .,Kedu ka ị na-awụgharị baịbụlụ bụ nwokorọọ ma?,0.875,0.7222
+440,"Yɛkɔnwʋ kɛɛ sɛ yézi mɔɔ ikezi wɔ eɣile be nɩ munwatĩĩ po a, sa yɛkʋla yekyina ndwokɔzɩzɩbɛ munwa mmɩlɩ mɔ yɛdwɩnɩndwɩnɩɩ mɔɔ yezi daada nwʋ na yɛva yɛ nwʋ yediã Gyehova zʋ nɩ.","Ya kwanuka ya saye ziwo ka ziwo erirebe na imụ otu ịpa a, sa ya kụrụ ya Chineke kwazịsịrị bụ mụa, mere mụ ya jụọnụ mụ ye zi dada mụ na ya va ya nụ ye da Jehova zụọ nụ.",1.1212,0.5887
+441,FA ANNIDI MA BƐZABƐ MƆƆ BO KUNLU TULI GYEHOVA NWƲ NƖ,Fanyị dị mma bịazabụ mụ gbaara kunu tulu Jehova nwoke.,1.0,0.5
+442,NAFƖTALI,Naftali,1.0,0.125
+443,Yezuma Debe Wɔ Yɛ Kilehilevʋlɔ Kezile Yɩ Kɛnɩ Wɔ Yɛ Ɛbɩlawɔlɛ Munwatĩĩ Nu,Ihe zụrụ azụ bụ ihe kwesịrị ekwesị ka e jiri ya na-awa blọọla mmanụ ọkụ gị nụ.,1.3077,0.8197
+444,MƖNLA YƐ GYEHOVA ƖYƐ DAADA A?,मैंने यह जो हो भाई या दादा,1.1667,1.0
+445,Mɩnla yɛ Gyehova pɛ kɛɛ mmenii munwatĩĩ nyia a?,Mna ye jo wapeke mini muo tinyana.,1.0,0.5263
+446,MÁMA DƖYƐ BELA SƖKƐ WƲ ANYƖNLƖLELƐ,"Mama diɛ bɛla sika wanyi lele, n cɛcɛ mi a wotilɛ, o yɔkɔ izale.",2.3333,1.1034
+447,Kɛ Ɩkɛyɛ Na Wʋahile Kɛɛ Wʋ Anyɩ Sɔ Elelɛdɩyɛ Nɩ a?,Kedu ihe kpatara nwanyị so ele di ya?,1.0,0.6667
+448,Asʋ̃ Ɛtɩ Bɔ Bʋwabɩlɛ Yɩ Tʋ a?,A na m ekwu okwu n'ụmụ nwanyị na kọọ. A sọọ m etigbọgbọ a,1.8571,1.7619
+449,KEZIMƆ NDWOKƆZƖZƖBƐ MƆƆ DWUUMAA NƖ YIYIALƖ NƖ MANLƖ BƐ PADI GOLƆLƖ,"Kezimun jukozeshe mu gihe cy'iminsi 14, manuka pedigori.",1.0,0.625
+450,Yɛbazunzu mɔɔ ɩkɔhʋla kɛzɩkɛ yɛ anyɩnlɩlelɛ nɩɩ mɔɔ ɩsɛ kɛɛ yɛyɛ na yɛ anyɩ iale dɔkʋ̃ nɩ nwʋ.,"Ya bụrụ na ịzụrụ akụrụngwa nke ya ịlele, nị maịsa ka ya ga-anọ na ya nye ya dị ka n'ụlọ.",1.0556,0.7067
+451,Nyia Dɩyɛ Munwala Zʋ Tumivʋlɔ Yi Nu Anwʋlazʋ,Nye di mmuo na so otu nwunye nwa nwoke na-azu.,1.25,0.6757
+452,b Bɛzɩnza anlima yi be.,"Azu ka na-eje kwa isi, be nzọlụ ma ebe. Azu ka na-eje kwa ezi.",2.6,2.0556
+453,Yekehila mɔɔ ihyinyia kɛɛ yɛyɛ na ama yɛahɔ zʋ yɛanyia Gyehova yɩ ɔhʋanɩhilelɛ zʋ mfasʋ na yɛ anyɩ iale.,Ihe kachasị mkpa ebe a na-ama ya ahụzị ya bụ Jehova enweghị ihe ọzọ mfaso na ya anya erị.,0.9474,0.6118
+454,MƆƆ YƐKƆHƲLA YƐKƐYƐ NWƲMƆ ƐBƖBƐLƐNU,Mụ ya na nwunye m ka ya bụ ụmụ m bi nụ.,2.4,0.7742
+455,MMƖLƖ MƆ NƖ MƖ NƖƖ GYEHOVA AVINLI ƖYƐƐ SƖ NƖ,Moro amora mane Jehova vinie iyasene.,1.0,0.5714
+456,Mɔɔ Yɛkɔhʋla Yekozuma Wɔ Pita Yɩ Ahɛlɛta Anwɩ̃ Yɩ Nu,Mọ ya kọlị ya kuziri gị pịta ya hla taa wịnu.,1.1,0.5238
+457,MƖNLA TI MƆƆ IHYINYIA KƐƐ YENYIA ANWƲLAZƲ KƐƐ GYEHOVA VA YƐ TANƖ HYƐ YƐ A?,Mmetụta nke a ga-enye ya ohere ịjụ Jehova ihe a na-esighị ya.,1.0,0.7458
+458,Awuuku Mɔɔ Bɔtwɩ̃ Adwɩnɩ Besiye Zʋlɔ Wɔ Watchtower INTANƐTƖ ZƲ AWUUKUZIYELƐDƖKA ™,"Ọwụkwa mgbe ọchịchọ ajọọ niile si ezulọ West Tower, ịntanetị zuru oke ziri ezi ka.",1.3636,0.6324
+459,Mɩnla ɔhʋanɩ zʋ yɛ ɔlɔlɛ mɔɔ yɛwɔ yɛma Gyehova nɩɩ ye mmeliyema nɩ bʋwa yɛ ma yekyina odwodwudiyialɛ munwa a?,Mụ na nwunye m yọrọ ya ma ya bụ Jehova na-enye mụ na ya mgbu anyị ma ya echiche ojojiji dịara mụ a.,1.05,0.6854
+460,"Mɔɔ ɩtɔ zʋlɔ anlu, sɛ bɛyɩ abiye wɔ asafʋ yi nu a, kɛ ɩkɛyɛ na asafʋ yɩ bɛahɔ zʋ bɛala ɔlɔlɛ nɩɩ nwɔkɛnwʋnlɛ ali bɛahile yi a?",Mmetụta dị n'ime ya bụ ihe dị n'ime asụsụ Inua. Keke na asụsụ ha bụ aha ọzọ maka olile n'onwe ya na-enweghị onye na-enyere gị aka.,1.0,0.7629
+461,Mɔɔ Ɩkɔwʋwa Wʋ Ma Ɛkɛda Kozuma Dɩyɛ,Mụ ekweghị omume ka m dee akwụkwọ ozi n'abalị a.,1.4286,0.9655
+462,DA ANNIDI ALI KILE WU MMELIYEMA MMENYIA NƖƖ MMAALƐ,Danni di'a likre umere mamenyane mare.,1.0,0.381
+463,Mɩnla ɔhʋanɩ zʋ yɛ ɔkɔhʋla kɔwʋwa bɛzabɛ mɔɔ bekila mmenii mvʋlɔ nɩ wɔ wʋ asafʋ nu a?,Mmanụ ha na-esi akwọrakọwa bụzị abụba ebe kramenị mvụrụ na-ewu n'asafu nụ a.,0.9412,0.5882
+464,NWƲ GYEHOVA YƖ ADWƖNƖ WƆ ODWOKƆ YƖ NWƲ,na ajụ gị ajụkwa ya ụnụ. Nti che m,1.125,0.9032
+465,“BƐYƖ́ AMUMUYƐNII EYI WƆ MƲNLƲMMƆ BƐ AVINLI”,Bịa ya bụ mmụọ nsọ na-eyi gị ọmarịcha uwe elu.,1.4286,0.8286
+466,Yekehila kezimɔ yɛkɔhɔ zʋ yɛkɛyɛ Gyehova yɩ ɔhɔnwʋmmɔ nɩɩ kezimɔ Gyehova ikilaa ɔhʋanɩ kɛɛ yɛ nɩɩ yɩ ɔhɔnwʋmmɔ keli nɩ.,Ihe kpatara eji akọwa ya dị ka Jehova bụ na ikike Jehova ikerawanye nke ya na-enwe oke njedebe.,1.0,0.7172
+467,Mɩnla yɛ yɛkɛyɛ yɛkɛva yekehile kɛɛ yekilaa yɛ nwʋ bʋwɔ a?,Mraye ka yaye ka veye ka hle ka yaye kraye wubua.,1.0,0.5319
+468,c Bɛzɩnza anlima yɩ be.,"Azu ka n'ije kwa eze, bee nziza nri ma ebe, azu ka n'ije kwa ezi.",3.0,2.0556
+469,‘yɛ adwɩnɩ nu ɩala kɛnɩ’ a?,या गुनीनू अल्लाह कानिया।,1.0,1.0
+470,MƖNLA ABUSUNWAWƆLƐ YƐ DEDI NƖƖ NYƐLƖYƐ WƆ A?,Mụ na ụmụ nwanyị ya dedenụ inyali ya wa.,1.125,0.5278
+471,GƖLƖYADƖ SUKUULU MƆƆ YƐHƆLƖ NƖƖ ANYƖNLƖLAZƲ MƆƆ ƖÁBA NUMƆ NDƐ,"Bidaa iskoolka muu yahay halle? Maya, inala soo muuqday binu monde.",1.1,0.7692
+472,“Mɩnla ti mɔɔ Gyehova Dasɩvʋlɔmaa bɛhyɛ mmenii kɛɛ bɛzɩnzá bɔ ɔzʋ̃mɩnlɛ a?”,"Mụ na Chimo jere n'ụlọ nsọ ụmụaka, ebe nsọ nke Baha'i dị na Haifa.",1.1667,0.8
+473,Anyɩnlɩzɔlɛ mɔɔ ɛkɛla yɩ ali,Anya zoloma kaleyali.,1.0,0.5
+474,b Kila alɩka mɔɔ ise “ Kila Wʋ Nwʋ Bʋwɔ Wɔ ‘Nabalaba Kãnwʋazɩ’ Nwʋ ” mɔɔ ɩwɔ odwokɔ mɔɔ ise “Asʋ̃ Nwʋmɔ Hyinyia Kɛɛ Enyia Ɔhɔnwʋmmɔ Sʋ̃maa Wɔ Intanɛtɩ Zʋ a?” wɔ jw.org zʋ.,"Azụka n'ujụ kweziri, klaarụka mọisị, klaa ụbọchị ọnụgbọgbọ ka nwaazị wụ mọọ ịwụdụ kọmọisị. Asọ ụmọchịaka ịnye họ mọchịma n'ịntanẹtị zụa www.org zụa azụka n'ujụ kweziri.",1.0,0.811
+475,Mɩnla Yɛ Yɛkɔhʋla Yekozuma Wɔ Nnwʋánlɩ Nninyeni Mɔɔ Gyisɛsɩ Yɛlɩ Yi Nu a?,Mene ya sa kuke zuma wa wani in munji sa yali inu?,1.0,0.6333
+476,"Dɩyɛzumanlɛ eyi kɔwʋwa yɛ ma yɛkɔnwʋ nninyeni mɔɔ yɛyɛ a, ɩkɔwʋwa yɛ ma anyɩnlɩlelɛ mɔɔ yɛlɛ wɔ dasɩlɛlilɛ egyima yi nu nɩ kɛyɛ sʋ̃maa.","Debe ya n'ime obi gị, ịkwesịrị ịliri mụ ya na nwoda si na ya jiri meenu nị, ka ya sụọ.",1.0,0.7798
+477,"Ohunɛmaa, Belí Bɛ Yɩmmɔ Nni",Ọnụ mma bịrị be ịmụ nị.,1.2,0.6818
+478,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova wʋwa yɩ azʋ̃mɩvʋlɔ wɔ yɛ mmɩlɩ eyi nu a?,"Mmalụ ha nọzị ya Jehova ụwa ya azụ, mfula ụwa ya emela ya enu a.",1.0,0.5192
+479,KEZIMƆ DƖYƐNUNWƲNLƐ BƲWA YƐ MA YƐDA ODWOLƐ ALI,Kedu ka ị ga-esi nweta buo ya ma ya daa ojola eri?,1.375,0.641
+480,Kezimɔ Gyehova Fa Tanɩ Kyɛ Na Ɩma Yɩ Ɛɣɛɛlɛ Fi,"Aha, enye gi okwu sayị, nke ịsị na Jehova fụrụ gị n'anya.",1.1,0.973
+481,Nkɔmɩ Mɔɔ Gyekɔpʋ Hyɛlɩ Ansaana Ibawu,"Ndiiche m na-ala nke ị nụjụkwasị, nkwa m ji ka bishọpị asị na Igbo bụ ""ụwụ"".",2.6667,1.375
+482,Mɩnla nninyeni asã yɛ ɩkɔhʋla kɛma yɛzayɛ yɛ mpayɩwɔlɛ kodu mpʋnɩ a?,"Mụ na nne ya saa ya, ya ekweghị ka m yaazie ya mpa iwere kwụdụ m kpọọ ya.",1.5,0.6429
+483,Mɩnla ti mɔɔ nnɛ yɛ ɩsɛ kɛɛ yɛhyɛ anwʋlazʋ mɔɔ yɛlɛ yɩ wɔ Gyehova nu yɩ nu ɛzɩzɩbɛ a?,"Mletụmọnụ, ya bụ nke ya na-achọghị ịhazụmọ ya lewọ, Jehova nụrụ inuzuzụba ya.",1.0,0.6818
+484,Yɛ adwɩnɩ mɔɔ yɛkɛva yekeziye ɔlɔlɛ mɔɔ yɛwɔ yɛma Gyehova nɩɩ mmenii mvʋlɔ nɩ zʋ,Ya juru m ma ya ka fa ga-esi ọrụ ọrụ ma ya bụrụ na ma Jehova niile n'ụdị ụlọ n'izu.,1.3333,0.6818
+485,Mɩnla yɛ ɩkɔhʋla kɔwʋwa yɛ mmɩlɩ mɔ yɛtɩ nɣanlɩ kɛɛ yɛlɔ́kʋla kɔhʋ̃ kediyia akɔnɔ tanɩ anzɛnyɩɩ Gyehova iále yɛ tiã numɔ nɩ a?,"Mmiri a kọrọ akọ ụwa a, mmiri mọya tinye anụ kee, ya bụkwa ka o si di akọ na taa ni, anụ eji Jehova lee unu money a.",1.1739,0.6139
+486,Kɛ yɛkɛyɛ na yɛava yɛ mmɩlɩ yɛali egyima bʋwɔ a?,Kee ka ị na-anya ụgbọ mmiri gị n'ime njem a?,0.9,0.7368
+487,Mɩnla ɔhʋanɩ zʋ yɛ Gyisɛsɩ yɩ ɛbɩlawɔlɛ wɔ azɩlɛ yɩ zʋ nɩ wʋwalɩ yɩ ma ɩvatalɩ kɛɛ yɛ Azɔfʋ Mbanimbani Nu Ebani a?,M̀làwụ́ há ná zọ́ yá jí sí ásí m̀làwụ́ álàwụ́ ázị́là zọ́ ná èwú álị́ má èvàtálị́ ké yá zọ́ fú m̀bè m̀bè ní nwè èbè ání á.,1.1304,0.5275
+488,Minyia ɔnwʋmɔ ɔhʋanɩ mʋhɔ Cuba mʋhɔ mʋwʋwa ma yɛ ɔzʋ̃mɩnlɛ nu fanwʋdi nɩ yɛ kezi. Eyi manlɩ mɩ nɩɩ aɣanɩ mbanimbani sʋ̃maa nyianlɩ ɔhɔnwʋvalɛ baaba.,Mịọ mụ nwaanyị mụrụ ka ịbụ mụwa ma ayị ọzọ mụrụ n'ụfa awụdị na-eyekezị. Ịma na-eme na a anị mgbe mgbe na-esum anya na ọwụghị mbara bekee.,1.04,0.6583
+489,"Wɔ bɛ odwokɔbadɛlɛlɛ egyima azʋlɔtʋ yɩ nu nɩ, mɩnla yɛ ɩwʋwalɩ bɛ ma bɛyɛlɩ nzɩnzanlɩyɛ na bɛ anyɩ sʋ̃ leli a?","Uwa bu nke Chukwu, na-elekọta ihe niile. Mụ na gị bụkwa ndị na-elekọta ihe ndị ọzọ a, na-abụ anyị so na ya.",1.0476,0.8046
+490,"Sɛ Otuu Kɔhɔ Dɩka Fʋlɔ a, Mɩnla Yɛ Ɩkɔwʋwa Ma Nninyeni Kɔhɔ Bʋwɔ a?",A na-ekwu na ọ bụ ya kpatara na ụmụ nwanyị anaghị ekọ ọbụ.,1.0,0.8077
+491,"Sɛ abiye yɛ debe tiyia yɛ a, kɛ ɩkɛyɛ na yɛava yɛahyɛ yɩ a?","Sabiene bichi aya, ke ke ya na ya vi ya che ya.",1.0,0.4773
+492,Mɩnla nninyeni yɛ yɛkɔhʋla yɛkɔwɔ nwʋmɔ mpayɩ a?,Mụ na enyi m ya ekworo ekworo nwa mpa ya.,1.25,0.65
+493,KYINA NYAMƖNLƖ YI BULOMBUNLILILƐ MƐDA,Chineke amaghị ihe ọ bụla gị na ya mere.,1.8,0.8182
+494,Bɩlɩkɩsɩ mɔɔ bɔnwʋnlɩ wɔ ɔwɔkɩ Babilɔnʋ nɩɩ kezimɔ nɩ besi bɛyɛ yɩ nɩ di dasɩlɛ kɛɛ mɔɔ Bayɩbʋlʋ kã nɩ dɩ nɔhʋanlɛ,"Bụrụ na ị sị na ọ bụ mmụọ ozi nke Babịlọn, n'ike ịzụrụ n'ibi sịba ya na dịda sịlekee maọbụ Baịbụl ka a na-edinọghalị.",1.0909,0.6774
+495,"Kezimɔ Gyehova fa tanɩ kyɛ nɩ, kɛ ɩma ɛtɩ nɣanlɩ ese a?",Kedu mgbe ọ ga-ata nri ehihie? Kedu mgbe ị na-eri nri?,1.0,0.7381
+496,GYEHOVA YƐ IKILE MƆƆ ABIYE KƆHƲLA KƐYƐ ANZƐNYƖƖ ƖLƆ́KƲLA KƐYƐ A,"Jehova nyekwara anyị Bible ka ọ rụọ ka ya, anzen ịlekọta ya.",1.0909,0.6346
+497,GYEHOVA ƖMA YENYIA ANWƲLAZƲ KƐƐ YƖ ANƲHƲBA MUNWALA KƐƔA NU,Jehova na-enye anyị anụrị azụkwa ya na ụba mụọara ka unu.,1.1,0.5306
+498,"Ɔkʋ̃, nɩ ɩyɛ yɩ kɛɛ ɩkɛzɩkɛ yɩ ozukua, iluwakɛɛ nɩ Ɛlɩmɛlɛkɩ yɩ azɩlɛ yɩ kɔhɔ keli Wulutu yɩ ɣa benyia yɩ sa nu.","Ọkụ na-ejikọta ike zịkarịrị zụkwa, iru aka na-arịmelekị ya ziri ezigbo k'ọkụ rụọrọ ụlọ gị na ebe ị sị nụ.",1.0,0.7442
+499,BƐLÁ ANNIDI ALI BEHILE BƆ NWƲ BƆ NWƲ,Bia na-enye dị iche iche bụ ihe gbasara ụgbọala.,1.125,0.931
+500,Mɩnla yɛ ɩkɔwʋwa wʋ ma ɛkɛhyɛ wʋ pindinyiigyinanlɛ nu ɛzɩzɩbɛ a?,"Mụ na ya kolova, e kee ya ụpị ndị njinara n'ụzọ zịba.",1.0909,0.6226
+501,MƖNLA YƐ GYISƐSƖ YƐLƖ VA LELI ADASAMAA WƆ TANƖ NU A?,Mmara a ɛgyina so yɛɛ no baabi a adanseɛ ama wo taani no a.,1.1818,0.561
+502,Mɩnla ti mɔɔ nwʋmɔ hyinyia kɛɛ yenyia ozukua nwʋ adwɩnɩba a?,Mụ na ụmụ nwanyị a ka ga-enye ozi kwa nwa ajụjụ a.,1.0,0.5714
+503,Pɩbɛ Ozumalɛdɩyɛ Mvʋlɔ Wɔ Bayɩbʋlʋ Yi Nu Mɔɔ Ɔkɔhʋla Kɛva Kɛyɛ Egyima,Pebbles maara na ya mvuru ọbụ anyị bụrụ ịnnụ maọbụ ọkọhuru aka ha ga-ejima.,1.1667,0.7241
+504,"Sɛ mmusunwa duwa abɔdɩ zʋ de bɛ anyɩ a, mɩnla mfasʋ yɛ bekenyia a?",Saa mụ sụrụ abụọ dị na ab,1.0,0.8039
+505,bɛahyɛ dedi mɔɔ bɛlɛ yɩ wɔ Nyamɩnlɩ nɩɩ Bayɩbʋlʋ yɩ nu ɛzɩzɩbɛ a?,"Bịa sị ndị mmadụ bịa lee ya anya, ma lee ndị banyere n'ụzọ ziri ezi.",1.1538,0.7692
+506,Mɩnla mɛlɛkɛyɛlɛ azʋlɔtʋ yɛ nɩ ɩsɛ kɛɛ Pita di zʋlɔ a?,Muna murna ƙwarai da gaske da muka ga Peter ya dawo lafiya.,1.0909,0.8837
+507,TIYÉ “MBANIMBANI NƖ MƆƆ BOBUU MANLƖ NƖ”,Chiemeka n'ime mgbede bụ maara ihe.,1.0,0.8065
+508,"Mɩnla ndwokɔzɩzɩbɛ yɛ beyiyia a, na mɩnla yɛ ɩwʋwalɩ bɛ ma begyinanlɩ pindinyii a?",Nwanyị ọ bụla so bịa bịa na mịlị ya bụ alụbị ma bịjịnalụ pịndị ya.,0.9286,0.6269
+509,“Ɛdɩ Abiye Mɔɔ Ɔtʋ Bʋlɔ Paa”!,"Ahelu jụkọ mụ dị ezigbo mma, ị dịkwa?",1.3333,1.1905
+510,NYIA GYEHOVA NU DEDI ILUWAKƐƐ ILÉYIAKI WƲ KYƖ̃,Nyajowano dedi iluoke e leye ka ochin.,1.0,0.5526
+511,"Sɛ yɛtɩ sianti mɔɔ Gyehova manlɩ ɔhʋanɩ ma Dwoobu nwʋnlɩ amanɩyɛ nɩ tʋ a, kɛ ɩkɔwʋwa yɛ keze a?",Ihe a na-esite na ya bụ na mmadụ nwere ike ịghọta ihe onye ọzọ na-ekwu ma ọ bụrụ na ha abụọ na-asụ otu asụsụ.,1.2632,0.9467
+512,Bɛhyɛ́ Gyehova Animinyiamɩ,मैं सेट जो वन में आया हूं।,2.3333,1.0
+513,MATS NƖƖ ANN-CATRIN KASSHOLM BO MUNWA NU NDWOKƆ,"Maa Chineke na-achịkwa ihe niile, ya bụ maa Chineke na-achịkwa ihe niile, ọ bụghị ihe gbasara onye ọ bụla n'ime anyị.",2.625,1.9231
+514,Kalɛnda mɔɔ ɛhɛlɛlɛ ndwokɔ nɩɩ ndwomi nɔma wɔ zʋlɔ,Ụfọdụ ndị na-ekle ka ha na ndị mụrụ ha na-enwe mmekọrịta dị mma n'oge ọ bụ nwata.,1.8889,1.2143
+515,"Sɛ ɩba yɩ nɩ Gyehova yɩ mmɛla mɔ yɛkɛva yɛkɛyɛ egyima a, kɛ yɛkɛyɛ na yɛahile kɛɛ yegyĩ pindinyii a?",ਸਾਹਿਬਾਨੀ ਜੀ ਹੁਣੇ ਮਲਾਮਾ ਕਵਕੀ ਜਮਾ ਕੈ ਕੇ ਨੀ ਹਿਰਕੀ ਜੀ ਪਿੰਡੀਆਂ,1.0,1.0
+516,Mɩnla yɛ ɩkɔhʋla kɛma bɛzabɛ mɔɔ bekila mmenii mvʋlɔ nɩ bɛ anyɩnlɩlelɛ kɛzɩkɛ a?,"Manna yaa kowhara kama baza ba mu bi ƙirameni wurin ba, ba in lillaƙa zika ba.",1.1429,0.5455
+517,MƖNLA YƐ ƖSƐ KƐƐ YƐKAKƐ MMƖLƖ MƆ . . .,मनाईसखे याका केमलोमो,1.0,1.0
+518,MƖNLA ƆHƲANƖ ZƲ YƐ BAYƖBƲLƲ YƖ MA YƐNWƲ KƐƐ GYEHOVA DƖ . . .,Mụ na nwunye m gara buru mee ya nwoke Jehova dị.,1.0,0.6364
+519,b MFONYINI NWƲ ODWOKƆ: Eliyema benyia ebani be ɩlɛ nɔhʋanlɛlilɛ ikyinaa pindinyii eɣile bela.,"Ụfọdụ n'ime unu jụọ kwa aka gị a, ""E lee m anya ya bụ abụ bekee, e lee m nụ ha lelee ya iji na-pịndị eziokwu a.""",1.9286,0.7692
+520,“Ɛzɩlɛ Mɔɔ Ye Munwala Yehyinyia”,"Aliquae nu jukuse, ezilimo imwali ishyo.",1.2,1.1154
+521,“MUWIE EGYIMA MƆƆ ƐVALƖ ƐMANLƖ MƖ KƐƐ MƖYƐ NƖ”,"मुझसे मत करो, मैं तुम्हें नहीं",1.0,1.0
+522,FA WƲ ADWƖNƖ SIYE GYEHOVA ZƲ NA KÃ WƲ NWƲ AZƖ,Fawad Yunus ji Jehovah zo na kan waze.,0.9091,0.4571
+523,"“LAZƲLƆSƲ, FINDE BƖLA!”","Las Rosas, Finnebla",1.0,0.4706
+524,Behilá asafʋ vidiyo be na bɛ nɩɩ mmenii mvʋlɔ wɔ nwʋmɔ nkɔmmɔ anzɛnyɩɩ bɛhɛlɛ́ odwokɔ be bɛvalɩ nwʋ.,Biko lee saa vidiyo bee na be nị mị nị mvụlọ wụ ụmụ nkwọmọ aza mbe hele ụjọ kụbebe valụ.,1.0,0.5432
+525,"Sianti mɔɔ yɛ anyɩ kɔhʋla kele mmɩlɩ mɔ iluwa Gyehova mɔɔ yɛsʋ̃mɩɩ yɩ nɩ ti, botwodwuu betiyia yɛ nɩ.",Sị entị mụ ya na ya kọrọ kele mụ n'ime ịru Jehova mụ ya sụọ mị nị tị gbochi ojube tiaya nị.,1.1053,0.575
+526,Mɩnla ti mɔɔ ɩsɛ kɛɛ yɛbɔ mpayɩ yɛma ye mmeliyema mɔɔ yézi bɛ ahyinyiadɩ nɩ a?,Mịlịntị mụ na sekọndị abụọ mpa ya mere mịlịamụọ ya ezibesị adịna ya.,1.0,0.6774
+527,Mɩnla yɛ ɩhyɛ dedi mɔɔ ɛlɛ wɔ Nyamɩnlɩ Odwokɔ yɩ nu nɩ ɛzɩzɩbɛ a?,"Mụ na ya sị na dị mma, na ọ wanyamụrụ dịkwa elu na ezinaụlọ a.",1.0,0.6863
+528,“AZƖLƐ YƖ MUNWALA ZƲ NDƐNƖWUWALƐVƲLƆ NƖ” KƐYƐ “MƆƆ ƖTƖNƔƐ”,"Aha m bụ Arazo, ndụ mụ na ya bụrụkwa na ya ma etinye.",1.4444,0.7391
+529,MƖNLA ƆHƲANƖ ZƲ YƐ SUBANƖ EYIMMƆ BƲWA WƲ MA WU KUNLU TWOLI MƆƆ ƐLƐ NƖ NWƲ A?,Mụ na nwaanyị a so bụrụkwa ezigbo enyi m ọbụlagodi na ụmụ okorobịa ole na ole nwaa.,1.0,0.8644
+530,ANGELITO BALBOA YI MUNWA NU NDWOKƆ,Anjali to Balboa money joko.,1.0,0.4483
+531,Kã kile enii kʋ̃ nɩ yɩ kɛɛ ɛva hyɛ yɩ.,Klinikune ke avashya.,1.0,0.6296
+532,Mɩ nɩɩ mi anlima baalɛ Elisabeth (bɛnɩ zʋ),"Ụfọdụ n'ime unu jụọkwa sị, ""Gịnị ma a na m abụ ala Elizabeth?"" Bịa n'ezie.",1.875,1.0
+533,Jeffrey Winder nɩɩ yɩ yɩ Angela,"Ụbọchị ụka gara aga, ya onwe ya efere nwa nne ya nwanyị Angela.",2.0,1.3462
+534,ɛkɛma Nyamɩnlɩ Odwokɔ nɩ kenyia wʋ zʋ tumi a?,Aka manya mụ na gi kwekọrịtara bụ zụta m ya.,1.1111,0.5833
+535,TƖYASƖVƲLƆ NYAMƖNLƖ NƖ KƐHYƐ WƲ ƐZƖZƖBƐ,Chịasịrị m onye amụma nke Chineke si n'ozizi be.,1.5,0.8235
+536,MÁMA WU KUNLU TU KƐƐ ƆKƆWƆ GYEHOVA MPAYƖ KYƖ̃,Mamu ukunu tuka oko wa Jehovah mpaeche.,1.0,0.4722
+537,YƐWƆLƖ ODWOKƆBA YƖ NWƲ BANƖ WƆ MMƐLA ƆHƲANƖ ZƲ,Ya olujuko bewo bani wo m'alahwanizo.,1.0,0.5789
+538,KƆ ZƲLƆ NYIA ANWƲLAZƲ KƐƐ GYEHOVA VA HYƐ WƲ,Kwasị m ya mụ na Azụke Jehova baa sọọ.,1.0,0.6571
+539,Mɩnla yɛ Bayɩbʋlʋ yɩ kã falɩ eɣile be nwʋ a?,Mụ na ya banyere ụgbọala ịrịgbe nwa ahụ.,1.0,0.6765
+540,BƐMÁ YƐHYƐ YƐ NWƲ YƐ NWƲ ƐZƖZƖBƐ WƆ ASAFƲ KEZILE NU,Bameeshe yawo yawo zuzzube wasafuke zilu nu.,0.9091,0.4878
+541,DASƖLƐLILƐ EGYIMA YƖ HANLƖ YƐ WƆLƖ NU,Das lele ji main haan ya wallu nu.,1.0,0.5161
+542,DA NTƖYASƖ ALI MMƖLƖ MƆ NZƖNZANLƖYƐ ƖƔA NƖ,"Dan chiaserli, mụrụ m onye ziri ezi na ya ghara.",1.25,0.6857
+543,ƆWƆKƖ NƖƖ NNƐ MMƖLƖ NU “ƆHƲANƖ NWANZANWANZA” YƖ,Ọwá kị́nni ń mú ni nówà núnwá nzá nwa nzé?,1.25,0.5789
+544,SIANTI MƆƆ MBIYEMMƆ TWƖNHWƖ̃ BƐ AGYIA AZƖ,Senti mụ bi na Ochịhie gbasara ya.,1.0,0.7059
+545,bɛanwʋ mfasʋ mɔɔ ɩwɔ zʋlɔ kɛɛ bɛkɛva Nyamɩnlɩ mmɛla mɔɔ ɩfalɩ baaba nɩɩ tanɩ nwʋ nɩ bɛkɛyɛ egyima a?,Bá wón fásùn wọ̀zọ̀rà kàbàkàbà nyàm̀rì mmàlà mọ̀ yá fụ̀àlụ̀ bá àbà nètà nọ̀wụ̀nèbèkè ejimà.,1.0,0.642
+546,mɩnla ti mɔɔ ihyinyia kɛɛ yɛyɛ nzɩnzanlɩyɛ wɔ mɔɔ yɛbɔ nwʋmɔ mpayɩ nɩ nu a?,"Mịt mịshị ke, ịyị enweghị nzaghachi ọ bụla ma ọ bụ ịgbọ ụmụ mpaị n'ọnụ a.",1.0,0.7667
+547,Mɩnla ɔhʋanɩ zʋ yɛ yɛkɔhʋla kɔwʋwa bɛzabɛ mɔɔ bɛ alʋbɔ hɔ anyunumi nɩ a?,"Mụ na nwanne m nwoke na-akwụsịghị ịkwa iko, ọ bụghịkwa ihe ọhụrụ nye m.",1.0,0.8276
+548,a Bɛyɛ blohyʋɔ mɔɔ bɔfʋlɔ yɩ Learn to Read Braille (Sumá Kezimɔ Ɛkɛɣɩnga Braille) kɛɛ ɩwʋwa abiye mɔɔ yɩ anyɩ izũ ma izuma kezimɔ ɩkɛɣɩnga na ɩahɛlɛ braille .,"Azu ka n'ije kwa ezi. Ma ya buru na ị chọrọ ịgụ akwụkwọ Braille, sumakizimaka nga Braille kee, ewuwa bụ ịma ya anya zụọ, ma ya zụọ makizimaka nga na ya hụrụ Braille. Azu ka n'ije kwa ezi.",1.2143,0.7008
+549,"Sɛ bɛkã kɛɛ ‘íni kɛɛ yɛ nwʋ ba odwokɔ,’ na ɩsɛ kɛɛ ‘yɛyɛ mɔɔ ɩtɩnɣɛ’ a, kɛ yɩ tʋ kile a?",Sịba ka ekele ya bụ ụgbọ jọkọ na eseka ya ya bụ etinye ya kee tukra.,0.9524,0.7213
+550,Nkɔmɩ Mɔɔ Gyekɔpʋ Hyɛlɩ Ansaana Ibawu,Ịsị Chineke a na-ekweghị n'uju kwesịrị akụkụ nke asịrị na ebubo ụgha.,2.0,1.4375
+551,Nɣɛdɛkɛ—Kɛ Ɩkɛyɛ Na Bɛaɣa Bɛayɛ Kilisinyiamaa Mmaalɛ Mɔɔ Bɔ Nwʋ Wʋkwa a?,"N'agbanyeghị nke a, nke a na-abụkarịkwa isi mmalite nke nsogbu.",1.0,0.7966
+552,ÁMA ƐMA WƲ ƐƔƐƐLƐ FI KEZIMƆ GYEHOVA ƖWƲWA WƲ NƖ,Amaghị m ma ọ bụrụ na ịkezi mụ na Jehova bụrụkwa otu.,1.2,0.7368
+553,Fa wʋ nwʋ tiã Gyehova zʋ,"Wọ́n fẹ́ ní núnú yá wọ́n ké, “Ẹ li ayọ̀ mọ́ báálè bé sẹ̀sẹ̀ ni yá ni wọ́ yá li a nù, na sọ́ iyá kí jẹ́ kí yá kà ngá Bíbélì.” Ojọ́ kọ́mẹ́ wọ́n fẹ́ ní nwu sẹ́, “Fáwọ́n wítà Jèhófà zọ́.”",7.1667,5.5789
+554,ABIYE MƆƆ BƐHÃ YƖ NWƲ ODWOKƆ WƆ BAYƖBƲLƲ YI NU,"Anyi emewo be ha, onweghi otu o bu Bible inu.",1.0,0.6486
+555,Asʋ̃ ɛfa wu munwa ndwokɔ nɩɩ wʋ nyɛlɩyɛ hyɛ wu mmeliyema ɛzɩzɩbɛ a? Na ɔnwʋ mɔɔ wu mmeliyema yɛ fa hyɛ wʋ ɛzɩzɩbɛ nɩ a?,"A sị na ihe fọrọ nke nta ka ọ bụrụ onye ọ bụla na-eche na ọ bụ naanị ya na-enwe mmetụta ndị a, ọ ga-adị mfe.",1.0,0.8261
+556,"Bizia wʋ nwʋ kɛɛ, ‘Wɔ mɩ dapɛnɩ dapɛnɩ nhyɩhyɛlɩyɛ nu nɩ, kɛ ɩkɛyɛ na miahile kɛɛ Gyehova ɔzʋ̃mɩnlɛ nwʋ hyinyia mɩ a? Kɛ ndianwʋ nɩ, asʋ̃ mɩyɛ mɩ abusunwazʋ̃mɩnlɛ dapɛnɩ bela a?’","Bịa nụ kee, ụmụ dapụrụ ndapụrụ ịhụchara nụ na kee ka e nwere ike Jehova ozumewuchi a mụrụ? Ke ndụ a nụ na asụ m ya mebụsịrị ozumewuchi dapụrụ bekee a.",0.9375,0.6569
+557,“Mɩákʋla mɩkã nwʋmɔ odwokɔ mikile abiyela. Mɩvalɩ ɛyɛkɛ mɔɔ midii nɩ muwulalɩ mʋ nwʋ.”,"Ma kura m kaa omujoku m kịra biela, ma faa na ị ya ka mụọ mị dị n'ụwa arụ mụọ.",1.4286,0.6232
+558,"Nnamɩ mɔɔ nɩ azɔfʋ yɩ fa bɔ afɔlɩ wɔ Gyelusalamɩ asɔlɩ pika yɩ nu nɩ, nɩ botu be mmegyia yɩ bokua ɛhɩnla?","Na mụ na ya zọọrọ ife a gbara afọ ole na ole gara aga, na mgbatịgbe mụ na ya bụkwa enyi na.",1.0,0.7317
+559,KEZIMƆ EBANIYƐLƐ KƆHƲLA KƐHÃ WƲ ANYƖNLƖLELƐ,Kedu ka m ga-esi nye aka kwụọ ụgwọ maka nwaanyị lere?,1.8333,0.8158
+560,a Dɩyɛzumanlɛ eyi ɩkɛma yɛkɔnwʋ kezimɔ yɛzʋ̃ odwolɛ nu yɛkɛdɩndɛ mmɩlɩ mɔ abiye iɣizia ye dedi nwʋ odwokɔ yɛ nɩ.,"Diyasimale ya kama ya kan ke zama ya zama jolo ni ya kadinde, mirmor abiyari zaye daidai wu joko yane.",1.0,0.5275
+561,Gyehova manlɩ yɛnwʋnlɩ kɛɛ ikeli yɛ nnwʋnlamɩ ɔfʋã nu ahyinyiadɩ nwʋ egyima. Yɛ dɩyɛ yɛ lɛ kɛɛ yɛkɛva Bulombunlililɛ yɩ yekeli bɔmʋnlɩ.,Ihe ọma na-eme na nke ikpeazụ bụ na e si na ya dị nwu ji ma ya dị ere kee ya ka fa buru mburu lee ikpeazụ ọma na ya.,1.3636,0.6875
+562,Nɔhʋanlɛ Mɔɔ Gyisɛsɩ Lili Nɩ Dɩlɩ Gyehova Yi Dima Nwʋ,Aka ka na-egosi na ọhaneze siri ike na-eledi Jehova ịdị mma.,1.1,0.8636
+563,Kezimɔ Ekezi Pɔkɔ Mɔɔ Nɣɛlɛbɛ Wɔ Nu,Que je vous conseille. Que je me que je,1.2857,1.0
+564,GYEHOVA DƆ YƖ AZƲ̃MƖVƲLƆ NƆHƲANLƐMAA,Jehova do ya zọ mvụlụ n'ụharama a.,1.4,0.4194
+565,SIANTI MƆƆ GYEHOVA MA AMANƖYƐNWƲNLƐ NWƲ ƆHƲANƖ,Senti Modu Varma amaghi ma onweghi onye hụrụ ya.,1.1429,0.725
+566,"b MFONYINI NWƲ NDWOKƆ: Baalɛ be ituaa numɔ wɔ dɩka be mɔɔ bɛyɛɛ ayiyialɩyɛ na ɩtɩ kɛɛ odwodwudialɛmaa bɛkãã yɛ nwʋ awohwi ndwokɔ, akʋ̃ iɣike dasɩlɛlilɛ hwiili be na bekilehilee nɔhʋanlɛ ndwokɔ yɩ.","O jọrọ m bụrụ ya na-efunahụ nụ nụ, ya nwe kee, baara ha mba na ọ dịka ọ bụ mụ kpeere ya ya arịrị na etu kee jọrọ diara mụ a, baka ya nwe wụsị njọkọ. Akụkọ nke dị asaa na-ere ahịrị bekee na-ekwu na ọ wụ arị njọkọ ya.",1.4545,0.7688
+567,Kezimɔ ohunɛ kɔhʋla koluwa yi munwa ndwokɔ nɩɩ yɩ nyɛlɩyɛ zʋ keli yɩ yɩ nni.,Kedu ka ọhụrụ kọfịrị kwuru wa imụọ njikọ nri? Enyịrị azụ kịlị eyịni.,1.0,0.6721
+568,Mɩnla ɔhʋanɩ zʋ yɛ Gyisɛsɩ manlɩ yɩ adʋwavʋlɔ yɩ nwʋnlɩ Gyehova yi dima a?,Mụ na nwunye m jiri obi ụtọ na-adịkọ n'otu n'Jehova dị mma.,1.0,0.7167
+569,GYEHOVA YƖ BƲTAYƖ YƐ LƐ KƐƐ IKEZIYEZIYE YƐ NƖƖ YƖ AVINLI,Jehova bụ taa ga-elekọta ike gwụrụ gị.,1.0,0.7391
+570,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Yọkụ bụ ihe a na-eme azụ̀ na-adịghị ama bekee.,1.5,0.8108
+571,"a Wɔ odwokɔ eyi nu nɩ, yɛkɛhã yɩ dɩkɛɛ mɔɔ ohunɛ yɩ yɛ ikila ponogɩlafi a. Naasʋ̃ egyinalɛzʋ-ndwokɔ mɔɔ ɩwɔ nu nɩ, ɩkɔhʋla ɩkɔwʋwa ohunɛ sʋ̃ mɔɔ yɩ yɩ kila ponogɩlafi nɩ.","Aha ka m ji kwuo okwu a, ọ bụ okwu ihu na ihu ya karịrị ka mmadụ hụ na ị na-ekiri pọrnọgrafị. N'agbanyeghị na ọzọ m ji kwuo mọọ ihu na mmadụ ekweghị ịkwụsị mọọ na-ekiri pọrnọgrafị. Aha ka m ji kwuo ezi.",1.3125,0.9167
+572,Wu munwalɩyɛ,"Ịnchịcha mị arịị, o jọkwa ịzala. M na-arịọ ya nwaarụ ka osunzu ma fụrụ Paradise ịnwa.",8.0,5.5455
+573,ɩava Gyehova iali bɔmʋnlɩ wɔ yɩ ɛbɩlawɔlɛ nu a?,Il y a va du vélo bleu et blanc le long de la rue.,1.5556,0.8421
+574,MMƖLƖ MƆ YƐPƐƐ AGYIAHƲNLƖ NU NWƲKÃVƲLƆ,"Mụrụ mụ ya pụta, a hụrụ m nụ ka a vuro.",1.8333,0.7273
+575,Kezimɔ Yenyia Gyehova Yɩ Ɔlɔlɛ Zʋ Mfasʋ,Kedu ihe mere i ji hụ ihe niile a n'ụzọ dị mfe?,1.7143,0.8485
+576,Kɛ ɩkɛyɛ na asafʋ nu mbanimbani bɛazumazuma Gyehova yi kunlumiyɩbalɛ yɩ a?,Keƙe na safrum mambani ba zunzuma juyewa kurum ba ya baleya.,0.9167,0.4677
+577,a Kila vidiyo mɔɔ ɩwɔ jw.org zʋ mɔɔ ise Mɔɔ Wʋ Atipɛnɩmaa Bɛkã—Bayɩbʋlʋ Ɛɣɩngalɛ .,"Azịka na-ejikwa isi, kụọ vidiyo na www.jw.org ma isi ma ọwụtipenụ abụka Baịbụlụ Ngịlị. Azịka na-ejikwa ezi",1.1429,0.8923
+578,Dwoobu Buuku Yi Kɔhʋla Kɔwʋwa Yɛ Mmɩlɩ Mɔ Yetuu Fʋlɔ Nɩ,Jọ bọbọkị kọrọ kọ wụọ ya mụrụ mụọ ya tụfụrụ nị.,1.0,0.7333
+579,e MFONYINI NWƲ ODWOKƆ: Eliyema baalɛ be ɩyɛɛ yɩzayɩ yi dɩyɛzumanlɛ na ɩpɩbɛlɩ dasɩlɛ mɔɔ ikile kɛɛ yɛda awielɩyɛ mmɩlɩ yɩ nu nɩ nu. Eyi hã yɩ ma ɩvʋlɔ yi anlima baalɛ na idii yi dasɩlɛ.,"Mfuene mụ jụọ gị ka m ga-eme ya, ị dị mma? Baare bịa ị ga-eza ị dị mma na ebe baare a sị m ekweghị ka ya daa yiri ya mmiri n'ọnụ. Ịghọtaghi m ma e nwere ya na baare na ị dịghị asịrị.",1.1389,0.7211
+580,Mɩnla ti mɔɔ Gyisɛsɩ zili pɔkɔ kɛɛ ɩkɔzʋ̃mɩ Gyehova a?,Mụ na ụmụ m dị njikere ịziri ndị ọzọ ozi Jehova.,1.1,0.7209
+581,YƐWƆLƖ YƐ ƆZƲ̃MƖNLƐ NWƲ BANƖ WƆ MMƐLA ƆHƲANƖ ZƲ,"Yaawa, yaa zumla wãnne wã m'baane wã malengã n zĩng.",1.1111,0.7895
+582,Ndwokɔ Mvʋlɔ Mɔɔ Ɩba Ɔwɩɛnɩlɛ Aɣanɩ Yi Nu,Ịjụkwaa ụfụlọ m ebe omenaala n'ịṅụ?,1.0,0.8235
+583,Mɩnla mmɩlɩ nɩɩ dɩka yɛ awʋvʋlɔ kɔhʋla kehilehile bo nnwuakula Gyehova yɩ subanɩ nwʋ dɩyɛ a?,"Mụ na Malene daka, ya bụ nwunye ya nke kacha ehihie gbaa nwaanyị ya.",1.0,0.7105
+584,Yɛ ayɩfʋlɔ eɣile,"O jụkwa m ma ọ bụrụ na e nweghị isi ya, ya arịlọrọ.",4.3333,2.3571
+585,BƐZABƐ MƆƆ BELÉNYIA NNWƲANLƖ WƆ GYEHOVA YƖ EƔILE YI NU,Bịa zaba mụ bido ya nwaa nụ Jehova ịhere inu.,1.0,0.5333
+586,BAYƖBƲLƲ NU FƲLƆDULƐ ƖBƲWAA MMENII SƲ̃MAA,"Byblonus, Philadelphus e Buomenisoma.",1.0,0.6
+587,yɛaziyeziye yɛ ahʋnlɩnɩ yɛama Ɛhakɛlɛlilɛ yɩ a?,"Yes, yes, yes, I am only a male.",1.0,0.675
+588,"Sɛ Wʋ Nwʋkãvʋlɔ Kila Ponogɩlafi a, Mɩnla Yɛ Ɛkɛyɛ a?","Se un cavolo crea pornografia, ma l'hai creata?",1.0,0.6098
+589,YÉZI MMƖLƖ MƆ AWIELƖYƐ YƖ KƐƔA,Yanzu muna a yauri ayi kara.,1.0,0.76
+590,Kɛ ɩkɛyɛ na yɛahile kɛɛ yenlu yɛ nwʋ a?,계계 내 여기 계 용리 영화,1.0,1.0
+591,Mɩnla ti mɔɔ wʋáhila mfonyini mɔɔ ɩwɔ Ɔwɩɛnɩlɛ Aɣanɩ eyi nu nɩ dɔkʋ̃ sɛ ɛkɛhakɛ ozumalɛdɩyɛ mɔɔ ɩwɔ numɔ nɩ a?,"Na nkwụsị mụ ahụrụ ihe mụ nwere ohere ịna-enye ndị niile dị ndụ, sị eka ha ka ozigbo ha ji mụ ewe nụ mụ n'anya.",1.1905,0.7841
+592,"Mɔɔ ili bɔmʋnlɩ, mɩnla nhyɩhyɛlɩyɛ yɛ Gyehova yɛlɩ na ɩawʋwa yɛ ma yɛahʋ̃ yɛadiyia tanɩ na yɛayɛ mɔɔ ɩsɔ yɩ anyɩ a?","Meyɛɛ luomane, menim sɛ Sɛrai yɛ Yehowa yere na yaawo ayɛ ma yaahu ye diɛ taane na yaayɛ mu ɛsɔnyane a.",0.8182,0.5275
+593,a Bɛzɩnza anlima yɩ be.,"Aka m ji ejikwa ya si, biko zite m ya ebe a. Aka m ji ejikwa ya zi.",3.4,2.1667
+594,MƖNLA TI MƆƆ GYEHOVA KILA ƆHƲANƖ KƐƐ YƐKƐLƖKƐ A?,M leti m ma ọ bụrụ na ọ ga-adị mma ịkele gị.,1.3333,0.7436
+595,Asʋ̃ mu mmusunwamaa anzɛnyɩɩ mʋ ɔhɔnwʋmmɔ hã kɛɛ kezimɔ mutwi kaalʋ nɩ dide bɛ a?,"A sị na mụ sọrọ mụ a, nzọụkwụ ọmụma nke a ga-esị mụ mụchuo kara na didibaa.",1.1333,0.7077
+596,"Mɩnla ti mɔɔ sɛ ekilehilee a, nwʋmɔ hyinyia kɛɛ ɛfa Nyamɩnlɩ Odwokɔ yɩ edi egyima a?",Mmetụta mmetụta uche siri ike na-emetụtakwa ihe ịjọkọrọ ịdị na ya.,1.0,0.8209
+597,Mɩnla ti mɔɔ ɩsɛ kɛɛ yɛkɔ zʋ yɛbɔ yɛ nwʋ banɩ a?,Mmanụ ntụ bụ ihe nke ya kọzọ ya gba ya ụgbọ ala ya.,1.0833,0.75
+598,GYEHOVA Ɩ NƖƖ YI MMENII DI YI PƐPƐƐPƐ WƆ NNƐ,Jehovah ni meni di pe pe wonne.,0.9,0.4857
+599,"ASAFƲ NU MBANIMBANI, BEHILÁ ASAFƲ YƖ BƲWƆ","Asafulụm bem bem ni, kpehirie asafo Igbo.",1.0,0.5588
+600,"Mɩnla ɔhʋanɩ zʋ yɛ abusunwawɔlɛba mɔɔ yɛ nɩɩ Gyehova nyia nɩ, ɩma anyɩnlɩlelɛ ba agyiahʋnlɩ nu a?",Mụ na nwunye m gara bụsọ ụka ụbọchị ahụ mụ na Jehova nyere ịma ihe n'ebe ọrụ ahụ nụ.,1.1176,0.7089
+601,Suma kezimɔ Kilisinyianii mɔɔ yɩ nwʋ wʋkwa dwɩ̃ na ɩyɛ yɩ dɩyɛ ma ɩ nɩɩ Nyamɩnlɩ yɩ apɛdɩ yiyia na isizi abɔkɔ mɔɔ nɣɛlɛbɛ wɔ nu.,Sumaa kɛseɛ kyerɛne mɔɔ ɛwɔ kwanu dɛn na ɛyɛ edwɛma ɛne ya amaneɛ apɛde yia na esisia abɔkɔmɔ nrelɛbewonu.,0.8846,0.5196
+602,Yekehila kezimɔ yɛkɛhã nɔhʋanlɛ nɩɩ kezimɔ yekehilehile nɔhʋanlɛ yɩ wɔ ɔhʋanɩ mɔɔ mmenii kenyia ɔzʋlɔ mfasʋ zʋ.,"Ịkịrịkị zụọ ya ka anụ ahụrụ, nịkịrịkị zụọ ya ka anụ ahụrụ bụ ọhanụmụ nịkịrịkị ya zụọ mfasụ.",1.0588,0.7447
+603,"e MFONYINI NWƲ ODWOKƆ: Nazɩlayɩnii be gyĩ aliyia be yɩ sʋlɔ ikilaa yi busunwanii be mɔɔ ɩdɔ yɩ paa yɩ ayile. Iluwa ndamɩ mɔɔ ɩhã Gyehova nɩ ti, ɩlɔ́kʋla ikeɣike funli yi.","Ujụ kọmọ ikpere ụkwụ gị nịịle nekengakene. Na azịza ịbụ eziokwu, ịkwesịrị ịbụ onye na-adịghị anọchi anya Jehova n'ụzọ na-ezighị ezi.",1.0,0.8134
+604,MƖNLA YƐ ƆKƆHƲLA KOZUMA WƆ MMENII EYIMMƆ KƐ A?,"Mana, ya kọrọkọzịma ụmụ nịịlị ịma ka.",1.0,0.6216
+605,OZUMALƐDƖYƐ MƆƆ YENYIA WƆ YƐ ƆZƲ̃MƖNLƐ EGYIMA YƖ NU,"Ozumelu di ya mo, ya inya wa ya ozumelu ji me nu.",1.2222,0.5238
+606,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova wʋwa tanɩyɛlɛmaa be ma bonlu bɔ nwʋ a?,"Mụ na nwunye m bụ Jehova bụ́ ndị àmà Jehova, bụrụkwa di na nwunye.",1.0769,0.7885
+607,"Mɩnla ndwokɔ yɛ bebizia onlumanlɛmaa yɩ a, na mɩnla ti a?","Mụ enweghị ike ịbịbịzịrị malite echi a, na mụ na etiti a.",0.8182,0.7111
+608,Mɩnla Yɛ Ekeɣizia Bɛ a?,"Aka anyị dị gị n'ọsị, mụ na ya ka ịzaba.",2.0,1.3333
+609,NYAMƖNLƖ NWƲ BƆLƆ BƆ YƐ NWƲ BANƖ,Ya mere ọ bụ ọgbọ ya ụmụ nwanyị.,1.1429,0.7692
+610,"Sɛ ɔdwɩnɩndwɩnɩ mpayɩ azʋlɔtʋ mɔɔ ɩwɔ Bayɩbʋlʋ yɩ nu nɩ nwʋ a, mɩnla mfasʋ yɛ ekenyia a?","Nna m, a na m kpọ gị n'ekwentị m taa. Sọ jụọ m jụọ n'ihe mere i ji kpọ m taa.",1.2353,0.8429
+611,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova wʋwalɩ Hɛzɩkaya a?,Mana Hanọsị Jehova gwara Hezekaya.,1.0,0.4865
+612,Fa wʋ adwɩnɩ siye ɛ nɩɩ Gyehova avinli abusunwawɔlɛ zʋ,Mfu e na-ekwe eri amabaara ekwe ịra mọ ekenge e Baibulu. Mfu e na-ewju ko sị fọwa ajụrụ sị ya na Jehova efuna ya busu wa warọzụ.,2.7,1.6667
+613,Awʋvʋlɔ—Bɔwʋwá Bɛ Mma Ma Bɛhyɛ Be Dedi Nu Ɛzɩzɩbɛ,"Awu, lo, bowa ba mama ba sebele di nnete.",1.0,0.575
+614,SIANTI MƆƆ IHYINYIA KƐƐ ƐMA AWIELƖYƐ YƖ BƲWA WƲ ADWƖNƖ NU,Sɛntimɛnti a ɛkɛɛ ɛma awielie buaa w'adwenenu.,0.9091,0.4255
+615,KEZIMƆ DWOOBU YƖ ƆHƆNWƲMMƆ ASÃ YƖ DULI YI FƲLƆ,Kedu mgbe ị bụrụ ezigbo mmadụ ị fụrụ?,1.0,0.7632
+616,AHYA,आशा,1.0,1.0
+617,"Bɔnwʋ́ yɩ kɛɛ ponogɩlafi hilalɛ kɔhʋla kɛhalɩ abiye kɛ, na bɔnwʋ mɔɔ abiye yɛ a ɩkɔhʋla kɔwʋwa yɩ sʋ̃ ma ikeyiaki.","Bọọwụ eke, pụrụgraphị hụ rale kọọwụ ra ka haalụ abịa eke, na bọọwụ mụ abịaa ya ikọọwụ ra ikọọwụ ụwa ịsụ ma eke ya kị.",1.0952,0.6111
+618,Mɩnla yɛ ozuma wɔ Maakɩ yi ndianwʋ yɩ nu a?,,,
+619,"Sɛ yɛyɛɛ nhyɩhyɛlɩyɛ mɔɔ yɛkɛva kehila yɛ nwʋ eɣile be a, mɩnla yɛ ɩsɛ kɛɛ yesunzu nwʋ a?",Onye isi anyị si na ọ ga-abụ echi ma ọ bụ echi nke ọzọ anyị ga-alọ. Mụ na ya esighi je sunzu ụra.,1.2778,0.7857
+620,INYIANLƖ ANWƲLAZƲ KƐƐ ABIYEMMƆ KEDIYE,Ihe a na-akọ na azụké ebe mụ na gị dị.,2.0,0.697
+621,"Twé wʋ adwɩnɩ kila. Kila kɛɛ ɛkɛhakɛ numɔ ndwokɔ mɔɔ elékila kɛlɛta yɩ zʋ a, owie yi a kila kɛɛ ɔhʋla ɛhakɛlɩ yi munwala a.","Chọọ ajụjụ ọnụ. Kpọọ ka a ka na-emụta ihe gbasara ụlọ ọrụ ahụ. Owie ya, kpọọ ka o wee ka na-amụ ala.",0.96,0.7708
+622,KƐ OKOWUWA KEZE A?,Coco work is a,0.75,0.6429
+623,MƖNLA ƆHƲANƖ ZƲ YƐ GYEHOVA Ɩ NƖƖ MMAALƐ DI A?,"Mnaoamini sifa ya Yehova, enemalidia.",1.0,0.5429
+624,Ma wʋ ɔzʋ̃mɩnlɛ nwʋ hyinyia wʋ wɔ wʋ ɛbɩlawɔlɛ nu.,Mawu zuna m'wushiyan wa ble wɛlɛ nu.,0.9,0.5641
+625,MƖNLA TI MƆƆ ƖSƐ KƐƐ YƐDƲDƆ YƐ NWƲ YƐ NWƲ A?,M letụọ m aka ya dọdọọ ya nwanyị ahụ.,1.0,0.7273
+626,"YƐYƖ GYEHOVA YI DIMA AYƐLƐ A, ƖMA GYISƐSƖ ANYƖ DE","Ya ị bụ Jehova dị mma nye anyị, ịma jijiji sị anyị dị.",1.3,0.6154
+627,Mɩnla mmɩlɩ paa yɛ yekehyinyia Gyehova yɩ mmʋwalɩyɛ a?,Mala marapá ye kishi jo ve mu alia.,1.0,0.6444
+628,Naamanɩ a?,Na manya. Keke na ya la di nu le li de ke,6.0,2.875
+629,FA WƲ ADWƖNƖ SIYE NYAMƖNLƖ YƖ APƐDƖYƐLƐ ZƲ,Fawaju n'isi enyiam na-apedi y'alizo.,1.0,0.4857
+630,"Sɛ ɛlɛ ndwokɔ eyimmɔ edii egyima a, fa wʋ adwɩnɩ kɔ deeti yɩ zʋ. Ndwokɔ mɔɔ ɩdɩ fʋlɔ paa nɩ wɔ sʋlɔ. Yɛɛ ɔkɔ yɩ tʋ paa a, ndwokɔ mɔɔ ɩwɔ ɛkɛnɩ nɩ ɩhyɛ na ebiye a, ntɩyasɩ mɔɔ ɩwɔ numɔ nɩ bɛzɩnza yɩ.","Saa na m jụrụ gị maka di na nwunye, fa wajuru gị ajụjụ ndị ọzọ. M jụrụ gị ma ị dị fụrụ paani wụ sụrụ. Ya bụ kwa etu pa a, m jụrụ gị ma ị nwere ike na-eshe na ebe a, n'ihi na ọtụtụ mmadụ na-abịa ebe a.",1.0227,0.7651
+631,Bɛmá Yɛhyɛ Yɛ Nwʋ Yɛ Yɛnwʋ Ɛzɩzɩbɛ Wɔ Asafʋ Ayiyialɩyɛ Tʋ,Bama yanzu zube wasa fuya liyato.,1.0,0.6383
+632,Mɩnla ti mɔɔ nnɛ yɛ ɩsɛ kɛɛ yesuma kezimɔ bɛda mmeliyema ɔlɔlɛ nɩɩ ngyɛvʋlɔlelɛ ali a?,"M'let m'onnè, yé sé ka yé soumaké zòt ba dé milya malolè, néanmwen zòt pa ka wè sa.",1.125,0.6143
+633,ELELƐDƖYƐ YƖ MA YƐNWƲ YƖ KƐƐ GYEHOVA WƆ NWƆKƐNWƲNLƐ,Ihe letara manya nwoke Jehovahụ nwoke a nwere.,1.0,0.6279
+634,BƲWÁ BƐZABƐ MƆƆ BEYIAKI DƖYƐZUMANLƐHƆLƐ NƖ,Bụa bazaba mụ bụ onye ịkịdị ezumala ọrụ nị.,1.5,0.6216
+635,Mɩnla ɔhʋanɩ zʋ yɛ Gyisɛsɩ bʋwa yɛ ma yede yetiã numɔ kɛɛ Gyehova dɔ yɛ a?,"Muma onge gi ji sasbua, emide tan make Jehova doya.",1.0,0.6034
+636,Dɩyɛzumanlɛ eyi kɔhwɩ̃ adwɩnɩ keziye nninyeni mɔɔ ɩhyɛ yɛ ɛzɩzɩbɛ ma yɛfa ɔnwʋmɔ ɔhʋanɩ bela mɔɔ yenyia nɩ yɛkamvʋ Gyehova yi dima nwanzanwanza nɩ zʋ.,"Deɛ yɛn mmara kyerɛkyerɛ akyerɛkyerɛfoɔ ne animuonyam a ɛsɛ sɛ yɛbɛma yɛn fa, Ɔmɔnhwan bɛla mɔ yɛn yɛn ni ya ka mvu Jehovah di ma nwanza nwanza a yɛn zu.",1.2,0.5242
+637,Mɩnla ndwokɔ yɛ Nyamɩnlɩ hã mɔɔ ɩma yenyia anwʋlazʋ kɛɛ yɩ anʋhʋba munwala kɛɣa nu a?,"Mụ na di m kwere ya nkwa na anyị agaghị ịma ya ụra zụta ya, ya na ụmụ nwanyị ka ha ga-anọ.",1.375,0.7536
+638,b Bɛzɩnza anlima yɩ be.,"Aja kani jo ke si, ba zan zanu maibi.",1.8,1.1667
+639,"Sɛ abiye mɔɔ bɛyɩ yɩ wɔ asafʋ yɩ nu ba dɩyɛzumanlɛ a, mɩnla pɔkɔ yɛ Kilisinyianii bela kegyina yi tiwʋwaba zʋ kezi a?",Sabi gị bụ onye ọsụ ụzọ bịa dị izu ụka a? M na-ajụ ka m wee bịa kelee gị na ụbọchị ụka a.,0.9565,0.7312
+640,Kɛlɛta Be Mɔɔ Ɩkɔwʋwa Yɛ Ma Yekegyina Pindinyii Kɔhɔ Kɔbʋmɩ Awielɩyɛ,Kedu ka anyị nwere ike iji na pịndị ka ọkọbụ m ewelie?,1.0909,0.6897
+641,a Bɛzɩnza anlima yɩ be.,Azu ka m jụọ ka e si bee zụrụ ya ebe? Azu ka m jụọ ka e zi.,3.6,1.8333
+642,GYISƐSƖ ILUWALƖ ABƆDƖ ZƲ IHILEHILELI YƖ ZƖ NWƲ DƖYƐ,"Jizọs ruo ala ya, kụziere ha n'ụlọ nzukọ ha.",1.0,0.7209
+643,"“ Sir , Mi tikyia yɩ se mɩhɛlɛ́ kɛlɛta mɩva mɩba kyɛbɛ wʋ, naasʋ̃ gyɩsɛ ede tiã numɔ kɛɛ ekilehile awohwi ehilehilelɛ ansaana.”","Si, mị dịcha si mee la kịta mụwa mbacha bụ na asụ dịsị dịtụrụ mụ ka ekerehịrị ụsụhịhị la nsogbu.",1.0,0.6429
+644,Kezimɔ yekeli adwɩnɩ anwɩ̃ anwɩ̃ mɔɔ ɩkɔhʋla kɛhã ɔzʋ̃mɩnlɛ mɔɔ yɛfa yɛma Gyehova nɩ zʋ.,Kedu ka ị mere? Ọ dị mma. Ịkoreka? Ọ dị mma. Ị ga-efe ya mma Jehova n'izo.,1.1333,0.7286
+645,Yɛkɔnwʋ nninyeni be mɔɔ ɩsɛ kɛɛ eliyema benyia be twu nwʋmɔ ansaana ɩavata kɛɛ ɩkɔzʋ̃mɩ kɛɛ asafʋ nu ebani.,"Ya kọnwụ yị bụ mụọ nsọ karịa mụọ ndị ọzọ n'ime ụmụ mmadụ, anụ na-avata ka ekozumụka a safụlụ gbaani.",1.0526,0.6437
+646,"Sɛ ɛkakɛ kɛɛ Gyehova yɛ lɛ tɩyasɩvʋlɔ Nyamɩnlɩ yɩ a, mɩnla ɔhʋanɩ zʋ yɛ eyi kɛhyɛ wʋ ɛzɩzɩbɛ a?","Sɛ krakra krakra, Jehovah Yeate asɛm vɔn nyamle a, mɔɔ hɔanun zu ye eyi kesha ozizi ba.",0.8421,0.6
+647,Kezimɔ Enyia Gyehova Yɩ Tanɩfakyɛ Zʋ Mfasʋ,Kez muya yo'l va tanifa chiroyli fasl.,1.0,0.5833
+648,BƆWƆ́ NUMƆ BEHILA GYEHOVA YƖ ABƆDƖ KƐƐ ABUSUNWA,Bowan mobeka Jehova ya gbodika ebusua.,1.0,0.4615
+649,"“NYAMƖNLƖ ƖDƖ BAABA SƲ̃MAA, AKƲ̃ SƲ̃ ƖNWƲ NWƆKƐ”",Ya mere ndị Baba Sọma akụsọ enwu ọkụ.,1.0,0.5143
+650,MƆƆ ADASAMAA TANƖYƐLƐMAA ƖYƐLƖ WƆ ƆWƆKƖ NA BƐAZƆ GYEHOVA ANYƖ,Madu asaa taa n'ala ma ayiri wo owoke na baazu Jehova anyi.,1.1,0.4423
+651,BAYƖBƲLƲ NU NKƆMƖHYƐ DƖ NƆHƲANLƐ,Baịbụlụ nụkwara m si adịghị nwụọ anwụ.,1.4,0.8214
+652,Mɩnla ɔhʋanɩ zʋ yɛ yɛkɔhʋla kozumazuma Gyehova yi subanɩ ngɩnlɩma yɩ a?,"Mụ na nwunye m zụrụ ya, yikọọ hula ka o zuo nzọụkwụ Jehova, Jisọs Kraịst na mmụọ nsọ.",1.5,0.7119
+653,c Kila vidiyo mɔɔ ise “ Horst Henschel: Gyehova Yɛ Ɩdɩ Mɩ Banɩwɔlɛvʋlɔ Ɛzɩzɩbɛ a. ”,"Aha Chineke nyere anyị sị, ""Klaudịọ Mọesị, hụsịrị ịhụnanya Jehova nyere mụ na nwunye mụ zịba, aha Chineke nyere anyị zị.""",1.5,1.2344
+654,Kɛ ɩyɛ mɔɔ yɛnwʋ kɛɛ Gyehova dwɩnɩ yɛ nwʋ a?,Kedu ka ị mere? Ọ bụkwa gị bụ nwa?,1.0,0.8235
+655,"Ɩkɔwʋwa yɛ ma yɛkɛdɩ mɔɔ yɛ nwʋ mɔɔ yekonlu nɩ tʋ kile, sianti mɔɔ nwʋmɔ hyinyia, nɩɩ kezimɔ Gyehova wʋwalɩ mmenii be ma bonlunli bɔ nwʋ nɩ.","Ịkowaya mayeka demoyawu ụmụ iko unu na-itukle, sị ntimụ ụmụchi a, nke izizi mụ jekwa ụwa ụwa ịmenụ be ma bụ unu na-igba nwanyị.",0.9259,0.5856
+656,Bɛlɛ nnuno mɔɔ bɛkɛva WBBR antenna bekeziye zʋlɔ nɩ besiyee kɛ,"Ujokoma ịwu ụfọdụ ndị nwụrụ anwụ sị, belụsọ na ọ bụghịkwa WBB R. Anthan Bekezie ziri ozi na ebe sị ike, ụfọdụ ndị nwụrụ anwụ jụkọzị.",2.3636,1.4808
+657,Sɛ Eyiyiaa Ndwokɔzɩzɩbɛ a Gyehova Kɔwʋwa Wʋ,Chineke nyere m ka m wee baa Jehova kowaa.,1.2857,0.7027
+658,"Mɔɔ ɩkɛma ɛkɛhyɛ anwʋlazʋ mɔɔ ɛlɛ kɛɛ Gyehova dɩ Ɛzɩlɛ mɔɔ ehyinyia nu ɛzɩzɩbɛ nɩ, asʋ̃ sa ɔkʋla fa buuku eyi yɛ wʋzawʋ wʋ dɩyɛzumanlɛ anzɛnyɩɩ esiã ɛkɩnga yɩ dɔkʋ̃ a?","Maka emeka, ọ ga-adị m mma ịhụ gị n'oge na-adịghị anya. A sị na ọ bụghị akwụkwọ ị gụrụ, olee otu m ga-esi mara gị? E siri ike m ga-adọpụ ya.",1.0,0.797
+659,Asʋ̃ Mɩ Mpayɩwɔlɛ Kile Kɛɛ Mubu Gyehova a?,"Aka na-ejikọ sị, asọmpi a nwere ike imubuje Jehova.",1.125,0.8485
+660,Kezimɔ Ekenyia Marginal References Zʋ Mfasʋ,Please make a marginal references of John Faso.,1.0,0.4474
+661,d Nathan H. Knorr yɛ nɩ idi ye egyima yɩ anyunu wɔ ɔzɔ mmɩlɩ yɩ a.,"Azi ka m na-eji ozi, na etu ịchọrọ ịnyị di ị ji mee ya na ụwa azụmahịa. Azi ka m na-eji ozi.",1.375,1.0816
+662,ALƲBƆ YƖ MUNWATĨĨ DƖ A.Y.M. nu,Alabai muetie de ansa na yɛmmere nu.,1.0,0.9091
+663,"Sɛ mmenii mvʋlɔ ba yɛ dɩyɛzumanlɛ tʋ a, kɛ ɩkɛyɛ na yɛama bɛ anyɩ iale a?","Sɛ menim nwoma bɛyɛ dɛn zumaa la 3 a, kɛkɛ yɛn na yɛamabanyɛ la.",0.875,0.3929
+664,"Mɔɔ ɩtɔ zʋlɔ anwɩ̃, mɩnla ɔhʋanɩ zʋ yɛ ihile yɛ kezimɔ yɛzʋ̃ yɛ ahʋnlɩnɩ nu yekonlu yɛ nwʋ a, na mɩnla ɔhʋanɩ zʋ yɛ ɩwʋwa tanɩyɛlɛmaa be ma bɛzɩnza a?","Mụ etozuru oke, m na-anwa n'ụzọ ya ikiri ka ezinụlọ ya kwuru ya nwa, na m na-anwa n'ụzọ ya ịwụta n'ihe lebara ebe ma bịzị nza.",0.9667,0.6034
+665,MMƖLƖ MƆ YƐYƐƐ NHYƖHYƐLƖYƐ MƆƆ ƖKƆWƲWA YƐ MA YEKEHILA YƐ NWƲ MMƖLƖ MƆ YƐYƐ MBANIMBANI NƖ,"Mmeri mụ ya ga-eje si ebe mụ nọ kọwaara m ihe nke a pụtara ya onwe m, mmeri mụ ya ga-emebem n'ini.",1.375,0.7534
+666,Pɔkɔ Mɔɔ Mmenii Mvʋlɔ Besizi,"Aha, enye bu kọsị, pokọmụ mụ na ụnọ ọgwụ bịara.",2.0,1.2917
+667,ƖSƐ KƐƐ YƐKƆ ZƲLƆ YƐKÃ YƐ NWƲ AZƖ,E saka ya kọzụra ya kanyan nwazi.,1.0,0.6154
+668,"Sɛ ɛyɛɛ ɛbɩbɛlɛnu wɔ elelɛdɩyɛ yɩ nwʋ a, sa ɔkʋla pɩbɛ ndwokɔ mɔɔ ɩyɩ ndwokɔɣizialɛ eyimmɔ munwa:",새해 복 많이 받으세요.,1.0,1.0
+669,“BEYIAKÍ DƖYƐ BELA NU BƐMA NYAMƖNLƖ MA ƖVA YƖ ƐYA NƖ IDUWA ENII NƖ KAKƐ”,"Feya, e ko rakka maye ke dubu mo idde, e ka zaka ya lele.",1.0,0.8393
+670,"Ɔzʋmɩ Ɛdɩnɩ toolo yɩ nu nɩ, Setanɩ hɔ zʋlɔ zɩkɛ Nyamɩnlɩ yi dima","Ụmụntakịrị na-arụ ọrụ kịlịka, ọwụlụ bekee na-akpọ ""fitting day"". Ụmụntakịrị nwoke sị ọzụzụ ha dị n'ụlọ akwụkwọ na-esetani ha ọzụzụ azịka na-amụghị idi ma.",1.8462,1.9608
+671,Mɩnla yɛ Pɔɔlʋ hanlɩ hileli Kɔlɛntɩ asafʋ yɩ kɛɛ bɛyɛ́ wɔ benyia yɩ mɔɔ iánlu yɩ nwʋ wɔ yɩ tanɩ yɩ nwʋ nɩ nwʋ a?,Mana ya pụrụ ịhanịrị kwaịnta asaa fọrọ nke nta ka ọ bụrụ otu izu tupu a malite ịgba ọgwụ mgbochi ọrịa.,1.0,0.814
+672,"Beziyeziyé bɔ nwʋ bɛma dasɩlɛlilɛ. Ebiye a, sa bɔkʋla bɛyɛ kezimɔ bekeli dasɩlɛ nɩ nwʋ yekile.","Bịa zie zi bọmbụ ma dasịlịlụ ya. I bia, sabọkwa be ya kee zi mụ be kee lụ dasịlị n'ụdị ị chọrọ.",1.375,0.5132
+673,KƆ ZƲLƆ NYIA NYAMƖNLƖ ODWOKƆ MƆƆ ƖDƖ NƆHƲANLƐ YI NU DEDI,Kozie na ya ṅamịrị jikọọ mụ na ya dị na nwaalị enu dede.,1.1818,0.6739
+674,MƖNLA YƐ ƖWƲWALƖ PITA MA ƖHƆLƖ ZƲLƆ ƖZƲ̃MƖNLƖ GYEHOVA A?,Manna ya walle pita ma ya halla zuri jehova.,0.8,0.5556
+675,Mɩnla yɛ ikile kɛɛ abiye wɔ abʋtalɩ a?,Mlayi klike abịa wa agbataala.,1.0,0.5
+676,MƖNLA YƐ ELELƐDƖYƐ YƖ MA ƆNWƲ YƖ WƆ . . .,Mwen vle di ou mwen renmen ou.,1.0,0.8571
+677,Kɛ ɩkɛyɛ na yɛawʋwa ma ɔkʋ̃yɛlɛ ɩawʋwa yɛ avinli a?,Kedu ka ị na-eme? Ọkụ eletrik adịghịkwa.,1.0,0.8
+678,"Okuwu be mɔɔ bekila bɛzabɛ mɔɔ bɛ alʋbɔ hɔ anyunumi nɩ kile kɛɛ, ɩsɛ kɛɛ bɛzabɛ mɔɔ bɛ anyɩ dɩ bizia bɔ nwʋ ndwokɔɣizialɛ eyi mɔɔ ilili zʋlɔ yɩ:",Ụkụbịmọbị klaba ziri ezi bụ ihe dị mkpa na ịme klaba. Ịsị klaba ziri ezi bụ ihe dị biza bụ njikọ ụzọ ị ga-eme ya.,1.0,0.7281
+679,"Sɛ Wʋ Alʋbɔ Hɔ Anyunumi Po a, Sa Ɔkʋla Bʋwa Wʋ Asafʋ Yɩ","Sewa bụghị mpa, sọọkụla bụghị asaụfụ.",1.0,0.6429
+680,mɩnla ti mɔɔ íni kɛɛ obu wʋ anyɩ kua wʋ nɣanlɩdɩlɛ zʋ a?,Mụ na ụmụ nke ụbụ anyị kwawaa na Delizia.,1.0,0.5581
+681,"Sɛ Wʋ Padi Kolɔ Po a, Sa Ɔkʋla Ɔkɔ Zʋ Sʋ̃mɩ Gyehova","So pe di kọlọpaa, sọkọla kọsọ si mi Jehova.",1.0,0.4737
+682,"c MFONYINI NWƲ ODWOKƆ: Mmɩlɩ mɔ abiyemmɔ benyiaa mmeliyema bɔ nkɔmmɔwɔlɛ zʋ mfasʋ nɩ, eliyema benyia be yɩzayɩ nkʋ̃ ɩdɩ yɩ nwʋ.","O jikwa m ekele diri mfo ndị niile na-ege m aka e. Amaghị m ma ebe mụ bụ onye mere ya magbaghị mma walazị m fasụ nị, erị emebeghị ebe ahụ kwa edem ụ.",1.5455,0.8137
+683,Benyianlɩ Bɛ Mpayɩ Nwʋ Munwalɩyɛ,"Aka na-ejikwa si, binyere ba mpaghara ụmụali.",1.4,1.0357
+684,SƐ OSŨŨ ILUWAKƐƐ ABIYE MƆƆ ƆDƆ YƖ ƖYƖ WƲ ƖMA A GYEHOVA NWƲ YƖ,"Sɛ osum, iru aka ebi mọọ ọdịdị eyewụ yọ ma Jehovah nwe.",0.9286,0.5625
+685,"Sʋwá Mɔɔ Ɩsɛ Kɛɛ Ɔsʋwa, Na Tʋ Nɣalɩyɛ Yɩ Kua","Sua maysaka sua, na tunali ekwa.",0.9,0.5882
+686,"Sɛ mmenii iáhile yɛ baabayɛlɛ nwʋ anyɩnlɩzɔlɛ po a, mɩnla ti mɔɔ yɛ anyɩ kɔhʋla kɔhɔ zʋ kele a?",Sị na mụ na gị abụọ bịara n'anya kọrọ kọọzụkela.,1.0,0.7733
+687,"DƖKA BELA MƆƆ YƐWƆ NƖ, NYAMƖNLƖ DWƖNƖ YƐ NWƲ","De kàbàlà mọ̀ yá wà ni, nyàmàrì jwì nyà ọ́.",1.1111,0.6
+688,"Bɛzabɛ Mɔɔ Bɛpɛ Kɛɛ Bɔsɔ Gyehova Anyɩ Nɩ, Besizi Abɔkɔ Mɔɔ Nɣɛlɛbɛ Wɔ Nu","Bịa zụta ụgbọala so Jehova anyị, banyere abọkwa mụọ nri bụrụ nụ.",1.0,0.7069
+689,BAYƖBƲLƲ YƖ MA YƐNWƲ KƐƐ NYAMƖNLƖ DƖ NƔƐLƐBƐVƲLƆ,Baibolo mayelana nké ya mlinidi nreba vulo.,1.0,0.6341
+690,Mmʋwalɩyɛ Ma Mmaalɛ Mɔɔ Bɛyɛ Bɛ Atɩɩtɩɩ,"Mụ adịghị ama ma ọ bụrụ na a tetere m, ọ nweghịkwa onye nọ n'ụlọ. Ya nwere ma balịbụ mụ ịlaketaghachị ma isi, m maara na mụ abanyeworị, ma Baibụlụ nke a bụ ihe mụ na-abalị ịghọta.",5.1429,3.6061
+691,Siã Gyehova kɛɛ ɩwʋwá wʋ ma ɛyɩ odwokɔ yɩ wɔ wʋ nu.,Sanjou vake ewo ma e je ki e wounu.,0.9167,0.7179
+692,c MFONYINI NWƲ ODWOKƆ: Dasɩvʋlɔ kuakula be ɩpɩbɛɛ Gyehova yɩ fʋlɔdulɛ mɔɔ ɩfalɩ yɩ bʋwabɩlɛ yɩ nwʋ wɔ Bayɩbʋlʋ yɩ nu.,"Mfueni wujoko, na sebulu ku kulabi epebe jova folu delamo e fale boabulu wo Bible nu.",0.9524,0.5684
+693,KEZIMƆ YEKENYIA GYEHOVA NU ANWƲLAZƲ,Kedu ka m ga-eji aha Jehova nụ anwụlázọ?,1.6,0.5161
+694,YEYIALƖ ODWODWUDIYIALƐ WƆ NIGER,Ihe a na-ejide ya n'ọdịnala anyị.,1.5,0.7857
+695,Mɩnla ɔhʋanɩ zʋ yɛ Ilayɩhu lalɩ nɣɛlɛbɛ ali mmɩlɩ mɔ ɩmaa fʋlɔdulɛ wɔ Dwoobu nɩ a?,Mụ na ụmụ anụzị ya ịla ịhụ na ha na-enere bekee ịmụrụ mụọ ịma fụlụdụlụ wụje ọgbụna.,1.0625,0.6667
+696,ÁMA OBU WƲ ANYƖ KUA WƲ NƔANLƖDƖLƐ ZƲ,A ma obughi anyi kwa bu ha na-ere azu.,1.125,0.5862
+697,Yekehila kezimɔ yɛkɛva animinyiamɩ mɔɔ ɩfata Gyehova yɛkɛma yɩ.,Ekelekwezi m ya ka m wee na-efe Jehova ya ka m na-eme.,1.3333,0.6111
+698,Pɩbɛ ozumalɛdɩyɛ mɔɔ ɩwɔ numɔ. Bizia wʋ nwʋ kɛɛ:,비자 okay,1.0,0.9211
+699,“MAMƖ YƐ LƐ ALƖFA NƖƖ OMEGA”,Mamiye le alpha ni omega.,0.8333,0.3333
+700,Yekozuma kezimɔ Dwoobu buuku yi bʋwa yɛ ma yɛfa fʋlɔdulɛ mɔɔ itu mpʋnɩ yɛma.,Yokuza kezu majo buke bu ayama ya fa fulo dule mu etumponi yama.,1.0,0.4516
+701,Yɛbazunzu ɛɣɛlɛ asã be mɔɔ Gyisɛsɩ wuli nɩ nwʋ na yɛahila kezimɔ ɩfalɩ ndɛnɩwuwalɛ mɔɔ ɩkɔhɔlɩ zʋlɔ wɔ oyuwadɩ eyi yɩ awielɩyɛ nɩ nwʋ.,"Ihe baziri nụ bụ na erughị asaa bụ ụmụji sị wụlị n'ụwụ, na ya hịrị ka ezinụlọ ya fanyịrị ndụ n'ụwụ arụmụọ ikwọghọrọ zụrụ wụọ oyibo adịghị ịya yụọrị ya n'ụwụ.",1.25,0.7909
+702,"MA WƲ ANYƖ ILE, MMƖLƖ MƆ OSUMAA NYAMƖNLƖ ODWOKƆ YƖ ƆKƆHƆ AƔINZI NƖ","Mawa anyi lee, amuru m osu manya amuru ije kwa ya kohu onye izizi.",1.0769,0.5849
+703,Sa Ɔkʋla Sia Ba Gyehova Yɩ Pɛ!,"Aha nke njikọ sị, ""Sọkịla Sabat Jehova bụ eziokwu.""",1.2857,1.1739
+704,MƖVALƖ MƲ NWƲ MIDIANLƖ GYEHOVA ZƲ WƆ DƖKA MƆƆ NƖ KƲNƐ ZƖKƐ ƐKƐNƖ NƖ,"Mụ na nwunye m dị njikere ịlụ ọlụ, ụwa dị ka mụ na ya kwụrụ zikere karịrị.",1.2143,0.7963
+705,MA BAYƖBƲLƲ YƖ TƲWƆLƐ EHILEHILELƐ ƖHƆ́ ZƲLƆ ƖWƲWA WƲ,Mba Bible tụgharịrị ihe ha ji rụọ ụlọ.,1.0,0.7907
+706,a ODWOKƆ BE MƆƆ BEHILEHILE NU: Kɛ “ɔkɔdwɩnɩndwɩnɩ debe nwʋ” nɩ kile kɛɛ ɛkɛva wʋ adwɩnɩ ekeziye debe zʋ na wʋazunzu nwʋmɔ wʋahɔ aɣinzi.,"Azịka anyị jụrụ ajụjụ a, ajụjụ ebe mụ na gị bi nụ? Nke a kwadoro njikọ dị na nwunye kịrịka aka fa wa ajịka ezie dịbezie na-ewu ezi ụmụ nwanyị abụọ. Azịka anyị jụrụ ajụjụ a.",1.4583,0.9722
+707,Kɛ ɩkɛyɛ na yɛahyɛ dedi mɔɔ yɛwɔ wɔ Nyamɩnlɩ yɩ anʋhʋba nu nɩ ɛzɩzɩbɛ a?,Kedu ka ị na-esi di mma? Ị ga-enwe obi ụtọ na ụbọchị taa.,1.0,0.8246
+708,Mɩnla ti mɔɔ nɩ Gyisɛsɩ dɩ abiye mɔɔ ɩfata kɛɛ ɩba azɩlɛ yɩ zʋ na ɩaɣa iale yɛ nnwʋanlɩ a?,मैं तो जरूर आऊंगी। नहीं तो मनीष जी से सीधे ब्याह में ही फटका है।,1.0,1.0
+709,“KILA! MƖYƐƐ NNINYENI MUNWATĨĨ MVƲLƆ”,Kedu mee ya nye ni mu otu ụvụrụ?,1.6,0.6333
+710,Má Gyehova Yɩ Eɣile Yi Ɩwʋwa Wʋ Adwɩnɩ Nu,"Majo wa e ri, e wa wa ju nu.",0.8889,0.6364
+711,Mɩnla ɔhʋanɩ zʋ yɛ nkyɩkyɛmi eyi bʋwa mɩ ma mɩtɩ odwokɔ titili mɔɔ Bayɩbʋlʋ yɩ gyĩ zʋlɔ nɩ yɩ tʋ a?,Mụ na nwunye m zụrụ ịnyịnya igwe abụọ ma anyị tinye ya n'ime ụlọ nchekwa titiri ma Baịbụl iji zuru ya na etu a.,1.0476,0.859
+712,Mɩnla yɛ yɛkɔhʋla yekozuma wɔ kezimɔ Gyisɛsɩ luwalɩ abɔdɩ zʋ hilehileli nɩ nu a?,Mmalite ya bụkwa ihe ikpeazụ a bụkwa Jizọs ruo aịlị agbadazughị ehihie niile n'ụa.,1.0,0.7424
+713,SUMAZUMA KEZIMƆ GYISƐSƖ YƐLƖ YƖ DƖYƐ MMƖLƖ MƆ BƐ NƖƖ YƖ IÁDI YI BƲWƆ NƖ,Bara ọjọkọ mẹ́dọ́gbọ̀n ọ̀kẹ́ ìwọ̀sàn f'íyọ̀zùkọ̀. Ìlú èyí,1.0,0.9123
+714,"f MFONYINI NWƲ ODWOKƆ: Wɔ asafʋ kezile be nu nɩ, eliyema be mɔɔ ili bɔmʋnlɩ ɩma munwalɩyɛ ɩva yɩ sa idiã azɩ na ama mmenii mvʋlɔ bɛahʋla bɛama munwalɩyɛ.","Ụfọdụ n'ime ndịiche m gụrụ n'ala Hausa fụkene, erịama be mọịrịbọ mụ na ịme mụalị ya ebe e si daa azụ na-amamene mvụra gbahụrụ abahụ mụalị ya.",0.9655,0.6557
+715,DWƖNƖNDWƖNƖ MFASƲ MƆƆ ƖWƆ TANƖFAKYƐ ZƲ NƖ NWƲ,ጀንጀንም ፋሲማ ወታን ፈቸዙንኤው,1.0,1.0
+716,mmɩlɩ mɔ edii nɔhʋanlɛ kɛma Gyehova a?,Amụma dị ndụ n'ala kamma Jehova.,1.0,0.5806
+717,TWƖ̃ WƲ NWƲ WƆ BAALƐ KWASƖYA YƖ NWƲ,Chọọ mọ bọlọkụ asịrị ọhụrụ.,1.0,0.8148
+718,BƲWÁ MVƲLƆ MA BENYIA ZƲLƆ MFASƲ,Bonne volonté ma baigner sur un façon.,1.0,0.8846
+719,MƖNLA ƆHƲANƖ ZƲ YƐ SETANƖ ƖMA ƖYƐ SƖ ƖMA YƐ KƐƐ YEKEGYINA PINDINYII A?,"Mwanawane, zikomo kwambiri chifukwa cha chikondi chanu.",1.0,0.8036
+720,Mɩnla ti mɔɔ ihyinyia kɛɛ yenyia anwʋlazʋ kɛɛ Gyehova va yɛ tanɩ ɩhyɛ yɛ a?,Mmalite mụ isi akụkọ ga-enye anụlọ azụka Jehova va ya taa na isi ya.,0.9333,0.55
+721,"Yekehila kezimɔ sɛ yɛdwɩnɩndwɩnɩ mpayɩ azʋlɔtʋ mɔɔ ɩwɔ Bayɩbʋlʋ nu nɩ nwʋ a, ɩkɔwʋwa yɛ ma yɛ mpayɩwɔlɛ kodu mpʋnɩ.","Ihe kachasị mma bụ ịjonye n'ememe a zuru ụwa ọnụ ebe a na-enwe aṅụrị, ịkọwa ya ma ya mpa ya were kwudo mpụne.",1.1,0.7128
+722,MFASƲ MƆƆ BƐZABƐ MƆƆ BƆWƆ SUNZUMA ƆFƲÃ NU PALADAYƖSƖ YƖ NU BENYIA,Mfasị mọbazabọ mọgbụọsụ nzụmafọnụ Paradise inu benya.,1.0,0.4444
+723,Kezimɔ Ɔzʋ̃ Wʋ Ahʋnlɩnɩ Nu Kɔwɔ Gyehova Mpayɩ,Kedu ihe m ga-eme ma ọ bụrụ na unu kpọọ Jehova mpaị?,1.5,0.6486
+724,Mɩnla ti mɔɔ nɩ mmenyia mɔɔ bɛ́dɩ Yizilayamaa kɩnla Bulombunli Devidi yɩ azogyiamaa yɩ nwʋ a?,"Mmalite mụ na-emenye m obi dị izizi mụ a, kedu ka ọ bụrụ na Devid ga-ezu ohi nwa anyị nwanyị?",1.25,0.6316
+725,Ndwokɔ mɔɔ ɩkã ahʋnlɩnɩ sʋ̃maa wɔ Bayɩbʋlʋ yɩ nu mɔɔ ɩma yɛnwʋ kɛɛ Gyehova nwʋ ye ozunɛ na ɩkɔwʋwa yɛ. Nwʋmɔ ndianwʋ ɛgyɩkɩ̃ɩ̃ yɛ dɩ:,"Ndi ọkọ mmụta ihe ahụrụsịma bụ Baibụlụ nọ e ma ya nwoke, Jehova bụrụkwa onye na-ekwewa ya, wụrụ ndị ahụ jikere ihe dị.",1.0,0.6538
+726,"b Nnɛ, ɔzɔ sukuulu yi kɩnla yɛ dapɛnɩ avinli dɩyɛzumanlɛ yɩ nwʋ.",Aha m bụ Kenji Kobayashi. Nne m ọzọ sịkwa na ị kwụna daa pụọ n'ihe dị gị n'aka enwụ.,1.5833,1.0588
+727,Mɩnla Yɛ Elelɛdɩyɛ Nɩ Kilehile Yɛ a?,Mənə yeni ləzzətli bir yer ver.,1.0,0.7586
+728,"Dɩkɛɛ Pita Nɩ, Áma Wʋ Padi Kolɔ","De kapitane, amo pedikolo.",1.0,0.4167
+729,Suma Debe Wɔ Mmenyia Nɔhʋanlɛmaa Bo Ndwokɔ Mɔɔ Itualɩ Yɩ Tʋ Yɩ Nu,"Palma, buongiorno come stai tu?",1.0,0.7736
+730,“Bɛzabɛ Bɛyɩ́ Enii Mɔɔ Bɔkɔzʋ̃mɩ Yɩ”,Baza mgbanye n'ime ọkụ ọkụzụme.,1.0,0.6296
+731,SAMALIYIAMAA NƖ NLUMANLƖ,Samili amani lumani.,1.0,0.3636
+732,Mɩnla yɛ yɛkɛyɛ na yɛava yɛahile kɛɛ yɛlɛ dedi a?,Mmeghari na-ewelite ike ịlele di ya.,1.0,0.7692
+733,"MƆƆ ƖFALƖ TANƖYƐLƐMAA MƆƆ BOKODUNWO BƐ WƆ EƔILE BE NWƲ NƖ, . . .","Mụ afaghị taa ma ọ bụ echi ka ụbọchị ụka bụọ, ma ọ bụ ụbọchị ole fọdụrụ n'izu.",1.6364,1.0213
+734,c MFONYINI NWƲ ODWOKƆ: Eliyema abɩlantɩyɛ be ɩdwɩnɩɩ nwʋmɔ kɛɛ ɩhɔ́ sukuulu ɩhɔ aɣinzi anzɛnyɩɩ ɩyɛ́ ɔhʋanɩbukolɛ egyima.,Ụfọdụ n'ime ụmụ nwanyị chọrọ ịlụ di na-erite uru site na ịlụ nwoke ihu igwe oyi na-atụ na ihu igwe na-ekpo ọkụ.,1.2222,0.87
+735,"MIYIYIALƖ NDWOKƆZƖZƖBƐ WƆ MI EGYIMALILƐ YƖ NU, NA MƖDƖLƖƖ NƔANLI KƐƐ ƖHA MƖZAMƖ NKƲ̃",Ihe anyị chọrọ ịbụ omume ịmalite ịlụ na mmepe nke ala nke anyị bụ nke,1.0,0.7536
+736,"Sɛ yeyiyiaa odwodwudiyialɛ a, mɩnla ti mɔɔ ɩsɛ kɛɛ yɛma yɛ anyɩ de a?",Sị ya ị yọjọdị ala a m na-etinye aka ya ma ya anyị daa.,1.0,0.6111
+737,AHƲANƖ MƆƆ GYEHOVA DUWA ZƲLƆ BUWA YƐ MPAYƖ,"Aha m bụ Jehovah, ọ bụ ya bụ naanị Chineke m.",1.375,0.7714
+738,"SƐ ABIYE YƐ TANƖ WƲ A, . . .",세비야 타워,1.0,1.0
+739,Kakɛ Kɛɛ Gyehova Yɛ Lɛ “Tɩyasɩvʋlɔ Nyamɩnlɩ Nɩ”,Kaka ke Jehova yalechi asu wuo nyamlene.,1.0,0.5
+740,KUNLUMIYƖBALƐ,"O jọkọ ma wọ nchịkị mgburu mfu eni nwụsịrị, kwụrụ mị ịbara ya.",13.0,3.1538
+741,Dɩyɛzumanlɛ eyi kɔwʋwa yɛ ma anwʋlazʋ mɔɔ yɛwɔ kɛɛ Gyehova kɛva mɔɔ yehyinyia ɩkɛma yɛ mmɩlɩ munwala nɩ kɛyɛ kezi.,Ihe mụ na ya kọwaa ya bụ na ọ laghachuo ya wekee Jehova ka ọ baara ya mụọ nwaanyị ka e kezi.,1.05,0.6702
+742,a Bɛzɩnza anlima yi be.,Azu ka na-ejikwa isi ya bezinzarụ ebe.,1.4,1.2222
+743,Ɔlɔlɛ mɔɔ yɛwɔ yɛma Gyehova nɩɩ yi dima,Alaloma ya yi waya ma Jehovah ni duma.,1.0,0.5
+744,"MILILI ALƆBƆ, MƖYƐLƖ ANKƲNAMƖ, NAASƲ̃ MINYIANLƖ ANYƖNLƖLELƐ DƆKƲ̃","N'ezie, ọ bụ ihe dị mkpa na m na-asụ n'anya anyị na-elekọta.",1.5,0.6667
+745,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova wʋwalɩ Hana a?,Mụ na Hanah ji Jehova wụọrọ ha naa.,1.0,0.4848
+746,"Mmɩlɩ mɔ ɛyɛɛ wʋzawʋ wʋ dɩyɛzumanlɛ nɩ, sa ɔkʋla osunzu ndwokɔ adile mɔɔ ɩwɔ azɩ ɛkɩhyɩ nɩ nwʋ ɔkɔ aɣinzi:","Mụ na ya yọzọdị ụmụaka na, sa cross zụrụ mụ jụkọọ diri mụ iwa azịkịsị na nwa okorobia.",0.95,0.7529
+747,"“‘Iluwa mmenii mɔɔ bɔ nwʋ yɛ nwɔkɛ mɔɔ bɛhyɛ bɔ zʋ ti,",Iru omenala bu ihe a na-akpo omenala obodo ziri.,1.0,0.8
+748,Kezimɔ Gyehova Ɩma Yɛ Anyɩ De,Aha kam bụ Ebele Okorocha. Kedu zi mụ Jehova ma ya anyi dị?,2.1667,1.25
+749,Asʋ̃ enyiaa Ɛhɛlɛlɛ odwokɔ mɔɔ behilehile numɔ wɔ Buuku Mɔɔ Gyehova Dasɩvʋlɔmaa Bɛfa Bɛyɛ Ɛbɩbɛlɛnu yɩ zʋ mfasʋ a?,"A sụgharịrị ya dị ka mọọ, bekee rịrị nọwa book mọọ, Jehova na-asị gị nọọ maba fa be ya bibilenu izu mfasụ a.",1.1579,0.6064
+750,Mɩnla nninyeni paa yɛ ɩma Kilisinyiamaa bɛ ayɩfʋlɔ hyɛ Gyehova animinyiamɩ a?,Mụ na ya nọrọkwa ya ma Krisịan ma ndị ọzọ so Jehova nọrọkwa.,1.0833,0.6923
+751,Gyehova yɛ lɛ Dɩyɛwɔlɛvʋlɔ nɩ,Je vous souhaite une agréable et heureuse année.,1.6,1.44
+752,Mɩnla Ti Mɔɔ Ɩsɛ Kɛɛ Yɛpɩbɛ Fʋlɔdulɛ a?,Mete mme sakrepe be fụrụdụla.,1.0,0.6452
+753,Aninyiammɔ yɛ belényia nnwʋanlɩ wɔ Gyehova yɩ eɣile yi nu a?,Anyi amaghi ihe anyi nwere Jehova nyere anyi n'uwa.,1.0,0.5714
+754,KƐ ƖKƐYƐ NA MMELIYEMA MMENYIA BƐAZUMAZUMA KEZIMƆ GYEHOVA Ɩ NƖƖ MMAALƐ DI NƖ A?,क्या कहना मिली मां मिना बुजुंजुमा किज़ुमु जेहोवा इने मालिदीनिया?,1.0,1.0
+755,"d Kila vidiyo mɔɔ ɩwɔ jw.org zʋ mɔɔ ise, Bɛayɛ Gyehova Yɩ Ɔhɔnwʋ—Siyeziye Wʋ Munwalɩyɛ .","Aha ka m ji kwesịrị, klaavidiyo mụ na JW.org zọ mụ esị, bịa Jehova hụ, sị zie ụmụ akwụkwọ mụ. Aha ka m ji kwesịrị.",1.6,0.8841
+756,Kezimɔ Maakɩ nɩɩ Timoti be ndianwʋ nɩ kɔhʋla kɔwʋwa mmeliyema mmɩlantɩyɛ ma bɔkɔhʋla kɛyɛ sʋ̃maa wɔ Gyehova yɩ ɔzʋ̃mɩnlɛ nu na bɛawʋwa be mmeliyema mmenyia nɩɩ mmaalɛ.,"Mụ maara na otu ụbọchị ndị a nwụrụ anwụ ga-ahụkwa ọkụ ụwa mere ịma mma nti ya, ma gbakọọ aka ha asụ ma Jehova ezumoro nu. Nna baa ụwa mere ịma mma ịya n'mmalite.",1.1852,0.6232
+757,MƖNLA SUBANƖ YƐ ƖSƐ KƐƐ MINYIA A?,Mera subah nehi aasa kamiyan.,1.0,0.5769
+758,KƐ ƖKƐYƐ NA OHUNƐMAA BƐAVA ƐHƐLƐLƐ NDWOKƆ EYIMMƆ BƐAYƐ EGYIMA A?,Keekee na ụmụ na-agba egbe njikọ eyi mọọkpa yị ịma.,0.9091,0.6604
+759,Nɩ Yɩ Nnwʋanlɩ Gyĩ Zʋ,Nke a bụ ihe arụrụ n'ebe dị na Sierra Leone. Ịkengara ejikwa bekee rikwakwọ baali bụ mmụọ mụrụ ruo anyị tọnị.,4.2,4.6471
+760,Mɩnla yɛ ɩma mbiyemmɔ twɩnhwɩ̃ bɛ agyia azɩ kɛɛ bokonluma a?,"Muna iya yin bimodal, in ba za ka iya ba, ka koma ma",1.1818,0.6875
+761,SUMA BAYƖBƲLƲ NU NƆHƲANLƐ MƆƆ NUMƆ DƆ NƖ,Suma Bible nụ nụ na ala mmụọ nsọ niile.,1.0,0.6364
+762,KƆ ZƲLƆ NYIA ANWƲLAZƲ KEZILE WƆ YƐ AHYƖHYƐDƖ YƖ NU,Kwalụ enyo na-azụkeziri wa ya ashesha dị ịnụ.,1.0,0.6098
+763,"Aliyia mɔɔ yɛhayɩlɩ wɔ Karttula, Finland",芬蘭,1.0,1.0
+764,Mɩnla nwʋ dasɩlɛ yɛ ɩsɛ kɛɛ yedi wɔ nnɛ a?,Da sule ya sake yi diwan na.,1.0,0.5625
+765,"Nkɔmɩhyɛ mɔɔ ɩfalɩ Anglo-America Oyuwadɩ Tumililɛ nɩɩ Russia nɩɩ mmenii mɔɔ bɛda yɩ mɛda nwʋ nɩ, numɔ ɛhɩnla dɩyɛ yɛ ɩɣa nu a?","N'oge ochie, ụmụ nwanyị America ụfọdụ lere Russia dị ka ebe obodo nke ụmụ nwanyị nwere onwe ha. N'ụmụ nwanyị dị elu, ha nwere ike ịga mahadum, nwee ihe onwunwe nke ha, ma nwee ọrụ.",1.4783,1.1089
+766,Fa Yɛ Wʋ Bʋtayɩ Kɛɛ Okozuma Dɩyɛ Na Ɛ Nɩɩ Mmenii Mvʋlɔ Bɛahyɛ,"Bịa ọ bụrụ na ị chọrọ ịkwụsị mụ na ya, naanị mụ na gị nwere ike ịbịa hụ ya.",1.3846,0.8776
+767,KƆ ZƲLƆ MA ƆLƆLƐ MƆƆ ƆWƆ MA GYEHOVA NƖ ƖYƐ KEZI,Kwasara m arara m n'ọwa m Jehova na-eje ozi.,1.0,0.6486
+768,MÁMA WƲ NWƲ BA ODWOKƆ NA YƐ MƆƆ ƖTƖNƔƐ,Mụ na ụmụ gị nọ ya ma etinye.,1.0,0.7333
+769,"Anwɩ̃, nɩ ɩkɛɣa ɩkɛyɛ yɩ asɛdɩ kɛɛ ikehila Wulutu nɩɩ Nawomi munwala.","Aree, na ka ke ya sadaka ikiraru na Naomi muara.",1.0,0.5455
+770,GYEHOVA ƖNWƲ YƐ NWƆKƐ ƖFA YƐ TANƖ ƖKYƐ YƐ,Jehovah nwanyi nwoke efeghị ya na chè.,1.0,0.6364
+771,Mmeliyema mɔɔ nɩ bekyinaa aliyia wɔ Staten Island,Mụ onwe m na-eche na ọ bụ Staten Island.,0.875,0.5476
+772,"Mɩnla yɛ osuma wɔ Gyekɔpʋ yɩ ndwokɔ mɔɔ ɩhã ihileli Gaadɩ, Ahya, nɩɩ Nafɩtali nɩ nu a?",Mmanụ a na-eji esi nri dị ka mmanụ aki oyibo na ihe ndị ọzọ na-afta ya n'ọnụ.,1.0,0.7761
+773,ƆHƲANƖBA NƖƖ MMƖLƖ BA MƆƆ ƖSƐ KƐƐ YƐMA FƲLƆDULƐ,Ọhaneze na ndị mmụọ banyere ịse ka ya ma fụrụ dịrị.,1.2222,0.6923
+774,Kezimɔ yɛkɔhɔ zʋ yɛkɛhyɛ anwʋlazʋ mɔɔ yɛwɔ wɔ Gyehova yɩ ahyɩhyɛdɩ yɩ nu ɛzɩzɩbɛ.,Kedu ma ị ga-esi aṅụla azụma ya wụ Jehova ya shịcha dị inu zizbe?,1.0,0.6567
+775,"a Wɔ dɩyɛzumanlɛ eyi nu nɩ, yekehila kezimɔ ozumalɛdɩyɛ mɔɔ yekenyia wɔ Pita yɩ ahɛlɛta yi nu nɩ, ɩkɔhʋla ɩkɔwʋwa yɛ ma yekegyina odwohilalɛ munwa. Akʋ̃ sʋ̃, ɩkɔwʋwa asafʋ nu mbanimbani ma bekeli bɛ asɛdɩ nwʋ egyima kɛɛ mmuwuanɩzʋhilalɛmaa.",Njomi ya le ni anwụna ya ekwado iyokọ gbaa. Ijoko tile si gbozuba ahuru nu gbolu logbonwu.,0.9744,0.8359
+776,SƐ WƲ DƆVƲLƆ BE YI OWULO TI OSŨŨ A GYEHOVA NWƲ YƖ,"Sọọdọ bụrụ na ịwụrịntị, ọsụwa Jehova nwe.",1.0,0.6842
+777,Mɩnla yɛ Gyisɛsɩ yɛlɩ na ama iale adasamaa tanɩyɛlɛmaa wɔ tanɩ nɩɩ owulo nu a?,Mmara a ɛsɔ asɛm yɛri na ama yɛn adasa ama taane yɛlɛ ma wɔ taane nyinaa wulu nua.,1.0667,0.4444
+778,ƆNWƲMƆ ƆHƲANƖ MƆƆ YƐLƐ MƆƆ YƐFA YƐSƲ̃MƖ GYEHOVA,"Ọmụma ha nọ ya le mọ, ya fụ ya sụm Jehovah.",1.375,0.5897
+779,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Jokozara moyo izwi ngalamabeka ni.,1.0,0.6216
+780,Kɛ ɩkɛyɛ na bɛzabɛ mɔɔ bɛ alʋbɔ hɔ anyunumi nɩ bɛahɔ zʋ bɛanyia anyɩnlɩlelɛ a?,"Keke na bọọsọ mọbaịlụ bụ ụzọ ịnụ mere ịbịa hụ, zụta ihe anyị lere.",0.9333,0.6825
+781,Mɩnla ti mɔɔ ɩyɛ a abiyemmɔ tɩ nɣanlɩ kɛɛ Gyehova iále bɛ itiã nu a?,"Mmalite mụ na ya, ebi m otu afọ nke Jehova ya na ebe etinụ.",1.0,0.6038
+782,MƖNLA ƆHƲANƖ ZƲ YƐ YƐKƆHƲLA YEKENYI KƐƐ KILISINYIAMAA MƆƆ BƆ NWƲ WƲKWA A?,"Mana, ọhaneze ya ya kọleji nke Nkeaị Kristịan ma ama ọgbọ nwoke a.",0.9231,0.6
+783,"Sɛ Osumaa Dɩyɛ a, Bɔ Mmɔdɩnɩ Kɛɛ Okozuma Nninyeni Mvʋlɔ","So, small dear, gwa m odi nka okwu ziri ezi na nvuoro.",1.2,0.6889
+784,Tɩdɩ,"Ọfọnye n'elu nụ nị, ya maịlị ma bịa bịa kee ịkrịlị ma balị bịa kee zụ maịkọva maịshịne kụda palụ ọ asafụ ịlị ịna letụ.",25.0,22.5
+785,b Kila vidiyo mɔɔ ɩwɔ jw.org zʋ mɔɔ ise Kezimɔ Ɔlɔlɛ Ɩma Yenyia Azʋ̃nudwolɩyɛ Ankasa .,"O bidighi di mma na be ke, a si ke nu ji oku ezi. M ji oge m gbuo nwukwu, o ji oku izale. Ke ke nu ya wure ya si enye unu uzo",2.2667,1.0588
+786,Kɛ ɩkɛyɛ na yeanyia abʋtalɩ sʋ̃maa a?,Kedu ka ị na-eme? Ịnyịnya agbataala ọsọ maa.,1.1429,0.6552
+787,g MFONYINI NWƲ ODWOKƆ: Eliyema benyia be yi egyima nu maa mɔɔ bɛ́dɩ Dasɩvʋlɔmaa nɩ bɔbɔɔ mmɔdɩnɩ kɛɛ bɛkɛma ikehila adwomanlɩ nwʋ mfonyini wɔ buuku be nu.,"Nwanyị jụọkwa aka nke abụọ, ịjụ ma onye mme mme dị ka Soro Manị, ọ bụ mmadụ ole ka ebe ka m ekele jụọ maara nwanyị na-agụ akwụkwọ bụ elu.",1.1111,0.736
+788,MƖNLA YƐ ƐHƐLƐLƐ NDWOKƆ EYIMMƆ KILE YƐ FALƖ PƆKƆZILƐ BAABA NWƲ A?,"E leghị anya n'ihe omume ole na ole gara aga, ọtụtụ ndị mmadụ enweghị",1.1667,0.9057
+789,Kezimɔ Ɔkɔnwʋ Ndwokɔ Mɔɔ Ɩba Yɛ Wɛbsayɩtɩ Yɩ Ahyɛasɩ Kɛnɩ,Kedu ka m ga-esi nweta website ị na-achọ ịse kịni?,1.0,0.75
+790,Mɩnla yɛ ɩkɔhʋla kɔwʋwa wʋ ma ɛkɛhã kezimɔ ɛtɩ nɣanlɩ kehile Gyehova wɔ mpayɩwɔlɛ nu a?,Mla. Kokwaku za Mla ya kurekodi wawu ma aka hake,1.0,0.7606
+791,YƐKƆHƆ ZƲ YƐKƐHÃ ODWOKƆBA YƖ KƆBƲMƖ KƐƐ AWIELƖYƐ NƖ KƐƔA,"Ya kọọzị ya ka ha jikọọ baa ha, kọọbụ m ka awụlị ya n'ike a.",1.5,0.6383
+792,‘NYAMƖNLƖ MƆƆ YEKEƔIKE YI NƖ’ KƐMA YEKENYIA ƐBƖLAWƆLƐ BAABA NƖƖ EƔILE BE NWƲ ANYƖNLƖLAZƲ,"Mụ na ya kényere aka, mụ na ya kényere aka, abụala ezigbo enyi na enyi. Nchịkọta",1.1429,0.726
+793,Tʋ́ ma ivindenli wu munwa. Kɩnga anzɛnyɩɩ tʋ ndwomi yi mbɔmɩ sʋ̃maa.,"Tụmụ ihe ndị lụrụ mma, kịnganụ etu njọ mị gba mị sụmụ.",1.0,0.6226
+794,"“Sɛ ɩdɩ nɔhʋanlɛ kɛɛ abiye yɛ ɩwɔlɩ dɩyɛ a, mɛyɩ nɩ aninyia yɛ ɩwɔlɩ Dɩyɛwɔlɛvʋlɔ yɩ a?”","Sɛ ɛdena hɔ lakɛ abie yɛ wɛlɛdii a, mɛɛni ani a yɛ wɛlɛdii wɛlɛvule a?",0.7059,0.4706
+795,NYAMƖNLƖ IDUWA ABƆDƖ ZƲ IKILEHILE YƐ YƖZAYƖ NWƲ DƖYƐ,"Ya mere, dịka ọbụbụzọ, keere ya ịzụ anyụ dị ya.",1.1111,0.6591
+796,Mɩnla yɛ lɛ sunzuma ɔfʋã nu paladayɩsɩ yɩ a?,M na-ege ntị na ụfọdụ n'ime Paradise ya.,1.0,0.6857
+797,"Sɛ yɛ adwɩnɩ yɛ yɛ anwɩ̃ anwɩ̃ wɔ abɔkɔ be mɔɔ yezizili mmɩlɩ be nɩ nwʋ a, mɩnla yɛ ɩkɔwʋwa yɛ a?","Si anyị a gụnye ya, anyị anaghị abụkwa ụmụ nwanyị ziri ezi na nwụa, ma ya kọwa ya.",1.0,0.6389
+798,ERKKI MÄKELÄ YI MUNWA NU NDWOKƆ,Kedu aha kara ị mụọ nụ njikọ?,1.1667,0.8077
+799,Yɛbahila mɔɔ yɛkɔhʋla yɛkɛyɛ na ama yɛanyia Gyehova yɩ mmʋwalɩyɛ zʋ mfasʋ mmɩlɩ mɔ yeyiyiaa ndwokɔzɩzɩbɛ nɩ.,"Ihe banyere ya kọwara na a ma nye ya Jehova mụọ dị nsọ, mmụọ nsọ ga-enye ya njikọ ziri ezi.",1.1176,0.7253
+800,HYƐ́ WƲ ANWƲLAZƲ NU ƐZƖZƖBƐ NNƐ,"Sawa, wala zunuz zaben ne.",1.0,0.48
+801,Nyia Nyamɩnlɩ Yɩ Adwɩnɩ Wɔ Nzã Nwʋ,Nyanya mna yaajuwa hono zaawu.,1.0,0.5714
+802,Mɩnla ti mɔɔ iáhyinyia kɛɛ yɛnwʋ mɔɔ ikezi wɔ eɣile be ansaana yɛ anyɩ iale a?,"Mmetụta ya siri ike, ya bụ mmekezi nwere ire be na nsị ana ya anya ere.",1.0,0.5806
+803,Pɔɔlʋ yɩ fʋlɔdulɛ ɛhɩnla dɩyɛ yɛ ɩkɔwʋwa mmɩlantɩyɛ ma bɛkɛyɛ sʋ̃maa wɔ Gyehova yɩ ɔzʋ̃mɩnlɛ nu a?,"Afo di na adie, yeko wom na ntem abaka esu ma wu Jehovah ezumike nu.",0.9412,0.6329
+804,Mɩnla Mmɩlɩ Yɛ Bezia Beleli Benyia Yɩ Mɔɔ Bɛyɩlɩ Yɩ Wɔ Kɔlɛntɩ Asafʋ Yɩ Nu Nɩ a?,"Alekene jukwesi, m na-emere ya beze belili be nye mọọ be yiri wọ kọlenti asafu inu ni a.",1.0,0.6825
+805,Kɛ ɩkɛyɛ na yɛahɔ zʋ yɛahile kɛɛ yɛwɔ anwʋlazʋ wɔ Gyehova yɩ ahyɩhyɛdɩ yɩ nu a?,"Kaya kaya na yawo zuwa jiya, kaya wanda suke zuwa jiya suke da nawa.",0.9375,0.6984
+806,Kezimɔ ɔlɔlɛ kã yɛ ma yɛzʋ̃ yɛ ahʋnlɩnɩ munwala nu yɛfa ɛhyɩmɛ yɛkã odwokɔba yɩ.,Nsɛm a wɔreka yi ma yɛtumi ahu nea wɔreka nu yɛfɛ na yɛkan jɔkɔ bayɛ.,0.8667,0.5938
+807,MƆƆ GYISƐSƖ HILEHILELI YƖ ADƲWAVƲLƆ YƖ FALƖ BƆNWƲNLUNLƐ NWƲ,Mojisola siwelele lili ya do àwọn fọ́nránlẹ̀ọ́.,1.0,0.7059
+808,Gyehova Yɩ Sa Ɩáyɛ Sikalɛ,Jehova es a escala.,1.0,0.5238
+809,MƖ ANYƖ SƆ MMƲWALƖYƐ MƆƆ GYEHOVA FA MƖ NƖ,Maya somo malia moja over famamene.,1.0,0.6364
+810,"“BƐZABƐ MƆƆ BO KUNLU TULI YƖ NWƲ NƖ, DƖYƐ BELA IÁHYINYIA BƐ”","Baza bomoko kutu leli wani, diable shiabe.",1.0,0.5652
+811,"Sɛ ɩyɛ sɩ ɩma Bayɩbʋlʋ dɩyɛzumanlɛvʋlɔ be kɛɛ ɩkɛdɩ odwokɔ be tʋ a, mɩnla yɛ ɔkɔhʋla kɛyɛ a?","Sɛ yɛsɛ m'ababu diɛzuma ravuro beke, eka diɛjo kobe tua, mra, yɛ okowura ka ya.",0.8889,0.4932
+812,Ozumanlɛdɩyɛ Mɔɔ Ɩyɛ Anyɩnlɩlelɛ Mɔɔ Minyianlɩ Wɔ Gyehova Ɔzʋ̃mɩnlɛ Nu,Ụzọ mụ na ya si wee dịrị n'otu bụ site n'ịgụ akwụkwọ nsọ Jehova Zuru oke.,1.6,0.8333
+813,Mmenyia mɔɔ bɛyɛlɩ egyima eɣile yi munwala nɩ nyianlɩ adwɩnɩ kɛɛ bɛfata kɛɛ bɛma akatuwa kezile bɛ,"Onye mụrụ m jụrụ sị, ""Mụ na ya bụ enyi dị mma, gịnị mere na ịnyịlị ajọọ nke a? Gbafaka kee gba maka otu o si lebe.""",1.5882,0.7317
+814,"Mɩ nɩɩ Adel, nɩɩ ye nnwuakula Samuel nɩɩ Shirley yɛsʋ̃mɩɩ wɔ Palawan","N'ihe nwa nwa jụrụkwa sị, ""Mụ na Adelle, nne nwa kụrụ Samuel na Sherri, ya sụrụ mụ na Paulu nwa.""",1.5833,0.8909
+815,"Hegayɩ, Zakalɩya, Nɩɩ Ɛzɩla Bɛ Mmɩlɩ Zʋ","Hey guy,",1.0,0.871
+816,Sɛ Abiye Yɛ Debe Ma Ɩyɛ Ɛyɛkɛ Wʋ Paa Sʋ̃ ɛ?,"Aha, kɛnɛn jɔkɔsi, cɛbɛ de bɛ mɛn ka o paason ɛ.",0.9091,0.8387
+817,KEZIMƆ YƐKƐYƖ MMENII NWƲ ƐYA WƆ YE NU,Kesi muye ka yi minun ya wiyinu?,1.0,0.4667
+818,BƲWA WU ƔA MA ƖHYƐ DEDI MƆƆ ƖLƐ YƖ WƆ NYAMƖNLƖ NƖƖ BAYƖBƲLƲ YƖ NU ƐZƖZƖBƐ,"Bụrụ na ọ ga-amasị gị ịdị na-elele ya, amụrụ m na Baịbụlụ nọ n'ụzọ gị.",1.0,0.7586
+819,mɩnla ti mɔɔ yɛkɔhʋla kenyia anwʋlazʋ kɛɛ Gyehova kowuwa ndɛnɩ mɔɔ ɩtɩnɣɛ a?,Mụ na ụmụ ya nwoke na-enyere aka ịwunye ájá Jehovah kọọ ugwu and then mụ na ya tinye ya.,1.4615,0.746
+820,Bʋwa Wʋ Bayɩbʋlʋ Dɩyɛzumanlɛmaa Ma Bezí Pɔkɔ Kɛɛ Bɔkɔzʋ̃mɩ Gyehova,"Bụọ Baibụl dị ịma mma, ma bịa zie pụkọọ kee bọkọọ Jehova.",1.1,0.625
+821,b Kila vidiyo mɔɔ ise “ Kila Wʋ Nwʋ Bʋwɔ Wɔ Awohwi Ndwokɔ Nwʋ ” wɔ jw.org nɩɩ JW Library zʋ. ®,"Azu ka njikọ a ị sị, kla vidiyo mụ a ị sị, klaa nwa gbaa wa owu chọọ njikọ a wụ jw.org n'ime JW Library gị.",1.1579,0.6471
+822,Nnɛ yɛ ɩdɩ mmɩlɩ mɔ ɩsɛ kɛɛ ɛ nɩɩ Gyehova nyia ɔhɔnwʋvalɛ mɔɔ numɔ yɛ sɩ na onuma a.,"Na ya da mara mma ya sa ka ni ji ban yi ohon ba, ma unu mọ ya si na unu ma.",1.1053,0.6
+823,ASƲ̃ ƖSƐ KƐƐ MƖMA MMENII MVƲLƆ SI PƆKƆ MA MƖ A?,A sọ na ịsacha mmanụ mvụro sịkwa ma ama ya.,0.9091,0.6857
+824,HYƐ́ WU PINDINYIIGYINANLƐ NU ƐZƖZƖBƐ,Chọọpụta ihe ndị na-alụso gị ọgụ.,1.2,0.8387
+825,"SƐ BƐFA KILISINYIAMAA MƆƆ BƆVƆ NGƆLƆ BƐ MƆƆ BƐHA WƆ AZƖLƐ YƖ ZƲ NƖ BƆKƆ SƲLƆ A,",Seba fa Krisiam ama mụọ gbafo ngwọlọbọ mụ gba How Has Reason Begot Sulaa?,1.0,0.6129
+826,“TWI BƐ ANYUNU WƆ BƐZABƐ MƆƆ BƆWƆ KƐNƖ MUNWATĨĨ BƐ ANYUNU”,Chibụyịnụ wee bịa zụta mọbọ wụ kenimụ etu ịbụyịnụ.,1.0,0.6739
+827,"Yɛpɛ kɛɛ anyɩnlɩzɔlɛ mɔɔ yɛwɔ yɛma Gyehova yɩ tanɩfakyɛ nɩ yɛ kezi. Mɔɔ ɩkɛyɛ na yɛahʋla yɛayɛ zɔ nɩ, yɛbahila mɔɔ Gyehova yɛlɩ na ama ɩava yɛ tanɩ ɩahyɛ yɛ.","Ya pekee anyi zọlụ mụ ya bụ Jehova etu a nụ facha na ihe kee zi. Mụ ekee na ya ahụrụ ya anya zọlụ mụ, ya bụrụ na mụ Jehova yelụ, na mụ ya afa ya taa nụ ya achaa ya.",1.3,0.608
+828,BƆ MPAYƖ SIÃ AKƐNƔAZƖZƖBƐ,Bụ mpa ya sị akara azịza be ya.,2.0,0.5455
+829,BƆ MMƆDƖNƖ KƐƐ OKODWU ONLUMANLƐ NWƲ NDƐNDƐ ZƲ LA,Bọmbụ dị n'ike okuku jụrụ ma na-awụ ndị mmadụ zụrụ.,1.1111,0.65
+830,Mmɩlɩ be mɔɔ mɩ nɩɩ Philip Brumley nɩɩ Valter Farneti hɔlɩ Cuba,O jụrụ ịkpọrọ ụmụ nwanyị ya nwụrụ anwụ site na mmepe omenala Ferebụlị na Vota Fanatịhọlị Cuba.,1.3333,1.1346
+831,ASAFƲ NU MBANIMBANI MƆƆ BƐYƐ ‘EGYIMA ƐZƖZƖBƐ WƆ MƲNLƲMMƆ BO NU’,Asa afufu na mberede mọọ banye na nsogbu ọ bụla n'ụlọ ọgwụ gị.,1.1818,0.8039
+832,Kɛ ɩkɛyɛ na yɛali bɔmʋnlɩ yɛala annidi ali a?,के कहने यह बमनिया ले नी दे लिया।,1.0,1.0
+833,MƲWƆLƖ YƖ TƲ MINYIANLƖ ƐPƐ KƐƐ MƖKƐYƐ ODWOKƆBADƐLƐLƐVƲLƆ,Mọ wá lẹ́ẹ̀kan sí i láti bẹ̀rẹ̀ mọ́kànyó dúkìá báàdálá lávúlọ.,1.375,0.7347
+834,"f MFONYINI NWƲ ODWOKƆ: Ozumanlɛnwʋnlɛ yɩ nwʋ yekile—Kɛ ankɩ abɩlantɩyɛ be kɔhʋ̃ kediyia mmenii nɩ, izuma Bayɩbʋlʋ yɩ ɩnwʋ kezimɔ ɩ nɩɩ mmenii kɔwʋwa azʋ̃nudwolɩyɛ nu na ɩbʋwaa mmenii mvʋlɔ sʋ̃ ma bɛkɛyɛ ɔzɔ la.","Mụ onwe m enweghị chọọchị m bụ nke m na-erighi, o zuola mụ na onye ya kịrị. Ka m ga-ablarịrị ebe kwa ụbọchị dị ya meenụ, i zuo baịbụlụ enwe ka i zuo ya na-emeenụ kwa ụbọchị azụnjọrọ ya nụ. Na-ebu omenụ mvụrọ ma baka ya zọla.",1.3143,0.7396
+835,Vidiyo mɔɔ ɩba ɩtʋwadʋwa zʋlɔ wɔ Mɔɔ Mmenii Mvʋlɔ Kã Falɩ Dɩka Mɔɔ Nnwʋanlɩ Zʋ̃ Nwʋ ɔfʋã yɩ,Ya ana vidiyo mụ ebetu dị azụrụ nụ ma omenụvụrụ ka ha dị ka mụ onwe mụ anụzụọ ofe anyị.,1.0556,0.6986
+836,ƐBƖLAWƆLƐ NU NDWOKƆ,Ebea ole nu njuko?,1.0,0.5882
+837,Wʋ anyɩnlɩlazʋ mɔɔ ɔkɔ dwɩnɩndwɩnɩ nwʋmɔ,Nwanyi na-azụ nwa akọrọ ndị na ụmụ.,1.1667,0.6857
+838,"Sɛ Ɛkyɛ Dɩyɛ a, Ekenyia Anyɩnlɩlelɛ Sʋ̃maa","सचिनिया, एक नया इनले समारा",1.0,1.0
+839,MƖNLA ANƲHƲBA YƐ GYEHOVA ƖWƆ A?,"Mụ na nọọsụ a, ya bụ onye nọọsụ ụwa.",1.5,0.76
+840,Kɔ Zʋlɔ Bʋwa Gyehova Yɩ Awudo Daabaa!,Kwasabụ Jehova ga-adị gị n'àbaa.,1.0,0.6333
+841,"e MFONYINI NWƲ ODWOKƆ: Nyamɩnlɩ hanlɩ dianlɩ kɛnɩ kɛɛ, bɛkɛzɩkɛ Babilɔnʋ twonwa yɩ.","Ụfọdụ n'ime ụmụ nwanyị nke Chineke bụrụkwa ndị bụrụkwa ya, ya mụrụ ha na dị ala ka na-eche banyere ka Babịlọn si nwee ya.",1.8462,1.0
+842,Mmeliyema Anwɩ̃ Mɔɔ Bɛva Bɛ Bɛhɩnla Ɔhʋanɩhilelɛ Okuwu Yi Nwʋ,Mèli a m'ari m'o be ba be ba hlanhlan hle lo ku i o.,1.4,0.5294
+843,Gyehova yɩ nwʋ dɩyɛ mɔɔ ɔkɔhɔ zʋ okozuma,Ị̀ ga-awụdị ya mọ́ ọkwá ọzọ kọzụma.,1.0,0.6667
+844,MƖNLA ƆHƲANƖ ZƲ YƐ NNINYENI EYIMMƆ KƆWƲWA WƲ MA EKENYIA ANYƖNLƖLELƐ WƆ DASƖLƐLILƐ EGYIMA YƖ NU A?,"Mmalite nwa nịịzụ, ya inye n'iyi mụọ kwụọ ọma ekenye anyịrịrịwọ daasịrịrị ejimelu nụ a.",0.9412,0.5875
+845,Kaalɩ mɔɔ mɩ anlima benyia yɩ va manlɩ yɛ nɩ,"Nfoni o yọkẹsẹ, kalọ mọ mọ bẹ yọ fa mọri ẹ.",1.1,0.9143
+846,Kɛ ɩkɛyɛ na yɛámanlɩ tanɩ iálili yɛ zʋ tumi a?,"Ke ke na ya maani, taa ni elili ya zụtụ m ya.",1.1,0.4722
+847,Kɛ ɩkɛyɛ na yeanyia Gyehova nu anwʋlazʋ wɔ mmɩlɩ mɔ yeyiyiaa ndwokɔzɩzɩbɛ nɩ a?,Ke keni yya Jehovah nu awula zu womlumo yiyya njuka zibena?,0.9286,0.5231
+848,Ɛ nɩɩ mmeliyema mɔɔ bɛhalɩ aliyia nu nɩ wɔ numɔ yɛ dasɩlɛlilɛ egyima yɩ,Ọ dịghịkwa mma ịnwụ anwụ site n'imele ma ọ bụ gbahara elele nụ na ịwụnumọ ya dasịrị na ejị ma.,1.4286,0.9483
+849,KEZIMƆ NƖ ƖSƐ KƐƐ ASAFƲ YƖ NƖƖ TANƖYƐLƐNII NƖ DI,Kezman yisaka asafo yene tani yɛni ni di.,0.9,0.4103
+850,PƆƆLƲ YƖ FƲLƆDULƐ YƖ KƆHƲLA KƆWƲWA WƲ,Ife ọlịdịrị akọrọ ka ọ wụ wa.,1.0,0.7742
+851,MANSINI ZƲ EHILALƐMAA HYƐ YƐ ƐZƖZƖBƐ,"Mba, esighi m na-arịta ma ọ sị ya bụ ezigbe.",1.6667,0.7742
+852,Yɛkɔnwʋ sianti mɔɔ nwʋmɔ hyinyia kɛɛ yenyia Gyehova nu anwʋlazʋ kɛɛ ɩkɔwʋwa yɛ mmɩlɩ mɔ yeyiyiaa ndwokɔzɩzɩbɛ nɩ.,"ya kwanwu senti mu onwu mụ sị ya kee ya ịnya Jehova nụ anwụla azụ kee ịkwawụ ya, m mere mu ya ịnya njikọ sịzị be ne.",1.5,0.5368
+853,AWƆVƲLƆ YƖ BƲWA MA ASAFƲ YƖ NWƲ TƖ,Awa bụrụ ezigbo mmadụ afọ ịwụte.,1.0,0.7407
+854,d MFONYINI NWƲ ODWOKƆ: Bɛlɛ mfonyini eyi bekilee kezimɔ Horst Henschel yɩ awʋvʋlɔ bɛ nɩɩ yɩ wɔlɩ mpayɩ na bɛhyɛlɩ yɩ ɛzɩzɩbɛ ma igyinanlɩ pindinyii nɩ.,"Ụfọdụ ndị nwụrụ anwụ jụrụ ịsị, ""bele ndị nwụrụ anwụ ịbịa kire ka ezịmụhọs ha encha ya awụlọ, be na ịwọlị mpa ya na bechara ezịzbe ma ịjịna rị pịndị ịne.""",1.1154,0.7016
+855,"Ɩdɩ kɛɛ dwɛtɛ mɔɔ bɛyɩyɩ numɔ wɔ sɩnɩ fʋnlʋmɩ nu, mɔɔ bodwonwɔ zʋlɔ mbɔmɩ asunwa.","Edekeji taa mobụ ezinụlọ ọzọ sị na fụlụ mụ nụ, mụ ebejuwa zuru mgbe mụ ga-esunwa.",1.0667,0.6923
+856,MUZUMANLƖ DEBE MƆƆ NWƲMƆ HYINYIA,Muzman de bemol o moșier.,1.0,0.5357
+857,YƐ SUTIYE MA BƐZABƐ MƆƆ BELI NNINYENI ANYUNU NƖ,Yesu tiema bazabomo belinene yunune.,1.0,0.359
+858,BƆWƆ́ BƐ ƐBƖLA KƐƐ “MMENII MƆƆ BƆWƆ HANYƖƖ NƖ NU”,बुआ ब्लैक एंड मिनिमल बुआ है निनो।,1.0,1.0
+859,Nkɔmɩ Mɔɔ Gyekɔpʋ Hyɛlɩ Ansaana Ibawu,"Nke a bụ ihe anaghị ekwe n'ojikọ sị, ọkọ mgbajọ kọbịsharị a sị na ebe wu.",2.6667,1.2812
+860,"SƐ YƐDA NTƖYASƖ ALI A, YENYIA ƆZƲLƆ MFASƲ",ሰይድ አንቲአሲል የኛ ዙሪያን ፋሶ,1.0,1.0
+861,KILE KƐƐ WƲ ANYƖ SƆ GYEHVOA YƖ ƆLƆLƐ YƖ,"그게 왕이 썼죠, 왜 널래?",1.0,1.0
+862,KƆ ZƲLƆ BƲWA SUNZUNMA ƆFƲÃ NU PALADAYƖSƖ YƖ NU,Kedu ka unu bụsị nụ? Ụmụ nnụnụ paradaịs ị nụ?,1.1111,0.7105
+863,"Mmɩlɩ fʋlɔ mɔ osumaa dɩyɛ nɩ, sa ɔkʋla ɔdʋlɔ mɔɔ ozumanlɩ nɩ nwʋ mfonyini. Sɛ ɛyɛ ɔzɔ a, mɔɔ ebiye a ɛkɛhakɛ wɔ mɔɔ ozumanlɩ yɩ nu nɩ kɛyɛ wʋ nnwʋánlɩ baaba!","Mee ka ụmụ gị mara ihe mere. Sọọkịlọ dịrị ụmụ gị n'ihe niile ha na-eme. Sị ha ọzọ a, mee ebere ka aka ụmụ gị na-eru na nke ị ga-onwe gị n'ọdịnihu.",1.0,0.7869
+864,KƐ ƖKƐYƐ NA YƐAVA DEDI YƐAWƆ YƐ ƐBƖLA . . .,Kedu ka ị ga-esi dee ya n'Igbo?,1.0,0.7667
+865,KƐ OKOWUWA KEZE A?,Coco work is a,0.75,0.6429
+866,"Mɩnla ti mɔɔ sɛ yɛzʋ̃ yɛ ahʋnlɩnɩ munwala nu yɛfa tanɩ yɛkyɛ ye mmeliyema a, ikile kɛɛ yɛdɔ bɛ a?","Mmalite ụbọchị azụmahịa ahụ n'ụmụ nwanyị ya afatara na ya chọrọ ịmụrụ ya maa, ikiri ka ya dịọba.",1.0,0.6533
+867,yɛawʋwa mmenii mvʋlɔ ma bɛanyia zʋlɔ mfasʋ a?,Ya wụ mụ na-enweghị ọrụ mbanye azụla mfa sụọ a?,1.125,0.5676
+868,Dɔ Mmenii—Yɛ Bɛ Adʋwavʋlɔ,Aka na-ejikwa isi domeni ya gbaa duavụrụ.,1.75,1.1905
+869,Mɔɔ Bayɩbʋlʋ Ɩma Yɛnwʋ Yɛfalɩ Yɩ Ɛhɛlɛlɛvʋlɔ Yɩ Nwʋ,मोबाइल बोरोइ मायाउया फालि एहेलेलावलेउ,1.0,1.0
+870,Sumazuma Gyehova Na Dá Ntɩyasɩ Ali,Sọọzụma Jehova na Dania si eri.,0.8333,0.4483
+871,Gyehova yɛ ɩdɩ Sʋlɔ Sʋlɔnii Nyamɩnlɩ nɩ a?,Jehovah bụ aha Chineke na-adịgide adịgide.,1.0,0.8824
+872,Kezimɔ Yekodu Mpʋnɩ Wɔ Yɛ Mpayɩwɔlɛ Nu,"O joko tiri si, kee izu a ka odi mponi wu ya mpa iwere nu?",2.0,0.8125
+873,MFASƲ MƆƆ YENYA WƆ MMENYIA NƆHƲANLƐMAA BO NDWOKƆ MƆƆ ITUALƖ YƖ TƲ NƖ ZƲ,Nne na nna m abụọ jụrụ m otu a ha letara unu ụzọ. Nchịche mụ na nne m.,1.2857,0.8793
+874,"Mɩnla ɔhʋanɩ zʋ yɛ Gyisɛsɩ valɩ yɩ adwɩnɩ ziyeli Gyehova yɩ apɛdɩ zʋ a, na kɛ ɩkɛyɛ na yɛazumazuma kezimɔ ɩlalɩ ɛhyɩmɛ ali nɩ a?","Mụ na ndị ozi Jisọs fanyere ajụ̀ n'isi na Jehova ga-apụdịrị ya na nke a, na-eche na ọ bụghịzi oge anyị ga-alaghachi n'ime ya.",0.96,0.7451
+875,"Mpayɩ mɔɔ yɛbɔ yɛma mmenii mvʋlɔ nɩ, mɩnla ɔhʋanɩ zʋ yɛ “tumi ɩwɔ nu” a?","Mpayi mụ ya bụ ya ma mụ enweghị nwaanyị, mụ na onwe m nọzị ihe tumi nwọnụ a.",1.1333,0.6111
+876,Sumazuma Gyisɛsɩ Mmɩlɩ Mɔ Otuu Mmenii Fʋlɔ,Indigestion,1.0,0.8889
+877,SUMAZUMA GYEHOVA YI KUNLUMIYƖBALƐ NƖƖ YƖ NWƆKƐNWƲNLƐ,"Sọ mụ na Jehova kwụrụ mee ịgbá lé, lee ịwụ ka ọ nụ lé.",2.0,0.6957
+878,Kɛ ɛkɛyɛ na wʋama wʋ ediyelɛmaa bɛanwʋ kɛɛ ɔdwɩnɩ bɔ nwʋ a?,Kedu ka e si na-ama ụdị ịramma abụọ nke ọjị na-agba n'ụa?,1.0,0.6809
+879,Nkɔmɩ Mɔɔ Gyekɔpʋ Hyɛlɩ Ansaana Ibawu,Oji chụmụ nụ anyị arịrị ka anyị nụ olu Chukwu site na nsọ na Igbo wu.,2.6667,1.2812
+880,BAYƖBƲLƲ YƖ MA YƐNWƲ KƐƐ NYAMƖNLƖ DƖ ƆLƆLƐ,Bia bulu m ya unke ya mụ na di ọlụ le.,1.375,0.6286
+881,Kezimɔ Kilisinyiamaa mɔɔ bonluma fʋlɔ nɩ kɔhʋla keziyeziye bɔ nwʋ kɛma ndwokɔzɩzɩbɛ mɔɔ bɔkɔhʋla bekeyiyia wɔ asafʋ yɩ nu nɩ.,"Kezi ma Krisian ma mgburu ma fụlọ ni, k'ọkwa kezi ezigbo nwoke ma njikọ azịba ma ọgbakọ bụ ebe ke ya bụ asafụ inọ ni.",1.25,0.5048
+882,WƲ DEDI KƆHƲLA KODUDU AVILE,Onye iro kụrụ duu efele.,1.0,0.6957
+883,"Mɩnla ti mɔɔ sɛ bɔfʋlɔ Gyehova “Bʋdanlɩ” a, ɩfata yɩ a?","Mụ na ntim ọgbọ fụrụ Jehova gbádá na ya, ifata ya.",1.0,0.4634
+884,Mɩnla ɔhʋanɩ zʋ yɛ Gyehova hileli Yizilayamaa nɩ ɔhʋanɩ a?,文化和艺术在德国文化中占有重要地位。,1.0,1.0
+885,YƐKÃ ODWOKƆBA YƖ ILUWAKƐƐ YƐDƆ NƆHƲANLƐ YƖ,Ya ka juko ba irin ake ya donhuala e?,1.2857,0.6111
+886,Yɛda “mmɩlɩ mɔ ili awielɩyɛ” nɩ nu,Ya damle mo iya wili ninu.,1.0,0.4615
+887,Twé eyi kila: Kɛlɛ “Gyehova” kua alɩka mɔɔ bɛfa bɛpɩbɛ dɩyɛ (A) nɩ nu. Minyia ɔfʋã mɔɔ bɛhɛlɛ “Odwokɔtile” wɔ “Gyehova” nwʋ nɩ zʋ (B). Ɔkɔnwʋ ndwokɔ sʋ̃maa mɔɔ bɔhwɩ̃ adwɩnɩ beziye zʋ mɔɔ ɩfalɩ mɔɔ ɛpɩbɛɛ nɩ nwʋ.,"Chịkọta: Ka Jehova kwara aka ma bafee be di ya bụ Anịnu, mụọfụma baa hịrị njikọ tiri Jehova nwa na izu, bọọ. Ọkwa njikọ sụmụ amọ gbochiri ajọ nịbezi ezu ma efalu ma epịbe nụ.",1.0,0.6266
+888,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Ndi ozu ala m eze enweghi ala m bekee.,1.5,0.6757
+889,Mɩnla nninyeni yɛ ɩsɛ kɛɛ yɛfa yɛ adwɩnɩ yɛkɔ zʋlɔ yɛfa yɛbɔ yɛ nwʋ banɩ wɔ odwohilalɛ nwʋ a?,"Mụ na gị n'enwe nsogbu, ya bụ ya adịghị akwụsịrị, ya bụ ya bụrụkwa na ọ bụ njọ gị na-arụ nwaa.",1.1053,0.7297
+890,KEZIMƆ YƐ ANYƖNLƖLAZƲ KƐYƐ KEZI,Kezi ụmụ ya ịlụ ka ya kezi.,1.2,0.5185
+891,Kɛ ɩkɛyɛ na yeahile kɛɛ yɛdɔ ye mmeliyema a?,Keke na ya huri ke ya dọ ya meli ama.,1.1111,0.5143
+892,KEZIMƆ MIGYINALƖ MƖZAMƖ MU NDWOKƆZƖZƖBƐ MUNWA,Kedu ka m ga-esi dee aha m na-azụ ahịa na Amazon?,1.8333,0.8
+893,Bɛɣɩngá mpayɩwɔlɛ be mɔɔ ɩwɔ Bayɩbʋlʋ yɩ nu na bozunzú kezimɔ ɩkɔwʋwa bɛ ma bɛ mpayɩwɔlɛ kodu mpʋnɩ nɩ nwʋ.,"Be m paye were bime wa Baibulu inu, na gbozu nzu kezi mu iko wa be ma be m paye werekwu du mponene wu.",1.1,0.4713
+894,Yɛkɔnwʋ mɔɔ yɛkɔhʋla yekozuma wɔ ndianwʋ mɔɔ awɔvʋlɔ nɔhʋanlɛmaa yɩ bɛyɛ nɩ nu.,"Ya kowaa ya kire kuzie mọ wanda mọ, awọrọ nọ walama abẹ yẹni.",1.0,0.6364
+895,“Bɛyɛ́ Mɔɔ Nyamɩnlɩ Odwokɔ Nɩ Ikehile Mʋnlʋmmɔ Nɩ”,Bịa ya mọ ya melụ ịjụọ nụ ịke ịhịrị mụrụ ụmụ nị.,1.5,0.7
+896,YƐLƐ ANWƲLAZƲ YEKILAA EƔILE BE ƆHƲANƖ,Ya le a un lado y aclare el problema.,1.5,0.6875
+897,"b Nzɩnzanlɩyɛ mɔɔ ɩɣalɩ Dwosefi yɩ ɛbɩlawɔlɛ nu ɔzʋmɩ kɛɛ ɩɣa ɩyɛlɩ akɛlɛ nɩ, Bayɩbʋlʋ nu nkyɩkyɛmi ɛgyɩkɩ̃ɩ̃ be la yɛ ɩkã nwʋmɔ odwokɔ a. Naasʋ̃, ebiye a, ilili alʋbɔ sʋ̃maa.","Aha nke na-ejikwa ezi, na nzari mọọ ịgharịrị Josef ya bụrụ na ọzọ mmụọ ya ayarịakwala ya, Bible n'onwe ya kwuru na ya ka mụ jụọ kwa, na nsogbu ya ịrịrịrị bọsụ mụ a. Aha nke na-ejikwa ezi",1.1935,0.8824
+898,"Bɔnwʋ́ yɩ kɛɛ sɛ ɩdɩ kɛɛ mɔɔ abiye iyiaki ponogɩlafi hilalɛ po a, ɩkɔhɔ zʋlɔ ikehyinyia mmʋwalɩyɛ.","Mewɔ nkrɛ se ɛde kɔmɔ abieyie ki pornography hralepɔ a, ɛkɔɔ zuro ikechia mɔali.",0.9412,0.5316
+899,ƆNWƲMƆ ƆHƲANƖ MƆƆ ƖKƐMA WƲ NWƲ KƆWƲKWA,"Ọ́ m̀ma, hụnụ m̀ ekwe m̀ nkwa.",1.0,0.7188
+900,a Kakɩ yɩ bɔfʋlɔ yɩ Yɛ Kilisinyiamaa Ɛbɩlawɔlɛ Nɩɩ Dasɩlɛlilɛ—Dɩyɛzumanlɛ Kɛlɛta .,"Aka ka n'ijokwa isi, ka ebe ofele, ya tinyesene na-abawanye na-adasi na-ele di izu malakweta, aka ka n'ijokwa isi.",1.7273,0.971
+901,SIANTI MƆƆ YƐ ANYƖ KƆHƲLA KELE MMƖLƖ MƆ YEYIYIAA ODWODWUDIYIALƐ NƖ,Nsị ntị mụ na anyị kọwara keere mmụọ mụ na-iyi ojiji dịara nị.,1.1818,0.6429
+902,Yekehila mɔɔ onlumanlɛ yɩ tʋ kile nɩɩ sianti mɔɔ nwʋmɔ hyinyia kɛɛ yenuma nɩ.,"Ihe kpatara m ji malite ịkle, na esentị m onwe m si aka enuma.",1.0,0.619
+903,kɛ ɩkɛyɛ na wʋanyia enii kʋ̃ nɩ yɩ nwʋ adwɩnɩba a?,Kedu ka unu mere? E nwere m nwa ajụjụ na baa.,1.0,0.7368
+904,NƖ BAYƖBƲLƲ ZUMANLƐMAA NƖ PƐ KƐƐ BƐYƐ SƲ̃MAA,ನಬಾಯ್ ಬುಜ್ಮಾಲ ಮಾನೆ ಪಕ್ಕೆ ಬೆಯಸುಮಾ,1.0,1.0
+905,b Gyisɛsɩ yi owulo yi sʋ̃ wukoli ɔnwʋmɔ ɔhʋanɩ manlɩ adasamaa kɛɛ bekenyia nnwʋanlɩ mɔɔ íni awielɩyɛ.,"Aha ka m na-ejikwa isi, dị ka isi ụlọ ọrụ kụrụ ụmụ nwanyị na ụmụ nwanyị adịghị asaa maka ya, bekee na-awụlụ mụ na ya riwe. Aha ka m na-ejikwa ezi.",1.8235,1.0
+906,Siã Gyehova kɛɛ ɩwʋwá wʋ ma ɛva tanɩ hyɛ.,Sanjivani ke upar mein baat karni hai.,1.0,0.8125
+907,Ɩdɩ Baaba Kɛɛ Yekeɣike Ye Mmeliyema Mmenyia Nɩɩ Mmaalɛ!,Ede baba ke ke ke mere mmenya ni maare.,1.0,0.4783
+908,"Mɩnla mmɩlɩ yɛ bowukoli nnɛ mmɩlɩ nu “Ɔhʋanɩ Nwanzanwanza” yɩ a, na mɩnla eziyeziyelɛ egyima yɛ bɛyɛ wɔ ɔzɔ ɔhʋanɩ yɩ zʋ a?","Mụ na mmadụ abụọ koliri, nna mụrụ nwa nwa nwa nza nza ya, na mụrụ ezi na ezinụlọ mụọ, ya bụ anyị bụ ọzọ nwa a na-ezu a.",1.1304,0.5773
+909,Gyehova Bɔ Anʋhʋba Kɛɛ Ɩkɛma Azɩlɛ Yɩ Kɛlanɩ Paladayɩsɩ,"Jehova gwa n'ubi nke, ikama azịlị karịa n'paradaịsi.",1.0,0.5319
+910,"Asafʋ Nu Mbanimbani, Bozumá Debe Wɔ Gidiyɔnʋ Yɩ Ndianwʋ Yi Nu",A sị na ọ bụ nọmba ịbụrụ na bụrụkwa Gedeonị ndị a nwụrụ.,1.1818,0.66
+911,Mɩnla yɛ yɛkɔhʋla kozuma wɔ Mosisi nɩɩ Yizilayamaa yɩ bo odwokɔ yɩ nu a?,Nye ya ya kwanyere ya kozuo Moses na Izrel mgbe otu kwa enua.,1.0,0.6724
+912,Mɔɔ Ɛkɛyɛ Wɔ Awohwi Ndwokɔ Nwʋ,阿力肯尼朱可夫斯基，莫斯科耶沃辛朱可夫,1.0,1.0
+913,Pɩbɛ ozumalɛdɩyɛ mɔɔ ɩwɔ numɔ. Biziá wʋ nwʋ kɛɛ:,"Tubi uzimale di amoy wunmo, biza wunke.",1.0,0.5789
+914,Yekehila kezimɔ Kilisinyiamaa kɔhʋla kɛhyɛ Gyehova animinyiamɩ wɔ bɛ ayɩfʋlɔ eɣile.,Ihe kpatara eji akọrọkọcha Jehova n'ime aha ya bụ anyị fụrụ ya n'anya.,1.1818,0.7778
+915,KEZIMƆ DWOOBU YI ODWOKƆ YƖ BƲWA YƐ MA YEKYINA PINDINYII,Ka ezigbo njikọ na ijikọ ya gbuo anyị ma nye Chineke otuto.,1.1,0.7609
+916,"Abiyemmɔ wɔ kɛnɩ a, bɛáhʋla bɛyɛ sʋ̃maa iluwa bɔ pɔkɔdɩlɛ ti. Kila baalɛ be mɔɔ ɩzʋ̃ East Africa yi ozumanlɛnwʋnlɛ mɔɔ ɩwɔ alɩka mɔɔ ise “ Nɩ Yɩ Nnwʋanlɩ Gyĩ Zʋ .”","A bịa nụ akụkọ a, biko bịa suma ilo abụpụkọ dịletị, nke a bụkwa mụ ezu East Africa izu ma na enweghị mụ iwe ala ka mụ isi n'enweghị njikọ.",0.9333,0.584
+917,Mmɩlɩ mɔ ɩsɛ kɛɛ yɛ nɩɩ mmenii yɛ Bayɩbʋlʋ dɩyɛzumanlɛ nwʋ nhyɩhyɛlɩyɛ na yɛtʋ salɛ yɛfʋlɔ bɛ ma bɛba dɩyɛzumanlɛ.,Mulumbe sakeni mu nyimbo ya Bible di ezumale alawanji shishaliye na yitusalile kufuma mu Bible di ezumale.,0.95,0.6383
+918,George Young nɩɩ Sarah Ferguson (nyini zʋ) nɩɩ yɩ anlima baalɛ,Ụmụ nwanyị ole George Jung na Sarah Ferguson nwere n'ọnụ abalị?,1.0,0.64
+919,"d Kɛ ndianwʋ nɩ, kila ɛhɛlɛlɛndwokɔ mɔɔ ɩwɔ odwokɔtile “ Adwennwen ” nɩɩ “ Awerɛkyekye ” tʋ wɔ Bible Mu Nsɛm a Kristofo De Bɔ Wɔn Bra buuku yi nu nɩ.","Aha nke na-ejikọ ya sị, ""Kee ndụ anụ nị?"" Krelọlọ njikọ omenala bụ njikọ tiri ajọ enyo, na-arịọ chọọchị etu a Baịbụlụ nsọ ma Kraịstụ fọdụ gba wa mgbe ọ bụka unu nị. Aha nke na-ejikọ ezi.",1.3333,0.9381
+920,Nyini zʋ: Yɛyɛɛ asianɩ mmɩlɩ nu mmʋwalɩyɛ egyima,Mfe ị na-awụnye n'uzo ga-enye aka na mmalite ịma.,1.125,0.775
+921,FA WƲ ADWƖNƖ SIYE ƆLƆLƐ MƆƆ ƆWƆ MA GYEHOVA NƖƖ MMENII MVƲLƆ NƖ ZƲ,Fa wajen siye ọrọrọmọ ọwọmọ Jehova ni imenụvu rẹ enizu.,0.8571,0.5577
+922,AWƆVƲLƆ YƖ KÃ BƆ NWƲ AZƖ,Awo vle kama wazi.,1.0,0.5789
+923,Marginal references yɩ kɔhʋla kɛma ɔkɔnwʋ nninyeni eyimmɔ nɩɩ mvʋlɔ:,Mmadu ole na ole ka ma ka onye ị ma na-anwụ.,1.1,0.7586
+924,Mɔɔ yɛkɔhʋla kɛyɛ kɛva kehile kɛɛ Gyehova dɩ nwanzanwanza na mɔɔ Setanɩ ɩhã ɩvalɩ yɩ nwʋ munwatĩĩ dɩ awohwi.,Nke a ga-abụ nke mbụ Jehova dobeere ụmụ mmadụ dị ka ụdị ndụ.,1.0,0.8315
+925,Mɩnla ti mɔɔ Nyamɩnlɩ ma amanɩyɛnwʋnlɛ nwʋ ɔhʋanɩ a,Mlet moyam le mama nya wona wanya.,1.0,0.5349
+926,SIYEZIYE WƲ NWƲ BƲWƆ ANSAANA WƲAHƆ DASƖLƐLILƐ,CSO bụ aha na-awụ akpata oyi n'ahụ.,1.0,0.8205
+927,“Mɩdɩlɩ nɣanlɩ kɛɛ mu hũ zɩkɛ agyiahʋnlɩ ɩdʋwadʋwa zʋlɔ mbɔmɩ sʋ̃maa.”,Madara na ke muhimmiyar jawo duwawu zai taimaka musu ma.,1.0,0.6786
+928,MƆƆ “ALƖYƐMANLƐ” NƖ YƖ TƲ KILE,Mó àlé málénì túklé.,1.0,0.6522
+929,"SƐ MIKENYIA FƲLƆDULƐ BAABA ZƲ MFASƲ A, MƖNLA TI MƆƆ ƖSƐ KƐƐ . . .","Saa me kyerɛɛ wo dodoɔ dodoɔ baasa mfa so a, m'ere tumi asɛnke.",1.0833,0.6809
+930,"Sunzu Samaliyiamaa, Pɔɔlʋ mɔɔ ɩzʋ̃ Tasɛsɩ, Kɔnɛlɩyɔsɩ, nɩɩ Kɔlɛntɩmaa yɩ be ndianwʋ yɩ nwʋ, na ɩkɛhyɛ wʋ ɛzɩzɩbɛ ma okonluma.","Sụnzụ samelị ya ma, pọlụ mọ ịzụta sọọsọ kọnelịọsị, nịkwụlị ntị mụ aịba ndị anwụ ịnwụ na ekeshewezị sbamụ okwụlụ ma.",1.0,0.52
+931,Mɩnla nninyeni anlã yɛ yɛkɔhʋla kɛyɛ na ama yɛahɔ zʋlɔ yeagyina pindinyii a?,"Mụ na gị n'anya, ya bụ ọrụ ka ga-eme ya. Ọzọ, ya ejina gị pịndị ya.",1.2308,0.6508
+932,Mɩnla ɔhʋanɩ zʋ yɛ dɩyɛnunwʋnlɛ ɩbʋwa yɛ ma yɛzʋ̃ odwolɛ nu yɛtɩndɛ a?,Mụ na nwunye ya dị elu nwere egwu a ma ya zụọ ojolo nụ ya tinye na ya.,1.3077,0.6786
+933,YƐ AHYƖHYƐDƖ YƖ DI GYISƐSƖ YI NDIANWƲ YƖ MƐDA,Ya shishadi da Jesus in dawainiya mada.,1.0,0.6216
+934,SUMAZUMA MAAKƖ—NYIA ƐPƐ KƐƐ ƐKƐYƐ SƲ̃MAA KƐMA GYEHOVA NƖƖ MMENII MVƲLƆ,"Muzimanya ke, nya pa ke, ke asuma ka maji hova ni",1.0,0.5862
+935,Yɛkɔnwʋ kezimɔ dɩyɛnunwʋnlɛ kɔwʋwa yɛ ma yekeli bʋwabɩlɛ bela mɔɔ ɩyɛ sɩ nwʋ egyima bʋwɔ.,Ya kọṅkọ́ ị́ma dị́ nụ́ na kọ́wa ya ma ya ekelụ́ abalị́ abalị́ mọ́ ị́ ga-asị́ nwunye gị́ abụọ́.,1.2,0.6351
+936,Mɩ nɩɩ mɩ awʋvʋlɔ nɩɩ mu mmusunwamaa,Onye na-eme njem kwesịrị ịma ma ọ bụrụ na mmụọ ama.,1.5714,1.0333
+937,Mɩnla ti mɔɔ ɩsɛ kɛɛ bɛzabɛ mɔɔ bɛbagyia nɩ hyɛ Gyehova animinyiamɩ wɔ bɛ ayɩfʋlɔ eɣile yi a?,Mmalite mmepe nke abụọ bụ mgbe Jane na Jovenị mụnyere ọkụ n'ime ụlọ ahụ.,1.0,0.7467
+938,"Wɔ aziyianɩ azʋlɔtʋ mɔɔ ili ɛkɛnɩ nɩ, mɩɣa mɩdɩlɩ nninyeni tʋ. Na mmɩlɩ be mɛda nɩ, mɩɣa mʋnwʋ na mʋlɔ mmeliyema mmenyia nɩɩ mmaalɛ sʋ̃maa mɔɔ bɔhɔ ɔzʋlɔ beli nɔhʋanlɛ wɔ bʋwabɩlɛ azʋlɔtʋ nu bɛma nɔhʋanlɛ Nyamɩnlɩ ɔkʋ̃ nɩ.","Onye ziri anyị azịza otu mụ na ya kénèné, mụ aghaghị ịdị na ya n'uto na mụ ribe mana ya, mụ aghaghị ṅụọ na mụ ṅụọ mmiri ya ma menye ya mmaara sụọ mụọ. Gbahazie obere riri nụ ha re wa gba abụrọ azịza n'ugbo mana oghere ya amịrọkọnụ.",1.2051,0.6854
+939,c Kila vidiyo mɔɔ ɩwɔ jw.org zʋ mɔɔ ise Beɣiziaɣizialɩ Eliyema Dmitriy Mikhaylov Ndwokɔ .,"A sị ka na njikọ a ise, kelee vidiyo m ewegidere na www.org zụọ ise, bụ eze eze alịrịị ma Dimitri Medvedev njikọ a sị ka na njikọ a izi.",2.0,1.0137
+940,ANINYIA YƐ ƖKƆHƲLA KƐMA FƲLƆDULƐ BAABA MƖ A?,A na m ayọ ka unu nyere aka m fụrụ ụzọ ebe a na-akpọ m ya.,1.875,0.8056
+941,"d MFONYINI NWƲ ODWOKƆ: Eliyema benyia be ɩyɛɛ egyima ɛzɩzɩbɛ kɛva kehila yɩ abusunwa, na ituaa nwʋmɔ mfonyini kɛɛ ɩwɔ Paladayɩsɩ.","Mụ onwe mụ jụrụkwa sị, ọ bụrụ na m bịa ebe a, ị ga-enye m azịza nke ga-eme ka obi dị m mma. N'ihi ya, mụ onwe mụ fụrụ nke i nwere paradise.",1.5714,0.7358
+942,ƖVALƖ YƖ NWƲ IDIANLƖ GYEHOVA ZƲ MA ƖWƲWALƖ YƖ,evaluación de los vasos sanguíneos,1.0,0.7838
+943,yɛkɔdwɩnɩndwɩnɩ mɔɔ yɛkɩnga nɩ nwʋ a?,ya kwa jụnjụna mụ ya ka m gaa n'ihu,1.5,0.6452
+944,KƖNGÁ FA PƖBƐ NDWOKƆ MVƲLƆ MƆƆ NƖ ÉZI,Kedu ka afọ be njikọanụ dị?,1.0,0.8
+945,MƆƆ ƖMANLƖ GYISƐSƖ ZILI PƆKƆ KƐƐ ƖKƆZƲ̃MƖ GYEHOVA,Mme Maria Jesus iziri pọkọ ke ikọzụm Jehovah.,1.0,0.561
+946,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Ịnụkwa okwu ya ziri ezi ngalama abụkịlị.,1.1667,0.6757
+947,Nyia Akɛnɣazɩzɩbɛ Na Di Nɔhʋanlɛ Dɩkɛɛ Bɛnaya,Ya akara izizi bụ na di na nwunye dịka ebe nna ya.,1.4286,0.5128
+948,KƆNƐLƖYƆSƖ NLUMANLƖ,Cornelius Sulla,1.0,0.7778
+949,ƆHƲANƖ YƖ NU EZIYEZIYELƐ,A hụghị m unu zie zie.,1.5,0.5714
+950,“Mɩdɩlɩ nɣanlɩ kɛɛ Gyehova ɩádwɩnɩ mʋ nwʋ.”,మదర్ అండ్ కే జెహోవా యజ్ఞము,1.0,1.0
+951,"Ɩ́dɩ sunzuma ɔfʋã nu paladayɩsɩ mɔɔ igyĩ kɛnɩ ɩma ɔkʋ̃yɛlɛ nɩɩ azʋ̃nudwolɩyɛ mɔɔ ɩwɔ Gyehova yi mmenii bɛ avinli, iluwakɛɛ bɔsʋ̃mɩ wɔ sunzuma ɔfʋã nu asɔlɩ aliyia yɩ nu nɩ ti.","Matazịra m, ""Edezuola m ihe nụ paradaisị mọọ iji ka na-ịma ọkụ yere n'azụ njọrọ mọọ ewo Jehova emenụba e vhụrụ. Irụ aka e bọsụ m e wọsụ mọọ nụ asọrọ erie nụ nịti.""",1.0968,0.6835
+952,Mɩnla mmɩlɩ yɛ ɩsɛ kɛɛ ɔbɔ mmɔdɩnɩ twu onlumanlɛ nwʋ a?,"Mba, mụ na-eche ka ọ bụrụ mmadụ ole na ole na-anọ ya.",1.0909,0.75
+953,KƐ ƖKƐYƐ NA YƐAWƲWA YƐ BAYƖBƲLƲ DƖYƐZUMANLƐVƲLƆ BE MA . . .,Tụkwaa ya na waya ma ọ bụrụ na ị maraworị bịa.,1.1111,0.7111
+954,"Nɩ Mɩ Anyɩ Tʋ̃ Dɩyɛ, Naasʋ̃ Mɩɣa Mɩyɛlɩ Odwokɔbadɛlɛlɛvʋlɔ","N'ime awa atọ dị ƴa, na-asụ m ama ịghọta ihe kọbada na-ala vulo.",1.4444,0.6383
+955,“Bɛyɩ́ Gyehova Yi Dima Ayɛlɛ”,मैं यह जरूर वैद्य माया ले।,1.2,1.0
+956,YÉZI ƆHƲANƖ MƆƆ GYEHOVA KOLUWA ZƲLƆ KƆWƲWA YƐ,Ihe si ihe nkiri a bụ Jehova kwuru azụrụkwa uwa ya.,1.375,0.6842
+957,MMƖLƖ MƆ BODWE WU SUTIYEYƐLƐ ANZƐNYƖƖ WƲ AKƐNƔAZƖZƖBƐ BEHILA,Amalịma gbasara usuti eji ere ahịa na-akwado azụmahịa gị.,1.0,0.7308
+958,"BƐMANLƖ YƐHƆ YƐZƲ̃MƖNLƖ WƆ ESTONIA, LATVIA NƖƖ LITHUANIA","Bamaheyo zumni wa Estonia, Latvia, ni Lithuania.",0.625,0.3191
+959,KƐ ƖKƐYƐ NA YƐAHILE KƐƐ YƐDWƖNƖ MMENII MVƲLƆ NWƲ MMƖLƖ MƆ . . .,Kedu ka ị ga-esi dee ajụjụ n'ọnụ mmiri mụ,1.0,0.7872
+960,b MFONYINI NWƲ NDWOKƆ: Eliyema baalɛ be ɩkɛbɛɛ egyima na ɩbɔɔ mpayɩ wɔ yi ti nu mmɩlɩ mɔ ɩdɩkɛɛ kɛɛ bɔkɔvʋlɔ yɩ nɩ.,"Wụ́nchimị̀ bụ́ nụ́ ėsụ́ ọnfụ́nyị̀ n'ịnụ́ n'ya, ya wá ka ėrė́ ma baalė́ bė́ ėkė́bė́jị̀ma na ė́gbọ́ mpàị̀ wė́ ịtị́nụ́ ėmėlụ́mụ́ ėdị́ka ka bụ́ kọ́vụ́rị́nụ́.",1.087,0.7912
+961,Bɛnɩ zʋ: Buuku be mɔɔ bɔdʋlɩ tui bɔwɔlɩ numɔ wɔ yɛ ɔfɩsɩ mɔɔ yekile yɛ awuuku tʋ nɩ,"Ụfọdụ n'ime ha bụ ndị nzọ, bụ ndị mgbe ụfọdụ na-atụgharị akwụkwọ nsọ n'asụsụ obodo ha.",1.0,0.9846
+962,MƖNLA TI MƆƆ ƖSƐ KƐƐ ƆNWƲ MƆƆ “MANLƖ TISƲLƆ” NƖƖ “MANLƖ NGYIAKƐ BULOMBUNLI” NƖ GYĨ KƐNƖ MA A?,"Mịnịtị ole na ole gara aga, mụ na ndị isi rọọrọ ndị mmadụ njikọ ebulumbulu ịji kee na.",1.0,0.7746
+963,d MFONYINI NWƲ ODWOKƆ: Jack yi ozumanlɛnwʋnlɛ yɩ nwʋ yɛkile.,Ụfọdụ n'ime ụmụ nwanyị na-enwekarị ike ịjụ ịzụta akwa ọhụrụ iji kpiri.,1.2,0.9796
+964,Devidi yi ndwokɔ mɔɔ itualɩ yɩ tʋ nɩ nu a?,Etiti n'ụwa. John njikwa mụọ,1.0,0.8125
+965,Mɩnla ɔhʋanɩ zʋ yɛ yɛkɔhʋla kɛla yɩ ali kɛɛ Gyehova yi dima yɩ nwʋ hyinyia yɛ a?,"Mmanu zị ya ya kọwaa ka laị ya dị ka ya, Jehova dị m enwuchi ya a.",0.9412,0.5873
+966,KENYA—MMELIYEMA YƖ NYIANLƖ MƲ NWƲ ABƲTALƖ,"Kenya, meriamenyare muwa butare.",1.0,0.4857
+967,Devidi nɩɩ Abigɛlɩ a?,"David nya bigalu ya, ke kene ya la dienu la li di ke",3.25,1.7647
+968,“BƐVÁ BAABAYƐLƐ BELI TANƖ ZƲ NKUNIMI”,"N'isi nke m ga-eji mụ onwe m gwa gị aha, mụ na ya rụọ ọrụ",2.5,1.2
+969,ƖMANLƖ BAYƖBƲLƲ NKƆMƖHYƐ WƲWALƖ YƖ ADWƖNƖ NU,Emma Bible onye kọọm si ụwa ya ajụlụ nụ.,1.2857,0.7632
+970,"a Sɛ ɛpɛ kɛɛ ɔnwʋ ndwokɔ nɩɩ vidiyo azʋlɔtʋ mɔɔ bɛhã nwʋmɔ odwokɔ wɔ dɩyɛzumanlɛ eyi nu nɩ a, kɔ jw.org zʋ na kɛlɛ kua pɩbɛ́ ɔfʋã kɛnɩ.","Sepụta ihe omume vidiyo a zoro ma ha mụọ dịzị ma lee ịlele ya. Kọjee w.org, na-akọkwa pebụl fakenị.",0.9643,0.6731
+971,“YƐLƐ ANYƖLƖLELƐ NƖƖ ƐHYƖMƐ YƐSƲ̃MƖƖ NYAMƖNLƖ”,Yalaileni asim ya sume ya amiri.,1.0,0.6842
+972,Duwa Abɔdɩ Zʋ Kilehile Wu Nnwuakula Gyehova Nwʋ Dɩyɛ,"Tupu a malite izu ike, ụmụ nwoke kwere Jehova nkwa dị ya.",1.3333,0.6591
+973,KUNLUMIYƖBALƐ NWƲ OZUMALƐDƖYƐ,Kullumin ba lafiya lau zuwa maladiyya.,2.0,0.6296
+974,"“Naasʋ̃, Sir , . . . sɛ ekilee dɩyɛ yɛ na sɛ yɛádɩ debe tʋ a, yɛáɣizia odwokɔ wʋ a?”","Na so e se, se ekwedi ene ya di di be to a, ye yi ze jukwa.",1.0,0.6
+975,"Sɛ Yenyia Ntɩyasɩ Fʋlɔ Wɔ Bayɩbʋlʋ Nu Odwokɔ Be Nwʋ a, Ɔkɔnwʋ Yɩ Wɔ Ɛhɩnlafʋã a?","Sị na ndị a sụrụ Bible n'ụdị nke bekee nwụrụ anwụ, ọ kwa nwee ihe ọ pụtara?",1.0625,0.7778
+976,"Asʋ̃ mɩlanwʋ la mʋkʋla mɩyɛ mɩ dɩyɛ ndɛndɛ a? Kɛ ndianwʋ nɩ, mʋkʋla mɩyɩ mɩ agyia wɔ accelerator yɩ zʋ ndɛndɛ mitiyia bileeki yi zʋ a?",A sị m na ọ ga-amakwara m ihe dị nde nde a. Kee ndụ a unu e? Mụ kwara m ga-emejewasịrị gị ezigbo nde nde mitia brik izu a.,1.0385,0.6476
+977,Mɩnla ɔhʋanɩ zʋ yɛ Kɔlɛntɩmaa nɩ lili ndwokɔzɩzɩbɛ mɔɔ ankɩ ɩkɔhʋla kezi bo onlumanlɛ nwʋ ɔhʋanɩ nɩ zʋ a?,Mụ na nwanne m nwụọ ya kwenyere na a na-elerịta anya na ọ dịghịkwa ezigbo mmadụ nwere ike ịnwụ n'ụzọ a.,1.0526,0.7791
+978,"Sɛ yɛkakɛ kɛɛ Nyamɩnlɩ mɔɔ yɛsʋ̃mɩ yɩ nɩ yɛ lɛ “tɩyasɩvʋlɔ Nyamɩnlɩ nɩ” a, ɩbʋwa yɛ paa.","Saa kake ka nyaamulmoya soomi ni yaa leti asawuro nyaamri ni a, e buwa yepa.",0.9412,0.5821
+979,Kɛ ɩkɛyɛ na yɛahɔ zʋ ‘yɛaɣike Nyamɩnlɩ’ a?,你觉得好笑也可以啊，没关系啊。,1.0,1.0
+980,ƆHƲANƖ MVƲLƆ MƆƆ YEKOLUWA ZƲ YƐKƐHYƐ YƐ NWƲ YƐ NWƲ ƐZƖZƖBƐ,Ọhaneze vụrụ ọnụ na ya ekweghị azụ ya kachasị ya bụ onye nzọzọ ya.,1.2727,0.8125
+981,Dwɔɔnʋ yi ndwokɔ mɔɔ itualɩ yɩ tʋ nɩ nu a?,Il paraît une noire.,1.0,0.875
+982,Kɛ yɛkɛyɛ na yɛazuma sʋ̃maa wɔ abɔdɩ nu a?,Kedu ka ị na-eme? Ụbọchị ọma!,1.0,0.8125
+983,‘Nyamɩnlɩ Mɔɔ Yekeɣike Yi Nɩ Dɩ Baaba’ Ma Yɛ!,Mụ na ya keke na-di baba m aya.,1.0,0.5294
+984,FA WƲ NWƲ TIÃ GYEHOVA ZƲ MMƖLƖ MƆ WU KUNLU DU NƖ,"Fawuta jo wazo, molo mo ukulu duni.",1.0,0.5135
+985,MƆƆ KƆLƐNTƖ ASAFƲ YƖ YƐLƖ MMƖLƖ MƆ ABIYE YƐLƖ TANƖ MƆƆ NUMƆ YƐ ƆNLƲMƆ NƖ,Mọọkọlịchaa sọfụ ya bụ ị ga-ele mụrụmụọ ebe ị ga-ele taa mụrụmụọ ya ọlụmọọ.,1.0,0.7759
+986,Kã wu ozumanlɛnwʋnlɛ kile mmenii mvʋlɔ. Kila mɔɔ mmenii eyimmɔ hanlɩ wɔ Bayɩbʋlʋ yɩ nu:,"Ka ọzọ malite na klaimụ na enweghị ọbá akwụkwọ dị iche, bụrụkwa onye Devid.",1.0,0.8169
+987,c MFONYINI NWƲ ODWOKƆ: Eliyema benyia be mɔɔ iyiyiaa ndwokɔzɩzɩbɛ ituaa nyilalɛ mɔɔ ikenyia wɔ oyuwadɩ fʋlɔ yi nu nɩ nwʋ mfonyini.,"Ụmụ nwanyị jikwaa aka nka eme ihe, e riama ihe bụ mmanụ aṅụ ị jikwa zịzị be, ị twa nri ala mụ ekenye a wụrụ ụyụ adịghị fụrụ ehi nụ n'ụmụ ehi ni.",1.4545,0.729
+988,MƖNLA ƆHƲANƖ ZƲ YƐ ASAFƲ NU MBANIMBANI KƆHƲLA KOZUMAZUMA GIDIYƆNƲ WƆ EYIMMƆ NU A?,Mụ na Hanzo ya chefuru na mbụ na kọlọkụzụzụ ma Gidion wee yigharịrị ya.,1.0,0.5821
+989,Mɩnla yɛ Gyehova kyina zʋlɔ fa yɛ tanɩ kyɛ yɛ a?,Mụ na Jehova Chineke na-azụlite anụcha ya.,1.0,0.6486
+990,"Ekehila bɔ zʋ, O Gyehova;","Eke hiri bazo, o Jehovah.",0.8,0.3684
+991,GYEHOVA YƖ ANƲHƲBA MƆƆ ƖFALƖ EƔILE BE NWƲ NƖ KƆHƲLA KƐYƖKYƖ YƐ ƐƔƐƐLƐ,Jehova nyere nwa ya nwoke ọkụkụ ka ọ chịkwaa ya.,1.0,0.807
+992,BƆZƲ̃MƖNLƖ GYEHOVA WƆ ƆHƲANƖ MƆƆ ƖPƐ YƖ NƖ ZƲ,Bọọzụ mụ na Jehova nwere anụrị ịpe n'izu.,1.0,0.6389
+993,MMƖLƖ MƆ MMENII MVƲLƆ ƔA YƐ DƖYƐZUMANLƐ,"Mmm, mmm, m'envolerai",1.0,0.697
+994,Ndwokɔɣizialɛ Mɔɔ Ɩzʋ̃ Ɛɣɩngalɛmaa Bɛ Ɛkɛnɩ,Jokó izaramụ ezigbo ngara m abekene.,1.0,0.5946
+995,KILA BƲWƆ WƆ KEZIMƆ ƐKƐYƐ WƲ DƖYƐ WƆ NSISI NWƲ,"Mmadu abụọ na-eri ibọne, e bie ya like a",1.0,0.8919
+996,SIANTI MƆƆ IHYINYIA KƐƐ YEDE YETIÃ NUMƆ KƐƐ GYEHOVA DƆ YƐ,Senti ma yieny ka iidho ne moko e jowadoye.,1.0,0.617
+997,Tanɩfakyɛ Ansaana Elelɛdɩyɛ Nɩ Ɩbaa,Tanu facce ansanilele di a neighbor.,1.2,0.5484
+998,"Sɛ yɛkɩnga Bayɩbʋlʋ yɩ a, sa yɛkʋla yɛpɩbɛ ozumalɛdɩyɛ mvʋlɔ iluwa ɛbɩbɛlɛnu mɔɔ yɛkɛyɛ yɛkɛvalɩ ndwokɔ mɔɔ nwʋmɔ hyinyia nɩ nwʋ. Naasʋ̃ kɛ ɩkɛyɛ na yeanyia eyi zʋ mfasʋ sʋ̃maa a?","Sọ ya ka m ga-abụrụ ya, sọ ya kwa ebe ụzọ mara di ya mvụrụ ịrụ ya ebe dị n'ụmụ ya ka ya ka vaara njikọ ma ọ bụ eshi ya nụ na asụkeke ya na ya enye ezi mfe asụsụ mụ a.",1.3226,0.5972
+999,KƐ OKOWUWA KEZE A?,Kedu ka ọkụ gị dị?,1.25,0.8571
