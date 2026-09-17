@@ -66,6 +66,24 @@ benchmarks:
       valid: 1000
       avg_seconds_per_sample: 0.52
   source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: kdh
+  wer: 1.2343
+  cer: 0.6113
+  per_category:
+    bible:
+      wer: 1.2343
+      cer: 0.6113
+      samples: 1000
+      valid: 971
+      avg_seconds_per_sample: 0.28
+      failures:
+        TypeError: 116
+  source: evaluated
 - model: google/gemma-4-12B-it-nothink
   model_url: https://huggingface.co/google/gemma-4-12B-it
   owner: google

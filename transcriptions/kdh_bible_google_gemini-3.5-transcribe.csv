@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Bʊrɔɔzɩ́ gɛ Ɩsɔ́ɔ waabá ɩkpáázɩ yɩ ɩsɩ́ɩ yɩ ɖɩdáarɛ ɖɩɩgɩ́lɩ adá rɩ́ŋa nɛ́, bɩka ɩfa yɩ yɩ́ɖɛ ɖɩɩgɩ́lɩ yɩrá rɩ́ŋa nɛ́.","Bụrụ na ọ sọwa gị bụ ikpa isi, ị sị na dara dị gị n'ele a dara gị na ya, biko ịfa ya dị gị n'ele nyirara gị na ya.",1.4286,0.7326
+1,"Kaɖaa-dɛ́ɛ nɛ́, bɩ́nbɔɔzɩ́ ɩbá ɩsɔ́ɔ́lɩ ɖamá, káma, sɔɔlɩ́m wɛ́njɛ́m alaháácɩ́wá tuutúúma gɛ.","Kada den, bumbuzi eba usoolu dama kama, soolum wee njem alhatuwa tuutu magu.",1.0,0.4179
+2,"” Amá, a méévé malɩ́ɩ ɩsɩɖáa-daá, mɛ́ndɛ́ɛ mɩ́ɩ nɩ́bááwʊ mobó Galilée laadɔ́ɔ-daá.","Ama, amaghi m ma ihe si na-ada. Mụ na ndị mụ na ha nọ n'ụgbọala lere anya n'azụ.",1.5455,0.6441
+3,"Bʊrɔɔzɩ́ gɛ máábá mɔ́zɔɔlɛ́ɛ mevééri mɩ́ɩ ɩtɩlɩ́ sɩsɩ naárʊ fɛ́yɩ́, a Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa wéngeti kʊ yɩ, wánbɩɩzɩ́ ɩŋmátɩ sɩsɩ: «Ɩsɔ́ɔ ɩ́la Yeésu láálɩ́» nɛ́.","Bụrụ na ọ sị gị, mụ a bịa mụ sọọ ya mmiri, etela ya sịsị. Na arụ fụrụ a esọrọ ya kee sị na ọ wụ ngị tukwụọ ya. Wa bụ ezi enwata sịsị. Esọọ ya na ya esụla arụ na",1.6667,0.6607
+4,"Weení ɩŋmaráa na ma bɩka mɔ́ɔ́ máŋmáráa na yɩ nɛ́, bʊdʊ́ʊ wánlám kífeńbi ɖabata, káma, a mɛ́vɛ́yɩ́ mɩ́jɔ́, mɩ́dánbɩɩzɩ ɩlá báa nabʊ́rʊ.","Nweghi nwaara ana ma, bu ka mụọ ma nwaara ana ịne. Bụdọwaa alụm kịfị m bịdabata kama. Amaghị mụ jọọ, mụ daa mụ bị eze ịlaba ana bụrụ",1.1818,0.449
+5,"Lɛlɛɛɖɔ́ nɛ́ kpɩná náádoozo wɛ ná: bɛɛ toovonúm fáa, tamɔ́ɔ, na sɔɔlɩ́m.","lele aduonu e, bena na dozuona beatuonu fa tamo na soole",0.8333,0.5283
+6,"Bɩlɛ́ nɛ́, koobíya máábá mɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, sáátɩ wenkí mávʊnwɛ mɩ́jɔ́ nɛ́, mɩ́ɩ́bá ɩnɩɩná ma.","Bia nu, kọọbịa mụ abụọ mụ zọọlụ eme na, sị atụwe nke m afụghị n'ọmụjọ na, mụ ịba e na ịna",1.4,0.5821
+7,"Nuvoowú nakɩ́rɩ, Ɖádʊ́ʊ waalɩzɩ́ ɩdɩ ɩwɩ́lɩ Pɔ́ɔlɩ, ngɛ wɔɔdɔ́ yɩ sɩsɩ: «Nkanɩ́ɩ nɩdáárɛ, laaná ŋmatɩrɛ, nkosú tɔ́m.",,,
+8,"Méévééri mɩ́ɩ bɩrɩ́ŋa bɩlɛ́ gɛ na a mɩ́ŋmáráana ma, iyuú fɛɛzɩrɛ.",Ame mara na ma iwu feze.,0.8182,0.7143
+9,Ɩnáábɩ́lɛ́ Kezeŋa wenká kánwɩlɩ́ɩ wenbí bɩgɛ́ɛ toovonúm nɛ́.,"Nnamdi lekezina nwinka, ka m lee ihe m bibigoro n'ụbọchị",1.25,0.617
+10,Ɖaanɩ́ŋa-rɔ kpátáá bɩlɛ́ gɛ Ɖádʊ́ʊ Ɩsɔ́ɔ wɔɔgɔ́nɩ wéngilím kárɔɔ́-daá.,Dalu ịsọwa gọmentị karịa,1.0,0.7925
+11,"Amá, weení ɩ́dánjaa baaganáa nɛ́ waasɩ Ɩsɔ́ɔ, káma, Ɩsɔ́ɔ kɛ́ɛ sɔɔlɩ́m gɛ.","Amma, wani dan ja'ba ga na'ne wa'si iso kama iso ke so le'm ge.",1.0833,0.4151
+12,"Mévééni wánnɩɩ́ mɔ́nɔ́ɔ́, mányɩ tɩ bɩka tínvúu ma; mánváa tɩ weezuú kɩ́dɛ́ndɛŋ́ nɛ́.",Tạm ma tẹ ẹnụ na-adọ. Zị nụ ndị ọzọ na-anụ olu mụ ebe a. Yahuda bụ ndị a adịghị asị na tele onye na-eso Jesu ka ha na.,2.1538,1.1475
+13,"Fɛɛzɩrɛ wɩ́rɛ báa wenɖé, Pɔ́ɔlɩ wánzʊʊ́ Yahúúɖuwá-dɛ́ɛ Ɩsɔ́ɔ ɖaazɛɛɖɛ́, wánlám Yahúúɖuwá na wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ faawɩ́ɩ.",Walla ya huduba na wammatake ya huduba na fa'awu,0.9412,0.72
+14,Ɩzɔɔlɛ́ɛ gɛ sɩsɩ báa weení ɩlá túúbá ɩkɛ́ɛ cɔwʊrɛ.,Eziokwu na-egosi na baibụl n'ala tupu e kee chọọchị.,1.0,0.7949
+15,Ɖánzám Ɩsɔ́ɔ Wúro Kʊ́bɔnɩ́ ɩmʊ́ weení wɔɔgbɔ́ɔ nyɛ́dɛ́ɛ ɩ́bɛrɛwá ɩɖʊ nyɛ́ńdɛ́ nɛ́.,Nzam isoro wulu gbo na imu wa eni. Wogbo nyede ibe ruwa idu nye,1.1667,0.5763
+16,"Wenbí ɖááná bɩ bɩka ɖiwélesi bɩ nɛ́-dɛ́ɛ tɔ́m gɛ ɖénveerím mɩ́nyɔ́ɔ́ ɖʊɖɔ, na ɖána mɩ́ɩ ɖiyóózi ɖɩlá kʊ́ɖʊḿ.","Wemba na bi, buka duwelesi bena del tom ge, den weri munyondo do na dana mi du yo si de lakodo",1.1111,0.475
+17,"Ɩ́kabɩsɩná mɩ́dɩ liideé-dɛ́ɛ yomáa, amá, ɩzɩŋná wenbí mɩ́wɛná nɛ́, káma, ɩdɩtɩŋa wɔɔdɔ́ sɩsɩ: «Médénÿelí nya kɛtɛngɛrɛ, mɛ́dɛ́njɛḿ nya madálɩ kɛtɛngɛrɛ.",ka basena medili de de yoma ama e zengina wembi muwanane kama etetina wa odosese meden yeli nyaka tengere meden jem nya mandali ketengere,1.05,0.3621
+18,"Bʊ́ʊ́rɛ wenɖé bónzulúu lɔkɔ kɩḿ kɩnɔɔ́-rɔ nɛ́, bʊ́ʊ́rɛ gɛ fɩ́ya ńɖɛ.",Bura wundi bo zululaka kunu oro ne Bura ga fiyandi.,1.0,0.5208
+19,"Bánváa mɩ́ɩ lɩ́m ɩsáŋ mɩ́nʊvɔ́, bɩka ceré tɛ́ɛrɛ́ nɛ́, ɩlɩ́ɩ ɩkpɔ́ɔ mɩ́nɩ́bááwʊ.",Bamileke,1.0,0.8909
+20,"Ngɛ bɛlɛ́ boobúsi yɩ sɩsɩ: «Bɛtɩlɛhɛ́ɛm, Yudée laadɔ́ɔ-daá.",Betelehemu Yude la dɔ,1.0,0.7273
+21,» Ngɛ beegízi yɩ badafa yɩ toovonúm.,Ebebeze elam amachi ba na kere na Nazareth na mu. Ama ku dondi na nebere ozi ge wa di na n'ozi iwa zuwe. Nazareth mmadu ebe da,4.5,3.0
+22,"Zamɔ́ɔ kʊ́bɔńgɩ woodúúzi; ɩráa waagálɩ́ɩ́ná tɛ́ɛ́dɩwá ndɩ‑ndɩ-daá bɔkɔ́nɩ ɩjɔ́, ngɛ waaŋmatɩná wɛ na tɔmgɛɛzɩrɛ sɩsɩ: «Ɩrʊ́ naárʊ woobo ná ɩvɔɔ́-daá kúɖúúdi larɩ́ɩ.",zamokwaba ngoduzi. Erha wa agali na teeduwa ndi ndi da bokoni ijo. Ngiwa anmatina we na tongezi resi. Eru na ru ogbu na ife oda kudi udilare.,1.1364,0.4274
+23,Yeésu weevéézi alʊ́ leelú biyaalʊ́ ɩsɩɖʊ́.,Yesu wee weezi alulelu bia lu ebe,1.1667,0.3636
+24,"» Ngɛ Yeésu woobúsi wɛ sɩsɩ: «Toovonúm, Elíya wɔ́ngɔnɩ́ ɩnyɔ́ɔ́zɩ báa wenbí naanɩ́.","Yesu obuso asase, tovo nu, ilia wanwane enye ozi baa wu mbi na anọ.",1.0833,0.4262
+25,Ńna gɛ baagbɩ́ɩ́rɩ yɩ ɖɩdáarɛ sɩ ɩcɔ́ɔ bɛcɛlɩ́ yɩ bɩ́ɩ́zɩ nasúdoozo na fɔɔlʊʊ́.,Naga bagwiri didarase cho bachali bezi nasu dozo na folu,0.9231,0.5254
+26,"Káma, ɖɔ́ɔ́dɔ́ yɩ sɩsɩ ɖéndiríi yɩ mɩ́jɔ́ nɛ́ weedísi; ngɛ bɩɩbá bɩlá yɩ ɖasam boɖé.",kama do do ese se den diri mujone we disi nge bi babila ida sambo,0.9333,0.4098
+27,"Ɖájaájaa Ibrahím ní, bɩdɛkɛ́ɛ ɩdɩmɛ́ kazɔ́ɔ ńná-rɔ gɛ Ɩsɔ́ɔ weeɖéézi yɩ sɩsɩ ɩzɩɩzɛ́ɛ sáátɩ wenkí wɔɔgbɔ́ɔ ibiyaalʊ́ Ɩsaáka sɩ ɩlá Ɩsɔ́ɔ sarɔ́ɔ sarásɩ ɖaalanɖɛ́ nɛ́?","Raja Ibrahim ni, bideke e di meka zo na roge, oso we de ezi sese ezize sa tuwenki, wo gbo ebiya lu e sa kasi ela oso saro sarasi da ala ndene.",1.2,0.4252
+28,"Bɩɩga mɩ́nyɔ́ɔ́ nɛ́, Kezeŋa mííyúú kɛ Krísto-jɔ́ nɛ́ wɛ mɩ́rɔ́; bugúti bɩvɛ́yɩ́na sɩsɩ báwɩlɩ mɩ́ɩ.","Béé kam nyon, kéé séé kam mi yu ka Kristu joon, u wéé moro. Bukuti béé véé na séé ba wuliméé.",1.4,0.5286
+29,"Koobíya, na ɩbɩ́ɩ́zɩ iyuú mɩ́dɩ nɛ́-rɔ gɛ Ɩsɔ́ɔ waayáa mɩ́ɩ.",Na ebe a ịbịdịrọ gị ịsọwa ya.,0.9,0.7381
+30,"Bɩjɔɔ́ɔ nɛ́, Ibrahím woogúti ɩkpɔ́ɔ alʊ́ ɖʊɖɔ ɩtásɩ.",Bujone Ibrahim wogute ikwa alududo itas,0.875,0.4615
+31,"Bɩɩgɔ́nɩ bɩsála kaanɩŋá tɛ́ɛ́dɩ-daá nɛ́, Pɔ́ɔlɩ waayáa wanbaaráa ɩtásɩ wɛ sɩsɩ bɔ́ɖɔ́kɩ zinbirí, ngɛ wɛɛzɛ́ɛ wɛ biléceré bɩtɛ́ nɛ́, waagʊrʊ́ Efɛ́ɛzɩ tɛ́ɛ́dɩ-daá ɩɖɛ́ɛ Masedʊwáanɩ.",De kwanu bisalaka na nteye dinda ne Paul wa ya wa mbara etaso wasese bodaki zimbiri ga wa zewe bilekere bitene wa goro ife ziteye dinda ide maseduan,1.1667,0.5037
+32,"Káma, Yaayá-dɛ́ɛ tɔ́m gɛ Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá waaŋmátɩ sɩsɩ: “Méndiríi mɛ́dɛ́ɛ tɩndʊ́ʊ itóróbó bɩka ɩkpára nya nyánɩ́bááwʊ.","Yaya dai tom ga, ya sanyi dai tom takarda wa anwata sisi. Me ndiri me dai tom du itoro bu, be ka ikpara nya nimba",1.4118,0.4479
+33,Ngɛ mááná fanaḿ naárʊ wángalɩɩnáa tenkú-daá.,Ngam maana fannu mnaaru waangale na te nkunda,1.1667,0.2973
+34,"Amá, Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa weevéézi yɩ ɩkábɩsɩ weezuú-daá.","E so de ke se we fe si, e ka bi se we",1.8571,0.6429
+35,"Sáátɩ wenkí béngedím bʊ́ʊ nɛ́, ngɛ Yeésu waabásɩ wɛ sɩsɩ békefééri naárʊ wenbí baana nɛ́, hálɩ Ɩrʊ́ Biyaalʊ́ ifé ɩlɩ́ɩ ɩsɩɖáa-daá.",,,
+36,"A ɖɔ́ɔ́ na ɖɔ́ɔ́, ɖányɩ sɩsɩ ɖáálɩ́ɩ sɩ́m-daá ɖɩsʊ́ʊ weezuú-daá, káma, ɖɔ́zɔɔlɛ́ɛ ɖógoobíya.","Adonai do, da yi sese da lisim da adu'su we zu nda kama dozo le dogo obi a.",1.3077,0.4769
+37,"Ɩ́kɛkpɛɛná bíya bɛḿ badaá naárʊ, káma, ménveerím mɩ́ɩ sɩsɩ báa sáátɩ wenkí bɛdɛ́ɛ malááyɩ́kawá sɩ́ŋɛ́ɛ Majaa weení ɩwɛ ɩsɔ́ɔ́dáá nɛ́ waazá-daá gɛ.",ke kpe na bia bemba da na aru kama mfe iri mma esesi ba asato nke kpe de malai ka wasi ya ma nja we ni iwe so da na wa za da gi,1.5,0.4107
+38,Ngɛ baajáa tɩɩwʊ́ bánÿaá kɩ sɩsɩ figíyée nɛ́-dɛ́ɛ fáádɩ balʊ́ʊ bɔtɔɔ́lɩ.,Ihe gbasara ya bụ ihe a kọsara n'ime akwụkwọ Nsọ.,1.0,0.8364
+39,"Baazɩ́ nɛ́, Sɩkɛ́ɛm gɛ bɔɔgɔ́gɔ́ná wɛ bebí bɔɔlááwʊ Ibrahím waavʊ́ńmʊ́ʊ kɩ na liidebɔná Amɔ́ɔrɩ bíya-jɔ́ Sɩkɛ́ɛm ńnaamʊ́ nɛ́ kɩdaá.",Bázen Sikem gá bọ́gọ́ gọ́ na wẹ́ bébì. Bọ́ láo Ibráhímụ̀ wá fún mụ́ ókè ná l'édò bọ́ ná áma órí bí ajọ́ Sikem n'ámụ́ nẹ́. Kédà,1.4211,0.5612
+40,Lɛlɛɛɖɔ́-dɛ́ɛ Yerusalɛ́ɛm kʊwɛ yoḿti-daá kɩ́na kibíya nɛ́-dɛ́ɛ ɩlɛɛzʊ́ʊ nbɩlɛ́.,"Lela dɔ de Jerusalem kɔbɔ yɔm tida, kɛ na kɛ biɛ na de e le zɔm bɛ.",1.8889,0.4915
+41,"Bɩka wentí ɖádayáa tɩ nabʊ́rʊ nɛ́, tɩlɛ́ tɩrɔ gɛ ɖáábá ɖóngunáa laakáarɩ bɩkɩ́lɩ tɩɩganáa.",bụ ka o wee tinye ya na mụrụ nụ. Tele tụrụ gaa daa abọdọ ngwu na ala ka ọ ribe kele tinye gaa daa,1.7143,0.5352
+42,"» Ńna gɛ baalɩzɩ́ ɩráa nɔɔ́lɛ: Ísifu, bánÿaá yɩ sɩsɩ Barɩsabáasɩ, weedéɖíi yɩ́ɖɛ sɩsɩ Yusitúusi nɛ́, na Matɩyáasɩ.","Nna gbalụ zi ịra nọọle. Ịsị fụ, m baa ya esịsị bara sabasị. Wee dede ịne sịsị yusụ tọsị na. Namba tiasị.",1.1765,0.4713
+43,"Ɩ́dɛ́njɛḿ Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-daá, ɩwɛ ńna gɛ nuvoowú na ɩdaawʊ́ wánlám yɩ bɔwʊtá, wɛ́nzɛɛ́ yɩ bɩka wɔ́nvɔkɩ́ nɔɔ́.",Ihe m ji wee soro dee akwụkwọ nga daa bụ nna mụ na ya bụ nwoke na-akpọ,1.0,0.7727
+44,Nimíni weení wánváa wɛ zááfɩ́ nɛ́-dɛ́ɛ nyɔ́ɔ́zɩ sɩ ɩkpa ɩsɔ́ɔ́dáá bɩlɛ́ gɛ bɩvɛ́yɩ́ bɩ́ndɛ́m kɛtɛngɛrɛ.,"Ndi mmadu nwere nwa mbu ha zafuna, dee nyozi si ekpa so daa bulege, be very bem keta ngara.",1.2667,0.56
+45,Zamɔ́ɔ kʊ́bɔńgɩ wɛ ńna bɩka kɩdɛ́ɛ ɩráa ɩbá bányʊʊ́ ɖamá sɩ banɩ́ɩ Ɩsɔ́ɔ-dɛ́ɛ tɔ́m.,"Samakobongwe nna, bakade ira iba banyudama sibane iso deto",0.9286,0.4667
+46,"Báa wenɖé ɩzá-daá na ɖɩwɔ́rɔ́, ɩzá bíya riké wɛ ná.","Ba wanda ya san da na duworo, zan biya rike wa",0.9,0.4595
+47,Bɛlɛ́ bɔjɔɔ́ɔ ɖɔyɔɔyɔɔ bakɩ́lɩ Tesaloníiki ńba.,बाइबल जोड़ों यो यो बाकिली थेसलोनिक,1.0,1.0
+48,mánɖʊ́ʊ mɛ́dɛ́ɛ Kezeŋa ɩrɔ.,"Omedebotalu mada malụ zị na ị na-emere m abamọzụọlị, m wee zụkọọ mụ wee mbịrị. Ma ndụ omede kịzịna ịrọ.",5.0,3.55
+49,"Faala gɛ baava mɩ́ɩ, mɩ́nyɔ́ɔ́ ɖʊɖɔ ɩva faala.",Fa la gba fa me. Mi nyododo ifa fa,1.125,0.5455
+50,Ngɛ wúro weedíri bakáyáa yɩ sɩsɩ: «Nbá nɖɛɛlʊ́ nbɩlɛ́; bɩɩlá nŋɩ́nɩ́ gɛ nyɔ́ndɔ́m sɩsɩ nyénewú.,"Nke a bụkwa ụzọ e ji akaya eseese. Mba, m dee lụ mbele. Beela ngị na gị nyọndọ m sese nye nu",1.4667,0.5634
+51,Waava wɛ yíko zííniwá-rɔɔzɩ́.,wa wa yi kozi ni wa rozi we veru,2.25,0.6087
+52,Ngʊ́ Ɩsɔ́ɔ sarásɩ lanɖáa riké gɛ Mará waava nɩ́bááwʊ sɩsɩ bɔ́tɔɔ tɩ.,ngo esowasarasila ndayikege mara wa vanu mbausisi botot,0.9167,0.4231
+53,"» Ńna gɛ Pétro wɔɔgbɔ́ɔ ɩtɩ́ wɛ nŋɩ́nɩ́ bɩɩlá nɛ́, sɩsɩ: «Mɔ́wɛ Yopée tɛ́ɛ́dɩ-daá mánzʊlʊ́ʊ nɛ́, ngɛ bɩɩlɩzɩ́ nabʊ́rʊ bɩwɩ́lɩ ma.",Nna gị peetụrụ gị ọkpọ etewa enenebeghị na sịsị. Mụwa yụọ peetụrụ gị ndị ama nzọlụ ụnụ. Nna bịa ịlịzị na bụrụ bụ nwoke,1.15,0.6292
+54,"Ɩbɛɛŋná Ibrahím, Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá wɔɔdɔ́ ɩrɔ sɩsɩ: «Ibrahím waava Ɩsɔ́ɔ toovonúm nɛ́, biiyéle Ɩsɔ́ɔ ɩyáa yɩ sɩsɩ ɩrʊ́ ɩzɩɩzɛ́ɛ nɛ́.",Ibrahim Ibrahim,0.9048,0.8641
+55,"Tɩmɛ́rɛ nyááɖʊ́ ma ɖɛ nɛ́, máálá ɖɛ ɖɩkʊ́ʊ́rɩ.",Timmere nya adumadene maala dede,0.875,0.5625
+56,Wɔɔdɔ́ wɛ sɩsɩ: «Ɩjɔ́ɔ Yerusalɛ́ɛm cé ɩɖáŋ kʊjɔɔwʊ mááŋmátɩ mɩ́ɩ kɩdɔ́m nɛ́.,wa dọwa sese ejọ Jerusalem che edan ku jọọ ma nwate ma ekwu dọm,1.1667,0.5714
+57,Tɛ́ɛ́dɩ bánÿaá tɩ sɩsɩ Úuri tʊwɛ Babilɔ́ɔnɩ laadɔ́ɔ-daá lé baalʊ́rʊ Haráanɩ ɩmʊ́ nɛ́ tɩdaá ńna gɛ waazɩ́ ɩka ɩjaa.,"Taa bụ ụbọchị atọ site ugbu a, Babịlọn ladọ d'alị, ma ọlụ haran emunah. Tda nna gị waazi ịka ịja.",1.0,0.5465
+58,"Káma, ɖáábá ɖányɩ Ɩsɔ́ɔ, ɩmʊ́ weení waaŋmátɩ ɩyáázɩ sɩsɩ: «Mɔ́ɔ́ sɩ moyooná na kʊ mɩ́nɔ́ɔ́; mɔ́ɔ́ sɩ mɛvɛrɛ ná.","Ka m adabanyeso, emume nwa a nwere ike ịbụ ihe siri ike. Mụ onwe m yọrọ na akwụkwọ nsọ, mụ onwe m ekpere",1.1579,0.7821
+59,"Amá, mɩ́nyɔ́ɔ́ koobíya ɖɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, báa ɖánŋmatɩ́ ɖɔ́ nɛ́, ɖáábá ɖiɖéézi sɩsɩ mɩ́nyɔ́ɔ́ mɩ́wɛ nɩ́bááwʊ kazɔ́ɔ ńgɩ kínÿelíi iyuú lɛ́ɛ́dɩ nɛ́ kɩrɔɔzɩ́.","ama mụ na ọbụ ihe ọzọ le mụ na ya. Fa da nwatu do na, fa ba di de ezi sese, mụ na ọmụ nwanne mụ ba ụka zọ nụ gi ka ị yeli ịyụ le di na kụrụ ọzọ.",1.6957,0.5946
+60,"» Ńna gɛ malááyɩ́ka wɔɔgɔ́lɔ ɩdɛ́ɛ loozó adɛ laadɔ́ɔ-rɔ, ɩkɔrɩ́ kɛdɛ́ɛ víinyi bíya sɛ́kɩ́rá ɩkpɔ́ɔ wɛ ɩbɩ́rɩ Ɩsɔ́ɔ-dɛ́ɛ baaná-dɛ́ɛ bɔɔwʊ́ kʊ́bɔńgɩ lénlé bánnyaazɩ́ víinyi bíya nɛ́ kɩdaá.","Nne ga-amalite kwa ogologo ejiri ozu adila adoro, ekwori ka eji vinye ndi ya sekara. Ekpowaa eberi ozu di ebe a na di ebe a ukwu bu ngi. Lelee ba nya zi vinye bi ya na kedi",1.4231,0.5401
+61,Ńna gɛ wenbá booyuú bese bɩlɛ́ nɛ́ badaá kʊ́ɖʊḿ woobó ɩtɩ́ tɔ́m ifééri Ɩbrám Éburu ńnɩ́.,"Nna gi, wimabo oyibo sebulene, mana akudum gi ogbo ete tom ifeiri eberam eburu",0.875,0.4091
+62,"Ɩlɩzɩ́ kpɔ́nɔ́ faadɩ́nɩ kɩ́bɩńdɩ mɩ́lɔ́wʊ́táá, tɩlɛ́ gɛ alaháácɩ́, bɩka ɩbɩ́sɩ nyazɩ kpɔ́nɔ́ mʊ́tʊ kɩ́fatɩ.",Eles se põem a fazer neste bando de malta. Terá de alarache. Porque é preciso que haja,1.2143,0.7895
+63,"A ngʊ́ bɩlɛ́ gɛ naárʊ waalá alaháácɩ́, ɖɔ́wɛná weení wánvʊʊnáa ɖɔ́nɔ́ɔ́ nɛ́ Caáwʊ-jɔ́: ɩlɛ́ gɛ Yeésu Krísto, ɩrʊ́ ɩzɩɩzɛ́ɛ nɛ́.","Nna m gị bụrụla gị na ruwa na alaeze, do na uwe na nwafo na do na ncha ujo, eleghi Jesu Kristi, ịrụ ezịzè.",1.2,0.6111
+64,Ńna gɛ Barɩnabáasɩ na Pɔ́ɔlɩ baabáázɩ tɩ́m maamááciwá na mááɖéwá rɩ́ŋa Ɩsɔ́ɔ waabaná wɛ ɩlá wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ bɔlɔwʊtáá nɛ́ bénveerím wɛ bɩka bɛlɛ́ bénwelesí.,"Nnamgbe Barnabas na Paul. Baba zi tim, mama chuwa na ma duwa ringa. I sowa abanowa ella. Wun baba deke ya huluwa na bolota ne, benveri nwe. Beka bale benwelu si.",1.1538,0.3778
+65,"Bɩlɛ́ nɛ́, ɩrʊ́ ɩkátara wenbí Ɩsɔ́ɔ waadá bɩ nɛ́.","Bila ne, ero ekatara wimbi isowa adabi ne",1.0,0.3824
+66,Bʊrɔ gɛ mɛ́ɛ́yɛ́ɛ́ná sáátɩ kɩḿ kɩdɛ́ɛ ɩráa baaná; ngɛ mɔ́ɔ́dɔ́ sɩsɩ: “Bɩlɛ́ gɛ balaána tɛlɛ́ŋ báa sáátɩ wenkí.,Mera ye nasehat kim ke de rabana.,1.0,0.7975
+67,"Amá, bɔ́ngɔnɩ́ batɩ ná bɔnɔ́ɔ́zɩ wenbí baalá nɛ́ Ɩsɔ́ɔ weení ɩɖamáa sɩ ɩfʊʊná weezíni-dɩnáa na ɩsɩɖáa tɔ́m nɛ́ waazá-daá.",ama bu ngwa na-ebatara bu na ozi nwere mbibi baale. I so wee ni edama si efo na wee zi na ndi na-ana esida otu m na wa za nda.,1.4211,0.4615
+68,Ngɛ malááyɩ́ka waajáŋ ɩtɛlɛ́ŋ iyéle Pétro.,Gammalaika wajang etelang iyele petu.,0.8333,0.4706
+69,"Ɩvɛ́yɩ́na liideé sɩ ɩfɛ́rɛ kɩmɛ́rɛ nɛ́, ngɛ ɩdɛ́ɛ kʊ́bɔnɩ́ waava wɛ́ɖɛ sɩsɩ báya yɩ ɩ́na ɩɖɛɛlʊ́, na ibíya na wenbí bɩrɩ́ŋa bɔwɛná nɛ́ bɛfɛ́rɛ ɩgɩmɛ́rɛ.",Ihe mere na-edighi di ihe mere na ya. Nke edere akwukwo n'uwa a bu ihe e dere na ibe ya na nwe mbibi nke a bu na na-ebe mere igimere.,1.12,0.7273
+70,"Kúdóndoyúu ɖʊɖɔ, bɩka fɩtɩ́la na wɩ́sɩ-dɛ́ɛ ɖɛnyɛm tɛfɛ́yɩ́na wɛ fɔ́ɔ́zɩrɛ ɖʊɖɔ.",Kudondoya ududa. Beka fetela na wusidai danyem tefe na wefozeradu.,0.9091,0.4667
+71,"Mogoobíya, mɩ́rɔ́ɔ́zɩ́ gɛ mááŋmátɩ mɔgbɔ́ɔ mɛgɛɛzɩná mádɩtɩŋa na Apolɔ́ɔsɩ bɩlɛ́.","mụ na obi ya. Mụ na ozi ka mụ na ha mate, mgbe ọbụla ga-esi na mate tinye na Apollo",1.9,0.619
+72,"Sáátɩ wenkí Apolɔ́ɔsɩ wɛ Korɩ́ntɩ nɛ́, Pɔ́ɔlɩ waabaná Azíi-dɛ́ɛ bʊ́ʊ́nɩ laadɔ́ɔ fáráńdɩ́wá ɩkɔ́nɩ ɩtála Efɛ́ɛzɩ.",Satuwanki apollos wakuwenta na Paul waba na azi de bon la do faranduwa kwani itala Efes.,1.0667,0.4167
+73,"Baalʊ́rʊ Yeésu Bɛtɩlɛhɛ́ɛm, tɛɛbiiyá kɔwɛ Yudée laadɔ́ɔ-daá nɛ́-daá gɛ, sáátɩ wenkí Eróodi wénɖíi kowúrɔ́ɔ nɛ́.",Balo ro Yesu Bethlehem. Tabiye ko e yude lado da ni da ge. Sa tu en ki e rode we ndi ko wuro,1.5333,0.407
+74,"Báa sáátɩ wenkí gɛ mɔ́ndɔɔzɩ́ mɩ́rɔ́, mánzám mɛ́dɛ́ɛ Ɩsɔ́ɔ gɛ.",Bassa tuwen ki ga man do zi muro man zan made iso,1.2,0.4318
+75,"Nabʊ́rʊ, ɩmʊ́ ɩ́na yɩ bɛdɛ́ɛ ɖamá náa-daá, wánmʊ́ʊ ɩmʊ́ kazɔ́ɔ.","N'aburo, imụ enweghi ebe di nda mana ada wa mụ imụ kazo.",1.2,0.5349
+76,Báńgbɩɩrɩ kpenbiiyá sɩ bɛbɛlɩ́ na tɩ́ɩ́nɩ tigutolíni-dɛ nɛ́.,Bàngbìrì kwembiya subebelè na teni tugutolì ni den,1.0,0.383
+77,"Mááná yɩ nɛ́, ngɛ wɔɔdɔ́ ma sɩsɩ: “Ɖasam, kpɛdɩ́ nlɩ́ɩ Yerusalɛ́ɛm, káma, bɩdɛkɛ́ɛ sɩ betísi nyɛ́dɛ́ɛ seríya sɩ nlɩzɩ́ kɩ mɔ́rɔ́ nɛ́.","M'aninn n gwaa dɔmasese dasam, ba dilli Yerusalem, kama, bɛn kɛɛ si bɛ ti si nyɛde Syria, sɔn lɛzɛkɛ mɔrɔ",0.9545,0.3763
+78,"Mɛ́dɛ́ɛ ɖɛ lám-daá, mééyéle bana nyɛ́dɛ́ɛ ásícé adɛ laadɔ́ɔ-rɔ.",Mede de lamda. Me yele bananye de asike adela door.,1.1111,0.3478
+79,"” Wenbá mána wɛ nɛ́, baabá bana ɖɛnyɛm kɩḿ, amá, badanɩ́ɩ weení wánŋmatɩnáa ma nɛ́ ilowú.",ba ba ba da nyam ke ama,0.9333,0.7727
+80,"Waadála bɔjɔ́ nɛ́, ngɛ weedí ɩbála ifu adɛ baazá-daá ɩtɔ́ wɛ sɩsɩ: «Kʊ́bɔnáa, máávɩ́nɩ mɩ́ɩ, ɩlá suúru ibó iɖóo mɛ́dɛ́ɛ.","waara na bojo na, nge we ibara ifu adibaasa da itowe sisi, kubo na maavini mi, ilesuuru igbo ido umedi",1.0,0.3837
+81,Bɩka ɩsɔ́ɔ́lɩ sɩsɩ bánaazɩ yɩ ɩ́na Ɩsɔ́ɔ-dɛ́ɛ zamɔ́ɔ bɩkɩlɩ ná iɖi niíni alaháácɩ́ wánváa kɩ kídénleeri nɛ́.,Beka eso lesebenzazi ena eso desamo bekulena edini alhachi wanva kide lerina,1.0,0.4878
+82,"A tɔnʊʊ́-rɔ fɔɔlʊʊ́ nakɩ́rɩ wɛ́nÿɛlɛ́m, tɩɩganáa rɩ́ŋa ɖʊɖɔ wɛ́nÿɛlɛ́m gɛ.",na kedu ihe ị ga-eme? Gịnị ka ị na-adịghị adịkwa ị ga-eme?,1.2,0.8704
+83,"Weení wéndisí tɔ́m mááŋmátɩ tɩ ɖɔ́ nɛ́, ɩlɛ́ ítísi.",i nwere ike ịde akwụkwọ ozi. A ruo ala ị nwere ga-enwe obi aṅụrị. Ị nwere ike ịde akwụkwọ,2.1111,1.5405
+84,Mɔ́ɔ́ Pɔ́ɔlɩ mádɩtɩŋa mánŋmaa kʊ tɔ́m bíya bana ɖɔ́ mɛ́nzɛɛ́ mɩ́ɩ.,"Mọ pọlẹ, mọ dẹ tẹngba mọ ngma kutọmbia banadọ m'ẹnzẹmẹ.",1.0,0.5106
+85,Mɩ́nmaazɩ́ sɩsɩ wé tɔ́m tɩna sɩ mɛgɛ́ɛ́zɩ mɩ́ɩ tɩ ɖɔ́ nɛ́ tɩrɔ.,Mme mazi Suetom tinara simengezi m etido n etoro,1.0,0.6047
+86,Ńdáná sɩsɩ ɩdɛ́ɛ toovonúm fáa wánlám bɩdɩmɛ́rɛ ɩdɩmɛ́ wánlám yɛ nɛ́ adaá?,"Ede to wonu fa wonlam di mare, ede me wonlam yene ada",1.0,0.5088
+87,"» Ńna gɛ zamɔ́ɔ-daá, naárʊ woobúsi yɩ sɩsɩ: «Kʊ́bɔnɩ́, mɔ́ɔ́gɔ́ná nya mebiyaalʊ́ gɛ, káma, zííni nakɩ́rɩ wánjaarɩ́ yɩ, kɩɩbɩsɩná yɩ komóomúŋa ɩ́dánŋmatɩ.","N'oge zamani na-arụ ọrụ siri ike. Kọbọne, mụọ gọzie m ibe ya arụge kama ziri na-kere wa njari. Kebe sine kọmụmụ nga ịda nwmata.",1.0952,0.5357
+88,"Ɩjáárɩ mɩ́dɩ ise bɩlɛ́, mɩ́nyɔ́ɔ́ ɖʊɖɔ iɖi.",Iya nu meji si meji mu nyo nu dudu idi,1.4286,0.7333
+89,"Amá, ɖɔyɔɔyɔɔ gɛ ɖɔ́ɔ́jɔ́ɔ́ná mɩ́lɔ́wʊ́táá, ńŋɩnáa kɔɔ́wʊ wɛ́nbɛɛŋ́ ibíya nɛ́.","Yoyo, yoyo, gado, namulota. Ena kowemben ibi ya",1.0,0.6545
+90,"Amá, mɩ́dɩtɩŋa mííyúú ɩna nŋɩ́nɩ́ Timotée waalá Laabáárʊ Kífeńgi-dɛ́ɛ tɩmɛ́rɛ na toovonúm nɛ́.",amma,1.0,0.9452
+91,"Toovonúm Múúsá waava Ɩsɔ́ɔ nɛ́-rɔ gɛ waalɩ́ɩ Mɩ́sɩra laadɔ́ɔ ɩdatánnɩ́ɩ wúro nɩdáárɛ, na bɩrɩ́ŋa ɩlɛ́ wáńbá ɩyɛ́ɛ baaná nɛ́.",To afonu musa wa wa o so ni ro ge. Wa li m'sira la do. Ede tan ni wuru na da re. Na bori nga elewa mba iye ba na,1.5263,0.4409
+92,"Bánwɩlɩ́ɩ ɩráa sɩsɩ bófú wentíwá bɩdafa nɩ́bááwʊ sɩsɩ ɖɔ́ɔ́ Róóma ńba ɖítísi, cáńfáná ɖufu tɩ nɛ́.","Bawule rase, bofuwu tuwa bata fani bawu sese, do roma mba di tisi, chanfana du futi",1.0,0.3947
+93,"Baaŋmáa sɩsɩ: «Tɛɛbɔńdɩ Babilɔ́ɔnɩ, tɩtɛ lakásɩ-dɩnáa na adɛ laadɔ́ɔ-dɛ́ɛ keniŋá tɩmɛ́ ɩgɔɔ.","Bia ma si se, tebon di Babylon, te te la ka si de na na adala do de ke ni nga te ma ego.",1.9167,0.4366
+94,"Máábá mánváa mɔ́dɔ́nʊʊ́ fúkúḿsi gɛ páá, bɩka mádanbá mava kɩ ɖáámá.",M'a pas m'en va m'a donné foukumsi ge pa. Beka.,1.0,0.5962
+95,Alaháácɩ́ kídónboná ɩrʊ́ sɩ́m-daá nɛ́-dɛ́ɛ tɔ́m gɛ mánŋmatɩ́.,Alaha chukwu domba oru siri na di tom ge mamata.,1.25,0.5227
+96,"Wɛɛdɛ́ nɛ́, ngɛ wɔɔgbɔ́ɔ yɩ ikóduuzi abaalʊ́-jɔ́.",ngwa ọgbo ikoduz abalị,1.0,0.5714
+97,Ngɛ mááná tákaraɖá nakɩ́rɩ weení ɩjɔɔ́ɔ kowuro-gbelé-rɔ nɛ́-dɛ́ɛ nʊ́ʊ́nɩ kíɖiiwú-daá boogóódi kɩ.,Nke a m na-atakari na-akiri bụ n'ihi na ujo kọwuru gbelu rọ nne. Dee nu unu kedi ụdà bụ ogu dị,1.75,0.5867
+98,"Ngɛ waaɖʊ yɛ alɩbáráka sɩsɩ: «Mɩ́ɩ lɩ́m-daá kpɩná, ɩɖʊ bɩɖɔ́ɔ isu lɩ́m-daá; mɩ́ɩ ɩsɔ́ɔ́dáá kpɩná nɛ́, ɩbɩ́sɩ áɖʊ́ʊ́ráa ɩɖʊ bɩɖɔ́ɔ adɛ laadɔ́ɔ-rɔ.","Ngwa adu ya albaraka sisi. Miri m daa kwụna. Edubudo ịsụlụ m daa. Miri ịsọ daa kwụna ne, ebe adụrụ a, edubudo adela adọrọ.",1.0909,0.5
+99,Ɩdɩtɩŋa ɩɖɔɔmɩ́nɩ na ɩdɛ́ɛ ɖóni bɩḿ ɖʊɖɔ gɛ waabaná ɩlá ɖáa kʊjɔ́ɔ́nɩ kazɔ́ɔ ńdɩ tɩɩbá tɩwɛná fɔ́ɔ́zɩrɛ nɛ́.,ihe ọzọ bụ na ederede dị n'ime ya bụ ndọdọ ga wa ba na elada kwụjọ na ka zọ ndị ta ebatawọ na fọziri,1.2778,0.6585
+100,"Nŋɩ́nɩ́ ɩrʊ́ ɩ́ta ɩlá Ɖádʊ́ʊ bɔwʊtá nɛ́ waabá gɛ bʊɖɔ́ɔ, amá, Ɖádʊ́ʊ kʊ́ɖʊḿ ɩmʊ́ gɛ ɖánlám bɔwʊtá ɖénjelíi.","Enyenụ ọrụ etu a ịla, daalụ maka enyemaka. Wa abụghịkwa nnọọ ama daalụ kwụrụm ụmụ gị daalụ m bụrụkwa onye njere.",1.1111,0.7662
+101,"Sáátɩ wenkí waajáŋ ɩna wɛ ɖɔ́ nɛ́, ngɛ sɩsɩ: «Cé gɛ Ɩsɔ́ɔ na ɩdɛ́ɛ ńba baɖaaduuziɖé.",Chege e so na e demba,0.9375,0.8525
+102,» Tɔ́m tɩḿ tɩɩgʊ́sɩ zamɔ́ɔ na tɔmvʊʊráa laakáarɩ hálɩ biyéle bɛbɛlɩ́ Yaazɔ́n na koobíya baaganáa kɩmɛ́rɛ kʊ́bɔńɖɛ bɛfɛ́rɛ naanɩ́ bɛcɛ́ wɛ.,Tụm tum tee gụsịrị zamụ na tọ m vọrọla car. Ha bịa na bebelụ ya azọ na kwa obi abụọ adịghị na kemere gbuo ndụ be fere na anị bechawụ.,1.4,0.5472
+103,"Bɩka ɖʊɖɔ naárʊ fɛ́yɩ́, a Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga téngeti yɩ, ɩbɩ́ɩ́zɩ ɩtɔ́ sɩsɩ: «Yeésu kɛ́ɛ na Ɖádʊ́ʊ» nɛ́!",Bekado na rufe ake zinga na kirikiri nga tengeti ebe zu otu sese Yesu ke na da dona.,0.8333,0.4868
+104,Ísifu wɔɔgbɔ́ɔ bú na ɩgɔɔ bese bɛɖɛ́ɛ Mɩ́sɩra.,"isi fu ogbe obu na igbo, biko biko nyere m siri",1.25,0.6286
+105,"Teráa ɩlɛ́ waalá bɩ́ɩ́zɩ niídoozo na saaláa nɛ́, ngɛ waalʊ́rʊ bíya noódoozo: Ɩbrám, Nahɔ́ɔrɩ, na Haráanɩ.","Tira ilu ala bezi ni dozu na sala ne, nga wa luru bia na dozu, ibram na hori na harani.",1.125,0.3797
+106,"Tɔ́m ɖáánɩ́ɩ tɩ Yeésu Krísto-jɔ́, ngɛ ɖénveerím mɩ́ɩ tɩ nɛ́ gɛ sɩsɩ Ɩsɔ́ɔ kɛ́ɛ ɖɛnyɛm gɛ, bɩka nabʊ́rʊ fɛ́yɩ́ ɩrɔ bɩgɛ́ɛ temenuú nɛ́.","Tom da ne ti Yesu Kristu jọ, ngẹ dẹn vẹri mi ti nẹga sese, ẹsọ kẹ dẹn nyam gẹ. Bụka na bụrụ fẹi ọrọ bẹ gẹ tẹmẹnụ",1.1739,0.5053
+107,"» Amá, Lɔ́ɔtɩ waabá ɩcáárɩ wɛ ɖɔ́, hálɩ bɛtɛ́ betísi basʊ́ʊ ɩdɛ́ɛ.","Amalote wa ba icharu edo, ale betebetisi baso ede.",1.0,0.4348
+108,"Amá, Marɩyáma ɩlɛ́ ɩzɩ́ŋɛ́ɛ asʊ bɔɔlááwʊ-jɔ́ wénwií.","Amaghị m ma ọ bụrụ na ị na-ege asụ, ma ọ bụ na ọ bụ naanị otu ụzọ.",2.5714,0.9744
+109,"Cɔɔ ńna hálɩ sáátɩ wenkí sɩ mɔdɔ́ nya sɩsɩ ngábɩsɩ nɛ́, káma Eróodi wɔ́ngɔnɩ́ ɩcáa bú sɩ ɩkʊ yɩ.","Chineke na-elekọta gị, sị m ọdịmma sị sị, m ga-asị na kama, iro dị onwe ya ịcha agbụsa ekwe.",0.9474,0.6528
+110,"Bánŋmatɩ́ ɖɔ́dɔ́m nɛ́, na sɔɔlɩ́m gɛ ɖónbúsináa.","Bang ma to dodom ne, na so olum ga do mbusina",1.4286,0.3714
+111,"Bɩlɛ́ nɛ́, ɩ́kanɩ́ɩ nɩdáárɛ, mɩ́wɛná Ɩsɔ́ɔ fɔ́ɔ́zɩrɛ bɩcɛzɩ́ cɩcɩ́sɩ birika.",Mụ na ịsọ ọfọzịrị bichézị chịchị sị biri.,1.0,0.7407
+112,Wenbí Núhum-dɛ́ɛ bíya waalʊ́rʊ bɩlʊ́rʊ bisu laadásɩ ndɩ‑ndɩ nɛ́ nbɩlɛ́.,Wembinu humu debia wa luru bulu busu la dasi ndi ndi ne mli.,1.3,0.4074
+113,"Káma, baagʊ nya balá sarɔ́ɔ nɛ́.",Kama baagunya balanya,0.8333,0.3478
+114,"Ɖádʊ́ʊ weení ɩjɔ́ fɛɛzɩrɛ wánlɩɩnáa nɛ́, ɩdɩtɩŋa ɩ́fá mɩ́ɩ fɛɛzɩrɛ báa sáátɩ wenkí, na báa wenbí-daá.",Naa duu weeni u joo feeziraa walli naane. Edite nga ifa mi feeziraa baasa tuwe nki. Naa baa ween biinda,1.125,0.4675
+115,"Bú-rɔ, kʊ́bɔnɩ́-rɔ, barɩ́ŋa bándɩlɩ́ɩ ma.",Buro. Kobonuro.,1.0,0.75
+116,Sarɔ́ɔ kɛḿ gɛ bɔwʊtá mɩ́nlám Ɖádʊ́ʊ mɩ́ɩ́vá yɩ toovonúm nɛ́.,सरह केमगे बहुत मिल लम्दादो मे वैतो,1.0,1.0
+117,"Amá, Krísto ɩlɛ́ ɩgɛ́ɛ Biyaalʊ́ʊ Ɩsɔ́ɔ weejéle yɩ kʊ́bɔńdɩ ɩdɛ́ɛ ɖaána-rɔ nɛ́ gɛ, ngɛ woovu ná yɩ na toovonúm.",Kedu ka ị si wee jelee ikwụbọ ndị ederede a narụ na gị? M ga-ewefu na ị notewefu,0.9474,0.679
+118,"Mogoobíya máábá mɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, a ńŋɩnáa bɩlɛ́ gɛ Ɩsɔ́ɔ wɔɔzɔ́ɔ́lɩ ɖáa, bɩɩbɔ́ɔ́zɩ ɖɔ́ɔ́ ɖʊɖɔ ɖɩsɔ́ɔ́lɩ ɖamá.",Mụwa bịa m abụọ m sọọlụ ya ịne. A nị m abụọ bịa gị sọọlụ gị sọọlụ da. Bịa bụọzị doọdụ dọdụ sọọlụ da,1.3529,0.7654
+119,"Baaŋmáa gɛ sɩsɩ bɩgabaazɩya, alʊ́ na abaalʊ́ gɛ Ɩsɔ́ɔ waalá wɛ.",Bia ma ga sị sị bụ gị bụ azịza. Alụna abụalụ gị ị sọwa ala,1.3636,0.4167
+120,"A tɩrɩ́ŋa tɩ́fʊ́ngɛ́ɛ fɔɔlʊʊ́ kʊ́ɖʊmʊ́ʊ, tɔnʊʊ́ ɩ́fʊ́nvɛ́yɩ́ nbɩlɛ́.",Tono,1.0,0.9565
+121,Ɩrʊ́ Biyaalʊ́ wɛná na kʊ yíko Fɛɛzɩrɛ wɩ́rɛ-rɔ.,Erubia luo na-ana ka oyiko feezie were,1.0,0.5429
+122,"Bɛlɛ́ bɔzɔɔlɛ́ɛ ma nɛ́ gɛ bénveerím ɩráa Krísto-dɛ́ɛ tɔ́m, káma, banyɩ sɩsɩ mɔ́dɔ́ɔ sáráka cé sɩ moyóo Laabáárʊ Kífeńgi-dɛ́ɛ yowú gɛ.","Balla Bazzolè manegge, benverim era Chris to the Tom. Kama,",0.9524,0.72
+123,Wɛɛgɛɛ ná Yeésu wɔ́rɔ́ ɩlɛ́ ɩnʊvɔ́-jɔ́ wénwií bɩka ɩdɛ́ɛ nzʊlʊ́m wéndím Yeésu nʊvɔ́-rɔ.,"We ga-enye ya isi okwu ọrụ ịlụ ịnovọọjọ. When we bika, ịde nzụlụmụ nwe ndị mụ ịsụ ịnovọọjọ.",1.3846,0.6719
+124,Badaá nɛbɛ́rɛ wɔ́ndɔ́m sɩsɩ: «Ɩsɩ we gɛ ŋmatʊ‑ŋmátʊʊ́ ceení ɩ́ba wánŋmatɩ́ gɛ.,Bata na para wọndọmsisi. Esụọge mọtọ mọtọ ụche ni eba wa nwatị,1.0,0.5088
+125,"Bánŋmatɩ́ sɩsɩ, mɩ́dáá naárʊ wɔɔgbɔ́ɔ ɩjaa ɖɛɛlʊ́.","Bà mụ ta sẽ sẽ. Mụ già na ruo gbo, eji adighi",1.7143,0.6579
+126,"Wenbá barɩ́ŋa bánnɩɩ́ sɩsɩ máálʊ́rʊ Ɩsaáka nɛ́, bɛlɛ́ ɖʊɖɔ sɩ basála kɔdɔ́ŋa gɛ.","Wimbabara nga ba n'esese maoro esa akane, belo dodosi basala kodong'a.",0.9231,0.4667
+127,"Mogoobíya, wahála na suúru-dɛ́ɛ tɔ́m-daá nɛ́, ɩbɛɛŋná anɖébiwá baaŋmatɩná Ɖádʊ́ʊ nɔɔ́ nɛ́.","Mogobia, wahala na suru de tom da ne, ebe na andebu wa ba matina da du no ne.",1.3333,0.3382
+128,"» Bɩdɛ́ɛ sáátɩ, Pétro ɩlɛ́ ɩbá ɩwɛ ɩbamáa tará kɔtɩ́.",vidyarthi,1.0,0.8947
+129,"Méndiríi mɩ́ɩ ɖɔ́ nɛ́, bɩjɔɔ́ɔ gɛ nyazɩ bónbonáa fééni káwʊ‑káwʊwá lɔwʊtáá nɛ́.",Mendiri me done bu joge nye si bombo na feni kaw kaw wala otane.,1.1667,0.4
+130,"Bɩɩga liideé sɩ baɖʊ boboná Ɩsɔ́ɔ-dɛ́ɛ nbá Yerusalɛ́ɛm tɛ́ɛ́dɩ-daá nɛ́-dɛ́ɛ tɔ́m nɛ́, mɩ́nyɔ́ɔ́ ɖʊɖɔ ɩlá ńŋɩnáa wenbí máázɩ́ɩ́zɩ Galasíi Koduuzísi nɛ́.","Bịa ga-alịta na mbụ bọna ọsọ adịghị mma. Jerusalem t'ede daa na-ede tọm na. Mụ na ọdụdụ, elanị na-awem b'azị zị gala sị kọdụ ozị sị na",1.2857,0.5586
+131,"» Ngɛ Ɩsɔ́ɔ waalá lɩ́m-daá fanáńdɩ kʊ́bɔńdɩ na kúmuúti ndɩ‑ndɩ, na siḿsi ndɩ‑ndɩ.",Ihe so wa ala Igbo daa fa na ndụkụbọ ndị na-akwụmụtị ndidi na simsi ndidi.,1.0,0.4333
+132,"Wɔɔmɔɔná wanbaaráa nɛbɛ́rɛ ńna, ngɛ wɔɔbɔ́ɔ́zɩ wɛ sɩsɩ: «Mɩ́ɩ́mʊ́ Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga sáátɩ wenkí mɩ́ɩ́vá toovonúm nɛ́?",Wamona wambara nabara inna. Ngowa bozi wasisi. Mmi mukezanga na cherechere nga satu wenki mmi,0.8824,0.5217
+133,"Káma, wenbí bɩ́nwɩlɩ́ɩ sɩsɩ ɖɔ́zɔɔlɛ́ɛ Ɩsɔ́ɔ nɛ́ gɛ sɩsɩ ɖánlám wenbíwá waazɩ́ɩ́zɩ ɖáa bɩ nɛ́.",kama wembo mwanle sese oso ole oso onega sese danlam wembu wa wa zezi da,0.9333,0.5507
+134,"Ɩráa fuú na nɔɔ́lɛ bana gɛ Yeésu weedíri, ifééri wɛ sɩsɩ: «Íkobó wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ bɔjɔ́, ngʊ́ ɩ́kasʊ́ʊ Samarɩ́ya tɛ́ɛ́dɩ báa natɩ́rɩ-daá.","Ihe a fụrụ n'ọnụ ebe a na-agaghị eso ya diri ife erughị asị asị. Ikobowe mmadụ eke ya hụrụ n'ọbọjọ, ngwa ikasụsa Maria a, taa dịbe a na-atiri daa.",1.2609,0.5455
+135,"Wenbí bʊrɔ nɛ́, bɛlɛ́ barɩ́ŋa banyɩ sɩsɩ ɩjaa kɛ́ɛ Gɩrɛ́ɛkɩ ńnɩ́ gɛ.","Mbala balanga banyi sese, eja ke gerekinaga",1.0,0.6122
+136,"Káma, ɖaána báa wenká wɛná kɛdɛ́ɛ maarʊ́, ngʊ́ weení waama wenbí bɩrɩ́ŋa bʊwɛ nɛ́ gɛ Ɩsɔ́ɔ.","ka mma. Dị ka nna baa wụ nke a na-akpọ maaru, Ungo, wenuwa ma wem bi biri nga bụ wane ga-esọ",1.25,0.4776
+137,"tɔ́ɔ, lɛlɛɛɖɔ́ gɛ nyɔ́ɔ́ nyáábá ndáa bɔ́tɩ.","Tò, lẹlẹ dọge nyọ nyaba nda bot",1.0,0.4667
+138,"Ngɛ máálá yaraɖá Ɖádʊ́ʊ-rɔɔzɩ́ sɩsɩ bídénleeri, mádɩtɩŋa mónboɖé magáná mɩ́ɩ.",Ngamala ya rada duro si si bide leeri. Ma de tinga mombo de manga na me.,1.6,0.371
+139,ɖánzám nya ńŋɩnáa nyááwɩ́lɩ nyɛ́dɛ́ɛ yíko kʊ́bɔńgɩ.,Dansa muna. In na nya wulnye de yukuku bon,1.2857,0.5
+140,"Bʊwɔ́rɔ́ gɛ Yaayá weení wénliríi ɩráa lɩ́m-daá wɔ́nzɔ́ɔ wɛ túúbá lɩ́m nɛ́ waaɖʊ ɩlɩ́ɩ Yudée tɛɛwʊ́lɔ́ɔ́-daá wánlám waázu sɩsɩ: «Ɩgɛ́ɛ mɩ́lakásɩ, káma Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ waajʊ́ʊ.",Nwoke ya ya nwe nwa nri iri na ala m daa. Nwunye ya wee tuba na waadu ele udi. Taa wulo daa waala m wa azu sisi. Ege m laa kasi. Kama iso deko wuro waaju.,1.4,0.4769
+141,"Baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá sɩsɩ: «Kaalʊrʊya, nyɔ́ɔ́ weení ńdánlʊrʊ́ nɛ́, faarɩ!",Ka lụrụ ya. Ọ bụ ya mere ndị a lụrụ na-afọ.,1.0,0.7846
+142,Yeésu wénɖíi kíɖíím Simɔ́ɔnɩ Faríizi ńnɩ́-dɛ́ɛ ɖaána-daá.,Yesu wendi kidim Simon Farizee ni dede anada,1.1429,0.3778
+143,"Wʊláázɩ sɩɩwɩ́lɩ nɛ́, bɔ́ndɔɔzɩ́ sɩ gɛ baɖʊ nimíni siɖe.",Wala se wulena. Bondo si ge badunimini si,1.0,0.4762
+144,Galasíi ńba-dɛ́ɛ kʊjʊʊ́ fɛ́yɩ́-dɩnáa lakásɩ-dɛ́ɛ tɔ́m.,Kala si mba dee kuju ife di na ala ka si dee,2.0,0.4615
+145,"Sáátɩ wenkí Yaayá-dɛ́ɛ wanbaaráa wɛɛɖɛ́ɛ nɛ́, ngɛ Yeésu wɔɔgbɔ́ɔ wánŋmatɩ́ zamɔ́ɔ Yaayá-rɔ sɩsɩ: «Wé gɛ mííbó ɩkɛ́bɛ́ɛŋ tɛɛwʊ́lɔ́ɔ́-daá.","Satu nki ya ya dewa mbara wedene, nge Jesu ogbo wa nwataza mu ya ya ro sisi. We ga mi igbo ike be m te wulo da",1.4444,0.4554
+146,"Ɩɩ́n, ɖoo nɛ́, mɩ́ɩ́gbɔ́ɔ ɖáámá ɖabata mɩ́nlám wenbí bɩmɔɔ́ɔ wenbá baasɩ Ɩsɔ́ɔ nɛ́, bɩɩmɔ́ɔ bɩlɛ́.",,,
+147,Ɩsɔ́ɔ ɩmʊ́ gɛ kʊ́bɔńdɩ na yíko rɩ́ŋa-dʊ́ʊ báa ngbeére bɩ́dɛ́ndɛŋ́.,so m nga kubo ndi na yikori nga du ba ngbe re bide,1.2,0.4681
+148,» Ngɛ Yeésu woobúsi wɛ sɩsɩ: «Ibó ifééri Yaayá wenbí mɩ́ɩ́nɩ́ɩ na wenbí mɩ́ɩ́ná nɛ́.,"Nye ya suo busuo sise, igbo feri ya ya we mbime n'ine na we mbime na",1.0714,0.4333
+149,"Amá, a ɩdanɩɩná nya, kpɔɔ ɩrʊ́ kʊ́ɖʊḿ yáá nɔɔ́lɛ ibó ɩna yɩ.",A ma a edane na ya kpo erukodu m ya na ole igbo ene.,1.0833,0.4651
+150,Ńna gɛ wanbaaráa wɔɔbɔ́ɔ́zɩ Yeésu sɩsɩ: «We-rɔ gɛ Mará wɩlɩɖáa wánŋmatɩ́ sɩsɩ asée Elíya wɔ́ńgɔ́nɩ́ naanɩ́.,"Nna gi wa, mbarawa bu ozo i ga-esusisi. Wuro gi mbarawa ule awa nwatesisi. Asi Eliya bu ngwado naani.",1.0625,0.4568
+151,Krísto-dɛ́ɛ Koduuzísi sɩwɛ Azíi laadásɩ-daá nɛ́ wɛɛzɛ́ɛ mɩ́ɩ.,Khris Dakodu zizi so we azi la do da ne we zemi.,1.5,0.4681
+152,"Ngɛ wɔɔdɔ́ sɩsɩ: «Ɩráa bana barɩ́ŋa bɛgɛ́ɛ ɩrʊ́ kʊ́ɖʊḿ gɛ, bɩka bánŋmatɩ́ kʊnʊm kʊ́ɖʊmʊ́ʊ.","ya wa dosi si, ira abana bari nga bege orukudu mge, baka ba nmate kunu kudumu.",1.1429,0.4923
+153,"Ɩsɩɖʊ́ ɩmʊ́ nɛ́, alʊ́ leelú naárʊ biyaalʊ́ gɛ bɩgɛ́ɛ.",Alulu elu na aru bia alu ge buge.,1.0,0.5135
+154,"Bánlʊrʊ́ʊ bíya bɛḿ nɛ́, bajaa Ɩsaáka wɛná bɩ́ɩ́zɩ niídoozo .","Banoro bia bem ne, baja esaka wena bia ezi na ido ozo.",1.3333,0.3556
+155,"Teráa kutoluú-dɛ bíya nɖɔ́: waalʊ́rʊ Ɩbrám, Nahɔ́ɔrɩ, na Haráanɩ.",Tera kuto lude diya ndo. Wa loro Ibrahim na Hori na Haran.,1.2222,0.3469
+156,Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga Yeésu sɩ ɩkává tɩndɩnáa nɛ́.,Yesu si ekava,1.0,0.7805
+157,"Ńna gɛ zamɔ́ɔ wɔɔbɔ́ɔ́zɩ yɩ sɩsɩ: «Bɩlɛ́ nɛ́, wé gɛ bɩmɔɔ́na ɖɩlá ɖɔ́.","na geza mụ owu buozi isi. Biko nu, unu ga-ebu mụ ọna dị",1.0,0.6809
+158,Ngɛ sɩ́m na ɩsɩɖáa ɖaajɔɔɖɛ́ ɖʊɖɔ weejéle bɛdɛ́ɛ ɩsɩɖáa.,na esida da joo dedudo wey jele bede esida,1.0,0.6364
+159,"Káma, ɖána Ɩsɔ́ɔ ɖánlám kʊ tɩmɛ́rɛ, ngɛ mɩ́nyɔ́ɔ́ gɛ Ɩsɔ́ɔ-dɛ́ɛ fɔɔ́, mɩ́gɛ́ɛ na kʊ ɖaḿ wenkí waama kɩ nɛ́.","ka mma. Daalu so daalu maka nkwado gị. Ngị mụ onwe gị so na ndị fọọ, mụ gị na gị dam wee nwee ike ịwa ama kịna.",1.3684,0.6986
+160,"Ɩgbɔ́ɔ lomaazɛ́ weená arɩ́ŋa ánjaarɩ́ mɩ́ɩ nɛ́ ɩɖʊ ɩnʊ́ʊ́zɩ-daá, káma, wɛ́nbɛɛŋ kʊ mɩ́rɔ́.","Gbaalu ma zoba na arịrịọ m na-arịọ gị n'udo na nụsị nda kama, wepụ ya",1.1538,0.6508
+161,"Waana wenbí nyánzɩnáa kʊnyɔḿ-dɩnáa nɛ́, ngɛ wɔɔgɔ́dɔ́ɔzɩ nyɔ́rɔ́.",wa na-ewembi nyanzi na-akwụ nyọm di na-ani. Ngwa gwado ọzị nyọrọ,1.375,0.38
+162,Bɩlɛ́ nɔ́ɔ́ gɛ Ɩsaáka ɖʊɖɔ waalá ibiyaalʊ́ Yaakúbu.,Balanu ke e sa karundo wala ibiyalu ya,1.0,0.5385
+163,"Ɩ́kasɩmná Ɩsɔ́ɔ-dɛ́ɛ tɔ́m welesí riké bɩka mínÿiilím mɩ́dɩ, amá, ɩlá wenbí tɩ́nbɔɔzɩ́ nɛ́.",ka m si na so otu a di otu onye siri kee bu ka m ga-eri nri di ama elawela m bitu mbozi na,1.7692,0.5909
+164,"Mébíya, wenbí bʊrɔ mánŋmaá mɩ́ɩ nɛ́ gɛ sɩsɩ mɩ́nyɩ Caáwʊ.","Mebia, wembo ramang mami naga sese menye chaa.",1.0,0.4419
+165,Ɩrʊ́ wánváa Krísto toovonúm nɛ́ wénÿelíi kʊ na iyuú lɛ́ɛ́dɩ.,Otu a ka Kraist si weta udo na-ewelite na-ewelite,1.0,0.6957
+166,"Mɔ́ɔ́ nɛ́, mɔ́ɔ́gɔ́nɩ gɛ sɩsɩ na ɩráa iyuú weezuú, bɩka weezuú kɩḿ kɩbá kɩtála wɛ páá.","mọ na mọ gwa gị ka sị na ịra ịwụ wezụọ, maka wezụọ kịm kịba kịtalụ wee pa",1.0625,0.5323
+167,"Ngɛ mɩ́ndɔ́m sɩsɩ: “Ɩbɛ́ɛ ceení, ɖiirú na sʊlʊ́m nyɔɔrʊ́ gɛ ɩgɛ́ɛ; tikée mʊʊráa na alaháácɩ́-dɩnáa gɛ ɩɖɔndɩnáa.","Ngam ịdị ọnụ sị sị, ịbụrọ onye dịịrị na solum nyọọrọ gị ịgị. Piké mụrụ ana alụ ha chịdị na aga ịdọ ndị na",1.2941,0.5663
+168,"Nyɔɔ́sɩ wánjaarɩ́ ɩwanbaaráa nɛ́, ngɛ baabáázɩ bilée kpɛɛ́ bɔ́ndɔwʊ́ʊ kibíya.",Nyo suwa njare iwa mbara ne. Ngi baazi bili kpe bondu ki bi,1.3,0.4333
+169,"Bɛlɛ́ baagála kɛ nɛ́, ngɛ kadaá tɔmdasɩrɛ waabá bɩlá barɩ́ŋa niíni páá.",,,
+170,Ngʊ́ ɖééɖéézi gɛ sɩsɩ Ɖádʊ́ʊ Yeésu-dɛ́ɛ alɩbáráka-daá gɛ bɛlɛ́ booyuú lɛ́ɛ́dɩ ńŋɩnáa ɖɔ́ɔ́ ɖʊɖɔ nɔ́ɔ́.,"ngu dede sika sese, dadu ye su de albarikan dage bale gbo yu le di in na do",1.2,0.5733
+171,"A ɖádɩtɩŋa ɖáfʊnmaazɩ́ ɖɔ́jɔwʊrɛ-rɔ kazɔ́ɔ, Ɩsɔ́ɔ tángʊ́ʊ ɖɔ́dɔ́m.",,,
+172,"Fʊ́ńdɩ kpɩná ndɩ‑ndɩ kɔwɛ bɩsaawʊ́ kɩḿ kɩdaá: bɛɛ nʊvɔ́ nánásá-dɩnáa, na adɛ‑gaalɩɖáa, na siḿsi.",Na edeso gi wa wumba eba,1.0,0.863
+173,Bɩjɔɔ́ɔ gɛ nyazɩ waavʊ́ ɩgʊjʊʊ́ bɩlɛ́.,"Bujoganya ze, wa vu ekuju obele",1.0,0.5357
+174,"Ngɛ Eróodi weeyéle bayáa tɩlɩ́ɖa túbu-dɩnáa bɛɛgbɛ́lɛŋ wɩlásɩ-dɛ́ɛ boɖé nɛ́ súmúú-daá, ɩbɔ́ɔ́zɩ wɛ sáátɩ wenkí ɖéyí‑ɖéyí wɩlɔɔ́ waaɖʊ kalɩ́ɩ nɛ́.","Ihe a bụ iro dị n'etiti ndị be anyị na ndị na-abụghị ndị be anyị, na-esite na ụdị ịgba ọzọ a. Sata nwee nkịta edeyi, ụlọ ọwá adịkarịghị.",1.4,0.7568
+175,"Ɖoo bɩgabaazɩya gɛ ɩvʊngɛ́ɛ wenbí Ɩsɔ́ɔ kɛ́ɛ bɩ nɛ́; amá, ɩdalʊ́ sɩsɩ ɩ́na Ɩsɔ́ɔ bɔcɔ́ɔ ɖéyí‑ɖéyí bɩlɛ́.","Dị ka ọtụtụ ndị ọkà mmụta si kwuo, ọtụtụ n'ime ihe ndị a na-akpọ ""ihe ndị na-akpata ọrịa"" bụ nje bacteria.",1.2353,0.96
+176,"Weení wɔɔzɔ́ɔ́lɩ ɩgɔɔ yáá ɩjaa bɩkɩ́lɩ ma nɛ́, tɛkɛ́ɛ mɛ́dɛ́ɛ ńnɩ́, weení wɔɔzɔ́ɔ́lɩ ɩwɛɛlɛ́ɛ yáá ibiyaalʊ́ bɩkɩ́lɩ ma nɛ́, tɛkɛ́ɛ mɛ́dɛ́ɛ ńnɩ́.",Nwe nu uzo ole igor ya iji abukiri mana teke emede ni. Nwe nu uzo ole iwele ya ibiara ubukiri mana teke emede ni.,1.0909,0.5842
+177,"Bʊrɔɔzɩ́ nɛ́ koobíya, ɩdásɩ ɩcáárɩ mɩ́dɩ mɩ́nwɩlɩ́ɩ sɩsɩ Ɩsɔ́ɔ waayaa ná mɩ́ɩ bɩka waada ná ɩlɩzɩ́ mɩ́ɩ ɖʊɖɔ.","Boro a zina ko biya, e dasi ichari medi mun wole sese, e so wa ya ana me, buka wa dana elezi me",1.2778,0.4444
+178,"” Amá, wenbá barɩ́ŋa baava Ɩsɔ́ɔ-dɛ́ɛ áséńsí toovonúm nɛ́, beeɖéézi sɩsɩ kɩzɩɩzɛ́ɛ.","Amma wanda bari na ba ba, iska ce ta zo wani numna, da ya dezi se se, ka ji zai.",1.8182,0.5806
+179,Ngɛ wɩ́rɛ wenɖé Yeésu Krísto sɩ ɩkɔ́nɩ nɛ́ gɛ sɩ ɩkʊ́ʊ́rɩ ɖɛ.,"Nke bụrụkwa onye Jesu Kristi, si ekwanye na ya si ekwu okwu",1.0,0.6591
+180,"Koobíya waazʊ́lʊ bɔrɔ, bɔkpɔ́ɔ wɛ baɖʊ Ɖádʊ́ʊ nʊ́ʊ́zɩ-daá sɩsɩ ɩ́ɖʊ́ wɛ alɩbáráka bɩtɛ́ nɛ́, ngɛ bɛɛɖɛ́ɛ.","Kobi abali asaa na abụọ, bọọlụ abụọ nọ na akpa unu, unu si na unu ga-ere ya, unu ere ya na naira iri abụọ.",1.5,0.8684
+181,"Lɛlɛɛɖɔ́, Ɖádʊ́ʊ Ɩsɔ́ɔ waayáázɩ wɛ ɩsɩ́ɩ ndɩ‑ndɩ, wenbí biiyéle gɛ ɩráa woozu ɖúúlínya-daá nɛ́ nbɩlɛ́.","Lele do, dado eso, a yazi we ise ndi ndi. We mbibi yeli ge ira wu ozu duli ya da na mbele.",1.4667,0.4675
+182,"Káma, baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá sɩsɩ: «Ɩlɩzɩ́ kidaavéénúu mɩ́lɔ́wʊ́táá.",Kama bama aso adewu tom takar danda sese. Elle si kita ve nu molota.,1.4444,0.4754
+183,"» Ńna gɛ Pétro waagʊrʊ́ ití ibó ɩna wɛ ifééri wɛ sɩsɩ: «Bɛɛ mɔ́ɔ́ gɛ mɩ́njáádɩ, wentí wɔɔgɔ́gɔ́ná na mɩ́ɩ.",namu,1.0,0.96
+184,"Ɩsɔ́ɔ waaŋmátɩ ɩtɔ́ sɩsɩ keɖiyá kɩ́falɔɔ́ nɛ́, bugutoluú sɩsɩ kaɖaa ńga waabɩ́sɩ kɩ́bɩńga nbɩlɛ́.",Sawa,1.0,0.9459
+185,"Amá, Ɩsɔ́ɔ weeyele ná bɩnyɔ bɩkʊrʊ́.",ama esawu eyere na bu nyo,0.6667,0.4815
+186,"Mɩ́nyɔ́ɔ́ aláa ɖʊɖɔ, ɩvʊ́ʊ́zɩ mɩ́dɩ mɩ́waalɩnáa-dɛɛzɩ́, na a badaá nɛbɛ́rɛ wɛ gɛ badafa Ɩsɔ́ɔ-dɛ́ɛ tɔ́m toovonúm, bɛɖɛɛlɩnáa-dɛ́ɛ cɔwʊrɛ ɩkɛ́ɛ wɛ bafa toovonúm báa ɖoo badaŋmatɩná wɛ.",Mụ na ya alae do do. Ọ bụkwa ya mere m ji wee na-arịọ arịrị na abalị na ehihie bata fa so ha tụgharịa uche ha wee na-achọrọ ịke we bata fa tụgharịa uche ha wee na-achọrọ ịke we,1.4615,0.781
+187,"Wɩ́rɛ ɖɛ́nɖɛɛ́ Ɩsɔ́ɔ ɖaazɛɛɖɛ́ nɛ́, ngɛ bú aléeré naárʊ ɩwɛná zííni kínÿelíi wánnáa bɩɩzá-daá tɔ́m nɛ́ wɔɔgɔ́nɩ ɩsɩ́ŋ ɖáa.","Owere danda so daa zeere na. Ege bu aliri na-aru, ewane zi na ka yiri nwa na-abiza daa tomne, wa kwane isi da.",1.1579,0.5275
+188,"Kpɔɔná sinje hálɩ míbíya-bíya-jɔ́; bú abaalʊ́ báa weení gɛ baalʊ́rʊ yɩ, ɩdɛ́ɛ wɛ́ lutoozo wɩ́rɛ nɛ́, asée bɛbɛlɩ́ yɩ.","Bọọlụ sị njị, halị m bịa bịa jọọ, gị abaalụ baa wee nị gị baalụrụ ị. Ịdee wee lutọọzụ ụrọ na ya, asị ebe belụ ị.",1.3158,0.5294
+189,"A ngʊ́ mɩ́ɩ́zʊlʊ, bádánváa mɩ́ɩ, káma, wenbí bʊrɔ mɩ́nzʊlʊ́ʊ nɛ́ takazɔ́ɔ; mɩ́dɛ́ɛ kɔɖɛyɩ́wá tɩtɛ ndɩ-rɔ gɛ mɩ́nzʊlʊ́ʊ.",A gụrụ m Zulu. Bịa na-agwa m. Kama onwe m bụrụ m Zulu na Takazo. M na-akọwa ihe ndị a bụ m Zulu.,1.2353,0.619
+190,"Káma, báa sáátɩ wenkí mɩ́na kadanbʊrʊ́sɩ gɛ, bɩka mɩ́nbɩɩzɩ́ ɩlá wɛ kazɔ́ɔ ńbɩ báa sáátɩ wenkí gɛ mɩ́zɔɔlɛ́ɛ.","Kama baa saatu enki, mena ka damboro sege, ka me mbeze ilawe ka zo mbe baa saatu enki gamu zole.",0.9444,0.3537
+191,"Ńna gɛ Yeésu waabáázɩ tɛ́ɛ́dɩwá wentí waalá maamááciwá tɩdaá ɖabata nɛ́ yoonáa, káma, tɩdɛkɛ́ɛ tɩlakásɩ tɩlá túúbá.",na ga Yesu wa ba ta duawinti wa la ma amaci wa ta da'ada bata na yuna kama ti deke ti lakasi ti la tuba,1.4118,0.3043
+192,"Bakáa mɩlá ɖamɩ́nɩ-daá tɛ́ɛ́dɩ kʊ́bɔńdɩ-daá basɩ́ɩ azíya, bɩka bɩrɩ́ŋa bʊwɛ nyɛ́ńdɛ́.",ba kamla da munda da te dukon da ba si azia baka buri na buwe,1.3636,0.4762
+193,"» Ngɛ Ɩbrám waajáa kpɩná amʊ́ arɩ́ŋa ɩfɛ́ɛ báa wenɖé nabʊ́nbʊ́lɛ, ɩsɩ́ɩ fɔɔlʊʊ́ báa wenkí kɩfaná kɩrɔwʊ́ ɩzá; amá, ɩdɛfɛ́ɛ siḿsi.",nyedi bi ama nyobuso,0.95,0.9158
+194,"Wɔɔgbɔ́ɔ yɩ nɛ́, ngɛ weeyéle bɛbɛlɩ́ yɩ, káma, Yahúúɖuwá bɔwɛ fáráńdɩ́wá tɩḿ tɩdaá nɛ́ bɔrɔɔzɩ́.","wa gbo ine, nge we yele bebele kama ya hulu wa gbo we fara ndu wate mti da ne bo rozi",1.3333,0.3889
+195,"» Ngɛ bɛlɛ́ boobúsi yɩ sɩsɩ: «Aayɩ́, ɖánvɩnɩ́ kadɔ́ɔ-daá ɖɔ́.",Ama loti wa ba icharu edo ale bete betisi baso ede. Ba dala ne,1.5556,1.0244
+196,"Wenbí bʊrɔ nɛ́, Ɩsɔ́ɔ weení ɩrɔ gɛ báa ngbetíi wɛ bɩka waala ná báa wé nɛ́, wɔɔzɔ́ɔ́lɩ sɩsɩ ɩráa zemina ɩsʊ́ʊ ɩdɛ́ɛ ásícé-daá.",Onye mbu ruo na iso wee ni oru nke baa ngweti wee bu ka waara na baa wee na. Ozo ole soso i raa zem na iso edee asije,1.1304,0.4839
+197,"» Toovonúm gɛ bɩgɛ́ɛ; amá, bɩdɛkɛ́ɛ bɩrɩ́ŋa bɩ́nvɔɔzɩ kʊ.",Ama,0.875,0.9268
+198,Ɩbá ɩsɛ́ɛ ɖamá kazɔ́ɔ nyazɩ koobíya wɛ́nzɛɛ́ ɖamá nɛ́.,Nyezi kuobiwa,1.0,0.775
+199,Mɔ́ɔ́ mánwɩlɩ́ɩ mɩ́ɩ nɩ́bááwʊ wenkí kɩdaká fɛ́yɩ́ nɛ́.,Mọọ mọọ welu mụ ịne baa wu nke kịta ka fa ịne.,1.5,0.5263
+200,Mányɩ sɩsɩ Yeésu baagá yɩ ɖɛ́nɩ abɛlɩ́ akɔ́ɔ-rɔ nɛ́ gɛ mɩ́njáádɩ.,Mụ anaghị asị na Jizọs bụ naanị onye na-akọrọ nege mụ njọ.,1.0909,0.7708
+201,"Ɩsɔ́ɔ ásícé-dʊ́ʊ waazɩ́ŋ ɩɖʊ ɩlɩ́ɩ ɖájaájaa Ibrahím-rɔ sáátɩ wenkí ɩvʊnwɛ Mesopotamíi nɛ́, naanɩ́ ɩkágʊ́rʊ́ ɩkɔ́nɩ ɩcɔ́ɔ Haráanɩ.","So, asiri do waazin do ele daja ja Ibrahim ro. Sa ti won ki efon we Mesopotamia na, na ni ikaguru kpekwani icho Haran.",1.4118,0.4444
+202,Hálɩ ɖéédísi ɖádɩtɩŋa ɖánlám bɩrɩ́ŋa na bɩ́kɔkɔ́nɩ bɩtɔ Krísto-dɛ́ɛ Laabáárʊ Kífeńgi-dɛ́ɛ tɩmɛ́rɛ ɖánlám nɛ́.,Ha na-eje dịsị na-adịghị anya m bịaruo na biko kọọrọ m banyere Kraist dị na-abụarụkwa ihe dị mma na ndụ m.,1.4286,0.6744
+203,"» Ɩvʊ́ʊ́zɩ mɩ́dɩ Ɩsɔ́ɔ yíko-dʊ́ʊ-dɛɛzɩ́ na a sáátɩ wenkí waazɩ́ɩ kɩ nɛ́ kɩɩdála, ɩkpáázɩ mɩ́ɩ.",Na asatu enkuazi kenaki dala epazime.,0.9286,0.6667
+204,Tɩndʊ́ʊ Yʊháánɩ wɛ́nzɛɛ́ Krísto-dɛ́ɛ Koduuzísi.,"Tendo eu a novena de Cristo, Deus",1.4,0.6216
+205,"Lísitiri tɛ́ɛ́dɩ-daá gɛ wanbaarʊ́ naárʊ wɛ, ɩdɛ́ɛ yɩ́ɖɛ gɛ Timotée.",Ede ịrịrịta dị ṅịdị ṅịdị dị iche iche. Ụfọdụ n'ime ha bụ: Ede ịdịkọta,1.4,1.0
+206,"Ɖoo mɩ́ɩ́fʊnzɩ Ɩsɔ́ɔ nɛ́, kpɩná ndɩ‑ndɩ weená mɩ́ɩ́bɩ́sɩ́ná mɩ́dɩ́náa bɩka adɛkɛ́ɛ Ɩsɔ́ɔ nɛ́-dɛ́ɛ yoḿti-daá gɛ mɩ́vʊnwɛ.",Nne mụ na gị so na ọ na-endịndị wee na-eme bisinesi dị na-abụka adịghị eso na ya dịrị gị mma dịka mụ bụ.,1.4375,0.6588
+207,Ɖádʊ́ʊ Ɩsɔ́ɔ waajɩrɩ́ tɛ́ɛ́dɩ gɛ ɩmaná fʊ́ńdɩ kpɩná rɩ́ŋa na siḿsi rɩ́ŋa.,"Dalu, eso bu adirite gi mma na? Fundo kwu na ringa na sim siri gi.",1.1667,0.5283
+208,"Káma, mɩ́nyɔ́ɔ́ mɩ́gɛ́ɛ na mɛ́dɛ́ɛ tɩndɩ́ɩ́dɩ-dɛ́ɛ ɖaazɩ́tɩ, bɔwʊtá mánlám Ɖádʊ́ʊ nɛ́ kɩdaá.",Kama mnyoo mege enema de eti ndi di de da siti. Bowute ma nlam da dune ke da,1.4167,0.4688
+209,"Wenbi-niíni ɖɔ́wɛ ɩdaá Ɩsɔ́ɔ ɩzá-daá mɩ́rɔ́ɔ́zɩ́ nɛ́ bʊrɔ, a sɩ ɖɩsɛ́ɛ Ɩsɔ́ɔ kɩzɛɛwʊ mɩ́rɔ́ɔ́zɩ́, ɖɛ́nzɛɛ́ na ɖɩsɛ́ɛ wé.",Ndi be nne nu ndewo nu. Eda ịsọ ịza nda mụrọzi nna bụrọ. Asiri sị ịsọ hize mụrọzi. Ndeze na disewu,1.1667,0.6951
+210,Bɩka bánlám báa wenbí fɛɛzɩrɛ-daá; bɩlɛ́ bɩ́ngɔnáa wenbí nɛ́ gɛ cɔwʊrɛ ɖɩzɩɩzɛ́ɛ nɛ́.,Békabál nem ba wémbi fézera nda. Bélébónga na wémbi naga chowra de zizène.,1.0,0.5231
+211,"Weení ɩrɩ́ŋa wánwarɩ́ɩ ɩrɔwʊ́, yáá wánvʊʊnáa yɩ nɛ́, Ɩsɔ́ɔ-dɛ́ɛ Mará gɛ bʊdʊ́ʊ wánwarɩ́ɩ bɩka wánvʊʊnáa bɩlɛ́.","Nwe nịịle na-agwa ụmụ nwanyị okwu, ya bụ ụmụ nwaanyị na-eto eto, ọ sọrọ ha mara ka ha bụrụ ụmụ nwanyị biko ụmụ nwaanyị",1.4375,0.8171
+212,"Kúɖúúdi natɩ́rɩ waazála sɔɔzɔ́ɔ́zɩ-daá, ngɛ tɩ́na sɔɔzɔ́ɔ́zɩ tiiyóózi tɩnyɔ, sɔɔzɔ́ɔ́zɩ ɩnyʊʊ́ tɩ.",Kedu dị na-atụrụ gị azala sọọsọ ozu daa? Ị ga-atị na sọọsọ ozu tịọ ozu tọnyụ sọọsọ ozu enyo,1.5833,0.5811
+213,"Bɩka ɩdɔ́ɔ́zɩ wentí Ɖádʊ́ʊ Yeésu waaŋmátɩ nɛ́, waaŋmátɩ sɩsɩ: “Ɩrʊ́ ɩfa waagɩ́lɩ bafa yɩ.",ndoziri nti na du Jesu wa nmatine wa nmatisi erufa wa ngili bafai,1.0,0.5
+214,Tiiyéle yíriwá rɩ́ŋa ɩnyɔ́ɔ tɩdɛ́ɛ tɩtɛ lakásɩ kʊ́bɔńzɩ sʊlʊ́m.,Tiyala iruwaranga enyote dethe telakasi kubonza,1.0,0.5306
+215,"Wángbaazɩ́ mɩ́ɩ ɖóni, bɩka ifére mɩ́rɔ́, na Sitáánɩ ɩ́kabɩ́ɩ́zɩ mɩ́ɩ.","Gwa m baazi mụ do ni, biko ifere mụrọ na sita ni eka be eze m.",1.4,0.3878
+216,"Ɩgɛ́ɛ ɩrʊ́ ɩbá ɩnyɩ ŋmatɩrɛ kazɔ́ɔ nɛ́ gɛ, bɩka ɩbá ɩnyɩ wentí baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá nɛ́.",nege oro eba enyi nwatakiri ka zọọ nege. Bụka eba enyi wee nti baa nma ọsọ dị Tom Takari dada,1.1765,0.4868
+217,"Bɩlɛ́ nɛ́, bɩ́la mɩ́nyɔ́ɔ́ ɖʊɖɔ niíni, bɩ́la mána mɩ́ɩ niíni ńŋɩnáa bɩlɛ́.",Bila na bila mu nyongo duni ni bila mana mi ni ni,1.0,0.5098
+218,"Káma, Ɩsɔ́ɔ wooɖúu ɩdɛ́ɛ weezuú ɩrʊ́ ɩmʊ́ ɩdaá gɛ nyazɩ bónɖuú tɩɩwʊ́ nɛ́.","Kama, ị sọọwa odudu ịde wezụ ịrụ ịmụ ịda aganyazị bụ ndụ tee unu.",1.0,0.5185
+219,"Wɛ́ náádoozo wɩ́rɛ nɛ́, Ibrahím waagbáázɩ waazá nɛ́, woogólosi bɩɖɩdáarɛ.","Wana dozo wure ne, Ibrahim wa gba so wa za ne, wo golo si be da dare.",1.6,0.3158
+220,Ɩsɔ́ɔ wooɖúu ɩsɩ́ɩ sɩsɩ ɖánzʊʊ́ laadɔ́ɔ wenká kadaá waagbɩ́ɩ́rɩ ɖáa fɛɛzɩrɛ nɛ́.,so wodu esesese danzo la do wu nkaka da wa gbe re da fe zire,1.25,0.5082
+221,"Sáátɩ wenkí Agáarɩ waadɩlɩ́ sɩsɩ ɩ́na fuwá nɛ́, idokúti wénzewɔ́ɔ ɩgʊ́bɔnɩ́ Saaráyɩ.","A tu nki agara, wa dele si si na fuene. Idokuta nwe nzi wo egwubo nsara.",1.3333,0.4462
+222,"Ńna gɛ baagá baɖʊná-rɔ bokúu bú tɛ́ɛ́dɩ, bobóɖi bagbɩná-daá balɩzɩ́ siká, cɛ́lɛ bɩná-dɛ́ɛ tulaarɩ́ bónvuudɩ́ nɛ́, na tulaarɩ́ bánÿaá kɩ sɩsɩ míiri nɛ́.","N'aganye, baa ga ba do na ro bu kuu bu tee di. Bo bo di ba gu na da abali zi si ka chele bu na da etu la ri bu mvu ndi ne na tu la ri bu anyi ga akisi si m iri ne.",1.913,0.3571
+223,Wentí Pɔ́ɔlɩ waavʊ́ʊ Kʊ́bɔnɩ́ Felíkisi ɩzá-daá nɛ́.,"Wɛn kɛ pɔlɛ wa vɔ, kumanɛ Felix Ezandana",1.1429,0.5263
+224,Yaakúbu bamáa ŋmatɩrɛ bɩlɛ́ gɛ Rasɩ́ɩ́la waadála ɩ́gana ɩjaa-dɛ́ɛ fééni.,Jacob ba ma nwatara belege na Sela wa adala iga na ije ada Feni. Sela imu ijo obula na Feni,2.0,0.7321
+225,Yeésu ɩbá wánbasɩ́ wenbá bénÿelíi ɩwanbaaráa wánÿɩsɩ́ nɛ́.,"Yesu, eba wa mba su eba benyeli iwa mba ara wa yesi na",1.625,0.2766
+226,"Bɩlɛ́ gɛ ɖɔ́ɔ́ ɖʊɖɔ, ɖoo ɖávʊnjɔɔ́ɔ nyazɩ bíya nɛ́, ɖávʊnwɛ ɖúúlínya-daá yíkowá ɩráa wénzée bánzʊʊ́ tɩ nɛ́ tɩnʊ́ʊ́zɩ-daá gɛ; ɖávʊ́ngɛ́ɛ yomáa gɛ.","Biko dọọdụ nụ. Dịka afọ njọ ya sị bịa taa, afọ nwa doro ya ndaa, ịkwa wa ịraa wee zie baa nso tinye tunu nụsị ndaa gị. Afọ m ga-eyu ma gị.",1.4545,0.6542
+227,"Ngɛ bɩɩvʊ́ʊ́zɩ wɩ́sɩ, na fenɔɔ́ na wɩlásɩ-dɛ́ɛ ɖóni.",Na fono na wula si de do ni.,1.0,0.6216
+228,"Ɩ́dánbɩɩzɩ ɩnɩ́ɩ bugutoluú; káma, na Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa gɛ bándɩlɩ́ɩ na bɩ.",kama na,0.8182,0.8909
+229,"Mɛ́dɛ́ɛ weezuú lɛlɛɛɖɔ́ ńgɩ nɛ́, mɛ́dɛ́ɛ toovonúm máává Ɩsɔ́ɔ Biyaalʊ́ weení wɔɔzɔ́ɔ́lɩ ma ngɛ wɔɔgbɔ́ɔ ɩdɩ ɩlá sarɔ́ɔ ɩsɩ́ mɔ́rɔ́ɔ́zɩ́ nɛ́, wɔɔbɔ́ɔ́zɩ wenbí nɛ́ gɛ mɔ́jɔɔ́ɔna.","Mmadu nwere uzo na-edu gi na mmadu etoghi na umuaka oso bia nu, wee nuwa ozo na, nga bu ogbo eji elasaro isi mara ozi na, wa bu ozu wee mbinage mojo nu.",1.2692,0.608
+230,Iyuú ɩtɩlɩ́ sɩsɩ na mɩ́nyɔ́ɔ́ iyuú ɩlá túúbá ɩkɛ́ɛ cɔwʊrɛ bɩka Ɖádʊ́ʊ ɩlɛ́ɛ mɩ́ɩ-rɔ gɛ wénɖíi suúru ɩdɔkɔnɩ tá.,,,
+231,"Bángazɩḿ ɖoo bolíni, káma, bɩjɔɔ́ɔ wɛ nɩdáárɛ bɛbɛɛ́na nŋɩ́nɩ́ bɩɩbá bɩ́nnaazɩ́ tɩ nɛ́-rɔɔzɩ́, bɩka bɔkɔ́dɔ sɩsɩ: «Nbusú yoo!","Banga zimdo bolini. Kaman bu jowoni dare, bebena eni bi babenazi tene roze, baka bokodo sese umbusi",0.9444,0.4565
+232,"Káma, mɩ́jɔɔ́ɔ gɛ nyazɩ tɔɔrɩ́ wɔ́ndɔ́ɔ bídénleeri na kɩtɛlɛ́ŋ nɛ́.",munjo ganyazi toori uwo ndo bideleli naketele,1.0,0.5306
+233,» Ngɛ kʊ́bɔnáa waagá baɖʊná bokúu wɛ tɛ́ɛ́dɩ.,Gakubana wa gabaduna bokuwateedi.,1.0,0.3939
+234,"Báa lé gɛ zííni kɩḿ kɩɩgʊrʊ́na yɩ, kɩ́nlɔ́ɔ yɩ adɛ gɛ; na bú nɔɔ́ ɩbáázɩ kʊbʊʊdʊ́ʊ lɩɩ́, wánzarɩ́ɩ ɩgalá, bɩka ɩdɔnʊʊ́ ɩkpa ɖóni.",,,
+235,"Bɔwʊtá-dʊ́ʊ ɩmʊ́ wánlɩɩ́ nɛ́, ngɛ waana ɩɖɔndɩnáa ɩ́na wɛ bánlám tɩmɛ́rɛ nɛ́ badaá naárʊ, ɩlɛ́ weeɖi yɩ kɩmɛ́rɛ liideé cʊ́kɔyɔ́ɔ.","Bụta dị mụwa lee na. Ngwa na, dọndị na ị na-ewebata ala m tụmere na gba dịa na arụ. Ilewa ịdị ịkụmere ịdị chụkọrọ.",1.2,0.5579
+236,Ɩsɔ́ɔ waayáa Pɔ́ɔlɩ sɩ íbo Masedʊwáanɩ laadɔ́ɔ-daá.,I sọwa ya policy ịbụ ma si duane na adọ ndụ.,1.5714,0.55
+237,"Amá, budoozóóní bɩdaá, sɔɔlɩ́m waagɩlɩ ná.","Amabuduzo ni buda, solem wa gelina.",1.0,0.3333
+238,"Sáátɩ kɩḿ nɛ́, bɩ́nlám mɩ́ɩ niíni, ngɛ mɩ́dɛ́ɛ niíni bɩḿ, báa naárʊ tánbɩɩzɩ ɩlɩzɩ́ bɩ mɩ́dáá.",Sartakom ne billa mini ni. Ngam deni ni bim bana ruta mbezi Elizabeth,1.0,0.4706
+239,"Ɩdɛ́ɛ toovonúm fáa bɩḿ waagʊ ɖúúlínya tɔ́m, bɩka ɩdɛ́ɛ toovonúm fáa-rɔɔzɩ́ nɛ́, Ɩsɔ́ɔ waana sɩsɩ ɩgɛ́ɛ ɩrʊ́ ɩzɩɩzɛ́ɛ nɛ́.",Ede eto onunu fa be mu wa gudu olu nyotom beka ede eto onunu fa rozi ne eso wa na sese ege olu ezize,1.2632,0.5281
+240,"Bʊdʊ́ʊ sóóna jaba, ɖanbára baala ná kɩ siká nɛ́ fɔ́kɛ́ɛ iwenbiré-rɔ, ɩgʊjʊʊ́-daá nyɔ́ɔ́zɩ ɩbá sɩvʊlʊmáa párɩ́-párɩ́, bɩka waazá bíya wénɖée nyazɩ nimíni bɩlɛ́.","Guduso na jaba, dambara bala na kisikane foke iwe mberero. Ekwuju nda onyozi ebaso vuru ma pari pari beka wa azambia we ndi ya zi ni mini",1.087,0.3833
+241,Sɩ ɩsʊlʊ ná Ɩsɔ́ɔ nyɔ́rɔ́ɔ́zɩ́ na nÿuú weezuú.,Solomon eso nyoro zi na inyuve ezu.,0.875,0.5455
+242,Bɩlɛ́ gɛ adɛ na ɩsɔ́ɔ́dáá na wenbí bɩrɩ́ŋa bʊwɛ bɩdaá nɛ́ bɩdɛ́ɛ lám waagʊrɩná.,"Bụlagi adịghị eso da na wụmbi bụrụ na bụwa bụ daa ne, bụ daa lamụ agụrụ na.",1.0714,0.4576
+243,"Káma, hálɩ na sáátɩ kɩḿ nɛ́, wanbaaráa tanɩɩ tá wentí baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá nɛ́ tugutoluú.",Kama alinasatakamne. Wambaratani tawinti ba'ma isode tom takar dada netugutolu.,0.9375,0.325
+244,"Ɩjaa sɩ́m wɔ́rɔ́ nɛ́, Ɩsɔ́ɔ weeyéle ɩkágʊ́rʊ́ ńna, ɩkɔ́nɩ isúu laadɔ́ɔ mɩ́wɛ kadaá sinje ɖɔ́ nɛ́ kɔrɔ.",Ihe dasị m mma bụ na ị sọrọ nyele ịkagwuru nna. Ị kọnị ịsụ laa dọ mụ ya ka dasị m dịdọ na kọrọ.,1.3529,0.5915
+245,Ɩzɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ ńba rɩ́ŋa na Yeésu Krísto-dɛ́ɛ yɩ́ɖɛ-daá.,Yesu Kristo,1.0,0.7561
+246,"Mɔ́ɔ́ móóɖúu tɩɩwʊ́ gɛ, bɩka Apolɔ́ɔsɩ ɩlɛ́ ɩfa lɩ́m.",Miamodutheoge beka apolose elefalem,1.0,0.4865
+247,» Ńna gɛ boovu Yeésu bɔkpɔ́ɔ nɩ́bááwʊ bɛ́nɖɛɛ́.,"Nna gi bu bu Jesu, kpọọ nụ mba ọbụla nde",1.2857,0.5882
+248,"Bɩlɛ́ bʊrɔ gɛ ńŋɩnáa mádánbɩɩzɩ sɩ mɔjɔ́ɔ bɩlɛ́ mádanɩ́ɩ mɩ́dɛ́nɩ nɛ́, méédíri Timotée sɩsɩ íbo ɩkɛ́bɛ́ɛŋ nŋɩ́nɩ́ táá mɩ́dɛ́ɛ toovonúm fáa wɛ nɛ́.",Bèle pòlò g'ɛ̃́ na madam Bɛ́ɛ́zɛ́ simɔ̃́ jɔ̀ bèle madam ni mɛ́dɛ́ ni nɛ́ mɛ́ diri timɔ́té sésɛ́ ibo ikɛ́ bɛ̃́ ɛ̃́ nɛ́ ta mɛ́dɛ́ tɔ́ wò nù fa wò nɛ́,1.1739,0.4352
+249,"Ɖɛ́nzɛɛ́ Ɩsɔ́ɔ kɩzɛɛwʊ, ɩmʊ́ weení weeyéle Tíiti ɩbá ɩsɔ́ɔ́lɩ sɩ wánzɩnáa mɩ́ɩ nyazɩ ɖɔ́ɔ́ ɖʊɖɔ ɖáábá ɖɩsɔ́ɔ́lɩ sɩ ɖɩsɩná mɩ́ɩ nɛ́.","Dị ka ihe atụ, ọ bụrụ na ị na-arịa ọrịa shuga, ị nwere ike ịhụ na ọkwa shuga dị n'ọbara gị na-arị elu mgbe ị na-aṅụ mmanya.",1.2857,0.9271
+250,"Bɩlɛ́ bibaasí, ɖééɖéézi sɩsɩ wentí ɖénveerím mɩ́ɩ nɛ́ kɛ́ɛ toovonúm.","Pele be ba si, dee dee si si, we nti dee mfe iri mme na kee too vu nu.",1.9,0.434
+251,"Ngɛ ɖóm-dɛ́ɛ fitíína-daá nɛ́, bɩɩgálɩzɩ́ yɩ ɖoo bísa toozo ńgɩ bɩyɔ́ɔ adɛ.","Nke a bu ndumodu m tinyere n'andane, na-egosi na obu bisa taa ozo nge bu ya adiri.",1.3333,0.7455
+252,"Ɩdɛ́ɛ fuwá-daá nɛ́, a ɩjɔɔ́ɔ, bíya wónduú ɖamá ilóódi-daá gɛ.",Ihe fọrọ nke nta ka ọ bụrụ ijeri mmadụ abụọ na-arịa ọrịa shuga.,1.3,0.9545
+253,Nɛbɛ́rɛ ɖʊɖɔ sɩsɩ caanawʊ́ anɖébiwá-daá naárʊ weeve ná ɩlɩ́ɩ ɩsɩɖáa-daá.,"N'ebe a na-eduzi isi, chaa nọọ andebuo daa na-arụ wee vi na elee isi daa daa.",1.5,0.4912
+254,"Bɩdɛkɛ́ɛ lomaazɛ́ tɩtɛ ńná gɛ ɖáádásɩ́ná mɩ́ɩ tɩ, ngʊ́ bɩlɛ́ gɛ ɖádacáa sɩsɩ ɖitúúli naárʊ.",Bete kehlumata tanna gadda dasna mete. Ungumbala gadda chasa se di tuli na,1.0,0.4928
+255,"Mɩ́laakáarɩ fʊnwɛ mɔ́rɔ́; amá, alɩwáátɩ gɛ mídoyuú ta.",Mala caro fun wa moro ama alu wa ti ge mudo,1.25,0.4634
+256,Wɔ́ngɔnɩ́ ɩkálɩɩ bɔɔwʊ́ kʊ́bɔńgɩ bɔɔdɔ zííniwá nɛ́ kɩdaá ɩkágbá bɩka ɩɖɛ́ɛ binúúdi yɩ.,"Bụ onye kalịbụọ, ụkpụrụ gị bụ ọdịzị nwa na-ekeda ekagba maka edee bụ n'udi.",1.0769,0.5821
+257,Yeésu wánwɩlɩ́ɩ Ɩsɔ́ɔ-dɛ́ɛ tɔ́m bɩka wánwaazɩ́ kʊdɔmɩ́nɩ.,nwere ike ịsọde tọm. A baara ya na arụ ya na aṅụ biiri i nụ nịkịdị ịwụ. Mara wụlịdị a na Farisị mba wee bebe na ya esusụsị.,4.0,1.8605
+258,"Ɖúúlínya bɛɛ́na ɖáa gɛ nyazɩ nyɩ́ɩ́dɩ bángbarɩ́ɩ nɛ́, báa weenɩ́ wánlám ɖáa ŋmayɩ́‑ŋmayɩ́ hálɩ na sinje.","Doolin yaa banaa daa kan yaa se, nye di bangbaariinaa. Baa weeni nwalnam daa maymay hali na sinji.",1.0,0.4103
+259,Bʊrɔɔzɩ́ gɛ bɩɩbɔ́ɔ́zɩ wenbá bɛgɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ ńba nɛ́ íɖí suúru bɩka bɔɖɔ́kɩ toovonúm baava Ɩsɔ́ɔ nɛ́.,"Bụrụ na ọ ga-abụ ịbọzị ụmụ bekee, ọ sọrọ mụ be na idu suuru. Bụ ka bọdọkụta ọfọ nụ mba afa ọ sọrọ",1.375,0.6316
+260,"» Tɩndɩnáa waalɩ́ɩ bɛɖɛ́ɛ, ngɛ boobó bánzʊʊ́ bánlɩɩ́ tɛɛbíízi-daá bénveerím Laabáárʊ Kífeńgi bɩka bánwaazɩ́ kʊdɔndɩnáa báa lénlé.","Ndi na-awa ala ebe de, e gbu ubu ba nso, ba nleta bee Izida, bee mfe erim la ba aru kefe ngi, maka ba nwa zi ku do ndi na ba ali li.",2.0625,0.3942
+261,Ɩ́na koobúu Koduuzísi rɩ́ŋa ɩbá sɩ́nzám yɩ Laabáárʊ Kífeńgi feerím-dɛ́ɛ tɩmɛ́rɛ-daá nɛ́ gɛ ɖéédíri.,na-akwụ ụgwọ ka o duziri na ebasị nzọụkwụ na akụkụ nke ịsịrị ndị etu mmadụ anọgị dị ndụ.,1.2857,0.6623
+262,Ɩsɔ́ɔ wɔɔɖɔ́ɔ alʊ́ na abaalʊ́ Edɛ́ɛnɩ kárɔɔ́-daá.,Sowo odo alu na abalu ede na karo da.,1.1429,0.4857
+263,Máábá mánvɩnɩ́ Eyodíya na Sunitukɛ́ɛ sɩsɩ bɛlɛ́ɛ́nɩ́ babá banɩ́ɩ ɖamá ńŋɩnáa Ɖádʊ́ʊ wɔɔzɔ́ɔ́lɩ wenbí nɛ́.,Mba mbanwu fene eyi udi na sunitukese se balene baba bani dama enada duwa zolwe,1.0,0.5
+264,Tɩlɩ́ɖʊ kʊ́bɔnɩ́ Epikúuri-dɛ́ɛ wanbaaráa na tɩlɩ́ɖʊ kʊ́bɔnɩ́ Zenɔ́n-dɛ́ɛ ńba bánÿaá wɛ sɩsɩ Sitoyisiyɛ́nwá nɛ́ wɔ́ndɔ́rɔ́jɔ́wʊ́ʊ ɖʊɖɔ bána yɩ.,Tele du kuboni epikur de wa mbara na tele du kuboni zeno de mba ba ya wasisi sitoyisien wa ne. Wondoro jo ududu bana,1.2778,0.4434
+265,"Ɖádʊ́ʊ waazɩná na ma, ɩkpáázɩ ma ɖóni mabá maŋmátɩ ɩdɛ́ɛ tɔ́m, na wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́, barɩ́ŋa boyuú banɩ́ɩ.","Nna mụ bụ onye Nnewi, mana mụ na nwunye m mụrụ ụmụ nwoke atọ na-abụghịkwa ndị Igbo mana ha na-asụ Igbo nke ọma.",1.2105,0.8409
+266,Wentí Simeyɔ́ɔnɩ wánŋmatɩ́ Yeésu-rɔ nɛ́ waalá Yeésu ɩgɔɔ na ɩjaa bítí.,Onye isi meyon wa nwata ya esuro na wa ala Jesu ego ona eji abia,1.3636,0.4
+267,"Nahɔ́ɔrɩ-dɛ́ɛ lʊrʊ́ʊ wɔ́rɔ́ nɛ́, Serúugu waadásɩ ɩcɔ́ɔ bɩ́ɩ́zɩ kákpáŋa ɩlʊ́rʊ bíya aláa na abaaláa.","na ha rụọ ọrụ na Seruguwa dasị echichi bekee ka kpaa nụ, e rụọrọ bịa ala na ala.",1.2143,0.589
+268,"Bɩlɛ́ bʊwɔ́rɔ́ mɛ́ɛ́bɛ́ɛ́ŋ ɩsɔ́ɔ́dáá nɛ́, mááná Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga tʊláa, bɩka bɩsaagɛ́rɛ́ŋɛ lénlé keɖiyá aɖákaá wɛ nɛ́, wɛ kadaá.",Bila booro mebe sodane. Ma na usode daana ku bonga tula. Beka bisa gareng leleke diya ada kawane we kada.,1.0526,0.4286
+269,Wenbí bʊrɔ Yeésu wánŋmatɩnáa tɔmgɛɛza nɛ́.,"Wembi buro, Yesu angwate na tonge za",1.1667,0.4286
+270,"Amá, ɩjáárɩ mɩ́dɩ mɩ́nbɩɩ́ nŋɩ́nɩ́ mɩ́wɛ mɩ́ndɩlɩ́ɩ Ɖádʊ́ʊ na Ɖɛ́lɛ́ɛ́rʊ́ Yeésu Krísto nɛ́-dɛ́ɛ nɩ́bááwʊ-daá na ɩbá ɩtásɩ ɩɖʊ mɩ́ɩ alɩbáráka.",Amen.,1.0,0.9604
+271,"Sáátɩ wenkí ɩwɛ ńna nɛ́, ngɛ Rʊ́bɛ́ɛnɩ woobó ɩfɩnɩná ɩjaa ɩmʊ́ ɩɖɛɛlʊ́ kúmuú Bíla.","Saturde na Nne, Ngeluben we gbo ife na ije emu ideelu kwumu bila.",0.9286,0.5806
+272,"Bɩlɛ́ nɛ́, nyɔ́ɔ́ nɛ́, nyɔ́ɔ́ gɛ weení na nvʊʊná nyɔ́rɔwʊ́ tɔ́m.","Belenye, nyonye, nyogo weni na onvo no nyoro uto.",1.0,0.5366
+273,"Amá, sɩsɩ: «Bɩ́kalá jíńgáárɩ́ lɔwʊ́rɛ, na bɩ́kɔkɔ́nɩ bitulúsi zamɔ́ɔ.","Amassé-si, bakala jingaru lowré, nabukakonu butulusi zamon.",1.0,0.32
+274,"Wenbí sɔɔlɩ́m kɛ́ɛ nɛ́ nɖɔ́: bɩdɛkɛ́ɛ ɖɔ́ɔ́ ɖɔ́ɔ́zɔ́ɔ́lɩ ná Ɩsɔ́ɔ, amá, ɩlɛ́ wɔɔzɔɔlɩ ná ɖáa.",We must all come and do what the good Lord wants us to do.,1.0,0.871
+275,"Ngɛ lɛlɛɛɖɔ́ nɛ́, bɛɛ Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga wɔɔvɔ́kɩ ma ɖóóle nɖɔ́ sɩsɩ mɛ́ɖɛɛ Yerusalɛ́ɛm.","Gala le duonne, be kezi ngala kere kere nga wo fo kema do le ndo, se se ma de Yerusalem.",1.3571,0.5429
+276,"Bɩlɛ́ nɛ́, ɩɖɔ́kɩ mɩ́dɩ kazɔ́ɔ, íkokuti iyéle babɩsɩná mɩ́ɩ yoḿti-daá ɖʊɖɔ.","Bila na, adaka m dịka zọ. Ịkwụkwụtị ihere bapa sinamị yọ mụ tin dị adụ",1.3636,0.5818
+277,"Bɩlɛ́ nɛ́, bɩɩbɔ́ɔ́zɩ ɖɩsɩná ńŋɩnáa bɩlɛ́ bɩdɛ́ɛ ɩráa taká, na ɖɔ́ɔ́ ɖʊɖɔ ɖánʊ́ʊ́zɩ ɩsʊ́ʊ tɩmɛ́rɛ ɖɩḿ bánlám ɖɛ ɖɩ́nwɩlɩ́ɩ toovonúm nɛ́ ɖɩdaá.","Belenne, di buozi di sina inga na bele bide era taka na do nu do danu zi isu timara di mbanlam de donweli tovo nu nne dida",1.1364,0.534
+278,Ɖɛ́lɛ́ɛ́rʊ́ Yeésu Krísto ɩmʊ́ wɔɔyɔ ná sɩ́m-dɛ́ɛ yíko bɩka ɩbaná Laabáárʊ Kífeńgi ɩlɩzɩ́ wenbí weezuú kɩvɛ́yɩ́ kɩ́nzɩ́m nɛ́ kɛ́ɛ wenbí nɛ́ ɩwɩ́lɩ ɖáa.,"naa n'ime Jesu Kristi mu, wa ya na simde yuko, bika, ebanela abali kefe ngi, eleziwe mbuwe zu keva ke nzemne ke we mbinne eweleda.",1.0435,0.4545
+279,"Naárʊ fɛ́yɩ́ ɩnyɩ Biyaalʊ́ʊ, asée Caáwʊ riké, ngʊ́ bɩlɛ́ gɛ naárʊ fɛ́yɩ́ ɩnyɩ Caáwʊ asée Biyaalʊ́ʊ na wenbá Biyaalʊ́ʊ wɔɔzɔ́ɔ́lɩ sɩsɩ bátɩ́lɩ́ yɩ nɛ́.",na aru fe enyibialu asi cha uruke ngwa bile nu na aru fe enyi cha wu asi bialu na we mba bialu wa ozo olu sisa batere ya,1.125,0.4909
+280,"Bú aléeré bɔwʊtá-dʊ́ʊ ɩmʊ́ ɩdɛ́ɛ kʊ́bɔnáa waana sɩsɩ lé bónÿuúna liideé nɛ́-dɛ́ɛ bɔɔwʊ́ wɔɔdɔ nɛ́, ngɛ baagba Pɔ́ɔlɩ na Siláasɩ boboná wɔnɔɔ́-daá kʊ́bɔnáa-jɔ́.",bu onye na-ere bọta do emu. Ede kwuba na wa na-sị sị lebo yu na lide na de bọọ ụwa ọdọne. Ngee baa gwa Paul na Silas bụbụ na wa na ọnda kwuba na,1.3913,0.4874
+281,"Bʊrɔɔzɩ́ nɛ́, ɖɔ́wɛná Ɩsɔ́ɔ sarásɩ lanɖáa rɩ́ŋa-dɛ́ɛ kʊ́bɔnɩ́ baazɩ́ɩ yɩ wɛ́nbɛɛŋ́ Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-rɔ nɛ́.","Bụrụ ọzọ na, dozie usoro siri landa ringa dị a kụbọọ nụ. Bịa zie wee mbengụ usoro dị daa na kụbọọ ngarọ nụ.",1.5333,0.6585
+282,Kezeŋa kɛḿ ɖʊɖɔ keedéyelená ibó ifééri ɩsɩɖáa bɔwɛ sáráka-daá nɛ́ Laabáárʊ Kífeńgi.,"Kezenu kem do, keje yelenna ibo ife eri isi da buwa sara ka daane, ya abalu ka ife",1.4167,0.3623
+283,"Káma, Ɖádʊ́ʊ ɩbá ɩgɛ́ɛ kʊnyɔnnɩɩrʊ́ na kazɔ́ɔ lanɖʊ́ gɛ.",kama dado baga kunyone ro na kazolandu,0.7778,0.4634
+284,"Bɩlɛ́ nɛ́, bɩ́nwɩlɩ́ɩ sɩsɩ Múúsá-dɛ́ɛ Mará wɔ́njɔɔlɩ́ Ɩsɔ́ɔ wooɖúu wentí ɩsɩ́ɩ nɛ́?",Moo wulessu se,1.0,0.8814
+285,"Wɛ́ loɖo wɔ́rɔ́ nɛ́, Yeésu wɔɔgbɔ́ɔ Pétro na Yaakúbu na Yʊháánɩ, ɩ́na wɛ bobó bakpa bʊ́ʊ kʊ́bɔńgɩ nakɩ́rɩ kʊjʊʊ́-rɔ bɔgɔjɔɔ́ɔ beriké.",welu dobe na Yesu ogbe Peteru na Yakubu na Yohane ina ogbe buba kpa bu kubonye na kelu ko juo ro bogo je obiri,1.0952,0.4694
+286,"A nyɔɔ́sɩ wɛná weení nɛ́, bɩmɔɔ́na ɩfʊ́ńgéɖii ɩɖaána naanɩ́ ɩtála.",anya asusu nwa na-ewe n'ine bu na ifu nge di ida ana na ani itala,1.5,0.42
+287,Wénɖée nyazɩ wɩlɔɔ́ bɩka ɩgbɩná izóóna nɛ́ aabá avʊlʊmáa párɩ́‑párɩ́.,"Onye nyazowulu obika, egbe na izu na ni abali avulu ma aparapara",1.2,0.3889
+288,"Amá, adɛ laadɔ́ɔ wɛɛlɛ́ɛ alʊ́; kɛɛvɛ́ɛ nabʊ́lɛ bilí buwá kʊ́bɔńga kɩmɛɛnɩ́ wɔɔdɔ bɩlɛ́ nɛ́.",Amaghị m otu a ga-esi wee lee anya ka ihe na-abụghị bilie bụọ kwụrụ ọtọ dịka mụ na gị dị.,1.4286,0.8182
+289,"Tɔ́ɔ, lɛlɛɛɖɔ́ Ɖɛ́lɛ́ɛ́rʊ́ Yeésu Krísto wɔɔgɔ́nɩ ɖúúlínya nɛ́ gɛ Ɩsɔ́ɔ weeyéle ɖɩna bɩ.","Dala Yesu Kristu wa gwanu duulu nyenege, eso we yele di",1.0,0.5938
+290,"Báa sáátɩ wenkí gɛ mɩ́nnyɔɔ́ bɩ nɛ́, ɩlá bɩlɛ́ na ɩtɔ́ɔ́zɩ mɔ́rɔ́.",ba satu enki ge munyo bine la bine na etozi,0.9167,0.5111
+291,"Koobíya, máábá mánvɩnɩ́ mɩ́ɩ Ɖádʊ́ʊ Yeésu Krísto-rɔɔzɩ́ sɩsɩ ɩ́nɩɩ ɖamá, ɩ́kɔkɔná tarɩ́ɩwá mɩ́lɔ́wʊ́táá.","Kobiya, maba mveneme dadu Yesu Kristo rose se se, ene dama. Ekokwanetare wa mulota",1.0769,0.4359
+292,Ŋmatɩrɛ wenɖé ɖɩgɛ́ɛ ɩráa-dɛ́ɛ ɖɛnyɛm na weezuú nɛ́.,ma ọ bụrụ na ndị gị ịrara gị enye m na gị ezuo,1.5,0.65
+293,"Káma, Ɩsɔ́ɔ wɔɔvɔ́ tɩnɩgbamʊʊ́ ɩfɛ́rɛ wenbí tɩɩlá mɩ́ɩ nɛ́.",Kama usawa wa voti ngamu ifere wembiti lamu,0.8889,0.5116
+294,"Ezekíyáasɩ waalʊ́rʊ Manasée, Manasée ɩlʊ́rʊ Amɔ́ɔnɩ, Amɔ́ɔnɩ ɩlʊ́rʊ Yoziyáasɩ.",Ézéchias engendra Manassé. Manassé engendra Amon. Amon engendra Josias.,1.0,0.629
+295,"Bʊrɔɔzɩ́ nɛ́, a ɖɔ́ndɔ́m sɩsɩ ɖáálá kʊ́ɖʊḿ ɖána Ɩsɔ́ɔ, bɩka ɖánnʊŋ́ temenuú-daá, bɩlɛ́ nɛ́, ɖɛ́gɛ́ɛ bʊbɔtɩnáa nbɩlɛ́, bɩka ɖáraavóo toovonúm.","Brozie ne, adighim so so daalukwa dum daana iso biko daalu m tema nu nda. Mele nu, dege bugho na ambili biko dara fu otu o wu nu.",1.4,0.5825
+296,"Ɩ́kacáa tɔnʊʊ́-rɔ-dɛ́ɛ kazɔ́ɔ: bɛɛ nyɔ́ɔ́zɩ-dɛ́ɛ fɔkɩ́, yáá siká kpɩná ɩrʊ́ wánɖʊ́ʊ nɛ́, yáá liidebɔná kpɩná bónzuú nɛ́.",Kachaa tonuro de kazo. Be nyosi de foki. Ya si ka kpena oro wandu ne. Ya li debo na kpena bo zune.,1.2941,0.4118
+297,"Ńna gɛ Faríizi ńba woogóduu ɩjɔ́ sɩ bayɩ́ yɩ kɔdɔká, ngɛ bɔbɔ́ɔ́zɩ yɩ sɩsɩ: «Ɖɛ́dɛ́ɛ Mará waava nɩ́bááwʊ sɩsɩ ɩrʊ́ ɩɖɔ́ɔ ɩɖɛɛlʊ́ báa we gɛ waalá nɛ́ bʊrɔ?","N'agbanyeghi na Zimbabwe gụdị ụjọ si baa ya iko dọka, ngagharị iwe siri ike. Dịde mara wa afa na mba ahụ siri, ọrụ ịdọ ịdị elu baa wịge wa ala nịbụlụ.",1.0714,0.625
+298,» Ngɛ mááná sɩsɩ Ɩsɔ́ɔ-dɛ́ɛ ńba na ɩráa wenbá baagʊ wɛ káma baalɩzɩ́ Yeésu-dɛ́ɛ seríya nɛ́ bɛdɛ́ɛ azimá wɛ bɩ́nɖɛɛzɩ́ alʊ́ ɩmʊ́.,"Nga ma na sese, esu ademba na era wemba ba agwu we kama abali zi Yesu de seri ene, bede azima we bi nda eze alu",1.0952,0.4194
+299,"Káma, Ɩsɔ́ɔ-dɛ́ɛ tɔ́m wɩlɩɖʊ́ kʊ́bɔnɩ́ kʊ́ɖʊḿ gɛ mɩ́wɛná; bɩɩga mɩ́rɩ́ŋa nɛ́, koobíya gɛ mɩ́gɛ́ɛ.","Kama, ị sọrọ ya tọnwele dịkwa gị mma. Kụdụm gị mụ nwe na ị ga-amụrụ ya na, ka obi ya dị m gị.",1.5714,0.6061
+300,"Weení ɩdɔkpɔ́ɔ ɩdɛ́ɛ ɖɛ́nɩ abɛlɩ́ akɔ́ɔ ikóvú ma nɛ́, tɛkɛ́ɛ mɛ́dɛ́ɛ ńnɩ́.",wè ni idọpọ ejè dèn abèl akọ ikọvumane tèkè mèdèn,1.0,0.549
+301,"Kɩmɛɛnɩ́ wɔɔgɔ́nɩ kɩsɩ́ŋ alʊ́ ɩmʊ́ sɩ ɩlʊ́rʊ nɛ́ waazá-daá kɩɖamáa sɩsɩ a bɩgɛ́ɛ waalʊ́rʊ, kɩcáŋ kɩtɔ́ɔ bú.",Ke menuwa kwana kisan al'ummu sai iluru na wazanda. Kadamasi sai abuge wa luru kichan kutob,1.0,0.5513
+302,"Madiyáanɩ ɩlɛ́ ibíya gɛ Éfa, Efɛ́ɛrɩ, Enɔ́ɔkɩ, Abidáa na Ɛlɩdáa.","Madian et les Ibiaga, Ipha, Ephère, Enoch, Abida et Elda.",1.0,0.5208
+303,"Baadɩlɩ́ sɩsɩ toovonúm nyɔ́jɔ́ gɛ máagálɩ́ɩ́ná, ngɛ baava toovonúm sɩsɩ nyéegédiri ná ma.",baadhelesi si,1.0,0.8857
+304,"Mánzám Ɩsɔ́ɔ sɩsɩ médelíri mɩ́dáá naárʊ lɩ́m-daá, Kirisipɔ́ɔsɩ na Gayiyɔ́ɔsɩ babaasí.",Christophe,1.0,0.9552
+305,"Ɩsɔ́ɔ yíko-dʊ́ʊ ɩ́ɖʊ́ nya alɩbáráka nlʊ́rʊ bɩlʊ́rʊ bʊɖɔ́ɔ, bɩka yíriwá ɖabata ɩlɩ́ɩ nyɛ́dɛ́ɛ lʊrʊ́ʊ bɩḿ bɩdaá.","so yikodo, odo nya alubarika. Nloru bu nloru budo, bika iru adabata ele nya eluru be mbida.",1.0,0.4691
+306,"Tamɔ́ɔ wenká bɛḿ badɩtɩŋa bɔwɛná kɛ nɛ́, kanáábɩ́lɛ́ mɔ́ɔ́ ɖʊɖɔ mɔ́wɛná.",Tamawun kaben badetena bowanaken. Kana abelma orudo bowana,1.0,0.434
+307,"Ɩzɔɔlɛ́ɛ ɖɛ́dɛ́ɛ laadɔ́ɔ, hálɩ weeyele ná bama ɖɛ́dɛ́ɛ Ɩsɔ́ɔ ɖaazɛɛɖɛ́.",Isolele de la do. Haluwelele na ba ma dede iso da aze de.,1.2,0.5385
+308,"Ɖɔ́ɔ́ wenbá ɖáává tɩ toovonúm nɛ́, ɖɔ́ɔ́ ɖánzʊʊ́ fɛɛzɩrɛ ɖɩḿ ɖɩdaá, fɛɛzɩrɛ wenɖé ɖɩrɔ Ɩsɔ́ɔ wɔɔdɔ́ sɩsɩ: «Mɛ́dɛ́ɛ baaná-daá, móóɖúúná sɩsɩ.",Doo we mbata fa tutu ofu numne. Doo da nzu fe ziri dem dida. Fe ziri we ndi duro. E so wo te se si. Made eba na nda. Ngwo du na se si.,1.619,0.5534
+309,Biiyéle beegízi bodofu Ɩsɔ́ɔ-dɛ́ɛ nɩ́bááwʊ wénɖeezináa kɩ ɩráa nɛ́.,Biele bekeze butu fu osote na ba wende snaki erani.,1.1111,0.5283
+310,"Ɩ́kalá nabʊ́rʊ na báɖáárɛ, yáá sɩ bána mɩ́ɩ, amá, báa we gɛ sɩ ɩlá ɩvʊ́ʊ́zɩ mɩ́dɩ, ɩgbɔ́ɔ sɩ baaganáa waagɩ́lɩ mɩ́ɩ.",Ekele m unu na bado re ya si baname ama ba wụ gị si ela efozi mụ di ekpo si ba ga na wa gịlị mụ,1.1429,0.5122
+311,Kanáanɩ biyaalʊ́ kaɖaa ńnɩ́ waalʊ́rʊ yɩ nɛ́ gɛ Sidɔ́ɔnɩ.,Kanaan biyalukadani wa luru inege Sidoni.,1.0,0.4048
+312,Ɩsɩɖáa bɛḿ gɛ wenbá ɖoo badafʊ́ńnɩɩná Ɩsɔ́ɔ sáátɩ wenkí ɩwɛ wénɖináa wɛ suúru bɩka Núhum ɩká mɛ́ɛ́lɛ ɩtɛ́ nɛ́.,Sida bemge wembo do batafu ni na oso sati wenki ewe wen di na wasuru buka nuhum eka mele,1.0,0.4235
+313,"Amá, Ɖádʊ́ʊ kɛ́ɛ alɩkáwɩlɩ́-dʊ́ʊ gɛ.",amma dadu ke,1.0,0.76
+314,"Ɩbrám-dɛ́ɛ ńnɩ́ gɛ bánÿaá sɩsɩ Saaráyɩ; Nahɔ́ɔrɩ nɛ́, Haráanɩ wɛɛlɛ́ɛ Mílíka gɛ ɩlɛ́ wɔɔgbɔ́ɔ.","Ibrahim Dan-Niga banya sashen sarai. Na hudu ne, Haruna welle milka ga Elewa Gbo.",1.0,0.4857
+315,Ɩbɛɛŋná faɖʊ́ wénɖíi suúru ɩɖamáa sɩsɩ ɩlɩzɩ́ ɩdɛ́ɛ kíɖíídi kazɔ́ɔ ńdɩ ɩvɔɔ́-daá nɛ́.,"Ebe a na-efadu, weta isi uru na masi si, elezie i dee kedi dika zoo ndi ife odani.",1.3846,0.5385
+316,Bɩlɛ́ gɛ weení ɩzɔɔlɛ́ɛ ɩlá wɛ bɩdaavé nɛ́ sɩ ɩsɩ ná.,Bila ga weni zale la wa beda vine se esena,1.0,0.4615
+317,"Amá, lɩ́m wángagám kʊ adɛ bɩ́nvʊʊzɩ́ laadɔ́ɔ rɩ́ŋa.","Amma, lmuwa ngagam ku adebum vuze la adoring",1.0,0.4054
+318,"Wenbí Ɩsɔ́ɔ weejéle nya nɛ́, bɩjɔɔ́ɔ kazɔ́ɔ; bɩlɛ́ nɛ́, na Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga kɔwɛ ɖádáá nɛ́-dɛ́ɛ yíko-daá, ɖɔkɩ bɩ kazɔ́ɔ.",wémbè sàwé jèlé nyàné bé jò kàzò béléne nàkézé ngàna chéré chéré ngàkò wà dàdà né dé ikò dà dòkò bé kàzò,1.1,0.6154
+319,"Ɖádʊ́ʊ Ɩsɔ́ɔ wɔɔdɔ́ bɩlɛ́ nɛ́, ngɛ Ɩsaáka waawalɩ́ ɩcɔ́ɔ Gɩráarɩ tɛ́ɛ́dɩ-daá.","Daddou isaw double ne, isakawa walli icho girar te dadda.",1.0,0.5818
+320,"Badaá ɖabata waava toovonúm, bɩkpɛdɩ́na Gɩrɛ́ɛkɩ ńba-daá aláa yíko-dɩnáa na abaaláa ɖabata ɖʊɖɔ.",Bata adabata wa foto vu nu. Bepade na grek mba nda ala yuko dina na aba aladabata dodo.,1.3077,0.3718
+321,"Ɩsɔ́ɔ Caáwʊ-jɔ́ gɛ kɩvʊnwɛ, ngɛ kɩɩbɩ́sɩ ɩrʊ́ ɖɩna yɩ na ɖáázá.","So, chao jogakofunwe, ngake bese orudi na-inada",1.0,0.587
+322,"Yeésu Krísto ɩmʊ́ gɛ ɖɛ́dɛ́ɛ Ɩsɔ́ɔ na Ɖɛ́lɛ́ɛ́rʊ́, ɩdɛ́ɛ ɩzɩɩzɛ́ɛ nɛ́-rɔ gɛ ɖóóyúú ɖɩfa yɩ toovonúm.",Jesu Kristi omụge dade ụsọ na-adịghị erụ. Ịdee izizi na-arụga ndị Oyu dị faịtofu,1.0,0.6479
+323,"Ísifu weevé nɛ́, waalá ńŋɩnáa Ɖádʊ́ʊ Ɩsɔ́ɔ-dɛ́ɛ malááyɩ́ka waaŋmátɩ yɩ nɛ́ nɔ́ɔ́, ɩkpɔ́ɔ Marɩyáma ɩbɩ́sɩ ɩɖɛɛlʊ́.",wala nna adadu iso di malaika wa nwata ine no ikpo maria ma ebese edelu,1.0,0.5783
+324,"Na ngʊ́ nbɛ́ɛ ɖʊɖɔ nɛ́, ménewú gɛ ɩgɛ́ɛ, mána yɩ caáwʊ kʊ́ɖʊḿ gɛ, kɔɔnáa gɛ ɖɛ́dɛ́kpɛ́dɩ́; ngɛ mɔ́ɔ́gbɔ́ɔ yɩ.","Na ngumbe mụ na ụdọ nụ, mụ na ụge ịge, mana ịchaa ụkwụrụ mụ ge, kụọ na age dedekwe di, mụ ge bụ ọgbọ ị.",1.2105,0.6622
+325,"Tídónvúu ɩgɔm, tínzée gɛ tiyéle yɩ, káma, tɩɩsɩ ɩgɔma nɔɔ́.","Tudom, hogy égtem. Tiszta égett illat. Kámat és égő manó",1.0,0.6222
+326,"Lɩ́m woozu bɩwáálɩ ɖúúlínya rɩ́ŋa na bʊsɔ́ɔ wɔ́rɔ́ nɛ́, Núhum kutoluú-dɛ bíya bɛḿ baalʊrʊ ná bíya baya ɖamá bosu laadásɩ ndɩ‑ndɩ-daá.","N'ihu m tolitere bia bem, ba alụrụ na bia bayadama, bọsụlụ adasị ndende daa.",0.9524,0.5882
+327,"Bɩka nyɔ́ɔ́ ɖʊɖɔ tɩmɛ́rɛ kʊ́ɖʊńɖɛ gɛ mána nya ɖánlám, ngɛ na toovonúm gɛ nyánlanáa ɖɛ, nyɔ́ɔ́ ɖʊɖɔ sɩná wɛ.","Nyo nu do, ti mara kulu nda ge ma na nya da lam. Nganatuo vo nu ngana nya la nade. Nyo nu do sina",1.2105,0.5
+328,"Wɩ́rɛ Filisitíi ńba-dɛ́ɛ wúro Abɩmelɛ́ɛkɩ wɛ wɛ́nbɛɛŋnáa tókóró nɛ́, ngɛ woolósi yɩ ɩbá ɩwɛ wánjɩnáa ɩɖɛɛlʊ́ Rebééka ɩmʊ́.",Onye Philistine bụrụ Abimelek wee kpọrọ ya. Gị onwe gị ebe i wee wa njọ na ịgha ụgha ebe a,1.1111,0.6947
+329,"Amá, Ɩsɔ́ɔ tafa yɩ ɖeelí laadɔ́ɔ kɛḿ kadaá; ɩdatánváa yɩ báa nʊvɔ́rɛ ɖaazɩɩɖɛ́.",amma,1.0,0.9333
+330,"Ngɛ waalɩzɩ́ yɩ kʊnyɔmɩ́nɩ rɩ́ŋa waana tɩ nɛ́ tɩdaá, ɩfa yɩ áséńsí bɩka iyéle ɩdɔ́m ɩmɔ́ɔ Farawʊ́na Mɩ́sɩra wúro.",wa na tinete da efe asese meka yele dom e moro fara wuna,1.0,0.6588
+331,Ɖádʊ́ʊ Ɩsɔ́ɔ-dɛ́ɛ malááyɩ́ka waalɩ́ɩ ɩsɔ́ɔ́dáá ití ibiláázɩ bʊ́ʊ́rɛ ití ɩcɔ́ɔ ɖɩrɔ.,Daddo iso de malaika waali iso da iti ibilaaze boora iti ichodro.,1.0,0.4426
+332,Nyána nyébíya‑bíya gɛ sɩ mabaná maɖʊ ɖúúlínya ɩráa rɩ́ŋa alɩbáráka.,"Yannani biya biya ge, samandaman duduuli nya irar nga albaraka.",1.0,0.3273
+333,"A mɩ́gɛ́ɛ Krísto-dɛ́ɛ wanbaaráa-rɔ gɛ ɩráa wándʊ́ʊ́dɩ mɩ́ɩ, mɩ́ɩ gɛ kʊjʊʊ́ niíni-dɩnáa, káma, Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa kɔjɔɔ́ɔ ásícé nɛ́ wɛ mɩ́rɔ́.",A mụrụ Christ dịwa mbara roge erawa ụdị dị mị. Mị ga-ekwụjụ nịịlị ndị na. Kama ọ so dịkịzị mị ka jọọ asịche na wee,1.15,0.5758
+334,Badɩtɩŋa baazɩɩ ná badɩ nŋɩ́nɩ́ báta balá nɛ́.,"Bade tenga, bazen bade, engeni batabala",1.0,0.4286
+335,Ngɛ wenbí bʊrɔ Ɩsɔ́ɔ Biyaalʊ́ wɔɔgɔ́nɩ nɛ́ gɛ sɩsɩ na ɩyɔ́ Sitáánɩ-dɛ́ɛ tɩmɛ́.,Ngawe mbimboro eso bi alu ogu n'Ilagasisi na iyo sita na dete,1.0,0.5263
+336,"A bɩgɛ́ɛ alʊ́ wɛ́nzɛɛ́ Ɩsɔ́ɔ bɩka ɩgʊjʊʊ́ léélééwu, bɩjɔɔ́ɔ kazɔ́ɔ?",Afo ga alu Wednesday so biko egu ju na elewu. Biko kazo,1.2,0.625
+337,Mááŋmátɩ́ná mɩ́ɩ gɛ nyazɩ bánŋmatɩnáa wenbá bɛgɛ́ɛ bíya kúmuúsi Krísto-dɛ́ɛ nɩ́bááwʊ-daá nɛ́ bɩlɛ́.,"Mba mmadu na-eme ihe nganya ze, mba mmadu na-ewe mmebe ga-ebia kwa mmuo si, ""Kristo di na mba di na mba.""",1.6154,0.5584
+338,Ɩsɔ́ɔ weevééri Ibrahím sɩsɩ ɩɖɛɛlʊ́ Saráa wánlʊrʊ́ʊ bú abaalʊ́.,Soweeri Ibrahim sese eddeeru Sarah wanlu rubu abaaloo.,0.8889,0.42
+339,Caarɩ nyádɩ ngɔ́nɩ na kaanɩzʊrʊɖʊ́ʊ ɩbáázɩ.,Caranha de ungonin na Kano sorodu e baasi.,1.1667,0.5429
+340,Bɩɩlá nŋɩ́nɩ́ gɛ ɖádáá báa weení wánnɩɩ́ bánŋmatɩ́ ɩgʊnʊm tɩtɩŋa-daá.,Béla ngin ge dada ba wenu wa ne ba mwate egonu mte nga nda.,1.4,0.5
+341,"Bɩlɛ́ nɛ́, fɔɔlɩ́nɩ ndɩ‑ndɩ wɛ ná, amá, tɔnʊʊ́ kʊ́ɖʊmʊ́ʊ gɛ.","Belenne, folene endende wana ama tono",0.9,0.6
+342,"Káma, baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá sɩsɩ: «Weení nyɩ ná Ɖádʊ́ʊ-dɛ́ɛ lomaazɛ́.",,,
+343,Edɛ́ɛnɩ tɛ́ɛ́dɩ tɩḿ tɩdaá gɛ buwá nɛkɛ́rɛ wéndím kánvʊʊzɩ́ kárɔɔ́ kɛḿ.,,,
+344,"» Ngɛ Yeésu waayáa bú naárʊ ɩkɔná yɩ bɔlɔwʊtáá ɩtɔ́ wɛ sɩsɩ: «Ménveerím mɩ́ɩ toovonúm sɩsɩ a mɩ́dɛkɛ́ɛ ɩbɩ́sɩ nyazɩ bíya, mɩ́dánzʊʊ Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-daá.",Ngị sụọ ya bụ narị ekọnai bọlọta ịtọ wee sị sị. Mụ enverọ mụ ịtọ vọlụm sị sị. Amụdeke ebe si ya zị bịa. Mụ daa nzọ ịsọọde ekowụrụ ọda.,1.3043,0.547
+345,Wooɖuuná gɛ sɩsɩ: «Mɔ́ɔ́ nyádʊ́ʊ móóɖúúná; ngɛ bɩdɛkɛ́ɛ sɩ mɔgɔ́nɩ mobúsi mɔ́nɔ́ɔ́: “Nyɛ́gɛ́ɛ sarásɩ lanɖʊ́ gɛ báa ngbeére bɩ́dɛ́ndɛŋ́.,"Bụrụ ụdụ na-aga sị sị, mụ ya bụrụ ụdụ na, m ga-ebeteke sụọ ngwo na mụ bụ sụọ nọ, nye gị sị na ndị gị baa mgbe erebide ndị",1.4737,0.6289
+346,"Pɔ́ɔlɩ wɛ Atɛ́ɛnɩ tɛ́ɛ́dɩ-daá ɩɖamáa Siláasɩ na Timotée nɛ́, waana sɩsɩ lɩzásɩ riké woozuná tɛ́ɛ́dɩ, biiyéle ɩlaakáarɩ waabá bɩkʊrʊ́.",Pauline,1.0,0.9417
+347,Ngɛ Yeésu waadásɩ ɩtɔ́ ɩwanbaaráa sɩsɩ: «Mɩ́laakáarɩ ɩ́kakʊrʊ́.,Yesu adasita ewa mbarasi. Mla kar eka,1.0,0.5102
+348,"Ɩrʊ́ Biyaalʊ́ wɔɔgɔ́nɩ nɛ́, ɩlɛ́ wénɖíi wɔ́nnyɔɔ́.","Iru bia luo ogwu nile, i lewe ndi iwo nyo",1.4286,0.5714
+349,"Amá, áwayɔ́ɔ kʊ́ɖʊmɔ́ɔ wɔɔɖɔ́ɔ bonuudi ná ɖɔ́ɔ́lɛ kʊ́bɔńɖɛ ɖɩna.","A ma, a wa ya okwu dị mma n'ụdị na ụdị dị iche iche.",1.4444,0.7234
+350,"Ngɛ máánɩ́ɩ lowú nakɩ́rɩ kɩ́ndɔ́m ma sɩsɩ: “Pétro, kʊrʊ́ ngʊ fʊ́ńdɩ kpɩná ana ndɔ́ɔ.","Ngamane ululele kunye nomasisi, Petro, Korongo, fonela kwanna ana ndo",0.8571,0.5167
+351,"Ngɛ a wɔɔgɔ́nɩ, wénÿelíi ɖúúlínya ɩráa ɩtɩlɩ́ sɩsɩ bɛ́nbɛlɩ́ɩ badɩ bʊbɔ́tɩ alaháácɩ́, na wenbí bɩzɩɩzɛ́ɛ nɛ́, na Ɩsɔ́ɔ-dɛ́ɛ tɔ́m fʊ́ʊ́dɩ-rɔ.","Nke a bu ogonogo oge, onye na-edu uri ya iraa iteghete, bembele ibada bubote ala ha che na nwe mbibi bezeeze na iso di etom fuoduru.",1.15,0.5784
+352,Bɔ́ndɔ́m mɩ́ɩ sɩsɩ: «Mányɩ sɩsɩ waavʊ́ńdɔḿ sɩsɩ wángabɩsɩ́ gɛ.,,,
+353,"» Ngɛ bɛlɛ́ boobúsi yɩ sɩsɩ: «Kʊ́bɔnɩ́, welesi ɖáa.","Ngebele bo busi se se, kubani? Wilisida",1.0,0.4286
+354,"A bɔɔbɔ́ɔ́zɩ yɩ, wónbusí gɛ sɩsɩ ɩmʊ́ inewú gɛ; ídéndisi sɩsɩ ɩɖɛɛlʊ́ gɛ yɩ.","A bụọ m bozie, wụ mụ si gi sị sị, ị mụ nnewe gi, ide ndị sị sị ị dee rụ gi.",1.5,0.6071
+355,"Mɩ́ɩ́nɩ́ɩ baaŋmátɩ sɩsɩ Krísto-dɛ́ɛ báɖaa wɔ́ngɔnɩ́ nɛ́; ngʊ́ nbɛ́ɛ nɛ́, lɛlɛɛɖɔ́ Krísto-dɛ́ɛ báɖaanáa ɖabata wɛ ná ɖɔ́.","mme na ba m atụghị egwu, Kraịst dị na mụ na gị na ya, ọgwụ m bụ ya na lelee ya dị, Kraịst dị na mụ na gị na ya na-adabata",1.7647,0.7558
+356,"Bɩjɔɔ́ɔ nɛ́, ngɛ Saaráyɩ wɔɔdɔ́ ɩwaalʊ́ Ɩbrám sɩsɩ: «Nyááná sɩsɩ Ɖádʊ́ʊ Ɩsɔ́ɔ wɔɔdɔ ma lʊrʊ́ʊ!","Bụ Chineke, gị sara ya ụodo ịwa ahụ ịbụrụ m sịsị. Nye m sịsị dịdụ ịsọ ụodo malụrụ",1.2,0.6232
+357,Yahúúɖuwá nɛbɛ́rɛ baagálɩ́ɩ́ná Azíi laadɔ́ɔ-daá nɛ́ fʊnwɛná ńna.,Yaahu nuwaa nebree baagali na aazi laa do daane fu wa na,1.5,0.4
+358,"ɖugoré báa wenɖé, kʊnʊm báa wenkí, laadɔ́ɔ báa wenká na yíri báa wenkí-dɛ́ɛ ɩráa nlɛ́ɛ wɛ nbɩsɩná wɛ wenbí bɩgɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ ńbɩ nɛ́.","Ndugbu na baa wende, kono baa wenki, laado baa wenka, na yiri baa wenki dee ira nlewe. Mbisina wa wa mbibi ge uso de mbina",0.7391,0.3636
+359,"Káma, Ibrahím waanɩ́ɩ mɔ́nɔ́ɔ́, ifu mɛ́dɛ́ɛ wɛ́ɖɛ, ɩlá mɛ́dɛ́ɛ mará-rɔɔzɩ́.","Kama, Ibrahim wa nimo no ife mede wede, ela mede mararo",0.9,0.4118
+360,"A bɩɩgɔ́nɩ bʊwɔ́rɔ́ gɛ mɩ́dáá naárʊ woogúti ɩtɛlɛ́ŋ, bɩdɛkɛ́ɛ mɛ́dɛ́ɛ ndɩ ɖʊɖɔ.","A bi kwanu buro ke, mita na ru ukuti etelen, bete ke meje ntu dundu.",1.1667,0.6897
+361,"Laadásɩ rɩ́ŋa-dɛ́ɛ ɩráa wɔ́ngɔnɩ́ bokúu nya tɛ́ɛ́dɩ; káma, booyuú batɩlɩ́ sɩsɩ wenbí nyánlám bɩ nɛ́ sɩɩzɛ́ɛ.",la 10e année était comme un bon début pour une nouvelle vie.,1.0,0.8375
+362,"Amá, wenbá bánɖʊ́ʊ bɛdɛ́ɛ tamɔ́ɔ wentí Múúsá-dɛ́ɛ Mará waazɩ́ɩ́zɩ sɩsɩ bála nɛ́ bʊrɔɔzɩ́ nɛ́, láálɩ́ sɩ kiti ná bɔrɔ.",ama wemba bandu ba detamo we ntimu se de mara wa zizi sise bala ne burozi ne laali sikiti ne boro,1.0,0.3529
+363,"Amá, weení ɩdɛkɛ́ɛ yoḿ nɛ́-dɛ́ɛ ńnɩ́-dɛ́ɛ lʊrʊ́ʊ kadamáa na kʊjɔɔwʊ Ɩsɔ́ɔ wooɖúu ɩsɩ́ɩ sɩsɩ wánlám Ibrahím nɛ́ gɛ.","Wene e de ke yum den ne, de luru kadama na ku joo, i so we du ese si si wallam Ibrahim ne.",1.2222,0.5
+364,"Ngɛ bɩdaá, tɔ́mwá tɩjɔɔ́ɔ ɩrʊ́ káálɛ sɩsɩ ɩnɩ́ɩ tugutoluú nɛ́ wɛ, ngɛ ɩráa baasɩ toovonúm bɩka badabara tá Ɩsɔ́ɔ-dɛ́ɛ tɔ́m-daá nɛ́ wɛ́ngɛɛ́ tɔ́mwá tɩḿ tugutoluú.","Nge abada, tom wete jo Orukala si eni tugutolu nawe. Nge irabasitobu nu mbika badabarta eso ade tom dane, wen ge tom wete m tugutolu.",1.0,0.4
+365,"Mɩ́sɩra ńna gɛ Yaakúbu woobó ɩkɔ́jɔ́ɔ, ngɛ ńna gɛ waazɩ́.","Mister Nna nke Yakubu Gowon, iko joo, Nna gi wa",0.8,0.5476
+366,Fɛɛzɩrɛ wɩ́rɛ neɖére gɛ Yeésu wɛ́ndɛsɩ́ bilée fásɩ.,Fezzaro ne direge Yesu wen de si bili fa,1.125,0.475
+367,Ɩɖʊ mɩ́damɔ́ɔ kʊjɔɔwʊ wenkí sɩ iyuú kɩ sáátɩ wenkí Yeésu Krísto sɩ ɩɖʊ ɩlɩ́ɩ nɛ́ kɩrɔ.,Edu mma mma ku jọọ wụ nke si ịyụ kịsati wụ nke. Yésu Kristu si edu elé na,1.125,0.5758
+368,Nbusú wenkí taká gɛ kɩna ɖɔ́!,Mbuso weNkita kaGakenado,1.0,0.2727
+369,Rasɩ́ɩ́la-dɛ́ɛ bíya nɖɔ́: Ísifu na Bɛ́ɛnɩ-Yáámíínu.,Isifu na Benyamini,0.6667,0.6216
+370,"Wasɩ́ɩ́ka mááŋmáa mɩ́ɩ kɛ nɛ́ kadaá, mɔ́ɔ́dɔ́ mɩ́ɩ sɩsɩ mɩ́na wenbá bánlám wásangarɩ́tɩ nɛ́ íkoyóózi.",Wasi kam ma ma mi kene ka da. Mordo mi sisi. Mi na we mbabalam wasa ngarti na iko yosi.,1.3333,0.3378
+371,"A bɩgɛ́ɛ míídúúzi na Ɖádʊ́ʊ Yeésu-dɛ́ɛ yɩ́ɖɛ-daá, mɔ́ɔ́ ɖʊɖɔ mólomaazɛ́ wónboɖé mɩ́rɔ́, bɩka Ɖádʊ́ʊ Yeésu-dɛ́ɛ yíko ɖʊɖɔ wɔ́njɔwʊ́ʊ mɩ́rɔ́.","A ga m e dozi na ndu Jesu dee na da. Mụ na unu, mụ na ụmụ mụrụ, mụ ka na ndu Jesu dee kọdụrọ, mụ njo mụrụ.",1.3684,0.68
+372,"Ngɛ Ɩsɔ́ɔ waadásɩ ɩtɔ́ yɩ sɩsɩ: «Nyɔ́ɔ́ nyána nyógutoluú-dɛ bíya, kpɔɔ sinje hálɩ bɩɖɛ́ɛ, ɩɖɔ́kɩ keɖiyá mána mɩ́ɩ ɖééɖí kɛ nɛ́.","Ị sọwa dasị ị tụọ eseese, ṅụọ ya na ṅụọ ogwu tolu dị bịa kpoo sị na ala ebede. Ị ṅụọkịkedị ya mana ịdị edikene",1.1905,0.5806
+373,"Pelɛ́ɛgɩ-dɛ́ɛ lʊrʊ́ʊ wɔ́rɔ́ nɛ́, Éburu waadásɩ ɩlá bɩ́ɩ́zɩ kákpɩ́ɩ́zɩ nasɩ́lɛ na ákoosaaláa ɩlʊ́rʊ bíya aláa na abaaláa.","Pelek de l'oro o rọne. E buru adas ilabeze kakwezi na sile na akụ sàla, eloro bia ala na abala.",1.0588,0.427
+374,"Simeyɔ́ɔnɩ ɩmʊ́ nɛ́, Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa waavʊ́ńveeri yɩ sɩsɩ wánnáa Lɛɛrʊ́ weení Ɖádʊ́ʊ Ɩsɔ́ɔ sɩ ikédiri yɩ nɛ́ naanɩ́ ɩsɩ́.","si mee ya na emume, ị sọọde kee ihe bụ afụọnụ iri isii, nwanne a na-eru wee nịdado ị sọọsọ ike dịrị ịne naani",1.2632,0.5778
+375,"Bɛlɛ́ nɛ́, ɖúúlínya-dɛ́ɛ ńba gɛ bɛgɛ́ɛ; bʊrɔ gɛ bánŋmatɩ́ ɖúúlínya-dɛ́ɛ ŋmatɩrɛ, bɩka ɖúúlínya wánnɩɩnáa wɛ.",kailan na du'lu nyadamba ge bage buroge ba'ma tu du'lu nyade nwatere buka du'lu nyawa nne na,1.1333,0.4756
+376,"Amá, Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá, naárʊ waalɩzɩ́ seríya kɩna sɩsɩ: «Óo Ɩsɔ́ɔ, we gɛ ɩrʊ́ kɛ́ɛ, na ndɔ́ɔ́zɩ ɩrɔɔzɩ́.","amma, e so di tom takar danda na ruwa lezi seri ya kanasase. O e so, woge eruke na dozi rozi.",1.1111,0.4625
+377,Kɩmɛɛnɩ́ kʊ́bɔńgɩ kɩzɛɛmáa nyazɩ nimíni nɛ́ gɛ bɩgɛ́ɛ.,के मैं नु कुबोंग किजे माण्या जे निमिरी नागा बेगे,1.25,1.0
+378,Mááná malááyɩ́kawá lʊbɛ bɔɖɔ́kɩná nbusúwá lʊbɛ.,"Mba na mmalite kabaa rube, biko na umbusuwa rube.",1.5,0.5128
+379,» Ngɛ Pétro woovu ɩlá bɩlɛ́.,wa,1.0,0.9
+380,Ɩsɔ́ɔ wánlanáa mɩ́ɩ gɛ nyazɩ ɩrʊ́ na ibíya.,so walla na mi ganya se orna,1.0,0.5312
+381,"Mɩ́dɩtɩŋa mɩ́nyɩ sɩsɩ mɩ́gɛ́ɛ na kʊ Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga, ngɛ Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa wɛ mɩ́dáá.","maka etiti oge anyị nọ na ya ugbu a, m ga-anọkwa na nsogbu dị na anakwụbọọnga. M ga-esoro ndị eze nụwa mụ na",1.5714,0.8382
+382,Iyéle ɖɩɖáázɩ ɖɛ́dɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ bɔwʊtá-dɩnáa nyɛ́-daá naanɩ́.,yele dida sidate oso de bota di na nye nda na,1.5714,0.6087
+383,Ngɛ kééwúré waalára ɖɩmɩlɩná kowuro-gbelé ɖɩḿ; kééwúré ɖɩḿ ɖínɖée nyazɩ bʊ́ʊ́rɛ kífenveńɖe bánÿaá ɖɛ emeróodɩ nɛ́.,Kee ụrwụ a lara dị mma na nke ọwụrụ gbele dị m? Kee ụrwụ dịm? Dị m na-enyaze bụrụkwa ife eji ende baanyi ada emere odinala.,1.625,0.5269
+384,"A bɩlɛ́ gɛ weegízi ɩdanɩɩná Krísto-dɛ́ɛ Koduuziya, ɩ́bɩsɩ nya nyazɩ weení waasɩ Ɩsɔ́ɔ nɛ́ yáá tikée mʊʊrʊ́.","Ebe si nya na zi, we nu asi e so ne, ya ti ke muo",1.0,0.7073
+385,"Káma, báa ɖoo ɩrʊ́ fóo Mará rɩ́ŋa, ngɛ waayɩsɩná wɛ́ɖɛ kʊ́ɖʊńɖɛ, arɩ́ŋa gɛ waayɩsɩná bɩlɛ́.",ka ma ba nu rufo mara ringa nga wa ye sina wada kudu nde a ringa ge wa ye sina,1.2667,0.4925
+386,Na ɖɩbɩ́ɩ́zɩ ɖɩbá ɖiyuú ɖádɩ nɛ́-rɔ gɛ Krísto wɛɛlɛ́ɛ ɖáa.,Na the base the body you that narrow Chris welder.,0.9,0.7442
+387,"Káma, Kezeŋa wánwɩlɩ́ɩ mɩ́ɩ bɩrɩ́ŋa: kánwɩlɩ́ɩ mɩ́ɩ toovonúm, bɩdɛkɛ́ɛ bʊbɔ́tɩ gɛ kánwɩlɩ́ɩ mɩ́ɩ.","Kama, ka zanga wan wuli me berenga. Ka wuli me to vonum, me takai bobotege ka wuli me.",1.3077,0.5
+388,"Eráasɩtɩ waagáwalɩ́ Korɩ́ntɩ tɛ́ɛ́dɩ-daá, bɩka méegéyéle Tirofíimi Miilée tɛ́ɛ́dɩ-daá, káma, wánnyaadɩ́.",Erase the wall cover and paint it in the,1.0,0.8148
+389,"Bʊrɔɔzɩ́ nɛ́, méndiríi Timotée mɩ́jɔ́, ɩgɛ́ɛ ma gɛ nyazɩ mebiyaalʊ́ káŋ́‑káŋ́ Ɖádʊ́ʊ-dɛ́ɛ nɩ́bááwʊ-daá.","Bụi rọzịne, mụ endịrịta mụ otu emụnjọ. Ege mụ aṅaṅa sị mụ bịa lụka nka. That ụdị ene mba ụda.",1.5385,0.6081
+390,Ngɛ Ɩsɔ́ɔ sɩsɩ: «Adɛ laadɔ́ɔ íyele nyɩ́ɩ́dɩ na tɩ́ɩ́nɩ ɩnyɔ kɔrɔɔzɩ́.,Adelardo y el niño de la tienda en,1.0,0.7347
+391,Kazɔ́ɔ ńbɩ wenbí ɖóóyúú bɩ ɖána Yeésu Krísto ɖáálá kʊ́ɖʊḿ nɛ́.,"Ka sọọnụ wee bịa, doo unu bịa, daalụ na Jizọs Kraist daalụ kwudọ m.",1.2727,0.6667
+392,Siká yáá Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga wenká keeyéle gɛ siká waabɩ́sɩ Ɩsɔ́ɔ-dɛ́ɛ ńbɩ nɛ́.,Sika ya ị sọrọ dee na akụbụọnga bụ nke ka ị ga-eji gasịkwaa akpụsị ị sọrọ dee mbinye.,1.3077,0.6349
+393,"Ngɛ máánɩ́ɩ lowú nakɩ́rɩ kɩɩgálɩ́ɩ́ná ɩsɔ́ɔ́dáá, lowú kɩḿ kɩjɔɔ́ɔ nyazɩ búúzi kʊ́bɔńzɩ wónzúu na bíngoó wenbí nɛ́, yáá kpálálayɔ́ɔ wɔ́nvɔ́ɔ ɖóni na bɩkazɩ́ nŋɩ́nɩ́ nɛ́.",Ngabani lo unakereke ngale na eso ada lokem kujonyezi buzukubo ozwa ozu na bungowem bine ya kpalalo ya owo nvo odoni na bekazi enyeni,0.96,0.432
+394,"Anɖébiwá waajáa sɩ batɩlɩ́ sáátɩ wenkí sɩ bɩlá bɩlɛ́ nɛ́, na nŋɩ́nɩ́ sɩ bɩlá nɛ́.",na enye si,0.9333,0.9153
+395,"Káma, wenbí ńŋɩnáa abaalʊ́-dɛ́ɛ nabʊ́rʊ gɛ Ɩsɔ́ɔ wɔɔgbɔ́ɔ ɩlaná alʊ́ nɛ́, bɩlɛ́ ɖʊɖɔ gɛ alʊ́ wánlʊrʊ́ʊ kʊ abaalʊ́, bɩka bɩrɩ́ŋa bɩlɛ́ nɛ́ Ɩsɔ́ɔ-jɔ́ gɛ bɩɩlɩɩná.",Onye mbu ingene abalu na-apuru ga-eso wee gbaa ela na-alu na. Belu na ndu ga-alu nwa nrukwu abalu maka bere nga belu na eso ojo ga-elu nu.,1.08,0.6053
+396,Wenbí bʊwɛná fɔ́ɔ́zɩrɛ nɛ́ gɛ toovonúm fáa kɩ́nlám kɩdɩmɛ́rɛ nŋɩ́nɩ́ bʊdʊ́ʊ sɔɔlɛ́ɛ na ɩranáa nɛ́.,Onye bụ onye na-afọziri nna gị? Ị̀ bụ nụ fa kịlàm kị demere? Ị̀ ga-enwe bodu sọrọ ya na ará na-anọ?,1.3333,0.6712
+397,"Zamɔ́ɔ waana wenbí Pɔ́ɔlɩ waalá nɛ́, ngɛ kɩɩbáázɩ ŋmatɩrɛ na ɖóni Likawoníi kʊnʊm-daá kɩ́ndɔ́m sɩsɩ: «Lɩzásɩ waabɩ́sɩ ɩráa sɩkɔ́nɩ ɖɔ́jɔ́.",Semo wa na wembu poli wa le nge ke baa si ngwatana na duoni lika wa ni kwunu mda kwu ndom sisi. Leza su wa bisi ra su kwa,1.4,0.5048
+398,Mɩ́nÿaalɩ́ yíka na nyɩnɔɔ́ wɔ́rɔ́ bɩka bɩdaá na ŋmɩɩlɩ-gbɩná na wenbí mɩ́ɩ́lɛ́ɛ́ná ɖóni nɛ́.,Minyali kana nyo wọrọ bika bidaana meele gbena na wembi meele na duni,0.9286,0.3881
+399,"Ngɛ weegbí kɩmɛɛnɩ́ ɩɖɩ bɩ́ɩ́zɩ mííli; kɩmɛɛnɩ́ kɩḿ nɛ́, caanawʊ́ ɖoḿ nbɩlɛ́, ɩdanáábɩ́lɛ́ zííniwá ɩjaa na Sitáánɩ ɖʊɖɔ.","Nga wee bido ịkọwa etu beezi mịlị ka m ga-esi kee m na cha nọọdụ m bụla, etu a bụla ziri nụ a ịza n'ọsịta nụ",1.4444,0.6333
+400,"Koobíya máábá mɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, bɩdɛkɛ́ɛ wɛ́ɖɛ kɩ́faɖɛ́ gɛ mánŋmaá mɩ́ɩ, amá, wɛ́ɖɛ kɩ́bɩńɖɛ baavʊ́ńzɩɩzɩ mɩ́ɩ ɖɛ ɖoo kaɖaa mɩ́ɩ́dɩ́lɩ́ Yeésu Krísto nɛ́ gɛ.","O bia ma ba m so n'ime, bido kee wa na-ekweghị na m ma ma mee, ama wa na-ekweghị bido baa n'ụzọ izizi mụ na gị dị na mbụ site na Jisọs Kraist.",1.3333,0.7456
+401,Ńna gɛ Ɖádʊ́ʊ Ɩsɔ́ɔ weeyéle fáráwíítá nimíni ɩlɩ́ɩ ɩsɔ́ɔ́dáá ɩnɩ́ɩ nyazɩ tɛ́ɛ́wʊ bɩlɛ́ Sodɔ́ɔmɩ na Gomɔ́ɔrɩ tɛ́ɛ́dɩwá-rɔɔzɩ́.,Sudo mụba wa ọgwụ na ịba laraba mụ na ya dị. Ụbọchị ngwụcha edị n'ọnọ afọ abụọ ịba laraba mụ na ya. Alị abụọ na wa ọgwụ nna. Baara ịba laraba mụ na ya.,1.9412,1.0753
+402,"Ɖádʊ́ʊ wángabɩsɩ́ nɛ́, weení-jɔ́ gɛ sɩ bana ná ɖɛ́dɛ́ɛ tamɔ́ɔ a bɩdɛkɛ́ɛ mɩ́nyɔ́ɔ́.",Dalu nwoke bu sine. We nu joge si banana dede ta mo. Abi di ka emunyo,1.2308,0.5088
+403,"Aláháɖɩ wɩ́rɛ báa wenɖé, báa weení ɩ́sɩɩ wenbí wánbɩɩzɩ́ sɩ ɩfa nɛ́ kpɔ́mɔ́ɔ́ ɩdɛ́ɛ, na bákaɖám sɩsɩ mɔgɔ́nɩ naanɩ́ bɔmɔ́ɔ baɖʊ liideé.",Na baka dam si si ma goni na ani bọ mọ badu li ide.,0.9545,0.74
+404,Ngɛ sɩsɩ Ɖádʊ́ʊ Ɩsɔ́ɔ weeyéle ɖɩfɛ́ɛ́zɩ; bɩka ɖábámáa tɛ́ɛ́dɩ ɖíi.,Dadu eso abaga edui alubarika. Ide adole wu uguti dibam akwa eso da biyele iba ebesi dole du. Ewele feeni namini na naani dabata,2.4,1.7755
+405,"Kiivé nɛ́, ngɛ ɖɔ́ɔ́gbɔ́ɔ nɩ́bááwʊ ɖɩɖɛ́ɛ Sezarée tɛ́ɛ́dɩ-daá ɖibó ɖɩsʊ́ʊ Filíipu weení wénveerím Ɖádʊ́ʊ-dɛ́ɛ Laabáárʊ Kífeńgi nɛ́-dɛ́ɛ ɖaána ɖíɖóo ɩjɔ́.","Ife na-adịghị mma bụ na n'ụbọchị ahụ, ndị dọkịta na-awa ahụ gwara ya na ọ nweghị ihe ha nwere ike ime. O wee nwụọ n'ụbọchị ahụ.",1.3,0.8609
+406,"Bɛɛ́ɛ, Yudáa-dɛ́ɛ ɖugoré-dɛ́ɛ gúúní, Ɖáwʊɖa-dɛ́ɛ ɖɩgɛsɩrɛ, weeɖi yowú; wánbɩɩzɩ́ ibóɖi nibíízi lʊbɛ sɩḿ bɩka ifulú kɩ.","Bịa, yụta dee dịgoro dee gụọ nị, dee ụdị dee dịgasịrị wee dịrị gị. Wa bụ eziokwu dị n'eziokwu bụ asị m bọka ịfụrụ",1.5,0.6778
+407,"Baagʊrʊ́ nɛ́, tɛ́ɛ́dɩwá tɩdɩláána wɛ nɛ́, tɩɩnɩ́ɩ Ɩsɔ́ɔ nɩdáárɛ, biiyéle báa naárʊ takʊrʊ́ bɔwɔ́rɔ́.","ba goro ne, ta duwatsu da la'ana wane, ta yi ni'isao na ndari, biye li ba na'aru ta kurba",1.3571,0.4795
+408,"Káma, Ɩrʊ́ Biyaalʊ́ wɔɔgɔ́nɩ gɛ sɩ ɩlɛ́ɛ wenbá bɛɛdɛlɛ́ŋ nɛ́.",Iru bia luo ogonogo ni ga si na ewe mba be dele m,1.3,0.7045
+409,"Wɔɔgɔ́nɩ nɛ́, ngɛ wúro ɩmʊ́ wɔɔbɔ́ɔ́zɩ yɩ sɩsɩ: «Ngbetíi lakásɩ gɛ nyáábá nlá ɖáa bɩlɛ́.","Nwagwo nne na, m ga-ewuro mu ozu isi si, mgbe tii laa ka si ge nye aba nla daa bu",1.2667,0.5156
+410,"Marɩyáma ɩmʊ́ waabɩrɩ ná tulaarɩ́ Yeésu nʊvɔ́-rɔ, ɩfɩɩzɩná yɛ na ɩnyɔ́ɔ́zɩ bɩlɛ́; igoobú gɛ Lazáarɩ kʊdɔndʊ́ʊ.",Mariah Carey,1.0,0.9048
+411,"Na bɩrɩ́ŋa, Galiyɔ́n tatánjɔ́ɔ ɩtɔ́ natɩ́rɩ.",Galiyo,1.0,0.8438
+412,Wɔɔgɔ́nɩ gɛ sɩsɩ na ɩlɛ́ɛ wenbá bavʊnwɛ Múúsá-dɛ́ɛ Mará-dɛ́ɛ yíko-dɛɛzɩ́ nɛ́ na iyéle ɖáa ɖɩbɩ́sɩ Ɩsɔ́ɔ-dɛ́ɛ bíya.,waa gwanin gassassai na elewe mgbafu wa Musa de mara de yuko de zine na iyele da de bese oso de bi,1.1176,0.5357
+413,Weevé ɩlɩ́ɩ ɩsɩɖáa-daá-rɔ gɛ ɩwɛná yíko wánlám maamááciwá.,"Ewe ele esida daro ge, ewe na iko wa la ma amachi",1.5,0.4681
+414,Ńna gɛ baazʊ́ʊ Mizíi laadɔ́ɔ-daá bɛɖɛ́ɛ hálɩ betí Tirowáasɩ tɛ́ɛ́dɩ-daá.,Nage bazu mizi la donda. Bade ale beti turuwa site donda.,1.0,0.4545
+415,Zamɔ́ɔ kɩḿ kɩɩdɛ ɖáa nɩ́bááwʊ kibó kɩkáɖam ɖáa Tirowáasɩ tɛ́ɛ́dɩ-daá.,Zaman kim? Kim daha ne bavo?,1.0,0.7778
+416,"» Bɛlɛ́ baadála Yeésu-jɔ́ nɛ́, ngɛ bɔɔdɔ́ yɩ sɩsɩ: «Yaayá weegédíri ɖáa sɩsɩ ɖɩ́bɔɔzɩ nya sɩsɩ nyánáábɩ́lɛ́ weení sɩ ɩkɔ́nɩ nɛ́ yáá ɖándasɩ́ ɖɩɖáŋ naárʊ.","Mele ba da le Yesu jone, nga bo do esese. Yaya we ge dirida esese? Do bozi nya sese nya na amale we ni si ekoni ne ya da ndasi di dang na",1.3333,0.4336
+417,"Amá, bánváa wɛ yíko beɖi kowúrátɩ alɩwáátɩ cʊ́kɔ bána fanaḿ.",Bámfà wẹ́ yikò bẹ́di kò wụ́rọ́ tẹ́ àlụ́wá tútụ́kọ́ bána fana.,1.1,0.5417
+418,"A wɔɔgɔ́nɩ, wánlɩzɩ́ɩ wenbí bɩmʊ́sɛ́ɛ temenuú-daá nɛ́ bana bɩ; bɩka iyéle batɩlɩ́ wenbí bʊwɛ ɩráa wenbé-daá nɛ́.",Bụ ka ị ga-elebatara wee mbịbụ wee era wee mbịda,1.0,0.7857
+419,Ɖányɩ bɩlɛ́ sɩsɩ ɖɔ́ɔ́ ɖɛ́gɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ ńba gɛ bɩka ɖúúlínya kɩlɛ́ kʊwɛ Kidaavéénúu nʊ́ʊ́zɩ-daá.,Daga gidan baki. Baka.,1.0,0.8472
+420,"Bʊrɔɔzɩ́ nɛ́ koobíya máábá mɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, ize lɩzásɩ bɔwʊtá lám.",Bọrọsịndị kọbịa mmaaba mọzọọ leemịne ize,0.9091,0.6731
+421,"Mɩ́ɩ wenbá mɩ́ɩ́lá Ɩsɔ́ɔ yaraɖá nɛ́, mɩ́na Ɩsɔ́ɔ mɩ́gɛ́ɛ ɖáa seríya-dɩnáa sɩsɩ ɖacɩrɩ‑cɩrɩ na toovonúm gɛ ɖɔ́ɔ́jɔ́ɔ́ná mɩ́ɩ, ɖádáyɩ́sɩ́ná mɩ́ɩ natɩ́rɩ-daá.","Me we mba mela oso ayara dana. Mba na oso, m ga eda seria di na asusu, da chere chere na otu ovunu m ga na ojo na me. Data ya si na me na tere ndu",1.7143,0.4775
+422,"Káma, Múúsá gɛ Ɩsɔ́ɔ waabaná icéle ɖáa ɩdɛ́ɛ Mará, amá, Yeésu Krísto gɛ Ɩsɔ́ɔ waabaná ɩwɩ́lɩ ɖáa ɩdɛ́ɛ kʊnyɔnnɩɩrɛ́ na ɩdɛ́ɛ toovonúm.",Kama Musa ga isó wa abana ichele da edé mara. Ama Yesu Kristo ga isó wa abana ewolé da edé kunyón nire na edé,0.9091,0.3922
+423,» Ngʊ́ wenbí bɩgɛ́ɛ nɛ́ gɛ sɩsɩ naárʊ fɛ́yɩ́ ɩzɩɩzɛ́ɛ Ɩsɔ́ɔ ɩzá-daá káma bʊdʊ́ʊ woovu Múúsá-dɛ́ɛ Mará nɛ́.,Ngozi bu mbibi ga-ana ka soso na-arufa ezi-ize uso ezi-anda kama mbu du uwa ofuma udi mara na,1.0,0.56
+424,"Wúro Eróodi waanɩ́ɩ Yeésu tɛ́nɩ, káma, ɩyɩ́ɖɛ wɛɛzɛ́ɛ báa lé.",kama,0.9,0.9111
+425,"Wenbá ɩ́na wɛ nɛ́, badaá nɛbɛ́rɛ waana bɩlɛ́ nɛ́, bɛɛyɛ́ɛ baaná.",na nwa nne m. Mana nne beere wa na bụ nne m. Bee ya ebe a,1.4545,0.6444
+426,"Nɛ́, we-rɔ gɛ a bɩɩgɔná ŋmatɩrɛ ńŋɩnáa tɩna tɩdaká, wenbá Krísto-dɛ́ɛ Koduuziya tatánÿáa wɛ nabʊ́rʊ nɛ́ bɔjɔ́ gɛ mínbonáa mɩ́dɔ́m.","nụ wee ruo gị, a bịa gwa na nmatara enweghị n'atụghị ntị daka. Ụbọchị Krisimesi dị ka ụbọchị tata ihe a bụrụ na ọ bụrụ na ọ jọgị, mụ mgbe na-amụdọ.",1.5,0.6869
+427,"Bɩ́la nya niíni nmʊ́ŋ, nyɔ́ɔ́ weení ńdanɩ́ɩ nʊŋásɩ nɛ́.",b'e l'a nyenyi m'um. Nyo we ni nda ni nuwa si,1.2222,0.4615
+428,"Ngɛ bɔɔdɔ́ yɩ sɩsɩ: «Koobúu, bɛɛ́ɛ, Yahúúɖuwá tuutúúma waava ná Yeésu toovonúm, bɩka barɩ́ŋa babá bɔɖɔ́kɩná wentí Múúsá-dɛ́ɛ Mará waazɩ́ɩ́zɩ nɛ́.","Ya bụrụ na ọ bụ eziokwu, kọọrọ anyị ihe mere na ụbọchị ahụ.",0.9524,0.8818
+429,Bɩlɛ́ sɩ biyele ná batɩlɩ́ sɩsɩ bɔwɛ bɛ́ndɛlɛ́ŋ bɩka mɩ́nyɔ́ɔ́ mívóo lɛ́ɛ́dɩ-dɛ́ɛ nɩ́bááwʊ; Ɩsɔ́ɔ-jɔ́ gɛ bɩlɛ́ bɩɩlɩɩná.,,,
+430,"Aléeré yoḿ naárʊ wɛ ná ɩjɔ́ ɩgɛ́ɛ Mɩ́sɩra ńnɩ́, bánÿaá yɩ sɩsɩ Agáarɩ.",aliri yom na ruo na ijo iga emesiri nni banyi aisis aga,0.8462,0.4615
+431,"Mááná yɩ nɛ́, ngɛ mɛ́ɛ́jɛ́ mazála waazá-daá nyazɩ máázɩ́ bɩlɛ́.",ma nene ngemme jemma sala wa zanda anya zi ma zi,1.1,0.4444
+432,"Amá, iyéle Ɩsɔ́ɔ ɩkɛ́ɛ mɩ́ɩ lomaazɛ́ kɩ́falá bɩka bɩkɛ́ɛ mɩ́jɔwʊrɛ.",ama,0.9,0.9388
+433,"Mogoobíya, kʊjɔɔwʊ Ɩsɔ́ɔ waalá ma kɩ nɛ́ kɩrɔɔzɩ́, mɔ́nbɔɔzɩ́ mɩ́dáá báa weení sɩsɩ naárʊ ɩ́kawɩ́lɩ ɩdɩ bɩcɛzɩ́ wenbí ɩgɛ́ɛ nɛ́.",mgbago dịa ka ọ sọwa ala ma gị na-akụrọọ si. Mụ bụọ si m dịa baa wee nụ sị sị na arụ ịka wụlụ ịdị bicha zi wụ mgbị ịga enu.,1.45,0.5579
+434,Ɖɔ́ɔ́ ɖɛ́ɛ́dɛ́ nɩ́bááwʊ ɖibó ɖɩsʊ́ʊ mɛ́ɛ́lɛ ɖɩɖɛ́ɛ Asɔ́ɔsɩ.,Do de den ba do bo do so mele de de a so,1.625,0.725
+435,"Tɩndɩnáa bɛḿ barɩ́ŋa baabá bánjaarɩ́ badɩ na sʊlʊ́ńdɩ, bána aláa nɛbɛ́rɛ.",Then the number of the barber in the salon the. But now I learn about.,1.3636,0.7895
+436,"Waalɩzɩ́ ɩdɩ ɩwɩ́lɩ wɛ nɛ́, wɛ́-bíya nɛɛ́lɛ-daá gɛ waalaaná ɩdɩ lɩzɩ́ɩ wánwɩlɩ́ɩ wɛ, bɩka wánŋmatɩ́ wɛ Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-dɛ́ɛ tɔ́m.",,,
+437,"Tɛ́ɛ́dɩ tɩḿ tɩdaá siká kɛ́ɛ siká kífenveńgi gɛ; ngɛ cɩrɩ́m bánlanáa bɩ tulaarɩ́ nɛ́, na bɔ́ kífenvená ɖʊɖɔ wɛ ńna.",,,
+438,"Fée-bú woobóɖi nibiiká naaza ńga nɛ́, máánɩ́ɩ weezuú kpɩ́nɖɛ naaza ńɖɛ waaŋmátɩ sɩsɩ: «Kɔnɩ!",Feemụọ bụrị nịbị ka na-aza nga na Maanịweezụkwe ndị na-aza ndia wa nmatịsịsị Kọ,0.8571,0.4366
+439,"Mɩ́nyɔ́ɔ́ nɛ́, mɩ́jɔɔ́ɔ ɖacɩrɩ‑cɩrɩ, amá, bɩdɛkɛ́ɛ mɩ́rɩ́ŋa.",Ndam beze ni,1.0,0.9
+440,"Yerusalɛ́ɛm ńba rɩ́ŋa waanɩ́ɩ tɔ́m tɩna, hálɩ biiyéle baayáa laadɔ́ɔ kɛḿ bɛdɛ́ɛ kʊnʊm-daá sɩsɩ Akɛ́ɛlɩdɛmá, bugutoluú gɛ sɩsɩ Azimá laadɔ́ɔ.",,,
+441,"Míívú toovonúm nɛ́, mɩ́ɩ́lá mɩ́dɩ ɖacɩrɩ‑cɩrɩ Ɩsɔ́ɔ ɩzá-daá, na bʊcɔ ɩbá ɩsɔ́ɔ́lɩ koobíya Krísto ńba na toovonúm.",Mee futuonu m na mee laa mụ na cherechere na sọọsọ ndụ na bụchọ ebe sọọsọ bụ ya Kraist mba na,1.1765,0.6353
+442,"Ngɛ a bɩɩjɩ́ ma gɛ médefééri kɩ ɩráa, nbusú ɖámáa na ma.",Abijimake metefereke era umbusudama,1.0,0.5
+443,"» Bɩlɛ́ nɛ́, náánɩ-rɔ gɛ Ɩsɔ́ɔ wénwií?",naa,1.0,0.88
+444,"Bɩlɛ́ nɛ́, weení wánvʊʊzɩ́ ɩdɩ nyazɩ bú ceení nɛ́, wónÿuúu kʊ kʊ́bɔńdɩ Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-daá.","Bile ne, we nuwa mbu ozi i denyezigbuche niile, we nye ukokugbo ndi isi odika o wuro odi.",1.2857,0.5362
+445,Ngɛ naárʊ tánbɩɩzɩ ɩsʊ́ʊ Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-daá a nbusúwá lʊbɛ tɩḿ malááyɩ́kawá wɔɔgɔná tɩ nɛ́ tɩdɛtɛŋ tá.,Nganga rutambe esu usode da na kubo ngada a umbuso wa lubetem malaika wa wa ogoneti na tedetemta.,1.0,0.4432
+446,"Múúsá-dɛ́ɛ Mará tánwɩlɩ́ kífeńbiwá bɩgɛgɛrɛŋɛ nɛ́ bʊjɔwʊrɛ páá, amá, bɩdɛ́ɛ ɩlɛɛzʊ́ʊ gɛ ánwɩlɩ́ɩ.",Mụ sị them maratụa nụ ole kị fụ mbuwa be ga-agara nga bu jọwọra pa ama bẹde ịle zụge a nwelụ,1.5385,0.5467
+447,"Bɔ́nvɔkɩ́ sʊʊ́tɩ yíni ńdɩ gɛ bándɩnɩ́ ɩráa faamɩ́nɩ-rɔ, amá, bɛḿ badɩtɩŋa bédéndendekiná tɩ na niiká basɩná wɛ.",Bụ mụwa ka sụọtụ ịhị ndị dị gị. Bịa ndị nụ ịrị afam nụrọ. Ama be mmadụ tinye be dị ndị dịkịne tinye n'ịka basị na,1.4706,0.5349
+448,"Weení ɩjɔɔ́ɔ ɖɩrɔ nɛ́, wénɖée nyazɩ bʊ́ʊ́rɛ kífenveńɖe bánÿaá ɖɛ yaásɩpɩ nɛ́, na bʊ́ʊ́rɛ kífenveńɖe bánÿaá ɖɛ sarɩdʊ́wáanɩ nɛ́.","Nwe na ije aduoro nne, nwe ndia nyasi buworo kịfe mve nịba ya ada ya asịpịne na buworo kịfe mve nịba ya ada saro duwa nịne.",1.3158,0.4948
+449,"Sáátɩ wenkí baagá Krísto ɖɛ́nɩ abɛlɩ́ akɔ́ɔ-rɔ nɛ́, mána yɩ gɛ booyóózi baká.","Satuwengki baa ga Kristo deni abali akoro ne, mana ego bu ya ozi ba",0.9231,0.3448
+450,"Bɩlɛ́ ɖʊɖɔ gɛ a alʊ́ weegízi ɩwaalʊ́ ibó ɩsáa abaalʊ́ kɩ́falʊ́, waalɩ́ɩ ɩwaalʊ́ wɔ́rɔ́.","A alu gi iwaalu, igbo isa abalu kifaalu, waalu iwaalu",0.9286,0.5323
+451,"Ɩlɛ́ ibíya waalʊrʊná yɩ wɛ nɛ́ nɖɔ́: Zimiráanɩ, Yɔkɩsáánɩ, Medáanɩ, Madiyáanɩ, Yisebáakɩ, na Súwa.","Ibiya wa lurna yi wenendo, zimrani, yokisani, midani, madyani, yisibaki na",0.8571,0.4133
+452,"Nabʊ́rʊ fɛ́yɩ́ bɩmʊ́sɛ́ɛ Ɩsɔ́ɔ nɛ́, wenbí bɩrɩ́ŋa Ɩsɔ́ɔ waalá bɩ taká nɛ́, bʊwɛ waazá-dɛ gɛ bɩka ɩbɛɛ́na bɩrɩ́ŋa.",bụkado do fọọlụ kịna dịka da. Bụ ọdịtọ m sị sị. Mba daụzụ laa dọọwụ nkaka da ma gịrị,1.0556,0.8375
+453,Pɔ́ɔlɩ woobó hálɩ ɩkádála Dɛ́ɛrɩbɩ na Lísitiri tɛ́ɛ́dɩwá-daá.,Paul Robeson Hall ekada la derbena list tiritedu,1.0,0.4792
+454,"Ńna gɛ wúro Abɩmelɛ́ɛkɩ waajáa fééni, namɩ́nɩ, náánɩ, na yomáa aláa na abaaláa ɩfa yɩ, ɩcáŋ ɩkpɔ́ɔ ɩɖɛɛlʊ́ Saráa ɩbɩsɩná icéle yɩ.",na ga wurin Abimelek wa jafe ni na mani na ni na yuma ala na aba ala ifai i changi kpo i de lu sa'ara e bisi na i chele,1.2727,0.42
+455,Ngɛ Ɖádʊ́ʊ Ɩsɔ́ɔ weegédi ɩbɛ́ɛ́ŋ bɛdɛ́ɛ tɛ́ɛ́dɩ kʊ́bɔńdɩ na bísa kʊ́bɔńgɩ wenkí bánmáa kɩ nɛ́.,Nke a bụ ụzọ eji ebe mbụ dee tebụl dị na biskit mbụ nke Bamako.,1.0,0.6667
+456,"Bɩlɛ́ nɛ́ ɩsɔ́ɔ́dáá, tɛ́ɛ́dɩ tɩḿ tɩdɛ́ɛ nuudí ɩ́ba bɩlá nya niíni.","Bile na nsogbu adịghị, na ihe niile dị mma n'ụdị ebe bile nye niile.",1.2727,0.8043
+457,"Tɛrɩtilúusi waavʊ́ʊ bɩlɛ́ ɩtɛ́ nɛ́, ngɛ Yahúúɖuwá baaganáa woovu beɖéézi sɩsɩ toovonúm bɩlɛ́ gɛ bɩɩlá.",Tulu si wa vu,1.0,0.8889
+458,"Amá, bɩlɛ́ bɩdɛ́ɛ tɩlɩ́ɩ wénÿelíi ɩrʊ́ wónvuuzí gɛ; ngʊ́ sɔɔlɩ́m wɔ́nnyɔɔzɩ́ zamɔ́ɔ gɛ.",Bịa bịde e tị li wee yeli ụrọ ofu ziga. Ngwa sọlụ m wee nyọọ ziza m ọgụ.,1.3846,0.5397
+459,"Tɔ́ɔ, Ɖebóóra weení wɔɔɖɔ́kɩ Rebééka nɛ́ weevéti boboná yɩ bebí Betɛ́ɛlɩ-jɔ́ tɩɩwʊ́ bánÿaá kɩ sɩsɩ «Wíídi tɩɩwʊ́» nɛ́ kɩdɛ.","Ta, debora we ni wa dokiri be ka ne we vi ti bobo na ibe bi, be teelu jote u baanyi akisisi, wi di teo ne",1.3684,0.4348
+460,"Mogoobíya, mɩ́nyɔ́ɔ́ wenbá mɩ́ɩ́vá Ɖádʊ́ʊ Yeésu Krísto ásícé-dʊ́ʊ toovonúm nɛ́, ɩ́katáázɩ ɩráa lɔwʊtáá.",Mụ onwe m bụ onye na-eso ụzọ Jisọs Kraịst asị na ụlọ ụka m na-ekpe ekpere na-alụta.,1.3077,0.7436
+461,"Wenbí Ibrahím wɔ́nbɔɔzɩ́ yɩ nɛ́ gɛ wánlám, bɩka wánÿaa yɩ sɩsɩ: «Mádʊ́ʊ».",Wembi Ibrahim Wombozi Nagawalam. Bakawaye se se mato,0.9167,0.4151
+462,"Ɩsɔ́ɔ nɛ́, báa naárʊ tanáá ta yɩ kɛtɛngɛrɛ.",son pa na,1.0,0.8438
+463,Ɩ́na yɩ bodoyoozi tá bɔcɔ́ɔ gɛ Marɩyáma wɛɛyɛ́ɛ fuwá na Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga-dɛ́ɛ ɖóni-daá.,"Ihe ị bụdịrị ụstar, biko oge Maria ma wee ya efu na kezie nga na cherechere nga dị edonida.",1.2857,0.5556
+464,"Hálɩ a kífeńbi gɛ mɩ́nlám nɛ́-rɔ gɛ mɩ́nnáa wahála, wenbi‑niíni-dɩnáa gɛ mɩ́gɛ́ɛ.","Alee, aku fe m bu ga m lala n'oge, m na-awa hala, wee bi n'ini di na aga m ge.",1.6667,0.3833
+465,módóndokúti mɔdɔ́ɔ́zɩ bɛdɛ́ɛ alaháácɩ́wá-rɔɔzɩ́.,Mmadu ndu kutu madu asi bata ala ha chuwa rozi.,2.5,0.5263
+466,Ngɛ kʊ́bɔnáa-daá naárʊ wɔɔdɔ́ ma sɩsɩ: «Nkewíi!,Nke,1.0,0.9143
+467,"Ɖádɩtɩŋa ɖánbá gɛ ɖɩlá tɩmɛ́rɛ na fifíni, na ɖɩmɔ́ɔ ɖiyuú ɖiɖi.",Na the thing I don't bang I dey latimba na for fini na the mode you used.,1.3636,0.7143
+468,"Naárʊ nɛ́, bɩɩva ɩlɛ́ ɩnyɩ wenbí bɩɩlɩɩná Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga-jɔ́ nɛ́, na wenbí bɩdalɩɩná kɔjɔ́ nɛ́.","Naru ne, be va ele enyi, we mbibili na kezi nga na kere kere nga jone na wembi budale na kojo ne.",1.3125,0.4286
+469,"Íkeyéle bayáa mɩ́ɩ sɩsɩ nɩ́baadɛɛrʊ́; káma, nɩ́baadɛɛrʊ́ kʊ́ɖʊḿ gɛ mɩ́wɛná, ɩnáábɩ́lɛ́ Lɛɛrʊ́.",केले बया में से सनबा देरो। काबा नबा देरो कुदुमगे मुवेना। इनाम्ले लेरो।,1.0833,1.0
+470,Ngɛ wúro wɔɔdɔ́ ɩdɛ́ɛ bɔwʊtá-dɩnáa sɩsɩ: “Ɩvɔ́kɩ ɩnʊ́ʊ́zɩ na ɩnʊvɔ́ ɩkpɔ́ɔ yɩ ɩlɔ temenuú-daá asʊ.,"Nke bụrụ ọdọ idebe otu dị na asịsị, ịvọkị enu ozi na enuvọ, ikwọ ya ilotem enu dị asịsị.",1.2,0.5694
+471,"Ménveerím mɩ́ɩ toovonúm ɖʊɖɔ sɩsɩ adɛ laadɔ́ɔ-rɔ cé, a mɩ́dáá nɔɔ́lɛ waalá nɔɔ́ kʊ́ɖʊmɔ́ɔ, ngɛ bɔɔbɔ́ɔ́zɩ báa wenbí, Majaa weení ɩwɛ ɩsɔ́ɔ́dáá nɛ́ wánváa wɛ bɩ.","Mee m feeli m tobu unu m na-dosisi. Adighi m adoro chi. A m daa na ole waala na okwudumo, m ga-abu o bozi baa wee m bi. Ma m daa wee ni, i wee soo daa na wa m faa wee bi.",1.5385,0.5169
+472,"Móógúti mɔ́wɛná tɔ́mwá ɖabata sɩ mevééri mɩ́ɩ, amá, lɛlɛɛɖɔ́-daá, mɩ́dánbɩɩzɩ ɩnɩ́ɩ tugutoluú.",Moguti mona tomwa dabata simin virimi. Amalele roda mudambezi eni tugutolu,1.0,0.3889
+473,"Bɔ́ndɔ́ɔ ɖáa nɩ́bááwʊ, bádánjaa sɩ ɖifééri wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m tɩ́nlɛɛ́ wɛ nɛ́.",Bá ndọ̀ d'àna báwọ̀? Bàtá njà siri fẹ́rì wọ̀ m'ọ́ bàtá ké yà hùdùwà ni ịsọ̀ d'étọ́m tin l'éwọ̀,1.2667,0.6316
+474,» Yeésu woobúsi wɛ sɩsɩ: «Mɩ́dákála wenbí Ɖáwʊɖa waalá sáátɩ wenkí nyɔɔ́sɩ waagʊ ɩ́na ɩwanbaaráa nɛ́?,"Jesu obuso esisi, mụ dakala wee mbị dawuda wa ala satu eki nye ọsụ wa agụ ịna ịwa mba ara",1.3333,0.3846
+475,"Aláa baaganáa bána wɛ nɛ́, weevééri tɩndɩnáa tɔ́m tɩḿ tɩrɩ́ŋa ɖʊɖɔ.",अल्लाह बागाना बनावे ने वे वेरी तेंदे ना तोमतेम तिरंगा,1.0,1.0
+476,Kpɔɔná lɛlɛɛɖɔ́ wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ gɛ sɩ manɩɩná.,"Wɔanana le dɔ, wɔ mamba dɛ kɛyɛ huduwa nanga si ma nyinaa.",1.3333,0.5106
+477,"Waabɩrɩná ma tulaarɩ́ nɛ́, mɛ́dɛ́ɛ bím gɛ waajáŋ ɩkpɩ́ɩ́rɩ bɩlɛ́.",wa birna matu larne mede bimge wa jan ekpere,1.0,0.4255
+478,Bɩdɛ́ɛ aláayáawá sʊwáána alaháácɩ́wá bɩka ɖʊɖɔ kɔɖɛyɩ́wá ndɩ‑ndɩ wéngeti kʊ wɛ.,"Bida alaya wasu ana alhacuwa, bakado do, kodaye wa indi indi wa ngetuku",1.1818,0.4531
+479,"Amá, bɩdɛkɛ́ɛ sɩ balɩ́ɩ bolíni, káma, báa weení wánnáa bɛdɛ́ɛ túúláádɩ, ńŋɩnáa wenbí baadánáa Yanɛ́ɛsɩ na Yanbɩrɛ́ɛsɩ bɛdɛ́ɛ ńdɩ nɛ́.","Kama, beda kesi bali bolini kama. Ba wenu wana beda tulade. Enge na wembi ba dana ya ne si na ya mberes beda ndi",1.05,0.3922
+480,"Wɩ́rɛ wenɖé Ɖádʊ́ʊ sɩ ɩkábɩsɩ nɛ́, sɩ ɖɩtála gɛ nyazɩ ŋmɩɩlʊ́ wɔ́ngɔnɩ́ ŋmɩɩlɩ́m nɛ́.",Se de tala ganya ze ngwulu wo ngwo ne ngwa ele,1.0,0.7581
+481,Wentí baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá nɛ́ gɛ wánwɩlɩnáa wɛ sɩsɩ Yeésu kɛ́ɛ na Lɛɛrʊ́.,"Gwamna ya ce ya zo ya tọm taka raɗa a na ge wa n wuli na we, se se. Yesu ke na le ru.",1.6429,0.5147
+482,Bɩɩlá wenbá barɩ́ŋa bénwelesí fééni ketiráa nɛ́ bítí wentí bándɩ́m nɛ́ tɩrɔ.,Bila wimbi baridi la benki ya fedha ni kituo cha ndani ya biti wenye tiba ndogo na tora.,1.4167,0.6
+483,"» Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá taŋmátɩ ɩgɔɔ yáá ɩjaa, cáńfáná ɩjaájaanáa-dɛ́ɛ tɔ́m.",so that tom takara da tamate ego ya ija chamfana ija ija na that tom,1.5,0.4407
+484,"Baabá banáázɩ nɛbɛ́rɛ ɖʊɖɔ sɩ́m-sɩ́m, bɩka nɛbɛ́rɛ weegízi sɩsɩ bɛ́kɛcɛ́ wɛ, na bekéve basʊ́ʊ weezuú kɩɩgɩ́lɩ nɛ́ kɩdaá.","Bà bà ba na zị na be ndị dọkịta, sim sim. Bịa ka a na-ebe gị gịzị sịsị. Bịa kechewe. Na be kee bịa basu wee zuo kee gịrịne kee daa.",1.6667,0.6
+485,Bɩdɛ́ɛ sáátɩ kɩḿ gɛ wanbaaráa woogóduu Yeésu-jɔ́ bɔbɔ́ɔ́zɩ yɩ sɩsɩ: «Weení gɛ kʊ́bɔnɩ́ Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-daá.,bịa sị ha na nke mụwa bụ ará bụ ụdị ụya esu jọgọbọ ọzọ esisi. Wee nụkwa na ịsọ odi ka owuru ọda.,1.5333,0.5976
+486,"Kiiyu nɛ́, ngɛ koobíya waajáŋ beyéle Pɔ́ɔlɩ na Siláasɩ balɩ́ɩ bɛɖɛ́ɛ Berée tɛ́ɛ́dɩ-daá.","Nke bu ihe wa jembe ele Paul na Silas, ba na ebe da ebere te ndi",1.1538,0.5606
+487,Mééyéle wenbá nyɔ́ɔ́gbɔ́ɔ wɛ ɖúúlínya-daá njéle ma nɛ́ batɩlɩ́ nya.,Me ye le wimba nyogbo we duli ya da njele mane bateli ya.,1.3,0.3137
+488,"» Ngɛ njɛm woobúsi yɩ sɩsɩ: «Ɖádʊ́ʊ, mɔ́zɔɔlɛ́ɛ máázá ifulú.",,,
+489,"Mogoobíya, ɩ́kɛmɛ́ɛ́dɩ mínbuunáa ɖamá mɩ́dɔ́m na Ɩsɔ́ɔ ɩ́kɔkɔ́nɩ ɩkʊ mɩ́dɔ́m.","Biko bia, e kemere di m mbu na adama m dom na eso ekokone ekwum dom",1.5,0.5179
+490,Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-dɛ́ɛ yɔ́m na nbusúwá sɩ tɩkɔ́nɩ nɛ́.,"Soro da ana kubonga de yomna, msuwa sitikoni",1.0,0.4773
+491,"Bɩlɛ́ bʊrɔ gɛ kʊdɔndɩnáa na mádafɩ́yawá waabá bɔɖɔ́ɔ mɩ́lɔ́wʊ́táá, bɩka mɩ́dáá ɖabata ɖʊɖɔ ɩsɩ́ bɩlɛ́.",Bịa bụrụ na ọkụtọ ndị na na mmadụ fịawa ụwa bụ ọdọ mmiri ota. Bịa ka mmadụ a na-akpọdụ nọ,1.2667,0.6494
+492,Pétro na Yʊháánɩ baawáázɩ gaala‑gáálɔɔ́.,Petru na Yuhane bawa se galan galo,1.2,0.3939
+493,"Ngɛ lɩ́m bɩḿ ɖʊɖɔ gɛ woonuudiná caanawʊ́ ńba, tɛ́ɛ́wʊ kʊ́bɔńgɩ waazɩ́ŋ kɩnɩ́ɩ biɖi adɛ laadɔ́ɔ rɩ́ŋa nɛ́.","Galle m bido ge wee nu di na cha November, tee ku bu ngwa asi nke na ebido adala doiri nga na",1.2941,0.5714
+494,"A mɩ́dáá naárʊ sɩ ɩna wahála, bɩ́kalá sɩsɩ waagʊ ɩrʊ́, yáá waaŋmɩ́ɩ́lɩ, yáá waalá bɩdaavé, yáá waaɖʊ ɩnɔɔ́ tɔ́m tɩdana yɩ nɛ́ tɩdaá-rɔ gɛ sɩ ɩna kɩ.","Aman da na ro si enawahala, bukala si si wa go oro ya wa nmele ya wa la bidafe ya wa du uno tom ti da na ene ti da roge si enake.",1.2222,0.4074
+495,"Amá, ńŋɩnáa ɖúúlínya raadɩɩná mɩ́ɩ, káma, mɔ́ɔ́ máádá magálɩzɩ́ mɩ́ɩ kɩdaá nɛ́, bɩlɛ́ bʊrɔ gɛ kɩ́dánjaa mɩ́ɩ.",Ama inna dunya raɗe name kamamo ma dama ngal zimi kida ne. Bule buro ge kida njame.,0.9412,0.4304
+496,"Waazála ilóódi-rɔ, ilóódi ɩya, bɩka iloobíya rɩ́ŋa ɩlɩ́ɩ bɩyáázɩ adɛ.",Wazala ilodra ilodi iya maka ilo biara na elebi yazi adi.,1.1,0.3519
+497,"Wénveerím mɩ́ɩ mará weená móvóo na Yeésu Krísto nɛ́, bɩka mándawɩlɩ́ɩ yɛ báa lé Krísto-dɛ́ɛ Koduuzísi-daá nɛ́.",weverem mara we na mụ bụ onye na-eso Kristị na m ka mụ na-awụle ya bale Kristị dị ka Dọkịnta si ndụ a,1.2941,0.4588
+498,"” Amá, mɩ́jɔ́ɔ ɖúkúru, káma, méévééri mɩ́ɩ bɩlɛ́ nɛ́.","Kama mu je Audukuru, kama mu yi ferry mu bi leni",1.25,0.4857
+499,"Bɩlɛ́ nɛ́, na wenbi‑vʊlʊḿɖɛ gɛ mándɩnáa mɔ́dɔ́m nyáázá-daá.","Belen'e, Narlıbülbül'e, Mandıra ve Maden'e",1.0,0.6818
+500,Kpɔɔ wɛ ndasɩná nyádɩ nyána wɛ ɩlá mɩ́dɩ ɖacɩrɩ‑cɩrɩ lám-dɛ́ɛ sɔ́ɔ́zɩ.,"Nwaa wee dasinaya di, ya na nwaa ella mmiri d'achiri chiri nla m dere sauce.",1.3636,0.6415
+501,"Tɩndɩnáa waagábɩsɩ nɛ́, ngɛ baadɩ́ wenbí bɩrɩ́ŋa baagála nɛ́ befééri Yeésu.","Tupu mụ lawa, agara m na-agwa unu na m ga-adị m ibiri na-agara unu beferi ya",1.4545,0.6441
+502,"Ɩsɔ́ɔ ɩmʊ́ ɩdɩtɩŋa wɔ́nnyɔɔzɩ́ mɩ́ɩ, iyéle mɩ́dɛ́ɛ toovonúm fáa ɩcáárɩ, ɩkpáázɩ mɩ́ɩ ɖóni, bɩka iyéle mɩ́ɩ ɩbára kazɔ́ɔ.","So, mu adighi etinye onye ozo mee ihe m na-etughi n'ufu ichari, ekpaazi m idoro ni boka ihere mee ibara kazo.",1.1667,0.5843
+503,"Ɩɖɔ́kɩná kɔ́ɔ́pɩ baalaná kɩ siká nɛ́ ɩnʊ́ʊ́zɩ-daá, bɩka ɩdɛ́ɛ tɩtɛ lakásɩ-dɛ́ɛ keniŋá tɩmɛ́ súu na kɩ.",Lekene kwa pe baala na kisi ka ne onu uzi nda beka ede titela kasi de keni nga teme su na,1.3125,0.4324
+504,Waabɩsɩná ɖáa ɩjaa Ɩsɔ́ɔ-dɛ́ɛ kowuro-laadɔ́ɔ-daá ńba bánlám Ɩsɔ́ɔ sarásɩ nɛ́.,wa bisinada ija eso je kowulu ado damba ballam eso sarasina,1.1,0.4407
+505,"Ɩrʊ́ ɩmʊ́ wɔɔgɔ́nɩ ɩmɔɔná ma ɩtɔ́ ma sɩsɩ: “Mogoobú Sawúuli, baazɩ náa.",Rọmọ wàkwa n'ime ọnáma etu a masịrị mụ ngwa bụ Saulị pázịna,1.0,0.6154
+506,Ngɛ bɩɩva fanaḿ yíko sɩsɩ ɩ́ŋmatɩ Ɩsɔ́ɔ tɩtɛ-tɩtɛ ńdɩ bɩka ɩkpɛɛná yɩ ɖʊɖɔ; bɩɩva yɩ yíko sɩsɩ ɩlá wenbí ɩzɔɔlɛ́ɛ nɛ́ irodunáa nɛɛ́lɛ na nɔɔ́lɛ.,"E nga be fa na m yikwọ sị sị, e nwete esọ tịta tị tendị bọka ekpe na m dudu. Be fa yikwọ sị sị e lawa m bị ụzọ ole na ụrọ dị na ele na nọlụ.",1.48,0.5676
+507,Bʊbɔ́tɩ talɩ́ɩ bɔnɔ́ɔ́zɩ-daá kɛtɛngɛrɛ; bádánnaná wɛ natɩ́rɩ tɩdakazɔ́ɔ nɛ́.,"Babban talli ne, ba na son daƙe tengere. Ba dan na nauna tare da daka zo ne",1.8889,0.4828
+508,"Káma, wɩ́rɛ ɖɩḿ nɛ́, nimíni sɩ iɖe ná, na nimíni ɩwɩ́lɩ wenbí báa weení waalá nɛ́ kɛ́ɛ bɩ nɛ́.",ka ma nwere ndụmọdụ na mmini si idena na mmini nwere mbiba nwere nụ alena ka ebe,0.9474,0.5
+509,"Amá, alɩwáátɩ kɛgɛrɛŋɛ, bɩdɛ́ɛ sáátɩ kɩḿ, mádándaŋmatɩná mɩ́ɩ na tɔmgɛɛzɩrɛ ɖʊɖɔ, a sɩ maŋmátɩ mɩ́ɩ Caáwʊ-dɛ́ɛ tɔ́m, mánŋmatɩ́ gɛ mayáázɩ mɩ́ɩ.",अम्मा अल्वाते के गेरंगे। बुदेसाते कम मदांदा मतेना मीना तोनगेसरेरुदो। असमा मतेमी चाउदे तोम। माम मतेगा मायाजमी।,1.0,1.0
+510,"Ngɛ waava bú ɩmʊ́ yɩ́ɖɛ sɩsɩ Bɛ́ɛnɩ-Oníi, bugutoluú sɩsɩ máwahála bú.","Ngwa afa bụ mụ ịdị sị sị, bee nụ onye? Bụ otu lụ sị sị, ma wa hala",1.6364,0.4906
+511,"Tɩmɛ́ waabá gɛ aɖɔ́ɔ, amá, Ɩsɔ́ɔ kʊ́ɖʊḿ ɩmʊ́ wánbanáa kʊ ɩráa rɩ́ŋa wánlám arɩ́ŋa.","Tụmụwa abụghị adọ ama, so kọdụmụ emụwa mba na akwụọ, ọ rari a walam a rịngọ.",1.1429,0.5085
+512,Bɩlɛ́ nɛ́ ɖɛ́dɛ́ɛ Mará waava nɩ́bááwʊ sɩsɩ bála kazɔ́ɔ ńbɩ Fɛɛzɩrɛ wɩ́rɛ gɛ.,"Bia nu, lee nu, lee nu mara wa afa na mba awusa si, bala ka zọm bịa zere nwoke",1.3077,0.5893
+513,Wénveerím wɛ sɩsɩ bála fanaḿ kaɖaa ńnɩ́ ɩmʊ́ tókobí waaɖʊ yɩ féézi sɩ́m-sɩ́m gɛ ɩdɛɛzɩ wɛ weezuú-daá nɛ́-dɛ́ɛ ɩlɛɛzʊ́ʊ.,"nwere ihe omume siri ike nke ukwuu nke a na-akpọ ""Wild Earth Sim Sim"" nke e dezigharịrị ka ọ bụrụ ihe nkiri ụmụaka.",1.2105,0.9222
+514,"Azɔ́ɔrɩ waalʊ́rʊ Sadɔ́ɔkɩ, Sadɔ́ɔkɩ ɩlʊ́rʊ Akíimi, Akíimi ɩlʊ́rʊ Eliwúudi.",Hazari wala rose sadoke. Sadoke eloro akimi. Akimi eloro eliwood.,1.1111,0.4561
+515,"Weení ɩrɩ́ŋa ɩ́dánjaa ma nɛ́, ɩ́dánjaa Majaa ɖʊɖɔ.",Weni irin a idan jamane? Idan jaman ja,1.0,0.4054
+516,"Amá, a bɩgɛ́ɛ sɩ nyánbɩɩzɩ́ nmʊ nyádɩ, mʊ nyádɩ.",ama ama ga si ya m bia zie umu ya di umu ya di,1.4444,0.5429
+517,Tɩndɩnáa fuú na nɔɔ́lɛ-dɛ́ɛ tɩmɛ́rɛ Yeésu waaɖʊ wɛ nɛ́.,TIN TIN A FUNA N'OLE DEHE TIMERE YE ISU ADU WE N'A,1.3333,0.5122
+518,Yeésu waalɩzɩ́ ɩdɩ ɩwɩ́lɩ ɩwanbaaráa Tiberíyáadɩ lɩɩrɛ́ kpɔ́mɔ́ɔ́.,Yesu alizeti ewole iwa mbara tibiri ya diri rekwa,1.125,0.5192
+519,"» Ɩbamáa ŋmatɩrɛ gɛ, ŋmɩnʊʊ́ nakɩ́rɩ kínnyeléɖi nɛ́ woovu bɔrɔ.",Ihe m ma nwatakiri ga-eme n'ụlọ akwụkwọ bụ ịnyịlị dị na ụkwụ ụgbọ,1.4444,0.7917
+520,Biiyéle wɔɔzɔ́ɔ́lɩ sɩsɩ ɩ́na yɩ batára súmúú-daá.,yello asolisi se enna ibatara,1.0,0.6579
+521,"A bɩgɛ́ɛ mɩ́ɩ́zʊ́ʊ ɖaána nɛkɛ́rɛ yáá tɛ́ɛ́dɩ natɩ́rɩ-daá, ngɛ badamʊ mɩ́ɩ ngʊ́ bedewélesi mɩ́ɩ, ɩlɩ́ɩ ńna bɩka ikpíízi mɩ́nʊvɔ́-dɛ́ɛ buuruú ɩtalɩná wɛ.",Abụ m ga-eme zoo dị ka a na-ekere ya taa dị na taa. M ga-bada mụọ mụọ. Ngwa ube deweli si mụọ. Ele nna bọka ikpeazụ mụọ nụ ụbọchị egbu ụrụ ị talụ na,1.4545,0.5455
+522,Ngɛ neɖére ɖʊɖɔ waaɖʊ mɩlɩzɛnɖɩ́nɩ kpáfʊ́ʊ́rɩ́nɩ fefelimá waawɩ́lɩsɩ yɛ nɛ́ lʊbɛ.,"Ndi na-edere duwa akwụkwọ, malite ndi na-akpafooro nu, fefilma, wa wulu si ya na elu",1.3636,0.5938
+523,Bɩ́ɩ́zɩ fuú na nasɩ́lɛ gɛ bɔɔjɔ́ɔ balá wúro Kedɔ́ɔrɩ-Lawʊmɛ́ɛrɩ bɔwʊtá.,"Bizi fune na selege, bojo balawuro ke dor laumer bautu.",0.9,0.4444
+524,"Lɩ́m-daá gɛ Ɩsɔ́ɔ weeyéle adɛ laadɔ́ɔ ɩkálɩɩ, bɩka lɩ́m gɛ waala ná kɛ.",Lemdaga,1.0,0.8846
+525,"Bʊrɔɔzɩ́ nɛ́, mɔ́zɔɔlɛ́ɛ mɔdɔ́ɔ́zɩ nya sɩsɩ ńvéezi kʊjɔɔwʊ wenkí Ɩsɔ́ɔ waalá nya kɩ sáátɩ wenkí máádɩ́nɩ nʊ́ʊ́zɩ nyɔ́rɔ́ nɛ́.","Bụrụ ọzịne, mụ zọọ ala mụ zọọ ọzịnya sịsị, m wee zi kujọọ wee nke ụsọ ụwa ala ya kee, sị atụ wee nke mụ adị n'ụzịnya ọrụ",1.4737,0.5326
+526,"Ngɛ waadásɩ ɩbá ɩŋmatɩná koobíya hálɩ asʊbáa, ngɛ bʊwɔ́rɔ́ nɛ́ waalɩ́ɩ ɩɖɛ́ɛ.","Ngwaata si ebe a enwete na-ekwu okwu bia ale asuba, ngwa olee nde? Wa lee ede.",1.3333,0.6271
+527,"Wenbí bɩrɩ́ŋa bɩraazɩɩzɛ́ɛ Ɩsɔ́ɔ ɩzá-daá nɛ́ kɛ́ɛ alaháácɩ́ gɛ, amá, bɩdɛkɛ́ɛ alaháácɩ́ báa wenkí wónbonáa kʊ ɩrʊ́ sɩ́m-daá.",Ama,0.9444,0.9674
+528,"Káma, baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá sɩsɩ: «Mɩ́njɔwʊ́ʊ ɖacɩrɩ‑cɩrɩ, káma, mɔ́ɔ́ mɔ́jɔɔ́ɔ ɖacɩrɩ‑cɩrɩ gɛ.",kama baama osi adighi otu m takara dan daa sese mu njoo daa cherechere kama mu omojoo daa cherechere,1.3077,0.5316
+529,"Sɩ ɩɖɛ́ɛ nɛ́, wɔɔdɔ́ wɛ gɛ sɩsɩ: «Bɩmɔɔ́na megéɖí jíńgáárɩ́ kɩ́falʊʊ́ Yerusalɛ́ɛm.",Sidan wata waka ce se Bomo na minge di jingare ka falo Yerusalem.,1.0833,0.4915
+530,"Wenbí bʊrɔɔzɩ́ nɛ́, naanɩ́ na Yaakúbu-dɛ́ɛ ńba-daá nɛbɛ́rɛ ɩkɔ́nɩ nɛ́, Pétro na Krísto ńba bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ bánvʊnÿoozí gɛ bénɖíi kíɖíím.",mme mbuoro azịza na na na ya bụ ndị mba ndị ọzọ na-ekwe nụ na Peteru na Kraistụ mmụọ badake ya hụrụwa na baa hụ ya ozigbo ndị ikiri,1.2857,0.5872
+531,"Bɩdɛkɛ́ɛ bɩlɛ́ biriké bʊrɔ, koobúu ɩmʊ́ nɛ́, Koduuzísi rɩ́ŋa waalɩzɩ́ yɩ gɛ sɩsɩ ɩ́laazɩ ɖáa kʊjɔ́ɔ́nɩ sɩ ɩla tɩ nɛ́ tɩdɛ́ɛ tɩmɛ́rɛ ɖɩḿ ɖɩdaá.","Pata ka mbele, piri kemoro. Komu omune, kodi usisiri ngawa lezi ge sese. Elazi da, kujo ni si elatine, tide timaria dem deda.",1.0,0.5385
+532,» Ngɛ ɩsɩɖʊ́ waagʊrʊ́ ɩcɔ́ɔ ɩbáázɩ ŋmatɩrɛ.,"Nke mbụ abụzụghị na-ekene bazị m. Nke abụọ ọdịsị sị, afọ gị, mazi kwuru ma ọdịna, nke ịsịrị wa gụrụ ị chọọ ịbazị nwatakịrị.",4.0,2.5
+533,Ɩdɔ́ɔ́zɩ tɔ́m wentí méévééri mɩ́ɩ tɩ nɛ́ tɩrɔɔzɩ́; méévééri mɩ́ɩ sɩsɩ: “Bɔwʊtá-dʊ́ʊ takɩ́lɩ ɩgʊ́bɔnɩ́.,"I dozo to mu ntimé véri météné trozé, véri mésé sé, bo tado takélé égo gboné.",1.1429,0.5479
+534,Yeésu waadásɩ ɩtɔ́ wɛ sɩsɩ: «Ménveerím mɩ́ɩ toovonúm sɩsɩ nɛbɛ́rɛ wɛ cé bádánzɩḿ naanɩ́ bana Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ ɩkɔnɩ ná yíko.,"Yesu adasɛ etoɔ sesɛ, me mberɛ mi to vɔ num sesɛ. Ne berɛ wachi badam zumni aniba na isode kowuro ekonayi",1.05,0.4433
+535,"Bɩlɛ́ bʊrɔ gɛ sáátɩ wenkí Krísto sɩ ɩsʊ́ʊ ɖúúlínya-daá nɛ́, wɔɔdɔ́ Ɩsɔ́ɔ sɩsɩ: «Ńdɔ́sɔ́ɔ́lɩ sarásɩ, cáńfáná kʊjɔ́ɔ́nɩ.","Biafra ga-asatụ aka Kristị si so doro ya ndaane, wee dị Ịsọọsị sị, ""Ndị sọọsị sara sị, 'Chanfanakụ jọọne.'""",1.1176,0.5349
+536,"Ɩmʊ́ weení ɩzɩɩzɛ́ɛ nɛ́, waazɩ́ wenbá baraazɩɩzɛ́ɛ nɛ́ bɔrɔ, na iboná mɩ́ɩ Ɩsɔ́ɔ-jɔ́.","mụ wa bụ onye isi ziri ezi, wa ziri onye mbàbara ziri ezi bọrọ na ebe na mụ sọọ",1.3846,0.75
+537,"Mogoobíya máábá mɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, iyuú ɩtɩlɩ́ sɩsɩ Ɩsɔ́ɔ-dɛ́ɛ tɔ́m welesí-daá, báa weení mɔɔ́na ɩjɔɔ́ɔ ɖabaram.",Mụ onwe m abụghị onye ọrụ emine. Ị bụ onye isi na-elekọta ụlọ ọrụ Tom welesịnda. Bịa wee nụ mụ na gị nwee mkparịta ụka.,1.5625,0.8095
+538,"Ɖánbasɩ́ bɩdɛ́ɛ ɩráa bɛḿ, ngɛ ɖɔ́nbɔɔzɩ́ wɛ Ɖádʊ́ʊ Yeésu Krísto-dɛ́ɛ yɩ́ɖɛ-daá sɩsɩ bála tɩmɛ́rɛ ńŋɩnáa bɩɩbɔ́ɔ́zɩ nɛ́, bɩka beɖiná badɩtɩŋa bɛdɛ́ɛ fifíni.",Dambasibe de rabem. Godom bo so wada du Yesu Kristo de da da si si. Balatimara enge na be bozi ne. Buka bedi na ba de tinaba de fifini.,1.2727,0.453
+539,"» Wenbá beegédiri wɛ nɛ́, bɔɔlɔ́ɔ babɩ́sɩ Róóma ńba-dɛ́ɛ sɔ́ɔ́ja kʊ́bɔnɩ́-dɛ́ɛ ɖaána-daá, ngɛ bɔɔmɔɔná bɔwʊtá-dʊ́ʊ wáńwáá.","gwe mma be egedi ruo na. Bọlọọ ba bido ruo ma mba dee, sọọja gba ndị e dee anadaa. Ngi bụọ mọọ na gba uta dị ụwa nwaa.",1.8667,0.4494
+540,"Bɩ́ɩ́zɩ lʊbɛ nbɩlɛ́; bɩlɛ́ nɛ́, ɖoozire kʊ́ɖʊńɖɛ gɛ.",Bébé lou blé blé né do ziré koudou,1.0,0.6667
+541,Bɩlɛ́ nɔ́ɔ́ ɖʊɖɔ gɛ bɩɩlaná fenɔɔ́ na wɩlásɩ.,"Bila no dudo ge, bila na funa na wula",1.0,0.5152
+542,"Mɩ́nyɔ́ɔ́ mogoobíya máábá mɔ́zɔɔlɛ́ɛ mɩ́ɩ nɛ́, a naárʊ waalá mɩ́ɩ bɩdaavé, mɩ́dɩtɩŋa ɩ́kɛfɛ́rɛ yɩ, iyéle Ɩsɔ́ɔ tɩtɩŋa ɩfɛ́rɛ bʊdʊ́ʊ.",mụ na ụmụ gị abụọ ga-abịa mụọzọrọ mụ na gị. A na-arụwa ala mụ na gị bido afọ Meditịnga ekefere anyị. I yiri uwe ọcha titịnga ifara bụ,1.4211,0.6875
+543,Bɩgɛ́ɛ na kaanɩzʊrʊɖʊ́ʊ-dɛ́ɛ alɩwáátɩ.,Begenna kanzodo de alwate. Ngabde sate. Bobendi isode,2.0,1.1667
+544,"Mogoobíya, ɩrʊ́ ɩtɔ́ sɩsɩ waava Ɩsɔ́ɔ toovonúm, bɩka ɩ́dánlaḿ tɩmɛ́ ánwɩlɩ́ɩ sɩsɩ bɩlɛ́ gɛ bɩgɛ́ɛ nɛ́, bɩvɔ́ɔ́zɩrɛ gɛ wé.",,,
+545,Bɩdɛkɛ́ɛ wenbá barɩ́ŋa Múúsá weegégeti wɛ ɩkálɩ́zɩ́ wɛ Mɩ́sɩra nɛ́?,Bita kawo mabaranga Musa wé gegetu wé ekalizi wé misara,1.0,0.4706
+546,Bɛdɛ́ɛ yaraɖá waabá kɩbɩ́ɩ Ɖádʊ́ʊ-rɔ páá bánŋmatɩ́ síka fɛ́yɩ́.,Bede ya rada wa bakabe daduro pa ba matisi ka fa,1.2222,0.4043
+547,"Káma, bɩlɛ́ sɩ biyéle ná Ɩsɔ́ɔ ɩbá ɩtʊlʊ́ mɩ́ɩ tará ɩsʊ́ʊ Ɖádʊ́ʊ na Ɖɛ́lɛ́ɛ́rʊ́ Yeésu Krísto-dɛ́ɛ kowúrɔ́ɔ kɛ́dɛ́ndɛŋ́ nɛ́ kadaá.",kama,0.95,0.956
+548,"Mɩ́ɩ mɩ́rɩ́ŋa wenbá móóbó mɩ́dɛ́ɛ maŋmátɩ Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-dɛ́ɛ tɔ́m nɛ́, móóyúú madɩlɩ́ lɛlɛɛɖɔ́ sɩsɩ mɩ́dándanáa ma ɖʊɖɔ.",mụ emere gị onwemba mụ bụ mmadụ ma nwato nsogbu adịghị ka nwuru adịghị tọmne mụ bụ onye ma diri na-edu asịị mmadụ ndụ na-ama,1.4118,0.7065
+549,"Bɩlɛ́ bɩdɛ́ɛ sáátɩ, Lɔ́ɔtɩ ɩlɛ́ ɩwɛ ɩjɔɔ́ɔ tɛ́ɛ́dɩ-daá ɖaazʊʊnáɖɛ.","Bia bụrụ na ọ sịrị, lọtara ewe iwe, iwe i",1.1111,0.875
+550,"Tɩɩwʊ́ kɩḿ kɩváádɩ kɛ́ɛ faadɩ́nɩ gɛ, tɩ́nwaazɩ́ laadásɩ rɩ́ŋa-dɛ́ɛ ɩráa.",केओकम केफादे केफादेनेगे,1.0,1.0
+551,"Bɔɔjɔ́ɔ ńna balá wɛ́ náálɛ, ngɛ baazʊ́lʊ nɩ́bááwʊ babɩ́sɩ bɔkɔ́mɔ́ɔ́ná wenbá beegédiri wɛ nɛ́.","Bajo nna balawanale, nge ba zulu nbao ba bise bokomo na wemba be gediri wane.",1.0,0.3571
+552,"” Toovonúm, ɩráa ɖabata gɛ baayáa, amá, cʊ́kɔ gɛ sɩ balɩzɩ́.","Tuvonum, eror bataqibaya amachukwu gasabalize.",1.0,0.4419
+553,"Amá, Ɩsɔ́ɔ weevéézi yɩ ɩlɩ́ɩ ɩsɩɖáa-daá; ɖɔ́ɔ́ ɖázɩ́ŋɛ́ɛ bɩlɛ́ bɩdɛ́ɛ seríya.","A ma, e so we ve si e le standard do da zinge belebe de seri.",1.4545,0.5636
+554,"Amá, Ɩsɔ́ɔ wɔɔdɔ́ sɩsɩ ɩmʊ́ wánlám adɛ laadɔ́ɔ kɩ́falɔɔ́, na ɩsɔ́ɔ́dáá kɩ́falʊʊ́.","Ama, eso no es así. El muérdago es la doc que falló. No es la doc que falló.",1.4167,0.7018
+555,Yeésu wénɖíi Fɛlɛ nɖɛ́ɛ-dɛ́ɛ jíńgáárɩ́ ɩ́na ɩwanbaaráa.,Yesu ndi felende de jingare ina iwa mbara.,1.1429,0.4419
+556,Woogóo na ɖóni ɩtɔ́ sɩsɩ: «Tɩɩzála!,Wogona doni itosi se teza,1.0,0.4231
+557,Abaalʊ́ ɩ́la ɩɖɛɛlʊ́ wenbí bɩɩbɔ́ɔ́zɩ sɩsɩ ɩrʊ́ ɩ́la ɩɖɛɛlʊ́ nɛ́; bɩlɛ́ ɖʊɖɔ gɛ alʊ́ mɔɔ́na ɩlá ɩwaalʊ́ wenbí bɩɩbɔ́ɔ́zɩ sɩsɩ alʊ́ ɩ́la ɩwaalʊ́ nɛ́.,Abaalu ela edialu we mbibi ibuo sese. Ero ela edialu ne. Mbele nu nụ na ge. Alụ mụọ na ela iwa alụ. We mbibi ibuo sese alụ ela iwa alụ ne.,1.2917,0.5288
+558,Yeésu waalá kíɖíím ifizí abaaláa mííli nɔɔ́nʊ́wá iɖi.,Yesu ala kidim ifizi abala mili nonwa,0.875,0.3256
+559,Ngɛ wɔɔbɔ́ɔ́zɩ wɛ sɩsɩ: “We-rɔ gɛ ɖoo tɛ́ɛrɛ́ mɩ́zɩ́ŋɛ́ɛ ńna bɩka mɩ́dánlaḿ neɖére.,"Ngwa bọzụwa sịsị, ụra gado tere, mụ zị gị ṅa bụ ka mụ daa la mụ n'idere.",1.3077,0.5254
+560,"» Ngɛ Ɩbrám woobúsi yɩ sɩsɩ: «Mádʊ́ʊ Ɩsɔ́ɔ Wúro Kʊ́bɔnɩ́, mɔ́jɔɔ́ɔ ɖɔ́ nɛ́ mɛ́vɛ́yɩ́na bú.","Ibrahim wụ bụsị sịsị. Mmadụ ịsọwụrụ kụbọọ nị, mọjọọ dọne, mefe ịne bụ",1.0,0.6667
+561,"Majaanáa, wenbí bʊrɔ mánŋmaá mɩ́ɩ nɛ́ gɛ sɩsɩ mɩ́nyɩ weení ɩvʊnwɛ ɖoo bɩgabaazɩya nɛ́.","Mazi Anna, onwe mbu na mme mme na-agasi si, mejuo we ni ife unu wado bu gaba zie.",1.2857,0.6418
+562,Ɖaanɩ́ŋa-rɔ bɩlɛ́ gɛ Ɩsɔ́ɔ-dɛ́ɛ malááyɩ́kawá bɛlɛ́ bɛlɛ́ɛ́nɩ́ baadála Sodɔ́ɔmɩ.,Da ni nga rob lege iso de malaika wa bele bele ni ba dela sudom.,1.6667,0.5
+563,"Bɩbamáa yɩ nʊŋásɩ nɛ́, ngɛ alʊ́ álʊ́rʊ́sɩ́rʊ́ wɔɔdɔ́ yɩ sɩsɩ: «Bɩ́kalá nya nɩdáárɛ; bú abaalʊ́ ɖʊɖɔ gɛ nyóóyúú.","Bụ ma yị nụ nga sị na, ngé alụ alụ rụsụrụ wụ ọdọ esịsị, bụ ka anyị na ndá arị, bụ abali rụdọgá nye oyịu",1.3889,0.5
+564,"Bɩlɛ́ bʊrɔɔzɩ́ nɛ́, kʊ́bɔnɩ́, tɩnáábɩ́lɛ́ méévééri nya sɩsɩ Ɩsɔ́ɔ wánwɩlɩ́ɩ nya wenbí sɩ ɩlá nɛ́ gɛ.","M'bụrụ ọzọ na kụbanụ, tupu mụ na gị wee rie ihe sịsị, esọwa mụ nwere ihe anya wee mbịsị ịla na gị.",1.375,0.6806
+565,"Ngʊ́ mɩ́nyɩ bɩlɛ́ sɩsɩ Yeésu Krísto ɩlɛ́ nɛ́, waaɖʊ ɩlɩ́ɩ ɖúúlínya-daá gɛ sɩsɩ na ɩcɛ́ ɩráa-dɛ́ɛ alaháácɩ́wá; amá, ɩdɩtɩŋa ɩvɛ́yɩ́na alaháácɩ́.",Ngọ menye blesses Jesus Christ elene wadu elili du nyen da ga sese na iche era de ala ha chụa ama etete na efe na ala ha,1.1905,0.5238
+566,"Bɩlɛ́ nɛ́, mɩ́nyɔ́ɔ́ wenbá mɩ́ɩ́vá toovonúm nɛ́, bʊ́ʊ́rɛ ɖɩḿ ɖɩ́nbá ɖɩfɔ́ɔ́zɩ mɩ́ɩ.","M'bụ nwa nwoke mụrụ na obodo Nnewi, mana m bi na obodo Foz do Iguaçu.",1.25,0.8727
+567,"» Tɔ́ɔ, bɩlɛ́ gɛ wúro waazɩ́ɩ yɩ kʊ́bɔńdɩ Mɩ́sɩra laadɔ́ɔ rɩ́ŋa-rɔ.",Tooblege nwuro waazi ya ku bọọ ndị Misra laa dọọrọ ngarọ. Ngwụrọ waazi ife e riri si fụsịsị. Misra laa dọọ,2.1,1.2826
+568,"Baadála nɛ́, bɔɔmɔɔná Marɩyáma na Ísifu na bú áfʊ́lʊḿ ɩlɛ́ ɩvɩ́nɛ́ɛ fʊ́ńdɩ kpɩná kíɖíím ɖaaɖʊ́ʊ́ɖɛ-daá.","Bà à, để là bố mua nó mà đem nó đi siêu thị, nó bua phở luôn, để đến chiều về mua cho nó cái gì mà nó đòi mua đó.",2.0667,0.8462
+569,"Yudásɩ weení sɩ ɩyá yɩ nɛ́ nyɩ ɖɩdáarɛ ɖɩḿ, káma, Yeésu na ɩdɛ́ɛ wanbaaráa bóndóróbóɖé ńna.",Yesu na,0.9375,0.9155
+570,"Wenbí ɖándɩlɩ́ɩ na sɩsɩ ɖɔ́zɔɔlɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ bíya nɛ́ gɛ a ɖɔ́zɔɔlɛ́ɛ Ɩsɔ́ɔ, bɩka ɖánlám wenbíwá waazɩ́ɩ́zɩ ɖáa bɩ nɛ́.",Wembu dan zele na se se do zole so de biye na ge a do zole so bu ka dan lan wembu o wa zi zi da bi,1.3684,0.5517
+571,Ngɛ ɖéédí ɖɩcɔ́ɔ ɖɩŋmatɩná aláa boduuzée ńna nɛ́.,Gede dido cho tengmatena ala boduze,1.0,0.5385
+572,"Bɩ́kalá sɩsɩ iyuú liideé-rɔɔzɩ́, amá, ɩlaná sɔɔlɩ́m.",il y a une idée rose à ma,1.1429,0.7692
+573,Naárʊ tasɩná ma kaɖaa-dɛ́ɛ máávʊ́ʊ mɔ́dɔ́m nɛ́; barɩ́ŋa beeze gɛ beyéle ma.,Na ruta si na maka daa dee ma fu mu dom ne. Bari nga be eze ge be ele,1.5,0.3636
+574,Nyányɩ sɩsɩ Azíi laadɔ́ɔ-daá ńba rɩ́ŋa wɛɛbɛ́ɖɩ ma.,"Na nye sese,",1.0,0.8462
+575,"Weení wɔ́ndɔ́m sɩsɩ ɩwɛ ɖɛnyɛm-daá, bɩka wánlɩzɩ́ɩ igoobú báɖáárɛ nɛ́, tɛɛzɩwɛ temenuú-daá gɛ.","Kedu onye nwere onye nwụrụ anwụ n'ime unu daa, biko welie aka gị elu ka anyị wee tee mmanụ n'uda gị.",1.6154,0.8219
+576,"Lowú kɩḿ kɩɩgálɩ́ɩ́ná ɩsɔ́ɔ́dáá gɛ, ngɛ ɖádɩtɩŋa ɖáánɩ́ɩ ná kɩ sáátɩ wenkí ɖána Yeésu ɖɔ́wɛ Ɩsɔ́ɔ-dɛ́ɛ bʊ́ʊ-rɔ nɛ́.","Lụkịm ke galena ụsọdụ agị, ịngé adịghị atị nga daa nị na ke, sa atụ we nkị daa na ya sụdọwa ụsọdụ bụrọ nụ.",1.2778,0.5595
+577,Wúro Eróodi weeyéle bakʊ bíya abaaláa.,"Iro iro di, we ye libaku bia abali",1.3333,0.3438
+578,"Amá, na bɩrɩ́ŋa, Pétro waagʊrʊ́ ɩkpɔ́ɔ sewɔ́ɔ ɩɖɛ́ɛ bɔɔlááwʊ-jɔ́.","Amma na buringa, petro agro ikpo siwo idebe ola",0.7778,0.5532
+579,Nuvoowú-daá gɛ bɩɩlɩzɩ́ nabʊ́rʊ bɩwɩ́lɩ Pɔ́ɔlɩ: Bɩɩwɩ́lɩ yɩ Masedʊwáanɩ laadɔ́ɔ-dɛ́ɛ ɩrʊ́ naárʊ ɩzɩ́ŋɛ́ɛ wánvɩnɩ́ yɩ sɩsɩ: «La suúru ngbɔɔná Masedʊwáanɩ.,"Nouveau danger, les inondations provoquent la peur. Les populations de la zone de Ouro Naro et Zine Waoundé s'inquiètent. La survenue inopinée",1.1,0.8376
+580,"Bɛ́nbɛlɩ́ɩ badɩ bʊbɔ́tɩ alaháácɩ́-dɛ́ɛ tɔ́m-rɔ, káma, beegízi badafa ma toovonúm.","Bembélé batubote, ala hati na tomro, kama be gizi na famato",1.0,0.4754
+581,"Serúugu-dɛ́ɛ lʊrʊ́ʊ wɔ́rɔ́ nɛ́, Réhu waadásɩ ɩcɔ́ɔ bɩ́ɩ́zɩ kákpáŋa na lʊbɛ ɩlʊ́rʊ bíya aláa na abaaláa.",Oru gị dị elu ruo n'eluigwe adịghị echọ beeze kakwaa na rube eluigwe na ala na abịa ala.,1.0,0.5789
+582,"Ɩsɔ́ɔ waalɩzɩ́ ɩwɩ́lɩ anɖébiwá sɩsɩ tɔ́m wentí ɩmʊ́ waaŋmátɩ tɩ na bɔnɔ́ɔ́zɩ nɛ́, bɩdɛkɛ́ɛ badɩtɩŋa bɔrɔ gɛ waaŋmátɩ tɩ, amá, mɩ́nyɔ́ɔ́ mɩ́rɔ́ gɛ.","So, a lezie iwe na ndabụwa sị sị, ""Tọm wenti, ịmuwa aghmatete na-abụghịzi na."" Pete ka ọ dịrị gị na abụghị gị wa aghmatete, ama mụ na ịghọrọ",1.087,0.5943
+583,Mɔ́ngɔnáa mɩ́ɩ kíɖíím iɖi mɩ́dɔnɩ́nɩ ɩkpa ɖóni na bʊcɔ ɩɖɛ́ɛ.,"Mụ onwe m a na-eme ikiri mmiri a, mụ dọrọ unu aka ná ntị na biko",1.6,0.6957
+584,"Káma, a wɔɔɖɔ́kɩ ɩdɩ bɩlɛ́ hálɩ bɩkádʊ́lʊ́, wónÿuúu weezuú; kʊjɔɔwʊ Ɩsɔ́ɔ waazɩ́ɩ kɩ sɩ ɩlá wenbá bɔzɔɔlɛ́ɛ yɩ nɛ́ nbɩlɛ́.",kama,0.95,0.9556
+585,"Wenbí ńŋɩnáa mɛ́dɛ́ɛ Ɩsɔ́ɔ ɩbá ɩgɛ́ɛ ɖɔ́ɔ́lɛ-dʊ́ʊ nɛ́, bɩlɛ́ gɛ mɛ́dɛ́ɛ Ɩsɔ́ɔ ɩmʊ́ sɩ ɩbaná Yeésu Krísto ɩfa mɩ́ɩ wenbí bɩrɩ́ŋa bɩ́nbɔɔzɩ́ mɩ́ɩ nɛ́.",Nwe m obi ṅaṅa mee de usoro ebe aga-edozi duu na. Biko mee de usoro imụ si eba na Jizọs Kraist ifa mụ iwe mụ bụrụ na bụ mbochi mụ,1.25,0.699
+586,"Ɩsɔ́ɔ tɩtɩŋa wɔɔzɔɔlɩ ná gɛ waabaná ɩdɛ́ɛ ŋmatɩrɛ ɖɩgɛ́ɛ toovonúm nɛ́, ɩfa ɖáa weezuú, na ɖɩbɩ́sɩ wenbí bɩrɩ́ŋa waalá bɩ taká nɛ́-dɛ́ɛ kaɖaa ńba.","so etete nga, o zoro n'oge wa abana ede nmatere dịka otu afọ n'ọnwa na ifada bụ ezu na dịbịa bụ mbibiri nga wa labetaka na dịka mba",1.125,0.5727
+587,"Ńnaamʊ́ gɛ Pɔ́ɔlɩ wɔɔgbɔ́ɔ ɩráa bɛḿ banaazáánɩ́ ɩtasɩná ɩdɩ; ngɛ kiivé nɛ́, ɩ́na wɛ babáázɩ ɖacɩrɩ‑cɩrɩ lám-dɛ́ɛ sɔ́ɔ́zɩ.","Na mụwa bụ Paul Nwokoro, a rịọ m ba na azaa nị etu sị na edị. Ngá ka ị wee na, Ị na wee ba baazị na cherechere nla dị ọsọzị.",1.7222,0.5667
+588,bádánzʊʊ laadɔ́ɔ wenká kadaá máágbɩ́ɩ́rɩ fɛɛzɩrɛ mazɩ́ɩ wɛ nɛ́ kɛtɛngɛrɛ.,Bia nu so na do nwe nke ka da ma gwi ri fe ziri mazi we nne ke te ngere.,2.0,0.5
+589,"Bɩdɛkɛ́ɛ alʊ́ wɛná na kʊ yíko ɩdɩtɩŋa ɩdɔnʊʊ́-rɔɔzɩ́, ɩwaalʊ́ gɛ; bɩlɛ́ ɖʊɖɔ gɛ bɩdɛkɛ́ɛ abaalʊ́ wɛná na kʊ yíko ɩdɩtɩŋa ɩdɔnʊʊ́-rɔɔzɩ́, ɩɖɛɛlʊ́ gɛ.",Mete ke alu wè n'naku yiko etiteng'a odonuroze ewaluge. Mele nundoge mete ke abalu wè n'naku yiko etiteng'a odonuroze edealuge.,0.913,0.6055
+590,"A nɛbɛ́rɛ wɛná bɩdɛ́ɛ yíko mɩ́rɔ́, bɩ́nlám nŋɩ́nɩ́ na ɖɔ́ɔ́ ɖódónÿuú yíko kɩḿ bɩcɛzɩ́ bɛlɛ́.",na mberu wanne bide yiko muro. Billa enen do do do yu yiko kem bicha se,0.9333,0.5538
+591,Ngʊ́ bɩdɛkɛ́ɛ sɩ mánjáádɩ sɩ ɩ́kava ma nabʊ́rʊ-rɔ gɛ mánŋmaá bɩlɛ́.,"Onye bụ dike si mba dị iche iche, ị ka afọ mana abụrọ gị mmadụ abụọ.",1.4545,0.74
+592,"Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá waalɩzɩ́ seríya ɩrɔ sɩsɩ naanɩ́ bɩlɩzɩ́ yɩ bɩkpáázɩ Ɩsɔ́ɔ-jɔ́ nɛ́, wɔɔmɔ́ɔ Ɩsɔ́ɔ.","sọ àwọn ọmọ takaradá wọ̀nyí sí seryà rọ sẹ̀sẹ̀. Nàání bí o ṣe bíkpá àwọn ọmọ jọ̀ ní, wọ́n mọ́ sọ.",1.4,0.6623
+593,"Mɛ́dɛ́ɛ lomaazɛ́ tɛkɛ́ɛ sɩsɩ megbíízi mɩ́ɩ mɛgɛ́vɛ́ɛ́zɩ́ná baaganáa wenbé, amá, bɩɩbɔ́ɔ́zɩ gɛ sɩsɩ mɩ́rɩ́ŋa ɩlá ɖéyí‑ɖéyí.",Madelu ma seke se me gbeze me ma ge ve na ba ga na wembe ama di bo si ga se se ma re nga ele de de,1.6875,0.5556
+594,Kánváa báa weení kʊjɔ́ɔ́nɩ ńŋɩnáa kɔzɔɔlɛ́ɛ nɛ́ gɛ.,"Kamva bawo enikujo oni, enge na akoso ole enge",1.125,0.4872
+595,"Koobíya, mɔ́zɔɔlɛ́ɛ iyuú ɩtɩlɩ́ sɩsɩ wenbí bɩɩmɔɔná ma nɛ́ woogúti gɛ bɩsɩná Laabáárʊ Kífeńgi-dɛ́ɛ bɩɩzá-daá boɖé.","Kedu ihe a? Mụ na gị na-ekwurịta okwu, ị na-ebibi m ọmana. Ọwụ gị ka ga-ebisi na ala a bụrụkwa ihe ngide ebighị ebi na ndụ a.",1.6875,0.7111
+596,"Kɩɩnɩ́ɩ tɔ́m bíya bɛḿ nɛ́, ngɛ kɩɩbáázɩ agogo sɩsɩ: «Ɩdɛlɛ́ɛ́zɩ ɩrʊ́ ɩmʊ́!",que ne tu envías vem na que vas a,1.0,0.8846
+597,"Ngɛ Ɖádʊ́ʊ Ɩsɔ́ɔ tɩtɩŋa kazɩ́ŋɛ́ɛ kʊgʊjʊʊ́-daá wɔ́ndɔ́m ɩmʊ́ sɩsɩ: «Mánáábɩ́lɛ́ nyádʊ́ʊ Ɩsɔ́ɔ, njaa Ibrahím-dɛ́ɛ Ɩsɔ́ɔ; Ɩsaáka-dɛ́ɛ Ɩsɔ́ɔ.","Nga daa doo Esau tinye aka zi na ekwugodi Judah, nwoke ọzọ emusasịrị. Mana mmalite ya doo Esau, ngá Ibrahim dee Esau, Isaac dee Esau.",1.4706,0.6531
+598,"Ɖoo mɩ́ɩ́vʊ́ńbaazɩ kazɔ́ɔ, ɩrʊ́ ńŋɩnáa weení waabaná ɩbárasɩ mɩ́ɩ ɩtɔ mɩ́ɩ nɩ́bááwʊ sɩsɩ íkofu toovonúm.","Ndi m'ihe fụrụ mba a sị ka zọọ. Ọrụ ịngna wee nụwa abụ na-ebara sị m, ịtọ mụ n'ụba usụsụ iko fụtụ ofu nụ.",1.6,0.5375
+599,"Káma, bɩdɛkɛ́ɛ bɩrɩ́ŋa gɛ ɖányɩ, bɩka bɩdɛkɛ́ɛ bɩrɩ́ŋa gɛ ɖánŋmatɩnáa Ɩsɔ́ɔ nɔɔ́.",kama mbeteke berenge ge danyi mbeka mbeteke berenge ge dangmati na,0.9167,0.6393
+600,"Amá, fɔɔnɔ́ɔ-dɛ́ɛ bɩ́ɩ́zɩ lʊbɛ sɩḿ sɩwɔ́rɔ́, nyɔɔ́sɩ kʊ́bɔńzɩ wánzʊʊ́ tɛ́ɛ́dɩ bɩ́ɩ́zɩ lʊbɛ.",Amaghị m. Ọ nọdụ ebe ahụ ebe si m sụgharọ nyọsụkwa bọọlụ nzuwa nzu tupu e dee ebe ahụ.,1.5833,0.746
+601,» Ngɛ Ɖádʊ́ʊ Ɩsɔ́ɔ weegédi ɩkɔ́nɩ ɩsááwʊ bɛdɛ́ɛ kʊnʊm.,"Ngada du i sawi gedi, iko ni isawu beda kunu.",1.25,0.525
+602,Bɛlɛ́ gɛ wenbá baaŋmáa ɩdɛ́ɛ yɩ́ɖɛ na ɩjaa-dɛ́ɛ ńɖɛ bɛnyɛ́-rɔɔzɩ́ nɛ́.,Balagum babang ma edeyide na ja dende benyerozi,0.9091,0.56
+603,Yeésu Krísto ɩmʊ́ waagba Ɩsɔ́ɔ-jɔ́ ɩgɔjɔɔ́ɔ igíɖiiwú-rɔ.,"Jesu Kristi emuwa agba ose ojo, ogwajo igidi iwuro",1.2857,0.3953
+604,"A nyɔ́zɔɔlɛ́ɛ, mónzuú kɛ́rɛ́ɛ́zɩ nasúdoozo cé: Nyɔ́ɔ́ kʊ́ɖʊmɔ́ɔ, Múúsá kʊ́ɖʊmɔ́ɔ, Elíya kʊ́ɖʊmɔ́ɔ.",Musa,1.0,0.942
+605,Nbusúwá kegbiirinɔ́ɔ ńdɩ wentí Ɩsɔ́ɔ sɩ ɩkɔná tɩ ɩdɛ́ɛ baaná-daá nɛ́ nbɩlɛ́.,Mụ na ụmụaka gị bụrụ ndị wee nwee nsogbu ịkwanata ịde akwụkwọ na ndịa na mbụ.,1.3333,0.7759
+606,Ɩsɔ́ɔ waalá ɖáa kʊjɔ́ɔ́nɩ gɛ ndɩ‑ndɩ bɩlɩɩná wenbí weejéle ɖádáá báa weení nɛ́.,Sawa la daku jo na ga indinde. Bele na wembi we jele dada ba weni,1.1538,0.4098
+607,Ɩbá ikuná laakáarɩ mɩ́dɩtɩŋa mɩ́rɔ́ na Koduuziya wenká karɩ́ŋa Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga waaɖʊ mɩ́ńdɛ́ nɛ́ kɔrɔɔzɩ́ kazɔ́ɔ.,"bụkụna akwụkwọ, ma detengamoro na kọdụzie ụmụnkakara a ka ezigana cherechere nga waadọ mịndịne kọrọzị kọzọ",0.9412,0.5269
+608,"Ngɛ nuvoowú kɩḿ kɩdaá, ɩrʊ́ naárʊ wɔɔgɔ́nɩ ɩ́na yɩ balʊ́ hálɩ asʊbáa.","Ngenu vu kem keda, runa ruwa gwanin inai balo ale asuba.",1.0,0.4808
+609,"Bɩdɛkɛ́ɛ mánjáádɩ sɩ maɖʊ mɩ́ɩ fɛɛrɛ́-rɔ gɛ mááŋmáa mɩ́ɩ bɩlɛ́, amá, mánjáádɩ gɛ sɩ mɛgbɛ́lɛ́ŋ mɩ́ɩ kazɔ́ɔ ńŋɩnáa ɩrʊ́ wɛ́ngbɛlɛŋ́ ibíya ɩbá ɩzɔɔlɛ́ɛ wɛ nɛ́.","Beter ka mma ya di na madu mee fere ro gi mma ma o teghi aka, a ma mma ya di gi mma gbelem mee ka zoo enye na oru wa gbelem ibi ya ebe uzo ole ewo",1.52,0.5913
+610,"Ngʊ́ mɩ́ɩ Krísto ńba mogoobíya, mɩ́gɛ́ɛ bíya bɛdɛ́ɛ lʊrʊ́ʊ kadamáa na kʊjɔɔwʊ Ɩsɔ́ɔ wooɖúu ɩsɩ́ɩ sɩsɩ wánlám kɩ nɛ́ gɛ; ńŋɩnáa Ɩsaáka-dɛ́ɛ.","Mme Christ m'a beaucoup aidé. Il m'a aidé, par des ruses et des manœuvres, à sauver mon âme que le serpent m'avait volée.",1.0455,0.8462
+611,bɩka barɩ́ŋa bɔtɔ ná bɔnɔ́ɔ́zɩ bɔɖɔ́ɔ́zɩ Ɩsɔ́ɔ Caáwʊ sɩsɩ Yeésu Krísto kɛ́ɛ na Badʊ́ʊ.,"Baka baringa botona bonosi, badosi eso chao sese. Yesu Kristo ke na bado",0.8571,0.4688
+612,"Sɔɔlɩ́m fɛ́yɩ́ sʊ́ʊ́zɩ, sɔɔlɩ́m tánlaḿ kúúrí, bídónvuuzi bɩdɩ.",Solim Faïssouze Solim Tanlam Kouri,0.875,0.587
+613,We gɛ sɩ ɩlá na bɔtɔ́ sɩsɩ waalʊ́rʊ bú.,"O ga-esela na-bụ tọsịsị, wa lụrụ",1.0,0.5357
+614,Wentí Faríizi na Sadusée ńba wánwɩlɩ́ɩ nɛ́.,Wenti fa rizi na sadusemba wan wole na,0.8571,0.2059
+615,"A bɔwʊtá lám gɛ bɩɩva naárʊ, ɩlɛ́ ɩ́la bɔwʊtá; weení bɩɩva yɩ wɩlɩ́ɩ nɛ́, ɩlɛ́ ɩ́wɩlɩ.","A na-abụta ya na ngalaba ihe nkiri, ebe a na-abụta ụmụ nwaanyị na-ewu ewu na ihe nkiri.",1.0,0.8689
+616,Bɩlɛ́ nɔ́ɔ́ ɖʊɖɔ gɛ ɩrʊ́-dɛ́ɛ nzʊlʊmʊ́ʊ kɛ́ɛ.,Balanon duno ge orode nzulu mu ke,1.0,0.6333
+617,"Bɔjɔɔ́ɔ bénɖíi kíɖíím nɛ́, ngɛ Yeésu sɩsɩ: «Ménveerím mɩ́ɩ toovonúm sɩsɩ mɩ́dáá kʊ́ɖʊḿ weení mána yɩ ɖénɖíi nɛ́ wánÿám ma.","Wajibi ne in yi kudi mana, in ga Yesu sosai. In fa'iri mi tovo numu sosai. Mada kudi mu waye ni mana idan di ne waya",1.3,0.5484
+618,"Bɩlɛ́ nɛ́, a mɩ́ɩ́gɔ́nɩ gɛ míídúúzi, Ɩsɔ́ɔ tándakʊ́ʊ mɩ́dɔ́m ɖʊɖɔ.","Belenna, ameen gwanne ge mi duuzi. E so tanda ko mu domnu",1.2,0.5333
+619,"Káma, lɛlɛɛɖɔ́-dɛ́ɛ nɛ́, mádánjaa bɩlá sɩsɩ ɖɛɛ́-daá gɛ máagáláa mɩ́ɩ.",Madan jaa blessi de daag makala me.,1.0,0.5686
+620,"Yáá nyɔ́ɔ́ Krísto ńnɩ́ abaalʊ́, nyányɩ sɩsɩ nyɔ́ɔ́ sɩ nlɛɛ ná nɖɛɛlʊ́?",Ya ṅyọ Kristi n'abali. Ṅyị sị sị ṅyọ sị ṅle na ṅdeelu.,0.9167,0.56
+621,"Weení ɩdanɩ́ɩ ɩranáa kʊnyɔḿ nɛ́, tɔ́m fʊ́ʊ́dɩ wɩ́rɛ bádánnɩɩ ɩgʊnyɔḿ.",Nwe n'ịdị nị ị ranna kwụnyere tupu ụdị nwere bata n'ogige,1.1,0.6538
+622,"Weení wɔɔzɔ́ɔ́lɩ iweezuú nɛ́, wɛ́nbɛɖɩ́ kɩ; amá, weení wɛ́nbɛɖɩ́ iweezuú mɔ́rɔ́ɔ́zɩ́ nɛ́, wóngoyuú kɩ.","Nwe nụ azịlị iwe zụna. Wepụ dịkị. Ama nwe nụ iwe zụmọrọ ọzọ na, we ngọyụkị.",1.0714,0.5833
+623,"Bɩka weení wánmasɩ́ bilée nɛ́, mɔɔ́na ɖʊɖɔ wánmasɩ́ bɩka ɩjɔ́ɔ tamɔ́ɔ sɩ wɔ́ngɔnɩ́ iyuú ɩdɛ́ɛ.","Beka wenu wa masi bilene, muona dodo, wa masi beka ejoo tamo si, wa ngoni iyu ede.",1.1333,0.4203
+624,"Sɩ ɖʊkʊrʊ́ nbɩlɛ́ ɖɩɖɛ́ɛ Betɛ́ɛlɩ; ɖándalɩ́ɩ ńna nɛ́, mánmáa Ɩsɔ́ɔ wɛɛlɛ́ɛ ma wɩ́rɛ wenɖé takáásɩ́ sɩ iɖi ma nɛ́, ɩdɛ́ɛ sarɔ́ɔ ɖaalanɖɛ́; waalaazɩ ná ma mánɩ́bááwʊ-daá.",Soro koro m lede bee Teli. Dan dali nne. Mamma ị sọọrụ ele ma ọwụrụ wụ ndị takaa sị sị ịdịmanụ ịdị sọrọ ụda alịnde. Waalaazị na ma ma nụ mba wụ da.,1.1538,0.5082
+625,"Sáátɩ wenkí Yeésu wɛɛdɛ́ ɩwanbaaráa tɔ́mwá tɩna wɩlɩ́ɩ nɛ́, ngɛ wɛɛɖɛ́ɛ tɛ́ɛ́dɩwá-daá Ɩsɔ́ɔ-dɛ́ɛ tɔ́m wɩlɩ́ɩ, na waázu lám.",Saa abụọ nke echi ehihie ụbọchị Mọnde na-abịa n'ihu. Anyị ga-eweta etu ụwa siri tọngharịa na-awa azụ.,1.0,0.7778
+626,"A baazá ɩraanyɩ́ŋ laadɔ́ɔ beegéyele kɛ nɛ́ kɔrɔ, baraabɩ́ɩ́zɩ bosúu babɩ́sɩ.",Abaza aranyin lado be gelikene koro. Barabiz bosu babes.,1.0,0.3966
+627,"Kezeŋa kʊ́ɖʊmɔ́ɔ kɛḿ kaadáfáa naárʊ toovonúm fáa kʊ́bɔnbɔńbɩ; naárʊ nɛ́, kʊdɔmɩ́nɩ waazɩ́.",Kudimokem kadfa naru tuonu fa ku bombombe. Naru ne kudominu wa,1.0,0.5429
+628,Biiyéle bɔɔgbɔ́ɔ Pɔ́ɔlɩ bɛɖɛɛná yɩ wenbá bánlám Atɛ́ɛnɩ tɛ́ɛ́dɩ tɔ́m nɛ́ bɔjɔ́ buurɔɔ́-rɔ bɔ́ngɔbɔɔzɩ́ yɩ sɩsɩ: «Ɖánbɩɩzɩ́ ɖɩtɩlɩ́ tɔ́m kɩ́fatɩ wentí nyɔ́ɔ́gɔ́ná nyánwɩlɩ́ɩ nɛ́?,"Nyele, gwaa Paul, na ya na enwe mgbabanlam, ateenite edutum na mgbago bu uro oro. Mgbago bu ozi isi si, daalu maka iziditulum kifa twenty nye ogwa na ya nwelu",1.25,0.6
+629,"Bánlám bɩlɛ́ nɛ́, badɩ gɛ bónnuudí bɩlɛ́.",Balam balene badge bonu,1.0,0.4667
+630,"Wɩ́rɛ ɩ́na wɛ bénɖíi kíɖíím nɛ́, ngɛ waabá ɩbásɩ wɛ sɩsɩ bákalɩ́ɩ Yerusalɛ́ɛm tɛ́ɛ́dɩ bɛɖɛ́ɛ ɖeelí, amá, báɖáŋ wenbí Caáwʊ wooɖúu ɩsɩ́ɩ sɩ ɩfa wɛ nɛ́.",wura enna we bendi kedi mna nga waba ebasi we sisi bakali yerusalem te di bede de eli ama badan we mitcha wu du ese se fa we,1.0385,0.4505
+631,Yáá: «Weení sɩ iti ná ɩsɩɖáa ɖaajɔɔɖɛ́.,ya wee nisi itina isi daadaa jide anyi odobile bukwa tolu uuse si na ekpere si Kristi isi daadaa,2.5714,2.069
+632,"Amá, zamɔ́ɔ-daá, báa weení wɛ wóngoó na ɖóni.",Zaman da ba wani wawa wawa unguwa na,1.0,0.6364
+633,"Ngɛ ɩráa ɖabata bɔɔnyɔ́ɔ lɩ́m bɩḿ nɛ́ baazɩ́, káma, sɔ́ɔ́dɩ wɛ bɩdaá.",E nga errada bata bo nyole mbe na bazi kama so duwa beda,1.0,0.4286
+634,"Iwíi, ɩmá kebísi nbusúwá sɩ tití mɩ́rɔ́ nɛ́ tɩrɔɔzɩ́.","Ewe, e makebisi m busiwa si ti timoro na toro",1.1111,0.3846
+635,Mɛ́bɛɛ́na sɩsɩ bɩmɔɔ́na meyéle mogoobú Epafɩrodíitɩ ɩbɩ́sɩ mɩ́jɔ́.,Mba na-asị gị bụrụ na mụ na gị bụ ịbụrụ di na nwunye,1.625,0.75
+636,"Ɩɖáŋ Ɩsɔ́ɔ-dɛ́ɛ wɩ́rɛ, bɩka ɩbá ɩlá wenbí bɩrɩ́ŋa mɩ́nbɩɩzɩ́, na wɩ́rɛ ɖɩḿ ɖɩtála ɖasam nɛ́.",Edo o so na obodo bu ka ebe a na-ewe mmiri buru nga m bezi na obodo di m di nso na,1.4,0.7727
+637,"Káma, baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá sɩsɩ: «A weení ɩzɔɔlɛ́ɛ ɩcɔ́ɔ bɩmɔ́ɔ yɩ.","Kama baama, eso adey tom takar dan da sese, awe ni zole icho bu moyi.",1.1667,0.45
+638,"Ɩgazɔ́ɔ lám bɩḿ nɛ́, naanɩ́ ɩlá ɖúúlínya nɛ́ gɛ waavʊ́ńɖʊ́ʊ sɩ wánbanáa Yeésu Krísto ɩlá ɖáa bɩ.",Naa ni ela duuru nyɛna gi waafu ndu siwa mbanaya Yesu Kristu ela daa,1.0,0.5
+639,"Amá, alʊ́ báa weení gɛ ɩwɛ wánzʊlʊ́ʊ, yáá wánŋmatɩnáa Ɩsɔ́ɔ nɔɔ́, bɩka ɩgʊjʊʊ́ léélééwu, ɩwaalʊ́ weení ɩgɛ́ɛ ɩgʊjʊ-dʊ́ʊ nɛ́ gɛ wɛ́ngbɛɛnáa bɩlɛ́.",Aru baa we ni ge ewe wanzolo ya wa nmate na iso no maka okwu julu elewu. Ewa ru we ni ege okwu ju du na ge we ngbe na abali.,1.4091,0.486
+640,Ɩsɔ́ɔ wɛ́nvɛrɩ́ɩ báa weení ńŋɩnáa wenbí waalá ɩdɩmɛ́rɛ nɛ́.,"so when very bad we ni, inu na we mbu nwaala edimara",1.3333,0.5111
+641,"Weení ɩgɛ́ɛ ŋmatɩrɛ nɛ́ kɛ́ɛ na kʊ ɖɛnyɛm toovonúm ńgɩ, wenkí kɩ́ngɔnɩ́ ɖúúlínya-daá bɩka kínlosí ɩráa rɩ́ŋa nɛ́.",Wee ni ị ga-enwatara neke na kwụọ denyem t'ovu nụm ngị. Wee nke kingọ n'idụrụ ya daa bọka k'ịlọsị ịra arịnganụ.,1.1111,0.4767
+642,"Yeésu waaŋmátɩ zamɔ́ɔ kínwelesí yɩ nɛ́ tɔ́mwá tɩḿ tɩrɩ́ŋa bɩtɛ́ nɛ́, ngɛ waagʊrʊ́ ibó Kapɛrɩnawʊ́m tɛ́ɛ́dɩ-daá.","Yesu amate zamonkin welesi ne, to muwa timtiri ngabtene. Ngewa guru ibu kapernaum te deda.",1.0,0.3976
+643,Ɖɔ́jɔɔ́ɔ gɛ nyazɩ ɩráa baagʊ bɔdɔ́m sɩ bakʊ wɛ zamɔ́ɔ-daá nɛ́ gɛ.,"Bịa jụọ gị nye sị eraba gị bụ dọnsị ba kụọ ya, zamụọ daa na",1.25,0.5745
+644,"Amá, mɩ́nyɔ́ɔ́ nɛ́, wenbí na bɩbá bɩnyɩ́ɩ́zɩ mɩ́ɩ́zá, bɩka ɩlɩzɩ́ weení waalá bɩlɛ́ bɩdɛ́ɛ lakásɩ mɩ́lɔ́wʊ́táá nɛ́, míígúti gɛ mínvuuzí-mɩ́dɩ.","mụ na ụmụ ya nwoke. Wee bido na-agba mbọ binyere ha izu m ike, biko elezue m anya wee na-ala be la be na-elekọta ụmụ m na-etughị aka mụ fụrụ ụzọ mee",1.6,0.8218
+645,"«A naárʊ waaŋmátɩ zamɔ́ɔ ɩzá-daá sɩsɩ ɩmʊ́ ɩgɛ́ɛ mɛ́dɛ́ɛ ńnɩ́, mɔ́ɔ́ ɖʊɖɔ Majaa weení ɩwɛ ɩsɔ́ɔ́dáá nɛ́ waazá-daá, mánŋmatɩ́ sɩsɩ bʊdʊ́ʊ kɛ́ɛ mɛ́dɛ́ɛ ńnɩ́.",Ana ruwa nwatse zamu eza da sese emu ege emede ni. Mododo manja weni iwe iso da na wa za da. Ma nwatse si si budo ka emede ni.,1.2083,0.5229
+646,"Bɩdɛ́ɛ sáátɩ kɩḿ nɛ́, Sitáánɩ waavʊ́ńɖʊ́ʊ Yudásɩ, Simɔ́ɔnɩ Isikariyóo biyaalʊ́ lowú-dɛ lomaazɛ́ sɩsɩ ɩyá Yeésu.","Bé sà təkəm nɛ́, Sitàné wà vùn dɔ́ yuu dásɛ́, Símɔ̀n Iskariòbi à lùlɔ́ dɛ́ lùmàzɛ́ sísɛ́ íyà Yésus.",1.2,0.5116
+647,"Fée-bú wɔɔgbɔ́ɔ ɩdɩ ɩlá sarɔ́ɔ ɩsɩ́ ɖɔ́rɔ́ɔ́zɩ́ nɛ́, na Ɩsɔ́ɔ-dɛ́ɛ tɔ́m beevééri ɩráa balɩzɩ́ seríya nɛ́-dɛ́ɛ alɩbáráka-daá gɛ baabɩ́ɩ́zɩ beɖi kɩmɛɛnɩ́ kʊ́bɔńgɩ.","Fim bu akwukwo ede Elasaro esidoroziri na eso di otu mbe eferi ira balezi seri ya ne, dee alibaraka nda ge, ba bizi bedi ki mee nuku buo nge.",1.3182,0.4741
+648,"Káma, a nyánlám bɩlɛ́, bɩjɔɔ́ɔ gɛ nyazɩ nyónduuzí nimíni aŋmalá ɩgʊjʊʊ́-rɔɔzɩ́.","Ka ma anya na m bido, bu ihe o ga-enyezi ndu uzo n'ime amara",1.2727,0.541
+649,Ngɛ Sɩkɛ́ɛm ɩjaa Amɔ́ɔrɩ waagʊrʊ́ ibó Yaakúbu-jɔ́ sɩ ɩkáŋmátɩ́na yɩ.,Nke si ka m ije a maoro aguru igbo ya akwubujo si ka nwata na,1.5,0.4808
+650,Nbusú ɖamáa na mɩ́ɩ Mará wɩlɩɖáa na Faríizi ńba munáávikíwá.,"Moussa Dembélé, marawuli daana faari izemba muna",1.0,0.5102
+651,"Lɛlɛɛɖɔ́ nɛ́, mɛ́nɖɛɛ́ weení weegédíri ma nɛ́ ɩjɔ́, ngɛ mɩ́dáá báa naárʊ tɔ́nbɔ́ɔ́zɩ ma sɩsɩ: “Lé gɛ nyɛ́nɖɛɛ́?",Ndeewo nu. Mụ na unu ga-adị na njọ. Nge m ndị ebe a na-arụtụ mbọzị ma sịsịrị gị nye ndị,1.0556,0.6234
+652,"Sɩɩná lɛlɛɛɖɔ́, wenbá bɔwɛná aláa nɛ́, bɔ́cɔɔ nyazɩ bɛvɛ́yɩ́na aláa bɩlɛ́.","Se na na ledo, wamaba wane ala ne, bocho nya se befe na ala ble.",1.3636,0.5273
+653,"Wenbá beedísi bamʊ yɩ bafa yɩ toovonúm nɛ́, waava wɛ yíko sɩsɩ bábɩsɩ Ɩsɔ́ɔ-dɛ́ɛ bíya.",Wimbabé disi ba mwa ba fait au vu num né. Wa va we ikosese ba be se eso debi,1.2667,0.4091
+654,Kpɔɔ ńna nɖɛ́ɛ Yerusalɛ́ɛm cɔɔ́ɔ gɛ nyazɩ kilomɛ́ɛ́ta kʊ́ɖʊmʊ́ʊ bɩlɛ́; wenbí bɩɩva sɩ ɩrʊ́ ɩ́nʊŋ Fɛɛzɩrɛ wɩ́rɛ nɛ́ nbɩlɛ́.,Wanna ndé Jérusalem chọọga nyasị kilomita kọdọmụọ belẹ. Wụẹ mbịbị vasa erọ ịnụm fẹzịrẹ wụẹ na mbịlẹ.,1.0,0.5506
+655,"Amá, ɖaḿ wɔnɔɔ́ kadawála nɛ́, na nɩ́bááwʊ kɩdawála kɩrɔɔzɩ́ cɔɔ́ɔ káálɛ nʊŋɛ́ nɛ́, wɛ́nɖɛɛ́ weezuú-daá gɛ.","Amaghị m ihe mere o ji mee otu a. Ọ bụrụ na ọ bụ ihe ọzọ kpatara ya, biko gwa m ka m mara.",1.4375,0.8571
+656,» Ngɛ wɔɔdɔ́ yɩ ɩkálɩɩ asʊ.,"Daddow isowu obusi isi si, aayi, bedeke ile si dina nye di bi, ama nye obusi nloru ine si dina nye di bi. Ngawo doyi ikale",5.2,4.5789
+657,"Ɖɔ́ɔ́ nɛ́, bɩdɛkɛ́ɛ ɖúúlínya-dɛ́ɛ kezeŋa gɛ baava ɖáa, amá, Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa gɛ, na ɖɩtɩlɩ́ kʊjɔ́ɔ́nɩ wentí Ɩsɔ́ɔ waalá ɖáa nɛ́.","Bụrụ na ịbụ onye na-eso ụzọ Kraịst, ị ga-agbaso ụzọ ya. Ị ga-eso ụzọ ya na-eteghị aka, ị ga-eso ụzọ ya na-adịghị anya.",1.15,0.8462
+658,Lɛlɛɛɖɔ́ mɛ́vɛ́yɩ́ mɩ́jɔ́ nɛ́ gɛ bɩmɔɔ́na ɩbá ɩtásɩ ɩnɩɩná ma.,"Lelê do, me veio muito na cabeça, bumaona eba etassi enina",1.1,0.7273
+659,"Mánŋmatɩ́ bɩlɛ́ nɛ́, mɩ́dɛ́ɛ kazɔ́ɔ gɛ mánjáádɩ, bɩdɛkɛ́ɛ nɔwɛ́yawá-daá gɛ mánjáádɩ sɩ maɖʊ mɩ́ɩ.","Maa m'atebele na m dịghị ka zọọ gị ma m jụọ gị. M dị ka onye na-anaghị ajụ gị ma m jụọ gị sị, m dị mma?",1.9286,0.6479
+660,Ngɛ baanyáázɩ víinyi bíya bɔɔwʊ́ kɩḿ kɩdaá tɛ́ɛ́dɩ wɔ́rɔ́; ńna gɛ azimá waalɩ́ɩ bɩbá bíndím.,"Nke a bụkwa njirimara nke ndị a kpọrọ ndị ọcha. Nna gị, azụmahịa ha bụ banyere",1.0,0.7143
+661,Ɩlá kífeńbi ɖabata na bɩwɩ́lɩ sɩsɩ mɩ́gɛ́ɛ mɛ́dɛ́ɛ wanbaaráa.,"Lakkifé mi dabata, na be woli sisi, mi gayna dewa mbara.",1.1111,0.4468
+662,"Amá, mɔ́ɔ́ mɔ́dɔkpɔ́ɔ bɩdɛ́ɛ yíkowá tɩḿ bɩɩva ma nɛ́ tɩdaá nakɩ́rɩ mayáa nabʊ́rʊ.",ama,0.9231,0.9492
+663,"Mánɖʊ́ʊ yɩ alɩbáráka meyéle ɩlʊ́rʊ nya bú abaalʊ́, maɖʊ yɩ alɩbáráka ɩbɩ́sɩ yíriwá ɖabata-dɛ́ɛ ɩráa nize.",Mandoi Albaraka meyele eloro nya bu aba alo. Mandoi Albaraka ebisi iru adabata de ira nizi.,0.875,0.3293
+664,"Bɩdɛkɛ́ɛ lɩ́m-daá riké gɛ beelíri yɩ, amá, waazɩ́ ɖʊɖɔ ɩdɛ́ɛ azimá ití.",Ba da kelelm da rike beliri amma wa zai dodo a da'a zama,1.0833,0.5192
+665,"Mɔ́ɔ́ mávʊndɩɩná yoḿ gɛ mɔ́ɔ́gbɔ́ɔ yɩ mava nya; amá, lɛlɛɛɖɔ́ wooyuú fuwá nɛ́, wɛ́ngbɛɛnáa ma.",Ama lele do wefu ene we ngbe na,1.0,0.7794
+666,"Bɩlɛ́ nɛ́, ɖɩ́báná Yeésu ɖɩlaaná Ɩsɔ́ɔ kɩzamʊʊ-dɛ́ɛ sarásɩ lám.",Belenna debba na Yesu de la na oso kizammu de sara sila.,1.3333,0.4468
+667,"Róóma sɔ́ɔ́ja kʊ́bɔnɩ́ ɩmʊ́ waanɩ́ɩ bánŋmatɩ́ Yeésu-dɛ́ɛ tɔ́m nɛ́, ngɛ weedíri Yahúúɖuwá-dɛ́ɛ kʊ́bɔnáa nɛbɛ́rɛ ɩjɔ́ sɩ bakávɩ́nɩ yɩ sɩsɩ ɩ́kɔnɩ ɩwáázɩ ɩdɛ́ɛ bɔwʊtá-dʊ́ʊ.",Rumor so di na ikuku bu na ihu wa na iba nwata ị ga-esu de tomne. Nwe diri ya huduo de ikuku na anebere ijo. Sbakaveni sisi iko na iwa zi ide ebe utado.,1.4783,0.5484
+668,"Lɛlɛɛɖɔ́ nɛ́, we-rɔ gɛ mɩ́njáádɩ Ɩsɔ́ɔ tɔ́m mɩ́zɔɔlɛ́ɛ ɩsʊ́ʊ koobíya baava yɩ toovonúm nɛ́ sʊʊ́tɩ wentí ɖájaájaanáa tabɩ́ɩ́zɩ basʊ́ʊ tɩ, cáńfáná ɖɔ́ɔ́ ɖádɩtɩŋa nɛ́.","Mala ndo ne, wuro ge min jaade so tom. Miso le suko biya ba faay tovo num na sote. Wente na ja ja na ta beeze ba sote. Canfana ndo adite ngene.",1.2917,0.4545
+669,"» Ńna gɛ Pétro wɔɔdɔ́ yɩ sɩsɩ: «Ɖádʊ́ʊ, a toovonúm nyánáábɩ́lɛ́, fa ma nɩ́bááwʊ manʊ́ŋ lɩ́m-rɔ mɔgɔ́nɩ nyɔ́jɔ́.",wa mazi bule kama wa bunye libakwa ya ya badu agbara ngbara buto isara ka,1.0,0.8442
+670,"Ɩráa waadɩlɩ́ sɩsɩ wɔ́ndɔ́rɔ́jɔ́wʊ́ʊ kʊ Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-dɛ́ɛ Wɔnɔɔ́ kazɔ́ɔ ńga-jɔ́ wánlám bára nɛ́, ngɛ ɩdɔ́m waabá bɩlá wɛ bítí bɩka tɩlá wɛ nɩdáárɛ.","Nra wa diri so so, mu onye ruo jo ku so de da na ku bonga de wonu ka zo nga jo, wa la mbara ne. Nge don wa ba bu la we biti to ka tele wa da",1.5833,0.4786
+671,» Ńna gɛ mááná ɖeére neɖére ɖɩjɔɔ́ɔ fáádɩ lɩ́m nɛ́.,Nna gị ama na dere na dere. Dịọnyazị fa dịlị m,1.1111,0.5405
+672,"Mɩ́na Yeésu Krísto mɩ́ɩ́bɩ́sɩ kʊ́ɖʊḿ nɛ́, mɩ́rɩ́ŋa mɩ́ɩ́bɩ́sɩ ɩrʊ́ kʊ́ɖʊḿ.",Mena Yesu Kristo me bese kodo mna. Mara nga me bese oro kodo,1.2,0.48
+673,"Na bɩrɩ́ŋa, mogoobíya, mányɩ bɩlɛ́ sɩsɩ mɩ́ɩ́sɩ-rɔ gɛ mɩ́na mɩ́gʊ́bɔnáa mɩ́ɩ́lá Yeésu bɩlɛ́.",Na parengga menggo bia. Manyi belese se men seroge mena menggo bo na mila Yesu,1.0769,0.5152
+674,"A nyááná yɩ, kʊnyɔnnɩɩrɛ́ na toovonúm riké nbɩlɛ́!",Anya na-e ku nyọrọ nịrị na tubu nụmụrụ nke mbụ.,1.125,0.5641
+675,Bʊrɔɔzɩ́ gɛ abaalʊ́ wánlɩɩ́ ɩgɔɔ na ɩjaa bɔjɔ́ ibó ɩkpɔ́ɔ alʊ́ boyóózi bɔcɔ́ɔ babɩ́sɩ tɔnʊʊ́ kʊ́ɖʊmʊ́ʊ.,"Bụrụ ozi gị abụrụ alụọlị ego na ije a bụ jọọ. Igbo ekpo alụ, bụ ya ozi gị bụ chọọ baa bụsị tọ na ụkwụ dị mụ.",1.625,0.6184
+676,"Mányɩ bɩlɛ́ sɩsɩ mɔ́wɔ́rɔ́, kutunpaáwá tɩɩbá tɩjɔɔ́ɔ nyɛ́nɩ nɛ́ wánɖʊ́ʊ tɩlɩ́ɩ mɩ́lɔ́wʊ́táá, ngɛ tídénÿelí zamɔ́ɔ míngetí kɩ nɛ́.",manya belesi se mọwọrọ kutumpa wa tebatu jo nyenene wandu tele mulọta ngeti denye ilisa mọ ni ngeti,1.0,0.4211
+677,"Amá, bɩɩlá bɩlɛ́ gɛ na wentí baaŋmáa bɛdɛ́ɛ Mará tákaraɖá-daá sɩsɩ: “Beegízi ma, ngʊ́ ńdánnáa wenbí bʊrɔ nɛ́,” ikóódi.","Ama, belu m legena, nwenti ba nwa, bido mara takalada asusu bekee gịzi ma. Ngwo, nda nnaa we m bụrụ na ikwu",1.0,0.3977
+678,"Ɩɩ́n, toovonúm ɖáává Yeésu nɛ́ waawaazɩ ná yɩ ɩbá ɩwáa mɩ́bɛɛ́na yɩ ɖɔ́.",Tu es venu travailler sur le,1.0,0.8679
+679,"A nyávʊngɛ́ɛ yoḿ gɛ Ɩsɔ́ɔ waayáa nya, nkayɩ́tɩ nyádɩ.",Nke a ye tinya,1.0,0.825
+680,"-Ɖoo ɖóvóo Ɖádʊ́ʊ Yeésu nɛ́, ɖávʊnna nɛbɛ́rɛ ɖóvóo na kʊ yɩ báa sáátɩ wenkí.","Dovun na du Yesu na, dovun na na mada dovun na kwayi, pasatu",0.9286,0.5965
+681,"Weení bánÿaá yɩ sɩsɩ Ŋmatɩrɛ nɛ́, waabɩ́sɩ ɩrʊ́ ɩkɔ́nɩ ɩcɔ́ɔ ɖɔ́lɔ́wʊ́táá.",Weni baye ayi si si matere ne? Wabi si ero ikoni echi odolo uta,1.2727,0.5185
+682,"Bɔjɔɔ́ɔ sɩsɩ ɩwɛ bogoobíya bána wɛ bɔgɔwɛ nɩ́bááwʊ-daá nɛ́ bɔlɔwʊtáá, ngɛ baanʊ́ŋ hálɩ wɩ́rɛ ɖebilibili.",Bọọ jọọ sị sị ewebugo obi a ba na we. Bọọ gọọ nụ mba ọda nị bọọ lụta. Ngị baa nụ ala ewere dị bilị bilị.,1.7333,0.5122
+683,Wɔɔdɔ́tɔḿ ɖʊɖɔ sɩsɩ: «Mɔ́ɔ́ mánɖʊ́ʊ mɛ́dɛ́ɛ tamɔ́ɔ Ɩsɔ́ɔ-rɔɔzɩ́.,"waɗannan mutane ne, mu ma mun daina taɓo iska ko ruwa, waɗannan mutane ne, manaɗo, mana biya",2.125,1.4545
+684,Miilée tɛ́ɛ́dɩ-daá gɛ Pɔ́ɔlɩ waalɩzɩ́ ɩráa itíri bakáyáa Efɛ́ɛzɩ-dɛ́ɛ Koduuziya-dɛ́ɛ kʊ́bɔnáa.,Mille teden daga polowale se ra itiri. Baka yo ife de ko du si de ko bona.,1.4545,0.4861
+685,Siláasɩ gɛ mééyéle wánŋmaá mɩ́ɩ tɔ́m bíya cʊ́kɔ bana.,Sila si gemele wang mami tombiya chukwubanna,1.0,0.3902
+686,Bɔɔdɔ́ bɩlɛ́ sɩsɩ: «Kpɔ́nɔ́ faadɩ́nɩ cʊ́kɔ wénÿelíi kʊ na mʊ́tʊ rɩ́ŋa ɩkpa.,"Biko biko, gwa m ihe mere i ji kwuo na moto rịngị a ekweghị",1.0833,0.8491
+687,"Wenbí ńŋɩnáa mɩ́ɩ́bá mɩ́wɛná bɩlɛ́ ɩmʊ́ bɩrɩ́ŋa nɛ́, ɩwɩ́lɩ bɩlɛ́ kʊjɔ́ɔ́nɩ sɩ ɩlá tɩ ɖɔ́ nɛ́ tɩdaá ɖʊɖɔ.",Wemba nganda me pamwana bele muperengane. Ewale bele kujoni se elatodone te daadodone.,1.0,0.5753
+688,"» Ngɛ baalɩ́ɩ bɛɖɛ́ɛ, bobó bakpa kpɩ́ɩ́rʊʊ́-daá.","Ngabubu si sisi. Dodu do, dombo di dananya. Ngaba le bede. Bubu ba kwakwa ero da",2.6667,1.4242
+689,Ibrahím na igutoluú-dɛ bú gɛ Ɩsɔ́ɔ wooɖúu ɩsɩ́ɩ sɩsɩ wánlám kʊjɔɔwʊ.,"Ibrahim na egutelu ndi bu ge, eso wee du esese se wallam kojoo",0.9091,0.4259
+690,"Ɩsɔ́ɔ kɛ́ɛ sɔɔlɩ́m gɛ; weení ɩzɔɔlɛ́ɛ Ɩsɔ́ɔ bɩka ɩzɔɔlɛ́ɛ baaganáa ɖʊɖɔ nɛ́, waalá kʊ́ɖʊḿ ɩ́na Ɩsɔ́ɔ, bɩka Ɩsɔ́ɔ ɖʊɖɔ na bʊdʊ́ʊ baalá kʊ́ɖʊḿ.","so kae so le m ge, weli so le so, bika so le ba ga na arudo ne, wa lakwudo m ina so, bika so dudo na buzu ba lakwudo m",1.3043,0.5784
+691,Ɩsɔ́ɔ-dɛ́ɛ alɩbáráka na ɩdɛ́ɛ fɛɛzɩrɛ ɩ́cɔ́ɔ́ná mɩ́ɩ.,Ise adua ni baraka na ise feere ni cho na me.,1.4286,0.5789
+692,"Amá, báa weení na ɩgʊjɔɔwʊ Ɩsɔ́ɔ waalá yɩ kɩ nɛ́ gɛ.",Amma ba wani na ogujo isowar leki na,0.9091,0.5526
+693,Ngɛ Krísto ńba Yahúúɖuwá baaganáa woovu Pétro ɖʊɖɔ balá ńŋɩnáa waalá nɛ́.,Nke Kraist bụ onye ahụ duwa baaga na-awụ ofu petro dọdọ bala nga na-awụ ala,1.0833,0.3667
+694,"Wónduuzí wɛ sɩ boyóo yowú, bánbá bɔɖɔ́ɔ nyazɩ tenkú nɔɔ́-jɔ́ kanyɩ́ŋa bɩlɛ́.",Otu ụbọchị ụmụ anụmanụ niile gbakọrọ wee kpebie na ha agaghị,1.0,0.8772
+695,Wɔɔgɔ́dɔ gɛ sɩsɩ ɩmʊ́ wánganʊŋ́ nʊvɔ́ ɩkɔ́nɩ ńna.,"waa kwado ga sise, o muwa nganum nuvo ekwane",1.125,0.5833
+696,"Amá, wenbí ńŋɩnáa bú baalʊ́rʊ yɩ nyazɩ wenbí bánlʊrʊ́ʊ ɩrʊ́ báa weení nɛ́, waazɩ́ŋ ɩfa bú baalʊrʊná yɩ Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa nɛ́ fúkúḿsi nɛ́, bɩlɛ́ nɔ́ɔ́ ɖʊɖɔ bɩdaá gɛ ɖɔ́wɛ lɛlɛɛɖɔ́.",Wembi nga na bu baaluru enyazi wembi baaluru oruba we nine. Waazi ifa bu baaluru na oso de kezi nga na fukum si ne. Bele no lu dobe da agodo wele le,1.0333,0.4351
+697,"Sarɔ́ɔ wenká bánlám kɛ Ɩsɔ́ɔ nɛ́ nbɩlɛ́, kɛlɛ́ kɔjɔɔ́ɔ na kʊ yɩ kazɔ́ɔ.",Soro wụ nke Balam ke ịsọ n'embele. Keleko Jehova nke ịka zọ,1.0,0.54
+698,"Mɩ́ngʊ́ʊ badaá nɛbɛ́rɛ, ɩká nɛbɛ́rɛ ɖɛ́nɩ abɛlɩ́ akɔ́ɔ-rɔ basɩ́.","Mee ngozi badaa na ebere. I ka na ebere, den abel aka aro",1.3333,0.5778
+699,"Káma, Fée-bú weení ɩjɔɔ́ɔ kowuro-gbelé lɔwʊtáá nɛ́ sɩ ɩbɩsɩná bɛdɛ́ɛ ketirú, bɩka wéngetí wɛ wɛ́nɖɛɛnáa lénlé weezuú-dɛ́ɛ lɩ́m wéndím nɛ́.","ka mụ wee nụ uju okwukwe na-agbasa na be ndị Katọlik, biko wee ngeta wee ndu na-elele wee zuo ndị m wee",1.1,0.5943
+700,"Ngɛ Sitáánɩ woogóduu ɩjɔ́ ɩtɔ́ yɩ sɩsɩ: «A nyɛ́gɛ́ɛ Ɩsɔ́ɔ Biyaalʊ́, tɔ bɔ́ ana abɩ́sɩ kíɖíím.","N'isi tanụ ogodu ejịrị etu esesee, anyị ga-eso bịa alụ tọbọ ana abịsịkịdị",0.9375,0.5455
+701,"A bɩgɛ́ɛ bɛ́ńbɛ́lɩ́ ɩrʊ́ gɛ Ɩsɔ́ɔ waayáa yɩ, bʊdʊ́ʊ ɩ́kamʊ́sɩ ɩdɛ́ɛ bɛlɩ́ɩ.",Mbege mbe mbele oge eso wa yayi. Bụdọ ekamu si edebe mbele.,1.0,0.6275
+702,"Ngʊ́ a nyánvʊʊnáa Mará, bɩlɛ́ nɛ́, ńdɛkɛ́ɛ weení wánlám wenbí Mará wɔɔbɔ́ɔ́zɩ nɛ́ nbɩlɛ́; nyáábɩ́sɩ adɛ́ɛ tɔmvʊʊrʊ́.","Ngo anya m furu na mara mbelele, m na-ekwe niwaala m wee bi mara wa bụ ọzị na mbele. Ya bụsị adịghị eto mụ",1.2941,0.5059
+703,"Ɩ́kamʊná ɩsɔ́ɔ́dáá yáá adɛ laadɔ́ɔ, cáńfáná nabʊ́rʊ.","Eka muna esoda ya Adelado, chamfana nabul.",1.0,0.4103
+704,Mɩ́dánbɩɩzɩ mɩ́nnyɔɔ́ Ɖádʊ́ʊ-dɛ́ɛ sʊlʊ́m bɩka mɩ́nnyɔɔ́ zííniwá-dɛ́ɛ ńbɩ ɖʊɖɔ.,"M'adam be zunmun nyon dudu solom, be ka mun nyon zi nua den be dudu.",1.6667,0.5345
+705,Tɛ́ɛ́dɩ-daá ɩráa ɖabata waagálaazɩ alʊ́ ɩmʊ́.,Tattara da'ira babba ta waga la'az al'um,1.1667,0.4412
+706,"Amá, a míígízi mɩ́danɩ́ɩ tɔ́m ɖááŋmátɩ mɩ́ɩ ɖɔ́ nɛ́, ɖɔ́ɔ́ ɖɔ́ngbɔwʊ́ʊ ɖɛ́dɛ́ɛ aléeré ɖɩɖɛ́ɛ.",,,
+707,"Ńna‑ńna gɛ Ɩsɔ́ɔ-dɛ́ɛ malááyɩ́ka waaɖʊ ɩlɩ́ɩ, ngɛ ɖɛnyɛm woozuná ɖaḿyɔ́ɔ wenká kadaá Pétro tɔ́ɔ nɛ́.","Nna nna gi, o so adighim aka wa du ele. Nke danyere m n'ozu na ndu m ya bu nkaka da peturu too na",1.6,0.5333
+708,"Káma, sarɔ́ɔ kʊ́ɖʊmɔ́ɔ kóŋ́ Krísto waalá nɛ́-rɔɔzɩ́, weeyéle wenbá waalɩzɩ́ wɛ bɛdɛ́ɛ alaháácɩ́ nɛ́-dɛ́ɛ báa wenbí isúlúki bɩvɛ́yɩ́ bɩ́ngʊrʊ́ʊ.","Kama, saro kulu mọ kọụ Kristu wa alị nọrọ zi, we yelewe mba wa alị zi we bẹde alị ha chineke ba we mbi ịsụlụkị, befa ịbụ ngwụrụ.",1.4211,0.4476
+709,"Caáwʊ sɔɔlɛ́ɛ ma, wenbí bʊrɔɔzɩ́ nɛ́, sɩ mejéle méweezuú gɛ na madábáazɩ kɩ mʊ́ʊ.","Chaw soelema, umiburozi ne, siminjere mewe ezu uge na ma nda baazi kymu",1.0,0.4098
+710,"Tɔ́ɔ, lɛlɛɛɖɔ́ ɩlɛ́ wɔ́ńgɔ́nɩ́ ɩwɛ ɖúúlínya-daá.",ta lele do elewa ngoni ewa di uri nya,1.5,0.5882
+711,"Yáá nŋɩ́nɩ́ gɛ naárʊ wánbɩɩzɩ́ ɩsʊ́ʊ ɩrʊ́ ɩjɔɔ́ɔ ɖóni nɛ́ ɩdɛ́ɛ ɩkpɔ́ɔ ɩgbɩná, a ɩdafʊ́ńbɩɩzɩ ɩfɔ́kɩ yɩ.","Yesu ge, bo ta do e so wa da eleze yi ne. Yesu a ne ebele ne, ngi wa li",1.1176,0.8933
+712,"Rahííma ɩlɛ́ waagʊrʊ́ nɛ́, ngɛ waalʊ́rʊ bíya abaaláa: Séba na Ɖɩdáánɩ.","Raima elawa gorona, ngawa luru biya abala seba na didane",0.7273,0.3396
+713,Bɩlɛ́ bʊwɔ́rɔ́ gɛ máánɩ́ɩ bɩjɔɔ́ɔ nyazɩ ɩráa tuutúúma lowú bɩlɛ́ ɩsɔ́ɔ́dáá bɩ́nŋmatɩ́ ɖóni sɩsɩ: «Ɩzá Ɖádʊ́ʊ Ɩsɔ́ɔ!,Bia na-ebu ọrụ gị mana ị bụghị onye isi. Ị na-atụ ntụ ma na-ewela iwe ọsọ ọsọ. Bịa mmatado n'isi si. Ị zara dị ịsọ.,1.4706,0.6786
+714,"Bɩlɛ́ ɖʊɖɔ gɛ Ɩsaáka na Yaakúbu, bɛḿ wenbá Ɩsɔ́ɔ sɩ wánváa wɛ wenbí sɩ ɩfa Ibrahím nɛ́.","Bélénou dougué, Issa kané Yakoubou. Béwé mba Ousmane, Ousmane wéwé mbissi Ibrahim",0.9412,0.6212
+715,"Dína ɩmʊ́ nɛ́, Léya waalʊrʊná Yaakúbu bú weení nɛ́ nbɩlɛ́.",Gini mere? Le ya wa luru na ya akubu bu ya niile mbele.,1.2,0.4186
+716,Mɩ́ɩ́bɩ́sɩ ɖɔ́ɔ́lɛ-dɩnáa ɩdɛ́ɛ tɔ́m-dɛ́ɛ ŋmatɩrɛ na tɩdɛ́ɛ tɩlɩ́ɩ-daá.,"मैं पैसे डॉलर देना, एदे तुम देग मतरे नते दे तेलेन्दा।",1.375,1.0
+717,"Waalá bɩlɛ́ nɛ́, ilowú-dɛ sɩsɩ a igoobíya waana bɩlɛ́, bónÿuú batɩlɩ́ sɩsɩ ɩmʊ́ gɛ Ɩsɔ́ɔ sɩ ɩbaná ɩlɛ́ɛ wɛ.",waa nebele ilu ndi sisi a igwe obi a waa nebele bo yu batara sisi omuga eso si ebana elewe,1.0,0.4744
+718,"A kazɔ́ɔ ńbɩ gɛ bánjáádɩ ya, yáá bɩdakazɔ́ɔ nɛ́ gɛ bánjáádɩ ya, bɩrɩ́ŋa bɩdaá nɛ́ Krísto-dɛ́ɛ tɔ́m gɛ bánŋmatɩ́.",Christ,1.0,0.9512
+719,"Weení ɩdɛkɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ ńnɩ́ nɛ́, tánnɩɩná ɖáa.","Gani da ke so a danne na, ta ni na da",1.5714,0.5588
+720,"Feeri ɖáa, na ɖɩbɩ́ɩ́zɩ ɖukóbusi wenbá beegédiri ɖáa nɛ́.",Fida na debeze du kobisi we ma be ge diri da,1.2222,0.4318
+721,"Bɩlɛ́ nɛ́, iyéle balá badɩmɛ́rɛ na niíni, bɩ́kalá na amɛɛda, tɩ́fa bɩ́dɔ́nnyɔɔzɩ mɩ́ɩ.","Balanne, yele balabat demara na niini? Bekala na ameda tefa budon yosi me.",0.8462,0.3387
+722,» Ngɛ woobúsi wɛ sɩsɩ: «Ɩwɛ bɩsaagɛ́rɛ́ŋɛ-dɛ cé.,Nage Ibrahim,1.0,0.8824
+723,"Lɛlɛɛɖɔ́ nɛ́, booyuú batɩlɩ́ sɩsɩ wenbí bɩrɩ́ŋa nyééjéle ma nɛ́, nyɔ́jɔ́ gɛ bɩɩgálɩ́ɩ́ná.",lele adoné bu yuba tele sisi we mbibiri nga nyejeli mane nyojoga be igali,1.0769,0.4615
+724,Yaakúbu waazʊ́ʊ kpɩɩrɩ́ sɩ ibó ɩkɔ́mɔ́ɔ́ná Ísááwʊ.,Yakubu wazo kpere si Igbo ikoma ona isa,1.1429,0.4211
+725,"» Beedée jíńgáárɩ́ yéńdiwá basá Ɩsɔ́ɔ bɩtɛ́ nɛ́, ngɛ baalɩ́ɩ bɛɖɛ́ɛ Olivíyée tɩ́ɩ́nɩ bʊ́ʊ-daá.",Bede jingari endua basa eso betene. Ngeba lebede Olivier Tenebouda.,0.9231,0.4265
+726,"A Ɖádʊ́ʊ wánvʊʊnáa ɖáa wánnarɩ́ɩ ɖánɩgbamʊʊ́, na ɩ́kɔkɔ́nɩ iyóózi ɖána ɖúúlínya ɩkʊ ɖɔ́dɔ́m nɛ́-rɔɔzɩ́ gɛ wánlám ɖáa bɩlɛ́.",ara duwa fu na da wa na ri da na gba mu na nkwukwa ni iyo zi da na du lu ya oku na dom ne ro zi ge wa lam na abali,1.7778,0.4624
+727,"Amá, mɩ́dɛ́ɛ ɩɩ́n ɩ́la ɩɩ́n; mɩ́dɛ́ɛ aayɩ́ ɩlá aayɩ́, na Ɩsɔ́ɔ ɩ́kafʊʊná mɩ́ɩ tɔ́m.",,,
+728,"Káma, Ɖádʊ́ʊ Ɩsɔ́ɔ tɩtɩŋa-dɛ́ɛ ɖɛnyɛm sɩ ɩna ná wɛ.",Dadu,1.0,0.9189
+729,Na bɩnyɔ́ɔ́zɩ mɩ́ɩ-rɔ gɛ mɩ́nnáa wahála.,"Nna bu nyozi m iro ge, m na-awa hala",1.5,0.3793
+730,"-Ngɛ wɔɔdɔ́ wɛ sɩsɩ: «Kʊ́bɔnáa, ɩlá suúru ɩyɛlɩ́ mɛ́dɛ́ɛ cé na bɔkɔná mɩ́ɩ lɩ́m cʊ́kɔ ɩsáŋ mɩ́nʊvɔ́, bɩka ibó ɩcɔ́ɔ tɩɩwʊ́-dɛ ɩfɛ́ɛ́zɩ.","Nke bu odowesisi, kubona ilasuuru iya limedechi na bukwanam ilim chukwu isam munuvor beka igbo ichiote ude ifeanyi.",0.9545,0.5806
+731,Tɛ́ɛ́dɩ bɛ́ngɛɛzɩnáa tɩ alʊ́ tɩtɛ lakásɩ-dʊ́ʊ kʊ́bɔnɩ́ nɛ́.,Tadbang gaznat ta alutit ta lakas dukubon,1.0,0.5
+732,Ásícé mɔɔ́na kʊ Ɖájaa Ɩsɔ́ɔ báa ngbeére.,Daji ya so ba gbe,1.0,0.7419
+733,"Sáátɩ wenkí sɩ basʊʊná Pɔ́ɔlɩ sɔ́ɔ́jawá-dɛ́ɛ tɩmɛ́rɛ ɖaána-daá nɛ́, ngɛ waazʊ́lʊ sɔ́ɔ́jawá rɩ́ŋa-dɛ́ɛ kʊ́bɔnɩ́ sɩsɩ: «Mánbɩɩzɩ́ maŋmátɩ cʊ́kɔ?",Nna anyị ukwu nke si na pọlụ sọọ gị wa dee temara daana daana. Gawa zọlụ sọọ gị wa na dee akwụkwọ nsọ nsọ. Ma mbinzị ma mmatụchukwu,1.5556,0.6019
+734,"Ńna gɛ Pɔ́ɔlɩ waagʊrʊ́ ɩsɩ́ŋ wɔnɔɔ́-dɛ́ɛ karɩ́‑karɩ́ nakɩ́rɩ-rɔ, ɩkpáázɩ zamɔ́ɔ nʊ́ʊ́nɩ sɩsɩ ɩŋmátɩ.","Nna gị pụrụ ịwa gịrụ ịsị, ọ nọ ndị karịkarị nakarịrọ. Ekweazịzọ mụ nụ n'isi sị, e nwe",1.3077,0.5556
+735,"Káma, nyányɩ wenbí wenbá nyɛ́ɛ́gbɛ́lɛ́ŋ bɔjɔ́ nɛ́ kɛ́ɛ bɩ nɛ́.",kama nya nwe mbibi nwe mba nya gbalụ mgbọjọ na kee ebe,1.1,0.5116
+736,"Weení waava ɖɛ toovonúm nɛ́, fɛɛrɛ́ ténɖíi yɩ kɛtɛngɛrɛ.",वेनुआ वादे तोवो नुमने फेरते इंडिका तंगारा,1.0,1.0
+737,Ɩlá bɩlɛ́ na nabʊ́rʊ ɩ́kɔtɔ mɩ́dɛ́ɛ sʊlʊ́ńdɩ.,"Nna biko, nna buru okoto mmiri a soro m.",1.2857,0.6875
+738,"Koobíya, wenbí máábá mánjaanáa Yahúúɖuwá na méwenbiré rɩ́ŋa, bɩka mánzʊlʊ́ʊ bɩ Ɩsɔ́ɔ nɛ́ gɛ sɩsɩ bóyúú lɛ́ɛ́dɩ.",Kobe a wembi maba manja na Yahuduwa na mo mberere nga maka manzo lu be so na ga sese bo yu led,1.2353,0.3953
+739,Simɔ́ɔnɩ wɛɛgɛ́ɛ́zɩ ɖáa nŋɩ́nɩ́ ɖoo bɩgabaazɩya Ɩsɔ́ɔ wɛɛbɛ́ɛ́ŋ wenbá bɛdɛkɛ́ɛ Yahúúɖuwá nɛ́ badaá ɩlɩzɩ́ nɛbɛ́rɛ sɩ babɩ́sɩ ɩdɛ́ɛ ńba nɛ́.,"Simon wee ga-ezida ya na ndu obi gabaazi ya, eso wee bee na wee mmaba dịka ya hụrụ nwa ya nwoke daa, elezigharị si baabụsị edee mbanụ.",1.35,0.5769
+740,"Alʊ́ ɩmʊ́ ɩyɛ́ɛ́na fuwá, bɩka lʊrʊ́ʊ nʊŋásɩ wánjaarɩ́ yɩ wóngoó wɔ́nmɔlɩ́ɩ.",alu emu eyi enofua beka lulu unu nwasi nwa njari wongo womole,1.0909,0.5091
+741,Ɩnʊvɔ́ cɔɔ́ɔ nyazɩ bónvoozí nyɩɩrʊʊ́ nimíni-daá balɩzɩ́ ziibi na kínɖée kɩlɛɛzɛ́ɛ wenbí nɛ́.,"Nnoo, fa choo ya see, bu ufodu si na i ruo n'ime ndi a baara isi ibi na, ki ndi kleeze wee bi na.",1.7692,0.5694
+742,"Amá, sáátɩ wenkí bɩrɩ́ŋa bɩ́ngɔnɩ́ bisúlúki nɛ́, wenbí bɩraazulukée nɛ́ wɛ́ndɛlɛ́ŋ.","amma, sa'du wanki bera nga bungwanu busulu kinne, we me bera zuluke na wan dele",1.3636,0.4286
+743,Yeésu-dɛ́ɛ waázu alʊ́ ɖɔwʊ́ʊ-dɛ́ɛ tɔ́m-rɔ.,Yesu de wa zu aludaw de,1.2,0.5517
+744,"Biigúti bɩ́ngɩlɩ́ɩ Pɔ́ɔlɩ caarɩ́ nɛ́, ngɛ wɛɛgɛ́ɛ́zɩ ɩdɩ ɩŋmatɩná zííni ɩtɔ́ sɩsɩ: «Na Yeésu Krísto-dɛ́ɛ yɩ́ɖɛ-daá, mazɩ lɩɩ bú alʊ́ ceení-rɔ.",Na Yesu Kristo,0.9524,0.8835
+745,"Weení wooɖuuná Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga nɛ́, wooɖuuná wenbí bɩrɩ́ŋa bʊwɛ kadaá nɛ́.",We oduna ị sọrọ daadaa na akụbọ nga na ya. Oduna we mbibiri nga bụọ ka daadaa,1.4167,0.5156
+746,"Mogoobíya, tɩɩwʊ́ bánÿaá kɩ figíyée nɛ́, wánbɩɩzɩ́ kɩɖʊ wenkí bánÿaá olivíyée nɛ́ kibíya?","Mụ onwe m bịa, tee ọbịa a ka efigi ya ene? Wa m bụkwa onye nke bịara Oliviene bịa",1.4615,0.5714
+747,"Káma, waabɩ́sɩ sarásɩ lanɖáa rɩ́ŋa-dɛ́ɛ kʊ́bɔnɩ́ báa ngbeére bɩ́dɛ́ndɛŋ́ nyazɩ Mɛlɩkisedɛ́ɛkɩ-dɛ́ɛ sarásɩ lám tɩmɛ́rɛ kɛ́ɛ bɩ nɛ́.",wa bisis sarasila nda ringa de kubone ba ngbere biden den ya zi Melchizedek de sarasila timara ke bina,1.1176,0.4536
+748,"Bánnáa waazá-daá, bánŋmaá ɩyɩ́ɖɛ bɛnyɛ́-rɔɔzɩ́.",Bangla wazinda Bangma idde banyirose,1.0,0.5278
+749,"Káma, ménveerím mɩ́ɩ toovonúm sɩsɩ kɛtɛngɛrɛ mɩ́dándanáa ma hálɩ wɩ́rɛ wenɖé sɩ ɩtɔ́ sɩsɩ: “Sám mɔɔ́na kʊ weení ɩgɛrɛŋɛ na Ɖádʊ́ʊ yɩ́ɖɛ-daá nɛ́.",kama mverimite volume sese ketengere mda nda na ama aliwuro we ndi se itosese sammu onaku we ni igere na dada oyidi daane,0.913,0.4037
+750,"Ngɛ wɔɔdɔ́ yɩ sɩsɩ: «Máláádɔ́ɔ nyɛ́bɛɛ́na kɛ ɖɔ́ nɛ́, bɛɛŋ lé bɩ́nlám nya nɛ́ njɔ́ɔ.","Ngwa, ọ dị ebe a. Malite ọnye bụ ebe na-akọwa na, bụ onye libi la m ya na njọ.",1.2667,0.6491
+751,"Ngɛ máádánáa ŋmɩnʊʊ́ kʊ́fʊlʊmʊ́ʊ nakɩ́rɩ, mááná bɩjɔɔ́ɔ nyazɩ ɩrʊ́ igunááɖam bɩlɛ́ cɔɔ́ɔ kɩrɔɔzɩ́.","Ngam maada na ngunu ku fulmu na kere, maana bujjo nyazi oro uguna da mbele choo kuro",1.2308,0.4667
+752,Hálɩ biiyéle bánÿaá ɖáa sɩsɩ Ɩsɔ́ɔ-dɛ́ɛ bíya; bɩka bɩlɛ́ gɛ ɖáábá ɖɛ́gɛ́ɛ.,Hali bi yele banya da si se iso da biya beka bilega da bada,1.1667,0.4182
+753,"Ɩjáárɩ mɩ́dɩ ɩcɔɔná báa weení na fɛɛzɩrɛ, bɩka mɩ́dɛ́ɛ cɔwʊrɛ ɩlá ɖacɩrɩ-cɩrɩ Ɩsɔ́ɔ ɩzá-daá, tɩ́fa mɩ́dáá naárʊ tánbɩɩzɩ ɩna Ɖádʊ́ʊ.",,,
+754,"Eróodi waadɩlɩ́ sɩsɩ tɩlɩ́ɖa túbu-dɩnáa bɛɛgbɛ́lɛŋ wɩlásɩ-dɛ́ɛ boɖé nɛ́ boodúúli yɩ nɛ́, ngɛ waabá ɩyɛ́ɛ baaná.",Onye o doro anya na o bu ya bu onye na-ebe akwa na-ewu laa na ebe di na be odili nile. M ga-agwa ya ebe a,1.625,0.7294
+755,"Ngʊ́ weezuú kɩ́dɛ́ndɛŋ́ nɛ́ kɛ́ɛ na sɩsɩ bátɩ́lɩ́ nya, nyɔ́ɔ́ weení nyériké kóŋ́ nyɛ́gɛ́ɛ na kʊ Ɩsɔ́ɔ tɩtɩndɩŋa nɛ́, bɩka batɩlɩ́ Yeésu Krísto weení nyéegédiri yɩ nɛ́.","Nguwe zụkwa ndị na-elekọta gị na sị sị batara ya. Ya bụ na e ninyere gị kọm ya gị na ya kọọ, ị sọọ otiti na ya. Biko batara ya bụ Jisọs Kristị wee ninyee gị ezi ndụ.",1.3333,0.6198
+756,"Felíkisi wɔɔzɔ́ɔ́lɩ sɩsɩ ɩlá bɩlá Yahúúɖuwá niíni nɛ́, weeyéle Pɔ́ɔlɩ sáráka-daá.","Felix wa zolaka sese, elaba la yahudu wa ni ni ne, weyele Paul sarikanda.",1.2727,0.4062
+757,Ngɛ baanɩ́ɩ lowú nakɩ́rɩ ŋmɩnʊʊ́-daá sɩsɩ: «Ceení gɛ mebiyaalʊ́ weení máábá mɔzɔ́ɔ́lɩ yɩ nɛ́.,"Ngwanne anyi lee unu kere nwe n'udo asisi, chee n'iga m bia luo gi n'ime abam ozo ole na ole.",1.4286,0.5652
+758,"Bɔɖɔ́kɩná cɩmɩ́nɩ Ɩsɔ́ɔ waava wɛ tɩ nɛ́, béndéédi Ɩsɔ́ɔ-dɛ́ɛ bɔwʊtá-dʊ́ʊ Múúsá-dɛ́ɛ yéńdi na Fée-bú-dɛ́ɛ ńdɩ sɩsɩ: «Ɖádʊ́ʊ Ɩsɔ́ɔ Yíko rɩ́ŋa-dʊ́ʊ.","Bụkụ nke na-achọ ịbụ onye so wa fawatine, biko dee na ị so dee bọọta dị mụsa na yendi na fe mbu dee this is a, na adịghị eso ịkwụọ ụgwọ ndụ.",1.5,0.6699
+759,"A boovu mɛ́dɛ́ɛ tɔ́m, bónvúu mɩ́ɩ ɖʊɖɔ mɩ́dɛ́ɛ ńdɩ.",,,
+760,Ngɛ biizuná ɖaána bavʊnwɛ kadaá nɛ́ karɩ́ŋa.,Bizu na da na bafun wa kada na,1.1429,0.4571
+761,Bɩdɛ́ɛ sáátɩ gɛ baana ma Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-daá máńláḿ ɖacɩrɩ‑cɩrɩ lám-dɛ́ɛ sarɔ́ɔ mɛdɛ́.,"विद्यासागर बाणमा, असो दे दान कुबोंगा दा, मलम नखरे सरलम दे सारोमन",1.0,1.0
+762,Asʊmáyɩ́la-dɛ́ɛ bɩ́ɩ́zɩ nɩɩ́nʊ́wá na ákoosaaláa na lʊbɛ gɛ waazɩ́ ibó ɩkɔ́mɔ́ɔ́ná kʊ́bɔnáa.,"Asụsụ ndị bekee dị iche iche na-akwụsị ala na Lubege, waazi igbo ịkọ ma ọ na-akwụghị.",1.25,0.6269
+763,Wanbaaráa bɛḿ bɔwɛ bánŋmatɩnáa ɖamá wentí tɩrɩ́ŋa tɩɩlá nɛ́.,"Wambara bem, bo ba nwatina adama, we ntitiri nga teela ne.",1.2222,0.3673
+764,"Pɔ́ɔlɩ-dɛ́ɛ ŋmatɩrɛ wɛ ɖínleerí nɛ́, ɖóm wɔɔgbɔ́ɔ bú ɩmʊ́.",Pọlịdịa mmetere wee dịrịrị na ndụ ya ọgọ bụ,1.0,0.7381
+765,Koobíya Krísto ńba wánÿaá ɖamá wɔnásɩ asʊ ńba-jɔ́.,"Kọbịa Kristi, mba wa ya adamawa na sị asụmba",1.125,0.35
+766,"Mɩ́ɩ́jɔ́ɔ adɛ laadɔ́ɔ-rɔ iɖi niíni, ɩlá wenbí mílówú fáa bɩ nɛ́.",Mijo adala doro idinini. Elewe mbi mulo ufa,1.0,0.4565
+767,"» Pɔ́ɔlɩ wɛɛgbɛdɩ́ sɩ ɩŋmátɩ gɛ Galiyɔ́n woobúsi Yahúúɖuwá sɩsɩ: «Mɩ́nyɔ́ɔ́ Yahúúɖuwá, a ɖoo nabʊ́rʊ gɛ ɩraalá bɩraazɩɩzɛ́ɛ, yáá kidaavééníti natɩ́rɩ gɛ ɩraalá, maraanɩɩná mɩ́ɩ.","Ọ bụrụ na ọrụ gị dịghị, gị na onye bụ isi ya hụrụ wa sị sị, mụ na onye ahụ hụrụ wa, adịghị na mma gị, erala ala bụrụ azịza. Ya kịda ife niile na-atụrụ gị erala, mara na e na mị.",1.75,0.6324
+768,"Bɩjɔɔ́ɔ nɛ́, ngɛ Ɖádʊ́ʊ Ɩsɔ́ɔ wɔɔdɔ́ɔ́zɩ Saráa-rɔɔzɩ́ ɩlá yɩ wenbí waavʊ́ńdɔḿ yɩ nɛ́.","Bujone, ngedado iso wodoze sararoze ile wembi wa vu ndo mine.",1.0,0.5246
+769,"» Ngɛ Simɔ́ɔnɩ sɩsɩ: «Ŋmatɩ, kʊ́bɔnɩ́.","Ndi be any, ngeyị sị sị, ịra nọle wee dị na",2.2,1.0
+770,"Ɩsɔ́ɔ wánváa yɩ kɩ, káma, Ɩsɔ́ɔ wánváa ɩrʊ́ báa weení gɛ na wenbi‑niíni, bɩka bɩdɛkɛ́ɛ na yoonáa.",,,
+771,Bɩlɛ́ gɛ Ɩsɔ́ɔ waabaná ifu ɩlá wentí ɖoo waavʊ́ńŋmatɩná ɩdɛ́ɛ anɖébiwá rɩ́ŋa nɔ́ɔ́zɩ nɛ́.,"Bịa lagị, sọwa ba na ịfụ eluigwe ntị nọ, wa fụ nwata na edee a ndị bụ warị nga n'ọzị na.",1.5,0.5522
+772,"Piláatɩ waazʊ́ʊ ɖaána-daá ɩtɔ́ bakázʊ́ʊ́ná Yeésu, ngɛ wɔɔbɔ́ɔ́zɩ yɩ sɩsɩ: «Nyɛ́gɛ́ɛ Yahúúɖuwá-dɛ́ɛ wúro?",nge ane ke emedige bukado do ka ifunam le weni wa dase yahuduwa tomsese bige mngazo,1.2308,0.8571
+773,"Bíya bɛḿ bɛdɛ́ɛ lʊrʊ́ʊ-daá gɛ zamɔ́ɔ waaya kisu tenkú kpámásɩ-rɔ, hálɩ kɩtára tɛ́ɛ́dɩ ndɩ‑ndɩ laadɔ́ɔ báa wenká-daá na sɛ́ɛ́dɩwá ndɩ‑ndɩ kʊnʊm báa wenkí-daá.","Bia bembe d'eloro dage, zamowa ya kusuteku pamasoro. Ale ke tarate d'ende d'ende lado, bawo inkada na sedua d'ende d'ende, konumbawo inkida.",0.9565,0.4286
+774,"Tɔɔzɩ Yeésu Krísto, Ɖáwʊɖa kutoluú-dɛ bú weevé ɩlɩ́ɩ ɩsɩɖáa-daá ńŋɩnáa Laabáárʊ Kífeńgi mánŋmatɩ́ kɩdɔ́m nɛ́ wánwɩlɩ́ɩ wenbí nɛ́, ɩrɔɔzɩ́.",Tossị Jizọs Kraist daalụ na kụtolụ ndị mụ wee nye ele esịda nda enye na laa baa rukịfe enye mma ngwa tịkụ dọmne wa were we mbịne ụrọzị.,1.4737,0.537
+775,"Káma, baaŋmáa Múúsá-dɛ́ɛ Mará Tákaraɖá-daá sɩsɩ: «Ńdɔ́nvɔkɩ nɔ́wʊ weení wánmasɩ́ kíɖíídi nɛ́ ɩnɔɔ́ sɩsɩ ɩ́kɔtɔ́ɔ.",Kama baangaa mu se de mara takarda danda su si. Ndomfaku non we ni nwa ma su ki di di na ino su si ikoto.,1.5333,0.4235
+776,"Amá, Yahúúɖuwá waagʊrʊ́ basɩŋná yɩ bɔ́njɔɔlɩ́ yɩ bɩka bándʊ́ʊ́dɩ yɩ.","Amma ya huluwa wa goro ba san nai, bonjoli baka bando de.",1.2,0.4231
+777,Bánbɩɩzɩ́ bakʊ ma mɛ́dɛ́ɛ azimá ití nyazɩ sʊlʊ́m bénlém nɛ́ ayooziná mɩ́dɛ́ɛ sarɔ́ɔ mɩ́nlám Ɩsɔ́ɔ nɛ́.,Babeze bakuma mede azima itinya ze solumbele mne ayozina mede saro malam,0.9375,0.36
+778,Ɖɛ́dɛkɛ́ɛ yíriwá tɩɩganá-dɛ́ɛ ɩráa bódónvúu Ɩsɔ́ɔ-dɛ́ɛ Mará nɛ́.,De de ke iru wa ti ganan de era. Bodo vu usode mara,1.625,0.4583
+779,"Tɔ́ɔ, bɩdɔbɔ́ɔ́zɩ ɖɩbá ɖɩnɩɩná Caáwʊ ɩwɛ ɩsɔ́ɔ́dáá nɛ́ bɩkɩ́lɩ bɩlɛ́ na ɖiyuú weezuú kɩ́dɛ́ndɛŋ́ nɛ́?","तो, बुढ़ापा से निपटने के लिए चाओ ओवे सो दाने बकिले ब्ले ना डू यू वे ज़ुकिदान देम",1.2,1.0
+780,"Koobíya, naazɩrɛ na wahálawá ɖánnáa tɩ nɛ́ tɩdaá, wentí Timotée weevééri ɖáa mɩ́dɛ́ɛ toovonúm fáa-rɔ nɛ́, wɛɛvɛ́ɛ́zɩ ɖéwenbé.",kobiya,1.0,0.9381
+781,"A baadára wɩ́sɩ-dɛ́ɛ náa nabúdoozo, fɔɔlʊʊ́ kʊ́ɖʊmʊ́ʊ cɔɔ́ɔ temenuú.",Aba na Awusa den na na budozu. Fa na kulu mu cho temenu,1.4444,0.4706
+782,"Bodokúti bana yɩ, káma, Ɩsɔ́ɔ waalɩzɩ́ yɩ iboná yɩ ɩjɔ́.","Bọtọ kụte ba nị kama, ọ sọwa alịzị ịbụ nị",1.0,0.561
+783,"Baaŋmátɩ bɩtɛ́ nɛ́, ngɛ Yaakúbu ɩlɛ́ wɔɔgbɔ́ɔ ŋmatɩrɛ wɔ́ndɔ́m sɩsɩ: «Koobíya, iwélesi ma!","Ngaya kubu ilawa ogbo ngmaterewa ndom sisi, ko bia iwere sima",1.0,0.4776
+784,Bʊrɔ gɛ baazɩ́ɩ bɛ́ngɛɛzɩ́ sɩsɩ: «Wáánɩ kɛ́ɛ ɩgbám kʊ́bɔnɩ́ Ɖádʊ́ʊ Ɩsɔ́ɔ ɩzá-daá gɛ nyazɩ Nimiróodi.,"Bụrụ gị bazị be ngéé zị sị sị, wụanụ ke ị gbamụ kụbọ nị, dadụ ịsọ ịza daa gènyezị n'ịmụrụ odi.",1.4,0.4595
+785,"Ɖoozá ana ɖɔ́ móóɖóózi yɛ nɛ́, máńɖɩ́ḿ yɛ mevééri mɛ́dɛ́ɛ síhíri-dɩnáa, amá, badaá naárʊ tabɩ́ɩ́zɩ ifééri ma agutoluú.",Udo za a na-adọ m udo zi ya na. Mụ na ndị mụ na ha bi iri ma desiri dị na. Amabaghị m na arụtawa ezi ife iri ma agwụtolu.,1.6111,0.4831
+786,"” Bʊrɔ gɛ nbusúwá wentí tɩɖamáa tɩ nɛ́, wɩ́rɛ kʊ́ɖʊńɖɛ, tɩrɩ́ŋa tɩ́njɛ́m tɩsála tɩrɔ: bɛɛ kʊdɔmɩ́nɩ tɩ́ngɔnáa sɩ́m nɛ́, ɖúkúru na nyɔɔ́sɩ.","Bụrụ gị embuso a wee títída ma tíne, werekwa domde tere nga tinjam tísala tụọ, bee kụdọ m'enitụ nkwa na'asịm ne, dụkụrụ na'nyọ",1.0952,0.53
+787,"Bɩɩga mɩ́ɩ nɛ́, koobíya, kífeńbi lám ɩ́kanɩ́ɩ mɩ́ɩ.",Ihe kam na-eme bụ ịbụ abụ. Kedu ihe mberede ịka na-eme?,1.375,0.8611
+788,"Mɔɖɔndɩ máábá mɔ́zɔɔlɛ́ɛ nya nɛ́, nyáábá nyánwɩlɩ́ɩ sɩsɩ nyóvóo Ɩsɔ́ɔ na toovonúm wenbí nyánlám bɩ koobíya na ɩgɔma nɛ́ bɩdaá.",Mmadu onye ma ba mma so le ya na ya ba ya nwuru esesi nyuo fu iso na otu ofu num wee mbinye nla mbe ka obi ya na egwoma na ebe ta,1.55,0.4949
+789,"Waazá-daá wénɖée nyazɩ wɩ́sɩ bɩlɛ́, bɩka ɩdɛ́ɛ kpɩná izóóna nɛ́ ɩbá afʊ́lʊ párɩ́‑párɩ́.","Waza da wanda ya yi zowu su biyu ne, baka iya kwana izo na ne, i ba a folo parpare",1.5385,0.4688
+790,Bɩ́ɩ́zɩ kákpáŋa ákoowú fɛ́yɩ́ gɛ Ɩsaáka waalá ɖúúlínya-daá naanɩ́ ɩsɩ́ ibó ɩkɔ́mɔ́ɔ́ná kʊ́bɔnáa.,"Bịa zie ka akwa ụfụrụ gị, ga isa aka wa ala, dọrọ uli ya daa na ani isi, igbo ịkọ mọọna kubọ na.",1.7692,0.4861
+791,"Ɖógóóbú Pɔ́ɔlɩ ɖáábá ɖɔ́zɔɔlɛ́ɛ yɩ nɛ́, waadáŋmaa mɩ́ɩ bɩlɛ́ ɖʊɖɔ.","Yọgọ bụ pọọlụ, daa abọdọzọọ lee ịne, waa daa nwá mụ ịbele dụ",1.3,0.6531
+792,Mɛlɩkisedɛ́ɛkɩ kɛ́ɛ wúro bɩka ɩgɛ́ɛ sarásɩ lanɖáa rɩ́ŋa-dɛ́ɛ kʊ́bɔnɩ́.,Meles Zenawi,1.0,0.8868
+793,"Ngɛ tɛ́ɛ́dɩ bánÿaá tɩ sɩsɩ Mésáa nɛ́, tɩ́na Sefáarɩ-dɛ́ɛ wɩ́sɩ ɖaagalɩɩɖɛ́ fáráńdɩ́-dɛ́ɛ bʊ́ʊ́nɩ nɛ́ bɔlɔwʊtáá gɛ bɔɔjɔ́ɔ.","Ngetee du ba yaa tesisi, mi saane. Tana si far deu su daagali de faran de buoni ne, bolu taage ba ojo.",1.2941,0.4607
+794,Krísto-dɛ́ɛ báɖaa-dɛ́ɛ kezeŋa wɛ ná ɩlɛ́ ɩrɔ.,Kristo de Bada de,1.0,0.6364
+795,"Ngɛ wɔɔgbɔ́ɔ ɩrʊ́ waalá yɩ nɛ́, ɩsɩ́ɩ kárɔɔ́ kɛḿ kadaá.",ngwa gwa ero wa na-ine isi karoke m ka da,1.0,0.5128
+796,"Ɩsɔ́ɔ weevééri yɩ wenbíwá sɩ bɩlá bádánnáa bɩ naanɩ́ nɛ́, waanɩ́ɩ Ɩsɔ́ɔ nɔɔ́.",so we very,1.0,0.8772
+797,Wé gɛ bɩɩga ma sɩ mádasɩ malá.,Wuroji ga Musa waziri sese. A erusi kizi edelo. A sewo jele i wase,2.0,1.7391
+798,"Ɩ́kanáázɩ wenbá Ɩsɔ́ɔ weejéle mɩ́ɩ bɛɛŋ́ nɛ́, amá, ɩlá wenbá bɛlɛ́ bɛ́nbɛɛŋnáa nɛ́.",ka na zuwa wemba so we jele mi be na ama ela wemba bele be mbe na,1.2308,0.4667
+799,"Ɩráa wánlɩzɩ́ɩ seríya nɛ́ ɖéndisí, ngʊ́ Ɩsɔ́ɔ-dɛ́ɛ seríya ɩlɛ́ wánlɩzɩ́ɩ nɛ́-dɛ́ɛ ɖóni waagɩ́lɩ.",Erawan lezi siriya ne den disi. Nongo eso de siriya en lewan lezi na de doni wa gele.,1.3846,0.4286
+800,"Toozo-dɛ́ɛ nɛ́, wenbá bánwɩlɩ́ɩ Ɩsɔ́ɔ-dɛ́ɛ tɔ́m nɛ́.",to,1.0,0.9429
+801,"Nɛbɛ́rɛ wɛɛɖɛ́ɛ bɔvɔɔ́-daá, nɛbɛ́rɛ ɩɖɛ́ɛ bɛdɛ́ɛ kɩyakʊ.","Nebere wee dee ebe ọfọdụ a, nebere ide ebe dịka ya.",1.5714,0.6585
+802,Nɔwɛ́yawá Pɔ́ɔlɩ wooyuú tɩ Tesaloníiki tɛ́ɛ́dɩ-daá nɛ́.,Νέα Ακρόπολη Βοιώτη Θεσσαλονίκης,1.0,1.0
+803,"Mɩ́nɖɛɛ́ nɩ́báánɩ báa lé, tenkú-rɔ, na adɛ laadɔ́ɔ-rɔ, na sɩsɩ iyuú naárʊ ɩlá yɩ túúbá.",minde ni mba ni baali tinkuro na adela doro na sisi i yunaro elei tuba,0.9333,0.4127
+804,"Faríizi ńba waana bɩlɛ́ nɛ́, ngɛ bɔɔdɔ́ yɩ sɩsɩ: «Bɛɛ nyɛ́dɛ́ɛ wanbaaráa wánlám wenbí ɖɛ́dɛ́ɛ Mará tafa nɩ́bááwʊ sɩsɩ bála Fɛɛzɩrɛ wɩ́rɛ nɛ́.","Fari Zimbawa na Bilené, nga bo d'o esese, benye de wa mbara awala mu bi, dede marata fa ni mba awu sesebala fesere wurene.",1.0435,0.4
+805,"Mándalɩ́ɩ majaa ɩzá-daá nɛ́, nabʊ́rʊ, ɩlɛ́ sɩ ɩtákɩ ma gɛ ɩbɛ́ɛ́ŋ.",Mmadu adighi mma ya iza daane. Na buru ele si taku mma gi ibe ya.,1.3636,0.5652
+806,"Amá, áwayɔ́ɔ kʊ́ɖʊmɔ́ɔ kóŋ́ wɔɔɖɔ́ɔ bonuudi ná bɩlɛ́ bɩrɩ́ŋa.","Amma, ai ya kwudu ma okwu wa odo obu na mbelebele nga.",1.2222,0.7045
+807,"Ɖɔ́ɔ́ ɖáává Yeésu ɩmʊ́ toovonúm nɛ́ tɩɩná gɛ, na ɩdɛ́ɛ yɩ́ɖɛ-daá, ɩrʊ́ ceení mɩ́bɛɛ́na yɩ ɖɔ́ bɩka mɩ́nyɩ yɩ nɛ́ wooyuú ɖóni ɩkʊrʊ́ ɩsɩ́ŋ.","Ndo, daa bu Jesu, emetugo nu m na tee naga. Na ederede nda, oruchee nime be na ndo, maka menye nu onye udoni ekwuru isi.",1.0417,0.5464
+808,"Ngɛ bɩɩgbɛzɩ́ ma bɩlɔ adɛ, ngɛ máánɩ́ɩ lowú nakɩ́rɩ kɩ́nbɔɔzɩ́ ma sɩsɩ: “Sawúuli!","Nga bi gwa si ma, bu ruo adae. Nga ba ni ruo na kere, ku m bu ose ma sisi. Saul",1.4615,0.5667
+809,"Amá, Ɩsɔ́ɔ ɩlɛ́ waazɩ́ɩ tɔnʊʊ́-dɛ́ɛ fɔɔlʊʊ́ báa wenkí ńŋɩnáa wɔɔzɔ́ɔ́lɩ nɛ́ gɛ.",mụ na ya na-awọzọlụ,1.0,0.8393
+810,Ngɛ wenbá gɛ wooɖuuná sɩsɩ bádánzʊʊ laadɔ́ɔ wenká kadaá waagbɩ́ɩ́rɩ wɛ fɛɛzɩrɛ nɛ́ kɛtɛngɛrɛ.,Nke a bụ mba ga-adị na sese. Bịa na nzọụkwụ adọọ nka ka daa wa agbịrị wa feere,1.2857,0.6133
+811,Ńna‑ńna gɛ bɩɩlá ma nyazɩ Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa Ɖacɩrɩ‑cɩrɩ ńga waagba ma bɩlɛ́.,na na ge,1.0,0.8966
+812,"Waadála ɩkɔ́tɩ tará nɛ́, ngɛ aléeré bɔwʊtá-dʊ́ʊ bánÿaá yɩ Róodɩ nɛ́ wɔɔgɔ́nɩ sɩ ɩbɛ́ɛ sɩsɩ weení wɔ́ngɔtɩ kʊ bɩlɛ́.",waara la ekwete taara na enge aliri mbu taa do baanyi anyi ruo di na wa gwa na ebe nsisi wee nu nwa ngwatakwu,1.2632,0.5698
+813,Ménveerím mɩ́ɩ toovonúm sɩsɩ mɔ́dɔ́ndɔnyɔɔ sʊlʊ́m bɩḿ hálɩ wɩ́rɛ wenɖé sɩ mɔgɔ́nyɔ́ɔ sʊlʊ́m kɩ́fabɩ Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-daá nɛ́.,"N'emewere m ito gị n'ụbọchị taa. M ga-adị ndụ ọsọ ndụ m, na-aliworo ndị isi m, na-agba ọsọ ndụ m ka fa wee sọrọ gị kwụrụ ọtọ.",1.5882,0.7708
+814,"Ɩzɔ́ɔ́lɩ ɖamá na wenbiré kʊ́ɖʊńɖɛ, ńŋɩnáa koobíya wɔ́nzɔɔlɩ́ ɖamá nɛ́.",na,0.9,0.9623
+815,"Ɩwɛ ńnaamʊ́ nɛ́, ɩ́na ɩɖɛɛlʊ́ gɛ, ngɛ tɛ́ɛ́dɩ tɩḿ tɩdaá ɩráa wɛ bɔ́nbɔɔzɩ́ yɩ alʊ́ ɩmʊ́ ɩdɛ́ɛ tɔ́m.","Ihe m na-agwa nu, ị na-ege ntị? Ngete dị ntị da ịra wee bọmbọọzị alụọ mụọ dị",1.0,0.6866
+816,"Ɩgʊ́ɖʊmɔ́ɔ nbɩlɛ́ wɔɔgbɔ́ɔ wánlám sarɔ́ɔ nɛ́, ngʊ́ wóńɖúú sɩsɩ wánlám yɩ kʊjɔɔwʊ, bɩka ɩtɔ́ yɩ sɩsɩ: «Ɩsaáka gɛ sɩ bɩbaná nÿuú bíya-bíya.","Okwu dum bu m bele bu okwu uwallam soro ne. Oguwu ndu sese uwallam ekwujoo. Beka etu a isi si, isa ha ga si bibana eyi obiambia.",1.2273,0.5784
+817,» Ngɛ wúro Abɩmelɛ́ɛkɩ sɩsɩ: «We gɛ nyáálá ɖáa bɩlɛ́.,nge sa ka sese a menye m sese e rozi bu ko ko nba kuma bu rozi ge ma nwa te bu le nge wuru adumile ke sese bu ge nya la da bu le,3.8889,1.9737
+818,"A bɩɩlá bɩlɛ́, bɩjɔɔ́ɔ ma niíni, bɩka mána mɩ́rɩ́ŋa gɛ bɩjɔɔ́ɔ niíni.","Abel Abel, bujonin, baka manam ringa bujonin.",1.0,0.48
+819,Bɔwɛ bánjáádɩ sɩ bakʊ yɩ gɛ Róóma sɔ́ɔ́jawá-dɛ́ɛ bɔwʊ́ɖɛ kʊ́bɔńɖɛ ɖɩwɛ Yerusalɛ́ɛm nɛ́-dɛ́ɛ kʊ́bɔnɩ́ waanɩ́ɩ sɩsɩ bɩlɛ́ gɛ tɛ́ɛ́dɩ rɩ́ŋa woodulú.,"Bọọbụlụ banyere nsogbu ege, Romu sọja wa dị bọọbụlụ na kubọọne, duwa Yerusalema na dị kubọọne wa nesi si. Bilagete dịrị na wọdụ.",1.0952,0.6355
+820,"Ngɛ mááná kowuro-gbelé ɩsɔ́ɔ́dáá, bɩka naárʊ cɔɔ́ɔ ɖɩrɔ.",Ngam anokoro gbele so oda bu ka na aru cha odiro,1.375,0.3953
+821,"Mɩ́dɛ́ɛ kazɔ́ɔ-rɔ, mɩ́nyɩ nŋɩ́nɩ́ ɖɔ́ɔ́jɔ́ɔ́ná mɩ́lɔ́wʊ́táá nɛ́.","Mende ka zoro, menye enyeni doo joo na mulo taa",1.4286,0.5854
+822,"amá, a ɖéégízi yɩ, ɩmʊ́ ɖʊɖɔ wéngizíi ɖáa.","Amma, adai gizi, omunu na owe gizi ida.",1.0,0.5161
+823,"Nahɔ́ɔrɩ waagʊrʊ́ ɩtála bɩ́ɩ́zɩ ákoosaaláa nɛkɛ́rɛ fɛ́yɩ́ nɛ́, ngɛ waalʊ́rʊ Teráa.",Naharụ wa gị na telivishọn akụsara na nkeji ole na ole agalụrụ tiri,1.1818,0.6557
+824,"Káma, badɩtɩŋa baaŋmáa koobíya Yahúúɖuwá bɔgɔwɛ Damáasɩ tɛ́ɛ́dɩ-daá nɛ́ wasɩ́ɩ́kawá sɩ́nváa ma nɩ́bááwʊ nɛ́.",ma tete na ba ma ko bi ya yahudu wa bogorwe damasi te di daane wasi kawa si fa ma ne bawo,1.5,0.4167
+825,"Fúkúḿsi ɩrʊ́ wánváa ɩdɔnʊʊ́ na kɩcɔ́ɔ alaafɩ́ya nɛ́ wɛná fɔ́ɔ́zɩrɛ, amá, bɩdɔɖɔ́ɔ.",FOCAL 0140 ama bu dodo.,1.0,0.85
+826,Wénɖíi suúru bɩlɛ́ gɛ tɛ́ɛ́nɩ kaɖaa ńdɩ ɩbáázɩ hálɩ kɛdɛɛzɩya ńdɩ ɩkɔ́nɩ tɩɖɛ́ɛ.,"When this rule began, they had not yet abolished the death penalty.",1.0,0.7903
+827,Ngɛ woobó ɩkálɩ́zɩ́ sɩ ɩkɔná yɩ; ɩlá kíɖíím kazɔ́ɔ ńbɩ bajaa ɩbá ɩzɔɔlɛ́ɛ bɩ nɛ́.,ngawubo ekaleni sekonai,1.0,0.7833
+828,"Ɩdaawʊ́ na kéréfu natúdoozo ɖaanɩ́ŋa waadálɩɩ nɛ́, ngɛ waadálaḿ bɩlɛ́ nɔ́ɔ́.","na kere fu na tudu ozo, da n'a wa adalu ine. Ngi wa adalu m bili n'o",1.4545,0.3448
+829,"Ɖɩ́kɛcɛ́ ɖɛ́dɛ́ɛ Koduuziya ɖɩtálɩ ńŋɩnáa nɛbɛ́rɛ tɛ́rɛ́wɛ́ná bɩdɛ́ɛ ɖɔ́ɔ́ná nɛ́, amá, ɖɩ́tasɩ ɖamá tɔ́m; káma, mɩ́ɩ́bá mɩ́bɛɛ́na sɩsɩ Ɖádʊ́ʊ-dɛ́ɛ wɩ́rɛ waajʊ́ʊ.",Ama,0.9524,0.9732
+830,"Bɩdɛkɛ́ɛ tɔnʊʊ́-rɔ ziibiwá gɛ bɩ́nlɩzɩ́ɩ, amá, bɩnáábɩ́lɛ́ mɩ́ɩ́baná na ɩwɩ́lɩ sɩsɩ mínvúu Ɩsɔ́ɔ na wenbi‑vʊlʊḿɖɛ.",Bhetakiya thonu rozi bua gabel leze ama penable mi bana na owel sese mi vu so na we mbe volume,1.1333,0.5176
+831,"Laadɔ́ɔ-rɔ bɛɛŋɩrʊ́ waana wenbí bɩɩlá nɛ́, ngɛ waava toovonúm.",Laa dọrọ be ngwuru wa nna wee mibere na ya. Nga wa afọta ofu,1.5556,0.5417
+832,"Káma, a ɩrʊ́ wánváa na sɔɔlɩ́m, Ɩsɔ́ɔ wánmʊ́ʊ wenbí ɩwɛná nɛ́ gɛ, Ɩsɔ́ɔ tɔ́nbɔɔzɩ ɩrʊ́ wenbí ɩvɛ́yɩ́na bɩ nɛ́.","Kamma, a ruo nwa na-eso lim, eso nwa mmuo wee mbie iwa nene ge. Eso tuo mbozi ruo mbie ife ya na-ebu",1.1053,0.6234
+833,"Káma, Ɩsɔ́ɔ-dɛ́ɛ Kezeŋa nyɩ bɩrɩ́ŋa, bɩkpɛdɩ́na wenbí bɩgamʊ́sɛɛ ɖoo Ɩsɔ́ɔ tɩtɩndɩŋa-daá nɛ́.",kama oso adighi ike ziga nye m be nu a bikwa di na we mbibi ga mu so adu oso tite ndi nga nda,1.9167,0.5571
+834,"Ngɛ naárʊ ɖʊɖɔ, malááyɩ́ka sɩɩlɛ ńnɩ́, waagádɩ́nɩ ɩwɔ́rɔ́ wánŋmatɩ́ sɩsɩ: «Tɩɩzála!","Gannaru nudo, malika seleni, wa gadi ni oworo wa nmate sese, te",1.0909,0.5323
+835,"Mɔ́ndɔɔzɩ́ nyɛ́dɛ́ɛ wíídi-rɔ nɛ́, máábá mánjáádɩ sɩsɩ mana nya, na bɩbá bɩlá ma niíni.","mụ onwe m ya bụ onye ụlọ nụ. Ma ọ bụrụ na m ga-adị ndụ, mana ya na biko biko na",1.4286,0.7031
+836,"» Baajáŋ bɛbɛ́ɛ́ŋ balára bamɩ́lɩ nɛ́, badana naárʊ, Yeésu riké gɛ baana bɔjɔ́.","Bajan, bebén, bailar, familia, nada,",1.0,0.7018
+837,"Ifu Ɩsɔ́ɔ na toovonúm baasí, ɩjáárɩ mɩ́dɩ ɩsɔ́ɔ́lɩ ɖamá nyazɩ koobíya wɔ́nzɔɔlɩ́ ɖamá nɛ́; mɩ́dɛ́ɛ ɖamá sɔɔlɩ́m baasí, ɩjáárɩ mɩ́dɩ ɩsɔ́ɔ́lɩ báa weení.",Ejiara m ede nsọli dama ya bụ ịkwọ obi ya bụ nsọli dama ne. Mede m nsọli mba si ejiara m ede nsọli baa wee,1.0435,0.5982
+838,Nbusúwá tɩḿ tɩɩmɔɔná wɛ gɛ na bɩwɩ́lɩ baaganáa; bɩka baaŋmáa bɩlɛ́ bɩrɩ́ŋa gɛ na babásɩ ɖɔ́ɔ́ wenbá ɖɔ́wɛ wɛ́ kɛdɛɛzɩya ńná ana adaá nɛ́.,Bụkwa ihe mere na mbụ na-adịghị anya gara aga.,0.9583,0.8173
+839,"A mɩ́nzʊʊ́ ɖaána wenká-daá nɛ́, ɩdɔ́ sɩsɩ: “Ɩsɔ́ɔ-dɛ́ɛ fɛɛzɩrɛ ɩ́cɔ́ɔ́ná mɩ́ɩ.","A minso da na winka da ni, i dosi si. I so de fesere icho na mi.",1.4545,0.5385
+840,"Ngɛ sɩsɩ: «Cɔɔ laadɔ́ɔ kana kadaá cé, mánzɩŋ́ nyɔ́wɔ́rɔ́, bɩka maɖʊ nya alɩbáráka.",Chineke chọrọ ka na-adịrị gị mma n'ihe niile ị na-eme.,1.0,0.8167
+841,"Bɩɩga bú nɛ́, ɩlɛ́ ɩwɛ ɩbamáa bɩɩ́, tɔnʊʊ́ wángbáa ɖóni, áséńsí bamáa yɩ ɖɔɔmɩ́nɩ bɩka Ɩsɔ́ɔ sɩ́ŋɛ́ɛ ɩwɔ́rɔ́.","Bé gabu né, ilé éwé ibamabé, tonouwa ngba duni, asé sibama idoméné, béka isossiné iworo",1.0,0.4872
+842,"Bɩlɛ́ nɛ́, wenbá waanɩɩ ná, ngɛ baajáa yowú.","Bà lằn nà, u bùa nề nà, ngà bà chà yô.",1.375,0.6562
+843,Ngɛ sɩsɩ: «Mɩ́nyɩ ɩrʊ́ weení bánÿaá yɩ sɩsɩ Nahɔ́ɔrɩ nɛ́ ibiyaalʊ́ Labáanɩ?,ya belu bu isi sese arani enye sese minyi iru enu ba ya sese na horu na ibi alu la ba,1.75,0.8036
+844,"Bɛdɛ́ɛ badanɩ́ɩ ɖamá wɔɔgɔná ŋmatɩrɛ páá, hálɩ bawɩ́ɩ batára ɖamá.","Bata bata ni dama, wa kwana matara paa, ale ba wiyya batara dama.",1.1,0.4231
+845,Ngɛ mááná kowuro-gbelé kʊ́fʊlʊńɖɛ na weení ɩjɔɔ́ɔ ɖɩrɔ nɛ́.,mànụ kọ ụrọ gbelekọ fụlụ mụ ndẹ na wẹni ịjọ dọrọ,1.2222,0.6087
+846,"Ɩsɔ́ɔ-dɛ́ɛ nɩ́bááwʊ fúu-dɛ́ɛ tɔ́m-daá, mávʊnvɛ́yɩ́na amʊʊzɛ́ ńŋɩnáa sinje mɩ́rɩ́ŋa mɩ́vɛ́yɩ́na amʊʊzɛ́ ɖɔ́ nɛ́.",,,
+847,"Kpangbɔ́ɔ alʊ́ kádánŋmatɩ nɛ́, waaŋmatɩná na ɩrʊ́ lowú kɔtɔ anɖébi Baláamɩ nɩ́bááwʊ ɩdabɩ́ɩ́zɩ ɩlá ɩdɛ́ɛ kʊjʊʊ́ fɛ́yɩ́ lakásɩ.","Pango alo ka damatine, wa matine na oru lowu koto ande mibala mune bao edabezi ela ede kojo fa ila kasi.",1.0556,0.4167
+848,"» Ɩlɛ́ wɔɔvɔ́ ɩnʊ́ʊ́nɩ, ngɛ nʊ́ʊ́nɩ waawáa ɩbɩ́sɩ nyazɩ lí ńnɩ́.","Ihe ọbụla ị nụrụ, gị nụrụ nwaa wa ebe si nyeziri",1.1,0.6744
+849,"Mɔ́ɔ́ mɔ́wɛ nyɔ́jɔ́ gɛ; báa lé gɛ nyóóbó, sɩ mazɩ́ŋ nyɔ́wɔ́rɔ́ gɛ hálɩ ngábɩsɩ tɛ́ɛ́dɩ tɩna tɩdaá cé.","Mawu mawu wò nyɔ́ jɔ́ge, baa lígè nyɔ́bù, sìmàzìm nyɔ́rɔ̀gè hálè, ngàbù sètèdè tìnàtì dǎchì.",1.0,0.5
+850,"Munáávikí, lɩzɩ́ ɖaagbetumuú nyáázɩ́rɛ-daá naanɩ́ na bʊcɔ nya nna kazɔ́ɔ nlɩzɩ́ keyiká kɔwɛ ngoobú ɩzɩ́rɛ-daá nɛ́.","Munafiki, leze da gbetu mu nyazre da ana anebu chonya, nna kazo nezike ikakowe, ngu bu izre da ana.",1.125,0.3409
+851,"Gɔmɛ́ɛrɩ waagʊrʊ́ nɛ́, waalʊ́rʊ bíya abaaláa: Asɩkɛnáazɩ, Rifáatɩ na Togarɩmáa.",Gọmentị agụrụ na agụlụrụ bịa abalị a asịkeneazị Rifaat na Toga Rima,1.1,0.4194
+852,"Bʊrɔɔzɩ́ nɛ́, mánlám wenbí bɩrɩ́ŋa máta malá na mɔ́wɔ́rɔ́ nɛ́, ɩlaaná tɔ́m tɩḿ tɩrɔ tɔɔzɩ́ nɛ́.","Bụrụ ọzịne, mmadụ laa nwe mbịbụrụ na-amaghị ama na ma ọrụ na-eleghị anya tọọ m tim tọrọ tọọzịne.",1.0625,0.597
+853,"Bɩka bɩdɛkɛ́ɛ alʊ́-rɔ gɛ Ɩsɔ́ɔ waalá abaalʊ́, amá, abaalʊ́-rɔ gɛ waalá alʊ́.","Bụdịkwa ka, bụdịkwa ka alụlọrọ gị, ị sọwaala abalụ ama? Abalụrọ gị, waala",1.0,0.537
+854,"A sɩ ngɔ́nɩ, kɛgbɛdɩ́na tóko kʊ́bɔńgɩ máagázɩɩ Tirowáasɩ tɛ́ɛ́dɩ-daá Karɩpúusi-dɛ́ɛ nɛ́; kɔgbɔɔ tákaraɖáwá ɖʊɖɔ, bɩɩgɩlɩná tɔná ńdɩ.",ka gbadinụ tọkọkụ gbaa ngị mba agazị tụrụ wa site dị nda karị pụsịdene pọkọọ takarị nọwa adụdọ bị egeli nọtọ na,1.2941,0.5922
+855,Beeyéle nɩ́bááwʊ kazɔ́ɔ ńgɩ bɛtɛlɛ́ŋ bofu Bosɔ́ɔrɩ biyaalʊ́ Baláamɩ-dɛ́ɛ ńgɩ.,"Bé yé len bawo ka zongé, batala m'bofou, bosoré bialo ba lam déng.",1.3,0.4167
+856,"Bɩ́nnʊŋásɩ mɩ́ɩ, amá, mándabaazɩ́ mɩ́ɩ náa.",Ben nu ga ze mee. Amamanda ba ze mee na,1.6667,0.3871
+857,"Kpɩ́nɖɛ ɖɩdakazɔ́ɔ, ɖɩ́dɔnjɔwʊ́ ɖoɖuuɖuu nɛ́ gɛ kɩgɛ́ɛ; sɔ́ɔ́dɩ tɩ́ngʊ́ʊ nɛ́ woozuná kɩ.",So,1.0,0.9683
+858,Ńna gɛ kalɩńbaawʊ́ wɔɔbɔ́ɔ.,na ga wando sisi mala'ika ruwa zuƙan napa Ali bin Yarima zi e joo ce e co na miza,4.75,2.5238
+859,"Bɩlɛ́ ɖʊɖɔ gɛ mɩ́nyɔ́ɔ́, ɩráa ɩzá-daá nɛ́, bɛbɛɛ́na mɩ́ɩ sɩsɩ toovonúm-dɩnáa, ngʊ́ nbɛ́ɛ́ŋ nɛ́, mɩ́dáá nɛ́, munááfíísi na kidaavééníti riké gɛ.","Bélédougou ka mino, i ra i za daane. Bébé na mi si su togo numu di na, ngo mbe mu ne mu daane, mu naafi si na ki daa verité ke",1.4286,0.451
+860,Weeyéle ɖɩtɩlɩ́ weení waabaná ɩdɩtɩŋa ɩɖɔɔmɩ́nɩ na ɩdɛ́ɛ ɖóni ɩyáa ɖáa nɛ́.,wa bana,1.0,0.8983
+861,"Sáátɩ wenkí ɩgɔɔ wɛɛjɛ́ yɩ yɩ́lɛ nɛ́, ngɛ ɩjaa waabá iɖi jíńgáárɩ́ kʊ́bɔńgɩ.","satu enke ego o wee jee ile na, ije abuo aba idiji ngariku bu ongi. Na",1.2308,0.5789
+862,"Ngɛ wɔɔgɔ́lɔ́ kɩ adɛ laadɔ́ɔ-rɔ; ńná gɛ kpálálayáawá waabá sɩfɔ, bɩka bɩbá bíngoó, bɩ́nnyaláázɩ.","Nke bu akwukwo nke Adela Doro. Nna m kpalala ya bu akwukwo bu ka m baa bungoo, m nyala",1.2857,0.5676
+863,Ngɛ wenbí biiyéle gɛ ɖáábɩ́ɩ́zɩ ɖúúlínya nɛ́ gɛ ɖɛ́dɛ́ɛ toovonúm fáa.,Nke a bụ mbịbị ịlele na-abịa site na ụlọ ọrụ na-ahụ maka nchekwa ụgbọelu.,1.2727,0.8868
+864,"Bɩɩdásɩ bɩlá wɛ́ náálɛ cʊ́kɔ nɛ́, ngɛ Pɔ́ɔlɩ wɔɔdɔ́ Barɩnabáasɩ sɩsɩ: «Ɖɩ́bɩsɩ tɛ́ɛ́dɩwá wentí tɩrɩ́ŋa tɩdaá ɖéévééri ɩráa Ɖádʊ́ʊ-dɛ́ɛ tɔ́m nɛ́, ɖɩkɛ́bɛ́ɛŋ koobíya sɩsɩ nŋɩ́nɩ́-daá gɛ bɔwɛ.",,,
+865,"Bɩlɛ́ nɛ́, tɔ́m nabʊ́lɛ tɩɩbá tɩvɛ́yɩ́na kʊrʊ́ʊ nɛ́ wɛ ná, tɩlɛ́ gɛ Ɩsɔ́ɔ-dɛ́ɛ ɖuunáa, na wenbí waaɖʊ sɩ wánlám ɖáa nɛ́.","Bilan de ton nom, la Covid-32 et la Corona.",1.0,0.8554
+866,"Bɩlɛ́ bʊrɔɔzɩ́ nɛ́, mánvɩnɩ́ mɩ́ɩ: ɩbɛɛŋná mɔ́ɔ́.",Bila brozi ne mam fenemi ebeng na,1.0,0.6061
+867,«Ɩbɛ́ɛ wenbí bɛ́ngɛɛzɩnáa Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ nɛ́: Ɖaána-dʊ́ʊ naárʊ waalɩɩ ná tɛ́ɛrɛ́‑tɛ́ɛrɛ́ sɩ ɩcáa tɩmɛlanɖáa balá yɩ tɩmɛ́rɛ ɩdɛ́ɛ víinyi fɔɔ́-daá.,Bịa wee bịa nga e si na ịsọ dị ka udele. Dị ala dị n'ala ụwa niile na-tere tere si ịcha atụmela ndị abalị etumera ịde vinị fọdụ,1.4,0.5946
+868,Ɩsɔ́ɔ ɖaazɛɛɖɛ́-dɛ́ɛ kʊ́bɔnɩ́ Kirispúusi waava Ɖádʊ́ʊ toovonúm ɩ́na ɩɖaána-daá ńba rɩ́ŋa.,"Sọọja zị ezigbote ụbọchị na Krisimesi, wa vanadụ tọọ vọọ nụ e na eda na ndụ mbarị.",1.5455,0.6618
+869,» Ngɛ baajɩrɩ́ boboná yɩ.,Yesu se,1.0,1.0
+870,"Ńna gɛ bɔɔlɔ Sitáánɩ weení wɛ́ndɛlɛ́sɩ wɛ nɛ́ fáráwíítá nimíni lɩɩrɛ́-daá, lé fanaḿ na anɖébi bʊbɔtʊ́ʊ bavʊnwɛ nɛ́.",na andebi mobato,0.9444,0.8876
+871,"Ɖádʊ́ʊ kʊ́ɖʊḿ ɖʊɖɔ wɛ ná, ɩlɛ́ gɛ Yeésu Krísto weení Ɩsɔ́ɔ waabaná ɩlá báa wenbí bɩka waava ná ɖáa weezuú nɛ́.","Dada kụdọm dụdọ wụna, elege Yesu Kristo wee nị ịsọwa abana ịleba wee mbị bẹka wa vana da wee zụ",1.0,0.3976
+872,"Káma, kidaavééníti tánbɩɩzɩ biyéle Ɩsɔ́ɔ ɩsála kɔdɔká-daá, bɩka ɩdɩtɩŋa ɩ́dɛ́nvɛdɩ́ naárʊ sɩ ɩsála kɔdɔká-daá.",,,
+873,"Ngɛ ńnaamʊ́ ɖʊɖɔ, baabáázɩ ɩráa Laabáárʊ Kífeńgi feerím.",Baba si era la baru ki fengi,1.0,0.6087
+874,"Bɩdɛ́ɛ ɩrʊ́ waana sɩsɩ ɩ́dánbɩɩzɩ ɩká Yaakúbu nɛ́, ngɛ waamá ɩdɩnɔɔ́-rɔ tɩnɔɔ́ ɩcáŋ kabʊʊ́dɩ.","bụ ndị ruo n'a sịsị, ịdị mbe eze e ka ya akụ bụ nè. Ngwa mma ịdị n'ọrọ, tị nọ ịcha nka bụ ụdị.",1.7143,0.5286
+875,"Bʊdʊ́ʊ íyéle ɩráa ɩna bɩlɛ́ ɩdɛ́ɛ cɔwʊrɛ kazɔ́ɔ ńɖɛ-daá, na tɩmɛ́ wánlanáa yɛ na ɩdɩ fʊʊzɩ́ na áséńsí nɛ́ adaá.","Bụdụ ị ga-elele era enyebere, ịdechaa ụdị kazo ndị a na-etinewanụ na na ya na edetuọzị na asịsị na ada.",0.95,0.5854
+876,"Bɩlɛ́ nɛ́, anɖébiwá bʊbɔtɩnáa, balakásɩ gɛ mɩ́ndɩlɩ́ɩ na wɛ.","Bia nu, ande bua bu bot na, bala kasi ga m dili na wa.",1.4444,0.4222
+877,"Mébíya, alɩwáátɩ kɛdɛɛzɩya ńgɩ waadala ná ɖɔ́.","Mebiya, aluwa tike deziye ngiwa dalena",0.8571,0.3514
+878,"Sɩɩlɛ-dɛ́ɛ boogúti bɔkɔ́nɩ babɩ́sɩ nɛ́, ngɛ bogoobú Ísifu weeyéle batɩlɩ́ yɩ.",Onye na-ede akwụkwọ bụ ọkụ na-agba n'ime abalị sị na ngwụcha izu ụka ga-enyele aka,1.3636,0.8983
+879,"Kɔjɔɔ́ɔ ńna gɛ kaana Pétro na Yʊháánɩ bɔɔgɔ́nɩ sɩ basʊ́ʊ Ɩsɔ́ɔ-dɛ́ɛ Ɖaána kʊ́bɔńga-daá nɛ́, ngɛ kaazʊ́lʊ wɛ sɩsɩ balá kɛ sarɔ́ɔ.","Kajọ n'agbanyeghị ka na Petro na Jọn bọgọ n'esị basọ osi ọdịda nụkụ bọnga daanị, ngé ka Zọlọwọsịsị balaké sàrọ.",0.9048,0.4947
+880,"Ɩjɔɔ́ɔ Olivíyée tɩ́ɩ́nɩ bʊ́ʊ-daá nɛ́, ngɛ ɩwanbaaráa woogóduu ɩjɔ́ fɔɔlʊʊ́-rɔ bɔbɔ́ɔ́zɩ yɩ sɩsɩ: «Feeri ɖáa sáátɩ wenkí sɩ bɩlá bɩlɛ́ nɛ́, na nyɛ́dɛ́ɛ kɔnɖɛ́ na ɖúúlínya kʊrʊ́ʊ-dɛ́ɛ seríya.","Ijo Olivier Tene bu udaa ne. Iwa mbara bu ogodu ijo, fa luru bobo ozo esisi. Filda satu ekisi bilabine na nyede konde na dulu ya kworode.",0.9286,0.529
+881,Waavʊ́ńŋmátɩ gɛ sɩsɩ: «Baanɩ́ɩ lowú nakɩ́rɩ Raamáa tɛ́ɛ́dɩ-daá.,"Wavunwa tegasese, bani lo una kere raama te deda.",1.125,0.4043
+882,Bɩɩdánbɔ́ɔzɩ sɩsɩ koobúu ɩyáa koobúu wɔnɔɔ́?,"Bịa mụọ dị nsọ sị, kọbụ ịya kọbụ ụbọọ nọ",1.6667,0.7222
+883,Tɔnʊʊ́ kʊ́ɖʊmʊ́ʊ wɛ ná bɩka kɩwɛná fɔɔlɩ́nɩ ndɩ‑ndɩ.,Tana ƙudurin wane? Baka Corona falleni inda.,1.0,0.641
+884,Yaakúbu ɩlɛ́ waanɩ́ɩ sɩsɩ bɩlɛ́ gɛ afobú ɩmʊ́ wɔɔvɔrɔ́sɩ ɩmʊ́ ɩwɛɛlɛ́ɛ Dína.,Yakubu Gowon ne ya sa aka fito da mu a faifan bidiyo muna cewa,1.1667,0.7895
+885,"Amá, wɛ́ lʊbɛ kɩḿ kɩɩdɛ́ nɛ́, ɖáágʊ́rʊ́; ngɛ ɖɔ́ɔ́gbɔ́ɔ nʊvɔ́ ɖɛ́nɖɛɛ́.","Nne, welu bekee gi dee na daagwuru, nogide ogbe onu fu dee ndewoo.",1.1818,0.7826
+886,Ngɛ bɔɔdɔ́ yɩ sɩsɩ ɩ́la maamááci nakɩ́rɩ kɩ́nwɩlɩ́ɩ sɩsɩ Ɩsɔ́ɔ-jɔ́ gɛ waagálɩ́ɩ́ná nɛ́.,"Ihe gbasara esemokwu ịla mụ ama Chineke nwere esemokwu, ịsọ ọjọọ ga-awụ agala ị na",1.1538,0.7619
+887,"Bɩlɛ́ bʊrɔɔzɩ́ gɛ méédíri sɩ béfeeri mádʊ́ʊ sɩsɩ: “Máávɩ́nɩ nya, cɛ ma.",LeBron,1.0,0.9038
+888,"Ɖányɩ bɩlɛ́ sɩsɩ weení ɩrɩ́ŋa ɩgɛ́ɛ Ɩsɔ́ɔ-dɛ́ɛ bú nɛ́, wénÿelíi alaháácɩ́ lám, káma, Ɩsɔ́ɔ Biyaalʊ́ wénveríi ɩrɔ, bɩka Kidaavéénúu tánbɩɩzɩ ɩlá yɩ nabʊ́rʊ.","Nye blesse se, we ni ringa ege eso debune we yeri alhachilam kama eso bi alu we veri uro. Bukake da venu tambe se elai na boro.",1.1304,0.4615
+889,Ɩsɔ́ɔ-dɛ́ɛ bɔwʊtá-dɩnáa Ɩsɔ́ɔ waabaná wɛ na mɩ́nyɔ́ɔ́ ɩfa toovonúm nɛ́ gɛ ɖɛ́gɛ́ɛ.,esodi epo tedi na esowa abana we na minyo ifoto ovu nu nede de,1.0833,0.5254
+890,"Tɔ́m tɩḿ Yeésu waaŋmátɩ tɩ bɩlɛ́ nɛ́, tiiyéle Yahúúɖuwá ɩtábáazɩ ɖamá tarɩ́ɩ.",Tam tum yesu wa nmateteblene ti yele yahuduwa itabas damatari.,1.0,0.3333
+891,"A baadʊ́ʊ ɖáa, ɖɔ́ɔ́ ɖánɖʊ́ʊ alɩbáráka gɛ, bánváa ɖáa fúkúḿsi nɛ́, ɖɛ́dɛ́nvɛrɩ́.",ba adua do adua albaraka ge ba fada fukum si ne,1.0,0.5263
+892,"A mɩ́nlám Ɩsɔ́ɔ-dɛ́ɛ kowúrɔ́ɔ-dɛ́ɛ Mará wɔɔbɔ́ɔ́zɩ wenbí nɛ́, ńŋɩnáa baaŋmáa Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá-daá sɩsɩ: «Sɔɔlɩ nyɔ́rɔwʊ́ nyazɩ nyádɩtɩŋa» nɛ́, mɩ́nlám kazɔ́ɔ nbɩlɛ́.",M mụ na ụmụ nne m ndị nwoke na ndị nwanyị bi na ya na-agba mbọ na-akwado ụmụaka ndị a siri ike. Sọọsọ ya bụ ihe dị m mkpa. M mụ na,1.4545,0.776
+893,"Bɩlɛ́ nɛ́, weení wɔɔgbɔ́ɔ ɩdɛ́ɛ ábɔɔzɔɔ́ nɛ́ waalá kazɔ́ɔ, amá, weení ɩdɔkpɔ́ɔ nɛ́-dɛ́ɛ woogúti bɩkɩ́lɩ.","Bilene, wee nu akwụkwọ edee abụọ zọọ na-ewala ka zọọ. Ama wee ni etakpọọ ne dee wee gwụta bekee.",1.2,0.5405
+894,"Waalɩ́ɩ Ɩsɔ́ɔ Biyaalʊ́ gɛ, bɩka ɩgɛ́ɛ sarásɩ lanɖʊ́ weení ɩwɛ báa ngbeére bɩ́dɛ́ndɛŋ́ nɛ́.",Ndi ịsị abịalụgo bọka ege sịrị sị laa ndụ wee nị ịwe baa ngwere bido ndụ nne.,1.1429,0.5152
+895,"Bɩɩlá bɩlɛ́ gɛ na wentí baaŋmáa anɖébi Esáya-dɛ́ɛ tákaraɖá-daá nɛ́ ikóódi, tɩlɛ́ gɛ sɩsɩ: «Lowú nakɩ́rɩ wɔɔvɔ tɛɛwʊ́lɔ́ɔ́-daá sɩsɩ: “Ɩgbɩ́ɩ́rɩ Ɖádʊ́ʊ Ɩsɔ́ɔ-dɛ́ɛ nɩ́bááwʊ.","Bia na-abụle gị na, gịnị bụ aha ndị Izaya dere na akwụkwọ dị nsọ? Gịnị ka ha sịrị? Gịnị ka ụmụ nwanyị ọtéwụlụọ dị nsọ sịrị? Egwú ịrị na-adịghị asọ nsọ dị na mba",1.4348,0.7823
+896,"Mɔ́wɛná náánɩ, kpangbásɩ, fééni, yomáa aláa na abaaláa.","Mona nani, Gbangbassi, Feni, Yuma, Alana Bala",1.0,0.3721
+897,"A mɩ́ŋmáráana ma bɩka mɩ́ɖɔ́kɩná mɛ́dɛ́ɛ tɔ́m, ɩbɔ́ɔ́zɩ wenbí mɩ́zɔɔlɛ́ɛ nɛ́, mínÿuúu.",amara na ma be kamudok na mede tom ibo zu ebi muzo le ne min yu,1.25,0.4426
+898,"Weení ɩvɛ́yɩ́na alʊ́ nɛ́, wánÿɩtɩ́ ɩdɩ Ɖádʊ́ʊ-dɛ́ɛ tɩmɛ́rɛ-rɔ gɛ.","Nwunye Fada Alumona, biko nyere anyị aka dozie temere anyị.",1.1111,0.8667
+899,Bɛɛ wenbí bɩbá bɩ́nwɩlɩ́ɩ sɩ bɩlɛ́ gɛ bɩgɛ́ɛ nɛ́ nɖɔ́ sɩsɩ bɩɩlɩzɩ́ sarásɩ lanɖʊ́ naárʊ ɩjɔɔ́ɔ nyazɩ Mɛlɩkisedɛ́ɛkɩ.,"Béwé mbébé babo wélessé, bélaka bégué né ndosséssé, bélessé sara séla ndu naru ozo nyazi Melchisédech.",1.0,0.5795
+900,"A bɩlɛ́ gɛ bɛlɩ́ɩ wɛná na kʊ fɔ́ɔ́zɩrɛ, Krísto-dɛ́ɛ sɩ́m ɖɛ́nɩ abɛlɩ́ akɔ́ɔ-rɔ-dɛ́ɛ tɔ́m ménveerím ɩráa nɛ́ ɩ́táfʊngɛ́ɛ tɔ́m ɖʊɖɔ nbɩlɛ́.",,,
+901,"Bɩlɛ́ nɛ́, we-rɔ gɛ Ɩsɔ́ɔ woozúúri Múúsá-dɛ́ɛ Mará.","Belen, wuroke so wo zuri Musa de",1.0,0.5278
+902,Cɔwʊrɛ kɩ́faɖɛ́ bɩ́nbɔɔzɩ́ ɖɩcɔɔná ɖɛ ɖána Ɩsɔ́ɔ nɛ́.,Tɔre ke fada bɔmbɔɔse du tɔɔ nade dana isɔne,1.125,0.5128
+903,Ɩsɔ́ɔ waagbɩ́ɩ́rɩ ɩsɩ́ɩ wenbá bɔzɔɔlɛ́ɛ yɩ nɛ́.,so wa gwere isi wee mba b'ọzọ lee anyi,1.2857,0.6471
+904,"Mɩ́ɩ́ná sɩsɩ wenbá beeɖi zinbirí nɛ́, ɖánÿaá wɛ sɩsɩ wenbi‑niíni-dɩnáa.","Me na se se, w'amba bɛɛdizi mbrinɛ, dan yaa wɛ se wɛmbi nini di na.",1.4,0.3636
+905,"Bʊrɔɔzɩ́ gɛ, wenbá Ɩsɔ́ɔ waada ɩlɩzɩ́ wɛ nɛ́ bɔrɔ, méédísi mánnáa wahálawá tɩna tɩrɩ́ŋa; na bɛlɛ́ ɖʊɖɔ boyuú Yeésu Krísto-dɛ́ɛ lɛ́ɛ́dɩ na ásícé kɩ́dɛ́ndɛŋ́ nɛ́.",Bụrụọ zi gị wee mba ụsọ ụwa daa elezịwa na bụrụọ mee dịsị mmalite na awa halawa tenatere nga na banyere n'ime obodo Onye-Isi-Kraist dee lee dị na asịchekị dee ndịa,1.16,0.5508
+906,Mínveerím wɛ bɩlɛ́ hálɩ bɩtála ɩdɛ́ɛ kɔnɩ́.,Nze erinwa mblé ale betala ede,1.0,0.5455
+907,"Bʊrɔɔzɩ́ gɛ malááyɩ́kawá-rɔɔzɩ́ nɛ́, bɩɩbɔ́ɔ́zɩ sɩsɩ alʊ́ ífú ɩwaalʊ́-dɛ́ɛ yíko-dɛ́ɛ-ɖaazɩ́tɩ ɩgʊjʊʊ́-rɔ.","Bụrụ ọzịge, malụ ịka wa ọzịne, dị mbọzị sị sị alụ ịfụ, ewa alụ dị ịko dị dazịte ogujụrụ.",1.7273,0.5526
+908,"Bʊrɔɔzɩ́, lɛlɛɛɖɔ́ nɛ́, ɩdɛ́ɛ́zɩ tɩmɛ́rɛ ɖɩḿ lám ɩkágʊʊrɩ.","Boroze lele adone, e de si temede de mlam ekagore.",1.25,0.5952
+909,"Ńŋɩnáa kpɔ́nɔ́ kʊ́ɖʊmʊ́ʊ wɛ ná, ngɛ ɖɔ́ɔ́ ɖʊɖɔ, na bɩrɩ́ŋa ɖɔ́ɔ́ɖɔ́ɔ nɛ́, ɖárɩ́ŋa ɖɔ́ndɔwʊ́ʊ kpɔ́nɔ́ kʊ́ɖʊmʊ́ʊ kɩḿ nɛ́, ɖáábɩ́sɩ tɔnʊʊ́ kʊ́ɖʊmʊ́ʊ nbɩlɛ́.","Nke na-akwụ n'ụdị mụwa na, nga dị ọdịdọ na-abụrịrị nga dị ọdịdọ ne, da dị nga dị ndọkwa n'ụdị mụ kemne, da abịsịtọ n'ụdị mụ mbele.",1.1364,0.699
+910,Bɩdɛ́ɛ sáátɩ gɛ baalʊ́rʊ Múúsá; ngɛ waabá ɩlá Ɩsɔ́ɔ kazɔ́ɔ.,Bete sa tin ge Balorumusa ge waba ela sokazo.,1.0,0.4773
+911,"A bátatɩlɩ́ nɩ́bááwʊ kɩzɩɩzɛ́ɛ nɛ́, bɩraalá wɛ sóńcí bɩkɩlɩná batɩlɩ́ kɩ bɩka bʊwɔ́rɔ́ nɛ́, bafa wenbí Ɩsɔ́ɔ waazɩ́ɩ́zɩ wɛ nɛ́ ndoloŋá.",A bata tele n'ime baoke ziri ezi na beraa na-esochi mkele na bata telekene buoro na bafa wee mbe uso wa aziza wee na ndu longa.,1.1429,0.55
+912,"A nyɔ́wɛná alʊ́, nkacáa sɩsɩ nyána yɩ ɩtára.",anya wane alo nkachasi si nyenayi etara,1.0,0.303
+913,"Yeésu waaŋmátɩ bɩlɛ́ bɩtɛ́ nɛ́, ngɛ ɩ́na ɩdɛ́ɛ wanbaaráa boobó bɛtɛ́sɩ booniyɔ́ɔ, bánÿaá kɛ Sedirɔ́ɔnɩ nɛ́-dɛ́ɛ fúu lí ńgɩ-rɔ.","Jesu agmatable bete na, ena idewa mbarabu bu bete si bu nio ban ya ke sediro ni ne, de fuli ngiru.",1.1053,0.4624
+914,"Bɩdɛ́ɛ wɛ́ amʊ́ adaá, ɩráa wánbá bacáa sɩ́m, amá, bádánnáa bɩ.",बिंध्याचल में अमुआदा रावन बाबा चासिम अमाबदा ना,1.0,1.0
+915,"Weení ɩrɩ́ŋa wɔɔjɔ́ɔ́lɩ sɩsɩ Yeésu tɛkɛ́ɛ Ɩsɔ́ɔ Biyaalʊ́ʊ nɛ́, waasɩ Caáwʊ.","Wee ni na wa ojoro sese, ye suteke esuo bi alune wa sichaa.",1.1818,0.5179
+916,"Mɩ́ngbɛɛzɩ́ nabʊ́rʊ ngɛ mɩ́dánbɩɩzɩ sɩ iyuú bɩ nɛ́, na mɩ́ɖamáa sɩsɩ ɩkʊ.",,,
+917,"Fée-bú woobóɖi nibiiká lʊbɛ ńga bɔɔvɔkɩná tákaraɖá nɛ́, ngɛ biizú síwú ɩsɔ́ɔ́dáá nyazɩ áwa fɔɔlʊʊ́ bɩlɛ́.","Fimbu ya budi ni bi kalu banga, bo fokunata kala dane, nge bizu siw, iso da nyazi awa folu bele.",1.1875,0.3902
+918,"Amá, nketekiná núm na sʊlʊ́m.",¿En qué te puedo ayudar?,1.0,0.8636
+919,"Amá, míwenbé-daá, ɩɖɔ́ɔ́zɩ Krísto weení ɩgɛ́ɛ Mɩ́dʊ́ʊ nɛ́.","A ma mu ebenda, edọọzi Kristi wee ni ị ga-emụ do unu.",1.5,0.439
+920,"Amá, Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá wɔɔdɔ́ sɩsɩ ɖúúlínya rɩ́ŋa wɛ alaháácɩ́-dɛ́ɛ yoḿti-daá.","ama. E so di otu m takara d'awụọ d'esịsị, d'ụlị nya rịngạ wee alahaachi d'e yọọ m tịnda",1.5455,0.4921
+921,"Naanɩ́ ɩkʊrʊ́ nɛ́, Pɔ́ɔlɩ weeyéle bafʊ́ yɩ Sankirée tɛ́ɛ́dɩ-daá, káma, waaga ná Ɩsɔ́ɔ ntáḿ nakɩ́rɩ.","Naa ni ekorun de, polive ye le bafoi, sankireteda kama wa gana iso ntam nakere.",0.8667,0.3662
+922,"Wɛ́ lʊbɛ-dɛ́ɛ wɩ́rɛ kaɖaa ńɖɛ tɛ́ɛrɛ́‑tɛ́ɛrɛ́ bɩdɛɛzɩjɔɔ́ɔ temenuú bɩlɛ́ nɛ́ gɛ, Marɩyáma Magɩdaláa alʊ́ waagʊrʊ́ ibó bɔɔlááwʊ-jɔ́.",Maria Magdalena,1.0,0.8866
+923,"Ɩrʊ́ naárʊ wɔɔgɔnɩ ná, ɩrʊ́ ɩmʊ́, Ɩsɔ́ɔ weegédíri ná yɩ, ɩyɩ́ɖɛ gɛ Yaayá.","Iru na aruwa gọọ na, iru mu, ịsọwa egedịrị n'anya, ịdịga ya aya.",1.0,0.5
+924,"Ńna gɛ Ɩsɔ́ɔ wɛ́nbɛɛŋnáa wenbí báa weení waalá nɛ́, na ɩsá yɩ.",na esai,0.9167,0.8913
+925,"Ngʊ́ ɖɔ́ɔ́ nɛ́, wenbí Krísto wánmaazɩ́ nɛ́ gɛ ɖɔ́ɔ́ ɖʊɖɔ ɖánmaazɩ́.","ngodo nu, wembi Kristi wa mazi nega do du do da mazi",1.0909,0.5
+926,"» Bɩlɛ́ nɛ́, mɩ́ɩ́ná sɩsɩ ɩrʊ́-dɛ́ɛ tɩmɛ́ wánlám yɛ nɛ́ arɔ gɛ Ɩsɔ́ɔ wénɖeezí yɩ sɩsɩ ɩzɩɩzɛ́ɛ, bɩdɛkɛ́ɛ ɩdɛ́ɛ toovonúm fáa riké-rɔɔzɩ́.","Mena sese oride ti ma wa ni arọge, eso wẹndẹ ezi si si ezi ze, bẹdẹkẹ edẹ tu ọvụ nụ fa rike rọzẹ.",1.0952,0.5833
+927,"A weení waanɩ́ɩ mólowú ngɛ waadʊlʊ́ ma nɛ́, mánzʊʊ́ ɩdɛ́ɛ mána yɩ ɖiɖi kíɖíím bɩka ɩmʊ́ ɖʊɖɔ ɩ́na ma ɖiyóózi ɖiɖi.","Awe nuwa ni mulo, nga wa adulu ma ne. Ma nzu ede, ma ne didi kedi meka omudu do ene ma du yo osi didi.",1.0952,0.4706
+928,Malááyɩ́ka naárʊ wɔɔgɔ́nɩ ɩsɩ́ŋ sarásɩ ɖaalanɖɛ́; ɩɖɔ́kɩná tulaarɩ́ kʊ́fʊʊdɩnákʊ siká ńgɩ.,Manali ka naru wagone isin saraswati lande odokuna tula aru ko fu dina ku sikangi,1.3636,0.4225
+929,Ngɛ wɛɛbɛlɩ́ tɩ icéle ɩwanbaaráa batára zamɔ́ɔ.,Nye ya ugbọ ọkpọ na wa na tunu wa tim na ti na na ale amụ. Ikpa azụ aza ịsọ da ịsọ ịsọ bụrọ. Nwebe liti ichele ịwa mba araba tara zamon.,4.5714,2.0
+930,Kɔlɔwʊtáá gɛ weezuú-dɛ́ɛ tɩɩwʊ́ sɩ́ŋɛ́ɛ na kífeńbi na bɩdaavé nɛ́-dɛ́ɛ tɩlɩ́ɩ dɛ́ɛ tɩɩwʊ́.,"Kọlọta gẹ́ wẹzụ dẹ́ tẹ́ ọsị́ ngẹ́, na kị́ fẹ́ mbị́ na bị́ daa vịnẹ́ dẹ́ tẹ́ lẹ́ dẹ́ tẹ́ ọ.",1.4615,0.5758
+931,Beedíri Timotée Tesaloníiki Krísto-dɛ́ɛ Koduuziya-jɔ́.,"De 1re épître de Timothée, chapitre 2, verset 12",1.8,0.8444
+932,"Ba nɖiná wɛ suúru báa sáátɩ wenkí, bɩka bɩrɩ́ŋa bɩdaá nɛ́, bɩ́la sɩsɩ nyánjáádɩ sɩ nwɩ́lɩ wɛ Ɩsɔ́ɔ-dɛ́ɛ tɔ́m gɛ.",ba in di na wasu ruba sa tuwenki ba ka barin a ba da ne ba lasisi nya nja di se onwulu we so de,1.2,0.4146
+933,Ngʊ́ mɛɖɛɛlʊ́ ɩlɛ́ wáńláḿ ábɔ́nɩ́ ɖʊɖɔ ɩwɛná bɩ́ɩ́zɩ nɩɩ́náázá na saaláa .,Gomna ndelo ile wallam abone dodo iwe na beze ni na'aza na sala a.,1.1818,0.463
+934,"Wúro waaŋmátɩ wɛ bɩlɛ́ bɩtɛ́ nɛ́, bɔɔgbɔ́ɔ nɩ́bááwʊ.",ụrụ anwụrụ ebulite na bụ gị ọnụ mba,1.0,0.7368
+935,"Beewélesi yɩ bɩtɛ́ nɛ́, ngɛ beedée yéńdi basá Ɩsɔ́ɔ.",Bɛ wɛlɛ si bɛ tɛnna ka bɛ dɔ yɛn di basa esɔ.,1.2222,0.4615
+936,"Máávʊ́ńzɩḿ, amá, lɛlɛɛɖɔ́ mɔ́wɛ mána máázá, mádándasɩḿ kɛtɛngɛrɛ ɖʊɖɔ.",M'afụzị m ama na na-adịghị anya mana m ga-aza mmadụ ndụ asị m keta ngarado,1.4444,0.5818
+937,"Ɩzʊ́lʊ ɖɔ́rɔ́, na Ɩsɔ́ɔ ɩlɩzɩ́ ɖáa kɩdaavéénínáa bádánnɩɩ ɩráa kʊnyɔḿ nɛ́ bɔnɔ́ɔ́zɩ-daá, káma, bɩdɛkɛ́ɛ ɩráa rɩ́ŋa waava ná Ɖádʊ́ʊ Yeésu toovonúm.",eso n'udo na eso na ezida kidaa wee nnaa padaa nne eraa ku nyom na bono ozi ndaa kama peteke eraa ringa waa fane ndaa duu yesu tovu,1.2381,0.5091
+938,"Wenbí nɛ́ gɛ sɩsɩ wenbá barɩ́ŋa bánjáádɩ sɩ bɔcɔ́ɔ cɔwʊrɛ Ɩsɔ́ɔ sɔɔlɛ́ɛ ɖɛ bana Yeésu Krísto baalá kʊ́ɖʊḿ nɛ́, bánnáa fúkúḿsi.",,,
+939,Bɔzɔɔlɛ́ɛ gɛ batára mána mɩ́ɩ ɖɔ́lɔ́wʊ́táá bɩka ɩbɩ́sɩ bɛdɛ́ɛ ńba.,बस लेग बता रहा मन में डॉलर ता बका एबीसी बे देन,1.2,1.0
+940,"Wenbá bɔzɔɔlɛ́ɛ fɛɛzɩrɛ nɛ́, bɔ́ngɔnáa fɛɛzɩrɛ ɩráa lɔwʊtáá gɛ.",Bongo na,1.0,0.9
+941,"Ɩjɔɔ́ɔ Mará wɩlɩɖáa lɔwʊtáá wénwelesí wɛ, bɩka wɔ́nbɔɔzɩ́ wɛ tɔ́m.","Ihe o mara bu na daalụ taa, we welie si wee, maka ya m bụọzị wee tọọ.",1.6,0.5686
+942,"Bɩlɛ́ ɖʊɖɔ gɛ a mána wenbá baasɩ Múúsá-dɛ́ɛ Mará nɛ́, mánlám gɛ nyazɩ wenbí bɛlɛ́ bánlám nɛ́, na moyuú wɛ bofu Krísto.","Bia nu nu oge, ama m na onwe m bu abali mụsa dee mara na mma m na-agụnyerezi onwe m bale bale m na na mụ onwe m bụkwa Kraist.",1.2727,0.5909
+943,"Amá, na bɩrɩ́ŋa, mɔ́njɔwʊ́ʊ Efɛ́ɛzɩ tɛ́ɛ́dɩ-daá hálɩ beɖi wɛ́ nɛɛ́saaláa-dɛ́ɛ jíńgáárɩ́ bánÿaá kɩ Pɛntɩkóotɩ nɛ́.",amma na farin ga mun jima a fage ta dinda alebi wane sala de jingare baya ke pentekote,1.1333,0.5181
+944,nŋɩ́nɩ́ gɛ sɩ bɩkɛ́dɛ́ná alaháácɩ́-dɩnáa na wenbá bánlám bɩdaavé nɛ́ bɩlɛ́.,,,
+945,Yahúúɖuwá bɛḿ beeyele ná bakʊ ɖoo anɖébiwá nɛbɛ́rɛ; beedéyéle ná bakʊ Ɖádʊ́ʊ Yeésu ɖʊɖɔ.,"Ya huwa bem, be yele naba kudo ande buwa nabare. Be de yele naba ku dadu ye sududu.",1.2857,0.3239
+946,"Wɔɔgɔ́nɩ ɩdɩtɩŋa ɩdɛ́ɛ, amá, ɩdɛ́ɛ-ńba weegízi badamʊ yɩ.",Ama,0.875,0.9302
+947,"Bɩdɛ́ɛ sáátɩ nɛ́, ɩlɛ́ ɩwɛ Amɔ́ɔrɩ Mamɩrée-dɛ́ɛ tɩ́ɩ́nɩ-jɔ́.",Desa tené ele ewe amori ma mure de,1.0,0.6098
+948,Mɔ́ngɔnɩ́ mágána wenbí sɩ mɛvɛ́rɛ báa weení bɩlɩɩná wenbí waalá nɛ́.,"Mọ́ ngwá ni, m ga-anọ́ wee mbịsị ma fárá báa wee ni, bélé na wee mbị waala ni.",1.5455,0.434
+949,"Sɩɩlɛ-dɛ́ɛ nɛ́, wenbá bánŋmatɩnáa Ɩsɔ́ɔ nɔɔ́ nɛ́.",C'est la dernière,1.0,0.8857
+950,Ibó ifééri mogoobíya sɩsɩ bɛ́ɖɛɛ Galilée.,Bɛdɛ ga lili,1.0,0.7647
+951,"Amá, lɛlɛɛɖɔ́ nɛ́, Timotée waagálɩ́ɩ́ná mɩ́jɔ́ ɩtála nɖɔ́.",Tumute wa kalena mujo,1.0,0.7073
+952,"Wenbí bɩgɛ́ɛ nɛ́ gɛ sɩsɩ ɖɔ́ɔ́ ɖɔ́jɔ́ nɛ́, Ɩsɔ́ɔ kʊ́ɖʊḿ wɛ ná, ɩlɛ́ gɛ Caáwʊ weení waalá báa wenbí bɩka ɩrɔ gɛ ɖɔ́wɛ nɛ́.","Wee mbibi ga na agasisi, do onodu ya na, eso akwado muwa na, elaga chaa, wee nuwa alaba wee mbibi, beka oru ga do wa na",1.0417,0.5904
+953,"Ɩrʊ́ tɔnʊʊ́-rɔɔzɩ́, nzʊlʊmʊ́ʊ kɛ́ɛ kpɩ́nɖɛ kúmuuɖéyɔ́ɔ gɛ, amá, kɩdɛ́ɛ kúúrí wánlɩɩnáa tɩmɛ́ kʊ́bɔná kɩ́nbɩɩzɩ́ kɩlá nɛ́ ajɔ́ gɛ.","Arothanu raazi, ezhulumukku epunthakku moodiyoge. Amma kidekku uruvanle naatme kubona kembe eze kalane ajoge.",1.0,0.5484
+954,Ngɛ waava wɛ́ɖɛ sɩsɩ bákʊ́ bíya abaaláa rɩ́ŋa bɔwɛná bɩ́ɩ́zɩ nasɩ́lɛ ngbɔ́ɔ ngédi nɛ́ Bɛtɩlɛhɛ́ɛm na kɩdɛ́ɛ fáráńdɩ́wá-daá.,"Nnewi bu obodo siri ike. Bakubia abali iri na abuo na bezi na Sile, ngbo ngedi na ebe tele hem na kedi fara ndu wa da",1.3333,0.4946
+955,"Bánbɩsɩ́ ɩdɛ́ɛ zamɔ́ɔ bɩka ɩmʊ́ Ɩsɔ́ɔ ɩdɩtɩŋa ɩwɛ bɔjɔ́ nɛ́, ɩbɩ́sɩ bɛdɛ́ɛ Ɩsɔ́ɔ.",Bamidele Samon. Baka emu iso edetenga ewa bo jone. Ebisi bade iso.,1.0,0.6491
+956,Ɖájaájaanáa tándanáa nabʊ́rʊ sɩ beɖi.,"गजा जाना, कंदना, नबुरुसिबे",1.0,1.0
+957,"Ngɛ malááyɩ́ka naárʊ ɖʊɖɔ waagálɩ́ɩ́ná Ɩsɔ́ɔ sarásɩ ɖaalanɖɛ́ fáráńdɩ́, ɩwɛná yíko nimíni-rɔ.",Gammala'e ka na'uru dudo wa'ali na'uso sarasi da landa farandi e wane yiko nimi,1.0833,0.4384
+958,"Ɩdɛ́ɛ ɖɔkɩráa na wenbá bɛ́nbɛɛŋ́ ɩgbɩná-rɔ nɛ́ banʊ́ʊ́zɩ-daá gɛ ɩwɛ, hálɩ bɩkɔ́nɩ bɩtála alɩwáátɩ wenkí ɩjaa waazɩ́ɩ kɩ nɛ́.",na uzo ndi a ga ewe. Ana ebukwanu mbetara aluotu wee nke ijaazi,0.9474,0.7419
+959,"Weení ɩzɔɔlɛ́ɛ iweezuú nɛ́, wɛ́nbɛɖɩ́ kɩ, ngɛ weení ɩdɔkpɔ́ɔ iweezuú ɩyáa nabʊ́rʊ ɖúúlínya kɩna kɩdaá nɛ́, kɩ́njɔwʊ́ʊ yɩ báa ngbeére bɩ́dɛ́ndɛŋ́.","Nweghi izu ole iwe zune, nwem be dike. Ngwa nweghi idokpo iwe zu ya na buru duu li ya ka na kidaa ne. Ke njoo oyi ba ngbe ere kide ndem",1.4762,0.4587
+960,Yáá mɔ́gɔnɩ na sɔɔlɩ́m na ɖɔyɔɔyɔɔ.,Ya amonkwani na soye na doyo oyo.,0.8333,0.6296
+961,Toovonúm Ibrahím waava Ɩsɔ́ɔ nɛ́-rɔ gɛ wɔɔgbɔ́ɔ Ɩsaáka ɩlá Ɩsɔ́ɔ sarɔ́ɔ Ɩsɔ́ɔ waaɖáázɩ yɩ sɩ ɩna nɛ́.,"Tụọ fọnụ Ibrahịmụ wa fa sọ n'ọge ya, wa kpọọ Ịsaaka ịla ụnọ ọsọ sọrọ Ịsaaka wa daa zị nsị n'ala",1.2353,0.6316
+962,"Amá, ɩ́kabɩsɩná yɩ nyazɩ mɩ́báɖaa, ɩdásɩ yɩ tɔ́m ńŋɩnáa mígóóbú bɩlɛ́.",Eka be si na enyazi mebada edasi itom enye na mugo bu bule,1.1818,0.4717
+963,"Ɩɩ́n, ménveerím mɩ́ɩ toovonúm sɩsɩ wenbí bɩrɩ́ŋa sɩ ɩbɔ́ɔ́zɩ bɩ Caáwʊ na máyɩ́ɖɛ-daá nɛ́, wánváa mɩ́ɩ bɩ.",Mee m wee ri mito vo nụ m sị sị. Wee mbịbịrị nga sị ịgbọọzị be. Chaa unu amaịde daalụ. Wa nwaa mee,1.3529,0.5455
+964,"Waalá ceení kʊjɔɔwʊ kɩna, ɩlá waaganáa nakɩ́rɩ.",wa le che nu ku jo okena enu wa ga na ana,1.7143,0.4737
+965,"A ɖɛ́ɛ́bɛ́ɛ́ŋná Saráa, bɩlɛ́ gɛ ɩvʊnjɔɔ́ɔ.","Adebeng na Sara, belega evunjo",1.0,0.5172
+966,"Ngɛ baazʊ́ʊ bɔɔlááwʊ-daá nɛ́, badana Ɖádʊ́ʊ Yeésu tɔnʊʊ́.",Na bazoo balla uda ne. Bada na da duya esu to nu,1.5,0.4419
+967,"Tɩdɛ́ɛ kɔ́ɔ́pɩ wenkí kɩdaá tɩɩɖʊ sʊlʊ́m ticéle baaganáa nɛ́, ɩɖʊ sʊlʊ́m wenbí bɩdɛ́ɛ ɖóni wɛɛjɛzɩ́ tɩdɛ́ɛ ńbɩ hálɩ nabʊ́lɛ nɛ́ icéle tɩ.",Tụdị akụkụ wee nkịkị daa tị edusulụm tị chele baa ganaa na. Edusulụm wee mbịbị daa edonụ wee jetị tị daa mbị alị na gburugburu na ichele.,1.2273,0.5686
+968,Wúro Ɖáwʊɖa waavʊ́ńŋmátɩ ɩdɔ́m sɩsɩ: “Mávʊ́nbɛɛ́na Mádʊ́ʊ Ɩsɔ́ɔ máázá-daá báa sáátɩ wenkí; Ɩjɔɔ́ɔ mɔ́jɔ́ na málaakáarɩ ɩ́kakʊrʊ́.,,,
+969,"Káma, ɖoo bɩgabaazɩya gɛ mána mɩ́ɩ ɖávʊnwɛ.",kama dub ga bazi age mana mi da vunwe,1.0,0.3824
+970,Ɩsɔ́ɔ íyéle Ɖádʊ́ʊ ɩnɩ́ɩ ɩgʊnyɔḿ wɩ́rɛ wenɖé sɩ ɩfʊʊná ɩráa nɛ́.,"So, ya bu na ndu enee okwu ya, o nwere ndi si na iro a",1.3636,0.7292
+971,Wentí ɖéévééri mɩ́ɩ ɖɔ́ nɛ́ kɛ́ɛ toovonúm gɛ.,Wenti devere me ndo na ke tovo num,0.875,0.4242
+972,"Waabá gɛ wánzɩnáa Yahúúɖuwá-daá wenbá bɛgɛ́ɛ kʊnyɔndɩnáa nɛ́, bɩka wɛ́nzɛɛ́ Ɩsɔ́ɔ báa sáátɩ wenkí.",wa be ge once na yahudu wa nda we mbe be ge kunyonde na ni be ka once uso ba sat wi,1.5714,0.4805
+973,Bɛɛ mána njaa ɖálaakáarɩ wáńgʊ́rʊ́ nyɛ́dɛ́ɛ cáádɩ-daá.,Bemanan njada la karuwan goro nyede chadi da,1.1429,0.381
+974,"» Ńna‑ńna, bɩrɩ́ŋa bɩɩjáŋ bibirí Elimáasɩ ɩzá-jɔ́, ɩcáŋ ɩbɩ́sɩ njɛm ɩ́dándanáa ɖʊɖɔ.",nna,1.0,0.9524
+975,"Báa we gɛ sɩ ɩlá, ɩlá bɩrɩ́ŋa na sɔɔlɩ́m.","Bia nwoke, si ela. Ela buru nga na so ole?",1.0,0.5517
+976,"Waabá ɩsʊ́lʊ Ɩsɔ́ɔ páá sɩsɩ tɛ́ɛ́wʊ ɩ́kanɩ́ɩ adɛ laadɔ́ɔ-rɔ, ngɛ tɛ́ɛ́wʊ waalá bɩ́ɩ́zɩ nasúdoozo na fɔɔlʊʊ́ kɩdanɩ́ɩ.",Wapa so so passese. Teo kani adala doro. Enga teo ala business doze na folo kani.,0.9412,0.5647
+977,"A naárʊ sɔɔlɛ́ɛ sɩ ɩlá seríya-dɩnáa bɛḿ bɩdaavé nɛ́, nimíni wánlɩɩ́ bɔnɔ́ɔ́zɩ-daá biɖe babáɖaanáa.",ana rusoless elesseria denabemba vin niminuwanle bonozin dabidi babada,1.0,0.4605
+978,"Sáátɩ wenkí Yeésu ɩgɔɔ na ɩjaa baalá wenbí bɩrɩ́ŋa Ɖádʊ́ʊ Ɩsɔ́ɔ-dɛ́ɛ Mará waazɩ́ɩ́zɩ sɩsɩ bála nɛ́, bána yɩ bɔɔlɔ́ɔ babɩ́sɩ Nazarɛ́ɛtɩ bɛdɛ́ɛ́dɩ-daá, Galilée laadɔ́ɔ-rɔ.",Satu eke Jesu ego na ijaa. Bala wee mbibiri nga na do eso di mara wa azeze si si bala ne. Bala na ebolo ba bu si na zaara ete bede di da ga lili la doro.,1.4167,0.4488
+979,"Amá, weení wánlɩzɩ́ɩ igoobú báɖáárɛ nɛ́, wɛ temenuú-daá gɛ; wánnʊŋ́ temenuú-daá bɩka waasɩ lénlé wɛ́nɖɛɛ́ nɛ́, káma, temenuú waabɩsɩná yɩ njɛm.","Nna anyị nke bi n'eluigwe, aha gị ka e doo nsọ. Alaeze gị bịa. Uche gị ka e mee n'ụwa dị ka e si eme ya n'eluigwe. Nye anyị taa nri nke ụbọchị anyị. Gbaghara anyị mmehie anyị, dị ka anyị na-agbaghara ndị hụrụ anyị na mmehie. Etinyela anyị n'ọnwụnwa, kama zọpụta anyị n'aka ajọọ mmadụ.",2.619,1.5505
+980,Tɩlɩ́ɖa túbu-dɩnáa wɔɔgɔ́nɩ bokúu bú Yeésu tɛ́ɛ́dɩ.,Telenet tubu di na awa gwanigbo kụọ bụ ya esutaa,1.4286,0.5128
+981,"Bɩɩva yɩ yíko sɩsɩ ɩ́ɖʊ́ weezuú fanaḿ-dɛ́ɛ ɩlɛɛzʊ́ʊ baalá kɩ nɛ́ kɩdaá, na kɩlɛ́ kɩbɩ́ɩ́zɩ kɩ́nŋmatɩ́ bɩka kɩ́ngʊ́ʊ wenbá beegízi bódónguu kɩ tɛ́ɛ́dɩ nɛ́.",Béfa yikwé c'est éduquer les enfants dès leur bas âge et leur inculquer les bonnes valeurs. Congo,1.0,0.8142
+982,"Simeyɔ́ɔnɩ, Léévi, Yudáa, Isakáarɩ na Zabulɔ́ɔnɩ.","Simeoni, Levi, Yuda, Isakara na Zabuloni.",0.8333,0.2895
+983,"» Ngɛ Yeésu woobúsi yɩ sɩsɩ: «Ɖɔ́gɔɔ, mána nya wentí.",Iga weeri hijida bota da,1.0,0.8421
+984,Ɩ́kɔkpɔ́ɔ wenbí baalɩzɩ́ bɩ basɩ́ɩ Ɩsɔ́ɔ nɛ́ ɩfa fáázɩ.,"kọkọ wẹ mbibi baalẹ sẹbẹ ba si ẹsọ nẹ, ẹfafá",1.1111,0.575
+985,"Bɩsáánɩ kɩ́sɛɛmɩ́tɩ ndɩ‑ndɩ, siká, na bɔ́ kífenvená, na kejibíya.",Pesan kesan kita endende. Sikka naboki fen vena na keji bi,1.1111,0.3469
+986,Ngʊ́ baaŋmáa Yéńdiwá-dɛ́ɛ tákaraɖá-daá sɩsɩ: “Ɩráa ɩ́lɩɩ ɩɖɔɔ́-daá; bɩka naárʊ ɩ́kɔcɔ́ɔ kadaá.,Ngwa baa n'ime anyi ndi wa di etakari danda sisi. Era ele odo nda bika na aru iko choo kada.,1.6667,0.4714
+987,"Fɛɛzɩrɛ wɩ́rɛ waadála nɛ́, ngɛ waazʊ́ʊ Ɩsɔ́ɔ ɖaazɛɛɖɛ́ ɩbáázɩ Ɩsɔ́ɔ-dɛ́ɛ tɔ́m wɩlɩ́ɩ.","Fezi rewa wa dalane, nga wazo iso da zede ibazi isode ton wole.",1.0833,0.5645
+988,"Bɩlɛ́ gɛ Sɛ́ɛmɩ waalʊ́rʊ bíya bosu tɛ́ɛ́dɩwá ndɩ‑ndɩ, báa wenbá na bɛdɛ́ɛ sɛ́ɛ́dɩwá ndɩ‑ndɩ na kʊnʊmɩ́nɩ ndɩ‑ndɩ.",Beleke si mụ wa lụrụ di a bụ site na ndụ ndị. Bịa wee mana mụ bido site na ndụ ndị na-akwụrụ mụ n'ịdị.,1.3529,0.5783
+989,Ńna gɛ woobúsi ɖáa sɩsɩ: «We-rɔ gɛ mínwií mɩ́ngʊsɩ́ málaakáarɩ bɩlɛ́.,"Nnaa ge, ọ bụsị na asịsị, were ọgọ mụ nwanyị mụrụ sị malakara",1.1818,0.5769
+990,"Tɩlɛ́ gɛ sɩsɩ: Fʊ́ńdɩ kpɩná baaláa lɩzásɩ nɛ́-dɛ́ɛ sɔ́m gɛ bɔ́kɔ́tɔɔ, békízi azimá, bɔ́kɔ́tɔɔ jifa, bɩka ɖʊɖɔ bákalá tɩtɛ lakásɩ.",Telakase se fonde penna ba la le ta si ne de som ge bokoto. Bekizi azuma bokoto jifa maka nu do ba ka la ti telakase.,1.2,0.4105
+991,"Timotée ɩmʊ́ ɩbaasí, naárʊ fɛ́yɩ́ wánmaazɩ́ mɩ́rɔ́ nyazɩ mɔ́ɔ́ nɛ́, ɩba ná wánÿɩtɩ́ ɩdɩ mɩ́rɔ́.","Timothée, mon émissaire, n'a refusé aucun murmure de mon âme. Il a banni toute",1.0,0.7424
+992,"Yudáa ɩlɛ́ waalʊ́rʊ Farɛ́ɛsɩ na Zaará , Farɛ́ɛsɩ waalʊ́rʊ Ɛsɩrɔ́ɔnɩ, Ɛsɩrɔ́ɔnɩ ɩlʊ́rʊ Aráamɩ.",Yuda ele wa luru Fares na Zara. Belebogo ga taa Mari. Fares wa luru Esron. Esron iluru Aram.,1.4167,0.6714
+993,"Ɖádándabɩɩzɩ ɖɩlá nabʊ́rʊ ɖʊɖɔ, ɩráa rɩ́ŋa wɛ bónvúu yɩ.",Dada ntabeza lana burududu. Ira ringa we bomvu.,1.0,0.5227
+994,Ɩbá ɩkpɛ́ɛ́zɩ sɩsɩ bɩ́fá mɩ́ɩ kʊjɔ́ɔ́nɩ tɩɩbaná tɩkɩ́lɩ nɛ́.,"Ebe ekweghi esesi, be fami kwujoro na teba na tikele",1.1111,0.6279
+995,"Mánbɩɩzɩ́ bɩlɛ́ bɩrɩ́ŋa, káma, Krísto wánváa kʊ ma bɩdɛ́ɛ ɖóni.",Mbam be si be Lebarang ka ma Christo wa va kuma bete edoni.,1.3,0.4681
+996,"Ibrahím na Ɩsaáka na Yaakúbu bɛdɛ́ɛ Ɩsɔ́ɔ, ɩgɛ́ɛ ɖájaájaanáa-dɛ́ɛ Ɩsɔ́ɔ nɛ́, wɔɔɖɔ́ɔ́zɩ ɩdɛ́ɛ bɔwʊtá-dʊ́ʊ Yeésu.","Ibrahim na Isaka na Yakubu bedɛ sɔ, ɛge dɔja ja na dɛ sɔ ne. Wɔ dɔɔzi edɛ bɔta du Yesu",1.1333,0.3494
+997,"Sáátɩ wenkí wónɖóm nɛ́, ngɛ wɛɛvɛ́ɛ ɩlɩzɩ́ ɩzɩnɖɛ́nɩ kʊ́ɖʊḿ, ɩbɩsɩná sɔ́m ifu bɩcɔ́ɔ bʊjɔwʊrɛ.","Satu enki wondo mna, nga we ve eleze ezi nda enikudo m. Ebisi na som ifu bu cho bu jowure.",1.3571,0.4648
+998,"Bɩɩga fanaḿ weení ɩvʊnwɛ ngɛ igúti ɩvɛ́yɩ́ ɖʊɖɔ nɛ́, ɩlɛ́ gɛ wúro lutoozo ńnɩ́.","Bịa ka fa na-ụmụ nwaanyị efu nwe, ege egwú ife adịghị ndụ na, elege nwuro lutuo ozo.",1.2143,0.661
+999,"Wɩ́rɛ nɛ́, ngɛ waayáa ibiyaalʊ́ kʊ́bɔnɩ́ Ísááwʊ sɩsɩ: «Móbú».","Ura ne, ngwa ya ibia rukwa nu isa osisi. Mbu",1.1111,0.4884
