@@ -507,7 +507,7 @@ benchmarks:
       cer: 0.3289
       samples: 1000
       valid: 1000
-      avg_seconds_per_sample: 0.21
+      avg_seconds_per_sample: 0.17
     finance:
       wer: 0.7718
       cer: 0.325
@@ -521,7 +521,7 @@ benchmarks:
       cer: 1.2161
       samples: 1000
       valid: 995
-      avg_seconds_per_sample: 0.24
+      avg_seconds_per_sample: 0.21
       failures:
         TypeError: 20
     unicef:
@@ -529,7 +529,7 @@ benchmarks:
       cer: 0.4967
       samples: 196
       valid: 195
-      avg_seconds_per_sample: 0.26
+      avg_seconds_per_sample: 0.17
       failures:
         TypeError: 4
     waxal:
@@ -537,7 +537,7 @@ benchmarks:
       cer: 0.3454
       samples: 1000
       valid: 1000
-      avg_seconds_per_sample: 0.24
+      avg_seconds_per_sample: 0.15
   source: evaluated
 - model: katrintomanek/whisper-large-v3-turbo_Akan_standardspeech_specaugment
   model_url: https://huggingface.co/katrintomanek/whisper-large-v3-turbo_Akan_standardspeech_specaugment
