@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Ntsi ɔtɔɔ afe fa bi,Enti Ɔtoo afise bi.,0.8,0.4667
+1,Akwaaba,akwaba,1.0,0.1429
+2,Nsu kɔm dze me,Nsuo kwan zime.,1.0,0.4545
+3,Boa me,Bwami,1.0,0.4
+4,Mber nnyi hɔ,M'abere nyinaa,1.0,0.5
+5,Dze susu sika no tɔɔ bɔɔl,Me susu sika no to ball.,0.5,0.3
+6,Dan mu,danmu,1.0,0.0
+7,"Kosɛ, Mannhyɛ daara","Kɔse, m'anhyia daara.",0.6667,0.3125
+8,Nokwar dze nyimpa bɛn owu ho,Nokware a ɛnyɛ mpaabɛn owu.,0.8333,0.3043
+9,Dɛm ara,Jamara,1.0,0.3333
+10,Enyin sen me,yɛnsom me,0.6667,0.5
+11,Ɔmee nye Ɔfe,ɔmanne ofe,1.0,0.4
+12,Ɔsow aba pii,ɔso abapi,1.0,0.2
+13,Ngo a oguu asuafo no do,"Ogu a ogu, ɛsiane afono nwuando.",0.8333,0.6667
+14,Ma me bebiree,,,
+15,Ɔsowee ara pɛ,ɔsɔeɛ ara pɛ,0.3333,0.2727
+16,Dum kandzea no,Dwenkanase ano.,1.0,0.4167
+17,ɛkɔm dze me,ɛkom zime,1.0,0.3333
+18,"M'ehu, m'ayɛ ewie",Me ho ma ye wie.,1.6667,0.1667
+19,Yoo medaase,"Yoo, medaase.",0.0,0.0
+20,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Me pɛ dɛ mɛtɔ credit na modugoo MTN number do.,0.4545,0.1667
+21,To ndwom,전념,1.0,1.0
+22,Nye dza Osei dze yɛɛ buburo yi,Me nua baa ɔse adieɛ gbugburu yi.,0.8571,0.5417
+23,Translation: By the roadside,wɔn kwan kyen,1.0,0.7917
+24,Mo ho mmfa me,M'ahunu fam.,1.0,0.5
+25,Dɛm ɔkɔr no,Dɛm ɔkɔɔ nɔ.,0.6667,0.2222
+26,"Kosɛ, Mannhyɛ daara",Me se me nsuo daara.,1.3333,0.5
+27,Ɔbɛbuei n'enyinwa ɔkyena,Obaa boayeni na okyina.,1.3333,0.5238
+28,ɛretɔ egu ɛbɛn number do,Ewi tɛegu ebe namba du.,1.0,0.55
+29,W'edzi nkɔmbɔ mprɛnsa,Wo yɛɛn kwan mpremprea.,1.3333,0.7222
+30,ɛretɔ egu ɛbɛn number do,Ɛwɔ Tweapease Aban Mbrado,1.0,0.75
+31,Akwaaba,Akwadaa,1.0,0.2857
+32,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. M'pɛ sɛ mɛfa motor credit.",0.5714,0.2895
+33,Ɔsowee ara pɛ,Ɔso yɛ ara pɛ.,0.6667,0.2727
+34,Na biribiara dwoe,M'ani biei ara drewei.,1.3333,0.5333
+35,Nsu kɔm dze me,Nso kom zeme.,1.0,0.2727
+36,Mma aboa bi twee,Maa abuo bi twii.,0.75,0.3846
+37,Sɔ kandzea no,Sɔkanzi a no.,0.6667,0.1818
+38,"Oho, Oho, me pɛdɛ mo tɔ","Oho oho, me pɛ da mu dɔɔ.",0.6667,0.25
+39,Ne yer,Nnye.,1.0,0.4
+40,Nokwar dze nyimpa bɛn owu ho,"Nokware de, nnipa bɛn wo ho.",0.6667,0.2609
+41,"Oho, Oho, me pɛdɛ mo tɔ",ɔhɔɔ ɔhɔɔ mepɛ dɛɛmɔtɔ,1.0,0.5
+42,ɛretɔ egu ɛbɛn number do,W'ateɛgu ibi number do.,0.6,0.4
+43,Efow dua pa a na wo pia wo  push,Afuo dua pa na wopia wo.,0.5556,0.3478
+44,Ko buu no,Kobu no.,0.6667,0.1429
+45,Bra ha,Braha,1.0,0.0
+46,To do ma me,Twedumase,1.0,0.5
+47,Efow dua pa a na wo pia wo  push,Afuo diapan wopia.,1.0,0.5217
+48,Ko buu no,Kobuono,1.0,0.1429
+49,Mber nnyi hɔ,Mbenyu ho.,1.0,0.4
+50,Eka brɔfo a?,ɛka aburofo a,0.6667,0.4444
+51,Translation: By the roadside,wɔn kwan kyen,1.0,0.7917
+52,Mepawokyɛw me pɛdɛ mo tɔ mtn credit,"Me pa wo, me pɛ dɛ mɛtɔ MTN credit.",0.8571,0.1724
+53,ɛretɔ egu ɛbɛn number do,Awurade woko ebe namba do?,0.8,0.8
+54,Ye be hyia bio,Yɛbɛhyia bio.,0.75,0.1818
+55,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Me pɛ dɛn mɛtɔ credit na mɛdi gu MTN number do?,0.3636,0.1389
+56,Hyɛ n'enyim tee,Sɛɛ niini mti.,1.0,0.5833
+57,Efow dua pa a na wo pia wo  push,Afo dua paa na wopɛɛ wo.,0.6667,0.3478
+58,Fa to hɔ,Fatoho,1.0,0.1667
+59,Bi deda bi ekyir,Ebi dæda ebi ekyi.,1.0,0.3077
+60,Ewie a,Ebia.,1.0,0.4
+61,Sua adze,Siazi,1.0,0.5714
+62,Dze susu sika no tɔɔ bɔɔl,Susu sika no toɔ bɔɔl.,0.3333,0.2
+63,Ngo a oguu asuafo no do,"Nko a, ogu esiam fono do.",0.6667,0.2778
+64,Ne yer,Meye,1.0,0.4
+65,Akwaaba,Akwabaa,1.0,0.2857
+66,Ewi no rehwehwɛ ehu,Ewi no rekyere ehu.,0.25,0.3125
+67,No mu biara,Nnumu biara.,0.6667,0.2222
+68,Medaase,Medaase.,0.0,0.0
+69,Efow dua pa a na wo pia wo  push,Efua dwie paa a mennawu piam.,0.8889,0.6087
+70,Tsir kor nnkɔ egyina,Sukurowa nkwae jina.,1.0,0.6471
+71,Mtn,MCA,1.0,0.6667
+72,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Bosomtwe Rural Credit.",0.4286,0.3684
+73,"Oho, Oho, me pɛdɛ mo tɔ","Oho oho, mepɛ dɛ me tɔ.",0.5,0.0625
+74,Mo ho mmfa me,M'ahoɔfama.,1.0,0.4
+75,Ewi no rehwehwɛ ehu,Ewi no hihia enhu.,0.5,0.4375
+76,Nsu,nsu,0.0,0.0
+77,Yaw na Ama,Yɛwɔ na ama.,0.3333,0.25
+78,Efi hen?,efihini,1.0,0.3333
+79,Na Ɔkɔ kɔ wui,Moroceco 054,1.0,1.1
+80,Ngo a oguu asuafo no do,Nkwa a okyi esiane afonudoo.,0.8333,0.7222
+81,Tsew do ma me,suro domam,1.0,0.5
+82,Efow dua pa a na wo pia wo  push,Fufu diapaa na wopia,0.8889,0.4783
+83,Enyin sen me,Enyansanhene,1.0,0.5
+84,Hwɛ sor,Hustle,1.0,0.8333
+85,Mepawokyɛw nyew,Me pawkyew nyom.,1.5,0.2857
+86,Hyɛ n'enyim tee,Sɛnɛɛ nimtee?,1.0,0.4167
+87,Sua adze,Sua Azee,0.5,0.2857
+88,Sɔ kandzea no,Sɔkan nsi anu.,1.0,0.3636
+89,Abofraba yi,abofra bi,1.0,0.2
+90,Sua adze,Sɛeɛ adze,0.5,0.4286
+91,Efow dua pa a na wo pia wo  push,Ɛfuduo apaana wopiaa,1.0,0.4348
+92,Nyimpa nnyɛ,nyimpa nye,0.5,0.2
+93,Enyin sen me,Engine senam?,1.0,0.4
+94,Ɔsow aba pii,ɔso abapi,1.0,0.2
+95,Dze susu sika no tɔɔ bɔɔl,De sususika no to ball.,0.8333,0.25
+96,Ebɛn Number na ɛpɛde ɛtɔ gu du?,Ebee namba na epega ya toogudu?,0.8571,0.5417
+97,ɛkɔm dze me,ɛkom zime,1.0,0.3333
+98,Ebɔtum akyerɛ me hɔ ?,Ebotum akyere me hɔ?,0.5,0.125
+99,Mo ho mmfa me,Me ho fàm.,0.75,0.5
+100,Ebɔtum akyerɛ me hɔ ?,Eboto ma chrew me ho.,1.0,0.5
+101,Bra ha,braha,1.0,0.0
+102,Dze susu sika no tɔɔ bɔɔl,Susu sika ntoo ball.,0.6667,0.4
+103,Nsu kɔm dze me,ɛsu kɔm zeme,0.75,0.1818
+104,Dɛm ara,Damara,1.0,0.1667
+105,Mepawokyɛw,Me pawkyaw.,2.0,0.2
+106,Wɔ adwontow kuw bi mu,Wo adwen to kuro bi mu.,0.8,0.2941
+107,Hyɛ n'enyim tee,Sɛn na enyim tee?,1.0,0.3333
+108,Modɔ wo,Medaase.,1.0,0.8333
+109,Kosɛ,Kwasɛ,1.0,0.5
+110,Osiandɛ,O Sande,2.0,0.2857
+111,Bra ha,bra ha,0.0,0.0
+112,Oho,Oho.,0.0,0.0
+113,Nye dza Osei dze yɛɛ buburo yi,Nye daa ose di yɛ buburoyi.,0.8571,0.2083
+114,Modɔ wo,Medaase.,1.0,0.8333
+115,Me nsa aka,Me nsa aka.,0.0,0.0
+116,Oye,Oye.,0.0,0.0
+117,Efow dua pa a na wo pia wo  push,Efu diapaa na owia.,0.8889,0.4783
+118,Huana egua,ɔne gwa,1.0,0.5556
+119,Ɔsowee ara pɛ,ɔsɔn ara pɛ,0.3333,0.3636
+120,Noho ayɛ fi paa,Nokware fitaa.,1.0,0.4167
+121,Epoowbɔ nnyɛ,ɛpɔbɔnnye,1.0,0.4545
+122,Na Ɔkɔ kɔ wui,Na okokowii,0.75,0.4
+123,Ebɔtum akyerɛ me hɔ ?,Obotum akyere me ho?,0.75,0.25
+124,Oho,Oho.,0.0,0.0
+125,Yɛ wɔ,Yawa,1.0,0.5
+126,Mma aboa bi twee,Ma abue bi twɛn.,0.75,0.3846
+127,Ɔsowee ara pɛ,ɔsɔeɛ ara pɛ,0.3333,0.2727
+128,Bra ha,braha,1.0,0.0
+129,Tsir kor nnkɔ egyina,Tiko nkwenchina,1.0,0.4706
+130,Enyin sen me,ɛnyɛ nsɛm.,1.0,0.5
+131,Ebɛn Network?,Ebonyi Network,0.5,0.2727
+132,Kosɛ,Kofi,1.0,0.5
+133,Ebɔtum akyerɛ me hɔ ?,Ibotun asraa mu ho.,1.0,0.625
+134,Nye dza Osei dze yɛɛ buburo yi,Me nyim za oseese ye ebubu yi.,0.8571,0.4583
+135,Nyew,Eei oo.,2.0,1.25
+136,Medaase mensa aka,"Medaase, mesrɛ wo aka.",0.6667,0.3333
+137,Ɔsow aba pii,Oso Abepi,1.0,0.4
+138,Nsu,Nsuo,1.0,0.3333
+139,Nantsew yie  farewell,Na nsu yie.,1.0,0.6111
+140,Mo ho mmfa me,Me ho fàm.,0.75,0.5
+141,Maafe wo,maafio,1.0,0.2857
+142,Oho,Oho.,0.0,0.0
+143,Sua adze,Sɛ aze,1.0,0.4286
+144,ɔyɛ fɛw,Oyafo,1.0,0.6667
+145,Tuu no,turo,1.0,0.4
+146,Oho,Oho.,0.0,0.0
+147,Osiandɛ,O Sunday,2.0,0.5714
+148,Nantsew yie  farewell,Na nsuo yɛ.,1.0,0.7222
+149,Mo ho ye paa,Me hu yie paa.,0.75,0.3333
+150,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Eti na yɛaba zinde?,1.0,0.6316
+151,"Kosɛ, Mannhyɛ daara","Kusé, mancha daara.",0.6667,0.3125
+152,Ebɔtum akyerɛ me hɔ ?,Mebetumi akyerɛ me hɔ?,0.25,0.1875
+153,Hwɛ sor,"Yes, sir.",1.0,0.6667
+154,Dan mu,danu,1.0,0.2
+155,Sɔ kandzea no,Sokanzianu,1.0,0.3636
+156,Nyimpa nnyɛ,Nipa nye.,1.0,0.4
+157,Abofraba no tow ndwom,Abofra no tuo njom.,0.75,0.3333
+158,Afehyia pa,afishapa,1.0,0.4444
+159,"Me sika no, woaka ahen?",Me sika no baa ka he?,0.6,0.2353
+160,"M'ehu, m'ayɛ ewie",Me ho maaye yie.,1.3333,0.3333
+161,Dza odzi kan,"Ɛyaa, odikani.",1.0,0.5
+162,Medaase mensa aka,"Madaa, sɛ menim saa ka.",1.6667,0.2667
+163,ɛpɛ ebɛnadze,Epe Abanase,1.0,0.5455
+164,Oye,Oye.,0.0,0.0
+165,Nsu,nsu,0.0,0.0
+166,Oho,Oho.,0.0,0.0
+167,Gye dzi,jersey,1.0,1.0
+168,Ebɔtum akyerɛ me hɔ ?,Ebetumi akyere me ho?,0.75,0.25
+169,Huana egua,Hwan na igwa?,1.5,0.4444
+170,Dze susu sika no tɔɔ bɔɔl,Jesus Christ ka no to bɔɔ,0.8333,0.5
+171,Afehyia pa,afia pa,0.5,0.3333
+172,Mepawokyɛw nyew,"Me pa wo kyɛw, nyew.",2.0,0.0
+173,Fa to hɔ,fa tu ho,0.6667,0.3333
+174,Boa me,boa me,0.0,0.0
+175,Yoo medaase,"Yoo, medaase.",0.0,0.0
+176,Osiandɛ,O Sunday,2.0,0.5714
+177,Ɔtse dɛn?,Akyɛdɛn?,1.0,0.5714
+178,Mma aboa bi twee,Maa aboa bi twene.,0.5,0.1538
+179,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Portharcourt motor credits.",0.5714,0.3947
+180,"M'ehu, m'ayɛ ewie",Me ho ma yie.,1.3333,0.3333
+181,Mefir Ghana,Me fie Ghana.,1.0,0.1
+182,Na Ɔkɔ kɔ wui,Na koko ko hunu,0.75,0.7
+183,Ma hɔn ho yɛ huam,Maa wo ho yie.,0.8,0.6154
+184,ɔyɛ fɛw,Oyafo,1.0,0.6667
+185,kɔm dze me,Kɔm zeme,0.6667,0.125
+186,Sua adze,"Sia, aze.",1.0,0.2857
+187,Medaase Nyankopɔn nhyira wo,Meda Nyankopɔn ase.,0.75,0.4167
+188,Ma hɔn ho yɛ huam,Mmaa wo hon yie hwa.,1.0,0.6923
+189,Bi deda bi ekyir,ebiti da ebi ekyi,1.0,0.3846
+190,"Oho, Oho, me pɛdɛ mo tɔ",Me number nie 024,0.8333,0.9375
+191,Nyew,inyo,1.0,0.75
+192,Fa to hɔ,fa tuho,0.6667,0.3333
+193,Nokwar dze nyimpa bɛn owu ho,"Nokware, zinyimpa ben owu?",0.8333,0.2174
+194,Ntsi ɔtɔɔ afe fa bi,Enti otoo afefe bi.,0.8,0.4
+195,Me hia wo mboa,Yɛwɔ mpoa.,1.0,0.6364
+196,Hwɛ sor,"Yes, sir.",1.0,0.6667
+197,Osiandɛ,Osono deɛ.,2.0,0.5714
+198,Mtn,MTN,0.0,0.0
+199,Me nsa aka,Mensaaka,1.0,0.0
+200,Ma me bebiree,Mami bebree,1.0,0.1818
+201,Daadze bi twa daadze bi mu,"Daabi, me twa daabi mu.",0.6667,0.381
+202,Mepawokyɛw nyew,Me pɛ wo chowing yo.,2.5,0.5714
+203,ɔno ekyir no,ɔno akyerɛ no,0.3333,0.3
+204,Ebɛn Number na ɛpɛde ɛtɔ gu du?,Ebea na mma na epe da eto gudu.,1.0,0.4583
+205,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Efi da ɛyɛ ɛbɛn adze ɛnnɛ.,1.25,0.3684
+206,Pia no biom,Pianni bi o.,1.0,0.3333
+207,To do ma me,Chodumami,1.0,0.5
+208,ɛkɔm dze me,ɛkom zine,1.0,0.4444
+209,Dɛm ɔkɔr no,Dumb okro no.,0.6667,0.5556
+210,Pia no biom,piano biom,0.6667,0.0
+211,To ndwom,so nyom,1.0,0.4286
+212,Me nsa aka,Mensa aka.,0.6667,0.0
+213,Enyin sen me,Engine sema.,1.0,0.4
+214,W'edzi nkɔmbɔ mprɛnsa,Wei ne nkomom prentia.,1.3333,0.5
+215,Ye be hyia bio,Yɛbɛsi abɛ dɛw.,1.0,0.7273
+216,"Kosɛ, Mannhyɛ daara","Kuse, Mansaara",1.0,0.4375
+217,Ngo a oguu asuafo no do,Ngoa ogo esiafo nodu.,1.0,0.2778
+218,Eka brɔfo a?,Ɛka brofo a,0.6667,0.2222
+219,Mepawokyɛw nyew,"Mepakyew, nyew.",0.5,0.2143
+220,Nantsew yie  farewell,Nante yie.,0.6667,0.5556
+221,Bi deda bi ekyir,Ebi dida ebi ekyi.,1.0,0.3077
+222,Anyew ebaasa,Anwewa asa.,1.0,0.2727
+223,ɛretɔ egu ɛbɛn number do,Yɛrebu twego aban na mbadu.,1.0,0.55
+224,Wɔ adwontow kuw bi mu,Wo adwenkyiri kuro mu.,0.8,0.5882
+225,Anyew ebaasa,Anigye baason.,1.0,0.4545
+226,Bra ha,Braha,1.0,0.0
+227,ɛretɔ egu ɛbɛn number do,Eti kwanu? Ihe nọ mma?,1.0,0.85
+228,Ma me bebiree,Ma me beeribi.,0.3333,0.4545
+229,Mepawokyɛw mara so medaase,Pachamaso medase.,1.0,0.4783
+230,ɛkɔm dze me,ɛkɔm zɛmi,0.6667,0.3333
+231,ɛretɔ egu ɛbɛn number do,Ɛyɛ twɛgu ɛba nnamadu.,1.0,0.5
+232,Afehyia pa,afisia pa,0.5,0.3333
+233,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Porchermotokredits.",0.5714,0.3684
+234,Nyew,Enyo.,1.0,0.75
+235,Daadze bi twa daadze bi mu,"Daabi, twa daabi mu.",0.6667,0.2857
+236,Translation: By the roadside,wo nkwa nsen,1.0,0.8333
+237,W'edzi nkɔmbɔ mprɛnsa,ways in common parlance,1.3333,0.7222
+238,Ahoɔfɛw nntua ka,M'awufo nsuo aka.,1.0,0.6429
+239,W'edzi nkɔmbɔ mprɛnsa,Wei ne nkomonkonsa.,1.0,0.5556
+240,Maafe wo,Matthew,1.0,0.5714
+241,Ɔsowee ara pɛ,asoi arape,1.0,0.4545
+242,Oho,Oho.,0.0,0.0
+243,Dze susu sika no tɔɔ bɔɔl,Jesus Christ ka ne tɔɔ ball.,0.8333,0.5
+244,Ma me bi,Mami bi.,0.6667,0.1667
+245,Tsew do ma me,Soo do ma.,0.5,0.5
+246,Morohwehwɛ Yaw,Me ho aso hyew.,2.0,0.6154
+247,Eka brɔfo a?,Akabrofa,1.0,0.3333
+248,Ɔsow aba pii,ɔsɔ abapi,1.0,0.3
+249,Abofraba no tow ndwom,Abofra abanutuo njo.,1.0,0.3889
+250,Mber nnyi hɔ,M'abere nyinaa.,1.0,0.5
+251,Ɔsow aba pii,Osu abapi.,1.0,0.4
+252,Modɔ wo,Medaase.,1.0,0.8333
+253,Sua adze,Sia Ase,1.0,0.4286
+254,ɔkɔtɔ nnwo anoma,ɔkoto nwa nua,1.0,0.4286
+255,kɔm dze me,Kɔm tumi.,0.6667,0.5
+256,Wɔ adwontow kuw bi mu,Wo adwumato kɔɔ bi mu?,0.6,0.4118
+257,Ɔsowee ara pɛ,Ɔso yie ara pee.,1.0,0.3636
+258,Ɔtse dɛn?,Osiadan,1.0,0.7143
+259,Ye be hyia bio,Yɛbɛsi yɛn bio.,0.75,0.5455
+260,Mepawokyɛw nyew,"Mepawkyew, enyɛ.",1.0,0.3571
+261,M'ayew,mayo,1.0,0.4
+262,Dum kandzea no,Jumkanthianu,1.0,0.4167
+263,Osiandɛ,Osraman,1.0,0.5714
+264,Adwoa Aboagye,Ajuwa Abowadzi,1.0,0.5833
+265,Adwoa Aboagye,Agyua Abwaji,1.0,0.5833
+266,Noho ayɛ fi paa,"No wahala, e fine pa.",1.25,0.75
+267,Nsu kɔm dze me,Suku kɔm zime.,0.75,0.4545
+268,Nye dza Osei dze yɛɛ buburo yi,Me nsa 16 years bubuiri.,1.0,0.6667
+269,Nokwar dze nyimpa bɛn owu ho,Nokware nnyipa ben owo ho?,0.8333,0.2609
+270,Iyinom nyinara yɛ wodze,Inum nyinaa yɛ wo de.,1.0,0.25
+271,Adwoa Aboagye,Agya Abrokyire,1.0,0.6667
+272,Tsew do ma me,Sodom,1.0,0.6
+273,Abofraba no tow ndwom,Abofra ba no tu njum.,1.0,0.2778
+274,Tsentsen no,Tuntum no.,0.5,0.5
+275,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Me pɛ dɛ mɔtɔ kiredit na me ji gu MTN namba dɔ.,0.7273,0.2778
+276,Mma aboa bi twee,Ma aboa bi change.,0.5,0.4615
+277,Oho,Oho.,0.0,0.0
+278,Ko buu no,Kobuonu,1.0,0.2857
+279,Tu mbirika,Tsumebeka,1.0,0.5556
+280,Ma hɔn ho yɛ huam,M'ahunu wo yie hwan?,1.0,0.5385
+281,Mepawokyɛw nyew,"Me paakyɛw, yinnɔ.",1.5,0.5
+282,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Ebi dae ebi na azen de.,1.5,0.5263
+283,Ebɛn Number na ɛpɛde ɛtɔ gu du?,Ebea namba ne pɛdɛɛ togodo.,1.0,0.4583
+284,Me hia wo mboa,Me hia wo mboa.,0.0,0.0
+285,Na Ɔkɔ kɔ wui,Osofo,1.0,1.0
+286,"M'ehu, m'ayɛ ewie",Me ho maaye wie.,1.3333,0.25
+287,Medaase Nyankopɔn nhyira wo,Medaase. Nyankopɔn nhira wo.,0.25,0.0417
+288,Etse brɔfo a?,Eti brofo.,1.0,0.4
+289,Tsir kor nnkɔ egyina,Sikɔɔ ɛnkɔ ejina.,1.0,0.4118
+290,Ye be hyia bio,Yɛbɛhyia bio.,0.75,0.1818
+291,Efi hen?,efie hɔ,1.0,0.5
+292,Ngo a oguu asuafo no do,M'puna ogu esiane afunudu.,1.0,0.6667
+293,Mma aboa bi twee,Maa abuo bi chain.,0.75,0.6154
+294,Dze susu sika no tɔɔ bɔɔl,Te susu sika no toɔ bɔɔ?,0.5,0.2
+295,Osiandɛ,Osono de.,2.0,0.5714
+296,Etse brɔfo a?,Etia boafoa.,1.0,0.4
+297,Ɔbɛbuei n'enyinwa ɔkyena,ɔbɔbɔɛ nyinaa enyuwa ɔchinaa,1.3333,0.619
+298,Mepawokyɛw nyew,Pueblo,1.0,0.9286
+299,Akwaaba,Akwabaa,1.0,0.2857
+300,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Mepa wo kyaw, merehwe credit.",0.5714,0.1579
+301,"Oho, Oho, me pɛdɛ mo tɔ","Oho oho, me pɛ dɔteɛ moto.",0.5,0.25
+302,"Kosɛ, Mannhyɛ daara",Kofi Mensah daara.,0.6667,0.4375
+303,Pia no biom,Pia no bi o.,0.6667,0.1111
+304,Ko buu no,Kɔbɔɔnu,1.0,0.5714
+305,Modɔ wo,,,
+306,ɔno ekyir no,ɔnwechi nno,1.0,0.4
+307,Mepawokyɛw mara so medaase,"Me pawkyew, ma wo asomdwee daase.",1.5,0.3043
+308,Afehyia pa,ɔfisapa,1.0,0.5556
+309,Sɔ kandzea no,Sɛ kanea no,0.6667,0.2727
+310,Mtn,MTN,0.0,0.0
+311,Nsu,nsu,0.0,0.0
+312,To ndwom,tonton,1.0,0.4286
+313,Ngo a oguu asuafo no do,Meko a ogu esu afo n'udo.,0.8333,0.3333
+314,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Pɔchomoro credit.",0.4286,0.2895
+315,Dan mu,da mu,0.5,0.2
+316,Gye dzi,jersey,1.0,1.0
+317,Ne yer,major,1.0,0.8
+318,Epoowbɔ nnyɛ,ɛpo bɔnne,1.0,0.4545
+319,Abofraba yi,Abofoɔ bɛɛ,1.0,0.5
+320,Translation: By the roadside,wɔnkwan kyen,1.0,0.7917
+321,Ewie a,Ewiase,1.0,0.6
+322,Hyɛ n'enyim tee,Sɛ neɛ nyimnsɛm,1.0,0.5833
+323,Enyin sen me,Ɛneɛ me sen me?,0.6667,0.5
+324,Boa me,boa me,0.0,0.0
+325,To do ma me,Tudu mam.,1.0,0.375
+326,Anyew ebaasa,Anyaa Baasa,1.0,0.2727
+327,Anyew ebaasa,Anwummerɛ asa.,1.0,0.5455
+328,"Kosɛ, Mannhyɛ daara",Kyerɛ sɛ mehyɛɛ da,1.3333,0.6875
+329,No mu biara,Num biara.,0.6667,0.2222
+330,To ndwom,Tunjum,1.0,0.5714
+331,Akwaaba,akwaba,1.0,0.1429
+332,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Efi te eye Ebenezer nde.,1.25,0.6316
+333,Eka brɔfo a?,ɛka brɔfo a,0.3333,0.1111
+334,Mepawokyɛw m'asesa m’adwen,Me pawkyɛ ma sika m'adwuma.,1.6667,0.3182
+335,W'edzi nkɔmbɔ mprɛnsa,Wɛɛzin kwanmɔn pɛnsa.,1.0,0.4444
+336,Morohwehwɛ Yaw,Meresɛ mehyew.,1.0,0.6154
+337,"Oho, Oho, me pɛdɛ mo tɔ",Oho oho me pɛ da moto.,0.5,0.125
+338,Ɔmee nye Ɔfe,Oman no ofe.,1.0,0.6
+339,Akwaaba,Akwabaa,1.0,0.2857
+340,M'ayew,mayo,1.0,0.4
+341,ɛkɔm dze me,ɛkom zɛm me,0.6667,0.4444
+342,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Mpocho mere credit.",0.4286,0.2895
+343,Nsu,Nsuo,1.0,0.3333
+344,Ebɛn Network?,Ebenezer Network,0.5,0.4545
+345,Iyinom nyinara yɛ wodze,Eyim na yɛ wo za.,1.0,0.5
+346,Osiandɛ,osande,1.0,0.2857
+347,Enyin sen me,Engine san me.,0.6667,0.3
+348,Efow dua pa a na wo pia wo  push,Efodwene aboa na opia wo.,0.7778,0.4783
+349,Mo ho ye papaapa,Mewie papa apa.,1.0,0.3077
+350,Nyew,inyo,1.0,0.75
+351,Ntsi ɔtɔɔ afe fa bi,Enti otoo afefee bi.,0.8,0.4667
+352,Tu mbirika,Twi mu kasa.,1.5,0.7778
+353,Eka brɔfo a?,ɛka abrofoa,1.0,0.3333
+354,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Me pɛ dɛ mɛtɔ credit na mɛzigu MTN number do.,0.4545,0.1111
+355,Nyimpa nnyɛ,Me mpae.,1.0,0.7
+356,Yaw na Ama,Yɛwɔ na ama.,0.3333,0.25
+357,Oye,Oye.,0.0,0.0
+358,Mo ho ye papaapa,Muhu ye papaapa.,0.5,0.1538
+359,Pia no biom,Kɛnubiɔ,1.0,0.6667
+360,Medaase Nyankopɔn nhyira wo,Meda Nyankopɔn nase.,0.75,0.375
+361,Ma hɔn ho yɛ huam,M'ani enhu hwee.,1.0,0.6923
+362,Ma me bebiree,Maame bebree.,1.0,0.1818
+363,Dɛm ara,Dɛm ara.,0.0,0.0
+364,Abofraba yi,Abofra beyi.,1.0,0.1
+365,"Kosɛ, Mannhyɛ daara",Wose maensha daara.,0.6667,0.375
+366,"M'ehu, m'ayɛ ewie",Me ho maa yie yie.,1.6667,0.3333
+367,Tsew do ma me,Sɛ wodo ma me.,0.5,0.3
+368,Nyimpa nnyɛ,Nimpainye.,1.0,0.3
+369,Nantsew yie  farewell,M'anso yie.,0.6667,0.6667
+370,No mu biara,Num biara.,0.6667,0.2222
+371,Yoo medaase,"Yoo, medaase.",0.0,0.0
+372,Dan mu,danmu,1.0,0.0
+373,Yaw na Ama,"Yaa, ona ama.",0.6667,0.25
+374,Nokwar dze nyimpa bɛn owu ho,Nokware di ni abɛ owuo hu.,1.0,0.3913
+375,Ebɛn Number na ɛpɛde ɛtɔ gu du?,Ebe na amma na epede eto godo.,1.0,0.5
+376,Nsu kɔm dze me,Nsuo kom di me.,0.75,0.3636
+377,Ye be hyia bio,Yɛbɛsi abien.,1.0,0.5455
+378,Yaw na Ama,Yaw na Ama,0.0,0.0
+379,Mo ho ye papaapa,Ohu yɛ papaapa.,0.75,0.2308
+380,Efow dua pa a na wo pia wo  push,Ɛfũ diɛ pa na wopia wo.,0.6667,0.4348
+381,Osiandɛ,Ousmane Dembélé,2.0,1.2857
+382,Enyin sen me,Ɛnyɛ nsem wai.,1.0,0.6
+383,Ɔmee nye Ɔfe,ɔmee ne ofe,0.6667,0.2
+384,Boa me,boa me,0.0,0.0
+385,Modɔ wo,M'odɔ.,0.5,0.3333
+386,Tsew do ma me,Twedamame,1.0,0.3
+387,Nyew,ignore,1.0,1.25
+388,"M'ehu, m'ayɛ ewie",Me hu ma ye wie.,1.6667,0.0833
+389,Hwɛ sor,Sesor,1.0,0.5
+390,Me credit no aka ahen?,Me credit no aka hen?,0.2,0.0588
+391,Mepawokyɛw nyew,"Mepa wo kyɛw, inyɔ.",2.0,0.2143
+392,Ɔmee nye Ɔfe,ɔmee ne ofe,0.6667,0.2
+393,Nyew,Enyo.,1.0,0.75
+394,Anyew ebaasa,Anigye wo ebaasa.,1.0,0.2727
+395,Ntsi ɔtɔɔ afe fa bi,Nti otoo afefen bi.,0.8,0.4
+396,Dum kandzea no,Dumasi ano.,1.0,0.4167
+397,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Ebenezer na epɛ dɛ eyɛɛn ɛndɛ.,1.5,0.9474
+398,Kɔr dua bi ekyir,Kwadwo Baah Wiredu,1.0,0.8462
+399,Enyin sen me,Ɛnyɛ ne senea ɛ,1.3333,0.6
+400,Afehyia pa,Afishia Pa,0.5,0.3333
+401,Osiandɛ,Osono de,2.0,0.5714
+402,Wɔ adwontow kuw bi mu,Wo adwene tuku bi mu.,0.6,0.3529
+403,Yaw na Ama,Yɛwɔ na hamma.,0.6667,0.5
+404,Mepawokyɛw me pɛdɛ mo tɔ mtn credit,"Me pa wo, mepɛ dɛ metɔ MTN credit.",0.8571,0.1724
+405,kɔm dze me,Kɔm di me.,0.3333,0.25
+406,M'ayew,Maayoo.,1.0,0.6
+407,Me credit no aka ahen?,Me credit no waka hen?,0.4,0.1176
+408,Maafe wo,Maafe.,0.5,0.2857
+409,Enyin sen me,Eyi ne me sãm.,1.0,0.6
+410,Mepawokyɛw mara so medaase,Me kɔ akyerɛw m'ani so meda ase.,1.5,0.3478
+411,Ɔbɛbuei n'enyinwa ɔkyena,Oboboe ne enyewa ochinaa.,1.3333,0.5714
+412,Ɔtse dɛn?,ɔte dɛn?,0.5,0.1429
+413,Daadze bi twa daadze bi mu,"Daabi, cha daabi mu.",0.8333,0.381
+414,Nsu kɔm dze me,Ensuo komdzin me.,0.75,0.4545
+415,Morodwen wo ho,Mary Jane,1.0,0.75
+416,Hɔn tsir,pencil,1.0,0.7143
+417,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Me pɛ dɛ ɛyɛ aban adwuma,1.25,0.4737
+418,Mo ho ye paa,Mahu ye pa.,0.75,0.3333
+419,Daadze bi twa daadze bi mu,Daabi biara daabi bi,0.8333,0.4762
+420,Mma aboa bi twee,Maa abue bíchin.,1.0,0.6154
+421,Maafe wo,Matthew,1.0,0.5714
+422,Ngo a oguu asuafo no do,"Ɛgo a, ɛgo, ɛsɔ afɔnido.",0.8333,0.4444
+423,"Me sika no, woaka ahen?",Me sika no wa ka hen?,0.6,0.1176
+424,kɔm dze me,Akomfem,1.0,0.625
+425,Efi hen?,Efie,1.0,0.3333
+426,Nyew,inyo,1.0,0.75
+427,Akwaaba,Akwaba.,1.0,0.1429
+428,Oye,Oye.,0.0,0.0
+429,ɛretɔ egu ɛbɛn number do,Aritego ebe namba do,0.8,0.5
+430,Huana egua,Wone hwan?,1.0,0.7778
+431,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Mepawokyew, meretɔ credits.",0.5714,0.1053
+432,Maafe wo,Maa sew.,1.0,0.2857
+433,"Oho, Oho, me pɛdɛ mo tɔ","Oho oho, me pɛdeɛ a montɔ.",0.5,0.1875
+434,Huana egua,Mewim egua.,0.5,0.5556
+435,Ma me bi,Mami B,1.0,0.3333
+436,Ese dɛn,accident,1.0,1.0
+437,Bra ha,Bra.,0.5,0.4
+438,Dan mu,danmu,1.0,0.0
+439,Abofraba no tow ndwom,Abufaban twomtwom,1.0,0.3889
+440,Tsew do ma me,Sɛ odumane.,1.0,0.5
+441,Ebɔtum akyerɛ me hɔ ?,Ebetumi akyerɛ mu hɔ.,0.5,0.1875
+442,Gye dzi,tease,1.0,0.8333
+443,Bra ha,Braha,1.0,0.0
+444,Ɔbɛbuei n'enyinwa ɔkyena,Oboboni ne nea ekyina.,1.3333,0.4762
+445,Eka brɔfo a?,ɛka brao fa,1.0,0.4444
+446,Osiandɛ,O Sunday,2.0,0.5714
+447,Mepawokyɛw m'asesa m’adwen,"Mepawkyew, ma me sika m'adwen.",1.3333,0.2273
+448,Medaase mensa aka,"Medaase, mensa aka.",0.0,0.0
+449,Adwoa Aboagye,Ajuwa Abugye,1.0,0.4167
+450,Mtn,MTN,0.0,0.0
+451,Ntsi ɔtɔɔ afe fa bi,Mete otɔɔ afifa bi.,0.8,0.4
+452,Afehyia pa,afishapa,1.0,0.4444
+453,Kɔr dua bi ekyir,Kwadwo Baah Wiredu,1.0,0.8462
+454,Wɔ adwontow kuw bi mu,Wo adwen to kɔɔ bi mu.,0.8,0.2941
+455,Kɔr dua bi ekyir,Kodie B.H.,1.0,0.6923
+456,Ɔsow aba pii,Oso Ababio,1.0,0.4
+457,Ewie a,Ewiase,1.0,0.6
+458,Nyimpa nnyɛ,Nipa nyɛ.,1.0,0.3
+459,Adwoa Aboagye,Ajuwa Abua Agyei,1.5,0.5
+460,Yaw na Ama,Yaw na Ama,0.0,0.0
+461,Ɔbɛbuei n'enyinwa ɔkyena,Opoku Nene Nua Ɔchina,1.3333,0.5714
+462,W'edzi nkɔmbɔ mprɛnsa,W'ayɛzi nkomonhyeɛ.,1.0,0.6667
+463,"Me sika no, woaka ahen?",Me si kanovaa kae.,0.8,0.2941
+464,Nokwar dze nyimpa bɛn owu ho,"Nokware, denipa ben owu?",0.8333,0.3043
+465,Oye,Oye.,0.0,0.0
+466,Abofraba yi,Abofra bi,1.0,0.2
+467,"Kosɛ, Mannhyɛ daara",Me nsa daara.,0.6667,0.5625
+468,Yoo medaase,"Yoo, medase.",0.5,0.1
+469,Bi deda bi ekyir,Ebi dida ebi akyu.,1.0,0.4615
+470,Nyew,enyo,1.0,0.75
+471,Mber nnyi hɔ,Mbre nyaho.,1.0,0.4
+472,Me hia wo mboa,Me hia womboa.,0.5,0.0
+473,Nyew,inyo,1.0,0.75
+474,Osiandɛ,Oseɛadeɛ,1.0,0.5714
+475,Oho,Oho.,0.0,0.0
+476,Efi hen?,ɛfiri hen?,0.5,0.5
+477,Na Ɔkɔ kɔ wui,na okokoo,0.75,0.6
+478,Ɔbɛbuei n'enyinwa ɔkyena,Ɔgbọgbɔ ɛne ɛnua Ọchina,1.3333,0.6667
+479,Ebɛn Number na ɛpɛde ɛtɔ gu du?,Ebe number na opede etogudo?,0.7143,0.2917
+480,Noho ayɛ fi paa,Nwowaa yɛ fɛ paa.,0.75,0.3333
+481,Boa me,Bawame.,1.0,0.4
+482,Abofraba yi,Abofra bey.,1.0,0.2
+483,Yaw na Ama,Yɛwɔ na ama.,0.3333,0.25
+484,Mo ho mmfa me,moho fam,1.0,0.3
+485,Mepawokyɛw mara so medaase,"Mepawakyew, mmarima asomdwee nka wo.",1.25,0.5652
+486,Nyew,Enyo.,1.0,0.75
+487,Ahoɔfɛw nntua ka,Ahoɔfɛ nkyia ka.,0.6667,0.2857
+488,Eka brɔfo a?,Kakra brofo.,1.0,0.5556
+489,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Mepæ deɛ m'awura credit na mozugu MTN number do.,0.5455,0.2778
+490,To do ma me,Choto mami,1.0,0.5
+491,Enyin sen me,Ɛnyɛ nsem.,1.0,0.4
+492,Fa to hɔ,fa tu ho,0.6667,0.3333
+493,Me credit no aka ahen?,Me credits no aka hye.,0.4,0.2353
+494,Nyew,Mmm yoo.,2.0,1.25
+495,Ahoɔfɛw nntua ka,Ahomafene tie ka.,0.6667,0.5
+496,Ɔsowee ara pɛ,Osofo Arapete,1.0,0.6364
+497,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Bosomtwe Rural Credit.",0.4286,0.3684
+498,Nyew,inyo,1.0,0.75
+499,Huana egua,Hwanegwa,1.0,0.3333
+500,Meda wo ase,Meda wo ase.,0.0,0.0
+501,Fa to hɔ,fa tu ho,0.6667,0.3333
+502,Morohwehwɛ Yaw,Me se se yaa.,2.0,0.6923
+503,Ahoɔfɛw nntua ka,Ahoɔfe nti aka.,1.0,0.2857
+504,Fa to hɔ,fa choho,0.6667,0.5
+505,Ahoɔfɛw nntua ka,Ahoɔfɛ wo nti aka,1.3333,0.1429
+506,Meda wo ase,Meda wo ase.,0.0,0.0
+507,Meda wo ase,Meda wo ase.,0.0,0.0
+508,Me nsa aka,Mensa Aka,0.6667,0.0
+509,Ma me bebiree,mami bebree,1.0,0.1818
+510,Nyew,Enyo.,1.0,0.75
+511,Afehyia pa,afisie apa,1.0,0.4444
+512,Medaase mensa aka,"Medaase, mensaaka.",0.6667,0.0
+513,Akwaaba,Akwabaa,1.0,0.2857
+514,Bi deda bi ekyir,Ebi dida ebi akyiri.,1.0,0.3846
+515,Afehyia pa,afisie apa,1.0,0.4444
+516,Mtn,MTN,0.0,0.0
+517,To ndwom,twomtwom,1.0,0.4286
+518,Nyew,inyo,1.0,0.75
+519,Dze susu sika no tɔɔ bɔɔl,Susu ka no to ball.,0.6667,0.45
+520,ɛkɔm dze me,akomdɛmɛ,1.0,0.5556
+521,Nyimpa nnyɛ,Nipa nye.,1.0,0.4
+522,Efi hen?,Efri hen?,0.5,0.1667
+523,Nye dza Osei dze yɛɛ buburo yi,Lisa oseɛzi yɛ obuburoyi.,1.0,0.375
+524,Kosɛ,kuse,1.0,0.5
+525,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Mepɛ dɛ mɛtɔ credit na mɛji gu MTN number so.,0.5455,0.1667
+526,Oye,Oye.,0.0,0.0
+527,Dan mu,danni,1.0,0.4
+528,Ne yer,Meye,1.0,0.4
+529,Tsew do ma me,Sodomano,1.0,0.5
+530,Afehyia pa,afia pa,0.5,0.3333
+531,Afehyia pa,afishiaapa,1.0,0.4444
+532,Efow dua pa a na wo pia wo  push,Efiri dua pa na epia wo.,0.5556,0.4348
+533,Mepawokyɛw mara so medaase,Me first one na nae. Me,1.5,0.7391
+534,Mber nnyi hɔ,M'abere nyinaa.,1.0,0.5
+535,Hyɛ n'enyim tee,Sɛn na ɛnim teɛ?,1.3333,0.5833
+536,Ahoɔfɛw nntua ka,Ɔhoɔfɛw nti akaw,1.0,0.2857
+537,Medaase mensa aka,Medaase menseɛ aka.,0.3333,0.1333
+538,Tsir kor nnkɔ egyina,Twi kasa mu kyerɛ dɛn?,1.25,0.7647
+539,Maafe wo,mafiu,1.0,0.5714
+540,Ewi no rehwehwɛ ehu,Ewi no rekyerɛ ɛwmu.,0.5,0.375
+541,Wɔ adwontow kuw bi mu,Wo adontenkuo bi mu.,0.6,0.2941
+542,Me credit no aka ahen?,Me credits no aka hēn?,0.4,0.1765
+543,Medaase Nyankopɔn nhyira wo,Medase Nyankopɔn nsɛro.,0.75,0.25
+544,Wɔ adwontow kuw bi mu,Wo akyene to kuro bi mu.,0.8,0.4706
+545,Maafe wo,Maame fie.,1.0,0.5714
+546,"M'ehu, m'ayɛ ewie",Me ho maaye yie.,1.3333,0.3333
+547,Medaase Nyankopɔn nhyira wo,Medaase nyankopɔn is show.,0.5,0.2917
+548,Maafe wo,maame,1.0,0.4286
+549,Tsew do ma me,Twediampon,1.0,0.7
+550,No mu biara,nomu biara,0.6667,0.0
+551,M'ayew,Mayɛw.,1.0,0.2
+552,Oye,Oye.,0.0,0.0
+553,Mo ho mmfa me,Me ho nsam.,0.75,0.5
+554,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Mepɛ dɛ metɔ credit na mede gu MTN number do.,0.4545,0.0556
+555,Ɔsowee ara pɛ,ɔsɔre a arape,1.0,0.3636
+556,"Kosɛ, Mannhyɛ daara","Kuse, me nsa da wo ho.",2.0,0.6875
+557,Na Ɔkɔ kɔ wui,na okoko wie,0.75,0.5
+558,Nsu kɔm dze me,Me su kom zime.,1.0,0.4545
+559,Akwaaba,akwaba,1.0,0.1429
+560,Dɛm ara,demara,1.0,0.1667
+561,To do ma me,Sodo mami,1.0,0.25
+562,Mepawokyɛw m'asesa m’adwen,Okyeman so mpo.,1.0,0.6818
+563,Hɔn tsir,Kwame,1.0,1.0
+564,Mepawokyɛw nyew,Mpocho nyu.,1.0,0.6429
+565,Yaw na Ama,Yaw na Amma,0.3333,0.125
+566,Ebɔtum akyerɛ me hɔ ?,M'abotum akyerɛ mo hɔ.,0.5,0.25
+567,Nsu kɔm dze me,Nsuo kɔntɛme,1.0,0.4545
+568,Meda wo ase,Me daa ase.,0.6667,0.2222
+569,Ntsi ɔtɔɔ afe fa bi,nti otɔɔ afife bi,0.8,0.2667
+570,Morohwehwɛ Yaw,M'ani sɔ sɛ yɛhyiawo.,2.0,0.8462
+571,Daadze bi twa daadze bi mu,"Daabi, daabi mu.",0.8333,0.4286
+572,Translation: By the roadside,Wɔn kwan chain.,1.0,0.75
+573,To do ma me,Trodor Mame,1.0,0.25
+574,Me hia wo mboa,Me hia wo mboa.,0.0,0.0
+575,Tsir kor nnkɔ egyina,Tikorɔ ɛnkɔ eji na.,1.0,0.3529
+576,Ahoɔfɛw nntua ka,Ahomafɛ ntoma,1.0,0.5
+577,Oye,Oye.,0.0,0.0
+578,Dan mu,dani mu,0.5,0.2
+579,Ahoɔfɛw nntua ka,Ahomfɛntene yɛ ka.,0.6667,0.5
+580,kɔm dze me,Kɔm dɛmɛ,0.6667,0.375
+581,Dan mu,Danni mo.,1.0,0.6
+582,Ɔbɛbuei n'enyinwa ɔkyena,Obegbe ne niwa ochina.,1.3333,0.5238
+583,Gye dzi,jersey,1.0,1.0
+584,Ma hɔn ho yɛ huam,M'ahohunu yie hwan?,1.0,0.6923
+585,Dze susu sika no tɔɔ bɔɔl,Jesus so si kanu to ball.,1.0,0.45
+586,Nantsew yie  farewell,Nantso yi.,1.0,0.6111
+587,Tuu no,tsu no,0.5,0.2
+588,Mber nnyi hɔ,Mmueni ho.,1.0,0.6
+589,Oho,Oho.,0.0,0.0
+590,Afehyia pa,ofishapa,1.0,0.5556
+591,Sua adze,Sia Ase,1.0,0.4286
+592,Wɔ adwontow kuw bi mu,Wo adwen tu ku bi mu.,0.8,0.2941
+593,Ɔsow aba pii,ɔso abapi,1.0,0.2
+594,Dza odzi kan,gya odikani,1.0,0.4
+595,Dɛm ɔkɔr no,Dɛm occur no,0.3333,0.4444
+596,ɔyɛ fɛw,Oye fo.,1.0,0.6667
+597,Me nsa aka,Mensa Aka,0.6667,0.0
+598,Ɔtse dɛn?,accident,1.0,0.8571
+599,Ese dɛn,accident,1.0,1.0
+600,Tsew do ma me,Soro ma.,0.75,0.6
+601,"M'ehu, m'ayɛ ewie",Me hu mayɛ wi.,1.0,0.1667
+602,Me nsa aka,Mensaaka,1.0,0.0
+603,Tsew do ma me,Tew domam.,1.0,0.2
+604,Kyerɛw ma me,"True, mummy.",1.0,0.8
+605,"Oho, Oho, me pɛdɛ mo tɔ",Oho oho mepɛ dɛɛmɔtɔ.,0.6667,0.125
+606,Tuu no,tunu,1.0,0.4
+607,Mepawokyɛw,Ciao ciao.,2.0,0.8
+608,Sɔ kandzea no,Sɔkan zinu,1.0,0.3636
+609,Morohwehwɛ Yaw,Me wɛ sɔre yie.,2.0,0.8462
+610,To do ma me,Todonmame,1.0,0.125
+611,Hwɛ sor,Chers sœurs,1.0,1.1667
+612,Yaw na Ama,Yɛawu na amma.,0.6667,0.375
+613,Ɔbɛbuei n'enyinwa ɔkyena,Obubuafo ne nua ochina,1.3333,0.619
+614,Hwɛ sor,chasseur,1.0,0.8333
+615,Huana egua,M'ani agwa.,1.0,0.5556
+616,Oho,Oho.,0.0,0.0
+617,Nyew,inyo,1.0,0.75
+618,To do ma me,Todoma me.,0.75,0.0
+619,Me pɛdɛ mo tɔ credit na medze gu mtn number do,Mepɛ dɛm moto credit na me zigo MTN number do.,0.5455,0.1389
+620,Me nsa aka,Mensaaka,1.0,0.0
+621,Afehyia pa,afushia pa,0.5,0.3333
+622,ɔkɔtɔ nnwo anoma,ɔkɔtɔ nwanu ma,0.6667,0.2143
+623,Sɔ kandzea no,Sɔkanti anu.,1.0,0.3636
+624,Nye dza Osei dze yɛɛ buburo yi,Neɛ da osagyefoɔ Kwame Nkrumah,1.0,0.875
+625,Morodwen wo ho,M'adwen wu.,1.0,0.5
+626,Ebɔtum akyerɛ me hɔ ?,Obotim akyerɛ me hɔ.,0.25,0.1875
+627,Medaase,Medaase.,0.0,0.0
+628,To ndwom,So nyam,1.0,0.5714
+629,Abofraba yi,abofra bɛn,1.0,0.3
+630,Mber nnyi hɔ,Mberɛ inihɔ.,1.0,0.3
+631,Adwoa Aboagye,Agya Abwaje,1.0,0.5
+632,Dan mu,dane mu,0.5,0.2
+633,Afehyia pa,afisia pa,0.5,0.3333
+634,Tsew do ma me,Sodoma,1.0,0.5
+635,Abofraba yi,Abofra bi,1.0,0.2
+636,Nyimpa nnyɛ,Mepa wo kyew.,1.5,0.9
+637,Dza odzi kan,gya wo gyikan,1.0,0.5
+638,Ese dɛn,Sɛ dan.,1.0,0.5
+639,Sɔ kandzea no,Sɔka nne ano.,1.0,0.1818
+640,Ɔsow aba pii,Osofo Abatee,1.0,0.6
+641,Na biribiara dwoe,na biribiara gyaw wo,0.6667,0.3333
+642,Medaase mensa aka,Medaase me nsa ka.,1.0,0.0667
+643,W'edzi nkɔmbɔ mprɛnsa,Wedi nkomo mprempra.,1.0,0.4444
+644,Tsew do ma me,Sodomase,1.0,0.4
+645,Boa me,bɔ me,0.5,0.4
+646,Ɔsowee ara pɛ,Osofo Otabil,1.0,0.8182
+647,Medaase Nyankopɔn nhyira wo,Medaase Nyankopɔn show.,0.5,0.25
+648,Dɛm ara,Damara,1.0,0.1667
+649,ɛkɔm dze me,Akoma Zime,1.0,0.4444
+650,Noho ayɛ fi paa,Nuhu ayɛ fɛ paa.,0.5,0.25
+651,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Mepawokyew, meretɔ credits.",0.5714,0.1053
+652,"Oho, Oho, me pɛdɛ mo tɔ","Oho oho, me pɛ da moto.",0.5,0.125
+653,Enyin sen me,Ɛneɛ mɛntɛm me.,0.6667,0.8
+654,Morohwehwɛ Yaw,M'ani sɔ ne ho.,2.0,0.8462
+655,Mefir Ghana,Me fie Ghana.,1.0,0.1
+656,Medaase,Medase.,1.0,0.1429
+657,Dan mu,Danmo,1.0,0.2
+658,Mepawokyɛw nyew,"Me pa wo kyɛw, inno.",2.5,0.2857
+659,W'edzi nkɔmbɔ mprɛnsa,We di in common sense.,1.6667,0.5556
+660,Dza odzi kan,Za ozi khan,1.0,0.3
+661,Ntsi ɔtɔɔ afe fa bi,Enti ɔtoo afefeɛ bi.,0.8,0.4
+662,Nantsew yie  farewell,M'antu wie.,1.0,0.6667
+663,Enyin sen me,Ɛneɛ mesom wo.,1.0,0.9
+664,Ɔsow aba pii,ɔsɔ abapi,1.0,0.3
+665,Kosɛ,Kofi,1.0,0.5
+666,Noho ayɛ fi paa,No hay ife pa.,1.0,0.3333
+667,Nyimpa nnyɛ,Nyimpa nye.,0.5,0.2
+668,Oho,Oho.,0.0,0.0
+669,Ebɛn Network?,Abena network,0.5,0.2727
+670,Mepawokyɛw me pɛdɛ mo tɔ mtn credit,"Mepawokyew, mepɛ dɛ mɛtɔ MTN credits.",0.8571,0.1034
+671,Abofraba no tow ndwom,Abusuapanin Twumgyam,1.0,0.6667
+672,Morodwen wo ho,Mmereɛ dɛn na wohu?,1.3333,0.6667
+673,Nokwar dze nyimpa bɛn owu ho,Nokware din mpa bɛn owu ho?,0.5,0.2174
+674,Pia no biom,piano biaa,1.0,0.2222
+675,Boa me,bɔ me,0.5,0.4
+676,Mepawokyɛw mara so medaase,Mpaebo ma wo so medaase.,0.75,0.3913
+677,Me pɛdɛ mo tɔ credit na medze gu mtn number do,"Mepawakyew, fa credit na mezego MTN number do.",0.5455,0.3056
+678,Mo ho mmfa me,mohoanfuo,1.0,0.5
+679,Dum kandzea no,dumkanzi ano,1.0,0.1667
+680,"Oho, Oho, me pɛdɛ mo tɔ","Oho oho, mperɛ metɔɔ.",0.6667,0.3125
+681,Mo ho mmfa me,M'ani mfam.,1.0,0.5
+682,Efi hen?,efri,1.0,0.6667
+683,Nyew,Enyo.,1.0,0.75
+684,Pia no biom,piano biom,0.6667,0.0
+685,Ko buu no,Kobuonu,1.0,0.2857
+686,Nyew,Inya.,1.0,0.75
+687,Mber nnyi hɔ,Mberɛ yi ho.,1.0,0.3
+688,To do ma me,Tudu mami,1.0,0.375
+689,Mo ho ye paa,muhye paa,0.75,0.2222
+690,Medaase mensa aka,Meda ase mensa aka.,0.6667,0.0
+691,Ma hɔn ho yɛ huam,M'awu ho yie hwan?,0.8,0.5385
+692,Ese dɛn,accident,1.0,1.0
+693,Nyew,Iyi,1.0,0.75
+694,ɛpɛ ebɛnadze,Ebenezer,1.0,0.6364
+695,Tuu no,Tuo no.,0.5,0.2
+696,Adwoa Aboagye,Ajuwa Boadje,1.0,0.5
+697,"Me sika no, woaka ahen?",Me sika nu wo ka ahin?,0.8,0.1765
+698,Morohwehwɛ Yaw,M'ani sɔ yɛn.,1.5,0.8462
+699,Gye dzi,JC,1.0,1.0
+700,Tsentsen no,Sɛn sɛn no?,1.0,0.4
+701,Bra ha,braha,1.0,0.0
+702,Ɔsow aba pii,Osu Abapi,1.0,0.4
+703,ɔno ekyir no,ɔnweɛ tui nu,1.0,0.6
+704,Ɔmee nye Ɔfe,ɔmenye ofe,1.0,0.2
+705,Nokwar dze nyimpa bɛn owu ho,Nokware di me pa ben owu hu.,1.0,0.3043
+706,Ma me bi,Mame bi.,0.6667,0.0
+707,Noho ayɛ fi paa,Mewaei paa.,0.75,0.5833
+708,Ɔsow aba pii,ɔso abɛpii,1.0,0.2
+709,Nantsew yie  farewell,Nantuo yie.,0.6667,0.6111
+710,Meda wo ase,Nedaase.,1.0,0.3333
+711,Kyerɛw ma me,"Ciao, mami.",1.0,0.7
+712,Kyerɛw ma me,Choma me.,0.6667,0.6
+713,Ewie a,Ewiase,1.0,0.6
+714,Mo ho ye paa,Me hu yɛ paa.,0.75,0.3333
+715,Wɔ adwontow kuw bi mu,Wo agyaentukuo bi mu.,0.6,0.4706
+716,Mepawokyɛw nyew,Mepakyew nyew.,0.5,0.2143
+717,Hwɛ sor,Hwɛ sɔɔl.,0.5,0.5
+718,Kɔr dua bi ekyir,Kwadwo Baah Wiredu,1.0,0.8462
+719,To ndwom,Tsonjon,1.0,0.5714
+720,Maafe wo,maame,1.0,0.4286
+721,Me nsa aka,Me nsaka.,0.6667,0.125
+722,Na biribiara dwoe,Na biribiara nni hɔ.,0.6667,0.3333
+723,Huana egua,Woyere gwa.,1.0,0.6667
+724,Ebɔtum akyerɛ me hɔ ?,About two months na me ho.,1.25,0.875
+725,Nye dza Osei dze yɛɛ buburo yi,Me dwen sɛ ɔsɛdi yɛn bubuui.,1.0,0.625
+726,Ebɔtum akyerɛ me hɔ ?,Ebotsuma kyerɛ me ho.,0.75,0.1875
+727,Hwɛ sor,Sɛ soɔ.,1.0,0.5
+728,Modɔ wo,mudo,1.0,0.5
+729,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Pɔchamu re, yɛtɔ create.",0.5714,0.4211
+730,Bra ha,Braha,1.0,0.0
+731,Translation: By the roadside,Wɔn kwan cen.,1.0,0.8333
+732,Na Ɔkɔ kɔ wui,na akoko wii,0.75,0.4
+733,Meda wo ase,medawase,1.0,0.1111
+734,Nyew,ennyew,1.0,0.5
+735,Ma me bebiree,Mami Bebree,1.0,0.1818
+736,Ese dɛn,Aseda.,1.0,0.5
+737,Yɛ wɔ,Yɛwɔ,1.0,0.0
+738,Gye dzi,Gyezi,1.0,0.1667
+739,Wɔ adwontow kuw bi mu,wɔ agyan tuku bin,0.8,0.4706
+740,Dze susu sika no tɔɔ bɔɔl,"Ise, susu sika no toɔ bɔɔl.",0.3333,0.15
+741,Dɛm ara,The Mara,1.0,0.5
+742,Nokwar dze nyimpa bɛn owu ho,Nokorɛ gyinapɛn owu hu.,0.8333,0.4348
+743,Nokwar dze nyimpa bɛn owu ho,Nokware zinyimpa ben owu hu.,0.8333,0.1739
+744,Ne yer,Neyyar,1.0,0.4
+745,Ntsi ɔtɔɔ afe fa bi,Nti ɔtɔɔ afife bi,0.6,0.2
+746,"Oho, Oho, me pɛdɛ mo tɔ",Oho oho mepɛ dɛm mɛto.,0.6667,0.1875
+747,Morodwen wo ho,Me yere ne wo ho.,1.0,0.5
+748,Mefir Ghana,Me fri Ghana.,1.0,0.2
+749,Hyɛ n'enyim tee,Sɛnneɛ na emu teɛ?,1.3333,0.6667
+750,Efow dua pa a na wo pia wo  push,Ɛfɔɔ diapaa nna wupia.,1.0,0.5217
+751,Ntsi ɔtɔɔ afe fa bi,"Nti, akyerɛ afefee bi.",0.8,0.6
+752,"Me sika no, woaka ahen?",Me sika no waa ka hĩ.,0.6,0.2353
+753,Abofraba no tow ndwom,Abofra ba no tu njo.,1.0,0.2778
+754,Fa to hɔ,fatuo,1.0,0.5
+755,Etse brɔfo a?,Etse brofoa.,0.6667,0.1
+756,Nantsew yie  farewell,Naa nso yɛ.,1.0,0.7778
+757,ɔno ekyir no,ɔno ekyiri nu,0.6667,0.2
+758,ɛpɛ ebɛnadze,Ebenezer,1.0,0.6364
+759,Efi hen?,efrihen,1.0,0.1667
+760,Mo ho ye papaapa,Me hu yɛ papa apa.,1.25,0.2308
+761,Oho,Aane.,1.0,1.3333
+762,Modɔ wo,medo,1.0,0.5
+763,Sɔ kandzea no,Sankofaane,1.0,0.6364
+764,Tsentsen no,Tenten no,0.5,0.2
+765,Ɔmee nye Ɔfe,ɔmanhene ofe,1.0,0.5
+766,Gye dzi,Jeti,1.0,0.6667
+767,Nyew,Enyo.,1.0,0.75
+768,Sɔ kandzea no,sɔkanzi ano,1.0,0.1818
+769,Oye,Oye.,0.0,0.0
+770,Tuu no,Tuno,1.0,0.2
+771,Nantsew yie  farewell,Nanso ye.,1.0,0.6667
+772,Ne yer,mayor,1.0,0.6
+773,Dan mu,tanmu,1.0,0.2
+774,Na biribiara dwoe,Na biribiara nni so.,0.6667,0.3333
+775,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Me pawkyɛw, merehwe credit.",0.4286,0.1579
+776,Nantsew yie  farewell,Nante yie.,0.6667,0.5556
+777,ɛretɔ egu ɛbɛn number do,Arukuteegu ibe namba du,1.0,0.6
+778,kɔm dze me,Kɔm nzemɛ.,0.6667,0.25
+779,Me pɛdɛ mo tɔ credit na medze gu mtn number do,"Mepawokyew, fa me MTN number do.",0.7273,0.4722
+780,Ko buu no,Kobuuno,1.0,0.0
+781,Ma me bi,Mami B,1.0,0.3333
+782,ɛpɛ ebɛnadze,Ebenezer,1.0,0.6364
+783,Ɔsowee ara pɛ,ɔsɔɔ yera pɛ,0.6667,0.3636
+784,Oho,Oho.,0.0,0.0
+785,Iyinom nyinara yɛ wodze,ɛyɛ nnom nyinaa ara yɛ huza,1.25,0.45
+786,Dza ohuu wɔ nkran,Saa ohunwa nka.,1.0,0.4286
+787,"Kosɛ, Mannhyɛ daara","Kɔse, ma nsha daara.",1.0,0.3125
+788,ɛkɔm dze me,ɛka me,0.6667,0.5556
+789,"M'ehu, m'ayɛ ewie",Me hu ma ye wie.,1.6667,0.0833
+790,Ese dɛn,F den,1.0,0.6667
+791,Ebɔtum akyerɛ me hɔ ?,Igwetsem achirem ho.,1.0,0.75
+792,"M'ehu, m'ayɛ ewie",मैं हूं माया देवी।,1.3333,1.0
+793,"M'ehu, m'ayɛ ewie",Me ho ma ye wie.,1.6667,0.1667
+794,Translation: By the roadside,Wo nko nkyɛn.,1.0,0.8333
+795,Me nsa aka,Me nsaka.,0.6667,0.125
+796,Maafe wo,mafio,1.0,0.4286
+797,Nyew,Nnyu,1.0,0.75
+798,Tuu no,suno,1.0,0.4
+799,Iyinom nyinara yɛ wodze,Eyi nyinaa yɛ wo dea.,1.0,0.35
+800,Translation: By the roadside,Wɔnkwa nkyɛn.,1.0,0.8333
+801,Oho,Oho.,0.0,0.0
+802,W'edzi nkɔmbɔ mprɛnsa,Wei ne wo kɔmɔn prince a?,2.0,0.5556
+803,Kosɛ,Kose.,1.0,0.25
+804,Anyew ebaasa,Akyɛw ebaasa.,0.5,0.1818
+805,Sɔ kandzea no,sɔkandea nu,1.0,0.1818
+806,Osiandɛ,Osade,1.0,0.4286
+807,Hɔn tsir,want to,1.0,0.7143
+808,Nokwar dze nyimpa bɛn owu ho,Nokware nyinaa ben owu wu.,0.8333,0.3043
+809,ɛpɛdɛ ɛyɛ ebɛnadze ndɛ?,Edeɛ ɛyɛ abanazi ɛnde?,0.75,0.5263
+810,Nantsew yie  farewell,Nantuo yie.,0.6667,0.6111
+811,Huana egua,Mene gwa.,1.0,0.5556
+812,Dɛm ɔkɔr no,Dwam akwantu,1.0,0.7778
+813,Nsu,nsuro,1.0,0.6667
+814,Boa me,Bɔm.,1.0,0.6
+815,Etse brɔfo a?,Etsi Brofo,1.0,0.3
+816,Ahoɔfɛw nntua ka,Ahoɔfɛ wuntua ka.,0.6667,0.0714
+817,Meda wo ase,Medaase.,1.0,0.2222
+818,ɔkɔtɔ nnwo anoma,Okoto nwaa no ma.,1.3333,0.3571
+819,Oho,Oho.,0.0,0.0
+820,Epoowbɔ nnyɛ,ɛpɔbɔ nye,1.0,0.5455
+821,Abofraba no tow ndwom,Abofra ba no too njoom.,1.0,0.1667
+822,Ntsi ɔtɔɔ afe fa bi,Nti otoo afife,1.0,0.5333
+823,Sua adze,Siaze,1.0,0.4286
+824,Etse brɔfo a?,Et c'est pour toi.,1.3333,0.9
+825,Nyimpa nnyɛ,Nimpanye.,1.0,0.3
+826,Ewi no rehwehwɛ ehu,Ɛdeɛn na wushia wo ho?,1.25,0.875
+827,Na biribiara dwoe,Na biribiara nni hɔ.,0.6667,0.3333
+828,Meda wo ase,medawase,1.0,0.1111
+829,Bi deda bi ekyir,ebiridie ebiyechu,1.0,0.8462
+830,Mepawokyɛw me pɛdɛ mo tɔ mtn credit,"Me pa wo kyaw, mepɛ dɛ mɛtɔ MTN credit.",1.0,0.069
+831,Mo ho ye papaapa,Me hu yɛ papaapa.,0.75,0.2308
+832,Dza ohuu wɔ nkran,Enti ɔtoo afifie bi,1.0,1.1429
+833,Eka brɔfo a?,Eka aburofo a,0.3333,0.3333
+834,Ne yer,Neyo,1.0,0.4
+835,Dɛm ɔkɔr no,Yem akwadaa no.,0.6667,0.8889
+836,Mepawokyɛw m'asesa m’adwen,"Mepaakyew, ma me sika ma me adwene.",2.3333,0.4545
+837,ɛpɛ ebɛnadze,Ebenezer,1.0,0.6364
+838,Tuu no,Tuo no.,0.5,0.2
+839,Boa me,boa me,0.0,0.0
+840,Mepawokyɛw,Me paakyɛw.,2.0,0.2
+841,Nsu kɔm dze me,Nsukwa bonzemi,1.0,0.5455
+842,Mepawokyɛw nyew,"Me pawkyɛw, inno.",1.5,0.3571
+843,Nye dza Osei dze yɛɛ buburo yi,Yɛn gyae ɔsɛe di yɛn bubu.,1.0,0.6667
+844,"Kosɛ, Mannhyɛ daara",Kusumansa daara,0.6667,0.375
+845,Abofraba yi,Abusua bɛɛ,1.0,0.6
+846,Hyɛ n'enyim tee,Sɛ ɛnni mu tiin.,1.3333,0.6667
+847,Efow dua pa a na wo pia wo  push,Efie hɔ diapane wopɛɛ?,1.0,0.6522
+848,Bra ha,Braha,1.0,0.0
+849,Mepawokyɛw,Mepa wo kyɛw.,3.0,0.0
+850,Osiandɛ,Osono deɛ,2.0,0.5714
+851,Hyɛ n'enyim tee,Sɛɛ ne nyimpa ti.,1.3333,0.5
+852,ɛkɔm dze me,ɔkwamzini,1.0,0.7778
+853,Kyerɛw ma me,Trow me.,0.6667,0.6
+854,Mepawokyɛw nyew,"Me pa wo kyew, inyo.",2.5,0.2857
+855,Ngo a oguu asuafo no do,Ongo a ogu esiafo no do,0.5,0.2222
+856,Sua adze,Siaase,1.0,0.4286
+857,Mtn,MTN,0.0,0.0
+858,Bra ha,Braha.,1.0,0.0
+859,Dan mu,danmu,1.0,0.0
+860,Ntsi ɔtɔɔ afe fa bi,"Nti, otuo afifide bi.",0.8,0.5333
+861,Ese dɛn,Asɛm den.,1.0,0.6667
+862,Sua adze,Sɛ adie.,1.0,0.4286
+863,Ɔmee nye Ɔfe,Oman ne fie.,1.0,0.6
+864,Oho,Oho.,0.0,0.0
+865,Mefir Ghana,Me fie Ghana.,1.0,0.1
+866,Ɔsow aba pii,Osofo Ampiah,1.0,0.7
+867,Dza odzi kan,Zaa ozikan.,1.0,0.3
+868,Ɔsowee ara pɛ,Osoro yɛ rape.,1.0,0.5455
+869,Mtn,MTN,0.0,0.0
+870,Etse brɔfo a?,Etc.,1.0,0.8
+871,Ma hɔn ho yɛ huam,M'awu onini huan.,1.0,0.6154
+872,Oye,Oye.,0.0,0.0
+873,Na Ɔkɔ kɔ wui,na okoko wi,0.75,0.4
+874,Tsentsen no,Tenten,1.0,0.4
+875,Me nsa aka,Mensaaka,1.0,0.0
+876,Adwoa Aboagye,atua aboa gye,1.5,0.25
+877,Mepawokyɛw nyew,Mepaakyew.,1.0,0.4286
+878,Abofraba yi,abofra bi,1.0,0.2
+879,Ye be hyia bio,Ebehyia bio.,0.75,0.0909
+880,ɛpɛ ebɛnadze,Epe ebe na adey?,2.0,0.5455
+881,Dan mu,danu,1.0,0.2
+882,Ɔsowee ara pɛ,Osei Appiah,1.0,0.8182
+883,Sɔ kandzea no,Sokanya,1.0,0.5455
+884,Tu mbirika,Tumbika,1.0,0.2222
+885,Mo ho mmfa me,home phone,1.0,0.7
+886,ɛkɔm dze me,Ɛkom sene me.,0.6667,0.4444
+887,ɛretɔ egu ɛbɛn number do,Ɛretwa ego ebe na mbodo?,1.0,0.45
+888,Ewie a,ewia,1.0,0.2
+889,Dum kandzea no,Tumka ni yanu.,1.0,0.4167
+890,Mber nnyi hɔ,M'adwene ni ho.,1.0,0.7
+891,Ɔmee nye Ɔfe,Oman ofe.,1.0,0.6
+892,Mo ho ye paa,Muhu yie paa.,0.75,0.3333
+893,M'ayew,mayo,1.0,0.4
+894,Efow dua pa a na wo pia wo  push,Afoɔ dwapa na wopɛɛ.,0.8889,0.5217
+895,Medaase mensa aka,"Medaase, me nsa ka.",1.0,0.0667
+896,Translation: By the roadside,Wɔn kwan sen?,1.0,0.8333
+897,Me credit no aka ahen?,Me credit na kahen?,0.6,0.1176
+898,Mepawokyɛw nyew,Mepaakyew.,1.0,0.4286
+899,W'edzi nkɔmbɔ mprɛnsa,Where is Nkrumah Prince?,1.3333,0.6667
+900,Mepawokyɛw nyew,Me pɛ akwantu.,1.5,0.6429
+901,Dum kandzea no,dumkanzi ano,1.0,0.1667
+902,Ɔmee nye Ɔfe,ɔmenye ofe,1.0,0.2
+903,To do ma me,Tudu Mami,1.0,0.375
+904,Ɔsowee ara pɛ,ɔsɔre arepe,1.0,0.4545
+905,Oho,Oho.,0.0,0.0
+906,Nantsew yie  farewell,M'anso wie.,1.0,0.6667
+907,Ewi no rehwehwɛ ehu,Ewi no rehushushɛ ɛhu.,0.5,0.375
+908,Ɔsow aba pii,Oso Ababio,1.0,0.4
+909,Oye,Oye.,0.0,0.0
+910,Dze susu sika no tɔɔ bɔɔl,Me susu sika no to bɔɔl.,0.3333,0.2
+911,Tsir kor nnkɔ egyina,Twi nkwae dwuma,1.0,0.7059
+912,"Kosɛ, Mannhyɛ daara",Kɔsi m'ahyease hara.,1.0,0.5625
+913,Daadze bi twa daadze bi mu,Daabi bi twa daabi mu.,0.5,0.2857
+914,Yaw na Ama,gyaw na ama,0.3333,0.125
+915,Mepawokyɛw nyew,bochojo,1.0,0.9286
+916,Nsu,Yesu,1.0,0.6667
+917,Ma me bi,Mame bi.,0.6667,0.0
+918,Osiandɛ,O Sunday,2.0,0.5714
+919,Akwaaba,Akwaba,1.0,0.1429
+920,Afehyia pa,afishapa,1.0,0.4444
+921,Eka brɔfo a?,ɛka aburofoɔ a,0.6667,0.5556
+922,Mma aboa bi twee,Maa abuo bi chin.,0.75,0.5385
+923,Dan mu,danmu,1.0,0.0
+924,Mo ho mmfa me,Mo ho foam.,0.5,0.4
+925,Abofraba no tow ndwom,Abofra ba no to njuam.,1.0,0.2222
+926,kɔm dze me,akwasi,1.0,1.0
+927,Morodwen wo ho,Me ho dwen ho.,1.0,0.3333
+928,ɔyɛ fɛw,Agya.,1.0,1.0
+929,Mepawokyɛw nyew,Mepawokyew.,1.0,0.2857
+930,Eka brɔfo a?,ɛka aburofo a,0.6667,0.4444
+931,Mepawokyɛw,Me pa wo kyaw.,4.0,0.1
+932,Tsentsen no,Tuntum,1.0,0.7
+933,Tsentsen no,Tenten no,0.5,0.2
+934,ɔyɛ fɛw,Oyi.,1.0,0.8333
+935,Medaase,Medaase.,0.0,0.0
+936,Osiandɛ,Osan deɛ.,2.0,0.2857
+937,Tuu no,Tunu,1.0,0.4
+938,Ma me bebiree,Mami baby oo.,1.0,0.5455
+939,M'ayew,maame yɛw,2.0,0.8
+940,Morohwehwɛ Yaw,Moro so se yɛw?,2.0,0.5385
+941,Mepawokyɛw,Me pa wo kyɛw.,4.0,0.0
+942,Ahoɔfɛw nntua ka,Ahomafew ntoma,1.0,0.5
+943,"M'ehu, m'ayɛ ewie",Me hu ma ye wie.,1.6667,0.0833
+944,Sua adze,Sia Ase,1.0,0.4286
+945,Huana egua,Honegwa,1.0,0.4444
+946,Osiandɛ,Osuande,1.0,0.2857
+947,Efi hen?,efiewura,1.0,0.8333
+948,Huana egua,Hwan na ɛgua?,1.5,0.3333
+949,Mefir Ghana,Me free Ghana.,1.0,0.3
+950,Abofraba no tow ndwom,Abofoɔ ba no to njoom.,1.0,0.2778
+951,Maafe wo,Matthew,1.0,0.5714
+952,Epoowbɔ nnyɛ,ɛpɔw bɔne,1.0,0.5455
+953,Mtn,M,1.0,0.6667
+954,Efow dua pa a na wo pia wo  push,Ɛfufuo tia pa na wopiam.,0.7778,0.6087
+955,Medaase,Medaase.,0.0,0.0
+956,Morohwehwɛ Yaw,M'adom sika yɛ wo.,2.0,0.7692
+957,M'ayew,mayo,1.0,0.4
+958,Efow dua pa a na wo pia wo  push,Afe biara paa na wopia wo,0.7778,0.4348
+959,Ma me bebiree,Mame bebree.,1.0,0.0909
+960,Translation: By the roadside,Wɔn kwan tenten.,1.0,0.7917
+961,Mepawokyɛw m'asesa m’adwen,"Mepawkyew, ma me sika m'adwen.",1.3333,0.2273
+962,Eka brɔfo a?,ɛka bɔɔ fa a,1.0,0.3333
+963,Ɔbɛbuei n'enyinwa ɔkyena,Oboboo ene enywa ochina.,1.3333,0.5714
+964,"Oho, Oho, me pɛdɛ mo tɔ",Oho oho me pɛdeɛ me tɔ.,0.3333,0.125
+965,Mepawokyɛw,Me pawu kyew.,3.0,0.2
+966,Mepawokyɛw me pɛdɛ mo tɔ mtn credit,"Mepɔwkyɛw, pɛdɛ m'atɔ MTN credits.",0.7143,0.2069
+967,Meda wo ase,Medawase.,1.0,0.1111
+968,Na Ɔkɔ kɔ wui,na okoko we,0.75,0.5
+969,Dze susu sika no tɔɔ bɔɔl,Zes sous-sica no to ball.,0.8333,0.45
+970,Na Ɔkɔ kɔ wui,Nna okoko we.,1.0,0.6
+971,Me hia wo mboa,Me hia womu wa.,0.5,0.1818
+972,Dɛm ɔkɔr no,dem okro,1.0,0.4444
+973,Morodwen wo ho,Muraa jen wu hu.,1.3333,0.5
+974,ɔno ekyir no,ɔne ekyir no,0.3333,0.1
+975,Gye dzi,jersey,1.0,1.0
+976,Morohwehwɛ Yaw,M'ere se se yɛn.,2.0,0.6923
+977,Oho,Oho.,0.0,0.0
+978,Mtn,MTN,0.0,0.0
+979,Noho ayɛ fi paa,"No, ayɛ fɛ paa.",0.5,0.25
+980,Enyin sen me,Ɛnnumzɔnme,1.0,0.6
+981,Ye be hyia bio,Yebeshi abio.,1.0,0.1818
+982,Akwaaba,Akwabaa,1.0,0.2857
+983,Mma aboa bi twee,Maa abue bi twi.,0.75,0.3846
+984,Gye dzi,JT,1.0,1.0
+985,Mepawokyɛw nyew,"Me pɛkyɛw, inyɔ.",1.5,0.4286
+986,"Hello good morning, Mepawokyɛw moro tɔ credit","Hello, good morning. Me pa wo kyaw, me reto credit.",0.8571,0.1053
+987,Nye dza Osei dze yɛɛ buburo yi,Nyeza ose yie buro.,1.0,0.4583
+988,Kɔr dua bi ekyir,Kwadwo Baah-Wiredu,1.0,0.8462
+989,Ebɛn Network?,Aben lets go.,1.5,0.6364
+990,ɛpɛ ebɛnadze,Ephraim Amu Abanase,1.5,1.1818
+991,Tuu no,Twi no.,0.5,0.4
+992,Mma aboa bi twee,Maa Aboagye Chain,1.0,0.6923
+993,Nokwar dze nyimpa bɛn owu ho,Nokware di nimpa bɛn na ohunu?,0.8333,0.3913
+994,Ɔsow aba pii,ɔsɔm abapi,1.0,0.3
+995,Bra ha,braha,1.0,0.0
+996,Nyimpa nnyɛ,Me pa wo kyɛw.,2.0,0.8
+997,ɔyɛ fɛw,Oyafo.,1.0,0.6667
+998,Mo ho ye paa,Muhu yie paa.,0.75,0.3333
+999,Ewi no rehwehwɛ ehu,ewinu iseshe ehu,0.75,0.5

@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,MMA MMA KWAN MA BIRIBIARA NNSƐƐ W’ENYIGYE,Maame Kwasima biara nsee wo nye je.,1.0,0.4706
+1,Enuanom Beenu Abɛka Akwankyerɛ Kuw No Mufo Ho,"Ewiase nyinaa mu no, abeka konkyereku unu mufon.",1.0,0.5526
+2,Mpaabɔ na n’Asɛm Bible no,Mpaabɔ ne nka nsɛm Bible,0.8,0.25
+3,Gyinae A Afofor Si Wɔ Nsa Ho,"Zoe zihoyia nsam kakra okanwu, ji na ya afoforo si wo nsahu.",1.7143,1.3182
+4,Yɛbɔhwɛ mbrɛ Job nwoma no besi aboa hɛn ma yeehu mbrɛ yebesi dze afotu a ɔbɔboa nkorɔfo ama hɔn.,"Yebɔɔ ahɔhoɔ mbre eji okwumanibesia buɔhe, meyehu mbre ebesisi afutuɔ obubuɔ nkrofoɔ ama hu.",0.9474,0.4675
+5,Yebesi dɛn aboa nkɔkora na mberwa?,Yebesre na agbɔnkɔkora na merewa.,0.8333,0.3214
+6,"Ɔto Ma Ɔyɛ Dzen A, Nya Ahotodo Dɛ Jehovah Bɔboa Wo","Ɔtumfoɔ yɛ zineɛ, nyahuto dodo Jehovah Ngabua o.",0.9091,0.3846
+7,Fa Dza No Ho Hia Wo Paa A Epɛ Dɛ Isua No Dzi Kan,"Fa saa nhuhyeɛ wo paa a, ɛpɛ dɛ so yɛn zikan.",0.6429,0.4
+8,EBƐNADZE NA OBOTUM ABOA HƐN MA YAAGYE ATO MU DƐ JEHOVAH DZE HƐN BƆN AKYƐ HƐN?,"Ihe ba na zị n'ogbe tuma gbuo unu, mụ ya aje atụm ndị a. Jehovah zị ya mma na-achọ ya.",1.125,0.5574
+9,DZA YEBOSUA,"Zae bosia, asisɛn gbeo gbeo hɛn mi ye susu mberɛ ye hudo a ye sua me Jehovah nkyire. Afe so, ọbọbọ hwu na awunu ma hwu ncharo ntitiri mọwọ akwọdu ezi Jehovah nkwalọ.",16.5,12.1
+10,si dɔ nyimpa?,Ibesineseo siam na abofoɔ nsi dɔn yi pa.,2.6667,2.4
+11,Midzii mfe esuon no nna misii gyinae dɛ mibetsie Jehovah aber biara,"Deɛ w'atwerɛ mfonini no hɔ kinkerɛ, me de mfi aseɛ sane na mesiiɛ na yɛdeɛ mebɛte Jehovah abɛibiara.",1.4167,0.8929
+12,MENYE ME YER DZE HƐNHO TOO JEHOVAH DO,Me me nsa hyɛɛ Yehowa nsam.,0.875,0.7333
+13,WƆTO NSA FRƐ AFOFOR BA NKAADZI NO ASE,Wɔtoo nsa frɛɛ foforo Bankaase na sei.,0.875,0.2667
+14,Sua Dɛ Ebɛkyer Asafo Ndwom Egu Wo Tsirmu,Sɛ adeɛ bɛkyerɛ asafom njom eguwutirim.,1.0,0.3333
+15,JEHOVAH MA YENYA ‘ƆPƐ NYE AHOƆDZEN A YƐDZE YƐ N’APƐDZE’,Njihoova ma yɛn nyinaa pɛ hɔ adwene a yɛde yɛn na apia ji.,1.1,0.5581
+16,Ebɛnadze ntsi na ndaansa yi yɛreka dɛ Jehovah ne dzin a no ho bɛtsew no nye asɛnhia a ɔda hɔ? Hom mma yɛnhwɛ siantsir ebiasa bi ntsi a yɛreka dɛm.,"Ebenezer Ntiamoah Nsiah, yɛrekadeɛ, Yehowa n'abɔdeɛ nyinaa nhubea te wo nyanseɛ hyeɛ ɔdaho. Homa yɛn hwɛ nsɛnteɛ baabi ntea yɛrekadeɛ.",1.0,0.4609
+17,The Wonders of Creation Reveal God’s Glory video no,The wonders of creation reveal God's glory video no,0.0,0.0
+18,"WƆTOO NSA FRƐƐ HƐN DƐ YƐNKƆ ESTONIA, LATVIA, NA LITHUANIA A NNA YƐNNHWƐ KWAN","Wotunsa frɛ hɛn dɛ yɛnkɔ Estonia, Latvia, na Lithuania ana yɛnhwɛ kwan.",0.4286,0.0984
+19,Ka Nokwar No Ho Asɛm Ma Ɔnyɛ Dɛw,Kanea kwan no ho asɛm ɔnyɛ dɛw.,0.375,0.2
+20,Hom Mma Yɛnhyehyɛ Hɛnho Nkuran Aber A Yɛakɔ Asafo Nhyiamu No,"Homa mmayan shishayen Hunkuran, abraye akwaa safo nshemin.",1.0,0.4
+21,Yɛbɔhwɛ akwan anan a yebotum afa do esuasua Jehovah na yɛabrɛ hɛnho adze.,Yɛgbawɛ akwanna a yɛbutu mmarahodo nsunsuiɛ Yehowa na yɛabrɛ ihanamu haazi.,0.7692,0.4333
+22,MBRƐ JOB N’ANYƐNKOFO BAASA NO SII TUU NO FO,Emere Job na Yankofaa baa Asante si 2004.,0.8889,0.5294
+23,EBƐNADZE NTSI NA NO HO HIA PAA DƐ YENYA ABOTAR?,Ebenezer nti na ne ho ahia paadi yi nyinaa agbetare.,0.8,0.4054
+24,KƆ DO ARA GYE TO MU WƆ W’AKOMA MU DƐ JEHOVAH DZE WO BƆN AKYƐ WO,"Kwadaechi tumawaku mude, Jehovah ze gba na cheo.",0.9375,0.5106
+25,TSIE ‘ETUMFO A WƆKRƆN NO’,Twi tumfoɔ akwankyerɛ,1.0,0.6316
+26,"Zebulun, Issachar, na Dan","Zebulon, Issachar, Natan",0.75,0.1
+27,e Hwɛ video a wɔato dzin Hɔn A Wɔroko Gyedzi Ko No Yie—Christianfo Esigyafo . Ɔwɔ jw.org do.,"Asawasam no kyerɛɛ yɛn dɛ, hwɛ video a wato dzin, hɔ na wrow kwan gyedzi kune yɛ Christianfo esikafo, owu jw.org. Asawasam no esi.",1.0588,0.6479
+28,MA JEHOVAH KWAN MA ƆNTSETSE WO,Majehufoɔ kwan mɔntitɔw.,0.8333,0.4
+29,GYE TO MU DƐ ASƐM NO AYƐ WO YAW,"Gye tumi de asomdwee ayaw ye wo. Ye hu wo mfonyin nu mu de, akyere baabi a no rua hoo ru hwe ntokuro mu.",2.3333,2.6957
+30,Ebɛnadze na ɔma yehu dɛ Jehovah ne dzin no ho hia Jesus n’ekyirdzifo?,"Ebenezer ne Onyame Ye Hude, Jehovah Nizi nuhu hie Jesus ne chizefo.",0.9231,0.4
+31,NIGERIA​—YESUAA AMAMBRA FOFOR,Nigeria yɛ wiase amanmra foforo,1.6667,0.32
+32,"Sɛ hɔn a wɔrobɔwar no amma hɔn ayefor no annyɛ kuntann a, ebɛn mfaso na wobenya?","Sɛ hɔ na wɔgbɔ wari na amma hɔ na yɛfuna yɛ kwentaya, ɛbɛn mfaso na wobenya?",0.75,0.2381
+33,EBƐNADZE NA ASAFO MU MPANYIMFO BOTUM AYƐ DZE AKYERƐ DƐ WOBU ENUANOM MBAA?,Ebenezer na asafo mu mpanimfoɔ tumi ayɛ zaa kyerɛdeɛ wogbeɛnua nnomaa mbaa.,0.6154,0.2833
+34,SUA NDZƐMBA AFOFOR A OBOTUM ABOA WO WƆ ASETSENA MU,Sian mma foforo bu tumi abuo wowo asiti ni.,1.0,0.439
+35,"Ɔwɔ mu dɛ irunntum nnkyerɛ wo kun dza ɔnnyɛ dze, naaso ibotum ayɛ ndzɛmba ahorow bi dze atsew w’adwendwen do na w’asomu so adwe wo. Susu nsɛm a odzidzi do yi ho.","Owu mde e rintum ncha wu kunza onye zi, na asigbo tuma ye nza mmahu obi zi atu wajinji ndu na wasum so aju, susu nsam ozi zi di ihu.",0.9062,0.448
+36,YEBOTUM ESUA NYANKOPƆN HO ADZE PII EFI NDZƐMBA A ƆABƆ MU,Ebụtụ m esenyankụpa ịhụ azịpị efinza mba a wa agbụ m.,1.0,0.4348
+37,Mma Wo Werɛ Mmfir Dɛ Ebɔbɔ Mpaa Ama Afofor,Moyɛnfire dɛn? Ɛbɔbɔ mpaa ma fufuo.,0.8889,0.4706
+38,JEHOVAH MA HƐN AWERƐHYƐMU DƐ DZA ƆAKA NO BƐBA MU,Jehovah mehena rehyem daeɛ saa wuo aka no bebree.,0.8,0.4615
+39,Ibesi dɛn esuasua Timothy na aakyerɛ dɛ edwen afofor ho?,Ibesi ne nsesa Timothy na kyerɛ dɛ ijwɛ na afoforɔ ho.,0.6,0.2826
+40,NYANSAHYƐ A OBOTUM ABOA WO MA EESUA ADZE,Yaanse saa obutan no aboa me so yaanse.,1.0,0.5455
+41,"Sɛ Jehovah bɔboa hɛn a, ebɛnadze na ɔsɛ dɛ yɛyɛ?","Sɛ Gyefoɔ bɔɔ boahene a, ɛbɛn asɛm na ɔsɛdeɛ yɛ?",0.8,0.4054
+42,"Ɔdɔ a Jehovah wɔ ma wo no, ebɛka ho asɛm dɛn?",Awurade Yehowa woma won ibe kan ho asomdwee.,0.9091,0.5455
+43,UNITED STATES​—WODZI YIE NA WƆWƆ GYEDZI,United States wodi yɛn na wowogye zi?,0.8333,0.1875
+44,MA BIBLE MU AFOTUSƐM MBOA WO,Me baibolo afotu saa mpaeɛ mboa wo.,0.8333,0.5217
+45,Ebɛn aber na asɛnka edwuma a yɛreyɛ no bɛba ewiei?,Ibn Battuta na asenka egyimaa yɛrɛyɛn bɛbɛɛ wiɛ yi.,0.9,0.45
+46,Ebɛnadze na ibotum ayɛ ama hɔn a wɔaba asafo nhyiamu fofor no hɔn ahom aka hɔnho?,Ebenezer ne abotumayeɛ ama wo nwanwa abasafo nkyerɛmu foforo nwanwa ahoɔma kahanu ho.,0.9375,0.4
+47,"Sɛ yehu dɛ yehia mboa ama yɛnye Jehovah ntamu ayɛ papa a, ɔsɛ dɛ yɛkɔ asafo mu mpanyimfo no nkyɛn ma wɔboa hɛn.","Sɛ yɛhu deɛ yehiam boa a, ɛma yɛnnye Yehowa ntimayɛ papa a, ɔsɛdeɛ kwan asɛfymu mpaeyɛfo nkyɛn ma woboahin.",0.7826,0.2644
+48,EBƐNADZE NA AFOFOR BOTUM AYƐ DZE ABOA CHRISTIANFO A WƆNNWAREE?,"Ebe na-azi na fufu bu tuma ya, za buo Christian fa wa nwarri.",1.2,0.3462
+49,Ebɛnadze na yebotum esua efi mbrɛ Jesus dze Nyankopɔn n’abɔdze dzii dwuma wɔ ne nkyerɛkyerɛ mu no mu?,Bible no na yɛgboto mu suifi mbre Jesus zii ya nkɔpan na gbozizi juma uwa ne nchechere mu nu mu.,0.8333,0.4512
+50,"Ibohu dza odzidzi do yi wɔ jw.org, na ibotum enya do mfaso kɛse",Ibohu dɔɔsizi di www.jw.org na ibotumi enya dɔmfa sɔkɛse.,0.7692,0.2653
+51,Fa Abɔdze Kyerɛkyerɛ Wo Mba Jehovah Ho Adze,Fa abɔseɛ kyerɛkyerɛ wo mba Jehovah ho aze.,0.25,0.1111
+52,Yebesi dɛn akyerɛ dɛ yebu hɛn nuanom Christianfo?,Yebesi da nachɛ de yebohye nu yanu Kristofo.,0.875,0.4146
+53,EBƐN KWAN DO NA DZA ODZIDZI DO YI BOTUM ABOA WO MA EENUMA?,Ibenekwanu na zaa ozizi dii bu tuma agboo me inuma.,0.9231,0.4
+54,NYANSAHYƐ A OBOTUM ABOA WO MA EESUA ADZE,"Wosane dɛ Demkrofoi pɛdɔ biara aboa hwan ma WhatsApp Bible na ase. Dɛm nti, onsɛ dɛ obane dɛ, ipɛ dɛ nkrofoi hu dɛ enyi ma Zion nti na isua zi. Afei so, se",3.875,3.0
+55,"Soa Dza Ohia Dɛ Esoa No, Na Tow Dza Wɔaka No Gu",Suro saa ohia deɛ suro ɛnna tuo zaa w'akane gu.,0.8333,0.4857
+56,"Ɔsɛ dɛ hom tse mbrɛ ponografi hwɛ botum aka obi hɔ no ase, na hom hu ndzɛmba a sɛ obi yɛ a ɔbɔboa no ma oeegyaa hwɛ.",Asɛdeɛ ahometim brɛ porogarafi hyɛɛ bo tumi akɔ obi hɔ na asi na hɔ nhuu nzam baa si obi a ɔbɔbɔɔ ne maweɛ ahyɛ.,0.8148,0.3523
+57,KENKAN BIBLE NO WƆ KWAN BI DO A ƆBƐMA ATSE ASE,Aman agbagye nbra. Kenkan Bible nu wọ kwan bi daa.,0.9091,0.8056
+58,Dza Mobɔ Ho Mpaa No Kyerɛ Dɛ Mubu Jehovah Anaa?,"Zamu iya samun ƙarfin hali, za mu biyo hanya madaidaiciya gurin Jehobah na.",1.3,1.2432
+59,ebɛnadze ntsi na yɛgye dzi dɛ Jehovah n’asomfo bɔkɔ do asom no nokwar mu?,Ebenezernti na yɛgyinaa hɔ de Nyankopɔn asomfo bɔkɔdɔ asom no nokware mu.,0.7143,0.3793
+60,Ebɛnadze ntsi na ɔyɛ a binom pɛ dɛ wotu hɔn enuma hyɛ da?,Ebenezer Ntimoah yɛ abenfoɔ de wutuhunɛ ne numashada.,1.0,0.4773
+61,ABER A ƆYƐ DZEN MA MPANYIMFO DƐ WƆBƐYƐ EDWUMA A ƆHYƐ HƆN NSA NO,Apirim yɛ zima mpenyinfuɔ dɛ wobɛyɛ adwuma a ɔhyehwɛ hɔnsɛn.,0.8571,0.38
+62,Yebesi dɛn esuasua ɔsomafo Peter na yeesua Nyankopɔn n’Asɛm no yie?,Yebesi dɛ na esunsuansum afuo pii taa ne ye susu Nyankopɔn asɛm no yie.,0.9091,0.2545
+63,"Ahohiahia kɛse no mu no, . . . nyimpa binom a wobohu nsɛm a obesisi no bɛba abɔsom Jehovah anaa?","Saa oduruyɛfoɔ yi asam a wofa aka, ahunahuna ekesi nnipa nnum, nyimpa bi num a wogbohu nsɛm a obosisi baabi abosom Jehovah anaa.",1.0588,0.6806
+64,SIANTSIR A YEESI GYINAE DƐ YƐBƆSOM JEHOVAH,Sɛnkyerɛnneɛ yi si gyina hɔ ma Yehowa.,1.0,0.6389
+65,SIANTSIR A ƆSƐ DƐ YƐMA HƐN ENYI GYE ABER A WƆRETAN HƐN ENYI,"Sɛ nkyerɛkyerɛmu no yɛ me yiye a, abura ware tan.",0.9231,0.5957
+66,EBƐNADZE NTSI NA ƆSƐ DƐ YƐGYE TO MU DƐ JEHOVAH DZE HƐN BƆN AKYƐ HƐN?,Ebe na Zinti na ose dae ye tumi de Jehovah zeh gba na cheh hen.,0.9333,0.4151
+67,Yɛbɔhwɛ mbrɛ yebesi dze enyimnyam a ɔfata Jehovah no ama no.,Yɛbɔɔ mpaɛeɛ bɛsi sɛ Onyame afata Yehowa na aman.,1.0,0.4694
+68,b MFONYIN NO HO NKYERƐKYERƐMU: Angelena n’asɛm no na woegyina do ayɛ mfonyin yi.,"Zawa choo mfo nyinaa nwokinkaade, yebotum zihenukasa she Jehovah enyim nyam.",1.0,0.7812
+69,DZA OBOTUM ABOA WO MA W’ENYI AGYE,Zoba tuma buo ma wenya je.,0.8571,0.3462
+70,Hyɛ Jehovah Enyimnyam,Sɛ Yehowa animnyam,1.0,0.3684
+71,NYA HƆN HO ABOTAR NA NYA AWERƐHYƐMU DƐ WOBOTUM ABƆSOM JEHOVAH,Nyawa no ha abotare ne nyarewa esem de obotum agboso Jehovah.,0.9091,0.3725
+72,Esiesie Woho Ama Ɔhaw A Ibehyia Wɔ W’enuma Ekyir No Anaa?,Esisi w'aho mɔɔ ha wɛ bɛshia wɛ wɛnuma ekyi na ana a.,1.0909,0.3111
+73,"TU HO ANAMƆN NDƐ YI ARA, NA ƆBƆBOA WO",Tumi a manim dεa na ɔbɔboa wo.,0.6667,0.4286
+74,NYIMPA BI A BIBLE NO KA NO HO ASƐM,Nyimpa bi a Bible no kan no ho asem,0.2222,0.0769
+75,“EGYA NYE ƆBA NYE SUNSUM KRƆNKRƆN DZIN MU”,Eja nyi oba nyi sunsum kwan kronkron zi ni mu.,1.0,0.3939
+76,"Sɛ awofo nye hɔn mba bɔ mu hwɛ Nyankopɔn n’abɔdze a, ebɛn mfaso na wɔnye hɔn mba no botum enya efi mu?","Saa wofonye hwanim bɔbɔɔm hwɛɛ Nyankopɔn abwazi a, ibanim fasu na wanyihwanim ba no botumi enyi efim.",0.8182,0.3077
+77,EBƐNADZE NTSI NA ƆSƐ DƐ YƐGYE BER HWƐ NDZƐMBA A JEHOVAH ABƆ?,Ebenezer nti na osi na ya ejebere hwe nza mba Jehovah agbo.,0.8333,0.3958
+78,"a Woesiesie adzesua asɛm yi ama enuanom a wonumaa hɔn nnkyɛree no, naaso hɛn nyina botum dze afotusɛm a ɔwɔ mu no abɔ hɛn bra.","Asoɛeɛ asɛm no kyerɛɛ kaeɛ, woyɛ sɔfo baa a, woyɛ ɔbea a ɔwɔ nneyɛɛ pa, na asɔfo nyinaa abotum gyina hɔ ma wo bere a ahonim nkyerɛ wo. Asɔfo asɛm no esi.",1.2,0.83
+79,Ebɛn kwan do na Christianfo fa ‘asɛndua da biara da’?,Ebe nkwa ndu na Kristianfo ufa asendua di biara da.,0.7,0.1707
+80,MEKƐYƐƐ EDWUMA WƆ MBRA DWUMADZIBEA,Mekae ejumawu mmra yɛmeje bia.,1.0,0.5333
+81,"Edze w’anomu kasa nye w’abrabɔ hyɛ wo nuanom Christianfo nkuran anaa? Dza wo nuanom Christianfo so yɛ dze hyɛ wo nkuran no, ɔyɛ a ihu anaa?","Esiane num kasa, nyewu abrabɔhyewu nu yɛ num Christianfo nkran anaa? Saa wunua num Christianfo nso yɛzi hyewu nkran? Oya, inwa anaa? Akenkan n'isi.",0.8462,0.3761
+82,YEBESI DƐN AKƆ DO EGYINA PINTSINN?,Yebetumi de no akodeɛ jina pintee.,1.0,0.4643
+83,‘Dzi Jesus N’ekyir Daa’ Wɔ W’enuma Ekyir,Na Jesus na echiri daa wowie num echiri.,0.8571,0.4333
+84,Ebɛnadze na Jehovah botum ayɛ aboa wo ma ndzɛmba aakɔ yie ama wo?,"Ebe na-azi na Jehovah bu tuma a ya buo, ma nzem ba kwe ya ama.",0.9231,0.3654
+85,d MFONYIN NO HO NKYERƐKYERƐMU: Onua bi hyehyɛ ne DPA no na ɔdze hyɛ noho kɔ beebiara.,Dɔteɛ a ɛwɔ yɛn fɔm yina yɛ susuhwɛ nkyerɛmu dodoɔ mu na yɛn hwɛ nkyerɛmu. Ɔno yɛ bishishi DPN na ɔde srahunu kɔ baabiara.,1.2941,0.9403
+86,BOA WO BA MA ONNYA GYEDZI KƐSE WƆ NYANKOPƆN NA BIBLE NO MU,"Bɔwu ba mu onye jezi kese, Onyankopɔ na Bible nim.",0.7692,0.3261
+87,"Israelfo a wotuu hɔnho mae dɛ Nazirifo no, ebɛnadze na wɔyɛe dze kyerɛɛ dɛ wɔwɔ akokodur na wofi hɔn akoma mu dze ndzɛmba bɔ afɔr?",Israelfoɔ a wotuu waanhu mmaadeɛ na azuifoɔ ne ebi a na azi na wey ezi kyerɛɛ deɛ wowɔ akukuduru na wofi nwanwa kum mmiɛnsa mba gbaa afɔreɛ.,0.88,0.4231
+88,"Sɛ edwendwen mpaa a ebɔe dze hyiraa woho do maa Jehovah no ho a, obesi dɛn aboa wo ma aakɔ do edzi no nokwar?","Sɛ Ɛdɛnrenren Mpaeɛbɔyi di saa ahodoɔ maa Jehovah nuwa a, obesidi ha buo ma akwado ezinukwa.",0.7917,0.4167
+89,Dza werdam no ma yehu fa Jehovah Nyankopɔn na Jesus Christ hɔn suban ahorow a ɔyɛ fɛw no ho.,Zare damna ma yɛn hu fa Yehowa Nyankopɔn na Jesus Christ ho nsuban a ahhorow a ɔyɛ fɛ wo no ho.,0.6316,0.1781
+90,To nsa frɛ nkorɔfo ma wɔmbra Nkaadzi no bi.,Twi nsafram nkurofo mmawa mbra nka akyerɛ me bi.,0.8889,0.4412
+91,EBƐNADZE NA YEBOTUM AYƐ WƆ ESISISƐM A ƆROKƆ DO NO HO?,Ebenezer na-egbutu ma ya we sisi mọrọ kọdọ n'ụhụ.,1.0,0.4286
+92,NYA SUBAN A NYANKOPƆN N’ENYI GYE HO,Nyansuban a Nyankopɔn enyi gye ho.,0.4286,0.0714
+93,"Nokwasɛm a ɔfa werdam anaa Nkaadzi no ho no, no mu hendze na w’enyi gye ho paa?","Nokwasɛm a ofa weredam anaasɛ nkasiɛ nohun, numu hiinzi na wɛn yejehu paa.",0.7647,0.3333
+94,Kaar a mo nua no dze kyɛɛ hɛn no,"Deɛ w'atro mfoneɛ nnuhuhu kanka deɛ, kaara mu na ɛdi cha hien.",1.3333,1.5
+95,MBRƐ ANYƐNKOFO APAPA BOTUM ABOA WO,Mmere a nyankopɔn apapa abotoma agbua o.,1.0,0.4483
+96,Ebɛnadze Ntsi Na Ɔsɛ Dɛ Inuma?,Ibe na asi nti na ose de inuma.,1.0,0.375
+97,KƆ DO ARA KO TSIA AKƆNDƆ BƆN,ɔdara kɔchia kwan dɔmbon,1.0,0.4545
+98,"Yɛbɔhwɛ siantsir a yebotum enya awerɛhyɛmu dɛ bɔ a Jehovah dze ahyɛ hɛn nyina bɛba mu, na ɔrennkyɛr ɔbɛma atorsɛm nye ndaadaa nyina no tun etwa.","Yɛbɔɔ hɔhyɛnsɛn sɛ yɛbɛtumi enyaro ehyɛm dɛ, “Bɔ Jehovah zaa shene nyina abebem, na ore nkyerɛ, obaa ma atrusem nyin daa enyina anotu na etua.”",0.8846,0.4103
+99,"Mehu Dɛ Hɔn A Wodzi Nokwar No, Ndzɛmba Kɔ Yie Ma Hɔn","Me hu dɛ hɔn a wodzi nokwar no, nzemakoyie ma hɔ.",0.5,0.125
+100,"NDƐ SO, JEHOVAH NYE OBIARA DZI NO YIE","Ɛnde so, jehovah nye obiara zini ye.",0.5,0.1724
+101,"JEHOVAH AGYE HƐN: Dza Jehovah na Jesus yɛe maa hɛn no etua hɛn bɔn ho kaw, ntsi yɛnnyɛ bɔn na owu nkowaa",Jehovah gyi hen. Za Jehovah ne Jesus ye ma hen etua hen bɔne ho ka o. Nti enye bɔne na owu nkwa a.,0.7727,0.2469
+102,Gage Fleegle nye ne yer Nadia,"Zawa chọọ wụ mfo yi na-hụ na nke nka ịde, gauge free girl nye na ya na adịa.",2.8333,1.6667
+103,SUSU SIANTSIR A ENOM NSA NYE DODOW A ENOM NO HO YIE,Susu yi nti a enom nsa enye dodo a enom no ho ye.,0.4167,0.175
+104,"SƐ EREKENKAN BIBLE NO A, EBƐNADZE NA OBOTUM ABOA WO MA . . .",Nya foforɔ yi. Sɛ reken Bible na ibe na aane,0.9091,0.7907
+105,MBRƐ IBESI ASESA WO SUBAN NA EEDZI WO YER NYI,Mbrebre saa se sabusuban ne eziwo yerenyi.,1.0,0.25
+106,Wo Nyinsuwa Som Bo Ma Jehovah,Onyinso asomdwoe ma Jehovah.,0.6667,0.25
+107,ƆSƐ DƐ YƐHYƐ ƆDƆ A YƐWƆ MA HƐN NUANOM NO MU DZEN,Ɔmaa hɛn nua num nom nsuo. Ntikya mu di baasa.,1.0,0.8108
+108,Nna ebɛnadze ntsi na ahɔho binom ka Ɔhen David no nsordaafo dɔm no ho?,Nne be na ezi nti na ahohu bi na mu ka ohi ndi David na nsro da afudom nu hu.,1.2143,0.3571
+109,Mbabun​—Hom Pɛ Dɛ Hom Asetsena Wie Dɛn?,"Mbebu mu, mpopada hu ma asiti na wie da.",1.1429,0.5
+110,SIANTSIR A ƆSƐ DƐ YƐTWE BƐN HƐN NUANOM,"Sɛ ɛntra osɔfo deɛ, yɛkɔ bahenia nu?",1.0,0.6129
+111,Ebɛn aber paa na ɔsɛ dɛ inuma?,Ɛbɛn abere pa na wosɛdeɛ inuma?,0.7143,0.2609
+112,c MFONYIN NO HO NKYERƐKYERƐMU: Akyerɛbaa bi a ɔasom akyɛr dze afotu rema akyerɛbaa bi.,"Zozibini Tunzi ayɛ susuhwɛ nchekwa mu ebea asa, m’esɔnwhu nchechem. Acherebea biaa w’asum acha azafuturu ma acherebea biaa opede otoatara.",1.3333,1.1571
+113,Ebɛnadze ntsi na ɔfata dɛ yɛsom Jehovah?,Ihe na-azị ntị nọfatara dịka Yesu Jehova.,1.0,0.5455
+114,Ebɛn kwan do na Jehovah maa Samson ahoɔdzen ma odzii Philistiafo no do konyim?,Iba na kwa n'ụdị na Jehovha maa Samsin ahụhụọ zị n'ụdị Filistia fụrụ n'ụdị kwenyere.,0.9286,0.4844
+115,“ɔdɔ a no mu yɛ dzen” a yebenya ama hɛn nuanom no ho?,"Ɔdɔ animguase na yebenya ama no a, yenyanim nuhunu.",0.7692,0.4474
+116,"Yɛbɔhwɛ mbrɛ Christiannyi a noho akokwaa no si susu ndzɛmba ho, mbrɛ osi yɛ n’adze ma ɔnye Nyankopɔn n’apɛdze hyia, nye mbrɛ osi sisi gyinae pa.",Yebɔhyɛ mberɛ Kristofoɔ a ano ho akukɔ ne sisusu nzam ba ho. Mberɛ osiɛ na aze ma onyinyankopɔn apeziɛ. Nye mberɛ osisi si ji na epa.,0.9231,0.2895
+117,Fa Woho To Jehovah Do Na Dzi Suro Biara Do,Fa ahoto Jehovah do nne disuro biara do.,0.5,0.1515
+118,"Hom botum ahwɛ ndzɛmba a Jehovah abɔ. Afei, dza ɔma hom sua fa Jehovah ho no, hom botum esusu ho anaa hom abɔ ho nkɔmbɔ. a","Mgbe otu m asaa ndị mba Jehova abụọ afịị, ""Zaá ụmụ nwanyị mụrụ ụmụ nwanyị Jehova hụrụ,"" mgbe otu mụ esusọghị, ana m aghọtaghị nkọwa.",1.0,0.6237
+119,Yebesi dɛn ahyɛ ahotodo a yɛwɔ wɔ Nyankopɔn n’anohoba mu no dzen?,Yɛbɛsi da na asha ho to da a yɛwɔ Nyankopɔn na ano ho ba mu no zɛn?,1.0833,0.2308
+120,a Adzesua yi bɔboa hɛn ma yeehu siantsir a ɔsɛ dɛ yenya ahotodo dɛ Jehovah betsie hɛn mpaabɔ aber nyina. Na kwan a ɔfa do yɛ dɛm no ma yehu dɛ ɔdɔ hɛn na ɔfata.,"Asɛm bɔne a ɛne mmayehu nso sɛdeɛ yɛnya ahu tɔdidi, Jehovah betumi ahempa agba abien nyinaa. Na kwan ofafadidi adam na mmayehu di, ɔdɔhen na ofata.",0.8857,0.4113
+121,Bu Nkwa A Nyankopɔn Dze Akyɛ Hɛn No Dɛ Ɔsom Bo,"Bosome kwan Nyankopɔn nzaa hyeɛ no deɛ, ɔsom bu",0.7273,0.3889
+122,Yɛbɔhwɛ dza obotum aboa hɛn amma yeennyi hɛn adwen emmfi ndzɛmba a no ho hia paa no do.,"Yɛbɔɔ saa zabu tuma abɔɔ hɛn, amma yɛnnyɛ hɛn adwuma nfinimfam baa no ohia paa ano dɔ.",0.7778,0.3478
+123,Nsɛm Bi A Ibotum Ayɛ Ho Nhwehwɛmu,"Saa ojekwan yi nsem kakra okanhu, nsem bi a igbotum a yehu hwihwe.",1.5714,1.3333
+124,Adzesua yi bɔboa hɔn a wɔtse nka dɛ mfaso biara nnyi hɔn do no ma wɔagye ato mu dɛ wɔsom bo paa ma Jehovah.,Adanseɛ yi bɔboa hɔ na awateɛ nka deɛ mfɔsoɔ biara enni hɔ na mmom w'agya tumi de w'asom bɔpa ma Jehovah.,0.75,0.3012
+125,Nsɛm Bi A Ibotum Esua Ho Adze,Zozi kyerɛɛ nsɛm kakra okaa ho. Nsɛm a ibotumua esi w'ahuazi.,1.4286,1.3913
+126,"Sɛ hɛn tsebea sesa a, ebɛn kwan do na ntseasee a yɛbɛda no edzi no botum aboa hɛn?","Sɛ hensebiɛ sesa a, ɛbɛnkwan dɛ ntsaasee yɛ bedi na ezinbu tum agbo hen.",0.8333,0.3016
+127,Me Mberɛwyɛ Maa Muhun Dɛ Nyankopɔn No Tum So,M'embroyɛ mma mo hɔ nidaaya nkupɔn tumsum.,1.0,0.3889
+128,BIRIBI A IBOTUM ESUA HO ADZE,Bibiara ebetumi asie ho azee.,0.8333,0.4783
+129,"Afei mobɔsoɛr, Jehovah na ɔse;","Afe mu bɔserɛ, Yehowa na ɔse",0.8,0.3333
+130,"Jehovah, ɔwo na edze hɔn besie,","Jehovah, owu na ezinwanyi bi sie.",0.6667,0.4167
+131,NYA AYAMUHYEHYE MA HƆN NA BOA HƆN,Nyaa yɛɛ sese m'ahonne na bɔɔ hɔn.,0.7143,0.4444
+132,DZA JESUS YƐE ABER A OHUN ESISISƐM A NNA ƆROKƆ DO NO,Sɛ Jesus yɛɛ aburoo hunu esisi saman n’aworo kwaden.,0.9167,0.3415
+133,JESUS NAM ABƆDZE DO KYERƐKYERƐƐ N’EGYA HO ADZE,Jesus na m'abɔze do tsetse ne gyawazi.,0.75,0.3684
+134,"Sɛ yɛbɔ mpaa a, ebɛnadze na yebotum ayɛ dze akyerɛ dɛ yɛwɔ gyedzi?","Sɛ yɛbɔ mpaa a, ɛbɛn azi na ebetumi ayɛ eza kyerɛ dɛ yɛwɔ jezi.",0.4615,0.2115
+135,Aber A Obi A Enye No Renantsew No Nntse Mbɛn Wo,Sesei koraa w'ayɛ nsɛm kakra a woka ho. Berɛ a obi anyinawu na ntim bɛn?,1.2727,1.1351
+136,Ebɛnadze na ɔboaa Peter ma ɔammpa abaw?,Ebenezer obuu Peter mberɛ baako.,0.8571,0.5625
+137,"Ɔmmfa ho mfe biara a edzi no, ibotum dze woho ahyɛ bagua mu adasedzi a wɔdze trɔk yɛ no mu anaa?","Aonfo mfi baabiara ezinum, but mu tumi hu asɛbɛkuma da si jaa kwan mu a akan ka ne si.",0.9524,0.6351
+138,"Hom botum akenkan Bible mu asɛm bi. Sɛ hom wie a, hom botum adorɔw asɛm bi a osii wɔ dza hom kenkanee no mu anaa wɔakyerɛw biribi a hom suae no ato hɔ.","Mpotuma kankane Bible mfasombi se humu wie a, mpotuma dodoa asombi osi woda ho kankane inmu ni, ana wakyere obiri bia humu su ye na tuho.",0.9091,0.319
+139,"“EGYA, HYƐ WO DZIN ENYIMNYAM”","Ija, sɛ wudzi enyimnyam.",0.8,0.3182
+140,b Ekyir yi wɔtoo dɛm skuul yi dzin Theocracy Ɔsom Skuul. Ndɛ hɛn nsa ka ntsetsee a ɔtse dɛm no wɔ hɛn dapɛn finimfin nhyiamu ase.,,,
+141,WƆYƐ NKAADZI NO WƆ KWAN A JESUS KYERƐE NO DO,Woyɛ nkaezi wɔ kwan a Jesus trɛɛ no do?,0.4,0.2571
+142,Nyansahyɛ a Obotum Aboa Wo Ma Eesua Adze,Nyansa Obutum abuo ma isuazi.,0.875,0.3939
+143,DZA IBOTUM AYƐ AMA AAKƆ DO EDZI JESUS N’EKYIR,Zaehringer ma yɛ akwado eji gya set na ekyir.,1.0,0.5833
+144,Yebesi dɛn dze Jehovah ayɛ hɛn Botan?,Yɛbɛsi Dansefoɔ Yehowa yɛ hienanabɔtan?,1.0,0.6
+145,Ɔsomafo Paul annhyɛ no nuanom Christianfo anngye sika emmfi hɔn hɔ,Zawaachron wọ́n fọ́n yí núhùn ní kẹ́ndẹ́. Ọ́súmá fọ́ Pọ́là nshẹ́ nínú ànúm Christian fọ́ ànjísí kẹ́ nfíhwanhọ́.,1.6364,1.0536
+146,"SƐ YEBOTUM EHU MBRƐ JEHOVAH ESI EBUA HƐN MPAABƆ NA YAAGYE ATO MU A, YEHIA GYEDZI","Sɛ yebotum ahu mbre Jehovah se bua hɛn na mpaabo na yɛagye atum a, yɛhia JZ.",0.6875,0.25
+147,Siantsir A Ɔsɛ Dɛ Yɛma Jehovah Ne Dzin No Ho Hia Hɛn,Sɛ nsuo a ɔsɛdeɛ yɛma Yehowa nidi no hu hiahia,0.8333,0.3659
+148,ama anyɛnkofa a enye no wɔ no mu aayɛ dzen?,Amanyɛnkofoɔ enyi na wonu ma a yɛzen.,1.0,0.2727
+149,Ebɛnadze ntsi na ɔsɛ dɛ yɛbɔ mpaa ma enuanom nyina?,Ebe na-azi nti na osisi na-aya bo mpa ma inu anu nyinaa.,1.0,0.439
+150,Dza Ɔbɔboa Wo Ma Eetum Emia W’enyi Egyina Atsɛnkyew Ano,Jehovah Buo me tumi mme wenyi eji na tenchiwa nu.,1.0,0.5333
+151,"Sɛ ɔbɛyɛ yie a, hwɛ nsesa bi a wɔaba ndaansa yi ara, na hwɛ dɛ ebɛn ntseasee fofor na wɔaba nye siantsir a dɛm ntseasee no nye Kyerɛwnsɛm no hyia.","Sɛ obi yɛ yie a, hyɛ nsɛm bi a w'aba na asɛm yɛ. Na hwɛ dɛ, ibue na ntase foforɔ na w'aba. Yii si ntsra dɛ m'entase na ichonsem na ichia. Asɛm na esi.",0.8333,0.4386
+152,Yɛbɔhwɛ mbrɛ yebesi ahyɛ ahotodo a yɛwɔ wɔ Jehovah mu no mu dzen na yeedzi suro biara a yɛwɔ no do.,Yɛbɔɔhɛ mberɛ yɛbɛsi asahuntodoo ayɔwɔ jeefoɔ mu nezen ne yɛɛjisuro biara ayɛ wɔnudu.,0.9048,0.3718
+153,NDZƐMBA ANAN BI A OKUN BI BOTUM AYƐ DZE AKYERƐ DƐ OBU NE YER,"Nzamani biara, okunu bi butum aya ya za kyere da ogboniyiri. Yihunu fu nyinumu de, okunu bi ato nu gba nyiniri kasa.",1.5,1.3191
+154,ABER A W’ENYI EGYINA NDZƐMBA A EGYA NO WƆ EKYIR NO,Abraawen gyina nzemba a eji no we chew.,0.8182,0.4359
+155,Job Nwoma No Botum Aboa Wo Aber A Epɛ Dɛ Itu Obi Fo No,Job nwuman butuma abuo aboro a epede to befon.,0.8571,0.3659
+156,EBƐNADZE NTSI NA ƆSƐ DƐ YƐBƆ MPAA MA AFOFOR?,Ebe na-azi nti na ose da yɛbɔ mpaa ma foforɔ.,0.6667,0.2571
+157,"c MFONYIN NO HO NKYERƐKYERƐMU: Akyerɛbaa bi akɔ edwuma bi mu dɛ ɔrekɛpɛ edwuma, na oesi ne tsir adze robɔ mpaa wɔ ne tsirmu aber a ɔtsena hɔ rotweɔn dɛ wɔbɛfrɛ no ebisabisa no nsɛm.","Zoezi huyu yeye mfo nyinaa yii susunwom gyetsem di sonhu nchecherem. Acheremabi akwedu mebi mde orka pe juma. Na we sinitrazer gbompa wo nitsim, abroti na oru cho nda uba friend ebisebisa na nsam.",1.0,0.6528
+158,c Wɔasesa edzin ahorow no bi.,"Asawasam no kunkum dae, wasa se izina huru bi, asawasam n'esi.",1.6667,1.4348
+159,NYANKOPƆN NAM ABƆDZE DO KYERƐKYERƐ HƐN MA YEHU BIRIBI FA NOHO,Nyankopɔn na m'agboze do chechehen ma ihu obi fa n'hu.,0.6364,0.3922
+160,"Adzesua yi bɔboa hɛn ma yeehu dɛ, sɛ yeruhu amandze na yenya Jehovah n’adwen wɔ ho a, obotum aboa hɛn ma hɛn enyi agye na yɛakɔ do asom Jehovah.","Asɛm a ɛsen biara a mma yi hu deɛ, sɛ yɛrehu amanzi na yɛnya Yehowa na adwenwene a, obotum a mma yi mma yi nnye aji na yɛakɔda asom Yehowa.",0.8966,0.4018
+161,"Dza Jehovah gyina do dze hɛn bɔn kyɛ hɛn no, adzesua yi bɔboa hɛn ma yaatse ase yie na iyi bɛma yɛakyerɛ mbrɛ Jehovah dze hɛn bɔn kyɛ hɛn no ho enyisɔ kɛse.","Yehowa Adansefó nni bɔné nchehén. Ɛsiané sɛ́ íbóbú óhéné má yátáásí yéé, ná íbómá yáchúré mbré Yehowá nni bɔné nchehén nwú ényúsó ká ésí.",0.9394,0.5902
+162,Yɛbɔhwɛ mbrɛ yebesi atwe abɛn Jehovah nye mfaso a yenya aber a yɛreyɛ dɛm no.,"Yɛbɔ hwɛm reye besi Akyɛn Yehowa, nye mfaso a yɛnya abrabɔ yɛre yɛ daaman.",0.8,0.2903
+163,Mma Mma Mframa Mmfa Enye Wo Hokafo Ntamu,Mame fa me nfa enye wo ho ka fo ntem.,1.0,0.303
+164,IBESI DƐN ENYA OKUN ANAA ƆYER A ƆBƐYƐ WO NYƐNKO BERƐBO?,"Ibesi di na enyo kune ana o yiri a, o beye wu nya nku bere pu.",1.2727,0.3864
+165,NDZƐMBA AFOFOR A ƆMA YEHU DƐ JEHOVAH GYE HƐN TO MU,"Nzemba foforo a oma ye hu de, Jehovah Jihen tum.",0.9091,0.3
+166,"YEENYA hokwan nye mbaa anokwafo pii abɔ mu rosom Jehovah. Yɛdɔ hɛn nkyerɛbaa yi paa, na hɛn enyi sɔ hɔn nokwardzi nye edwumadzen a wɔyɛ no paa! a Dɛm ntsi enuanom mbarimba, hom mbɔ mbɔdzen mma wonhu dɛ hom dwen hɔnho, hom nye hɔn ndzi no yie, na hom nkyerɛ dɛ hom bu hɔn. Naaso, osiandɛ bɔn wɔ hɛnho ntsi, ɔtɔ da a, iyi ne yɛ yɛ dzen. Iyi da nkyɛn a, biribi fofor so wɔ hɔ a obotum ama wɔaayɛ dzen ama enuanom mbarimba binom dɛ wɔbɛyɛ dɛm.",Yɛn nyansahɔkwan nyɛ mbaano kwa foforɔ abɔ mu ro som Yehowa. Yɛdɔhene nkyerɛbɛyi paa na hienyi sɔhɔ nkwazi nyɛ juma zina woyɛ na paa.,0.9438,0.7515
+167,"“Sɛ obi na ɔbɔɔ ndzɛmba a, nna ɔno so woana bɔɔ no?”","Sɛ obi nɔ kpoo nza m'a, nɔ ɔnɔ su nwa nɔ kpoo.",0.8333,0.5405
+168,SUASUA DAVID—KƆ DO ARA MA JEHOVAH MBƆ WO HO BAN,"Sɛnsia David, kɔdaame Jehovah mbɔ ohubani.",0.8,0.2432
+169,Yɛbɔhwɛ dza ɔsɛ dɛ yɛyɛ ama yeenya afotu a wɔdze ma hɛn no do mfaso paa.,Yɛbɔ hwɛbea wosɛdeɛ yɛyɛ ama yɛnya afutuo a wozimahyɛ no mfasoɔ pa.,0.75,0.3214
+170,"ASAFO MU MPANYIMFO, HOM NHWƐ NYANKOPƆN NO NGUAN NO","Asafo mpanimfoɔ, mmonidua nyinaa kupaano nwaanu.",0.8889,0.4878
+171,Nna ebɛnadze ntsi na yehia werdam no? Ebɛnadze ntsi na Jehovah ammfa Adam na Eve hɔn bɔn annkyɛ hɔn?,Na aban adi nti na yɛhiae ree daman. Iban adi nti na Yehowa anfa Adam ne Ifu ano gba na ncha mu.,1.0,0.4625
+172,EBƐNADZE NTSI NA JEHOVAH PƐ DƐ YENYA ABOTAR TWEƆN NO?,Ebenezernti na Jehovah pɛde gị inyá agbòtáre chòan.,0.8,0.4419
+173,DZA YEBOSUA,"Sɛ ɛhyew dodo bi a, asomdwoeɛ bɔbɔɔ me ho, na ɛyɛ a, ɔbɛma wo enyi aji.",8.0,4.6
+174,MPAABƆ NA ADZESUA BOTUM ABOA WO MA AAYƐ DZEN,Mpaabo na aje si ebutuma abuo ma ayɛ zin.,0.7778,0.3611
+175,Ma yɛnhwɛ ndzɛmba ebien bi a nna ɔmma fi nngyina afɔrmbukyia no ho:,Meye fe na inyame biabia na oma fe njina afo mu chi anohu.,1.0,0.5
+176,Ɔdɔ a yɛwɔ ma Jehovah Nyankopɔn,Ɔdɔ ayewa ma Jehovah Nyankopɔn,0.3333,0.0769
+177,Ebɛn mfaso na werdam no ma yenya ndɛ?,Ebe na mfa n'awere dam na m'eye nyande.,1.0,0.2759
+178,NDZƐMBA AFOFOR A HOM BOTUM ESUSU HO,Nzam ba foforo a hom botumi esusu,0.7143,0.2414
+179,SUBAN AHOROW A ƆBƆBOA HƐN MA YEEHU NOKWAR NO,Suban ahuruwɔ bɔbɔɔ adeɛ a emegye ehunu kwaran.,0.8889,0.3889
+180,Yebesi dɛn akyerɛ dɛ hɛn enyi sɔ werdam no?,Yebesida na akyerɛ de yɛn nyinaa enyi sɔ Redaman.,0.7778,0.4118
+181,"Dza Wɔfaa Mu No, Woara So Refa Bi Mu Anaa?",Zozi hoi yɛnsam ka krow ka ho. Zawo fimen wasurufi bimana.,1.1,1.0
+182,DZA AFOFOR BOTUM AYƐ DZE ABOA,Zaa foforɔ botum ayɛ zaaboa.,0.6667,0.1667
+183,Yebesi dɛn ama hɛn ebusuafo a wɔnnyɛ agyedzifo no ehu dɛ yɛdɔ hɔn?,Yebesi daama yɛn ebusuafoɔ ne w’anyanezi foforɔ enwene yɛ dɔhon.,0.9231,0.3962
+184,M’ebusuafo anaa m’anyɛnkofo suro dɛ annhwɛ a na medze kaar no ekenya akwanhyia anaa?,Me busiafoɔ anaamɔn nso da nhwɛa na me zikani ekenya kwensha ana.,0.8571,0.3529
+185,Ebɛnadze na hɔn a wɔrohwɛ hɔn adɔfo no yɛ a ɔbɛma hɔn enyi agye?,"Ebenezer na ho na wofase ho na adofune yaa, obema ho na inye aje.",0.9286,0.5
+186,Jehovah Bɔboa Wo Wɔ Mber A No Mu Yɛ Dzen Mu,"Jehovah bɔ bɔɔ wo, wɔn berɛ nom yɛse nim.",0.9091,0.2727
+187,KƆ DO BƆ JEHOVAH MPAA AMA EETUM ATWE ABƐN NO,Kwadwo Boakye-Djan mpaa ama etumi atwa aben.,0.8,0.4857
+188,Nsɛm Ebien Bi A W’enyi Bɛgye Ho Dɛ Ebɛkenkan,"Saa oduruyɛfoɔ yi asɛm kakra a woka ho, nsɛm ebiem bi a wei nyinaa baje ho dɛ ɛba kenkan.",1.5556,1.1714
+189,"SƐ YEYI JEHOVAH NE DZIN AYƐW A, ƆMA N’ENYI GYE","Sɛ ijufoɔ nni zina yawa, ɔmanin wɛɛ je.",0.9,0.4571
+190,MATS NA ANN-CATRIN KASSHOLM HƆN ANOMU ASƐM,Mat na Anne Catherine kɔsɔm ho n'enum asɛm. Yehuu mfonyin numu de Mat na Anne Catherine ji na hɔn k'aho na dama abere na w'aworo sum wekura si bi.,3.8571,2.4
+191,ABER A YƐRODWENDWEN MBRƐ YEBESI AHWƐ HƐNHO DAAKYE,Abra yɛn akyerɛkyerɛfo mpreyɛ ebesi ahyɛ yɛn ho daakye.,1.0,0.4286
+192,"EDZE Nyankopɔn no som mu botae bi esi w’enyi do naaso enntum enndu ho anaa? b Sɛ dɛm na ɔtse wɔ w’afamu a, nna ɔno ɔnnyɛ wo nko. Dɛ nhwɛdo no, nna Philip no botae nye dɛ ɔbɛtaa abɔ mpaa na ɔama ne mpaabɔ etu mpon, naaso nna onnya ber nnyɛ dɛm. Erika so dze sii n’enyi do dɛ ɔbɔbɔ mbɔdzen edu asɛnka nhyiamu ase ntsɛm, naaso ɔtse dɛ mbrɛ dabaa nna ɔka ekyir. Tomáš bɔɔ mbɔdzen mpɛn dodow bi dɛ ɔbɛkenkan Bible mu no nyina. Ɔkaa dɛ: “Nna Bible no n’akenkan nnyɛ me dɛw. Mobɔɔ mbɔdzen mpɛn ebiasa dɛ mebɛkenkan Bible no, naaso aber biara nna medze si Leviticus na mapa ada.”","Esi Nyankopɔn nso mu buu tɛbiase wei dɔ, naaso ntumi ndu ho anaa?",0.9558,0.8977
+193,Enuanom No Kyerɛɛ Dɛ Wɔdɔ Hɔn Paa,Ɛne anom ne kyere daa wodo hon paa.,1.0,0.3704
+194,"Hɔn a wɔrohwɛ hɔn adɔfo a wɔwɔ w’asafo mu no, ebɛnadze na ibotum ayɛ dze aboa hɔn?","Hona wosɛ hon adofowa wowo asafo mu, ibe na azi na ebetumi ayɛ saa abuo hon.",0.8824,0.4127
+195,Yebesi dɛn ahwɛ hɛnho yie wɔ biribiara a obotum asɔ hɛn ahwɛ no ho?,"Yɛbɛsi de nhyehyɛe yi wo baabiara, na ogbotum aso wo hini ahwe no hu.",0.9286,0.4528
+196,Ebɛnadze na yebotum esua efi ofihwɛfo Obadiah na Sɔfopanyin Jehoiada hɔ?,Ipa na aze na igbo chuma eshi nfi ofihye fo Badia na sofo Panyin John Hayford.,1.2727,0.4098
+197,Ebɛnadze ntsi na kwan a yɛfa do som Jehovah wɔ sunsum afamu asɔrfi hɔ no ye koraa kyɛn kwan a nna Jewfo no fa do som no?,Ebenezer nti na kwan a yɛfa do som Jehovah wɔ sunsum afam asorefi hɔn yɛ koraa kyɛn kwan a na Egya ofu hɔn fa do som en.,0.4444,0.2366
+198,"Yɛbɔhwɛ siantsir a Bible no ka Jehovah ho asɛm dɛ ɔyɛ ɔbotan, nye mbrɛ yebesi esuasua no suban ahorow a ɔma ɔyɛ tse dɛ ɔbotan no.","Yɛbɔɔ saa nsɛntiree baa Bible nkyerɛwee ase mpo deɛ, ɛyɛ obutan. Enye mpo yɛbɛsesa nsɛnsɛnneɛ suban a ahuri uwu a, ɔmaa ɔyɛɛ deɛ obutan.",0.9615,0.5588
+199,"Ahyɛnsewdze ahorow a osisi kwan ho no, ɔyɛ dzen ma me dɛ mubohu no yie a? Sɛ odu anafua a munnhu adze papa anaa?","Ahenfo zahuru wo zikwanu hwan? Woyɛ senea me de mgbamgbam hunuie a. Sɛ wodu anapa a, munwuazi papa na.",0.7917,0.4651
+200,MBRƐ JEHOVAH KYERƐƐ TSETSE CHRISTIANFO NO KWAN,Mbregya owetire titiriw Kristofo nokwan.,1.0,0.55
+201,YƐ NSESA NA NYA NKORƆFO HO ADWEN PA,Yɛnsa sa ne nyankorɔfoɔ hwɛn pa.,0.875,0.25
+202,"Sɛ hɛn sikasɛm yɛ basaa a, ebɛnadze na yebotum ayɛ dze akyerɛ dɛ yɛdze hɛn werɛ ahyɛ Jehovah mu?","Sɛ yɛn nsika saa mu yɛ basa a, ɛbɛna azi na yɛbɔ tumi ayɛ saa akyerɛdeɛ yɛn nura Jehovah.",0.8947,0.3816
+203,Oye Ma Hɛn Dɛ ‘Yɛbɔtwe Abɛn Nyankopɔn’!,Oye mehene de yɛ gbachu abeninyankopɔn.,0.8571,0.3667
+204,YENYAA HOKWAN AFOFOR NA YEHYIAA ƆHAW AFOFOR SO,"Yɛn nyinaa hu kwan afoforo na yɛn nyinaa si a, ohu afoforo so. Afia apim, aha nkron eduokron nsɔn. Wɔma me juma edidi dɛɛ, me nka kyerɛɛ dɛɛ wɔasomfo ntiti skuul.",3.625,2.4103
+205,Babanyin,"Zawaa twa wọhọ ne kinka ndi, Baben.",7.0,2.75
+206,Yebesi dɛn edzi kan edzidzi hɛnho nyi?,Ibesi dan esi kan ezizi nye hu yi.,1.0,0.3871
+207,Ebɛn kwan do na brekese nye kwan a nna wɔfa do yɛ no a woehu wɔ tsetse Babylon amamfo do no foa dza Bible no ka no do?,Ebe nkwa di na brakes. Nyikwanna na wofa di yen a wehu wotete Babylon na manfo di. 4000 Bible no ka no do.,0.7143,0.3
+208,MMA MMPA ABAW WƆ W’EBUSUAFO HO DA,Mempɛ abawɔ wei busiafoɔ ho da.,0.7143,0.3077
+209,EBƐNADZE NA JEHOVAH BƐYƐ DZE AHYƐ NE DZIN NO ENYIMNYAM NDAANSA YI ARA?,"Epe na Ziina Jehovah bɛyɛ, zia kyenizi nne nyim nyam na nsegyara.",0.8462,0.2982
+210,Siantsir A Jehovah Ne Dzin No Ho Hia Jesus,Sɛnkyerɛnne Jehovah Nidi N'ahuhuro Jesus,0.7778,0.5
+211,"Mbrɛ Nyankopɔn nye David dzii no, ɔma yehu ebɛnadze fa no bɔnfakyɛ ho?","Mbre Nyankopɔnii Davidziin, ɔmaa yɛn nwhɛbea na azifagbonfachehu.",1.0,0.4286
+212,"Sɛ Hom Rususu Onua Bi Ho A, Hom Nkaa Dɛ Homara So Bɔn Wɔ Homho","Sɛ homuhusu onuabiho a, homunka adeyɛ homuara so, bɔn, ohuamuhu.",0.7333,0.2553
+213,"d MFONYIN NO HO NKYERƐKYERƐMU: Akyerɛbaa bi akɔtotɔ ndzɛmba pii ama noho, naaso dza ɔmaa n’enyi gyee paa nye aber a ɔtɔɔ nhyiren dze kɛkyɛɛ akyerɛbaa bi a n’enyi efir na ohia nkuranhyɛ no.","Zozuvuye mfunya yiyisusumwanchi chimdu yisyanu chechum. Acherebiya kotutan zama pii amanho, na suzomana yiji panyi aburoto inshinzi keche acherebiya na inyeefil na ohe nkwa nshemu.",0.9412,0.6867
+214,BER A NKORƆFO AYƐ KRADO DƐ WOBETSIE ASƐMPA NO,Bra Nkrumah ayɛ krado deɛ obetua saa mpanim.,0.7778,0.4054
+215,"Sɛ yerihyia ɔhaw a, ebɛn akwan anan na Jehovah fa do boa hɛn?","Sɛ ɛyɛ sure hɔ a, ibe na akwana na na Jehovah adom buahin?",0.8462,0.4043
+216,Ebɛnadze na yebotum ayɛ dze esuasua dza Jesus yɛe no?,Ebi na zɛn ebutum ayɛ zɛ esiesie zagi sese yɛn.,0.9,0.4419
+217,MFE NO NYINA YƐ A.H.B.,Nfii ni nyinaa yɛ asan a ɛhɛm bere.,1.4,1.0
+218,"b Sɛ yɛka “nsaano nkyerɛwee” a, ɔkyerɛ asɛm bi a obi dze ne nsa kyerɛwee wɔ tsetse ber do.","Asawasam no kunkum dɛ, sɛ kansa no kyerewia, okyerɛɛ sɛ mbeia obi business kyerewii wotete brudu, asawasam n'esi.",1.0,0.7647
+219,Hwehwɛ Beebi A Ibotum Esua Adze Yie,Sɛe bebe obetumi asiane yi.,1.0,0.5862
+220,Dza Yebotum Dze Ayɛ Ankorankor Adzesua Anaa Ebusua Som,Zayi butum zaya nkurankura disian anaa busuaso.,0.8889,0.3043
+221,Mma Nntwentweɔn W’ananadze Dɛ Ibonuma,M'enkyerɛ nwanana zi deɛ Igbo numaa.,1.2,0.4688
+222,Wo mbuae,Na asensere yi Yehowa Adansefoɔ no nwa ndwom bi a.,5.0,5.1429
+223,"Sɛ yesuro Jehovah na yɛbrɛ hɛnho adze a, obesi dɛn aboa hɛn ma yeehu nokwar no?","Sɛ yɛsrɛ Yehowa na yɛabreyɛ no ho aza a, wobɛsida na abɔɔhen na megye w'ahunukwaru.",0.875,0.4516
+224,EBƐNADZE NA YEBOTUM AYƐ NO NDƐ AMA YEEHU DZA YƐBƐYƐ ABER A . . .,"Ebea na ɛsɛ ne yɛbɔ tumi ayɛ no nde, ama yɛahu sɛ yɛbɛyɛ",0.8333,0.4255
+225,"Jehovah ama hɛn ndzɛmba bi a ɔbɛma yɛnye no ntamu ayɛ papa na hɛn enyi agye, na yɛbɔhwɛ dza ɔsɛ dɛ yɛyɛ ama yeetum enya dɛm ndzɛmba no do mfaso.",Jehovah ma ne nzam bebi obama ye nyin ntem a ya papa ne hi ne ye aje. Ne ye gbo hwe eze osi de ye ye ama ye tumi ye da me nzam ba nudu mfaso.,1.0667,0.3894
+226,Yɛbɔhwɛ mbrɛ yebesi esuasua Jehovah nye n’asomfo aber a yɛpɛ dɛ yɛkyekye hɛn nuanom hɔn werɛ.,"Yebosiam reye besiesiesie Jehovah, nye na asomfo abera yepe de ye chichinhyen nu nu anoma hwanre.",0.9375,0.4342
+227,EBƐNADZE NA ƆBOAA PETER MA ƆAMMPA ABAW?,Ibi na-ajụ na ọ bụghị Peter ma ọ bụ Paul.,1.0,0.5625
+228,"Yɛ obi a afofor botum dze hɔnho ato wo do. Boa ma wonsiesie Ahendzi Asa do. Sɛ wɔma wo dwumadzi bi a, fa akwankyerɛ a ɔwɔ ho nyinara yɛ edwuma pɛpɛɛpɛ.","Yoo, biara, afufrugbo tumi zi wa nwu ha tu udo. Buo mu nwe nsi esi ahinza asado, se wa ma wu jumezi biara, fa kwa nchiro wa wu nwi na re yi ju ma pepepe.",1.0968,0.4615
+229,Nna ebɛnadze ntsi na Jehovah dɔ Daniel?,Ɛnne aban adi nti na Yehowa dɔ Daniel.,0.7143,0.3125
+230,Jehovah n’atsɛntsenenee ho?,Jehovah na tenten ne ne ho.,1.3333,0.2174
+231,Ebɛnadze na obotum aboa hɔn a wɔrobɔwar no ma hɔn ayeforhyia no ase ayɛ enyigye na wɔahyɛ Jehovah enyimnyam?,Ebe na-azị n'ubochi ụmụ agbọghọ na-awụ ọgbọ ware na mụ na gị fụchaa na nsá a ga-enye ji na wa sheji hụrụ enyim nyam.,1.2105,0.5393
+232,EBƐN EDWUMA NA ASAFO MU ASOMFO YƐ WƆ ASAFO NO MU?,Ibi ejuma na safoa m'asumfo ye wa safoa nu mu.,0.8182,0.3421
+233,Ebɛnadze na ɔbɔboa hɛn amma yaannyɛ adze anntra do aber a yɛdze hɛn enyi ridzi dza orisisi wɔ wiadze mu ekyir no?,"Ebe na-ase m na-ogbagbo hian, amanya nya nza ntradu, aburo ezihe na-enye risiza orisisi bu we azi m we chiri.",1.0,0.4615
+234,"HƆN A WƆNNTSEN A JEHOVAH BENYAN HƆN NO, . . .",Hwan na ɔnte na Yehowa benya ahuɔn?,1.0,0.4194
+235,KRƆNKRƆNBEA NYE KRƆNKRƆN MU KRƆNKRƆNBEA,kronkron biaa nye kronkron mu kronkron biaa,1.0,0.2857
+236,BIBLE NO MA YEHU DƐ NYANKOPƆN YƐ ƆDƆ,Bible no ma yɛhu dɛ Nyankopɔn yɛ ɔdɔ.,0.125,0.0345
+237,KƆ DO GYE NYANKOPƆN N’ASƐM A ƆYƐ NOKWAR NO DZI,Kwadwo Nyankopɔn na asɛm a ɔyɛ no kwarin no zi.,0.8,0.2778
+238,Ebɛnadze na enuanom a wɔwɔ asafo no mu no botum ayɛ dze aboa Christianfo a wɔpɛ dɛ wɔwar no?,Ibe na azi na enu animuo asafo mu na obotu mu ayeyie abuo Christianfo a wopeda woware.,0.7895,0.3425
+239,Ebɛn ndzɛmba na Satan dze dzi dwuma mbrɛ ɔbɛyɛ a ɔbɛsɛɛ hɛn bo a yeesi dɛ yebedzi Jehovah nokwar no?,"Eba ni nzam ba, m na-esetani dijigoma. Mberede a, ọbụ sọọhụ na gba anyị si dị, yebesị Jehovah nokware.",0.95,0.4875
+240,Kɔ Do Suro Nyankopɔn Na Ɔbɔboa Wo,Kodu sere Nyankopɔn na ɔbɔ boa wo.,0.7143,0.1481
+241,"Awerɛkyekyesɛm pii wɔ Bible no mu a ɔma yenya awerɛhyɛmu dɛ, sɛ yɛtsew nyinsuwa a, Jehovah hu na ɔbɔboa hɛn. Dɛm kyerɛwnsɛm no mu bi na odzidzi do yi:","Awichi nsem pii wo Bible nu mu, na omenye nyinaa awichi mde, se yetu wo nsu a, Jehovah hu na ogbo bua hen. Dem nsem nu mu bi na ozizi di:",0.7586,0.4492
+242,Ma Wo Hokafo No Ho Nhia Wo,M'awu nkafo nnhia wo.,0.8571,0.3
+243,"Ebɛn ɔhaw ahorow na hom ehyia, na ebɛnadze na ɔboaa hom ma hom tumii gyinaa ano?",Ɛbe na ohaw ahuru na humu esia na ebe na azi na ogbu ahum ma hum tumi ji na anu,1.0,0.3968
+244,KƆ DO ARA YƐ NDZƐMBA A ƆBƆBOA WO MA AAGYE EDZI DƐ JEHOVAH DƆ WO,Kwadwo ne Nzemba boboo ma Jehovadom.,0.9333,0.6122
+245,Ebɛnadze ntsi na ɔsɛ dɛ yɛdwendwen mfaso a yebenya aber a ‘yɛatwe abɛn Nyankopɔn’ no ho?,Ɛba na ahenfie nso de yɛ dwemudwem mfaso a yebenya abere a yɛatwa abeninyankopɔn no ho.,0.6875,0.2571
+246,"f MFONYIN NO HO NKYERƐKYERƐMU: Onua bi wɔ asafo a enuanom a wɔwɔ mu no dɔɔ so mu. Oedzi kan ama mbuae, ntsi ɔpɛ dɛ afofor so ma bi.",Zozi hwe yɛn fɔnyin na yɛresusuwɔ nchikyerɛm daa nannɔhu nkyerɛkyerɛm. Onipa bi wasafo a enuanom a wowom ndɔsum. Wei zika na mɛmbua yi. Nti opɛda afufuru sum ebi.,1.0,0.6566
+247,Nyimfa: Ralph Leffler reyɛ edwuma wɔ radio steehyɛn hɔ,Zawahiri wofonwunu ho kanka n'dea Ralph Lefler reye juma wo radio station ho.,1.2222,0.8
+248,Christiannyi bi a ɔnnwaree besi dɛn enya ɔhokafo a ɔnye no bɔbɔ nkyirefuwa atafer afebɔɔ?,Christie n'ebe a onwero ebe siden inyohu kwa onye na-agbagbo nchefu atọfuru afa bu,0.9333,0.4865
+249,c MFONYIN NO HO NKYERƐKYERƐMU: Prisca n’asɛm no na woegyina do ayɛ mfonyin yi.,Zawaa twerɛwɔnfoɔ nyinaa hwehwɛ nkanyi deɛ. Yigye tumi de hyehyɛɛ nhyehyɛeɛ foforɔ nyinaa.,1.0,0.9516
+250,Nsɛm Bi A Jesus Kae No Botum Aboa Wo Ma Aatse Dza Ekenkan No Ase,Yehowa yi. Zewus hɔ ne nsɛm kakra a wokahɔ. Nsɛm bi a Jesus Christ botumi aboa wo ma atumi,1.1333,1.12
+251,YƐKAA ENUANOM A WƆYƐƐ EDWUMADZEN NO,Yɛkae no na m'awu yɛ ejumazi nnu.,1.1667,0.3667
+252,EBƐNADZE NA YƐYƐ A ƆBƐKYERƐ DƐ YEBU NKORƆFO?,"Ebe na azu nu yayi a, obe trade yigbo nkrofo.",1.0,0.5
+253,b Seseiara dɛm skuul no nye Ahendzi Asɛmpakafo Skuul.,"Asuɔne nkankan deɛ, sesiaa deɛ misukuni yɛ ahinadasa pɛnkɛn fusukuu asuɔne na yɛsi.",1.4444,1.0909
+254,Yebesi dɛn egyina pintsinn aber a yeridzi Jehovah ne mbra nye n’akwankyerɛ do no?,"Yɛbɛsire neɛ ɛne printing, abɛɛfo yiri sɔ hɔ fa nɔmbra ne n'akwankyerɛ dodo.",0.9286,0.4091
+255,Ɔdɔ a ewɔ ma Jehovah a ebɛma wɔakɔ do ayɛ kɛse,Ɔdɔ a ɛwɔ ma Jehovah ebemowaa kɔdɔ a yɛkesee.,0.6364,0.2222
+256,Ebɛn ndzɛmba na Christiannyi bi yɛ a obotum aboa no ma ɔdze n’ayefor ahyɛ Jehovah enyimnyam?,Ime na nzụkọ na-ekwu banyere obodo tumadi gbara gburugburu na-eche na-eche Jehova enyemaka.,0.9375,0.7067
+257,Serɛ Jehovah dɛ ɔmboa wo ma fa nyimpa no no bɔn kyɛ no.,"Sɛ Jehovah Dan mbu a, mafe nyi mpaanubo nichen.",0.9231,0.4048
+258,Siesie W’akoma,"Na bere bi na ehodo sedeɛ yɛnsisim bia, berɛ w'ahoazi na yɛne ntamara.",6.5,3.75
+259,"Sɛ Ihyia Ɔhaw A Ennhwɛ Kwan A, Jehovah Bɔboa Wo Ma Eetum Egyina Ano","Sɛ isiɔ hawfoɛ nshokwan a, Jehovah bɔ bɔɔ me tumi meji naanɔ.",0.7857,0.3774
+260,"Sɛ ndzɛmba nnkɔ yie mma hɛn a, ebɛnadze ntsi na ɔsɛ dɛ yɛdze Nyankopɔn n’apɛdze dzi kan wɔ hɛn asetsena mu?","Sɛ nzemba nkurogye mu hɔ na, ipe na zintinɔ sɔde, ipe na Nyankopɔn ape zika wɛhɛ na asitini.",0.9048,0.4643
+261,ebɛnadze na yebotum ayɛ aber a ɔpɛ no nnyi hɔ?,Eba na adane yebotum aye abrofo nnyaho.,0.9,0.3889
+262,MBRƐ JEHOVAH SI DA NO DƆ EDZI,Mbre Jehovah si da no dua ezi.,0.4286,0.1739
+263,a Dɛm adzesua yi bɛma hɛn nyansahyɛ ahorow a ɔbɔboa hɛn ma yaakɔ do dze ɔdwe aka hɛn gyedzi ho asɛm akyerɛ afofor aber a wɔahyɛ hɛn ebufuw anaa wɔnye hɛn nnyɛ adwen wɔ asɛm bi ho no.,"Dama di nsie, ba mehe ne nyansa saahuru a o gbo buo he ma ya kodozi odzi akanye njezi ho asem acha fu furu. Abro awu asi he ne bu fu, ana nwayi he ya jwe nu wa si mbe hu.",1.0263,0.5
+264,"c MFONYIN NO HO NKYERƐKYERƐMU: Asafo mu panyin bi annkasa yie wɔ nhyiamu bi a mpanyimfo yɛe no ase, ntsi ɔpanyin fofor reka ho asɛm akyerɛ no.",Aseɛ mpo pɛn bi ankasa yɛ wimhyɛn bi a mpenfoɔ yɛ na ase. Nti mpenfoɔ foro ka ho asɛm akyerɛn.,0.7778,0.5133
+265,"SƐ YƐHWƐ HƐNHO YIE A, EBƐN MFASO NA YEBENYA?","Sɛ yɛsɛ hɛn hunyi ya, ibɛn mfasu na iben ya?",0.8889,0.2647
+266,"a Sɛ ɔba no sikasɛm, ayarsa ho nsɛm anaa nsɛm afofor bi a, Christianfo botum akɔhwehwɛ afotu efi hɔn a wɔnnsom Jehovah no hɔ.","Asɛmfoɔ asɛm na kyerɛn deɛ, sɛ wobɛn sika nsɛm, ayarsahosɛm anaa nsɛm afoforɔ biara, Kristofoɔ betumi akɔhwehwɛ afotu efiri hwan a wonsom Yehowa no hɔ. Asɛmfoɔ asɛm na isi.",0.9167,0.596
+267,"Jehovah ato nsa afrɛ hɛn dɛ yɛmbɔsoɛ ne ntamadan mu, na ɔhwɛ hɛn yie so. Yɛbɔhwɛ mbrɛ yebesi akyerɛ dza ɔayɛ ama hɛn yi ho enyisɔ kɛse.","Yehowa tumi safrɛ hɛn dɛ, yɛmbɔ sɔne ntamadan mu, na ɔhwɛ hɛn yie so. Yɛbɔ hwɛm berɛ ibesia kyerɛ Zawaya mu hɛn yi nwu enyi sɔ kesi.",0.6296,0.2075
+268,DZA JEHOVAH NA JESUS AYƐ AMA HƐN NO KENYAN HƐN MA YEDZI JESUS N’EKYIR,"Sɛ akwankyerɛ a Yesu de maa ne akyidifoɔ no nyinaa mu, m'ayɛ di Yesu n'akyerɛ.",1.0,0.7091
+269,DZA IBOTUM AYƐ BER A ƆPƐ NO NNYI HƆ,"Daabi, otumfoɔ ayɛ abrofoɔ panyin hɔ.",0.7778,0.5926
+270,e MFONYIN NO HO NKYERƐKYERƐMU: Nyankopɔn kae too hɔ dɛ wɔbɛsɛɛ Babylon kurow a nna ɔwɔ enyimnyam no.,"Zozo honimfo nyinaa yeresusu hu wanchiche mu du nyidu baako nuhu nchecherem. Nya nkupanu kanyo tuwa de, obesa Babylon krowa na owe nyiminyama ni.",1.3333,0.9012
+271,Ebɛnadze na obotum asɛɛ nkɔkora na mberwa hɔn enyigye?,Ɛbɛna a ɛwɔ n'ogbetum a sign nkwakora na mberewa no enye je.,1.2222,0.4444
+272,NYANKOPƆN HO SURO BƆ HƐNHO BAN,Nyankopɔn hu suro bɔne hu ban.,0.5,0.2
+273,Kɔ Do Ara Fa W’adwen Si Dza Ohia Paa No Do,Kwadaa fa w'adwene si wo hia paanodɔ.,0.8182,0.2903
+274,Yesi dɛn hu dɛ Jehovah pɛ paa dɛ ɔfa hɛn nyɛnko?,"Yesu de nwene dɛ, Jehovah pɛɛ dɛ ofahɛn ya nkun.",0.7273,0.3784
+275,Ebɛnadze na Daniel yɛe dze kyerɛɛ dɛ ɔwɔ akokodur?,Ɛbɛn Asina Dan ne yɛ di kyerɛde ɔwa akukuduru.,1.0,0.3659
+276,Ebɛn “tsirmsɛm” na ɔrennkyɛr Jehovah dze bɛhyɛ amanaman no hɔn akoma mu?,Iben ntrumu sam na orenkyerɛ,1.0,0.7759
+277,ABER A YƐROBƆ MPAA AMA BINOM,Abre a yɛrebɔ mpaa ma binom.,0.5,0.1739
+278,YEBESI DƐN ESIESIE HƐN AKOMA AMA NKAADZI NO?,Yebesii na esi esihi na akuma ama nke a zi.,1.125,0.3056
+279,Yɛkaa asɛmpa no wɔ mbea ahorow pii wɔ Tanzania,"Zawaadiwɔ mpo enihokɛnkan deɛ, yɛka asɛmpanowom bi ahuru pii wɔ Tanzania.",0.8889,0.8421
+280,EBƐN NDZƐMBA AHOROW NA ƆSƐ DƐ YƐHWƐ HƐNHO YIE WƆ HO?,Ibeno Nzamba ahuro nno sede yɛhwehe hɔ yii wɔ hɔ.,0.9091,0.4146
+281,a Wɔasesa edzin ahorow no bi.,"Asɛmfoɔ asom na kenkan deɛ, wasisi ezinahoro ne bi, asɛmfoɔ asom na esi.",2.0,1.7391
+282,Ibesi Dɛn Esuasua Mbrɛ Jehovah Dze Bɔn Kyɛ No?,Ibesonene sinsim bre Jehovah Zibonchen.,0.8889,0.4054
+283,Ebɛnadze Na Yenyim Fa Mbrɛ Jehovah Besi Ebu Nkorɔfo Atsɛn Daakye No Ho?,Ebe na azenyenye wofa mbre Jehovah bese bu nkorofo aten daakye no ho.,0.6154,0.1897
+284,Dwendwen esuadze a ɔwɔ mu no ho. Bisa woho dɛ:,Gini n'isi nza bu umunihu? Bisa onwe di.,0.9,0.6
+285,MBRƐ YEBESI EHU HƐNHO DƐ MBRƐ JEHOVAH HU HƐN NO,Mbre yɛbɛse w'ahinanan hɔ de mbre Jehovah w'ahinanan.,0.9,0.5263
+286,BOA WO SUANYI NO MA ƆMFA JEHOVAH NO SOM NDZI KAN WƆ N’ASETSENA MU,Boa wusue nyinaa ma onfa Yehowa nsom nzi kan nwa na asiti ni,0.8571,0.3922
+287,KƆ DO FA DZA ISUA NO BƆ WO BRA,Kwadwo Faza isia no bɔɔ wubra.,0.8889,0.3182
+288,"Ntsi ber fofor a ibosua adze no, ɔyɛ a bɔ mbɔdzen dɛ ebɔdorɔw dza esua no ho mfonyin. Eyɛ dɛm a, ebɛkaa dza esua no ma wɔaayɛ wo nwanwa!","Nti birifufru a igbo su yazi, oya bomozi nde igbo droza esio nehu mvonyi. Iye dema, ibaka za esio ma wayo nwonwa. Ase mnesi.",0.9655,0.5096
+289,"Nna aban no akyer Paul ahyɛ ne fie. Naaso, osiandɛ n’anyɛnkofo anokwafo boaa no ntsi, otumii yɛɛ no som edwuma no wiei","Zawachow mfo yi n'oke nke mdee, m na-aba na-ache Paul asheni fie na asusu na n'anya nkufa anakwa fu buani nti otu m ga-esi mee ejuma niwe.",1.1818,0.6667
+290,MIBESI DƐN AKYERƐ DƐ MAYƐ KRADO DƐ MIBETSIE AFOTU A WƆDZE BƐMA ME NO?,"Me bɛsi dan akyerɛ de ma yɛ crowd de, me bɛte yɛ afutuo a Wassa Bamaman.",1.0714,0.4182
+291,Ebɛn aber na ɔsɛ dɛ yɛkɔ asafo mu mpanyimfo nkyɛn kɔhwehwɛ mboa?,"Ebe na abere no sede, yakwa asafo mu mpayin fu nce kwo hwe hwe mboa.",1.0,0.3846
+292,"SƐ MUBOTUM ENYA AFOTU A WƆDZE MA ME NO DO MFASO A, EBƐNADZE NTSI NA ƆSƐ DƐ . . .","Sɛ mogbotumi nya afuta a wozimam na dɔm foforo a, eba na asɛm no oseda.",0.8235,0.4737
+293,Ɔwo na ebɔbɔ hɔn mu biara ho ban efi mbasantsen yi ho daa.’,"Owo na obubuo mu biara ho baani, ifi mbesa nti nyi hu daa. Yaa ye nsisa kakra wa chire sim yi mu.",1.3846,0.9556
+294,SUA BIRIBI FI MOSES NA ISRAELFO NO HƆN ASƐM NO MU,Sɛɛ biribi firi Moses ne Israelfoɔ no nwanwa asɛm no.,0.5455,0.3333
+295,"Ndzɛmba a nkyɛ obotum ama aayɛ dzen ama Corinthfo no dɛ wobonuma no, ebɛnadze na ɔboaa hɔn ma wotumii dzii do?",Mɛnka nkyerɛ wo otumfoɔ ma ayɛ saa na m'akɔ with foni de gbo numan. Ɛba na aza na obuu w'ahu na otumi ziido.,1.0476,0.4432
+296,Tse Ntotoho A Ɔwɔ Bible No Mu No Ase,Sɛ ntotohoa a ɔwɔ Baibolo mu na asi.,0.6667,0.3214
+297,Ebɛnadze ntsi na ɔsɛ dɛ yɛgye to mu dɛ Jehovah dze hɛn bɔn akyɛ hɛn korakora?,"Iberia nti na ɔsɛde yɛjitu mpo deɛ, Jehovah si hene gba na akyerɛ no krakra.",0.9375,0.4754
+298,"c Christianfo Greek Kyerɛwnsɛm no mu no, Hebrewfo nwoma no nkotsee na ɔka Jesus ho asɛm dɛ ɔyɛ Sɔfopanyin.","Asafo asɛm ne kankaade. Christianfo gyidichonsem numun. Hebrifo mmanim nkotsee na oka Jesus ho asɛm de, oye sofo panin. Asafo asɛm na esi.",1.0,0.686
+299,Ma W’enyi Ngye Aber A Erohwɛ Wo Dɔfo Bi No,"Ma wo nyinnye, abere a rehwɛ wo dɔfo bi.",0.5,0.2188
+300,Ebɛnadze na esua efi Mark n’asɛm no mu?,Ebe na ezi na isi Timak na asem no.,1.0,0.4333
+301,Kɔ Do Ara Hwehwɛ “Nyankopɔn N’akwankyerɛ”,Kwadaso Nyankopɔn Akwantufoɔ,0.8333,0.4848
+302,ABER A ƆSƐ DƐ MPANYIMFO YƐ SETSIE NA WONYA AKOKODUR,Aburoso de mpenfu Yesu Kristo ne nipa akuduru.,1.0,0.5952
+303,FRANCO DAGOSTINI NANKASA N’ANOMU ASƐM,Yenhu Frank Dago si nu nu mfonyin.,1.4,0.75
+304,Tsena Jehovah Ne Ntamadan No Mu Afebɔɔ!,Twi Jehovah Ntamadanu Afeebo,0.8571,0.375
+305,d MFONYIN NO HO NKYERƐKYERƐMU: Jack n’asɛm no na woegyina do ayɛ mfonyin yi.,Zawatimfo yii nhoma kɛseɛ no. Yebetumi de hye na abrabɔ pa ashe Jehovah nyimpa.,0.9286,0.8333
+306,"Ɔmmfa Ho Dza Ɔbɔto Wo Biara No, Kɔ Do Ara Som Jehovah","Ɔfɔnwa 2 biara, Kwado Asum Jehovah.",0.8333,0.5122
+307,"YEDZI JEHOVAH N’AKWANKYERƐ EKYIR A, NHYIRA A YENYA","Yɛɛsi Yehowa na akwance Israel, Israel yɛn ya.",1.0,0.5366
+308,Dwendwen esuadze a ɔwɔ mu no ho. Bisa woho dɛ:,"Genesis a owimmu no hu, bisa nhwehwɛmu.",0.7,0.6286
+309,IBESI DƐN DZE NYANKOPƆN N’ABƆDZE AKYERƐKYERƐ WO MBA?,"Ibi si nan, ziya nkupanna agbazi acha echawa mba.",1.0,0.5581
+310,ama eenya awerɛhyɛmu dɛ obotua wo kaw?,"Ameen nya rehyɛ me deɛ, obotuo a woka o.",1.2857,0.3226
+311,"Sɛ yɛma ɔtsena hɛn adwen mu dɛ Nyame a yɛsom no no yɛ “Nyankopɔn tseasefo” a, ɔbɔboa hɛn paa.","Sɛ yɛmɔɔ tene hɛn adwene mu dɛ, Nyame a yɛsom no ne Nyankopɔn ntsafoa, ɔbɔboa hɛn paaa.",0.4211,0.169
+312,"Sɛ yɛda nyansa edzi a, ebɛn kwan do na obotum aboa hɛn ma yaada ɔdwe edzi?","Sɛ yɛde nyanseɛ zaa, ɛbɛn kwan du na obutumɔ agbu ehane ma yaadeɔ dwo ezi?",0.75,0.2807
+313,"Hom botum akenkan mpaa bi a ɔwɔ Bible mu, na hom esusu mbrɛ obesi aboa hom ma hom eetu mpon wɔ hom mpaabɔ mu no ho.","Mmuɔtumakankane mpaebɔw Bible mu, na humu esusu mberɛ obi saakpo humu humu tumponu wia humu mpaebɔ mu nuhu.",0.8077,0.3636
+314,EBƐNADZE NA IBOTUM AYƐ AMA ENYE WO NUA BI ATSENA ASOMDWEE MU . . .,"Ibe na-azi na-egbutu maịlị ya, a na-enyewu nu ebi atụ na asụmju ya.",1.0833,0.4694
+315,"Ebɛnadze na ɔsɛ dɛ yɛyɛ dze dzi hɔn a wosuro Jehovah no nyi, na ebɛnadze na ɔnnsɛ dɛ yɛyɛ?","Ibenazi na-nseda yeye, zi zi ho na wo so jehova ni na ibenazi na-nseda yeye.",0.9474,0.4143
+316,Krataaba a wɔato dzin Message of Hope,Sɛ w'atow w'afonnyin ho ka nɛ dɛ? Krataaba w'ato izi Message of Hope.,1.4286,0.9032
+317,aber a obi a edɔ no egyaa Jehovah som?,Bere a obi a ɛdɔ no eji akyerɛ oversum.,0.5556,0.4138
+318,DZA WERDAM NO MA YEHU FA JEHOVAH HO,Zaire damnuma yɛhu fa Jehovah ho.,0.625,0.2143
+319,Ebɛnadze na ɔma ahotodo a ewɔ wɔ Nyankopɔn n’Asɛm mu no yɛ kɛse?,Ɛbɛn adwuma a wotumi yɛ wɔ Nyankopɔn asɛm mu no yɛ kese.,0.6154,0.32
+320,NORTHERN IRELAND​—“ƆMAN A WƆTOTOW ITUR NA ƆTOPAA WƆ MU”,"Northern Ireland, oman a wɔtoo tuo etire ne otupu",0.8889,0.3488
+321,ɔsɛ dɛ edze w’adwen si dza Jehovah pɛ do na ekɔ do ara brɛ woho adze?,Ɔsɛdeɛ ɛne w'adwene sisi ajɛ Jehovah Pedro na ɛkwado abrabɔ honhonsɛm.,0.875,0.4423
+322,MA NYANKOPƆN N’ASƐM NO ‘NYƐ WO MU EDWUMA’,Publications Index. Na book a Jehovah's,1.0,0.9355
+323,"Yɛ guandɔbea ma enuanom. Sɛ enuanom ba asafo nhyiamu na enye hɔn bɔ nkɔmbɔ a, ɔbɛma hɔn enyi agye. Ma enuanom a hɔn enyi efir no ntse nka dɛ edwen hɔn ho.","Yɛgwando bi a ɛne anuam. Sɛ anuam baa sefo nsiem na enyiwa nni gbonko mgba a, obam nwe na enye aji. Me anuam anwe na enye efiri nti nka de ejwe na wanuhu.",0.9062,0.4706
+324,Wo mbuae,"Me nanteo na me ndim, na enyi mma kwan nyinaa emu yie. Na nsa na me bakasa nu mpu.",9.5,8.0
+325,Yɛbɔhwɛ akwan anan a Jehovah fa do hwɛ hɛn.,Yɛbɔɔ saa kwanna nanaa Jehovah Adansefoɔ hɛn.,0.7778,0.3824
+326,"Sɛ Jehovah Rekyerɛkyerɛ Hɛn A, Yɛ Aso Tsie",Sɛ Yehowa Adansefoɔ hyia na yasute.,0.875,0.5882
+327,Ebɛn Nsɛm Na Ibebisa Hɔn?,Saa ozi hwe yɛnsam kakra okanhu. Ibi nsam na ebe bisa hwan.,2.2,1.5
+328,f MFONYIN NO HO NKYERƐKYERƐMU: Ɔyɛkyerɛ​—Enuanom reyɛ Nkaadzi no aber mpo a basabasayɛ esi wɔ beebi a wɔwɔ no.,Zozohoni yɛ mpo nyinaa ayɛ rususu huw nchichem dabiara biara a ɛnho nkyerɛkyerɛm. Enuane numri yɛ nkaazin abirimpa basabasa yɛsi wo baabi a wowɔ.,1.2632,0.7386
+329,"Sɛ ebɔ mpaa serɛ Jehovah dɛ ɔmma nya akokodur a, obesi dɛn aboa wo ma w’enyi aagye wɔ asɛnka mu?","Sɛ ɛbom pɛɛsɛ Yehowa deɛ, womɛnya akwukuuduru a, obi sidii na agbommɔ wɛnya achiwa si nkem.",0.9,0.4865
+330,EBƐNADZE NA OKENYAN HƐN MA YƐHYƐ JEHOVAH ENYIMNYAM?,Ebenezer na okyerɛ yɛn hɛn ma yɛsrɛ Jehovah enyimnyam.,0.5,0.2326
+331,"Tum a Jehovah wɔ dɛ ohu dza obesi daakye no, ebɛnadze na Bible no ka fa ho?","Tumá, Yehowa wode onwene obesi daakye, ebea na akyerɛw Bible ne kafoɔ.",0.8235,0.4386
+332,EBƐNADZE NA JEHOVAH GU DO REYƐ?,Ebe na-azi na Jehova gudoro ya.,1.0,0.24
+333,Nsɛm Afofor A Ɔwɔ Ɔweɔn-Aban Mu,Nsɛm afoforo a ɛwɔ nwoma abien mu,0.6667,0.32
+334,JEHOVAH HYƐƐ HƐN DZEN MA YƐYƐƐ DWUMADZI FOFOR A WƆDZE HYƐƐ HƐN NSA NO,Jehovah Adansefoɔ ma yɛyɛ adwuma dodoɔ biara a woti Jehovah nsɛm.,0.8571,0.5714
+335,Da Akokodur Edzi Na Yɛ Dza Ɔtsen Aber Mpo A Wɔrosoɛr Etsia Wo No,Da akoko dodozi na yɛɛsaw ten abirimpa a woresore tia won.,0.7857,0.3137
+336,Ebɛn nsonsonee na ɔwɔ mbra nye afotusɛm mu?,"Afe apem ahworo Jesus ka ho asem, abrantee Richard Obebea",1.25,1.0571
+337,"Sɛ ereyɛ asɛnka edwuma no a, mma nntwa enuanom a wɔaka dan mu no mmbɔ",Zawafo no nka nkae siri yaa senke juman a me ncheniaa na m'awu aka demu ni mgbo.,1.1333,0.7037
+338,SIANTSIR A BINOM MMPƐ DƐ WONUMA,Sɛn sɛ binom mpɛ de w'anum a?,1.0,0.3462
+339,AFƆRMBUKYIA NO NA AFƆRBƆ,Afarumwuchian na farbo.,0.75,0.4286
+340,Ebɛnadze na obotum aboa wo ma efi w’akoma mu abɔ Jehovah mpaa?,Ebenezer na obotumagbo wo ma efi wo akume ma agbo Jehovah mpaa.,0.5833,0.2449
+341,Nsɛm A Obotum Aboa Awofo,Nso Yohane Nsamkatire a ɔka ho. Nsamu Botuma Aboafo.,1.6,1.45
+342,Suasua Benaiah​—Nna Ɔwɔ Akokodur Na Odzii Nokwar,Sɛeesei Benaya nnoɔfra kuku duru noozi inokware.,1.0,0.4
+343,"“Hom Ntsintsim, Mma Hom Nnhinhim”",M'anim m'anim.,1.0,0.6538
+344,Sisi Gyinae A Ɔbɛma Jehovah N’enyi Agye,"Sisi gyina ha a, ọbɛma Yehowa na ɛnye aje.",1.0,0.3438
+345,"Set alarm . Sɛ ɔbɛyɛ yie a set alarm wɔ wo fon anaa wo tablɛt do ama sɛ ber a edze yɛ wo Bible akenkan no so a, wɔaakaa wo.","Sɛ tɛlɛm, sɔbii a tɛlɛm wofunu anaa w'awotablet do, amasɛ berɛ a ezi wo baebolo kɛnkan nsua, waakaw.",0.7931,0.4176
+346,"Adzesua yi mu no, yɛbɔhwɛ mbrɛ Jehovah kyekyee Jewfo a nna wɔyɛ nkowaa wɔ Babylon no hɔn werɛ, nye dza yebotum esua efi mu.",Yɛbɔɔ Hiob adwuma kyerɛɛ Hiob hɔ a wayɛ nkwa Babilonfoɔ hɔ no ree. Nye Isaiah,0.875,0.6495
+347,ABER A ETSE NKA DƐ W’ENYIDADO NYINARA ASA,Aberekyire ka de woyera din nyinaa sa.,1.0,0.4545
+348,Hwehwɛ asɛm a wɔato dzin “Life Stories of Jehovah’s Witnesses” a ɔwɔ Watchtower ONLINE LIBRARY ™ anaa Watchtower Library do no.,"Hwehwɛ asɛm a watumi live stories of Jehovah's Witnesses a, o watchtower online library ana o watchtower library dɔn asɛm no si.",0.45,0.1765
+349,Wo mbuae,Nkyerɛmu dodoɔ asɛm yi sa. Asafo mpayinfoɔ bɛsidan ama akwora yi akɔda right na asafo no mu.,8.5,10.0
+350,DZA ƆSƐ DƐ EYƐ AMA EETUM ABƐYƐ ASAFO MU SOMFO,Zárate yeye ama etumabea asafomfoɔ.,0.9,0.4722
+351,JESUS ABOA HƐN MA YEEHU DƐ JEHOVAH DƆ HƐN PAA,Jesus abohen mu ye hu de Jehovah dohen paa.,0.7,0.1944
+352,Yebesi dɛn ayɛ krado dze atweɔn Jehovah ne da no?,Yebesiden aya kra do zaa twa Jehovah ne din.,0.8,0.2308
+353,Gye to mu dɛ ɔbɛgye mber kakra ansaana etum eyi nyimpa no ho ebufuw efi wo mu.,"Jitumu deɛ, ɔbɛgye mbre kakra, nsɛnneɛ tumi yi nyimpa no ho egbufoɔ efiri mu.",0.6471,0.2951
+354,MBRƐ YEBESI AKƆ DO ‘ATWE ABƐN NYANKOPƆN’,Emre yɛ bɛsia kɔdɔɔnkyɛ abennyan Nkran.,1.0,0.5
+355,b Hwɛ nsɛm a ɔba a wɔato dzin “ Wotuu Hɔnho Maa Koraa .”,"Asɛw asɛm no ka kyerɛɛ no dɛ, “Hwɛ nsɛm a obaa a wato zi no wotu wo ho hɔ mma koraa.” Asɛw asɛm no esi.",1.6667,1.15
+356,Yɛnye John na Mildred Barr,"Zawa kyerɛwfoɔ nnyinhu kɛnkan deɛ, yɛnkyerɛ John na Mildred Burr.",1.4,1.5
+357,MINYAA HOKAFO PA NA MEDZE MOHO HYƐƐ AKWAMPAA EDWUMA NO MU,Mei anwuka fupa na madi muho she akwa mpa ejumenu.,0.9091,0.4468
+358,SIESIE WOHO YIE ANSAANA AKƆ ASƐNKA,"Sɛ sewo yie a, ɛsane akwansɛm ka.",1.0,0.3793
+359,"ABER A YƐREYƐ ƆMANSIN EDWUMA NO, NNA WƆABRA HƐN SOM",Abraham yeree omenesini Duman na wọ Abraham no so.,1.0,0.4634
+360,OBI A OBOTUM AMA HƐN ENYI AGYE ANKASA,Obi obotum ama wo hyehyɛɛɛ ajeɛ nkasa.,0.625,0.4
+361,EBƐNADZE NA YƐYƐ A ƆBƐMA YƐABƐYƐ CHRISTIANFO A HƐNHO AKOKWAA?,Ebenezer ne Yaya Obama yɛ Kristofoɔ a henwa akukwa.,0.9,0.4902
+362,FA WOHO TO JEHOVAH DO ABER A W’AKOMA ETU NO,"Fa wo nto Jehovah do, na obɛyɛ wo akoma etu.",0.7,0.303
+363,b MFONYIN NO HO NKYERƐKYERƐMU: Nkyerɛbaa beenu bi akɛsera akyerɛbaa bi a ɔabɔ aberwa mbrɛ ɔbɛyɛ a obi a ɔrohwɛ no no botum epue akɛnantsew kakra.,"Sɛ wose woyɛ onipa na ɛsɛ sɛ wuhunu w'adwenkyerɛ mu dodoɔ a, ɛsɛ wuhunu nkyerɛkyerɛmu. Nkyerɛbaa bi no bi a akasa nkyerɛbaa bi a, w'abɔ abrabɔwa, mmere bɛyɛ a obi a ɔrehwɛ nnim, kpotu mpo yɛ aka na nsɛm kakra.",1.1923,0.678
+364,Yɛbɔhwɛ dza yebotum esua efi Gibeonfo no hɔ nye dza yebotum esua efi mbrɛ Jehovah nye hɔn dzii no mu.,Yɛbɛhwe Isaiah 40:28-31.,1.0,0.8519
+365,Jehovah Hyira Mbɔdzen A Yɛbɔ Dɛ Yɛbɛyɛ Nkaadzi No Do,Yehowa Adansefoɔ dzin a yɛbɔ dɛ yɛbɛyɛ nkaazi no,0.5,0.3256
+366,Nyansahyɛ A Obotum Aboa Wo Ma Eesua Adze,Yɛnsɛnkyerɛw obotumɔ agbɔɔ me esiane azi.,1.0,0.6061
+367,"Tsetse enuanom mbarimba no, na boa hɔn ma wɔnyer hɔnho wɔ Jehovah no som mu, ama woetum dze dwumadzi ahorow ahyehyɛ hɔn nsa.","Tete nu anu mu bɛren baanu na bɔho nu mu woyɛre woha Jehovah n'asom, amane tumi zi jumeze ahuru wa shasha nwa nsa.",0.9565,0.4646
+368,Jehovah ne nsɛm yɛ nsɛm krɔnkrɔn;,Yehowa ne nsɛm yɛ nsɛm kronkron.,0.3333,0.1852
+369,Nyansahyɛ A Obotum Aboa Wo Ma Eesua Adze,Nyansa saa obutum aguo ma esia ase.,0.875,0.3636
+370,Gye “Asaase Nyinara Ɔtsɛmbuafo” A Ɔwɔ Ehumbɔbɔr No Dzi!,"Jɛ asase nyinaa rotim gba a, owehummɔɔ ba onuzi.",1.0,0.4773
+371,SIANTSIR A ƆSƐ DƐ YƐGYE NOKWAR NYAME NO DZI,Sɛ nso sɛdeɛ yɛgyina kwanhyia mu no zi.,0.8889,0.4286
+372,NSƐM A MBARIMBA ANOKWAFO KAE ANA WORUWU NO BOTUM ABOA WOARA SO,Nsɛmma mberɛ mma nnokwafoɔ ka yi ana woluwu ni gbetu ma abuo waaso.,1.0,0.3333
+373,Ebɛnadze na okenyan hɛn ma yɛhyɛ Jehovah enyimnyam?,Ebenezer na okenyanhen maa ye sere Jehovah nyinaa.,0.75,0.3488
+374,Enuanom Beenu Abɛka Akwankyerɛ Kuw No Mufo Ho,Enweghi anụmbe na abaka akwa nchịkọta unu mụrụ ụhụ.,1.125,0.6053
+375,MMA NNYƐ NDZƐMBA A ƆBƐMA EPIRA,"M'annya nsem ba a, obaa me",0.8333,0.52
+376,Esuadze A Ɔwɔ Peter Ne Nkrataa Ebien No Mu,Esiane sɛ ɔwɔ Peter ne Nkran ntam ebieno.,0.6667,0.3235
+377,Nya Ahotodo Dɛ Jehovah Botum Agye Wo,"Ɛnyɛ ahoɔden deɛ, ɛyɛ ofubotum akyɛw.",1.0,0.5333
+378,"Ɔpɛ dɛ ɔyɛ biribi a Jehovah mmpɛ, anaa mara na menye n’adwen nnhyia wɔ dza ɔpɛ dɛ ɔyɛ no ho?",Mewɔ baabi a wobu tumi efi gi na yaa wɛsi nu mu abaa naa.,0.9,0.7714
+379,YƐ NDZƐMBA A ƆBƐMA ABƐN JEHOVAH KƐSE,Yɛnsom baa obema bench Jehovah Kaseɛ.,0.8571,0.3667
+380,"Ndzɛmba a nkyɛ obotum ama aayɛ dzen ama Samariafo no dɛ wobonuma no, ebɛnadze na ɔboaa hɔn ma wotumii dzii do?",Nzam ma nce wutumi ma ayirizi na masemewiafiri na obunuman. Ebe na azinabuo hon na wutumi izido.,0.9524,0.4432
+381,"Yɛbɔhwɛ mbrɛ yebesi nye hɛn ebusuafo a wɔnnyɛ agyedzifo no atsena asomdwee mu, na sɛ ɔbɛyɛ yie a, yɛaboa hɔn ma woebosua Jehovah ho adze.","Yebuehyen mu ebi si hye na ebusuafo a wonnye ajezi fu na atena sum mu joi mu. Na se obeye ye a, ya buo hwan ma we busu Jehovah Hwaazi.",0.96,0.4182
+382,Ebɛnadze na Jehovah ama yeehu afa asetsena a yɛwɔ mu ndɛ no ho?,Mmaa na zine Jehovah meye nwaa fa sitina yɛ umu ndanuhu.,0.9231,0.44
+383,JEHOVAH HYƐƐ HƐN DZEN MA YEGYINAA ƆHAW FOFOR BI A NNA YƐNNHWƐ KWAN ANO,Jehovah Yehowa ne din ma yɛgyina hɔ ahaw foforɔ biara a ɛna yɛnhwɛ kwan ano.,0.7143,0.3158
+384,Fa Woho To Jehovah Do Dɛ Mbrɛ Samson Yɛe No,Fɔm hɔ tu Jehovah adan mbre Samson yɛɛ.,0.8,0.3824
+385,Yɛbɔhwɛ dza yebotum ayɛ aber a akasakasa bi asoɛr yɛnye hɛn nua bi ntamu no.,"Yɛbɔɔ hɔɛeɛ de bɔ tuma a yɛeɛ, abrɛ akasa kɛseɛ bi a sɔre yɛn nyinaa no ebi ntɛmen.",1.0667,0.459
+386,Ɔdɔ a yɛwɔ ma Jehovah nye hɛn nuanom si dɛn boa hɛn aber a wɔretan hɛn enyi no?,"Ɔdɔ a Yehowa Jehovah ye no anuonyam sodeɛ mpo hene, aboro a woretahye enyini.",0.7778,0.4098
+387,Wo mbuae,Ebia asɛm no gbetumi ama wo akasa akyerɛ obi na ebia hɔ no ebia esi.,7.0,6.8571
+388,MMA NNYƐ NDZƐMBA A ƆBƐHAW W’APƆWMUDZEN,"Me nya nza mba a, opahowaa pu mu.",1.1667,0.5312
+389,"Sɛ yehia awerɛkyekyer a, ebɛnadze na ɔsɛ dɛ yɛyɛ?","Sɛ yɛhyeɛre chichire, ɛba na aze na osadeɛ yɛ.",0.8889,0.5385
+390,WO GYEDZI BOTUM ETUTU MBEPƆW,Woji zi bo tumi tutu mbe po.,1.4,0.2917
+391,Ebɛnadze na yebotum ayɛ amma bɔn aannkɔ do ‘enndzi hɛn do hen?’,"Ibn Nazim yɛ butumayɛ, amma bɔna nkwado nzi hɛn do hin.",0.75,0.3265
+392,Job Nwoma No Botum Aboa Wo Aber A Iruhu Amandze No,Job aman gbutuma abuo abro iru amanzen.,0.9091,0.375
+393,ƆSƐ DƐ ETOA W’ADZESUA DO ANAA?,Ɔsɛdeɛ ɛtuɔ w'azisii aduane a.,1.0,0.4348
+394,Inyim bɔ afofor a Jehovah hyɛe a aba mu anaa?,Ɛnyimpa foforo Jehovah adansefo abem anaa?,0.8,0.3714
+395,"Mbea pii a hom soom dɛ asɛmpatserɛwfo no, hom sii dɛn dze afotu a ɔno nye “beebi a wobodua wo biara, ibotum ayɛ prɔmprɔm” no yɛɛ edwuma?","Mbia pii a hom sum da asɛnpatere ofon, hom si dɛn za foto a ononye ba ebia ogbodi obiara, igbotum aya prompromin ye ejuma.",0.7778,0.2857
+396,Nya Ayamuhyehye Ma Nyimpa Nyina,Nyaa yɛn nsisi me mpen nyinaa.,1.2,0.5926
+397,DZA NNA ƆSƐ DƐ ASAFO NO YƐ ABER A ƆDZEBƆNYƐNYI NO NUU NOHO NO,Zaanu aseda asafo no ye abura ozigbonye nu nu unu hu.,0.8571,0.4583
+398,Jesus Yɛ Hɛn Sɔfopanyin A Ɔtse Hɛn Ase,Jesu see hen sofo penyin a ote hen ase.,0.875,0.2581
+399,Wo mbuae,Ichem ndebia na ebe asaa a sobi si gina ebi na ihe ndi wa fu ma ebe na asi nosiri ya ye.,11.0,8.7143
+400,DWENDWEN NYANKOPƆN NO BOTAE HO KƆ EKYIR,Gyenyame Nkuto ne butuayi hwo kwa echiri.,1.0,0.7273
+401,Job n’asɛm no besi dɛn aboa hɛn ma yeemia hɛn enyi egyina ɔhaw ano?,"Job na asem no be sidane aboa hye, ma ye mia ye enyi iji na hawa nu.",0.8571,0.2885
+402,Jesus frɛɛ mbarimba bi a wonyim mbrɛ wɔdze eboa pa nam dɛ ‘wombeyi nyimpa.’,Jesus frɛɛ mmere mmienu bi a wonyim mmerɛ wazi ebuo pa nam de wome yii mpa. Akan ka no esi.,0.9286,0.5085
+403,“BIRIBI RINNHIA HƆN A WOSURO NO NO”,Biri bi ree hwan na wosuro no?,0.8571,0.2963
+404,Suasua Obadiah​—Nna Osuro Nyame,Sɛɛ Obadiah na osuro Nyame.,0.75,0.2308
+405,“Jehovah Adasefo kyir mbarimba na mbarimba nye mbaa na mbaa a wɔnye hɔnho da.”,"Yehowa adansefoɔ chi mmarima na mmarima, nyɛ mbaa na mbaa aware nwahu da.",0.6429,0.3226
+406,Ma W’enyi Ngye Aber A Wɔretan W’enyi No,Mewie nji aburo a woretawii nji.,0.875,0.5333
+407,"Nsonsonee a ɔda nokwar a Jehovah dze kyerɛkyerɛ hɛn nye atorsɛm a Satan na hɛn atamfo keka ntamu no, yebosua mbrɛ yebesi ehu.","Nsunsuiniɔ da nokware a Yehowa se kyerɛkyerɛ hɛn, nya twesamaa Satan na hɛn atamfo kekan ntemun, yebosue mbre yebese hu.",0.6957,0.2277
+408,"Bisa woho dɛ, ‘Sɛ mereyɛ ndzɛmba a mebɛyɛ no dapɛn biara mu no ho nhyehyɛɛ a, medze ebusua som ka ho dze kyerɛ dɛ Jehovah no som ho hia me paa?’","Bisaa nwoke no de, ""Sɛ mereyɛ nzam ba a, mebɛyɛ no dɛn na pen biara mu unuhu nhyehyɛe a? Mezigbusiɛ nsom ka nwuzichire deɛ, Jehovah nsom unuhi amepa a?"" Asɛm no esi.",0.8387,0.4037
+409,Bible Mu Afotusɛm A Ɔsɛ Dɛ Isusu Ho,Zozihui yɛn nsɛm kakra a ɔka ho. Bible mu afotusɛm a ɔsɛ dɛ esusu ho.,1.0,0.9286
+410,MA ENUANOM A WƆRETAN HƆN ENYI NO NHU DƐ EYƐ NYƐNKO PA,Mmarima ne mmea waritaya nhunahunu nyinaa nhwɛdeɛ eyɛ nyankopa.,0.9167,0.5476
+411,AYƐ KRADO DƐ IBEHYIRA WOHO DO NA WOENUMA WO ANAA?,"Aya kraado deɛ, igbesi ọhuru du na-wenụ mọwaa naa.",1.0,0.4359
+412,"c MFONYIN NO HO NKYERƐKYERƐMU: Woenuma enuanom binom ewie, na enuanom afofor enyi agye ma wɔrobɔ hɔn nsamu dze ama hɔn akɔaba.",Yɛhuu mfoni numudɛeɛ wei numenu a numbinum ewiee wɛɛsi ezi bi asimawaresɛn. Nnumenu numbinum so jenejina hwaahu na enye aje na warigbohu nsem.,1.0455,0.8627
+413,ADWEN A “ƆBƆNFO NO” PƐ DƐ YENYA,Adwene a ọbọnufoọ pedee yie.,0.8571,0.5217
+414,Suasua Jehovah Na Brɛ Woho Adze,Sɛe sɛ Yehowa na brɛ wo ho ase.,1.0,0.3462
+415,"SƐ YƐFA ENUANOM MBAA DƐ HƐN EBUSUAFO A, EBƐN MFASO NA YEBENYA?","Sɛ yɛfɛniamu mpaada hɔ a ɛhina ɛgbisiafoɔ a, ɛbɛn mfasu na yɛbenya?",0.75,0.4286
+416,SIE ABOTAR HU OBI A EPƐ DƐ EWAR NO NO YIE,Sɛ abuchawufoɔ bi a ɛpɛ daewoo ara na yɛi.,0.9091,0.5806
+417,"Hom mma basia no nnya awerɛhyɛmu dɛ Jehovah, mpanyimfo no, nye asafo no nyinara bu no, na wɔdɔ no paa.","Mema bise ne nyinaa hyira mu da yi. Yehowa, mpenyinfo ne nyiaasefo nyinaa rebu n na wọ dọ n pa.",1.0,0.481
+418,Yɛbɔhwɛ siantsir a ohia dɛ yɛkɔ do ara tsie dza Jehovah dze kyerɛkyerɛ hɛn wɔ adzesua nye nhyiamu afofor ase no yie nye kwan a yebotum afa do ayɛ dɛm.,"Yɛbɔɔ faasin too hyeɛ deɛ, yɛkwadoɛ teaser Jehovah’s Witnesses hinhwaeɛ nsia, nye nsi ma foforɔ si nye yie, nyikwa na igbotu ma afoda ayɛdem.",0.9333,0.4667
+419,"Sɛ Nkaadzi ber no du a, yer woho yɛ pii wɔ asɛnka edwuma no mu.","Sɛ nkaazi biri no dua a, yɛrewunhu yei pii waase nkɛ ejumanim.",0.7333,0.383
+420,“HOM NYI NYIMPA BƆN NO MFI HOM MU”,Homeenyi nyimpa bɔɔnunu mfi hom mu.,0.5,0.2
+421,"Ɔyɛ ampa dɛ gyinae a oesi no botum akɛfa ɔhaw abrɛ no, anaa mara m’adwen na ɔyɛ me dɛm?","Wosan baabiara wateetee na nti, na ɔmo si da mu nyinaa yɛn anaana.",1.0,0.7727
+422,Ebɛnadze na ɔbɔboa wo amma annkɛyɛ bɔn kɛse bi?,"Ebe na-azi na ogbe buo, a maa nke ya gba nkesi bi.",1.1111,0.4474
+423,YERUSUASUA HƐN SƆFOPANYIN NO NDƐ,Yɛwɔ science and health of opinion nwanwa,1.4,0.8571
+424,EBƐNADZE NA OBOTUM ABOA HƐN MA YEETSIE . . .,Ebenezer na Obotum agbo hyehyɛ yi tee.,0.7143,0.4688
+425,"Sɛ yɛhyɛ hɛn gyedzi mu dzen a, ebɛn mfaso na yenya?","Sɛ yɛhyɛɛ Jesus mu zuna, ɛbɛn na mfaso no yɛ inya?",0.8182,0.3846
+426,"SƐ EBRƐ WOHO ADZE A, EBƐN KWAN DO NA . . .","Sɛ ɛbra hɔ azaa, ɛbɛnkwan dwen a.",0.8889,0.3704
+427,aber a hom adwen nnhyia wɔ biribi ho?,"Abera a, homa adwini hyia obiri bi ho.",0.75,0.2414
+428,EBƐNADZE NA JEHOVAH PƐ DƐ AWOFO YƐ?,Ebe na-azi na Jehova Pe Da Wofu ye.,1.0,0.2857
+429,"Sɛ mereka kaar a, mokɔ nyaa dɛ nwɔba ma ɔkye traffic anaa?","Sɛ mereka ka, mo kunya dɛn waba mu wɛ traffic a na?",0.8333,0.2667
+430,Ebɛnadze ntsi na nkorɔfo tan Jesus n’ekyirdzifo hɔn enyi?,Ebi na asɛm kyerɛɛ nkrɔfoɔ tan Jesus na ɛkyerɛɛ sɛ zefo hunu enyi.,1.1111,0.4894
+431,Ana Ayɛ Krado Ama Ahohiahia Kɛse No?,Ama wo ho hiahia kese. Kyerɛ se m'adwuma no,1.1429,0.8966
+432,"Hokwan A Enya Dze Rosom Wɔ Jehovah No Sunsum Afamu Asɔrfi No Mu No, Ma W’enyi Nsɔ",Hwan na enya zero sum wɛɛ Jehovah nusu nsum afɛm asɔre fi n'onwene ma wɛɛ nye nsɔ?,0.8235,0.2857
+433,Biribi A Ɔwɔ Wiadze Fofor Nkyerɛase Bible No Mu A Ibotum Enya Do Mfaso,"Biribiara a owia ase foforo nkyerɛ ase Bible no mu a, igye tumi a ɛdomfaso.",0.7143,0.2456
+434,Yɛbɔhwɛ mbrɛ yebesi aboa Bible esuafo ma woeenya gyedzi nye akokodur dze ayɛ nsesa biara a ohia dɛ wɔyɛ ama woeetum aabɔsom Jehovah.,"Yɛbɔɔ hɔ mbre yɛbesi aboa baabiara esiane afu, na owie nye jezi nyi akukuduru, Zaya nsisesɛ biara ohia da wae, ama owie tuma agbosom Jehovah.",0.8696,0.3945
+435,"SƐ ESOM AFOFOR A, IBENYA NHYIRA PII","Sɛ esuma foforo a, ɛde nsuo ba.",0.7143,0.5
+436,"Bisa woho dɛ, ‘Sɛ motwe asɛm yi mu tann a, ɔbɛma koryɛ atsena hɛn ntamu anaa ɔbɛma asɛm no asɛɛ koraa?’","Zawa twa wo mfonyi nuhu ke nka de, bisa wo hu de, se mo twa asom yi muta ya? Oboma kuro ya atina heni ntem, na oboma asom na sa ya koraa.",1.381,0.6795
+437,EBƐNADZE NA ASAFO MU MPANYIMFO BOTUM AYƐ DZE ESUASUA MBRƐ GIDEON . . .,"Menezi na saafoomfoɔ, boatum ayɛ de siam siam Gideon.",0.7273,0.4815
+438,Nokwar A Jesus Dzii Kesii Owu Mu No Tseew Jehovah Ne Dzin Ho,"Nokware a Jesus yi kasa wo women, se Jehovah ni ze no ho.",0.7692,0.3542
+439,JEHOVAH NYE HƐN AKA ABƆ MU: Jehovah pɛ dɛ ɔnye nyimpa a bɔn wɔ hɔnho ntamu yɛ kamakama,Jehovah nyinye na kaabom. Jehovah pɛ dɛ onyi nyimpa abɔnuwɔnhu ntem yie kamakama.,0.6667,0.2353
+440,"Mbrɛ Jehovah besi ebu Ɔhen Solomon nye hɔn a wɔsɛɛ hɔn wɔ Sodom na Gomorrah na Nsuyirii no mu no atsɛn no, ebɛnadze na yenyim fa ho, na ebɛnadze na yennyim?","Na mbido Jehova banyere obi Solomon, nye huna awosehu na Sodom na Gomora na nsuyi nu nwu na ten. Ebe na zi na ye nyi mfa hu, ebe na zi na ye nyi.",0.871,0.374
+441,Nya Asɛnka Kuw Nhyehyɛɛ No Do Mfaso,Nyansa nka kwan shishe no domfason.,0.8571,0.3793
+442,JEHOVAH NE DA NO BESI DƐN ABA?,Yehowa ne Danbɛsi Dan Aba.,0.7143,0.2609
+443,"Otsia ebiasa, ɔbarimba bi a nna ɔwɔ Corinth asafo no mu a ɔyɛɛ bɔn a no mu yɛ dur bi naaso oennu noho no, ebɛn kwan do na Jehovah boaa asafo no ma wodzii asɛm no ho dwuma?","Otu ye baasa. Obee mebia na owokoro ntasofo num a, oye gba na num ye duru bi na nsu we nu nwan. Ebe nkwandu na Jehovah bu asafu nu ma owodi asemu nu hu juma.",0.8684,0.3893
+444,Dza Ɔbɔboa Wo Ma Esi Gyinae Pa Aber A Epɛ Dɛ Etoa Wo Nwomasua Do No,Zobobuɔ mɛsii jina epaa abere epɛdɛ etio wo mɛsua adon.,0.9375,0.4038
+445,"Sɛ obi ayɛ adze bi ma wɔayɛ hɛn yaw a, adzesua yi bɔboa hɛn ma yeehu ndzɛmba bi a yebotum ayɛ ama yeetum dze no bɔn akyɛ no.","Sọ bía yá zị bímụ wá yéhé yá wá, asị sị ịbọbụọhé, mụ yé hụ nzọmbe bía yé bụtụ mụ ayé, ọmụ yé tụmụ zị nụ gbọ n'aché.",1.0,0.5895
+446,JEHOVAH AGYE HƐN NA OEBU HƐN BEM,Jehovah Jihen nwe buhen bem.,0.7143,0.3077
+447,ENYIGYE A YƐWƆ NO KENYAN HƐN MA YƐKƆ DO ARA SOM JEHOVAH,Enyigye ayɛ wo ni kɛnyahɛn ma yɛkwado ara sum Jehovah.,0.6667,0.1591
+448,BOA WO SUANYI NO MA ONHU DZA OSIW NO KWAN DƐ ƆBƐBA ABƆSOM JEHOVAH,"Bụa wushie enyi ma ọ hụja oso unu kwanu, dọọ baaba agbọsịm Jehova.",0.9286,0.4808
+449,"Woananom na yɛto nsa frɛ hɔn dɛ wɔmbra Nkaadzi no bi, na ebɛnadze ntsi a?","Wɔn anum no yetuu nsa firii hɔ dɛɛdɛɛdɛ,wɔn mmere nkwaa a ezinibi na ebe na-azi ntea.",0.9333,0.5088
+450,NDZƐMBA AFOFOR A YEBOTUM AYƐ DZE AHYEHYƐ HƐNHO NKURAN,Nzemba foforo ayebotu ma ye za shishi hen honkuran.,1.0,0.2889
+451,Ebɛnadze na Jehovah pɛ dɛ nyimpa nyina yɛ?,Ebenezer Jehovah pii deɛ nyimpa nyina aye.,0.625,0.2941
+452,Józef Krett,"Zaire hɔnyi, Yunia Joseph Kasa nufo nyin.",3.5,3.0
+453,BIRIBI A IBOTUM ESUA HO ADZE,Bibiara a ebetumi asiane ho azi.,0.6667,0.5652
+454,Ɔdɔ a yɛwɔ ma nokwar nye dza ɔtsen a hɛn enyi gye ho dɛ yɛbɛyɛ,Ɔdɔ a yɛwɔ ma nokware nye iziɔtinaa hɛn ije Huda yɛbɛyɛ.,0.5333,0.2708
+455,"Sɛ ‘yɛtwe bɛn Nyankopɔn’ a, ebɛn mfaso ahorow na yebotum enya?",Sɛ ɛbɛyɛ bɛn na Onyankopɔn a ɛbɛne mfaso ahuro no yɛ betumi enya?,0.7273,0.3333
+456,Ebɛnadze ntsi na ɔsɛ dɛ yɛhwɛ yie na yaamma hɛn enyi ammber sika?,Mpanin a zintini osi de ye hwe ye na ye ama hye ne yam brisika.,1.0769,0.4615
+457,"SƐ WO TSEBEA SESA A, DA NTSEASEE EDZI",Sɛ wotumi sesa danta siezi.,0.75,0.3793
+458,"Ɔweɔn-Aban a ɔbae wɔ afe yi mu no, agye ber akenkan ne nyinara anaa? Ɔnodze, hwɛ dɛ ibotum eyiyi nsɛmbisa a odzidzi do yi ano a:","Anyawa aban a ọbá ewa fie mu, ajibra k'inká ni nyinaa naa. Ọnuzé, fedi ebotu m'eyiyi nsem bi so zi di ya naa.",0.9615,0.4286
+459,"DZA NOKWAR NYAME NO KAA DƐ ƆBƐYƐ NO, OGU DO REYƐ","Sɛ nokware nyame na kae dɔbɛyɛn, oguduru yɛ.",0.9091,0.2703
+460,Dza Jesus faa mu aber a ɔbaa asaase do no sii dɛn boaa no ma ɔbɛyɛɛ hɛn Sɔfopanyin a ɔkyɛn biara?,Zackie says film abrofo baasa aso do nsi da nbuo nmoa baa hye nsofupe nyina okyen biara.,0.9048,0.4605
+461,"Gyinae no a oesi no, ɔato Bible mbra bi anaa?","Sɛ wonyɛ Kristoni bi a esi gina na enye no enye adwene a, ebetumi aba sɛ ahunsema a horow a owasihi. Sɛ eyɛ dama a, ohorow mma mfa nsɛm bi enha wo ho.",3.0,2.7059
+462,Ebɛnadze na obotum aboa awarfo amma mframa ammfa hɔn ntamu?,"Ebe na-azi na obotu ma agba wu afo, ama mfa ama mfa ho na ntem.",1.4,0.3265
+463,YƐBƐYƐƐ AKWAMPAAFO NA AWOFO,Yɛbɛyɛ akompaafoɔ na wofuo.,0.75,0.25
+464,Ebɛnadze na yebotum ayɛ dze aboa hɛn asɛnka kuw no?,Ibe na-asị na ịbụtumma ga-ezagbu onye na-asị nkụkụ unu.,1.0,0.5854
+465,"Sɛ wɔka dɛ yɛnhyɛ Jehovah enyimnyam a, ɔkyerɛ dɛn?","Sɛ wokadie nsɛm a ɛfa Onyame nyimpa a, ɔkyerɛ dɛ",0.7778,0.45
+466,Wo mbuae,"inyimedo na akwantu me ye hwn. Ibe na resi me na Jesus ama hwan na awoafo no na ene ejanya nku ne nya. Hene nyinaa, ye pede ya kodo aya Jehovah Nyankopon na",16.5,16.4286
+467,ibesi dɛn enya no ho adwen pa?,"Ibe si na enyanwu ha ajọ mpa, njem otu a ọhụrụ eduo na elu m na-egbatu uzo ewi, na-asi nti nye, enyi je, nyi mgbaburu hufo, aka nka na-esi.",4.1429,3.6957
+468,"a Adzesua yi mu no, yɛbɔhwɛ mbrɛ yebesi akɔ do nye Jehovah enya ebusuabɔ na yaakɔ do ama hɛn enyi ada hɔ. Afei so, yɛbɔhwɛ mbrɛ yebesi ahwɛ hɛnho yie na yɛdze hɛn mber edzi dwuma yie.","Afei nso, yɛbɔɔ hɔ mmere bi saa akwadaa yi Yehowa enyi gyusu abɔ na yɛakwadaa amanhene yi ada hɔ. Afei so, yɛbɔɔ hɔ mmere bi saa ahwɛyi hu yi na yɛasi hɛne mmere di dwuma yi.",0.8649,0.4126
+469,DZA YEBOTUM ESUA EFI PHOENICIANYI ƆBAA NO HƆ,Zayibutu misi fifini si enye obaa anigho.,1.0,0.5135
+470,Wo mbuae,Adwuma daadaa a Eve ne Onyankopɔn Yehowa di asoɔsen. Yehowa bɔɔ Adam ne Eve. Wanchakwraa na Satan,8.5,10.5714
+471,"Dɛ mbrɛ David yɛe no, ebɛnadze na yɛyɛ a ɔbɛma Jehovah abɔ hɛn ho ban?","Dɛm berɛ David yɛn, ebe na asɛnka yɛ ya, obo me Jehovah abɔhen huba.",0.8667,0.2778
+472,KEN KIUCHI NANKASA N’ANOMU ASƐM,"Kenkey ne chinagasen numasem, eye nwunu a kenkey chi nu nfonyin.",2.2,1.3846
+473,Ebɛnadze ntsi na ɔbarimba nye ɔbaa bi nantsew?,Ibe naazi nti na obara mba anyi oba abii na ntu.,1.25,0.3684
+474,YEBOTUM DZE HƐNHO ATO BIBLE NKƆNHYƐ DO,Yebetumi zehenwa to Bible nko nshyado.,0.8571,0.25
+475,Mbrɛ Jehovah nnyɛ enyimhwɛ no boa hɛn dɛn?,Mbree Jehovah enye nyim mhwɛ nbuohen den?,0.875,0.2941
+476,BOA NO MA ƆMFA DZA ORUSUA NO MBƆ NE BRA,Mmaa mfa zaa orusuu anu mgbe ana bra.,0.9,0.4667
+477,Nkɔm A Jacob Hyɛe Ansaana Oruwu,Zoe zụọ ya nsam ka krakro ka hụ. Nkọma Jacob share nsá n'orugwu. Ye hụ Juda nụ mfonyin. Zawa chọọ mfonyin hụ ka nka nde.,4.0,2.8462
+478,KUNNOM BESI DƐN DZE AFOTU A ƆWƆ KYERƐWNSƐM A ODZIDZI DO YI MU NO AYƐ EDWUMA?,Kunun mbesia den zaa fito wachi osi mosi ze di mu na ye juma.,0.9375,0.5
+479,"Sɛ isiesie woho yie ansaana akɔ asɛnka a, obesi dɛn aboa wo ma w’enyi aagye wɔ asɛnka mu?","Sesei, yɛwɔ wiase a saa na akwasonka. Obisia na mpo wonya akyɛwasonka.",0.9444,0.4638
+480,ASETSENA MU NSƐM,"asetena mu nsɛm. Yesu yɛ nsemba pii, efi ne nkyerɛkyerɛ foforo, nyinohɔ, ne nkwa ndenyi na Frank Dagostini na",5.6667,5.3571
+481,Ebɛnadze ntsi na ɔnnyɛ papa dɛ ibotu w’enuma ahyɛ da?,Ɛbɛn na ɛsɛ ne onipa papa de? Ɛbɛtu wo nu ma asada?,1.1,0.4762
+482,Nsɛm a ɔba toatoa do a wɔato dzin “ Mboa Ma Ebusua No ”,"Ibe asaa, nsɛm abɔchiochi dɔɔso a w'achusi mgbue a m'egbushi an.",0.9167,0.8
+483,DZA ƆBOAA JESUS MA ƆDZE JEHOVAH NO SOM DZII KAN,Ɔsomfoɔ Jesus mɔzi Jehovah no som zikan.,0.6,0.3158
+484,Ebɛnadze na yebotum esua efi dza ɔtoo Moses nye Israelfo no mu?,"Ɛba no a, na yɛbɔ tumi a esu yɛɛ pharaoh tumi Moses, Nyame Israelfo nim.",1.0833,0.5098
+485,EBƐNADZE NA ESUA FI NSƐM A JACOB KAA KYERƐƐ NE MBA MBANYIMFO A WODZIDZI DO YI MU?,"Ebenezer, yɛsuo fie nsama Jacob ka kyerɛɛ ne mba mbenfoɔ a wozizi diim.",0.7059,0.3125
+486,ENUANOM MBARIMBA BESI DƐN ESUASUA MBRƐ JEHOVAH SI BU MBAA NO?,Ɛnneɛ ano mberɛ mba bɛsii da na esuensuam berɛ Jehovah Sɛbɛn baane.,1.0909,0.36
+487,EBƐNADZE NA AWOFO BOTUM AYƐ DZE ABOA HƆN MBA MA . . .,Ebe na-asi na ofu boto mmanụ aịya zaa gbuo anụ na mba.,1.1,0.6053
+488,MBRƐ YEBESI ETSIE ASƐM YIE WƆ ADZESUA ASE,Mprebi besi tie asɛm yi w'asisi asɛ.,0.875,0.4118
+489,"Adzesua yi mu no, yebohu dɛ sɛ asɛm bi si na yenya abotar dwen ho yie a, ɔremma yɛnnyɛ biribi a ekyir yi yebonu hɛnho.","Asiɛ yi mu no, ibonwude saa asɛm bi si na inya bocharu ju nwu ye a, ori ma ye ye bibia ichiri igbonu ye nwu.",0.72,0.4615
+490,Adzesua yi bɛhyɛ enuanom mbarimba a woenuma hɔn no nkuran ma wɔaayer hɔnho abɛyɛ asafo mu asomfo.,"Adisɛn bɛshee nnombarimma a wudii mmuho no Quran, ma wayiri wọhu, abɛyɛ asafo mmasomfo.",0.7059,0.3875
+491,hɛn enyi egyina ndzɛmba a yeegya no ekyir no?,Ɛne nyigye ne nzemba yi ije ne chiwin.,1.0,0.5
+492,MA WO SUANYI NO NHU DƐ EWƆ AWERƐHYƐMU DƐ OBOTUM ABƆSOM JEHOVAH,"Mawu suei nu hude, iwa ru esemude ogbutu ma gbosu Jehovah.",0.9167,0.4314
+493,Ebɛn mfaso na yenya fi asɛnka kuw a yɛwɔ mu no mu?,Ibenifa su ne inya fia sen kokoɔ a yɛwom nom?,0.9167,0.3684
+494,ebɛnadze na ɔbɔboa wo ma eeyi no ho ebufuw efi wo mu?,"Ebe na-azụ nọgbo buo, m ga-eyi nụ ebu fụọ ese ụmụ.",1.0,0.5122
+495,"Yɛbɔhwɛ dza Jesus yɛe aber a ohun esisisɛm a nna ɔrokɔ do no, nye mbrɛ yebesi esuasua no.","Yɛbɔɔ saa akyerɛ Jesus yɛi, aburoo a ɛsisi sam a nnɔrkɔdɛn, nyimberɛ yɛbesi asu nsuan.",0.8889,0.4
+496,Yɛbɔhwɛ ndzɛmba ahorow bi a yebotum ayɛ ama hɛn enyi aagye paa aber a yɛakyɛ adze no.,Ohyɛɛ nzam ba ahuro biara yɛ butumayɛ a muhinini ya jipa abere ya charging.,1.0,0.4706
+497,Jehovah pɛ dɛ ohyira n’asomfo a wɔdze nokwardzi som no no?,Jehovah pɛdɛ́ɛ́ wóhyirɛ́ n'asomfó á wózí nokwáré só múné.,0.7273,0.2826
+498,Bible mu afotusɛm ahorow bi a obotum aboa hɔn a wɔnnwaree ma woeenya obi a ɔfata awar no nye dza enuanom a wɔwɔ asafo no mu no botum ayɛ dze aboa esigyafo a wɔpɛ dɛ wɔwar no.,Bible mu afotu samaa hodo bi a obotuma buo hwan a wonwarei ma wei nye obi a ofata awarei. Nyi saa enua numo wo asafo numo botuma ye sa buo sija fa awopedo awarei.,0.8108,0.3285
+499,Gyedzi Na Ndwuma Botum Ama Jehovah Ebu Hɛn Dɛ Atseneneefo,Chezinne nnwuma kpochuma Jehovah bughi ndi atini na-efu.,0.9,0.4375
+500,JEHOVAH HU HƐN MBƆBƆR NA ƆDZE HƐN BƆN KYƐ HƐN,Na Onyankopɔn nkyerɛn na osebɛkyerɛ mmbrɔdu. Jehovah,0.9,1.0
+501,"Mbrɛ wodzii bɔn a no mu yɛ dur bi ho dwuma wɔ tsetse Corinth asafo no mu no, yɛbɔhwɛ dza yebotum esua efi mu.","Mberɛ weti gba na anumɔyɛ di obi hu juma wachete current asafo numɔn, yɛgbohwɛ za yɛgbo tumi esu yɛhwim.",0.9583,0.4286
+502,Ebɛn atorsɛm na Satan keka fa Jehovah na Jesus ho ndɛ?,"Ebenezer na ɔmaa ijize paade, Jehovah na Jesus peewasia",0.6364,0.5814
+503,Wo mbuae,Nhyiamu biara aseɛ misa. Dɛm bre James te n'anum nhyiamu dua koro ma yehuu n'ɛba na asɛm na okobo tumi atua na abirimpo a yehuu nkwari.,13.0,14.2857
+504,BI A JEHOVAH RUMMBUA HƐN MPAABƆ DƐ MBRƐ YƐHWƐ KWAN,Bia Jehovah Rumbaugh hyɛɛ mpaabɔ dɛm berɛ yɛhwɛ kwan.,0.6,0.1707
+505,ebɛnadze ntsi na ɔtɔ da a ɔsɛ dɛ yɛyɛ nsesa wɔ ndzɛmba a yebisa no mu?,"Ebenezer nti na otwa da a, osode yɛ yɛn nsisa wɔ nzambɔ yɛ bisanom.",0.75,0.3519
+506,"Aber a nna menye Adel, nye hɛn mba Samuel, na Shirley rosom wɔ Palawan","Zawachowfoɔ nyinaa ka ho deɛ, abere a na meye adɛɛ, nye hyeɛ mbasiafoɔ na Shelly Rusom wopale hwan.",1.1429,0.8
+507,"Adzesua yi bɔboa hɛn ma yeehu ndzɛmba a obotum asɛɛ hɛn enyigye. Na sɛ hɛn enyigye asɛɛ a, yɛbɔhwɛ dza obotum aboa hɛn ma hɛn enyi asan agye bio.",Asɛm a ɛbɔɔ hɔ ne ma yɛhu nza mpa abotum asɛe hɔ ne enyiwa. Na asɛe hɔ ne enyiwa a ɛsɛ yɛbɔhwɛ zɛ abotum abɔhɔn ma enyiwa asa na agyibi.,0.931,0.4211
+508,a Wɔasesa edzin ahorow no bi,Asew asɛm ne ka nne. Wɔase se ezinahoro nu bi. Asew asɛm na esi.,2.1667,1.3043
+509,YEBESI DƐN AKYERƐ DƐ YƐDWEN AFOFOR HO ABER A . . .,Yebesi dɛ nacherɛ dɛ yɛdwene afoforɔ ho abura,0.6667,0.1389
+510,Mbrɛ Hom Besi Ama Hom Nantsew A Odzi Awar Enyim No Akɔ Yie,Mbre hɔn bɛsɛ ama hɔn na ntewaa wozawore nyim na akoye.,0.9231,0.3478
+511,"Hwehwɛ dza obotum aboa wo ba no. Nsɛm a ɔwɔ ɔfa a wɔato dzin “ Mbofra ” no botum aboa wo ma apaw dwumadzi ahorow bi a ɔbɔboa wo ba no. Sɛ ibotum ehu dɛm nsɛm yi a, hwɛ “Ebusua Som Mu Dwumadzi Ahorow.”","Si na ọ bụrụ na mụ agbaa wuban, nsogbu ọ bụla ọ fa wa tụrụ di na mgbe ọ fụrụ na mụ agbaala ma a pụọ ojume izu ahụrụ bịa, ọ bụ gbaa wuban. Si gbotum igwe ndụ m nsị mụ ịya, si ebusu ya nsụ mụ ojume izu ahụrụ.",1.1667,0.6376
+512,NHYIRA A HƆN A WONYIM JEHOVAH YIE NO NYA,Nshira a honam onii Jehovah ye enu ya.,0.7778,0.2812
+513,EBƐNADZE NA ENUANOM BOTUM AYƐ DZE ABOA HƆN A WƆRENANTSEW NO?,Ebenezer nua no mber tuma yɛ za abuo hɔ na aware na nsewun.,1.1818,0.3469
+514,"Edwumakuw bi a wɔfrɛ no National Institute on Aging (NIA) a ɔwɔ United States no hɔn wɛbsaet ka dɛ, ibotum ebisa woho nsɛm a odzidzi do yi:",Adwuma koro biara wo National Institute on Aging na owo United States no wo won website ka de. Ibotumi ebisa wo nsɛm ozizidi.,0.6667,0.2752
+515,"Sɛ yɛtse nka dɛ yerunntum nnyɛ akɔndɔ bɔn ho hwee anaa osian akɔndɔ bɔn a yenya ntsi Jehovah remmfa hɛn nnyɛ hwee a, ebɛnadze na obotum aboa hɛn?","Sɛ yɛtɛn ka de yɛrewu ntumi nyɛ akwannobɔnhwe, na wosi na akwannobɔn no enye nti, yewaru mfa nyɛ hwe a, ɛbɛnazi na wogutumi agbonhwe?",0.8929,0.431
+516,Ebɛnadze ntsi na ɔsɛ dɛ yɛdze hɛn werɛ hyɛ “nokwar Nyame” no mu?,"Ebe na-azi nti na osede, yezihenu wuru she nokwara nyami nu.",1.0,0.4286
+517,"Afotusɛm ahorow a Jesus kaa ho asɛm aber a nna ɔrekyerɛkyerɛ wɔ bepɔw bi do no, bi nye dza ɔwɔ hen?",Nnipa bebree na enya mu hotie di okronwe num na yebotoo ze wie.,1.0,0.8052
+518,"Sɛ Egye Ber Sua Adze Yie A, Ɔbɔboa Wo Ma Eesiesie Woho Ama Dza Obesi Biara","Sɛ Jibril siane yɛɛ ya, ọbɔbɔa womu esi si ụnwnu amazo be si biara.",0.875,0.4483
+519,"Fa si w’enyi do dɛ erennkenkan wo mbuae no mmfi nwoma no mu tsenn. Sɛ edze wankasa wo nsɛm ma mbuae a, ebɛhyɛ afofor dzen na ɔbɛma woehu dɛ egye Jehovah dzi.","Sɛesɛɛ yi deɛ, ɛrenkan wo mboen nsin baanu mu tee. Sɛ wankasa wonsa mboen a, ɛbɛsha afoforɔ dɛn na obomu wi hu dɛ iji Jehovah di.",0.7812,0.4426
+520,Wo mbuae,"Me hyiaa de gbafo Pii, ama yetumi ayɛ pii waasɛn ke ejuma no. Anaada eyɛ zibota bi a esi he enyi duwu Jehovah n'usu mu?",12.5,12.2857
+521,"Hom botum esua dza hom botum aka wɔ asɛnka mu. Hom wie a, hom mu kor botum ayɛ fiewura na hom abobɔ dza hom esua no do.","Humbotumi sua za humbotuma akan wasankim. Womu wia, hummu kuru botuma esuira. Nuhum abubo za humu esuia nudo.",1.0,0.3444
+522,“Nokwar Nyame” No Dzi No Bɔhyɛ Do Aber Nyina,Nokware nea mmeae zi no bɔ shadow aburokyiri nyinaa.,0.8889,0.5294
+523,Hom mma basia no nhu dɛ noho hia Jehovah. Afei hom nhyɛ no nkuran ma ɔnkɔ do nsua adze na ɔmbɔ mpaa mfa nhyɛ ɔnye Jehovah ntamu ebusuabɔ no mu dzen.,"Huma bɛsɛ n'onwude n'onwuihiahia Jehova. Afei, huma nhyehyɛe nkra mɔ nkɔdɔnsiazi n'ɔgbɔmpaa, mfa nhyehyɛe onyi Jehova nti mebusia gbe n'umuzin.",0.9355,0.4052
+524,JEHOVAH AMA HƐN WERDAM NO,Jehovah m'henire damon.,0.8,0.381
+525,Ibotum Akɔ Do Asom Jehovah Dɛ Mbrɛ Peter Yɛe No,"Ibotum akodua sum Jehovah, demre Peter yen.",0.7,0.2105
+526,"Wɔahyɛ da ara akyerɛw asɛm yi ama yernom a hɔn kunnom hwɛ ponografi no. a Asɛm yi bɛma woehu Bible mu afotusɛm ahorow bi a ɔbɛkyekye hɔn werɛ, na ɔbɛma woenya awerɛhyɛmu dɛ Jehovah bɔboa hɔn. Afei so, ɔbɔboa hɔn ma hɔn asomu adwe hɔn na wɔaakɔ do nye Jehovah enya ebusuabɔ a no mu yɛ dzen. b",W'ashadara akyerɛ wo asɛm yi ama yɛrenuma ahuhunkunu nhwehwɛmu.,0.9483,0.8166
+527,Yɛbɔhwɛ mbrɛ okun bi besi dze ne kasaa nye ne ndzeyɛɛ akyerɛ dɛ odzi ne yer nyi.,"Yɛbɔɔhɛmbeo kune bi, pɛsɛɛ ne kasa nyinaa yachiri deɛ wozini yiri nyi.",0.8235,0.4762
+528,“Manntse Nka Dɛ Wɔaka Manko Da”,Mansi nka deɛ waka ma nkuda.,0.8333,0.25
+529,Ebɛn ɔhaw na ɔsɛ dɛ binom dzi do mbrɛ ɔbɛyɛ a wobotum akɔ Nkaadzi no bi?,"Ibenna oha noo sida ebi n'umuzi do, mgbe obeye awugbo tumo akwukwo azi n'ibi.",0.9375,0.5
+530,WƆHYƐƐ ASE DƐ WƆREHAW HƐN WƆ CUBA,Wɔhyɛɛ aseɛ de war hɔhen wɔ Cuba.,0.5714,0.2593
+531,Ma Ɔdɔ A Ewɔ No Nkenyan Wo Ma Kɔ Do Ka Asɛmpa No!,Mmodɔ a ɛwɔ ne nkenyan ne nhumakwɔdɔ ka asampan.,0.7692,0.3611
+532,YEBESI DƐN ABOA HƐN BIBLE SUANYI BI MA . . .,Yebesida na abuo hya na Bible so enyi bi mma.,1.0,0.3226
+533,"Sɛ ereyɛ dwumadzi bi, na ɔhwehwɛ dɛ enuanom ma mbuae a, bɔ mbɔdzen frɛ nkorɔfo pii ma wɔmma mbuae. Ibesi dɛn ayɛ dɛm?","Sɛ ɛyɛ adwuma ezi bi na ohishie de enu anu mme mbuo ya, bɔ mbozi nfrɛ Nkroful P. m'awu mme mbuo yi. Ibeside na ayɛ dem.",0.913,0.3516
+534,SATAN KEKAA ATORSƐM FAA JEHOVAH NYE JESUS HO,Nkyerɛkyerɛmu ebi a esane misa. Eba na kwan na Satan,1.25,0.9459
+535,"Adzesua yi bɔboa hɛn ma yaayer hɛnho akenkan Nyankopɔn n’Asɛm no da biara da. Afei so, ɔbɔboa hɛn ma yaagye ber adwendwen dza yɛkenkan no ho, na yɛdze dza yesua no aabɔ hɛn bra.","Aseɛ si, ɔbɔbɔɔ henemaa yaa yɛn ho akanea kɔpɛɛ n'asam dabiara da. Efii so, ɔbɔbɔɔ henemaa yaa agyebura gyin gyin zaa yɛn kanea no ho, na yɛzezɛɛ yɛsuani agbohenemaa.",0.8824,0.4317
+536,Aporisifo egyina me osian me kaarka ntsi anaa?,Aponkyerɛ fweɛ din a mosam me ka yi akenkan a.,1.125,0.5263
+537,GYAA BIRIBIARA MU MA JEHOVAH ABER A WƆNYE WO ENNDZI NO YIE NO,"Da biara mu ma Yehowa, abrabɔ nyinaa mu di ne yɛn.",0.8462,0.4694
+538,yenya enyidado dɛ daakye sintɔ a wɔdze awo hɛn no befi hɔ?,"Yɛn nyinaa nyinaa dwodwo daakye, si ntawaza wo hen ne befi ho.",0.9167,0.3696
+539,Sunsum afamu asɔrfi no nnyɛ sunsum afamu paradise. Sunsum afamu paradise no gyina hɔ ma asomdwee nye koryɛ soronko a ɔwɔ Nyankopɔn n’asomfo a wɔrosom Jehovah wɔ no sunsum afamu asɔrfi no ntamu.,Sunsum a efri mu asorefini ne sunsum a efri mu paradise. Sunsum a efri mu paradise no gyina hɔ ma asomdwee. Nyankopɔn n'asomfoɔ a wɔre som Jehovah wɔ no sunsum a efri mu asorefini ntem.,0.7273,0.2785
+540,Enuanom Mberantsɛ​—Hom Nsuasua Mark Na Timothy,"Nnyansɛm Bɔnten, Homunsun Sɛm Maak ne Timote.",1.1667,0.4359
+541,Yebesi dɛn ayer hɛnho aper akɔ kan wɔ gyedzi no mu?,Yebesore na yegyina yɛn ho apirakwan wɛgyidinu mu.,0.9091,0.4
+542,c MFONYIN NO HO NKYERƐKYERƐMU: Onua bi rodwendwen ho dɛ ɔmfa noho nhyɛ ber nyina som edwuma no mu anaa ɔmfa noho nhyɛ nwomasua a ɔkɔ ekyir mu.,"Na ozi ọma a yenfunyina yɛresusu ho nkyerɛkyerɛ mannan kɛseɛ nnum no nkyerɛkyerɛ mu. Ɛno iwere jonjon no ho deɛ, ọnfa na wonhyɛ biribiara nsu me jumadum, na ọnfa na wonhyɛ nwomesuɔ nkwa ekyirim.",1.1786,0.7788
+543,ABER A W’ADWEN YƐ WO DƐ MBER BI A ABƐSEN KƆ NO ENNSISI GYINAE PA,Aberewa adwene yɛɛ ɔda ɛmmere biara abɛse nkɔn nsisi gyinaipa.,1.0,0.2857
+544,Yɛbɔhwɛ dza obotum aboa hɛn ma yɛakɔ do ara asom Jehovah ɔmmfa ho dza ɔbɔto hɛn biara no.,Yɛbɔɔ Jehovah Adanfo tumi abɔɔ hia na yɛakɔdɔ asu m'Adanfo a ɔmfã w'ozi a ɔbɔtu hia mbiara.,1.0,0.5634
+545,KYERƐWNSƐM A ODZIDZI DO YI BESI DƐN ABOA HƐN AMMA YƐANNKASA ENNTSIA AFOFOR HƆN GYINAESI?,"Trus ma, ozi di ebe si na abuo hie. A ma m ya nka si nti afufu hu gi na esi.",1.4,0.4795
+546,Irinya Kyerɛwnsɛm ahorow a wɔakyerɛkyerɛ mu wɔ Buukuu A Jehovah Adasefo Dze Yɛ Nhwehwɛmu mu no do mfaso anaa?,Irene Acheampong ama ahoɔwhɛ a wakyekyere mu booku a Jehovah Adansefoɔ de yɛ nhwehwɛmu no domfasa na.,0.6842,0.3444
+547,JEHOVAH NAM NO SUNSUM KRƆNKRƆN NO DO KYEKYE HƐN WERƐ,Yehowa nam nsonsonokronnado kyekye hen rem.,0.8,0.3953
+548,Ayefor A Ɔhyɛ Jehovah Enyimnyam​—Wɔyɛ No Dɛn?,Agyefoɔ hyɛ Yehowa enyimnyam. Wɔyɛ ne dɛn?,0.8571,0.1944
+549,MBABUN—OBOTUM ESI HOM YIE,Mbebu n'obutumesigum yɛ.,1.0,0.2857
+550,(Bankum) Nna Emilia yɛ edwuma wɔ beebi a wɔpam adze wɔ Cuba Bethel,"Zawaa chiwon foni okin kande, na meeli yi juma obi bi opoma ziwo Cuba Beto. Nufoni na wu nye nfo numusu, ye hude Gustavo rumo kasa wu ishi za sa bido.",2.3077,1.7885
+551,hɔn a wodzi ndzɛmba enyim wɔ Jehovah n’ahyehyɛdze no mu no?,Hwan na wode nzembe nyim? Wo Jehovah na esheche zi no nwan?,0.9091,0.4468
+552,"Sɛ hɛn adwen yɛ hɛn dɛ hɛnho nnhia Jehovah a, ebɛnadze na ɔsɛ dɛ yɛyɛ?","Sɛ hiahia yɛ hiahia deɛ, hiahia Yehowa, ɛbɛn wo na ɔsɛdeɛ yɛ ye.",0.8,0.5185
+553,Yebesi dɛn akyerɛ dɛ yɛgye Jehovah dzi na yɛbrɛ hɛnho adze tse dɛ Gibeonfo no?,Yebesre na akyerɛde yɛje Jehovah di na yɛbrɛ yɛn ho ase today gye bɔn.,0.8,0.3492
+554,"Mpaa a Jehovah n’asomfo bɔe a ɔwɔ Bible no mu no, sɛ edwendwen ho a, obesi dɛn aboa wo?","Mpaa Jehovah na asomfo gbo ya owu bu olumonu, so ejwe njwe na nwa obele si na abu owu.",0.9474,0.4308
+555,Nyansahyɛ A Obotum Aboa Wo Ma Eesua Adze,Nyansa shee obutum abuo me suase.,1.0,0.3939
+556,Kyerɛwnsɛm ahorow a odzidzi do yi botum aboa wo ma eehu dɛ esom bo ma Jehovah:,"Chineke m, ahụrụ m n'anya na ị bụ ezigbo mmadụ na-ahụ n'anya na-eso mgbe Jehova.",1.0,0.7097
+557,Ebɛnadze ntsi na ɔsɛ dɛ yɛma hɛn nkwa som bo ma hɛn?,Ebe na-azi nti na osisi na-emeghi nku osu bu mehen.,1.0,0.55
+558,YESUAA KASA FOFOR NA YƐSESAA ADWEN A YƐWƆ WƆ AFOFOR HO NO,Yesu yii kasa foforo na yɛsii saa aju na ayɛ wọwọ afoforo mu.,0.9167,0.3261
+559,ISRAEL ITAJOBI NANKASA N’ANOMU ASƐM,Israel itojo bi na nkasa ne nim asom.,1.4,0.1667
+560,Seseiara yɛrosom wɔ Myanmar,"Zawachow wunfo nyinuh keh nkah ndee. Sesea, yɛresom Myanmar.",2.0,1.4583
+561,Wo mbuae,"Kyerɛ me nsia asɛmbisa. Ebea na asi na yesi nsia, saa mpo ne Matthew 3:6, nnyim edon-enum na edon-esia num.",10.0,10.8571
+562,"Akwan a Jehovah fa do kyerɛ dɛ ɔgye hɛn to mu no, bi nye dɛn?",Akwana Jehovah fado kyerɛɛ dɛ ogyi hɛn ntumii bi nyimden.,0.7333,0.2444
+563,Ebɛnadze ntsi na ɔsɛ dɛ inya awerɛhyɛmu dɛ Jehovah dɔ wo paa?,Ebenezer nti na ɔsɛdeɛ inya ahurisim da Jehovah dawupa.,0.75,0.3469
+564,"Elihu rutu Job fo no, ebɛnadze na ɔyɛe dze kyerɛɛ dɛ nna onyim nyansa?","Na ehuru tupu ijoba ofon, ibe na asi na o ihea isi chiri ede na onyiminya nsa.",1.1429,0.5273
+565,ENYE W’EBUSUA MBƆ MU NHWƐ JEHOVAH N’ABƆDZE,Ɛneɛ wɛgbusia mgbom m hwɛ Jehovah na agbazi.,1.0,0.4412
+566,DZA YƐYƐ A ƆBƐMA YƐABƐN JEHOVAH KƐSE,Jose ho yɛ anigye kɛse. Zayeyo abamayɛbɔn Jehovah kɛse.,1.0,0.7667
+567,Ɔsɛ dɛ yɛma nwomasua anaa edwumasua ho hia hɛn kyɛn biribiara wɔ asetsena mu anaa?,Ọsọdịayema wụ m'esịa ana ejị m'esịahụ hịa hịen chenbịbịa wụ asị tịne ma na.,1.0,0.5224
+568,NDZƐMBA A ODZIDZI DO YI BESI DƐN AHYƐ WO DZEN?,Nsamu odidi dua ibeade na ashewusin.,1.0,0.5833
+569,JEHOVAH N’ENYI SƆ NOKWARDZI A EDZE ROSOM NO NO,Jɔvani Sɔnukrezi a ɛde Sɔmnunu,0.8889,0.4865
+570,BEEBI A YƐWƆ BIARA NYANKOPƆN HWƐ HƐN,"Bɛɛbia yɛwɔ yi biara, Nyankopɔn ntrɛhen.",0.7143,0.2667
+571,Ebɛnadze na dza makenkan yi ma muhu fa Jehovah ho?,"Akan kwanu dofa sokese. Saa da ka ba wa atuzie,",1.0,0.825
+572,Mma hom mma yennsuasua pɛsɛankonya na enyimnyampɛ su a woebu do wɔ dɛm wiadze yi mu no. Mbom hom mma yɛnkɔ do ara mfa enyigye nkyerɛ ndzɛmba a Jehovah dze adom hɛn no ho enyisɔ.,Mmawuhummaa yɛnsiesie pɛsɛankoinya na enyɛmnyam peso a wɛgbudu wode mu wiaji yimun. Mgbe mu hu mma ya nkọdo ara mfe enyije nchire nza mba Jehovah za dumhie enuhie nsọ. Akenka n'esi.,0.8286,0.4255
+573,"Sɛ wɔnye hɛn enndzi no yie a, ebɛn kwan do na mpaabɔ botum aaboa hɛn?","Sɛ woyɛ nneɛma yɛ yi a, ɛbɛn kwan dodo na mpaabɔ betumi aboa hɛn?",0.6,0.3208
+574,Hulda resesaw mbobaa wɔ mpoano,Lawson wui firi nhyehyɛeɛ a ɛne Candle Holders Association of Mampong.,2.2,1.8462
+575,Wo mbuae,Sɛ na Satan yɛɛ no mmerɛ a Jesus na esuafo bɛgyee asampana ka. Jesus wui na ekyiri Satan tuu no nyinsi na ekyirizifo,11.5,12.4286
+576,"Adzesua yi bɔboa hɛn ma yeehu dɛ ɔsɛ dɛ yɛyɛ dza yebotum biara na yaannyɛ bɔn. Afei so, yebohu mbrɛ yebesi ahwɛ hɛnho yie na yaannyɛ ndzɛmba ahorow bi a ɔbɛma yɛayɛ bɔn.","Asiɛn bɔbɔɔhen ma yɛhu deɛ, ɔsɛdeɛ yɛyɛ yɛn tumi biara na yɛanya gban. Afei nso, yɛbɔhu mbre yɛbɛsi ahwehwɛ hu yie na yɛanya nza mbaa hu bi a, ɔbama yɛ aya gban.",0.7879,0.3657
+577,EBƐNADZE NA YESUA FI KYERƐWNSƐM A ODZIDZI DO YI MU?,Ebe na asi na eso ife chiro so ma osisi di oyim.,1.1,0.5122
+578,"“HWƐ, MEREYƐ NDZƐMBA NYINA FOFOR”","Hwɛ, mereyɛ nsaman nyinaa foforo.",0.6,0.2692
+579,"Naaso asɛm no nye dɛ, nsɛm a wɔdze gu hɔ no, ɔreyɛ ara nye yi nna wɔresesa no. Ntsi sɛ epɛ dɛ ihu asɛm bi a wɔdze ato hɔ pɛn a, ebɛyɛ dɛn ehu?","Nanso, asɛm no yɛ dɛɛ, nsɛm a wozigu hɔn, ɔyɛ ayɛ na woresisan. Nti sɛ pɛdɛ ihu asɛm bia wozia to hɔ pɛn a, ebeyɛ dɛ na ihu.",0.7353,0.2692
+580,Yɛbɔhwɛ mbrɛ Christianfo a wɔrobɔwar no besi dze hɔn ayefor ahyɛ Jehovah enyimnyam.,Yɛbɔ hwɛ mbre Kristofo abɔware n'ebesi zi nwnan ayɛ fɔrɔ a eshe Jehovah enyimnyam.,0.9231,0.3571
+581,Mbrɛ Jehovah Pɛ Dɛ Asafo No Nye Hɔn A Wɔyɛ Bɔn No Dzi,Mbre Jehovah pɛ dɛ asafodɔm nyinaa na wɔyɛ bɔnuzi.,0.6923,0.2683
+582,Ebɛnadze na yebotum ayɛ dze akyerɛ dɛ yɛdze hɛnho to Jehovah do tse dɛ Samson?,"Ɛbɛn Gaza na yɛbɔtumi ayɛ saa kyerɛ dɛ, yɛzenhu to Jehovah Dote da Samson.",0.6667,0.254
+583,"“Sɛ meyɛ basaa a, Jehovah nam nsɛm a ɔwɔ asafo ndwom a ɔba wɔ JW Broadcasting ® mu no hyɛ me nkuran.”—Lorraine, U.S.A.","Sɛ me yɛ basa a, Yehowa nam nsɛm a ɔwɔ asafɔ ndwuma a ɔba wo JW Broadcasting mu nhyehyɛe mu kyerɛn. Lorraine, USA",0.5,0.1977
+584,MFASO A YENYA NYE DZA ƆSƐ DƐ YƐYƐ,Mfasuo yi nyinaa nye zɛ osi dɛ yɛyɛ.,0.625,0.3846
+585,ƆHAW AHOROW NO BI,Ɔhaw ahuru no bi.,0.25,0.2143
+586,NNA BIBLE ESUAFO NO PƐ DƐ WƆYƐ PII WƆ JEHOVAH NO SOM MU,Na Baibolo si afunupɛdɛ wɛ yɛ pii wɛ Jehovah nusumɔ.,0.8462,0.3256
+587,EBƐNADZE NTSI NA ƆNNSƐ DƐ YƐKASA TSIA AFOFOR HƆN GYINAESI?,"Ebe na asi nchi na nsedae, ya kasa icha fu fu hu m ji na isi.",1.5,0.5
+588,KƆ DO FA W’ADWEN SI JEHOVAH NE DA NO DO,Kodo fa wabi nsi Jehovah ne danudo.,0.7,0.1724
+589,"b MFONYIN NO HO NKYERƐKYERƐMU: Akyerɛbaa bi robɔ mpaa, na ɔreka akyerɛ Jehovah dɛ n’enyi sɔ dza ɔayɛ ama no no.",Zozohoni yɛnfo nyinaa ayɛ rususu huw nchikye mdua kronn hu nkyerɛkyerɛ mu. Akyerɛbaa bi rubɔ mpaa nɔreka akyerɛ Jehovah deɛ ne nyinsɔza wuo ayɛ amanin.,1.0952,0.5747
+590,EBƐNADZE NTSI NA EPƐ DƐ EBƐYƐ ASAFO MU SOMFO?,Ebi na esi nsi na efi ade ebeya asafo mu somfo.,0.7778,0.3056
+591,Ebɛnadze na okenyan hɛn ma yɛhyɛ Jehovah enyimnyam?,Ebe na-azi na oke inyinya na-eme ya seji Jehova enyemaka.,1.125,0.4651
+592,“KASA KYERƐ HƆN ENYIBERDO WƆ HƆN A WƆWƆ HƆ NYINA ENYIM”,"Kasa kyerɛwfoɔ ne yi bɔdoɔ, wɔn a wɔwɔ ho nyinaa anim.",0.7273,0.2791
+593,"Nna nkorɔfo pii enyi gye nokwar no ho, na nna hɛn nuanom a wɔdze mfe pii egyina ɔhaw a akodzi dze bae no ano no so pɛ hɛn asɛm, na ɔno na yɛdze hɛn adwen sii do. Nna enuanom no nnyi bi, naaso nna wɔpɛ dɛ wɔnye afofor kyɛ dza wɔwɔ biara. Akyerɛbaa bi bɛkyɛɛ Debbie ntar. Nna Debbie rotwetwe noho, naaso akyerɛbaa no yɛe ara dɛ ɔngye, na ɔkae mpo dɛ: “Ɔko no taa mu no, enuanom a wɔwɔ aman afofor do no boaa hɛn. Ntsi seseiara, woedu hɛn so hɛn do dɛ yɛboa hom.” Yɛdze sii hɛn enyi do dɛ yebosuasua suban pa a nna enuanom yi wɔ no bi.","M'anno ho hon, na osusuw mber enu anom ne fufii, nyekasa ahuro so awoka.",0.9732,0.8938
+594,Sɛ Edorɔw A Ɔbɔboa Wo Ma Aakaa Esuadze No,"Sɛ edro a, ɔbɔbɔ ma ka esu hyazen.",0.6667,0.4242
+595,Dza Obotum Aboa Wo Ma Etsie Asɛm Yie Wɔ Adzesua Ase,Zoezi huenda sambamba na kurekodisha sauti. Zoezi hili hukuruhusu kurekodi sauti yako na kuisikiliza.,1.2727,1.7073
+596,Yɛbɔhwɛ kyerɛwnsɛm anan bi a ɔbɔboa wo ma akɔ do ara nye Jehovah ntamu ayɛ papa aber a ayɛ w’adwen dɛ ebɔtoa wo nwomasua do no.,"Yɛbɔ hyɛkyerɛ nsɛm anan bi a, ɛbɔboa ma akodaa nye Jehovah ntim ayɛ papa, abrɛ a yɛwɔ adwene dɛ ɛbɔtow wo mesu adɔn.",0.6154,0.21
+597,Wo mbuae,"na onnye deɛ yɛmakwanu me Satan ndadaa hɛn. Sɛ yɛtie Satan ndadaa a, obotumā ma yɛatwen yɛn ho efiri",9.5,10.5714
+598,Ebɛn afotu na Paul dze mae a obotum aboa onua aberantsɛ bi ma ɔaakɔ n’enyim wɔ Jehovah no som mu?,"Ebenezer, Fosu na Paul Mensah obotum abuo na abere ntebi ma wa kune nyim wo Jehovah niso mu.",0.75,0.3158
+599,Wo mbuae,Kyerɛɛ Makron asɛm yi sa. Ebe na asi na osi enyinaa enyido na ebe na asi na osede yɛhwɛ yie na yaanye.,11.0,10.5714
+600,SI WO BO DƐ EBƆKƆ DO EGYINA PINTSINN,"Sɛ wogbodeɛ, ɛbɔkɔdɔ ɛchinɛ pintinn.",1.0,0.3448
+601,Jody Jedele nye ne yer Damaris,"Zewatcho mfunu no okenkan de, “Jodi jedele enyeneyere Damaris.",1.3333,1.08
+602,Hwɛ nsɛm a ɔba a wɔato dzin “ Life Stories of Jehovah’s Witnesses ” a ɔwɔ jw.org anaa JW Library ® do no.,Hwe nsemmisa baabi a wutumi life stories of Jehovah's Witnesses awo jw.org ana JW Library,0.55,0.2727
+603,"Aber a Paul kaa dɛ “wokwetsi mbra ndwuma no nam gyedzi do bu nyimpa bem” no, nna ɔrepɛ akyerɛ dɛn?","Abrofo ka dɛ, ""Wokweti mbre njumana nna mjezi du gbinyi mpa beman, nna orepatre dɛn?""",0.85,0.36
+604,Ebɛn asɛm a ɔfa hɛnho na woridzi no wɔ asɛnkyerɛdze kwan do kɔɔt hɔ?,Ɛbɛna asɛm a ɔfa nhinhim na woreezi nuwuo asenkyerɛde kwan adukɔte hɔ.,0.5714,0.3148
+605,"Ma yɛnhwɛ asɛm a Bible no ka fa nsa ho, nye siantsir a binom nom nsa.","Meye nsa soro Bible no kafa nsa mu, enye se ntira bi nu mu nom nsa.",0.8125,0.3077
+606,Krataaba a wɔato dzin Ecclesiastics Indicted no bi,"Zawahiri wofunuwene ka nkanide, Krata baa watusin Ecclesiastical Indicted no bi.",1.0,0.7907
+607,"Sɛ wo kuw na ekuw afofor robɔ mu akɔ asɛnka mpo a, ɔsɛ dɛ ehwɛ hu dɛ wo kuw no munyi biara enya obi a ɔnye no bɔkɔ.","Sɛ wukuu ne kuo foforɔ gbuma kwan ase nkempa a, ɔsɛ dɛ ihu dɛ wukunu munyi bi enyi obi a onyi n'gbako.",0.7143,0.3605
+608,AKWAN A JEHOVAH FA DO BUA HƐN MPAABƆ,Akwa na Yehowa fa dubu ahia na mpaabo.,0.875,0.2759
+609,"Yɛbɔhwɛ mbrɛ Nazirifo no hɔn nhwɛdo no botum aboa hɛn ma yɛdze ndzɛmba abɔ afɔr wɔ Jehovah no som mu, na yaada akokodur so edzi.","Ye wosiam re na nzufo no nwanwa nhwe do nu gbu tuma buo hian, me ye zi nza mbe agbua foro Jehovah nu su nu, ne ye ada akuku duru so ezi.",1.16,0.4608
+610,"MIDZII AWERƐHOW, MEYƐƐ ANKONAM, NA M’ENYI SANEE GYEE","Me zairo ho, me yɛ nkunim na menyi so na ejii.",1.125,0.4286
+611,Wo mbuae,"Yehowa yɛ me hene, nya foforɔ no ho a, obi si da na agbuo hen. Sɛ yɛdwen dwen nzam a, Yehowa na Jesus yɛ me hene nde no ho a.",15.0,12.1429
+612,NYA AKOKODUR DƐ NYAMESURONYI OBADIAH,Nyaa kokoɔ dodoɔ nyinaa si Obadiah.,1.0,0.4375
+613,BIRIBI A IBOTUM ESUA HO ADZE,Bibiara igbo tuma esu ehu azi.,1.0,0.3913
+614,"SƐ AKASAKASA BA A, MMA HOM NNTSETSEW MU",Saka saka saba mahumintso,1.0,0.3871
+615,YƐKA ASƐMPA NO OSIANDƐ YƐDƆ NYIMPA,"Yɛka asɛmpa no, o Sunday yɛ dɔnyimpa.",0.6667,0.1379
+616,Yɛbɔhwɛ mbrɛ yebesi aka nokwar no ho asɛm ma wɔaka nkorɔfo hɔn akoma.,"Yebɔɔ shemrebisa kanokorɔ no ho asɛm, mowaa ka nkɔfɔɔ ho na akumaa.",0.8462,0.4107
+617,MBRƐ JEHOVAH MA NDZƐMBA KƆ YIE MA WO,Mbregya Hova manhyen ba koye mawo,1.0,0.3793
+618,NDƐ NA ƆSƐ DƐ EHYƐ AHOTODO A EWƆ WƆ JEHOVAH MU NO DZEN,Ɛnde nnoɔsedɛ isha nhwɛdo a iwowoo Jehovah gbonu nezen.,0.8462,0.5476
+619,SUSU HO HWƐ DƐ ƆSƐ DƐ EKƆ DO KA KAAR ANAA,"Sɛ wosuro dɛɛ, wosuro dɛɛ kwado kakaa na.",1.0,0.5806
+620,ɔsɛ dɛ edwendwen enyidado a ewɔ no ho?,Ɔsɛdeɛ edwinnwen nyinaa dodoɔ a iwo n'hu.,0.875,0.4333
+621,d MFONYIN NO HO NKYERƐKYERƐMU: Onua bi a ne mfe akɔ enyim rimia n’enyi egyina dza ɔrefa mu no ano da biara da.,"Zozipho yii mfonini ya Yerusaleem ho nkyekyɛmu dɔson nnoho nkyekyɛm. Ɔne biara ne mfeɛ akwɛyim, remmie ne nyinaa iji ne zoro fem na ano dabiara da.",1.0,0.7882
+622,Aber a morosom dɛ ɔmansin do hwɛfo wɔ Sierra Leone,"Sɛ awachoofoɔ mfeɛ nyinaa hwehwɛ kanka no, abirekyie aboro sum deɛ omenesinu hwehwɛ fuu wɔ Sierra Leone.",1.4,1.2927
+623,"Sɛ wɔreyɛ ayefor anaa eyi a, ɔyɛ a ebusuafo taa hyia mu. Ntsi sɛ epɛ dɛ ekɔ wo busuanyi bi n’ayefor anaa n’eyi a, ɔyɛ a dzi kan susu Bible mu afotusɛm a odzidzi do yi ho.","Sɛ woreyɛ afra na eyi a, ɛyɛ abusuafoɔ taa hyia. Nti, sɛ ɛpɛ dɛ kɔwɔ abusua yi bi na ayɛ fura na eyi a, ɛyɛ zika na susu Bible mu afotoɔ sama ozizidui ho.",0.6757,0.25
+624,mfatoho a ɔfa mbaabun enyansafo na nkwaseafo ho no mu?,Mfatoho a ofembi gubuni nyaa safo na nkwasiafo hunu.,0.8,0.25
+625,Enuanom Mbarimba​—Hom Pɛ Dɛ Hom Bɛyɛ Asafo mu Mpanyimfo?,"Ɛno akyi no, mmarimma hwehwɛɛ dɛɛdɛ hubea asafompefoɔ.",1.0,0.6222
+626,Ebɛn nhyira na werdam no bɛma yeenya no daakye?,Ibe ncha na-ere ọdụ na-ebumenye iyanu daachi.,1.0,0.5789
+627,Nkɔm A Jacob Hyɛe Ansaana Oruwu,Na ozehui yɛnsam ka krakaw ka ho. Nkoma Jacob shee ansa na oru wu. Yɛhu Simeon ne nfonyin. Na w'achow nfonyin no ho kinken deɛ,4.0,3.0
+628,GUSTAVO JOSEPH NANKASA N’ANOMU ASƐM,Gustavo Joseph na kasɛnɛ numasɛm. Yɛn Gustavo ne Mireille Joseph onufoninn.,1.8,1.3333
+629,Jehovah no tum a yɛbɔdwendwen ho,Yehowa nu tuma yɛba gyae nwanwa.,1.0,0.4444
+630,KƆ DO ARA FA NYANKOPƆN N’APƐDZE DZI KAN WƆ W’ASETSENA MU,Kwadwo ne Nyakopon na apezii zika wo waasetinem.,1.0,0.5
+631,"b Dza ɔbɔboa wo ma ehu ndzɛmba a Hebrewfo nwoma no ka ho asɛm no, hwɛ Hebrewfo Ne Nyienyim Nsɛm video no wɔ jw.org do.",Asɛm a asɛm no ka neɛ: Zobobo mehuu nsɛm baa Hebrufoɔ mman ka ho asɛm. Hwɛ Hebrufoɔ ne nyiyensim nsɛm video wɔ jw.org dɔ. Asɛm a asɛm na ɛsi,0.88,0.5714
+632,BIRIBI A IBOTUM ESUA HO ADZE,Bibiara ibotum esu anwanwa zie.,0.8333,0.3913
+633,ebɛn nhyehyɛɛ na Jehovah ayɛ dze agye hɛn nkwa?,Ibeɛhwehwɛɛ na Jehovah ye ze nye nkwa.,0.6667,0.3684
+634,Yɛbɔhwɛ kwan a asafo mu mpanyimfo fa do boa obi a ɔayɛ bɔn a no mu yɛ dur bi wɔ asafo no mu.,Yabɔ kwa na asefo mpenfua dodoɔ biara a waa yabɔ na anum eduru bi wɔ asefoɔ no mu.,0.7826,0.4348
+635,Yɛbɔhwɛ ndzɛmba ebiasa bi a yɛyɛ a ɔbɔboa hɛn ma yɛakyerɛkyerɛ yie wɔ asɛnka mu.,"Yɛbɔɔ nhyehyɛeɛ baasa biara yɛɛ ya, ɔbɔbɔɔ hɛn ma yɛaachɛkyerɛɛ yɛn uasin kim.",0.8667,0.4462
+636,NSƐM EBIEN YI DZI NSƐ NAASO NSONSONEE WƆ MU,"Nsɛm bi a enii nnyinasɛm, nanso nsɛnsɛm na ɛwom.",0.8889,0.4571
+637,"“Ntsi kyerɛkyerɛnyi, dza meyɛe ara nye no. Nna owura no rekyerɛkyerɛ hɛn Bible no mu, nna mibisaa no asɛm. Ntsi sɛ oenntum ennyi m’asɛmbisa no ano a, ebɛnadze ntsi na ɔsɛ dɛ mekyerɛw krataa kɛpa no kyɛw?”","Nti, kyerɛkyerɛnyi, Zamir Ryan, m'anwumerɛ kyerɛkyerɛhyɛni baewu n'umu, na mebisaa n'asɛm. Inisewu ntu enyimasi bisaa n'ano a, ibeasi nti na osɛde mekyerɛ wo koraa taa nkepa n'kyerɛ.",0.9189,0.3711
+638,SUASUA MARK—FI W’AKOMA MU SOM WO NUANOM,"Sincerity Mark, fa wo kumerim som wone yɛn anom.",1.1429,0.6129
+639,"Yebosusu mfatoho ebiasa bi a Jesus yɛe ho, na yaahwɛ mbrɛ dɛm mfatoho ahorow no fa atsɛmbu a ɔbɔkɔ do wɔ wiadze bɔn yi n’ewiei no ho.",Yebɔsɔsum fatuhun baa si bi a Jesus yɛhunu na yɛahwe mberɛ damu fatuhun ahuro fatu mgbe a ọbọkọdọ owia zigbọ niine wie yinuho.,0.8519,0.3942
+640,"Sɛ obi yɛ adze ma ɔhye hɛn a, yebesi dɛn dze no bɔn akyɛ no?","Sɛ obi asi mɔshin a, ibe si na nzin gbo na akyen.",0.8,0.4773
+641,BOA WO SUANYI NO MA ƆNDƆ JEHOVAH KƐSE,Bụawu suo enyinma ọ ndọ Jehova kesi.,1.0,0.3333
+642,EBƐNADZE NTSI NA ƆSƐ DƐ YƐKƆ DO ARA HU JEHOVAH YIE?,Ebe na-azi nti na o siri ya kwado aru hu Jehova yayi.,0.9091,0.375
+643,SAMSON DZE NOHO TOO JEHOVAH DO,Samson ne nnwotwe Jehovah di.,0.6667,0.28
+644,EBƐN KWAN DO NA DZA ODZIDZI DO YI BOTUM ABOA HƐN MA YEENUMA?,Ebia kwan do na saa ozizidui botum aguan ho asem yi enuma.,0.7692,0.3617
+645,‘Ebɛnadze na mubotum dze abɔ afɔr ama meetum asom Jehovah yie?’,Ibn Hazm na Mbutu Mzabo Afar ama metu masu Jehovah ye.,0.8182,0.3
+646,Bible no nnka siantsir no. Naaso ɔka nsɛm bi a ɔbɛyɛ dɛ ɔno na ɔmaa wɔannsan annkɔ Nazareth no.,"Bible nka si nti na, na so okansem bi a o bae de onu na o maa waensu ya nko Nazareth.",0.8947,0.3467
+647,“Hɔn a wɔannkɔ skuul no na wɔgye Nyankopɔn dzi.”,Wofa Nkrumah sukuu na waje Nyankopɔn izi.,0.7778,0.4865
+648,a Wɔasesa edzin ahorow no bi.,"Asawasam no kunkum deɛ, wasa se izina huru bi. Asawasam na esi.",1.8333,1.4348
+649,Dwendwen esuadze a ɔwɔ mu no ho. Bisa woho dɛ:,Nyansani saa a ɔwɔ mu no ho bisa wo ho deɛ,0.5,0.3429
+650,Yɛbɔhwɛ mbrɛ Jesus maa nkorɔfo hun Jehovah ne dzin no nye mbrɛ ɔtseew dzin no ho.,"Yabɔ hwɛ mbre Jesus maa nkurofo hu Jehovah ne ziin, enyimbre ɔte wo ziin nohunu.",0.8125,0.2615
+651,"JEHOVAH EBU HƐN BEM: Dza Jehovah na Jesus yɛe no apepa hɛn bɔn a yɛayɛ nyina efi hɔ korakora, na wɔayɛ tse dɛ mbrɛ yɛnnyɛɛ bɔn mpo da",Jehovah buhen bi. Zae Jehovah ne Jesus ye n apepa hen ba na ye aye nyina efi ho krakra. Na wa ye tede mbre ye ye bo nu mpoda.,0.8214,0.2692
+652,Jehovah Gye Wo To Mu​—Ma Iyi Nkyekye Wo Werɛ,Jehovah Jireh me nkyerɛkyerɛfoɔ,0.8889,0.6176
+653,"Sɛ Hom Dzi Kan Sua Dza Hom Bɛka A, Obotum Aboa Ebusua No","Sɛ wode hwehwɛ nsɛm kakra a woka ho, sɛ nhwɛso de kan sua nsɛm baka a, wobetumi agbue busia.",1.3077,1.093
+654,Ndur ahorow bi a mefa no botum ama wɔayɛ dzen ama me dɛ mebɛka kaar anaa?,Ɛnneɛ ahuhu biara mefa no gbe tuma ma wayɛzi na ama me dɛ. Mbe ka kaa na.,0.8125,0.3684
+655,MMA NNKƆ “ƆBAA KWASEA” NO NE FIE,Ma nkɔ ɔbaa kwasia no nifie.,0.7143,0.1667
+656,Ɔsɛ Dɛ Migyaa Kaarka Anaa?,"Ɔsɛdeɛ meje aka aka na, yɛhwɛɛ mfoɛ no mu deɛ, akura bi tunan ntokuro ano na ɔhwɛɛ ne kaa wusa gbuo ano. Okutaa ne kaa ne saafee na ɔdwen ho deɛ ɔsɛdeɛ ɔkɔdu ka kaa na.",7.2,5.2857
+657,Mbrɛ Ibesi Enya Bible Mu Nsɛm Bi A Ibotum Dze Abɔ Wo Bra,"Ɛmrɛ bɛsɛ nya Bible mu nsɛm bi a, ɛbɛtumi so aboa wo bura.",0.5385,0.3182
+658,"Yɛbɔhwɛ mbrɛ ɔsomafo Peter suasuaa mbrɛ nna Jesus dwen ndzɛmba ho, nye kwan a hɛn so yebotum afa do ayɛ dɛm.",Yɛbɔɔ Hiamanfoɔ Peter nsue a me ne Jesus dii nzɛmmaho. Enye kwan a henso betumi afado ayɛ dam.,0.8095,0.3837
+659,Ɔdɔ a yɛwɔ ma Jehovah nye yɛ a ɔyɛ hɛn dɛw dɛ ne dzin no da hɛn do,Ɔdwoayo Jehovah nyiyia ɔyɛ hɛn ndɛwdɛw na iji hɛn ndɛwdɛw.,0.7778,0.449
+660,FI WO PƐ MU BOA ENUANOM A WƆWƆ ASAFO NO MU NO,"Sɛ wopɛm bu no anomaa, ɔwɔ asafo numan.",0.9167,0.3235
+661,TSETSE MBARIMBA MA WƆMBƐYƐ ‘AKYƐDZE A WƆDZE AMA NYIMPA’,"Tete mberemba, mowomberɛ a cheze awusa menyi mpa.",1.0,0.3778
+662,"Minyinii wɔ Paris a ɔwɔ France, na ebusua a mifi mu no, nna wɔnngye Nyame nndzi",Me nni me wopamu yɛɛ friends na mebisa me film nna waanji na me nzi.,0.9375,0.5484
+663,"Sɛ hɛn adwen mu nntsen hɛn wɔ gyinae bi a yesii mber bi a abɛsen kɔ no ho a, ebɛnadze na ɔsɛ dɛ yɛyɛ?","Sɛ hyɛɛ adwin mu nsunsuansuo mu, wujinaa bea yɛɛ sii mmere biara abɛsɛn kɔ no hɔ a, ibe na azi na oseda yɛɛ.",0.7917,0.4474
+664,ebɛnadze ntsi na yɛgye dzi dɛ Nyankopɔn bɔkɔ do aboa no nkorɔfo?,Ebenezer nti na yɛjizide Nyankopɔn bɔkɔdɔ abuo no nkrɔfo.,0.75,0.2692
+665,Yɛbɔhwɛ siantsir a ɔnnsɛ dɛ yɛkasa tsia hɛn nuanom Christianfo aber a yɛnye hɔn adwen nnhyia wɔ gyinae bi a woesi ho no.,"Yɛbɔ hwɛ sɛ nsɛm a yɛka no, ɛnyɛ Kristofoɔ, abrabɔ a ɛnyɛ hwɛ adwene nsia wogina ebi a wosihon.",0.913,0.4639
+666,EBUSUA KAKRABA BI A NNA WONNYI ADAGYER,Ebusua krakra biara na onwe nyadeɛ gyel,0.8571,0.375
+667,"Osiandɛ annwo pii ntsi, woho rekyer wo anaa?","Wosanda anwu pinnsi, wuhure chirewaa na.",1.0,0.4286
+668,Awerɛkyekyesɛm A Obotum Aboa Hɛn Ma Yeegyaa Su,"Ɛyɛ akyɛdeɛ somaa, wobutum aboa hane ma yɛeɛ gyaso.",0.875,0.4872
+669,CHRISTIANFO A WOENUMA HƆN,Christianfoɔ a wei numan. Nkyerɛkyerɛmu a ɛwɔ twe. Asɛmbisa. Ɛba na azi na Christianfoɔ a wei numan ayɛ saa akyerɛwɛdam no ho enyiso.,5.5,3.9091
+670,NGUAN NA MPƆNKYE HO MFATOHO NO,Ngwan na mponche ho mfatoho.,0.5,0.24
+671,"Aber a Israelfo no nam sar no do no, sɛ yɛdze manna na nkokɔhwerɛw a hɔn nsa kae no to nkyɛn a, nna wonya biribi fofor dzi anaa?","Aburokyire afo na na mesom Northern, so ezenan na kwukwo hyewu a hwanisa kaino to ncha ya, ina wunya bibi full fridge ana.",0.9286,0.5204
+672,NYANSAHYƐ A OBOTUM ABOA WO MA EESUA ADZE,Ɛyɛ nsa hyia obotuma abuo ma esianze.,0.875,0.3333
+673,NO HO HIA DƐ YƐBRƐ HƐNHO ADZE,Nnuhuuhyerɛdeɛ bɛyɛɛ no huase.,1.0,0.6957
+674,"Sɛ epɛ dɛ ewar a, ebɛnadze na ibotum ayɛ?","Sɛ ɛpɛ dɛ ɛwara a, ibe na a zi na ebutu ma ye.",1.0,0.3226
+675,a Wɔayɛ Learn to Read Braille nwomaba no dɛ ɔmboa hɔn a hɔn enyi efura anaa wonnhu adze papa no ma wonhu braille akenkan na akyerɛw.,"Asawasam na Kinkanda, wayɛ learn to read braille, woma bɔnɔdɛ. Ɔmgbe ɔhwanan wɛnyɛ fura, anaa wɛnwa azipapan, mɔhu braille a Kinkanda kyɛw. Asawasam nɛsi.",0.8846,0.5472
+676,"Sɛ wɔnye hɛn enndzi no yie a, yebesi dɛn esuasua Gibeonfo no?","Sɛ wonyi hɛn nzi ni yɛ ya, yebesii na nsusu yi biɔ mfon.",0.9167,0.3958
+677,EBƐN KWAN DO NA JOB N’ASƐM NO MA ƆDA EDZI DƐ . . .,Ebea nkwaa na Job na-asamin ma o daa ezidie.,0.7273,0.4242
+678,Suasua Manaen—Ma Jehovah No Som Ho Nhia Wo Nkyɛn Biribiara,"Sɛ nsemia neɛn, ma Yehowa nsom wo nhia wu nche ni biri biara.",1.2,0.3542
+679,ebɛnadze ntsi na ɔsɛ dɛ yehu dza Jehovah pɛ dɛ yɛyɛ?,Ipa na ɛne nti na ɔsɛdeɛ yɛnwusa Jehovah pa deɛ yei.,0.9091,0.4146
+680,NNA M’AWOFO YƐ ASƐMPATSERƐWFO,Ɛne mmarofuo Asampetrofo.,1.0,0.52
+681,SƐ YƐKENKAN BIBLE NO A HƐN ENYI BƐGYE,Sɛ yɛkenkan Bible na,0.625,0.4333
+682,Boa Bible Esuafo Ma Wɔmbɔsom Jehovah,Mboa Bible esu ahụ mawọ mgbosom Jehovah.,0.8333,0.1935
+683,Ebɛn kwan do na ɔhaw a yehyia no botum ama ahokeka a yɛdze som Jehovah no abrɛ adze?,"Ibaa nkwa ndu na Hawaii sị en, gbotum ama ahụ nke ka anyị zụsịrị ya nkụpe ọ na-abalị azị.",1.0,0.5303
+684,Mbarimba a wɔyɛɛ edwuma fi anapa kesi ewimbir no nyaa adwen dɛ ɔsɛ dɛ hɔn akatua no yɛ kɛse kyɛn edwumayɛfo nkaa no,"Zawa tronwuo mfo enyi nuhunuka nka de, mber mbaa wo ye juma fia na pekesenyo mbiri ni ya jwenide, osa dewa na aketuwa ya kesi chi na juma ya fu nka.",1.3478,0.7957
+685,NYANKOPƆN NO DƆBA NO BAA ASAASE YI DO,Nyankopɔn dɔ ba nu baa saa si do.,0.625,0.2
+686,JEHOVAH REKYERƐ N’AHYEHYƐDZE NO KWAN NDƐ,Jehovah rekyerɛ na ashisheze nokware ndi.,0.6667,0.2941
+687,woeehu dɛ mfaso wɔ do dɛ wɔdze dza Bible no ka no bɔbɔ hɔn bra?,"Wɔn hu dɛm fasuɔ dɛdɛw, wɔsesɛ Bible na kani bɔbɔhwan no bra.",0.8667,0.375
+688,MA ƆDƆ A EWƆ MA JEHOVAH NYE WO NYƐNKO NYIMPA NO NYƐ KƐSE,"Modɛwɔ me Jehovah, yɛ onipa nkutoo nyimpa na yɛkesi.",0.8462,0.4318
+689,ɔdɔ a Jehovah ada no edzi akyerɛ hɛn no ho?,Ɔdɔ a Jehovah da no izah kyerɛ hɛn no ho.,0.3,0.1515
+690,"Adzesua yi mu no, yɛbɔhwɛ ndzɛmba a yebotum ayɛ ama hɛn enyi aagye asɛnka edwuma no ho kɛse.","Asi seaman, yɛbɔ nhyehyɛeɛ mmiɛnsa nka ejumanwuma keseɛ. Inchichem koraa",1.0,0.7397
+691,NA SƐ ƆNNYƐƐ N’ADWEN DƐ OBEGYAA HWƐ SO Ɛ?,Me sońa na adwene obi jaa hwɛɛ se,1.0,0.5484
+692,Jehovah Tsew N’asomfo Ho Nkakrankakra,Zae ozi ọma na-esem ka kra ọka hụ. Jehovah tụgharịrị asụsụ hụ ka kra nka kra.,3.0,1.2188
+693,Ebɛnadze na Jesus yɛe dze kyerɛɛ dɛ ɔdɔ n’asomafo no?,"Ebenezer Gyisi asii yɛn ekyiri dɛ, ""Ɔdɔ na asomafoɔ.""",0.8,0.4762
+694,Mbrɛ Ibesi Ayɛ Nyɛnko Pa,Mbre ebesi ayɛ nyankopa.,0.8,0.15
+695,Ebɛnadze ntsi na bi a Jehovah rummbua hɛn mpaabɔ dɛ mbrɛ yɛhwɛ kwan no?,Ebe na azenkyi na bia Jehovah Room bua hye na mpaabo da mber yɛhwe kwan.,1.0,0.2807
+696,JEHOVAH PƐ DƐ OBIARA BA NE NKYƐN,Jehovah pɛ dɛ obiara ba ne nkyɛn.,0.0,0.0
+697,Mbrɛ Jehovah Boa Hɛn Ma Yetum Mia Hɛn Enyi Gyina Ɔhaw Ano,"Ɛnbrɛ Jehovah bua hɛn, mɛyɛ tumi a ehia na enyi ji no ha waanu.",0.9167,0.3478
+698,DZA ƆSƐ DƐ YƐKAA ABER A YƐROBƆ MPAA,Sɛ sɛdeɛ yɛka aberewa yɛbɔ mpa a.,1.0,0.3571
+699,Menye Miwako nam asɛnka mu wɔ Okinawa,Saa wɛɛkyumfoɔ yi na wokinka dɛɛ mehi me waku na m'asɛnkem wokinaawa.,1.7143,1.0968
+700,Mbrɛ Yebesi Akyerɛ Ɔdɔ A Jehovah Ada No Edzi Akyerɛ Hɛn No Ho Enyisɔ,Ɛmrɛ yɛbɛsa akyerɛ Ɔdɔ Jehovah adɛn na ewiase achire hɛn enuhwenyɛ so?,0.7143,0.4182
+701,EBƐNADZE NA NKORƆFO A WODZIDZI DO YI MU BIARA BOTUM AYƐ DZE AKYERƐ WERDAM NO HO ENYISƆ?,Ibe na azina nkwọfa wuzuzu di imu biara butu ma ya zacha were damu n'ihu inyiso.,0.8824,0.4286
+702,YƐKƐYƐƐ EDWUMA WƆ UNITED STATES BETHEL,Yɛka yɛɛ adwuma wɔ United States betoo.,0.6667,0.1515
+703,Yebesi dɛn ama hɛn enyi do ahwɛ sor?,Yɛbɛsɛde na ma hyehyɛ dahyɛ sir.,1.0,0.3929
+704,EBƐNADZE NTSI NA ƆSƐ DƐ ƆHYƐ JEHOVAH ENYIMNYAM?,Ibn Hazm nti na o sị na ọ sọ Jehovah enyimnyam.,1.0,0.359
+705,"Sɛ yɛhyɛ ase dɛ yɛnye obi rusua adze a, ebɛnadze na yebotum ayɛ dze aboa no?","Sɛ yɛhwehwɛ sɛ yɛnnyo obi birisii azia, ɛbɛn azina na yɛbɛtumi ayɛ saa buɔn?",0.75,0.4915
+706,Woennyi Blankson edzi na ɔannkyerɛw krataa biara so annkɛpa sɔfo no kyɛw.,"Woyɛ blanks no ezi, na w'anchuro kradah biara so, nka pa sofo no kyɛw.",0.75,0.3279
+707,ebɛnadze na ɔsɛ dɛ eyɛ ama akɔ do ara enye Jehovah ntamu ayɛ papa?,Ɛbɛn na asɛnna oseda yɛ ama akwadoa nyinaa Yehowa ntim a yɛpapā.,0.8571,0.4423
+708,"Aber a nna igyina wo nan do no, eyɛɛ dza w’ahoɔdzen botum wɔ Jehovah no som mu, na dɛm aber yi a abɔ akɔkora anaa aberwa yi so ereyɛ dza w’ahoɔdzen botum","Saa wɛntʃeɛ wonfenyinii wɔ kankan deɛ, abirekyie na eji na wunandun, yɛɛ saa wahuuzi nbotum o Jehovah nsu mu, na dɛm abirekyie a agbakokora ana abirekyie iso, ɛreye saa wahuuzi nbotum.",0.9375,0.6186
+709,(Bankum) Pata bi a nna ɔwɔ hɛn ekuraase hɔ. Nna wɔato hɛn ekuraase hɔ dzin Koryɛ,"Zawaa chow mfonini okyinkyim de, mate biara a ɛnnaa wọ hne krasuo na wọ atọ hne krasuo zin Korea. Mfonini wọ nyinfa no si yɛ Onya Stefon Landgren ne Matej Blum mfonin.",1.9375,1.6129
+710,Ebɛnadze ntsi na ɔsɛ dɛ edze w’enyi to famu hu obi yie ansaana enye no ahyɛ ase anantsew?,"Ibi na-azi nti na o si na ezi nwe nye tufe mu obi ya, anaa na-anyi na-acha asa na ntu.",1.0,0.4286
+711,SUASUA MBRƐ JEHOVAH SI DA AYAMUHYEHYE NA EHUMBƆBƆR EDZI NO,Sɛ nsɛm reba obi si daeɛ mu sese na ɛhu m'aboro ezin.,1.0,0.5306
+712,Wo mbuae,"Ichean daa na asɛm yi saa. Sɛ yɛresigini ebi a, ebi na asɛm no sɛdeɛ yɛayɛ amakuru yakɔdɔara atun asafonom mu.",10.5,11.8571
+713,DAVID SPLANE NANKASA N’ANOMU ASƐM,David Plane na nkasa n'inumansem. Yehuo mfonyi nnumudee. Onua David Plane wone office noro Truro bi.,3.0,2.0714
+714,Hom mba hu gyinae a hom sii no dɛn?,Homa mbanhu jina ya humu si ni den.,1.0,0.3846
+715,Dza Ibotum Ayɛ Aber A Erohwɛ Adzesua Bi Do,Zozi hwe yɛn sam kakra okanho. Zebu tuma yɛn abere rehwɛ adwene bi do.,1.3333,0.9412
+716,MFASO A HƐN ASƐNKA KUW NO MA YENYA,Mfaso nyinaa ne asɛnka kɔ nu mmienu nyinaa.,0.75,0.6296
+717,DZA YEBOTUM ESUA EFI ONESIMUS HƆ,Zaire botumi esii efiri Onesimus hɔ.,0.6667,0.2963
+718,Jehovah taa n’asomfo hɔn ekyir ndɛ,Yehowa taa na somfoɔ no ekyiri nde.,1.0,0.25
+719,BIBLE NO MA YEHU NYANKOPƆN N’ATSƐNTSENENEE,Bible mu ma yɛhu nyaa nkupɔn ntentene,0.8333,0.3333
+720,"Mubohun nokwar no wɔ French Guiana, wonumaa me wɔ France, na seseiara menye me yer rosom wɔ New Caledonia","Zawadi wofiri Nouakchott de, obomunnu kɔɔ Nouadhibou, na siesia benyemeyɛ resom wɔ New Caledonia.",0.7895,0.5765
+721,EDƆ NOKWAR NA W’ENYI GYE HO DƐ EBƐYƐ DZA ƆTSEN,Ɛdɔnɔ koro na wonyi jehu de ebe ye zotin.,0.9,0.4722
+722,"Sɛ ekɔ Ɔweɔn-Aban INTANƐT DO NWOMAKORABEA do a, no ho nnhia dɛ etwe Nhwehwɛmu Nwoma no ansaana enya nwoma ahorow a ɔkyerɛkyerɛ kyerɛwsɛm bi mu no.","Sɛ kwan a wofa intanɛt dɔwuma koraa biɛdɔ a, nuhu nhia dɛ ichin hwehwɛ mu wuma ansa na inya wuma horow a ɔkyɛkyerɛkyerɛ nsɛm mu.",0.8462,0.3305
+723,Dwen Nsɛm Ho Yie Na Obesi Wo Yie,Gyae nsemhuye no besi w'aye.,1.0,0.4
+724,ABER A WO NUA CHRISTIANNYI BI AYƐ ADZE MA WƆAYƐ WO YAW,Aberewa ne Kristoni biara yaze mawa ya we yawo.,1.0,0.4186
+725,Ebɛnadze ntsi na Jehovah pɛ dɛ ɔdze hɛn bɔn kyɛ hɛn?,Ihe mere anyị ji nwe Jehovah's Day bụzi ihe nụbọchị taa.,1.0,0.7561
+726,"Yɛbɔhwɛ mbrɛ ibesi aboa wo Bible suanyi ma oehu Jehovah yie, no suban, dza ɔpɛ nye dza ɔmmpɛ.","Yɛgbawha mberɛ ebesi abuo ba abusuanyi ma wɛhu Jehovah gyai, nusu ban, zɔpɛ, enye zɔmpɛ.",0.8889,0.3562
+727,SIANTSIR A OHIA PAA DƐ YƐGYE TO MU DƐ JEHOVAH DƆ HƐN,"Sɛ nso Onyankopɔn daa yi ji tumi daa, Yehowa do hɛn.",0.9167,0.6585
+728,Dza irusua a ebɔkɔ do dze abɔ wo bra,01:00 Ebɔkɔdɔ za abɔ wubra.,0.8889,0.5
+729,Mo Bɔfo Kɛse No Hun Dɛ Mepɛ Dɛ Muhu No Yie,"Mepawakyew, kyerɛ me baabi a mepɛ dɛm mfonini yi.",0.9091,0.8438
+730,Christ N’ekyirdzifo Hɔn Enuma:,Christ ne Yesu Kristofo honnuma.,1.0,0.44
+731,Ebɛnadze ntsi na no ho hia paa dɛ yenya abotar?,"Ebena, nti na onwunhu paa di yie na agbatar.",0.9,0.4324
+732,Dza Ɔbɔboa Wo Ma Eenya Enyigye Kɛse Wɔ Asɛnka Edwuma No Mu,Zoborbor me nye nyi je ke se wasi nke jwama nu.,1.0,0.4468
+733,KYERƐ DƐ IBU NKWA DƐ ƆSOM BO,Kyerɛ dɛ ibu nkwa dɛ osombo.,0.2857,0.0455
+734,ABƆFO NO MIA HƆN ENYI GYINA ƆHAW ANO,Abɔfo ni mmiɛnsa nweneyie ji na ɔhaw ano.,0.625,0.3448
+735,Ebɛnadze na Job n’anyɛnkofo baasa no yɛe a ɔnnsɛ dɛ eyɛ bi aber a irutu obi fo no?,"Ebi na esi na Job na ayɛ nkɔfɔ baasa ni yɛɛ yaa, ɔnsɛ dɛ iyie bi abrɔ a iritu obi fɔn.",0.8333,0.3175
+736,W’ebusuafo a wɔnnyɛ agyedzifo no nyim dɛ eremmfa woho nnhyɛ amandze a Jehovah mmpɛ mu anaa?,Wei bu nsia fa awanaya Jehovani nyimpa na erefa won ho nhyiamu nza a Jehovah Mpu ma na.,1.0,0.4189
+737,"Nkorɔfo a wɔdze esi hɔn enyi do dɛ wobotu esisisɛm ase no, ebɛnadze ntsi na yɛnntaa hɔn ekyir?","Nkrofa a wose esi ho ne nyudede, wubu twesisi samaa sen ebe na ezi nti na ye nte ahu na echi.",1.0,0.3733
+738,Wo mbuae,"Satan afa adwuma nkurofo enya adwene de, onipa daakye Jehovah na mmra bowana bra. Satan fa social media du daadaa nkurofo mu enya adwene de.",12.5,15.1429
+739,ASAFO NHYIAMU,Zawaa choo wunfu yi nu hu ki nka ndi. Ibe kwandu na sa fu nchi mu na senke juman ya nkra nkra zisu ya bu tum ashe we gezi zen.,15.0,7.0833
+740,Dza Ɔbɔboa Wo Ma Ama Mbuae A Ɔhyɛ Nkuran,Dɔbɔ bɔɔ maamengbe a ɔhyɛ nkran.,0.7778,0.375
+741,ƆSƐ DƐ YƐBƆ MBƆDZEN DƐ YEBOSURO JEHOVAH,Sɛdeɛ yɛbɔ mɔneɛ ndɛ yɛbusu Jehovah.,0.7143,0.303
+742,SUASUA MBRƐ JEHOVAH SI DWEN NDZƐMBA HO NO,Sɛ nsɛm bae dɔva si dwene nsɛm a hunu.,1.0,0.4706
+743,MBRƐ YEBESI AKYEKYE HƐN NUANOM HƆN WERƐ,Ɛmrɛ bɛsɛ akyikyin nnuan mu hɔ ni re.,1.1429,0.4545
+744,"ABER A NKORƆFO A WODZIDZI DO YI SUI NO, EBƐNADZE NA JEHOVAH YƐE DZE BOAA HƆN?","Abere nkwa fa w'adwene di scene, ebe na afo ne jehovah ye ezigbo ahwan.",0.9375,0.4667
+745,Ma ‘Hokwan A Enya Dze Rosom Nyankopɔn’ No Nsom Wo Bo,"Mahu kwanu enya, twere som Nyankopon nsomaa bu.",0.9091,0.275
+746,MMA NNYƐ NDZƐMBA A ƆBƐKYERƐ DƐ INNDZI WO YER NYI,Mɛnyɛ nza mma obechire da ɛnne woyi rinyi.,1.0,0.5128
+747,ABER A ƆSOR MBRƐ WO NUA NO SI YƐ N’ADZE KORAA,Aboro soro mberɛ wuo ne nsia na azekuraa.,1.0,0.3824
+748,Yebesi dɛn akɔ do ara ayɛ hɛnho mu nhwehwɛmu?,Yɛbɛsisi dan akodaa a yɛrenom hɔ nhwehwɛmu.,0.8889,0.3611
+749,"c MFONYIN NO HO NKYERƐKYERƐMU: Basiaba bi a ɔyɛ Ɔdasefo no pɛ dɛ ohu Jehovah n’adwen wɔ asɛm bi ho, ntsi ɔrohwehwɛ afotusɛm bi efi Kyerɛwnsɛm no mu.","Zozi hwe yɛnfo nyinaa yɛɛ susuhwɛ ncicɛ Macron nuhu nkyerɛkyerɛm. Besia bebree a ɔyɛ odasefoɔ mpedeahu Jehovah na ajene wa asɛm biho, nso ahyehyɛdeɛ afotu sɔm bi efiri chawo nsɛm numu.",1.0,0.5812
+750,Yɛbɔhwɛ siantsir a sɛ yɛrosom Jehovah na wɔtan hɛn enyi a ɔsɛ dɛ yɛma hɛn enyi gye.,"Yɛbɛhwɛ sɛ nkyerɛkyerɛ a yɛresum Jehovah na wata yɛn nyinaa, ɔsɛdeɛ ma yɛnyin je.",0.8824,0.4091
+751,Jehovah No Som Ama Menya Enyigye A Nna Monnhwɛ Kwan Na Mesua Ndzɛmba Pii So,"Jehovah no suma ma me enye adwuma yi a, na mo nhwekwan na mo esua nzamapi yi so.",0.8667,0.2787
+752,"Jehovah dwen hɔn a hɔn akoma ebubu no ho paa. Adzesua yi mu no, yɛbɔhwɛ mbrɛ Jehovah si kyekye hɛn werɛ nye mbrɛ osi boa hɛn ma yɛkyekye afofor so hɔn werɛ.","Jehovah adwenhwan na ahwanakoma ebubu nohupa. Asisi mu n, yebohwe mbre Jehovah sichechihen re, nyimbre osigwahen ma yechechi afufu osunhon re.",0.8438,0.4016
+753,NNA NKORƆFO HƆN ASƐM YƐ JESUS N’ASƐM,Na nkrɔfoɔ ho na ase me Jesus ne asɛm.,1.1429,0.3103
+754,"W’enuma ekyir no, ebɛnadze na ebɛyɛ ama eetum akɔ do edzi Jesus n’ekyir?",Wɛn na ɔkyerɛw? Ɛbɛn asɛm na ɛba yɛ? Ametumi akwadɔ ɛdi Jesus na akyerɛw?,1.0,0.4643
+755,Fa Wo “Sunsum Mu Akyɛdze” No Dzi Dwuma,Fa wusum ma chezeni zi juma.,0.875,0.4138
+756,"Jesus kaa dɛ Jehovah dze ne dzin ama no no, nna ɔpɛ dɛ ɔkyerɛ dɛn?",Jesus Christ Jehovah Adansefoɔ nyinaa amanen na ɔpɛdeɛ ɔkyerɛden.,0.8667,0.42
+757,Ebɛnadze na Jesus yɛe dze boaa n’esuafo no ma wohun Jehovah yie?,"Ebe na-azi na Jesus ye, ebu a na-esu afo na ohu Jehovah ye.",0.8333,0.2745
+758,Jehovah si dɛn fa hɛn nuanom Christianfo do kyekye hɛn werɛ?,Jehovah Witnessfofo ne Anum Christianfo de Cheche Henry.,0.8182,0.4286
+759,Dza Bible No Ma Yehu Fa Ne Kyerɛwfo No Ho,"Asɛntire, saa Bible no ma yí hũ fa nkyerɛkyerɛ ofonohunu.",0.8,0.625
+760,dze akyerɛ dɛ etaa Nyankopɔn n’Ahendzi no ekyir?,Sɛ akyerɛ dɛ Nyankopɔn na Ahenzi na echiri.,0.75,0.3333
+761,Ɔyɛ dzen ma me dɛ mubotwa mo kɔn ahwɛ kaar no n’ahwehwɛ mu anaa mubohu kwan mu yie a?,"Ɔyɛ nzinam mu de mgbucham kwan na ahwekan na ahwehwɛ mu, ana mgbowukwan mu yie a.",0.7368,0.3538
+762,"Ndɛ, sɛ yetsie Jehovah n’akwankyerɛ a, ebɛn nhyira na yenya fi mu?","Ɛnneɛ, sɛ ɛteɛ Jehovah na akwantuara, ibɛn isire na iyi nyinaa fim?",0.75,0.4706
+763,MBAABUN ENYANSAFO NA MBAABUN NKWASEAFO HO MFATOHO NO,Mbibi ne nyansafoɔ ne mbibi ne nkwasiafoɔ nhunhatuhunhu.,1.0,0.4222
+764,"Sɛ yetsie “nyansa” afotu a, ebɛn nhyira na yebenya?","Sɛ ɛteɛ saa firi taa, ibe ni soro na ibi nya.",1.0,0.5641
+765,SIANTSIR A YEBOTUM AGYE OWUSOƐR NO EDZI,Sɛ nti na igbotum aje wusra nezi?,1.0,0.4242
+766,Suasua Mbrɛ Jehovah Na Jesus Si Dwen No,Sɛehyɛmfo Yehowa na Jesus si gyen.,0.625,0.4688
+767,Ebɛn Aber Na Wɔgyee Ɔbarimba A Nna Ɔwɔ Corinth No?,"Ebe na abuo na wukuo obara mma, m noo wo",1.0,0.625
+768,NYANSAHYƐ A OBOTUM ABOA WO MA ESUA ADZE,Yɛnsa sha obutumabuo mu esu yanzie.,1.0,0.4062
+769,NNA YESURO NAASO JEHOVAH HYƐƐ HƐN DZEN,Na na Ye Suro na asu Yehowa Adansefoɔ.,1.1429,0.5
+770,Ebɛn ndzɛmba na obotum asɛɛ hɛn enyigye?,Ebenezer Nii Botwey Asare ne ne yere,1.0,0.6061
+771,MA WO NUANOM NHYƐ WO DZEN,Mewu yaa nomu insha Allah.,1.0,0.75
+772,"a Ndɛ, ɔka adzesua a yɛyɛ wɔ dapɛn mfinimfin nhyiamu no ho.","Asi hɔ asɛm no keka m’ade. ""Inde, ɔkwan a deshiaye yi woda pɛnifi nfinimfini no shi mu nɔhu,"" asi hɔ asɛm na esi.",1.75,1.1522
+773,"Yɛserɛ hom, hom nka mbrɛ hom sii hun nokwar no nkyerɛ hɛn.","Yes, Sir. Hom kan bre hom si hom nokware no nkyerɛ hen.",0.6667,0.3333
+774,c Hwɛ video a wɔato dzin “ Hwɛ Woho Yie Wɔ Atorsɛm Ho ” wɔ jw.org.,"Asuha asomdwee kanea. Sɛ wɛpɛ sɛ wuhui wato sam ho, kɔ jw.org. Asuha asomdwee ne si.",1.1429,0.9787
+775,JEHOVAH DƆ N’ASOMFO A WƆDZE NOKWARDZI SOM NO NO,Yehowa dɔ naasomfoɔ a wɔzenu kɔeɛ somene.,0.7778,0.4211
+776,FA NYAME N’ASƐM NO KYERƐKYERƐ HƆN,Fanyame na sam no chirekyerɛ ho.,0.8333,0.2593
+777,"Ebɛn nsɛm na wobisa hɔn a worubonuma hɔn no, na ebɛnadze ntsi a?","Ebe na-esighị na obi siri ha na ọ bụ gọmentị ahụ, na ebe na-azịntaa.",1.0,0.6
+778,"Sɛ yɛrekenkan asɛm bi anaa yeritsie ɔkasa bi a, ebɛnadze na obotum aboa hɛn ma yeenya do mfaso?","Sɛ yɛkinkina asɛm bi a na ayɛ yɛtee kɛseɛ bi a, ibe na azi na obutu ma ogbonyo no mu yɛ nya do mfaso.",0.8333,0.3684
+779,SƐ ƆYƐ TSE DƐ MBRƐ NKORƆFO NNKYERƐ DZA YƐYƐ MA HƆN NO HO ENYISƆ SO Ɛ?,Ɛyɛ tɛn mbre nkurɔfo nkyerɛ zaa yɛyɛ m'ahoɔno ho enyisa soo.,0.875,0.283
+780,"Kunnom, Hom Ndzi Hom Yernom Nyi","Kunun, hominzi homi yerenom nye.",1.0,0.32
+781,“Metsee nka dɛ gyama Jehovah nndwen moho mpo.”,Mete nka dɛ egyama Jehovah Adansefoɔ mu mpu.,0.625,0.3889
+782,DZA OBOTUM ABOA HƐN ABER A HƐN ADWEN MU AYƐ HƐN KONSEE,Zobo tumi aboa hen abere hen adwuma ayɛ hen nkutsoo.,0.8333,0.3488
+783,SIANTSIR A ƆFATA DƐ YƐSOM JEHOVAH,Sɛnkyerɛwafata deɛ ɛsom Jehovah,0.8333,0.3571
+784,"Sɛ wɔka dɛ Christiannyi bi noho akokwaa a, ɔkyerɛ dɛn?","Sɛ woka da Kristiani bi ho akɔkɔɔ a, ɔkyerɛ dɛn?",0.5,0.2791
+785,SATAN PƐ DƐ ƆSƐƐ KORYƐ A ƆWƆ HƐN NTAMU NO,"Satan pɛdɔɔsɛ okro yaa, owhe n'ntem.",0.9,0.375
+786,"SƐ W’ENYI BƆSƆ DZA EWƆ NO A, EBƐNADZE NTSI NA . . .","Sɛ wɛnnyɛ bɔsɔdzeɛ wa na, ibe naazi nti na",0.8,0.3529
+787,"Krataa no mu nsɛm no yɛɛ kyerɛkyerɛnyi no nwanwa, ntsi obisaa John dɛ: “Blankson, ntsi dɛm asɛm yi na epɛ dɛ ekyerɛw a?”","Krataa no mu nsɛm no yɛ kyekyɛn mu nwawasa. Nti daakye biara, Blanksen, nti daakye biara, ipe daakyerɛ wo a,",0.7391,0.4239
+788,"Sɛ wɔka dɛ obi nyim Jehovah yie a, yɛbɔhwɛ dza ɔkyerɛ nye siantsir a ɔsɛ dɛ yehu Jehovah yie nye kwan a yebotum afa do ayɛ dɛm.","Sɛ waka de obi nyim Jehovah Yehowa a, yebahwe ekyir na yii asɛntirɔsɛrɛ nhwɛ Jehovah Yehowa yi, nyikwan a yebotum afa do ayɛ dam.",0.5926,0.3737
+789,Ebɛnadze ntsi na ɔsomafo Paul kyerɛɛw krataa kɛmaa Hebrewfo Christianfo no?,Ebe na-azi nti na osumanfo ochie okrata aka ma Hibru fu Kristiánfo niile.,1.0909,0.4688
+790,Ebɛnadze ntsi na sɛ yehu dɛ worisisi nkorɔfo a ɔhaw hɛn dɛm no?,Ebenezer Ntoso yɛn hu dɛ orisisi nkorɔfoɔ a ɔhɔ ohen damon.,0.8462,0.38
+791,PAANOO A ƆTSE ASE NA NO HONAM,Paa no a ɔtaa se na onwene m.,0.8571,0.3478
+792,Ayɛ Krado Ama Da Tsitsir A Ɔwɔ Afe No Mu No Anaa?,Aya kaadu ama de titire a owo afinumu na ana.,0.8333,0.3514
+793,d MFONYIN NO HO NKYERƐKYERƐMU: Christianfo awarfo bi a wɔdɔ Jehovah nye hɔn ba rekasa wɔ video kɔɔl do. Hɔn ba no na no kun no roboa ma woesi Ahendzi Asa bi.,"Yɛwɔ mfoni nnum deɛ, awerɛfiri bi, nyinwa baabi a ɛsiei na nnukunu rekasa wɛ video kɔɔdɔ na ɛhwɛ na enye aji. Hwana baabi nyi nnukunu siesia reflector.",0.875,0.6992
+794,"Ndzɛmba a yebotum ayɛ dze esuasua Jehovah no suban ahorow a ɔma ɔyɛ dɛ ɔbotan no, bi nye dɛn?","Nzam ba yebotu ma yeze sensen Jehovah nso ba na ahuru wa. Omo oye do ogbotanin, binye dan.",0.9474,0.3425
+795,"Ɔko Mu O, Asomdwee Mu O, Jehovah Hyɛɛ Hɛn Dzen",Okumuu asomdwoe mu Jehovah’s Witnesses.,0.9,0.4286
+796,YEBESI DƐN EGYINA PINTSINN?,Yebesre ne dzin a pintinn.,1.25,0.2609
+797,BOA WO SUANYI NO MA ONHU MBRƐ OBESI EGYINA ƆHAW A OBEHYIA NO ANO,Bɔawusu enyi mu ohun mber obesiaji na ohawa obesia no anu.,0.9286,0.3333
+798,HYƐ AFOFOR NKURAN MA WONSUASUA NAZIRIFO NO,Sɛ afoforɔ nkuro ne mmeɔwa nsia na Azurefoɔ.,1.1429,0.4722
+799,Ebɛnadze ntsi na ɔnnsɛ dɛ yɛgye hɛnho dzi dodoodow?,Ebe na-azi nsi na-onsede y'eji henwu di dodo.,1.0,0.4762
+800,Wo mbuae,Satan pɛ dɛ ɔbɛgyizi. Ofi Adam na Eve nwa na abrodɔfo ebesi ndɛ. Satan akworo,7.5,8.1429
+801,Jehovah ne da no besi dɛn aba?,Yehowa ne Danbese ne Yaba.,0.8571,0.3478
+802,Wo mbuae,"Iche mudu, asɛm yi sa. Dɛmbre James sura na nyimdo ebi a ma ye hunu. Ibe na se na ye nye ho kwan dɛ ye ye, na ibe na se nsa.",15.5,12.0
+803,Asafo Mu Mpanyimfo—Hom Nsuasua Dza Gideon Yɛe No,Asɛm mu mpanimfoɔ hu sɛ nsɛnkyerɛnneɛ a Gideon yɛ.,1.0,0.55
+804,Yɛbɔhwɛ nhyira a werdam no ma yenya nye dza yɛyɛ a ɔbɛma Jehovah ehu dɛ hɛn enyi sɔ werdam no.,"Yɛbɔɔ sɔreɛ awia damu ne mmanyanya, nyansa ayɛ yɛ a, ɔbɛma Yehowa enwene ne enyi sɔreɛ awia damu.",0.85,0.5135
+805,MBRƐ IBESI AHYƐ NANTSEW A ODZI AWAR ENYIM ASE,Mprebisa a ɛnanti wọ kwan a wọrekyerɛ nyimasi.,1.0,0.5676
+806,Ebɛnadze na esua efi mu? Bisa woho dɛ:,Ibe na-azụ ahịa ihe nkiri. Mbisa nwoke,1.0,0.6897
+807,d MFONYIN NO HO NKYERƐKYERƐMU: Enuanom bi a worihyia ɔhaw robɔ mpaa ama afofor.,Zozibini Tunzi na-ayiri sususu wọ́n chiche m̀esunụhụ nchèchèri. Inụyanụmbịa wụrụ chi ọhaọ rubọ mpá ma fụfụrụ.,1.1429,1.0469
+808,Yɛbɔhwɛ dza Christianfo a wonumaa hɔn nnkyɛree no botum ayɛ dze esiesie hɔnho ama ɔhaw ahorow a wobotum ehyia wɔ asafo no mu.,"Yɛbɔɔ Kristofoɔ nwoma nkyerɛweeɛ, butumayɛ, zisi si nwanwa ma ohu nwanwa adwuma a wubutuma asue a wasafo numu.",0.9565,0.5392
+809,c Hwɛ video a wɔato dzin “ Horst Henschel: M’abandzendzen Nye Jehovah ” no wɔ jw.org.,"Asew asɛm na ɛka nkaeɛ deɛ, hwɛ video a Wotizen Horse Henschel ma baa dzin nyi Jehovah nu wɔ jw.org. Asew asɛm na ɛsi.",1.2857,0.75
+810,SIERRA LEONE​—NNA WODZI HIA NAASO NNA WƆWƆ GYEDZI,Sierra Leone na wodi hiya na nso na wowu jiji,1.125,0.3
+811,"Sɛ erekenkan Bible no na epɛ dɛ inya do mfaso kɛse a, ibotum ebisa woho dɛm nsɛm ahorow yi:","Anaa yɛnyim dudu biara pɛ, naaso sɛ wohia nyimpa dɛ, igboto gbaa saki nka yi ama etum",1.0,0.8451
+812,IBESI DƐN EFI W’AKOMA MU ABƆ MPAA?,Ebe si na efi wa akwụkwọ ma agbọ mpa a?,1.2857,0.5
+813,aboa afofor ma woeenya Nkaadzi no do mfaso?,Agboa foforo ma wo nya nke a zi n'udo mfaso.,1.0,0.2286
+814,MA ƆDƆ A EWƆ MA JEHOVAH NO NKƆ DO NYƐ KƐSE,Mmɔdɔeɛ a Yehowa nkodoinyankesii,0.9091,0.5312
+815,DZA ƆSƐ DƐ HƐN MU BIARA SO YƐ,Josephine hyɛɛ mu bɛsue.,0.875,0.8182
+816,ebɛnadze ntsi na ɔsɛ dɛ yɛdze dza ohia paa no dzi kan wɔ hɛn abrabɔ mu?,Ebenezernti na Osagyefo Oseadeeyo Nana Agyeman Badu II na abrabo mu.,0.875,0.6364
+817,"‘Abɔbɔfo a wɔhyɛ hɔn do, na ehiafo hɔn apensi ntsi,",Abobofoɔ a wɔsɛe hɔ ndɔ na nhiafunahɔ na apini si nti,0.9,0.3846
+818,AHYEHYƐDZE NO NYAA RADIO STEEHYƐN PII KAA DZA NNA ƆWƆ NO HO,Agya Sɛsɛ ne Nyame radio station Pii Kasaa ɛna ɔwɔ ne ho.,0.75,0.4167
+819,Afei bɔ mbɔdzen dɛ ebɛkenkan magazine a yɛdze ma ɔmamfo no na hwɛ video ahorow nye nsɛm afofor a wɔdze gu jw.org do no.,"Afei, bɔmbɔzi ndɛɛ, eba ka nkan magazine na yezi ma mfa nne, na hwe video ahuru nye nsim afofora wozigu jw.org do.",0.7083,0.266
+820,Pɛnsapɛnsa Kyerɛwnsɛm no mu kɔ ekyir. Henfa bio na dɛm asɛm no pue wɔ Bible no mu? Ebɛn kwan do na dɛm kyerɛwsɛm no nye kyerɛwnsɛm afofor dzi nsɛ?,Pɛnsia pɛnsia twerɛsɛm no mu kwan echiri. Hinhim biara na damasɛm no pue wobaabiara mu. Ibɛn kwan na damu twerɛsɛm no nye twerɛsɛm afoforo yi nsɛ?,0.6552,0.3565
+821,EBƐNADZE NA SATAN YƐ DZE SƐƐ HƐN BO A YEESI DƐ YEBEDZI JEHOVAH NOKWAR NO?,Ebenezer esi tani yi se se hinu kwan yi si de ye bisi Jehovah nokware.,1.0,0.431
+822,ɔdɔ a Jesus ada no edzi akyerɛ hɛn no ho?,Ɔdɔ a Jesus ada no adi akyerɛ hɛn nuhu.,0.3,0.129
+823,Ana w’enyi gye ho dɛ ebɛkenkan hɛn nuanom hɔn asetsena mu nsɛm no?,"Anna wuie je ho dɛɛ, ɛbɛkenka ne nua no mmonasiten mu nsaman.",0.8462,0.3654
+824,d MFONYIN NO HO NKYERƐKYERƐMU: Onua aberantsɛ bi dze video bi a ɔwɔ Aso Wɔbɔe? video ahorow no mu no bi rekyerɛ no skuulnyi bi a n’enyi gye drone ho.,"Yehuu mfonii no mu de, onipa a nte busy video bi a owaa so wobooe video ahuru mu bi, richire no school nyinaa bi a na enyi ji di roonu hu.",0.7667,0.5517
+825,YEHIA ‘AKYƐDZE A WƆDZE AMA NYIMPA’ NO,Yɛhyeɛ Achaea waza mu nnipa.,1.0,0.5862
+826,Da a yɛwaree,"Sɛ wáchɛ wo ho firi nokware kan de, ɛda ayɛ wari.",3.6667,3.0
+827,"John kaa dɛ: “Nyew, mara na mekyerɛwee.”","John Kande, inyoo, mara na me churo wae.",0.8571,0.3448
+828,boaa afofor ma wɔtsee Kyerɛwnsɛm no ase yie?,Bua foforo mma wo church transamu na si yei.,1.125,0.5833
+829,Ebɛnadze na obotum aboa hɛn ma yeehu amandze a yeruhu no dɛ mbrɛ Jehovah hu no?,"Ihe mere na-azị n'okwu tuma bụ ihe mụ na gị hụrụ ama nza, ihe ị hụrụ, dem bụ Jehovah hụrụ.",1.25,0.619
+830,JEHOVAH APATA AMA HƐN: Jehovah dze nhyehyɛɛ egu akwan mu mbrɛ ɔbɛyɛ a asomdwee bɛsan atsena ɔnye nyimpa a bɔn wɔ hɔnho ntamu,Jehovah pataa mehen. Jehovah,0.913,0.7822
+831,"Twe Woho Fi Sum No Ho, Na Kɔ Do Nantsew Kan No Mu",Twi fi sum no ho na kodo na nti woka nnomua.,0.6154,0.2778
+832,Hulda Dur No Botae Ho,Ɔda duru na ebuta aihum.,1.0,0.6471
+833,"Gad, Asher, na Naphtali",God asha na Naftali,0.75,0.2778
+834,"Sɛ yɛdze nsu a wɔdze numa si nkyɛn a, wɔdze ndzɛmba afofor bi so numa hɔn a wɔasera hɔn no.","Sɛ ezinisa wozinnuma si ncha na, wozinzama fufuro bisinnuma ahu na waasra hon.",0.9,0.4571
+835,Jehovah ne da no a yɛdze hɛn adwen besi do no ho?,Jehovah na daana a yɛde hyɛɛ n'adwuma dendenam.,0.8333,0.4324
+836,DWEN SIANTSIR A EPƐ DƐ ETOA DO NO HO,Ginseng ntiro a epe da etuo aduru ho.,0.7778,0.5
+837,NYANSAHYƐ A OBOTUM ABOA WO MA EESUA ADZE,"Yɛnsa kyɛ, ɔbotum abuo me suaazi.",1.0,0.3636
+838,"Dza ɔbarimba na ɔbaa botum ayɛ ama hɔn nantsew a odzi awar enyim no akɔ yie, nye dza enuanom a wɔwɔ asafo no mu no botum ayɛ dze aboa hɔn.","Sɛ obarima ba na obaa botuma ayɛ, na mhoɔden nti obaa were nyim na akɔyɛ yi, nyimzenua na ɔma wowɔ asafo nu mu botuma ayɛ saa abuo hunu.",0.8667,0.3925
+839,meyɛ krado dɛ mibetsie afotu a wɔdze bɛma me no?,Me a kraa de mbetia fitaa wosiba maman.,1.0,0.4474
+840,"Nna nkɔnhyɛnyi Daniel brɛ noho adze, na iyi maa Jehovah pɛɛ n’asɛm paa",Zawaachiri nwomfo enyi n'uhuruchi nke ụbọchị ahụ. Na-eyi ma Jehova Pe na-asacha mpaa.,1.0,0.7857
+841,Ebɛnadze na Satan yɛ dze bu hɛn abaw mu mbrɛ ɔbɛyɛ a yebegyaa asɛnka edwuma no yɛ?,"Ebenezer Satan yɛɛ zibuhi na boom, mberɛ bɛyɛ a yɛbɛgyaa se nkɛɛ jumanɛ yɛ.",0.8235,0.3385
+842,Yɛrobɔhwɛ dza Bible mu afotusɛm kyerɛ nye mbrɛ yebesi ehu bi aber a yɛrekenkan Bible no.,"abrabɔ yɛrekenkan Bible. Njecheme kurokisi ebi, asɛm bisa nnefoɔ zikan",0.9375,0.75
+843,"NYA AWERƐHYƐMU DƐ DZA JEHOVAH AKA BIARA, ƆBƐBA MU","Nya rechem daa, Jehovah ka biaa obebem.",0.7778,0.4
+844,a Wɔasesa edzin ahorow no bi.,"Asawasam ne kankan de, wasisi ezinahu nu bi? Asawasam ne isi.",1.6667,1.4783
+845,“Hɔn A Wɔwɔ Akoma Pa” No Betsie,Hwan na ɔwā akwamma panin betee?,1.0,0.5217
+846,EBƐNADZE NTSI NA ƆSƐ DƐ YƐKƆ ASAFO MU MPANYIMFO NO NKYƐN?,"Ebenezer Scrooge deɛ, yɛkɔ asafom mpenyin foforɔ nkyɛn.",0.8182,0.3913
+847,MBRƐ MISII HUN JEHOVAH NA MINYAA NO MU AHOTODO,Ɛmrɛ me si hu Jehovah na me nye anuahu tɔdɔ.,0.8889,0.3158
+848,"Sɛ ɔyɛ dzen ma Bible suanyi bi dɛ ɔbɛtse asɛm bi ase a, ebɛnadze na ibotum ayɛ?","Sɛ ɔyɛ nsɛm a Bible kyerɛ yɛn bɛdɔɔso asɛm biara a, ɛbɛn na asɛm no ebu tumi.",0.7647,0.5082
+849,Nkɔm A Jacob Hyɛe Ansaana Oruwu,Zebulun ne Naphtali. Nkoma Jacob hyɛɛ nsa n'orowu. Yɛhu Zebulun ne Naphtali. Zabulon ne Naphtali.,2.3333,2.3077
+850,"Akwan ahorow a Jehovah fa do bua hɛn mpaabɔ no, bi nye dɛn?",Akwanahuruwaa Yehowa Adanfo bua hye na mpaabɔn binye den?,0.9231,0.3111
+851,Ebɛnadze na osuanyi Mark yɛe a enuanom mberantsɛ botum esuasua?,"Ɛmma no nsi nnyimakee yɛ a, enyanu mmere ntebetum tumi si nsia.",1.1,0.5472
+852,DZA ƆBƆBOA HƐN AMMA YEEMMBU HƐNHO ANNKYƐN AFOFOR ANAA YƐANNYƐ PƐSƐANKONYA,Zoboboihen ama yɛn bu yɛn ho ncha na afoforo ana ayɛ anyɛpɛsa nkunya.,1.1818,0.3492
+853,Ebɛnadze na asafo mu mpanyimfo botum ayɛ dze esuasua mbrɛ Jehovah si da ayamuhyehye edzi no?,"Ebenezer Asefu, mpenyinfu butumaye, deɛ so nsua mber Jehovah esi da ye nhyehyɛeɛ di.",0.875,0.3816
+854,MESI MO BO DƐ MEBƐMA JEHOVAH AKƆ DO ATSETSE ME,"Me somo botee, me baa Jehovah kuroda tetem.",0.9,0.3514
+855,"Sɛ ereyɛ werdam no ho nhwehwɛmu a, ibotum ahwehwɛ nsɛmbisa a odzidzi do yi ho mbuae:","Sɛ ɛyɛ awɔdam hɔ nhwehwɛmu a, ɛgweti ma nhwehwɛsɛm bi saa ozizidui hɔ mwayi.",0.8125,0.3731
+856,ebɛn edwuma na wɔdze ahyɛ hɛn nsa?,Ebia ejuma na wasa asase hye sa.,0.8571,0.5556
+857,Ebɛn atorsɛm ahorow na ɔsɛ dɛ yɛhwɛ hɛnho yie wɔ ho?,"Ibe na Atwima Nwabiagya North de, yɛhwɛ hɛn ho yie wɔ ho.",0.7273,0.4878
+858,Ebɛnadze ntsi na ɔsɛ dɛ yɛgye to mu dɛ Jehovah dɔ hɛn?,Ibea na ɛne nsɛm a ɛsɛ de yi jwomadi no Jehovah Tohen.,1.0,0.5238
+859,Nsɛm Yi Kɔ Ma Mbofra A Wɔretsetse Hɔn Wɔ Nokwar No Mu,"Saa ododow yi yɛ nsɛm kakra ɔka ho, nsɛm yi kɔ ma mofura a wɔatete ho wɔn nokware no mu.",1.0833,0.881
+860,"Yebosua biribi efi ɔsomafo Paul, Philemon na Onesimus hɔ, na ɔbɔboa hɛn ma yeehu mbrɛ yebesi aboa ma asomdwee atsena asafo no mu.",Yebosia abirebire fi Osamanfo Paul fa lemon na one nsem osohor. Na obobuahen me ye hu mbre yebe si abua ma asomdwoe atina asafo no mu.,0.8261,0.2596
+861,NO HO HIA PAA DƐ YENYA ƆPƐ A NO MU YƐ DZEN,"Nnumu hye paa deɛ, nyinyaa opea nnumu yɛ dzen.",0.75,0.4516
+862,ADWEN A JEHOVAH PƐ DƐ YENYA WƆ AMANDZE A YERUHU NO HO,Adwuma a Jehovah pɛ dɛ yɛnya waamanza a yɛrehunuhunu,0.5833,0.3095
+863,Fa Adwen A Nyankopɔn Wɔ Wɔ Nsa Ho No Bɔ Wo Bra,Sɛɛ bi na Nyankopɔn wɔ w'nsa hɔ n'gboa w'bra.,0.8333,0.3429
+864,Siantsir A Binom Nngye Nnto Mu Dɛ Jehovah Fa Nyimpa Do Ma No Nkorɔfo Akwankyerɛ,"Zoe wee yɛ nsɛm kakra ka ho, ""Sɛ nkyerɛ binom inyintumi de Jehovah fanyin padu m'anunkwafo akwan kyerɛ.""",1.2,0.5846
+865,"SƐ WƆKA DƐ YƐNHWƐ HƐNHO YIE A, ƆKYERƐ DƐN?","Sɛ woka dɛn nhyehyɛeɛ hunu yi a, ɔkyerɛ dɛn?",0.5556,0.375
+866,JEHOVAH PƐ DƐ YƐBƆSOƐ NE NTAMADAN MU,Jehovah adey yɛbɔsoɛ ne ntamada nim.,0.5714,0.2
+867,Ma Jehovah no som ho nhia wo nkyɛn biribiara wɔ w’asetsena mu.,Me Jehovah nso mu hu ihe a wo nchinbiara biara wo waasiti ne m.,1.0,0.3673
+868,Dza Erohwɛ Kwan Daakye No Bɛba Mu,Ɛyɛ wo shɛkwan daakye ne bɛɛbɛɛm.,0.8571,0.4444
+869,ANGELITO BALBOA NANKASA N’ANOMU ASƐM,Anjelito Babua na nkasa ne din masam. Yei ne onipa Anjelito Babua ne mfonini.,2.8,1.2258
+870,Jehovah no botae tsitsir nye dɛn?,Jehovah nu botae tsitsiri nyin den?,0.6667,0.1852
+871,"Yɛbɔhwɛ siantsir a no ho hia dɛ yɛbɔ mpaa ma afofor, nye mbrɛ yebesi ayɛ dɛm.",Yɛbɔhyɛɛ sɛ nteaseɛ ne ho hia dɛɛ yɛbɔ mpaa ma afoforɔ. Nyi mber yɛbɛsa yɛde m.,0.6875,0.3167
+872,aboa hɔn a woegyaa asafo nhyiamu nye asɛnka kɔ no?,Abuo nwa na-ewu eji asekwu nsị nwanyị asan ka kwan.,1.0,0.625
+873,HWEHWƐ JEHOVAH N’ADWEN WƆ ASƐM NO HO,Hushé Jehovah na adwenwaasɛm no ho.,0.5714,0.2069
+874,WONUMAA SAUL A OFI TARSUS NO,Wonnuma sọla ofita asịsị.,1.0,0.3478
+875,‘BƆ MBƆDZEN’ MA KORYƐ NKƆ DO NTSENA ENYE AFOFOR NTAMU,Bombesin ma kuro yɛn kwado nti na ɛyɛ afofiri ntem.,1.0,0.4286
+876,"Aber a ɔbarimba bi a ɔwɔ Corinth asafo no mu yɛɛ bɔn a no mu yɛ dur bi no, Paul kaa kyerɛɛ asafo no dɛ wɔnyɛ dɛn?","Aburokyire mu bi a wɔwɔ kɔntaasafoɔ no mu no yɛ gba na anuoyɛ duru bi. Paul ka kyerɛɛ asafuo no de, ""Wanyɛ den.""",0.7037,0.3647
+877,GYE DZI DƐ JEHOVAH NA JESUS PƐ W’ASƐM PAA,kyerɛ mu dua nan asɛm nsa. Sɛ yɛmpɛ dɛ sɔre,1.1111,0.8438
+878,"Yɛbɔhwɛ mbrɛ asafo mu asomfo, asafo mu mpanyimfo, nye amansin do ahwɛfo si boa hɛn. Afei so, yɛbɔhwɛ dza yebotum ayɛ dze akyerɛ dɛ hɛn enyi sɔ dza dɛm mbarimba anokwafo yi yɛ ma hɛn no.","Yebohwɛ mmerɛ asafomasoafo, asafom mpaninfoɔ ne amansin dwamhwɛfoɔ si boa hɛn. Afei so, yebohwɛ dɛ yebotum ayɛ dza kyerɛ dɛ hɛn nnyisoɔ dɛ dammram ma no kɔfoɔ yi yɛ ama hɛn.",0.6389,0.2414
+879,Ebɛnadze na obotum aboa wo ma aagye ato mu dɛ Jehovah dze wo bɔn akyɛ wo korakora?,"Iber na asɛnka adwuma abɔ ma akyerɛ tumi de, Jehovah se wogba na achɔkwa akwadaa.",0.8235,0.5692
+880,"b Mbrɛ ɔsomafo Paul kaa asɛm yi ma yehu dɛ bi a wɔbɛka dɛm asɛm yi mpɛn pii, na ɔnnyɛ pɛnkor pɛr.",Asew asɛm na kanka yɛ. Mbrɔsima foforɔ ka asɛm yi ma yɛhu dɛ bia woba ka dam asɛm yi mpenu pii na ɔnyɛ penkoro pɛ. Asew asɛm na ɛsi.,0.9545,0.6216
+881,EBƐNADZE NA ƆBƐMA W’ENYI AGYE HO DƐ EBƆSOM ENUANOM?,Ebi na-ase na obamawu nye ajehu dae ebosom inu anu.,1.0,0.3902
+882,HYƐ WOHO DO NA MMA MMFA EBUFUW NNYƐ ADZE,Sɛ wohodo na ma fe gbo fuo nyazi.,0.8889,0.4062
+883,Ebɛnadze ntsi na ohia paa dɛ edze Nyame n’Asɛm no kyerɛkyerɛ nkorɔfo?,Ɛbɛn asɛm ti na wohia paa deɛ? Etii Nyame n'asom ne kyerɛkyerɛnkyerɛfoɔ.,0.8333,0.3036
+884,Ebɛnadze Ntsi Na Ɔsɛ Dɛ Yesuro Jehovah?,Ebe na nsi na osebo di Yesu Jehovah.,0.8571,0.375
+885,EBƐNADZE NTSI NA ƆDƆ MA YEHU HƆN A WODZI JESUS N’EKYIR ANKASA?,Ibia na Aseinti na odoma yi wonhwa na owo Jesus ne kyere nkasa.,1.0,0.4286
+886,Yebotum Esua Jehovah Ho Adze Pii Efi Ndzɛmba A Ɔabɔ Mu,Yebotumi ese Jehovah Hwanze P. ife nza mba wu agbom.,0.9091,0.3409
+887,"Sɛ ema ɔdɔ a ewɔ ma Jehovah nye wo nyɛnko nyimpa no yɛ kɛse a, obesi dɛn aboa wo ma w’enyi aagye wɔ asɛnka mu?","Sɛɛ m'ahododo a ɛwɔ me mu a ɛwɛn wo nyankopɔn a ɛkesɛ a, obi si na agbo mu nyansa nkem.",0.92,0.5663
+888,"BIBLE NO YƐ “AKYƐDZE PA,” MA ƆNDA W’AKOMA DO",Baibolo ni ya chesepa mo ndewaku madu.,1.0,0.4688
+889,ABER A ENYE WO NUA BI ADWEN NNHYIA,Abre a enyewunu ebi ajwene nshia.,0.875,0.2963
+890,c Hwɛ video a wɔato dzin “Ndzeyɛtsenenee Bɔsow Asomdwee Aba” wɔ jw.org.,Asawasa na kyerɛɛn deɛ hwɛ video a watozin nkyerɛkyerɛmu gbosowaso mmiaba wọ jw.org. Asawasa na esi.,1.0833,0.875
+891,Menye Wilson Bashou. Ɔno na ɔmaa muhun nokwar no,"Me wɛkyɛw, me wura King Kande, me nyewu Saint Bachue. Ɔne na ɔmaa mu hu nnɔkɔri.",1.5556,0.9231
+892,"‘NSƐM NO YƐ AMPA NYE NOKWAR, WƆAYƐ HƆ!’","Nsɛm no yɛ mpa nyinaa kwaru, wayɛ hɔ.",0.5,0.2143
+893,"DƐ YƐYƐ mpanyimfo o, dɛ yɛyɛ mbofra o, ɔtɔ da a hɛn nyina adwen mu tum yɛ hɛn konsee. a Dɛ mfatoho no, bi a ɔbabun bi a ɔyɛ ɔdawurbɔfo benya adwen dɛ gyama n’asɛm nnhyɛ da ara mmfa Jehovah ho. Ntsi bi a onnhu sɛ onnuma o, sɛ mma onnuma o. Anaadɛ bi a onua bi sii gyinae wɔ ne mberantsɛber mu dɛ ɔdze Jehovah no som bedzi kan wɔ n’asetsena mu, na orinndzi sika ekyir. Naaso seseiara dze, ɔnnhyɛ da ara nnyi sika pii a ɔdze bɔhwɛ n’ebusua, ntsi bi a nna n’adwen yɛ no dɛ oennsi gyinae pa. Afei, ma yɛnhwɛ akyerɛbaa bi so a ne mfe akɔ enyim a onnyi ahoɔdzen papa. Bi a n’abaw mu ebu osiandɛ ndzɛmba a nna nkan no otum yɛ no, seseiara dze onntum nnyɛ dɛm ndzɛmba no bio. Ebisa woho dɛm nsɛm yi bi pɛn: ‘Ntsi Jehovah nyim me anaa? Ndzɛmba a medze abɔ afɔr ama Jehovah no, ebɛn mfaso na menya? Moho da ho ara hia Jehovah anaa?’","Deɛ yɛyɛ mpenyinfoɔ, deɛ yɛyɛ mbofroɔ, ɔtɔ da a, hin nyinaa dwini mu tumi yɛ hɛn kunsɛn.",0.9527,0.904
+894,Video a ɔba toatoa do a wɔato dzin Dza Ɔma Awar Sɔ,Ebɛn video batuatua dɔnwa atuzin zɔma w'aso?,1.0,0.4615
+895,KƆ DO ARA YƐ DZA IBOTUM FA BOA WO NUANOM,Kwadra a yeze igbutum fọbọ wụ nụ ya nụ.,1.0,0.5484
+896,"Sɛ biribi sɛɛ hɛn enyigye a, ebɛnadze na obotum ama hɛn enyi asan agye bio?","Sɛ bere bi sei hene ijaa, ebe na azi na gbo tuma hene iye ase ya ji biu.",1.0667,0.4237
+897,TU MBIRIKA NO NA DZI KONYIM,Tumbril kan nezi kunyim.,1.0,0.2727
+898,"Yɛbɔhwɛ mbrɛ Bible no ma yenya awerɛhyɛmu dɛ sɛ yenu hɛnho wɔ hɛn bɔn ho a, Jehovah dze bɛkyɛ hɛn, nye siantsir a ohia paa dɛ yɛgye to mu dɛ ɔbɛyɛ dɛm.","Yebɔhyɛɛ mberɛ baabi gu mu yɛn nyinaa wiɛ hyɛɛ mu dɛ, sɛ yɛn nuaye no wɔ hɛn bɔn ho a, Jehovah bɛkyɛ hɛn. Ennyɛ nsɛmkyerɛw nyinaa dɛ yɛgye tumi dɛ obɛyɛ dɛm.",0.6875,0.3932
+899,MBRƐ YEBESI AHYƐ AWERƐHYƐMU A YƐWƆ WƆ HƐN ENYIDADO NO MU NO DZEN,Impreza share rehyerɛn ma yɛwɔ w'hene nyidada mu zen.,0.8462,0.4615
+900,Fa woho to Jehovah do na mma nndzi w’akoma ekyir.,"Fɔm hɔ to Jehovah dɔ, na me nzi wo akoma ekyir.",0.7,0.2632
+901,yɛnye Jehovah ntamu san yɛ kama bio?,Yɛnne Yehowa ntem san yɛka mabiakɔ.,0.8571,0.3103
+902,Ebɛnadze Na Werdam No Ma Yehu?,Ebenezer a reda mu ma yi hu.,1.0,0.375
+903,MBRƐ CORINTH ASAFO NO DZII BƆN A NO MU YƐ DUR BI HO DWUMA,"Mberɛ kwarantain asafo no dii gba na, nnipa yaa du bihuu juma.",0.8571,0.4773
+904,"NSƐM A ƆWƆ BIBLE MU NO, WƆNNSESAA NO",Nsɛm a wɔwɔ Bible mu wɔ nsɛnsane.,0.5,0.2857
+905,HOM MMA YƐNDƆ “WƆ NDZEYƐƐ NYE NOKWAR MU”,Homa yɛndɔ wansiyɛ yɛn nkwari mu.,0.75,0.3548
+906,Ebɛnadze na Jehovah pɛ dɛ hɔn a wɔabɔsoɛ ne ntamadan mu no yɛ?,"Ife na-azi na Jehovah pere mpe, nwa na-abụ abụ so na ntụrụndụ nụ ya.",0.9231,0.5918
+907,"Sɛ nkorɔfo retan hɛn enyi a, ebɛnadze ntsi na ɔsɛ dɛ yɛma hɛn enyi gye?","Sɛ nkrɔfoɔ retaan wo a, ebia asɛm no sɔdeɛ yɛmmɛyɛ wo njɛ.",0.8667,0.5636
+908,Dza Yebotum Esua Efi Nazirifo No Hɔ,Gyae bo tumi suie fi na adwene funu ho.,1.2857,0.4828
+909,Ebɛnadze ntsi na ɔsɛ dɛ yɛkɔ do ara gye to mu dɛ Jehovah dze hɛn bɔn akyɛ hɛn korakora?,"Ipa na-azi nti na o siri ya koda aji tumu dee, Jehova zie mgbada cheryenu kwa kwa.",1.0,0.5735
+910,ENYIDADO A YƐWƆ NO HYƐ HƐN GYEDZI DZEN,Nnyidado a ɛyɛ wɔn shehen jejezen.,0.875,0.3871
+911,b Hwɛ video a wɔato dzin ‘Dɛn Ntsi Na Erotwentweɔn W’ananadze Dɛ Ebɔbɔ Esu?’ Ɔwɔ jw.org do.,Asɛmfo asɛm na kɛnkan deɛ. Hwɛ video a watozi deɛnti na twintwanwa na n'azida ɛgbo boesu. www.jw.org dɔ. Asɛmfo asɛm na esi.,1.0588,0.8116
+912,Nwoma Ahorow A Yɛdze Yɛ Nhwehwɛmu Wɔ Ɔweɔn-Aban INTANƐT DO NWOMAKORABEA ™ Do,Mmaa kuro a yɛde yɛn nhwehwɛmu onwi na aban intanɛt dɔm mmaa kuro bi adɔɔ.,1.0,0.3871
+913,"Sɛ yeennhu amandze a yeruhu no dɛ mbrɛ Jehovah hu no a, ebɛn ɔhaw na obotum akɛfa aba?","Sɛ yɛhwɛ aman a ɛyɛ hɔn Danbɛ Jehovah hɔn a, ɛbɛn hɔ no botumi aka fa aba.",0.7778,0.403
+914,"MBRƐ JEHOVAH BESI EBU ATSƐN DAAKYE NO, . . .",Mbre Jehovah bɛse gbaata ndaachin.,0.8571,0.3548
+915,“HOM MPƐNSAMPƐNSA HOM MU . . . HOM NSƆ HOMHO NHWƐ”,"Hom pɛnsa pɛnsa mu, hom nsɔhwɛ mu nhwɛ.",0.5,0.2571
+916,"SƐ ‘YƐTWE BƐN NYANKOPƆN’ A, ƆBƐMA HƐN ENYI AGYE","Sɛ ɛkyerɛ ne Nyankopɔn a, ɔbɛma wo ne no ayɛ aji.",0.7778,0.3611
+917,"Sɛ yɛda ntseasee edzi a, ebɛn kwan do na ɔboa ma asomdwee tsena asafo no mu?","Sɛ yɛdan Caesar a, ɛbɛn kwando na ɔbɔa ma asomdwee tena asafo no mu.",0.5,0.2034
+918,"Yɛbɔhwɛ mbrɛ werdam no ma yenya bɔnfakyɛ, ɔma yenya enyidado dɛ daakye sintɔ a wɔdze awo hɛn no befi hɔ, na ɔsan so boa hɛn ma yetum nye Jehovah ntamu yɛ kama.","Yɛbɔɔ ahyehyɛdeɛ weredeɛ mu ma yɛn nyagbanfache, ɔma yɛn nyinye da dodoɔ da achi si ntawɔza wɔ hen bifiho, na ɔsɔnsɔ bɔɔ hen ma yɛ tumi nyɛ Jehovah ntemie kama.",0.8438,0.416
+919,a Hwɛ asɛm a wɔato dzin “Jehovah Has Provided Friends Who Are Fearlessly at My Side.” Ɔwɔ jw.org do.,"Asɛm no kyerɛɛ sɛ, ""Sɛ́ asɛmwa tuzin, Jehovah has provided friends who are fearlessly at my side"" (jw.org do). Asɛm no esi.",0.5789,0.3896
+920,ebɛnadze ntsi na ɔsɛ dɛ yɛyer hɛnho wɔ Jehovah no som mu?,Ebenezer nti na ɔsɛdeɛ yɛyirigye Jehovah nsuo mu.,0.75,0.3778
+921,Kyerɛ Dɛ W’enyi Sɔ ‘Akyɛdze A Wɔdze Ama Nyimpa’ No,"Kyerɛ dɛ woyii so akyerɛzaa a, wozamɛ nyim pan.",0.7,0.3684
+922,"Odzi kan, ebɛn nhyehyɛɛ na Jehovah dze egu akwan mu dze aboa nyimpa ama yeetum ako etsia bɔn?","Ozikan, ebanisihia na Yehowa zie gwa akwewa mu, ze abuo enyimpa ama ye tuma akwae tia gbon.",0.8889,0.3919
+923,Sangir Besar Supɔw a ɔwɔ Indonesia n’etsifi afamu,Java so wonfom nyinaa hwehwɛɛ nkaeɛ. Sɛ́ nkyerɛkyerɛfoɔ supoɔ a ɔwɔ Indonesia ne etifi afam.,1.5,1.0976
+924,Ebɛn asɛm na epɛ dɛ eka kyerɛ awofo?,Ibi na asɛm na ɛpɛ de kacha awofo.,0.75,0.3571
+925,"“Owura, me kyerɛkyerɛnyi no se menkyerɛw krataa mbɛpa wo kyɛw. Naaso sɛ mebɛkyerɛw dɛm krataa no a, gyedɛ egye to mu dɛ ekyerɛkyerɛ atorsɛm.”","Oruro, me kyerekyerefo nyinaa se me nkyerɛw krataa yi mmapawuho, naaso se me bɛkyerɛw dam krataa no a, gyedi agye tumi de icherechere afiri sam.",0.7917,0.3125
+926,NYANKOPƆN TSEASEFO NO BOTUA WO KAW,Nyankopɔn teasafoɔn botua wo ka o.,0.6667,0.1724
+927,Dza Ɔnnkyerɛ,Zozefina yɛ asɛm kakra ɔkanfoɔ. Zaa ɔnkyerɛ,3.5,2.3636
+928,DZA YERUBOSUSU HO a,Orenkyer na wo ho hiahia,1.0,0.875
+929,DZA EBƐYƐ ABER A WƆAKA ASƐM BI ANAA WƆAYƐ BIRIBI MA AYƐ WO YAW,"Zaybee, abrabɔ aka asɛm bi anaa wayɛ biribi ma aya wo yɛ?",0.5714,0.2245
+930,"Dɛm aber no mu ara so na obi maa me Bible. Mehyɛɛ ase kenkanee, na nna ɔyɛ me dɛ bi a mibenya afotusɛm bi efi mu dze abɔ me bra ma m’enyi agye. Naaso nna menntse dza merekenkan no ase.",Da ma brennuma aso na obi ma Bible. Mehyia ase ke nka ne. Na na ya me de bia bi ya futi se bi efim za bomebra me minya aji. Na so na me nti zamere ke nka na si.,0.875,0.3143
+931,ƆYƐƐ HƐN YAW PAA NAASO JEHOVAH KYEKYEE HƐN WERƐ,Ọyɛɛ hɛn yɛw paaa na aso Jehovah kyichir hɛn wire.,0.7778,0.2564
+932,“Metsee nka dɛ mo kun afa m’ekyir mpɛn pii.”,Me tiri ka deɛ m'akunaafoɔ mekyerɛɛ mpen pii.,0.8889,0.4062
+933,Ebɛnadze ntsi na sɛ yɛtwe bɛn hɛnho hɛnho a oye ma hɛnankasa?,"Ebi na se nti na se yetwe benhye enhuhyehu a, ogye mahye nkasa.",1.0,0.3673
+934,"Sɛ Bible no ka dɛ ‘yɛnkyekye obi no werɛ a,’ ɔkyerɛ dɛn?","Sɛ Bible no ka deɛ yɛnkyerɛ obi nura a, ɔkyerɛ dan.",0.4167,0.2195
+935,DZA ASAFO MU MPANYIMFO YƐ DZE BOA HƆN A WOEYI HƆN EFI ASAFO NO MU,Saa asafo mpenyinfoɔ yi adigboo hwe na awoɔ eyi hwe na efi asafo no mu.,0.6667,0.3725
+936,"Sɛ yebotum etu mbirika no na yeedzi konyim a, ebɛnadze na ɔsɛ dɛ yɛyɛ?","Sɛ yebotum etumi brekan na yɛɛzi kwan yi ma, ɛbɛna asi na oseda yɛɛ.",0.8571,0.3091
+937,Ibesi dɛn ama nkorɔfo a eka asɛmpa no kyerɛ hɔn no ehu dɛ edwen hɔn ho?,Ɛbɛsii dɛ na ama nkorɔfo a ika asampanikyere ho ne nhudɛi etwen ho nuhu.,0.875,0.3091
+938,"Paul no werɛ howee dze, naaso ebɛnadze na ɔboaa no ma ɔkɔr do nyaa tsibowa pa na n’enyi gyee?",Pɔ́nɔ́ rí a hɔ́ wɛ́ɛ zɛ́ɛ na nsɛ́bɛ́ na ází na ógbúwa nǔ ma ókɔ́ dún yá tìgbúwa pa na nɛ́yí jɛ́ɛ.,0.9474,0.5417
+939,Ebɛn kwan do na enyidado a ewɔ no sesei no mu ayɛ dzen akyɛn ber a ibohun nokwar no?,"Ibe nkwa di na enyida do ewo nu si si nu ma a ye zen, achin bu ebu hu nnokware.",1.0,0.3538
+940,Mbrɛ Ibesi Akyerɛkyerɛ Yie Wɔ Asɛnka Mu,"Ibe ibesahoe ekyiri yi, ""was thinking"".",1.0,0.5455
+941,"Sɛ yɛda ayamuhyehye edzi a, obesi dɛn aboa hɛn ebusuafo a wɔnnyɛ agyedzifo no?","Sɛ yɛda yɛn mmusuyɛ a, obi si na agbɔhina ebusuafoɔ ne agya ebusuafoɔ.",0.7857,0.5556
+942,KƆ DO SUA JEHOVAH NA JESUS HO ADZE,Kɔduro sɔɔ Jehovah na Jesus hɔn nse.,0.625,0.2963
+943,Ebɛnadze Na Yebotum Esua Efi Israel Ahemfo No Hɔ?,Ɛbɛn asene yi na ɛbɔ tumi siw fi Israelfoɔ nhyehyɛe?,1.1111,0.6
+944,Mereka kaar ma matɔ nkom da anaa?,Me ka kanea ma tumkum daana.,1.0,0.3462
+945,"Adzesua yi bɛma yeenya awerɛhyɛmu dɛ sɛ wɔfa Christianfo a wɔasera hɔn a wɔaka wɔ asaase do no nyina kɔ sor a, Nyankopɔn bɔkɔ do ara aboa n’asomfo a wɔwɔ asaase do no.","Asɛm a megyinaa so hyɛɛ mudeɛ, sɛ wofa Kristofoɔ a waasɔn ho na waaka wo asase so di nyinaa akɔsra a, Nyankopɔn bɔkɔdaara abuo na asomfoɔ a waasɔn di.",0.8485,0.4167
+946,"Yɛbɔhwɛ siantsir a ɔsɛ dɛ yebu nkorɔfo, nye mbrɛ yebesi ebu nkorɔfo aber mpo a ɔyɛ dzen ma hɛn dɛ yɛbɛyɛ dɛm.",Yebɔɔ hwɛ sɛ ɛnzira sɛ yebu nkrofoɔ. Yɛmmere ibi si yebu nkrofoɔ abirimpa a ɔyɛ zɛn mehe ndɛ ebeedam.,0.8636,0.4186
+947,Ebɛnadze ntsi na ɔtɔ da a binom tse nka dɛ Jehovah nngye hɔn nnto mu?,"Ebe na-azi nti na oto daa, binu m tinye ka dee Jehovah m ji hu nu ntum.",1.0,0.4074
+948,"d MFONYIN NO HO NKYERƐKYERƐMU: Onua bi repepa ntokura mu mbrɛ ɔbɛyɛ a obenya biribi kakra dze ahwɛ n’ebusua, naaso ɔrodwendwen Paradise a ɔreba no ho.","Zozohwe yɛ mfoni na ayɛ rususuw ho nkyerɛkyerɛmu dɛ baasa na ho nkyerɛkyerɛm. Ɔno na ebiripɛ pantokrim, mbere obɛyɛ a, obɛnya biribi kakraza ahwe na ebusia. Na asɔre Jwenjwen Paradise a ɔrebanuho.",1.0769,0.5455
+949,BIRIBI A IBOTUM ESUA HO ADZE,Bibiara ibo tumi si ho hwazi.,0.8333,0.4348
+950,"Sɛ W’adwen Mu Yɛ Wo Konsee A, Jehovah N’Asɛm No Botum Aboa Wo","Sɛ wo adwene yɛ wo konsia, Yehowa n'asɛm no betumi aboa wo.",0.4615,0.2174
+951,SIANTSIR A YƐKA NOKWAR NO,Sincerity yɛ kan kwan.,1.0,0.4286
+952,Bible Mu Nsɛm Bi A Ɔma Yehu Dɛ Jehovah Dɔ Hɛn Paa,"Sɛ wozihoyi yɛnsam kakra a, woka ho. Bible mu nsɛm bi a oma yɛhu da Yehowa dɔhen pa.",1.1667,0.9474
+953,Yɛbɔhwɛ mbrɛ yebesi dze Bible mu afotusɛm atsetse hɛn tsibowa mbrɛ ɔbɛyɛ a yebotum esisi gyinae pa.,"Yɛbɔɔ hyɛn mberɛ bi site Bible mu afutu Sam atitiɛn ti bua, mberɛ bɛyɛ a yɛbɔ duma esisi gyina yi pa.",0.9412,0.3293
+954,"Yɛbɔhwɛ dza Samariafo, Saul a ofi Tarsus, Cornelius, nye Corinthfo no yɛe, nye mbrɛ obesi aboa wo ma aayɛ nsesa biara a ohia ama eetum enuma.","Yɛbɔhyɛɛ saa Asamandofoɔ (Sɔfoɔ Titus, Cornelius, ne Korintfoɔ no nyinaa) inyɛ mmere a ebesi aboa ma ayaase si biara ohia, ama etumi ennuma.",0.7692,0.3964
+955,"Dapɛn kor ekyir no, yedur nsu no ho, kyerɛ dɛ, wɔtoo nsa frɛɛ emi na Debbie dɛ yɛnkɔ Gilead. Ntsi nna ɔsɛ dɛ yesi gyinae dɛ yɛbɛtsena Bethel anaa yɛbɔkɔ Gilead. Onua Little kaa kyerɛɛ hɛn dɛ: “Dza hom bɛfa biara, da kor da kor, bi a hom bɛka dɛ hom yamu a nkyɛ hom ammfa ɔno. Naaso no mu biara nnkyɛn ne nyɛnko; Jehovah botum ehyira no mu biara do.” Yɛgyee too mu kɔr Gilead Skuul no, na ndɛ na ndɛ nyina, yehu dɛ asɛm a Onua Little kae no yɛ nokwar turododo. Mpɛn pii no, enuanom a ɔyɛ dzen ma hɔn dɛ wɔbɛfa ɔsom hokwan kor na woeegya kor no, ɔyɛ a yɛtaa ka asɛm a Onua Little kaa kyerɛɛ hɛn no bi kyerɛ hɔn.",Na ɛyɛ hɔ shia onii yii.,0.9921,0.9612
+956,"Sɛ yɛkyɛ nkorɔfo adze anaa yɛyɛ hɔn papa na sɛ wɔannkyerɛ ho enyisɔ mpo a, ebɛnadze ntsi na ɔsɛ dɛ yɛma hɛn enyi kɔ do ara gye?","Sɛ yɛkyankro faa ze, anaasɛ yɛyɛ hwan papa na sɛ wankyerɛɛ ho enyiso mpo a, ibɛnazi nti na osɛde yɛmmanyini nkɔdware eji?",0.6667,0.3131
+957,"Sɛ ɔyɛ ampa dɛ dza ɔreyɛ no Jehovah mmpɛ a, emi na ɔsɛ dɛ menye no ka ho asɛm anaa?",Opanyin biara a Yehowa mpe anaamara na amenye n'adwene nsua wasopanyin oyanuho.,0.95,0.8387
+958,Yebesi dɛn akyerɛ dɛ yebu hɔn a wonnyi asafo no mu no?,Yebɛsida n'akyerɛ de yebue hwan a woyɛ asafu no mu.,0.75,0.2857
+959,Ebɛnadze na enuanom a wɔwɔ asafo no mu no botum ayɛ dze aboa nyimpa beenu bi a wɔrenantsew?,"Ibn Auzi ne nnwuma a w’asafo no mu no betumi ayɛ, zia bɔɔ nyimpa bɛnnu bi a wɔwɛɛ na ntu.",0.7222,0.3562
+960,Nna Jude Repɛ Akyerɛ Dɛn?,Saa oduruyɛfoɔ yi yɛ nsam kakra ɔka ho. M'ani gye oduruyɛfoɔ no ho pa ara.,3.0,2.35
+961,YEBESI DƐN AHYƐ AWERƐHYƐMU A YƐWƆ WƆ PARADISE BƆHYƐ NO MU NO DZEN?,Yɛbɛsida na yɛashare shema yɛwɔ Paradise bɔɔso no mu nizen.,0.6923,0.3585
+962,(Bankum) Da a yɛyɛɛ hɛn ayefor,"Saa wachiwoni foni wookenkan de, daa eyi na yefii. Yemuu foni na weni foni mu de, Stefanu Mookasa.",3.0,2.7826
+963,KƆ DO ARA TSENA JEHOVAH NE NTAMADAN NO MU,Kwadara ne Jehovah ntam adanu.,0.8889,0.3636
+964,yaakyerɛ dza Jehovah na Jesus ayɛ ama hɛn no ho enyisɔ?,Yɛkyerɛɛ saa Jehovah na Jesus ayamyeɛ ho nyinsɔ.,0.6364,0.2955
+965,DWENDWEN MPAA AHOROW A ƆWƆ BIBLE MU NO HO,Gyegyem mpaa ahuro wa a owɔ Bible mu nu.,0.6667,0.3636
+966,"Sɛ yɛhwɛ nsɛm a ɔwɔ dɛm ndwom yi mu no a, ɔma yehu no pefee dɛ “hɔn” no gyina hɔ ma nyimpa.","Sɛ yɛhyɛɛ nsɛm a wode mu jumi yii mu na, ɔmaa yɛhunuu pefee deɛ, honu ji na ho menyi mpaa.",0.7727,0.3788
+967,hɛn nua Christiannyi bi ayɛ adze ma ayɛ hɛn yaw?,Abrabɔhene Christ nyinaa de yɛ adzi ma yeheniaw.,0.9,0.5789
+968,Hwehwɛ kyerɛwsɛm no ho nsɛm pii. Woana na ɔkaa dɛm asɛm no? Nna ebɛn asɛm na woesi? Ebɛnadze ntsi na bi a wɔkaa dɛm asɛm no?,"Sɛ wɛtrosɛm no hunu nsɛmpi, hwɛ na w'anka adamasɛm. M'ɛbɛna asɛm no wɛsi, ɛbɛnaazi nti na bi a w'anka adamasɛm.",0.7692,0.3895
+969,MMA MMEMA WOHO DO MBOM BRƐ WOHO ADZE,"Mma ne mmaho do, ngom bra ho hoazi.",0.75,0.3793
+970,Sua Jehovah No Su Ahorow A Ɔyɛ Fɛw No Ho Adze Pii,Sɛ Joe wɛn saa royal fɛnwa zipi.,1.0,0.5789
+971,Ebɛnadze na Jehovah gyina do dze hɛn bɔn kyɛ hɛn?,Ibnazi na-eme Jehova zi ha n'ụbọchị nke ise.,1.0,0.641
+972,Enyidado papabi a ɔama yeenya no,Enye da dupepe biara wama ye nyan.,1.1667,0.3333
+973,Mbrɛ Wobotum Aboa Hɔn A Woeyi Hɔn Efi Asafo No Mu No,Mbre wobutu mu abuo hwan a we yi hu na efe asafu nu mu ni?,1.0833,0.3415
+974,"Jehovah maa yehun dɛ ɔayɛ krado dɛ ɔbɛma hɛn nsa aka dza yehia biara wɔ asetsena mu, na ɔyɛe so. Nna dza ɔsɛ dɛ yɛyɛ ara nye dɛ yɛdze Ahendzi asɛmpaka edwuma no bedzi kan wɔ hɛn asetsena mu.",Jehovah ma yɛhunuu dɛ wanya kradow dɛ obarima yi nsɛ aka dɛ iyi biara wɔ Asikadum na ɔyɛ aso. Na dɛ ɔsɛ dɛ yɛyɛ arohyia dɛ yɛdze ahinadze asampaka edwuma medikan wɔ hɛn Asikadum.,0.6154,0.3423
+975,Ebɛnadze ntsi na yebotum aka dɛ hɛn mpaabɔ wɔ tum kɛse?,"Ebenezer ne ebutu maka de, hyɛn mpa abɔwotum kɛse.",0.9091,0.2955
+976,b MFONYIN NO HO NKYERƐKYERƐMU: Ignacio n’asɛm no na woegyina do dze ayɛ dɛm mfonyin yi. Oridzi ne kyerɛkyerɛnyi no dase.,"Zá ozohoyí, yí fún yí ná yí rí súsú hún wá yí ché mé só ná wá twé nún hún ché yí chérem. Ignacio nasámen ná wé yí ná dó zá yí dá mún fún yí ní, o rízin í chéche nyiná dá sé.",2.0476,0.9479
+977,EBƐNADZE NTSI NA BIBLE MU AFOTUSƐM HO HIA?,"M'esia, asɛm bi sane fa ozi kan.",1.0,0.8235
+978,"Nkɔm a Jacob hyɛe faa Reuben, Simeon, Levi, na Judah ho ansaana oruwu no, yɛbɔhwɛ dza yebotum esua efi mu.","Nkomá Jacob, Shem, Reuben, Simeon, Levi, na Judah hɔ ansa na órowun, yebohwɛzɛ́ yɛ́ igbo tumi esú ifi.",0.7,0.3049
+979,YƐKƆR JAPAN BETHEL NA EKYIR YI YƐKƐYƐƐ AKWAMPAAFO ETSITSIR,Yɛkɔɔ Japan bɛsɔɔ n'echu yɛn ka yaa kɔmfa 52.,0.8889,0.62
+980,ebɛn hokwan na Jesus no werdam afɔrbɔ no ama yeenya?,Ebia ho kwan na Jesus ne nwenedama foro bon ama ye enya.,0.9,0.2381
+981,BER A YƐNYE NYIMPA NO AHYƐ ASE RUSUA ADZE,Mberayen nyimpa na hyehyɛɛ series nyinaa ase.,0.8889,0.5152
+982,Ebɛnadze na obotum aboa wo ma aakɔ do emia w’enyi?,Akodeɛ mmienu yi. Ibe na aze na ebu tumo aya,1.0,0.8205
+983,GYE JEHOVAH DZI NA BRƐ WOHO ADZE,Yehowa Adansefo na bɔraa wo ho adze.,0.8571,0.5385
+984,JEHOVAH PƐ DƐ EGYE TO MU DƐ ƆDZE WO BƆN AKYƐ WO,Yehowa pɛ dɛ iji tumi dɛ ɔdze w'aban akyɛw.,0.6667,0.3333
+985,"SƐ EMA ƆTSENA W’ADWEN MU DƐ JEHOVAH NYE “NYANKOPƆN TSEASEFO NO” A, OBESI DƐN . . .","Sɛ Imhotep na w'adwene mu dae, Jehovah nyinaa nkutopɔntia sɔfo na obisaden",0.7857,0.322
+986,"Jehovah Dze Bɔn Kyɛ A, Ɔnnkaa Bio","Yehowa Zɛbwanekyaa, Ɔnkaabiu",1.0,0.4231
+987,"Sɛ awarfo si gyinae dɛ wɔronnwo pii a, ɔma wɔberɛ wɔ asetsena mu anaa? Dɛm asɛm yi haw awofo pii a wɔtsetse mbea ahorow bi a wodzi hia no paa. Naaso, hom mma yentsie dza egyanom bi a wɔwɔ aman ahorow bi a ɔtsetse dɛm do no wɔ ka wɔ asɛm yi ho.",N'ankrofo taa ka kyerɛ wo deɛ wopia na.,1.0,0.8817
+988,ABƆFO NO BRƐ HƆNHO ADZE,Abofra no beree ne ho ahaze.,1.0,0.5263
+989,"Ɔbemfo Crawford H. Toy a nna ɔyɛ edwuma wɔ Harvard University a ɔwɔ United States no so kaa dɛ, obi a ɔkyerɛɛw dɛm asɛm no, ɔnnyɛ dɛ nna ɔreka biribi bɔn ho asɛm, mbom nna ɔreka ndzɛmba bi a ɔyɛ no nwanwa ho asɛm.",Obimfo Crawford H. Toye a na oye adwuma wo Harvard University a owo United States no sukan de. Obi a okyere damu asem. Onye de na oreka bebi gbonu ho asem. Imebu na oreka nsem ebi a oye nu nwonwa ho asem.,0.6818,0.303
+990,"Sɛ egye ber sua dɛm nsɛm yi, na edwendwen ho kɔ ekyir a, ibenya do mfaso pii.","Sɛ egya bɔɔ siaa de me nsem yi na edwenwen ho kwan kyerɛɛ a, ibenya domfaso pii.",0.6471,0.2586
+991,"Dza Zadok yɛe no, yɛbɔhwɛ mbrɛ obotum aboa hɛn ma yeenya akokodur.",Zaza Dokien yɛ bɔhyɛ mu rubutu ma agbuo hien ma yɛɛ nya akukuduru.,1.0,0.3774
+992,woeetum akyerɛkyerɛ siantsir a wɔgye dzi dɛ Ɔbɔadze bi wɔ hɔ no mu?,"Wetumi akyerɛ sɛ ""sɛ wogyina deɛ, ọbaa bi wọ hɔnum.""",0.9231,0.537
+993,"Sɛ Hɛn Adwen Mu Yɛ Hɛn Konsee A, Yebesi Dɛn Edzi Do?","Sɛ hia adwene yɛ wo nkum nsia, yɛbɛsi da na ezido.",0.8333,0.3846
+994,Fie a nna yɛtse mu wɔ Karttula a ɔwɔ Finland,Jawafoɔ mfoniniwuo kankaadeɛ fia na yɛtim ɛwɔ ka tulaa awo Finland.,1.0,0.9143
+995,a Woesiesie adzesua asɛm yi dɛ ɔmboa hɔn a ɔyɛ dzen ma hɔn dɛ wobedzi hɔn mberɛwyɛ ahorow do no. Ɔbɛma woehu dɛ wobotum edzi hɔn mberɛwyɛ no do na wɔaakɔ do dze nokwardzi asom Jehovah.,"O wee sị ya dị ka ihe si m dị, ụmụ nwanyị a ọ ga-azị mụ nwunye? Ogezi ihe omume ahụ ruru, ọbụghị naanị na o wetara ihe omume ya na ndụ, na wa akwụkwọ ziri na kwereziri Asụmụ Jehova.",1.0833,0.6939
+996,YƐ AHWƐYIE ABER A WƆNYE WO ENNDZI NO YIE NO,Yɛashɛyɛ abrofoɔ nwini yɛn.,1.0,0.5882
+997,WOHUN DƐ ƆSƐ DƐ WODZI JEHOVAH HO DASE,Ohuo da oseda ewo Jehovah huo da se.,1.0,0.3667
+998,Krataa Bi A Obotum Aboa Hɛn Ma Yeegyina Mu Ekodu Ewiei,"Krataa biara, wubutu ma abuo hene meye ejine ma ekodua ewi.",0.9091,0.4091
+999,Ibotum dze esi w’enyi do na esua Jehovah n’abɔdzin ahorow a odzidzi do yi ho adze akɔ ekyir:,"Ibo tumi a esi wee nye do, na esua Jehovah na agbezi na ahuruwo zizi di ihu aza akwa echi.",0.8333,0.3472
