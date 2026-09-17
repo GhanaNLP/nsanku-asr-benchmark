@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Na lɛla lɛni na Unwoti ɔ́su-mi ɔnii nsu nsiku Egyipteƒuɔ bekpone lɛlɔ na bɛdubo bunu mɛni.,Na lela nani na unwanti osimi oni nsu nseku ichi difu agba ekpo na lelo na kpedu gbo gbo nu,1.0,0.4583
+1,"Na limeyi lɛmmɔ lɛlɔ ni, Yese kugyii ugyiitu ɔdubɔlɛ unye aani ngba bɔƒɔ aƒlaga ute kayawi bekyuli ƒui.","Na lime, lemon na lime, ya se ka udi udi itu odubuole unye ani nkpa ngboko akpulaga, ote ka ya bu ibe choro ikwu",1.2222,0.5119
+2,Anwuɔsu Hiram ɔ́wɔlɔ Katɔti kakpakɔ kabla kani ƒui na Ɔga Salomo úte-nwu ka ɔbla.,Awụsọ hiram ọwụlụ ka tọọti ka kpako ka bla ka nị fụị na ọga Solomon ụlọọka bụ,1.1429,0.3846
+3,"Na si bekyuli bénu bina etemila ni, na bakɛ kɔsia.",Nasi bechiri be nu bi na etemilani na bake ko,0.9,0.2564
+4,"Na si bɛ́tunaku lɛlɔ ka binu Babilonƒuɔ ɔga litemi ni, bɛdubɔkɛ bina ngba bilie.",Na si m betụ na akụrịlọ ka binu Babịlọnụ hụọ ọga rịte mụ nị. Bụrụ ụgbọ oke bịa na mkpabịlị,1.1429,0.5469
+5,Na balakɛne pii badubɔwia ka ayɔ-ma litemi.,na balakene pi badubowia ka ayo malitemi,0.7143,0.1143
+6,"Limeyi lɛdi ni, Samuel ɔ́su Israelƒuɔ ƒui ɔnini, “Si bɛɛyɔ́ ka binwini udu na biti lɛlɔ bite Unwoti bɔdi ni, amu ɔlɛka bidie bɛtina nwaa na bina ɔbladu kemmo.","Ime ya ladini, Samuel oso Israel fo onini. Si be yoka bi nwene udu na bitile lobite onwe tibo dini. Amu ole ka bi di ebe ti na nwa na bi na obla doke",1.0,0.252
+7,"Anwuɔsu ɔ́wia adala adi úte ɔnii besienku-nwu na ɔda, na ɔɔɔdi ammɔ udu kemmo na ɔlɛka ɔkya.",A na-esochi adala adịghị ute ọ na-eso nkụ na-ọda na-ọdị ọma ụdụ kemgbe na ọleka wụ,0.8824,0.5694
+8,ɔsika awɔ ɔsu na bana ebiti eedú taawɔlɔ.,O sị ka a wụọ sọọna ba na ebute elụ taa wọlụ.,1.375,0.3636
+9,"Na Unwoti ɔ́su Edomƒuɔ ɔnini, “Ndubo-mii bɔbla na bɛsɔ na kadi ƒui akɔ na balabu-mii balakya lɛla lɛdi akɔ.","Na onwa nke asu edomfu onini. Ndigbo mibo bụla na biko na ka di fu akụọ, na bala bụ mibo bala cha lele di akụọ.",1.1053,0.3855
+10,“Limeyi lɛdubo lɛni na ami Unwoti ndubɔtɛku kadi ƒui litemi.,Ime ihe dị dubu le nile ami ụnwụnti ndị ụbọ tekụ ka dị pụọ lite,1.4,0.4898
+11,"” Ɔmmɔ ɔsu ni, ɔ́sia ɔnamu ɔmmɔ lɛnyi ɔnii Dan, na nwuna kalɔ ndi ubo bute.","ọmụọ ọsịni, ọ sịa ọ na-amụ ọmụọ lenyi ọnịị. Dan na nwunye akalọ ndị ugbo",0.9333,0.4727
+12,Ɔti na ndi nte Eƒraim mina kaƒɔ ubi udeedi ku nwuna badi.,Onye na-ehi ụra mịna ka ọfụrụ obi ụtọ dị ka onye nọ na bọọlụ.,1.1667,0.7778
+13,"Nsu uwi biala kemmo ni, ɔɔsɔ teenwini teesie Rama kesii kani ndi-nwu keliekɔ geen.",O so ka e nwere ike isi ra ma ka si ka ni ịdị nwe keleko gị.,1.2143,0.5606
+14,"’ Nsu ni, Yerusalem, uwi ɔmu ɔkya-mii ka bɛkɛ bɔƒɔ.","suni, e ro za le, u we ocha mi ka beke bo",1.2222,0.4865
+15,Nsu ɔɔɔdi Blɔti litemi lɛmɛni lɛti néegyingya lɛ́si-mii kudɔ lísie Makedonia ku Akaia ƒui.,"O di ka etu m lebara ya anya na ejije a, lee si m ikwudo Macedonia ku aka ya",1.2857,0.6216
+16,Anwuɔsu ami lɛɛɛdubo-ɔ lɛla lɛdi bɔbla.,Awa si amile dube lele aredi,1.0,0.5625
+17,"Kalɔ kamɛni kadubo udu bɔyii, nsu lɛɛɛdubo-ka udu bɔyila ƒui kede kede.",Kedu ka ị mere? Kedu ka udubọ gị? M sịrị na udubọ ka udubọ gị na-akpo ikedekede.,1.4167,0.5263
+18,"Bitasu etemila ani muusé lɛlɔ, mmomu bɛsu etemila ani mɔɔkya ukyuli ɔkplu kalɛ na ɔ́manku.",,,
+19,Mɔɔyá na mina kabla bablane kenye bedie beebo taabatɛmiku-ma taasia kama uwi ndi uwi kalɛ na nkisi bana ablala ani muusé lɛlɔ mmɔ.,"Manya na mmiri na-ekenyebedi ene, bee bu taa batem kuma, taa si akama uwe ndi uwe, ka le na nkisi ba na abala animals le lo",0.9565,0.3113
+20,na kadi biala bekyuli akɔ na kɔlɔ kɔmmɔ kemmo!,na ka di bya la bi chuli ako na kolo,1.0,0.4324
+21,"Amu na Unwoti ɔ́su Mose ɔnini, “Die Lewiƒuɔ lɛku Israelƒuɔ bammɔ akɔ na abla-ma lɛlɔ bɔbla sɛɛn ɔdi.",A mụ na nwunye m bụ Sarah ọ nọrọ n'ime. Dị ya bụ Lewi fụrụ lekụọ Izrel fụrụ baa mọ akọ na Abrahama lụrụ ọgbọrọ bụ Sarah ọ,1.4444,0.7564
+22,"Ɔƒɛni Yoseƒ ɔmɛni ni, ɔdi ukyuli ɔni na Unwoti Katɔti uliku-nwu kaduɛ.","Onye i na-esepu aka ya, o di uchu na o nina. O nweghi ka o ti uli ka du",1.5,0.5893
+23,ka ɔdubɔlɔ-mi nwuna ɔgya na ɔɔɔdi Ati.,ka odubollo mi una oja na odi atu,0.8571,0.4333
+24,"Bagya, amii lɛnɔ bɛyɔ bina beleku aani kalɛ kani na Kristo ɔ́yɔ baƒɔtaadine lɛkpa lɛmmɔ ɔsu na úti lɛlɔ ɔ́kpa na bana lili.","Bịa ya, a mịlị nọbụ ya obi na-abụrụ okwu. A na-ekalịka ya na Kraist oyobafụta adịghị leekwaa lenụ. Ọ sụ na utịlịlụ ọkwa na gbanalị",1.0435,0.5155
+25,"Na ƒula bekpone ni, bubuli kani na beebuli teebo bana bakpana lɛlɔ na baasu lɛlɔ banini, ‘Ta nye!","Naa fula be ko neni. Gbogbo lekani na be buli te bu ba na bakpa na lelo, na ba su lelo ba neni. Tanye",1.2222,0.2237
+26,Na kadi bekyuli ƒui badubo-mii buteemwi na lite-mii kusɛ kusɛ.,na ka di be chineke bu ihe adighi mma ikwute m na rite m ikosekose,1.3,0.54
+27,"Na limeyi lɛmmɔ kani lɛlɔ ni, Noa ku nwuna bebi Sem ku Ham ku Yaƒet ku ulekudi ku nwuna bebi ɛtɛ bammɔ beleku béduo ɔkɔlɔ bonwu ɔmmɔ kemmo.","Na ilem ilem o ka niile lụọ ni. N'ụwa ka ụmụ a bụ Shem, Ham, na Japhet, kowerekode ka ụmụ a bụ etu ba ma bụrụkụ bedụọ ọkọrọ bụrụ ọmụkọ",0.9643,0.6182
+28,Áya na bula bati bétélie mmɔ na ala átɛ éte-ma.,A na-abụ abụ a site na Igbo na ala Atani,0.9,0.6389
+29,"Na limeyi lɛmmɔ ni, badubɔnwini bakya-ma.","Na alime ile moni, gbalụ gị onwe gị bacha",1.3333,0.5455
+30,"Nsu badi balásu Kristo litemi lɛmmɔ taasiku bana kayi kemmo ƒui, mmomu ama alati bana lɛkɛ ɔsu.","Suba di balasu Kristo di temi levo ta asigu ba na ka i ke mu hu i, i mu amala ti ba na leke",1.3529,0.2727
+31,Na éti-bu éye éte bekyuli bamba ku kuye blii kani.,"Na etibo eyi etebe chiri mama, kuku ya buli ka",0.9,0.4103
+32,"“ ‘Na uwi ɔni na údie lɛlɔ lɛti sɛsɛɛ úse úte Unwoti mɛni ni, utalɛka ukpeyi lili.",Na uwe onye na-udelele leti isese use ute nwanti imenini tale ka ukpe ilele,0.9375,0.4032
+33,"Ɔmmɔ ɔsu ni, ɔ́ya na bédi awu gyɔlɔɔ ɔdi ɔni mɔɔdia bɔnu geen béte Yoseƒ.","Ọma ọsụni, ọ ya na abedi awụjọlọ ọdi, ọni ma ọdi abọnu ga ebete Joseph.",0.9333,0.4464
+34,"Na Rahel ɔ́su ɔnini, “Unwoti Katɔti úte-mi ubo.",Na Rahel osu oni ni. Uwon ti kato ti utemi,1.0,0.2571
+35,Ɔƒɛ ɔdubo bɔsa ɔni na ukyuli biala ɔsɔ ulakana lɛla lɛdi biala bɔbla.,"Ọfịn ọdụbọbọsa, ọni na ochiri biala ọsọ ụla kịna lịla lịdi biala bọbọ",0.8462,0.4107
+36,Na bɔɔtɛmiku-mii uwi biala aani kalɛ na Katɔti ɔɔwia ka bɔbla.,"Na bo temikumi, uwe biala a ni kalina ka toti owia ka bu",0.9091,0.28
+37,"Yeremia, aya na bati ka ndubɔya na ɔgbankpi ɔsi kalɔ kammɔ katɔ kakɛ ubo-ma lɛlɔ.",Jeremiah ayana batika ndu bo yana ogba nkpi osi kalo kamo kato kake ugbo ma le,1.0667,0.2188
+38,"Ɔkpane Eleasar ɔ́su bekyuli bani nási kekpo bébo mmɔ ɔnini, “Ala ani na Unwoti ɔda bubo bɔni na úte Mose bɔdanku na ɔlɛka bɛbla ndi ɔmɛni.",Ọbụaị na Eliese ọsụ bechoro ịba na-asị k'ekpoo be gị ụmọ ọnịni. A na-anwụntị ọdagbugo gị ọnịna ụte mọsị kpọda ngụ na ọle ka be bụla ndị ọmenala,1.0385,0.5688
+39,Na nina anumi ebi kalɔ na Bunyimi Adaka ɔmmɔ anumi.,Nna nna anụmị ebikalụ na bụnyemị ada ka ọmụ anụmị,1.0,0.3171
+40,Na lɛni na ɔ́bla ala kɔsiakɔ leevu kɔmmɔ na kɔ́lɛ lɛlɔ geen na udu biala kemmo.,na na,0.875,0.9344
+41,Na lɛ́ƒɔ mina anumi.,na ona na omu osu ma onini. Uchili omu uti aba adi ususu mi anumi. Nale fo mi na animi,4.5,3.6
+42,Ɔsika anya na Unwoti Katɔti údie úte kayawi bekyuli ƒui.,"O si ka anya na nwoke ka tọọ ya ụdị ya, o teka ya awụ ibe cholụ",1.5,0.4783
+43,"Na ina dɛ na ɔlɛ ɔmɛni úsusu-mi ɔlɔna ɔku úbile ni, ɔlɔna ɔmɛni kemmo kani na ndubo Katɔti bɔnu anumi ku anumi.",na ina de na ole omenala ususu mi oluna oku ubire ni oluna omenike moka na ndu bu ka toti bu nu anu mikwu anu,0.9545,0.3103
+44,"“Na ɔƒaani ni, bi ɔsu na binye kpakplaa bɛnii bɛsɔ biiti lɛlɔ bitákya ɔgbankpi ɔbambadi kemmo?","na ofa ni ni, bi osun na bi nyi kpakpla beni, be so bi tile lo bi tacha ogbanpe oba mbadi ke",1.125,0.3158
+45,Unwoti uudie nwuna bekyuli bamɛni kɔlɛ kɔlɛ.,"Nwanyị tii ụdie, nwunye ya biara chiri baameni, kọle kọle",1.4286,0.6486
+46,"Ka ɔ́wɔlɔ ni, Isak ɔ́sɔ úye Yakob ɔnini, “Sɔsɔ na mina ubi unengudi Esau na adi?","ka o wụrụ na Isaac ọsọ ụye ya kọpọrọ nị nị, sọsọ na amị na obi ụmụ nwoke dị Esau na adị",1.125,0.5254
+47,Mmɔ na Yuda útánu Kanaanni ɔnana ɔdi baalɔ banii Sua ubidi ulekubi.,Mọna yụda ụtanụ ka na-anị ọna na odikwaalụọba nị sụa ụbịdị ụlọọkụ,1.0,0.4727
+48,Anwuɔsu mbo lɛnunsia ka ndubɔtala-nwu lɛkya-mii kɔnakunwi si lɛ́nu kalɛ na ala aavínku-mi.,A na m so ị mụta n'ụsọ aka ịdụbọtara m lechaa m ka ọ na-atọ m ụtọ. Sị na ị nụkalụ na ala Avịngụ,1.6154,0.6301
+49,edula ku egyiibi ammɔ ƒui ɔsɔ ulanu-nya uléde.,"Edulaku AGB, amapu i oso ula nunya ulede.",1.0,0.2973
+50,Aaron bebi anyi ndi Nadab ɔni ndi Aaron ubidi udeedi ku Abihu ku Eleasar ku Itamar.,"Aaron, baby anyi, ndi Nnewi, o na-eche Aaron obi di udi a di ko Abiriba, ko Iliasa, ko Itama",0.9375,0.3881
+51,"Na úte-mii kuƒi ka bimwi Kristo, na ɔɔɔdi ka bɛƒɔ-nwu bɛdi ɔsu kani na ɔ́sa.",na utem ikwụfi ka bi mụ na Kristi na ọ dịka bepụ mgbe dị ọsụ ka anyị na ọ,1.0,0.5088
+52,Ɔkɛnku bɔƒɔtaadi lɛlɔ ɔsu na Mose úni ɔnii batalɔ-nwu banii Ɔga Ƒarao ulekubi ubidi uwi ɔni na ɔ́lɛ lili.,Okenye bu otu n'ime usoro uni onii kpatara ogbani oga Pharaoh uru kubi ubidi wee o na o lele,0.8947,0.5595
+53,Unwoti ɔdubo bina edula ani bɛ́va ku adila ani bɛ́nwa bise buwida.,Uwa ti adugbo bi na Edula ani be fa ku adila ani be nwa bi segbo,0.9167,0.25
+54,Bla ɔmɛni kalɛ na kubiti kɔda-mi na mina kayi kemmo.,Bịa omenala kwubiti ka odami na-eme na-aka eke,1.0,0.439
+55,"“Egyipte, kuvo kɔdi kɔɔɔdubo-ɔ bɔkana bɔbwi, na Gilead nnɔmii bɔni mɔɔyala ɔlɔna buɛɛ mmɔ muedi bɔɔɔdubo-ɔ kebunku kadi bute.","A jepte, ofu okuko di na ubo maobu ka na-agba gburugburu na Giliad inomi gbaa ni ma o yara, olo na-agba ya imomedi ma ubo kebu ngu ka di bu",1.5263,0.5842
+56,"Na ɔ́su ɔnini, “Katɔti úte-mi ubi ɔbambadi na Abel ɔni na Kain ɔ́du kenye.","A mọ na nwunye Kaị́n tọ́ ọye Kaị́n ọlị́ni, wee na-kpọ́wa nị́ Abel ọ́vị̀. Mọ́ na Kaị́n odi ekenye",1.1429,0.7455
+57,Ɔmmɔ ɔsu Yoseƒ ɔ́kpanku bebi bammɔ na báni béde ɔti na ɔ́kya-ma kɔgbu.,"Bibi banana bi inyọ, bani ndi ma nasi ku Efram na bisi",0.9231,0.8148
+58,na badia bɔnu aani uleku ɔni na báwɛɛ-nwu.,Naba di agbonu ani uleku oni na ba wee,0.875,0.303
+59,Na bílieku ebuo atuɔkplune aani akwa.,na bili ekwuo atụokwuru ni a na-akọ,1.0,0.4516
+60,"Ala ani ƒui na bubo ni, abu alati néti bula ɔyikun kemmo bɔ́kɛ-nya.","ala anyi kwiri na agbugbo ni, aguo ala tinete gburu a bu ekwuke mgbokanya",0.8462,0.4706
+61,Beelie taadi ngba ku ebiti kalɛ na baayɔ́ asa na bekpi besie kekpine ku keyi buɛɛ.,Nne ya tinyere aka n'ebe ti kale na be ayo. A sị na be kwa ibe ya sekepụ nị kuke ịgbo ya.,1.25,0.4923
+62,Na baakali ka baya na mina lɛbibo litaakɔ katɔ teebu ɔni na ntɛ aban ɔtɔ mɛni.,"na abia kalika, bia na minalie bibo lita akwukwo ato taa egwu. O na-ite abia otu omenala",0.9375,0.4677
+63,Ɔɔɔdi bɔsu na Bunweni Kedee Ɔku ɔ́su ka Ukyuli Ɔƒunadi ɔmmɔ wasi Ɔga Dawid kaba kemmo na Betlehem ɔma kesii kani na Dawid ɔ́si yoo?,"O di ka osu na onwe ni kedi okwu osu? Ka otu na ofu na di, o ma wa si oga David ka ba ke mu na Bethlehem oma. Kedu si ka anyi na David osi yo?",1.32,0.3558
+64,"Na uwi ɔmmɔ kemmo ni, Yoseƒ banwani bákpanku bana ɔti bebuo bésienku kadikɔ na alakpi akɔ na Sekem kudɔ.","Na ubochi nke mbu n'onwa Jenụwarị, afọ puku abụọ na otu, e guzobere obodo nta nke Akwa na Sekem",0.8947,0.631
+65,Ƒarisiƒuɔ Béye Ɔnumbwɛne Ɔmmɔ Kalɛ Na Béti Bábwi-nwu.,O ma ka ma ni. Bechi lo a beti uchiri oni na,1.5,0.8409
+66,na ukyuli biala ɔni nánu-ma ɔnu ɔti.,na chụlụ pịala onye na nụ ma ọ nụ,1.1429,0.6071
+67,"Na ka ɔ́ɔbi ɔsu ni, nwuna anumi asɔ alanu kaduɛ.",Naka obi o su ni? Muna anu mi aso ala nu ka,1.1,0.25
+68,Na muusé kenye ku mina kayi ƒui ka ndubo bɔya na basɔ benwini bebelie kalɔ kamɛni lɛlɔ kpi.,"Na mu se kenye ka mu na ka ifu i. Ka inu bu kpo ya na kbaso be unu ibe, beli ya kalo kama na ilelo",1.2222,0.3836
+69,“Kadi kamani bekyuli nákɔ badubo mɛni lɛni aani kalɛ na Nil Ketu keeyi taavia nwuna utubili?,Kedu ka ma ni be chere na ka obodo bu me ni ilani? A ni kale na Nile ketu ke yi ta via una utubli.,1.4375,0.32
+70,"“Amii bekyuli bani nkya Moab ɔma unengudi ɔni baalɔ Dibon, bekyuli basɔ baaadubo-mii bɔbu.","A mị bechụlụ ịba n'ịcha mmuọ ma unu engodi, ọ nị ebe a nọ dịbọ. Bechụlụ ịba sọọbụ adịgbọ m ịgbọ",1.5,0.589
+71,na lɛya nwuna bekyuli kedee bebo kudu ku lɛlɔyɔ.,na le anya na be Chukwu ka ebi bu kwuru kule,1.1111,0.5385
+72,Na mina kayi kese buɛɛ na mɔɔsia ala ammɔ anu.,Na mina ka ye ke se bu e na mo sa alambu,1.0,0.3056
+73,"Hiob ɔ́su Soƒar ɔnini, “Si kɔnu na anii aasia-mi bɔdi ni, amu se atu na enu lɛla lɛni na mɔɔsu-ɔ awɔlɔ.",Ya abụọ so so fa onini? Sịkọ nụ na anị anyị a sị na ịbụ onini? A mụ sị atọ na elu lela le ị na mụ sụọ a wụlụ,1.2857,0.5
+74,"Na ɔ́su ɔnini, “Katɔti úbunku-mi na lɛ́wɔ ɔnanabi.",na-eso onye ni ka taa otu ugwu ngumi na lewa ona na-abịa,1.375,0.5135
+75,"Na binye bɛgya Ubidi Yesu ɔni na ɔ́gyila ɔ́lɛku bekpine akɔ, na úbo uli ngba ku Katɔti, na ɔsɔ ɔdubɔsi Katɔ Ɔga Ɔma mmɔ ubo.","Mabanye be ya obidi Jesu, o ya na o jila olekwa be kwinakwụ na ụgbọ ụlịngba kuka tọọtị na ụsọrọ gbo sịka tọọ ogoma ịgbo ụgbọ",0.96,0.4947
+76,"“Yeremia, lɛla lɛni na ásu mɛni ndi litemi geen.",Jeremiah le lala ni na asu manyi in di in di temi gi.,1.3333,0.3784
+77,béti bésela Soa ku Eglat-Selesia lɛma kakaaka ƒui.,"Bébé, c'est la sœur qui est glacée, laisse-moi",1.0,0.7073
+78,Na bi na bɔdubo bɔkɛ na butaakya lili kalɔ taakpali-nwu?,"Na b'ina b'odu b'oke, na buta charinikalo ta kpalu",0.8,0.3111
+79,ɔni mɔɔƒɔ́-mii ngba na ɔɔyá na bɛɛkɛ́ bɔnwuna.,Ọnị mụ bụọ mị nkpa na ọ ya na bekee kpọ wụ na.,1.375,0.6
+80,Na Katɔti uládu-nwu kɔtɔ na nwuna ekpidi ɔsu.,na ka tochi ula di nkoto na nwuna ekwiri osi,0.875,0.3611
+81,"Na ka únu ka Saul úbo ɔkya ɔɔwia-nwu ni, ɔ́tala batu badi ɔnii batásia anu banu kaduɛ si Saul úbo ɔkya mmɔ sɔsɔ.","Naka, unu ka sọlụ ụgbọ ocha ọwụa nwụni? Ọtala batụ, ba di ọni kpatasia anu. Ba nụka duụ si sọlụ ụgbọ ocha ịmọsọsọ.",0.9565,0.407
+82,Na uleku unyɔdi na baalɔ Oholibama.,na uleku onye odi na baalu oholi baa,0.8333,0.1724
+83,"Amu na ɔnantu ɔmmɔ ɔ́na ɔ́siaku lɛlɔ emeyi aavlene na ka ntu bɔmmɔ buumomo ɔsu ni, ɔkɔlɔ ɔmmɔ ɔ́ta ɔ́sia ntu bɔmmɔ anumi.","Muna ọnantụ ọmụ ọná osi akụlịlọ ịme avulịni, naka ntugbọmụ bụ ụmụmụ ọsunị, ọkọlọ ọmụ ọta osia ntugbọmụ anụmị.",1.0,0.4624
+84,“Bekyuli bénu kɔku kɔdi na Rama ka beewulo momoomo.,"Ndi be anyi, unu kụọ kụọ dị na arụ ama. Ka be anyi wụrụ ụmụ",1.4444,0.6829
+85,"Nsu si uwi ɔmmɔ úbedu ni, ndubo anu bɔsia na lɛlɛ-ma aani kugyii na balɛ lili.","so so o wee oma oboduni, ndu bu anu bu osia na lele ma ani kuji na balili",1.0,0.35
+86,Anwuɔsu ndubo bɔya na bekpone basi ɔgyu kakaaka babaka bamana Yerusalem ku Yuda lɛma lɛmmɔ.,"Abali so na ndigbo gba ya na kpekwara igbasa oju nkaka aka, baba ka ma kpa ma na Jerusalem, Oyuda, Lema Lema.",1.4,0.4605
+87,"Na ɔmɛni ɔsu ni, lɛla biala muusié taavi kalɔ lɛlɔ lɛ́yii udu.",Na omeni osuni le labiala mosi ta vi kalo lelo le yi,0.9167,0.3333
+88,"Amu ka Eli únu kɔvanu kɔmmɔ ni, úye ɔnini, “Na kɔvanu kɔmɛni kalɔ ndi bi?","Amụka, elili ụlọ kọvanụ kọmọnị, ụye oninị. Na kọvanụ kọmenị, kalọ ịhị",0.9333,0.4727
+89,Mmɔ na Yerusalem aani uleku ɔmmɔ kalɛ ɔdubuye ɔnini.,"Mụ na Yerusalem anị ulekwu ọmọkale, ọdị bụ ya. Ọnị",0.8889,0.3953
+90,"Mmɔ ni, Mose ɔ́kɛ kɔnyi ɔ́kya bekpone batɔnkune bani ntɔnku bekpone esu enengudi ku ebliidi ammɔ ƒui bani nási kekpo bébo mmɔ.","Mọni, mọ sọ ọkẹ kọni ọcha bẹkpọni ba tọ ngụni ba ni ntọ ngụ bẹkpọni, esu enu ngụ diku eblẹdi amọkwi. Gba ni na si kẹkpọ bẹgbọ",1.1818,0.4158
+91,ku balakɛne ku bawabane bina ƒui na nda.,"Kuba la kene, kuba wa bani? Bina kwi na",1.0,0.2188
+92,Na bana bɔdia bɔyii udu na kaƒiɔtɔ kemmo.,na bana bụ ndị agbọghọbịa ụdụ na ka pịụtọkị,0.75,0.6364
+93,"Mmɔ ni, Unwoti ɔ́su Samuel ɔnini, “Nu!",Good morning. Samuel,0.8571,0.7407
+94,na báni bana kɔtaminta benye bete kekpo.,Bani bana ko tamita benye beteke,0.8571,0.2424
+95,Na Mose úti enugya etela ani ndi Unwoti kakɛ úte ɔkpane Eleasar aani kalɛ na Unwoti úbo-nwu ɔda.,Na mose uti enuja itela ani ndi nwoti kake uti okpani eleesa ani kale na nwoti ugbo nkoda.,0.7222,0.2597
+96,Na lɛlɔ lɛdubɔyɔ ukyuli ɔni mada ƒula bebi lɛgba.,Onye ma adaghị abịbịa,1.0,0.8
+97,Bebi beeebo kuƒi ka beye bana bawɔne banini.,"Baby be gwokofi, ka be ye ba na abawu ni bani ni.",1.375,0.2778
+98,"Nnɔ egyii adubɔkwɛ bina kalɔ kesi kesii, nsu bɛɛɛdubo nnɔ biala bɔkɛ bɔsiku-ni kemmo.","Ịnọ eji adugbo ekwe na akọlọkị sị ịkesị, ịsị bụ adugbo, ịnọ bịara agbọka ịkpọsị kunike",1.1429,0.5942
+99,"Anwuɔsu ni, mina bakpana bayɔne, aani kalɛ na bɛɛdi mina litemi lɛlɔ si nkya-mii kudɔ ni, lɛni kani na ɔdi ka bɛdi-nya lɛlɔ bitulo si uwi ɔni na liiibo-mii kudɔ lɛnɔ.","A ma m so na ị na-agba mbọ na-agba ya ọsọ, a na m ekale na be dị m na-etemere gị nri ji a na-eri kwụdọ nụ. Leenụ ka anyị na-adị ka be dị ya rịrọ bittụrụ si uwi oyibo na-eri igbo mikwụdọ rị nụ.",1.3226,0.6124
+100,Na beeƒie ama alati bebi bananabi ku belekubi muedi.,"Ndi be anyi, ama m na ala ti be bi, bia na bi kubelu kubi m",1.6667,0.3488
+101,Na ɔ́ya na bénweni lɛku lɛmmɔ na kɔlɛkɛ kɔmmɔ ƒui adi butemi ku bunweni kemmo.,Na oya na be nwe ni leku lemo na ko leke komo chi adi bute mi kubu nwe nike,1.0,0.2742
+102,"Na si báni-mu békpi báwɔlɔ lɛni ni, na bana lɛyalɛ ku lɛsɔnɔdi ala lɛɛkɔ́-ma katɔ.",Nasi ba nni mu bekpi ba wọlọ le nini. Na ba na le ya le kụle sọ nọdi ala le kọ maka,1.3333,0.2857
+103,"Hiob údie kenye ɔnini, “Bi ɔsu na biikpóku-mi na bɛɛkya-mi ɔlɛ lɛlɔ ku bina atɛ lɛni?","Ya bụ ụdị ekene ọněně, bịa sụ na bịa kpọkụ m na bịa echa m olelelo, ka obi na-atọlụ m.",1.125,0.5231
+104,"Na ukyuli bamba biala ɔni makpɛ mede kevo kammɔ ni, ɔlɛka badu-nwu.","na, uchule ba ma byala o ni ma kpe mede ke fu ka mo ni, ole ka badu",1.25,0.3019
+105,"Ukyuli ɔni muuyú ni, ɔda buyu ɔya na uti nwuna enu ɔbla kabla kabuni na ɔkɛ ala na anwu lɛnɔ ubunku bawabane.",Otu onye mu na ya na-etinwe na enu o black black bụni na Oke-ala na anwụle na Ubugunguba wa ba,0.9091,0.4302
+106,"Ɔƒɛni Israelƒuɔ lɛma lɛni na Ƒilistiƒuɔ báƒɔ ɔ́si Ekron útédu Gat ni, Israelƒuɔ básɔ báƒɔ-ni.",Israel,1.0,0.92
+107,"Anwuɔsu na mɔɔwia geen ka lidie-nwu ulu kalɛ na si bɛ́nu-nwu ni, na kubiti kɔsɔ kɔda-mii.","A na-asụ na Mgbakwụrụ, Kalabari dị na Rivers Steeti na akwụkwọ nsọ nke Abụọ Samuel.",0.9375,0.8088
+108,Bunye na bénye-mi lɛlɔ bákpanku-mi básiku bula Hebri kadi kalɔ lɛlɔ béboku mɛni.,"Gwenye na akpenye m ilele, makwa ngụ m ịba sikobula Hebrew ka di ka olele begboku mụ",1.2308,0.4308
+109,Na ɔ́yila kadi bamba bekyuli pii bani náƒɔ kuye.,"Na oil ka di mama be chulipi, banyi na poko",1.0,0.3947
+110,Ɔsika mmɔ na Unwoti ɔ́su úse ka wete kusɛ kusɛ ɔmmɔ.,"Osu ka ị bụ na onwete osu use, ka we tekwe sekwe",1.0,0.5
+111,"Uwi ɔni na ɔmu ɔdi Nasareni mɛni ni, utalɛka uti lɛla lɛni nási egyiibi kemmo aani ntɛ utuku kenye, ina nwuna ebi iye egyiibi lɛna lɛmmɔ muedi.","O wee sị na ọ mụọdị Nazarene n'ime nịịlị, utaleka otu ilelele na si ejibị kemgbe ahụ n'ịnte utuku kenye. Ị na-ụna ebi ihe ejibị le na le mọ mụọdị",0.963,0.4649
+112,"Na badi béteenyimi baƒonu ku bese lɛku taavi, ɔsika beeebo lɛla lɛdi.","Na banye bete enyị m bapa ụlọkwụ be selekwute ha, ọ sị ka mụ egbolela",1.1667,0.5179
+113,"Nsu Timoteo anwu ni, amii alati bɛgyi kalɛ na nwuna udu buni ɔmmɔ use.","na Timoteo nwunye, ama ya ala Timote kalị na nwunye odogwu nị ọma",0.8571,0.4909
+114,Nwuna lɛlɔ budie buse lɛti bɔmɛni bɔɔtina ka ɔ́bla lɛlɔ sɛsɛɛ kedee úte Unwoti.,Una lelogbudie wuse leti igomeni kpotinaka obula lelo sese kedi ute onwenti,1.0,0.4219
+115,"Nwuna bebi ala bɔbla émo bekyuli bammɔ ƒui, nsu útakana na ɔ́bala-ma ɔsiku ɔbladu buɛ ɔmmɔ kudɔ.","O na-ebi na obla ma emuo be chineke ma fu. I su uta kana na obla ma, o si ku obla di gbuo ya o mokudo.",1.4706,0.4737
+116,Na basɔ baaadubo Yerusalem bɔbwɛ lɛnɔ kudii.,Na baso ba dugbo Jerusalem kpobue le na oku di.,1.2857,0.3784
+117,"Mmɔ na Satan údie kenye ɔnini, “Bɔkɛ kani na nkɛ mɔɔví kalɔ kammɔ lɛlɔ.",Monarch Hotel Udeke Nnewi bu kee ka na-inge movie kalu ka m welu,1.0,0.6182
+118,Na Gerson badi ndi Libni ku Simel adua.,Na guys wey baddie dey live for Gmail addy.,1.0,0.6452
+119,Amii batuɔkplune bɛ́ta bínye-mi lɛlɔ na bínwini kama bɛ́kya-mi.,"A me ba tuo kpolu ne, beta bi nye mi le lo, na bi wu ni kama be cha mi",2.0,0.28
+120,"Anwuɔsu ni, ami ƒula Katɔti lɛ́ƒuna awɔ, Ati.",Awo so ni. A mi fula ka to ti le fu na awo,1.5,0.3529
+121,"Banwa, mɔɔyɔ́ ka lɛ́su-mii ka ala ani nálɛku-mi ni, ébunku na litemi buni lɛmmɔ lísie anumi líbu.",mụọ yọ ka ha sụọ mụ ịka ala anyị na-alékụmịnị. Egbu mụ na-alite mụ gbunị na-emọlịsị anụmịlị,0.9412,0.5811
+122,"Ɔsika bawabane na bánya bákya bákɛ lɛkɛ lɛmmɔ, na béƒie lɛtɔ lɛni na ɔɔɔdi ama nátu-ni báƒɔ bekyuli bammɔ kudɔ.",O si ka ba wa ba ni na ba nya bacha ba kele kele mbu na bi fiyele to le na o di ama na tuni ba po bi chiri ba mbo,1.4,0.4382
+123,"Na ɔkɛnku ɔmmɔ lɛlɔ ni, Katɔti ɔtu ɔni nébo úbadu ubi ɔnanabi udeedi biala na Egyipte mmɔ ni, útetuku Israel bebi ama.",na okenye o malili ka toti otu oyi na-egbo ugbo adu ubi ona na bi. Ude di bia na Egypt igwe ni ututu ku Israel be bi,1.0,0.3617
+124,Na Katɔti ɔdubɔya na ogya ɔdi ɔsi ubakyula-ma na bana nvo kemmo ku bana akɛla ƒui.,Naka otu onye obula oja odi osi uba chulama na bana invoke mu kubana akela,0.9375,0.3692
+125,Ɔsika liƒu bonwu líƒie-ma na Yoseƒ anumi mmɔ.,"ka unu abughi nwanyi be nu omenala. kpata ka na na abedi ekenye ka di. o si ka lefu ugbo, lefu ya maa. na Joseph Anumihe",3.125,2.0
+126,Amu na ɔ́nwamana lɛbuala lɛdi ɔ́bla ntu kewikɔ bonwu kunu kunu lɛdi.,"Ụmụna, ọnwa mụ na ya bụrụla enyi, ọ bụla etu a ka m gbara akwụkwọ kunukunu.",1.25,0.6111
+127,"Amii ku bekyuli bani na bana ablala akya lɛdisa kemmo ni, bitasala lɛlɔ bitabla bana ɔbladu ukpidi ɔdi.","A mee ukube chiri be anyi na, ba na abalili achari disakemoni, bita salali lo, bita bala ba na obladu pidi odi.",1.1667,0.2857
+128,béti-nya na bávia utukwalɛ.,betin ya na bafia otokwale,1.0,0.2727
+129,"Badi baasu banii, “Ukyuli ɔbuni na ɔdi.",Ochiri ogbidi na odi. Na-agba egbe na-agba nni. Owo bechiri na uvu funtacha.,1.7143,1.4667
+130,Uwi uuubo ka lɛtɛmi lɛsiku Gideon ku Barak ku Simson ku Yeƒta ku Dawid ku Samuel ku Katɔti kenye bediene lɛlɔ.,"Onye ubo ka a letara m na siku Gideon, ku Barak, ku Samson, ku Jefta, ku David, ku Samuel, ku gattọrọ nke ebe di na lelo",0.7619,0.3146
+131,"Na kakpakɔ mmɔ ni, Salomo ku Israelƒuɔ ƒui bádi edula edeedi bɔƒɛ limeyi, na bádi-ni emeyi leevu-ene.",Na ka pako ịma nị Solomon bụ Izrelịfo pụrụ ịbụ adị Edula Ededị bọfelị meị na adị nị ịmeị levu,1.0,0.5125
+132,"Balakɛne ku bawabane, na kenye bediene ku bakpane ƒui basɔ baaadi bekyuli bani lɛlɔ na beti anumi basia.",Bala ke na-ekwu ba wa bani na kenyebelu ya na-ekwu ba kpa na-ekwu ibaso ba di ibe choro ibani lelo na beti anumi ibasia,1.1111,0.2941
+133,Na Esau ubidi bamba ɔni ndi Reuel bebi bananabi bani nádi lɛga ndi Nahas ku Sera ku Sama ku Misa.,"Na esai obi di ba ma o ni ndi Rue, bebi ba na na bi ba ni na di lega ndi Nahas, Kusera, Kusama, Kumisa.",1.1,0.1039
+134,Na bɛyila baƒiɔ bani na bɛ́vɔ bíte lɛlɔ udu.,na be ya la ba si obani na be vo bi telelo,1.1111,0.3529
+135,Békpo Ɔga Og ɔni ndi Amoriƒuɔ ɔga unyɔdi ɔni mɔɔdi lɛga na Basan kalɔ lɛlɔ na báƒɔ anwu kadi lɛnɔ.,"N'ekpo oga ok, o na-indi amuru ifu oga onye ori. O na-ima odi ilega na-gbasa kalo lelo. Na-kpafo awuka dile",1.0,0.4487
+136,"” Na ina ka uleku ɔmɛni ɔɔsu Yoseƒ lɛlɔ kudɔ bɔtɛ litemi lɛmɛni limeyi ndi limeyi ni, Yoseƒ útenuku-nwu kalɔ iye ɔni ude-nwu muedi.","Na-elekwa omenala ọsụ Joseph lụlụ, gụnyere ọgbụtara rite mịrịlịmịrị ndị ịlịmịrị. Joseph otu nnukwu karọ ịyị ọnị ude ụmụedị.",1.0,0.6893
+137,Nsu bekpone bakladi ɔdi biala ɔ́kɛ lɛla lɛdi úte lɛlɔ na kekpokɔ mmɔ.,nso bepụ na mba Klaren odibia na Okelere na Ladi o telelọ na kepụkọ,1.0769,0.4727
+138,"Na si ébo ni, na anwa adila abuni ani na mɔɔyɔ́ teetulo ƒui eboku-mi na lɛdi kalɛ na liti mina kusɛ kusɛ lite-ɔ asa na likpi.","Na si Igbo ni na anwa adila agbuni, a na-ina ma oye ote tulu fu igbo kumi na ledi, kale na riti mi na kuse kuse rito asa na ripi",0.7692,0.2316
+139,Na ɔ́vwi uƒiomu ɔ́kpali bani na kayawi kawɔlɔkɔ ƒui.,na ofu ihe ọ kpali ba na ka ya bụ ịka wụrụ,1.1111,0.5366
+140,"Na báya na Yuda lɛnɔ únwini alaekpidi ɔblane, ɔsika bátu ekpo ekpo bálɛ Ben-Hinom Kɔwɛ kemmo ka bataakpa Baal baƒiɔ.",Na abali a na-yoda le no onwene alikwidi obulani. Osi ka batu ekpe ekpo bale be hinom ka we kemu ka bata akpa balu gbafe,1.1,0.3404
+141,Na ɔmmɔ ɔ́ya na Ƒilistiƒuɔ báyia bávili bébu ɔni na use aani lɛla lɛdi nágyu-ma ku lɛgba ɔ́bɔku-ma údie Israelƒuɔ anumi mmɔ.,na ọmụọ ya na Felistịfọọ baị ya bụ Felị be bụ ọnị na ụsị ana ilelala ndị na Jụma kụlẹgban ọbọkụ ma ụdị Israel fọọ anụmị,1.0455,0.5102
+142,Lɛgba lɛmmɔ ɔdi biala bɔbɛbɛ bɔdi lɛgba bɔka inyɔ ku kakɛ ɔ́si ɔvi unwi úsie ɔvi unyɔdi.,Legbale m o di biala bo bebe bodi legba boka inyo kukake osi ofi onwi osi ofi unyo,1.0,0.3429
+143,na bɛ́bɛbɛ bina kɔlɔ kuyedi bísela anumi ƒui.,Na be ebe ebi na akoro ku ya di bisila anu ma efu,1.5,0.4444
+144,Na ebiti lɛnu lɛni na beedie lɛ́kunku Katɔti kakpakɔ kammɔ útéduoku kalɔ kemmo ƒui na uyɔ ɔ́ƒɔ Katɔti kakpakɔ kammɔ ƒui.,"Na ebe itiri enu le ni na be edie, le kungo ka toti ka pa ngo ka mo, ote di oku ka roke mopu, na uyo opo ka toti ka pa ngo ka mo",1.4762,0.3814
+145,Ami ndaku kekpo kammɔ bɔnu kalɛ na kaaví na báadi-mii lɛlɔ kuuku na bíkeli bɛɛtɔlɔ na kama bunwini bɔnu buuubo ina kunwi.,"A me inyaku kepe uka ma ogbonu, kalenu ka anyi na ba di mi lele okuko oku. Na abikeli ba etoro na kama bu nwe na igbonu bu ubo inaku.",1.1818,0.3776
+146,"Si muunyimo ala adi bene ni, kayi kaakpulu-mi geen.",mụ na gị nọ ala adịghị mma nị ka anyị ka kpọlụ mị gị,1.4444,0.675
+147,Na bátábla kakyakɔ na kesii kani baalɔ Eben-Eser.,na abata bụla kacha kọ na ka esi ka ni baalọ Ebenesa,1.25,0.3
+148,’ Ami Unwoti ndubɔsɔku mina bekyuli lɛsiku Babilon ku kalɔ kadi bekyuli ƒui akɔ liboku ɔma.,"Ame nwon ti ndu bo so ka omi na be chulu ilezi ku Babylon, ko kalo ka di be chulu ekwe akwukwo",1.4,0.4054
+149,"Katɔti, bla-mi ukyuli ɔwɔdi na linye kpakplaa uwi ndi uwi.","Katochi, biko nye m otu iko mmiri na-enye iko mmiri oyi.",1.1,0.7391
+150,"Na ina ka útabla lɛla lɛdi asa na énye-mi lɛlɔ anii nte-ɔ kuƒi na ekpoku-nwu muedi ni, ɔmu unye nwuna kenyekɔ na ɔɔdi mina litemi lɛlɔ.",na ina ka uta balili ladi aso na enye miri lu ani indio kwufi na ikwukwu nweri ni ogbu unyi nwu na ka enye ko na odi miri li timiri,0.8846,0.3619
+151,Na biikúlo ago na lɛnwunameyi muedi lɛlɔ.,Nna biko agoo na lewenu ma eme imodi le.,1.1429,0.5
+152,"Yoseƒ ɔtɔlati ulekudi ɔkya ɔɔsia okloƒu ɔmɛni anu, ɔsika nwuna ala áda-nwu kayi.",Joseph Otolati olekude ocha osia okwukwu omenanwụ osi ka unu ala ada nka,0.9231,0.4615
+153,"Na lɛnɔ ni, mina Ɔti ɔlati ulatɛku ukyuli ɔdi litemi.",Mina nọni. Mina ọti ọla ti ulatekọ uchiri odilite,0.9,0.381
+154,Na ɔdi biala bune ku bɔbɛbɛ bɔdi lɛgba bɔka ɛku ɛku.,na o di biala gbuo nekwe ugbo be be bodi legba boka ekwu ekwu,1.0909,0.3902
+155,Bínye bɛ́nu uwi ɔni na kadi bamba bekyuli béduo Yerusalem na béti ala ani ƒui na baayɔ́ bátɔlɔku.,"Bị nye be nụ ozi ọma na ka di ba mba Betụlị, be duo Jerusalem na be ti ala anịfụ wị na be ayọ. Batọlọkụ",1.1667,0.3377
+156,Bimwi Unwoti.,bụ mụ onwe mụ ti,2.5,0.6364
+157,"Na Israel ɔ́su Yoseƒ ɔnini, “Agyi kesii kani na ƒula banwani bákpanku bebuo bésienku kadikɔ na alakpi akɔ na Sekem kudɔ.","Na Israel, o su Joseph onini. Aji kesi ka ni na akwụkwọ laba wa ni igbapa ngube gbuo obesi nguka di kọ na alape akọ na Sekem",1.0476,0.3542
+158,"Nsu ukyuli ɔdi lɛnɔ ɔkya ɔni muudie-mi kenye, na ngyi ka lɛla lɛni na ɔɔsu libo ɔkplu.","Eziokwu dị ya, lee nu ocha, ọ na-eme di ya mịkenye na ejikara lelaa lee nu na ọ sụlị bụ ọkụrụ.",1.1176,0.6418
+159,"Na uwi ɔmmɔ kemmo ni, Isak ɔ́ɔbi geen na nwuna anumi muedi asɔ alákana bɔnu.","Na o wee omoke mụọ ni, Isaac ọbụgị gịnị? Na ụna anụmịmụdị asọ ala ka na-agbọ",0.8667,0.4746
+160,"Na Esau ubidi udeedi ɔni ndi Eliƒas bebi bananabi akɔ ni, baga bammɔ ndi Teman ku Omar ku Seƒo ku Kenas ku Kora ku Gatam ku Amalek.","Na esai Obidi Udeoji, o nụrị ndị Elifas, ndị biba na Abị akọnị. Bịa ga ba mọ ndị Teman, Kuọma, Sefo, Kenas, Kora, Gatam, Amalek.",0.8519,0.3301
+161,Na ekpidi ammɔ áya na badaku udu bɔyii ƒui.,na ekpili amara aya na bado ku udugbo,0.7778,0.4118
+162,Na badi limeyi lɛmmɔ basiaku kalɛ na líbo-ma ɔda pɛpɛɛpɛ.,na abali ime ile ma obasi aku ukpale na igbo ma oda pepe,1.1,0.3913
+163,"Nsu ka kadi bamba kégye ni, banu ka lɛtabi lɛmmɔ lɛ́sɔ lɛ́lɛ líbo, na nina anumi ebi kalɔ na Bunyimi Adaka ɔmmɔ anumi aani kudeedi kalɛ kani.","Nke a ka dị baa m aka eje ni, ma nụkwa leta bịara mụ na nsogbu asụsụ Igbo na nịna anụ mị ebikalo na bụnyemị adaka ọmụ anụmị. A na ikwu na edikare ka nụ.",1.1111,0.4727
+164,Ɔmmɔ ɔsu bésie na bététi Unwoti Ɔyikune Ƒui Bunyimi Adaka ɔmmɔ.,"ọma ọsọ bẹse, bẹtete onwete, ọyịkwu na ekwu igbo nyimi ada ka ọma",1.1818,0.5
+165,Munuu butulo na etulo bula Nana Yakob ɔni néku libiɔ lɛmɛni?,Mụ na ụmụ nne m nwoke na ụmụ nne m nwanyị na-aga ụka ọ bụla ụka ụ,1.4545,0.8571
+166,Na Dison bebi bananabi ndi Hendan ku Esban ku Itran ku Keran.,"Na this in baby banana be in the head down, ku esban, ku itran, ku kera.",0.8333,0.2857
+167,Na Noa ku bekyuli ku bebuo ku baasɛ ku bebweyi bani nkya ɔkɔlɔ bonwu ɔmmɔ kemmo kani nébu.,"Nnewi bụ echere ikube gbuo, ikube asaa ikube gbuo ibani ncha ọkọlọ gbuo ọmọ ke mụka n'ine.",1.0,0.5278
+168,Katɔti Únyimiku Israel Ku Yuda Bunyimi Bɔwɔdi Bɔdi.,Kato na ti onyemeko Ezra ka Judah bu nyemigbo wa di gbo,1.5,0.5116
+169,ɔ́si kalɛ na ese siin ɔsu.,osikali na esika oyo,0.8333,0.4737
+170,Unwoti ɔdubo bina lɛma ku bina mmo buwida.,Otu onye odugbo bi na Lema bụrụ bi na Imo bụ,1.375,0.5588
+171,Na ulete ɔgyani ɔni na ɔɔyɔ́ iye ubidi bamba lɛna lɛmmɔ lɛdi ɔnii ɔkun.,"na olete ojani oni na oyo, ihe obidi bamba le na lemo ledi oni",0.7857,0.375
+172,Na binyimo limeyi lɛni na bíbasiaku bina Unwoti Katɔti na Sinai kɔbi kaƒɔna.,"Na binyi mo limeyi, lani na bibasia ko bina onweti ka toti na sina ikobi ka fo",0.9231,0.1746
+173,"Amu na Unwoti ɔ́su Mose ɔnini, “Ndubo Ƒarao ku Egyipteƒuɔ kɔtu kɔkladi bɔni.",Muna nwuti osumose onini. Ndigbo fara kwu Egypti fu okotu ko klari gbo,1.0,0.35
+174,Na liƒu muedi lɛdubo-ma bɔda ka basɔ benwini kama bakya-mi.,na lefu mu di le du bu ma boda ka ma so be nwuni kama gbacha,1.3,0.2979
+175,Mmɔ na bɛdubɔlɛ kɔtɔ bɔdu biala kemmo na bɛbla sɛɛn aani Katɔti bebi bani na likpidi liiibo-ma lɛlɔ.,"na be m na-edu bolle, kpotuo bodu biala kemu, na be m na-asi ani ka toto bebi, banyi na-ekwu diri Igbo ma na",1.1111,0.4691
+176,"Na tabu anii abu bani nlie-ɔ kudɔ mɛni ni, buse aani bebuo bani neeebo kasusu.","na ta gbuo ni, abuba ni iri okuko domeni ni. bu si a ni be gwo, ba ni egbu ka susu",1.2667,0.3115
+177,Ɔsika báblaku-mi kabla na bɔ́kana na búgyingya litemi buni lɛmmɔ.,ka mụ ka mụ na gị na-abụ njikọ na ngwụcha nke izu ụka.,1.1,0.7358
+178,na liiibo ɔma nanyuɛ bebi bamɛni?,naa libu oma na lenyuo ebe bibama enu,1.3333,0.4444
+179,Na badi lɛnɔ badubɔdi bekpone liti liti lɛlɔ.,na badi la no badi badi beponi liti liti,0.75,0.2703
+180,Ɔsika úti nwuna ngba ɔ́kpa na úbu blii suɛ nka úkpi ɔ́si Kristo kabla ɔsu.,"O si ka, o ti nuna mba okpa na ugbomgbo isu nga okpe, o si Kristo ka bia oso.",1.1333,0.3684
+181,"Na ɔmmɔ kama ni, ɔ́sɔ úgye kɔna kɔdi na ɔ́sɔ ɔ́su nwuna banwani ɔnini, “Bɛsɔ binu kɔna bamba kɔni na lígye.","Na ọmọ ka ma ni, ọsọ uje kọ na kọdi, na ọsọ ọsụwụ na ba nwani ọ nini. Bẹsọ bi nu kọ na ba ma kọ ni na",1.1429,0.3375
+182,Na ɔgbankpi ɔmɛni ɔdubɔkya-mii akɔ uti utédu ka bina ƒui bíkpi.,Na ọgba npe ọmẹnị ọdụgbọ ọcha mị akọ utiwute duka bị nafu ibepe.,1.0909,0.451
+183,Na buuvele Katɔti ɔni ndi bula Ɔti ku Blɔti Yesu Kristo bɔnii lɛƒɔndia ku keyi buɛɛ kasiaku-mii.,"na bu vileka toti, oni ndi bula otiku bula otisu kristo boni, lefonia koke ibue kasia kumi.",0.8235,0.2692
+184,Na kana bune bɔdi lɛgba bɔka eti atɛ .,na ka na bu ne bo di le gba bo ka eti ate,1.375,0.1379
+185,"Mmɔ na Hiob údie kenye ɔnini, “Bi ɔsu na aatɛmi aani uleku ɔdɔlɔdi?",Bịa ọsụ na atụmị anyị uru kwọ dọlọ,1.0,0.7692
+186,Lɛkwa lɛni kemmo na Ɔga Usia úkpi na lɛ́nu Unwoti.,decoler ni ke mo na oga you see a okpe na lenu,1.1,0.5641
+187,Bɔku-ma na bekeli ƒula anumi na ekpidi pii ani na baabla ɔsu.,na bekelihula anu mi na ekwidi pi anyi na ba abla,0.75,0.2708
+188,"Na bekyuli bani mewida-a ƒui ni, ewida asiaku-ma.","Na betụlụ ịbụ anị, mụ ewepụta ihe a. Ewepụta m ihe a asị akụọ m",1.75,0.7632
+189,"“Bekyuli bani nse siin bánu bana kawɔlɔkɔ, na lɛlɔ lɛ́yɔ-ma na báma-ma básu banini, ‘Bula bekisine báyii udu, na ogya ɔ́kyula bana ala ani na bebo ƒui.","Bichiri banyi isi, banu banaka oloko, na lelele yoma, na ba mama basu banyi. Gula bekesi na bayi udu, na oja ochura bana ala, anyi na bigbo fuhi.",0.8148,0.3478
+190,"Amu na Yesu ɔ́su-ma ɔnini, “Ndubɔsɔ lɛkya-mii kudɔ libu uwi klukui ɔdi kani na lɛtɔlɔ nteesie Anwu ɔni nátala-mi kudɔ.",Amụna Yesu ọsụma ọnini. Ndị bụọ sọlụ echa mụ kụọlụ bụ Uwikwụrụkụọ dịka ni. Na ele tọlụ nte ese anwụ ọnị na atala mụ,1.15,0.4565
+191,"na baaní bekyuli babuni mmomu kɔtu ni, bɔbuɛ beete-ma.","na bani bechule babuni inwa mukotuni, gbo gbo ebe",0.7778,0.4186
+192,Na ɔdubɔya na bina ɔlɔna utaabla alɛbi na ulie ntu na utaadu-mii.,Na odubụọ ya na bị na ọlọ na ụta abụla alị ebi na ụlie intu na ụta adụmị.,1.1667,0.3077
+193,"Amu na Yakob lɛnɔ údie kenye ɔnini, “Ami na ɔdi.",Amaghi m na Jacob lụrụ ụmụde nke nye ọnụ iri. A mị na,1.2,0.6111
+194,Ɔsika uwi ɔdubo ɔni na bekyuli bani nékpi ƒui badubunu-mi lɛdi.,O si ka unu ga na ubo. O na-abachiri ba unu na-ekwu ife a. Ma na ubo unu mere di,1.7273,0.6078
+195,"-Nsu Yoseƒ úbulo na ɔ́su-nwu ɔnini, “Ɔni na mina ɔtɔlati úti-mi únyene nwuna ala ƒui kenye ni, údie lɛla biala atu.",Osu yiri akwa ugboro na osu onini. Onini a mi na otolati otimi unyene unu alakwa ikenyeni. Udi ele la biala,0.9524,0.3908
+196,uwi biala kemmo ɔni na beeebo lɛla lɛdi na babla.,Onye na-abụ egwu na-arịdị? Na ba,0.9,0.7179
+197,"Na abu bani ƒui nésie anumi na bɔƒɔtaadi kemmo ni, ɔlɛka bɔkɛ kasusu kamɛni.",na abuba nwuhi n'isi anumi na gbaputa adike mụ ni ole ka agboke ka usu ka mụ,1.0,0.3443
+198,Na kɔvanu kɔɔsí Soar ɔma kemmo na beenú na Horonaim ku Eglat-Selesia.,Na kee fa nu kọọsị sọọrọ ọmakịmọ na bẹnu na hurụnya ku egladị selesia.,0.8333,0.4107
+199,"Ɔmmɔ ɔsu ɔ́va ɔ́su nwuna bebunkune bammɔ ɔnini, “Ɔdi biala ɔvi ɔlɛ!",Amoosu ofu ofu una begbu ngune kpamoo onini. Odi biala ofu,0.9167,0.4902
+200,Na Salomo ɔ́bla Unwoti kakpakɔ kemmo kabla lɛlɔ ala ƒui.,Na Solomon obara nwaeti ka kwako ka mma ka bia lelo ala,1.1,0.4
+201,Bɛ́ƒɔ Bula Litemi Aani Katɔti Litemi Kalɛ.,"Daddy, leli nyodi.",1.0,0.8529
+202,"Ɔsika ukyuli ɔni mɔɔwia ka bati-nwu ni, ulabɛ taabla lɛla lɛdi.",O si ka o chiri onimọọya ka ha bata n'ụlọ. O nwere àbẹ́tà abụọ n'ime ya.,1.3636,0.7
+203,ndubɔƒɔ-ma kayu na linyimiku-ma bunyimi.,Ndu bu ofuma ka ayo na lenyime kuma kpu nyime,1.8,0.3333
+204,Na Katɔti batu benengudi badi muukeye na bebo avwi aku aku na baalɔ-ma Seraƒim benye bámana-nwu.,"na-akato atiba tube na ngudi badi, m'oke ya na-abegbo avu akwu akwu na baalu ma serafi benye ba mana",1.0,0.2564
+205,"Mmomu ni, ɔɔnu-nwu lɛlɔ na ɔɔbla-nwu kaduɛ, aani kalɛ na Kristo ɔɔbla teete nwuna baƒɔtaadine lɛkpa lɛmmɔ.",mụ bụ onye ọnụ ụlọ ya nọ na ọbịala ka m na-ekele na Kraịst ọbịala tete nụ na-akpọta adị n'ile kwa,1.1176,0.6
+206,ɔni na ɔkutine ɔbuni ɔdi ɔda uunweni ala teese.,"Onye na-akwụ tinye, ogbini odi, odakwụ nwini alati",1.0,0.5263
+207,Na ama ndubo katɔma kedee kammɔ lɛlɔ butaanu na Israelƒuɔ bammɔ kenye.,Na ama ndụbọ ka ha tọ ma kedi ka m ga-ele ọbụta anụ na Israel kwo kpamọkè,1.1667,0.4483
+208,Na líti-ma línwini aani ami ɔlati badi na Israelni uleku ubi ɔnanabi udeedi biala na ɔdubɔwɔ kenye.,na leti ma alenwuni a ni ami olati ibadi na Israel ni uleku ubi ona na bi ude di biala na odugbo owoke,0.9412,0.2099
+209,Na bana ƒui bási beleku inyɔ bani na ɔti úti kaƒɔ kemmo.,Ndi be anyi a bu ebe a si beloku inye obani na oti oti ka kwo ke,1.3333,0.4545
+210,"Ka nwuna banwani bánu báti ka bana ɔti ɔɔyɔ́ Yoseƒ teetulo-ma ɔsu ni, balátɛmiku-nwu ku lɛdi buɛɛ munu munu.",ka unu gba wa na ịba n'ụlọ batika kpala ọtị ọyọ yosef etulọ ma ọsịni. kpala temikun kule digbụọ mụ nụ mụ nụ,1.1579,0.4824
+211,"Israel amii ɔdi ɔ́sa, na kadi bamba bekyuli badubo-mii bɔnu ka bɛɛɛdi lɛla lɛdi.",Isi akụkọ anyị ọzọ na-akà dị banyere chụlị badugbo m gba nnụ ka be dị ilela,1.0714,0.619
+212,"Nsu aatina anini, ‘Bi na Katɔti ɔdubo bɔnu bɔti bɔsiku liƒlukutu bonwu lɛni nábala anwu ku bekyuli ntɛ mmɔ kemmo?",na anyi ni bi na ka to di odububo n'ubochi bosi kwuru kwukwutu gbuo na anyi na-abara anwukwube chiri nde igbo ke,1.0,0.5055
+213,"Na ka ɔ́wɔlɔ ni, Rebeka úsie útéti ubidi unengudi Esau lɛwu lɛbuni geen lɛni nse-nwu kudɔ na úti-ni úboku úbakya Yakob.","Na ka o wara ni, Rebeca usie uteti obidi unu ngudi, Esau lewu lebu ni gei leni ise unkudo. Na utini ugwoku ubacha Jacob",0.9048,0.3085
+214,lɛlɔ lɛdubɔyɔ-ma geen.,lelele ugbo yo ma gi,1.6667,0.5556
+215,Na lɛbibo ɔkwalɛ ɔni kemmo na ala ékpoku-nwu.,na le mbibo okwale onike mu na ala ekwekwu,0.75,0.3333
+216,"Bilie ngba ku lɛlɔ kalɔ buboku, na ɔdi biala anu asia nwuna kabla lɛlɔ, na biti bina enu bɛwia bina lɛdila aani kalɛ kani na bɔ́su-mii.","Bịa lee ngba, kụọ lụka lụgbugbo kwụ na ọ dị bịara anụ asị nwunata bịara leeụ na bịtịbị na enu be wụ ya bị na le dịla a na ikale ka anyị na kpọsụ mụ.",1.1538,0.4476
+217,Na nwuna buti kayu kani na ndubɔƒɔ ndi ka lɛbla lɛla biala siin lite-nwu.,na ona boutique a yoo ka ni na indubofo indika le bla le labia si,1.0,0.4655
+218,Ɔkɛnku bɔƒɔtaadi lɛlɔ ɔsu na Abraham únu Katɔti litemi uwi ɔni na Katɔti ɔ́lɔ-nwu ka uteesie kalɔ kani lɛlɔ na Katɔti ɔ́su ka ɔdubuti ute-nwu lɛlɔ.,"O ka nweghị afọ ole na ole ọ suna Abraham unu ka tọrọ gị etiti. O wee na-ajụ ha, sị, ""Ọ lụọ ka unu si ka unu lụọ na, ka unu sị ka unu dubute ụmụ unu?""",1.2308,0.6239
+219,na ébo-mi kudɔ ku lɛnyi lɛni na lɛ́sia-a.,na ebomi kudo ku lenyi le ni na lesia,0.75,0.2
+220,"Binu amii Israel kadi bekyuli, lɛ́ɛbla mina kasusu líse.","Binu, ami Israel ka di bechuli. Le bla mi na ka sosoliso.",1.1111,0.2
+221,Mmɔ na ɔnana ɔdi úbo úbekpoku-nwu laa útédu ka kadi kégye.,mụ na ọna na ọdị ugbo ugbo kwụkọkọụla ụte dịka ka dịkene,1.0,0.5217
+222,"’ Ɔsika si limeyi lɛmmɔ lídu sɔsɔ ni, ama bani nádi egyiibi nyanyaanya ni, ama kani bana inye na ɔdu ɔmmɔ ɔdubo bɔkya.",A si ka si le me le ma olidu soso ni. A ma ba ni na di eji bi nya nya nya ni. A ma ka ni ba na inye na odu omo odu gbo gbo,1.4091,0.2826
+223,Ɔmɛni ndi Aaron ku Mose kɔduli bekyuli lɛlɔ etemila na uwi ɔni na Unwoti ɔ́tɛmiku Mose na Sinai kɔbi lili.,Onye na-eme ihe nkiri bụ Moses Kodili mechara ilele ya n'ịntanetị na-awụ onye na-ewetara mụ bụ Moses na Sinai kọbiri,0.95,0.6824
+224,Ɔsika nnɔ ebi ammɔ adubɔnu ebie ewi kalɔ.,maka ị nọ ebi na arụbọ ọnụ ebie ewi ka,0.875,0.4848
+225,Samuel ɔ́tɔnku Israelƒuɔ aani bana litemi ɔtɛne nwuna ngba kemmo ƒui.,"Samuel Otongọ Israel fọọ, ani ba na litemi ọtẹni, wuna ingba kemokpọ",1.0,0.2982
+226,Na babla aani egyii ani na Unwoti ɔlati ɔ́lɛ.,na babla ani eji ani na nwenti ola ti ole,0.6667,0.2857
+227,Ama lɛnɔ nálɛ bási Oholibama ɔni ndi Ana ubidi bebi akɔ.,"Amaghi m ma o na-ele bọọlụ, o holi bama, o n'indi, a na-obodo ibe bi akụ.",1.4545,0.4222
+228,Na áya lɛ́nu kalɛ na ébo mina bekisine kalɔ.,"na aya n'enu, ka na-egbo m na bekesi ni, kalo.",1.0,0.3235
+229,Na bibo ɔda bite abi ammɔ lɛnɔ ƒui bɛnii.,"Ndi b'ọdị abịte, abị amọlị nọ kwụ ibe nụ.",1.0,0.5312
+230,"Na si ukyuli ɔdi ɔɔkali ka ɔkana uti lɛlɔ ɔsia ɔlɔna lɛlɔ ɔdi ablala lɛlɔ ni, na nka ami mbo kuƒi kɔmmɔ ntulo.","Na so ushie odi o kalika, o kana utilelo osha olo nalelo odi ablalalelo ni. Na nka ami imokwu fi ko mu ntulu",0.8261,0.3372
+231,Ɔsika úlie bekyuli bani muuwulo ukpine akɔ ɔsu ɔ́bla likpidi.,O si ka oli ya bechiri bani ma owuru ukpene ako osu obula rikpodi.,1.3,0.38
+232,"Na uwi ɔmmɔ kemmo ni, bana lɛma lɛni na baagyumana kpakplaa na Israelƒuɔ bábɔku-ma bédie mmɔ lɛdubo bɔbwɛ na línwini aku.","na uwa oma kemoni, ba na le ma le ni na ba ajumona kpakpala na Israel fu ba gbokwu ma kpedie, ima ole du gbo gbo gbe na",1.1905,0.4082
+233,"Ndubunye mina ala bɔbla ulu siin lɛlɔ uwi biala, na lɛɛɛdubo kama bunwini bɔkya-mu.",Ndi Igbo nyere m na ala Igbo bu ulo osisi nyere lu. O ibiala. Na ala Igbo kama bu nwini kpocha,1.2857,0.5075
+234,Na ndubunweni-mu lɛsia-ma kasusu lɛlɔ Ndubɔbla bana Katɔti na ama lɛnɔ babla mina bekyuli.,na Ndubuisi Nwennim ule si ama ka susu lelo Ndubuobula ba na akato ti na amali nobabula mi na bechuli,1.2857,0.2297
+235,Na uwi uletu kadi bamba bekyuli lɛnɔ badubɔkɛ ama ɔdi na bayii ku udu ku udu ɔni na basɔ belénu bana ɔdi kɔku lɛnɔ kudii.,na-ewe oletu ka di mba be chulile nọ gbadugboke amma ọdị. Na baa yị ịkụ ụdụ nkụ ụdụ. Ọ nị na gbasọ kpele nnụm ba na ọdịkọkụ lenụ kụdị.,1.08,0.4688
+236,"Banwa binyimo ka uwi ɔni na bɔ́kya-mii kudɔ na bɔ́su-mii litemi buni lɛmɛni ni, búni ewulu usien ku ɔƒɛ na bɔ́bla kabla na bútenwini etila bútasia-mii lɛlɔ.","Bịa ṅụọ mụ ka o wee na-agba chaa mịkwudọ, na-agba sọmịte ngwiri lemee nị nị. Bụ nị e wụlọ usekwu ofe, na-agba blakabla. Na-agbute ngwiri etila agbute asha mịlẹlọ.",1.0,0.5574
+237,"Nsu ukyuli bamba biala ni, anwu ɔlati bɔdia lɛlɔ na nwuna kasusu kasia na kaaakɛnku Yesu Kristo ulu lɛlɔ.","Uzu uchu na mgbịalị, aṅụọla tiibo dịalụ na, nwuna ka osukasia, na ka akengu Jisọs Kristọ dịalụ na.",0.8947,0.4588
+238,Lɛni kani na ɔlɛka bagya bayɔ bana beleku aani kalɛ na baayɔ́ ama alati bana ɔlɔna.,"Leenu ka anyi na-olekaba aja baa yoo bana be luku, a na-ekali na baa yoo amaala ti bana olu",1.0,0.3485
+239,Na liƒlukutu lɛni némini na lise suu lɛ́ka lɛ́mana-nwu.,na lefu kutu lele mini na le se so le kalima na,1.1111,0.3721
+240,"Ɔmmɔ kama na beti akɔ ɔkɔdi ku edula ebi ɔlaaƒɔ buni sɛɛn ɔni na básala ku nnɔ, na asɔ aƒɔ akɔ ɔkɔdi bamba ute likpidi lili buvele akpala.","Ọmụka ma na-abeti akọ ọkọrọ ku edula ebi ọlaafo ogbenye, ọ na-akbasara ku inọ na asọ afọ akọ ọkọrọ ba ma utere kwụderele gbuvere akpaala.",0.8214,0.4404
+241,"Na uwi ɔmɛni kemmo ƒui ni, Israelƒuɔ béwulo kɔnyana geen na bévele Unwoti banii ubunku-ma.","Na uwa niile, Israel bu ewurukọ ya na-aghaghị ịbịara onwe ha banye ụgbụnkụm.",0.9333,0.6027
+242,Na ɔmmɔ kama bɛdubɔbla sɛɛn na bɛkana bitéduo bina kakyakɔ.,na ọmụkama bido ụgbọ blast ya na beka na-akpọte duo bi na Kachak,1.1,0.4082
+243,Katɔ ku kalɔ ƒui badubo-ma keyi budie na badu-ma kɔtɔ.,ka m to gukara fu ya. Biko adugom maka igbu die na gbadumakotu,1.3,0.4524
+244,Ɔsika Katɔti ɔɔtɛ litemi ulu lɛlɔ geen.,"Oshika, ka otiti o telitemi, unu lele gi",1.1429,0.4062
+245,"Na si bíduo mmɔ ni, bɛdubuti lɛlɔ biye bite Egyipte kalɔƒuɔ bammɔ na bitaabla kabla teete-ma.","Na si be duo imoni, kedu bu otu ile lo bia bite Egypt ka lo fu Obamo na bita abla ma kabla ti",1.125,0.3467
+246,Na mina Ɔti ɔni nátala-mi lɛnɔ údie kenye ɔ́tina-mii ɔ́si mina lɛlɔ ina ka bítenu-nwu lɛdi iye útedie lɛlɔ útatina-mii anumi ku anumi.,"Nami na Oti o ni na atara mi ire na udi ekenye Oti na mi. Osi mi na lelo, ina ka bite nu ledi yee ute di elelo otati na mi anu mikwu anu",1.3478,0.2857
+247,"Na ka bɔ́ka-ma bɔ́nu ni, ina unwi útayii.","Naka bọka ma kpọ n'ụlọ nụ, ị na-onwe gị?",1.125,0.5862
+248,-Na ami náƒuna mina kabla ɔblane Ɔga Nebukadnesar ka ɔdi kadi bekyuli kɔlɔ kɔmmɔ ƒui lɛlɔ ku amii kadi lɛnɔ.,"Amina fụna, mina ka bịa ọ bịalị ọ ga na-egbu ka dinịza ka ọ dị ka dịbechiri ọlụ ka ọ mọkwa ịlịlọ ka amị ka dịlụ.",1.25,0.4943
+249,Na Unwoti bekyuli bani ndubɔlɛ ɔgbankpi ɔmmɔ kemmo badubulie Sion Kɔbi kedee lɛlɔ.,"na onwenti bechuliba ni indigbo le, ogbankpe omokemu badugbulie si o nkobi kede lelo",1.0,0.3188
+250,"Unwoti ɔnini, “Ami Unwoti mɔɔsu ka ni, uwi ɔdubo ɔni na ndubo lɛla lɛwɔdi bunyimiku Israel kadi bekyuli ku Yuda kadi bekyuli.","Nwanti onini? Ami nwanti m osuka. Uwe orugbo onina ndu bu lela lewa odibu nyemiko Izrael ka dibe choli, ko Yuda ka dibe choli.",1.0,0.31
+251,Na lɛ́nu-nya aani kebu alakpi kalɛ na ami ku Kristo bɔbla unwi.,"Nna, lee nu ya, a na m ekwe gị alakwikale. Nna, a mịkụkụ ịstobo bụlaụ",1.25,0.4694
+252,Áƒɔ bekyuli bamba ku bawabane ala ése ɔkpa na kayu kani na bada-a kenye na éƒie-ma adala áƒɔ na bakɛ kasɔngya.,"Afo bu echi na maku baobab na ala ise okpa. Na ka anyi ka na-abada a ka enye. Na efifie ma adala afo, naba ke ka so",1.0952,0.4023
+253,"Mmomu ɔ́ɔnyonu likpidi biala litemi bɔtɛ úte ami Ubidi, kalɛ na ukyuli biala utaabu Ubidi aani kalɛ kani na baabu Ɔti.","mụ na ọ nọrọ na ekpere bịara nụ olu ya mana o teghị aka m bịa. Ka m na-achọrọ bịara, ụta abụọ bịara, a na m ka na-anọdụ ala abụọ",1.381,0.6947
+254,Ɔmmɔ ɔsu na Unwoti uuti kɔnyi kpakplaa.,Ọmọ ọsụna nwunti o ti kọnyikpa pụla.,1.0,0.4375
+255,Ɔ́sɔ úbada kaƒɔ ɔmmɔ kama na ɔ́wɔ ɔnanabi bamba ɔni baalɔ Onan.,"Ọsọ Ubada kapọ ọmọ kama na owu ọna na bi ba ma, ọni ba alọ una.",1.1667,0.3265
+256,"Bildad ɔni nási Suhi ɔ́su Hiob ɔnini, “Katɔti na ɔlɛka bekyuli bayia, ɔsika anwu nli katɔ uubó ɔda na ɔɔdi lɛla biala lɛlɔ.",Onyeisi siri na ọsụ yanwa onini. Ka tọti na ole ka bechiri baa ya. Ọ sị ka aṅụrị ka tọ ụgbọ ọda na ọ dịrila biara,1.087,0.5625
+257,"Unwoti ɔ́su-mi ɔnii nye kalɔ kammɔ nsiku Hanamel kudɔ, anwuɔsu líye-ka.",O nwere ike ịsụgharịrị m onye ị ga-alọta ma ị sị na ha na mụ ekudọ? Awụsọrọ ị ga-,1.7273,0.7143
+258,Na siin bɔbla bɔmɛni nási Katɔti kudɔ na bɔdanku bɔƒɔtaadi.,"N'asị m na bọla bọọ mụ eni, n'asị ka m totukwuo na bọọ dangụ bọọ pọta.",1.4,0.5714
+259,Munuu ɔdubuni na uláyɔ ubi.,mụ na ọdụbụọni na ụlọ ọgwụ,1.0,0.6364
+260,"Na awɔ ɔlati aƒuna bana akɔ ugblebi ɔni na aayɔ́, na eti-nwu abla beleku ɔga na Wasti kenye.","na awa olati, akwuna gba na akọ ogbu na ebi ọ ni na ayọ na etinwu abla abla lokwu ọga na waist kinny.",0.9444,0.338
+261,Na lɛgba lɛmmɔ lise aani bapɔnkɔ kɛɛkɛ lɛgba.,Lekwa le ma le se anyi oponko keeke,1.0,0.6216
+262,Na búti buute amii Kristo Yesu badi ƒui ku baƒɔtaadine lɛkpa batɔnkune ku bebunkune bani ƒui nkya Ƒilipi.,"Na bụrụ na ọ bụ otu a ka m Kịristọ Jisọs banyere gị kwụbakhọta aririle kpagbatọọ ngwụni, kubegbụọ ngwụni baa n'ihu njem a",1.2222,0.6897
+263,Ɔsika bɛgyi ala ani na bɔ́tina-mii ɔkɛnku Blɔti Yesu ɔyikun kemmo.,"si kabeji ala, a na-agba tinye na mmiri. Okenye bụrụkwa tiye sọ, ọ ga-ekwu nke",1.1818,0.6038
+264,Na badi báya na bekyuli baabla ala ulu lɛlɔ.,na-abali abuo na be Chidiebere abuo ala Olurelle,0.8889,0.6
+265,Na bɛwia bina bakpana bɔdia na ɔɔɔdi awɔ kani ɔdi.,na be wea bin abakwanabo di na odi awka na odi,0.9,0.275
+266,"Ɔsika nse siin na ɔdubɔsu-mi ɔnini, ‘Líwi-ɔ uƒi, teesie ƒaa, ɔsika álɛ litemi kemmo.",Ọ sị ka a lee rịta mịkịmụ.,1.0,0.8281
+267,"Na lɛni geen na ɔlɛka Katɔti ɔbla, ɔsika bekyuli bammɔ balayɔ-nwu na bátakpali-nwu bétevele lɛla lɛdi kudii.","N'eleghi anya, ole kaka toti obla? O si ka ha bishiri ba na obodo anyi bu na bata kpaliumbe TV lelele di kudi.",1.2941,0.4773
+268,Na ɔdubɔya na badi bataabla ekpola teete nwuna bekpone bani ndanku nwuna kɛɛkɛ.,na odibo ya na-abali bata abia ekpola teete nwunye ya mbekpo ni. Ba ni inda nku nwunye ya kele,1.2308,0.2879
+269,ɔsiku bekyuli bekpidi bani ndi bula bekisine.,O si ku be chiri be kedi bani in digbo la be kisi,1.7143,0.3158
+270,Na ama nékpoku Egyipteƒuɔ na kalɔ kakwiidi kemmo ku lɛlɛ lidu lidu.,"na ama na ekpokwalu Egypt ekpuo, na akalo ka akwu ya dika mu ku leleli dulu du",1.0833,0.3818
+271,"“Bekyuli badi bakya bani náta bénye Katɔti ulu lɛlɔ, ɔsika ɔdi lɛla lɛni na bekisi.",bichiri badi bacha bayi nata binye katoti olulelo osika odilela leyi nabi,0.9333,0.3485
+272,"Ka Esau únu lɛla lɛni na ɔti ɔ́su ni, úduo-nwu geen na úwulo keku momoomo.",Ka e si unu lee laa n'ụlọ na ọtị ọsụ nị. Ụdọ onwe gị na ụwụlọ kekụ mọmọ,1.0,0.5179
+273,"Asa na Israelƒuɔ lɛgabɔdi ulu úse kalɔ ni, bekyuli bamɛni nádi lɛga na Edom kalɔ lɛlɔ.",Asana izrapuo lega bodị olu usoro nihi gbechoro ịba me nị na di lega na ịdọm karọ,1.0625,0.5072
+274,"Na Mordekai ubo ɔnwani ulekubi ɔni mɔɔdia bɔnu geen ɔdi na baalɔ-nwu Hadasa, na nwuna lɛnyi linyɔdi baalɔ Ester.","Na mụ dị ka ya, ụbọọ onwa ole ekubi, ọ na-ịma ọ dị a bụ nụ gịnị? Ọ dị na baa lọ nụ Hadasa na nwunye lenyere ya ọ dị baa lọ Esther.",1.5263,0.4505
+275,aani si ɔbentaa na nda muudie kɔnyana lɛnu.,anyi si o benta na nda mụ di ya kọnya na,1.0,0.3714
+276,iye balalane ku belikplune báka-mi bákya?,"Ihe balala ni, kubere kulu ni, baka mi bacha",1.5,0.2941
+277,bayikune bani mbo kalala mmɔ enu kemmo.,"Banyi kwene, bani mbo kalala imo enuke",0.7143,0.25
+278,"“Na amii Yudaƒuɔ ni, bɛdubo ɔlɛ bunu geen na kayi kataakpulu-mii, nsu amii alati na ɔ́si ɔsu na badubo-mii kɔtu bɔni lɛni.","Na ami yọ dapọ ni, bẹdụgbo ọlẹbụ n'oge na ka anyi kata akụlụmi. Nsụ ami ọlatina, ọsi ọsụna badụgbo mi kọtu gbo n'ilẹ.",0.9545,0.3723
+279,“Muunú ɔlɛ geen teete Moabƒuɔ na mina kayi kemmo aani kalɛ na ɔɔbla ukyuli si beedie ɔkwanu na lɛtoloyii lɛlɔ.,mụ na ọlịgị mụ na afọ na-amị na ka ikemụ anị kalị na ọbla ochụlịsị be dị ya ọkwa nụ na,1.0,0.6067
+280,Kadi bamba bekyuli badi bétenu dii ka Katɔti ɔtɛmi ɔsiku ogya kemmo na belie ngba aani kalɛ na amii bínu na bilie ngba.,Ka di ba m ga-echele ka m ga-ebete nu di ka ka toti otemi osiku oja kemu na beli nkpa a ni kale na ami binu na bili nkpa,1.087,0.3229
+281,"Ɔlɛka bani-mii kɔtu, anwuɔsu ndubo-mii kasi budie.","Olekaba n'ime iko otu, awụnsụ ndụbụ mụ ka sị bụ dị",1.5714,0.425
+282,Na ɔ́tu bagyumanane kenyekɔ únyene-ka ntɛ.,na otu uba jụmụna niile kenyeko unyene ka,1.1667,0.4118
+283,"Na kalɛ na ƒula lɛnyi líbomo ni, lɛni kani na buumwi-ɔ.","Maka na ị na-afụ ala nyịlị gị bụ moni, leenụ ka a na-agba ya",1.1818,0.5952
+284,Na badi ɔgya ku ule na bébeduo ɔkɔlɔ bonwu ɔmmɔ kemmo aani kalɛ na Katɔti úbo-ma ɔda.,na badi oja nke ule na bebedu okolorgbon omo kemo a ni kale na katoti ugbo ma oda,0.7647,0.3433
+285,"Amu na Eli úye-nwu ɔnini, “Ubi, bi geen nálɛ mmɔ?",Amuna eli uya unini? Ubi? Bigei na,0.8,0.3714
+286,Na biteti ɔda bubo bɔbambadi bɔdi bitebunku ɔda bubo bɔmɛni lɛlɔ.,na bite ti o da gbugbo kpoba mba di gbo di bite gbu ngu o da gbugbo gbo me ni le,1.8182,0.3519
+287,Ndububile ɔban ɔni na lɛ́gyi lɛ́kya-ka na kayii udu.,Ndi be anyi lee oba onu na-ere ji lecha aka na ka anyi,1.3333,0.6
+288,Na bina bekpone bani ndia ntulo ƒui badubukpi na kekpokɔ.,Na b'ina be kwo ni ba ni India ntulu ofu i ba du gbo kpe na ke kpo,1.5,0.2128
+289,Mmɔ na ndubɔti lɛla lɛni geen na ɔ́yɔ ka ɔsu-mi.,"Bụ nụ bọ ti, de la le ni ge na, o yo ka osi",1.2,0.5
+290,na ulie ngba uwi ƒui ɔni na ɔsɔ ulekpi kudii.,"na uli ngba uikwii, o na oso wulu kwikwu di",0.8,0.4
+291,Na ami mɔɔdi kayawi ƒui lɛlɔ na lɛkana na lɛbla lɛla biala na mɔɔyɔ́!,na emere odi ka ya bu ife lelo na le ka na na le bula le la biala na mu,1.0714,0.3704
+292,"Nsu ɔƒaani ni, bánu ka nwuna lili ku enu áƒɛ álɛ-nwu lɛlɔ.","Ndi ụọ ọhaneze, biko unu alili ku enu afọ alụọlụ.",0.8333,0.6136
+293,Yudaƒuɔ lisu bonwu lɛdi bani nákya Egyipte kalɔ kammɔ katɔ ku kada kakɛ ƒui benye beenú asa na mɔɔsu ala ani na Unwoti ɔ́su-mi.,"Jụda pụrụ ịsụ ụbụrụ na dị ịbà n'ala Egypt karịa otu narị afọ ka ụka dị aka ekpe, benyebe nụ asị na ọ sụ ala anị na nwunti ọsụ",1.0833,0.5941
+294,nsu bɛɛɛdubo-nya bɔnu bɔti na binu kalɔ.,so bad ubonya gbonu boti nabi nukalo,1.0,0.2812
+295,"Ɔƒɛni ni, ɔ́ɔbla aani emeyi avlaatɛ mɛni ka bálɔ-mi na lísie-nwu kudɔ.","Ọfọnị nị, ọ blụ aị nị ị meị a vlate mụ enị ka abalụ mụ na lịsị ụkwụ",1.3333,0.5741
+296,"Mmɔ na ɔ́su-ma ɔnini, “Bɛnu ka Hebrini ɔni na bákpanku béboku mɛni úbo úbanu-bu ɔ́wɔlɔ.",Mana ọsụ ma ọ nị nị? Bịa nụ ka Hebrew nị ọ nị na bakpa ngwụbe bụkọọ me nị ụgbọ. Ụba nụ bụ ọwụlụ,1.4667,0.5152
+297,"Banwa, bɔɔyɔ́ ka bɔsu-mii lɛla lɛni ndubɔlɛku bekyuli bani néekpi, kalɛ na biléteewulo kɔnyana aani bekyuli bani neeebo lɛnunsia.","Bịa nụ a, biko ka anyị bido sụmịlụ ala lee ndị gbo lekwube chiri ba n'ịkwe. Karia na bileta ewulụkọnye na ala ịbo chiri ba anyị na-egbole nụ nsị.",1.4211,0.566
+298,na egyiibi ani náyii udu na Sibma ɔsu.,na eji be anyi na-aga odunku si na,0.875,0.5667
+299,"Anwuɔsu ama ku bana beleku ƒui báva ku lɛdi momoomo banini, “Yeremia, bi nkɛ-bu si Unwoti lɛnyi kemmo na enye aatɛmi?","Awa so, amaghi m ma oburu na okwu a bu afa kulu edim ma obu umu-nani. Jeremiah bu nke bu si nwenti na-anyi kemgbe na-enye ha atumatu.",1.2381,0.5435
+300,Na ɔ́bla aka ku bɔdia ɔ́mana-nya lɛƒɛnyi.,na obla akaku bodia omalanya lefe,0.8571,0.3226
+301,Na mɔɔyia ka ɔƒɛni kalɛ ukisine ɔmmɔ úbo úbeƒu-mii kasusu na bula lɛbibo ƒui lɛ́bla keeke.,"na-m oyi a ka ofe niile ukisi na-onwu, ugbo ube ofuru m i ka susu na-gbula m ebe ofu i lebara ka eke.",1.375,0.4306
+302,Unwoti unye ute-mi aani lɛtakpɛ ku katamikukɔ.,"Onye utemi, anyi letakwekwu kata",0.8571,0.4737
+303,Mmɔ na ɔ́bla egyii adi udu ebi eti anyɔ na lɛgaala kemmo ɔ́mana.,na obla eji adi udu ebi eti anyo na lega ala kemu,0.5385,0.3265
+304,Na kɔbuli kudeedi limeyi leevu-linedi lɛlɔ.,na kọbụlụkụ dædị lịmæ ịlẹvụ lị nẹdị lẹ,1.1667,0.5556
+305,"Ɔmmɔ kama ni, Isak ɔ́su ubidi ɔnini, “Ɔƒɛni ni, bo na abakya-mi kɔgbu.","Ọmọ Kamani, Ịsaaki ọsụ ụbịdị ọnịnị. Ọfẹ nịnị bụ na abacha mị kọ",1.0,0.5294
+306,kani na ntu bɔ́sa-ka kemmo ƒui kede kede.,Kanina into bosakake mofui kedeke,1.0,0.2258
+307,Ɔkɛnku bɔƒɔtaadi lɛlɔ ɔsu na Mose bawɔne béti-nwu bábɛla abuli atɛ ɔni na báwɔ-nwu.,Okenwa putara lelee osisi baa n'ebe ti mba bela abiri ate. O na-aba wu,1.0,0.5821
+308,Na badubudie lɛnu bete-ɔ na ala ani na ábla ɔsu.,na badu budi le nu beto na ala anyi na abla,0.8,0.2432
+309,"Ɔmɛni ɔsu ni, O mina Unwoti, ndubumwi-ɔ lɛnyi.","Onye ọsụ ụzọ niile, o meela, unu nweti ndụmọdụ mụrụ onye ọzọ.",1.375,0.9429
+310,Na ɔmɛni ndubɔtina-ma ka Katɔti ɔdubɔƒɔ-mii na ɔyila-ma udu.,na omenaala Igbo tinye na ma ka totie odugbo kwuo m na oyila ma,1.2222,0.5625
+311,Ɔdi biala avwi anyɔ ebi-nwu anumi na anyɔ ebi-nwu lɛgba asa na ɔda anyɔ akladi uuveyi.,"Ọdịmma, a bụ m Anyịọha Ebube Anụmị na Anyịọha Ebube Legba. Asị m na ọdị Anyịọha Akịradị Ụvụe.",1.0,0.6471
+312,"“Moab lɛni bise aani ntɛ bɔni na báda bése na búlie kalɔ, ɔsika belewilimi-mu taasia kama, anwuɔsu na bina ablala aakɔ́-mi katɔ uwi ndi uwi.",Nwanyị a bụ Lenie Bise Ani nke gba n'ịna Gada Bise na Aguleri-kalo. Ọ si ka belegwuru ịmịmụ taa si aka ma. Awọnsọ na bịna abalị a akọmị ka tọ owi ndị,1.16,0.4404
+313,"Ɔsika si bínu bana ɔkɔ etemila ammɔ udu ni, ndubɔya na bakpɛ-mii kalɔ batɔlɔku bina kalɔ lɛlɔ besienku ɔgyu kaaka na batádu-mii na mmɔ.",si ka si bi n'uba na oko etere amo odoni. Ndugbo ya na kpakpeme ikala oba tolo ku bi na akalo lelo. Pesiongu oju kaka aka nabata dumi,1.0833,0.3796
+314,"Bitekpi ntɛ, ɔsika ɔmɛni mɔɔyá na bɛɛyii udu.","Bịa kwa ị nde, ọ sị ka o mee n'imo ya na be ya ịri udo.",1.875,0.6111
+315,Na asɔ enwini ebo abasu-mi.,Na lela ledi le tabla odi. Na aso ewni egbu abali,2.0,1.2857
+316,Ɔ́nyonu abuala egyiedi akpa ku abuala egyiedi akyami bonwu ani baalɔ banii ɛpu mmɔ béwi.,"Anya nu abuala eji eri akpa, ko abuala eji eri achamigbo. Ani baalu bani, epu imo be",0.8667,0.3194
+317,Na úti sida ɔ́bla akpa ɔ́lɛ lɛgaala ine bɔni lɛlɔ na sida lɛta lɛni na bánwi mmɔ lɛsia.,"na otu si da, obla apa, ole elekere ala? Inegbonile na asida leta, le ni na gbanwi imo lesia.",0.8889,0.3731
+318,na biiti akpala ku ntɛ ku antabi etela teetéte-nya?,na bi ti akpala ko inte ko anta bi etela tete,0.8889,0.2683
+319,"“Na ɔƒaani ni, ami lɛnɔ ndubo-mii buni.","na ofu a n'ine, a mịlụ nọ indụgbo m ịgbụ",1.2857,0.5172
+320,Ndubo Egyipteƒuɔ Ɔga Hoƒre bɔnyonu bute nwuna bekisine na badu-nwu aani kalɛ na lɛ́nyonu Ɔga Sedekia líte Babilonƒuɔ Ɔga Nebukadnesar na ɔ́du-nwu.,Ndi Egypt furu oge ahia furu baa nyonụ ubọte ha na bekee siri na ha na-abịa dị ka a na-eleba anya na oge Asiria dị ka alite Babịlọn furu oge Nebukadnezar na ọdị.,1.3636,0.55
+321,"Nsu ina amu ni, Katɔti ɔmmɔ náya na bákɛ akɛla pii.","Ina mụ ni, ka tọ dị onwe na ya, na bake akela",0.9091,0.4872
+322,"Amu na Unwoti ɔ́su Mose ɔnini, “Ka Israelƒuɔ bebi bedeedi bani na báwɔ ɔ́si kɔbuli kunwi kama na enweni-ma anyi ese.",Amụna ụnwụnti ọsụ mọse ọnịnị. Ka Izrelụfo be bibe dịrị gbanịna bawụọ ọsị kọbụlụ ekọnwị kama na enwenịma anyị ese,0.8095,0.3667
+323,na ɔsɔ ɔkɛ utaavi aani kalɛ na báwɔ-nwu ku kasɔngya.,na oso oke uta vin ani kalena gbawo nku ka sun,1.0,0.3902
+324,"Amu ka Abloduma ɔmmɔ únwini úbo ni, nnɔ kugyii livete lɛwɔdi lɛtu-nwu kenye.","Amaka abroduma ọmọ nwenị ugboni, ịnọkụ jị levite lewọdị letụ nke",1.0,0.4754
+325,Amu na Noa ɔ́kywɛ na emeyi maatɛ ávi asa na ɔ́sɔ ɔ́tala Abloduma ɔmmɔ úmene.,"Amu na nwa ọtụ ya na eme ịmate afị, asaa na ọsọ ọtala abalị ụka ụmụ",0.8,0.5172
+326,"Lɛla lɛni na búnu ni, ani kani na bɔ́nu ku bula anumi.","Ndi be anyi, ekele m unu. A na m ayo unu ka unu kwubere anyi",1.1667,0.725
+327,na anwu na ɔda uuyé ala taakpa Baal baƒiɔ.,na auna oda oye ala ta kpa ba ba fe,1.0,0.3636
+328,Si ɔɔɔdi lɛni bɛdubo bunwini Israelƒuɔ kabla bablane aani kalɛ kani na ama bákya-bu kalɔ dii!,"Si ọdịleni, bọdụgbo bụ nwunye Israel kpụọ ka balabala ni a na-ekalị na ama abacha bụkalụ dị",0.875,0.4474
+329,Na ndubuti-ma lɛnwa adila abuni ani udu na ƒula ɔti ɔɔyɔ́ lite-nwu kalɛ geen na ɔwia-nya.,Ndu bu otu ma lenwa adila agbuni ani udo na fula otu o yo lite onwu kale ge na owu anya.,1.0625,0.2754
+330,Bɛya bumwi Bula Ɔti Katɔti ɔ́si ɔƒɛni úsela ƒui.,"Bịa bụ mụ, bịa ọtịka tọtị, ọ sịọ gị na ụsụla",1.2222,0.5789
+331,bana bebi lɛnɔ badubo butaadi lɛga lɛmmɔ uwi biala.,"Bia na bibilenu ba lugbo, but adire galimbu, we bia",1.1111,0.3571
+332,"Buvele, ánu kesii kani na béti bebuo bésienku kadikɔ?","Ufere anụkịsị ka nị na betịbe gboo, besịo ngụ ka adị",1.1111,0.5116
+333,"Sɔsɔ ni, amii mɔɔyá lɛlɔ lɛɛyɔ́-bu, na buuƒú lɛnɔ na amii ɔsu.",Soso ni amị mụọ ya lelee ya ọgụ na-agba ụfụlị nụ na amị ọsụ.,1.0,0.6087
+334,"Mmɔ na bɛdubo baƒiɔ bani na béti egyii ku atabi bánwi bɔkpa, baƒiɔ bani na bina bati kuuku bátakpa kudii.",mụ na be dubo ba fịọba nịna betị ejị ku atabị ba nwị gbọkpa fịọba nịna bịna batị kụkụ batakpa kụdị,0.95,0.3929
+335,Ɔsika lɛɛɛdubo bɔkana bulie bɔnu na ɔgbankpi bonwu ɔmɛni udu ubo mina kadi bekyuli lɛlɔ na bakyula-ma ƒui.,"O si ka na ubochi akana bulie onu na ogbe Igbo, o mee ni udu ugboomi na ka dibia churu ilelo na bachula ma",1.1111,0.4483
+336,"Bɛdaku ɔkplu bɔkya bɔdi, nsu bɔɔkya-mii ogya na Blɔti Yesu lɛnyi kemmo bɔnii bɛbla bitulo lɛni.","Bịa daku okpukpu ọcha bụ di, izu gbuo chami oja na blood, ya sule nyike mgbọ ni, be bia be tulu le",1.3125,0.4805
+337,"Na lɛkwa ndi lɛkwa ni, uusié taavi-ma lɛlɔ ɔ́si Betel úsie Gilgal útédu Mispa taatátɛ etemila.","Na Lekwa-Eke Lekwa-ni, o setara ihe mere lo, o si Bethel o si Gilgal, o tee du Mizpa taata te etemna.",1.1875,0.3867
+338,Bana ligyiitu lɛdubo bubun na bana anwula awiɛ.,Bana lejetu ladugbo bubu na bana awula ayu,0.625,0.3077
+339,"Lɛla lɛdi lilekpoku-ma na bana kɔduli, na Katɔti ulani-ma kɔtu kɔdi.",Na ka torti ulani,0.9091,0.7963
+340,"Batu bani béte ɔga bapɔnkɔ bani muukeli usi mmɔ, békeli momoomo bátɔlɔ ku lɛku lɛmmɔ ka ɔga údie lɛdi.","Bà Tọbị́ni Bétè, ọgạ́ àpapọ̀ ǹkọ́bánì mọ́kèrí ósìímọ̀, Békèrí mọ́mọ́mọ̀, Bàtọ̀rọ̀, Kùlèkùlè mọ̀ ka ọgạ́ ụ́diẹ́rè",0.9474,0.561
+341,"Amu na beleku bamɛni bédie kenye banini, “Israelƒuɔ beleku beeese aani Egyipteƒuɔ beleku.",Israel fo beleku be se ani Egypt fo beleku,0.8462,0.5946
+342,Na aya na Katɔti Ɔyikune Ƒui unwini ƒula sika ugyiedi ku ɔƒualadi ɔni náƒɔ kuye geen ute-ɔ.,"na aya na-akatọ ya, o kwune ofu onwe ya fụrụ si ka uje edikwuo ọfụrụ adị. Ọ na-apụkwa ya ga-ute",1.0588,0.589
+343,"Na uwi ɔmmɔ kemmo ni, Eli ɔ́ɔƒɔ aani akwa liti ku aavlene-maane.",na uwa obodo kemgbe. Eli ọkpọ a na akwalite kwa afụlenema,0.8333,0.4694
+344,Esau ɔni nédie kaba kani ndi Edom kadi bekyuli na Seir lɛlɔ kɔtɛ na bɔdubo bunu mɛni.,Isi ahu onye di ka ba kani ndi edom ka di be Choli na Asia lelokote na bodugbo obunume,0.9412,0.3529
+345,"Anwu ndi ka ɔlɛka ɔgya biala ɔyɔ ulekudi aani nwuna lɛlɔ, na uleku biala lɛnɔ ɔbu ɔgyani.",A wụ m onye ka ọle ka ọja bịara ọyo ụlọakwụkwọ dị a na-enwu na-lịlụ na ụlọakwụkwọ bịara lị nụ ọgbụ ọja mị.,1.2353,0.6901
+346,Bitaya na ukyuli ɔdi uti etemila ekpludi adi ɔtɔlɔ-mii.,"Ite na uchili odi, uti etimila ekludi adi otolo",0.6667,0.3556
+347,Na badi badubɔbla bemonsene na badi badi bebuo badane.,"Na abali m badu bu obula, ebe m si ni, na abali m badu bu obula",1.5556,0.4667
+348,na ɔɔyɔ́-bu uwi ndi uwi.,na o yọgọ uwa inu owi,1.0,0.5294
+349,"Mmomu ni, bana ɔbladu ɔbuni udie-ma ɔtina aani beleku bani mɔɔsu banii basiaku Blɔti.","Ihe mụ na ya bụ nwaada ọgboni bụ di na nwunye a na-ebe lokwu, banye n'ọsu banye basia kụọ blọọti.",1.4286,0.5507
+350,aani kalɛ na ɔƒɛƒɛɛ uuƒwi aƒata taayulaku abi.,A ni ka le na ofefe ukwu i afa ta ta ayi na ku,1.625,0.4474
+351,"Na ɔ́su-nwu ɔnini, “Teesie na atáƒɔ anumi na lɛba blii lɛni baalɔ banii Siloa kemmo.",na ọsụ onini. E si na taa fụanụ m na leba anya na niile baa lọba na isi,1.0,0.5538
+352,Mordekai ɔmɛni lɛnɔ ubunku bekyuli bani na Ɔga Nebukadnesar úƒie ɔ́tɔlɔku Yerusalem úsienku Babilon uwi ɔni na úƒie Yudaƒuɔ Ɔga Yekonia.,"mude kaya omenile no, ugwu nku bechiri ba n'oge na-ebo ka di n'eza oche otoro ku, Jerusalem ose nku Babylon, uwi oni na oche Judah fu oge Yiconia",1.2381,0.4123
+353,"Anwuɔsu Lewiƒuɔ badi mina badi, ɔsika ubi udeedi biala ɔdi mina ɔdi.",Awa so nla we kwo ba di mi na ba di. O si ka obi udi di biala odi mi na,1.6667,0.3273
+354,"Amu na Abisai ɔ́tɛmiku Dawid ɔnini, “Uwi ɔmɛni kemmo na Unwoti údie ƒula ukisine ɔbuli ɔ́kya-a enu kemmo.","Amụna abịsaị, ọtị mị kụda wịth onịnị. Ụwị ọma enike mụ na onweti ụdị e fụla okịsịne ọ bụlị ọcha enuke",1.1111,0.4756
+355,Na ɔmmɔ kama akpala siin ani na bɔdubɔkyula.,na o mbo kama akpalasi anyi na abughi bochu,0.875,0.4444
+356,Ina ukyuli ɔni nse buɛɛ iye ubo kasusu geen ulanu ɔwani iye ulekudi ɔni na ɔɔyɔ́ geen iye nwuna bebi bani nébu kɔnyana.,"na ochichi oni n'isi ebu ya, ihe ugbo kasusu ge, ula nu onwani ihe olekudi oni na oyo ge, ihe una bebi bani na egbukonya",0.913,0.3684
+357,"Si bana ɔyikun ɔ́sa na kalɔ kamɛni lɛlɔ na bekyuli báyiƒala-ma ni, beklubi baakɛ́ adila ani na ebo-ma emini na kalɔ kemmo.","Chineke nyekwaara anyị na-akara aka mere ihe niile. Na biko nyekwaara m nani, biko biko biko adịla anyị na-egbu ma emini na-akara aka",1.0,0.6526
+358,"Kalɛ kani na Samuel ɔɔbi lɛlɔ teebu ni, lɛni na Unwoti ɔsiaku-nwu.","Kedu ka a na-asụ mmiri n'asụsụ Igbo? Lelee na onwe ti, ọ si akwụ",1.1667,0.6346
+359,"Na bina ƒui bɛ́ɛnu ala amɛni bɛ́ti, anwuɔsu biiibo kenye kadi na biidie.","Nabi na kwie, be nu ala amen beti, anwasubi igbokeyin kadi, nabi di",0.8462,0.2857
+360,"Awɔ, ƒɔ lɛtula ku ntu ɔsii ɔni nde-nwu lili mmɔ na bɔtɔlɔ.",Awa fọlẹ tula kụ ịntụ ọsị ọnị ịndewụ lịlị ịmọ na abọlụ.,0.9167,0.5455
+361,"Amu na Unwoti ɔ́su Mose ɔnini, “Tiku Israel batɔnkune bammɔ badi da na bisie lɛtɔtɔ blii.",Amu na nwunye ya bụ Sefora n'ini. Tupu Izrel batara ngụ n'Igboamaobadiida na mbido narị afọ nke iri,0.9375,0.6
+362,Unwoti ɔdubute-mii kusɛ kusɛ na bina edula ani bɛ́va adia kaduɛ na adila ani na bɛdubuti edula ammɔ bɛnwa lɛnɔ eƒu na emomo.,"O nwere otu odible Temitope Balogun na-akpa na idula ani be va, adia ka du ya na adila ani na akpa di otu idula amaghi be nwa le no efu na emumu.",1.087,0.4747
+363,Na ɔdi sɔsɔ ka badi baasu Kristo litemi lɛmmɔ ɔsika beekpó kogyulo na baawia lɛnyi ɔsu.,na odi so so ka ba di ba so kristi le tebele mvo o si ka ba ekpo ko juru na ba wia le nye oso,1.4375,0.338
+364,Ti Lewiƒuɔ bammɔ te Aaron ku nwuna bebi bananabi.,Te la weh foh bahmoh te aron goh una bebi banana,1.0,0.425
+365,Mmomu kadanku Katɔti Kɔyu ɔyikun budie taatina ɔni na bɔ́ya na bɛ́ti ka sɔsɔ na ɔdi.,ka dangu ka to ti ko yu o ye kungu di ta ti na o ye na gbo ya na be ti ka so su na,1.4375,0.3636
+366,"Unwoti ɔnini, “Amii Yudaƒuɔ, dɛ na ndubɔkana na liti bina kɔtu bɔni lɛkyie-mii?","Nwantiti oge ni, a mee ya udakwuo, ndị na-anọgide oge ka na-aleti bi na kọntubuọ niile, Chairman",1.3077,0.6129
+367,Anwuɔsu ɔ́ya na ɔƒɛƒɛɛ ɔdi úkpo ɔ́vi ntu bɔmmɔ anumi na ɔ́ya na ntu bɔmmɔ bɔ́kpɛ.,A na-asụ ọya na ofefe odi ukpo ofii n'ntugbọmọ anụmi. Na ọya na ntugbọmọ,0.875,0.5246
+368,"Na ama ndi, Boer ubidi ɔnanabi ɔni baalɔ Bela úbenwini ɔga na Edom.",Na ama ndị bụrụ obi dị ọṅụ na obi ọṅụ na-abụ ọṅụ,0.8462,0.6792
+369,"Ɔmɛni ɔsu ni, lɛla biala lɛ́bla nwaa na ɔ́ya na bekpone bani ƒui mɔɔgyumana aban ɔtɔ mmɔ ku bani ƒui nkya mɛni bánu báti ka ɔni ndi Kristo Yesu kabla ɔblane ɔsu na ntɛ ɔtɔ.","Omenala ndị Igbo na-abia na-ebla n'oge a na-ekwu na ọ bụ ụbọchị ọjọọ ma ọ bụ ụbọchị ọma, ọ bụ omenala ndị ọcha na ndị Kraịst bịara na ya.",0.9429,0.7463
+370,"Amu ka Yudaƒuɔ lɛkpa lɛni baalɔ bani Ƒarisiƒuɔ bénu ka nwuna lɛlɔ atɛ ada bekyuli bammɔ akɔ lɛni ɔsu ni, ama ku bakpane benengu bása lili na bátala kakpakɔ bagyumanane badi banii betéƒie Yesu.","Amaghị m ka unu ga-afọ lepụa na ya baa loba na Paraclete, ọbụ e nụ ka unu na-elọ ate adabechiri gba mụ akọlị n'ọsụ nị. Amaghị m ụba kpanyebenu ngụba salịlị. Na mbata la ka kpakọ, bajụmana nụ ba dị, ba nị bete fịe ya bụ",1.2941,0.4904
+371,Yerusalemƒuɔ bákya-mi kɔnyi geen na uwi ɔni na bákɔ bésie bana asa eli bátakyula oloƒui béte Baal baƒiɔ na beewi ntɛ kalɔ teete baƒiɔ bamba.,Jerusalem fụọ bacha mịkọrọ ịgị na uwe ọna na bakọbe si eba na asa ịlị bata chula olọfụ ịbete baalị bafịọ na bewi ntekalọ tete bafịọ,0.96,0.4123
+372,Na mɔɔsu-mii nnii bɛdi-mu lɛlɔ ƒui na kalɔ kani bísela bitéti binwini bina kadikɔ mmɔ lɛlɔ.,"Na mọsụmị ịne, bẹ dị mụ n'ọkwa ị? Na akalọ karị ịbịsịlị abị teti ịbị nụ ịbị na ka dịkọ ịmọlịlị",1.1875,0.5616
+373,Na ala ani na baayɔ́ na anya mɔɔda-ma kubiti geen mmɔ adubɔyii akya uyɔ kemmo.,"Na ala Igbo anyi abuo, na anya m uda maku biti gi bu adigboyi acha uyo",0.8,0.4754
+374,Limeyi lɛmɛni na Unwoti údie úte-bu ka bɔdi lɛlɔ.,Ime eleme na onwete udie utegbu ka gbodiri,0.7778,0.4872
+375,Na bakloƒu ku begblebi ku benengu ƒui lɛlɔ lɛdubɔyɔ-ma na batɔ ku ebiti.,"na akpa akụkụ be egbere be, kụbe na ongo ofu ị, lele ọrụ dube ọyọma na akpatọnku ebiti",1.2308,0.5345
+376,Mɔɔyɔ́ ka alɔ-mi lɛnyi buni ete Ƒarao na bada-mi bedie ɔtɔ ɔni na bákya-mi mɛni kemmo.,Mayoka alọmi l'anyi bụni etesị arọ na kpadamị kpedia ọtọ ọni na kbacha mị ime nịke,0.9375,0.4394
+377,Na bakɛ baaví ketele kemmo ku abi akɔ na bélie atakpɛ ku kalɔ libu kemmo.,Na banye baa viketele kemu ku abia ku na beli atakpe ku kaloli bukem,0.7333,0.2241
+378,"” Ɔƒɛni ni, Onan ɔgyi ka si anwu ku ɔnwani ulekudi ɔmmɔ báwɔ ni, bebi bammɔ baaadi anwu ɔlati badi.",Onye na-ejikasi anwu onwa ni ulekwu di oma obughi ani? Bebe ba ma obaa di anwu olati ba di,1.0,0.3684
+379,“Aabu anii ƒula bɔdia bɔvili ɔsu na Katɔti ɔɔní-ɔ kɔtu na lɛbibo lɛmɛni udu lɛɛsiáku-ɔ?,"A bu m onye na-abụ abụ gospel, na-abụkwa abụ otu onye okotu. Na-ebigboremụne, udurechakwuo",1.0,0.7101
+380,Na bekisine benye baabla kakwɛ na Hesbon ɔma kemmo kalɛ na babla na bada-a ngba liku.,"na be kisi na be nye baabla kakwe na Hesbon Omakemu, kale na baabla na badda Nkarlik",0.8125,0.1765
+381,Na bádi ɔda bubo bɔmmɔ lɛlɔ aani kalɛ na Unwoti ɔkɛnku Mose lɛlɔ ɔ́su-ma kalɛ.,"Na badi oda gbo gbo b'omolelo, a ni kale na nwoti oke ngu moselelo osu makali.",0.9333,0.3279
+382,Bina kasusu ɔlɛka kabla kenwi ku Kristo Yesu kadi.,bina ka susu ole ka ka bla ke nwe ku Kristo Yesu ka,1.0,0.122
+383,Na banana békpeyi bana likwi na bekyuli békpeyi bana eli na békulo lɛlɔ ekpo muedi na bada adala ani mɔɔtina ka beewulo kɔnyana.,"Na banana bekpe ibana lekwii, na kpechiri bekpe ibana eli na bekulu lelo ekpo mudi na bada adala ani ma otu na ka be wulu konyana.",0.6522,0.219
+384,Yiƒala ƒula lɛlɔ bekyuli ƒui ku ƒɔti kaduli bekyuli ƒui.,"Ifala, fulalelu betshilifu i, kufika dule betshilifu i",1.0,0.413
+385,Binwini kama bɛkya baƒiɔ bammɔ ƒui na biti bina kayi bite Unwoti ƒui kede kede.,Bụ onye ka mma becha ba fụọ? Bụ amaghị fụị. Na bịtị bị na ka ị bịtị onweti fụị kedegede.,1.2667,0.5312
+386,Ɔ́vɔ ntu kewikɔ bonwu kamɛni ɔ́lɛ bakɔ bebuo bavɔdi leevu-inyɔ lɛlɔ.,Afọ ndị nke wikọbụrụ kameni ọlaebakọ bụ gbuo bafọ dị na ịnye ọlịlọ.,1.1818,0.5741
+387,Na ndubɔtuna na ulie ku keyi buɛɛ.,na ndụbụ túná na ụlịkọ nke Igbo,0.8571,0.5185
+388,Bi ɔsu na naaakɛ́ bɔnwuna na mina lɛlɔ ƒui kemmo.,Bịa sụ na mụ na aka gị bụ nwunye na m na-alere ofu ike,1.2,0.5526
+389,"Ɔkɛnku ɔmɛni lɛlɔ ni, ɔdi biala lɛnumi litegyie na ɔnwani ulekudi lɛlɔ kalɛ na waƒiɔ-nwu.",O ka mma o mee ya lele o ni. O di biala le nu mili ta eji na onwa iri okudi lele. Kele na Wafio.,1.4,0.4583
+390,Lɛla biala mɔɔnwuna na lɛkya kalɔ kammɔ lɛlɔ líkpi.,Lele biala m onwuna na lecha ka o ka m onwero ike,1.1111,0.4524
+391,Mina kayi keewulo ku Moabƒuɔ kɔnyana.,"Nna, ka anyi kewe loku mu afu oko ya na",1.6667,0.3871
+392,"Bɛdubo abi bubo na bekyuli beteekpeli bina ala taaƒɔ, nsu ukyuli biala uuubo na ukpo ute-mii.","Bia do bu abibubo na be chine bete kpelemi ibi na alatafo, nso ochili biala ugbo na ukpo utemi.",0.9375,0.32
+393,Na mɔɔsu-mii nnii bɛya na lɛlɔ litaayɔ-mii na Blɔti kemmo.,"A na m asu mi ini, be ya na Leọlịta Ayọmi na-abụọ tike",1.1,0.3913
+394,"Anwuɔsu si ɔlɔna kakɛ biala kábla kaduɛ kalɛ na ɔ́manku ni, ɔlɔna umodi ɔmmɔ ɔɔyu ɔkplu na bɔyɔ kemmo.",Awa so si olona ka ke biala ka bla ka due kali na oma nguni olona umodi onwe oyu okwulu na boyo ke,0.9474,0.3457
+395,"Uute-nwu adila abuni geen na ɔɔdi, na Hegai ɔ́wia belekubi kabla bablane maatɛ úte-nwu, na úte-ma lɛtɔ lɛni mɔɔdia bɔnu teetulo ƒui na ɔga kesii mmɔ na bakya.",Otu a ka Adirika bunigiri na odi. Na ihe ga-ewia kperekwubi ka brabrabra na-amate otu na uto ma leton le nime odi a bu na uto etoro fu ya na ogakesi imo na,1.0,0.4435
+396,Na útiku-mi úselaku aani kalɛ ketu kani néyi keeminime.,Nawụti kụmi ịsị la kụ a nị kalaketu ka ị ne yike ịminị,1.4444,0.3556
+397,Na beƒiebuo ku baasɛ bekpidi basɔ baaadubo-nwu bukpoku.,Na be February 14 be the day wey dem dey celebrate Valentine's Day.,1.5,0.913
+398,na uwi ɔni na úti ɔ́kpa Baal baƒiɔ.,na uwa onye na-uti okpa baaba fe,0.875,0.3846
+399,"Ukyuli ɔni mɔɔyɔ́ ka ɔbla lɛla lɛni na Katɔti ɔɔwia ni, ɔdubɔti si ala ani na mɔɔtina ási Katɔti kudɔ iye ami ɔlati ɔyikun kemmo na muutemi.",Onye iro anyi bụ ajọọ mmụọ. Ọ bụala laa n'ala nke ntọala ọwụwa anyanwụ. Ọdụghị otú isi ala anyị mọọtị na-asi ka ntọala kwụrụ ọtọ. A mịọla ti ọyị kwụkụ mụ na mụ tem.,1.1852,0.7027
+400,Na kadi bamba bekyuli badubo-mii lɛnyi bɔlɔ bewida bekyuli banii ɔlɛku-ma kalɛ na ɔ́lɛku-mii.,"na ka diba mba be Chuli gba dubom, lanyị gbalụ be nwe da be Chuli ba nị olekuma kalị na olekumị.",1.3571,0.3067
+401,na Yudaƒuɔ badi nwuna kevomadɔ kemo.,"Na Judah bu obodo una, kevu mado ke",1.1667,0.4
+402,Eser bebi bananabi ndi Bilhan ku Saawan ku Akan.,"Ese baby banana bi in di bill han, ku sa wan ku akan.",1.1111,0.1538
+403,“Libui lɛvɔdi lilákyaku nwuna ɔvɔne unyeƒi.,"Ebe ọwụla ọ dị, ị lachakọọ, ụnā ọwụla onye",1.5,0.7778
+404,"Uwi ɔni na binye bɛɛnu ɔnantu anumi ni, Unwoti ɔdubuti ɔƒɛƒɛɛ ku kɔnwinimi uyile kayaa uti utédu ka ɔyila-mii udu ƒui.","Onye na-enye be ya nri na-ntu anụ mini. O nwere ntị ọdịghị ntị ofefe ka o kọwiri m, onye ile ka anya utị uteduka o yiri m udofia.",1.2857,0.5789
+405,Nsu Unwoti anu asia bina ekpidi ƒui lɛlɔ na ɔdubo-mii kɔtu bɔni.,Ndi ụmụntị a nụọ asịa banyere ekpịdịkwụ ịlẹlọ na ọdụgbọ mmiri Kotubọ,0.9167,0.6471
+406,Israelƒuɔ Bébo Abi Na Egyipte Kalɔ Lɛlɔ.,Israel bu obodo lelee lịdị edị. Israel bu obodo ebụ apị na Egypt kalọlị.,2.0,1.1818
+407,“Muuwulo teete bebuo kadikɔ kani na kakya abi lɛlɔ.,Mụrụ na tete be gị bụ ka dịka ọkà n'akacha abịrị,1.2222,0.5854
+408,"Na mɛni na ndubo bulie uwi ƒui, ɔsika mɛni kadia-mi.","Na meni na Indubogobiri Owekwii, o si ka meni ka di",0.9,0.4
+409,Amii bani nkya Sion Kɔbi bɛya ebiti ada-mii.,"Ami, bani zazzabi onkobi, be ibi cha adami.",0.875,0.4286
+410,Bana akɔ ɔdi kadii iye lɛgbanvuo kabuli kaláƒɛnimi.,Bana akọ ọdịka dị ịnyịle gba mbu ka bụlị kala afa enu,1.375,0.4651
+411,"Na si beekeli kɔtaminta kɔbuɛlɛmii atula ni, atula ani mbo ɔkplu etulo edeedi ndubo-ma bɔtu.","Masi bekele konta mita, ko gbele mi atula ni. Atula ani umu okporo itulo ede di aduma bu",0.9333,0.3333
+412,"Na bani mɔɔsu-ni ku kasusu kabuni mmɔ ni, baasu-ni ku bɔyɔ.",Mba ni mọsụ n'ikuku ka ọsụ ka gbinye n'igwe ni. Baa sụ n'ikuku bụ,1.1818,0.5111
+413,"Bátáda keliekɔ na Reƒidim, nsu ntu bɔni na bani buuubo mmɔ.","bata da ke leko na refidim, in su ntu gbo ni na ba ni gbu gbo",1.1818,0.2979
+414,Lewiƒuɔ bábla lɛlɔ sɛɛn bɔbla ɔdi ɔmmɔ na báƒɔ bana adala.,na-ewefu abamabla leloseng boabla odi omo na gbakwuo bana,0.8182,0.617
+415,Ya na ƒula bakpane bataabla ala ani nse siin uwi biala.,"Ya na fula ba kpa ne ba ta bla ala, a ni ze si wi bia",1.1818,0.2045
+416,Lɛla lɛni kani na baakana mina bekyuli bani na ala eekpóku bɔsu ndi ka bese-ma kayi kekpludi ka badubɔkɛ keyi buɛɛ.,"Ndeewo, a na m enye gị aka na-achọrọ gị ihe niile a na-ekpo kubọsụ ndị ka bịsị ma ka anyị keekporo dị ka abadịbọọ nke igbo.",1.1429,0.6022
+417,Bina ɛlɛɛ kani ndubɔlɛ ɔgbankpi ɔmɛni kemmo na basɔ benwini besie Yuda kalɔ lɛlɔ.,"Bina elé kani ndubó le gbankpi, oméni kémo na basó béwuni bé sié yuda kaló le",0.8571,0.2985
+418,"Na si bátɛ bálɛɛ ni, badubɔgyinya ku ɔlɔkplu ɔwɔdi.","Na si ebe baleni, gbadugbo ji ya aku olokpo owu odi.",1.0,0.5122
+419,"Na si bíduo bukpoku bɔdi kemmo na ala amɛni aalɛ́ku-mii ni, mmɔ na bɛdubunwini bisie Unwoti kudɔ na binu nwuna litemi.",Na-esie beduọ bu kwokwo kụba ọdịkema ọ na-ala amị nị alee kụmịnị. Ịma na beduọ bu onwe nị bisiọ onwe ntị kụdọ na bịnụ ụna alịteme.,1.1429,0.4787
+420,Naaayiƒala ɔdi lɛdi lɛmmɔ budie bute uwi ɔdi.,Na ife la odi ile di ile ma bu di ebute ubi odi,1.625,0.3784
+421,Na béti sika ugyiedi ɔdi bábla ɔmantɛ akɔ ubi ɔdi udu.,"Ndi be anyi, ka oji eri, odi mma, bia nu ako ubi odi.",1.1818,0.5581
+422,ku beƒiebuo ku bebuo bamba ƒui na aku kemmo.,"Kube fi egbu, kube gbuo ba ama fụọ. Na akwụkwọ",1.1111,0.4286
+423,bɛtɛ ami ku mina kemo ntɛ litemi lɛmɛni na bɔnu.,"Bette, amikwom na akim ntelite, m lemene ina gbo",1.0,0.4737
+424,"Na bélie kɔka limeyi lɛmmɔ lɛlɔ, na bédie bana alaekpidi kalɔ básu Unwoti banini, “O Unwoti, bɔ́bla likpidi bɔ́ƒiɔ-ɔ.",na beleko kali me ile mụrụlụ na bido ebe na alekwe dikalo baso onweti bani ni o onweti gboara dikwe di bofia,1.0,0.3736
+425,"Ɔkɛnku bɔƒɔtaadi lɛlɔ ɔsu na ina ka Abraham ɔ́ɔbi ɔ́vili na Sara ɔlati muedi ɔ́vi kɔwɔ ni, Katɔti ɔ́ya na úbenwini ubi ɔti.",Okenye bu Abraham di na elu o su na i na ka Abraham obi o vili na Sarah ola tinwedi o viko wuni katoti o ya na ube nwini obi,1.087,0.3368
+426,na bina ala akya-mi kasusu kemmo uwi ndi uwi.,na bina ala achami ka susu keme uwi ndi uwi,0.4444,0.1143
+427,"” Nsu Yudaƒuɔ bɔyia ɔsu ni, ukyuli ɔdi útakana na ɔsu lɛla lɛdi ɔlɛku ƒui na nwuna lɛlɔ.",Onye isi ụlọ ọrụ kpọrọ ya ọsọ n'ihi na ọ dị uta kana na ọsọ ule na-adịghị ọkụkụ ya na ụlọ akwụkwọ.,1.1765,0.7941
+428,Anwuɔsu Enos akwa ani ƒui na ɔ́ƒɔ asa na úkpi adi akwa eti leevu-maane ku ɛlɔ .,"Ọwụ nsogbu adịghị, anyị fụrụ ya na ọfọdụ asị na okwu adịghị akwa etu ị lefụrụ anya ka ọ dị.",1.0625,0.8
+429,"Ɔmmɔ ɔsu ni, úti nwuna ulekubi kabla ɔblane úte Yakob aani ulekudi.",O ma oso ni. Otiwa na ulekubi kabla obla ni ote Jacob ani ulekubi,0.9167,0.2778
+430,Na bénwini bekpone bani mbo ɔyikun geen na bádi kadi bamba bekpone ƒui lɛlɔ.,"na be nwini bekwene, ba ni mu oyiwu nke na badi ka di ma ama bekwene fu ilelo",1.1429,0.2903
+431,Katɔti bekyuli bani ƒui nkya mɛni beegyele-mii.,"Afo ji wee chili bani, wee incha manyi be ejili mee.",1.4286,0.5641
+432,Anwuɔsu ɔkɔlɔ ɔmmɔ ɔsia ntu bɔmmɔ anumi ɔɔví.,Awa nso ocolor omo osia intugbo omo anumi,1.0,0.5676
+433,"Ɔmɛni bɔsu ɔsu ni, Yudaƒuɔ benengu básɔ báwia ulu bébu ka badu-nwu.",onweghi bosu osuni Judah fuo be Nongen gbasoba ya uru bebu ka kpadu,1.0,0.5283
+434,"Amu na Unwoti ɔ́su Mose ɔnini, “Su Aaron anini, ‘Si éti lɛsogya maatɛ lɛmmɔ aalɛ ni, na anu ka lɛsogya lɛmmɔ bukeye bɔɔtina anumi kakɛ.","A na-enweta ya osisi onini, so arọ onini, si etii lesọja ma tele ma a le ni na anuka lesọja le ma bụkọ ya gbaa ọtị na anụmịka.",1.04,0.4615
+435,Ɔbambadi lɛnɔ ndi Basan ɔga ɔni ndi Og.,"O ma di lenọ ndi Basan Oga, ọni ndi Og",0.75,0.2581
+436,"“Yeremia, uwi ɔni na éye kalɔ kammɔ ni, ɔ́tina ka limeyi lɛdi lɛdubo ɔni na basɔ badubɔkana na beye kɔlɔ bete lɛlɔ.","Jeremiah, o wee onye na-enye aka na-akọ amụma. Ọ ti na ka lime dị na-eledụ gbo, ọ na-gbasọ gbasụ ụgbọ ka na-ana be ya ka na-abete le",1.1818,0.5506
+437,"Amu na Yesu údie kenye ɔnini, “Si bekyuli báni ntu bɔmɛni ni, utukwɛ ɔɔsɔ taada-ma.",Amaghị m na Yesu dị ekenye ọnụ nị. Sịba juru ba nị intubo m'enị nị. Otukwe ọsọ ta adama.,1.1333,0.4219
+438,"Líte-mii lɛla biala na bɛɛwia, nsu bíni-mi na bísie bɛɛkpá baƒiɔ.","Ite mụ ịle ala bịara na be gị a, ị sọbụ nnị na bisi be gị kpaba kpọọ.",1.4545,0.549
+439,Bɔ́ƒɔ bɔ́di ka Yesu úkpi na ɔ́sɔ ɔ́ta uli ngba na ɔdubɔsɔ ɔsi katɔ mmɔ ubo lɛnɔ.,"Ọfọbọdị Kanyesụkwụ na ọsọ ụta, ụlị ngba na ọdụgbọsọ sị ka tọmbọ ụgbọelu",0.8235,0.5593
+440,"Ɔmmɔ kama ni, Mordekai ɔ́sɔ únwini úsie nwuna kabla kablakɔ na ɔga kesii ɔban kenye mmɔ.","A ma ka ama ni, mu de ka oso onwene use nwuna ka bula ka bula ko na oga ka esi oba kenye",1.25,0.3571
+441,Ɔmmɔ ɔsu bédie nkyuli apim unwi bálɛku kaba biala kemmo.,O ma osu be di e nchiri apin onwa ibale ku ka ba biala ke,1.4,0.3696
+442,"Uwi ɔmmɔ na Katɔti ɔmu úlieku-mi, na mina bebi ƒui báka bámana-mi.",Uyo mbono aka toti omu ule kumi na mina bebi kwe bakaba mana,0.8333,0.3333
+443,Na lɛlɔ lɛɛtɔ́-ma aani uleku ɔni ntɛ kɔwɔ.,"na lelo leo toma, ani uluku oni ndeko",0.875,0.4062
+444,"“Nsu ina dɛ na bíveyi bɛ́kɔ katɔ katɔ aani kɔdigbo aasɛ na bɛ́bla bina ayu na ayabi lɛlɔ muedi ni, ndubo-mii kalɔ buboku.",so ina di na bife ibeko katokato a na iko digbo ase na be blabina ayo na aya bilelo mwedini ndigbo m kalogboko,0.8696,0.3011
+445,"“Na uwi ɔmmɔ kemmo ni, badubuku Yudaƒuɔ baga ekubi ku bana lɛku batine ku bakpane ku kenye bediene bedie kalɔ kemmo mmɔ ku bekyuli bamba ƒui bani nkya Yerusalem.","Na oge oge ochie, mgbe ụdị akwụkwọ dị iche iche na-adịghị, ndị mmadụ na-eji ihe ndị sitere na okike dee ihe. Ha na-eji nkume, akpụkpọ anụ, na papyrus dee ihe.",1.0,0.8077
+446,"Na si ina bɛ́sɔ bɛ́wɔ bebi na bɛɛyɔ́-ma dɛ muedi ni, ndubo-ma bɔdu ƒui.","Na sị na ọbụrụ baby, na ọbụrụ ịyọ ma dị mma dị nị. Ndị gbuo ma gbuo",1.1429,0.6078
+447,Ɔsika bánu-nwu báti ka ɔɔɔdi ubi keeke na ɔdi na báwɔ.,Bà nụ bà tị ka ọ dị ubi ka e ke na ọ dị na ba,1.0909,0.5238
+448,Na bakɛ beebó like na egyiiku kudɔ ka bati lɛla lɛni na babla!,na báká bé bólíké na ejikwukwú dọ́ ka batílele n'íle bábálọ́,0.7692,0.4898
+449,Lɛwu ligyiedi ku sika asɛɛ ani na akya ku ala ani na áwɛɛ anumi mmɔ ƒui ɔkyiɛdi na ɔdi.,Na wuli jeri ko seka ase ani na acha ku ala ani na awe anu mi nmo kpi ochie di na,0.7895,0.3824
+450,Dɛ na Unwoti ɔdubɔkana bekyuli bamɛni adila buteete aani baƒonubi na kesii kani na livo lɛbuni lɛkya na bataakun?,"na nwunti odubokana bechuru igba meni, adirabute ete, ani bakwa nu bi na kesi ka nina levo lebu ni lecha na bata aku.",1.1053,0.266
+451,Bɛbla lɛla biala kalɛ na bɛkana na bilie na unwi bɔbla kemmo aani kalɛ na Katɔti Kɔyu kɔ́da-mii kɔ́sala na kúte-mii keyi buɛɛ.,"Biafra bụ obodo nwere onwe ya, a na-akpọ ya Republic of Biafra, nke dị na mpaghara ọwụwa anyanwụ nke Naịjịrịa.",0.9565,0.8283
+452,ka ami ndi Unwoti Israel Katɔti Ɔyikune Ƒui.,ka a me ndị nwenti Israel ka ha tọọ ma ọ bụ ịkụne,1.375,0.5278
+453,“Ɔgbini ɔɔkywɛɛ kamia teeƒie aasɛ taakya lɛyu kemmo.,Agba ni ochu nke mbu na-efu ya a set achara na uke,1.5,0.6512
+454,Na bakɔ bani na nkya abi mpim mpim lɛlɔ ƒui badi ami badi.,Badi,0.9231,0.9111
+455,"Na aaadubo bɔni bude Unwoti kakpakɔ munu munu, mmomu ama alati adi na adi.","na adubo, boni, bude nwunti kapako, munumunu, imomu ama alati, adina",0.7143,0.2034
+456,Na lɛni kani na nwuna lɛlɔ atɛ ada na bana akɔ mmɔ.,"Unu lele nka niile, unu lelu ate ada na gbanakọ",0.8333,0.5128
+457,Na ndubo bunyimi bɔdi bunyimiku-ma na buuubo kawɔlɔkɔ kadi kudii.,"na Indigbo bu nyem igbo, na ibu nyem ikuma na bu ugbo ka wuru oko ka di kudi",1.6,0.2963
+458,"Ɔni na bédu-nwu kudɔ ni, báyu béwi kalɔ mmɔ na bélie-nwu kudɔ emeyi maatɛ usien ku ɔƒɛ.","O na-abụ e do nkudo ni, baịobu e wee ka lụọ mgbọ, na be lee nkudo, ị ma ị ma ate usekwuọ",1.1765,0.5522
+459,"Mmomu si bɔ́su litemi geen na bɔyɔ kemmo ni, bɔdubɔlɛ lili aani Kristo ɔni ndi bula ƒui lili mmɔ ɔlati na ulu biala lɛlɔ.","mụ onwe m sị gị na gbaa ọsọ kemgbe, bọdụ gbaa elili, a na-ekristọ ọ na-indigwula fụọ elili mgbe olati na ụlọbịa elili",0.9167,0.5789
+460,Kadi bekyuli ƒui badubo ƒula keku kani na eewulo bunu.,"Ka di be chineke ebe adighi ofu na akuku, ka ni na ewu na bu",1.4,0.5
+461,‘Bi ɔsu na ávɔ-mi lɛni iye átati-mi bɔvɔ.,"Bịa ọsụ na afọọ mịlịanị, ịyị, atatị mị bụ",1.0,0.6667
+462,"“Ɔmwi lɛnɔ ni, nsɔ ndubo bɔdɔ geen, ɔsika Katɔti unye ɔɔní-mi kɔtu kpakplaa geen ina ɔni na muudumo momoomo mɛni.",ụmụ ileno ni ịzụ nụ ụmụ gị ọ sị ka ka tọọtị onye o nime kọ tụkwa kwa gị ị na ọ ị na mu dum ụmụ ụmụ,1.3,0.5843
+463,Bivele-nwu na ɔda lɛyalɛ ku lɛsɔnɔdi lɛmmɔ ɔya.,bebelu na oda le yale ku le son di le mo,1.125,0.4474
+464,"Na badubo bɔnu bɔti ka na bana bɔdia ku bana bebi bɔdia ɔsu ni, ami lɛti pɛ kani na ɔlɛka bakpa.",na badu bu bonu botika na bana bodia ku bana bebi bodia osoni. Ami leti pekani na ole ka,0.619,0.2162
+465,Na lɛƒɔndia etemila akya-a kenye kemmo geen.,N'eleghi anya etu mụ na gị,1.0,0.75
+466,"Unwoti ɔnini, “Israel, líse kenye ka Limeyi lɛdi lɛdubo ni, ƒula adua ƒui bekyuli badubɔsɔ benwini mina badi na ami lɛdi bina Katɔti.","Nwanti o nene, Izraeli le sekene ka ime ile di ile duboni. Ula adu afu ebe choli kpalu bu oso obi nwuni mi na abadi na ami le di bi na",1.2174,0.3585
+467,"Na begblebi bammɔ bɔsɔ bɔsa kunyɔdi ni, na Mordekai ɔkya ɔga kabla bablane benengu akɔ na uunye ɔga kesii ɔban kayakun.","Ndi egbema gbasobaso kunye odini, na mudi ka ocha oga ka bla bla bla na ekpe na onku ako na unye oga ka esi obaa kaya",1.1905,0.4124
+468,"Moab kadi bekyuli, bɛɛsu taatina ka bibo ɔyikun bitulo-mi.",Mụ a kpọ a Dibe Choli. Bịa sụọ taa na ka bụrọ ọyị gị bụ Tulọm.,1.6667,0.5106
+469,Na bukeli na líkeli lɛ́si mmɔ ɔmwi ɔmɛni líbo muuduo.,"Na bukeli na likeli lesi imo, omui omenili igbo mudu.",0.7,0.3095
+470,"“Na mɔɔsu-mii geen ka ni, ukyuli ɔni muunú-mi litemi na ɔɔƒɔ́ Katɔti ɔni nátala-mi taadi ni, uli ngba bɔni nsɔ naaadubo bɔsa kudii.",Na mụ sị mị gịnị ka ni? O chiri a nị mụ nụ mị rịte mị na ọ fọkatọtị ọ nị na-atela mị taa dị nị. Ụlị ngbagbọ nị ị sọ na-adụ bụbọ sakwụ dị,1.3478,0.505
+471,Mmɔ na Noa ɔ́ti ka ntu bɔmmɔ bɔ́ɔkpɛ bɔ́wɔlɔ.,Mụ na Nne mụ wa ọtịka ntụgbọ mọọ kpọọkpe gị bụọ,1.1111,0.7576
+472,"Nsu Egyipteƒuɔ ama ni, ɛpu ɔmmɔ úti-ma ɔni na baavia-ka.","Ihe a i ji ife a ma ni, ebu o gbo utima, o ina ba afia",1.5,0.5349
+473,Na bávɔ asogya ugyii ɔmmɔ na ulu ɔni kani lɛlɔ na Unwoti ɔ́tina Mose.,na bavo asoja udi omo na ulu oni kanilelo na nwenti oti na mosi,0.7857,0.3333
+474,"” Ɔmmɔ ɔsu nwuna lɛlɔ líbo liigyie nwuna banwani anumi, nsu ɔti úti litemi lɛmɛni ɔ́kya kasusu kemmo.",Ọmọ ọsụ unu lẹlọ liboli ije unu abawani anu mi. Insụ ọti uti lete mi lemeni ọcha akasusu ke,1.1176,0.4
+475,Na bákono-ka na béti kɔma ku ogya bábala-ka kenye asa na líti sika ɔƒualadi ɔmmɔ líte Hanamel.,na bakonoka na kpeti koma ku oja babalaka kenye asana letisi ka ofulari omolite ha na me,0.7647,0.24
+476,Akwa anyɔ sɔɔn mɛni ka kɔka kúbo kalɔ ƒui lɛlɔ.,Akwụkwọ anyị ọsọ omenala nke akwụkwọ iko,1.0,0.7297
+477,ama bani nkya katɔ ku kayawi ku kalɔ kemmo ƒui!,Amaghị m ihe kpatara o ji akwaa iko.,1.0,0.7297
+478,"Na ɔɔɔdi aani kalɛ na bekyuli lɛƒɔyɔ lɛɛtina, mmomu aani kalɛ na Katɔti ɔni ngyi ukyuli biala kayi kemmo lɛyɔla lɛɛtina.",Na o di a na-ekele na be chụrụ ya pụrụ ya letị na. Ịmụmụ a na-ekele na ka tọti onye i ji ụchụrụ bịara ka anyị kụmụ na ya yọla letị na.,1.381,0.5918
+479,Ɔ́bla ɔmɛni úti ɔ́klibi Katɔti bekyuli úse kalɛ na beti bebunku baƒɔtaadine na banyuɛ-ma aani Kristo ɔlɔna unwi pɛ ɔmmɔ na ɔlɛ lili.,"Obla omenị utị oklibịa totu be Chịlịụse, kalịna be tị be gbu ngbapụta adịne, na ba nwe ma a naị Krịsto olụna onwepe onvu na olelịlị",1.087,0.4151
+480,Na bitaadi nwuna ɔda bubo ƒui lɛlɔ aani kalɛ na bɛ́bla ɔmwi kadi mɛni.,na bita di nwuna oda bughi kwu i lelo a na kale na be bula omi ka di imenyi,1.1429,0.3455
+481,Bátaaƒɔ-mi etemila aani kalɛ na baawia ketudi ɔnantu.,"Bata fo mi itimila, a ni kali na ba wiaki tu di onando",1.5,0.2955
+482,Ɔlɛka ɔbla kedee ute Unwoti úti útédu ka uwi ɔni na ɔ́su ka wedie lɛlɔ lɛti sɛsɛɛ wetédu mmɔ údu.,Olee ka oblák dị site n'ụbọchị? Ụbọchị ụbọchị dị ka oyi ọlị na ọsụ ka wee diere nọ leti sese wetere ụmụ ọdụ.,1.0,0.6842
+483,Bi ɔsu na bɛ́yila mina bekyuli udu aani kalɛ na baadi adila.,"Bịa sụ, na be ịla mụ na be Chịlụọdụ, a na-akọ na ba adịghị",1.0,0.5106
+484,Unwoti ɔdubugyingya-mii ɔkya kɔlɔ kɔmmɔ ƒui lɛlɔ.,Nwantiti odibo jinjami ocha kolo komo pele,1.0,0.6585
+485,"Ka bekpone bakladi bénwini bébo bana kakyakɔ ni, bana benengu bammɔ béye banini, “Bi ɔsu na Unwoti ɔ́ya na Ƒilistiƒuɔ bádi-bu lɛlɔ ɔmwi?",Ka bepụ nụ ịkpọkịla dị. Benwe nụ be gboo ba na kacha kọ nị. Ba na be n'ogbe ba ma ọ bụ ịyẹ ma ba nị nị. Bịa ọsụ nụ na onwete ọya na afịa isi fụọ ba digbulụlụ ọ,1.6087,0.537
+486,"Uwi ɔni na bɔmu bɔdi banamu ni, bɔ́yii ulu na bɔ́bla likpidi bɔ́ƒiɔ-ɔ.","Onye na-akpo mu ubo di na Amoni, gboyi ulo na gbo bla rikwidi gbo fio.",1.0769,0.5192
+487,"Na ka ɔ́da úbalɛ ni, Eli uli nwuna liboku lɛlɔ na ulu kɔtu ɔɔnu ulu, ɔsika Katɔti Bunyimi Adaka ɔmmɔ lɛlɔ kani na nwuna anu asia.","Naka oda uba le ni, eli ule wu na liboku le lo, na uluko tu onu ulu. O si ka, kato ti bu yin mi adaka omo le lo ka ni na wu na anu asi",1.0769,0.21
+488,"Ka Yesu ɔ́ti ka Ƒarisiƒuɔ bénu ɔmɛni ni, ɔ́tɔlɔ Yudea kalɔ lɛlɔ únwini úsie Galilea.",ka Yesu ọtị kafara si ife ọbụ elu omenịnị ọtọlọ Yudia kalọlọ Unwini Usin Galili,0.8667,0.4242
+489,Na lɛɛɛdubo amii nwuna bebi lɛnɔ kɔnyana bɔnu.,na le dubo ami nwuna bebi le nokonya na bo,0.875,0.2632
+490,Lɛbibo kama lɛbibo na bɛdubɔnu.,Lekki bo kama lekki bo na bedu bo,1.2,0.3846
+491,na Unwoti enugya etela adi liti ku leevu-unwi.,Na unwenti enoja etela adi leteko levu,0.625,0.3514
+492,Ɔma lɛlɔ na bɛɛkya lɛma na bɛɛpii-nwu?,m'alélé na b'echa lema na b'e,0.7143,0.5333
+493,Na kusɛ kusɛ ɔmɛni ɔdubɔsiaku-mii si biinú bina Unwoti Katɔti litemi.,"Na kuse kuse, omeni odubuo si akumi, sebe nu bi na nweti ka ato ti lete m.",1.3636,0.3158
+494,"Ɔsika bekyuli bani nli bukeye kemmo ni, ebi ani na baanwu ndi ebi abuni.","O sị ka anyị jiri banyere n'ihe gbasara nke mụ na gị, ebe anyị na-abụghị ndị ebe agbụrụ",1.2143,0.7544
+495,Ɔmmɔ ndubɔya na bɔbi lɛlɔ budu likpo lɛni na bekyuli banu kalɛ geen na Kristo use bati ƒui na bula lɛlɔ kemmo.,"O bu onye mbu ya na-agba bile na-ogbu duru kpolie na, na-echu ebe anu, kalama gi na Kristu usebati fu ya na-agbula ya na-elo",1.0455,0.5114
+496,Amu na kabla ɔblane ɔmmɔ údie kenye ka Haman na ɔdi.,"Ha mu na ka bla o bla ni, o ma uje kenye ka ha man na",1.1818,0.2927
+497,"Mmɔ na Mose údie kenye ɔnini, “Bi ɔsu na bɛɛdɔnku-mi?",Mụ na mụ sị udi ekenye ọnụ nị. Bịa ọsụ na bee Dọngụ,1.1,0.475
+498,Munuu atakpɛ ndubo bɔta kesii kani na alɛ na ala ani mɔɔlɛ́ku-ɔ mɛni ɔsu?,"Mụ na atụpe nụ gị bọbọ taa ka anyị na-alè. Na ala anyị mụ na ekwu,",1.0,0.5965
+499,Anwu ndi ukyuli ɔni baalɔ banii Kristo Yesu.,A na m di ochichi onye baara mba na Kraist Jisọs.,1.375,0.6389
+500,benwini bekeline na lɛma bamba ala kalɔ tenu ɔsu.,be wange be keline na le ma bamba ala kalo tenu,0.8889,0.225
+501,adi ala ani béti sika ugyiedi ku ɔƒualadi bávɔ.,na di ala na be T.C. ka uje dikwa upradi gba,1.1111,0.5
+502,Na Israelƒuɔ bábla básiaku kalɛ kani na Unwoti úbo-ma ɔda.,na Izrelụ bụ Babla basịakụ kalị ka nị na nwontị ụgbọ ma ọdị,1.1,0.4043
+503,Na bitaya na ɔƒɛ ɔ́nu ɔkya-mii na bina kɔnyi kemmo.,na bi taya na ofe onu ocha mi na bi na konyike,0.9,0.3077
+504,Na Oholibama ɔ́wɔ Yeus ku Yalam ku Kora úte-nwu.,na ogholiba ma owo yus ko yalam ko kora uteu,0.7778,0.2432
+505,Bɛdubulie biteewulo kɔnyana uwi ɔni na línwini kama lɛ́kya-mii na ala ekpoku-mii na bɛyii udu ƒui kede kede.,Bedu bulie bite wulu konye na oge onina li nwuni kama le chami na ala ekpoku mi na be yi udo fuhi kedekede.,1.0,0.2414
+506,Na bebuo lɛlɔ na útaanu anwu ku nwuna banwani.,"Na be gbuo le lo na uta anu, anwukwuo na ba nwa.",1.1111,0.2432
+507,“Unwoti Katɔti ɔni mɔɔwia nwuna kabla ɔblane kadia ni.,"O nwere ka ọ dị, ọ sị mụ wee ya. Mụ na ya kpara ọbụla niile ka dị ya",2.1111,0.75
+508,"Na uwi ɔmmɔ kemmo ni, báakpanku Yoseƒ béboku Egyipte na béye-nwu béte unengu ɔni baalɔ Potiƒar.",Na uwe amụma kemgbe na akpa ngụ Joseph begwoku Egypt na be ya bụ bete ụlọ ngụ ọ na-eche àlà Potiphar.,1.1875,0.5195
+509,‘Bɛlɛ-ma lɛlɔ bɔdi kalɔ na bɛkɛ bɔnwuna.,"Bia, ị ma na ịlọrọ dị ka ọkụ na akpịrịkpa bụ nwunye",1.5714,0.7742
+510,Mmomu nnye kpakplaa ka lɛkɛ lɛyuƒɔla lɛni na Kristo Yesu ubo ute-mi.,mụọ ịnyịkpakịla. Ka lekene yụ fọla le na Kristọ Yesụ ụbọ otu,0.9167,0.4727
+511,Na úvele Unwoti kpakplaa na Israelƒuɔ lili.,Na udele unwe tikwa pula na Israel fuo,0.8571,0.3611
+512,Na bana inyɔ ƒui bátaabla Unwoti kabla na Beer-Seba.,na mana enyop bui bata abla onweti ka abla na besa,1.0,0.3095
+513,"Nsu ɔmɛni ƒui kama ni, bana akɔ kɔnu kútetuku linyese lɛmmɔ.",Bana akọ ka nnukwute tukwụrụ inyịsị,0.9091,0.6875
+514,"Na ɔƒaani ni, áni Israel kalɔ kemodi kammɔ kɔtu ku ɔgbankpi lidu.",na ofe ani ni. Ani Israel kalo ke mudi ka m'okotu ku ogba mpele,0.8333,0.3077
+515,“Na bina akɔ ɔdi biala na ɔ́du ukyuli ɔdi iye úti kɔnu útuku ukpine ɔmmɔ ɔdi ulie kakyakɔ kama emeyi maatɛ.,"Na bọọlụ ọdịnala na ọdụ ụgbọ mmiri ọdịnala, otu kọlụm ụtụ isi ọha na eze na-enye aka na-eme ihe omume.",0.9524,0.75
+516,"Na eti ugyii ɔmmɔ aƒiɛmi lɛtakpɛ lɛmmɔ, na ntu bɔdubɔlɛ bɔsiku-ni kemmo na bekyuli bammɔ bani.",na etu udi omo afia mileta kpelemo na etu bodugbo lee bosi nikemo na pechule ba mobani,0.875,0.3947
+517,Na biti akɔ unwi ku koƒonu kɔgyani kunwi ku baƒonu bakɔdi maatɛ bani nákɛ lɛkwa na bɔsɔ bɔdi buuubo-ma lɛlɔ bɛbla akpala na ɔnyi ƒɛƒɛɛ ɔmmɔ ɔyɔ Unwoti kaƒɔ.,"na beti akọ ụnwī, kọkọfụọ nụ kọja nị kọ ụnwī, kọbafụọ nụ ụgbọ akọdị ma tẹ gbanị na kelekwa na gbọsị ọgbọdị gbuọgbọ malịlọ beblụ akpala na ọnyị fefẹ ọmọ ọyọ ụnwọtị ka",1.0,0.5238
+518,Nsu amii bilésie bilatáwia kevonkɔ kadi na bana kudɔ.,Nso ami bilesi ebilatawia kevo ngo ka di na bana,1.0,0.2273
+519,Na nwuna kaduli kakya abi lɛlɔ na bana ɔma kemmo.,na wuna kadiri kacha abin lelo na bana omake,0.7,0.3077
+520,"Líbile lɛla lɛdi, munuu likpidi linengudi lɛmani na lɛ́bla?",Libe lele lale di. Munu lipidi lele nkwidi leme di nale,1.2222,0.375
+521,“Ina ka kadi bamba bekyuli békpoku-mi ɔ́si mina lɛkloƒu uwi ni.,na ka ka di mama be chili be kpokwumi o si na le kulu fu uwi,1.3636,0.3469
+522,Na bákya Unwoti kɔnyi na bana ɔbladu ɔmɛni ɔsu.,na bacha unoti konyi na bana obladuo menyo,0.6667,0.3158
+523,"“Na uwi ɔmmɔ ni, ńtalɛ teetélie ɔma ɔban kenye na ɔma kasakɔ.","na uwa ya mụrụ ni. Ntaala tetere ya, ụmụaka enye na uwa ka",0.8333,0.5319
+524,"Ala kɔsiakɔ kɔmmɔ ɔdi biala ubo kɔdakɔ ine, na kɔlɛ kɔ́si lɛƒɛnyi ine bɔmmɔ lɛlɔ.",ala ka si ako k'omo odi biala ugbo koda nko ine na kole si lepenyi ine gbomolero,0.8667,0.375
+525,Anwuɔsu Yudaƒuɔ békpo bana bekisine na bádu-ma geen na báblaku bana bekisine kalɛ na baayɔ́.,A na m so ịdọ aka ná ntị banyere ịkpa ókè na mgbasa ozi na-akpa banyere ịkpa ókè na-adịghị mma.,1.2667,0.7733
+526,Bo lɛlɔ na atina-bu lɛla lɛni na adubɔkana bɔbla.,Bọọlụ lẹlọ na-atị na bọọlụ lẹlọ na-adị gị ka na-agba,1.0,0.5128
+527,Ɔsika amii alati bɛgyi geen ka Blɔti limeyi lɛmmɔ lɛdububo aani kalɛ na uyune uuyú ukyuli taatu usien.,"O si kalu m ya na chi be ji gi nkea, bulu otu ime ya na-enwele ndu gbo gbo. A na-ekele na uyo na uyo ochiri taata osi",1.5,0.5833
+528,"O Unwoti, nyimo lɛla lɛni na Edomƒuɔ bábla.",Otu onye otu nyịmụlẹla na ya na Edomfuo ba,1.0,0.5
+529,Ukyuli biala ɔɔwia ka ɔkɛ ɔkpanadi lɛlɔ kɔsia.,Chineke biara o bia ka oke okpa na-adiri gi,1.0,0.6053
+530,Ulu ɔmmɔ kani lɛla na bɛ́sia bɛ́tɔlɔ.,Bulu ọmọ ka ni lẹlọ na bẹ si a bẹ tọ,1.4286,0.3929
+531,"Ɔmɛni ɔdubɔya na amii bani ƒui nésie Egyipte kalɔ lɛlɔ bɛti ka si ami lɛ́su nnii lɛla lɛdi lɛdubo bɔlɛ ni, ɔ́bla bi ɔ́bla dɛ ni, lɛla lɛmmɔ lɛdubɔlɛ lɛni kani.","Ọtụtụ ndị ọbịa na-abịa n'Ejipt kwa afọ, mana ka ọtụtụ n'ime ha na-alaghachi n'ụlọ ha, ọtụtụ ndị ọzọ na-anọgide na-ebi ebe ahụ.",0.9677,0.8049
+532,"-Na ina ka lɛkana lise kayi aani ƒula unengu na Kristo kemmo na lɛsu-ɔ nnii bla lɛla lɛni na ɔlɛka abla ni, mɔɔyɔ́ ka livele-ɔ mmomu.",na ka le kana lee si ka i ha ni kwu la ule ngwu na Kristu ku mu na le so i ni bla le la ni na ule ka a bla ni mo yo ka li vi lo mu,1.2308,0.3431
+533,Anwuɔsu Adam akwa ani na úlie ngba ƒui ndi akwa eti leevu-maane ku avlaatɛ .,"Awa su Adamu, Akwa, ani na Uli nkpa fu i ndi Akwa Etinanvu maani ku afu late.",0.7857,0.2833
+534,na keku kada ƒioƒiooƒio na báyu bewi kalɔ.,na kekukada fio fio fio na ba yube wikalo,0.875,0.1765
+535,Na edie Lewiƒuɔ bani nkya-ma akɔ ese sɛsɛɛ ete-mi.,na edie lewu ikwa obani ncha ma oko esesese eteme,0.8889,0.3333
+536,"Bɔgyi ka bɛ́nu kalɛ na bɔ́da bula lɛlɔ na bina akɔ, na ɔmɛni ɔdi bina kebunku.","Oji ka bee nu, ka le na-abo daa bula lelu na bi na-aku. Na omenala odi bina ka egbunu.",0.875,0.3729
+537,kegidi ku koƒonu badubɔtɛ liku linwi.,kedu ka unu balu? Biko unu,1.0,0.5484
+538,Na ɔti ndi Ismael na ɔnwani ulekubi ndi Nebaiot.,Na otu ndị isi ma na onwani olokubi ndị neba,0.8889,0.3333
+539,"Uwi ɔdi návi ni, Unwoti údie lɛlɔ ɔ́tina-mi na ɔ́su ɔnini, “Israel, ndubo butaayɔ-ɔ uwi ndi uwi, anwuɔsu na lɛ́kɛku-ɔ kayi buɛɛ na muuwiku-ɔ lɛlɔ ku kɔnyana bɔnu.","Onye o di na afini, nwenti udi elele o tinye na osu onini, Ezra, nnubogbute ayiyo owi ndi owi. Awa osu na leka kwa ka igbo na ama owi kwa lele okuko ya na gbonu",1.1071,0.459
+540,Ƒula lɛlɔ na bɔ́sia na búdi bula bekisine búsienku kama.,Bula lello na bosia na gbu dibula bekesi na gbu songo ka,1.0,0.3778
+541,“Binu kalɛ na Katɔti Ɔyikune Ƒui ɔɔbla belikplune ku balalane.,"Binu, kedu na ka otu i kwunewu o ubla beli pulu ni? Kubalala",1.1,0.3529
+542,Na ɔdubɔbla bekyuli bani na báti-ma dii dɛye dɛye kalɛ na ɔ́bla na bana kawɔlɔkɔ kébo lɛni.,"na olu gburugburu bụ isi iyi mmiri na Batimadi, Dehi Dehi, karịa na ọ bụla na-aba na Kaulo kọkọ gburu",1.0588,0.625
+543,"Hiob ɔ́mu ɔdaku nwuna kɔtɛ ɔnini, “Muunyimo uwi ɔni na Katɔti ɔ́da-mi kaduɛ mmɔ, na mɔɔwia ka nka emeyi ammɔ asɔ enwini ebo-mi.",Ya bụ ọmụ ọdaku mụ na kọte ọyị ni. Mụ na uwi ọyị mụ na ya kätọti ọdami ka du ya ịvụ. Na mọvia ka inga ịme ya asọ inwịni egbu,1.1739,0.5464
+544,Sie na atáƒɔ awu ɔmmɔ ku ɔpɔnkɔ ɔmmɔ na eti atákya Yudani Mordekai na ɔban kenye na abla-nwu ala ani ƒui na ásu mɛni!,si nata for awujọọlụ ọmụrụkụ ọpọ nkọmụ na etiti atọcha Judah n'imodika ya na ọba nke nye na Abraham ala Ani-Shui na Asumen,0.875,0.4674
+545,Na baabla ɔmɛni ɔsika muudie bawabane ku bekpinebi bani muuwulo kɔnyana ka baawia kebunku na beeebo katamikukɔ kadi ɔsu.,"Na ba abụla omenala osika, ndị be anyị gba na kwubekwa na ebi, gba na m welu kọọ ya na. Na ba agwụ ya ka egbu ngwu. Na ba egbu kata mikoko ka di",1.6316,0.4554
+546,Hatak úsie útásiaku Mordekai na ɔma kemmo kaduli kani nwi ɔga kesii anumi mmɔ.,Ha taku se uta si aku mu di kaya na oma kemu ka di na ya. Ka ni inwe oga ke si ya nu m ime.,1.7857,0.3594
+547,na bébo-ma lɛkpu ka badubɔkɛ bɔnwuna.,na be gbom na ekpo na abadu gbo oke mgbe onwa,1.6667,0.6
+548,Mmomu bɛdi Unwoti ɔni ndi bina Katɔti ɔda bubo bɔni líti muute-mii mɛni lɛlɔ.,"Mụ na ụmụ be di m nwere olileanya na n'oge na-adịghị anya, ọ dị agbugbo, gbaa na-erite m otu ememe n'ile.",1.5,0.8387
+549,Na Huram ɔmmɔ ɔlati ɔgyi abuala egyiedi lɛlɔ kabla lidu lidu geen.,"Na huru m omu olati, oji agbala eji eri lelo kabla lido lido gi.",1.0,0.3704
+550,"Na muuwulo Kir-Heres kɔnyana, ɔsika nwuna lɛkɔ ƒui lɛ́yii udu.","Na mu wulu kilihelest ko nya na, o si ka una kalofu ikayi",1.2,0.4286
+551,Na údie egyiibi ammɔ ntu kewikɔ ubu.,Na udi eji bi amo ntu uke we ko,1.0,0.4483
+552,Na ɔ́tu lɛkpabi lɛdi úte Unwoti na mmɔ.,na ọchụlụ kpabi ledi ute onweti na ịmọ,0.75,0.3667
+553,"Si Ukyuli Ɔƒunadi ɔmmɔ úbo ni, ukyuli ɔdi uláti kesii kani na ɔ́si.",si uchuli ofuna di omo ugboni uchuli odi ulati gesikani na,0.8462,0.3269
+554,"Na ami Paulo geen ni, lɛ́wia ulu kɔlɛ kɔlɛ ka libo.","na-ami palo geeni, lewe ya olu kole kole ka",0.9091,0.3684
+555,Na ɔdi biala bɔkuku lɛnɔ bɔdi lɛgba bɔka ine ku kakɛ.,na odi biala gbokwuru na bodị legba bọka inne ku,0.7273,0.4048
+556,"Mmɔ na Unwoti ɔnini, “Líbile kalɔ kammɔ na káyii udu, ɔsika bekyuli bammɔ bátadi mina litemi lɛlɔ na béni mina ɔda bubo ku ala ani na mɔɔtina-ma.",Ima na ụwụnti ọnini? Libele karọka ma na akayi ụdọ. Ọsị ka kpechiri be ama bata diminalite mịlelo. Na be nimina ọdabụgbọ ku ala anịna ma ọtị na,0.8889,0.386
+557,"Na bina banwa baƒɔtaadine lɛlɔ bɔyɔ ni, útalɛka bunweni-mii lɛla lɛdi na ɔmmɔ lɛlɔ.",Mazi Nnamdi na-agba mbọ hụ na a dị na-elekọta ụmụ nwanyị ilela redio na ụlọ ọgwụ,1.0714,0.7164
+558,"Nsu bina badi ni, bekyuli na bɛɛkywɛɛ kɔkpagyuɛ na biiƒie-ma teenwini bina kabla bablane.","na Zobina Badini, bechule na kpechuwe kopajue na kpe ife ma ka ewu na ibi na Kafla Paplani.",1.2143,0.4521
+559,Anwuɔsu akwa ani ƒui na Yared ɔ́ƒɔ asa na úkpi adi akwa eti leevu-yaalenwi ku liti ku leevu-inyɔ .,A na-esunakwa a na-ere ọfọ asaa na okpe adi akwa etu levu ya lenwe ka o lete ka o levu inyọ.,1.1111,0.3947
+560,Na ɔmɛni ƒui ɔ́si ɔni na ami Unwoti líbo Moab lɛ́bwɛ aani libui lɛni na ukyuli ɔ́sɔ uláwia iye bekyuli baláka-ni.,"na omenala Igbo, ọ sị na a na-ami nwenti na-agba mmanụ a bụrụkwa legbe, a na-arịgoro ya niile na-achọrọ ọsọ ụlawụ a iji wee chọrọ balaka",1.1429,0.8068
+561,Muunú ka bekisine bekpone baavwi kekpo kati bute lise na naaakana kenye bubile bɔsɔ bulie kpoo.,Mụ na ka ebe k'isi na be pụọ na ịba ụlọ ịkekpọ katibute lesị na ana akana kenye bụ belebọsọ ọgbụlụ ekpọ.,1.1875,0.3671
+562,"Na ina ka bekyuli bamɛni ƒui beeebo ɔyikun ɔdi ni, Katɔti ɔ́ya na bénwini bayikune!",na ịna ka be chiri ba mụ enịhụ ị ba ebụ ọ ịhụ odi nị ka tọtị ọ ya na be nwunye gị ba ekwụne,1.4667,0.5303
+563,"Mmɔ na ɔ́su ɔnini, “Ubi ɔmmɔ ndubɔda-bu udie abi ani na buubó na buunú ɔlɛ geen na bula enu kabla kani na bɔɔbla kemmo ka Katɔti úwida kalɔ kammɔ ƒui ɔsu.","mụ na ọsụ ọnịni, obi ọma ndugbo dabụ ụdị abị anịna bụ ugbo na bụ ụlọ egi na bụla enu kabụla ka anịna gbaọbla kịmụ ka katọtị ụwịda kalụ kamọkụị ọsụ",0.871,0.437
+564,Ɔ́bla sika ugyiedi lɛkpabi ku sika ugyiedi ala kasiakɔ kani lɛlɔ na baasia bodobodo ɔni muusé Unwoti anumi.,Ọbụla sị ka o ji edị lekwaa biko sị ka o ji edị alakasi akọ ka nị lelọ na baasịa gbọdọgbọdọ ọ nị mụsịọ nweti anụmị,1.3889,0.4091
+565,Anwuɔsu ndubo ala ammɔ ƒui buƒie bɔƒɔ.,Awon nkan inu igbo ala amunfui bu fie gbo,1.1429,0.5806
+566,Anwuɔsu na ɔkana na uni lɛla biala na uti lɛla lɛni na lɛ́ƒɔ-nwu kuye geen muedi ɔvumana na ɔkɛ nwuna ngba.,A na m sị na ọ ka na na-ewelite abịa na na-etinyela ala na ihe fọrọ nke ego emedi. Ọfụma na na oke nwunye,0.9524,0.5119
+567,Muunyimo uwi ɔni na ntaatɔnku ƒula bekyuli lisu.,mụ na gị nwee ọṅụ na ntị atọ ngwụcha bechiri,1.125,0.65
+568,"Na lɛnɔ ni, bɛtɛya lɛla lɛni mɔɔyɔ́ Katɔti kaƒɔ.","N'alelu ni, bete alele ni moyo ka toti",0.8889,0.4865
+569,Ɔ́kɔliku aƒlaga úte kadi bani na ɔgyu kakaaka.,Okoliku afula ga ute ka dibani na oju ka ka,1.125,0.2973
+570,"Kalɔ lɛlɔ baga ƒui badubumwi-ɔ lɛnyi, O Unwoti.","K'ọlọlọ bagakwị, badụbụ mụọlẹnyị, o ụnwụ",0.875,0.5135
+571,Na beti ligyii gyɔlɔɔ lɛni na beeti taagyu-nwu bakya-nwu lɛƒɛnyi.,"Na beti leji jolo, le ni na beti ta ju bacha lefe.",0.9,0.5283
+572,Use aani ukyuli mɔɔkpali ɔnii nkpo nte-nwu.,Ose ani uchili ma okpali oni npo nte,1.1429,0.3714
+573,Bɛƒɛ lɛtɔ lɛmmɔ ku ana atabi ani bakya kalɔ ƒui kede kede!,"Befere tolembo, ku ana atabi ani bachakala okwi kedikedi",0.6667,0.3696
+574,"“Katɔti ɔ́ya na mina lɛlɔ bekyuli ƒui béni-mi, na línwini ɔƒɔ líte mina bekyuli batidi lɛnɔ.","Ka to di oya na mina, lele bechiri fu ibe nimi. Na le nwini opoli temi na bechiri batiri le",1.0625,0.3333
+575,"Na abuli aku edeedi ni, nnɔmii bɔni mɔɔbla lɛlɔ suɛlɛ suɛlɛ na baalɔ-mu mira, na baawɛɛ-ma.","Na abuli aku ede ede ni, ino m igbo ni maobu ala lelo soelesole naba alomu mira naba ayema",0.875,0.2958
+576,Na bani Unwoti ɔ́ƒɔ mmɔ badubɔkya Sion Kɔbi lɛlɔ na badi Edom lɛlɔ.,"Na-abanye onwenti ofuu, mụọ, gbadugbo chaa, si ya nkobi, lelee, na-abanye Edom lelee.",0.9231,0.5849
+577,Na Sobal bebi bananabi bani na ɔ́wɔ ndi Alwan ku Manahat ku Ebal ku Seƒo ku Onam.,"Na so bal, baby banana be banana, owo ndi alwan, ko manahat, ko ebal, ko sefu, ko onam.",0.7059,0.1905
+578,na ntukpa búle-ma kalɔ kemmo bɔ́vi ƒui.,na intupa bu le ma kalo ke mu,1.0,0.4
+579,"Na ina ka bɛɛkali bɛnii bɛ́kɛ kakyakɔ na bina awodu kpakplaa ani na bɛ́tu bɛ́mana bina ɔma ɔmmɔ kama ni, badubo-mii lɛma bubo bɔbwɛ na badu bina bebi.",na-eme ka e kalịbe nị be ke ka cha kọọ na bịna. A wụdụkwaa plaa a nị na petụbe mana bịna ọma ọma ka ma nị. Bado gbo mị le ma kpụgbo gbo gbo e na bado bịna be bị.,1.3214,0.4188
+580,Na úti bekyuli ku bebuo bammɔ úte Lewiƒuɔ bani mɔɔbla kabla na Unwoti Adi Kevo kemmo.,"na uti be choro ikwu be gbuo, ba ma ute na wu ikwo, ba na ima obla ka bla na uwoti adi kevu ke",1.3125,0.3623
+581,Aaron ɔ́bla lɛni na ɔ́lɛ lɛsogya lɛmmɔ na ɔya na nwuna bukeye bɔɔtina anumi kakɛ aani kalɛ kani na Unwoti úbo Mose ɔda.,Aro obula leni na olele so ya lemo na oya na unu akpuke ya gbe otu na anu m'ike ake. Anikara ekani na unoti ugbo mosi oda.,1.0,0.3617
+582,kani nédie utukwalɛ aani lɛba mmɔ kakwii.,A na-enye ya otu kwa le a na-eleba ụmụaka,1.2857,0.5588
+583,Ami nédie kayawi na lɛ́bla ukyuli lɛ́kya-ka kemmo.,Ame ne die ka ya wi na le bla ochu le le cha ka ke,1.75,0.3333
+584,"Na geen ni, kɔlɛkɛ kɔmmɔ bakutine ku benengu ku bagadine ku batɔnkune ku aban kenye benyene ƒui ni, bénwini benye Mordekai kama, ɔsika baayia-nwu geen.","na-ege ni. Kọleke kọmọ, gbakwutine, kube n'onku, kuba ga dine, kubatọ nkune, ku abakeye benye ni fi ni. Be nwuni benye mọdika ya akama. Ọ si ka ba ya bụ ge",1.12,0.2787
+585,Anyi amɛni ndi Yakob bebi bani na ama ku-nwu bésie Egyipte kalɔ lɛlɔ ku bana bebi.,Anyi amaghi ndi ya kporo biba na ama kun be sie Egypt ka ha lolelo kuba na be,0.875,0.3231
+586,Na mina kayi lɛnɔ kaládu-mi kɔtɔ na mina ngba bulie kemmo.,na mina ka elenu kala dumikoto na mina igba gburueke,0.6364,0.3043
+587,Na bɛya na Katɔti Kɔyu kɔsɔku-mii kakali ɔbla ɔwɔdi.,na be ya na ka to ti ko yu ko so ku mi ka ka le o bla o wo,2.0,0.2857
+588,Anwuɔsu ɔƒaamu badubo bukpi na kekpokɔ iye kɔka kɔdu-ma.,Awa nso ofamu badu bu ebube kpe na kekpoko iye kpokakodu,1.1111,0.3913
+589,"Na kɔyakun ligyii lɛmmɔ ni, ɔ́nwi-ku kangya, na lɛƒɛnyi líne litulo eli ku lɛgba, na lɛkya ɔtɔ ɔmmɔ anumi kakɛ.","Na kọja kún léjì l'ọmọ ní, ọnwèkú k'ànjà. Na l'efèyí l'inè l'itùlò èlì k'ulègbà. Na l'èchà ọtọ ọmọ ànùmì",0.9,0.5581
+590,Sion Kɔbi kɔdi bula Katɔti kɔbi kɔni lɛlɔ na uli.,"Ji onkobiko, di bulakato tikobi, ko lele na uli.",0.8,0.2564
+591,"Ka nwuna ɔtɔlati ɔ́nu ɔ́ti kalɛ na Unwoti Katɔti uliku Yoseƒ ku kalɛ na nwuna ablala aatɛ-nwu ɔsu ni, Yoseƒ lɛlɔ lɛ́da-nwu kubiti geen.",ka una oto lati onu o ti kale na un ti kato ti oleko Joseph ko kale na una ablala ateun osuni Joseph lelo leda un kubiti ge,0.9583,0.3524
+592,"Na bekyuli bammɔ badubɔbla lili ɔkplu na balanu ukyuli biala kɔnyana, unengu ɔdi o-o iye ɔnamu ɔdi o-o, balanu-nwu kɔnyana.","na bechiri ba m gbadu ubochi a leli okpuru na-abali ubochi biala konyana unu ngu odi o, iye ona mu odi o, balanu nkonyana",1.05,0.3367
+593,Na ɔ́ya na alɛbi álɛ éwi-ma lɛlɔ ƒui na ɔ́yila badi udu.,Na oya na alebi ale ewi ma lelo pui. Na oyi labadi,0.8333,0.2927
+594,Bitakali bɛnii amii bɛdia bitulo-mi bɛ́gya ɔsu na bɛɛnu bɛnii mina ekpidi ɔsu na muubó abi.,"bịa ka anyi beelu, anyi bịa jee bịa tụrụ mị beja, ọsụna beelu nụ beelu, mị na ekpiri ọsụ na mgbụọ abị",1.3125,0.6164
+595,Na nwuna awu gyɔlɔɔ bonwu ɔni na ɔkya atu áƒɔ Katɔti kakpakɔ mmɔ ƒui.,Na una awujọlọ gbohun ọni na ọcha atụ akwọ ka tọchi ka pa ngọ mọfụ,1.0,0.5455
+596,"Ɔƒɛni ni, Yoseƒ ɔti Israel ni, ɔ́ɔbi lɛlɔ geen asa na ɔ́wɔ Yoseƒ ɔsu ni, ɔɔyɔ́ Yoseƒ geen.","Ọ bụ ezigbo enyi m Joseph, mana ọ bụ onye Israel. Ọ bụ ya na-elekọta ụlọ ọrụ Joseph Osuni. Ọ bụ ya bụ Joseph",1.2778,0.9242
+597,na lɛla lɛni na mina Katɔti ɔ́bla úte-mi ɔsu.,Naleli aliani na mina ka toti obla utemi,0.7778,0.2941
+598,Bi ɔsu na útalɛka lɛni Yuda kadi bekyuli kɔtu?,"Bia osuna, utaleka leni yuda ka di ibe choli",1.0,0.3514
+599,"Ɔ́bla lɛni ina ka ɔkɛnku ubidi Isak ɔmmɔ lɛlɔ na Katɔti ɔ́su ɔnini, “Ɔkɛnku Isak lɛlɔ na adubudie kaba aani kalɛ na lɛ́su-ɔ líse.","Obla Leni, ị na-ka ọkengwu ụbịrị Isaac ụmụ lere na-ka toti ọnwa iri. Ọkengwu Isaac lere na adụgụdị ya kaba a nịka le na le suọrịsị.",0.9583,0.4848
+600,Na Gersonƒuɔ adua bekyuli bamɛni ndubulie Katɔti Katɔma Kedee kammɔ kama na ɔƒɛ kanukɔ kakɛ.,"na gasị m fụọ adịghị bechụlị, ma menị ndị ogbenye ka tọtị ka tọ ma kịdị ka mọ kama na ọfẹ ka nụkọ ka",1.4,0.5065
+601,kani kemmo na bávi bála lɛmuyɔ ƒui.,Kani ke muna bavi bala le moyo,0.8571,0.3571
+602,"Amu na bekyuli badi bási Yerusalem ɔma na béye banii, “Ɔɔɔdi ukyuli ɔmɛni na Yudaƒuɔ batɔnkune baawia badu yoo?","A mụ na be Chijioke baa na Ibadan si Jerusalem, ọ mụ na be ya ibani. Ọ dị chiri omenala Judah fọbatọ nkwu na be arya baa du yoo.",1.3158,0.5111
+603,"Banwa bayɔne geen, lɛni na ɔdi ka binye kpakplaa na Kristo kemmo.",Bà Nwabụego ginị? Lee na odi ka b'inyị kpọkọla na Kristo nke,0.6667,0.4038
+604,Anwuɔsu nwuna akwa ani ƒui na ɔ́ƒɔ asa na úkpi adi akwa eti leevu-yaalenwi ku leevu-inyɔ .,A na m so nwuna akwa anịfụ ị na-ọfọ asị na okpe adịghị akwa etu Lefụ ya alị nwị ka Lefụ ịnyọ.,1.1875,0.4286
+605,Na si bíbo-mi kudɔ ka lɛgyumana-mii ni.,Nasi biko do ka le juma na mi.,1.1429,0.4
+606,"Amu ka ulekudi ɔ́da úbalɛ ni, úye-nwu ɔnini, “Bi?","Amaka, ulekwara oda ubaara eni? Uyo oyibo ni",1.0,0.5714
+607,"Na kɔbuli maatɛdi limeyi leevu-maatɛdi lɛlɔ ni, ɔkɔlɔ ɔmmɔ úbedi únye abi ani baalɔ Ararat lili.","Na kọbụlị, ma tedi, limele fụ, ma tedi lelọ nị. Ọkọlọ ọma ube di unye abị, ana ịba arọ araratị",1.1875,0.4103
+608,Ɔsika ɔɔwia ka ukyuli biala ɔnu nwuna litemi geen lɛmmɔ ɔti kalɛ na ɔƒɔ-nwu ngba.,"O si ka, o wee ka uchichi bịara, onụ na-alite m gaa ile mụ otu ka ihe na-akpọ m.",1.2,0.6
+609,"Na Metusala bɔwɔ kama ni, Henok ɔ́siaku Katɔti kama geen akwa eti aku na ɔ́wɔ bebi bananabi ku belekubi bamba.","Na metu sị na agbawa kamanị, henọ, ọ si akụka tọti kama gi akwa ịti akụ. Na ọwọ bebi banana bụ ikubelu iku ịgba",0.95,0.3103
+610,Uwi ɛlɛ sɔɔn na ndubunye ntaanu bekisi aƒlaga ku bana ese ani na bada baavwi?,Onye isi na-edugbo nye ntị aanụ gbe ka isi na-apụlaga kụba na ese ani na gbadaba afụ.,0.9333,0.4032
+611,Ɔsika bese aani egyiibi kɔbuli kɔni lɛlɔ na egyiibi aaasia iye kɔnwingyie kɔni lɛlɔ na ebi iye evete aaasia.,"Ọ sị ka e si aṅụ ejịbị kọbụlị, kọ n'ịlẹlọ na ejịbị a sị a ịyé, kọ nụ ịnjị e kọ n'ịlẹlọ na ebị ịyé efete a sị a.",1.4211,0.5169
+612,"Na si kuli kɔ́dia-a na úti nwuna sika ugyiedi ɔgagyii ɔ́kywɛ-ɔ ni, na anwu na adubulie ngba.","Na si kulikodia, na uti wu na si ka uje di ogaji ochu oni, na awu na adugbo le ngwa.",0.8824,0.3143
+613,Kayi ketekpoku-ɔ si ɔdi lɛkɛ liimomo teebu.,Kedu ka ị dịkwa? Chi ọ dịrị gị ka ị mụmụta,1.5714,0.8
+614,"Amu na Yudaƒuɔ bammɔ béye lɛlɔ banini, “Wɛ na ukyuli ɔmɛni úsela tɔ ɔsu na bulanu-nwu?",Amụna gị na ọbụghịkwa onye ị lere ọbà n'ihu. Wee na-utụlị ọmenala ụsụla tọ. Ọ sụ na gbula nụ,1.0625,0.6567
+615,Bebuo ala betine bamba beledi aavlanyɔ ku bagyani leevu.,Bebuo ala betine bamba bele di avlanyon ubajani lefu.,0.5556,0.1489
+616,Bíinu dii si benengu badi iye Ƒarisiƒuɔ badi báƒɔ-nwu bádi?,kudi? Amụna kwaara si fụọba mụọbe ịma mba nị nị. Amịlị nụ uchịlị ọmenịụfụ mịkasụsụ. Bịinụ dị sị ịbe na-engụba dị ịe kwaara sị fụọba dị kpafụọ mba dị,2.8,1.9583
+617,Ndubo bana beleku ku mmo ƒui buti bute baƒɔ.,Ndububa na-ekele k'oku imokwu Igbo ti gboteba,1.0,0.3714
+618,"Ka bétéduo ni, ukyuli ɔdi ɔ́su Yakob ɔnini, “Ƒubidi Yoseƒ úbo-ɔ kudɔ.","Ka b'ete di oni, ocholi odi osu ya ko oni ni. Fobide Joseph ubo",1.0833,0.4423
+619,Na ubidi Eleasa na báƒuna ka utaanu Unwoti Bunyimi Adaka ɔmmɔ lɛlɔ.,na Obidi Eliassa na-agba fu na ka uta anu onweghi bunye m adaka omoluelu.,1.0,0.3455
+620,"Kekpo kani nnye muukpó mɛni ni, amii lɛnɔ bibunku-mi.","kpokani inyemokpo menini, amielenu bigo",1.0,0.4048
+621,"Ukplodi ni, mina banwa, bɛya na lɛlɔ litaayɔ-mii na Blɔti kemmo.","Otu klọdi ni m na-abụghị, biko na-elele leta yọọ m na",1.0,0.64
+622,badubo-ma bubweli ku bana ntɛ bekpine ƒui.,Bà dube ma bụrụkwa lekwa ba na ntị ebe ekwene,1.4286,0.5294
+623,Ala adubo-ma bɔdianku na balɛ lili aani kemo kani edula nákɛ ntu kaduɛ.,ala adigomma agbo di ngu na balili ana ikem uka ni edula na ke intuka,0.9231,0.3333
+624,Anwuɔsu muukeli usi na likulo kabuli kalɛ na lɛkɛ lɛyuƒɔla lɛni na Katɔti ɔ́lɔ-mi ka libo mbaƒɔ na katɔ na Kristo Yesu ɔsu.,"A mụrụ m n'ime ụlọ ọgwụ na Lekki, Lagos, Nigeria na 1984.",0.913,0.8265
+625,"’ ” Mɛni ni, Kɔyu kɔni ndubɔƒɔ bekyuli bani náƒɔ-nwu bádi lɛlɔ kemmo litemi na ɔɔsu.","Mani ni, koyi ko ni dubu afa be chulibani na fo mbadi leleke mu lite mi na",1.1429,0.4062
+626,Ntu kewikɔ bonwu kamɛni kalɛ bebuo bamɛni lɛlɔ na bebuo bamɛni ƒui lɛka líbasala ntu kewikɔ bonwu kamɛni kalɔ na ntɛntɛ.,ntu ka ewicko bu kameni ka le gbo bamenilelo na abegbo bameni fee leka libasala ntu ka ewicko bu kameni kalo na,0.9048,0.3737
+627,Bɔbɔku na ɔdubo-mi na nwuna ɔyikun ɔsu na lɛgyu lɛtɔlɔ?,Bọbọkụ na ọdụgbo mị na nwa na ọ ịkwụọ sụ na lejuo,1.0,0.5455
+628,Mmomu ɔdubɔkpala-mii ɔtɔlɔku aani kɔtu bɔni na bina ekpidi ɔsu.,"Mọmọ ọdụbọ kpala mi, ọtọlọkụ ani kọtubọni nabi na epidi ọsọ.",1.1,0.3269
+629,"Ɔmɛni ɔsu ka bása sɔsɔ ni, Ƒilistiƒuɔ békpo ku lɛnungyie na bádi Israelƒuɔ lɛlɔ.","Omenyo su ka ba sa so so ni, Felistia fuo gbe kpo ko le nu nchie na abadi Israel fo le lo.",1.3571,0.3846
+630,na ami Unwoti lɛnɔ nsɔ lɛɛɛdi ɔgyani.,Ami umunti le nọ nsọlẹ di ọja,1.0,0.5333
+631,Ami ndi Katɔti bina Unwoti na ndubo-mii litemi bɔtɛku.,"A mụrụ m ịndịka Toti, bụ na ụwọti na ịndị ụmụ ịlịta ịgbọtekwa",1.3333,0.5682
+632,Mɔɔnu ka ɔdia ka ebo ɔda na bɔdu-ma.,Mụ na ka ebo ọda na,0.625,0.5556
+633,Bɛgya anwu ɔni náya na kɔbuli ku ayabi aadi usien lɛlɔ enu.,"bezie awu oyi na ya na kọgbọ ịrikwu aya bi, a dịghị usiri lụ",1.0833,0.5745
+634,"Ɔmmɔ kama ni, Unwoti ɔ́su Noa ɔnini, “Ti awɔ ku ƒula kaduli bekyuli ƒui na bitéduo ɔkɔlɔ ɔmmɔ kemmo, ɔsika lɛ́nu ka awɔ kani nse siin na kaba kamɛni bekyuli akɔ.",Ọmụkamanị nwoke ọsụ Nọwa ọnịnị. Tị awụọka ofula akadu lebụ chọlị fụ ị na akpete duo ọkọlọ ọmụka ịmụ. Ọsị ka alị nụka awụọka nị nsịsị ị na akaba kamanị ịkpọchọlị,0.9677,0.5403
+635,Useyi uwi na uleku ɔni na ƒula uwi údu ka esie ɔga kudɔ ésela na atákya mmɔ útálɛ kadi bugye ɔtanta.,"Ose Ubi na ulekwa onye na-afula ubi udu ka esi oga-akwudo esala na atacha anya imo, utali ka di buje otanta",0.9524,0.4304
+636,"“Ngyi ka binye bɛɛwia ulu ɔni lɛlɔ na bɛsia na bikpoku-mi, ɔsika bɛɛsu bɛnii ala amɛni ƒui kakwɛkɔ kási ami ɔlati.","Oji ka be ya bu Olu, o nwere ulo na be ya, na be Ikpokwumi. O si ka be ya sube ni ala, a ma na ikwi ikakwe ka si amiora",1.2857,0.4778
+637,Ndubo-ma budie bɔsiku bana bekisine bani ndubɔkana na badi-ma lɛlɔ enu kemmo.,Ndu mabu di ebe a o si ka uba na-abeki si na-abani. Ndu bu okanana na-abadi ma alelo enuke,1.5833,0.3175
+638,"Na si bánu kalɛ na bɛɛdi ɔda bubo bɔmɛni lɛlɔ ni, bekyuli bammɔ badubɔsu banii, “Kadi bekyuli lisu bonwu bamɛni báda anu na beenú ala kalɔ geen.","Na site na kalenda be di odabugbo kpomene ile lo ni, bechoro ibam on kpadugbo osu bani ka di bechoro ilesi ugbo ba me na ibada anu na be elu alakalo gi.",1.037,0.4298
+639,Kekpo ku kɔka ku lɛlɛ lidu na líti lɛ́ni Yerusalemƒuɔ kɔtu na lɛni kani na ndubo amii lɛnɔ bɔbla.,K'ekpe okuko ka ko le le ri dun na riti le ni Jerusalemu fu oko tu na le ni ka ni na ndu bu ami le no bo,1.3158,0.3117
+640,"Uwi ɔmmɔ ni, Israelƒuɔ bammɔ ƒui báta bási Sin ketele kemmo na bakɛ beelie taata aani kalɛ na Unwoti úbo-ma ɔda.","We omani, Israel kpo ba ma kpo e kpata abali si si ketele kemo. Na abakepe eli taata a nikale na nwoti ugbo ma",0.9524,0.382
+641,Bébo badi atabi na bábwɛ badi lɛnɔ kemmo inyɔ.,na ba gwa ba di na ba gwa ba di na noke mu,1.3333,0.5405
+642,"Si bíti kɔnyi ni, bitaya na bina kɔnyi kɔya na bɛbla likpidi.","si bi ti konyi ni, bi ta ya na bi na konyi ko ya na be bla",1.0833,0.25
+643,Bekyuli bammɔ báta bénye Unwoti lɛlɔ na béni-nwu kɔlɛ kɔlɛ na ɔ́ɔvi ntu.,N'chịliba m ọbụta abụnye ụnwụ tilelụ na abụnye ụnkọlekọle na ọvin,0.8462,0.4912
+644,Nsɔ liiibo ulu bamba ɔdi lɛlɔ na ndubo bɔsia.,nsa Igbo ulugba mba odi lelo na ndu gbo,0.8889,0.3889
+645,Mmomu ami na béni ka balayɔ ka lɛdi-ma ɔga.,M'omun ami na beni ka balayoka ledima,0.6667,0.2424
+646,"Na ɔmmɔ kama ni, ɔdubɔya na Israelƒuɔ batɔlɔ, na ɔdubo-mii bɔbɔku muedi.","Na omokamani, odugbo ya na Izra'el fu oba tọlọ na odugbo mi kpọgbọkụ mu",1.0,0.386
+647,Mmomu anumi ábwɛ-nwu kalɛ na bekyuli banu Katɔti ɔyikun bati na ukyuli ɔmɛni lɛlɔ.,momo anụme abụghị ka ha na-abechiri baanu ka tọọti oyibo gbati na ochiri omenala,1.0,0.5224
+648,"Bitaabla lɛla biala basu-mii, na bitata bitenye lɛlɔ lɛlɔ, na bitakyaku lɛlɔ unyeƒi.","bụ ịta abịla, ịla baa sọọmị, na ịta taa ịta enyere elo elo, na ịta chakwụrụ ịla onye",1.2308,0.5588
+649,"Unwoti ɔnini, “Binye kagyumana, ɔsika ndubo bɔya na balakpi bekpidi bebo babadu-mii na ɔdi ulakana-ma kuƒi butile.","Otu onye o na-ini, banye ka ajụọ ma na ọ si ka ndị ụgbọ ugbo ya ana, gbalakwa igbe kwụdị igbe kpọọ baba adụmị na ọ dị ụla kana ma",1.6471,0.5543
+650,Hiob Ɔ́sɔ Ɔ́kya Soƒar Kenye.,Ya oso ocha sofa ke,1.0,0.619
+651,Bɔbuɛ beete bani na ntɛ kanikɔ na badi bayikune.,bụ onye a bịara ebanye na nke ka dị na ya. Gbaa dịrị anyị,1.3333,0.7436
+652,"Na ka baaagyi kɔƒa ɔsu ni, ɔlɔna ɔkwɛ adala kama kani na basia.",Naka abali kopa osi ni. Olo na okwe adara kama ka enaba si.,0.9231,0.3265
+653,"Na ala pii ani na bánwanɛ kama ni, lɛbibo ku ɔgbankpi muubó-ma taaƒiɛmi kalɔ.",na ala be anyi na-abanwanyi kama ni. Lebi bu kwa gba ngbi mgbo mata afia mị ka,1.0,0.3607
+654,Na bɛsu bekyuli bani ƒui na bakya Arnon Ketu ka bákyula Moab na ɔ́yii udu.,na be subechulu ba na ife na-abacha. A noo nketu ka ba chulu mmuo na oyi,0.9333,0.431
+655,"Na sɔsɔ ni, amii lɛnɔ bɛ́tɛya-bu na bɛsiaku Blɔti udu kama.","na Soshanguve, a mụrụ m n'ebe a ya bụ na Mabopane Block U",1.0909,0.7111
+656,Na Hinmn Kɔwɛ kesii kani muusé lɛlɔ mmɔ muedi ɔdubo bunwini kesii kani ndubɔbla kedee ute-mi.,na hin omeko wee kesii kani muo si lelo imomedi. Odubu ogboni kesii kani ndugbo black dee utem,0.8125,0.3158
+657,Ala ammɔ adanku ogya kuwikɔ ku kɔvili kɔni na baatu lɛna ku alakpi kɔlɛkɛ ku akyami bonwu ani kemmo na baakya ntu teewi bekyuli.,ala amara adangoo oja kowiko ko kofiri ko nina baatu le na ko ala pe koleke ko achami gbon a ni komu na baacha into te wi be choli,1.0833,0.3654
+658,"Bekisine bammɔ badubunye bataasia Yuda lɛma lɛmmɔ anu na ɔdi biala masu ɔnii ɔɔlɛ́ usie kesii kadi ni, na bani-nwu babwɛ aani bebuoƒuala.","Na nke si na mba ọzọ bụ onye bataa si a Yuda lemaa Lemọ anu, na ọdị biala masụ ọni ọ le usie kesi ka dị ni. Na kpanị ya bụ abụọ anị begbuo ofu ala.",1.2609,0.3784
+659,Anwuɔsu sia-ma lɛlɔ na ama bete bana kɔlɔ baga bɔti anii ami ndi Israel Katɔti Unwoti Ɔyikune Ƒui.,A na-esu siamalee lụ na ama kpete ebe na kọlọbaga agbọti anị. Ami ndị Izrel katọti ụwọnti ọyịkụne,0.8889,0.3924
+660,Na ɔdubɔya na bɛkɛ ɔmantɛ bakɔ ku baƒonu pii.,Na oduboya na abeke omante bako ku gbapu nu,0.6667,0.3889
+661,"Nsu babambadi ama banii, “Oowo, ɔɔɔdi anwu na ɔdi.",Owo odi awu na odi,0.8889,0.6842
+662,"Na bekyuli bammɔ lɛnɔ bátuna kɔnakunwi banini, ‘Bɛya na beyile bubo na bebewulo bete-bu utédu uwi ɔni na abu lɛnɔ bula anumi adubɔƒɔ imii.",na eji ya ba m ole na kpatu na ko na ko nwe iba n'ini. Be ya na kpe ihe ile gbugbo na be be wulu bete bu ute du uwi oni na agbili na gbulu anu bi adugbo okpo imi.,1.5,0.3694
+663,"Limeyi lɛmmɔ lɛsɔ litanu ubi ɔdi, iye bete mmo na bebo lɛlɔyɔ kudu kɔdi lɛnɔ kudii.",Nimeela m bu na solitaru obi odi. I ga-ebete mgbe na-adighi anya ka udi ka odi lelee kwa di.,1.1875,0.5606
+664,"Nsu útakana ɔga kesii buduo, ɔsika kuƒi kuuubo ka adala ammɔ udu eduoku mmɔ.",na-esita akana ogake si igbodu o si ka akwukwo ugbo ka adala ama udu eduo,0.9286,0.377
+665,Na binu kalɛ na kadi ƒui bekyuli lɛga kɔdikɔ.,na binu nkale na ka di kwi bechili lega,0.6667,0.3889
+666,Na Kehat adua bekyuli bamɛni kabla ndi ka banu katɔma kedee kammɔ lɛlɔ.,Na ke ha adua echiri ba meni kabla ndi ka banu ka to make de ka mole,0.8462,0.2414
+667,Na ɔdanku kesii kani baalɔ Bapɔnkɔ Ɔban Kenye na ɔƒɛ katukɔ kakɛ ɔ́yu útéduo Kidron Kɔwɛ kemmo.,na odangu kesi kanibalọ mapụngọ ọbaakenye na ofe nkatụkọ kake. Ọyọ otedụọ kidrọ kọweke,0.8824,0.4026
+668,"Amu na Yesu údie kenye ɔnini, “Lɛla linwi pɛ na lɛ́bla, na ɔ́bla bina ƒui kalɛ kadi.",Amụna Yesu udi ekenye ọnini. Lela nụ iwe pee na le bụla na ọ bụla bị na-ahụ ịkalaka,0.9412,0.3548
+669,"Banwa, bɔgyi ka Blɔti ɔɔyɔ́-mii geen na ɔ́ƒuna-mii aani nwuna badi.","Biko, biko",1.0,0.902
+670,"Anwuɔsu Yesu banwani básu-nwu banini, “Tɔlɔ mɛni teesie Yudea kesii kani na ƒula basiakune badubɔnu ƒula ablala.",A na-asụ ya bụ Jesu ka nwa nị kpasu gba nị nị. Tọlọ manyi te ese yu de akesi ka nị na fula kpasị akune badugbọ nụ fula abalala.,1.6471,0.3696
+671,"Si bɔƒɔ na bɛ́ƒɔ Mose bɛ́di ni, nka bɛdubɔƒɔ-mi bɛdi!","Sɛ bɔfoɔ na bɛfɔm wo, sɛbɛ di ni. Nka bɛduru bɔfoɔ mi bɛdi.",0.9,0.2564
+672,Bana bapɔnkɔ ku kɛɛkɛ uukeli usi momoomo teetulo kalɛ na ɔƒɛƒɛɛ kpakplaa uuminime liƒlukutu na kayaa.,"Bịa na bapu ngọọ kụkẹkẹ, ụkeli ụsị mụọ ụmụ tẹ tulu kalị na ọfẹfẹ kpakpala ụmịnimị le kwụọ kụọtụ na ka ya.",1.25,0.5059
+673,"Banwa, bisie anumi na bitaatɛya mina udu, na bɛtɛya udu ɔbuni bɛsiaku bani nli ngba bɔbuni bɔni na búlie bɔtina-mii lɛlɔ.",Bịa sị anu mị na bịta taa mị na ụdụ na bịta ya ụdụ ogwịnị bịsịa kụọ banị ilị gba bụ ogwịnị bụ ịna gbu ịlị gba tị na mị ịlị,1.381,0.5464
+674,"O Hesbon, muuwulo teete awɔ ku Eleale ƒui.",Mọ wọlọ tẹte awọ ku elele,0.875,0.5455
+675,"Nsu ukyuli ɔdi útakana-nwu butuku, ɔsika nwuna uwi útedu tɔ.","O jiri odi utaka na umu ntuku, o si ka una uwi utedu",1.3,0.4167
+676,"Nsu bana akɔ pii báƒɔ-nwu bádi na béye banii, “Na si Ukyuli Ɔƒunadi ɔmmɔ úbo ni, ɔdubɔbla akɔla budie bɔtina butulo ani na ukyuli ɔmɛni ɔ́ɔbla?",na-esubana akọpị ịba fụrụ gba dị na be ịba nị. Na sị ụchụrụ afụrụ adị ọma ụbọ nị. Ọdịwa ọbụla akọla bụ dị gba tị na abụ tịrụ ọnị na ụchụrụ me nị ọbụla.,1.1923,0.6071
+677,"Amu na Dawid lɛnɔ ɔ́ƒɔ na úye-nwu ɔnini, “Ami lɛ́bu ka ɔnana geen na adi na adi ukpone unengudi ƒui na Israel kalɔ lɛlɔ.",A mụ na Ada nwere ilele ọfọ na ụyọkọ nụ nị. A mịle bụ ka ụna na gị na Ada na Ada ụkwọ na unu na-ngọde kwụọ ya na Israel ka ọlele.,1.0417,0.5385
+678,Na eƒi ani mɔɔyá na lɛgba lɛmmɔ liinwíni mmɔ lɛdanku ala kɔsiakɔ ligyii lɛmmɔ lɛlɔ.,na echichi ani ma ya na legba le mọlị nweni ịma ọle daa nkụ alakọsia kọ le ji le mọ le,1.2,0.4853
+679,Na kalɔ kammɔ kuye ndi sika ɔƒualadi ebi leevu-maatɛ na bɔ́kɔku unu ɔmmɔ pɛpɛɛpɛ unu lɛkɔkula lɛlɔ.,Na ka lo ka ma okoye inde si ka ofu na adi ebilevu maka ya na gbokoku unu omo pepepe unu lekoku na le,1.1765,0.375
+680,Lɛni kani na naaada Israel kadi bɔda bɔnyonu nnii basɔ betenwini kadi bekyuli kudii.,Nani ka n'ina na ada Israel ka di ebube na kpo ya onu ini? Ma so obete nwe ni ka di ebe choro iku di.,1.6429,0.3571
+681,na liƒlukutu lɛ́ƒɔ-nwu lɛgba kalɔ ƒui na ɔ́bla suu.,na elu ụlọ ụka dị na Oblaasọ,0.7778,0.6923
+682,Na aya na bebweyi bani nkya-a kudɔ mmɔ bana ƒui lidu lɛnɔ balɛ bebo kalɛ na ama lɛnɔ bawɔ na bemomo na kalɔ kammɔ ƒui lɛlɔ.,na aya na begbe ba ni incha kodo omo ba na fwe le du le no bale bebo kale na amale no bawo na bemomu na kalo kamo fwe le,0.8846,0.3438
+683,Na Katɔti ɔdubɔsia Yesu ɔmmɔ kani lɛlɔ na ɔƒɔ-ma na bebelieku-nwu ngba.,Naka tochi odubochi anyi Jesu o bu ka anyi lelu na upuma na bebelia kwu,1.0833,0.4912
+684,Na adubuti ɔɔƒɛɛ akya Ƒarao kɔnu aani kalɛ kani na átaabla uwi ɔni na átaanu-nwu ntɛ lɛlɔ.,"na adighi uto ofuma acha foro akonu, ha anikale ka ni na ata abla owi oni na ata nu nte lelo",1.0588,0.4167
+685,Na banana bani ƒui nákɛ akwa avlaatɛ útédu akwa liti na beebo taababla kabla na Unwoti Adi Kevo kemmo mmɔ bebo nkyuli mpim ɛtɛ ku eti ene .,Na banana abali kwe na nke akwa afulate utedu akwaliti. Na bu egwuta babla ka bla na onwenti adi kefu kemu imo bu egwuchiri impim ete ku eti ene.,0.7778,0.3514
+686,Na eti-ma enyene Israelƒuɔ bebi bedeedi bammɔ kenye.,Na etiti ma enyene Israel fo bebi bede di ba moke,1.0,0.2558
+687,"Na lɛla lɛni na Unwoti údie ɔ́tina-nwu ni, ɔɔyia ka udie-ni ɔsu Eli.",na na na leni na onweti udi otu na nwuni o ya ka udi ni osu,1.0,0.3529
+688,"Na si uwi ɔmmɔ údu ni, ndubɔbla lɛni kani lite amii lɛnɔ.","Na si uwi ọmọ ụdọ ni, ndụgbọ abụọ arịrị n'ịka n'ịlite amịrị",0.6667,0.5227
+689,"Nsu ka utukwɛ mɔɔda bekyuli bamɛni ɔsu ni, baadɔnku Mose banini, “Bi ɔsu na ákpanku-bu ásiku Egyipte na áya na utukwɛ ɔdubo abu ku bula bebi ku bebuo ƒui bɔdu?","N'esukha, otuko emọ da be chili ba m'eni ọsụni ba adongu m'osi ba nini. Bi ọsụna akpa ngubu asiku Egypt na aya na otuko ọdụgbo agbuku gburu abebi kubegbu ofu",1.0,0.328
+690,Ɔgbankpi ɔni na ɔɔɔdi amii lɛti ndubo-nwu kemmo buduo mmomu ku bina beleku ku bebi ku banamu ƒui?,Ọgbakọ ndị ọrụ na-ahụ maka ụgbọ mmiri na mba ụwa ekwuola na ọ dị mkpa ka e nwee mgbanwe n'ụzọ e si ebu ibu n'oké osimiri iji gbochie mmetọ ikuku.,1.6111,1.141
+691,"Si Unwoti náya na asiaku-mi eekpóku-mi lɛni ni, ndubuvele-nwu na lɛbla akpala lite-nwu na ɔdubunwini kasusu.",si onweghi nna ya na-asi akumi ekpokumi na nini? Inubughi ife le na lebeghi akwalari tenu na odighi onwe nika susu.,1.125,0.4023
+692,kalɔ kamɛni ku mina kɔbi kedee kɔmmɔ ƒui.,Kàlò kà m̀ éní kò m̀ nà kò bìkèdé kò m̀,1.375,0.5758
+693,"Na limeyi maanedi lɛlɔ ni, ɔlɛka ɔwia babloduma inyɔ iye bamangbɛ inyɔ na uti-ma usienku ɔkpane na Unwoti Adi Kevo kayakun.","na lemee ma na-edilelọ ni, ọleka oge a gbaburu duma inyọ, ihe ba ma ngbe inyọ na uti ma osi ngu okpani na uwo ti adi kevu ka ya ku",1.1905,0.28
+694,Na ɔƒɛƒɛɛ ɔɔsí kesii kani na ɔ́bala-nwu ɔ́kya.,na oge pepee o si kee si ka ị na-ụbalụ ụcha,1.25,0.6286
+695,Ɔmɛni ɔsu adaka ɔmmɔ ɔ́kya-nwu kudɔ na Kiriat-Yearim mmɔ akwa aavlanyɔ.,Omenala ndị a adịghị ka ọmụmụ ọcha nwụkụdọ na kịrịatịrị m ịmụ akwụkwọ a,1.1818,0.6667
+696,ku bana adingyii mmo bete-ma na kayu kenye.,Kedu afa na adighi ime obete m na aka nri,1.125,0.4118
+697,Mɔɔƒɔ́ taadi ka bina ngba bɔni na bibo na Kristo kemmo ɔ́ya na bɛɛkya ɔkplu.,"Mkpụrụ akwụkwọ Bible na-abụghị nke na-Kristọkemụ, ọ ga-anọbeghị chaa okpukpu.",1.0,0.6949
+698,Na lili ku enuku ammɔ ewi kalɔ na atabi akɔ na kayakun.,"na leleku enu, amo ewi kalo na atabi ako na ka ya",0.6667,0.2558
+699,Na katɔ kani na ntu bɔmmɔ bɔɔkɔ́ na búmomo na kalɔ lɛlɔ.,na ka toka nina intu gbo ma gbo ko na gbu umu mu na kalolero,1.0833,0.4186
+700,Na bádu Ƒilistiƒuɔ bammɔ ukpone biala na ulu lɛlɔ laa útédu kesii kani baalɔ bani Bet-Kar.,na ba rufe lesiffo ba mọ beekpo ne diara na olulelọ la ote dukesi ka ni ba loba ni,1.0625,0.411
+701,na bana ɔma unengudi na Kirhaset.,Na ba na omawu na ngudi na kir haset,1.1667,0.1111
+702,"Nsu Abloduma ɔmmɔ útakɛ kesii kani na ɔyu ulie, ɔsika ntu bɔmmɔ bútakwii tɔ.",so aburodi m oma utake kesi kani na oyo olili. Osi ka intugbo ma kputakwu ito,1.0,0.4426
+703,"Ka ala amɛni ƒui ébo ábavi lɛni ni, ntɛ lɛlɔ ɔnune ɔmɛni útenyimo Yoseƒ aani kalɛ na ɔ́su-nwu.",Ka a na-emenụ gị ezigbo abalị n'ụlọ? Ncha elele ọnụ na omenala otu enyi m bụ Joseph a na-akpọ na,1.0556,0.6438
+704,lɛbibo ku bɔnɔ geen kemmo na nwuna kenye kelékulo.,na unu akenye telekuru,0.8889,0.6829
+705,"“Bekyuli bése atu bénu-mi butemi uwi biala, na báwia ka benu mina bɔlɛ lɛnɔ.","Biko libe sị atụ, biko na-eme gote m obiara na abaghị aka, biko na-agbonere m.",1.0714,0.6441
+706,"Ɔmmɔ ɔsu Esau, ɔni basɔ baalɔ Edom, ɔ́tɔlɔ úsie abi kalɔ kani baalɔ Seir lɛlɔ.","Ọmọ ọsụ ịsà, ọ́ ní ba sọba lọ́, édòm ọtọlọ́ osi àbí kalọ́, kaní ba lọ́ siẹ̀ lẹ́.",1.2,0.5167
+707,Na biteeti bina bɔƒiɔ taakyiɛ lɛlɔ aani kalɛ na Katɔti úti ɔ́kyiɛ-mii ɔkɛnku Kristo lɛlɔ.,"na-ebete ti bi na-abụọ ha na-achị e le lụ, a na-ekalị na-akato ti ụti ochie mi, oke ngụ Kristo le lụ.",1.3333,0.4583
+708,"Unwoti ɔnini, “Amii Yerusalemƒuɔ, si ukyuli útulo na úbuli ni, bɔta na ɔsɔ ɔɔta.","O wute m ọtụtụ n'ime a mụrụ Jerusalem kwọ sị ochichi utụrụ na ụbọrọ nị, kpọta na ọsọ ọtọ",1.2143,0.6774
+709,Na bina beleku basɔ baaadubo kaƒɔ bɔda na bawɔ.,na binnabelu kubaso ba adubo kapogbada na ba,0.7778,0.2632
+710,"Usien ɔmmɔ ni, Ɔga Ahasweros útakana bɔlɛɛ.","Ose omoni, oga ahia weros utaka na bole.",1.1429,0.3714
+711,Ndubuti mina anu lɛsia Katɔti lɛlɔ na lɛsɔ limwi-nwu.,Ndi Igbo tinyere anu lesha ka totirelu na lesho ri mmuo,1.0,0.5581
+712,"Na si lísie kasakɔ mmɔ ni, na bakloƒu besie kama na benengu bamba bata benye asa lílie kalɔ na ɔbu kenye.",na siri sekete ka ha si kwonwu ni na abakwuru fu bishikama na be n'ugwu mama bata binye asiri na iri ikaro na ogbuke,0.9048,0.5301
+713,Ɔsika ɔ́mu uunú-nwu litemi aani kalɛ kani na útaabla ɔ́si lɛnamu uwi.,"O si ka, ọmụụ nụrụ olu di ya, ọ anụka leka n'anya, ụta abụla ọ si ile na mụụ",1.5833,0.5185
+714,"Uwi ɔni na Katɔti údie ukyuli ni, údie-nwu na anwu Katɔti udu kenye.",O wee onye na-akatọ ti ụdị ụchụ lịni. Ọ dịghị onye na-anwụ nkatọ ti ụdị,1.1538,0.6415
+715,Na ɔƒɛƒɛɛ ɔmmɔ kudu ku kɔku kɔdubɔtina kalɛ na ɔ́gya enukpɛ ɔ́bɔku-ma.,"Nna m ukwu kpere ekpere, o wee kwu kwa okwu dị mma tupu kalị na oja enukwe, o bokwu ma.",1.5833,0.7636
+716,"Ɔmɛni ɔsu búduo ɔgbankpi kemmo, ɔsika lɛla lɛmɛni udu lítalɛ kudii.",Omenala usu ụdị ọgbá nkịtị mụ ọ sị ka lelee omenala ụdị litalele kụdị.,1.2727,0.6727
+717,Tire kadi bekyuli badubo bebete-ɔ ala abuni.,Kedu ka ị dị echi? Biko bịa tọọ ala agbụrụ,1.2857,0.6667
+718,Na ɔyikun ɔni náya na ɔ́ta ɔ́lɛ bekpine akɔ ɔkya-mi lɛlɔ kemmo.,"na o iku oyi na-aya na ota ole bikpi na-ako, ocha miri loku",0.9167,0.4792
+719,Na anwu na ɔlɛka utaanu katɔma kammɔ ku kana lɛlɔ ku kakpakɔ lɛlɔ ala kedee ammɔ ƒui lɛlɔ.,"Na-anụ na ọ leka ụta anụ ka tọọ ma ka mọ kụka na leọ, kụka kpa ka leọ ala akede amọkụ ịleọ.",1.1667,0.4028
+720,Unwoti Ɔ́tina Israelƒuɔ Kalɛ Na Benwini Bebo-nwu Kudɔ.,Otu onye ọtị na Israel kpọọ kala na akpị nwunye ya egbe gbuo,1.5,0.6818
+721,Baƒonu beledi eti ene ku bagyani aavlanyɔ.,Biafuru n'obodo ndị etinye n'ụbọchị nke 20,1.0,0.8
+722,"Na úte-mi ɔyikun ɔni na lɛtɛku kayawi ƒui litemi, ɔsika ami ndi Ukyuli Ɔyawine Ubi.","na otele m oyiku, o na-alete kwụka ya bụ ife iri te m, o si ka a mịrị ụchụrụ ya bụ n'ubi.",1.4,0.5152
+723,Bɛɛɛdubo bɔkana ntɛ kalɔ buwi bɔbla akpala adi bute Unwoti na mmɔ.,be dubu bokana inteka lo bu wi bo bla akpala adi gote onwo nti na,1.0833,0.2963
+724,Dawid ku nwuna bekyuli bétéduo Siklag ɔma limeyi lɛtɛdi.,Oma le me le te,1.0,0.8298
+725,Lɛla lideedi lɛni na mɔɔyɔ́ ka bɛti ndi ka bitaakpali katɔ na biteevele na bekyuli ƒui lili.,Lela lide dilena moyo kabeti indika bita akali kato na bitebele na bechilufu,0.8824,0.3243
+726,ku kuliekɔ kɔni na báda béwi ƒui batu.,Kukule kọkọ ni na badda be wi fụ ibatọ.,1.0,0.3
+727,"Bɛɛtɛya Bunweni Kedee Ɔku kemmo ala uwi biala ku kakali ka si bɛ́bla lɛni ni, bɛdubɔkɛ ngba bɔni nsɔ naaadu bɔsa kudii.","Bette ya bu nwoke di okwukwe mu ala, uwa biara kwukakali ka sibe biala enini. Kedu bu oke ya nkwabo na iso na adighi osakwudi.",1.0909,0.4316
+728,Yesu ɔmɛni kani ndubɔkana na ɔƒɔ-bu ɔlɛku kɔtu bɔni bɔni na Katɔti ɔdubute ekpidi bablane ƒui kemmo.,Yesu omenaala ndị Igbo ka na na-afọ bụ olekwukwa tupu ọmụmụ ya. Ọmụmụ ya na-akatọ dị ọdịbu taa ekwiri baa na efu ikemụ.,1.2353,0.622
+729,"Nsu ɔƒaani ni, ami Unwoti Ɔyikune Ƒui, Israel Katɔti, mɔɔsu nnii ala amɛni ƒui ni, badubo-nya buti bɔtɔlɔku busienku Babilon kalɔ lɛlɔ.","Ndi Juu hapaniri, ha mee nwantị ọjọọ kụrụ n'ekwị, Izrel ka atọrọ tị, ma ọsọ ịlị, ala ha mere n'ekwị nị, gbadugbọ ya agbutịgbọ tụrụ ka gbusịa ngụ Babịlọn karọlị.",1.3182,0.6574
+730,aani akɔ ɔni mbo ɔyikun ku ese kangyaa.,"Onye akọ, o na-eme oyikwụ kwụ isi kanja.",1.0,0.6129
+731,"Nsu litemi lɛmɛni lɛ́bla Susa ɔma bekyuli dɛye dɛye, na lɛsɛ lɛ́ƒɔ-nwu kemmo ƒui.","N'ime izu ole na ole gara aga, Susaoma bechiri daye daye na Lesseps n'ime otu izu.",1.0714,0.6349
+732,Kɔnyi kpakplaa kɔni na Unwoti úti ɔsu na ɔmɛni ƒui ɔ́lɛ lɛni.,"Kọ́ni kpaakpa, kọ́ni na nwenti uti ọsụna, ọmé ni kpụi ọlẹlẹ ni.",0.9167,0.4167
+733,Ukyuli Biala Ulásu Litemi Geen Na Ɔsiaku-mi Kama Siin.,Otu onye bịara ọla sụrụ ya temi gị na ọ si akụ mị kama sị.,1.4444,0.5682
+734,"Na bekyuli bani ndubunu-ni na baƒɔ litemi lɛmmɔ ni, badubulie ngba geen.",na bechiri eba ni ndubu unu ni na ba poli temi le moni ba ndubu lie inkwa ge,1.3333,0.2931
+735,Rahel kabla ɔblane Bilha ɔmɛni ɔ́sɔ ɔ́da kaƒɔ na ɔ́wɔ ɔnanabi unyɔdi.,Gaa ha ka gwa obodo niile bịara omume ọsọ ọda kapụ na ọwụọ ọna na-abụ ụnyọ,1.25,0.6481
+736,"Mmɔ na ɔnana ɔmmɔ ɔ́su Yakob ɔnini, “Ya na nteesie, ɔsika kadi kéegye.","Mona onana omo osu Jacob onini, ya na nte esie osi ka aka di ka",1.0769,0.3208
+737,Na ndubukulo Israel emeyi buni bɔdi kenye.,"na in the book of Israel, e make e bunigbo dika",1.2857,0.5429
+738,"Anwuɔsu ka mɔɔbla Blɔti kabla na ntɛ ɔtɔ na anwu ɔsu ni, mɔɔlɛ-mii nnii bilie ngba bɔni námanku bɔlɔ bɔni na Katɔti ɔ́lɔ-mii.",Anwụrụ sị ka mụ bụla bụlụọ ti ka bụla na inte otu na anwụrụ sị ni ma ọ le mụ ịni bili ngba bụ onye na ma ngụbọlọ bụ onye na ka toti ọlọ mụ.,1.2609,0.4592
+739,"Ka Ƒilistiƒuɔ bénu ka Israelƒuɔ ƒui bása na Mispa ni, Ƒilsitiƒuɔ agyina besiene báta banii bebekpoku-ma na mmɔ.","Ka Felistifo bido ka Israel fo fie basa na mispani. Felistifo ajinabe sene bata, bani ibete kpokuma na",0.8333,0.3297
+740,Bi ɔsu na átagyumana ƒula ati ku ɔga?,Bịa ọsụ na atajụ m na afụla atị?,0.875,0.6207
+741,"Na bani nábla lɛbuni ni, badubɔta bebelie ngba.",na bani na bala bu nini,0.75,0.5789
+742,"Si lɛ́tɛmi na uwi ɔmmɔ ni, na ukyuli biala ku benengu bammɔ ƒui unyemi ubo-ma likpo na ɔdi ɔsɔ ulasu lɛla bamba lɛdi.",Chineke mee na uwe onvo ni na udiri biala kobe na ongu ba mbo fu ya unyemi ugbo malikpo na odi oso ura sule la mamale di,0.913,0.3736
+743,Na Unwoti ɔdubɔdi bina bekisine lɛlɔ ute-mii si bata banii bebekpoku-mii.,"Na nwunye ọdụbọọ dị ibe na bekisiri lele ọtọ emi, sị bataba nị be gbe kpọkọọ mị.",1.4545,0.45
+744,na ábɔku-ma édie bana kalɔ lɛlɔ na áyila-ma udu.,"ma abụọkwa m adịghị, biko na-alọrọ nụ na-ayịrị m ama.",1.1111,0.7297
+745,Na Sibeon bebi bananabi ndi Aya ku Ana.,Na si bion baby ba na na bi ndi aya ku ana,0.875,0.0968
+746,Na adubɔbla-ma baga na kɔlɔ bamba ƒui lɛlɔ.,Na adu bobla ma baga na kolo ma ma fu ilelo.,1.0,0.2353
+747,"Na si kalɔ kani lɛlɔ na bátɔlɔ lɛlɔ kasusu na beeti ni, nka bákɛ ulu ɔni na basɔ benwini besie mmɔ.","N'asị ka ọkụ ka elo na batụrụ, elo ka sọsọ na be etinye. Nke a bụ akụkọ ọ bụ ihe na-abásọbe nwanyị na be di ya.",1.1429,0.5714
+748,"O Ɔga ɔni ntulo ƒui, ti ƒula kewii bala ƒula kavobi.","Oga, o ni ntu lo fu. Ti flag e wi, bala flag a bu",1.0,0.35
+749,Na báya na kalɔ kammɔ ƒui keesé lɛlɔ.,Nabaya na kalu kam bu kwu ka isi le,1.0,0.4483
+750,"Nsu Er ablala na Unwoti Katɔti anumi ni, ɔɔtina ka ubo kalala.",na onwe ha ka ha tọọ ha n'ụmụ nị. Ọ bụghị na ka ụgbọ,1.1667,0.7551
+751,Baanwu lɛti na beekúlo atimbɔ ku katuma lidu bamba lɛnɔ na kemo ɔni na bana ngba keliela káyu-ma ɔdu geen.,"Báa mụ leti na be ekwúlu atị́ mgbo, ka ụka tụma alịdụba mbaalẹ́ nọ. Na kemụ, ọnịna ba na nkpa nkịlịla ka yụma ọdụ nke.",1.1,0.4118
+752,Ɔsika ala ammɔ bene ƒui adi likpidi na nwuna anumi.,"Asika ala oha ma benefi a, adiri kwanu unu anu",0.9,0.439
+753,Bi ɔsu na útalɛka lɛlɔ litaatɔ-mii na bitaayia-mi ku ɔbu?,"Bịa usụna utalẹka l'elọlịta ịyọmị, nabịta ịyị amịkụ",1.0,0.4889
+754,"Na si useyi údu ni, ɔɔda aani ogya kalɛ.","Nasi usei udonii, oda ani ojakale",1.0,0.3
+755,Na ka lɛ́nya lɛ́ƒɔ anumi lɛ́wɔlɔ kani na líse kalɔ mɔɔnu.,na kalanya lepo anu mile wolo ka ni na di se kalomoo,0.9091,0.3256
+756,"Mmomu bɔdubunwini libiɔ lɛni mɔɔyu na bana lɛlɔ kemmo, na ɔdubute-ma ngba bɔni nsɔ naaadubo bɔsa kudii.","Mommie, ọdụbụ onwe na-elebịa leenu mụ oyu na ba na leelọkị mụ. Na ọdụbụ te mụ anyị nkpa bọ nị sọ na adụbụ bọ sakụdị.",1.3529,0.5357
+757,"Na uwi ɔmɛni kemmo ƒui ni, kɔka kɔmmɔ kɔ́mu kɔ́nyi anyi na kalɔ kammɔ ƒui lɛlɔ.",na o wee omenala Igbo kwere na kọọ kọọ ma kọọ nnyị anyị na akara aka ma kwere,1.0,0.7167
+758,"Na aya na Lewiƒuɔ bammɔ bebenye Unwoti Adi Kevo kammɔ anumi, na asala Israel kadi bekyuli bammɔ ƒui.",Na aya na le we fu ba mo bebenye nwonti adi ke fu ka mo anu mi. Na asala Israel kadi pechuli ba mo,0.8333,0.2346
+759,"Uwi ɔni na Mose enu aƒa katɔ laa na ɔ́ɔnɔ ni, Aaron ku Hur báwia lɛtabi lɛdi béte Mose na ɔ́sɔ úlie-ni lɛlɔ.",O wee onye na-emesi ike n'akwukwo nso na onno ni aro ohuu gawa leta biara di bete mosi na oso uli ya nile,0.913,0.5679
+760,"Amu na línu ka Unwoti uuye ɔnini, “Ɔma na ndubɔtala aani mina ɔtu kalɛ lɛkya mina bekyuli na ɔma ndubusie ute-bu?",A ma na-alinu ka onweti uyi oni ni. O ma na ndi gbo tala a nime na otu uka le lechaa mi na be choli na oma ndi bu,1.2381,0.3708
+761,"Na Mahalalel bɔwɔ kama ni, Kena ɔ́sɔ úlie ngba akwa eti leevu-aku ku aavlene úbu na ɔ́wɔ bananabi ku belekubi bamba.",na mahala le gbawo kamani? Kedu na oso ulie nkpa akwa etirevu akwu ku avulene ugbu na owo bana na bikubele kubi igba,0.9048,0.2418
+762,"Amu na nwuna bakpana ku bekyuli bani ƒui nánu-nwu uwi ɔni na úteevele ala béye lɛlɔ banini, “Ɔɔɔdi ɔnana ɔmɛni néteelie mɛni teevele ala mmɔ, iye?","Amu na unu abakwana, gube chiri ba ni fu yi na nu, uwi oni na uta ebele ala kpe iyi lelo ba ni ni. Odi ona na omeni na ete ele, omeni ta ebele ala mu oyi.",1.1923,0.3707
+763,"Kalɛ kani na ɔ́yɔ Unwoti kaƒɔ na ɔbla-mii lɛƒɔndia na bímomo bíbu ni, lɛni kani na ɔdubɔyɔ-nwu kaƒɔ ka ɔyila-mii udu na bina lɛma lɛbla kuliekɔ kukpludi.","Ka lee ka niile a, ọ yọ ụnwu dị ka afọ na-abịa m ịleba ndị a na bimo mụọ bịgọọ ni. Lee niile a, ọ dịghịzi onye ọkafo ka ọ ga-ịla m ụdọ na bị na alị ma leba kụlị kọkụ kụlị",1.4074,0.5868
+764,"Na litemi buni lɛni búbasu-mii ni, ɔɔɔdi kenyekplu kani na kadi.",na lite ngwụ n'ịlị bụba asụmịlị ọ dịka ịkwụrụ ka anyị na ka,1.0,0.6275
+765,Na Unwoti ɔ́yila lɛla biala na lɛkya kalɔ kammɔ lɛlɔ udu.,na nwunye ọhụrụ laa na be ha na-eche aka ọka mọlọ ụdọ,1.0,0.6222
+766,Ɔsika mɔɔƒɔ́ taadi ka Katɔti ɔdubunu ƒula katɔ bɔkpali na banyonu-mi na lɛsɔ libo-ɔ kudɔ.,"O si ka mụ pụta dị ka ka tọti ọdụgbo nnụ, fụla ka tụbọ kpali na banye ụlọ m. Nna le sọrọ Igbo kwuru",1.4667,0.4507
+767,"Na bina badi badubo bɔtɔlɔ busie Egyipte kalɔ lɛlɔ, na badi lɛnɔ besie Asiria kalɔ lɛlɔ na bitádi bana adila ani muusié lɛlɔ mmɔ.","Na be na Badi, Badi bu boto olu bu si Egypt ka lo lelo. Na Badi le no be si Assyria ka lo lelo. Na Bita di ba na adila, animu si lelo",1.1667,0.2788
+768,Keedie-nwu na kebo-nwu lɛkpu na lɛlɔ bunwini bɔdi bɔsɔ bulakya-nwu.,"ke di unu? Nke bu unu lekpo, na lelo unu igbo di ibo so bula cha",1.5,0.4444
+769,Muuvele Unwoti Katɔti nnii nwuna katɔ kusɛ kusɛ.,"Mfele unyi ka to ti ini, una ka to ku se ku.",1.5,0.375
+770,Na bekyuli bammɔ baaadubo edula iye ntɛ iye nnɔ iye ɔmantɛ bakɔ iye baƒonu badi bɔda buse-mii.,"Na bechulibamo ba dubo edula iye, inte iye, ino iye, oma nte bako iye bafonu gba di gbo dabuse mi.",0.8235,0.2368
+771,“Use ka alaekpidi bɔbla bɔɔyu alaekpidi bablane emini.,Use ka alekiri boblabo you alekiri babla ni,0.75,0.3333
+772,nsu ubugya ɔni nsɔ ndubo kama uuuse buɛɛ.,nsogbu dị iche iche ndị ọzọ dị iche iche nke ụgbọ kama o si gbuo ya.,1.875,1.1818
+773,"Úye-ma ɔnini, “Bi ɔsu na bítadu beleku bammɔ ƒui?",Onye ma onye ni? Bịa sụna beta dubelu ku bamu fu,1.2222,0.3784
+774,Na Lewiƒuɔ bammɔ ɔtɔnkune ƒui ndi Aaron ubidi Eleasar ɔni ndi ɔkpane.,na lewe kwanu anya otu ngune kwere ndị arọ ụbọchị iri asaọ na ndị okpa,1.1667,0.6316
+775,Katɔti uukeye taasiku Sion ɔma unengudi.,Kedu ka otu ịketa sị kọzị on? Ọma unu ngwị,1.6667,0.5882
+776,Ɔga Salomo útaya na bani ala amɛni unu banu ɔ́si ana bumomo ɔsu.,Ọka Solomon Udaya na-abụ ala Ameni ụnụ. Bịa nụ. Ọ sị na abụ mụmụ ọsị,1.1538,0.46
+777,"” Mmɔ ni, bábɔku-nwu bédie Yudaƒuɔ kasalakɔ mmɔ.","bụ jikọọ ya ṅụọ mmanya na ya. Bọjị ka bụrụkwa ihe na-adịghị mma. Na bọjị na-anọka onye na-agba ụọ nwunye ụlọ anụm. Ị sụ, karịa na ọ bụla",4.0,2.3514
+778,Ɔsika uukpó kogyulo na use aani Ogya na ɔkana na ɔkyula-mii.,"Ọska, ụpoko jụrụ na-awụsị anụ oja na ọkana na ọchụla m.",0.9091,0.5417
+779,Anwuɔsu búti sika ugyiedi ku likpose kɔkwɛnimi ku asɛɛ lidu lidu ani na ɔdi biala ɔ́kɛ búboku Unwoti kalɛ na udie likpidi kɔtu bɔni bula lɛlɔ.,"A na m so bute sịka ụjị erị, kọlepo sị kọkwaa n'ịmị, ka a sị erị dịlịdụ, a na ọdịbịara ọkụ gụgọkụ ụnwọtị, karị na ụdị ya repede kọ tụgbọ nị gụlaalụ.",1.1923,0.5739
+780,"Na ka Noa ɔ́ƒɔ Katɔti ɔ́di ɔsu ni, Katɔti ɔ́su ka Noa ɔdi ukyuli ɔni nse siin.",Nke a nụwa ọbụ ka toti odi osuni. Ka toti osuka nụwa odi uchiri oninzesi.,0.9412,0.4035
+781,Bávɔ baƒiɔ lidu lɛni muusé lɛlɔ bálɛ-mi kakpakɔ na mmɔ kásɔ kátamanku ka babla lɛkpa lɛdi bete-mi.,"Biafo, biafuo, leenu imu selelo kpalemu ikapakọ. Na imọ kasọ katama nkuka abala le kpalu dibete",0.9412,0.4557
+782,Kalɛ na belekpi si báni beedé ala ani na ese kedee ƒui mmɔ.,Kedu na ịbịara ịbụ onye na-eso ụzọ Jisọs Kraịst?,0.9231,0.8478
+783,Na bɛwia bani geen na ngyi-nwu kemmo kaduɛ mmɔ.,Na be we are many gain na in join kemo ka due,1.1111,0.4865
+784,"’ Bɛya na abu bani nkya Sion buteewulo momoomo na bɔsu bɔnii, ‘Bɔ́yii udu ɔƒaamu!","bụ ya na abụbanye ịcha zị yọn gụta ewụlọ mụ ma ụmụ na abọ sụgbọ nị, bụ ya ụdụ nwọfa",1.2857,0.6129
+785,"Lɛ́su Unwoti nnini, “Bula ɔdi ulénu kalɔ lɛla lɛni ɔsu na kalɔ kammɔ kénwini kesii kani na ukyuli ɔdi ɔsɔ ulásia taavi lɛnɔ.","Lasso onwu ti ineni, bula odi ulenu kalo olelele ni osu na kalo ka ma oke nwinikese ka ni na ochiri odi oso ulasiata afi ileno.",1.0,0.3469
+786,Na ɔkɛnku nwuna bɔƒɔtaadi lɛlɔ ɔsu na Katɔti úmwi-nwu na ɔ́nu-nwu ka ɔdi ukyuli ɔni nse siin.,na okenu na-akpọta adire lusuna ka tọti ụmụ ya na ọnụ ka ọdị uchiri ọ na-eze si,0.8235,0.5205
+787,asa báƒɔ kalɔ kamɛni bése iye bana enu kabla kadi.,ye,1.0,0.95
+788,"Na lɛla lɛni mɔɔgyú-mi ɔtɔtɔ ni, ani nébo-mi lɛlɔ.","Nale nale ni, ma jumi ototo ni, anyi na-egbo mịrị",1.0,0.5263
+789,na ɔdanku ngba bɔni naaadubo bɔsa kudii.,"na odangu igba, boyi na alugbugbosa kudi",0.8571,0.3636
+790,"Na Yudaƒuɔ bákya béteeye-nwu lili banii, “Anwu nɔɔ, anwu nɔɔ?","na ya bụ ọba cha betee ya nwunye ya n'ebe a niile. Awnụọ, awnụọ.",1.3,0.5957
+791,"Ka Rahel ɔ́nu ka ɔɔɔdaku bebi badi bɔwɔ teete Yakob ni, úbo uukpóku ɔnwani Lea kogyulo.",Kedu ka ọ ga-adị gị ma ịbụ onye Igbo na-ete Jacob's nụ? Ugbo ukpoku ọwa niile a kọjuru,1.0625,0.6377
+792,Ɔ́sia ɔmii na ɛpu kawɔkɔ úte usien ku kadi nwaa kasakɔ.,O si na ekwu ka okwu ute use kuka di nwa aka,1.0,0.4651
+793,Na ɔlɛka adua ammɔ bekyuli bamɛni belie besie Unwoti kakpakɔ kammɔ kada kakɛ.,Na ole ka adu a a ma obechuru ibameni belie besie nwenti ka kpako ka ma o kada ka,1.1538,0.2656
+794,"Kawɔlɔkɔ ni, mina kɔnyi kɔ́bwɛ kúwi-ma lɛlɔ aani kalɛ na ketu keeyi taabwɛ na keeƒie bekyuli.","Ka ọlọkọ ni, mịna kọnyị kọ bụọ kọ wee malụ ịlọ, a nị kalị na ketu uke eyi ta bụọ na ke efie ebe chụ",1.3125,0.4054
+795,Mina bekisine baayɔ́ ka bataada-mi kenye banii lɛ́bla likpidi.,Mina bekesini bayo ka bata adamike nye bani lebla le,0.8889,0.24
+796,"Anwu nli nwuna keliekɔ kakaaka na úbimi kayaa ɔ́ƒala katɔ, na ɔ́ya na kalɔ kammɔ ƒui lɛnɔ kaƒa na lɛla lɛdi lɛɛɛda-ka.",na ubi m ka ya ofala kato na o ya na kalu kam bu pụrụ ịle nu kafa na rile rile di na ya,1.0,0.5978
+797,Ɔsika mɔɔyɔ́ ka binu lɛla lɛni na mbo nte-mii kalɛ na bitaayia-mi na bitaabu-mi lɛnɔ uwi ɔni na bilie ngba mɛni.,"A sị ka mụ ayọọ ka binu lelaa leni na mgbo ntemi, ka lelaa bitaa yia mị na bitaa gbumị le nọ onị na bịlịe nkpamị",1.0476,0.3563
+798,"Bɔɔsu lɛnɔ kalɛ na biibunku bekyuli na bɔyɔ kemmo, na bɛsia Blɔti Yesu Kristo anu kpakplaa.","Biko sulenu, ka elina bịa ị gbuo gị betule na bịa ọyọkịmụ na be Chọọchị nke Jisọsị Kraist nke Ndị Nsọ nke Ụbọchị Ikpeazụ.",1.375,0.8108
+799,Ɔmɛni ɔsu Kain úti kɔnyi kati kati na nwuna anumi ávumana.,Omenyo so ka enu ti konyi kati kati na unu anumi avu,0.7273,0.3404
+800,na beete balalane ubo ka bekeli bana kɔtu bɔni.,Na be table land na ubo ka bekele ba na kotugbo,0.8889,0.3421
+801,Na babambadi badubunwini bekpone bani muulie bapɔnkɔ.,"na ba bam badi, ba do bu onwe na ekpe kpo na, ba na imu lie kpapu",2.2857,0.3478
+802,"Bányonu-mi aani uleku ɔni nányonu ɔnana na únwini ɔyalɛ, na bakɛ basiaku ala bamba kama.",banyere ụmụ nị ole kwụ ọnị na nyụrụ ọna na na onwị nị ọyale na bakebasịakụ ala bamba ka,1.0,0.4085
+803,"Ɔmmɔ ɔsu ni, Unwoti Katɔti ɔ́ya na Er úkpi.",Ọma asụ nwa ti ka tọ ti ọ ya na erụ,1.2222,0.4688
+804,Na aayá na mɔɔdi lɛma pii lɛlɔ teeƒie-ni taaƒɔ.,"na aya na modi, le mapile lo, te ife ni ta",1.0,0.3784
+805,Na kalɔ nɔɔ ɔdi ɔdubɔkana ka ɔkɔku-ka bɔgyu ɔnu?,"na kalu nu, odi odubokwu na okuko ka akpoju onu",1.0,0.5
+806,Na bakya bana adi nvo kemmo baabla unyeƒi na ɔmɛni lɛlɔ.,"Na bacha bana, adi invoke mu ba abla onye fi na omenile",0.8182,0.2667
+807,“Ɔmmɔ kama na Lewiƒuɔ bammɔ béti bana enu basia bakɔ bammɔ eli lɛlɔ.,mọ kama na lewi fụọ ba mọ beti ba na enu basia bako ba mọ elile,0.9231,0.2778
+808,"Ɔmɛni ndubɔya na kayawi bekyuli ƒui banu bati ka Unwoti lɛti pɛ kani ndi Katɔti, na ɔdi biala ɔsɔ uuubo.",Omenala Igbo na-akwado ka ụmụ nwanyị bụrụ ndị a na-alụ batịka onwe ha letara ka na-erughị afọ iri na ụma.,1.0,0.7952
+809,"Mmɔ na Yakob údie kenye ɔnini, “Ami baalɔ Yakob.",Mụ na Jacob weere kenye onwe anyị. A mụọ baara m Jacob na mụ na ọ na-ala ọma ọsọ Jacob,2.0,1.1622
+810,"Na bɔtala Timoteo na ubo ubakya-mii ɔkplu, na ubunku-mii na bina bɔƒɔtaadi kemmo.",na bụọtaala Timotiọ na ụgbọ ụba Chami Okwuru na ụgbọ ngwụmị na bị na-ewputa adịkị,0.8462,0.5231
+811,Unwoti Israel Katɔti Kedee ɔni ndi bana Udiene ɔnini.,"Nwanti Ezra kàtọ́ tike de, ọnụ́ ndi ibà na ụdi ene ọnụ́",1.2222,0.4318
+812,na ákya-mi kayi na áya na mina kɔyu kɔ́kɛ ɔyikun.,na acha m ka yi na a na mi na kọ oyụ kọ ke oyụ,1.2,0.4324
+813,aani kalɛ na baaklibi uleku teesienku kawɛɛkɔ.,A na-ekele na baakụlịbị ụlọ ọgwụ dị na Sịengụka wee,1.2857,0.641
+814,Na bina Unwoti ɔdubɔya na ɔtɔtɔ utaagyu-mii na binwini bekyuli bani neeebo kɔsia kɔdi na biteewulo kɔnyana na bina kɔyi kemmo.,"Na b'ina onweti odugbo ya na ototo uta ajumi, na b'iwe n'ibe choro ibani na egboko si akodi, na b'ite wulu ko ya na b'ina ko ike",0.9524,0.3173
+815,Na eti egulabi ammɔ ete Aaron ku bebi bananabi aani Israelƒuɔ bebi bakladi bammɔ ngba bɔƒɔ lili kayu.,na etiti agulabi amo etiti aron ubebi banana bi. Ani Izrafulu bebi bakladi bamo nkpa gbugbo lili ka,0.7778,0.3133
+816,"“Nsu anwu lɛti pɛ kani ndi Katɔti na ulávumana, na ukyuli ɔdi ulakana-nwu lɛlɔ bɔta bunye lɛnɔ.",Izu ahụrụ etiti ka ndị dị ka otu na ụla abụọ na ọchịrị ọdịwụla ka na-anụ na-erobọta bụ ihe na,1.0588,0.6267
+817,"Liƒu bonwu lɛdubo Teman ɔma unengudi ɔmmɔ bekpone buƒie, na badubɔdu amii Edomƒuɔ ƒui.",Lefthanded bụrụkwa otu onye ọma unu ngwidi ọma bekwe na pụị na-abụdị ụdị amị edomfụ ofu,1.0714,0.6761
+818,Baasɛ ku ɔmantɛ bebuo ku beƒiebuo ku kayaa bebweyi ku bekyuli bayawine ƒui báyii ku udu.,"Bịa sekụ, ọ ma nte ebigbo, kụbe ife ịkpuo, kụ ka anyi abigbo ị. Ka obodo chụlị ba ya we na efu ịba ya iko",1.5625,0.6111
+819,"Unwoti ɔ́bla-mi lɛƒɔndia, ɔsika nsiaku-nwu kama siin.",O nwere ike ịbụ na ị na-echefu ndị a. O siri ike ịghara ịghọta ihe m na-ekwu.,2.4286,1.0
+820,Na bina adingyii mmo lidu ƒui lɛnɔ ɔdubuƒie-mu ɔƒɔ ute nwuna kabla bablane.,"Na binu adighi m imere du pu i le no, o bu ofu ihe mu ofu, o te unu ka bla",1.5385,0.5082
+821,Lɛni kani na bagyata bani mɔɔnya kalɔ taavi ku ɔyikun ɔdi ɔgba útanya mmɔ kudii.,"Leenụ aka ya na-abịa taa. Banyere mụ onwe m, ya karịrị taa bụ oyikwụ. Ọ dị ogba uta ya bụkwa dị",1.4,0.6462
+822,“Bɛbwɛ lilu ƒui bise kaduɛ bite mina kadi bekyuli.,N'ebe a anyị na-elekwasị anyị bekee ka anyị na-akadị bekee,1.1111,0.9
+823,Ama bani na awɔ ku-ma bɛɛsála taadi.,Amaghị m ihe na-akwọkwa ma bụ salad.,1.0,0.6071
+824,Mɔɔwia ka amii Israel kadi bɛsu ɔmɛni bɛnini.,Mọ́yàka àmì ísràka dibe su oméni benin,1.0,0.4595
+825,"Na sɔsɔ ni, Ƒarao benengu ku Egyipteƒuɔ ƒui baanu Mose ka ɔdi ukyuli ɔni náƒɔ kuye geen.",Na so Sani fara bin ngugu Egypt fawwi gbaanu mosi ka odi uchuli oni na kwokwu ye ge.,0.9412,0.3857
+826,"Anwuɔsu ni, taya na bekeli bana kɔtu bɔni na ɔbladu ɔmɛni ɔsu.","A gwara m gị na m abụghịkịlị, na akụkụ ụbọchị na ọ bụrụ na ọ",1.0833,0.7755
+827,"Ɔsika úti úbedu ɔƒɛni ni, Katɔti útatala tɔ Kɔyu kɔmmɔ ɔnii kutáƒɔ-ma lɛlɔ kemmo.",ka tọchị ụtatara tọ ka yụka mụ ọnị kụta fụma l'elọ,1.0,0.6923
+828,"Kadi bani mɔɔsia Kusƒuɔ anu na baakun lɛmɛnɛ na Egyipte lɛlɔ ni, badubɔnu ɔmɛni na bayia geen na kɔƒa lɛnɔ kukpo-ma.",Gàdíbàní mọ́ sí àkúṣọ́ fọ́ ànú ná àbá àkúnlẹ́mẹ́nẹ́ ná Egypt lẹlọ́ni. Bàdúbọ́ ọ́nụ́ ọ́mẹ́nẹ́ ná àbá yí àgẹ́yín ná àkọ́fàlẹ́ nọ́kúpọ́,1.0476,0.6129
+829,Anwuɔsu Dawid ku nwuna bekyuli bése kalɔ beewulo laa útédu ka lɛlɔ lítu-ma na basɔ balakana buwulo muedi.,"Awa si na-ewite gi n'una, biko lee be ewulu laa ute dika lelee otu ma na pasoba na aka na buwulu",1.0556,0.4535
+830,Na bɛɛkɔ́ taatátɛ ku bina bayɔne bammɔ.,"na beko ta ta te ku bi na, ba yo na iba",1.4286,0.3871
+831,Na bina awodu ani na bɛ́tu bínyene ƒui na anya na bɛ́sia anu na kekpo uwi adubo bɔƒɛ.,na bina awodu ani na betu biyi na kwi na anya na pesia anu na kekpo owe adugubo,0.4444,0.2462
+832,"Na bana ablala ɔsu Katɔti úwida bana mmo ku kɔlɔ, na kɔsɔ kuládia edula adi.",Nna banna abala osukato ti uwida banna imu kolo nakoso kula di edula adi,0.8667,0.2667
+833,Na muumwi-nwu lɛnyi na lɛla lɛni na ɔ́su úse ɔsu.,na mụ mụ onwe ya na lele ya na ọ sọ ụsọ ọ sọ,1.1,0.5676
+834,Na ndubɔya na ɔta ɔbla aani kalɔ kakwiidi.,na Indubia na ọta ọbụla a na-ị ka lọka kwụrụ,1.0,0.4118
+835,"Na muusé kenye lite-ɔ ka si úbo úte lɛni ni, ndubɔkɛ sika ɔƒualadi pii lɛkya ƒula lɛga kadikɔ kavumi kemmo.",Na mu ze kenye lito ka si ugbo utere n'ini. Ndi ugbo oke si ka ofu line pi ire cha fula. Le ga ka di ko ka vu pike,1.25,0.3765
+836,’ Na mmɔ na adubo bɔnu bɔti ka ami ɔni ndi Unwoti mɔɔkya kavumana Egyipteƒuɔ ku Israelƒuɔ ntɛ.,na imọna adụbọ gbọnụ bọtịka amị ọni ndị nwetị ma ọcha ka fụma na Egypt fụọkụ Israel fụọ,1.0,0.44
+837,"Na ɔ́tu lɛgaboku kalɛkɔ ɔtɔ kesii kani na uulie taatɛ litemi, na úti sida kugyiikɛ ɔ́mana ɔ́si kalɔ útédu katɔ.","Na otu lega Igbo kwuru ka leko, otu ka esi ka na uli taa terete m. Na ututu sida ku jike oma na osi kalo utedu ka",1.15,0.4138
+838,Na asiku-bu kɔlɔ bamba lɛlɔ asɔku abásala.,na asikubụkọlụ ba malụlụ asụkụ abụ asala,0.8571,0.2941
+839,beleku baga badububo babataanu-mii lɛlɔ.,"Biko barga, gadu gbu gbu, babata nu mile",1.6,0.4118
+840,Amu na Egyipteƒuɔ báwia lɛlɔ badine béte-ma aani bekyuli beƒiedi lɛlɔ banune kalɛ.,"Muna Egyptị fọọ kba wia lẹlọba dị nị bẹ tẹma, a na ịbẹ chụlị bẹ fịẹdị lẹlọba nụ nị kalị.",1.5385,0.4706
+841,"Na ka Ester ɔ́su ɔga ɔmmɔ ka nwuna lɛlɔ ukyuli na Mordekai ɔdi ɔsu ni, ɔga ɔmmɔ úti-nwu ɔ́bla nwuna unengu na nwuna kaduli.","N'aka nke ọzọ, ọ ga-ọma ka nwunye na-alelọ ochiri na mode ka ya ọdị ọsọ ni. Ọ ga-ọma utu ọbụla nwunye onenku na nwunye ka di",0.9583,0.4947
+842,Na kɔbuli ku ayabi lɛnɔ eteekeye usien na ɛpu avlɔvɔ eteeto taabla kudu.,Na kọbọlọ ịkọ ayabịlị nọ eteke ya ụsịen. Na epụ avụravụ etee tụlọ ta ablakụ,1.0,0.4068
+843,Na lɛta lɛni nsia akpa ammɔ lɛlɔ libo aavlene-ɛlɔ.,na letaleni ensia akpa amolelo libo avuleni elo,0.7778,0.3
+844,"Na bani nábla likpidi ni, badubɔta bebeduo kɔtɔ bɔdu kemmo.","Ndi be anyi niile abiala ikpe di ni, gbaruo taa, bebeduo koto, gba duu ke",1.3,0.5208
+845,sɔsɔ na ɔdi ka adi Katɔti ɔni mɔɔbɛla lɛlɔ.,"Soso na odika adika toti, o na-eme obele alelo",0.8889,0.3824
+846,"Na bi ɔsu na ése ukyuli biala lisusu, na ɔni ntulo ƒui ndi ƒula kadi bekyuli Israelƒuɔ lɛnɔ lɛni?",Na biao suna ese ochiri biala risusu na oni intoro kwi ndi puru ka dibe chiri Israel puole noreni.,0.8421,0.3636
+847,Unwoti Údie Kalɔ Keyedi Kammɔ Litemi Kalɔ.,M wee ti udi ya ka mụ na ya dị ka mụ na nwanne m nwoke.,2.2857,0.7429
+848,Ina dɛ na ukyuli ɔ́kɛ lɛkɛ na ɔ́ƒɔ lɛnyi ni.,na na ochiri okeleke na opolenu,0.8,0.625
+849,"ɔɔɔdubo bɔtɛ, ɔsika lɛdisa lɛdi bukeye na ƒula anumi.","O dubu bọte, o si kala disale dibu ke ya napula anim",1.3333,0.3023
+850,Nsu Katɔti anu asia Noa ku beƒiebuo ku ɔmantɛ bebuo bani nkya-nwu kudɔ na ɔkɔlɔ ɔmmɔ kemmo lɛlɔ.,Isiokwu atọ́ á nụ́ asị́a n'ụwa kụbe fị́ọ́gbụ́ọ́ kụ́ ọ́ma nté b'ị́gbụ́ọ́ kpánị́ ncháwụ́ nkụdọ́ na ọ́kọ́lọ́ ọ́mọ́kị́mọ́ lélọ́.,1.0556,0.6364
+851,Ɔsika ɔɔyɔ́-bu uwi ndi uwi.,o yobu uwi uwi,0.6,0.55
+852,na bíye adingyii abuni bɛ́siku kaƒɔ bíbalɛ.,na di a di ji abụọ n'ime sekọndị ka ọ bịa baara,1.5714,0.6857
+853,Na ndubo bɔya na ɔdi lɛku kemmo bebuo bammɔ ƒui lɛnɔ lɛlɔ.,na indibobo ya na odi leku nke ma obegbuo gbam ofu le no le,1.0,0.3913
+854,Anwuɔsu bɛti nwaa ka Unwoti lɛti ndi katɔ ku kalɔ Ɔti.,"Awa nso beti nwa ka, nwa tileti ndi ka to oku kalo",0.9091,0.3488
+855,"“Eƒraim úwulo ɔ́kpali-mi ku kɔnyana ɔnini, ‘Unwoti buse aani alakpi akɔ bakɔ bani na átina lɛnunda na kalɛ na ésusu-bu ɔsu na bɔ́tɛya kalɛ na bunu-ɔ litemi.","Ephraim Ụlụọkpali mekụkọ ya na ọnini. Nwenti bụsị aṅị ala akpị akọ bakọ, ba nị na atị na l'enu ụnda na kalị na esusugwụ ọsụ na kpọte ya kalị na bụ nụọ rịte m.",1.0741,0.3884
+856,kɔku kɔni nse aani ɛpu ɔni mɔɔnwanɛ lɛlɔ.,Kọkọ kọ́ ni sẹ́ àní ẹpú ọ̀nì mọ́ nwa nẹ́lẹ́,1.25,0.5455
+857,"Na kɔduli kɔni na békulo ƒui kuuubo udu bɔyii aani anasi ɔkpaala, iye nvo bɔni na bagyumane bálɛ na bábɛ-nwu kalɔ.","Na kwa duu liko ya na be kolo fu yi, ku ugbo udubo yi, a ni a na si okpala, iye invu gbo ya na gbajumani, bali na ba be nkalou",1.2381,0.3736
+858,"Mmomu ni, bitaanyuɛ lɛlɔ, na bina lɛlɔ litaakywi-mii kaƒɔ.","mụ mụ ni, biko nyuọrọ m enyemaka. Biko nyuọrọ m ihe a chọrọ m ka",1.5556,0.7609
+859,"Ɔmmɔ ɔsu si baatɛ na lɛlɔ ntu bɔdubo-nwu ni, na ɔ́ta uleku ɔmmɔ lɛlɔ na ntu bɔmmɔ buwi kalɔ kalɛ na uleku ɔmmɔ ulada kaƒɔ na ɔwɔ ute ɔnwani.",Ọma osisi baa ten na lelọ intu gbodugbo nwunye. Na ọta oleku ọma lelọ na intu gba ọma bu wi kalọ kalọ na oleku ọma ula da ka fọ na owụa ute onwa.,0.931,0.3796
+860,Na kamu kani nátakya ebi kalayu taabla ligyie na bekulo-ka bababla lɛdila lɛdi.,Nakamukani nata cha ebi. Kalayuta abla lijie. Nabe kulo ka baba abla ledi la ledi,1.1538,0.1231
+861,Unwoti Katɔti ɔdubute-mii kusɛ kusɛ bɔsiku Sion.,"Owu ka ato ti o rugbote mi, kosekose, bosi kuzion.",1.4286,0.45
+862,"Ɔmwi, na Abib kɔbuli kɔmɛni kemmo ni, bɛdubɔlɛ Egyipte kalɔ lɛlɔ.",na abib kọbụlị kọ ma enike mọnị b'edu ụbọọlẹ Egypt kalọlẹ,0.9091,0.4615
+863,Ɔmɛni ɔsu bana ƒui báta bábla susuusu.,"Omena suba na fwe bata, babla susu",1.0,0.3871
+864,Na lɛma lɛmmɔ ndi Beser ku Romot ku Golum.,na lema lemo ndi beser ko rumot ko golu,0.6667,0.2424
+865,"“Na nka lɛ́sia anu ka ndubulie ngba gyɔlɔɔ na baláti-mi emeyi muedi baláka, asa na likpi buɛɛ na mina kaduli.","Nne m ga, lesịa anuka, ịndụgoro ịgbajọrọ? Na balatị m emeghị m emedi balaka, asị na lekwa igbo ya na mịna ka dị.",1.05,0.4824
+866,Bɛya na bukeli buteesie lɛma lɛni na bátu bámana-ni kemmo na butékpi na mmɔ.,Bịa na-akpọkọta ndị isi na-eme ala niile na Batuba na Anike mụ na-akpọte ekwe na,1.0,0.6393
+867,Bebuo ƒui ku bebweyi bani mɔɔví kalɔ lɛlɔ ƒui ku baasɛ bammɔ ƒui ku lɛla biala lɛni mɔɔví kalɔ lɛlɔ ƒui bálɛ atɔ asia na bana udu kenye bási ɔkɔlɔ ɔmmɔ kemmo.,"Bẹ́ẹ̀ gẹ́gẹ́ fúì, kò bẹ́ẹ̀ gẹ́gẹ́ ìbánì mọ́fì kàlọ̀lẹ̀lọ́ fúì, kò bá sẹ̀ẹ́ bámọ́fì, kòlẹ̀ lábiálá àlẹ̀ní mọ́fì kàlọ̀lẹ̀lọ́ fúì, bàlẹ̀ àtọ̀n àsià nàbàna odùkenyi, bàsí ọkọ̀lọ̀ ọmọké",1.0,0.6667
+868,Ya na bevone ƒui bakanti bakya limeyi lɛmmɔ ku ewida.,"Ya na befu nu fu i bakandibacha, nimele mboku ewi",0.8,0.3488
+869,"Na ɔƒaani ɔni na ntɛ kɔgba kɔmɛni kemmo na litemi buni ɔsu ni, mɔɔyɔ́ ka nka ɔsɔ ɔkya-mi kudɔ na unye-ɔ kenye uteebunku-mi.","na-afụ anụ, ọ na-intekọ gba kọmenike mụ na letịm gbuo nị ọsụ nị ma ọ bụ ịyọka nke a ọsọ ọcha mikwụdọ na unyọ ka enye ụta egbe ngụmụ",1.2174,0.4947
+870,Na ndubutiku-ɔ na asɔ enwini ebo ɔni na kavumana kadi kelebo-nwu kemmo.,na ndụbụ tikuo na asọ enweghị egbo ọnịna ka fụma na ka dịkwa egbo nke,1.0,0.386
+871,"Si ina bi unengu na adi na ńtéduo mmɔ ni, ɔlɛka ada ɔtɛmi aya na ebile kenye kpoo.",Chi na-abụ ụnọ ngụna adị na ntị doro ịghọrọ ya. Ọleka adabọtara m aya na ebiri ke nyekpụọ,0.8889,0.4921
+872,Kɔƒa kuukpó-bu na bɔɔwia ku bunwini bubo-ɔ kudɔ.,Kofakwu kpo bu na abughi aka bu nwunye bu oku,1.125,0.4211
+873,"Na ɔdubɔya na kaƒɛndi kekpidi kataalɛ, na ɔƒɛƒɛɛ ukpidi uteekpo kalɛ na ubie bina edula.",na oduboya na kafe ndi ke kwidi kata ale na ofefe okwidi ute ekpo kale na ubie pina edula,0.8667,0.2222
+874,Ɔsia anu ka batɛ bekyuli etemila ulu lɛlɔ siin.,"Ọsị ya, anụ ka batara ebe chọọchị etemela olu, lelee ọsị",1.1111,0.6053
+875,Na agyi geen ka adubɔkɛ ala adi ina ka alánu-nya.,"Na ajụkị nke a, adụbọkị ala adị, ị na ka ala nụ.",0.9,0.4474
+876,Buugyele baƒɔtaadine lɛkpa lɛni mɔɔsa na ƒula kaduli ku Ɔnwa Uleku Apia ku Arkipo ɔni nnyeku-bu na Blɔti kabla kamɛni kenye kpakplaa aani ukpone kalɛ.,"Bụrụ na ịbụ onye isi na-elekọta ụlọ ọgwụ, ị ga-ahụ na ọtụtụ ndị ọrịa na-abịa na nsogbu dị iche iche. Ụfọdụ nwere ike ịbịa na ahụ ọkụ, ụfọdụ nwere ike ịbịa na ihe mgbu afọ, ebe ndị ọzọ nwere ike ịbịa na nsogbu iku ume.",1.72,1.0484
+877,"Mmɔ ka nwuna ɔtɔlati únu kenye kani na ulekudi ɔ́su-nwu mɛni ni, lɛla lɛmmɔ lítakɔsi na líkpoku-nwu.",maka ụna ọtọ lati ọnụ kenyere ka ni na ụlọkụdi ọsụ ụmụ nị nị. Ịlaa le ma ọlị ta kọsị na alị pokụ.,1.2353,0.481
+878,"Na nwuna ulu busie kemmo ni, ɔlɛka ɔsia Samaria kalɔ lɛlɔ.","Na unun olugbuseke moni, oleka osiase Maria kalole",0.9091,0.3261
+879,"Abu ndi bekyuli bani mmomu nékulo ago, ɔsika buumwi Katɔti ɔkɛnku nwuna Kɔyu lɛlɔ na bɔɔkɛ́ ebiti ka abu ku Kristo Yesu bɔ́bla unwi ɔsu.","A bu ndi be Chiriba niile umu na ekolu agu, o si ka buo umu ka toti oke nwunye ka oyu lelu na bu oke ebiti ka agwaku Kristi Jesu bu obla onwe ya",1.2,0.3981
+880,Bebi bani na Esau ulekudi ɔmɛni ɔ́wɔ úte-nwu ndi Yeus ku Yalam ku Kora.,Bibi ba ni na Esa Ulekwu di omenala owuo ute wu ndi Ijesa ko ya la kukoro,1.0714,0.3636
+881,Na awɔ ɔlati édie ƒula kɔnu na ábla ɔyikun ala na édie ƒula kadi bekyuli Israelƒuɔ na Egyipteƒuɔ enu kemmo.,na afo ole ka eji efula akọnụ na abụla oikun ala na eji efula ka dibịa chụrụ Israel fụọ na Egypt fụọ inuke,0.9,0.4368
+882,Ama lɛnɔ nádi lɛga na Reuel bebi akɔ uwi ɔni na bákya Edom.,"A malẹ nọ na di ile ga na Ruel Baby Akọ, uwe ọni na bacha idọ.",1.0769,0.3696
+883,kɔni na ɔdubuti ɔkyula kalɔ kana ƒui.,K'onina odubuti ochulo kalokana,1.0,0.3333
+884,na kayaa lɛnɔ kenu-mi lɛdi na kete ntu na kalɔ kayɔ.,Naka yaa leno ke nu miire di. Nakete intu nakalo,1.0,0.275
+885,Israelƒuɔ Béye Samuel Ka Use Ɔga Ute-ma.,Isi akwụkwọ bekee bụ Samuel ka ọ sị ọga ụte,1.1429,0.5625
+886,"Si ɔɔɔdi lɛni ni, ndubudie-nwu lɛlɔ ala.","Si ọdịnala ni, ịndụ bụ dị ọnụ ahịa.",1.0,0.6452
+887,Bábala unwi kenye ku kɔma na ɔkladi use ukpludi na eti akya kavɔ ɔsii kemmo kalɛ na wetu uwi.,A bala onwe ya nke ukwu kama na o kladi usi okwuru di na eti acha ka vo osi kemu kale na wetu,1.0,0.3649
+888,Ndubo amii Yerusalemƒuɔ kɔtu bɔni na bina etemila tatɛ ulu siin lɛlɔ ɔsu.,"Ndi be anyi, Jerusalem kwuo okwu tugbani na bina etemila tate olosinle lo",0.9231,0.3667
+889,Anwuɔsu na bíkeli bísie Asiriaƒuɔ kudɔ bɛnii bitáblaku-ma unwi na bɛwia kebunku.,"Awa so na bikkili bisey, asiri afọkụdọ be ni bita blakwuma unwi na be wiake bu nkụ.",1.1667,0.3134
+890,Na akya lɛdisa kemmo na use aani kalɛ na ketu keeti ukyuli.,na achaladisakumu na useani kalena ketuke ti,0.8333,0.3191
+891,Edula bɔƒɛ taasiku mmo emeyi bɔdi bɔ́sa na Moab kalɔ lɛlɔ ɔƒaamu na lɛlɔyɔ kɔku bɔbla na ntɛ kediekɔ lɛnɔ kenye kékulo.,Adulaba bụ ihe a sị na ịṅụ ya emeghị kpọdị bọsa. Na mmuo apkarọlịrọ ofu amụ na rịlọ ya kọkụ mgbe bụla na inte kedi ka ọ dị nọ kenyere kwụrụ.,1.2727,0.6146
+892,"“Anwuɔsu ƒula banwani bananabi ni, ya na balɔ-ma banii, ‘Mina badi,’ na aya na balɔ ƒula banwani belekubi banii, ‘Kɔnyana bɔnu.","A na-asụ fụla abụọ n'Ibadan na Nábịni, ya anaba lụọ ma kpanyị minabadi. Na a ya anaba lụọ fụla abụọ n'Ibeleku bụ kpanyị kọnya na gbonụ.",1.1429,0.4124
+893,"Ɔmmɔ ɔsu Yudaƒuɔ bani na Susa básɔ bása kɔbuli kɔtɛdi limeyi leevu-linedi lɛlɔ na bádu nkyuli eti aku na Susa mmɔ, nsu béteti lɛla bamba biala betenwini bana lɛdi.","A ma so yuda foba ni na susa baso basa. Kobiri ko tedi, limele fuli nedi. Lelo naba du injuri eti aku. Na susa mo. Insubeje eti lela ba ma bia la kpetenwe na iba na ledi.",1.069,0.2955
+894,"Mmɔ ni, Yakob úye uni Rebeka ɔnini, “Átanu ka Esau ubo linwini na lɛlɔ na ami mina ɔlɔna use suɛlɛ suɛlɛ?","Good morning, ya kọọkụ ihe unu ịre beka ọnịnị. Atụrụ m ka Esau ụgbọ ole nwịnị na-alẹlọ na-amị mị na ọlọ na ụsụ ịsụlẹsụlẹ.",1.0476,0.5679
+895,Ɔdi mina ɔnwani ɔni nényeku-mi aani ukpone na bɔ́bla Katɔti kabla.,"dimkpa onwani, onye na enye kumi anu ukpo na gba obara kato ti ka",1.1818,0.4151
+896,ɔ́si ɔƒɛ katukɔ útédu kanukɔ ɔnii babasala na benu.,O si opekatu ka o tee dika nụkọ. O niba ba asala na be,1.4444,0.3902
+897,Nsu biiní ka bibo-mi kudɔ na lɛya na bɛkɛ ngba bɔmmɔ.,Jesu bini ka bi gbo mi kudo na le ya na beke inkwabo,1.0,0.3902
+898,Na ɔƒɛ ɔ́du utubili livo.,na ofe odu ntolu,0.8,0.6842
+899,Na ɔ́kpanku ala ammɔ ƒui ɔ́sɔku úboku ɔni na lɛla lɛdi lítayii.,"Ọsọ ekene oyikun, ọ si ka ọ bịa use ku ọfẹ emeyi ate ịmọka ọsọ uta di ịye ọni tọ ịntụbọdi. Amụna David Oyewole",2.0,1.4286
+900,"Nsu ɔmɛni ƒui kama ni, bekyuli bammɔ béni na básu banini, “Oowo!","so, omani pui kamani, bechuri ba mo beni na basuba nini o",0.9167,0.3061
+901,Biti mina ɔbladu ku mina etemila ani ƒui na bínu na bɛ́tɛya bɛsiku-mi kudɔ bɛkya kabla bɔbla kemmo.,"Bịa tinim na ọ bụ ladụ, kụọ mị na etị mị, anị fụọ ị na bịnụ, na beta ya bụ ụzọ kụọ mị kụdọ, becha ka bụla bụla",1.4444,0.5443
+902,"Lɛnɔ ni, banwa, bɔɔwia kpakplaa ka bɛkɛ litemi bɛsu bakɔsɔne.",na-anọ n'ụlọ akwụkwọ akabeghị aka bịa suba kọsọ,1.0,0.6735
+903,"Ɔmmɔ kama ni, Israel úti ala ani na ubo ƒui na ɔ́yu Egyipte ulu.","Ọmọ Kamani, Israel ụti ala anyị na ụgbọ kwụrụ na ọyụ Egypt ụlọ.",0.7143,0.4167
+904,Na bakɛ bana ɔma kemmo lilu lɛlɔ ƒui.,Naba keba na oma kemo lelu lelo,1.0,0.3103
+905,kani kalɔ na ése na bula akɔ.,Kani kalona ese na bulako?,0.7143,0.1818
+906,Na bátásu Ɔga Unengudi Ƒarao kaduli bekyuli lɛnɔ.,na bata su oga unu ngodi Pharaoh ka du libe choro ile nu,1.5,0.3659
+907,"Na si mɔɔbla kasusu taasiku lɛla lɛni nálɛku-mi mɛni lɛlɔ ni, na mɔɔyia na lɛlɔ ƒui lɛɛtɔ́-mi.","naa si mụ abịa ka sọsọ taa si gị lee laa, lee ị na-alụkọ mụ ịma na ịlụọla mụ. Na mụ bịa na gị na-alụ fụrụ gị na",1.4706,0.6438
+908,"Ina ka nwuna lɛnyi kalɔ ndi ubunkune ni, kebunku kani na ɔlɛka ute-ɔ ni, áyila-ka ka úkeli-ɔ kudɔ ɔsu.",na-aka ụna leanyị ka ndị ụbọchị nkụ n'ị. Ké gbuo ngọ ka anyị na oleka ụte ọ nị. Anyị la ka ka ụkelị ọkwụdọ ọsọ.,1.1579,0.5513
+909,"Ina ka muubó-mii lɛnimi enwu ku kɔnyi taasu ka ndubo-mii bɔtina ni, bɔyɔ na mɔɔyɔ́ ka bɛni bide-mi na lɛnu-mii kɔnyana.",na ka mu gbo mu lee nu mi ewu ko konyi ta su ka ndu gbo mi ibo tinani. Bo yo na ma oyo ka kpe ni bide mi na lee nu mi konyi,1.381,0.3152
+910,Na mina ɔnwani Benyamin lɛnɔ ɔɔnu-mi taati ka ami mɔɔtɛmiku-mii.,na-akakọta ma ọkụ ike mu. Insụ ụnwụntị 13,1.0,0.8269
+911,"Ka emeyi ani baadi mmɔ éle ntɛ ni, Yesu úsie útéduo Yudaƒuɔ kakpakɔ na ɔ́tina ala.",ka emee ya na mgbe a di nso ele teni. Jesu usiri ute bu Judas ka kpa ko na o tinye na,1.25,0.4531
+912,Bekisine bekpone bani muulie bapɔnkɔ ku bani muubó atula beedie bana kekpo lɛnu na bekyuli beekeli taatábɛ na egyii ku atakpɛ kalɔ na báda lɛma béwi ukpludi.,"Bé kísiné, bé kpó né ba ni moli é ba pongó, ko ba ni mu gbo atula bé di ba na ké kpó lé nu na péchuli bé kélé ta ta bé na eji ku atape kaló na bada léma bé wi okpolo",1.4074,0.3462
+913,Anwu néte ɔƒɛƒɛɛ unu ku ɔyikun ɔni na uti utaabla ala.,Aụnịttị ọfụrụpụrụ ụlụkụọ ịkwụ ọ na-etị ụta abụghị ala,0.9091,0.7674
+914,Na bani ƒui béƒie badubɔtu-ma baƒuaala.,"na abali fu ibe fie, gbadugbo otu m abakwalu",1.3333,0.4062
+915,Na béti sida ligyii lɛdi básia lɛta.,na beti si da le ji le di basia,1.1429,0.3793
+916,"Anwuɔsu usien ɔmmɔ kani ni, Dawid ku Abisai bákpɛ buɛɛ na bésie kesii kani na Saul ku nwuna badi batɛ baalɛɛ.","Ọwụsụ, o si ọmọ ka ni David kụ Abishai makpẹ bụ na Bẹseke si ka ni na Sọul kụ na gbadi batẹ baalẹ.",0.9524,0.3908
+917,Mmomu bɛwia na bɛti ala ani geen na Blɔti ɔɔyɔ́ ka bɛbla.,Momo bụ nwia na-abụghị ala nịgị na-abụghịkwa ọyọ ka bụ,0.8333,0.6136
+918,"O Unwoti, ta ku ƒula Bunyimi Adaka na atina ƒula ɔyikun.",O wụ otu a ka e si akwụsịlụ agụụ na-agụ mmadụ na-atịnafụla oyibo,1.0909,0.75
+919,"Na butaasia anu ka Blɔti ɔdubɔƒɔ-bu, aani kalɛ na kekpo kabwa kaagyumana ukpone lili.","N'abụta ya asị anụka, blọọtị odugbopọgbu a na-ịkalị na kẹpụ ka gba ka ajụma na ụkwụ na-elili.",1.1429,0.4493
+920,"Nkyuli inyɔ bammɔ beeebo bebi badi, anwuɔsu Eleasar ku Itamar kani nábla bakpane kabla uwi ɔni na Aaron ɔni ndi bana ɔti úlie ngba.","Chineke enyela m be ya bụ obi bịara dị. Ọwụsọ elias akụ ịta maka na na-abụghị abakpanị ka abụghị, onye ọbụla arọ, onye dịịba na ọtị ụlịe",1.125,0.6226
+921,"Nsu si ulekubi na ɔdi ni, na bɛya na ɔsɔ ɔkya ngba.",m̀sụ̀sị́ Ụlọ́ọ̀kụ́bị́ na ọdị́ni na kpe ya na ọsọ ọcha nkpa,0.8333,0.5263
+922,Bildad Ɔ́dɔnku Hiob Ɔnii Ɔɔtɛmi Taagya.,"Biafra odogwu yor, o ni o temitayo.",1.1667,0.5938
+923,"Amu na Kain ɔ́su ɔnwani Abel ɔnini, “Ya na busie lɛku kemmo.",mụ na kain ọsụ ọwụrụ abụọ n'ịni ya na-agbusi ya lekwuo,0.75,0.5111
+924,"Nsu ami ni, nse aani kɔdingyii kɔni evete neeewile kudii.","Ihe a mụrụ, ihe a na-akọ dị n'ime ya, kọọ ihe ti na-ewili.",1.3,0.6522
+925,Yesaia Ɔ́su Kenye Kadi Ɔ́siku Moab Kalɔ Lɛlɔ.,Isaiah ọsụ kenye ka di ọ si kumụ apkalụlụ,1.0,0.3429
+926,"Na Romot ɔma ɔni nkya Gilead kalɔ kemmo ni, ɔdi Gad kɔdua bekyuli ɔdi.","na Rumortoma, Onye isi Agiliad Kalabari kemgani, odi ka kọdụ abali iri",0.9286,0.5091
+927,Israel kadi bekyuli bese aani kugyii kɔni kuna ligyiitu lɛ́kwii na kuna kɔgba kɔsɔ kulákana ebi bɔnwu.,"Isreal ka di bechuru be si na ya bu chi, ka o na-eku na lezu lakwe na ya bu kuna ka gba, ka so kulakana ebibon.",1.4118,0.4524
+928,"Na ɔƒaani ni, ukyuli biala ɔ́si ɔƒɛ katukɔ.",na ofe anini? Chule biala osi ofe,0.75,0.5152
+929,kani kemmo na bekyuli bani nse siin badubɔsia beduo.,"Tani ka muna be siri bani ye si, ba dubu si abedu",1.2222,0.3256
+930,Kabla kammɔ na Merari adua ammɔ badubo butaabla na Unwoti Adi Kevo mmɔ.,"Abla kamona, merari adua amo badubo bu ta abla na nwenti adi kevo",0.6923,0.1897
+931,Na Blɔti Yesu Kristo lɛƒɔndia lɛsiaku bina ƒui.,"na ablo ti Yesu Kristo, le pu o ndia le Sakubi na Kwe.",1.25,0.2821
+932,Ɔsika ala ani na baabɛ́ taabla mmɔ adi kɔƒa ka balɔ-nya anyi muedi.,Ka balụnyere anyị mme,0.9231,0.8077
+933,Na bɛmu bɛsiaku bina baƒiɔ kpakplaa lɛni?,na be mu be si akwụkwọ ị na-agba afọ kpalara,1.2857,0.5882
+934,"“Si liƒu lɛ́da-mii na bɛnii biikeli, bɛdubɔnu biduo ubu.","C'est le fou les amis, na beni bi keli, bedu bu onu biduo",1.3333,0.4186
+935,"Yesu ɔmɛni nékpi na bula lili ɔni na si bulie o-o, si bukpi o-o ni, bɔdubulieku Blɔti na nwuna bɔsɔ bubo kemmo.","Yesu omenaala na-ekwe na gburugburu, ọ na-asị gburie o, sị gburie o ni, bọdụ gburie kwa ụlọ ụka na-enwe na-abọsọbọ bọọlụ nke",0.9091,0.6353
+936,"Na ɔda ɔni na uubó-mii ɔmwi mɛni ni, ɔdi utada utavia utesie kɔdianu iye kɔmii na utákpa baƒiɔ badi.",na oda onina ugbo mi omu ime nini. Odi uta da uta via ute sie kodia nu iye komi na uta kpa gbafie obadi,1.1053,0.2152
+937,"Liƒlukutu suu lɛƒɔ limeyi lɛmmɔ, na basɔ bataka-ni batakya lɛkwa emeyi kemmo, iye kɔbuli kɔdi emeyi akɔ.","Ndi be anyi, ekene m unu. Nna biko bata, ka anyi bata chale kwa ekene m unu. Ihe kowara m kowara di ekene m",1.4118,0.7024
+938,Bɔbuɛ beete bekyuli bani mɔɔnu likpidi banii lɛbuni.,O bu ya bu etu e si lee bani onu lekwadi bani ile bu,1.625,0.4773
+939,Ɔsika muunú kalɛ na aayɔ́ Katɔti bekyuli ku kalɛ na áƒɔ Blɔti Yesu ádi.,mụ na Chineke ka anyị na-akparịta ụka,0.9286,0.8214
+940,"Uwi ɔni na Ester kabla bablane belekubi ku ɔga kabla ɔblane ɔni mɔɔnu Ester lɛlɔ básu-nwu kalɛ na Mordekai ɔɔbla ni, kayi kákpulu Ester, na lɛla lɛmmɔ líkpoku-nwu geen.","O wee sị ha, ""Ọ bụrụ na eze masịrị gị, ka ọ bịa taa na oriri m kwadebere ya.""",0.9655,0.8074
+941,"Lɛla lɛni mɔɔyɔ́-nwu kaƒɔ ni, ani na Unwoti Katɔti ɔɔbla.",lelele ni moyo nkafo ni ani na onweti ka to ti,0.8,0.4091
+942,Na bani ƒui nási Kehat ɔtɔ kemmo na baabla kabla na Unwoti Adi Kevo kemmo bumomo na bɔdi mmɔ.,Na bani fwe na si ke hat oto kemo. Na ba bla ka bla na onwenti adi kevo kemo bumomo na gbodi,0.7895,0.2297
+943,Ɔkɛnku bɔƒɔtaadi lɛlɔ ɔsu na Katɔti ɔ́lɔ bekyuli bamɛni ƒui anyi buni.,O ka m bọpụta dịlịlọ sị na ka sọọsọ ọlụ bịchụrụ baa me nụ fụị anyị gbuo,1.3333,0.6491
+944,"Nsu ni, ami Unwoti ndubo-mu bubile ƒui.",Ami nwụntị ndị Igbo ma ọgbụbịle,1.0,0.6667
+945,"Uleku ɔmmɔ úye-nwu ɔnini, “Ɔbune, na ka eeebo lɛla lɛni na eti edu-mu edie na libiɔ lɛmɛni lɛnɔ lɛ́gyu ni, wɛ na adubo ntu bɔni mɔɔgbá na buute ngba mmɔ bɔkɛ?",O bu na maka egbere na-ele na eti edu umu edie na libi ole ma na ole juni wee na adu gbo ntugbo na ima ogba na bu tenkpa ma o bukwa,0.9355,0.5167
+946,"Na bɛdubɔsia ulu unwi bɛnii bitékpoku-ma, nsu bɛdubɔsia lilu maatɛ lɛlɔ bikeli bɛtɔlɔ.","Na bido bọọsị a olu onwa Ibani bete poku ma, eso bọọsị a lilo ma telelo bikelibe tọlọ.",1.3077,0.4085
+947,na ama lɛnɔ bése kalɔ baava na ɔƒɛƒɛɛ ɔ́sa-ma.,na amaghị na ọbụ isi karịa afa na ofufe ọsọ,0.8889,0.6286
+948,Na baƒonubi ku besebi ƒui badubɔkɛ kadikɔ.,na bafunubi ku bese bikwi kpa duba oke ka di,1.1429,0.3143
+949,Na Abel lɛnɔ útáƒuna nwuna baƒonu bedeedi bani na báka bɔwɔ akɔ unwi na úti kakɛ kani nélie lɛmwi kaduɛ úboku úbete Unwoti Katɔti.,"na abelụ nụ ụta afụ na unu akpafụ n'ube dị edị, banị na paka gbowo akọ onwe na uti kake ka nị ne lịe remụ ị kadụ e ụgbokụ ubete ụwetị katọ",1.2083,0.4528
+950,Na anwu ɔlati úbo úbedie-mii ɔ́lɛku Egyipte kalɔ lɛlɔ ku nwuna ɔyikun bonwu.,Naa afo ole ka ubochi ubedi emi oleku Egypt ka ala olelo? Kedu na oyiku gbo?,1.2308,0.4918
+951,"“Bunine na Unwoti uunine balalane asogya ɔni na bátu bada, na ɔsɔ ulédie unyemi na ukeye.",ụunine na onweghi otu ụunine balala na asoja ọwụ na batubada na ọsọ ụledie onye mee na uke ya,1.0,0.3239
+952,Ulu ɔmɛni lɛlɔ na adubudie Lewiƒuɔ sɛsɛɛ asiku Israelƒuɔ akɔ ete-mi na benwini mina badi.,"Urua m enweghi n'ulo na, adighi m odi n'elu uwa ikpoo soso asiku Izraakwuo ako etemi na be Nnewi m na-abia.",1.1333,0.5479
+953,"Mmɔ na ɔ́su-nwu ɔnini, “Kɔ lɛsa na asu Israelƒuɔ ƒui anii badi Kukpi Lili Bɔvia Limeyi na uwi ɔni na líbo-ma ɔda lɛlɔ.","Mọna ọsụọ ọnini, kọọlesa na asụ Izraọlụ okwu a ni, ba di kọpelele bụ viali mey na uwi ọni na libu ma ọda lelo",0.913,0.3667
+954,"Na uwi ɔni návi na nka údie lɛlɔ lɛti mmɔ uuubunku, ɔsika uwi ɔmmɔ kemmo na úbile lɛlɔ na uusé lɛlɔ mmɔ.",na o wee o ni na vi na nga udi elele leti imo ugbongho o si ka o wee o ma oke mmuo na ubi elele na use lele,1.1818,0.4568
+955,Alaekpidi bablane baakɛ́ kɔsia na bekpinele ku bedinkɔ bani neeebo kablakɔ kadi lɛlɔ.,A na-ekwu na abalị na-akekọọ ya na bu ikwu na-ekwu na ihe dị ngọbanyere egbu ka abalị ka adịrọ.,1.3846,0.6056
+956,Na éti kalɔ kani egyiibi ntu mɔɔyu emini aani uwɔ na kana lɛlɔ bebuo baayu anyi ntu pii mɛni éte bula bati kuuku aani kalɛ kani na ése-ma kenye ése.,Na etu ka a na-eji obi ntụkọ obi anyị tụpụ ịmenụ etu e bulu akpati kụkụ a na-akọwa ka na-esi makenye,0.9667,0.6154
+957,Na ɔdubɔya na lɛlɛ lidu lidu lɛni mɔɔví bekyuli na batalɔ-ni anyi bátakya Katɔti ɔda bubo ɔku ɔmɛni kemmo libo-mii lɛlɔ na bikpi bɛyii udu.,"na oduboya na leleli dule du, leleli mma ovi be choli na bataloni anyi bata cha akato ti oda agbugbo oku nwamenike mu, libo mirelo na bikwe ibe yi",0.96,0.3929
+958,Saul ɔ́da keliekɔ na Hakila Kɔbi lɛlɔ kesii kani néti anumi kátina Yesimon.,sọ ọ́ dára kékeré kọ́ ná hakila. Kò bílẹ̀ ló ké sí kán ní nẹ́tì ànúmíkatì ná yésímọ́.,1.3077,0.5574
+959,Bebweyi bani ƒui mbo ngba na bana kemmo ɔgya ku ule bébo Noa kudɔ mmɔ.,Bebụe ba ne fụe ịmbọ nkpa na ba na akemụ ọja nke ụlọ ebụe nụwa kụdọ,1.0,0.5636
+960,"Lɛni kani bubo Katɔti unwi ɔni ndi bula ƒui Ɔti ɔni ndi ala ƒui Unwoti, na ɔɔbla kabla na bula kemmo, na ulie bula ƒui kemmo.","Nke a bụ bọka tọchị onwe, ọ na-indị bụla kwụ otu, ọ na-indị ala kwụ otu na ọ bụla ka abụla na-gbula kemụ na ụlị bụla kwụ",0.9615,0.5361
+961,ulada bubo ulaya kudii.,Ula da gbugbo ula ya kudi.,1.5,0.1579
+962,badubuti etela beboku Unwoti Ɔyikune Ƒui.,"Adobiwụti etela, megbuo kụ nwenti ọ iku na",1.1667,0.5143
+963,"“Nsu ni, bitadu ukyuli ndi ukyuli kɔtɔ.",ni suni betadu ochuli indi ochuli,0.8571,0.4333
+964,bula bekisine ɔsu aani kugyii ɔyuli.,"Wulabe ki si ne ọsụ, a ni ku ji ọyọ",1.6667,0.3667
+965,Na anwu na ndubɔkɔliku mina enu katɔ lɛkpali.,na aụ na Indụbọ kọlịkụm na enu Katọlik Palọ,0.75,0.3514
+966,Na basangbii ku baasɛ bamba bani ƒui muuƒie ala badi lɛnumi lítanu mmɔ kudii.,"N'abali Sọnde gara aga, ma na-abali ụbọchị mọnde, ndị agha na-enupụ isi na-alaba dịrị na nnụmịrịta ha na ndị isi ọchịchị.",1.5,1.0794
+967,Muuvele Euodia ku Sinteke lɛnɔ ka benu lɛlɔ kalɔ na basɔ belie aani banwa belekubi na Blɔti kemmo.,"mụ wee lee eodiyaụ kụọ sị nteke, lee nụ ka be nụrụ lee nụ ka ọ nụ, na basọ be lee anya ebe a nwa be lekụbị na blọọ tike",1.5,0.45
+968,"bákɔ bésie kɔbi lɛlɔ, na bana baƒiɔ kɔdu.","Aka be si ekwubiri lo, na aba na aba fu ya ka",1.375,0.5625
+969,Ogya ku etubankɛ ku ulɔyɔ ku ɔƒɛƒɛɛ kpakplaa ɔni muukpó.,"Ojakwetu bange ku uloyo ku ofefe kpakpala, onye mu",0.8,0.4783
+970,"Na ukyuli ɔni mɔɔtɛmi na anwu ɔlati ɔyikun kemmo ni, nwuna lɛlɔ bumwi na ɔɔwia.",Na uchu ole ni m ga-agwa gị? Na aṅụrị a na-aṅụkwa kemgbe ni? Unu na-elekọta onwe unu na ọdịmma,1.0,0.746
+971,"Unwoti úse-mi kɔdɛ, ɔsika mɔɔbla ala siin.","O nwere otu o si meekwa, o si ka o bịa ala Chineke.",1.7143,0.6667
+972,Na Katɔti útile ntukpa bɔni nábwɛ bɔ́lɛ kalɔ ku katɔ kani mɔɔlɛ́ ntu mmɔ kenye.,Na ka to ti utule intukpa gboni na gbo egbore kalo ku ka to kani ma ole intu mo ke,1.1333,0.4032
+973,Na benu agba ku kenwini etemila kalɔ.,"Nna be nu, agba kwu kee nwini? Etu imela",1.1429,0.3333
+974,"Na sɔsɔ ni, bɔkana bɔsu ka bɔƒɔ na Katɔti ɔ́ƒɔ Isak ɔ́siku kekpine na úbo uli ngba.","na so soni, bu ka na bu suka bu kwa na ka to ti ofor Isaac Osikwukwekwe na ugbo iri",1.0588,0.4603
+975,"Na si ina lɛ́bla lɛni muedi ni, ɔdi bina kebunku.","Nasi inalelu baleni mwedini, odibi naka egbu ngwu.",1.0,0.2973
+976,"Kenye bediene bammɔ baatina ka Unwoti nátala-ma na anwu nwuna etemila kenye na beedie, nsu Unwoti útatala-ma.",Ke nye be di ya na ba m o ba ti na ka onwe ti na ta la ma na awu wu na etem la ke nye na ba di ya. Nso onwe ti uta ta la ma,2.0588,0.2247
+977,Na etiku bebuo lidu lidu bani nse sɛɛn ɔgya ku ule maatɛ maatɛ.,"na etu gbuo ole do ole do, uba ni isi ise oja nke ulo ima ate ate",1.2308,0.54
+978,Na ami ku bamanyene bɔ́kya ɔku kakunkɛ kedeedi kɔnu.,Na amaghị m ma m ga-enye nụ bọcha ọkụ nkakụ ngị kedu dị ka nụ?,1.5556,0.5476
+979,Lɛ lɛla lɛdi lɛnumi te-mi na ɔdi kasusu kabuni kani ɔsu na bekyuli bamɛni bátamanku kɔtu bɔni?,le le la le de le numi temi na odi ka susu ka bu ni ka ni oso na bechili ba me ni bata ma nku kotubo ni,1.4706,0.1974
+980,Bina atu kpakplakpa ammɔ áya na bina kayi lɛnɔ kábla kpakplakpa aani kalɔ kani na bétegulu-ka kudii na liyu alakpi sɔɔn áƒɔ mmɔ.,"Bịa na akwụkwọ kpalakpa, a mọ aya na bịa ka ị lee nọka blakpalakpa. A nịka lọka nịna, bete goro ka akụdị na leyo ala kpịsọ apọ",1.1304,0.4327
+981,Mose ku Israelƒuɔ békpo bádi ɔga ɔmɛni lɛlɔ.,Mọsi akụ́ ịzụ́ ahụ́̀ bẹ́kpọ̀ bádị̀ ọ́gá ọ́mẹ́nílẹ́.,1.0,0.6111
+982,"Na lɛla lɛni ɔsu na bɔ́sɔ bɔɔgyá Katɔti enu lɛnɔ ndi ka ni, uwi ɔni na bɔ́su-mii litemi buni lɛmɛni ni, bíteti-ni aani litemi likpludi.",Na lelele ni o su na bosobo o ja ka to ti enu le na odikani. Uwi oyi na bosu militiri gbunile me nini bite tini aniliti mili,0.96,0.3173
+983,na lɛlɔyɔ lɛmmɔ lɛdubuse buteesie uwi ƒui.,na leloyo lemo le digbo use bute ese owi,1.1429,0.4286
+984,Kɔƒiɔtɔ ndubunwini bana kɔduli uteesie uwi ƒui.,"Ka afia ọtọọdụbụ nwini banakwa odule, uto ese owụ ifụọ",1.4286,0.5
+985,“Ɔdubɔya na badi benwini bekpone benengu na bekpone mpim mpim lɛlɔ.,"Otu boya na ba di be nne ya, be nna ya, be nne ukwu na be nna ya mpim mpim le",1.5455,0.4364
+986,na ɔ́su lɛla lɛni na útalɛka ɔsu na Unwoti lɛlɔ.,Na o sụle lale na utaleka ọsụ na onwetere,0.7,0.4595
+987,"Na si kukpi na ɔdi ka likpi lɛnɔ ni, na likpi ƒaa.",Na si ku kpi na odi ka li kpi le no ni na li kpi fa,0.8333,0.1351
+988,"Mɔɔwia lɛnɔ ka beleku banu kaduɛ na bana adala lɛlɔ, na batina ka beeboku lɛlɔ kalɔ.",Owu ya le nu ka be lo kupa nu ka di ya na gba na adala le nu na ba ti na ka be gbo kwu le nu ka,1.5,0.3433
+989,Na Esau ulekudi ɔni baalɔ Basmat náwɔ-nwu.,Na-esá ụlọikó di ọnụ ị̀bá àlà basmat na-wụ,1.0,0.5
+990,butákya kalɔ kakwiidi kemmo na lɛdɔdɔ-nwu.,Bouta chakaloka kwidi kemu na le dodon,1.0,0.3714
+991,Na lɛ́tu-ma lídie aani aba ntéwi ulu lɛlɔ.,Naletuma didi ani aba inde we ululelo,0.875,0.3438
+992,"Ya na kubo bekyuli ƒui lɛlɔ, banamu bani nli kaƒiakɔ ku benengu ku bakɔdi ƒui lɛlɔ.","Ya na-akpo be Chidi kwiri lelo, ba na-agba ni ile kapiako ka obe na ongu ka ba kodi kwiri lelo.",1.1875,0.4697
+993,Na likpidi lili buvele akpala ani na mina bekyuli.,na likwidi lili muvele akala anina,0.7778,0.3415
+994,Na ndubo-ma bɔkpanku busienku abiɔ ani kemmo na ntu bɔbuni bɔkya na bani.,na indu bu ma gbokpa ngu bu si ngu abio anike mu na intu gbo bu ni gbo cha na ba,1.3846,0.322
+995,Na Huram ɔ́sɔ ɔ́bla ebui ku ogya budie kɔlɛkɛ ku lɛsii lɛni kemmo na beewi ntu taakuna.,"Na huru m oso obula, egwu ikwuru oji agaghi ekweleke ku le si le ni ke mu na be ewi intu taa kuna.",1.1765,0.3824
+996,na ukyuli biala ɔdubo lili kalɔ bɔkya bɔbu-mi.,"na Uchuibiala, Odubo Lele, Kala Ogbocha Agba Agbụm",0.875,0.5135
+997,"Mmomu bɔ́ƒɔ-mi kuye geen, na nsiaku-mu kama lɛnɔ siin.","Mommụ, bọfọ mụ kwụọ ya gịnị? Na ije akwụkwọ m ka m àlà n'ụsị?",1.4444,0.7073
+998,Anwu ndi ukyuli ɔni mɔɔyá na ketudi ɔnantu ku kaƒɛndi ɔnantu ɔɔna teete-bu.,Owu di ochili oni ma ya na ketu di ona ntu ku kafe di ona ntu ona tete,1.2308,0.3443
+999,Na Haman ɔmɛni ɔ́si Ɔga Agag kaba kemmo.,na ha ma omeny osi oga aga ka bake,1.0,0.3226
