@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Shi ya sa da yawa daga cikinku suke da rashin lafiya da rashin ƙarfi, har ma waɗansu da dama suka yi barci.","Shi yasa da yawan a cikinku suke da rashin karfi, da rashin lafiya, wadansu ma sunyi barci",0.5455,0.2381
+1,Amma ina tsoron tsokanar abokin gāba.,Amma ina tsoron tsokanar abokin gaba,0.1667,0.0323
+2,Zai iya yin amfani da wannan zarafi yă ciccire kawunanmu don yă faranta wa maigidansa rai?,zai iya yin amfani da wannan zarafi ya cccire kamunnan mu don ya farantawa mai gidan sa,0.5625,0.1081
+3,Da manya da ƙanana duka ɗaya.,dooka banya da kanana masu arziki da,1.0,0.6522
+4,"Ba don an taƙaita kwanakin nan ba, da ba ɗan adam ɗin da zai tsira.",ba don an rage kwanakin nan ba da ba dan adam wanda zai tsira,0.2667,0.1765
+5,"Sai Yesu ya yi tambaya ya ce, “Burodi guda nawa kuke da su?","Sai ya yi tambaya ya ce, ""Brodi, guda nawa kuke da su?"" Suka ce, ""Bakwai."" Sai ya gayawa taron,",0.6923,0.75
+6,"Ya ce mata, “Ga shi kome yana a ƙarƙashina, don haka ne ma maigidana bai dami kansa da wani abu a cikin gidan nan ba; kome da ya mallaka, ya danƙa ga kulawata.",Ya ce mata gashi komai yana karkashina don haka nema maigida na bai damu kansa da wani abu a cikin gidan nan ba komai da ya mallaka ya danka ga kulawa ta,0.3939,0.0744
+7,"Ba za ku hallaka su gaba ɗaya ba, don kada namomin jeji su yaɗu, su dame ku.",Ba zaku iya hallakar da su gaba daya a lokaci daya ba domin kada namomin daji su hadu da yawa su dame ku.,0.7647,0.5263
+8,Da waɗanda suka san umarnanka.,ka'idodin ka su koma wuri na,1.2,0.6
+9,Waɗannan ne ya kamata da kun kiyaye ba tare da kun ƙyale sauran ba.,Wadannan ne ya kamata da kun kiyaye ba tare da kun kyale sauran ba.,0.1429,0.0377
+10,"Sa’ad da Azariya babban firist da dukan sauran firistoci suka dube shi, sai suka ga cewa yana da kuturta a goshinsa, saboda haka suka gaggauta tunkuɗa shi waje nan da nan.",Sa'ad da Azariya babban firist da dukkan sauran firistoci suka dube shi sai suka ga cewa yana da kuturta a goshin sa. Saboda haka suka gaggauta tunkuɗa shi waje nan da nan.,0.0968,0.0073
+11,“Mai neman sa wa wani laifi ya jā da Mai Iko Dukka?,Mai neman ɗorawa mai iko duka laifi zai iya jayayya da shi? Duk,0.8333,0.6842
+12,Ka rantse da Allah cewa ba za ka ba ni azaba ba!,ka rantse da Allah cewa ba zaka bani azaba ba,0.3333,0.0
+13,Zuriyar Yusuf ɗan Isra’ila ta zauna a waɗannan garuruwa.,Zuri'ar Yusuf dan Isra'ila ta zauna a wadannan garuruwa.,0.3333,0.0652
+14,Daga nan kuma ya tashi ya tafi wajajen Taya da Sidon.,wa Allah ko? Ta haka kuka hana shi,1.0,0.6905
+15,Sulemanu kuwa ya miƙa wa Ubangiji hadaya ta salama da bijimai dubu ashirin da dubu biyu da tumaki dubu ɗari da dubu ashirin .,salamon yayi hadaya ta gyaran zumunci da shanu dubu ashirin da biyu da tumaki dubu dari da dubu ashirin,0.4783,0.4059
+16,"A lokacin nan za a yi wata matsananciyar wahala, irin wadda ba a taɓa yi ba tun farkon duniya har ya zuwa yanzu, ba kuwa za a ƙara yi ba har abada.","A lokacin za'a yi wata azaba mai zafi irin wadda ba'a taba yi ba tun farkon duniya har zuwa yanzu, ba kuwa za'a sake yin irin ta ba.",0.5312,0.2743
+17,"Da yake gurasar nan ɗaya ce, ashe kuwa, mu da muke da yawa jiki ɗaya ne, gama mu duk gurasa ɗaya muke ci.","Da yake brodin nan daya ne, ashe mu da muke da yawa jiki daya ne. Gama dukkan mu brodi daya muke ci.",0.3913,0.3038
+18,"Ahiyo, Shashak, Yeremot Zebadiya, Arad, Eder, Mika’ilu, Isfa da Yoha su ne ’ya’yan Beriya maza.","Yahiyo, Shashak, Yaremot, Zebadiya, Arad, Eder, Mikailu, Isfa da Yoha sune yayan Biriya maza",0.3333,0.0423
+19,"Ya kuma ba da shi ga sarkin Isra’ila, wanda ya jijji masa a yaƙi.",ya kuma bada shi ga sarkin Isra'ila wanda ya jijjima sa a yaki.,0.3571,0.0204
+20,"Amma Ubangiji yana tare da Yusufu, ya kuwa nuna masa madawwamiyar ƙauna, ya sa ya sami farin jini a wurin yarin kurkukun.","Amma yawe ya kasance tare da shi, ya nuna masa ƙaunar sa, ya ba shi farin jini a idon shugaban masu gadin kurkukun.",0.6364,0.5464
+21,Ka amsa mini in ka san dukan waɗannan.,yake? amsa mini in kasan dukkan wadannan,0.625,0.1667
+22,"Waɗannan su ne manyan Horiyawa, ’ya’yan Seyir, maza, a ƙasar Edom.","Wadannan sune manyan horiyawa, yayan seyr maza a kasar Edo.",0.5455,0.08
+23,"’ Yanzu fa, ya Allah na Israila, sai ka tabbatar da maganarka wadda ka yi wa bawanka, Dawuda, tsohona.",Yanzu ya Allah'in Isra'ila bari ka tabbatar da maganar alkawarin ka wanda kayi wa bawan ka baba na Dauda.,0.7222,0.3333
+24,"Yakim, Zikri, Zabdi, Eliyenai, Zilletai, Eliyel, Adahiya, Berahiya da Shimra su ne ’ya’yan Shimeyi maza.","Yakin, Zikri, Zubdi, Eliyanai, Ziletai, Eliyel, Adahiya, Birahiya, da Shimra sune 'ya'yan Shimai maza.",0.5333,0.0875
+25,Don in samu in haɗiye yau?,dan lokaci domin ya sami damar haɗiye miya,1.1667,1.05
+26,"Dukan dukiyar da Allah ya kwashe daga wurin mahaifinmu, tamu ce da yayanmu, yanzu fa, kome Allah ya faɗa maka, sai ka yi.",Dukkan dukiyar nan da Allah ya karba daga wurin baban mu tamu ce da ya'yan mu. Kai duk abin da Allah ya fada maka,0.6522,0.3191
+27,"Sai dukan sarakuna, da dukan jamaa, suka yi farin ciki, suka kawo kuɗin da aka aza musu, suka zuba a babban akwatin, har ya cika.",Dukkan dattawa da mutanen suka yi murna suka kawo kudi suka zuba a akwatin har ya cika,0.52,0.4444
+28,"” Haka kuma bayan jibin, sai ya ɗauki ƙoƙo, ya ce, “Ƙoƙon nan na Sabon Alkawari ne, da aka tabbatar da shi da jinina.","Haka kuma bayan Jibrin sai ya dauki kof ya ce kof nan na sabuwar yar jejeniya ce, tabbatacciya ce da jini na.",0.5652,0.3448
+29,Ko akwai wanda zai iya kama ta ba ta kallo.,Ko akwai wanda zai iya kama ta bata kallo,0.2,0.0
+30,"Sai ta ce wa mahaifinta, “Kada ubangijina ya yi fushi da ban iya tashi ba, don ina aladar mata ne.","Sai ta ce wa baban ta, baba kada ka yi fushi da ni yadda ban tashi ba, gama ina cikin al'adar mata.",0.55,0.4667
+31,"Addar, Gera, Abihud Abishuwa, Na’aman, Ahowa, Gera, Shefufan da Huram.","Adar, Gera, Abihud, Abishua, Na'aman, Ahoah, Gera, Shephuphan, da Huram.",0.4,0.1509
+32,Sunan tsohuwarsa Yerusha yar Zadok.,"Sunan mamarsa Yarusha, 'yar zo da",0.8,0.3333
+33,Amma na gane harbin iska nake yi kawai.,Amma na gane cewa wannan ma kokarin kamun iska ne.,0.875,0.7097
+34,"Na kuwa tambaye shi game da raguwar Yahudawan da suka tsira daga kwasan zuwa zaman bauta, da kuma game da Urushalima.",na kuma tambaye shi game da raguwar Yahudawan da suka tsira daga kwasan zuwa zaman bauta da kuma game da Uru Sharifu.,0.1429,0.0421
+35,"An ba shi tumaki dubu goma sha huɗu , da raƙuma dubu shida , da takarkari dubu biyu , da jakai mata dubu ɗaya .","za sami tumaki dubu goma sha hudu, da rakuma dubu shida, da bijiman noma dubu biyu, da jakuna mata dubu daya.",0.4286,0.253
+36,Kaidodin da ka bayar kuwa dukansu masu kyau ne.,ka'idojin ka masu adalci su kuwa abin,0.8889,0.5526
+37,"” Kada fa mu yi fasikanci yadda waɗansunsu suka yi, har a rana guda mutane dubu ashirin da uku a cikinsu suka mutu.","ka dafa muyi fasikanci, iya da wadansu su suka yi har ma a rana guda mutane dubu ashirin da uku a cikin su suka mutu.",0.5,0.0667
+38,"Domin Farisiyawa da dukan Yahudawa ba sa cin abinci sai sun wanke hannu sarai tukuna, saboda bin aladun shugabanninsu.","bisa ga al'ada ba. Gashi Farisiyawa har da sauran Yahudawa basa cin abinci sai sun wanke hannu sarai tukuna, bisa ga al'adun dattawa.",0.6316,0.4184
+39,"Tun da ya same shi, ba ruwansa da kome, sai dai abincin da zai ci.",Baya tunanin komai sai dai abincin da zai ci.,0.6,0.4286
+40,Raƙumar ruwan mutuwa sun kewaye ni; raƙumar ruwan hallaka suna cin ƙarfina.,rakumar ruwan mutuwa sun kewaye ni rakumar ruwan hallaka suna cin karfi na,0.3333,0.0484
+41,"Allah, wanda ya kira ku zuwa ga zumunci tare da Ɗansa Yesu Kiristi Ubangijinmu, shi mai aminci ne.",Allah wanda ya kira ku zuwa ga zumunci tare da dansa Yesu Kiristi Ubangijin mu shi mai aminci ne.,0.1667,0.0128
+42,"Ko kuma, me mutum zai bayar a musayar ransa?",me kuke zancen rashin burodi har yanzu baku gane,1.0,0.8824
+43,’Ya’yan ɗan’uwansa Helem su ne.,yayan dan uwansa su ne,0.4,0.2609
+44,"Daga cikin dukan biranen Yahuza, mutane suka zo don su nemi Ubangiji.",mai nufin ya hawe su yi rokon taimako daga wurin,1.0,0.7143
+45,"har su ce, ‘Hannunmu ne ya yi nasara; ba Ubangiji ne ya aikata dukan wannan ba.",Rasu ce hannun mu ne yayi nasara ba ubangiji ne ya aikata dukkan wannan ba.,0.4375,0.05
+46,kamar daga tukunya mai tafasa a kan wutar itace.,kamar daga tukunya mai tafasa akan wutar itace,0.2222,0.0
+47,"Lotan, Shobal, Zibeyon, Ana, Dishon, Ezer da Dishan.","Lotion, shovel, zibion, ana, dish on, razor, da dish on.",1.0,0.2564
+48,"Ga abin da Ubangiji ya ce muku, ‘Kada ku ji tsoro ko ku fid da zuciya saboda wannan babbar runduna.",Ga abunda Ubangiji ya ce muku kada ku ji tsoro ko ku fidda zuciya saboda wannan babban rundunar,0.3,0.039
+49,"Saboda haka duk wanda ya ci gurasar nan, ko ya sha a ƙoƙon nan na Ubangiji da rashin cancanta, ya yi laifin wulakanta jikin Ubangiji da jininsa ke nan.","Saboda haka, tuguwan da yaci brodin nan ko yasha a kof nan na ubangiji da rashin cancanta yayi wa jiki da jinin ubangiji zunubi kenan.",0.5862,0.275
+50,"Ya mutu, aka binne shi a birnin Dawuda, amma ba su binne shi a kabarin sarakuna ba.","Ya mutu, aka binne shi a birnin Dauda, amma ba a binne shi inda ake binne sarakuna ba.",0.2941,0.1875
+51,ƙarfinta da kuma kyan kamanninta ba.,kara finta da kuma kyan kamanninta,0.5,0.1333
+52,"Yusufu yana da shekara goma sha bakwai saad da ya zama makiyayin garke tare da yanuwansa, ɗan ƙanƙanen yaro ne a tsakanin yaya maza na Bilha da Zilfa matan mahaifinsa.",shine mai shekara goma sha bakwai shi da wadansu yan uwansa wato yaya maza na Bilha da na Zilfa matan baban sa sukan yi kiwon garken dabbobi tare,0.8333,0.6176
+53,"Iko da girma suna a hannunka, kuma ba wanda zai iya tsayayya da kai.",Iko da girma suna a hannun ka. Kuma ba wanda zai iya tsayayya da kai.,0.1429,0.0
+54,"Sa’ad da Shekem ɗan Hamor Bahiwiye mai mulkin wurin ya gan ta, sai ya kama ta, ya kwana da ita, ya ɓata ta.","Sa'ad da sheken dan Hamar, Bahiwiye mai mulkin wurin ya ganta sai ya kama ta ya kwana da ita ya bata ta.",0.2609,0.05
+55,"In na ba wa matalauta dukan abin da nake da shi, na kuma miƙa jikina a ƙone, amma ba ni da ƙauna, ban yi riban kome ba.",Ina bawa matalauta duka abunda nake dashi na kuma mika jikina a kone amma bani da kauna banyi ribar komai ba.,0.6667,0.1011
+56,"Suka shiga sashe na cikin gida sai ka ce suna so su ɗibo alkama ne, suka soke shi a ciki.",suka shiga sashe na cikin gida sai suka ce suna so su debo alkama ne suka soke shi a cikin,0.15,0.0735
+57,"Fādawan Akish kuwa suka ce masa, “Ashe, wannan ba shi ne Dawuda, sarkin ƙasar ba?",yawa amma masu yiwa sarki Akish hidima suka ce masa ba wannan ne Dauda sarkin ƙasar sa ba,0.7333,0.5645
+58,"To, ɗan Shawulu yana da ’ya’ya maza biyu da suke shugabannin ’yan hari.","To, Dan Shahu yana da yaya maza biyu da suke shugabannin yan",0.2308,0.1481
+59,"Ga yadda za ku yi da su, za ku rurrushe bagadansu, ku ragargaza alamudansu, ku sassare ginshiƙansu na tsafi, ku ƙaƙƙone sassaƙaƙƙun siffofinsu.","ga yadda zaku yi da su, zaku rurushe bagaden su, ku farfashe duwatsun sujadarsu, ku sassare gumakan ashera nasu, ku kuma kone gumakan allolin su",0.7391,0.431
+60,"Da sassafe, Laban ya tashi ya sumbaci jikokinsa, da yayansa mata, ya sa musu albarka.",Da sassafe sai labin ya tashi ya sumbaci jikokinsa da yayansa mata ya sa musu albarka.,0.1333,0.0597
+61,"A tabbatar a nan yau a gaban dangina da danginka, su yanke sharia tsakanina da kai.",dinka ajiye a nan a gaban mutane na da mutanen ka domin su yanke shari'a tsakanin mu,0.6875,0.5
+62,don ba da ruwa a ƙasar da ba kowa a wurin.,da an bada ruwa a kasar da ba kowa a wurin,0.3636,0.0968
+63,"Filistiyawa suka zauna a tudu guda, Isra’ilawa kuma suka zauna a ɗaya tudun.","Filistiyawa suka zauna a tudu guda, Isra'ilawa kuma suka zauna a daya tudun.",0.0769,0.0164
+64,Yehiyel mahaifin Gibeyon ya zauna a Gibeyon.,ya yi hiyal mahaifin Gibeon ya zauna a Gibeon,0.7143,0.1622
+65,za su kuma bugu da ruwan inabinsu; za a laƙume su kamar busasshiyar ciyawa.,Za su kuma bugu da ruwan inabinsu. Za a lakume su kamar busasshen ciyawa.,0.1429,0.0833
+66,"Rahila da Laiatu suka amsa masa, “Akwai wani rabo, ko gādon da ya rage mana a cikin gidan mahaifinmu?",Wai yila dalliya suka amsa suka ce ai bamu da sauran abin gado daga wurin baban,0.8421,0.6076
+67,"“Ko da yake suna da ƙarfi, suna.","Kodayake kuna da yawa, cike da karfi kuma",0.8571,0.6087
+68,“Ban jibge wannan a ma’ajiya.,Ban juye wannan a ma'ajiya na kuma yi muke shi a taskoki na ba. Sakayya na wane zan kuwa dau fansa.,3.4,2.6364
+69,"Saan nan Yowab ya busa ƙaho, sojoji suka komo daga runtumar Israilawa.",Sai ya busa kaho domin ya tsaida yakin. Sai sojojin sa suka,1.0,0.6667
+70,"Ka nuna mini yawan ƙaunar da kake yi mini, ya Ubangiji.",To zo gare ni ya yawe. Cetonka kuma,1.0,0.7442
+71,"Sa’ad da Ish-Boshet ya ji labari cewa Abner ya mutu a Hebron, sai ya karaya, sai dukan hankalin Isra’ila ya tashi.",Sa'adda Ishbashat ya ji labari cewa Abunir ya mutu a Hebron sai ya karaya sai dukkan hankalin Isra'ila ya tashi.,0.2381,0.0568
+72,"Gama Allah ne ya sa kuka zama na Almasihu Yesu, Allah ne kuma ya sa Almasihu ya zama hikima a gare mu.",Allah ne yasa kuka kasance cikin Almasihu Yesu. Allah ne kuma yasa Almasihu ya zama mana hikima.,0.5,0.2911
+73,"Kamar yadda na bauta wa tsohonka, haka kuma zan bauta maka.",kamar yadda nayi wa baban ka hidima haka zanyi maka,0.6364,0.4681
+74,Kamanninsu za su ruɓe a cikin kabari.,kammannin su zasu rufe a cikin kabari,0.5714,0.0667
+75,Ƙasusuwanta bututun tagulla ne.,Kasusuwanta kamar sandunan karfen tagulla ne.,1.0,0.6667
+76,Akwai wani malaika da za ka juya zuwa gare shi?,"A cikin halittu masu tsarki, wanene zaka juya zuwa gare shi?",0.7,0.5405
+77,"Umarnanka nawa ne har abada, Su ne murnar zuciyata.",Kai ne gadona har abada. Shi ne farin cikin zuciyata.,0.6667,0.5122
+78,"Suka kuma kwashe yayansa, da matansa, ba wanda aka bar masa, sai Ahaziya autansa.",da yayan sa da matan sa har babu dan sa da aka bari sai dai dan autan,1.1429,0.5
+79,"Ya zauna a kujeransa inda ya saba zama kusa da bango yana fuskantar Yonatan, Abner kuma ya zauna kusa da sarki.",Amma in ka ga ya damu to ka tabbata ya yi niyyar ya kashe ni. Kai kam ka nuna alheri ga bawan ka. Gama ka riga ka yi rajijiniya da ni a gaban Ubangiji. In kuwa na yi laifi ne,1.7619,1.0112
+80,"Isra’ila dai ya fi ƙaunar Yusuf fiye da kowanne a cikin sauran ’ya’yansa maza, gama an haifa masa shi a cikin tsufansa.",Isra'ila dai yafi kaunar Yusuf fiye da kowanne a cikin sauran yayansa maza. Gama an haifa masa shi a cikin tsohon sa.,0.2273,0.043
+81,"Amma bayan Uzziya ya zama mai iko, sai ɗaga kai ya kai shi ga fāɗuwa.",Amma bayan Uzairu ya zama mai iko sai daga kai ya kai shi ga faduwa.,0.2,0.1132
+82,"Fasak, Bimhal da Ashwat.","Fasak, Bimhal da Ashuwa",0.25,0.1053
+83,"Batun sauran abubuwa kuwa, zan ba da umarni a kai saad da na zo.",game da sauran abubuwa kuma idan na zo zan bada umurni.,0.9286,0.5306
+84,"Ammonawa kuma suka kawo masa haraji, sunan Azariya ya kai har kan iyakar Masar, gama ya shahara ƙwarai.",Ammonawa suka biya harajin su ga Uziya. Sunan Uziya ya kai har kan iyakar kasar Masar. Gama yayi karfi sosai.,0.6111,0.4217
+85,tă kuma sa wuta a tussan duwatsu.,da kuma sa wuta a Tusan zuwa,0.4286,0.2692
+86,"Don haka, saboda wannan, da kuma saboda mala’iku, dole mace ta ɗaura wani abu a kanta.",Don haka saboda wannan da kuma saboda mala'iku dole masu ta daura wani abu a kan ta.,0.25,0.0455
+87,"To, sai ku ci gaba ku cikasa ayyukan da kakanninku suka fara!",To sai ku cigaba ku cika su ayyukan da kakanin ku suka fara.,0.5,0.0417
+88,"Ya ce wa Shawulu, “Me ya sa kake saurari mutanen da suke cewa, ‘Dawuda ya dāge yă cuce ka’?","Ya ce wa Shaulu, me ya sa kake sauraron mutanen da suke cewa Dauda ya dage ya cuce ka?",0.2632,0.0896
+89,Da sassafe suka tashi suka nufi Hamadan Tekowa.,da sassafe suka tashi suka nufi hamadan tikow,0.125,0.0513
+90,yana neman kowane ɗanyen abu mai ruwan ciyawa.,yana neman kowanne ɗanyan abu mai ruwan ciyawa,0.25,0.0526
+91,"Ku yi addua kada gudunku ya zo da damuna, ko ran Asabar.",kuyi addu'a kada gudun nan yazo muku a lokacin sanyi ko ranar hutu ta mako,1.0833,0.5814
+92,Bayan yan shekaru sai ya kai wa Ahab ziyara a Samariya.,Bayan ƴan shekaru sai ya ho shafat ya gangara zuwa Samaria,0.6364,0.3636
+93,Ayuba Ya Tuba aka kuma Karɓe Shi.,Surah 42 Amsar Ayyuba ga Yahawai,1.0,0.7692
+94,"Ubangiji Yesu, a daren da aka bashe shi, ya ɗauki burodi, bayan ya yi godiya, sai ya kakkarya ya ce, “Wannan jikina ne, wanda yake dominku, ku yi wannan don tunawa da ni.","Ubangiji Yesu a daren da aka ba shi shi ya dauki burodi, bayan ya yi godiya sai ya kakkarya ya ce, wannan jiki na ne wanda yake domin ku, ku yi wannan don tunawa da ni.",0.2121,0.0155
+95,"Amma a fili Ubangiji yakan yi ramuwa a kan maƙiyansa, yakan hallaka su.",Amma Allah ne mai sakawa kowane mutum wanda ya kishi. Baya,0.9231,0.5965
+96,"Kai wanda ka cika abin da ka faɗa wa bawanka, Dawuda, tsohona, i, abin da ka faɗa da bakinka ka cika shi yau.",Kai ka cika alkawarin da kai wa baba na Dauda wanda ka fada da bakin ka ka kuma aikata da hannun,0.7391,0.4756
+97,"Saad da na kwanta barci, sai daren ya daɗa tsawo.",Sa'ad da na kwanta in yi barci sai in ce yaushe ne zan tashi? Dare kuwa ya kara tsawo.,1.1,0.7895
+98,sa’ad da na wasa takobi mai walƙiya.,Sa'a da na wasa takobi mai walƙiya,0.1429,0.0357
+99,"Yotam yana da shekara ashirin da biyar saad da ya ci sarauta, ya kuwa yi mulki shekara goma sha shida a Urushalima.",Yau ta muna da shekara ashirin da biyar. Sa'a da ya zama sarki. Ya yi mulki shekara goma sha shida a Urushalima.,0.3182,0.163
+100,” Ya yi kuka da ƙarfi.,Dauda sai Sha'ulu ya,1.0,0.9333
+101,"Laban ya wawaka alfarwar duka, amma bai same su ba.",Rabon ya bincika ko ina a tantin ta amma bai sami gumakan ba.,0.9,0.625
+102,Haka Ammonawa suka yi ta biya a shekara ta biyu da ta uku.,Haka amo na wa suka yi ta biya a shekara ta biyu da ta uku.,0.2308,0.0222
+103,ga allolin da aka shigo da su daga baya.,Ga allowan da aka shigo da su daga baya,0.1111,0.0645
+104,Bakina zai yi maganar hikima; magana daga zuciyata za tă ba da ganewa.,Baki na zai yi maganar hikima magana daga zuciya ta zata bada ganewa,0.5385,0.0179
+105,"Sa’ad da Husham ya rasu, Hadad ɗan Bedad, wanda ya ci Midiyan da yaƙi a ƙasar Mowab, ya gāje shi.","Sa'ad da Husham ya rasu, Hadad dan Bedad, wanda ya ci Midiyan da yaki a kasar Mowab, ya gaje shi.",0.2,0.0548
+106,"A gaban haikalin ya yi ginshiƙai biyu, waɗanda tsawonsu ya kai kamu talatin da biyar, ya yi wa ginshiƙan dajiya, tsayin kowace dajiya kamu biyar ne.","A gaban haikalin, yayi gishikai biyu, wadanda tsawonsa ya kai kamu talatin da biyar. Yayi wa gishikan dajiya. Tsayin kowace dajiya kamu biyar ne.",0.3077,0.0504
+107,"A’a, ina nufin akan miƙa hadayun da masu bautar gumaka suka wa aljanu ne, ba Allah ba.","A'a, ina nufin akan mika hadayun da masu bautar gumaka sukan mika wa aljanu ne? Ba Allah ba",0.1765,0.0909
+108,"Sa’ad da Yusuf ya kai Shekem, sai wani mutum ya same shi yana yawo a cikin jeji, sai mutumin ya tambaye shi ya ce, “Me kake nema?",Sa'ad da Yusuf ya kai Shekin sai wani mutum ya same shi yana yawo a cikin jeji sai mutumin ya tambaye shi yace me kake nema,0.1111,0.0206
+109,"Na ba ka ƙasar da na ba Ibrahim da Ishaku, zan kuma ba da ita ga zuriyarka a bayanka.","Kasar da na ba Ibrahim da Ishaku zan baka ita, kuma ga zuriyarka zan bada",0.5263,0.3231
+110,"Mutane daga Benyamin, kamar yadda aka lissafta zuriyarsu, sun kai .",mutane daga Banyanmin kamar yadda aka rasa ta zuriyarsu sun kai 900,0.4,0.1667
+111,"Mulkin Yehoshafat kuwa ya zauna lafiya, gama Allahnsa ya ba shi hutu a kowane gefe.","Malikin Yahoshaphat kuwa ya zauna lafiya, gama Allansa ya bashi hutu a kowane gefe.",0.3333,0.0896
+112,Ba za a ƙara jin muryoyin jakadunki.,hana wakilanki su kai sakon,1.0,0.7241
+113,Amma banda waɗannan ban san ko na yi wa wani baftisma ba.,"Amma banda wannan, ban san ko na yi wa wani baptisma ba.",0.1667,0.0667
+114,Bayan wannan sai Yowash ya yi niyya ya gyara Haikalin Ubangiji.,Bayan wannan sai yayi niyya a ransa ya gyara gidan,0.5455,0.4423
+115,Ko za ka daure ta da tsirkiya domin bayinka mata?,ko zaka daure ta da tsirkiya domin bayin kamata,0.4,0.0
+116,Zai fi kyau kuma ka zauna cikin gari ka riƙa aika mana da taimako.,zai fi kyau ka zauna a birni ka aika mana da taimako,0.2857,0.2885
+117,gama ba ka san bala’in da zai auko wa ƙasar ba.,kama baka san bala'in da zai auku wa kasar,0.5455,0.1429
+118,Dawuda da mutanensa kuwa suna zaune a ƙurewar kogon.,Dauda yana nan a boye da mutanen sa.,1.0,0.6744
+119,A ranar abin da kurmin ya ci ya fi abin da aka kashe da takobi.,Mutane da kurmin yace sun fi wadanda aka kashe da takobi.,0.5333,0.3333
+120,"Bayan wannan, Mowabawa da Ammonawa tare da waɗansu Meyunawa suka zo su yaƙi Yehoshafat.","Bayan wannan, mawabawa da amanawa tare da wadansu mai yunawa suka zo su yaki Yahoshafat.",0.5,0.1111
+121,su gane abin da ƙarshensu zai zama!,cikin su ace su masu hikima ne har su gane wannan su gane abunda karshen su zai zama,2.0,1.4643
+122,Ka kasa kunne ga kukana na neman taimako.,kuma ji tunanin zuciya ta saurari kuka na na neman taimako,1.0,0.6667
+123,"Bisa ga umarnin sarki, aka yi akwati aka sa a waje, a mashigin haikalin Ubangiji.","Bisa ga umarnin sarki, aka yi akwatin, aka sa a waje a mashigin haikalin Ubangiji.",0.0667,0.0156
+124,"Sa’ad da maigidansa ya ga cewa Ubangiji yana tare da Yusuf, kuma cewa Ubangiji ya ba shi nasara a kome da ya yi, sai Yusuf ya sami tagomashi a idanunsa, ya kuma zama mai hidimarsa.",Sauran da mai gidansa ya ga cewa Ubangiji yana tare da Yusuf kuma cewa Ubangiji ya bashi nasara a komai da yayi sai Yusuf ya samu tagomashi a idanunsa ya kuma zama mai hidimarsa.,0.2571,0.0426
+125,"Ta wurin Almasihu ne kuma muka sami adalci, da tsarkakewa da fansa.",ta wurin sa ne kuma muka sami adalcin Allah da tsarkakewa da,0.3333,0.3333
+126,Wa zai iya shiga tsakanin ɓawonta.,wa zai iya shiga tsakanin bawanta,0.1667,0.0714
+127,"Wata rana Jonatan, ɗan Saul, ya ce wa saurayin da yake ɗaukar masa makamai, “Zo, mu haye mu je sansanin Filistiyawa a wancan hayi.","Wata rana Jonathan dan Sha'ulu ya kira saurayi mai rike masa kayan yaki ya ce, zo mu haye zuwa gefen sansanin Filistiyawa",0.7083,0.4158
+128,Ya Ubangiji kai ne fitilata; Ubangiji ya mai da duhuna haske.,"Ya Ubangiji, kaine fitila ta. Ubangiji ya maida duhu na haske.",0.5455,0.0
+129,"Daga baya kuma Dawuda ya fita daga kogon, ya yi kira, ya ce, “Ya ubangijina, sarki.",Sa'annan Dauda ya fita daga kogon ya daga murya da karfi ya kira Sha'ulu ya ce ya mai girma sarki,0.75,0.6129
+130,Māsu ba su sa ta tă gudu; jifar majajjawa kamar na ciyawa ne gare ta.,Masu basa sa ta ta gudu. Jifar majajjawa kamar na ciyawa ne gare ta.,0.2667,0.0566
+131,Amma ka ragargaza mu ka kuma maishe mu abin farautar karnukan jeji.,Amma ka rargargaza mu. Ka kuma maishe mu abun farautar karnukan jeji.,0.1667,0.0364
+132,ko kuma wa ya sa dutsen kan kusurwarta.,ko kuma waya sa dutsan kan kusuruwar,0.5,0.129
+133,Ka sa in yi cikakkiyar biyayya da umarnanka.,ta kasance da gaskiya game da ka'idojin,0.875,0.6667
+134,"Dawuda yakan fāɗa wa ƙasar, ya hallaka ta, ba zai bar mace ko namiji da rai ba.",Dauda ya fada musu da yaki baya barin namiji ko mace da rai.,0.8235,0.55
+135,Kyakkyawan itace ba dama ya haifi munanan yaya.,"mai kyau. Ita ce mai kyau, ba zai iya bada mummunan yaya",1.25,0.5897
+136,"Sauran ayyuka a mulkin Yotam, haɗe da dukan yaƙe-yaƙensa da waɗansu abubuwan da ya yi, suna a rubuce a littafin sarakunan Isra’ila da na Yahuda.","Sauran ayyuka a mulkin Yotam, haɗe da dukkan yaƙe-yaƙensa da waɗansu abubuwan da ya yi, suna a rubuce a littafin sarakunan Isra'ila da na Yahuda.",0.04,0.0087
+137,"“Kada ku tara wa kanku dukiya a duniya, inda asu da tsatsa suke ɓatawa, inda ɓarayi kuma suke karyawa su yi sata.",Kada ku tarawa kanku dukiya a duniya inda gara da tsutsa zasu lalatar da ita. Inda kuma barayi zasu iya shiga suyi sata.,0.6364,0.3295
+138,"Imna, Ishba, Ishwi da Beriya.",Ishba Ishwi da,0.4,0.4545
+139,Domin in yi biyayya da dokokinka.,Ni kuwa zan kiyaye ka'idar bakin,1.0,0.7037
+140,"Ba a kuma halicci namiji don mace ba, sai dai mace don namiji.",ba'a kuma halicci namiji don mace ba sai dai mace don namiji,0.1538,0.0
+141,irin kuskuren da yake fitowa daga masu mulki.,irin kuskuren da yake fitowa daga masu mulki,0.0,0.0
+142,"’Ya’yan Bilha maza, mai hidimar Rahila su ne.",da 'yan bilu hamaza mai hidimar rahila sunan,0.75,0.1176
+143,"Saad da kuwa cikakken ya zo, sai ɗan kiman nan yă shuɗe.",Sannu da kuwa cikakken yazo sai wanda ba cikakkin ba ya shude.,0.75,0.3953
+144,"Yehohiyada ya zaɓi mata biyu dominsa, yana kuma da ’ya’ya maza da ’ya’ya mata.",Ya hau hanya da ya zabi mata biyu domin sa yana kuma da yaya maza da yaya mata.,0.5,0.1017
+145,"Kada kuma ku yi gunaguni yadda waɗansunsu suka yi, har mala’ika mai hallakarwa ya hallaka su.",kada kuma kuyi guna-guni yadda wadansu suka yi har mala'ika mai hallakarwa ya hallaka su,0.1875,0.0533
+146,"Kuma ba wanda ya iya daure shi, ko da sarƙa ma.",kuma ba wanda ya iya daure shi ko da sarka,0.1818,0.0857
+147,"Allah ya zaɓi abin da yake ƙasƙantacce, wulakantacce a duniya, har ma abubuwan da ba su, domin yă shafe abubuwan da suke akwai.","kunya. Abin da mutane suke dauka ba shi da daraja ko ba shi da amfani ko kuma ba komai bane, shine abin da Allah yake amfani da shi ya rushe abin da mutane suke gani kamar",1.3913,0.9307
+148,Kome ba shi da amfani!,komai ba shi da amfani. Wace riba ce mutum yake samu daga wahalar da yake fama,2.4,2.7059
+149,Da kaɗan da kaɗan Ubangiji Allahnku zai kore waɗannan al’ummai a gabanku.,"Daga dan, daga dan, Ubangiji Allah ku zai kori wadannan al'ummai a gaban ku.",0.8333,0.1167
+150,"Sai ta sāke yin ciki, ta kuma haifi ɗa, ta raɗa masa suna Onan.",ta 'yar ta sake yin ciki ta haifi ɗa ta kira sunan sa,0.5714,0.4043
+151,Saboda ƙaunarka mai girma.,Saboda yawan ƙaunar kamarar canjawa zan shiga gida,1.75,1.0909
+152,"Domin kuwa ƙofar zuwa rai ƙunƙunta ce, hanyarta mai wuyar bi ce, masu samunta kuwa kaɗan ne.","Amma kofar zuwa rai karama ce, hanyar ta kuma da wuyar bi, masu binta kuma basu da yawa.",0.8235,0.4658
+153,"Sarki ya ce, “Zan yi duk abin da ya fi muku kyau.",Sarki ya ce zan yi duk abin da ya fi muku kyau. Saboda haka sarki,0.25,0.4286
+154,Allah ya ƙaddara mana abu mai wuya.,Allah ya dorawa yan adam yana da nauyi,0.8571,0.5714
+155,Al’ummai ne marasa azanci.,a cikin su. A ce su masu hikima ne har su gane wannan su gane abun da karshen su zai zama. Yaya mutum guda zai kora dubu mutum biyu su sa,7.5,4.2381
+156,Aka kwasa mutanen Yahuda zuwa zaman bauta a Babilon domin rashin aminci.,aka kwasa mutanen yahuda zuwa zaman bauta a babylon domin rashin aminci,0.0833,0.0167
+157,"Oholibama kuwa ta haifa masa Yewush, Yalam da Kora.","ba ma kuwa ta haifa masa Yahush, Yalam da Kora.",0.3333,0.1707
+158,Ya kuma ɗauko sojan haya jarumawa dubu ɗari ɗaya daga Isra’ila a kan talenti ɗari na azurfa.,ya kuma dauko sojan haya jarumawa dubu dari daya daga Isra'ila akan talanti dari na azurfa,0.4118,0.0676
+159,Absalom da mutanen Israila suka kafa sansaninsu a ƙasar Gileyad.,Isra'ila ya san cewa ba banka a gwanin yaki.,0.9,0.7222
+160,Can za su kasance har zamanai marasa ƙarewa.,tunda zasu kasance har zamanai marasa karewa,0.5,0.1389
+161,"Amma saad da yanuwansa suka gane mahaifinsu yana ƙaunarsa fiye da dukansu, suka ƙi jininsa, ba su iya maganar alheri da shi.","Amma da 'yan uwansa suka lura cewa babansu yafi kaunar Yusuf fiye da kowannensu, sai suka ki ganin Yusuf. Ba sa yi masa maganar alheri.",0.8636,0.46
+162,Na ga waɗansu wawaye waɗanda ake gani kamar suna zaune lafiya.,kashe marar tunani Ni naga wawa yana zaman lafiya,0.9091,0.6078
+163,"Ta haka Rahila ta rasu, aka kuma binne ta a hanya zuwa Efrata .",Da haka Rahila ta rasu aka kuma binne ta a hanya zuwa Afrata.,0.1538,0.0417
+164,"Yayan Lotan, maza, su ne Hori da Hemam, yaruwarsa Timna ce.",Yaya maza na laton sune Kori da Haman. Laton yana da 'yar'uwa mai suna,1.1818,0.6667
+165,Aka ba sauran zuriyar Kohat rabon garuruwa goma daga gidajen rabin kabilar Manasse.,"haka ba sauran zuriyar Kohat, raban garuruwa goma daga gidajen rabin kabilar Manasseh.",0.2308,0.0429
+166,"Gaskiya nake gaya muku, sun riga sun sami ladarsu cikakke.","Gaskiya nake gaya muku, tun daga sun samu ladarsu cikakke.",0.3,0.0851
+167,"Saan nan sai Ruhu ya kai Yesu cikin jeji, domin Iblis yă gwada shi.",Sannan ruhu mai tsarki ya kai Yesu cikin daji domin shaidan ya gwada shi.,0.5,0.4038
+168,"Oholibama ta haifi Yewush, da Yalam, da Kora.","da Hilo, Bama, ita ma ta haifa masa Yaush da Yalam da Kora.",1.0,0.4571
+169,zai kawo Ninebe ga ƙarshe; zai fafari maƙiyansa zuwa cikin duhu.,"Zai kawo Ninebe ga karshe, zai fafare makiyansa zuwa cikin",0.3636,0.1346
+170,"wanda zai tabbatar da ku har ya zuwa ƙarshe, ku kasance marasa abin zargi a ranar Ubangijinmu Yesu Almasihu.",Ubangijinmu zai kuma karfafa ku har zuwa karshe domin ku kasance marasa laifi a ranar da Ubangijinmu Yesu Almasihu,0.4737,0.3864
+171,"Sai ya amsa, ya ce, “Ni ma kamarka ne, jamaata kuma kamar jamaarka ce, za mu je yaƙin tare da kai.",Sai ya yi wa Shafar ya amsa masa. Ina a shirye mu tafi. Ai sojoji na sojojin ka ne. Za mu tafi yaki tare da kai.,0.8571,0.6667
+172,Sojojin suka tafi zuwa karkara don su yi yaƙi da mutanen Israila.,Sojojin Dauda suka fita zuwa daji suka yi yaki da sojojin Isra'ila.,0.5833,0.4906
+173,Kana tsammani ni dodon ruwa ne?,Kana tsammani ni ce ku ne ko ni Dodo mai siffar maciji?,1.3333,0.96
+174,Za tă ci gaba da roƙonka ka yi mata jinƙai?,zata cigaba da rokon ka kayi mata jin,0.7,0.1515
+175,"Israila ya ci gaba da tafiyarsa, ya kuwa kafa alfarwarsa daura da hasumiyar Eder.","Isra'ila ya cigaba da tafiya, ya kafa tantinsa a ketaren gini mai tsawo na makiyaya a Eder.",0.9286,0.5
+176,Wane ne zai iya karkato bakunan tulunan sammai.,Wane ne zai iya karkato bakunan tulunan sa mai,0.25,0.0256
+177,"Bayan mutuwar Yehohiyada, hafsoshin Yahuda suka zo suka yi mubaya’a wa sarki, ya kuma saurare su.",Bayan mutuwar Yehohiya da habsoshin Yahuda suka zo suka yi mubaya'a ga sarki ya kuma saurare su.,0.25,0.0256
+178,"Har yanzu kuma ta sāke haihuwar ɗa, ta raɗa masa suna Shela.",Wannan ta kuma yi wani ciki ta haifi ɗa ta kira sunansa Sheila.,0.9167,0.617
+179,"Ka ɗauki mutanen maigidanka ka fafare shi, don kada yă sami garuruwa masu katanga yă tsere mana.","Ka dauki mutanen mai gidan ka, ka fafare shi, don kada ya samu garuruwa masu katanga ya tsere mana.",0.4118,0.0513
+180,"Yarin kurkuku ya shugabantar da Yusufu bisa dukan yan sarƙa da suke a kurkuku, dukan abin da ake yi a wurin kuma shi yake yi.",Gadin kurkukun ya danka wa Yusuf sauran yan kurkukun a hannu. Duk abin da za a yi a wurin Yusuf ne yake,0.68,0.4545
+181,Da gari ya waye sai duk manyan firistoci da shugabannin jamaa suka yi shawara a kan Yesu su kashe shi.,Ta gari ya waye sai dukkan manyan firistoci da shugabannin jama'a suka yi shawara su kashe Yesu.,0.3,0.1951
+182,"Hasala kuwa ta auko a kan Yahuza da Urushalima, saboda wannan mugunta da suka yi.",Shin Allah kuwa ya fado akan mutanen Yahuda da Urushalima saboda wannan laifin su,0.7333,0.4615
+183,’ Amma yanzu na ce ba zan yarda da wannan ba.,Amma yanzu inji ya hawaye ko kadan wannan,0.7,0.4545
+184,“Ruhun Ubangiji ya yi magana ta wurina; maganarsa tana a harshena.,To ubangiji yayi magana ta wuri na. Maganarsa tana a harshe na.,0.6364,0.0943
+185,"Sa’an nan ya sāke kwana da matarsa, sai ta yi ciki ta haifi ɗa.",Sa'annan ya sake kwanar da matar sa. Sai tayi ciki ta haifi,0.6429,0.0851
+186,yă kuma yi kafara domin ƙasarsa da mutanensa.,ya kuma yi kafara domin kasarsa da mutanensa,0.25,0.0541
+187,Tuddai su suke tanada mata abinci.,To dai su suke ta nada mata abinci.,0.6667,0.0714
+188,"Absalom duk da Dawuda, shawarar Ahitofel suke bi.",Hakanan ne muhimmancin shawarar Ahi Tofel yake ga Dauda da Absalom.,1.375,0.825
+189,Ko kuma ta inda iskar gabas take hurowa ta māmaye koina?,Ina ne kuma iskar gabas take hurowa a duniya?,0.6364,0.4444
+190,don kada abokan gāba su kāsa ganewa.,dan kada abokan gaba su kawo su gane,0.7143,0.2759
+191,"Ga shi, lokaci yana zuwa da zan karkashe samari cikin iyalinka da danginka, har da ba za a sami wanda zai rayu har ya tsufa a gidanka ba.",Gashi lokaci yana zuwa da zan kashe dukkan samarin gidan ka da dangin ka babu mutumin da zai rayu har ya tsufa a cikin gidan ka.,0.6071,0.3364
+192,"Yusufu ya ce, “Ina neman yanuwana ne.","Yusuf ya amsa, ina neman yan uwana wadanda",0.7143,0.3929
+193,"Ya raɗa wa ta farin suna Yemima, da ta biyun Keziya, da ta ukun Keren-Haffuk.","'Yar sa ta farko ya bata suna Yamima, ta biyun Keziya, ta ukun kuma Keren-Happuk.",0.7333,0.3729
+194,"Israila kuwa ya fi ƙaunar Yusufu da kowannensu, domin shi ɗan tsufansa ne.","Isra'ila kuwa yana ƙaunar Yusuf fiye da sauran ƴaƴansa maza, gama an haifi Yusuf a tsufarsa.",1.0,0.5833
+195,Ba kuwa zai iya biyan kuɗin ransa ga Allah ba.,Ko ya iya biya Allah kudi domin kansa.,0.9,0.6944
+196,"Ya fito da ni, ya kai ni wuri mafi fāɗi; ya kuɓutar da ni gama yana jin daɗina.",ya fito dani ya kaini wuri mafi dadi ya kubutar dani gama yana jin dadi na,0.5556,0.0847
+197,"Waɗanda suke mawaƙa, kawunan iyalan Lawiyawa, sukan zauna a ɗakunan haikali kuma ba sa yin waɗansu ayyuka domin su suke da hakkin aiki dare da rana.","wadanda suke mawaka, kawunan iyalen lawuyawa sukan zauna a dakunan haikali kuma basa yin wadansu ayyuka domin su suke da hakkin aiki dare da rana.",0.3077,0.05
+198,An yi wa dukansu baftisma ga bin Musa a cikin girgije da kuma cikin teku.,"An yi wa dukkan su babbar zuma, Baban Musa, a cikin girgije da kuma cikin teku.",0.3333,0.1552
+199,"Wanne ya fi girma, bayarwar, ko kuwa bagaden da yake tsarkake bayarwar?","Wanne yafi girma, bayarwar ko kuwa bagadan da yake tsarkake bayarwar?",0.25,0.0175
+200,"Amma mutum, kome arzikinsa, ba ya dawwama; shi kamar dabbobi ne da suke mutuwa.",Amma mutum komai arzikin sa baya da wama shi kamar dabbobi ne da suke mutuwa,0.4286,0.0484
+201,Sa’an nan ya sāke gina garuruwa kusa da Ashdod da sauran wurare a cikin Filistiyawa.,sa'an nan ya sake gina garuruwa kusa da Ashdod da sauran wurare a cikin Filistiya.,0.1333,0.0441
+202,"Waɗannan su ne yayan Dishon, maza, Hemdan da Eshban, da Yitran, da Keran.","Maza na dishon sune, headon, da ishban, da itiran, da keran.",0.6154,0.3929
+203,Kuna niyya ku ƙara ga zunubinmu da kuma laifinmu?,Kuna niyan ku kara ga zunubin mu da kuma laifin,0.5556,0.125
+204,"Ubangiji kuwa ya mayar wa Ayuba da dukiyarsa, saad da ya yi addua domin abokansa, sai Ubangiji ya mayar masa da riɓin abin da yake da shi dā.","Ya waye kuwa ya mayar wa Ayyuba da albarkunsa, Sa'ad da Ayyuba yayi addu'a domin abokansa. Sai ya waye ya mayar masa sau biyu abinda yake da shi",0.4643,0.3333
+205,"Ya kuma haifi yaya maza bakwai, mata uku.",ya kuma haifi 'ya'ya maza bakwai da mata uku,0.125,0.0625
+206,"Ku ci kowane abin da ake sayarwa a kasuwar nama ba sai kun tambaya ba don kada lamiri yă damu da inda abin ya fito, gama “Duniya da duk abin da yake cikinta na Ubangiji ne.","Kutukowannan abunda ake siyarwa a kasuwar nama, ba sai kun tambaya ba don kada lamirinku ya damu da abunda ya fito. Gama duniya da duk abunda yake cikinta na Ubangiji ne.",0.3333,0.1418
+207,"” Sai almajiran suka tashi, suka shiga gari, suka kuwa tarar kamar yadda ya faɗa musu, suka shirya Idin Ƙetarewa.",Sai almajiran suka tashi suka shiga cikin gari suka kuma sami abubuwa kamar yadda yayi su ya fada musu sai suka shirya abincin bikin ketarewa.,0.5789,0.3933
+208,"Ya tafi wurin Akish, Sarkin Gat.",Ya tafi wurin sarki Akish na Gat a kasar,0.6667,0.56
+209,Amma suka ɗauki kan Ish-boshet suka binne a cikin kabarin Abner a Hebron.,Amma suka dauki kan Ishbosheth suka binne a cikin kabarin Abner a Hebron.,0.1538,0.0339
+210,"To, ’yan’uwansa suka tafi kiwon garkunan mahaifinsu kusa da Shekem.","To, yan uwansa suka tafi kiwon garkunan mahaifinsu kusa da sheken",0.3,0.0185
+211,Dukan mutanen da suke tare da shi za su gudu.,dukan mutanen sa su watse su bar shi. Sarki,0.8,0.4571
+212,Na yi magana sau ɗaya amma ba ni da amsa.,Na yi magana sau daya amma ba ni da amsa.,0.1,0.0323
+213,"” Saboda haka, suka bai wa Yakubu dukan gumakan da suke da su, da zobban kunnuwansu.",Dukansu kuwa suka ba Yakub dukkan gumakan allolin kabilun da suke a hannunsu da zoban da suke a hannunsu.,0.9333,0.7077
+214,Amma bari kuma yă tuna da kwanakin duhu.,Amma bari kuma ya tuna da kwanakin,0.25,0.1562
+215,"Ashe, waɗanda suke ci daga hadayu, ba tarayya suke yi da bagadin hadaya ba?",Ashe wadanda suka ci daga hadayu ba daya suke da juna cikin cin hadayun da aka mikawa Allah a bagadin hadaya ba.,0.8571,0.678
+216,Farin cikina kamar na wanda ya sami dukiya mai yawa ne.,kamar mai samun dukiya mai yawa,0.6364,0.5227
+217,"Sa’an nan Shawulu ya koma gida, amma Dawuda da mutanensa suka haura zuwa wurin ɓuya.",Sa'anan Sha'ula ya koma gida amma Dauda da mutanensa suka haura zuwa wurin buya.,0.3333,0.0746
+218,"Saan nan Jonatan ya ce, “Za mu haye zuwa wurin mutanen, mu nuna kanmu gare su.",a wajen Filistiyawan can kuma zamu yi yadda zasu gan,1.0,0.7458
+219,"Ya ce, “Saurara, Sarki Yehoshafat da dukan waɗanda suke zama a Yahuda da Urushalima!",ya ce saurara sarki Yahoshaphat da dukkan wadanda suke zama a Yahuda da Urushalima,0.2143,0.0746
+220,Faufau ba zan raina kaidodinka ba.,Ba zan taba manta da ka'idodin ka ba.,1.0,0.3571
+221,"Saan nan ya ce wa Dawuda, “Ka fi ni adalci, gama ka yi mini alheri, ni kuwa na yi maka mugunta.",ya ce da kuka ya ce wa Dauda ka fini adalci ka yi mini alheri amma na yi maka mugunta,0.4762,0.2571
+222,lokacin da ya burtsatso daga cikin ciki.,lokacin da ya burtsatso daga cikin ciki,0.0,0.0
+223,"Ni ne Allah na Betel, inda ka zuba wa dutsen mai, ka kafa shi alamudi, ka kuma rantse mini.","Ni ne Allah da ya bayyana a gare ka a Bethel, inda ka keɓe dutsen tunawa a wurin zuba masa man zaitun, inda kuma ka yi rantsuwa a gare ni.",1.2632,0.8551
+224,"Aka ba zuriyar Merari, gida-gida, rabon garuruwa goma sha biyu daga kabilan Ruben, Gad da Zebulun.","Haka ba zuriyar Mai Rari, gida-gida, rabon garuruwa goma sha biyu daga kabilar Ruben, Gad da Zabulon.",0.3125,0.0769
+225,"Sai Yotam ya rasu, suka binne shi a birnin Dawuda.","Ya koma ga kakanninsa, aka binne shi a birnin Dauda",0.6,0.3846
+226,"Ya ƙaunaci budurwar, ya kalallame ta da maganganu masu daɗi.","Ya kawance ta, yayi mata magana mai dadi.",0.9,0.5714
+227,"Daga kabilan Yahuda, Simeyon da Benyamin suka ba su rabon sunayen garuruwan da aka ambata.","Ya kabilar Yahuda, Simeon da Binyamin suka ba su rabon sunayen garuruwa da aka ambata.",0.3333,0.0946
+228,Sai Saul ya ji labari an gane inda Dawuda da mutanensa suke.,garin Nob wata rana Shawulu yana a garin,1.0,0.7083
+229,"Ina gode wa Allah kullum dominku, saboda alherinsa da aka ba ku a cikin Kiristi Yesu.",Ina godewa Allah kullum domin ku saboda alherin sa da aka baku cikin kiristoci,0.6875,0.0882
+230,"Sai Ataliya ta yayyage tufafinta ta ce, “Tawaye!",da Ataliya ta ga haka sai ta yayya gare gonan ta tayi ihu tana cewa an ci amana ta an ci,2.25,1.1053
+231,"Fita daga wurin nan mai tsarki, gama ka yi kuskure, ba za ka sami daraja daga wurin Ubangiji Allah ba.",fita daga wuri mai tsarkin nan. Gama kayi rashin aminci wannan ba zai kawo maka daukaka daga wurin ya hawe Allah ba.,0.7,0.5125
+232,"Wanne ya fi girma, zinariyar, ko haikalin da yake tsarkake zinariyar?","Wanne yafi girma, dinariyar ko haikalun da yake tsarkake dinariyar?",0.4545,0.0536
+233,ƙarshenta kuma takan zama muguwar hauka.,karshenta kuma takan zama moguwar,0.5,0.2059
+234,zazzaɓi mai zafi da muguwar annoba; zan aika da haƙoran namun jeji a kansu.,zan zabi mai zafi da muguwar annoba zan aika da hakoran namun jeji akan su,0.3571,0.05
+235,"Saboda haka mu yarda, za su kuwa zauna a cikinmu.",Saboda haka mu yarda za su kuwa zauna a cikin mu.,0.2,0.0
+236,"Isra’ilawa suka kame kamammu daga ’yan’uwansu mata, ’ya’ya maza da kuma ’ya’ya mata dubu ɗari biyu.",Isra'ilawa suka kame kamannu daga 'yan uwansu mata 'ya'ya maza da kuma 'ya'ya mata dubu dari biyu.,0.25,0.04
+237,"Haka ku ma, a waje, a idon mutane, ku masu adalci ne, amma a ciki, cike kuke da munafunci da mugunta.",Haka kuma a waje a idon mutane ko masu adalci ne amma a ciki cike kuke da munafunci da mugunta.,0.1429,0.0133
+238,"Ni wane ne da zan gina masa Haikali, sai dai wurin da za a riƙa ƙona turare a gabansa?",Wanene ni har da zan iya gina masa gida? A'a sai dai ko in gina gidan da za'a kona turare a gaban sa.,0.7895,0.4394
+239,Absalom yana cikin gudu sai ya fāɗa a hannun jarumawan Dawuda.,yayi cikarro da sojojin Dauda,1.0,0.7255
+240,” Wannan ba zai hana shi zama gaɓar jikin ba.,"wannan ba zai hana ta zama gabar jiki ba. Da kunne zai ce saboda ni ba ido bane, ni ba gabar jiki bane, wannan ba zai hana shi zama gabar jiki ba.",2.7778,2.3529
+241,"Zazzaɓi mai zafi, da muguwar annoba za su cinye su.",Zafin ciwo zai cinye su. Mugun bala'i zai hallaka su.,0.9,0.75
+242,"In akwai mai gardama da wannan, to, mu dai ba mu da wata al’ada, haka ma ikkilisiyoyin Allah.","Idan akwai mai gardama da wannan, to mu dai bamu da wata al'ada haka ma ikilisiyoyin Allah.",0.2222,0.0423
+243,Waɗannan su ne yayan Yakubu da aka haifa masa a Fadan-aram.,Wadannan ne yaya maza na Yakub wadanda aka haifa masa a fadar Aran.,0.8182,0.3191
+244,"Amma in ba kwa yafe wa mutane laifofinsu, Ubanku ma ba zai gafarta muku zunubanku ba.",Amma in ba kwa yafewa mutane laifofin su uban ku ma ba zai gafarta muku zunubin ku ba.,0.5,0.0147
+245,"Ahimawaz ɗan Zadok ya sāke ce wa Yowab, “Ko mene ne zai faru, ina roƙonka bari in bi bayan mutumin Kush nan.","Koda za a auna mini azurfa dubu a hannu na, ba zan mika hannu na in taba dan sarki ba. A kunnen mu fa sarki ya umarce ka da abu sha",1.4091,0.8916
+246,Yotam ya yi yaƙi da sarkin Ammonawa ya kuma ci su.,Yotam yayi yaki da sarkin Ammonawa ya kuma ci,0.3636,0.0769
+247,"Ada ta haifa wa Isuwa, Elifaz, Basemat kuma ta haifi Reyuwel.","Ada kuwa ta haifa wa Isuwa Elifas, Besemat ta haifa masa Reuel.",0.6364,0.3542
+248,"Saboda haka Isra’ila ya ce wa Yusuf, “Jeka ka ga ko kome lafiya yake da ’yan’uwanka da kuma garkunan, ka kawo mini labari.","Saboda haka Isra'ila ya ce wa Yusuf, je ka ka ga ko komai lafiya yake da 'yan uwanka da kuma garkunan, ka kawo mini labari.",0.2174,0.0215
+249,"Suka ce wa sarki Dawuda, “Ga kan Ish-boshet ɗan maƙiyinka, Saul, wanda ya nemi ranka.",suka cewa sarki ranka ya dade ga kan Ishboshet dan Shaulu abokin gabanka wanda yayi kokari ya dauki ranka,0.8,0.5692
+250,"Hushai ya amsa, ya ce, “Ba haka ba, ni dai zan zama na wanda Ubangiji, da wannan jamaa, dukan mutanen Israila suka zaɓa.",Shi sai ya amsa ya ce a'a ni ina goyon bayan wanda ya hawaye da mutanen nan da kuma dukkan mutane Isra'ila suka zaba.,0.7826,0.4176
+251,Mutanen da ban sansu ba za su kasance a ƙarƙashina.,Mutanen da ban san su ba zasu kasance a karkashi na.,0.6,0.0488
+252,Namanta yana da kauri a manne da juna; naman yana da tauri ba ya matsawa.,Naman ta yana da kauri a manne da juna naman yana da tauri baya matsawa,0.2667,0.0
+253,’Ya’yan Ulam maza jarumawa ne sosai waɗanda suke iya riƙe baka.,A yan ulam maza jarumawa ne sosai wadanda suke iya rike,0.4545,0.14
+254,Gari na wayewa tun da sassafe Dawuda da mutanensa suka tashi suka kama hanyar komawa ƙasar Filistiyawa.,Gari na wayewa tunda sassafe Dauda da mutanen sa suka tashi suka kama hanyar komawa kasar,0.4118,0.1512
+255,"Ga shi kuwa, za su haura ta hawan Ziz, za ku tarar da su a ƙarshen kwarin a gabashin jejin Yeruyel.",da su zasu bullo ta mai shigin Z zaku same su ta karshen kwarin da ya bi zuwa dajin,0.9048,0.5526
+256,"In kuwa idonka da lahani, duk jikinka sai ya cika da duhu.",Amma idan idon ka ba lafiya dukan jikin ka zai rasa haske.,1.0,0.5333
+257,Saboda haka ka cece ni yadda ka yi niyya.,saka gaskiyarka masu tsananta mini,1.0,0.7188
+258,"Ya ce wa Saul, “Me ya sa kake kasa kunne ga maganganun mutanen da suke cewa, ‘Dawuda yana nema ya cuce ka?",ya ce wa Sha'alu domin me kake jin maganganun mutane masu cewa wai ina so in yi maka,0.7273,0.475
+259,Ya kuma yi rumman ɗari ya rataya wa sarƙoƙin.,ya kuma yi roman dari ya rataya wa sarkokin,0.3333,0.1389
+260,Ko za ka iya huda fatarta da kibiya.,ko zaka iya huda fatarta da kibiya,0.25,0.0
+261,"Heleb, ɗan Ba’ana daga Netofa.","Hello, dan ba'ana daga Natafe.",0.6,0.2609
+262,Suka sa ni kishi da abin da ba Allah ba.,suka sa na kishi da abin da ba Allah,0.2,0.1
+263,Yesu Ya Ci Idin Ƙetarewa tare da Almajiransa.,Yesu ya ci abincin bikin ketarewa tare da almajiransa.,0.375,0.2703
+264,"Dawuda ya ji ƙishirwa, sai ya ce, “Kash, da a ce wani yă samo mini ruwa daga rijiyar da take kusa da bakin ƙofar Betlehem mana!",Dauda ya ji ki shirwa sai ya ce da a ce wani ya samo mini ruwa daga rijiya da take kusa da bakin kofar mu,0.3462,0.2062
+265,ko kuma ka taɓa zuwa cikin zurfin lungun teku?,ko kuma ka taba zuwa cikin zurfin,0.3333,0.2973
+266,"Zai ba da sarakunansu a hannunku, za ku kuwa shafe sunayensu daga duniya.",zai bada sarakunan su a hannun ku. Ku kuma zaku kawar da sunayen su daga karkashin,0.9231,0.339
+267,"Amma saad da ya faɗa wa mahaifinsa da yanuwansa, sai mahaifinsa ya tsauta masa, ya ce, “Wane irin mafarki ne wannan da ka yi?","Amma sa'ad da Yusuf ya faɗawa babansa da 'yan uwansa, sai babansa ya tsawata masa ya ce wani irin mafarki kenan ka yi?",0.5,0.2474
+268,"Ka jefa kyautarka a baya, ka tsince ta a gaba.","ka bayar hannu sake, kama zaka same shi bayan kwanaki da yawa. Ka raba abinda kake da shi gida bakwai ko takwas, kama",2.1,1.9714
+269,An rushe katangar Urushalima aka kuma ƙone ƙofofin da wuta.,"An rushe katangar ƙurushin Lima, aka kuma ƙone ƙofofin",0.4,0.1837
+270,"Yayan Israila, maza, su goma sha biyu ne.",ya'ya maza na Yakub Yakub yana da ya'ya maza goma sha biyu,1.25,0.871
+271,"Gama za su juye ’ya’yanku maza daga bina, su bauta waɗansu alloli, fushin Ubangiji kuma zai ƙuna a kanku da sauri, zai kuma hallaka ku.","Ga maza su juye, 'ya'yanku maza daga biyu na, su bautawa waɗansu alloli. Fushin Ubangiji kuma zai ƙuna a kanku da sauri, zai kuma hallaka ku",0.2,0.0381
+272,“Zan kware fatarinki a idonki.,zan kware ba tare da ke a idon ki,1.2,0.2083
+273,"Mafi girma a cikinku, zai zama bawanku.",Mafi girma a cikinku zai zama bawan,0.1429,0.0645
+274,Suna walwal kamar jiniya.,hullo warsu kamar hasken fitila,1.0,0.8095
+275,abin da aka yi za a sāke yi kuma; babu wani abu sabo a duniya.,abunda aka yi za'a sake yi kuma babu wani abu sabo a duniya,0.3333,0.0435
+276,"Mahaifinsa ya ce, “Tafi yanzu, ka dubo lafiyar yanuwanka da ta garken, ka kawo mini labarinsu.",Baban sa ya ce wa Yusuf ka tafi Shekem wurin da yan uwan ka suke yin kiwo ka tabbatar da lafiyar su da ta dabbobin sai ka dawo mini da labarin su.,1.4375,0.9189
+277,"Ubangiji Allah mai kishi ne, mai ɗaukar fansa kuma.",Ubangiji Allah mai kishi ne mai daukar fansa,0.2222,0.122
+278,Hanyarsa tana cikin guguwa da cikin.,Hanyar sa tana cikin guguwa da,0.5,0.1667
+279,"Dole irin waɗannan abubuwa su faru, amma ƙarshen tukuna.",Dole irin waɗannan abubuwa su faru amma ƙarshen tukunna,0.1111,0.0217
+280,"Ya tara firistoci da Lawiyawa wuri ɗaya ya ce musu, “Ku je garuruwan Yahuda ku karɓa kuɗin da ya kamata a biya shekara-shekara daga dukan Isra’ila, don gyaran haikalin Allahnku.",ya tara fustoci da lawuyawa wuri daya ya ce musu ku je garuruwan Yahuda ku karbi kudin da ya kamata a biya shekara shekara daga dukkan Isra'ila don gyaran haikalin Allah ku,0.3333,0.0704
+281,sun mannu da juna kuma ba za a iya raba su ba.,sun mannu da juna kuma ba za a iya raba su ba,0.0,0.0
+282,"Zunubin yayan nan maza na Eli ya yi yawa a gaban Ubangiji, gama sun wulakanta hadayar Ubangiji ƙwarai da gaske.",Zunubin 'ya'yan Elin nan yayi muni sosai a gaban Yahawai. Gama su raina hadayar Yahawai kwarai da gaske.,0.6,0.4
+283,Gizagizai su ne ƙurar ƙafafunsa.,girgije kuma kural tafin kafar,1.0,0.6296
+284,"Ka sani, gama a lokacin nan an haife ka.",Ka sani a lokacin halittar su ne an haife,0.5556,0.5333
+285,"Amma Hamor ya ce musu, “Ɗana Shekem ya sa zuciyarsa a kan ’yarku.",Amma Hamur ya ce musu ɗa na Shekem ya sa zuciyarsa a kan ƴar,0.3077,0.0816
+286,"Gama tabbatacce, ya Ubangiji, kakan albarkaci adalai; kakan kewaye su da tagomashinka kamar garkuwa.",Gama tabbatar ce ya ubangiji kakan albarkaci adalai kakan kewaye su da tagon mashin ka kamar garkuwa.,0.3571,0.0241
+287,"Ya kuma tattara waɗanda suke ’yan shekara ashirin da haihuwa ko fiye ya sami mutane dubu ɗari uku da suke a shirye don aikin soja, da suka isa riƙe māshi da garkuwa.",Ya kuma tattara wadanda suke yan shekara ashirin da haihuwa ko fiye ya samu mutane dubu dari uku da suke a shirye don aikin soja da suka isa rike mashi da garkuwa.,0.1562,0.0382
+288,"Ku tambayi dattawanku, su kuma za su faɗa muku.",Tambayi dattawan ku zasu fada muku,0.7778,0.2432
+289,"Ubangiji Allahnku ya zaɓe ku daga cikin dukan alummai don ku zama jamaarsa, abar mulkinsa.","Ya yi alkawarin ya zabe ku daga cikin dukkan kabilun duniya, ku zama kabilar sa, jama'ar sa mafi",0.8,0.527
+290,"Goliyat ya tsaya ya tā da murya wa hafsoshin Isra’ila ya ce, “Me ya sa kuka fito kuna layi don yaƙi?",Gwalier dai tsaya ya tada murya wa hafsoshin Isra'ila yace me yasa kuka fito kuna layi don yaki,0.4286,0.1184
+291,"Uzzi, Refahiya, Yeriyel, Ibsam da Sama’ila, su ne kuma kawunan iyalansu.","Rufa'iya, Yerima, Ibsam da Samaila sune kuma kawo nan iyalan su.",0.8182,0.1786
+292,Ubangiji ya albarkaci ƙarshen Ayuba fiye da farkonsa.,Ubangiji ya albarkaci karshen Ayuba fiye da farkonsa.,0.125,0.0222
+293,"Da Hadad ya rasu, sai Samla na Masreka ya ci sarauta a bayansa.",Da Hadat ya mutu sai Samla daga mai surika ya gaje shi ya zama,0.6923,0.4694
+294,"Dukansu sun ci abincin ruhaniya guda suka kuma sha ruwan ruhaniyan nan guda; gama sun sha daga dutsen ruhaniya nan, wanda ya yi tafiya tare da su, wannan dutsen kuwa Kiristi ne.","Dukansu sun ci abincin ruhaniya guda, suka kuma sha ruwan ruhaniyar nan guda, ga masu sha daga dutsen ruhaniyar nan wanda ya tafiya tare da su. Wannan dutse kuwa Kiristi ne.",0.1875,0.0423
+295,duk saboda yawan sha’awace-sha’awacen karuwa.,duk saboda yawan sha'awance sha'awancan karu,0.6,0.1351
+296,"“Kome suke yi, suna yi ne don mutane su gani.","Komai suke yi, suna yi ne don mutane su gani.",0.1,0.0606
+297,Wanda ya haƙa rami shi ne zai fāɗa a ciki.,wanda ya tona ramin mugunta shine zai fadi a ciki,0.5,0.4375
+298,Duk ƙoƙarin kama ta banza ne; ganin ta kawai abin tsoro ne.,duk wani karin kama ta banza ne ganin ta kawai abun tsoro ne,0.25,0.1304
+299,ka kakkaɓe duk wani abin da ya dami rayuwarka.,ka karkaɗa duk wani abin da ya damu rayuwarka,0.2222,0.1081
+300,ka manta da azabanmu da kuma danniyar da ake mana?,Ka manta da azaban mu da kuma danniyar da ake mana,0.2,0.0
+301,“Ku duba yanzu cewa ni ne Shi!,Ku sa su tashi su taimake ku mana. Bari su baku mafaka. Ku duba yanzu cewa ni ne shi. Ba wani,2.0,2.1818
+302,"Farkon maganganunsa wauta ne, ƙarshensu kuma mugunta ne da hauka.","Farkon maganganun bakin sa wawanci ne, karshen maganar sa mugunta da hauka ne. Duk da haka",1.1,0.5556
+303,"Naftali yana da yaya huɗu, su ne Yazeyel, da Guni, da Yezer, da Shallum.",Shahararrun masana na naftali sune Ziyel da Guni da Yezer da Shillum.,0.6429,0.4259
+304,"“Saboda haka sai ku zauna a faɗake, gama ba ku san a wace rana ce Ubangijinku zai zo ba.",Saboda haka sai ku zauna a fadake kamar baku san a wace rana ce Ubangiji zai zo ba.,0.2632,0.0896
+305,Ta wace hanya ce na yi wa mahaifinka laifi har da yake neman yă kashe ni?,Ta wace hanya nayi wa mahaifinka laifi har da yake neman kashe ni?,0.25,0.0702
+306,"Uzziya ya gina hasumiyoyi a Urushalima a Ƙofar Kusurwa, a Ƙofar Kwari da kuma a kusurwar katanga, ya kuma yi musu katanga.",ya kuma yi musu katanga,0.7727,0.8061
+307,Sa’an nan Yehoshafat ya miƙe tsaye a taron Yahuda da Urushalima a haikalin Ubangiji a sabon filin ya ce.,Sa'an nan Yahoshafat ya miƙe tsaye a taron Yahuda da Urushalima a haikalin Ubangiji a sabon filin.,0.1579,0.0595
+308,"Ƙotar kibiyarsa kuwa kamar sandar saƙar igiya take, ƙarfen kibiyar kuma nauyinsa ya kai shekel ɗari shida.",Kotar kibiyar sa kuwa kamar sandan sakar igiya take. Karfin kibiyar kuma nauyin sa ya kai shekel 600.,0.5882,0.1591
+309,Allah yakan kuɓutar da kai daga ƙarairayi da ɓata suna.,A cikin yaki kuma zai fanshe ka daga bakin takobi.,1.0,0.6889
+310,Don me fa lamirin wani zai soki yancina?,don mai fatunan zuciyar wani zai hana yanci,0.625,0.5625
+311,"Saan nan Laban ya amsa ya ce wa Yakubu, “Yaya mata, yayana ne, yayansu kuma nawa ne, garkunan, garkunana ne, dukan abin da kake gani nawa ne.","Sannan labon ya amsa wa Yakubu ya ce, ai matan ka yaya na ne, yayan su jikoki na ne, garkunan dabbobin nan ma garkuna na ne. Duk abin da ka gani a nan nawa ne.",0.8519,0.3738
+312,"” Da tana suma, sai ta sa masa suna Ben-oni, amma mahaifinsa ya sa masa suna Biliyaminu.",da ranta yake fitowa kafin ta mutu sai ta kira shi benoni amma baban ya kira sunansa benjamin,0.875,0.6716
+313,inda akwai waɗanda aka kashe nan za a same shi.,inda akwai wadanda aka kashe nan zasu same shi.,0.3,0.0811
+314,An haifa ’ya’ya maza wa Shaharayim a Mowab bayan ya saki matansa Hushim da Ba’ara.,"An haifi yaya maza wa Shahraim a Mof bayan ya saki matansa Husham, Dabba, Ara",0.4,0.125
+315,"Yana magana ke nan, sai sarki ya ce masa, “Yaushe muka naɗa ka mai ba sarki shawara?",yana cikin magana kenan sai amai zai amsa masa yace shin yaushe muka nada ka mai ba sarki shawar,0.5882,0.375
+316,Ban kuwa taɓa samunsa da wani lahani ba tun daga ranar da ya bar Shawulu.,"Banko ta ba, sa masa da wani lahani, batun daga ranar da ya bar Sha'ulu",0.5333,0.1207
+317,Saboda tsokanar da yayansa mata da maza suka yi masa.,saboda tsokanar da ya'yan sa maza da mata suka yi masa,0.4,0.0465
+318,"Ka yi murna, kai matashi, a ƙuruciyarka.",kayi murna kayi matashi a kuruciyar,0.5714,0.129
+319,Duk abin da yake ƙarƙashin sama nawa ne.,duk abinda yake karkashin sama nawa ne,0.375,0.0625
+320,"Azrikam, Bokeru, Ishmayel, Sheyariya, Obadiya da Hanan.","Bokero, Ishmael, Sheharia, Obadia da Hanan.",0.7143,0.2727
+321,"Amma juyayinka yana da girma, ya Ubangiji.","Ya yawo, jinkanka da girma yake. Sa in rayu",1.0,0.5588
+322,Ya kuma shafe benaye da zinariya zalla.,ya kuma shafe biyunaye da zina riyazalla,0.4286,0.0938
+323,Sai ku hallaka dukan mutanen da Ubangiji Allahnku ya bashe su a hannunku.,zaku hallaka dukkan kabilun da ya waye allan ku yake bada su a hannun ku.,0.9231,0.3667
+324,in kuma tsittsinke sarƙar da suka ɗaura ki.,in kuma datsin ke sarkar da suka daura ki,0.5,0.1714
+325,Ko ya sa mata asirka?,ko ya hude hancin ta da karfe?,1.0,0.875
+326,"Amma kun ƙyale abubuwan da suka fi girma na dokoki, adalci, jinƙai da aminci.",Amma kun kyale abubuwan da suka fi girma na dokoki adalci jin kai da amince,0.2857,0.0492
+327,Kuka rabu da Dutsen da ya zama mahaifi gare ku; kuka manta da Allahn da ya haife ku.,Kuka raba da dutsan da ya zama mahaifi gare ku. Kuka manta da Allah da ya haife ku.,0.1667,0.0462
+328,"Ku zauna a cikinta ku yi sanaa, ku sami dukiya.","Ku zauna a ciki, kuyi kasuwanci da mu, ku sayi filaye, kuyi gidaje a ciki.",1.1,0.8611
+329,"Suna cin abinci ke nan, sai Yesu ya ce, “Hakika, ina gaya muku, ɗayanku zai bashe ni, wanda muke ci tare.",Suna cin abinci kenan sai Yesu yace hakika ina gaya muku daya daga cikinku zai basheni wanda yanzu yake cin abinci tare,0.619,0.2821
+330,Mutum biyu kuma su kori zambar goma.,biyu kuma su sa dubu goma,0.4286,0.4828
+331,"Ta ce, “Ka ji abin da zan ce maka.",ta wurin ta sai tace kaine Yobe yace nine tace kaji abunda zance maka,1.3333,1.4783
+332,Ba dama ku bauta wa Allah da dukiya gaba ɗaya.,Ba dama ku sa ranku ga bin Allah ku kuma sa ga bin kudi duk gaba daya.,1.2,0.75
+333,"Ai, alheri ta yi mini, na gaske kuwa.",abu mai kyau ne tayi mini. Basu,1.0,0.6667
+334,Ku amince da Ubangiji Allahnku za a kuwa kafa ku; ku amince da annabawansa za ku kuwa yi nasara.,Ku amince da ubangiji allon ku. Za'a kowa kafa ku. Ku amince da annabawan sa. Zaku koyi nasara.,0.4737,0.0789
+335,waɗanda ba za su taɓa ganin hasken rayuwa ba.,wadanda ba za su taba ganin hasken rayuwa ba,0.2222,0.0556
+336,"Benahiya, ɗan Yehohiyada mutumin Kabzeyel shi ma jarumi ne sosai, ya yi nasarori masu yawa.",Yanarhiya dan Yahaya da mutumin Kabziyal shima jarumi ne sosai yayi nasarori masu yawa,0.6,0.1351
+337,"Dawuda yana tafe ba takalmi a ƙafarsa, ya rufe kansa, yana ta kuka, saad da yake hawan Dutsen Zaitun, dukan mutane kuma da suke tare da shi suka rufe kawunansu, suna hawa, suna kuka.",birnin Absalon ya rusuna domin ya gaishe shi,0.9412,0.831
+338,"Ko dai yă ƙi ɗaya, yă ƙaunaci ɗaya, ko kuwa yă yi aminci ga ɗaya, sa’an nan yă rena ɗayan.",ko dai ya ki daya ya kauna ci daya ko kuwa yayi amince ga daya sa'annan ya raina daya,0.8,0.2121
+339,Ahaz ya tattara kayayyaki daga haikalin Allah ya kwashe su.,ya tattara kayayyaki daga haikalin Allah ya kwashe,0.2,0.1224
+340,” Amma Lawiyawa ba su hanzarta ba.,Amma lawuyawan suka ki yin sauri.,0.8333,0.5
+341,"Kana bin sawun mataccen kare, da sawun tunkuyau?",Kana bin macaccen kare ko kudan shizo kamar,0.75,0.5128
+342,Suna maye da abin shansu.,shaye-shaye da suka bugu suke tangadi cikin tarkon su.,1.8,1.55
+343,In kuwa ba haka ba in sa a kashe ka.,ka ko kuwa a kashe ka sai annabin ya daina magana amma yace na sani cewa Allah yayi niyya ya hallaka ka ne gama,2.2,2.6538
+344,"Zai ƙaunace ku, yă albarkace ku, yă kuma ƙara yawanku.",Ya ƙaunace ku. Ya albarkace ku. Ya kuma ƙara yawan ku.,0.5,0.0952
+345,"Ubangiji mai jinkirin fushi ne, mai iko duka kuma.",Ubangiji mai jin kiran fushi ne mai iko duka kuma,0.2222,0.025
+346,Waɗannan su ne ’ya’yan Azel maza.,Wadannan sune yayan Azal maza.,0.6667,0.08
+347,Yaƙin ya bazu koina a ƙasar.,Yakin ya bazu zuwa ko ina a yankin kasar.,1.0,0.5455
+348,"A jeji marar amfani, inda namomi suke kuka.",gaji inda ba kowa kasa marar amfani,1.0,0.7941
+349,"Ubangiji ya bashe ni a hannunka, amma ba ka kashe ni ba.",ya bada ni a hannun ka amma baka kashe ni ba,0.5,0.2558
+350,tana dariyar wucewar māshi.,tana dariyar wucewar mashi,0.25,0.0435
+351,"Suka buge shi, suka kashe shi, suka datse kansa.",suka sake shi suka kashe shi suka yanke kan sa,0.4444,0.1622
+352,"Sai Yesu ya ce, “Kun ga duk waɗannan abubuwa?","Sai ya ce, ""Kun ga duk waɗannan abubuwa",0.1111,0.1176
+353,Nauyin ƙusoshin ya kai shekel hamsin na zinariya.,nauyin kusoshin ya kai shekal hamsin na zinari,0.375,0.0976
+354,"Ya kafa ginshiƙan a gaban haikalin, ɗaya a kudu, ɗaya kuma a arewa.",ya kafa ginshikan a gaban haikalin daya a kudu daya kuma a arewa,0.2308,0.0577
+355,Kun manta da Allahn da ya ba ku rai.,sun manta da Allah da ya basu rai,0.4444,0.1111
+356,"Daga lokacin da ya sa shi shugaban gidansa da kuma a kan dukan abin da yake da shi, sai Ubangiji ya albarkaci gidan mutumin Masar saboda Yusuf.",Daga lokacin da yasa shi shugaban gidansa da kuma akan dukkan abinda yake dashi sai ubangiji ya albarkaci gidan mutumin masar saboda Yusuf.,0.3333,0.0087
+357,"Sai Shawulu ya tashi ya gangara zuwa Jejin Zif, tare da zaɓaɓɓun mutane dubu uku na Isra’ila.",Sai shugaban ya tashi ya gangara zuwa Jenin tare da zababbun mutane dubu uku na Isra'ila.,0.2353,0.1757
+358,Haka aka lissafta dukan Isra’ila a tarihin zuriyoyi a littafin sarakunan Isra’ila.,Haka aka rasa mutun dukkan Isra'ila a tarihin zuriyoyi a littafin sarakunan Isra'ila.,0.25,0.1176
+359,"Ga shi, Saman sammai ba ta isa ta karɓe ka ba, balle wannan Haikali da na gina!",ne saman sammai ma bata ishe ka ba balle ma wannan gidan da na gina,0.5294,0.35
+360,"Su ’ya’yan Rimmon mutumin Benyamin ne daga Beyerot, an lissafta Beyerot a ɓangaren Benyamin, domin mutanen Beyerot sun gudu zuwa Gittayim inda suke zaman baƙunci har wa yau.",Su yayan Raymond mutumin Benjamin ne daga Beirut a lissafin Beirut a bangaren Benjamin domin mutanen Beirut sun gudu zuwa Gitayim inda suke zaman bakunci har yau.,0.4286,0.156
+361,Ka kwararar da rigyawar fushinka.,ya faɗawa kanka girma da ɗaukaka nuna fushin,1.4,0.8214
+362,Waɗannan su ne jikokin Ada matar Isuwa.,Wadannan sune jikokin Ada matar Isu.,0.5714,0.0938
+363,A ce su masu hikima ne har su gane wannan.,marasa azanci babu ganewa a cikinsu ace su masu hikima ne har su gane wannan su gane,0.8,1.125
+364,"Itace ya fāɗi, ko wajen kudu ne, ko wajen arewa.",mutace ya fadi ko wajan kudu ne ko wajan arewa,0.4,0.1667
+365,"Ya haɗa kai da shi, suka gina jiragen ruwa don su riƙa zuwa Tarshish.",ya hada hannu da Ahazia suka gina jiragen ruwa domin zuwa Tarshish,0.4286,0.2778
+366,"Ka ji nan, mahaifina ba ya yin kome ba tare da ya shawarce da ni ba.",Ka ji na? Mahaifi na baya yin komai ba tare da ya shawarce ni ba.,0.375,0.098
+367,Ya dace da mace ke nan ta yi addua ga Allah da kanta a buɗe?,da kanku yayi kyau mace tayi addu'a ga Allah da kanta a bude,0.5333,0.3556
+368,"Mece ce kuma alamar dawowarka, da ta ƙarewar zamani?",mai cece alamar dawowarka da kuma ta karshen zamani,0.5556,0.3571
+369,"In na sallame su gida da yunwa, za su kāsa a hanya, don waɗansu daga cikinsu sun zo daga nesa.",Ina sallame su gida da yunwa za ka kasa a hanya don wadansu daga cikin su sun zo daga nesa.,0.35,0.0694
+370,"Ai, ba sa shuka, ba sa girbi, ba sa kuma tarawa a rumbuna, amma kuwa Ubanku na Sama na ci da su.",Bana basa shuka basa girbi basa tara a rumbuna duk da haka ubanku na sama ne yake ciyar da su.,0.6818,0.3286
+371,"Ku faɗa mini nawa ne dukiyar aure da kuma sadakin da zan kawo bisa ga yadda kuke so, zan kuwa biya duk abin da kuka ce.",Ku fada mini nawa ne dukiyar aure da kuma sadakin da zan kawo bisa ga yadda kuke so. Zan kuwa biya duk abin da kuka ce.,0.0385,0.0109
+372,Ya sa ƙafafuna kamar ƙafafun barewa; ya sa na iya tsayawa a kan duwatsu.,Ya sa kafa tuna kamar kafafun barewa. Ya sa na iya tsayawa akan duwatsu.,0.3571,0.0526
+373,"Waɗannan garuruwa waɗanda aka raba a tsakanin mutanen gidan Kohat, goma sha uku ne duka.",Wadannan garuruwa wadanda aka raba a tsakanin mutanen gidan Kohat goma sha uku ne duka.,0.1333,0.0278
+374,"Jawabi a kan Nineba ke nan, a littafin wahayin Nahum na Elkosh.",ga sako game da ni ne ba wannan ne littafin ru'uyar da annabi Nahum mutumin Elko,1.1667,0.68
+375,"Ko da zan sadaukar da duk abin da na mallaka, in kuma ba da jikina a ƙone, in har ba ni da ƙauna, to, ban amfana da kome ba.","Ko da zan bayar da duk abin da nake da shi, in kuma bada jikina a kone, toh idan bani da kauna, ai bani da ribar komai.",0.5862,0.3407
+376,Sa’ad da sarakuna Filistiyawa suke wucewa da rundunarsu na mutum ɗari-ɗari da na dubu-dubu.,Sauran da sarakunan polisawa suke wucewa da rundunansu na mutum dari dari da na dubu dubu.,0.5714,0.1622
+377,Ƙasa ta sāke siffa kamar laka da aka yi wa hatimi; ta fito a fili kamar riga.,Kasa ta sake sufa kamar laka da aka yi wa hatimi ta fito a fili kamar riga,0.1765,0.0678
+378,Albarkar Ubangiji tana a kan kome da Fotifar yake da shi a gida da kuma a jeji.,Albarakar ubangiji tana akan komai da fotifar yake da shi a gida da kuma a jeji.,0.2353,0.0484
+379,"” Wato, duk saad da kuke cin gurasar nan, kuke kuma sha a ƙoƙon nan, kuma ayyana mutuwar Ubangiji ke nan, har sai ya dawo.",Wato duk lokacin da kuke cin brodin nan kuke kuma sha a kof din nan kuna shelar mutuwar ubangiji kenan har ya dawo.,0.375,0.2826
+380,Duwatsu za su narke a ƙarƙashin ƙafafunsa.,duwa tsozo su narke a karkashin kafafun sa,0.7143,0.1429
+381,"Da ba domin Allah na mahaifina da Ibrahim, da martabar Ishaku na wajena ba, hakika da yanzu ka sallame ni hannu wofi.","da ace Allah na baba na, Allah na Ibrahim, Allah mai ban tsoro na Ishaku baya tare da ni, da tuntuni ka sallame ni hannu wofi.",0.7273,0.4731
+382,"Sai Hamor mahaifin Shekem ya fita ya je wurin Yakubu, ya yi magana da shi.",Sa'ad da Hamur baban Shekhem ya tafi wurin Yakub domin yayi magana da shi,0.6667,0.3793
+383,"Sukan kuwa taazantar da ni, ya Ubangiji.","Ya woi, na kuwa sami ta'aziya.",1.0,0.6875
+384,"Yayan Bilha, kuyangar Rahila, su ne Dan da Naftali.",Yaya maza na bilha baiwar rahila sune Dan da Naftali.,0.6667,0.25
+385,dole a yi amfani da ƙarfi da yawa.,dole a yi amfani da karfi da yawa,0.125,0.0385
+386,"Heber shi ne mahaifin Yaflet, Shomer da Hotam da kuma ’yar’uwarsu Shuwa.","Shi ne mahaifin Yaflet, Shomar, da Hotam, da kuma 'yar uwarsu Shuah.",0.4167,0.1404
+387,Suka yi yaƙin a kurmin Ifraimu.,A kurmin yankin Ifeanyi sojojin,1.0,0.84
+388,Saan nan ni kaina kuma zan sanar da kai.,ni kuma zan yabe ka in yarda,0.7778,0.7097
+389,"Sa’ad da ’yan’uwansa suka ga cewa mahaifinsu ya fi ƙaunarsa fiye da kowanne daga cikinsu, sai suka ƙi jininsa, ba sa kuma maganar alheri da shi.",Sa'a da yan uwansa suka ga cewa mahaifinsu yafi kaunarsa fiye da kowanne daga cikinsu sai suka ki jininsa basa kuma maganar alheri da shi,0.3462,0.0265
+390,"Bilatus ya sāke tambayarsa ya ce, “Ba ka da wata amsa?",Pilatus ya sake tambayarsa ya ce gashi fa ana zarginka akan abubuwa da yawa ba zaka bada amsa ba?,1.1818,1.0
+391,"Timna kuwa ƙwarƙwarar Elifaz ɗan Isuwa ce, ta haifa wa Elifaz Amalek.",Lafas din isuwa yana da wata macen da ya ajiye mai suna Timna wadda ta haifa masa Amalek.,1.3333,0.7857
+392,A lokacin nan Sarki Ahaz ya aika wurin sarkin Assuriya neman taimako.,"A lokacin nan, sarki Ahas ya aika wurin sarkin Assuriya neman taimako.",0.0833,0.0175
+393,"Gaskiya nake faɗa muku, sun sami iyakar ladarsu ke nan.",A hakika ina gaya muku sun riga sun samu ladan su kenan.,1.0,0.4545
+394,"Ku yi auratayya da mu; ku aurar mana da ’ya’yanku mata, ku kuma ku auro ’ya’yanmu mata wa kanku.",Ku yi auratayya da mu. Ku aurar mana da yayan ku mata. Ku kuma ku auro yayan mu mata wa kan ku.,0.3158,0.0
+395,Sai Hamor mahaifin Shekem ya je don yă yi magana da Yaƙub.,Sai Hamor mahaifin Sheken ya je don ya yi magana da Yakub.,0.25,0.0652
+396,tsuntsu mai fikafikai zai sanar da abin da ka ce.,Tuntuɓi mafi kafakai zai sanar da abin da ka ce.,0.3,0.1538
+397,"Game da umarnan nan dai, ban yaba muku ba, domin taruwarku ba ta kirki ba ce, ɓarna ce.","Game da umarnan nan dai, ban yaba muku ba domin taruwar ku ba ta kirki bace, barna ce.",0.2778,0.0152
+398,"Zai ƙarfafa ku har zuwa ƙarshe, domin ku zama marasa aibi a ranar Ubangijinmu Yesu Kiristi.",Zai karfafa ku har zuwa karshe domin ku zama marasa aibi a ranar Ubangijin mu Yesu Kristi.,0.3125,0.0405
+399,"Saboda haka sai ya bar kome a ƙarƙashin kulawar Yusuf, bai dame kansa a wani abu ba sai dai abincin da yake ci.",Saboda haka sai ya bar komai a karkashin kulawar Yusuf bai dami kansa a wani abu ba sai dai abincin da yake ci,0.1304,0.0575
+400,"’Yan’uwa, ku tuna yadda kuke sa’ad da aka kira ku.",'yan uwa ku tuna yadda kuke sa'ar da aka kira,0.4,0.0833
+401,Ko kuwa ya kware sulkensa da aka ninka biyu?,So kike yin tsare jikin sa? Wanene yake da karfi?,1.1111,0.7429
+402,Wane ne yake da hikimar iya ƙirga gizagizai?,Wanene yake da hikimar iya kirga gizagizai?,0.375,0.0278
+403,"Ubangiji dai zai sharaanta tsakanina da kai, ya sāke mini, amma hannuna ba zai taɓa ka ba.",Bari ya hawaye yayi shari'a tsakani na da kai. Bari ya hawaye ya rama muguntar da kake yi mini. Amma ni kam haruna ba zai taba ka ba.,1.1176,0.7606
+404,Ya yi tafiya a hanyoyin mahaifinsa Asa bai kuwa kauce daga gare su ba; ya yi abin da yake daidai a gaban Ubangiji.,"Yayi tafiya a hanyoyin mahaifinsa, Asa, bai kuwa kauce daga gare su ba, yayi abun da yake daidai a gaban Ubangiji.",0.2174,0.0111
+405,Lokacin da ka neme ni ba za ka same ni ba.,cikin kura zaka neme ni ido a rufe amma ba zaka same ni ba.,0.8182,0.6774
+406,” Dawuda da mutanensa suka ci gaba da tafiyarsu.,ya dauda da mutanen sa suka cigaba da tafiya,0.875,0.1579
+407,"To, aka kai Yusuf Masar, Fotifar wani mutumin Masar wanda yake ɗaya daga cikin hafsoshin Fir’auna, shugaban masu tsaro, ya saye shi daga mutanen Ishmayel waɗanda suka kai shi can.","To aka kai Yusuf Masar, hoton wani mutumin Masar wanda yake daya daga cikin hafsoshin Fir'auna, shugaban masu tsaro ya saye shi daga mutanen Ishmayel wadanda suka kai shi can.",0.1,0.0486
+408,"Ba kamar Dawuda kakansa ba, bai yi abin da yake daidai a gaban Ubangiji ba.","Ba kamar Dauda kakansa ba, bai yi abin da yake daidai a gaban Ubangiji ba.",0.0667,0.0169
+409,"Allah mai alkawari ne, ba zai kuwa yarda a gwada ku fin ƙarfinku ba, amma a game da gwajin sai ya ba da mafita, yadda za ku iya jure shi.","Allah mai aminci ne, ba zai bari a gwada ku fiye da karfin ku ba, amma game da gwajin, zai bude hanyar tsira yadda zaku iya jimrewa.",0.5667,0.3462
+410,"Ta yi ta kewayawa, har ta koma inda ta fito.",ta kanyi ta kewayewa ta sake komawa inda ta fito.,0.5,0.3333
+411,"in hannuwansa ba masa yin kome, ɗaki yakan yi yoyo.",in hannuwan sa ba masu yin komai daki yakan yi,0.6,0.2
+412,"Ya yi yadda sarakunan Israila suka yi, kamar yadda gidan Ahab ya yi, gama matarsa yar Ahab ce.",yar sa kamar sarakunan Isra'ila ya aikata mugayen ayuka a idon Yahweh kamar yadda Ahab ya yi. Ya yi haka gama matar sa 'yar sarki,1.0,0.6892
+413,Sarki Uzziya ya kasance da kuturta har ranar mutuwarsa.,Sarki Uziya ya kasance da kuturta har ranar mutuwarsa.,0.1111,0.0217
+414,"Da wayewar gari sai manyan firistoci da shugabanni, da malaman Attaura, da dukkan yan majalisa suka yi shawara.",Da sassafe manyan fitattun mutane da shugabanni da malaman koyarwar musa da dukkan sauran yan majalisa suka yi shawara,0.4444,0.4066
+415,Ba mai kiyaye mu kamar Allahnmu.,Babu wani dutsen buya kamar Allah mu.,1.0,0.5385
+416,Bayi ’yan mata suna kuka kamar tattabaru.,Baya 'yan mata suna kuka kamar tattabaru.,0.1429,0.0303
+417,"Wannan aikin firistoci zuriyar Haruna ne, waɗanda aka tsarkake don ƙone turare.","Wannan aikin furstoci, zuri'ar Haruna ne. Wadanda aka tsarkake, dan kone turare.",0.4167,0.0909
+418,Wannan kuwa duk don kada wani ɗan adam yă yi fariya a gaban Allah ne.,yana da muhimmanci. Allah yayi duk wannan domin kada wani dan adam yayi takama a gaban Allah.,0.8,0.6667
+419,"A cikin watan Kisleb a shekara ta ashirin, yayinda nake a fadar Shusha.",a cikin watan kislap a shekara ta ashirin yayin da nake a father,0.3846,0.1754
+420,"Ubangiji ya ce, “Me ke nan ka yi?",Ubangiji ya ce me kenan ka yi? Saurara ga jinin dan uwanka yana mini kuka daga kasa. Yanzu kailu a nan ne ne an kuma kore,2.625,3.087
+421,"Ya nemi nufin Ubangiji amma bai sami amsa daga wurin Ubangiji ko ta wurin mafarki, ko ta wurin Urim, ko ta wurin annabawa ba.",yaga sojojin polisiyawa sai yaji tsoro ya firgita kwarai ya nemi nufin ubangiji amma bai samu amsa daga wurin ubangiji ko ta wurin mafarki ko ta wurin urim ko ta wurin annabawa ba,0.4167,0.4949
+422,amma idanunka suna a kan masu girman kai don ka ƙasƙantar da su.,Amma idanunka suna akan masu girman kai don ka ƙasƙantar da su.,0.1538,0.0
+423,Dukan abin da suke ƙullawa game da Ubangiji zai kawo ga ƙarshe; wahala ba za tă sāke komowa ƙaro na biyu ba.,Dukkan abin da suke ƙullawa game da Ubangiji zai kawo ga ƙarshe. Wahala ba za ta sake komowa karo na biyu ba.,0.1818,0.0471
+424,Sa’an nan Yowab da ɗan’uwansa Abishai suka fafari Sheba ɗan Bikri.,Sannan yau da dan uwansa Auwal suka fafari Sheba da,0.7273,0.3208
+425,"Hakika, ina gaya muku, ba wani dutsen da za a bari nan a kan ɗanuwansa ba a baje shi ba.","A hakika ina gaya muku, ba dutse ko daya da za'a bari akan wani, duka za'a rushe su.",0.75,0.4242
+426,Ubangiji ya riga ya yi umarni a.,"da aka ɗaure ku da su, Yahya ya bada umarni ga",1.2857,0.88
+427,Ina masu muhawwarar zamanin nan?,Musa? Ina waɗanda suke tsammani sun san,1.2,0.7778
+428,"In kuwa Ubangiji ne yake hukunta mu, to, muna horuwa ke nan, don kada a yanke mana hukunci tare da sauran duniya.",Idan kuwa Ubangiji ne yake yi mana shari'a muna samun horo kenan domin kada a yanke mana hukunci tare da duniya.,0.4091,0.3182
+429,Kamar yadda matattun ƙudaje sukan ɓata ƙanshin turare.,Kamar yadda matattun kudaje sukan bata kanshin turare.,0.375,0.0652
+430,"Daga rabin kabilar Manasse kuwa, Isra’ilawa suka ba da Aner da Bileyam, tare da wuraren kiwonsu, ga sauran gidajen mutanen Kohat.","Daga rabin kabilar Manassa kuwa, Isra'ila suka bada Aner da Bileam tare da wuraren kiwon su ga sauran gidajen mutanen Kohat.",0.3333,0.0385
+431,Ubangiji ya ba da umarni game da ke Ninebe.,Ubangiji ya bada umarni game da ke Ninebe,0.2222,0.0
+432,"Mudun da kuka yi awo da shi, da shi za a yi muku.",Modin da kuka yi awu da shi da shi za a yi muku,0.1538,0.0857
+433,” Kuria kuwa ta fāɗa a kan Jonatan.,Sai Shawulu ya tara,1.0,0.8077
+434,Ta kuma haifi Makir mahaifin Gileyad.,"Ta kuma haifi Makir, baban",0.3333,0.3871
+435,"Wahalar wawa takan gajiyar da shi, har bai san hanyar zuwa gari ba.","Aikin wawa yakan gajiyar da shi, tunda wawancinsa yakan makanta masa ido.",0.6923,0.566
+436,"Banda haka ma, wane ne ya kamata in bauta wa, in ba ɗan ubangidana ba?","Banda haka ma, wa ya kamata in yi masa hidima in banda Dan Dauda?",0.6,0.3962
+437,"Allah mai alkawari ne, shi ne kuma ya kira ku ga tarayya da Ɗansa Yesu Almasihu Ubangijinmu.","Allah mai cika alkawari ne, shine kuma ya kira ku kuyi zumunci tare da dansa Yesu Almasihu Ubangijin mu.",0.5294,0.2568
+438,"” Dawuda kuwa ya tashi a hankali, ya yanke shafin rigar Saul.",Dauda ya yi rarafe ya je ya yanko bakin rigar Sha'u,0.8182,0.4468
+439,Saboda haka Ubangiji Allahnsa ya miƙa shi ga sarkin Aram.,"Saboda haka, Ubangiji Allansa ya mika shi ga sarkin Aram.",0.2,0.0426
+440,Za ka yi wasa da ita kamar yadda za ka yi da tsuntsu?,zaka yi wasa da ita kamar yadda zaka yi da,0.3846,0.175
+441,wadda kuma hakimanta ke ta shagali tun da safe.,wadda kuma hakiman ta ke ta shagali tun da safe,0.2222,0.0
+442,"Suka tsorata, suka ce wa juna, “Wane ne wannan?",Suka tsorata suka cewa juna wanene wannan?,0.4444,0.0
+443,"Dukan lokacin da yake bin Ubangiji, Allah ya wadata shi.",Sarki yana bin ya hawaye ya hawaye ya,0.8,0.6667
+444,"Ya aikata abin da yake daidai saboda Ubangiji, kamar dukan abin da tsohonsa Azariya ya yi, sai dai bai kutsa cikin Haikalin Ubangiji ba.",Ya aikata abinda yake daidai a idon yahawai kamar yadda babansa Uzaiyayi. Yotam kuwa bai shiga cikin haikali domin ya ƙona,0.7917,0.4182
+445,"Yaƙub ya dawo gida wurin mahaifinsa Ishaku a Mamre, kusa da Kiriyat Arba , inda Ibrahim da Ishaku suka zauna.",Yakubu ya dawo gida wurin mahaifinsa Ishaku a Mamre kusa da Kiriyat-arba wato Hebron inda Ibrahim da Ishaku suka zauna.,0.2105,0.1379
+446,"Da ƙafa za tă ce, “Saboda ni ba hannu ba ce, ni ba gaɓar jiki ba ce.",da kafa zata ce saboda ni ba hannu bace ni ba gabar jiki bace,0.4706,0.0625
+447,Ya sa ni in yi hikima fiye da dukan maƙiyana.,sun sa hikima ta yafi na abokan gaba na. Amma kullum dokokin,1.1,1.0571
+448,Ta shafe jikina da mai gabannin janaizata.,Na shafa jiki na da mai domin shirin birnewa,1.0,0.4571
+449,Zan kawo maka dukan jamaa kamar yadda akan kawo amarya a gidan angonta.,In kawo maka sauran mutanen duka. Sa'ad da dukansu suka dawo sai dai,0.8462,0.6207
+450,Ku kuma ba bayin Shawulu ba ne?,ko kuma baban shawulu,0.7143,0.2917
+451,"Na ɗauri aniya in jarraba, in bincika dukan abubuwan da ake yi a duniyan nan.",Na dauki niyya in sa a kaina in nema in kuma bincika ta wurin hikima dukkan abubuwan da ake yi a karkashin sama. Sai na,1.0667,0.7705
+452,Kada a faɗe shi a Gat; kada ma a yi kuka.,Kada a faɗe shi a gate. Kada ma ayi kuka.,0.2727,0.0345
+453,"Yotam yana da shekara ashirin da biyar sa’ad da ya zama sarki, ya kuma yi mulki a Urushalima shekara goma sha shida.","Yotam yana da shekara ashirin da biyar, Sa'ada ya zama sarki. Ya kuma yi mulki a Urushalima shekara goma sha shida.",0.0909,0.0109
+454,"Yayan Bela, maza, su biyar ne, wato Ezbon, da Uzzi, da Uzziyel, da Yerimot, da Iri.",Ya'yan maza na Bilah sune Isban da Uzi da Uziyal da Yerimot da Iri.,0.5,0.3333
+455,"Sa’ad da Yahuda, wanda ya bashe Yesu, ya ga an yanke wa Yesu hukuncin kisa, sai ya yi “da na sani.",Sa'a da Yahuda wanda ya bashe Yesu yaga an yanke wa Yesu hukuncin kisa sai yayi da na sani.,0.2381,0.0139
+456,Duk itacen da ba ya ba da ’ya’ya masu kyau sai a sare shi a jefa cikin wuta.,duk itacen da baya bada yaya masu kyau sai a sare shi a jefa cikin wuta,0.2222,0.0
+457,Ta ajiye rigar a wurinta har maigidansa ya komo.,ta ajiye rigar a wurin ta har mai gidan Yusuf ya dawo,0.6667,0.1795
+458,"Shin, duka ne manzanni?",ne da me za'a ji da kuma ace dukkan jiki kunne ne da me,3.25,1.8333
+459,"Yesu ya fita Haikalin, yana cikin tafiya, sai almajiransa suka zo suka nuna masa gine-ginen Haikalin.",ya siya ya fita daga cikin haikali yana tafiya sai almajiransa suka nuna masa gine-ginen haikalin,0.5,0.2805
+460,"Dukan mazan da suka fito ƙofar birnin suka yarda da Hamor da kuma ɗansa Shekem, aka kuwa yi wa kowane namiji a birnin kaciya.",Dukkan mazan da suka fito kofar birnin suka yarda da Hamor da kuma dansa Shekem. Aka kuwa yi wa kowanne namiji a birnin kaciya.,0.1667,0.04
+461,"Amma ku yi wa kanku ajiyar dukiya a sama, inda ba tsatsa da asu da za su ɓata su, inda kuma ba ɓarayin da za su fasa, su yi sata.",Amma kuyi wa kanku ajiyar dukiya a sama inda ba tsatsa da asu da zasu bata su inda kuma ba barayin da zasu fasa suyi sata.,0.3333,0.0208
+462,"“Ya yiwu ku ce a zuciyarku, ‘Waɗannan alummai sun fi mu yawa, ta ƙaƙa za mu iya ƙorarsu?","Wataƙila za ku ce kabilun nan sun yi yawa fiye da mu, ya zamu yi mu kawar da",0.8333,0.6667
+463,"Amaziya ya tambayi mutumin Allah ya ce, “Amma game da talenti ɗarin da na biya saboda waɗannan rundunonin Isra’ila fa?",Amma zai iya tambayar mutumin Allah yace amma game da talanti dari da na biya saboda wadannan rundunonin Isra'ila,0.5,0.1263
+464,"Don haka kada ku damu, kuna cewa, ‘Me za mu ci’ ko?",da haka kada ku damu da cewa me zamu ci,0.4167,0.2
+465,"Wanda yake a gona kuma, kada ya koma garin ɗaukar mayafinsa.",wanda yake a gona kuma kada ya koma wai zai dauki mayafinsa,0.2727,0.1667
+466,Makir ya auro wa Huffim da Shuffim mata.,Makirkuwa ya nemi wa huffin da shuffin,0.625,0.4375
+467,“Ubangiji ya cika zuciyata da murna.,zuciyata ta cika da farin ciki saboda ya hawai,1.3333,0.931
+468,A lokacin ƙafarsu za ta zame.,Lokaci yana zuwa kafarsu zata yi,1.0,0.5652
+469,"Sa’ad da take cikin zafin haihuwa, sai macen da ta karɓi haihuwar ta ce mata, “Kada ki ji tsoro, gama yanzu kin sami wani ɗa.",ta ara take cikin zafin haihuwa sai macen da ta karbi haihuwar ta ce mata kada ki ji tsoro gama yanzu kin samu wani,0.2,0.0737
+470,Amma mace abar taƙamar namiji ce.,amma mace daga jikin namiji ta fito ba kuma namiji don mace,1.5,0.963
+471,"Ku gaskata da Ubangiji Allahnku, za ku kahu.",Gaskata da ya hawaye. Allanku. Zaku ci nasara.,0.875,0.5143
+472,"Yanzu kuwa na sani za ka zama sarki, sarautar Israila za ta kahu a hannunka.",yanzu lallai zaka zama sarki kuma mulkin Isra'ila zai karu ta hannun,0.8,0.35
+473,"“Saboda haka, ina gaya muku, kada ku damu game da rayuwarku, game da abin da za ku ci, ko abin da za ku sha; ko kuma game da jikinku, game da abin da za ku sa.",Saboda haka ina gaya muku kada ku damu game da rayuwarku game da abin da za ku ci ko abin da za ku sha ko kuma game da jikinku game da abin da za ku,0.0278,0.0172
+474,"Manyan sojoji da masu bushe-bushe suna kusa da sarki, dukan mutanen ƙasar kuwa suna farin ciki suna busa ƙahoni, mawaƙa kuma da kayan kiɗi suna bi da yabo.","manya sojoji da masu bushe-bushe suna kusa da sarki. Dukkan mutanen kasar kuwa suna farin ciki, suna busa kahoni, mawaka kuma da kayan kide suna bi da",0.25,0.0887
+475,"Sai ya tashi da dare ya fatattaki Edomawa waɗanda suka kewaye shi, shi da shugabannin karusansa.",sa sai domawa suka kewaye shi da shugabannin sojojin sa masu kekunan doki amma da dare suka kubuta,1.0,0.7722
+476,"“In da ni ne kai, da sai in juya wurin Allah.",Da ni ne kai Ayuba da sai in nemi Allah ga Allah,0.4545,0.5312
+477,Ko abokan gabanmu ma sun san haka.,ko abokan gaban mu ma sun san haka,0.2857,0.0
+478,"Sai Yakubu ya kafa alamudin dutse a inda Allah ya yi masa magana, ya zuba masa sadaka ta sha, ya kuma zuba mai a bisansa.",Sai Yakub ya tada dutsen tunawa a wurin da Allah yayi magana da shi. Ya zuba masa hadaya ta abin sha da kuma man zaitun.,0.68,0.4468
+479,"Eber shi ne mahaifin Yaflet, da Shemer, da Helem, da yaruwarsu Shuwa.",ne ya haifi da da da 'yar uwarsu,0.6667,0.5741
+480,"“Albarka tā tabbata ga masu kwaɗaita ga adalci, domin za a biya musu muradi.","albarka ne masu jin yunwa da kishin yin adalci, gama za a kosar da su. masu",0.8571,0.6
+481,"” Sai ya aiki almajiransa biyu, ya ce musu, “Ku shiga gari, can za ku gamu da wani mutum ɗauke da tulun ruwa, ku bi shi.",Sai ya aiki almajiransa guda biyu ya ce musu ku shiga gari can za ku gamu da wani mutum yana dauke da tulun ruwa ku bi shi.,0.12,0.1023
+482,Zai shafe maƙiyansa da ambaliyar.,kinsa amma kamar an baliyar,1.0,0.5
+483,kamar zurfin ruwan da yana kumfa.,kamar zudufin ruwan da yana,0.3333,0.2593
+484,"Sa’ad da Yusuf ya zo wurinsu kashegari, sai ya ga duk sun damu.",Sada Yusuf ya zo wurin su kashe gari sai ya ga duk sun damu,0.4615,0.0417
+485,"Amma suka yi masa maƙarƙashiya, kuma ta wurin umarnin sarki suka jajjefe shi da duwatsu har ya mutu a filin haikalin Ubangiji.",amma suka yi masa makarkashiya kuma ta umarnin sarki suka jaje fe shi da duwatsu har ya mutu a filin haikalin ubangiji,0.1818,0.0777
+486,"Da Shawulu ya isa inda ake ajiye garken tumaki a bakin hanya inda akwai kogo, sai ya shiga ciki kogon don yă yi bayan gari.",ta sha wuya isa inda ake ajiye garken tumaki a bakin hanya inda akwai kogo sai ya shiga cikin kogon don yayi bayan gari,0.24,0.0515
+487,"Ya gina hasumiyoyi a hamada ya kuma haƙa rijiyoyi masu yawa, gama yana da dabbobi masu yawa a gindin duwatsu da kuma a kwari.","ya gina husumiyoyi a Hamada, ya kuma haka rijiyoyi masu yawa. Gama yana dabbobi masu yawa a gindin duwatsu da kuma a",0.1667,0.09
+488,"Amma in kana azumi, ka shafa mai a ka, ka kuma wanke fuska, don kada mutane su ga alama kana azumi, sai dai Ubanku da yake ɓoye ya gani.",Amma idan kana azumi ka wanke fuskar ka ka shafa mai a kan ka domin kada a ga kana azumi. Uban ka wanda ba a gani,0.6897,0.4854
+489,"Da Saul ya ga Dawuda ya tsere zuwa Gat, bai ƙara fita nemansa ba.",Dauda ya sha wulu cewa Dauda ya tashi zuwa gart sai ya daina neman sa.,0.9286,0.48
+490,Sai Mahaliccinta kaɗai yake iya tunkararta da takobi!,Mahaliccinta ne kadai mai kusance ta da takobi.,0.75,0.3778
+491,"Ba mu yi biyayya da umarnai, ƙa’idodi da kuma dokokin da ka ba wa bawanka Musa ba.","Bamu biyayyar umarnai, ka'idoji da kuma dokokin da ka bawa bawanka Musa ba.",0.4706,0.0952
+492,"da Hiddai, daga rafuffukan Ga’ash.",da hiddai daga rafuffukan ga,0.2,0.1111
+493,"Naharai, mutumin Beyerot mai ɗaukan wa Yowab, ɗan Zeruhiya makamai.",na harai mutumin Beirut mai dauka wa yawon dan zaruhiyar makamai,0.7,0.2
+494,"Shi da ’yan’uwansa, wato, ’ya’yan Bilha maza da kuma ’ya’yan Zilfa maza, matan mahaifinsa suna kiwon garkuna tare.",cikin 'yan uwansa wato 'ya'yan Bilha maza da kuma 'ya'yan Zulfa maza matan mahaifinsa suna kiwon garkuna tare,0.2222,0.069
+495,"” Sai suka yi shawara, suka sayi filin maginin tukwane da kuɗin don makabartar baƙi.",Sai suka yi shawara suka sayi wani fili da kudin ana ce da filin filin mai giningi tukare don wurin ya zama wurin binne baki.,1.2143,0.7612
+496,"Bayan suka ƙetare Urdun, sai suka yi sansani kusa da Arower, kudu da garin da yake cikin kwari, sa’an nan suka ratsa ta wajen Gad, suka ci gaba zuwa Yazer.","Bayan suka ketare Urdun sai suka yi sansani kusa da Arowar, Kurda garin da yake cikin kwari. Sa'annan suka ratsa ta wajen Gad suka cigaba zuwa Yasar.",0.3,0.05
+497,Saboda maƙiyana ba su kula da umarnanka ba.,abokan gabana sun yi banza da maganar ka.,0.875,0.6286
+498,"Gaskiya nake gaya muku, ba wani dutse a nan da za a bari a kan wani; duk za a rushe.",Gaskiya nake gaya muku ba wani dutse a nan da za'a bari akan wani duk za'a rushe,0.3,0.0
+499,Ya yi kyau mace tă yi addu’a ga Allah da kanta a buɗe?,Yayi kyau. Mata tayi addu'a ga Allah da kanta a bude,0.4615,0.1
+500,Su ma sun zauna kusa da danginsu a Urushalima.,Suma sun zauna kusa da dangin su a Unguwar Shalewa.,0.6667,0.1892
+501,"Namiji kuwa bai kamata ya rufe kansa ba, da yake shi kamannin Allah ne, da kuma darajar Allah, amma mace dai, darajar namiji ne.",Namiji kuwa bai kamata ya rufe kansa ba da yake shi kamanin Allah ne da kuma darajar Allah amma mace dai darajar namiji ne.,0.0417,0.01
+502,"Ka dubi dukan wanda yake alfarma, a wulakance.",a fili. Dubi dukkan masu girman kai ka kaskantar,1.0,0.7027
+503,”.,karuwa,1.0,6.0
+504,"Da Asabar ta yi, sai ya fara koyarwa a majamia.",Da ranar hutu ta mako ta yi sai ya fara koyarwa a majami'a,0.4,0.3333
+505,"Hanani, ɗaya daga cikin ’yan’uwana, ya zo daga Yahuda tare da waɗansu mutane.",Hanani daya daga cikin yan uwana yazo daga yahuda tare da uwar dansu mutane,0.4615,0.0667
+506,A can wuta za tă cinye ki; takobi zai sare ki.,acan wuta zata cinye ki takobi zai sare ki,0.3636,0.0294
+507,"Ban yi maka laifi ba, ko da yake kana farautar raina.",wani zunubi a hannu na ba amma duk da haka kana kokari ka kashe ni.,1.0909,0.8537
+508,"Don haka, ba wanda na iya cewa an yi muku baftisma a cikin sunana.",Don haka ba wanda na iya cewa an yi muku babatu zuma a cikin suna na.,0.2857,0.098
+509,Gama kuɗin biyan ran mutum ba shi da iyaka.,kuma kudin fansar ran mutum yafi gaban misali duk,0.7778,0.6176
+510,"Hezekiya ya ba da umarni a shirya ɗakunan ajiya a haikalin Ubangiji, aka kuwa yi haka.",Ya zai kiya ya bada umarni a shirya dakunan ajiya a haikalin ubangiji. Aka kuwa yi haka.,0.375,0.0725
+511,"Teman, Omar, Zefo, Gatam da Kenaz.","Teman, Omar, Zefo, Gatam, da Kenan",0.1667,0.04
+512,"“Ba duk mai ce mini, ‘Ubangiji, Ubangiji,’ ne zai shiga mulkin sama ba, sai dai wanda yake aikata nufin Ubana da yake sama.","Ba duk mai ce mini Ubangiji Ubangiji ne zai shiga mulkin sama ba, sai dai wanda yake aikata nufin Ubana da yake sama.",0.0,0.0
+513,"waɗanda suke ƙinsa, a fili yakan sāka musu da hallaka; ba zai yi jinkiri yin ramuwa a kan maƙiyinsa ba, zai yi ramuwar a fili.",wadanda suke kinsa a fili yakan saka musu da hallaka bazai yi jinkiri yin ramuwa akan makiyansa ba zai yi ramuwar a fili,0.32,0.051
+514,"Zai ba da sarakunsu a hannunku, za ku kuwa shafe sunayensu daga duniya.",Zai bada zarakunan su a hannun ku. Zaku kuwa shafe sunayen su daga duniya.,0.6154,0.0526
+515,"Ya shafe shi da zinariya tsantsa, wadda jimillar nauyinta ta yi talanti ɗari shida.",aka shafa bango na cikin wuri mafi tsarki da zinariya zalla wanda ta kai ton ashirin da biyu sa'annan aka yi usoshin,1.4286,0.9118
+516,"Saboda haka, sai ku lura, ku bi umarnai, ƙa’idodi, da dokokin nan da nake ba ku a yau.","Saboda haka sai ku lura ku bi umarnai, ƙa'idoji da dokokin nan da nake baku a",0.2222,0.0635
+517,"Dawuda ya ce, “Wanne zan tafi?",Dauda ya ce wanne zan tafi? Ubangiji ya ce je Hebron. Saboda haka sai Dauda ya tafi,2.0,2.0455
+518,Ina murna da bin umarnanka.,cikin bin gargaɗin ka.,1.0,0.6364
+519,Saboda haka Yakubu ya ɗauki dutse ya kafa shi alamudi.,Sai Yakubu ya dauki dutse ya kafa ya zama dutsen tunawa sai,0.8,0.5909
+520,"To, ga shi, Allah yana ƙawata tsire-tsiren jeji ma haka, waɗanda yau suke raye, gobe kuwa a jefa su a murhu, balle ku?","To idan har Allah zai yi wa ciyawar daji ado haka, waɗanda suke nan yau, gobe kuwa a ƙone su balle",0.6522,0.5056
+521,A Isra’ila akwai mutum dubu ɗari takwas da za su iya riƙe takobi.,A Isra'ila akwai mutum dubu dari takwas da zasu iya rike takobi.,0.3077,0.0392
+522,ga inda raƙuman ruwanka za su tsaya?,ga inda rakumar ruwanka zasu tsaya,0.4286,0.069
+523,"Saul ya kwanta a sansanin, sojojin suna kewaye da shi.",Sha'ulu ya kwanta a tsakiya sojojin kuma suka kwanta kewayar da shi,0.6,0.4651
+524,"Shi kuwa ya amsa ya ce, “Ranka ya daɗe, ina ji.","Himma lafiya ce. Ina jinka, ranka ya dade.",0.8182,0.6667
+525,"Sa’an nan Amaziya ya yi ƙarfin hali ya jagoranci mayaƙansa zuwa Kwarin Gishiri, inda ya kashe mutanen Seyir dubu goma.",Sannan Amaziya yayi karfin hali ya jagoranci mayakan sa zuwa kwarin gishiri inda ya kashe mutanen Sayyir dubu goma.,0.4,0.0521
+526,Ya kaso wa zakanyarsa abin da ya.,ya koma kashe wa zakanyarsa dabba,0.7143,0.4615
+527,"Yotam ya sāke ginin Ƙofar Bisa na haikalin Ubangiji, ya kuma yi aiki sosai a katanga a tudun Ofel.","Ya kuma sake ginin kofar bisa na haikalin ubangiji, ya kuma yi aiki sosai a katanga a tudun Ofel.",0.2105,0.0769
+528,"Ya ƙone hadayu a Kwarin Ben Hinnom, ya kuma miƙa ’ya’yansa maza a cikin wuta, yana bin hanyoyi banƙyama na al’umman da Ubangiji ya kora a gaban Isra’ilawa.",Ya kone hadayu a kwarin Ben Hinnom. Ya kuma mika ya'yan sa maza a cikin wuta. Yana bin hanyoyin bakya ma na al'umman da Ubangiji ya kora a gaban Isra'ilawa.,0.25,0.0413
+529,"Ko da yake ka wawaka dukan kayayyakina, me ka samu na gumakanka a ciki?",Kodayake ka bi cikin dukkan kaya na to a ciki duka me ka samu wanda yake na,1.0714,0.5
+530,"Sai Dawuda ya yi roƙo ga Ubangiji, ya ce, “Ko in tafi in fāɗa wa Filistiyawa da yaƙi?","Sai ya nemi nufin ya hawe, ya ce in je in fadawa police ya wannan da yaki",0.6667,0.5938
+531,"Akwai aiki iri-iri, amma duk Allah ɗaya ne yake aikata su a cikin dukan mutane.",Akwai aiki iri-iri amma duk Allah daya ne yake aikata su a cikin dukkan mutane.,0.1333,0.0323
+532,"“Albarka tā tabbata ga masu nadāma, domin za a sanyaya musu rai.","albarka ne masu baƙin ciki, gama za'a yi musu ta'aziya. Masu",0.8333,0.64
+533,Amma rarrauna ya zama mai ƙarfi.,Mafi iya yaki amma marasa karfi,1.0,0.6154
+534,"Ira, ɗan Ikkesh mutumin Tekowa.",ya rage dan ya kai shi mutumin ta ko,1.6,0.52
+535,"Saboda kuma yaɗuwar mugun aiki, sai ƙaunar yawancin mutane ta yi sanyi.","Saboda yawan magunta, kaunar da yawancin mutane suke yi wa",0.6667,0.431
+536,” Wannan ba zai hana ta zama gaɓar jikin ba.,ne wannan ba zai hana shi zama gabar jiki ba. Da ace dukkan jiki ido ne da me za'a ji? Da kuma ace dukkan jiki kunne ne da me za,2.6667,2.0303
+537,"Can Debora, ungozomar Rifkatu ta rasu, aka kuwa binne ta a gangaren Betel, a ƙarƙashin itacen oak, don haka ana kiran wurin, Allon-bakut.",Deborah tsohuwar matan nan da tayi goyon Rebecca ta mutu sai aka binne ta a karkashin itacen tsafi. Saboda haka aka kira sunan itacen itacen tsafi na,1.0,0.713
+538,a kai su bauta.,a kai su bauta,0.0,0.0
+539,"Gama ba ku faɗi gaskiya game da ni ba, kamar yadda bawana Ayuba ya yi.",Kamar baku faɗa gaskiya game da ni kamar yadda bawa na Ayuba ya,0.5333,0.1296
+540,"Ba na so ku kasance da rashin sani, ’yan’uwa, cewa dukan kakannin-kakanninmu sun yi tafiya a ƙarƙashin girgije, dukansu kuma suka bi ta tsakiyar teku.","Bana so ku kasance da rashin sani, yan uwa, cewa dukkan kakannin kakannin mu sun yi tafiya a karkashin girgije. Dukkan su kuma suka bi ta tsakiyar teku.",0.44,0.0336
+541,"Ubangiji ya sa wa wannan zamani na Ayuba albarka, har fiye da na farko.",Don haka ya waye ya albarkaci Ayyuba a karshen kwanakinsa fiye da na farko.,0.7143,0.5893
+542,Aka shafe ciki da zinariya tsantsa.,ka shafe cikin dakin zauren da Zinariyazall,1.0,0.6207
+543,"Ner shi mahaifin Kish, Kish mahaifin Shawulu, kuma Shawulu shi ne mahaifin Yonatan, Malki-Shuwa, Abinadab da Esh-Ba’al.",shi mahaifin Kish Kish mahaifin Shawulu kuma Shawulu shine mahaifin Yonatan Malkishuwa Abinadab da Eshba'al,0.1765,0.0316
+544,"Ku rabu da ni, ku masu aikata mugunta!",sanin ku ba ku rabu da ni ku masu aikata mugunta.,0.375,0.3103
+545,Akwai dukiya ta kowane iri.,suke iri-iri. Arziki ta babu iya,1.0,0.9091
+546,"Da Shawulu ya sami labari cewa Dawuda ya gudu zuwa Gat, bai ƙara fita nemansa ba.",Da shawul ya samu labari cewa Dauda ya gudu zuwa Gade bai kara fita neman sa ba.,0.4375,0.0938
+547,"Yana da shekara talatin da biyar sa’ad da ya zama sarkin Yahuda, ya kuma yi mulki a Urushalima shekara ashirin da biyar.","Yana da shekara talatin da biyar, Sa'ad ya zama sarki Yahuda. Ya kuma yi mulki a Urushalima shekara ashirin da biyar.",0.0909,0.0312
+548,"Amma in idanunka suna da lahani, dukan jikinka ma zai cika da duhu.","Amma in idanunka suna da lahani, dukan jikinka ma zai cika da ƙura.",0.0769,0.0566
+549,Dole kashe shi za a yi.,ya hukunta abokan gaban Dauda. Yonatan kuwa saboda ƙaunar da yake,1.8333,2.7059
+550,Zukatansu ta karaya; suka fito da rawan jiki daga kagararsu.,sokatansu ta karaya suka fito da rawar jiki daga kagarar,0.3,0.102
+551,"Sunan tsohuwarsa Azuba, yar Shilhi.",Sunan mamarsa Azuba 'yar,0.4,0.4138
+552,"-Iyalin Yahuza guda ɗari shida da tasain suka zauna a Urushalima, shugabansu kuwa shi ne Utai ɗan Ammihud, jīkan Omri daga wajen Feresa.","Sune, Utai dan Amina Jikan Umri na gidan Imri dan Bani. Bani daya ne daga cikin yayan Ferex",0.9565,0.6909
+553,"Sa’an nan sarki ya ce wa Amasa, “Ka tattaro mutanen Yahuda su zo wurina cikin kwana uku, kai kuwa ka kasance a can kai kanka.","Sannan sarki ya ce wa Amasa, ka tattaro mutanen Yahuda su zo wurina cikin kwana uku. Kai kuwa ka kasance a can kai kan ka.",0.16,0.0104
+554,"Yakubu ya husata, ya yi wa Laban faɗa, ya ce wa Laban, “Wane laifi na yi, mene ne zunubina da ka tsananta bina?","Yakubu ya yi fushi ya zuba wa labon magana ya ce, menene laifi na? Wace doka ce na karya da ka bi baya na da zafi",0.7826,0.5663
+555,Ya sa mugaye su yi shiru.,gaskiya kuma yayi tsit gashi,1.0,0.8421
+556,"Lokacin da Dawuda yake mulki, an yi yunwa shekara uku a jere; saboda haka Dawuda ya nemi nufin Ubangiji.",Lokacin da Dauda yake mulki an yi yunwa shekara uku a jere saboda haka Dauda ya nemi nufin Ubangiji,0.1053,0.0241
+557,"Sa’ad da Hadad ya rasu, Samla daga Masreka ya gāje shi.",Sa'a da hadin ya rasu Samla daga Masreka ya gajeshi.,0.3636,0.0952
+558,"Za ku ji labarin yaƙe-yaƙe da kuma jita-jitarsu, sai dai ku lura kada hankalinku yă tashi.",Za ku ji labarin yaƙe-yaƙe da kuma jeta-jetar su sai dai ku lura kada hankalin ku ya tashi.,0.3125,0.0423
+559,Haka nan kuma Ubangiji Allahnku zai yi da dukan alumman nan da kuke jin tsoronsu.,"Haka ya yi, Allah ku zai yi da dukkan kabilun da kuke jin tsoron su.",0.6,0.3636
+560,"In na ci abinci da godiya, don me za a zarge ni a kan abin da na ci da godiya ga Allah?","In na ci abinci da godiya, don me za a zarge ni akan abin da na ci? Da godiya ga Allah.",0.0909,0.0
+561,"Ya ce musu, “Ku saurari wannan mafarkin da na yi.",yace musu ku sauraro wannan mafarkin da nayi,0.5,0.027
+562,Bayan haka Allah ya ji adduarsu a kan ƙasar.,A kan itace a Gibiya garin Shaulu sarkin da ya hawaye ya zaba sai,1.5556,1.0286
+563,“Wane ne yake sakin jakin dawa yă bar shi?,Wane ne yake sakin jakin dawa ya bar shi,0.1111,0.0312
+564,"Kada ku yi yarjejjeniya da su, kada kuma ku nuna musu jinƙai.",Kada kuyi yarjejeniya dasu. Kada kuma ku nuna musu jin kai.,0.5833,0.0417
+565,Sai Shekem ya ce wa mahaifin Dina da kuma ’yan’uwanta.,Sai sheikh ya ce wa mahaifin dina da kuma yan uwanta,0.3,0.0714
+566,Saboda sun ba da shaidar zur a kaina.,Jama'a sun bada shaidar karya a kaina.,0.5,0.2759
+567,"Saboda haka Yakubu ya aika a kirawo Rahila da Laiatu zuwa cikin saura inda garkensa yake, ya ce musu, “Na ga ba ni da sauran farin jini wurin mahaifinku kamar dā.",Saboda haka Yakubu ya aika a kawo matansa Rahila da Liya a dajin da yake kiwon dabbobinsa sai ya ce musu na ga cewa babanku ya canja halinsa zuwa gare ni.,0.6452,0.5156
+568,"A kowane gari a Yahuda, ya gina masujadan kan tudu don ƙone hadayu ga waɗansu alloli, ya kuma tsokane Ubangiji Allah na kakanninsa ya yi fushi.",a kowanne gari a yahuda ya gina masujadan kan tudu dan kone hadayu ga wadansu alloli ya kuma tsokane ubangiji Allah na kakanninsa yayi fushi,0.2308,0.0348
+569,Abin da yake tanƙwararre ba zai miƙu ba; ba za a kuma iya ƙidaya abin da ba shi ba.,Abun da yake tankware ba zai miƙu ba. Ba za a kuma iya gida abun da ba shi ba.,0.2105,0.1429
+570,"Yayinda Yesu yana cikin magana, sai waɗansu mutane daga gidan Yayirus, mai mulkin majami’a, suka zo suka ce, “Diyarka ta rasu.",suka bada labarin abun da ya faru da mai arjanun da kuma aladun sai mutanen suka,0.9524,0.697
+571,bari zuciyarka kuma tă yi farin ciki a kwanakin ƙuruciyarka.,Bari zuciyarka kuma tayi farin ciki a kwanakin ruciyarka.,0.3,0.06
+572,"” Amma ya ƙi, ya kuwa faɗa wa matar maigidansa, ya ce, “Ga shi, tun da maigida ya same ni, maigidana ba ruwansa da kome na cikin gida, ya kuwa riga ya sa dukan abin da yake da shi cikin hannuna.","Amma Yusuf yaki. Yace wa matar mai gidan sa, duba fa mai gida na baya tunanin komai a cikin gidan nan. Kuma ko wani abin da yake da shi ya bar shi a hannu na.",0.875,0.4759
+573,"Yayinda yake fushi da firistocin a gabansu a gaban bagaden turare a haikalin Ubangiji, sai kuturta ta faso a goshinsa.",yayin da yake fushi da furstocin a gabansu a gaban bagaden turare a haikalin ubangiji sai kuturta ta faso a goshinsa,0.15,0.0206
+574,"Dawuda kuma ya ce, “Zuwa wane gari zan haura?",Dauda ya saiko tambaya yace a wani gari zan,0.8889,0.6176
+575,"Sai ya ce musu, “Lalle kun iya yar da umarnin Allah don ku bi aladunku!",Sai ya ce musu lallai kam kun iya barin umurnin Allah domin ku bi al'adunku.,0.4,0.2037
+576,"” Suka ce, “Bakwai.",suka amsa suka ce a daji haka ina,2.0,1.4167
+577,"Wani jarumin da ake kira Goliyat wanda ya fito daga Gat, ya fita daga sansanin Filistiyawa.",Wani jarumin da ake kira Goliath wanda ya fito daga Gath ya fito daga sansanin Philistiyawa,0.25,0.0811
+578,"Ku dubi tsuntsayen sararin sama mana; ba sa shuki ko girbi ko ajiya a rumbuna, duk da haka, Ubanku na sama yana ciyar da su.",Ku dubi tsintsaye na sararin sama mana. Ba sa shuki ko girbi ko ajiya a rumbuna duk da haka ubanku na sama yana ciyar da su.,0.08,0.0208
+579,"’ Amma yanzu, ka gudu domin kana kewar gidan mahaifinka ƙwarai, amma don me ka sace mini gumakana?",wanda yake ka gudu saboda kana marmari sosai ka koma gidan baban ka amma don me? ka sa ciguma ka,0.7059,0.5195
+580,ka tattake mugaye a inda ka tsaya.,ka tattake mugaye a inda ka tsaya,0.0,0.0
+581,"Dukan mazan Yahuda, tare da matansu da yaransu da ƙananansu, suka tsaya a gaban Ubangiji.",Dukkan mazan Yahuda tare da matansu da yaransu da kananansu suka tsaya a gaban Ubangiji.,0.1333,0.0278
+582,"Maigidan wannan bawa zai dawo a ranar da bai yi tsammani ba, a sa’ar kuma da bai sani ba.",da mashi aya mai gidan wannan bawa zai dawo a ranar da bai yi tsammani ba a sa'ar kuma da bai sani ba,0.2632,0.1471
+583,Na kwanta ina ƙoƙari in huta.,yasa ka kafa ido akaina? Sa'adda nace gado na zai yi mini,2.0,1.4783
+584,"Ahimelek kuwa ya ce wa sarki, “Daga cikin barorinka duka wa yake da aminci kamar Dawuda?",ne mafi aminci cikin masu yi maka hidima duka.,0.9375,0.7
+585,"Ya aure ta, ya kuma kwana da ita; ta yi ciki, ta kuma haifi ɗa, wanda aka kira Er.",ya aure ta ya kuma kwana da ita ta yi ciki ta kuma haifi ɗa wanda aka kira,0.0526,0.0339
+586,"Gaskiya nake gaya muku, sun riga sun sami ladarsu cikakke.",Gaskiya nake gaya muku sun riga sun samu ladarsu cikakke.,0.1,0.0213
+587,"Zai tsaya mini, ya cece ni daga hannunka.",laifi bari ya hawaye ya duba ya tsaya mini ya nuna bani da laifi,1.375,1.1562
+588,"Waɗannan duka yayan Beker ne, maza.",Dukansu ƴaƴan baker ne.,0.8333,0.5714
+589,"Wanda yake soro, kada ya sauko garin ɗaukar wanda yake a gidansa.",wanda yake kan rufin daki kada ya sauko wai zai dauki abunda yake cikin gida.,0.75,0.5385
+590,"Yayan Feres maza, su ne Ulam da Rakem.",Faris yana da yaya biyu masu suna Ulam da,1.0,0.7931
+591,"Na yi kwanaki ina baƙin ciki, na yi ta azumi da addua a gaban Allah na Sama.","Nayi kwanaki da yawa ina bakin ciki, ina azumi da addu'a a gaban Allah na sama.",0.4706,0.1897
+592,A aikata nufinka a duniya kamar yadda ake yi a Sama.,Bari a yi nufin ka a cikin duniya kamar yadda ake yin sa a cikin sama.,0.7273,0.439
+593,Sa’an nan waɗansu kuma suna ƙoƙarin rushe katangar.,Sannan wadansu kuma suna kokarin rushe katangar,0.5,0.0952
+594,Ko da masu washewa sun washe su.,Koda masu kwashe arziki sun kwashe arzikin ƙasa,1.0,0.72
+595,"Saan nan samari goma masu ɗaukar wa Yowab makamai, suka kewaye Absalom, suka yi ta dūkansa har ya mutu.",Sunnan uku sai samari goma masu rike kayan yakin Yowab suka kewaye Absalom suka bubbuge shi har ya mutu.,0.5263,0.4268
+596,"Alumma za ta tasar wa alumma, mulki ya tasar wa mulki.","Al'umma zata tasarwa al'umma, mulki ya tasarwa mulki.",0.5455,0.0
+597,” Dukan sojojin suka ji umarnin da sarki ya yi wa shugabanninsu a kan Absalom.,Dukkan sojojin kuwa suka ji sa'ar da sarki yake ba kowanne shugaba wannan umurni.,0.7143,0.5323
+598,"” Ko da yake ta yi ta yin wa Yusuf maganar kowace rana, amma ya ƙi yă kwana da ita, ko ma yă zauna da ita.",Kodayake tayi ta yiwa yusuf maganar kowace rana amma ya ki ya kwana da ita ko ma ya zauna da ita.,0.4,0.0519
+599,Irin wanda kakan yi wa waɗanda suke tsoronka.,maganar ka maganar ka da zata sa a ji tsoron ka,1.375,0.5405
+600,Wanda kuma yake faskare itace yana cikin hatsarinsu.,wanda ya faskari itace shine zai jawo masa hatsari.,1.0,0.5455
+601,Yaƙub shi ne rabon gādonsa.,Yaqoub shine raban,1.0,0.4545
+602,"Sa’ad da ya ga Shawulu ya biyo shi har zuwa can, sai ya aiki ’yan leƙen asiri su tabbata lalle Shawulu ya iso can.",Sa'ad da ya ga Sha'ulu ya biyo shi har zuwa can sai ya aiki 'yan leƙen asiri su tabbatar lallai Sha'ulu ya iso can.,0.1667,0.0575
+603,Tsattsarkar Jamaa ta Ubangiji.,Tawar shari'a sura bakwai. Jama'a mafi daraja,1.5,0.8462
+604,"” Bai ko iya yin wata muujiza a can ba, sai dai ya ɗora wa marasa lafiya kaɗan hannu ya warkar da su.",bai iya yin wani aikin ban mamaki a can ba sai dai ya warkar da wadansu marasa lafiya kadan ne kawai ta wurin taba su.,0.6364,0.5395
+605,"Hakika, ina gaya muku, zamanin nan ba zai shuɗe ba sai duk abubuwan nan sun auku.","ba zai yi haske ba, taurari zasu faffadi daga sama, za'a kuma girgiza ikokin sararin sama. Sa'annan ne alamar dan mutum zata bayyana a sararin sama. Duk kabilun duniya kuma zasu",1.875,1.619
+606,Ya yarda da shi su gina jiragen ruwan kasuwanci.,yayi yarda da shi su gina jiragen ruwan kasuwanci,0.1111,0.0513
+607,Ka ba ni ƙarfi don yaƙi; ka sa maƙiyina suka rusuna a ƙafafuna.,Ka bani karfi don yaki. Ka sa makiyina suka rusuna a kafafuna.,0.4615,0.0816
+608,"To, ina so ku sani, yanuwa, dukan kakanninmu an kāre su ne a ƙarƙashin gajimare, dukansu kuma sun ratsa ta cikin bahar.",To ina so ku sani yan uwa cewa kakanin mu duka sun yi tafiya a karkashin girgije. Dukan su kuma sun bi ta cikin,0.6818,0.3871
+609,"Ana nan Amnon ɗaya daga cikin yayan Dawuda, ya ƙaunace ta.",Ana nan sai Anan daya daga cikin yayan Dauda ya fara son,0.5455,0.2826
+610,"A ƙasar tudun Efraim aka ba su Shekem , da Gezer, Yokmeyam, Bet-Horon, Aiyalon da Gat-Rimmon, tare da wuraren kiwonsu.","A kasar Tudun Ifeam, aka basu Shechem, birnin mafaka, da Gezer, da Kibza'im, da Beth-horon, da Aijalon, da Gath-rimmon, tare da wuraren kiwon su.",0.7895,0.3407
+611,"Sai Ubangiji ya ce masa, “Akwai alhakin jini a kan Saul da gidansa, domin ya kashe Gibeyonawa.",Game da yunwa ta kasar ya hau ya amsa ya ce akwai alakin jini akan Shaulu da gidansa saboda ya kashe mutanen Gibeon.,1.0,0.6081
+612,Ka kore su daga gabanka sabili da yawan zunubansu.,kawar da su daga gabanka saboda yawan zunubin,0.5556,0.2439
+613,"” Sai iskar ta kwanta, kome kuma ya yi tsit.",suka tsorata suka cewa juna wanene wannan? har iska da raƙuman ruwa ma suna masa biyayya.,1.7778,1.7188
+614,"A can, sai Yahuza ya ga yar wani Bakanane mai suna Shuwa.",A wurin Yahuda ya ga wata mace 'yar mutumin Kan'ana mai suna Shua.,0.6667,0.5455
+615,"” Sai ya fara laantar kansa, yana ta rantserantse, yana cewa, “Ban ma san mutumin nan da kuke faɗa ba.",Tsaro ko da awa daya ba kuyi tsaro kuna kuma addu'a domin kada ku fadi,1.0,0.6623
+616,"Suka ce, “Waɗannan mutane ba su da damuwa, bari su zauna a cikin ƙasarmu, su kuma yi sana’a a ciki; ƙasar tana da isashen fili dominsu.","Suka ce wadannan mutane basu da damuwa, bari su zauna a cikin kasar mu su kuma yi sana'a a ciki. Kasar tana da isasshen fili domin su",0.3462,0.0388
+617,"Sai Musa da Joshuwa ɗan Nun suka zo, suka hurta dukan kalmomin wannan waƙa a kunnen jamaa.",min waka a kunnuwan jama'a shi da Yoshua dan Nun. Bin koyarwar zai kawo tsawon rai.,1.0,0.7361
+618,Yayanka za su yi yawa kamar ciyawa.,duyarka zasu yi yawa jikokinka zasu yi yawa,1.0,0.5
+619,Ba wani abin da zai sa su fāɗi.,Babu abu mai sa su tuntube. Yaya,0.875,0.8696
+620,Bayan wannan Ayuba ya rayu shekara ɗari da arba’in; ya ga ’ya’yansa da ’ya’yansu har tsara ta huɗu.,"Bayan wannan, Ayuba ya rayu shekara dari da arba'in ya ga ya'yan sa da ya'yan su har tsara ta hudu.",0.3333,0.0267
+621,Sarki da fadawansa da dukan taro a Urushalima suka yanke shawara su yi Bikin Ƙetarewa a wata na biyu.,Sarki da fadawan sa da dukkan taron Uru Shalima suka yanke shawara su yi bikin ketarewa a wata biyu.,0.4211,0.061
+622,"Yana da mutane masu yin masa aiki a gonakinsa da gonakin inabinsa a tuddai da kuma a ƙasashe masu dausayi, gama yana son noma.",yana da mutane masu yin masa aiki a gonakin sa da gonakin inabin sa a tudu da kuma a kasashe masu dausayi. Gama yana son noma,0.25,0.0396
+623,sa’ad da mugaye masu ruɗu suka kewaye ni.,Sa'ad da mu gaye masu rudu suka kewaye ni,0.375,0.0312
+624,gumakan da suke a cikin haikalin allolinku.,gumakan da suke a cikin haikalin allolinku,0.0,0.0
+625,"In idanunka suna da kyau, dukan jikinka zai cika da haske.",Idanunka suna da kyau dukan jikinka zai cika da haske.,0.0909,0.0435
+626,Tabbatacce ne kamar yadda tartsatsin wuta suke tashi.,ta kan tashi daga dan adam kamar yadda harshen wuta ya kan tashi,1.125,0.5778
+627,Waɗansu kakanninsu kuwa su ne Imri da Bani.,Yahuda daga dangin Shilo akwai Asaya da 'ya'yan,0.875,0.7714
+628,"Sauran ayyukan Yotam, da dukan yaƙe-yaƙensa da alamuransa, an rubuta su a littafin sarakunan Israila da na Yahuza.",Sauran ayyukan Yotam da yaƙƙokinsa da yadda yayi mulkinsa suna a rubuce a cikin littafin tarihin Isra'ila da Yahuda.,0.6667,0.4301
+629,"Wannan zai sa Ubangiji ya husata, ya hallaka ku da sauri.","Wannan zai sa fushi Yawe ya yi ƙuna a kanku, Yawe kuwa zai hallaka ku da sauri.",0.8182,0.5778
+630,"Mika’ilu, Obadiya, Yowel da Isshiya.","Mika'ilu, Obadiah, Yoel da Ishaya",0.6,0.1786
+631,“Ba zan daina magana game da gaɓoɓinta ba.,Ba zan daina magana game da gaɓoƙinta ba.,0.125,0.0303
+632,Wanda yake farfasa duwatsu shi za su yi wa rauni.,wanda ya farfasa duwatsu shine zasu yi masa rauni,0.5,0.1795
+633,Ba da daɗewa ba zan rasu in koma a ƙura.,ba da dadewa ba zan kwanta hannu dama,0.6,0.4667
+634,Habila kuwa ya kawo nasa ƙosassu daga cikin yayan fari na garkensa.,Abba kuma ya kawo waɗansu ƴaƴan fari daddabobinsa tare da kitsen,0.8333,0.6182
+635,"Shi kuwa ya roƙi Ubangiji domin Dawuda, ya kuma ba shi guzuri, har ya ba shi takobin Goliyat, Bafilisten.",Ashe melegen yaro ya hawaye game da Dauda. Ya kuma ba Dauda abinci da takobin Goliyat mutumin Filistinu.,0.7895,0.5904
+636,"Ubangiji ya ce, “Je ka faɗa wa Dawuda, ‘Ga abin da Ubangiji ya ce, ina ba ka zaɓi uku.",Ubangiji ya ce je ka faɗawa Dauda ga abin da Ubangiji ya ce ina ba ka zaɓi uku,0.1579,0.0161
+637,"Kukan ba da kashi ɗaya bisa goma na kayan yajinku, na’ana’a, anise, da lafsur.",kukan bada kashi daya bisa goma na kayan yajin ku na'a na'a a nise da lafsu,0.7143,0.0339
+638,"Amma duk wanda ya jure har ƙarshe, zai cetu.",Amma wanda ya jimre har zuwa karshe zai,0.5556,0.4118
+639,"Fushin Ubangiji ya sāke ƙuna a kan Isra’ila, sai ya zuga Dawuda, yana cewa, “Je ka ƙidaya Isra’ila da Yahuda.",Kushen Ubangiji ya sake ƙuna akan Isra'ila. Sai ya zuga Dauda. Yana cewa. Je ka ƙida Isra'ila da Yahuda.,0.3,0.0723
+640,"Yaya za ka ce wa ɗan’uwanka, ‘Bari in cire maka ɗan tsinken nan daga idonka,’ alhali kuwa a kowane lokaci akwai gungume a naka ido?",Yaya zaka cewa dan uwanka bari in cire maka dan tsinken nan daga idonka? Alhali kuwa a kowane lokaci akwai gungume a naka idon.,0.28,0.0297
+641,"Dukansu ƙwararru ne, masu hakkin hidima a cikin gidan Allah.",Dukkan su ƙwararru ne masu haikin hidima a cikin gidan Allah.,0.3,0.0408
+642,"“Sa’an nan za a bashe ku don a tsananta muku a kuma kashe ku, dukan al’ummai za su ƙi ku saboda ni.",Sa'annan za'a bashe ku don a tsananta muku a kuma kashe ku. Dukan al'ummai zasu ƙi ku saboda ni,0.2727,0.0
+643,"Kada ku ji tsoro ko ku razana, gobe ku fita ku tsaya gāba da su, gama Ubangiji yana tare da ku.","Kada ku ji tsoro ko ku fidda zuciya, gama ya hawaye yana tare da ku. Gobe ku fita kuyi yaki da su sai sarki",0.7619,0.6667
+644,"Gama a cikinsa kuka sami wadata ta kowace hanya, a cikin dukan maganarku, da kuma cikin dukan saninku gama shaidarmu game da Kiristi ta tabbata a cikinku.",gama a cikin sa kuka samu wadata ta ko wace hanya a cikin dukkan maganar ku da kuma dukkan sanin ku ga majalisar mu game da kiristi ta tabbata a cikin ku,0.5926,0.096
+645,Kun sa na zama abin ƙi ga Kananiyawa da Ferizziyawa mazaunan ƙasar.,"Kun sa na zama abin kyama a idanun mazaunin kasar, wato kan Aniyawa da Firiyawa. Mu",0.9167,0.6545
+646,"Sukan ƙidaya su saad da aka shigo da su, da saad da aka fitar da su.",sukan kirga abubuwa sa'ar da aka fitar da su da kuma sa'ar da aka komar da su.,0.4375,0.451
+647,"Laban ya shiga alfarwar Yakubu, da ta Laiatu, da na kuyangin nan biyu, amma bai same su ba.",Labon ya shiga tantin Yakub ya bincika. Ya fita ya shiga na Liya. Ya fita ya shiga na baiwa biyu masu hidima amma bai sami,1.1667,0.8286
+648,"To, ai, waɗannan abubuwa gargaɗi ne a gare mu, kada mu yi marmarin mugayen abubuwa, kamar yadda suka yi.",To waɗannan abubuwa sun zama mana misali ne domin kada mu so mu gayen abubuwa yadda suka yi.,0.5789,0.4321
+649,Igiyoyin mutuwa sun nannaɗe ni; tarkuna kuma suka auka mini.,gigiyoyin mutuwa sunan nade ni tarkuna kuma suka auka mini,0.3,0.0612
+650,"Waɗansu sun ce mini in kashe ka, amma na bar ka, na ce, ‘Ba zan sa hannuna a kan shugabana ba, gama shi shafaffe ne na Ubangiji.",waransu ce min in kashe ka amma na barka nace bazan sa hannu na akan shugaba na ba gama shi shafaffe ne na ubangiji,0.5185,0.0521
+651,"Shallum ne babbansu da aka ajiye a Ƙofar Sarki a gabas, har zuwa wannan lokaci.",Shalum ne babban su da aka ajiye a kofar sarki a gabas har zuwa wannan lokaci.,0.2667,0.0317
+652,"Har ma ku ba kāsassu ba ne a wajen samun kowace baiwar Allah, kuna zuba ido ga bayyanar Ubangijinmu Yesu Almasihu.","Saboda haka, baku kasa samun kowace irin baiwar ruhaniya ba yayin da kuke zuba ido kuna jiran dawowar Ubangijinmu Yesu Almasihu.",0.8095,0.5543
+653,"Suka tafi kagarar Taya da dukan garuruwan Hiwiyawa, da na Ƙananiyawa.","Suka yi kudu zuwa Taya, birni mai katanga. Suka bi dukan garuruwan Hiyawa da Nakan'aniyawa.",1.0,0.5263
+654,Ya bar dukan abin da yake da shi a hannun Yusufu.,Ya kuwa bar dukkan abin da yake da shi a hannun Yusuf.,0.2727,0.1579
+655,Amma Allah yakan ceci matalauta daga mutuwa.,Amma ya kan ce ci masu bukata daga harshen yanka na masu,1.4286,0.7568
+656,"Da na isa mutum kuwa, sai na bar halin yarantakata.",Da na isa mutum kuwa sai na bar halin yarantaka.,0.1,0.05
+657,Farisiyawa suka zo suka fara yin wa Yesu tambayoyi.,Farisiyawa suka zo suka fara yin waye su tambayoyi,0.2222,0.0
+658,shekaru kuma su ƙarato sa’ad da za ka ce.,Sai ka drow kuma su karato sa'ar da zaka ce,0.7778,0.2258
+659,Haka nan mutum yake mutuwa.,Haka duk wanda ya gangara zuwa wurin zaman matattu ba zai kara dawowa,2.4,1.9091
+660,duk da haka sun yi ta tuntuɓe a kan hanyarsu.,Duk da haka sun yi tattuntube akan hanyar su,0.5,0.0571
+661,Sai Ruhun Allah ya sauko a kan Zakariya ɗan Yehohiyada firist.,Sai ruhun Allah ya sauko akan Zakariya dan Yahohiya da,0.4545,0.1569
+662,Dukan Israilawa za su sani ba shiri kuma tsakaninka da tsohonka.,dukkan mutanen Isra'ila zasu ji cewa kaci mutuncin babanka wannan zai kara karfafa,1.1818,0.8302
+663,"Wanda yake gardama da Allah, bari ya ba da amsa.",ma da Allah dole ne mai gardama ya amsa masa. Amsar Ayyuba ga Allah,1.3,0.8378
+664,ba tă damu ko za a taka su a fasa su.,ba ta damu ko za a taka su a fasa,0.1818,0.1154
+665,"Dawuda ya ce wa Abishai, “Ina gani Sheba ɗan Bikri zai ba mu wuya fiye da Absalom.","Dauda ya ce wa Abushai, ina gani Sheba dan Bikiri zai ba mu wuya fiye da Absalom.",0.2353,0.0635
+666,Filistiyawa suka tattara dukan rundunoninsu a Afek.,Police sun tattara dukkan rundunonin su a Afik.,0.8571,0.2955
+667,Ka taɓa samun bawanka da laifi tun daga ranar da na zo har zuwa yanzu?,Ka taba samun bawanka da laifi tun daga ranar da nazo har zuwa yanzu?,0.2,0.0182
+668,"Kai ne kake kāre ni, kake kuma kiyaye ni.",Kaine wurin buya na da garkuwa ta. Ga maganar,1.0,0.7742
+669,"Ashe kuwa, in kun taru gu ɗaya, ba jibin Ubangiji kuke ci ba!",Ashe kuwa in kuka taru ba don ku ci jibin Ubangiji,0.6154,0.413
+670,Yaushe za ka yi wa waɗanda suke tsananta mini hukunci?,Yaushe zaka yanke shari'a akan masu tsananta mini?,0.7,0.4545
+671,Yawansu da aka lasafta bisa ga asalinsu don yaƙi su dubu ashirin da dubu shida ne .,Shugabanni bisa ga tarihin asalin gidajen kakaninsu suna da maza dubu ashirin da shida wadanda suka isa yaki.,0.9375,0.8333
+672,"In wani marar bi ya gayyace ku cin abinci kuka kuwa yarda ku je, sai ku ci ko mene ne da aka sa a gabanku, ba tare da tambaya don kada lamiri yă damu da inda abin ya fito.","Idan wani marar bi ya gayyace ku cin abinci, kuka kuwa yarda ku je, sai ku ci ko menene da aka sa a gaban ku, ba tare da tambaya don kada amirin ku ya damu da abin da ya fito.",0.2564,0.1
+673,"Kullum kuna tare da gajiyayyu, ko yaushe kuma kuke so, kwa iya yi musu alheri, amma ba kullum ne kuke tare da ni ba.",Kata suna tare da ku kullum. Ko yaushe kuke so kuna iya yi musu alheri amma ba kullum ne nake tare da ku ba.,0.3333,0.2809
+674,"Amma Yowab ya ce wa sarki, “Ubangiji Allahnka ya sa mayaƙan su ƙaru sau ɗari fiye da yadda suke, har ranka yă daɗe, sarki yă gani da idonsa.","Amma yau yace wa sarki Ubangiji Allah ka yasa mayakan sun karu, sau dari fiye da yadda suke, har ranka ya dade sarki ya gani da idon sa.",0.5357,0.1019
+675,"Yakubu kuwa ya ji an ɓata yarsa, Dinatu, amma yayansa maza suna tare da garken cikin saura, saboda haka Yakubu ya yi shiru har kafin su komo.",Yakup kuwa ya ji yadda shakkun ya kazantar da dina amma bai ce komai ba. Ya jira sai da ya'yan sa waɗanda suka tafi kiwon shanun sa a daji suka dawo.,1.0,0.6577
+676,"Gama ya sayar da mu, yana kuwa morar kuɗin da aka bayar dominmu.",Ya sayar da mu kuma yanzu ya kashe dukkan kudin da aka bashi akan mu.,0.7692,0.56
+677,"Sai ya farka ya tsawata wa iskar, ya ce wa raƙuman ruwan, “Shiru!",Sai ya farka ya tsawata wa iskar. Ya ce wa raƙuman ruwan shiru.,0.0,0.0
+678,Isra’ila kuwa suka yi sansani kusa da maɓulɓular da take Yezireyel.,Isra'ila kuwa suka yi sansani kusa da maɓulɓalar da take a Yeziriyya.,0.2727,0.0909
+679,"Sa’an nan ta faɗa masa wannan labari, “Mutumin Ibraniyawan, bawan da ka kawo mana, ya zo wurina don yă ci mutuncina.",Sa'annan ta fada masa wannan labari mutumin Ibraniyawan ba wanda ka kawo mana yazo wuri na don ya ci mutunci na.,0.5238,0.0222
+680,"Dawuda ya yi tunani a ransa ya ce, “Wata rana Shawulu zai kashe ni, abu mafi kyau da zan yi shi ne in tsere zuwa ƙasar Filistiyawa.",Da ya yi tunani a ransa ya ce wata rana sha'awar da zai kashe ni abu mafi kyau da zan yi shine in tsayere zuwa kasar Falasdinu,0.2963,0.1881
+681,"Duk mutumin da ya yi addua ko ya yi annabci kansa a rufe, ya wulakanta shugabansa ke nan.",Duk namijin da yayi adua ko anabci da kansa a rufe yayi banza da shugabansa.,0.6667,0.3571
+682,"’ ” Saboda haka, Yusufu ya bi sawun yanuwansa, ya kuwa same su a Dotan.",Doton sai Yusuf ya bi yan uwansa zuwa Doton ya kuwa same su a wurin sa,0.6923,0.5
+683,"To, da Yesu ya ji an tsare Yahaya, sai ya tashi zuwa ƙasar Galili.","Da ya ji an kama Yohanna, sai ya tashi ya tafi",0.5,0.5
+684,"Sai Fotifar Bamasare sarkin yaƙin Firauna, shugaban masu tsaron fāda ya saye shi daga hannun Ismailawa, waɗanda suka gangaro da shi zuwa can.","Sai hoton mutumin Masar, shugaban yan gadin sarki Fir'auna ya saye shi daga hannun Ishma'ilawa wadanda suka gangaro da shi zuwa can",0.4783,0.3534
+685,Takobi kuwa zai karkashe sagarun.,Ta kwabni yaki zai ci sojojin ki wadanda suke kamar,1.8,1.0
+686,Waɗannan su ne manyan Edom bisa ga mazauninsu cikin ƙasar da suka zauna.,Wadannan sune manyan Adam bisa ga mazauninsu cikin kasar da suka zauna.,0.3846,0.0678
+687,"Sai Solomon ya fara ginin haikalin Ubangiji a Urushalima, a kan Dutsen Moriya, inda Ubangiji ya taɓa bayyana ga mahaifinsa Dawuda, inda kuma Dawuda ya riga ya shirya a daidai masussukar Ornan mutumin Yebus.","Sai lamarin ya fara ginin haikalin Ubangiji a Urushalima akan dutsen Moriya inda Ubangiji ya taba bayyana ga mahaifinsa Dauda, inda kuma Dauda ya riga ya shirya daidai masussukar Ornan mutumin Yebus.",0.2059,0.0592
+688,"“Ubangiji shi ne dutsena, kagarata da kuma mai cetona; Allahna shi ne dutsena.","Ubangiji shine dutse na, kagara ta da kuma mai cetona. Allah na shine dutse na",0.7692,0.0
+689,"Da ya gane cewa duk wanda ya haura zuwa wurin Amasa sai ya tsaya, sai ya ja gawar Amasa daga hanyar ya kai can cikin wani fili ya rufe shi da zane.",Ya gane cewa duk wanda ya haura zuwa wurin amasa sai ya tsaya sai ya ja gawar amasa daga hanyar ya kai can cikin fili ya rufe shi da zani.,0.0938,0.0614
+690,"Bayan wannan Absalom ya samo wa kansa karusa, da dawakai, da zagage mutum hamsin.","Bayan wannan, Absalon ya samo wa kansa keken doki da dawaki da mutane hamsin da za su wuce gabansa.",0.7857,0.5077
+691,"Allah na Ibrahim da Nahor, Allah na mahaifinsu, ya sharaanta tsakaninmu.","Allah na Ibrahim, Allah na Nahor, Allah na baban su ya yanke shari'a tsakanin mu.",0.7273,0.339
+692,"Suka kuma kwashe ganima mai yawan gaske, waɗanda suka kwasa zuwa Samariya.",Suka kuma kwashe ganima mai yawan gaske wadanda suka kwasa zuwa samari.,0.1667,0.0492
+693,"Ba za a iya miƙar da abin da ya tanƙware ba, ba kuma za a iya ƙidaya abin da ba shi ba.",suka wane kawai duk abinda ya tankware ba'a iya mikewa ba'a iya kirga abinda da baya nan,0.8636,0.5156
+694,"Ko dai kun rena ikkilisiyar Allah ne, kuna kuma wulaƙanta waɗanda ba su da kome?",Kore kurre na ekklisiyar Allah ne. Kuna kuma wulakanta wadanda basu da komai.,0.6667,0.1562
+695,Ka kiyaye ni daga mai da hankali ga abin da yake marar amfani.,wa kaina arziki kawar da idanu na daga abubuwan,0.9231,0.6531
+696,"Ya kira wanda yake kudun, Yakin, na arewan kuwa ya kira Bowaz.",ya kira wanda yake kudin yakin na arewan kuwa ya kira buwas,0.1667,0.0625
+697,Filistiyawa suka tattaru suka yi sansani a Shunem.,Sai suka tattaro suka yi sansani a Shuneh. Shaul ya tattara dukkan Isra'ila suka yi sansani a Gilboa.,1.625,1.2381
+698,"Duk macen da ta yi addu’a ko annabci da kanta a buɗe kuwa ta rena kanta, ya zama kamar an aske kanta ke nan.",Duk macen da tayi addu'a ko annabci da kanta a bude kuwa ta raina kanta ya zama kamar an aske kanta kenan.,0.25,0.0366
+699,Yowab Ya Shirya yadda Absalom zai Koma.,ta biyu sura goma sha hudu Absalom ya koma,1.0,0.5625
+700,"Shi wuta ne mai cinyewa, zai hallaka su, ya rinjayar muku su, domin ku kore su, ku hallaka su nan da nan kamar yadda Ubangiji ya alkawarta muku.",shan wuta mai cin yewa. A gaban ku zai sha karfin su ya hallaka su domin ku kore su ku kuma hallaka su da sauri kamar yadda Yawe yayi maku alkawari.,0.6429,0.4554
+701,domin kada idon ƙafana yă juya.,Domin kada idon kafa na ya juya,0.5,0.08
+702,ta ɓuya cikin kyauro da fadama.,ta boya cikin kyauro da fada,0.3333,0.16
+703,Ubangiji zai Hallaka Alumman Ƙasar Kanana.,Alherin Yawe ga Isra'ila. Musa ya cigaba da magana,1.5,0.7778
+704,"Ɗaya dutsen yana wajen arewa a gaban Mikmash, ɗayan kuma yana daga kudu a gaban Geba.",Hawanda yake Arewa yana fuskantar Mikmash ne. Wanda yake kudu kuma yana fuskantar Geba ne.,0.875,0.6618
+705,"Bayan haka kuma, sai Ubangiji ya sa masa ciwon hanji wanda ba shi warkuwa.",Bayan waɗannan duka sai ya hawaye ya buge shi a ciki da wani ciwo a hanjin sa wanda ya ƙi warkewa.,1.2143,0.6441
+706,"Saad da nake yaro, nakan yi magana irin ta ƙuruciya, nakan yi tunani irin na ƙuruciya, nakan ba da hujjojina irin na ƙuruciya.","Saboda nake yaro, na kan yi magana irin ta yara, na kan yi tunani irin na yara, na kan bada dalili irin na yara.",0.5652,0.28
+707,"Ya koma wurin Yahuza ya ce, “Ban same ta ba, mutanen wurin kuma suka ce, ‘Ba wata karuwa da ta zo nan.",ya koma wurin Yahuda ya ce ni ban same ta ba. Mutanen wurin ma sun ce babu karuwar wurin sujada a wurin. Sai Yahuda ya ce bari ta rike kayan domin kada,0.8636,0.76
+708,"A wannan shekara Ammonawa suka biya shi haraji talenti ɗari na azurfa, garwan alkama dubu goma da kuma garwa dubu goma na sha’ir.","A wannan shekara Amanawa suka biya shi haraji talanti dari na azurfa, garwan alkama dubu goma da kuma garwa dubu goma na shairi.",0.1739,0.0481
+709,"Da bijimai, da bunsurai daga Bashan.",da bijimai da awaki mafi kyau na basha,0.8333,0.4138
+710,"A kaina, akwai kwanduna uku na burodi.","Kuma a kurangar akwai rassa uku. Nan da nan kurangar ta yi toho, ta huda, ta kuma yi nonna har suka nuna.",2.7143,1.9333
+711,"Ƙauna tana da haƙuri, ƙauna tana da kirki.",Kauna tana da hakuri. Kauna tana da kirki.,0.375,0.0909
+712,"A zamaninsu, bisa ga gidajen kakanninsu suna da sojoji dubu talatin da dubu shida gama suna da mata da yara da yawa.",daga tarihin asalin gidajen kakaninsu suna da mata da yaya da yawa shi yasa suna da maza dubu talatin da shida,0.6818,0.5161
+713,"” Yayinda take jan numfashinta na ƙarshe, sai ta ba wa ɗanta suna Ben-Oni.",yayin da take jan nonon fashin ta na karshe sai ta bawa danta suna Bin'oni,0.7692,0.1228
+714,"Suka rurrushe masujadan kan tudu da bagadai, ko’ina a Yahuda da Benyamin da kuma cikin Efraim da Manasse.","Suka rurushe masu jadawankan tudu, da Bagadai, ko ina a Yahuda, da Baniyamin, da kuma cikin Ifraim da Manasseh.",0.4444,0.0824
+715,Ita take mulki kan duk masu girman kai.,ta take mulki kan duk masu girman kai.,0.125,0.0323
+716,"Ubangiji yă zama alƙali, yă yi shari’a tsakanina da kai, bari Ubangiji yă duba, yă tsaya mini, yă nuna ba ni da laifi.",Ubangiji ya zama alkali ya yi shari'a tsakani na da kai. Bari Ubangiji ya duba ya tsaya mini ya nuna ba ni da laifi.,0.3478,0.0667
+717,"Amma a saan nan Laban ya riga ya tafi ya yi wa tumakinsa sausaya, sai Rahila ta sace gumakan gidan mahaifinta.","A kasar Canada. A lokacin da wannan ya faru, Laban ya tafi domin ya aske gashin tumakinsa. Rahila kuwa ta shiga ta saci gumakan baban",0.8571,0.7159
+718,Zai yi musu tsawa daga Sama.,Yakan yi tsawa daga sama,0.3333,0.3636
+719,hannuna kuwa ya cafke shi don yin hukunci.,na daga hannu sama na kuma furta mudun ina raye har abada sa'ar da na wasa takobi mai walkiya hannuwa na kuwa ya cabke shi don yin hukunci,2.75,2.2647
+720,"Amma ga masu karkataccen hali, kakan nuna kanka mai wayo.","Amma ga masu karkataccen hali, kakan nuna kanka mai wayo.",0.0,0.0
+721,"Amma abin nan da ya yi, mugun abu ne a gaban Ubangiji, shi ma Ubangiji ya kashe shi.",Amma wannan abin da ya yi mugu ne a idon Yawe. Shi ma Yawe ya kashe shi.,0.3889,0.4375
+722,Akwai mai hikimar da zai iya ƙidaya gizagizai?,ke da hikimar da zata isa ya kirga gizagizai,0.75,0.3684
+723,"Sai Mai Gwadawar nan ya zo, ya ce masa, “In kai Ɗan Allah ne, ka umarci duwatsun nan su zama gurasa.",Sai shaidan yazo yace masa idan kai dan Allah ne ka umarci duwatsun nan su zama,0.4762,0.2533
+724,Ka sa ni in so yin biyayya da kaidodinka.,ya bani rai. Juye zuciyata zuwa ga ka'idojin,1.0,0.625
+725,"A dā Finehas ɗan Eleyazar ne yake lura da matsaran, kuma Ubangiji ya kasance tare da shi.",adafune has dan iliyazar ne yake lura da matsaran kuma ubangiji ya kasance tare da shi,0.2941,0.0704
+726,"Mu kima ne, in kuwa suka haɗa kai gāba da ni, suka fāɗa mini, za su hallaka ni da gidana.",Mokiya ne in kuwa suka hada kai ga badani suka fada mini zasu hallaka ni da gida na.,0.55,0.0909
+727,Ko za ka iya kunce igiyoyin mafarauci da kare da zomo?,ko zaka iya kunce igiyoyin mafarauci da kare da zomo,0.1818,0.0
+728,Mahaifinsu Efraim ya yi makoki dominsu kwanaki masu yawa sai danginsa suka zo don su yi masa ta’aziyya.,mahaifansu Ibrahim yayi makoki domin su masu yawa sai dangin sa suka zo don suyi masa ta'aziya,0.6111,0.1429
+729,"Kana cika alkawarinka, ya Ubangiji.",Bawan ka alheri ya yawe bisa ga,1.2,0.6207
+730,"” Saboda haka Shawulu ya zaɓi mutum dubu uku daga cikin dukan Isra’ila, suka fita neman Dawuda da mutanensa kusa da Duwatsun Awakin Jeji.","Saboda haka, shawara ya zaɓi mutum dubu uku daga cikin dukkan Isra'ila suka fita neman Dauda da mutanen sa kusa da duwatsun awakin jeji.",0.2174,0.0455
+731,tagulla kuma kamar ruɓaɓɓen katako ne a wurinta.,Tagulla kuma kamar rubabbanka ta kone a wurin,0.5,0.15
+732,"Mutanena kima ne, in suka haɗa kai suka fāɗa mini, za su hallaka ni, da ni da gidana.",da yawa idan suka taru mana domin su fada mana da yaki ai zasu hallaka ni da gida na,0.9444,0.5625
+733,In kuma rusuna maka da bangirma.,in kuma durkusa a gaban ka da ban girma,1.0,0.3077
+734,Ubangiji kaɗai ya jagorance shi; babu wani baƙon gunkin da yake tare da shi.,Ubangiji kadai ya jagorance shi babu wani bakon gunkin da yake tare da shi.,0.1429,0.0328
+735,Yanzu kuma kuna niyya ku mai da maza da matan Yahuda da Urushalima bayinku.,yanzu kuma kuna niyya ku maida maza da matan yahuda da Urushalima bayin,0.2143,0.0328
+736,Ka sa muka zama abin ba’a a cikin al’ummai; mutanen suna kaɗa mana kai.,Ka sa muka zama abun ba'a a cikin al'ummai. Mutanen suna kada mana kai,0.1429,0.037
+737,Amma kujeran Dawuda ba kowa.,Amma ka nuna mana alheri mara ƙarewa. Iri ta Ubangiji. Dukkan rayuwa ta don kada a kashe ni. Kada kuma ka yanke alherin ka ga iyali na.,5.2,3.7826
+738,Duk da haka sa’ad da ta buɗe fikafikanta ta shara da gudu.,da yadda haka sa'adda ta bude fuka-fukanta ta shara da gudu,0.5,0.1556
+739,Ka ba ni iko in iyar da saƙonka na gaskiya a kowane lokaci.,Kada ka janye maganar gaskiyar ka daga baki.,1.0,0.5652
+740,"Kun san cewa sa’ad da kuke masu bautar gumaka, ya zama, an shawo kanku, aka kuma ɓad da ku ga bin gumaka marasa magana.",Kun san cewa sa'a da kuke masu bautar gumaka ya zama an shawo kanku aka kuma ɓar da ku ga bin gumaka marasa magana.,0.0833,0.022
+741,"Amma Ubangiji Allahnku zai ba da su gare ku, yana jefa su cikin rikicewa mai girma, har sai an hallaka su.",Amma ubangiji Allahn ku zai bada su gare ku yana jefa su cikin rikicewa mai girma har sai an hallaka su,0.1905,0.0
+742,Azariya firist tare da waɗansu firistoci tamanin na Ubangiji masu ƙarfin hali suka bi shi ciki.,A Zaria press tare da wadansu puristoci tamanin na ubangiji masu karfin hali suka bishi ciki.,0.5,0.1139
+743,"Yanzu sai ku ƙarfafa, ku yi jaruntaka, gama Saul shugabanku ya rasu, mutanen Yahuza kuwa sun naɗa ni sarkinsu.",Ku kasance da karfafawa da karfin zuciya gama shugaban ku Shawulu ya mutu amma gidan Yahuda sun nada ni sarkin su,0.8947,0.5341
+744,Asahiya ɗan fari da ’ya’yansa maza.,Asahiya dan fari da ya'yan sa maza,0.5,0.037
+745,"Babu wani da zai yi tsayayya da ku, za ku hallaka su.",Babu wanda zai yi tsayayya da ku. Zaku hallaka su,0.3333,0.025
+746,"Yayan Yakubu, maza, suka amsa wa Shekem da mahaifinsa Hamor a haince, domin ya ɓata yaruwarsu Dinatu.",Yayan Yakub maza suka amsa wa sheken ya baban sa Hamor cikin munafunci. Gama ya kazantar da yar uwar su Dina.,0.8235,0.3951
+747,An rufe bayanta da jerin garkuwoyi.,an raba bayan ta da jerin garkuwa,0.6667,0.2069
+748,Amma da zuciya ɗaya nake biyayya da kaidodinka.,Amma da dukkan zuciyata na kiyaye ka'idodin,0.75,0.4359
+749,Ko kuwa kana so ka yi ta gudu a gaban abokan gabanka har wata uku?,Ko wata uku na gudu daga abokan gabanka? Ko,0.7333,0.4706
+750,"Tare da danginsu a zamaninsu, sun kai ɗari tara da hamsin da shida ne.",Tarihin asalin su mutanen banyamin sun kai 956.,0.8571,0.6545
+751,Da mugun dafin kumurci.,dafi iri na gobe da nisa,1.5,0.8421
+752,Kamar yadda mu ma muke gafarta wa waɗanda suke yi mana laifi.,Kamar yadda muke gafartawa wadanda suke yi mana laifi.,0.4167,0.102
+753,babu abin da za a biya da ya taɓa isa.,babu abinda za'a iya biya da ya taba,0.6,0.25
+754,Saboda haka Yaƙub ya aika a ce wa Rahila da Liyatu su zo jeji inda garkunan suke.,Saboda haka Yakubu ya aika a cewa Rahila da Le'atu su zo jeji inda garkunan su ke.,0.3529,0.0625
+755,haka ma jarirai da maza masu furfura.,Haka ma jarirai da maza masu,0.1429,0.2333
+756,Na kuma yardar musu su sami rabonsu daga hadayun da aka ƙona a kan bagade.,na kuma ba kakanka da iyalin sa raban su daga dukan hadayu na konawa na Isra'ila,0.9333,0.5932
+757,Kullum a shirye kake domin ka taimake ni.,Hannun ka ya kasance a shirye ya taimake ni. Gama na zabi ka,1.375,1.0303
+758,Duk waɗannan shugabannin gidajen kakanninsu ne.,Dukkan mutanen nan shugabannin gidajen kakanin su ne.,0.8333,0.1951
+759,"Allah yă sawwaƙe in hallaka, ko in lalace gādon Ubangiji.",Allah ya sauwake in hallaka ko in lalata gadon ubangiji,0.4,0.1304
+760,"Yaruwarsa, Hammoleket ta haifi Ishodi, da Abiyezer, da Mala.",yar uwar Michael wato Hammo Leket ta haifi Ishot da Abiyezer da,0.8889,0.3333
+761,"“Saboda haka sa’ad da kake ba wa masu bukata taimako, kada ka yi shelarsa, yadda munafukai suke yi a majami’u da kuma kan tituna, don mutane su yabe su.","Saboda haka, sada da kake bawa masu bukata taimako, kada kayi shielarsa, yadda munafukai suke yi a majami'u da kuma kan tituna, don mutane su yabe su.",0.2069,0.0256
+762,"Sai mala’ikan Allah ya ce mini a mafarkin, ‘Yaƙub.",Sai mala'ikan Allah ya ce mini a mafarkin Yaƙub,0.0,0.0
+763,Kamar gaggafar da take kaɗa fikafikanta a kan sheƙarta.,kamar gaggafa yake wadda takan bude fuka-fukanta ta tsare yayan ta takan warware shekar ta,1.5556,0.8261
+764,"Ta zuba turare a jikina kafin lokaci, don shirin jana’izata.",Ta zuba turare a jiki na kafin lokaci don shirin jana'iza ta.,0.4,0.0
+765,Gama dutsensu ba kamar Dutsenmu ba ne.,Gama dutsen su ba kamar dutsen mu bane.,0.7143,0.0
+766,"Ai, kuwa lalle na yi wa jamaar gidan Istifanas ma.",Na kuma tuna na yi wa mutanen gidan Istifanus Bafktisma.,0.6,0.5385
+767,Kukan tace ƙwaro ɗan mitsil amma sai ku haɗiye raƙumi.,Kukan tace kwaro dan matse amma sai ku hadiye rakumi.,0.5,0.1591
+768,Ka tashi ka taimake mu; ka cece mu saboda ƙaunarka marar ƙarewa.,Ka tashi ka taimake mu. Ka cece mu saboda ƙaunar ka mara ƙarewa.,0.25,0.0196
+769,"Dawuda ya tattara mutanen da suke tare da shi, ya naɗa musu komandodi na dubu-dubu, da na ɗari-ɗari.",ya dawo da tattara mutanen da suke tare da shi ya naɗa musu komandoji na dubu dubu da na ɗari ɗari,0.4444,0.0769
+770,"Duka kuwa sun ci abincin nan na ruhu, duk kuma sun sha ruwan nan na ruhu.",Dukansu kuwa suka ci abincin nan na ruhu. Duka kuwa suka sha ruwan nan na ruhu.,0.3125,0.1607
+771,"A lokacin da Israila yake zaune a ƙasar, Raubainu ya je ya kwana da Bilha kwarkwarar mahaifinsa, Israila kuwa ya sami labari.","Sa'ad da Isra'ila yake zama a kasar, sai Ruben dan farinsa ya shiga ya kwana da Bilha, macen da babansa Isra'ila ya ajiye. Isra'ila kuwa ya ji labari.",0.7273,0.5248
+772,"Jawabi game da Ninebe a littafin wahayin Nahum, mutumin Elkosh.","Jawabi game da Ninebe a littafin Wahayin Nahum, mutumin Elko.",0.1,0.0385
+773,"Da suka hango shi daga nesa, kafin ya zo kusa da su, sai suka ƙulla su kashe shi.",da suka hango shi daga nesa tun bai zo kusa da su ba sai suka hada baki su kashe shi suka ce wa juna to ga sarkin mafarkan nan zuwa zo mu kashe shi,1.0556,1.0328
+774,Har ba za su yi nasara a dukan abin da suke yi ba.,Yakan sa dabarun masu wayo su rikice.,1.0,0.7297
+775,"Saan nan zai ce, ‘Ina gumakansu.",yawo zai ce ina allolin,0.5,0.5833
+776,Ba wanda ya sanar da ni saad da ɗana ya haɗa kai da ɗan Yesse?,ko dayanku da ya fada mini cewa dana yayi yarjejeniya da dan,0.8667,0.7021
+777,Zaki ya kashe abin da ya ishe ’ya’yansa.,zaki ya kashe abunda ya ishe yayan sa,0.5,0.0333
+778,"Ƙasar da na ba wa Ibrahim da Ishaku, zan kuma ba ka, zan kuma ba da wannan ƙasa ga zuriyarka a bayanka.",Kasar da na bawa Ibrahim da Ishaku zan kuma baka. Zan kuma bada wannan kasa ga zuriyar ka a bayan ka.,0.5455,0.0253
+779,"Yonatan, ɗan Shamma mutumin Harar.",Jonathan dan shamma mutumin harare,0.6,0.1429
+780,Cikinta yana rufe a ɓawo masu ƙarfi.,Sukinta yana rufe a bawo masu karfi.,0.4286,0.1379
+781,"Idan kana so ka ɗauka, sai ka ɗauka, gama banda shi, ba wani takobi a nan.",Idan kana so ka dauka sai ka dauka. Shine kadai takobin da yake a nan.,0.5,0.3818
+782,"“An kuma ce, ‘Kowa ya saki matarsa, sai ya ba ta takardar saki.",zan kuma fada cewa wanda ya saki matar sa dole ya bata takardar saki,0.6923,0.3043
+783,"Ko da yake yawancin mutanen da suka zo daga Efraim, Manasse, Issakar da Zebulun ba su tsarkake kansu ba, duk da haka suka ci Bikin Ƙetarewa, ba tare da bin abin da yake a rubuce ba.","Ko da yake wancan mutanen da suka zo daga Ife, Manasseh, Issachar da Zabulon ba su tsarkake kansu ba. Duk da haka suka ci bikin ketarewa ba tare da bin abin da yake a rubuce ba.",0.1667,0.0993
+784,"To, ku da kuke mugaye ma, kuka san yadda za ku ba yayanku kyautar kyawawan abubuwa, balle Ubanku na Sama da zai ba da abubuwan alheri ga masu roƙonsa?",idan ku da kuke mugaye kunsan yadda zaku ba yayan ku abubuwa masu kyau balle fa uban ku na sama ai zai bada abubuwa masu kyau ga wadanda,0.6897,0.3729
+785,"Sai ka sa mutane a kagara, a yi.",Ya nineba ya kakkafa sojoji a katan gar birni a,1.125,1.1304
+786,"Haka kai ma za ka rayu, har ka tsufa da kyakkyawan tsufa.",A kai ka kabari kamar yadda akan kai damin hatsi wurin bugu a daidai lokacin,1.1667,1.0
+787,Masu fama da yunwa kuwa sun daina jin yunwa.,sosai yanzu suna yin aiki na neman abinci amma wadanda a da suke jin yunwa,1.4444,1.0571
+788,Ta haka ya mutu aka kuma binne shi makabartan sarakuna.,"Da haka ya mutu, aka kuma binne shi a makabartan sarakuna.",0.2,0.0444
+789,yana kāre waɗanda suke makoki.,yana kara wadanda suke makoki,0.4,0.12
+790,"Saboda haka sarki ya ce wa Yowab da komandodin da suke tare da shi, “Tafi cikin dukan kabilan Isra’ila, daga Dan har zuwa Beyersheba, ku ƙidaya mayaƙa don in san yawansu.","Saboda haka sarki ya ce wa Yowab da kwamandojin da suke tare da shi, ""Tafi cikin dukkan kabilan Isra'ila daga Dan har zuwa Beersheba, ku kida ya mayaka don in san yawan su.""",0.2581,0.0522
+791,Hukunci a kan Samariya da kuma Urushalima.,hukunci akan samarya da kuma urshelim,0.5714,0.1143
+792,"Ƙauna ba ta sa kishi, ba ta yin kumbura.","kauna bata jin kishi, bata yin takama, bata",0.8889,0.3333
+793,"Komandodin Filistiyawa suka ce, “Waɗannan Ibraniyawa kuma fa?",Komando din police ya wa suka ce wadannan Ibraniyawa koma,1.0,0.1765
+794,"Ubangiji zai sāka mini laifin da ka yi mini, amma ni kam ba zan taɓa ka ba.",Ubangiji ya saka mini da kayi mini amma ni kam bazan taba ka ba.,0.4706,0.1754
+795,Ba ku da gidajen da za ku ci ku sha a ciki ne?,Baku da gidajen da zaku zauna ku ci ku sha a cikin,0.4615,0.2424
+796,"Ran mutum guda kaɗai kake nema, sauran mutane duka kuwa su yi zamansu lafiya.",Mutum dayan nan da zan kashe dukkan sauran mutanen kuwa zasu kasance da salama.,0.9286,0.6129
+797,"Yaƙi da Mowab, da Ammon, da Edom.",ya hoshafar ya ci muwawa da amonawa da ido,1.0,0.8333
+798,"Garken kuwa wajen alade dubu biyu, suka rugungunto ta gangaren, suka fāɗa tekun, suka halaka a ruwa.",Garkuwan kuwa alade wajen dubu biyu ne. Suka kuwa tashi a guje suka gangara suka fadi cikin tekun suka hallaka a ruwa.,0.7647,0.475
+799,yayinda taurarin safe suke waƙa tare.,yayin da taurarin safe suke waka tare,0.5,0.0323
+800,"Gaskiya nake gaya muku, duk inda aka yi wa’azin bishara ko’ina a duniya, za a faɗi abin da ta yi, domin tunawa da ita.",Gaskiya nake gaya muku duk inda aka yi wa Azumi shara ko ina a duniya za a fadi abun da ta yi domin tunawa da ita.,0.2917,0.0562
+801,"A rubuce yake cewa, “Jamaa sun zauna garin ci da sha, suka kuma tashi suka yi ta rawa.",kamar yadda yake a rubuce cikin maganar Allah cewa mutanen sun zauna suka ci suka sha har suka shiga rawa da lalata.,0.8889,0.9231
+802,"Sai ya zaɓi samari goma ya aike su wurin Nabal a Karmel su gaishe shi a madadinsa, su ce masa, “Ranka yă daɗe, ina maka fatan alheri, kai da gidanka da dukan abin da kake da shi!",ya zaɓi samari goma ya aike su wurin Nabal a Karmel su gaishe shi a madadin sa su ce masa ranka ya daɗe ina maka fatan alheri kai da gidan ka da dukkan abin da kake da shi,0.1892,0.0368
+803,ga ƙafafu mai kawo labari mai daɗi.,ga kafafu mai kawo labari mai dadi,0.2857,0.0714
+804,"A ƙafafunsa kuwa ya sa ƙarafar tagulla, rataye a bayansa kuma māshi ne na tagulla.",kibiyar sa kuwa kamar sandan saƙar igiya take ƙarfin kibiyar kuma nauyin sa ya kai shekel 600 mai riƙe masa garkuwa yana tafe a gaba,1.5333,1.1364
+805,Yotam ya ƙaru a iko saboda ya daidaita al’amuransa a gaban Ubangiji Allahnsa.,yau ta miya karu a iko saboda ya daidaita al'amuran sa a gaban ubangiji Allah sa,0.6154,0.0794
+806,Warkar da Mai Aljan na Garasinawa.,warkar da mai kaza min ruhu. Yayi su da almajiransa,1.1667,0.7857
+807,"Ta fasa tulun, ta kuma zuba turaren a kansa.",ta fasa tulun ta kuma zuba turaren a kansa,0.0,0.0
+808,"Fiton, Melek, Tereya da Ahaz.","Feton, Melek, Tereya da Ahas",0.4,0.0909
+809,"Ba a kansa suka raira waƙa cikin raye-rayensu suna cewa, ‘Saul ya kashe dubbai, Dawuda kuwa ya kashe dubun dubbai’?",Ba shi bane wanda aka girmama shi da rawa da waƙoƙi ana cewa Sha'ulu ya kashe dubbai Dauda kuwa dubun dubbai,0.75,0.4333
+810,” Sai Dawuda ya umarci samarinsa su kashe su.,Doda ya bada umurni ga samarin sa su kashe Rikab da Ba'ana.,1.25,0.6571
+811,“Ka iya kama dodon ruwa da ƙugiyar kama kifi?,"Ka iya kama dodon ruwan nan, Leviathan, da kugiyar kama kifi?",0.4444,0.4
+812,"To, fa, Filistiyawa suka tattara mayaƙansu suka haɗu a Soko cikin Yahuda domin yaƙi.","To fa, 'yan sanda suka tattara mayakan su suka hadu a Sokoto cikin Yahuda domin yaki.",0.5,0.2059
+813,"Saboda kuturtarsa, ya zauna a keɓe a wani gida, gama an fisshe shi daga Haikalin Ubangiji.",aku kuwa ware shi an raba shi da gidan yahawai gama shi mai cutar fatar jiki ne,1.0,0.7083
+814,"Wane ne a cikinku, don damuwarsa, zai iya ƙara ko da taƙi ga tsawon rayuwarsa?",Wanene a cikinku ta wurin damuwarsa zai iya ƙarawa kansa ko awa daya ga kwanakin rayuwarsa?,0.6,0.3934
+815,"Amma Hamor ya yi magana da su, ya ce, “Zuciyar ɗana Shekem tana begen yarku, ina roƙonku, ku ba shi ita aure.",Amma Hamari yayi magana dasu yana cewa dana Shehu yana marmarin 'yarku da zuciyarsa ina rokonku ku bashi ita ta zama matarsa.,0.8636,0.5366
+816,"Ba kawai Malami ya kasance mai hikima ba, amma kuma ya koyar da mutane.",ba kawai malami ya kasance mai hikima ba amma kuma ya koyar da mutane,0.0,0.0
+817,"Ya aikata abin da yake mai kyau a gaban Ubangiji, amma bai rasa aikata laifi a zuciyarsa ba.",Yaya abin da yake daidai a idon ya hauwaye amma ba da dukan zuciyar sa ba.,0.7222,0.4795
+818,"Mutum wajen ɗari huɗu suka tafi tare da Dawuda, mutum ɗari biyu kuwa suka zauna suna gadin kayansu.",Mutum wajan dari hudu suka tafi tare da Dauda. Mutum dari biyu kuwa suka zauna suna gadin kayan su.,0.3889,0.0625
+819,Ba wanda yake aikata abin da yake daidai.,Babu wani mai yin kirki.,1.0,0.697
+820,Gama ba daga cikin ƙasa wahala take fitowa ba.,gama ba daga cikin kasa wahala take fitowa ba,0.1111,0.027
+821,"Banza a banza ne, in ji Mai Hadishi.",Banza dukkan komai banza ne. Inji mai wa'azi. Gaba daya komai banza ne. Wani amfani ne mutum zai samu daga cikin dukkan aikinsa wanda yake yi a rayuwar,3.125,3.5185
+822,"Gama yawan hikima yakan kawo yawan baƙin ciki; yawan sani, yawan ɓacin rai.","gama yawan hikima yakan kawo yawan bakin ciki, yawan sani yawan bacin rai.",0.1538,0.0333
+823,Shi kuwa ya riƙa neman hanyar bashe shi.,Yahuda kuwa ya fara neman hanya domin ya bashe shi.,0.625,0.4688
+824,"Kuna ganina yanzu, amma ba za ku sāke ganina ba.",kai mai gani na ba zaka kara gani na ba,0.8,0.4595
+825,"Gama wane ne Allah, in ba Ubangiji ba?",kama wanene Allah in ba ubangiji ba,0.375,0.0345
+826,"Da yake yanzu, ya mai girma, Ubangiji ya hana ka zubar da jini da kuma ɗaukan wa kanka fansa, muddin Ubangiji yana raye, kai kuma kana a raye, bari maƙiyinka da dukan waɗanda suke niyya su cuci shugabana su zama kamar Nabal.",da yake yanzu ya mai girma ubangiji ya hana ka zubar da jini da kuma dauka wa kan ka fansa madadin ubangiji na raye kai kuma kana a raye bari makiyin ka da dukkan wadanda suke niya su cuci shugaba na su zama kamar nawa ba,0.3333,0.0734
+827,Ko da yake yayinda yake a raye ya ɗauka kansa mai albarka ne.,Koda yake yayin da yake a raye ya dauka kansa mai albarka ne.,0.3846,0.0208
+828,"Amma su kansu, ba sa ko sa yatsa su taimaka.",Amma su kansu basa ko sa yatsa su taimaka.,0.2,0.0
+829,"Za su yi ta haurawa ta Mashigin Ziz, ku kuwa za ku same su a ƙarshen kwari a Hamadan Yeruwel.","za su yi ta haurawa ta mashigin Zix, ku kuwa za ku same su a karshen kwari a Hamadan, Yerwa.",0.15,0.0694
+830,fāra kuma ya yi ta jan jikinsa da ƙyar.,Fara kuma ya yi ta jan jikin sa da,0.4444,0.1667
+831,"Mutanen da suke lura da aikin natsattsu ne, kuma gyare-gyaren suka ci gaba a ƙarƙashinsu.",mutanen da suke lura da aikin tsatsu ne kuma gyare-gyaren suka cigaba a karkashin,0.2667,0.0972
+832,"Saan nan Saul ya koma gida, amma Dawuda da mutanensa suka koma wurin ɓuya.",kwa ya koma gida amma Dauda da mutanen sa suka haura zuwa wurin buyan su.,0.7143,0.3898
+833,Waɗannan su ne yayan Isuwa waɗanda aka haifa masa a ƙasar Kanana.,Wadannan ne yaya maza na isowa wadanda aka haifa masa a kasar Kan'an.,0.75,0.2264
+834,Babu wani mai kama da shi.,ya hawe? Ai banda shi,0.8333,0.5
+835,Kada fa ku zama matsafa kamar yadda waɗansunsu suke.,Kada ku zama masu bautar gumaka yadda waɗansu su suka,0.7778,0.3256
+836,"To, da farko dai saad da kuka taru, taron ikkilisiya, na ji har akwai rarrabuwa a tsakaninku, har na fara yarda da zancen.","To da farko dai sa'ad da kuka taru taruwa irin ta jama'ar masu bi, na ji cewa akwai rabe-rabe a cikin ku har na dan yarda da zancen",0.4783,0.3789
+837,“Sai na fāɗi na kwanta a gaban Ubangiji dare arbain da yini arbain saboda Ubangiji ya ce zai hallaka ku.,Sai na fadi a kasa na kwanta a gaban yawe dare arba'in da yini arba'in. Kuma yawe yace zai hallaka ku.,0.4,0.3133
+838,"Sun lalace, kuma hanyoyinsu ba su da kyau; babu wani mai aikata abu mai kyau.",sun lalace kuma hanyoyin su basu da kyau babu wani mai aikata abu mai kyau,0.2,0.0
+839,Sulemanu Ya Gina Ɗakin Sujada domin Ubangiji.,Sura uku. An fara aikin ginin haikali.,1.0,0.7105
+840,Magini mai hikima da marar hikima.,magini mai hikima da marar hikima,0.0,0.0
+841,"Ahaz shi ne mahaifin Yada, Yada shi ne mahaifin Alemet, Azmawet da Zimri, Zimri kuwa shi ne mahaifin Moza.",Hasi ne mahaifin Yada. Yada shine mahaifin Azumaid da Zumri. Zumri kuwa shine mahaifin,0.5789,0.2262
+842,Ba wanda yake aikata abin da yake daidai.,ta dauda irin ta maskil wawa yakan ce a ransa babu Allah sun ruba,1.75,1.1515
+843,"Hakika, ina gaya muku, sai ya ɗora shi a kan dukan mallakarsa.","Hakika ina gaya muku, mutanen zamanin nan ba zasu mutu ba sai duk abubuwan",0.8333,0.6875
+844,"Maryamu Magdalin da ɗayan Maryamun, suna zaune a wurin, ɗaura da kabarin.",zaune akan kujerar shari'a sai matar sa ta aika masa da wannan sako cewa kada ka sa hannun ka akan mara,1.6667,1.0
+845,"Ko da yake Ubangiji ya aiki annabawa zuwa wurin mutane don su dawo da su gare shi, kuma ko da yake sun ba da shaida a kansu, ba su saurara ba.",Koda yake Ubangiji ya aiki annabawa zuwa wurin mutanen don su dawo da su gare shi kuma koda yake sun bada shaida a kansu basu saurara ba.,0.2903,0.0092
+846,Wanda yake farfashewa ya auko.,birnin Nineba mai rushewa ya taso,1.0,0.68
+847,"Sai Shekem ya ce wa mahaifinsa Hamor, “Ka auro mini wannan yarinya ta zama matata.",Sai Shechem ya ce wa mahaifin sa Hamor ka auro mini wannan yarinya ta zama mata ta.,0.3333,0.0308
+848,Ba a yi bikin da mutane masu yawa bisa ga abin da aka rubuta ba.,ba ai bikin da mutane masu yawa bisa ga abinda aka rubuta ba,0.2667,0.0204
+849,"Saad da Ubangiji Allahnku ya bashe su a hannunku, kuka kuma ci nasara a kansu, sai ku hallaka su sarai.",Sannu da yawon Allah nku ya bada waɗannan al'ummai a hannunku. Kuka kuma cinye su da yaki. Sai ku hallaka su ka,0.6,0.4815
+850,"’ Amma ni ina gaya muku, kada ku ƙi a cuce ku.",Amma abinda nake fada muku shine kada ku ki wanda yayi muku,0.7273,0.7812
+851,"Abin da Hezekiya ya yi ke nan ko’ina a Yahuda, yana yin abin da yake da kyau, daidai da kuma mai aminci a gaban Ubangiji Allahnsa.",abunda shazake yi kenan ko ina a yahuda yana yin abunda yake da kyau daidai da kuma mai aminci a gaban ubangiji allansa,0.3846,0.1089
+852,Ubangiji ya sāka maka saboda alherin da ka yi mini yau.,Bari ya hawaye ya saka maka domin alherin da ka nuna mini,0.6364,0.5682
+853,"A wannan lokaci, Yahuda ya bar ’yan’uwansa ya gangara don yă zauna da mutumin Adullam, mai suna Hira.",A wannan lokaci Yahuda ya bar yan uwansa ya gangara don ya zauna da mutumin Adullam mai suna,0.2222,0.0633
+854,Absalom ya naɗa Amasa ya zama shugaban sojoji a maimakon Yowab.,da yaki kamar yadda raba,1.0,0.7692
+855,"Taron mutane suka amsa, “Wannan shi ne Yesu, annabin nan daga Nazaret a Galili.",da tambaya wanene wannan? Taron mutane suka amsa wannan shine Yesu annabin nan daga Nazareth a Galili. Yesu a haikali,0.7143,0.5484
+856,Har iska da raƙuman ruwa ma suna masa biyayya!,har iska da dakumar ruwa ma suna masa,0.2222,0.2703
+857,Asriyel zuriyarsa ne ta wurin ƙwarƙwararsa mutuniyar Aram.,"Zuriyar sa ne ta wurin ƙwarƙwarar sa, mutuniyar",0.625,0.22
+858,lokacin da ruwa ya zama da ƙarfi kamar dutse.,lokacin da ruwa ya zama da karfi kamar dutse,0.1111,0.0278
+859,"Sai ka fara cire gungumen da yake idonka tukuna, saan nan ka gani sosai yadda za ka cire ɗan hakin daga idon ɗanuwanka.",Ka cire gungumen da yake cikin idonka tukuna domin ka iya gani sosai yadda zaka cire dan tsinke da yake cikin idon dan uwanka.,0.6522,0.3579
+860,"Saan nan Elkana ya koma gidansa a Rama, amma yaron ya zauna a Shilo, yana aikin Ubangiji a hannun Eli, firist.",Sannan Elkanah da iyalin sa sun koma gidan su a Ramah. Yaron kuwa ya cigaba da hidimar Yahweh a hannun Eli firist.,0.8095,0.4767
+861,"Ku mai da ’yan’uwanku da kuka kama a matsayin ’yan kurkuku, gama fushin Ubangiji yana a kanku.","Ku maida yan uwanku da kuka kama a matsayin yan kurkuku, gama fushin ubangiji yana a kanku.",0.1765,0.0
+862,"Kun san cewa na yi aiki wa mahaifinku da dukan ƙarfina, duk da haka mahaifinku ya cuce ni ta wurin sauya albashina sau goma.","Kun san cewa na yi aiki wa mahaifinku da dukkan karfi na. Duk da haka, mahaifinku ya cuce ni taurin sauya albashi na sau goma.",0.2917,0.0303
+863,"Ku gane wannan, cewa ba domin adalcinku ba ne ya sa Ubangiji Allahnku yana ba ku wannan ƙasa mai kyau, ku mallaki, gama ku mutane masu taurinkai ne.",Ku gane wannan cewa ba domin adalcin ku bane yasa ubangiji Allah ku yana baku wannan kasa mai kyau ku mallaki gama ku mutane masu taurin kai ne.,0.4286,0.0171
+864,"Shugabannin su ne; Yewush, Yalam da Kora.","Yau gabannin sune Yahweh, Yalam da",0.7143,0.3125
+865,"Yowash yana da shekara goma sha bakwai sa’ad da ya zama sarki, ya kuma yi sarauta a Urushalima shekara arba’in.",Yauwa shi yana da shekara goma sha bakwai sa'a daya da masarki. Ya kuma yi sarauta a Uru Salima shekara arba'in.,0.45,0.0682
+866,"Gama ba ku amince da ni ba a gaban mutanen Israila a wurin ruwan Meriba ta Kadesh a jejin Zin a wannan lokaci, domin ba ku nuna tsarkina a gaban jamaar Israila ba.",kuma kun yi mini rashin amince a gaban jama'ar Isra'ila a bakin ruwayen Meriba a Kadesh a cikin dajin Zin ta wurin rashin nuna tsarki na a gaban jama'ar Isra'ila.,0.6667,0.4264
+867,Ya bugi ƙwararrun jarumawan Mowab guda biyu.,ya buge wararruwar jaruma wan mawaf guda biyu,0.7143,0.1892
+868,"Saul kuwa yana zaune a Gibeya a gindin itacen tsamiya a kan tudu, yana riƙe da mashinsa.",yana zaune a ƙarƙashin ƙaramin itace akan wani tudu yana riƙe da mashi,0.5882,0.4571
+869,Yanuwansu kuwa suka zo don su yi masa taaziyya.,yan uwansa suka zo domin su yi masa ta'aziya,0.4444,0.1842
+870,"Sa’ad da kuma kuke addu’a, kada ku yi ta maimaita magana, kamar marasa sanin Allah, domin suna tsammani za a ji su saboda yawan maganarsu.",Za'a da kuma kuke addu'a. Kada kuyi ta maimaita magana kamar marasa sanin Allah domin suna tsammani za'a ji su saboda yawan maganarsu.,0.2,0.0185
+871,Kamar tumaki an ƙaddara su ga kabari; za su kuwa zama abincin mutuwa.,Kamar tumaki an ƙaddara su ga kabari zasu kuwa zama abincin mutuwa,0.1538,0.0
+872,Saboda haka Hamor da ɗansa Shekem suka tafi ƙofar birninsu don su yi magana da mutanen garinsu.,Saboda haka Hamor da dansa Shekem suka tafi kofar birninsu don su yi magana da mutanen garinsu.,0.1176,0.0256
+873,"Don haka duk wanda yake tsammani ya kahu, ya mai da hankali kada ya fāɗi.",da haka idan kana tsammani kana tsaye daran to sai kayi hankali kada ka fadi.,0.8,0.5088
+874,Ta yi wa kanta gunki na zubi.,Sun yi wa kansu zubin gunkin karfe.,0.7143,0.6818
+875,"Ku faɗa mini ko nawa ne dukiyar auren da sadakin, zan kuwa bayar bisa ga yadda kuka faɗa mini, in dai kawai ku ba ni budurwar ta zama matata.",duk irin kudin aure ko kayan auren da kuka tsara mini zan baku ni dai ku bani yarinyar in aura.,0.8621,0.6364
+876,’Ya’yan Oholibama maza matar Isuwa.,da 'yan tsohuwar libama maza matar Isu,1.0,0.3214
+877,"Sai Gad ya zo wurin Dawuda ya ce masa, “Kana so a yi yunwa shekara uku a ƙasarka?","Sai Gari ya zo wurin Dauda ya ce masa, wanne ya fi maka, shekara uku na yunwa a ƙasar",0.5556,0.3443
+878,"Ya bi tafarkin tsohonsa, Asa, bai kuwa kauce ba, ya aikata abin da yake daidai a gaban Ubangiji.","Yayi tafiya a hanya mai kyau kamar babansa Asa. Bai kauce ba, yayi abinda yake daidai a irin ya hau",0.8889,0.5733
+879,"Sa’ad da ta ga ya bar rigarsa a hannunta ya gudu ya fita daga gidan, sai ta kira bayin gidan ta ce musu, “Duba, an kawo mana wannan mutumin Ibraniyawa don yă ci mutuncinmu!",Sai da ta ga ya bar rigar sa a hannun ta ya gudu ya fita daga gidan sai ta kira bayin gidan ta ce musu duba an kawo mana wannan mutumin ibraniyawa don ya ci mutuncin,0.2059,0.0376
+880,sa’ad da masu niƙa suka daina don ba su da yawa.,Sakamakon masu nika suka daina don basu da yawa.,0.4545,0.1944
+881,ƙarar niƙa kuma ya tsagaita; sa’ad da kukan tsuntsaye ta farkar da mutane.,ƙarar naƙa kuma ya tsagaita sa'ar da ƙokantsuntsaye ta farkar da mutane,0.3077,0.0678
+882,"Ubangiji Allahnku zai bashe su a gare ku, zai firgitar da su har ya hallakar da su.","Ya waye, Allah ku zai bada su a hannun ku, zai kuma sa su rikice sosai har sai an hallaka su.",0.7647,0.6154
+883,Ko da tsakar rana ma lalube suke kamar ana duhu.,A tsakar rana ma sukan laluba kamar ana duhu.,0.4,0.3421
+884,Da ’ya’yan Yaƙub maza suka dawo daga jeji sai suka ji labarin.,da yayan yaƙumaza suka dawo daga jeji sai suka ji labarin,0.1667,0.0208
+885,"Ahaz ya huta tare da kakanninsa, aka kuma binne shi a birnin Urushalima, amma ba a sa shi a makabartan sarakunan Isra’ila ba.",Ahas ya huta tare da kakanninsa aka kuma binne shi a birnin Urushalima amma ba'a sa shi a makabartar sarakunan Isra'ila ba.,0.1739,0.0202
+886,Ina neman taimako don azabar da nake sha.,Shin fida ta zata saukaka mini zafin da nake ji?,1.0,0.697
+887,Har yanzu ba ku da bangaskiya ne?,Har yanzu ba ko da ban gaskiya ne? Suka tsorata suka ce wa juna wanene,1.4286,1.1538
+888,Firistocin da Suke a Urushalima.,fistoci akwai,1.0,0.5926
+889,Haka kowane itacen kirki yakan haifi kyawawan yaya.,Haka kuma ko wani itace mai kyau yakan bada 'ya'ya,1.0,0.4884
+890,"Jonatan ya haifi Mefiboshet, Mefiboshet ya haifi Mika.",Yaraton shine wanda ya haifi,0.75,0.7111
+891,"Sukan kwana a kewayen gidan Allah, domin dole su tsare shi; kuma su suke lura da mabuɗi don buɗewa a kowace safiya.",sukan kwana a kewaye gidan Allah domin dole ne su tsare shi kuma su suke lura da mabudi dan budewa a kowace safiya,0.2273,0.0659
+892,"Za a kuma yi wa’azin wannan bisharar mulki a cikin dukan duniya, yă zama shaida ga dukan al’ummai, sa’an nan ƙarshen yă zo.",za'a kuma yi wa azunnan bisharar mulki a cikin dukkan duniya ya zama shaida ga dukkan al'ummai sa'annan karshen ya,0.5217,0.1158
+893,"Waɗannan su ne yaya maza na Seyir Bahore, mazaunan ƙasar Lotan, da Shobal, da Zibeyon, da Ana, da Dishon, da Ezer, da Dishan.","Wadannan ne sunayen yaya maza na Sayir, mutumin Hori, mazaunan kasar. Laton, da Shobal, da Zibiyon, da Ana, da Dishon, da Ezer, da Dishan.",0.3913,0.2
+894,"Sai Yahuda Iskariyot, ɗaya daga cikin Sha Biyun nan, ya je wajen manyan firistoci don yă bashe Yesu a gare su.",Sai Yahuda Iscariot daya daga cikin sha biyun nan ya je wajen manyan firistoci don ya bashe su a gare su.,0.1905,0.069
+895,"Dawuda ya ce, “Gobe fa shi ne Bikin Sabon Wata, ya kamata in ci tare da sarki amma bari in tafi fili in ɓuya har jibi da yamma.","Dauda ya ce, gobe fa shine bikin sabon wata, ya kamata in je tare da sarki, amma bari in tafi fili in buya har jibi da yamma.",0.1786,0.0417
+896,"Da ya hangi Yesu daga nesa, sai ya ruga da gudu, ya zo ya durƙusa a gabansa.",da ya hange su daga nesa sai ya ruga da gudu yazo ya dirkusa a gaban sa,0.4118,0.0702
+897,"Don an rubuta, “Duniya ta Ubangiji ce, da duk abin da yake cikinta.",tunanin zuciyar ku ya damu da inda namun ya fito. Kuma maganar Allah ta ce duniya da abinda yake cikin,1.3846,0.9804
+898,Ni kuwa zan yi muku alheri saboda abin da kuka yi.,Nima zan nuna maku alheri saboda wannan abin da kuka yi.,0.4545,0.359
+899,"A ƙarshen yini arba’in da dare arba’in ɗin, Ubangiji ya ba ni alluna biyu na dutse, allunan alkawari.",A karshen yini arba'in da dare arba'in din Ubangiji ya bani alluna biyu na dutse allunan alkawari,0.2222,0.0253
+900,"Gaskiya nake gaya muku, wannan zamani ba zai shuɗe ba sai dukan abubuwan nan sun faru.",Gaskiya nake gaya muku wannan zamani ba zai shude ba sai duk abubuwan nan sun faru.,0.125,0.0435
+901,"To, haskenku yă riƙa haskakawa haka a gaban mutane, domin su ga kyawawan ayyukanku, su kuma ɗaukaka Ubanku da yake cikin Sama.",Haka kuma bari ku zama masu haske ga mutane domin idan suka ga ayyuka masu kyau da kuke yi zasu daukaka ubanku wanda yake cikin sama.,0.8636,0.505
+902,"Saboda haka, ya ƙaunatattuna, ku guji bautar gumaka.",Saboda haka ku da nake ƙauna ku guje wa bautar gumaka.,0.75,0.2619
+903,Na zama marar amfani kamar salkar ruwan inabi wanda aka jefar da ita.,A ziyarka ko na zama kamar salkar da take rawa ta yi bisan hayaki?,0.9231,0.6071
+904,Me kuke ƙullawa game da Ubangiji?,Me kuke kullawa gaba da yawe? Koda menene.,0.8333,0.5926
+905,in kuma gama kibiyoyina a kansu.,kuma gama kibiyoyi na akan su,0.8333,0.0769
+906,"Yaya fa, zan yi irin wannan mugun abu, in yi zunubi wa Allah?",Yaya fa zanyi irin wannan mugun abu inyi zunubi ga Allah,0.3846,0.0217
+907,Za ku fi kowace alumma samun albarka.,zaku zama masu albarka fiye da kowace kabila.,1.1429,0.8333
+908,"Yowab ya ce masa, “Ba za ka kai labari yau ba, sai wata rana ka kai, amma yau ba za ka kai labari ba, domin ɗan sarki ya mutu.",yau bai ce a'a ba zaka kai labari yau ba wata rana zaka kai amma yau ba zaka kai labari ba domin yau dan sarki ya mutu,0.3793,0.1739
+909,"Sai Isra’ila ya ce wa Yusuf, “Kamar yadda ka sani, ’yan’uwanka suna kiwon garkuna kusa da Shekem.",Sai Isra'ila ya ce wa Yusuf kamar yadda ka sani yan'uwanka suna kiwon garkuna kusa da Shekem.,0.0,0.0
+910,"Ka bar wuri mai tsarki, gama ka kasance marar aminci; kuma Ubangiji Allah ba zai girmama ka ba.","Kabar wuri mai tsarki, gama ka kasance mara amince. Kuma Ubangiji Allah ba zai girmama ka ba.",0.2222,0.0267
+911,"Azel yana da ’ya’ya maza shida, kuma ga sunayensu.",Azeez yana da 'ya'ya maza shida kuma ga sunayen su,0.3333,0.0526
+912,"Ba dama ku ci abinci a teburin Ubangiji, ku kuma ci a na aljannu.",Ba dama ku ci abinci a teburin Ubangiji kuma ci a na aljanu.,0.1429,0.06
+913,"Waɗannan su ne manyan shugabannin gidajen kakannin Lawiyawa a zamaninsu, wato waɗanda suka zauna a Urushalima.",da sunayen su a nan shugabannin gidajen kakanin lawuya wane bisa ga tarihin asalin su suka kuwa zauna a Urshelim.,0.875,0.4086
+914,"Matattun ƙudaje sukan sa man ƙanshi ya yi wari, haka nan wauta kaɗan takan ɓata hikima da daraja.",Matattun kudaje sukan sa min kanshi yayi wari haka kuma wawanci kadan yakan bata hikima da girma.,0.6111,0.2308
+915,"Ka fara wanke cikin kwaf da kwano, sa’an nan bayan ma zai zama da tsabta.",Ka fara wanke cikin kwaf da kwano sa'annan bayan ma zai zama da tsafta,0.2,0.0179
+916,"’ Amma ni ina gaya muku, kowa yake fushi da ɗanuwansa ma, za a hukunta shi.",Amma ina gaya muku wanda yake fushi da dan uwansa za a hukunta shi.,0.2667,0.1607
+917,"“Albarka tā tabbata ga masu shan tsanani saboda aikata adalci, domin Mulkin Sama nasu ne.","albarka ne masu shan tsanani saboda adalci, gama mulkin sama nasu ne.",0.3333,0.2917
+918,"Sai Dawuda ya tashi, yana gudu ke nan daga wurin Saul.",Dauda a Birnin Gwari. A ranar nan Dauda ya ci gaba da gudu daga sarki,1.3636,0.881
+919,Aka yi umarni a Yahuda da Urushalima cewa ya kamata suka kawo wa Ubangiji harajin da Musa bawan Allah ya bukaci daga Isra’ila a hamada.,aka yi umarni a Yahuda da Uru Shalima cewa ya kamata su kawo wa Ubangiji harajin da Musa bawan Allah ya bukaci daga Isra'ila a hamada.,0.12,0.0183
+920,in sa a manta da su a tunanin ’yan adam.,in sa a manta da su a tunanin yan adam,0.0,0.0
+921,"Amma tun da ka yi mugunta, to, zunubi zai yi fakonka don ya rinjaye ka kamar naman jeji.","Amma idan baka yi abin da yake daidai ba, to zunubi yana boye a bakin kofa yana marmari",0.9444,0.6618
+922,Saad da Maɗaukaki ya ba alummai gādonsu.,Da mafi daukaka ya ba al'ummai gadon,0.5714,0.3333
+923,"Suka yi hadaya ga aljanu, waɗanda ba Allah ba.",suka yi hadaya ga aljanu wadanda ba Allah ba,0.1111,0.0278
+924,"’ Ka tashi da sassafe, kai da bayin shugabanka da suka zo tare da kai.",ka tashi da sassafe kai da bayin shugaban ka da suka zo tare da kai,0.1429,0.0
+925,ko kuma lokacin da suke a wurin ɓuyansu?,kuma lokacin da suke a wurin wuyan,0.25,0.1562
+926,"Sa’ad da Ubangiji ya nuna maka alheri, ka tuna da ni, baiwarka.",Sa'a da Ubangiji ya nuna maka alheri ka tuna da ni baiwarka.,0.0833,0.0208
+927,"Da yake da yawa cikin taron ba su tsarkake kansu ba, dole Lawiyawa su yanka ’yan ragunan Bikin Ƙetarewa domin dukan waɗanda ba su da tsarki, ba su kuma iya tsarkake ragunansu ga Ubangiji ba.",da yake da yawa cikin tare ba su tsarkake kansu ba dole lawiyawa su yi anka 'yan raguna bakin ketarewa domin dukan wadanda ba su da tsarki ba su kuma iya tsarkake rigunansu ga Ubangiji ba,0.2286,0.0526
+928,Wane ne yake cika zuciya da hikima.,wanene yake cika zuciya da hikima,0.2857,0.0
+929,"Sunan yaruwarsa Maaka, sunan ɗanuwansa kuwa Zelofehad, Zelofehad yana da yaya mata kaɗai.","su aura, Makir yana da 'yar ruwa mai suna Ma'aka. Akwai kuma wani daga cikin dangin sa mai suna The Low Feathers, wanda ya haifi 'ya'ya mata kadai.",1.9231,0.8649
+930,"Ba zan amsa ba, ba zan ƙara cewa kome ba.",Amma ko ƙari ba zan yi ba. Allah ya sake,0.9,0.7333
+931,Aka jefa ƙuri’a a kan manyan mutanenta.,aka jefa kur'a akan manyan mutanen,0.5714,0.129
+932,’ ”.,addu'a amma kuna maida shi kwagon yan fashi,8.0,35.0
+933,"’Ya’yan Oholibama maza ’yar Ana wadda take jikanyar Zibeyon, matar Isuwa, waɗanda ta haifa wa Isuwa su ne.",ya'yan oholibama maza ir'ana wadda take jikanyar zubeyun matar isuwa wadda ta haifa wa isuwa,0.3333,0.1325
+934,"Sai ya ce musu, “Me ya sa kuke irin waɗannan abubuwa?",yayi wa yayan sa magana yace don me kuke yin wadannan abubuwan,1.0,0.625
+935,"Dukan jamaa suna murna, suna busa ƙaho, mawaƙa kuma da kayan kaɗe-kaɗe da na bushe-bushensu, suna shugabancin shagalin.",a kasar suna murna suna busa kakaki mawaka da kayan kadan kadan su suna jagoran bikin sa'a,0.6667,0.4792
+936,ko kuma a kama ta da tarko a huda hancinta?,ko kuma a kama ta da tarko a huda hancin ta?,0.2,0.0
+937,"Suka ɗauki gawar Absalom, suka jefa ta cikin wani rami mai zurfi a kurmin, suka tula tsibin duwatsu a kanta.",Suka dauki gawar Absalom suka jefa a wani rami mai zurfi a cikin kurmi sa'annan suka kwaso duwatsu da yawa,0.5,0.3488
+938,"Sa’an nan waɗansu Lawiyawa daga Kohatawa da Korayawa suka tashi tsaye suka yabe Ubangiji, Allah na Isra’ila, da babbar murya sosai.",na wadansu lawuyawa daga ko hatawa da korayawa suka tashi tsaye suka yabi ubangiji Allah na Isra'ila da babban murya sosai,0.381,0.0849
+939,Zuriyar Isuwa.,sura talatin da shida mata da ya'ya na isowa,4.5,2.1667
+940,kuma ta bar su su yi ɗumi a cikin ƙasa.,kuma ta bar su su yi dume a cikin kasa,0.2,0.1034
+941,"da kuma ta mabiyansu, waɗanda suka tabbatar da faɗinsu.",da kuma ta mabiyan su wadanda suka tabbatar da fadin su,0.5556,0.0444
+942,"Yaƙub ya kafa al’amudi bisa kabarinta, al’amudin kabarin Rahila ke nan, wanda yake can har wa yau.",Ya kafa alamudi bisa kabarinta alamudin kabarin Rahila kenan wanda yake can har wayau.,0.2941,0.0649
+943,Ko da yake a dā suna da ƙasa ta kansu.,Kodayake sun sawa filayen su sunayen kansu.,0.9,0.6429
+944,za a kuma girgiza abubuwan sararin sama.,za'a kuma girgeza abubuwan sararin sama,0.4286,0.0303
+945,harsashan sararin sama sun jijjigu; suka yi makyarkyata saboda yana fushi.,Har sashen tsarin sama sun jijjigu suka yi makarkata saboda yana fushi.,0.3636,0.0968
+946,Amma tsaya dai a gida!,amma tsaya dai a gida. Me yasa kake neman fada? Kana neman faduwarka,1.6,2.1765
+947,"Saboda haka abokaina ƙaunatattu, ku guje wa bautar gumaka.",Saboda haka abokai na ƙaunatattu ku guje wa bautar gumaka.,0.2222,0.0
+948,"Ku bauta wa Ubangiji Allahnku, domin fushi mai zafi yă juye daga gare ku.",Ku bautawa Ubangiji Allahn ku domin fushi mai zafi ya jyu daga gare ku.,0.4286,0.0517
+949,"Bayan Dawuda ya ƙidaya mayaƙan, lamirinsa ya kāshe shi, sai ya ce wa Ubangiji, “Ya Ubangiji na yi laifi ƙwarai a kan abin da na yi.",Bayan da ya dawo da gida ya mayakan lamirin sa ya kashe shi sai ya ce wa Ubangiji ya Ubangiji na yi laifi kwarai akan abun da na yi.,0.5,0.099
+950,"Za su ga Ɗan Mutum yana zuwa kan gizagizan sararin sama, da iko da kuma ɗaukaka mai girma.",zaka ga dan mutum yana zuwa kan gizagizan sararin sama da iko da kuma daukaka mai girma,0.2222,0.0563
+951,Kwana uku suka yi suna ta kwasar ganimar saboda yawanta.,kwana uku kafin suka kwashe duka a rana ta,0.8,0.5
+952,"Sharuɗansu sun gamshi Hamor da ɗansa, Shekem.",Sharuɗɗan su sun gamshi Hamur da ɗansa Sheken,0.5714,0.0811
+953,Ya sa shi ya sha zuma daga dutse.,ya yi renon sa da zuma daga cikin dutse,0.625,0.56
+954,Saad da gawawwakinsu suke ruɓewa a ƙasar matattu.,Jikkunan su kuma zasu ruɓe a kabari wurin zaman matattu.,1.0,0.7561
+955,Yowab kuwa da sauran shugabannin sojojin suka tashi daga gaban sarki suka tafi su ƙidaya mutanen Israila.,da umarnin sa saboda haka suka tafi domin su lissafta mutanen Isra'ila,0.7059,0.5909
+956,"Da Yesu ya ga bangaskiyarsu, sai ya ce wa shanyayyen, “Ɗana, ka yi farin ciki, an gafarta maka zunubanka.",Da ya siya gaban gaskiyar su sai ya ce wa shanyen yin kada ka damu dana an gafarta maka zunubin ka.,0.6842,0.2222
+957,"Sai ku sani fa, ba saboda adalcinku ne Ubangiji Allahnku yake ba ku kyakkyawar ƙasan nan don ku mallake ta ba, gama ku jamaa ce mai taurinkai.",Sai ku sani fa ba saboda adalcin ku ne ya sa yake bada wannan kasa mai kyau domin ku gaje ta ba. Gama ku jama'a ce mai taurin kai.,0.4815,0.3274
+958,"A maimakon haka, sai ya dogara ga wadatarsa.",wurin Allah amma ya dogara ga yawan dukiyarsa,0.75,0.5143
+959,"“Wane ne bawan nan mai aminci da kuma mai hikima, wanda maigida ya sa yă lura da bayi a cikin gidansa, yă riƙa ba su abinci a daidai lokaci?",Wanene ba wannan mai aminci da kuma mai hikima wanda mai gida ya sa ya lura da bayi a cikin gidansa ya rika basu abinci daidai lokaci,0.4138,0.037
+960,"A ranar farko ta idin abinci marar yisti, wato ran da aka saba yanka ɗan ragon Idin Ƙetarewa, sai almajiransa suka ce masa, “Ina kake so mu je mu shirya maka cin Idin Ƙetarewa?","A ranar farko ta bikin brodi mara yisti, wato ran da akan yanka dan rago na bikin ketarewa, sai almajiran Yesu suka tambaye shi suka ce, ""Ina kake so mu je mu shirya maka cin bikin ketarewa?""",0.5294,0.2464
+961,”.,karuwa ce?,2.0,8.0
+962,Suka ɗauke shi suka jefa shi cikin rijiyar.,suka cewa junansu toh ga sarkin mafarkan nan zuwa zo mu kashe shi mu jefa shi,1.75,1.3143
+963,Ubangiji kuwa ya husata da Israilawa.,ga sojojin sa ya hau ya sake yin fushi mai tsanani da mutanen Isra'ila,2.0,1.2581
+964,"Ku gaskata annabawansa, za ku ci nasara.",gaskata da annabawansa zaku ci nasara,0.5714,0.125
+965,Saboda haka dukan mutane Isra’ila suka bar Dawuda don su bi Sheba ɗan Bikri.,Saboda haka dukkan mutane Isra'ila suka bar Dauda don su bi Sheba dan Bikri.,0.2143,0.0492
+966,"Mayaƙan da aka lasafta bisa ga asalinsu na dukan iyalan Issaka, su dubu tamanin da dubu bakwai ne , jarumawa ne sosai.",wadanda suka iya yaki bisa ga tarihin asalin zuriyar Ishakar suna da maza dubu tamanin da bakwai wadanda suka isa yaki,0.7619,0.5957
+967,“Za ka iya daure kyakkyawar kaza da ’ya’yanta?,Saka iya daure kyakkyawar kaza da 'ya'yan ta,0.5,0.0286
+968,"Shamsherai, Shehariya, Ataliya, Ya’areshiya, Iliya da Zikri su ne ’ya’yan Yeroham maza.","Shamsiyya, Rai, Shihariya, Ataliya, Yarisha, Iliya da Zakari sune yayan Yaro Ham maza.",0.75,0.1765
+969,"To, Dina, ’yar da Liyatu ta haifa wa Yaƙub, ta je ta ziyarci matan ƙasar.","To, Dina, yar da Liatu ta haifa wa Yaƙub, ta je ta ziyarci matan ƙasar",0.0667,0.0185
+970,Jamaar Ubangiji suna ta magana a kan wannan mugun abu.,"To mai kyau, nake jin mutanen Yahawai suke bazawa.",1.0,0.7273
+971,"Muddin Yehohiyada yana raye, aka riƙa kawo hadayun ƙonawa a haikalin Ubangiji.",Muddin ya hohiya da yana raye. Aka dinga kawo hadayun konawa a haikalin Ubangiji.,0.4167,0.0769
+972,"Sai ya kafa ginshiƙin a ƙofar Haikali, ɗaya a wajen kudu, ɗaya kuma a wajen arewa.",Sai ya kafa ginshikan a gaban haikali. Ginshiƙin da yake a kudu ya kira,0.6875,0.4688
+973,’Yan maza da ’yan mata za su hallaka.,da yan maza da yan mata zasu hallaka,0.375,0.0741
+974,Ba zan miƙa wa Ubangiji Allahna hadayun ƙonawa da abin da ban yi wahalarsa ba.,Bazan miƙa wa iyawar Allah na hadayarda bata ci mini komai ba sai,0.8667,0.4762
+975,"Kansa ya sarƙafe kam cikin rassan itacen oak ɗin, alfadarin kuwa ya wuce, ya bar shi yana rataye yana lilo.",Ya ce ya duba kansa. Amma ya ce kin dokin ya wuce ya bar Absalom. Yana,0.7,0.6
+976,"Sama’ila ya rasu, sai dukan Isra’ila suka taru suka yi makoki saboda shi.",Samaila ya rasu sai dukkan Isra'ila suka taru suka yi makoki saboda shi.,0.0769,0.0175
+977,“Ubangiji ya sāka mini bisa ga adalcina; bisa ga tsabtar hannuwana ya sāka mini.,Ubangiji ya saka mini bisa ga adalci na bisa ga tsaftar hannuwa na ya saka mini.,0.5,0.0469
+978,Garin Akzib zai zama abin yaudara.,garin Akzib zai zama abun yaudara,0.1667,0.0357
+979,"Ner shi ne mahaifin Kish, Kish mahaifin Shawulu, kuma Shawulu ne mahaifin Yonatan, Malki-Shuwa, Abinadab da Esh-Ba’al.","Nara shine mahaifin Kish. Kish mahaifin Shaulu. Kuma Shaulu ne mahaifin Yonatan. Mar Kishuwa, Abinadab da Ishba'al.",0.4706,0.0638
+980,sa’ad da mutane suke jin tsoron tudu.,Sa'ad da mutane suke jin tsoron,0.1429,0.1379
+981,"Sa’ad da aka gama dukan wannan, sai Isra’ilawan da suke can suka fita zuwa garuruwan Yahuda, suka rurrushe keɓaɓɓun duwatsu suka kuma farfashe ginshiƙan Ashera.","Sa'ad da aka gama dukkan wannan, sai Isra'ilawan da suke a can suka fita zuwa garuruwan Yahuda, suka rurrushe kebabbun duwatsu, suka kuma farfashe gishikan ashera.",0.16,0.0534
+982,"Ya gina ƙofar bisa, ta Haikalin Ubangiji, ya yi gine-gine masu yawa a garun Ofel.",ya gina kofar gidan ya hawaye wadda take a wuri mafi tsayi ya kuma yi gine-gine masu yawa akan katangar da ta bi ta tudun,1.2,0.8413
+983,Labarin Nehemiya ɗan Hakaliya ke nan.,labari nan nan Hemiya dan Hakaliya,1.0,0.3226
+984,"Sai Dawuda ya ce, “Don in sayi masussukarka ne domin in gina wa Ubangiji bagade, domin a kawar wa mutanen da annobar.",Dauda ya amsa ya ce nazo ne in sayi wurin bugun hatsin ka in gina bagaden hadaya a nan zan yi hadaya ga Yahawai domin ya tsayar da bala'in nan,1.0455,0.7717
+985,Suka fita daga Urushalima don su fafari Sheba ɗan Bikri.,"suka fita daga Uru Salima, don su fafari Sheba, dan Bikri",0.3,0.0435
+986,Abin da duk za ku faɗa ya tsaya a kan ‘I’ ko ‘Aa’ kawai.,Abinda ya kamata ku ce kawai shine i ko a'a.,0.7143,0.6053
+987,Ubangiji zai kiyaye ku daga dukan cuce-cuce.,Ya waye zai kiyaye ku daga kowani,0.5714,0.5
+988,"“Har wa yau dai kun ji an faɗa wa mutanen dā, ‘Kada ka rantse a kan ƙarya, sai dai ka cika waadin da ka ɗaukar wa Ubangiji.",Har yanzu kun dai ji an faɗa wa kakanin ku cewa kada ka yi rantsuwar ƙarya sai dai ka cika rantsuwar da ka yi wa Ubangiji.,0.4074,0.4022
+989,Suka tara ƙasa kewaye da jikin katangar birnin daidai da tsayinta.,Suka tara kasa kewaye da jikin katangar birnin daidai da tsayin,0.1818,0.0545
+990,"Amma Amnon yana abuta da Yonadab, ɗan Shimeya, ɗanuwan Dawuda.",Amma a nan ina da aboki mai suna Dan Shimeya dan uwan Dauda,1.0,0.34
+991,"Ya ce, ‘Za su girmama ɗana.",zaku karbi duk abunda kuke roka a cikin adua. Antuhumi ikon ye,2.0,2.2105
+992,Yaƙi tsakanin gidan Dawuda da na Shawulu.,ka gayawa Dauda cewa mutanen Yabesh-gilead ne suka binne Shaulu sai ya aiki manzanni zuwa Yabesh-gilead ace musu Ubangiji ya albarkace ku saboda alherin da kuka nuna wa Shaulu,4.0,3.4412
+993,"Amma idan sun ce, ‘Ku haura zuwa wurinmu,’ to, sai mu haura, gama wannan alama ce, wato Ubangiji ya bashe su a hannunmu.",Amma idan suka ce ku haura nan to zamu haura zuwa wurin su. Gama wannan zai zama mana alama cewa ya hawe ya bawa da su a hannun,0.7391,0.5111
+994,Alajabansa kuwa ba su da iyaka.,da ganewa ayyukan ban mamaki da suka wuce,1.1667,0.92
+995,Allah yakan yi maganin raunin da ya yi maka.,Kama yakan yi wa mutum rauni amma yakan,0.7778,0.4857
+996,"Yanzu fa, sai ku kama bijimai bakwai da raguna bakwai, ku kai wa Ayuba, ku miƙa su hadaya ta ƙonawa domin kanku.",Yanzu fa sai ku dauki bijimai guda bakwai da raguna bakwai ku tafi wurin bawan nan Ayyuba ku mika su hadaya ta konawa domin kan ku.,0.5,0.2759
+997,"Shi ɗan wata mace mutuniyar Dan, mahaifinsa kuwa mutumin Taya ne.",Mamar sa daga zuriyar Dan ce amma baban sa mutumin Taya ne.,0.8182,0.4906
+998,” Sai Yowab ya kama gemun Amasa da hannun dama don yă yi masa sumba.,Sai yau ya kama gemun a masa da hannun dama don yayi masa sunba.,0.4286,0.0962
+999,"Da magariba ta yi, sai ya zo tare da sha biyun nan.","Da yamma tayi, Yesu da almajiransa sha biyun nan",0.6667,0.5
