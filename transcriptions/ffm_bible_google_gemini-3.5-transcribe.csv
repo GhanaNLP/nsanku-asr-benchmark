@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Yaayaa seettii, wii: —Mi yii Ruuhu hono wuugaandu ana jippoo iwde dow kammu faa hoɗi dow makko.",Yaya sitti?,1.0,0.8933
+1,Homo woni duroowo mo yarataa kosam sewre mum?,Homa wuni doro mo yara ta kosam sewre mu.,0.75,0.2162
+2,"Jamaa keewɗo filii mo, o haalani ɓe ngol banndol: —Aawoowo yalti sankoyde.","Yama kyoru filimu, o haali ni be ngol bandu. Awo o yalti sankoydi.",0.9167,0.3051
+3,Sabi min laatike fijirteeɓe yeeso aduna oo fuu: yeeso malaaikaen e yimɓe fuu.,"Sabi min laategi, figirtebe yesu azuna ofu, yesu mala eken yimbe fu.",0.8462,0.3016
+4,"Oon wakkati fuu, o yamiri hoore Yaayaa taƴoyee ley kasu too.","An wakarifu, yami riho re ya ya taɗo ye le kasuɗu.",1.0,0.3125
+5,"Haala dokke ɗe Ruuhu Ceniiɗo hokkata ɗee, sakiraaɓe, miɗo yiɗi paamon ɗe faa gasa.","Hala dokke de ruu ce ni do hokkata de sakira'be, mi wi'i paamon de fa'a",0.8571,0.2879
+6,"Taalibbo anndondirɗo e Jottinoowo Sadaka Mawɗo oo, yalti haaldi e debbo doomoowo damal ngal oo, naanni Piyeer.","Tali bo andu ndirɗo e jottinowo sadaka mawɗo o, yalti haa deppodoma o dammgal o, naani Pierre.",0.8824,0.2637
+7,"Gooto e yanooɓe ɗiɗon tontidaaɓe e makko ɓee ana ɲiŋa mo, ana wiya: —Wanaa aan woni Almasiihu naa?",Wana an wani almasihu na,1.0,0.7532
+8,"Ɓe njehi, ɓe tawri hono no o wii ɓe nii, ɓe lanndinii hiraande Paska ndee.","B'en yehi, be tauri hono no wi'be ni, be landini hira'nde paskale.",0.8667,0.2632
+9,"Pool ɓami naɓi worɓe ɓee, yaadi e mumen.",Pauline,1.0,0.8387
+10,"Celliniraaɗo haaynde ndee oo, duuɓi muuɗum ana ɓuri capanɗe nay.","Selli ni raa, haa innde o, duubi muudum ana buri cappande nayi.",1.1,0.2642
+11,"Yimɓe leydi Gerasa fuu ndaardi Iisaa yoppana ɗumen leydi mumen, sabi kulol manngol nanngi ɗumen.","Yimɓe leydi Gambia fuu ɗaari Isa, yo Allah duu'a leydi mun e. Sabu kulol mangol nangi ɗum e.",0.8667,0.3
+12,"Ɗal min ndarna ɗoo buguuji tati: aan wooturu, Muusaa wooturu, Iliyaasa wooturu.","Almander na ɗo buguɗi tati, Anwoutou, Moussa Woutou, Iliyassa Woutou.",0.9167,0.3125
+13,"Nden Iisaa wari darii hakkunde maɓɓe, wii ɓe: —Onon e jam!",Onon e ja,0.8182,0.8409
+14,"Kaa Iisaa, o waɗi ɗum e juuɗe maɓɓe, faa ɓe ngaɗa ɗum ko weli ɓe.",ka isa wajen da muka jima da shi fa in gado dun ko wili,0.9333,0.6042
+15,"Jamirooje makko nganaa donngal, sabi ko iwi e Laamɗo fuu, jaaloto giɗaaɗe yonki.","Jamiro je makoongana dongal, sabi ko iye lamdo fu jaaloto gidaade yimɓe.",0.7692,0.2308
+16,"Ana yiɗaa taalibbo wuurda no moobbo mum wuurdi fuu, maccuɗo duu no kalfaaɗo mum wuurdi.","An yi ɗa ta libu wurɗa numo bu mu wurɗi fu, ma ciɗo du no kalfaɗu mu wurɗi.",1.1333,0.3239
+17,"Homo ɓuri teddude, jooɗiiɗo faa ɲaama naa ɓattinoowo ɲaamdu?",Homa buri teddude? Joodi do faa nyaama naɓɓitinoo nyaam.,0.8889,0.3
+18,"Nde Iisaa nani kaa haala ndee, haaynaa e hooreejo sordaasien oo, yeeƴii yimɓe jokkuɓe e mum ɓee, wii: —Miɗo haalana on, mi yiyaali hono ngal goonɗinal e sellude fay e Israaiilanke.",,,
+19,"Nde Iisaa yii inniraaɗo oo ndee, yurmii ɗum, wii: —Pati woy!",Yurmiidu wi,1.0,0.8
+20,"Balɗe ɗiɗi caggal mum, kuurtungu waɗi ley ngalluure wiyeteende Kaana ley leydi Galili.",Balle di di caggallum kurto maba di leydi Galluure wiyeteene Kaana leydi Gallu.,0.9231,0.2639
+21,Njehee ndoomiroyee yanaande ndee no mbaawru-ɗon fuu!,ye hen domle yana andende numba'uru donfu,1.0,0.3409
+22,"Kaa Iisaa wii: —Piyeer, miɗo haalane: fade ndontoori jogginde hannde a wiyan a anndaa kam cili tati.","ka isa wi'i, Pierre mi do hala ni, faden don tori jogginde hande, a wi'a mi anda kam chili tati.",0.8824,0.2152
+23,"Ɗum saabii homo e mon fuu waaltina hakkille banndum, gooto fuu faaboo goɗɗo banngal goonɗinal, hono no ngollirton nii.",Tum sabi hum wahi munh walte na hakkile bandum. Go to fu faabo goddo bangal gondinal. Hononon gollirtonni.,1.0,0.2577
+24,"Mo goonɗinaali fuu tilike sareede, sabi goonɗinaali Ɓii Laamɗo bajjo oo.",Moggo dinaali futi likisarede. Sabi goddinaali biilaam do bajjo.,0.8182,0.2167
+25,"Nguleefi kii yaltini e majje mboddi, ndi soppi junngo makko.",Wulefuki yelti ne majji mbodi di soppi jungo ma,0.9,0.2857
+26,"Kaa Pool jippii, hippii e makko, ɓami mo e juuɗe muuɗum, wii: —Mbaaltee!","Kaa pol jippi, jippi emako, bami moyi jure muɗum, wi. Mbalte.",0.9231,0.2593
+27,"Ɓee ana ngullana ɗum ɗoo, ɓee too ana ngullana ɗum gaa.",Beye anangulana dum do? Beye to anangulana dum ga?,1.0,0.2791
+28,"Walaa ko o wiiri non, sinaa Iisaa yamirii seyɗaani oo yalta e neɗɗo oo.","Wala ko wirino, sina Isa yamiri sheytani o yalta e neddo.",0.7857,0.2857
+29,"Saabe ɗum, miɗo wiya on: ɲannde darngal, jukkungo mon ɓuran ngo Tirus e Sidon ngoo naawde.","Sabi dum miɗo wiya on, nyande darngal jukungo mon purango tiruuji e sidoo goonaawu.",0.625,0.2254
+30,"Ana tilsi pelle-pelle ngaɗa hakkunde mon, yalla hoolniiɓe jaati wonɓe e ley mon ɓee ana annditee.",Ana tilli si pelle pelle ngada hakkunde mon. Yalla holli be jaati wonbe leydi mon be ana andite.,0.75,0.1899
+31,Sabi miɗo nii golla golle e ley wakkati mooɗon.,Jaggal Paul e Barnabas njalti wajordu jama'a on dardibe yobe ngartu fofteteene waroore yalla ebe njokke,1.7778,1.8684
+32,"Laaci maggal wuuwi tatoɓere koode kammu, wedii ɗum e leydi.","Laji magal wuu itatobere kode kammu, wedidum e leydi.",0.7,0.1667
+33,On fuu yo on keɓu jam onon yimɓe Iisaa Almasiihu ɓee!,,,
+34,"Kaa neɗɗo fuu jiɗɗo Laamɗo, Laamɗo ana anndi ɗum.",ka net fujji do lamdo lamdo ana andi dum,0.8889,0.3333
+35,"Ɓe fuu ɓe mbemmbaa, ɓe cikkitii, ɓe mbiyondiri: —Koɗum ɗum foti laataade?",Ko dum dum foti laataade.,0.8333,0.6667
+36,Oɗon njiɗi mi yoppitana on kaananke Yahuudiyankooɓe oo naa?,O njidim yopitana on kana ke Yahudiyankobe o,0.8889,0.3
+37,"Nde ɓe tilinoo ɲaagaade Laamɗo ndee, nokku ɗo ɓe kawritinnoo ɗoo dimmbii.","Jibitirno nyaga di lamɗo nde, nokku ɗo be kawritirno ɗo dimbi.",0.8333,0.3333
+38,"Nelaaɓe sappo e ɗiɗon ɓee noddi jamaa goonɗinɓe oo fuu, mbii: —Minen, yoppude konngol Laamɗo, min kiinnoo jakkaade hiraande, sellantaa min.","Minen, yo pure kongo lamdo, min kinno jakara hirande selanta min.",0.9048,0.5714
+39,O waɗi ɗum hakke ɲalaaɗe ɗe jomen annde ɓee ndokki mo taƴoral mum ɗee.,O wadi duuhaake nyalaade e jom e ande be ndokki mo tajoral munde.,0.7857,0.2857
+40,"No anndirten ko woni jilli dee, Almasiihu hokkitirii yonki mum kammari men.","Anger tanko wani jillide, Almasihu ya kittiri yonki mon kamari men.",0.8333,0.2742
+41,"Saabe majjum, haala mbonka ɓe kaalata, aduna oo ana hettinanoo ɓe.","Sabe majumala bonka be kalata, aduna o ana hittinano",0.8182,0.2264
+42,"O jaabii ɓe, o wii: —Onon nee, koɗum waɗi so oɗon luutta yamiroore Laamɗo ndee faa njokkon neesu mooɗon?","O jaa yiibi, o wii onon ne ko dum waɗi so on lutti yamirore laamɗo nde faanjokkonneesu moɗon.",0.6842,0.1481
+43,"Ɓoornotooɓe kaddule lobbe so nguura nguurndam lobbam ɓee, e cuuɗi kaanankooɓe tawetee.",,,
+44,Ɗiin luutti kaɲumen njippinta tikkere Laamɗo e dow saliiɓe goonɗinde mo ɓee.,Diin lutti kanyum en jippi nder tikket Kerala do e do sali be gondi de mobe.,1.25,0.3438
+45,"Sabi ɲalaaɗe ngaran nde yimɓe mbiyata: «Rewɓe rimarɓe e deeɗi ɗi caawaali abada e enɗi ɗi muyninaali, mbelii hoore!","Sabinya la dingara, de yimbe biyata, rewbe rimar be e dede di cawali abada, e endedi muyninali mbeli hore.",0.8947,0.2473
+46,"Miin Pool e Timote, maccuɓe Iisaa Almasiihu, mbinndi oo ɓataaki faade e deental goonɗinɓe Iisaa gonngal ngeenndi Filipa.","Min polle Timote, maccebe Isa almasihu, mbindi o bataaki faade dental go'ngal Isa gongal, ngendi Filippi.",0.8889,0.25
+47,Ɓe ngaɗanii kam ko onon on mbaawaa waɗande kam saabe waasude mon taweede.,En gaɗa ni kam ko onon on bawa liwaɗe kam saɓe wasude mon tawe.,0.6154,0.25
+48,"Iisaa yalti, fai waamnde haayre wiyeteende Jaytun no o woowiri nii.","Fii iyyalti, fuɗɗi wamde hayre wiyeteende zaitun no wowirini.",0.8182,0.2727
+49,"Jooni eɗen njeyaa e goongaraajo oo, sabi eɗen ɲiiɓi e Ɓiyiiko Iisaa Almasiihu.",Yoni e den jiya e gonga rajo o. Sabi e den nyibe bi ko Isa Almasihu.,1.0769,0.3281
+50,"Kasen duu, Baabiraaɗo nelɗo kam oo hoore seettantoo kam.",Kasan du? Ba bi raɗo nyelɗo kam o hore settantoka.,1.1111,0.2174
+51,"O darni koyngal makko ɲaamal dow geeci, o darni nanal dow njoorndi, o eewnii daande toownde no rawaandu ladde uggirta nii.",,,
+52,Sabi ɗum gasataa no kasunke neldirtee kaananke mawɗo oo tawee ko nanngiraa koo hollitaaka faa laaɓa.,"Sabbeekum gassaa ta'e, nokasoon kee neldirte, kaanan kee maudo'o ta'e ko nangira ko hollita kafa la'a.",0.9375,0.2857
+53,"Publiyus, hooreejo ruunde ndee oo, ngesa muuɗum ana e sera nokkuure ndee.",populace,1.0,0.9153
+54,"Yoga e hooreeɓe leydi Asiya, yiɓɓe makko, neli e makko ana ndaarda mo pati o naata boowal too.","Yaga hore biladi Asiya yibe mako, nile mako anan da'arda mu fati onatu bowalto.",0.9444,0.2703
+55,"Nde wonnoo jaangol ana heewi, gollooɓe e doomooɓe kuɓɓiino yiite ana ƴuwloo.","Nawru no jangol ana heewi, gollobe domobe kubbinoyite ana juwlo.",0.75,0.2857
+56,"Iisaa yeeccitii, yii eɓe njokki e mum, wii ɓe: —Koɗum tewtaton?",Ko dum tewtaton.,0.9091,0.75
+57,"Yahuuda nanngu lonngere ndee tan, yalti oon wakkati fuu.",Yahuu fi nannu gurguree taan yaaltii onwakkatiif,1.0,0.3696
+58,Annii ko mbiyan-mi felooɓe kam ɓee: min kaandaa e heɓude ɲaamdu e yardu e ley golle amen naa?,"Anni kombiya mi felobe kam be, min kanda e hebude nyamdu e yardu e legolle amin na",0.6667,0.1918
+59,"Ɗum hawri e wakkati lanndinal Yahuudiyankooɓe, tawi yanaande ndee ana ɓadii, ɗum waɗi so ɓe ndesi Iisaa ɗon.","Dum havre awa katillandi na liya ho diankoobe, tawi yanaani de ana badi. Dum wadi so be ndesi Isa don.",0.8889,0.2727
+60,"O yii malaaikaen ɗiɗon ɓe kaddule daneeje ana njooɗii ɗo tew Iisaa oo resanoo ɗoo, gooto ɗo hoore ɗoo, goɗɗo oo to koyɗe too.",,,
+61,"No Joomiraaɗo yaaforii on nii, njaafondiron.","No jo mera diya hua ri oni, jaa fundi ro.",1.5,0.3784
+62,Eka ɲeɲaa ɲeɲugol Tooruuji Puneeji.,Aka nyanya nyenyigol toroji puneji.,1.0,0.5
+63,"Debbo oo dogi yehi ley ladde, nokku ɗo Laamɗo moƴƴinannoo ɗum.","Dabbo doggi yehi ley ladde, nokku do lamdo mojjinanno",0.6364,0.26
+64,Oɗon noddira kam «Moobbo» oɗon noddira kam «Kalfaaɗo».,Oɗon noddira kam mobbo. Oɗon noddira kam kalfaada.,0.25,0.0714
+65,"Kaa nde wonnoo omo anndi miilooji maɓɓe, o wii mo junngo mum waati oo: —Imma, dara hakkunde yimɓe!","Kani wonno mande miloji mabbe, wimo jungo wati o imma dar hakunde yimbe.",0.9444,0.3026
+66,O haalanaa inna makko e miɲiraaɓe makko ana ndarii sella ana njiɗi yiide mo.,Hala ni ina mako miya mako ana ndari sella ana njidi yide.,0.7857,0.3065
+67,"Nden binndoowo ngalluure ndee deƴƴini jamaa oo, wii: —Onon Efeesunkooɓe, homo woni mo anndaa ngalluure Efeesu ndee woni hayboore rewrudu Artemis deweteeɗo mawɗo oo, kaɲum e natal muuɗum iwrungal dow kammu ngal?",,,
+68,"Balɗe seeɗa caggal muuɗum, Agirippa kaananke oo e Barniki ngari Kaysariya jowtude Festus.","Walli se'a da can garruɗum a girpa, ka nan ke o e barniki, ngari kaisira jowtuɗe festus.",1.0,0.24
+69,Nden moƴƴere o hokki en saabe Ɓiyiiko korsuɗo oo.,Nden mo'yere o hokki en sabi biko ko sudo o.,0.6667,0.25
+70,Sabi nii Binndi ɗii mbiiri: «Homo anndi anniya Joomiraaɗo oo?,Homa andi aniya jomiraado,1.0,0.5918
+71,"Tama on anndaa daɗondirteeɓe ɓee fuu yo dogooɓe, kaa gooto tan heɓata deesewal?",Ta ma on anda.,1.0,0.8462
+72,"Njoɓdi am, ɗum woni seyo am ko mbaajotoo-mi Kabaaru Lobbo meere meere koo, tawti e ko mi lamndataako ko waajotooɓe Kabaaru Lobbo oo ɓee poti heɓude.",,,
+73,Tama on anndaa halfinaaɓe golle ittirde sadaka ɓee ana keɓa ngeɗu mumen e mayre?,"Tamam, anda. Halfinna be golle ittirde sadaka be anake bange dum mum be de mayi",0.8571,0.2273
+74,Iisaa yalti ana roondii leggal mum bardugal faa yottii nokku biyeteeɗo Laalagal Hoore .,"Iisa yalti ana rondi legal mum bardugal, fayoti nokku biyetedo Lalagal Hoore.",0.5385,0.137
+75,"Yimɓe wonɓe e aduna oo ɓee fuu cujidanan taktakol ngol, ɗum woni neɗɗo fuu mo innde mum tawaaka ana winndii gila e diidugol aduna oo e ley dewtere nguurndam ndee, dewtere Njawdiri kirsanoondi ndii.",,,
+76,Sawru naa jilli e newaare?,सावना गिल एनेवारे,1.0,1.0
+77,"Nde ɓadinoo weetude ndee, Pool ndaardi ɓe fuu ɓe ɲaama, wii: —Hannde woni balɗe sappo e nay oɗon kettii on ɲaamaali fay huunde.",wi,1.0,0.98
+78,"Sinndo mi gollaalino ɗii golleeji ɗi fay gooto meeɗaali gollude yeeso maɓɓe, ɓe ɲiŋataakeno.",Cindo mi gollali no di golleji di faygoto me'ada golli de yeso mabbe be nyngataake.,1.0,0.3117
+79,"Sakiraaɓe am horsuɓe, pati torra ittoowa koro mon naawnoowa hono no yiite nii haayno on, hono no huunde nde haanaa wardi e mon nii.",,,
+80,"Ɗum metti ɓe sanne, hedde eɓe piya dabare no ɓe kaani waɗude Iisaa.",du m'a tu es ça ni,1.0,0.8491
+81,Hono non Yaakuuba e Yuhanna ɓiɓɓe Jebede reentuɓe e Simon ɓee duu kaayniraa.,"Wana no Yaakuba e Yuhanna, ippe jabede reentube e Simon Beedu kaynira.",0.6923,0.2222
+82,Durooɓe ɓee ndogi njantanoyii ngeenndi ndii e seraaji mum ko hewtii ɗumen koo.,Duro bebe dogi njanta noyi ngendi seraji mum ko hewti du'en ko.,0.8462,0.2769
+83,Daande nde nan-mi ndee ana wai no dillere fiyooɓe kolli mumen nii.,Daande ninamminnde ana waawi noddillere fiyoobe kolli mum en ni.,0.8333,0.1887
+84,Piyeer sunaa sabi jooni woni cilol tataɓol ko Iisaa wii mo «Aɗa yiɗi kam naa?,"Piyaru Suna, sabi joni woni chilo tadebol ko Isa wimo, ara yidi kam na",0.7333,0.2623
+85,"Faa hiiri, gorko arsukunte jeyaaɗo Arimatiya wari.","Fahiri, gorko arsukunte giyaado, arima ciya wari.",0.7143,0.1429
+86,"Nde weetunoo ndee, ɓe coynii leydi, kaa ɓe annditaali ndi.","De wet noa de, be choy ni leydi, ka be andi taa ni.",1.2,0.3261
+87,Aleksandere huncani ɓe junngo faa jinngana yimɓe muuɗum ɓee.,Alexander hunce ni be jungofa jingana yimbe mudumbe.,1.0,0.2549
+88,"Piyeer wii mo: —Kalfaaɗo, mi lanndinike naɓdeede e maa kasu e wardeede e maa!",Piarimu. Kalfado.,1.0,0.8167
+89,"Saruku ɓii Ragawu, Ragawu ɓii Faleka.","सरुहु, ई रागहु रागहु ई फले",1.0,1.0
+90,"O jaabii: —Goonga, Moobbo, aɗa anndi miɗo yiɗu maa.","Gonga, mobbo ada andi miɗo yiɗuma.",0.8889,0.3158
+91,"Kaa laatike tilsere ngolliran-moo-mi, mo golle mo kalfinaa-mi.",काला से तिल से रंगोली राम मोमी मो गोली मो कलफिनामी,1.375,1.0
+92,"Ndennoo, ko min njii e ko min nani min kaalanta on onon duu, yalla oɗon ndeentira e amen hono no min ndeentiri e Baabiraaɗo e Ɓiyum Iisaa Almasiihu nii.",,,
+93,"Fay so yettugol maa ngol ana wooɗi sanne, ngol nafataa joomum.",Fais-toi une belle mangue et un avocat dimanche.,1.0,0.78
+94,"Ɓii Neɗɗo oo duu warii ana ɲaama, ana yara, yimɓe mbii ɗum: «Ɲaamde e yarde tan woni e hakkille mum, o giɗo duwaaɲeen e luuttooɓe hono mumen!",Bi'i na o du wari ana nyama ana yara. Yimbe bi'idum nyamde e yarde tan woni hakkille mum. O gido duwa nyen e luttobe hono mum en.,0.6296,0.211
+95,ɗe podannoo-mi Daawuuda ɗee.,"Don't worry, so we",1.0,0.7826
+96,"Jooni kaa, o waddii fay Yunaninkooɓe e ley Suudu Dewal Mawndu nduu.",Joni ka o wadi ifa yuna ni nkobe eleyi sudu dewa maununu.,0.9167,0.2407
+97,"Jamaa garnooɗo ƴeewde oo fuu, nde yiinoo ko waɗi koo ndee, wirfitii terɗe mum ana mbaati.","Yama gar no do cewdi ofu, de yi no ko wadi konde, wirfiti terde mu ana baci.",1.0,0.2958
+98,"O ɓattii Pool, o yamiri Pool nanngee, o wii haɓɓiree calali ɗiɗi, o lamndii kaɲum yo homo e koɗum waɗi?",,,
+99,"Hirudus yiɗi warde mo kaa suusaano yimɓe ɓee, sabi ɓe fuu eɓe njogorinoo Yaayaa yo annabaajo.","Hireddu si yiri warde mo, ka susano yimbe be. Sabbe fu ebe jogori no yaya yo annabaajo.",0.8125,0.2368
+100,E junngo am jaati mbinndiran-mi ngoo ɗoo jowtaango: miin Pool miɗo jowta on.,jungwa mbyati mbinirami ngodo jotango minpol mido jota,1.0,0.3115
+101,"Gaɗoowo ko boni fuu, heɓan mbarjaari golle mum bonɗo oo, sabi Laamɗo ɓurdintaa yimɓe.","Gado ko bonifu, heba mbarjari golle mum bondo o, sabi lamdo burdinta yimbe.",0.7143,0.2174
+102,"Kaa jaɓɓiiɓe mo so ngoonɗini mo ɓee, o hokkii ɗumen baawɗe laataade ɓiɓɓe Laamɗo.","Kadi jippibemo, songondinmobe, ohokidum en bawde latare bibbe lamdo.",1.0,0.3788
+103,"Nde ɓeen ƴeewi kabaaru am ndee, njiɗiino yoppude kam, sabi ɓe tawaali e am fay daliili gooto kaanɗo warde kam.","Ben yayi kabaru amde, njidi no yopde kam, sabi be tawali e am fayda dalili goto kando warde kam.",0.7,0.2727
+104,"So non, pati haaɗu e koyɗe am tan, lootu juuɗe am e hoore am duu.","Sonon fatiha do ko'e am tan, lotu juude am e hoore am",0.6,0.25
+105,"Mi winndanii on haala majjum no raɓɓiɗiri, so on njanngii ɗum on anndan no paamir-mi sirri haala Almasiihu oo.",Mi windani on hala majjum no rabbi diri. So on jangidum on andan no paamirmi sirri hala almasihu.,0.5263,0.1685
+106,"Laatee yurmotooɓe, no Baabiraaɗo mon oo laatorii jurmotooɗo nii.",Laate jurmotobe. No babiraado mon o laaturi jurmotodon.,0.7778,0.2407
+107,"Eɗen anndi en keɓii ko nduwi-ɗen koo, nde wonnoo eɗen anndi omo jaabanoo en duwaawu men.","Eɗen andi en keɓii konduidanko, ne wonno eɗen andi o mo jaabano en duawumen.",0.75,0.1571
+108,"Omo yeewaa on fuu, kasen o wemmbanooma sanne ko nan-ɗon o sellaano koo.",オマエワオンプカシンオベンマノマサンネコンナドンオセラノコ,1.0,1.0
+109,"O tawi ɗon dooyoore, yimɓe ana mboya, ana conkina semmbe.","Wota bidon do yore, yimbe ana mboya ana conkina sembe.",0.6,0.1556
+110,"O tilaaki haalde, faa Yahuuda, gooto e sappo e ɗiɗon ɓee, yottii ana wondi e yimɓe heewɓe jogiiɓe kaafaaje e cabbi.",O cillaa ko halde faa yahude gooto e sappo e dido be yotti ana wondi e yimbe hewbe jogii be kaafaaje e cabbi.,0.5238,0.1758
+111,Heewɓe e yimɓe leydi ndii njehi Urusaliima faa cenna koe mumen gila iidi oo yottaaki.,Haa o baa'ii mo ladde nii njeyi Urusaliima faacenakko'en gila iidi o yottaaki.,0.8,0.3
+112,"Yamiroore makko yo goonɗinde Iisaa Almasiihu Ɓiyiiko oo, kaɲum e yiɗondirde hono no o yamiri en nii.","Yamirorémma ko yoo goondinnde Iisa Almasihu bii ko o, kanyum e yidde hono no o yamiri en ni.",0.7059,0.2561
+113,"Haaltude ko Laamɗo loowi e men koo ana timma, ɗemɗe ana timma, anndal ana timma.","Haal to dekollaam ɗo loowi emen ko anattimma, emde anattimma, andal anattimma.",1.0,0.1429
+114,"Iisaa jokkini hen, wii: —Oɗon njoppa jamirooje Laamɗo ɗee, oɗon njokka neesuuji yimɓe ɗii.",,,
+115,Nden ngol ƴoɲɲugol cakitiingol ɓuran aranndeewol ngol bonde.,"Nde'en ngol, jonnygol, cakkiti ngol, buran arande wol ngol bonde.",0.875,0.1923
+116,"Ɓe njaabii, ɓe mbii: —Won wiyooɓe a Yaayaa mo lootogal batisima, won wiyooɓe a annabi Iliyaasa, won wiyooɓe kasen a annabi Yeremiya naa gooto e annabaaɓe ɓee.",Punjabi,1.0,0.9603
+117,"Naɓuɓe mo ɓee naataali huɓeere ndee, sabi so ɓe naatii nde, ɓe coɓan, ɓe ɲaamataa ndeendi iidi Paska ndii.","Sabi sobe nati ne, be coban be nyamata dendi idi paskandi.",0.9474,0.5238
+118,"So luurral waɗii hakkunde mon, hono joomumen cuusirta wullitaade ooɲiiɓe ɓee njoppa fooccitiiɓe ɓee?","Joolu rallu waɗi hakunde mon, hono joo muɓɓen cuusirta wullitaade oñiɓe ɓe, joppa focci tiiɓe ɓe.",0.8571,0.2
+119,Engol tinndina yimɓe aduna moƴƴina tooru nanndundu e taktakol barminiranoongol kaafaawi faa hosi waatude kaa ana wuuri ngol.,"Ngoluthini na ngeli xesha aduna, mna inathoro nandonu etakutakol barminira no ngolukafawi fahosi watude ka anawuringol?",1.0,0.2925
+120,"Iisaa jaabii mo: —So neɗɗo ana yiɗi kam, jokkan konngol am, Baabiraaɗo am yiɗan ɗum.","So nyaɗɗo ana yiɗi kam, jokkan kongol am, baabiraaɗo am yiɗan ɗum.",0.3333,0.2462
+121,"Kaa jooni, e haɓɓagol mooɗon e Iisaa Almasiihu, onon woɗɗunooɓe arannde ɓee on ɓattiniraama saabe ƴiiƴam makko ɗam.","Ka yori, e haɓagol muɗon e Isa Almasihu, onon woɗɗunooɓe arandeeɓe, on baatinira masaɓe iyyam makko ɗam.",0.6111,0.2211
+122,"Kaa onon, oɗon anndi mo sabi omo wondi e mon, omo e mon.",ka onon odon andimo sabi umu wondi emon omo emon,0.6923,0.122
+123,"—So ɓooyii seeɗa, on njiyataa kam, so ɓooyii seeɗa kasen, njiyon kam.","Saboi sai a hada, on ji ta haka. Saboi sai a hada kasin, ji on ka.",1.25,0.5094
+124,faa terɗe am duu mbaaltoo dow jikke.,Fati ardamdu mbalto do jicci.,1.0,0.4138
+125,"Ruuhu Ceniiɗo, Balloowo on mo Baabiraaɗo neldirta on saabe am oo, kaɲum anndinta on kulle fuu.",Ruhuje niro ballo on mo babira neldita on sabi am o kanyum andinta on kulle fu.,0.625,0.25
+126,"Mi torrii ɓe cili keewɗi e cuuɗi baajorɗi ɗii fuu, mi tilsinii ɓe mbonkoo Joomiraaɗo.",,,
+127,"So ɗum waɗii, wanaa ɓe ɗiɗon fuu, ɓe caaman ley ngaykaare naa?",so don wadi wana bidi don fu da ciamalengay karina,0.9167,0.3958
+128,Ɲaagee Laamɗo yalla miɗo waajoroo oon goonga tedduɗo no haaniri nii.,Yake lam yalla mi do wa yoro on gonga teddudo no hanirini.,1.0,0.2807
+129,"«Anndal» nee waddan mawninkinaare, jilli ngoni ko naɓata deental goonɗinɓe ngal yeeso.",Dental ne wadda mauni kinare. Jillingo ni ko nabata dental gondi bengali yeso.,1.0,0.2254
+130,"Caggal ɗeen balɗe, min lanndinii, min ŋabbiti Urusaliima.",Ni London ni ni ngabiti Udu Salim.,1.0,0.5532
+131,"Yahuudiyankooɓe goonɗinɓe wardunooɓe e Piyeer ɓee fuu kaaynaa, no dokkal Ruuhu Ceniiɗo ngal saakorii e yimɓe ɓe nganaa Yahuudiyankooɓe nii.",Yahudiyankobe gondinbe wardunobe piyarbe fu kaina no dokkal ruhi cheni doggal sakori e yimbe be gana yahudiyankobe ni.,0.85,0.2797
+132,"Eɓe nanndi e sukaaɓe jooɗiiɓe e luumooji, ɓee ɗoo ana mbiya ɓee too: «Min piyanii on cereeli.",,,
+133,No Iisaa selliniri gorko paho mo haala mum laaɓaa.,"Onon du, edum finkini onna, onupa mali ko iwata salla so nata i hunda ko neddo ko sobinta jomum. Sabi dum nata le bernde jomum.",2.7778,1.878
+134,Iisaa jaabii ɓe: —Wakkati mo Laamɗo hollata teddeengal Ɓii Neɗɗo oo yottike.,Wakkati malamdo hollata teddungal bi neddo o yotti,0.8333,0.4032
+135,Kaa o darii omo tewta memɗo mo oo.,ka odori omotete memu domo,1.0,0.3462
+136,"Wakkati fuu omo soobii e duwaawu saabe mooɗon yalla oɗon ɲiiɓa e ley kiɓɓal, timminon muuyɗe Laamɗo fuu.","Wakkati fu'o masoobi e du'a usabe modon, yalla o don yi'a be leki bal timminomuyde lamdo fu.",0.8333,0.2706
+137,Oo kabaaru saakii e leydi Yahuudiya e seraaji mum fuu.,Aka baru saki lady yahudi Israeli mu,1.0,0.4545
+138,"Ɓiraaɗam ndokku-mi on, wanaa ɲaamdu tekkundu, sabi on mbaawanaano ndu.","Mera dam doku mi on, wana nyandu tekkuɗo. Sabi on bawa naanuɗo.",0.9,0.3333
+139,"Iisaa jaabii mo: —So wanaa Laamɗo hokku maa baawɗe, a waawaano e am fay huunde.","Soo ana laamu hukuma baude, awaano e amfani hunde.",0.9333,0.459
+140,"Piyeer haali, tekkini, wii: —Fay so tilsi mi maaydan e maa, abada mi wiyataa mi anndaa ma.",Pierre Hardy,1.0,0.8824
+141,"Oon hokkata terɗe ɗee fuu ko kaajaa, hawrintinira ɗe jokkolɗe e ɗaɗi.","Oon hokkataa fuuɗu kaaja, hauri tiniraaɗe jokkonɗe e ɗaɗi.",0.75,0.2679
+142,"Caggal ɗum, Iisaa yottodii e maɓɓe nokku biyeteeɗo Gecemane, wii ɓe: —Njooɗee ɗoo, faa mi waɗoya too duwaawu.","Galle um, i sa yottide mabbe noku biyetedo Gece mani, wi'e jode do, fami wado to dua.",1.0,0.3837
+143,"Aawdi ndi aaw-ɗaa fuu, sinaa waata so fuɗa.",Hao jin di outa fu sina wata so,1.0,0.4545
+144,"Nde kiikiiɗe alan warnoo ndee, taalibaaɓe Iisaa coki baafal dow hoore mumen nokku ɗo ɓe kawriti ɗoo, saabe kulol hooreeɓe Yahuudiyankooɓe.","Nekkiin keessaa aadaa warra Noondee, taaliibaa beekkamaa Iisaa Chokii Baafalduu hooreen en nokkudha beekaa wurtiddoo. Sabakullu hooree beeyahuudiyankoo",1.0,0.4174
+145,"Pati ndurdon nde tilsere, ndurdon nde ɓernde laaɓunde no Laamɗo yiɗiri nii.",,,
+146,Iisaa e hoore mum ana anndi to Laamɗo iwri to Laamɗo hootata.,ኢሳ አሁን አና አንዲት ላም ነው ኢውሪ ላም ነው ሆታታ,1.0,1.0
+147,"O jaabii, o wii: —Miin woni «ooynotooɗo ley ladde jeereende so ana wiya: moƴƴintinee laawol Joomiraaɗo», hono no annabi Esaaya wiiri nii.",,,
+148,"Taalibaaɓe ɗiɗon ɓee nani ko o haali koo, njokkitii Iisaa.","Tali baɓe ɗi ɗon mɓe nani ko o hali ko, njokiti Isa.",0.9,0.2128
+149,"Ngel welan e hunduko maa no njuumri nii, kaa ngel wulnan reedu maa taw.",गेलवेला होऊन कोमानून झुमरीणी,1.0,1.0
+150,"Nde o hokkitirnoo hoore makko ndee, nden o wurjini kokowol palaangol ngol, ɗum woni o ittii ngaɲaandi hakkunde leɲi ɗii.",,,
+151,"Joomiraaɗo ana ɓanngina baawɗe mum e makko, omo sellina ɲawuuji.",Yau muna ɗan gina baude mu ƴan makko.,1.0,0.6604
+152,Ngol hokkaa baawɗe laamaade suudu baaba fuu e jaaleɲol fuu e ɗemngal fuu e leɲol fuu.,"Ngol haa ka baawɗe laamu lesdi Baba Fu, e jaalnyol fu, e demgal fu, e lenyol fu.",0.75,0.2899
+153,"Ɗum waddani mo laataade curoowo hakkunde yimɓe e Laamɗo ley aadi keyri ndii, yalla noddaaɓe ɓee ana keɓa ndonu keddotooɗo faa abada mo Laamɗo fodi oo.",,,
+154,laatiinde haayre ɓurnde fuu teentilaade e maadi ndii.,Laatiɗo haire ɓurɗo fuu tentilaade e maadiɗi.,0.75,0.2889
+155,"» Kaa Iisaa wiyaali mo maayataa, ko o wii dee: «So miɗo muuyani mo nguurndam faa nde ngartu-mi, koɗum hillu maa hen?",,,
+156,"Kaa kammari Yahuudiyankooɓe ɓee caliima mi yoppitee, ɗum waddani kam ɲaagaade sariya am ɓettinee naɓee to kaananke Roma mawɗo oo, tawee mi happaali leɲol am ngol fay huunde.",Ka kamariya hoode an ko be be chali ma mi yopite. Don waddani kam nyagaade sariya am bettine nabe to kaanan ke Roma mawdo o. Taya mi happali lenyol am gol faihune.,0.8571,0.2448
+157,"Iisaa wii ɓe: —Kakkilee, ndeentee e ƴuufinirdi Farisaen e Sadukien ndii.","Iisa wiiɓe, ""Kakkilay, ndente en juufnir diina Islaamu en e sadakii en.""",1.0,0.3448
+158,"sabi omo ɲaamo am, pati mi yeryerta.",Sabhi umnyamo amaphethi miyariyar.,1.0,0.5
+159,"Mo seyɗaani mum ribbaa oo, ndaardi Iisaa acca o jokka e mum.","Wushayi da ni mu ribba o, da ni isa a ce o jokko e mu.",1.0833,0.4043
+160,"Nde Pool tilinoo haalde ɗum ndee, kaɲum e maɓɓe fuu ɓe ndiccii, ɓe nduwii.",de poltino hali dumde kanyum e mabbe fu ndicci be nduwi,0.9286,0.3621
+161,"Ɓe njokkitii mo, ɓe miili o woyoyan dow yanaande too.",Dejo que timo.,1.0,0.8333
+162,"Waajuuji ɗi mbaajii-mi on ɗii fuu, mi waajortaako ɗi hiini hoore am.",,,
+163,Sabi heewɓe laatike konneeen leggal bardugal Iisaa Almasiihu.,Sabiya belata ke konne en legal bardugal Isa Almasihu.,1.0,0.2264
+164,"—Sakiraaɓe e baabiraaɓe, kettinee jooni faa mi fammina on mi waɗaali ko boni.",,,
+165,"Ruuhu oo duu hollata ɗum, sabi Ruuhu oo woni goonga.",সবাই রুহ ও ধ্বনি গং,1.0,1.0
+166,"Pool ana yiɗi naatude hakkunde jamaa oo, kaa taalibaaɓe ɓee kaɗi mo ɗum.",Boko ne na cewa ni jama'o ga taliba be kadi mu.,1.0,0.569
+167,"Nasuuna ɓii Aminadaabu, Aminadaabu ɓii Adamin.",Na suna bi Amina Dabu Amina Dabu bi Adamu,1.5,0.2308
+168,"Nde taalibaaɓe ɓee lummbata weendu nduu ndee, njeggiti yooɓaade ɲaamdu.","Taali baa be lumbe taa weendu de, njeggiti yoobata nyamku.",0.9,0.3833
+169,"Kasen duu so ɓerɗe men pelii en, en mbaaltinan ɗe yeeso Laamɗo, sabi Laamɗo ɓuri ɗe manngu, kanko woni annduɗo huunde fuu.","Kasan du soɓeerde men Peli en, en baltinannde yaaso lamɗo. Sabi lamɗo buri ɗe mangu. Kanko woni anduɗo huunde fuu.",0.5909,0.1649
+170,"O jaabii, o wii: —Miin woni kanko.","O jabi, o wi, miin woni",0.4286,0.3333
+171,"Kaa ɓe ɓeydii wullude gullaali mawɗi, eɓe mbiya o tontee.","Kaa be beydi wullude gullaali mawɗi, eɓe mbi'a",0.5,0.2391
+172,"Ɗee kulle fuu e yuɓɓondirde hono nii, yottinooɓe sadaka ɓee ɲannde fuu ana naata ana njalta to suudu aranndeeru too faa ngolla golle mumen dewal Laamɗo.",de kulle fu e yubbindirde hononi yottinobe sadaka be nyande fu anannata ananjaltato suudu aranderuto fangolla golle muyen de wallam,0.8077,0.184
+173,Taalibaaɓe makko ɓee lamndii mo: —Koɗum ngol banndol firritata?,Taali wa makko be landi mo. Ko dum woni bandol,0.8889,0.4423
+174,"So ɗum waɗii, joomum bonnan kesal ngal, tawee fetalaare ittaande hen ndee yaadataa e kiinngal ngal.",ኢሳያልቲ ይህ ዱዓኝ ጎአታን,1.0,1.0
+175,"Awooɓe yaltuɓe e majji ɓee, ana lalla bubbi mumen.","A woppi yaltude majjibe, ana lalla bubbi mum'en.",0.5556,0.175
+176,"Nde Apollos wonnoo Korintu ndee, Pool jokki laawol haayre, yehi Efeesu.","Apolos wano Korinti de, Paul jokila wul hayiri, yehi Efes.",0.9091,0.3448
+177,Sabi Ɓii Neɗɗo oo wardan e malaaikaen mum e ley teddeengal Baabiraaɗo mum.,Sabi bi innde o warden e mala'ika'en mum e leydi dengal babiraaɗum.,0.6923,0.2459
+178,"Min nanii haala makko, min njiirii mo gite amen, min taykike mo, min memirii mo juuɗe amen.","Min nani hala mako, min jiiri mo gite ameen, min tayki ke mo, min memiri mo jude ameen.",0.5882,0.1408
+179,"Nde ɓe tewti faa ɓe mbara Pool ndee, tawi hooreejo sordaasien oo humpitike Urusaliima fuu ana darorii koyngal gootal.",,,
+180,"So oɗon miiloo huunde wonnde, Laamɗo ɓannginanan on ɗum.","So Romilo hunne wonde, lamdo banginanan on",0.7778,0.3261
+181,Kaa saakinooɓe ɓee naati e yiilaade ana mbaajoo Kabaaru Lobbo oo.,Gaa saaki not be naati a yilaade anambajo kabaaru lobbo.,0.8182,0.2222
+182,"Ɓe mbii: —En kaajaaka seedee hankasen, nde wonnoo o haaldii hunduko makko, en fuu en nanii!",Bambi.,1.0,0.9437
+183,"Hono non, onon duu, so on njottinirii kabaaru oo ɗemɗe Ruuhu tawa ko famminii fuu walaa hen, hono paamirte-ɗon?","Ono non onon du, so nyottu nyiri kabar o demde ruuhu tawa ko fammini fu wala hen. Ono palmirte do",0.6842,0.2273
+184,"Kaa miin, mi jataaki nguurndam am e maayde am fuu so mi heɓii yottinirde golle mo Iisaa Joomiraaɗo halfini kam oo seyo.","Ka min mijataa ke ngordam am e mayde am fu, so mi heɓi yottinirde golle mo Isa Joomiraaɗo halfinikam o",0.5909,0.1667
+185,"Saabe ɗum, sakiraaɓe am horsuɓe, ngoɗɗee dewal tooruuji.","Sabi ɗum saƙiraaɓe hursuɓe, ngoɗɗi dewal tooru.",0.75,0.2391
+186,"Ɓe ndarii eɓe ngullanoo mo, eɓe mbiya: —Min tawii oo ana jirkita leɲol amen, ana haɗa ɗum yoɓude kaananke Roma oo lampo, ana wiya hoore mum yo Almasiihu, ɗum woni kaananke.",Ender e e ngullanoo mu ebe biya min tabiyo ana jirkita lenyol amen ana haddu e yobude kaananke roman o lamp ana wiya hore mu yo almasihu dun woni kaananke.,0.6129,0.1852
+187,"Caggal ɗum, Laamɗo daalii ɓe ley koyɗol pati ɓe mbirfitoo to Hirudus, ɓe kootiri leydi maɓɓe laawol gonngol.","Jaggaldum, lamɗo Daali be leydi Koyel Fitiir biirfito to Hiri Duus, be kootiri leydi maɓɓe lawol",0.8333,0.3068
+188,"E ley ɗum, o daalii ɓe daaloore sattunde pati ɓe kaalana ɗum fay gooto.","Be laido, o dali be dalo re satunde, pati be kalna dun fei go.",0.9286,0.3929
+189,"Ndennoo, koɗum waɗi so oɗon nguurda no jeyaaɓe e oo ɗoo aduna nii?",den no koɗum wadi so oɗon gurda no geyaɓe oɗo aduna ni,0.6923,0.2115
+190,"Won ko njiɗu-mi yamirde on kasen, haala no kawritirton.",Hong Kong 22 mai à merde en cuisine.,1.0,0.7045
+191,"Hono non, tutuɗo oo e jarnuɗo oo fuu nganaa hen fay huunde, Laamɗo mawninoowo oo tan woni fuu.","Hôn nhân, từ năm 2011 đến năm 2015, làm người mẫu và đóng phim",1.0,0.8378
+192,"Nden, neɗɗo fuu nodduɗo innde Joomiraaɗo hisinte.",den,1.0,0.9268
+193,"Taƴoral, hakkillaaji mon ana ngonnoo e am, kaa on keɓaali yottinde ballal ngal.",ta yoral hakila jimon anangonno e am ka onkebali yutin de ballangar,0.8462,0.1875
+194,"Kaa Laamɗo wuurtinii mo, itti mo e naawalla maayde, sabi maayde ndee waawaanoo heddoraade mo.",ka long dow wurtiniimo ittimu e naawalla mayde sabi mayde de waawaano heddoraade mo,0.6667,0.1579
+195,"Sakiraaɓe, miɗen ndaarda on ɓeydon soobe.",Shakira be mi endarde on beydun sobe,1.0,0.2941
+196,"Nde taalibaaɓe ɓee nani nden daande ndee, ɓe caami ɓe kippii e leydi, ɓe kuli sanne.","Datal baaɗe nanin ɗen daani ɗe, ɓe caani ɓe kippii leydi, ɓe kullisanni.",0.6875,0.2727
+197,"Fay jooni duu, on mbaawanaa ndu, sabi adunankaaku tan nguurdu-ɗon tafon.",Fayoni du on bawa nandu. Sabi adnan ka ku tan gurɗuɗon tafo.,0.9091,0.2069
+198,"O wari e amen, o ɓami kumorgol Pool, o haɓɓi juuɗe makko e koyɗe makko, o wii: —Ruuhu Ceniiɗo wii: nii Yahuudiyankooɓe wonɓe Urusaliima ɓee kaɓɓirta jeyɗo ngol kumorgol oo, ngaɗa ɗum e juuɗe heeferɓe.",O wari ami o babi kumaargol pol o habbi jude makko e koyde makko o wi ruhu cenido wi ni yahudiankobe wonbe ursalima be kabbirta je do ngol kumaargol o nada dum e jude heferbe,0.7429,0.2658
+199,"Sabi mi don-donnaali meere, mi tampaali meere.","Sabhi mein dondo laali mere, mitan paali mere.",1.1429,0.2162
+200,"Goonɗinɓe ɓee fuu yo daande wootere, ɓe ngaɗi fii maɓɓe fuu foroba.","Goonɗimbe be fu yaɗani wotere, be ngadi fi maɓɓe fu foraboy.",0.9167,0.3333
+201,"Nde Pool yiinoo ɓe ndee, yetti Laamɗo, ɓeydorii cuusal.","Yippo liinuwa bende, yetti lamdo be dori cuusa.",1.0,0.3636
+202,Ɗum fuu eɗum holla en pati njokken giɗaaɗe yonki bonɗe no maɓɓe nii.,Dum fu'e dum holla'en pat njokken gida'de yonki bonde no mabbe ni.,0.7692,0.2
+203,"Gaɲo fuu muuyɗo torrude ɓe, yiite yaltoyan e kunduɗe annabaaɓe ɓee halka ɗum.","Ganye fu mo'i to duɗe be, yi'eta yaltoyan e kuɗe anna baa be be halka ɗum.",0.9231,0.3333
+204,"Fay so taweede yimɓe heewɓe ngari seedanaade mo pene, ɓe keɓaali sabaabu fuu ko waawi warde mo.","Faisal tawete yimbe heewbe derii sednaade mo peni, be kebaali sababu fu ko waawi warde mo.",0.7059,0.2338
+205,"Hono non mi yii tilsii mi nela e mon sakiike men Epaforodit, gollidiiɗo am oo.",नोनोन मी तिलसी मिनेला एमोन सिकीमेन एपा फरुदित गोलली दीदो आम ओ,1.0,1.0
+206,"Nden, Pool wii mo: —Laamɗo fiyete, aan kokowol dawninaangol!",,,
+207,"Ooɲaare fuu yo luuttal, kaa wanaa luuttal fuu waddata maayde.","O nyaare fuu yo lutal, ka wana lutal fuu wadata mayde.",0.8,0.2
+208,"Yahuuda jammbotooɗo mo oo ana anndi nokku oo, sabi Iisaa e taalibaaɓe mum ana mooɓtotonoo ton sanne.",Yahuda jambotor mo o andinok o. Sabi Isa e tali babe mun ana moptotonotun sanne.,0.7647,0.2805
+209,Yo on keɓu moƴƴere e jam iwde e Baabiraaɗo men Laamɗo e Joomiraaɗo men Iisaa Almasiihu.,"Yoonke wakkati mo'ere jam, yuuɗe baabiraaɗo men lamɗo e jomiraaɗo men Iisa Almasihu.",0.6875,0.2535
+210,Non haybooɓe Suudu Dewal Mawndu ɓee ngarti to hooreeɓe yottinooɓe sadaka e Farisaen.,Haa yimɓe ɓe suudu dewal mawndu ɓe ngarti to hoore ɓe yottinnoɓe sadaka e farisa,0.6154,0.1831
+211,"Ko kaanno-ɗon waɗude dee, metteede ɗum, yalla oɗon itta gaɗuɗo oo golle bonɗo e hakkunde mon.","Ko kaano ɗon waɗude de, mette ɗum. Yalla oɗon ittagadude o golle bonɗo e hakkunde mo.",0.5,0.1351
+212,"Nde o haalnoo ɗum ndee, o toowni daande makko, o wii: —Jom nowru fuu yo nanu.",Jom no uru fu yo nanan.,0.9375,0.7719
+213,"Pilaatu jaabii mo: —Miin, mi Yahuudiyanke naa?",Pila tuja bimo? Me miyahudiya,1.0,0.3611
+214,"Ko iretee koo yo terɗe leydinkooje, ko immitotoo koo yo terɗe ruuhunkooje.",,,
+215,"Min keɓi laana lummboowa yaade Finikiya, min naati hen, min ɓettii.",Inchebilan lumbo wa yade finikiya. Min naci hen. Min betti.,0.6364,0.2407
+216,Sabi Ibiliisa jippiima e mon ana tikki tikkere mawnde.,"Sabu Iblis jippi ma emon, ana tikki tikkerema",0.7778,0.2
+217,O wii ɓe: —Yoomeende ana mawni e am sanne faa ana ndaara warde kam.,Yohanna M. Amusan faɗan da ake waɗaka,1.0,0.5882
+218,"Nde peguujam maɓɓe timmunoo ndee, inna Iisaa wii: —Ɓe ngalaa peguujam.",Peguja ma betimunonde inna isawi.,0.9091,0.5179
+219,"Ndennoo, lekki fuu ki rimataa ɓiɗɗe lobbe, soppete, wedee e yiite.",denno leki fuu kiri mata bidde lobbe soppete wedde e yiite,0.5455,0.1538
+220,"Sabi Ruuhu makko oo jannginta on huunde fuu, kanko Ruuhu oo goonga o jannginta on, wanaa fenaande.","Sabu ruhu mo o janginta on hunde fu, kanko ruhu o gonga o janginta on, wana fenande.",0.7647,0.1899
+221,"Filipa yehi e ngalluure wonnde ley leydi Samariya, waajii ɓe haala Almasiihu.",en galluure wonde leydi Samariya waajibe haala Almasihu,0.75,0.2656
+222,"So en mbii en luuttaali, en njaayrii koe men, en ngalaa e goonga.","MB and Luthuli, enjoy requirement and gala eggo.",1.0,0.56
+223,"O ficci mboddi ndii e yiite ngee, ɗum torraali mo fay huunde.",fitin bodi da yayi itenge don tarar mu fahimci,1.0,0.5208
+224,"Mi surdii ma saabe Laamɗo, pati torram!","Mussurdimma, sabalamdo patitara",1.0,0.3226
+225,"Iisaa wii ɓe: —Wakkati am waraali tafon, kaa onon, wakkati fuu yo wakkati mon.",isa wibi wakkati anwara litafon ka'unun wakkati fu ya wakkati,0.7857,0.25
+226,"Minen e Ruuhu Ceniiɗo, min kawrii pati min njappa on ko teddi so wanaa ko tilsi koo: nanto-ɗon e kirsanaaɗi tooruuji e ƴiiƴam e jiibuɗi e jeenu.","Minen ruuhu cheniido, min kauri pat min jappa on ko teddi, so wana ko tilsiko. Nanto do e kirsenaadi tooruuji e jiijam e jiibudi e jeenu.",0.4444,0.1404
+227,"Fay so worɓe mon nganaa jokkuɓe konngol Laamɗo, golle mon ana waawi waylitinde ɓe, tawee fay haala waɗaali hen.",Fayse war ummongana jokkube kongol lamdo. Golle mon ana waawi waylitindebe tawe fay hala wadaali hen.,0.6842,0.1556
+228,"Mo annditaali ɗum fuu, Laamɗo annditataa joomum.","Anni taali dum fu, laamu anni tata yoomu.",1.1429,0.275
+229,"Miilɗo e mon yo hakkilante e oo aduna fuu yo laato safi, yalla ana laatoo hakkilante jaati.",,,
+230,O wii ɓe ndokka suka oo ko ɲaama.,Ovi bendokke suko okunya.,1.0,0.4
+231,Yahuudiyankooɓe lamndondiri: —Hoto o yahata faa tawee en mbaawaa yiitude mo?,Yahudiyankobe lamdonniri. Hoto o yaata faatawe en bawa yitu dem.,0.7273,0.1905
+232,"So non fii worri, waajibi njalton aduna oo.",So no fear worry.,0.875,0.7647
+233,"Caggal ɓe ndeƴƴinike, Yaakuuba jaɓɓitii, wii: —Sakiraaɓe, kettinanee kam!","Jakal da'i nake. Yakubu Ja'iti, we. Sakirabe.",1.0,0.5593
+234,"Pool e Barnabas pooɗondiri e maɓɓe, nduddi e maɓɓe faa naawi.",Pôle Bernabéu,1.0,0.8163
+235,so dow kammu so dow leydi so ley leydi.,"Sodo kamu, sodo lady, sodo lay lady.",1.0,0.4
+236,"Sabi mi waajike on anniyaaji Laamɗo fuu, mi suuɗaali on fay huunde.",,,
+237,"Omo ɓoornii luurde, ciiɓo-ciiɓongal ana tiimti hoore makko, yeeso makko ana ɗelkira no naange jalbirta nii, korre makko ana mbai no looci yiite nii.",,,
+238,"Hooreeɓe Yahuudiyankooɓe ana tewta mo ley jamaa iidi oo, ana mbiya: —Hoto o woni?",Hoto o wii.,0.8571,0.8906
+239,Jamaanuuji garooji ɗii fuu njiyan moƴƴuki makko ki o waɗani en e Iisaa Almasiihu.,"Jamma noji garooji diifu, njii'a mojjuki makko ko wadannee no Iisa Almasihu.",0.9286,0.2388
+240,"Golleeji ana ceerti sifaaji, kaa Laamɗo gooto oo kaɲum gollata ɗi fuu ley yimɓe ɓee fuu.","Golle en keertu shifaaji, kala lamdo gooto kanyum golleta difu eleyhimbe be fu.",0.9375,0.3099
+241,"Ɓe ngaɗi ko ɓe njogii fuu foroba, fay gooto e maɓɓe wiyantaa jawdi muuɗum fay huunde.",,,
+242,Hono nii o ɓannginirta no hinnee makko ɓurdi huunde fuu mawnude.,Hononji hoɓɓe ngiiritno hinde mako gurdi hune fu ma unude?,1.0,0.283
+243,Ɗum hawri e ɲannde lanndinal tawi ɲalaande fowteteende ɓadike fuɗɗude.,Dume hauri enyande landinal tawi nyalaani fofteteene badike fuddu?,0.9,0.3
+244,Miɗen njowta deental goonɗinɓe Laamɗo gonngal ngalluure Korintu.,Mi enyota dental gondi be lamdo gongal gallure,1.0,0.375
+245,"Kaaloowo fuu, ana haani haaldude haala Laamɗo.",Kalo fu anahani haldu hal lam,1.0,0.3684
+246,"Sakiraaɓe am horsuɓe, baajotooɗo fuu biiɗo Ruuhu Laamɗo ana e mum, pati ngoonɗinee ɗum faa koron yalla Ruuhu Laamɗo jaati woni e mum naa wanaa.","Sakiraɓe am hor suɓe, baɗe toɗo fuɓiɗo ruuhu lamɗo ana e mun. Pati gonɗine ɗum faƙoron yalla ruuhu lamɗo jaati woni e mun nawa na.",0.6,0.1638
+247,"Kasen, nde o jooɗii to sarirde too ndee, jom suudu makko neli e makko, wii: —Sel e oo gorko pooccitiiɗo, sabi jemma hanken koyɗi makko tampinii kam sanne.",kase,1.0,0.9667
+248,"O fawi junngo makko ɲaamo e am, o wii: —Pati hul!",But,1.0,0.9429
+249,"Kanko woni mo Binndi ɗii cappii oo: «Miin Laamɗo, mi ardinante nelaaɗo am moƴƴinanoowo ma laawol.","Kanko woni mo bindi di cappi o, mi lamdo mi ardinante nelaaɗo moɗɗinaaɗo wamaa laawol.",0.5625,0.2179
+250,"Laamɗo Ibarahiima e Isiyaaka e Yaakuuba, Laamɗo njaatiraaɓe meeɗen, teddini kaadime muuɗum Iisaa.",Lamdo Ibrahima e Isiaka e Yakuba lamdo njatiraabe meeden teddini kaadi me muudun Isa,0.8462,0.2073
+251,"So won nanɗo waaju am jokkaali ɗum, miin, mi sarataa ɗum.","So wonan do waji am jokkali dum, min misarata dum.",0.8182,0.2045
+252,"Konngol Laamɗo ana yaaja yaade, taalibaaɓe ana ɓeydoo heewde sanne e ley Urusaliima.",Kongo lamda anaye yaaje yaadi. Talibabe ana beido hewde sanne ile Uru Salim.,0.8462,0.2857
+253,"Mo goonɗinaali Ɓiɗɗo oo, heɓataa ɗam, tikkere Laamɗo duu ana woodani ɗum.","Mogol ilaali bidd'o o hebataadam, tikkere laamɗo du ana woodani ɗum.",0.5833,0.1864
+254,"Nuuhu ɓii Lamaka, Lamaka ɓii Matusala.",lamaka lamaka,0.6667,0.6129
+255,"Nde ɓe njoppaa ndee, Piyeer e Yuhanna mbirfitii to yimɓe muuɗumen, njantanii ɗum ko hooreeɓe yottinooɓe sadaka e mawɓe mbii ɗumen koo fuu.","Nde benyopaande, Pierre e Yuhanna mbirfiti tayibe muudu e. Njantani dum ko hoore be yottinobe sadaka e mawbe mbi dum en ko",0.7826,0.2389
+256,"Ƴeewee no Baabiraaɗo foti yiɗirde en, faa noddire-ɗen ɓiɓɓe Laamɗo.",Yaa we'no baabiraado foti yi'irde en. Fa'noddirden bibbe laamu.,0.8,0.2545
+257,Hono non ngollirton hakkunde sakiraaɓe wonɓe ley leydi Makedoniya fuu.,Ononongolde ton hakkunde sakiraabe wonbe leydi leydi Makko duniya fu,0.9,0.2167
+258,"Nde min naati laana Tirus ndee, min njottoyii Potolemayis.","Demain à 10h, on ira cueillir du maïs.",1.0,0.7292
+259,"Ko njiɗu-mi wiide dee, ko heeferɓe ɓee cakkotoo koo, sakketee seyɗaanien, wanaa Laamɗo.","Ko ngidumi wiide de ko hee ferbe be cakkoto ko sakkete seidaani en, wanaa laamɗo.",0.7692,0.1571
+260,"Balɗe tati caggal ko Festus wari e ley leydi ndii koo, iwi Kaysariya, yehi Urusaliima.","Waan etati cakkal ko feccu su wari e leydi di ko Ibi Kaysariya, yahi Urusalim.",0.7333,0.2609
+261,"Ɗum nee, kaalanee kam, saabe koɗum noddir-ɗon kam?","Dunya kal nekam, sabi kudum noddirɗon kam.",0.75,0.2821
+262,"Teddiniron ɓe sii teddeengal fuu, njiɗiron ɓe saabe golle maɓɓe.","Teddi rombe si tedde ngal fu, njidi rombe saabe golle mabbe.",0.9,0.2264
+263,"Kaa so haɓɓii joomum faa teeŋii, ana waawi naɓude ko woni e galle mum fuu.",Kasan har da jiyau mun fadi a na waye na bude ko wani gari mun,1.0,0.5172
+264,"Miɗo haalana on goonga: so wabbere alkama yooraali aawaama e leydi, heddoto yo wabbere wootere.","Mido haala no gonga. So wabbere alkama yoraali aawaama e leydi, heddoto wabbere wootere.",0.4,0.0897
+265,"Taalibaaɓe ɓee mbii: —Moobbo, so tawii o ɗaaniiɗo, ndennoo o daɗii.",Mobo so tali o dani do denno o dadi.,0.8182,0.5577
+266,"Kulle jogiiɗe yonki duu ngaldaa terɗe: yimɓe terɗe mum, daabaaji terɗe mum, pooli terɗe mum, liɗɗi terɗe mum.","Kullum yogi da yonki du ngal da terde. Yimbe terde mum, daabaji terde mum, poli terde mum, lidi terde mum.",0.8333,0.2069
+267,"O taƴi buuru oo, o hokki taalibaaɓe ɓee ndokka jamaa oo.","Tayi buru'o, woki taliba'en dokka jama'a'o.",1.0,0.3182
+268,"So won piiɗo ma banaawo, accu ɗum fiye bannge goɗɗo oo duu.","To woni pido mambanawo, achi dum fe'a bange goddo odo.",1.0,0.3913
+269,Tawi fay gooto e jooɗiiɓe ɗon ɓee faamaali ko Iisaa haalani mo koo.,Tari fa got a jodi be dom be faamali ko Isa haalani mako.,0.9231,0.3333
+270,"Jammbotooɗo mo oo hokki ɓe finnde, wii: —Neɗɗo mo ɓuccii-mi fuu, oo woni kanko.","Jom goto mo o hokki be finde, wi neddo mo bucci mi fu, o woni",0.8571,0.35
+271,"Nde Iisaa tilii yamirde taalibaaɓe mum sappo e ɗiɗon ɓee ndee, iwi ɗon, yehi jannginoyde e waajoyaade ley geelle piliiɗe ɗee.",De isa chili yammirde talibabun sappo e dido be'e iwi don. Yehi janginoide e wajo yaade leydi gede pili.,0.7619,0.3431
+272,"Ɓe mbii: —«So ɓooyii seeɗa», koɗum ɗum firritata?",Mbi.,1.0,0.9167
+273,"Piyeer jokkini hen: —Sakiraaɓe, miɗo haalana on ko laaɓi haala njaati meeɗen Daawuuda: o maayii, o iraama, yanaande makko ndee ana ɗo meeɗen ɗoo faa hannde.",,,
+274,"No winndiraa kasen e jimol Jabuura ɗiɗaɓol: «Aan, a ɓiyam, hannde ndimu-maa-mi.","Noo windira ka sen e jimol jabura didabol. Aan, abiyam hande ndimmaami.",0.8333,0.1639
+275,Wanaa Laamɗo waylitii hakkilantaaku oo aduna waɗii ɗum majjere naa?,Wani alam'u wanda ta kilan ta ko aduna wadi dum majere na,1.1,0.3333
+276,"Haala am e mooɗon heewataa kasen, sabi kaananke oo aduna ana wara.",Hala emm modon ha wata kasen. Sabi kananki o aduna anawara.,0.75,0.2075
+277,"Eɓe anndi gila arannde, so ɓe njaɓii seettaade: miɗo jokki laawol diina amen ɓurngol tiiɗude ngol, miɗo hiisodaa e Farisaen.",,,
+278,"Iisaa jaabii mo: —So mi lootanaali ma, a walaa ngeɗu e am.","So mi lawata na'lima, a wala ngidwe'a.",0.75,0.5116
+279,"Mi yettirii Laamɗo ko mi lootaali fay gooto e mon lootogal batisima koo, so wanaa Kirispus e Gayus.","So, one a kiss push a guys.",1.0,0.8375
+280,"Ɗum fuu waɗii yalla ana laatanoo en misaalu, ɗum winndiraama faa ɗum waajoo en, enen wonɓe e cakite jamaanu ɓee.",ɗum fu waɗi yallanalaaɗo e misalu ɗum windiraama faɗɗum waɗo en enen wonbe e cakite jamaanuɓe,0.7,0.1778
+281,"Saabe majjum eɗen ngolla, eɗen tiinnitoo, sabi eɗen pawi jikke men e Laamɗo guurɗo, kisinoowo yimɓe fuu sako goonɗinɓe.",Sabu majum eden golla eden tinni to sabu eden pawi jikke men e lamdo gurdo kisanowo yimbe fu sakko gondi men.,0.8947,0.2474
+282,Saabe makko on keɓii arsuku fuu e ley haala e ley anndal fuu.,صاحب مكة، عنكبوت,1.0,1.0
+283,"Onon duu hono non cuŋlir-ɗon jooni, kaa mi yiitan on kasen, on ceyoto, fay gooto waawaa bonnude seyo mon.","Onon du onon chungli don joni, ka mi yita on kasen on cheyot, fay goto wawa bonnude seyomo.",0.6316,0.2317
+284,Mi ribbanooma yaade ruunde wiyeteende Patamos saabe ko mbaajii-mi konngol Laamɗo ngol e ko ceedanii-mi Iisaa koo.,,,
+285,"Tewuuji maɓɓe ngona e daalaare ngalluure mawnde, ɗo Joomiraaɗo maɓɓe feŋanoo e leggal bardugal ɗoo.",To jomiraaɗo mabbe fe'ano e legal bardugal ɗo.,0.8667,0.5783
+286,"Piyeer jaabii mo, wii: —Aan woni Almasiihu.",Pyaar Jaane Movie अनहोनी अलमसीह,1.0,0.7273
+287,"O faɓɓidi e maɓɓe ton, omo loota yimɓe lootogal batisima.",What did you map it to?,1.0,0.8043
+288,Iisaa wii yimɓe ɓee: —Hey yimɓe jamaanu jooni ɓe nganaa goonɗinɓe!,,,
+289,"Pati kaƴƴinee sewre nde Laamɗo halfini on ndee, kaa ngaɗanon sewre ndee misaalu nde njokka e mon.","Badi ka inna seuri ne lamdo halfini onde, ka ngado non seuri de misalu de jokka e mon.",0.8824,0.2911
+290,"Yo debbo nantu hunduko mum, tawree ɗowtaare timmunde wakkati nde janngintee ndee.",Yode bonan tuhunukomum taure dawta timmude wakkati ne jangintee,0.9167,0.2353
+291,"Iidi Paska fuu, goforneer oo ana hokkannoo yimɓe ɓee suɓaade e kasunkooɓe ɓee mo njiɗi yoppitaneede.",,,
+292,"Ɗon, hooreeɓe yottinooɓe sadaka e mawɓe Yahuudiyankooɓe ngari to makko ngullitanii Pool.",don horebe yutinobe sadaka e mobi yahudiyanko'en be ngari to mako gullitani pol,0.75,0.2667
+293,"Malaaika ɗiɗaɓo oo yuppi laal mum e geeci, geeci oo waylitii, laatii no heƴƴere ƴiiƴam maayɗo nii.",Malaika dida bo o yuppi almun e geji. Geji o wailiti. Laatinu hejjere jijjam mayi doni.,0.9412,0.3291
+294,"Ɗum nee, neɗɗo fuu ɲaamirɗo buuru Joomiraaɗo no haanaa, yardi horde makko no haanaa, oon luuttii terɗe Joomiraaɗo ɗee e ƴiiƴam makko ɗam fuu.",,,
+295,So wanaa saabe am fay gooto waawaa yaade to Baabiraaɗo.,"Soona sa'a bi'am, fai go'o wawa yaadi to babira.",0.9,0.3111
+296,"Miɗo haalana on goonga: huunde fuu ko ɲaagi-ɗon Baabiraaɗo oo, hokkiran on saabe am.","Hala on on gonga, hunde fu ko nyaagido babiraado o, hokkiran on saabe'en.",0.7143,0.2836
+297,"Ndennoo, so won jiiɗo sakiike mum ana luutta luuttal ngal waddantaa neɗɗo maayde, o ɲaaganoo ɗum Laamɗo, Laamɗo duu hokkan ɗum nguurndam.",,,
+298,"Pool ƴeewi waalde Saahiiɓe ɓee, wii: —Sakiraaɓe, hakkille baaltiiɗo nguurdu-mi yeeso Joomiraaɗo gila pinu-mi faa yottaade ɲalooma hannde oo.","Bollé walisaa hiɓe, wii. Sakiraaɓe, hakkille baaltiiɗo gurdum yeeso joomiraaɗo gilla pinumi, faa yottaade nyalooma hande o.",0.5263,0.1913
+299,"Pool jaabii, wii: —Koɗum waɗi so oɗon mboya, oɗon taƴa ɓernde am?",O jaɓii wi'i ko don waɗi saɗom booya o don taƴe ɓernde am.,0.75,0.2857
+300,"Yo anniya Iisaa Almasiihu tawe e mon: Kanko, fay so taweede mbaadi Laamɗo ana e makko.",Yohanna Isa Almasihu taɓe emon. Kanko faɗo taɓe ɗemba ji lamɗo ana,0.875,0.3088
+301,"Caggal ɗum, sakiraaɓe, min njannginii on no kaan-ɗon worrude faa wela Laamɗo.","Cakkalɗum Shakiraaɓe, min jangi ni on kaanɗon worrude faweelamɗo.",0.75,0.1935
+302,"Horde hiraande seniinde nde njettaten Laamɗo kammari mum ndee, so en njarii nde, tama en ndeentaali e ƴiiƴam Almasiihu ɗam?",So,0.95,0.9802
+303,"Sabi so miɗo ɲaagoroo Laamɗo ɗemɗe Ruuhu, goonga, yonki am ana e duwaawu, kaa mi faamataa miin e hoore am.","Sabi somi do nyagoro lam do demde ruhu gonga yonki am ana e du'a'u, kami famata min de hore am.",0.75,0.2289
+304,"Neɗɗo fuu miiluɗo ana waawi haaltude konngol ngol Laamɗo loowi e mum ngol naa miiluɗo yo keɓuɗo Ruuhu Ceniiɗo, ana haani annditidde ko mbinndan-mi faade e mon koo yo yamiroore Joomiraaɗo.",,,
+305,"Caggal lebbi tati, min naati e laana iwka Aleksandiri, ndabbunooka e ruunde ndee kaa, min mbitti.","Chakali bita ji, min naci Allah ni i ka Alexandria, dabbu no ka iru ndeka min bita.",0.9375,0.3718
+306,"Pilaatu, goforneer oo, tawoyi ɓe sella too, wii: —Koɗum ngullaniri-ɗon oo gorko?",Ko dum gullaniri don o gor,1.0,0.6935
+307,"Ɓe ŋabbi dow kammu e ley luurde, wayɓe maɓɓe fuu keddii ana ƴeewa ɓe.",benga bido kammu ele lourde waybe mabbe fu keddi ana jiewa,0.8571,0.2963
+308,"No Iisaa Almasiihu finiri annii: Mariyama inniiko oo yo cabbaaɗo Yuusufu, kaa fade makko suddeede, Ruuhu Ceniiɗo waɗi mo cowiiɗo.","Isa Almasihu fini anni. Maryam inni ko yo chabba Yusuf. Ka fare makko suddeede, ruuhu ceniiɗo waɗi mo cowiɗo.",0.65,0.2075
+309,"Miin, mi yahataa hawroyde e oon iidi sabi wakkati am yottaaki tafon.","Min mi yata haurode on iidi, sabi wakkati am yotta kitabu.",0.5833,0.2182
+310,"E ley sankugol ngol, yoga e aawdi ndii saami e laawol: pooli ngari cuɓi ɗum.",Lissan guongol yagai audi di sami elawol polingari cubi dum.,1.0,0.2881
+311,"O yoppitani ɓe mo ɓe ɲaagii yoppitee oo, oon yo uddiranooɗo kasu saabe murtere e war-hoore.",,,
+312,"Yoga e wonnooɓe ton ɓee mettaa, mbiyondiri e koe mumen: —Bonnude ɗam nebam, koɗum nafata?",,,
+313,"Yalla ko Binndi ɗii mbii koo ana tabita, o wii: —Mi ɗomɗii!",Yalla ko biɗɗi ɗi mbi ko ana tabita o wi,0.5833,0.3409
+314,"Farisaen ɓee njalti, njooɗoyii faa ndawrida no mbarda Iisaa.",Fariisa en benjaltii. Joodi faa dawriden no mbarde Isa.,0.7778,0.28
+315,"Tomaa jaabii, wii mo: —Joomiraaɗo am, Laamɗo am.",Toma jabi wimo.,1.0,0.6667
+316,Yoga e maɓɓe wii: —Bumtinɗo bumɗo waawaano haɗude Laajaru maayde naa?,Bumtin do bumdo wawa no hadude lajaru maydena.,1.0,0.375
+317,"Ɗum fuu ɗum kaɗaaɗum dow meere, ɗum fuu ɗum waaju iwɗo e yimɓe tan.",ɗum fuɗɗum kaɗa ɗum do mere ɗum fuɗɗum waaju yuɗo e yimɓe,0.6429,0.1923
+318,"Min ngollii jemma e ɲalooma fuu faa min njogoo koe amen, pati min laatanoo on donngal.",mingolli,1.0,0.8841
+319,"Ndennoo, neɗɗo fuu kalkuɗo suudu Laamɗo nduu, Laamɗo halkan ɗum.","Nannoo, nadhoofuu kalkurrii suudulla lamdoo lamdoo halkandoo.",1.0,0.4423
+320,"Miɗo haalana on ceyee sabi ko ndeentir-ɗon e Iisaa Almasiihu torraaji jooni koo, yalla oɗon ceyoo sanne ley ilinaali nde teddeengal makko ɓanngii.",,,
+321,"O jaabii, o wii: —Miɗo wiyee jamaa, sabi miɗen keewi.",Oja bi ori.,1.0,0.8205
+322,"Kaananke, saabe oo jikke Yahuudiyankooɓe ngullanorii kam!",Kaananke saabe o jikkay Yahudi'en ko be ngulla Norika.,1.0,0.2041
+323,"Laamɗo fawii Almasiihu dow huunde fuu, hokkii mo laataade hooreejo deental goonɗinɓe, hokkii mo ɓurde huunde fuu.",,,
+324,"Miin woni Yuhanna sakiike mon deentuɗo e mon torraaji, deentuɗo e mon laamu Iisaa Almasiihu, e muɲidiɗɗo e mon muɲal makko.",Yohanna Sakikemon dentudo emon toraji dentudo emon lamu Isa Almasihu emunyi diddo emon munyal makko,0.9524,0.26
+325,"Nden Iisaa teelti, sappo e ɗiɗon ɓee e filinooɓe mo ɓee lamndii mo maanaa banndol ngol.",Then is a tilt,1.0,0.8857
+326,Kaa fay gootel e majji yanataa e leydi tawa wanaa e sago Baabiraaɗo mooɗon oo.,Kafa i gotel e majji yana ta e lady tawa na e sagu babira do modon.,0.7333,0.2857
+327,"O lamndii taalibaaɓe makko ɓee, o wii: —Hono foti buuruuje njogi-ɗon?","O wi, ko no foti burooje jogi don.",0.9091,0.6111
+328,"Eɗen njaɓa seedaaku yimɓe, kaa seedaaku Laamɗo oo ɓuri semmbe.","Aɗen jaɓa saɗakuyimɓe, ka saɗaku lamɗo o ɓuri semmbe.",0.8,0.2549
+329,"Janngo mum, min njaadi e Pool to Yaakuuba.","Yangwumu, min jaɓe Paul to Yakubu.",0.75,0.4242
+330,"Nde hiiri ndee, taalibaaɓe ɓee ɓattitii Iisaa, mbii ɗum: —Jooni hiirii, kasen duu nokku oo yo ladde.","Nde hiri nde, talibaaɓe Baciri Isa mbiɗum, jonii hiri, kasendu nokko o yaa ladde.",0.8824,0.2821
+331,"Caggal ɗum, o warti e taalibaaɓe ɓee, o wii ɗumen: —Faa jooni oɗon ɗaanii oɗon ŋoottinoo?","Ya gallu, warce taliba be wi dume? Fa joni odon dani odon wottino.",1.0,0.3913
+332,Won e mon mawninkiniiɓe dow jikkude mi warataa to mon.,Ona emu mauni kinibe do jikude mi warta to mo.,0.8,0.2955
+333,"So goonga dee, on ngalaa ko mantoro-ɗon fey!","Songo ngade, on gala ko mantoro don fe",0.875,0.2059
+334,"Ɲannde aranndeere e yontere, tawi miɗen mooɓtii faa min taƴa buuru.","Yande arandere eyondere, teyimide mopti famin taje buur.",1.0,0.2909
+335,Hooreeɓe yottinooɓe sadaka ɓee njarraninoo kam mi udda seniiɓe heewɓe e kasu.,"Hore be yotti no be sadaka be, njara ni no kam mi udda seni be hewbe",1.0833,0.2769
+336,"Min tewtaali faa ɓiɓɓe aadama teddina min, wanaa onon wanaa woɓɓe.","Min caawo taa lifaabe Adam teddina min, wana onon wana wobbe.",0.6364,0.2593
+337,"Hesili ɓii Naggaayi, Naggaayi ɓii Maata.",Aci bi naggay naggay bi ma,1.0,0.4848
+338,"Miɗo haalana on, bammbaade bammbaali ɓurɗo Yaayaa, tawee nee, ɓurɗo loude e Laamu Laamɗo oo ɓuri mo teddude.",Bambade bambali burdo yaya taweene burdo ludde lamu lamdo o buri mo teddude.,0.8889,0.3563
+339,"Faa waɗi leer caggal mum, goɗɗo kasen immini haala kaa, wii: —Taƴoral, kanko duu omo wondunoo e makko, sabi o Galilinke.","Faa wota illar chaggale mu, goddo ka sai immini hala ka, wi",0.9524,0.6559
+340,"Ɓe keddii eɓe calmina mo, eɓe mbiya: —Saɗi, kaananke Yahuudiyankooɓe.","Sadi, ka na da yahudiyan kuwa?",1.0,0.6909
+341,"Pool jaabii, wii: —Sakiraaɓe, mi anndaa o Jottinoowo Sadaka Mawɗo, sabi miɗo anndi ana winndii: «Pati yennu hooreejo leɲol maa!",Pol yaa bi wi.,1.0,0.91
+342,"Hono no Baabiraaɗo oo wuuriri e hoore mum nii, hono non o hokkiri Ɓiɗɗo oo duu baawɗe wuurirde e hoore mum.",Hononon baa biiraado o wuriri a hoore mum ni. Hononon o hokkiri biddo o du baadi wurirde a hoore mum.,0.7143,0.2
+343,O hollan ɗum golleeji ɓurɗi ɗii ɗoo fuu teentilaade faa kaayne-ɗon.,O hollan golle burdi diɗo fu tentilaade fa ka'e ɗo.,0.8182,0.3273
+344,Yo Laamɗo Baabiraaɗo men e Joomiraaɗo men Iisaa newnan min laawol faa min njaha to mon.,"Yoo laamɗo Baabiraaɗo men e Joomiraaɗo men Iisaa newnaa min lawol, faa min jaatomo.",0.375,0.0845
+345,"Non Piyeer miccitii konngol ngol Iisaa haalannoo ɗum ngol: «Fade ndontoori jogginde hannde, a wiyan a anndaa kam cili tati.","Faté don tori jogginté handé, a wiyana anda kam",0.9,0.67
+346,"Nde min tawondiri Assos ndee, min naanni mo laana, min peewi Mitilene.",Demain taounira saasande min nani molana min pewi mitelen,0.8333,0.2857
+347,Festus wii: —Agirippa kaananke e deental tawaaɓe ɗoo!,Agri Pakaranke,1.0,0.7209
+348,"Taalibaaɓe makko lamndii mo: —Moobbo, homo luutti so mo findi e mbumndam, kanko naa saaraaɓe makko?","Taalibaaɓe maɓɓe ko lamɗimo. Mabbaa, ɓe lutti soɓɓindi e buuɗam. Kanko na saaraaɓe maɓɓe",0.75,0.3165
+349,"Kaa Iisaa wii Simon: —Pati hul, gila jooni a laatoto awoowo yimɓe.",ka isa visi mo pati hul gila joni alata ta awa wiyin,0.75,0.3137
+350,"O wii ɓe: —Tippee bubbol ngol bannge ɲaamo laana kaa, on keɓan.",,,
+351,Sabi Pilaatu ana anndunoo haasidaaku waɗi so ɓe ndokkitiri Iisaa.,Sabu pilatu ana andu na haji daku wadi sobe dokitiri Isa.,1.0,0.2545
+352,"Ɗum nee, waajibi yimɓe Laamɗo ɓee tawree muɲal e hoolaare.",Dum ne wajibi himbe lamdo be tawre munyal e holare.,0.9,0.2979
+353,Kayre woni fooyre goongaraare warnde ley aduna faa yaaynana yimɓe fuu.,"Ka yi rauni fa ya gongara ne, warnele aduna fa ya yi na na yimbe fu",1.3636,0.3051
+354,"So miɗen mbaajoo ɗum, min nawtortaako haalaaji ɗi hakkilantaaku ɓiɓɓe aadama waajotoo min ɗii – haalaaji ɗi Ruuhu oo waajotoo ɗii min nawtortoo.",,,
+355,"Laamɗo annduɗo ɓerɗe oo hollii jaɓanii ɓe, nde hokki ɓe Ruuhu Ceniiɗo oo hono no meeɗen nii.",Lambo andu berde o holli jabanibe. De hokki be ruhu chenedo o hono meden ni.,0.8824,0.3378
+356,"Kaa ɗum fuu debbo ana hisinee e ɓeynugol, so ana heddii e goonɗinal e jilli e senaare e leyɗinkinaare.","Ka ɗun fu, ɗebbo ana hisine ɓeinugol. To ana heɗɗi e gonɗinal, e jilli, e senare e leydi kinare.",0.6842,0.1951
+357,"O seedee garɗo haalde haala ndeen fooyre oo, yalla yimɓe fuu ana ngoonɗinira saabe haala makko kaa.",Yalla yimbe fu anangon dinira saabe hala mako,0.8824,0.5556
+358,"Nden taalibbo ardinooɗo warde oo, kaɲum duu naati, yii, goonɗini.","Dan talibo ardi na rowarde o kanyun du nati, yi gonɗin",1.1,0.3077
+359,"Nduumee e duwaawu, tawee oɗon njeertii oɗon njetta Laamɗo.","Do me a favor,",1.0,0.8542
+360,"Mi ɲaagike taalibaaɓe maa ɓee ndibba nde, kaa ɓe ndonkii.","Min yaake gital baaba maabe ndibbande, kaabe donkey.",1.0,0.3478
+361,"Annii no anndirton Ruuhu Laamɗo ana e neɗɗo: jaɓuɗo Iisaa Almasiihu warii laatike neɗɗo fuu, oon, Ruuhu Laamɗo ana e mum.",Aanino andiirtonu ruuhu lamdo ana eneddo. Jabudo Iisa Almasihu wari laati eneddo fu onu ruuhu lamdo ana emun.,0.8095,0.2371
+362,"A wujaali hoore am nebam, kaa kanko, o wujii e koyɗe am nebam uuroojam.",A wujari hore am nebam. Ka kanko wuji ekoydam nebam uroja.,0.6429,0.2
+363,"So Almasiihu laatiiɗo nguurndam mooɗon oo ɓanngii, on ɓanngidan e makko onon duu, keɓon ngeɗu e teddeengal makko.",So Almasihu lati don gurna mo don o bangi. On bangi dan e makko onon du kebonge du e teddungal makko.,0.7778,0.2258
+364,"O wii ɓe: —Pati ngarɲee fay gooto, pati kappee fay gooto fenaande, keɲɲitoree njoɓdi mon.",Oui.,1.0,0.9714
+365,"Oon wakkati fuu, Iisaa maati won semmbe iwi e mum, yeeccitii hakkunde jamaa oo, wii: —Homo memi saaya am?",,,
+366,"Taagumansa kaayniiɗo ɓanngi dow kammu, ɗum woni debbo ɓoorniiɗo naange ana fawi koyɗe mum e lewru ana filkii pilkol koode sappo e ɗiɗi.",,,
+367,"Joonnoo, waajotooɓe Kabaaru Lobbo ɓee njottinii on oon kabaaru dow baawɗe Ruuhu Ceniiɗo iwɗo dow kammu.",Donno wajo tobe kabaru lobbo be jottini on on kabaru dow bawde ruwu chenniru iudo dokam.,0.875,0.3023
+368,Ɗum saabii homo e mon fuu waaltinira hakkille banndum ɗiin haalaaji.,"Tumsaabi, homey monfu, walat nir hakki le bandom in haalaaji.",0.9091,0.2456
+369,"Miin, miɗo anndi yamiroore makko, kaɲum woni nguurndam nduumiiɗam.","Min, miɗo andi yamirawal makko, kañum woni ngurnam ɗiɗmi ɗam.",0.7778,0.2545
+370,"E makko nguurndam woni, ɗam nguurndam laatanii yimɓe fooyre.",,,
+371,Kanko haybata beembal jawdi kaananke debbo oo.,"Kaŋ ko hayi bata be'en bal jaudi, ga'an ki debbo.",1.4286,0.2564
+372,"Nde Iisaa e taalibaaɓe mum njottinoo Kafarnahum ndee, nanngooɓe usuru Suudu Dewal Mawndu ɓee ɓattii Piyeer, mbii ɗum: —Tama moobbo mooɗon oo ana yoɓa usuru Suudu Dewal Mawndu?","Iisa e Taalba munyatinnoo kafar na humnde, nangoobe usuru suudu dewal mawngu be baci pierre. Mbiidum, tamma moba modon o ana yoba usuru suudu dewal mawngu",0.7143,0.2517
+373,"Caamu-mi e leydi, nan-mi daande ana wiya kam: «Sool, Sool, ko saabii so aɗa torra kam?",क्या मम्मी लेडी? नान में दाने आने भी आ कम। सोल सोल को सा भी सो आ टरका।,1.125,1.0
+374,"Gorko noo haanaa hippaade kufina, sabi yo mbaadi Laamɗo, kaɲum e darja mum.",,,
+375,"O jaabii ɓe: —Mi haalaniino on ɗum, kaa on njaɓaali.","Waja biibe. Mi haali ni on dum, ka on jabali.",0.8,0.3333
+376,"Ɗon sordaasien e kaananke mum e gollanooɓe hooreeɓe Yahuudiyankooɓe nanngi Iisaa, kaɓɓi ɗum.","ɗon sorasi en e kaananke mu, e gollanoobe hoore be Yahudiyankoobe nangi Isa. Kabbitu",0.7692,0.1923
+377,"So ɓe ngartii luumo, ɓe ɲaamataa so ɓe lootaaki.","Sobe ngarti lumo, benyamata sobe lotake.",1.0,0.2895
+378,"Kaa Iisaa wii: —Pati kaɗee mo ɗum, sabi fay gooto waawaa waɗirde kaayɗe e innde am, so sakitoo bonkoo kam ɗon e ɗon.",ka isa bi?,1.0,0.9213
+379,"Liingu fuu adiiɗo moɗude nde pooɗaa, ƴeŋŋinaa ɗum aaraa hunduko mum, a tawan hen kaalisi daneejo kiɓɓinoowo usuru meeɗen.","Lingu fu adii o moɗɗo dende poɗɗa, jenginaaɗum ara hunuko mum a tawan hen kaalis daneeji keewɗo usuru meeɗen.",0.6842,0.23
+380,"Ndennoo jooni, walaa ko seenndi Yahuudiyanke e Yunaninke, taadiiɗo e mo taadaaki.",wala ko seniya hujanke i yunaninke taadido emotaada,0.8333,0.3881
+381,"Gollanoowo deental pati dewla ko ɓuri debbo gooto, hawjoo koreeji mum faa gasa.","O wonna dental, pat dewo ko buri debbo gooto. Hawja kureji mum faagas",0.7692,0.2769
+382,"Nde Iisaa tilii e ɗiin waajuuji ndee, iwi Galili fai bannge Yahuudiya gonɗo caggal maayo Urdun oo.","De Isa chili dinwa yujine, ibi gali fa ibange yahudiya, gwanda chagal mayi urdu",1.0,0.3625
+383,"Tayka, bone ɗiɗaɓo oo yawtii, bone tataɓo oo ana wara ɓooyataa.","Taika, bone dida bo yaouti, bone tatabo anawara bo ya",0.8182,0.34
+384,"Ɗo ladde ndee immorii mo fuu, liɓan mo e leydi, hunduko makko ƴufa ngufo, o ŋerƴondira ɲiiƴe, o yoora kolon.",,,
+385,"Caggal ɗum, o wii gorko oo: —Fooccu junngo maa!",क्या गालून? ओबी गोरकोओ फोची जुंगोमा,1.0,1.0
+386,"No worri e deente seniiɓe ɗee fuu nii, yo rewɓe ndeƴƴino ley deente ɗee, sabi ɓe nduŋanaaka haalde ley hen.","Noo wuri e dente seniɓe ɗe fuu nii, yoo rewɓe ndiɗɗinoo ley dente ɗe. Sabiɓe ndunganaka haalude ley",0.7,0.2353
+387,"Miɗen ɲaaganoo on Laamɗo kasen hokka on semmbe mawɗo no baawɗe mum tedduɗe ɗee mawniri nii, yalla oɗon tawree tiinnitaare e muɲal fuu.",,,
+388,"Neɗɗo fuu goonɗinɗo kam, fay so maayi, wuuran.",nyebbe fu gondi ndokam faysoma'i wuran,1.0,0.3056
+389,"Wiide: «Luutti maa njaafaama» e wiide: «Imma yaa», koɗum hen ɓuri newaade?",ko dum hen buri newade,0.9167,0.7091
+390,"Kaa taalibaaɓe makko ɓee paamaali haala kaa, kulii lamndaade mo.",Ka taali baabe mako be paamali haala ka kuli lamdaade.,1.0,0.2075
+391,"Korɗo goɗɗo yii mo, wii wonɓe ɗon ɓee: —Oo gorko e Iisaa Nasaraatunke oo wondunoo.","Gorko e yiimo, yi'a wambe dombe. O gorko e isa natatunke o wondu no.",0.9333,0.3906
+392,"Bone, pati njoɓiree ɗum bone, pati njennitee jennuɗo on.","Bwané, patin jowé rédum bwané, patin jé nitté jéno do",1.1111,0.4667
+393,"Hirudus yoomi, kaa nde wonnoo hunike yeeso nootiiɓe ɗum ɓee, yamiri oon waddanee nde.",Kani wannan hu ni ke yes no ce mi dumbe. Ya miri on wadi ne.,1.0714,0.5072
+394,"O jaɓɓiima min faa gasi, o jippini min, o saahii e amen, min ngaɗi to makko balɗe tati.",Wajibi ne mu yi fada da shi. Wajibi ne mu. Wasahie a me. Mu ngadi to mako balitace,1.0,0.4848
+395,"Iliyaasa e Muusaa ɓanngani ɓe, ana kaalda e Iisaa.",Annabi Isa,1.0,0.8
+396,Yanooɓe tontaaɓe sera makko ɓee duu ndarii ana mbonkoroo mo non.,Yano a beto ta be sero mako be du ndiri ana bonkoro mu non.,1.0909,0.283
+397,"Kaa ardinooɓe heewɓe laatoto caggalaaɓe, caggalaaɓe ɓee laatoto ardiiɓe.","Ardi no be hewbe laatoto caggalabe, caggalabe be laatoto ardibe.",0.8889,0.2419
+398,Walaa ko saaraaɓe makko mbiiri nii so wanaa kammari eɓe kula hooreeɓe Yahuudiyankooɓe.,"Wala ko sara be ma komi rini, so wana kamare be kula hore be yahudiyanko'en.",0.9231,0.2603
+399,"E ley yamnde tati kiikiiɗe ndee, Iisaa wulli wullaango toowngo, wii: —Eloyi, eloyi, lama sabaktanii?",,,
+400,"Ndennoo sakiraaɓe am horsuɓe, so nii ɓerɗe men pelaali en, en tawdataake e kulol yeeso Laamɗo, o hokkan en ko ɲaagi-ɗen mo fuu, sabi en kaybii jamirooje makko, eɗen ngaɗa ko weli mo.","Danna Shakira be am horsobe. Soni berde men pelali en. En tawdataake ekkulo yeeso lamdo. O hokkan en ko nyaagiden mo fu, sabi en kaibi jamirooje makko eden ngada ko weli",0.5152,0.1888
+401,"O wii ɓe: —Onon, on ndokkaama faamde goonga tedduɗo haala Laamu Laamɗo oo.",O wi be onon on dokka mo famde gonga teddudo hala lamu lamdo o.,0.8462,0.2241
+402,"O naati e ley hukkum ceniiɗo oo, o ɲaami buuru cakkaaɗo oo, o hokki hen yimɓe makko.","O naati le hukuma ceniɗo o, o yaami buri cakaaɗo o, o hokki hen yimɓe makko.",0.5294,0.1692
+403,"Gooto e taalibaaɓe Iisaa ɓee, ɗum woni Yahuuda Isikariyota jammbotooɗo mo oo, wii: —Ko saabii so ɗam nebam soottaaka buuɗi teemeɗe tati cardi, hokkee misikiinaen?","Ko saabi soddam nebam, sotta ka buudi temede tati carli, hokke miskina'en.",0.92,0.5985
+404,"Ndontoori joggini ɗiɗaɓerde, Piyeer miccitii ko Iisaa wiinoo ɗum koo: «Fade ndontoori jogginde cili ɗiɗi, a wiyan a anndaa kam cili tati.",,,
+405,"Hono non rewɓe ɓee duu tawree teddeengal, tawa ɓe nganaa ɲoooɓe yimɓe, ɓe nantiiɓe, hoolniiɓe e banngal huunde fuu.","Ho no non re'o be bedu taure teddungal, taube ngana'o be yimbe, be nanti be holli be e bangal hunde fu.",1.0,0.3011
+406,"Kanji, ɗi mbonataa, ɗi tuunnataa, ɗi ɓuytataako.","Kanji ni mbona ta, ni tunna ta, ni pui ta ta",1.4286,0.2895
+407,"Ɗum e taweede, miɗen mbaajoo hakkilantaaku hakkunde ɲiiɓuɓe e ley goonɗinal.",Dum etta vede mi demba yo hakkilantaku hakku ne nyibu be ele gondina.,1.1818,0.2969
+408,"Ɲalaande fowteteende wonnde, o naati suudu waajordu omo waajoo.",Yana da 50 wanda. Wannan ci su du wajen mu wajen.,1.2222,0.5849
+409,"Miɗen ɲaagoo mo o hebbina on hakkilantaaku e faamu mo Ruuhu hokkata oo, yalla oɗon annda ko woni sago makko faa gasa.",Mide nyaago mo o hebbi na'on hakkilantaaku e faamu ruuhu hokkata o. Yalla odon anna ko woni sago makko faagata.,0.4545,0.0957
+410,"Kanko woni Laamɗo goongaraajo oo, kanko woni nguurndam nduumiiɗam.",Kanko woni lamɗo gonaajo o. Kanko woni nguurndam dumiɗam.,0.4444,0.1607
+411,"Sabi hono no Baabiraaɗo oo immintinirta maayɓe so hokka ɗumen nguurndam nii, non Ɓiɗɗo oo duu hokkirta nguurndam mo muuyi hokkude.","Sabi hono baabiraado o imminirta maybe sokka dum en gurdam ni, non bido o do hokkirta gurdam mo moyyi hokkude.",0.7143,0.25
+412,"Nan-mi daande iwrii kam dow kammu waunde no dillere ndiyam keewɗam nii, no gidaango manngo nii.",Nammi daane ewri kam dookammu. Wawu no noddileren diyam keewdamni. No gidaango mango ni.,0.75,0.1818
+413,"So goonga «huunde fuu ana daganii kam», kaa miɗo salii huunde fuu mara kam.",Songa. Hunefu anadaga nikam. Kaamidu sali hunefu maraka.,1.0,0.2414
+414,"Nden yo ɲannde lanndinal iidi Paska, wakkati hakkunde naange.",አንድ ላንድ ኢናል ኢድ ፓስካ,1.0,1.0
+415,"Ɓeen worɓe ɗiɗon ngari e Iisaa, mbii ɗum: —Yaayaa mo lootogal batisima neli min e maa, min lamnde yalla aan woni kaanɗo warde oo, naa min ndooma goɗɗo?","Ben warde dido ngari Isa, mbiɗum Yaya molotgal baptisma neli min e ma. Min lamɗa yalla an woni kanɗo warde o, na min ɗoma goɗɗo?",0.6429,0.2373
+416,Kaa jammbotooɗo kam oo ana ɲaamda e am e laal gootal.,Ka jamɓe toɗɗe kam o ana nyaamde e am e algoota.,0.6364,0.3095
+417,"Nde ɓe mbitti ndee, malaaika Joomiraaɗo wari e Yuusufu ley koyɗol, wii ɗum: —Imma, ɓam cukalel ngel e inna mum, dogu njahaa Misira, keddo-ɗaa ton faa nde mbii-maa-mi ngartaa.",,,
+418,O wii gollooɓe makko: —Ɗum Yaayaa mo lootogal batisima!,Mako. Dom yaya,1.0,0.7955
+419,"Kaa Joomiraaɗo hokkii kam taƴoral, ɓooyataa mi waran to mon, miin e hoore am.",ka yo mera doki kam thyorol oya ta mi waran to mun min de hore,0.8571,0.3607
+420,"Nde min iwi ɗon ndee, min ɓattitii fonngo ruunde Kiprus, sabi e henndu min peewtunoo.","Joni, i wiɗɗo nde mi ɓattiti fongo ruɗe Kiprus, seɓe hindu mi pewtuno.",0.9333,0.3235
+421,"Gooto e wondunooɓe e Iisaa ɓee soorti kaafaawi mum, soppi golloowo Jottinoowo Sadaka Mawɗo taƴi nowru mum.","Guate wonda be isa be sorti kafa'i mu, soppi gollo jottino sadaka mawdo, tayi noru mu.",0.8824,0.3182
+422,"Miɗo waajoo mawɓe wonduɓe e mooɗon ɓee ɗum ɗoo, sabi miin duu mi mawɗo, mi seedinoke torraaji Iisaa Almasiihu ɗii, mi tawdete e teddungal ɓannginoyteengal ngal.",,,
+423,"Sordaasien goforneer ɓee naɓi Iisaa ley galle to huɓeere ndee woni too, fedde sordaasien ɓee fuu pilii mo.",,,
+424,Iisaa noddirteeɗo Yustus oo duu ana jowta on.,Iisa nodru teedo Yusus Odu ana jowta.,0.75,0.2703
+425,Kasen duu fay gooto e sakiraaɓe ɓee waraali humpita min naa haala ko boni ko ngaɗ-ɗaa.,,,
+426,Jemma e ɲalooma miɗen ndaarda Laamɗo yiide on faa min kiɓɓintina ko ɲaki e goonɗinal mon.,Yamma e nyalooma mi denndaarɗe lamɗo yiɗe on fahmin kippintina ko,0.8125,0.411
+427,Gorko biyeteeɗo Barabas murtidiino e woɓɓe faa ɓe mbari neɗɗo.,Gorko bi'eteedo Barbass murtiidinno e wobb faabe mbari neddo.,0.7,0.2308
+428,Non ɓe coynii hoodere nde ɓe njiinoo funnaange ndee.,ɗon be ceyi ni hoore dernde be jii no fulnaaɗe,1.1111,0.4186
+429,"Marta wii: —Miɗo anndi o immitoto ɲannde immital, ɲalaande sakitotoonde.",Matawi,1.0,0.8983
+430,"Yonki Iisaa ɓeydi ɲawde, o yehi tiimoyde yanaande ndee.","Yanki isa beɗin yaude, o yei timmoɗe yanaanɗe.",0.8889,0.4
+431,"Ngeenndi naa galle fuu pecciiɗo ana haɓa e hoore mum, heddataako.","Gendina galle fu pecciɗi ana haɓa e hore mum, heɗɗata.",0.5455,0.2453
+432,"Kaa nde ɓe njiinoo gorko cellinaaɗo oo ana dardii e maɓɓe, walaa fuu ko ɓe mbaawi yeddude.","Kadi be nyina gorko cellinaado on a darde mabbe, wala fu ko be mbaawi yeddude.",0.7647,0.25
+433,"Iisaa jaabii ɓe: —Jooni, on ngoonɗinii naa?",isa ja bi'e Joni,1.0,0.6364
+434,"Kaa banngal jilli hakkunde sakiraaɓe, fotaa ko min mbinndana on, sabi onon e koe mooɗon, Laamɗo anndini on no njiɗondirton.","Ka bangal jilli hakkunde sakiraabe, fota ko min bindana on. Sabi onon e koymodon, lamdo annini on no gidondirton.",0.5,0.15
+435,"Nde Iisaa wartunoo ndee, jamaa oo jaɓɓii ɗum, sabi yimɓe fuu ana ndoomunoo ɗum.","Dii saare noori jamaa o jappiidum, sabu yimbe fu anndu no dum",0.9286,0.3651
+436,O wii ɗum: —Jokku e am!,"Milo yimabe, jabebe, wi. Kodum wade sodon milo miloji badini e berde mon.",2.0,3.2667
+437,"Onon duu, so on ngollii golle lobbo tawi kulol fuu imminaali hakkillaaji mooɗon, on ɓiɓɓe makko, kanko Saaratu.",on on du so on golli golle lobbo tabi kulol fu iminale hakkilaji modon on bibbe makko kanko,0.6111,0.2444
+438,"Ɓeen njaɓani worɓe mumen, hono no Saaratu ɗowtanirii jom suudu mum Ibarahiima faa ana noddira ɗum kalfaaɗo nii.",Benja bani wato mu'en. Hono no sarato do taniri jomsudu mu'en Ibrahima. Fa'a anan nodira dun kalfa do,0.8333,0.3043
+439,"Miin, mi hokkirtaa on no aduna oo hokkirta on nii.","Min mi hokkirta on, no aduna o hokkirta onni.",0.5,0.1026
+440,"E ley ɓe ngalaa e Sariya Muusaa ɓee, mi waɗii hoore am mo walaa e Sariya oo, yalla miɗo heɓa ɓe, fay so miin e hoore am, mi waasaali taweede e sariya Laamɗo oo, sabi ley sariya Almasiihu ngon-mi.",,,
+441,"Ɓe ƴaɓɓii Perge, ɓe ngari Antiyokiya ley leydi Pisidiya.","ya yi birg, ya yi anti yaki ya lele di pcd",1.2222,0.5
+442,"Nde ɓe nannoo ɗum ndee, ɓe mbatisiraa saabe Iisaa Joomiraaɗo oo.",Debe nan nodumde be mbati sira sabi Isa jomiraado.,1.0,0.2885
+443,"Njaa-mi to malaaika oo, mbii-mi ɗum hokka kam dewtel ngel.","Yamiɗo malaika'o, mbi miɗo hokkakam dewtel",0.9,0.2889
+444,"Nde Pool wari faa ŋabba kalikali huɓeere oo ndee, sordaasien ɓee ndoondii mo saabe jirkitaare jamaa oo, sabi yimɓe heewɓe ana njokki e makko ana ngulla, ana mbiya: —War mo!","Eppolori fa'a ngam bakali kali huɓɓere onde, soɗɗa si en be ndooni mo saabe jirkitari jama'a o. Sabi yimɓe heewɓe ana jokke mako ana gulla, ana biya",0.7,0.2263
+445,"Ndennoo ko saabii so Binndi ɗii mbii ana tilsi Ɓii Neɗɗo torree torraaji keewɗi, hoynee?",Ko saa bi so bindi di mbi'a ana tilci bi'a do torre torraaji kewɗi.,0.8,0.375
+446,"E ley ɗum, omo fiya dabare no o jammbortoo Iisaa.",Leydi dum o mo fe'a dabbare no jamborto Isa.,0.9,0.3158
+447,Won fuu e hooreeɓe ɓee naa e Farisaen goonɗinɗo mo naa?,Wofuu yahore be na e farisa en godin dom wona,1.0,0.3636
+448,"O sankiti kaalisi weccooɓe, o hippi taabe maɓɓe.","O sánki di kaali si weccóbe, o hippitaabe",0.875,0.2564
+449,"Ɓe mbinndi daliili ko tonti mo, ɓe takki ɗum ɗo tiimde hoore makko ɗoo.",Mbinndi jari ko 20 mu. Betakidum do timdi hoore makko do.,0.7143,0.375
+450,ko o waddani ɓe jam saabe ƴiiƴam mum juppiiɗam dow leggal bardugal koo.,O waɗani ɗe jam saɓiɗi ƴamum juppiɗam do legal bardugal ko.,0.7692,0.2586
+451,"Iidi mo buuru ƴuufinaaka, nde ɓe mboownoo hirsude jawɗi Paska ndee, yottii.",Iri mo buru cuufi naak. De mbo wono hirsi de jawdi paskande yotti.,1.0,0.2459
+452,"Wakkati mo ɓillaare naa torra hewti ɓe saabe konngol ngol fuu, ɓe njankiran.",Wakati wa bilare na torre hewti be sabe kongongol fu be jankira.,0.9231,0.2581
+453,"Ɓe ceeki Finikiya e Samariya, eɓe kaalana ɗumen haala tuubugol yimɓe ɓe nganaa Yahuudiyankooɓe.","Bijeeki, finikiya, samariya, be kalaana dum e haala tuugugol yimbe be ngana yewdiankoobe.",0.8571,0.25
+454,"On nanii ko mbii-mi on: «mi yahan, caggal mum mi warta e mon.",on nani komi bi mi on mi yahan caggal mum mi warta e mon,0.3077,0.0682
+455,"Miɗen njetta Laamɗo wakkati fuu saabe mooɗon on fuu, sabi min ceerataa e miccitaade on e ley duwaawuuji amen.",Mi danyi yettude wakkati fu saabe modon on fu. Sabi min cherata e min kitaade on e leydi wa'uji amin.,0.6316,0.2809
+456,"Kaa ko ɓuri heewde e maɓɓe, Laamɗo welaaka ɗumen.",Ka huburi haude ma be lamdo welaaki dumbe.,1.0,0.4103
+457,"Nde Iisaa wiinoo «Miin woni kanko» ndee, ɓe njaari cagga-caggarde ɓe caami e leydi.","मैं इस अभी नो मी वनी कांगो दे, बंजारी चग्गा चग्गा दे, पे चामी ए लेडी।",1.1429,1.0
+458,"Ɲannde fuu ɓe kawritan ley Suudu Dewal Mawndu nduu, ɓe laatii daande wootere, eɓe taƴa buuru, eɓe ɲaamda ley cuuɗi maɓɓe ley weltaare e seyo.","Nyande fu be kawrital lesdi diwal mawngu ndu, be laaci daane wootere, e be taje buuru, e be nyamde les cuudi mabbe, ley weltaare e seyo.",0.84,0.2478
+459,"Tabitanii hoɗuɓe Urusaliima fuu, ɓe ngaɗii ɗoo haaynde maanunde, kasen duu en mbaawaa yeddude ɗum.",,,
+460,"Kuungal manngal ngal sirƴi ndiyam, ɗam ili caggal debbo oo no maayo nii faa ɗam naɓa mo.","Kungal mangal ngal seedi India, dan iri caggal debo o no mayo ni faɗan naɓa",0.7647,0.2714
+461,"Iisaa yii inna mum e taalibbo mum korsuɗo oo ana ndarodii, wii inna mum: —Inna, ɓiya annii!",ईसाई इनमों इतालवी बमों कोर्सड ओ आनंदरुदी वी इनमों,1.0,1.0
+462,"Ɲannde nden, ana foti ujunaaji tati neɗɗo ko naati e deental goonɗinɓe ngal.","Yannanden, ana foti ujunaaji tati neddo ko naati dental gondiɗɓe.",0.5385,0.2258
+463,"Ɗon e ɗon tuundi makko taƴi, o maati e calɗi makko o sellii.",To di makko taje. O maati e caldi makko o selli.,0.5385,0.3043
+464,"» O yalti sella, o darii omo woya faa omo heppiƴa.","Woyal ti cella, wota ri amowa fa mu heppi.",1.0,0.3514
+465,"Iisaa jaabii, wii: —On anndaa ko ɲaagoto-ɗon.",,,
+466,"Kasen duu so yitere maa luuttinte, sol nde.",Kacchan do.,1.0,0.8529
+467,Tama on anndaa gollooɓe e ley Suudu Dewal Mawndu ɓee ana nguuri e kulle ɗe yimɓe ndokkata Suudu nduu ɗee?,Tam on anda.,0.95,0.8941
+468,"Caggal ɗum, ɓe itti Iisaa to Kayafas gila beetee kecco, ɓe naɓi mo to huɓeere goforneer oo.","Chagall doom, ba itti isa tukka yaa fas ngilla beeta kecco. Be nabi Moto hubere governor",0.9412,0.375
+469,"Nii o fuɗɗi hunaade e huttaade, omo wiya: —Mi anndaa gorko mo kaalaton haala mum oo fey!",Me under,1.0,0.9265
+470,"Ko ɓuri ɗum fuu o yiyaali hen sami, ɲaw oo ɓeydoto jaati.","Ko buri dum fu, o yi'a alihen sam. Nya'o o be'i do to jaati.",0.9167,0.2045
+471,"» E iwdi makko Laamɗo yaltini Iisaa, kisinoowo Israaiila no fodirnoo nii.","यो दिमाग कलामले याल्तिनी ईसा, किसिनो इस्राईललाई फोदिरनो",1.0,1.0
+472,Golle oo yo moƴƴere nde Laamɗo waɗirani kam baawɗe mum.,Golle o'yo mo'jjere na'lamdo wajirani kam bawde mo.,0.8,0.2667
+473,"Ɓe njehi to hooreeɓe yottinooɓe sadaka e mawɓe, ɓe mbii: —Min kunike hunoore fay huunde min ɲaamataa min njarataa gila ɗoo faa min mbara Pool.",,,
+474,"Ko ɓe ngaɗi dee, ɓe njennu innde Laamɗo mo baawɗe ngoodani dow ɗii balaawuuji oo.",ko bengali de en jenu inde lamdo mo bawde godani dow dibalawuji,0.8,0.2769
+475,"Ɗo mbiyan-mi mi regike fuu, a tawan won adiiɗo kam jolde.","Bambi mi mireki kifu, atawan won adido kam joldude.",0.7273,0.2727
+476,"Nde Iisaa yii jamaa oo ana doga ana wara ndee, jahii e ladde ndee, wii ɗum: —Ladde muumɗinoore faaɗinoore, mi yamirii ma yaltu e suka oo, pati naattu e makko abada kasen!",,,
+477,"Ɗum waɗii, yalla ko sappaa e Binndi ɗii koo ana tabita: «Ɓe peccii kaddule am hakkunde maɓɓe.",,,
+478,yalla koppi fuu ana koforoo saabe innde makko to tawaa fuu.,Yalla ko pifu ana ko foro saabi in de makko to tawa,0.8182,0.1875
+479,"—Ko saabii so oɗon noddira kam «Moobbo», kaa on ngaɗataa ko mbii-mi?",ka bi so'o don noddira ka mobbo ka on ngadata ko bi,0.75,0.2745
+480,"Kaa nde wonnoo kanko e hoore makko o ɲaagiima sariya makko ɓettinee, naɓee to kaananke Roma mawɗo oo, mi fellisii neldude mo ton.",,,
+481,"So aɗa golla ɗii golleeji, ɓannginan yimɓe hoore maa.",Soo a golladi golleeji banginaani yimbe hoore ma.,0.7778,0.2326
+482,"Miin nii, haala wauka nii ana wemmbi kam, ɗum waɗi so lamndi-moo-mi yalla omo jaɓa saroyeede Urusaliima naa?",,,
+483,"Janngo mum, Yaayaa yii Iisaa ana wara e mum, wii: —Annii, njawdiri Laamɗo ndoondotoondi luutti aduna.",Anni,1.0,0.95
+484,"Joomiraaɗo Laamɗo Jom Baawɗe, sariyaaji maa yo goongaraaji yo pooccitiiɗi!",,,
+485,"Sabi ana nanndani kam, minen nelaaɓe ɓee, Laamɗo heedini min caggal no saraaɓe wareteeɓe nii.","Sabi anan nan nikam, minen labe be lam do hedi ni min caggal no sara be warte be ni.",0.9333,0.25
+486,"Kaa nde wonnoo Iisaa nanii ɗum, wii hooreejo suudu waajordu oo: —Pati hul, hoolam tan, ɓiya oo daɗan.","Kande wonno isa nani dum, wi hooreji suudu waajordo o, pati hul, holam tan, biya o dadaan.",0.7778,0.1923
+487,"Sakiraaɓe am, mi narrii yimɓe suudu Kolowe pooɗondiral won hakkunde mon.","Sakiraabe'en, min arrii yimbe suudu kolwe, poddiral won hakunde mo.",0.8182,0.1833
+488,"Nden ɓe nodditi ɓeen kasen, ɓe njaggini ɗumen pati mbaajoo, pati njanngina innde Iisaa.",Then,1.0,0.9577
+489,"O neli taalibaaɓe makko ɗiɗon, o wii ɗumen: —Njehee ngeenndi too, on kawran ton e gorko ana roondii mbulku ndiyam, njokkon e mum.",O wi du'en.,0.9565,0.9406
+490,"Nde kaananke oo janngi ɓataaki oo ndee, lamndii hoto o jeyaa.",De ka ne ki o jangi bata ki o de landi hoto jeya.,1.1818,0.3265
+491,"Nden Ruuhu waraali, sabi Iisaa ŋabbitaali e teddeengal Laamɗo tafon.",Naru huwaraali. Sabi isanga bitali etedde nga laamu totta,0.9,0.2982
+492,"O wii: —So mi tilike ton, waajibi mi yaha Roma duu.",Somi tiliketon wajibi mi yaha,0.8182,0.3243
+493,"E ley haɓɓagol maɓɓe e Muusaa ɓe fuu ɓe keɓii lootogal batisima e ley luurde ndee, kaɲum e ley geeci oo.",Eley habbagol mabbe Musa be fu be kebi lotgal battisma eley lurde de kanyum eley geji o.,1.0,0.2927
+494,"Ɓe ndarni Piyeer e Yuhanna yeeso maɓɓe, ɓe lamndii ɗumen e dow dabare honde naa alhorma homo ɓe celliniri bonnguujo oo.",Benda ni piye yuhan yesu maɓɓe. Ɓe landi ɗum ɓe e do dabere honde na alhormo homu ɓe celliniri bonguɗo o.,0.7619,0.2268
+495,"» O hollan on sooro manngo, paraango faa gasi, ton lanndinanto-ɗon en hiraande ndee.",A hollan on soro mango parango fa'gasi to leni nan to don en hira'nede.,0.9231,0.2121
+496,"Nden Iisaa ana wonnoo e ngeenndi ngootiri, faa gorko ceppaaɗo yii ɗum, diccii yeeso mum, wii: —Moobbo, so tawii a jaɓii, aɗa waawi sellinde kam.",Mobo so tawi a jabi ada wawi sellinde ka.,0.88,0.7321
+497,"Kaa sakiraaɓe, onon on ngalaa ley nimre, ɗum haɗata ɲalaande ndee juhude on no gujjo juhirta nii.","Kasan kira'a ne, onon, on galaile nimre, dum haratanya la'ande, juhude on gujjo juhirtani.",0.7059,0.2179
+498,"Kaa so mo aawaama, mo mawnan faa mo laatoo lekki mawki sanne, ki waɗa caɓe mawɗe faa pooli mbaawa ɲiɓude cuuɗi e ɗowdi makki.","Kaso mu a wamo, muma wuna famu lato liki mau kisani, ki wada cabe maudi fafuli bawa nyi buri cude dodi maki.",0.9583,0.3939
+499,O yehi omo haala e leydi ndi geelle sappo ndii ko Iisaa waɗani mo.,"Oye, omahala",1.0,0.8269
+500,"Ko kaan-ɗon laataade dee, ɓurɗo teddude e mon yo laato hono cukalel, ardiiɗo laatoo hono golloowo.","Ko kan o laata de de, burdo teddude emon yo laato hono cukalel, ardi do laato hono gollow.",0.75,0.1519
+501,"Hono no Baabiraaɗo yiɗiri kam nii, miin duu hono non njiɗir-mi on.","Hono no baa birado yidiri kam ni, min do hono non yidiri mo.",0.6667,0.25
+502,"Nde ɓe nani ibaraninkoore o haaldata e maɓɓe ndee, ɓe ndeƴƴinii teen.",debenna ni ibaranin kware o haldatai mabbe de be de'ini,0.9167,0.3571
+503,"Miɗo anndi ɓeen ɓe cuɓii-mi, kaa kinaa ko Binndi ɗii mbii koo tabita: «Ɲaamduɗo e am latiri kam teppere muuɗum.","Mero andi benbe cubi mi, ka kina ko bindi di mbi ko tabita. Nyamdu do am latiri kam teppere mudo.",0.7,0.2644
+504,"Nde miɲiraaɓe Iisaa ɓee njahunoo hawroyde e iidi oo ndee, Iisaa duu yehii ton, kaa o ɓannginaali hoore makko, o suuɗi.","Nde min ngirabe Isa be njawno hauroide e idi o nde, Isa duu yehi ton, ka o banginali hore makko o suudi",0.7143,0.2766
+505,"Nde Yahuuda yaltunoo ndee, Iisaa wii: —Jooni Ɓii Neɗɗo teddinaama, Laamɗo duu teddiniraama saabe makko.","Joni bi neddo teddinaama, lamdo du teddiniraama saabe mako.",0.8,0.4643
+506,"O jaabii, o wii: —No mbii-ɗaa nii.","O yabi, o wi, no mbidaani.",0.5714,0.3043
+507,"Nguurndam ɗam ɓannginaama min njii ɗam, ɗum saabii so miɗen kaalana on haala majjam.",Nguru dam dam banginema min ji dam dum sabi so miden kala on hala majan.,0.8571,0.2899
+508,"Nden Ibiliisa naati e Yahuuda annditirteeɗo Isikariyota, jeyaaɗo e sappo e ɗiɗon ɓee.",Indian ibilisa na ce Yahuda and tirchedo isikaryota je ado e sappo e dido be,0.9231,0.3099
+509,"Kaan haala yo sirri cuuɗaninooɗo jamaanuuji gila arannde, kaa jooni Laamɗo ɓannginanii mo seniiɓe mum.",Ka'an hala yoo siri cuudani noodo jama'uji gila arande ka jooni lamdo banginaniimo seniibe,0.8667,0.2093
+510,"Ɗon ɓe tontidi mo e ɗiɗon woɓɓe: oo nano, oo ɲaamo, Iisaa ana lommbii.","Na'am, ba 20 din ba, ya yi 2000. O na no o nyamo? Iisa na lommbi.",1.1429,0.5472
+511,Kasen duu oɗon anndi fenaande fuu walaa e goonga.,"Kassendu, auron Andy Fernando fuwala egon.",1.0,0.35
+512,"Ɓe noddi wondiiɓe maɓɓe wonɓe e laana ngokka kaa ɓee, ngara mballa ɓe.",Vinod ji woni be mabbe wonbe laana ngokka kaabe. Garam balla.,0.8462,0.2679
+513,"Hooreeɓe yottinooɓe sadaka, dunkeeen Sariya e mawɓe, kaɲumen neli ɓe.",Hoore be'etino de sadaka e dunke en sariya e mawbe kanyo en nelibe.,1.0,0.2456
+514,Sordaasien ɓee ndoolɗini mo o wakkoo leggal bardugal Iisaa ngal.,So what does it mean to do the most? Owa Colegal Badu Isa.,1.3,0.6111
+515,"Ɲannde gartol Almasiihu, neɗɗo fuu sariya ɓannginan fayda golle mum, sabi nden, neɗɗo fuu yiite ɓannginan golle mum, holla gooto fuu fayda golle mum.",yaani akka gaar tol almasiiyuu nedhafuu sarii banqii nan fayyada gollemuu sabii deen nedhafuu yii tii banqii nan gollemuu holla gootofuu fayyada gollemuu,1.0,0.2893
+516,» Gai alooji ɗii tan ngoni ko Laamɗo wattani hakkille naa?,Gai a loggidi tangoni ko lamdo watani hakkille na,0.7,0.1957
+517,"Sabi waaju amen fawaaki dow majjere, fawaaki dow fugaaraaku, ɗum wanaa hiila duu.",,,
+518,"Nde mo tilii waajaade ndee, mo wii Simon: —Njehee to luggiɗi, tippo-ɗon bubbi mon, awon.","De moti liwa jaarende, muwissimo. Njeheto luggiri, tippodon bubbi mon, awon.",0.8,0.1642
+519,"Miɗo haalirana on hono no on hakkilanteen nii, caree onon e koe mon ko mbii-mi koo.","Mi do halirana on, hono on hakkilante enni. Kyare onon kwaymon ko mbi mi ko.",0.8125,0.2
+520,"Ndennoo nguurdee no ɓiɓɓe fooyre nii, sabi fooyre rimata moƴƴuki e fooccitaare e goonga fuu.",,,
+521,"Oon wakkati, Iisaa e taalibaaɓe mum ana ceeka gese ley ɲalaande fowteteende.",Iisa e taalibaa muuna ce aka gisile nyalaande 14,0.9167,0.4921
+522,"Sabi Binndi ɗii mbii: «Laatee seniiɓe, sabi miin mi ceniiɗo.",La de,1.0,0.9362
+523,Ɓiɗɗo oo diwtaa faade to Laamɗo e bimmbeere mum laamu.,Mido diwta faade to lamdo e bimmbere mun lam,0.7,0.2727
+524,Miɗo yiɗi wiide tew cakkanaaɗo tooruuji won ko woni naa?,"Mido yidi wi'de, to chaka na to ruhi wonko woni na",1.0,0.3043
+525,"Gila jooni hono no mi tawaaɗo ton nii, mi sarii gaɗuɗo golle oo.",Gila yoni hono no metawa do tonni. Misali gado golle,0.6923,0.26
+526,"Ruuhu wii Filipa: —Ɓatta, sawnda wotoro oo.",ምሩህዬ ፊሊፓ መታ ሰውን ወትሮ,1.0,1.0
+527,"Caggal ɗum, o yamiri Iisaa fiyee dorri, tontoyee e leggal bardugal.","Chagall dum, oya meri isa fiye dori, tonto ye legal barduga.",1.0,0.2407
+528,"Sabi Laamɗo ɓamii ana yiɗa aduna oo faa hokkitiri Ɓiyum bajjo, yalla goonɗinɗo Bajjo oo fuu ana waasa naatude yiite, heɓa nguurndam nduumiiɗam.","Sabi lamdo bami ana yiɗa aduna o, fa hokkitiri bi'um bajjo. Yalla gonɗi ɗo bajjo o fu ana waasa na turi yiite. Heɓa gurdam ɗummiɗa.",0.5652,0.1949
+529,Pati accon rewooɓe malaaikaen wiyooɓe yo leyɗinkiniiɓe pela on.,Bati aɗon rewaɓe mala'ika'en wiyooɓe yo leydi kinibee pela'o.,0.7778,0.2037
+530,Hono nii o soottitorii en faa abada cilol gootol keƴoowol yimɓe jamaanuuji ɗii fuu.,Ononewoso titori en fa'abada tilol gotol. Kecewol yimbe jama'u yidi fu,0.9286,0.2899
+531,"Kanko waɗata maadi ndii fuu nanngondira, faa ndi toowa ndi laatoo suudu Joomiraaɗo seniindu.",,,
+532,"Sabi suudu Laamɗo nduu yo seniindu, kasen duu onon ngoni suudu nduu.",Kasi ndu onongoni,1.0,0.7455
+533,On anndaa neɗɗo gooto maayana yimɓe fuu ɓuri moƴƴande en diina leɲol meeɗen fuu halkoo.,,,
+534,"Ɓe ɓoorti mo kaddule makko, ɓe ɓoorni mo burmusuure woɗeere.",Babu wani waka da na mako. Babu wani mu burmusu da waɗaya.,1.2,0.5918
+535,"Arannde, on baali majjuɗi, kaa jooni, on ngartiraama e duroowo kayboowo yonkiiji mooɗon.","Arande, on vali majjudi ka Joni, on garti raama e durowa kayewu yonkiiji modon.",0.7692,0.2083
+536,"Ɲannde nden on paaman miɗo e ley Baabiraaɗo, oɗon e am, miɗo e ley mon.","Nyannde en nyannde on faaman mi do leebiraado, odon e am mi do leebimo.",0.8667,0.4444
+537,"Piyeer jippii, wii worɓe ɓee: —Miɗo nii, miin woni mo tewtaton oo.","Pierre Giffi, oui, votre bébé. Mido ni, mi woni mo tawtoto on",0.8333,0.48
+538,"Sakiraaɓe, pati laatee ɓe ngalaa hakkille no cukaloy nii.",Shakira,1.0,0.8723
+539,"Kaa pati laatoro no njiɗir-mi, yo laatoro no njiɗir-ɗaa aan.",kaapati laatoro no jidirmi yo laatoro no jidirda aan,0.4,0.1277
+540,"Muusaa e Iliyaasa ɓanngani ɓe, ana kaalda e makko.",Musa et Elias bangani be. Ana kade ma,0.8889,0.4
+541,Miɗo haalana on goonga: abada mi yarataa peguujam kasen so wanaa ɲannde njaroy-mi peguujam kesam e ley Laamu Laamɗo.,"Wito halana on gonga, a bada mi yarata pegu jam kasin, so wana nyande njaromi pegu jam kesam, ele lamu lam.",0.9474,0.1789
+542,"Ana ƴeewa yalla o anniyiiɗo sellinde gorko oo e ley ɲalaande fowteteende ndee, faa keɓa wullanaade mo.",,,
+543,"Pool fellisii ƴaɓɓoraade Efeesu, sabi o yiɗaa neeptude e leydi Asiya ndii, omo heɲoo yottaade Urusaliima ɲannde iidi Pantekot so tawii ana laatoo.","Paul Felici yewtaraade e fe's, sabu o yiɗaa neftude leydi Asiyandi. Omo henyo yewtaade Ursula Leyen de iidi patikot so tawi ana laato.",0.7826,0.281
+544,"Miin, miɗo woɗɗorii on banngal terɗe, kaa miɗo ɓattorii on e hakkille.",Min mi do wodduri on bangal terde ka mi do battori on e hakkille.,0.8333,0.2143
+545,"Iisaa wii mo: —Miɗo haalane goonga: jemma hannde oo jaati, fade ndontoori jogginde cili ɗiɗi a wiyan a anndaa kam cili tati.","Mi do halene gonga, jemma hande o jaati, fadin dontori joggindi chili didi, a wi'a a anda kam chili tati.",0.7273,0.2755
+546,"Saabe majjum, miɗo nii diccanoo Baabiraaɗo jeyɗo leɲol gonngol dow kammu e gonngol e leydi fuu oo.","Saabe majum, miɗo nii diččano baabiraaɗo jeeɗo leñol gongol do kammu e gongol e leydi fuu.",0.4706,0.1375
+547,"Nden o wii Natanayel: —Miɗo haalana on goonga: on njiyan kammu ana udditoo, on njiyan malaaikaen Laamɗo ana ŋabba ana njippoo dow Ɓii Neɗɗo.","ɗen o wi natana yel. Mi halana on gonga, on ji'an kammu ana uddito, on ji'an mala'ika'en lamu ana ngabba ana jippo dow bi'etdo.",0.6667,0.2232
+548,"Fade am warde, tiiɗaa e janngande yimɓe Binndi ɗii, mbaajo-ɗaa ɓe, pamminaa ɓe.","Fada amarde, tiɗa e jangande yimɓe biɗɗi ɗi, baajoɗa be pamminaɓe.",0.8462,0.2097
+549,Sabi naatude maa e Laamu Laamɗo a ɗokko ɓuri moƴƴande ma diina tippe-ɗaa e jahannama a kiɓɓuɗo.,Tabina to dema ela mulam da dokku buri mojjan dema dina tippida e jannama aki buri.,0.9412,0.2987
+550,Ɓe cujidani kuungal ngal sabi ngal hokkii taktakol ngol baawɗe maggal laamaade.,"Bature ji da ni kungal ngal, sabi ngal ho kita kutakol ngol bawo de magal laamade.",1.0,0.209
+551,"Huunde fuu ko ngollaton, ngaɗiron ɗum ɓerɗe laaɓuɗe, sabi Joomiraaɗo ngollanton, wanaa yimɓe ngollanton, anndon Joomiraaɗo barjoto on, hokkan on moƴƴereeji desanaaɗi yimɓe mum.",,,
+552,"No Laamɗo hordi min faa halfini min Kabaaru Lobbo oo nii, hono non min mbaajortoo, wanaa ko welata yimɓe min tewtata, ko welata Laamɗo kumpitiiɗo ɓerɗe amen oo min tewtata.","Laamu dohor di min faahilini min kabaru lobbo o ni, hono no min baajorto. Wana ko weleta yimbe min cewtata, ko weleta laamu kumpiti do derde amin o min cewtata.",0.7333,0.1871
+553,"Janngo mum, o yehi ngeenndi mbiyeteendi Nayin, kanko e taalibaaɓe makko e yimɓe heewɓe.","Jangugo, wuyhinge ni mi yetinayi, kan ko yettari ba mako yimbe hewɓe.",1.0,0.3521
+554,"Nde ɓe tilii jaayrude mo ndee, ɓe itti burmusuure ndee, ɓe ɓoorni mo kaddule makko.",,,
+555,"Sabi heewii ko o humti tonngooɗe e calali, o taƴan calali, o hela geƴƴelle.",Sabheeri ko humti tongode e challali o tajan challali o hela gejjel,0.5714,0.2712
+556,"Ɗum waɗi so min neli Yahuuda e Silas, pammina on ko min mbinndi e mon koo hunduko e hunduko.",Don't worry so me Nelly Yahuda,0.9474,0.8611
+557,"Laamɗo yo koolniiɗo, kanko noddi on kaɓɓo-ɗon e Ɓiyiiko Iisaa Almasiihu Joomiraaɗo men oo.","Lamba ɗaya ko na biyu, kanko naɗi on kaɓɓoɗon e ɓiiko Isa Almasihu, jomiraaɗo men.",0.7857,0.2973
+558,"Malumaluuje ɓutte caami e yimɓe, wootere hen fuu teddeefi mum ana waara e kilooji capanɗe nay.",Malu malu je bute chami e yimbe. Wotere hen bute defi mun ana wara e kiloji cappande nayi.,0.875,0.2078
+559,"Sabi kamɓe, sinndo e men ɓe njeyanoo, ɓe keddodotono e men.","Sabi kam be, sindo emen be jano, be kedo dotono emen",0.9091,0.1957
+560,Iisaa wii ɓe: —Ngaddee yoga e liɗɗi ɗi nanngu-ɗon jooni ɗii.,Iza wibe. Gadde yoga e liddi di nanguɗon jooni di.,0.7273,0.2826
+561,"Caggal mum, ɗaanoo jemma daroo ɲalooma, no laatii fuu aawdi ndii fuɗan, mawna, tawa joomum anndaa no ndi mawniri.","Chakaal mum taa no jem daro nyalooma. No laati fu aawdi di fudan, mauna tawa joom mum andani mauniri.",0.8421,0.2444
+562,"Ndennoo ley ko ngollaton fuu, kulee mo faa ɗo koɗaaku mooɗon haaɗi e aduna.",den no le kongollo ton fu kule mu fa do koda ku modon hadi e aduna,1.0,0.25
+563,"Kaa onon, on njiyan kam, sabi mi guurɗo, onon duu on nguuran.","ka onon on jeyanka, sabi mi gurdo onon du on gura",0.5,0.2174
+564,"Yimɓe ƴaɓɓotooɓe ɗon ɓee ana njenna mo, ana njinka koe mumen, ana mbiya: —Aan gurjinoowo Suudu Dewal Mawndu nduu so mahitoo ndu ley balɗe tati, biltu hoore maa.","An gijino su du dewal ma'un du,",0.9643,0.8268
+565,Miɗo ɲaagoo Laamɗo yo deental maa e amen ley goonɗinal nafu faa pamminaa yimɓe moƴƴere fuu nde keɓaten saabe Iisaa Almasiihu.,,,
+566,Ɓeen kuli nde nannoo Pool e Silas yo Romankooɓe ndee.,"Ben kuli de nan no pol e silas, yoroma ko abende.",0.8,0.2093
+567,"Neɗɗo wanaa salndu wooturu, yo calɗi keewɗi.",nettoyeur à sable de voiture,1.0,0.6944
+568,Ɓe lamndii mo: —Hoto njiɗ-ɗaa min lanndinoyoo nde?,Laindi mu.,1.0,0.8462
+569,"Kaa oon teddinoowo nelɗo ɗum, goonga haalata, ooɲaare walaa e mum.",ka on teddinaa nelal dum gonga haalata o nyaari walaa emu,0.9091,0.2642
+570,"O jaabii ɓe ko selli: —Miin, mi wanaa Almasiihu.",Min mi wana Almasihu.,0.8889,0.5278
+571,"Hono no caɓal peguuwi waawaa rimde e hoore mum kinaa tawee engal ɲiiɓi e peguuwi nii, hono non onon duu, on mbaawaa rimde so on ɲiiɓaali e am.",Hono no chabal pegguwi waawa rimde hori mum. Kina tawe engal nyibe pegguwi ni. Hono non onon du on baawa rimde so on nyibali.,0.5714,0.2232
+572,Kaa ɓe mbii: —Pati ngaɗen ɗum ley iidi oo so yimɓe ɓee murta.,Kaɓɓinɓe Patinga ɗen ɗum ley iidi o so yimɓe ɓe murta.,0.5385,0.1739
+573,"Malaaika oo sadiri ɓiɓɓe peguuje leydi ndii wawdu mum, teɓi ɗe, wedii ɗe e ɓoosirde mawnde.","Malaika o sadiri biɓɓe pehu je leydi ndi wadu mum. Ɓe biɗe, weɗiɗe bo sirde mawɗe.",0.875,0.2192
+574,"-E ley haɓɓagol men e makko, en cuɓaama, enen fawɓe jikke men e Almasiihu gila jooni ɓee.",Ele ha'u gol mende mako en chubaama enen fawu be jikke men e almasihu gila jooni be.,0.6471,0.1884
+575,Ɓeen njokkannoo e makko ana ngollana mo nde o wonnoo Galili ndee.,"Ben, yoo karho e maku ana ngolla namonde o wonno galilinde.",0.8333,0.2264
+576,"So mi yoppitii ɓe koota tawee ɓe ɲaamaali, ɓe mboɓɓoto yolbere e laawol.",,,
+577,O yamiri ɓe mbatisiree e innde Iisaa Almasiihu.,Yammiri 80 sire e inde Isa Almasihu.,0.875,0.359
+578,"Sabi ko woni sago Laamɗo dee, muɓɓiron kunduɗe nuykaaɓe majjuɓe ɓee golle mooɗon lobbo.","Sabuwa ko wani sabuwar lamdo de, mu'ron kunu de nu'i ka be majube be, golle modon lobbo.",1.0,0.3472
+579,"Tama o wanaa cehoowo leɗɗe, tama o wanaa ɓii Mariyama?",Thama o wana ceholedde. Thama o wana bihi Mariyam.,0.8,0.2791
+580,On pooynan hakkunde maɓɓe hono no koode pooyniri ley aduna nii ko nanngu-ɗon konngol nguurndam ngol faa gasi koo.,Ko nanguɗon kongol ngurnangol faagasiko.,0.9474,0.6237
+581,Ɓe ngari hettindanaade mo e sellineede e ɲawuuji maɓɓe.,Engari he tino rārangi mō te siline e enei kupu.,1.0,0.5652
+582,faa mi ooynoo hitaande nde Joomiraaɗo hollata moƴƴere mum ndee warii.,"Fami, o anndi hitande nde jowee mita holata mo, ɗiree mum ɗee wari.",1.0,0.3621
+583,"Saabe ɗum, pati laatee ɓe ngalaa hakkille, paamee ko woni sago Joomiraaɗo.","Sabe dum patilate bengala hakkille, baame ko woni sago jomiraado.",0.6667,0.1667
+584,"Ɓe ɓoorni mo burmusuure woɗeere, ɓe caɲi tenngaade gie ɓe kippi e hoore makko.",Borna mu burmusu re wadere be canye tenga de gi be kippe hore,1.0,0.3968
+585,"Kaa jooni, mo rewrintinii on e makko saabe maayde nde Ɓiyiiko laatiiɗo neɗɗo oo maayi ndee, yalla omo darna on yeeso makko tawee on seniiɓe on ngalaa ayiibe on ngalaa ɲiŋe.","ka yoni, more o renti ni on e makko saabe maide nde bi ko lati do neddo o maide. Yalla o mo darna on yeso makko, tawe on seni be on gala ayibe on gala nyiibe.",0.7742,0.2446
+586,"Kaa miɗo waɗa huunde wootere: miɗo yeggita ko ƴaɓɓii, miɗo fooɗanoo ko warata.",ka mi do wada hunde wotere mi do yeggita ko jabi mi do fodano ko warata,0.9231,0.2222
+587,"Worɓe hulɓe Laamɗo iri Eciyen, mboyi ɗum bojji mawɗi sanne.","Warde hulbe laando iri eciyen, mboyidum boji mawdisani.",0.8,0.2083
+588,"Heewɓe e Yahuudiyankooɓe warnooɓe to Mariyama ɓee njii ko Iisaa waɗi koo, ngoonɗini ɗum.","Haa o bayyinaa ko waranobe to Mariyamabbe, jiiko Isa wadi ko. Ngondiniidum.",1.0,0.411
+589,"Min njii hoodere makko ɓanngii funnaange, min ngarii sujidande mo.","Minji ho darma ko bangi funang, min gari suji dante.",0.9,0.3091
+590,"So kaalir-mi ɗemɗe yimɓe e ɗemɗe malaaikaen, kaa fuu so jilli ngalaa e am, mi lennguru senƴooru naa mi mbaggu dinndoowo tan.",Chokali ri me dem de yimbe e dem de mala eken ka fu so jilli ngala em. Mi lenguru senjoru na mi bagu din do,0.9545,0.303
+591,"Ɗum nee, hono hen gooto e meeɗen fuu nanirta ko ɓe kaalata e ɗemngal ngal muyni?",Dumne honohen gote meɗen fu naŋirta ko be kaalata ɗemɗe gaangal mu'en.,0.875,0.2222
+592,O lanndinike ɓannginde ɗam kisindam e wakkati cakite aduna oo.,Olandinike bangin de dam kisindam e wakkati cakiti adna o.,0.7,0.1346
+593,"Eɗum holla duu ko min kaali haala Laamɗo koo yo fenaande, sabi min mbii Laamɗo immintinii Almasiihu, tawi wanaa goonga so maayɓe immitataako.",dum holla do ko men kali hala lamdo ko yo fenande sabi min bi lamdo immitini almasihu tayi wana gonga so maybe immitata ko,0.7826,0.2069
+594,"On ngoonɗinirii Laamɗo saabe Iisaa Almasiihu mo o immintini e maayde so o hokki ɗum teddungal, faa goonɗinal mon e jikke mon fuu fawoo e Laamɗo.",So,0.9615,0.9829
+595,Tawaaɓe ɗon ɓee njantanii ɓe ko hewtinoo laddaaɗo oo e girooji ɗii.,"Tawa be dombe, njantini be ko hewtino laddado o e giroji di.",0.8333,0.2909
+596,"Kaa ɓe ngoonɗinaali ɓee, Binndi ɗii mbiyanii ɓe: «Haayre nde mahooɓe ɓee tippitii ndee.",Hay rendema ho be tippitinde.,1.0,0.6714
+597,"Yuusufu immii, naɓti cukalel ngel e inna mum leydi Israaiila.","Yusufi immi, nabti chukelangel inamun leydi Isra'il.",0.9,0.28
+598,"Jamaa oo ŋabboyi to Pilaatu woni too, naati e ɲaagaade ɗum waɗana ɓe ko woownoo waɗande ɓe koo.","Jamma o ngabbi to pilato woni to, naati e nyagaade dum, wadnabe ko wonno wadan debe ko.",0.7222,0.2632
+599,"Arfasada ɓii Samu, Samu ɓii Nuuhu.","Arfa Sarah, bi samu samu bi",0.8333,0.3704
+600,"Jooni, mi halfinii on Laamɗo, kaɲum e konngol hinnee muuɗum baawngol naɓude on yeeso e ley goonɗinal, hokka on ko resani sennaaɓe ɓee fuu.","Joni, mi halfini on lamdo, kanyum e kongoli hinne muɗon bango nawude on yeso e leydi gondinal. Hokka on ko resani sennaabe be fu",0.625,0.2252
+601,"Iisaa yeeccitii, wii Piyeer: —Woɗɗam aan Ibiliisa!","Iisa ay itik, VIP, wadam and iblis.",1.0,0.5
+602,"Jooni jukkungo Joomiraaɗo saaman e maa, a wuman, a yiyataa naange faa sarti cartaaɗo oo yottoo.",A woman,0.9375,0.9351
+603,Jooni wakkati oo yottike nde Laamɗo fuɗɗata sarde yimɓe.,"Jooni wakkati o yottike, nde lamɗo fuɗɗata saare yimɓe.",0.3333,0.0851
+604,"Ndennoo enen duu, eɗen kaani hokkitirde yonkiiji men kammari sakiraaɓe men.",Nden no enen du enen kani hokkitirde yonkiiji men kam mari sakiraabe men.,0.7273,0.0794
+605,"Caggal janngeede Sariya Muusaa e annabaaɓe, hooreeɓe waajordu nduu ɓee neli e maɓɓe, mbii: —Sakiraaɓe, so won ko mbaajoto-ɗon yimɓe ɓee, kaalee.","Sakiraabe,",1.0,0.9217
+606,"Neɗɗo fuu luuttinɗo gootel e koy cukaloy goonɗinkoy kam, ko ɓuri moƴƴande joomum haayre teddunde haɓɓee e daande mum, tippee e geeci.",,,
+607,Barnabas e Pool mettondiri faa ceerti.,Varnabas et Paul m'étonnèrent par,1.0,0.5312
+608,Non njii-mi taktakol manngol ngol e kaanankooɓe aduna ɓee e konuuji mumen ana kawriti faa kaɓa e baɗɗiiɗo puccu daneejo oo e konu mum.,Nangimittakta ko mangol gol e kananko be aduna be e konuji mun en anakawriti fa kaba baddido puccu danejo o e konumun.,0.8333,0.2294
+609,"Yimɓe nannguɓe Iisaa ɓee ndarii ana njaayra ɗum, ana piya ɗum.",Innaa lillaahi wa innaa ilayhi raaji'uun.,1.0,0.68
+610,"Nde wonnoo Iisaa anndii miilooji maɓɓe, o wii ɓe: —Laamu fuu pecciiɗo ana haɓa e hoore mum, bonan.",,,
+611,"Ɗum waɗi so ana wiyee: «Aan ɗaaniiɗo, fin!",Umva iyi sonade.,1.0,0.7419
+612,"Ɓe ngaɗan ɗum sabi ɓe anndaa Baabiraaɗo oo, ɓe anndaa kam miin duu.","Dinga dan dum sabida anda babira do, be anda kammin dum.",1.0,0.3396
+613,"Miɗo wiya on: sirri oo, ko woni hakkunde Almasiihu e deental goonɗinɓe ngal koo haalata.",,,
+614,"Kaa enen, kabaaru tonteede Almasiihu e leggal bardugal mbaajoto-ɗen.",gaa enen kabaru tonted almasihu elegal bardugal baajetoden,0.7778,0.1579
+615,"Caggal ɗum, ɓe powti ɲalaande fowteteende no yamiroore ndee wiiri nii.",Chakgalum bep o tinara ne fof di teene no yemirore de wirini.,1.0909,0.3276
+616,"O yii Iisaa ana ɓettoo, o wii: —Annii, njawdiri Laamɗo!","아니, 여우들이랑",1.0,1.0
+617,"Nden Iisaa warti Kaana ley leydi Galili, ɗo mo waylitinnoo ndiyam o waɗi ɗam peguujam ɗoo.",Nyan e sawar di kana leydi Galili. Ɗum waɗi tinnoowo ndiyam o waɗi ɗam be wudjam ɗo.,0.6875,0.274
+618,"Kulol walaa ley jilli, jilli kiɓɓuɗi ittan kulol.",Kullu wala le jilli jilli ki bodi ittan,0.75,0.325
+619,"Nde wonnoo donnooɓe laana kaa ɓee ana njiɗunoo soɓɓitaade, ɓe njippini laanawel pamarel ngel e ndiyam, ɓe mbii eɓe ɲiɓoya torooje to yeeso laana kaa too.",,,
+620,"Ɓe njaabii mo: —Min nanaali Ruuhu Ceniiɗo ana woodi duu, sako min keɓa.",Min naali ruhu cheni do ana wodi du sakko min keba,0.8462,0.3818
+621,"Ngol fuɗɗi bonkaade Laamɗo, engol bonkoo innde makko ndee, kaɲum e hoɗorde makko, ɗum woni ɓe hoɗorde mumen woni dow kammu too ɓee.",,,
+622,Oon woni Iisaa Almasiihu garduɗo e ndiyam e ƴiiƴam.,Bawo ni Isa Almasihu gardu da ediyam e ji'a?,0.8889,0.3095
+623,"Kaa enen, dow kammu njeye-ɗen, eɗen keppi kisinoowo men iwoowo ton oo, ɗum yo Joomiraaɗo men Iisaa Almasiihu.",ka enen do ka munyeden enen keppikisinowo men iwo ton o dum yo jomiraado men Isa Almasihu,0.7222,0.2069
+624,"Hono aan, Yahuudiyanke, ɲaagorto-ɗaa kam miin, Samariyanke, ndiyam njaraa?","Hono an yahudianke, nyagorɗo akammin samarianke, diyan jara.",0.8889,0.2167
+625,Baylo ndaneeri biyeteeɗo Demeteriyus ana tafa cuuroy kaalisi nanndukoy e rewrudu tooru biyeteeɗo Artemis.,Biyete Artemis,0.9286,0.8571
+626,"So Laamɗo teddiniraama saabe makko, kaɲum duu teddinan mo e hoore mum, teddinan mo law.","Teddini raamasa'a be mako, kanjum du teddinam e horemu, teddinam",0.9333,0.3
+627,"O ɓanngini baawɗe makko, taalibaaɓe makko ɓee ngoonɗini mo.","Bangi ni bawo de makko, taliba be makko be ngondi ni.",1.0,0.3061
+628,"Sabi ko ɓuri worɓe capanɗe nayon e maɓɓe ana ɲugganii mo, kunike ɲaamataa njarataa so mbaraali mo.",Sabon biri war becha ban tinayo emabe anan yugganimo kuniken nyamata njarata sombaraimo.,1.0,0.3
+629,"So Joomiraaɗo men Iisaa jaɓii, mi nelan Timote e mon ko ɓooyataa, yalla so mi humpitike kabaaruuji mon ɗii ana waaltina hakkille am.",So yo mera reminisa yabi.,0.9565,0.8505
+630,"Mo heɓaali Ruuhu Laamɗo oo waawataa jaɓɓaade kulle oon Ruuhu, sabi ɗe safiyaaku ɗo joomum.",Mohe baali ruhu laamdo o wawata jabbaade kulle on ruhu. Sabi de safiya kuɗɗo yomo.,0.8667,0.2297
+631,Miɗen ngondi e Aristarka gorko Makedoniyanke iwoowo Tesaloniiki.,"Μηδέν Γκόντι, Αριστάρχου Γκόρκο, Μακεδονία, Ίωνας Θεσσαλονίκης.",1.0,1.0
+632,O wii ɓe kasen: —Tiiɗee e no nanirton haalaaji am ɗii nii!,A wii e bakkase. Tiide eno nanirton haalaaji am diini.,0.6667,0.2273
+633,"Njaɓanee kaanankooɓe ɓee fuu saabe Joomiraaɗo, gila e kaananke ɓurɗo toowde, faa e wakiilu mum nelaaɗo faa jukka waɗooɓe ko boni, yetta waɗooɓe ko moƴƴi.",,,
+634,"Nde min njottii Urusaliima ndee, sakiraaɓe ɓee njaɓɓorii min weltaare.",De min yotti Jerusalem de sakiraabe njabbori mi weltaare.,0.8,0.3051
+635,"Onon, oɗon mbiya: «Faa hannde lebbi nay so kettal wara.",नॉन अरुम्बिया फाहांदे लेब्बी नायी सोकेत्तालवार,1.0,1.0
+636,"Nde ɓe taƴunoo kooƴol ndee, Iisaa wii Simon Piyeer: —Simon ɓii Yuhanna, a ɓuraa ɓee ɗoo yiɗude kam naa?",Simon bi Yohanna,0.9474,0.8375
+637,Ɗon e ɗon Iisaa wii ɓe: —Mbaaltinee hakkillaaji mooɗon!,Baaltine hakkilaji modon.,1.0,0.5227
+638,"Ndennoo, so mi moƴƴinanoyii on nokku, mi wartan kasen mi ɓamta on faa onon duu ngonon to ngonan-mi too.","denno, so mi mo'i na ni onnoku mi warta kasen mi bamta on fa onon dungonon to gonan mi to.",0.6842,0.1728
+639,"Kaa noo, leydi ndii faabii debbo oo, ndi aari hunduko mayri, ndi moɗi ndiyam ɗam kuungal ngal sirƴi ɗam.","Kano, leydi ndi faabi debbo o, ni ari hunko mayri, ndi mboɗi ndiyam ɗam kungal-ngal siɗɗi ɗam.",0.6316,0.1585
+640,On ngoonɗinaali nde kaalan-mi on haala kulle leydi ndee.,"Onon woni naali, ndekaalanmi on haala kulle leydi ndii.",0.5556,0.1304
+641,"Oo woni Iisaa mo Laamɗo immintini, min fuu miɗen ceedii.","Owon Isa Mullah do immintini, men fu miden ceedi.",0.9,0.2667
+642,"Sinndo omo jeyanoo e oo aduna, gollooɓe am kaɓotono pati mi naata juuɗe hooreeɓe Yahuudiyankooɓe.","Cindo omo jeyano e o aduna, golloobe am kaboto no patiminaata e juude hooreeɓe Yahudiyankoobe.",0.6667,0.1235
+643,"Taalibaaɓe makko mbii mo: —Jooni kaa, a haalii faa laaɓi, walaa fuu ko kippu-ɗaa hen.",Taali baabe mako bimo. Joni ka ahali faa laabi wala fu ko ki pudaa hen.,0.8667,0.2
+644,"Min njowtii on onon seniiɓe wonɓe Koloosi, sakiraaɓe hoolniiɓe haɓɓiiɓe e Almasiihu.",Sakira'be honi'be habbi'be almasihu,1.0,0.662
+645,"E ley jokkuɓe Sariya Muusaa, mi waɗii hoore am jokkuɗo Sariya Muusaa, yalla miɗo heɓa ɓe, fay so wanaa waajibi mi jokka Sariya oo.",Yalla mi do heba be.,0.9167,0.8835
+646,"Nanɓe waaju makko ɓee kaaynaa, hedde ana mbiya: —Hoto o heɓi ɗum?",naa be waaju ma ko be kaina heddi ana biya hoto o hebido,0.8333,0.28
+647,"Wumɓe ɗiɗon ana njooɗinoo e sera laawol ngol, nani ana wiyee Iisaa annii ɓettoo, puɗɗi wullude ana mbiya: —Taanii Daawuuda, yurma min!","Tawi Iisaa anan ngabbita faade Urusaliima, sawndintiini taalibaaɓe sappo e ɗiɗoɓe e lawol. Wiidume",1.0,0.757
+648,"Iisaa jaabii mo, wii: —Miɗo haalane goonga: fay gooto waawaa yiide Laamu Laamɗo tawee rimtaaka kasen.","I sa ja bimo wi. Mido halana gonga, fay gooto wawa yi'de lamu lamdo Tavarimta ka kasan.",0.9375,0.2469
+649,"Taalibaaɓe makko ɓee mbii mo: —A yii jamaa annii ɓillu maa, aɗa lamndoo: «Homo memi kam?","Taali baabe mako be bimo. A yi jama'a billuma, ada lamdo homomemi",0.875,0.2985
+650,"Pati fay gooto yawore a suka, laatano-ɗaa goonɗinɓe misaalu haala e golle, jilli e goonɗinal, kaɲum e laaɓal.","But if I go to Yauri, Asuka,",1.0,0.8276
+651,Saabe ɗum ana wajibii e debbo soomude e hoore mum taagumansa baawɗe saabe malaaikaen.,Sabe dum ana wajibi e debbo somde hore mum tagu mansa baude sabe mala'ika'en.,0.7857,0.1831
+652,"Yoppitin jamaa oo, yalla ana coodoya ko ɲaama to geelle too.","Yoo pin tin jama'a, yalla ana chooda ko nyama to gelle to.",0.7273,0.2292
+653,"Kaa fay so e doole min ngardunoo duu, min mboofaali sabi min nelaaɓe Almasiihu.",ka fa so a do le min gardu no du min bo fa li sabu min nela be almasihu,1.0714,0.2188
+654,"Ɗo yimɓe fuu lootaa lootogal batisima ɗoo, ɗoo Iisaa duu lootaa.","Iye bi fu lota lota gal batisimu do, do Isa du lota.",1.0909,0.4038
+655,"Oɗon anndi ngol konngol kuuɓungol leydi Yahuudiya fuu, puɗɗirngol gila Galili, caggal Yaayaa waajike yo yimɓe loote batisima.",,,
+656,"Jooni anndal am hiɓɓaali, kaa wakkati waran nde anndan-mi faa hiɓɓa, no Laamɗo anndiri kam faa hiɓɓi nii.",Yoni andam hiɓɓali ka wakkati waran de andam mi faa hiɓɓa no lamɗo andiri kam faa hiɓɓini.,0.6667,0.1548
+657,"Kaa Piyeer e Yuhanna njaabii ɓe, mbii: —Onon e koe mooɗon, ƴeewee yalla ɗowtanaade on luutta Laamɗo woni goonga.","Ka Pierre Yohan, njabi be mbi. Onon eko'e modon, ewe yalla otanabe on lutta lamdo woni gonga.",0.7895,0.2584
+658,"» So o wirfitike, o tawan galle oo yo ɓolo, ana wuuwaa, ana moƴƴinaa faa wooɗi.","Wota won galle o yobbolo, ana wuwa ana mojjina fawo.",0.8,0.4068
+659,Farisaen nanii wiyaama Iisaa ana loota lootogal batisima ana heɓa taalibaaɓe faa ɓuri Yaayaa.,Fariisa enna ni vi'ama isa ana lota lota gal baptisma. Ana heb a taliiba be faaburi yaya.,1.0714,0.2532
+660,Laamunkooɓe ɓee kaaltani hooreeɓe Romankooɓe ɓee haala kaa.,"Laamu ko'e kaaltani hooreeɓe, ruman ko'e haalaka.",0.75,0.2549
+661,"So sariya oo fuɗɗirii en enen, hono timmirta e dow ɓe njokkaali Kabaaru Laamɗo Lobbo ɓee?",Soo sariyo off 3N N hoono timmirta e do be njokkali kabar lamdo lobbo be.,0.8125,0.3194
+662,"Suka debbo oo jokki haala inna mum, wii Hirudus: —Waddanam ɗoo hoore Yaayaa mo lootogal batisima oo e laal!",,,
+663,Baabiraaɗo nelɗo kam oo hokki kam yamiroore ko kaalan-mi e ko mbaajotoo-mi.,Baa Biraa dunyalɗo kam o hokki kam yamirore ko kaalanmi e ko baajotoomi.,0.5,0.1148
+664,"Neɗɗo fuu goonɗinɗo kam, calluɗi ndiyam nguurnoojam ilan iwde e ɓernde mum, hono no winndiraa e Binndi ɗii nii.",Nette dofu gondi dokam. Calludi diam gurno diam. Ilan iude berde mum. Hono no vindira e bindi dini.,0.7895,0.3
+665,"So wanaa ɗum, so a yettirii Laamɗo ɗemɗe Ruuhu tan, hono tawaaɗo ton mo woowaa ɗum waawirta wiide «Aamiina» e yettugol maa ngol?",Aminah,1.0,0.9505
+666,Yogaaɓe mbii: —Kanko woni Almasiihu oo.,योगवम्बी कांगो अल मसीह,1.0,1.0
+667,"Hono non, ko heddii e torraaji Almasiihu koo, ɗum kiɓɓiniran-mi calɗi am kammari terɗe makko ɗee, ɗum woni deental goonɗinɓe ngal.","Oon onn ko heddii e torraade almasiihu ko, dum kibbinirammi challi am kam mari terde makko de. Dum woni dental gondimbe gal.",0.7143,0.2
+668,"Naa so debbo goonɗinɗo ana dewlaa gorko mo goonɗinaali tawee gorko oo yarrii wondude e makko, pati o seera ɗum.","Na so debbo gondi do ana dewal gorko mo gondi naali, tawe gorko o yari wondude mako, bati o seradu.",0.7,0.2111
+669,"Ndennoo e banngal ɲaamugol tew cakkanaaɗo tooruuji, eɗen anndi «so goonga, ley aduna, tooru wanaa fay huunde», «Laamɗo walaa so wanaa gooto oo».",denno e bangal nyabgol cew cakka naado tooruuji eden andi so gonga ley aduna tooru wana fayhunde lamdo wala so wana gooto,0.6957,0.177
+670,"O annabaajo, omo anndi Laamɗo hunanike mo gooto e taaniraaɓe makko joottoto e bimmbeere makko laamu.","O annabajo, o mu andi lamdo hunaniki mo mo gooto e tanara mako jottoto e bimbere mako laamu.",0.75,0.2169
+671,"Kaa nde Filipa waajinoo ɓe Kabaaru Lobbo haala Laamu Laamɗo e haala Iisaa Almasiihu ndee, ɓe ngoonɗini, worɓe e rewɓe fuu lootaa lootogal batisima.",Kaani filippa waajinoobe kabaru lobbo haala laamu laando e haala Iisa Almasihu de be gondini warbe reube fulloota lootugal batisma.,0.7917,0.1983
+672,"Oɗon anndi konngol ngol Laamɗo neldi ɓiɓɓe Israaiila ngol, ngol ceyniroowol jam heɓiraama saabe Iisaa Almasiihu, kaɲum woni Joomiraaɗo yimɓe fuu.",,,
+673,"Heddiiɓe ɓee noo, kaɲumen kaɗi koe mumen ɓamde faa ngollana Laamu Laamɗo oo.",Hiddi be beno kanyum en kadi ko e mun en bamde faamgol laamu lamdo o.,1.0769,0.3065
+674,Yimɓe ngeenndi ndii heewɓe ana njokki e inniraaɗo oo.,"Yin bincike ni helpi, ana njo ke inirado.",0.8889,0.5
+675,"Wakkati fuu mo keɓ-ɗon, nawtoro-ɗon ɗum, sabi jamaanu oo yo bonɗo.","Wakkati fu mo kaptan nawata doon dum, sabi jamaanu o yobon.",0.7273,0.2549
+676,"Mo ɓamaali leggal mum bardugal, jokka e am fuu, wanaa potuɗo laataade taalibbo am.","Mooɓa maali leggal mun barɗugal, jokkay am fu, wana puɗɗo laataade taalibu am.",0.7143,0.1667
+677,"Kaa so en njaadiranii Laamɗo luutti men, o yaafoto en, o laɓɓina en e tuundi fuu.","Ka so en jaati Rani Lamɗo lutti men, o yaa foto 1. O laɓɓina 1 e tuundi fuu.",0.5625,0.1587
+678,"O lamndii taalibaaɓe makko ɓee, o wii: —Homo yimɓe mbiyata Ɓii Neɗɗo oo woni?","O landi talibaa makko be, wi, hombo yimbe biyata bi neddo o woni?",0.7857,0.2833
+679,"Sordaasien ɓee naɓi mo naannoyi mo ley galle to huɓeere ndee woni too, mooɓti fedde sordaasien ɓee fuu.",Sordas em be nabi mo naanoi mu leygalle to hubere de woni to mopti fedde sordas em be fu,0.8889,0.2619
+680,"O wii ɗum non, sabi seyɗaanien heewɓe ana ngondi e makko.",We don't know.,1.0,0.8889
+681,Miin Yuhanna winndi oo ɗoo ɓataaki faade e deente jeɗɗi goonɗinɓe gonɗe e leydi Asiya ɗee.,Mi yuhanna windi odo bataake faade e dente je gondi be gonde e leydi Asia de.,0.75,0.2703
+682,"Saabe ɗum, miɗo ndaarda on pati taƴon jikke saabe torraaji kewtotooɗi kam kammari mooɗon ɗii, sabi ɗiin torraaji yo teddeengal mooɗon.","Sabi dum, mi don dardo pati tajo jikke, sabi torraji kyoso todi kam, kambari modon di. Sabi din torraji yo teddegal modon di.",0.8571,0.2793
+683,"Minen worɓe ɗiɗon ɓee, min fuu min Romankooɓe.",Min anwar bidi dombe. Min fu mi ramanko,0.875,0.4054
+684,"Sakiraaɓe, miɗo miccintina on Kabaaru Lobbo mo njottin-mi on, mo njaɓu-ɗon, mo ɲiiɓu-ɗon e mum oo.",Shakira be,1.0,0.9079
+685,"Kasen duu, fewjanam jippunde, sabi miɗo jikki njaabane-ɗon duwaawuuji mon mi wara to mon.","Kasi ndu se o jena mi jippunde, sabi mi do jikki jaabane do ndua'uji mon mi warata mon.",0.9286,0.1944
+686,Yo on keɓu moƴƴere e jam iwde e Baabiraaɗo men Laamɗo e Joomiraaɗo men Iisaa Almasiihu.,Onke umotere jam yu de babira do men lamdo e jomira do men Isa Almasihu.,0.875,0.2817
+687,"Yimɓe yogaaɓe iwi Yahuudiya ngari Antiyokiya, ana njanngina sakiraaɓe ɓee, ana mbiya: —So on taadiraaka no Muusaa wiiri nii, on kisataa.",So on,0.9048,0.9636
+688,"Sewre ndee fuu diiri, iwi hoore waamnde haayre too, naatoyi e ley weendu nduu, yoolii.","Shawarwarinmu na farko shine, ibada wani abu ne mai matukar muhimmanci.",1.0,0.8235
+689,"Ɓeen njenni mo, mbii mo: —Aan woni taalibbo makko!",Ben je niet meer?,1.0,0.7895
+690,"Nden Laamɗo ɓoorti Sawul, lammini Daawuuda, mo o haali haala muuɗum so o wii: «Mi heɓii Daawuuda ɓii Yessa gorko ɓuuɓinoowo ɓernde am, gaɗoowo sago am.",Da Allah nando boti saul lammini dauda mo hali hala mudum so wi mi hebi dauda bi yesa gorko bubinowo berde am gado sago am,0.7308,0.3333
+691,"Oon gorko yehi to Iisaa jemma, wii ɗum: —Moobbo, miɗen anndi a jannginoowo iwruɗo to Laamɗo, sabi fay gooto waawaa waɗude hono kaayɗe ɗe ngaɗataa ɗee so Laamɗo wondaa e mum.",Mobo,1.0,0.9708
+692,"Mo sarataake, mo diwii maayde, mo naatii e nguurndam.","Musa tak, mu dibi mai da mu naati a gurin nan.",1.2222,0.4524
+693,"O warti cilol tataɓol, o wii ɓe: —Faa jooni oɗon ɗaanii oɗon ŋoottinoo naa?",,,
+694,"Ndennoo, ɲiiɓee e Almasiihu no Ruuhu mum oo jannginiri on nii.","Nnọọ, Ị̀bɛ̀ Almasihu nọ́ rúhú mụ́nụ́ ọ́ jángị̀",1.0,0.66
+695,Tawi ana winndii e tiimde hoore makko: oo yo kaananke yahuudiyankooɓe.,"Tawi ana winde ciindi hoore makko, o yo kaanaaki yawdiyankooɓe.",0.5455,0.2069
+696,"Miɗo haalana on goonga: neɗɗo fuu dokkuɗo on horde ndiyam kammari on yimɓe Almasiihu, o waasataa heɓude mbarjaari makko.",Neddou fu dokkudo on hordé ndiyam kammaru on yimbe almasihu. O wasata hebudé mbarjare makko.,0.7368,0.3434
+697,"Jooni wanaa mo janngaali, wanaa neɗɗo ladde, wanaa dimo, wanaa diimaajo, sabi Almasiihu woni fuu, woni e maɓɓe ɓe fuu.",Woni wona mo jangali wona neddo ladde wona dimo wona diimajo sabi almashi woni fu woni e mabbe be fu.,0.65,0.2473
+698,"So nii neɗɗo ana taadee ɲalaande fowteteende pati on luuttu Sariya Muusaa, koɗum tikkiranton kam saabe mi sellinii neɗɗo kuurɗo ɲalaande fowteteende?","Sweni ni neddo ana taade nyalaande fotte tende, pati on lutti Sariya Musa. Ko dum tikkirani tonkam Sabi mi sellini neddo kurdo nyalaande fotte tende.",0.9091,0.2063
+699,"Sabi kulle tati ana kolla Iisaa woni Almasiihu, ɗum woni Ruuhu e ndiyam e ƴiiƴam, seedaaku majje oo duu yo gooto.",ta bikul tati ana kolla Isa wuni almasihu dun wuni ruhu andiyam e iyam seda ku majje o du yo god,0.7619,0.2444
+700,"Ko anndinta en eɗen anndi Laamɗo dee, haybude jamirooje mum.",Wadi nda en eden andi lamdo de hay bude jamroji,0.9,0.3265
+701,"On naɓete yeeso sarooɓe e kaanankooɓe saabe am, faa laatano-ɗon kam seedeeen yeeso maɓɓe kamɓe e heeferɓe ɓee.","Wanna be the yes, sir. Oh, be a cannon. Kobe Sabi. Fall out on the Duncan. CD and yes, some big can be a heifer.",1.3889,0.5778
+702,"Ko Piyeer naati galle oo koo, fade mum heɓude haala, Iisaa wii: —Simon, koɗum woni miilo maa e ɗum?",Simon,0.9474,0.9333
+703,"Onon duu, on ceettanto kam sabi oɗon ngondi e am gila puɗɗooɗe.",Onon du on chettanto kam sabi odon gonde am gila puddoode.,0.5,0.16
+704,E oon Bajjo mo rewrintiniri huunde fuu e makko.,"Aam baayo, moreworenti ni huune fu e",0.8889,0.4474
+705,Iisaa jaabii: —Mo ndokkan-mi lonngere nde cuuwan-mi ndee oo.,e saabi,1.0,0.8936
+706,Haala am e waaju am fawanooki e ɲeeɲal haala jaalotoongal neɗɗo.,Halal am e waaju am faa wonuki enye nyalhal jalo tongal ne,0.7273,0.3208
+707,"So ko aawaa koo ɓenndii, o ɓaman wawdu makko o hetta, sabi wakkati mum yottike.","Soko a wa ko bendi, o bama na wawdu mako o hetta, sabi wakkati mum yotti.",0.6,0.1774
+708,Gooto gooto mon fuu jowtira sakiike mum jowtaango wondungo e jilli.,Go to go to,1.0,0.8571
+709,"Sabi o miilii: «So mi memii saaya makko tan, mi sellan.",C'est bien humilié.,1.0,0.8537
+710,"Nde wonnoo jirkitaare ndee haɗii mo faamde, o yamiri Pool naɓee to huɓeere too.","To wonna jirkitare de'e haɗi mo famde, o yamiri polnaɓe to huɓeere to.",0.6429,0.1875
+711,"Malaaika nayaɓo oo yuppi laal mum e dow yitere naange, nde hokkaa sumirde yimɓe nguleefi mayre.",Malaika na yabo yuppi la'al mun edo yitre nange. Neho ka sumir de yimbe gulefi mayde.,0.875,0.1923
+712,"Kanko, o teddinan kam, sabi o ɓaman ko njey-mi koo, o humpitira on.","Kanko, o teɗɗi nanka, sabi o baamanko njeeymi ko, o humpitiro on.",0.5385,0.16
+713,"Caggal ɗum, o talliti haayre teddunde, o uddiri damal yanaande ndee, o witti.","Chakallu, wattaalichi haireta dune, udiri damali yanaani de, uwiit",1.0,0.4098
+714,"Min fuu, min caami e leydi, nan-mi daande ana wiya kam e ley ibaraninkoore: «Sool, Sool, ko saabii so aɗa torra kam?",,,
+715,"Iisaa wii mo: —Ndennoo, duguleen ɓee kaanaa yoɓude.",Ndi sa wimu ndenno dugule mbe kana yobude.,1.0,0.325
+716,"Jooni, caggal on cennirii koe mooɗon ɗowtanaade goonga faa njiɗon goonɗinɓe ɓee sakiraaɓe mooɗon, njiɗon ɓe jilli ɗi ngaldaa e naafigaaku.","Joni, caggal nde ceniri ko e modon dotonade gonga, fa'jidon goddi be de sakira'be modon, jidon be jillidingal da e nasigaku.",0.9048,0.3043
+717,"Ardoro-ɗaa sakitiiɓe nanngeede ɓee, cakitoro-ɗaa adiiɓe nanngeede ɓee.","O wi be, ""Nje he onon dungol yon e ngesa am pegu janga."" De hirno de, jom ngesa o wi kecca dumum o. Noddu gollobe be joba dum en. Ardo roda sakiti be nange de be, sakito roda adi be nange de be.",5.375,1.8644
+718,Kanko woni mo neluno-ɗon faa walla kam e haaje oo.,Kaanko woni monnel noddon fa wallakam e haaje o.,0.7,0.1795
+719,"Ko njiɗ-ɗen sakiraaɓe men koo, ɓannginani en en njaalike maayde, en naatii e nguurndam.",Kunjit en sakiraabe men ko banginani en en jaali ke mayde en naati en gurdam.,0.7857,0.1714
+720,"Nde Iisaa duworinoo nii ndee, yaadi e taalibaaɓe mum ootoo bannge callugol biyeteengol Kedoron.",,,
+721,"Hono non, ɗemɗe Ruuhu ɗee yo maande ɗo ɓe ngoonɗinaali ɓee, kaa ɗo goonɗinɓe ɓee, wanaa non worri.","Ho non non, demde ruhu de yo maane dobe gondinali be, ka do gondi be be, wana non worri.",0.8333,0.3117
+722,"Non jooɗiiɗo e luurde oo sadiri ko woni e leydi ndii koo wawdu mum, leydi ndii fuu hettaa.",Nan jori ra'i lurde o saɗiri ko e leydi di ko wawdu mun. Leydi di fu hetta.,0.7222,0.3099
+723,Annabaaɓe ɓee fuu kaɲum e Tawreeta Muusaa cappike Laamu oo faa e jamaanu Yaayaa.,Annabi be fu kanyum e tawreta Musa cappande lamu o fa'e jamanu yaya.,0.9286,0.3182
+724,"Ittaa njoɓanaa en, enen ɗiɗon.",ita anjo bana in in in ido,1.4,0.375
+725,"Min njowtii on, onon hooreeɓe e gollanooɓe deental ngal, min njowtii on fuu, onon seniiɓe haɓɓiiɓe e Iisaa Almasiihu ɓee.",Min jooti on on on hore golle noɓe dentungal. Min jooti on fu on on seniɓe haɓɓiɓe Iisa Almasihuɓe.,0.8,0.2347
+726,"Caggal ɗum, Iisaa ɓannganii taalibaaɓe mum ɓee kasen sera weendu Tiberiyas.","Jagal dum, Isa banani tali baabe mum be kase, sara weendu Tiberias.",0.9091,0.254
+727,Sabi konngol Laamɗo e duwaawu ana laɓɓina huunde fuu.,Sabi ko ng lambe dua u analeppina hunde fu,0.8889,0.3182
+728,Yo hinnee Joomiraaɗo men Iisaa Almasiihu wonu e mon!,ዮሐንስንና ዮሜራን ኢሳ አልመሲሁ ወኑኤልን,1.0,1.0
+729,"Ɗum waɗata so eɓe miila ɓe coɓan, tawi ɓe mbaawaa seenndude goonga e pene.",tumhara naam kya hai?,1.0,0.8475
+730,"Laamɗo toowni mo, heedini mo ɲaamo muuɗum, mo heɓi e Baabiraaɗo Ruuhu Ceniiɗo podananooɗo en oo, o saaki ɗum.","Lammɗo tooni mo, heedi ni mo nyaamo muɗun. Mo heɓi e baabiraaɗo ruuceniiɗo poranannoɗo NO, o saaki ɗum",0.5789,0.1379
+731,"Ɲannde nden, gooto fuu heɓan e Laamɗo jettooje ɗe foti heɓude.","Nyanndenden, goto fu heban e lamɗo jettooje, ɗe foti heɓude.",0.5455,0.12
+732,"Oon wakkati, taalibaaɓe ɓee ɓattii Iisaa lamndii mo, mbii: —Koɗum waɗi so aɗa haaldira e maɓɓe banndi?","Anu akaci, caalibaabe bati isa landimu, bii ko dun wadi sawada haldere mabbe bandi",1.0,0.3827
+733,"Iisaa jaabii ɓe, wii: —Oɗon miila ɓee Galilinkooɓe torraaɓe ɓuri luuttude diina Galilinkooɓe heddiiɓe ɓee naa?",Iisa yaabi wi. O don miila be galilinko'en torra be buri luttude diina galilinko'en heddibe be'ena.,0.9375,0.2527
+734,"Kaa loowaaɗo konngol Laamɗo oo, yimɓe haalanta, faa naɓa ɗumen yeeso e ley goonɗinal, hokka ɗumen semmbe, ɓuuɓina ɓerɗe mumen.","Kala waɗo ƙoƙol lamɗo o yimɓe halanta, fa naba ɗum en yeso e legondinal, hokkadum en sembe buɓina berde mun en.",0.95,0.2353
+735,"Sukaaɓe am, mi winndanii on ɗum, pati on luuttu.","To ka bayam, mi winnani on dum, pat on lut",0.7778,0.3243
+736,"Oɗon ceedanii min, Laamɗo ana seedanii min, no min ngorri hakkunde mon nii, onon goonɗinɓe ɓee.","Wota on seeda niimin, lamdo ana seeda niimin, no min gurri hakkunde mon ni onon gondimbe be.",0.6875,0.1974
+737,"O ɓami horde, o yetti Laamɗo, o wii: —Nanngee ɗum, peccee ɗum e hakkunde mon sabi miɗo wiya on: mi yarataa peguujam kasen faa nde Laamu Laamɗo waroyi.","O wi'i nange dum, peccedum hakkunde mon. Sabi mi do wi'a on mi yarata pegu jam kasen, fa'ande lamu lamdo waroy.",0.7857,0.3103
+738,"Kaa noo, Laamɗo reentinii calɗi ɗii fuu e neɗɗo gooto hono no muuyiri nii.","Kano, lamdo renti ni chaldi di fu e neddo gooto hono no muyiri ni.",0.7143,0.2542
+739,"Torra fuu koroowa on, o hokkan on no mbaawron muɲude ɗum, o hokkan on laawol no njaltiron e mum.","Torra fuu koro on ohokan on numbaoro munyude dum, ohokan on lawol nyaltirde mum.",0.6842,0.24
+740,"Baabiraaɗo oo, kaɲum kaa sarataa fay gooto, o waɗii sariya kaa fuu e junngo Ɓiɗɗo oo, yalla yimɓe fuu ana teddinira Ɓiɗɗo oo hono no teddiniri Baabiraaɗo oo nii.","Baabiraado o kanyum ka sarata fay gooto. O wadi sariya ka fu e jungo biddo o. Yalla yimbe fu ana teddinira biddo o, hono no teddiniri baabiraado o ni.",0.6207,0.186
+741,Sabi konngol debbo nanee ley deental goonɗinɓe ana yaaginii.,Sabi ko ngal debonna leydenta ngondimbe ana yaagini.,0.7778,0.2549
+742,"Ndeento-ɗon e yimɓe ɓee, sabi ɓe ndarnan on e carirɗe, ɓe piyan on dorri ley cuuɗi maɓɓe baajorɗi.","De'an to don e yimbe be, sebi be darnan on e carirde, be piyan on dorri le'udi mabbe bajor.",0.7778,0.2597
+743,"Nde o miili ɗum ndee, malaaika Joomiraaɗo wari e makko ley koyɗol, wii mo: —Aan Yuusufu, taanii Daawuuda, pati hul ɓamde Mariyama, sabi ɓinngel o saawi ngel e Ruuhu Ceniiɗo iwi.",,,
+744,"Ɓe fuu ɓe caakii ley leyɗe Yahuudiya e Samariya, so wanaa nelaaɓe ɓee.",Ya fi wajen caki lele da yahudiya da samariya. So wana nyalabe.,0.8462,0.4286
+745,"Nde ƴiiwoonde toɓunoo faa ilaali mbuuwi, ronki fay dimmbude ndu, sabi dow haayre ndu mahaa.",,,
+746,"Ɗum saabii miin kaa ko njii-mi, pati tiiɗinanen yimɓe leɲi goɗɗi tuubuɓe so ngarti e Laamɗo ɓee.",,,
+747,Nii winndorii e Sariya: «Yimɓe ɓe ɗemɗe goɗɗe.,niwndori e sariya,0.75,0.5833
+748,"Neɗɗo bonɗo, ko boni iwata e ndesaari ngonndi ley ɓernde mum.",ne'a bando ko boni iwata inde sariwoni le'berde mu,0.7273,0.3061
+749,"Miɗo neldida e makko Onesim, jeyaaɗo e mooɗon oo.","Mido neldi de mako onesiim, yaa do e modon",1.0,0.2821
+750,"Waɗiino e ɲalaande fowteteende wootere, Iisaa ana darii ana waajoo ley suudu waajordu wooturu.",Wadannan ƴan ƙasa ne faɗin watere. Isa na deri ana wajen lesudu wajen wuturu.,1.0,0.481
+751,"Ɲannde alan, Mariyama mo Magdala hujji, yehi to yanaande too.","Yande Alang, Mariama Momodou Huchy, yeto yanane to",0.9,0.3469
+752,"—Lekki lobbi rimataa ɓiɗɗe bonɗe, lekki ki wooɗaa rimataa ɓiɗɗe lobbe.",Le kii lo biri mata bi'e bonde? Le kii woda rimata bi'e lobbe?,1.0909,0.2807
+753,"Hono ngol dimmbagol leydi waɗaali e aduna oo gila yimɓe tagaa, no ngol sattiri mawnude!",Nongol dimba gol leydi wadaali e aduna o gila yimbe taga. Nongol sattiri mawnu,0.6667,0.1268
+754,"Nde o yottinoo ndee, o wii ɓe: —Nduwee pati on ceyte.",Do you have China de Oribe? Do you have party on chat?,1.0,0.6923
+755,"Sago ngoo yo hawrintinde huunde fuu e hawju hooreejo gooto, ɗum woni Almasiihu, wanaa ko woni dow kammu wanaa ko woni e leydi.",Sagon goyo hauri tinde hunde fu e hauju horejo goto. Dun woni almasihu. Wana ko woni dokamu wana ko woni eleidi.,0.7391,0.1683
+756,"Neɗɗo fuu ceettaniiɗo kam yeeso yimɓe, miin duu, mi seettanto ɗum yeeso Baabiraaɗo am gonɗo dow kammu oo.","Do fuu cheetani do kam yeso yimbe, mi ndu mi settanto do mi yeso babirado am gondo do kam o.",0.8889,0.2941
+757,"So wanaa ɗum, ɓiɓɓe mon laatoto ɓe anndaa Laamɗo, tawee nee ɓe seniiɓe.","Soona dum, biɓɓe mon laatotoɓe andal lamɗo, tawee nee be seniɓe.",0.7692,0.1786
+758,"Ngol hokkaa baawɗe haɓude e seniiɓe ɓee, ngol jaaloo ɗumen.",Ngol hokka baawɗe habude e seniɓɓe ɓe. Ngol jaalo ɗum,0.6,0.1458
+759,Yoga e jamaa oo kaaltani haala kaa gorko biyeteeɗo Aleksandere mo Yahuudiyankooɓe ɓee ngaɗi kaaloowo muuɗumen oo.,Yuwaga ijama'o kalten yahalaka gorko biyetedo Alexander mu yahudiyan ko'e ngadi kaalo mu'un,0.9412,0.3542
+760,"Wakkati fuu, tawa oɗon lanndinii jaabaade neɗɗo fuu lamndiiɗo on daliili jikke mo ngon-ɗon e mum oo.",,,
+761,"Ndennoo, saabe Laamɗo suɓike on, sennii on, horsinii on, tawre-ɗon jilli e yurmeende e moƴƴuki e leyɗinkinaare e newaare kaɲum e muɲal.","Dhaannoo, sa'a bela'aa mduu subaakee on, sinii on, hodhii on, tawre'on jillee yuurmeende e mojjuki e leedinkinaare e newaare kanyum e muuya.",0.6818,0.2778
+762,Miɗo goonɗini aan woni Almasiihu Ɓii Laamɗo garoowo e aduna oo.,"Gondin Almasihu, bi lando garo wayi aduna",0.9091,0.5
+763,"Tenngaade saɲiraande kaŋŋe ana e dow hoore makko, omo jogii wawdu welndu e junngo makko.",Tengade sani rane kagne ana edohari mako. Omo jugi wadu weldu e jungo mako.,0.8667,0.25
+764,Kaa Farisaen e jannginooɓe Sariya mberrike faandaa Laamɗo ko ɓe calii looteede e junngo Yaayaa koo.,"Kafari sa'a e janginoobe sariya, mbirri kefaana laamdo ko be celi looteede e jungo yaaya ko.",0.6875,0.1807
+765,Walaa ko ɓe mbiiri non so wanaa ɓe njiino Torofim Efeesunke oo ana wondi e Pool ley ngalluure ndee.,"Wala ko binbiru non, so wana ben yi no toro fim e fe'suki, o ana wondi e polule ngal lure de.",0.8421,0.25
+766,"Ndennoo, ittee ko hiiɗɗi ko woni ley mon koo, njoppee nguurndam mooɗon aranam bonniraaɗam muuyooji jaayrooji ɗam, ɗalon yonkiiji mon e hakkillaaji mon keyɗintinee.","Nden no, itteko hiɗɗi ko woni leymon ko, njoppe nguurnaa moɗon aranam, bonniraaɗam muyooji jayrooji ɗam. Ɓalon yonkeeji mon e hakkilaaji mon keeɗintine.",0.6667,0.1176
+767,"Ɓe lamndii mo: —Homo woni oo neɗɗo biiɗo ma ɓamtu daɗɗo maa, yaa?","Pellam dimo. Homa woni onet do bido ma, banto dado ma",0.8462,0.3878
+768,"Caggal ko ɓe ceettii so ɓe mbaajii konngol Joomiraaɗo ngol koo, Piyeer e Yuhanna mbirfitii Urusaliima.",Pierre et Yohanna,1.0,0.8706
+769,Iisaa woni: «haayre nde onon mahooɓe tippiti-ɗon.,Iisa wani hayrende onon maho be tippitido,1.0,0.1795
+770,"Oon Kabaaru Lobbo yottoriima on no mo yottorii aduna oo fuu nii, omo wai no lekki mawnoowi ndimoowi ɓiɗɗe mum nii.","O ka ba lo bo yo tu ri ma on, no mo yo tu ri adu no o fu ni. O mo wa yi no le ki ma o no hi, ndi mo wi bi de mo ni.",1.619,0.2935
+771,Yoga e Farisaen mbii: —Gorko oo iwraali to Laamɗo sabi o jokkaali sariya ɲalaande fowteteende.,Yoga e farisa en bi. Gorko e yural to lamdo sabi o jokkali sariya nyalande fof teetee.,0.6667,0.2468
+772,"Nde ɓe njennunoo mo ndee, o yennitaaki ɓe, nde ɓe kollunoo mo bone ndee, o giidaaki ɓe.",,,
+773,"Ɓe fuu ɓe mbemmbaa, ɓe kaaynaa, ɓe mbiyondiri: —Ɓee haalooɓe fuu nganaa Galilinkooɓe naa?","Be fu be bemba, be kaina, be miyoniri. Be halo be fungana Galilinko be",1.0,0.3521
+774,"Hooreejo sordaasien oo e dardinooɓe e mum faa kayba Iisaa ɓee njii no leydi ndii dimmborii nii e ko waɗi koo fuu, kuli sanne, mbii: —So goonga nii, oo yo Ɓii Laamɗo!",So,0.9688,0.9844
+775,Ɗii haalaaji Iisaa daginirii ɲaamdu fuu.,"Isha nodditi jama'a o wiidum. Keti nane kam on fu paame, fay huunde naata taa e neddo so subinaadu ka kudi iwoje e neddo de kanyun cobinta du.",4.6667,2.7059
+776,"Iisaa wii: —Won memɗo kam, sabi mi maatii won semmbe iwɗo e am.",Sa'a biyu. Wani mai dauka. Sabi mai mati wani shembi udo'a.,0.9231,0.5319
+777,"Ɓe taykitii mo, non Piyeer wii: —Ƴeew min!","Et tu es qui, moi? Non, Pierre oui.",1.0,0.5806
+778,Sabi Hirudus waran tewtude cukalel ngel faa wara ɗum.,,,
+779,"Oɗon noddira Laamɗo Baabiraaɗo mooɗon, kanko woni cariroowo gooto fuu e golle mum, o ɓurdintaa yimɓe.","O noddira lamdo baabiraado modon, kanko woni cariroowo goote fu e golle mun, o wurdinta yimbe.",0.5625,0.1687
+780,"Ɓe tonti mo e leggal bardugal, ɓe pecciri kaddule makko urwa, ɓe anndi ko gooto fuu heɓata.",,,
+781,"Caggal ɗum, ɓe njoppiti ɗumen, tawi ɓe keɓaali fay huunde ko ɓe njukkira ɗumen saabe yimɓe ɓee.","Jagal ɗum ɓe joppiti ɗum e, ɓe keɓaali faahunde ko ɓe jukkira ɗum e saabi yimɓe ɓe.",0.6471,0.1842
+782,Kaa Laamɗo cattuɗo hinnaade en oo noddii en faa naaten e teddeengal mum duumiingal e Iisaa Almasiihu.,Kalaam dojaatur hinna de NO noddi en faanaaten e teddungal mun duumingal e Iisaa Almasihu.,0.7647,0.1786
+783,Iisaa wii mo: —Miin kaaldoowo e maa oo woni kanko.,Mijn kado en mijn oog.,1.0,0.7368
+784,"Sabi Yaayaa warii, o kooroowo, o yarataa doro, wiyaama o laddaaɗo.",Sabiya wari okoro oyarata doro viyamu ladado.,0.9091,0.3269
+785,"O naanni Pool e Silas suudu makko, o hokki ɗumen ɲaamdu.","Woni polesi laasuuri mako, o kidum e nyande.",0.9091,0.4091
+786,"Kanko hokkata on semmbe faa ɗo aduna haaɗi, yalla oɗon laatoo ɓe ngalaa ɲiŋe ɲannde gartol makko, kanko Joomiraaɗo men Iisaa Almasiihu.","Kanko hokkata wonsembe faado aduna haadi, yalla o don laato be ngala nyihe nyande gartol makko kanko jomiraado men Isa Almasihu.",0.6818,0.1622
+787,"Ɗum waɗi so miɗo seettanoo on hannde ɗum ɗoo: so tawii gooto e mooɗon halkiima, wanaa sabaabu am.",,,
+788,"Pati fay gooto laatoo hammadi haaje mum tan, ndaarta nafaa woɓɓe ɓee duu.",Batti faigo lato,1.0,0.8305
+789,"Eɗen anndi Sariya oo ana moƴƴi, so golliraama golle Sariya.",Golliraama golle sariya.,0.7,0.5625
+790,"On ngaɗii oon neɗɗo e juuɗe bonɓe, on tontii mo e leggal bardugal, on mbaririi mo no Laamɗo muuyrunoo ɗum laatoo gila arannde nii.","O ngaddi on neddo e juude bonbe, o tontimo e legal bardugal, o baririmo no landon muurno dun laato gila arande ni.",0.7917,0.25
+791,Won biiɗo mo: —Inna maa e miɲiraaɓe maa ana ndarii sella ana njiɗi yiide ma.,Innamaa e minyiraabe maa ana ndari sella ana njidi yiidema.,0.6667,0.2542
+792,Tama on anndaa enen caroyta malaaikaen ɓee?,Tamam on anda. Enneng kyaro tamal ekem be,1.0,0.4167
+793,"Iisaa jaabii mo: —To njahan-mi jooni too, a waawaa jokkude e am.","To njahanmi jooni to, a waawa jokkude",0.5833,0.375
+794,Hono ndee somnde waɗaali fay hakkunde heeferɓe: gooto e mon ana wondi e jom suudu baam mum!,Hono on de somde wakkali fayhakkunde heferbe? Goto e mon ana wonde jom suudu baamu.,0.6471,0.1507
+795,"Caggal balɗe ɗiɗi ɗee, o iwi ton, o yehi Galili.",Ta galballe didi de o ibi ton o yehi Galil.,0.6,0.25
+796,Paamen Sariya Laamɗo oo wanaa fooccitiiɓe ɓee waɗanaa.,Baamansari Allah humdo'o wana foti tibe be waddana.,1.0,0.4348
+797,"O wii ɓe kasen: —Nde nelunoo-mi on rafi dannga e mbasu e paɗe, won ko ɲaki on naa?","Woni be kase, denyel nomi on, rafi danga e basu e pade, woni ko nyaki on.",0.6667,0.3
+798,Nii taalibaaɓe ɓee ndarii ana njeddondira hakkunde mumen homo ɓuri teddude.,Ni talba bennari ananjeddu ni hakkunde mu'en hombo buri teddu?,0.9091,0.2969
+799,"Kaa pati laatoroo no njiɗir-mi, yo laatoro no njiɗir-ɗaa aan.",Ka haɓaɓɓe laaɓɗo non jiɗirmi. Laaɓɗo non jiɗirɗaa aan.,0.9,0.2917
+800,E ley haɓɓagol men e makko kanko Almasiihu eɗen mbaawi ɓadoraade Laamɗo hoolaare saabe ko ngoonɗin-ɗen mo koo.,"E le haɓɓa golmen ɗen makko kan ko almasiihu, e ɗen baawi ɓadoraade lamɗo hoolare saabi ko gunɗinɗen mako.",0.8333,0.1319
+801,"Nde nelaaɓe ɓee mbirfitii galle too ndee, tawi kaadime oo sellii.","Nelaa'e mbirfiti galle tonde, te kaaji mo selli.",0.9091,0.3208
+802,"O wii ɓe: —Jooni kaa, ɲeɗee naɓanee hooreejo kuurtungu oo.","Jooni ka, nyade naba ne horejo courtungo.",0.9,0.4222
+803,"Hono non, hooreeɓe yottinooɓe sadaka ɓee e dunkeeen Sariya ɓee e mawɓe leɲol ɓee fuu njaayriri mo ana mbiya: —O biltii woɓɓe, kaa o ronkii biltude hoore makko.",,,
+804,"Ɓeen pawi juuɗe muuɗumen e dow maɓɓe, nduwanii ɓe.","Ben payu juude mu'en e do mabbe, nduwanibe.",0.8889,0.35
+805,"Ɓe noddi, ɓe lamndii yalla Simon noddirteeɗo Piyeer ɗon jippii.",Bé noddi. Bé landi Yalla si mo noddirteedo Pierre don jippi.,0.9,0.25
+806,"Yogaaɓe woownooɓe rewde tooruuji, faa hannde eɓe ɲaama tew cakkanaaɗo tooruuji e miilde tew oo tooruuji jaati njey ɗum.",Yoga wuu noo reewi tooru gi faahande e be nyaametewuu cakkanaado tooru gi e miilde tewu o tooru gi jaati nje'idu.,1.0,0.2828
+807,"Filipa ana jeyaa Baytisayda, ngalluure nde Andire e Piyeer fuu njeyaa e mum ndee.",Philippa Anaja baïti saïda nga lure na André et Pierre,1.0,0.5
+808,"Nde wonnoo Iisaa ana anndi ko fai warde e mum fuu, sakkitii ɓe, wii: —Homo tewtaton?",No one no isa and andi ko fa'i warde e mun fu. Sakiti be wi.,0.8125,0.4219
+809,"Sabi ko woni e Laamɗo fuu ana e Almasiihu, e ley terɗe mum jaati.","Sabuwa wani ilham da fu'ani almasihu, eleter de mumjati.",1.0,0.3
+810,"Nden Annas neldi mo to Kayafas Jottinoowo Sadaka Mawɗo oo, omo haɓɓii.",Mba'e annas nelli moto kaya fas yuti nawa saraka mauro o.,0.9167,0.4211
+811,"Yimɓe ɓee kumpitii ɗum, njalti e geelle ɗee, cawndii daande weendu nduu, njokki e makko.","Innde baaba kumpitiiɗo, njaltii geelle de, cawndi daane weendu, njokke",0.8667,0.3714
+812,"Nden so Duroowo Mawɗo oo ɓanngoyii, on keɓan deesewal teddeengal ngal bontataa abada.",Dan sodoro mardo o bangoyi o keban desa waltede ngal ngal bonata abada.,0.8462,0.2817
+813,"Yimɓe ɓee fuu ndarii ana mboya suka oo, ana conkina semmbe.",Yin ba hu dare na ba ya isuko. Ana cunkushe,0.9091,0.5319
+814,"So on ndarnaama e sarirde, pati mbemmbe-ɗon no kaaldaton naa ko kaalaton.","Soo'on dar namaa sariirta, baddan beem be'don nokal do'ton naako kal do'ton.",1.0,0.3051
+815,Jooni kaa miɗo yiɗi jaabaade lamndi ɗi mbinndan-ɗon kam ɗii.,Yoonika,1.0,0.8776
+816,"Ko haɗi aduna oo anndude en dee, o anndaa Baabiraaɗo.",Ko adi aduna o andude en de o anda babiraɗo.,0.6,0.2143
+817,"Kaa debbo fuu mo soomaaki so ana duwoo naa so ana haalta konngol ngol Laamɗo loowi e mum ngol, hoynii hooreejo mum oo, sabi omo wai hono no o laɓiiɗo nii.",,,
+818,"Ɗum waɗi nde wonnoo min mbaawaa kaariya mon, walanaa min baasi minen tan min keddoo ley ngalluure Ateena.","Δεν θα ήθελαν να με μπάου κάρια μου, αλλά να με μπάσι, μένουν ταν, μένουν κέδο, λέγαλουρε ατένα.",1.0,1.0
+819,O wii ɓe kasen: —Ɓii Neɗɗo jey ɲalaande fowteteende.,Mi yehi haa se. Be na do je nyalaande foti ten.,1.2222,0.5366
+820,"Naa so nowru wii: «Nde mi wanaa yitere, mi jeyaaka e neɗɗo oo», ɗum haɗataa ndu jeyeede e makko.","Na sonu ruwi, in da mi wana yitere, mi jaka inedo o, dum hadata dum je'e mako.",0.8421,0.3194
+821,"On yottinooɓe sadaka seniiɓe, waddanooɓe Laamɗo sadakaaji ruuhunkooji ɗi mo jaabortoo saabe Iisaa Almasiihu.",nyootinoobe sadaka seeniibe waddanoobe lamdo sadakaaji ruhunkooji dimo jabor to saabe Iisa Almasihu,0.7857,0.1505
+822,Ko saabii so onon Yahuudiyankooɓe miil-ɗon Laamɗo waawaa immitinde maayɓe?,ko saabi so onon yahudi'en ko be mi'don lamdo wawa immintinde mayi,0.9,0.2698
+823,"Ɓeen ngoni ɓe meeɗaali tuunninde koe mumen banngal rewɓe, sabi ɓe laaɓuɓe.",Bangu ni be meɗa litunni deko emun en bangal rewbe. Sabi be labu,1.0,0.2951
+824,"Omo jogii ɓiɓɓe rewɓe nayon ɓe ɓamaaka, haaltooɓe ko Laamɗo loowi e mumen koo.",,,
+825,Ende woodani neɗɗo mo Joomiraaɗo Laamɗo meeɗen noddi fuu.,E nder wardani neddo mo jomiraado lamdo meeden noddi,0.8889,0.2708
+826,"Ɲannde darngal, kaananke debbo leydi ɓaleeri oo immodoto e yimɓe jamaanu jooni ɓee, liɓa ɗumen.","Yande darngal, kaana ke debbo leydi baleeri o immodoto e yimbe jamaanu jooni be liba dum.",0.6,0.1538
+827,Malaaika oo wii mo: —Laamɗo jaabanike ma duwaawuuji maa e sadakaaji maa.,Mala'iko biyu mu.,1.0,0.8103
+828,"Gaɲo cakitotooɗo halkeede oo yo maayde, sabi ana winndii: «Laamɗo waɗii huunde fuu ley koyɗe makko.",Ganyuki to toodo halkede o yo mayde. Sabi ana windi lam do wadi huunde fu leikoyde mako.,0.875,0.225
+829,Sabi Laamɗo waɗi en ko ngon-ɗen jooni koo: e ley haɓɓagol men e Iisaa Almasiihu o tagiri en faa ngollen golleeji lobbi ɗi o lanndinanii en gila arannde ɗii.,"Saboda lamdu waɗiyan kungon ɗen Juni ko, ele haɓɓagol mene Isa Almasihu, o tagiri en fangol len golleji lobbi, ɗi o landinani en gilla arandeɗi.",0.7241,0.176
+830,"Ana tilsi oon heddoo dow kammu faa nde Laamɗo heyɗintini kulle ɗee fuu, no annabaaɓe seniiɓe ɓee kaaldunoo haala muuɗum gila arannde nii.",,,
+831,"Ɓe njaabii mo, ɓe mbii: —Won wiyooɓe a Yaayaa mo lootogal batisima, won wiyooɓe a annabi Iliyaasa, won wiyooɓe kasen a gooto e annabaaɓe ɓee.",Woyyo be ayaya mo luttugal baptisma. Woyyo be annabi Iliyasu. Woyyo be kasi a gotel annababe.,0.88,0.4685
+832,"Balɗe tati caggal muuɗum, Pool noddi mawɓe Yahuudiyankooɓe.",wale seli caggal muudu pol noddi mawbe yahdi yankobe,0.875,0.26
+833,"Ɓeen ngolliranta Almasiihu jilli, sabi eɓe anndi Laamɗo hokki kam daranaade Kabaaru Lobbo oo.","Be'en golli ran ta'al masiw jilli, sabi'e be andi lamdo hokki kam daranaade kabaru lobbo o.",0.7857,0.141
+834,Kasen duu saabe makko terɗe ɗee ana mawnira no Laamɗo muuyiri nii.,Kasi indu sa be mako terde de ana maunira no lamdo muyiri ni.,0.9167,0.2407
+835,"Hono no Muusaa toowniri mboddi jakawalle ley ladde jeereende nii, so wanaa Ɓii Neɗɗo oo duu toowniree hono non, yalla goonɗinɗo mo fuu ana heɓa nguurndam nduumiiɗam.",Hono non muusa tawni mboddi jaka wallela ladde jeereende ni. So wanaa bi'nado odo tawnire hono non. Yalla gondi ndoma fu an heba gurnam dumida.,0.6667,0.2574
+836,Miɗen mbinndana on haala neɗɗo gooduɗo gila puɗɗooɗe.,Meɗen biɗɗina on haa leññol godɗo gila puɗɗoode.,0.75,0.3111
+837,"Nde Iisaa nanunoo ɗum ndee, wii: —Oo ɲaw wanaa ɲaw saate.","Onyau, wan anyau saat.",1.0,0.7209
+838,"Fay so taweede e ley haɓɓagol mon e Almasiihu oɗon njogii ɗowooɓe ujunaaji ujunaaji, on keewaa baabiraaɓe kaa.","Fai so tawai de le haɓɓagol mo ne Almasihu, oɗon jogi ɗowobe ujunaaje ujunaaje, on keewa baabiraɓe ka.",0.7778,0.1648
+839,"Laatiiɗo ɓii Laamɗo fuu heddataako luuttude, sabi Ruuhu Laamɗo ana ɲiiɓi e mum.","Laati do be lamdo fu heddata ko luttude, sabi ruhu lamdo ana nyibi e",0.9231,0.2923
+840,Pati fay gooto e mooɗon jukkiree war-hoore e nguyka e njangu naa naatude e ko walanaa ɗum.,Bati fey guate modon jukere warhoore en guika en jangu naana tu ekkawal naadu.,0.9412,0.25
+841,"Miin, mi tutii, Apollos yarnii, kaa Laamɗo woni mawninoowo.",Min metti uplosyaarni ka laamu woni mawɗinoo.,0.8889,0.3191
+842,"Nde min ɓettotoo duungel tusukel biyeteengel Kawda ndee, duungel ngel huuri min seeɗa e henndu, min cippiri ɗon e laanawel tusukel ngel, min kewti ngel.",,,
+843,"Sabi nii winndorii: «O ŋabbii dow, o naɓorii honaaɓe heewɓe.",Sabini windori.,1.0,0.7234
+844,"Rewɓe duu ana hakkunde maɓɓe, ana mboya no ɗum foti mettude ɗumen.","Anan waya, 24 mita ce.",1.0,0.7925
+845,"Kippii-mi e leydi yeeso makko faa mi sujidana mo, kaa o wii kam: —Patti!",What,1.0,0.9444
+846,Kasen duu memɗo ɗum fuu sellii.,que c'est doux même de dormir sur le lit.,1.5,0.88
+847,"Kaa ɗum e taweede, on ngaɗii ko moƴƴi ko mballu-ɗon kam e ley torra am oo koo.","Ka dum beɗa waɗe, on gaɗi ko moƴƴi ko balluɗon kam electora am o ko.",0.6471,0.2373
+848,"Sabi e haɓɓagol mon e Almasiihu, miin laatii baaba mon nde mbaajii-mi on Kabaaru Lobbo oo ndee.",सभी यह पगोल मोन ए अल मसीह मिल लाती बाबो मोन ने बाजी मी ऑन कबारु लोबो ओंडे,1.0588,1.0
+849,"Ndennoo, laatee ɲemmbooɓe Laamɗo kammari on ɓiɓɓe makko ɓe o horsini.",denno laatenyembo be lamdo kam bayro mbibe mako be o horsini,0.8182,0.3158
+850,"Jooni, banngal am, so on pelii kam naa so mi darnaama e sarirde ɓiɓɓe aadama wiyooɓe mi wanaa koolniiɗo, walanaa kam baasi.","Yoni bangal am. So on peli kam na, so mi darna mai sari de bibbe Adamu wiyobe mi wana kolli do walana kam baasi.",0.6818,0.2143
+851,"Kaa caggal ɲaloomaaji tati e feccere ɗii, fuufaango nguurndam iwngo to Laamɗo naati e maɓɓe, non ɓe immitii ɓe ndarii e koyɗe maɓɓe.","Kaccagalgalu majjiti e feccere dii, fuufa nguurndam iungotu lamdo naati e mabbe. Nombe immiti, be ndari e kwayde mabbe.",0.7391,0.271
+852,"Hono non duu, nde ɓe tilii hiraande ndee, o ɓami horde peguujam, o hokki ɓe, o wii: —Ndee ɗoo horde woni aadi keyri.","O nono du, de be tili hiraande, o ktabi horde pegu jam, o hokkibe, o wi, ndedo horde woni aadi keeri.",0.6957,0.2299
+853,"Nde ɓe ngari faa ɓe naanna mo e damal huɓeere ngal ndee, Pool wii hooreejo oo: —Ana daganoo kam mi haalda e maa naa?",Ana daga noka mi halda e ma na,0.875,0.7416
+854,"» Gila jooni miɗo haalana on ɗum, fade majjum yottaade, yalla nde ɗum yottii fuu, oɗon ngoonɗina miin woni mo ngon-mi.","Gila jooni miɗo haala na'on ɗum, faɗe majjum yottaade. Yalla nde ɗum yotti fu, oɗon goɗɗina, min woni mo goɗɗini.",0.4,0.1304
+855,Pilaatu jaabii: —Mi tonta kaananke mooɗon oo naa?,Mitu on takana,1.0,0.7179
+856,"Kamɓe goonɗinɓe ɓee jaati kumpitata min no njaɓɓori-ɗon min arannde, no njoppir-ɗon tooruuji so ngartu-ɗon e Laamɗo faa ngollanon Laamɗo guurɗo goongaraajo oo, faa ndoomon Ɓiyiiko iwoowo dow kammu.",,,
+857,"E ley no Piyeer worri e ley daalaare galle oo nii, gooto e horɓe Jottinoowo Sadaka Mawɗo yottii.","Eleine Pierre wari elei dalaare galle o ni, goota horbe jottinoowo sadaka mawdo yotti.",0.8333,0.2078
+858,"» Kaa so wiyaama non, taƴoral Laamɗo gaɗuɗo huunde fuu ley koyɗe makko oo walaa hen.",Ka soobiya manon ta'ewal laamu no gaduɗo huunde fu leydi ko'e mako o walaa hen.,0.8,0.2576
+859,Iisaa jaabii: —Wanaa wakkatiiji sappo e ɗiɗi ngoni ley ɲalooma naa?,Wana wakati ji sabbe diɗɗin goni le'yaloma na?,1.0,0.4074
+860,"Ndennoo, teddiniree Laamɗo terɗe mon ɗee.",denno teddini rella o terde mon de,1.0,0.2647
+861,"On keɓii oon jikke nde nan-ɗon konngol goonga ngol ndee, ɗum woni Kabaaru Lobbo oo.",ɗum woni kabaru lobbo,0.8,0.7273
+862,"Omo iwa Arimatiya, ngootiri e geelle leydi Yahuudiya.","Omo iwa ariwaya, ngbati o ti e ge leidi Yahudi",0.875,0.3409
+863,Ruuhu Ceniiɗo waɗirii on gooto e jam kaɓɓondirɗo on oo.,O keniri wakkati on goto e jam kaɓɓondirɗo on,0.5,0.3556
+864,"Kaa enen, anniya Almasiihu oo njogi-ɗen.",का एनन अन्य अलमसीह ओ जुगिदेन,1.0,1.0
+865,"So a waajike ɗum sakiraaɓe men ɓee, a laatoto gollanoowo Iisaa Almasiihu lobbo, sabi a waajitorike konngi goonɗinal e waaju lobbo mo njokku-ɗaa faa gasi oo.","Wajibi ɗum sakiraɓe mèn ɓe, Allah tottogollano Isa Almasihu lobbo. Sabi awaji torike koni gonɗinal e waji lobbo mo jokkuɗa faagasi o.",0.7692,0.2126
+866,"Timote, hedda ngeenndi Efeesu hono no njamir-maa-mi nde njahan-mi Makedoniya ndee nii, yalla aɗa haɗa yogaaɓe jannginde ko luuttondiri e waaju men oo hono taali e mantoragol dammbe ngol walaa ɗo haaɗi.",,,
+867,"Miɲiraaɓe Iisaa worɓe mbii ɗum: —Eggu, njahaa Yahuudiya yalla taalibaaɓe maa ɓee ana njiya golleeji ɗi ngollataa ɗii.","Mera be isa war be bidum. Eggu, njaya hoda yalla tali babe ma be, ana jiya golleji din gollata",0.9444,0.3333
+868,O ɗalaali fay gooto yaada e makko so wanaa Piyeer e Yaakuuba e Yuhanna miɲii Yaakuuba oo.,"Soana Pierre, Iakuba, Iohana, Min Iakuba",1.0,0.625
+869,"Yimɓe heewɓe njokki e makko, o sellini ton ɲawɓe mumen.",Yimbe hewbe jokke mako.,1.0,0.6136
+870,"Nde ɓeen njottinoo ndee, nduwanii ɓe yalla eɓe keɓa Ruuhu Ceniiɗo, sabi Ruuhu Ceniiɗo jippaaki e fay gooto e maɓɓe tafon.","Depeƴƴitinoɗe, ɗuuɗaniɓe yalla eɓe keɓa ruuhu ceniiɗo. Sabu ruuhu ceniiɗo jippaki fay gooto e maɓɓe tafo.",0.4762,0.2041
+871,"Sabi ɗum woni ko Laamɗo muuyani on, onon ɲiiɓuɓe e Iisaa Almasiihu ɓee.",Sabi ɗum wani kollam ɗum mu ya ni on. Onon ƴiɓe Isa Almasihuɓe.,0.8462,0.2281
+872,No Iisaa hiirtidorii e taalibaaɓe mum hiraande iidi Paska.,ኢሳ እኛም,1.0,1.0
+873,"Ananiyas jaabii, wii: —Joomiraaɗo, mi narrii yimɓe heewɓe haala oo gorko e torraaji keewɗi ɗi o waɗi seniiɓe maa wonɓe Urusaliima ɓee.","Ananias Jabi, wi'i.",0.9545,0.8704
+874,"O wii ɓe: —Miɗo yiɗi ɲaamdude e mon sanne hiraande Paska ndee, gila mi torraaka.",wibe mi do yiri nyamdu de emon sanne hirannde paskande gila mi torra,0.8,0.1935
+875,"Nden, fay so won ko ɓe ɲoi on, naa ɓe njenni on kammari oɗon njokki laawol Almasiihu lobbol ngol, yennooɓe on ɓee tan kersata dow majjum.",den feyse won ko be nyo'i on na be jenni on kam mari odon jokki lawol almasihu lobbolngol yenobe on be tan cersata do majju,0.7692,0.1944
+876,"Kaa ley aada mooɗon, iidi Paska fuu miɗo yoppitana on kasunke gooto.",Kaale Aadam aur Iblis ka khoon mein jo pitaana on kasun ke,0.9167,0.4727
+877,Barnabas ana yiɗunoo ɓe njaada e Yuhanna noddirteeɗo Marka.,Barnaabaari'en ɓe jaada e Yuhanna nuddirteɗo Marka,0.5556,0.22
+878,"O lamndii ɓe, o wii: —Ndennoo, lootogal batisima hongal keɓu-ɗon?","Nden no, lawtogal batiisi honal keɓuɗo.",1.0,0.44
+879,"Mi waɗaali fay huunde ko luuttondirta kam e yimɓe meeɗen ɓee naa aadaaji njaatiraaɓe meeɗen ɗii, kaa mi nanngaama Urusaliima, mi wattaama e juuɗe Romankooɓe.","Mi wada lifaahuuji ko luttindirta kam e yimbe meeden be na aadaaji jaaterabe meeden di. Ka mi nangaama Urusaliima, mi wattaama juude roman koobu.",0.64,0.2
+880,"Ndeenee koe mooɗon, ndeenon sewre nde Ruuhu Ceniiɗo oo ɗaldi on ndee, laato-ɗon durooɓe deental goonɗinɓe Laamɗo ngal, sabi ƴiiƴam makko o soottitorii ngal.",nde no koymodon nde non sewere de ruhu chenido daldi onde lato don durobe dental gondibe lamdo gal sabi jijjam mako o sotti toringal,0.9167,0.2812
+881,"Immee njehen, iwen ɗoo.",में यह इवेंट दो,1.0,1.0
+882,"Kaa ɓe cattini e haala maɓɓe faa sanne, eɓe mbiya: —Ko o waajotoo koo ana murtina yimɓe ley leydi Yahuudiya fuu, gila Galili to o fuɗɗiri too faa ɗoo.",,,
+883,"Goonga, yogaaɓe ana mbaajoroo kabaaru Iisaa Almasiihu oo haasidaaku e pooɗondiral, kaa woɓɓe ana e anniyaaji lobbi.",Yoga bi'anamba yuro ka baaru Isa Almasihu o hasidaku e podondiral ka wobbe anai annya jillu,0.9412,0.3229
+884,"So o nanii daande jommbaajo gorko oo, o seyoto sanne.",So,0.9,0.9524
+885,"Korneliyus ana tijjinoo ɓe, noddi sakiraaɓe muuɗum e yiɓɓe muuɗum ɓadiiɓe.",Cornelius anatiji nobe nodi sakira muɗun e yiɓe muɗun baɗiɓe,0.9091,0.2742
+886,"Ɓe mbii: —Kalfaaɗo, kaafaaje ɗiɗi annii!",M.B. kal faada kal faa,1.0,0.5806
+887,"Sabi waajaade Kabaaru Lobbo oo manataa kam, ɗum tilsuɗum kam.",सबिवाह जादे कवार लोबो ओ मनताकम तुम चिलसु दुमका,1.0,1.0
+888,"Mi haalanii on ɗum cili kuurɗi, mi haaliranan on jooni duu e bojji.",Mi haali on dum ciile kurdi. Mi haaliranon jooni du e bojel.,0.6154,0.2453
+889,"Mawɓe noogayon e nayon jooɗiiɓe dow bimmbeeje yeeso Laamɗo ɓee kippii e leydi, cujidani Laamɗo, ana mbiya: «Miɗen njette, Joomiraaɗo Laamɗo Jom Baawɗe.",Mina en jetti jomiraado lamdo jom baawɗe,0.913,0.748
+890,"Nde o haalnoo kaa haala ndee, o yeeccitii, o yii Iisaa ana darii, kaa o annditaali ɗum.",Na haal na kaal ande? Oye chiti? Oye isa anadari? Kao andi tali dum.,1.0,0.3134
+891,"Eɓe ngolla ko welaa Laamɗo, ɓe konneeen yimɓe fuu.",,,
+892,Wakkati waroyan nde barɗo on fuu miilata rewii Laamɗo.,"Wakati waro yan, debbo do on fu mila terewi lam.",1.0,0.2667
+893,"Onon worɓe, njiɗee rewɓe mooɗon, pati ɲanngon e maɓɓe.","No no warbe, yidde reobe modon pati nyangon e mabbe.",0.8889,0.3953
+894,"Goonga, min ɓiɓɓe aadama tan, kaa no min kaɓirtee nii wanaa no ɓiɓɓe aadama kaɓirtee.","Ko wona mi bibbe Adama tan ka no mi kabirtenii, wona no bibbe Adama kabirtee.",0.8667,0.2794
+895,"Tawaaɗo yo taadiiɗo nde Laamɗo noddi ɗum ndee, pati tewta bonnitidde ko taadaa koo.","Tawa do taadi do ne lamdo nodidum de, pati ceedo bonni tidde ko taadako.",0.9286,0.2794
+896,"Kaa mo jaɓanaali Iisaa fuu, Ruuhu Laamɗo walaa e mum.","Ka mu je banali Isa fu, ruhu lamɗo wala emun.",1.0,0.2857
+897,"O heɓi gollooɓe, o hawri e maɓɓe o yoɓan ɓe hono ko woowi: ɲalooma fuu mbuuɗu cardi.","O hebbi golloobe, o hauri e mabbe o yobamde hono ko woowi, nyalooma foondu chardi.",0.5882,0.2923
+898,"Taadaade e waasude taadaade fuu walaa ko nafata, ko nafata dee, jokkude jamirooje Laamɗo.",Tada de wa su de tada de fuwala ko na fata. Ko na fata de jukku de jamiro je lamdo.,1.2857,0.1781
+899,"Nde korɗo oo yiinoo mo kasen ndee, haaltani darinooɓe ɗon ɓee, wii: —Oo yo gooto maɓɓe!",,,
+900,"Caggal ɗum, Sool wondi e maɓɓe, ana naata ana yalta ley galleeji maɓɓe Urusaliima, ana waajoroo haala Joomiraaɗo kaa cuusal.","Caka lung, solwonde mabbe, ana naatan yaltude galleji mabbe uru salimu, ana waajiro hala joomiraado ka cuusa.",0.9,0.2475
+901,"Jooni, miɗo nii jokki e Ruuhu Ceniiɗo, miɗo yaha Urusaliima, mi anndaa ko hewtoytoo kam ton, so wanaa ko Ruuhu Ceniiɗo oo hollata kam: ley geelle ɗee fuu ana wiya kam geƴƴelle e torra ana ndoomi kam.","Joni, mi don yi'a joki e ruhu cheniido, mi don ya'a ursalima. Mi anda ko hewta to kam ton. So wana ko ruhu cheniido o hollata kam, le'gelle de fu ana wi'a kam, gejjel e torra ana ndomi kam.",0.6757,0.2166
+902,"Caggal ɗum, ɓe naɓi mo faa ɓe tontoya mo e leggal bardugal.",legal,1.0,0.8913
+903,"Yahuuda garoowo jammbaade mo oo ɓami haala, lamndii mo, wii: —Moobbo, kori wanaa miin?",Yahu de garo yam baye mo o bami hala landi mo wi,1.0,0.5075
+904,"Goonga, miɗo jogorii ɗum fuu yo mursee saabe anndude Joomiraaɗo am Iisaa Almasiihu ɓuri kulle ɗee fuu.","Bongo, mi do jogori dum fu yo murse sabe andude jomiraado am Isa Almasihu. Buri kulle de fu",0.8824,0.2262
+905,"Ley janaale ɗee o jooɗinoo, fay gooto waawaa haɓɓude mo, sabi fay calali kaɓɓataa mo.",Fey janale 1 o jodino. Fey gooto wawa habbudem. Sabi fey channeli kabbata.,0.8,0.3529
+906,"Miin noo, sakiraaɓe, mi waawaa haalirande on hono no on heɓuɓe Ruuhu Ceniiɗo nii.","Minna sakiraabe, mi wawa halirande on hono no on he'ube ruhu keniido ni.",0.6429,0.2
+907,"Ɗon e ɗon, taalibaaɓe ɓee tiggitii, njiyaali fay gooto so wanaa Iisaa tan.","Da ya zo, talibai ba su tiggiti. Nji Ali fei goto so wana Isa",1.0769,0.4237
+908,"Kaa so nii mesude hoore mum naa laɓude nde ana yaannoo debbo, yo soomu hoore mum.",Ka so ni mesu de hore mum na labude na ana yano debbo so mu hore mum.,0.75,0.2188
+909,"Kasen won ko saabanii min yettude Laamɗo wakkati fuu: nde nan-ɗon konngol Laamɗo ngol e kunduɗe amen ndee, on njaɓɓoraaki ngol konngol yimɓe.",,,
+910,Jooni miɗo haalda e mon onon heeforɗirnooɓe arannde ɓee.,"Dhoni mi do haalda e mon, onon heefnirnobe arandebe.",0.6667,0.234
+911,"Omo naata cuuɗi, o nannga worɓe e rewɓe, o daasa ɗumen, o uddoya ɗumen kasu.","O manna to cuudi, o nanga warbe e rewbe, o daasa dum e, o udday dum en ka",0.8667,0.2586
+912,"Goonga sakiike, miɗo ndaarde ɗum ɗoo saabe Joomiraaɗo: ɓuuɓiniraa ɓernde am deental men e Iisaa Almasiihu.","Ko ngasakiike, mi don darde dum do saabe jomiraado, buubinira berde am dental men e Iisa Almasihu.",0.8125,0.1932
+913,"O woɗɗitii seeɗa, o hippii e leydi, o duwii yalla omo daɗa e oo wakkati naawɗo so ana huɓindoo.",O wakkati nawdo so ana hubbide,0.7895,0.7297
+914,"Iisaa anndi ko ɓe kaalata koo, wii ɓe: —Ko waɗi so oɗon kaalda hakkunde mooɗon on njooɓaaki buuru?","Iisa andi ko be kalata ko, wiibe ko wadi so on on kalda hakkunde modon on jobaaki buur",0.7778,0.1948
+915,Kaa yoga e Farisaen mbii ɓe: —Ko saabii so oɗon ngolla ko dagaaki gollude ɲalaande fowteteende?,Kayo ka farisa'en bibe. Ko sa'i so odon golla ko daga ke gollude nyalande fof te'ende.,0.8125,0.2468
+916,"Ruuhu Almasiihu gonɗo e maɓɓe oo anndinii ɓe gila wakkati majjum waraali, torraaji kewtotooɗi Iisaa Almasiihu e teddeengal jokkoowal hen.",Ruhu Almasihu gondo mabbe o andini be jida wakkati majjun warali. Torraji kyautatodi Isa Almasihu e teddengal jokkowal hen.,0.85,0.2241
+917,"Nde ɗum ɓettii ndee, ɓe ɲaagii Laamɗo hokka ɓe kaananke.",be nyaagii lamɗo hokka be kaanankee,0.9,0.4444
+918,"Hooreeɓe yottinooɓe sadaka e dunkeeen Sariya ndarii ɗon, ana ngullanoo mo ko mbaawi fuu.","Hore be yottinobe sadaka dunke en seliya ndari don, anangullo nomo ko bumbayu.",0.9286,0.274
+919,"Onon, jooni on laaɓuɓe saabe waaju mo mbaajii-mi on oo.",Onon jonni onlaabu be saabi waaju mo baaji on,0.6,0.2326
+920,"Ɓe lummbi weendu nduu, ɓe njottii Genesaret, ɓe panndi ɗon.",ɓe lumbi ɓe weendu ɗu ɓe njotti gene sarete ɓe pandi ɗon,0.7,0.1915
+921,"Nden o tawi o sellii, o wonti yiide no laaɓiri.",Daan o taabi o selli o wonti yiide nolaabi.,0.5,0.25
+922,"Kaa Timote, oɗon anndi no holliri neɗɗaaku mum, sabi mo wallii kam waajaade Kabaaru Lobbo oo no ɓiɗɗo wallirta baaba mum nii.","Ka Timothee, odon andi no holliri nedda kummum. Sabi mo walli kan waawa yade kabaru lobbo o no bido wallita baba mum ni.",0.7273,0.2079
+923,"Nden, Iisaa daalii taalibaaɓe mum ɓee pati kaalana fay gooto kaɲum woni Almasiihu oo.",den Isa daali talbamu ɓe pati kaala no fay gooto kanyun woni almasi'u,0.7857,0.2714
+924,"O wujii terɗe am nebam uuroojam, ko o waɗiri ɗum yalla omo lanndinanoo kam yanaande.",ko waɗirɗum yalla o landina no kam yanaani,0.8667,0.5
+925,"Ngaree e Joomiraaɗo, sabi kanko woni haayre wuurnde nde yimɓe tippitii, kaa Laamɗo suɓike nde, teddinii nde.","Areejo miraado, sabi kanko woni hayre wurnde de yimbe tippiti, ka lamdo suduki de teddini.",0.8235,0.2386
+926,"» Ooho, kaa wanaa fuu nafata.","O ɗon mbiya, nyam dujje reedu, reedu je nyamdu. Oho, kala mo ɗo halka ɗiɗi fu",3.2,2.2857
+927,"Balɗe jeegom fade iidi Paska yottaade, Iisaa yehi Baytaniya ɗo Laajaru mo o wuurtinnoo oo jeyaa ɗoo.",,,
+928,"Ndennoo, leyɗinkinanee Laamɗo Jom Semmbe oo, yalla omo toowna on so wakkati cuɓaaɗo oo yottike.",deno leydi kinan ne lamdo jom sembe o yalla omo tawa on so wakkati cubaado o yotte,0.7333,0.2308
+929,"Sariya am ana dartii, sabi mi jokkataa sago am, sago nelɗo kam oo njokku-mi.","Sariya am anndarti, sabi mi jokkata sago am, sago neldo kam on jokkumi.",0.4286,0.0847
+930,"Kanko, Ruuhu Ceniiɗo e yiite o batisirta on.",Kanko ruhu cheniɗo e yiita o battisirta on.,0.5,0.1429
+931,Oɗon njiiloo e leyɗeele oɗon mbanngoo geeci faa keɓon tuubuɗo gooto.,O don jilo e le'e o don bango gechi fa kebon tubugo go'o.,1.0909,0.3684
+932,Ɗum Ruuhu Ceniiɗo sappotoo faade e nokku ɓurɗo fuu senaare: damal naarrugal e makko ɓanngintaake so nii hukkum ceniiɗo oo ana heddii nawtoreede.,Ɗon ruhu cheni ɗo sappato faɗe e nokku ɓurɗo fuɗɗinaare. Damal narrugal e makko ɓangintake so ni hukuma cheni ɗo ana heddi nawtorede.,0.6957,0.2
+933,"Caggal ɗum, waalde Saahiiɓe ndee fuu immii, naɓi Iisaa to Pilaatu goforneer oo.",चगालू वालद साहिब ने फू इम्मी नबी ईसा तुपिलात गवर्नर,1.0,1.0
+934,"Gollanooɓe deental ɓee ana ceerti sifaaji, kaa Joomiraaɗo oo yo gooto.",,,
+935,"Caɓe joorɗe ɗee mooɓtete, tippee ley yiite, ɗe kuɓɓa.",tipe le yite,1.0,0.7619
+936,"Sabi Laamɗo noddiraali en faa coɓen, ko mo noddiri en dee, faa nguuren e senaare.",,,
+937,"O sellini ɲawɓe ɓee fuu, o daalii ɓeen pati kumpita fay gooto kabaaru makko.",Sallan yau ɗin fu wadda ali ɗen pati computer fa go to kabaru maku.,1.0,0.4426
+938,Yo Baabiraaɗo meeɗen Laamɗo waɗan on moƴƴere e jam!,"Yo baabiraaɗo meeɗen lamɗo, waɗan on",0.4444,0.2857
+939,"Tawi Hirudus yamiriino Yaayaa nanngee, haɓɓee, uddee ley kasu.","Tarihi Ruusu, Yamirino Yaya Nange, Habbe Udde Lekas",1.0,0.2745
+940,"Ɓe ndiman: yoga sowoo cowe capantati, yoga capanɗe jeegom, yoga teemedere.","Pendi man, yoga so'i cho'i chapan tati, yoga chapan je'ego, yoga temede'i.",0.8182,0.25
+941,"Kaananke, miɗo e laawol wakkati hakkunde naange, njii-mi fooyre ana iwa dow kammu ana filoo kam, miin e yaaduɓe e am ɓee fuu.",,,
+942,"Dokke ɗe Ruuhu Ceniiɗo hokkata en ɗee ana ceerti sifaaji, kaa Ruuhu oo yo gooto.",Dokke deru cedi hokkata ende ana ceerti sifaaji ka ruuhu o yogota,0.6,0.2188
+943,"Kaa nde a naywii, a fooccan juuɗe maa, goɗɗo ɓoorne ɗe, naɓe to a yiɗaa.","Kande anayiwi, a fochan jude ma goddo bornede nabe to a yida.",0.8,0.2963
+944,"Jooni, mi darike faa mi saree saabe mi fawii jikke am dow fodoore nde Laamɗo waɗani njaatiraaɓe meeɗen ndee.","Joni, mi darke faami sare saabe mi faami jikke am dow fodore lamdo waddani jaatirabe meeden de.",0.6842,0.2159
+945,Tama o wanaa mawnii Yaakuuba e Yoses e Yahuuda e Simon?,"थॉमस ओवाना माउनी, याकुबा इयोसेस, यहूदा इस्कैरियोट",1.0,1.0
+946,O wii ɗum: —Yaa sulmoya luggal biyeteengal Silowam.,Ya sulma ya luggal be tengal silowa.,1.0,0.3171
+947,Accidee ɗi faa kettal.,,,
+948,Wanaa faa o haɓɓa goonɗinɓe o naɓa ɗumen to hooreeɓe yottinooɓe sadaka waddi mo ɗoo naa?,Wana fa o habba gonɗi ɓe o habba ɗum ɓe to hore ɓe wotnobe sadaka waddi mo ɗo na.,0.8125,0.2778
+949,"Kaa ɗo aawdi ndii saami e leydi lobbiri ɗoo, ɓee ngoni nanooɓe konngol ngol so njaɓa ngol.",,,
+950,"Hirudus weltii sanne, faa hunii hokkan mo huunde fuu ko o ɲaagii.","Hirutsi weti sanne, fa humi hokkamu huni fu ko nyagi.",0.8333,0.3462
+951,"Kaa so non laatorii, hono ko winndaa ley Binndi ɗii koo tabitirta?","Ka sonun laatori, hono ko winda leebindi di ko tabitirta",0.75,0.1887
+952,"O wii soottooɓe buugaaji ɓee: —Ittee ɗum ɗoo, pati ngaɗee suudu Baabiraaɗo am nduu soottirdu.","Ittidum do, fati ngade suudu babiraado am do sottirdu.",0.8667,0.4933
+953,"Oon sirri anndinanooka ɓiɓɓe aadama ley jamaanuuji jawtuɗi ɗii, kaa jooni Laamɗo ɓannginirii mo Ruuhu Ceniiɗo oo faa nelaaɓe mum e annabaaɓe mum seniiɓe fuu paami mo.","O sirri anndina no kabirbe Adama leyyi jamaanuuji jawtuɗi ɗii. Ka jooni, lamɗo banginirimo ruuhu ceniiɗo o, faa nelaaɓe mum e annabaaɓe mum seniiɓe fuu paami.",0.4444,0.1232
+954,"Ko Iisaa haaldata e debbo oo koo haaynii ɓe, kaa fay gooto e maɓɓe wiyaali ɗum: «Ko ndaartataa?","Ko eesa haa datta e debbo o ko haani be, ka fay gooto e mabbe wiyali dum ko ndartata",0.6667,0.2297
+955,Laamɗo hokki min saakude anndal Almasiihu nokku fuu hono no uurdi mbelndi nii.,"Laamɗo hooreejo leydi saakuɗe andal almasiihu nokku fuu, hono no urdi mbelniri.",0.5385,0.2615
+956,Sool ana heddii e gidoraade taalibaaɓe Joomiraaɗo ɓee waran ɓe.,Sollan hidde gidorade tali babi jomiraado be waran.,0.9,0.3019
+957,"Oon wii mo: «Miɲa oo warti e jam, baam maa hirsanii mo ngaari payndi ndii.",Minya o warti e jam. Ba ma hirtini mo ngari paindi.,0.7333,0.3929
+958,"Eliyakim ɓii Malaya, Malaya ɓii Menna.",रिया किम हिमालय मारिया,1.0,1.0
+959,"Jaati Baabiraaɗo, hono non worri sabi ɗum wel maa.","Jaati baabiraado, hono non worri sabi dum welma.",0.4444,0.075
+960,"Miin, mi maccuɗo hono maa hono sakiraaɓe maa tiiɗuɓe e seettanaade Iisaa ɓee.",min,1.0,0.9524
+961,"Laamɗo waɗiri juuɗe Pool kaayɗe mawɗe, fay e sarbetiiji e kaddule memnooɗe terɗe makko ana naɓee pawee e ɲawɓe, ɲawuuji muuɗumen cella, seyɗaanien njalta e muuɗumen.",,,
+962,Sabi Almasiihu naataali e nokku dewal ceniiɗo mo junngo ɲiɓi.,Sabi almasiwu natal enokku dawal ceni omo jungo,0.9,0.2549
+963,O lamndii ɓe ɗum ɗoo e laawol: —Homo yimɓe mbiyata ngon-mi?,O lamdi be dundo e lawul. Ko mo himbe biyata gonu.,0.9091,0.3556
+964,"Kaa nde ɓe annditinnoo o Yahuudiyanke ndee, ɓe fuu eɓe ngulla ko waarata e leeruuji ɗiɗi, eɓe mbiya: —Artemis Efeesunkooɓe yo mawɗo!",,,
+965,Darinooɓe ɗon ɓee mbii Pool: —A yennan Jottinoowo Sadaka Mawɗo mo Laamɗo suɓii oo naa?,Paul,1.0,0.9565
+966,"Caggal mum, Yuusufu Arimatiyanke ndaardi Pilaatu yalla omo ɓamta tew Iisaa oo.","Yusufu Arimatiyanke na'ardi pilatu yalla o mo bamta tewu Isa o, pilatu jabanimo.",1.0833,0.4154
+967,Sabi eɓe njiɗi haɗude min waajaade leɲi goɗɗi yalla ana kisa.,Sabuwar bingi da hadu da min waya da lenyi godi yalla ana kisa.,0.8182,0.38
+968,"Ɓe paamaano haaynde nde Iisaa waɗiri buuru oo ndee, sabi ɓe wumɓe ɓerɗe.","Babba ma no haa nde iisa waddi buri onde, sabi be wumbe berde.",0.9231,0.3621
+969,"E oon wakkati, ana woodunoo kasunke jom innde biyeteeɗo Iisaa Barabas.",an waka ji ana wodon kasuwan da Beter Isa Barabas,0.8182,0.431
+970,Ɗum woni haaynde ɗiɗaɓere nde Iisaa golli kasen leydi Galili nde iwnoo Yahuudiya.,"Duniya haidara da Isa golli kasin, ledi Galili da Iyo Yahudiya.",0.8462,0.3971
+971,"Iisaa nani ɓe njaltinii mo, yiiti mo, lamndii mo: —Aan nee, aɗa goonɗini Ɓii Neɗɗo oo naa?","Anne, ada",1.0,0.8971
+972,"Caggal ɗum, njii-mi dow kammu taagumansa goɗɗo mawɗo kaayniiɗo.","Tagal tum, jimi do kammu tagu man sa goddo mawdo kaini",1.1111,0.2885
+973,"Aɗa nana dillere mayru, kaa a anndaa to ndu iwri, a anndaa to ndu yahata.",Ka anda tunu i wuri. Ka anda tunu ya hada.,1.0,0.5714
+974,"Neɗɗo fuu podanaaɗo wardeede kaafaawi, wardete kaafaawi.",warde,1.0,0.8958
+975,"Ana tilsi kasen wonɓe sella ɓee ceettanoo mo ko moƴƴi, pati o heɓa gacce so piccal Ibiliisa nannga mo.","Ana til sikasin, o'ng peshlabe, ketta nomuko mo'yi. Patyo heba gache, so pichel iblis",0.8947,0.3659
+976,"Nde o yottii galle Jayrus ndee, o ɗalaali fay gooto naadda e makko, so wanaa Piyeer e Yuhanna e Yaakuuba e baaba suka oo e inna mum.",,,
+977,"Neɗɗo moƴƴo, ko moƴƴi iwata e ndesaari ngonndi ley ɓernde mum.",ne'do mo'jo ko mo'jo iwata endesa ringo dile bernde,0.8182,0.3
+978,"Kabaaru aawdi saamundi e kebbe ndii, ana nanndi e neɗɗo nanoowo konngol ngol, so sugullaaji aduna e koomti jawdi cuuma ngol, ngol laatoo dimarol.",Kabar audisa munde ekebendi ananandi enekdo nano kongongol sosugulaji aduna ekomti jaudi chumangol. Golato dimaro.,0.9583,0.2203
+979,"Pilaatu lamndii mo, wii: —Aan woni kaananke Yahuudiyankooɓe oo naa?",Oui.,1.0,0.9444
+980,"O haamili, omo wulla saabe tampere e naawalla ŋatawere.",Aha mili.,1.0,0.8667
+981,"Kaa so neɗɗo haaldii e am ɗemngal ngal mi nanataa, mi laatike janano mum, laatike janano am.",ka'a sonne to haldi am dem gangal mi nanata mi laata ka jannano mum laata ka jannano,0.7647,0.2466
+982,Hooreeɓe yottinooɓe sadaka ɓee ana ngullanoroo mo kulle keewɗe.,Oɗo e yettinaɓe sadakaɓe ana ngullu norooma kulle kewɗe.,0.7778,0.2407
+983,"Miin duu, miɗo wiye Piyeer , e dow nden haayre mahan-mi deental am goonɗinɓe ngal.","Mido yi'a Pierre, ɗo woni haire. Ɗo ɗen haire mahan mido dental am gondi be ngal.",1.0,0.4531
+984,"Nde ɓe mooɓtinoo so ɓe ngari ɗoo ndee, miin nee, mi neemtinaali fay huunde.","Moi petit nom, c'est Bengari. Donne-moi une",1.0,0.6949
+985,"Iisaa jaabii mo, wii: —Naafigien!",Oui.,1.0,0.92
+986,"Oon wakkati fuu, yiite iwi dow kammu, halki ɓe.","Homa kadi fu, yite iwi do kammu halki",0.6667,0.2778
+987,"Nde yimɓe ɓee njii mo kanko e sordaasien ɓee ndee, ŋootti fiide Pool.","Dimbé yiimo, kan ko soldasi enbé ndé, ngoti fidi poul.",1.0,0.4364
+988,"No kaaliran-mi on dee, hono no on adunankooɓe nii, hono no on cukaloy keccoy e ley goonɗinal Almasiihu ngal nii.",,,
+989,"Caggal ɓe ndawridii, ɓe ɓami kaalisi oo, ɓe coodi ɗum ngesa e junngo mahoowo looɗe faa waɗee jenaale joolaaen.","Sakkal be ndawridi, be bammi kalisi o, be coodi dum ngesa e jungo mahowo loode fa wade jenaale jola",0.7895,0.2472
+990,"Nde Yuusufu fini ndee, waɗiri no malaaika Joomiraaɗo oo wiirunoo ɗum nii.","De yusuf filli de, wodi no malaika jomiraawo do wi'uno dum ni.",0.9167,0.3333
+991,Hono nii ɓe fuu ɓe njottorii njoorndi e jam.,"Morni befu ben jottiri, njorndi e jam.",0.7778,0.2857
+992,"Iisaa uumi, wii: —Koɗum waɗi so oo ɗoo jamaanu ana ndaara holleede taagumansa?","Iisa um, wi ko dum wadi so o do jaman andara holle tagu mansan.",1.0,0.3065
+993,"Sakiraaɓe, miɗo ndaarda on ɗum ɗoo e innde Joomiraaɗo men Iisaa Almasiihu: nanngondiree, laato-ɗon daande wootere, pati ceerton, laato-ɗon hakkille gooto e anniya gooto.","Sakiraabe, miɗo on darndo ɗumɗoo e inde Joomiraaɗo men Iisa Almasihu. Nangondire, laasɗo ɗon daane wootere, pati certo, laasɗo hakkille gooto e anniya gooto.",0.5417,0.1377
+994,"Minen wonɓe ley laana kaa ɓee, min yimɓe teemeɗe ɗiɗon e capanɗe njeɗɗon e njeegom.","Minen wamɓi lelanakaɓe, yimɓe temede ɗiɗo e cappanɗe jeɗɗo e jeego.",0.7333,0.2687
+995,"Ɲawɗo oo jaabii mo, wii: —Moobbo, mi walaa fay gooto balloowo kam regaade e luggal ngal nde ndiyam ɗam jirkitike.",Mobo,1.0,0.9551
+996,Pilaatu wii ɓe: —Sordaasien haybooɓe annii.,Sardaasiyen hahibo be anni.,1.0,0.5429
+997,"Oon iwruɗo dow kammu, kaɲum tiimti yimɓe fuu.","O juudo dow kammu, ka nyumtimti yimbe fu.",0.75,0.3056
+998,"Hettintonooɓe mo ɓee fuu kaaynaa, mbii: —Wanaa kanko wonnoo torrannooɗo goonɗinɓe Iisaa wonɓe ley Urusaliima ɓee naa?",Wana kanko wonno torra no goddi be Isa wonbe le'i Ursalima be'en.,1.0,0.5361
+999,Omo hoomta maccuɓe am omo janngina ɗumen fijirde e ɲaamde tewuuji cakkanaaɗi tooruuji.,"O mo honto ma cubi am, o mo jangina dum en fijirde, en yamdi tewuuji cakanaadi toruuji.",1.0769,0.1918
