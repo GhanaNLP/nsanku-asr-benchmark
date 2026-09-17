@@ -100,3 +100,21 @@ benchmarks:
       valid: 1000
       avg_seconds_per_sample: 0.52
   source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: xon
+  wer: 1.0184
+  cer: 0.6089
+  per_category:
+    bible:
+      wer: 1.0184
+      cer: 0.6089
+      samples: 1000
+      valid: 961
+      avg_seconds_per_sample: 0.25
+      failures:
+        TypeError: 156
+  source: evaluated

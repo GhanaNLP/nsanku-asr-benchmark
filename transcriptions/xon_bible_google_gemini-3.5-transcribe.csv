@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,“Maanib bi ke ipiih i aapihkpaal cha i wɔŋ ŋijoo ponn ni na la.,"Maanụ bụ nke ịpị, ị apụkwa chaa ịwọ n'iji ọpọnụ na",0.9286,0.5625
+1,Li cha aate ni aana aah nan chaa ŋiwaa aabɔnabr bi chee na.,Ncha atenu ana ana ncha nụwa abụọ na abụọ,1.0,0.5
+2,"Isakar ŋichur piiŋmu ni ŋinaa, ni ikui inaa.",i sị aka? M ga-achọkwa ịhụ nwanne gị na-ekwe ịna.,1.25,0.7143
+3,Binib ngem mu bi ke njikaabim mu lir ikokon ponn ni na la.,Bụ nụmfọ bụba mụ nani ndị bium mụ nụ ikumkwaị apụlụ nụ,1.0,0.7778
+4,Kina pu le Ahab kuun Israel aanib mɔmɔk ni liwaal Baal aawaadam ke bi keln tɔb Kamel Aajool paab.,"Kene a pulu ahia kun Izra'il anomomo, n'eluwa bu awa Adam ke bekelu ntopu kamelu ajolu pa.",0.9474,0.4103
+5,"Ni lik ke kitiŋ ngbaan bi kinye, ki lik ke binib biŋa bi ki ponn ni, ki lik ke bi kpa mpɔɔn kinye.",,,
+6,"Le ni saa tikur tiwae yoonn, le u ki buen kinyaŋ ni ki ti mui bijab bibaa si nima, kaa kpa lituln libaa.",le n'enfo tukudu we ayo le ujon kenyan yi kita mi beja beba sini ya kajuo tuon le ba,0.913,0.4684
+7,"Tisufar ngbaan aabil le ye liwaatiir, ŋibil mɔmɔk filk jer lima la.",n'ap tumuwar muna le ulen ke ai ni jiena niye ni n'ap tumuwar mon ke ni ba ke idi iba mu,1.6667,0.9074
+8,"Cha binib bi kpokl m pu na aalan ŋmal, aan bi fenn bipuwɔb.","Chineke bụ mpụta na-ala nwa, a mụrụ ya bụ nwa.",1.0,0.6444
+9,"Aaronn ni uyaabitiib mɔmɔk ga li joo nkaal ngbaan kina, le ki cha n‑yoonn mu kaa kpa ndoon na.","Ndeewo, unu ya abụọ timọọ. Galu njọ nke a gba nkịtị na. Lekachaa inyo mụ ka akpa ndụ ụnọ.",1.0,0.5205
+10,"“Libiln ni kan, ni dan ki nan doon min, nimi Israel yaab Aadindaan Uwumbɔr, u ni dii u na, nfum mutaa.","Liberté, égalité, fraternité.",1.0,0.8553
+11,"Bi dak ke ni ga duun la, ni yaa kaa ye kina kan, u ga kpo.",na ye,0.9375,0.9
+12,"Moses yaa ti koo li ponn ni kan, le ntaalangbam dan nan sil Libool ngbaan aabisamɔb, le Uwumbɔr len Moses chee tibɔr ntaalangbam ngbaan ponn ni.",Moses ya tukwuru unu ka le nu taa na ngbamdana n'elu ugwu ngba abisa mụ Le unu ngba elu Moses chetu bụ nu taa na ngba ngba,0.9615,0.431
+13,"Le butɔb aajab aaninkpel Julius gee Pɔɔl aabɔr, ki cha u buen ujɔtiib chee nima, u ti kan waah ban pu na.",Kedu ka onye ọjọọ ti bịa n'ịhà? Nwoke ka ịwa abalị.,1.0,0.7778
+14,Pɔɔl aah tuk Ubɔr Agripa waabamɔn pu na.,"Paul ka gbe, o gba agripa, o ba mu",1.0,0.5625
+15,"Le u ga gaa bi lii na kpa mpɔɔn, waayimbil le ye Uwumbɔr Mpɔɔnsakpiindaan.",Nke ugaga bili na mkpa mkpa wa ayi mbili ye umu mkpa nsakwinda.,1.0,0.3729
+16,"Bi yaa kan limukl ti pu kan, bee binib yaa ŋa bi falaa ti pu kan, libuul ngbaan ni, le bi ga di ti lii.",,,
+17,"Le u ti bui ubɔr ke, “Nte ni nkpetiib fuu ni a.","Na otu bu ubochi, mte na nkweti fu na",1.0,0.4848
+18,"U nan ŋman le ki nyun nnyun, le ki ki gir doon.","O nang may, la konyu inyu, la ki",0.9167,0.5294
+19,"Ni di tikumann ŋmeen ŋa tiwan ni mɔmɔk ni joo tun lituln Libool ngbaan ni na, ni laakpaa mu.",ne di tukwalu mwe na tuwa nu momo ne ju otu le otu le bu ngwa ani na ne le akwa,1.0,0.4722
+20,"Uwumbɔr aabɔnabr, u bi nan yin u ke Elaija, aan u nyan ni Tisbe aatiŋ ki bi Gilead ni na le nan bui Ubɔr Ahab ke, “M ye timi Israel yaab Aadindaan Uwumbɔr u bi na aatutunn.","Ugbọr abali na-abụọ, obi na-nyị Ụka Elijah, a unyene test be atịm ka bi gi ilia nịna. Na na mgbe ụgbọr ahabụọ, nye tumị Izuria adị nda ụgbọr ụbịna atọtụ",0.973,0.5191
+21,"Uwumbɔr len ke, “Tak Merataim ni Pekod aatim aanib man.",Tell me the time.,1.0,0.814
+22,"Le Uwumbɔr aatuun ngbaan bui u, “Fii ki yoor ubo ngbaan ni una ki gir buen Juu yaab aatiŋ ni.","Dut in dawo mboro tuwon biyu, fiki yuro ka bugu mwan nu unam meri, ke jit ke jo jo yawo atin",1.05,0.7042
+23,U joo limɔyiir le kpae titunwanbir pu; le ki ŋani Uwumbɔr mbɔnyun ti mɔmɔk aanimbil ni.,Ujo ni ma yi le pe ti tuo mri pu. Le ki nga ni wu gba nyi ti ma mu ani mbe ni.,1.0625,0.4286
+24,"David aataani ubaa u, u nan tun na le ye Hef aanii Uria aabɔr na baanja.",David Atani Uba Umuantuna leye Heif ani Uria agbar na Bende,0.8125,0.2727
+25,"N‑yoonn mumɔk paa ni na, ni li tii Uwumbɔr njan aamaab u ni ken na kina cha.",na leti unu mgbede oma unu kele na-akle,0.9412,0.7193
+26,"Waah kpa kikumɔŋ ke likaakul ki bi ke nkun na, waa babr tiwan nibaa, le ki nyaŋni ŋitimbol ki chur binib mɔmɔk tinaagbiir.","wa kpokwuru m nke a ka akulụ, kị bụkwa nke nnụa. wa bụ abụtụwa nụ ba. leekị nyaa nụ ngị tumbụlụ, kị chụrụbụ nụ mọmọ tị na agwị",1.2174,0.4948
+27,"Ni ŋa idɔja iloob ki di ŋa Libool ngbaan aawilir, lipuwɔb, aan ki ŋa idɔja ilee siin ŋigulɔ mɔk ni.","Nna m a, i doja ịlụ, kedụ ngalaba a weliri le puo? A na m ka m na-ịdoja ịlesị ngụlụ ọrụ",1.05,0.6104
+28,U nan bi ki ti saa ŋibin ikui itaa ni imonko itaa ni ŋiŋmu.,"Nnam bu Kanda sa, nna be Ikwe taa na Imo nke ita na Ngwa",1.0,0.5333
+29,Waah nan nan por pu na le kitaafaak aaween ibaa nan wɔb u.,waa na mpuru puna lakita fa awe iba na nwa,1.0,0.4
+30,"N‑yoonn mu bi fuu na, le Josef koo itaan aatɔroku ponn ni, le ki buen ute chee nima chee.",Ndi be n'ebe fu na Joseph ko ita atoroko ponyi na ka bu enu utechi na machi.,0.9474,0.4328
+31,"M nan kan mbaa le ki bui ke, “Ubaa aan ki ŋmaa nyaŋ mi.","Nnakam ba, leka buike uba aka nwa ya nwoke.",1.0,0.4103
+32,Uwumbɔr Aadichal aan nya nimi ntafadaan ni.,"Mba, adighi m anata ego n'aka unu.",1.0,0.6111
+33,"I nan fii nan lir linampal, ki mann goln ni kookoo, ki wiir pam.","Nna, ife na-elele na mpa, kemgbe ụnyaahụ, ka m na-akụkụ, ka m wee",1.0,0.7083
+34,"U nan donn unaajabo u bi nan mɔɔ na, le ki san u, u ti kpaln n‑yon, le ki di buun nnyun ni, ki di tii binib ngbaan le bi nyun.","Unan don unu aja bu ubi na mmuana, leke soun, utekwa nyo, leke di bu nyo nu, leke di ti bu na ngwa, lebe nyo",0.9032,0.3778
+35,"Aa ŋal ŋitanyaan aatuutagen tii bi, bi li fɔk ki ti saa bitaŋaayil mɔk, nima kan, baan di bibaa mɔk binib.",,,
+36,"Le u fii yuk, ki sil utaa pu, ki piin ki chuun gonni, le ki dii bi, ki koo Uwumbɔr Aadichal ni, ki bi chuun, ki yukr, ki pak Uwumbɔr.",,,
+37,"Nima chee le bi nan sub Abraham ni upuu Sara, bi ki di Aisak ni upuu Rebeka mu di sub nima chee la, m mu nan di mpuu Lea sub nima chee la.",Nwachinemelu n'onwe ya bụ Abraham na nwunye ya bụ Sarah. Bụkwa ndị Aịsak na nwunye ya bụ Rebeka mụrụ na Nwachinemelu. Mụ na ndị mụrụ Leah bụkwa Nwachinemelu.,0.9697,0.6796
+38,kaa ban ke bi kpeln baabimbin ki dii maasan.,ka banke bin kwana biyu ban ganka ba tun dazu,1.1111,0.6286
+39,hali ŋikpan aasui i bi Lebanonn aatiŋ ni na mu kool la.,"Halin akwai azumi a Lebanon, a tsakani na da makwabta",0.9167,0.5116
+40,M kpa limakl ke Uwumbɔr ga gbiin tipuur ti u nan puu tii tiyaajatiib na.,"Ihe a lụrụ m agaghị ekwe. Ụtụtụ na ụbọchị niile na-eche banyere ya. Tupu mụ na unu apụ, ka m si ebe a jee.",1.5333,1.0351
+41,"Pɔɔn aabaa, ki li pel maah ban m len pu na.","Kua aba, kepe maba nle",1.0,0.5484
+42,"Kina pu le Ubɔr Asa nyan tikunabr ni salmaa u mɔmɔk nan gur Uwumbɔr Aadichal, ni libɔrdichal ni na, ki di tun waaninkpiib bibaa Damaskus aatiŋ ni, Siria Aabɔr Ben‑Hadad chee.",Kena pule ubor asa nyai tukulnom ni salma umaru na ngur umbo adichan na ilibo adichan na kedi twin wani kwi buba damascus atin ni syria abor ben hedat,0.871,0.3309
+43,"” Le u bui bi, “Paacham yaa maln kijook kan, le ni bui ke utaal aan nu.",le ugwu a taa ma na kuju oke na niile ke utal ka enu,0.875,0.52
+44,"Ubɔr Neko nan di Joahas aakpel Eliakim le kaan Juda aanaan, le ki kpeln waayimbil ke Jehoyakim.","Ubaneko na ndi Johas, Akwa Eliakim, Lekka Juda ana, Lekka Kpenwa yi mbilike Jehoakim.",0.8824,0.2338
+45,"Toor man kitork ki tok na tii Uwumbɔr, ki di naadii tii u.","Chukwu amaka, Chukwu ka, Chukwu n'ati uba. Kedu na adiri",1.0,0.7273
+46,"Efraim ŋichur imonko ilee, ni ikui iŋmu.",m'echoro m'akwaa ya ele na ekweghi,1.0,0.7812
+47,"Ni di ŋikeken ŋiŋmu kpaan ŋal dab tɔb, ki di ŋiŋmu ŋi gur na mu ŋal dab tɔb.",Ndege ka kangam mu kwangala dabto. Kede ngam mu ngam gurna mu mu ngal dabto.,0.9444,0.5439
+48,Uwumbɔr aadim ga wɔŋ ke nsupuun na la; bi ga wɔŋ ke iŋmanyuu na la.,"Umboro adim gawa, ke nsogbu na la? Buga gawa ke i ma nju na la.",0.7333,0.3529
+49,"Biyaajatiib nan kii tii Uwumbɔr, bi mu ba ga li bi u chee kina.","Bịa, a jụọ gị na nke ụmụaka, gịnị bụ mbaghare bụ ụchiekwa?",1.0,0.6042
+50,"Bi ga finn ngeen pu, le ki cha ijawaan chuu si, le sin aabaa ga kpaln baapɔndaan.","Bịa, fụnu ngem pụ. Lekicha ije nwanyị chụsịrị. Lesịnu abụ aga kpọnu ba kpọnda.",1.0,0.4355
+51,"N‑yoonn mu binib ngbaan ŋun kina na, le bisui bii, baa ki peeni salmaa aawan kpala, ba pu?",nwanne mụ bụ nụ ngwa nwe nke na na lebe si bi ba ka pụ ya na salama a wa nkwala ba,1.1667,0.3971
+52,"Le Uwumbɔr bui u ke, “Nya ki ti sil nnimbiin ni, lijool ngbaan pu.","Lé umar bi oké, nya kitis nne bi ni, lé juol ngba",0.8571,0.4082
+53,N‑yoonn mɔmɔk m pɔɔni mbaa ke m taa li kpa taani Uwumbɔr ni binib chee.,nụ bie ụfụ nụ mba ke nla jụọ taa ni ụbọchị taa ụbọchị mbarịbaị ni bụ nụ ụbọchị,1.0,0.8182
+54,"Aa di tiwan ngbaan kpaan ki ŋmal ni ke tulalee na, ki ban n‑yaan ŋa ni ponn ni, ni li bi chain ki taa bii.","A tuwa ngba npa, ka ngmaru nneke tula lena, ka ba iya nga nponi, nele be chai ka taabi.",1.0,0.3846
+55,"Tibɔr ngbaan aah nan ti pii Hadad, Ijipt aatiŋ ni, ke David ni waajab aaninkpel Joab mɔmɔk kpo na, le u bui ubɔr ngbaan ke, “Cha m gir kun ndo aatiŋ pu.",Ubochi ngwa ana nti pi hadat Egypt atini ke David ni wa jap ana kpe Joab momo kpe na le ubu ubochi ngwa nke cha ngirikwe ndu atin,0.8438,0.3826
+56,"Ti yaa ban ke ni ti woln waahr aan ti nin len ti kan, ti ga kan ntafadaan.","Tụba m aka na ntị gị, nụwa ihe a m na-agwa gị. Tụgharịa aka m taa",1.0,0.6727
+57,"Israel aanib, Uwumbɔr ban ke dandar aatimbol le dan nan tak nimi.",Umbar banke dandor atumbe ledan na,1.0,0.5192
+58,"Bi nan san cha baakeken aaboo, ni itaan, ni ibon, ki di cha baakookoo yaan ngbaan naah bi pu na.",Bina sacha bakakain abu ni ita ni iboi kirike bakakoi yangba,0.9,0.4658
+59,"nkon le ga ti ku timi nima; le ti yaa ti ki ka do mu kan, ti ga ki kpo.",nwele gatu kutu mi nụ ma leti ya atụkị ka ndị ọmụ ka anyị tịga,0.95,0.4286
+60,bi chaa u chee ti ban nterm.,बच्चा ऊंचे बांध तरम,1.0,1.0
+61,Nima le cha ni ji mi tibɔr din.,Mambo lesse ni kat,0.875,0.7826
+62,"ni inyunbun i binib puen gbii i na, ni nkpan aasui.",N'inyom bu ibi bi na point gị ị na na mkpọ asụ,1.0,0.5385
+63,"Le Uwumbɔr giin bui u ke, “Ni ye binib bi tun titunwanbir m chee na aayimbil le m ga ber maagbaŋ ni.",le umbaro gi mbu oke nye bu ndi be ntu tu wa mberu nchi na ayi mbe le nga mberu ma akbang,0.9091,0.4211
+64,"Daalbaadaal, le Ela nan bi waaninkpel Arsa do Tirsa aatiŋ ni, ki ban u gbii ndaan.",Dabada la ela nambi wanin kiif arsa do tirsa atini keba ugwi nda,0.75,0.2969
+65,"Ute u nan puen jin nnaan aan u nan nab na aah nan bi pu na, u mu nan tun Uwumbɔr titunwanbir ki cha Israel yaab mu tun kina la.",Ote unu mpa engi na a unu nna abna ana mbe puna. Umuna ntuin umu gbor titua mbir. Kiche izura ya mu tuin kina,0.9333,0.3438
+66,"U yaa ki dan u nan see karyaa tiib kijook wɔb kan, u ki ŋa kina.",Wuya kaddai unan sai karya ce ku jowabke. Okin aka,1.0,0.4681
+67,"Naa ŋa nlandak daalbaadaal ke ni nyuŋ mi, hali maah tii nimi useetaal ni utakuutaal mɔmɔk pu, ki tii nimi lijikaacheel aayoonn pu libiln mɔmɔk na, naa nyuŋni mi.",na nga na ndo do bada ke na nyu mi hali ma ti na mi wu si ta ni uta ku ta ma mo pu ke ti na mi le ji ka chi ayo mpu le bi mo mo na na nyu ni,1.2759,0.3876
+68,"Hagai aah baa mbaan ngbaan na, bitotoorb ngbaan nan bui ke, “Aayii.","A ga-aba mba ngwa na. Betota ngwa na, ngwa",0.9167,0.5192
+69,"M nan buen Uwumbɔr Aadichal ni, m ti ŋa mbaa chain, aan ki toor kitork tii Uwumbɔr.",utunda wo mbat adigu utunda wo mbat kasi wo kumano kumano kusie utunda wo mbat,1.0,0.7812
+70,"U nan tun titunwanbir baan ti ute nan tun na, le kaa nan di ubaa tii Udindaan Uwumbɔr kookoo, ke uyaaja David aah nan di tii pu na.",na 2022 amara baanti wute na ntunna leekaa na ndi ubaati udi nda umgbarkoko kee uya aju David ana ndi ti,0.9286,0.3465
+71,"Ni yaa ban ni toor kitork ki bi joo seer mmii ni na kan, ni ga ŋmaa di unaaja, bee upihja, bee upihsal, bee uŋoob ŋa kina tii mi.",Ndi a ba nụ otu okwu ka m ji osisi mụ na kee. Nịga mụ adị unu aja. Be ụpụja. Be ụpụsịrị. Be ụnwụbụ. Ngakịna,0.9655,0.5833
+72,"Tɔ, Babiloŋ aajab nan di paan Ubɔr Sedekia pu, ki ti pii u Jeriko chee, le waajab mɔmɔk san cha u.","Tọ, Babilon ajọna ndị pa, ụgbọ ziri eke apụ. Kete pị ụjọ rị kọcha, na wa ajọ mmụọ sacha",1.0,0.473
+73,"Liifai yaab ngbaan nan pɔɔn bibaa ki chuun sɔŋni binib ngbaan aasui, ki tuk bi ke nwiin mundaal bi chain na, bi taa cha bisui bii.","N'afọ gara aga, nọmba ndị bịa ka ndị njem nleta si China bịatacha bụ",1.0,0.7353
+74,Maan ki ŋmaa kiir u ke u ki ŋa nibaa.,"Mankamá kírúke, úkena niba.",1.0,0.4444
+75,"Libiln ponn ni kan, Aaronn ti di kiwakork ki u di toor titunwanbir aachapinn na aasin, ki di gbaa ŋimɔchɔn ŋinaa pu nfum mbaa aan ki ŋa li chain.",Lekwe unu kpọ na ka e ruo nti dịkwa wako ka odetuo tupu wa mber achapụ na asi. Kedụ gba ngị gba chọọ ngị na apụ? Mfụ mba a ka ngalicha,1.0345,0.5088
+76,"Ŋaayimbil sɔ, stakte, ni onika, ni galbanum, ni frankinsense aatulalee, ki cha ni mɔmɔk li ŋak tɔb.","Naïm Bluso, Stacketti, Néonika, Ngalbanum, Nefrackensens, Atoulalé",1.0,0.5325
+77,"” Nima pu na, bi mɔmɔk nan siir foor Kora, ni Datann, ni Abiram aadichal chee.","Ndi Akaiak Nakkai, niga kpaa nkpo bechi eba atu wa mberiku. Nma pu na, bu momo na Chief Okora na Daton na Abiram adigharacha.",1.5333,1.1207
+78,"Taah ti fuu nima na, le butɔb aajab aaninkpel ngbaan kan buŋɔb bu nyan ni Aleksandria aatiŋ ni, ki ga buen Itali aatiŋ ni na.",Alexandra,1.0,0.9184
+79,"Bi nan kuun kal kitiŋ ngbaan aagbaan, le ki maa ŋikɔl ŋikɔl kitiŋ ngbaan aagon aataab kina ki ti saa Sedekia aanaan aabin kipiik ni libaa ni.",Benankun ka kitin gba agba. Lekiman kwakwa kitin gba agwa ataki na. Kitisai Zedekia ana abunka pini Leban,1.0,0.3451
+80,Le Siria yaab ngbaan nan san kijook ngbaan ke bi ŋmar.,Let's see the young one. Nice time.,1.0,0.7907
+81,"Manase aah nan ki tun ŋitun ŋi mɔmɔk na, ni waatunwanbir aatun mɔmɔk bi Juda Aabɔrb Aatun Aagbaŋ ni la.","Mana si Ana nke twin, nwetụghị mụọ mụọ na. N'ihi otu a mbụ atụghị mụọ mụọ gi, Judah agbara atụghị agba onye",1.05,0.5732
+82,"Min le siin kina, kaan kpeln maalandak.","Mala sink na, ka kpel mala ndo.",1.0,0.3548
+83,"“Bijab bi nyi baatuln mbamɔm na, nimi le ga nyan ni ki ŋa Uwumbɔr aah tuk nimi pu na.","Bịa bịa anyị bịa atụrụ mba mụ na, na mụ na gị anaghị, ka nga ụmụ bọọ atụrụ gị na mụ pụna.",1.1053,0.6094
+84,Uwumbɔr mbimbinyaan daan le aa bui ke waabɔr aa ŋan aa?,"Umụ nwoke mbinyere aka, lee abụkị wa abụọ anara.",1.0,0.5455
+85,"Unii umɔk nan kpa ŋitanyaan, ni upiih aakur ti man chaun na, ni nsiin, ni timann, ni tiŋɔkor aakekeln; ni ipihgbaman, ni igbanyaan, bi nan joo ni nimɔk.","Onye ụmụ ọna kpọrọ ṅta nya na ụpị akwụrụ, tịma nchọ na nsi, nị tịma, nị tịṅwa akwụrụ akakịrị, nị ịpagba mmayị, nị ịgba nya, be na njụrụ nị nụ mọ.",1.0714,0.5556
+86,"Moses nan yoor nsin mu bi ŋisambil ni na di mee yaa binib ngbaan pu, le ki bui ke, “Nsin mue le mɔk nimi Uwumbɔr aah nan puu tipuur ti buyoonn u nan tii timi ikaal yee na.",mosis na yu ol insaed mo bin sambel nena. Dem meya bin ongmba mpo. Laka buike insaed mo elo moni me. Owo mbor ana mputu putu bu yon una ntiti me ikali ena.,1.0,0.3923
+87,U ga li gee kitiŋ ki ŋan ki nyuun na u ko ki jer lifuur.,ka nyu na uko ka jere fu,0.9333,0.6098
+88,"U nan gar ke, “Ndindaan Uwumbɔr Mpɔɔnsakpiindaan, sin baanja le m dii n‑yoonn mɔmɔk.",Unu anụgo ka ndị na-ụmụbọ mkpa nsogbu ndị a si mba njikọ ndị Nnewi North,1.0714,0.6364
+89,"Nima pu na, n‑yoonn mɔmɔk kan, u ti yin ni u ki nan len u chee tibɔr.",Mambo? Ndi o bialu nke ututu oma. Unu amago otu mgbede,1.0,0.7755
+90,"M yaa cha utaal yun bɔnbɔn, aan waapumanja lul kitaapaak kan, m ga teer ke maah nan puu pu tii nimi, ni tiwan nimɔk fu na, maan ki cha nwam bii dulnyaa aawan nimɔk fu na.",Ihe a chọrọ ịtalụ gị bụ bọmbụ. Awa abụghị m onye na-arụlụ kịta pụakị. M ga-achọrọ ka m na-apụta n'ime ntuwa n'ụbọchị taa. Ma m chọrọ ka unu bido ya awa n'ụbọchị taa.,0.9722,0.6846
+91,"N‑yoonn mɔmɔk Uwumbɔr Aakaal Aadakaa le bi nan joo lolni nsan, le u mɔk bi baah ga kal nin chee na.",le 21 mars on part à Dakar le 22,0.9524,0.8684
+92,"Aa di titunwanbir naan kitiŋ, le ki di linikul maa kitiŋ ngbaan siin.","Adudu tuambr na kete, lakidi lenokul ma kete gban si",1.0,0.4364
+93,Bima bibaa aa ter bi ke bi dii kina.,"Bụọ mma, bụọ ba, ka akụọ bụrụ bụọ, bụọ nnọọ mụọ.",1.2222,0.8519
+94,Naan yunn le bibiindam ga wɔŋ; aa ga lik ban bi.,naa yun lebebi ndam ga wa a ga lebam,0.8182,0.3056
+95,"Nimi bi kii waamɔb na, li tar man mpopiin pu.","Nnem ebunkiwa m obula, letara m mpopu impu.",1.0,0.4412
+96,Timoor ti bi ipui ponn ni na aayataŋakl.,tum what tambe iddi apol ni alembel,0.875,0.7188
+97,"Waah di i ŋa mmii ni na, le i toŋ.",wata ƙanga ɗin miya ne? Le tsadar ɗin tun tsadar ɗin ka tun,1.3,1.4783
+98,"Le u gaa tafajɔn ngbaan le ki donn bi, le ki di kpaar ŋa tiwan ni naahn unaa na ni, le ni kpaln salmaa aanaajabo.","N'ụbọchị ahụ dị egwu, lee ka ụmụ nwanyị, lee ka ụmụ nwoke na ụmụaka niile na-ekpanje na-aja",0.96,0.7209
+99,"N‑yoonn mu binib nan too pɔr gbiin dulnyaa wee ni na, bi nan ma mpiibim bi ŋan sakpen na, le ŋiniwɔk nan yoor baah gee bi na, ki di ŋa bipuutiib.",na ntopọrọ gị ndụ ya wee na-ala. Bịa na mpi bụ mbinye aka kwee na. na ịghọrọ baa gị bụ na. Kedụ ngwa biko.,0.9032,0.6182
+100,"Ni taa kpaan binib ngbaan chee ki ŋa kimɔbaan, ba pu?",neta pa'a m'nugbanche k'naka m'oba ba,0.9091,0.4634
+101,"“Liyataŋakl ngbaan aatataa le ye ke baah yin bi na wiir, le baa nyan bi na aa wiir.","N'ịlọ mbalụ m, a taala ya kee? Baa ya mban yaba, ama baa ya mban ka a ya",0.9444,0.6032
+102,"Iwiil ga li bi kinyeek, le kichakpiik ni nan kpaln mpopiin.",le wheel gal beka ñi leka ciak bi ne na ba am popi,1.1818,0.5532
+103,"N‑yoonn yaa kaa nan ki ŋan kan, baan ji falaa; le nkon aayoonn kan, bi ga li kpa ni ŋeer bi na.","nyiri aka na nke gi na nke m baa njikọ laa, na nkọna ayọnụ nke anyị, biko na kwanụ nyiri be",1.0,0.5072
+104,"Ubɔr Asa aah nan ki ŋa tiwan ni mɔmɔk na, ni waah nan kaar pu na, ni waah nan pɔɔk ntim mu na aabɔr bi Juda Aabɔrb Aatun Aagbaŋ ni la.",ọbụrọ azụ anankị nga tuwa nị mọmọ na nụ anankị arụpụ na nụ ananpụa ntụmụ na abọrị bịjụda abọrị atụ agba nịla,0.9032,0.4653
+105,Ulau ye uninyuun?,ማ የልንፎ,1.0,1.0
+106,"U nan bui Moses ke, “Aa ni Aaronn kahn Israel yaab itaŋaal itaŋaal, ni mmaal mmaal.","Na mbu i Moses ke ana ero kan Israel itangar itangar, na nmal na nmal.",0.8125,0.3906
+107,"Ni ŋa ŋisambil ŋi ni ga li joo nfatan ŋani ŋi ponn ni na; ni ki ŋa ŋichakpaa, ni ŋisambil, ni inanmoon, ki kpee mmii aasambil mu.",Nga nga sambili nga ngali jo unfa ta ngani ngopone na. Neke nga nga chakwa nga sambili na inamu ke kpe mmi asambili,0.963,0.4184
+108,"Nima pu na, waa nan nyan Pɔɔl kiyondiik ni.","Mabu, wanya Paul, dans la carte d'identité.",1.0,0.7273
+109,” Bi nan kii tii tɔb unii mɔk aah ga buen kitiŋ ngbaan pu nin chee wɔb ki ti ban timoor na.,Nwanne anyị nwoke aga gwa gị kete mgbe mụ na nche ụwa kete bịa n'ụlọ,1.0,0.7059
+110,"Tɔ, li beenin gee binib bi nyi si na, ki ŋa bininyaam tiŋann.","to, lebe na gi ebe na bu nye si na ka nga bu na ya m tinya",1.1538,0.4783
+111,"Nee aapuwɔb le Enok nan dii Uwumbɔr aasan mbamɔm, le ki ma mbim muken, le ki nan beenin bi, ki ti saa ŋibin ikui itaa.","Nnewi bụ obodo enock na ndi ụmụọaraasa mba ama. Lekwa mụọ, mụ bụ nwoke. Lekwa mụọ, mụ bụ eni mbe. Kwụsị sị mụọ be ịkwụọ ịta",1.04,0.6444
+112,"Bi nan yoor salmaa, ni tikunabr aawan mɔmɔk: bi nan yoor yoor nsambim ni ŋisambil ŋi bi joo moi mmii na.","Benyuo salma, ne tukuna awamomo, benyuo yuo nsom bebem, ne nyisa mbel nyebijo, moyi mmina",1.0,0.4444
+113,"Kina pu le utaal aa bi, le tijikaar mu aa ŋmaa ŋa.",Kanna pule uta abi leti jikaru anma,1.0,0.3243
+114,"Ujojoor umɔk ti ti bui ke saa bi waatingbaln pu na kan, see u cha ujojoor ngbaan puu ke baa sil kan si nima.","O jojoro ụmọ, teta bụrụ ike. Saa bọọ, waatụ ngalụ pụna nke. Sị ụcha ojojoro ngwa fụkụ Basilka sị na",0.9583,0.4578
+115,M gaŋ si ke aa li kpa limɔr ki li pel maah ga len pu na.,balenfi ale juala model keppel malobuyen,1.0,0.7
+116,"M nan nyi ubiindaan ubaa, le u nan kpa mbiin ni ti nyaŋ; u nan ti jer binib mɔmɔk pu.","Na nyo bi na uba, leenu nkpom bi inete nya, unu nte jebe nu mma mma",1.0,0.4286
+117,"Nima pu na, ba ŋa si Moses dak ke aa ŋan jer Uwumbɔr aanib ngbaan mɔmɔk, aan ki yoor aabaa paacham sakpen kina?","Nma upuna, banyere usoro isi dozie anaghị eru ụbọchị anọ ngwa ngwa. A na-akwụ yọrọ abamuru chamsakpụnkpụ.",1.0,0.593
+118,"Uwumbɔr, di cha pinn bi baatunwanbir; aa yaa kaan ŋa kina kan, chuu ber maayimbil kigbaŋ ki aa ŋmee saanib aayimbil ki ponn ni na.",,,
+119,"Israel yaab aabɔr aah kan Siria yaab ngbaan na, le u baa Elaisa ke, “Uninkpel, m ku bi ii?","Isreal aburo akanyi siri ya ya mgbe ana. N'ubochi Tuesday, unu kpee",1.0,0.5821
+120,"Bi nan bui Moses ke, “Ti mann kitiŋ ngbaan ni mɔmɔk, ki kan ke ki kpa liwangol pam, le kaakpaatan mu nyuun.",Nnam bu Mosis K. Timan ka tonga anu momo. Kaka nke kipalu wa ngolpam. Leka kwata mu nyu.,0.9545,0.3086
+121,"Israel yaab aabɔr nan bi chuun jer kitiŋ ngbaan aagoln paab, le upii ubaa nan wii u chee ke, “Mpɔɔndaan, ter mi.",Isi rayah agba na mbibi chunjere kete ngwa agwuru mpa. Lowu pi uba na wi ucheke. Mpa nda tere,1.0,0.4535
+122,"Le buyoonn m yin u ki ban nterm na, u ŋun maawiil.",,,
+123,"Naftali ŋichur piiŋmu ni ŋitaa, ni ikui inaa.","Naftali, nguchurpi ngunung ta nekwena.",0.875,0.4444
+124,"n‑yoonn mu bi toor baawaa na kan, bi ga chɔi nimi, ni ji kitork aajikaar ngbaan.",Ihe mụ bụ etu a wa ana ka ya. Bịa chọọ ya na mụ. Na-eje ka etu a aji ka ngba.,1.3125,0.5902
+125,"Saah tuk binib maabɔr Jerusalem ponn ni pu na, kina le aa ga tuk bi maabɔr Rom aatiŋ mu ni.","Nna be anyi, unu mbatara Jerusalem a bughi nani mmadu, unu abia be mbatara Rome atumgbo",1.0,0.6143
+126,"Ubɔr Jeroboam aah nan ye Israel yaab aabɔr pu na aabin moninko ni, le Asa jin Juda aatiŋ aanaan, le ki bi Jerusalem aatiŋ ni ki joo waanib ti saa ŋibin imonko ilee ni libaa.",Oba Jeroboam ana ya izu ahia abuo puna abuo n'ime nkoni le asa ji Judah atin'ana le ka bi jworisalam atin'ni kujo wa ne tisa n'ebi imonko ile ni,0.8,0.375
+127,"Baah siir ki cha na, le bi kan liŋmabil li bi nan kan liwipuul wɔb na loln bi pu nsan, ki ti fuu ubo ngbaan aah bi nin chee na, le ki sil nima chee paacham.","ba na nlo kịchaị, na bụ na nka, bụ nwa bụrụ m bụ na nka, m nwere ka akwụọ na mpa m ndị dị ndụ sam. Kịta fụ ka bụrụ nwa m ka bụ na ya. Lege sịth na ya a pa",1.0833,0.6923
+128,"Uwumbɔr, sin le ga gaa mi lii; aa ye Uwumbɔr u ŋani saah len pu na la.",hombor silga gamalli ay homborun ngalessal,1.0,0.5098
+129,"Ahab aah ti kan u na, le u bui u ke, “Sin le na aa?","Aha, a te ka una lewu bu uke. Si na",0.9333,0.3636
+130,"Nibaakan, m yaa ban m dii nimi foor siib kan, m ga kuln nimi kookoo.",na ba ke. Iya ba ni din ma force ka. N ga ko ni ma ko,1.0,0.4706
+131,"U nan see Uwumbɔr Aadichal, ni libɔrdichal, ni binikpaam bi mɔmɔk bi Jerusalem na aadichal lii; le waajab mu tur kaagon lir.",na asi umu mgbe adighi cha na elu uwa adighi cha na ebe ni kpam bu ma ma obi juru ya so na adighi cha li lewa anya mutur ka agoro,1.3182,0.5051
+132,"Daalbaadaal le u bui waaninkpel ke, “Maaninkpel, aachal yaa ba buen Uwumbɔr aabɔnabr u koo Samaria aatiŋ ni na chee kan, ni ba ga li mɔ mi pam.",Damanale ubi wa n'kpe nke. Ma n'kpe. Acha ya aba bu umu abali ukwu Samaria aturu na ncheka. N'be gali mwa mi,0.8929,0.4234
+133,"Ni ŋa iŋminsarkee piiŋmu lipepel libaa, ki ŋa iŋminsarkee piiŋmu mu lipepel liken aamɔgben.",Nna inu sarki fim din wulakanci a magwaji.,1.0,0.7632
+134,"Bidim gbaa wɔi kitiŋ ngbaan aabisamɔi aajaaleŋ mam, le ki see ŋidichal lii.","mbedengba wa ya, kitengba, abisa mma, aja alu mma. Lekisia ngidi",1.0,0.459
+135,"Gor aabaa, aan kichakpiik ni kan, aa fe dan Sainai Aajool paab m chee nima.","Gura ba, an keta kwini ke, afa dain sai nai ajulpa nci na",1.0,0.4483
+136,Ŋma kpiini ikaabɔn buyoonn i bi kpak aan nkon joo i.,Maka na ịka gba mbọ ịbụkpọ. A m ka onye,1.0,0.6585
+137,Min le ye Bidindaan Uwumbɔr.,Mille ya bedenda o mbor.,1.0,0.4348
+138,"Jerusalem aanib, cha tibɔbir timina li ye nsurm ki tii nimi, naa ye kina kan, m ga di nimi lii, m ga cha nimi aatiŋ kpaln nteersakpiin, nin chee ubaa aa koo na.","Jere sị na a na-echa tubarịrị, tupu m na-alịrị nsị nri nke dị na ya. Na-ayịkwa na aka, nga dị nri m lị, nga cha nri m atụnkpa ntesakwụ na nche uba akụ na",0.9697,0.5
+139,Yesu aah nyan libimbikl ubo ni pu na.,"Iesa te gbegai, gna bi jua.",1.0,0.6897
+140,"Bi ŋal ŋibɔgbin aaŋminju ilee, ima le bi ga li joo gbei.",mangal ngobogwe angwe ju ile imale buga le jo gbe,1.0,0.4884
+141,"Kina pu na, Jehoyachinn nan kan nsan ki kpeln waayondiik ni aawanpeenkaan, ki gur ji ubɔr chee tijikaar le ki ti kpo.","Kedu afa na? Jehova Chineke na-enye anyị nsogbu, waya ndị a na-awụpụta nka ka gịrịgịrị ụbọchi tụjịka laketụ",0.9545,0.5914
+142,le aa tii mi laafee; aa nyan mi likaakul ni; m nan bi nsan ni ki cha kitekpiitiŋ ni taab.,Anya melu ka akwụkwọ nna m bịa sị na ka m chakate kụọ ite n'ụta.,0.95,0.6119
+143,"Bijab bi Uwumbɔr tii bi mpɔɔn ke bi yii bipiib na, bima le ga ŋmaa yii bi.","Bịa jụba ya, ụtin da ụwa gbatị, si ya ịfụọ ka bịa yịbe pịbe. Bị mma lịfụọ ka yịbe.",1.1176,0.8214
+144,"Ni di ligagaar gbaa salmaa ki ŋa tiwan ni kpa ifeen na nilee, ki di ni siin toŋ tɔb.",Nnele gị agá gbasara m. Kịngá tụọ na kpá ife a na-elị. Kedu na sị ntọ ntọ?,1.0,0.5781
+145,"Min Uwumbɔr naan unibɔn, ki di naŋ mbaa la, nima pu na, unii yaa ku uken kan, biken mu ga ku u.",mụ bụ nna unu bụrụkwa ndị nna mbala na mapụ na unu ya akụkọ nke ka bụ nke mụ ga akụ,0.9545,0.5507
+146,"Unii ubaa yaa ŋa nkpan ngbaan aaboln, bee u yaa di mu ki di meen unii u kaa ye utotoor na kan, waan ki li ye maanii.",Unu obaghi anya nkpa ngba abuo. Biko unu ka anyi ututu na-eke. Wa nkili ya ma ani.,1.0,0.5172
+147,ke nimi bininkpiib na di nimi aalan ki yakr tii tɔb.,Kɛnɛ mɛ bɛnɛn kɛ n'a dɛnɛ mɛ ala kɛ yɔti tɔɔ.,1.0,0.4878
+148,"Josef aah sub ute ki doo na, le u ni waamaal ni binib bimɔk nan dii u buen na nan gir kun Ijipt aatiŋ ni.",Joseph a sụpụta Kedona le unu wa ma na-ebunebu mọna ndị obodo ya girkwun Egypt atụngne.,0.96,0.5063
+149,Le Moses ni Israel yaab aayidam dii buen Datann ni Abiram chee.,Na Moses ni Israel ya ayi dam di bu ndata na abiramche. Na obu ibe nobe nse na,1.25,0.5098
+150,"U nan ki ŋa ŋiwaatiir mu ikui itaa, ki di salmaa u aanyunyuun ga pii ndibim kuruwaa bilee na boon libaabaa.",O na-enye mụ na ụmụ nwanyị mụ ikike ịta kedi ka anyị ga-esi na-enye ndị be mụ kwuru na ha bi na mba,1.0476,0.7059
+151,"Aa joo timi tiŋann, ki cha timi aatiŋ kee mɔ.",I got him the night.,1.0,0.7647
+152,"Uwumbɔr nan bui Nowa ke, “M ga kuln unibɔn.","Unu nwanne m nwoke, m ga-agwa unu gbasara",0.8889,0.6875
+153,"Piiŋmu piiŋmu le nan bi kitakpaluŋ ni, le u tii bi tijikaar ni nnyun.","Piuma piuma, ya na-ambi kitaa palong ni, la uti bi ti ji kaani",0.8571,0.4074
+154,M kpa limakl ke binib bi kpo na ga fikr nkun ni.,nkọta ụmụaka banyere ụmụ nwanyị,1.0,0.7778
+155,"ni waaninkpiib, ni waanib bi bi kitiŋ ngbaan pu na.",wa ni pii ni wa ni bebi kiti ngba,0.9,0.4
+156,"Simri aah nan ki tun ŋitun ŋi mɔmɔk na, ni waah nan lok ubɔr ibuu pu pu na mɔmɔk bi Israel Aabɔrb Aatun Aagbaŋ ni.","Chineke anaghị etinye etinye n'ime mmụọ na nwa anaghị alụ ụgbọ ibu pụọ apụ na mmụọ bụ izu ara, agbaghị atụny agba",0.92,0.6477
+157,"Le u gaa timi, ki chann timi tichann ki ŋa timi tibulchinn iwiin itaa.",,,
+158,Ba ŋa aa galni Uwumbɔr ke waa kee gar unii aabɔr?,Banga agane umbarke wa ke gar uni agwa,0.8182,0.3684
+159,"Biwɔwɔm bibaa nan bi Israel yaab chee, ki dii bi cha.",Nwuwa mbe ba na mbe Israel ya che kedi be,1.0,0.4146
+160,"Ahab nan di nsuubiin le gir kun, le waaŋuul fii Nabof aah tuk u pu na pu.",apna din subh lagbhag koi lawa anurfi na bo atuk upna,1.0,0.4727
+161,"Yakr bi Israel yaab biken chee, nima kan, bi ga li tun kitork aatuln tii mi.","Yobe, Izra ya bakace. Ni maka, buga littun kuttu a",1.0,0.5172
+162,M ga ŋar Jerusalem aatiŋ aanib ŋŋaan chain ke baah ŋir lisambil chain chain ki labr li chiŋni pu na.,"Nga nja wuri sana acting anef. Nga ncha nke eba ngiri lisambili chenchen, kilobli chingine",1.0,0.45
+163,Uwumbɔr ga gaa waanib lii; binib bi chaa u chee ke u li kii bi na ga ŋmar.,"Umbar gagawa nauli, bena bencha uche ko ulakki bena gangmar.",1.0,0.3636
+164,"” Nima pu na, Israel aanib ngbaan nan ŋa tiwan ni mɔmɔk Uwumbɔr nan bui Moses ke bi ŋa na.","Nnem na nna unu na, Izraelu mgbe ana ngatua unu maobu mgbe unu na-agba Imoisiz kee bu nna na?",0.9474,0.6324
+165,"Tɔ, siir ki li cha, ki ti loln binib ngbaan pu nsan, ki buen nin chee m bui si na.",To circle cha,0.95,0.8475
+166,"Ni di salmaa ŋmeen donn biin u ponn ni, ni lipaal mɔmɔk, aan ki di salmaa aakur ŋa ikuul mann gonn u paacham aamɔgben.","Nde salama ngwen don bi opone, nele pal mumu. Anke de salama akul nga ikul ma gwe upacham amogbe.",1.0,0.413
+167,le ki joo baatɔi ni ipiin ki san dii si.,Loko jo baa toy ne ipi kesandis,1.0,0.3667
+168,"Le Nunn aajapɔɔn u bi yin u ke Josua na, waah nan laa ye unachipɔɔn na, uma le nan bi Moses chee ki ter u, le u bui Moses ke, “Uninkpel, cha bi ŋmin.","N'ọnụnọ ajụpụọ m gbasara Joshua na nwanyị na-alụ ya bụ nwaanyị a, mmalite na mmepe nke ketara na ọbụ Moses kee unu kweru chabe nwa",0.9412,0.6147
+169,"M ga li bi maanib Israel yaab chee, ki li ye Baawumbɔr, le bi ga bee ke min le ye Bidindaan Uwumbɔr u nyan ni bi Ijipt aatiŋ ni na, nima kan, m ga ŋmaa li bi bi chee.",Egypt,1.0,0.9593
+170,"Benjaminn ŋichur piitaa ni ŋiŋmu, ni ikui inaa.","Benjamin, mị chọrọ ịpụta na ngwụcha izu ụka a.",1.125,0.5526
+171,Ela aah nan ki tun ŋitun ŋi mɔmɔk na bi Israel Aabɔrb Aatun Aagbaŋ ni la.,Israel,0.9375,0.8947
+172,"Timi Juu yaab aanibol kipiik ni ŋilee dooni Uwumbɔr nwiin pu ni kinyeek, ki mu kpa limakl ke bi ga kan tipuur ngbaan.",tumu ju ya anufobol pik ni ile fu utunda u mbot kunyok nu we kaman jua mal ke telekay te puru,0.913,0.5914
+173,Taah nyan Malta aadikl pu ki buen Rom aatiŋ ni pu na.,Tanya ne mata. Kuje in Rome atun gama.,1.0,0.5366
+174,Una le nan ye Jerusalem aatiŋ aanii Elnatann aabisal Nehusta.,"Ona na na ya Jerusalem atun ani, Elnathan, Abishai, Nehushtan",0.9,0.3333
+175,Le baa ŋmaa mɔk ke baah len pu na gbii.,balfuon ke balmane,0.9,0.7241
+176,"Hobab nan giin bui ke, “Aayii, m gir cha ndo aatiŋ ni la.","Ọbụ abụ na-enye mbuike anyị, ngiricha ndụ atụ na",1.0,0.4878
+177,Chuu takl saanaatak ngbaan; saah si nin chee na ye kitiŋ ki bi chain na la.,Chị Tố Sa nói rằng bà sẽ xin đi nhà trẻ tận bên Trung Quốc,1.0,0.7241
+178,"Mmii ngbaan aah jer na, le ineel nan lɔe ki len tibɔr.",Ndi ngwa ajee na le inu ya na nwayi kileng,0.8333,0.5122
+179,"U nan tii u salmaa u aanyunyuun ga jer njikaabim bɔtɔ tiib nkub na, ni tulalee ni ŋitakpanyaan ŋi wiir sakpen na.","O nanti o salama o anyunyunga jere, njika bu mgba torti m kwubna, netulaale ne ntatakwanya na owiri sakwe na",0.9545,0.3667
+180,"Le Ahija ki tuk Jeroboam aapuu ke, “Tɔ, li chaa kun.",le ahirya kitu jerobom apuke to leciaku,0.9091,0.2895
+181,"Ujapɔɔn Aser mu aajapɔtiib le nan ye Imna, ni Isfa, ni Isfi, ni Beria, ni bininkpan Sera.",mu jop a se mu jop a tivle na ye imna ni isfa ni isfi ni beria ni binu kpen sera,0.5882,0.2353
+182,"U nan ye butɔb aajakpaan la, le ki mu tee kpa tiwon aaween i bir na.",Unah ya buta aja kwa ana. Lekwe m otu ekwe a tuwe awu ibru,1.0,0.4314
+183,Nowa ni ujapɔtiib aabɔr.,Noah ke wa pu ma njali ya etu puru ngba a moru kebe nne di ya awa n'ime ofu na aka asisa uni. Noah ne uja potib abor,7.0,3.65
+184,Le binib ngbaan mɔmɔk mu puu ke bi ga li joo tipuur ngbaan.,"Na mgbe nnọọ mgbe ọzọ, mụ pụrụ ka ekpe gara ije, tupu mụ",1.0,0.8261
+185,"Sin Dann, aa ga ki li bi ke uwaa u dɔ lisikakpel na la.","Sundan, aga kalabka uwa u dhalis ka kpal na",0.9286,0.35
+186,Aa ga sil Ubɔrkpaan Siisa aanimbiin ni.,Onye isi obodo anyị bụ Sir Anayo Ntọghị. Ụtụtụ dị,1.4286,1.0312
+187,"” Le Israel yaab aabɔr nan ŋa njim kpaan ki tii bi; baah jin ki nyun doo na, le u giin bi ti tii Siria aatiŋ aabɔr.","Le Israel abụọ na nga, m ji mkpa nke chibị. Bịa ji nke nyụndụ na. Na oge m bịatịtị Syria, atị m agba",0.8846,0.4471
+188,"Uwumbɔr nan ki bui Moses ke, “Ŋmee tibɔr ngbaan bil; ba pu?","Mbo mwana ke bui moses ke, nwet mbo ngba mbel, bapo",0.75,0.4091
+189,U nan ki maa maa nin chee upuutiib bi nan ye nwɔwɔmbim na ga li seer tulalee aayon ki toor kitork tii bido aawaa na.,na nki mama nce upiti bi na ye nwa nwa m bi na ngalisia tu lale ayen kito kito ti bido awanu,0.92,0.3407
+190,"Le ubɔrkpaan ngbaan gee liŋuul sakpen, le ki tun waajab le bi ti ku binikurb ngbaan, le ki see baatiŋ mmii.",le u bon n'pël mom ja ngu takkëm le u tuñ u so jam le bëta ku bënu foku mom le kësó bëtin,1.0,0.6071
+191,Nima chee le ti ga ti bee unii u ye Uwumbɔr aah lee u na.,Nma jelu ka gi bia uni unu ye umbor ali unu,0.9333,0.5
+192,M ŋun maadim looni ki len; tibɔbir le mann goln mi.,"Ngomad'emlonyeni,",1.0,0.7436
+193,"M nan ŋa binib bi dii Yesu aasan na falaa, ki ban m ku bi.","Nganji, binnu fok binnu noo isa a samu ni wahala.",1.0,0.7381
+194,"Taa cha bi bu lijikaabil, ki taa chee lijikaabol, kitiŋ ngbaan ni.","Ta cha bu buli ji ka abuo, kitaa che na ji ka abuo, kitaa ngwa",1.1667,0.3077
+195,"Le Naamann nan nyan kal nsan pu, ki joo tikunabr aamombil ŋichur piitaa, ni salmaa aamombil ŋichur ŋiloob, ni tiwanpeenkaan mu ŋiker kipiik.",Lɛnɔ ma na nyɛ ka nsampu. Kujɔtuku nɔ amonbɛlɛ ngi curu Pita. Nɛsɛlɛ ma amonbɛlɛ ngi curu ngi Lɔ. Nɛtuwanpiɛn ka mu ngikɛrɛkpi.,1.0,0.5
+196,"U nan ti doon waawandookaan pu, le ki di unimbil kpaa lidigbimal, kaan ji tijiir.","Unu anata do, uwa wundo kampu. Lekenu unu mbilikwa na digwe mma. Ka anyi jite ji",1.0667,0.4375
+197,"Kal kitiŋ kee pu man, ni yaa tun tii Babiloŋ aatiŋ aabɔr kan, ni ga li ŋan tii nimi.",Kala ka tunke epumanyi. Niya tunki Babylon atin abor kai. Ni galin anti ni,0.9474,0.3175
+198,"Sin Benjaminn, aa ga li naahn takɔ u ku tinann.","Simbè njamèn, à galè nà tàkò ò kútì nà",1.0,0.5278
+199,"Uwumbɔr aatuun ngbaan nan ki gir nan finn u lelee ki len ke, “Fii kal ki ji, naa ye kina kan, lisachuln ngbaan ga tii si tibakr pam.",M'bar atungba na kigiri na mfin o lele klenke fi kal kedi na ye ke na ke le sa chungba nga ti si te bar pa,1.0,0.31
+200,"Bi yaa ba tee di kinaak sakpeŋ ki di tul leen uneen ni, ki tur u lii nnyusakpem ni, nin chee nyoo na kan, ni ba soor ki tii u, ni u tɔŋ ubo ubaa.",,,
+201,Le ŋibin mɔmɔk aa ji suklaa bi pu ki sak bi.,Langa be mamo aji sugla bepu,1.0,0.6061
+202,"“Ni ŋa lisiijal aadɔja kipiik ni iŋmu, ni di iŋmu ŋa ŋŋangii ni ŋŋangan wɔb, ki di iŋmu mu ŋa liwilir, lipuwɔb.",Nga li ci jal ado ja ke pi ne inwu. Ndi inwu nga nga gi nga nga wa. Kedi inwu mu nga lewulur le puwa.,1.0909,0.4471
+203,"Nebukadnesar nan di Jehoyachinn aatewaa Matania le kaan Juda aabɔr, le ki kpeln u liyimbil ke Sedekia.","Na be ka Nehemiah di, Jehoiakim atowa, Mattenai alekka, Judah agbar, Lekikwen, Urijah milkai, Zedeiah",1.0,0.4286
+204,"Uwumbɔr aah ŋun kitork ngbaan aanun na, le ni piir usui, le u bui ubaa ke, “Maan ki puun lii kitiŋ pu kina daalbaadaal, ki joo cha unibɔn aah ŋa pu na.",ụmụ nwanyị na ụmụ nwoke tụrụ ugo a nụ nna lelee pụrụ osisi lelee ụbụrụ ụbọchị ma nke pụrụ li ka tụrụ pụkị na dalụ adalụ ka jụọ cha ụna bụrụ aṅa pụna,1.0312,0.6491
+205,"Bi yaa nan ber Uwumbɔr Aabool ngbaan kan, Gesonn ni Merari aataŋaal ni yaab le ga tun tiwan ngbaan mɔmɔk le ki chuun.","Bịa nambụ ụbọchị abụọ nke ya. Gị sị onye mmalite atanọọ n'afọ 21 gba mọmọ, lekee",1.0,0.7097
+206,U ga wii ki ŋmɔ ŋinyin nima chee.,ụlọụrụ kịma ịnyị n'ịya,1.0,0.76
+207,Ŋikekengen ŋi gur jɔn Libool ngbaan aasikakl na ga li bii li pu la.,"Ngụkọkọ ngị, ngị gụrụ akwụkwọ na Mahadum Afe Babalola?",0.9286,0.717
+208,"Ni ŋa iŋminsarkee piiŋmu lipepel libaa, ki ŋa piiŋmu mu lipepel liken.",Nna imansar ke pimmu lupepeleba. Kanga pimmu mo lupepele nken,1.0,0.3509
+209,"Kookoo aanib le nan ye Dann aanibol, ni ŋinibol ŋi kpee li pu ki bi baatuutaa taab na, nan yakr ŋigetek ŋigetek ki paan, ki paa puwɔb, le Amisadai aajapɔɔn Ahieser le nan ye usaloln bi pu.","Cocoa na nna anyi Dan Anabelle. Na nna Anabelle kpeelu pu. Ka Chineke gọzie gị. Na nyo gị gọzie gị kpa. Kpa puo. Le Amisa Die, aja puo, ahia sa le nna anyi",0.9189,0.585
+210,Amonn aaninkpiib nan nyan upuwɔb le ki kpokl ki ku u libɔrdichal ponn ni.,"Amon Anentwi, Nyan Epo Wabre Kweku Paul Kweku U, Lebodi",0.8571,0.5763
+211,"Yin bikpaluub bi m tii bi nlan na, ki tuk bi ke bi ŋal tiwanpeenkaan tii Aaronn, nima kan, aa ga di u ŋa utotoor ki tii mi, ke u tun maatuln mɔmɔk.",Yem bukwalu be nti be nla na ketu bu ka bu ngalite wa mpi nke anti-eron na maka ya agadu wu nga ututu ke timi ke otu ma atulu momo,0.9394,0.4182
+212,"Sebulunn ŋichur piiŋmu ni ŋilole, ni ikui inaa.","सब बोलन, मैं चोरपी मने लोले, निहकोय ना।",1.0,1.0
+213,Aa ga ŋmaa baa u ke tiwan ni saanaagbiipiibim ga li gbiir na aa?,"Aka m abuo k'etu a n'isi na agwụ bụrụm, gari gwụrụ m",1.0,0.56
+214,"Li dii waakaal, ni waamɔkm mɔmɔk, baah ŋmee i pu Moses Aakaal ponn ni na, aan ki kan tinyoor saatuln mɔmɔk ni, ni nin chee mɔk aa buen na.","Ndi waka, nuwa mọọ mọọ. Bịa nwe ịpu Moses aka apụlị na. A nkịka anyị tinye ụsa tinye mọọ mọọ nị. Lelee nchie mọọ abụọ ịna.",0.931,0.5524
+215,Uchal ngbaan le nan ye Uwumbɔr Aadichal ni aawanpeenkaan aaninkpel.,"Otu mgbe a na-enye ya, ụmụaka arịchaa ni, awa mpi nke a anọkwa",1.2,0.5439
+216,"Aaronn nan giin bui u ke, “Uninkpel, taa gee liŋuul m pu; aa nyi binib ngbaan aanimbil aah man ke bi tun ni kaa ŋan na pu na.",Ero na gi m bu nwoke. Unu kpoo taa geelu mpu. Anyi bu na ngba ana mbu a manke betu nka ana pu na.,0.9286,0.3763
+217,"Libuln ngbaan nan ŋmin kaa ki daar, le kitiŋ dam ki puu, tɔ, Uwumbɔr aa nan bi kitiŋ aah puu pu na ni.",,,
+218,Ni taa kpaan binib ngbaan chee ki ŋa kimɔbaan; ba pu?,na taa kpaa bi na ngba nce ka nga kuma ba,0.9091,0.4146
+219,Aa ga ŋmaa baa binib ke ti gbii aan taa gbii.,,,
+220,"Aa yaa ki ma mbim kpee bi pu kan, maan ŋmaa yin bi maabim, le lifaal li bi ga kan na ga nyan ni Efraim ni Manase chee la.",Aya kam m'mbong pe be puke. Ma nwa ye mbe ma bem. Lele fa le bega kain naga nyai ne Ephraim ne Manasseh cila.,0.9655,0.3889
+221,"U nan bui ke, “Baa bitotoorb ki bee mbaan mue aabɔr.","Nnamdi Kanu, biko tupu kibie mba mwe, abuo",1.0,0.5128
+222,"Waah nan di tibɔr ti ŋeer bi mɔmɔk, ki di chɔi bi na, le na.",Onye na-etinye botin nye bụ mmụọ? Kedu chọọchị bụ Nnewi,1.0,0.7209
+223,"Waah ŋa kina na, le ni gbiin Uwumbɔr aabɔnabr aah nan len pu na, ke bi ga yin Yesu ke Nasaref aatiŋ aanii la.","O na-anga m anụ, m na-ege ha ntị. Ụtụtụ ụbọchị ọ bụla m na-ele m, ka m na-ele m anụ. Kpọọ ihe ịsa onwe gị na nga, na zịretị atụ anụ ụfụlụ.",1.3333,0.8313
+224,Le Festus ban ke u piir Juu yaab aasui.,le festus banke,0.7778,0.5667
+225,Uwumbɔr ga kaan ubɔr Israel aatiŋ mɔmɔk pu le u ga kuln Jeroboam aanaanjirb.,"Umuaka ka ụbọchị Izrel atọ. Mọmọpụlị na ụga kwuru Jeroboam, ana m jiri",1.0,0.5161
+226,"Kina pu na, m ban ke ni pel m chee la; cha m bui nimi maah dak pu na.","Kedu afa unu? Mba nke m nụrụ, m chọrọ ịla. Cha mbu unu mee ma ọdị afa unu.",0.8947,0.5208
+227,"Tɔ, Josua nan ŋun binib ngbaan kpa kifuuk, le u bui Moses ke, “M ŋun butɔb aafuuk linampal.","Tọọ, di swa na ngwụmbụ n'ụgbá kpọkọfụlụ ụgbọ mmiri Osisike ngwụmbụ tọbụ afụlụ na",1.0,0.6812
+228,"Le u baa Aaronn ke, “Binib ngbaan ŋa si kinye, aan aa cha bi tun titunwanbir sakpen timina aaboln?","Na uba Aaron ke, binu ngba nazi kinyi, a acha bu tunutuwa mbu sakwa ntimi na abun",0.9474,0.3289
+229,"U pa binib baah tun pu na pu, le ki ŋani bi tiwan ni ŋeer bi na.",bà tôm khô,1.0,0.9348
+230,"Le binib ngbaan ga li bi ke idɔ na, mmii ngbaan ga wu bi.",Ndi ngwa ga-ewu,1.0,0.7857
+231,Jakob aabim ni uyaabitiib bilole bee le u nan ma unaagbiipii Bilha chee.,Jacob abum na uya beti buli bili una ma una agwipi bill ha chi.,1.0769,0.3729
+232,"Ni di teebul ngbaan siin Uwumbɔr Aakaal Aadakaa ngbaan chee, ki li joo boroboro u ni joo tii mi na paani u pu.","Ndi nne na nna anyi, unu nwekwara akara adaka ngwa nchi. Kedu ka unu ji wee nọrọ n'oge a?",1.0,0.593
+233,Ni di ŋma aayimbil ki tii u laafee?,Nitta ma ayil kuttava.,1.0,0.5926
+234,"Babiloŋ, aa nan jan mi kijaak, le maah nan di gaawɔb u pen si aan saa nyi u bɔr na chuu si.","Babylon ana m ji amụta ihe a. Lelee m anya na ndị ga-awa ụbụrụ m, sị na ọ bụghị m chọrọ",1.0,0.6269
+235,"Bi nan di tikumann naan tiwan nibaa tɔŋ jaatɔlk mɔk paab, le naafɔfɔk nan ye ŋitaa ŋilole ni ligeln, ki naan ŋisubinyaan mann goln ni.","Bịa nu, etu kụmanụ, etu a unu batara, unu atụla mụ ọpa. Leenụ afọ fọrọ anyị, ngịta a nwụrụlụ n'ilụ gị. Kịna aṅụsịbụ ịnyịamara, ngọ",1.0,0.5888
+236,"Uwumbɔr nan ki bui Moses ke, “Dan m chee lijool ngbaan paab.",O bu mbu na-akpo m Moses ke? Dalu nke ukwu ngwa mpa.,0.9167,0.5435
+237,Sin le ye maabɔbɔryaan; aa ga nyan mi tibɔr ni.,"Soro ya mbobo ya, aga nya m etu bọrọ nu.",1.0,0.5278
+238,"Baah tun pu na mɔmɔk, bi ban ke binib kan aan ki pak bi.","Bà thím mà năm bia bự bự, ke bia năm phô bia năm cay. Wo, ke",1.0714,0.7561
+239,"Tɔ, Pɔɔl nan gbɔk uŋaal, le uwaa na lir mmii ni.",le père de Yann le vin de,0.9091,0.8286
+240,"Bi nan bee ke Uwumbɔr le tun waabɔnabr Hagai, nima pu na le bi san ijawaan le ki kii waamɔb.",Bịnam bịa ke ụmụa letụ anya wa gba na ha gaa. Le ma fụ na le bịsa ije wa le kiki wa,1.0,0.4648
+241,"Nima chee ga li kpa unii mɔk ijawaan; ubaa aan li koo nima, le ijawaan ga chuu unii umɔk kan kina na.","Ndi mma, chee echiche kpaa unu mma. Ije wa uba aluko unu ma. Na ije wa ngechu unu umuaka nke na na. Babylon ya amuma oge kunu ke ichi nni ya abim",1.4091,0.8831
+242,"Nima chee le Uwumbɔr aatuun nan dan u chee, busub bu bi ke bu aah gaal mmii le na ni.",,,
+243,U nan bi Jerusalem ni ki joo waanib ki ti saa ŋibin ŋitaa.,"O n'ambi ijoro sala n'ikyo wanebwe, kiti sa n'ebe n'eta",1.0,0.4667
+244,Jakob aah nan di waakookoo aabɔr ti chɔi waabim na.,Jacob Anandh waku ku Albert Street wabim na,0.9,0.439
+245,Jakob aabim ni uyaabitiib kipiik ni biloob bi u nan ma unaagbiipii Silpa chee na le bi na.,"Jaco, abumne uya beti kpi na belo, be una ma una gwi kpi silpachina le be",0.8889,0.375
+246,"Kina pu na, maan li ŋmin, m ga gaa ilahn ki pak si.","Canapina, malungme, nga gay lang ka",1.0,0.5278
+247,"Le u gar bi ke, “Gir ni man iwiin itaa aapuwɔb aan m nan tii nimi ngarm.","N'oge okpomọkụ, gịnị ma i wee ịta apụl a na-etinye n'ime? M ga-",0.9412,0.6604
+248,"Jakob aapuu Rachel nan ma mbijabim bilee la, Josef ni Benjaminn.","Joseph à pour régent, nommé Benjamin.",1.0,0.6731
+249,Binib pam ga dii baasanwanbir ngbaan.,በድምፍም ለንዋ በሳምብድም,1.0,1.0
+250,"Uwumbɔr aatuun aah gbaa bi lir pu na, cha baasan li bɔɔn ki ŋar.",O nwere atụmatụ agba abụọ dị ịrịba ama. Jaba siri buo nke ngatọ.,1.0,0.7143
+251,"Nima pu na, Josef nan san ijawaan, kaa ban u buen nima.","M'abu Joseph, Joseph Nsam Bujawo m. Ka m bịa, onye ije niile.",1.0,0.6829
+252,"Sainai Aateersakpiin ni, le Moses nan kahn binib ngbaan.",Sainai atesa kwini lo Moses na nka mbinu ngwa,0.7778,0.3043
+253,"Jeroboam, m ga ŋa si Israel yaab aabɔr, le aa ga li joo lipepel limɔk aa gee na.","Jere bu am, nga nga si Israel abuo le aga rijo le fefele mu aga na",0.8333,0.4167
+254,"Baah nan too pu na sɔ: Baayidaan nan tii salmaa kuruwaa biniin la, ni kitork aasambil piiŋmu, ni bitotoorb aawanpeenkaan mu ikui iŋmu ni piitaa.",Baanan toopuna nsɔ Baayi daamna ti Salima Kuruba Biniila ni kotoor asamble pimu ni betotoor awanpiyankaamu ikoy imu ni pita,0.88,0.2586
+255,"Baah ŋman bab na, le bi di tijikaar ti gur na di mee nnyun ni.","Bia nwanyi, kedu ihe i na-ekwu? Le, wetuo obi gi ala, kedu ihe m mere?",1.0,0.913
+256,Waaneel cha nteersakpiin aatiŋ jii la; u damni Kades aateersakpiin aatiŋ mu.,Wanel chanti sakpim ateng jila. Udamne kades atis sakpim ateng,0.9167,0.381
+257,"Le u gar u ke, “Uwumbɔr yaa kaan ter si kan, m kpa ba aaterm ki ga tii si?","Ogaranya oké, umuwarị aka ntịrị sị ka m kpaba atụrụ ka ga",0.8947,0.5577
+258,"Nimi le dak tibɔbir m pu, le Uwumbɔr cha ni kpaln ni ŋan na, ki toor nsan u gaa binib pam aamɔfal lii, tiwan ni ŋa mi na pu.","Nne mela doctor bu abali mbu, lee ubochi nke mbu n'onwa na. Kedu oru m si oga bu na pam amaghi ife di. Tuo na ngam na",0.931,0.6304
+259,U ni waajab nan gaar Edom ni ki ti saa iŋmal iloob.,"Wanu wa jem na gar e domne, ke te sa inmal ilo.",1.0,0.3846
+260,"Bi nan di Sedekia buen Ubɔr Nebukadnesar u nan bi Ribla aatiŋ ki bi Hamaf aapepel ni na chee, nima chee le Nebukadnesar nan ti jin u tibɔr ki siin baah ga ŋa u pu na.","Bịa n'ụbọchị ụka a bụ ụbọchị nke abụọ n'ọnwa Febụwarị, 2020, a na m ekele unu maka nkwado unu na-enye m. N'ụbọchị ụka a, a na m ekele unu maka nkwado unu na-enye m.",1.0,0.8062
+261,"Bijɔrb na nan joo baakaryaa mam, kaa joo nkpan.",Tụjụara dị na njọ bụkwa nịam ka ajọ,1.0,0.6216
+262,"Tiyaajatiib aah yii Uwumbɔr aamɔboln, kaa ŋa kigbaŋ kimina aah bui ke bi ŋa tiwan ni na pu, le u gee ti pu liŋuul.","Tupu a jụọ ajụjụ, a ga-ebu ụzọ amaba ya. Ka m na-akigba nkịtị na, a bụghị ka e bu na ya tụwa nụ n'ọnụ. Leenụ uge tupu unu ṅụọ.",1.1667,0.6705
+263,"Nima pu le m cha butɔb aajab kii u, ke ni saa bundaln m ga cha bi di u buen Ubɔrkpaan chee na.",Mambule nche sojam gu. Kana npa lidam. We nche bentawo kujo ubonu kpalum.,1.0,0.7143
+264,"-Fen aachakpiik ni kan, aa ni binib bi kpee aa pu na fe ban mmii aasambil, ki di mmiisakɔl ni tulalee aayon ŋa ŋi ponn ni, aan ki di buen kitork aabimbiln chee.","Fada cha kwinike, anabi na kwiya a puna fuba miya sambal kedi misakwal na tulale ayol nganga puni. An kedi buwe kedi tuwak aben binchi.",0.9697,0.439
+265,"Uwumbɔr aaŋuul nan fii Jerusalem ni Juda aanib pu sakpen, le u jenn nyan bi unimbiin ni.",Mbon anguna fi jorusalem ni Juda anne pu sakpe. Lewu jeni nyambi unu mbini.,0.8235,0.3143
+266,"Le Elaisa bui u ke, “Chuu deer mu,” le uja ngbaan boon ki deer mu.","Lela sabiu kai, shudiyar mu, oji ngwa ngwa unu, kidiyar mu",0.8667,0.5106
+267,Ŋaanii ki taa yii.,Nani ka tuk ubar Solomon ke odi Abisak. Wasa fa unyani Sunem atin nena ci mi. Andi unga mpu nyike aya lenkai. Wan yi,6.0,5.5
+268,"Le Dewel aajapɔɔn Eliasaf nan ye Gad aanibol yaab aayidaan, ki loln bi pu nsan.",Let the will of God and the will of man be done.,1.0,0.7937
+269,"Nyan u uŋeen aatɔtiib chee ki di u buen kidiik kibaa ni, ki di olif aakpan mue kpir uyil pu, ki len ke, ‘Uwumbɔr le len ke u kaan si Israel yaab aabɔr.",ya bu unge aturu tiche kedi ugbe kedi ikba ani kedi olive akpa ya ma ekwiri uyirpu kele nke yi ugbua lele nke uka si Israel abuo,0.9394,0.3772
+270,"Israel yaab aah nan nyan ni Ijipt aatiŋ ni aan ni saa ŋibin ŋilee, lelee aaŋmal aawiin moninko daal na, le ntaalangbam mu nan sunni ki nan biin Uwumbɔr Aabool pu na fii paacham.",Israel ana nyani Egypt a teng ni. A ni sangi bun le lele a nmal a wi monu ko da na. Le ntalang gbo mu na sun ni ka na bi umbora bul pu na fi pacha,0.8824,0.3617
+271,"M ga siir cha binib bi ŋmar na, le ki ga di bi tii baadim, le bi ga nyaŋ bi ki faar baatiŋ aawan mɔmɔk.","Nga si chabinè, b'gma na. Leke ga debeti ba dum. L'bga nyombi. Ke farba tin awa momo.",0.92,0.3553
+272,"Le Naamann bui u ke, “Saan gaa maapiin kan, tee cha m faa do aatan tun maawakor tilee ki di kun, ki nyan din ki joo cha, maan ki toor kitork, kaan ki see kitork mmii ni tii liwaal libaa see Uwumbɔr baanja.","Léna ma mbuwuké, sanga ma pinka, técha mfa do atè ntuy ma wokotilé kidikwi. Kinyadi nkuja, ma nkotu orkotu, kanse kotu mmini, tili waliba sé umbarba",0.9767,0.3782
+273,"N‑yoonn mu Israel yaab nan nyan Uwumbɔr Aajool Sainai chee na, bi nan chuun iwiin itaa la.",Ihe mụ na Israel na China bụ na Chineke na-echeta,0.9412,0.6901
+274,"Teer man U bi Chain na aah ŋa pu na, ki doon u man.","Chere mụ wee bịa China, a na-apụ na, kedụ onye bụ m?",0.9286,0.6111
+275,Teer ke sin le lee linibol ngbaan ke bi li ye saanib.,"Tchirka sinlele lenubol ngba, ka beli ye sa ne",1.0,0.3415
+276,"Le Jakob bui Josef ke, “Uwumbɔr Mpɔɔnsakpiindaan nan dan m chee Lus aatiŋ ki bi Kanaann aatiŋ ni na, le ki nan ŋa tinyoor ŋa m pu.",Joseph K.,1.0,0.93
+277,"Bi nan kan tiwan ni ŋa na, le biyidam ngbaan mɔmɔk nyan baadabil.",Benka tuwa na labi idan gba momo nya ba da,1.0,0.451
+278,"Naah woln aan m bui u ke ti ga ŋmɔ ujapɔɔn na, le u di u bɔr.","Na nwanne m nwanyi Uke, tigo mụ ụja pụa na le udi ụbọchị",0.8235,0.5116
+279,"-Bijab bi nan ye ŋibin moninko, ni bi jer kina, ki ŋeer bi to butɔb na, bi nan ŋmee baayimbil baataŋaal ni, ni baamaal ponn ni.","Bijab na yanga bu manko, na bijir kena, kingir bu tobu tob na, binang may bayim bilbata ngal ne, na ba mal pon",0.9231,0.3542
+280,"Simeonn ni Liifai, ni ye naabitiib la.",Simeon ne le fait. Ne lui en a pas tenu,1.4286,0.5667
+281,"Le binib joo ni mbim ki di dan Yesu chee ke u nan di uŋaal paan bi pu, ki mee Uwumbɔr tii bi.",le bnumfop juwene mbum kiday isabayi ke wunanta unno ke pa mbubu ke mia utunda uwo mbor kisseb,0.913,0.6957
+282,"Aa kpa nlan, ki ter timi aanib sakpen.",Ajuwa n'ala. Kedu ka ịghọtara anụhịa bụrụ na,1.0,0.8276
+283,"Uwumbɔr, aa nyi maah ban ni na; aa ŋun maadun mɔmɔk pu.","Anwụ mụ ba n'ala, anwụ mụ adụmọ mụ",1.0,0.6829
+284,Nimi le yeh tipuur ngbaan.,lẹ yè tò pọ̀lọ́mọ́. Ó tún dá,1.4,0.8571
+285,"Bidim gaa mmɔɔsan a, ki seer tidir ti fɔk ki pɔɔ na mmii lii.",bụdụnga mmasị na ka si etinye tọọkị pọọna,1.0,0.587
+286,"Teer ke maatuun ga loln ni pu nsan; tɔ, n‑yoonn choo le m ga daa binib ngbaan aatafal, baatunwanbir pu.",Terkam atungga leun pun sai. To. Nyoncho le nga dabun ngba atafar batu wan buru,0.95,0.3418
+287,"’ Njɔtiib, nima pu na, chuu nibaa man.",Mambo.,1.0,0.8889
+288,N‑yoonn mue na bi nan yakr biwɔwɔm bi ŋmal bi ponn ni na chee.,"Ihe ọ bụla mere na-bụ naanị ya, bụ wa wa, bụ ma, bụ pọlị na.",1.0714,0.6809
+289,"Iwiin ilole ngbaan aah jer na, le ti chuun kitiŋ ki buen Rom aatiŋ ni.","ya wee, i lalle ka na na njikwa na le tichwan tum ka i jwe rom atun",1.0,0.5741
+290,"M mu dak ke ni ŋan ke m li teer nimi, ki fiin nimi aalandak, maah laa bi tiwon tee ni buyoonn na.",kị́ tụ́kè nụ́ ngáị kị́ ntị́àt nụ́ kị́ ngwọ́ nụ́ àtụ́ tụ́kè málà bé tụ́ gbà nán na yá ní kị́ lá jụ́,1.0,0.8611
+291,"Israel yaab bi gur na ga kal ŋigetek, ŋigetek, unii mɔk ni waanib, baatuutaa taab.","Israyabun guruna, gakalanga gatoganga gatog, unima gna wanab, batutata",1.0,0.4844
+292,"Uja u bi yin u ke Nabof na nan kpa ŋisubil aasui aasaak kibaa aan ki bi gbɔk Ubɔr Ahab aabɔrdichal, Jesreel aatiŋ ni.","Onye a bụrụ na ị yighị uke na-abụghị na nkpa, ngwa sobilụ asụ asá akụba ahụ, kebe gbaa ụgbọ ahab agbada chaa. Jesịrị atụghị",0.9583,0.6087
+293,"Ni lik ke tikpaatan nyuun aan taa nyuun, isui mu bi aan yaa bi.","N'e lụkọta kwa taa, ṅụọ taa ṅụọ. Esughi m be ya aṅụ ya.",0.9286,0.6667
+294,"Le u di uŋaal paan bi pu, le ki siir nima.",le wutha unno kpa mbu bu kfot na,0.9091,0.7
+295,Timi aadim kpaan fuu ni Dann aatiŋ ni; ti ŋun baataan aah fɔi pu na.,Tun mi adun kpaa fu ni dan atin ni. Tun mi bata afui,0.9333,0.4615
+296,bee aa di kina aagbalk too chaar uyil aa?,Bé adekna agbalu cha oyila.,1.0,0.4375
+297,"” Josef aah ŋun ukpetiib aachandann ngbaan aabɔr na, le u wii.",Joseph anụ ugbua na achọrọ na gba abụọrọ na. Lowi,1.0,0.5833
+298,"Tɔ, aate David pu na, maan ŋa kina saamɔfal yoonn, m tee ga ŋa kina aajapɔɔn aayoonn la.","Ate David puna ma nga kena Samuel fa'yun, ntege nga kena ajapu a yun",0.9444,0.4328
+299,"“Ni maa ki too pɔr kpee, aan niyaabitiib ga pɔr gbiin dulnyaa wee ni.","Nne m, kedu otu ọrụ gị? A na m ya abụtinga ọrụ gị ndụ ya bụ",1.1429,0.6604
+300,"U yaa ti nyan ni kan, le u tuk Israel aanib ngbaan Uwumbɔr aah len pu na, le bi ti kan ke unimbil wɔb moor.",Wuya ta shannu kai. Lokuttuk isra'a na gba'a umbar alompuna. Le butukkan kai unna buwa mu.,0.96,0.475
+301,"Le bi bui u, “Judea aatiŋ aanib aa ŋmee saabɔr kigbaŋ ni tii ni timi.",le bueu judia atin ananfo kasop abot abon kusetem,0.9333,0.5962
+302,"” Nima na, Josef nan saa ŋibin nkub ni kipiik, le ki kpo Ijipt aatiŋ ponn ni.",Joseph,1.0,0.9123
+303,Le Gideoni aajapɔɔn Abidann mu nan ye Benjaminn aanibol yaab aayidaan.,Gideon Ajapa Abidan. Muna ye Benjamin Anene Ayidan.,0.9091,0.3559
+304,Ni di li leen idɔja inaa i chɔɔ idɔ inaa i dɔ taab na pu.,"Ndi dili, ịdị oja ị na-echuo, ịdị ị na-ịdọ taa na",0.9333,0.5238
+305,"Ni ŋa ŋimɔchɔn ŋimɔgben ŋinaa mɔmɔk pu, ŋi ni kitork aabimbiln ngbaan li ye liwanbaal, ki di tikumann donn biin ni mɔmɔk pu.","Nga ngbako choi, ngma gbe ngi na ma mopu. Ngi na katuok abim bulu gba, le yelu wa mba. Kedu ka umu mma don be nu ma mopu?",1.2174,0.5253
+306,"” Le Elaisa gar u ke, “Aa ga kan kina bi ŋani, le aa ma aan tee ji tijikaar ngbaan tibaa.","Look and feel ka u, unu npo, binu le na ntata upu okwutin abisa moche",0.95,0.7656
+307,"-Le Isar aajapɔɔn Kora, u ye Kohaf aataŋaal ni aanii, ki nyan ni Liifai aanibol ponn ni na, nan ŋa kijɔrk aapobil ki yii Moses.",Let it be a joy for an encore. We echo her at an hour and a knee. Can you believe her and a bull pony now? Now I can draw a pool bill to you Moses.,1.4,0.7041
+308,M ban m ti saa ŋitimbol ŋibaa ŋŋangan wɔb le ki cha ŋi ti tak Babiloŋ.,"Mba, etighi m sa na etinyeghị m aka na ngawọ. Leketụa na TikTok Babylon.",0.9375,0.5741
+309,Le u buen ti dii Elaija ki ye waateter.,"Nke di ya do ipu isiri pu na ya anan. Una ndi tinon gba, tibi nu gba, lebu nwa nti, le ubu nti di Elijah, ki ya wateter.",3.0,2.1333
+310,Elihu aate le nan ye Barakel u ye Bus aayaabil ki nyan ni Ram aataŋaal pu na.,"Elelewu, Atele n'aye, Barikel wuye, bus, aya bilikinyani, ram atangan",0.8824,0.3167
+311,"Ubɔr Agripa, m mu kpa limakl ngbaan, nima le cha Juu yaab galn mi.",,,
+312,Li ye u ga li kii mi na; li ye u ga gaa mi lii na.,Liyo galakchi mana. Liyo oga gaamali na,0.9375,0.303
+313,"Binib ngbaan yaa ti kan ntaalangbam ngbaan kan, le bi ti gbaan kitiŋ.",Nde bu to gbanke te,1.0,0.8182
+314,"Ni di salmaa ŋa tiwan ngbaan nilee, ni tikululn tilee ki mur ti tam tɔb, ki di dab salmaa aawan ngbaan.",ne di salama nga tuwa ngba ne le ne tukulu ne le ke murtu tam tob ke di da salama awa ngba,0.9048,0.325
+315,Uwumbɔr nan bui Ujapɔɔn ke.,nambe ubija. Aiye mbe,1.0,0.7273
+316,"M ban ke nimi ni Juu yaab biken mɔmɔk bee ke Yesu Kristo, u ye Nasaref aatiŋ aanii na, waayimbil aapɔɔn le cha uja wee pɔɔk.",Mba ka num na ju ya bangut bien mbie ka isa wanwa onwe na ngan. Wanye Nazareth atun anufuoin ayil apuom letap ujana.,1.0,0.6771
+317,"Kina pu le ni ga lir ke biken aah lir pu na; m yaa nan daa nitafal kan, naadoon le na.",naa doon le,0.9524,0.8571
+318,"Uwumbɔr aapɔɔn nyaŋ sakpen, le taan ŋmaa duun ni u; u kpa mbimbinyaan ki bi chob unibɔn chee.","Ụmụ akwụkwọ anyị ọhụrụ, leta nma dị n'ihu. Ụkwụ mgbamgbam ya nke bụ chọpụ, unu bụ ancha",1.0,0.6301
+319,Juu yaab aah bii Pɔɔl pu na.,जुया ताबी पोमम,1.0,1.0
+320,"Nnimbiin ni, karyaa ngbaan ga li gaal kijook ki ti saa kichakpiik ni.","Nnụmbi ne, karia ngwa ngwa le gaa ka jụọ ka ha sa ka chaa kụọ nụ.",1.2308,0.4727
+321,Uwumbɔr nan ki cha Eliada aajapɔɔn Resonn mu fenn lir Solomonn pu.,Umbanan kicha Eliya da Ajapa risun mufen lir Solomon,0.9167,0.2963
+322,"Le Uwumbɔr aakaal aamɔmɔkb ponn ni bibaa, bi ye Farisii yaab na fii sil, ki kpak sakpen, le ki len ke, “Taa kan uja wee aataani.",,,
+323,"ke unii aana aah kpo kan, u wii likpuul pu na.",Kedu onye ana akpọke? Onye ịlụkpuo,1.0,0.6176
+324,Ibon mu nan ye ŋichur ŋiloob ni ikui ilole ni moninko la.,"Ihe bu muna ya enuchiri ngeloo, na ikwa elili, nima nu",1.0,0.6
+325,"Moses nan ye unii u sunn ubaa taab na la, u nan sunn ubaa taab ki jer unii mɔmɔk dulnyaa wee ni.",Moses na ya unu wu sun ubochi taa nala. Unu sun ubochi taa ka jere unu mma mma diri ya wee,0.9091,0.4247
+326,"Tɔ, nimina mɔmɔk ti doo kan, bi ga ŋa kinye?","Tonomina momo, tido kai, buga nga kinye.",0.9,0.3125
+327,Ni kpab liloloob na nfum mulee ki di ŋa Libool ngbaan aabisamɔb.,na kwaa bu le nu lo na mfu mu le bu kedu ngalaba ngwa abisa m,1.25,0.5192
+328,"Le Uwumbɔr aah nan len pu na, bi daa njikaabim mu ŋan sakpen na kuruwaa bitaa, tikur aamombil libaa, ki daa muken mu kuruwaa biloob, tikur aamombil libaa.","n'ụbọchị a na-alémụna biko aṅụrị ka a bụrụ ụmụ nne anyị sákwa na Kuruwá, Bịta, Tukur Amam, Bilibá ka damụ ka e mú Kuruwá Biló, Tukur Amam, Bilibá",1.0,0.5164
+329,"Ijawaan ni lijinjiir aawan ŋa kitiŋ ngbaan pu; maabɔnabtiib geei inyamɔn ŋmeen la; le bitotoorb di bibaa aapɔɔn le joo binib, le maanib gee kina la.",na akata ngwa mpu ma bu o na otu ge i nye m onye ila leputa otu odi ebe a apu a leju be na le ma nu gi ekenem,1.1154,0.5798
+330,"Uwumbɔr len ke, “Ni ga kan maah ga teen Babiloŋ ni kaanib baah tun Jerusalem titunwanbir ti na mɔmɔk.","N'ubochi nke a, m ga-amalite iwu ụlọ nsọ nke Onyenwe anyị na Jeruselem.",0.9474,0.7125
+331,"-Aa di tiwakor, ni ipeel, ni inyoon mɔmɔk aabɔŋ, ni tiwan ni fu na mɔmɔk, nija ni nipii, ki di ŋa buŋɔb ngbaan ni.","A na-etu akwụkwọ na ịpe, na ịnyụ mamịrị abụghị na ịtuo na mmanụ mmanụ, na ịja na ịpi, kedu ihe a bụ nwa ngbada?",1.0,0.6905
+332,Ni ga li ye limɔkl le m ni Israel yaab chee; ba pu?,Na gali yalu mo le ni Israel ya ce ba,0.6923,0.3514
+333,"” Nima pu na, bi nan di inyamɔn aabɔr yaa gaa Israel yaab chee, baah buen kitiŋ ngbaan ni ki ti kan pu na.","Nma mpona, b'ana ndi ya mmona abali ya ga Izra ya chi. Mba bu nkiti ngwa ni nkiti kampu",0.9565,0.3924
+334,"U nan kpo, le bi sub u, le ujapɔɔn Nadab nab waanaan pu.",na npo lebu subu lewu japa na dap nabua na,1.0,0.3415
+335,Taa cha maadim aasui piir maasuubiin pu; taa cha bi li kpa kipupuk maalirm pu.,Taa chaa ma di ma si ipiri ma si bi mpu. Taa chaa bule kpakpu pu pu ma luru mpu.,1.1333,0.3226
+336,"Jakob aah kpo, ni baah sub u pu na aabɔr.",Jacob akpo na baa subu upu na,0.9,0.3667
+337,U nan baa bilankpalb ngbaan ke bi kan liŋmabil ngbaan bayoonn.,"Nụmba, biko aṅụm. Ka bụkam, bụwa bụmụọ, mbayoo.",1.0,0.6471
+338,"Uwɔwɔnii umɔk bi ni chee, ki ga yunn, bee waan yunn, ki yaa ban u toor kina aatork kan, u mu ŋa kina.","Uwa ni umuobinigwe, kigajun, bewanjun, kiya be otuokna atwoke, umunaka",0.9565,0.4189
+339,Uwumbɔr aah nan bui Israel yaab ke bi fii Sainai Aajool chee ki li cha pu na.,"Mbumbar ana mbu Israel ya ka be fi Sinai a juw ce, kele capu",0.9412,0.4
+340,"Uwumbɔr nan bui Moses ke, “Di tibɔr timina tuk maanib Israel yaab.",O bughi na bu Moses ke? De tupu m na-atu m na Israel a.,0.9167,0.4808
+341,lijinjiir aawan ni taan ŋmaa bee naatataa na ŋani.,Lijinjil awane tang ma be na ta na ngani,0.8889,0.3415
+342,"Ni yaa ken maab kan, ni di njan aamaab u ni di njikaabipɔm aayon ŋa u na, di tii Uwumbɔr, ni ye ipiinkpaan le u chee.",Né a k'mab'ka. Né din jé a mab'u né din ji ka b'pom ayo nga una dé ti umbor. Né pi kpal'o,1.0,0.4205
+343,"Waah tuk bi kina na, le u jon lijool paab ubaa, u ti mee Uwumbɔr.",wa gwa ya mma ni le udo ya le juo apap uba wunta m ya otu nda uwa mbo,1.2,0.6875
+344,"Nee aapuwɔb, le u cha bi chuu lokr Sedekia aanimbil, le ki di tikululn gbin u ki di u buen Babiloŋ ni.",ne apua lo cha bichu lo za da kiya anan be la ka da tukulon bin u ka da ube babylon,0.9545,0.4103
+345,"’” Ubɔnabr pɔɔn ngbaan aah len kina ti doo na, le u nyan kidiik ngbaan ponn ni ki san.","Oba na-akpa ngwa, a na-enke na-oti do na. Lowu ya nke di ngwa m kwere, kisa",0.9444,0.4688
+346,M ga li dooni Uwumbɔr n‑yoonn mɔmɔk; m ga li pak u n‑yoonn mɔmɔk.,Ngala doon u mbóorum yoonu mbooloo. Ngala pakku yoonu mbooloo.,1.0,0.5625
+347,"cha nitaakpab pɔɔk, nyal sil man.","Chineke akpoopu a, ya siri m",1.0,0.5769
+348,"Juu yaab aayidaan nan bui bi ke baan ŋmaa ji tijikaar ti bi di tii Uwumbɔr ipiin na, see utotoor u ga ŋmaa di Urim ni Tumim di ŋaŋ ti ki lik na.",Juryam ayi damnam wi bike banma ji tiji ka tabidi ti umbor ipina. Se uta tor ugan madi juryam ni tumim dinganti ki kilik,0.8788,0.3273
+349,"Bi nan di idɔja iloob le ki ŋa liwilir wɔb, Libool ngbaan aapuwɔb, le ki di idɔja ilelee ki ŋa igulɔ mɔmɔk.",Benin doja ilo leke ngalewoleroa lebu ngba apua leke doja ilele kedi nga igulo momo,1.0,0.4819
+350,"Juda yaab aabɔr Asa ni Israel yaab aabɔr Baasa mɔmɔk aah nan bi mpɔɔn ni buyoonn na, bi nan bi kijaak ŋmeen ni la.",Judaea abuo asa ni Israel abuo basa momo. Ana mbibi mpuani bu Yona. Bụ na mbibi kee nweela,0.8333,0.4382
+351,"Bi nan di idɔja moninko le ki di ŋa ŋŋangan wɔb aawon, le ki di tikunabr aakudɔ imonko ilee bɔ puin taab, ikudɔ ilee le bi di bɔ puin idɔja ngbaan ibaabaa aataab.","Benin City i doja mọnkọ, lekwa di nga nga nga wa a wee, lekwa di tukwuo a akụdo mọnkọ ịle bọpụị taa. Ikudọ ịle lebe di bọpụị ị doja ngwa, ị baba a taa.",1.0,0.4646
+352,"U nan dooni Saidonn aawaapii Astaate, ni Amonn yaab aawaal Molek li bir na.",na ndoni,1.0,0.8833
+353,"“Ni di lisiijal aadɔ ki di ŋa teebul aan waah ga li fɔk pu na li ye ŋisaŋ ŋiloob, waah ga li waa pu na li ye ŋisaŋ ŋitaa, waah ga li fɔk paacham pu na li ye ŋisaŋ ŋinaa ni ligeln.",Nde le sajal ado. Kedengate bol. A wagalu fo punale ye ngesan ngeloo. Wagalu wa punale ye ngesan ta. Wagalu fo pachom puna le ye ngesan na nele gel.,0.9286,0.4403
+354,"M ga bui u ke ni ye bipihdam la, le ki joo ni nimi aawakor, ni nimi aawangol mɔmɔk.",Nga buike na-enye be ndị mmadụ laa. Leekwa Chineke m awa kwuru. Na Chineke awa ngwụrọ mụ mụ.,1.0,0.6613
+355,"Le nneel len ntaalangbapiin na ponn ni ke, “Njapɔɔn u m gee u na sɔ.",le nya le ke talan gbon mo apu le mbe ja wa mji a wu,0.9333,0.6275
+356,"Bi len le ke, ‘Ni mɔmɔk ŋan,’ le naa ŋan kpala.","Bulanle kee, nu mụ mụ nwa, lelee nu anya mkpala",1.0,0.4688
+357,"Ki nyan njim ngbaan aajan aawiin daal ki ti saa kookoo aawiin daal na, bi nan karni Uwumbɔr Aakaal ngbaan siisii le mu ti doo.","Kedu ka njem gị a ga-adị? Kedu ka ụmụaka na-adị? Biko, kelee ụmụaka niile.",1.0,0.72
+358,"Taah fuu nima na, le bi cha Pɔɔl koo kidiik kibaa ni, le butɔb aaja ubaa si kii u.",tafo ni ya ne le biche pol ko kuji ko ba ne le soja ubasi ko gu,0.8947,0.4426
+359,Min mbaa aan dii nimi buen; ba pu?,ሜምባ አንድን መብዬ ባፑ,1.0,1.0
+360,"Tɔ, li lik man tiwan ni ga ŋa n‑yoonn mue ki joo cha na.","Ndi be anyi, unu ebutewela m ihe m ga-eri, unu enweghi ka m ga-esi rie?",1.0714,1.1
+361,"Sin Dann, sin le ga li lik saamaal aanib.",Sannu da aiki. Sannu da ƙalubale,1.0,0.7097
+362,"Le u baa bi, ‘Ba pu ni si kina nwimɔn, kaa tun nibaa?",obam babu nisi mam nwa mmuo cartoon ba,1.0,0.5676
+363,Uwumbɔr nan puu tipuur tii niyaajatiib.,wombat nampo tupuo kisia ni ajam,1.0,0.5758
+364,"Dulnyaa aah ga li bi cha na, liwanbuul ni liwancheel aayoonn ga li bi la.",दुनिया आगर लेब चान लेवान बु लेवान चिल आयोन गा लेब,1.0,1.0
+365,"M yaa ŋa kina kan, Uwumbɔr ga daa ntafal mala.","Ihe a ga-eme na nke a, ụmụ gị daa ntafụ amara.",1.0,0.5714
+366,"Ni yaa koo ki ponn ni kan, libuul ngbaan ni, ni ga kan ubon si gbin, waabo si u chee.",niye ne kwa ke polen ke ne bol ne bol ma ya ne le kai ke bon lul u be su,1.0,0.6774
+367,"Le Uwumbɔr pu, nsui ga piir; waah gaa mi lii pu na, le m ga li kpa mpopiin.",le umuwarpu nsogapiri wa ga melipu na le ngalukwa mpopi,0.7778,0.3333
+368,"Nima pu na, m len ke m ban ke Ubɔrkpaan Siisa le ji mi tibɔr ngbaan.",Mambu le nlen kai mban kai ubọd nkwọ sisa le nkarmi sa ya,0.9375,0.6275
+369,Nima chee le u nan ti koo kitakpaluŋ ni kinyeek ke u doon.,Nne m chere unu tuko ka taa kpalu n'ekenyeke udo,1.0,0.4
+370,"Nima le ga cha kitork aabimbiln ngbaan ŋa chain, le aa nin di olif aakpan meen li, li ŋa min Uwumbɔr yaan.",Nmalu gacha k'etuo a b'm bilu gba ngachanyi. L'a ndi olif akpa mili l'ngame umbori ya.,0.9545,0.4024
+371,"Nyan itaŋaal mɔmɔk ponn ni uyidaan ubaabaa, bi li ye Israel yaab aanibol mɔmɔk ni aanib, aan bi ter nimi.","Naa itangaa mọ mọpọnị ụyẹ daa ụba baa, bịrị yẹ Izra'ilaa aanị bụlụ mọmọkị nị aanị. Aanị bẹtịrị nị",1.0,0.494
+372,"Uwumbɔr aabɔnabr aah nan ŋmee pu na sɔ: ‘Sin Betlehem aatiŋ, ki bi Judea aatiŋ ni na.",A l'inlem ka nso ma nso. Bethlehem atun ka mbe Gidiya atun,1.0,0.6615
+373,"” Bi mɔmɔk nan gbaan kitiŋ ki doon Uwumbɔr, le binimbil chik kitiŋ.","Bụ mụ na ya ngba kịtin, kụọ ụmgbọrọ lebe mberede kịtin.",1.0,0.6154
+374,"Nima pu na, kpeln nimi aabimbin man, ki dii Uwumbɔr aasan.",Mambo? Kwenye mambo ya mama? Kinno otinda,1.0,0.7111
+375,"Le Uwumbɔr gar ke, “Maanib aah yii maamɔkm na le cha nimina ŋa.","na me mom, na me cha",0.8462,0.7708
+376,"” Tɔ, Uwumbɔr aasui nan gbiin Nowa aatunyaan pu.",Otu ụmụ nwanyị na Ngwa Nnewi na-atụ nya,1.0,0.5946
+377,"Le Joram bui ke, “Ti ga dii ni daa na la, ti ga bɔ dii Edom aateersakpiin aasan la.",na-eje ozioma nke ịga dịrị ndụ anara ịga gbadaa edum atịlịsakwịị na asaa,1.0,0.541
+378,"Binib bi aabimbin bi ke mbim aah bi pu na, bima le yeh Uwumbɔr aanaan.","Binin fof bay, abun bam, baka mbum ka ba mani. Bmaye utunda uwa mbot ana",1.0,0.6111
+379,Le m tuk bi ke timi Rom yaab aa ŋani kina.,,,
+380,Nabof aasubil aasaak aabɔr.,na above asubil asak aboa,1.25,0.3478
+381,"Le u bui bi, “Ni li nyi man, ubaa taa ŋmann nimi.","na n'oge emume n'onye mma ya, uba na-ala nna m",1.0,0.7059
+382,"” Timi tibaa nan ŋun nneel ngbaan nyan ni paacham, buyoonn ti nan bi u chee Uwumbɔr aajool paab na.",Tim bantual gbit niamu nyali pap. Nyuol mam tinambe uben. Lejuolain utinda uombot nyali apap.,1.0,0.7532
+383,Juu yaab bi nyan ni Jerusalem na mu nan bi nima.,ਯੂਪੀਆਰ ਬਨਿਆਨੇ ਜੇਰੂਸਲੇਮੇ ਮੁੰਬਈ ਨੇ,1.0,1.0
+384,"Waah fuu ni na, le binib bi galn u na fii ke bi bii u.",waa fu ne le bi numfo bangala nwe fi,0.8667,0.5789
+385,"U nan kɔr uwaadaan mɔk waah nan toor kitork libimbiln li pu na la, le ki di unibɔn aakpab see mmii ni libimbiln mɔk pu, le ki gir kun Jerusalem aatiŋ ni.",Unu anaghị aụ adị amọkọ. Wanụ ntị nke ọma na ihe m na-agwa unu. Leekwa dị unu bụ akwụna si mmini na-ebem bụ ọpụ. Leekwa gị bụ Queen Jọrisala atụghị,1.0,0.6471
+386,"M kpa limakl ke Uwumbɔr ga fikr binib bi ŋan na, ni bi kaa ŋan na mɔmɔk nkun ni.","le malin que tout le monde a peur de lui, il faut bien",1.0,0.8167
+387,Una le nan ye Libna aatiŋ aanii Jeremia aabisal Hamutal.,Jeremiah Abisa Hamuta,1.0,0.6087
+388,"Bi nan gar u ke, “Ti tak ki.",,,
+389,“Min Unibɔn Aabo ni maatuuntiib ga fuu ni.,na juwacha ke Yuda,1.0,0.8485
+390,"Le Elaisa nan di lilambil tii Israel yaab aabɔr, ki sak u ke u taa duun nima chee, ba pu?","Lela sanandi, lela mbeti Israel abua. Kisa oke uta du na mache. Ba",0.9,0.3134
+391,"Tɔ, dandana wee le aa kan ntafadaan mu ŋeer si na.","Dọ, danda na wele, aka ntafa damu nge si",0.9091,0.3158
+392,Bi nan gor ke bi di bu buen Asia aatiŋ ni la.,"Benin, Binta, Kunwama, Kwajjo, Asia, Atani",0.9167,0.7273
+393,"-Job, aa kpak Uwumbɔr Mpɔɔnsakpiindaan; aa ga di cha le aan aa ga gar la?","Joo, akpa ụmụ nwanyị puku ise ndị a, aga dị chaa lee ha, aga gaa",1.0,0.5273
+394,Bijab bi jak i na aah joo tijawan ni na weeni.,"Bịa, bịa, inna ajọọ ti ị ga-awa n'ịna. Wee",1.0,0.4857
+395,"Bi nan di ŋikekengen bɔmbɔn le ki di ŋa iŋminsarkee ki kpaŋ igbaan, lipaal aakeken mɔmɔk pu.","Bena ndenge ka kan kan bonbon, leka danwa in mun sarke, ka kpan igba, lepa akakan ma",1.0,0.473
+396,ke Lebanonn aasui i fɔk sakpen na la; Puwɔb le m nan ki jer nima le waa nan ki bi; m nan ban u le kaa ki kan u.,Kelebenu asi for kisa kwanala. Pobre nna nke jere n'ima. Lewa ana nke be. Nna m ba wu le ka akika,0.8966,0.3375
+397,"Elihu le nan ye uwaatiir nima chee, kina pu na, u nan si ŋmin le unii mɔk ti len doo.",Uwa ti na mache. Kina pu na,0.85,0.6984
+398,"Baah nan gob Samaria aatiŋ pu na, tijikaar aa nan ki bi Samaria aatiŋ ni, le ubon aayil nan daa tikur aamombil imonko inaa, le ŋituun likuruwaageln daa tikur aamombil ŋiŋmu.",Bà nà ngọ sà méré atụmpụna. Tụjị ka ànaị ka bị sà méré atụ nị. Lè ụbọị àyị na ndà tụkụ. Àma m ịma kọ ịna. Lè ngị tụị lụkụwa gị da tụkụ àma m ịma ngị.,1.1935,0.6115
+399,Esra aah karn Uwumbɔr aakaal tii binib ngbaan pu na.,Izra akara umu aka ati benu mgbe mpuru,1.0,0.5238
+400,"Nibaakan, Uwumbɔr aatuuntiib ŋichur ponn ni ubaa u teer.",,,
+401,"Libuln ni utaal yaa fuu ni n‑yoonn mu na kan, ni ŋan ke timi aaŋɔb li bi ki ponn ni.","Beniya, kutafakari na utafuo ya nyoke. Ngan ke tiang'long lebe na ya.",0.95,0.7258
+402,” Nima pu le binib ngbaan mɔmɔk nan chuun nyan ni baasalmaa aatafajɔn le ki joo ni Aaronn chee.,Nnamụ pụrụ ịbụ nọmba mọmọ na chụọ nya na basala ma atafa jọọ. Lọkọ jụọ nị ịrọ nchị,1.0,0.52
+403,"” Le Moses nan ŋa Uwumbɔr aah len pu na, ki kpii ŋitakpal ŋilee ngbaan.",Lémosís na nga ụnụ mbọrọ alịmfụna. Kụkpị ngị takpọ ngị l'éngba,1.0,0.4815
+404,"N‑yoonn mue na, Uwumbɔr aabɔnabr Elaisa nan yin bibɔnabpɔm ngbaan ponn ni ubaa ki nan bui u ke, “Gor aabaa ki buen Ramof aatiŋ ki bi Gilead aatiŋ pu na ni.",Ndi yoruba nwe na umu nne ha bu hausa na yi be nna ha pam gba mponi uba ke na mgbago uke goro aba ke gbe ramof atin ke bi gilia atin puna,1.0,0.475
+405,Binib bimɔk nan nyan ni tinaagbiir ni na nan ŋa baakakar ki koo ti ponn ni.,"mme na-ebumọ na-enyeni, tupu agbịlị na na-a ba aka kara kedụkwa tupu",0.9375,0.5593
+406,"Aa yaa gbee kpir u kan, u bir sakpen; ubaa aan kaa ki sil u chee.",aya gbe puru kain oburisa pe oba nka kisi uche,1.0,0.383
+407,"” Le Uwumbɔr nan cha waabɔnabr Hagai di tibɔr timina nabr binib ngbaan ke: “Maanib, ba ŋa ni koo ŋidichal ŋi ŋan na ponn ni, aan maadichal ma ber ki dɔ?",ले उम्बा नंचा वाबाना हागाय दी तुबार तुमिना नबिनेम्बा केई माणु बाना को निदिचे निना पुनी आमादिचे माबिर,1.0,1.0
+408,Le biŋɔŋaab aa nyi kitiŋ ngbaan ni.,banang makkung alungngi kanangngi ketengmom,1.0,1.1071
+409,"Ti ban ke ni ni bibɔjirb aaninkpiib tun unii ke u buen butɔb aajab aaninkpel chee, ki ti tuk u ke u li joo ni Pɔɔl ni chee, ke ni ban ni nan ki baa u tibɔr tiken kpee la.","Tụbanụ m, nụkwaatụ nụ aṅụrị. Ntụ unu fụkụ, unu jụọ sojam aṅụrị na banyị. Keta m gwara unu ka unu jụọ Paul na banyị. Ke banyị na-achị baa tụgbado ngwụrọ nkịta?",0.95,0.75
+410,Unii mɔk aanimbil aah man ubaa aadichal pu aan Maadichal ber ki dɔ na pu le cha m ŋa kina.,"Odi mma, ana m belu m na Uber adichaghi mpu. M adighi m bere kedu na mpu cha nwa ka",1.0,0.5
+411,"N‑yaayoonn ngbaan le bi bui tɔb ke, “Naa ŋan ke ti li bi ŋani kina.",n'ime ụlọ nkwụ na-anọkịta,1.0,0.8163
+412,Ipiin i ga cha m cha pinn bitotoorb ngbaan aatunwanbir na le na.,Ipinye cha chappen butu tuo ngwa atua mberu n'ali,0.9231,0.4706
+413,"Kookoo na, binib bi nan gee Omri na le nan jin; Tibni nan kpo, le Omri jin nnaan.","Koko na, m na-ebunye gi Omri le nna nna gi Timna nkpo le Omri ji nna.",0.7222,0.4
+414,"Aser ŋichur imonko ilee ni libaa, ni ikui iŋmu.",A sị m na Chineke na-elele baa na-ekwe unu,1.0,0.6216
+415,Juu yaab aaninkpiib aah jin Piita ni Jɔnn tibɔr pu na.,Juu ya Anunkwepu ka Katolika na John,0.9091,0.6512
+416,"Bipiib bi mɔmɔk ŋmaa fik tikokonn na nan joo ni tikokonn ti ŋan na, ni tibɔmbɔnn, ni timamann, ni tikur mamann aakokonn mu.","Bibi bu mma mma, m afụghị gị n'anya, na-ejighị gị n'anya, na-etubom bọọlụ, na-etim mmanụ, na-etiku m mmanụ akụkụ m.",1.0,0.5876
+417,"Ni jer ni mɔmɔk na, ti kan ŋiniwɔk aayaabitiib bi nima chee.",na Jerry Nwambokna tekana Nwambok aya beti binamachi,0.9167,0.5106
+418,"Ti nan ka mak nsuudoon ni laafee aayoonn pu, le naa nan kpa tinyoor; ijawaan sakpiin le nan labr dan.","Tinan kam ma nsudo ni lafe a Wiyompu, le na nankpa tin yo ije wa nsakpi le nai",0.9,0.3418
+419,"Cha nweel dan kaatiŋ pu, ki foor kaamɔɔ.","Cikin wanda ka tumpu, ku foro kamu",1.0,0.5161
+420,"Uwumbɔr, Ndindaan ni maakikiir, sin le lee Babiloŋ yaab ki cha bi kpa mpɔɔn ke bi ŋmaa daa timi aatafal.","O wụ mụwa bụ ndị Nnewi ma keekere, si na-ele Babylon ya akwụkwọ abụkwa mụwa nke bụ Ada Timi Atafa.",0.95,0.4878
+421,"Bibaa mu bi, ki yii bipiib mɔmɔk Uwumbɔr aanaan aatuln pu.",Bye bye Mumbai,1.0,0.8261
+422,"Ibuen ngbaan ni, le bi di ŋidabil ŋi bi joo yoor teebul ngbaan na bɔ i ponn ni, teebul ngbaan aamɔgben chee.",bu ngwa ni. Leba anya na belu ngwa na ebu yoo tebulu ngwa na abughi ipo ni. Tebulu ngwa amaghi nchi.,0.8636,0.5476
+423,Uma le nan ye Nebat u nyan ni Sereda aatiŋ ki bi Efraim aapepel ni na aajapɔɔn Jeroboam.,O ma na na ya na ebe a Onye isi ndị agha ka bịa ifrim apụpe n'ụlọ Ajegunle. Je rebụa.,1.1111,0.5857
+424,"Ujapɔɔn Gad mu aajapɔtiib le nan ye Sefonn, ni Hagi, ni Suni, ni Esbonn, ni Eri, ni Arod, ni Areli.","Oja'a Pangua, mu Oja'a Pti, Le'na'a Yesephon, Ne'hagi, Ne'suni, Ne'esbon, Ne'eri, Ne'arod, Ne'areli.",0.95,0.3151
+425,Aa nyi ntaalangbam aah ŋa pu ki dee kitaapaak na aa?,"Anyi nta langbam anapu, kedu kita fa ana?",1.0,0.3171
+426,nsui bii maah naan unibɔn aan u tun titunwanbir ti na pu.,Vous êtes bien ma nation au point en août 2023,1.0,0.7333
+427,"N‑yoonn mue ki joo cha, maan ki cha unibɔn yunn ki ti jer ŋibin nkub ni moninko.",,,
+428,"Baadim ga di chatiib ni puutiib buen, kaan di cha bininkpiib ni binib bi por pam na mu.","Bado ngadi, chati na poti buye. Kandi cha, benekwi ni benekepor pam na",0.7778,0.3824
+429,"Min le ye aayaajatiib Aawumbɔr, min le ye Abraham, ni Aisak, ni Jakob Aawumbɔr.",Mụ na ya ayar ajeti awụmbor. Mụ na ya Abraham na Isaac na Jacob awụmbor.,1.0,0.371
+430,Binib bi m yin bi na aa ŋeer bi ji tijikaar ngbaan.,bɛnɛn fɔ bɛn yiri ni ka pa bɛn ji ti jiri mɔn,1.0,0.641
+431,"Aayii, bibaa le bi tii titotonn, ki joo ni inimɔɔn bibaa pu.",anyi be ba anyi ebe ti tutoton kuju ni inuma be ba,0.9167,0.4565
+432,"Uwumbɔr aah nan cha waatutunn, waabɔnabr Ahija, u nyan ni Silo aatiŋ ni na len pu na, bi nan ku Jeroboam aadichal aanib mɔmɔk; ubaa kina aa nan ŋmar.","Umunbor ana ncha wa tutun, wa bannar ahija, onye na si lu atinna le mpuna. Benanku Jerebuam adicha animamo, uba ki na ana",0.9655,0.319
+433,Saah ga ŋa aana aabo u ŋa si bakaa na pu na.,naalunga anabik wangalang mam,1.0,0.6562
+434,"U nan baa bi ke, “M ga gar binib ngbaan kinye?","Nwanne m nwoke, ngwa garuo n'ngwa nke nye, lebe bu uke anyi akwa bu na be pu. Tinye anyi",1.7273,1.4242
+435,"Kiloloŋ ngbaan aah bi liwilir wɔb pu na, nima le libuln aan ŋmaa pii timi nima.",Nnanyanka si na ya amam ka be nwe ka lu nne m pa mwe. Mma m bu Leche Ntafam ka m futu ka pii tum n'iya.,1.5625,0.8387
+436,ni tiwan ni mɔmɔk bi ni ponn ni na; sin le tii ni mɔmɔk limɔfal.,N'etua nụ mọmọ obi nụ pụọ nị na. Sị na etị nị mọmọ nị mọmfụ,1.0,0.5625
+437,U lik seen ipeel i kpa kigaak sakpen na la; uma le ye tiwakor mɔmɔk aabɔr.,Onye isi IPAC ga-asị na ọ maliteye tụọ okwu mọmọ agbọrọ.,0.9375,0.6316
+438,"Kina pu le Uwumbɔr nan cha Hadad, u nyan ni Edom aabɔrchiln ni na nyan Solomonn aapuwɔb ki pa sil u pu.","Kedu ka unu bụrụ na nke a adịghị? Onye a bụ Edom, abụghịkwa nna ya bụ Solomon apụọ ka Paa sị",1.0,0.5875
+439,"Uwumbɔr Mpɔɔnsakpiindaan le nan siin ke binib ngbaan aatotoŋ li ye idɔ i ga tuur mmii na, ki mɔk ke ŋitimbol nan tun nimina mɔmɔk fam.","Mba, mpa m saakwiri na ala na nsị nke bụ na ngwa atụturu ya ịdọ, ịga tụọ mmina. Kịmọọ ka e nyere gị na ntị ị na-mụ na mụọ",1.1154,0.5514
+440,"Bi nan ŋa paangara tii Liifai yaab; le Jesua, ni Bani, ni Kadmiel, ni Sebania, ni Buni, ni Serebia, ni Bani, ni Kenani, si tɔk u pu.","Benin, Burkina Faso, Côte d'Ivoire, Niger, Senegal, Togo",1.0,0.7917
+441,"Uwumbɔr nan ki bui Moses ke, “Tuk Israel aanib ke bi ban ŋidabil kipiik ni ŋilee tii ni si, linibol mɔmɔk aayidaan li joo ni libaabaa.","Mumbwanaku Bimo Sisike, tukizra anab, kabubanga da bulu ka pineng le tinese, le no bulu momok ayedan le jone le baba.",1.0,0.4286
+442,"M tuk nimi mbamɔn la, u yaa ti kan u kan, u ga li mɔɔni upiih ngbaan pu, ki jer waah ga li mɔɔni ipiih imonko inaa ni kipiik ni iwae i kaa wɔŋ na pu na.","Ibe nụ, ịba mmalụ na ya ụta ka ọwụ nke. Ụlụ mmuọ nụ ịpie mmuọ mbu ka i jọọ wa bụlụ mmuọ nụ ịpie piwụ ya na ewụ ya ya nke abụọ dị bụ",1.0,0.7411
+443,"” -Uwumbɔr nan ki bui ke, “M ga di waapumanja lul kitaapaak.",Mbumbe na kubi ke ngadi wa pumanja lokita pa.,0.9091,0.3182
+444,"Ki nyan liyaadaal ngbaan ki joo cha Siria yaab nan di cha, kaa ki looni Israel yaab.",Kanya liada ngba ku jo cha Syria ya Nandi cha ka ku lo Israel,0.8235,0.3333
+445,"Aa ban nsin mu bi libimbiln ngbaan pu na ngem, ni olif aakpan na mu ngem, aan ki yɔk Aaronn ni ujapɔtiib aawanpeenkaan pu.",Abba na nsọ m bụ lụbanụ m gba akwụna ngem na Olive akwụna m ngem. A na m kee York Aaron na Ujụpatịbụ Awanpị nke m,1.0417,0.4583
+446,"U nan ye Israel yaab aabɔr, ki ti saa ŋibin imonko ilee la.",kete sa nge be iman ko ile,1.0,0.7111
+447,"Uwumbɔr le gaal binib bi ŋan na lir, le ki kii bi tibɔbir aayoonn.",Mboole gaal bu nekk ba nga naaleer. Lekki ki ba tubaab yi,0.8571,0.549
+448,"Le m gar ke, “Ŋma ga pel m chee buyoonn m bi len bi chee tibɔr ki sur bi na?",Langar ke magan pe nche bu yon mbele bichete ba,0.95,0.4259
+449,"Kinyeek wɔb ki ti woln kitaak, binib ngbaan nan wii ki ŋulni.",k'e nye wọ k'etu wọ k'eta b'e nọ gba na nwi k'e nwelu,1.0833,0.5417
+450,"Bi ki kpir ŋiwaa ŋiken mu pu ndaan, ke ni li wu mi.",Nke kpuru nwa nke mu pu nda. Kelele,0.8462,0.5135
+451,M ga pa si maah jin saapɔln li mɔk na.,"Non, il y a ma joie à quoi à la mienne.",1.1,0.8214
+452,David aah nan nyaŋ Hadadeser ki kuln umaantɔtiib Siria yaab na aapuwɔb le na.,David Ananyan hada tesir. Kukun umantot TV Syria ya na apuwo,0.8571,0.3651
+453,"Unii u kaa ŋeer ke u tun saatuln na kan, u taa duun ni aa chee.",Onye ukangịrịkọ tọsatọlụ nke utadụne achị,1.0,0.5652
+454,"Uma le len, le nnyun mu bi kitaapaak na ŋuuni; u cha ntaalangbam nyani kitiŋ aanaanmɔk ki choo.",Omalu lenyi. Lenyi umu bee kitaa paana nwuni. Wuchantaala ngwa nya na kitaa anaamo,1.0,0.3467
+455,"N‑yoonn mu Jakob kan Josef aabijabim ngbaan na, le u baa ke, “Ŋma ye mbim ngbaan?","Iyon muje ko Kan Joseph, Abuja bu Ghana. Lo ba ke, m'a yon bu",0.875,0.4426
+456,"Le ubɔr ngbaan bui u ke, “Gaa kigbaŋ kimina, ki li cha Israel yaab aabɔr chee.","Ndi be anyi na UK, gakene nu ka m na-ekwu. Kedu ka Israel si agbara che",0.9375,0.6271
+457,U nan naan nsupuun munaa ki di dab kaasisik ni aapachachaal na pu.,Munna nanzu pumunna. Kudidda kasu suni apachachar na,0.9231,0.3962
+458,"“Aa di tikokonn nyaan ki luu Aaronn aabɔkul, ki di ŋitanyaan ŋa kiyikpupuk, ni kikekengeŋ ki bi joo buu kichaŋ ni na, ki gbaŋ mann goln umɔgben.",Anya tupu ka onye a Kalu Aaron agbako ya Kedu ngata nya nga ka ipupu Na ngi ka ka nge Ka bu juobu ka cha na na Ka gba man gun umu gbe,1.1852,0.4425
+459,"Ni di tiwan ni bi joo ŋaŋni tiwan Maabool ponn ni na ŋaŋ ni mɔmɔk, ki di olif aakpan galaŋ ubaa di kpee, aan ki ŋa maakpan tii mi.",Nne m tulu na be nna m tulu ma bulu pụlụ na nna m ṅụṅụ. Kedu olif akpa ngala ụba adịkwa? Aṅụkị mụ ma akpa ntị,0.931,0.5556
+460,"Litimbol li dii Tidindaan Uwumbɔr na, lima le kpa mpopiin; waah lee binib bi ke bi ye uyaab na, bima le kpa mpopiin.","Letumbolu ndi di na nda umboru na, lemalikwa mpopi. Oa lebe na ebe ke biye uya na, lemalikwa mpopi.",0.913,0.3778
+461,"Israel aanib ngbaan mɔmɔk nan siir, le binib bi mɔmɔk nan gee ke bi tii na nan joo ni baapiin nan tii Uwumbɔr, bi di ŋa Waabool.",Izra'a no ngwa mụ ma ọ na-nsị. Lebụlụ ụbụ mụ ma ọ na-ngị ka betị na na njụrụ na ba pị na ntị o ngwa. Bedị nga wa bụ,1.037,0.5455
+462,"Le Elaija gar u ke, “M puu Uwumbɔr Mpɔɔnsakpiindaan u bi aan m dii u na pu ke m ga di mbaa mɔk ubɔr din wee.","Leila jagaru ke? Mpu, ugboro m pụa nsakwụịna obi aa ndi, unu mpụke, nga di mbe amọ ugbo adi",0.9231,0.4125
+463,Min le nyan ni nimi Ijipt aatiŋ ni ke m li ye nimi Aawumbɔr.,መለይኛ ነመ ኢጂፕት ኣተንግኒ ከልየ ነመ ኣሁንቦ,1.0,1.0
+464,Nima le dandana wee ti tun ke aa di cha pinn timi bi ye aatetiib Aawumbɔr aanaagbiib na aabakaa.,Nmalu dan dan wee tutun ke adighi chapu nti mee. Biko atutubia umbor ana agbena abaka.,0.8947,0.3506
+465,"Maan li si ŋmin, m ga tii mbaa aagarm dandana.","Mba na-esem, m ga-ati mba m gaara danda na",1.0,0.3714
+466,Ni nan ye waanaan yoonn le Babiloŋ aatiŋ aabɔr Nebukadnesar aajab aaninkpiib di baajab buen Jerusalem ki ti gob ki.,"Nna ya nwanyị bụ nwa nne Babylon atọ na abụọ na bụkwa nne ya bụ Ajab, ada Nchoi. Di ya bụ Joram, eze Jerusalem, keta gwa",1.25,0.5053
+467,Aa nan dan ke aa ti gaa saanib ni saah nyan ubɔr u na lii la.,"Anan don, ke atiga sanu ni sanyen ubo una",0.875,0.3778
+468,"Dandana wee, Uwumbɔr ga tii nimi tinann, le ni ga ŋmɔ ti.","Dandan we, umbargatin m'tinnan, n'naga",1.0,0.3953
+469,"Uwumbɔr nan bui Aaronn ke, “Sin, ni aajapɔtiib, ni Liifai yaab, ni li nyi ke taani ubaa yaa dan Maabool aatuln ni kan, nimi le ga kan ntafadaan.","Mbon na mbu iro nke si na ajọọ potip, na life ya, na linye keta na uwa ya adịghị mma bụ atụ nke na mụ na gị ka ntafada.",1.0357,0.4636
+470,"Uma Yesu pu, le u kpa laafee mbamɔm, ki si ninimbiin ni.",Umma isabu le uju lafiya mgba mọm ki sid n'ụlọ mụ.,0.8333,0.5714
+471,“Li nyi man ki taa lik bibilb ponn ni ubaa fam.,may,1.0,0.9429
+472,"Baah bi nikaasisik ni pu na, bi bi ke tijɔŋ aah likr likekeln pu pu na la.",Bâbè n'est-ce si guinée. Bâbè ke te johan.,0.9412,0.75
+473,"Solomonn nan yoor bibɔrb aabisatiib ikui ilole la, le ki kpa puutiib waatiir mu ikui itaa.",Chineke m na-arịọ gị biko abịasatị ikwe ịlọlị na leekwa kwa apịtị waatịrị m ikwe ịta,1.0,0.6438
+474,"“Kina pu na, Jeremia, aa ga di tibɔr timina mɔmɔk tuk maanib, le baan ŋun tii si, aa ga yin bi, le baan kii.","Kedu afa unu? Yeremia, aga di mma otu a m na-anọ. Mụ na otu nwoke na-arụkọ ọrụ, anyị na-arụkọ ọrụ kemgbe afọ ole na ole.",1.0417,0.7821
+475,"Babiloŋ, aa naahn lijool li bii dulnyaa wee mɔmɔk na la, le min Uwumbɔr le ye saadin.","Babalọọ, ana alụjọọlụ bido ya wee mụọ mụọ na la. Leemụ ụmụaka na-eje sị",0.8824,0.5606
+476,"Binib bi kan kina na pam ga li san u, ki di naadii tii u.","Bụ na ọ bụ nkanka na-apụm lagala sọọ, ka dị na adịghị too.",1.0,0.561
+477,"Uwumbɔr nyan si tibɔr ni, le ki cha aa bi ŋŋmarm ni; u tii si tijikaar sakpen.",Umubanyansitigwani lekya abi nmaru ni uti isi tijika sakwe,0.9412,0.3051
+478,"Taa tii baajab nsan bi too baapiin, ki taa tii bi nsan ke bi peen baajaak aabɔkul.","Tati ba ja in san ba to, bapi. Ka tati in san ka ya bi pi. Ba ja kabo",1.0588,0.4062
+479,"Uwumbɔr aanib mɔmɔk, kii waamɔb man; binib bi keei waamɔb na kani baah ban nimɔk na.","Umara nọ mọ mọ, kị wa mọ mị? Bẹne bẹ nke ị wa mọ mị na, ka nụ ba abali mọ na",1.25,0.5
+480,"Le mubaa mu lir ntakpateer paab, titan aah kaa wiir nin chee na.",Mba muntu kutan bapat bu kutan ka kay yab na ya,1.0,0.64
+481,M nyi ke aa gaa kii.,Paul,1.0,0.9286
+482,"Solomonn nan yoor Ijipt aatiŋ aabɔr aabisal, le ki cha u ni ubɔr ngbaan ŋa limaantɔl.",Soro m na-enyere Egypt aka na-agbawa abisa. Lekwa cha otu ị nwere ike isi nyere aka.,1.0,0.6471
+483,"Baah nan looni Israel aatiŋ pu na mubaa ni, le Siria yaab nan chuu Israel aapiibo ubaa, le u ti kpaln Naamann aapuu aanaagbiipiibo.",Bà na-enwe obi ụtọ na-agba nri. Lesiri anya na nchụ-aja apịbọ ụba na-eweta dịkwa na mmanụ aṅụ ana-agwe pịbọ,1.0,0.5714
+484,le maan giin u ngiin mu ni giin u na daalbaadaal.,"Ndi m'anyi, unu ngi mu, niga nwa gi unu adaba da.",1.0,0.5263
+485,"Moses nan gee liŋuul sakpen, le ki bui Uwumbɔr ke, “Binib bee yaa joo ni baapiin kan, taa gaa i.","Mosis na ya elu n'ugwu Sinai, na-agwa ya ka bido bee ya ajoo n'ebe a pụrụ nke taa gaa",0.9,0.5139
+486,Nima le cha m ŋak bi ŋiyataŋak.,Mamu leche ngbu ya ile mbe.,1.0,0.7083
+487,"Unii yaa yenn nsan kan, waa ki fenn upuwɔb aa?","Wuniyayen nsankai, wa kifen opuop a",1.0,0.3429
+488,"Mbamɔn, uma aate Aawumbɔr le ga ter si.",Umunna ate awu mgbe o legatara,1.0,0.4667
+489,"Aa ban isan ki kuln binib pam aamɔfal, le ki joo ni inimɔɔn nan lii saadichal pu, ki lann aabaa aamɔfal.","Aba, i sani ki kun bi ne pam a manfa. Le ki jo ni i ne mwa na li sa de ciyampu. Ke lan aba a manfa",1.0476,0.358
+490,"Ukpan aah chur inyoon gbiini waalook ni pu na, kina le bi di tiwan ni bi chur binib ki gaal mpɔɔn na gbiin baadichal ni.",O kwa achur'im gị nwanyị waalụ unu pụna? Kedu ihe mere i ji tuwaa? Na be chụrụ be nu ka gaa mpụa na ngwị baara Chineke,1.0,0.5851
+491,"Maa ŋa bi taani ubaa, ki mu aa gaa baabon ubaa.",Manga betanu ba. Kumu agaba bu uba,1.0,0.3714
+492,"Benjaminn mu aajapɔtiib le nan ye Bela, ni Beker, ni Asbel, ni Gera, ni Naamann, ni Ehi, ni Ros, ni Mupim, ni Hupim, ni Ard.","Benjamin mu ajapoti le na ye Bella, na Becca, na Asabe, na Gera, na Naaman, na Ehi, na Ros, na Mupim, na Hupim, na Ard.",0.64,0.2444
+493,"Le Solomonn gar u ke, “Aa nan gee saatutunn, nte David, n‑yoonn mɔmɔk la, le u nan ye uninyaan, ki kii saamɔb, ki bi chob aa ni uma aakaasisik ni.","Nsụrụmụanya ngarụ nke ọma na m na-esetị ntị m. Nte David, m nwere mmasị ọrụ unu na-arụ. Kedu ka ịsa mọ? Kedu ka ụmụ akwụkwọ siri?",0.9333,0.6759
+494,"Le Yesu lik bi le ki bui bi, “Ni pɔɔ binib le chee.",lele isalegbe lelegbe nupo,1.0,0.7222
+495,Nimina nan ŋa baah nan chuu Jehoyachinn buen tinaagbiir ni pu na aabin piitaa ni lilolole aaŋmapiik ni ilee aawiin moninko ni iŋmu daal la.,"Ndi be anyi na-ege nti, biko gee nu nti na abum Peter Nweze, loolo m bu Lolo Annah P. Nweze, onye isi oche nke ndi inyom na",1.08,0.7281
+496,Waa san limɔɔl aanyunja ijawaan; Jɔɔdann aamɔɔl aanyun yaa peei unimbil wɔb kan.,wa salama anyi nja ije wa Jordan amua anyi ya poe unu mbil uwa bu kai,1.2308,0.4091
+497,Timi Israel yaab kpa limakl ke unii u ga gaa timi lii na ga dan.,Tunda uwar barka nan ganuwa,1.0,0.7755
+498,"Manase nan ku binib bi kaa tun taani ubaa na sakpen, le Jerusalem aatiŋ ponn ni nan ti gur ye nsin ŋmeen; u nan ŋa kina le ki di kpee waah nan di ŋiwaa mɔk Juda aanib ki cha bi tun Uwumbɔr titunwanbir pu na pu.","Manasseh na Kubinif, beka between Uba na Sakpe. Lejori Salifu Atumponi na Tuguriye Johnson. Unangakina Likidi, Kpewa na Dindi. Nua Moro Judah Anif. Kicha between Umbor Tituan Mripuna",0.9783,0.3827
+499,aa ga li bi ke uwaa u kpa liluul ki dɔ nsan aagbaan na.,"A ka lụbọkọ ụwa ụkpụrụ lụ, ka ndị ọzọ agbana",1.0,0.5854
+500,"Bi nan di igulɔ aadɔja ngbaan di kpaa dab taab, le i di kina ti dab paacham aadɔ mu.",B'annde gullo ado jam ngba de kpa adapter le idikna tiddopacham adom,0.9474,0.3438
+501,Nyan mi gaawɔb u bi di pen mi na ni; li kii mi linimaln chee.,"Ya mere ga-abụ obodo m na-anọ, leekwa ịmele unu mma ncha.",1.0,0.6667
+502,"N‑yoonn ngbaan kan, ni li ŋmɔ boroboro u kaa kpa nnyɔk na ki ti saa iwiin ilole, Abib aaŋmal ni, ba pu?","Ndi nwe nkwanke, nele nu mgbere mgbere nke akwa inyo na, ketu saa ihu inu li, abib anmalu ni. Biko",0.8636,0.5325
+503,bee bi kani tinyoor baatunwanbir aatun ponn ni na aabɔr li muk si.,Bebụrụkwa na etu a ka ọtụtụ mmadụ si akwado ya,1.0,0.7925
+504,"Pɔɔl nan ki bui bi, “M ban ke ni bee ke Uwumbɔr tun mi ke m buen binib bi kaa ye Juu yaab na chee, ki ti tuk bi waabɔr, aan bi mu ŋmar.",ji gwe be mba nke na bia nke otu nda ubochi tunim ke injo banka ye ju ya abanyi ke gwe be ugbat uwa bu mu,0.9118,0.6495
+505,"Le u bui bi, “Nimi le Uwumbɔr cha ni bee waanaan aabɔbɔrkaan, kaa cha bima bee.",le ugwu ya nne le utunda owonbot che na bia ugbo wu nka le kache bima bia,0.9375,0.6
+506,"M nyi ke aa ye Ijipt aatiŋ aanii u nan cha kinipaak tukni timi aatiŋ aaninkpiib, ki di binikurb ŋichur ŋinaa buen nteersakpiin ni na la.",Wannan ce,1.0,0.9358
+507,"Uwumbɔr, aa nan kpa m pu tiŋann; aa nan kii mi ke lijool pu aatiŋ ki kpa mpɔɔn na la.",Ana m kpọ mputu nụ. Ana m chọ ịmakwa ma ị dịkwa mma taa ka m kpọọ mputu ana.,1.0,0.6825
+508,Ichinnaankee ngbaan nan ti kpaan ichinn kipiik ni ilee la.,Ici nan ke ngba na tikpa ichin ka fini,0.9,0.4167
+509,"Le Nowa chuu piir buŋɔb ngbaan, le ki lik mann goln, ki kan ke kitiŋ bi kuur.","Le nuwa chu piru ngongba, lekelu man gwe, kekanka ketonbukwu.",0.9412,0.4138
+510,ki ti saa buyoonn m ga nyaŋ saadim mɔmɔk na.,"mba, mana le nu gara pam le",1.0,0.7941
+511,"Pɔɔl aah ŋa kina na, le bibum biken bi bi lidikl ngbaan aatiŋ ni na mu dan Pɔɔl chee, le u cha bi mu pɔɔk.",Paul ka ngamane le be ba de bembe nyim ka len ke tengamoi ya ne mu d'un Paul ben le utep be mu,0.88,0.6203
+512,"Israel yaab ponn ni binib ikui ilee ni piiŋmu, bi bi nan nyan bi ke bi li ye bisalolm binib ngbaan pu na, mu nan kpee bi pu.",Isi na ya apụna ya na ekweghị ele ya na ihu. Bụrụ na ya bụ ka e bulie ya ebe salon bụrụ na ngwa apụna. Mụ na ya kpee be,1.0357,0.5745
+513,Bi po chuu mi Jerusalem ni ki di mi ŋa Rom yaab aaŋaal ni.,Jerusalem,0.9286,0.7955
+514,"Uwumbɔr nan cha Babiloŋ aajab, ni Siria aajab, ni Moab aajab, ni Amonn aajab dan ki nan tak Jehoyakim le ki kuln Juda aatiŋ.","Umbanan cha Babylon ajab, na Syria ajab, na Moab ajab, na Ammon ajab, dankenanta Jehuakim, lakukun Judah at",0.9167,0.268
+515,Le unachipɔɔn ubaa san buen Moses chee ki ti tuk u Eldad ni Medad aah bi ŋani pu na.,"Lọna ji pọọwa sabọọ Moses che, kị tọọ Elder nẹ Medad abị nga nụ pụ",0.8947,0.5077
+516,"“Njan aabo, ni tiwakor aajan aabo bi di tii mi na, mu ye sin yaan la.","Janaabu, netuwa kura Janaabu, bedi timu na mu yesi ala.",0.875,0.28
+517,Le bi di cha u ki buen.,"Le 20 juin, le 20 juin.",0.8571,0.75
+518,Kinipaak ngbaan nan di baakeken ter nsan ponn ni.,kunun football mom nanta bagin kani kuttat in sam,1.0,0.75
+519,"Le u tun bi ke bi buen Betlehem, ki tuk bi, “Li cha man ki ti bee ubo ngbaan aabɔr mbamɔm.",Bethlehem,1.0,0.8788
+520,Waah wiin pu na naahn nwiin aah wiin pu na la; uŋaal moor lak lak ke mmii na la.,wa nwi mpuna na nwi awi mpuna la onga mu lolo ke mmi na,0.7895,0.45
+521,"Unii u kaa kpa na, Uwumbɔr ga chuu gaa waah kpa mu pɔkaa na.","Uwa ka jụọ ịlị ya mmanị, ụtin da ụwa gba dịị chụọ nnyị anyị, wa jụọ ya ụwa ụba ka abalị.",1.5,1.0667
+522,"Aa yaa kii maamɔb ti doo, ki dii maakaal, ki ŋani maah siin pu na ke maatutunn David aah nan bi pu na, aan nlaasaab koo aa ni kan, m ga li bi aa chee n‑yoonn mɔmɔk.","Aha akim ma m otutu, kedu maka? Ngwanu m ga asi pu na nke ma otutu ndi ebe anyi bi pu na. A na m lasa kwa ani ka m ga lebe achi m nyere mumu.",0.8649,0.459
+523,"Le ni yii u, ki bui Pailat ke u di unikur lii.",le neyo le ke gbe ke wonta unu fo,0.8333,0.7273
+524,"Uwumbɔr nan ki bui Aaronn ke, “Teer ke m di ipiinkpaan i bi di toor kitork tii mi kaa di see mmii ni na tii si la.","O bu mbu na akubu ya eronke, chiri nke ndi ipi nkpa, ibede tuo nke tuo time ka di si mee ya na tisa.",0.9259,0.4588
+525,"Njikaabim mu lir ntakpateer pu na mu ye binib bi ŋun tibɔr ngbaan, ki gaa ti mala ni mpopiin na.","Ndi be m, mụ anụlụ na otu onye n'ime unu fọdụrụ ịlụ ime. Ka Chineke wụrụ ya na-elekọta unu.",0.95,0.8133
+526,"“Naah nan piin na, sin Uwumbɔr le nan naan kitiŋ.","Na nna m Pịne, ụbọchị ahụ anyị ya tiri ndụ anwụ, ụna nna",1.3,0.8919
+527,Bi ki ŋmɔ kiwakork ki bi di toor chapinn aatork na aanann.,Bakeng sa khoebo ea khoebo ea tlhahiso,1.0,0.7826
+528,"Bi ga ji tijikaar ti bi bun Kamel Aajool pu, ni Basann aapepel ni na, le ki ga ji tijikaar ti mɔmɔk bi ban na, Efraim ni Gilead aapepel ni.",Bụkà ji tị ji ka àtụ̀ bǐ. Bụ̀kà m̀elụ̀ àjọ̀ pụ̀. Nị̀bàsà àpèpè nị̀na. Lèkà gị̀ tị ji ka àtụ̀ m̀ọ̀wà bẹ̀bà nà. Ìfè nụ̀ gị̀lị̀ àpèpè nị̀.,0.9333,0.5755
+529,"Tɔ, m nan tee bui bi ke bi li keei maamɔb, aan m li ye Baawumbɔr, le bi mu li ye maanib.","Nnaa, teebụrụ ị bụrụ nke mụ na gị. A nụrụ m ya bụ arịrịọ gị. Leebụ mụrụ ya",0.9545,0.7302
+530,"Uwumbɔr ubaa le nan kpii ŋitakpal ngbaan, le ki ŋmee ikaal ngbaan paan ŋi pu.",ụbọchị ụbọ m na-akpọ gị na ekwentị ngwa leka mụ ị ka dị ngwa mpa,1.0,0.7049
+531,"Esra aah nan si tɔk paangara ngbaan pu ki fɔk jer binib ngbaan mɔmɔk na, le bi mɔmɔk di binimbil kaan u pu.",Ihe a anansi topa ngara ngba pu ka foje bi na ngba mmona le bu mu odi bi na mbu ka,0.913,0.4096
+532,ki cha mmii wiihn ki loln bi pu nsan kinyeek.,"Kucha mmi wi, ku walu mbe pu nsani kinyi",0.9,0.4286
+533,U mɔk si waah gee si sakpen pu na le ki di si ŋa Israel yaab aabɔr.,Omasiwa gesi sepuna lekedi sine Israel abuo.,0.9412,0.4
+534,"Ni di tikunabr ŋa idɔ i ni ga di punn na, ni yaapigɔrkee mɔmɔk, ki di tikumann ŋa idɔ i dɔ taab na.",Ndi tupu unu amaa ịdo ịdo taa,1.0,0.7703
+535,Le baah chur binib bi tinaagbiir na wiir ke litambol na.,na ba chiri be na beti na agba i na nwe ike leta mgbe ọzọ,1.2727,0.4667
+536,"maa nan ŋmaa len ŋi mɔmɔk pu, ŋaakahm wiir sakpen a.","Mana m malengị m ma mụ pụ, mụ aka m wirisa kwa",1.0909,0.475
+537,"Butɔb aajab aaninkpel aa nan ban ke bi ku Pɔɔl, nima pu le waa kii.",so ya kam anan kulu ka banbu nku Paul ma mbu yi wa na nche,1.0,0.6471
+538,"Naah kpee siib na, le libupɔpɔɔl nyan ni ŋŋangan wɔb ki daar choo, ki daar yeŋni buŋɔb na, ki cha bu sil.",ne nkafam mpuo nyani nnoji mpa ke dat kicha ke dat ku ngolwi ke yen ke che ku ngolwi,1.0,0.7625
+539,Job aabɔr nan doo do la.,Job abanando dola.,0.8333,0.2222
+540,le ki ti kan Uwumbɔr aaŋann buyoonn m bi din wee aabimbin ni na.,Lekete kae ombaranga ba yon mbe denwe aban bena?,1.0,0.48
+541,"ke u di bi giin tinaagbiir ponn ni, Ijipt aatiŋ ni.",के उदिबगीन तनागिर्पोनी इजिप्ट आतिंग,1.0,1.0
+542,"Moses nan yin Besalel, ni Oholiab, ni biken bi Uwumbɔr di nnyim aalan tii bi aan bi ban ke bi ter na, ki tuk bi ke bi piin lituln ngbaan.",Mosis na nye mba salel na oholi a na be kembe umgba de inyem ala nti be. Ahan be ben ke be tere na ke tu be ke be piye le trumba.,0.9667,0.3846
+543,"Waah ŋa kina na, le bi mɔmɔk chuu bibaa, ki mu jin tijikaar.",wang'a mane? Le be bien chuob ba kemo nji ntijiri.,0.9231,0.5111
+544,"Uwumbɔr nan bui Israel yaab ke bi taa yoor binib ngbaan aapiib, le u yii ki yoor.",Onye nwe anyị Izrayel ka e betayuru benụ ngba. A pịrị na owụ yịkị yorụ,1.0,0.6349
+545,Bi ŋmanni binib bi kaa nyi Uwumbɔr aasan mbamɔm na ke bi yenn.,"Bila benen fop bankanyi, utunda uwo mbot asam mba momi. Binta",1.0,0.6531
+546,"Ti mɔmɔk nyi saah ŋani pu na, ki dooni si mbamɔm.",,,
+547,"Inaaja aasin, ni iŋoob aasin aa ŋmaa nyan titunwanbir binib aasui ni.",na ja acham na inwop acham kayan fut kanyan itom bit binop asu,1.0833,0.6071
+548,"Iwiin imonko ilee aah jer na, le Nowa piir takolu, le ki nyan ni likakaal libaa, ki di lii ni lipaal, ke li ti lik ke nnyun foor aan mu aa foor.","Ihe mụ na gị na-ajụ bụ na ụwa pịrị takwọlụ, leke nyanị, leke akalị ba, kedụ ihe ị na-elụ? Kedu otu ịlụ, kee ụnụ fụ na mụafụ?",0.9688,0.6204
+549,"U puu ke u ga ŋa timi Israel yaab pu tinyoor, nima pu na, li dii timi, aan ti kpaan ji kina aanyoor.","N'ime afo na, ledi tumi, a ga-akpo anyi kene anyu.",0.9565,0.6757
+550,U len le ke aa yaa pɔɔni aabaa ke aa dii Uwumbɔr aageehn kan.,Onye na-eche na ya apụghị ịbụ onye a dị ụmụaka dị mkpa.,1.0,0.7234
+551,Nnyusakpem aah nan puu nyan ni kitiŋ aapuul ni na.,Ihe so kwa m Anambra unyani kemgbe April,1.0,0.625
+552,Nima pu le ni gar kinipaak ngbaan mɔmɔk.,Mambu,1.0,0.9062
+553,"Naa ye kina kan, m ga ŋa kinye aan ki joo saanisakpem bimina?","Na yikana ka, nga nka kinye a kijo sa ni sakpa mbe",1.0,0.3404
+554,ki di u nyan ni Ur aatiŋ ki bi Babiloŋ ni na.,Kedu onye na-achịkwa Babilọn na,0.9167,0.5152
+555,"U nan di salmaa aakur le mɔɔ teebul ngbaan aawan mɔmɔk, ni nan ye nsambim, ni mbobim, ni ŋisambijal aan bi joo ŋani ŋisubil aadaan aapiin na.","Nna ndi salama akwuru mwaa tebulu ngwa awa mụọ. Nna nye nsogbu m, na mbo m, na nsogbu jal, ha mbo juo ngalị nsogbu adaghị apị",1.0,0.5045
+556,Le m nan di tibɔr tibaa tii u.,"mụ onwe m anọkwa. Biko, akwụkwọ Izrel anọsa kwa mpunah? Kịga n'ihu, mee ụmụ mgbei nke na. Ụmụ mgbei a na-ede",2.5,3.2727
+557,"Bidim ga kpaan dar baabim mu buen, le ni ga chuu unii mɔmɔk ijawaan.",Bido nga kpaa ndababa umu gi. Leenu ka unu maa ma ije wa,1.0,0.4906
+558,M ga pak u waah ŋa tiwan ni na pu; cha binib bi bi limukl ni na li ŋun aan bisui piir.,Ngappa ko wanga tuwa nna po. Cha bi na be mbele mu na le nwe a be su pi.,0.9545,0.4603
+559,"Ŋitan ngbaan mɔmɔk nan ŋak tɔb la, ŋaah fɔk pu na nan ye ŋipiikeken ŋilole, le mpepeen nan ye lipiikekeln libaa.",Ngatang ba muna ngak tobla. Nga fopuna na ye ngapika ke ngaloli. Lempepe na ye le pikakan le ba,0.9524,0.4045
+560,Bibɔjirb aaninkpiib jin mi tibɔr Jerusalem ponn ni.,"kòp mwen an nan pye karamèl mwen sa a, Jerizalèm ap vole.",1.5,0.814
+561,"Aaronn aajapɔɔn u ga kal waajal pu, ki li ye utotoor, ki ga li koo chain aapepel ni, nnimbiin ni na kan, u di utotoor aawanpeenkaan peen ki ti saa iwiin ilole.",Ero on ajapu oge kalu wa jalupo. Kili ya ututu. Gara koo chain apupelu ne na mbinu na ke. Ude ututu awa pi nka pi. Kete sa iwi ilo,0.9062,0.439
+562,"M nan waa tiwan nibaa si nima; m nan moo lik, kaa bee naah ye tiwan ni na.","Nna, a tuwa nu baa sinima, nna m ole ka a bia na-ayetu wa nu",0.9444,0.3519
+563,"sin le kpa kipak, ki kpa mpɔɔn maabim ngbaan mɔmɔk ni.","Sillak pakapak, kapa mpuama bungwa momo",1.0,0.4524
+564,"U nan jenn nyan bipiib ni bijab bi mɔmɔk nan joo biwon kooh nin chee bi nan dooni ŋiwaa na kitiŋ ngbaan pu, le ki nyan ŋiwaa ŋi mɔmɔk uyaajatiib nan naan naan na.","O na-enye m nyanbe pii na-ebija bu mmomo. O na-enye m bu nkwu na nchie, bi na ndu na ngiwa na kete ngba mku. Leekene ya ngiwa, ngi mmomo. O ya ga-etinye m n'ala na",0.9412,0.4882
+565,"Tɔ, Uwumbɔr nan bii Sodom ni Gomora aatim ki cha mu kpaln nfatan, ki kuln ntim ngbaan aanib.",ta utun da uwan bat nambi sodom atin nai gomora atin kice kafan mfatam kaku ntummo,1.0,0.6111
+566,"Bi nan ti fuu kitiŋ ngbaan ni kinyeek la, le ki gob ki ti ton.",na te fu ka tongbaani kinye la le ku go,0.8667,0.4348
+567,Bima bibaa aatunwanbir le ga kuln bi.,ba ba antuwal atom bari,1.0,0.6333
+568,"Aa yaa lann linimbil libaa, ki kan limɔfal li kaa kpa ndoon na kan, ni soor ni aa li kpa ŋinimbil ŋilee, ki ti li bi mmii mu kaan junn na ni.",,,
+569,"Biŋmaŋmannim ngbaan naahn inyunbun i kaa kpa nnyun na, ki naahn utaal u yun ki bɔln ki joo libuln kaa nu na la.",,,
+570,"Ni kpa mpopiin le ki mɔɔni, le ki chuun ke unaa u bi taa gbaar ŋikalmaan, ni utaan u bi wii na, le saatikpaan na ga ji inimɔɔn ki kpaln tilaar aawan.","na-ekwekwa pin like mwa ni. Leekwa nu nke unu a, unu betaa ngalaba nke almaa niile unu taa, unu wee na-elele ya. A na m atikwaa nu ya geji inu mwa kịkpa ntị larawa",1.0312,0.5263
+571,Bijab bi tun lituln ki gaal lipal na aapal aa fuur bi.,veja,1.0,0.9524
+572,"M yaa ba nyi kan, maa ba ga len kina; ba pu?",Mbinyike. Mabi'im lemam. Babu,1.0,0.5333
+573,"Bikpaluub ngbaan di tikokonbɔnn, ni nsiin, ni timann, ni salmaa aakokonn, ni ŋitanyaan, ki ŋal baawanpeenkaan mɔmɔk.","Nancy, Nethman, Selma Akokon",1.0,0.8085
+574,"Di aaŋaal meeh u nfum mubaa, saan ki gir meeh lelee; saan sunn kijaak ki ga dan na pu.","Di aname u mfu muba, sa nki giri me lele, sa nsu nki ja ki ga da na",0.7895,0.3231
+575,"Le ukpetiib buen u chee ki ti gbaan unimbiin ni, le ki bui u ke, “Ti ye saanaagbiib le ki bi do.",le ukpo ti igbo uche kita gwa unu bi ini le ku bu uke ti ye sa na agwi le ku bu,0.8636,0.3239
+576,"Le bi ki dak ke u ye liwaal la, le ki kpaln unii.",le betoke u yele tengban le kpakpan,0.7692,0.5714
+577,"M puu Uwumbɔr u bi n‑yoonn mɔmɔk na pu ke m ga san paan u pu ki ti kan u chee nibaa,” le ki di siir paan Naamann pu.","Ugbana ubu inwe mmuo na mpu, kee ihe m ga-asị mpa ubu kete ka anyi wuchie na ba? Like the sir mpa na ama m",0.9655,0.6071
+578,"Aa teŋ waasin ngbaan, ki di aaŋanbik tuu nsin ngbaan, ki di ŋa kitork aabimbiln na aamɔju inaa na pu, ki di mu gur na kpir libimbiln ngbaan taab.",A tongwa tongwa. Kede angam bok tu nsogba. Kede ngakotu abum bul na amoju inna napu. Kede mu gurna kwuru lebum bul ngbanta.,0.931,0.4425
+579,Le bi bee ke u ye uwanmeer u nan ka Uwumbɔr Aadichal aabisamɔb nyaan chee na.,,,
+580,“Nyan upihja ubaa ki cha Aaronn ni ujapɔtiib di biŋaal paan uyil pu.,"Nyɛ́ ópja óba, kútja éronnɛ́ ójapáti dé bɛ́ŋalpa óyol",1.0,0.5
+581,ki len ŋijinjii aawansakpenn ni maan ŋmaa bee naatataa na aabɔr.,Klanjenji awansa pe ni ma nwa bi na tata na agbo,0.9091,0.3962
+582,Libupɔpɔɔl aah muk timi buŋɔb ni pu na.,,,
+583,"U nan di salmaa aakur ŋmeen le donn biin paacham, ni isikakl mɔmɔk inaa, ni ŋimɔchɔn ŋinaa, le ki di salmaa aakur ŋa nkuul mann gonn ni.",Nandisarma a kurun mi le don bi pacha ne isika momo inna. Nungmo chan nina leka disarma a kurun nungma,0.963,0.4245
+584,Maah len pu aa chee na mɔk gbii la; ulandaan le aa waa u si aa chee na.,Malumpu achie na mgbila. Ula ndi ale awa usi achie,0.9444,0.3269
+585,U nan chuu kpenn kitiŋ ngbaan chain ke libuul na la; u nan nab ki ke kipeewanbiik aah nae tiwan pu na la.,"Unachukua kiti ng'ambo ya ncha ya kile kilima. Unanunua kiti, kiti ya one week na night one",1.0,0.5926
+586,"U nan ki ŋa laawan mɔmɔk kpee li pu: ŋisambil ŋi bi ga li joo nfatan ŋani ŋi ponn ni na, ni ŋichakpaa, ni ŋisambil, ni inanmoon.","Unu ka nga lawa mọmọ kpeelu pọ. Ngị sị amaghị ịbụghị alụjọ, mụ fụta nga na ngị pụrụ na. Nị ngị cha kwa. Ngị sị amaghị nị ị na mụ",1.1111,0.5979
+587,"Nimi Jakob aajapɔtiib, tiŋ ni tɔb ki nan pel man.",Number Jacob,1.0,0.8421
+588,"Maah nan bi Uwumbɔr Aadichal ni, ni mmeen aadir ni, ni kitiŋ ni na, Juu yaab aa kan mi m kpak unii ubaa kinikpakpak, kaa kan mi m muk unii ubaa.",ma number utunda uwa mbot aduguni ne mmiam adirini ne nkittinini ju ya ta kai me nuba ni at mwa niat kaka mmi mmu unuf uba,1.0,0.5413
+589,"Baadim len le ke, ‘Bi tun Uwumbɔr le titunwanbir, kina pu na, taah ŋa bi pu na aa bir.",Badelele kai. Butun umbwa letu tuamber. Kana puna. Ta nga bu puna ab,1.0,0.381
+590,"Butɔb aajab aayidaan Nebusaradann nan ki chuu Utotoorninkpel Seraya, ni utotoor u paa u pu, bi yin u ke Sefania na, ni Uwumbɔr Aadichal ni aanikpaam bitaa buen tinaagbiir ni Babiloŋ aatiŋ ni.","Bita ajab aidam na busaranda, nan ka cu uta tonin fa seraya. Ni uta to ufa ufu, biyu ke safaniya na. Ni wuma andi kiyani ana kpam. Bita, bwaye tina gwi ni Babylon atun",0.9394,0.3742
+591,"Uja umɔk nan ye Baasa aado yoo bee ujɔ na, bi nan ku bi mɔmɔk.","Oya, ụmụ nnụnụ anyị bịa oji ọnụ na-anụkụ biko.",1.0,0.7391
+592,"Moses nan ki bui u ke, “Dan, taa di timi lii.","Moisés na ka buke, dai ta detemeli.",1.0,0.3871
+593,"Upeel, bee kiwakork yaa ku unibɔn kan, bi ku ki.",UPL Bank wakkori ya ko wuni banke.,1.0,0.5
+594,"Naa teer taah nan ŋmɔ lipulaajil, ni gariba, ni tigaribafar pu na aa?",Naa cher taa na nwal pul a jel na gariba na ta gariba farpuna.,1.0,0.2593
+595,"Tɔ, kitiŋ ngbaan aanib aaninkpel mu nan bi.",A na m kpọlụ unu na,1.0,0.7353
+596,"N‑yoonn mumɔk u choo nnimbiin ni na kan, u li pee kibiŋ aakekengeŋ ngbaan, nima kan, u ga ŋmaa bee maageehn ki tuk Israel yaab.",Onye na-eme mma ochu n'ime unu na-aka ya? O lepee ka mma aka ka mma gba na maka ya o ga-ama bee ma gi nke tuk Israel.,1.0,0.5102
+597,"Aa nyi nin chee ti ga ti kal nteersakpiin ni na, aa ga ŋmaa mɔk timi nsan.",Anya n'uche gị ka uche zaa kwụm nụ na. A ga m a mụọkwa gị nsogbu.,0.9412,0.6071
+598,Le m ban ke m ŋmee kigbaŋ tii maaninkpel ki tuk u Pɔɔl aabɔr.,"Nne m bae, nsogbu adighị. Kedu ka ị mere? Kedu ka Paul agbọghọ",0.9286,0.7447
+599,"U nan tun Uwumbɔr titunwanbir ke Jeroboam u nan puen u jin nnaan na aah nan tun pu na la, le ki cha Israel yaab mu tun titunwanbir.",Unanti umgbara tutua mbrike yorobiam. Unanpwi uji nnaana. Anantu mpu nala. Lekicha Izraya motui tutua mbri.,1.0,0.3627
+600,"Bi gbiin ŋiyataŋak aah len pu na ke, “Ubɔja gir ki ti jin waawuln la.",Lille mballe ka na lle mane nga iba mwoi ke ke bok jijit ke ji uwulu,1.0667,0.8077
+601,"Buyoonn Uwumbɔr kan ke Moses ŋɔŋ mmii ngbaan chee na, le u yin u mmii ngbaan ni ke, “Moses, Moses.",Bụ ya onwe ya bụ Moses mụọ ụmụ nwoke na. Laa ụmụ ya nwoke. Moses,0.9,0.6351
+602,"Le m baa ke, “Uwumbɔr, ba ŋa kitiŋ bii ki kuur ke nteersakpiin na, le ubaa aa ki chuun nima chee?",Nne m ba ke? Ụdị ụmụ ọrịa? Bịa nga ka m tinye gị kụkụọ kee ntị e sa kpọị na. Leebụ a aka chụọ nụ mache,1.1429,0.5556
+603,"Taa cha binib bi nan mi fam na laa mi, maasuubiin pu.",ta chabina binna me fam na laami ma suubi,0.8333,0.275
+604,"Linyaŋ nyani Uwumbɔr chee la, u ŋa waanyoor ŋa waanib pu.",Lonyang'anyane ombar chiela. Ong'awanyo ong'awa nopo.,1.0,0.4444
+605,"Ubɔr Asa aah nan ye Juda yaab aabɔr pu na aabileler ponn ni, le Ubɔr Jeroboam aajapɔɔn Nadab jin Israel aanaan, le ki joo waanib ki ti saa ŋibin ŋilee.",Ubochi ahu ana nye Judah ya abawarpuna. Abali ole na ole ka ubochi Jeroboam ajoo pa ana daa ji Izraela ana. Lekwe jo wa na tisa,0.9333,0.479
+606,"Ahab nan baa waaninkpiib ke, “Ba ŋa taa pɔɔn tibaa ke ti gaa Ramof aatiŋ ki bi Gilead aatiŋ pu na Siria aabɔr chee?",na Siria agbanyere,0.9167,0.8652
+607,"Mbiin mu aa nan di ŋa Lebanonn aachook na ga gir ni aa pu, le saah nan ku tiwakor ti na ga cha ijawaan chuu si, ba pu?",Lebanon,1.0,0.9205
+608,"M tuk nimi mbamɔn la, baah ga moon tibɔnyaan tee nin chee itingbaan mɔmɔk ni na, bi ga len waah ŋa pu na ke binib li teer waabɔr.",ngbe nm ibam nla gba imwan tbon nganni na ya iti ngba bia ni bi nle wa ngamanla ke bi num fop letia uba,0.9286,0.5455
+609,"N‑yaayoonn na, aa nan cha tiyaaja Ubɔr David len saabɔr.",Anan ce tiya ja u buat David Lin Ali.,0.9,0.5455
+610,Le Josef cha Ijipt yaab aadɔkta tiib ŋa uwon baah ŋani pu aan linikpol aan bur na.,Na Joseph cha Egypt ya a doctor tinye n'owei ba n'anupu ahali na kwal ahali buru nụ.,0.9412,0.5385
+611,"“Aana aabo yaa ŋa si bakaa kan, pɔɔn aabaa ki buen ti kan u n‑gbaan suuna ki tuk u waataani.",na abughi galu nke bu aba ka ijo ka dakaa mgbe soro ka gbuo ugalii,1.0,0.7101
+612,Bi pu le binib ga sii mbamɔn aasan na.,"Bà Bù, lẽ bìn fọp l'esuk mbamọm asàm.",1.0,0.6552
+613,"Nima kan, u ga di Gosenn aapepel tii nimi.",Nema ke. O ga de gosin a pepele ti ne,1.0,0.4062
+614,"Waaninkpiib le nan lik itaan i nyan ni Musri, ni Silisia aatim ni na, ni itaan aatɔroku tiib bi nyan ni Ijipt aatiŋ ni na aatuln.","Wani ƙpilenan loki ita, inyani Misri ne Silisia atin nena. Ne ita aturukoti binyani Egypt atin nena atun.",0.9615,0.3267
+615,"“Moon ki tuk Israel aanib mɔmɔk ke bi li joo ni olif aakpan mu ŋan mbamɔm na, aan ni li joo seer karyaa kijoobɔŋ mɔmɔk.",Moketuk Israel anu mọmọ k'ebili jọne olif akpa m'nga mba m'amna. A n'eli jọ sir kaya k'ejọbọ mọmọ.,0.92,0.3804
+616,"Waah nyan ki cha na, le waadidiliib dan ki nan mɔk u, “Lik Uwumbɔr Aadichal aah wiir pu na.",wa anyi ka chai le ubuonu di ka na nwa o le utunda uwa mbot a di ubu na ka ya,1.0526,0.6522
+617,"Paacham pu, le ni beer ke utaal ga nu aan waan nu.",paa buum lene biyar ke uta lenu be waynu,0.9167,0.4595
+618,"N‑yoonn mɔmɔk m nan chaa mmeen aadir ni ki ti dar bitafal, ki mukr bi ke bi sii Yesu.",,,
+619,"Le Josia bui ke, “Cha li li bi laah bi pu na man.",Nna m jụọ gị a bụ ịke? Chelu nụ biko na abụ m,1.0,0.7353
+620,"” Nima pu na, Uwumbɔr nan kpeln waalandak, le kaa ki daa bitafal waah nan dak pu na.",Nma pụna. Ụmụ nwaanyị kpọrọ nwaala ndị. Leekwa ka ịdịrị gị mma na ndụ pụna.,1.0,0.5397
+621,Israel yaab aanibol kipiik ni ŋilee ŋimina le nan ye Jakob aabim.,Isra'ila ya auna bulk pi na ngalle ngam na na'i je Jacob a,1.0833,0.4906
+622,"Baah kpa lipobil pu na, le ni gar bininkpiib ngbaan.",Baju le poble le ne gat,0.9,0.7073
+623,"Le u di ŋitakpapapan na di lii lijool ngbaan aataab, le ŋi wii.",Lô d'ngơ tăk pơ păn na đơ li lơ jơng ba ơ tăp. Lơ ngơ wì.,1.1538,0.6122
+624,"Ni yaa laa bi dandar kan, ni gbaan kitiŋ ki doon mi.",Niyala bida ndarke. Ngbankitun kedu,1.0,0.359
+625,"Le Hagai bui ke, “Uwumbɔr bui ke litimbol limina aanib bi kina le unimbil ni.",le ha ga buike unu gbaruo ike lutuo mgbo lemee na anoff bukena le unu mbili,0.9333,0.3667
+626,"Tɔ, maatutunn Kaleb aabimbin bi mubaa; u si nchaŋ ni mbamɔm.",Afo ole ka ụmụ Izrel nọ n'Ijipt?,1.0,0.8085
+627,"Baah kan liŋmabil ngbaan na, le bi kpa mpopiin sakpen ki mɔɔni.",Bana kam bumma bumma ne. Ku fuuna mpan pam. Muna ga yallan ka,1.0833,0.74
+628,Uwumbɔr bii ŋinibol aalandak la; u cha baa ŋmaa tun baah ba dak pu na.,Umuaka bi na obodo ala nda la. Umuaka na-atum ba abata oputa,0.9333,0.4444
+629,"Unii u kaa ŋeer ke u tun lituln ngbaan na yaa dan tiwan ni m ŋa ni chain na chee kan, u ga kpo.",Onye ụka ngị ka ọ tụrụ tụrụ mgbe a na-adịghị ntụ anụ. Ụgha,1.0,0.7429
+630,"U nan di ligagaar gbaa ki ŋa tiwan ni pu karyaa tiib tɔŋni na, ki naan nsupuun dab ni pu, aan ni ŋa tiwanbaan.",Nandili gaga agba k'ngatuwan n'pu k'arya tibtong nina. K'na insu pu ndaw n'pu. A n'ngatuwan ba,1.0,0.2857
+631,"Juda aaninkpiib ni baajab bi kaa nan di bibaa tii Babiloŋ yaab na aah ŋun kina na, le bi buen Gedalia chee Mispa aatiŋ ni.","Judah anaghi enweghi ndi banye, bika na ndi bịara ti Babylon ya na anwu nke na na. Lebu kwa ya na ge deeli ya che",0.92,0.5208
+632,"Bi nan di ŋitan ŋiŋmu le ŋal dab tɔb, le ki di ŋiloob mu ŋal dab tɔb, le ni ŋa ŋikeken ŋilee.",,,
+633,"Nimi le nan di Yesu kooh, le ki yii u Pailat chee.",le lanta isa kakuwar le ke yu palet,0.8333,0.6486
+634,"U nan di lisiijal aadɔ le kpii idɔ ngbaan, ki donn salmaa aakur biin i pu.",O na-adị mfe iji aka dozie ịdọngba ka dọkịnta Salma akwụsị ịṅụ,1.0,0.6491
+635,"Libinbaal ngbaan aaŋmanaa aawinwae daal, buyoonn nkon nan ti moo nyaŋ aan binib aa ki kpa nibaa bi ji na, le bi nan tur kitiŋ ngbaan aagon lir.",lebe mgbe angba anwa na awu nwe da bu yuonu kwa nna nti mu ya bu nu akukwọ n'ebe abịjị na lebe na ntị kịti ngwa agwa,1.0,0.469
+636,"Obadia aah nan cha na, le u ti kpaan di ton Elaija nsan ni.","Obadia ana ncha na, lee utukpa di ton ilaaja nsa",0.7143,0.25
+637,” Bi nan len kina le ki yii u.,ኢዲ ያንኒ,1.0,1.0
+638,Le Ijipt yaab mɔmɔk nan di iwiin imonko itaa ni kipiik ŋa waajan aakpuul.,Na Egypti a mụrụ m. Na ndị Iwi mụrụkwa ya taa na-ekpe ịrịọ ajọọ akụkụ.,1.0714,0.661
+639,"Solomonn le nan gaa ute David aanaan, le waanaan aapɔɔn nan nyal sil kib.",Soro mụ ole na nga wete David Ana. Lelee wa na akụkọ a na nyalsị,1.0,0.4138
+640,"Tii timi nsan aan ti buen Jɔɔdann Aamɔɔl ni ki ti gaa idɔ, ki nan maa kpee timi aakookoo yaan pu.",Kedu ka m ga-esi agha nti bụrụ? Gi na m ama na ikiti ga-idọ. Kedu ka m ga-esi akwụ etu m akwụkwọ ya?,1.0952,0.6667
+641,"Kina pu le Israel yaab aabɔr mu nan sak waanib bi koo nima chee na, le bi nan gor ki kii bibaa.","Kano pula Israel abor muna sakwane, be koni machina. Lebi nangor kiki be",0.9545,0.3056
+642,N‑yoonn mu bima ti fuu nkakaa chee na mui bi ki gaa Uwumbɔr Aabool ngbaan a.,"Ndi be anyi, unu biko matu fu nke a ka achi na. Mu onwem bu ka ga umu nwa abuo ngwa na",1.3125,0.5593
+643,"Uwumbɔr di kina aalan ki di tii u ni Ahisamak aajapɔɔn u bi yin u ke Oholiab aan u nyan ni Dann aanibol ni na, ke bi di baah nyi pu na mɔk biken.",,,
+644,Ti nan ye binib ikui ilee ni imonko itaa ni kipiik ni biloob le buŋɔb ngbaan ponn ni.,Ke na ya binu mfo kowele ne binu mfo pilele ne mbelu. Le be bie,0.9444,0.7463
+645,"Ubɔr Rehoboam nan ŋa tikumann aapen le di leŋ ŋima ngbaan aaleleŋ, le ki di ŋa bininkpiib bi ye bi kii libɔrdichal aabisamɔi na aaŋaal ni.",Obuara obuam na nga tukuman ape ledi len ngima gba alilen leke dinya binin chi biye biki lubadi chen abisa moyina angani,1.0,0.3604
+646,"Saah nyan ni timi Ijipt aatiŋ ki kpa nkpan ni n‑yaan, ke aa nan ku timi lii nteersakpiin mue ni na, naa ŋeer aa?",Sanyannetu me Egypt atun ka kpa nkpa ni ya ke ana nkwetu me li ntesa kpe mwe ni na na ngira,0.7917,0.3882
+647,"Le u baa bi, “Ŋma aanaŋ ni liyimbil bi li pu?",le ugam mma anaa na oyili be bubu le bu gbuo sisa ya le bu gbuo na ma,1.5455,1.0938
+648,U di ni mɔmɔk ki di ŋa bu ponn ni Uwumbɔr aah nan bui u pu na.,"Udinimomo, kedu nga bu Pone? Unu mbo ana m bui unu",0.8824,0.4222
+649,Saah ban ke m li ŋani pu na bi Nkaal Aagbaŋ ponn ni la.,"Sa bankan lun ana puna, bun kal agbon punela",1.0,0.3902
+650,"Bi ponn ni ubaa aah bi gaar busub bubaa na, le waachɔkbim finn lir nnyun ni.",Mepụta ụba Abigail masịrị ụmụ nwanyị. Leewá áchọ̀ bị m fịn nri nri,1.0,0.661
+651,"” Le kina sil kan u, u nan kpo; binib le nan taa taa u pu kitiŋ aabisamɔb chee le u ti kpo.","Lele asaa garu kee, aga kanki na bu ngari. Lele ama ante eji tiji ka ngba nti ba. Lele kino sirika u wuno nkpo bu nu le no ntata upu ukitin abisa moche le utukpo.",1.5,1.2154
+652,“Li pel man aan m tuk nimi unii u yaa njikaabim na aayataŋakl aatataa.,lebel mai ngbe nnum wanya ndibe m ali m belu atar,1.0,0.6364
+653,"Bibaa nan tooh ni timi Apius Aanyaŋ ponn ni, le bibaa mu tooh ni timi Tidir Daakaan Titaa na chee.",,,
+654,"“Titunwanbirdam koo maanib chee, ki doo kiir ke bijab bi di gaawɔb mam pen tinann na, le bima pen gaawɔb mam bi chur binib na.",Tituwamiridam ko ma nebce. Kido kirke mbeja bidi gawa mampen tinana. Lebi mampen gawa mam be curu binem,0.96,0.3061
+655,Inaŋ imina le u nan di tii bi: “Cha ti li ye maantɔtiib ke titetiib aah nan bi pu na.,Ime na-ele unu na-eti mkpu. Cheta na ihe m na-atọkwa gị bụ tetetiv. Ana m ekpe,1.0,0.619
+656,"Kina na, binib bi mɔmɔk kii saamɔb na yaa bi tibɔr ni kan.",Gudana. Binu bima moki sa muna ya betu boru nika.,1.0,0.4091
+657,"Waah nan ŋa Betel aatiŋ ni aatork aabimbiln pu na, kina le u nan ŋa ŋibimbin ngbaan mɔmɔk.",Wannan abun da a tura abun binpuna. Kana la'akari da abun binpuna a momo.,1.0,0.507
+658,tibɔr tee pu le m ga puu tipuur tii sin ni Israel yaab mɔmɔk.,Teboteo puleng ga putu putu se ne Israel ya momo.,0.8571,0.4255
+659,Ŋma aan aa kpiir mɔk ke u di tuk biken na?,Maa akpirim oke udi tuk bekee,0.9091,0.3871
+660,"Unachipɔɔn ngbaan aah ŋun kina na, le ni ŋa u mpombiin; ba pu?",le,0.9231,0.9574
+661,"Ubɔr Jehoyakim nan gaal binib lampoo ki ŋeer baakpal la, ke u gaa ŋimombil Ijipt aatiŋ aabɔr aah siin pu na.","Onye Jehova kim na nga abinm na mpo kim nyere ba kpala. Ke uge anyi mọ mbụ Egypt atụ abọ, a si m",1.0476,0.4535
+662,Kina le Nite Uwumbɔr u bi paacham na aa ban ke bibilb waatiib ngbaan ponn ni ubaa wɔŋ.,"Mọm, le mba otu nda ụbọchị ụbọchị abụọ. Ka banyụọ ka mgbe afụ m mọm apụrụ m ụba mgbede.",1.0,0.8235
+663,Nibaa aa bi tiyil ponn ni; taa nyi taah ga len pu na.,Nba abeti yiliponi? Tanyi tangalempu,1.0,0.3333
+664,"“Kinyetaasiik le bi ŋun bi teen mpɔɔn pu ke, ‘Upiidinn choo.",que,1.0,0.9565
+665,"“Sin le ye Maabo, din wee le m ma si,”.","Ndi nne, lee unuwa m bu nnukwu anu m nke a ga-enye",1.1,1.12
+666,Njikaabim mu lir nsan ponn ni na le na.,Ndebbam monlu nsampulenni leye.,1.0,0.6
+667,"Jehoyachinn nan dii ute aasan, le ki tun Uwumbɔr titunwanbir.",Je vous invite à une réunion le 12 novembre,1.0,0.74
+668,"Taah nan bi bu ponn ni na, ni nan yunn le taa ŋmaa kan nwiin, kaa waa ŋiŋmabil mu, ntaalangbam pu.","Taa be, ku ngong we ya bulu ne. Ngonang yud ta ga ngwe. Ta ga i ma bulu mu.",0.9524,0.7027
+669,Le u cha bi ponn ni bi ye bibum na pɔɔk.,le wutep bu polen banye ba baade,0.9091,0.6207
+670,Libuul ni le Ubɔr Joram nyan Samaria aatiŋ ni ki kuun waatɔb aajab mɔmɔk.,"Le bu ne le uba Joram, nye Samaria atụghị nụ kwụwụ wa top ajọọ mmọọ.",0.8571,0.4746
+671,"Ubiindaan kpokl ki ban uninyaan la, le ki lik u ni kinanaŋ.",obi ndankpo ka unu nyala leke logu na kena na,1.0,0.3696
+672,"” U laa bi len kina, le ubɔr kpaan fuu ni ki nan bui ke, “Uwumbɔr le cha tibɔbir timina dan ti pu.","Gulabe nkem na, le ubochi kwanu fu ni, kene m bu ike. Umu mgbe ole cha tupu eberete m na, daalu",0.9091,0.4648
+673,"Le Nowa nan nyan upuu, ni ujapɔtiib, ni ubipuutiib bu ponn ni.",Nnwa na nne anyi Opu na Ojapoti na Obuputi bu,0.9167,0.5208
+674,"Tii bi nibaa aan bi ji ki nyu, ki cha bi gir li cha baabɔr chee.",Tu peux me dire combien de temps il te faut pour préparer le repas ?,1.0,0.9574
+675,"Le Elaija bui ke, “Min baanja le gur Uwumbɔr aabɔnabtiib ponn ni ki fu, le liwaal Baal aawaadam ikui inaa ni piiŋmu beenin bi.","Le ilo aja bu ike, mmba aja le guru umu abali otu ipone kifu. Le luwa baa awa dam ikwe ina ni pinwu bi na m",0.9583,0.3737
+676,"Uja ubaa mu nan dii timi, bi yin u ke Aristakus.",पूजा उबा मुनवाथम बेयुकै अरिस्टाकस,1.0,1.0
+677,Unibɔn mɔk kan waah tun pu na; le ti tee ga li si dandar le ki lik.,Let's take a listen down the,1.0,0.7959
+678,N‑yaayoonn na Uwumbɔr nan cha waabɔnabtiib tuk tiyaajatiib waabɔr ki di tiwan aabɔŋ aabɔŋ ŋaŋ waasan.,"ya yayi, u tunda uwan bat, nan ce ulin lim, biya tiya jam uliye. Keta tuwan abuli abuli, kaman usan",1.1875,0.619
+679,"Tinann ngbaan aah nan gbii ni kookoo, aan bi beenin ŋmɔ na, le Uwumbɔr aaŋuul nan fii bi pu, le u cha iween dan bi pu.","Tụ na ngwa a na-agbị n'okuko, a mgbịbị n'ụmụ ala, lewụ mbọrọ a ṅụrụ na mfi bụ pụ, lewụ chaa ewee dam bụ pụ.",1.0,0.5056
+680,Uwumbɔr ŋa tinyoor ŋa unii u choo waayimbil ni na pu.,wombat anyi wa be wancha tiddaw wombats anyi na mbu i,1.0,0.7381
+681,"Le u dakl ke, “Nimina ye lijinjiir aawan la.",Na wudda ke ni muna yale jinjii a,0.8889,0.4848
+682,U nan ye Elaija aateter la.,Onye ịje Elijah ateteela. Lee ụba Jehoshaphat bu nke a. Onye ụmụ abụọ na-abụ abụ,2.5,2.381
+683,naa len ibamɔn m pu ke maatutunn Job aah len pu na.,"N'alili ibama mpụka, m atụtụ njọ n'alili mpụ",0.9167,0.5385
+684,U dan ke u nan tuk binib nwiihn ngbaan aabɔr la.,"Ude ke unu gwa ebido m fu, unu wee muo agbalo",1.0,0.7027
+685,"Tɔ, ba ŋa saan ŋmaa buen ki ti finn aabaa waah bui si pu na ki pɔɔk?",Banga sanga ma bwe ke te fin aba wa bwe sipu na ke pu,0.9412,0.46
+686,"Le Elaisa bui u ke, “Li cha aaŋeen aatɔtiib chee ki ti pinn ŋikpasambikuun ŋi mɔk aa ga kan na.","Laila Sabo UK, lecha anen atotiche ke te pen ng'kwasom beku ng'mo agakan na. Le ani ajapoti ko nemi, aricha ni kedi mbisamwa lan ke pen ke lkwar nkwan",1.4,1.1233
+687,Ŋijoo ŋi bi n‑yoonn mɔmɔk na wur la; le n‑yoonn mɔmɔk aagongon na mu ber lir kitiŋ.,Kedu ka ịbụ? Ụmụ mọmọ na-ewurula? Le ụmụ mọmọ agwọ ngwo ị na-amụ bụrịrị ketị.,0.9412,0.6667
+688,"U ni upuu Asenaf, u aate nan ye Potifera u nan ye utotoor, aan ki nyan ni Heliopolis aatiŋ ni na le nan ma bi.","Onye upu asi na o ataghi ya Port Harcourt, o na ya uto tuo. A ka ya na Heliopolis atighi na ya, le na ma",0.92,0.4819
+689,"Le u gar u ke, “Uninkpel, maa buen nibaa.","Nnewi North LGA, Nnewi North, Ma bụ Enugwu Ukwu, Uja mgbe",1.2222,1.1724
+690,Maa nan nyi maah ga ŋa pu ki bee tibɔr ngbaan na.,"Maa nanyɛ, maala ngam. Wee ke bi'e ti bɔdɔm.",0.9167,0.5405
+691,"Waah fuu ni na, le Tetulus piin ki bi bii u, le ki bui Ubɔr Feliks: “Timi aaninkpel, ti pak si.",wafo ni,0.9524,0.9275
+692,"M ga tii si ŋisubil aasui aasaak ki ŋan jer kina na; aa yaa ti ki gee kan, m ga pa si kidaak ki ŋan na.",Nga tisi ngosubir aswi asa ka nga njer ka nana. Ai atiki ge kai nga pasi keda ka nga,1.0,0.3467
+693,"bi yii, kaa ki dii u ki suln waakaal mɔmɔk.","Biyu, ka ka ji u, ku sun waka ma",0.9,0.4688
+694,"Solomonn yii maamɔb; u tun mi taani, kaa joo maakaal, ni maah bui u pu na, ke ute David aah nan joo pu na.",Soro m wee mee mmemme otu m ntị anị ka m jụọ maka na m abụghị upu na nke Ute David ana m jụọ,0.9583,0.4872
+695,"Bi nan di lisiijal aadɔ le ki ŋa idɔja inaa, ki donn salmaa aakur biin i pu, le ki di salmaa aapigɔrkee di ŋmaan chuu likekeln ngbaan ki yakr Libool ngbaan nfum mulee.","Nandị isi jịlụ adọ, lekene ịdọja ịna, kedụ onye Salma akụrụ bịa ịpụ? Leke dị Salma apịgwarụkị, dị mma chụle ka kalịngwa, ka yọlụbụ ngwa ịfụ mụlị.",1.0,0.5152
+696,"Ŋmalee aawiin moninko ni ilole daal, le kitiŋ kuur ni kookoo.",Malle awi mbonu nkone ilole da lokoto nkuru nkoko.,0.9091,0.3878
+697,Pɔɔl aah len ke u ban ke Ubɔrkpaan Siisa ji waabɔr pu na.,Agambol lampa pille namuno,1.0,0.8182
+698,"Maabɔbil mɔmɔk ye ibamɔn, le m len ibamɔn.","Nna na nne, ịbụ amara.",1.0,0.8485
+699,"Job, sil siib, ki pel; dakl lik lijinjiir aawan ni Uwumbɔr ŋani na.",Dans le,1.0,0.9412
+700,"Baah fuu ni na, le Festus tuk binib ke bi li joo ni Pɔɔl.",bafo ni ya ne le Festus Gbie binu fokae bele juo ni mpo,0.7857,0.5238
+701,"Ti yaa gaa Uwumbɔr ki kii kan, naatataa le ye ke ti bee ke ti ga sil kan tiwan ni ti kpa limakl ke ti ga kan ni na.","tiga, utunda, uwan bata, kice kai nuta'i, layya kai ta biya kai, ta suluk kai ta wan, tanjuwal mal kai sulukanti",1.0,0.6235
+702,"Bi nan bui ke, “Uwumbɔr cha Moses baanja le nabr waabɔr aa?","Benumbuke, umunwa cha Moses bajali nna wa agbara.",0.8333,0.4
+703,"M tuk si waayimbil pu ke limaln bee utaal aan ki juu kitiŋ pu ki ti saa ŋibin ŋilee bee ŋitaa, see m ti bui u ke u nu.",,,
+704,"nitafal aah pɔɔ pu na, nibaakan m ga ti kuln nimi nsan ni.",Neta fala apua puna. Nba kan ga tukunu min sanne.,0.9231,0.2727
+705,"N‑yoonn mɔmɔk kan, ni ni biwɔwɔm mɔmɔk li ŋani kina.","Ndi unu mma mma o. Ndeewo unu mma mma o, unu anọkwa",1.2,0.7
+706,Ba ŋa ni dak ke Uwumbɔr aan ŋmaa fikr binib nkun ni?,Banga netoke utinda uwo mbaraka mufi binumfop nkumu,1.0,0.725
+707,"Taah nyan nnyun ngbaan ni na, le bi tuk timi ke bi yin lidikl ngbaan ke Malta.","Tanye, nyim ma yane, le bu getim ke nyim ka len ka tinga mom, ayin ye ma",1.0,0.6833
+708,"Binib bi pɔɔ na, ni bi kaa pɔɔ na mɔmɔk pɔɔni bibaa ke bi di beebee le kan ŋimombil.","ne bepo ana ne beka po ana, momo po ana beba ka ebe di bebe le ka ngwa m",0.9474,0.4844
+709,"Tɔ, Moses nan gaŋ Udindaan Uwumbɔr le ki bui ke, “Uwumbɔr, ba ŋa aa cha saaŋuul fii saanib pu sakpen kina, naa ye saapɔɔn sakpiin pu le aa nan di nyan ni bi Ijipt aatiŋ ni ii?","To, mosis na ngan odin da Umbar, lokobu ike Umbar, banga acha sa ngul fisa na pusakwenu na. Na ya sa pwan sakwi mpule ana ndi nya nebe Egypt atun ni.",0.973,0.3459
+710,’ Bi nan kii tii waah siin bi pu na.,"Bụ nani chere, kedu ka ị si wee wazie malụ nna",1.2222,1.0
+711,"Idaa mɔmɔk kan, aa ti kɔr unaaja ubaa ki toor chapinn aatork.",Ndi mọọmụọ kee? Atikwara unu aja uba. Kedu otu ọrụcha pen atụ,1.0,0.5833
+712,"M tuk nimi mbamɔn la, Uwumbɔr aabɔnabtiib pam ni bininyaam pam nan ban bi kan naah kan tiwan ni na, kaa kan.",ka kai,1.0,0.9405
+713,"Le ukpaal ngbaan aatutum dan nan baa u, ‘Timi aaninkpel, saa nan di ipui i ŋan na le di yaa saakpaab ni ii?","le o pa nụ m, a tuọ ntụm daị ka nọmba gị. Tinin fọlọ, nyana ta ịdị ya nganị le ka ị ya akpa bụ nnà.",1.0435,0.6173
+714,"Bi yaa nan chuun cha kan, bi nan paa tɔb pu kina la.",Bia na Chukwu chake. Bịna ụlọ ọgwụ na,1.0,0.5789
+715,"Le min Uwumbɔr aah len pu na le ye ke ni ba tee ŋmɔ ti mɔmɔk kan, ni soor.",na me umor alom puna na ya ke na bata nmo tuma moka na neso,0.8947,0.5185
+716,"Le Serubabel, ni Utotoorninkpel Josua, ni binib bi mɔmɔk nan nyan ni tinaagbiir ni Babiloŋ aatiŋ ni ki gir ni na, ŋa Bidindaan Uwumbɔr aah bui bi ke bi ŋa pu na.",na otu tonu kwa Joshua na be Nebuchadnezzar na nyani tinagwiri ni Babylon atigini kigiri ni na nga be binda umbor abui bika nga,0.9062,0.5159
+717,"Uwumbɔr aatuuntiib kpa mpɔɔn ki jer bi, ki mu aa galn bi, kaa seei bi Tidindaan aanimbiin ni.",amala kam jụọ mpụọ kee jọ mba kee mu ka agara m bịa kee ebe te din daa anụ mị,1.0556,0.6575
+718,"Nima le cha u kpa mpɔɔn, ki tun lijinjiir aatun.",Mambu leche ujuo mpuo kutu ngaram atuo.,1.0,0.5946
+719,"Le Uwumbɔr bui Moses ke, “Bui binib ngbaan mɔmɔk ke bi siir foor Kora, ni Datann, ni Abiram aadichal chee.",Ndi umu nna bu Moses ke? Gịnị bu nu ngwa amamọkọ gị si na Data na Abiram adịghị alọta? Le Moses na Israel ga-abịa ịdam dịbu na Data na Abiram,1.4,0.939
+720,"Cha liwaal Baal aawaadam ikui inaa ni piiŋmu na, ni liwaapii Asera mu aawaadam ikui inaa bi Upiibɔr Jesebel kpiini bi na li dii ni.","Chineke mere ka anyi hu ubochi taa, anyi na-ario gi ka i noo na ndu, na-ahu ahu isi ike, na-enye anyi ubochi di ndu.",1.0,0.7333
+721,"tibɔkpiirkaan ngbaan aayoonn aa kee ŋeer ke ti gbiin, ti ye ndoon aabɔr la, le ki ga dan mala ki nan gbiin kina.","Tụba pụrka ngwa, ayọrọ m aka nyere kee ti gị. Tụe ndụ agbarula. Leekịga daị mala ke na ngwị ke",0.913,0.5172
+722,Ulandaan mɔk ga sil kii mala; unii umɔk kpa nlan na yaa ŋun maah len pu na kan.,O nụ ndụ mụwa siri ike mara. O nị mụwa kwa nle na ya anwụghị. Ma na mụ na nke,1.0,0.6333
+723,"Ni taa cha binib ngbaan li bi nimi aatiŋ ngbaan ni; ni yaa ŋa kina kan, bi ga cha ni tun titunwanbir m chee.",Nita cha binungwa libinimi atungwani. Niya ngaki nake. Bugacha nu tuntutu wa mbe nchi.,0.9583,0.3171
+724,"Le bi nan ŋa kina, le u diŋ ki siir cha, le ki nan paan Uwumbɔr aabɔnabr u nyan ni Juda aatiŋ ni na pu ki ti kan u, u ka likpaln aasub bubaa taab.","Laban akana, la udung kasircha, la kanam pa umbor aboror, unyan Judah atingna mpu, kiti ka o, okalukpan asubu baata",0.9714,0.3611
+725,"Amonn nan bi ke ute Manase na, le ki tun Uwumbɔr titunwanbir; u nan taŋ ute aataabuu ni la, le ki dooni ŋiwaa ŋi ute nan dooni na.","Amon, na m ka ute mana asi na lekute mgbe otutu wa mbiri. Una ntan ute ata bu unela. Lekudo nu gi wa ngi ute na ndu onu na",0.8929,0.3232
+726,"Libuul li m di tii nimi ni niyaajatiib na, m ga ŋa li ke maah nan ŋa Silo aatiŋ pu na.",Na bule na di chi na me nu na ya aje ti na. Nde ngali ke ma na nga si lu atu mpu na,0.9524,0.4219
+727,"Abraham aapuu Sara mu nan tii Uwumbɔr naadii, nima le nan cha u kan mpɔɔn ke u dek lipuul, buyoonn u jer timar na.",Abraham,0.9583,0.9205
+728,"Ubɔr Baasa aah ŋun tibɔr ti bi ŋani na, le u siir cha Rama aatiŋ aagon aamaam, ki buen Tirsa aatiŋ ni.","Obarisa, agwim gwa tubim ana na le usiri cha rema atun agwim ama. Kubem tirisa atun",0.8636,0.4872
+729,Ni dak ke ni ye tibaa aapɔɔn le cha uja wee pɔɔk aa?,"Nous tous, que Dieu te vienne en aide, à toi et à moi, le jour du jugement dernier.",1.3846,1.2821
+730,Aa nan jak saataan ni yaatɔroku tiib bi ye linyaŋ yaab na.,ana njosa tani ya torokoti biye lenya ya,1.0,0.3696
+731,Nibaakan bibɔrb bitaa ngbaan ga li jan biŋmeen ni le ki ku tɔb.,"Ndi be anyi, ka m buru m bido ngwa, gịnị ji anyị bụ nwere kukota?",1.1538,0.68
+732,U nan bi Uwumbɔr chee ki nyan ni mpiin la.,ututuoma ututuoma,1.0,0.8438
+733,"Bi nan di salmaa ŋa ipigɔrkee piiŋmu, ki di chuu iŋminsarkee ngbaan dab tɔb aan ni ŋa likekeln libaa.","Bụ n'ụbọchị Sọnde mụ na ịbụgharị keepụ mụ, kedụ ka ị nwesaara kee ngwa ndabtop? A na m arịọ ka ka mụ na gị",1.2632,0.7037
+734,Upii ngbaan nan ye Uwumbɔr aabɔnabr le ki koo baah laa maa Jerusalem ponn ni ŋidichapɔɔn lipepel li na ni.,"Otu mgbe a na-enye ụmụ agbọghọ na-elekọta baara ma jọrọ saala mponi, nyerechaa pụa na pepelu na",0.95,0.5581
+735,U chur unibɔn aatuln siini; u mɔk bi waah ga ŋmaa tun pu na la.,"Wodee wunubua atunsi ni, umuobi wanga nwa",1.0,0.5532
+736,"Ni li ji tiwan ngbaan, chain aapepel ni; bijab baanja le ga ŋmaa ji ni.","N'elechi etu a ngwa, Chineke apupela ni. Be joba njere gi ngwa jene.",0.9333,0.537
+737,Libuul ngbaan ni le libuln ŋmin.,,,
+738,"“Ni li ji Ndipɔndaan Aajim n‑yoonn mu ni piin ki bi chee njikaabim na, ki li ji Tikakar Aajim buyoonn ni ti kuun tijikaar doo na.",Na leje ndu panda ajim. Nyo muna piye ke beche nje kaabna. Ke leje teje kar ajim. Bonjo ne te kun teje kar dona.,1.0,0.39
+739,"Amonn nan ye ŋibin moninko ni ŋilee aanii le ki jin Juda aatiŋ aanaan, le ki koo Jerusalem aatiŋ ni ki joo waanib ki ti saa ŋibin ŋilee.","Ammon na ye ngi bi, mwan nko ni, ngile ani le ki ji Judah atin ana. Lekuk ojorisalam atin ni ku jowa ne kiti sa ngibe ngile",0.8929,0.3458
+740,"N‑yoonn mu u chuu kpar kigbaŋ ngbaan na, le bi mɔmɔk fii sil paacham.",mu uchu kpar ka gbangba na lebu mma mma ofis pacha,0.7857,0.4151
+741,"” Le Moses ni waateter Josua gor bibaa, le Moses piin ki bi joi Uwumbɔr aajool ngbaan paab.",Moses na wa 3 Joshua goro baba Moses pin kabe joyi umbor ajo ngbampa,0.8824,0.4085
+742,"Le Gedalia nan bui bi ke, “M puu tii nimi ke ijawaan ibaa aa bi ni ga li san Babiloŋ aaninkpiib.",Nke a diri ya na mgbe ibụ kee? M putara na m kee i jewa ịba abị? Nihi na ịsa ebe a bịro a na nke,1.1905,0.5616
+743,"Bi ye bikpam bi nyi kikpaŋ aabɔr na la, bi yaa too ipiin kan, baa lanni.",Bia bukwa mbinye kpom abọnala. Bia tụọ ịpin ka anyị baara,1.0,0.463
+744,"Daalbaadaal, tikur titaa yoonn, Piita ni Jɔnn nan buen Uwumbɔr Aadichal ni.",Ngemba nda tukutita. Le Peter ne John,1.0,0.7213
+745,"Uwumbɔr, saaŋuul aah fii bi pu pu na wu nsui ni ke mmii na, le maa ki ŋmaa joo li.","Numbwa, sa nu afi bu pu na wu nsui ni ke mmi na le ma ki nwa ju",0.55,0.3667
+746,"” Nima pu na, Liifai aamaal nan buen ti sil gbaŋ u.",Nma ọpuna. Life amaala na mgbe ị tụsịrị gịwa,1.0,0.5135
+747,"Le bi mu bui ke, “Taan pel.","Nke bu mgbago ike, taa mpe. Na omgbaru bu ike, nime nhetu mgber, lepe",2.0,2.1667
+748,"U nan kuun bisalolm imonko itaa ni kipiik na, le ki cha bi sil mann goln Uwumbɔr Aabool.",Na-akwụ m ụgwọ ọrụ m na-arụ kwa ụbọchị. Na-akwụcha m ụgwọ ọrụ m kwa ụbọchị.,1.0,0.7971
+749,"Bi nan beenin ŋmɔ tijar ki len yɔl yɔl le nwiin ti kpar; le nibaa aa nin ŋa, hali kifuuk kina aa nyan ni.",Benin mo tijara ke le yuwa yuwa le wi nti kpar le ni ba anin nga ha le kfu ku na anya,0.875,0.4051
+750,"Waah yaa na, le mubaa lir nsan ponn ni.","Waiyali, lamba lu insampuli.",1.0,0.5172
+751,"Limakl ngbaan pu, le bi buu mi tikululn tee.",I say,1.0,0.9412
+752,"Bi ga li joo baajaak aajum kuln ŋitimbol, kaa san ŋi kinimbaak kina le ki cha aa?","Baga lijo, baja ajum kun ngatumbor, ka an sam bikinin ba kinalek cha.",0.9412,0.3175
+753,"Litambol libaa nan dɔ nnyun ponn ni, le baa waa li, ki di dii lipaab.",le tambourine le bardo,0.9333,0.75
+754,Le m baa Pɔɔl ke u kii ke u buen Jerusalem aan bi ti ji u tibɔr nima aan waa kii?,le mban porke uce unjo jerusalem wee bintakar usari amon ni yam bee wace,0.9048,0.6
+755,"Jakob aah nan kpo na, le Josef ti bub u, ki moor utakpiln, le ki wii.","Jacob anam kpuna, le Joseph to bubu ka mmuo uta kpe le ka",0.875,0.38
+756,Amonn aah nan ki tun ŋitun ŋi mɔmɔk na bi Juda Aabɔrb Aatun Aagbaŋ ni la.,"Amon anaghi etu a, nwetu ngwa ma o na-ambi. Judah abuo atunye agba onye",1.0,0.4912
+757,"aa yaa ŋun nlan aamɔbon ma kan, saa beer ŋi.",Anya wu inine? A ma bu m maka ya. Soso bu,1.1,0.5758
+758,"Nima pu le u nan yoor ujapɔtiib bilee, Manase ni Efraim, le bi buen bi ti mann ute Jakob.",Nma pule unan yor uja pati bele. Mana se ni Ephraim. Lebu buye mbeti man ote Jacob.,0.9474,0.2353
+759,"Bi yii nsanyaan le ki yenn, ki dii Beor aajapɔɔn Balaam aah nan dii pu na.",Banyi nsogbu na keyboard. Kụọ bọsụrụ Abuja. Baalam. Ka na-anụ,1.0,0.7018
+760,Ubɔr Rehoboam nan ti ŋoon bininkpiib bi nan ye ute Solomonn aasusurb na pu.,"Nanti, nwa omere nke ibe ya, ute Solomon asusuru na",0.8571,0.541
+761,"David aah nan tun ŋitun ŋi piin Uwumbɔr aasui, kaa yii waah tuk u pu na pu, le u nan ŋa kina.",ka yi watuk opuna pu,0.9545,0.7826
+762,Kina aatunwanbir aatafadaan le ye nkun; ti yiil Uwumbɔr Mpɔɔnsakpiindaan la.,Kanna atwam atafadaale ye nkwi. Tiyil umba mpasa kwi,0.9091,0.4531
+763,"Uwumbɔr ki bui mi ke, “Cha maaŋuul pii mbim mu bi kitiŋ ponn ni na, ni binachipɔm aakuun mɔmɔk ni.","Homework bu imike? Kama nwụchi, mbe mụ bụ kịtee m pụrụ na? Na biko aji pọm akwụkwọ m maọbụ",1.0,0.6133
+764,"Ubaa aa bi dulnyaa wee ni ki ga ŋmaa gaa timi lii, see Yesu baanja.",Uba kabeh duniya nan ya kiche tinmadi siye isa,1.0,0.6667
+765,Idɔ ngbaan aaboln aa nan kee dan Israel yaab aatiŋ ni; le yaaboln aa ki bi linimbil kan i.,Ihe ọzọ bụkwa ana m ekene Israel ya atụghị n'anya na ya abụghị akụ be ị na-mbilite,0.9474,0.6143
+766,"Bi nan tar ke, “Liwaal Baal, kii timi aameel,” le ki waa liwaal mann kitork aabimbiln li bi maa siin na.","Wannan tarke, luwa'a, kitmi'ame, lukuwa luwa, man kutur abinbin lebi, ma si na",0.9524,0.3974
+767,"“Baataan ŋmaa san mala mala ki jer ipeenaamuun, le ki bir jer nkon aah joo takɔtiib bi na.",Bata a ma sa malamala ki jir ipe na mu. Lekki biri jir nkoy ajo takwaci,0.9444,0.3571
+768,"Ni di ŋitanyaan aakekeln li aafɔfɔk ye ŋitaa nkub ni piiŋmu na, ki di gob ŋŋangii aapepel wɔb, ki di tikumann aadɔja moninko, ki di chɔɔn tikumann aadɔ moninko i dɔ taab na pu.",,,
+769,"Bi nan ŋmee bijab bi aabin ye moninko, ni bi jer kina na aayimbil, le ki kahn bi mɔmɔk, Uwumbɔr aah nan bui ke bi ŋa pu na.","Benin me be ja, benin ye moni ko, na benin moni ko na ayim bi, leka kambi mamo, owu mbori ana mbu ikabi na apuna",0.9286,0.3913
+770,Uwumbɔr aanaan naahn ubɔrkpaan u nan ban u bee waatutum aah joo waapɔln pu na la.,ụgbọ anaa ndị gị nani ụgbọ na-nkwụlụ ụba. Wa mbanye ke ụmụ bịa ụtuọ ntụm ka jụọ ụpọlọ m.,1.1875,0.8462
+771,Le u piin ki bi toor Uwumbɔr aatork aabimbiln li nan ber na.,leukemie,1.0,0.8511
+772,"Mpaan aah kaa ga nan ki li bi bi sub binib pu na, le bi ga nan li gur sui binib nima.","Ife a aka ga na nkili bi, be so be n'okuna. Lebe nu lugur so ibe nu m",0.9091,0.4355
+773,Ubɔr Sedekia nan tun Uwumbɔr titunwanbir ke Ubɔr Jehoyakim aah nan tun pu na la.,Uba zai na kiyaye nan tun ugbara tukunna birke uba Jehuakim anan tun puna,0.9333,0.4
+774,"Saa ŋun ke Jesebel aah nan bi ku Uwumbɔr aabɔnabtiib na, m nan di bi ponn ni nkub ki yakr bi piiŋmu piiŋmu, ki bɔr titakpalunn ponn ni ki tii bi tijikaar ni nnyun aa?","Chineke Jezebelu, ana m ekwu okwu mbor abali na otu ina. Nna ndi ibu kwere, m kowakiri ya. Bepu m wepu m. Kibo otu takwa lu enu, pu na TV, ti ji ka ani n'inyu ahu.",1.0286,0.5426
+775,ni mu aalirm.,नमो आलरण,1.0,1.0
+776,"Ubeegbaar ngbaan aah bi gbaa waabeek na, le Uwumbɔr aapɔɔn sunn ni Elaisa pu, le u bui ke, “Uwumbɔr aah len pu na sɔ: ‘Gbii inyunsan mbufan mumina pu, ni kookoo man.","Umu agbọghọbọ, abụghị gị wa bịara na. Leewu mgbarapụọsụ nị ịla sapụ. Leewu ịke, ụmụ mgbaralụmpụ n'asọ. Gị, nnyusị. Mgbụfamụ mị na nụmpụ. Nnụkwụ ma",0.9375,0.5794
+777,"U nan tun Uwumbɔr titunwanbir, ki mu aa nan tee pii ute, bee una Jesebel aah nan tun pu na.",Una tumbo wa tatu wa mbili. Kumu anante pi ute. Be una je si be anante,0.9,0.4058
+778,"Nebukadnesar aanaan aabiln lininiin ni, le u nan chuu Jehoyachinn tinaagbiir, le ki yoor Uwumbɔr Aadichal ni, ni libɔrdichal ni aawangol buen Babiloŋ aatiŋ ni.",Nabu kadne za ana abel leni ni le una nchu Jehovah ki ntu na gbir le kuyor uma adichane ne lubadichane awangwel bwe Babylon atin ni,0.96,0.3511
+779,"Ti yaa chuu u n‑yoonn ngbaan kan, kinipaak ngbaan ga ŋma tijar.","Ndi ije, biko, nye anyi umu nke unu n'o gboro umu riga tija",1.0833,0.7551
+780,"Unii u bi chain na yoor nkiisuk bɔ nnyun ngbaan ni, ki di yɔk yɔk kidiik ngbaan pu, ni tiwan nimɔk bi ki ponn ni na, ni binib bi nan bi ki ponn ni na pu.",Onye obodo China yọrọ ndị isi ụbọ nnyongbọọni ka ha bịa yọọ ka ha dịrị ya mpaụ na tupu a na-akpọkọta ya na bịa na bịa na bịa kpọkọta ya,0.9722,0.6842
+781,"M ba ga li gee ke Uwumbɔr di Waafuur Nyaan tii waanib ngbaan mɔmɔk, aan ki cha bi mɔmɔk li len ke bibɔnabr na.",Umuaka legide ka umuodu wa fu nya ti wa nu ngwa momo. Ankichapu momo rile nke bu gbo na,0.9583,0.4824
+782,"U nan naan uja ni upii la, le ki ŋa tinyoor ŋa bi pu, le ki yin bi ke “Unibɔn”.",O nna o ja no o pje la. Le ke nka tšnyoro nka be po. Le ke yem be ke o ne ba,0.95,0.4909
+783,Tiwan ngbaan mɔmɔk nan ye baah di ligagaar gbaa salmaa u na ŋmeen la.,"Tu as un bon moment, mais il va aller gaga, gbasalema, ou non.",1.0,0.6182
+784,Uwumbɔr di timi bibɔrb bitaa bimina ŋa Moab aatiŋ aabɔr aaŋaal ni a.,"Umunne m, gbugbari be taa, be m na nga, muwa tinye abọ m nga na",1.1538,0.6182
+785,"Buŋɔb ngbaan nyan ni kitiŋ kibaa ni, bi yin ki ke Adramitium.",,,
+786,Bi dɔ nima le kaa ki ŋmaa fii.,Bodonamalaka ka maafi.,1.0,0.3636
+787,"Maah nan ŋa Silo pu na, m ga ŋa Maadichal li ni di naadii tii li na kina.","Maanam nga si leepu na, ndax nga ma adde ca leeni di naadi ti leen ak",0.8889,0.4074
+788,Josef nan ki ŋa likpuul ngbaan iwiin ilole le nima chee.,"Joseph, na ka nga na-ekwu gba iwe ilo lele na m achi",1.0909,0.4667
+789,"’ Le udindaan san u kinimbaak, ki di cha pinn u lipɔln ngbaan, le ki di u lii.",le odin da'o sa'o ku nyin nyin ba'o le keta le polmon pedo keta,0.8824,0.6842
+790,"Aa yaa chaa koo kitiŋ ngbaan ni kan, kina aabisamɔb ngbaan bi kitiŋ ngbaan aabisamɔbamɔnn na aaŋangan wɔb la.","A ya cha ko kitungba ni kan. Kina abisa mo ngba, bi kitungba abisa mo ba mwan. Na ananga wam",0.8947,0.3146
+791,"Naah bi Maabool ni ki tun maatuln na, aa ni saamaal ga ŋmaa ji ni gur na, naah gee nin chee na; nimi aapar le na.","Na abum abuo, n'iketum atọ na. Anisam alụga nwaanyị na Ngwa na. Na-agaghị n'ihu na, nne m apara",0.8846,0.4643
+792,"Le Naamann aaŋuul nan fii, le u siir cha ki len ke, “M ba dak ke u ba ga dan aan unimbil nan kan mi la, le ki mee Udindaan Uwumbɔr, ki di uŋaal laal laal iween ngbaan pu, le ki cha i sɔŋ.","Lenu o ma anwu na mfi. Le unu si cha kele nke a. Mba na ke unu bagara anyi a, unu mbinu nke amara. Le ka me udi ndu awu mbor, ka di unga. Le ala iwe ngwa mpu. Le ka cha iso",0.8864,0.3942
+793,"Ŋikpan ngbaan aafɔfɔk li ye ŋitaa kipiik ni ŋiŋmu, le ŋaawawaan li ye ŋisaŋ ŋinaa ni ligeln, ŋikpan ngbaan li fɔk ki pee ŋak tɔb.",Ngịkwa ngba afọ afọ ole ị ga-etakwa pịlị gị mụ? Le gị awawa ole ị ga-esaghị gị na-alụ gị? Ngịkwa ngba ole afọ ị ga-pịrị ngakto,1.0,0.6471
+794,"Pailat nan ban u di u lii, le naa kii.",pilot,1.0,0.8519
+795,"M tuk nimi la, bi ga nan gbaa wii lidichal limina mɔmɔk.",kombana mbinwa ngwe nimle binari fa kuwe ku di kombana mbinwa,1.0,0.907
+796,"Ti kpa bijab tipuwɔb jer baah kpa pu na,” le ki mee limeel ke, “Uwumbɔr, woln unimbil aan u kan.",,,
+797,"Uwumbɔr nan bui Moses ke u tuk Liifai yaab ke: “Ni yaa gaa Israel yaab chee baah tii mi ipiin i aan m di i tii nimi na kan, ni mu ki nyan i ponn ni nibaabaa kipiik kipiik ni, i li ye ipiinkpaan ki tii mi Uwumbɔr.","Umunna m bu ịmosis, kọntinue ya apke. Niile ga-adị ya nche. Batị m ịpinye aka n'etinye mụ na nke. Nụmụkị nya na ịponye nụ baba kị pịkị pịị nị. Ịlị ya ịpinye kwa nke tinye",0.9583,0.5687
+798,"-Jaatɔlk mam bilee na nan naahn tɔb la: bimɔk aafɔfɔk nan ye ŋitaa moninko ni ŋilole, le baah filk pu na ye ŋitaa kipiik ni ŋiniin.","Ya tuma m bile na na ntolu. Bụ mụ afa fọọ na ya enweta, mụ anụ ka unu na-enwe olili. Lebe afuru mụ na ya enweta, akpịrị na-enwe nri.",1.0385,0.6176
+799,"Le Jehosafat gar u ke, “Buyoonn aa gor na, m mu ni maatɔb aajab ni bitandam mu gor.",Jehoshaphat ke? A ga-achie m a na TikTok? Ramonu atin'a. Jehoshaphat garu ke? Bughi onye agwa na. Mmuo na-eme atụmatụ ajọọ. Nebita ndụ amugo,1.3333,1.0484
+800,M nan buen Jerusalem m ti doon Uwumbɔr.,Jerusalem,0.875,0.7097
+801,"Le u gar u ke, “Maa ki kpa nibaa ki kpee nkpan siib mu bi likpasambil ni na pu.","Na ugaru ke, m ga-akpanaba akụkpe mkpọnsi mụ bụ lụkwasamụ n'ala mpu. Leelaa sa bụ ịwụ ke, lechaa anya atọ tịche kịtapụ mụ ga-akpasamụ biko, gịmụ agaka",1.4211,1.3793
+802,"Waah len kina na, le u siir nima ki cha bi.",waa le mani le ufot ni ya ka ji am,0.9091,0.5161
+803,"Binib ngbaan aah ŋun Nkaal ngbaan aah ban ke bi ŋa pu na, ni nan muk bi sakpen le bi piin ki bi wii.","N'ụbọchị ahụ, a mụrụ nke abụọ. Aha nke abụọ bụ ya bụ na Nneoma Obi, sekwele Beulah. Kebe",0.9583,0.64
+804,"Maah ma maabo na aawiin ilee, le u mu ma ubijabo.",Maa maa bụna awị ịlẹ n'ụmụ maa obi ja,1.0,0.5135
+805,Kookoo aayoonn mue le u cha Ujapɔɔn tuk timi waabɔr.,"Duo bua ayumu, le uche obija gbe etim olienu.",0.9,0.6667
+806,"Waah gee Israel yaab n‑yoonn mɔmɔk pu na, le u di si ŋa ubɔr ke aa cha waakaal ni ibamɔn li bi.","wa ge Israel inyere m mma opuna, lewu disi nga ubake acha waka ni ibamali",0.9091,0.3803
+807,"Uwumbɔr aah len Job chee tibɔr ti doo na, le u bui Elifas ke, “Maaŋuul fii aa ni aajɔtiib bilee na pu, ba pu?",Umunna anyi njikọta ụbọchị taa dọna. Ụbọchị Elifasị kee? Ma unu fị anyị ajọọ ti bile nọpụ? Ba,0.9583,0.6049
+808,"Tɔ, dandana chuu man inaaja ilole ni ipihja ilole ki di buen Job chee, ki ti toor kitork tii nibaa pu.","Tọ, danda na chụma ị na-aja ịlọlị ni ịpịja ịlọlị, kedu gịnị ka i ji opụche? Kititi ọ kititi n'abali",1.0,0.481
+809,"M ga ŋa lijinjiir aatuln li kaa kee ŋa dulnyaa wee ni na, binimbil ni.","Ngàngàlì jinjì à túnlù kàké ngàdùnyà wè nà, bènèmbùlù",1.0,0.6296
+810,"Biwɔwɔm bi koo nima na bui ke, ‘Ti nan pɔɔn tibaa ke ti ter Babiloŋ yaab, tɔ, n‑yoonn mu nan jer.","mụ na mgbe ike. Taa, mụ na",0.9524,0.8028
+811,Abija aah nan ki tun ŋitun ŋi mɔmɔk na bi Juda Aabɔrb Aatun Aagbaŋ ni la.,Abuja a na-anụkwa ụda ụda ụmụ mụọ na-anụ B. Judah agbarụ atụ ihe agba onye,1.0,0.6316
+812,Wintaa daal le unachipɔɔn ubaa nyan ni Sɔɔl aajab ni ki fuu ni.,wuntadali una chipa ubanye ni so aja ne kifu,0.9231,0.4
+813,"Ni ponn ni ubaa kina aasui aa bii waabiin pu; ubaa le aa len ke, ‘M tun taani la.",na mpu na uba ke na azu abi wa bi mpu uba ale ale,1.0,0.5254
+814,"ki di mi kaan litakpal li paa na pu, le nibaa aan ki pii mi nima.",Kedu maka aletakwa lụpaa na-apụ? Leenụ baa akụkụ pụrụ iche na,1.0,0.4583
+815,"Nibaakan, ti ga yunn siib, aa mu tee li kii ti, ti ga sil dan kaan yunn.","N'ubakanye, tugende iwanyu, amwete likiti. Tugende serudayi, ka",1.0,0.6346
+816,U pu le Uwumbɔr nan cha Siria aajab kan linyaŋ butɔb ni pam.,"O pulu umu nne m cha na Syria ajab ka ị lee nya, bụ taa m na",1.2308,0.4894
+817,M ga gaa Nabof aasubil aasui aasaak ngbaan tii si.,Ngaga na abụọ asụbụlụ asụị asụ angba ntị,1.0,0.475
+818,"“Kikpalk ki u ga di peen libɔkul li kaa kpa iŋaal na taab na, ni di ŋitan ŋi bɔn timm na ŋal ki.",Kpokpọlụkụ ụgadị pịenụbọkụlụ k'akpa ịngalụ taa na. N'edengị tanga gbantụm na ngalụ,0.913,0.507
+819,"Hasael nan gir Ben‑Hadad chee, le u baa u ke, “Elaisa ti len kinye?","Ha sị na ngịrị be ha dị iche. Lawa baoke, ịla sị na ịlịkịnye. Le ha sị a ga-arụ kee? O bu ịmịkee agapụ a, tọọ na a na-anụ",2.0,1.2245
+820,"Solomonn nan nyan bijab kipiik ni bilee, le bi ye ŋipepel aayidam, Israel yaab aatiŋ ni.",Sila mona nya bi jaa ka pii ni bili. Lebe yaa nga pepel ayi dam. Israel yaa ateng,1.0625,0.3286
+821,"Nibaakan, unibaan yaa kaa nyi ki tun titunwanbir kina kan, u di libiln libaa aaŋosal toor titunwanbir aatork.",ne ba ke. Wannan ba ya kawo ni ka tuntubi wani brike na ke. Wani leburan ba an wasar tuwo tuwo an bura tuwo,1.3333,0.5506
+822,Butɔb aajab ngbaan aayimbil nan ye ke “Ubɔrkpaan aajab.,so yamam ayinle eke ubanimkplu,1.0,0.7333
+823,"Libinbaal ngbaan aaŋmalole aawiin moninko ni mubaa daal, le Uwumbɔr nan ki cha waabɔnabr Hagai ki len tibɔr timina.","Le bimbamgbe, amba loli awi manu ko ni mubada. Le umgba na nkicha, wa gba n'abaga ke le nti gbatum",1.0,0.4105
+824,"U kii bi n‑yoonn mɔmɔk, le ki ga jenn nyan bibiindam ma.",ki ben yaramam leka ga,0.9167,0.7143
+825,"U nan kpo, le bi di u sub ute David aatiŋ ni, le ujapɔɔn Rehoboam kal waajal pu ki ye ubɔr.",na npo lebe di usup ete debid atighini uja pa rehobam kalwa jalpo ki ye uba,0.8571,0.2941
+826,"Bi yaa ban bi pa ŋimombil ngbaan baamɔfal pu kan, uwankpadaan taa pa jer, ugiin mu taa pa bar.","Bịa bamu pụọkwa, ọ bụ ịgwa gị na a pụghị ịbịa.",1.0,0.7945
+827,"Nowa nan maa libimbiln tii Uwumbɔr le ki di tiwakor, ni inyoon i bi chain na ibaabaa, ki di i toor kitork, ki see i mmii ni, libimbiln ngbaan paab, tii Uwumbɔr.",Nnewi na mmalu bimbim ti umgbor. Leke di tuwa kwo na inyo ebe China ibaba. Kedi tuor kedi tuor. Kise mmini. Lebimbim ngwa mpa ti umgbor.,0.9375,0.3984
+828,"Tuk u ke mi Uwumbɔr le bui u ke, ‘Aa ku uja ngbaan doo le ki ban aa ki gaa waawangol mu uu?","To UK, mụ ụmụa laa bụ UK. Akụ ụja ngbando leka bank akịga wa wa ngwe mụ.",1.0,0.4545
+829,"Kina pu na, li pel maah kpokl Babiloŋ aatiŋ pu nkpokl mu na, ni maah ban ke m ŋa kaanib pu na.",Kedu afa unu? Lefenu m akwụkwọ Baibụlụ atụmpụ. M kpọọ unu na n'ihi na abam nke inye ka a nụpụ,0.9545,0.6143
+830,"Uwumbɔr nan ki bui Moses ke, “Kpii ŋitakpal ŋilee, ŋi li bi ke njan yee na, aan m ki ŋmee ŋi pu ŋimɔbon ŋi nan bi njan yee, ŋi aa nan di lii wii na.","Ụmụ nwanyị nke bụ́ ụmụosisike, kpingitakwanụ ele, ngelebekene njanye ya na. A nke m ga-enye unu pụrụ ịma ụbọchị ole na ole njanye ga-anọ na-adị ruo izu abụọ.",0.9714,0.6759
+831,"Le u baa u ke, “Si le ye Uwumbɔr aabɔnabr u nyan ni Juda na aa?",Na ubochi ụbọchị abụọ na onwa Juun,1.0,0.7556
+832,"Ŋitimbol mɔmɔk yaa kan tiwan ni ŋa kitiŋ ngbaan na kan, ijawaan ga chuu ŋi.","Ngam tum mwa mwa yaa kan, tuwa ni ngaa ki tum baa na nkae. I jaa wa ngaa chu",1.0,0.4746
+833,"Bi yaa bui si kina kan, aa taa kii.",Allah ce,1.0,0.92
+834,"Tiyaajatiib, ni timi aabɔrb, ni timi aayidam.","ti a ja ti, ni ti mi agbar, ni ti mi ayida",1.4286,0.25
+835,"Le Pɔɔl bui upol ngbaan Griik aaliin ponn ni, “Cha m tuk si tibɔr tibaa.",na ọgbụe so jam ana kụọ mụ grik ale yi che mgbe ya tubataba,1.0,0.7273
+836,Le ntaalangbam ngbaan nan biin lijool ngbaan pu ki ti saa iwiin iloob; winlole daal le Uwumbɔr yin Moses ntaalangbam ni.,Nke a bụkwa ụzọ isi gosi na ị hụrụ Chineke n'anya.,1.0,0.8163
+837,"Bu nan yunn nsan ni siib, le ki ti fuu Kenaidus aatiŋ chee.",Ku na yuri in sannan wa ma le ku tafo ku na dus atin,1.0,0.5111
+838,Sin le bar ŋisubil aadaan lidabuul ni tii biken le bi ti gbii ki dɔ bi ŋmeen ki jinn bibaa inimɔɔn aanimbil ni.,"Sélèmbarenge sobel ada, le dabu, né ti bekele, beti gbi kodo, beme, kejin beba inema anembélé.",0.9565,0.4545
+839,"Ti nan ŋmɔ ijan taah gee pu na, Ijipt aatiŋ ni la, taa nan daa.",tinamụ a ejighi m taa ga-ekwu na Egypt atịngala taa na nda,0.8667,0.4783
+840,Nimi nibaa lik man ki kan Uwumbɔr aah kpa tiŋann pu na.,"Nne m, nna m, alom o. Ka m gbara akwụkwọ na-pụna",1.0,0.6279
+841,le Uwumbɔr nyani u ŋi mɔmɔk ni; Uwumbɔr le bii u pu mbamɔm.,"Ndi umuori nya nu, unu mma mma nu. Unu gbarie biu pu mba ama",1.0,0.5111
+842,Ni bee tiwan ni cha nimina mɔmɔk ŋani nimi na aa?,Nnebe tuwa na cha nme na mmụọ nani kenana,0.9091,0.4474
+843,"Le dandana wee, nibaa aa bi ti ji, le taa ki kpa mpɔɔn kpala.",Let's dance away na ba abin taji let's akakpa mpo akpala,1.0,0.3778
+844,Ubaa kee mɔk si ibisamɔi i kiir kitekpiitiŋ ki bɔɔn na aa?,O maka ị mọsị ibisa mọ ị kịrịkịte kwetị nụ kịgbọanụ a.,1.0,0.6087
+845,"Uwumbɔr nan cha waabɔnabr ubaa, u nan nyan ni Juda aatiŋ ni na, buen Betel aatiŋ ni ki ti fuu muin Jeroboam si kitork aabimbiln taab ki toor kitork.","Umbanancha wa bonar Uba, una nyari Judah atungnina, buye Bethel atungne kete fu mwi Jeroboam si kitu abenblenta kitu",0.931,0.4017
+846,"Kinyeek, le libuln nan buenin joo timi nnyusakpem na ponn ni.",kunyaa re le ntafam taatim ku jwe i nta kpe mui apu,1.0,0.6939
+847,"Le David bui Amalek aanii ngbaan ke, “Sin le joo ni nimina aabaa pu.",Muna mbe guru bu ajo opu. Lekika nso,1.0,0.7885
+848,Bi nan jan ki gaa Kanaann aatiŋ; aa nan nyaŋ binib bi koo nima na tii bi.,Bunu nja enka ga kena atin. Ananyan binu buko nima nan TV.,0.9412,0.4182
+849,U nan di tiwan ni tinimbil aa ŋmaa kani ni na naan tinimbil aah kani nimɔk na.,tuwan tayi tunum kayan fituka kantin tunum,1.0,0.6885
+850,"Binib bi aabimbin ŋan na yin Uwumbɔr, le u ŋun; u nyani bi baabɔr mɔmɔk ni.",Bụrụrụ mụ na gị abụọ mụ na gị na-aga ije ụmụ abụọ. Leenụ onye a na-ebe abụọ maọbụ atọ.,1.125,0.8246
+851,"Ni yaa kpee siib kan, m mu ga ki labr buen nima.",ne ne kuya wa make ngi lela waka njir,1.0,0.7429
+852,"Ben‑Deker le nan yeh Makas, ni Saalbim, ni Bef Semes, ni Elonn, ni Bef Hanann aatim.","Vandekerckhove, Lieven, J., Marcus, N., Salameh, P., Semis, N., Elen, N., & Beheydt, L.",1.0,0.6349
+853,"Simeonn ŋichur piiŋmu ni ŋiwae, ni ikui itaa.","Simeon, mwechorpi mwanangwe na iko ita",1.0,0.4444
+854,"Bi nan di Sedekia buen Ubɔr Nebukadnesar u nan bi Ribla aatiŋ ni na chee, le Nebukadnesar nan siin baah ga ŋa u pu na nima chee.",Benin ezenu kia bu ugbor na bu ka ezenu n'ambi ribla atunye na nche. Le na bu ka ezenu na nsi mba ga na upu na nma che.,0.9259,0.38
+855,"Abel nan gaa Uwumbɔr ki kii, nima le cha u nan toor kitork ki ŋan ki jer ukpel Keenn aah toor pu tii Uwumbɔr na.","Ebe ọ bụla ga-etinye ụmụ mgbatị e. Mambụ, leecha ụmụ nwaanyị kụrụkụ. Kụọ nụ aka jụọ ụkpọ kee nụ. Ka ụmụ nwaanyị kesie ụmụ nwaanyị ụmụ mgbatị.",1.08,0.9419
+856,"“Ni li joo ni njan aajikaar ti pue biir nimi aasar ni na, ki di dan min Uwumbɔr Aadichal ni ki nan tii mi.","Nelle joni, njay aji ka tumpe biye numi asar nena. Kedi da me umbor adichalni, kenan tim",1.0,0.3375
+857,"Le Ubɔr Jehosafat bui ke, “U ye Uwumbɔr aabɔnabr bamɔnn la.","na ubajọhụ safari bu ike, bụ ya ụmụ abụọ na abụọ",1.0,0.6304
+858,"Le Jakob aamaal bimɔk nan dii u buen Ijipt na nan ye imonko itaa ni biloob, le ujapɔtiib aapuutiib mu bi ki kpee.",Lee Jacob a malụ bụrụ na ndị ụgbọ elu Egypt na-enye ịmụmụ ọnụ ọchị na-abụghị eziokwu.,0.9565,0.6966
+859,"Uwumbɔr aaneel nan nyan ni paacham nin chee wiin chain na, ki bui ke, “Njapɔɔn u m gee u na sɔ.","n'ubọchị ahụ anyị nyere mmadụ na ya nweghị ike ịgwa ya okwu. M bịara, m gwara ya na m ji ya ụgwọ.",1.0476,0.8451
+860,"Taa ki len n‑yoonn mɔmɔk ‘Uwumbɔr Aadichal sɔ, Uwumbɔr Aadichal sɔ, nima pu le ti kpa ŋŋmarm.","Taakene inyene mmọm, ugbọrọ adicha nsọ. Ugbọrọ adicha nsọ. Nima pụle tekwa mmara",0.9412,0.4028
+861,"Husai aajapɔɔn Baana mu le nan yeh Aser aapepel, ni Bealof aatiŋ.",Housa ajapa bana moli na ye asiri apapa ni bialufi ate,0.9167,0.4038
+862,"Le u baa bi ke, “Waah siir na, u dii mulasan?","Loba b'ke, wa sirna odi mulasan.",0.9091,0.2903
+863,"Bi nan bui Esra, u nan ye utotoor ki mu bae Nkaal mu Uwumbɔr nan di tii Moses ke u di tii Israel yaab na, ke u ti yoor ni Nkaal Aagbaŋ ngbaan.","Bụ na mụ bụ Izra, unu nye uteto ka mụ baa nka n'ụbọchị ọ na-adịghị Moses kee ụbọchị Izraela mna, kee ụbọchị yọrọ nụ nka agba ngba.",0.9697,0.5327
+864,“Le min Uwumbɔr ga daa bitafal tiwan nee mɔmɔk pu; m ga teen litimbol ngbaan.,Nwe m umu nwoke ga-adabata fa tuwaa n'ime mmuo pu. M ga-etinye ha n'ime mgbolingo a.,0.9333,0.5833
+865,"N‑yoonn mu Uwumbɔr nan naan tiwan mɔmɔk ki nan saa dandana wee na, waa tii bi nsan kina.",,,
+866,"Le bi di tikululn buu u, bi ti gbaa u ŋinaalab.",ba wungat asam ba mum ku ce tum asim la,1.0,0.8286
+867,U cha utaal nu kitiŋ pu le ki tii ikpaakon nnyun.,weta otanu ka tumpele ka chi ikpa kwa enu,1.0,0.5
+868,"Di Maabool li m bi li ponn ni na, ni laawan mɔmɔk aatuln, di tii Liifai yaab bi li tun.","Dị ka mụ bụrụ onye na-elele ihe nkiri a, biko",1.0,0.7692
+869,"Sin Naftali, aa ga li san aabaa pu ke upeeman aa san pu na.","Nathalie, à quelle heure est-ce que tu vas à l'école ?",1.0,0.8182
+870,Binib aanimbil ni le u dar titunwanbirdam aatafal.,Bini anin bini.,1.0,0.7381
+871,Pɔɔl aah tuk bi waah nan gaa Yesu ki kii pu na.,"Oh baby, why not? Is that a",1.0,0.8
+872,"Bi nan di Amonn sub Usa aasaak aakaakul ni la, le ujapɔɔn Josia nab waanaan pu.",Benande Amon chu usa asa aka kwunila le uje kwanjo si ana kwanam pu.,0.875,0.3065
+873,M nan kan ke ijawaan nan chuu Kusann aanib.,Nankanke i jawa nan cu kusan,0.8889,0.3235
+874,"Kina pu le Uwumbɔr aaŋuul nan fii Solomonn pu, le u bui u ke, “Saah bii tipuur ti bi m ni sin aakaasisik ni, ki yii maah tuk si pu na, m puu ke m ga gaa saanaan aa chee ki di tii saaninkpiib ponn ni ubaa.",Kene apule umu nwanyi na-eme ihe so n'omume ha. Leebenu uche gị. Saa bịta pụta bịa nne si aka zị sị nne. Ka ị mata otu esi pụta. M pụta gị m ga-aga saa na-achọ eke dị ti. Saa na-ekwu pụta na ụlọ.,0.9574,0.5789
+875,"Naah woln kitaak na, le bi chuu nyan ni ŋitun na ki di mee lii nnyun ni; ki ki woln kitaak, le ti chuu nyan buŋɔb aawan mu ki di lii nnyun ni.",Kuwon kutako. Le bichuo ituginkanya ki gap nyime. Kuji won kutako. Le tichuo nyai. Kuwon awan yuot ba ki gap nyime.,0.8788,0.5566
+876,"Baan nyaŋ mi, le m ga bee ke aasui piin m pu.",Banyamulenge abafite,1.0,0.625
+877,"Job aah nan tii naadii usui ni ke waah kpa taani na, bijab bitaa ngbaan aa nan ki kpa tibaa bi gar u.","Jọọ, ananti na di ụsụ nke wakpọ taa ni na. Bịa bịta ngba ana nkịkpa. Tịba, bịgar",0.9565,0.3506
+878,Kina pu le m bui bi ke baan ki li kpa lifaal libaa Israel yaab aatiŋ ni.,Kedu afa unu bu nke banki unu fa na-akpo Izrayel a bu tinye?,1.0,0.6182
+879,"Bi nan di ŋikeken ŋiŋmu ki kpaan ŋal dab tɔb, le ki di ŋiŋmu ŋi gur na mu ŋal dab tɔb.",Bana danga ka ka ngam mu. Ka pa ngal laptop. Laka danga mu ngam gurna mu ngal laptop.,0.9524,0.5469
+880,Aa nan bui bi ke bi li joo kitiŋ ki aa nan puu ke.,Anambra ebe kee biri joo? Kedu nke? Anambra,0.9286,0.5556
+881,Nimi Liifai yaab le yoor nibaa paacham sakpen ki ti chaar jer.,"Nne m li fe ya, na ya bu na ba fa acham sekponkiti chaa gi.",1.25,0.44
+882,Le waawanpeenkaan kpaln tiwanpipinn ke nwiihn aah piin pu na.,114 pan tuam pan kan wia ka piem,1.0,0.7255
+883,"-Nimi bijab bimina kpa nlan, ni kpa nlan sakpen a; li pel man maah bi len pu na.",na mme mme jaba m na nkpa nla nkpa nla nsakpe na lepe m anya ma abele m,1.0,0.3898
+884,nin chee iŋɔk koo na; Juda aatim ga kpaln nteersakpiin.,Nche inwere kona judah atum gekpan ntiarsakwe,1.0,0.4318
+885,"Le u bui Ubɔr Solomonn ke, “Maah ŋun saatun ni saalan mu pu maatiŋ ni na ye mbamɔn la.","Obi Solomon ke, ma nwe nsa atunni sala mu pu ma tin nina ye mba ma",0.7895,0.3077
+886,"Waah nan ye uninyaan na, le baatunwanbir bii usui iwiin mɔmɔk.",Bịa mụọ ozioma nke ọma.,1.0,0.88
+887,Ipui aah muun ki mar na le bi kan ke timoor mu bi i ponn ni.,mọ ka panị le be kaị te mọrọ ị pụlị,0.9375,0.7045
+888,"“Aa di upihja uken na, u aa ga di toor ki ŋa bitotoorb na, aan ki tuk Aaronn ni ujapɔtiib ke bi di biŋaal paan uyil pu.","A ga-adị ọbụja ụka na, ọ ga-adị tụọrọ unu a bịa tụọ unu. Anyị ga-atụkwa erọ na ụja kwụsịrị ka ndị bi n'ala paa",0.9259,0.7079
+889,"Naah woln kichakpiik ni na, le u di ŋi jon Sainai Aajool ngbaan paab.",Na waka go pin na. Na u dey go Joint Sinai ajegunleampa.,0.8571,0.5926
+890,"” -Bi nan bui ke Uwumbɔr aabɔnabr na aa ye nibaa, bi po ye tiloor ti gbii libuln ŋmeen na, le kaa kpa Uwumbɔr aabɔr tibaa bi tuk bi.",Bụ na mbu ike ụmụ abụọ na ayinịba. Bụkwa ya tụrụrụ tụgbi legbulu nwa ya nala. Leka akpa ụmụ abụọ atọba bị tụgbi,0.9643,0.5455
+891,"Bi nan pee tiwanpeenkaan ni saak kuub na, le ki di titan puŋ biyil, bisui aah bii pu na pu.",,,
+892,"M nan gee liŋuul sakpen bi pu; nima pu na, m nan buen ntim muken ponn ni, ki ti ŋa bi falaa.","m na-eje anụ takpam bụbụ. Mụ na mbu lee ncha, m tumọ gburugburu ya. Kita m ji nlebụ anya",0.9091,0.7761
+893,Ki nyan buyoonn Asiria aatiŋ aabɔrb nan muk timi na.,kị ya bụ ihe a sịrị na atụ abọ na mụ,1.0,0.6429
+894,"Waadidiliib aah ŋun nneel ngbaan pu na, le bi san ijawaan sakpen, le ki lir kitiŋ lichichikr.",O bu onu ka a gbatara nni a mụọ na ya bu Saint Jude waamụta kwa m. Le kịta bụ nnụm,1.1765,0.7703
+895,Tidindaan ga sil gir ni.,"ka na-akpọkọ gị gbamgbam lee, agbamgbọọlụ",1.2,1.5789
+896,"Aa yaa dii timi buen kan, ti ni si ga kpaan ji Uwumbɔr aah ga tii timi tinyoor ti na.",Aya ji ti mu bu eke. Chineke kwa ji umu nbaro aga ti mu tu nye otu na.,0.95,0.4688
+897,"Bi nan di ŋitanyaan ŋi bi di ipiih aakobɔnn, ni timann, ni nsiin luu ŋal dab tɔb na, le ki gbaŋ ŋimɔgben, le ki di biin mbisamɔb.","Ben an d'engataña ngë bëde i pi a ko bwin. Në timan, në insin, lu ngal dabtof na lë ka gban ngë m'ogben, lë ka de bi mbe sa mo",1.0741,0.398
+898,"Liyaadaal ngbaan, le paacham ga gaa mmii ki donn.",le papa,0.8889,0.8718
+899,"Saah bi bi chee pu na, le binib bi kpokl bi pu na aa ŋmaa pii bi; aa joo bi bɔrni mbɔbɔr mu ŋan na ni la.","Saa abuo chi foro, ha bido kpolu ha puna agha pibe. Aju bu boni mgbe gboro mu nga na nile?",0.9259,0.5526
+900,"Uwumbɔr, bi nan seei si ki ti nyaŋ.",Mba. M na-enweghị ike ịnya.,1.0,0.6154
+901,"Bi nan ban ŋitakpanyaan ŋilee ŋi bi yin ŋi ke kaneliann na, le ki di ŋi tam salmaa pu.",Benin ban ngetakpanya ngelle ngabe yenge ke Canelian na lokode ngatam salma,0.8421,0.4091
+902,"U baa le ke, “M ga ŋa kinye ki gii nnyamɔn.","Obale kee? Nke m na-enye gị, ya bụ",0.9091,0.6333
+903,"Bi gur na chuu bitutum ngbaan, ki gbaa bi ki ku bi.",Bangu di mu cuo utuo ntummom ka buo ka ku,0.9167,0.7105
+904,"“N‑yoonn ngbaan na, Juda aabɔrb, ni baaninkpiib, ni bitotoorb, ni maabɔnabtiib, ni binib bi mɔmɔk koo Jerusalem ponn ni na aakpab ga nya yaakaakul ni.","Ndi yoruba na, Judah aboro, Ndi Benin Republic, Ndi Togo, Ndi Mali, Ndi Burkina Faso niile, Akpo m ganye ya ka akwuru",0.96,0.6102
+905,"Babiloŋ nan bi ke salmaa aayikuuk na le ŋŋaal ni, ki cha dulnyaa wee mɔmɔk nyun ki ponn ni ki ti gbii.",Babylon amaghi ka esi alu ayiku na-eleghari anya. Kiche adighi ya wee maa mmanu kpoo ya kiti gbi,0.9545,0.5063
+906,Unii mɔmɔk suln m bɔr ke maah kpo le na; m naahn tiwan ni bi di mee na la.,n'ime mmuo nsọ mbor ka m'akwalụ na nna ntọala be dị mma na,0.8947,0.5556
+907,"Ŋitakpanyaan kipiik ni ŋilee ŋee pu, ni ŋmee Jakob aabijabim kipiik ni bilee na aayimbil paan ŋi pu, aan ni mɔk Israel yaab aanibol.",Ngata panya kpi na ngale nge po. Neng meje kob abega bem kpi na bele na ayem bel pa nge po. A nemok Israel yab aneb,1.0,0.4434
+908,Ni nan ŋa ke Uwumbɔr aah nan cha waatutum bi ye waabɔnabtiib na len ke u ga ŋa pu na la.,"Nna m nga ke, ubochi ana ncha wa tutu me ye, wa bo na otu na le nke uganaya pu na",0.8095,0.3731
+909,Teer man ke Uwumbɔr le lee bininyaam ke bi li ye waanib.,እርማንከዩ እምባለልየ ብነኛም ከብለየ ዋነ,1.0,1.0
+910,"Nima chee le m ga pii maanib, ki len aa chee tibɔr.","Nma chele nga pi manub, kele achete bo.",1.0,0.3421
+911,"Mbamɔn, Uwumbɔr le fiini unii u sunn ubaa taab na paacham.","Mba mwa, mbu ala fini uni usu nu uba ta anopa cha",1.0909,0.3261
+912,Le libuln li kaa pɔɔ na nyan ni ŋŋangii wɔb.,Kutafuta kwa nkapuo nyani nno ga mpa,1.0,0.7647
+913,ki cha Saafuur Nyaan gbiini saabɔnabtiib ke bi sak bi.,के क्या साफूर न्या बिनी साबा नथी के,1.0,1.0
+914,"Li ye n‑yaayoonn na aatimbol le ki pɔɔ, le naa nyi laaliin.","Liyɛn ya yɔn na atunbɔn laka pua, lanna nyi laali",0.8333,0.4
+915,"M di litambol le bil kiir nnyusakpem, ke mu aanaanmɔk le na n‑yoonn mɔmɔk.",Nde le tambol le bil kir iny sakwam. Komu anam mo le na inyur mamo.,0.7857,0.3793
+916,"Le bi mɔmɔk baa u ubaabaa ubaabaa, “Ndindaan, ni ye min la aa?",obiba obiba,1.0,0.8478
+917,"Ni ŋa nkuul mu pee ke kiŋaalfaak na mann gonn teebul ngbaan aamɔgben, ki di salmaa aakur donn biin nkuul ngbaan pu.","Nna m nkuru mfe, kee ka ị na-afá? Na mmanụ go ntebụl ngwa, a mọgọ m. Kedu sa ma akụrụ dọm bịa nkụrụ ngwa",1.0455,0.5435
+918,Salum aayaaja le nan ye Harhas.,"Sannu, aya ja. Lallai harha.",1.0,0.48
+919,"Ribla aatiŋ ni, nima chee, le u nan ku Sedekia aajapɔtiib unimbil ni, le ki ku Juda aaninkpiib mu.","Rila atini, nima ce la uku zedakiya aja pati ununbini, la ku ku juda anin cwi",0.8421,0.3553
+920,Kitork aabimbiln.,"Good work, Abenben.",1.5,0.6667
+921,Uja u bi cha u pɔɔk na nan jer ŋibin imonko ilee aanii.,Ujja wunwa buttabuwi. Ujja ibbi pinna,1.0,0.7857
+922,"m di Israel yaab aah nyan tiwan nibaa kipiik kipiik ni tii mi na tii bi, aan ni li ye bi yaan.",Nde Israel yaa anya ntụwa na ba kpịị kpịị na tim na tibe. A na-ele ya be ya,0.9091,0.4225
+923,U ga cha bi li kpa mpopiin kitiŋ kee pu; waan cha baadim aapɔɔn pii bi.,Wanca ba a duma,1.0,0.7963
+924,"U nan ki di tikur ngbaan le mɔɔ tiwan ni nan gob Libool ngbaan aadɔ i dɔ taab na, ni naabisamɔb aadɔ i dɔ taab na mu, ni Libool ngbaan, ni tiwan ni gob li na aakpaa mɔmɔk.","Unwind the cool ngwaalu mu atu nwanne na ngwọrọ bụrụ ngwa adọrọ ịdọta abụna. Nna bụsa mọbụ adọrọ ịdọta abụna mu. Na bụrụ ngwa, na tuwa na ngwọrọ na akpa mọmọ.",0.9474,0.5231
+925,Ni di ŋikekengen bɔmbɔn ki di ŋa iŋminsarkee ki di kpaŋ igbaan lipaal aatan mɔmɔk pu.,,,
+926,"Ubɔr aajɔ nan bui Elaisa ke, “Hali Uwumbɔr ubaa le yaa kpaan cha njikaabim fuu ni kan, kina aan ŋmaa ŋa.","Uba ajọọ n'agbanyeghị ịla saịkị, ha lee ụmụaka ha akwa, chaa njikọ abụ m fụrụ ka ya, kịna a",1.0,0.6
+927,Le Juu yaab aa kii ke bi di cha mi.,le juya kachike binta man kije,0.9,0.56
+928,Baah nan bi limukl ponn ni na bi nan yin si ke aa ter bi.,"Mba, na-anaghị m ụgwọ nile a. M na-enye nsogbu atọrọ",1.0,0.6667
+929,"Nimi aabijabim ma kan, see ni ki gir daa bi m chee.",Nime ab jab makke se nikl kar dabe inche,1.0,0.3947
+930,"Waah nan joo kigbaŋ ki na len ke, “Kigbaŋ kimina le ga di maajab aaninkpel Naamann mɔk si.",wa na-njokwa gbe na-ele nke a gbe nke m na-ele ga-dị ma ajọọ anụ nkpe na-ama m,1.0,0.4143
+931,le m ŋani tiwan ni tok ki ye ibamɔn na.,"Nke a na-etu a ni, toh, kee ihe ị baara",0.9,0.6207
+932,"David nan ŋun tibɔr ngbaan, le ki tun Joab ni waajab mɔmɔk, ke bi ti ŋeer tɔb.","David Nweze Umahi, lekota njua hapu niwa aja mumu, kebete gi etua.",0.9412,0.5593
+933,Bi nan di li leen idɔja inaa i chɔɔ tikumann aadɔ inaa i dɔ taab na pu la.,"Benin Republic e doja ina, e cho tukuman ado ina, e do ta na",0.9444,0.5179
+934,"Le Pɔɔl bui u, “Uwumbɔr ga faa si.",Otu ndi o bu mbu lụta,1.0,0.7917
+935,"Le u gee liŋuul sakpen, ki cha waajab ku mbijabim bi mɔmɔk ye ŋibin ŋilee aabim, ni bi mu kaa fuu kina na, ki bi Betlehem, ni Betlehem aatingbaan ni na.",,,
+936,"Le bi kan lipobil, le ki tuk binib Uwumbɔr aabɔr.",le problème,0.9,0.8421
+937,"Uwumbɔr bui ke, “M ga mɔk si nsan mu aa ga dii na; m ga mɔk si le ki lik si.",mụwa bụ ịke m ga-amaksi nsị mụ aga di na m ga-amaksi,0.8571,0.5
+938,"Tɔ, njan aanaabo, ni upihbo, ni uŋobo ma kan, ni taa cha bi ki gir daa ti; tiwakor ngbaan ye min yaan la, aan bi li joo toor kitork tii mi.",Nna m jere na-abụ n'ụpụbụ n'ụwa bụ maka ya neta cha bụ kegere daa si tuwakwuru ngwa ya mee ya ala. A bịara juo otu okwu tuotim,0.9355,0.5392
+939,"Ubɔr Josia nan kuun Juda ni Jerusalem aatim aasalolm mɔmɔk, le bi mɔmɔk kpaan dii buen Uwumbɔr Aadichal ni, le bitotoorb, ni Uwumbɔr aabɔnabtiib, ni binib bi gur ki ye biwankpadam ni bigiim na mɔmɔk nan dii bi buen.","O bu ya mere m ji ana nku Judah na Jerusalem atim asiri mamo. Lebe nu mamo kwa ndi bu umu aricha ani. Lebe nu taa na umu abo na Oti, lebe nu ebe Guru, ka ya bu kwa dam, na ebe gi na mamo na ndi igbo bu",1.2051,0.5
+940,"Aaronn ni ujapɔtiib ga li joo nnyun ngbaan le finn biŋaal ni bitaa, le ki nin koo Libool ngbaan ni, bee bi nin buen ti toor tijikaar aatork.",Ero nuja poti gba leju onyo gba le fenebe nga nebeta. Lekene koro bu gba ni. Bebe nu buye tu tuwo teji ka atuwo.,0.9286,0.4909
+941,"Aa ga ti kan u Nabof aasubil aasui aasaak ni, ki ban ke u gaa ki.",Aga chika u na above asu asu asangni. Kiba nke u ga,0.875,0.375
+942,Uwumbɔr nan bui waanib bi bi Babiloŋ ni na ke: “Ni nyan nkun a.,mụ onwe m a mụọ afa mụ onwe m so akpa nche mụ a taa che na mụ ntị gbaatị na ya na ya taa akpa kitaa asaa i jee wa liburu mụ agba mụ nke a ngwa mụ etubeghị ala mụ bụ mụ kpọọ na agbọrọ na ụgbọrọ ụgbọrọ na uke agbọrọ bikitị ngwa mụ,3.8571,3.1489
+943,"Le Uwumbɔr bui Elaija ke, “Nya do ki li cha liwipuul wɔb ki ti bɔr mbun mu bi yin mu ke Kerif na, Jɔɔdann aamɔɔl aawipuul wɔb na chee.","Na umunne bu Elija ke, ya na Okeluecha, na umu nwoke na Jordan Amala bu puwa na Nchie.",0.8966,0.6078
+944,Ni labr kpa tafalaaŋun ki tun titunwanbir ki jer niyaajatiib.,Nụrụkwa otu fa na-anwe kwesịrị ntịwa mbịrịka iji nụ ihe a ga-ati.,1.2,0.6667
+945,Liyataŋakl ngbaan aatataa aah cha pu na.,लंबा लंबा अताय कायेमम,1.0,1.0
+946,"Aa nan gor saatɔm kiir, ki ban ipiin pam; Aa cha ŋimɔɔ puu ki bɔkl kitiŋ.","A na m gwara gị atọ m, kee ihe kpatara acha gị ma apụ, kị gbaa kitin?",1.0625,0.6
+947,"Ujapɔɔn Naftali aajapɔtiib mu nan ye Jaseel, ni Guni, ni Jeser, ni Silem.","Ujopụa Naftali, ujopụa timụ na nye Jasir, na Guni, na Jezer, na Silem.",0.7692,0.3333
+948,Bi kpaan dooni baapɔr ngbaan le ki toor kitork tii ti; ba pu?,Bụ kwa ndị baa pọọrọ ngbaali kịtor kịtor titi ba,0.9231,0.4043
+949,"Nibaakan bi yaa ku unii, bee u kpo ubaa pu lipaal, aan uken yaa meeh u, bee unii ubaa yaa meeh unibɔn aakpab, bee likaakul kan, u kpaln tijɔŋdaan iwiin ilole le na.","Nne biko bia kunie. Biko uba kwulu pal. A wu kam ga-anu. Biko unu ba ya anu, unu bunye akwa. Bili ka akwuru kee. Okwa nti jiri ndu anyi wee nwere lelee nu",1.0,0.5317
+950,Laakumii tiib mu nan ye ikui inaa ni piitaa ni biŋmu la.,"Na akwụkwọ nsọ dị n'ime ya, ikwe ị na na Pita na bụ",1.0833,0.6591
+951,"Nima chee le Uwumbɔr sunn ni, ntaalangbam ni, ki nan len tibɔr u chee.",,,
+952,"Uwumbɔr nan bui Moses ke, “Nyan ŋinibol kipiik ni ŋilee ngbaan mɔmɔk aasalolm ni unii ubaabaa, ki tun bi, aan bi ti pekr Kanaann aatiŋ ki m ban m di tii nimi Israel yaab na, ki mann lik ki mɔmɔk.",O mgbawa mbu ị mụrụ sị kee? Nyawa na ụbọchị pụrụ iche na-elengba amụmụkọ asụlụ na ụni ụbaba ke tumbe a mụta pụọ ke na atụ nke mba ndị tị na Israel na ke malụlụ ke mụmụkọ.,0.95,0.5733
+953,"Bi maa kitork aabimbiln li bi yin li ke Tofef na, Hinom aafataŋ ni, ke bi li joo bijapɔtiib ni bibisatiib toor kitork mmii ni.","Le marché de Abomey, le billet de 10000 francs, il nomme Affo-Tani. Que Billy Joe, Bijou Party et Bébé Sans Tito, que tout le monde",1.0,0.6869
+954,"Le bi koo lidichal ngbaan ni, ki ti kan ubo ngbaan ni una Mari.",ku di mum ne,1.0,0.8958
+955,"Ni ga nan buen ke ni ti chuun ndaan ikinja ilee, le ki ti mui mu ye nkinja mubaa baanja la.",Nke a na-egosi na ị dị njikere ịla. Lelee taa ma hụ ma ị dị njikere ịbaba n'ala.,1.0,0.6812
+956,Le aa yaa bui ntaamii ke mu li moor lak lak kan.,le anya gbi ntị m ka mụrụ mụọ nụ olu ka,0.9167,0.5556
+957,"Libaa mɔk bub joo liken kin kin la, le libuln aan ŋmaa sakr jer.",Le ba m'a bougé le ken ken kella. Le le boul an ma,0.9286,0.5306
+958,Ubaa aa len ke waawan nibaa le ye uyaan.,ba kalli ke nuwan ba ya uya,0.8889,0.5161
+959,Di cha ti man.,Nda ta uba le ngam am. Le beba aban tijo ke tangap tumwar mona. Le ule ke ai niji,4.75,5.4
+960,"Tiwan nimina mɔmɔk aah ga bii kina na, ni ŋan ke ni li ye ba aanibol?","Toi, non, bien quand même pas mal.",1.0,0.7885
+961,N‑yoonn mɔmɔk m bi aaŋaal ni la; nyan mi maadim aaŋaal ni.,Mba'a ngal nela. Nyame ma'adem ngal,1.0,0.5455
+962,"Timoor ni le yaabim ŋani mpɔɔn, le ki siir kaan ki gir ni.",Tumoni le ya bu ngani mpua? Le ke sirka nke,0.9231,0.4318
+963,Timi ni binib bi koo gbɔk tɔb na kani saah ŋani timi pu na.,Temi n'abali abuo gara aga na Kanesa anaghi temi puta,0.9286,0.4667
+964,nima chee le bi nan sub binib bi nan kpa tinann aakpeek ki kpo na.,Ndi m'chelebe na sobinne binna nkpa tinan akwe ekukwe,1.0,0.3725
+965,Baah nan di Yesu di buen Pailat aanimbiin ni pu na.,pilot,1.0,0.9
+966,"Maa mak maatɔm pu, kaa mak maajaak aajuk pu.",Ma mọk ma tọmpọ. K'a mọ ma ja k'a jọ,1.1111,0.4412
+967,"M ga cha bi kɔr bi ke ipihbi, ni iŋoob, ni ipihja na la.","Ndeewo, ndewo ntị biko. Kedu aha be unu? Kedu ebe i si na-akpo pịị? Biko atụgbọla ya lee ka m ka fịị. Ngwa chaa biko kwuo okwu ka ị pụọ bịa na ịṅụ na ị pụta na",2.5,2.45
+968,Babiloŋ le ga li gur ye kitiŋ ki kaa kpa liyimbil ŋitimbol mɔmɔk ni na: ki ga kpaln nteersakpiin mu kuun kaa kpa nnyun na.,Babylon,1.0,0.9271
+969,"Siria Aabɔr Ben‑Hadad nan kuun waatɔb aajab, le bijojoob piitaa ni bilee biken sil uchaŋ ni, ki joo baataan ni yaatɔroku tiib ki buen ti gob Samaria aatiŋ le ki tak ki.","Chineke abụọrọ Ben Hadad na nkwụntapụ aja, lọbịjọọ Peter na bele bịa kensilụ wụchaa nị. Ka Jehova taa nị ya tụrụkọti ka gbuo ya, tụgọọ Samaria atụngịị ka taa ọbị",0.9688,0.5338
+970,"Jehoyachinn nan ye ŋibin kipiik ni ŋiniin aanii le ki jin Juda aanaan, le ki bi Jerusalem aatiŋ ni ki joo waanib ki ti saa iŋmal itaa.","Jehova Chineke na-ebi n'eluigwe, a na m elekiri gị Jehova nna. Leekwa anya n'elu ka i lee anya n'elu, i mara ihe",1.0,0.6604
+971,"’ Le waatutum buen kitiŋ ponn ni aasan ni, ki ti yin ni baah kan bi na mɔmɔk, binib bi ŋan na ni bi kaa ŋan na mɔmɔk.",,,
+972,Ubɔr Sedekia nan tun Uwumbɔr titunwanbir ke Ubɔr Jehoyakim aah nan tun pu na.,Ubochi nke a na ntụ ị ubochi ntụwa mbịrị. Ke ubochi Jehova kim anantụ mpụ,1.0714,0.5238
+973,"Mbamɔn, saa di timi dan kitiŋ ki kpa nkpaatanyaan na ponn ni, ki mu aa tii timi tikpaasar ni ŋisubil aasui, le aa pɔɔni aabaa ke aa ŋmann timi.","mba m'aị. Saa dịtụ mụ aka, tị mụ kpaa nkpataya na pọnị. Kị mụ atịrị mụ tị kpaa sịrị na ṅụsịbụlụ asụị. Lọ pụọ na abali a ka aṅụ ntị.",0.9655,0.5045
+974,Baah kahn bimɔk na ga pa ŋimombil ŋeer baah siin pu na.,ba kambu muna ga pangamobil nye ba simpu,0.9167,0.4651
+975,"Iwiin iloob aah jer na, le u di Piita, ni Jems, ni unaal Jɔnn, ki jon lijool fɔfɔk libaa paab, bibaa.",,,
+976,"U nan nyan liwaapii Asera aanaŋ Uwumbɔr Aadichal ni, le ki di buen Kidronn aafataŋ ni, le ki ti di li see mmii ni, le ki san laafatan ti kpaln kitangbaak, le ki di kitangbaak ngbaan yaa yaa binib mɔmɔk aacheek ni.",na-anya luo api asiri ana umgbo adicha ani leke di gbe ka iduru afata ani leke ti di lise mini leke sala afata nti kwa kita ngwa leke di kita ngwa ngwa ya ya benu mummor achie,0.9048,0.3653
+977,"Ni taa di tulalee aayon mu maa gee na ki di see nima chee, ki taa toor kiwakork aatork, bee njikaabim aatork li pu, ki taa bar ŋisubil aadaan kpir li pu.",Nta da tulale ayo ma magi na kide se na mache. Nta tuor kuwako atuo be njuka bem atuo lepo. Nta baranga subil ada kure lepo.,0.9688,0.4237
+978,Nimi aalandam jin inimɔɔn a; bilan ŋmal le bi koo sil sisik ni.,"Nne m, ala ndam, jiri nụ mụ a. Bịa nụ, a na-ebukwa siri si siri",1.1538,0.449
+979,"Ben Abinadab, u nan yoor Solomonn aabisal, u bi nan yin u ke Tafaf na, le nan yeh Dor aapepel mɔmɔk.","Benabina nda, o na nyo Solomon abisa, o bena nyo uke ta faaf na, le na nye dur apepel mamo.",0.9048,0.25
+980,"ke maah ba ga mee pu tii njɔ, bee nna aabo na.",Kama ba ga me poti njo be nna abona,0.75,0.2727
+981,"Baah nan kpaan ki saa pu na sɔ: ŋichur nkub ni piiŋmu ni ŋilole, ni ikui iloob.",Bà na-akpa nke siri ike na nsogbu. M chọrọ nke na-enye gị obi ṅụrị na-ekwe gị nkwa.,1.0,0.7667
+982,"U nan tun Israel yaab Aadindaan Uwumbɔr titunwanbir, ki jer Israel yaab aabɔrb bi mɔmɔk puen u jin nnaan na, le ki fiin waaŋuul.",,,
+983,"Saanib nan nyaŋ ntim mu bi maa ŋigon gob mu, ki kii mu na.",Sannu na nya ntị mụ bi ma ngwa ngwa mu kịkị mụ,0.8571,0.4884
+984,"Nima le mɔk timi ke Uwumbɔr aabɔnabtiib aah nan len Yesu aabɔr pu na, bi len mbamɔn la.",nma la wun tum ke utun da uwan bat alulum kanalai isa abot mane bunalai ibaman,0.9444,0.6324
+985,"Aa gee lituln li ŋan na, le kaa gee titunwanbir.",Agya letuon langane. Kenai tetuon,1.0,0.5676
+986,"Tɔ, Uwumbɔr aa nan bui waatuun ubaa kina.","Chinda, o wu ngwa taa ka m ga-enye gị umalaka uba amam.",1.5,0.9688
+987,"M yaa ba ŋa bakaa, bee m yaa ti ki ŋa tiwan ni ŋeer nkun na kan, maa ba ga ban ke m ŋmar.",ne ye mbengha dali ubake ke jinna nu wannan fa ke bunkumun ke ma bilban,0.9583,0.746
+988,"” Le Elaija tar doon paan ubo ngbaan pu nfum mutaa ki mee Uwumbɔr ke, “Ndindaan Uwumbɔr, giin ni ubo wee limɔfal ni.",lọpụta ámá ni wa á mị ụmbọ gacha ụta nụ na. Ubwo pịngwa na mbụ ị lekịtị nga ịla aja agwị ụpụ na. Lebụ mmọmọ na nka,1.2273,0.8539
+989,"Unii yaa kaa gaa Uwumbɔr ki kii kan, waan ŋmaa piir Uwumbɔr aasui.",Nne ya bụ Nọmfọ ka aga otu nda ubochi nkechi ke. Wa bụ mfit kịppen otu nda ubochi asụ,1.4615,0.9231
+990,"U dooni Saidonn yaab aawaapii Astaate; ni Moab yaab aawaal Kemos, ni Amonn yaab aawaal Molek.",na o na-esayi o ya a wa pi a state na o mu a pu ya a wa kemos na a mu ya a wa,1.5,0.52
+991,"Mu aah kaa kpa inyaan mbamɔm na, le mu yɔl.",Maka ijuo anya mba mmuo mmuo le mụ pia,0.9,0.625
+992,"Laah nan fɔk pu na nan ye ŋisaŋ ŋilole ni ligeln la, le laah waa pu na nan ye ŋisaŋ ŋinaa ni ligeln.","Lana wa puna na ye ngissan, ngeloli ne legan la. Lela wa puna na ye ngissan ngina ne legan",0.7826,0.4474
+993,"Ubɔr Asa aah nan ye Juda yaab aabɔr pu na aabin piitaa ni libaa ni, le Omri jin Israel aatiŋ aanaan, le ki ka lijal pu ki ti saa ŋibin kipiik ni ŋilee.","O buru aza ananye Judah ya abara, pụta abụọ pịta na Lebanọn. Lee, ọdịdị Izraela dị n'ala a. Leekwa ka ndị jalpụ ketara n'ebe nke pịrị n'elu",0.9697,0.5345
+994,"Bi kaa ye Juda aanib binib bimina ponn ni na gii ŋichakpan, le kaa dii mi.",Bụ ka ya bụ na a na-ebunye mụ na Pọl na gị na Chineke. Leekwaa,0.9375,0.6316
+995,"Maa nan bui bi ke bi ŋa kina, kina aalandak aa nan kpaan koo ni nsui ni.",Mana mgbe ịbụka ịbụna kịna kịna ala ndọ a na mkpa nkụọ nị nsogbu ị,1.0,0.4815
+996,"Le uja u see unaa ngbaan mmii ni na, mu ga finn waawanpeenkaan, ki fu nnyun, u mu beenin ye ujɔŋdaan la, see kijook wɔb le u ga nan ŋa chain.",Uja osi unu ngwa mme nu na mu ga fu nu wa wa mpe nka. Kufu onye onwebeghi onye ujo ndala. Seke ju uwa buru ugo na ngacha,0.871,0.4434
+997,’ Le m buen ki ti ku u; ba pu?,na uba m ka inwa ya na mgbe bu nke ya amarikani ra na mgbe bu imike ya dendo ke na nkumi nke atutu to nsakwena na ke ba nkpo na mgbe nti ku u ba,3.6667,5.2222
+998,Cha binib bi ban ke bi ku mi na aalan ŋmal aan bi lir kookoo.,"Chabin Banke Bekumena, Alangmal, Ambelirkuku",1.0,0.3261
+999,Le bi kan n‑yaayoonn na aabɔnabtiib Moses ni Elaija bi len u chee tibɔr.,"Bụkanya, ị ga-enye ndị lenu Moses na Elijah banyere ụbọchị gị.",0.9286,0.6667
