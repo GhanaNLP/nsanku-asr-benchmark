@@ -1,0 +1,262 @@
+sample_id,reference,hypothesis,wer,cer
+0,Suɔmi Yeɔ Bua Wɔ Nɛ Wa Daa Ninyɛ Nya,Sɔmǐ yɔ gba wɔ nɛ wa daa nyɛ nyɛ.,0.5556,0.2857
+1,MƐNI LƐ HAA NƐ KRISTOFO NO BUA JƆƆ?,Mini le haa ne Kristofo no gba ajo.,0.625,0.2593
+2,"Mo pia o he ngɛ o yayamihi a he, nɛ o pee tsakemi ngɛ o si himi mi","O he ngā o ya ya mi ahe, ne o pe tsake mi ngā osihi mi mi. Mɔ jɔ",0.8889,0.3125
+3,MOO KASE MATSƐ DAVID NƆ HYƐMI NƆ́ Ɔ,Moo kase mache David nohie mino.,0.625,0.2963
+4,NƆ́ NƐ E SA NƐ O PEE LOKO A BAPTISI MO,sane o pee loko a baptismo,0.6364,0.2593
+5,Yehowa Nɛ Ji Wa Tsɛ ɔ Suɔ Wɔ Wawɛɛ,Yehowa ne je wa choo suno wa we.,0.7778,0.4231
+6,Mɛni weku yi ko ma nyɛ maa pee kɛ tsɔɔ kaa e baa e he si?,Minyi weku yiko manyi mape eke cho kaa ebaa ehisi.,0.875,0.2439
+7,"Marie-Line: Daa Hɔɛgbi ɔ, wa jɔɔ wa he, nɛ wa dlaa wa he kɛ haa asafo mi kpehi. Kɛ je Pɛplɛgbi kɛ yaa a, wa yaa fiɛɛmi.","A hue gbi o, wa jo wa he na wa di la wa he ke ha safo mpeyi. Ke je peple gbi ke yaa wa yaa fie mi.",0.7407,0.3721
+8,A ‘FƆ MƐ EKOHU’,A fɔme eko hu.,0.75,0.1
+9,A FƆ MI NINE KAA MA SƆMƆ KAA KPƆ MI NƆ HYƐLƆ,Afo minyɛ nɛ kamasɔmɔ ka akpɔ mi nɔ hielɔ.,0.8333,0.2121
+10,LOKO A MAA BAPTISI MO:,baine piɛɛ loko amɔ ba pisimɔ mɔle ye,1.4,1.1176
+11,NYƐƐ “DI NÍHI NƐ NGƆƆ TUE MI JƆMI KƐ BAA” A SE,Nye di niine nwoto njomike baasi.,0.9167,0.4848
+12,"Anɛ o pia o he ngɛ yayamihi nɛ o pee ɔmɛ a he, nɛ o jɔɔ o he nɔ kɛ ha Yehowa, nɛ o kplɛɛ nɔ kaa Yesu Kristo nɔ nɛ Yehowa guɔ kɛ heɔ nɔ yi wami lo?",O pia o hĩ ngayã yami ne o pio ma hĩ ne ojɔ̃ o hĩ nuke ha Yehowa ne o kpleke nɔ kaa Yesu Kristo nɔ ne Yehowa gu nwokehiɔ nɔ yi wami lo. Ani o,0.5897,0.3143
+13,WA NÍ TSUMI EHE KƐ E MI NYAGBAHI,Wannie chum ehe ke emi nyagbahi.,0.75,0.28
+14,O Ma Nyɛ Maa Pee Nɔ Nɛ Woɔ Ni Kpahi ‘A Bua Wawɛɛ Nitsɛ’,O manya ma pe no ne wuoni kpaa agbo awa we niche.,0.9286,0.4
+15,asafo mi nɔkɔtɔma ji mo?,Ke asafu me nokotoma ji mo.,0.8,0.3684
+16,YEHOWA HA WƆ TA BULI A HE PIƐ POMI NÍHI,Yehowa haa wo tabili ahe piɛɛ po mini.,0.9,0.2
+17,MƐNI MA NYƐ MA HA NƐ WAA PEE YEYEEYE?,Mini many moe wapee yee,1.0,0.4286
+18,ANƐ E SA NƐ WAA HAO KAA NIHI NƐ A YEƆ ABOLO Ɔ NƐ A NUƆ WAI Ɔ A YIBƆ NGƐ HƐ MI YAE LO?,"Ani, esane wa ha wolo nɛɛ ayoo abuloo nɛ anuowanyo ayigbonye hem ya ilu.",0.96,0.45
+19,"Ngɛ mɛni blɔhi a nɔ nɛ Yehowa tsɔɔ kaa e susuɔ wa he, nɛ e suɔ wɔ?",Ngamini bloo anɔ ne yehu achɔɔ ka esusu owahi ne esuɔwɔ.,1.0,0.2917
+20,Mɛni níhi ekpa nɛ wa ma nyɛ maa pee nɛ maa ye bua wɔ konɛ waa pee kpoo?,"Ụmụ nịịle kwanụ wa, amaghị m ma unu ma ihe gbasara ya, mana unu ga-apụkwaa.",0.9444,0.7358
+21,KE BAIBLO KASELƆ KO BƆNI ASAFO MI KPEHI YAMI,Ke Pablo Casals ko bone asafu mepe yaam.,0.7778,0.3889
+22,Moo to blɔ nya ko nɛ ma kai mo. Mo set alarm ngɛ o klama a nɔ konɛ e kai mo nɛ o kane Baiblo ɔ daa ligbi.,Mọ̀tò bọ́nyá kọ́ ní ma ka ànyí mu. Mọ̀ set alarm ngɛ́ ókló mɔ̀ nu kọ́ ní é ka ànyí mu ní ókanɛ́ Bible odáaligbi.,0.8929,0.4474
+23,Ngɛ mɛni blɔ nɔ nɛ blema níhi nɛ a tsua si nɛ a na a yeɔ he odase kaa Belshazar hi si hyɛ ngɛ Babilon?,Mɛni blɔ nu ne blema nii nɛ atuo asɛ?,0.84,0.6753
+24,"Loko o sɔlemi maa nu tso ɔ, mɛni ji ní komɛ nɛ o ma nyɛ maa pee?","Nke a bụ ụzọ isi mee nụchuo, mee nri nnukwute nụ manye mmanụ aṅụ.",1.0,0.8043
+25,Sane Bimi Enyɔ Nɛ O Ma Ha Heto Ngɛ Ligbi Nɛ A Maa Baptisi Mo ɔ Nɔ,Sane bi mi enyo ne o ma ha he to ngɛ ligbi ne a mɔ baptisimɔ nɛ. Ani,0.7059,0.2041
+26,bwɔmi ha we nɛ waa pee babauu?,Bua m haa eno wa pe ba ba o.,1.2857,0.3913
+27,HE DUMI KO NƐ NGƐ SLƆƆTO,"Hɛɛ, dum kɔnɛ ngɛ sloto.",0.8333,0.3158
+28,MOO SU BAIBLO KASELƆ Ɔ TSUI HE,Mɔ su baiblo kaselɔ tsofhi.,0.5714,0.25
+29,"Mɛni he je nɛ e he hia wawɛɛ kaa wa maa su wa Baiblo kaseli ɔmɛ a tsui he, nɛ mɛni blɔ nɔ wa maa gu kɛ pee jã?",Meni he je nehi ya wa we ka wa ma su wa Baiblo ka se le o ma tsu he? Ne meni blo no wa ma gu ke pe ija?,0.7586,0.2625
+30,Nɔ́ Nɛ O Maa Pee Konɛ O Sɔlemi Nɛ Nu Tso,Nönne oma pe köne usali mli ne nücho.,1.0,0.5172
+31,Mɛni níhi nɛ e sa nɛ weku yi nɛ ha e weku mi bimɛ?,Mininye sane weku yi ne ha eweku mi bime.,0.7143,0.2222
+32,KƐ NƆ KO MA PLƐ KƐ LE KAA A PƆ LƐ NU HA KƐƐ?,Kɛɛ nɛ koma plɛ kɛ le ka a plɛ nu hake.,0.6429,0.2
+33,E MA BI NƐ O KƐ LƐ NƐ KPA NÍ KASEMI Ɔ LO?,E ma bi ni o kele ne kpa ni ka se mi olo.,0.6923,0.2143
+34,WA HIA KƐ YA ZUGBA KPƆ KPA MI,Wahiaka ya zugba kpokuami.,0.75,0.1364
+35,WA BUA JƆƆ KE A NYƐ WƆ,Wabua joo ke anyewɔ.,0.8571,0.1875
+36,KEKLEEKLE BE NƐ I KUƆ YOKU,Ke klɛklɛ benɛ i kwo yoku.,0.6667,0.2381
+37,MOO HƐ MO KƐ SU MAWU HE NƐ O YA NƆ NƐ O NÁ BUA JƆMI,Moo haa mɔ kasu mɔhi ne o yaa nuu naagba jɔm.,0.875,0.5
+38,MOO BU YEHOWA TUE KƐ TSƆƆ KAA O SUƆ LƐ,Mawu ye howa tue ke choo kaa osunle.,0.8,0.3448
+39,KE O PIƐƐ BAIBLO TSƆƆLƆ HE NƐ NYƐƐ KƐ NƆ KO NGƐ BAIBLO Ɔ KASEE,Ke o pee Bible tso lohi ne nye ke nokunghe Bible ka si?,0.8667,0.4583
+40,Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ je mi mi himi kpo mwɔnɛ ɔ?,Mị nị blọ nọ wà manye m̀ àgù keje mị mịhị nkpọ m̀wènọ.,1.0,0.4524
+41,SUƆMI NƐ WA NGƐ KƐ HA YEHOWA A YEƆ BUA WƆ NƐ WA DAA NINYƐ NYA,Sɔ́mne wange keha Yehowa yí óbuawó ne wá daa nyɛ nyɛ ya.,0.9375,0.3043
+42,"Ke sane bimi nɛ ɔmɛ a heto ɔ ji ee ɔ, lɛɛ e sa nɛ nyɛmiyo ɔ nɛ ha e yi nɔ. Se ke heto ɔ ji dɛbi ɔ, lɛɛ e he hia we nɛ e ha e yi nɔ. *","Ke sane bi mi nɔ ma hɛtuoji eyiɔ? Lɛ i sane nyɛɛ mi yuɔne ha eyiɔ. Seke hɛtuoji dɛbiɔ, lɛ i hɛ we ne ha eyiɔ.",0.875,0.2841
+43,ANƐ o suɔ nɛ a baptisi mo kaa Kristo kaselɔ lo? Suɔmi kɛ hɛsa kpo jemi wo nihi fuu he wami nɛ a ha nɛ a baptisi mɛ. Mo susu Etiopia manyɛ ɔ sɔmɔlɔ ɔ nɔ hyɛmi nɔ́ ɔ he nɛ o hyɛ.,Sọni a baptisi mọ ka Kristo ka si lọlu. Sọmi ke he sa kpọje mi wọ ni ifu he wa mi na aha na baptisi mọ. Mọ susu Ethiopia manye ọ sọmọ lọ nọ hie mi nọ hie nọ hie.,0.907,0.3154
+44,"LOKO WA MA NYƐ MAA DA NINYƐ NYA A, MƐNI HE JE NƐ E SA NƐ . . .","Loko wa manye ma daa nyo enyo a, mini he je ne e saane?",0.625,0.275
+45,Asafo Kuu Ngua a Nɛ A Piɛɛ Jijɔ Kpa Amɛ A He ɔ Jeɔ Mawu Kɛ Kristo Yi,Asafo ku ngua ne apɛɛdi jɔɔmi ahioji omanye ke Kristo yi.,0.7778,0.3529
+46,Mo Ha Nɛ Suɔmi Nɛ O Ngɛ Kɛ Ha Yehowa a Nɛ Ha Nɛ A Baptisi Mo,Sɔmɔne onge ke ha Yehowa ne ha na baptisimɔ. Nwami na nɔ ni,0.9412,0.5909
+47,Mɛni he je nɛ tɔmi ko be he kaa wa maa pee yeyeeye be komɛ ɔ?,Mini ajene tɔmi kɔ be kɛ wɛ amɔ pe ye be kɔmɛɛ.,0.8125,0.4444
+48,LÉONCE CRÉPEAULT NYA MI MUNYU,Leon scraped his knee.,1.0,0.64
+49,MOO KASE MATSƐ YEHOSHAFAT,Moo kase mace yi hu safat.,1.0,0.2727
+50,Nihewi—Mɛni Nyɛ Maa Pee Konɛ Ni Kpahi Nɛ A Ná Nyɛ Mi Hɛ Kɛ Nɔ Fɔmi?,"Niiwi, me ni nye manye maape kone ni kpaa nye anna nye mihe keno fuum.",1.0,0.48
+51,NƆ́ NƐ E SA NƐ O PEE NGƐ O BAPTISIMI SE,E sane o pee ngɛ u baptisimisi. Kuku,0.6364,0.3929
+52,Wa Suɔ Yehowa Nɛ Ji Wa Tsɛ ɔ Wawɛɛ,Wasonu Yehowa ne eji wache o wa we.,0.8889,0.4231
+53,Ngɛ mɛni blɔ nɔ nɛ he blɔ nɛ wekuyihi ngɛ ɔ ngɛ slɔɔto ngɛ he blɔ nɛ asafo mi nikɔtɔmahi ngɛ ɔ he?,"Ngaminii blɔ́ nɛ́ hiɛ blɔ́ nɛ́ weku yii nyɛɛ́ wɛ́ ngɛ́ slɔ́tu, ngɛ́ hiɛ blɔ́ nɛ́ asafoku minikɔtɔ́ ma nyɛɛ́ wɛ́ hi.",0.6957,0.3333
+54,Mɛni blɔ nɔ wa maa gu kɛ ye bua wa Baiblo kaseli ɔmɛ konɛ a ya a hɛ mi?,Mɛni blɔ nɔ wama agun ke a yi gba wa Baiblo ka seli omɛ kɛɛ nɛ aya ahim?,0.7368,0.2115
+55,MOO YE BUA NI KPAHI NƐ A SUƆ WA TSƐ Ɔ,Mɔ yɔ baa ni pɔyi ne asunwa cheo.,0.9091,0.4815
+56,"Ke o pue o yi mi tɛ ngɛ sɔlemihi nɛ a ngma ngɛ Baiblo ɔ mi ɔ a he ɔ, kɛ e maa ye bua mo ha kɛɛ?","Ke opui nɛɛ mɛɛ sɔlemi nɛ a ngma ngɛ Baiblo mi ɔ ahii ɔ, kɛ imayibuamuhakee.",0.6429,0.2879
+57,NƆ́ NƐ E SA NƐ O LE NGƐ HE NƆ JƆƆMI KƐ BAPTISIMI HE,E sane ole ngahino jomi ke baptism hi.,0.9286,0.3784
+58,Mɛni lɛ wo nyɛ he wami nɛ nyɛɛ kɛ nyɛ he wo be tsuo sɔmɔmi ní tsumi ɔ mi?,"Ní la wọ̀nyí hɛ́ɛ wá, nɛ́ nyɛ́ kɛ nyɛ́ wọ́ be chuọ́ súmɔ́ mini chuọ́ mi ómi.",0.7895,0.4444
+59,"Ke waa kɛ kahi ngɛ kpee ɔ, mɛni maa ye bua wɔ nɛ waa ya nɔ nɛ wa ná bua jɔmi?",Ke wà ke ka nyɛ kpeɔ? Mini mɔ yɛ gbaa wɔ nɛ wà anu nɛ wà nà gbɔjɔm?,0.8095,0.4182
+60,Anɛ e sa nɛ waa hao kaa nihi nɛ a yeɔ abolo ɔ nɛ a nuɔ wai ɔ ngɛ Kaimi ɔ sisi ɔ a yibɔ ngɛ hɛ mi yae lo?,A nee esane wahao ka ni ne ayo aburuo ne anuowanyo nge kai mi osiso ayigbo nge he mi ya ilu.,0.9333,0.3919
+61,MOO YE BUA O BAIBLO KASELƆ Ɔ KONƐ E WA NGƐ MUMI MI,Moyɛ bɔɔ obaasia kaselɔ kɛɛ kone i wa ngɛ mumumi.,0.7692,0.3684
+62,NƆ́ NƐ WA MA NYƐ MAA KASE NGƐ MATSƐ DAVID HE,Nene wa manye ma ka se ngɛ mache David hɛɛ.,0.7273,0.2727
+63,Kɛ wa ma plɛ kɛ suɔ Yehowa ha kɛɛ?,Ke wa,0.8889,0.84
+64,O Kɛ Bua Jɔmi Ma Nyɛ Maa Da Kahi A Nya,O ka bọ ajọọ manye ma da kanyanya.,0.8182,0.3214
+65,SUƆMI NƐ WA NGƐ KƐ HA WA NYƐMIMƐ ƆMƐ YEƆ BUA WƆ NƐ WA NYƐ DAA NINYƐ NYA,Sọọmịnọ wángɛ kɛ́ anwá nyɛ́ mímɔ́ mɛ́yí ógbáwó nɛ́ wá nyɛ́ dá ní nyɛ́ nyá.,0.8889,0.3889
+66,KOO YE GBEYE KAA O MAA SƆLE KƐ HA YEHOWA,O ye gbe ka o ma asolike ha Yehowa.,0.6,0.2581
+67,Mɛni nyagbahi nɛ ma nyɛ ma puɛ bua jɔmi nɛ wa ngɛ ɔ?,Méninyá gba yí né ma nyi ma pu gba jomi ni wa nge o.,0.8462,0.3077
+68,Mɛni e sa nɛ o pee ngɛ o baptisimi se?,Esane opi ngɛ o baptisim si. La,0.9,0.3571
+69,Ngɛ mɛni blɔ nɔ nɛ blema ningma ko maa nɔ mi kaa Baiblo ɔ mi munyuhi ji anɔkuale?,Ngɛ mini blɔ nɔ ne blɛma nihi ngɛ ku mlaa nɔ mikaa? Baa iblɔ mi munyu nji anokwale.,0.7778,0.2381
+70,Kɛ nɔ ko ma plɛ kɛ le kaa a pɔ lɛ nu ha kɛɛ?,Kɛɛ nɛ ko ma plɛ kɛlɛ kaa a pɔlɛ nu ha kɛɛ?,0.4286,0.1
+71,MO SƆMƆ NI KPAHI KAA BƆ NƐ MARKO PEE Ɔ,Mɔsɔmɔ nɛɛ kɛ́ nyɛ́ kánbɔ́ nɛ́ má akúpiɛ.,0.9,0.5172
+72,YEHOWA JI TSƐ NƐ NGƐ SUƆMI NƐ SUSUƆ NƆ HE,Jehova ji nne na nna suo m nesusuo n'ohi.,0.9,0.4375
+73,Nyɛ pɔɔ fiɛɛmi ngɛ zugba kpɔhi nɛ a tsɔ a he banee ɔ a mi. Anɛ nyɛ kai nɔ́ ko nɛ sa kadimi ngɛ nyɛ blɔ hiami ɔ eko mi lo?,"Zugbɔ kpɔ́ enɛ́ a chɔ́ ahị́gbán nɛ́ ɔ́ ami. Anɛ́, nyɛ káyí nɔ́ kɔ́ nɛ́ sɔ́ ká dí m nyɛ́ blɔ́ hí ami ɔ́ é kó mí ló. Nya gáyá ná",0.8387,0.4773
+74,MOO KASE HE SI BAMI NƐ O BUA NƐ JƆ NÍHI NƐ O NGƐ Ɔ HE,Mụ ka si e si ba mị na ụgbọ na jọ nị nị onye ọhị.,0.9375,0.5263
+75,NGƐ MƐNI BLƆ NƆ NƐ YEHOWA TSƆƆ KAA WA HE JUA WA HA LƐ KE . . .,Na mini blɔ nɔ ne ye hu achɔ ka awahi juawu ha le.,0.8,0.3095
+76,YE HUNO Ɔ GBO,Ye unu agbo.,0.75,0.3
+77,fiɛɛlɔ ko fɔ mo nine kaa o piɛɛ e he nɛ nyɛɛ kɛ nɔ ko nɛ ya kase Baiblo ɔ?,Ke fielo ko fu munyu nɛɛ ka o piee enɛ ye ekenoku ne ya kasi Baiblo.,0.85,0.4444
+78,MOO SUƆ WA TSƐ Ɔ NƐ O BUA NƐ JƆ,Mɔɔ sɔ̃ wachiɔ nɛ ogbaa nɛ jɔ.,0.7,0.3636
+79,NÍ KOMƐ NƐ MAA YE BUA MO,Ní kɔ́ mɛni ma ye gba mu?,0.7143,0.3333
+80,ANƐ NYUMU FƐƐ NYUMU JI YI KƐ HA YIHI TSUO NƐ A NGƐ ASAFO Ɔ MI Ɔ LO?,A ni nyumu fɛɛ nyumu jiji ke ha yi nchu nɛ a ngɛ asafo mi yulu.,0.5556,0.2449
+81,"Tɛ sa nɔ zu: Nɔ ko kaa jã a haa nɛ nɔ nyɛmi loo si temi kɛ womi nɛ huɛmɛ loo weku li kɛ baa e nɔ ɔ ha nɛ e nyɛ we nɛ e bu Yehowa tue, nɛ e kɛ je mi bami he mlaahi nɛ Yehowa wo ɔ tsu we ní.","Noko kã jaa haa ne nnoo nyɛ mi loositɛm kɛ wui mi, nɛ huɛɛ mi lo wɛkuli kɛ baa inoo. Haa ne nyɛ wɛɛ nɛ e bu yɛhu atoi, nɛ e ka je mi ba mi hi mlaii nɛ yɛhu a wuo chu wɛɛ ni.",0.7736,0.3759
+82,JACK KƐ MARIE-LINE BERGAME A NYA MI MUNYU,Marilyn Begham anya munyu,0.875,0.4242
+83,FIAA O PƐƐ SI KAA O MAA WO NI KPAHI A BUA,Fia Pesika o mawu nipa ya gba.,0.9167,0.4
+84,NÍHI EKPA NƐ MAA YE BUA WƆ NƐ WAA PEE KPOO,Nii kpa ni ma yi gba o nu wa pe kpo.,1.0,0.4375
+85,WA NINE SU OTI NƐ WAA KƐ MA WA HƐ MI Ɔ NƆ,Wani nɛ suɔ tinii wa ke mawa hemiɔnɔ.,0.8462,0.2414
+86,WA HE JUA WA HA YEHOWA,Wahé juawu wa ha Yehowa.,0.5,0.1765
+87,Kane Mawu Munyu ɔ daa nɛ o pue o yi mi tɛ ngɛ he,nyuɔɔ daa ne okwɛ oyim tɛŋɛhi. Sɔle daa,0.9286,0.7143
+88,MƐNI JI YI YEMI?,Mini ji yie.,0.75,0.3333
+89,"Mɛni níhi nɛ peeɔ ta buli a he piɛ pomi ní ɔmɛ ɔ? (Hyɛ daka nɛ ji, “ Mɛni Ji Ta Buli A He Piɛ Pomi Ní Nɛ Je Mawu Ngɔ ɔ? ”)",Mini ni ne piota buli ahi pia po mini ome. Hie daka ne ji mini ji ta buli ahi pia po mini ne ji ma onwo.,0.8065,0.3253
+90,MƐNI MA NYƐ MAA NGƆ HƐKƆ KƐ BA?,Mini manye ma ngɔɔ hɛɛ kɔn kɛ ba?,0.75,0.2609
+91,"Mɛni o kase ngɛ bɔ nɛ Yehowa, Yonatan kɛ David je suɔmi kpo ha a mi?",Mini okasinge bɔne Yehowa Yonatan ke David jesu nkwɛ hã mi.,0.75,0.2353
+92,Marie-Line: E be gbɔjɔɔ kaa nɔ ko maa hia kɛ ya he ko. Se e he hia kaa o ma ná he ko nɛ o he maa jɔ mo ngɛ ke ji o je fiɛɛmi kɛ ba.,Be wa joku anokoma hie ke yaa he ko. Se ehia kaa omaa na he ko ne ohi ma jo mu nge keji oje fie mi ke ba.,0.7838,0.3736
+93,Kɛ e sa kaa nihi nɛ a pɔ mɛ nu ɔ nɛ a na a he ha kɛɛ?,Ke sika ni ne a po me nuo ne a na hi ha kee.,0.7778,0.4
+94,Mɛni he je nɛ wa ma nyɛ ma ná nɔ mi mami kaa wa Tsɛ ɔ be wɔ kuae gblegbleegble?,Mini heje wa manye ma na no mi mam ka awache obewokwa igle igle igle.,0.85,0.322
+95,“Nyumu Fɛɛ Nyumu Yi Ji Kristo”,nyumu fɛɛ nyumu yi Kristo,0.1667,0.087
+96,Nyɛɛ Pee Kpoo Nɛ Nyɛɛ Ngɔ Nyɛ Hɛ Kɛ Fɔ Yehowa Nɔ,Nyepe kpoo ne nye ngɔ nye eke fuu yi huanu.,0.8333,0.4324
+97,"Ke O Ji Nyumu Nɛ O Sɛ Gba Si Himi Mi Ehe ɔ, Mɛni O Ma Nyɛ Maa Pee Konɛ O Yo Nɛ Je Bumi Kpo Kɛ Tsɔɔ Mo?","Munyukwa a ne piɛɛhi: Ke o ji nyumu ne o segwɛ si himi, e hi o mini o manye ma pe koni o yo ne je gbu nkpo ke cho mo.",0.7241,0.5417
+98,Kɛ mumi klɔuklɔu ɔ ma nyɛ maa ye bua wɔ ha kɛɛ konɛ wa nyɛ nɛ waa hwu kɛ si hɛkɔ?,"Kɛ́ o mu kɔnklo manye ma ye gba wɔ ha kee, kɔne wa ye ni wa hu kesi he ku.",0.7619,0.4
+99,Mɛni e sa nɛ o pee loko a baptisi mo?,esane o pee loko a baptismo mini,0.6,0.3704
+100,"Ke a ke waa suɔ wa sibi a sane ɔ, mɛni e tsɔɔ?",Ke ake wa so wa si bi asanio? Mini echo?,0.8462,0.3125
+101,Mɛni ji blɔ kpa nɔ nɛ Yehowa guɔ kɛ poɔ wa he piɛ?,Mini ji blokwa nonɛ Yehowa agwonɛ kɛ puɔ wa hɛpiɛ.,0.6923,0.2973
+102,"Ni komɛ nɛ a tuɔ munyu kɛ siɔ Baiblo ɔ tsɔɔ kaa Baiblo mi sane nɛ ɔ ji nyazia. Se loloolo ɔ, odase ngɛ nɛ tsɔɔ kaa Shem * nina ye nyɔguɛ ngɛ blema Egipt.","Mene atuomunyuke si o Bible cho ka a, Bible misane na oji nyazia. Se lolo luo, o da se nge ni cho ka a, Shem ni na ye nyogwe nge blema Egypt.",0.9118,0.2957
+103,Nyɛɛ Ya Nɔ Nɛ Nyɛɛ Suɔ Nyɛ Sibi A Sane,Nye ya no ne nye so nye si bi asane.,0.9,0.3103
+104,Yehowa Maa Po O He Piɛ—Ngɛ Mɛni Blɔ Nɔ?,Yehowa Maapu ohe piɛ ngɛ mini blɔ nu?,0.7778,0.1034
+105,NƆ́ NƐ WA MA NYƐ MAA KASE NGƐ ANƆKUALETSƐ HANA HE,Nɔ nuwa manye ma ka si nga nɔ kwali che ha na hi.,1.0,0.2895
+106,HƐ NƆ KAMI NƐ SE BE,Heno kãne si be,0.8333,0.5
+107,MƐNI NYAGBAHI NƐ YIGBAYIHI KƐ KPEƆ?,Mini nyagba anyi ne yi gba yi nke pe o.,1.6667,0.3448
+108,Mawu sɔmɔli anɔkualetsɛmɛ je a tsui mi kɛ sɔle ha Yehowa ngɛ si fɔfɔɛ slɔɔtohi a mi. Anɛ o nu he hyɛ kaa bɔ nɛ a nu he ɔ lɔ?,"Mọọ somọ́ lianu kwale che meje achimi ke sọli ha Yehova, ngasufu fọfọ́ insro tọnyi ami. Ana onuehi e ka mgbe ni anuhi ọrụ.",0.9667,0.4731
+109,waa kɛ ni kpahi nɛ sɛɛ wa hiɔwe Tsɛ ɔ he ní?,Wà kɛɛ ni kpɔ̃́ nyɛ́ nɛ́ nyɛ́ wá hiɔ wɛ́chiɛ́ ōhī nɛ́.,0.9167,0.5312
+110,"Mɛni ji nɔ́ titli nɛ e sa nɛ e wo wɔ he wami konɛ wa sɔmɔ Yehowa, nɛ mɛni he je?",na etiri na sa ne ewu owo hiwa mi kone wasomo yehova na mini heji kawa ma,0.9524,0.4912
+111,Mɛni wa kpɛti nɔ fɛɛ nɔ ma nyɛ maa pee kɛ je Mawu yi ngɛ Kaimi ɔ sisi?,Mini wa kpetii nọ fɛɛ nọ manye maapee ke je mawu yi nge kai miosisi.,0.7222,0.1731
+112,KATHLEEN LOGAN NYA MI MUNYU,Kathleen Logan yaa munyu.,0.4,0.1304
+113,Mɛni Be Nɛ E Sa Nɛ Nyɛmiyo Ko Nɛ Ha E Yi Nɔ?,Munyukpa ne piɛɛ hi. Mini bi ne esane nyɛ miyoko ne ha eyi nu?,1.0769,0.6774
+114,Anɛ O Nuɔ He Kaa Bɔ Nɛ A Nu He ɔ Lo?,A ne onu oyi ka agba ne anuhi olu.,1.0,0.4167
+115,NƆ́ NƐ WA MA NYƐ MAA KASE NGƐ BƆFO PAULO HE,Nɔ nu amanyɛ mla ka asɛngbɔfɔ Paulo hi.,0.8182,0.25
+116,Mo hla Matsɛ Yemi ɔ kekle ngɛ o si himi mi,ke mi okɛɛ klɛ ngɛ osihimi mi. Waanɛ uchai. Ke,1.0,0.8438
+117,ANƐ YEHOWA PƆ MO NU LO?,Anɛ yoo a kpoo munulɔ.,0.8333,0.4706
+118,YONATAN KƐ DAVID “NU HUƐ”,Jonathan ke David nuhue.,0.8,0.2105
+119,Mɛni lɛ haa nɛ Kristofo no ko bua jɔɔ?,Mɛni lehaane Kristofoɔnɔ ko gba jɔɔ?,0.6667,0.2069
+120,Anɛ nyumu fɛɛ nyumu ji yi kɛ ha yihi tsuo nɛ a ngɛ asafo ɔ mi ɔ lo? Moo tsɔɔ nya.,A ne nyumu fɛɛ nyumu ji yi ke ha yi chu na nga safo miolo mo cho ya.,0.7619,0.2881
+121,Nyɛ kase gbi kpahi fuu. Anɛ nyɛ ná lɛ gbɔjɔɔ lo?,"Anee, nye na le gbojo olu. Ebe gbojo",1.0,0.8056
+122,Mɛni he je nɛ o naa Yehowa kaa Tsɛ nɛ hi pe kulaa a?,Mini heje no na ye hu aka che nihi pekula.,1.0,0.3158
+123,Kɛ bɔ nɛ wa peeɔ wa ní ha a maa ye bua ni kpahi ha kɛɛ konɛ a hwu kɛ si hɛkɔ?,"Kɛ bɔ nɛ wa piɛɛ wa nihaa ma ye bua ni kpahi ha ke, kone ahuke si he ko.",0.5455,0.2182
+124,MƐNI O KASE NGƐ NIMLI NƐ ƆMƐ A NÍHI A SI KPAMI ƆMƐ A MI?,Minɛ okasingɛ nimli nɛ ɔ mɛ anɛ asikpa miɔmami.,0.8667,0.1707
+125,"Jack: Behi fuu ɔ, i tsakeɔ tsu ɔ mi kɔla a. Ke nyɛmimɛ nɛ a ngɛ asafo ɔ ní tsumi kɔni ɔ na kaa wa se be kɛe ngɛ he ko ɔ, a deɔ wɔ ke, “Jack, ko gba o he nya kaa o ma tsake tsu ɔ mi kɔla a!”","Fuɔ, i chakiɔ chuɔmi kɔla. Kɛnyɛ mi mɛnɛ anɔ asafui ni chi mu kɔni ɔ na ka awase be kɛɛ ngehi kuɔ. Adie owoke, Jack ku gba ohinya kɔ ma chaki chuɔmi kɔla. Marilyn",0.8039,0.3692
+126,Nyɛ nine su ní tsumi slɔɔtohi a nɔ ngɛ jehahi nɛ be ɔ a mi. Mɛni lɛ ye bua nyɛ nɛ nyɛ nyɛ ngɔ nyɛ he kɛ wo si fɔfɔɛ slɔɔtohi a mi?,Ihe mere ji tum sọlụtụ anyị anọghị dị ha ịne bịọ amị. Mini le yebuo anyị na enye ngọnyehi ka wụọsịfọ fọ sọlụtụ anyị amị.,1.0,0.625
+127,Anɛ Yehowa Le Mi Lo?,"Munyukwa ị na-enye anyị, a na-eji ya eme ihe.",1.8,1.6667
+128,MO HA NƐ O HIƆWE TSƐ Ɔ BUA NƐ JƆ,Mohaane ohia wite gba ni jɔ.,0.9,0.3913
+129,MƐNI NƐ NYUMU KO MA NYƐ MAA PEE KONƐ E PEE WEKU YI KPAKPA?,Mini ne nyumu ko manye ma pe ko ne e pe we ku yi kpakpa.,0.7143,0.1591
+130,MƐNI O KASE NGƐ BƆ NƐ NIMLI NƐ ƆMƐ BA A HE SI HA A MI?,"Mini okase, nge bone nimi no me ba ahisi haami.",0.9375,0.2368
+131,"Dr. Bimson de ke: “Egipt yi nɔ sane tsɔɔ kaa níhi nɛ Baiblo ɔ de ngɛ Israel bi ɔmɛ nɛ a ya pee nyɔguɛ ngɛ Egipt, kɛ be nɛ a je lejɛ ɔ he ɔ ji anɔkuale.”","Egypti nɔ sane nɛɛ chɔ kaa, nii nɛ Bible de Israel biome nɛ a ya pei nyɔnguɛɛ Egypt ke biɛɛ ajeli jɔhi ji anukwari. Munyuu nyata.",0.7838,0.5
+132,Nihi A Nɔ Hyɛmi Ní Kpakpahi Nɛ I Kase ɔ Ha Nɛ I Ná Jɔɔmihi Babauu,"Nii Anorhia, minikwɛkwɛ anyɛɛni kaasi yohani naje omi gbo baa o.",1.0,0.54
+133,O He Jua Wa Ha Yehowa O Mawu ɔ!,"O he jua wa, ha ye ho a oman wu.",0.5556,0.1364
+134,SISI NUMI EHE KO TSAKE NIHI BABAUU A SI HIMI,Sisi num e he ko cha ke ni maba o ashi him.,1.0,0.2857
+135,MO SUSU SƆLEMI NƐ NI KOMƐ JE A TSUI MI KƐ SƆLE NGƐ BAIBLO Ɔ MI Ɔ HE,Mó susu sane ni komeji a chwɛmi ka soli ngɛ Baiblo mi ohahi.,0.6667,0.42
+136,MƐNI WA MA NYƐ MAA KASE NGƐ NƆ HYƐMI NÍHI NƐ A NGƐ BAIBLO Ɔ MI Ɔ A MI?,"Mini wa manyi ma ka si, ngɛ nohi mli nɛɛ a ngɛ Baiblo mi yoo ami.",0.6842,0.3137
+137,KƐ E SA NƐ WAA NA YIHI NƐ WAA KƐ MƐ NGƐ ASAFO Ɔ MI Ɔ HA KƐƐ?,"Ke esane wa nɔ yii, niwa kɛ me ngá safoɔ mi oha ke.",0.8889,0.3095
+138,KƐ E SA KAA NIHI NƐ A PƆ MƐ NU Ɔ NƐ A NA A HE HA KƐƐ?,Kɛ sakan niine apomi nuo ne anaahi hake?,0.9444,0.3143
+139,MƐNI O MA NYƐ MAA PEE KƐ YE BUA BAIBLO KASELI NƐ A YA A HƐ MI KƐ SU BAPTISIMI HE KE . . .,Meni omanya ma pee ke ye gba Bible kaseli ne aya ahe mike su baptismhi.,0.7727,0.2581
+140,MOO NA YEHOWA SI NGƐ HƐ KƐ NƆ FƆMI NƐ E HA MO Ɔ HE,"Monalisa, ye huasi nhe he ke no fo mli ehi mwohi.",1.0,0.5556
+141,"Ke nyɛmiyo ko suɔ nɛ e le ke ji e sa nɛ e ha e yi nɔ ngɛ si fɔfɔɛ ko mi aloo e sɛ nɛ e ha e yi nɔ ɔ, e he maa hia nɛ e ha sane bimi etɛ nɛ nyɛɛ se ɔ a heto:",Ke nyɛ miɛ ko so nɛ e le ke ji e sa nɛ e ha e yi nɔ ngɛ si fɔfɔɛ ko mi alo e sa nɛ e ha e yi nɔ. E ma hyɛ nɛ ha sa nɛ bi miɛ tɛnɛ nɛ ye si wahitu.,0.3958,0.2056
+142,"Ke wa pue wa yi mi tɛ ngɛ sɔlemihi nɛ a ngma ngɛ Baiblo ɔ mi ɔmɛ a he ɔ, lɔ ɔ ma nyɛ maa ye bua wɔ konɛ wa sɔlemi nɛ nu tso.","Kɛɛ a puɛɛ im tɛŋ a sɔlɔmi nɛ a gba ngɛ baiblo mi ɔ mi ahio, lɔ maa nyɛ maa ibua okwɛ nɛ wa sɔlɔmi nɛ nuchu.",0.7059,0.3483
+143,He Blɔ Nɛ Asafo Mi Nikɔtɔmahi Ngɛ Ngɛ Asafo ɔ Mi,He blɔ ne asafo mi nikɔtɔmahi nge asafo ɔ mi.,0.2727,0.1316
+144,Kɛ wa maa pee kɛɛ kɛ le kaa wa wo ta buli a he piɛ pomi ní ɔmɛ tsuo?,Kɛɛ wa maa plɛ kɛ le kaa wa wutabiri ahi piɛɛ pu miniomi chuu.,0.6842,0.3469
+145,HE TSUMI BE,hechumbe,1.0,0.3333
+146,KƐ E SA KAA WAA PEE WA NÍ NGƐ KRISTOFOHI NƐ A PƆ MƐ NU Ɔ A HE HA KƐƐ?,Kɛ sika wá piɛɛ ni Kristofoi nɛ apɔmɛnɔ ahe ha kɛɛ?,0.8,0.3061
+147,Muɔ Hɛlii Ko He Je!,Moheli koheji,1.0,0.3571
+148,Kɛ e sa kaa waa kɛ Kristofohi nɛ a pɔ mɛ nu ɔ nɛ hi si ha kɛɛ?,Kɛ sika wa ke Kristofoii ne a poo me nuo ne hi si ha kee?,0.7222,0.3182
+149,Kɛ he si bami kɛ wa bua nɛ maa jɔ níhi nɛ wa ngɛ ɔ he ɔ maa ye bua wɔ ha kɛɛ konɛ wa nyɛ nɛ waa hwu kɛ si hɛkɔ?,"Keresimesi bu oge a na-echeta ọmụmụ Jisọs Kraist, onye ụka Kristian kwenyere na ọ bụ Ọkpara Chineke.",1.0,0.8354
+150,Nyɛɛ Hwu Kɛ Si Hɛkɔ Nɛ Nyɛɛ Di Tue Mi Jɔmi Se,"Nye hu kasi heko, nyɛ nyɛ di twenjom si.",0.9167,0.4118
+151,NƆ́ NƐ E SA NƐ WEKU YI NƐ PEE,Nɔne esane weguhi nepe.,1.0,0.3
+152,"Anɛ o nu sisi kaa o baptisimi ɔ kadiɔ mo kaa Yehowa Odasefo no, nɛ o ba piɛɛ Yehowa asafo ɔ he lo?",wángè nò chái,1.0,0.9595
+153,"Ke e ma bi nɛ waa kɛ Baiblo kaselɔ ko nɛ kpa Baiblo ɔ kasemi ɔ, mɛni níhi a he nɛ e sa nɛ wa susu?","Ke ema bi ne wa ke Baibolo ka si lo ko ne kpa Baibolo ka si mi o, mi ni ni ahi ne sa ni wa susu.",0.8077,0.2394
+154,HE BLƆ NƐ WEKUYIHI KƐ ASAFO MI NIKƆTƆMAHI NGƐ,Heblonewɛ kwi yi ke asafo mini kɔtɔ ma ye.,1.0,0.3243
+155,JEHA KO NƐ SA KADIMI WAWƐƐ,Jehu kornɛ sakadi mɔɔ we.,1.0,0.3333
+156,"Ngɛ Baiblo ɔ se ɔ, mɛni odase kpa lɛ tsɔɔ kaa Israel bi ɔmɛ ye nyɔguɛ ngɛ Egipt?",Mini odase pɛlɛ chon gan Israel biomɛ yɛ nyogbɛ ngɛ Egypt.,0.8333,0.4426
+157,MOO HƐ KƐ SU YEHOWA HE HAA,Mu he kasi yohua hi ha.,1.0,0.5
+158,YEHOWA MAA YA NƆ MAA PO WA HE PIƐ,Yehowa ma ye ano ma pu wa he piɛ.,0.5556,0.2
+159,Wa Kase Kaa Wa Maa Pee Nɔ́ Fɛɛ Nɔ́ Nɛ Yehowa De Wɔ Kaa Waa Pee,Wà kà sé kã wà mã pé nò fẽ nò né Yehowa dé wà kã wà pé.,1.0,0.5111
+160,Mɛni nɛ asafo kuu ngua a ngɛ blɔ hyɛe kaa a ma ná ngɛ amanehlu ngua a se?,Minimɛ asafo kuw ngɛ blohiɛ ka amana ngɛ amanihungua si.,0.8333,0.3091
+161,SUƆMI NƐ WA NGƐ KƐ HA WA HE NYƐLI Ɔ YEƆ BUA WƆ NƐ WA DAA NINYƐ NYA,Sọọmịnị wange ke ha wahi nyeli oyi ọgbawụ ni wa daa ninyenya.,0.8333,0.3265
+162,MOO KASE MATSƐ ASA NƆ HYƐMI NƆ́ Ɔ,Mokase mache asanoyemi noo.,1.0,0.36
+163,MƐNƆMƐ NƐ YESU FÃ MƐ KAA A PEE NIHI KASELI?,Meno mene Yesu famɛ kaa ape ne kaseli.,0.7,0.2727
+164,Asafo ɔ Tsuo Ma Nyɛ Maa Ye Bua Baiblo Kaselɔ Nɛ E Ya E Hɛ Mi Kɛ Su Baptisimi He,Asafo atuo manye manye yi gba Baibolo ka si lo ne e yaa hiɛ mi kɛ su baptisimhi.,0.75,0.2667
+165,Mɛni jɔɔmihi nyɛ ná ngɛ sɔmɔmi nɛ nyɛ ya sɔmɔ ngɛ hehi nɛ fiɛɛli a he hia ngɛ ɔ?,"Asomɔ ngɛ hɛi nɛ fĩɛli ayhi anɛɛ. Be chuɔ asomɔ mi nɛ ichumi ɔ nɛ wa ke wa he wuo mi ɔ, ha nɛ wa",1.1579,0.8361
+166,Nihi nɛ nyɛ ya sɔmɔ ɔ suɔ nyɛ sane wawɛɛ. Kɛ pee kɛɛ nɛ nyɛɛ kɛ nyɛmimɛ nɛ ɔmɛ bɔ huɛ ɔ?,Abe inyumu kake ake kukunyinyo ke nuo me bo hwe o.,1.0,0.7077
+167,"Ke a pɔ nɔ ko nu ɔ, mɛni ji tsakemi komɛ nɛ yaa nɔ?","Ke apono konu, mini ji cha ke mi kome ne ya nu?",0.9286,0.2778
+168,Mɛni e sa nɛ o le ngɛ he nɔ jɔɔmi kɛ baptisimi he?,Esane o linga he no jomi ke baptism he.,0.7692,0.3514
+169,Níhi Nɛ Maa Ye Bua Mo Konɛ O Nyɛ Nɛ O Kane Baiblo ɔ Daa Ligbi,Ni ne ma ye bua moko ne onye ne oka ni baiblo daali gbi.,0.8125,0.1957
+170,Anɛ O Pee Klaalo Kaa O Ma Ha Nɛ A Baptisi Mo Lo?,Ope klalo ka o mahane a baptismo lo. Nwami,0.8462,0.3714
+171,NƆ NƐ E SA NƐ WAA SUƆ LƐ WAWƐƐ,E sane wa suole wa we. Kuku,0.8889,0.5909
+172,WA TSƐ Ɔ BE WƆ KUAE GBLEGBLEEGBLE,Wachiɛ bi wɔ kɔɔ gbligbligbli.,0.8571,0.4444
+173,MƐNI NYAGBAHI NƐ KRISTOFOHI NƐ A HI SI NGƐ KASELI ƆMƐ A BE Ɔ MI Ɔ KƐ KPE?,Méninyo gba éne Kristofo éne a hísí ngé ka séli ómabio mi okékpe.,0.8889,0.3273
+174,MƐNI HE JE NƐ YEHOWA TO YI YEMI HE BLƆ NYA?,Mini heje ni ye ho ato iyi mli he blonya.,0.9091,0.2188
+175,WA YA SƆMƆ KAA BLƆ GBALI KLƐDƐƐ NGƐ QUEBEC CITY,Waya somo ka mblo gba link le de enekwi Bek City.,1.0,0.3684
+176,YAA NƆ NƐ O HƐ MO KƐ SU YEHOWA HE KƐ GU SƆLEMI NƆ,Iya nu no he muke su Yehowa hi ke gu solimi no.,0.7857,0.3333
+177,MƐNI YAA NƆ KE A PƆ NƆ KO NU?,Mɛni yaa nɔ ke a pɔnɔ gonu?,0.4444,0.05
+178,Kɛ nihi nɛ a pɔ mɛ nu ɔ naa zugba a nɔ si himi ɔ ha kɛɛ?,Kɛni nɛ akpɔ mɛnɔ na asugba nɔ sihi miɔ hakee.,0.8824,0.2051
+179,Nɔ́ Nɛ Blɔ Tsɔɔmi Ajla Toli Ɔmɛ Tsuɔ,"Munyukpa enepiehi, nɔ ne bulɔ chɔma ajina tɔliɔ me chuɔ.",1.125,1.0
+180,“Mumi ɔ Nitsɛ Yeɔ Odase”,Mumi onukpa yoo Odase,0.6,0.3889
+181,NƆ́ NƐ HA NƐ YE BUA BA JƆ FIƐƐMI NÍ TSUMI Ɔ HE,Nene ha ne yi gba ba jɔ fia mi ni chu mi ohi.,0.8462,0.3939
+182,NÍHI NƐ TSƆƆ KAA WA TSƐ NƐ NGƐ SUƆMI Ɔ SUSUƆ WA HE,Ni ne cho ka awache ni nge su mi osusu owahi.,1.0,0.4211
+183,Kɛ e sa nɛ waa na nyɛmimɛ yihi nɛ a ngɛ asafo ɔ mi ɔ ha kɛɛ?,Ke esane wananyimi me yi na ngasafomiyo hake.,0.9412,0.3256
+184,A PEE WOMIHI KƐ HA AMIS BI,A pee wami ke haa amis bi.,0.4286,0.25
+185,YEHOWA FĨ WA SE WAWƐƐ,Yehowa fiɛ wa se wa we.,0.6,0.2353
+186,MOO YE NYAGBAHI NƐ MA NYƐ MA PUƐ BUA JƆMI NƐ O NGƐ Ɔ NƆ,"Moyenyongba yi, nɛɛmɔ nyɛmɔ puɛ gbaajɔmi nɛ onɛ ɔ.",0.8,0.2927
+187,‘Nyɛɛ Ya Nɛ Nyɛ Ya Pee Nihi Kaseli’,Nye yaa ne nye yaa pee nii kaseli.,0.75,0.2692
+188,A MA NYƐ MA NÁ HƐ KƐ NƆ FƆMI NGƐ O MI KAA TIHIKO LO?,A manye manna he ka no fuom nge ommi ka tihi kolo?,0.9333,0.3243
+189,MƐNI ASAFO MI NIKƆTƆMAHI MA NYƐ MAA PEE KƐ YE BUA?,Mini asafo mini koto mami manye ma pei ke a ye bua.,0.8182,0.2308
+190,MƐNI HE JE NƐ YOGBAYO HLAA KAA E MAA BA E HE SI HA E HUNO Ɔ?,Mini heje ne yo gba yo hla kan ema ba esin ha ehunu o.,0.8824,0.2326
+191,Ha Nɛ Yehowa Nɛ Ha Nɛ O Nɔ Gbagba Nɛ Te,Hane hu a ne ha nu ngwagwa ni ti?,0.9091,0.4138
+192,"Waa kɛ wa ní tsumi ehe ɔ tui ní tsumi nɛ wa tsu kɛ be ɔ he, ejakaa ke wa pee jã a, wa bua be ní tsumi ehe ɔ he jɔe. Jehanɛ hu ɔ, waa kɛ he blɔ nɛ ɔ leɔ wa nyɛmimɛ nyumuhi kɛ yihi ngɛ wa zugba kpɔ ehe ɔ mi.","Nwanyị chụrụ ehi ọhịa, nwanyị chụrụ ehi na-achụ kee bịa ọhịa, eji aka nke wa peeja, wa bụ abụọ ndị chụrụ ehi ọhịa jọọrọ. Jaa na-hụọ, wa kee hịrọ na-ọlị ọwa nyemị me nyumu ike yi na-wa zugba kpọọ ehi ọhịa mị. Nyemị",0.963,0.6667
+193,MƐNI WA KASEƆ NGƐ BƆ NƐ YEHOWA WO NIMLI NƐ ƆMƐ A BUA NƐ E HA NƐ A NƆ GBAGBA TE HA A MI?,"Mini waka si onge bɔ ni i huawu nimli nɔ ma bua, ne i ha na anugbegwate ha o mi.",0.75,0.3016
+194,Wa suɔ nɛ waa ye bua wa Baiblo kaseli nɛ a ba pee Kristo kaseli,"Moyoo paane peehi, wa soo ne wa ye gba wa Baibolo kaselehi ne aba pee Kristo kaselehi.",0.8667,0.551
+195,MƐNI O MA NYƐ MAA PEE KƐ WO NI KPAHI A BUA KAA . . .,Minɛ́ omanye ma peke wo nípa ya agbo a ka.,0.8462,0.3824
+196,MO JE YEHOWA YI KƐ O TSUI TSUO NGƐ KAIMI Ɔ SISI,Mɔ je Yehowa yi kɛ odči tsuo ngɛ kaimi osisi.,0.4167,0.1389
+197,MOO BU KRISTO KAA ASAFO Ɔ YI,Mɔbu Kristo ka asafuɔyi,0.8571,0.1818
+198,MOO YE ANƆKUALE KAA ARISTARKO,Moyaa nu kwali ka Aristarchus.,1.0,0.4
+199,MƐNI WA MA NYƐ MAA PEE KƐ TSƆƆ KAA WA MI MI HI?,Mini wa manye ma pe ike coo ka a wa mimii hi.,0.7692,0.2941
+200,Mɛni ma nyɛ maa ye bua mo konɛ o kɛ Yehowa nɛ sɛɛ ní faa ngɛ sɔlemi mi?,Mini manye ma ebu amu kwɛne o ka yi hwa nɛ e se nɛ ifaa ngɛ sɔli mimi.,0.9444,0.3208
+201,"Marie-Line: Akɛnɛ wa toɔ wa níhi a he blɔ nya saminya he je ɔ, wa jeɔ fiɛɛmi ní tsumi ɔ sisi nɔuu.","Aka nawa tu awani ayi blonya sami nya hejio, waji ofia mini chu mi osisi noo.",0.9545,0.4247
+202,“YEHOWA MI MI HI WAWƐƐ”,Yehowa mi mihi wa wee.,0.6,0.1176
+203,MO JE NUBWƆ PEEMI SU KPO,Je n'oublierai jamais.,0.8333,0.7368
+204,MOO SUƆ O WEKU Ɔ,Mɔ suɔmɔ wekuɔ.,1.0,0.3333
+205,Mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa wa suɔ wa nyɛmimɛ?,Minu amanye mwa pei ke a chong kaa a wa so wanyi mime.,0.9231,0.45
+206,“NYƐƐ HI YE SUƆMI Ɔ MI”,Nyɛɛ ye suomiomi.,0.6667,0.25
+207,Sane Bimihi Nɛ Je Ní Kaneli A Ngɔ,Nɛ jɛni ka nɛli anɔ. Mɛnɔ,0.875,0.6538
+208,MOO DI TUE MI JƆMI SE,Koku,1.0,0.875
+209,MƐNI O MA NYƐ MAA KASE NGƐ PAULO NƆ HYƐMI NƆ́ Ɔ MI?,Mini omanye maa kasa nge Paul nohie mi nohumi.,0.9231,0.2973
+210,MƐNI O MA NYƐ MAA KASE NGƐ MATSƐ DAVID SANE Ɔ MI?,Mini omanye mla kasa nge mla che David na Naomi.,0.9167,0.3243
+211,Mɛni ní eywiɛ wa ma nyɛ maa pee konɛ wa ná Baiblo mi sanehi a he se?,Mènè èwiè amanyè maapè kunèwa nna Baibulu misani ahisi.,1.0,0.4118
+212,Baiblo ɔ Kanemi Ma Nyɛ Maa Ye Bua Mo Nɛ O Da Kahi A Nya,Baiblo ka ne mi manye ma ye gbu amou ne oda kanyanya.,0.8667,0.1951
+213,WA HIA BLƆ SLƆƆTOHI,wahi ablo slotui,1.0,0.3125
+214,STEPHEN HARDY NYA MI MUNYU,Stephen Hardy nyamunyu,0.6,0.0909
+215,Mɛni o kase ngɛ Matsɛ David kɛ bɔfo Paulo a nɔ hyɛmi ní ɔmɛ a mi?,Mini okaseŋe mate David ke bɔfupaalu anɔhiɛ mi nɛ nioma mi.,0.875,0.3265
+216,MOO KASE NI KPAHI A HE SANE NGƐ BAIBLO Ɔ MI,Mokase ni kpɛi ahesani ngɛ Baiblo ni.,0.7273,0.1818
+217,Mɛni wa ma nyɛ maa pee ke wa ngɛ blɔ tsɔɔmi ko hlae nɛ wa kɛ da nyagba pɔtɛɛ ko nya?,Munyokpaa ne pee hi. Mini wa manye ma pee ke wa nge bulotso mi ko hlae ne wa ke danya gba apotee konya.,0.8571,0.4762
+218,WA SI FƆFƆƐ TSAKE,wasi fɔfɔe ntsake,1.0,0.1429
+219,I NGƆ YE HƐ KƐ FƆ YEHOWA NƆ,Ngɔ ye he ke fɔ̃ Yehowa nɔ.,0.375,0.15
+220,Nubwɔ peemi su kpo nɛ wa ma je.,Pemsu ku no amagi.,1.0,0.5652
+221,Mɛnɔmɛ ji polisihi nɛ a ngɛ Yuda bi a sɔlemi we ɔ? Mɛni ji a ní tsumi?,police ni a ye Judah bi a Salem biyo. Le,0.8235,0.6923
+222,Mɛni o kase ngɛ Yohane nɔ hyɛmi nɔ́ ɔ mi?,Mino kasengai yohane nohie minomi.,0.9,0.3
+223,Sanhedri bi ɔmɛ hu nyɛɔ nɛ a biɔ polisi nɛ ɔmɛ a yemi kɛ buami. Mɛ pɛ ji Yuda kuu ko nɛ Roma nɔ yemi ɔ ngmɛ mɛ blɔ kaa a hɛɛ ta hwumi níhi.,"biɔ mɛ hu nyɛɛ nɛ abiiɔ polisii nɛ omɛ ayim kɛ buam. Mɛ pɛɛji Yuda kuku nɛ Romanɔi mɛi onwɛ mɛ blɔka a, ahɛ ntahu mɛɛnii.",0.7429,0.2913
+224,YE FƆLI YE BUA MI NƐ I NA BLƆ NƐ DA A,Yefoli egbami ne inna bloni daa.,1.0,0.3077
+225,Nyɛɛ Suɔ Nyɛ Sibi Wawɛɛ Nitsɛ,Sune si bi wa we ni ce. Nma,1.3333,0.5833
+226,NGƐ MƐNI BLƆ NƆ NƐ NÍ NƐ ƆMƐ MAA YE BUA WƆ NƐ WA JE SUƆMI NITSƐNITSƐ KPO? . . .,blono ne ni nomayubo wo ne wa je sum nicha nichekpo,0.8889,0.5273
+227,Sane Bimihi Nɛ Je Ní Kaneli A Ngɔ,Sane bi mine je ni ka neli anọ.,0.75,0.2308
+228,WA NÍ TSUMI TSAKE,Wannie to meet Chucky.,1.0,0.8571
+229,E DA BLƆ KAA WA NGƆ WA HƐ KƐ FƆ YEHOWA NƆ,E da bloka wa ngua wa he ke fo Yehowa no.,0.5833,0.2667
+230,MO HA NƐ SUƆMI NƐ JE KPO NGƐ O NÍ PEEPEEHI A MI,Mohaane swiine jekpo ngɔɔ ni peepee ami.,1.0,0.3143
+231,Mɛnɔ nɛ a tu e he munyu ngɛ Baiblo ɔ mi nɛ o maa suɔ nɛ o kase babauu kɛ kɔ e he?,Mene atu ehi munyo n'ebe a bulu omi na uma su n'ukasi ba bu oke ko ehi.,1.0,0.431
+232,Mɛni wekuyihi ma nyɛ maa pee kɛ tsɔɔ kaa a suɔ a weku ɔ?,"Mini weku yi ma nyɛ ma pɛɛ, e kɛɛ chɔɔ ka asu a weku o.",0.7857,0.2857
+233,MOO SUƆ O NYƐMIMƐ NYUMUHI KƐ YIHI,Mɔ sɔŋɔ o nyimi menyu mui pe yi.,1.0,0.4074
+234,Mɛni he je nɛ e sa nɛ Kristofohi nɛ a hyɛ nɛ hi ke a kɛ Intanɛti blɔ nya tomi slɔɔtohi nɛ a kɛ maneɔ sɛ gbi ngɛ ní tsue ɔ?,Miniheji ne sane Kristofoenhi ahia ne hi ke aka internet dromanya tomi slot enhi aka mla ni ose gbi nge nichuyo.,0.871,0.4066
+235,Níhi Nɛ Wa Ma Nyɛ Maa Kase Ngɛ “Kaselɔ ɔ Nɛ Yesu Suɔ E Sane ɔ” He,"Nii nɛ amanyɛ mla ka si, ngɛ ka si lo nɛ esusuɛ sa nɛ ohi.",0.8824,0.2979
+236,MƐNI BE NƐ E SA NƐ WAA TU MUNYU?,Biénè sane wa tu munyu.,0.7778,0.3913
+237,MƐNI BE NƐ E SA NƐ WAA PEE DII?,Kuku nyumu,1.0,0.9545
+238,MƐNI HE JE NƐ WA TUƆ MUNYU KƐ SIƆ NI KPAHI A YI MI KPƆ MWƆMIHI Ɔ?,Mini he je ne watoo munyu kesio ne kpayi ayi kpo mu mi o.,0.7647,0.3333
+239,Mɛni Be Nɛ E Sa Kaa O Tu Munyu?,bi ne sa ka otumonyo ma,0.8889,0.5
+240,Anɛ yi mi kpɔ nɛ e mwɔ ɔ teɔ si kɛ woɔ Baiblo blɔ tsɔɔmi ko lo?,Ani yimi kponi emuoti osi ke wa Baibolo blo chomkolo.,1.0,0.3913
+241,"Ke e ngɛ nane yaya ko hiae ɔ, anɛ imi lɛ e sa kaa ma wo lɛ ga ngɛ he, aloo nɔ kpa ko lɛ e sa kaa e wo lɛ ga?","Keŋ nɛ nɛ yaa kɔhi ayoo, animi le saka mɔ wɛlɛ gaŋɛhi alu nukpa kule saka e wɛlɛ ga.",0.9375,0.3378
+242,Anɛ bɔ nɛ a tsɔse lɛ ha kɛ he nɛ e je ɔ lɛ ha nɛ e mwɔ jamɛ a yi mi kpɔ ɔ lo?,Ani gba na chɔsile hã ke hɛne ejiɔle hã nemɔ ja ma yimi kpɔɔlu.,1.0,0.3654
+243,MƐNI BLƆ NƆ NGMAMI NƐ ƆMƐ MAA YE BUA WƆ NƐ WA JE BUMI KPO NGƐ YI MI KPƆHI NƐ NI KPAHI MWƆƆ HE?,Mini blɔ nɔ ne nwam nɔ mi ma yi gba wɔ ne wa je bu ngɔ ngayi ngbɔi ne ni kpa muɔhi.,0.7917,0.4143
+244,BE NƐ E SA KAA O TU MUNYU,Aine piahi. Bene esa ka otumunyu. Ke,1.0,0.7222
+245,Anɛ nɔ ɔ ngɛ ‘nane yaya ko hiae’ aloo nɔ́ nɛ e ngɛ pee ɔ je ekpa ngɛ nɔ́ nɛ imi ma pee ɔ he?,"Aní nyo ngɛ nane ya ya ko hie, aloo nyo ne enɛ pio je kpa ngɛ nyo ne imi ma pio hi.",0.72,0.3016
+246,Blɔ nɔ nɛ wa maa gu kɛ je bumi kpo kɛ tsɔɔ wa nyɛmimɛ Kristofohi ke a mwɔ yi mi kpɔ ko nɛ wa kplɛɛ we nɔ.,Bia nu eni wa maku nke je bu mipo ke cho nwa nye ime Kristofoi ke amu yi nkpoku ne nwa kpele we no.,0.8519,0.3974
+247,Ke O Kɛ Nɔ Ko Kpa We Gbi,Ke o kɛ nɔ ko kpa we gbi?,0.0,0.0
+248,Ke wa na kaa nɔ ko ngɛ nɔ́ ko pee nɛ ma ha nɛ e pee yayami nɛ hɛdɔ ngɛ he,Akan nuku nge nuku pii ne mahane epi ya amene he donge hi.,1.0,0.4615
+249,Mɛni be nɛ e sa nɛ waa tu munyu?,Bi ni e sane wa tu munyu. Mini,0.7778,0.5217
+250,"Anɛ yi mi kpɔ nɛ e mwɔ ɔ maa ye lɛ awi, aloo imi nɛ i ngɛ susue kaa nɔ́ yaya ko maa je mi kɛ ba lo?","Anyi mikponi emu ma yile awi, alo imi ne inesusu kaa no ya aku maje mike balo.",0.8929,0.2754
+251,NƆ́ NƐ MAA YE BUA WƆ NƐ WA JE BUMI KPO KƐ TSƆƆ NI KPAHI KE A MWƆ YI MI KPƆ KO,"None ma ye gbawo, ni wa je bumipo kɛ cho ni kpayi ke amoyi mpoko.",0.7273,0.3273
+252,Ke o le laami sane komɛ nɛ kɔɔ asafo ɔ he,wange no chai,1.0,0.871
+253,E sa nɛ asafo mi nikɔtɔmahi kɛ tsui si tomi nɛ wo nihi ga ngɛ be nɛ sa mi,A ne asafoni koto mai ke tsu si tomi ne wui nga nge be ne sami. Be ne,0.8947,0.3818
+254,Koo Kojo Ni Kpahi Ngɛ Yi Mi Kpɔ Nɛ A Maa Mwɔ ɔ He,"Lala faka ke kanyigba kɛɛte, wa ngɛ tuemi jomi.",1.0,0.9167
+255,Mɛni be nɛ e sa nɛ waa pee dii?,Bi ne e sa ne wa pi dii. Mini,0.7778,0.6364
+256,MƐNI HE JE NƐ E SƐ NƐ WAA KOJO NI KPAHI KE A MWƆ YI MI KPƆ KO?,Mini he je ne sane wa kojo ni kpaa ke amuyi nkpoko.,0.7222,0.2727
+257,Mɛni o kase ngɛ Baiblo mi nɔ hyɛmi níhi nɛ wa susu he ɔ mi?,Ká si ngɛ Baiblo mi nɛ ohiɛ mi nɛ i ne wa susu hie omi. Lanyi,0.7333,0.4545
+258,Ke nihi ngɛ hlae nɛ o tsɔɔ mɛ blɔ nɔ nɛ nyɛmimɛ nɛ a tsi a nya ngɛ ma kpahi a nɔ ɔ guɔ kɛ tsuɔ fiɛɛmi ní tsumi ɔ,"Nyanyae ne ocho me bulu no, ne nyeme ime ne achi anya nge ma kpa ya na ogu oke chu ofie mini chumi o. Ke",0.9667,0.5181
+259,Mɛni ní kpakpahi lɛ ma nyɛ maa je yi mi kpɔ nɛ e mwɔ ɔ mi kɛ ba?,Meni ni kpaka yi le manye ma je yi npo ni emu omi kaba.,0.8889,0.3478
+260,KƐ YEHOWA NAA NÍHI NƐ WA DEƆ Ɔ HA KƐƐ?,wa naa niine wa di o ha ke,0.7,0.5
