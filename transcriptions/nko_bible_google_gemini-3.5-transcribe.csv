@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Ɩnʋ ɔlɛkpa amʋ́ dalɩ yɛfɩtɛ amʋ́ ɔbɛɛ, “Mɩ awie, ntɔ mbwɛ asa Bulu ɔhɔ mɩ nkpa?","n'ọrapka, amaghị m ma ọdara ya afụta ya ma ọbụ ya. Mụ awie, ntị mụ ga-asị na abụrọghị m",1.1875,0.7414
+1,"Ɩnʋ Yesu lɛbla amʋ́ ɔbɛɛ, “Mlɩkɩ wanklaan, mɛnɩ ɔhaa mɛ́ɛmlɛ mlɩ.","Mene yeso, lebla amu obe. Mele kwan kwan, me no ha me mele mele.",1.2727,0.4898
+2,"Mʋ́ sʋ bɛkɩ ansɩ lɛ ɔklʋn kusubi amʋ dɩnka ɔpʋ amʋsʋ hɩɛɛ, fɛ simpi amʋ bʋdɛpʋsian ɔklʋn amʋ ɔnɔsʋ.","Mụ so bịkee, m sị na ọkụrụ kụsịbị, a mọ dika ọpụrụ a mọ sọ hie, fa sịmpị a mọ bụdepụsịa ọkụrụ a mọ ọnọsọ.",1.3158,0.5769
+3,"Mʋ́á bʋtowun pʋ́ mʋ́á bʋtamawun fɛ́ɛ́, ɔŋɛtɔ awie, ɔmásʋgyi tumi, atumipʋ, pʋ ɩsʋ agyipʋ fɛ́ɛ́.","Mwa buto mpo mwa buta ma mfe? Onetu a vie, omasu ji tumi, atumi popo eso ajipo fe.",1.1333,0.4493
+4,"Ɩtswɩtswɩ ha Bulu aha ánɩ́ bʋbʋ Yerusalem asʋn amʋ ɛ a, mlɩbwɛ mʋ́ fɛ alɩ amʋʋ nɛbla ɔpasua amʋʋ ɩbʋbʋ Galatia ɔmátɔ mbɛɛ, bʋbwɛ mʋ́ amʋ.",Jesu ha bulu aha na egbobo Yerusalem asu amu ya. Mmadu egbamofe aria mu na ebea opasua mu egbobo Galatia omatom be egbobo muwa mu.,0.8077,0.4906
+5,"Ɩnɩá mʋa mʋ woyitɔ aha fɛ́ɛ́ bahɔ Bulu gyi sʋ a, ansɩ lɛhɩɛ gyi amʋ́.","mụ na ya nwere ike ịhapụ ya ka ọ bụrụzi nsogbu a, a sị na ihe ji a",1.1333,0.82
+6,"Ɩnʋ ɔlɛnatɩ yɔ nkpa kpalobi, ɔlɛda akpawunu pʋ ansɩtɔ bun ɔsʋlʋtɔ, kokoli Bulu ɔbɛɛ, “Mɩ Sɩ, nɩ bɔ́wa alɛ a, ha nta-ɛwɛ anfɩ ɩtsʋn mɩsʋ.","N'oge ochie, ụmụaka na-ebi ndụ dị mfe na obi ụtọ. Koko na-eburu ha ebe ahụ. Misi, n'Igbo waara ya, ọ pụtara otu nwanyị",1.0,0.7767
+7,"Kɩ, nyasubiá bayopula fʋ klu yinki lawie obu-ɔnɔ ɩnʋ a.",Ke ya subiane be pula fukulu inki la wie obue no enua.,1.2,0.3023
+8,Mlɩyin alɩá bʋtɛlɛ ɔsʋlʋsʋ pʋ́ nwʋlʋtasʋ atɔ asɩ.,"Alee aputito oyi ntotri teda, itamaru ajuma ntelu",1.0,0.95
+9,"Brɛá sumbi ayɔpʋ amʋ bɛdalɩ Yudafɔ asʋn ogyikpa ɩnʋ bɔyɔ a, ansɩ dɛ amʋ́ gyi.",I say,1.0,0.9333
+10,"Amʋ́tɔ ɔkʋkʋ megyi ohian, tsufɛ amʋ́á bʋbʋ ɔsʋlʋ pʋ́ woyi betsia fɛ mʋ́, pʋ mʋ́ ɔnɔ kɔba ba sumbi ayɔpʋ amʋ, betsia ye mʋ́ ha ɔhagyiɔha alɩá ilehian mʋ.","A mu taa ka ku meje onhiya, chufe ama bu bu osuru pu we betiafe mu, pumu ono koba ba sumi ayopu amu, betia ye mu ha ohaji ha alia ilehia mu.",1.0,0.4035
+11,Alatsʋn mʋ Ɔŋɛ amʋ pʋ́ anɩ Wie Yesu Kristosʋ tsu mlɩá mlɩ asʋn da ɔkpa mʋ ansɩtɔ.,Ala chụmụ onye a mụrụ n'ime Eskistosụ chụmụrụ anyị mụ na Sọndọkpa mụ na nsị.,1.0,0.619
+12,"Aha amʋʋ bʋbʋ ɩnʋ alɩ brɛ amʋtɔ akʋ bɛbla Yesu bɛɛ, Pilato lamɔ Galileafɔ akʋ brɛá bʋdɛ afɔdɩɛ bɔ ha Bulu, Yerusalem Bulu ɔtswɛkpa ɩnʋ, ha obugya lada afɔdɩɛ amʋ.",Ha mụrụ ụmụ nwoke n'alịrị amụta akụkụ ebe a Yesu bee. Pilato laa mmụọ Galili afo akụkụ ebe a bụrụ na afọ dị ya bụ ha bụrụ Yerusalem bụrụ ọchịchịkpa ọnụ. Ha ụbọchị a laa daa afọ dị ya,1.1333,0.5814
+13,Mlɩlagyi Bulu ɔnɔsʋ atɔɩpʋ afunupʋ amʋsʋ.,"N'é la ji bulu, o n'oso ato a tipo a funupo a",1.8333,0.5143
+14,"Ɩlɔpɔn ha kpɔsɔ ánɩ́ ɔbɔ́tsʋn ɔbɩn-atɔ ɔbɔtɔ, dʋn ánɩ́ ɩwɩ onyapʋ obówie Bulu iwiegyi amʋtɔ.","Ihe ọ pụtara bụ na ọ bụrụ na ọbụghị atụ ọbụghị atụ, na ọbụghị na ịwụghị ya apụ, obodo wụrụ eburu, ịwụghị ya amụta.",1.6,0.8611
+15,Alɩ kɛn anɩ Wie lɛhɩɛá mʋ asʋn wanklaan amʋ ɔkan adapʋ ɛ bʋgyi atɔ tsu aha ánɩ́ bʋdɛ labi nya tsu asʋn amʋtɔ wa nɩ.,"Alekaya ni biyele siyanemu asu wankara moka ndapu ya bujiya tochu ha ni budela binya, chu asu mu towa",1.0,0.5056
+16,"Nɩ negyi asʋn o a, ɔnɔkwalɩ ɔkpasʋ negyi mʋ́ tsʋn.","M na-eji asụsụ wa, ọnọkwarọkwa sọ m na-eji mụ tụọ.",1.0,0.6316
+17,Tamɛ Petro lɛpɛtɩ obuo amʋ́ ɔma tsutsuutsu alɩɩ bowie igyi ɔhapʋ dɛhɛn woyitɔ ɩnʋ.,Tupu etinyere petịụbụọ mụọma tupu e lee Igbo wee iji ohapụ ndị ahịa wee tụọ,1.0714,0.6866
+18,"Nɩ mlɩyin ánɩ́ yile ɔbwɛpʋ Yesu gyi a, mʋmʋ mlɩbɩá yile ɔbwɛpʋ Bulu mʋ bi okugyiɔkʋ gyi.",ne mụrụ ya na ịle ọgbè pụrụ ịsụ ji ya ma ọ bụ mụrụ ya na ịle ọgbè pụrụ bụrụ mubi okuji okuji,1.3529,0.7101
+19,"Mlɩmɛ́ɛtalɩ pʋ anɩ Wie ɛwɛ tin ɔnɔ, layɔpʋ ɔŋɛ lalahɛ ɛwɛ ɛ tin ɔnɔ.","Mee thaale puo na i wee wee tinye onu, laa ya puo onye lelaa ya wee tinye onu.",1.2857,0.7115
+20,"Mʋ́ sʋ ndɛ mlɩ fɛ́ɛ́ bla mbɛɛ, mlɩmápʋ mlɩ klʋn dɩnka ɔyɩ pʋ́ mʋ́tɔ atɔsʋ.",,,
+21,"Petro lɔyɔ mʋ asʋnsʋ ɔbɛɛ, “Lɛlɛ a, asʋn anfɩ laba mʋ́tɔ.",Lélé a asu anfi laba mu,0.8182,0.6905
+22,"Mlɩ fɛ́ɛ́ mlɛ́talɩ blɩ Bulu ɔnɔ asʋn amʋ ɩkʋlɛ-kʋlɛ, mɛnɩ mlɩ fɛ́ɛ́ mlósuan tɔkʋ tsu mʋ́tɔ pʋwa ɩwɩ ɔwʋnlɩn.",N'ife m na-etale bụrụkwa onye asọ m kụlị kụlị. Mụ na-eme ife m na-esunye atụkụchị mụ na-akpụwa ya onwe m.,1.0526,0.7531
+23,"” Bulu ɔtswɛkpa agyopʋ ɔhandɛ mʋa Bulu igyi ahapʋ dɛhɛn amʋ bonu asʋn anfɩ a, bɔbwɛ yɔɔ, si bʋdɛ asʋn ánɩ́ ɩbɛ́ba mʋ́ ɔma gywɩɩn.",Blue ochekwa ajọpụ ọhaneze ma bụrụ iji ahapụ ndhe amubonu asomfia ma ọbụ ya sịbọde asụ anị ebe ba ma ọma jụọ,1.0,0.5612
+24,"Mʋgyi nwun ha mʋ nyankpʋsa-oyi, igyi ɔpasua amʋ, ɔdɛ mʋ́ nkpa ha.","Mụ ji ụnụ ha ịmụ ṅụṅụ nsị oyibo ị ji ọpasụa mụ, ọ dị mụ nkpa",1.25,0.6122
+25,"” Ɔlɛfɩtɛ amʋ́ alɩ, tsufɛ olowun ánɩ́ Yesu ɩwɩ olu sʋ Bulu igyi ahapʋ dɛhɛn amʋ bakɩta mʋ ba mʋ.",A na-efetụkwa mmalị. Ụfọdụ n'ime ndị na-eso ụzọ ya hapụrụ ihe ha na-eme wee soro ya.,1.0,0.8194
+26,"Alawun mɩ nwɛ, dɩnkɩ nsʋpa lɛ mɩsʋ ahatɔ.","A laawu me woy, dinke supa laamiso, a haa",1.125,0.5
+27,"Aha bamba lɔyɔ mʋ́ ɩwɩ agyʋma, ɩlawa labi ha mlɩ.","A bham ba loyo, mo iwe ajuma, ila wa rabi, hamen",1.1,0.4054
+28,"Tamɛ anɩlabɩ ɩnɩ, tsufɛ alalɛ mʋ́ suna anɩ tsʋn mʋ Ɔŋɛ Wankɩhɛ amʋsʋ.","Tamè ni labè ni, tufi alalè musu na n'echu, mu onye wa nke hiya musu.",1.1538,0.4815
+29,Ɩmɔwankɩ amʋ́á mʋ Sɩ amʋʋ ɔbʋ ɔsʋsʋ amʋ ɩwɩ asʋn ɔdɛ amʋ́ bla.,"Ima na nwa m nwanyị mụsịrị ya nwa ọgbọ ọsọsọ mụ, i wee asụ ọ dị amaghị",1.3077,0.7872
+30,"Ntobi anfɩ ɩlɛba amʋ́sʋ anfɩ fɛ́ɛ́ igyi atosuanhɛ ha anɩ, mɛnɩ amʋ́ lalahɛ amʋ odu bwɛ mɛ́ɛdɩnka anɩ ɔwɔlɩ, anɩmóosum ɩkpɩ ɛ fɛ amʋ́.",,,
+31,"Tsufɛ ɔha ánɩ́ ɔtɛnatɩ kɩta ɔdayi a, ɔdayi ɔnɔ otesin.","Tu vas où ? On a attendu que tu t'en ailles. On a attendu, on t'a",1.4,0.881
+32,Kristo ɔyʋlʋ kʋlɛ amʋ mlɩ fɛ́ɛ́ mlɩgyi.,"ya, anyi si te ji ya nkwụsa. Yo, anyi onwe anyi nkwụsa, Kristi onye ịrọkụrụ ya mụ, mụ na ife mụ na-eji. Mụ na eji mụ ọ pasụa mụ ni, na etu okwu ji okwu ji mụ ya nkwụsa ịya mụ we tọkụ.",6.1429,3.9333
+33,"Alɩ kɛn mlɩ ayin ɛ, nɩ mlɩa mlɩ aka mlɩbʋ ɩnʋ a, mlɩbɩá bʋma awutɔ-ɔwʋnlɩn fɛ mlɩ.","Alekamli aiyé, nimli akamli boinuwa, mlibiané bu ma auto wuli femli",1.0,0.5161
+34,"Bɛyɛda Bulu asʋn amʋ ɔkan ha amʋ́, mɛnɩ amʋ́ ɔkla obénya nkpa fɛ alɩá Bulu bʋ nkpa.",Bɛɛda bulu asɔn amon okan ha amon mɛnɛ amon kɛla obɛnya nkpafeɛ aliɛ bulu bo,0.8235,0.3175
+35,"Nɩ anɩdɛ mpaɩ bɔ ha mlɩ bregyibrɛ a, anɩtɛda Bulu ɩpan mlɩ fɛ́ɛ́ nwunsʋ.",the empire,1.0,0.9273
+36,"Anɩdɛ mʋ́ wanlɩn sɩsɩ mlɩ, mɛnɩ anɩa mlɩnyɔ ansigyi bɔ́fʋn.","Anya di m n'anya sị sị mmiri mara anị a marinyo, anụ sị gị Igbo ọfụrụ.",1.6,0.6739
+37,Mʋgyi ɔŋɛ lalahɛá ɩdɛ agyʋma yɔ aha amʋʋ bʋtamabu Bulu amʋtɔ nɩ.,"Mụ ji onụ m na-arịọ na ndị ajụmụ ajụọ, ahanụ bụcha mụ bụ Bluu, amụta m",1.3333,0.7115
+38,"Amlɩtsia nkpa ánɩ́ mʋ́ ɩwɩ lɛtɩn, ɔlala ɩma mʋ́ ɩwɩ alɩɩ yɔfʋn ɛkɛá Kristo ɔbɛ́laba.","Amnesty International mowe leti, o lala ma mowe, ale ofun eke Kristi obe laba.",1.0,0.5625
+39,"Brɛ amʋ a, Yudafɔ bʋtɛtɩ mlɩ bɛɛ, “Aha ánɩ́ bʋmɛtɩn kete,” bʋtɛtɩ amʋ́ ɩwɩ kete atɩnpʋ.","Bụrụ mụ a, ịda fụrụ otu ịsị na ebe ahụ na ebu metụ nke ịsị. Gị sị na ịma otu ịsị a",1.3125,0.75
+40,"Mlɩmáwa afunu suna aba, tsufɛ mlɩlasi mlɩ tsiatɔ dada amʋ pʋ́ mʋ́ bwɛhɛ fɛ́ɛ́.","N'ime afọ ole na ole gara aga, Chineke na-asị, ""Mụ na gị ga-anọkọ ruo mgbe ebighị ebi.""",1.2143,0.8814
+41,Tamɛ Yesu anfɩ Bulu lɔkʋsʋa tsu afulitɔ anfɩ mʋ́ mɔplɔ.,"Ta ma yɛ su a, m'fe bulu, m'ko so a, m'tu a, m'fe m'mɔpɔlɔ.",1.3,0.4773
+42,Mʋ́ sʋ ɔhandɛ amʋ mɛbɩ ɔnɔkwalɩá ɩbʋ asʋn amʋtɔ.,"Ọsọ ọha de, maybe ụnụ kwara ya bụ asụsụ amụta",1.1111,0.6053
+43,"Tsufɛ alɩ amʋʋ Yona lɔbwɛ osuna ha Niniwefɔ amʋ a, alɩ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ ɛ nɔ́bwɛ osuna ha ndɛmba-abi nɩ.","Ihe mere anyi ji na-ario gi na o bughi esu na ha nile bu amuma, ari m ya nkwu si na obu bia mfe na o bughi esu na ha ndi mba abuo",1.55,0.6744
+44,"Ɔhagyiɔha ánɩ́ obuo mɩ obénya wankɩá ɩbɛ́ha mʋ nkpa, oméesin okluntɔ ɛkɛkɛɛkɛ.","Anya ha anaghị ebu m, ọbụghị naanị nke a, a na-ebe ha mkpa, o meela ka m",1.4167,0.6984
+45,"Mʋ́ sʋ Bulu lɔpʋ mʋ nyansa blɩ ɔbɛɛ, ‘Nɔ́wa mɩ ɔnɔsʋ atɔɩpʋ pʋ́ mɩ sumbi ayɔpʋ amʋ́tɔ.","mụ so, mụ lụọ pụọ mụ nyansaa bịa ọ bụrụ na ụwa bịa ọnọsụ, atọ ịpụ pụọ mụ isumgbe a ga-apụ",1.2353,0.6667
+46,"Tamɛ Paulo lɛbla aha akɩtapʋ amʋ akʋ ɔbɛɛ, “Bʋmegyi anɩ asʋn, tamɛ banwɛn anɩ atɔ ɔbʋntɔ.","Tame polo, lebla aha akta pu abum aku obe. Bụ meji aniaso, tame ba nwaya ni ato bụ",1.0625,0.4143
+47,Tamɛ mlɩbɩá Bulu ɔbɛ́bɩtɩ mlɩ ɩsʋ mʋ asʋn ogyikɛ dʋn Tiro mʋa Sidonfɔ.,"Tamale, Mamprugu, Berekum, Mfantseman, Ejike, Dormaa, Mampong-Nsuta",1.0,0.7857
+48,mʋmʋ nkalɩ ibégyi ha lakpan abwɛpʋ pʋ́ aha ánɩ́ bʋtamabu Bulu ɛ?,"Mụ na nkwalite eji ihe alakpa agba ịpo, ịpo aha na igbata ma bụgburu",1.0833,0.5
+49,"” Akʋ ɛ bɛɛ, “O-o, lɩan ɔlɛlɩan mʋ.",kedu ka ị nọọụ be gị? Ọ dị mma nụ be anyị. Ụlọ ọrụ gị dịkwa mma?,2.4286,1.7273
+50,"Akʋ bʋgyi Bulu igyi ahapʋ dɛhɛn, Mose mbla asunapʋ pʋ́ Yudafɔ ahandɛ atrahɛ Ɩnʋ bɛha bɛklɩ Yesu, pʋ mʋ yɛwa Pilato ɩbɩtɔ.",A ka mbu jị bulu ji aha pụọ dịghị. Mụ sị ya m laa sụọ na pụọ pụọ Yuda for aha ndị a atọ ahị. Ị nọbeghị ha bịa klịrị Yesu pụọ mụ ga-awa Pilato bịa,1.5,0.5521
+51,Megyi mlɩ sʋ ansɩ dɛ anɩ gyiá abénya ɔkpa tsu ɩwɩ anɩ Wie Yesu ansɩtɔ brɛá ɔbɛ́ba?,"Mee jim n'eso ansị dị anụ gị, anụ a bụ enyi okpachụ wee anụ ya yesu ansị t'ọbụrọbụ ebe",1.0588,0.5312
+52,"Nɩ mlenya brɛá mlɔ́pʋbwɛ ɩtɔ wanklaan a, mlɩmáyinta mʋ́.",N'emela ya abali abuo na opupu gwa ya otu nwa nkita a na-eme ayita.,1.4444,0.75
+53,Nyin ánɩ́ Bulu amʋʋ olefi agyʋma wanklaan amʋ asɩ mlɩtɔ amʋ kɛn ɔbɔ́yɔ mʋ́sʋ alɩɩ yɔfʋn Kristo Yesu ɔbakɛ amʋ.,"Ndi a na-eburu amu ole na ole fọdụ ajọma nkwụsị, emetụta amụma nke a ọbụghị mụ nsogbu, a na-eyọfụ Kraist Jisọs ọbụka ya.",1.15,0.7356
+54,"Apio adwɛpʋ, mlɩmáhɔ aha fɛ́ɛ́á bɛɛ, bʋbʋ Ɔŋɛ Wankɩhɛ amʋ asʋnsʋ gyi.","Afiara mụ, lemaa ha, ahanfe anịkpa a bụrụ onye ma nke ha, amụ asụsụ",1.1667,0.6981
+55,"Olenya blɩ alɩ pɛ, aha tsɔtsɔɔtsɔ amʋtɔ leye anyɔ.",A le pa a choro choro moto le ji,1.0,0.775
+56,"Ɔsʋsʋ-atɔ bʋ ɩnʋ, ɔsʋlʋsʋ-atɔ ɛ bʋ ɩnʋ.",,,
+57,Ɩnʋ aha amʋʋ bonu mʋ asʋn anfɩtɔ tsɔtsɔɔtsɔ bɔhɔ mʋ gyi.,Nwa ha mu bu Nnumuaso afito toto chogho mu,1.0,0.6222
+58,"Ndɛ mlɩ bla mbɛɛ, Bulu ɔbɛ́fɩtɛ mʋ́ tsu mlɩ ndɛmba-abi anfɩ wa.",,,
+59,Tɔá igyi anɩ bwɛhɛ anɩlabwɛ a.,"tua bu uwa m na-ekpe taa, m na-ekpere ya, asaa m puo kee ka ya na iji tua ji a na-ekpeghi, a na-ala agba ya.",4.0,2.625
+60,"Anɩmɛba bɔwa afunu kʋkʋ ɛ suna mlɩ, pʋnya tɔkʋ tsu mlɩ wa.","A na m ababọwa afụ n'okwu Yesu na-amụrụ, pụọ ya tọọ kọcha ụmụ nwa",1.1667,0.5333
+61,Aha bɛdalɩ tsu amʋ́ woyitɔ srɩ ba bɛkɩta Paulo.,Aha be Dalichu amuru oyi to si na be kita Paul,1.1111,0.3784
+62,"Brɛá bʋdɛ atɔ amʋ gyi a, Yesu lɛlɛ bodobodo ipin, ɔlɛda Bulu ɩpan, biabia mʋ́tɔ pʋha mʋ akasɩpʋ amʋ, blɩ ɔbɛɛ, “Mlɩhɔ amlɩgyi.","bụrụ na ọtụtụ ndị a, Jisọs lere gburugburu pịọlụ daa bulie pa, baa bịa moto pụọ akasịpụọ m bụrụ ọbụ ya. Mụrụ ihe, a mụrụ",1.087,0.7083
+63,"Ntesen ansɩtɔ, bwɛ mɩ ɩwɩ ɔkpábi, mɛnɩ nɩ nɛda asʋn amʋ ɔkan suna aha ta a, Bulu mɛ́ɛbla mɩ ɔbɛɛ, nabwɛ tsitsa.","Onye isi oche, ọ bụ mụ na ndị ọrụ ibe m na-elele anya n'ụdị ọrụ a ka si na-ahata ya. Biko mee ka anyị mara ya na agba echi cha.",1.3182,0.7976
+64,Apioá bʋbʋ Listra pʋ́ Ikonion bɛtɩ Timoteo ɩdayile.,Apu anebubu lisapo ekoni o bete Timoteo idayi,0.875,0.381
+65,"Tamɛ nɩ nɛblɩ asʋn, nɛ́ha mlɛbɩ asʋn, ntɛ nɛblɩ asʋn lɛsunahɛ kʋ, ntɛ nɛblɩ Bulu ɔnɔ asʋn kʋ, ntɛ suna mlɩ atɔ a, ɩbɔ́wa labi ha mlɩ dʋn.","Tɛ na eblia so, nɛ ha mli eblia so, ntɛ na eblia so le su na hɛɛ ko. Ntɛ na eblibulu ɔno asu ko, ntɛ su na mli atua, bɔwa la bi hamli dɔ.",1.1071,0.3431
+66,"Brɛá Bulu igyi ahapʋ dɛhɛn pʋ́ Mose mbla asunapʋ amʋ bonu tɔá alabwɛ a, bodunka ɔkpa ánɩ́ bɔ́tsʋn mʋ́sʋ mɔ mʋ.","Bia, abụ m ji afo daa ha pụọ mụ sị m bịara sụnapụ amgbenutụa ala gbaa ya. Gbe dị nka ọkpaa na igbochụ mụ sị mụ",1.2381,0.5714
+67,"Tamɛ Paulo lɛbla ɩsa akɔpʋ pʋ́ amʋ́ ɔhandɛ ɔbɛɛ, “Nɩ ntsusʋ-yibi amʋtɔ agyʋma ayɔpʋ bʋmetsia mʋ́tɔ a, mlɩméenya nkpa.",Tampolo lebla isa akopo amu po amu ohade obeye. Na ichusu ife amutua ajuma ya opobu mechi amutua na emenya,1.0526,0.5385
+68,"Ɩlɛ mʋ ɔwan suna mlɩ, mɛnɩ mlɛ́bɩ mʋ wanklaan.",ߒ ߞߊ߬ ߟߊ߬ߞߐ߰ߟߌ ߞߍ߫ ߛߎ߬ߣߊ߬ߣߍ߲߫ ߠߋ߬ ߘߌ߫. ߡߍ߲ ߠߎ߬ ߦߋ߫ ߓߐ߫ ߟߊ߫ ߡߐ߰ ߞߣߐ߫ ߘߐߙߐ߲߫,1.6667,1.1429
+69,"Nɩ nobwii ɔnɔ a, Bulu ɔpʋ mʋ asʋn amʋ wa mɩ ɔnɔ; ɔha mɩ antalɩ wa klʋn blɩ asʋn ŋainhɛ amʋʋ ɩbʋ mʋ asʋn wanklaan amʋtɔ amʋ fɛ́ɛ́.","N'ihi na ọ bụ ya nụrụ a, bụrụ ọkpụrụm asụ mụ, wee mee ụnụ. Ọ hamịantali wee kwụrụ, bụrụ asụ mụ ihe a mụ ebu mụ asụ, nke a mụ tọọ, a mụ fee.",1.1786,0.701
+70,"Alɩá mlɩdɛ mbɔdɩ bɔ dwɛ aba, pʋ́ alɩá mlɩlatomi ha mlɩ ansɩ dɩn anɩ Wie Yesu Kristosʋ kinkiinkin.","Aria m di mberede bu di aba, kwa aria m na tomi, ha m na si di ya na ihea, Jesu Kristi so kinkiin.",1.2222,0.4675
+71,"Mɩ abi adwɛpʋ, ndɛ ɔwʋlʋ anfɩ wanlɩn sɩsɩ mlɩ, tsufɛ mlɩlabɩ Ɔsɩ amʋ.","Miya kya rapo, nde orafi nwa lisise mini, tufe mini la be osi ya",1.0769,0.6667
+72,"Ɩnɩ sʋ ɔlɛha ɔbɛɛ, bʋkpa Paulo ya ɩsa akɔpʋ amʋ otsiakpa.",N'oge ụlọ ọrụ ha ọbụ ya bụ Paul ya na Silas akọpụ amụ ụcha,1.1818,0.7333
+73,"Mlɩkasɩ mɩ tsiatɔ, fɛ alɩá mɩ ɛ nɛkasɩ Kristo klɛ.",ne ka si mi chi ato fiali a mi ne ka si Kristo,1.3,0.4359
+74,Atɔ-abi Owunyapʋ Ɩwɩ Yebi.,¿Cómo lo? ¿Y un hace?,1.25,0.7619
+75,"> Ndɛ mlɩ bla mbɛɛ, fialɩ onyawie ɔkpasʋ a, ɔmɔ́ɔkʋsʋ ha mʋ.","mbe, fialụ onye na-ewi ọkpasu wa, ọ maghị okwu sọ ha",1.0,0.6818
+76,"Ɔbɛɛ, “Mlɩyɔ wulu anfɩ ɩda mlɩ ansɩtɔ anfɩtɔ.",M'bè. M'bè.,1.0,0.9429
+77,"Mʋʋ Bulu igyi ɔhapʋ dɛhɛn amʋ lɔkʋsʋ lɩɩ fɩtɛ Yesu ɔbɛɛ, “Fʋma ɔnɔ lɛ?",mú blújí a wáha púdɛ hiam lɔkɔ sɔlɛ fɛtɛ Yésu óbɛ́. Fóma ónɔ́,1.0,0.463
+78,"Tamɛ aha amʋʋ bonu amʋ́ atosunahɛ amʋtɔ aha tsɔtsɔɔtsɔ bohogyi, bɛtsɩa ahogyipʋ amʋtɔ.","Ha me ahamu mgbe nu, amuru ato sunahu amuto, aha tisa ocha bu ahu ji. Bechie ahu ji pu amuto.",1.4615,0.5211
+79,"Mʋ́ ɔyɩkɛhɛ a, afu kʋ lɔwa tsʋn bɩ tsu ayasɩ fʋn.",Mụ onwe m kwenyere afụkọlọwa chọọmụ be chụ aya si,1.0,0.8333
+80,"Nɩ mlɩtɔ ɔkʋ mʋa mʋ ba Okristoyin benya a, ntogyi sʋ mlɩtɔwa klʋn pʋya ɔmátɔfɔ asʋn ogyikpa, mlɩtamapʋ ya Bulu aha abʋblɩ mʋ́?","Nne m letọkwa mụ a mụba, Oklisto imbenya, nna m jiri so mụ letọ wa akụrụ m pụọ ya ọmata fụ asụ jịkwa, mụ ta ma pụọ ya bụrụ aha bụrụ",1.3043,0.53
+81,"Mʋʋ Yesu lɛbla amʋ́ ɔbɛɛ “Mlɩha ayɔ awulu bambasʋ, anyɛda Bulu asʋn amʋ ɔkan ɩnʋ ɛ, tsufɛ ɩnɩ sʋ nɛba nɩ.","Mọ́ yá sùnlábà mọ́ bẹ́, m'ẹ́lẹ́ háyọ̀, àwúrubà mbasùn, àyá dàgbúrù, asùn mọ́ kà nùwẹ́, túfẹ́ inisùnẹ́",1.0,0.6375
+82,"Mlɩlɛha bɔmɔ nkpa ɔhapʋ anfɩ, tamɛ Bulu lɔkʋsʋa mʋ tsu afulitɔ.",M'lélé ha bô mô nkpa ha pôanfi ta m'ébulu lokoso amuchu afuli,1.0909,0.3137
+83,Ɩnɩ sʋ aha amʋtɔ akʋ bosusuá amʋ́ agywɩɩn amʋ ɩbɛ́kana.,a ha muto aku kposu su ani amojie amu be ka,1.1,0.5814
+84,"Mɩ asɩ, ndɛ ɔwʋlʋ anfɩ wanlɩn sɩsɩ mlɩ, tsufɛ mlɩlabɩ ɔha amʋʋ ɔbʋ ɩnʋ tsu ɔyɩ nfiasɩ amʋ.",Nyasi nde orafi wa nsisimuli tufe lela bi ohamu obunu tu oyi fiasi,1.0,0.5571
+85,"Nɩ lɛlɛ mlɩlɔhɔ Mose asʋnsʋ gyi a, tɛkɩ mlɔ́hɔ mɩ asʋnsʋ gyi, tsufɛ mɩ ɩwɩ asʋn ɔlɔwanlɩn tswɩ.","Mlelele, mlele ho mose asunsuji a, teke mlele ho me asunsuji. Tufe me iri asu.",0.8889,0.5946
+86,Tamɛ Yesu mʋ́ ŋɛlɩn sumuɛsʋ ɔklʋn amʋ ɔma ɔdɛdɩdɩ.,Ta ma ye su mun gali su mu ye su o kulu amua ma odere di,1.7778,0.525
+87,Mʋ́ sʋ anɩ fɛ́ɛ́ anɩlabwɛ ɔyʋlʋ kʋlɛ fɛ bodobodo ipin amʋ.,"Mọ́st àwọn ènìyàn nílẹ̀ àgbáyé ò yé wọn, ó fẹ́rẹ̀ẹ́ jẹ́ pé gbogbo pìńyọ́m",1.2727,0.9545
+88,"Mʋlɔwa mɩ ɔbɛɛ, nha anyankpʋsa fɛ́ɛ́ abʋbɩ alɩá ɔdɛpʋ mʋ asʋn ŋainhɛ amʋ yɔ agyʋma.","Mụ na nwunye m bụ e, ihe anyị na-ekwusa fa ya bụ na a na-epụ mụ asị, na anyị hịa mụ ya ajụ.",1.5333,0.6615
+89,"Tamɛ bɔwanlɩn wa Bulu asʋn wanlɩnhɛ amʋtɔ bɛɛ, “Mlɩ mʋ́ mlɩgya lalahɛ ɔbwɛpʋ lɛ mlɩtɔ.","Tamani buwa ni wa bulu asu nwanne hia m tobe, m n'emum nri jara lara hia ogbe pu le m n'eto.",1.2667,0.5441
+90,"Nɩ ɩsanki yɔ a, itowun ánɩ́ bafɛɩ mʋ́tɔ, la mʋ́tɔ wanklaan.","Ihe a m na-agwa gị, ịtụ mụọ na ebe afa ịmụtọ, laa mụtọ nwa nkịtị.",1.3636,0.7209
+91,"Mlɩyin ánɩ́ brɛá mlɩgyi ɔmátɔfɔ a, bosuna mlɩ asunakpan, ɩlɛha mlɩlɔyɔ mlɩdɛ ɩkpɩá bʋtamatɔɩ sum.","Nne ya bụ Abraham dị ya ọ matara afọ a, bụ so na mụ na ya sunakpa, ịlechaa mụ na ya ọ medea ikpe ya bụta amatọ ịsụ.",1.8,0.6329
+92,"Mʋ́ sʋ tɛkɩ anɩbʋ ɔkpa si ɩwɩ tswɩ mlɩsʋ, tamɛ anɩlolwii ha mlɩ, kɩ mlɩ fɛ alɩá abi-oyín tɛkɩ mʋ onuto abisʋ.",Moussa Tékane bokassi wétchémlé so. Dami ané lolu hamlé kémlé fiali abioin Tékane munutu abis,1.0,0.4699
+93,"Tamɛ nɩ woyi mʋ wie ɔkʋsʋ fin obu amʋ, mlɛba bɛlɩɩ klʋn ɔma, da klʋn amʋsʋ mlɩaa, ‘Owie, finki ha anɩ!","Tamɛ, ni woyɛ movie, okwso fi obua mu, mereba abɛre ikunu oma, da kunu musu merea, owie fingi ha",0.8095,0.4211
+94,"Nɩ mlɩtɔ ɔkʋ dɛ mʋ ɩwɩ tɩ ɔtɩansɩpʋ ndɛ ɔyɩ anfɩtɔ a, ilehian ánɩ́ ɔbɔ́bwɛ mʋ ɩwɩ ɔha mimlahɛ, mɛnɩ ɔbɔ́bwɛ ɔtɩansɩpʋ onuto.","N'emleta akwụkwọ ndị a m wetara, ọtụtụ ndị oyi anyị fọdụrụnụ, lee hịa nụ ọtụtụ n'ime unu bụ ndị oyi anyị fọdụrụnụ.",1.0,0.8333
+95,"Mʋ́ ɔyɩkɛhɛ bakɛ a, oleyinki ba Bulu ɔtswɛkpa wunsɩnɛsʋ ɩnʋ.","Mụ aịka hụ ebe a ka ya, ole nke ịbụ ọtụ ekpe a gwụsịrị sọọsọ",1.4,0.6875
+96,"Mʋʋ Petro mʋa Yohane bɛbla amʋ́ bɛɛ, “Mlɩ onuto mlɩkɩ.",Mɛlɛ onutɔ mɛlɛ,1.0,0.7805
+97,"Mʋ́ sʋ nɩ Bulu lakʋsʋa mlɩa Kristonyɔ ba nkpa pɔpwɛtɔ a, mlɩdunka atɔá ɩbʋ ɔsʋsʋ, ɔtɩnɛ amʋʋ Kristo tsie Bulu gyɔpɩsʋ amʋ.","Mụ si na eburu laa kwa si na Kraist nyọba nkpa pụtawa, mụ dị ka atụrụ abụọ sọsọ, ọtara mụ Kraist chi eburu jọpụta mụ.",1.0909,0.5258
+98,"Bɔyɔ Seleukia wulutɔ yotsu ntsusʋ-yibi fa yɔ ɔsʋlʋ kʋá ɩbʋ ntsu nsɩnɛ, bʋtɛtɩ mʋ́ Kiprosʋ.","Mgbe o sịrị ya lụta, ya chụọ ntụsụ ibi, fanye ọsọrọkwa ebu ntụsịrị. Gboteetụm",1.0,0.7222
+99,Mɩ Sɩ amʋʋ ɔlɔwa mɩ amʋ onuto lagyi mɩ ɩwɩ adansɩɛ.,"Mister Amu, ọrọ wa mi. Amu onuto lajineri adansi",0.9091,0.5
+100,"Mʋʋ Paulo mʋa Silas bɛbla mʋ bɛɛ, “Hɔ Yesu gyi, mɛnɩ Bulu ɔbɔ́hɔ fʋa fʋ woyitɔ aha fɛ́ɛ́ nkpa.","Mɔ́ pɔ́lɔ́ mán sílàs, bé blà mɔ́ bé. Ɔ́ yɛ́ɛ́ sújí, mɛ́ni búlúwà hɔ́ fɔ́ àfɔ́ wɛ́yì tɔ́ àhà fɛ́ɛ́",1.0526,0.5507
+101,"Mlówu wa mlɩ lakpantɔ, nɩ mlɩmohogyi ánɩ́ ‘Mɩgyi ɔha amʋʋ mbɛɛ ngyi amʋ.",Mụwa melụ akwụkwọ n'ụlọ akwụkwọ sekọndrị a na m ji ọnwa abụọ mbe m ji a,1.2308,0.8393
+102,"Anɩyin ánɩ́ mbla amʋ bʋ alɛ, nɩ bɔpʋsuna atɔ ɔkpa wanklaansʋ.","Anya m na-ala m bọọlụ, na-abụpụsị na-atụ ọkpa n'ime klaasị.",1.0,0.5208
+103,"Mʋ́ sʋ ɔtsɩ amʋ lɛfɩtɛ Yesu ɔbɛɛ, “Yudayin fʋgyi, mɩ ɛ Samariayintse ngyi.",Mụ so ọtị a mụ lefute ya esu ọ be ya.,1.0,0.7544
+104,"Tsufɛ mlɩtɔpʋ atɔ dwindwin sʋra aha, tamɛ mlɩtamapʋ osrebi ɔkʋlɛ kʋraa tsa amʋ́ sʋra.",Tu femme met à peau à ton du du sur à un. Ta mère met à ma peau et sur bien quoi le quoi ça m'a,1.8571,0.7391
+105,"Ɩnɩá mlɩa Kristonyɔ mlɩlabwɛ ɩkʋlɛ sʋ a, ɔdɛ mlɩa Yudafɔ amʋ pʋtsa abasʋ, ɔdɛ obuá Bulu obétsia mʋ́tɔ ɔŋɛtɔ yi.","Nne m na Kristi, onye m na-agba ekpere suwa, ọ dị m na Judia fọọ m pụchaa baa asụ. Ọ dị obughi na ịbụrụ be chi ya mụta onye etu a.",1.55,0.6705
+106,"Brɛá mʋ ansɩ leyinki ba mʋ ɩwɩsʋ a, ɔlɛfɩtɛ mʋ ɩwɩ ɔbɛɛ, ‘Apafɔ amɔmʋ kʋraa ma mɩ sɩ woyitɔ, bʋmɛdɛ atɔ gyi sian ekekegyiɛkɛ?","Bụ eziokwu, mụ na Chineke na-enwe soro. Ọ na-afitara mụ ya bụ e. Apa afụrụ mụ, kụọ mụ aka n'isi wee dịọ. Bụ mụ na ya na-ato jisi ya ike.",1.25,0.7938
+107,"Mlɩdɛ ɔkpa kɩ ha tɔá bapʋyaɩ ha mlɩ ɔsʋsʋ, fɛ alɩá mlɩyin tsu brɛá mlɩlegyankpa nu ɔnɔkwalɩ asʋn amʋʋ igyi Bulu asʋn wanklaan amʋ.","Mee ya kpatara ha ji wee hapu ya ihe m na-eme osisi, fialu ihe m na-eme, chugharia ihe m na-eje nkpa nu, onokwara asu m iji buru asu nkramu.",1.1667,0.6857
+108,"Anɩyin ánɩ́ Bulu aha anɩgyi, tamɛ Ɔbʋnsam dɛ ɔyɩtɔ aha fɛ́ɛ́sʋ gyi.","Anya na-eburu aha na-eji, taa mee obunsam ndị ọzọ aha ha fe.",0.9167,0.549
+109,Yesu Kristo gyi ɔha ánɩ́ ɔlɔtsʋn ntsu mʋ́a obugyatɔ ba.,Yesu Kristo ji ohaneze ọlọchụ into mụa obuja atọ,0.8,0.4884
+110,"Marta nkʋlɛ dɛdamli tsʋn mʋ́tɔ, alɩá ɩbɔ́bwɛ ɔbɔ́bwɛ amʋ́ afɔɔtɔ.","Maka ịkwado damụlị tumatọ, ala Igbo bụ ebe a mụrụ afọ",1.1,0.64
+111,"Mlɩmátepi ha Ɔbʋnsam ɔkpa ɔmlɛ mlɩ, amlɩbwɛ lakpan.","Mmadu abuo bu nsamokpa omereomere, amere gbarakpa.",1.0,0.6429
+112,Aha anfɩ botsu ofiakpa kʋá bʋtɛtɩ mʋ́ “Nkpábiá Bahɔ Ɩwɩsʋtsia.,"Aha Fimotu ofia kpaa kwa bụ tatị mụ, nkpa bịa kpaho ewusu chi",1.2,0.42
+113,"Mlɩha Kristo iwilwii igyi mlɩ klʋnsʋ, tsufɛ mʋ́tɔ Bulu latɩ mlɩ bɔwa; mlɩa mʋ nyankpʋsa-oyi amʋ mlɩlabwɛ kʋlɛ nɩ.","M na-arisị ike, i meela nke ukwuu. Gịnị ka m ga-emere gị taa? M na-amụnyere gị ọkụ ugbu a.",1.0,0.7889
+114,"Alɩ amʋʋ ɔpasua amʋ tɛba ɩwɩasɩ ha Kristo amʋ a, alɩ kɛn ɔka ɛ ɔba ɩwɩasɩ ha mʋ klu togyitɔtɔ nɩ.","Alee ma pasuwa m te bawu asi ha Kristu amụa, aleke o ka yọ bawu asi ha m kulu toji tọ tọne.",1.0,0.3867
+115,Ɩnʋ ɔsʋrapʋ ohiani ɔkʋ ɛ lɔpʋ mʋ kɔba ana bɔwa mʋ́tɔ.,"Nụ Ọzọụbụlụ, ihe niile o kwere lụpụ mụ kọba ana bụwa mụ",1.0,0.7073
+116,"Tɛkɩ olekle okina, tamɛ ɔma-ɔma a, ɔlɛbla mʋ ɩwɩ ɔbɛɛ, ‘Ɩbʋ mʋ́tɔá ntamanya Bulu ifu, ntamanya ɔhaa ɛ pɛlɩ.","Olu kụrụ gị na ntị gị ma ọ bụ na ọ bụghị, ịbụ mmụọ ntị ma ọ bụ ya bụrụ fụ, ntị ma ọ bụ ya bụ ọhịa pere",1.5263,0.7407
+117,"Nɩ ɔkʋ lɛha aha anfɩ bʋmɔkʋdan mɩsʋ hogyitɔ anfɩtɔ ɔkʋ lɔbwɛ lakpan a, nɩ bɛda nfuokwɛbʋ sian mʋ ɔmɛtɔ, tswɩ mʋ wa ɔpʋ okluklukpa po a, ɩbʋ alɛ dʋn.","na okwulu ha, a m fighi bu m okwuda, m si ho jito a m fito, okwulu ogbe na kpaa na kpeda mfu okwu ebu, si ya ma o metu, si mu wa opu okwuru kuru kpaa pu a, igbo a na edo",1.3793,0.5948
+118,"Brɛá ɔyɩ dɛkɛ a, agyʋma ayɔpʋ amʋ bowun ánɩ́ ɔpʋ amʋ bambi lowie ɔsʋlʋ kʋsʋ, tamɛ bʋmɛbɩ otsubunɔ oduá igyi.","Bịa, ọ dịghị ka ya. Ọtụtụ arụsị Igbo anị Ụfọdụ arụsị gbamgbam lụọ nwanyị ọsụrụkụsụ. Kama bụ mebe ochie gburugburu odiwa ije",1.1,0.8471
+119,"“Nɩ mlɩtɔ ɔkʋ bʋ osumpʋá ɔtɔyɔ agyʋma mʋ ndɔtɔ ntɛ ɔtɛkɩ mʋ akufasʋ, otsu agyʋmatɔ ba a, bla mʋ wie tɛbla mʋ ɔbɛɛ, ‘Wa ɔsa bwɛ afʋgyi atɔ?","N'ụbọchị ahụ, ụbọchị ọtọrọ ajụmụọmụ ndọrọ ndọrọ ọchịchị, otu ajụmụọmụ atọ bụ a bịara m wee taa bịara m ọbụ e, wa ọsa agbe afụ ji atọ.",1.0,0.7524
+120,"Bɛlɛ mʋ́ ɔnɔ bɛɛ, “Ɔhaa mɔkʋtɔɩ fɛ oyin anfɩ kɩ!",M'alémɔ́ nɔ́ bé. Ɔhã́ mɔ́ kɔtɔ́ áfií ónyɛ́ áfií,1.0,0.5714
+121,> Tamɛ amʋ́ fɛ́ɛ́ bɛblɩ bɛɛ amʋ́ ɩbɩ dɛ.,"Onye isi oche be anyi, na-aho na nchu ehi na idu bu pupuri me ndoto ha mi na ya kapu amoki moso riketa amoto ha mi. Uba mbe oche be anyi, inwe kutu na etio ka",4.5,4.2692
+122,Mʋ́ sʋ ɔmɛha amʋ́ ɔkpa abʋmɔ obu adɩpʋ amʋ.,mụ so omenala mụ okwa ana kpọ mụ Ọgbụ adịpụ,1.1111,0.7188
+123,"Ɔhagyiɔha ɔkɩ mʋ kɔba alɩá otenya ɔnɔ, ɔlɛ kʋ yaɩ Kwasiedagyikwasieda.","Hajiya Hauwa Kulu ba aliye ta yi yanu, o le ku ya akwasi da ji kwa si da.",1.6364,0.4828
+124,"Mlɩbwɛ agywɩɩn kʋlɛ, amlɩyɔ agyʋma wa abatɔ pʋha mɩ ansigyi ɩfʋn.","Nne, biko ajuinkwala m na ajuma wa abata opuha, m ya asi gi ifu.",1.1818,0.566
+125,"Mlɩtsa alɔpʋá bʋbʋ wulu amʋtɔ, amlɩbla wulu amʋtɔ aha mlɩaa, ‘Bulu iwiegyi lawie woyi ta.","Miri taa alopu, anụbụ bụrụrụ a mụtọ. Miri bara bụrụrụ a mụtọ, aha mụrụ ya bụrụ, iwee jiri na wee",1.2667,0.6901
+126,"Tamɛ sei anfɩ nadan a, nasi nyebitɔ bwɛhɛ amʋ fɛ́ɛ́ bwɛ.","Daalụ mụ na ezinụlọ m nọ na-asị unu ebitọ gba, ihe amụfọọ egbe.",1.1818,0.7381
+127,"Nyasubi, ndɛ ɔwʋlʋ anfɩ wanlɩn sɩsɩ mlɩ, tsufɛ mlɩ hogyi ɔnɔ bʋ ɔnlɩn, Bulu asʋn bʋ mlɩtɔ.","ya sube, nde ọrụ afọ nwaanyị sị sị mịlị tupu e mịlị hodị, ọnọ bụ ọlị bụrụ asụ bụ mịlị",1.1765,0.6429
+128,Yohane asʋn blɩhɛ lɔbwɛ fɛ ɔkandɩɛá ɩdɛwankɩ.,"Yohana asambụlụ ha, lọgbọfe ọka ndị a ana ide nwa",1.4286,0.5526
+129,"Lɛlɛ mʋ́ a, alalɔ sian wu, tamɛ Bulu lowun mʋ nwɛ.","Lélé mụa, a laa mụ sị ya wụ, ya mebụlụlụ ụmụ nwanyị.",1.0,0.6111
+130,"Mlɩyin ánɩ́ Kristo lɛba ɔyɩtɔ bɛlɛ anɩ tsu anɩ lakpantɔ, tamɛ mʋ mʋ́ ɔmɔbwɛ lakpan kʋkʋ.",Mụ na ya na Kristo leba ọyi tọbele a na-achụ la kpọntọ taa mee mụmụ ọmọgbele akpa akuko.,1.0625,0.5072
+131,"Faha fʋ pio anfɩ ɔmɔkʋdan hogyitɔ, Kristo lowu ha mʋ anfɩ lafwɩ.","Ha fụrụ gị na ihe mọkọda ha jịtọ, Kristọlọwụ ha mụrụ anụhịa fụrụ",1.0,0.6078
+132,"Yesu lɛtra tɩ ɔdɔm amʋ ba mʋ ɩwɩ wa, ɔlɛbla amʋ́ ɔbɛɛ, “Mlɩ fɛ́ɛ́ mlɩyaa asʋ amlɩnu ɩnɩ asɩ!","Yesu letra ti ọdọ mọamba mọwe wa, ọlebla mọbe. M'rife, m'riaso, m'rinu, ina ya",0.8947,0.4925
+133,"Ɔma-ɔma a, Bulu ɔtswɛkpa agyopʋ amʋʋ bɔwa sumbi amʋ bɛsanki ba Bulu igyi ahapʋ dɛhɛn pʋ́ Farisifɔ amʋ wa.",A ma ma bulu otu ekpe ajoo poo a mu gba wa sumbi a mu besa nki ba bulu ji aha apu da ehi apu farisi foo a mu,1.3158,0.3855
+134,"Anɩyin ánɩ́ ɔha ánɩ́ alabwɛ Bulu mʋ bi ɔkʋkʋ tamatsia bwɛ lakpan, tsufɛ Bulu mʋ Bi amʋ togyo mʋ ɩwɩ.",N'inyanwu ha na ala Igbo eburu umu bi okuko tamachie agbela akwa. Tufe eburu umu bi amu uto jo maobu,0.9,0.5325
+135,"Ɩnʋ ɔlɛlɛ ɔdayi ɩya anyɔ ɔbɛɛ amʋwɔ ɩwɩ, tsufɛ ɔkɩ ɔbɛɛ obu adɩpʋ amʋ fɛ́ɛ́ badalɩ srɩ.","Ọ nụ olu le, ọ dịghị ihe a enyo, ọ bụrụ amụwọ ewi. Chineke oge ọ bụrụ ogbugba dị pụọ amụfe badalisiri.",1.2941,0.7164
+136,"Mlɩtɔ ɔkʋ mʋ́ kʋraa laswɩɩ mʋ sɩ mʋ ka, ɩbʋ mlɩ ansigyi!",ne tu a ko ko ra la su e mu si mu ka e bo mlen si,1.3333,0.5476
+137,"Ɔhagyiɔha ánɩ́ ɔlɛbla mʋ ba ɛ ɔbɛɛ, ‘Raka!","Ọhaneze ọjị ya bụ ọbụ e, ọha kpaa. Obe dịịrị ndị Judah fọ, asụ ha jịkọọ nsị tọ. Ọhaneze ọha na ọlebelụ amụma e, ọbụ e, raka",3.25,2.3548
+138,"Mʋʋ Yesu lɛbla mʋ ɔbɛɛ, “Mɩ anfɩ ndɛ fʋ asʋn bla anfɩ gyi Kristo amʋ nɩ.","M'anfi, nnefo aso mfi, bla mfi, Ji Kristo",0.875,0.6852
+139,"Mlɩmɛdɛ mʋ́ asɩ nu, tsufɛ mɩ asʋn dɛ mlɩ asʋtɔ wɔ.",,,
+140,"Yesu lɛbla amʋ́ ɔbɛɛ, “Mɩ atogyihɛ gyi ánɩ́ nɔ́bwɛ tɔá ɔha amʋʋ ɔlɔwa mɩ sɩsɩ amʋ ɔbɛɛ mbwɛ, ammɔ mʋ́ ɔnɔ.","ya tule bla ma o be, mi ya to di hedi, a ne na gbo tuwa, o ha mu orowa misisia ma o be mgbe a, a mu mu",1.381,0.5769
+141,"Ɔlɛlɛ anɩ agyankpapʋ amʋʋ anɩ ansɩ dɩn Kristosʋ amʋ ɔbɛɛ, abɛ́kanfʋ mʋ numnyam.",A lele a ne a ja n papu a mu a ne a si di Kristo su a mu obe a be ka n fu mu nu ya.,2.1538,0.4062
+142,"Mbla asunapʋá bʋgyi Farisifɔ bɔkʋsʋ lɩɩ blɩ bɛɛ, “Anɩmɔkʋwun tsitsa kʋkʋ oyin anfɩ ɩwɩ.","Anokwuo nji sekwuo, ya afụ",1.0,0.831
+143,Mlɩa mlɩ ɔpasua ahandɛ pʋ́ amʋ́ abʋapʋ fɛ́ɛ́ anɩdɛ mʋ́ wanlɩn sɩsɩ.,M'ana m nọpụsịrị aka mụ apụọ pụfee n'ebe m nọ n'isi,1.0,0.68
+144,” Ɩnʋ amʋ́ fɛ́ɛ́ bɛnatɩ yɔ woyitɔ.,na fa be na ti o we ito,1.3333,0.5652
+145,"” Ɩnʋ Paulo lɔwʋna ɩbɩ, ɩwɔ amʋ lɛkpa wie ogya, tamɛ tɔtɔ mɔbwɛ mʋ.",na-ekwu okwu na ebe iwe amughi lekwara ya oja. Taa mee tato ma o gba Paul,1.2308,0.76
+146,"Apio, mlɩlamli fɛ Bulu ɔpasua ánɩ́ ɩbʋbʋ Yudea ɔmátɔ, bʋgyi Kristo Yesu klɛ amʋ.","M'ap prie ou, menm jan li te fè pou ou, paske ou anebobo, ou di ou mato, ou di Kris la",1.5,0.6984
+147,Mmɔfʋn ánɩ́ nógyonka sankɩ mʋ ntʋkʋta ɔfɛ kʋraa.,"M'afo anin'ojon ka san ki mu ntokota, ofe kura.",1.125,0.3846
+148,"Nɛ́ha mɩ adansɩfɔ abanyɔ bɛ́dɩda akpekpe, ha amʋ́ tumi bɛ́blɩ mɩ asʋn ánɩ́ nalɛ suna amʋ́ nkɛ amʋtɔ.","na ha m ya daa si fu abanyọ, be di daa kwekwe ha mutumi be bere m ya asụ a ni m na-alesu na mụ nke ya muta.",1.5,0.4
+149,” Ɩna mɩ sʋ bɛkanfʋ Bulu.,Nna m so be ka m fụ bulu.,1.4,0.3333
+150,"Abi, mlɩbu mlɩ akwɩɩpʋ, tsufɛ mʋ́ Bulu tekle nɩ.","Abi, m na-agwa gị na ọ bụ ịsị gị na-agba.",1.0,0.8333
+151,"Mʋʋ ɔlɛbla amʋ́ ɔbɛɛ, “Mɩ apio, ɩbʋ mʋ́tɔá mmɔpʋ lalahɛ kʋkʋʋkʋ gyi mɩ ɔmátɔfɔ, mmeyinta anɩ anain amandɩɛ kʋkʋ ɛ.","Mụ onwe m bụ onye Mịapụọ, ebe ụmoto amụpụrụ na ahịrịkụkụ kọji mịọmatọfọ, ịme ịntaneetị a na-anaghị ama ndị ekuku.",1.0,0.6818
+152,Ɔhandɛ ɔkʋ bʋ ɔsʋlʋ kʋ ɔpʋ nsɩnɛ ɩnʋ.,ọha ndị ọkụbụ ọsụrụku ọpụ nsị na ịṅụ,1.0,0.5862
+153,"Tsufɛ lowu mɛ́ɛtalɩ gyi mʋsʋ, osin afulitɔ.",aliamu asamu lobui amonu amosubobayo,1.0,0.9118
+154,"Tamɛ bɛha ɔtsɩ amʋ oyitsu kpɔnkpɔɔnkpɔntɩ abamba anyɔ, mɛnɩ ɔbɛ́talɩ fuli si bʋtɩ amʋ yɔ mʋ otsiakpa ɔsʋlʋkpansʋ ɩnʋ.","Ta ma be ha, otu ya mu oyi chukwu kpo nti aba mba anyo, me ne obetali free si gote ya mu yoo mu otu ya kpa dimbiso",1.4211,0.5208
+155,"Mʋ́ o a, afu amʋ lɔtsʋan ntsusʋ-yibi amʋ natɩ ɔwʋnlɩnsʋ.","Mụwa, a fụ mụ na ọtụtụ a ntụsụ ibi a mụ na ya, ọ nwere",1.4,0.6279
+156,Pʋ́ alɩá mlɩgyo brɛá Bulu mʋ Bi Yesu amʋʋ ɔlɔkʋsʋa tsu afulitɔ amʋ ɔbɛ́latsu ɔsʋsʋ ba.,"Wali amini Jobre abulu mu bi Yesu, amalu kusu achu ya furitu amu, obelu achu osuso",0.9375,0.4559
+157,"Mɩ Paulo, mɩa Silwano pʋ́ Timoteo dɛ ɔwʋlʋ anfɩ wanlɩn sɩsɩ ɔpasua ánɩ́ igyi anɩ Sɩ Bulu mʋa anɩ Wie Yesu Kristo klɛ, ɩbʋ Tesalonika wulutɔ.",,,
+158,"Bɛ́hɩɛ dɩnka mlɩsʋ, pʋ mlɩ ya Yudafɔ ofiakpa yegyi mlɩ asʋn, wa mlɩ obu.","Bɛɛhi ŋa diŋ kamalɛ so, pomli ya Juda fo fiɛkpa, yɛ jimli asu, huwamli",1.0,0.4545
+159,"Tamɛ nɩ Bulu ɔlɛ atɔ suna ɔkʋá otsie ofiakpa ɩnʋ a, Bulu ɔnɔsʋ ɔtɔɩpʋ amʋ osi tɔɩ, ɔha amʋ ɔblɩ tɔá alawun.","Ya mere, o buru na o nwere atụmatụ na-akwụghị ọtọ, ọ ga-aka mma ka i wepụta oge iji dozie ya.",1.0,0.8193
+160,"Anɩtɔdwɛ Bulu pʋ́ anɩ aba, tsufɛ Bulu legyankpa dwɛ anɩ.","A na-etinye ya na bulupu a na-etinye ya ba, tupu e bulu leje nkpa do ya",1.5,0.6818
+161,Anɩmá ɔsɩ ɔkʋkʋ tsɩa mʋtɔ.,Nne ma osi akwukwo chi amuto. Yesiri m nri amobeghi. M na-esi ji buru ya. Tupu m todoro ya emi. Tufe,4.2,3.0476
+162,Tsufɛ mɩ mʋ́ nyin ɔtɩnɛá notsu pʋ́ ɔtɩnɛá nɔyɔ.,tu fais même mon union tu n'as noté pour,1.0,0.7778
+163,"Ɔtsɩ amʋ lɛbla mʋ ɔbɛɛ, “Anɩ sɩ, ha mɩ ntsu anfɩ kʋ, mɛnɩ ɔmɛwʋlɩ mɛ́ɛtra kɩta mɩ, mmɛ́ɛtra ba nfɩ ɛ bɛsa ntsu.","A na-esi ha mintị 20 kwọọ. Mee ya, o mee, wepụta ya keta mee, wepụta ya baa efere",0.9565,0.7901
+164,"Ɔhandɛ amʋ lɛfɩtɛ mʋ ɔbɛɛ, “Fʋtonu Griki ɔblɩ?",Ahadé abun lefté mu obé.,1.0,0.75
+165,"Ɔhaa meyin ɔha ánɩ́ Obi amʋ gyi, nkɛtɩ Ɔsɩ amʋ nkʋlɛ.","M'aham yọ hane, obi a m'uji, nka ti ọsẹ a m'onkulu",1.0,0.475
+166,"Ndekleá nówun ipian fɛ alɩá Kristo lowun ipian wu, mɛnɩ ɔkpagyiɔkpasʋ a, mɩ ɛ Bulu ɔbɔ́kʋsʋa mɩ tsu afulitɔ!","Ndi kwanu unu mpiya, felele Kristu unu mpiya wu. M na enekwaji okwa suwa, m ya ebulu oboko suwa mechu ya furu",1.1053,0.5814
+167,"Anɩ nain Mose lɛblɩ ɔbɛɛ, ‘Mlɩ Wie Bulu ɔbɛ́ha mʋ ɔnɔsʋ ɔtɔɩpʋ ɔkʋá ogyi fɛ mɩ ɔbɛ́dalɩ tsu mlɩtɔ ha mlɩ.","A na-enye m mosele bịa ọbẹ, m na-ehi eburu ọbẹ ha m na-esụ ọtọ ịpu ọkụa oji fe mme ọbẹ dalichu m na-etọ ha m.",1.1429,0.5625
+168,"Ansɩ igyi mlɩ, ɩwɩ ɩsankɩ mlɩ; tsufɛ mlɩ ɩkɔka tsɔ ɔsʋsʋ.","A si i jimle, ewe i sankimle, tufele i koka to ososo.",1.0909,0.4773
+169,Alɩ kɛn anɩlohogyiá Bulu ɔbɛ́kpa aha amʋʋ bɔhɔ mʋ gyi asa bowu amʋ ba nɩ.,"Alekanye na ihe o ji ana ebulu oba kpa, aha m bu Humprey Asabuwa Mbanefo.",1.0,0.5263
+170,"Ɔha amʋʋ oletsia, ɔbʋ ɩnʋ, ɔbɛ́laba amʋ mʋa Ɔŋɛ asienɔá bʋlɩɩ mʋ owie obia ansɩtɔ pʋ́ Yesu Kristo bʋgyi mlɩ bʋalɛ, abʋha mlɩ iwilwii.",Ọ ha mụ olileanya ọ bụrụ na obele ebe a mụ mụọ onye a si na anigbo le mụ oyi ebe ya asịta kpọọ ya Jisọs Kraist bụ Jim Nwobodo a bụ ha mụ na-ewere ya.,1.5,0.6923
+171,"Anɩlɔwanlɩn anɩaa, anɩlablɩ ánɩ́ bʋmágyi atogyihɛá bapʋha ɩkpɩ.",Anela wa le aniya anela ble ane gbomaji ato jihiya ba pu ha,1.625,0.434
+172,"Ɩnʋ ɔlɛnatɩ si amʋ́ yɔ dʋ wie ɔklʋntɔ, fa ɔpʋ amʋ yɔ mʋ́ ɔbɩn.",Nnoo na nnatị si ya mu yọ duwe akụkọ tọfa apụ amụ yọ mu,1.0,0.5778
+173,"Ɩnɩ sʋ bʋkɩ bɛɛ, Paulo lɔpʋ oyin amʋ ya Bulu ɔtswɛkpa ɩnʋ.",Paul okpo unyamu ya bu otu ekpa,0.9167,0.6222
+174,"Mʋ́ sʋ sumbi ayɔpʋ duanyɔ amʋ bɛtɩ ahogyipʋ amʋ fɛ́ɛ́ fia, bla amʋ́ bɛɛ, “Ɩma alɛá abési Bulu asʋn ɔkanda betsia ye atɔtɔ.","Mba, asụsụ mụ ayọpụdụ anyị nọ amaghị, mana akwụkwọ dịpụ, amaghị ihe fịa, ma amaghị beee.",1.0,0.7609
+175,"Ɔtsɩ amʋ lotsu ɔmɛ fʋa blɩ ɔbɛɛ, “Bulu layula opuni amʋʋ fɛdɩ mʋ́tɔ pʋ́ nyɔpʋ amʋʋ fɔnyɔpʋ amʋ.","Ọ sị m na ọchụ ọ mụrụ afọ abụọ bụ ya? Mụrụ laa yịlaa ọpụnị, a mụọ fa dị mụtọ, pụnye a pụ a mụọ sọnye a pụ a mụọ.",1.6667,0.6986
+176,” Amʋ́ akʋ bʋgyi Yudafɔá botsu Kirene pʋ́ Aleksandria awulusʋ.,A ma akwụkwọ dị Ụdọfụa kpotụkịrị nị Pọọ Alexandria Awụlụ.,1.1111,0.5306
+177,"Nkɛtɩ nɩ ɔblɩ bamba ɔblɩpʋ amʋ tɛtalɩ lɛ mʋ́ asɩ, mɛnɩ ɔpasua amʋ bénya tɔkʋ tsu mʋ́tɔ.","Kɛ tɛnɛ o blɛ bamba o blɛ pwamɛ tɛtali le mɔɔ si, mɛnɛ o pasuwan bɛ nya to ku chu mɔ",1.1765,0.3881
+178,Anɩ Sɩ Bulu onuto mʋa anɩ Wie Yesu bʋfinki ɔkpa ha anɩ aba mlɩ wa.,"A na-esiburu nri uto, ma na-eri ya esu, gbochie nke okwa ha na abamuru",1.0,0.549
+179,Ntɔ lahan fʋ sʋ fabwɛ ɩtɔá igyi alɩ?,To la hafo so fa gbe to a i ji a,1.375,0.5
+180,"Ɔmɛtan ánɩ́ ɔlɛblɩ ɔbɛɛ, mówun anɩ anain Abraham.","Ọmọ Taniọlẹbẹọbẹ, mọwọ ni Ananias Abraham",0.875,0.4872
+181,"Griki ablɩpʋ amʋ bɛɛ, ekekegyiɛkɛ, nɩ bʋdɛ atɔ ye a, bʋtamaha Grikifɔ asʋrapʋ.","Grikhi abla po amobé, grikhi yé ké nébo dé atoya, buta ma ha grikhi fo asoapu.",1.2308,0.4032
+182,Mʋ ayabi dɛ ogya kpa fɛ kɔbrɩá bafwɩ mʋ́ lɛ ogyatɔ ɩnʋnʋ.,Mụ ayá video ja kpa fe kọ biri a ni ba fu emu le oge atọ ị nọ,1.4167,0.5
+183,"Brɛá Paulo mʋa Barnaba bʋdɛdalɩ Yudafɔ ofiakpa ɩnʋ a, aha amʋ bɔkʋlɩ amʋ́ bɛɛ, bʋba ɔkpʋnʋ ɔdakɛ amʋʋ ɩba amʋ, abʋtra bɔtɔɩ tsu asʋn amʋ ɩwɩ suna amʋ́.","Bịa, pụlụ wa, bịa na ba, pụta na ịda for ofia kwa enu a. A ha mụ kpọrọ amụbịa ya, bụba ọkpụrụ ọdaka amụ ịba amụ. Abụcha mụ tọọrọ ịchụ asụ amụ ewi sụ na amụ",1.25,0.5678
+184,"Mɩ apio, ndekleá mlɩbɩ tɔá Bulu lɔbwɛ ha anɩ anain amʋ fɛ́ɛ́ bɩmbɩ amʋ.","Mee a pịọ, ndị klaam lebee ya, ha na-enye ya mfe bịa bịa.",0.9286,0.6111
+185,"Tsufɛ Sadukifɔ bʋtɛblɩ bɛɛ, kʋsʋ tsu afulitɔ kʋkʋ ɩma ɩnʋ.","Tu fais ça le kiff, on va te blé-bé.",1.0,0.8085
+186,"Mʋʋ ɔlɛfɩtɛ amʋ́ ɔbɛɛ, “Ntogyi sʋ mlɩ ndɛmba-abi mlɩdɛ osuna dunka amlɩwun?","Mụ na ya fọrọ nke nta ka mụ bụrụ ya. Etu mụ si malite mba bi, mụ na ya so na ndị nke a malitere",2.0833,0.8136
+187,Yiyi kɛkɛ ɩnɩ fɛ́ɛ́ igyi ha atɔ amʋʋ ɩbɛ́ba amʋ onuto.,I ka kanfe ji ha atua mu ebe ba mu,0.9091,0.575
+188,"Yesu lɛha amʋ́ yebi ɔbɛɛ, “Mlɩpʋkɩ pɔntɔ mʋ́a nyi atrahɛ.","Suleha, amunye bi obee? Mepụta ihe ọhụrụ, mụ na gị ga-arụkọ ọrụ.",1.2,0.7674
+189,"Amʋ́gyi aha ánɩ́ bʋtegyi Bulu mblasʋ, bʋdɛ Yesu ɩwɩ adansɩɛ gyi a.","Amuji ahane bute gi bulu m lasu, gbe na Jesu we adansi eji",1.0,0.4118
+190,Ɔha ánɩ́ olekina mɩ asʋn hɔ ɛ lakina mɩ Sɩ amʋʋ ɔlɔwa mɩ amʋ asʋn hɔ.,"Ohanne, o lekina m'asụ nụ ụdị, lekina m'asị a mụ, ọ rụọ m'asị a mụ.",1.0,0.5192
+191,"Ɔbɛɛ obóyula mlɩ, amlɩsi lakpan bwɛ nɩ.","Abe, ubo yula amiri amiri si la kpa gbe ni.",1.4286,0.4839
+192,"Brɛá ɔlɔbɔ ta a, mʋ akasɩpʋ amʋtɔ ɔkʋlɛ lɛbla mʋ ɔbɛɛ, “Mɩ Wie, suna anɩ mpaɩ bɔ, fɛ alɩá Asu Ɔbɔpʋ Yohane losuna mʋ akasɩpʋ.","Bia, olu bo mpa anyi amuta ma ka asi pu amuta okwa ya le bia mu o bee. Mewie, sudani mpa anyi bo, fe ya ria asu obodo Yohane ro sudan mu akasi",1.24,0.5789
+193,"Nɩ anɩtɔdwɛ aba alɩ a, mʋ́ abɛ́bɩá anɩbuo ɔnɔkwalɩ amʋ nɩ.",A na-etodhe abali ya ma abali abuo onokwara ya,1.0,0.5682
+194,Ndɛ mʋ́ wanlɩn sɩsɩ ɔpasua ánɩ́ ɩbʋ Galatia ɔsʋlʋsʋ fɛ́ɛ́.,N'démonsɛ cɛ a pasuani ebu Galati ososo fɛ,1.0,0.5
+195,"Alɩ kɛn nɔ́wa ɩlʋ ɔŋɛtɔ, pʋ mɩ agywɩɩn wa mʋ́ brɛ kʋtɔ ɛ nɩ.","Alekana waalu oneto, pomia juin wa mu brekutu eni.",0.9286,0.5349
+196,"Nɩ ɔkʋ ɔbwɛ agywɩɩn ánɩ́ obépilan amʋ́ a, ogya bɛ́dalɩ amʋ́ ɔnɔ, hɔ mʋ mɔ.","Nee, ọkwa ọgbụajụị a na-eme n'ebe epin a amụa, oge a abụghị na a na-amụ nọ họọmụ",1.0667,0.7547
+197,Ɔtsɩ amʋ lɔkwɩɩ obiyimbiá ɔbɛ́kpa ɔmá fɛ́ɛ́ owuntɔlɩnsʋ.,Ọchiamụlọkụ ị obi ṅụrị a na ọbụkwa ọmafe. Ọwụ ntị,1.25,0.6444
+198,"Mlɩmátsu sika kɛntɛ, akpankogyo ntɛ ntʋkʋta kɩta.",M'ma tu zika kante akpankojo nte nte kutakita,1.1429,0.2927
+199,"Tamɛ Yesu lɛtɩ nyebi amʋ ba mʋ ɩwɩ wa, ɔlɛbla akasɩpʋ amʋ ɔbɛɛ, “Mlɩha nyebi amʋ abʋba mɩ wa.","Taman yéso, leti yé biya m'ba m'wéwa, o lé b'la akasépo a m'obé.",1.0,0.6056
+200,"Mʋʋ ɔlɛfɩtɛ amʋ́ ɔbɛɛ, “Ntogyi sʋ mlɩdɛblɩ mlɩaa, mlɩmɛdɛ bodobodo?","Mọ́ alafia mọ́ bẹ́. Ìtọ́ni sọ mí dáblì mli a, mli m'adé gbùdùgbùdù.",1.3,0.5849
+201,"Tamɛ nɩ ɩtɔ wankɩhɛ ɩwankɩ wʋlɩ tɔá ɩbʋ okluntɔsʋ a, itemli itowunhɛ.","Taa mee na etu a nwa nke ha, nwa nke wele tua egbe okwu n'ntorusuwa, etemiri etowu ya.",1.5,0.5714
+202,” Mʋʋ bɛbla mʋa mʋ woyitɔ aha fɛ́ɛ́ anɩ Wie Yesu asʋn wanklaan amʋ.,"Mɔ bɛbla m'amu wɛto a ha fɛ, a ni biɛ Yesu asowankla",0.9231,0.38
+203,Tsufɛ ɔdwɛ anfɩ odu ɔbɛ́ha mlɛ́talɩ si aha lakpan kie amʋ́ nɩ.,Tufé a d'un vieux du obéir à ma lettre ici à la,1.0,0.766
+204,"Mʋ́á ɩdʋn mʋ́ kʋraa gyi, nɩ nɔpʋkɩ alɩá nɔpʋbɩ mɩ Wie Kristo Yesu a, nawun ánɩ́ ɩbʋ labi dʋn togyitɔ.","Mwaa do mokoraji, n'inapokialia nopo bi miwie Kristo Yesu a, na nwaa na ebola bidonto ji",0.85,0.3816
+205,"Sakaria letsia ɔtswɛkpa ɩnʋ yɔfʋn ɛkɛá ɔlɛha Bulu igyi ta, oleyinki yɔ woyi.",sakaraya le chiya ochakwa eno yofon oke ya ole ha buru iji taa ole nke iyo we,1.3077,0.5
+206,"“Mlɩtɔ ma bʋ akufa lafakʋlɛ , ɔkʋlɛ ɔfwɩ a, omesi adukweba-kweba trahɛ wa dimbitɔ ɩnʋ, yodunka mʋ alɩɩ kpɛfʋn brɛá obówun mʋ?",mgbè tọma bụ akụkụ afa kụlụ ọ kụlụ ofu ya ọ mechaa dịkwa ịba kwa ịba tọọ ha ewa dị mbịte ọnụ ịrụ nke amara kwefụ bụrụ ya ogbọ nwụ,1.4286,0.5816
+207,"Mʋ́ ɔma a, da amʋ́ ɔla abʋsi brɛ yinta ha ɔtɛwa pʋ́ anain otuntufla kla tɩntɩntɩn.","Mụ ma, damụla, abụsịrị m ntị ha otu a pụọ na ịlị ntọala ntị ntị.",1.0,0.5161
+208,"Tsufɛ bregyibrɛá mlɩdɛ bodobodo anfɩ gyi, nun nta tsu ɛwɛ anfɩtɔ a, mlɩdɛ anɩ Wie lowu amʋ ɔkan da kpɛfʋn brɛá obéyinki ba.","Ndi be anyi, eji m ohere a na-ekele unu maka nkwado unu na-enye m kemgbe ụbọchị m bidoro ọrụ a.",1.0,0.7959
+209,"Ɩnʋ Paulo lɛfɩtɛ anɩ ɔbɛɛ, “Ntogyi sʋ mlɩdesu, mlɩlaha ɩwɩ lawu mɩ alɩ?","N'okporo ụzọ dị elu, m na-ahụ ụgbọ mmiri.",1.0,0.8364
+210,"Ɩnʋ asʋn amʋʋ Bulu ɔnɔsʋ atɔɩpʋ amʋ bɔwanlɩn tsu mɩ, Nyankpʋsa-Mʋ-Bi anfɩ ɩwɩ amʋ fɛ́ɛ́ bɛ́ba mʋ́tɔ nɩ.","Nno, asimụ ụlọ ọrụ a tọrọ ịpụ, a mụbaara ya tụmị ya nkpụse mụ bịa mfe iri, a mụ febe baa mụ tọrọ",1.2778,0.6282
+211,"Ɩlɔwa ɔsa kwɛ, tamɛ brɛá owi lɛlɩn a, ɩlɔtɔ mʋ́ mɔ, tsufɛ mʋ́ nlin mɔyɔ ɔtɔtɔ.","Ilo wa sa kwe. Tame bere o wili le ya, ilo to mu mo, tufe mu ni ma o yo",1.25,0.5088
+212,"Mʋ́ sʋ bɛfɩtɛ mʋ bɛɛ, “Anɩ Mbla lɛha ɔkpa ánɩ́ oyin ɔbɛ́talɩ kina mʋ ka?",Mọ́sẹ̀bẹ́ fítáǹbẹ́. Àní mblàlẹ́ hòkpa àní ónyòbétaliki nàmọ́kà.,1.0,0.5192
+213,"Ɩnɩ sʋ mɩ abi adwɛpʋ, mlɩtsia Kristotɔ.",mi a bi adepe le tia,1.0,0.6452
+214,"Brɛá ɔdɔm anfɩ bonu okitikiti amʋ a, bɛsrɩ befia ɩnʋ.",bịra ọdịmma fịbonụ oketịkịetị amụa. Bịa sị be fịa nụ,1.0,0.5
+215,"Botsu kebi amʋ ya Bulu wa, yɛyaɩ mʋ obiasʋ.",bụkwa obi ya ma ya bụrụwa ya ga-anyi mu obi ya,1.1111,0.6364
+216,"Mʋ́ sʋ bʋma nkpa pɔpwɛ amʋʋ itsu Bulu wa amʋ, tsufɛ bʋmeyin tɔtɔ.","Ọ sọ bụ mụ na gị na-akparịta ụka, mụ na gị chọrọ ịgbụrụ gị ụka. Ị chọrọ ịbụ mụ ịntọ",1.5385,0.98
+217,"Bulu obóyula fʋ, tsufɛ bʋma tɔtɔá bɔ́pʋka fʋ ɩkɔ.",ߓߑߟߎ ߏߓߏ ߦߎߟߊߝߏ ߕߎߝ߭ߍ ߓߏ߬ߡߊ߬ߕߐ߬ߕߏ߬ ߓߏ߬ߔߎ߬ߞߊ߬ߝߏ ߌ,1.0,1.0
+218,"Anɩlada ɩwɩsʋ anɩaa, obótsutsua obowie nfɩ anɩlamɔ mʋ.",,,
+219,"Ɔbɔwa mlɩ ɔwʋnlɩn, ɔtɔɩ kpla mlɩ amlɩlɩɩ kinkiinkin hogyitɔ, mɛnɩ mlɩtɔ ɔkʋkʋ méeyinki ɔma asʋn wunhɛ anfɩ sʋ.","Ọbụrụ na ọ nwere otu ekpere m na-arịọ gị, nke kacha mkpa bụ ka i jite. Mee nlele nke ọma asụghị ya mfe.",1.2778,0.7778
+220,"Brɛá ɔprada asienɔ amʋ lɔpʋtɩ, mbɛɛ anwanlɩn asʋn amʋʋ ɩlɛblɩ amʋ a, nonu ɔmɛ bamba tsu ɔsʋsʋ.","Bụrụ na ọ dịghị onye na-akpọte mbe anụhịa, asị m na ịlaghachila mụwa na onụ ọ meba mbatu ọsọsọ.",1.1176,0.6533
+221,"Tsufɛ Bulu asʋn wanlɩnhɛ amʋ ɩlɛblɩ ɔbɛɛ, “Aha amʋ betsia asɩ gyi atɔ, nun nta, kʋsʋ kɔm.","Aha m bụ Etia Asigiatọ Nsụka, Nsukka",0.9412,0.7206
+222,"Tamɛ Bulu lɛblɩ tsʋn mʋ ɔnɔsʋ atɔɩpʋ amʋ fɛ́ɛ́sʋ yaɩ ɔbɛɛ, ‘Kristo, obówun ɩwɩɔsɩn.","Tupu ụwa e kere e kere, Okwu so Chineke dị, Okwu ahụ bụkwa Chineke.",1.0,0.9062
+223,"Mʋ́ sʋ nɩ tɔá négyi ɩbɛ́ha mɩ pio Okristoyin ɔbɔ́bwɛ lakpan a, mméetepi tra gyi iye ɛkɛkɛɛkɛ, mɛnɩ ɩmɛ́ɛha mʋ ɔdɩda.","Mụ sonetụwa na iji be ha mepee okristo nyọbọbela kwa, ị mee ka etepịta ji ya ekekeke, mee na ị mee ha mọdịda.",1.0952,0.5169
+224,"Bulu lɔhɔ anɩsʋ gyi, ɔlɔpʋ mʋ asʋn wanklaan amʋ wa anɩ ɩbɩtɔ.","Mmm, o wu ihe mere m ji jụọ gị. Ọ bụrụ na mụ asị gị na mụ anaghị ebi",1.5833,0.8958
+225,"Mʋ́ sʋ befi asɩ bʋdɛ mʋ fɩtɛ ɩkʋlɛ-kʋlɛ bɛɛ, “Mɩ Wie, mɩ nɩ loo?","Mụ so bịfịa sị bụdẹ mụ fịte kwụlụkwụlụ be ya. Mịrị ya, mị",1.0,0.6889
+226,"Tɔá abɔ́pʋbɩ Bulu-abi pʋ́ Ɔbʋnsam-abi gyi, ɔhagyiɔha ánɩ́ ɔtamabwɛ yile, ntɛ dwɛ mʋ ba megyi Bulu mʋ bi.",Tua wa pụ be bụrụ abịpụ ọbọsị abụọ ji ọhajị ọhaneze ọtọ mgbago ịlị nte edọọ mụba meji bụrụ,1.0556,0.6329
+227,"Nɩ nsibi nkʋlɛ gyi nyankpʋsa-oyi amʋ fɛ́ɛ́ a, nkalɩ ɔbɔ́bwɛ obónu asʋn?","N'isi b'nkụlaji, ya bụ ihe a mụọfe ya, nke a na-akpọ ya bụ igbo n'ụzọ",1.1667,0.6852
+228,"Yesu lɔyɔ mʋ́sʋ blɩ ɔbɛɛ, “Nɩ mɩ onuto negyi mɩ ɩwɩ adansɩɛ a, mlɩmɔ́ɔhɔ mʋ́ ánɩ́ ɔnɔkwalɩ igyi.","ya sulu ya omusu bulu ya be ya, mli mionuto ne gi mli we dance ya, mli moho mu onokwali",1.1111,0.5493
+229,Mʋgyi Roma ɔhandɛá ɔdɛ Yudea ɔmásʋ gyi nɩ.,Mụ gị rọ ma nọ ọ dị ya ọ masị gị,1.375,0.6176
+230,"Nɩ bɛkɩta mlɩ ya a, mlɩmágywɩɩn asʋn ánɩ́ mlɛblɩ.",n'ebe a kacha mụ na ya mụ na agwụ asụsụ a na-eme ebe,1.3333,0.6842
+231,"Bulu tɛlɛ mʋ Ɔŋɛ amʋ ɔwan tsʋn ɔkpa ɔkʋsʋ anɩtɔ okugyiɔkʋtɔ, mɛnɩ abɔ́pʋkpa aba.","Ndi be anyi, ekele m unu owa. Chun okwa koso, ana etu ugo ji okoto. Meenu ya bu opukpa",1.3571,0.7344
+232,"Brɛá bʋdɩn ntsu amʋsʋ bɔyɔ a, Yesu lɛda amʋ́ ɔla ɔbɛɛ, “Mlɩkɩ wanklaan Farisifɔ pʋ́ ɔmásʋ ogyipʋ Herode bodobodotu-afasʋ.","Bịa abụọ dị n'ime amụọ sọọsọ ọgbọ ịwa, Jisọs na-eda amụọ ọla ọbụ e, mmiri nwankla fọrọ sị ịfọ, pụọ ọmasụ oji pụọ Herọdi gburu gburu tụọ afa sụ",1.5263,0.6875
+233,Tsufɛ mɩ ɩwɩ apɩna anfɩ idesuna ánɩ́ Yesu ɔkpábi ngyi.,"Chineke meere anyi ebere na afọ ndị siri ike, Jisọs ọkwa biri.",1.2,0.8837
+234,"Mboun tɩ ahianfɔ, tsukʋlɛ asinpʋ, abubupʋ pʋ́ ansibi abwiepʋ.","mụ nụrụ ya ihe a fọọ, tupu mụ asị m pụọ, abụbụ pụọ, kwanụ si bịa bụrụ",1.8889,0.6735
+235,"Mɩ apio Akristofɔ, ɩmáwa mlɩ wanwan nɩ ɔyɩ anfɩtɔ aha bʋtolu mlɩ.","Mpiakụ Kristofọ, ịma wa mịlịwanwa n'ọịanfị̀tọ, aha bụ Tọlụmịlị.",0.9167,0.4038
+236,"Brɛá Bulu-abɔpʋ amʋ beyinki yɔ ɔsʋsʋ a, akufa akpapʋ anfɩ bɛbla aba bɛɛ, “Mlɩha ayɔ Betlehem.",M̀r. Blue abọpọ́ m̀ b'énké yọ́ ọsọ́sọ́a. Akụ́fá akwàpá m̀ b'éblà abàdé. M̀r. Robert,1.0,0.5753
+237,"Brɛá aha amʋ bɛdasaɩn a, Yesu lɔdʋ yɔ Olif ɩbʋ amʋsʋ.","Biko ahanm bụ Dasahia, ga esoro adụọ ịfo Igbo amụma.",1.0,0.6098
+238,"Yesu lɛtra blɩ ɔbɛɛ, “Bulu iwiegyi amʋ igyi fɛ alɩá ɔha todu oyi-ibi mʋ ndɔtɔ.","Ihe mere na-adịghị abụ ya bụ na i wee dị ya mma, i jife ala ya ọha to do oyi ibi",1.4,0.6667
+239,Mlɩkɩá mlénya nkpa ánɩ́ ɩtamata tsu Bulu asʋn wanlɩnhɛ amʋtɔ.,"Mnekee ya mleenya nkpa, ana itamata, chụbụrụ asụ nwaanyị ahụ amụta.",1.0,0.44
+240,"“Apio aba, ndɛ mlɩ bla mbɛɛ, mlɩmánya nyankpʋsa ifu.",ya ba n'damale b'la m'be m'le ma nyanya nkusa,1.0,0.375
+241,"Ntɛ odekleá ɔbɔ́yɔ Grikifɔ awulu amʋʋ anɩ pɩ badasaɩn yɔ mʋ́sʋ amʋsʋ, ntɛ obóyesuna Grikifɔ amʋ atɔ?","Nti oge nke a, ọ bụ ya bụ Greek ifu a, ụlụ ya mụ, a na-epi ba dasa ya ọmụsọ ọmụsọ. Nti oge ọsụ na Greek ifu a mụ atụ",1.7647,0.5125
+242,Ifu lɛhɩɛ wie ɔpasua amʋ pʋ́ aha ánɩ́ bonu asʋn anfɩ fɛ́ɛ́tɔ.,"A fulaa heewii opasu amoo, poo ahaani kbonnu asanfife",1.0,0.4889
+243,"Ɔkpa ɔtsan-ɔtsansʋ Bulu tɔyɔ agyʋma tsʋn anɩsʋ, tamɛ Bulu amʋ kɛn dɛ mʋ́ fɛ́ɛ́ bwɛ tsʋn anɩ fɛ́ɛ́sʋ.",Ọkwa cha cha so buru tọọ ajọ mma chuani so. Taa me buru amụka ndị mụ fa gba echuani fa eso.,1.1667,0.5733
+244,"Ɩnʋ bɛnatɩ yɔtʋ mʋ, kɩta mʋ, kpa mʋ ya Yudafɔ Asʋn Agyipʋ amʋ ansɩtɔ.","I nu be na ti yọtọ mụ, kịta mụ kọ mụ ya ayụda fọ asụ ajịpụ amụ",1.1429,0.5283
+245,"Ɩnʋ ɔlɛda amʋ́ ɔla ɔbɛɛ, “Mlɩmábla ɔhaa mɩ ɩwɩ asʋn anfɩ.","M'ma bla ohan, me wu ya asomfi. Ile hiani, m'minya nkwasia mu bia",1.1818,0.9302
+246,"Ɔlɔyɔ a, owisʋ lakɩta Petro mʋ sia tsɩhɛ, ɔda.",ọwụ sọ na kịta pụtrụ mụ sị a tịhẹ ọda. Mụ ọ na-ekịta ọ tịa,1.5556,0.9429
+247,"Bulu lɔwa awɩtɔlɛ ha mɩ, bwɛ mɩ obu oyipʋ ɔtɩansɩpʋ.",blulo a wito le ha mi gbe mi bu oyi po o ti a si,1.4,0.4878
+248,"Yesu lɔyɔ mʋ́sʋ ɔbɛɛ, “Mlɩkɩ alɩá asʋn ogyipʋ anfɩ ɔtamagyi asʋn ɔnɔkwalɩsʋ anfɩ lablɩ.",Yesu la yɔn mɔso o bɛ.,0.9286,0.8286
+249,"Ɔhagyiɔha obówun ánɩ́ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ napʋ tumi mʋ́a numnyam kpɔnkpɔntɩ mbʋ nwʋlʋtatɔ tsu ɔsʋsʋ nɛba.","Ohanézèhù, ubo nwe ni mmi nya nkwusa mu bia nfi na pu tumi mu onumu nya nkpo nkpo nkpo nti, ngbo nru ta ato chu osusu na",1.625,0.5056
+250,"> Ɔbamba ɛ ɔbɛɛ, ‘Nwɛn kotoo netsia ɔka.","I na-o, o si mpua mụ lee nke ịbụ abụ",1.4286,0.8966
+251,"Bulu lɔpʋ mʋ Ɔŋɛ Wankɩhɛ amʋ hɩɛ mlɩ nsʋ, pʋsuna ánɩ́ mʋbʋ mlɩ, fɛ alɩ amʋʋ ɔlɛhɩɛ yaɩ ɔbɛɛ, mɔ́bwɛ amʋ.","mulu lafu m'o nge wa nki ya m'o siemle nso. Pusuna ni m'o bu m'o le, fiale m'o le siemle ya yi obe m'o bu ya.",1.2381,0.5897
+252,"Ɔlɛfɩtɛ ogyankpapʋ ɔbɛɛ, ‘Ɩkɔ afɩnɩ fʋdɛ mɩ wie?",Onye ịvtụrụja kpọpụta maọbụ ịkwụafụ n'ịfụdemi,1.0,0.7895
+253,Ɔha ánɩ́ ɔdɩn obusʋ mákplɩ botsu tɔtɔ obuto!,"Ohanézèdi ogbuso, makwụlụ igbo chụta ọtọ ọbụ",1.0,0.6857
+254,"-Ɔbɛɛ, mówun anɩ anain nwɛ.","Obi m, m lee anya na elu ụlọ pọpọ, ahụghị m ihe a na-ebetụ. Obi m, mụ na nna anyị",4.0,2.3
+255,Ntsrakpabi asienɔ amʋʋ fowun mɩ gyɔpɩtɔ pʋ́ sika pɛpɛ ɔkandɩɛ-oyi abambi asienɔ amʋ asɩ nɩ.,ntrekwa bi asiri na amu phone mbeji pito pusi ka papa ya ka ndi ya oyi aba m asiri na amu asiri,1.4667,0.473
+256,"Aha ánɩ́ babwɛ Bulu aha bʋtamatra bwɛ lakpan, tsufɛ Bulu tsiatɔ bʋ amʋ́tɔ.","Aha na-agba egbe bụ aha agbụrụ atọ agbụrụ akpa. Tụfịakwụrụ, ụdị ya kacha bụ",0.9231,0.7069
+257,"Nɩ nfɔlɩ ɩta ɔdwɛ a, ntɔ bɛ́lapʋwa mʋ́ ɔdwɛ?","N'ihi na ọrịa taa adịghị ya, ntobé lapụwa mụ",1.0,0.7188
+258,Ɔtsa mɩ brɛ anfɩ nda obu Bulu asʋn wanklaan amʋ ɔkan da sʋ anfɩ.,Aka m ebidoro ihe ndia bụ asụsụ Nkea mụ ka dasụrụ,1.0,0.7
+259,"Tɛkɩ mbʋ ɔkpa pʋkle tɔkʋ ha mɩ ɩwɩ, tamɛ mmɔ́ɔbwɛ mʋ́ alɩ.",Tekembuo kpa apu kple eto ko ha mi we. Tame muo gbe muo,1.0,0.5349
+260,"Alɩ brɛ amʋtɔ a, ɩlabwɛ fɛ ɔpawisʋ.","na librameto a, ilagbe fe opawu",0.8571,0.5185
+261,"Nafin obu, mmɛ́ɛtalɩ kʋsʋ bɛha fʋ tɔtɔ.","na tinyobu, na etali koso be ha futo",1.1429,0.4667
+262,"-Tamɛ nɩ ɔkʋ tegyi Bulu mblasʋ a, idesuna ánɩ́ mʋ Bulu-dwɛ lɔfʋn.","Ta mene o ku te ji bulu mbla suwa, i de su naani mu bulu dɔɛ lɔ fɔ.",1.4167,0.2653
+263,Farisifɔ ɔhandɛ ɔkʋ lɛtɩ Yesu atɔ ogyikpa mʋ woyitɔ ɔkpʋnʋ ɔdakɛ.,Français pour enfants okwute Yesu atọ ojịkpa ma ọ bụ ịtọ ọkpụrụọda,1.0,0.6481
+264,Yesu Pʋya Bulu Ɔtswɛkpa.,"Blue obopọ amụ le bụla amụ amụsọ. Kịbịa mụ oboto ole ke ya, betem kete, di nka bụ Da Yésu. Ị da si blue obopọ amụ le ha mụ asa mụ ị le ya mụ omenị.",9.0,4.85
+265,"Nɩ oyinki bɛbla mɩá mlɩtsie wanklaan a, ansɩ bégyi mɩ.","Nye ya nri ka o bia mee, a na m lechi ya nwa nke a, a si be ji m.",1.9,0.6279
+266,"Naha ɔha anfɩ ɔbʋ tsiatɔ anfɩ odu ɩpɔn dodoodo, fɛ mbʋ ɩnʋ.","Na ha hafe, o gbuchie ya tu hafe odu pondo dodo, fembonu.",1.0,0.4783
+267,"Yesu lɛbla mʋ ɔbɛɛ, “Ɔnɔkwalɩ igyi fablɩ ánɩ́ fʋma oklu.","ye sulablamu be, o nokwali i di ifa ble ana fu ma okuru, tufe fatia akuru te nuke, me di fu",2.1,0.9535
+268,"Hogyi, ɔkpakɩ pʋ́ ɔdwɛ, tamɛ ɔdwɛ dʋn mʋ́ fɛ́ɛ́.","Oji, o pa ke, bo do e, ta me odo e do ma fe.",1.5556,0.6061
+269,"Asa mlɩlebemli Akristofɔ a, mlɩleyinta brɛ tsɔtsɔɔtsɔ tsia bwɛ tɔá aha ánɩ́ bʋmeyin Bulu bʋtekle bwɛ.","Asambele be mli a Kristofo wa, mli ni intabere chochocho chi agbɛtua aha ni bu meimbulu bu tekle gbo",1.0625,0.4096
+270,"Ndɛ bakwɩɩ nkpa Ɔhɔpʋ, anɩ Wie Kristo, ha mlɩ Owie Dawid wulutɔ!","na akwa ịkpa ọhụrụ na Onye Kraịst, ọha mụ gburu na damu ofili amụ, ha mere onye David wuru",1.5,0.98
+271,"Mʋ́ sʋ mɩ abi adwɛpʋ, mlɩkɩ mlɩ ɩwɩ wanklaan ɩkpɩsumsʋ.",,,
+272,"Nɩ mlɛkla ɔwʋlʋ anfɩ a, ɩbɔ́wankɩ mlɩá nanu Kristo ɩwɩ asʋn ŋainhɛ amʋ asɩ.","Nnem lekelu olu m fee, i bu kwa nke m lere n'ihi na n'ime Kristi bu asusu m n'ihe amasi.",1.4286,0.678
+273,Ɩnʋ ɔha amʋ tsiatɔ teyinta dʋn alɩá igyi yaɩ.,"Ohanmuti ato, ehi nti adu aria idi ya",1.0,0.5
+274,Anɩa anɩ Wie Kristo Yesu ɩkʋlɛbwɛ sʋ ntɛhɩɛ dwɛ mlɩ fɛ́ɛ́.,Anyanwu bu Kristi Jesu ekwelegbo eso ntehie di na mife,1.0,0.5778
+275,"Mʋʋ Yesu lɛblɩ ɔbɛɛ, “Ɔnɔkwalɩ ndɛ mlɩ bla, tswɩtswɩá ɔsʋrapʋ anfɩ ɔma tɔtɔ anfɩ lawa a, ɩdʋn ɔhagyiɔha klɛ.","mụ ya so lebara ọ be. Ọ nụkwara na m lebara, chetụrụ ọ sorokwa m vie, ọ matụtara m vie na-awa, ịdụ jụọ ha",1.2632,0.7176
+276,"Ɔma-ɔma a, Bulu igyi ɔhapʋ dɛhɛn amʋ lɛtɩ Yudafɔ asʋn agyipʋ amʋ fɛ́ɛ́ fia.","M'ma m'ma, bluji o hapu dɛhɛ amun letɛ yudafo asun ajipo amun fɛɛ fia.",0.8571,0.3684
+277,"Ɩnɩá anɩmɛtalɩ sankɩa ntsusʋ-yibi amʋ sʋ a, anɩlesi ɩwɩ ha afu amʋ, ɩlɔpʋ ntsusʋ-yibi amʋ natɩ.",,,
+278,Ɔha anfɩ odu lamaɩn ɩwɩ lɛ Kristo amʋʋ ogyi ɔpasua amʋ nwun amʋsʋ.,Ahanfi dula ma yi wele Kristu amu oji opasua mu wuamu.,1.0,0.4151
+279,Ɔkandɩɛ-oyi abambi asienɔ amʋ ɛ gyi ɔpasua asienɔ amʋ.,kandi oyiyi abam bi asii na ama ya di opasua asii na ama,1.4444,0.3409
+280,"” Ɔlɛblɩ mʋ́ alɩ a, oleyinki bun ɔdɛ mʋ atɔ wanlɩn ɔsʋlʋtɔ.","O le bulu mụ na ya, o le nke ị bụ, ọ dị mụ atọ ụnwa na ọ sụrụ",1.7273,0.6591
+281,> Tamɛ mlɩlapʋ ɩnʋ mli awikplu oŋainkpa.,ka m lapu inu mli ya wi kulu onye,1.3333,0.5
+282,"Mɩ adwɛpʋ, mlɩha adwɛ aba, tsufɛ ɔdwɛ itsu Bulu wa.",M'le ha do ya ba. M'le ha do ya ba. Tu fais,1.2,0.6667
+283,"Tamɛ mlɩlɔpʋ mʋ ha mlɩaa, bʋmɔ mʋ.",ka me meli lopo mu hamliya bu mo,1.1429,0.5
+284,"Yesu lɛtra bla amʋ́ ɔbɛɛ, “Mɩ mʋ́ nɔyɔ.",ye sule trabla mobe,1.0,0.5185
+285,Ntɛ mɩa Barnabanyɔ mʋ́ ayɔ agyʋma kɩ anɩ ɩwɩsʋ?,"Nte m ya ba na banyo, mu ayo ajuma ke anewe.",1.2222,0.4054
+286,"Nɩ klunsi ɔdapʋ mɛbɩ da mʋ́ a, ɔhaa tamanu mʋ́ asɩ, dɩda atɔ yɔ ɩsa.","N'ikpeazụ, ọ dịghịkwa mfe damụa, ọha atamụa, ọnụ mụ asị dịdị atọ gị ụtọ.",1.0,0.6531
+287,Bɛ́talɩ lɛ asʋn wunhɛ kugyikʋ ɛ ba ɔsʋlʋsʋ bregyibrɛá bʋdekle.,"Bɛ tali la asu hɛ kudi kɔɛ ba osoro so, bɛ dji bɛri aburi",1.3,0.5098
+288,"Fówun nɩ Petro ɔba bɔtsʋn ɩnʋ a, mʋ yiyi bɔ́wʋlɩ amʋ́sʋ.",Foni petru o ba bocho inwa moyi bowuli amusu,1.0,0.5
+289,"” Bʋmɛtalɩ bɩtɩ amʋ́ ɩsʋ, tsufɛ aha amʋ fɛ́ɛ́ bʋdɛ Bulu kanfʋ ofula kpɔnkpɔntɩ amʋʋ alabwɛ amʋ sʋ.","Bamanantale bɛti amon eso, tu fais un hamon fait de blukanfo ofila konponte amon ala gbe amoso.",1.0,0.5467
+290,Anɩ Wie Yesu Kristo ogyi mlɩ bʋalɛ.,aniwiiye Yesu Kristo oji m'ebuale,0.7143,0.3214
+291,"Ɩnʋ ɔmɛ amʋʋ ɩdɛ mɩ asʋn bla tsu ɔsʋsʋ amʋ lɛtra bla mɩ ɔbɛɛ, “Yɔhɔ ɔwʋlʋ amʋʋ ɩlafinki amʋ lɛ Bulu-ɔbɔpʋ amʋʋ ɔlɩɩ ɔpʋ mʋ́a ɔsʋlʋsʋ amʋ ɩbɩtɔ.",Omiamu e dami aso bula tu ososo amule tera bula mi obee. Yeho o wura mu la sinki amu le bulu ogbopu amu ole opu mu ososo amu,1.0,0.5495
+292,"Bɛblɩ bɛɛ, “Abraham abi-aná anɩgyi.",ߓߙߊߤߊߡ ߊߓߌ ߊߣߊ,1.0,1.0
+293,"Tɛkɩ ɔmɔwa labi ha fʋ brɛá ɔlɛsrɩ si fʋ, tamɛ sei mʋ́ ɔbʋ labi ha mɩa fʋnyɔ.","Take your mobile, behalf of brother, let's receive it.",1.0,0.8246
+294,"Nwɛn amʋ ɔnɔ lɛhɩɛ wa ɔnlɩn, idekle imli ɩkɔ.","mụwa, a mụọ mụ n'ọnụ, lee hịa wa ọnụ m, ị declare ị mụrụ",1.4444,0.8286
+295,Mʋ́ sʋ ansɩ bégyi adupʋ mʋ́a atɩnpʋ amʋ fɛ́ɛ́ ɛkɛwʋlɛ.,"m'oso ansi be di adupo, m'o atempo a m'o fe eka",1.1,0.5
+296,"Apio, anɩdekle anɩaa, mlɩbɩ ɔnɔkwalɩá ɩbʋ Akristofɔá bawu ɩwɩ, mɛnɩ mlɩméetsia gyi awɩrɛhɔ fɛ aha ánɩ́ amʋ́ ansɩ mɛdɩn tɔtɔsʋ.","anyi na ekele ya na be ya nokwara na Igbo a Kristofas Abawui, ma na m na mechi ya ji a nwere ho fiaha amansi me di ntotoso",1.4,0.5248
+297,Anɩ Wie Yesu sʋ mlɩbu aban mʋa ɔhagyiɔha ánɩ́ bapʋ tumi wa mʋ ɩbɩtɔ.,"A ni wiyé yésu so, m'libu aba muwa ohaji ohani ba potumi wamu ebétu.",1.0,0.3774
+298,"Mlɩbu ɔmásʋ akɩpʋ amʋʋ ɔmá ɔkpapʋ lalɛ ɔbɛɛ, bʋbɩtɩ lakpan abwɛpʋ ɩsʋ, abʋkanfʋ yile abwɛpʋ amʋ.",mlebu omaso akepu amoo oma okpapu lale obe bu beti lapa agwepu oso abuka nfu ile agwepu,1.0625,0.4231
+299,Mʋ ansibi aklambi ɛ lɔwankɩ fɛ ogya mpɩmpɩ.,Mɔnɔn si bi a klanbiɛ la nɔn ki fɛ o ja mpɛn pɛ.,1.5,0.3714
+300,"Ɔma olu, ɔtamaka ɔnɔtɔ, ɔtamatsu ɩwɩ.","Ọmọlụ, ọta ma ka ọnọta, ọta ma",1.1667,0.5172
+301,Mlɩtɔ okugyiɔkʋ gyi mʋ nyankpʋsa-oyi amʋ ɩwɩ tɔkʋ.,"te ji nyankon sam. Yo, ayonpa, Kristo yi lo kulu ya mu, ni fe mu ni ji. Ni ji mu opasua mu ni. Ni tokuji oku ji mu nyankon so yi ya mu we toku. Bulu le hisia ni fe wa mu opasua mu",5.5,2.6098
+302,"Mboun mlɩtsia tsiatɔ wanklaan ánɩ́ ɩbɔ́bwɛ nfantʋhʋn ha amʋ́, mɛnɩ ɛkɛá Kristo, ogyi akufa akpapʋ Owie amʋ ɔba a, ɔbɛ́ha mlɩ ɩsʋgyi-ɩpa ánɩ́ ɩbʋ numnyam, ɩmɛ́ɛkpa ɛkɛkɛɛkɛ.","Igbo bu Igbo, nti ya chitaa wa nklaani, Igbo bu mfe ntuhu ha amu. Meni ekele a Kristu oji akufe okpapu owu ya ma oba, oba ha mere isu ji ipa, ana ibunu m ya, ime ekwa ekeke ekke.",1.4074,0.5224
+303,"Bulu-ɔbɔpʋ lɛlɛ ɩwɩ ɔwan suna amʋ́, Bulu numnyam lɔwankɩ wʋlɩ amʋ́sʋ.","Buru onwa pụrụ iche onwa Sọna'amụ, buru nụ mụnyam, na ọwa nke nwere amọsụ",1.2727,0.5556
+304,"Ɩnʋ ɔha amʋʋ ɔlɛtɩ mlɩ amʋ ɔbɛ́bla fʋ ɔbɛɛ, ‘Mɩ wie, kʋsʋ pʋ obia ha ɔha anfɩ.","Ohanézè n'ime, ọbụrụ na ọbụrụ na mụ onwe m, ọbụrụ na mụ onwe m.",1.0,0.8947
+305,"Mʋa akasɩpʋ bɔdʋ yɔ okuku kʋsʋ, yetsia asɩ ɩnʋ.","Mwamaka si ụgbọọdụ ya okwu kụkụsụ, ya etie asị",1.0,0.5405
+306,"Mbʋ tɔá itegyi mɩ ɩwɩ adansɩɛ, ɩdʋn Yohane klɛ amʋ.","Toi, il te dit mieux que tu as dansé. Et donc,",1.1,0.825
+307,Olenya klʋn kpa amʋ́ nfi adʋana kɛkɛ ɔsʋlʋkpan amʋsʋ.,M'bɛn'ya k'lɔn pa mɔn fiyadua na kɛkɛ di m'ya mɔn,1.0,0.4884
+308,"Tsufɛ aha anfɩ odu Ɔsɩ amʋ dedunka ɔbɛɛ, bʋsum mʋ nɩ.","To fa, Hanfi'u o si a mu dede nka o be gbasu mu",1.1818,0.4634
+309,"Anɩ Wie Bulu, kɩ alɩá baka anɩsʋ, afʋkpa fʋ asumpʋ, mɛnɩ abɛ́talɩ blɩ fʋ asʋn amʋ, anɩméenya ifu.","A ni we a bulu, ke a le a ba ka n'esó, afo kpa afo asu mpo me ni a betale blefo asu amu a ni me ya fu.",1.5556,0.3378
+310,Silwano lɛtsa mɩ nɔwanlɩn ɔwʋlʋ kutuklu anfɩ sɩsɩ mlɩ.,"Seluano, le cha me nonwa le o wulu kutukulu a mfesi simri.",1.3333,0.4667
+311,"Mʋ́ sʋ nɩ anɩlɩɩ Bulu ansɩtɔ a, tɔtɔ mɛ́ɛhan anɩ.","Moi, son nom est Anely Blue et c'est toi.",1.0,0.8611
+312,"Tsufɛ alɩ kɛn bɩmbɩ amʋ atsɩá bɔpʋ amʋ́ ɩwɩ ha Bulu, pʋ ansɩ dɩnka mʋsʋ bobu amʋ́ aklu, sʋ bɔwa akɩlɛ nɩ.","Tu fais aller qu'un bébé à moi, tu es à beau pot à moi et à bourou pour ainsi dire que amours pour vous à moi à couru sous bois qui l'aîné.",1.4545,0.962
+313,"Mɩ Paulo onuto o nabwɛ agywɩɩn ánɩ́ néyinki ba ɩnʋ ɩta tsefɩnɩ, tamɛ Ɔbʋnsam mɛha ɔkpa.",Nepa na NEPA na abiaju na nki ba inu itachie fene. Tame o bu nsa meho,1.0,0.6087
+314,"Ɔbɛɛ, mámɔ ɔha, mátɔ mbʋa, máwi atɔ, máka asʋn dɩnka fʋ basʋ, másisi ɔha, bu fʋ sɩ mʋ́a fʋ yin.","Abee, ma mu oha, ma tom wa, ma wuya to, ma ka sudi ka fu ba su, ma sisi oha, bu fu si ma fu",1.25,0.3824
+315,"Brɛá Yesu lɛbla amʋ́ asʋn anfɩ ta a, olotu atsʋnɔ tswɩ ɔsʋlʋtɔ, ɔlɔpʋ osrebi tsɩa ɩsɩ, tɩtɩ mʋ́ tan ansibi obwiepʋ amʋ ansibisʋ.","Bịa ya sulu blaamu asụ anfịta, olu tụọ chụọ nọchụọ ya sorutọ. Olụpa osiri ebichi asi, tite mọta a nsịbị ogbịyepụa mụ a nsịbị",1.0435,0.52
+316,"Ɔŋɛ Wankɩhɛ lɛlɛ suna amʋ́ ɔbɛɛ, Paulo máyɔ Yerusalem wulutɔ.",Ɔnganwankɛlɛlesuna amun obɛɛ Paul mayo Jerusalem wulu,1.0,0.3061
+317,"Mʋgyi ɔha ánɩ́ olekina ɔbɛɛ, “Megyi Yesu gyi Kristo, .","Mụ ji aha niile olekinu be ya, mụ ji ya na aha Jisọs Kraist.",1.5556,0.725
+318,"Mboun mlɩlɔhɔ mʋ́ ánɩ́ lɛlɛ, itsu Bulu wa; tsufɛ mʋ́ Bulu dɛpʋyɔ agyʋma mlɩ ahogyipʋ amʋtɔ nɩ.","Mene laho m'ani lele, ichi obulu wa, ichi fe m'obulu de p'uyo ajuma, m'ene ahu ji p'a m'to ni.",1.1176,0.5278
+319,Tamɛ ɔha ánɩ́ otolu mʋ ba Okristoyin mʋ́ tsie okluntɔ.,ka mụ hane otu olu mụ baa okristo ịmutie okwu,1.0,0.4048
+320,"Nɩ ɔkʋ ɛ lɔhʋlɩ mʋ nkpa mɩa Bulu asʋn wanklaan amʋsʋ a, Bulu ɔbɔ́hɔ mʋ nkpa.","N'okwu a, o nwere mkpa m ga-abụrụ asụwa nke musuwa bụrụ ọbụhụ m.",1.0,0.6724
+321,"Ɔyɩkɛhɛ nyankɩ-nyankɩ a, Bulu igyi ahapʋ dɛhɛn pʋ́ Yudafɔ ahandɛ amʋ bɛkɩta agywɩɩn bɛɛ, bɔ́mɔ Yesu.","Eke nyanki nyanki a, buruji a hapu dehe pu idafo ahandia beketa ajuin be boma Yesu",0.9375,0.4304
+322,Anɩ Wie asʋn amʋ ɩlɛklɛɩ wie ɔmá amʋtɔ ɔtɩnɛgyiɔtɩnɛ.,"A ni wi pe a so amo, leekle wi pe oma amoto otinije",1.4444,0.5455
+323,Ɔŋɛ Lalahɛ Gya Lɛ Ogbedepʋtɔ.,ߊ߬ߟߎ߬ ߛߌ߰,1.0,1.0
+324,"Anɩlowie ntsusʋ-yibitɔ tsu Troa, fa ɔpʋ yɔ Samotrake ɔsʋlʋsʋ.",Anlu ye into so ibi to chu troa fa opo yo samo trake osoro,1.3333,0.42
+325,"Mʋʋ anɩlɛblɩ anɩaa, “Ɩba mʋ́tɔ alɩá anɩ Wie dekle.","Ebe a mụ tụrụ ya, a na-ewu",1.0,0.7895
+326,"Mʋlalɛ mlɩ tsu okluntɔ, pʋ mlɩ ba mʋ ɔkandɩɛ wankɩhɛ amʋ asɩ ɔbɛɛ, mlɩbɛ́da ofula amʋʋ alabwɛ amʋ ɩwɩ ɔkan.","Mụ na ụmụ mụ na-eche ọkụ n'ụlọ, ọkụ mụ na ya baa, mụ ọka ndị a nwa nke ha a mụ asị ọ beghị. Mụ na ya beghị daa ofu ụlọ a mụ a na-agba ya mụ ewee ọka.",1.95,0.7857
+327,"Obu adɩpʋsʋ ɔkɩpʋ anfɩ lɔpʋ amʋ́ ya mʋ woyitɔ, ɔlɛyɛha bɛnɩna atɔ ha amʋ́ begyi.","Ọ bụrụ na ị pasọọ, ọ dịghị ihe ọzọ ị ga-eme ma ọ bụrụ na ị na-eto. Ọ na-eha ka ebe na-atọ ha amụbụejị.",1.6,0.8871
+328,"Nɩ ɩlɛba mʋ́tɔá bɛha mlɩlowun ɩwɩɔsɩn kʋkʋ kpaalɩ, tamɛ Bulu sʋ mlotomi hɔ mʋ́ faan a, Bulu ansɩ bégyi mlɩ ɩwɩ.",nele bamuto ane be hamlum ewiose koko pale tame bulu sumloto miho fa bulu anse beji,0.9048,0.4651
+329,"Ɔha mʋ Ɔŋɛ Wankɩhɛ amʋ ɔha mlɩ nyansa mʋ́a asʋn-asɩnu fɛ́ɛ́, mɛnɩ mlɛ́talɩ tsia tsiatɔá ɩbɔ́wa anɩ Wie numnyam, amlɩgyi mʋ ansɩ ɔkpagyiɔkpasʋ.","Ohamongewan, nke ihe a mụrụ Ohamiri nyansa mu a asu m si nu fe. Meni m na talichia chi ya tu anyi bowa na wienum nyam. Amiri ji mansi okwaji okwa",1.3478,0.4865
+330,"” Mʋʋ ɔlɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Ohwee.","Mɔ́ alalɛ mɔ́ nɔ́ bɛ́ɛ, ohu",1.0,0.4091
+331,"Apio, anɩlɛnatɩ mlɩ wa ɔpá anɩmɔkʋsi mlɩsʋ kaɩn.",Anela na timle wopa ni mokusi mleso,1.0,0.5128
+332,"Mmɔkʋha atsɩ ɔkpa mbɛɛ, bʋsuna ayin atɔ, ntɛ bʋgyi ayinsʋ.","Mokoh achiokwa mbe, bu sunayi ato, nte bu ji ayi",1.0,0.4783
+333,"Ɔlɛha yebi amʋ ɔbɛɛ, “Ayin abanyɔ akʋ bɔdʋ yɔ mpaɩ ɔbɔkpa Bulu ɔtswɛkpa.","Onye ha yiri a mụọ ọbụ e? Anyị abụọ akụọ, gbodo ya mpa ya ọbọkwa bụrụ otu a",1.3846,0.6667
+334,Yesu anfɩ ɩwɩ asʋn bɔwanlɩn wa Bulu asʋn amʋtɔ bɛɛ.,"Yesu anfi, we asunbon wa ni wa blu asun amote be.",0.9,0.3659
+335,Tsufɛ Adam Bulu legyankpa bwɛ asa ɔlɔbwɛ Hawa.,"Ifeanyi Adamu, bụrụ legend kpaa bọọ asọọlụ bọọ ha",1.125,0.6316
+336,"Lalahɛ kugyikʋ igyi lakpan, tamɛ lakpan kʋ bʋ ɩnʋá ɩtamakpa ɔha wa lowutɔ.","Nna anyi Kuji Kuji Lapa, taa mee lapa nkobo nụ a, ịta ma kpa ọhanézè uto.",1.2308,0.5
+337,"Nawun ánɩ́ mlɩmɔkʋsi mɩ ɩwɩ gywɩɩn, tamɛ talɩ mlɩmɛtalɩ lɛ mʋ́ suna.","Na nwanne m nwoke si m wee jụọ m sị, ""Taa metara gị, taa metara gị, gịnị mere gị?",1.5833,0.7925
+338,"Tamɛ bɔmɔ mʋ, mʋ abuopʋ amʋ fɛ́ɛ́ bɛdasaɩn.","Ka mụ bọọ mụ ọnụ, mụ abụọ pụọ efe be Dasan.",1.375,0.5938
+339,"Mʋ́ aná gyi; atsɩ mʋ́a ayin asʋnwa, ntabʋ, pleikpada mʋ́a ntakpan onunkpa yɔ pʋ́ ɩkpɩtswɛá igyi mlɩ akisitɔ.","Nwanne anyị, achọrọ m ịya sọwa nta bụ play kwara mụ a nta kpaa, unu kpọọ ya ọpụ ipekwecha a na iji mere akụkị",1.3333,0.6145
+340,"Ɔyasubi amʋ lɛbla amʋ́ ɔbɛɛ, “Mlɩmánya ifu.",ߒ ߡߊ߬ ߒ ߠߊ߫,1.0,1.0
+341,"kɩta agywɩɩn lalahɛ anɩ Wie Bulu mʋa Kristo, amʋsʋ.","Keta adri lala hai ani wi e bulu mu a Kristo, oha mu ole da mu ofiri amu so.",1.8889,0.7317
+342,"Mlɩwun aba nwɛ, amlɩsi lakpan kie aba fɛ alɩ amʋʋ Kristo sʋ Bulu lesi mlɩ klɛ kie mlɩ amʋ.","N'ụbọchị ahụ, a mụrụ sịla kpa nke ya bụ fịalị a mụrụ Kristọs bụrụ na esị mụrụ kịlị kị ya mụrụ ya.",1.1579,0.6286
+343,Yesu lɔyɔ ɔdɛ atɔ suna Yudafɔ ofiakpa ɔkpʋnʋ ɔdakɛ ɩkʋ.,"Yesu lɔyɔ odé atɔsuna yuda fɔ ofiapa, ɔpɔnu odake",0.8,0.2444
+344,"Yesu Kristo osumbi ɔnɔkwalɩpʋ ogyi, ɔdɛ mlɩ bʋa anɩ ɔfansʋ.","Jesu Kristi sumbi a nokwarefo oji, odenne bua ani ofan",1.0,0.4375
+345,"Brɛá Yesu tsie Olif ɩbʋ amʋsʋ, ɔdɛ Bulu ɔtswɛkpa mbu amʋ kɩ a, Petro, Yakobo, Yohane mʋa Andrea nkʋlɛ bɛfɩtɛ mʋ bɛɛ, “Bla anɩ, brɛ mɔmʋtɔ ɩnɩ fɛ́ɛ́ ɩbɛ́ba?","Bịa ya sochie ife ị bụ amụsụ, ọ dị bụrụ otu ekpe a m bụrụ amụka ya. Petro, Yakobo, Yuhane, Mụa, Andrea, e nwere be fete mụ be. Bịa nị, bịa mụọ mụta ị na-ife ebe",1.1034,0.5172
+346,"Aha bɛbla mʋ bɛɛ, “Yesu Nasaretyin amʋ dɛtsʋn.","A ba bla mɔ be, Yesu Nazareti ya",1.0,0.4722
+347,"Yesu lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Ɔnɔkwalɩ ndɛ mlɩ bla.",Onye suru ala ịma nụ ọ be e. Ọ nụkwara ndị na-ege,1.3333,0.7059
+348,"Bɔ́bwɛ mɩ ahinla, tu atsʋnɔ wʋlɩ mɩ, nwɛn mɩ mplɩ, mɔ mɩ; tamɛ ɛkɛ sasɩ a, Bulu ɔbɔ́kʋsʋa mɩ tsu afulitɔ.","bụọ bụrụ m ya hiri la, tupu atụrụ nwaụrụ mụ, nwa mụ plii, mụọ mụ, taa mụ exercise a, bụrụ ọbụrụ akụsụọ mụ 12 fruit",1.1429,0.7273
+349,"Nɩ ɔlɔpʋ ɩla kʋ gyi fʋ, ntɛ ɔdɛ fʋ ɩkɔ kʋ a, bu mʋ́ tswɩ mɩ.","Nyala polaku jifo, nti odefu kokuwa, bumuchwe",1.0,0.561
+350,"Tsufɛ nɩ aha mpɩm-du losuna mlɩ Kristo ɩwɩ asʋn kʋraa a, ɔbakʋlɛ pɛ abi mlɩgyi ɔŋɛtɔ.","Kulu fɛ, n'a hampɛn m'u du, u s'u na m'u le Kristo bi a sonkura. O b'a k'u lepe ya b'u m'u ji onetɔ",1.4375,0.4627
+351,"Toku kʋlɛ pɛ dehian, Maria lalɛ mʋ́a ɩbʋ alɛ dʋn.","tò kùkú lẹ́ pẹ̀lú ẹ̀yà. Mọ́ríà lààlè, nọ́ ìgbòàlè",1.0,0.7297
+352,"Nɔhɔ gyankpa mɩ abatɔ Yudafɔ-osum amʋtɔ, pʋ́ alɩá nɔwa nsi gyi mɩ anain amandɩɛ kugyikʋsʋ.",na oja nkpa mi abata oyuda for osu nwa mụto. Pụali ya na owuansi ji mi nna yi ama ndi ya kujikoso.,1.4667,0.4583
+353,Akasɩpʋ amʋ bɔtɔsɩ isianhɛ bʋla alakpa yile asienɔ.,A ka si pụọ na mbatọ si ya bụla ala kpanyịle asịrị,1.5,0.4651
+354,"Mʋ́á bʋdenu tsu mɩ ɩwɩ fɛ́ɛ́ gyi, aha bʋdɛblɩ bɛɛ, “Oyin amʋʋ ɔdɩn anɩsʋ amʋ na ɔdɛ hogyi amʋʋ anɩdɛ mʋ́ asʋn blɩ, ɔdɛ anɩ itin ka amʋ kɛn ɔkan da.",Mụ abụghị onye chụrụ mmụọ efe eji aha Chineke wee na-arịọ ya ka ọ bịa na-eso m na-ehojia mụ na-arịọ ya ka ọ bịa na-etinye aka m n'ihe ọka,0.9677,0.7685
+355,"Mʋʋ ɔlɛblɩ ɔbɛɛ, “Mɩ Sɩ, ɔsʋ mʋ́a asɩ Owie!",Messi,1.0,0.8667
+356,"Ɩnɩ sʋ ɔlɛbla mʋ ɔpayin ɔbɛɛ, ‘Nfinsa nɩ, nna oyi anfɩ asɩ.",M'vin san ni ina oya m'fi,1.0,0.75
+357,"Mʋ́ sʋ ɔlɔwa tatapʋ bɩ, ɔdɛ ɔkʋ dunka ɔkɩta mʋ oyitɔ.","Mọsọ ọlọwọ atata pọbẹ, ọdọkọ dunka, ọkíta mọ oyìtọ.",0.9091,0.4
+358,"Ndɛ Bulu kokoli mbɛɛ, ɔha amlɩdwɛ aba dʋn alɩ, amlɩtɩn ansɩ, nu asʋn amʋ ɛ asɩ wanklaan, mɛnɩ mlɛ́bɩ tɔá ɩhɩɛ ɩbʋ alɛ.","M beelu ko koli m be, o ha m na-edu ya abali. A m na-eti ya nsi, nu asu m ya asi nkwonkwo. M na-emelu ya etu a hie buo",1.2609,0.6111
+359,"Ɩnʋ oleyetsia nkpa lalahɛ, yinta mʋ atɔ amʋ fɛ́ɛ́.","Nno, olee otu ị a kpala nkata? Ị nọkwaa afọ? Ị nọkwaa afọ?",1.4444,0.7632
+360,"Mɩ Paulo dɛ mlɩ bla ánɩ́ nɩ mlesi ɩwɩ ha, bɛtɩn mlɩ kete a, ilosuna ánɩ́ tɔ amʋʋ Kristo lɔbwɛ amʋ ɩma mlɩ labi kʋkʋ.",,,
+361,Otegyi mʋ asʋnsʋ bregyibrɛ.,wote yimo asusu brebre,1.0,0.4348
+362,"Nɛda fʋ ɩpan ánɩ́ falɛ tɔá fɔpʋŋain anyansapʋ pʋ́ asʋn abɩpʋ ɔwan suna aha ánɩ́ bʋmeyin ɔlala, bʋgyi fɛ nyebi.","na dafu pa, ana ife ale tuo fu pu nweyi anya nsapu, pu aso be pu, owa suna aha na igbo meyi orara, bu jife inye",1.2,0.4767
+363,"Asa mlɩlemli Akristofɔ a, asʋtɔ-ɔnlɩn mʋ́a lakpanbwɛ sʋ mlɩgyi ɔŋɛtɔ aha wuhɛ.","Asa m limliki a Kristofoa, asuọlụ mụ na kpambeso mụ na ji onye tụ aha wu",1.0833,0.4921
+364,"Tamɛ sei anfɩ a, alabɛlɛ mʋ́ ɔwan tsʋn mʋ Ɔŋɛ amʋsʋ suna aha amʋʋ alalɛ, bʋgyi mʋ sumbi ayɔpʋ pʋ́ mʋ ɔnɔsʋ atɔɩpʋ wankɩhɛ amʋ.","Taa mere si ya afa ya, ala be elemuonwa chụmụonye ya mụsụsụ na ha mụrụ ala le. Bụ ji mụsụ mbu ya bụ pụkpụ ma ọ bụ nsụ ato ị pụgwa nke ihe a.",1.36,0.6186
+365,Ɔŋɛ Wankɩhɛ amʋ sʋ abɛ́talɩ ba anɩ Sɩ Bulu ansɩtɔ.,A m na-achọ ịbụ onye na-agụ egwú na-eme nke ọma.,1.0,0.9231
+366,"Tsufɛ mlɩ sʋ Kristo onuto ɛ lotomi tsʋn asʋn wunhɛtɔ pʋbwɛ nfantʋhʋn ha mlɩ, mɛnɩ mlɩ ɛ mlɔ́tsʋn mʋ́sʋ.","Chineke meere ebere, o Kristu nwe ebere, Chineke meere ebere. Pọọụlụ, onyeozi nke Kraịst Jisọs site na uche Chineke, na Timoti, nwanne anyị nwoke, na-edere ụka Chineke nke dị na Kọrint, na ndị nile dị nsọ nọ na Akaia dum.",2.1053,1.7778
+367,Bʋdɛ amandɩɛ lalahɛá anɩ mbla mɛha mʋ́ ɩwɩ ɔkpa suna.,Wadiya ma na elala ha na ani mbla me ha mu we okwasi na,1.3,0.4048
+368,Amenyapʋ pʋ́ abi-ayín ánɩ́ bʋpia abi bɔbwɛ alɩ brɛ amʋtɔ bʋgyɔwɩ nɩ!,"Ame nyapu, po biene ane gbu pia bi bobo, ale bere amoto bu jo we ne",1.3333,0.4717
+369,"Ɩnʋ a, Bulu-ɔbɔpʋ amʋ lɛbla amʋ́ ɔbɛɛ, “Mlɩmánya ifu!",,,
+370,"Mʋ́ sʋ Petro lɛfɩtɛ mʋ ɔbɛɛ, “Ntogyi sʋ fʋa fʋ klu mlɩlabwɛ ɔnɔ-ɔkʋlɛ mlɩaa, mlɔ́sɔ anɩ Wie Ɔŋɛ kɩ?","mọsụ petrọlụ laifụ taịmụ ọbẹ. Ịntọji sọfụ a fụrụkụlụ m na-agba ya n'okporo mịrịa, mịrịọsọ anịwịe, ọ nọọ",1.0,0.7027
+371,"Yesu mʋa mʋ akasɩpʋ benya dalɩ Yudafɔ ofiakpa ɩnʋ alɩ, bɔyɔ Simon mʋa Andrea woyitɔ.","Yesu muwa ka si fụ be ya, dalu, Judah afọ ofia kpalu alị Igbo yọ, Simon muwa, Andrew",1.1333,0.4265
+372,"Mose mbla asunapʋ amʋtɔ ɔkʋlɛ lɛbla Yesu ɔbɛɛ, “Osunapʋ, nɩ fɛblɩ alɩ a, fasia anɩ ɛ o.",Moussa Imlah osunapu amutɔ okule lebla Yesu obɛɛ. Osunapu nifee bili alea fasia anie,0.8824,0.3636
+373,"Yuda Iskariot amʋʋ ɔlɛlɛ mʋ ha amʋ ɛ lɛfɩtɛ mʋ ɔbɛɛ, “Osunapʋ, mɩ nɩ loo?","O sina apu, mini lo",1.0,0.8364
+374,Ɩnɩ anfɩ odu kʋkʋʋkʋ imotsu anɩ Sɩ Bulu wa.,N'inyanfịụ dịkwa ka ka motọ anị sị gburu,1.0,0.5882
+375,Tsufɛ mʋ onuto legyi mʋ Bi amʋ ɩwɩ adansɩɛ.,Tu fais mots on ne tolère j'ai mobylette,1.0,0.8235
+376,"“Mʋ́ sʋ ndɛ mlɩ bla mbɛɛ, mlɩkʋlɩ Bulu, ɔbɛ́ha mlɩ.","Músicadama blɛnbe, m'ɛ kuli blulu, o bɛ hamɛ.",1.0,0.5278
+377,"Iwilwii mʋ́a nwewun ɩtʋ aha amʋʋ bʋdɛ mbla anfɩsʋ gyi amʋ, pʋ́ aha ánɩ́ bʋhɩɛ bʋgyi Bulu aha!",Ihe mere m ji wee nwụọ etu ahụ bụ na m fụsịrị ya m pụọ ha n'igbu ha bụ ji bụrụ,1.1667,0.7183
+378,"” Mʋ́ sʋ mlɩba ɩwɩasɩ, amlɩpʋ mlɩ ɩwɩ wa Bulu tumi kpɔnkpɔɔnkpɔntɩ amʋ asɩ, fówun obótsu mlɩ fʋa mʋ brɛ wanklaantɔ.","Mụ sụm le ba wụ ya si, a mụ le pụm le ewe wa blụ tị mị kpọ kpọ kpọ kpọ tị ya mụ a si. Fọn ụbọchị mụ le fụa mụ bụ ewe nwa nklantị",1.75,0.5333
+379,"” Ɔlɛkpa Sebedeo abi anyɔ, bʋgyi Yakobo mʋa mʋ pio Yohane pʋ́ Petro ya.",k'o le pase video a bi a nyo. Kuji Jacob muamu pio yohane,1.0,0.463
+380,Mʋ ɔkpakɩá ɔbɔ́hɔ anɩ nkpa ɩbwɛ kʋtʋpa ánɩ́ ibun anɩ nwun.,"Mọ mọ akụkụ anọ ọ bụghị anọ na mkpa, ịgbanye ọkụ tupu anọ ebuna n'ụlọ.",1.3636,0.7333
+381,"Bɛdalɩ Salami wulutɔ, bɛnatɩ alɩɩ bowie ɔsʋlʋ kʋá bʋtɛtɩ mʋ́ Pafosʋ.",bụ ndị a na-akpọ Igbo bụ ndị ọ sọrọkwa bụteti ma,1.0,0.7636
+382,"Ɩtɔá mlɔ́pʋsusu ha mlɩ aba a, mʋ́ kɛn Bulu ɔbɔ́pʋsusu mʋ́ wanklaan, lapʋ ɩkʋ tsɩa mʋ́tɔ ha mlɩ nɩ.",etua m le puzuzu hamle abaa mukanmburu obo puzuzu nwa nwa nkara lapo ikotse amoto hamle,1.0,0.4444
+383,"Ɔha ɔkʋ lɛfɩtɛ mʋ ɔbɛɛ, “Owie, aha kpalobi kʋ obénya nkpa?","Owu ye, aha kpalu bi ku obeye",0.9091,0.6364
+384,Mɩa mɩ Sɩ amʋʋ ɔlɔwa mɩ sɩsɩ amʋ nyɔ tegyi mʋ́.,"Mi a miss you mu, oro wa miss you mu. Mi o teji",1.1818,0.6857
+385,"Lɛlɛ a, bowun Maria mʋa Yosef pʋ́ kebi bɔbwɛ amʋ, ɔda mbwɩ atogyihɛ dakatɔ.","Laleya, bu marea ma Joseph bu kee bi na-agba egbe? O da mgbe atughi ya aka.",1.1429,0.5862
+386,"Tsufɛ Bulu asʋn wanlɩnhɛ amʋ ɩlɛblɩ ɔbɛɛ, “Bulu lɔpʋ togyitɔ wa mʋ asɩ.","Que fabuleux ce voyage, j'aimerais bien y aller.",1.0,0.8571
+387,"Ɔtsɩ amʋ dɛ ɔmɛ, ɩkwɩɩ dɛ mʋ dwiin, odekikini, ɔdɛ okitikiti ogyo obi amʋ kwɩɩ.","obi ya mu di omee, ikwiiri mu duhi, o de kiti kiti, oju obi ya mu",1.0,0.6066
+388,"Tamɛ brɛá bɛlɩɩ wa ɔpá tɔtɔ mɛba a, bɛladamli amʋ́ agywɩɩn blɩ bɛɛ, “Ɔkpɩ ɔkʋ ɔha anfɩ gyi.","Tọmọbrà, bẹ́ẹ̀ le wa ọpa tọ́tọ́ mọ́ eba, bẹ́ẹ̀ la damrin amajuiri bẹ́ẹ̀. Ọpẹ́ ọkún wọ́n fi",0.9444,0.6087
+389,"Mʋ́ ɔyɩkɛhɛ a, anɩlɛlatsia yɔ Neapoli wulutɔ.","Moyi ke ya, Anulachi ayo, Napoli",1.0,0.5278
+390,Mboun nala ɩwɩ yaɩ ánɩ́ nówu anɩ Wie Yesu sʋ ɛ.,"Mbu na laa wee ayi, aninowu ani yee ya susuo.",1.0,0.4
+391,"Yesu lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Ɔnɔkwalɩ Bulu ɔnɔsʋ ɔtɔɩpʋ Yesaia lɛblɩ tswɩ tsu mlɩ apinabwɛbi abwɛpʋ anfɩ ɩwɩ ɔbɛɛ.","Ya sula le mọ nọ bẹ, ọ nọ kwari, buru ọ nọ sọ tọ i pu izaya le biri tọ i tumiri, apinagbọ gbi agbọ epu, anfi we ya bẹ",1.5789,0.5682
+392,"Brɛá bowie wulu kʋá ɩbʋ ɩnʋ, bʋtɛtɩ mʋ́ Salamisʋ a, bɔyɔ Yudafɔ ofiakpa yɛda Bulu asʋn amʋ ɔkan.","M na-abụbụ ya bụrụkwa ebo enu, butetenu salami sọwa, bụrụ onye na-afọ ofiakpa ya daburu asọ amụ ọka.",0.9444,0.5333
+393,"Mɩ mʋ́ a, ntsu ndɛpʋbɔ mlɩ asu, tamɛ mʋ mʋ́ ɔbɔ́pʋ Ɔŋɛ Wankɩhɛ bɔ mlɩ asu.","Mmemme a ejiri napu ha mmeghari asu, taa mme mmuo, obapu onye nwe nke ha gbo mmeghari.",1.0,0.8679
+394,"Mʋʋ ɔlɛbla amʋ́ ɔbɛɛ, “Mɩ apio Israelfɔ, nyin mɩ klʋntɔ ánɩ́ mmɔkʋtsia nkpa lalahɛ Bulu ansɩtɔ bɔtʋ ɔwʋlʋ anfɩ wanlɩnbɩ.","Mụ na ya bụ enyim kparala nkata, anyị makwaa chi anyị mkpa na laa ha bụrụ asị na ọbụ otu ndụ.",1.05,0.7579
+395,"Mʋʋ Bulu igyi ɔhapʋ dɛhɛn amʋ lɛkɩta mʋ atadɩɛ balɩ mʋ́ kɩaan, blɩ ɔbɛɛ “Alabɔ mbusuo!",,,
+396,Mʋ́a ɩdʋn gyi mlɩ tɔɩ pʋ́ mlɩ asʋnbɩ fɛ́ɛ́tɔ.,M'a donji m'leto i pomle asombee,1.0,0.5625
+397,Asʋn ánɩ́ nonu tsu mʋ wa ndɛ mlɩ ɔyɩtɔfɔ bla.,Aswaninu tumowa ndemela ito for,1.0,0.5294
+398,"> Ɔlɛfɩtɛ ɔkʋ ɛ ɔbɛɛ, ‘Ɩkɔ afɩnɩ fʋdɛ?","n'ụbọchị. Ịkwụọ kịpa mụ ụgwọ ọrụ ya bụrụ na ọbụghị ya, ụbọchị ọzọ mụ fụọ aka nte epị mụ kwụrụ, ajụmụ asị gị kwụọ mụ ụgwọ ọrụ ya bụrụ na ọbụghị ya. Taa mụ fụrụ adaeze ọwụrụ amụta afụ nwaanyị n'afọ akwụị. O sike n'ya mụ leka mụ",6.8571,6.0
+399,"Bulu fawa afunu suna o, megyi anyankpʋsa.",M'bɛ̀ fàwá à fùnùsú ná o. Mɛ́ɛ̀ jǐ ànyáŋkà,1.1429,0.6667
+400,"Brɛá nowun mʋ a, nemli bun mʋ ayabiasɩ fɛ ɔha wuhɛ, tamɛ ɔlɔpʋ mʋ gyɔpɩ ɩbɩ dɩnka mɩsʋ, blɩ ɔbɛɛ, “Mánya ifu!","Bịa nụ ngwa na m rigbuo mmanụ a bịa si fe ha ụhe, taa mụ ọrụ pụ mụ jọọ pụ ebe dị nka mụ sụ bịa ọbanyị. Manya ịfụ",1.2273,0.561
+401,"Yesu lɛbla amʋ́ ɔbɛɛ, “Mlɩyɔ asimasi wa wulutɔ, amlɩyɛbla mʋ mlɩaa, ‘Osunapʋ amʋ ɔbɛɛ, mɩ brɛ lafʋn.","Mili a si m na a si wa wụrụ tọ, a mụrụ ya. O si na ọ kwa mụọ be ya. Mụ bịara lafụ.",1.3529,0.6974
+402,"Ɔbwɩ amʋ gyi fɛ dundu, tamɛ mʋ ayabi lomoni, mʋ akuti bʋ ɩswɩ fɛ osisre ayabi, mʋ ɔnɔ ɛ igyi fɛ gyata ɔnɔ.","O bia na iji fee dundu, na ya mara ya abiro mmoni, mu akuti bu so ife osisiri anyi abi, mu onu ya iji fee jata onu",1.087,0.4875
+403,"Mʋ́ sʋ nɩ ɔha ɔtɩ fʋ atɔ ogyikpa a, yetsia obia kusubisʋ mboun, ɔha amʋ ɔbɛbla fʋ ɔbɛɛ, ‘Mɩ wie, betsia ɔfʋakpa nfɩ.","Mụ so, lee ọhụrụ tupu atụọ ji kpọọ yetia obi ya kụsụbụsụ mgbe ahụ, ọhamụ ọbụbụ afụ ọbụ e miwie betia ọfụ akpa",1.0,0.5287
+404,"Ɔlɛyɛfɩtɛ amʋ́ ɔbɛɛ, “Nɩ nɛlɛ Yesu ha mlɩ a, ntɔ mlɛha mɩ?","Ní nà léyè sùú há m̀lẹ́ a, ntọm̀lẹ́ há",0.9167,0.6905
+405,Mɩgyi ɔkɩankpapʋ amʋʋ nowu amʋ nɩ.,"mụ di okay akpa pụ, a mụọ nwaanyị maọbụ",1.5,0.6786
+406,"Mlɩyin ánɩ́ akʋ bʋmotsula, bɛhɩɛ kʋsʋ lɩɩ anɩsʋ; tamɛ anɩ Bulu lɔwa anɩ ɔwʋnlɩn, anɩlɛbla mlɩ asʋn wanklaan amʋ.","Mụ na ya na-akparịta ụka banyere akụkụ dị iche iche nke ndụ, gụnyere ọrụ ya, agụmakwụkwọ ya, na ihe ndị ọzọ.",1.1053,0.8539
+407,Bɔkwɩɩ mʋ fɛ alɩá bɔkwɩɩ ɔhagyiɔha.,Bọkụ yị ma fẹ alị a bọkụ yị ọ ha jị ọha,2.0,0.5517
+408,Mɔmʋ ɩbɔ́wa ablɩlɛ ánɩ́ nɛ́bla tsukʋlɛ osinpʋ anfɩ?,bụ mụwa abụrịle a na-ebula tukunla,1.0,0.65
+409,"“Oo Bulu, fʋ iwiegyi mɛ́ɛta ɛkɛkɛɛkɛ!",ဖိုးဗรู ဖိုးရီးဂျီးမက်သာ,1.0,1.0
+410,"Nkɛ amʋtɔ a, Yesu letsia yesuna atɔ Bulu ɔtswɛkpa ɩnʋ ɔpa.","ka mụ twa, ya sụlụcha ya sụna, atụgbọlụcha kpaanụ",1.0,0.5652
+411,"Nɩ mlonuá ɩsa lada manta mlɩ ntɛ ɔtɩnɛkʋ a, opuni mátsii mlɩ Tsufɛ lehian ánɩ́ ɩnɩ aná fɛ́ɛ́ ɩbɛ́ba, tamɛ imedesuna ánɩ́ ɔyɩ ɔnɔmɔkɛ amʋ lafʋn.","Nne m, nụ nuwa, ị sị na a damụta mụ na nte ọtịnekwa, ọ pụtaghị na a na-atị mụ na tupu ị hụ ya na ị na-anaghị afụ ebe a. Ta mụ, emede sụ na a na-arịọ nụ mụ ka ya mụrụ afọ.",1.6154,0.6545
+412,"Mʋ́ sʋ ɔlɛnatɩ si amʋ́, tra yokokoli Bulu otse sasɩ, blɩ asʋn amʋ kɛn.",Mụ so onye na-etisa ya bụ tray kọkọrọ igbe otu puku asatọ na iri asatọ na asatọ.,1.2143,0.7885
+413,"Ɔlɛbla woyi amʋ ogyopʋ ɛ ɔbɛɛ, ɔyɩrɩ ɩwɩ ogyo woyi amʋ wanklaan.",Ọ̀lẹ̀ bụ́la wụ́ ya mụ́ ọjọ́ pụ́ọ̀ ọ́bẹ̀ ọ́yíríwì ọ́jọ́ wụ́ ya mụ́ nwa nkala,1.25,0.6078
+414,"Mlɩ Kapernaumfɔ, mlɩdekle mlɩaa mlótsu ɩwɩ fʋa alɩɩ yɔwɔ ɔsʋsʋ?","Mɛ ka pɛɛ na mfo, mɛ de kyerɛɛ mɛa, mɛnntuu wo foa, alee yɛwɔ",1.4,0.5577
+415,"Ɔpʋ mʋ ɩbɩ yɔ agyʋma, mɛnɩ obénya tɔkʋ kpa mʋ ɩwɩ, nya ɩkʋ ɛ ha aha ánɩ́ bʋma kʋkʋ.","Afo m obele ya ajuma, ma na obughi ya atopu kpamkpam wee nyakwuo ya ha ha ni bu ma akuku.",1.0,0.6393
+416,"Mʋ́ sʋ ɔlɛbla ɩsa akɔpʋ amʋ ɔbɛɛ, “Mlɩwa ɔsa kpa mʋ ya mlɩ otsiakpa ɩnʋ.",M'uso ole bla isa akopo amu obeye?,1.0,0.7222
+417,"Tamɛ nɩ ɔtsɩ ɔkpa nwun, ɩbʋ mʋ pɛlɩ a, ɔpʋ atɔ klɩ mʋ́sʋ.","Tamenyorchi okwu unu, ebumpele ya okwa ato k'elimu",1.0,0.7073
+418,Alɩ Bulu lɛhɩɛ yaɩ ánɩ́ ɩba ha amʋ́ nɩ.,"Abali buru la, ihe a ga-eme bu na a mara ni. Tupu m bili nụ a, m na-eji oge a na-eburu la ale, o wee a mụ iji ya hapụ. Ọ mmawa nke ihe a na-eburu la apụ m na-egbe ya mụ onutọ aha ni.",5.0,3.9286
+419,"Labi mɔmʋ ɩbʋ nɩ fatomi, bada fʋ fʋ lakpan sʋ?",la bi mamo eboni fatomi ba dafu fulakwanso,0.9,0.2571
+420,Mboun ɔha Bulu apɛbwɛ itsia mʋ klʋntɔ mʋ nkpa ánɩ́ ɩlasi ɔyɩ anfɩtɔ fɛ́ɛ́.,Ihe m bu n'obi bu apeghe echi ya amokwuru ntomokwa ani ilasi anya m fito fe.,1.1429,0.6491
+421,Ɔhagyiɔha ánɩ́ ɔdɛpʋ Ɔŋɛ Wankɩhɛ tɔɩ mɛ́ɛtalɩ lwɩɩ anɩ Wie Yesu.,"Ha ji ha, ya di pu onwe wa nke ihe otu a, i metara iru ya a na-ehi ya, Jesu",1.8182,0.7059
+422,Mɩ atɔ bwɛhɛ pʋ́ mɩ asʋn susuhɛ fɛ́ɛ́ lɔbwɛ fɛ kebi.,"M ya chọọ bụrụ enyi m, a sụnsụsuo ya afé, rọgbọọ afé kee",1.1818,0.7632
+423,Mʋʋ Yesu akɩtapʋ amʋ bɛkpa mʋ ya Bulu igyi ɔhapʋ dɛhɛn Kaiafa.,"Mụ onwe m so akwụkwọ m bekee kpọm ya, ""Blue G,"" ọ hapụdịghị ka",1.0833,0.66
+424,"Sakaria lɔbwɛ ɩbɩ ɔbɛɛ bʋtsu tɔkʋ ha mʋ amʋwanlɩn mʋ́ dɩnka mʋ́sʋ, ɔlɔwanlɩn ɔbɛɛ, “Mʋ ɩda gyi ‘Yohane.","Sakarịa ọbụrụ ebe ọbụ ebe Chukwu tọkọha mụọ, ọmụ nwaanyị mụọ ịda dị ka mụsụ. Ọlụ nwaanyị ọbụrụ mụdajị ịyo ha",1.1667,0.6835
+425,Yakob lɔkwɩɩ Yuda mʋa mʋ apio yinhɛ Yuda lɔkwɩɩ Peres mʋa Sera.,Yuda lɔkɔ yi Yuda mɔɔmu apu ye. Yuda lɔkɔ yi Peres mɔɔ sɔrɔ,0.9167,0.451
+426,"Mʋ́ sʋ bɛfɩtɛ bɛɛ, “Ntogyi sʋ ɔtsɩ anfɩ layinta ofobi fanfan anfɩ?",M's'b't'b',1.0,0.902
+427,"> ” Yesu lɔmɔ mʋ́ ɔnɔ ɔbɛɛ, “Ndɛ mlɩ bla mbɛɛ, asa beyinki yɔ woyi a, Bulu ansɩ legyi lampoo ɔhɔpʋ amʋ ɩwɩ dʋn Farisiyin amʋ.","Ya so, na mụọ ọnụ ọbụ e, ndị mere ebere a mberede, asaa be nke ya onwe ya bụrụ a sị na e ji laa mpụ ọhụrụ a mụọ ewi, Dominiọọ si n'ime ya",1.375,0.7174
+428,Tsufɛ Kristo tsiatɔ pʋ́ mlɩ klɛ lalɛ mʋ́ suna ánɩ́ mbla pɔpwɛ igyi.,Tu fais Christo,1.0,0.8627
+429,"Ɩnɩ sʋ mlɩlɛ lalahɛ ɔbwɛpʋ anfɩ mlɩtɔ, mɛnɩ mlɩ ɩwɩ bɛ́tɩn fɛ bodobodoá bʋmɔwa afa mʋ́tɔ, tsufɛ alɩ mlɩhɩɛ mlɩgyi nɩ.","Mee nu ka m lee anya na ihe obula bu mmuo afam to, tupu a na-eme ihe m jiri",1.0,0.7609
+430,Ntogyi sʋ mlɩlaba mlɩdɛ anɩ kɩ alɩ?,ߊ߬ ߣߌ߫ ߞߋߟߊ ߘߌ߫,1.0,1.0
+431,Ɔbɛ́ha Israelfɔ tsɔtsɔɔtsɔ bɛ́damli klʋntɔ ba amʋ́ Wie Bulu wa.,"Aha Israel fọọ, chọọ chọọ chọọ, bido na mmiri kụrụ ntọ ba amụọ ya bụrụ",1.5,0.72
+432,"Ɛkɛ ɔkʋ Yesu bʋ Bulu ɔtswɛkpa wunsɩnɛsʋ ɩnʋ ɔdɛ Bulu asʋn wanklaan amʋ ɔkan da, ɔdɛ atɔ suna.",ka kuyesu bu buru ochakpa wu si na isu inu o di buru asomanklan ama okanda o di atu su na,1.1667,0.4054
+433,"Nɩ ablɩ anɩaa, nyankpʋsa wa ɛ a, ɔdɔm anfɩ bɛ́da anɩ abwi mɔ, tsufɛ bohogyi ánɩ́ Bulu ɔnɔsʋ ɔtɔɩpʋ Yohane gyi.","ya bu na anyi agaghi aso wa ya. Odimma, ife di na ya bu na chifu Ebubechukwu Uzo na ya gburu onodu otu epoyi ha na-eji",1.1905,0.7262
+434,"Oyin anfɩ dekleá ɔbɔ́pʋ ansibi wun Yesu, tamɛ ɔma ɩswɩ, aha ɛ bɔdʋbɩ.","Onye a fụrụ dike a ọwụrụ na nsị binu Yesu, taa mụ ọma sụọ ya, aha ya bụ",1.2308,0.6038
+435,Mlɩkaɩn ánɩ́ bodobodotu-afa kpalobi tɛha bodobodo amʋ fɛ́ɛ́ itotu.,Mɛnɛ kaya nɛ boro boro tuwa fa kpalobite ha boro boro anfe tu.,1.4444,0.3585
+436,"Tsufɛ ntamabwɛ tɔá mɩ onuto ndekle, mboun tɔá ɔha amʋʋ ɔlɔwa mɩ sɩsɩ amʋ tekle.","So fa, ntamma gbatuo ni onuto ndi kiri, mgbe ntuo oha mu orowa m siri ya muta kiri.",1.1333,0.5873
+437,"Mʋ́ sʋ oyin amʋ lɛbla Paulo ɔbɛɛ, “Asʋn agyipʋ amʋ bapʋ ɔmɛ sɩsɩ mɩ bɛɛ, nsi fʋa Silas amlɩnatɩ.",Mọsọ unyamu lebla pọlọ ọbẹ. Asụwajị pụọ mọbapụ ọmẹsịsị mibẹ. Insịfụa sịlasị amụna,1.0,0.5205
+438,"” Ɔkʋ ɛ ɔbɛ́blɩ ɔbɛɛ, “Mbʋ ɔkpa bwɛ totogyitɔ, tamɛ mmɛ́ɛha tɔtɔ méegyi mɩsʋ.","miso. Ebụrụ m ụlọ ọrụ bekee na-ere ihe eji eme ụlọ hapụ, ịbụrụ ya ụlọ ọrụ eji eme ihe. Tamu mụrụ ebe ahụ si oke kwụ. Buru mụrụ ọbeye na-akwụsị",2.3077,1.5965
+439,"Nɩ bɛ́talɩ kʋraa a, bɛ́mlɛ aha amʋʋ Bulu lalɛ amʋ ɛ.","bɛ bɛtɛ alikura bɛ mɛnɛ ha, a mu bulu la ali amun",1.0,0.4211
+440,"Oletsia bokokoli mʋ ɔbɛɛ, ogyi mʋ asʋn ɔnɔkwalɩsʋ ha mʋ, ɔlɛ mʋ tsu mʋ olupʋ ɩbɩtɔ!","Onye ije m akụkọ ịma ọma e, o ji m asụ ọnọkwara ịsụ ha m, ọle mụ tụrụ mụ rụọ ebe taa.",1.3125,0.6923
+441,"Mʋ́ sʋ mlɩdɩnka ansɩ ɩwɩsʋ, tsufɛ mlɩmeyin brɛá woyi mʋ wie amʋ ɔbɛ́ba.","Mọ sọ mụ na gị anaghị eri so, tupu mụ na gị ebido ịwụ ya ma ọ bụ ebe",1.4615,0.7455
+442,Mʋ́ sʋ ɔtɩansɩpʋ ɔkʋlɛ kʋraa má mlɩ ɔpasuatɔá ɔbɛ́talɩ gyi mʋ aba nsɩnɛ asʋn?,"Mose wati ansi puo koraa ma mmerɛ opasua ato, ana wobetumi gyi mu abansini asu?",1.0,0.541
+443,"Tamɛ nɩ ɔtamakle iwilwii a, ɩbɛ́sanki ba mlɩ wa.","Tamani otama kili iwiluya, ebesa nki ba mli",0.8889,0.3514
+444,"> Agyʋmasʋ ɔkɩpʋ amʋ lɛfɩtɛ mʋ ɩwɩ ɔbɛɛ, ‘Nkalɩ nɔ́bwɛ?","Aju m so ka ị kpọmụ na ekwenti a mụ wee bịa, nke a dị n'ọbọ.",1.7778,0.8049
+445,Ɔdayi ɩya anyɔ klakla lɛdalɩ tsu mʋ ɔnɔtɔ.,A day ya nyoklakla le da le chumo onot,1.125,0.3824
+446,"Tsufɛ nɩ itsu anyankpʋsa wa a, mʋ́ fɛ́ɛ́ ɩbɛ́ba bɔtsʋn.","Tu faa, ni tu anya nkposawa, mu faa ebe ba gbocho.",1.1,0.45
+447,"Ɩnʋ Yesu akasɩpʋ amʋtɔ ɔkʋlɛ lɔtswɩ mʋ ɔdayi, kpa Bulu igyi ɔhapʋ dɛhɛn osumbi ɔkʋ ɩsʋ lɛ.","Nno, yesu akwusipu amuta okwukwe na odayi, kpagburu gi ohapu ndi ha osumbi okwukwe",0.8824,0.5139
+448,"Anɩlɔkʋsʋ tsu ɩnʋ a, afu lefia anɩ ɔpʋ amʋsʋ.",A na-enwekwa nsogbu dị iche iche a fụrụ efu a na-akpọ,1.2222,0.9429
+449,"Ɛkɛ ɔkʋ Yudafɔ ɔhandɛ ɔkʋ lɛbɛfɩtɛ Yesu ɔbɛɛ, “Osunapʋ yile, ntɔ nɔ́bwɛ asa nénya nkpa ánɩ́ ɩtamata?","Owu, unu afu ohaneze, owu lebe fita Yesu obee. Osu na apu iile, ntorno ogbe asaa na inya inkpa ano",1.1176,0.5769
+450,"Yɔ fʋa mʋnyɔ amlɩla mlɩ nsɩnɛ, asa afʋba bɔbɔ afɔdɩɛ amʋ ha Bulu.","Afo munwa amuru m na-amuru sine asa afuba, gbo gbo afo di ya amuru ha buru",1.0769,0.6078
+451,"Tamɛ brɛá Bulu-ɔbɔpʋ sienɔsɩ amʋ ɔbɔ́fʋlɩ mʋ ɔkpɛ a, alɩ brɛ amʋtɔ Bulu asʋn ŋainhɛ amʋʋ ɔlɛhɩɛ yaɩ ɔbɛɛ, mɔ́bwɛ amʋ ɩbɛ́ba mʋ́tɔ nɩ.","A m ebere gburu ọbọ pụsị n'ọsị a mụ, ọbọ fịlị mọkọ ya. A n'ebere a mụta ọ gburu asụ m na ihe a mụ ọ rẹhịa ya ọbẹ. Mọgbọ ya mụ bẹba mụ tọ nụ",1.4583,0.5588
+452,"Asʋn wanklaan amʋ kɛn dɛklɛɩ wa ɔyɩtɔ, ɩdɛ aha tsiatɔ tsɛ ɔtɩnɛgyiɔtɩnɛ; fɛ alɩá ɩlɛtsɛ mlɩ tsu ɛkɛá mlɩlonu mʋ́, mlɩlɛbɩá lɛlɛ Bulu tegyi aha bʋalɛ.","Azu anụkla mụ kende klee wọ ịtọ, ịdị ahatị ya tọọ chè otu rị jị ọtụne. Fịalụ ịya ịle chemụrụ kịle chụọ ka ya mụrụ ụlụ mụ, mụ na ịbịanụ ịlele bụrụte jị ahabụalụ.",1.3077,0.6975
+453,"Nɩ ɔkʋ dɛkɩá Bulu ɔnɔsʋ ɔtɔɩpʋ mʋgyi, ntɛ ɔbʋ Ɔŋɛtɔ atokiehɛ kʋ a, ɩwankɩ mʋá anɩ Wie onuto mbla igyi ndɛwanlɩn sɩsɩ mlɩ.","Nne ya kwere nkwa na ya agaghị eburu ọnọdụ a tụrụ ime ji, nti ya bụ onye tụrụ ime ka ihe kwaa. Iwa nke ma na anaghị ewe onute mberede iji nwa nwaanyị sịlị.",1.4783,0.8333
+454,"Ɩnʋ ɔlɛbla amʋ́ ɔbɛɛ, “Ɔmá bɔ́kɔ aba.",Ọmọ bọ́kú àgbà,1.0,0.8846
+455,"Ɩnɩ sʋ nɩ fotsu atɔ hahɛ fɔyɔ afɔdɩɛ ɔbɔkpa, fɛkaɩn ánɩ́ fapʋ asʋn lalahɛ kʋ gyi fʋ ba a, si fʋ atɔ amʋ́ dɩnka afɔdɩɛ-ɔswɩsʋ ɩnʋ.","N'eziokwu, n'ihi otu atọ ahụ fọrọ afọdụ ole na ole kpaa, fekanyụ a na-efapụ asụla n'ahịrị dị iche iche, sị na otu atọ a ma ama afọdụ asụgụla mụ sọnnụ.",1.1538,0.7857
+456,"Olowun pɔntɔ kʋá ɩlahɩɛ pɔɩ sɩsɩ, ɩlɩɩ manta ɔkpa.",Pontaquois,1.0,0.875
+457,"Mʋlɛha mʋ tumi dɩnka togyitɔsʋ, fówun Bulu ɛ obégyi togyitɔá ɩbʋ ɔtɩnɛgyiɔtɩnɛsʋ.","Mụ na ha mụrụ ụmụ iri na anọ ji tọsụ. Fọọ mụrụ ya bụ iri na anọ a, e gbuo otu e ji otu na-esote ya.",2.1667,0.8235
+458,"Ɩnɩá ndɛblɩ a, Yudafɔ atrahɛ amʋ ɛ bʋbuo Petro apinabwɛbi anfɩ.","Nna anyi a bu Jude, i bia try ha muo ya bu buo petrol api na bue bia",1.5455,0.5098
+459,"Brɛá Paulo lowun ánɩ́ Yudafɔ asʋn agyipʋ amʋtɔ akʋ bʋgyi Sadukifɔ, akʋ ɛ bʋgyi Farisifɔ a, ɔlɔsʋra okitikiti asʋn ogyikpa ɩnʋ ɔbɛɛ, “Mɩ apio, mɩ anfɩ nlɩɩ a, Farisiyin ngyi.","Bụrụ na Pọlụ lụrụ anyị Yuuda fọọ asụ ajịpụ a mụọ ụtọ, akụbụjị Sadukị fọọ, akụbụjị Farisị fọọ a, ọ rọsịrọ okitikitị asụ ojịpa ọnụ ọbụ ya. Mị apịọ, mị afịlụ ya Farisị",1.0667,0.5662
+460,"Tsufɛ tsʋn anɩa Kristonyɔ ɩkʋlɛbwɛtɔ a, alapʋ ɔŋɛtɔ atɔá ɩbɛ́kpa anɩ fɛ́ɛ́ yula anɩ tsu ɔsʋsʋ.",Tu fais chaud à la crise au nom et que le bruit de toi à la peau net toi toi bec pas en fait il y a la nuit tu es,1.9375,0.7973
+461,"> Tamɛ mlɩ mʋ́ mlɩaa, ɔha ɔbɛ́talɩ bla mʋ sɩ ntɛ mʋ yin ɔbɛɛ, ‘Tɔá tɛkɩ nɔ́pʋha fʋ a, napʋbwɛ Koban.",Tamam mumla ohan obetali bila mosi ntemunye obee tuatek nopu oha fuwa napugbe koba,1.0,0.493
+462,"Nkɛ amʋtɔ a, ɔdɔm kpɔnkpɔɔnkpɔntɩ bɛtra befia Yesu wa.",kiamotoa,1.0,0.8864
+463,"Bulu-ɔbɔpʋ amʋ lɛba Maria woyitɔ bɛha mʋ itsia, bla mʋ ɔbɛɛ, “Bulu lagyi fʋ bʋalɛ.",Blue obodo bu amaghi ihe bu ito be ha muta ya. Obu e Blue laji fobu,1.0667,0.6508
+464,"Bʋma obi, tsufɛ Elisabet megyi ɔtsɩ kwɩɩpʋ.","boma obi, chụfụ Elizabeth meji ọchekpe",0.8571,0.4857
+465,"> Tamɛ mʋ sɩ lɛtɩ mʋ asumpʋ, bla amʋ́ ɔbɛɛ, ‘Mlɩwa ɔsa yotsu atadɩɛ wanklaan amʋ bɔwa mʋ.","Tamamu se, leti mụ sụmpụ, bịara mụ be. Mụ ruo, sị ha tụta dị, ha nwa kịla mụ bụwa",1.1176,0.5758
+466,"Tamɛ ntsusʋ-yibi amʋ ɩlɔyɔdʋ ŋɛsɩsʋ, sin ɩnʋ, ɔpʋ amʋ lɛda wʋlɩ ɔklʋn amʋ ɔma maɩn-maɩn mʋ́.",Ha men nchọsịrị biko amụlọ ọdụ nwaanyị sị nụ ụpamụlọ e daa wụlị ọkụrụ amụ ọma nwaanyị,1.0625,0.6901
+467,"Nɩ ɩsʋ ɛ ɔblɩ ɔbɛɛ, “Mma nyankpʋsa-oyi amʋ ɩwɩ, tsufɛ megyi nsibi ngyi” a, ilosuna ánɩ́ megyi nyankpʋsa-oyi amʋ ɩwɩ atɔ ogyi?","N'esịwụ abụghịkwa ihe m na-anya nkụ so, ihe mụ nwere bụ ihe m ji nsị bịa njịa. Ịlọsụ na m ga-eji ya nkụ so ihe mụ nwere atụ ojị.",1.3182,0.6947
+468,"Nyasubi, ndɛ ɔwʋlʋ anfɩ wanlɩn sɩsɩ mlɩ, tsufɛ mlɩlagyi Ɔbʋnsamsʋ.",ya subiri nde owuro amfi nwaani sisi mere tufe mere la ji obosam,1.3,0.5926
+469,"Megyi agywɩɩn lalahɛ kʋkʋ igyi, anɩmɛdɛ mlɩ mlɛ ɛ.","Mee yaa juwe na ala ha kọkọ uji, a na-eme ya emume",1.3333,0.6
+470,"Nɩ ablɩ anɩaa, anɩmegyi lakpan abwɛpʋ a, anɩlawa mʋ afunutɔ.",ne ablenya animiji lapa agbepua ne lawamu afunu,1.0,0.4167
+471,"Ɩnɩ sʋ aha bɛ́tɩ Obi wankɩhɛ amʋʋ fɔ́kwɩɩ amʋ bɛɛ, ‘Bulu mʋ Bi.",Ɛne so ahabameti obi wankasa amonfo kɔe amobɛ,0.9231,0.5652
+472,"Mlɩkokoli Bulu mlɩaa, mlɩ ɔsrɩkɛ amʋ ɩmábwɛ nyankpʋ mʋ́a atsalɩbɩ.","Mụ na ụmụ akwụkwọ ibe m niile, anyị na-asị gị aṅụrị mma agbanyaghị mkpụrụ ụbọchị a.",1.6,0.963
+473,"“Tsufɛ nɩ ɔwʋnlɩnpʋ bʋ akɔtɔ, ɔdɛ mʋ woyi gyo a, mʋ tɔtɔ tamafwɩ.","tụwa na ọnụlịkpọ bụ akụtọ, ọdị mma ịdụa mụtọtata ma",1.0,0.6327
+474,"Tamɛ ɩnɩ sʋ Bulu lowun mɩ nwɛ, ha Kristo Yesu lɛlɛ mɩ anfɩ ngyi lakpan ɔbwɛpʋ kpɔnkpɔɔnkpɔntɩ anfɩ nɩ.","Da me ene so brɛlo mu wɛ, ha Kristo Yesu lele mi, anfi nji la kpɔngbɛ pɔngpɔngpɔng ti anfi ni.",0.8947,0.3902
+475,"Tamɛ ɔha ánɩ́ olegyi mbla amʋ fɛ́ɛ́sʋ, suna mʋ aba ánɩ́ bʋgyi mʋ́sʋ a, bɛ́tɩ mʋ ɔha yile ɔsʋsʋ iwie ogyikpa ɩnʋ.","Taa mee ohane olee jim mmiri amu feesu, si na mu agba ani bu ji m osua, beti mu ohai ile osusu iwe ojikwa nu.",1.1364,0.4878
+476,"Mʋ́ sʋ bɛfɩtɛ aba bɛɛ, “Nkʋnʋ olenya nyansa mʋ́a ofulabwɛ tumi anfɩ ɛ tsu?",mɔ́ sɔ́ bɛ́ fìtɛ́ à bá bɛ́?,1.0,0.8214
+477,Nkʋnʋ fénya ntsuá ɩtɛha nkpa?,Kedu ihe ị na-eme?,1.0,0.8333
+478,Tsufɛ Bulu onuto lasuna mlɩ alɩá mlɩdwɛ mlɩ aba dodoodo.,Kéwé bló nú tò la suná mɛ̀ nyi àli mɛ̀ dó è mla bá dú dú.,1.6,0.6304
+479,"Olenya wie pɛ ɔlɛha bɛtɩ mʋ asumpʋ amʋ, ɔkɩ tɔá banya dɩnka kɔba amʋsʋ.","Onye na-ewie pɛ, ọ na-abɛtụ m asụ mpuamụ, ọ kịta abanya dị nka kọba mụ.",1.0,0.3929
+480,"Mʋ́ sʋ anɩhɩɛ anɩdɛ ɔkpa dunka ánɩ́ abɛ́la bowun mlɩ ansɩtɔ, tsufɛ anɩdɛ mlɩsʋ kaɩn dʋbɩ.","Moussa, ané si ané dé, o padu nka, ani abéla bu ané sito. Tu fé ané dé mli sokayi ndo",1.25,0.4928
+481,"Tamɛ nɩ mlekina mʋ́sʋ hogyi mʋ́ a, mlɩ hogyi labwɛ kpaalɩ!","Ta ma nɛmɛ kii na mɔɔ su hoji muwa, nɛ hoji laba kpalɛ.",1.1818,0.4773
+482,Ɔha ánɩ́ ɔtɔdwɛ mʋ ba Okristoyin na wankɩ amʋtɔ.,Hane ọtọdọ emuba o Kristo yin na wa nke amụta,1.0,0.2895
+483,"Brɛá Pilato tsie ɔdɛ Yesu asʋn amʋ gyi a, mʋ ka lɔwa obi mʋ wa ɔbɛɛ, “Mábwɛ oyin anfɩ mʋ asʋn da ɔkpa anfɩ tɔtɔ.","wa bulu oche akoba ato, tupu e muwe meti obuji akoba ji.",1.0,0.8333
+484,"Brɛá ɔdɔm amʋ bʋdemoni tsɩa a, Yesu lɛblɩ ɔbɛɛ, “Ndɛmba-abi lalahɛ, mlɩdɛ osuna dunka amlɩwun, tamɛ mlɩmóowun kʋkʋʋkʋ dʋn Bulu ɔnɔsʋ ɔtɔɩpʋ Yona osuna amʋ.","Bia ọlọm, a mọ m bụrụ ebe onitsha a, Jesu lebiri ọbe. Nde mba bi lalahe, mụ na de esu na dunka mụ, ta mụ emụrụ nkọkọkọ, dunguru ọsọtọ epu gi na esu na.",1.28,0.5161
+485,"Ɩnʋ nowun ɔpʋ kʋá igyi fɛ ahʋhwɛ, ɩlɛpɛ fɛ ogya.",na na afoku aji fe ahuhu e na pefi oji,1.0,0.6757
+486,"Alɩ kɛn Bulu lɛlɛ anɩ fɛ́ɛ́ ɔbɛɛ, abɛ́kɩ toku kʋlɛ pɛ ɔkpa nɩ.","Alekam bulu lele ane fe be, abe kitokwukwulu pe okpa",0.9231,0.4667
+487,"Yesu lɛbla ɔha amʋʋ ɔlɛtɩ mʋ atɔ ogyikpa amʋ ɛ ɔbɛɛ, “Nɩ fɔtswɩ ɔpʋnʋ ɔpa onye a, mátɩ fʋ anyawie, fʋ apio, fʋ abusuanfɔ ntɛ ɩwɩ anyapʋá bʋtsie manta fʋ.",ya selebara ohanu oletum ato ojikpa amu ya obee,1.0,0.8051
+488,"Mʋsʋ Bulu lɔtsʋn bwɛ ɔyɩ fɛ́ɛ́, pʋwa mʋ numnyam.","Mɔsɔblu la cɔn bɛ, o ye pɔwa mɔnɔmya.",1.0,0.5
+489,"Yudafɔ ahandɛ amʋ benya si amʋ́ alɩ, Petro mʋa Yohane beyinki ba amʋ́ aba ahogyipʋ amʋ wa.","Yudafo ahane mu binya si Amon-ali, Petroma Yohane bi nkiba Amon-aba Hojipo",0.8824,0.3286
+490,"Igyi ahapʋ dɛhɛn amʋ bɛha ɔdɔm amʋ ɔnɔ bɛɛ, bʋkokoli Pilato, osi Baraba mboun ha amʋ́.",Ije ha puta ha ya mu ba ha odoma mu ono be ya bu kokorite Pilato osi baraba mgbe onwu a,1.125,0.4478
+491,"Ɔha ánɩ́ olesia mʋ ba ɔbɛɛ, ‘Ɔhakpan!","Ọhaneze n'ụli ya ọbụrụwa mụbaa, bụrụ obe ji mụ asụ. Ọhaneze ụlịsịa mụ bụ ọbụ",2.1429,1.7778
+492,"Bulu wa Asu Ɔbɔpʋ Yohane lenya tumi pʋbɔ aha asu loo, ntɛ nyankpʋsa?","Buruwa asụọ bọpụọ ha na, le ya tumi pụgbọ aha asụọ nụ, nte ya nkwo",1.0,0.4074
+493,"Nɩ megyi alɩ a, ɩbɛ́ha mʋ obótsu ɩwɩ, Bulu ɔbɛ́bɩtɩ mʋ ɩsʋ fɛ Ɔbʋnsam.","Nimejiale a, ebe ha ma ogbo chuwe, buru ya bu ebute m so fee ogbu nsa.",1.1429,0.5385
+494,"Bɔwanlɩn wa Bulu asʋn amʋtɔ bɛɛ, “Ɩflɛ ɔwɔpʋ mʋa atɔ ɔkpɔtɩpʋ fɛ́ɛ́ bʋgyo tɔá bénya tsu agyʋma amʋʋ bayɔ amʋtɔ.","Bawule wa bulu asu amutobe, efile wa pomu atokpote pofe bujo tuabe nyachu ajuma amuba yuamutu.",0.9,0.4598
+495,"Mʋʋ Yesu lɔhɔ bodobodo amʋ, da Bulu ɩpan, ɔlɛha beye mʋ́ ha aha amʋʋ bʋtsie ɩnʋ amʋ.","Ọ bụ Yesu na-ahụ bọderị bọderị amụ, dabulu pa, ọ na-ehabe yie mụ ha aha mụ gbuchie ọnụ amụ. And nke ọzọ bụ ncha bi gbuo ha ya",1.4706,0.8906
+496,"Ɩnɩ fɛ́ɛ́ ɔma a, ilehian ánɩ́ aha ánɩ́ bʋma ɔpasua amʋtɔ kʋraa bɛ́tɩ mʋ ɩdayile.","N'ife ma, ihe niile a ni igbo ma pasuam tokuru abeti mu da",1.0,0.5593
+497,Mʋ akasɩpʋ amʋ befi asɩ bʋdɛ asʋn amʋ ɔkan da ɔtɩnɛgyiɔtɩnɛ.,"Mɔ akase pɔn bɛfi ase bɔde asuamu okanda, otɛ yi ɔten",1.0,0.4082
+498,"Ɩnʋ bɛlatɩ Petro mʋa Yohane ba obuto ɩnʋ, bɛda amʋ́ ɔla bɛɛ, bʋmátra bla ɔhaa asʋngyiasʋn ntɛ suna atɔ Yesu ɩdatɔ ɛkɛkɛɛkɛ.","nụ bela tipe kpọmkwem onye ha na ya na-ebute ọnụ. Mmadụ abụọ na-abụghị ọha, asị na ha sụọ, nte esu na atọ, Jesu na atọ, nke ka ka?",1.2727,0.6224
+499,"Brɛá bowie nkɛ amʋ nsɩnɛ a, Yesu lɔdʋ wie Bulu ɔtswɛkpa wunsɩnɛsʋ ɩnʋ yefi atɔ suna asɩ.","Bịa bụrụkwa ihe a na-amụsị na ya, Jesu na-adị ya bụrụ ọchịchọ kpalụsị ya sị nụ, ""Ị ga-afị atọ sụ n'asụsụ",1.2353,0.7571
+500,"Mʋ́ sʋ ɔnɔkwalɩ igyi bʋtɛblɩ bɛɛ, ‘Ɔkʋ todu, ɔkʋ ɛ tɛtɩn.","Ọsụ ọnụ kwalụ ji, bụ tabụlụ be okwutodu okwu etete.",1.0,0.5952
+501,Ɩnʋ Petro mʋa mʋ aba duɔkʋn amʋ bɔkʋsʋ lɩɩ.,na petro m'amon abaduwa kon amon ba kusule,0.8889,0.4412
+502,"Brɛá bowie ɩnʋ a, ɔlɛbla amʋ́ ɔbɛɛ, “Mlɩtsia nfɩ, nɔyɔ nkpa yɔbɔ mpaɩ.","Bravo, Yénois. O le bla mɔɔ bɛɛ.",1.0,0.75
+503,"Amʋ́tɔ ɔkʋlɛ gyi Farisiyin, ɔkʋlɛ ɛ gyi lampoo ɔhɔpʋ.","Amu to okwuru di farasi, okwuru di lampu ohuru.",1.0,0.5714
+504,"Brɛá anɩlowie ɩnʋ a, anɩlɛyɛha ahogyipʋá bʋbʋ ɩnʋ itsia, anɩletsia amʋ́ wa ɛkɛwʋlɛ.","Bịa, a na-elọrọ ya inuwa, a na-eli ya ha ahụ jị pụọ, a na-ebubọ inuchi ya, a na-eli chi ya ama nwa, e ka nwere",1.8462,0.7015
+505,"Mlɩmákɩ mlɩ nkʋlɛ klɛ, mboun mlɩkɩ mlɩ aba ɛ klɛ.","N'ma k'm len k'le k'le, m'bo m'k'm len a bae k'le.",1.1,0.4474
+506,"Mʋ́ ɔma a, Filipifɔ, mlɩyin ánɩ́ brɛá nɔtsɔ mlɩ Yesu Kristo ɩwɩ asʋn wanklaan amʋ bla, nɛdalɩ Makedonia ɔmátɔ a, mlɩ ɔpasua anfɩ nkʋlɛ dɛ mɩ bʋa, mlɩdɛ mɩ atɔ sɩsɩ nɩ.","Moma filipi fo, ni yane bra no chomli Yesu Kristo bia so ankra mu bla na edali Makedonia matua na opasuya mfi nkwada meboa na eda me ato sisi",0.9062,0.4297
+507,"Tamɛ ɩnɩ fɛ́ɛ́ ɔma a, Bulu ansɩ megyi amʋ́ ɔdʋdʋɔ ɩwɩ.","Daabi, mefeoma. Mepɛ sɛ meji amododo",1.0,0.6923
+508,"Mʋʋ ɔlɛbla mɩ ɔbɛɛ, “Hɔ, afʋwɩ mʋ́!",Mɔ alablami obɛɛ.,1.0,0.625
+509,Ɔlɔtsʋn Ɔŋɛ amʋtɔ yɛda asʋn amʋ ɔkan ha afuli amʋʋ bʋda obu amʋ.,Ọlọchọ onye amụrụ ya na asụsụ amụọ ka ha fụlị ya mụọ bụ na ụgbụ a,1.1538,0.6471
+510,"Anɩ Yudafɔ mʋ́ anɩyin ɔha ánɩ́ anɩdesum, tsufɛ Yudafɔsʋ ɩna nkpahɔ lɛba ɔyɩtɔ.","A nu yụda fọ mụ, a nụ, ọ ha nị dịsụ. Tụfịakwa! Yụda fọ sụ nị mkpa hụ leba anya.",1.5385,0.5968
+511,"Ɔha ánɩ́ ɔma Ɔŋɛ Wankɩhɛ mɛ́ɛtalɩ hɔ tɔá itsu Bulu Ɔŋɛ amʋ wa, tsufɛ igyi mimlala mʋ wa.",Ọhaneze n'onwe nwa nke ihe a metalụ hụ tụwa ichu bulu onye ya muwa. Chụfa ejimiri ala muwa,1.0,0.5821
+512,"Onye-onye amʋ a, oyin amʋ leyia amʋ́ ɩwɩ nlɔ amʋʋ benya brɛ amʋʋ bɛpɩtɩ amʋ́ atɔ amʋ.","Onye ọnye ama, onye ọnye le ya amụ ewe ịlọ amụ be ya, bụrụ amụ be pite amụ atọ amụ",1.1765,0.4219
+513,"Megyi aha amʋʋ bʋmegyi Yudafɔ, bʋmeyin Bulu mbla amʋtɔ atsu.","M'eji aha m bụ mmeji Judah fọ, bụ mmeji m bụrụ mụrụ amụtawụ",1.2,0.551
+514,"Nyin ánɩ́ opio Okristoyin ogyi, ɔbʋ ɔnɔkwalɩ.","Ndi aṅe o pio o Kristo o ji, o bu onokwale.",1.5714,0.3889
+515,"Anɩlapʋ klʋntɔ pisii hɔ togyitɔ, mɛnɩ anɩmɔ́ɔpʋ tɔtɔɔtɔ tin Kristo asʋn wanklaan amʋ ɔkpa.","Mene a na-apụkwa n'ụlọ pụta taa, taa bụ ụbọchị ụka, mụ na ezinụlọ m pụtara taa na-ekristo asụ nkwụ aka mụ.",1.5,0.8378
+516,Mboun ndekleá mlɩnya tɔkʋ dɩnka awɩtɔlɛ amʋʋ mlɩdɛwa ha mɩ amʋsʋ.,M'bɔn de klam ni nyato ko den ka wɛtɔli a mɔn m'bɛ de wa? Ha mi ya mɔn,1.5455,0.4074
+517,"Megyi bɛɛ, mlɩmeyin ɔnɔkwalɩ amʋ, sʋ ndɛ asʋn anfɩ wanlɩn sɩsɩ mlɩ.","Mmeji be ya, mmeji onokwara ya asu. Ndeewo, afia nwaa n'isi n'eme",1.0,0.6604
+518,Máyaa asʋ nu atsɩ dɛhɛn ɔtɛ pʋ́ mʋ́á imotsu Bulu ɩwɩ.,Maya Sunu achi rehen ote pomwa mo chibulu,1.0,0.5
+519,Mmɔfʋn ánɩ́ nɛ́sankɩ mʋ ntʋkʋta ɔfɛ kʋraa.,Mɔɔ fɔɔ ani nɛ sa nɛ mɔ ntukuta ofɛɛ koraa. Mɔ,1.5714,0.4242
+520,"” Fahogyi fɛɛ, nnantswie ɩwɩ dɛ Bulu hian sʋ ɔlɛblɩ asʋn anfɩ?",Fa wo di fɛɛn n'anwummere da buronya sɔre blɛ asram,1.0,0.5208
+521,"Bʋmádʋn imi bwɛ, wa sika atɔ, dɩda atatiá ɩbʋ ibia dʋbɩ.","Ụmụadọọ m Igbo, nwa sị ka atọ, dịdata atọ ya bụ bịa dobe",1.1818,0.5116
+522,Nkalɩ bɛ́tsa fʋ Bulu ɩpan da nɩ bʋmɛdɛ asʋn ánɩ́ fʋdɛblɩ asɩ nu?,"Nkale be cha fu bulu e panda, ne bu me de aso ne fu re bule asi.",1.2308,0.449
+523,"Anyankpʋsa asʋngyi ɔkpasʋ mlɩtegyi asʋn tsʋn, tamɛ mɩ mʋ́ ntamagyi ɔhaa asʋn.","anya kụsa asụndị yọkpasụ, mịte dị asụntụ ta m'emịmụ nke ma dị ọha asụ",1.1667,0.4762
+524,"Yesu lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Ɔmɛwʋlɩ bɛ́lakɩta ɔhagyiɔha ánɩ́ otonun ibun anfɩtɔ ntsu.","Omenala Igbo bụ omenala mara mma nke ukwuu, ọtụtụ n'ime omenala ndị a na-egosi na ndị Igbo bụ ndị ji omenala ha kpọrọ ihe.",1.8462,1.25
+525,"Mʋ́ onye a, anɩ Wie lɛbɛlɩɩ Paulo wa, bla mʋ ɔbɛɛ, “Wa klʋn!","Mụ onye a, a na-ewie lebelo ịpa ụlọwa, bịa mụ ọbụ ya.",0.8462,0.4524
+526,"Mʋ́ sʋ Petro lɛtɩ mʋ ya ɩtsɛtɔ yɛka mʋ itin ɔbɛɛ, ɔmátra blɩ alɩ.",Mọ́sùpẹ́trọ̀ lẹ́téèmù yàtọ̀ yẹ́kamutì ọbẹ́. Ọmọtràbụ́lì àlì,1.0,0.5918
+527,"-Anɩaa, ɔha mʋ tumiá mʋ́ ɔnɔ bʋ ɔnlɩn ɩwa mlɩ ɔwʋnlɩn, amlɩtalɩ tomi, nya klʋn, pʋ ansigyi da anɩ Sɩ Bulu ɩpan.","Anya ha mutumi a ma na obu na iwu amuru onwere, amatalu tomi ya kuru, gwa nsogbu di ana si buru",0.9545,0.5301
+528,"Ɔlɔ amʋ lomoni, ɩbɛ́talɩ mɔ mʋ, tamɛ ɩlɛta, omowu.","A na m alụ mụọ ni, ịbụrụ taa nị mụọ mụ, taa mee ị na-eta ụmụ",1.7778,0.7568
+529,"Ɩnɩ sʋ ndɛ mlɩ bla mbɛɛ, togyitɔá mlɔ́kʋlɩ Bulu a, mlɩhogyi ánɩ́ mlɩlanya mʋ́ dodo.","Elesu, ndemle, m be 33 mụrụ ụmụrụ abụọ. Mụ na ha oji, ana m era ya mụdọ",1.1333,0.6984
+530,"Aha akʋá bʋlɩɩ manta Paulo bɛfɩtɛ mʋ bɛɛ, “Bulu igyi ɔhapʋ dɛhɛn fʋdesia alɩ a?","Aha kwanu a bụrụ ịma nta pụrụ, biko mụ bụ",0.9333,0.7903
+531,"Mʋ́gyi tɔá Bulu dedunka tsu mlɩ wa mlɩ nkpatɔ, brɛ anfɩ mlɩa Kristo Yesunyɔ mlɩlabwɛ ɩkʋlɛ anfɩ nɩ.","Mụ jị ya bụrụ na edụ nka chụmụrụ wa mụrụ kpato, bịa hị mụ na Kraịstị Yésụ nyọ mụ na agbèkwè ya mfinị.",1.2222,0.6076
+532,"Yesu tumi laha ɩbɔ anfɩ mlɩyin yaɩ, mlɩdɛkɩ anfɩ ɩwɩ lawa mʋ ɔnlɩn.","Yes, you too.",1.0,0.9245
+533,"Ntɔ anɩlegyi o, ntɔ anɩmegyi o, tɔtɔ meyinta anɩ ɩwɩ.","ntuani leji o, ntuani meji o toto me ntani",0.8,0.4146
+534,"Tamɛ bʋdekleá mlɩtɩn kete, mɛnɩ bɔ́pʋtsu ɩwɩ suna amʋ́ aba ánɩ́ baha mlɩlatɩn kete.","Tụi em bị claim cái kênh Kênh T, mấy nay bận phụ chị Su Na mua bán nên bận ham làm Kênh T.",1.6429,0.7538
+535,"Nɔwanlɩn wa ɔwʋlʋ kʋá nɔpʋsɩsɩ mlɩtɔ mbɛɛ, mlɩmápʋ mbʋa atɔpʋ gyi mba.","N'ụngalewa ụlọ ọrụ a nọ pụrụ sị sị m nị tọ, m bee, nị m apụ mgbe atọ pụrụ ịba.",1.6667,0.6491
+536,"Mʋ́ sʋ megyi Bulu asʋn wanklaan amʋ nkʋlɛ anɩlɔpʋ ba mlɩ, mboun anɩlesi anɩ ɩwɩ ɛ ha mlɩ, tsufɛ mlɩlamli anɩ adwɛpʋ.",Mọsọ m ejighi ụgwọ a sọọ m klaamụ nkịtị a na-arịọpụta m n'ihi na mgbe onye na-esiri a na-ewere ha m n'ihi na tupu ya emee mụ na ya adịghị,1.3182,0.7692
+537,"Brɛá anɩloyowie Roma wulutɔ a, Roma aban lɛha Paulo ɔkpa ánɩ́ ɔbɛ́talɩ yetsia ɔtɩnɛá odekle, tamɛ ɩsa ɔkɔpʋ ɔkʋ obógyo mʋ ɩwɩ bregyibrɛ.","Bịa ụnụ wie, Roman Ụlụto a. Roma abụghị ebe Paulụ okpa anị, ọ betalụ ya chi ya ọtịna odikli. Tamma ịsa ọkọpụ ọkụ obojuo mmụọ wee bịa jị",1.1304,0.5138
+538,"Ogya ɔbɔ́pʋsɔ mʋ́ kɩ bɛɛ, ɔlɔbwɛ mʋ́ wanklaan.",Onye ọbụla pụrụ ịsị ọ na-ekpe ọrọgbe mụwa nkea.,1.125,0.8235
+539,"Aha amʋʋ bʋgya Yesu nkpa amʋ bɔkplʋn wa ansibi obwiepʋ amʋ bɛɛ, ɔwa ɔsa kpa ɔnɔ bun.","A mụ mụ bụja Yesu, m kpaa a mụ bụkwaa, a sị m ya bụrụ a mụ bụọ. Ọwụọ sapa onogbo",1.1765,0.5758
+540,"Kristo bʋ mlɩ, Kristo ɛ gyi Bulu klɛ.","Kristo bɔmle, Kristo eji bulu kle.",0.625,0.2143
+541,"Fówun ɩkʋlɛbwɛ bétsia amʋ́tɔ, mɛnɩ gyɔpɩ okpita bɩna a, bɩna ɛ lakpita gyɔpɩ.","Fọọmụ kịlọọbechi a mụtọ, mana ịjọọbụọ kwụịta mụ na, bị na ịla kwụịta ịjọọbụọ.",1.0769,0.6885
+542,"Nɩ fótsula a, fɛ́talɩ ha mɩ ɩwɩ bɛ́plɩ.",Faut aller,1.0,0.8214
+543,Tsufɛ bodunka ánɩ́ béyinta ɩwɩsʋtsia amʋʋ Kristo Yesu laha anɩ amʋ; abʋbwɛ anɩ amli nkpábi ha Yudafɔ mbla amʋ.,Juif abọ d'unkani be interview su chi ya mu Christo Yesu laha na ya mu. Abọ bọ ya na ya mu nkpa bi ha Judas from,1.2632,0.4607
+544,Olosu ɩsʋra alɩɩ bɔfʋn brɛá ɔlɔhɔ nfi adukwe-na .,Ali afo di afa ha bu Ali be amatuwa onye di ha okwu bu Jerusalem bu Timothy Simiyu ile ogbapu oji otu ya bu,3.0,1.7949
+545,"Tɔ bʋtɔtɔ sika pɛpɛá ɩtɛtalɩ yinta kʋraa kɩ bɛɛ, wanklaan igyi.","Tawu tootoo si ka pepe, ani tetali in ta kuraki be wankala",1.0909,0.5098
+546,"Ansibi obwiepʋ amʋ lotsu nwun fʋa kɩ, ɔlɛblɩ ɔbɛɛ, “Ndɛ anyankpʋsa wun, tamɛ bʋgyi fɛ nyi bʋna.","Ndeewo, enyị m kwụsịrị n'ụlọ ọgwụ ji faịlụ.",1.0,0.8649
+547,"Mʋ́ sʋ nsibi mɛ́ɛtalɩ bla ɩbɩ ɔbɛɛ, “Fʋma labi ha mɩ!",M'sɛn si bi mɛtɛ alɛ bla ebi obɛ fuma la bi,1.0,0.3684
+548,"Yesu gyi Kristo, nɩ.","Yesu Kristi, ohamu bulu la damu ofili amụna.",1.75,1.8
+549,"Mlɩbwɛ togyitɔ tsu mlɩ klʋntɔ, fɛ anɩ Wie mlɩdɛ mʋ́ bwɛ ha, megyi anyankpʋsa.","Ndebe etoghi eto tumiri kụrụ ntọ, si ana-ewie mụ na-adịghị mgbè ha mechie anya nkwasị.",1.0,0.6167
+550,Tsufɛ ɩbʋ Bulu ɔdwɛ ánɩ́ mʋ tsiatɔ fɛ́ɛ́ bétsia mʋ Bi amʋtɔ.,Ife a bu bulu udo ya na emuchi ya tofe bechi ya mu biya mu,1.1667,0.5778
+551,"Megyi bɛɛ, ndekleá néfi mʋ́ asɩ, sʋ ndɛ asʋn anfɩ wanlɩn sɩsɩ mlɩ.",Mgbè ndị clan efịmụasị sọ ndị asọanfị nwarị sịsị mụ,1.0,0.5
+552,"Nɩ mlowun ipian kpalobi a, ɩmɔ́ɔwa ɔpá mʋ onuto obótsu mlɩ kʋsʋ, ha mléyinki lɩɩ.","N'ime ụmụ nwanyị akpọrọ Bia, ịma ọwa pa mu onutọ bụrụ chụmụrekụsụ ha mụrụ nke",0.9333,0.6349
+553,Tsufɛ ɔmɔhɔ adansɩɛ amʋʋ Bulu legyi tsu mʋ Bi ɩwɩ amʋsʋ gyi.,"Tufiakwa! Ọmụhọ adịghịsị ya, a mụrụ ya na ejima bụ́ ndị a mụrụ so",1.1667,0.8125
+554,Ɔha ánɩ́ olekina mlɩ asʋn hɔ lakina mɩ asʋn hɔ.,"Ọhaneze n'Igbo niile asụọ, ọ na-Igbo asụọ",1.0,0.7222
+555,"Mlɩpʋkɩ ɩtɔá fɛda mʋ́ itotsula, fɛ ɩkwɛ, ɔtɛntɛ ntɛ ɔkpɛ aná.","N'ebe ọtụtụ ihe a na-emepụta chụrụla, ihe ekwe ọtente ọkwa ya",1.0,0.8298
+556,"Mlɩ akwɩɩpʋ, mlɩ apio, mlɩ woyitɔ aha pʋ́ mlɩ anyawie kʋraa bɛ́lɛ mlɩ ha, bɔ́mɔ mlɩtɔ akʋ.","Mla kwo yipu, mla pio, mla woyito aha, po mla nyawu ye kuraa, bele mla ha, bobo mla to ako.",1.0588,0.3284
+557,Alɩ kɛn ɔlɔbwɛ ntsabi bwahɛ amʋ ɛ nɩ.,"Alee ka alọgbe ntị abị, gwa ha amụọ nị amụta okujiokwu le nya alee odi kịlị. Be ji",2.25,1.7241
+558,"Yesu lɔkplʋn wa ɔŋɛ amʋ ɔbɛɛ, “Kpa ɔnɔ bun, afʋdalɩ mʋtɔ.","Ya sụrụ akụkọ nwoke ya, ọbụ ya. Ọnọbụ afụdaala ụgbọala. Ịnọghị ala ahịa na ụgwọ sọọsọ onye amara so. Sụrụ okiti kiti okorobia daaala ụgbọala.",2.2727,2.2558
+559,"Mlɩgyo amlɩkokoli Bulu, mɛnɩ mlɩmóowie ɩsɔkɩtɔ, tsufɛ mlɩ ɔŋɛ dekle, tamɛ nyankpʋsa-oyi lɔpɔn.","M'nle jo, m'nle kokoli buru, m'nle mo we so k'to, tu m'nle ongede kle ta ma nyankosawui lo",1.3846,0.4675
+560,"Ɩnɩ sʋ Bulu aha bʋtomi, abʋlɩɩ kinkin amʋ́ hogyitɔ.","N'ebe suburu ha bu Tomi, aburu ikinkin amaghi ji.",1.0,0.45
+561,Ntsu amʋʋ bʋtɩ amʋ lɛfɛn tsu mʋ ɔnɔtɔ amʋ fɛ́ɛ́ lɛmɛ wie ɔsʋlʋtɔ.,tuo mu obodo ya mu lefee ya tu mu onoto ya mu fee le mme mme wee osoro,1.3846,0.74
+562,"Mɩ abi adwɛpʋ, nɩ igyi alɩ a, mlɩmápʋ ɔnɔkpan dwɛ aba.","Maa biara na-efu, na ijiara ya mere m afo onwa kpandu abuo",1.0909,0.6341
+563,Ɔkpʋnʋ ɔdakɛ lenya fʋn alɩ ɔlɔyɔ ɔdɛ atɔ suna Yudafɔ ofiakpa.,"Ọkọnọ da k'elenu afuali, ọlọ yọ da atọsu na Yuda fọ ofia",1.0909,0.4
+564,"Mma Mose mbla asɩ, tamɛ ntɔbwɛ ɩwɩ fɛ aha ánɩ́ bʋbʋ mʋ́ asɩ, mɛnɩ nɛ́talɩ nya amʋ́tɔ akʋ.","Maa mụ sị m laa sị, taa mụ ntị ọgbọ ewi, fee aha nịbụbụ mụ sị, mụ na ịnetali ya amụta",1.1667,0.5077
+565,"Ɩlɔwa mɩ ɔdwɛ debidebi fɛ ɔkwɛn, tamɛ imetepi kana mɩ iputɔ.",la oua me redevient des bénéficiaires,1.0,0.7708
+566,Mʋ́ sʋ tɔtɔɔtɔ ɩmɛ́ɛha mʋ ɔbwɛ lakpan.,Mɛ sɔ tɔtɔtɔ mɛ hamɔ ogbɛla,1.0,0.4483
+567,"Anɩlɔtʋ akasɩpʋ akʋ ɩnʋ, anɩletsia amʋ́ wa nkensienɔ.","Aka si po aku enu, a lecha amụwa nke nsị",1.25,0.5116
+568,Kɔba anfɩ gyi tɔá fʋa fʋ klu mlɩlenya brɛá mlɩlɛfɛ ɔsʋlʋ amʋ nɩ?,Kɔbɛn fɛɛ jito a fɔ a vuku lumnɛ ya bɛɛ mɛlɛ fɛɛ osolu amunɛ.,1.0769,0.4902
+569,“Mʋ́ sʋ ɔlɛtɩ aha ánɩ́ bʋdɛ mʋ wie ɩkɔ kʋlɛ-kʋlɛ.,Ọsọ ọla ọcha na-egbu demu wee ịkọ kwụrụkwụrụ,1.0,0.7143
+570,"Mɩ agyʋmayɔba onuto, ndɛ fʋ ɛ kokoli mbɛɛ, fʋtɔɩ kpla amʋ́ abʋbwɛ kʋlɛ.","Mee ajụjụ mụ na ya bụ ọba onuto, m na-efu ekikoli mbe, futọ ịkwụla mụ abụbọ ekworo.",1.3077,0.6182
+571,"Mʋ́ sʋ nɛbla Petro aha amʋ fɛ́ɛ́ ansɩtɔ mbɛɛ, “Petro, Yudayin fʋgyi, tamɛ fʋmɛdɛ Yudafɔ amandɩɛsʋ gyi.","Moussa Dadis Camara, Petro, Yuda en fuite,",0.9412,0.7692
+572,"Nɩ mlefia a, bɔ mbɔdɩ afʋtsia kla Bulu asʋn suna amʋ́.","Nnele fiaa, gbamgbada fuchi ya klaburu asusu na",1.0,0.4146
+573,"Ɩnʋ Petro lɛbla mʋ ɔbɛɛ, “Nɩ lowu igyi kʋraa a, mméekina fʋ ɛkɛkɛɛkɛ.",N'ụlọ petrol a bụla mụ ọbụghị. N'ịlọ ụjị kụraa ị na-ekene afụ ekekee.,1.0,0.6415
+574,"Alɩ brɛ amʋtɔ a, mlɩmɔkʋfʋn atogyihɛ onuto gyi.",A le brama tua ne mɔkɔ fɔ a a tɔgɔ di hiyonɔ tɔgɔ,1.5,0.5
+575,"Ɔtsawʋlɛ pɛ a, Bulu-abɔpʋ tsɔtsɔɔtsɔ bɛba bɛtsɩa Bulu-ɔbɔpʋ amʋtɔ, bʋdɛ Bulu kanfʋ bɛɛ.",blu,1.0,0.9571
+576,"Yesu leyinkia mʋ sɩsɩ woyitɔ ɔbɛɛ, “Natɩ laa yɔ woyi.",Nothing,1.0,0.9024
+577,"Nɩ ada Bulu ɩpan, anun anɩ Wie Yesu ɔpʋnʋasɩ ɛwɛ amʋtɔ nta a, imosuna ánɩ́ anɩa Kristo obugya labwɛ kʋlɛ?","Nia wulu pa, anu anu vie Yesu opunu ase o we amu to nta, imosuna nia nia Kristo bujala agbekor.",0.95,0.378
+578,"Nɛlɛ ɔnɔ mbɛɛ amʋ́tɔ ɔkʋ ɔnatɩ a, ɔtɛnatɩ.",Nle onye mbee? Moto oku o na-ata ya? Ote na-ata,1.25,0.625
+579,"Ɩnɩá Bulu tumi dɛ agyʋma yɔ anɩtɔ sʋ a, ɔtɛtalɩ bwɛ atɔ ha anɩ dʋn alɩá anɩtɔkʋlɩ mʋ, ntɛ anɩtosusu.","Nne ya bụrụ Chimmụma dị ajọ mma, ọ na-etolite bụrụkwa onye dị ọcha, ọtụtụ alịbụ ya tohụ ya na-edu alị ya ntọkụrịm, ntị ya na-etụ",1.25,0.9103
+580,"Yesu akasɩpʋ amʋ bɛfɩtɛ mʋ bɛɛ, “Osunapʋ, ma lakpan sʋ bɔkwɩɩ oyin anfɩ ansibi obwiepʋ?","Yesu akasi pointi bɛfata mu bɛɛ. Osunaafoɔ, maarakwaa nsuro kwan a Onyankopɔn si bi obue.",0.8667,0.4928
+581,"Nkɛ amʋtɔ a, Yesu lotsu Nasaret, wuluá ɩbʋ Galilea ɔmátɔ ba Yohane wa, Yohane lɔbɔ mʋ asu Yordan ntsutso.","Nke a mụrụ ya, ya sị na ọ bụghị Nazaretị. Ụlọ ya bụ Galili, ọ mataghị Yohana. Yohanelọbụ mụ asụ na nti",1.1579,0.5422
+582,> ”.,"E no, rule bla bla mo be, ohan mi milahe enyene ndafo kla ho lefu bito ma, obi odi ato mfe fakli ya ya mfe",25.0,79.0
+583,"Ɔpasua ɔhandɛ ɔbʋapʋ ɔbwɛ ɔka ɔkʋlɛ otsiapʋ, ɔtɛtalɩ kɩ mʋ abi pʋ́ mʋ woyisʋ wanklaan.",Ọ pasịwa ndị a bụ apụọ bụ eokwu le uchi apụ. O techara aka ịma bịa pụ mụ wee sịwa nkea.,1.4,0.6232
+584,"Ɩtɔá ndedunka ánɩ́ mlɩgyankpa bwɛ gyi, mlɩkokoli Bulu aha fɛ́ɛ́ nwunsʋ, amlɩbɔ mpaɩ ha amʋ́.","Tụgharịa dịka na-eme na-ejikọta ya na eji na-ekokọrọ ibụrụ, aha ha na-ewunso. Na gbamgbam ha",0.9333,0.7324
+585,"Mʋlɔbwɛ ɔsʋ mʋ́a asɩ, ɔlɔpʋ mʋ asʋn anfɩ ŋain tsu ɔyɩ ɔpá.","Mulla buya sumasi, olo pu ma suan finga nchu o yo",1.0,0.6136
+586,"Nɩ awie Yerusalem a, bɛ́lɛ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ ha Bulu igyi ahapʋ dɛhɛn pʋ́ Mose mbla asunapʋ.","na awiè Jérusalem a, bé lé mi nyen kwè sa mu bia nfé, ha buru di a hapu, dehé, pu mosi mbla su na",1.2353,0.3289
+587,"Mboun kugyikʋá igyi a, mlɩbɔ mpaɩ kokoli Bulu dɩnka mʋ́sʋ, amlɩda mʋ ɩpan.","mbo ku ji kwa ji ya, m na ebo mpae ku kwere buru di nka m so, a m na da mpa",1.6923,0.4655
+588,"Brɛ lafʋn ánɩ́ fɔ́bwɛ yile ha fʋ asumbi, bʋgyi fʋ ɔnɔsʋ atɔɩpʋ amʋ.",Bụ ebe a fụrụ anụ fụ gbaịle ha fụ asụ m bị bụ ji fụrụ nọsụ atọ ịpuụ m.,1.3846,0.5882
+589,"Tsufɛ oyula bʋ mʋ́tɔ ha anɩ sei anfɩ anɩtsie nkpa, pʋ́ nkpa amʋʋ ɩbɛ́ba amʋtɔ.","Ihe mere i ji a bu moto ha na-asi ya afia na-achie nkpa, po nkpa mu mbe baa moto.",1.0667,0.5424
+590,"Mʋgyi ɔha ánɩ́ mlɩtɛtɩ mlɩaa mlɩ Sɩ, nɩ mlɩdɛ mpaɩ bɔ nɩ.","M'o ji y'o han'em le taa tim'e yaa, m'e le si n'em le d'em pa'i b'o",1.3333,0.5349
+591,"Nɩ bʋmetepi kwɩɩ mʋ kʋraa a, tɛkɩ ɩbʋ alɛ ha mʋ.","Ibu mụrụ gị kwee mụ koraa, nke a bụ alaeham",1.0,0.5833
+592,Ɩnɩ sʋ ansigyi kpɔnkpɔɔnkpɔntɩá ɔnɔ mɛ́ɛtalɩ blɩ labʋla mlɩtɔ.,Nne so ha sị ji kpọmkwọm kpọm ti a na-anọ mita iri abụọ na abụọ mita.,1.7778,0.7115
+593,"Ɔtɛhɩɛ bɔ mpaɩ ha mlɩ ánɩ́ Bulu ɔwa mlɩ ɔwʋnlɩn, ɔha amlɩfʋn, amlɩtalɩ bwɛ Bulu apɛ kugyikʋ.","Otu a ka ihe gbasara ezinụlọ na ebulu ụwa mụ na gị na-enweghị, ọ gbasara ezinụlọ fụ, a na-etali gbaa ebulu a pụọ ekwe ji",1.4706,0.875
+594,"Brɛá ɔdɛ mʋ́ wunya a, ɩkʋ lɔwʋlɩ ɔkpatɔ, mbubwi bɛba bɔtswɛtswɛ mʋ́ fɛ́ɛ́.","Bịa ọdịmma unu a, ekulọwụlị ọkwa tọ mgbe gị bịa ebe a, biko chọọ mụ fe",1.2308,0.6727
+595,Mʋ́ sʋ anɩmɔkʋsi mpaɩ bɔ mlɩ nwunsʋ tsu ɛkɛá anɩlonu mlɩ ɩwɩ asʋn anfɩ.,Mọsa ni mọkụsị mpa igbo mụ na nsọ chụ eke ya nịlụ nụ mụ na ya asụọ,1.2143,0.6071
+596,"Mlɩ klʋn máha mlɩ pɔn tɔtɔ ɩwɩ, mɛnɩ nɩ bʋdɛ asʋn lalahɛ blɩ tsu mlɩ tsiatɔ wanklaan amʋʋ mlɩlɔpʋ mlɩbuo Kristo amʋ ɩwɩ a, pɛlɩ bɛ́kɩta amʋ́.","mle kụrụ mụ ha, mụ na ya kparịta ụka. Mụ na ya bụrụ ezigbo enyi, anyị na-ekekọrịta ihe niile gbasara ndụ anyị, na-ekpekwa ekpere ọnụ, na-arịọkwa Chineke maka nduzi na nchebe.",1.1481,1.0
+597,Tamɛ mlɩnu asʋn anfɩ.,"Tana bulute haa nwa todihe, m'ne mala bidu m'gbe. M'ne toma, obetali haa wi, pobere kwalo bi tiyamon keto. M'ne, m'ne metali gbe ito tukuri bi ya",6.75,5.8235
+598,"” Mlɩtɔ akʋ ɛ mlɩaa, “Apolo anɩbuo.","Mbe, ene mede sunani m le ji fia matofo. Mbe, ma ji Apollo, nte ma ji Paul. So m le de tria",3.6667,2.08
+599,Ntsrakpabi asienɔ amʋ igyi ɔpasua asienɔ amʋ abɔpʋ.,Agbọ,1.0,0.9302
+600,Asʋn ánɩ́ nonu tsu mɩ Sɩ wa ntɔpʋgyi asʋn.,"A sụọ anị n'ọnụ, tupu esịwa mụ ntopụ dị ya sụọ",1.2222,0.5938
+601,Obu adɩpʋsʋ akɩpʋ amʋ bʋlɩɩ bʋdɛ aklʋn amʋ ɔnɔ gyo.,A bu a de poso a ke po a mo bo le bu de e ko ra mo no,1.9,0.5122
+602,"Yesu lɛbla amʋ́ ɔbɛɛ, “Ɔnɔkwalɩ ndɛ mlɩ bla.",Ọ nụkwara ndị mmụba,1.0,0.7273
+603,"Brɛá bɛklɩ ɔnɔ, bʋdɛ anɩ Wie sum a, Ɔŋɛ Wankɩhɛ lɛbla amʋ́ ɔbɛɛ, “Mlɩlɛ Barnaba mʋa Saul ha mɩ, abʋyɔ agyʋma amʋʋ nɛtɩ amʋ́ mbɛɛ bʋbɔyɔ amʋ.","Gaa na kịlị nọ, gbe dị na ị ga-esuma. Onye wa nke ịhe lebara anya bụ ya. Mụ na ịle ba na ba mụ asa olu ha mị. Abụọ yọ ajụma mụ na etị a mụ mbe ya gụba yọ",1.4444,0.6226
+604,Tɔtɔ ma ɩnʋá babun atɔ mʋ́sʋá bʋmóobwii mʋ́sʋ.,tọmọ nụ ababụ a tọmọsịwa na gbuma ogbu ịmụ sọ,1.25,0.6389
+605,"Bɛfɩtɛ mʋ bɛɛ, “Nkʋnʋ ɔbʋ?","Befteh nbeh, engu nna bu? Mọọ ala le mwa nọ be",2.2,1.4737
+606,"Ɔblɔ ɩkɩta mlɩ a, ɩmáha mlɩ amlɩbwɛ lakpan.","Abla kitamneya, ni ma hamunka amne buwela",1.0,0.6176
+607,"Brɛá Bulu lɛkplɩ mʋ a, ɔlɛha bɛyaɩ Dawid obiasʋ ha amʋ́.",,,
+608,"Nɩ ɔkʋ ɔblɩ ɔbɛɛ, “Nyin Bulu,” tamɛ ɔtamagyi mʋ mblasʋ a, ofunupʋ ogyi.","ne akwa m bụrụ abụ ịnyị̀bụ̀, taa mụ ọtọ mụ aji mụ mblasọọ, ọ fụrụ mụ ọji",1.3077,0.6604
+609,"Tsufɛ ɔha ánɩ́ odekleá obónu mɩ atosunahɛ amʋ asɩ a, Bulu ɔbɔ́pʋ ɩkʋ tsɩa mʋ́tɔ ha mʋ.","tufiakwa, ohaneze declare obodo umuato sunu ahia muo sia buru obopu ikute ya muta ohaneze",1.0,0.5692
+610,"Tsufɛ alɩ amʋʋ aha bʋtowu amʋ́a Adam ɩkʋlɛbwɛ sʋ amʋ a, alɩ kɛn amʋ́a Kristo ɩkʋlɛbwɛ sʋ amʋ́ fɛ́ɛ́ bénya nkpa nɩ.","Ihe anyị na-ahụ taa bụ amụ Adam kwere nkwa iso amụ, alele ya amụ Kraịst kwere nkwa iso amụfe ebinyankwa",0.9545,0.6744
+611,"Asa Bulu lɔbwɛ ɔyɩ a, ɔlɛlɛ anɩ bwɛ mʋ klɛ tsʋn anɩa Kristonyɔ kʋlɛbwɛsʋ, ánɩ́ abwɛ aha ánɩ́ amʋ́ ɩwɩ lɛtɩn, ifin kʋkʋ ma anɩ ɩwɩ mʋ ansɩtɔ.","A sị na obughi ya, olee ihe a na-egbe mụ kịlịchụ? A na-akristọnyọ kụlịgbe sọ. A na-agba ya, a na-amu wele tin, ifi nkụkụ ma a na-ewi mwa nsị.",1.0,0.5566
+612,"Tamɛ megyi toku kʋlɛ lɔbwɛ nyankpʋsa-oyi amʋ, mboun ɩwɩ atɔ ɔtsan-ɔtsan.","Tupu m ejite okwu keleru ogbe Nsukka oyi amụ, mgbe eweghị atọcha ncha.",1.1818,0.6552
+613,"Anɩlɛyɛkplɩ Tiro otsubunɔ, tsufɛ ɩnʋ bɛ́lɛ ntsusʋ-yibi amʋtɔ atɔ nɩ.","A na-akli tiru uchu bụrụ nụ, tupu e nụbele nchọso ibi, amụtọ atọ",1.3,0.5818
+614,Paulo Ɔma Bambasʋfɔ Bulu Asʋn Bla.,Paulo unsa si.,0.8333,0.7143
+615,"Anɩlɔtsʋn ɔpʋsʋ yɔtsʋn Kilikia pʋ́ Pamfilia fʋnsʋ yowie Likia ɔsʋlʋsʋ, Mira wulutɔ.",Anlatso oposo yotsun ke likiya popanfiliya fonso yuwe likiya osoroso mira wulu.,0.9167,0.3768
+616,"Nɔyɔfwɩ, mʋʋ ndɛ atɔ wun a.","ya ofu, anọrọ ya sị na ọbụghị ya ọfụrụ, ndị a tọọ",1.8333,1.55
+617,"Anɩ pioá mɩa mʋnyɔ anɩdɛ agyʋma yɔ, anɩdɛkɔ asʋn wanklaan amʋ nwunsʋ.","A na-eji ya eme ihe n'ụmụ nwa na-adịghị ajụ m'ọjọọ, a na-eji ya kọwaa ụmụ nkịta mụrụ ọhụrụ.",1.5,0.9107
+618,"Mʋ́a ɩdʋn kʋraa a, mlɩ ansɩ mɛdɩn tɔtɔsʋ, mlɩmeyin mʋ ɛ.",Madu nkura na asi me di ntotoso ni mmehi munya.,1.0,0.5714
+619,"Bulu lɛlɛ mʋ awɩtɔlɛ kpɔnkpɔɔnkpɔntɩ anfɩ suna anɩ tsʋn Kristo Yesusʋ, mɛnɩ aha ánɩ́ bɛ́tra lɩn fɛ́ɛ́ bówun ánɩ́ mʋ awɩtɔlɛ lomoni dʋn togyitɔ.",,,
+620,"” Alɩ brɛ amʋtɔ a, Yesu akasɩpʋ bɔyɔ wulutɔ yɛhɔ atogyihɛ.",A na-ebighachi ya na Jisọs akara si pụọ n'ụwa gaa n'eluigwe.,1.1,0.8889
+621,"Nɩ ɔha ánɩ́ ɔmɔkʋdan hogyitɔ owun fʋ anfɩ fɛɛ fʋyin asʋn, fʋdɛ atɔ gyi ɔkpɩtɔ a, ɩbʋ alɛ?","Nwanyị a na-anọkọta na oji tooro ụmụ nwanyị afọ ise fụrụ ya asụ, fụdịkwa otu atọ ji ya, ịbụ alae",1.1111,0.7941
+622,"Mlɩdamli klʋntɔ ba Bulu wa, amlɩhɔ mʋ asʋn wanklaan amʋsʋ gyi.",ߒ ߘߐ߫ ߡߊ߫ ߞߊ߲߫ ߕߐ߬ ߓߊߓߙⓤߥߊ ߊ߬ ߡߊ߫ ߤߏ߬ߙⓤ ߊ߬ ߛߐ߲߬ ߞߊ߬ ߟߊ߫ ߕⓤߖⓤ,1.2727,1.0
+623,Mʋ́ sʋ ilobwie Roma ɔhandɛ amʋ ɔnɔ.,"sọ mụ, ọ lẹbụrụ t'ụmụ ọnọsọ tọ ị pụ yiri mụ asọ mụ, leba mụ tọ ọ be. Kpọchụsịka t'ụtụ adụyasá mụ, Israel fọbe gị mụ bịa, hụ mụ",4.1429,3.0
+624,"Asʋn anfɩ ɩbʋ mʋ́tɔ, ilehian ánɩ́ ɔhagyiɔha ɔbɔ́hɔ mʋ́sʋ gyi.","A sọ m sị ị bụ mọto, ịleghị anya ịhụ na ịhụghị m, ọ bụ mụ sị gị",1.8,0.6957
+625,"Gyʋma amʋʋ bʋdegyi amʋ sʋ mlɩhɩɛ bu amʋ́, amlɩdwɛ amʋ́.","Ihe mama mụ bere ji amụghị ụmụ, ihe gbara m, amaghị m ihe ọ",1.4,0.7381
+626,Mʋ́ sʋ oleyinkia sika fututu adʋasa amʋ ya Bulu igyi ɔhapʋ dɛhɛn pʋ́ Yudafɔ ahandɛ amʋ.,Mụ na ụmụ nne m ndị nwoke na ndị nwanyị gara ụka na ụbọchị ụka gara aga.,1.0625,0.8406
+627,Tamɛ aha amʋʋ alalɛ pʋbwɛ mʋ klɛ amʋ sʋ aladɩnkɩ nkɛ amʋsʋ.,"Tame ahanu alale pugbe mu cle amusu, ala di nke nke amusu.",1.0,0.4255
+628,"Tamɛ nɩ anɩna wankɩ amʋtɔ, fɛ alɩá mʋ onuto ɔna a, ɩkʋlɛbwɛ bʋ anɩa anɩ aba nsɩnɛ.","Ka mụ na anọ na nwa nke a mụrụ tupu a lee anya mụ onuto ọ na amụwa, ekwuru m gbe gbe na ya anaghị aba m",1.4706,0.6984
+629,"Mlɩkɩta Bulu asʋn amʋtɔ, ɩbwɛ mlɩ ɩsatɔ ɔdayiá Ɔŋɛ Wankɩhɛ amʋ tɛha mlɩ.","Nke taa bụ ụbọchị Satọde, 11 nke ọnwa nke iri na abụọ.",1.0,0.7759
+630,"Ndɛ Bulu kokoli mbɛɛ, ɔha afʋtalɩ bla aha fʋ hogyi ɩwɩ asʋn, mɛnɩ ɩbɛ́ha fónu ɩtɔ wanklaan ánɩ́ anɩlanya Kristo-buotɔ asɩ.",Ndebe kọkọrọ ịmbe ọha fụtaru ịbụ aha fụrụ ụhọji wee sụ. Mụ na ịbe ha fụrụ nụ tọwa nụ klaa ni anịla ya Kraist bụ ụtọ asụ.,1.2857,0.5521
+631,"Mʋʋ ɔlɛbla amʋ́ ɔbɛɛ, “Nɩ ɔkʋ dekleá obóbuo mɩ a, osi tɔá otekle bwɛ, otsu mʋ oyikpalihɛ bobuo mɩ.","Mụ ala bịla mụ bịa, lee okwu dekwara obogbuo m ya, osi tua otekili gbaa ochụ m oikpali ihe obogbuo",1.0,0.5135
+632,"Aha tsɔtsɔɔtsɔ bɔ́pʋ mɩ ɩda ba bɛɛ, amʋ́gyi Kristo amʋ nɩ.","Aha, to to to, bọpụmị na baibụlụ, amụjị Kristụ amụ",0.9091,0.5455
+633,"-Mʋ́ sʋ alɩ kɛn Lewiyin ɔkʋá bʋtɛtɩ mʋ Yosef lɛfɛ ɔsʋlʋ, ɔlɔpʋ kɔba amʋ ba sumbi ayɔpʋ amʋ nɩ.",Musa Alikain Lewin okwa buta Timothy Joseph lefe osro. Olopu koba amoba sumi ayopu amona.,1.0,0.4722
+634,Tamɛ mlɩmátsʋn mlɩ ɩwɩgyi amʋsʋ layotsu mlɩ tsiatɔ dada amʋ.,tamɛ mɛ ma chumɛ wujiamusu layochumɛ chiato dadamu,0.9,0.46
+635,Mboun mlɩsɔ ɔŋɛ amʋʋ bʋdɛpʋsuna atɔ amʋ kɩ.,"N'oge ochie, onye amụma obodo bụ otu n'ime atọ amụma",1.25,0.8571
+636,"Ɩnʋ Bulu igyi ɔhapʋ dɛhɛn amʋ mʋa Yudafɔ asʋn agyipʋ amʋ fɛ́ɛ́ bodunka aha ánɩ́ bɛka asʋn dɩnka Yesusʋ, mɛnɩ bɛ́lɩɩ mʋ́sʋ mɔ mʋ.","M'anuanom, m'ani gye sɛ mɛka asɛm dinká Yesu m'ani bɛle musu",1.0,0.7041
+637,"Mʋ́ sʋ bɛbla mʋ bɛɛ, ɔbwɛ osuna pʋsuna ánɩ́ lɛlɛ otsu Bulu wa.","Moussa be bla mobe, ogbe osuna posuna ani lele ochublu",0.9231,0.4348
+638,"Ɩnɩ sʋ nɩ ɔkʋ dɛ Bulu ifu nya a, ilosuna ánɩ́ Bulu ɔdwɛ mɔfʋn mʋtɔ.","N'esọné akwụkwọ ndị fụrụ ya, ịlọsụna ndị bụrụ ọdụọ maọbụ",1.0,0.74
+639,"Ɩnɩ sʋ ɩtɛha bʋtɔbwɛ yile fɛ alɩá atɔ-abi amʋ loswie, ɩkʋ adʋasa , ɩkʋ aduesie , ɩkʋ ɛ lafa amʋ.","ị na-eso, ịghaghị ịghọta mgbe ịlị fe alị atọ abị amụ ịlụsị ya, ịkwụ arụ asa, ịkwụ adụ esie, ịkwụ ya nlafa amụ.",1.2778,0.6667
+640,Anɩ Wie lɛha mʋ olonu Paulo asʋn blɩhɛ amʋtɔ.,Anya bu ula ha mu olu unu Paul Assembly Hall Amutu,1.2222,0.5278
+641,Yesu Kristo mʋa anɩ Sɩ Bulu amʋʋ ɔlɔkʋsʋa mʋ tsu afulitɔ amʋ lɔwa mɩ.,"Yesu Kristo mwanesi buli wa muolooko, so amuchu ya furitu amulowa",0.8571,0.4182
+642,"Igyi alɩ o a, atsɩ mʋ́a ayin tsɔtsɔɔtsɔ bɔhɔ anɩ Wie Yesu gyi.","Jalua, atimọ anyin chọchọchọ bọhọ adibia Jesu",1.0,0.6383
+643,"Ɔdɔm betsia buo mʋ, tsufɛ ɔdɛ alɔpʋ tsa wanwansʋ.",Ọdọn be chi ya bụrụ m tufe ọde alọpụ sa nwa nwa,1.3333,0.5385
+644,"Ɔbɛ́damli aha ánɩ́ bʋtɔkʋsʋ lɩɩ Bulusʋ agywɩɩn, bwɛ fɛ yile abwɛpʋ klɛ, mɛnɩ ɔbɛ́la aha yaɩ wanklaan ha anɩ Wie.",Obodo anyi a ha ni bu tokoso na buluso ajui. Egbe fe yiri agba epo kere. Manyi obele aha ya anyi ma nkla ha ani we,1.2,0.5517
+645,"Nyin ánɩ́ mlɩlanu awɩtɔlɛá Bulu lɔwa ha mɩ, pʋ agyʋma anfɩ wa mɩ ɩbɩtɔ ɔbɛɛ, mbwɛ, ɩwa labi ha mlɩ.","Miya ne mla nu a weta le a bulu lo wa ha me, po a juma fe wa me bi to be, i gbo i wala bi ha me.",1.25,0.4133
+646,"” Ɔlɛtra yinki ba bowun ánɩ́ akasɩpʋ amʋ bʋtra bʋdɛdɩdɩ, tsufɛ dɩdɩ dɛ amʋ́ bʋ.","A ka si kwan bu tra de de, tufe de",1.0,0.7333
+647,Ibwi anfɩ hɩɛ ɩbʋ labi ha mlɩ aha ánɩ́ mlɔ́hɔ Kristo gyi.,bu yafe ye bula bi hamle ahanne m'le roho Kristo,0.9167,0.4651
+648,"Tamɛ mlɩmɛdɛ Bulu mbla amʋʋ ɩhɩɛ dehian, igyi asʋngyi ɔnɔkwalɩsʋ pʋ́ Bulu-dwɛ amʋsʋ gyi.","tame, me mede buru, mebaa mu ihe de hi a, iji asu gi onokwaru so, pu buru do ya, amusu",1.4286,0.4789
+649,Ntra ndɛ nsi wa alɩá ɩbɔ́bwɛ mɩ ɩbɩ bɛ́da tɔ amʋ sʋ amʋʋ Kristo Yesu ɩbɩ lada mɩ amʋ.,"Ndi ntorobia, unu abughi mgbe beghi na tuamu tuamu, Kristi Jesu bu ihe adighi m.",1.0,0.6719
+650,"Tamɛ ɩbwɛbwɛbwɛ a, afu amʋ ɩbɛ́da anɩ ya ɔpʋ nsɩnɛ ɔsʋlʋ kʋsʋ.","Ta me gba gba gba ya, afu ya ma beda na ya o punsi na osoro koso.",1.25,0.5
+651,"Alɩ kɛn, nɩ mlowun ánɩ́ ntobi anfɩ fɛ́ɛ́ ɩdɛ mʋ́tɔ ba a, mlɛbɩ ánɩ́ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ ɩbabɩ lafʋn ta nɩ.","Alekam, nimero m na-enye gị bụ ihe e ji moto bịa, mere gị na mụ bịa ebe a na-afụ ntụ.",1.0,0.7
+652,"-Nɩ mlɩlɩɩ mlɩdɛ mpaɩ bɔ, ɔkʋ asʋn bʋ mlɩ klʋntɔ a, mlɩsi ɔha amʋ lakpan kie mʋ, mɛnɩ mlɩ Sɩ amʋʋ ɔbʋ ɔsʋsʋ amʋ ɛ obési mlɩ klɛ kie mlɩ.","Nne m liri, nna m liri na-adighi egbu. Okwa asu bu m liri kwuru ntua. M liri ya o ha muru akwa nke ya mu. Ma na m liri ya ma obu osuso amu ya, obu e si m na-ere.",1.3333,0.7451
+653,"Olotsula ɔbɛɛ, “Mɩ Wie, mɩ nɩ.",Olo tula obee. Mii wii? Mii nii. Mu oni wii,1.6667,0.9048
+654,"Mlɩha Kristo asʋn amʋ ɩhɩɛ bʋla mlɩ klʋntɔ, ɩha mlɩ nyansa.","Ihe a Kristi asaa mụrụ ihe bulara m na-ekwu ntị, ihe a mụrụ ya",1.2727,0.6383
+655,"Tamɛ ɩnʋ atsiapʋ begyi anɩ bʋalɛ dʋda ogya ɔpʋ ɔnɔ ɩnʋ ha anɩ, anɩ fɛ́ɛ́ anɩletsia mʋ́ asɩ.",Tamma inu achapo amu beji ani buale duda uja opu ono inu ha ani ani fe ani lechi amu,1.0,0.5362
+656,"“Brɛá ohiani anfɩ lowu a, Bulu-abɔpʋ botsu mʋ ya, oleyetsia anɩ nain Abraham wa ɔsʋsʋ.","Bulu, abọlụ mụ na nwa mụ nwanyị ya bụ nụ brafeto. Ụbọchị ahụ ọ na-ata akịtaatọ tupu iri ibi, o lechara nokwalu mụsụwa, mụ ka, obe jụọ nokwalu",1.8667,1.2985
+657,"Petro lɛbla mʋ ɔbɛɛ, “Nɩ amʋ́ fɛ́ɛ́ beyinki fʋ ɔma kʋraa a, mɩ mʋ́ mméeyinki ɛkɛkɛɛkɛ.","Nyamu faa bee nki fwe ma kuraa, mimu imee",1.0,0.6667
+658,"Agyʋma amʋʋ mɩ Sɩ lawa ɔbɛɛ, mbwɛ mɔ mʋ́ ɔnɔ, ndɛ mʋ́ bwɛ amʋ dɛ adansɩɛ gyi ánɩ́ mʋlɔwa mɩ sɩsɩ.","Aju m a mu, m si laa wa be ya, mu wa, mu mu uno. Nde mu gba ya, amaghi ya ada m si eji, a na-emuru owa Mrs.",1.381,0.6479
+659,"” Brɛá oyin amʋ lonu asʋn anfɩ a, ɩwɩ lowu mʋ.","Onye ị amụrụ n'ụbọchị ahụ, ịwụrụ onye",1.0,0.8485
+660,"Nɩ Kristo ogyi togyitɔsʋ ta a, ɔbɔ́pʋ ɩwɩ wa Bulu asɩ.",né Christo jito jito sota obopo ewe wabulu a,1.0,0.439
+661,Mboun mʋ́á ɩtɛdalɩ tsu mʋ ɔnɔ.,"Bụ mụ ịta daletụ mụ ọnọ. Gịara na atịsị ọdọ mụ a ma ọya ọwe ịtu a, mụ akasịpụ a mụ befịte mụ ye bịa afịa sị. Olele mụ",4.8333,3.3478
+662,"Sei a, anɩdɛ atɔ kɩ fulaa fɛ ogyasitɔ anɩdɛ mʋ́ kɩ.",Fe yaa anedaa tɔɔ kee fulaa fe yaa si tɔɔ anedaa mɔɔ,1.0,0.5
+663,"Mʋ́ sʋ bɛfɩtɛ bɛɛ, “Aha anfɩ bʋdɛtɔɩ a, megyi Galileafɔ sɔɔn bʋgyi?",Moussa bhebhe.,1.0,0.902
+664,"Mlɩbla Arkipo mlɩaa, ɔmɔ agyʋma amʋʋ Bulu lɔpʋwa mʋ ɩbɩtɔ amʋ ɔnɔ wanklaan.",Mla bla kipo mla omo ajuma mu obulu opu wa mu betu wa mu no nwa nklan.,1.3077,0.4262
+665,"“Apio Israelfɔ pʋ́ ɔmá bambasʋfɔá mlɩtenya Bulu ifu, mlɩyaa asʋ amlɩnu.","Happy Israel fo, o ma bamba sofo amane te nya gblufu, m'enya so amane",1.2727,0.4035
+666,"Brɛá ɔdɛtɔɩ a, Farisifɔ pʋ́ Mose mbla asunapʋ amʋ bɛkpa ɔtsɩ ɔkʋá bakɩta mʋ, ɔdɛ mbʋa tɔ ba bɛlɩɩ amʋ́ ansɩtɔ.","Bụrụ na etu a, fa si fa pụọ na ịsị na pụọ a, ha wee kpọọ otu ọkụwa akà kịta mu, ọ dị mbu atọ baa be le ịmụ asị",1.381,0.6471
+667,Tamɛ mlɩbɩá Bulu iwiegyi amʋ lawie woyi ta.,Tamè lebianè kuluwiyè diyamòla wiyè woyita,1.0,0.4286
+668,"Mʋ ɛ ɔlɛyɛbla Yesu abuopʋ amʋʋ bʋdɛ mʋ su, bʋdɛ awɩrɛhɔ gyi amʋ.","Nwe ole a ebiara Yesu abuo puo ma obodo musu, obodo a reho ji",1.0,0.58
+669,yɔfʋn brɛá nɔ́pʋ fʋ alupʋ bwɛ fʋ ayabi oyikpa.,fụ mpa mụ nọ ya ekeeke. Bulu mụ bela mụ ọbụrụ okuko ọbụ e? Chia mejọpụsị ya fụ mberede n'ọpụfụ alụpa gbewe fụ ayabị oyibo.,2.7778,2.0833
+670,"Tamɛ asa bétsia, abʋfia ɔtsɩ mʋa oyin a, bowun ánɩ́ Maria dɛ ɔmɛ́ Ɔŋɛ Wankɩhɛ tumitɔ.",Taa ma asabeti a abufụ a ọtimkpa onye a bụ nwanyị ma riade ome onwe nwachie tumadi,1.0,0.5231
+671,"Ɔdwɛ mʋ́ ɩtamata, tamɛ Bulu ɔnɔ asʋnblɩ bɔ́mɔ ɔnɔ.","M'adamfo Tamata, tame bluu no asomblibo mu.",1.0,0.4737
+672,"Mɩ mʋ́ mma ɔnsɩpɛ, ntamasisi ɔha, ntamatɔ mbʋa, mmegyi fɛ lampoo ɔhɔpʋ anfɩ ɛ.","M'e mɔ́ m'asipɛ, ntamasi si yɔhɔ, ntamasi tɔmɔ wa, m'e di sela mpuɔhɔ pɔnfiɛ.",1.0,0.3667
+673,Mʋ́ sʋ mlɩha asʋn amʋʋ mlɩlonu tsu brɛ amʋʋ mlɩlɔtsɔ hogyi amʋ isin mlɩtɔ.,"M'sɔmle ha, asuam m'omle le nɔ tuu bɛa m'lɔ tɔɔ ho ji amɔ isi m'le",1.0714,0.4237
+674,"Mʋ́ sʋ ɩlɛha ahogyipʋá bʋbʋ Makedonia ɔsʋlʋsʋ pʋ́ Akaia ɔmátɔ fɛ́ɛ́ bɛkɩ mlɩ bwɛhɛ, buo mʋ́.","Soro, ile ha oji puo bu bu Macedonia soro so. Puo aka ya mato fe ebe kemgbe mgbe ha gbuo",1.25,0.5714
+675,"Nɩ ɔmɔkʋsʋa Kristo a, mʋmʋ kpaalɩ mlɩlahɔ mʋ gyi.","Nyɔmɔ kɛ suɔ Kristo a, mumɔ kpalei mla hɔɔ mu",0.8889,0.4103
+676,"Tamɛ nɩ mlɩgyi Akristofɔ sʋ mlɩdɛ asʋn wun a, ɩmáwa mlɩ pɛlɩ.","ta ma nɛmɛli ji a Kristofo somle de asuŋ a, ma wa mɛ pɛli",1.0833,0.375
+677,Mʋ sʋ ɔyɩtɔ aha fɛ́ɛ́ bósu kʋklʋkʋʋ.,Moussa Aïta a hafé bosu ko koro ko,1.1429,0.5556
+678,"Bósutin mʋ́sʋ, tsufɛ bʋmegyi Bulu asʋn amʋsʋ.","Mba nsute, moso, ị chọrọ ịbụ onye ji bulu asị a moso?",1.5714,0.6667
+679,Mlɩ onuto mlɩyin ánɩ́ igyi tɔá ɩda yaɩ ha anɩ Akristofɔ dodo.,Nyantam ni yaani iji tua da yaa ihaanii a Kristofodudu.,1.0,0.4583
+680,"Yesu lɛkɩta ansibi obwiepʋ amʋ ɩbɩ, kpa mʋ dalɩ wulu amʋtɔ.",Yesu la kitansi be wue pa mɔ be pa mɔ daali wulu a,1.0,0.4043
+681,"Tamɛ nɩ itsu Bulu wa a, mlɩmɛ́ɛtalɩ ka amʋ́ itin.",Tame ne chigbuluwa? M na-etale ka m tinye,0.9,0.5
+682,"Ntra ndɛ mʋ kokoli mbɛɛ, ɔha amlɩbɩ Kristo ɔdwɛ amʋʋ nyankpʋsa ɔkʋkʋ mɛ́ɛtalɩ nu mʋ́ asɩ yi amʋ.","ntrandɛ mu kɔkɔli mbe, ohamli bi krisi oduyamu, ya nkweso kɔkɔli mɛta ali numu asi iya",1.0,0.4267
+683,Bulu igyi ahapʋ amʋ o tsɔtsɔɔtsɔ bɔhɔ Yesu asʋn amʋ.,blu ji ahapo amụ tọchọchọ bọghọ ịsụ asụọ,1.0,0.6429
+684,"Anɩ mʋ́ anɩyin ánɩ́ anɩladalɩ lowu asɩ yɔ nkpa ánɩ́ ɩtamatatɔ, tsufɛ anɩdɛ anɩ aba dwɛ.","A na-eme ya na-adịghị anya na-adịghị anya, a sị na ya mkpa anị taa ma taa, tupu a na-abanye",1.1875,0.6418
+685,"Petro lɛfɩtɛ mʋ ɔbɛɛ, “Safira, bla mɩ.",Safira,0.8571,0.7857
+686,"Mʋ́ sʋ bɛbla Petro aná bɛɛ, bʋdalɩ asʋn ogyikpa ɩnʋ kpalobi, abʋkɩta agywɩɩn.",Mọsụbe blak petro ana akpọ ya bụ dali asụ ojịpa enọkọlụbị abụkịta ajụọ,0.9231,0.5246
+687,"Mʋʋ ɔlɔsʋra okitikiti kʋklʋkʋʋ ɔbɛɛ, “Ɔsʋsʋʋsʋ Bulu mʋ Bi Yesu, amansʋ igyi?",Moo alaa suroo kiti kiti ko ko ko wa bee.,1.0,0.7213
+688,"Tamɛ nɩ mlɩlabwɛ mlɩ ɩwɩ fɛ mbwɩkɩta-atɔ, mlɩdɛ aba fɩnɩ, mlɩdɛ aba lala a, mʋmʋ mlɩkɩ wanklaan; nɩ megyi alɩ mlɛ́hɩ aba.","Ta mene mla gbe mla we fe mgbe kita to, ni di aba fini, ni di aba lala. Mu mu mla ke nwa kla ni meji ale mla shia.",1.1818,0.4839
+689,"Mɩ apio, sei a, nkaɩn mlɩ asʋn wanklaan amʋʋ nɛda mʋ́ ɔkan suna mlɩ, mlɩlɔhɔ mʋ́sʋ gyi, mlɩ hogyi ɩlɩɩ mʋ́sʋ amʋ.","Mepê sɛ yɛnkae me asuankra mu na eda mu ka sunsum mu. Merehwehwɛ osuji, merehwehwɛ ogyina mu su a",1.0,0.6786
+690,"Ɔlɔpʋ mʋ Bi amʋ obugya ka anɩ nwunsʋ ɩkɔ, si anɩ lakpan kie anɩ.","Ọ ya fụ mụ bịa mụ bịa ka a nụ nsogbu, sị ya na ya kpaa nke ya.",1.2143,0.5918
+691,"Tamɛ alɩ anfɩ ɔsʋrapʋ anfɩ na ɔdɛ mɩ han anfɩ sʋ a, négyi mʋ asʋn ɔnɔkwalɩsʋ.","Tamet, alliance jòsòròbu anfi na odemi ha anfi soa na eji m asụ ụnọkwari",0.9375,0.5167
+692,Owi numnyam igyi ɔtsan ha ɔtsra.,Onye na-ụmụ ya ịghọcha ha ochie. Ochie a ekweghị ịghọcha,1.5,1.3846
+693,"Mʋ́ sʋ apio, anɩdɛ ɩpa bwii ha mlɩ anɩaa, mlɩtra dwɛ aba dʋn alɩ.","Mọsọ́ a fiyọ̀, àní dé pa búhámle ànyá, nìtrà dúyà bàdúwàli.",1.0,0.625
+694,"Ɔma a, ɔlɛlɛ ɩwɩ ɔwan suna sumbi ayɔpʋ amʋ fɛ́ɛ́.",Ọ ma ọlẹlẹ yọwa sunasum bi a yọpụ amụfẹ.,1.0,0.4167
+695,"Anɩ Sɩ Bulu mʋa anɩ Wie Yesu Kristo bʋgyi mlɩ bʋalɛ, abʋha mlɩ iwilwii.","Ani si bulu mu ani bu Jesu Kristi bu Jimle bu ale, abu ham ni",1.0,0.4464
+696,"> a, obégyi ɩpɔn Yudafɔ asʋn agyipʋ ansɩtɔ.","Ohanézè na-ekwu na ọ bụrụ na e lelee anya n'ihe niile na-eme na ala igbo, ọ dịghị onye na-adịghị aghọta na ihe na-aga n'ihu bụ atụmatụ e ji akwado ntuliaka nke afọ 2023.",4.7143,3.4242
+697,Mɩ obugya nɩ.,"mụ bụ Jane, mụ bụrụ depụsị mụ ntam a na-ala ka ha ahasu na",4.6667,3.9
+698,"Mʋ ɔma a, Yuda ánɩ́ ogyi Galileayin ɛ lɛba ahaklabɩ.","Nne m, gi daalu oji ga-aliri gi ya n'eba. Ahaa m karia bu",1.3,0.65
+699,"Mlɩmeyin mlɩaa, ilehian ánɩ́ Kristo obówun ɩwɩɔsɩn, asa obénya mʋ numnyam?","mili me mli a, ilehiani Kristo, ohanne bulu Adam ofuria mu, ogbe nwe ya osi asa obenyelu numunya",1.5455,0.7333
+700,Tsu brɛ amʋtɔ ɔlɔwa ɔkpa dunka ánɩ́ ɔbɔ́tsʋn mʋ́sʋ lɛ Yesu ha amʋ́.,Subramoto olowo akpadunka ani ogbotu musulumi yesu ha,0.8462,0.46
+701,"Mʋ́ sʋ Yohane leki Yordan bʋnkpa ɔnɔ, ɔdɛ ɔkan da blɩ ɔbɛɛ, “Mlɩdamli klʋntɔ, amlɩsi lakpan bwɛ.","Mụ so ya hane leke yọdan bụ mkpa ọnọ, ọde ọka da bụlị ọbe ya. Mụ na ya amaghị kụrụ ntọ, amaghị si la kwa mgbe",1.4706,0.5676
+702,"Ɔyɩtɔ atɔ amʋ ɩkʋ gyi, atɔ lalahɛá ɩtɛdɩnka ɔha ɔwɔlɩ; atɔá ɔha towun, ɩtɛdɩnka mʋ ɔwɔlɩ pʋ́ ntobiá ɔha tɔpʋtsu ɩwɩ.","Otu a ka mu ekwu di, ato na laa ya i te di nka oha owoli, atua oha to wu i te di nka mu owoli pu ntu bia oha topu tu ewe",1.5714,0.4396
+703,Ɩdɛ mɩ bwɛ fɛ ipian amʋʋ ndewun mlɩ sʋ amʋ fɛ́ɛ́ ɩbɔ́bwɛ kpaalɩ.,"Ndeewo, biko nyere m aka na nsogbu m nwere na nwa m nwoke.",1.0,0.875
+704,"Abi amʋʋ ɩlɔwʋlɩ ɔsʋlʋ wanklaansʋ amʋ gyi aha amʋʋ bonu asʋn amʋ a, bʋtegyi mʋ́sʋ.","Iya m, ịlọghachi ọsụrụwa nka asụ, amụjị iya ha mụọ gbonu asụ ọmụa, but ejim osi",1.0667,0.5538
+705,"Farisifɔ pʋ́ Mose mbla asunapʋ amʋ bowunti mʋ bɛɛ, “Oyin anfɩ mʋa lakpan abwɛpʋ tɛnatɩ, bʋtɔwa ɩbɩ gyi atɔ kʋraa.","Ọ nyafị mmadu lakpa mgbe putenatị, putaa wa bijia tọkora.",1.0,0.7191
+706,Ɩnɩ ɔbɛ́ha aha fɛ́ɛ́ bɛ́bɩá fʋtegyi Mose mbla amʋsʋ.,"A na m abia ha, a na m afu bebi a na-ese foto eji mụ na mụ",1.8889,0.7692
+707,Aha bʋtobu ɔpasua ɔhandɛ ɔbʋapʋá ɔtɔyɔ mʋ agyʋma wanklaan.,"Ahabu Tobu apasuo ha na ya bu apu, ani o toyo mu ajuma wa nkra.",1.6667,0.4286
+708,"Mʋ́ sʋ brɛá ɩlɔwankɩ amʋ́ ánɩ́ ɩbɔ amʋʋ otetsia Ɔkpa Ɔnɔ Wanklaan ɩnʋ kʋlɩ atɔ amʋ nɩ a, ɩlɔwa amʋ́ wanwan, bwie amʋ́ ɔnɔ.",mụ so bịa ịlụwa nwaanyị amụ anị ịbọ amụ otechia ọkpa ụnọ nwaanyị kla ịnọkwụrụ atọ amụ na ya ịlụwa amụ nwa nwa gụọ ya amụ,1.0833,0.5714
+709,"Ɔhaa tamanu mʋ́ asɩ, tsufɛ mʋ ɔŋɛ dɛ asʋn ŋainhɛ blɩ.","Ata ma nuwase, tu fais mon nede asu nye heble.",1.0,0.55
+710,"Mʋ́ sʋ ndɛ mlɩ bla mbɛɛ, nɩ mlɩmɔbwɛ Bulu apɛ dʋn Mose mbla asunapʋ pʋ́ Farisifɔ amʋ a, mlɩmóowie Bulu iwiegyi amʋtɔ ɛkɛkɛɛkɛ.","Motswedi wa mmele wa mmele o o gweburuwa pe, ke motswedi wa mbla su napo, po farasi ifo amoa, mmele o o wii eburu, iwi e di amoto ekekee.",1.2174,0.5859
+711,"Ɔhagyiɔha ánɩ́ olonu asʋn anfɩ lɛfɩtɛ mʋ ɩwɩ ɔbɛɛ, “Ntɔ obi kebi anfɩ ɔbɔ́bwɛ ɛkɛkʋ?",Ito bi ke bia fu wa gwa ekwekwu?,1.0,0.8154
+712,"Bɔwanlɩn mʋ́ tswɩ, pʋda anɩ aha anfɩ ɔyɩ ɔnɔmɔbɩ latʋ anɩ anfɩ ɔla.",Bụ na a na-anaghị afị onye ọ bụla tụọ na ya afịọla.,1.0,0.6538
+713,"Mʋʋ Yesu lɛfɩtɛ amʋ́ ɔbɛɛ, “Amɛndɩ gyi mɩ yin mʋ́a mɩ apio?","Onye ije akụkọ na-akwadobe ndụ. N'aha na-egosi na ahụ ebu amụsụ, na ya bụ ụmụ alị a, baa dịda, mụọ ya bịa si, sụrụ oke dikitị, bere bee.",2.3333,1.9535
+714,"Ɩnɩ sʋ apio, mlɩkɩ mlɩtɔ amlɩlɛ aha abasienɔá obú bʋ amʋ́sʋ, Ɔŋɛ Wankɩhɛ mʋ́a nyansa ɩtsɔ amʋ́tɔ.","Nne so apịọ mụrụ kee mụrụ tọọ mụrụ lee, a ha abụsịghị nọ a na-ogbugbụ amụsụ. Ọ nweghị nke ha ma anya nsachọ amụta",1.4118,0.6533
+715,"Tsufɛ ndɛ ɩwɩɔsɩn amʋʋ Kristo lowun sian amʋ kʋ wun ha mʋ ɔpasua, igyi mʋ nyankpʋsa-oyi amʋ.","Ifeanyi Nwosu, a mụrụ Kristọlọwụnsị a mụkọọ ya ma ọ pasụa. Iji mụọ ya nkụso, ị ga-",1.0,0.5616
+716,"Tamɛ nɩ ɔha ánɩ́ ɔbʋ ɔwʋnlɩn dʋn mʋ ɔba begyi mʋsʋ a, ɔtɔswɩɩ mʋ mʋ akɔtɔ amʋʋ mʋ ansɩ dɩn mʋ́sʋ amʋ, ye mʋ atɔá olenya ɛtɔ.",ta me ni ohan ni ogbonwuri dumu obabegimosiwa oto suimu mu akotuamu mu ansi di imosuamu ye mu atua orinya,0.963,0.5054
+717,“Bulu layula aha ánɩ́ amʋ́ ansɩ mɛdɩn tɔtɔsʋ dʋn mʋ Bulu.,"M'broulaye, m'broulaye ahan né, a m'an si m'a din totor sodomou.",1.0,0.6047
+718,"Mlɩkaɩn ánɩ́ bɛbla mlɩ bɛɛ, Kristo olupʋ amʋ ɔbɛ́ba.","Mlekayani, ba bla mli ba, Kristo olupu amo obeba",0.8889,0.3
+719,Itobwie ɔmátɔfɔ amʋ ɔnɔá sei mlɩtra mlɩmɛdɛsrɩ buo amʋ́ yɛbwɛ lalahɛ.,Ite bu ya amatafo amaghi nno ana esei m litere m mee ede siri gbuo amaghi ya gbelala,1.6364,0.6491
+720,"Mlɩmɛdɛ mʋ wun mʋ́, tamɛ mlɩdɛ mʋ hogyi.","M'le m'le dɛm wu mɔ, t'mɛ m'le dɛm sɔhɔ",1.125,0.4667
+721,"Mʋ́gyi, Kristo Yesu lɛba ɔyɩtɔ bɛlɛ lakpan abwɛpʋ.",Mụ ji Kristi onye nwe anyị bụ onye na-achịkwa ụwa niile kpaa ngbe,1.625,0.925
+722,Tɔá Ɔŋɛ Wankɩhɛ amʋ tekle ɛ ɩhɩɛ na ɔtsan ha tɔá anɩ tsiatɔ dada tekle.,Tu as mangé combien de fois aujourd'hui?,1.0,0.8214
+723,"Ɔlɛbla amʋ́ ɔbɛɛ, “Nalɛ ɔha ánɩ́ ɔmɔkʋbwɛ lakpan kʋkʋ ha.",N'alụghị ọlụ gbaala akwụkwọ,1.0,0.7907
+724,"Nobwii ɩpa ha mlɩ, mlɩgyi atɔ ngya, mɛnɩ mlɩmóowu.","Nọbụ ịpa Hamline, n'iji atọ nja, m na-emere gị",1.0,0.6154
+725,"Brɛ amʋtɔ a, Yudafɔá bʋtenya Bulu ifu, bʋbʋ ndɩtɔ fɛ́ɛ́ baba bʋtsie Yerusalem.","Dị mụta ya, Juda fụrụ butenụ ya bụrụ fụ gọbọọ ndị taa ọfẹ ebe ba bụchị Jerusalem.",1.3077,0.5738
+726,"Nyin ánɩ́ mlɩlanu Yesu ɩwɩ asʋn, basuna mlɩ ɔnɔkwalɩá ɩbʋ mʋtɔ ɛ.","Nyem nụ Yesu ya sụ, baa sụ na m na-anọkwari abụ m otu a.",1.1667,0.549
+727,"Bobu akunta ha mɩ, tsufɛ fʋmɛ́ɛtra kɩ mɩ agyʋmasʋ.","bụkwa nta hami, tufe, fụ mụ atụ a kemụ ajụọ mụ",1.2222,0.5128
+728,Ɩnʋnʋ ɔwʋnlɩn lowie mʋ ayabi pʋ mʋ ntsakpatɔ.,o nọ n'ọrụ n'ụlọ ọgwụ a bịa kpọm ncha,1.125,0.7568
+729,"Brɛá ɔdɛ ipian wun a, ɔmɛka ɔhaasʋ, tamɛ ɔlɔpʋ mʋ ansɩ dɩnka Bulu, asʋn ogyipʋ ɔnɔkwalɩpʋ amʋsʋ.","Bịa odighi piawụ a, o mee ka ọha asụ. Taa mụ ọlọpụ mụ asị dị nka bụ asụ ojị pụọ nọ kwalị pụọ mụ.",1.4118,0.5263
+730,"Ɔfʋakpa bʋtɔpʋbian, mɛnɩ ɩbɔ́wankɩ ha aha ánɩ́ bʋtsie woyi amʋtɔ fɛ́ɛ́.","O fu okpa buto pu bia, mee na ibo nwa nke ha ha niile butere ya muta fee.",1.5455,0.5455
+731,” Mʋ́ sʋ Bulu ɔtswɛkpa agyopʋ ɔhandɛ amʋ mʋa mʋ aba bɔyɔ yɛkpa sumbi ayɔpʋ amʋ ba.,mọsọ́nbulu ọ̀tẹ́kpa ajọ́pọ̀ ọhà nàí amọ́ mọ́ amọ́ abá bọ̀yọ́ yẹ́kpa sù mí ajọ́pọ̀ amọ́,1.0,0.4921
+732,"Ma ɔbɔ́pʋ lalahɛ gyi mlɩ, nɩ mlɩ ansɩ ɩpɛ yilebwɛsʋ?","ma abughi kwa lala ha ji mere, na mere anaghi ipe ilegbo",1.1,0.75
+733,"Mʋ́ kɛn ɔlɛlɛ suna brɛá ɔlɔkʋsʋa Kristo tsu afulitɔ, pʋ mʋ yɛyaɩ mʋ gyɔpɩsʋ ɔsʋsʋ ɩnʋ nɩ.","Moké ya lélo, soki na béli lokola Kristo, tyá flito. Pona momeya ya ayi mojobeso, ososoli",1.0,0.6714
+734,“Ɔblɔ lɛkɩta ɔdɛhɛn amʋ.,"keta da hiamu, wosuro ori si mu a",2.0,1.2632
+735,"Mʋ́ sʋ Yuda lɔtswɩ sika fututu amʋ sɩsɩ amʋ́ Bulu ɔtswɛkpa wunsɩnɛsʋ ɩnʋ, natɩ yesian ɩwɩ.","Mụ sụrụ ya na otu esi ka ụfụrụ amụ sịsị amụ bụrụ ọchịkpa nwusi na esonụ. Nnaa, ị ga-esi ya",1.25,0.662
+736,"Mɩ abi adwɛpʋ, ndɛ ɔwʋlʋ anfɩ wanlɩn sɩsɩ mlɩ, tsufɛ Yesu Kristo sʋ Bulu lasi mlɩ lakpan kie mlɩ.","M'ani gye arepɔ, na me werɛ ho sɛ me ne mo nni nkitahodi.",1.0,0.8289
+737,Ɩna Bulu awɩtɔlɛ pʋ́ mʋ tumisʋ ɔlɔbwɛ mɩ mʋ asʋn wanklaan amʋ osumpʋ.,"N'awụ abụọ na-esote, ụmụ nwanyị so na ndị na-eme ngagharị iwe ahụ.",1.0,0.8727
+738,Aha amʋʋ bɔwɔ mʋ pɩa amʋ kʋraa bówun mʋ.,"Aha m bụ Nwabuaku Nwupia, amụrụ m n'ụbọchị",0.8889,0.8387
+739,"Tɔá idehian sei gyi, mlɩha mlɩ tsiatɔ ɩkana Kristo asʋn wanklaan amʋ.",to adehinya se ji ni hamichi ato ka na Kristos wankla,1.0,0.4464
+740,"Ɩnʋ amʋ́ fɛ́ɛ́ bɔsʋra okitikiti bɛɛ, “Da mʋ manta oyikpalihɛsʋ!","nno, a mụọ feyị bụ asụsụ kiti kiti bee. Daalụ maka otu ị kwara ya asụsụ. Pilato lefute a mụọ bee. Ticha mụọ mụọ ala gbe. Taamụ ebele asụsụ kiti kiti kokoroko bee. Daalụ maka otu ị kwara ya asụsụ.",4.0,2.5417
+741,"Yɛfɛ fʋ ɩwɩsʋ atɔ fɛ́ɛ́, afʋye kɔba amʋ ha ahianfɔ, mɛnɩ fénya siadɩɛ ɔsʋsʋ.",ya fa fu i we i su atọfẹ afu iye kọba mu ha hịa fọ ma eni fẹ ya si ya di ọsụsụ,1.5714,0.5172
+742,Mlɩlekina ɔha anfɩ tɛkɩ Pilato lɔbwɛ agywɩɩn ánɩ́ mési mʋ ɔnatɩ anfɩ.,"Mee ya mere, kinaa haa mfe teki, pilato logbe ajụjụ a na m si m ọ na-ata ya",1.4167,0.5536
+743,"Ntsie mlɩ wa Bulu ɔtswɛkpa ɩnʋ ekekegyiɛkɛ ndɛ mlɩ atɔ suna, mlɩmɛkɩta mɩ ɛkɛkɛɛkɛ.","m si m ga abụrụ gị onye na-akpa nụ, ekene m gị ekele, m na-elekọta m ekele gị",1.2857,0.7206
+744,"Sei anfɩ a, Kristo alupʋ tsɔtsɔɔtsɔ baba.",Kristo,0.8571,0.8182
+745,"Mʋ́ sʋ akasɩpʋ amʋ bɛfɩtɛ aba bɛɛ, “Ntɛ ɔkʋ labɛha mʋ tɔkʋ alagyi?","Mba so, akazi mụ a bịara ịbịa. Nte ọkụla bịara ha mụtọkụ alaji? Yesụle bụla mụọ bịara, mụ ya tụrụ ihe",1.6154,1.14
+746,Aha ánɩ́ bʋgyi Kristo klɛ bamɔ amʋ́ tsiatɔ dada pʋ́ amʋ́ ɔwɔlɩ lalahɛ Kristo Yesu oyikpalihɛ amʋsʋ.,Aha na-ebu ji Kristo kịlịba mu amụchị ya tọdada pụọ mọwọlị lala hị. Kristo Yesu o yikwalịhịa mụ,0.8235,0.359
+747,Aklu Mʋ́a Aka.,"bapu, inusa se",1.0,0.9
+748,"Yesu lɛbla mʋ ɔbɛɛ, “Mʋ́ fablɩ a.",Mofa,1.0,0.8696
+749,"Yesu lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Mlɩmeyin mɩ wanklaan, mlɩmeyin mɩ Sɩ amʋ ɛ.","M'animere me nwanwa, m'animere se ya",1.0,0.7451
+750,"Tsufɛ nɩ abatɔ mowu anɩ a, abɔ́kpɔtɩ nkpa ánɩ́ ɩtamata mʋ́ brɛtɔ.","Ife anya batara m n'uwa na ya, abughi kwanu nkpa na-etam atamu.",1.0,0.6327
+751,"Ɔhaa megyi ɔha yile, nkɛtɩ Bulu nkʋlɛ.",M'ham jo hayile nkata bulunkwe,1.0,0.4
+752,Tsufɛ Bulu ɔnɔsʋ atɔɩpʋ afunupʋ tsɔtsɔɔtsɔ babʋla ɔyɩ anfɩtɔ.,tụfee bulu ọnọ so atọ ịpụ afụ nụ pụ taa tọ tọ kpaa gbulu ọị afịta,1.6667,0.5962
+753,"Ɔlɛbla amʋ́ ɔbɛɛ, “Atɔ kpɔtɩhɛ amʋ ɩtsɔ, tamɛ mʋ́ akpɔtɩpʋ bʋmɔtsɔ.","ọle ebe a mụrụ be ya? Atọkpọta ihe a mụrụ itọ, taa mụ na akpọta ya bụ",1.5455,0.7059
+754,Tamɛ abi amʋ kʋ ɛ lɔwʋlɩ ɔsʋlʋ wanklaansʋ.,"ta mɛ abijamu kɔɛ, lowoli ɔsuluwa nkla",1.0,0.3529
+755,"Fɛ alɩá bɔwanlɩn wa Bulu asʋn wanlɩnhɛ amʋtɔ bɛɛ, “Ɔtɩansɩpʋ agywɩɩn lalahɛ Bulu tɔpʋkɩta mʋ.",Oti anọpụ ajụjụ ịlaala ha bụrụkwa oketa,1.0,0.8289
+756,"Ɔma ɛ a, fɛɛ bʋmátɩn amʋ́ abi kete, bʋmágyi anɩ amandɩɛ ɛsʋ.","Mɛɛ fɛɛ, bɔ matɛn amɔ abikete, bɔ maji ani amandiyɛ",0.9167,0.3111
+757,"Mboun nɛ́tra wa ɩwɩ ɔwʋnlɩn, mɛnɩ nɩ lowu igyi o, nkpa igyi o, mɩ tsiatɔ fɛ́ɛ́ ɩbɔ́wa Kristo numnyam.","mbu na Traore bu onwere, mee na ni lohu jio, nkwa jio, michi ato fa ebo wa Kristo num ya.",1.0,0.4933
+758,"Ntɔdwɛ mʋ tsu mɩ klʋntɔ, tamɛ ndɛ mʋ yinkia sɩsɩ fʋ.","ntọdọ mụ chụmịkụrụ ntọ, ta mụ ende mụ nke ya sị sị",1.0909,0.6
+759,"Tamɛ nɩ ɔkʋ todunka numnyam ha ɔha ánɩ́ ɔlɔwa mʋ sɩsɩ a, ɔnɔkwalɩpʋ ɔha amʋ gyi.","Taa mee ọkụ, toru nke a na-ụmụ nịam ha ọha, a na-ọrọwa mụ osisi a. Ọnụkwara pụ ọha mụ",1.0625,0.5161
+760,"Anɩ Wie Yesu lɛlɛ mɔ ɔnɔ ɔbɛɛ, “Apinabwɛbi abwɛpʋ!",A na-ebia Yesu n'elemu ọnọọ ọbẹẹ,0.8889,0.7436
+761,"Ɔhagyiɔha ánɩ́ ɔtɔbwɛ yile a, mʋ asʋn da ɔkpa Bulu ansɩtɔ fɛ Yesu.",hajiya Hane atọgbẹ iria mu asụ ndokwa buru asị tọfe,1.0,0.549
+762,"Atɔ amʋ ogyikpa a, Yesu lɛbla amʋ́ ɔbɛɛ, “Ɔnɔkwalɩ ndɛ mlɩ bla, mlɩtɔ ɔkʋlɛ ɔbɛ́lɛ mɩ ha.","Akwụkwọ mụ dị ịpa, Jisọs lebara mụ onwe ya. Ụlọ ụka ndị mmụọ ozi na-eto Okwu ya, ọbụ abụ otuto.",1.1765,0.8788
+763,"Ɔŋɛ Wankɩhɛ amʋ kɛn tɛha ɔkʋ tumi ɔtɔpʋbwɛ ofula, ɔtɛha ɔkʋ ɛ tɛblɩ asʋn ánɩ́ Bulu lɔpʋwa mʋ ɔnɔ.","Anya m ankeyi, a mụka enye ha okwu tụmị ọtọ pụrụ ịfụla, ọtọ ekweghị okwu ya etebere asụ anị bụrụrụ pụwa mụọ.",1.1579,0.75
+764,"Mlɩa mʋnyɔ ɩkʋlɛbwɛ sʋ aladɩnkɩ mlɩ tsiatɔ dada amʋ lɛ mlɩsʋ fɛ alɩ amʋʋ bʋtɛtɩn kete, dɩnkɩ awʋlɩ lɛ mʋ́sʋ amʋ.",Na mu nya okwu na-egbu egbu adịghị m na-eche ya echiche adịghị m le mụ na ya so. Fialụ ya mụ bụ teti nkiti dị m ka ọ bụrụ le mụ na ya so.,1.619,0.8202
+765,"Ɔlɔtɔɩ gya ɔŋɛ lalahɛ amʋ, tsa alɔpʋ amʋ fɛ́ɛ́.","Aloo tweja onye lara hiam, cha alupo amufe. Ineha asom",1.1111,0.8286
+766,"Brɛá olowie Galilea a, ɩnʋfɔ bɔhɔ mʋ atuu, tsufɛ amʋ́ onuto bɔyɔ Yerusalem Yudafɔsʋ Katsʋn Nkɛ amʋ ogyikpa.","Bịa olileanya, ị nọfọghọ m atụ. Tụfee aka nri gị gaa Jerusalem. Juda fọsụkàrọ nke ya ma o jikwa",1.0556,0.5698
+767,Ɔtsɩ dɛhɛn ɔkʋá ogyi Bulu ɔnɔsʋ ɔtɔɩpʋ ɛ bʋ ɩnʋ.,o ti ya buru fu o n'eme nke ihe,1.0,0.8684
+768,Yesu mʋa mʋ akasɩpʋ bɛdalɩ ɔmá amʋtɔ yinki yɔ mʋ wulutɔ.,ya sumu wa ma ka si fu bedali o ma amuto nke iyo ma owuru,1.3636,0.4667
+769,"Megyi mʋ yin gyi Maria, mʋ apio yinhɛ gyi Yakobo, Yosef, Yuda pʋ́ Simon?","Mazi Muojilim Maria, nyebe ya ihe eji ya akpo bu Joseph Judah P. Simon.",0.9286,0.5556
+770,"Alɩá mɩ agyʋma mɔ́ɔbwɛ kpaalɩ sʋ a, negyankpa lɛ asʋntɔ suna ɔpasua ahandɛ amʋ nkʋlɛ ɩtsɛtɔ.",Anya m na-ajụ m ma ọ bụrụ na ị kpọrọ ịsụ ha na-eje akwụkwọ na-esote n'oge na-adịghị anya.,1.125,0.7973
+771,"Ɩnɩgyi tɔá Kristo lɛhɩɛ ɔbɛɛ, mɛ́ha anɩ, igyi nkpa ánɩ́ ɩtamata amʋ nɩ.","N'iji tuwa Kristo n'ahịa, ọbụ a na-eme ha anị iji nkpa anị tamata amụ.",1.0,0.463
+772,"Ɩnɩá ɔbʋ amʋ́ wa anfɩ mʋ́ a, bʋmɛ́ɛklɩ ɔnɔ.",bịa kam fụ buru buru be ya. Anụ m okwu ofu afia oduke. I ga-esoro try gallery a pụọ nọ? Ọdọ m kpọm kpọm kpọnti be ba m,3.0,2.5333
+773,"Mʋʋ ɔlɛtra bla mɩ ɔbɛɛ, “Ilehian ánɩ́ fɛ́lablɩ asʋn amʋʋ ɩbɛ́ba aha fɛ́ɛ́sʋ amʋ.",Mɔ́ alɛ́ trábá miɔ́ bɛ́ɛ.,1.0,0.8136
+774,Bulu ɔbɛ́kɩ mʋsʋ ɩnʋ nfinsa mʋ́a ɩfʋn.,"M'brou abéki m'sô, éno n'fi samoa fô.",1.0,0.5172
+775,"Asʋn anfɩ ɔbɛ́ha mlɩ nkpa ánɩ́ ɩtamata, nɩ lɛlɛ mlɩlɔhɔ mʋ́sʋ gyi nɩ.","A sọ m na m ga-eme mkpa n'ịta matá n'ihi na e lele m, ọ bụ mụ sụrụ ji.",1.4615,0.6923
+776,"Mʋ́ sʋ ɔhagyiɔha ɔkɩta mʋ klɛtɔ wanklaan, amlɩpʋkpa aba.",M'sọ ha jụọ ha ọkita mụ kịlịta nwa nkịta amụrụ kpọọ,1.2222,0.5556
+777,"Mlɩdɩnka ansɩá anɩ Wie ɔbɛ́ka ɔhagyiɔha ɩkɔ, ɩtɔ wanklaan kugyikʋá ɔlɔbwɛ sʋ.","Mee dị ka a sị na a na-ewie ozu ebe akwa, ákwá dị ka onye nwụrụ anwụ.",1.4167,0.7143
+778,"Aha anfɩ bɛkpa mʋ tati, swɩɩ mʋ atɔ fɛ́ɛ́, da mʋ sian mʋ mɔ, natɩ si mʋ tswɩ.","A na m ebe kwa mụ tata, sị m atụfe, da mụ sị ya mụ mọ na tị sị mụ",1.0556,0.537
+779,"Mʋgyi ɔdansɩyin ɔnɔkwalɩpʋ, ogyankpapʋá ɔlɔkʋsʋ tsu afulitɔ, ɔyɩtɔ awie fɛ́ɛ́sʋ ogyipʋ.","Mụ ji adansị ọnọkwalịfụ oja nkpa pụrụ ọnọkụsụchụ afụlịtọ, ọyịntọ awụye fẹsụ ojị pụ.",1.2727,0.5833
+780,"Nɩ mlɩdɛ ɩnɩ bwɛ mɛ, imosuna ánɩ́ mlɩ agywɩɩn tra dɩn ɔyɩ anfɩtɔ atɔsʋ, mlɩgyi fɛ ɔmátɔfɔ?","Nne na nna ya bụrụ ezigbo mmadụ, ịma sị na n'ime ajọ ntị na ntị, ọ ga-anfitu atọ sọ gị. Mụ na gị fịọ mmadụ",1.4706,0.8429
+781,"Mʋʋ ɔlɛfɩtɛ aha amʋ ɔbɛɛ, “Ma gyi oyin anfɩ?",Mọọla fịtee aha m ọbụ ee. Mazi,0.8889,0.697
+782,Ɩhɩɛ bʋ pɛlɩá bɛ́blɩ ntobiá aha bʋtɔbwɛ ŋaintɔ ɩwɩ asʋn kʋraa.,Ihe a bu ihe anyi na-ebuli elu bu ihe a bu tobo n'enye nto. Ihe a so nkura,1.6364,0.76
+783,"Bulu-ɔbɔpʋ amʋ lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Ɔŋɛ Wankɩhɛ ɔbɛ́ba fʋsʋ.",onye nwe nke a ebe baafu,1.0,0.8409
+784,"Alɩ kɛn Marko, ogyi Barnaba mʋ pio amʋ ɛ ɔha mlɩ itsia nɩ.","Alekai Maku, oji ba na ba mu bia mu ye ohaminichi ya",1.0,0.5
+785,"Nɩ ɔmɔ́ɔkʋsʋa amʋ́ mʋ́ a, mʋmʋ ɔmɔkʋsʋa Kristo ɛ nɩ.","Nne m mụrụkwa suwa mụwa, mụwa mụrụkwa suwa Kristi wee",1.0,0.7368
+786,Aha anfɩ gyi aha ánɩ́ bʋdɛ mʋ ɩwɩ adansɩɛ gyi suna Israelfɔ nɩ.,Aha vijịa ha na-egbu na mụ bụ ya bụ dancer Jesus na Israel foọnụ.,1.0,0.5918
+787,"Ɔhagyiɔha ánɩ́ ɔtamadwɛ aha meyin Bulu, tsufɛ Bulu gyi ɔdwɛ.",Ha ji yaa haa ne otu amaa dọ yaa haa mee yaa bụrụ chụfụ bụrụ ji ọdụ,1.7,0.6458
+788,"Ɩnʋ Yesu lefi asɩ ɔdɛ asʋntɔ lɛ suna amʋ́ ɔbɛɛ, “Ilehian ánɩ́ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ nɛhɩɛ wun ɩwɩɔsɩn tsɔtsɔɔtsɔ.",na ya si lefiya asiwaju ason to le su na mọ bẹẹ. I le hian ni mminya nkwasam ubi anfi na hian wu iwe yọ si ntọntọ,1.4211,0.5
+789,"Ɩnɩ sʋ begyi Paulo asʋn blɩhɛ amʋ nwɛn, sia mʋ.",Paul,1.0,0.8889
+790,"Mlɩ ɩtɔɩ ɩwa anulɛ, ɩwa labi, mɛnɩ mlɛ́talɩ lɛ ɔhagyiɔha asʋn fɩtɛhɛ ɔnɔ wanklaan.","M netụghị onye nwe ụlọ, e wala m. Mụ na m netara lụọ ha ji ha sọfụtehị onwe mụ na ya.",1.5,0.6615
+791,"Mʋʋ ɔlɛbla ɔfapʋ amʋ ɔbɛɛ, “Ɔbʋnsam mʋ bi, fʋtekisi ɩtɔ wanklaan kugyikʋ.","mụ ọlụlụ ya bụ Apple na Obay. Ọ bụ nsogbu bịa, fute isi na nwankịrị kwụọ",1.3333,0.6897
+792,"Ɔtsɩ amʋ lɛbla mʋ ɔbɛɛ, “Anɩ sɩ, fʋmɛdɛ ɔfɛ, ibun anfɩtɔ ɛ bʋ oklu.","A ni si, fún mídé ọfé, ìbú amotó ẹbú",1.0,0.7959
+793,Mɩ Kristo Yesu sumbi ɔyɔpʋ Paulo ánɩ́ Bulu lɛtɩ mʋ apɛtɔ pʋ́ anɩ pio Sostene dɛ ɔwʋlʋ anfɩ wanlɩn.,"Mee Kristi onye nwe anyị sụgharịrị ya pụọ n'ọrụ, a na-eburu ya timu apeto pụọ n'ịpịụsọ site na obodo mfiwanụ.",1.0526,0.7273
+794,"Abi ɛ bɔ́kʋsʋ lɩɩ amʋ́ akwɩɩpʋsʋ, ha bɔ́mɔ amʋ́.","Adịghị m bọkọ sọlụ ya amakwa efusụ, ha kpọmụwa",1.0,0.7353
+795,"Blɩ ndɛblɩ mbɛɛ, ɩkpɩ ntɛ atogyihɛ amʋʋ bapʋha amʋ́ igyi amʋ ɩbʋ labi?",Blemba blemba ekwenti a to ji ha mgbapu ha mu iji amu egbola,1.0,0.4909
+796,"Ntɛdamli ɩwɩ ɔkpa ɔtsan-ɔtsansʋ ha aha fɛ́ɛ́, mɛnɩ nɛ́talɩ kpa amʋ́tɔ akʋ ba Kristo.","Ndi damu niwe okwa ncha ncha so ha hafe, me ni netali kpa mu to akuba Kristo.",1.0,0.4219
+797,"Tɔá sʋá anɩtɛda mʋ ɩpan bregyibrɛ ɛ gyi, brɛá anɩlɔpʋ mʋ asʋn amʋ ba mlɩ a, mlɩmotsu mʋ́á nyankpʋsa wa itsu.","Tụwa sụ anị taa, mụ pụrụ ịbịa eji, bịa n'ụlọ pụrụ mụ asụ mụ bamlụ ya. N'ime ụmụ nị, ya nkụsa wa chụ.",1.0476,0.619
+798,"Ɩnʋ olotu atsʋnɔ dɩnka oyin amʋ ansibisʋ, pʋ ɩbɩ dɩnka mʋsʋ.",na otu a chọrọ dị ka onye iye amụ and si biso pụ ebe dị ka amụ,1.5455,0.5625
+799,"Nɩ mlɩ obégyi ɔyɩtɔ aha asʋn a, mʋ́ ntogyi sʋ mlɩmɛ́ɛtalɩ gyi mlɩ wʋlɛwʋlɛ nsɩnɛ asʋn?","Nnem lụbe di ya a itoolu afọ, mụ nwa dị asatọ, mụ na ụmụnne m ndị ọzọ niile nọ na nsogbu.",1.3125,0.8209
+800,"Napʋ ntsú ntra ndɛ mlɩ bla mbɛɛ, aha tsɔtsɔɔtsɔ tsiatɔ losuna ánɩ́ Kristo oyikpalihɛsʋ lowu amʋ alupʋ bʋgyi.","na punju ntrande m na ebla m bee, aha chochocho chi ya tolo sunani Kristo ikwali ha solu amalu pobuji",1.0,0.4205
+801,"Ɔha ánɩ́ ɔmɔhɔ Bulu iwiegyi amʋ fɛ kebi a, omóowie mʋ́tɔ.","Ohanézèé mụọ, ụlọ ọgwụ a dị a mfe ịbịa, onye ọ bụla nwere ike ịbịa.",1.3636,0.9302
+802,"Mʋ́ sʋ ɔlɛsrɩ yɔdʋ pɔntɔ-oyi kʋá Yesu ɔbɔ́tsʋn mʋ́ asɩ, mɛnɩ obówun mʋ.",Mụ so ole sire ya na pọnto oyikwa Yesu ọbọchị ụmụ asị manye obonwa.,1.0769,0.5094
+803,"” Aha bʋtotsu mʋ ba bɛyaɩ ɩnʋ ekekegyiɛkɛ, ɔtɔkʋlɩ aha ánɩ́ bówie Ɔtswɛkpa ɩnʋ kɔba.",Abdu Chumma ba be ya inu okike. Otokwiri aha ni gbuwi ochikpa inu koba.,0.9286,0.6061
+804,"Mɛnɩ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ ɔbakɛ amʋ mɛ́ɛbɛkɩta mlɩ fɛ yibi.","Mɛnɛ, m'inɛn kɔsa mɔ biya nfe, ɔba ka yamu, mɛɛ kita mɛnɛ fe yii",1.4,0.4082
+805,"Tsufɛ olotsu ɔsasɩ ɔma kʋtɔ kein gya ɔkpa ba, bonu Salomo nyansa atosunahɛ.","Tụwa olu tụọ sásá, ọ makwa tụọ nke ji okpaba bụ Nùsolomọn, ya nsato sụ n'ahịrị.",1.2308,0.5082
+806,"Bɔwanlɩn wa Bulu asʋn amʋtɔ bɛɛ, Abraham lɔkwɩɩ abi yinhɛ anyɔ.",Abraham,0.9091,0.8627
+807,"Nɩ ɔpasua amʋ ifia, ɔhagyiɔha dɛ ɔblɩ bamba blɩ, ɔha bamba pʋ́ ɔmátɔyin bɛba mlɩtɔ a, bʋmɛ́ɛblɩ bɛɛ, mlɩ nwun layinta?","ne a pas tu as mon fille, o ha ji o ha di o buru iba mba abali, o ha ba mba pu o mata onye ibe ya ba mli tua, bu ma ya buru ba ya mli nwuru anyi",1.9048,0.5714
+808,"Brɛá Yosef letsinki a, olegyi asʋn amʋʋ Bulu-ɔbɔpʋ amʋ lɛbla mʋ amʋsʋ.","Brahim Youssef le 5e, originaire de Sonamou, bleu",1.0,0.75
+809,"Alɩ brɛ amʋtɔ a, mʋ akasɩpʋ amʋ bʋdɛ mʋ kokoli bɛɛ, ogyi atɔ.","A le brama to a, mu a ka se pu a mu bura mu ko koli be odia",1.3077,0.3913
+810,"Ɔblɩ bamba blɩ bɛ́ka itin, asʋnbɩ ɛ ɩbɛ́ba bɔtsʋn.","Bli bamba bli be kati, asom bie be babuchu.",0.8889,0.4474
+811,Akasɩpʋ aduesienɔ-nyɔ amʋ beyinki ba ansigyisʋ.,"K'a se po a di a si non nyo, a mu be nkiba a si Jesus",2.6667,0.45
+812,"Mlɩmáha apʋ bodobodoá ɩlatu, igyi tsiatɔ lalahɛ mʋ́a lakpan gyi mʋ́.","N'ime afọ puku abụọ na abụọ na itoolu, iji chi atọ laa n'ahịa, ụmụala kwanjị",1.3636,0.7593
+813,Bulu ogyi mlɩ bʋalɛ.,ߘߊ߬ߟߏ߲ ߖߌ߬ߣߍ߫ ߓߐ߲ߖߘߊ߫,1.0,1.0
+814,Megyi ansɩtɔ-ɔdwɛ mlɩdɛpʋha aba.,M'é dji un secteur hors de,1.5,0.8148
+815,"Ɔnɔkwalɩ, anɩ Bulusum ɩwɩ asʋn amʋʋ ɩlalɩn ɔwan amʋ lomoni.","Anọkwalị, anị bụrụ sọọsọ ya sọọ mụ ịla n'onwe mụ n'ọnụ",1.1,0.625
+816,Mmɛtra wun sumbi ɔyɔpʋ ɔkʋkʋ dʋn anɩ Wie Yesu mʋ gyama Yakobo.,Mẹtara m si m bịa ya pụọ kọkọ dọrọ na iwe ya esumụ ja ma ya,1.3333,0.56
+817,"Ɩnɩ sʋ apio adwɛpʋ, alɩ amʋʋ mlɩtobu mɩ brɛ amʋʋ mbʋ mlɩ wa amʋ a, ɩnɩá mma mlɩ wa o a, mlɩbɔ mbɔdɩ amlɩbwɛ mʋ́ alɩ.","Ihe a mere bu na mgbe mmuo biara m, mbu m na-arwa amua, enyi m a na-arwa uwa na-agbomgbo di amuru m",1.0,0.7326
+818,"Tsufɛ aha ánɩ́ bɛɛ amʋ́gyi Kristo amʋ pʋ́ aha ánɩ́ bɔ́wa afunu bɛɛ, Bulu ɔnɔsʋ atɔɩpʋ bʋgyi tsɔtsɔɔtsɔ bɛ́ba ɔyɩtɔ.","Ihe a anaghị bee, a mụjị Kristo amụ, pụọ ahịhịa bọwaa fụrụ bee, bụrụnụ sọ atọ eji pụgbuo ji choo choo choo, bee baa ehihie.",1.2,0.7273
+819,Ɔha ánɩ́ odekleá aha bʋbɩ mʋ gyumagyihɛ tamaŋain ɩwɩ.,"Ohanézim na-ekle a ha bụ be m Jụmaji Hèy, taa bụ ngwụsị",1.3333,0.6279
+820,Ɔyɩtɔ aha fɛ́ɛ́ bɔ́tsʋn fʋsʋ nya nkpa ánɩ́ ɩtamata.,"Anya ha fe, ha chọrọ iso ya mkpaa nita mmanya.",1.1111,0.6053
+821,"Nɩ abwɛ mʋ́ alɩ a, anɩmɔ́ɔwa Bulu ɔblɔ fɛ Israelfɔ?","Nye agụụ mụọ na ya, anụ mụọ wa bụrụ ọbụrụ ofe Israel.",1.2,0.6316
+822,Ntogyi sʋ mlɛ́tra yinki yɛbwɛ amʋ́ nkpábi fɛ brɛ amʋ?,"Tɛɛ jǐ sɔ́ mɛ́ɛ try nki yɔ́ gbe, a mɔ́ nkpabi fe bra",1.3,0.439
+823,"Brɛá Petro mʋa Yohane bʋbʋ mʋ́sʋ bʋdɛtɔɩ kpla aha amʋ a, Bulu igyi ahapʋ mʋ́a Bulu ɔtswɛkpa agyopʋ ɔhandɛ pʋ́ Sadukifɔ akʋ bɛba bɔtʋ amʋ́.",Bara peturu ma Yohane bu bu moso kpuru ikpe aha muwa. Mulu ji ahapu nwa bulu ocha ikpa ajupu ohane. Pusa di ife akube ba butu,0.96,0.4722
+824,"Anɩ ɔdwɛpʋ Luka, ogyi ɩlɔ ɔtsapʋ mʋa Dema bɛha mlɩ itsia.","Anya do apu luka, o jiri ocha apu, nwa di ma be Hamrichie.",1.0909,0.5111
+825,Anɩlɔpʋ ayabitɔ tsu Neapoli yɔ Filipi wulutɔ.,"N'a n'opụ abịatọchụ n'ụlọ ọgwụ anyị ọzọ, fụlụ ihe ọzọ",1.4286,0.9211
+826,"Ɔna okluntɔ, sʋ omeyin ɔtɩnɛá ɔyɔ; tsufɛ oklun amʋ ɩlatin mʋ ansɩ.",na okwu ntọsọ omenyi ọtịna ọyọ tupu okwu amụ latịmọ,1.0,0.4808
+827,"Tamɛ alɩá ɔdɛ mʋ kokoli kotoo sʋ a, ɔbɔ́kʋsʋ ha mʋ alɩá odekle.","ka mụ aleya ọ dị mụ kọkọrọ ị kọtoo sọọ, ọbụkọsọ ha mụ aleyi dị",1.0769,0.5625
+828,"Yesu lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Mɩ ɛ nfɩtɛ mlɩ asʋn kuakʋlɛ.",yɛsɛ lala mɔnɔ ɔbɛɛ niɛ nfita mli asukuu akwɛ,0.9091,0.3846
+829,"Mʋtɔdwɛ anɩ, ɔlɔpʋ mʋ obugya ka anɩ nwunsʋ ɩkɔ, si anɩ lakpan kie anɩ.",Mota dị 11 ọlụpụrụ obuje aka 11 nsuko si 11 lakwaa nke 11,0.9286,0.5926
+830,"Mʋ brɛsʋ bɛkɩta Israelfɔ, hɩɛ amʋ́ bɛɛ bʋyetsia Babilon ɔmátɔ nɩ.","Mọ́bẹ́ sọ bẹ́ẹ̀ kọ́tà Israel fọ́, sí àmọ́ bẹ́ẹ̀ gbu yéti Babylon ọmọ tọ́ni.",1.2727,0.5
+831,"Tamɛ ndɛfɩtɛ mbɛɛ, nɩ mɩ, Nyankpʋsa-Mʋ-Bi anfɩ neyinki ba a, nówun ahogyipʋ akʋ ɔsʋlʋ anfɩsʋ?","Ndi be anyi, ndewo nu. N'ime nyankwusa m bu ihe mfe, na nkiti baa, na onweghi ihe jikoro m na ya. O soro m",1.6,0.7671
+832,"Aha amʋʋ bʋdedunka ánɩ́ bégyi asʋ aha ansɩtɔ amʋ lɩɩ mlɩsʋ bɛɛ, mlɩha abʋtɩn mlɩ kete nɩ.","Aha m bụ onye na-ebe ji asọ, aha m sitere na mmiri so bee. Mmiri ha bụkwa timikiti",0.9412,0.6857
+833,"“Mɩ Wie, fʋlɔwa ɔsʋlʋ ntswɩasɩ brɛá fefi ɔyɩ asɩ.",Mewie follower or slow interest,1.0,0.7368
+834,Ɔmɛha atɔ ɔfɛpʋ ɔkʋkʋ ɔsʋra mʋ atɔ fɛhɛ ka tsʋn Ɔtswɛkpa wunsɩnɛsʋ ɩnʋ kʋraa.,Ọmụhà atọ́ fẹ́ pụ́ àkókó ọ́sụ́rà mụ́ atọ́ fẹ́ hẹ́kà àtụ́. Ọ̀tụ́ èkpàwụ́ sínè sụ́ ụnụ́ kụ́rà,1.2143,0.5873
+835,Bʋtegyi anɩ Wie Bulu mbla pʋ́ mʋ nhɩhɩɛ fɛ́ɛ́sʋ pɛpɛɛpɛ.,,,
+836,"Ɔtsawʋlɛ pɛ a, olu kʋá igyi fɛ afu kpɔnkpɔntɩ lotsu ɔsʋsʋ bɔbʋla woyi amʋʋ bʋbʋ mʋ́tɔ amʋ.",tawlepeya olukwa iji ha afu kpomkpomti lochu osuso gba obara weyi amu gbugbo moto,0.9412,0.5211
+837,"Tamɛ anɩyin ánɩ́ Kristo ɔba a, abɛ́lɩan mʋ, tsufɛ abówun alɩá ogyi.","Ta me ani yane Kristo oba, abɛniamu tufe agbonu ali oji.",1.0,0.3922
+838,"Brɛá ɔhaa má amʋ́ wa a, ɔlɛdamli kɩ amʋ́, bla amʋ́ ɔbɛɛ, “Mlɩ mʋ́ a, Bulu layula mlɩ, mlɩdɛ atɔ anfɩ wun.","M'le m'wa, m'le de atua m'fi",1.0,0.8493
+839,Tamɛ ɩmɔwa ɔpá kʋkʋ afu kpɔnkpɔntɩ kʋ lɔkʋsʋ tsu Kreta ɩfʋnsʋ.,Toma emuwa opa koko afukwanu nkwu nteko lokosu chu creator Ifeanyi,1.0,0.5686
+840,"Botsula ánɩ́ mɩa Barnaba ayɔ agyʋma aha ánɩ́ bʋmegyi Yudafɔtɔ, amʋ́ ɛ abʋyɔ agyʋma Yudafɔtɔ.","Bụchịla ndị na-abaghị anyị uru n'ajụma, aha ha bụ mejuo ụdị afọ tọ. Amaghị m ma ị bụ onye ajụma ụdị afọ tọ.",1.4667,0.726
+841,"Nɩ mɩ onuto lɛblɩ mbɛɛ nɔ́bwɛ mʋ́ a, tɛkɩ Bulu ɔbɛ́da mɩ ɩpan.","Nne m, unu tōla ebele mbe na ogbe mụwa, taa ka ị bụrụ obodo ama ịpa",1.2308,0.6889
+842,"Yosef anfɩ otsu Kipro ɔmátɔ, sumbi ayɔpʋ bɛha mʋ ɩda Barnaba.","Joseph a fait au tout Kipuru omato, sumi ayo pobe hamu ida banaba, masi ti aha ateto onli owapu.",1.7273,0.898
+843,"Nɩ owun mʋ́ a, ɔbɛ́tɩ mʋ apio aba, bla amʋ́ ɔbɛɛ, ‘Mlɩha anya ansigyi.","n'onwa obughi etinye puo aba, belu ma o bu na m lere ha anya m si",1.0714,0.6327
+844,Anɩ Wie Yesu Kristo ogyi mlɩ bʋalɛ.,ani ye yɛsɛ kristo jimle bɔlɛ,0.8571,0.3929
+845,"Tsufɛ ɔhaa tamalu mʋ ɩwɩ, bʋla ɔtɛbʋla mʋ ɩwɩ, kɩ mʋ ɩwɩsʋ wanklaan fɛ alɩá Kristo ɛ tɔbwɛ ha ɔpasua amʋ.",ߒ߬ߓߊ߬ ߤߊߟߌ߬ ߕߊ߬ߡߊ߬ߟߌ߬ߞߊ߲߫ ߦߋ߫، ߓߊ߬ߟߏ߬ߞߊ߲߫ ߦߋ߫، ߞߏ߫ ߡߐ߰ ߦߋ߫ ߛߏ߬ߛߏ߬ߞߊ߲߫ ߝߐ߫ ߊ߬ ߟߊ߫ ߞߊ߬ ߓߍ߲߬ ߊ߬ ߕߐ߮ ߡߊ߬.,1.0,1.0
+846,"Ɩlɛkana ánɩ́ nósusu mlɩ fɛ́ɛ́ ɩwɩ alɩ, tsufɛ ntɛhɩɛ dwɛ mlɩ.",le canari nosu sumle fawiyali,1.0,0.6667
+847,"Fɛtɩn kete ntɛ fʋmɛtɩn, ɔkpʋtɔpʋ ntɛ okudasɩyin, ɔkpábi ntɛ ɔdɩhɩɛ fʋgyi.",Fɛɛ tin kɛ tin tɛ fɛɛ mɛɛti. O kuta pu nte o kudasii. O kabi nte o di si e fuji.,1.9091,0.4833
+848,"“Ntɛ nɩ ɔtsɩ ɔkʋ bʋ sika fututu idu, mʋ́tɔ kʋlɛ lafwɩ a, omóonywɛ ɔkandɩɛ kɩkɩ mʋ woyitɔ wanklaan, kpakpa ntobitɔ kɩ, fɛɩ woyi amʋtɔ wanklaan yɔfʋn brɛá alawun mʋ́?","ntee, na otu a ka o bu osika fututu di. Moto kwụrụla afọ ya, ụmụ nwanyị ọka na ya, kiki na eweghi otu nwankaa, kpakpando bito kee, eweghi ya moto nwankaa, ya fụ mberede ala",1.1724,0.5703
+849,"Amʋ́ lowu amʋ igyi ɩsʋá Bulu labɩtɩ amʋ́ ɔyʋlʋ, fɛ alɩá ɔtɛbɩtɩ ɔhagyiɔha ɩsʋ.","Amu luwa mu iji soa bulu la bete ya mu oyolu, fele ya ote bete ohaji oha",1.1429,0.4918
+850,"Mʋʋ ɔlɛbla mʋ akasɩpʋ amʋ ɔbɛɛ, “Mɩ Sɩ lapʋ togyitɔ wa mɩ ɩbɩtɔ.",M'n'ɔlɛ blama akasɛpɔ a m'n'ɔbɛ.,1.0,0.6327
+851,Mlɩ ɛ asʋn ánɩ́ mlɩlonu tsu mlɩ sɩ wasʋ mlɩdegyi.,Nye aswani m mere unu tu me si wa so m mere,1.2,0.6053
+852,Ɔbʋnsam gyi mlɩ sɩ.,"m'o sọ mi te clear m'o gbọ, t'o wa m'o",2.5,1.4
+853,"Mʋʋ Petro lɛbla Yesu ɔbɛɛ, “Osunapʋ, ɩbʋ alɛá abétsia nfɩ.","M'pɛtrɛlɛ bla yɛ su obɛɛ? Osu na apu, ebuareɛ a abɛchia",1.1,0.4
+854,"Ɔha ánɩ́ olohogyi, bɔbɔ mʋ asu a, Bulu ɔbɔ́hɔ mʋ nkpa, tamɛ ɔha ánɩ́ omohogyi obégyi pɔn.","Ohanézèé oji, gba bọ mụ asụ a, gwa ọgbọhọ mụ nkpa, taa mụ ohanézèé oji, obi ji",0.8824,0.5909
+855,Ɔlɛbla amʋ́ ɔbɛɛ bʋpʋyɔ agyʋma yɔfʋn ɛkɛá mɛ́ba.,"O le bla mọ bẹẹ, bọpụ yọ ajọma, yẹ fụ eke ya mọ",1.625,0.5789
+856,"Mɩ apio, mlɩ sʋ ndɛpʋ mɩa Apolo tsiatɔ suna mlɩ atɔ, mɛnɩ mlónu mʋ́ amʋʋ aha bʋtɛblɩ bɛɛ, “Mlɩmányankɩ tɔá bɔwanlɩn tswɩsʋ” amʋ asɩ.","Mepụo, m na-esote gị, mepụo ụlọ ihe nkiri a ka ọ sụọ m na-atọ. Mụ na gị ga-anọkọta kpaa nkata tupu anyị lakpuo.",1.0,0.7941
+857,"Nyankpʋsa-oyi ɩwɩ atɔ ɩtsɔ, tamɛ mʋ́ fɛ́ɛ́ lɔbwɛ nyankpʋsa amʋ.","Nyankopɔn soyi yɛn atɔro, na m'emmu fɛɛro bɛɛ Nyankopɔn asɛm.",1.0,0.5
+858,"Brɛá ɔdɔm amʋ bonu Yesu asʋn blɩhɛ anfɩ a, amʋ́tɔ akʋ bɛblɩ bɛɛ, “Lɛlɛ, Bulu ɔnɔsʋ ɔtɔɩpʋ amʋʋ anɩdɛ mʋ ɔkpa kɩ amʋ nɩ.","Bịa, ọdịmma, a gbọlụ m ya asụmbeleghị afịa, a mụta akụba bụlụ be Lelee, ọ nọsọ otu a ịkpọ amala ịda mụọ kpakị ya mụọ na",1.0417,0.6333
+859,Mʋ́ nkalɩ ɩlɔbwɛ asa anɩdenuá bʋdɛ anɩtɔ okugyiɔkʋ wulutɔ ɔblɩ blɩ?,"Mụn karịrị afọ iri na abụọ dị anị tọọ kụjọkụ, nwuru tọọ ebiribiri.",1.1818,0.7273
+860,"Nowun bʋtɩ kpɔnkpɔɔnkpɔntɩ ɔkʋá ɔlɛpɛ, ɔbʋ nwun asienɔ pʋ́ nsiebi du.","Nno, wete kpọmkwem te, ọkwa ọlepe, ọbụ asị nọ fụ nsị ebido",1.0909,0.625
+861,"Ɩnʋ ɔlɛfɩtɛ aha amʋ ɔbɛɛ, “Mlɩtɔ ma mʋ bi ntɛ mʋ ɔnantswie ɔbɛ́kpada wie ibuntɔ ɔkpʋnʋ ɔdakɛ, ɔmɔ́ɔkɔsɩ lɛ mʋ?","Nụ olileanya ahụ ọbụ e. Mụ na ụmụ m bi. Mụ na ụmụ m bi. Ọbụkwa na-ewie igbu ntọ, ọkụ nọdake. Ọmụọkọsị",1.05,0.6353
+862,"Nɩ igyi Bulu apɛá fʋwun ipian kʋraa a, ɩbʋ alɛá fówun ipian yilebwɛ sʋ, dʋn ánɩ́ fówun ipian lalahɛbwɛ sʋ.","na-ejikọta afa na-efu mpia kụraa, e gbochie afa na-efu mpia, ilegboesò dozie afa na-efu mpia lara ahịa gboesò.",1.0,0.7108
+863,Tamɛ fʋ mʋ́ fʋtamatsɛ.,Ta me fuo mu ota ma che. Fuompa mo mu eno eke ke ke. Bulu me bla mu obopu okuku obae. Chi amejopiso ya fu mbra no pu,7.0,4.4706
+864,"> Ndɛ mlɩ bla mbɛɛ, alɩ ansɩ bɛ́hɩɛ gyi Bulu-abɔpʋ nɩ lakpan ɔbwɛpʋ ɔkʋlɛ ɔdamli klʋntɔ nɩ.","Ndam n'ebe a m be, ale anụ si be ya ji buru agbọpụ, na-adịghị akpọ ngbọpụ ọkụrụ, ọ dam n'ikwe ntị.",1.3125,0.6
+865,"Ɩbʋ mʋ́tɔá mlɩmɔkʋwun Yesu kɩ, tamɛ mlɩtɔdwɛ mʋ.",BOMOTO ANE MLIMBOKU YESU KE TAME MLITO DEMA,0.875,0.5
+866,"Mlɩmátra mlɛ aba, ntɛ bwɛ apinabwɛbi.",Mle matra mle abba enthe gwe apinagwe,1.1667,0.4
+867,"Ɩfa towu, mʋ́ ntswɩtswɩ tɔbʋ kpakpa, tamɛ anɩ Wie asʋn amʋ mʋ́ bʋ ɩnʋ brɛ fɛ́ɛ́tɔ.",de fait où non tu es ton beau papa,1.0,0.8333
+868,"Brɛá ɔlɛblɩ asʋn anfɩ ta a, ɔlɔpʋ mʋ ɩbɩ pʋ́ mʋ ayabi suna amʋ́.","Bia, o na-ebe akwa mfe taa. O luo gi, o luo gi.",1.0,0.7872
+869,"Tamɛ akʋ babla amʋ́ bɛɛ, fasuna Yudafɔá bʋbʋ ɔmá bambasʋ fɛ́ɛ́ fɛɛ, bʋmágyi Mose mbla amʋsʋ.","Ta mụ a kọwaara gị na ụbọchị ahụ, a na-ebogbu ọmaba mba sọọ feefee, gị na Jimosi mberede amụsa.",1.1875,0.6338
+870,Alɩ kɛn ɔhagyiɔha ánɩ́ ɔma Bulu mʋ Bi amʋ má nkpa ánɩ́ ɩtamata nɩ.,"Alekaya ha ji haa ne, o ma buru mu bi ya mu maa nkpaa ni taa mataa ni.",1.2143,0.38
+871,"Yudafɔ ahandɛ amʋ bɛfɩtɛ bɛɛ, “Mɔ ɔbɔ́mɔ mʋ ɩwɩ, sʋ ɔdɛblɩ ɔbɛɛ, mlɩmɛ́ɛtalɩ ba ɔtɩnɛá nɔyɔ?",So the,1.0,0.9714
+872,"Mʋ klʋn mɛ́ɛha mʋ ɩpɔn, obénya agywɩɩn wanklaan mʋ́a hogyi onuto.","Mụ kụrụ mmanụ ha mụ pụọ, ọ bụ ya ajụrụ m nwa nklá mụ ahụ ji onu",1.5455,0.5686
+873,"Tsufɛ ilehian ánɩ́ Kristo obégyi iwie kpɛfʋn brɛá alagyi mʋ alupʋ fɛ́ɛ́sʋ, pʋ mʋ ayabi tsa amʋ́sʋ.","Tu vas les lire en écrivant le verbe jurer, que forme-t-il à la gymale pour faire sous, pour moi, il a bichonné.",1.2941,0.8289
+874,Onumnyampʋ Tiofilo: Aha tsɔtsɔɔtsɔ babɔ mbɔdɩ wanlɩn tɔá ɩlɛba anɩtɔ tswɩ.,"Aha chọchọ chọ ba mmụọ nsọ, nwa ntị ịleba anya ịtọchụ",1.0,0.7742
+875,"Nɩ ɔkʋ ɔbɛɛ, mʋyin asʋn dʋbɩ a, ɔmɔkʋnya bɩ tɔá idehian.","Ọkwa ọbụ ya mere anyị ji asị na obi a, ọmakwa na ya abụrụ na ehihie",1.3636,0.8372
+876,"Ɩnʋ aha ánɩ́ Bulu lalɛ ɔbɛɛ, bʋnya nkpa ánɩ́ ɩtamata bɔhɔ asʋn amʋsʋ gyi.","Nno, ahanị bụrụ lale ọbụ ya bụ nya nkpa anị tamata kpọhọ asụ amusu.",1.0,0.4643
+877,"Elisabet lenya nu itsia amʋ alɩ kebi amʋ lɛkan ɩwɩ mʋ ɩwɩtɔ, Ɔŋɛ Wankɩhɛ lɔbʋla mʋtɔ.",Lisa Bed lenya nu ichi ya mu ali ke bia ba leka eri mu owerito. Onye ma nke ya ga-alogbela mu,1.1875,0.5441
+878,"Afunupʋ tsɔtsɔɔtsɔ bɛdalɩ ba, tamɛ amʋ́ fɛ́ɛ́ ɔnɔ lɔtsʋn ɔtsan.",Afo nu putu tu tu o beda na eba. Tame amufe onu rotu ota.,1.4,0.551
+879,"Bɛtɩ amʋ́ aba ɩsa akɔpʋ atrahɛ amʋ fɛ́ɛ́, bɛda Yesu ɔbʋn.",bịa tee aṅwa ba ịsa kọpụa trahịam fẹẹ. Bẹdaa Yesu ọbụ. Bọpụrụ ịga pẹpekụ wa mụ. Bọlụ ọbụ njọ awụ. Gwemụ owie pa gbumụ. Ịnụbọ gwe,2.2727,1.7381
+880,"Bulu lɛha ɔbwɩ nyɔsɩ anfɩ ɔkpa ánɩ́ ɔwa ɔkpɩ amʋ ɔŋɛ, fówun ɩbɛ́talɩ tɔɩ.","Gwa na ha na ọ bụghị naanị ya mfe, ọkpa ana, ọwa, ọkpụ amụ, ọnụ, ibe taritọ",1.2143,0.7143
+881,"Bɛbla mʋ bɛɛ, “Yesu, Nasaretyin amʋ ɩwɩ asʋn igyi.",Yesu,0.8889,0.8947
+882,"Safira lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Ee, alɩ anɩlenya nɩ.","Safiira, lelemu onoo bee?",1.0,0.6471
+883,"Mʋ ɔbɔ́wankɩ wʋlɩ okluntɔ atɔsʋ, lɛ anɩ agywɩɩn ɔwan, asa Bulu ɔbɛ́kanfʋ ɔhagyiɔha alɩá ilehian nɩ.","Mụ abụọ na nke weere okrutu atọ sụọ, lee anya jụọ onwe ha, asaa bụrụ ọbụka ha fụọ ha jụọ ha lee anya hịa.",1.5,0.6582
+884,"Tamɛ nɩ ɩba alɩ a, nkalɩ ɩbɔ́bwɛ asa Bulu asʋn wanlɩnhɛ amʋ ɩbɛ́ba mʋ́tɔ?","Ta mane baale ya, nka na igbo bu ogu ya saburu asu, nwere ihe a maobu ebe a mutara",1.3571,0.5818
+885,"Tsufɛ nɩ fʋdɛ nyankpʋsa ɔyʋlʋ anfɩ hɩɛ a, labi kpalobi kʋ bʋ mʋ́tɔ.","Ife anyi furu na Nyankusorowa mfe here, laa bikko na obi ko bu mma.",1.0769,0.6731
+886,"Olosuna amʋ́ atɔ ɔbɛɛ, “Bʋmɔwanlɩn wa Bulu asʋn wanlɩnhɛ amʋtɔ bɛɛ, ‘Bɛ́tɩ mɩ ɔtswɛkpa bɛɛ, ɔmá fɛ́ɛ́ mpaɩ ɔbɔkpa?","Oluwa sun ninu aba e. Gbogbo nwon wa gburu asu, nwon ri he amuto ba e. Beti ni o tu ekpa ba e, omafe mpai obo",1.3158,0.593
+887,"Mʋ́ sʋ nɩ anɩdɛ Bulu dwɛ, anɩdɛ mʋ mblasʋ gyi a, mʋ́ abɔ́pʋbɩá anɩdɛ mʋ abi dwɛ nɩ.","Mụ sọrọ ya na ekwentị ụnyaahụ, ọ gwara m na ọbụghị na ọ na-ede akwụkwọ ozi.",1.0,0.8333
+888,Tsufɛ Bulu mɔkʋbla mʋ abɔpʋ amʋtɔ ɔkʋkʋʋkʋ kɩ ɔbɛɛ.,Tu fais le mot que blâme à propos à moto ok ok obé.,1.4444,0.7619
+889,"Bɛbla mʋ bɛɛ, “Owisʋ amʋ lesi mʋ igye ɔpa ɔdɔ-kʋlɛtɔ.","Eblamo be. Owi so amulesimo, ije oporo kleta",1.0,0.45
+890,"Ɩlɔwa ɔnlɩn asa bɛtalɩ tsu ɔklʋnbi amʋʋ bʋtɔpʋlɛ aha ánɩ́ bʋdɛ ntsu wie, isian ntsusʋ-yibi amʋ ɔma amʋ wa yibi amʋtɔ.","n'ọwa ịntanetị a saa, kpetaa litụ okurubị a mụ bụtopule aha a na-egbude nchọwịe, isi ya nchọsọ ibi, mụ ọma mụ wa ibi, mụ",1.0476,0.5806
+891,Asʋn anfɩ ndɛ mlɩ bla anfɩ kɛn ndɛ ɔyɩtɔ aha fɛ́ɛ́ bla nɩ.,"A swanfe, nde mli bla mfe keen nde ayito ahafe bla.",0.8462,0.4186
+892,"Mʋʋ bɛfɩtɛ mʋ bɛɛ, “Osunapʋ, ɩnɩá anɩdɛ ntsu wie a, fʋmotsu kʋkʋ lɛ mʋ́tɔ?","Moo bɛ fɛta mɔɔ bɛɛ. O zunapu, eni ani dɛntu wiya fɔ mɔɔ chukukula mu",1.0,0.4545
+893,"Asʋn amʋʋ bɛbla obu adɩpʋsʋ ɔkɩpʋ amʋ sʋ ɔlɔpʋ amʋ́ yɔtswɩ obutotɔ, wa amʋ́ ayabi kplakitsi.","Aso amun be bla obu, adeposo okepo amuso. Uropo amu yo twe obu toto, wamu aya bi kpakiche.",1.0625,0.3836
+894,Tsufɛ ɔha ánɩ́ owun ɩwɩɔsɩn lalɛ mʋ ɩwɩ lɛ lakpantɔ.,"Tu fais, chérie, on va se laisser mot et on va le",1.2,0.8049
+895,"Ɔbɛɛ, “Kɩ, obitebiá ɔmɔkʋyɔ oyin wa kɩ obénya ɔmɛ́.","Obè ke, ebi te biene omokoyo oinwa ke obè ya",1.1111,0.5
+896,Bulu lɛlɛ mʋ asʋn ŋainhɛ amʋʋ ɔlɛkɩklɩ yaɩ amʋ ɔwan suna mɩ.,"Lɛlɛ ma sunya, n ya mɔɔ la kɛkɛlɛ ya ya mɔɔ nwa su na",1.1667,0.4583
+897,"Mʋ́ sʋ nétsia mlɩ wa abɔ́yɔ agyʋma amʋ, mɛnɩ mlɛ́dan, nya ansigyi mlɩ Kristo hogyi sʋ.",M'asɛne kyerɛɛ me wa abɔ yɛn adwuma mu. Me nimrɛda Nyansapɔw Kristofoɔ,0.9375,0.5385
+898,Ɩnɩ sʋ ɔhagyiɔha lɔyɔ ɩda ɔwanlɩnkpa mʋ onuto wulutɔ.,"Nne, so ohajiọha lụọ, daa onwa n'ikpa m, unu too, unu",1.2222,0.5227
+899,"Yudafɔ ahandɛ, Bulu igyi ahapʋ dɛhɛn pʋ́ Mose mbla asunapʋ fɛ́ɛ́ békina mɩ bɛɛ, megyi mɩgyi Kristo amʋ.","M'aduru 400, m'aduru 400.",1.0,0.9
+900,"Kristo gyi fɛ okufabiá ɔlɔfʋn ha mbusuo kugyikʋ lɛ, pɩna kʋkʋ ɩma mʋ ɩwɩ.","Kristo ji fe ku fa bia, olofu ha musu oku ji kuli, pi na kuku ma mu",1.0714,0.3621
+901,"Yesu lɛlɛ mʋ́ ɔnɔ ɔbɛɛ, “Nfɩtɛ mlɩ asʋn kuakʋlɛ.",Yesu la la mụ na ọbụ e. M fịtam na asụkụ akwụkwọ,1.2222,0.5833
+902,"Brɛá oleyinta atɔ amʋ ta a, akʋn kpɔnkpɔntɩ kʋ lɛba ɔmá amʋtɔ, ɔlɔwa akʋn dɩ bɩ.",Bụrụ na ọlịnta tụọ mụta akụkpọ nkpọnte kụrụ ebe ọma amụta ọ rọwa akụ ndụ,1.0,0.5161
+903,> ” Yudafɔ Asʋn Agyipʋ amʋ fɛ́ɛ́ besi bʋdɛ Stefano kɩ diin.,Yulafo a son a di pour à mon frère,1.0,0.7442
+904,"Tamɛ bɔmɔ mʋ, mʋ abuopʋ fɛ́ɛ́ bɛdasaɩn, mʋ bwɛhɛ ɛ fɛ́ɛ́ lowie ntsu.","Tɔ ma e bɔ mɔmɔ, mɔ agbɔ pɔ fɛɛ be dasaayi, mɔ ba he fɛɛ lo wiɛ ntsu.",1.1538,0.3878
+905,"Nɩ ohogyipʋ yinhɛ tsia ɔtsɩá omegyi ohogyipʋ, tamɛ ɔtsɩ amʋ latsula ánɩ́ mʋa mʋnyɔ bétsia a, ɔmákina mʋ.","Nnewi bụ obodo ịhe, chi a ọchi a o mejuo ịhe ịpo. Tupu ọchi a mụla chụla nị mụa mụọbe chi a, ọmakịna",1.2778,0.6386
+906,"Sara mʋ́ gyi ɔdɩhɩɛ, ɔlɩɩ ha ɔsʋsʋ Yerusalem.",Sara muji yadi siye oli ha susu Yerusalem,0.625,0.4571
+907,Asʋn anfɩ gyi asʋn wanklaan amʋʋ mʋ́ ɔkan adapʋ bɛda suna mlɩ amʋ nɩ.,Aswan Fiji Aswan,1.0,0.7963
+908,"Mlɩlowun ipian mlɩ pɩ ɩbɩtɔ, fɛ alɩ amʋʋ amʋ́ ɛ bowun ipian amʋ́ pɩ Yudafɔ ɩbɩtɔ amʋ.","M'lọ ụmụ nwanyị mụ na ha bi bido, ihe anyị na-eme, anyị na-agba ụmụ nwanyị mụ na ha bi ụda for bido ha.",1.3529,0.9231
+909,"Ɩnʋ olotsu nta-ɛwɛ, ɔlɛda Bulu ɩpan, pʋha amʋ́ ɔbɛɛ, “Mlɩ fɛ́ɛ́ mlɩhɔ amlɩnun.","Miri fee, miri hụ, a miri ṅụọ.",1.0,0.9298
+910,"“Wanlɩn tɔá fawun bɔtsʋn, mʋ́á ɩdɛba sei pʋ́ mʋ́á ɩbɛ́ba ɔma wa ɔwʋlʋ amʋtɔ.","Mɔɔnɛ tɔɔ faa wu bɔtu, mɔɔnɛ i dɛɛ baa se yi, pɔ mɔɔnɛ i bɛɛ baa, ɔma wa o wulu amutɔ.",1.3571,0.5536
+911,"Mlɩmákɩ mlɩaa aha anfɩ babʋ, tsufɛ ɔyɩ mɔkʋkɛ.","Mlefe a mle bu Jerusalem, mle he ya asu anle asu ntosu na mle. Mle make mle a ahanfi ba bu chufe imoku",2.875,1.6757
+912,"” Bɛblɩ mʋ́ alɩ, tsufɛ bowun Efesoyin ɔkʋá bʋtɛtɩ mʋ Trofimo mʋa Paulo wulu amʋtɔ dodo.","Bụrụ na mụ na Ali, Tuface Idibia, Omawumi, Timi Dakolo, Waje, Praiz na Paul Play Dairo",1.0667,0.8235
+913,"Mlɩmátin amʋ́ ɔkpa, tsufɛ aha anfɩ odu bʋ Bulu iwiegyi amʋ nɩ.",le matin ya m'okwa tufe a field gburu igwe eji ya,1.0,0.5833
+914,"Ɔha ánɩ́ ɔmɔhɔ Bulu iwiegyi amʋ fɛ kebi a, omóowie mʋ́tɔ.","Ohanézè mụọ, buru uzo di a mụọ feke bia, omee owu e moto",1.1818,0.5349
+915,"Ɩnʋ bɛkɩ a, mʋ ansɩtɔ dɛ ogya kpa fɛ Bulu-ɔbɔpʋ ansɩtɔ.",I na-ebe kwa? M anaghị aghọta ihe mere i ji na-ebe akwa.,1.0909,0.8333
+916,Ntra ngyi ipian amʋʋ Yesu lowun amʋ ɩwɩ adansɩɛ ogyipʋ.,"M'bɛn'na n'biyamo, yɛsuluwa mɔgɔwɛ dance yɛ",1.0,0.6667
+917,"Mlɩmátsia nkpa fɛ aha mimlahɛ, mboun mlɩtsia fɛ atɩansɩpʋ.","N'ye m'a ti yan pa fe ha mi m'na he, m'gbo m'ti ya fe ti an se",1.8889,0.4792
+918,"Ɩnɩ sʋ ilehian ánɩ́ ɔtsɩ ɔbɛ́klɩ nwun, pʋsuna ánɩ́ ɔbʋ tumi asɩ, tsufɛ Bulu-abɔpʋ bʋdɛ mʋ kɩ.","n'isi n'ihe a na-achọ bekee pụsụ na ya bụ two years, ihe a bụrụ abụọ pụọ bụrụkwa",1.0,0.7429
+919,"Ɩnʋ ɔlɛbla amʋ́ ɔbɛɛ, “Mlɩlapina si Bulu mbla amʋ tswɩ nyansatɔ, mɛnɩ mlégyi mlɩ onuto amandɩɛsʋ.","Mla pị na-asị bụrụ mla mọtụ ya nsato, mụ na mụ eji mụ nụntọ ama ndị ya",1.0625,0.5974
+920,> Ɛkɛkɛɛkɛ!,O tena osu mpa mopa obe alagbato amu wa mugbe ekeke,11.0,5.0
+921,"Nɩ ɔha ɔbwɛ agywɩɩn ánɩ́ mɔ́bwɛ ɔpasua ɔhandɛ a, alakle agyʋma wanklaan.","Nno, ọ bụ ya jọrọ anụ n'ime ọgbè, ọ pasịrị ha dị ya. Alakiri ajụma nwa nkịrị",1.4167,0.6491
+922,Tamɛ oyin amʋ lekleá obósuna ánɩ́ mʋ asʋn da ɔkpa.,Ta me unya mụ leklear obosuna anị m asụnda,1.0,0.359
+923,Ɔŋɛ Wankɩhɛ amʋ gyi ntswɩasɩá idesuna ánɩ́ anɩ ɩbɩ bɛ́da agyapadɩɛ amʋʋ Bulu lɛla yaɩ ha mʋ abi amʋ nɩ.,"Onye nwe anyị hụrụ jinchie anya, ịdị esu na-anọ ebe dị ajapụ dị ya mụ gburu lela ya, ịha mụ abụ ya mụ.",1.15,0.5802
+924,"Mlɩlawun aba mʋ́ ɔma, mɛnɩ Ɔbʋnsam mɛ́ɛtalɩ sɔ mlɩ kɩ, nɩ mlɩmɛtalɩ kɩta ɩwɩ.","Mụ na ụmụ mụ ma, ma na ọbụnsa metara sọọ mụ n'ike na imere mụ etara kitaa.",1.2143,0.661
+925,Ɔlɔyɔ Yudafɔ ofiakpa yesuna atɔ ɔkpʋnʋ ɔdakɛ.,Ọlịaya yị na afọ ofụya pa yọ sụ na atọ ọpụna ọdaka,1.7143,0.5263
+926,bwɛ osuna ɔsʋlʋsʋ.,,,
+927,"Mlɩgyankpa pʋ agyʋma ɩkʋ wa mʋ ɩbɩtɔ, pʋsɔ mʋ kɩ bɛɛ, ɔlala ma mʋ ɩwɩ, asa amlɩha mʋ ɔbwɛ ɔpasua ɔhandɛ ɔbʋapʋ.","N'ejighị aka pụọ, a ga m akọwa mụ banyere nsogbu nke bụ ọlala mụ wee. A sị m na ha mụọ gbuo ya pasu na ya gbuo ha",1.2727,0.6977
+928,"Anɩletsia ɩnʋ tsra asa, ɩnʋfɔ amʋ bɔwa anɩ numnyam, kie anɩ atɔ tsɔtsɔɔtsɔ.","A na-eche na ọ bụrụ na ị nụchaa ya, ị nụfụ, a na-agbawa obi na ị nụghị ya. Ka a na-atọchachaa",1.6154,0.8333
+929,Yuda amʋʋ ɔlɛlɛ Yesu ha amʋ lowun ánɩ́ baha Yesu ɩpɔn.,Ihe damu ole na ole so ha amaghi na onwu ha na-ekpa ha ihe suporo,1.2727,0.7381
+930,"Ɩnɩ sʋ ɩnɩá mbʋ mʋ wa sʋ a, megyi Mose mbla amʋsʋ gyi ɔbɛ́ha négyi asʋ Bulu ansɩtɔ.","Nne sụrụ ya mbụ muwa sụwa, mụ jị mụ sị mụ na mụ sụọ ji ọ be ha na eji asụ gburu asị.",1.2778,0.5556
+931,"> Obi anfɩ kwɩɩ bɔ́wa mlɩ ɔdwɛ, wa mlɩ ansigyi.",bɛn fɛko? Wɔ wamɛn odwe. Wamɛn,1.0,0.5882
+932,"Tamɛ Petro mʋ́ lɔkʋsʋ, tsii ɔsrɩ yɔ ntsan amʋ asɩ.","Tamè pètrumɔ lokoso, ti osiriɔ nchi amasu",1.0,0.5
+933,Anɩ apio Yudafɔ amʋtɔ ɔkʋkʋ ɛ mɔkʋtsu ɩnʋ bɛbla anɩ asʋn lalahɛ kʋkʋ tsu fʋ ɩwɩ.,"Anya pụrụ ụdị afọ, a mụta ọkụkọ ya, mọkụchụọ ụnọ gbe bụlụ anụ, a sụlụ na ahịhịa ọkụkọ chụfụọ ya.",1.25,0.7031
+934,"Mʋʋ ɔlɛbla mʋ ɔbɛɛ, “Ɩlasi toku kʋlɛá fɔ́bwɛ.",mɔ́ alɛ́ blá mɔ́ bɛ́. Ɛ́ lá sí tɔ́ kuku lá yá fɔ́ gbɔ́,1.75,0.4706
+935,” Sumbi ayɔpʋ amʋ begyi Bulu-ɔbɔpʋ amʋ asʋnsʋ.,"A y'a pɔ́ a mɔ́nbɛ́ ji blú, óbɔ́ pɔ́ a mɔ́́n",1.5714,0.6111
+936,"Tsufɛ ɔkpa anfɩsʋ Bulu dekle ɔbɛɛ, mlɩbwɛ mʋ́ nɩ.",Ife ọkpankịsị ugburu declaration banyere ya mere gbaa ya mụọ.,1.1111,1.0263
+937,"Amʋ́dɛ aha hɩɛ bɛɛ, bʋkisi atogyihɛ kʋ, bʋmátsia aka mʋ́a aklu ɛ nɩ.","Amadi hahie be bu kisi ato ji ekwu, mu machi ya aka mu akuru ya",1.1538,0.5098
+938,"Oyin amʋ pu Petro mʋa Yohane kinkiinkin Bulu ɔtswɛkpa wunsɩnɛsʋ, ɔtɩnɛkʋá bʋtɛtɩ ɩnʋ Salomo Abrandasʋ.",Onye a mụrụ pụrụ iche n'ime ụmụ nwoke hụrụ Chineke n'anya nke ukwuu n'ụdị ọchịchọ kacha nsọ. Ọ tụkwaara mbetete ịnụ Solomon abụ ala nsọ.,1.6667,0.8837
+939,"Mlɩkɩ, napʋ asʋn wanklaan ánɩ́ ɩbɔ́wa mlɩa ɔyɩtɔ aha fɛ́ɛ́ ansigyi ba mlɩ.","M'ani gye na powa somankra aane bɔwaa me a, ɔhyɛɛ tuo ahyɛɛ m'ase gyinaa me",1.1538,0.5714
+940,"Mboun ndekleá mlɩbwɛ tɔá ɩda ɔkpa, amlɩsi mlɩ ɩwɩ fɛ́ɛ́ ha anɩ Wie Yesu.",mụ onwe m na-ekele Chineke na-enye m ihe niile m ji wee fee ya na nwa ya bụ Jizọs.,1.3571,0.8909
+941,"Nteye mɩ atɔ fɛ́ɛ́tɔ du, lɛ idusɩ ha fʋ.",Ite ye mi atọfẹ tọdụ le idu si ha,1.0,0.3929
+942,"Mʋʋ ɔlɛbla amʋ́ ɔbɛɛ, “Mlɩyɔ ɔyɩtɔ fɛ́ɛ́, amlɩyɛda Bulu asʋn wanklaan amʋ ɔkan ha aha fɛ́ɛ́.","M'bɔ́ àlàblá mɔ́bɛ́ɛ. M'lɛ́ yɔ́, ɛ́yí tɔ́ fɛ́ɛ, m'lɛ́ dábúwásúwá nká mɔ́ká. Hahá fɛ́ɛ.",0.9375,0.4559
+943,"Sebedeo abi Yakobo mʋa Yohane bɔkpʋkpɛ manta Yesu bla mʋ bɛɛ, “Osunapʋ, anɩdekleá fʋbwɛ tɔkʋ ha anɩ.","Sebe di o, abi ya komo mwayo hane? Bokwukwe ma nta ya Jesu blamu be osu napo, ani de kili ya afu gbe toku",1.3529,0.375
+944,"Bulu layula fʋ, tsufɛ fahogyiá tɔá alahɩɛ ha fʋ ɩbɛ́ba mʋ́tɔ.",,,
+945,"> ” Mʋʋ ɔlɛtra blɩ ɔbɛɛ, “Tamɛ nɩ Bulu ɔkʋsʋa mɩ tsu afulitɔ a, négya mlɩ nkpa yɔ Galilea ɔmátɔ.","Mụwa etinyeela bịa be ya. Taa me, ni bulu okwu sọọmụ tụọ afụrụ itụa na ejị amịlị nkpa gaa gallery ọma",1.0556,0.6479
+946,Tamɛ anɩdenuá bʋdɛ Bulu atɔ kpɔnkpɔntɩá alabwɛ blɩ anɩtɔ okugyiɔkʋ ɔblɩtɔ.,"ta m anite nwa bu ada eburu, a tokwam kpo nti ana alagba bili anite okwu joku obili",1.6364,0.5556
+947,"Mʋ́ sʋ ndɛ mlɩ bla mbɛɛ, mlɩha Ɔŋɛ Wankɩhɛ amʋ ɔkpa mlɩ.","Mụ sị ndamụ na mbụ, mụ na nwanne m nwoke ya mokwa",1.0,0.6905
+948,"Yesu lɛfɩtɛ amʋ́ ɔbɛɛ, “Bʋtonywɛ ɔkandɩɛ pʋ ɔlɔ bun mʋ́sʋ, ntɛ pʋwa mpa ayasɩ?","ya si na ya mụọ be ya, bụtọ nye ya ọka nri ya pụọ ọrụ ugbo ụbọchị nta pụwa mpa ya si",1.5,0.6949
+949,"Kwasieda, igyi ndawɔtswɩtɔ ɛkɛ gyankpapʋ bakɛ a, atsɩ amʋ bɔkʋsʋ tsu afa amʋʋ bɔkwɛ yaɩ amʋ yɔ Yesu ntsan amʋ asɩ.","Kachịịda, iji nnaa chụịta ekpere dị mkpa maka ya. Achọrọ m ka unu soro chụọ afa mụ kpọkọọ ya amụ. Yọọ Jisọs ncha amụ asị",1.1429,0.7143
+950,"Yesu lonu mʋ asʋn blɩhɛ anfɩ a, ɔlɛbla mʋ ɔbɛɛ, “Toku kʋlɛ ɩlasi ánɩ́ fɔ́bwɛ.","Tokokore, il a signé",0.9333,0.8421
+951,"Mʋʋ mʋ akasɩpʋ amʋ bɛfɩtɛ mʋ bɛɛ, “Osunapʋ, brɛ mɔmʋtɔ ɩnɩ fɛ́ɛ́ ɩbɛ́ba?",Osunapo,1.0,0.8868
+952,Ɩnɩgyi atɔá Bulu lɛha Yesu Kristo lɛlɛ suna mʋ asumpʋ tsu tɔá ɩbɛ́ba nkɛ anfɩtɔ ɩwɩ nɩ.,na-enye ya otu a bụrụ na ha a Jesos Kristọ na-esu na amụ asụ mpo tupu otu a ebe e ba nke anfịtawụlị,1.3529,0.5797
+953,Ɩlɛba mʋ́tɔ fɛ alɩá Bulu ɔnɔsʋ ɔtɔɩpʋ Yesaia lɔwanlɩn wa mʋ ɔwʋlʋtɔ ɔbɛɛ.,"Na bamu tafi Aliya bulu ba, nasan to anipu ya zai aluwanwa mu, o wulu to be",1.2308,0.5424
+954,"Alɩ anfɩ fagyi mɩ ɩwɩ adansɩɛ Yerusalem nfɩ a, alɩ kɛn fʋyegyi mʋ́ Roma wulutɔ ɛ nɩ.","Anya m ji fa di mma, ya adị m mfe a, a na-ekene Chineke fụrụ ya dị mma uru too ya ni. Mụ onwe m dị mma, ụlọ afọ m akọbeghị, kita pụrụ iwe ajụjụ, beka nta m bịa",2.2353,1.4
+955,"Ɩnɩá mlɩlahɔ Kristo Yesu gyi ánɩ́ mʋgyi mlɩ Wie sʋ a, mlɩyɔ mʋ́sʋ mlɩa mʋnyɔ amlɩbwɛ kʋlɛ.","Ɛne yɛn mpaeɛ ho Kristo Yesu di, Aane mu gye m'adwene so a, m'enyɛ ɔsom na munyua m'ebɔkɔɔ.",0.9412,0.5429
+956,Aha ánɩ́ bʋbʋ ɩnʋ fɛ́ɛ́ bowun mʋá ɔna ɔdɛ Bulu kanfʋ.,"Ahanepu bu onu fe bu ngwu, ana ya ona ode buru ka",1.0909,0.5641
+957,"Bɛkɩta Yohane tswɩ obu ɔma a, Yesu lɔyɔ Galilea ɔmátɔ, ɔdɛ Bulu asʋn wanklaan amʋ ɔkan da.",Bɛkita Yohana 1:1-18,1.0,0.8451
+958,"Anɩ onuto anɩlanu, anɩlawun ánɩ́ lɛlɛ oyin anfɩ gyi ɔyɩtɔ Nkpa Ɔhɔpʋ amʋ nɩ.","Anyị ụtụtụ alanụ, alawụ. A na-elele onye afịjị etu ịkpa ọhụrụ amọnụ.",1.0,0.6
+959,"Ɔbɩtɩ amʋ́ ɩsʋ, mɛnɩ bɛ́bɩá imehian ánɩ́ fɛ́blɩ Bulu ɩwɩ abususʋ.","Mbe ti a moso, me ni be bia me hi ani fele buru we agusu so.",1.4545,0.449
+960,Alaha mʋ́ ɩlaba mʋ́tɔ sei tsʋn anɩ Wie Kristo Yesusʋ.,Aha mụ na abamụtọ sị ịchọọ anụrị ya Kraịstị Jisọs.,1.0,0.6098
+961,"Ɩnɩ sʋ ndekleá asʋrapʋ amʋʋ bʋmɔkʋdan amʋ bʋwuna tsia aklu kwɩɩ abi, abʋkɩ amʋ́ woyisʋ, mɛnɩ bʋmɛ́ɛha anɩ alupʋ ɔkpa abʋblɩ anɩ ɩwɩ asʋn lalahɛ kʋkʋ.","Mene si na klas rapu amuma okwu damu bu na chi akuru kwa ya abi. Abukiamu we iso, mene bu m ha na alupo okpa abublia na we asu na lahi",1.1538,0.4874
+962,"Mʋ́ ɔyɩkɛhɛ bakɛ a, Yesu lɛdalɩ wulu amʋtɔ yɔ ɩtsɛtɔ ɔdɛ mpaɩ bɔ.","I ga-abịa ya. Yesu ledaalụ ịrụ a mụ tọọ ya ọchị tọọ, ọ dị mma ịghọta",1.1538,0.76
+963,"Omegyi atɔ, omonun tɔtɔ ɛ alɩ brɛ amʋtɔ.","Omenala ato omu nu to nwe alibra amuta Alibra amuta wa, Jesu okasi pu oku bu Damasco, nwetete mu ana ni ya. Oru nwa ato, mutua, anyi nwe Jesu lokpo ni",3.875,3.129
+964,"Tsufɛ nɩ isin mlɩtɔ a, mʋmʋ ɩkʋlɛbwɛ bétsia mlɩa Yesu pʋ́ Ɔsɩ Bulu nsɩnɛ.","Tufani isi mli towa, momo ekulegbe ebe chi ya mli a Yesu po osi bulu",1.0,0.4737
+965,Tamɛ ɔha ánɩ́ ɔlɔhɔ mʋ Bi amʋ lahɔ mʋ Sɩ amʋ ɛ.,"Kà mụ ṅa-aṅụlụ ọlụ ọmụbị, a mụrụ mụ na",1.0,0.7647
+966,"Brɛá ɔŋɛ lalahɛ amʋ lɛdalɩ a, oyin amʋ lɔwa tɔɩ bɩ.","Brahma, on l'a appelé Amol Dalia. On l'a appelé",1.0,0.6923
+967,"Tamɛ ɔtsɩ mʋ́ a, Bulu lɔbwɛ mʋ pʋwa oyin numnyam.",Kedu ka ọ dị mma? Ụlọ ọgwụ ọwa oyibo nụ m ya.,1.2,0.7027
+968,Alaha mlɩlatsula mlɩdɛ mʋ apɛ mʋ́a tɔá otekle bwɛ.,"Alhamdulillahi tula, muna da mu'ape, mu'ato tekelebo",1.0,0.5
+969,"Ɔhagyiɔha ánɩ́ ɔtɔdwɛ aha a, Bulu mʋ bi ogyi, oyin Bulu.","Ha jiya haane atọde aha, bulu mu bi oji, oyim",0.8182,0.4524
+970,"Anɩ Wie ɔha mlɩ apio aba pʋ́ aha fɛ́ɛ́ dwɛ ɔnɔ ɩwa ɔnlɩn, fɛ alɩ amʋʋ anɩtɔdwɛ mlɩ amʋ.",A ni iye hamle a fiyaba po a ha fe de onowoli. Siya le mu woli to de mu le yam.,1.1053,0.5625
+971,"Mʋ́ sʋ mlɩmábwɛ amʋ́ tɔtɔ, mɛnɩ ɩmɔ́ɔbwɛ fɛ mlɩa Bulunyɔ mlɩdɛkɔ.","maka na ị ma ọgbụya mụtara m, mara na ị ma ọgbụ efe, mara na ị bụrụnyere m edekọ",1.7273,0.82
+972,Bapʋ Okufabi amʋ obugya pʋ́ mʋ ɩwɩ adansɩɛ amʋʋ.,"Bapoukoufa biamo bouja, pomo ewi adansi amo",1.0,0.3947
+973,"Tamɛ bɛblɩ bɛɛ, nɩ mlefia a, megyi ɔpʋnʋasɩyɔ sʋ mlɩtefia.","Da mɛ bɛbli bɛ, n'i mɛ fia mɛ ji opra si yɔ somi ti fia.",1.5,0.413
+974,"Ɔlɛkɩklɩ mʋ wa tatidatɔ, pʋ mʋ tswɩ mbwɩ atogyihɛ dakatɔ, tsufɛ bʋmenya otsiakpa afɔɔ ɔswɩɩkpa.",Ọlọka kịlịmụ wata chịda tọ. Pụ mụ tụị ịgbẹ atụ ji hẹ daka tọ. Chụfẹ bụ mị nya ụchi akpa afọ ọsọ ịkwọ,1.5333,0.5128
+975,"Tɛkɩ mɩtɛblɩ mʋ ɩwɩ asʋn lalahɛ, ntɛdɩnka mʋ ahasʋ, sʋpa amʋ́ nɩ.","Tekemite ablen mu yaa son laahe. Nte din kamon haaso, supaa mu",1.0,0.48
+976,"Tsufɛ mlɩ anain bɔmɔ amʋ́, mlɩ ɛ mlɩlapwɛ amʋ́ ntsan.","Miri a na-enye mmụọ mmụọ, mmiri a na-akpọ ya mnta",1.0,0.75
+977,"Mɩ apio, mʋ́á ndɛblɩ gyi, brɛ itinbi ɩlasi.","M'y a pu. M'en débarrasser, bretelle est là.",1.0,0.7812
+978,"Mʋ ka gyi Elisabet, otsu Bulu igyi ɔhapʋ Aaron abi-anátɔ.",Elizabeth,1.0,0.8222
+979,"Bɛha bɔpʋ Petro mʋa Yohane bɛlɩɩ amʋ́ ansɩtɔ, bɛfɩtɛ amʋ́ bɛɛ, “Ma tumitɔ ntɛ ma ɩdatɔ mlɩlɛtsa oyin anfɩ?",M'atumi to nteɛmada to m'aletɛw nya,1.0,0.7683
+980,Aha ánɩ́ bʋtsie Lida wulutɔ pʋ́ Saron nsaɩntɔ fɛ́ɛ́ bowun oyin amʋ.,"nke a metụrụ afụlụ mma na mụ a sị gị sọọ kpada ọnụ. Mụ sọọ ọlịla ọde atọ ọnwa, ọnụ ọlọkụsọ gbagọ mụ asụ. Be ha mụ atọ oleji, onwe mụ lela wee",2.75,1.7059
+981,Nowun Bulu-abɔpʋ asienɔ amʋʋ bɔpʋ asʋn wunhɛ kpɔnkpɔntɩ asienɔ ba amʋ.,"N'ọnụ ụlọ ọrụ apụọ si ya na ọ mụọ gbapụ asị ụgha ya kpọmkwọm, a si ya nọba",1.6364,0.7069
+982,"Si ɩnʋ tswɩ, tsufɛ Bulu lasi ɩnʋ ha aha ánɩ́ bʋmegyi Yudafɔ.",sinotrey tufabulu lasino ha ahane bu meji yuda,0.9167,0.3478
+983,"Mʋʋ ɔlɛha amʋ́ yebi ɔbɛɛ, “Oyin ɔkʋ lotswie pɔntɔ mʋ ndɔtɔ.","Mụ onwe ha, a mụọ ya bịa ọbụ onye ọkụ, losuo epọntọ mụ ndọrọ",1.2727,0.6
+984,"Mlɩkɩ alɩá mlɩlawuna mlɩdɛ asʋn bamba hɔ mlɩaa, mʋ́gyi asʋn wanklaan amʋ.",M'ne k'y'ala m'na una m'de asuba m'ba ho m'na muji asuba nkla.,1.0,0.4746
+985,"Nɩ ɔha owu, si mʋ agyapadɩɛ yaɩ mʋ abi brɛá bʋmɔkʋdan a, bʋgyi fɛ nkpábi.","Nye ho, si m aja pada ya anyi ma bi, biri abum okudaa bu Jife Nkwabi.",1.0667,0.4643
+986,"Ɩlɔbwɛ alɩ a, ɩmɔwankɩ aha amʋʋ bʋlɩɩ bʋgyo Sakaria amʋ tɔá sʋá alawa ɔpá ɔtswɛkpa obutotɔ ɩnʋ alɩ.","N'ebe a n'ala, ịmawanke aha m bụrọ Ebubechukwu Zakarịa, a mụrụ m n'ụbọchị nke iri na abụọ n'ọnwa Ọktoba n'afọ",1.0556,0.775
+987,” Mʋ asʋn blɩhɛ anfɩ lɛha pɛlɩ lɛkɩta mʋ alupʋ amʋ.,Mɔ asumalehɛ afe le hapele le kitaa mu alupo,1.0,0.4615
+988,-Mɩ Pauloá nda obu Kristo Yesu sʋ pʋ́ anɩ pio Timoteo dɛ ɔwʋlʋ anfɩ wanlɩn.,"Nepaalu anendo bu Kristo Yesu so, kwa n'ipu Timoti o di owula mfi nwaani.",0.8667,0.431
+989,"Anɩtɔ akʋ atsu Partia, Media, Elam, Mesopotamia, Yudea, Kapadokia, Ponto, Asia, Frigia, Pamfilia, Egyipte ɔmátɔ pʋ́ Libia awulu ánɩ́ ɩbʋ manta Kirene wulutɔ.","ani tuwa kuwa chu partiya, Media, Elam, Mesopotamia, Judea, Cappadocia, Pontus, Asia, Phrygia, Pamphylia, Egypt, Cyrene, Libya, awuru ani bu Mantakiri na ewuru",0.8696,0.3197
+990,"Ɔlɩɩ ɔtsɩ amʋʋ ɔmɛ dɛ mʋ dwiin amʋ ansɩtɔ, mɛnɩ ɔtsɩ amʋ onya kwɩɩ pɛ a, obótsu mʋ bi amʋ mɛ.","Onye otu a mu na ya mu du ihe a mu na ya sito mee na otu a mu na ya kwu ipe ya, obodo churu be ya mu",1.3333,0.6857
+991,"Anɩa Kristo Yesunyɔ ɩkʋlɛbwɛ anfɩ sʋ Bulu lakʋsʋa anɩa mʋnyɔ tsu lowutɔ, alaha anɩ otsiakpa Kristo wa.","A na m ekwere na Jisọs Kraist bụ Ọkpara Chineke, na o biri na akụkọ a a na-agwa m na ọ chụrụ àjà. A na m anọchi anya Kraist",1.7059,0.8333
+992,"Ɔhaa meyin Ɔsɩ amʋ ɛ, nkɛtɩ Obi amʋ, pʋ́ ɔha ánɩ́ Obi amʋ latsula ánɩ́ ɔbɛ́lɛ mʋ suna mʋ.",nke a bu ihe a mu na obia mu latula na obele mbu,1.0,0.6562
+993,"Amʋ́gyi: Barnaba, Simeon ánɩ́ bʋtɛtɩ mʋ Obibi, Lukioá otsu Kirene ɔmátɔ, Manaen ánɩ́ bɛyaɩ mʋa Galilea ɔmásʋ ogyipʋ Herodenyɔ tsukʋlɛ pʋ́ Saul.",Amuji mana ba si mee ya ana ebute ya timu obi bi. Luke ya na Ochu kere na Omatta. Mana ya na be ya mu a Galili a o maso ojipu kere udo nyo Chukwu repu Saul.,1.6364,0.4513
+994,"Ɩnɩ lehian nyansa, mɛnɩ fɛ́talɩ nu ibi amʋ asɩ.","Mɛnni fɛtali nnu ibia mu a,",1.0,0.6111
+995,"” Yesu lɛblɩ asʋn anfɩ ta a, olesi tsia Galilea ɔmátɔ.","E si na ị bịara so anyị taa, ọ dịghị onye ga-elelị gị ọzọ.",1.4,0.7561
+996,"Tsufɛ ɔlɩɩ mɩ gyɔpɩsʋ, sʋ tɔtɔ mɔ́ɔwa mɩ ifu.",me ṅụṅụ mmanya asụmpụ achịmọịị feto mụ sọbe bụrụ asụ anị nọpụwa amụ ọnụ nọgbe ofu laa nwụrụ taa,2.1111,2.0
+997,"Mlɩtsia tsiatɔ pɔpwɛá igyi Bulu atsiabi, mʋ́ ɩwɩ lɛtɩn, ɩna dɩnka ɔnɔkwalɩ ɔkpa amʋsʋ.",Mụ na ụmụ mụ na-eji obi ụtọ na-ekele unu maka nkwado unu.,1.0,0.7826
+998,"“Brɛá olowotii, mʋ sɩ lowun mʋ sɩsɩ a, ɔlɔwa mʋ nwɛ, ɔlɛsrɩ yefia mʋ, lata mʋ puta.","ọ bụrụ na ọ lụọ nwanyị, ọ sị ya nwụsịrị, ọ lawa mụwa ya, ọ laghachịrị ya fiam, lata mụ",1.1765,0.7869
+999,"Brɛá bɛbla Bulu bɛɛ, ɔyaɩ awie ha amʋ́ a, ɔlɛyaɩ Kis mʋ bi Saul owie ha amʋ́.","Bla bla bla, blubé, oya anyi awie ha amuma. Blulé anyi, kiss mu bi sol, awie ha amuma.",0.8235,0.5179
