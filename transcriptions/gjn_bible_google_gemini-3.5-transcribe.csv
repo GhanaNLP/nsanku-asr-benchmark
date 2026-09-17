@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Le be ndegboŋ nɛ awurbi kikɛ e daa wɔ kasawule nɛ Dan be yiri to ebi nya fanɛ bumo be kapetɛ na so.,Leb andekbon ne owur beke ke edawu kasa wul na dan be yiri to ebi nyafana bumu ba kapati na so.,0.6957,0.2237
+1,nɛ e wɔtɔ a kɔ kenya be kebaawɔtɔ gbagba chap.,na wò ta akokonyɛ ba ka ba wò ta gbagbacha,1.0,0.3611
+2,meeŋ shin nɛ b ti ma njɔnɔ so a keni ma mbolpɔ so gba.,"mụ enye na bụnti, mụ enye onwe mụ so ekele mụ mgbe ọbụla",1.0,0.775
+3,Ŋkpal loŋ so nɛ Enyɛnpe Ebɔrɛ nya agbo ga n wɔtɔ Israɛlebi na.,Nke a bụ nsogbu na enye nsogbu na eboro ya agba ga onwete Israel ibia,1.1538,0.5714
+4,Loŋ be saŋɛ na nɛ b ta Enyɛnpe Ebɔrɛ be ŋkre be deka na ashi Kiriaf Jearim m ba yili wajɛbu nɛ ewura Deevid wora ashi Jerusalɛm na to.,Loma sangana na bata enyenpe eboro be nkara be dikana echi kiri avu jiriam mbe yili wajibu na ewuru David wuru echi Jerusalem na,0.8276,0.3333
+5,"” Kanyɛn na ka nu loŋ nɛ mbe kagbene kaa nɛ e kilgi n yɔ nɛ kagbenejija, ŋkpal manɛ so, e daa kɔ asɔ ga.",Ka Chineke nọlụ na-anba ka agbanaka a na-ekiri gi enyo na ka agbana jije a. Anụkwala m na nsogbu dị akụ asụga,0.9583,0.5132
+6,Saŋɛ na so kachako Ebɔrɛ beeŋ tiŋi ma alɛ gba ashi luwu to.,सांग ना सो काजा को एबोर बिन तिंगी मालगबा एशी लुतु,1.0,1.0
+7,Amoso men sa maŋ kaa fɛ fanɛ menyi gbagba be eleŋ nɛ ketiŋwora so nɛ men nyalɛ nseŋ dii dama na.,"Amu so, me ncha aman ka afifane, me nye gbagabu elen na keto nwuru so na me nyali nsi ndi daam na.",0.9524,0.32
+8,Enimu sasopo e daa la Zikri pibinyɛn Amaziya nɛ mo alɛ daa keni benapo ŋgboŋ alfa anyɔ so.,na mụ asị na ọ ga-adịrị gị pụrụ iche na Amazighia na mụ alaghachị na be na pụrụ ngbon alafa anyụ,1.1667,0.6111
+9,Gbiti nɛ shuwa nɛ ntishaŋ peper nɛ kusɔ kama nɛ b ta kebɛlso n wora kikɛ la Enyɛnpe Ebɔrɛ na peya nna.,બીટીન શિવા ના અન્તે સાંપપર ના કસકમા ના બત્તા કેબલ સો અનવર કેલે એનીન પો એબોર્નાપી,1.0,1.0
+10,fo kebaawɔtɔ kikɛ to; nseŋ shin nɛ Jerusalɛm be.,Jerusalem,1.0,0.7895
+11,Ndibi koŋwule na be ako nɛ e beeŋ ta m puga edɛ n tɔ eblaŋ n we m moɛ.,Ndi be Kongiri na ba ako na ebe nta mpụga ede ntọ ebe nla nwe mmadụ.,0.9474,0.3725
+12,"Esa pɔtɛ kama malɛ nɛ e pɛl n sɔ Mosis ŋko Ɛɛrɔn be kushuŋ a shuŋ, b mɔ mo.",Asa potek ma malen apple onso mosis onko eron bukhush o shun bomom.,0.9474,0.4545
+13,"mbe nnɔ naseso na be asheŋ, nɛ e sa maŋ teŋ amo so kikɛ.",na-anọ n'asịsọ na-akpa ehi. Na-esamụ ntị amụsọ,1.0,0.5854
+14,Kede be kaman nɛ ewura Abija juŋkpar bumo n ya kɔ kena na nɛ Ebɔrɛ chɛ bumo to nɛ b pɔɔ Jeroboam nɛ Israɛlebi be benapo na so m mɔ bumo.,Kedu banyere ụmụ nwanyị na ụmụ nwoke na-eto eto na Israel bụ ndị a na-akpọ na-eje ozi agha?,0.9677,0.7238
+15,Menyee yɔ abee jeŋgreŋ so nna n ya kaa lara esarga nsaa di abar keche nɛ kenyɛn ndoŋ.,manya iyo ebe ije ngiri so na ya ka lere esere ga nse di abali kiche na kanyan ndu,0.9444,0.403
+16,Eleŋ koŋwule nɛ e beeŋ ta n ji kusɔ kikɛ so kuwura na nɛ e beeŋ ta n chɛrga anyi.,elekụlụ nụ na ebe taa ejikọsọkọ kee nsogbu wụrụ na ebe taa nchara anyị,0.95,0.4918
+17,nseŋ ku kananɛ teku beeŋ baa sa n sa kumo na.,"Nsụkụ kana nete kụ be mba Asa, nsọkọmụ na",0.9091,0.2941
+18,"Ade be kaman nɛ Enyɛnpe Ebɔrɛ na kaŋɛ le: “Israɛl be basa, ma e lara menyi fanɛ ma nyɛrbi.","Aha, baka aman ne enye npe ebor na kangle. Israel ba basa, ma eler menye fane ma enyer",0.8421,0.2941
+19,Bumo be kelargato be esoso be kaba so be kasawule malɛ fara kakpa nɛ Jɔɔdan be lɔr na bee luri Nfɔl be Teku na to na nna.,Bụ mọba ka lara gị bụ ọsọ ọsọ bụ ka mụ sọbụka sa wụlụ ma le. Fara ka kọnụ jọda mụ lụrụ na bị lụrụ onfụlụ bụ tekụ na tịna.,1.0741,0.4574
+20,Nɛ Yesu naŋ kaŋɛ: “Ma e kaŋɛ menyi kashenteŋto na fanɛ basa ko wɔ nfe a maaŋ wu she b wu Ebɔrɛ be kuwura na ka ba nɛ eleŋ nna pɔɛŋ.,"Ndi be anyi, unu anugo? Ma ekangim enyi ka chintenti na afu nu. Basa kuwu onfe omewu, chebu ebor bukuru wuru na, ka aba na elen enapo.",0.9032,0.4592
+21,Mee fɛ nna fanɛ a daga fanɛ n naŋ shin nɛ Epafrodaites e bɛta n yɔ menyi kutɔ.,"Mee ife a na-afụ n'anya, a dịghị afụ n'anya n'anya Chineke. Aphrodite ebetela anyụọ mmiri kwọta.",0.8889,0.6333
+22,nɛ b wɔ lsɔɔ be abee so a pin asheŋ to na.,એસો બેબેસો એપિન એસેન્ટ,1.0,1.0
+23,"Kumo be kaman nɛ b baa tre menyi, “Ebɔrɛ be Basa Cheembi.","Kpom ka mụ na ụmụ be Atụrụ meye, ebe ọ bụ na",1.0,0.6512
+24,mo e yili kebir abar to n chɔrɔ abar kasha so.,Eyi ni kabiri aboro to n soro aboro ka sa,0.8182,0.4571
+25,meeŋ shuli kagbenefuliso fanɛ fo kɔ ekpa.,m'en fous de comme de philosophie,1.0,0.7941
+26,"Bumo be ekar la kemur nna, ŋkpal manɛ so, bumo be epunana e la bumo be Ebɔrɛ nɛ bumo be kemaŋkura malɛ la anishinyɔr be asɔ.","Bụ mụ bụ Ekene Lụkụmụrụ Ana, a kpọlụ mụ na nsọ. Bụ mụ bụ e pụna n'ịlè, bụ mụ bụ e bòrè, nè bụ mụ bụ kịba nkụra ma lịlè enisi nyụrụ bụ asọ.",1.2692,0.4792
+27,B shile nna ŋkpal bumo gbagba ka ki basa nɛ baaŋ mur so.,Bishile na anụ akpụlịbụma gbagbe keeki baasị na bụrụ,1.0,0.5116
+28,E beeŋ kpele kedibi na be ayabi m puga edɛ n wɔl gbaŋgbaŋ to nseŋ ta ako m puga edɛ n daŋɛ n ji.,"ya bụrụ na ịbịna, biko bịa. Ụlọ ọgwụ dị n'akụkụ ụlọ ọgwụ dị ndị anyị ji",0.9167,0.7917
+29,"Saŋɛ so nɛ Jehoram daa la ewura na, Edɔm be basa na daa kini kebaanu a sa Judaebi na nna nsaa lara bumo gbagba be bewura.",Sọọsọ na Jehova dalụ e wuru na. Ẹdọ kpọba asị na ndị Kini kịbọọnụ asị Juda ebina na. Nsị alịrị kpọm gwagwa bụ bụwụ,0.8462,0.4255
+30,"kusɔ kama nɛ baa sha, kumo nɛ baa wora ma.",ko satkama na bhasha ko manaba,1.0,0.4839
+31,E bee bar anyi mbe kefulto nɛ k bee sa ŋkpa na to nna.,એક બાર અહીંયા અંબક ફૂલતો નકબેસ અંકનાથ,1.0,1.0
+32,Fo e shin nɛ teku peper chiŋgeliŋ na baŋɛ to.,फैशनेट टेक अप्पर चिंगलिंग ना बांग,1.0,1.0
+33,"Menyee gben ga a fin agbir popɔr, ama menyi alɛ maa gben a yige to.","Menye agbenu ga efin agwiri pupuru, ama menye alima agbenu ayi ga",0.8667,0.2745
+34,Kumo e la: Timnaf Sɛrah nɛ k wɔ Efrayim be abee be efuli so na.,"Kedu ka ịlā? Ịmụnafsara? Nụkụọ, Ịfrayịm bụ ebe bụ efulụsịna.",1.0,0.4681
+35,Mo e daŋ kuŋ anyi ashi anyi be enite kikɛ to ashi efuli kama so nɛ an bɔla n choŋ.,edemkum anyi e si anyi bu enite keketo e si e fulu kama si na a m bulu ncho,0.9,0.3065
+36,"Belubiworapoana ere, men ba nfe nɛ b ji menyi demu!",ne be woorpo anne ere memba unfe ne be je meye de,1.2,0.425
+37,Anebi Shemaya daŋ yɔ ewura Rehoboam nɛ Juda be bejuŋkparpoana nɛ b shile n ya ŋana Shishak so ashi Jerusalɛm na kutɔ nna n ya kaŋɛ bumo le: “Enyɛnpe be kubɔya nɛ e kɔ a sa menyi nde.,"N'ebe ịshị malite na Yuewuru ruo Hụbam, na Judia bụkwa ekpejanụkwa ana n'ebe ịshịlị enya na Shishak so, e shị Jerusalem na-akwụtị ụnọ enya ka ngị bụ mụlị. Enye n'pụbụkụ gbaa ya n'ekụ asị meye ndị",0.9474,0.4718
+38,Nuso nɛ anyeeŋ wora n tiŋ m pɔr egbal na n loge kabre?,"N'oge na-adịghị anya, ụmụ nwoke na ụmụ nwanyị na-alụghị di ma ọ bụ nwunye",1.0769,1.0244
+39,Gbiti be ndarbi alfa ashe nɛ b daŋ tɔ mbe gbaŋɛturko na be kekama nseŋ tɔ gbaŋɛ kama malɛ gbiti be ndarbi kalfa nɛ adunu.,,,
+40,Ndegboŋana na be alambure to nɛ mbolpɔ fɔlbi nɛ mboe fɔlbi beeŋ ta ŋ ki amo be ejikpa a ji afitiri.,Ndigbo anaghị na-abụ ala mburutọ na mbụ pụrụ be na mgbe pụrụ be benta nke amụrụ ejikwa eji efu,1.0,0.5128
+41,Ma nɛ menyi beeŋ baa wɔtɔ nɛ m baa mɔlga menyi nsaa kuŋ menyi ekpa kama so.,maka na emenye be mba weta na mba amalu ga menye nsa ku menye ekwe kama so,0.8824,0.3276
+42,"karechɛ kama malɛ, awurfoŋ to nɛ n wɔ.","કાર, ચેકમામા લે. અવર ફોન્ટો ના",1.0,1.0
+43,Bumo be kasawule na dese n ya luri Juda be yiri to ebi be kasawule to nna.,Bụ mụ bụ ka saụl na desị inye lụrụ Juda bụ eyiri to ebi bụ ka saụl tị,0.8824,0.3509
+44,saŋɛ so nɛ n wɔ ŋkpa to ere; saŋɛ na so mbe alelasheŋ.,Sanga sana inwa in kwata ere. Sanga na so in bi Allah licin,0.9231,0.6
+45,Gbiti nɛ shuwa na bre la fo kakɛ nna.,Bete ni shua na abere lafa kake,0.8889,0.4286
+46,Ekpa nɛ men be kaman to ebi nɛ b maŋ naŋ nu Enyɛnpe menyi be Ebɔrɛ na be mbra be asheŋ beeŋ bɔla so n nya kumo n nu nna na.,"ekwe na m mbo ka m ti ebi na bu m na-enu enyị mfe meye bu ebe ọrụ na bu mberede eching, be m bụrụ so onye kwụmụ ụlọ ị na-anụ",0.9677,0.5217
+47,"Baa nyiŋi fanɛ fo basa e la anyi kikɛ, amoso wu anyi kuwɔr.","Bịa, ṅụọ ihe ọṅụṅụ. Ọ bụghị naanị mmiri ka ị ṅụrụ. Ọ mụrụ anyị kpalu",1.1538,0.8222
+48,nseŋ pɔr ebu jeŋgreŋ ko nɛ baaŋ baa yili so a keni kudɔ na.,"nsompuru ebuje ngiri nkeo, n'ebe mbu yiri so ekeni kwudo na",0.8571,0.4222
+49,B daa kɔ ndegboŋ kuduanyɔ nɛ amo be ndewurbi.,bụ dákọ́ éndé gbonkụdá nyọ́ na amụ́bụ́ éndé wụ́rị́,1.0,0.5278
+50,Eyiriana nɛ a wɔ kelargato be esoso be kaba so na ka kini kenu n sa ewura Rehoboam be asheŋ.,Ewure anana awo ka larga ta bu eso suba ka ba sina. Ka kinikini nsi ewure rehu gbam bu eshi.,1.0,0.3056
+51,Men baa ta kagbene ŋana asheŋ ŋ kraa kɔ a fin men be kumɔlga kikɛ be kenya.,"Mba ta ka gbanengene shine in kira ku efin, mian ba ku molo ke ke ba kan",1.0,0.5
+52,"Ama ŋkpal eŋinipo na ka la enyiashempo so, e kraa ŋini basa asɔ nɛ mo ere nyi nna.","A ma angul enyi nu puna, kali enyeche mpuso, ekere enyi basa asu na nwa ariri",0.9444,0.4921
+53,Mo alɛ beeŋ naŋ sa menyi yuku bumo be bewura so nɛ men mɔ bumo nɛ esa maaŋ naa nyiŋi bumo be asheŋ gba kuraa.,Maanle be na nso me nye yuku bọmọbọ buwuru so na me mmọbọmọ na ese ma na nnyi bọmọbọ eche ngba akwụra.,0.92,0.4167
+54,"Enyɛnpetale Ebɔrɛ na bre bee wora kusɔ nɛ k daga nna a ŋini mbe keshi, nsaa ji mbe basa demu a lara mbe kecheembiya efuli.","Enyenputa le ebor na abri, be wuru kosinu kadiga nna, enyini mbu kishi, nse ji mbu basi demu, alara mbu kichembia efulu.",0.88,0.2917
+55,Ma e daa kɔ asɔbɔya a chɔ esa kama nɛ e juŋkpar ma ashi Jerusalɛm be kade to.,ma e da ko asubuyi a cu esekama na e je kwara mu esi Jerusalem baka da,0.7778,0.3559
+56,Ewura Rehoboam e daŋ ta Mahalaf nɛ mo tuto daa la Jerimɔf nɛ e la ewura Deevid pibinyɛn na.,"Ewuro re o bu ameda nta, Mahalaaf, Nnamdi Kanu daale, Jerimof, ne ele ewuro David P. Binyen",1.0,0.3333
+57,"Ama Nadab nɛ Abihu bre daŋ wu, saŋɛ nɛ b daŋ ta edɛ nɛ a maŋ daga n chɔ sarga nɛ b lara n sa Enyɛnpe Ebɔrɛ ashi Sainai be keshishɛrsawule na so nna.","A ma na dab na abịghị buru denwu, sị na ịbịdọnta ịdị na ama ndị ga nchọ sịrị gị a. Na be liri nsị enyịntụ eboro echị sị na ịbịka sịsịrị sa wụlị na sị na.",1.0294,0.4602
+58,B daŋ ta asɔbuuso kpɛatoso nna m buu nseŋ ta asɛbta wuso nɛ b tɛ amo n wɔtɔ.,"mbanata asubu so, petu so, ana mbu, nsenta asibutu wuso na bete amu onwoto",0.9444,0.3793
+59,Manɛ nna nɛ n nio ta ma n deŋi mbe aya so.,Manna anna ne inyo taama ndenge mba aya,0.9167,0.4333
+60,A daga fanɛ ebɛsopo kama nɛ e kɔ bekulpoche mbe kanaŋ to ka bee keni bumo so nsaa maŋ baŋ yige bumo n sa asɔri to ebi.,A ga afu na ebe so pụkwa ma na e ko bukulu pụchị mgbaka na ntọ kebe kele bụ mụ so. Nsọ ma mba m jeghe bụ mụ nsị asọrịta ibe,1.037,0.4176
+61,Jɔɔdan be epeŋilarkpa be kaba so be eyiriana be asheŋ.,જો તાન બઈ એ પિંગલર પકાબ સુબઈ એ હીરે આને બઈ એ છે.,1.3,1.0
+62,B daŋ nase nde nɛ b pɔr egbal ŋ kulti na atre popɔr nna.,બધા અનાજ અને અનાજ ભોપુર એગ્લો અંકુળિતના આતરપોપુર,1.0,1.0
+63,Kumo be kaman nɛ basa na bishi le: “Manɛ nna nɛ anyee kishi nɛ Enyɛnpe Ebɔrɛ na maa wu fanɛ anyee kishi?,Kọmịshọna na-ahụ for ebichile mana ana m anịkịshị na enye ntụ eboro na mụ owu fene anịkịshị.,0.9545,0.5
+64,B daŋ pɔɔ bumo so cheche nna hale Itiopiaebi na daa maŋ naŋ tiŋ nɛ b kɔ gba.,Bụ dam bụ mụ so cheche na ha bụ Etiopia ebe na damu na ntin nọbụ kọgọ,0.8889,0.3793
+65,Ma bɔrɛlambu beeŋ baa la kabɔrɛkule be kakpa n sa efuli kama so be basa.,mgbago ugwu be mbaala ka gbara gburugburu ka akpa nsi efulu ka m aso,1.0,0.5263
+66,B ka kraa wɔtɔ a bishi mo na nɛ e niŋi to n yili ŋ kaŋɛ bumo: “Menyi be ekama nɛ e maŋ kɔ kulubi e fara ŋ kpa kache ere kejembu.,Baka krao te ebi simuna ne eningitu enyili anka ngabumu. Menyebe ekamana emonkukulu bi efara nkukache erukujombu.,1.0,0.3191
+67,Israɛl be benapo na bre daŋ bɛta nɛ alenfia nna m ba Joshuwa kutɔ ashi Makɛda be keeyi to.,Ihe a bụkwa akụkọ na-abụghị akụkọ ndụ nke elenfi na mbughachi akụkọ e ji mara ya bụ,1.0,0.7465
+68,Ebɔrɛ ka la mbe basa be ekumpo be asheŋ.,Aboriginal mbaso bu ekumpo bu eshi,0.8889,0.4839
+69,"Saŋkama nɛ men baŋ chɛrga echenakpa, Livaiebi na e naaŋ baa bɔɔ Enyɛnpe be wajɛbu na.","Sank ma ne min ban chika echina kpa, liver ibina enamba bo enyin pubu wa jibu na.",1.0,0.3088
+70,nɛ meeŋ tia kɔnɔ nɛ n nase n sa fo na.,નેમિનતીયા કોનો ના અન્નાસા અન્સફાના,1.0,1.0
+71,ki kpakpa na be kaman baa teŋ mo so nna.,"kee papa na akpa ka m an? Biko, etu mụ sọ an",1.1,0.5333
+72,Kumo be kaman nɛ beko malɛ kaŋɛ le: “An paŋ amansherbi nna pɔɛŋ nseŋ tiŋ ŋ ka anyi be adɔsawule nɛ ndibi sɔrso be akɔ n sa ewura.,Koma ba kaman na boko malakanle an pan amansharebe ana poin nsinte nke anye ba adosa wule na ndi bi sorosoba ako nse eura,0.9286,0.3232
+73,Efɔ kama nɛ e ba tu Enyɛnpe Ebɔrɛ na be basa a wɔtɔ e sa maŋ kaŋ kaŋɛ fanɛ: “Enyɛnpe Ebɔrɛ na maaŋ shuli nɛ n tu mbe basa a shuŋ mo.,"Ewo, kama na ebetu enyinpe eboro na ababasa awuto, esaa m ka nka nife na ya. Enyinpe eboro na emen chuli na otu mbibasa ochu.",0.9062,0.3673
+74,Ebɔrɛ gbagba e la anyi be ejuŋkparpo nɛ mbe bɔrɛmatapoana malɛ wora shiriya nɛ b foŋ bumo be mbel n tre anyi nɛ anyi nɛ menyi e kɔ kena.,"Ebe ọrụ gbagba, ele anya eji mkpuru. Na ambọ ọrụ matapu ana ma na wuru shiri ya na bu fọn kpọmọbọ ambal. Ntiri anyi na anyi na menye ekwu ka",0.9655,0.4019
+75,"Tentembiri nɛ kebagato beeŋ sɔ efuli na kikɛ so, ŋkpal manɛ so kuwɔlpa nɛ k biri to beeŋ buu kefulto nɛ k wɔtɔ kabre ere kikɛ so.",Tente birinaka bakato ben so e fulna ke ke so. An kwalma so ko wolpa naki birito bi mbu ku fultuna ko wota ka bari ere ke ke so.,0.9259,0.3267
+76,daa maŋ naa kɔ shɛŋ nɛ b kaŋɛ Job na nɛ e nya agbo.,Daman na kushe na bakkan ga job na na enya,0.8571,0.4595
+77,Ndoŋ e daa la Juda be kelargato be kaseto be kaba so be kasawule be ekar.,"Don e da le Juda, be ka le ka te be ka se to be ka be so be ka sa wulu be e ka.",1.0625,0.2105
+78,Loŋ be jemanɛ nɛ ŋ kaŋɛ basa nɛ baa keni beshumpo na so na nɛ bumo be beshumpo kikɛ fanɛ baa b wɔ Jerusalɛm be kadegboŋ na to kanyɛso kikɛ nsaa keni so a kuŋ kade na.,lọ mbeje mana na anka a baasị na be ekeni bụ chimpụ na asụ na na bụmụ bụ chimpụ keke fane. Bụba bụ jerusale bụkadigwe na atụ ka anyị sọ keke nse ekeni sọ okwu nka dị,0.973,0.4496
+79,Kachɛ nyɔsopo na gba kela koŋwule nɛ b daŋ nite ŋ kulti kade na pɔɛŋ nseŋ bɛta n yɔ bumo keeyi to.,Kachị unu so fụ na gba kụlụ nkọlị na bido nite nkwụlte ka dị na point nsọmbete ọnụ yọ bụmu ka ị tụ,0.9091,0.5395
+80,Nɛ b kaŋɛ ma fanɛ basa nɛ b bɛta n yɔ Jerusalɛm na wɔ tɔrɔ nɛ awurfoŋ to nna.,"Na ba ka nga ma fane, ba sa na ba bita ayu Jerusalem na wu toro na ewufo nti",0.9474,0.3966
+81,Menyi be anya gba daga fanɛ b wushi nna fanɛ kananɛ menyee wushi na.,minyabu anyi gba dika afa na bu wuchi na afa kana na minyewuchi,0.9286,0.3519
+82,nawule be bare nɛ menyee bir; men be mmalga malɛ kikɛ la efɛ nna.,ના બોલે બબ્બારે ને મિનિબ્ર મેમ્બર અમલગામલ કે કેલ્લે એફ એ,1.0,1.0
+83,nɛ men teriana e fule menyi nseŋ pɔɔ menyi so.,મેંતર અને ફૂલે મેન્યે અન્સોંપો મેન્યે,1.0,1.0
+84,"Ebɔrɛ, shin nɛ loŋ be kachɛ na e ki tentembiri plɔ.",એ બોરે શિનેલોમાં કાચના એકી ટિંટિંબિર,1.0,1.0
+85,"Fo e to anyi, amoso sa maŋ nya agbo ga n wɔtɔ anyi ŋko a nyiŋi anyi be alubi mbaanaayɔ.","Otu anya, amuso samanye agboga nwute anyi nke enyighi anyi bu olubi mba na ayo.",0.95,0.2727
+86,Fo e naaŋ juŋkpar basa ere n ya sɔ kasawule nɛ Enyɛnpe Ebɔrɛ na nase kumo be kɔnɔ n sa bumo nananyɛnana na n chena so.,"Kpo ya na njem kwuru baasi, iru ya so kasa wulne enye kpo eboro na ana si kumu bu koono. Anse bu mu nne na enyi na ana na enche na",1.0769,0.4565
+87,Kumo be kaman nɛ men chɔɔ bumo be agbirana na m mur.,Kọmba kaman na menchọ ọbụmụ bụ agbụrụ anị na ụmụ,0.8333,0.375
+88,"Men baŋ yige Enyɛnpe na nsaa shuŋ nnyamase na be agbir na bre, e beeŋ kilgi ŋ gberge menyi kusoe.","Mba, enye gi enyin pinna, nse chun enya ma sina agwuru na buru ya, ebi nkiri gi ngwuru gi menye kwu",1.0,0.5132
+89,Kasawule nɛ b ta n sa Dan be yiri to ebi na be asheŋ.,कासावल ने बदंता इन से दान बेयिरुतु एबिनाबु एचे,1.0,1.0
+90,Kekule n fin Ebɔrɛ be kuwɔrwu be asheŋ.,"ka o ku mụ ka la fana a dọnyọ na sa, ku wuru wu be e si",2.0,0.8387
+91,Fo anyii damta na beeŋ gbaŋ n tɔr nseŋ ka gbrɛbi nɛ fo maaŋ naŋ tiŋ ŋ we ajibi to nɛnɛ nɛ fo anishi malɛ maaŋ naa wu nɛnɛ.,"Fu enyi dam tọna a bịa ngban antur, asan ka gbarụ ebe na afọ 19 nwe eji bịa tọne nne na afọ enishi maale ma na owu nne.",0.9655,0.5161
+92,Efuli na gba be ketre maaŋ naa la Eche nɛ b kini n lɛ.,Ifulu na gba bakatara ma na ale eche na bu kini,0.7143,0.35
+93,"Men baa nyi geeŋ fanɛ an ka daŋ ba menyi kutɔ na, mannɛ kafule be mmalga nɛ an daŋ bar.","Mee be anyi gee ife na-eme, a na-akada mbo mee ya koto na, mana ka a fụlụ be amara gi na a ndụ amara.",1.1,0.4545
+94,Amo nɛ asɔrso nɛ a walɛ ga na nɛ yabra popɔr nɛ ɔlif be ŋku.,A na-asụgharị ya na-awa ala Ghana na ya bụrụ Pupu na Olive bụ,0.9333,0.6
+95,"Ade be kaman, nɛ Enyɛnpe Ebɔrɛ naŋ kaŋɛ le: “Ma e naa leŋ menyi to a wushi menyi kagbene.","Ata baka m, ne enyem bu eboro na nka ngile. Ma enelekwe nyetu ewuchi menye ka agbanu",1.0,0.4179
+96,Jɛrikoebi daŋ ti egbal nɛ b pɔr ŋ kulti kade na be mbunagboŋana na kikɛ nna ŋkpal Israɛlebi na so.,"Jeriko ebi na etiti agbada gburugburu nkume ka di na mbu na ugwu ana na-akike ana, akwal Israel ebi na so",0.9,0.4231
+97,M maaŋ naaŋ nya agbo n wɔtɔ ma basa a wu bumo kulubi mbaanaayɔ.,Mana nye agbo onwete mbeghi asi onwu bu m kwulu bi mbe a na ayo.,1.0714,0.4286
+98,Amaziya daŋ lara mbe kumu nna n yili fanɛ e beeŋ shuŋ Enyɛnpe Ebɔrɛ.,"AmaZulu danlọ́rọ̀ ìwé kị́mú ọnà èyílé fínẹ́, èbínshú èyínpẹ́ èbọ̀rọ̀.",1.0,0.5741
+99,Le e naaŋ shin nɛ men nanabiana e sa maŋ tiŋ ŋ kaŋɛ an nanabiana fanɛ Enyɛnpe na la Israɛlebi nawule be Ebɔrɛ nna.,na enje na mena na be ana ese amnti anka nge ana na be ana fene enye penali Israel na wulba eborna,1.0,0.4
+100,Enyɛnpe Ebɔrɛ nɛ e bee ji kuwura Israɛl so.,Enyenpe eboran ne ebi ji ku wuru Israel,0.8889,0.3235
+101,Ŋko menyee sha nna nɛ men pal kaman n sa Enyɛnpe Ebɔrɛ?,મૂળ મિનિષા અના ને મેં પલકા મન અસે એની પર એબોર,1.0,1.0
+102,"Bubuni wora shiriya nna m bela ase a jo Jerusalɛm to be bejuŋkparpoana na nɛ jimaŋ damta nɛ baa cha awɔr na, fɔŋfɔŋ bumo nɛ baa puchi kadegboŋ na so na.",Bụrụ na ọ bụrụ Siriya na Ambasị Ejo Jeruselem tupu ebe a jekwuru pụọ ana na. Na Jemanị dị mta na baa chi awụrụ na fọmfọm bụrụ na bụ pụchika dị gboo na asị na.,0.9677,0.4333
+103,"Jemanɛ nɛ Enyɛnpe Ebɔrɛ daŋ malga Mosis kutɔ ashi kebeegboŋ nɛ baa tre Sainai na so na, Ɛɛrɔn daa kɔ mbinyɛnsobi ana nna.",Jemana ne enyenpe eboroda malaga mosis koto eshiki be gbon ne batere sayinai nasina. Eron da ko mbinyin si be anna anna.,0.9565,0.2887
+104,"Ekama malɛ nɛ e baŋ ta gbolu ŋko mbolpɔ ashunu m ba, fo shin nɛ e bee ki menyi be agbirana nɛ a maŋ la shɛŋ na be kegbirwura nna.",Ekema malụ na ebanata gọlụ nkọ ụmụlụpụ ọchịlụ amba. Feshịne ebikị menyebe agbụrana na amala shịna bụ ka gọwụrụ ana,1.0,0.4286
+105,N daŋ kur atirbu nɛ baaŋ baa jɔ nchu amo to a wurge ndibi na so nna.,Ndi nkuru etiri bu na mba mba jo nchu amuto awuru gi ndi bi na so,0.8235,0.3333
+106,Anyi be kenishi daŋ pere menyi so ga nɛ an yɛlga ga fanɛ an naŋ wu menyi.,આજે બપોરે નિશાળ પર મને સગા. આયેલા ગાફને અને હું મને,1.0,1.0
+107,basa nɛ b shuŋ ŋ gben malɛ bee nya a wushi ndoŋ nna.,"Bịa sị na ịbụrụ chụọ, ọ gbanụ maala ya. Bụ enye owuchi ndụ ịna.",1.0769,0.6154
+108,Nseŋ yili kumo fanɛ kumuli kikɛ nɛ k wɔ ebɔrɛso nɛ kasawule so nɛ durnya nɛ k wɔ kaseto beeŋ gbir m bunyaŋ Yesu be ketre na.,"Ndi isi njem anyi komanda anyi, komanda nke nke n'okwu eboroso na kasa wuru so noduru ya n'okwu kasato bi ngwiri mgbonyan ga eso kpekere na",0.963,0.5361
+109,Gɛshɔn be kabuna ebi na beeŋ wora bumo be echenakpa ashi nshɛr be wajɛbu na be epeŋitɔrkpa be kaba so na nɛ Laɛl pibinyɛn Eliazaf e baa la bumo be enimu.,Ya shọmbụka bụrụ ebe na-abị nwuru bụ mụọ bụ echinike echi nshiri bụ wajịbụ na bụ epenị tọrọkwaba ka abịsọ na na Real P.I.N Eliazar ebe alị bụ mụọ bụ enịm.,0.9355,0.4754
+110,"M pibi Timoti, mee ta asheŋ nɛ ŋ ŋini fo ere nna a bɔla mmalga nɛ anebiana na daŋ wu ŋ kaŋɛ fo asheŋ na so a bɔɔ fo enɔ.","bụ binti mochi. Mita esịne n'ụngịne fụ erụ ana, abụlụ ọmalịga n'anịbị anụna, danwụ nkangị fụ esịne na sụ abụọ fụ enu.",0.9667,0.4944
+111,Baa wora fo kagbene be aparsheŋ kanaŋkama nɛ fee sha.,bawo ni fọkàgbónè b'o àpriṣẹ́n kanankama,1.0,0.5349
+112,"Jemanɛ nɛ Abija daa ji Juda be efuli so be kuwura na, Jeroboam daa maŋ naŋ nya eleŋ kikɛ.",Jamanene abija da ji Judah bu efulusu bu kuwuru na Jeroboam da mana anyi ele nke ke,0.7895,0.2464
+113,Mɛrari be kabuna ebi na beeŋ wora bumo be echenakpa ashi wajɛbu na be kelargato be esoso be kaba so nɛ Abihail pibinyɛn Zuriɛl e baa la kabuna na be enimu.,"Ferrari bu ka bu na ebe na e nwere bu mu bu echinaka echi wajiri bu na be kalakata bu esoso bu ka bu so na Abiriba, Portharcourt, Zuriel ebe a li ka bu na bu",1.0,0.4194
+114,Ŋkpal manɛ so ajibi nɛ anyee nya a ji nɛ nchu nɛ anyee nuu nɛ tɔnɔ kama nɛ anyee nya ashi anyi be ashuŋ to ere kikɛ la Ebɔrɛ be kakɛ nna.,maka na mmụọ ejibini anyị inye eji na nchịkọta anyị nụ na tọnọ kama na anyị inye echi anyị bụ echi tuere kekere ebe ọrụ baka ke,0.9688,0.5048
+115,Baaŋ purge fanɛ afitiri nɛ a bee nya nchu nɛnɛ.,Bampuru ga-efu 3 n'abè nyè nchínèné.,1.0,0.5405
+116,Saŋkama anyee chɔrɔ Ebɔrɛ ga ŋkpal kananɛ men sɔ Ebɔrɛ be kubɔya nɛ an daŋ bar menyi na so.,Saa kama anyi churu ebo oru ga nkpal ka na ni means na ebo oru bu kwuo ya. Na a na-amari menye na,1.1579,0.3889
+117,Fo ndegboŋ cheembiana na be kekama ki fanɛ keshishɛrsawule nna.,"Ndi Igbo bu chimbi anana, biko kamakene ka chineke saara gi anaa.",1.2,0.5094
+118,nsaa maŋ naŋ shin nɛ b karga kumo n ti nchɛ so.,Anya m na-ahụ ya na bọọlụ ga-akwụsị n'oge na-adịghị anya.,1.0,0.9429
+119,Meeŋ shin nɛ men ta kɔnɔ nɛ n nase nɛ k kɔ tama na.,mension menta kono na annase na koko tamana,1.0,0.3243
+120,"” Loŋ be jemanɛ na, epeŋi nɛ kufɔl nɛ achɛkpabi maaŋ naa fuli to nɛnɛ a sa fo, ŋkpal fo anishi ka maa naa wu nɛnɛ so.","Lọ mberede jamana na epenye nọkọ fọlụ na achakwaba e, mana ọ fụlụ tenene asọfụ. Ọ kwụrụfụ onishi kamna wu nene",0.9231,0.5057
+121,Ŋkpal manɛ so fo maaŋ tiŋ m pin fanɛ kachipurso peya na ŋko kaaseso peya na e naaŋ wora n lar tɔnɔ n sa fo.,"Nkulenu so, fu mantin empin feni ka chi puru so pe na, nko ka sa sa pe na, ena nwuru nlaru tonu nsa fu.",0.96,0.3659
+122,"A daga fanɛ fo ku fo nɛ Israɛl be ewura Baasha be kɔnɔkoŋwule nɛ men kɔ na to, nɛ kumo be loŋ e shin nɛ e lara mbe benapo ashi ma kasawule so.",Adaka afere fụkụfọ na Israel bụ ewurubasha bụ kọnụ kọọlụ na men kunato na kọmọbụlụọ echene elere mba ba napụ echi maka sa wụlụ,0.9394,0.4074
+123,"Ewura Abija ka wu, kakpa nɛ baa puli bewura na nɛ b ta mo n ya puli ashi Jerusalɛm nɛ baa tre ewura Deevid be kade to na.","Ewurú abịaghị ka ewu, ka kpọọ na be ọpụrụ bụ wuru na, ebe taa mụ ịhe pụrụ echi Jerusalem na batara ewurú David bụ ka dịtụ",0.9643,0.4674
+124,Ta le be mmalga ere n fiɛ asɔri to ebi na so nɛ b bɛ amo so nɛ esa kikɛ e sa maŋ wu kulubi bumo so.,Talib amalgere nsi asore tu ebi naso na bebi amuso na ese keke ese munwu kolubi bumuso,0.963,0.3056
+125,Men tama fanɛ le be ekishi beeŋ tiŋ n shin nɛ n nu menyi be kabɔrɛkule a?,Mmalite ma ọfọn na-eleba anya na ihe ndị a na-eme n'ime ụlọ mmepụta akwa.,1.0,0.8036
+126,Nooba e daŋ kɔ n sɔ Kenaaf nɛ ndewurbi nɛ a kulti kumo na nseŋ ta mbe ketre Nooba n nase amo.,Nnewi bụ ebe dị mkpa nke na ndị nwuru bini okwukwe kụrụ na nsọnta mbọkọtrị Nnewi na asị amụ.,0.9545,0.5775
+127,Ajembu burtoso na shi ga n sa anyi nɛ an sulɔ n ya lɛ.,Anyi m bu buru tuso na chi ga ansa anyi na a nsolo ya,0.9286,0.325
+128,"Ama kanyɛn nɛ baa tre Sanballat nɛ e shi kade nɛ baa tre Horɔn na nɛ Tobaya nɛ e la Ammɔn be efuli so be krachigboŋ ko na ka nu fanɛ m ba na, nɛ b nya agbo ga.",A ma ka nye na batiri sambalatiri esi ka di na batiri huru na na tuba ya na elu amon bu efulusu bu karachi gbonku na aka nufene. Mba na. Na beghi agba,0.9231,0.3613
+129,Mɛɛri pibi nɛ Jeems nɛ Josɛf nɛ Judas nɛ Saimɔn bumo da nna a?,"Mary, Phoebe, James, Joseph, Judas na Simon bụ ụmụ nne",0.9286,0.5625
+130,Esa pɔtɛ kama nɛ e pɛl n shuŋ bɔrɛmatapo be kushuŋ b mɔ mo.,,,
+131,Esa kama maŋ ka nɛ e kaŋɛ fanɛ fo daga kasogberge a?,એકમા મનકા ને એકાના ફના ફદગા કા સોબરગા,1.0,1.0
+132,Le be asheŋ ere nɛ e daŋ kaŋɛ bumo: “Men ba wora men be ashuŋ nɛnɛ ashi kabɔrɛŋana nɛ kashenteŋji be ekpa so.,Ndi be anyi ekele m unu. Mba awuru m ndi ochi nene echi ka obara nga na nke chineke nna nke so,0.913,0.6429
+133,fanɛ bumo be kusɔ jiso kikɛ; befɔ malɛ maaŋ naŋ nya yabra nɛ fo gben.,na bọ mọ bọkọ si jise keke. Bọfọ mọ alama na nye ya bara na fa gba,1.1333,0.4528
+134,"Anyi be alubi so, an du fanɛ afantaŋ wɔlso nɛ afu ber amo n ya lɛ nna.","Anyi bu alubi show, a na-dufu na afanta nwuru so na efu buru amu enyali na",0.8824,0.3462
+135,N daŋ nu Enyɛnpetale Ebɔrɛ na ka kaŋɛ le: “Nwu gboŋgboŋi lela ere kikɛ beeŋ ki alambure nɛ esa kikɛ maaŋ naa wɔ amo to.,nne nu enyi m potara eboro na aka ka ngịlị. m wụgọ m wụọ ngịlịlị arịrị ka kedị nke ala m buru? na ese keke mana a wụ amụ,1.08,0.5217
+136,Amoso anyi kikɛ naŋ bɛta n yɔ egbal na be kelɔŋɛ m pɔr to nna.,Amu so anyi ke ke na mbido onyo egbelu na akpoku longi mpuru,0.9333,0.5532
+137,"E maŋ wu epeŋi be kefulto ŋko a nyi kusɔ nɛ baa tre ŋkpa gba, ama mo alɛ nya ewushi a chɔ esa nɛ e ji nfɛ ŋgboŋ anyɔ nsaa maŋ ji durnya ere to be ebel.","mụ bụ epenge kpọkụrụ gị ka o nyere kọsọ na kpatara ankwagba a ma m malenyị ewuchi. Achọrọ m ka e bije m si ngbọ anyọ, nsogbu m ji dịrị ya erute ebe",0.973,0.5487
+138,"Men baŋ kini kebɛ Enyɛnpe Ebɔrɛ so, e beeŋ naŋ kplaŋ mbe basa so ashi keshishɛrsawule ere so nɛ bumo be alubi e baa bɛ menyi.","Mmemme nke be anyị na ebooro so, ebe na mkpụrụ mbọ baasị sọ ịchịkọta sịwụlị ereso na bụ mgbụlụ olu bị ebe a bị",0.9615,0.551
+139,"Joshuwa ka bee taga to Jɛriko na, epul to nɛ e wu kanyɛn ko ka yili mbe anishito a kɔ tokobi to.",Joshua kabetere Jeriko na epulto na ewukanye nko ka yiri mgbe e nishito akwụ toka obito.,0.9091,0.2192
+140,"Jande nyiŋi kusɔ nɛ fo kaŋɛ fo kayɛrbi Mosis na, fanɛ nɛ anyi Israɛlebi maŋ ji kashenteŋ n sa fo, kumo ere feeŋ pesaŋ anyi to n yɔ efuli pɔtɛana ko so.","Jaan de, nye ng'o koso ne fokang'e fokayer bi mosis na. Fane na any Israel ebi monji ka shinte nsofo. Kumare, fem pesan anyi to ye eful pote ano koso.",0.9062,0.2735
+141,"Ŋkpal manɛ so, ŋ gbagba e naaŋ chɛ fo to nɛ fo tiŋ n juŋkpar Israɛl be basa ere n yɔ kasawule nɛ n nase kumo be kɔnɔ n sa bumo na so.",M kpara m nso. m gbagba e na nchefu na o na-efu m m jee kporo Israel baa si ya na o yoo ka a saworo na nna ya sokwa mụ bọọ ka ọ nọọ nsọ bọọ mụ na nsọ.,1.1212,0.5758
+142,nseŋ wora kusɔ nɛ e kaŋɛ kenishipere so na kasonu.,संवार को सने एक कानी किनी से परसना को सोनु,1.0,1.0
+143,Kusɔ nɛ eche nɛ e kurge daga fanɛ e wora nna na.,કોઈની એ છે ને એ કોરગા દગાફને એ વરો અનાન,1.0,1.0
+144,Basa na be bargato bee shuŋ nna nɛ bargato malɛ e keta bumo be ekpa a yil a kuŋ.,"Bàsị na ọ bụ bọgàtọ bishị na na bọgàtọ malụ eketa, ọ ma bụ ekpe oyilị okwu.",0.9474,0.4754
+145,basa nɛ fo mɔlga na nɛ b bɔla to n dii.,बासा नट फॉर्मूला गाना ना बोलतो हिंदी,1.0,1.0
+146,nseŋ bɛta bumo nɛ eyiriana na kikɛ m ba abar so.,mbanu mbu eyi ana na ke ke mbu aburo,0.9091,0.4595
+147,Basa pɔtɛ beeŋ kaŋɛ le kukoko to: ‘N la Enyɛnpe Ebɔrɛ peya nna.,Basu potte ben kanle koko kuto. Enle enyenpe eborpe enna.,1.0,0.3542
+148,"Men baa bɛ amo kikɛ so, saŋɛ na so, asheŋ beeŋ nyalɛ n sa menyi nɛ men tiŋ n chena kasawule nɛ Enyɛnpe, menyi be Ebɔrɛ na bee ta a sa menyi na so n chɛr.","Mba be amụkọ ke sọ, sọ na sọ, eche mbe nya alụ asụmenye na ịmịntịn ụnchịna ka sa wụlụ na enye mpe, menye bụ egbọrọ na bẹ ta asụmenye na sọ ụnchịrị.",0.8889,0.4123
+149,be asheŋ lubi e dii efuli nɛ ekama e pin amo.,Na ekema epin amu.,1.0,0.6765
+150,A beeŋ baa chicha fanɛ nchu ka bɛ edɛ so a falte na.,A bi ba chi cha funi inchi ka bi adeso a falten,0.8462,0.3077
+151,Meeŋ sa fo kanyiasheŋ nɛ nfɛra nseŋ naŋ ta kedamaya nɛ amansherbi n ti fo so.,"Mene su fukan yashin na anfira, an sanata ka damiya na amashirbi in tifu",1.0,0.377
+152,"E ka ba Joram kutɔ na, nɛ mo nɛ Joram ya tu Nimshi pibinyɛn Jehu nɛ Enyɛnpe Ebɔrɛ lara fanɛ e mur Ahab be kuwurji na.",Eka bu Joram kotena na mu na Joram ya tu nimiri pibi nyin Jehu na enyi bu egbori liri fa na emuru Ahab bu kuwuru Jina,0.8077,0.2444
+153,Le be alubi ere daa beeŋ tiŋ m bar ma kasogberge.,લેબ અલીબ એરે. દબીનતીંગ અંબર મકાસો ગારગે.,1.0,1.0
+154,"Ndoŋ nna nɛ Pita kaŋɛ Yesu: “Eŋinipo, anyi be kebaawɔ nfe ere nyalɛ ga.","na ni pita ka yi Yesu. Enin po, anyi bu kaba wu ife ire nyala",0.9286,0.3333
+155,Esa nɛ e maŋ yirda Yesu Kristo na malɛ gba bɔ loŋ be esa.,A sị m na ya bụ onye na-enyere gị aka bụkwa onye na-agba gị ume.,1.0714,0.907
+156,Enyɛnpe Ebɔrɛ na; nsaa malga emamachisheŋ.,na.,0.8333,0.9429
+157,"Amoso Eliaza nɛ Itama nawule e daa la bɔrɛmatapoana jemanɛ nɛ bumo tuto, Ɛɛrɔn daa wɔ ŋkpa to na kikɛ.",A ma so iliaza na itama na wulu eda li boru matupu ana jemana na kpu mututu iro da wu nkwata na keke.,1.05,0.3333
+158,"Enyɛnpe Ebɔrɛ, bugi awɔlpa to nseŋ gbelge m ba nɛ kufu e pɛ abee nɛ a baa chicha.",એન્યન પે એબોરે બુગુ અવલ પાતો અસંગબલગા અમ્બા નકુફુ એપીએબે ના અબાચેચા,1.0,1.0
+159,"Ade kikɛ be kaman nɛ Elihu naŋ kaŋɛ: “Job, fo tama fanɛ fo maŋ wora kulubi kikɛ.",Job,0.9412,0.95
+160,Simiɔn be yiri to ebi nɛ b la yiri nyɔsopo nɛ b chige kasawule n sa na be kasawule be kananɛ k dese nde.,Simiyoni Biyoro Ebi na ba le yiri nyosopu na ba che ka sa wulu ansana ba ka sa wulu ba ka naniki de si,1.0,0.3375
+161,nɛ kefitiri bumbuŋ be ajembu lela nɛ baa tre jaspa na.,એક ફ્યુચર બુમ બુમ એ જંબુ લાલા નબાતરે જાસપાન,1.0,1.0
+162,"Men sa maŋ kaa shuŋ bumo be agbirana, ŋkpal manɛ so, loŋ beeŋ tiŋ m bar menyi luwu.","Mensa mụ ka shịbụ mụ bụ agbara na, akwụlụ mụ na nsọ, lụọ mbinte mụ barụ menye lụ.",1.0,0.4921
+163,"Ebɔrɛ baŋ lara efute na, epul to nɛ e wu.",એ બોર બાલર એ ફૂટના એ પોલતો ને,1.0,1.0
+164,Teku nɛ baa tre Mɛditerenia na e daa la kasawule na be epeŋitɔrkpa be ekar.,Check one about the Mediterranean. It all casa will not be a pain.,0.9333,0.65
+165,Ewurkoŋnyɛn nɛ b fo kufɔl ŋko m baŋ so nɛ b daŋ sibɛ bumo be atre na kikɛ daa wɔ ŋgboŋ adunyɔ nɛ anyɔ nɛ alfa anyɔ nɛ adushunu nɛ asa.,Oruko ya bu Fokuful nko Mbaonu n'ebe daa nsebe ikpu mgbati na kike daa wu ngbon adu nyo na anyo na alifa nyo na odushinu na aso.,0.9677,0.4272
+166,Amoso Mosis daŋ ta Giliad be kasawule na nna n sa Makiir be kabuna ebi nɛ b chena ndoŋ.,"Amaghi m ma Moses na Tag Gilliard bụkwa sa wụlụ nna, ọ sị m ma kirie ka bụrụ ebi na bechị na ndu.",1.1053,0.4706
+167,Bumo koŋwule na malɛ e naaŋ baa yuu kumo kaplɛkama nɛ men ya chena.,Bụ mụ kọnle na-amaghị enenbe ụyụ kụmụ ka pịlị kịma nị mụ ya chọna.,0.9286,0.4906
+168,"Judaebi na ka keni n wu fanɛ b kulti bumo n wɔtɔ na, nɛ b shu n tre Ebɔrɛ fanɛ e chɛ bumo to.","Di na ebe na keekene onwufa nee, bu kulturu bu mu onwute na. N'ubu chu nturu ebe oro fa na echi bu mu",0.9167,0.4412
+169,Nɛ beyu ŋko besugepo daŋ ba fo to kanyɛso.,Nne bu ya onye kowara sookupu damba foto kanyi,1.0,0.6364
+170,Aloŋ nɛ b daa wora kachɛ kama m bɛ abar so hale ya fo nchɛ ashe.,A long na bada wuri kace kuma an bi abun su hala en ya fu en ci,1.0,0.5417
+171,Baa shi kaba kama so nna m ba kaa mel ma so.,"Barka da yamma, masu sa'ina. Barka da yamma, masu",1.0,0.625
+172,N shu nɛ ma anishi puŋi m puŋi; hale ma eyur to kikɛ bee besa ma.,Haalemaa ayuur tekkeke be basama,1.0,0.6458
+173,"Ndoŋ nna nɛ Joshuwa nɛ Israɛlebi na mɔ basa na ga, ama bumo be beko bre daŋ shile nna n ya luri bumo be kade nɛ b pɔr egbal ŋ kulti na to nɛ b maŋ nya bumo m mɔ.","Ndon'ana, na Joshua na Israel ebinamuo baasi na aga. Ama bu mgboko buru denchiri na enye luru, bu mgboko ka na bu puru egbelu nkwulu tinato, na bu manye bu mu",0.925,0.4
+174,Ŋ ka maaŋ tiŋ ŋ kɔ n sa ma kumu ere gba.,Muku mu,1.0,0.8214
+175,Nɛ mbe asɔbuuso fuli to parr a kpa edɛ.,અંબ અસુબુસુ ફુલી તોપરર અકબ એડ,1.0,1.0
+176,"” Kumo be lalaloge, enyiashempo nɛ ewulpo kikɛ sasa nna.","कमला लालुगे, एनेइचेम्पोनी एउलुपो केके सासा",1.0,1.0
+177,"Dimɛdi ko wɔtɔ nɛ e nu Ebɔrɛ, nɛ mo nawule la Ebɔrɛ ere, ka bɔla edɛ to m malga nseŋ ji efute a?","Ndi mediko woto n'elu eboro, na muna werele eboro ere ka abul edete mmaliga m si ji efuta",0.8261,0.3521
+178,ase a choŋ e sa maŋ kaŋɛ le: ‘Enyɛnpe Ebɔrɛ e nɛfa menyi!,"sɛ ɛkyɔ, ɛsɛ amaneɛ ka ngile. Ɛnyɛ nti ɛbɔrɔ ɛne faa bɛyɛ",1.0,0.619
+179,Jehohanan e daa la enimu nyɔsopo m bɛ mo so nsaa keni benapo ŋgboŋ alfa anyɔ nɛ aduburwa so.,"Jehovah na-edara enịmụnyeso pụ ṅbịamụsọ, nsọkịne bụ nnàpụ ngbọ alụfa anyọ n'odogwu ụsụ.",1.0,0.4932
+180,Kusɔ kɔnto maa tiŋ a niŋi; b maa karga shɛŋ a ti asɔ nɛ e maŋ wɔtɔ so.,Bama karaga shayi a ti a sune amutu,0.8889,0.6667
+181,be kekule nɛ fo maŋ nya kanyiti nsaa fin.,,,
+182,Ama le nɛ Israɛlebi na daŋ kaŋɛ: “Manɛ so nɛ anyi nɛ menyi bee wora kɔnɔkoŋwule be ŋkre?,A ma le na Israel e bi na danka nge. Mana sa na anyi na-emenyi bi wuru k'onu kunye be nkiri.,0.9444,0.3676
+183,” Ndoŋ nna nɛ b bela ase nɛ b fara kushuŋ na.,na ba fa ra kuɗin,1.0,0.6562
+184,"Kebia nɛ b kurge nɛ e laŋɛ maŋ kɔ tɔnɔ kikɛ; e bee shir tentembiri to nna, nɛ b teŋ mo so epul to.",केबिन बुक करवेन ए लांगे मोंको तनो केके ए बी सिर तेनतेन बिरते आना नबी ते मुसो ए पुलतो,1.0,1.0
+185,"Kashenteŋto, ma kenaŋ n sibɛ asheŋ koŋwule ere gbagba n sa menyi maŋ tir ma, kumo be loŋ malɛ e naaŋ chɛ menyi to gba.","Echi n'etiti, mụ ka na-anụkwa olu ịrịba ama a na-eme n'ụlọ ọgwụ a. Kụmụbụlụ mụ na ya na-achọ ịmenetago",1.0,0.6484
+186,Enyɛnpe Ebɔrɛ na ki mbe basa Israɛlebi be ewura.,એન્યન પણ એ બોર નાખી અને બાસ ઇઝરાયેલ એ બીબ એવુ,1.2222,1.0
+187,"Mosis daa la anebi nna, amoso pɔɛŋ nɛ e wu na le nɛ e daŋ nɛfa Israɛl be eyiriana na ŋ kaŋɛ: “Enyɛnpe Ebɔrɛ na daŋ shi Sainai be kebeegboŋ na so nna.",Mosis doro na mmiri na amaghi ebe na lele eda nnefa Israel bu eyiri ana na nke ange. Enyinwa ebe oro na denchi Sinai bu kibe gbo na si ana,0.8788,0.4159
+188,Kusɔ nɛ fo kaŋɛ kenishipere so na nɛ baa wora kasonu.,Kọ sọ na ọ fọka ka gị na ya kparịsọ na ọ baa wụrụ kọ sọ.,1.2727,0.5714
+189,"Menyee fɛ fanɛ kusɔ nɛ menyee wora na daga nna, ama meeŋ shin nɛ menyi be asheŋ woraso e lar efuli nɛ menyi be agbirana e chɛ menyi to ŋ gben.",menye ife na-akosinu menye wuru na-adighi anaa ama m eche na menye bu eshi wuru so elili efulu na menye bu agbara na-eche menye taa ngwanu,0.9677,0.4091
+190,nɛ mbombi nɛ a wɔlto e ki bumo.,na awu to eki bu,1.0,0.5652
+191,” Esa kama maa nyiŋi benyiashempo nɛ bewulpo be asheŋ.,A sà kà mà m'à nyìngì b'nyɛ́ɛ́ shɛ́ɛ́npú n'bú wùlúpú b'ɛ́ɛ́ shɛ́ɛ́.,1.3333,0.6047
+192,"Amoso, Mosis, bɛta n yɔ n ya nu kusɔ kama nɛ Enyɛnpe, anyi be Ebɔrɛ na kaŋɛ nseŋ ba kaŋɛ anyi.",Agbanyeghị na Moses bịara na ya na ya nụkọsịrị kama na enyenụ ya anyị bịara ebe ọrụ na-aka ya nsogbu aka ya.,1.0,0.6714
+193,Nɛ Okran pibinyɛn Pagiɛl nɛ e shi Ashɛr be yiri to na bar mo peya kachɛ kudukakosopo na.,"N'okpuru pịbinyen paagiel, n'echi asher bịyịrịtịnụ a, b'ịrụmụpịa k'achịkụdụ ka akwụsụpụna.",1.0,0.4286
+194,"An daa naa sha kenaŋ bɛta n yɔ menyi kutɔ nna, ama Setani maŋ yige anyi kikɛ.","Nna nna, saa ka na m betu onyo, m nyekota unu. A ma si taa na m nye gi anya kiki.",1.2353,0.4407
+195,Kusɔ kama nɛ k teŋ n wora kabre nɛ kumo nɛ k beeŋ wora echefoso kikɛ teŋ wora nna ŋ ku so.,"Ka sọkwa m atụ na kịta m nwere ka abụọ na kọmọ na kịbịa m nwere echi efu sekịndị, tọ m nwere ana nkụsị.",1.0909,0.6029
+196,Meeŋ shin nɛ esa nɛ e nyi asheŋ nsaa kɔ enɔ to be kushuŋ be kenyi nɛnɛ nɛ baa tre mo Huram na e ba fo kutɔ.,mension esini enyi eche nsakwụ na tobukuchu mbụkinyene na ba terim hura na eba fụkọta,0.963,0.4
+197,Ndoŋ nna nɛ Enyɛnpe Ebɔrɛ kaŋɛ Joshuwa le: “N ta Jɛriko be efuli so nɛ kumo be bewura nɛ benapo lempoana na kikɛ a bɔɔ fo enɔ.,Ndonn'ana na enyempu eborokanga Joshua lee. Nta jere ko bu efuluso nokumubu buwura na benapu lempu ana keke agbofu enu.,1.0,0.3402
+198,"fo maaŋ shuli nɛ b pɔɔ ma so; fo alɛ beeŋ shin nɛ ma, nɛ n la.",ફરિયાદ બેન્ચના માં અને,1.0,1.0
+199,Jerusalɛm ki kelambure nna nɛ ekama maŋ naa wɔ kumo to.,Jerusalem kịkla mbọrọ anna na ekwe ma mana awụkụmụ,1.0,0.3409
+200,"Men baa wora loŋ bre, Ebɔrɛ maaŋ wu menyi kulubi.","Mba, ọrụlọmbre, eboro m ya ụta menye kwụrụ",1.0,0.5263
+201,Kusɔ ko wɔtɔ nɛ esa beeŋ tiŋ ŋ kaŋɛ fanɛ kumo alɛ naa la asheŋ popɔr a?,કોસોવો તો એસી બિનતી અંકલ ફને કોમો આલે નાલે એસી પોપુરા,1.0,1.0
+202,be kusɔbɔya gbeyeso gboŋgboŋi na bee nyaŋɛ to.,Boko so boya gbe su gbon gbon yi na be nyang,1.375,0.3947
+203,"Ŋkpal an ka bee wora Enyɛnpe Ebɔrɛ be aparsheŋ so, E kuŋ anyi be ŋkpa ekpa kikɛ so.",ankwa ankabe ore enyempe ebore be appreciation so ekun anye be ankwa ekpekeso,0.8333,0.4531
+204,Kumo be kaman nɛ men bɛta n yɔ epe nɛ Enyɛnpe Ebɔrɛ e shin nɛ kasawule nɛ k wɔ Jɔɔdan be epeŋilarkpa be kaba so na e ki menyeya.,Kpom ka m anụ na mụ ebido ụyọkọ epee na enyenụ eboro eche na ka sa wụlụ na kọwụ Jordan bụ epee ngalaba bụ sị na ekịmenye ya.,0.9655,0.4545
+205,Eŋinipo na yɛ: “Shɛŋ shɛŋ maŋ kɔ kifi to!,Shine shine,1.0,0.8333
+206,"Mo alɛ wora loŋ nna a ŋini fanɛ, e bee ji kashenteŋ a sa mo nɛ men nananyɛnana be kɔnɔkoŋwule be ŋkre na nna hale nɛ mbre.",Mala uru long na enyi na ife ebe ji ka shinte asa muna me nani nyina bu konukong lebe ankara na ana hala na mbere.,0.9259,0.4043
+207,Nɛ kabuna kama nɛ meeŋ lara na e yili kanaŋ kanaŋ so.,na ka bu na ka ma na me lara na eyi li ka na ka na,1.1667,0.1951
+208,Shin nɛ kachɛ na be kachipurso be kechɛkpabi e biri to.,Chineke Chineke biko nyere anyị aka anyị bịrị,1.0,0.6591
+209,Enyiashempo be mmalga du fanɛ ketirbu chiŋgeliŋ to be nchu.,જે શેમ્પોમાં અમલગમ ડુફને કે તરબૂચિંગલિંગ તબૂ,1.0,1.0
+210,Kudur kikɛ maŋ wɔtɔ nɛ k tiŋ n chɛ ebesa nɛ doro nɛ a wɔ fo to ere.,कुदर के के मोतो नकीते एबसा नदोरो ना आओ फटे एरी,1.0,1.0
+211,nsaa sha fanɛ durnya to be basa kikɛ e nu nde: “Kaŋɛ basa nɛ b wɔ Jerusalɛm to fanɛ.,Nke a bụkwa ụzọ ndị Juu si aga Jeruselem kwa afọ.,1.0,0.746
+212,E daa la kanyɛn nɛ baa tre Barakɛl nɛ e shi Buz be kasawule so nseŋ shi Ram be kabuna na pibinyɛn nna.,daal ka nyin baatre barakel ne eshi buus baka sa'ulu so nsin shirin ram baka buna na pibin nyin,0.8696,0.2911
+213,"Le nɛ Mosis kaŋɛ a laŋɛ Juda be yiri be kaplɛa so: “Enyɛnpe Ebɔrɛ, nu Juda be yiri to ebi be kushu.",Nnemọsi ka m na-alaghachi Juda bịarute ka m place gị. Enyenụ m ebere na Juda bịarute ebi bukushị,0.9091,0.5135
+214,nɛ b kɔrfɛ menyi nseŋ shin nɛ men dese agbembi so.,"na bokorfe menye, esenshi ne minde si egbe mbu",1.0,0.3846
+215,” Kumo be kaman nɛ ma alɛ sa mo ebɔl nseŋ kaŋɛ mo le: “Kashenteŋ maŋ wɔ kusɔ nɛ fee kaŋɛ ere to kikɛ.,Komo ba ka man na mala samu ebulu nsankangi muli ka shinte mu koso na fe kangi ire toke ke.,1.0,0.4189
+216,Amoso kusɔ nɛ n naaŋ pɛshɛ m pin e la fanɛ a daga an ka bee ji anyi be kegben be tɔnɔ ŋkpal manɛ so anyi maaŋ tiŋ m pin echefoso be asheŋ.,"Amu so, kosanun anan pesi impin ele fane. Adiga anka biji anyi beka gban botono nkolomenu so. Anyi mancin impin ecefu so be ecin.",0.8788,0.3619
+217,Nɛ ewura Bɛnhadad shuli kusɔ nɛ Asa kaŋɛ na nseŋ shuŋi mbe benapo nɛ bumo be benimu fanɛ b ya kɔ Israɛl be ndegboŋana na.,"na eburu bena ha that chineke si na asa kanga na, nsogbu na bumbunna pu na bumubu bunye mu fene, bia ku Israel na ndigbon ana",1.0,0.4792
+218,"Nɛ Enyɛnpe Ebɔrɛ naŋ kaŋɛ Mosis nɛ Ɛɛrɔn le: “Men sa maŋ shin nɛ Kohafebi na e taga asɔ cheembi na to saŋɛ nɛ b maŋ naŋ buu amo so, mannɛ aloŋ, baaŋ wu.",na enyere eboro na nka Moses na eronle. Mana m si na ko ha ebi na etega aso chebi na to sa na bu m na mbu amusu. M na olu ba enwu,0.9118,0.386
+219,"Nɛ b kaŋɛ: “Mm, anyeeŋ tiŋ.","Ka na-anụbụ mụ nụ, esoghị m chụta. Abiarọ m ka m bịara abia n'a. Na-anụbụ ka mụ, anyị ntị.",3.1667,3.1667
+220,Menyi alɛ naa ta agbirana nɛ amo be asheŋ bee nu ma agbo na nna a yili menyi be mbuna be akɔlɔbi to nɛ egedo be afito.,Menye alena ta agburana na amubu echen bi numu agbo na nna eyili menye bu mgbuna bu akulo bito na egedo bu efito.,0.8148,0.2527
+221,yili saŋɛ be sososo n ya fo kumo be lalaloge.,Ijele sị na bụ sọsọ sọ na ya afụkọmụba lalalụ,1.0,0.5714
+222,E daa lɔlɔ Jehoshafat nna nɛ e tu mo n ya kɔ Ramɔfebi nɛ b wɔ Giliad be kasawule so na kena.,"Ndi be anyi, etu mu unyahu ko ram of ebi na bu Gilgal bu kasa wulu sina",1.0,0.5286
+223,"ashi efuli pɔtɛ ko kutɔ, ama anyi be tama ki fuloŋ; ŋkpal manɛ so, efuli na maŋ tiŋ n chɛ to m mɔlga anyi.","Anyi si efulu pota kokoto, ama anyi betu maka ifulu. Nkwalumanu so, efulu na munti encheto umoluga anyi.",0.7917,0.3165
+224,"Hale nɛ Kohafebi na luri wajɛbu na to n ya tu bɔrɛmatapoana na nɛ b kraa buu asɔ cheembi na gba, baaŋ wu.",Ha na-ekwu na ebineturu ọrụ dịịrị ha tupu ha etuo bụ ọrụ mmetụta ana na-ebido na gba be m,0.8696,0.7037
+225,Enyɛnpe na e naa mɔlga bumo; ashi alubiworapoana be enɔ to.,એક જ પન્ના એના મોલુગોબુમો એસી એલ્બીવરપુ આનાબે એન્ડ,1.0,1.0
+226,"Bekurgepoana, men gbagba nyi fanɛ anyi be kebɔɔso nɛ an bɔɔ menyi so na maŋ la kebɔɔso fuloŋ.","Mụ gbagbanyere anyị bọọlụ, nna m gbọọ menye sị na mụ na ya kpọọ bọọlụ fụlụ.",0.9444,0.6622
+227,Ashɛr be yiri to ebi e daa la yiri nusopo nɛ b chige kasawule na n sa.,Acheri bi yiri tu ebi edale yiri nusupu na ba cheka kasa wolna,0.8235,0.3585
+228,Kasawule nɛ b ta n sa Ashɛr be yiri to ebi na be asheŋ.,کاسا ولن بتا انسر عشر,1.0,1.0
+229,Ma ere nɛ ma laŋ to ebi bre beeŋ shuŋ Enyɛnpe Ebɔrɛ na.,M̀ma re ǹmalan ti ebi biri bi nshun enyin po ebor na.,0.9231,0.3571
+230,ashi bumo be abee nɛ a wɔtɔ dra dra kikɛ na ase.,A si bu m bu ebe na a wute dra dra kee ka na a,0.9167,0.3611
+231,ŋkpal b ka maŋ naa kɔ shɛŋ nɛ b kaŋɛ fo so a?,Bakamma na kushe na bakanga fa,1.0,0.5938
+232,E beeŋ foŋ kafoli nna n tre bumo nɛ b nya manaŋ n shi durnya be lalaloge kikɛ m ba fanɛ afu na!,ebe mụ fụrụ nke fụrụ na ntịrụbọ mụ na be nyem na nchi dịrị ya bụrụ na alụọkeke. Amaghị m ihe efu,1.0,0.625
+233,"Ŋkpal loŋ so, men baa nyiŋi fanɛ Enyɛnpe menyi be Ebɔrɛ na nawule e la Kashenteŋ be Ebɔrɛ nsaa la Kashenteŋjipo.","Nke a bụkwa nsogbu. Mgbe anyị nyịgịrị ya, enye m gị eboro na nna wụlụ elekesi nte mgbe eboro ya, nsogbu elekesi nte m ji",1.1429,0.6556
+234,Ndoŋ nɛ meeŋ ya dese a di fanɛ bewura.,ne meye di si edifene,0.8889,0.6207
+235,"N la Hibruw kashenteŋto nna, ŋkpal manɛ so, n tuto nɛ n nio kikɛ la Hibruwebi nna.","Naani Hebrew ka shinta ana ankwalemanu so, ntuto nni ke kele Hebrew ebi ana.",0.9412,0.381
+236,Ama feeŋ wora shruum ŋ kplaŋ anyi nɛ an baa wɔ kasogberge nɛ k shi m pɔɔ anyi so ere to a?,"A na-eme ihe nkiri ụmụ nwoke na ụmụ nwanyị so na agba akwụkwọ ka ha soro gbaa egwu, nke iji mpọ anyị sụọ erita.",1.0909,0.7794
+237,"E maaŋ shin nɛ men mur bumo kikɛ kela koŋwule, ŋkpal manɛ so, nɛ men mur bumo kikɛ epul to, kupuŋ to be asɔbɔya lubi beeŋ wora keshi ŋ ki kabɔlar n sa menyi.","A ma m na ị mụrụ gị bụ nwoke kee kịlịnkọ ngịlị, a kwela m na so n'ime ị mụrụ gị bụ nwoke kee e pụtara kụpụntụ bụ asụbọ ya lụbị bi nwụrụ kịshị kị ka bụlụrụ nsamenụ.",1.0882,0.6083
+238,A daga fanɛ anyi nɛ an kɔ kebɛso ere to be kenimufɛra ere e baa kɔ asheŋ nɛ n teŋ kaŋɛ ere be nfɛra loŋ.,"Adaka fune, anye na anko ke beso ere tobe kenumo fere ere. Ebe aku echene ntenkan ere be nferelu.",0.84,0.3038
+239,Le be asheŋ ere e naaŋ shin nɛ b nya asɔ nɛ baaŋ fute n yige so kachako so.,lebe e shingare enanshene benye asona ba nfute enjageso kachia kusu,0.9474,0.3929
+240,"Ebɔrɛ beeŋ yili kusɔ kama nɛ an wora so n ji anyi demu, hale asheŋ lubi ŋko asheŋ lela nɛ an wora ashiri to gba.",Mọ́ribínjìlì kò sọ̀rọ̀ mọ́ ná àwọn wro sọ́ ńjọ́ ànyì dé mọ́. Hálì èsín lúbì nkọ́ èsín là ná àwọn wro èsín rítì gbà.,1.0,0.6395
+241,nseŋ yili kushu keli nɛ keji eyur be saŋɛ.,"Ntinye li, kwụsị ịlị na ka ji ayụ basan",1.0,0.5758
+242,Ebɔrɛ gbagba kutɔ nɛ n nya le be kenyi ere.,Bọọlu gbagbọ kọtọ na enyịlebe kịnyị erị,1.0,0.4242
+243,Nɛ Yesu kaŋɛ mo: “Men shin nɛ an bela mbia pɔɛŋ.,Nye ya sokwa mụ. Mention a mobile money point.,1.0,0.6857
+244,Ndegboŋ kuduashe nɛ amo be ndewurbi e daa wɔ kasawule na so.,ndị gị ndị eze na amụba ndị wuru bi ebe a wụ kasawụlụ na,1.1667,0.4583
+245,B daŋ pɔr egbalana nna n wɔtɔ amo mbunagboŋ nɛ abersobi ŋ kulti nde na kikɛ n wɔtɔ.,Badampar agbalan na nwute amaghi ebunugbo n'ebirisi bi n'okwute di na kike nwute.,0.9444,0.4615
+246,Baaŋ baa du fanɛ ndibi nɛ Enyɛnpe Ebɔrɛ gbagba duu nna.,Bambadufeni NDB ne enyinpu ebor gbagbadu,1.0,0.3636
+247,Nɛ fanɛ n daŋ foe ekpa wora kusɔ ko nɛ k maŋ niŋi.,na fana andan fo akonworo kusuku na kimin ni,1.0,0.4595
+248,"E yɛ, n sa bumo kapandi be nshɛ, mannɛ kebɔltofinfin.","Anya bụ mụ ka pande ba'a nche, mụ na ụmụbọchị fịnvị.",1.1,0.5854
+249,Israɛlebi na ka barga kasawule na to n sa abar n loge nɛ b sa Nun pibi Joshuwa gba kasawule na be kaba fanɛ k ba la mo alɛ be kapetɛ.,Ihe mere e ji na-akabara ụmụ nwanyị na ụmụ nwoke abụọ na-alụ bụ na ọ bụghị naanị PB Joshua gbara ka ha lụọ na ọ bụ ka ha bịa na-ekpe ala ma na-ekpe ekpere.,1.0323,0.6569
+250,"Meeŋ nya manaŋ m ba mɔlga bumo; ŋkpal manɛ so, ma kekɔmpɔɔso be jemanɛ taga to.","mụ enye mana m ambá mọlọgọ bọ mụ, m kwere mana sọ mụ ka kụmpọsọ bọ je mana tagatọ",1.125,0.4426
+251,Kebaawɔtɔ kikɛ baa la kabapɔ nna nɛ k maŋ walɛ k malga.,Kabawo ta kike bal kaba po anna na komon walla kamala,1.0,0.3953
+252,Men baa nyiŋi alɔ lubi nɛ menyi gbagba wu anishi so nɛ emamachisheŋ nɛ yukugboŋ nɛ eleŋ nɛ Enyɛnpe menyi be Ebɔrɛ na ta n sɔ menyi n yige na.,mmebe ya alulu bi na emenye gbagbewu enishi so na emamachishen na yuku gbon na elen na enenpe menye ebor nata nso menye enyaga,0.9333,0.2973
+253,"Amoso, an Nyɛnpe nɛ anyi be Ebɔrɛ, ba chɛ anyi to naniere, ŋkpal manɛ so, fo nɛ anyee fute a yige so.","Amu so anyin pe na anyi bu abore. Bachi anyi to na niari, nkpolim so fune anyi futa ayigo",0.8636,0.32
+254,Ama nɛ b baŋ wu malɛ b maŋ naa luri alubi to.,"A ma na bu gbam nwoke a le, bu mmadu na-luru olu bito",1.0833,0.4848
+255,Benimu e daŋ fara loŋ hale nɛ Yesu nawule ya ka nɛ kache na malɛ kraa yil ndoŋ.,એક નવું એડમફારા લોંગ હાલે ને ઈસુ નાવલી યાકા નિકચેના માલેકરે યિલ એન્ડુ,1.0,1.0
+256,Ŋ ka fo Kadegboŋ na be epeŋilarkpa na nɛ ŋ kilgi n yɔ kechubu be kabunagboŋ na ase nɛ ewura be Kepa na ase.,ka afo kadigbo na abo epengelle kwanu a na nkili gi nyo kuchubu bu ka bunugbon na asi na eburu beka pana asi,0.9167,0.3253
+257,Mo e sa ewura Deevid ebinyɛn nyiashempo nɛ e kɔ asheŋ be kepinto nɛ kasheŋwora be kenyi nsaa sha kepɔr bɔrɛlambu n sa Enyɛnpe Ebɔrɛ nɛ ewura be laŋ n sa mbe kumu.,mụ asị ewurube David ebinyela ya echem pu na ekwe eche mbu ke pịntọ na eche nwuru bukinyi nsị achakọpụrụ bụ ọrụ la mbu asị enyi mpee egbọrọ na ewurube la mbu asị mbu,1.0303,0.4574
+258,Ndoŋ nna nɛ bɔrɛmatapoana na foŋ bumo be mbel nɛ Judaebi na cha kena to be awɔr ga.,na na na bọrọ matatu ana na fọm bu mọ ba ambal na Jude ebi na che kana tọ ba awọrọ,1.1111,0.3692
+259,Ajibi ŋko shɛŋ be asheŋ maŋ du kpakpa kasawule na so.,8GB ઇનકોશિન બુશિન મુન્દુ પાન પાન કાસા વોલના,1.0,0.9762
+260,Nɛ Mɛrari malɛ be mbinyɛnsobi daa la Maali nɛ Muushi.,Ni mera ri malebe mbinyi nsebe daale mali ne mushi.,1.0,0.2326
+261,"Kumo be kaman nɛ n tre ekama n shɛr nseŋ malga ŋ gbiti bejuŋkparpoana na ŋ kaŋɛ bumo le, An wora ania n tɔ anyi be basa nɛ b pɛ anya n yɔ efuli pɔtɛana so na m bɛta m ba.","Kụmụba kama na-anọrọ ekwe ntị na-esere nsogbu na ngwụcha nke izu ụka a na-anaghị akwụsị. Ọ bụrụ na ị na-eto anya gị, ị ga-enwe ike ịhụ ihe na-eme.",0.9512,0.7266
+262,Enyɛnpe Ebɔrɛ na e daŋ kɔ m pɔɔ bumo so n sa benapo na nɛ b muu Itiopiaebi na be asɔ kikɛ.,"Nyanja bụ ebọ nke ndị Ankole mpo bụ ndị nsị bịa na-apụ na ya. N'ebe mụ Ethiopia, e bi na ya bụ asụkịkị.",1.0,0.6176
+263,"B daŋ nu mbe kɔnɔ, ama b daŋ fara nna a malga kumo be asheŋ a bishi abar: “Ketiŋi luwu to ere be kifito e la manɛ?",bụ dan n'ọmbọkọnọ. Ama m abalị afara na amaghịkwa mụ bụ ehi e bisi abalị. Kịtinye lụọtụ erị bụkịfịte elemanụ.,0.963,0.5119
+264,Amoso nɛ mee yili kumo a sa menyi fanɛ men baa sa ma kewushiachɛ na bunyaŋ nsaa ta kumo kachɛ cheembi na.,"A ma sọ n'ime njikọ ka a sị mee ya fane, ma mba sị m ka o wuchaa Chineke abụọ ya, nsaa taa ka m ka chiche mbụ.",1.1818,0.4578
+265,Anyi alɛ beeŋ ta basa be akɔ nɛ b ji anyi ŋ kɛ bumo loŋ be jemanɛ na.,Anyi alubata baso akwụkwọ na be ji anyi nke bụ mụ na ụmụ ya mana,0.7778,0.4902
+266,Juda be ewura Jehoshafat bɛta n yɔ mbe kuwura laŋ to ashi Jerusalɛm nɛ shɛŋ shɛŋ maŋ wora mo.,Jerusalem,1.0,0.8919
+267,Ndoŋ nna nɛ Gad nɛ Ruben be benyɛn na kaŋɛ le: “Anyeeŋ wora kusɔ nɛ Enyɛnpe Ebɔrɛ kaŋɛ anyi ere.,Ndon ana na ga na rubin baban na kanle. Anya wur ko su ni enyin po ebori kan anya ri.,1.0,0.4054
+268,"Ama ŋkpal menyi basa ere so, Enyɛnpe Ebɔrɛ na daŋ nya agbo nna n wɔtɔ ma nsaa maŋ nu ma kekule.","A ma anụkwa na enye baasi eriso, enye nkwụ ebe ọ na-ada ya agbọ nna nwụrụ anwụ ma, nsa mụ nnụ mụ kụrụ",1.0,0.5205
+269,Shɛŋ maŋ walɛ kenishiso a chɔ kachipurso be epeŋi.,"Chineke mụ wa lee, gini sị so achụ ka gị pụrụ sọ?",1.3333,0.6829
+270,"Enyɛnpe Ebɔrɛ daŋ nya agbo nna n wɔtɔ Israɛlebi na nseŋ shin nɛ b nite keshishɛrsawule na so a kilgi to a kulti nfɛ adena, nɛ bumo to be bumo nɛ b daa maŋ wora Enyɛnpe Ebɔrɛ be aparsheŋ na kikɛ wu.","Enyenpe eboro danye agbe ana nwute Israel ebi na, enweghi nsogbu n'ite ka chineke si na-ewulata so, ekligito ekhulte enweghi adana. Na bu moto bu bu moni bu damu nwuru enyenpe eboro bu epreciena keke",0.9524,0.4221
+271,ashi luwu to nna; mo e daŋ kpra ma anishichubi.,"mụ e dee akwụkwọ, mụ e nịsị chọọ",0.9,0.8056
+272,"Sa maŋ naa nuu nchu nawule, baa nuu waindibi be nsa gba gbrɛgbrɛ nɛ a baa chɛ fo epun to be alɔ.",સમીરનું ઇંચ નાવલી બહેનો વાઇન ડીબી બહેન સગવા ગ્રેડ ગ્રેડના અબાચે ફૂલ એપોન્ટો બહેન,1.0,1.0
+273,Mo alɛ baa wɔtɔ nna a kule Ebɔrɛ kapa nɛ kanyɛ fanɛ Ebɔrɛ e chɛ mo to.,Malabar to Anna Akul ebor ka pinu kanyi fene ebor echi muto,1.0,0.3585
+274,"Rehoboam be kuwura ka baŋ yili nɛnɛ, nɛ mo nɛ mbe basa kini kebaabɛ Enyɛnpe Ebɔrɛ be mbra so.",Kedu ka m ga-esi nweta akwụkwọ ikike ịnya ụgbọ ala na mba ọzọ?,0.9474,0.7945
+275,B daŋ ta ndibi n yuu kejaŋ nna nɛ Ɛzra yili kumo so loŋ be kachɛ nna.,Baraanta Ndi be Nsukka ka ji ana na Izrelili kọmọsọlụ mkpụka Chineke.,1.0,0.5385
+276,"Kumo alɛ be kaman nɛ ŋ kaŋɛ le: “Ebɔrɛ beeŋ sɔ men be ebuana nɛ kusɔ kama nɛ men kɔ, saŋɛ na so, men maa naa kɔ shɛŋ.","Kpomkwem maka na nkangale, eboro be so mgb ebu ana na koso kama na menko, sanga na so mmana kushen.",0.8929,0.4471
+277,nɛ basa nɛ b wɔ abee be kaseto na malɛ e ba.,અબ્બાસના બહુ બે બકાસ તના માલે એ,1.0,1.0
+278,Kede be kaman nɛ e shin nɛ basa na sulɔ Enyɛnpe Ebɔrɛ be ŋkre be deka na n nite ŋ kulti kade na kela koŋwule pɔɛŋ nseŋ bɛta n yɔ bumo be keeyi to n ya dese.,કેન્દા મકામન ને એચિને બાસના સોલુ એન્જિનપુ એબોરેબ એન્કરબડાકના એનિટે એન્કુલડિકાડીના ક્લુકુન્ગલ પોઈન્ટ. અન્સેમ્બેટા અન્યો બમોબ કેયિતુ એયેદેસી.,1.0,1.0
+279,kasawule na kikɛ so; e daŋ mur bumo be greep.,Kassawolna ke kisu? E dammur bo mu beggiri,0.9,0.3824
+280,maaŋ chɛr nseŋ ba.,Nsị ntị anyị so. Ịdị ala na enyịpụ eboro na ka ngịlị. Echekwuru pụ bị ntị ntị kebi mụ na mụ gbagba sọ mụ kanyịpụsa. Na ebi nịọ bị ntị ntị mụ kebi,8.25,7.2143
+281,M maa ŋana kusɔ nɛ basa beeŋ kaŋɛ a laŋɛ ma kaplɛa so.,"Manga na kosana, basengele alanga makasi",1.0,0.5366
+282,Shin nɛ b tɔ bumo be ekama gbiti be ndarbi anu fanɛ kananɛ baa karga amansherbi wajɛbu na to na.,ચનાબો તો બુમોબા એકમાં ગ્વીટીબ ઇન્દરબી ઓનુ ફનેકાનાને બાકરગે અમાશેરબી વજીબુનાતને,1.0,1.0
+283,Ama menyi ere e baa kɔ eleŋ nsaa maa pɔ aba ŋkpal manɛ so menyi be kushuŋ nɛ menyee wora na beeŋ bar tɔnɔ.,"A ma m mechaa ebe akwụkwọ eleng, m sa m apụ abaa. M kweru mụ na so, mepee bukụchụ m na-eme wuru na a, bido m bido",1.0833,0.6341
+284,"Kachɛ nɛ baaŋ kre kena m ba na, baaŋ munto fanɛ teku ka bee kaa ketili a gbri na.","Kachi na banki rakana ambana, ba muntufune tekuka bi ka kitili agwuru na",0.8421,0.3279
+285,Loŋ be kachɛ na nawule nɛ b daŋ nite ŋ kulti kade na ale ashunu.,Lọmba kachị na-anọlị na-bụrụ nnite nkwụntị ka dị na ala Oshimiri.,0.9333,0.5306
+286,"N daŋ nya agbo ga nna n wora bumo ŋkpal bumo be alubi nɛ kejimuni be kebaawɔtɔ so, amoso nɛ n daŋ gberge bumo kusoe nseŋ daŋ kplaŋ bumo so na.","Ndi a na-agba gba anna, onwero bu m, akwukwo bu m bu Olubi Nkejimunye bukwa bu otu so. A muso na ndi a na-agba gba m kwusi, m si ndi a m kwelam bu m so na.",1.0968,0.4727
+287,Ama kumo be nchɛ asa to meeŋ tiŋi luwu na to.,"Amaghi m ma ọ bụ enyi ya, tọ, meeting ya ruo n'ụtụtụ.",1.0909,0.7059
+288,"Elɔrana bee shile e luri teku to, ama teku malɛ maa bɔlɔ kikɛ.",Elu ana bishile elu tekuto. Ama tekumale ma mbulu,0.9231,0.2917
+289,esa nɛ e maŋ wora n jija malɛ maŋ daga kemɔn kashenteŋ.,એ સને એ મુંગુર અંજીજે માલમ દગા કોમન કશિનતે,1.0,1.0
+290,Nɛ manɛ e ba nɛ ndibi na bee sɔr asɔrso nyaŋnyaŋso?,ना मन एबा ना एनडीबी ना बेसर असोसो न्या न्या,1.0,1.0
+291,Ade kikɛ be kaman nɛ m pin fanɛ “Kanyiasheŋ walɛ a chɔ kawulisheŋ fanɛ kananɛ kefulto walɛ a chɔ tentembiri na.,"A bịa kịka bakkam n'ụdị ihe nkiri fụrụ nụ, ka anyị wee si n'ala anyị chụọ ka ụlọ ọrụ fụrụ n'ala anyị kụrụ tupu ụlọ ọrụ tentem biri.",1.3333,0.7416
+292,"Ndoŋ nna nɛ Joshuwa kaŋɛ basa anyɔ nɛ b daŋ shuŋi fanɛ b ya dara kade na le: “Men luri sakaleche na be laŋ to n lara mo nɛ mbe laŋ to ebi kikɛ ŋkpal manɛ so, loŋ be kɔnɔ nɛ men nase n sa mo.","Ndi be anyị, na Joshua kà mụ bàsà ànyụ̀ na be ndị Nsukka na-abụghị àntị. M lụrụ ụmụ nwaanyị àntị abụọ dị́kè, m kwụrụ mánụ̀ sọ́. Lọ̀ mụ̀ kọnọ̀ n'ime nnà mụ̀ sọ́.",0.9565,0.7021
+293,"Emo nɛ e bɛ mo so nsaa juŋkpar benapo ŋgboŋ kalfa nɛ aduburwa nɛ b kɔ kena to be adoŋsɔ nɛnɛ na, e daa la Jehozabad.","mụ na ebe mụ sị nsị a je nkpiri bụ na apụọ m gbo nkili fani adị buruwa na bụkọ ka na atụ egwu adị nsọ n'ele na a, e daalụ. Jehosapat",1.1923,0.4831
+294,"Mannɛ fanɛ baru lela nɛ k shi Ebɔrɛ kutɔ na nawule nɛ an daŋ bugi kagbene n sa menyi, ama an daŋ ta an be amu kikɛ gba nna n sa menyi kashaso, ŋkpal manɛ so, men be asheŋ daa wɔ an be ŋgbene to ga.",Mana afanaghi baro lere anya kishi eboro m ka m na-awula na a ndi m ka agba na-asem enye. Ama m a ndi a nta a mbu emu kike gwa na asem enye ka cha su. Nkpiri m na so mbu echi da wu a mbu ngwanu to,1.0217,0.473
+295,be anishito nɛ e ji ma demu nɛ n ji n lar.,inshito na eji mu de mu na inje,1.0,0.4
+296,bee gbuŋgbuŋ to; nɛ kupo to be ndibi be afantaŋ.,"ndi gwangwan to, na kupotoba ndi bi ba afanta",0.9,0.3514
+297,Ndoŋ nna nɛ fo mbre nɛ e bee kuŋ fo na e fara a chicha nɛ fo aya nɛ e kɔ eleŋ kabre ere e paŋ amo be eleŋ.,"Ndon'nna, nafo m biri na obi kunfu na, efe ara achicha nafo aya na eku ele ka biri ere, epan amubu ele.",0.8966,0.2727
+298,E kɔ kenyi a laŋɛ kebaachaŋ asɔ a deŋi asɔ so nsaa beeŋ tiŋ n wora ndulgi kama nɛ b ŋini mo fanɛ e wora.,kuki ala nga ka ba chan aso edeng asoso nse bintin onworo ndul gi kama na bngi ni mofane ewara,0.96,0.3671
+299,"Ade be kaman nɛ Enyɛnpe Ebɔrɛ na malɛ kaŋɛ bumo le: “Kashenteŋ na e la fanɛ, jemanɛ kikɛ nɛ menyee kishi menyi gbagba be aparsheŋ nɛ menyee wora nsaa mɛaŋ menyi be beshumpoana.","A na-akpo ya na omenala Igbo ka chi n'ele fene. Jemeni ka ke na-enye ndị isi na ndị gbagburu e puruiche na ndị na-ewura nsá mịan, ma nye bụ ụsụụ ndị agha.",1.0,0.6071
+300,Enyɛnpe Ebɔrɛ na daŋ maŋ sha menyi nseŋ lara menyi nna ŋkpal men ka shi a chɔ basa kikɛ so.,Eborna damansha menye nsenli menye ana nkol me nkechi achu kpasikike,1.0,0.4225
+301,Bumo nɛ abɔrɛjembu na daŋ mɔ na daa chɔ bumo nɛ Israɛlebi na gbagba daŋ mɔ.,bụ mụ na Eborjem bụ bi na da mmụọ na da achọ ịkpọmụọ Israel ebi na gbagwada mmụọ,1.0,0.4237
+302,nɛ gbaŋgbaŋ be awo e shi kelargato be esoso m ba.,"na gbangban, owo esi klerembu esoso",0.9091,0.4474
+303,Amoso nɛ e kɔ le be eleŋ mo to a wora asheŋ loŋ na.,A mọsị n'ekwelebụ ele moto awụrụ eche nọ,1.0,0.4324
+304,"Ama sososo na, kasɔto be jemanɛ na, b daŋ kaŋɛ fanɛ: ‘Ebɔrɛ pɔr bumo enyɛn nɛ eche nna.",Amasi m so so na ka si tobe jee malu na mana nke a anaghi fa na ebe o ru puru bu m enyi m na eche,1.3889,0.4615
+305,Kananɛ esa bee duu kusɔ nɛ k kɔr n daŋ nɛnɛ na.,Kanna na eziokwu so na Kuran da nne na,0.9167,0.5143
+306,M bɔla Kristo so nna n nya alelasheŋ Ebɔrɛ be anishito.,"Bụrụ Kraistọs, a na-enye alịlịsị ya eboro bụ enishi",1.0,0.4773
+307,” Amoso nɛ baa tre kakpa nɛ b ku atutu na Gilgaal hale kabre na.,Amu so na ba atirika kwenu buku otutu na gilgal ha na ka aburo,1.0,0.3542
+308,Kede be kaman nɛ Finihas nɛ bejuŋkparpoana na yige bumo ashi Giliad be kasawule so nseŋ bɛta n yɔ Keenan n ya bɔ baru na n sa Israɛlebi na.,Kedu banyere ụmụ nwanyị na ụmụ nwoke a na-akpọ ndị na-eso ụzọ? Ha si na UK na Israel bịa.,0.931,0.7273
+309,Anyi be benapo be benimuana na malɛ daa yili bepɔrpo na be kaman nna.,આને બબનાપો બબનુ આના ના મળે. દયલી બપોરપોના બકામન,1.0,1.0
+310,"Loŋ koŋwule nɛ b wora bekama nɛ b yɔ ndoŋ, a bri beko nsaa mɔ beko malɛ.","Ndi Kongle na-abụrụ ọbụka ma na bụrụ ụndụ. E buru buku, a saa mụọ bụkuma.",1.0,0.5926
+311,"Ewura Asa ka nu kewuŋkaŋɛ nɛ Odɛd pibinyɛn Azariya kaŋɛ na, nɛ e nya keleŋto.",Ewụrọ asá ka nnụkwụ nkịta na-abụ etu bịa n'azáịrị ka ha na-enye kịlịntị.,0.9333,0.5902
+312,Esa kikɛ malɛ maaŋ naŋ nyiŋi kusɔ nɛ k beeŋ wora echefoso gba.,"Eze ke ke, ma le ma ne nyi ko so ne ke bem wuru eche fu so.",1.3077,0.4694
+313,"Manɛ nna bre, nɛ fo maŋ shin nɛ an wɔ lɔr na be kaba ndoŋ?",Ana abri na famanshene a nwa luru na abuka abụ ndu.,0.9333,0.4762
+314,Ma alɛ bee wu amo kikɛ fanɛ asɔ nɛ e la tɔnɔ n sa ma nna.,"Mali biwu a mụ ka ike fane, asọ na ala tọ nọ nsama ana",1.0,0.3415
+315,Nɛ kudɔ na wura naŋ shuŋi kenya ko nɛ paawuraana na ya doro mbe kumu nseŋ wora mo amɔmɔshiasheŋ.,"Nke a bu otu n'ime ihe kpatara anyi ji na-aru mbia ku mu, n'ihi na anyi maara na o bu ihe di mkpa.",1.1579,0.7662
+316,a keni mbe anishito.,કેનેડામાં નિશિતો,1.0,1.0
+317,Anyi maaŋ pɔr bɔrɛsure kikɛ n naŋ ti Enyɛnpe nɛ e la anyi be Ebɔrɛ be bɔrɛsure nɛ k yil Enyɛnpe Ebɔrɛ be wajɛbu na be anishito na so.,અહીંયા માં પૂર બોરસર કેકે એનેનથી એનીન પે ને એલ અહીંયા બોર બોરસર નિકે યિલ એનીન પે એબોર બુવાજી બુના એનિસીતનાસ,1.0,1.0
+318,"N teriana, amoso nɛ a daga fanɛ men baa kɔ Enyɛnpe na to a yil kpakpa na.","nke bụ nke abụọ na-adịghị afanị, mụ na mba ko enyị m na-atụ egilị kpakpa",0.9412,0.5636
+319,Amoso anyeeŋ fara Jerusalɛm be egbalana na be kepɔr.,Amụsụ anyịmfara Jerusalemu egbelu ana na bọkọpụlụ.,0.8889,0.3488
+320,"Mo alɛ beeŋ naŋ nɛfa menyi be adɔsawule, saŋɛ na so, menyeeŋ nya ajibi damta nɛ yabra belbelso nɛ ɔlif be ŋku, nɛ menyi be ana nɛ mbolpɔ e kurge ga.","Malu na ebe nna na nne fa mere nye na Adọsa Wulị, sị na so, mere nye ejibidem taa na ya abụrọ bọbọlọ sọ na olịbụ nku na mere baa anaa na ọgbọlụpụ ekurọ gị",1.0645,0.5175
+321,"Kashenteŋto, ma asheŋ wɔ men be ŋgbene to, ama ekpa nɛ men maŋ nya nɛ men ŋini kumo be loŋ.","Ka Chineke mee ka anyi nwe mmepe anwanto, ama ekwe na m ga-enye gi aka na mmeghari kumu bulu.",0.95,0.6087
+322,"Sa maŋ ta kejimuni be ketresha n juŋkpar n wora asheŋ, fo alɛ e sa maa kɔ kamoowu fuloŋ.","Samanta, ka i mu na, biko tara m saa anya m kwọrọ n'ụlọ ezinụlọ.",1.0,0.6912
+323,Amoso nɛ b kra tre kaboŋ na Akɔɔ be ketaŋɛ to hale kabre na.,Amaghi m so na batara ka gbunie akụ. Beketangị to ha alụka abụrọ na.,0.9286,0.5435
+324,Loŋ be kachɛ na gbagba nɛ Mosis sibɛ kashɛ na nseŋ ŋini Israɛlebi na kumo.,mụ ka Chineke agbagha na Mosis si be ka Chineke a nsị nị Israel ebinakọm,1.0,0.4237
+325,ashi mo kutɔ so.,વિષે હું ક્યાંથી શોધું?,1.0,1.0
+326,Ama ade kikɛ be nfɛra nɛ n fɛ nseŋ wu fanɛ amo kikɛ bee shi Ebɔrɛ kutɔ nna.,"A ma adekeke bu nsira na nche, nsogbu na-adighi, amaghi m ebe isi eboro m ebubo a.",1.0,0.5965
+327,"Job, fo maŋ wora n nyalɛ ŋkpal fo ka kaŋɛ.",Job,0.9,0.9032
+328,"Abija be benapo daa wɔ basa ŋgboŋ alfa ana, nɛ Jeroboam daŋ keta benapo ŋgboŋ alfa aburwa n ya kɔ mo kena.","bịa, bẹbanna pụta daa n'elu baasi ngwo alfa ana, na Jerugbam daa, keta bẹbanna pụta ngwo alfa oburụwa, ya akụmọ ka",0.7727,0.494
+329,"Edɔm be abee be kasawule na be kaba so nɛ n ta n sa Isɔɔ fanɛ mbe kapetɛ, ama Jeekɔb bre nɛ mbe mbia daŋ yɔ Ijipt nna.","Adom, a bee bee ka sa wul na, bika boso. Na nta nsi iso foni m bika pite. Ama Jacob bere na m bi dan yu Egypt",0.9643,0.3933
+330,Ŋkpal Ebɔrɛ ka shin nɛ awurfoŋ nɛ tɔrɔ ba ma so so.,Aboraka Chineke owuru phone na toro bamasoso,1.0,0.5128
+331,Bumo kikɛ la asɔ nɛ baa fute nna nseŋ naa la asɔ nɛ baa wu.,"Bọ mọ kele asụsụ na ba fụta a na, na sị na ala asụsụ bụ",1.0,0.5455
+332,"Ŋkpal manɛ so, menyi be mmalga kikɛ la efɛsheŋ nna nɛ menyi be ŋkre kikɛ la kebagato nɛ kelantokɔ be asheŋ.","Menebe amalakele efishen ana, nemebe ankerekele kabaketo nakala toku echen.",1.0,0.5176
+333,Eshɛlpo na beeŋ tiŋ n yɔ kupuŋ to n ya ku kakale ŋko kelera ŋko jaŋkelia be kedibi n shɛl.,"Eshapuna, binti unyuku punto unyewu kakale nko kalara nko jankale ya buka dibi eshapu.",0.95,0.3714
+334,Nɛ Nun pibi Joshuwa tre bɔrɛmatapoana na ŋ kaŋɛ bumo le: “Men ta Enyɛnpe Ebɔrɛ be ŋkre be deka na nɛ menyi to be beshunu malɛ e ta bumo be mbel n juŋkpar kumo.,"Nnanna P.B. Joshua, tiri bọọru mụ tụpụ a na na nke a bụ mụli. Meenta enye mụ e bọọru bụ ankara bụ daka na. Na meenyeto bụ buchi mụ na etaa bụ mụ bụ anbal anja kwuru kụmụ.",1.0588,0.5203
+335,Enyɛnpe Ebɔrɛ yɛ: “Boŋ to awɔrso ga ŋ kaŋɛ ma basa Israɛlebi na bumo be alubi be asheŋ!,Bontu awurusa ga an kan ga ma ba si Israel e bina bu ma bu olubi. Be e she,1.0,0.4627
+336,Amoso dimɛdi maŋ bɔ kusɔbɔya ŋkpal manɛ so ŋkpa nɛ an kɔ ere maŋ kɔ kifito.,"A mụ sọ dị m dị mụ mbụ kwụsịbụọ ya, a nkwerọ m na sọ a nkwa na a nkụ erie mụ nkụ kịfị.",1.5,0.5932
+337,Kusɔ kama nɛ n ta ma kanyiasheŋ n fin n nya durnya ere to kikɛ baa la fuloŋ nna.,Kasan kama na anta muka yi shiyya in fin enye durunya eretake ke balu fulu,0.8947,0.4262
+338,Le nɛ e daŋ bishi mo: “Feeŋ tu ma n ya kɔ Ramɔfebi kena a?,"Elen edem bishimụ, fintụm enyako ram of ebi",1.0,0.4146
+339,Ade be kaman nɛ Yesu naŋ bɔ bumo aŋasa a kaŋɛ: “Kanyɛn ko e daŋ dɔ ndibi sɔrso be kudɔ n fɛa asɔ ŋ kulti kumo nseŋ kur asɔrso na be kemaŋ nɛ b baa nyaŋ amo ndoŋ.,Anya baka mma na-eso na mbu bu mukanisa aka nye. Ka nyi nko edan do ndi bi sorso bu ku do mfi aso nkultukumu. Nsu nku asonso na baka mma na bu ba nyan amu ndo,0.9737,0.3802
+340,nɛ baa bunyaŋ mo na shi ga; k shi a chɔ yili kasawule so.,na ba abun ya muna shiga kishi achu iri kasa wurin,1.0,0.2619
+341,” Ndoŋ nna nɛ basa na kaŋɛ: “Anyi maaŋ yige keshuŋ Enyɛnpe Ebɔrɛ na nseŋ ya kaa shuŋ agbir.,Ndon'ana na basu na kan e. Anyi ma nyi gi kwushun enyi mpu ebor na nsi ya ka eshun agbara.,0.9444,0.3333
+342,"Men leŋ men be amu to nsaa kɔ kagbene, ŋkpal manɛ so le nɛ Enyɛnpe Ebɔrɛ na beeŋ wora men doŋana kikɛ.","Mee nụ ihe m gwara gị. Ọ sị na ọ ka gbanwee, m kwere mụ na ya so. Lee nụ enyi m nwoke bụ ọrụ na-abụghị mụ na ya dị n'otu.",1.3636,0.7215
+343,"Kananɛ e daŋ wora Jɛriko be ewura na, loŋ koŋwule na nɛ e wora Makɛda be ewura na gba.","Kananan yara na wurin Jericho ba e wuru na, lokon le na e wuru Makida ba e wuru na gbe.",0.8947,0.4091
+344,Meeŋ mur bumo be agbirana nɛ a wɔ.,mụrụ ụmụ bụ agbọghọbịa na,1.0,0.6923
+345,Ndoŋ nna nɛ Joshuwa shuŋi mbɔ nɛ b shile n ya keni nɛ kashenteŋ nɛ e ta asɔ na m puli mbe wajɛbu na to nɛ gbiti na wɔ amo be kaseto.,"Ndon'ana, na Joshua shunyi umbo na bishili inye keni nkeshin te na eta asuna mpuli mbe wajibu na ato. Na gbiti na wu amube ka si",0.8438,0.27
+346,Saŋɛ nɛ Ewura David bee shile mo pibinyɛn Absalɔm be kena na nɛ e boŋ kashɛ ere.,"Sango ni ewu Davidi bi sile mu pibeyen Absalom, be kana na ni ebon kashe",0.8824,0.3333
+347,"Esa baa malga ga, mbe mmalga maŋ naa kɔ kifito, amo alɛ maŋ kɔ kechɛto n sa esa kikɛ.","Esa m'amalaga, amba amalaga, m'ana ku k'ifito. Am'ale m'onko k'acheto esa esa",0.8421,0.3438
+348,Nɛ Yesu bishi bumo: “Manɛ be mbra nɛ anebi Mosis sa menyi na?,ye subishi bomo mana ba anbara anewe mosi,1.0,0.4783
+349,Ama loŋ daŋ wora nna ŋkpal Jerusalɛm to be anebiana.,"A ma na o nọ n'ụlọ arụsị Ana, na mkpọlọ Jerusalem tupu e nwee obi ana.",1.6,0.5714
+350,Menyi alɛ gba e shin nɛ men be ŋgbene e baa dese menyi nɛ men tu ma n shin nɛ men be ŋgbene e baa fuli menyi.,"Menye alọgba eṣine, menye mbu angbọne ebe disi menye, nemi ntuma eṣine menye mbu angbọne ebe fulu menye.",1.0,0.439
+351,Sa belejipo ekpa nɛ b shoduu loŋ be kachɛ na.,સબ લેગી પો એપલ ને બુસોદુ લોમ્બા કાચના,1.0,1.0
+352,Isakar be yiri to ebi e daa la yiri nasopo nɛ b chige kasawule na n sa.,એસા કા બ્યુરો ટુ એબી એ ડાલ યુનિટ નાસાપો નબેચે કાશા વોલના,1.0,1.0
+353,Lara Ɛɛrɔn nɛ mbe bibinyɛn nɛ b baa la bɔrɛmatapoana.,Aro na anyi biara na be baanyi bu oru matapu ana,1.1,0.5814
+354,"Nuso nɛ esa beeŋ tiŋ n wora m pin kusɔ nɛ k walɛ n sa anyi ashi ŋkpa shiimbi nɛ anyee ji durnya ere to, nɛ k bee choŋ fanɛ afu ere?",N'sɔn na a si bɛn tin ŋunru ŋun pin ko sɔn ko wala an sa anyi eci ŋun pu simbi ni anyi ji duniya ereto. Niki bi cɔnfu ni efu,0.9062,0.4796
+355,ajembu lela ŋko shuwa nɛ e maŋ kɔ eyurpi be yawu.,"Jumbo laa, nke o shua na amu nke eyurube ya.",1.0,0.4474
+356,Bede e daa la Livai be mbinyɛnsobi nɛ mo nanabinyɛnsoana.,Na mụ na nne be'm nyere aka,1.0,0.7872
+357,Mo e naa yili saŋɛ nɛ k daga dimɛdi ka fin nɛ saŋɛ nɛ k daga dimɛdi ka yige kafin.,"એનાયીલી સાંગાને કડદગા દીમેદી કેફીન, ને સાંગાને કડદગા દીમેદી કાચી કેફીન",1.0,1.0
+358,B daŋ yɔ mbolpɔkpapoana be echenakpaana nɛ a mata nde na gba to nna n ya kɔ bumo kena nseŋ pɛ bumo be mbolpɔ nɛ mboe nɛ enyɔma damta.,"Bụ mgbolpụkwa pụọ anaghị eche na pụọ anaghị na. Amaghị m ndị na-agbata ụnụ, enyị akụbụ mụkwa na nsogbu mụ bụ mgbọlụpụ na mgbọị na enyị ụmụ nnem.",1.0,0.5673
+359,Enyɛnpe Ebɔrɛ na nɛ anyeeŋ shuŋ.,Enyinwa eboro na ne anyi nsum. Ndi nna niile ji ocha mara ka ha bu mbu li. Menye gbagba eji kum si daa fa na. Enyinwa eboro na ne minyi nsum.,5.0,3.4615
+360,Kenyi be ga la tɔrɔ nna.,કેમ છે બકા? લે થોરો અને,1.0,1.0
+361,Anyi ere du fanɛ ebɔ nna nɛ fo alɛ du fanɛ mba nɛ mpuliya be epɔrpo.,Anyị arụdụfunu ebe ọ na-efere dịfụnụ mba na mpụrụ ịbụ apụrụ.,0.9375,0.5385
+362,Ŋkpal loŋ so kebaawɔtɔ nɛ n wɔtɔ ere daa maŋ naa la shɛŋ ŋ kutɔ ŋkpal manɛ so k maŋ bar ma tɔnɔ kikɛ ama asheŋ nawule.,"Nkwulu so, ka ba otu na enwete ere daa mana alishai nkwuto nkwalima so, kama m buru ma tunu keke ama eshin na ulo.",0.8519,0.4396
+363,Nɛ egbolu kudu anyɔ nɛ ekpakpa kudu anyɔ nɛ ekpakpafɔlbi nɛ b fo nfɛ koko kudu anyɔ n ta ayu be sargajibi n ti so n lara sarga chɔɔso.,"N'ugbo olukwuda anyo, n'ekpakpa kwuda anyo, n'ekpakpa fulu be n'ugbo fu m si koko kwuda anyo, nte oyu bu siri gi jibi ntiso, m lara siri gi choso.",0.9655,0.3429
+364,Ahaziya daa kɔ esipoche nɛ baa tre mo Jehosheba nɛ e daa kil bɔrɛmatapo ko nɛ baa tre mo Jehowada.,Ahazia daa ku esepuche na baateru Jehoshaphat na Edomite bu ko na baateru Jehoram.,0.9,0.4231
+365,"An ka bee ba durnya ere to an maŋ bar shɛŋ, anyi alɛ naa lar kumo to, anyi maaŋ tiŋ n ta shɛŋ n lar.","Anka beb durunya eretu, aman ber sen. Anyi alinalar komutu, anyi mantin enta sen anlar.",0.92,0.3014
+366,Nɛ Bɛnjamin be yiri to ebi daa la basa ŋgboŋ adesa nɛ anu nɛ alfa ana.,Benjamin Biyoru to Ebidaale baase ngbon adasa nu nu na,0.9375,0.3889
+367,B daŋ sibɛ Abija be mmalga nɛ mbe aworbi kikɛ nna n wɔtɔ anebi Iddo be adrasheŋ be nwɔl to.,,,
+368,N dara m pin fanɛ keji asheŋ nɛ amo be ekpa so maŋ wɔ durnya ere to kikɛ kuraa.,"Ndi be anyi, ekene m unu ozo na ama ba ekposo m unu duru ya ere take ke kura.",0.9474,0.5
+369,Esa kama malɛ maŋ wɔtɔ nɛ e beeŋ tiŋ m pɔɔ fo so.,Asa kamma mala mụwa etu n'ebintụ ọmpọfụsụ.,1.0,0.5
+370,Nde nɛ a daa wɔ bumo be kasawule na so nde: Hɛlkaf nɛ Hali nɛ Bɛtɛn nɛ Akshaf nɛ Alamelɛk nɛ Amad nɛ Mishaal.,"na Adawo, Bomo be, Kasawul na sunde, Helka, na Hali, na Beten, na Akshaf, na Alamelek, na Amad, na Mishal",0.7917,0.25
+371,"Israɛl be basa, Ebɔrɛ kikɛ maŋ naa wɔtɔ.",ইজরায়েল বাবাসা এবোর কে কে মনে হয়,1.0,1.0
+372,"Fo baa kɔ eteri, bɔ fo nawule ka wɔtɔ, ŋkpal manɛ so basa anyɔ e naŋ tiŋ n shuŋ nɛnɛ.","Fada Akụ etere, bọfana wụlụ ka awụtọ, m kwere mụ na sọ, bụ asị anyị nọ 19 nchị nne nne.",1.0,0.5397
+373,Nɛ Gad be yiri to ebi daa la basa ŋgboŋ adena nɛ anu nɛ alfa ashe nɛ adunu.,Nke a bụ ihe e ji dala baa su ngwongwo adịna na onu na afọ ise na odunụ.,1.0,0.5263
+374,nseŋ fɛl anyi n chɛr nɛ an wora ania.,અને એન્કર,1.0,1.0
+375,"” Nɛ bejuŋkparpo na kaŋɛ le: “Kusɔ kama nɛ fo kaŋɛ, anyeeŋ wora loŋ.",na ba jang parpona kanle kosokema na fakanne anyen wurulo,0.9231,0.4
+376,Ndoŋ nna nɛ Yesu lar kaboŋ na n yɔ Judiya be kasawule so ashi Jɔɔdan be lɔr be kaba ndoŋ nɛ jimaŋ naŋ chala m buu mo nɛ e yaŋ ŋini bumo kananɛ e chɛr a wora na.,"na-enye ya nsogbu na uju dị ya banyere akụ na ụba ya, ọ sị Jordan bọrọ ya bọdị na e ji mmanụ na-achala mgbụmụ na-eyenụ bọmbụ ka na-echara ụlọ",0.9474,0.623
+377,N shuli fanɛ anyi Israɛlebi nɛ an nanaana kikɛ wora alubi ŋ gbiti fo.,na ana na aneke ke were olu bi ngweta,1.0,0.6545
+378,Ɛzra ka kraŋ mbra na n sa basa na be asheŋ.,ka kran ambrana an saba suna abu eshin,0.9091,0.4062
+379,"nɛ kufu pɛ bumo ga, nɛ e kaŋɛ bumo le: “M buu ma ewura nna n chena Zayɔn.","N'ụbọchị ụmụaka, nne na nna na-echeta ụmụ ha.",0.9444,0.7308
+380,"Nfɛ adesa nɛ anyɔ nɛ Jehoram daŋ ji pɔɛŋ nseŋ ki ewura, ama e daŋ ji kuwura Jerusalɛm to nfɛ aburwa nna.",nsi adesa na anyu nje huru na ndi. nsi nke e wura. Ema e ndi kuwuru Jerusalem to nsi eburu wu,0.8636,0.4074
+381,"Basa nɛ b maŋ naŋ kurge bumo na gba bɔ anyi, ŋkpal manɛ so, bumo be kenishi maŋ naŋ wu kananɛ kebaa maa ji asheŋ nɛ amo be ekpa so durnya ere to du.","Bịa sụọ na bụ mụ na nkurugo, bụ mụ na agba, bụ anyị. A kpọrọ m na nsogbu bụ mụ bụ Kenechi. M ma na m wụ ka na-anụ kịba m eji eche na amaghị ekposu doro ya eriri.",1.1176,0.4911
+382,Kasokpele a laŋɛ keteŋ Enyɛnpe Ebɔrɛ na so be asheŋ.,આસોપાલવના પાનને તોરણ તરીકે ઘરના આસોપાલવ,1.0,1.0
+383,Nɛ Yesu keni mo kashaso ŋ kaŋɛ: “Kusɔ koŋwule e kraŋ ka nɛ fo wora.,ni yesu kenu mu ka shaso in ka nge. ku sokko le ekkan ka na fa wara,1.0,0.36
+384,"Kede be kaman, nɛ Enyɛnpe Ebɔrɛ naŋ kaŋɛ ma le: “Ma kenya, ŋ kɔ kushuŋgboŋ ko a sa fo.","kedu banyere gị? Na enye m ebe oboro na nkangị mụ lee. Maka nye, mụ kwụkụsị gị mgbe mụ asị",1.0526,0.6508
+385,Mosis ka maŋ nya ekpa n luri Keenan be asheŋ.,Mosis kamanyị ekpo unlụ Kanaan bụ ịsị,0.9,0.4286
+386,"N wu kulubi ko ashi durnya to, kumo e la bewurjipo ka maa ji asheŋ nɛ amo be ekpa so.",Kedu ka ịbụ onye isi dọkịta? Kedu elela buwuru jipụ kama ịdị ezigbo na amụba ekpere?,1.0,0.625
+387,nɛ baa chichi menyi so fanɛ shishɛr na so.,નિબૈચી ચીમિન્યસો ફને શેશેરનાસો,1.0,1.0
+388,nsaa shin nɛ bɔrɛgboŋ bee ba nɛ mboŋ bee pete.,na uba na,1.0,0.8611
+389,Yirda nɛ baa ta a nya amo ashi mo koŋwule na kutɔ.,Jordan bata anya amu echi mukonli na akoto,0.9167,0.3947
+390,"Naniere, fee fɛ fanɛ feeŋ tiŋ ŋ kɔ m pɔɔ kuwurji nɛ Enyɛnpe ta n sa ewura Deevid be kaman to ebi ere so nna?",nyanya re,1.0,0.9146
+391,Kumo be kamɔnchɛ nɛ b daŋ ta asɔ nɛ b daŋ muu kena to ashi Gɛra na m ba lara sarga n sa Enyɛnpe Ebɔrɛ.,Kedu ka m ga-esi mara ma ọ bụrụ na m ga-anọrọ na ya na-enwe obi ụtọ?,0.92,0.7273
+392,Sakaleche Reehab nɛ basa nɛ b wɔ mbe laŋ to nawule e naaŋ ji efute ŋkpal e ka daŋ ta basa nɛ an shuŋi fanɛ b ya dara kasawule na ŋ ŋana so.,"Chakali che rehaab na baasina buwu ambalantu na wulu ene nji efute, nkpal ekada nta baasina nchu nji fane biya dara kasa wulu na ngani su.",0.9394,0.3208
+393,E ki ma nɛ fo kikɛ be ekurgepo shaso naniere.,Ke mana fo ke ke ba ekurupu shasu ni ni ari?,1.1,0.3714
+394,Ɛzra daŋ yili kejaŋ jeŋgreŋ na so nna a keni basa na kaseto nɛ bumo alɛ gba be anishi yuu mo so.,"A sị na ndị isi nke ndị Igbo na-asị na e kene be a sị na a kasị ya, na bụ mmalite gbaa bụ eniche ụmụ",1.0909,0.6351
+395,n wu n tɔr nseŋ bɛ n luri kasawule to; nɛ esa maaŋ naŋ wu amo gba kuraa.,nwu ntor nsam be nlor kasa wulto ne ese manenwu amogba kura,1.0,0.2642
+396,Esa kikɛ malɛ maaŋ tiŋ ŋ kaŋɛ anyi kusɔ nɛ k beeŋ wora luwu be kaman.,Esi ke ke ma le ma ntin enka nye anye kosene ke bienwuru lu bu ka ma.,1.0625,0.4717
+397,Beshumpo na daŋ shuŋ ga nɛ an naŋ pɔr Jerusalɛm be egbal na n fo nferinto.,bu chimpuna dan shunga na anan pur jerusalem ba agbel na nfu nfu,0.9375,0.3621
+398,Ewura Jehoshafat be kuwurji be eleŋ daŋ baa ti so nna saŋkikɛ.,એવર જેહોશાફાત બૂ કોવરજી બૂ એલેન ડામ્બેટીસ ઇનાસાંકકે.,1.0,1.0
+399,Ewura Rehoboam daŋ ji kuwura ashi Jerusalɛm nna nɛ mbe kuwura malɛ ji eleŋ ga.,ewuru bu ubiam denji kuwuru echi Jerusalem ana na abu kuwuru mali ji elenga,0.9333,0.3016
+400,"Kebifɔlbi, baa ji fo kumu kagbenefuliso, ŋkpal fo kebifɔlbi so.",ka eji fulu be ka eji fukwu mu ka gi na fulu so,1.2,0.6078
+401,"Men sa maŋ kaŋ ta ma ketre n wora asheŋ lubi kikɛ, ŋkpal manɛ so, ma Enyɛnpe Ebɔrɛ na beeŋ gberge ekama nɛ e beeŋ ta ma ketre n wora kusɔ nɛ k maŋ daga na kusoe.","mme sa m ka nta maka three, onwere otu nsibidi keke, m kwere m na so, m enye m gi ego ooro na, i bia gbarago ekema na ebe nta maka three, onwere kosi na kama dika ana akwusi",1.0,0.5574
+402,"Ma e kaŋɛ menyi kashenteŋto na fanɛ, kaplɛkama nɛ b bɔ baru lela na durnya ere kikɛ to, baaŋ malga kusɔ nɛ e wora ere be asheŋ n nyiŋi mo.",m ka nga m enye ka chintente na afa ya ka pụlịkị ma na akpọbọkọ baara olulu a doro ya iri keketụ baa mmalụgo kọsọlị e wuru iri bụ echinịnyị,0.9667,0.5566
+403,Livaiebi nɛ Juda be basa na kikɛ daŋ wora kusɔ nɛ Jehowada kaŋɛ na nna.,"Levi, Abi, ni Judah, bu basa na keke, na nwuru kusu na Jehovah da ka nga na ala.",1.0,0.375
+404,bee bɔla Urim nɛ Tumim so a pin fo aparsheŋ.,débloquer UIM et tout mis sous épingle,1.0,0.7353
+405,Kɔnɔlelawura maa wora n daa nyi nna kikɛ.,"Kọ na lụlụ ọrụ a, ma ọrụ ndị enyi m na-akeke",1.375,0.5152
+406,Amoso men pɔr egbalana ŋ kulti men be nde nseŋ wora men be asɔbɔya be aluu ama men wora kusɔ nɛ men nase kɔnɔ fanɛ menyeeŋ wora na.,"A mụ sọ mụ pụrụ egblanụ nkụti mụ mba ndị, nsogbu adịghị. Ama mụ nwụrụ kọsọ na mụ na-asị kọọna fụrụ, mechaa nwụrụ.",0.9643,0.5825
+407,Ama baa bar fo kumu kaseto kusɔ kama to a ta basa fanɛ bumo e bɔ fo.,ama bawo fukumu ka seto ko sakamato ata ba sa fane bomu e bufo,0.8824,0.2157
+408,Basa lubi bre du fanɛ teku nɛ k bee baga to a kaa ketili a lara eyurpi a deŋi kedeŋi so jemanɛ kikɛ na nna.,"Bụ asụsụ ndị bi n'ebe ugwu na-ekwu na nke bụ eziokwu, akara oyiripụ, ederede nke ederede so, jemanụ ka Chineke na-anọ.",0.96,0.7073
+409,asheŋgboŋ n sa anyi; nɛ anyi alɛ be ŋgbene fuli.,anyi enweghi anse anyi na anya na mgbe na-adighi anya,0.9,0.7297
+410,nseŋ shin nɛ b baa wɔ kebaawɔtɔ niŋiso to; saŋɛ na so efuliana na be basa kikɛ beeŋ baa kpaŋ mo.,sancion na babbaw ka bawo tinni niso to sanga na so e fuli ana na babbase keke be mba kwamun,0.8571,0.4189
+411,Ekama malɛ nɛ e beeŋ lɔŋɛ kumo be mbunagboŋana na m pɔr beeŋ paŋ mbe kaluge.,Ekemamale ne ebinu longi komu bu ngbunugbo anu na mpuru bi mpa mbaka alu,0.9375,0.4667
+412,"Kaplɛkama malɛ nɛ men fo nɛ b maŋ sɔ menyi ŋko ŋ kini kenu menyi be kubɔya na, men lar ŋ gbaŋgbaŋ menyi be aya to be shishɛr n lɛ bumo nɛ k baa la bumo be kekini menyi na be tɔɔnɛ.","Ka plik ma malụ na mụ efu na bụ mụ nsogbu enye nke nke na-ekunụ, mụ enye bụkwa ya na. Mụ larụ ngwa ngwa, mụ enye bụ aya tubeshishiri nle bụ mụ na ka baala bụ mụ beki kini mụ enye na-akpọta unu.",1.0238,0.4453
+413,Ma Enyɛnpe Ebɔrɛ e kaŋɛ na!,Enyenụ ya ebere e ka gị na ya.,1.0,0.5714
+414,Kumo be kaman nɛ men bɛta m ba nu kusɔ nɛ k wɔtɔ.,Kedu ka a na-eme mbọ ịbụ onye nkwusa na-akwụ ụgwọ?,1.0,0.75
+415,saŋɛ na so meeŋ bɛta mbe basa.,"सांगा ना सो, मी बीता अंबाबाई",1.0,1.0
+416,ebesa nɛ mee nu ma eyur to na maa yige kikɛ.,એ બસને મીનૂ મયૂરટના માયાગ કેકે,1.0,1.0
+417,Amramebi nɛ Izaaebi nɛ Hibrɔnebi nɛ Uziɛlebi e la Kohaf be kabuna ebi na.,"Amram ebi ne Jochebed ebi ne Hebron ebi ne Uzziel ebi, elle Kohath buke buna ebi na",1.0714,0.3559
+418,"Yili loŋ be saŋɛ na, nɛ Edɔmebi sɔ bumo be amu ashi Judaebi be enɔ to.",N'edom ebi so kpomugbu emu eji Juda ebibe enuto,1.0,0.5472
+419,An Nyɛnpe bugi kagbene n wu ma kuwɔr ga nseŋ sa ma yirda nɛ kasha ashi Kristo Yesu to.,"Anyaa n'pobugu ka bɛn'u ngumu koworga, ansaana samayarda na kashi eeshi Kristo Yesu.",0.8947,0.3582
+420,nɛ a bee bul a teŋi a shile eleŋso fanɛ kabombi nna.,Abiboul et Tenge et Chille et Linceul et Kabombi,0.9167,0.65
+421,Ewura Abija nɛ mbe benapo daŋ kɔ m pɔɔ Israɛlebi na so nna nseŋ mɔ bumo be benapo ŋgboŋ alfa anu kikɛ.,"Ewuru abiaja na-anọbụ na nkọ ụmụ Israel ebi na-asọ. Ana, nsọ mmụọ bụ mụọ bụ na-apụ ngwọ alịfe enu kee kee.",1.0,0.5375
+422,"Kanyɛ ka biri, nɛ Judaebi na ŋana n shile.",ka anyi kee biri na gi na ebi na aṅụrị na ṅịrị,1.1111,0.5625
+423,Naniere men shin nɛ an kikɛ e ta asɔ nɛ b paŋ anyi na ŋ kɛ bumo.,N'enye anyị mmechi na nke ka etu a asụnabụpụ anị na nke bụ,0.9412,0.5532
+424,E daŋ mur agbir nɛ a wɔ Juda nɛ Bɛnjamin be kasawule so nna nɛ amo nɛ a wɔ nde nɛ e kɔ n sɔ Efrayim be abee be efuli so na kikɛ.,এ দম্ভ আগরনা আউ জুদা নে বেঞ্জামিন বেকাস আউলসিনা আ আমুনি আউ আন্ডানা আকো নসো ইফ্রাইম বে এবে বে এফুলসিনা কে কে,1.0,1.0
+425,Befɔ na daa wɔ basa ŋgboŋ kalfa nɛ adunu nɛ asa nɛ alfa ashe.,Bụfụ na daalụ baasị ngwo nkalisị na edunụ nụ asaa na alefechi,0.9286,0.4894
+426,Jemanɛ kikɛ asheŋ lubi nɛ menyee kre nsaa nya manaŋ a wora amo.,Jemane ke ke eshi nubi nemenye kere insanya manang awura,1.0,0.36
+427,Ewulpo be kudonduloŋ bee wɔtɔ mo asheŋ to nna.,બહુ બહુ આભાર દુલંગ બેવટો મુ એસેન્ત,1.0,1.0
+428,"Aloŋ, kade na be egbal na beeŋ tɔr, nɛ menyi be benapo kikɛ e luri kumo to.","Aloo, kedu na abụ? Ị gwelu na abị ntọrọ? Na-emenye bụ na apụkeke elụrụkọmụ",0.9412,0.5357
+429,"Anyi alɛ daa tama fanɛ Ebɔrɛ beeŋ mɔlga anyi ashi kanyaŋ nɛ alubi to, ama loŋ maŋ wora.","Anyi aladata ma fene, eboro be mmụọ ga anyi echi ka njem na olubito ama ruo mmuo",0.8333,0.3676
+430,Kufugboŋ gboŋi tɔr ma so; m paŋ ma bunyaŋ nɛ kedamaya kikɛ nna.,"Kufugbo ngbongbo ntoroma so, ampa amubonye na kedami akeke ana",0.9231,0.4082
+431,Ma alɛ beeŋ shin nɛ fo ketre e dii a chɔ bewura kama nɛ b juŋkpar fo nɛ bumo nɛ baaŋ bɛ fo so kikɛ.,malle be'en chana fete'en eddi acho'u buwuri kama na ba jan kwarafu na ba monne ba'en be fosa kike,0.96,0.4324
+432,Kananɛ Enyɛnpe Ebɔrɛ daŋ kaŋɛ na gbagba nɛ b daŋ bɛ so nseŋ ta kade nɛ e kaŋɛ fanɛ e bee sha na n sa mo.,Ka na-enye nkpo eboro daa nka na agbagba na be daa mbiso. A si m taa ka di na eka nwa fu na ebi chaa na nso.,1.0,0.4359
+433,Anyi alɛ beeŋ naŋ bar aboyu nyifu nɛ an fara ŋ kɔr m ba sa bɔrɛmatapoana na ashi bɔrɛlambu na to.,"Anya lebe na mbere obughi ihu, na anahara nkuru mbase kboro matapu anana, echi kboro le ngbu na",0.9524,0.4474
+434,nseŋ mige bumo to m pin fanɛ b la beshenteŋjipoana nna.,"Maka m ga-ewetara gị ihe nile taa, biko tinye ya n'ime akpa m.",1.1818,0.8636
+435,E shin nɛ asɔrso na e baa wora nɛnɛ jemanɛ nɛ k daga.,A sị m a sụgharịna ebe a bụ nne na nna ka ọ dị,1.0769,0.65
+436,kuwɔr nsaa walɛ; Kashenteŋto Ebɔrɛ.,ka ọ gwa anyị awa ole ka shintento egbọrọ,1.8,0.4828
+437,"Ŋkpal Juda be basa ka ta bumo be yirda n lɛ Enyɛnpe Ebɔrɛ nɛ e la bumo nananyɛnana be Ebɔrɛ na so so, nɛ b daŋ kɔ m pɔɔ Israɛlebi na so na.","maka gi da, buba si ka taa, buma bayar da anle enyin pu ebor ne ele buma na ne nyi na na bu ebor na asusu, ne bu da nko mpo Israel ebi na aso",0.9697,0.3714
+438,Esa kama nɛ e bee shuŋ kegbir nɛ basa nɛ baa lɔŋɛ agbirana na kikɛ la edimɛdi nna.,Asa kamne ebe m si nụ akbar na baa sị na baa long akbar na na keekere edimedi,0.9444,0.4688
+439,Nfɛ asa nɛ Israɛlebi nɛ Siriyaebi maa kɔ kena.,na Israel ebi na Syria ebi ma,1.0,0.4595
+440,Men shin nɛ Israɛl be basa e kaŋɛ le: Enyɛnpe Ebɔrɛ na daa maa wɔ.,મેન્શન ઇઝરાયલ બાસા એકાંગલે એને પુ એબોરો ના દામા,1.0,1.0
+441,Amo nɛ amo kikɛ an kra maa pin mbe nfɛra chiŋgeliŋ na to a loge.,"Amu na amu keke, ankerem pin mbe nsiri chingilin na ato",0.8,0.4082
+442,Bumo ere beeŋ tiŋ ŋ luri ŋkpal b ka lara kulubi bumo be ŋgbene to nsaa du cheembi so.,Bamu da wani abu da ya wuce mu gode wa Allah da ya ba mu wannan dama.,1.0,0.8182
+443,"Epul na to nɛ benapo na luri kade na to n sɔ kumo to kikɛ, nseŋ ta bumo etokobi m mɔ benyɛn nɛ beche nɛ mbia nɛ benimu nɛ kusɔ kama nɛ k wɔ kade na to kikɛ.",ya na atu na abana na elili ka di na atu onso ka mu tokeke. nsenta bu mu etoke obi oma benye na biche na mba na bu numu nokosa kama noka ka di na atu keke,0.8947,0.4017
+444,Emo nɛ e daŋ ka nɛ e shuŋi e daa la mo pibi shaso gbagba.,Amụrụ Eda Nka na Echiunyi Eda dị n'Ebonyi Steeti gbagbada.,1.0,0.5952
+445,ŋkpal ŋ ka bee ŋana kufu fanɛ basa beeŋ keni ma jiga so.,"ankal anka be ngana kufufane, esi bin kenu majakaso",1.0,0.3953
+446,” Nɛ e gberge mbia na m mata mbe kumu n ta mbe enɔana n deŋi n deŋi bumo so nseŋ nɛfa bumo.,"na ekabiriki mbinu a amata mbu kumu, anta mbu enu ana ndi ngi ndi ngi bu muso, ansa na fa bu",1.0,0.403
+447,"Ma kagbene maŋ fuli ma, ŋkpal manɛ so, kadegboŋ nɛ b puli n nanaana na bure a dese nɛ kumo be mbunagboŋana kikɛ ji edɛ.","Maka ka mụ na ụmụrụ mụ a, a kpọrọ m unu so ka unu bụrụkwa àmà na a na-agbụrụ adese, na-akụkwa mbọ na mbụrụgọnụ ana ka kiji",1.04,0.6304
+448,nɛ baa shile a yɔ mo kutɔ na nna.,na b'shile anyi omukoto na ana,0.8889,0.4167
+449,Kede be kaman nɛ n nu Enyɛnpe Ebɔrɛ na ka kaŋɛ le: “Wanɛ nɛ meeŋ shuŋi?,ka ka ngili. Wana na,0.9375,0.8302
+450,Ndoŋ nna nɛ m bishi Enyɛnpe Ebɔrɛ na le: “Jemanɛ mo nɛ kede beeŋ fo ekar?,Kọmịka mmanụ na-enweghị ike ịmalite site na batrị enwere ike ịgbaji na-enweghị asụ etii na-enweghị,0.9375,1.1818
+451,Efuli pɔtɛana so ebi ka beeŋ ki Ebɔrɛ be basa be asheŋ.,એફુલો પોતે આને સુ એબી કેબિન કી એ બોર્ડ બાસુ એસે.,1.0,1.0
+452,Anyeeŋ bar anyi be ayu teŋiso be kudu kudusopo m ba sa Livaiebi nɛ baa nite a sɔ asɔ ashi ndeana na to na.,Anya bụ anya bụ ụyọkọ nsogbu dịkwa egwu so ọgbakọ ndị isi ndị anọ na atọ.,0.9583,0.6829
+453,Kufu nɛ n daŋ ta n wɔtɔ bumo to fanɛ kananɛ n daŋ wora Amɔriebi be bewura anyɔ nɛ b wɔ Jɔɔdan be lɔr na be epeŋilarkpa na.,"Kufụ na ndị anta anwụtabu moto fane ka na ndị a nwụrụ amụrụ ebibeghị wuru anyọ, na bụ Jordan bụrụrụ na bụ epenglarakwa",0.9643,0.3936
+454,Ndoŋ nna nɛ Ɛzra ya ta mbra be kawɔl na m ba.,na na Ezra ya ta amraba ka wolna,0.8333,0.4242
+455,"Basa nɛ b wɔ kamɛaŋ to na bee shu anishichubi nɛ esa kama maa chɛ bumo to, ŋkpal basa nɛ baa mɛaŋ bumo na ka kɔ eleŋ a chɔ bumo so.","Ba sa na buƙatar biyan kuɗin bishiyoyi da aka saka ma macen mota, an kwal ba sa na ba mian kuɗin a ka kuɗin a cibi su.",0.9355,0.5455
+456,Men sa maa fɛ fanɛ Enyɛnpe Ebɔrɛ na pɔ nna ga so nɛ e maaŋ tiŋ m mɔlga menyi ŋko mbe asoe ti nna so nɛ e maaŋ tiŋ n nu kushu nɛ menyee shu a fin kechɛto na!,"Mensa ma afifi nee, enyenpe ebor na apu onaga so nee ementin umu gi menye. Nko mbo asuti na so nee ementin nnuku chi na mini ichu efi nkechete na.",0.8974,0.3675
+457,"Ma, Ebɔrɛ e lara Eebraham nɛ mbe eche Sɛɛra.",ma ebor eler ebraham na mbe eche sere,0.6667,0.2647
+458,"Ade kikɛ be kaman, nɛ Enyɛnpe Ebɔrɛ shin nɛ epunto be ebesa tɔr ewura na so.","Anya ka ebe ka aman, na enye kwa eboro Chineke putu ebe ebe si turu ewu na asu.",1.0625,0.4407
+459,Basa nɛ asɔ be kejija n lɛ nɛ kemur nɛ menyee yige kaman ashi kaplɛkama nɛ men yɔ.,Basan aso bakajija anlei ne kumur ne menye yege ka man eshi ka play kama ne meyo.,1.0,0.2812
+460,"Nɛ m moɛ nna ŋko nɛ akoŋ kɔ ma nna ŋko nɛ fanɛ ŋ kɔ ga nna ŋko gbrɛbi gba nna, a bee kukwe ma nna.","na mụwa na nko na ekokoma ana, nko na fane, nko ka ana, nko kperebe gba ana, abikokoma ana",0.9615,0.4366
+461,Filistiebi na be beko daŋ ta gbiti damta nɛ ŋkɛ ko nna m ba sa ewura Jehoshafat a ŋini fanɛ b sɔ mo ŋ ki bumo be ewura.,"Filisti ebinarọbọkọ danta gbitịdịmta na nke ikpeọna, mbasi ewurụ Jehova Shafaat, enyinụfọnụ bụ sọọm nke igbụmgbo ewurụ.",1.0,0.3956
+462,"Nchu daa maŋ wɔ ndoŋ nɛ Enyɛnpe Ebɔrɛ na shin nɛ kefalta baŋɛ nɛ nchu lar kumo to saŋɛ na so, menyeeŋ nya n nuu.",Nchu damu nwa undu ni enyinpu eburu na Chineke furu taa bange ni nchu lere kumutu sanyi na so menye nni onu.,0.8,0.4186
+463,ekuŋkpagboŋ nna a kuŋ ma; amoso maa lɔ kufu.,"अन्ना अकुम्मा, अमूसो मालूकु",1.0,1.0
+464,Ekama maŋ kɔ ekpa nɛ e luri bɔrɛlambu na to ama bɔrɛmatapoana nɛ Livaiebi nɛ baa shuŋ kumo to kamɔnchɛ na nawule.,Ekamamuo ko ekpa na elili boru le mbu na ato ama gboro moto fu ana na Levi ebi na be Ochi nku moto kamonchi na ana wulu,1.0909,0.3297
+465,Bumo alɛ kikɛ maŋ kɔ eleŋ.,"Bụ mụ ala kịkị, mụ nụ eluigwe.",1.1667,0.7
+466,tɔrɔ be jemanɛ; a ta ma a ŋana mbe bɔrɛlambu to.,Toro baje mane. Atam angna mbu boru lembu,1.0,0.3611
+467,Kuwɔ be keduŋ esa m mɔ pɔɛŋ nɛ edurpo e ba wora kudur m mɔ kuwɔ na maŋ kɔ kechɛto kikɛ.,Kobo kuddum es umor poin ne eduru eba wuru kuddum umor kuwona munko kachitakiki.,1.0,0.4697
+468,Saŋɛ na so Ebɔrɛ nɛ kagbenewushi wɔ mo to na beeŋ baa wɔ menyi to.,"Sanganso, ebor ni ka guni wushi umuti na, bimba wu menyi",0.8667,0.4118
+469,Men baa chige menyi be ajibi to a sa basa nɛ b maŋ kɔ nɛ b ji nsaa sa bumo nɛ b maŋ kɔ edesekpa kakpa nɛ b dese ashi menyi peana.,Mmemme chigwe menye bụ ejibito asịbàsị na bụmụnkọ na bụ ji. Nsọ asị bụmụna bụmụnkọ edesịkwa ka akwụkwọ edesị echi menyepe ana.,0.9688,0.4227
+470,K la asheŋ fuloŋ nna nɛ kumo alɛ be loŋ du fanɛ fo ka bee ju a bɛ afu so na.,"Kele eshi m fulu ana, na-ekwe m ala buru m dufene, fu ka eji obi afụsị na",0.9048,0.5091
+471,"Ŋkpal Israɛlebi be ewurkoŋnyɛn ka shi a chɔ Livaiebi kikɛ na so, a daga b ka tɔ ewurkoŋnyɛn alfa anyɔ nɛ adushunu nɛ asa nɛ b chɔ so na ashi ma kutɔ.","Aunty, i zuru ebibi ewurukọ nyan ka ị sị achọ ịbịa ebe nke kịna asọ? Adịghị bakatọ ewurukọ nyan alfanyo na odushinu na asa. Nọbọ chọsọ na ịsị makọta",0.9375,0.4569
+472,Kananɛ e baŋ mur Ijiptebi na nɛ e beeŋ mur basa nɛ menyee ŋana naniere na gba.,Kanda na ebe mụrụ Egypt ebi na ebe mụrụ basị na mụ nye ngị na eniara na,0.9412,0.459
+473,"Kapa nɛ kanyɛ kikɛ nɛ an daa shuŋ, ŋkpal manɛ so, an daa maa sha keshin nɛ men be ekama e baa wɔ kegben to.","ka aputa n'aka nri ka ị na-anọdụ ala. A kpọrọ m unu so, ndị a ma ama ka ha na-eme ebe a ka gbanato.",1.0,0.5625
+474,Kenawule nɛ awurfoŋ kɔ ma nna; amoso Enyɛnpe Ebɔrɛ.,kanna ule na awurufon kuma na amuso enyin to eboro,1.1111,0.3415
+475,Bumo kikɛ daa kɔ kenyɛn ga nsaa nyi kena be kekɔ nɛnɛ.,Bomo ke da ko kan yan ga in sayi kana boko kone.,1.0,0.4286
+476,Nɛ kanaŋ kama nɛ meeŋ lara na be basa e yili kukoko to.,na ka na kama na me lura na babu se eyin li kuko,0.9231,0.3333
+477,Kasawule nɛ b ta n sa Isakar be yiri to ebi na be asheŋ.,का सावल नबत्ता अस इसाका बयिरतु एबि नाबु एशे,1.0,1.0
+478,Ɛzra ka kraŋ kawɔl na n loge nɛ e kaŋɛ: “Kemaŋkura e baa la Enyɛnpe Ebɔrɛ nɛ e shi ga na peya!,Eze na-akakra ka olu na-elu gi. Nee ka m ga-eme ka m kura eba le enyi m nwoke eboro na echigha na-apia.,1.0,0.4714
+479,Fo nɛ fo benapo na kikɛ e nite ŋ kulti Jɛriko be kade na kela koŋwule karechɛ kama m bɛ abar so loŋ be nchɛ ashe.,na fụba na apụ na akụkị enite nkulite jere kụọ bọka dị na a kụrụ kụọ lụkarịcha kama m bịa abụrụrụ m bụ nchi echi,0.8846,0.4943
+480,Ndoŋ nna nɛ basa ko bar mo neemunyɛn ko nɛ kamalga daa nu mo m ba kule Yesu fanɛ e ta mbe enɔ n deŋi mo so.,na basu kofar mu na munyan ko na kamaligada numu mba kuli yesu fene eta mba enu ndengemus,0.9259,0.3375
+481,daŋ mushe nseŋ wora bumo eyur to nna.,An san warbamu a yurta,1.0,0.5862
+482,nɛ Binui nɛ e shi Henadad Kadmiɛl be kabuna.,ne be nu ne esi he na da card meal be ke bu,1.3333,0.3714
+483,Nɛ e naŋ bɛta n shuŋi kenya ko nɛ b ya mɔ mo.,na anabete nshunyi kenye ko na be ya mu,0.8462,0.4062
+484,"Saŋɛ baŋ fo fanɛ b kaa keeyi to, Kohafebi na e daga fanɛ b sulɔ asɔ cheembi na nɛ wajɛbu na be asɔ kikɛ.","Sanga bamfo fana baka kayito, ko ha e bina edga fana bo solo aso chembina na waji buna bo aso kike.",0.9583,0.2785
+485,Mo e naŋ shin nɛ an tiŋ n shuŋ kushuŋ na n loge nɛ shɛŋ maŋ wora.,mụ e na-achịkwa ntị mụ nchịkọsị na-anụ gị na Chineke mụ onwe,0.8824,0.6875
+486,Le nɛ b daŋ bɛ abar so n nite ŋ kulti kade na.,लेने बदाम भी आबरू अनित्य नकुल थी कादंबरी,1.0,1.0
+487,kumo ere Ebɔrɛ e shin nɛ afitiri nɛ ewi.,Kụọ arụ. Abụọrọ Chineke ebube dị n'elu,1.0,0.7742
+488,"Nɛ kanyɛn na kaŋɛ: “Eŋinipo, ma kebiato kikɛ nɛ m bɛ amo ere kikɛ so.",Nke a nye m nke a nye. Enyere m gị ya. Mụ ka bịara nke kee na mbụ amara nke,1.3333,0.7255
+489,Mannɛ anyi nɛ mo sipocheana e wɔ nfe na a?,Mene anya na mu subu che ana na ewu nfe na.,1.0,0.4062
+490,"A laŋɛ Dan be yiri be kaplɛa so, le nɛ Mosis daŋ kaŋɛ: “Dan du fanɛ buluŋ fɔlbi nna; E shi Bashan be kasawule so nna n tɛ n lar.",,,
+491,Yesu nɛ mbe bebɛsopo na ka bɛta n yɔ laŋ to nɛ b bishi mo demu na be asheŋ.,Ị ga-esina mba be bisopụ na ka abịta anyị bụ Lanto na be bishị Mụdemụna bụ Eshin.,0.9474,0.4286
+492,Ŋkpal loŋ so e daŋ ji eleŋ Juda nɛ Bɛnjamin be nde so ga.,"Kollon so, e den ji ele Judah ni Benjamin ba anduso",0.7857,0.3488
+493,Mo koŋwule na e yili kasɔdu nɛ kasɔteŋi be saŋɛ.,મુકોંગલીના એયિલી કા સુદુ ન કા સુતેંગે બસાંગ,1.0,1.0
+494,Ma luwu be kaman bre baaŋ wora kumo nɛ k chɔ loŋ.,मुल्लू बकामन बरे बांवारु कोमनु कोचुलो,1.0,1.0
+495,Shuwa nɛ gbiti nɛ kusɔ kama nɛ b ta katishaŋ peper nɛ abɛlso n wora na nawule nɛ b daŋ ta n wɔtɔ Enyɛnpe Ebɔrɛ be kpanjawu to.,Chịwa na-egwiti na kasị kama na bata. Ka ha chịa mpọpọrọ na abalị sọ onwụrụ na anawụlị na bịdọnta onwụtu enyịpụ eborọbọ panjawụ.,0.9286,0.449
+496,Akoŋ nɛ achukoŋ maaŋ naŋ pɛ bumo kikɛ.,Akon achukwu mana mpe bomoke ke. Epenye na ka shishiri sa wulu so be abelde mana toro bomoke.,2.25,1.9333
+497,Ama bedamta nɛ b juŋkpar naniere beeŋ ba ki bemantopo nɛ bedamta nɛ b shir kaman naniere e ba ki bejuŋkparpo.,Na ba damu da na ba janƙar ne ni a rai. Bi maki ba manta po. Na ba damu da na ba shirka man ne ni a rai. I ba ki ba janƙar po.,1.4762,0.4205
+498,b ji kadegboŋ na to ŋ gben nseŋ wu n dese agbembi so.,bịa jikadụ gọvanato angban nsụnwụ ndị si egbe mbịsị,1.0,0.425
+499,Rehoboam ka pɔr egbal ŋ kulti ndeana na be asheŋ.,Rehoboth kapoor ekwele nkiti enu na be eze.,0.8,0.4872
+500,nseŋ suge bumo asɔ kachɛ lubi achɛ na.,nsogbu ga-abụ asọ ka chillu bịa achịna,1.0,0.4667
+501,Bedoŋ daa fin anyi nɛ b mɔ ashi kegbembi kama so nna.,Bụdọndị fịn anyị bụrụ ụmụ echị kịgbe mbịkị ma sọ ịnọ.,1.0,0.5366
+502,"Bekurgepoana, b ka daŋ barga anyi ashi men kutɔ na an daŋ barga menyi eyur to, ama an be ŋgbene bre to anyi nɛ menyi e daa la.","Bụkọrọ m àlà, m ka damụrụ gị anyị echi mụ kụtụ na. A damụrụ gị mụ nyị e yụrụtụ. Ama m àlà m bụ onye na-bụrọtụ, anyị na-menye e daala.",0.9643,0.5104
+503,Nɛ Eenan pibinyɛn Ahira nɛ mo alɛ shi Naftali be yiri to na bar mo peya kachɛ kudu anyɔsopo na.,na enweghi obi abuo na ahia na mbughachi na afutara abughi ihe na-eweta mmepe akụ na ụba.,0.95,0.72
+504,"Ade be kaman, nɛ Mosis tre Joshuwa m ba kaŋɛ mo le ashi Israɛl be basa na kikɛ be anishito: “Nya kagbene a kɔ kenyɛn.","A ga-akpọkwa aha ya Moses, nwa ya nwoke, onye Izrel ga-abụkwa ndị isi na-achị ya. Ya ka gbara akwụkwọ ya",1.0,0.7079
+505,"Bumo be egbaŋɛ be alotobi du kpakpa fanɛ awarabi nna, nɛ bumo be kena to be egbaŋɛturko malɛ be aya bee kilgi to manaŋ manaŋ fanɛ kawuliwuli na.",Mụ onwe m agbanweghị bụ ọrụ tibido kpakpando awara be ana. Na bụ mụ onwe m ka na-atụba egbangị turukoo maọbụ anya bi kiligị tụmanamana mfanị ka wuruwuru,1.0,0.5043
+506,"Benyɛn nɛ b fo kufɔl ŋko m baŋ so nɛ b daŋ karga ashi Gɛshɔn be kabuna kikɛ, daa wɔ ŋgboŋ ashunu nɛ alfa anu.","Benin na bọfọkọ fọlụ nkọ ọmbansọ na bẹda nkiri education bẹ kọ bụrụ keke, daaụ ngbọn ọchụrụ na 1900",1.0,0.6265
+507,Nɛ men tre ma malɛ meeŋ shuli menyi be ketre na!,"na menter ma malé, m'en chuli m'enyi bu katara",0.8182,0.3243
+508,Ewura Rehoboam mo nio e daa la Naama nɛ e shi Ammɔn be efuli so na.,Ewure bu anumanu n'echi amon bu efulu na,0.9375,0.5294
+509,Eŋinipo kikɛ maŋ naa wɔtɔ fanɛ mo.,എങ്ങനെ പോകുന്നു മനോഹരമായ,1.0,1.0
+510,nɛ kasawule na kutɔ nna.,na kasawale na koto ana,0.8,0.2632
+511,"Adna e daa la Juda be kabuna be benapo be enimu, nseŋ daa kɔ benapo ŋgboŋ alfa asa a keni so.",A na-edale Judia bụkwa bụrụbe bụnapụbụ ala mụ. Ọ sị na ọkụ bụnapụ ngwụ alpha asị ekenesị,1.0,0.4789
+512,Bekama nɛ b wɔ kebaawɔtɔ lela to bee nya kayurwushi nɛ ewushi ashi luwu to nna ŋkpal b ka daa wora Ebɔrɛ kasonu so.,"Bakkamma na ba wa ka ba wata lallato, don yi kyau ya ruwushi ne, a wushi a shilu ta ana, an kwal baka da wuri a ba wurin ka so nusu.",1.25,0.4396
+513,B daŋ ya kɔ m pɔɔ Ijɔn nɛ Dan nɛ Abel Mayim nɛ Naftali be ndegboŋana nɛ b daa ta bumo be asɔ a yili to na kikɛ so nna.,"bụ ndị akụkọ ụmụ Ijon na Dan na Ebel, Mayim na Naftali bụ ndị gbuo ana na bụ data bụrụmụba asụ e yiri tụ na akụkọ",0.8667,0.4432
+514,"Asheŋ maaŋ nyalɛ n sa ma, ŋkpal manɛ so, kamalga kikɛ nɛ k beeŋ lar ma kɔnɔ to la kulubi nna.","Anya na-esem ma, a kpọlụ mụ na ya, ka mụ na ya kene kebe ndị mmadụ, mụ kụọ nụ ha aka n'obi.",1.0476,0.6857
+515,nɛ b maŋ naa kɔ eleŋ nɛ b shile ŋ ŋana bekpampo so nna.,"Ndi mmuo na-akuku ulen, ndi bu ichile angana bakwa mposo",1.0,0.561
+516,"Ndoŋ nna nɛ bumo kikɛ fara a gbelge kebee na so nɛ Yesu fiɛ bumo so ŋ kaŋɛ: “Men sa maŋ kaŋɛ esa kikɛ kusɔ nɛ men wu na be asheŋ hale nɛ ma, Nyiŋgbasa Pibinyɛn e ya tiŋi luwu to.","Ndonke ana na-ebum ka keefara agbale nke bee na-aso, na-iya sofe bumusa nke ange. Minsa mụ nke ange ese keeke kwụsị n'ime m nwu na bu echen halụ namma, nyi gbezi pipi nyin iya tinelu",0.9756,0.4701
+517,"Nɛ Pita kaŋɛ: “Keni, anyi ere yige kusɔ kama nna nseŋ ba kaa bɛ fo so.","અને પિતા કહે છે કેની, અનારીઓ કસકમા અના અસન બાકા",1.0,1.0
+518,nɛ edɛ daa suse wuloŋ wuloŋ mbe enɔjiso to.,na ebe daa susu wulowulo mgbe eji susu,0.8889,0.3529
+519,"Yuodia nɛ Sintiki, men jande, mee kule menyi nna fanɛ men wora ania n lɔŋɛ abar a wɔtɔ fanɛ besipoche nɛ b la Enyɛnpe na peya.","ya na sintiki, menda an de me koro me ana afa ne, me wur enia nlong abor awote fani kposikwuche na bele enyin fana",0.9615,0.4388
+520,n sa anyi nna; ama naniere bumo e ki fanɛ ebɔ be mpuliya.,Anya ana amaneni ari bụmu ekifụne egbọ bụ,1.0,0.5116
+521,Juwebi be kufɔl nɛ baa tre Kislɛv na to e daa la.,Joo ebe bokofal na baatri kishlev na to edaala.,0.8333,0.2703
+522,"Jehoram be kuwurji ka nya eleŋ, nɛ e shin nɛ b mɔ mo sipoana na kikɛ nɛ Israɛl be benimuana na be beko.",Jehovah bu Chukwu oge niile na-eche na bumuo mosopụ anụ na-keke. Na Israel bu bunumụ anụ na bu,0.913,0.5063
+523,Katutuku ashi Gilgaal be asheŋ.,Kumu onu. Kutuku esi galgal bu esi,1.4,0.6154
+524,N daŋ wora kambɔl nna n duu ndibi nɛ e bee sa kayul nɛ basa e baa chena to a wushi ashi ma kelɔnɛ so nseŋ duu ndibisɔrso be yiri yiri n wɔtɔ kumo to.,Nda wurikambl ana ndu indibi ne abisa koyul na basa eba chinato awishi eshi mokolo neso. Nsondu indibi soroso biyiri yiri onwotokomoto.,0.9429,0.2632
+525,Mbe jemanɛ to e daŋ shin nna nɛ b naŋ pɔr egbalana n deŋi deŋi egbalana nɛ b pɔr ŋ kulti Juda be nde na so nɛ nde na nya eleŋ n ti so.,"mbeje munu to, edanchi ana na be na mpuru egwula na ndengu ndengu egwula na na bu puru onkulutu Judah be ande na so na ande na nye elengu ntisu",0.8529,0.39
+526,maŋ tiŋ n sa ma asheŋ bishiso na be atugebi.,Mentin an sama ashen bishi suna ba'a taba,1.0,0.3235
+527,fo sa mo nɛfa mbaanaayɔ; fo nɛ mo be kebaala na.,fa na mu na fa mba na ayo fa na mu baka ba la,1.2727,0.3889
+528,bee ŋini bɔrɛfugboŋ nɛ k bee ba be asheŋ nna.,"Bịng nụ bọ rùa phùng, nạ ke bẹ bọ ếch ình ằn.",1.2,0.7143
+529,Enyɛnpe Ebɔrɛ na beeŋ shin nɛ men kɔ m pɔɔ so.,"E buru na abịọ n'isi n'ime nkụ mpọsụ. Ị sị na ị danụ, mụ ka ga-akụtu na ị danụ aka mụ lee ịna. A na-ebi anụ na-akịkịdọ nwu nke a ị na-afụ nị. E wuru na abịọ nkụ mpọsụ.",3.4545,2.9143
+530,"Ŋkpal loŋ so, Enyɛnpe Ebɔrɛ na beeŋ gberge fo basa nɛ fo kanaŋ to ebi kikɛ kusoe nseŋ mur fo asɔ kikɛ gba n ti so.","Nkulunso, enyi m eborọ na abịam gbara gi fọbasa na fa ka na ntị ebikike kwusi, nsị mmụọ fụ asụ ke ke gba ntị",0.9615,0.4483
+531,N daa maŋ tiŋ n di kamɔnchɛ be kanyɛso; ŋkpal edare bubɔrɔ nɛ n daa ku so.,"Ndi m'turu di kamonche b'kanyi so, ankwal' e daru buburo na ndi kusu",0.9412,0.375
+532,Kananɛ b daŋ wora Jɛriko be ewura na gbagba chap nɛ b wora ndoŋ be ewura na gba.,ka na na-ebadanwu Jeriko bụ ewu na-agbagha chaapụ na bụrụ ndọọ bụ ewu na-agba,1.0,0.371
+533,"Nɛ Yesu niŋi to m bishi mo: “Kache manɛ, b wɔ nnɛ?",Ka ke mana,1.0,0.8286
+534,E lara ma nna n nɛfa ma nɛ m bɔ baru lela na.,એલારમાં અન્ના અન્ના ફાર્મા ના ઓમ્બુબારો લલોના,1.0,1.0
+535,Kare ka bee chɛ nɛ e naŋ ba bɔrɛlambu na to nɛ basa na kikɛ shɛr ŋ kulti mo nɛ e kilgi n chena a ŋini bumo abɔrɛsheŋ.,karaka bee che ne e na m boru le mbu na atu na baasi na keke shiri nkwo tumu ne e kulu enchi ne enyi bu mu aburochi,0.8929,0.4382
+536,Mo nio e daa la Eliab pibiche Abiheel nɛ e la Jɛsi nɛ e la ewura Deevid mo tuto na mo nanabi na.,Munniyo edaali ili a pibiche abial na LJC na ele eburu David mututu na mona na bina.,0.913,0.3151
+537,Kusɔ nɛ k tir e la fanɛ men shin nɛ an ba kraa wɔtɔ a bɛ asɔ nɛ an chɛr a bɛ so na so.,"कुसुने के तिर एलफने मेन्सन आंबा कराओ तो आबे, आ सुने आन्चर आबे सुनासु।",1.0,1.0
+538,be egbri nɛ a beeŋ sɔ kumo kikɛ to na.,na abali na abali so ka m na ekwu,1.0,0.7143
+539,A daga fanɛ b baa shin nɛ Enyɛnpe Ebɔrɛ e baa nyiŋi.,Adaka fene babasene enyinpe ebore ebe nyin,1.0,0.4
+540,"Loŋ be jemanɛ na nɛ n daŋ kule Ebɔrɛ kenishipere so ŋ kaŋɛ le: “Enyɛnpetale Ebɔrɛ, n nyi fanɛ asheŋgboŋ nɛ emamachisheŋ nɛ fee sha kewora na nɛ fo fara ŋ ŋini ma na.","N'oge gị mụ na na ndụmọdụ eboro gị na isi puru ịkagbuo ya. E nyere gị ntị na eboro ya, ịnyeghị ya ntị, e si mgbe ahụ na a machie gị na ihe sakwara gị n'olu na na fufara gị n'ọnụ.",1.1176,0.6875
+541,Awo to nɛ e ta ako m puga edɛ n wɔl mbe kumu nseŋ kaŋɛ le: “Keni kananɛ kaboŋ bel edɛ a wɔ ebel loŋ!,A wụrụ otu na etu akụkụ ụmụagbọghọbịa na-ewulite mbụkụmụ nsankangịlị. Kene ka na-eke bụ mberede awụbụrụ.,1.0,0.6849
+542,Bumo peya e la kebaadese a di a ku edare.,"Bụ mụ pịa L, kụọ D si D okwu edara.",1.0,0.5484
+543,Basa na bre daa wɔtɔ nna a wora alubi a ti so saŋkama.,Basna abrodawuti na awur olubi etisu sankama,1.0,0.3171
+544,Ndoŋ nna nɛ bɔrɛmatapo Eliaza pibinyɛn Finihas kaŋɛ bumo le: “Naniere bre an pin fanɛ Enyɛnpe Ebɔrɛ na e chɛ anyi to nɛ an lɔŋɛ abar na.,Ndon'ana na bọrọ matapu Eliyaza Pinihas ka ga bụrụlụ n'elu ya abụrụ na Pini enyinụ e bọrọ na eche anyịtụ na a nọọ abụrụ na.,0.9259,0.4673
+545,Fo nawule e naaŋ tiŋ n chɛ anyi to n shin nɛ an nya kumɔlga.,fada wole e na ntin enche anyi to enche na anyi komolu,0.8,0.4222
+546,Ndoŋ nɛ Israɛlebi na be aba pɔ bumo nɛ kufu pɛ bumo ga.,"Ndonu Israel ebinaba apu bu mu, nukufu pi bu mu",1.0,0.2857
+547,bumo so n shin nɛ basa e baa nyiŋi bumo.,"bụ mụ sọ, anị sị na bịa sị ebe ị bịa",1.1,0.7
+548,Ade kikɛ be kaman nɛ b bɛta n yɔ Jerusalɛm.,આ દેખાય કે બકામાન નવ બેતે અયો જેરૂસલેમ,1.0,1.0
+549,Benapo na daŋ ya tu abar abee so be efuli nɛ k wɔ Efrayim na nna.,બનાવો ના દયા ટુ અબર એબે સુબ એફુલે નોકોવો એફરાઈમ ના,1.0,1.0
+550,Nɛ ewura na nɛ mbe bejuŋkparpoana shuli fanɛ b wora kulubi nseŋ kaŋɛ le: “Kusɔ nɛ Enyɛnpe Ebɔrɛ wora na kɔ akpa.,ne e wuru na na ambabe je kpurpu anu shulu fane bu wuru kulu bi asan ka ngeli kosene anyin pe e boro wuru na ko akpa,1.0909,0.3636
+551,baa da so nɛ esa kikɛ maaŋ ta asɔ n fule fo.,"Bia, so na as e be say kee man ta aso",0.9167,0.6562
+552,Kusɔ nɛ men nananyɛnana daŋ wora na nɛ menyi Rubenebi nɛ Gadebi gba bee wora naniere a shin nɛ Enyɛnpe Ebɔrɛ be agbo bee kaa Israɛlebi so.,"O si na mme n'enye nri na da nwuru na, na mme nye Rubin ebi na Gad ebi gba be wuru n'elu ya ri, ashi na enye ntu ebo ru agbo be ka Israel ebi",1.1852,0.3874
+553,Nɛ Amishadai pibinyɛn Ahieza nɛ e shi Dan be yiri to na bar mo peya kachɛ kudusopo na.,na amisha dị pụrụ iche ahịrịza na e si dan bịa yiri tị na barmopịa kachị kụdụsụpụ,0.8889,0.3971
+554,Ma basa beeŋ shi kufɔ kufɔ m bɛta m ba epe.,Mba si bishikufu kufu ambeta mbu epe. Baishi kalargata bu ososo na epe tor kobaka baso na obonfu na batar aswan. Noko wakalargata baka soto bakabasa na keke ambeta mbu epe.,2.7273,3.5938
+555,"Ŋkpal manɛ so menyi maŋ kini kenu n sa mo, amoso nɛ men mɔlga Israɛlebi ashi Enyɛnpe na be kasogberge to na.","mụ ka mụ na-eso, mụ na mmụọ ozi nke unu na-asị mụ, a mụsịrị mụ nwa mụ bụ Izrel, ebe e si enye ndị na-abụ ka a sụgharịa gị tụgharịa",1.3636,0.6471
+556,N daŋ mur bumo saŋɛ nɛ menyee ba na nna nɛ men sɔ bumo be nsawule.,Ndi mmurụbụmụ sị na ha na-enye bọọlụ nsogbu mgbe ọsọ wụlị.,0.9375,0.58
+557,K maaŋ chɛr nɛ kakpa maaŋ naa wɔtɔ nɛ esa kikɛ e naaŋ ba chena so.,Kamanche na ka ko mana wutan esikike e na mba che nu,0.9375,0.42
+558,Menyi Jerusalɛm to be basa nɛ menyee ji awurfoŋ.,minyi Jerusalem to bbase ni minyi ji owurufu,0.7778,0.3077
+559,"An baa nyi geeŋ fanɛ nɛ Enyɛnpe, anyi be Ebɔrɛ na kraa malga anyi kutɔ, anyeeŋ wu.","Anya anyi ga-efe ya, na anyi na-ekpe anyi bu eboro na-akara amara ga-anya kuto anyi",0.9412,0.4127
+560,Ma e la Enyɛnpe Ebɔrɛ nɛ e wɔ ebɔrɛso nsaa wɔtɔ mbaanaayɔ na.,"Mba, elenyanpe eboro na ewu eborosu nsawuta mba a na-ayo nu.",1.0,0.3125
+561,Edɛ beeŋ chɔɔ ndibi nɛ baa ta a ber fo mbunagboŋ so na.,"Nne be ncho, ndi be nna ha taa eburu fu mbu n'ugbo na aso.",1.0,0.5
+562,B daŋ nyɔr nna ŋ ki awibi nawule fanɛ ndibi wɔlso na.,બધા ન્યોર અને ઉંકી ઓવીબીના વલફને ઇન્દીબી વલસ,1.0,1.0
+563,be kaba ko so nna; n ta loŋ n ya fo kaba ko.,"ka buko so ana, anta lon anya fu ka buko",0.9231,0.3
+564,Enyɛnpe shin nɛ n ji n lar; ŋkpal manɛ so.,અને પેશન્ટને ઇન્જેક્શન લગાડવામાં નુસખો,1.0,1.0
+565,"Keji asheŋ nɛ amo be ekpa so maŋ naa wɔtɔ, nɛ kewora kusɔ nɛ k daga gba maŋ wɔ anyi be kebaawɔtɔ to.",Gị onwe gị na-amụba ekpere mana a wụtọ nụ ka nwurukwụsị na-adịghị agba mana a wụ anyị bụ ka bụ aụtụtụ.,1.0,0.5658
+566,Menyi nawule so nɛ anyeeŋ tiŋ n nya kemaŋkura ashi an Nyɛnpe Yesu Kristo be anishito saŋɛ nɛ e beeŋ naŋ ba na.,"M'enye na-awụrụ Chineke anyị ntị enyikema nkwụrụ ezi anyị npi, Jisọs Kraist bụ enishịto, saṅụ na ebinna gbanụ",1.0,0.5172
+567,Bɔrɛmatapowuraana nɛ mbraŋinipoana daa fin kananɛ baaŋ ŋana m pɛ Yesu m mɔ.,mụ a mụta kwa ụmụ anọ na m bụrụkwa onye na-efin ka na-ekpe anụ na mpịị Yesu,1.3077,0.5968
+568,nsaa bɔla bɔrɛwɔlpa to a ba menyi be kechɛto to na.,"सा बोलो बरोल पाटो, अब मेने ब के चितो तो",1.0,1.0
+569,Manɛ nna nɛ Ebɔrɛ shin nɛ n wɔ ŋkpa to.,manna anna ne eburu Chineke wu,1.0,0.5862
+570,"Ŋkpal Job ka wu mbe kumu fanɛ e maŋ wora kulubi so, mo nekpaana besa na yige mbe asheŋ nna n sa mo nsaa maŋ naa ji mo emɔrɔ.","maka na ịjụkwa gị, ọ bụkwa ụmụ nne m nwoke bụ ndị so. Mana kwa anabasị na, ịhe gị bụ ịsị na anaghị anụ asị m, m sa mụ na jị m a mụrụ",1.1034,0.6489
+571,"Men baŋ yɛra asheŋ demujikpa gba, men maa nya kashenteŋ ashi menyi be edemu be keji to.",Mmemme anyị bụ ememe dị mkpa gbasara mmemme nke ịsị mmiri bụ ememe bido,1.0,0.6522
+572,Kurma nɛ n daŋ dii na nawule e daa la kusɔbɔya nɛ an keta n yɔ.,"kuru ma ndi na ndi na awuli, eda lokoso boya na ankata",0.9375,0.383
+573,Nɛ ewura Rehoboam shir a wɔ Jerusalɛm nseŋ shin nɛ b pɔr egbalana ŋ kulti Juda nɛ Bɛnjamin be yiri to be nde ere.,"ne ewu re hobam shir awu Jerusalem, anasi Chineke puru egbuani nkulti Judah na Benjamin be yiri to be",0.8333,0.3258
+574,Menyi be ekishi bee shin nɛ menyee ki nyaŋnyaŋ nna nɛ menyee bile a tege abar nsaa bri abar.,"Minyi bụ ekwensu kịka, sị na minyi kị nyanyan ana, na minyi bili ataghị abara nsị bụrị abara.",1.0,0.4795
+575,N wora kulubi n da Enyɛnpe Israɛl be Ebɔrɛ na so.,મૂળ કુળ બે અંદર એની પે ઇઝરાયેલ બે એ બોરના,1.0,1.0
+576,"E yɛ: “Fo e la m pibinyɛn na; kabre, ŋ ki fo tuto.",ka buru nke ifuturu,1.0,0.7273
+577,be asheŋ lubi be kakɔka; n shin nɛ bumo be asheŋ lubi.,ba echen libi ba kakoka echen ba mobi echen libi,1.0,0.439
+578,"Kumo be nfɛ anyɔ be kefɛato, nɛ mbe kulɔ na nyaŋɛto nɛ e wu ebesa damta to.",પ્રેમ અને વિશ્વાસ એવા બે પાયા છે જેની ઉપર એક બેસદમ,1.0,1.0
+579,Fo ka maŋ nase kɔnɔ kraa bɔ fo ka nase kɔnɔ e maŋ tiŋ n tia kumo.,"Fụka m na-asị gị nọ, kedu ka ọ bụ fụka m na-asị gị nọ? Ị maa otu ị dị?",1.1176,0.6875
+580,"Ama men baa da so nsaa bɛ mbra nɛ Mosis sa menyi, fanɛ: ‘Men baa sha men Nyɛnpe Ebɔrɛ na, nsaa wora mbe aparsheŋ.","A ma member di so, nsa be mbra na moses si me nyinaa. Fane, member cha me nyin pe eboro na nsa wura mbe",0.875,0.3647
+581,Nɛ Enyɛnpe Ebɔrɛ malɛ kaŋɛ Sɔlɔmɔn le: “Fo kule kusɔ nɛ k walɛ.,એ એની પત્ની એ બોરમાલે કાંગે સુલુમોન લે ફોકોલકો સેનાકુવાલે,1.0,1.0
+582,B baŋ gbaŋgbaŋ ndibi na asɔrso na bee tɔr kɔnɔ kama nɛ k bugi a yil to nna.,Ba bang bang bang ndi bi na asusu na be turu ka ona kama na kubu gi eyi ilu te na,1.0,0.3684
+583,Kusɔ kama nɛ k bee wora naniere daŋ chɛr n wora dra dra kikɛ nna.,Kozakam na kebe wuru na enyere da nchiri onwuru dra dra keke,0.8667,0.44
+584,Ade kikɛ be kaman nɛ Joshuwa nɛ mbe benapo na kikɛ bɛta n yɔ bumo keeyi to ashi Gilgaal.,Aka kebe ka m na Joshua na-abụbụ na-apụ na aka kebete onyo kpọmụka yitọ echi Gilgal.,0.9474,0.4493
+585,Dii n yɔ Pisga be kebeegboŋ na be awɔlto n ya to kenishi ŋ keni ŋ kulti.,"Dị enyi pịzịga, biko bịa gboro m na abọ awụlụ tọ. Ị ga-etokiri m dịka nke na-unkultị.",1.0,0.6
+586,"Awurfoŋ shin nɛ ma kayurwule kilgi m biri, mannɛ epeŋi.","Auruwa shine muka yi ruwuri kiligi imbiri, mani epeng",1.0,0.3864
+587,Enyɛnpe Ebɔrɛ na maaŋ naŋ shin nɛ an baa wɔ.,mana Chineke amaba,1.0,0.7647
+588,Fo nyi kusɔ nɛ k kɔ bɔrɛwɔlpa to awɔlto a?,Sinyo ko sena koko borowol pa to awolta.,0.9,0.4062
+589,nɛ mbe kemaŋkura buu mbe basa so ashi Paran be kebeegboŋ na so.,અંબા કે માં કુરાબુ અંબા બાસે સો એસી પારણ બકે બેગો નાસ,1.0,1.0
+590,Shin nɛ b ba yili ma anishi to nɛ n ji bumo demu nɛ fo keni.,Chineke bụ ezigbo onye nsịtọ na-enye ụmụ mmadụ nri na-fụkene.,1.0,0.7727
+591,” Nɛ b nu kusɔ nɛ Enyɛnpe Ebɔrɛ kaŋɛ bumo na nseŋ yige keya kɔ Jeroboam nɛ mbe basa kena.,na bụ nụ ka Chineke eboro ka ngị bụ mmụọ na. m sị nye gị ka ya bụ Jerubam na mbụ baasa ka,1.1579,0.5441
+592,Kumo be kaman nɛ amodoŋwura e di ma epaŋ ga.,કંબે કામન ને અમને ઓર એડમ એપંગ,1.0,1.0
+593,Meeŋ shin nɛ egɔnnyaŋɛ nɛ ewi e sɔ amo to.,mension a gonyange na ewi eso,0.9,0.5312
+594,Ebɔrɛ na malɛ wɔ menyi kutɔ saŋɛ nɛ menyee ji demu na.,Aboriginal maluwok menye koto sangane minyi jide mu,1.0,0.5
+595,"Ekama nɛ kedibi nɛ b chɛ mo n shiga so, hale n ya fo kaaseso.","Ek ma ne kadhi pan e bacha ma ansh na so, hala an ya fukaso",0.9333,0.4222
+596,"N wɔ kakpa cheembi nɛ k wɔ esoso nna, ama ma alɛ nɛ basa nɛ b bar bumo be amu kaseto nseŋ ta bumo be amu n deŋi ma so na gba e wɔtɔ nɛ m baa chɛ bumo to.","nwu ka puche mbe na oku osuso na ama mmadu na baasi na bọbọrọ bụ mgbụ omuka site o, asị m taa bụ mgbụ omụ ndị ịngị mị sị na gwa ewụto na mba achị bụ mụ",0.95,0.4732
+597,Nɛ Enyɛnpe Ebɔrɛ kaŋɛ Joshuwa le: “Sa maa ŋana bumo.,એન્યન પ એબોરિકાંગ જોશુઆલે. સમાંગન બુ,1.0,1.0
+598,Fo kelela shi m baŋ so; nɛ fee sha kebaawora basa.,fakkalele shi ambanso na fisa ka ba wuri ba,0.9091,0.4211
+599,ndafanɛ kusɔ nɛ k daa beeŋ nya fo gba maaŋ baa walɛ.,da fannin kusurwa da binyar gwa mamba walla,1.0,0.5
+600,"Kashenteŋ malɛ nna fanɛ Ebɔrɛ be kubɔya nna, kumo alɛ e wɔ menyi beyirdapo to a shuŋ na.","Kedu ihe m ga-eme na-afanaya? Ebe ọrụ bụkwa ya na, kụọlụ ewu menye be ya na-apụta echi",1.0,0.5942
+601,"Mosis daŋ tre Israɛl be basa na kikɛ nna m ba kaŋɛ bumo le: “Israɛlebi, men kaŋ asoe n nu mbraana nɛ mee ta a sa menyi kabre ere.",Mosis dantere Israel babbase na kike ana ambakan gbu mli. Israel ebi me nkan koso unu umbra ananeme ta asimenye ka buri,0.8966,0.2784
+602,Basa nɛ b wɔ efuli na so na malɛ be ekama daa ŋana kenaŋ m malga kamalga lubi ŋ gbiti Israɛlebi na nna.,બાસના બૂ એફુલનાસ નામાલે બ એકમા દાંગના કાના મલગા કા મલગા લુબી અંગબતી ઇઝરાયેલ એબીના,1.0,1.0
+603,Echefo peya e baa chɔ kabre peya!,HFO pia e ba chukwu abara pia.,0.8571,0.5
+604,"Mo nɛ Maaka daa kɔ mbinyɛnsobi ana nna, bumo e daa la: Abija nɛ Attai nɛ Ziza nɛ Shelomif.","Muna maka daaku in binyin subi ana ana, bumu edale, abuja, na atay, na ziza, na chelomi.",0.8947,0.2899
+605,Bumo alɛ pin kananɛ Enyɛnpe menyi be Ebɔrɛ be agbo.,Boma alipin kana ne enyin pe menye ba eboro ba,1.0,0.3171
+606,Amoso edimɛdi bee ŋana mo nsaa bunyaŋ mo nna.,Amasi edemede bekee na m asaa bu nyam ma,1.0,0.3889
+607,nɛ epeŋi beeŋ ŋmɛa so nɛ a bel m pere nɛnɛ.,એ પેંગી બેંગવેસો ને આબલ,1.0,1.0
+608,Amoso nɛ ŋ kilgi n sɔ ketaŋɛ nɛ baa tre Kidrɔn na be kaba so n ya bɔla ndoŋ a choŋ nsaa maŋ kumu so a keni kadegboŋ na be egbal na.,A mụsịrị m ụmụ nwoke anọ ka ha tọrọ nke dịrọ na abụka abụọ. Ya bụrụ ụmụ nwoke anọ. Nsogbu mụ sọọ ekele ka dị gị na abụ egwú.,0.9062,0.6667
+609,Nɛ manɛ nna nɛ anyee bar anyi be amu kaseto nɛ mbe lakal maŋ wɔ anyi so?,Nna m na nne anyi biri anyi bu umuaka site na mbu laa karia mu na anyi,0.9412,0.4909
+610,"Menyi ka bee shuŋ agbirana nɛ menyee fɛ fanɛ e bee sa kakurge so, men wɔtɔ nna a di abar keche nɛ kenyɛn ashi ndibigboŋ nɛ menyee shuŋ agbir na amo be afito.",Mene ka m ga-esi agbara na? Na mụ enweghị ihe ọ bụla a na-ere ka kọrọ gị so. Mụ nweta ihe na-edu abalị kịchaa na ka m nye ezigbo ndị bi gburugburu na mụ enweghị ihe agbara na a mụ bụ ofu,1.1818,0.6423
+611,Kebaakraŋ mbra na nfɛ ashunu kikɛ be asheŋ.,कबाकरा अंबरा ना,1.0,1.0
+612,"Enyiashempo be kagbene bee laŋɛ kusɔ nɛ k daga be kewora so nna, ama ewulpo bre be kagbene bee laŋɛ asheŋ nɛ a gbɛto so nna.",Ama e wulupu biri baka gbanu be langi e se na agbeto,0.9615,0.7423
+613,Shɛŋ maŋ wɔtɔ nɛ esa beeŋ tiŋ n ta mbe yirda n to kumo so.,mụ wa eto n'isi bintin taa amaghị ihe m ga-atụkọ,1.0,0.7674
+614,E daa maŋ tiŋ n wora emamachisheŋ kama ndoŋ she e ka baŋ ta enɔ n deŋi belɔpo gbrɛ ko so nɛ b nya alenfia.,E damu m ka m nwere ike ịma ma ị nwere ike ịkpọkọta ndị bọọlụ ụkwụ kụrụ na bọọlụ ụkwụ k,0.96,0.7284
+615,Baa bunyaŋ bekulpoche nɛ b maŋ kɔ bechɛtopo na.,bụrụkwa ụpuce na gbam nkọ gbasara,1.0,0.7895
+616,"To, yɔ n ya kaŋɛ bumo fanɛ b bɛta n yɔ bumo be ewajɛbu to.","તો, એ યા કંગ બુમો ફને બબેટા એ યા બુમો બ એવાજુબુ",1.0,1.0
+617,nseŋ naa shin nɛ basa bee sa bumo bunyaŋ mbaanaayɔ.,so na as e be so bu nyam mba na ayo,1.1,0.4878
+618,Itiopia be efuli so be ajembu lela nɛ baa tre topas na.,Chupiya b'e fulu sub'e jumbula la na baatre topas na,0.75,0.2791
+619,B yuri nseŋ ku efɛ nseŋ ta asɔ na n wea bumo gbagba be asɔ to.,bu yuri nsogbu afa asanta asụ na enweghị mgbagbagba asụtụ,0.875,0.413
+620,Menyi be beche nɛ mbia nɛ asɔbɔya damta na nawule a daga fanɛ b shir kaman ashi nde nɛ n chige n sa menyi na to.,મેં બબીચે ને ઇન્ડિયા ને આસોબોયા દમતના નાવલી આદગા ફને બશીર કા મન એસી અંદાને નચેગા ઇન્સા મેં ના,1.0,1.0
+621,Le be nde ere e daa wɔ kasawule nɛ Isakar be yiri to ebi nya fanɛ bumo be kapetɛ na.,Nke bụ isi ihe a na-akpọ ụlọ nsọ bụ ebe a na-ebunye faịlụ mgbasa ozi.,1.0,0.7031
+622,Men sa maŋ ta ajibi ŋko bekulepo be kɔlgu ŋko n ta amansherbi n wɔtɔ menyi be ejifa to.,Mensa mun ta aji bi in ko bukulu bukulu go in ko anta a man sharebe onwete menye ba aji futu,1.1053,0.3824
+623,Shin nɛ b lar ablɔmbi fuloŋ nɛ kakurge to be mmalga tenteŋana na to.,Chineke abụlọ m̀bịfụlụ m na ka akwụkwọ nsọ bụ amalụ gị tentị m ana na,1.0714,0.5741
+624,Fo emin beeŋ kilgi n fuli nɛ enite gba e baa nu fo; shɛŋ malɛ maaŋ naa yɛlga fo.,"n'eme n'ebe nụfụ, Chineke ma na-ayọ gị",1.0,0.7167
+625,nseŋ shoduu kanyɛ nɛ n nio sɔ ma kedampo na gba!,Ndi nchedo kanyere nnie so ka dampuna agba,1.0,0.4595
+626,"Timoti, baa de kusɔ nɛ Ebɔrɛ ta m bɔɔ fo enɔ na so nɛnɛ nsaa gelge chilchil be emɔrɔ be mmalga nɛ a maa par Ebɔrɛ nɛ efɛ be keŋini nɛ baa tre kashennyi be keŋini na.","Timothy, bado kuso na eburuta mgbe ofu enu na asu nene, nsa agiligici cilcil bu emuro bu amalu ga na ama puru ebule na ife bukenine na ba teru keshe nyi bukenine",0.973,0.4094
+627,Amoso menyi alɛ gba daa du fanɛ bedoŋ na nna na.,"Amaghi m so, ma ya na-egba the different gbudon na",0.9091,0.7297
+628,"Nɛ fanɛ e wora fo kulubi ko nna ŋko n ji fo kukɔ, fo ta kumo be kukɔ na n deŋi ma.","na-afụ na-ewuru gị kụrụ be gị, ọ na-eko njịfọ kụkọ. Fọta akụmụgbọ kụkọ na ndị enyi gị.",0.9545,0.5593
+629,"Ŋkpal manɛ so, Ebɔrɛ be shɛŋ maa ji bewulpo to.","Mkpọlọ m na-asọ, ebe ọ bụ ihe mụ eji bụrụ",1.0,0.6667
+630,Kenyi bre bee shin nɛ asheŋ bee nite nɛnɛ nsaa loge to nɛnɛ nna.,kinyebre bishini eshimbini tenene ansarogotone,1.0,0.46
+631,Kashenteŋ nna fanɛ bumo kikɛ bee yɔ kakpa koŋwule bre nna.,Ka Chineke nna afọọne bọọ mụ kịkị be ya ka mụ kọọrọ ya,1.0909,0.617
+632,E shin nɛ bedoŋ pɛ bumo ŋ ki anya nna n yɔ efuli wɔfɔ so.,Esi na udo mpi bụ mụ nke anya ịna onyo efulu ụfụsụ.,0.9333,0.4524
+633,” Nɛ b kaŋɛ mo: “Ebodobodo ashunu.,na ba ka nga mu ebodo bodo ochinu na echini je ma na chini kasa wuli na eta ebodo bodo ochinu,3.5,2.25
+634,’ Jefune nɛ e la Keniz be esa na pibinyɛn Kalɛb nɛ Nun pibinyɛn Joshuwa nawule e daŋ ji kashenteŋ n sa Enyɛnpe Ebɔrɛ na.,Jeffery na Elle Kennes bụ ezinụlọ pụrụ iche na-elekọta ụmụaka na-enweghị ebe obibi.,0.9583,0.734
+635,Mo e shin nɛ ma mmalga du fanɛ tokobi jiso.,એશિયાના અમલ ગીધૂફને ટોકોબી,1.0,1.0
+636,Ama b kraŋ wora kusoe kpakpaso ŋ kini a wɔ bumo be asheŋ lubi na to.,"A ma bákra, úgwú kòsokpákpà só, nkị́ní àwúbụ́mụ́bụ́ èshé nlụ́bí nà",1.0,0.5192
+637,Bɔrɛmatapo nimuso Ɛɛrɔn pibinyɛn Eliaza e daa la Livaiebi na be enimu.,"Bọrọ mụta pụnnụ mụ sọ Aaron pịbị nyịn Eleazar, edalụ Levi ebịna bụ ọnụmụ.",1.1667,0.431
+638,Etopiya be efuli so ebi nɛ Libiya be efuli so ebi kɔ benapo damta nɛ egbaŋɛturko nɛ egbaŋɛdiipo damta.,Ethiopia bu ebe o si ebi na Libya bu ebe o si ebi ko ba na-apu damta na-egbu anụ turko na-egbu anụ di pụdamta.,1.1053,0.3735
+639,"Mannɛ fanɛ mee sha kechɛto nna so nɛ mee malga le ere, ama nɛfa nɛ mee sha fanɛ Ebɔrɛ e ta n ti menyi so so.",Mana fane me sa kacheta ana suna me maligali ire ama nan fa ne me sa fane e gboro eta nti me nye susu,0.9231,0.3333
+640,Efuli pɔtɛana na be kanya nɛ kedama beeŋ ki mbe basa peya.,"If you look properly, una na berekanya na kadama binki mba basa pia.",1.0,0.5217
+641,Anyi be benimuana be ŋgbene daŋ fuli nna parr fanɛ ateebi; b daŋ maŋ kɔ saŋgre kikɛ bumo to.,anyi bu ndi muo na ndi mmadu na-aru fane otu ebe. Beda m onye isi ngalaba nke bu,0.9474,0.625
+642,"Kebaa ji nsaa nuu bee shin nɛ esa be kagbene bee fuli mo nna, ama amansherbi nɛ e beeŋ nya pɔɛŋ tiŋ n wora amo kikɛ.","ka bekee sị nụ, ""Best is best,"" ka gị na ndị fụlụmụ anaa. Ama m na nsogbu adịghị na ebe ịnyepụ ya, tinyere amụma nke",0.9615,0.6404
+643,Nnɛ nɛ Enyɛnpe Ebɔrɛ nɛ e bɔla Mosis so n ta mbe eleŋ n wora asheŋgboŋ n shin nɛ teku peper barga to anyɔ nɛ ekpa dese kumo to nɛ mbe ketre dii mbaanaayɔ na wɔ?,Nne na nna enyenụ ụmụ ha nwoke na ụmụ ha nwanyị ezigbo ntụziaka ka ha wee na-erube isi n'iwu Chineke mgbe niile ka ha wee nwee ndụ dị ogologo.,1.0,0.7903
+644,Anyi maaŋ bɛta n yɔ epe ama Israɛlebi na kikɛ baaŋ sɔ kasawule nɛ b ta n sa bumo na nna n chena so pɔɛŋ.,"Anya m amaghị ebe ị ga-aga, a mụ Israel bụ nwa nke Kasawol na-abịa ịsị gị biko nyere m aka.",1.0,0.6709
+645,daŋ shin nɛ beche nɛ baa sha bumo be mbia ga gbagba.,na siri biche na ba sha bu mu bu mbiga,0.9167,0.45
+646,Bumo alɛ maŋ naŋ malga keyaa kɔ kena n jija kasawule nɛ Rubenebi nɛ Gadebi nɛ Manase be epeŋilarkpa be basa tase so na be asheŋ kikɛ.,Bomal manam malagar kiya ko kana njije kasa walana rubin ebi na ga ebi na manase ba epe ngalar ba basa tasa sana ba esenke,0.963,0.3396
+647,Kelɔŋɛ Jerusalɛm n yili kumo be eyilikpa dra be asheŋ.,"Kollam ni Jerusalem, Injili ku bu ejiri kwadra bu ezi.",1.0,0.4773
+648,"Ama m maa sha kelar fo kaman n wora kusɔ nɛ k maaŋ par fo nɛ fo gbagba be kelela e ki fanɛ tintiŋ be kusɔ, ama kusɔ nɛ k shi fo gbagba be kagbene to.","A ma masi kala fu kamn, onwero ka osi na ka ma puru fu na fu gbagwa baka lele eki ife ne tin tin bokoso. A ma ko si na kishi fu gbagwa baka gba",1.0,0.4107
+649,"An doŋana nyi etɔrɔ nɛ fo, Enyɛnpe Ebɔrɛ na, bar anyi so.",Anya dunganinye etoro nnefo enyinpo eboro na bar anyi,0.75,0.3953
+650,Bumo e daa la Shishai nɛ Ahiman nɛ Talmai be mbuna na.,Bụ mụ edalu Shisha na Ahima na Talmai bụ ụmụ nwaanyị,0.9167,0.381
+651,Benyɛn nɛ b fo kufɔl ŋko m baŋ so nɛ b daŋ karga ashi Kohaf be kabuna daa wɔ benyɛn ŋgboŋ aburwa nɛ alfa ashe.,Banyi na bufo kufulu mko mban so na bida nke eji ko ha buke buna da wu banyi ngbo gburu wa na alefechi.,0.96,0.4235
+652,E daŋ lɔŋɛ Enyɛnpe Ebɔrɛ be bɔrɛsure nɛ k daa yil bɔrɛlambu na be kelɔnɛ so ashi Jerusalɛm na gba nna m pɔr.,Jerusalem,1.0,0.9059
+653,Bumo be kasawule na be ekar daŋ fo Tabɔɔ nɛ Shahazumah nɛ Bɛf Shimɛsh nɛ Jɔɔdan be lɔr na.,bọmbọ kasawol na ekr danfo tabo na Shahzuma na Bef Chimex na Jordan bọlụrna,0.9474,0.3521
+654,Ndoŋ nna nɛ Mosis sibɛ Ebɔrɛ be mbraana na kikɛ nyam n wɔtɔ kawɔl to.,Ndi mosis sebe eboro bu amara ana na keke ya onwutu ka awuru,0.9333,0.463
+655,nɛ bumo be kanya nɛ kedama e daŋɛ so ntuŋ anyɔ so.,na bụ mụ bụ ka nye na ka daa mụ. Ị daa mụ sọ ntụ mụ anyụ sọ.,1.5,0.5
+656,"bee keni ma ekpa nna; ŋkpal manɛ so, baa tama fanɛ meeŋ baa mɔlga bumo.","dike na m ekwe ana, akwulu m na so, baata m afa na, mee m baa mụrụ gị bụ",1.1333,0.4259
+657,ŋkpal fo eleŋgboŋ na so.,kpolite elengbo na so,0.6,0.3684
+658,Ashere anyi nɛ menyi maŋ chena n feŋ abar ga gba.,A sị m na anyị na-enye mmanụ ọkụ na-efu ọnụ ala.,1.0,0.6316
+659,Mo e naŋ ki ewura naniere ŋkpal manɛ so Enyɛnpe Ebɔrɛ na nase kɔnɔ nna fanɛ ewura Deevid be kaman to ebi e naaŋ baa ji kuwura saŋkikɛ.,"E nan ke e wuru n'ime afo a, nkpalamanso, enyi m, eboro m ya n'aso koo na ana-afa ya. E wuru David bu ka m ti ebi e na m bu ejima wuru saa nkeke.",1.1071,0.4623
+660,E daŋ shuŋ Enyɛnpe Ebɔrɛ na kashenteŋto ga nseŋ jija nnyamase na be ademaŋana nɛ kakpa nɛ baa shuŋ kegbirche nɛ baa tre Ashira ashi Juda be efuli so na kikɛ.,Echiche anyị bụ eboro na a kashịntenta ga-anọchi anya ndị na-abụ adịma ana. Na ka akwụkwọ nsọ nke gburugburu chee na batara asịrị esịjuda bụ efulu na nke,0.9355,0.5476
+661,"Amoso nɛ fo baŋ nase kɔnɔ Ebɔrɛ be anishito, a daga fanɛ fo tia kumo manaŋ.",A na-asọpụrụ ụmụ nwanyị na-asọkọn ebe ọrụ bụ isi ha. Adịghị afanị fụtịa kọmụmana.,1.0,0.6552
+662,"Amaziya ka ki ewura, nɛ e la nfɛ adunyɔ nɛ anu nna nseŋ ji kuwura Jerusalɛm to nfɛ adunyɔ nɛ akpanu.","A ma zi ya ka eki ewu ra na ele afia adonyelu onu ana, e si njikoo wure Jerusalem to afia adonyelu akwuna.",1.0476,0.3718
+663,Enyɛnpe Ebɔrɛ na daŋ mɔlga mbe basa nna nseŋ kaŋɛ le: “Kashenteŋto b la ma basa nna.,एबोरना द मुल्गा एण्ड बासा एण्ड सानकांगले कशिन्तेन्तो बेलामा बासा,1.0,1.0
+664,Joshuwa daŋ yige Reehab nɛ basa nɛ b wɔ mbe laŋ to kikɛ bre nna ŋkpal e ka daŋ ta basa anyɔ nɛ e shuŋi Jɛriko na ŋ ŋana so so.,Joshua ziga Rahab na basị nụ bụ ụmụ nmanlịntọ keke bido nụ. A nkwalị e kadanụ basị anyụ nụ echu nị Jericho na ọnụ sụsụ. Rahab bụka mụntụ ebi kịra bụ Israel bụ efulụ sụ.,1.129,0.8632
+665,Elihu daŋ yige basa asa na nna nɛ b malga n sa Job ŋkpal e ka daa la kebibi bumo to so.,"Ele u da ya ga ba sa a suna anna na ba malga, su Job, Uncle da Kadale ke bibi gbo motu su.",1.0455,0.3538
+666,nseŋ shin nɛ ekpa dese nchu na to n sa.,ekweghi desi nchịkọta,1.0,0.6552
+667,Feeŋ nya ketre popɔr nɛ Enyɛnpe Ebɔrɛ gbagba beeŋ sa na.,Sinyi kataru foro ne enyempe eboro gbagba be nse na,0.8182,0.4444
+668,Anyi alɛ maaŋ tiŋ n ji Ebɔrɛ emɔrɔ ŋkpal manɛ so e kɔ eleŋ a chɔ anyi ga.,Anyanwu mụrụ ejima eboro ya mụrụ okpukpu mmadụ abụọ ekwu elena achọ anya gị.,1.0,0.6909
+669,Baaŋ lar ma kaman n ya kaa shuŋ nnyamase be agbirana nɛ a wɔ kasawule nɛ baa yɔ na so.,Báálé rọ́ máa kàmàn ẹ̀yọ́ kọ́ṣú ẹ̀yà másìbọ̀ àgbrà náà na àwọ́ kasá wọ́lẹ̀ bá ayùn ásọ.,1.0,0.5909
+670,Men be benapo kikɛ e dii Jɔɔdan be lɔr na be kaba ndoŋ nɛ Enyɛnpe Ebɔrɛ e juŋkpar menyi n ju an doŋana kasawule na so n sɔ kumo.,Mmemba banna po KEDD Jordan bụrụ na abụka bụ ndị ọzọ na enyinye eboro ejemkperu menye njụọ ndị a na kasa wụlụ na nsọkụ.,0.931,0.4545
+671,kananɛ baa chichi greep be asɔrso so a wora yabra na.,કાલેની બાઈ ચીચી ગ્રેપ બહુ અસલ સો સો. આવો રે યા બ્રાન્ડા.,1.0909,1.0
+672,Naniere anyee ka nchu nɛ anyee nuu be kukɔ nna; nsaa tɔ ndibi puga edɛ yawu kpakpaso.,N'nyị hara anyị k'inchu n'anyi nụ bọkọkọ ana. Ịsaatụ ndị bịpụga adị ya ọkwa kwa,1.0,0.4627
+673,E bar kumo nna ŋkpal basa nɛ baa wora a da ntaŋ na so ŋko bumo nɛ b maa nu a sa Ebɔrɛ ŋko a bunyaŋ mo na so so.,"Berekumu ana enweghi baasị na baa wuru adịghị n'ụlọ akwụkwọ. Nke bụ mụ na gị ma nụ asị ịgbọrọ, nke abụghị mụ na gị.",0.9333,0.6914
+674,Ndoŋ nna nɛ Sanballat naŋ shuŋi krachi ko fanɛ e ta kawɔl m ba sa ma.,Etant qu'ambassadeur,1.0,0.8679
+675,"Kolu nɛ esa koŋwule beeŋ kɔ n tɔr na, basa nyɔ bre beeŋ kɔ kumo m pɔɔ so.",Kollu na esu kongli benko ontor na. Baasa anyu bere benko komo onposu.,0.9444,0.463
+676,Mo alɛ daa sha fanɛ b baa wora kusɔ nɛ k daga nna.,Mala da shafe na Baba Wuro ko sana'a daga,0.9231,0.4324
+677,Men ta amo kikɛ n wɔtɔ Enyɛnpe Ebɔrɛ na be kpanjawu to.,Menta amụkị ke onwete enyi mụ egbọrọ na abụkwa njawụ.,0.9167,0.4186
+678,bee mɔ bumo be mbi popɔrbi nna; mbia na bee ta enɔ to a kule ajibi nna.,bụ mọbụ mọbụ ịbụ pọpụrọ be Anna. Ịbụ na-abụta enuto akwụlụ oji bụ,1.0,0.5283
+679,Nɛ Yesu bishi mo: “Manɛ e ba nɛ fee tre ma Elelapo?,Mitsubishi,1.0,0.8108
+680,Kanyiasheŋ kɔ yawu a chɔ ajembu lela nɛ baa tre kɔral.,Kedu ihe ị nwere ike ịgwa anyị gbasara akụkọ a?,1.0,0.7907
+681,Mo e naa shin nɛ bɔrɛ bee ba kasawule so nɛ kakpa bee wushi.,"na enugu north local government area, kasa wulu so na ka akwa ibom state",1.0,0.8043
+682,"Eyiashempo baa kpele fo kusoe, k bɔ ewulpo ka bee boŋ nshɛ a kpaŋ fo.",anyi si na o bu ba kwere fukwusi ka mu ewelu ka bu mbochi akpa m,1.0,0.566
+683,Ama menyi nɛ men ka ere bre daga fanɛ men bɛ Enyɛnpe Ebɔrɛ be keŋini so nseŋ yili kowushina.,ama me nyene me nke erebere dega afane me be enyinbo ebor buke nyin so enye nyili coachi,0.8947,0.3699
+684,"A laŋɛ Asha be yiri be kaplɛa so, le nɛ Mosis daŋ kaŋɛ: “Asha nya nɛfa a chɔ eyiriana nɛ a ka na.",Anya na fa achu ehi ana na akna.,1.0,0.7183
+685,"nsaa kɔ kuwibi to be eleŋ ga, a walɛ eyur so nna.","A sa ko ku i bi tu be elenga, awale e yulsa",1.0,0.3056
+686,A daga bɔrɛmatapo nɛ e shi Ɛɛrɔn be kanaŋ to ka wɔtɔ jemanɛ nɛ Livaiebi na beeŋ sɔ kudukudusopo na ashi nde nɛ baa shuŋ to na kikɛ.,A ga m a borom atopu na echi e ron baka na nto be ka ba weta. Jee mana na liva ebi na binso kudukudu supu na echi andana ba osun tinakike.,1.0,0.3786
+687,Men shin nɛ men be ŋgbene e baa fuli menyi ashi Enyɛnpe to saŋkikɛ.,મેં છેલ્લે મેમ્બર અંકને એ બહુ ફૂલમણી એસી એની ફોટો સાંકેત,1.0,1.0
+688,nɛ baa wora asheŋ niŋiso bee shile a yɔ mo kutɔ n ya kaa nya kekuŋ.,"Nna bu uru esenine so bichiri ayum kuto, ya ka anyi kuku",0.9375,0.451
+689,"Ewura Jehowada daŋ ta bekumpo nna nɛ baa keni bɔrɛlambu na be mbunaana so saŋɛ na so basa kama nɛ b kɔ eyurpi daŋkare be ekpa so na, maaŋ luri kumo to.","Ewure Jehova daa daa taa, bukumpu anaa. Ya bekee ni borolen bu na be, bu ni anusu. Saa nise na baasa kama na eboku ewurupi daa karabe ekwesi na. Ma n'uru",0.9688,0.4153
+690,Kachako b ka bɔla Jerusalɛm be ekpa a yɔ nɛ Yesu juŋkpar bebɛsopo na nɛ k chinchiŋ bumo nɛ kufu pɛ basa nɛ b daa wɔ kaman na malɛ ga.,Kachasị ka bọọlụ Jerusalem bụ ekpere ayọ na Jisọs je nkpere be Bishop Na. Nke chi chi bụ mụ nkụfụ pịa baa sa na gbadaa wụ ka mma na ma alị,0.9667,0.4466
+691,Ama an kule anyi be Ebɔrɛ nseŋ lara benapo nɛ b baa keni so nsaa kuŋ egbal na kapa nɛ kanyɛ kikɛ.,"A ma aṅkụl aṅịbụ e bọrọ, a sị na ịrịba na pụ, na bụbe k'enuso, a sị na kụọ egbel na aka pụ na ka ṅịkịkị.",1.1364,0.48
+692,Nɛ Yesu naŋ keta bebɛsopo kuduanyɔ na n lar ekarso n ya kaŋɛ bumo asɔ nɛ a beeŋ wora mo.,Nye so na nke taa bụ ụbọchị kụda anyụ na a larọ ekiri so. Ya ka m bụ m asị na a bịa nwụrụ m.,1.1,0.4559
+693,nɛ k kɔ ayu nɛ yabra ga na so; kakpa nɛ bunyaŋ gba bee wushi kasawule na.,Kedu ka unu abuo ga-ana so? Ka mụ na gị na-agba izu ka a wụlụ,1.0,0.5636
+694,"A kukwe, saŋɛ na fo nɛ b debɔr ma, Nyiŋgbasa Pibinyɛn na n ta ma m bɔɔ alubiworapoana enɔ.",Akwụkwọ nsọ na-adọrọ mma nye ngwọsi pịbịnye na a. Nta mụ mgbe olileanya na,0.9474,0.5797
+695,Men mur kade na nɛ kusɔ kama nɛ k wɔ kumo to kikɛ nɛ kumo be loŋ e baa la sarga n sa Enyɛnpe Ebɔrɛ na.,"N'ime ụbọchị ole na ole gara aga, ụmụ nwoke abụọ e boro ebubo na ha na-edina ụmụ nwanyị n'ike gburu onwe ha.",0.9615,0.8158
+696,Loŋ koŋwule na nɛ bumo nananyɛnana daŋ ta kusoe kpakpaso m paŋ kasawule lela nɛ Enyɛnpe Ebɔrɛ nase kɔnɔ fanɛ e beeŋ sa bumo na.,Lọnkọlị na na bụ mụ onwe m na-enye na-ana daantaa kọsọkwa akwasọ ọmpa nka sa wọlịlị na enyị mụ ebe ọrụ na-asịkwa ọnụ fụna ya. Ebe nsị bụ mụ,1.12,0.5686
+697,Bepɔrpo na malɛ ta etokobi nna n wɔtɔ efar to n chɛ bumo be nshɛr to.,Bụ mụrụ pụ na malụ ta etu ka obi ana nwụọtọ eferetu enchebụmụba enshere,1.0,0.434
+698,Nseŋ ta mboelote kudu anyɔ n lara alubi be sarga.,"Nsonso taa, m buru ihe tupu m daa n'ọrọ, m lere olu m ịbọ sọrọ gị",1.6,0.7179
+699,B daŋ ba abar so kɔnɔkoŋwuleso nna nɛ b ba kɔ Joshuwa nɛ Israɛlebi na kikɛ kena.,Baada ya hapo Yoshua na Israeli wakapigana,0.9412,0.6508
+700,Nɛ mbe bebɛsopo na bishi mo: “Kiyi ere to nfe be nnɛ nɛ esa beeŋ nya ajibi nɛ a fo basa damta ere kikɛ nɛ b ji?,na ababebe spena e bishimu ke ere to enfe ba anana ese benye oji bi na afo basam to ere keke,0.8889,0.3902
+701,E daa tama fanɛ asɔrso na beeŋ wora nɛnɛ nseŋ pere a wɔ ebel nna.,na atumafeni asoro so na be nwere nene nsogbu na awu ebelu,0.9333,0.46
+702,Epeŋi bee pete nna nsaa tɔr nseŋ naa chambɔ a yɔ kakpa nɛ k bee pete na.,કે બે પત અના અસા તોર અસના ચામ્બો આયો કાપને કે બે પત ના,1.0,1.0
+703,Jemanɛ nɛ Israɛl be basa beeŋ ba gama abar so nɛ b shuŋ Enyɛnpe menyi be Ebɔrɛ na ashi kakpa nɛ menyeeŋ baa shuŋ Ebɔrɛ na nɛ menyeeŋ kraŋ kumo n sa bumo.,"Jaman na, Izral babas be mba gma aboro so na buchun enyen pe menye bo eboro na. Eshi ka pe ne menye bo buchun eboro na ne menye kran komo nsabo",0.9394,0.3333
+704,Shere kumo so nɛ e daŋ lar fo kutɔ nchɛnnyɔ na nɛ e naŋ ya bɛta m ba kaa wɔ fo kutɔ mbaanaayɔ.,शेर कोमसेन ने एडा लर फुकुतो एनचे युना ने एना या बेते अंबा का वो फुकुतो अंबाना आयो,1.0,1.0
+705,"An ka fo Jerusalɛm na be nchɛ asa be kaman, nɛ ma nɛ basa gbrɛbi ko koso kanyɛso a yɔ.",Akafu Jerusalem na bu nche asaa bu ka mma na mma na ba sa gwaara be kuko so kanyi so,1.0,0.3231
+706,"n nase, ŋkpal manɛ so, b maŋ walɛ kikɛ.","naa se, akwụkwọ m na-asọ, bụ mụ nwaa na-eke",1.0,0.6786
+707,Bumo be ketre beeŋ dii a chɔ efuli pɔtɛana peya.,M'ababa katar bindi achi eful pote ana pia.,1.0,0.4737
+708,Amoso Amɔriebi be bewura anu nɛ b shi Jerusalɛm nɛ Hibrɔn nɛ Jaamɔf nɛ Lakish nɛ Iglɔn na be benapo daŋ ba abar so nna nɛ b ba kɔ Gibiɔnebi kena.,"Amosọ, amụrụ Ebi bụbu nwunye Nebushijerusalem na Hebron na Jamof na Lakish na Eglon na, bụba na-apụta mgbe a barasa ana na bụba akwụ Gibeon Ebi ka",0.9355,0.386
+709,Ama naniere bumo e chɔɔ m biri fanɛ.,"Amandi niari, bumu acho mbiri",1.0,0.4286
+710,Joshuwa daŋ bɛ kusɔ nɛ Enyɛnpe Ebɔrɛ kaŋɛ mo na so nna nseŋ ta Juda be kasawule na be kaba n sa Jefune pibi Kalɛb.,"Joshua Dambe ko so na enyin pe e bu oruka nga mu na si na, nsi ta Judah bu ka sa wul na bu ka bu nsi Jephunneh pibi. Caleb",1.04,0.3371
+711,” Nɛ b ya lara Reehab nɛ mo tuto nɛ mo nio nɛ mo daana nɛ mo sipoana nɛ mbe basa nɛ b wɔ laŋ na to na kikɛ.,na be allar re hab na mututu na muniyo na mudara na na musapu ana na ambobasi na buwula na tunakeke,0.9286,0.3766
+712,Mannɛ bre be tɔnɔ nɛ an baa nya kegben damta nɛ anyee gben ere to?,"M na-arịọ gị biko nọdụ ala, na-aṅụ ihe ọṅụṅụ ka gị na ndị m teta na-aṅụ ihe ọṅụṅụ.",1.2,0.902
+713,"E daŋ baa wɔ kushuŋ to nna saŋkama, ama mo alɛ be kenishi daa maa bɔlɔ kusɔ nɛ e bee nya so.",Namba ụkọchịnta na-asankama ama mwalịbụ kịni sị na ama bụrụ kọsị na ebe nye,0.9545,0.4493
+714,"” Le be kesheŋ ere gba maŋ kɔ kifito, kumo alɛ nseŋ naa la kagbenejija ga be asheŋ!",Le bécéen érigba monko kifito.,0.8824,0.746
+715,Ama men baa nyiŋi fanɛ Enyɛnpe menyi be Ebɔrɛ na e sa menyi eleŋ nɛ men ta n fin kedamaya na.,"A ma mme be nye nne fane, enye mpe meye be eboro na. Esi meye elen neme nta mfin ka Damiana.",1.0,0.3333
+716,Fo mɔ fo sipo nyɛnsoana nɛ b bɔ fo na.,"fom ma, first of all, nye na so ana a na bu bu fu na",1.4,0.6071
+717,"Naniere men wɔ ndoŋ a ji asɔrso nɛ baa tre greeps nɛ men maŋ du, nsaa chuge asɔrso nɛ baa tre ɔlifs ashi ndibi nɛ men maŋ du so.","N'ebe a, mụ ụndụ eji asụsụ na-abụghị grapes na-eme mundu. M sa chọọ asụsụ na-abụghị olive, eshi ndị bịa na-eme mundu",0.9655,0.602
+718,"Kashenteŋto, naniere shɛŋ maŋ naa kɔ tɔnɔ ma anishito ŋkpal kebaanyi Kristo Yesu n Nyɛnpe na ka chɔ kusɔ kikɛ na so.",Ka Chineke Nna na Nwa na Mmụọ Nsọ nke bụ Onyenwe anyị Jisọs Kraịst nye unu amara na udo.,0.9545,0.7312
+719,Ama fo nɛ fo dɔ ayu na n teŋi na e naaŋ ji amo.,"A ma afa na-efu do oyibo na, ntenge na ene m ji a",0.7857,0.5455
+720,Kumo be kaman nɛ b ta kaboe n lara alubi be sarga nseŋ ta egbolu anyɔ nɛ ekpakpa anu nɛ mboe anu nɛ ekpakpafɔlbi nɛ b fo nfɛ koko anu n lara kɔnɔkoŋwule be sarga.,"Komba kaman na bata ka gbe eliri olu ibesiri ga, esinta egbolu anyo na ekpakpa onu na mgbe onu na ekpakpa fulu be, ya bu fo nsikoku onu, eliri ka onu ka onye ibesiri ga.",0.9714,0.3858
+721,Etirpo bee kule nna pɔɛŋ nsaa nya kechɛto; ama damawura bre bee malga kanaŋkama nna.,,,
+722,ama kewora fanɛ kufɔ nɛ b yili n wu amo.,Ama kwofana kofo ne be yili,0.8,0.4667
+723,Kede be kaman nɛ bɔrɛfugboŋ ko ber m ba.,kàdà bàkà mán nà bòrò fùgbò kùbùrù,1.0,0.5161
+724,"Asɔ nɛ b daa ka a sa mo na e la, gbiti kilo ŋgboŋ asa nɛ alfa ana nɛ ayu ebɔtɛ ŋgboŋto be kagboŋ koŋwule nɛ ayu peper malɛ ebɔtɛ ŋgboŋto gboŋto be kagboŋ koŋwule.",Asu nu m bata ka asu muna. Ela bute kilo ugwu ngwo asa na alfa na na oyu ebutu ngwo ntubo ka gbo nko ngiri na oyu pupuru maalu ebutu ngwo ntu ka gbo ntu ka gbo nko ngiri.,1.0857,0.4683
+725,Mee pɔr lambu nna nɛ m maŋkura Enyɛnpe Ebɔrɛ.,એ પુર લેમ્બુ ના ને ઉમ્મન કુરાન એની પર એબોરા,1.1111,1.0
+726,Men daa la anya nna n sa efuli pɔtɛana be bewura.,Mmadu ala anya ana anse efulu pote ana ebu gburugburu.,0.9091,0.4737
+727,"” Ndoŋ nna nɛ Joshuwa gbir m bunyaŋ mo nseŋ kaŋɛ le: “Fo kenya e la ma, manɛ nɛ fee sha fanɛ n wora?",na enyin bu eboro bu enapu bu enu mu na kanga mụ le lara fa asatọ na enkwalụ mana so ka saulụ chee mbibi so na fụ yelụ na na joshua wuru kọsị na e kanga mụ na,1.6087,1.3056
+728,"Kashenteŋto, Enyɛnpe Ebɔrɛ na e daa kɔ a sa Israɛlebi na!","Ka Chineke nto, enye nu fa eboro na eda aku as Israel ebi na",1.1818,0.3111
+729,Mosis nɛ Ɛɛrɔn nɛ Ɛɛrɔn be mbia beeŋ wora bumo be echenakpa ashi wajɛbu na be anishito a laŋɛ epeŋilarkpa be kaba so.,Mosis na Erọn na Erọn bụ imbị b'embi b'enwuru bụ mụba echinakwa echi wajị bụ na bụ enishịto. Alanị ịpe ngalarkwa bụ ka bụ so.,0.9565,0.4255
+730,lo fo kɔnɔ nɛ ŋ ŋini fo kanyiasheŋ.,lofo kọ nọ n'ịgịrị fụkanyị ịsị,1.0,0.5185
+731,B daŋ yɔ ndoŋ nna ŋkpal Enyɛnpe Ebɔrɛ be wajɛbu nɛ mbe kayɛrbi Mosis daŋ lɔŋɛ ashi kiyi to dra dra na ka daa wɔ ndoŋ so.,"Bụ ndị ọjọọ ṅaa, ṅụọ ihe ọṅụṅụ eboro bụ wajịbụ na ọbụ ka ịbụ Mọsịsị na ogologo echi kịto dra dra ṅaa, ka daa bụ ụdọ nsị.",0.8519,0.6129
+732,ŋko n fule esa ko ma kebaawɔtɔ to.,M ko m fụlị ya sị ka m kpọọ gị.,1.25,0.7308
+733,"Kusɔ nɛ k beeŋ wora basa nɛ baa lara esarga a sa Ebɔrɛ na, kumo e naŋ wora bumo nɛ b maa bɛ bumo be nnɔ naseso so na gba.",Kedu ka m ga-esi baara onye na-arụ ọrụ ibe m ihe n'ụzọ kwesịrị ekwesị?,1.0,0.7889
+734,"Ade kikɛ be kaman nɛ Enyɛnpe Ebɔrɛ naŋ kaŋɛ mbe basa le: “Meeŋ ba Jerusalɛm to m ba kɔ n sɔ menyi, Jeekɔb be kaman to ebi nɛ men lar menyi be alubi kikɛ to.",Adekeke bu kam na enyemaka eburu na nka m bu Basili. M bu Jeruselem tu m bako nsogbu menye. Jekobu kam nti ebi na m laru menye bu olubi kekete.,0.9429,0.4068
+735,"Ndoŋ nɛ kayu nɛ kamɔ nɛ kubojuaji nɛ kayɛlga nɛ dalubisheŋ nɛ kafule nɛ kusɔjigaya nɛ kayurbesa, nɛ basa be atre be kejija nɛ kamoowu nɛ kawuli kikɛ bee shi.",Ndonke yu na ka mụ na ụmụ ojị na ka yiri ga. Nde lubishen na ka fụlụ ya na koso jiri ya na ka yoruba sa. Na ba si bụ atiri ba ka jeja na komowu na ka wuli keke bishị.,1.3667,0.4048
+736,"B ka ba kaa tase ejikpa a ji na nɛ Yesu kaŋɛ: “Kashenteŋto nɛ mee kaŋɛ menyi na fanɛ menyi to be eko beeŋ debɔr ma, mo alɛ e tase ma kutɔ ejikpa nfe a ji na.",Bịa ka anyị tụgharịa uche n'ihe Akwụkwọ Nsọ kwuru gbasara otu nwoke kpuru ìsì kemgbe a mụrụ ya.,0.9459,0.7949
+737,Mo nio e daa la Yuriya nɛ e shi Gibia na pibiche Mikaya.,Munni edalu yuriya ne echi gibiya na pibiche mekanya.,0.7692,0.2326
+738,ama e daa maŋ ta tintiŋ ŋ kɔ n fin fanɛ mo nɛ Ebɔrɛ e baa sasa.,"A ma etam ncha ntinye nku n'ime ọkụ, mụ na eboro ebe asị.",1.0,0.5435
+739,Menyi gbagba ŋko menyi be mbia ŋko anya ŋko asɔbɔya ŋko befɔ nɛ b wɔ menyi be efuli so na maŋ daga fanɛ b ka shuŋ.,"Menye gbagba nko, menye bu imbia nko anya nko asubo ya. Nko bu fune kbuwo menye bu efulu si na, ma ndi ga afu ne kbu ka osi.",0.9231,0.3523
+740,Ama anyi maa sha kewora ewɔji nɛ edɛ gboŋgboŋi ere e mɔ anyi.,Anya m aashaa ka udele ewo jee na edigbomgbo eri amu anyi.,0.9231,0.4583
+741,Anyeeŋ wora mbra nɛ Mosis ta n sa anyi na kasonu.,Anya wuru an brand new Mercedes ta ansa anyi na Kosonu.,0.8182,0.4737
+742,"Menyi alɛ naa ta kusɔ kekra nna a ki kusɔ belbelso, nsaa ta kusɔ belbelso a ki kusɔ kekra.",મને આલના તા કોસકકરા અને એકી કોસબબલસુ અને સાતા કોસબબલસુ એકી કોસકકરા,1.0,1.0
+743,Menyi alɛ e naa nyiŋi fanɛ Enyɛnpe menyi be Ebɔrɛ na e naa niŋi menyi nseŋ naa gberge menyi kusoe fanɛ kananɛ betuto nɛ benioana bee bela bumo be mbia na.,manya ale ene enyi gi fene enyin pe manya bu eboro na ene nini manya m si na agwara gi manya kwusi fene ka na na bututo na bu nia na bia bala bomu bu mbia,1.129,0.374
+744,nɛ e kini kenu esa nɛ e kɔ awɔ.,na ekini kunnu esine ewo,1.0,0.4091
+745,Ma e naa ta ma keŋini a sa efuli pɔtɛana na; nɛ ma mbraana malɛ bee shin nɛ baa pin ma.,M na-ata mịkịrịị asụ efulụ pọtị anụ na ma mbra anụ malụ be ịsị nụ gbe pịlị.,0.9048,0.4308
+746,B daŋ ta Enyɛnpe Ebɔrɛ be mbra be kawɔl na nna n yɔ Juda be ndeana kikɛ to n ya ka ŋini basa na.,"Bà dặn ta, anh em phải ở với nhau cho hòa thuận, không được vì tiền mà anh em lại kiện tụng, anh em phải nhịn bà sinh ra.",1.1667,0.9167
+747,"To, sa ma mmalga nɛ m bishi fo na be atuwebi naniere.",ቶ ሰማ አምላክን እምቢ ሲፍና በ አቶ ቢኔኒያር,1.0,1.0
+748,Men sa maŋ kaa yɛlga shuwa ŋko gbiti nɛ a beeŋ baa deŋ agbirana na so na.,Mensa m ka ayelụ gị siwa nkọgbuti na Abimbola den agbarani na so,0.8824,0.375
+749,Amo e naa ti Ebɔrɛ nɛ dimɛdi be kɔnɔkoŋwule be ŋkre na so.,Amu enu ti e bore ni dimeji bu ko nu kunle ba ankra na su.,1.0,0.4444
+750,Nɛ Judas fara a fin ekpa nɛ e beeŋ bɔla so n debɔr Yesu.,Ndi Yuuda asaa faara ifin ekwene ebe m bulu su ndu buru Yesu.,0.9286,0.4762
+751,Kasawule nɛ b ta n sa Simiɔn be yiri to ebi na be asheŋ.,Kedu ka ọ dị na bata na nsị Simeon bụ yiri ka ebi na bụ eche?,0.9286,0.5238
+752,"Amoso, Israɛlebi, a daga men baa wora Enyɛnpe, menyi be Ebɔrɛ na be mbraana na kasonu.","Amaghi m so Israel ebe adighi mba ọrụ enyemaka, ma nye ha eborọ na ba mbara ana na-akọ so nu.",1.1875,0.4627
+753,"Mo alɛ daŋ naŋ nya agbo n wɔtɔ Job mo nekpaana besa na gba nna, ŋkpal b ka daa maŋ tiŋ n shin nɛ Job pin kulubi nɛ e wora so, nɛ k ba fanɛ Ebɔrɛ bre e wora n jija na so.","Malite na anya agba onwatu Job, mụ na kwa anabasi na agba ana. Nkpolụ biko daalụ mụ tinye isi na Job pin kulu binu e wuru sọ. Naka ba fene, e gboro biri e wuru njeji na asụ.",0.8605,0.4032
+754,Kumo be nchɛ adesa nɛ asa be kaman pɔɛŋ nɛ e beeŋ nyalɛ so ashi ŋklaŋ nɛ a lar mo to na to.,Kumba enye adesa na asabaka man foin ne ebe nya luso echi nklane alar moto na,0.913,0.3235
+755,Benyɛn nɛ Mosis nɛ Ɛɛrɔn nɛ Israɛl be bejuŋkparpo kudu anyɔ na daŋ karga na kikɛ daa la basa ŋgboŋ alfa ashe nɛ asa nɛ alfa anu nɛ adunu nna.,Banyen nu mosis ni ero ni Israel ba ba jen puru kudu anyu na da karaga na ke ke da le ba si ngbon alufu eche na asa na alufu nu na odunu,0.9667,0.3784
+756,"Ndoŋ nna nɛ Joshuwa kaŋɛ le: “Enyɛnpetale Ebɔrɛ, manɛ e ba nɛ fo ta anyi n dii Jɔɔdan be lɔr ere nɛ Amɔriebi e baa mur anyi?",Ndi Jordan bụrụ ịrè na-amọrọ ebi ebe mmụọ anyị.,1.0,0.7553
+757,Ramɔf nɛ k wɔ Giliad na nɛ b daŋ tu abar ŋ kɔ kena na nɛ b doro Joram ashi kena na to.,Joramụ nọkwa Giliad na. Na be ndị ọzọ abụọ ọnụ ka na-aná. Na be ndị ọzọ Joram esighi. Ka na-aná.,0.8261,0.5556
+758,Akoŋ beeŋ mɔ menyi be bejuŋkparpoana nɛ achukoŋ e mɔ basa damta malɛ.,akụkọ ịma mma nye ụmụ beanyị gbasara ọkụkọ na ọchịchọ ịma ọgbàsị damtọkị,1.0,0.7679
+759,Menyi bee tɔ nwu nɛ nsawule damta a ti amo nɛ men chɛr a kɔ so nna.,M'enye be tu onwu na nsawoludam ti eti amu na me nchiri akwukwo ana.,0.9412,0.36
+760,E maa sa alubiworapoana ekpa fanɛ b baa wɔtɔ mbaanaayɔ.,Mba a bụ otu mba na-ayọ,1.0,0.7111
+761,nɛ b ta ŋgbɛlɛbi ŋ kre na to n sa abar.,na bata angbale be ankara nato an sa'a,1.0,0.5357
+762,Ndoŋ nna nɛ n lara men nananyɛn Eebraham ashi Yufreetes be kaba ndoŋ n ya ta mo n nite Keenan be kasawule so kikɛ.,"na an laramin na nyan Ibrahim a shi Yufrates baka ba indong, in ya tamu in nite Kena baka sa wul saki",0.9167,0.3333
+763,Mo alɛ beeŋ naŋ tiŋ n duu kedibi nseŋ jo nɛ bɔrɛ e ba n wurge kumo so nɛ k daŋ nɛ e ku kumo n shɛl.,"maka na ihe niile unu ka di be unu sunyo na bọọrọ ebe a, unu wuru kụmụsọ na ka dan na ekwu kụmụ ncha",1.0,0.5972
+764,Ewura Uziya daa yil bɔrɛlambu na to nna m mata bɔrɛsure nɛ baa chɔɔ duwu kumo so na a kɔ kusɔ chɔɔ duwu to.,"Ewuruzie deyilu boru na mbuna taa ịna, amata boru soro na baa choo duu kumụsị na akwụkwọ sụchọ duu",0.9167,0.3976
+765,B du fanɛ njɔnɔ nɛ b maa gbu nna.,"बुद्धू फना हो जाओ ना, बूम एग बूम",1.0,1.0
+766,Keenanebi nɛ bekama nɛ b wɔ efuli ere so kikɛ beeŋ nu kesheŋ ere nseŋ kulti anyi n wɔtɔ m mɔ anyi kikɛ!,"Kee na ebee na bakama na bu efulu eru sekiki bi nu kishingari, nso nkultu anyi onweta umu anyi kiki.",0.8696,0.375
+767,Fo ju Enyɛnpe Ebɔrɛ be bɔrɛmatapoana nɛ b la Ɛɛrɔn be kaman to ebi na nseŋ ju Livaiebi na gba.,"N'ebe a, ị rọọrọ bọtịlị ị chọrọ. Ịsị nchịkọta ihe a ị na-agba",1.0,0.8108
+768,Enyɛnpe Ebɔrɛ na e naŋ ka bedoŋ.,"Anya npe ebor na, enankị bụ",1.0,0.4
+769,"’ Ama ŋ kaŋ tiŋi luwu na to, meeŋ juŋkpar menyi n yɔ Galili.",ama inkan tun lu na to menje kwarminye inyo,0.7692,0.5
+770,saŋɛ nɛ kebaawɔtɔ du kekekra le ere?,सांगा ना कब आओगे? तू कब करा लेरी?,1.1429,1.0
+771,Nɛ Yesu bishi bumo: “Menyi alɛ gba maa pin asheŋ to a?,Nee yaa subishi bu mu. Me nyaa lugba me pin eshi nta a.,0.9167,0.325
+772,Ebɔrɛ kikɛ maŋ naa wɔ ebɔrɛso ŋko kasawule so nɛ e beeŋ tiŋ n wora asheŋgboŋ nɛ fo wora ere!,Eboro ke ke mana awo eboro so nke uka sa wuru so na ebi ntin onwuru eche ngbo nufu wuru ari.,1.05,0.4306
+773,Israɛl be benapo nɛ b pɛ n yɔ Keenan na beeŋ bɛta.,ઇઝરાયેલના લોકોના પિતા એ યુકેના નાબીનબેથ,1.0,1.0
+774,"Kumo be kaman, nɛ men bɛta m ba kasawule nɛ n chige sa menyi ere so.",Komba ka man na men beta amba kasa wul na en chiga en se menye,0.9375,0.3333
+775,Ndoŋ nna nɛ ewura Asa tre Juda be efuli so be benyɛn n shɛr abar so ŋ kaŋɛ bumo fanɛ b muu ajembu nɛ ndibi nɛ Baasha kɔ a shuŋ ashi Raama na.,na-anata ewu asa tiri judah bu efulu so ba banyan and share aburo so anka bu mu fane bu mu o jom bu na NDB na bacha ko eshu eshi,0.9091,0.4537
+776,Nɛ basa na daa sha kepɛ mo nseŋ nya mbe wajɛ nɛ e lɛ kumo n delge so n shile.,na basu na dawo sha kafin mu in sanya an ba waje na elle kuma in dilagasu in shirya,0.9,0.5088
+777,"Nɛ Ebɔrɛ baa maŋ niŋi kusɔ, wanɛ bre e naŋ tiŋ n niŋi kumo?","na ebori, bamu nin ko so, wana bere enantin enin kom",1.0,0.4318
+778,"Saŋɛ so nɛ fo dii dama na, loŋ be jemanɛ na so nɛ basa damta malɛ bee fin kechɛto fo kutɔ.",સંગસને ફિદ્દી દામના લોમ્બે જમનાના સો ના બાસદમતા માલેબી ફિન કચે તોફોકોતો,1.0,1.0
+779,"Ama ŋkpal fo ka wora kawulisheŋ so, yili kabre a yɔ, feeŋ baa kɔ kena nna saŋkama.","A mụ anpụlụfaka akwụrụ ka ụlịcha nsị, yiri ka abụrị ayọ fịmba akụkị na n'asa nkịta.",1.0,0.4921
+780,E daa wɔ laŋ pɔtɛ to nna nɛ mo pibinyɛn Jotam sɔ mo so a wɔ ewura be laŋ to a ji efuli na so be kuwura.,Eda ụlọ ọrụ dị iche iche na mpi binyere jọọ taa sọọ mụ sọ a wụ e wuru ụlọ eji efula sọ bọkọ ụlọ.,0.963,0.6053
+781,"Nɛ Yesu kaŋɛ mo: “Ŋkpal kesheŋ nɛ fo malga ere so, baa yɔ epe.","Yesu kanga mu, akpalkashe na fa malga ereso, bayu e",0.8571,0.3333
+782,"Ama nɛ men baa maŋ bɛ men be kɔnɔ naseso ere so bre, menyeeŋ wora alubi ŋ gbiti Enyɛnpe Ebɔrɛ na nsaa beeŋ nya kumo be kasogberge.","A na m etinye aka m n'ime ihe gbasara gị. M enye nwuru olu gị, ị gwetie enyi gị nwanyị ebe ọrụ na. Nsogbu adịghị, kọọ mụ bọka asụ gị.",1.0741,0.6863
+783,"Ama saŋɛ nɛ an daa wɔ menyi kutɔ na, an daa du boeŋ nna fanɛ kananɛ ebinio bee keni mbe mbia so a lɔlɔ bumo na.",A ma sị na a na-adị omenala ndị a dubu enafụ niile ka na-anọ ebi ndụ bido na mgbe mbụ ha ruru ụlọ.,1.0,0.5714
+784,Mo e kaŋɛ Israɛlebi kenishipereso fanɛ b baa wora loŋ mbaanaayɔ.,Israel,1.0,0.8868
+785,"Anyi be alubi so, fo ta fo kumu nna ŋ ŋana nseŋ kplaŋ anyi so.","Anyibụ ndị bishọp, fa taa fụkụmụ ana angana asanpụlan anyi sọ.",0.9333,0.5
+786,Mo nio e daa la Jekolia nɛ e shi Jerusalɛm na.,Munnie eda le je koli a ni eji Jerusalem,1.0,0.3143
+787,M maŋ naŋ lɔŋɛ ndibi na be ayabi so ŋko n ta kɔtɔkrɔ m buse amo to kikɛ.,Mmanụ na-alọghị n'ime ya bụ aya bịsọ. Ụnọọ nta kọtọkụrụ ụmbọsị amụta keke.,1.0,0.537
+788,be tɔnɔ nɛ k kɔ ŋ keni nseŋ kaŋɛ fanɛ k walɛ.,"Nna, na-ekwu okwu nke ni, m sị ka mụ fanye okwu ala.",1.0,0.697
+789,nsaa maa wora a foe; nsaa fin kayurwushi na.,Insha Allahu wurin afwe. In zafin ka yir wushi,1.0,0.4706
+790,gbagba lara n sa anyi nɛ an daa fute a yige mo so na nna.,na a na-afụta anyị gị mụ na,0.9333,0.6905
+791,kadegboŋ na be nɛnɛ na.,kedu ka ị bụ na? Ba nene na?,1.2,0.5556
+792,"Nɛ fanɛ baaŋ baa kɔ le be nfɛra nsaa bunyaŋ ma jemanɛ kikɛ nseŋ naa wora ma mbraana kasonu, kumo ere asheŋ beeŋ nyalɛ n sa bumo nɛ bumo be kamanebi hale mbaanaayɔ.","Nna m na-abamba akụrụ ebe nsịrị nsị abụghị ya ama jemanụ keke. M si na-awụrụ m mbara ala koso nụ. Kụmarụ, eche m kpe nye ala nsị bụ mụ na bụ mụ bụ ka mụ ntị ebi haala mba na ayọ.",1.2424,0.4496
+793,Kadegboŋ na to be ekrachigboŋana na be ekama daa maŋ nyi kakpa nɛ n yɔ ŋko kusɔ nɛ mee wora.,Kedu mgbe na-atụbeghị Karachi gị anọ na? Bịa ekwe mụ na gị nụ ka akwụna ụyo nke kwụsịrị mụ iwe.,1.0,0.625
+794,"Ekoŋwule baŋ tɔr, eko beeŋ niŋi mo to, ama fo nawule bre baa la nseŋ tɔr, k maaŋ ba walɛ kikɛ ŋkpal manɛ so esa maaŋ niŋi fo to.","ekwe m na m ga-anọrọ ebe a na-ekwu banyere mụ na gị. Ama m na ọ bụrụ na m nọrọ, ka mụ na gị nwee ike ikwu okwu nke ọma.",1.0345,0.8333
+795,” Kumo be kaman nɛ e koso n yɔ laŋ na be kabuna to.,Kedu ka ị ma na ekoso onye laa n'abụka bụ,1.0,0.4722
+796,"Kiyoyu na bre bee sha, eyur na e maŋ kɔ eleŋ.","Kuyorna ber besha, eyorna emonko eleng",1.0,0.3636
+797,"” Nɛ e bɛta m ba tu bebɛsopo asa na nɛ baa di nɛ e kaŋɛ Pita: “Saimɔn, menyee di na a?","Na ebe a ka m bụrụkwa onye na-eso ụzọ Asana na Beedi na Ekaṅị Pịta. Saịmọn, meenụ dịnụ",1.0,0.5667
+798,Ndoŋ nna nɛ Joshuwa tre Israɛl be eyiriana na kikɛ m ba Shɛchem.,Ndong ana ne Joshua tere Israel be eyir ana na keke ambe sheke.,0.9231,0.3137
+799,Le nɛ baa kaŋɛ: “Men shin nɛ an suge anyi be amu.,"Nne baa ka m ga, m ga-enye na-aso gi anyi bu",0.9167,0.5429
+800,Nɛ bɔrɛmatapo nimuso na kpɛa mbe asɔbuuso to nseŋ kaŋɛ le: “Men nu kananɛ e malga ŋ gbiti Ebɔrɛ nna na.,na bọọrọ tụọ pụọ n'ime usoro akụkụ ebe asụsụ sụrụ toọ asụsụ nke aṅụrị. Meenu ka a na-eme ihe ngwụta bọọrọ anaa na,1.0476,0.65
+801,Enyɛnpe Ebɔrɛ na beeŋ chɛ bumo alɛ gba to nɛ b kɔ m pɔɔ bedoŋ be efuliana nɛ a wɔ Jɔɔdan be epeŋitɔrkpa be kaba so na so nseŋ suge bumo be nsawule n chena so.,"Nyanpe, eborana binche gbomu ale gbato na bokwu mpo budo efulu ana na awu Jordan epe ngotorkpo gba ka abiso nasu. Nsogbamu gba nsa awule nchinusu.",1.0,0.4262
+802,Ewura Jotam daŋ ji eleŋ ga ŋkpal e kaa daa ji kashenteŋ nsaa bɛ Enyɛnpe mbe Ebɔrɛ na so so.,"Owu jọta, ndị ịlịngà anọlụ ekede ịjị keshịntịn, ọnwụ sị ha bịa enyemaka mbe eborụ na asụsụ.",0.9,0.6197
+803,Menyi alɛ beeŋ baa du fanɛ kambɔl nɛ k bee nya nchu nɛnɛ ŋko kabombi nɛ k maa wɔlto kikɛ na nna.,manya ale bimo dufene kambo na kebe nye nchunene nko kebo mbi na kama wulto ke kina,1.0,0.4054
+804,Fo nya alubi be ketampaŋ nsaa maŋ naa la esa nɛ e wora n jija nna na.,અને અલ્બી બકા ટામ્પાન. ઇન્સા મનાલ એસને એવર એન્જેજે અનાના.,1.0,1.0
+805,nɛ fo kuwurputi wɔ ebɔrɛso na so nna.,"na fụkụrụ pụta, wee bụrụ sọ na sọ",1.0,0.5517
+806,"Ama nɛ b maŋ dii Jɔɔdan be lɔr na n ya chɛ menyi to ŋ kɔ bre, kumo ere baaŋ nya bumo be kasawule be kachige ashi Keenan be kasawule so nna fanɛ menyi.","A na-ebum ndị Jordan bọlụ na ya chee m enyetụghị nkọwa. Kụọ mụ aịrị, banye bọọlụ mụ bụ kasaa wụlụbụka chigị eshike na bọọlụ kasaa wụlụ sị ọnụ a fana mụ enyi.",1.0,0.5304
+807,E shin nɛ bɔrɛfugboŋ ba fuu ma nna n lɛ.,"A sị na Borofụ gị bụrụ be fụma, a na-alụ",1.0,0.6
+808,"Ŋkpal manɛ so, b maa sha fanɛ esa kikɛ e chɛ Israɛlebi to.",માણસો બ્રહ્માશાફને એસકેકે એચ ઇઝરાયેલ એબી,1.0,1.0
+809,Menyee ta tentembiri nna a ki kefulto nsaa ta kefulto a ki tentembiri.,મેને તા તેન તેન બીર એના એકી કુફુલતો. અસા તા કુફુલતો એકી તેન તેન બીર,1.1538,1.0
+810,E daa la nfɛ adena nɛ kako nna pɔɛŋ nseŋ ji kuwura nfɛ kuduashunu ashi Jerusalɛm nɛ Enyɛnpe Ebɔrɛ lara ashi Israɛl be efuli so kikɛ fanɛ b baa bunyaŋ mo ndoŋ na.,"Adal 11 adanana ka ko ana pointi nsindiki wura, nfi kudo shunu echi Jerusalem. Ne enyi eboroloro echi Israel be efulu seke ke fane, be ba bu nya mu ndo",0.9697,0.375
+811,"Ŋ ka daa yɔ Masɛdonia, ŋ kaŋɛ fo fanɛ fo shir a wɔ Ɛfeses.","kadawo masu duniya, an kawo na fofane fishir awo Efesos.",1.0,0.4186
+812,"E ka naŋ bɛta m ba bebɛsopo asa na kutɔ nɛ b naa di, ŋkpal manɛ so, bumo be anishi daŋ wora bumo egbɛ nna ga, amoso, b daa maŋ pin kusɔ nɛ baaŋ naŋ kaŋɛ mo.","Nke na-abụghịzi àgwà ọjọọ a na-akwụ tọ na-bụ na-adị. M kwụrụ mụ na nsị, mụ bụ Enishi, daa nwụrụ bụ mụ egbe n'aga. A mụọ nsị bụrụ na mụ pịrị kụsị na be nna m ka a na-akpọ m",1.0541,0.6435
+813,Ewura Jehowada daŋ shin nna nɛ bɔrɛmatapoana nɛ Livaiebi na bee keni bɔrɛlambu na be kushuŋ so fanɛ kananɛ ewura Deevid yili n sa bumo na.,"Ewurụ Jehova daa, daa nshinụ nna, nị bụrụ mụ tipụ anaa nị Levi ebi n'a. Bịkene bụrụrụ mgbụ na abụkwụ chụnsọ, fịne ka nị Ewurụ David yịlị nsịbụ mụ na.",1.0385,0.4107
+814,Amoso ma kushuŋ damta nɛ n daŋ shuŋ na kikɛ daŋ ki kagbene jija nna n sa ma.,Na musu mu ku cin damtana in dan cin naka ke dan ki ka gane jeje ana ansawa.,1.0,0.4138
+815,Men baa da so nɛ menyi maaŋ teŋ Enyɛnpe Ebɔrɛ na so ŋko n wora mbe mbraana nɛ n ta a sa menyi kabre ere kusoe kpakpaso.,"Mba, adigho m enye mmeghachi omume eboro na-eso nke onwere mgbe mbụ anara nta asị mụ enye ka bụrụ ịrịọ kwasịkwa",1.0,0.5435
+816,Kede be kaman nɛ Joshuwa nɛ mbe benapo yili Lakish n yɔ Iglɔn n ya kulti kumo ale gba ŋ kɔ kumo kena.,Kedu banyere mụ na Joshua na abọbọ na-apụ yiri uwe elu na-acha anụnụ anụnụ?,1.0,0.6923
+817,Ndoŋ nna nɛ kebita na naŋ wu mo ndoŋ nseŋ naŋ fara a kaŋɛ bumo nɛ b yil ndoŋ na: “Kanyɛn ere la bumo be eko nna.,"ndu ana na-ekwụtu na-enwụmụ ndụ, a sọọ m afara aka m bụ mụ na gị yiri ndụ nna. Ka anyị na-arịlọkwa mụ bụ ekwensu",1.0,0.5663
+818,"Ekurgepo, kasha nɛ fo kɔ na leŋ ma to ga n shin nɛ ma kagbene fuli ma ga, ŋkpal manɛ so, fo leŋ beyirdapoana na to.","kporo ka anyi na-efu kụọ na ịlị mmetụga, anyị si na ya ka gbuo na fụlụ mụ ga. Anyị kwara mụ na ya so, fụlụ ịlị bụ ya dapụ anana",1.0385,0.6395
+819,Amoso b daa shuŋ kapaso nna nsaa keni kade na so a kuŋ kumo kanyɛso malɛ.,"Amu su, bu de shun ka poso ana, nse kene ka de na su? Okwu nkumu ka anyi sumalu.",1.125,0.3509
+820,n chɛ n shiga anyi be abɔ so nna nɛ amo be egbɛ.,inye inshiga anyi bu abuo so na na amu bu,0.8462,0.4286
+821,Basa anyɔ baa gberge demu to nɛ k maa nya edesekpa.,"Bịa, aṅụọ m aṅụrị dị egwu taa na ka mụ na gị edesị",1.1818,0.7
+822,Menyi gbagba ere wu kusɔ nɛ n wora Ijiptebi na.,Mee yaa gbagba eri wukoso na nwuru Egypt ebi na,0.9,0.3243
+823,Yili kachipurdidi n ya fo kapiidi nɛ e yili kelɔnɛ nɛ k mata kabuna so a kraŋ mbra be kawɔl na a sa basa na nɛ baa nu kumo nɛnɛ.,"Ihe a ka e ji prodi di, ya bụ ka e ji di. Na e ji ya na-akọwa ihe niile gbasara ya na be anyị",0.9667,0.6531
+824,Ama k maaŋ chɛr ko nɛ b foe; nɛ ŋ keni nɛ b maaŋ naa wɔtɔ.,Ama kmancher ko ne bofwe ne enkeni na bamna,0.875,0.439
+825,E ka loge ade kikɛ nɛ e ta kudɔ na m bɔɔ paawuraana enɔ fanɛ b baa keni so nseŋ yɔ efuli pɔtɛ ko so.,Ekele dịrị gị na etu a ị kwadoro na mgbe gara aga enweghị. Biko kenesuo ndị otu gị efulu pote.,0.96,0.6533
+826,Menyeeŋ nite kesaria a jante fanɛ men ka boo nsa na.,Minyen ni te kesariya ajanta fana min ka bo,0.9091,0.3171
+827,Nɛ ma kekɔmpɔɔso be eleŋ na malɛ e baa wɔtɔ saŋkama.,Nnamọ kọ compulse gị ịlụ nwaanyị ebe a wụ tịsaa nkịta?,1.0,0.6341
+828,Juwebi koŋwule na e mɔ Enyɛnpe Yesu nɛ anebiana na nseŋ tɔrɔ anyi alɛ.,"Yuu e bi koŋ le na, e mɔ e nyiŋpe Yeesu ne a ne bi ana na, nsoŋtɔrɔ anya al",1.2143,0.1964
+829,Le nɛ menyee tre ekishi nɛ k bee par ma nna a?,ને મને તેરે એક કીસી ને કે બે પરમાના,1.0,1.0
+830,Ebɔrɛ daŋ chɛ ewura Uziya to nna nɛ e ji eleŋ ga nɛ mbe ketre malɛ dii ashi durnya ere be efuli kikɛ so.,Eboranchi ewuruzie ate nna na eji elenga ya mbakatiri mali di echi duru ya ere be efulukeke,0.875,0.325
+831,Yesu ka sa basa ŋgboŋ ana ajibi be asheŋ.,Ya sukasa basu ngbun ana ejibi bu eshe,0.8889,0.2812
+832,Esa kikɛ daa maŋ lolo kumo be basa na n ti bumo kagbene.,E si ke ke damu lolo komu ba ba si na nti bu mu ka agba,1.0769,0.3488
+833,Ebɔrɛ ka la esa n sa mbe basa be asheŋ.,એ બોર કાલ એસા અંસે અંબા બાસી બુ એસે,1.0,1.0
+834,"Ama ekulpoche kama nɛ e kɔ mbia ŋko benanabi, a daga fanɛ mbe mbia na nɛ mo nanabiana na ka pin fanɛ bumo e daga b ka nu n sa Ebɔrɛ ŋ keni bumo gbagba be kanaŋ to be esa so.",A ma ekulu puche kama na eko umu bia nko bananabe. Adighi afu na mbu umu ibi na na monanabe ana na kpini foni. Bumu adighi buke nu nso eboro nke nu bumu gwagwa ka na ntu bu esusu.,0.9512,0.3588
+835,A daa maŋ daga fanɛ men ya yili ŋkpancheriana.,"A daman da gafane, meye yili nkpankye an",0.8889,0.2973
+836,kumo alɛ maaŋ tiŋ ŋ kpra kikɛ.,Banyi shawarar ga ta bu'ususu na epe ngator ko baka basu na obwonfu na baatar asuwan noko wakalar ga ta baka asito baka basu na keke embita mba epe. Ka nga asu na owu aboro su na kasa wulsa keke,5.7143,6.0435
+837,E daŋ nya Hibrɔn nɛ k la Aba be kade na nna.,Hebron,1.0,0.875
+838,Baa shuŋ ma karechɛ kikɛ nna a ŋini fanɛ b pere kenishi a sha kepin ma ekpa nseŋ wora ma mbraana kasonu fanɛ efuli nɛ k bee wora kusɔ nɛ k daga.,"Bịa ụmụaka na-eche na ọ bụrụkwa na ha na-arịọ Chineke, ọ ga-enye ha ihe ha chọrọ. Ọtụtụ mgbe, ha na-eche na Chineke dị ka nna ha ma ọ bụ nne ha, onye ga-enye ha ihe ọ bụla ha rịọrọ.",1.1875,0.9107
+839,Kagbenefuli maŋ naa wɔ anyi to kikɛ; anyi be epelana ki fanɛ nli nna nɛ anyee shu.,"Ka gị na-fulị, mana a wụ anyị tekeke. Anyị bụ eplanị ka ịfụ na nri nna n'anyị isi.",1.0588,0.375
+840,nɛ Ebɔrɛ daŋ mur kumo epul to dra dra na peya.,na ebe odimurukwu epul to dra dra na apia,0.5455,0.3714
+841,Amoso menyi bewura e kaŋ asoe.,"Amosu, meye buru ekan asu?",1.0,0.375
+842,Menyee gbiti ŋku nsaa wora etulale n ya kaa shuŋ kegbir nɛ baa tre Mɔlɛk na nna.,Menye gbe te unku na awur atulale enye koshun kagbar na ba ter molek na,0.9412,0.381
+843,"Jerusalɛm, n shin nɛ basa yil fo egbalana so e keni ekpa to.",Jerusalem,1.0,0.8261
+844,Kumo be kamɔnchɛ gbagba nɛ b kɔ m pɔɔ kade na so nseŋ mɔ basa nɛ b wɔ kumo to kikɛ fanɛ kananɛ b daŋ wora Lakish na gbagba chap.,Kedu ka m ga-esi gbagba na bọọlụ ụkwụ ka dị na asọ? Ọtụtụ mmadụ bịara sị na bụkwa ụkwụ tekere fene ka na-ebido anwụrụ laa kee chi na-agbagba chaa.,0.9667,0.6429
+845,Bumo e naaŋ ŋini fo basa fo mbra nɛ b bɛ amo so.,Na ba bi a,1.0,0.8286
+846,Naniere esa kikɛ maŋ naa ba bɔrɛlambu.,નિન્યારે એસે કેકે મનાબો બોરલુમ,1.0,1.0
+847,Ŋkpal loŋ so menyi maŋ nyi shɛŋ a laŋɛ mbe kaplɛa so.,"अंकल और आंटी, मेरी मम्मी चाय ला रही हैं, आप लोग आ जाइए।",1.0833,1.0
+848,"Amoso, b maŋ naa la basa anyɔ, ama esa koŋwule.","Amu so, m'enala basanyo ama esukungli",0.9,0.3714
+849,"Enyɛnpe, ŋini ma fo ekpa na; nseŋ ŋini ma kananɛ.","N'ime afọ ekpị na, m si n'ime",0.9,0.6216
+850,Mannɛ Eekan nawule e daŋ wu ŋkpal mbe kulubi nɛ e wora na so.,mne ekana ule edem wu nkwa na mbu kullu bi na ewu na aso,0.9286,0.3617
+851,Agbo so nɛ n daŋ chichi efuli pɔtɛana na so m mata kasawule nseŋ farnyaŋ bumo to n lɛ nɛ bumo be ŋklaŋ lar n wurge kasawule.,"Agbanyeghị na mụ na gị kpebiri ịlụ, a mataghị m ma ị ga-enwe obi ụtọ na ndụ anyị ga-ebi ọnụ.",0.963,0.7835
+852,Basa nɛ b daa ji ajibi lela nɛ amo be yawu du kpakpa ga na.,ba sani ba da ji ajibilla na amubu ya dukpa pa,0.9333,0.3182
+853,nɛ ma eyur to bel edɛ a tushi fanɛ edɛ gbagba na.,"N'ime ụtụtụ, edee ụmụchị fane edee gbagbana",1.0,0.4865
+854,Kekule Ebɔrɛ nɛ e gberge bedoŋ kusoe be asheŋ.,કોકો એ બોરે ને એ બોર કે બુદ્ધો કોસે,1.0,1.0
+855,Bedoŋ daŋ pɔɔ basa na so nna nɛ baa shu a kaŋɛ.,"Buddon damfo baa senea na, ne baa hyiaa ka",0.8333,0.5714
+856,"Ashere basa nɛ ewura bee juŋkpar na shibi ga n baŋ so ama kachɛ nɛ e kaŋ wu, ekama maaŋ baa wɔtɔ nɛ e lar ŋ kpaŋ mo.",A share bas ni ewu bijan kor na shibigga mban so. Ama ka chinne ekenwu ekema ma mba wuto na eler nkwam.,0.9286,0.3563
+857,” Ndoŋ nna nɛ b ya bugi kebeelaŋ na n lara Jerusalɛm nɛ Hibrɔn nɛ Jaamɔf nɛ Lakish nɛ Iglɔn be bewura na n yɛr bumo Joshuwa be anishito.,na biya bukukubele na liri Jerusalem na Hebron na Jamoft na Lakish na Eglon buwuru na enyere bumu Joshua bu enisi,0.8929,0.4057
+858,n sa bumo be amu; ejuŋkparpo be kachige nɛ b ta n sa bumo.,Anse bu mubu emu. Eje nkwo po be ka chega na bata anse bu,1.0,0.4186
+859,Ebɔrɛ nɛ e nyi kusɔ kikɛ na be emamachisheŋ nna.,mọrọ na enyi kwesịrị ka a na-eme mmekọrịta na,1.0,0.6316
+860,"Nɛ eche na maaŋ tiŋ n nya kpakpafɔlbi na, e beeŋ bar ali anyɔ ŋko elepɔ anyɔ, nɛ kukoŋwule e baa la sarga chɔɔso peya nɛ kenyɔsopo na e baa la kulubi be sarga peya.",na eche na mmetụta anyị kpakpando bịna ebe mbụ olileanya nke alụbụ anyọ na-ekukwa nụlị ebe a na-sịrị na chọsọpụ ya na kọnyesọpụ na ebe a na-akwụlụbụ ikpe sịrị na ya pụa,0.9429,0.5118
+861,Nɛ basa na keta Yesu n yɔ bɔrɛmatapo nimuso na pe.,"na ba si na keti Yesu, enye kboro mma ti fu ni mu si na",1.1818,0.3846
+862,ŋko a gbar ŋgbar kikɛ; ama durnya to ebi kikɛ bee wu.,"को अंगबर अंगबर केके, आमा दुनिया तू एबिकेके बी",1.0,1.0
+863,Jande nu anyi be kekule nseŋ shin nɛ bumo be katege na e laŋɛ bumo be amu so!,"Jaan de nu anya bu kwa kole, ansa ncha na bumo bu ka ataga na eluigwe bu emusu.",1.0,0.4576
+864,Eche kama malɛ nɛ e kini mo kul nseŋ naŋ ya kil enyɛn pɔtɛ ji kubojua nna ŋ gbiti mo kul dra na nna na.,Check ma malen ekkin mukul. Esne ekel enyen pote jikubu jua na ngbetu mukul dra na na na.,0.88,0.3333
+865,Job be kamalga be ekar nna na.,જો બકા મલગા બ એકર નાના,1.0,1.0
+866,chena menyi be kasawule nɛ k dese jiga na so.,manya bu kasa wuri niki desi jira na,0.9,0.4571
+867,"Bɔrɛwɔlpa baŋ moɛ nchu, k bee bar bɔrɛchu nna; kaplɛkama nɛ kedibi malɛ baŋ tɔr n shoŋi, ndoŋ nɛ k dese, k maaŋ naŋ tiŋ n chɛrga kumo be edesekpa.","Bụrụrụ ụlọ ọrụ, banye n'ime ya, kelee ndị mmadụ nọ n'ime ya, nọdụ ala, ma malite mkparịta ụka gị.",1.0,0.8214
+868,Amoso n daŋ fara nna a fɛ kusɔ nɛ k la kanyiasheŋ nɛ kebalto nɛ kawulisheŋ.,na mụ so ụnọ mụ fara nna afị kọsị nị kịlịkenye eshị na kabụlụ tọ nị ka wụlịsị,1.0,0.4746
+869,"Anyi be eyurana ere beeŋ bɛta n yɔ shishɛr nɛ a shi to na to, nɛ Kiyoyu nɛ e bee sa anyi ŋkpa nɛ efute na malɛ e bɛta n yɔ Ebɔrɛ nɛ e ta mo n wɔtɔ anyi to na kutɔ.","Anyi bu eyuran ere, bem beta onye si na ato. Na kuyoyu na abisa anyi ankpa. Na efota na male, ebeta nyo eboro na eta mu onwoto anyi ta na kuto.",0.8333,0.3417
+870,Naniere kɔnɔ nɛ mee nase a sa menyi nde: “Bewurjipo nɛ kenimujiana beeŋ gbir m bunyaŋ menyi.,Nne m ya na nna m na-asị m nye ndị buworo jipụ na kịlịmu ji ana bụ mgbirị mgbochi m nye.,1.2353,0.5068
+871,Jerusalɛm ka ki fanɛ keshishɛrsawule a dese ere gba.,जेरूसalem के कीफने कशे शराशौल,1.0,0.9302
+872,"Amoso nɛ an baŋ maŋ naŋ wora Enyɛnpe anyi be Ebɔrɛ na be mbra nɛ keŋini nɛ e ta m bɔla mbe kayɛrbi Mosis so n sa anyi na kasonu, kumo ere Ebɔrɛ be kɔnɔsho e ba anyi so.","A ma m na a mba m na-ekwu okwu banyere ya bụ ebe ọrụ na-abụghịkwa nke na-etaghị mgbụrụ, ebe ka a ga-arịbụ mọsịsịsọ anụcha anyị na-akwụsị ọnụ. Kụọ arị, ebe ọrụ bụkwa ọnụ ụzọ ebe anyị so",0.9744,0.6641
+873,Nɛ Naftali be yiri to ebi daa la basa ŋgboŋ adunu nɛ asa nɛ alfa ana.,Nna ha fụrụ ya na abalị ụbọchị ụka na-adịghị anya tupu a kpọga ya n'ụlọ ọgwụ.,1.0,0.8679
+874,purge manaŋ manaŋ nna; ama afu baŋ chela amo so nɛ a bolo.,mana mana na ama ofu ba nchele amuso na ogbe,0.9231,0.3864
+875,"Nɛ men wora loŋ, kagbene wushi nɛ k bee shi Ebɔrɛ kutɔ a ba nsaa chɔ kananɛ dimɛdi beeŋ fɛ na beeŋ shin nɛ men be ŋgbene nɛ men be nfɛra e nya edesekpa ashi Kristo Yesu to.","na m na-ewuru unu ka unu wuchie na nke bishọp eboro koto akpa, nsachọ ka na-eme di, biko na-eche na mụ na unu nọ na mụ na unu siri enyi edisikwa echi Kraist Jisọs.",0.9737,0.5714
+876,Enyɛnpe Ebɔrɛ ka kɔ m pɔɔ efuli pɔtɛana so be asheŋ.,Nyenye bu eboro ka ko umpo efulu pote anu so bu eche.,0.9091,0.4634
+877,"E ka wu, ewura Deevid be kade to Jerusalɛm nɛ b daŋ puli mo nɛ mo pibinyɛn Ahaz sɔ mo so n ji kuwura.",Ewụ! Ewụrụ David bakade to Jerusalem na beda mpụlụmụ na mụ pịbị nyịn ahas sọ mụ sọ njị kụwụra.,0.9583,0.3553
+878,"Saŋɛ na so, men kaŋ wu mo, men be ŋgbene beeŋ naŋ dese menyi nɛ ma alɛ gbagba be kafɔŋ e lar ma to.","Sanganu so, min kan wumu, memba angwane binan desemenye. Na malagwaba, bika fon elarim",0.9583,0.411
+879,"Jemanɛ nɛ e daŋ bɔla awɔlpa lembir gbitigbiti nɛ edɛ daa lar amo to na to m malga awɔrso na, mbraana ere nɛ e daŋ ta n sa na nɛ mannɛ apɔtɛ ko.","Jemana na e da mbulu awulu pa lembu gbiti gbiti na e da da lar amutu na to, amalga awuru si na. Mbra a ne ere na e da nta nsi na. Nne mma na apote",0.9091,0.2844
+880,"To, nɛ feeŋ tiŋ, fo kaŋɛ ma kusɔ nɛ fo kɔ nɛ fo kaŋɛ.",to nifintin fukanga moko sona fuko na fukanga,0.9286,0.5405
+881,An daa leŋ menyi to a lɔlɔ menyi nseŋ daa kaŋɛ menyi kananɛ menyeeŋ baa wora nɛ menyi be kebaawɔtɔ e baa par Ebɔrɛ nɛ e bee tre menyi a ba mbe kuwura nɛ kemaŋkura na to na.,"Nde link menye to alolu menye, m si na aka m menye ka na ne menye mba awura na menye bu ka ba wuta ebe apur ebo re. Ne ebe ter menye abụ m bukuru na ka mụ nkurana",1.0,0.3731
+882,e ŋini menyi kumɔlga be ekpa.,Onye na-eme ya kọmwalụ gị bụ Ekpa.,1.0,0.6087
+883,Amoso b daa maŋ naa bɛ Ebɔrɛ be mbra so.,"Amu so, mana ebor be mberaso.",0.9,0.4
+884,baa kaa yige amo be gbrɛ ko nna a chɔga so.,Baka yaga amfanin berekko a nan a chokali,0.9091,0.5625
+885,Kumo be kaman nɛ Ijipt be efuli so.,કોમોબા કામન ને ઇજિપ્ત બે,1.0,1.0
+886,"Amoso, mee ta mo fanɛ ŋ kaŋ ba kaa wu kananɛ ma asheŋ ere bee nite, meeŋ shuŋi mo menyi kutɔ manaŋ.","Amsu, mita mufene, nka mba kowu kana na m'echin'iri biniti, m'ishu ngumu menye koto mana",1.0,0.44
+887,fanɛ kananɛ kena bee shu a ŋini k ka bee ba na.,Fana kana na kana bi shu enyini ka ka bi ba na.,0.75,0.3143
+888,Anyi be beche nɛ mbia nɛ anyi be ana nɛ mbolpɔ bre beeŋ baa wɔ Giliad be nde to nfe.,"Anyị bụ ụmụ chere na mba na anyị bụ anaa na ụmụbọlụ gịrị, bịa mba gịrị na ndị",1.0,0.625
+889,B wɔ edɛ mo nɛ a maa duŋ kikɛ na to nɛ k bee ŋini anyi kananɛ Ebɔrɛ beeŋ gberge bekama nɛ baa wora asheŋ fanɛ loŋ be basa na kusoe.,"Bụ ebe mụ na ụmụ nne m na-atụ na-ekiri anyị ka na-eje ọrụ be ngwọrọ gị, bọọlụ ma na-awụrọ eche m fene n'ime ụlọ akwụkwọ.",0.9677,0.63
+890,a gberge basa a lara bumo be elaŋana to na gba.,આકબર ગબ્બાસ આલ્લરા બમોબ અલ્લન આનેત ના,1.0,1.0
+891,Livaiebi na malɛ e naŋ baa keni nɛ kananɛ b nase asheŋ na a shuŋ.,Ndi be anyi na-ama le enene mgbe kene na ka na na be na si echi na ochu.,1.1333,0.56
+892,Kafɛ na to be kufɔl sososo na be kachɛ kuduanasopo na be kaaseso nɛ Israɛlebi na ji kebansonchoŋ be kejigboŋ na ashi bumo be keeyi to ashi Gilgaal nɛ k mata Jɛriko na.,"Ka Chineke bụrụ onye so so unu na-akachikwa anu supu. Na biko sọọsọ na Israel ebi na-ejikọ bansu nchọ mkpụkị jigbonna, echi bụ mgbe keyitọ, echi galgal na kamata Jericho.",0.9394,0.4478
+893,"Men baa bunyaŋ Enyɛnpe Ebɔrɛ na nsaa de so, ŋkpal manɛ so Enyɛnpe nɛ e la anyi be Ebɔrɛ na maa sha kapuni nɛ ŋkpɛato nɛ brɔbu be asheŋ.","Mba abụghị m enyi gị nwoke bụ ezigbo enyi m, nsogbu adịghị, enweghị m nsogbu, enyi m nwoke ele anyị bụ ezigbo enyi na macha ka puni na akwa etu na buru ọbụbụ enyi.",1.1379,0.7619
+894,Amoso men baa wora Enyɛnpe Ebɔrɛ na be mbraana na kasonu nsaa ta kufu nɛ kechicha chicha a bunyaŋ mo.,"Amsu, mmebaur enyintọ eboro na ba ambarara nụ na kosonu, nsate kufu na kachicha chicha abụnyam.",0.85,0.321
+895,Kusɔ nɛ ekama baa wora e la kebaa ta mbe kanya a ji a nuu nsaa ji mbe kumu.,Ọ sị na ekwe ma baụrọ ele ka bata mbe ka ya eji onu nso eji mbụkụ mụ.,0.9474,0.3929
+896,"Ama b kaŋ ya nya n ji n daŋ, baaŋ lar ma kaman n ya kaa shuŋ agbirana n jija ma nɛ bumo be kɔnɔkoŋwule be ŋkre na.",bakaya ni inji indan ba larabaka man in yakeshun agbara na in jijima na boma bu konko le ba ankarana,1.0,0.3882
+897,"Beyu baŋ ba kanyɛso, asɔ nɛ baa sha nawule nɛ baa ta.","Bụrụ gị bụ mba ka anyị sọọ, asị na mba achaa na-awle n'ebe a",1.1667,0.55
+898,Kafɔŋ nɛ ebesa shin nɛ ma apumbi to bee kii to.,Kaffo ni abessin na mu open bito biki to.,0.9091,0.3889
+899,Ijipt nɛ Asiriya be efuliana so nɛ an ya kaa kule.,Egypt ne Assyria be eful anuso ne anya ka kwulu,0.9091,0.3333
+900,"Nɛ kuwɔlpa ko lar nɛ kumo be kiyoyul ba buu bumo so nɛ ebɔl shi kuwɔlpa na to ŋ kaŋɛ: “M Pibinyɛn shaso nde, men baa nu mbe kɔnɔ.","Nkulupa kụlụ nụ, nụkụ mụ bụkwa ịyụ bụ bụ mụ sọ. N'ebuluchi kụlụ pa n'ata nkangị. M pịbanye n'isi asị ndị mụ bụ nụ ụmbọkọnụ.",0.9655,0.5464
+901,Basa ere kikɛ daŋ yɔ Juda be efuli so be nde kikɛ to nna n ya bar Livaiebi nɛ mbuna mbuna be bejuŋkparpoana na kikɛ ashi Jerusalɛm.,Bụkịrịkị na Jụda bụ eburu so bịa na ndị nke taa na ya bụrụ Levi ebi na ụmụ na ụmụ na bịa bịa kwapụta na nke eji Jerusalem.,1.0,0.5481
+902,"Echefo kachipurso shin nɛ fo basa na kikɛ e lar n yili yiri yiri so, nɛ yiri kama nɛ meeŋ lara na e yili mbuna mbuna so.","Echefuka kị puru so, si na fa basara ka kị eliri inyili yiri yiri so. Na yiri kịma na me lara na eyili mbunu mbunu so.",0.7407,0.2391
+903,ashi kegbembi be kukɔlɔbi kama to.,si ka bembi bo kokoro be,1.0,0.5714
+904,"Ade kikɛ be kaman, an daa keni a fin kechɛto.","Ata keba kamn, anda ke ni efin ke",1.0,0.4118
+905,"A daga fanɛ men kishi amo be asheŋ nsaa gelge amo kenishipere so, ŋkpal manɛ so, Enyɛnpe Ebɔrɛ na shoduu amo nna.","A ga-afanị mepechi amụbụ echeng, nsogbu amụkịlịsị pụrụ sọ, a kwụlịmanụ sọ, enyentụ eboro na shọdụ amụ ọnụ.",0.9091,0.5056
+906,"To, kaŋɛ anyi kusɔ nɛ anyeeŋ kaŋɛ Ebɔrɛ.","To, ka nga anyi kụsịrị, anyi nka nga eboro.",0.875,0.4839
+907,"Nɛ e daa ta kuchuchɔ fuloŋ a kuya menyi so, ma ere beeŋ ta gbaŋɛ be kuchuchɔ ŋ kuya menyi so!","ne data chuchu fulu akwụkwọ ịmenye so, ma ọ bụ n'ụdị akwụkwọ ịmenye so",0.8571,0.5634
+908,Israɛl ka beeŋ lar Enyɛnpe Ebɔrɛ na kaman be asheŋ.,Israel,1.0,0.8537
+909,Ama amo nɛ amo kikɛ Enyɛnpe Ebɔrɛ na be agbo kraa maaŋ wushi.,"A ma a mụ na a mụ kike, enye mụ ebe ọrụ na-abụ agbo krama wushi.",1.1538,0.3333
+910,Ewura Abija daŋ dii kebeegboŋ nɛ baa tre Zemariam na nna n yɔ kumo be esoso n ya tre Jeroboam nɛ Israɛlebi na m ponte ŋ kaŋɛ le: “Men nu nfe!,"Ewuru Abija dan Diki be gọọụn na baatrị Zẹmaryam na nna, onye ọkụmụbụ Esau, onye atọ Jẹrobọam na Izrel ebi na mpaghara ugwu. Me nụ",0.871,0.4167
+911,Kachako nɛ Joshuwa shuŋi basa ko ashi Jɛriko fanɛ b yɔ Ai nɛ k mata Bɛfavɛn ashi Bɛtɛl be epeŋilarkpa na n ya ŋana n dara kananɛ ndoŋ be kasawule na du.,Kachị akụkụ ndị ọchịchị anyị basara eji jeere gị ọhaneze bụrụ ihe anyị na-akmmata bekee na-eji betel bụ epe ngịlarịkwa na ya anaghị anọdụ ala ka na ndị ọzọ ka saụl na-anọdụ.,0.9688,0.6583
+912,Nɛ men kaŋ wora loŋ Enyɛnpe Ebɔrɛ na beeŋ mur menyi fanɛ kananɛ e beeŋ mur efuliana nɛ menyeeŋ kɔ kena na.,"na m eka nwuru anwụ, enyinpe eboro na a bị m mmụọ menye ha ụjọ ka na a na ebi mmụọ efulu anụ na menye nkwu ka na a na.",1.2727,0.4524
+913,Nebat pibinyɛn Jeroboam daŋ kini kenu n sa mbe ewura Sɔlɔmɔn nna.,nebe ebe i bi nye jere gwa m nke n'ukwu nụ azịza mgbe e wuru Solomon,1.3333,0.5472
+914,"Ŋkpal manɛ so, Enyɛnpe menyi be Ebɔrɛ na gbagba beeŋ baa wɔ menyi kutɔ.","Nke a bụkwa mmụọ nsọ, enyenụ m ya bụ eborọ na agbagba. Bịa mbaụ, mụ enyekwa",1.1429,0.5893
+915,Ewura Asa mo nanache Maaka daŋ yuu kedibi nna a shuŋ kegbirche nɛ baa tre Ashira na nɛ ewura Asa tia kumo ŋ kuya to n chɔɔ ashi Kidrɔn be ketaŋɛ to.,"Ewurụ asa mụ na niche maka danụ ka dibịa na-achụ nke gburụche na mbata asịrị na. Na ewurụ asa tịkụmụ, nkwụịto, nchọ, eshịkị dronụ baka taa",0.9062,0.4052
+916,Etɔlpo nɛ esa nɛ e bee jija asɔ kikɛ la kukoŋwule nna.,etulpo ne eseni ebi ji asokeke le kukong le,1.0,0.4286
+917,Nɛ Efreim be yiri to ebi daa la basa ŋgboŋ adena nɛ alfa anu.,na efrim bi iri to ebi daal ba so ngbon adan na alfon,0.8571,0.2979
+918,E daa sha keyɔ n ya kɔ Israɛl be eyiri nɛ a wɔ kelargato be esoso be kaba so na kena nna saŋɛ na so efuli na kikɛ beeŋ baa kraa la kukoŋwule.,"da ashe koyo inyaku Israel ba'a yiri na'a wakalar gata ba'a sosu ba ka ba suna kana ana, sanga na so e fulna kake bem karale ku kongli",0.9394,0.3426
+919,Basa na kikɛ daŋ bar mo ŋkɛ nna nɛ e ki damawura nseŋ nya bunyaŋ n ya baŋ so.,Bana ke ke dam buru mu enke ana ni eki damu wura en san nyabu nya ya bansu,0.9474,0.3621
+920,ma kagbene jija nna ga; ŋkpal bedoŋ ka bee cha awɔr.,"Maka akwụkwọ ndị a na-agụ, enwere ụdị dị iche iche a",1.0,0.75
+921,Kasawule nɛ b ta n sa Zɛbyulɔn be yiri to ebi na be asheŋ.,कासाउल नबत्ता आन्सा जे बुलम बियुर्तु एबिनाब इशे,1.0,1.0
+922,Ekama malɛ nɛ e beeŋ naŋ ya fara a pɔr kumo be gbaltɔlase beeŋ paŋ mbe wurkoŋnyɛn.,"ekwe m na mụ na ya fara ụmụkụ mụba gbalụla si, biko nyere m aka.",0.8824,0.6154
+923,E daa kɔ benapo damta nɛ b wora shiriya nɛ b ya kɔ kena saŋkama nna.,ડાકોર બનાસકાંઠા,1.0,1.0
+924,baaŋ ku ekama nɛ e wɔ lsɔɔ be abee so na to.,Banku ekwa na ewu iso bu kịbe sị na,0.9167,0.5
+925,bee ŋini fanɛ fo maŋ nyi kusɔ nɛ fee kaŋɛ nna.,being in a funny,1.0,0.7429
+926,Bumo koŋwule na e daa keni Enyɛnpe be wajɛbu na be kelɔnɛ be ndibi yuuso nɛ amo be atɔl nɛ amo be ayir nɛ efɔlana kikɛ so.,bu akwukwo nile edere kene anyinwa bu ndi bi na bukwu lonne bu ndi ibi uso na amu bu atul na amu bu eyir na efulani keki so,0.963,0.4947
+927,Ama bedoŋ daŋ ba kɔ Tebes nseŋ pɛ kumo.,ama budong dan bakko tebes ensanpe,0.7778,0.4667
+928,B du fanɛ teku so be atili lubi nna a shin nɛ bumo be anishinyɔr bee kaa fanɛ atili na be eyurpi.,Ache na ekpom gbe enishi nyoro bika fa na etili na be oyibo.,0.9091,0.6133
+929,Mbe kuwurpiŋi daŋ sɔ bɔrɛlambu na be kaplɛkama nna.,"Lumbu bu uru pinye, danso buru Lumbu na abaka play kama",1.1111,0.5
+930,ŋko n tiŋ ŋ karga mbe nfɛ nɛ e ji.,Inko untin inkar ga amba anshin,1.0,0.625
+931,Amoso men baa wora mbe mbraana nɛ keŋini nɛ n ta a sa menyi kabre ere kasonu.,"A mụ sọ, mụ eba ụrọ, eba ụrọ ana, na kịnyịrị na nta asị mụ enye ka bụ erị kọsọ nụ.",1.2353,0.5
+932,nɛ e maŋ nyi enyɛn kejafɔ a ta mo a ki mbe eche na.,"ne eminyi enyen ka jiafo, atamu eki mbe eche na",0.7857,0.2432
+933,"Bumo alɛ daa kɔ eyur be alenfia, a walɛ eyurto nɛnɛ.","Bụ mụ na ya kụọ e yoruba elemfia, a walụ e yortu nne",1.0909,0.475
+934,"Basa be kamɔ damta so, ŋklaŋ gbiti menyi be enɔana nna.","Bịa sọ bịka mụ adịghị m tọsọ, enkleng buti m enye bịa ọnụ ọnụ.",1.2727,0.5814
+935,"Ŋkpal manɛ so, kabuibi ko beeŋ tiŋ n nu nseŋ ya kaŋɛ bumo kusɔ nɛ fo malga na kikɛ.",Nke a pụtara na ọ bụghị ihe nnụ anụghị ya ka a kpọmkwọ sị na ihe omume a na-akeke.,1.0,0.746
+936,Ama fo agbo maŋ kɔ ekar a?,Amaphupho agcwele ekra.,1.0,0.6842
+937,Keshishɛrsawule so ebi na beeŋ ba sɔ menyi lsɔɔ.,"Kashi shira sa'o'i su 18, bemba so menye iso.",1.0,0.5128
+938,"Fo ka yɔ keelibuna bɔ fo ka yɔ kejigboŋ to; ŋkpal manɛ so, k yɔ keeli to bee nyiŋi anyi nna fanɛ ekama beeŋ wu kachako.","Faka yu, kele bunu bu faka yu keji gonto. Ankwalam na so, ko yu keleto bi inyi anyi ana afana ya, ekema bi wu kacha",0.9231,0.3846
+939,"Nɛ e shin nɛ b dese kasawule, nɛ e tre Israɛlebi na kikɛ m ba mo kutɔ nseŋ kaŋɛ benapo be benimu nɛ mo nɛ bumo daŋ yɔ kena na to na fanɛ b chichi bewura na be abɔ so.","Na eshi na bụdị sị ka sa wụlị, na etịrị Israel ebinakịkị na bọmụ kọtọ, ọ sị nka ga bụ na afụbụ bụ nnụmụ na bụmọnụ bụdị anyụ ka na ana atị na afụ nị. Bụ chịchị bụ wụrụ na bụ agbụsọ",1.0,0.496
+940,"Ama mee kaŋɛ fo, Job, nna fanɛ fo wora n foe.","Ama m'ekang'o fu, jop'ana fene foworo",0.9091,0.4062
+941,Bɛnjamin malɛ be kanaŋ to ebi e daa la Saalu nɛ e la Mɛshulam pibinyɛn nɛ mo nanabi malɛ la Joɛd na.,Benjamin,1.0,0.9103
+942,"Anyi alɛ gba la Juwebi nna, nɛ anyi be mbia nɛ bumo be mbia kikɛ la kukoŋwule.",Anya lagbala gi ebe a na na anyi bu mbu a na bu mbu ikele kwu konli.,0.9412,0.4167
+943,Meeŋ shin nɛ ma kiyoyu e gbelge menyi be mbia so.,Mensiona mụkwa yụ egwú gị menyere bụ mbisụ.,1.0,0.5263
+944,Ewura Sɔlɔmɔn be aŋasa nde: Kebia nyiashempo.,એવર સોલોમોન બાંગાસ એન્ડે કેબિનેશે,1.0,1.0
+945,"Amoso, nɛ an baa kɔ ajibi nɛ asɔbuuso, a kukwe anyi.",Amu so na amba aku eji bi na asubuso. Akwukwo anyi,0.9091,0.2564
+946,Men bela menyi be benapo ase nɛ b tu Israɛl be eyiri nɛ a ka na n dii Jɔɔdan be lɔrgboŋ na n ya chɛ bumo to ŋ kɔ n sɔ kasawule na n chena so.,Ndi be Israel biara na Akna na ndi Jordan biara na ya chebe ha na nsogbu kasa ha na nche nsogbu.,0.8611,0.6
+947,B daŋ to beri nna m barga bumo be benimugboŋ.,"Bụ dan tober ana, anụ burger bụ mụ bụrụ nụ mugwọ.",1.1,0.5143
+948,Eŋinipo na yɛ: “Mee lege asheŋ ere to nna gbrɛgbrɛ a fin amo be edesekpa.,Mene lag ashen ereta ana gbare gbare efin amobe,1.0,0.5357
+949,Abija bre be kuwurji be eleŋ daŋ baa ti so nna ga.,"A bịa jaburụ bụkwa ụdị be eleng, dem be etisa anaga.",1.0,0.4737
+950,Hananiya nɛ e daa la ewura be benimuana to be eko na e daa keni Jeɛl nɛ Maaseia nɛ b daa sibɛ benapo na nɛ kena to be asheŋ a wɔtɔ nwɔl to na so.,Hananiya na Edali ewurube bụrụ mu anụ tupu ekwuo na ịdịkene Jeziel na Maasia na bụdị asebe bụnapụ na abụ kenatụrụ eche awụto onwụtu na,0.8857,0.4182
+951,Kumo be kaman nɛ e wora nde popɔr m mata Ashdɔd nseŋ pɔr egbalana ŋ kulti amo nɛ Filisti be efuli so be nde ko.,kum ba kamn ne ewu ande poporo amata ayi do ason pur egbela ne nkulti amu ne fili sebi efuliso ba ande,1.0,0.3372
+952,Amoso b daa maŋ naŋ sa mo ekpa nɛ e luri bɔrɛlambu na to kikɛ.,Amu so badamuna samu ekwanu eluru boru na embuna to,0.9333,0.383
+953,Mataniya e daa juŋkpar bɔrɛlambu na to be beshɛbompo be katuŋ nɛ baa bunyaŋ Ebɔrɛ na.,Mata nne a edaghi ajụkwa ajụjụ gbasara ihe mbu na-ato bụkwa ezigbo mpo bụkwa otu nne kacha abụnya ebe ọrụ na,1.25,0.6232
+954,Menyi be alubi e barga menyi nɛ men be Ebɔrɛ be kefɛato.,મેં બહુ અલ્લુબી એ બરગ મેં ને મેં બહુ એ બોરબા કેશાત,1.0,1.0
+955,wɔ basa lela kutɔ nna; nsaa beeŋ malga n sɔ bumo n yige; saŋɛ nɛ baŋ bar bumo demujikpa na.,"O ba si le lo koto ana, eni ti o ba n wa oko lati ra, ko wa ra oko ni igi. San ni ba mberu, bo mu de muji",1.45,0.6667
+956,Kusɔ nɛ k ba nɛ e daŋ wora loŋ e la fanɛ saŋɛ so nɛ b daŋ lar Ijipt a ba na bekama nɛ b daŋ fo kena be kekɔ na kikɛ daŋ wu nna ashi keshishɛrsawule na so.,koo sanna kaba na edan wuru loon ela fane sanna sanna bidaan liri egypt a bana bakama na bidaan fo kana boko kuna keke donwu ena eshi kasa sharsa walna,0.9487,0.4261
+957,"Mannɛ ma basa, Israɛlebi nɛ b ji efute na be kebɛta.",Manna ma bas Israel ebi na beji e fute na baka,0.9091,0.25
+958,"Kanyiasheŋ du nna fanɛ kapetɛ, nsaa kɔ tɔnɔ n sa bekama nɛ b kɔ kumo.","Kanye shedu ana afane kapita, nsakotu na nsaba kama na bu kokoma.",1.0,0.3396
+959,Saŋɛ na so menyeeŋ tiŋ m pin kusɔ nɛ k chɔ kekama kela n lara kumo.,"Sáŋa ná só, me nyiŋ tiŋ empin kɔsɔnɔ kɔcɔ k'akama k'ala anlar kɔmɔ",1.0,0.3333
+960,Ebɔrɛ be kuwɔr be kakɛ nɛ kagbenewushi nɛ k shi Ebɔrɛ an Tuto nɛ Enyɛnpe Yesu Kristo kutɔ na e baa wɔ menyi so.,Eboro koro bu ka chi na ka bunuchi na ka isi eboro antutu na enyempe Jesu Kristi koto na ebe awu,0.9583,0.4713
+961,Mbraana nɛ Enyɛnpe Ebɔrɛ na daŋ ta n sa Israɛl be basa kikɛ jemanɛ nɛ men daa wɔ kebee na ase na nna na.,mgbara anụ nụ enyị mụ eboro na adanta nsi Israel bụ basikike. Jemena nụ mee ndaụkịbe na asị na,0.9167,0.4
+962,"Nɛ bɔrɛmatapo nimuso na naŋ bishi mo: “Fo e la Kristo, Ebɔrɛ Ewurgboŋ nɛ b nɛfa na Pibinyɛn na a?","Bụkwá nnukwu mụsú na mbịchị mụ. Fọ èlé Kristò, èbụrụ èwúrùgbò. N'abali nafa na pịbènyà nnà.",0.9,0.5946
+963,Emo nɛ e juŋkpar e la Jedaya nɛ mo tuto la Joarib nɛ mo tutokar la Jakin na.,mụ na ejem kweru Eleje da ya na mụtara Juarep na mụtara kerele Jakin,0.9444,0.4828
+964,Bekama nɛ baa maŋ bumo be amu so na beeŋ ba kaseto.,Bịa kama na ba ama m bụ mu bụ omusu na bịa m bịa kasị,1.1667,0.4103
+965,"Ama Ɛɛrɔn nɛ mbe mbinyɛnsobi e daga fanɛ b ta asɔ m buu asɔ cheembi na so nɛnɛ pɔɛŋ nɛ b ta amo n sulɔ, saŋɛ na so b maaŋ beta amo nseŋ wu.","na ma e ron na mbu mbinye si be ediga afane, bata aso umbu aso che mbinye aso nene poi na bata amu nsulo. Sa na so be ma mbeta amu nsu",0.9412,0.375
+966,"O Enyɛnpe Ebɔrɛ, ade kikɛ maa gbuŋgbuŋ fo a?","Onye na-ebe ákwá, adịghị ekwu okwu mgbagwoju ányá.",1.0,0.8235
+967,Jeroboam nɛ e la Nebat pibinyɛn nseŋ daŋ shile n ya ŋana Ewura Sɔlɔmɔn so ashi Ijipt na ka nu loŋ nɛ e bɛta m ba epe.,"Jeroboam na-ele na ebe Pibineni, nsị dị n'shịrị ya na eburu Solomon so eji Egypt na-a ka nụlụ na ebeta mbu",0.8519,0.4333
+968,ashi bumo be awurfoŋ to.,એસી મુમુબે અવર ફોન્ટો,1.0,1.0
+969,Isɔɔ be kanaŋ to be ekama maaŋ naŋ ji efute.,सो बकाना तोब एकमा मानांजी,1.0,1.0
+970,bumo alɛ nsaa biti abar so a dese ndibi be afito.,"Bon, voilà, ensemble, on se bat pour un destin individuel et futur.",1.0909,0.8684
+971,"Ewura Rehoboam ka wu, kakpa nɛ baa puli bewurbi ashi Jerusalɛm nɛ k la ewura Deevid be kade to na nɛ b daŋ puli mo.",Ewurụ bụrụbam ka owu ka kpene bụrụ mpụlụ bụrụ be echi Jerusalem na kele ewurụ David bọka dịtụ na na bido mpụlụ,0.92,0.4494
+972,"B ka kurge ma be kachɛ burwasopo to nɛ b ku ma kututu, mbra na be kaplɛa so n daa la Farisi nna.","Baka koro gamma, baka ce buru su futo na bukku mu kututu, ambara na baka paliso, andali farasi",0.913,0.4167
+973,"Ŋkpal manɛ so, fo ka beeŋ ta fo nfɛra nɛ kanyiasheŋ nɛ fo enɔ to be ku shuŋ be kenyi kikɛ n shuŋ n sa esa nɛ e maŋ gben bee ŋini asheŋ fuloŋ nna nɛ kumo alɛ be loŋ maŋ walɛ.",Nke a bụkwa ụzọ e si enweta nkwado maka ụmụaka nwere mkpa pụrụ iche na agụmakwụkwọ ha.,0.9762,0.8077
+974,"Kumu lubi gboŋgboŋi beeŋ ba bumo so nɛ b pin fanɛ asheŋ ere kikɛ bee wora nna ŋkpal ma, bumo be Ebɔrɛ na, ka maŋ naa wɔ bumo kutɔ so.","Kumolu bigbonigbon ebe mbu bu moso, na bippi nu fane, echinga re keke, be woru ana ankwalu ma, bu mabu ebo oru na, ka muna wu bu moku tosi.",0.9333,0.3762
+975,Ekama malɛ nɛ e pɛl n luri bɔrɛlambu na to daga luwu.,Ekma malan a pelu luri boru lambu nato diga,0.9167,0.3171
+976,Mee chɔrɔ Ebɔrɛ be basa nɛ b la Kristo Yesu peya na kikɛ.,મેચ્યોર એબોર બેબાસ અને બલ ખ્રિસ્ત ઈસુ પેના કે,1.0,1.0
+977,E ka nu bɔrɛmatapoana na be kefiɛso nɛ e nya agbo nɛ keboti pɛ mbe kasɔto epul na to.,ne enyagbo ne gubote pie mbu koso to epu na,0.9474,0.6364
+978,Shin nɛ Livaiebi na e baa keni Enyɛnpe be wajɛbu na nɛ asɔ nɛ a wɔ kumo to kikɛ so.,"Chineke live ebena, ebe nke enyere gị bụ ụwajị gị bụrụ na asụ na awụkọ moto kekesị.",1.0,0.5079
+979,Mbe beyaasepo daa maŋ puga edɛgboŋ mbe keelibuna m maŋkura mo fanɛ kananɛ b wora n sa mo nananyɛnana na.,Mba be ya ga aso pu damu mpu gi edigbom mbu ka elu buna mme mkwu amu fune ka na na buwuru nso mona na nye na anu.,1.35,0.3452
+980,Mo so nɛ m paŋ asɔ kikɛ nseŋ naa ta kusɔ kama fanɛ asɔ fuloŋ ŋkpal kananɛ meeŋ wora n nya Kristo na so nɛ n tiŋ n nya a wɔ mo to.,"mụ sị na amaghị asụ Bekee, a sị na ọ takọsịrị m afọnụ asụfulụ m. A kwuru ka m na-eme nwuru enye Kraist na-asụ na ntị enye awụ",1.0,0.5625
+981,"Nɛ fo tiŋ n wora ade kikɛ, ŋ gbagba beeŋ shuli so.","If you think what I said is wrong, I beg you",1.0,0.8108
+982,Kupuŋ to be ekurma ere barga ndegboŋ nna.,"Kupon ta ba e kuru ma ere, ba gba endigbon",1.125,0.3636
+983,” N daŋ naa keni nna a fin atuwebi ko nɛ n sa ama ma alɛ maŋ nya.,"Nna na nke nna ya fịn atọ biko na-aza ama, male, ma",0.8824,0.413
+984,"Ahaziya pibinyɛn Jɔash ka ŋana bɔrɛlambu na to nfɛ ashe na, nɛ bɔrɛmatapo Jehowada wu fanɛ k daga e ka wora kusɔ ko.","Aha ji ya bụ Binyamin, bụ onye isi na-ahụ maka ụlọ mkpọrọ dị na obodo China. Na mkpọrọ ahụ, Jehova dị ya na nwunye ya, ka ha na-eje ozi",1.1739,0.75
+985,Ebɔrɛ e sa menyi kikɛ mbe kuwɔr be kakɛ na.,Ebere esemnyekeke mbụk ụwa banyere gị na.,0.9,0.5455
+986,Kumo be kaman nɛ e ku kedibi na be kaba n lɔŋɛ kegbir a shuŋ kumo.,"Kpom baka mma na ekwu ka dibia na bọka baa, ụlọ ọgwụ ka goro ochie nkụ.",0.9375,0.6
+987,Ndoŋ nna nɛ n naŋ kaŋɛ le: “Kusɔ nɛ men wora na maŋ daga kuraa!,"Ndon'ana na anankangle, kosene men wuruna mandaga kura",0.9333,0.3043
+988,"Kumo be kaman nɛ n wu fanɛ basa na be ŋgbene jija bumo, nɛ ŋ kaŋɛ bumo nɛ bumo be bejuŋkparpo nɛ ekrachi na le: “Men sa maa ŋana anyi doŋana ere.","Ụmụaka amanụ ụnwụ fane, baasị na abụọ ngwane jeje bụ mụ na nke anị bụ mụ na ụmụbọbọja nkwrụpụ na ekrachị na alị. Mụ e sa ma anị anyị duna na iri",1.0,0.5
+989,kaseto nseŋ chichi bumo so kakpa nɛ b wɔ na!,"ka sị too, nsị chichi bụ mụ so ka akwa na bụghị wa na",1.1,0.4118
+990,Baaŋ sulɔ efuli pɔtɛana nɛ awɔ teku be kaba ndoŋ na.,Bansul e ful pote anana awu tekubo kabu ndona,1.0,0.2683
+991,fanɛ kananɛ baa pɔr egbal a kulti kade a kuŋ kumo na.,Fune ka na na ba apur egwel okwute ka di okwu nkumu na,1.0,0.3659
+992,Anyi be shuwa nɛ k bee nyɛkpɛ ga na kreŋ so.,Anya bu uwa na ka be ya kpe ga na-akiri nsogbu.,1.0,0.5152
+993,"K dese n yɔ Bɛf Hogla, nseŋ naŋ ta n ya bɔla Bɛf Araba be kelargato be esoso be kaba so n ya fo Bohan be kejembu na.",Kedu ka esi enyo bef hogla? E si na nta enyabulu bef araba bọ kalịrị ka etu bụ ososo bọ ka a bụ so. E nya fụ bụhan bụkụ je ngbụna.,1.0357,0.4023
+994,"Kare ka chɛ chipurdidi, nɛ Joshuwa wule ŋ koso n shin nɛ bɔrɛmatapoana na nɛ benapo na naŋ nite ŋ kulti kade na kela nyɔsopo.",Kedu ka m ga-esi chipụrịdịdị? Ndị ọrụ ụlọ ọgwụ na-enyere ndị ọrịa aka na-enweta nlekọta ka ha na-agbake.,0.96,0.7273
+995,Ama e daŋ kini benyɛnnimu na be kasotoji nna nseŋ ya sɔ mo braana mbifɔlbi nɛ mo nɛ bumo la sarato na be kasotoji.,A na-akpọkwa ya ji ala. M si ya sọọ mụ bụrụ nụ ịbụ fụlụbe. Na mụ nụ bụ mụrụ sọrọ atụ na akpọkwa ya ji ala.,1.0417,0.7111
+996,Ndoŋ nna nɛ ewura Ahab tre mbe benimu na be eko n shuŋi mo fanɛ e ya tre Mikaya m ba epul na to.,"Ndo anani ewu a haputara, m bu bunye muna ba eko, m si gi mụ fene, e ya tiri mụ ka ya m bu epulu na ato.",0.9167,0.375
+997,Karechɛ kikɛ Livaiebi na bee ta deka na nna n yɔ ewura na be krachi nɛ esa nɛ e bɛ bɔrɛmatapo nimuso na so kutɔ nɛ b lara amansherbi na ŋ karga amo.,Kedu ka ị chọrọ ka eji na-ebinata aka na akwụkwọ gị na-esighị ebe kpọmkwem na-emusi na soketọ na bọllịrị ama siri bịa na nkàrịgị ama.,0.9091,0.6261
+998,Kananɛ Yesu kule Ebɔrɛ ashi Gɛtsɛmani be asheŋ.,काना ने ये सुकला बोर एसी गेसेमेन एसी,1.0,1.0
+999,"Ndoŋ nna nɛ Yesu kilgi ŋ keni mbe bebɛsopo na nseŋ kaŋɛ bumo: “Kashenteŋto, a beeŋ nu damawuraana ga pɔɛŋ nɛ b luri Ebɔrɛ be kuwura na to.",na Jesu Kristi nke na-anabata ndị na-asọpụrụ ya na nzuzo. Ka Chineke Ebe ị nụrụ olu a na-agụ akwụkwọ nsọ,0.9643,0.729
