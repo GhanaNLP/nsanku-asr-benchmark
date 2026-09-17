@@ -386,6 +386,44 @@ benchmarks:
       valid: 1000
       avg_seconds_per_sample: 1.05
   source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: ewe
+  wer: 0.9484
+  cer: 0.4042
+  per_category:
+    bible:
+      wer: 0.9021
+      cer: 0.3739
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.22
+    jw:
+      wer: 1.0301
+      cer: 0.4617
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.22
+    unicef:
+      wer: 0.943
+      cer: 0.337
+      samples: 199
+      valid: 198
+      avg_seconds_per_sample: 0.31
+      failures:
+        TypeError: 4
+    waxal:
+      wer: 0.9184
+      cer: 0.4442
+      samples: 1000
+      valid: 999
+      avg_seconds_per_sample: 0.28
+      failures:
+        TypeError: 4
+  source: evaluated
 - model: Google/speech-recognition
   model_url: https://www.google.com/
   owner: Google

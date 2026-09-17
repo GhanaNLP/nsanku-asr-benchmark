@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Mose ɖo nya sia ŋu na Yehowa be, “Ameawo mava Sinai toa dzi o, elabena ède se na wo be womekpɔ mɔ ava o.","Mose do nya sia nula Yehowa gbɔ. Amewo mavasi na eto aji o. Labe na edze na ube, umekpɔmu ava o.",0.6667,0.2338
+1,le dowòme.,le dome,0.5,0.25
+2,"Esi Sanebalat se be míele glia ɖom la, eku dzi nɛ.","Mía le gliadom la, ekudzi",0.9091,0.5263
+3,"” Nyɔnua kɔ vidzĩa dzoe, eye wòɖakpɔ edzi.","Nwanua, covid ya do e? Eye wòda kpo",1.0,0.4062
+4,"Fia Dario ɖe gbe be woayi dɔa dzi, eye wowu gbedoxɔa nu.","fia Dario degbebe, wli duadzi, eye wòwu gbedoxu",0.75,0.2093
+5,"Míawo ɖeɖe míatui na Aƒetɔ, Israel ƒe Mawu la abe ale si Persia-fia Kores ɖoe na mí la ene.","Miawo dede mia tuina apeto Israel pemawula, abe Alesi pesiafia Koresi do enami la ene.",0.7895,0.1571
+6,Ale wona gae tso esi wodzɔ le trɔ̃ Baal Berit subɔƒe la me eye fia Abimelek tsɔ ga sia ƒo gbevu aɖewo nu ƒu ɖe eɖokui ŋu.,"Aleke nàgblɔe? Tsɔ SEO jɔle trɔ̃ baalberit subɔfelam, eye nàfia bima lectio gazia fogbevudewu n'ufude dukɔi",0.9259,0.3656
+7,Dzudzɔ de dzi ʋĩi abe dzudzɔti me wòle dodom tso ene; to blibo la le ʋuʋum sesĩe ŋutɔ.,"Dudɔ de dzi fiẽ abe dudɔ tsi me ene, wòle dɔ dɔm tɔ̃ ene, togbli bola le fofom sesĩe",0.7222,0.3582
+8,"Eya ta azɔ la miʋu miaƒe nuvɔ̃ me na Aƒetɔ, mia tɔgbuiwo ƒe Mawu la, eye miawɔ eƒe lɔlɔ̃nu.","Aya ta, asrola, mi vo miapa nuvo mena apeto, miatogbiwo pemawula, aye, miawo epo lolo",0.9474,0.3235
+9,Ewɔ ɖeka kple Ahab to via nyɔnuvi ɖeka ɖeɖe me.,Ewo de kaakla aha tuvia nyonuvi de ka de dem.,1.0,0.3243
+10,"Nuku bubuwo ge ɖe ŋu me, eye ŋu vu tsyɔ wo dzi woku.","Nukubu bu ogadanya wumanu, anyi enuvu chiowo ji wo",0.9231,0.6053
+11,"Ɣe ma ɣi la, Gaal, Ebed ƒe vi, ʋu kple nɔviawo yi Sekem eye wòzu ame ŋkutawo dometɔ ɖeka le dua me.",Ema yila ga ebet fevi vuvplenoviawo isikem eyozua menkuta do meto deka le duame.,0.9545,0.2568
+12,"Eɖo Selax tá la ƒe gli si le fia ƒe abɔ kple atrakpui si ɖiɖi tso David ƒe du me, dome la.","Edó si la stala fe gli, si la fia fe abó, ple atrape, si lili to David fe dome, dome la",0.6818,0.2687
+13,Vi lae tsɔ eƒe nya ƒe ŋusẽ la lé xexeme blibo la ɖe te.,vi la etɔ̃ epe nya pem si la le hehe me blibo la de,0.7143,0.2927
+14,avifafa kple nublanuiɣli ɖi bobobo; Rahel nɔ avi dzi le viawo ta.,avi fafa le nuvãnu li di bobobo. Rachel no Avaji le viawo,0.9167,0.2885
+15,"Megblɔ na wo be miɖo to nye gbe, eye miwɔ nu siwo katã megblɔ na mi la.","Mégbonavé, mi do tó nye gbe, eye mi o nu si okata mégbonami",0.8235,0.3396
+16,Woatsi ado xoxo abe awu ene.,wachi aduhoho abe awu,0.6667,0.4091
+17,"Ne èkplɔ mí ɖo la, àkpɔ gome le nu nyui siwo katã Yehowa wɔna na mí la me.",na ekplɔm yi dɔla akpɔ go me le nuwɔwɔ si wokata yehu awɔ na na mi la,0.8333,0.3091
+18,"Yaala, Darkon, Gidel.",yala dakon gide,1.0,0.1875
+19,"Migakpa kpeawo kple dɔwɔnu aɖeke o, elabena ne miekpa wo la, womagadze be woawɔ wo ŋu dɔ hena vɔsamlekpuiɖiɖi nam o.","Miga kpa akpa o, kple do onu adaka o. Elabena na mie kpa ula, uma ga jebe wa wo nu do hin na fosa mli kpididi nam.",1.0952,0.3226
+20,"Kpɔ ɖa, àyɔ dukɔ siwo mènya o la vɛ.","Boda, ayɔ dukɔ sia o, menya o la",0.7778,0.3462
+21,"Esi nètsrɔ̃ dukɔ geɖewo ta la, wò hã atsrɔ̃.",na trɔ̃ dɔ̃kɔ̃ gade wò tala wòha achrɔ̃,1.0,0.375
+22,"Èlɔ̃ dzɔdzɔenyenye, eye nèlé fu ŋutasesẽ, eya ta Mawu.","na dzo dzo enyenye, eyi ne le fu nutasisi. Eyi ata",1.2222,0.381
+23,"Ɖewo ge ɖe kpenyigba dzi, afi si anyi mesɔ gbɔ le o.","Dɔ gã daa kple nyigba dzi, afisi anyigba sɔgbɔn le.",0.9167,0.359
+24,"Benui, Xenadad vi, dzra akpa si kplɔe ɖo la ɖo.","benui, ne ada vi, jira akpa si kplu edola",0.7,0.2571
+25,Wotsɔa gliɖolawo kple atikpalawo be woaɖɔ Yehowa ƒe gbedoxɔ la ɖo.,"Otsua gli do la o, la atikpa la o be wa do Yehowa pe gbedoxu la",1.2727,0.2727
+26,"Eda gbe le dɔlélawo katã ŋu, eye wòde se na wo be womagana amewo nadze si ye o.","Agbale dɔlɔ̃ la ŋuti nyawo, eye wòdze se na wo be, ""Oma ga na amewo na woade si Yehowa."" Egblɔ na esiwo be, ""Mawu ƒe nya si woŋlɔ ɖe Isaiah",1.3333,1.0
+27,Wosa vɔ geɖe gbe ma gbe kple aseyetsotso gã elabe Mawu na dzidzɔ yɔ ame sia ame ƒe dzime.,"Osafo gblɔ gbe ma gbe, kple asi totro ga, elabena mawu na ajijo yɔ amesia me fe dzi me.",0.6842,0.3
+28,"Egblɔ na wo be, “Enyo, maɖe egɔme na mi.","Agbonavè, anyo, madé agbome na",0.8889,0.5357
+29,"Wo katã wole agbagba dzem be woado ŋɔdzi na mí hesusu be, “Woƒe alɔwo ado agblɔ le dɔ la ŋu, eye womate ŋu awu enu o.","Wò katãwò agbagba je mbe, wò adongoji na mi, esusu be ofa lo adu agblò le dòmè. Eye omatenwà wuenu",0.8077,0.3409
+30,Aƒetɔ gblɔ na Mose kple Aron le Egipte-nyigba dzi be: “Ɣleti sia nanye ɣleti vevitɔ na mi le ƒèa me.,"Apetorgbonam mɔsekple Aaron la Egypt nyigba dzi ba, le ti sia na nye ti vevie tɔnami le",0.9,0.2857
+31,"Yesu gblɔ nɛ be, “Ne èdi be yeazu ame dzɔdzɔe blibo la, yi nàdzra nu sia nu si le asiwò la, eye nàtsɔ ga la na ame dahewo, ekema kesinɔnuwo anɔ dziƒo na wò.","Yasus gblɔ na eya be, ne adiba ya zu ama jɔjɔe blibo la, yi na ajira nusi anu, sili asi wòla. Eye ye nacho gala na amedaha o. Akemake si nò nu anoji fu na",0.8235,0.3248
+32,"Esi wònɔ nukua wum la, ɖewo ge ɖe mɔ to, eye xeviwo va fɔ wo mi.","A si wo nɔnukui awo mla, de oga de moto, aya he vi uva fo",1.0,0.3913
+33,"Aƒetɔ ayra wò dɔwɔwɔwo katã, eye nu ayɔ wò ava taŋ.","Apetoa jira wodoawo katã, eyenu ayo wo avatã.",0.9091,0.359
+34,Mema hadzilaawo ɖe akpa eve me: akpa gbãtɔ to ɖusime le glia dzi ɖo ta Akɔligbo la gbɔ.,Mama haji lawde akpa efeme akpa gbato to du si me legleji dota akoli gbo la,0.7778,0.2794
+35,Aƒetɔ akplɔ ƒoƒoe aƒu wò abe ale si wòwɔ Egiptetɔwo ene.,Apotɔ akplɔ fofoe afu a be yewoalesi woawo na Egypttɔwo,0.9091,0.4667
+36,Elabe èkɔ amewo ƒe ʋu ɖi.,laba ekɔ amewopo,1.0,0.4737
+37,Woŋlɔ agbalẽ la kple Aramaik alfabeta ɖe Aramaikgbe me.,Míle agbale la le Aramaic alphabet ta le Aramaic gbe me.,1.0,0.2826
+38,Benyamin kple Xasub dzra akpa si kplɔ nunɔlaawo tɔ ɖo la ɖo.,Benya mekpɔe asu be wòjira akpa si kplɔ̃ nɔ la wòtɔlɔ,0.75,0.375
+39,Hlɔ̃wo ƒe tatɔwo akpe eve alafa ade nɔ aʋalɔglo siawo nu.,Mewòkpatà tò akpa Evhiarafaade nò afa lo gusiawu,1.0,0.4667
+40,"” Yesu ɖo eŋu be: “Ɖe miexlẽ nu si David wɔ, esime dɔ wu eya kple eŋutimewo kpɔ oa?","Yesu do nu be, ""Miawo kple nusɔsrɔ̃lawo, esi miadɔwu, eyata miyi kple entimo kpowo.""",0.8333,0.55
+41,"Egblɔ nɛ be, “Tso nàkplɔ ɖevi la kple dadaa atrɔ ayi Israelnyigba dzi, elabena ame siwo le ɖevi la ƒe agbe yome tim la ku!","Agblo nebe, tso na kplɔde villa kple dada atro ayi Israel nyigba dzi. Elabela, amesiwo le de villa pe agbe yomati mla",0.8,0.1596
+42,"Solomo ƒe dɔlawo ƒe dzidzimeviwoe nye: Sotai, Hasoferet, Peruda.","Sotai, Asokore,",0.8889,0.8077
+43,"Yoyada kple viawo si ami nɛ, eye wodo ɣli be: “Fia nenɔ agbe tegbee!",Ye da kple viawo si aminé eye wodo wòli be woatsɔe le agbetegbe.,0.6429,0.2745
+44,"Esime Yehu nɔ to hem na Axab ƒe ƒomea la, edo go Yuda-megãwo kple Axazya nɔviŋutsu ƒe viwo, ame siwo subɔa Axazya eye wòwu wo.","Mesi yeho mlo to hem na aha fefemea la, edogo yudame ga o, kple ahazia novinu to fevio, amesi osugbo ahazia eye wowu",0.8,0.3163
+45,"Aron nye kɔ kpɔe, eye kpɔ ɖa, Miriam dze anyi.",Aronye kọkpọ ẹ. Ẹyi kpọra. Miriam Jaja,0.9,0.4118
+46,"Ame siwo wɔ babla ɖe eŋu la woe nye Zabad, ame si dadae nye Simeat, Amon ƒe viwo dometɔ ɖeka kple Yehozabad, Simirit, nyɔnu aɖe si tso Moab.",Amesiawoe wòblá da ŋulawoe nye Zabad. Amesia daa daa nye Simri. Amonphewio dometɔe dɔ kaplɔla Yehu Zabad. Simrit. Ɣeyiɣi adee si tɔ mɔ,0.8571,0.3704
+47,"Miklã mia ɖokui ɖa tso anyigba la dzi tɔwo kple mia srɔ̃, dukɔ bubu me nyɔnuawo gbɔ.","Meclam meado kple idato, anyigba la dzi to, kple meason, duko bubu menyo nu o",0.7059,0.3538
+48,"Eya ta Yerusalemnɔlawo tsɔ Axazya, Yoram ƒe dɔmlɔea ɖo fiae ɖe eteƒe eye Axazya, Yuda-fia Yoram viŋutsu zu fia.",Yeata Yerusalem nolawo tso Ahazia yoram fe domla do fie de ete fe eye Ahazia Judah fia Yoram vinu chuzu fia,0.8947,0.236
+49,"Esi wova ɖo toa te la, wokpɔ ameha gã aɖe nɔ afi ma nɔ wo lalam.","si overo tɔtala, wòkpɔ amahagaade nɔ afima nɔ ulala",0.875,0.2979
+50,Atrakpui ewo le eŋu woflɔna dea edzi.,Atrákpui ewo la ewu ofuró ná dié,0.8571,0.4667
+51,Miawo ŋutɔ miekpɔ nu si Yehowa wɔ le Baal Peor kple miaƒe ŋkuwo.,Miawo ŋutɔ miekpɔ nusɔsrɔ̃ Jehovah wòle Baibolo me miapeŋku,0.7692,0.3725
+52,Ale esia hã ganye bometsitsi kple dagbadagba ɖe yame ko.,Ale si wòhà ganye bómàchìchì le dagbadagbada yámàkò.,0.8,0.413
+53,Nenema kee wotsɔa gayibɔ kple akɔbli dɔwɔlawo be woaɖɔ gbedoxɔ la ɖo.,"Ene ma ke wo tso agayi bo kple akobli do ola obe, wa dogbe do hola do",1.3333,0.2632
+54,"“Miegado dɔmedzoe na Aƒetɔ le Tabera, Masa kple Kibrot-Hatava hã.",Miegado dome dzinua Porto le tabera masa kple Kiprut hatava,0.5,0.2308
+55,"eye ame siwo ɖea fu na Yuda la, aɖe ɖa.",Ahiɛ amesiwo dia fu na yu dala adedada,0.8,0.3571
+56,enɔ nam abe waintsetse le gbegbe ene; esi medo go wo fofowo la.,Eno nam abe wanyi ncheche le gbegbe ene. Esi me dogo fofo la,0.5385,0.2245
+57,"“ ‘O, wò Betlehem, le Yudanyigba dzi.","Oh, wo Bethlehem, la Yudaya gba dzi",1.0,0.2308
+58,"Yorah ƒe dzidzimeviwo, ame alafa ɖeka kple wuieve .","Ye rape jiji me vio, ama lafere ka le vie vu.",1.375,0.3902
+59,Hiã si atu wò la azu ŋɔdzi gã ŋutɔ na fiaɖuƒewo katã le anyigba dzi.,Mia si a tuo la azo nu di go to na siaru fuo ka ta la nyigba dzi,0.9333,0.3585
+60,"Meɖe gbe, eye wotsa le nyaŋlɔɖigbalẽ xoxoawo me heke ɖe eŋu be, tso gbe aɖe gbe ke la, du sia tsona ɖe fiawo ŋu, eye wònye aglãdzedze kple amemabumabu teƒe.","Mede gbe, eye wò chale nyaglo digbalè hohouame, ekede wube, chogba degbe kela, dusia chona defia wun, eye wò nya gla jeje, kple amemabu mabu tefe.",0.9333,0.2787
+61,"Esi xɔtulawo ɖo Aƒetɔ ƒe gbedoxɔa gɔme anyi vɔ la, nunɔlawo le woƒe awuwo me lé kpẽwo ɖe asi va ɖo ɖi.","Asi hoto lawo do afetɔpe, gbɔdo hu agome anyigba la. Nɔlawo le upe awu me, lekpewode asi vado",0.8182,0.3418
+62,dzata kple nyi dami woanɔ wo nɔewo gbɔ le ŋutifafa me.,"Nyata, nye dami, wòle wòle ogbo le nguti fafa me.",0.8182,0.4186
+63,"“Elabena mato Egiptenyigba la dzi le zã sia me, eye mawu ŋgɔgbevi ɖe sia ɖe, amewo kple lãwo tɔwo siaa.","Elabena matoe dzi teƒe gbaala dzi le za sia me, eye ma wu ngogbe fiẽ sia de, ama o kple la o tɔ o sia.",0.85,0.25
+64,"Gawu la, woate ŋu aɖu ame ɖeka dzi bɔbɔe.","Gawula, wò tɔ̃ adu amadaka ji bɔbɔ",1.0,0.3871
+65,siwo katã avɔlɔ̃lawo lɔ̃ aɖaŋutɔe la na wo.,Dzo ka ta avɔ lɔlɔ̃ nɔ Adam tuɛla na,1.125,0.4545
+66,"Ale si mianɔ hafi aɖui nye esi: mido miaƒe awuwo, miabla wo dzi kple alidziblaka.","Mía nɔ hafi adu inye si. Mido miafa wu, mia bla oji kple aliji",0.8,0.3438
+67,"Mègatsɔ naneke kpe se siwo mede na wò, eye mègaɖe naneke le wo me o, ke boŋ lé Yehowa, miaƒe Mawu la ƒe se siwo mele mia nam la me ɖe asi.","Mégatsona nuka kpɔsesi o, medina o. Eyi megadina nuka le wò me o, ke boŋ le Yehowa. Nyateƒe mawula kpɔsesi o, mele mianam la me dasi.",0.7188,0.2621
+68,"Wodzea ŋgɔ wo nɔvi bubuawo le mawuxɔ la me, eye wokafua Mawu, daa akpe nɛ hã, abe ale si David, Mawu ƒe ame ɖo ɖi be woanɔ wɔwɔm ene, ameha ɖe ameha yome.","Eya ta ngoa wo no vi bubu awo le ma wo kpo la me. Eya wukafo awo, daa kpene haa. Abla si David, mawo fe ame do di be wo no wowo ene. Ame haa di ame haa yu",0.9394,0.3621
+69,"Dukɔa me tɔwo nye ame kɔkɔ, sesẽwo; Enak viwo, ame siwo ŋu amewo gblɔna le be: ‘Ame ka ate ŋu anɔ te ɖe Enak viwo nu?","Ena ke vio, amesiwo amewo gbonu le be ameka ate nu a note de ena ke vio",0.8462,0.4535
+70,"“Agbletɔ la ɖo eŋu na wo be, ‘Futɔ aɖe kokokoe wɔ nenem nu sia.",Agbletɔla do ŋuna wò be futo adekokoe wonene,0.9286,0.3043
+71,Noe nàɖe amama eye ŋukpe nava dziwò le ŋutikɔkɔeteƒe.,Nye na de amama e nkpe na afa Jiule nwuti koko etefe,1.2222,0.4091
+72,Miyi ɖe towo dzi ne miatso atiwo vɛ ne miatsɔ agbugbɔ atu nye gbedoxɔe.,"Míedà tóji, míacho ati vɛ́, míacho aguggo atunye gbedoxɔe.",0.8571,0.4561
+73,"Mawu wɔ Via wòzu gã wu mawudɔlawo, elabe ŋkɔ si Mawu va tsɔ nɛ la xɔ asi wu mawudɔlawo tɔ.","mawuwò via, ozugbo, mawu dóla wo, èlàbè, nkósi, mawu váchò nnéla, kwò asi, mawu dóla wo",0.85,0.3768
+74,"Nu si ta meƒo nu na wo to lododowo me lae nye be wole nu kpɔm kple ŋku, gake womekpɔ nu dze sii o; wole to ɖom gake womele nya sem ahayi egɔme se ge o.","Nusita, mefonu na wo tolo dodo ma lae nye be wòla nukpo kple nku ga ke omekpo nu je si o. Wòla todom ka ke omala nyasem ahayi egom se ge.",0.7222,0.2124
+75,"Emegbe la, Levitɔ aɖewo wɔ dɔ le Rehum, Bani ƒe vi, te.",amegbela le vi to awo dolo rehum ba ni fe,0.9167,0.325
+76,Nunɔla Ezra tia ƒometatɔwo tso aƒekɔ ɖe sia ɖe me heyɔ woƒe ŋkɔwo ɖekaɖeka.,"Nɔla Ezra, tia kpɔmétatɔwo tso afɔkɔde sia de me, heyɔ woƒe nkɔwo dika dika.",0.5714,0.2459
+77,Omer ɖeka nye efa ƒe memama ewolia.,"Mèle kànyà èfà, fò màmàmà, òwòlìyà.",1.0,0.6429
+78,"Edze mɔ tso Babilonia le dzinu gbãtɔ ƒe ŋkeke gbãtɔ dzi, eye wòva ɖo Yerusalem le dzinu atɔ̃lia ƒe ŋkeke gbãtɔ dzi, elabena eƒe Mawu la ƒe amenuvevesi nɔ edzi.",Yehowa tso Babilon le dzinugba ntofe nkeke gbogbo tɔdzi. Yehowa do Yerusalem le dzi nu atɔ̃lia nkeke gbogbo tɔdzi. Eya be na afemawula fe amenyeveve si nɔ,0.8333,0.3095
+79,"Barux, Zabai vi, dzra akpa si va ɖe Eser tɔ yome la ɖo va se ɖe nunɔlagã Elyasib ƒe agbo nu.","Baruch zabaivi, dze akpa si va de, ise to yomelado, vaside nola ga, Eliashib pe agbonu.",0.8571,0.2609
+80,Wò ame siwo le Dibon la lũ ta kolikoli.,Wòmasi wòle di bonla nuta kolikoli,0.8889,0.1667
+81,"Ameawo lala, wogakplɔe gbɔe hafi wogayi mɔzɔzɔ la dzi.","Amawu lala, oga kplo egbo ehafi oga yi mozoxo la",1.0,0.2955
+82,"Woawoe nye Azarya, Yeroxam vi, Ismael, Yehohanan vi, Azarya, Obed vi, Maaseya, Adaya vi kple Elisafat, Zixri vi.","Wawu nye, Azaria, Yero Hanvi, Ismael, Yehohanan vi, Azaria, Obed vi, Masea, Adaya vi, ple Elisafat, Yihaziel",0.5,0.186
+83,Miagblɔ gbe ma gbe be: “Mida akpe na Aƒetɔ!,Mía gblɔ́ gbe ma gbe me gá kpɔ́ na afɔ,0.6667,0.3438
+84,"Esi ameawo se sedede sia la, woɖe amedzro siwo katã tsaka wo la le wo dome.",Aseye Mawu sɔse dɔdɔ siara wòde ame dzinɔameƒo tɔxɛ ka wòla le wò dometɔ,0.9375,0.4828
+85,eye wonaa nuku nuƒãla kple abolo nuɖula.,"Eye wo na nuku, nu fala ple abolo nu du.",1.0,0.2121
+86,"Ale Mose gblɔ na Aron be, “Gblɔ na Israelviwo katã be, ‘Miva Yehowa ŋkume, elabena ese miaƒe liʋĩliʋĩlilĩ.","Mose gblɔ na Aron be, gblɔ na Israel viwo kataa be, mi va Yehowa nkume. Ela be na sesẽ miape ivi",0.7222,0.2289
+87,Dadaa gblɔ nɛ be nebia Yohanes Mawutsidetanamela ƒe ta.,Dadagblo nibe nebia Johannes mouth data nam la afa,1.0,0.3043
+88,Elabe àŋlɔ wò ɖetugbime ŋukpe be.,Agbloe wò detugbui m kpɔ,0.8333,0.5926
+89,"Le Abimelek ƒe fiaɖuɖu le Israel ƒe etɔ̃ megbe la, Mawu na dzre va dzɔ ɖe Fia Abimelek kple Sekemtɔwo dome, ale Sekemtɔwo tso ɖe fia la ŋu.","le Abimelek fe fiaɖuɖu le Israel fe tome gbe la, mawu na jireva jɔle fia Abimelek le sekem tɔ odum, ale sekem tɔwo chuɔde fia la",0.5714,0.1944
+90,Yoyada bla nu kple dukɔ blibo la kple fia la be yewoanye Aƒetɔ ƒe dukɔ.,"Yoo, daablanu ple du kɔbli bola ple fialabe. Yoo, anye afeto fe du",1.0,0.2143
+91,"Eya ta ŋutsu agblẽ fofoa kple dadaa ɖi alé ɖe srɔ̃a ŋu ɖikaa, eye wo kple eve la woazu ŋutilã ɖeka.","Aya ta nutsu agba fufu kple dadadi, alele sronu di ka, eye wòkple evala wòzu nuti na da",0.8571,0.3421
+92,"Nenema ke, wotsɔ waintsetse, gbotitsetse kple agbà ƒomevi vovovowo do agba na woƒe tedziwo hetsɔ va Yerusalem le dzudzɔgbe la.","Nenema ke, wòtso wòe nchetsi, gbo tsetsi, ple agba foma vuvu vu vu do agba na ofe tedzi wu, hetsia va Yerusalem le dzudzogbe la",0.8,0.25
+93,"Miɖi vɔsamlekpuiwo ɖe teƒe siwo mafia mi la ko, eye mava yra mi le teƒe mawo.",Midi vo samle kpi o da tepe si o mafi mi la ko. Eye ma va yira mi la tepe ma,1.0,0.2333
+94,Miɖe asi le wo ŋu.,"Mía de asi le wo nu, nku agbã tɔ wò nya, galɔ nku agbã tɔ",2.4,2.3846
+95,Mi gbemelãwo katã kple avemelãwo katã.,bi gbe me la o kata ple a ve me la o kata,2.1667,0.25
+96,"Etsɔ wo dometɔ akpe blaadre wɔ agbatetsɔlawo, ame akpe blaenyi wɔ atitsolawo eye wòtsɔ ame akpe etɔ̃ alafa ade wɔ dɔdzikpɔlawoe.","Atsyɔ̃ dometɔ akpe blaadrenuwo agbate chola wu, ama akpe blaanyi wu aticho la wu, ayewo cho ama akpe etɔ alafa adri wu doji kpla wu e.",1.0,0.2952
+97,"Asi aɖeke negaka nenem me ma ŋu o; ne wòkae la, woaƒu kpee alo adae; eɖanye ame alo lã o, maganɔ agbe o.","Asiadeka me ga ka na nom maanu o, na okenye la, wofukpe alo adae, edanye ame alo lao, ma ga nu agbe o.",0.6957,0.2597
+98,"Tete Yoyada kplɔ Yoas doe, ɖɔ fiakuku la nɛ, eye wòtsɔ nubablagbalẽ la de esi.","Dɔ̃ sia dɔ̃ ya da, dɔ̃ sia dɔ̃ ya",1.0,0.8197
+99,"Àkpɔe le nyaŋlɔɖiawo me be du sia nye du dzeaglã si ɖea fu na fiawo kple nutometɔwo, teƒe si aglãdzedze le tso keke blema ke.","Akwele nyagblɔdi a womebe, dusianye dujagla, si dia fu na fiao, ble nu to meto o. Tefe si agla jeje le chokake ble ma",0.96,0.2828
+100,Yehoram xɔ ƒe blaetɔ̃-vɔ-eve esi wòzu fia.,Yehowa nye kplɔ̃la tovo. Esi wòzu,0.7143,0.5312
+101,"Miɖe gbeƒã Yehowa, elabena ewɔ nu dzɔatsuwo.","Mida gba fa Yehowa, ala ba na awonu dzo tsu",1.2857,0.3611
+102,"Ke Yesu bia wo be, “Miexlẽ nu si Fia David kple eŋutimewo wɔ esi dɔ wu wo la oa?","Yesu bia wò be miaxlẽ nu sifia David, le ŋuti ma wòwò, asi do wò la",0.6842,0.2881
+103,Miɖe asi le Mawu ƒe gbedoxɔ si tum wole la ƒe nya me.,Ne dasi le mawu fe gbedodoho si tu wo le la fe nyam,0.7692,0.3
+104,"Nɔae nye Yerusa, Zadok vinyɔnu.","Nye nye Yerusa, zadok vi",0.4,0.28
+105,Dzata aɖo Moab ƒe aʋasilawo.,yata aro mope afasi la,1.0,0.3913
+106,"Hadzilaawo nɔ ha xlãm ɖe me, le woƒe nunɔla Yizraxya ƒe kpɔkplɔ te.",Gake laa wonɔ haa kple ame le woƒe nu nɔla Israeliawo kple kpɔkplɔ,0.8462,0.4151
+107,"Eƒe akpata dze ŋgɔ xɔxɔnu kɔtoe tɔ, eye detiwo le domegliawo ƒe akpa eve.","Afe akpa taa dze ngo gogo nu ko to eto, eye detsiwo le tome gliawo fe akpa eve.",0.9286,0.2414
+108,"Medo dɔmedzoe, trɔ megbe de wò vie ya; ke matsɔ lɔlɔ̃ si nu metsina o la.","Gbedodoɖa me dɔe, gbedodoɖa wòfia ya, ke ma tɔlɔlɔ sinu mechina o.",0.8125,0.4259
+109,"Ater dzidzimeviwo, to Hezekia dzi, ame blaasieke-vɔ-enyi .","Ate dɔwɔnuwo to Hezekia dzi, amebla sekevo enyi.",0.7143,0.2826
+110,"Edomtɔwo ƒe aʋakɔwo va ƒo xlã wo; ke le zã me la, wosi wo.",ɖom tofe afa kɔu va fo hlao ke le zã me la,0.6429,0.4286
+111,Aƒetɔ do ŋugbe be yeayra dukɔ la.,Apeto do ngbebe ya ira jukola. Taflachi mi bu ya siwo avava eme cho egbe sia hey,2.2857,1.8077
+112,"Gbe ma gbe la, Yese ƒe ke la anye aflaga na anyigbadzitɔwo katã.","Mema gba la, yesi fe kala anyi aflagana anyi gbaji toka",0.9231,0.26
+113,"Semaya, Sekania ƒe vi, Ɣedzeƒegbo la ŋudzɔla, kplɔe ɖo.","Samaya, se kanyo fevi, wòe je fe gbola nwu jola",1.1111,0.4884
+114,"Azɔ la, nyɔnu vɔ̃ɖi ma, Atalia ƒe viŋutsuwo gbã ʋɔa ge ɖe Mawu ƒe gbedoxɔ la me eye wowɔ nu kɔkɔeawo gɔ̃ hã ŋu dɔ na Baalwo.","Azola, yoo nu voni ma, atalia kpoe vinuchui ogba, avu agada ma wu kpoe gbedu kpoe lam, eya ewo nu ko kpoe o, go ha nudo na baalu.",0.8889,0.4624
+115,"Woɖo eŋu nɛ be, “Woadzi Kristo la le Betlehem le Yudea, elabena nenema woŋlɔe ɖi to nyagblɔɖila la dzi bena.",wò do awo ne ba waji Kristo la le Bethlehem le Judea. Ala ba na nenema wu nura di to ya gblo di la la ji,0.95,0.3412
+116,"woɖe woƒe fulélewo fia le dutoƒo, eye wowɔ esia hã.",Wòde wòpe fùle la wòfia le dutòfu. Ewoa èsia,1.0,0.45
+117,Ɖe nèle didim be yeawu nye hã abe ale si nèwu Egiptetɔ ma etsɔ enea?,Dzinela didi mba ya wunya ha gba lesi na wu Egypti toma cho na,1.0,0.3962
+118,"Ati agbɔsɔsɔ sinu nèhiã la, míatso wo le Lebanon-toa dzi, abla wo tatata atsɔ to ƒu dzi ava Yafo na wò, eye wò la, nàva fɔ wo yi Yerusalem.","Atsi agbɔ sɔsɔ̃ si le ŋehia la, mia tso le Lebanɔ̃ to aji, ablao tatata, atsɔ to fuji, ava ya fo na o, eye wòla, nava fo oyi Yerusalem.",0.7931,0.2095
+119,"Eyɔ Mose be wòava to la dzi, eye Mose lia to la yi egbɔ.","Eya mose be woava tola dzi, eye mose wòlia tola yie gbe",0.6429,0.122
+120,“Ɖo sedatikpo siwo tɔgbi nena fofonye David esime wònɔ eƒe fiasã tum la ƒe ɖewo nye hã.,Ndo si dɔ̃ ti kpo si wo tɔgbi na na fofonyɔ David esi me wo na akpe fiasã tubula akpe de wo nyanya,1.2353,0.3043
+121,Ðela Gideon.,Adelia Dela Gidjio,1.5,1.0
+122,"Dzidzɔseyea tɔtɔ kple avifafa sesẽ la ale gbegbe be womeganya kae nye ka o, eye hoowɔwɔ la ɖi de didiƒe ʋĩi.","Didɔ se ya toto ple avi fafase se la, ale gbegbe be wòmega nya ka ye nye ka o, eye wòwòla di de didi fevin.",0.8095,0.2209
+123,"Le esiawo megbe la, Yehowa na dɔléle dze Fia Yehoram ƒe dɔmenuwo dzi.","Mawu le siawo me gbe la, eho ana dɔlele jefia ye hu ramfɔ domenu",1.0,0.3455
+124,"Ale Israelvi siwo katã gbɔ tso aboyome la ɖui kple ame siwo katã kɔ wo ɖokuiwo ŋu tso trɔ̃subɔla siwo dome wole ƒe kɔnyinyiwo me, be woadi Yehowa, Israel ƒe Mawu la.","Ale Israel vi sio kata gbochu abuiwo me la dui, wole amesiwo kata koworo kpe enu, to transbola siodo me wole fe konyinyi ome, be wa di yehowa, Israel fe mawu la.",0.8125,0.2385
+125,"Matanya, Bakbukya, Obadya, Mesulam, Talmon kple Akub nye agbonudzɔlawo.","Matania, Mabokia, Obazia, Mesulam, Talmon, Akub, nye agbonudzɔlawo",0.4444,0.1897
+126,"Ŋutsu aɖe, si siti lé asi na la le afi ma.",tuada si si cilla asina la la,0.8182,0.4333
+127,Israelviwo ɖo Sinai-to la gbɔ.,Asia le vuodo si nye tola,1.2,0.5
+128,Ewɔla le dzi ɖom ɖe nu si eya ŋutɔ wɔ la ŋu.,awola le zikpui dzi nusi eyanu to awola,0.9167,0.5
+129,"Eva kpɔ dzonu aɖe si xɔ asi ŋutɔ, eya ta eyi ɖadzra nu siwo katã le esi la, eye wòƒle dzonu sia.",Eva kpo Jonu ade si xo asi ntoo. Oyata eyi da jira nu si oka taa le si la. Eya ewu fle Jonu si,0.8182,0.3194
+130,"Ekplɔ wo yi fofoa ƒe aƒe me le Ofra eye wòna wowu Yerubaal ƒe vi blaadreawo ɖe kpe ɖeka dzi, ke Yerubaal ƒe vi ɖeka, Yotam, koe si ɖaɣla eɖokui.",Eya o na wo Yerubal fe vi bla drao de kple kaji ke Yerubal fe vi deka yotam kpe si daglae dokui,0.8333,0.4234
+131,"Yesu xlɔ̃ nu wo vevie gblɔ be, “Mikpɔ nyuie le Zadukitɔwo kple Farisitɔwo ƒe amɔʋãnu ŋuti.","Yesu Kristo nye Mawu ƒe Vi ɖekahee, kple Fafa si tso Fofoa kple Via nu.",0.9375,0.7183
+132,"Gawu la, eganya ale si wòaɖe nɔnɔmetata vovovowo ɖe nuwo dzi eye wòtoa nu yeyewo hã vɛ.","ga wula, aganya alesi wòade nonome tata fufuwo da nu oji, ayewu toanu ye ye wu ha",1.0,0.3043
+133,"Ke mele egblɔm na mi be, Eliya gatrɔ va xoxo, gake amewo mekpɔe dze sii o, eya ta wowɔ nu sia nu si wodi be yewoawɔe la.","Kamala aglo na mi be, ele ya ga trova hoho ga ke ama umekpe eji si o. Aya ta wu wo nusianu si wo di be ye wo wo",0.8889,0.3
+134,"Yotam yi edzi be, “Ɖe miewɔ nu dzɔdzɔe ɖe Yerubaal kple eƒe dzidzimeviwo ŋu be mietsɔ Abimelek ɖo fia mahã?","Ye ta me iji be de miawo nu jojoe de ye rubal, wole fe jiji me onube miacho Abimalech do fia maha.",0.95,0.4353
+135,Tete wòkplɔm yi xɔxɔnu ememetɔ la me to anyigbemegbo la nu.,Ette wo kplɔ mu yi kɔkɔnu emetɔ lame to anyigba me gbo la nu,1.0,0.1875
+136,"Wo viwo ƒe afã doa Asdod-gbe, ke womete ŋu doa Yuda-gbe o; dukɔ bubuwo ƒe gbe ko wodona.",Wòfiòpe afa dua adotgbe ke omatewu dua yuda gbe o. Dukɔ bubuwo pe gbeko wodo,0.7778,0.2424
+137,"Gawu la, Yehoram wɔ nuxeƒewo ɖe Yuda ƒe towo dzi eye wòzi eƒe amewo dzi be woasubɔ legbawo.","Gawula, ye huram wo nuhepewude Yudapetoji, ayi wo zihepe amewu ji be wasu bo legbawo.",0.9444,0.2917
+138,Nunɔlawo ƒe viwo dometɔ aɖewo lé kpẽwo ɖe asi kplɔ wo ɖo.,Nɔlaa kple viwo dometɔ adre le ekpewo de asi,0.75,0.4889
+139,"Ðe ame siwo katã dzi wòɖu la mado hamelo, asi ahama le eŋuti oa?",De amasi wo kata ji wo dula mado ghamelo asi ahama le enuti,0.7143,0.2245
+140,Woatsɔ ga le fia la ƒe gaɖaka me axe fee ɖe dɔ la ta.,wò tcho ga le fia la fe ga ra ka me. Ahefe de do la,0.7857,0.3333
+141,Ame siwo tso Yeriko le ame alafa etɔ̃ kple blaene-vɔ-atɔ̃ .,"amesiwo tso Yeriko le amala fae ton, bla ne vo aton",0.9,0.2273
+142,Mitsɔm ɖo fiae eye enumake miakpɔ nu si adzɔ ɖe Abimelek dzi!,"Me tso mdo fiayi, enu make miakpo nu si ajore abimale",0.9167,0.3265
+143,"Megale gbe ɖem hã be ne ame aɖe trɔ sedede sia la, woaɖe ati titri ɖeka le eƒe xɔ me, eye woatsɔ nenem me ma atrɔ ɖe enu.","Meka lagbe, demu ha be ne amere tro sese si ala, wa de atiti tri de ka le efe home, ayi wa cho ne ne me ma atru de",0.8929,0.3187
+144,"Tso mía fofowo ŋɔli ke va se ɖe fifia la, míaƒe nu vɔ̃wo kpe ŋutɔ.","Tso miafofo ŋɔli ke, vasere fifiala, miape nuvo kple",0.8,0.2653
+145,"Ne mieɖo la, miawo ŋutɔ miadzra mia ɖokui kluvi kple kosiwoe na miaƒe futɔwo, ke ame aɖeke madi mi be yeaƒle mi o.","Mía dɔla, mía ntɔ, mía diara, mía dokui, kplɔ̃vi, kplɔ̃ kosiwoe na miaƒe fofowoe ke ameadeka ma dzi mi be yaƒe mi o.",0.6522,0.3146
+146,"Gbe ɖeka la, Farisitɔwo kple Zadukitɔwo va be yewoado Yesu kpɔ; wobia tso esi be wòana dzesi yewo tso dziƒo.",Farisi tɔwo kple Zadoki tɔwo va be yewoado yesukpɔ. O bia wo si be wo na gblɔ si yewo tɔgbi,0.85,0.3023
+147,"Egblɔ na wo be: “Aƒetɔ, Israel Mawu la be magblɔ na mi be: ‘Nye ŋutɔe kplɔ mi do go le Egipte, afi si mienye kluvi le.","M'agblɔ na wò be, àpato Israel mawu la be, m'agblɔ na mi be, nye nto ekplɔ mi dzo go le Egypt. Àfisi mi enye",0.4615,0.2442
+148,Ame si wɔa amewo kɔkɔe kple ame siwo wowɔ kɔkɔe la katã nye ƒome ɖeka me nɔlawo.,"Amesi wá mawu kɔkɔe la, amesi wòwu mawu kɔkɔe la, katã nye kwumedi ka ma nɔla?",0.7059,0.3333
+149,"Woɖi Ahazia abe fia ene elabena Fia Yehosafat, ame si subɔ Yehowa kple dzi blibo la ƒe tɔgbuiyɔvie.","Odi a ha zia abali ife a na-ala abali na, ife a Yehuza fa, ama si subo Yehuwa kwulu ji iblibo la, petogbu ya",1.2222,0.4125
+150,menye Yudatɔwo ƒe du sue maxɔŋkɔ aɖe ko nènye o.,"Manya yu da tɔfɔdusu e, ma xɔ nkɔ adekɔ na nye",1.1,0.2895
+151,"Yesu ɖo eŋu na wo be, “Miawo hã, nu ka ta miaƒe kɔnuwo tsi tsitre ɖe Mawu ƒe sewo ŋuti ɖo?","Yesu Kristo nye Mawu be miawu ha, nuka ta miape ko nu chichi trede ma wu fese onuti",0.8571,0.3939
+152,“Dziƒofiaɖuƒe la le abe kesinɔnu aɖe si ŋu ame aɖe va ke ɖo le anyigba aɖe me ene.,Míefo fia rupala le abe kesinɔnu ade si nu ame ade va kplɔ le anyigba ade me ene.,0.5,0.2222
+153,Vi nono afe le ƒli ƒe do nu.,"Vinɔnɔ afɛla, flipe dɔn",1.0,0.4
+154,"“Megale egblɔm na mi be, dziƒofiaɖuƒe la ɖi dzonusitsala si le dzonu nyuiwo dim be yeaƒle adzra la.","Maga la akplɔm na mi be, dzi fo fiaɖuƒe la di, Jonu si chala si le Jonu ŋuɔdi be yaafla ajra la",0.8333,0.3038
+155,Sefatia ƒe viwo le ame alafa etɔ̃ kple blaadre-vɔ-eve .,"Sefa tia fe vio, le amala fa eto, le bladre vov.",1.1111,0.2381
+156,"O Israel, togbɔ be nèle gbɔlo wɔm hã la.","Israel, togbuiwo nele gboro wo muha",0.8889,0.4
+157,Ame siwo tso Rama kple Geba le ame alafa ade kple blaeve-vɔ-ɖekɛ .,"Mèsi otò rama, plè gèba m'alafia dè plè blavèvòrèké.",0.9167,0.4314
+158,"Dadae nye Yerusa, Zadok ƒe vinyɔnu.","Dadaye nye Yerusa, Zadok fia vinɔ",0.5,0.25
+159,"Abimelek kple eƒe amewo zɔ mɔ le zã me, woma ɖe akpa ene me eye wode xa ɖe teƒe vovovowo ƒo xlã dua.","Abimelek ple fa me ozo mole zã me, umade akpa neme, eye ude ha te fefuvu ofu ha du",0.7826,0.3816
+160,"Ame si mewɔ ɖe wò Mawu la ƒe Sewo dzi alo fia la ƒe sewo dzi o la, ele be woahe to nɛ kple ku alo anyae le dua me, axɔ eƒe nunɔamesiwo le esi loo, alo adee gaxɔ me.","Mese mɔ̃ wò de mɔ̃ fese oji, alo fiale fese oji ola, elebe aha eto na ekleku, alo anya le duama, aho ife nu na fese ola esilo, alo ade igaho.",0.875,0.3636
+161,"Etrɔ yi fofoawo de, eye wòfia nu le woƒe ƒuƒoƒe, ke ewɔ nuku na wo ŋutɔ.","Atrɔ̃ fofofo de, eyi wo fia nula wo popo po pe, ke awɔ nukuna wu",0.9375,0.3519
+162,"Tete wòkplɔm ɖo ta anyigbeme, eye kpɔ ɖa, agbo aɖe le anyigbeme.",Etewokplɔ̃ dota anyigbe me? Eya kple agboadele anyigbe me,1.0,0.18
+163,"Esi Siria ƒe aʋakɔ la dzo la, Yoas tsi aba dzi le abi gã si wòxɔ la ta.","Asi Syria paapaa kɔ lajola, yoo aschia bajila abiga siwo hɔla",1.0,0.3654
+164,"Akpa etɔ̃lia bubu nanɔ fiasã la me, eye akpa etɔ̃lia mamlɛa nanɔ Gɔmeɖoɖogbo la nu.",akpa atɔ̃lia bubu la nɔ fiasala me. Eye akpa etɔ̃lia mamlɛa nɔ gome dodo gbo la,0.6,0.1538
+165,Miakpɔ wo le Ziz to la kɔgo le balime si yi ɖe Yeruel gbegbe la ƒe nuwuwu!,Mía kpɔ́ ʋu le zĩzĩ to la kɔ́ gɔ̃ le Bali me si yí de Yeruel gbegbe la pɛ́ nu.,0.7059,0.2456
+166,Wowɔ dɔ le gli la ŋu tso Aʋawɔnuxɔ la gbɔ le gli la ƒe dzogoe dzi.,"wo le glã, tuawo nu kɔ la gbo, le glã fe jogoe",0.8125,0.5
+167,David ɖo wo be woasa Aƒetɔ ƒe numemevɔsa kple dzidzɔ kple hadzidzi abe ale si woŋlɔ ɖe Mose ƒe se la mee ene.,"David do be, wò sà kpètòkpè nú mè mè vòsà, kpè jǐjò kpè ha jǐjǐ. Àbè àlè sǐ wò nwùlò dè Mòsè fè sè lá mè",1.087,0.6628
+168,"” Yesu ɖo eŋu na wo be: “Miexlẽe kpɔ be ame si wɔ ame le gɔmedzedzea me la, atsu kple asie wòwɔ woe oa?","Yesu Kristo be, amesiwo ame le gɔmeɖoɖo sia me la, atukplɔ́ ye woawɔ ewɔwɔ.",0.7826,0.52
+169,"Mieɖo ŋku edzi be menyi ame akpe atɔ̃ kple abolo atɔ̃, eye esi susɔ la yɔ kusiwo oa?","Ye do nkuwo dzi be manye ame akpe ato kple abulu ato, eye esi susu la, yo kusiwo",0.6111,0.254
+170,Wotsɔ kpe siwo wofú la wɔ kplɔ̃ ene hena numemevɔsawo.,wòtso kplé sɔwu fula wòplɔ̃ ènè xé na nùmèmé vɔsa,1.0,0.4651
+171,"Esi gbe la nɔ ɖiɖim alea la, dzidzi ƒo nusrɔ̃la etɔ̃awo, eye wotsyɔ mo anyi kple vɔvɔ̃.",Míesigba la nɔ didim aleale. Jiji fonusɔla etɔ̃ awo. Eya ewo tɔm anyi,0.8235,0.3692
+172,Xɔ lolo ŋutɔ mebe matu elabe mía Mawu la lolo wu mawu bubuwo katã.,"Lolo ntoo mebe matu, elabe mia mavu la lolo wu mawu gbugbɔo",0.4286,0.3077
+173,"Baba na ame si gblɔ na atikpakpɛ be, ‘Gbɔ agbe!",Mawu na meçi gblɔ na atikpa kple ebe gbo agbe.,0.7,0.2571
+174,Wotsi tsitre ɖe adzɔge henɔ dzodzom nyanyanya kple vɔvɔ̃.,wò tsi tsi tre da jò ge hã nò jò jò mu nyanya nyanya,1.5556,0.4894
+175,"Ale wòatsɔ vidzĩ si eya ŋutɔ dzi la aɖu le adzame, atsɔ amenɔ la hã akpe ɖe eŋuti.",Ale wòatɔ vije si eya ŋutɔ dila adu la ajama atɔ amanɔla ha akpente,0.7778,0.3016
+176,"Le míaƒe nu vɔ̃wo ta la, wotsɔ yi he to na míawo ŋutɔ, míaƒe fiawo kple míaƒe nunɔlawo, eye woɖe aboyo mí.","Mía ffenúvɔ̃ ta la, wòchɔ́ ŋkɔ́ tɔ́ me mía ŋutɔ́, míafe fia o, míafe nunɔla o, eya da bo yó",0.9091,0.4375
+177,"Ne ame le agbe ƒè geɖee la, nekpɔ dzidzɔ le wo katã me.",ne amalagbe vegede la ne kpo jijo le wukata,0.8462,0.3902
+178,"Ame siawo wɔ dɔ le Yehoyakim, si nye Yesua vi kple Yozadak ƒe tɔgbuiyɔvi la ŋɔli.","Mese o wodo le Yehowa xɔme, si nye Yesu Avi ple Josadake ple Togbui Avi la ŋɔli.",0.8125,0.2969
+179,"Le ŋkeke etɔ̃awo me la, ŋutsuwo katã tso Yuda kple Benyamin va kpe ta ɖe Yerusalem.","Le ŋkeke toamela, nutsu ka taa to yu daa kple Benjamin viakpe taa le Yerusalem.",0.75,0.2308
+180,eye woɖea gbe abe dzataviwo ene.,"Ayiye, wò da gbe abe",0.8333,0.6923
+181,"Etsi tsitre ɖe kplɔ̃ aɖe dzi le ameawo ŋgɔ hegblɔ na wo be, “Mawu di be yeanya nu si na miele yeƒe sewo dzi wɔm o.","Atsitsiae de kplɔ̃ adegli la ma wongo, hegblɔ̃ na wò be, ma wudi be ya nya nu si ina mele ye kpe se oji wò mu o.",0.8077,0.2588
+182,eye wòaɖe gbeƒã nye ʋɔnudɔdrɔ̃ na trɔ̃subɔlawo.,Eya wòadagba fa nye bon dodo na tro subola,1.0,0.4211
+183,Esia hã nu dzodzro ko wònye; dɔ vloe.,"Esia ha, nuja djroko onye dovulo",0.875,0.3571
+184,Woɖe asi le se si mede na wo la ŋu gɔ̃ xoxo eye wokɔ̀ legba na wo ɖokui.,"Wòdeasi le se si me de na wò la nu, gɔ̃hoho eye wòkɔ̃ le gba na wò dokui.",0.7222,0.1731
+185,"Xatus, Xasbneya vie dzra akpa si va ɖe esia yome la ɖo.","Atɔse, asigbe na ya vie, jira akpasi va de esi ayome la",0.9167,0.2857
+186,"Esi ŋu ke ŋdi kanya la, etu vɔsamlekpui aɖe ɖe to la te, eye wòɖo dzesidekpe wuieve ƒo xlã vɔsamlekpui la, elabena to wuievee wɔ Israel dukɔ la.","Afi si nu kanyi ala, etu vɔsamlekuya de to la te, ayewu do je si de kpe nu ye vɔsamlekpila. La be na to nu ye vɔsamle Israel dukɔ la",0.8214,0.3451
+187,"Gbedoxɔmedɔwɔla siwo nɔ Ofel togbɛ dzi la, gbugbɔ gli la ɖo va ɖo Tsigbo ɣedzeƒetɔ la kple mɔ la ƒe xɔ tsrala gbɔ.","Gbe do homedola si wo no, ofel to gbe dila. Gbugli la do vado, chigbo. Gbe je fe tola. Gbe mola fe ho, trala",1.0435,0.3556
+188,"” Yesu bia wo be: “Ne alẽ ɖeka le mia dome ame aɖe si, eye wòge ɖe do me le Dzudzɔgbe la, mado asi ɖa aɖee ado goe oa?","Yesu biabia be, ne alo de kale, ne adome tɔawo si, eye wo gɔde dome, ne wo dzɔ gbe la, ma do asi da a di a dogo",0.8214,0.3095
+189,"Alo ɖe miexlẽ le Mose ƒe se la me be enye nyateƒe be nunɔla siwo le mawuxɔa me la gblẽa kɔ ɖo na Dzudzɔgbe ɖe sia ɖe, gake menye vodada nawo oa?","Alo de, miele kple mose, pesalama, be anya nyatepe be nu nola siola mawu kple amela, gblɔ kodo na dujogbe de sia de, ta ke me nye vodada na o o.",0.875,0.2793
+190,"’ Mienya ale si miaɖe dziƒo ƒe nɔnɔme gɔme, gake mietea ŋu dzea si ɣeyiɣiwo ƒe dzesiwo o.",Mía ya Alesi miade ji popa nɔnɔme gɔme. Gake mietã di asi eyi yiyo fa jesio,0.8235,0.3478
+191,"Ena Israelviwo dome ɖekakpuiwo yi ɖawɔ numemevɔsawo na Aƒetɔ, eye wòna wotsɔ nyitsuwo sa ŋutifafavɔ hã nɛ.","Ena Israel viwo dometɔ kple woviwo daawo, numamãvɔ̃sawo na aputo, eye woona utɔ nyitɔwo sa ndi fafɛɛ vɔ̃e haa",0.8824,0.375
+192,Nɔvi siwo tso Italia hã do gbe na mi.,Novisiwo to Italia ha du gba nami,0.8889,0.1786
+193,"Esiwo tso Paxat-Moab viŋutsuwo dome: Adna, Xelal, Benaya, Maaseya, Matanya, Bezaleel, Binui kple Manase.","Adna, Heral, Benaya, Maseya, Mataya, Bezaleel, Binui, Klement Manasse",0.7143,0.4878
+194,"” Ke esi ɖekakpui la se nya sia la, edzo kple nuxaxa, elabena enye kesinɔtɔ gã aɖe.","Aseye deka pui la senya siala, aju kple nu haha, alabana, enyekesi notoga",0.875,0.3016
+195,"O Aƒetɔ, ne metsɔ nya ɖe ŋuwò hã la.","o, afeto, ne matso nya ndenu ha la",0.5556,0.3846
+196,"Keros, Sia, Paɖɔn.",Korus sia pardon,0.6667,0.3846
+197,"Woɖii ɖe David ƒe du la me, ke womeɖii ɖe fiawo ɖiƒe o.",David,0.9231,0.878
+198,"Tso Pasur ƒe dzidzimeviwo dome: Elioenai, Maaseya, Ismael, Netanel, Yozabad kple Eleasa.","Chopassu, Fedjinevi, Odome, Elu-Anai, Maseya, Ismael, Natanael, Josabat, be Elias",0.9167,0.3521
+199,"Etsɔ wo ɖo mawuwoe, dea ta agu na wo eye wòdoa dzudzɔ na wo.","Atsɔwo do mawuwoe, data gu na wo ye wu do ajuju na",0.7857,0.2889
+200,"Tso gbe aɖe gbe ke, le David kple Asaf ŋɔli la, hɛnɔawo nɔa anyi nyea hadzilawo kplɔlawo, ne wole kafukafuhawo kple akpedahawo dzim na Mawu.","Togbe Adegbeke le David ple asafoŋɔli la, ŋɔnuwo nɔ anyi, nya ha dilawo kple lawo. Na wòle kafukafu hawo ple akpedahawo dzi na Mawu.",0.84,0.1429
+201,"Tete Yehowa ƒe gbe va to Nyagblɔɖila Hagai dzi be, “Ɖe ɣeyiɣi de be miawo ya mianɔ aƒe nyuiwo me esi nye gbedoxɔ ƒe glikpowo gale nenema koa?",tete hu afe gbe va to nya gbori la he ga yi be de ide be miawo ya mia no afe nyume esi me nye gbedoxho fe glikpo ga le nene makwu,0.7857,0.2883
+202,Esia hã nu dzodzro kple yadɔ ko wònye.,"Mesiaha, nuxe juro play ya doko",1.0,0.5333
+203,nana be ɖeɖi tea eŋu; elabe menya mɔ si.,"Nana be dɔdɔe tea ŋu, elabena menye amewu",0.6667,0.4
+204,"Ke zi atɔ̃lia la, Sanbalat ɖo eƒe dɔla ɖem kple gbedeasi ma ke, eye wòlé agbalẽ si nu wometre o la ɖe asi.","Kezi atonli ala, sanbala do epe dola de nku le gbedasi make, eye wole agbanle sinu ometren wola de asi",0.913,0.225
+205,Fesrewo ƒo xlãe kpe ɖe eƒe akpata la ŋuti.,"Flesher, wòhlo ekpede ape akpatala",1.0,0.4545
+206,"Esiawoe nye gbedeasi siwo Yesaya, Amoz ƒe vi, xɔ tso Yehowa gbɔ le ŋutega me, tso nu siwo ava dzɔ ɖe Yuda kple Yerusalem dzi la ŋuti.",Esia nye gbedasia si oyesaya amos fa vi xɔ̃tsu yehowa gba lenwuta ga me. Tsonu sia ava jode yuda kple yerusalem jila,0.7037,0.2524
+207,Nubablaɖaka la le wo ŋgɔ be yeatia teƒe si woatɔ ɖo la na wo.,Nuwaba bla da kala le wo ngobe ya tia tepes iwa todu la na,0.8571,0.2766
+208,"Yehowa gblɔ nya siawo na Mose be, “Gblɔ na Israelviwo be, ‘Miawo ŋutɔ miekpɔe be meɖe nye lɔlɔ̃nu fia mi tso dziƒo.",Yehowa gbɔ̃ nyasiawo na mɔ sesẽe be gbɔ̃ na Israel viwo be miawutɔ miakpɔ ebe made nyuie lɔlɔ̃ nufia micheoji,0.8636,0.2273
+209,Aboyomeyiyi ƒe ŋɔdzidodo.,"mawo ha la, ekema gblɔ na ube, alea ye Yehowa gblɔ enye si, ma tɔ aha mumui ayɔ amesi ukatala gbaladzi ma fu, fia si uno David fia si kpe",10.0,4.0909
+210,Tete ameha blibo la de asi liʋiliʋĩlilĩ me le Mose kple Aron ŋu.,Ame bubuwo asee le vivi leli me la mosekple aro,0.9231,0.4902
+211,"Megale egblɔm be, le ŋkeke adre mawo me la, mele be miaɖu nu si wowɔ kple amɔ ʋaʋã la ƒe ɖeke o: miɖu nu si wowɔ kple amɔ maʋamaʋã la ko le afi sia afi si mianɔ.","Mégale gblɔ́mbe le nke ka adre maumala, mele bé miadunu siwo wokplɔ́ amɔ́ mafamafa la fɔ́ de kaó. Midunu siwo wokplɔ́ amɔ́ mafamafa la ko la afisi afisi mianɔ.",0.7838,0.2562
+212,"Esi wòva la, eya kple Yoram wodo go be yewoaɖakpe Yehu, Nimsi vi, ame si Aƒetɔ si ami na be wòatsrɔ̃ Axab ƒe ƒome la.","Eya kple Yoram wo dzogo, be iwa dape ye hu nim si vi, amesi ape to si Aminabe wa tso aha bu pe fu me la",0.88,0.2841
+213,"Esi wonɔ elalam be wòava yi la, woda adzo ame siwo va to mɔ la dzi yina.",Esio no lala mbe woava yila. Wo daa ju amesiova to mola jiina.,0.9412,0.2222
+214,"Enye ame si ɖe Mawu ƒe nɔnɔme tututu fia, eye wòna agbe nuwo katã to eƒe ŋusẽnya la me.",Enye amesi de mawu peno me tututu fia. Eye wo na agbenuo ka ta to efenuse nyala,0.7368,0.194
+215,Betlehemtɔwo kple Netofatɔwo le ame alafa ɖeka kple blaenyi-vɔ-enyi .,"Betee le muto, le netofa to, la mala fare ka le bla nyivoni.",1.3333,0.3158
+216,"’ Ne woku lãdzokpẽ he eme didie la, eya ko hafi woalia to la.","na aku la dɔkpe, eema jiji la, eya ko hafi woali atɔ̃",0.6923,0.3333
+217,"Wo kple nunɔlawo, Levi viwo kple ame siwo katã tso aboyoa me va le Yerusalem lae dze dɔa gɔme.","Wòkple nɔlao, le vivio, kple amesokata to aboyua me va le Yerusalem le je dɔagom.",0.7368,0.2027
+218,"Ale ke magblẽ dɔa ɖi koŋ ko atso, be mava kpɔ mi le kɔƒe me?",Aleke ma gblɔe do adi ko ato be mava kpɔmi le kɔfeme,0.7333,0.2045
+219,"Agbledede doa dzidzɔ nɛ ale agble kple waingble geɖewo nɔ esi, le toawo ŋu kple balime afi si nukuwo nyona le nyuie.","Agblede do a jijo ne, ale agbleple wanyi gble ge de uno si. Le toa wonu ple bali me, afi si nu ku onyo na le",1.0,0.2688
+220,"Ke Yehowa medi be yeatsi David ƒe viwo ƒe fiaɖuɖu nu o elabena ebla nu kple David be, yeana eƒe dzidzimeviwo dometɔ ɖeka nanɔ fiazikpui la dzi ɣe sia ɣi kokoko.","Ke Yahova madi ba ya ci David ba vio, kpefia dudu nu wola ba na, ebla nu kple David ba ya na fa jiji ma vio do me to de ka na nofia zi kple aji he si a yi koko.",1.0968,0.3125
+221,Egblɔ nam be: “Ge ɖe eme ne nàkpɔ ŋunyɔnuvɔ̃ɖi siwo wɔm wole le afi sia la ɖa.,"Agba na mbe, gele eme ni na kpo nu nyo nu fo di si o wu onwu le la",1.1176,0.4655
+222,Mana la ɖeɖe ko woɖu va se ɖe esime woɖo Kanaan-nyigba ƒe liƒo dzi.,"Manya la na dɔkɔwɔdu, wòsẽ dɛ̃ si ma, wòdɔ ka na nyigba polifoji.",0.9286,0.4808
+223,"Mose bu ɖe lilikpo si tsyɔ to la tame la me, eye wònɔ afi ma ŋkeke blaene kple zã blaene.",Mose bu de Liliposi cho to latamo lama. Aye wo no afi ma nkeke bla ene kple za bla ene.,0.8,0.1912
+224,"Evɔa, ele be woatsɔ nu sia nu si le asinye la nɛ!",Avo ala ba wacho nusianu sili asi nyala,1.0,0.3611
+225,"Eya ta wosɔ nu be yewo katã yewoaho aʋa ɖe Yerusalem ŋu aɖadze edzi, ade ʋunyaʋunya eme.","wò sɔnu be yewòkata yewòakwà afɔde Yerusalemu, ada je eji a de hunya hunya",0.9412,0.3714
+226,"Kuɖiɖi la nava amegbetɔwo, lãwo kple amegbetɔwo ƒe asinudɔwɔwɔ ɖe sia ɖe dzi.",kudidi la na va amegbeto o. Laokple amegbeto pasi nu do wo le sia le,1.0769,0.3016
+227,"Ahab, Israel fia, bia Yuda fia, Yehosafat be, “Àte ŋu akpe ɖe ŋunye míaho aʋa ɖe Ramot Gilead ŋua?","Ahab Israel fia bia Yuda fia Yehosafat be, ate ŋua kpere nu ye miahu ava de Ramot-Gilead",0.5789,0.1486
+228,eye nàɖo wo ɖi hena wuwugbe.,"Agoo, wòdíkàna.",1.0,0.8182
+229,Woƒo xlã vɔsamlekpui la hã eye ame sia ame lé aʋawɔnu ɖe asi.,"wòfò hlàvòsà mekwuila àhà, èyí àmèsiàmè lè àvàonùdé",1.0,0.625
+230,"Tete meda ŋku ɖi, eye kpɔ ɖa, mekpɔ nane si ɖi ame ƒe nɔnɔme.","Tete me dze ankudi, ayekpora, makpɔ na ne si di amapɛnɔme.",0.8571,0.3111
+231,"Ne èna woyi aʋa la kple wò amewo la, aleke ke miawɔ aʋa lae hã la, woaɖu mia dzi kokoko elabena ŋusẽ le Mawu si be wòakpe ɖe mia ŋu loo alo wòagblẽ nu me na mi.","Naa, enaa wò yia afala kple wò amewula. Alekekem ia wò afala ihala? Wò adu mia ji kokoko ele agbena. Nwusela mawusi be wò akpe de mia nwulo alo wò gblen wò me na",0.8108,0.2645
+232,“Elabe ale si tsi kple tsikpe dzana.,alaba alosi tikpo tikpo ja,1.0,0.4286
+233,"Woɖo be, esi Abimelek dada tso yewoƒe dua me ta la, yewoxɔ Abimelek ƒe nya la.","Godo be, esi Abimelek dada Choeyo fe dua meta la, yeo Axo Abimelek fe nya",0.5625,0.2167
+234,Yehowa nato mia dzi aʋli fɔmaɖilawo ta.,Yehowa na tumi aji avuli foma di la wota.,1.1429,0.2188
+235,Edzra Mawu ƒe aƒeme xɔ ɖeka me ɖo na Tobiya wòle eme.,Amedzro mawu fe afemewo ho deka medona tobiya wole,0.8333,0.3659
+236,"Madrɔ̃ ʋɔnu Egipte mawuwo katã, elabena nyee nye Yehowa.","Adzogbe wo le Egypti mawu wo kata, elabena nye enye Jehovah.",1.1111,0.3556
+237,"Ðo ŋku edzi hafi klosaloka natso, sikagba nagbã, tsikunu nafli ɖe vudo to, eye tsidumɔ̀ nakaka.","Donkwe ji hafi, klosa lo ka na cho, si ka gba na gba, chi kunu na fli devu doto, eye chi dumo na kaka.",1.4375,0.1867
+238,Dadaa nye Yuda nyɔnu aɖe tso Dan ƒe viwo dome le Israel eye fofoa tso Tiro afi sia.,Israel,0.9444,0.9077
+239,Eƒe ŋutikɔkɔe xɔ dziƒo katã kpe ɖo; wole ekafum le afi sia afi.,"Efe ntsi kɔkɔe, kɔdzipokata kple do, wòle ekafum le afisiafia.",0.8462,0.2449
+240,"Yehosafat ɖo eŋu be, “Mele abe wò ene eye nye dukɔ le abe wò dukɔ ene.","Yehowa safa du enu, mele abe wo ene, eye enye duko la abe wo duko ene.",0.625,0.2692
+241,"Metui wòme, zu wɔ, eye melɔe kɔ ɖe tɔʋu si sí tso toa dzi la me.","Metsi wò ma, zua, eye malɔ̃e kple tɔfusi, si tɔ tuadila",0.875,0.3261
+242,Do go le Kɔkɔeƒe la elabena mèwɔ nuteƒe o eye Yehowa Mawu made bubu ŋuwò o.,"Dɔgolekɔ kple laala gbe na, mawu nutafɔwɔyi Yehowa mawu ma da bubu nuwo.",0.875,0.2881
+243,Megalé ŋku ɖe ameteteɖeanyi siwo katã yia edzi le ɣea te la hã ŋu.,"Megalẽ ku de, ametete danyi siokata yaji le riate la ha",0.8571,0.3077
+244,"Míada wo ɖe atigbawo dzi ada ɖe atsiaƒua dzi woava ɖo Yopa, ekema àte ŋu alɔ wo tso afi ma ayi Yerusalem.","Mia da wòda atigba oji adade achiafua ji wava do Yuda, ekema atenwu alo ochu afima yi Yerusalem.",0.9091,0.3171
+245,Eyome wodzra glia ɖo va se ɖe Akɔligboa gbɔ.,"Ayo ma, wo dzila Cleo do vasa le aklobui gbo agba",1.2222,0.4286
+246,"Esia wu nya si wogblɔ ɖi to nyagblɔɖilawo dzi la nu be, “Woayɔe be Nazaretitɔ.","Mawu ya wu nya si wo gblɔ di, to nya gblɔlawo dzi la nu be woanyo ebe Nazaretitɔ.",0.6,0.1639
+247,"Ne abei kura gɔ̃ lia woƒe kpegli ma la, amu.","ne abayi kura go, lia ofe kpe glimara",0.7,0.2812
+248,"Esi nunɔlagã Azaria kple nunɔla bubuawo katã nye kɔ kpɔe la, wokpɔ be edze kpodɔ ɖe ŋgonu eya ta wonyae do goe enumake le gbedoxɔ la me.","Asi nu nola ga Azaria, kple nu nola bu gba wukata nye ko kple la. Wukpo be eje kudo. Re ngo nu iyata wu nyai dogo enu ma kele gbe du hola ma.",1.037,0.25
+249,Wò ŋutɔ koe kpa wo le gbɔgblɔm.,Wò nyasía wòpe deke menye nyatefe o. Wò ntokui kpa,1.2857,1.4167
+250,"” Ke Gideon ɖo eŋu be: “Taflatsɛ, nye amegã, nu ka tsɔ ge mala aɖe Israel-dukɔ lae?",Kae geja do wò be taflatsè nyè amaga? Nukae tso ge mala adeyisrael dukɔla,0.8125,0.3
+251,"Azɔ Mawu ƒe Gbɔgbɔ va dze Zekaria, Yehoiada ƒe vi, dzi.",Azon mawu fe gbagba vo jesca career. Yehowa yida kpe vi,0.9091,0.5476
+252,"Esi woho tso Refidim la, wova Sinai-gbedadaƒo eye woƒu asaɖa anyi ɖe gbedadaƒo la, afi mae Israel ƒu asaɖa anyi ɖo le to la ŋgɔ.","Míawo hã míetso refugee mla, ovasi na míegbɔ tso dafui, eye wòfu asadanya de gbadza fula. Afi ma ezi alufu asadanya do le tola",1.0,0.46
+253,Ke dukɔ la ganɔ nu gbegblẽ wɔwɔ dzi ko.,kple dukɔla ka nɔ nu gbe gblɔ̃ wòwò ji,0.8889,0.3333
+254,Yehowa miaƒe Mawu la nye dzo si fiaa nu kple Mawu si ʋãa ŋu.,Yehowa mea mawu la nye ju si fia nuplo mawu si van,0.5,0.2826
+255,eye woƒe alẽhawo katã ka hlẽ.,"Ayiwòfe, alehawokatã ka",0.8333,0.3478
+256,’ Ame siwo ŋu nèɖu fewu le eye nèƒo fi de wo la le dua godo fifi laa!,"Amesi wonu dufe ole, eye nefo fide ola, le du agodo fifila",0.8824,0.2
+257,xexea me katã nazi ɖoɖoe le eŋkume.,Hekleme kata nazi do dwie le nkum.,0.8571,0.4286
+258,Ekema afi ka gɔ̃ ŋutsu sia kpɔ nu siawo katã tsoe?,"Akpe na Afrika gɔ̃ ŋuti sia, kpɔ nusia ŋutɔŋutɔ",0.7273,0.3947
+259,Esiwo tso Imer viŋutsuwo dome: Xanani kple Zebadya.,"Asi wò to email, vinutó dome. Hanani, kple Zibadi",0.875,0.381
+260,"Yesua dzi Yehoyakim, Yehoyakim dzi Elyasib, Elyasib dzi Yoyada; Yoyada dzi Yonatan, eye Yonatan dzi Yadua.","Yesu Kristo, Yoyakim, Yoyakim dzi Eliakim, Eliakim dzi Yoyada, Yoyada dzi Yonatan, eye Yonatan dzi Yadua.",0.375,0.1744
+261,"Eya ta nɔvinye kɔkɔewo, ame siwo kpɔ gome le dziƒo ƒe yɔyɔ la me, mida miaƒe susuwo ɖe Yesu, apostolo kple nunɔlagã, ame si me mieʋu la dzi.","Mía tɔ novinyewo, kɔkɔewo, amesiwo kpɔ gome le kplɔ̃ fɔ̃yɔyɔ la me, mida miaƒe akpe susuwo na Yesu, Apostolo kple nunɔla gã, amesi me míevula",0.5714,0.2222
+262,"Esia ta ele na mi be miaɖo to nyateƒenya siwo katã miese la nyuie, ne menye nenema o la, miate ɖa xaa tso nyateƒe la gbɔ.","Nyateƒe ele na mibe mianɔ to nyateƒenya si wòkataa miesela nyui na menye nenema o la, miatada haa tso nyateƒe la gbɔ",0.5385,0.172
+263,"Woɖo ga gɔdɔ̃ewo, asi ƒe kekeme ɖeka, ɖe kplɔ̃awo to, wobi ɖo ɖe eme.","Odo ga go dzinye wo, asife keke me le ka, nekplɔ wo to, wo bi du de eme.",1.0714,0.28
+264,"Ameha si ƒo ƒu ɖe eŋu la sɔ gbɔ ŋutɔ; ale wòge ɖe tɔdziʋu aɖe me hebɔbɔ nɔ anyi, eye amehawo le tsitre ɖe ƒua nu.","Amegashie fo pɔɖɔ nu la, sɔ gblɔ̃ nɔ́, ""Alewo gɔ̃ɖo toji fuade ma, kple bobonu anyi, eye amegãa wòletitire pua",0.8462,0.4471
+265,"Ale ame abe akpe ɖeka ene, ŋutsuwo kple nyɔnuwo siaa, ame siwo nɔ mɔ la me la katã ku.","Ale abe ama kple ke ene, wuchiokloe nye onu sia, amesi no mola me la kata akpe",0.7895,0.4
+266,Metia ame siawo elabe amewo ɖi ɖase le wo katã ŋu be anukwaretɔwo wonye.,"Metsia amesia o, elabe amewo didi da se le wuka ta wu be ankwlito o",0.7857,0.3276
+267,"Meremot, Uria ƒe vi kple Hakɔz ƒe tɔgbuiyɔvi, woɖo gli la ƒe akpa aɖe tso Eliasib ƒe aƒe ƒe agbo ƒe kasa yi aƒe la xa.","Merenut, ye ria fe vi, blehacos, petogbeovi, odogbe la pakpa de, to elias ifafe fagbo, fe kasa yi afela",0.8846,0.3889
+268,"Farisitɔ aɖewo kpɔ wo, eye wohe nya ɖe Yesu ŋu gblɔ be, “Wò nusrɔ̃lawo wɔ nu siwo mele se nu o la le Dzudzɔgbe ŋkeke la dzi.","Farisi toawo kpo o, eye wògblɔ na ya de, Yesu nglobè. Wònu sɔlawo wònu si omelè sènù ola le jùjògbè nkekè la ji.",0.8889,0.3656
+269,Nenema ke miɖo ŋku ame siwo wole fu wɔmii la dzi abe miawo hãe le fua kpem ene.,Nenema ke mi do nku a masi o wula fu wo mi laji. Agbe mi awu ha ilefu akpem,0.9444,0.2787
+270,"Mise nye nya, ne miaƒe luʋɔ nanɔ agbe.","Mise nyenya, ne mia polo vo na no agbe",0.875,0.2069
+271,"Ele be maku le afi sia, le Yɔdan tɔsisi la ƒe akpa sia dzi.",alabama ku lafia le yordan tosisi la pe akpasi ji,0.8571,0.2955
+272,"Azɔ la Xagai, Aƒetɔ ƒe amedɔdɔ la gblɔ Aƒetɔ ƒe gbedeasi la na dukɔ la be: “Meli kpli mi.","azɔla ha ga yi, a pete ame dɔdɔla gblɔ a pete gbedeasi la na dukɔla be meli kplim",0.7368,0.1343
+273,"Eye Mawu gblɔ nya siawo be: “Nyee nye Yehowa, wò Mawu, si ɖe wò tso kluvinyenye me le Egiptenyigba dzi.","Mawu gblɔ nya siawo be, Nye ye Yehowa wò Mawu, si de wò tso kluviwònyenye me le Egipte-nyigba dzi",0.25,0.1013
+274,"Esiwo tso Elam viŋutsuwo dome: Matanya, Zaxarya, Yexiel.","Esi wòtu èlamu vinutó dome, Matania, Zaharia,",0.875,0.4222
+275,eye nyi megale nyikpo aɖeke me o hã la.,nyanyimaga le nyikpo adekama oha,0.8889,0.2667
+276,Wo katã nye nunɔlawo; wolé kpẽwo ɖe asi.,"Wòkata nye nùnòlawo, wòle kpém wòrasì",0.875,0.3871
+277,"Woatsrɔ̃ wò ŋutɔ, viwòwo, srɔ̃wòwo kple nu siwo katã le asiwò.","wà tsrɔ̃ wò ŋutɔ, viwóo, tsrɔ̃ wò kple nusi wòkata le asi",0.8182,0.234
+278,Aƒetɔ gblɔ na Mose be: “Tsɔ klosalo tu kpẽ eve.,"Apotogbonamosebe, toklosalo tukpe",1.0,0.2857
+279,"Tete Yetro, Mose to, kplɔ Mose srɔ̃ Zipora, ame si wòɖo ɖe aƒe, kple via ŋutsu eveawo ɖe asi.","Mose to Mose si Zipora, amesi odode afi kple via. Ntu afiawode",0.6842,0.4493
+280,"Mègalia atrakpui yi nye vɔsamlekpui dzi, be wò ama me nadze le edzi o.",Mégali a traqué nyamé vos amours qui dit beau à maman na gelé jio.,1.0,0.5273
+281,"Ati sia nye Yoas, ame si nye Abiezer ƒe dzidzimevi la tɔ.","Atsia nye Ewe, amesi nye Abeizerpe Didimevi la",0.75,0.2727
+282,"Agbalẽa me nyawoe nye be: “Míele sesem le dukɔ siwo ƒo xlã mí la me tɔwo nu be wò kple Yudatɔwo mieɖo be yewoadze aglã, eye nu ma tae miegbugbɔ glia le ɖoɖom ɖo.","Agbalẽ me nyawo nye be, mielesesẽm le dukɔ siawo ƒe ŋutifafa me la, míanɔ nu be woakpɔ yuda tɔwo miedze be iwa dzi agla. Eye numatae miegugbɔ gli ala dodom",0.7353,0.3065
+283,eye wòtsɔ eƒe nugɔmesese keke dziƒo me.,"eye wò tɔ, efe nu gɔmesese ka ka ji fu",1.2857,0.3125
+284,"Le nu si woŋlɔ ɖi nu la, woɖu agbadɔmeŋkekenyui, eye wosa numevɔ xexlẽme sinu woɖo na ŋkeke ɖe sia ɖe.","le nu si wonɔ di nu la, wòdu agba dɔme nkeke enyi. Eya ta nu mevo heklem eya ta nu odo na nkeke desiaɖe",0.95,0.3
+285,"Eye Fia Yehosafat mlɔ anyigba, tsyɔ mo anyi eye Yuda blibo la kple Yerusalemtɔwo katã hã wɔ nenema henɔ Yehowa subɔm.","Eye, fia Yehova fa mlu anyi gba, tso mlu anyi eye Judah bli bola kple Yerusalem to wu kata ha, wo nene mahinu Yehova subo",0.9524,0.2
+286,"“Oo, Yehowa, na wò futɔwo katã natsrɔ̃ nenema.",Yehowa na wòfuta ŋkata natural,0.75,0.4118
+287,Yotam xɔ ƒe blaeve vɔ atɔ̃ esi wòzu fia eye wòɖu fia ƒe wuiade le Yerusalem.,Yuda ho kwe blawo vo ato asi ozu fiayi ne wo dufia kwe wo ya do le Yerusalem.,1.0,0.4068
+288,eye Yuda magaɖe fu na Efrayim azɔ o.,Eya yuda ma ga de fu na Efraim azo,0.875,0.1429
+289,"Mose gblɔ na wo be, “Midzra ɖo na Mawu ƒe vava le ŋkeke eve megbe.",Mɔse gblɔ na wò be mijrã adu na ma wupe vavãlɛ nkeke eve,0.6667,0.3265
+290,Nu tovo aɖe mekpɔ le ɣea te; enye vodada gã.,"Nutovade mekpɔle yate, enye vodada",0.8,0.1818
+291,"Esi Yesu dzo le afi ma la, eyi ɖe woƒe ƒuƒoƒe aɖe.",Asi ye so jo la fimala. Eye da wo papafofo,0.9167,0.4865
+292,"Kpe ɖe esia ŋu la, migawu mo dzi be yewoasubɔ ɣe, ɣleti alo ɣletiviwo o.","Wòde si Anula, mi ga wu moji gbe ye wa su gbo o. Nléti alo nlé TV o.",1.0667,0.4
+293,"Ena ŋkɔe be Mose, si gɔmee nye “Tɔ mee woɖee tsoe,” elabena egblɔ be tsi mee yeɖee tsoe.",Wòna kɔe be mɔsi si gɔme nye tɔme wu diɛtue. Ʃla gblɔna egblɔna tsi me ye diɛtue.,0.7778,0.3788
+294,Nenema ke metsɔa nakevɔsa vanɛ le ɣeyiɣi ɖoɖiwo dzi hekpe ɖe dɔwɔwɔ metsonu gbãtɔwo tsɔtsɔ vɛ ŋu.,"Nene make, metu na ka vo safa ne le yiyi di oji, ha kple do wo metu nu gba nto chocho ve",1.2353,0.475
+295,"Tso Harim ƒe dzidzimeviwo dome: Eliezer, Isiya, Malkiya, Semaya, Simeon, Benyamin; Maluk kple Semaria.","Tohavi fe dzinome: Eliya, Isaya, Malaki, Semaya, Simeon, Benjamin, Maluk, Blese Maria.",0.7857,0.3086
+296,"Yoas ŋutɔ ŋumewo ɖo ta me be yewoawui le esi wòwu nunɔla Yehoiada ƒe vi, Zaxarya ta.",Yehowa subɔlawo meɖo ta mebe yeawu la si wo wu nu nɔla Yehowa dapevi Zakariya.,0.9412,0.3485
+297,Tete hadzilawo tso Yerusalem-nutowo me va ƒo ƒu; ɖewo tso Netofatitɔwo ƒe agbletawo.,Ette hajelawu to Yerusalem to meva kpo fu. Dewo to ne tofa tito pe agbeta,1.1538,0.3188
+298,"Esi wònye be eya ŋutɔ kpe fu to tetekpɔ me ta la, ete ŋu kpe ɖe ame siwo tem wole kpɔ la ŋu.","Amesiwo nye aba eyi anutokpui futo tete kpo matala, ete nukpe de amesiwo tem wole kpolanu.",0.8696,0.2353
+299,"Eda ŋku ɖi, kpɔ nu; dzidzi ƒo dukɔwo.",dankudi kpɔnu jiji fo,1.0,0.5185
+300,"Ale wòdɔ wo kple gbedeasi sia be, “Miyi Betlehem ne miadi ɖevi la, eye ne mieke ɖe eŋu la, mitrɔ va gblɔe nam bena nye hã mayi aɖasubɔe!","Ale wòdòo, plègbè da sisia be, me Bethlehem na miadidi vila. Eye na miakada anula, mi trova gblenam, be na nye ha, mayi ada subo",0.8571,0.25
+301,ɖe gagbɛ si dze bubumewo la me vɛ nɛ.,"Deka gbe, si je bubu me o la me ve",0.8889,0.3214
+302,"Enye agbalẽfiala, eye wòbi ɖe Mose ƒe se si Aƒetɔ, Israel ƒe Mawu la de la me.","enye agbalẽ fiala, eye wòbire mɔ sẽ pɛsɛ si ahatɔ Israel ƒe mawula dila",0.7647,0.1864
+303,"’ ” Wodae ɖi ŋu ke ɖe edzi abe ale si Mose gblɔ na wo la ene, gake meƒaƒã o, eye medze nyé hã o.","Oga di n'ike, dee ji abụọ ya lesi mọsị gburugburu n'awụla ene, ka kee mụ fafa oo, e ye mụ je nye ha.",1.0,0.5373
+304,"Ne ekpɔ kesinɔnu hã la, meɖia ƒo nɛ gbeɖe o.","Ne èkpɔ kɛsi le ŋunye ala, mɛdi afɔ na ègbede",0.9,0.5152
+305,"Esi kesinɔnu su Yosafat si fũu eye bubu va le eŋu la, eyi ɖawɔ ɖeka kple Axab to srɔ̃ɖeɖe me.","si kesi le nu so, yosa fat si fu eye bubu valea nu la, eye da wode kakplae Ahab to suno de de",0.95,0.2676
+306,"Du la lolo, gake emenɔlawo mesɔ gbɔ o, xɔawo hã mesɔ gbɔ o, ke boŋ woɖe ɖe aga tso wo nɔewo gbɔ le du la me.",Dula lele. Kake menɔla mesɔgbe o. Ɣeyiɣi a mesɔgbe o. Ke be wòda ga tso nuwò gbo le dula me.,0.7692,0.3544
+307,"Le akpata la ƒe gota gome le dzigbemegbo la nu la, kplɔ̃ eve le afi ma hã.","Le akwata la fe gota gome, le jigbe me gbo la nu la, lo efe le afi ma",0.4706,0.1818
+308,"Ke Yehowa gagblɔ na Mose be, “Ɖi nàyi, eye nàkplɔ Aron ɖe asi vɛ.","Yehowa gaglo na mosebe di na yi, eye wòkplɔ aruawo asi",0.7143,0.2917
+309,Enumake Gaal kplɔ Sekemtɔwo eye wowɔ aʋa kple Abimelek.,"Ne mɔka ga plɔ seke mɔtɔ, ewu afakla bi male.",1.1111,0.4348
+310,"Esi meɖo la, egblɔ nam be, “Na míayi aɖabe ɖe gbedoxɔ la me, eye míatu ʋɔtruawo goŋgoŋgoŋ, elabena wogbɔna be woawu mí le zã sia me.","Esi me dollar, eglo na mbe. Na miayi ada abede gbe doho lam. Emiatu vo tro ogo ngongongon. Ela be na ogbo na be wa wu miles asiam.",0.9615,0.3069
+311,eye wonye dziɖulawo le ahamuamewo tɔtɔ me.,"Ayiwo nye jiru la o, le aha muo ma o toto",1.4286,0.3714
+312,Nye dukɔ ƒe nuvɔ̃ zu nuɖuɖu na wo; dɔ le wo wum vevie.,"Ye dukɔ ƒe nuvɔ̃ zɔnu dodo na o, ke le wò wuwu",0.6154,0.4103
+313,"Le ŋufɔke la, Sekemtɔwo gayi aʋa, ke ame aɖe fi tofi na Abimelek tso woƒe ɖoɖowo ŋu.","Lɛngu fɔ kɛla, si kɛm tɔ ga yafa, ka ma re tɔ fi na abima le kɛ chɔwɔ fe roro",1.1176,0.4462
+314,"Woʋu nu le woƒe nunanawo nu, eye wotsɔ sika, kotoklobo kple lifi nɛ.","woe funu la woe fa nu na na unu, eye woe cho si ka koto klobo",1.0769,0.4151
+315,"Ame siwo ƒe ŋkɔwo gbɔna la tso Tel Mela, Tel Harsa, Kerub, Adon kple Imer, gake womate ŋu agblɔ nenye be woƒe ƒome do tso Israel ƒe toawo me o.","amesi ofe nko gbonala, totel mela, telhasa, kerub, adonai le eme, kaka uma tinwa agworo, enyebe ofe kwume docho Israel fetua umu",0.9,0.3394
+316,"Wowɔ dɔ le Bawai, Henadad ƒe vi, ame si nye Keila nuto la ƒe afã evelia dziɖula la ƒe dzikpɔkpɔ te.",Ewo do le ba wai. Ena dad pavi. Ame sinye ka la nuto la fa fa velia. Jiru du la fa jikpogte.,0.8571,0.3421
+317,Ke ame aɖe fi tofi na Abimelek le nugbe si woɖo ɖe eŋu la ŋuti.,Ke amade fi tofi na abimelek le nugbe si wodo de ewu language,0.4667,0.2083
+318,"Salum, Xaloxes vi, si nye Yerusalem-nutome ƒe afã evelia dzikpɔla lae dzra glia ƒe akpa si gakplɔe ɖo la ɖo.","Salome, ha lo sesẽvi, nye Yerusalemu tuma fa afa evelia jikpɔla la ye dzia glia fe akpa si ga kple dɔla",0.85,0.2706
+319,"Elabe nye, fia la ŋutɔ kple nye adaŋudela adrẽawoe dɔ wò ɖa be nàtsɔ wò Mawu ƒe se si le asiwò la adzro Yuda kple Yerusalem ƒe nyawo me akpɔ.","Eya be, nye fia la nto, kple nye adandela, Andrea o, do da be na tso wu ma wu fe se, si le asi wò la, adro Yuda kple Yerusalem fe nyaome akpo.",0.7,0.2
+320,Ate ŋu aɖu fia gɔ̃ hã togbɔ be wodzii ɖe ahedada me hã.,"Atam adufia go ha, to gba be wo ji le aha dada me",1.0,0.3415
+321,"negbe ɖe wòwɔe, kpɔ dzidzedze.",gbe de wowoe gbe jije,1.0,0.625
+322,Kagbigbi nu etɔ̃ menyatsona o.,Tagbavi nu etɔ̃ me nya tɔ na,1.0,0.2917
+323,"Esi Abimelek se be ameawo si yi mɔ la me la, Abimelek yi Zalmɔn to dzi.",Esia binyalek se be ama osi imola mela. Binyalek yiza mu ntoji,0.875,0.2778
+324,Ameawo katã va bɔbɔ nɔ anyi ɖe gbadzaƒe le Mawu ƒe xɔ la ŋgɔ.,Amegatɔ vα bɔbɔ nɔ anyi d'agbαjαpe le mαwupe hɔlαngu,0.7143,0.4043
+325,"Azɔ egblẽ ameha la ɖe kpɔa godo, eye wòge ɖe aƒea me.","Azo agbla ama hala de kpo agodo, eye wo ge de afa me.",0.9167,0.25
+326,Mieƒãa nuku taŋtaŋ gake nuku ʋɛ aɖewo ko mieŋena.,"Míafa nukutaantan, ka ke nuku veadeoko miengana",0.8889,0.375
+327,"Ne ŋutsua mele nu etɔ̃ siawo wɔm nɛ o la, ekema kosi la ate ŋu adzo le egbɔ faa fe aɖeke maxee.","Nye nɔvi amela, nu etɔ̃ siwo le wò me la, ekema akɔsi la ati nu aju le gbeƒãɖeɖe ma ŋu.",0.7273,0.4648
+328,Meɖe amewo tso nye subɔlawo dome ɖo agboawo nu hã be womegalɔ̃ ne ame aɖeke natsɔ agba va dua me le dzudzɔgbe o.,"Mede amewo to, nyasubɔlawo dome do agwa unu ha be, ome ga nɔ ne ameyadeke nacho agba vado me le dujogbe",0.7826,0.2614
+329,"Anyigba dzi dukɔwo katã akpɔe be Aƒetɔ ŋkɔ le ŋuwò, eye woavɔ̃ wò.","Anyigba a dzi jukɔ̃ kataa akpe be apostolo nkɔ̃ le nu o, ayewu avɔ̃.",0.7692,0.4118
+330,Ame si wɔe la tsɔ eƒe mɔkpɔkpɔ da ɖe nu si eya ŋutɔ wɔ la dzi.,"Mesi wòla, tsoi pe mokpokpo dade nusi eya nuto wòla",0.9375,0.3478
+331,Nunyala kpɔa nu le esime bometsila zɔa viviti me.,Nu nyala kple nu le esi me boma chili azo viviti,1.0,0.25
+332,"Ke ne dukɔ aɖe meɖo to o la, mahoe keŋkeŋ, eye matsrɔ̃e gbidii.","na dukɔ ademadotɔ la ma hu ika nkenke, eye ma trɔ̃ gbe di",1.0,0.4043
+333,"Mekpɔe be esia hã, Mawu ƒe asimee wòtsona, elabena ame kae ate ŋu ato Mawu megbe aɖu nu alo aɖu agbe?","Mɔkɔe ba asi aha, mɔfafa asi me wòtso na. Elabena amekae atɔ mɔ wòmgbe adunu? Alo adu agba?",0.9524,0.2949
+334,“Nu ka wɔm nye lɔlɔ̃tɔ le le nye gbedoxɔ la me.,Nuka wom nye loloto le nye gbedoxɔla,0.7273,0.2353
+335,nunya mele tagbɔ nɛ o; eya ta eɖea eɖokui fiaa amewo katã.,Nunya meleta gboné o. Eyata edea edokui fia ama uka,0.8333,0.2222
+336,Miɖe mɔ be Yudatɔwo ƒe mɔmefia kple Yudatɔwo ƒe dumegãwo nagbugbɔ Mawu ƒe aƒe sia atu ɖe teƒe si wònɔ tsã.,"Mide mɔbe, Yudatɔwo fe momefia, play Yudatɔwo fe dumegau, na gblɔ maofa fe sia atu, de ete fe si onochia.",0.8095,0.3294
+337,"Yevuziti aƒo se nyuie, ʋetsuvi anɔ eɖokui tem le anyigba, eye nuɖuɖu magadzro ame o.","Ye wo ziti aposelewo gbe tso wo anɔ edokuiwo tam la nyigba, eye nududu maga dzo ame",1.0,0.3134
+338,"Tso esime menya mi va se ɖe fifi la, aglã ko miedzena ɖe Aƒetɔ ŋu.",Tɔsisi me manya mi vasa da fifila aglãkɔme dze na wò apiti,0.9333,0.32
+339,"Azaria nye fia nyui aɖe eye Yehowa kpɔ ŋudzedze le eŋu abe ale si wòkpɔe le fofoa, Amazia, ŋu ene Le Zekaria ƒe agbenɔɣi la, Uzia dina ɣe sia ɣi be yeadze Mawu ŋu.","Azaria nye fia nyɔnu a eye Yehowa kpɔ ŋutilã le eŋu abe alesi wòkpɔ Elifaz, Bildad kple Zofar ŋu ene. Le Zakaria kple Hagai ŋɔli la, Uzzia di na gbe sia gbe ya ze mawu",0.6176,0.3492
+340,Aƒetɔ be: “Milé ʋɔnu dzɔdzɔe dɔdrɔ̃ me ɖe asi.,"Afeto be, mile vɔ̃nu dɔjuɛ dɔdrowede",0.8889,0.4412
+341,"Woakplɔ wò tedziwo sesẽe le wò ŋkume adzoe, eye womatrɔ wo agbɔe na wò o.","wò akplɔ̀ teji sɔ́ si è, la wò nkúmɔ̀ àdiè, èyá wò ma trɔ̀ wò agbɔ̀ èna wò",1.1333,0.4211
+342,Dɔnunɔlawo katã kple ameawo katã tsɔ woƒe nudzɔdzɔwo vɛ kple dzidzɔ eye woda wo ɖe nudzɔɖaka la me va se ɖe esime wòyɔ banaa.,"Ne nu nola wò kataa, akla ma kataa, chɔwupe nu jɔjɔwu ve. Bleji jɔye wuda wuda nu jɔdaka, la meva sede si me wòyɔ bana.",1.0,0.4059
+343,Ekplɔ eya kple edzikpɔla ɖaɣla ɖe xɔdɔmea ememetɔ me.,"Eple eple, eji kple na agbalẽ, ŋutome ememe",1.0,0.5455
+344,Eya ta mekpe ŋu na Yesu be wòayɔ wo be ye nɔviwo o.,eyata mekpe nu na Yesu be wòayɔ wò be yeanɔ vie,0.5385,0.1579
+345,"Na woanɔ klalo le ŋkeke etɔ̃a gbe, elabe gbe ma gbe la, maɖi va Sinai-to dzi le wo katã ŋkume.",Nɔa nɔ klalo le nkeke etɔ̃a gbɛ. Ele be nàgbɛ gbe ma gbɛla maɖi fa si na etɔ̃ ji le Okotaun,0.8,0.3429
+346,"Ke le eƒe agbe ƒe nuwuwu la, Yuda fia Yehosafat wɔ ɖeka kple Israel fia, Ahazia, ame si nye ame vɔ̃ɖi aɖe.","Kalafo agbafo nu wula, Yuda fia Yehoshaphat wo de ka kple Israel fia Ahaziah. Amesi nye amafodiya",0.7727,0.2875
+347,"Le fia la ƒe gbeɖeɖe nu la, wokpa tsitrenuɖaka aɖe da ɖe gota le Yehowa ƒe gbedoxɔ la ƒe agbo nu.","Lefia lafo gbedodoɖa nu la, wòpaa ɣeyiɣi nuda kaade daade gɔ̃ ta la, Yehowa faa gbedodoɖa ɣeyiɣi aɖe gɔ̃",0.9048,0.5067
+348,"Tete Aƒetɔ gblɔ nam be: ‘Netsɔ nàɖi kaba ayi, elabe wò ame siwo nèkplɔ tso Egipte la wɔ nu tovo.",Aperture Foundation le Canada kple USA le woa me siwo le Egypt la wonu tovo.,0.85,0.589
+349,"Delaya, Tobia kple Nekoda ƒe dzidzimeviwo de ame alafa ade kple blaene-vɔ-eve .","de laia tobe a, ne ku dafe jijime vio de alafe de ne bla ne vo eve",1.3333,0.3651
+350,Sikanutula ɖe sia ɖe ƒe legbawo.,Sika nutula le siade pele gba,1.0,0.1923
+351,"Eɖo eŋu na wo be, “Ɖe miexlẽe kpɔ be le gɔmedzedzea me la, Wɔla la wɔ wo ŋutsu kple nyɔnu o mahã?","Ado, awuna wò bé, dé miéhli kpò bé, lé gòméjéjé amala wòlala wòwò ntukplényo nu omaha.",1.0,0.4583
+352,"Egblɔ na dukɔ la be: “Kaka ŋkeke etɔ̃a gbe naɖo la, ame sia ame nesu te; ame aɖeke megate ɖe nyɔnu ŋu o.","Agbe na zu kɔla be, kaka nka ka tu agbe na dula, ama si ama na sute, amia deke megatere nyonu nu",0.8696,0.2763
+353,"Sixɔn kple Ɔg wonye Amoritɔwo ƒe fia eveawo, ame siwo nɔ Yɔdan tɔsisi la ƒe ɣedzeƒe lɔƒo.","Sikomee, ógíwò nyá mó rítòwò fiafua wu. Amasí ónó yó dántó sí sí lákpá, ézépé",1.0,0.6197
+354,"Gake fifi laa la, medze abe nu sia nu le eƒe dzikpɔkpɔ te ene o.",Meka pipi laala. Maja benu si anu la paji kpɔkpɔ teenu.,1.0,0.3542
+355,"Tete Atalia dze eƒe awuwo eye wòdo ɣli be, “Nugbeɖoɖoe!",Etete atalia je fa wu wo ye wu do griba. Nu gbadu odudu,1.2,0.4186
+356,Yotam ye tu Dzigbegbo ɖe Aƒetɔ ƒe aƒe la ŋu.,"Yoo, tame ye to jigbe gbode, afeto fe afela nu.",1.0,0.3235
+357,Eya ta matrɔ bubu si le wo ŋu la.,Eyata ma tro bubu si le wo nu,0.5556,0.1667
+358,"Elabena aƒe ɖe sia ɖe la, ame aɖee tsoe, gake Mawue nye nu sia nu wɔla.","Agbena, akpe na sia dela, amadui tsuie, take mawu enye nu sia nu wola.",0.75,0.3019
+359,"Aƒetɔ gblɔ nɛ be: “Ɖi yi toa gɔme, ne nàxlɔ̃ nu dukɔ la be womegagbɔ liƒo la dzi, ava gbɔnye be yewoakpɔ nu o, elabe wo dometɔ geɖewo aku.","Apoteti gblɔ na ebe, dzi tu agbɔme na na kplɔ nu ju kɔla be, ome ga gblɔ lifi la di ava gblɔ nye be yewo kpɔ nu o. Ela be odo me tɔ",0.8621,0.3204
+360,Israel ƒe ame bubu siwo gbɔ le ɣe ma ɣi la ƒe ƒomeawo kple xexlẽme le ale: Paros ƒe viwo le ame akpe eve alafa ɖeka kple blaadre-vɔ-eve .,"Israel hamevuvu si ogblɔ mayi la, fefu ma ofe eklemele ale. Faros fe vio le ame akpeve arafa reka",0.8214,0.4095
+361,"Ame siawo hona va tsia Israelviwo gbɔ, eye wogblẽa woƒe agblemenukuwo ɖo ta anyigbeme va se ɖe Gaza ke.","Mesiya woho na vate Israel viwo gbo, anyigba wòpe agbemanuku o. Duta anyigba me vasi Gaza",0.9474,0.3133
+362,Adin ƒe viwo le ame alafa ade kple blaatɔ̃ vɔ atɔ̃ .,Adufe vio la malafe ade bleble aton vo aton.,0.9091,0.3947
+363,"Ke baba na ame si tsi akogo, elabe ne edze anyi la, eƒe evelia meli afɔe o.","Baba na me si chiakogo, elabe ne ja nyila, efe velia me li afu",0.7059,0.25
+364,"Ne èwɔ wo, eye nèlia wo la, ame aɖe ate ŋu awu mo dzi, eye wòakpɔ wò amame to wò awu ʋlaya la te.","na ewo o, anyi na lia wula, ama da tenwa wu moji, anyi wa kpo wa ma ma to wa wula ya late.",0.9583,0.3571
+365,"Ke mi ame siwo katã ku ɖe Yehowa, miaƒe Mawu la ŋuti la, miegale agbe va se ɖe egbe.","Mía Mawu la ŋuti la, míegblɔ vasa de",0.7895,0.6508
+366,"Ke woayra miaƒe ŋkuwo, elabena wokpɔa nu kple miaƒe towo hã elabena wosea nu.","Kpɔ wayi la miafe nku o. Alaba na wo kpo nu. Kpɔ miafe to ha, alaba na wo se nu.",1.2857,0.3387
+367,"Tso Imer ƒe dzidzimeviwo me, ame akpe ɖeka kple blaatɔ̃ vɔ eve .","Tso eme, fä dzi le vie me. Ama kple ka blebla tɔn vɔ̃ eve.",0.8333,0.3469
+368,nunya kple gɔmesese ƒe gbɔgbɔ; aɖaŋudede kple ŋusẽ ƒe gbɔgbɔ kple sidzedze.,nu nya kple gɔmesese fe gbegbɔ̃ adaŋdɛdɛ kple nu sefe gbegbɔ̃ kple sɔsrɔ̃,0.75,0.2742
+369,"Tete Yehowa ƒe nya va nam zi evelia be, “Tsɔ alidziblanu si nèƒle tsɔ bla ali dzi la, nàyi ɖe Frat azɔ eye nàɣlae ɖe kpetome le afi ma.","Tete Yehova ape nya vana mzi eveliabe, tso aligibla nu si neple tso bla aligila na yire frat azo eye na gbla edekpetu me la afi",0.7931,0.2136
+370,Ede ta agu na toa eye wògbugbɔ nu nɛ.,"Aɖe taa gunadua, eye wògugbɔ nu",0.7778,0.25
+371,Miyi ɖanɔ miaƒe teƒewo ko ne miakpɔ ale si Mawu aɖe mi nukutɔe la ɖa.,"Mía nɔmiawo tɔpɛ uku, ne miakpɔ lesi mawa ademii nukutoila da.",0.8667,0.3519
+372,"Le ŋkeke ade me la, nuɖuɖu sia anɔ anyi miayi aɖalɔ; ke le ŋkeke adrẽa gbe, si nye dzudzɔgbe la, miele ɖeke kpɔ ge o.","Kele nke ke adimela, unu duso ya ano anyi, mee ayi adalo. Kele nke ke adiri gbe, si ya juju gbele, mee lede kpo ge",0.88,0.3636
+373,alo nanyo sãa wu gɔ̃ hã.,"Alo, nanyo sã wògɔ̃ ha?",0.6667,0.1765
+374,"wò Xɔnametɔ kple wò Ɖela, Yakob ƒe Ŋusẽtɔ la.",Wòxo na mɔtɔkplɔ̃wòdela Jacob Fiawosetɔla.,1.0,0.3429
+375,"“Nyateƒe, mele egblɔm na mi be nu sia nu si miabla le anyigba dzi la anɔ babla le dziƒo, eye nu sia nu si miatu le anyigba dzi la anɔ tutu le dziƒo.","Nyatefe, mala agblɔm na mi be, nusianu si miabla le anyigba dzi la, anɔ babla le dziƒo. Eye nusianu si miatu le anyigba dzi la, anɔ tutu le dziƒo.",0.2727,0.0357
+376,Wotia Levitɔ siwo xɔ ƒe blaeve alo wu nenema la be woakpɔ Yehowa ƒe aƒe la ƒe dɔ dzi.,"wò ti a le fi tọsi ọmọ fẹlẹfẹlẹ, alọwọ nẹnemala abẹ, wọ akpọ ihu afafe lafẹdọji",1.0,0.5152
+377,"Togbɔ be miesɔ gbɔ abe ɣletiviwo le dziŋgɔli me ene hã la, ame ʋɛ aɖewo koe latsi agbe le mia dome, elabe mieɖo to Aƒetɔ, mia Mawu ƒe gbe o.","Togbuiwo, miensogbo. Abolo le TV la dzi, ngo lima ene hala. Ama veado ko e la ti agba le mia dome. Olabo, miado to afeto, ya mawu pegbe.",0.8,0.3458
+378,Tirotɔ siwo nɔ dua me la hã tsɔa tɔmelã kple nu bubu geɖewo vanɛ va dzrana na Yudatɔwo le dzudzɔgbe la le Yerusalem.,"Tiroto, siɔ̃ nɔ duamelaa haa, tua tomelaa, pleŋ bubu gede o, vanɛ, vadrena na Yudatɔo le Dudugbela le Yerusalem.",0.7391,0.2258
+379,"Wobia be, “Afi ka ame sia xɔ nunya kple nukunu gã siwo wɔm wòle la tsoe mahã?","Wò bia be, Afrika amesia xɔ nu ya, le nu kunu ga si wòwɔm wòle la chué mah?",0.8824,0.2069
+380,"Yehowa do dɔmedzoe ɖe wo ŋu vevie, eye wotrɔ dzo.","Yehowa do domo dzi, de wo nuvevi e. Eya wo tro",0.8,0.2632
+381,eye mado dzidzɔ na wo le nye gbedoxɔ me.,Mayi madodojo na wo le nye gbedoxom.,0.5556,0.3226
+382,"Anye ŋkekenyui na mi, mianɔ ɖuɖum ƒe sia ƒe tso dzidzime yi dzidzime.",Anyenke kanyi na mi? Miano dudu pasiapa to jiji me yi jiji me.,0.8462,0.3636
+383,Ale dɔ si wɔm wonɔ le Mawu ƒe gbedoxɔ la ŋu le Yerusalem la tɔ va se ɖe Persia fia Darius ƒe fiaɖuɖu ƒe ƒe evelia me.,Ale dɔ si wòmu nɔ le maʋuʋu gbe duho la ŋu le Yerusalem la tɔte. La sɔdepesi afia Daros fefia rudu fefe veliame.,0.6667,0.2556
+384,Israel-dukɔ ƒe ametsitsiwo dometɔ bla adrẽ le tsitre dze ŋgɔ wo.,Eze du kope ameti o dometo Bla Andre le titre Djongo,1.0,0.4038
+385,"le fɔfɔlĩwo, sesewuwo kple logotiwo te.","ne fo foni o, sese wo o, le logoti",1.5,0.4375
+386,"Elabena anye ne vɔsa la kɔ ame siwo sanɛ la ŋuti zi ɖeka hena ɣeyiɣiawo katã, eye woƒe dzitsinyawo magabu fɔ wo le woƒe nu vɔ̃wo ta o.","Lalabena, anye ne vosala ko amesiawu sanila nguti zi deka. Ena wuiwu kata, eye wukpoji ci nya wu maga bu kpo wu le ukpo nuwu tao.",0.8929,0.3654
+387,"Tete wòkplɔm tso gota ge ɖe xɔxɔnu emetɔ la me, eye kpɔ ɖa, xɔvi eve le xɔxɔnu emetɔ la me.","Etete wo kplom to agbata, gede hoho nu, ametola me. Anyi ekpoda, hovi eve le hoho nu ametola me.",0.8,0.3913
+388,"Le esia megbe la, wodzo le Hazerot, eye woƒu asaɖa anyi ɖe Paran gbedzi.","Le siamégbela, wo jo le ha zãgbãwo me eye wo fu asada anyi le paran gbeji.",0.8571,0.2857
+389,hele dzidzɔ kpɔm le gbolowɔwɔ ŋu.,Ele tsítsɔ́ kpɔ́ le gbɔlɔwɔ,0.8333,0.4444
+390,Akpa sia dze ŋgɔ togbɛ si lia yi aʋawɔnuxɔ gbɔ.,"akpasiadzenu, togbe, silia ye afa unu xo",1.0,0.3243
+391,Fia Artazerses ƒe agbalẽ si wòŋlɔ na Ezra.,fia Artaxerxes fa gbalẽ si wòŋlɔ na Ezra,0.375,0.1176
+392,Wowɔa esia enuenu eye wokpɔ ga home gã aɖe.,Owa si anu anu ye wo kpo ga hu me ga,1.1111,0.3235
+393,Exɔ ƒe blaetɔ̃-vɔ-eve esi wòdze fiaɖuɖu gɔme eye wòɖu fia ƒe enyi le Yerusalem.,"Aƒe blibo to vovo, esi wòfia ru lugbɔ̃, eye wòfia afɔ nyile Yerusalem.",0.8571,0.371
+394,Egipte Fiagã vinyɔnu va tsi le ge le tɔsisia me.,Egyptians ya ga vinyonu va ti le gele to si sia,0.9,0.3158
+395,"Le ŋkeke etɔ̃ me la, Yuda kple Benyamin ŋutsuwo katã va ƒo ƒu ɖe Yerusalem.","Le ŋkeke tɔme la, Yuda kple Benyamin viwo katã va ƒo fu le Yerusalem.",0.3333,0.1379
+396,"Israel fia Yehoas lé Amazia, Yuda fia, ame si nye Yoas ƒe vi, Ahazia ƒe vi le Bet Semes.","Yanu hã ma nya o, ulata. Azola, Yudafia mazi asepu adaŋu dula ukpegbe. Eya wòhu afãda Israel fia, Yoas, Yehoahas fovi, ple Yehu fwetogbe",1.2632,1.1667
+397,eye wòɖo Beer-Elim gɔ̃ hã.,Wòdò bière elim go,1.0,0.5789
+398,"Ke ɣeyiɣia de vɔ, menye beblee o.","kaka yi adevo, manya be",1.0,0.52
+399,"Mienoa nu gake meɖia kɔ na mi o, mietaa avɔ gake medea dzo lãme na mi o.","Mienu anu, kake media ko na mi o. Mienu ta vo, kake media jo na mi o.",0.6471,0.2963
+400,"Ame aɖeke mawɔ dɔ aɖeke le ŋkeke eve mawo dzi o, negbe nu si miaɖu gbe ma gbe ko miaɖa.","Mía le kemawu, do le kemawu le Mawu di o. Na gbe nusumia du gbe ma gbe ko mia du.",0.75,0.3485
+401,Le blema la Mawu ƒo nu na mia fofowo zi geɖe to mɔ vovovowo dzi to Nyagblɔɖilawo dzi.,"le blɔ̃ mala, mawu kpɔnuna mia fofo zigede to mɔ vovooji to nya gblɔdilawo ji",0.7222,0.2239
+402,Nenema ke wosa vɔ siwo nye lɔlɔ̃nununana na Yehowa.,Nye mawu ka wo savosio nyrolo nu na na na Jehovah.,1.1111,0.3902
+403,Mose va gblɔ Aƒetɔ ƒe nyaawo katã kple ɖoɖoawo katã na dukɔ la; tete dukɔ la lɔ̃ ɖe wo dzi kple gbe ɖeka be: “Míawɔ nu siwo katã Aƒetɔ gblɔ na mí la.,"Mɔ se va, wo aputɔ aputɔ nyawo kple dɔwɔnawo dukɔla. Tete dukɔlawo nɔ de wò dzi kple gbedodoɖa be miawɔ nusiwo katã aputɔ gblɔ na mi la.",0.7273,0.3661
+404,"Le ɣleti adrelia me esi Israelviwo nɔ woƒe duwo me nyuie vɔ la, dukɔ la ƒo ƒu ɖe Yerusalem abe ame ɖekawo ene.","Le leti adriame, esi Israel viwo no fe duo me nwi vɔla dukɔla fofode Yerusalem, abe amereka ene",0.7826,0.1977
+405,Mefɔ Tobiya ƒe xɔ me nuwo katã ƒu gbe ɖe gota.,"Mawu tobi aƒe, xɔ́menuo kple aƒugbedodo",1.0,0.4
+406,"“Emegbe la wogblɔ na gboti be, ‘Va ɖu fia ɖe mía dzi.","Eme gbelu ogru na agbo ti be, fa dufiara mi aji, ke gbo ti donu na obe. De ma jijo nye ku vivi, nga ne ocheche, be ma dufiara ti oji a. Ogru na wine ka be, fa dufiara mi aji.",3.25,2.5789
+407,Ame sia ame nenɔ afi si wòle le ŋkeke adrelia gbe; ame aɖeke megado go o.,Amesi a menye nɔvi si wòle le kadodoli agbe. Amadeka mega dogo,0.8125,0.2679
+408,"Ke Yuda gblɔ be: “Míelɔ gli gbagbã ʋuu ɖeɖi te, gake gli gbagbãa gali zã wòle be míalɔ.","Ke yoo da gbolobe, me lo gligbagba fu ododite, ke gligbagba gali sa, wolebe me lo",0.8889,0.3182
+409,"Ne futɔwo ɖe to ɖe wò dua, eye woxaxa wò ɖo la, adi nuɖuɖu kutɔkutɔe, ke makpɔe o.","Nafuta o da to da wo dua, ayewu ha ha wo. Dola, adin rodu kutakuto e ke ma kpe",0.8889,0.3607
+410,"Azɔ Yesu do lo sia be, “Dziƒofiaɖuƒe la sɔ kple fia aɖe si di be yeawɔ akɔnta kple eƒe dɔlawo la.",Aza Yesu dɔ lɔ̃sia be Jifodola sɔkplefia ade si di be yeawɔ akonta kple efodola,0.6667,0.2838
+411,Gbe ma gbe Yesu do go tso aƒea me yi ɖanɔ anyi ɖe ƒua nu.,"Gbe ma gbe, Yesu do go cho afama, ira no anyi da fuo",0.5333,0.3333
+412,"Mose ku lãwo ƒe ʋu tso zeawo me hlẽ ɖe ameawo dome hegblɔ be, “Ʋu sia ɖo kpe nubabla si Yehowa wɔ kpli mí to Se siawo nana mí me la dzi, eye wòtre nubabla la nu.",Mɔse ku laawo kple vucho zaawo me hã de amawo dome hã gblɔ be vuvɔsia do kpe nu ba bla si Yehowa wo plimi to sesẽ siawo nana mi me laji. Eya ta nu bla bla la,0.7838,0.2893
+413,"Dukɔ blibo la ɖo eŋu hoo be: “Nu sia nu si Aƒetɔ gblɔ ko la, míawɔe.","Nu kple bola do nu hobe, nu sia nu sia puto gbonkola miawoe.",0.8125,0.3061
+414,” Ke ɖe woɖoe be mava ko ne yewoawɔ nu vevim le afi ma.,De o du e be mava ko na yu awu nuve fim la fim,0.8462,0.35
+415,” Ale tɔdziʋuawo gbã le mɔa dzi eye womete ŋu ɖo Tarsis o.,"Ale toji wao gba le mo aji eye, umeta wu do taxis o.",0.75,0.3864
+416,Tete nusrɔ̃lawo va Yesu gbɔ biae be: “Nu ka ta nèle nu ƒom na ameawo le lododowo me?,Dɔkta nusɔlaa va Yesu gbe biabia nɔkta la nɔ kpɔna amewo le lododo,0.8333,0.3968
+417,"Nunɔlaawo kple Levitɔwo kɔ wo ɖokuiwo ŋu, ale wo katã wonɔ kɔkɔe le se la nu.","Nunola kpɔle le wito kawo dome, ale wòkata ŋunokowo le sela nu.",0.8125,0.4333
+418,"Dadaa ŋkɔe nye Yehoadin, tso Yerusalem.",Nadan kple yehowa di tso Yerusalem.,0.6667,0.2812
+419,Dzudzɔgbewo kple gbeƒãɖeɖe takpegbewo o.,"dzo gba o, gba fa dada, ta gba o",1.6,0.6571
+420,"Esi Elyasib do ƒome kple Tobiya ta la, edzra xɔdɔme lolotɔ ɖeka me ɖo tsɔ na Tobiya.","Esi Eliab, dofomekple Tobias tala, edra kpo dome lolo to le kamedo tso na Tobias",0.8824,0.2576
+421,"Mi Levitɔwo ƒe viwo, mitsɔ aʋawɔnuwo ɖe asi, midzɔ fia la ŋu eye miawu ame sia ame si adze mi age ɖe gbedoxɔ la me.","Míle vítówo fa vío, mítsɔ̃ ava nuwó da sí, míjɔ̃ fiala ŋu eye míawu amesia amesia je mí, agede gbedohɔ̃la",0.92,0.2955
+422,Mèɖo ŋku nu si dzɔ ɖe Kustɔwo kple Libiatɔwo kple woƒe aʋakɔ gã la kple woƒe tasiaɖamwo kple sɔdolawo katã dzi oa?,Mado nku nu si jọde ku stọwụ kple libiatọwụ kple wụfa akọngala kple wụfa tasi Adam wụ kple sọdụla wụkata ji,0.7727,0.337
+423,Dzɔgbesee ɖoa nu sia nu dana ɖi; woɖo nu sia nu si ame ava zu la da ɖi xoxo.,Dzo gba se do anu sia anu da na di. Wo do anu sia anu si ama ava zula da di ho,0.9474,0.25
+424,eye wò akplɔwo nye keklẽ le dzo kem la.,wo akplɔ wo nyatakala le dzokplɔm,0.8889,0.4333
+425,Ne mia viwo abia be: ‘Miaƒe subɔsubɔ sia gɔme ɖe?,"Na mi avio a bia mi ba, mi ba subo subo si ago",1.3,0.4054
+426,"Le teƒe ma la, míenɔa anyi ƒoa xlã lã siwo míeɖa la ƒe zewo, eye míeɖua nu si míedi la, gake miekplɔ mí va gbegbe afi sia be dɔ nawu mí míaku.","Le tefe mala, mi noanyi fu akla la si o mie da la gbe ze o. Eye mi du anu si mi di la, ake mi kplo mi va gbegbe afi sia gbe do na wu mi mi",0.9062,0.2991
+427,"Le nyateƒe me la, eya ŋutɔ hã tsi dzi na dodo elabena Yehowa ƒoe vevie.","Le nya tefe mela, ayanu toha chi ji na dudu la buna, ye hu afui vevie.",0.9333,0.3273
+428,"Levi viwo ƒe amegãwo: Xasabya, Sevebya kple Yesua, Kadmiel vi la.","Lele viviofe amegãwo, asabia, sevebia kple Yesua, kadmiel",0.6364,0.2157
+429,"Ne wò futɔwo ɖe to ɖe wò duwo, eye woxaxa wò ɖo la, nuɖuɖukpɔkpɔ asesẽ na wò ale gbegbe be àɖu wò ŋutɔ viwò ŋutsu kple viwò nyɔnu, siwo Aƒetɔ na wò la ƒe lã gɔ̃.","naa afutɔw deto dewu juo, eyi wò ha ha wòdola. Nudodo kpɔkpɔ a sese naa wò, ale gbegbe aduo ntɔ vuo, ntuo kple vuo nyonuwo siwo aputɔ naa wò la",0.7778,0.4132
+430,ame siwo katã susɔ le dukɔwo me la aha wò.,Ametsiwo kple ta susɔ le dukɔa me la agahu.,0.6,0.3125
+431,"Ne wodo ha ɖa la, Bakbukya kple Umi ye xenɛ.","na odo halala, bakubuki a, ple umie",1.0,0.3333
+432,Ke edo dɔmedzoe ɖe ŋunye ɖe miawo ta.,Ado do meju ye de nuya de miawu,1.0,0.5172
+433,"Ame aɖeke maka asi sedzidala sia ŋu o, ke boŋ woaƒu kpee alo woatee kple da wòaku.","Amade ka ma ka asi, seji dala sia nu o, ke bo nua fu kpe alo wate ple da wa",0.8235,0.2656
+434,"Miedze nyanyui bubu aɖe yome, evɔ la, nyanyui bubu aɖeke megali wu esi míefia mi o.",Nye je nyanyi bubu adeyoma. Evola. Nyanyi bubu adeka megaliwu asi nye fiami,0.9375,0.2308
+435,le vava ge la ŋuti eye mada le edzi o; ke ne ehe ɖe megbe hã la.,E ma da le eji o. Kene ehedemegbe ha,0.8824,0.4565
+436,"’ ” Ameawo katã de ta agu, eye wosubɔ Mawu.","Amawu kata detagu, ayewu subo mawu.",0.875,0.2333
+437,"Esia tae Yesu hã kpe fu le du la ƒe agbo godo be wòakɔ eƒe amewo ŋu, awɔ wo kɔkɔe to eya ŋutɔ ƒe ʋu la me.",Yesu Kristo ha kple dula kple agbogbodo kple wòkɔkɔe to eya ŋutɔ ƒe vula,0.8148,0.5128
+438,Zi gbãtɔ nye esi woho esi Aƒetɔ de se na wo to Mose dzi.,"Zigbã tɔ nye esi, oho esi, apostolo dze na wu to me wòse",0.6429,0.381
+439,Abimelek tsɔ eƒe nake tu mɔ la ƒe gli ŋu eya ta ameawo hã wɔ nenema ke.,"Avimale, tsofe nake tumola fe glin, eyata meawu ha wòle nimeake.",0.9412,0.3148
+440,"Emegbe la, Baruk, Zebai ƒe vi, ɖo gli la tso dzogoe la dzi yi Eliasib, nunɔlagã la, ƒe aƒe gbɔ.","amegbela, baruk, zebaefe vi, dogli la chochogui laji, yeleasi nu no la ganla fafe",0.8,0.3429
+441,Le esia ta mia vinyɔnuviwo zu gbolowo.,"Mía sia ta, miavinɔnuviwo zɔ gbolo.",0.8571,0.2258
+442,"Esia ta Fia Herod yɔ Yudatɔwo ƒe nunɔlagãwo kple agbalẽfialawo katã ƒo ƒu, eye wòbia du si me woadzi Kristo le la wo.","Mía siatafia hedo, yoo, yuda tɔwoe nu nɔla gawo, le agbalẽ fialawo kple ofu. Eyae wobia dusi ma woji Kristo le",0.913,0.2796
+443,miekpɔa dzidzɔ le la ŋu; woade ŋukpe mo na mi le.,"nye kpo adidzo le lanu, wada nukpe mu na mi",0.8182,0.3243
+444,"Wozɔ ɖe Yuda dzi, ge ɖe woƒe anyigba dzi; wotsɔ nu xɔasi ɖe sia ɖe si nɔ fiasã la me eye wolé fia la ƒe viwo kple srɔ̃awo dzoe.","Wòzò da yoo daanyi, gade wò paanyi maanyi, wò chò nu hwasi de siade si nò fia salama. Eye wò le fia lape vio kple sroò",0.8621,0.4211
+445,” Yesu gblɔ nɛ be: “Menyo be woatsɔ ɖeviwo ƒe nuɖuɖu aƒu gbe na avuviwo o.,nevers,1.0,0.9273
+446,"Ɣe ma ɣi la, ɣe, kekeli, ɣleti kple ɣletiviwo ado viviti, eye alilikpowo akplɔ tsidzadza ɖo.",Emaila re kekeli leti kple letivio adoviviti ayee alilikpo akplɔtija ja,0.875,0.2361
+447,Via Axaz zu fia ɖe eteƒe.,fia aha zofia de etefe,1.0,0.3158
+448,Esia hã nu dzodzro kple yadɔ ko wònye.,"Mese ya ha, nu dodo, mele ya doko",1.0,0.5
+449,"Ke Tekoatɔwo ƒe bubumewo ya gbe, womede asi woƒe aƒetɔ ƒe dɔ la me o.",tekpo atope bubu mawo ya gbe. Ome de asi ope apetope dolame,0.8667,0.283
+450,"Enumake eɖo du ɖe Abimelek le Aruma be, “Gaal, Ebed ƒe vi kple eƒe ƒometɔwo ʋu va le Sekem eye wole aɖaŋu vɔ̃ ɖom na amewo be woatso ɖe ŋuwò.","Aru ma ka edo dude abimelek le aru mabe. Gaal, ebede fevi, plefa fumeto vuva le sikem eye wola danvo do na meobe wa chode ngu.",0.8333,0.3178
+451,"Abimelek da aʋalɔgo ɖeka ɖe dua ƒe agbo nu ale be Sekemtɔwo ƒe aʋawɔlawo mate ŋu atrɔ, asi yi dua me o, le esime aʋalɔgo eve bubuawo nɔ wo wum le gbedzi.","Afi malé, da avalogo deka, de duafa gbonu. Alebe sike ntoa fa avalo la o, ma tinwa tro o. Asee duameo. Le sime avalogo eve bugbui noa owu mu legbe",0.9375,0.3529
+452,Etsɔ hã anɔ abe egbe ene; anyo wui sãa.,Atoha anuabe egbe ne anyowisan.,0.8889,0.3103
+453,"Azɔ la, mele se dem be, ne Israelvi aɖe si le nye fiaɖuƒe me kple nunɔla alo Levitɔ siwo di be yewoayi Yerusalem kpli wò la, woayi faa.","Azɔ̃ la, mele sém be le Israel viade si le nye fiaruffe me, mele nu nɔla alo le wito si odi be yeava Yerusalem kple wula, wòayi fa",0.6786,0.2019
+454,Le ɣleti adrelia me esi Israelviwo yi woƒe duwo me vɔ la.,Leleti adrliame esi Israel viwo yewu fa do me vɔla.,0.9167,0.1778
+455,Esia anye ŋkuɖodzinu kple dzesi mavɔ.,Esia anya nukodo jinu ne jeshi mavo,1.0,0.4194
+456,"” Ezra tso, eye wòna nunɔlawo ƒe amegãwo kple Levi viwo kpakple Israel blibo la katã ka atam be yewoawɔ nya la dzi.",Israel to,0.9545,0.9111
+457,"Woƒe kplɔlae nye Netanel, Zuar ƒe viŋutsu.",Wòfa kplɔ́ la yi Nathaniel. Zɔ́ afɔ́ eví nù,1.2857,0.5294
+458,eye woƒe tasiaɖamwo ƒe afɔwo le abe yali ene.,"Eye, o fatasia dam wo, fa afo le aba yali",0.8889,0.3333
+459,"Le teƒe si ɖi eƒe ali ƒe anyi me la, nane li abe dzo ene, eye le eƒe ali ƒe dzime la, nane ɖi keklẽ si le dzo dam abe akɔbli ene.",Etepe si di epe alife anyimela na nelli abedzo ene. Ayere epe alife jimela na di keklen tsile dzo dam abee akobli ene.,0.8438,0.2128
+460,"Ɛ̃, ɖo ŋku wò Wɔla dzi le wò ɖekakpuiŋkekewo me.","Donkoro walahi, lewode ka kple kawo ma",1.0,0.4722
+461,eye wowɔ tɔnye gome si doa dzidzɔ nam la.,Mèye wo wo tɔnyogome si du adidzo na,0.8889,0.3125
+462,"Amewo katã ate ŋu akpɔe, elabena etsi tsitre ɖe kɔkɔƒe, eye esi wòʋu agbalẽa la, ameawo katã tsi tsitre.",Amawukata atɔ̃ae kple. Ela be na echichitre de kɔkɔɔ fe. Eye esi ofu agbalẽ la. Amawukata chichitre,0.8421,0.3171
+463,"Yotam tu Dzigbegbo ɖe gbedoxɔ la ŋu eye wògbugbɔ gli siwo le Ofel toa dzi, afi si gbedoxɔ la le la ƒe akpa gã aɖe tu.","Yoo, taa ntu ji gbagbo de gbedoxola nu. Anyi ewo gbugbo glesi o le ofel tuaji. Afi si gbedoxola le la po akpa ga de",0.8077,0.2889
+464,Yuda viwo ƒe asaɖa lae hona gbã kple woƒe aflaga hamehame.,"Nu daviwo ƒe asadalae wona gban, ke wofe aflanga hamham",0.9091,0.234
+465,Lo bubu si wògado na wo lae nye esi: “Dziƒofiaɖuƒe la le abe ʋuti ƒe ku si nye atikutsetse suetɔ kekeake si wodo ɖe anyigba ƒe tu me ene.,"lo bubu si wo ga do na wula nye si, dzi fo felele abe vutife ku, si nye atikucheche si to kekeake, si wo do re anyi gbafe tuma",0.7241,0.2453
+466,Miɖo ŋku edzi be miekpɔ mɔ awɔ legba aɖeke kple klosalo alo sika alo kple nu bubu aɖeke asubɔ o!,"Edo nkwa dzi bae me kpo mo, awo lagba dika kple klusa lu alu si ka alu kple nu bubu dika asu bo",0.95,0.3289
+467,eye ŋukpe alé wo le woƒe vɔsamlekpuiwo ta.,"Eye, nupe a le wo le wo pe wo sa me kplui o ta.",1.25,0.2647
+468,Agbo aɖe dze ŋgɔ agbo si le dzigbeme la hege ɖe xɔxɔnu emetɔ la me abe ale si wònɔ le ɣedzeƒegbo la gome ene.,"Agbo ana je ngo agbo si le jigbeme la, hege ne hoho nu emetola me, abe ale si wo no le regefe gbo lago me",0.5833,0.2706
+469,” Tobiya Amontɔ la hã nɔ exa hafi wònɔ nyaa gblɔm.,"Tobia, amon tɔla ha nɔ eha afi wònye enyaglɔ",0.9,0.2632
+470,” Ke via Yotam ɖu fia ɖe eteƒe.,ke viawo tawu fia de etape,0.7143,0.2727
+471,"Tete Mose kplɔ dukɔ la tso asaɖa la me yi Mawu kpe ge, eye wotsi tsitre ɖe toa gɔme.",Mɔ sesẽ dɔwɔla to asadalama le amawupɔga eye wòtiti trɔ dɔ agom.,0.9474,0.4688
+472,Levi viwo nye dɔnunɔlawo akpe ɖe mia ŋu.,"Le vivio nye, do nu nolawo akpe na mi",1.0,0.25
+473,Woŋlɔ Asa ƒe ŋutinya mamlɛawo ɖe Israel fiawo kple Yuda fiawo ƒe Ŋutinyagbalẽwo me.,Wò nglɔ̃ asa be nùtinya ma mli eude Israel fiawo kple Yuda fiawo pe nùtinya gbalẽwo.,0.7143,0.2319
+474,"Mele egblɔm na mi be, Mawu ƒe gbeƒãɖela kple ame dzɔdzɔe geɖewo di vevie be yewoakpɔ nu si kpɔm miele la, gake womekpɔe o.","Mylord, bonami be, mawu fe gba pande la, le amegbetɔwo dome, dzi vevie be, woakpo nu si kpo mi elela, ka ke omekpe o.",0.7917,0.375
+475,Abimelek wu nɔvia ŋutsuwo eye woɖoe fiae le Sekem.,"Abimelek wò nɔ vɔ̃ŋu cho, eye wò do efia le sika",0.8889,0.3171
+476,"“Kpɔ ɖa, mexɔ kplu si na nèle mumum sɔgɔsɔgɔ la le asiwò.","Wòda, mèxɔ krusina le lamumu sɔgɔsɔgɔ la le asi",0.75,0.3023
+477,"Eyome wokɔ glia ŋu va ɖo Xɔ Tsrala Alafa gbɔ, eye woyi edzi va se ɖe Xɔ Tsrala Xananel gbɔ.","Ayo me, oko gliwu vado xotrala alafe gbo, anyewoyi eji vasere xotrala Hanan el",1.0,0.3
+478,goe tso Egipte ene.,Míegblɔ Egypt ene.,0.75,0.5333
+479,"Ɖe menye ame siwo wɔ nu vɔ̃, eye woƒe ŋutilã kukuwo tsi gbea dzi lae oa?","enye manye amasi wo wonuvo, eyi ukpe nwuti la kwukwu ochigba ajila o",1.0,0.4444
+480,"Wotrɔna gbɔna kple ze ƒuƒluwo, ŋu kpea wo.",utro na gbon na place zefu fluo ngupa,1.0,0.5152
+481,"Elabena afi si ame eve alo etɔ̃ ƒo ƒu ɖo le nye ŋkɔ me la, manɔ wo dome.","Mía labena, afisi ame eve alo etɔ̃ ƒe fudo le nya kɔm la, ma nɔ wo dome.",0.6111,0.1731
+482,"Miɖe gbeƒã na Israelviwo katã be le ɣleti sia ƒe ŋkeke ewolia dzi la, ŋutsu ɖe sia ɖe nalé alẽvi ɖeka na eƒe ƒome, alẽ ɖeka ɖe aƒekɔ ɖeka ɖe sia ɖe nu.","Míedogbe fa na Israel viwo katã be le Letisiafo nkeke wòlia dzi la, miuchu desiaɖe na alẽ alẽvi de ka na aƒe ƒome. Alẽ de ka de aƒekɔ de ka desiaɖe",0.7576,0.2328
+483,Mado wo kpɔ le nu sia me akpɔ be woawɔ ɖe nye ɖoɖowo dzi mahã.,"Mado kplɔ̃ lenu si amewo akpɔ ba, wòawɔ dɔ nyui dodozi mahã.",0.8,0.3191
+484,"Ƒe aɖewo megbe la, Yosafat ɖi tsa yi Samaria-du me be yeaɖakpɔ Axab ɖa.","Mawu do megbe la, Yosefa di tsayi samari aju me, be ya da kpo Ahab",0.7857,0.2727
+485,Nu ka koŋ woate ŋu asrɔ̃ tso legba siwo nye.,Meka kɔm wòtɛnu asrɔ̃ to legba si onye,0.8,0.303
+486,"Ke nya si ge ɖe anyigba nyui dzi lae nye ame si sea nya la, eye wòsea egɔme.","Ganya si gɔ̃ a, anyigba nyui dzi la enya, amasisia nyala, eyewoe si agoma.",0.7778,0.2456
+487,“Nu kae nye amegbetɔ be nèbua eŋuti.,Nu ka nya amegbetɔ be na gbɔ eŋuti?,0.5714,0.2143
+488,Gasmu hã gblɔ nya sia mese.,Gake meha gblɔ nya sia.,0.5,0.381
+489,Elabena ele abe yɔdo si nu meɖia kɔ na o ene.,Ela be na ela be yodo si nu me di akona o,0.9091,0.2059
+490,"Ke Zerubabel, Yesua kple Israel ƒe ƒomeawo ƒe tatɔwo ɖo ŋu na wo be, “Miakpɔ gome le gbedoxɔ tutu na míaƒe Mawu la me o.","Kezerubabel, yesu a, Israel fofomawo, fe tata odonwu na wube, miakpo gome, le gbedodo ho tutu na miafe mawula me.",0.76,0.25
+491,"Elabena Mawu naa nunya, gɔmesese kple dzidzɔ ame siwo ŋu wòkpɔ ŋudzedze le, ke etsɔa dɔ sesẽ wɔwɔ na nu vɔ̃ wɔlawo be woaƒo ƒu nu alo ali kɔ nu, ale be Mawu natsɔ wo ana ame si dze eŋu.","Allah ba na mawu na anu ya, gɔmesese kple jijɔ amesiwo nu wòkpɔ nu jejele. Ke eya tɔ dɔsesẽ wòwo na anu fa wòla ugbɛ, wòfɔfɔ nu alo alikɔ nu. Alebe mawu na chɔwu ana amesi je",0.8,0.2979
+492,"Emegbe la, melé ŋku ɖe ameteteɖeanyi siwo katã le xexea me la ŋu.","Amegbala, mele kukum be amatata danyi sio kple ta le hehe amewo",1.0,0.451
+493,Elabena ame kae nya etsɔ me?,Mía la bɔna amekanya ẽtɔ̃me.,1.0,0.3182
+494,Zakai ƒe viwo le ame alafa adre kple blaade .,Zaka yafewu la malafe adre bleble adre.,0.8889,0.3714
+495,"Ewɔ nuteƒe na Mawu, ame si tiae abe ale si Mose hã wɔ nuteƒe le nuwo katã me le Mawu ƒe aƒe me la ene.","awu nutefe na mawu, amesi tia abae alesi mose ha awu nutefe le nu kata me le mawu fe ape me la",0.64,0.2237
+496,"Gaal do ɣli be, “Ame kae nye Abimelek eye nu ka ta wòanye míaƒe fia?","gaa do libe, amekanyi abi malek, eye nukata wanye miafe",0.8667,0.2157
+497,Menye nenemae kura o; ke boŋ woƒe nuvɔ̃ɖi wɔwɔ tae Aƒetɔ ɖo be yeanyà wo ɖa le ŋgɔwò ɖo.,Ménye nenema kura o. Gake womenu vɔ̃di wòwò ta yi apotɔ dɔbe ya nya wòda le ngɔwò.,0.8421,0.3582
+498,"Bakbuk, Hakufa, Harhur.",back book akufa hahu,1.3333,0.3333
+499,Meɖe mi tso Egiptetɔwo kple ame siwo katã te mi ɖe anyi la si me.,Mede mi to Egypt etɔ̃ kple Amasokata te mede anyi lasi,0.8,0.26
+500,"Mele egblɔm na mi nyateƒetɔe be, nyagblɔɖila geɖewo kple ame dzɔdzɔe geɖewo di vevie be yewoakpɔ nu siwo kpɔm miele, eye yewoase nya siwo sem miele la, gake womete ŋui o.","Mala agblɔm na mi nya tapeta ʋe, nya gblɔdi la ge de ʋu, kple ame jojoe ge de ʋu, diʋe vie be yeaʋa kpo nu si ʋu kpo miele. Eye yeaʋa se nya si ʋu se miele la, ga ke ʋu mɔ tanwi",1.0323,0.3015
+501,eye gbemetiwo katã asi akpe kplokplokplo.,"Ayi gbe me tu ka ta, a si akpe",1.5,0.5143
+502,"Èkpɔ ŋunyɔnu gã si wɔm Israel-dukɔ la le, le afi sia be yewoatsɔ nyàm ɖa ʋĩi tso nye kɔkɔeƒe laa?",akponu nyanuga si wo mu Israel du kola le le afisia be yiwa cho anya mu davi to nye kokoefe la,0.9,0.32
+503,Israel ƒe nuvɔ̃ kple eyomedzenu.,Israel ƒe nuvɔ̃e nye,0.6,0.4231
+504,elabe nu siwo wòtu la nye alakpa; agbe mele wo me o.,ala benu si wotuna nye alakpa agbemala wo,0.75,0.2308
+505,"“Gake ŋutsu vɔ̃ɖi sia gbe asiɖeɖe le fenyila la ŋuti, eye wòna wolée de mɔ va se ɖe esime wòaxe fe la katã nɛ.","Aka ntu vondi si agbe asirede le fenyi lala nti, eye wo na woli de mo vasere esi me wo ke fala ka tani.",0.9167,0.2771
+506,"Mose nye dɔla nuteƒewɔla le nuwo katã me le Mawu ƒe aƒe me, nu sia ɖi ɖase le nu si Mawu ava gblɔ emegbe la ŋuti.",Mɔse nye dollar nutekpɔwola le nuwokplɔm le mawukpɔkpɔ me. Nu sia di da se le nu si mawu ava gbɔ ema gblɔ na wo,0.6538,0.3256
+507,"Hekpe ɖe esia ŋu la, esi Mawu ɖoe be yeaɖo yeƒe ŋgɔgbevi ɖe xexea me la, egblɔ be: “Mawu ƒe dɔlawo katã, misubɔe.","Ekpede esi aŋula, esi mawu do ebe ya do ye kpe ngogbevi de hihiamla egblɔ be mawu pe dɔla wu kata misubɔ",0.8261,0.2235
+508,"Ale Mose va eye woyɔ dukɔ la ƒe ame tsitsiwo, eye wògblɔ nya siwo katã Aƒetɔ de esi la na wo.","Ele mawu sefa eye wòyɔ dukɔ la ƒe ametioti, eye wògblɔ nya sia si wòka ta afɔtɔde asi la na wo",0.5714,0.2676
+509,"” Yesu yɔ ɖevi sue aɖe va wo titina eye wògblɔ na wo be: “Mele egblɔm na mi le nyateƒe me be, ne mietrɔ zu abe ɖeviwo ene o la, miele dziƒofiaɖuƒea me yi ge akpɔ o.","Yesu ya le vie su ya de vawu titi na. Eya wò gblɔ na wò be, ""Mala gblɔ na mi le nya tepe me be, ne mie tro zɔa be de vie o, eya wòla, miela di po fiaɖuƒe la mayi ge akpɔ",0.8889,0.2213
+510,Tete Sanebalat gaɖo eƒe subɔla ɖem.,ete sambalats dado epe,1.0,0.5517
+511,Mègaɖe mɔ be nunɔlawo kple ameawo nagbɔ liƒoawo dzi be yewoava afi sia o.,"Maga de mobanu nola okple ama o, na gbolifu a oji be ye wo ava official.",1.0714,0.3051
+512,"Nu bubu siwo Uziya wɔ, tso gɔmedzedzea va se ɖe nuwuwua la, gbeƒãɖela Yesaya, Amoz vi la, ŋlɔ wo ɖi.","Nuwuwu sia o, Uziya wo tokomedede ava sede nuwuwula, gbɔ̃gbɔ̃ la Isaiah amezivila nɔ",0.9,0.3684
+513,Ne ati mu dze anyigbeme alo dzigbeme la.,ne atimu dza nyigbame alo jigbame,0.75,0.2188
+514,Ame siwo tso Anatɔt le ame alafa ɖeka kple blaeve-vɔ-enyi .,amesi wocho ana to le ameyiawo fe ka bla ve enyi,1.0,0.3478
+515,Ame siwo tso Senaa le ame akpe etɔ̃ alafa ade kple blaetɔ̃ .,amesiwo cho sena le amakpe ton arafa de bleble ton,0.9167,0.3111
+516,"Etu gbetakpɔxɔwo ɖe gbedadaƒo, eye wòɖe vudo geɖewo elabe lãha geɖe nɔ esi le balia me kple gbedadaƒo.",Gbe gbadada fo. Eya wo de vujo gede o. Elabe laha gede no esi le baliame kple gbadada fo.,0.8889,0.3253
+517,"Ke Yesu va wo gbɔ, eye wòka asi wo ŋu gblɔ na wo be, “Mitsi tsitre, eye migavɔ̃ o.","ka ya suva wogbo, eye woka asi wo ngblo na wobe michichitre eye mi ga fon",0.7895,0.2414
+518,Ke Yehu na woɖadii eye wolée.,"Yehu na, wòladzi eyewòle.",0.6667,0.3043
+519,"Nye amewo akpe ɖe wò amewo ŋu, ne woadi atiwo nam geɖe fũu elabe xɔ si tu ge mala la alolo, eye wòanye nukpɔkpɔ tɔxɛ.",ya mewu akpere wu amewu nu ne waji achiwo nam gede fu erabe kosi tuge malala alolo eye wanye nukporkpor tor,0.84,0.2667
+520,Esiae nye nyagblɔɖi ɖe Moab ŋu: woatsrɔ̃ Ar le Moab.,"Metsi anya nyagblɔdi, dem mɔ bunyu. Wòtso ad le mɔ",0.9,0.475
+521,"Ame aɖeke masusɔ o, elabena mahe dzɔgbevɔ̃e gã aɖe ada ɖe Anatɔt ŋutsuwo dzi le ƒe si meɖo be mahe to na wo la me.",Amade ka ma suso. Labena mahe jogbe voe gan de adade ana toto nwu chu oji. Lepe si me dobe mahe tu na wula,0.88,0.3218
+522,"Ara ƒe dzidzimeviwo, ame alafa adre blaadre-vɔ-atɔ̃ .","Aha fe jijimevi o, amalafe adre, bla adre vo atɔ̃.",1.2857,0.2439
+523,"Elabe fu gegee la dzɔ yakatsyɔ gabu ɖe viviti me, eye viviti la nyè tsyɔ eƒe ŋkɔ dzi.",Ele be fugege la dzo ya kacho ga bu le viviti me. Eye viviti la nyecho epe nko,0.7778,0.2879
+524,"Gake ne ame aɖe dze nɔvia dzi kple tameɖoɖo be yeawui la, ekema ne ele nye vɔsamlekpui ŋgɔ gɔ̃ hã la, ele be miahee ado goe, awui.",Bia kene amara Jehovah ji kple tame dodo be ya wila. Eke ma ne lenye vosamli kple ngo go hala. Ele be miahi adogui awu.,0.8889,0.303
+525,"Aƒetɔ la mekpɔ mɔ adzrae na anyigba bubu dzi tɔ aɖeke o, elabe eble kosi la gbe eɖeɖe.",Apetola me kpɔmɔ a dze le anyigba bubu dzi tɔ adeke o. Elabena eblɔ kosi la gbe,0.5556,0.2239
+526,"Fia Yotam kpɔ ŋusẽ ŋutɔ elabena ekpɔ egbɔ be yezɔ nyuie le Yehowa, eƒe Mawu la ƒe mɔ dzi ɣe sia ɣi.","Fia Yotam kpɔ ŋusẽ ŋutɔ la gbe na ekpɔ gbe obe, Yehowa epe mawu la kpe mɔji le siari.",0.6364,0.2895
+527,"Klosalo la, tɔnyee; sika hã tɔnyee.","Klo salula tonye, sikahã tonye",1.0,0.1852
+528,"Esi wòkpɔ be fiaɖuƒe la li ke ɖe yeƒe asi me la, ewu dumegã siwo katã wu fofoa.","Asiwo kpɔgbɔe fia rufoe la ali kede ye kpe asi mɛ la, awudome gãa si o kataa wufufo",0.8333,0.3333
+529,"Woxlẽ agbalẽ si mieɖo ɖe mí la na mí, eye woɖe egɔme hã na mí le ŋkunye me.",Wò kple agba le asi me do de mi la na mi. Eya o de gome ha na mi le nku nye me.,1.0,0.3393
+530,"Ne kpẽa gaɖi zi evelia tu ɖe nu la, to siwo le dziehe lɔƒo la hã adze mɔ.",ne kpo ga di zie vo lia tu de nu la to si o le zie he lo fu la ha a je,0.8889,0.2778
+531,Nenema ke wònɔ le Nexemya ŋɔli hã.,Nehemiya ŋlɔ nu le,0.8571,0.7407
+532,"Barzilai ɖe Barzilai, Gileadtɔ la ƒe vinyɔnu ɖeka, eye wòtsɔ srɔ̃a ƒe ƒomeŋkɔ.",Bazile de Bazile,1.0,0.8065
+533,Alo ɖe ame abe nye ene mayi gbedoxɔ me be maɖe nye agbea?,"Alo de, ama be nye ene, ma igbe do homi. Be ma de nye agba.",0.7692,0.1818
+534,"Wokaka Agbadɔ la, eye Gerson kple Merari ƒe viwo tso Levi ƒe viwo dome kplɔ wo ɖo.","Wò ka ka gba dollar, eye ge sun kple merari fe vio, chu le vio fe vio du me kple",1.0,0.3281
+535,"Ekplɔm va dzigbemegbo la nu, eye wòdzidze agbo la.","Aklonua di gbe me gbo la nu, eye wo je agbo la",0.7778,0.3
+536,Eya ta nye amewo ayi ɖe aboyome le nugɔmemasemase ta; dɔwuame awu woƒe ame ŋkutawo.,"Ayiata nyama o, ayida aboyoma, le nugoma masemase ta. Dowoma awuope amenku ta",0.9333,0.2836
+537,Elabe dukɔwo ƒe kɔnyinyiwo.,labe dukɔ fɔkɔ,1.0,0.5652
+538,"Le wò biabia la ŋuti la, mele egblɔm na wò be àte ŋu ayi dziƒo nenye be èwɔ ɖe Mawu ƒe seawo dzi.","Ne wo bia bia la nuti la, mele egblo na o be, atam ayijifo na nye be ewo de mawu fe siawu ji.",0.7391,0.3151
+539,woanye xɔ̃wòwo la ɖo tatɔwo na wò?,"do kplɔ́ yehowa ŋkɔ́ nu, mí tso ŋuti kɔkɔé na yehowa, mí afó mɔwu la hafi íwa ahé vivi tíve, hafi mí afó afó wu na",3.5714,2.7308
+540,"Ɖekakpui la gblɔ nɛ be, “Mewɔa se siawo dzi tso nye ɖevime ke, ke nu kae gasusɔ mawɔ?","Mewu asase siawo dzi tso nye davi meke, ke nu kae gasusu",0.6111,0.4062
+541,"Herod di be yeawu Yohanes, gake enɔ vɔvɔ̃m be ʋunyaʋunya ava dzɔ, elabena amewo katã xɔe se be Yohanes nye nyagblɔɖila.","Herod dze be, yawo Yohanes ga ka enofofo mbe, fuyafuya ava jo. Elabe na, amekata hwese be Yohanes nye nyagblɔɖila",0.619,0.2316
+542,"Bazlut, Mehida, Harsa.",bazlute mehida,0.6667,0.3529
+543,ɖe anyigba la dzi kokoko.,Anyigba la di kokoko.,0.4,0.15
+544,eye le aŋɔkawo teƒe la gbotiwo amie na mi.,Ayi le ango ka wutafela gbotio amie na,0.6667,0.3333
+545,"Ɖevi la nɔ avi fam, nu sia wɔ dɔ ɖe fiavinyɔnu la dzi, eye wògblɔ be, “Ɖevi sia nye Hebri ŋutsuviawo dometɔ ɖeka.","Devi laa no avi fam, nusiawo doode fia nye wonu laji, ayi wo gblobe, devi sia nye ebri, nuchu via udumeta odika.",0.8696,0.3488
+546,ame si de adã atsiaƒu me be ƒutsotsoewo dze agbo.,Amasi da ada achiafu maba fu cho cho ji,1.0,0.5897
+547,"Mose tsɔ agbalẽ si me nublanyawo le eye wòxlẽe na ameawo, eye ameawo gagblɔ be, “Míawɔ nu sia nu si Yehowa gblɔ na mi la, eye míalé eme ɖe asi.","Mɔ si èchɔ agbalẽ si ma nu blanya wu le ayewu kple nam wu, ayewu ga gbɔ be miawɔ nusianusi Yehowa gbɔ na mila, ayi mia le me daasi.",0.9,0.2844
+548,Èle woƒe du siwo lolo eye wo ŋu gliwo kɔ ɖatɔ keke dziŋgɔli ke la hã xɔ ge.,"Alofa du si o lolo ayee, wonu gli o ko da to, keke dzingoli kela ha ho",0.9444,0.3509
+549,"Woxlẽa Mawu ƒe Se la tso agbalẽa me eme kɔna, eye wogagbugbɔna ɖea egɔme be ameawo katã nase eme nyuie.","Wòle mawu pasia tɔ̃, agbale ame, eme kɔ na. Ayé o, oga gbugbo na diɛ egome, bé amé ukata na sé emenui.",1.05,0.3415
+550,"Ƒã nu le ŋdi me, eye ne fiẽ ɖo hã mèganɔ anyi dɔ aɖeke mawɔe o.","Panu le undime? Eye ne fia do ha, mega noanyi do adeke mawe",0.8125,0.2826
+551,"Esiae nye fia la ƒe ŋuɖoɖo na agbalẽ la: Na: Rehum dudzikpɔlagã, agbalẽŋlɔla, Simsai kple woƒe kpeɖeŋutɔ siwo le Samaria kple Frat tɔsisi la godo; Medo gbe na mi.","Esia nye fiaɖuƒe dodo na agbalẽla Naarehum duji kplɔ̃ aga agbalẽŋlɔla Simsai, blemaofekpedeŋutɔ si le Samaria, blefratɔ sisila godu, me do gbe na",0.7241,0.2109
+552,Farisitɔ aɖewo kple agbalẽfialawo hã tso Yerusalem va be yewoalé nya aɖewo kpɔ kple Yesu.,"Farisi to ada wu, kple agbalẽfia lawo hã, tso Yerusalem vã be, yewu ala ye ada wu kpɔ kple Yesu.",0.8,0.1622
+553,"” Tete meɖo eŋu be: “Aƒetɔ, neva eme!","be, teteawo to gborna mbe, yewo le Yuda dzo me kple Yerusalem fe ablawo dzi, le nadegbefa gbe dzi asi la nawu",3.1429,2.76
+554,"“Fia la yɔ ŋutsu vɔ̃ɖi si wòtsɔ fe kee la va egbɔ, eye wògblɔ nɛ be, ‘Wò, dɔla vɔ̃ɖi tagbɔsesẽtɔ!",fia Laio nuteƒe 1si wocho fe kila va agbo oye woglo nebe wudola 1si tagbo seseto,0.85,0.4286
+555,Nyagblɔla la meɖe eɖokui fia abe nunyala ɖeɖe ko ene o.,"Nya gblɔla la, mède dodokui fia abenu nyala dede ko ene.",0.7273,0.1818
+556,"Wovuvui, eye wotsrɔ̃e gbidigbidi; eƒe nɔƒewo zu gbegbe.","Wòvuvui eye wòtrɔ̃ gbigbi gbigbi, epu nɔƒe ozu gbegblẽ.",1.0,0.2955
+557,"Na: Nunɔla Ezra, Dziƒo Mawu la ƒe Sefiala: Medo gbe na wò.",Nane nola Ezra. Yehowa mawu la fe sefia la. Medo gbe na,0.5833,0.2558
+558,Meɖoe be matsrɔ̃ wo ɖa keŋkeŋ le xexea me ale be ame aɖeke magaɖo ŋku wo dzi akpɔ o.,"Madu ebe a ma turo wu dika nkem na ha ha ma ala be, amaghi m dika ma ga adi nku mgbe ji a kpo",1.2632,0.5938
+559,"elabena tsi mele dzadzam ɖe edzi o; agbledelawo ƒe mo tsi dãa, eye wotsyɔ nu ta.",la bonaci mela zazã mu da jio agble de lawo fe mu ci da eyewo,1.0,0.4194
+560,"Fia Herod se Yesu ŋkɔ ale wògblɔ na eƒe amewo be, “Edze ƒãa be Yohanes Mawutsidetanamelae gagbɔ agbe, eya ta wòte ŋu le nukunu geɖe siawo wɔm ɖo.","fia Herod se Yesu ŋkɔ, ale wògblɔ na efe amewo be, Aje faa mbe Yohanes Mawutidetana me lae ga gbo agbe. Ayata wo te nula nukunu gede siawo wò",0.6071,0.1579
+561,"Tete medo gbe ɖa nɛ be: ‘Aƒetɔ Mawu, dukɔ sia la, wò ŋutɔ tɔwòe; mègatsrɔ̃e o.","Mado gbe na ebe, afeto mawu, tu konsi ala, woto to we, maga tro o.",0.875,0.4107
+562,Lugbɔƒewo kple wainfiaƒewo mana nuɖuɖu amewo o.,"Lugbafo, kple wine fiafo, ma na ndudu amewo.",1.0,0.325
+563,"“Ame si ke fi ame dzra alo wokpɔe le esi la, woawui.",amesi kefe ame dza alo okpoele esila wawe,0.8333,0.1842
+564,Woɖu Agbadɔ Me Nɔnɔ Ŋkeke Nyui la abe ale si woŋlɔe ɖi be woaɖui la ene.,"Wòdù agbadɔ̃ me nɔnɔ nkeke nuila, ebe alesi wònyrae di be wòadui la",0.6875,0.3036
+565,"Esi Yoas ku la, via Amazia ɖu fia ɖe eteƒe.",Mía suku la via Amazia dufia de tepe.,0.7,0.3125
+566,"Ŋkeke ale si fia la zɔ le Mawu ƒe ɖoɖowo nu ko la, nuwo dze edzi nɛ elabena Mawu yrae.","Meka kple alesi fia la zɔle mawu fɔedodo nu kula, nu ojee ji nee la gbe na mawu yiria.",0.8,0.3385
+567,le dzo me eye dukɔwo naka hiã wo ɖokui dzodzro oa?,Enye duko na kahia wodo kwi joro,1.0,0.4615
+568,Woxe mɔ na nyɔnu siwo tso dukɔ bubu me la ɖeɖe.,Wòkémòna nyò nuosi otu du kò bu bu mela dede,1.0,0.3333
+569,"Yehosafat se be, “Aʋakɔ gã aɖe ho aʋa ɖe ŋuwò tso Dzeƒu la godo le Siria gbɔna eye wova ɖo Hazazon Tamar, si wogayɔna hã be En Gedi la xoxo.","Eho safa sebe, afa kogan reho afa renuo. Tso je fu la godo le Syria gbo na ye wofa do haza zo ntama. Si woga yo na ha mbe Engedi le ahu",0.9667,0.271
+570,"Ale, le mia ŋkume, mekɔ kpe eve siwo melé ɖe asi la xlã ɖe anyi wogbã enumake.","Ale le mía ŋkum, mekpɔkpa efe si o, mele dɔ asi la xɔna de anyi o, gba enu ma",0.8235,0.2881
+571,Wova dona bibibi kple woƒe lãhawo kple avɔgbadɔwo abe ʋetsuviwo ene.,"Eva do na bibi bi, kple wo kple lahawo kple afɔgbado. Abeanfetu vio ene",1.0,0.2456
+572,"Wò nya azu lodonya, eye woanɔ alɔ me ɖem le ŋuwò.","Wònyá azu lódó nyá, èyè wòno alómédém lé nu.",0.9091,0.4595
+573,"Mikpɔ nyuie be miagagblẽ nubabla si Yehowa, miaƒe Mawu wɔ kpli mi la me o!",Mikpo nyuie ba. Mia ga gblẽ nu ba blasi Yehowa. Miape mawu wo kplimi lama.,0.9333,0.1034
+574,"Le blema la, Mawu ƒo nu na mía tɔgbuiwo zi geɖe to eƒe gbeƒãɖelawo dzi le mɔ vovovo nu.","le blema la, mawu kponu na ametiogbiwo zigbade to epegbe pande lawo ji le movowowo",0.6842,0.3433
+575,"Woaɖee ɖe aga va se ɖe ɣletia ƒe ŋkeke wui enelia gbe, eye le gbe ma gbe fiẽ la, Israelviwo ƒe ha bliboa katã le afi sia afi nawui.","Wadeɛ le aga, vas-y le ti si ape ke kawi leli agbe, eye le gbe ma gbe fiele, ezia le viwo habli bula kata le afi sia afi na",0.6552,0.31
+576,Ame sia ame si da le se sia dzi la dze na ku.,"Amesi amesi dala susui ajila, je na",0.9231,0.3125
+577,"Yuda-fia Axazya, Yoram vi, yi be yeakpɔ Yoram, Axab vi la ɖa le Yezreel elabe ele dɔ lém.","Yudafia, ahazia, yoramvi, yibayi akpo yoram, ahabu vida le Israel elabe ele dɔle",0.7222,0.2388
+578,"Tete amea be, ‘Eya ta ame agblẽ tɔ́a kple nɔa ɖi, alé ɖe srɔ̃a ŋuti, eye wo kple evea woazu ame ɖeka.","Amegbetɔ aɖeata, amegbalẽ toklonɔdi, aladasuanti, eye wòple evua wòazu amegbetɔ",0.9545,0.4521
+579,"Ke ne egaɖe nyɔnu bubu la, megaɖe eƒe nuɖuɖu, avɔ, kple nu si wòwɔna nɛ abe srɔ̃ŋutsu ene la dzi o.","Gana egade nyonu bubula, megade epen dudu avo, kple nusi wòna nèabe sɔntu enelia ji",0.9524,0.2973
+580,"Evɔ la, eƒoa nu kpoloe madzudzɔmadzudzɔe.","vola, woanu kplɔe majujo majujo",1.0,0.5
+581,Baba na mi ame siwo le xɔ tsiam ɖe xɔ nu.,"Baba na miame siola, xɔtiam de xɔ",0.7273,0.2
+582,"Dɔléle, aɖe fu na wò dɔkaviwo eye wò dɔmenuwo aƒaƒã.",Tollé la d'efuna wu dokaviwo ye wu domenuwo apapa.,1.0,0.3171
+583,Woayra ame si wɔna alea heléa eme ɖe asi sesĩe.,"Wòyí la amesi wòna ala, hãla amedi asisasia",1.0,0.3784
+584,Nye Dario ye de se sia; ame sia ame nezɔ ɖe enu pɛpɛpɛ.,"nye dario ye desesia, amesia me ne zode enu pe",0.6923,0.1951
+585,Ame aɖeke mekpɔ mɔ alia to la alo agogoe gɔ̃ hã o.,Amɛreke mɔkpɔmɔ aliato la alo agogoe go haa?,0.75,0.1892
+586,"Woawoe nàku ayɔ ameha la aƒo ƒu, eye woawo kee nàgaku ana asaɖaawo naho adzo.","Wòe na ku ayò amegã a fofo, eye wòke na ga ku. Ana asadawu na hu adu",1.0,0.4098
+587,"’ ” Egagblɔ nam hã be: “Ègale ŋunyɔnu siwo lolo wu esiawo, siwo wɔm wole la kpɔ ge.","Ega gblɔ nam ha be, egalẽ nu nyonu si ololo wu esi awo si wo mu olela",0.9375,0.2333
+588,"Azɔ la, wokakaa agbadɔa, eye Gerson viwo kple Merari viwo tsɔa nuawo, eye wohona dzona.","Asola, o kaka agbadun, eyie gereson vio kple merari vio tua nuao eyie oho na",0.8667,0.2899
+589,“Aƒetɔ aɖu wò futɔ siwo ho aʋa ɖe ŋuwò la dzi le ŋkuwò me.,"Apetor, aduwo foto si wo hu aba de nuola dzi le Nkroful.",0.8571,0.4419
+590,"Nu si miawɔ lae nye esi: Mi nunɔlawo kple Levi vi siwo yina dɔ me le dzudzɔgbe la, akpa etɔ̃lia nadzɔ agboawo nu.",Míusie miawola enyésie. Míunu la ukple le viviwo si oyi na dome le jijogbela. Akpa etolia na jo agba wu,0.9565,0.3333
+591,"Eya ta Aƒetɔ, Aʋakɔwokplɔla la be: “Mibu ale si nuwo le yiyimee na mi la ŋu kpɔ!","yata, apeto abakoklo la be mi bu alesi nu le yiyi me na mila",0.8235,0.3
+592,Xananya si nye ami ʋeʋẽe ɖala lae dzra akpa si va ɖe esia yome la ɖo va se ɖe Gli Gbadza la nu.,"Anani, si nye amewo fe dɔla la, eɖra akpa si va de esi ayome la do vasa de gli gbadza la",0.6087,0.25
+593,Megalé ŋku ɖe movidzɔdzɔ tɔgbi aɖe si le xexea me godoo la hã ŋu.,Mégá lɔ̃n kple movie jɔ́jɔ́ tɔ́ geɖe si le khekhá me gɔ́dɔ́ la hã,0.7143,0.451
+594,"Miɖo ŋku miaƒe kplɔlawo dzi, ame siwo gblɔa Mawu ƒe nya na mi.","midonkɔ miakpɔ la oji, amesi ogblɔ amawukpɔnya na",0.9231,0.3125
+595,Amewo tsi tre ɖe gbedoxɔ la gbugbɔtudɔ ŋu le Yerusalem.,Mewɔ titri le gbedoxɔ la gbugbɔ tu dɔwutɔwo le Yerusalem.,0.7,0.2222
+596,"Uziya na wotsɔ akpoxɔnu, akplɔ, gakuku, gawu, da kple akafo me kpewo gɔ̃ hã na asrafoawo dome ame sia ame.","Míawoe nye akpoho nu akplo, gakoko ga wu daakple akafu mekpeo goha na asrafowo dome amesia",0.9,0.2963
+597,"Gake kpɔ egbɔ be nunɔlaawo kple ameawo nagaflɔ liƒo la, alia to la, ava Aƒetɔ gbɔ o; ne menye nenema o la, aɖe gbe ɖe wo dzi.","Kaka gbagbe n'uọla o, kple amewo, na gaflọ lifu la, ali ya tọla, ava pọ tọk gbo o, n'emenye n'eme ula, adegbewe",0.8889,0.3723
+598,"Gɔvina la na sika kilogram enyi kple afã, agba blaatɔ̃ kple nunɔlawo ƒe awudodo alafa atɔ̃ blaetɔ̃ .",Gɔvinana Lana si ka kilogram enyi kple afã agba blaatɔ̃ le nu nɔlawo ƒe dodo alafa atɔ̃ blaatɔ̃,0.5294,0.1026
+599,"Ava eme ɣe ma ɣi be dukɔwo adi Yese ƒe kè si nye dzesi na dukɔwo la yome, eye bubu anɔ eƒe nɔƒe ŋu.",Ame awoe nye maiba dukɔ a dzi ye sepekɛ si nye jesina dukɔ la yome. Eye bubu anɔ efe nɔfe,0.7083,0.2838
+600,"Gbe ma gbe la, wotia ŋutsu aɖewo tsɔ ɖo nudzraɖoƒexɔwo nu.","Mema gblɔ na, wò ti awu to adá o, tɔdɔ nǔ ojará rɔpɛ kɔwɔ",1.2727,0.6087
+601,Nyagblɔla la be: Nu dzodzrowo ƒe nu dzodzro.,"nyagblɔ la labe n'ujo jro, fa n'ujo jro",0.875,0.3429
+602,"Lɔlɔ̃ɣi li, eye fuléɣi li; aʋawɔɣi li, eye ŋutifafaɣi li.","nlo nlo ili, eye efulu ili, afao ili, eye nti fafa ili",1.0,0.3488
+603,"Ke ne nyi la wu kluvi alo kosivi la, ekema woaxe klosalo blaetɔ̃ na kluvi la alo kosi la ƒe aƒetɔ, eye woaƒu kpe nyi la wòaku.","Aka na nyila wu kluvi alo kosi vila, aka ma wa he kluvi alo bla to na kluvi vila alo kosi la poapoto, eye wo afu kpe nyila wa",0.8148,0.2396
+604,Miaƒe dzi anɔ tsotsom kpòkpokpo ɣe sia ɣi le nu siwo teƒe kpɔm nèle la ta.,"Mia fofoji ano toto kpɔkpɔ, esi ayi le nu siwo ta kpɔkpɔ me le",0.8125,0.4483
+605,ekema nàna wò nuyiwo namia tititi ne èle nu ɖum.,Aka ma na na wunu yuo na mia tititi. Ne ele,1.1,0.3158
+606,Eyama ke dzie Mawu to wɔ xexea me hã.,eyama kple mawu to wohehia me,0.5556,0.3571
+607,"“Oo Yehowa, mía fofowo ƒe Mawu, Mawu ɖeka si le dziƒowo, wòe nye anyigbadzifiaɖuƒewo katã Dziɖula, wò ŋusẽ tri akɔ, ame kae ate ŋu atsi tsitre ɖe ŋuwò?","O Jehovah, mia fofowo ƒe Mawu, Mawu dekaseleji ƒe, wò nya anyi gmani fiadu ƒe ukataji dula, wò ŋuse triakɔ, ameka ye atɔ̃ wò achichi trɔ̃ de ŋuwò?",0.8214,0.2991
+608,"Azɔ Aƒetɔ tsɔ kpe eve siwo dzi eya, Mawu, ŋutɔ tsɔ asibidɛ ŋlɔ nya siwo katã wògblɔ na mi tso dzo la me gbe si gbe miekpe ta le toa gbɔ.",Azãa putɔ tsope eve si wo di eya mawu ntɔ tso asi bide ŋlɔ̃ nya si wo ka taa wo gblɔ̃ na mi tɔ dzo la me gbe si gbe mie kpe ta le tu agba,0.7097,0.165
+609,"Le ŋkeke bla ene, zã bla ene la megbe la, Aƒetɔ tsɔ kpe eveawo, siwo dzi woŋlɔ nublanyawo ɖo la nam.","Nke kacha mma na nke kacha mma na mgbela, aputachakwanu efe ahu si oji wee nwuru na ubla nya bu ula na",1.0476,0.6579
+610,Azɔ Aƒetɔ tsɔ mí ƒu gbe na Midiantɔwo.,Aso apostolo Tome fugbe na mi ja to,1.0,0.5667
+611,Tete ame siwo katã dzodzonyanya lé le Israel ƒe Mawu la ƒe nyawo ta la va ƒo xlãm le aboyometsolawo ƒe nuteƒemawɔmawɔ sia ta.,"Tadeawo kataa junyanya, Israel fe mawu la fe nya taa la, va fo kplam, laa bu yomecho lawo, fe nute fe mawu mawu sia ta.",0.9167,0.3366
+612,"Ke le ŋkeke mamlɛtɔ siawo me la, eƒo nu na mí to Via si wòtia be wòanye nuwo katã ƒe domenyila la dzi, ame si dzi hã wòto wɔ xexea me.",Tellu ka ka m lettos ya wumela. Akwunu na mi tovia si wo tia be woanye nuwukata akwa du me nyila laji. Amesi ji ha wuto ohe ka,0.9355,0.3762
+613,gake dukɔ la xe mɔ na wo le mɔ ɖe sia ɖe nu.,Aka du kola kple mɔna o. Le mɔ si ade,0.8462,0.3871
+614,"Ðelawo kple dukɔ blibo la kpɔ dzidzɔ, eye wova de nu aɖaka la me wòyɔ.","Dela opele tso ko blibola gbe jojo, eya wova de nu ada kala me woyoo",0.7333,0.4074
+615,"Axab wu alẽ kple nyi geɖe fũu na eya kple eŋumewo, eye wòble Yosafat nu be neho aʋa ɖe Ramot-Gilead ŋu.","woanle kple nyigedeƒu na ya kple enu me o, eye wo gblẽ Yosafat nɔ eƒe na ho ava de Ramot Gilead",0.9524,0.3
+616,elabena Yehowa ƒe yi agblẽ nu tso anyigba.,Yehowa fɔyi agblanu tso anyigba,0.625,0.2941
+617,“Nye kɔ nàkpɔ dadala la ɖa; nu dzɔdzɔe wɔwɔ aɖeke mele eya amea me o; ke ame dzɔdzɔe anɔ agbe to eƒe xɔse me.,"Nyekonakpo dada lada, nu jojo ewo wo adekeme le ya ma mu, ke ame jojo a nu agbeto efe hosen.",0.875,0.4024
+618,abe ame siwo tea ame dahe ɖe to.,Abe amesi wotia amewo dodo,0.875,0.3333
+619,"Ke miawo la, Mawu yra mi, elabe miaƒe ŋkuwo le nu kpɔm, eye miaƒe towo le nu sem.","Míawo la, mawu yra mi. Ele be miapo ŋkue la nu kpo, eye miapo to la nu se.",0.6667,0.2833
+620,"Ke, O Yehowa, Dziƒoʋakɔwo ƒe Aƒetɔ.",ke o yehova,0.6667,0.7037
+621,Enye fia vɔ̃ɖi aɖe abe Ahab kple Israel fia bubuawo ene.,enye fiawo di ada aba akpa Israel fiawo gba o,0.8182,0.4091
+622,Efrayim ƒe ŋuʋaʋã nu atso.,Ephraim fe nuvavanu aɖe,1.0,0.5238
+623,"Ale le ɣleti adrelia ƒe ŋkeke gbãtɔ dzi la, nunɔla Ezra tsɔ Segbalẽ la do goe ɖe ameha la ŋkume, ŋutsuwo, nyɔnuwo kple ame siwo katã ate ŋu ase nu gɔme la woe ƒo ƒu.","Alele le ti adrele ya fe nka ke gba toji la, nu la Ezra cho se gba la la dogui. De ame hala nkume, nuchuo, nyo nuo kpla mesi okata atin ase nu gome la, we fo",0.9143,0.2913
+624,"Sefatia, Hatil, Pokeret Hazebaim kple Ami ƒe dzidzimeviwo.","Sefa tia, hatel, bokreta hazi biam, bla ami fe jijime vio.",1.25,0.3333
+625,Ale Abimelek nyruiawo yi dumemetsitsiwo gbɔ hetsɔ Abimelek ƒe nya la ɖo woƒe ŋkume.,"Ale Abimelek nyrawo, ye dumechi siawo gbo, eho Abimelek fe nya la do fe nkume.",0.7143,0.2899
+626,Ame siwo tso Mikmas le ame alafa ɖeka kple blaeve-vɔ-eve .,amesiwoe nye mikmas la amala afa ka bleblea fe vovo,1.0,0.3778
+627,"Eye esi Mawu xlɔ̃ nu wo le drɔ̃eƒe bena womagatrɔ ayi Herod gbɔ o la, woto mɔ bubu yi wo de.",Ayi asi ma wò kplɔ̃ nu wo le draper ba na. Wò ma ga trɔ ayi he dɔ gbɔ ula. Wò tɔ mɔ gbugbu yi wò,0.9524,0.3382
+628,Wo katã woyi Baal ƒe gbedoxɔ me eye wogbãe.,woe le afima. Ka ye ho aida nnafia yours. Bla ma ukpede nwu ye wu bla nu be ye wu anye ye ho akpa ma wu. Ukata wu ibalfe gbede uho ma ye wu gba,3.8889,2.5294
+629,"Azɔ la, mietsɔ via Abimelek, ame si nye fofonye ƒe kosi vi la ɖo fiae elabena miaƒe ƒometɔ wònye.","Metsɔ via bi malek, amesi nye fofowo nye peko si vila, dofia yi, ela be na mia peko meto o",1.0,0.2895
+630,Megblɔ nyanyui si megblɔna na ame siwo menye Yudatɔwo o la na wo.,Magblɔ nya nyui si magblɔ na na amesiwo menya yu da tɔ o la na,0.8462,0.1346
+631,Aƒetɔ gblɔ na Mose be: “Gblɔ na Israelviwo be: ‘Miawo ŋutɔ miekpɔe!,"Miapli tɔgbonuwo mɔse be, gbonɔ Israel viwo be, miawo ntɔ miakpɔ",0.75,0.3529
+632,"Gake Yesu gblɔ be, “Mina ɖevi suewo nava gbɔnye, eye migaxe mɔ na wo o, elabena woawo tɔe nye dziƒofiaɖuƒe la.","Aka Yesu gblɔ be, mina devisiwo nava gbɔnye, eyi migahe mɔ na wo o. Elabena wo wuto enye dziƒofiaɖuƒea.",0.4762,0.1294
+633,"Nenye be wò ŋkue nana be nèwɔa nu vɔ̃ la, hoe le eƒe to me ƒu gbe.",na nya ba wo nkui na naba na,1.0,0.6809
+634,"Ke ne kluvia gblɔ faa be: ‘Melɔ̃ nye aƒetɔ, srɔ̃nye kple vinyewo.",Ghana krowia gbonfa be molonya apeto sonye kple vinyo,0.8333,0.3958
+635,Viɖe ka ame dahe si nya zɔzɔ le agbe me la kpɔna?,Amedzro si nya zo zɔ le agbeme la kpɔ,0.75,0.3243
+636,Elabe àkeke ta ayi ɖusime kple miame.,Aka keta ayido si meple miam,1.0,0.3333
+637,Megblẽ wò ɖi vie ko; ke matsɔ nublanuikpɔkpɔ gã.,"Mɔ glo di vie ko, ka ma tɔ n'ublanu kpɔkpɔ",0.8889,0.2895
+638,Miekpɔ mɔ aɖu naneke si me amɔwɔʋãnu le la o.,Míe kpɔ́ mɔ́ aɖe si ma amɔ́ vá nǔ le la,0.9,0.4
+639,Gɔvina la de se be womekpɔ mɔ aɖu nuɖuɖu kɔkɔeawo ƒe ɖeke o va se ɖe esime nunɔla aɖe nabia gbe Mawu to Urim kple Tumim dzi hafi.,"Kofi na la de sebe, umekpomo adu ndudu kokue o, fedeka o, lasere simenula ade na bia gbe mau to urim, ple tumim ji hafi",0.75,0.2772
+640,Togbɔ be wole vivi dom ɖe ŋuwò.,"Togbui Awule, fe vidome nu",1.0,0.4167
+641,Gibeon ƒe viwo le ame blaasieke-vɔ-atɔ̃ .,kpee be woefe vie o. La mebla si ke vo atɔ̃,1.8333,0.3871
+642,"Gaal yi edzi be, “Kpɔ afi ma nyuie, meka ɖe edzi be mekpɔ amewo le lulũm ɖe mía dzi gbɔna.","Gali jibe, kpo afi manyi, mekare jibe, mekpo ame oleruru nde mi aji gbono.",0.95,0.3582
+643,"” Ke Zerubabel, Yesua kple Israel-ƒomeawo ƒe tatɔ mamlɛawo ɖo eŋu na wo be: “Mímalɔ̃, mí kpakple miawo míatu xɔ na míaƒe Mawu la o.","Zerubabel, Yeshua kple Israel ƒe amewo petato mamlɛwo do ŋgɔ na obe, mi ma nɔ mi kpakple miewo miatu xɔ na Mawu la.",0.7083,0.2525
+644,"Yehowa gblɔ na wo be, “Miɖo to nye nyawo: “Ne Yehowa ƒe nyagblɔɖila aɖe le mia dome la.","Yehowa agblɔ na wò be, ne èto nye nya wu, ne Yehowa aple ye agblɔ na ile ade le mia dome",0.7222,0.2769
+645,Ege ɖe Aƒetɔ ƒe aƒe la me be yeatɔ dzo lifi le lifivɔsamlekpui dzi.,"Ege na peto fe apleme, be ya tojo le fi, le fi vosame",0.8571,0.4528
+646,"Ke míawo míedo gbe ɖa na mía Mawu, eye míeɖo dzɔlawo teƒe vovovowo.","Míao, mia do gbedada na mia mawu, eye mia do jola o tefe vovo vo",1.0,0.3585
+647,"Nane li, si ŋu wogblɔ le be: “Mikpɔ ɖa, nu yeye nye esia!",Nane li si wò gblɔ le be mikpɔda nu yeye ye nye,0.4615,0.225
+648,"“Ne ŋutsu siwo wota, lé nye Dzudzɔgbe me ɖe asi.",na wo tusi wota lanya jojo gba mada si,0.9,0.5
+649,"Wole gliawo flɔm ɖe dzi, eye wole gɔmeɖokpe siwo gbã la ɖɔm ɖo.","Wòle glao flom da ji, e wòle gomedokpɛ si o gba la dom do",1.0,0.3878
+650,abe xe ƒonu ŋɔŋɔe ene oa?,"Abe, xɔfonu ŋɔŋlɔe enewu.",0.8333,0.2632
+651,Wotua agbadɔ la ɖe teƒe yeyea hafi wova ɖona.,Utu agba dollar detepkoyiyi ahafi uva do,1.0,0.4722
+652,"Àka abi makumaku, àdze akpa, aklabi anɔ ŋuwò; ke màhaya akpɔ o.","Aka abime akumaku, adi akpa, akabi anu onu wo, kama ha ya akpo",1.0,0.2708
+653,"Yehowa gblɔ na Mose be, “Mese woƒe liʋĩliʋĩlilĩ.",Yehowa agblɔ na Mose be masɔ fu livili,0.5,0.3684
+654,"Kiriat Yearim, Kefira kple Beerottɔwo le ame alafa adre kple blaene-vɔ-etɔ̃ .",karya ti yarim keri fa le bero to le amala fa dre le bla nevo eto,1.3636,0.3115
+655,"Dɔwɔla siwo kplɔ wo ɖo la nɔ Ezer, Yesua ƒe vi, Mizpa dziɖula ƒe kpɔkplɔ te.",dola siwo kplɔ dola nɔ eze Yesu afevi mispa jiru la fe kpokplɔ,0.8125,0.2759
+656,"Ke ne kluvi la alo kosivi la meku le ŋkeke ʋɛ aɖewo megbe o la, ekema mele be woahe to aɖeke na aƒetɔ la o, elabena eya ŋutɔ tɔe nye kluvi la alo kosi la.","Ke na kluvi la alo kosi vi la me ku le nku ke vu ya de o megbe o la, eke ma me le be wo ha to a de ke na fo to la o. Ala be na ya wu toto enye kluvi la alo kosi la.",0.8286,0.1709
+657,"Esi ame sia ame dɔ alɔ̃ la, eƒe futɔ va, eye wòwú gbe wuwlui ɖe lua me, hedzo.","Amesi amesi amedon alola, epe fotova ayawawu gba wu loloa luame",1.0,0.4286
+658,hafi ŋkeke vɔ̃wo nava eye ƒe siwo me màgakpɔ dzidzɔ.,Afi ka wo nava? Eye wo fo si o me ma ga kpo ji,1.1,0.4634
+659,"Azɔ la, wogbugbɔ gli la ƒe akpa si ƒe didime anɔ abe mita alafa ene blaatɔ̃ ene la tu va se ɖe Aɖukpogbo la nu.","Azɔla, wògugbɔ grill la papa si fe didi me, ànɔ àbè meter àfà ene, blà tɔ̃ ene la, tuvasere àdu kpɔgbo la",0.84,0.3095
+660,eye woƒe tsotsoewo kɔ yi dzi boo.,"Wòpa, tsotso kɔyi tsilbó",1.0,0.5385
+661,"Wo katã woɖu nu, ɖi ƒo.","Mawu kloe asi hafi du nu ola, aya mofoadi",1.3333,1.5625
+662,eye dziƒowo nye wò asinudɔwɔwɔwo.,Ayi Jipo nya wo asi nu do,1.4,0.5357
+663,"Wova wɔ dɔ le Aƒetɔ, Aʋakɔwokplɔla si nye woƒe Mawu la, ƒe xɔ la ŋu, le ɣleti adelia ƒe ŋkeke bla eve vɔ enea gbe.","Wòfawo dɔle apoto, abakɔkpɔlawo si nye wòfa mmawulawo, fɔ̃ hɔ̃la nu le hɛ̃leti adelia ƒe nkeke blaeve vɔ enyi agbe.",0.76,0.314
+664,"Amea nenya sika, klosalo, akɔbli kple ga yibɔ ŋu ɖaŋu.",Mènyá sika Rosario akɔbli ple ga yibo nu da,0.7,0.381
+665,"Ke nuku aɖewo hã ge ɖe anyigba nyuitɔ dzi, eye womie, tsi hetse ku geɖewo, ɖewo tse blaetɔ̃, bubuwo tse blaade, eye ɖewo hã tse alafa.",Gake nuku adawu ha gede anyigba nyitoji. Eye wome chi heche ku gede o. Dawo che blakton. Bubu che blak de. Eye dawo ha che,0.8846,0.3922
+666,"Le nyateƒe me la, kekeli me vivina, eye ɣe ƒe keklẽ dzɔa dzi na ŋku.","le nyatefe mela, kekeli me vivina, eye wòfo kekle dzo dzi na",0.5333,0.2157
+667,Mègawɔ legba aɖeke na ɖokuiwò ɖe nu siwo le dziƒo alo le anyigba dzi alo le atsiaƒu me la ƒe nɔnɔme me o.,"Mawu le gbɔwò le Tokyo, ne nusɔsrɔ̃ la dzi fu na wò la, nyigba dzi alo lachiafomela nɔnɔ me me.",0.8696,0.4268
+668,eye gbe aƒu le agble me ase ɖo?,Eye gbe afu le agble me ase,0.25,0.1304
+669,"Kasia eƒe ŋku kle kusia le aƒlaawo me ɖaa, eye wòna eƒe dɔlanyɔnu yi ɖatsɔe vɛ.","Gake aƒe vɔ̃ku kple kusi le aflawo me da, eyee wòna aƒe dɔla nyɔnu ida tuen",0.8125,0.3226
+670,Kasia Hebritɔ evee nye esiwo le avu wɔm.,"Gacia, habritor efenya, esi wòle avuwo",1.0,0.3438
+671,Woli kɔ woƒe nakewo ɖe glia ŋu eye wode dzo nakekɔ la me.,"wòli kɔfena ke ode gliawu, eye ode ju nake kolam",0.9231,0.2955
+672,” Ke Yehowa se nya sia.,kata. Mawu ame toawukatawo dogo. Yehowa,1.2,1.5625
+673,"Aɖakago gã gbadza aɖe si wokpa koŋ ɖe ŋkekea ŋu la dzie Ezra, agbalẽfiala la tsi tsitre ɖo.","Adaka gogoe gbaja ade, si wo kpo ku, de nke kia wula ji Ezra agbalẽ fia lala titi tre",0.9444,0.2778
+674,"Le Zerubabel ŋɔli la, Israelviwo dzɔa nu gbe sia gbe, be woatsɔ anɔ hadzilawo kple agbonudzɔlawo dzi kpɔm.","Zeru Babel ngoli la, Israel viwo do anu gbe sia gbe, be woato ano haji la o, le agbonu jolawo jikpo.",0.8889,0.2558
+675,Wodzi kafukafuha kple akpedaha doɖaxetɔe na Aƒetɔ be: “Elabe enyo.,"Odi ka fu fu ha, ple akwada ha, du da, ketu na apete obe, elabe enye",1.4,0.2963
+676,"Le wò dziku me, ɖo ŋku nublanuikpɔkpɔ dzi.",woji kum. Do kunu blani kpakpa,1.0,0.4242
+677,Ke fia se la ame siwo menya Seawo nyuie o.,"fia sia la, amesi womenya sea onui",0.8,0.25
+678,"be yewoaɖu nu akpɔ ŋusẽ, menye be woamu aha o.","Be yewa dunu akponu se, manye be woamu aha o.",0.5,0.1714
+679,"Esi wòʋui la, ekpɔ vidzĩ le eme.",Metsi wò vila ekpɔ vi dzin le,0.8571,0.375
+680,"Edidi meta bla eve vɔ atɔ̃, eye wòkeke meta wui eve kple afã.","Ayi ji ji, meta bla vo ato, ayi weke meta wieve kple",0.8462,0.3913
+681,"Wole gliawo nu flɔm, eye wole gɔmeɖoɖoa hã dzram ɖo.","Wòle glia wò nu flom, oye wòle gome dudu aha jira m do",1.2,0.3415
+682,"Ke esi wòkpɔ be yemagate ŋu aɣlae wòadidi wu nenema o la, etsɔ aƒla lɔ̃ kusi, eye wòsi aŋɔ ɖe eme ale be tsi mate ŋu age ɖe eme o.","Míka si wokpɔe ye maga tenɔ aglãiwa didi wu nene ma wula. Míechɔ apla lokusi, eye wòsia anɔde ma alebe chi ma tenɔ agede ma",0.9333,0.3402
+683,"Le eya megbe Mesulam, Berexya vi, dzra akpa si dze ŋgɔ eƒe aƒe ŋkume ɖo.","le aya me gbe, mesr̃u la mbe, beda hiavi, dzira akwasi dze ngo, epe ape nku me",1.0,0.2909
+684,"Esiwo tso Xasum viŋutsuwo dome: Matenai, Matata, Zabad, Elifelet, Yeremai, Manase kple Simei.","Asioto, Kasuvi, Nutome, Matinai, Matata, Zabad, Elifelet, Yiremai, Manase, Pelai, Simei",0.6154,0.2297
+685,"Esi wònɔ nya sia gblɔm la, lilikpo keklẽ aɖe va tsyɔ wo dzi, eye gbe aɖe ɖi tso lilikpo la me gblɔ be, “Ame siae nye Vinye si gbɔ nyemelɔ̃a nu le o, si dzea ŋunye.","Asiwo nɔ ya si agblɔm la, lili kɔkɔ klá adava chɔ oji, eyi gbe ada di chɔ lili kɔla ma gblɔ be, amasia nye vinye, sigbɔ nyema nɔ nu la o, si ja nu",0.75,0.314
+686,"Farisitɔ siwo nɔ afi ma la biae enumake be, “Ele se la nu be woada gbe le ame ŋu le Dzudzɔgbe ŋkeke la dzia?","Farisi tɔ si wònu afi mala bia enu makebe, ele sela nu be wòdagbele amenu le jojo gbe nkeke la ji.",0.7917,0.1951
+687,"Yaazanya, Safan vi nɔ tsitre le wo dome.","Yazanya, safanu vi noti tre elewo do",0.875,0.2258
+688,Wova ke ɖe eŋu be du sia tsia tre ɖe fiawo ŋu tso gbe aɖe gbe ke; emenɔlawo nye ame dzeaglã siwo hea ʋunyaʋunya kple zitɔtɔ vɛ zi geɖe.,"Govakada enu be dusia tsiatrede fiawo nu to gbadagbe ke, emenola wonye Amejagla si ohia hu nyanya kple sitoto vezi",0.8621,0.2762
+689,"Elabe nye Aƒetɔ, wò Mawu la, Mawu ʋãŋu menye.",Mawu fa nu ma ye,0.8889,0.7353
+690,"Elabe ele be amegbetɔ ɖe sia ɖe nayi eƒe aƒe mavɔ me, eye konyifalawo nanɔ tsatsam le ablɔ me.",Ele be ele be amegbetɔ de sia de na yi afɔ afɔmavɔme. Eye konyifalao na nochacha mla blome.,0.7895,0.2162
+691,Wowu enu le dzinu Adar ƒe ŋkeke etɔ̃lia dzi le Fia Darius ƒe fiaɖuɖu ƒe ƒe adelia me.,Mía wea nu le dzi nu ada fe nkeke etɔ̃lia dzi. Le fia daa ros fe fia dudu fefe adelia me.,0.7778,0.2424
+692,Nu siawo anɔ yowòme va se ɖe esi nàtsrɔ̃.,Nusia anɔ yome vaseɖe esime woatɔ,0.8889,0.3226
+693,"Ne èɖo to Aƒetɔ, wò Mawu ƒe gbe la, yayra siwo katã gbɔna la anɔ dziwò, eye agbenɔnɔ adze edzi na wò.","Nado tuha peto, omawo fe gbelã, yayra si wo katã gbono la, ano dziwo, eye agbenono adze dzi nawo.",0.8182,0.2632
+694,"Besai, Meunim, Nefuesim.",besai meonim nafiosem,0.6667,0.2632
+695,eye ga nana be ame kpɔa eƒe nu hiahiãwo katã.,"Agoo, ga nane be amekpoa efenu hiahia wui ka",0.8,0.3429
+696,"Adin ƒe dzidzimeviwo, ame alafa ene kple blaatɔ̃-vɔ-ene .","Adzinfe dzinye vie o. Amala fae nne, bleble atɔ̃vo nne.",1.25,0.3182
+697,"Ele be tetekpɔwo nava kokoko ya, ke baba na ame si dzi nuɖiaɖia ato ava!","Mía le baata te kpɔo na ava ko ko ko ya, ke baba na mɔ sidii ndiadi a ato ava",0.9333,0.25
+698,"Amazia bia Mawu ƒe ame la be, “Klosaloga tɔn etɔ̃ kple afã si mexe ɖe Israel ƒe aʋakɔwo ta ya ɖe?","Amasia bia mawu fa mela be, tosalo ga tonutonukpla afasi me kple Israel pe afa ko uta",0.8095,0.3288
+699,Wolia gli la to David ƒe fiasã gbɔ ɖado ɖe Tsigbo gbɔ le dua ƒe ɣedzeƒe gome.,"Wòliya Glèlè tɔ David pɛ́ fia ságbo, da dó è tsi gbo gbo le Duape. Eje fɛ́ go",1.0,0.3667
+700,"Azɔ metia nunɔla Selemya, agbalẽŋlɔla Zadok kple Pedaya, si nye Levi viwo dometɔ ɖeka, eye metsɔ nudzraɖoƒexɔawo dzi kpɔkpɔ de wo si.","Azo, mɔ̃ tia nɔla, Sɛlɛmia, agbalẽŋlɔla za dɔkplɛla, pedaya, sẽnye Levi Vio Dometo le Ka, ayemato nɔ dɔrupa hã o, jipɔkpɔ dẽ wòsi.",0.9545,0.3333
+701,"Fenyila la mate ŋu axe fe la o, eya ta fia la ɖe gbe be woadzra ŋutsu sia srɔ̃, viawo kple woƒe nu sia nu atsɔ axe fe lae.",Fenyila la mato akpefela o. Eya ta afiala degbabe wo jira nutsu sia soron viawo le fenu sia nu acho akpefela.,0.6897,0.2889
+702,"Aƒetɔ atsɔ wò awɔ ta na dukɔwo, menye asikɛ o.","Apetua tua o awo ta na duko o, meya sika",0.8,0.3714
+703,Eya kee gaɖo Ofel si nye Yerusalem ŋu gli la yi edzi.,Eya ke gado ofel sinye Yerusalem nu gli la yi,0.5,0.1707
+704,"Ewɔ nuvɔ̃ɖi le Aƒetɔ ŋkume abe Axab ƒe ƒometɔwo ene, elabe le tɔ́a ƒe ku megbe la, woawoe ɖo aɖaŋu nɛ wòva zu ku nɛ.","Wo nuvo le akpa etɔ̃ nkume, abe Ahab fe mme etɔ̃ ene, eye abe le etɔ̃ fe kume gbela, wa we do Adam ne, Muvazu kune",0.96,0.3563
+705,"Elabe mele Egipte-nyigba la me to ge ava yi le zã ma me, eye mawu ŋgɔgbevi ɖe sia ɖe le Egipte-nyigba la dzi, eɖanye ame o, eɖanye aƒemelã o.","Mela Egypt nyigba la me to ge ava yi le zã me. Eyae ma wu nkagbavi le Egypt nyigba la dzi. Ena nye amewo, ena nye apomelawo.",0.6207,0.2897
+706,Màɖe dzi ɖi le dukɔ mawo me o; mànɔ teƒe aɖeke eteƒe adidi o.,"Mada jiri, la dukɔ mawo mawo. Ma nɔ teƒe adeke, etefee a jiji o.",0.7857,0.3261
+707,"” Emloe, eye asi la ɖɔ ɖo gaɖo eƒe nɔnɔme abe evelia ene.","Emlɔe, eye asila dodo ga do epono me abe evelia ene.",0.6667,0.2381
+708,Woaɖe ame sia ame si aɖu nu si wowɔ kple amɔ ʋaʋã le ɣeyiɣi sia me la le Israelviwo ƒe hame.,"Wada mɛsia mɛsia dɔnu siwo wòkpla mɔ fafafan la, woayi mɛla le ezra viwo fe ha",0.9524,0.4366
+709,"Ke hã la, nu nyui aɖe le mewò elabena èɖe aƒeliwo ɖa le anyigba la dzi eye nètsɔ wò dzi ɖo Mawu didi ŋu.",gbe hala nu nyui a de le mawu la gbɔna de apaliwo da la nyigba la ji eye na tɔwo ji do mawu didi,0.7917,0.3165
+710,"Meka mo na wo, ƒo fi de wo; meƒo wo, eye menyɔ woƒe ɖa.","Meka mɔ na o, fofida o, mafɔ o, eye manya ofe da",0.7857,0.3684
+711,"Èdo wo, woto ke eye wotsi hetse ku.","Adoo, wò to ka eye wò chi ha tso",1.0,0.4231
+712,"Ƒoƒoe aƒo wò tso afɔƒome va se ɖe dzodome ke, ke màhaya akpɔ o.","fofoe, aƒe tɔ aƒe pu me va sɔ̃de, jɔdɔmɛka, kɔ ma haya akpo",1.0,0.4583
+713,Enye sikanutula kple klosalonutula nyui aɖe.,Anyansi ka nutula kple krosalo nutula,1.0,0.2895
+714,Kplɔlawo bia Mose be nu ka ta wòde se ma na yewo mahã.,Lola wò bia mọ si eba nu kata wò de sena. Yè wò ma,1.0,0.3171
+715,Wole gbe tem abe ɖe wodi be yewoavuvu nublanuitɔ siwo si be la ene.,"Wòle gbètèm, àbè dè odi bè yò àfùfù nùblàni tòsiò, sìbè là è",1.0,0.5472
+716,"Nyemekpɔ apostoloawo dometɔ aɖeke o, negbe Yakobo, Aƒetɔ la nɔvi ko.","nyamakpo apostolo dometɔ adeke o, negbe Yakobo, Afoetɔla nɔvi",0.5455,0.2
+717,"Uziel, Harhaia ƒe vi si nye sikaɖaŋuwɔlawo dometɔ ɖeka la hã wɔ dɔ le gliawo ŋu.","Aha ya fe vi. Sinyẽ si ka daŋu wòdome tɔ re ka la ha, wòdole glã",0.9375,0.4127
+718,Kplɔla bubuwo na sika kilogram alafa ɖeka kple blaade-vɔ-enyi kple klosalo kilogram akpe ɖeka alafa eve kple blaatɔ̃ .,"Lola bubuwo na sika kilogram alafa re ka, bleble adewo enyi. Bleklosa lo kilogram akpere ka, alafa ve bleble atan.",0.7222,0.1875
+719,Edzidze agbo nu yi agbo nu wònɔ meta bla atɔ̃.,Aɖeɖe agbonu yi agbonu wònò meta bla atɔ̃,0.6,0.2
+720,"Wotsi tre ɖe eŋu gblɔ nɛ be: “Wò, Uziya, menye wòe atɔ dzo lifi na Aƒetɔ o.","Wɔtrɔ̃ de enu bliboe wo uzi a, menye woa tɔ Joli fina apeto",0.9412,0.3704
+721,woŋlɔ nu tso ŋutinye le lãgbalẽ me be.,Mílo nu cho nu tinye le lagbalã ma,0.875,0.4
+722,Egblɔ be: ‘Dukɔ sia le subɔnyem kple numenya viviwo ko.,"Agbalẽmewu, to kɔsia le subɔsubɔnya nkplẽ nu me nya vivinu",1.0,0.4186
+723,"” Ale Israelviwo yi ɖafɔ wo abe ale si Mose gblɔ na wo ene; ame aɖewo fɔe fũu, ke ame aɖewo hã mefɔe fũu o.","Alese ravio yidá fɔ́ɔ, abá lesi mɔ́ se gblɔ́ ná wó ná. Amá dá wó fɔ́ efún, ká amá dá wó há má fɔ́ efún.",1.0417,0.4304
+724,Dukɔ blibo la katã xe haa kple ɣli bobobo hekafu Aƒetɔ elabe woɖo Aƒetɔ ƒe xɔ la gɔme anyi.,"Dukɔ blibo la katã kple libubu hekafu afeto Alabé, wodo afeto fe xola gome anyi.",0.6316,0.2778
+725,"Ame kae nya ne gbetɔwo ƒe gbɔgbɔ yia dzi, eye lãwo tɔ ya yia anyigba me mahã?",Amegbetɔwo ƒe gbagbagbɔyiyi eye elãwo tɔ yia anyigba me mahã?,0.5882,0.3051
+726,"Mègabiã ŋu ɖe hawòvi srɔ̃, eƒe dɔlaŋutsu, eƒe dɔlanyɔnu, eƒe nyitsu alo eƒe tedzi alo nu sia nu si nye hawòvi tɔ la ƒe ɖeke ŋu o.","Maka bianu dea, haovi sro, epo dola ntu, epo dola nyonu, epo nyitu alo epo teji alo nu sia nu si nye haovi tola fodeke nu",0.8148,0.3469
+727,"Ame mamlɛawo megate va o, eye dukɔ la megalia to la kplii o.","Mewɔ mamia o. Mégateva o. Eya dukɔla, megali atɔla",0.9231,0.3261
+728,"Uzia, ame si lé dzudzɔdonu ɖe asi eye wònɔ klalo be yeado dzudzɔ la, do dɔmedzoe vevie.","Mawu si le dziƒo do nu da si, ayi wo no klalo be ya do jujola do domo dzi fa vie.",1.0588,0.4265
+729,"Bli, wain kple ami, wò nyinɔ kple alẽ; ɖekeɖeke masusɔ na wò o, va se ɖe esime nàtsrɔ̃ vɔ.","Míawoe kple ami, wo nyo kple ana, deka deka ma suso na wo o, fasinde sima na",0.8421,0.4545
+730,"Le nyateƒe me la, menye mawudɔlawo ŋue wòkpe ɖo o, ke boŋ ekpe ɖe Abraham ƒe dzidzimeviwo ŋu.","le nya tepe me la, manye mawu dɔla ŋu ewu kplu. Ebu ekpede Abraham fofojiji mavɔ",0.8333,0.3562
+731,"“Ke azɔ la, O míaƒe Mawu, nu ka gblɔ ge míala le esia megbe?","Azɔ la, oh, miafe mawu, nu ka gblɔ ge miala le sia me",0.4286,0.2326
+732,"Simɔn Petro ɖo eŋu nɛ be, “Wòe nye Kristo, Mawu gbagbe la ƒe Vi.","Simon Petro, do amnebe wònye Kristo, Mawu gbagbola pɛvi. Yesu gblɔ nɛbe, Mawu nènyra wò, Simon, Yonah pɛvi. Elabena, ofu nye sɔ̃ le dzi",1.5714,1.4255
+733,Àdze dɔmedɔ si ana nanyè wò dɔkaviwo tso ŋkeke yi ŋkeke.,Aja domedo si ana na nye udo kavio cho nkeke yi nkeke.,0.8182,0.3333
+734,"Esiae nye nu si ŋuti miabu egbe: Yehowae nye Mawu le dziƒo kple anyigba afi sia; le eya megbe la, Mawu bubu aɖeke megali o!",Yesu nye nu si nwu ti mi agbue agbe. Yehowa nye mawu loji fo kple anyigba afisia. Le ya me gbe la mawu bubu adoke me gali,0.68,0.1789
+735,Betel kple Aitɔwo le ame alafa ɖeka kple blaeve-vɔ-etɔ̃ .,Bele kple ayetɔ le amalawo fe ka kple blavewo etɔ.,0.7778,0.2955
+736,Yoas xɔ ƒe adre esi wòzu fia eye wòɖu fia ƒe blaene le Yerusalem.,Yeshua Kristo ƒe odufia ye odufia kple blema Yerusalem.,0.8571,0.5294
+737,"Egblɔ nam be: “Amegbetɔ vi, èkpɔ nu si wɔm wolea?","Aglo na mbe, amegbetovi, ekpo nusewo mu wòlea?",1.0,0.2778
+738,Ame aɖeke megali atu nye agbadɔ nam.,anye adekome gali atunya agbadonah,1.0,0.2414
+739,"Ame sia ame ate ŋu ado go gbe sia gbe, eye wòafɔ nuɖuɖu si wòhiã.",Amasi amatanwa dogo gbe si agbe. Oyi wa foro ruru si wu,0.9333,0.3673
+740,"Esi wòklɔ nu vɔ̃wo ɖa vɔ la, enɔ anyi ɖe Mawu ƒe nuɖusime le dziƒo.","Mesiwo, kloe nuvo da vɔ la. Nɔanyi de mawa kpanudu si me le ji.",0.8,0.36
+741,Gbe ma gbee nye ɣleti evelia ƒe ŋkeke wui atɔ̃lia gbe tututu esi woʋu tso Egipte-nyigba dzi.,"Gbamagbe enye le etsi eve lia penka ka we atɔ̃ lia gbe tututu, esime wòvo tso Egypt nyigba dzi.",0.8824,0.2329
+742,Menyà wo ɖa le mia ŋgɔ hetsɔ woƒe anyigba na mi.,Manya wò da le mia ngɔ.,0.8182,0.6757
+743,"Nu sia na wobu be, Amazia ɖi gbɔ̃ yewo eye wodo dɔmedzoe ɖe eŋuti ŋutɔ.","Nusianaa wògbube, amazi adigbo ya o, oye wòdò domoju ide nwuti nwuto.",1.0,0.4074
+744,Ke Zebulon ƒe viwo kple Naftali ƒe viwo.,kaza blanfe vio naftali fe vio,0.875,0.375
+745,"Ale wòtsɔ abolo atɔ̃ kple tɔmelã eve la, eye wòwu mo dzi hedo gbe ɖa ɖe wo dzi.","ala wòtò abulo atɔ̃, le tɔmela evela, eye wòwò mɔji, edò gbedada wòji. Ema gblɔ̃, eŋlɔ",0.8889,0.5085
+746,"Yehowa gblɔ na Mose be, “Tsɔ klosalo wɔ kpẽ eve hena ameawo yɔyɔ be woaƒo ƒu kple gbeƒãɖeɖe be woaho.","Yehowa agblɔ na Mose be, tsɔ kplɔsa luwo kpe eve nàamawu yoyo, be woafofo kple gbɔfadede be wowu.",0.55,0.3038
+747,eye wode Eglat Selisia ke.,"Ayiwode, Eglat Celisia",0.8,0.2381
+748,Miakpɔe ne miedii kple miaƒe dzi kple luʋɔ blibo.,"Mía kplɔ́e na miedii, kplɔ́e miakpeji kplɔ́e luvo.",1.0,0.375
+749,"Ɣeyiɣi sia mee Ahazia kple Yehoram kpe ɖe Yehu, Nimsi ƒe vi, ŋu le esime wònye Yehue Yehowa ɖo ɖa be, wòatsi Ahab ƒe viwo ƒe fiaɖuɖu nu.","Afi sia me ya ha zi akple Yehowa kple Yehu nim si fe vi, nu le esi me wonye Yehu e. Yehowa do da be wachi aha kple viokpa fia dudu",0.9286,0.2762
+750,Binui ƒe viwo le ame alafa ade kple blaene-vɔ-enyi .,"Nɔnui fe vie o, la mala faa de, blema ne vo enyi.",1.3333,0.3
+751,"Yesaya ƒe gbeƒã si wòɖe la va eme pɛ be: ‘Ame siawo ase nu, agase nu.",Eze afọ gba fọnsiọ dọla va mọ pẹba. Amasiọ asinu agasiọ,0.9375,0.52
+752,"Wotrɔ megbe de Aƒetɔ ƒe gbedoxɔ, eye wodze ŋgɔ ɣedzeƒe nɔ ɣe subɔm ɖo ɖe ɣedzeƒe gome.","Wòtrɔ megbe de afetɔfe gbedoxɔ, eye wòdze ngo edze fe. Nɔhe subɔm dɔdeha edze fe",0.7059,0.2794
+753,"Eya ta egbɔ va Yezreel be yeagbɔ ɖe eme, eye yeakpɔ egbɔ be woda gbe le abi siwo wode eŋu le Ramot, esime wòwɔ aʋa kple Aram fia Hazael la ŋu.","aya ta gbo va ye Zril, be ya gbo de ma. A ye ya kpo gbo be wu dagbele abi si wu de nwu le Ramot. A si ma wu afa kple Aramfia, Hazael la",0.9032,0.2661
+754,"“Gake ne míedi be woatso afia na mí le Kristo me eye mí Yudatɔwo hã míele nu vɔ̃ wɔlawo dome ɖe, ɖe mefia be Kristo le nu vɔ̃ dzi dem o mahã?","Gake ne mie di be woacho afia na mi le Kristo me, eye mie miyu da to ha, miele nuvo wolawo dome de. De mefia be Kristo le nuvo ji dem o mah?",0.5625,0.1905
+755,"Tete megadra ɖe anyigba tsyɔ mo anyi ɖe Aƒetɔ ŋkume abe tsã ene, ŋkeke bla ene, zã bla ene, numaɖumaɖu, tsimanomano.","Mégadzi na anyigba tso mwoanyi kple afɔtɔnkuma, abotanɛ nkaka blaana, za blaana, numadumadu, tsimanumanu",0.9524,0.3956
+756,Nyagblɔla la ƒe nyawo le abe ati nu tsutsɔẽ kple mɔfiati si woƒo ɖe to ene.,"nyagblɔlaa, fe nyawo le abe ati nuchuchue kple mɔfiati si ofuode to",0.5,0.2542
+757,"Ameha gã aɖe kplɔe ɖo, eye wòda gbe le wo ŋu le afi ma.","Amegã Godokpoledo, ayewodagbolowo nu le afi",0.8571,0.4
+758,elabe Aƒetɔ tsɔ nya ɖe ame siwo le anyigba la dzi la ŋu.,"Ele be afetɔ̃tɔ̃ nya de, amesi le anyigba la dzi la",0.5385,0.186
+759,Ale Mose ɖi tso to la dzi va ameawo gbɔ.,Alamose di tso tola dzi va ama,0.7,0.2667
+760,gake adrɔ̃ ʋɔnu na ame dahewo le dzɔdzɔnyenye me.,Aka adrobonu na amadaho le jojonyanya,0.7778,0.4615
+761,"Zadok, Imer ƒe vi, hã gbugbɔ gli si le eƒe aƒe kasa la ɖo.","Zadok, èma fevi, ha gbugbɔ gli si le efe afefe kasa jila",0.5714,0.3095
+762,nenema ke ame siwo gbɔna dzɔdzɔ ge la hã.,"Nenye ma ke, amesi ogbo na jojo ge la",0.7778,0.3438
+763,Woawo dzie wotsɔa hɛ siwo wotsɔna wua vɔsalãwo la dana ɖo.,Wò wò dziè wò tu àhè siò wò tu na wò àfòsàlànwùlà,1.0909,0.617
+764,"Abe ale si wòdzɔ kpɔ va yi ene la, esi dukɔ siwo ƒo xlã wo se be, Yehowa ŋutɔe wɔ aʋa kple Israel ƒe futɔwo la, vɔvɔ̃ ɖo wo le Mawu ŋu.","Abala siawo jɔ kpo va yi enela, esia duko siawo fu kple Israel, wo fute wula, fofodo le mawa wu",0.8438,0.4747
+765,"Esiwo tso Nebo viŋutsuwo dome: Yeiel, Matitya, Zabad, Zebina, Yadai, Yoel kple Benaya.","Joel, Matitia, Zabad, Zebina, Jadai, Joel, Benaya",0.7692,0.5075
+766,eye wova zu ŋunyɔnu abe nu si wolɔ̃ la ene.,"Yehowa sunu nyonu, abe nu si wolo la",0.6,0.3125
+767,"Etsea ku, ɖewo alafa, ɖewo bla ade eye bubuwo bla etɔ̃.","Etiaku do alafa, do bla ada, oya bubu o bla",0.8182,0.3659
+768,"Nenye eya ɖekae va la, ekema eya ɖeɖe nadzo.","Nenye aya de ke vala, ekema aya de kana",0.7778,0.2941
+769,"Ame sia sea nyanyui la tso mawufiaɖuƒe la ŋuti, gake mesea egɔme o, ale Satana va ɖea nyanyui la le eƒe dzi me.","Mesiase anyula, tso mawu fia dofo la nuti, ya ke mesi agome o. Ale satana va da anyula le efe jim.",0.7826,0.2674
+770,"“Ne ŋutsu aɖe tsɔ via nyɔnu dzra kosii la, eya madzo abe ŋutsuwo ene o.","Nenemae tofia nyonu, dra ko si la, aya ma jo abe ntuo ne",0.9333,0.3889
+771,"Tete wòdzo le gbɔnye yi dzigbeme lɔƒo, eye kpɔ ɖa, agbo aɖe li si dze ŋgɔ dzigbeme, eye wòle xɔxɔnu si le egodo la ŋu.","Ette, wòdzɔ le gbe nye. Ye dzi gbe me lɔfɔ. Eye kpɔda agbɔ adeli si je ngɔ dzi gbe me. Eye wòle hɔhɔnu si le egodo la",0.8,0.1889
+772,"Wokuna, eye ame bubuwo sãa xɔa kesinɔnu siawo katã!","Wòkùna, èyí àmábúbú òsà hòkàsì nò nùsìàwù kà",1.0,0.6098
+773,"Anyigba alo mɔ to, afi si nuku aɖewo ge ɖo la nye ame aɖe ƒe dzi.",Anyigba alo moto afi si nuku ada oga du la nye ame adekpa ji.,0.5,0.25
+774,Tɔgbuiwo ƒe nufiafia.,Tawi atɔ̃lia. Togbi Opare Nufiafia,1.3333,0.8333
+775,"Aleae Aƒetɔ ɖe Israelviwo tso Egiptetɔwo si me gbe ma gbe, eye Israelviwo kpɔ Egiptetɔwo ƒe kukuawo le ƒua nu.","Ale Israel viwo tso Egypt to tsima gbe ma gbe, eye Israel viwo kpo Egypt to kpo kukuruwo le fuanu.",0.8,0.2921
+776,"Fia la ŋlɔ dɔmenyo si Yoyada, Zaxarya tɔ́a wɔ nɛ la be, eye wòwu via.","Dela nglo domenyu si wòada, zã riatɔ̃ wòne labe, eye wòwu vĩ",0.8,0.3922
+777,eye gbe ƒuƒu bina le dzo me ene la.,"Ayiye, gba fufu bi na la jomɛ na la",0.8889,0.4615
+778,"Nenye ame la ɖe wònɔ agbe ƒe akpe, ganɔ ƒe akpe kpee, meɖu agbe aɖeke o la, ɖe menye teƒe ɖeka ma ke ko amewo katã yina oa?","Nenye, amela de wo no agbe, woakpe, ga no woakpe kpe. Ma du agbe adeka wola, de menye, tefe de kamake ko ama wukata yi na wu.",0.8571,0.2391
+779,Aƒetɔ ɖe gbe be woagbugbɔ gbedoxɔ la atu.,"Apeto degbebe, wo agbagba gbe do hola atɔ̃",1.0,0.2424
+780,Viɖe kae dɔwɔla kpɔna tso eƒe kutrikuku me?,videokai dollar kpona choe fe kutrikuku,0.875,0.3714
+781,"Nɔa tso Dan-to la me, eye tɔ́a tso Tiro.","Nuto dan tola me, eye tocho",0.7778,0.3571
+782,"“Woɖo eŋu nɛ be, ‘Ame aɖeke meva tsɔ mí be míawɔ dɔ na ye o.","Wòdo anùneba, ama daka, mafacho mi ba, nyawo dona",1.0,0.5952
+783,Ke asitsalawo kple nu kpotoe dzrala aɖewo va tsi Yerusalem-dua godo dɔ zi ɖeka alo eve.,Atsiã lawo ple nu kpoto dzeaniwo vã tso Yerusalemu va go do zi deka alo eve.,0.75,0.3
+784,"Ŋkeke ade nàwɔ dɔ, eye nàwɔ ŋuwò dɔwo katã.",nuka ke ada na wo do? Ena wo nu do ka,1.2222,0.5455
+785,"Le ŋdi la, afu do ƒo xlã asaɖa la, eye esi xexeme kɔ ŋdi la, nu ɣi nogonogoewo nɔ anyigba abe kpetsi ene.","Le gbe dila, afu do, fu kple asadala, ayie si ha ka me kɔ̃ dila, nuhi nogo nogui wo no anyigba gbe kpechi",0.8261,0.3291
+786,Esia nye Israel ƒe dɔdeasi tegbee.,Israel fe dɔdeasi tegbee,0.5,0.2857
+787,"Ke azɔ la, wose nu si wòwɔnɛ be amɔʋãnu la gɔme, eyae nye alakpanu siwo Farisitɔwo kple Zadukitɔwo nɔa fiafiam la.",Azolla wòsenu si wò wò nebè amegbanu la gòmè. Eya inye alakpanusi wòfarisi tòwò kple zadukitòwò nùòfiafia,0.9048,0.2747
+788,Etu xɔ tsralawo ɖe Yerusalem le Dzigbegbo kple Balimegbo la nu kple afi si gli la glɔ̃ mɔ le eye wòglã wo.,Atuho chala oye Jerusalem le jigbego le bali magbo lanu le afisi gli la gbon mola eye wo gbon,0.8182,0.3253
+789,"Le esia ta, ele na mí be míalé fɔ ɖe nya siwo míese la ŋu nyuie.","Mètsi ata èle namí, bé miàlé fòdé, nyasíwo miaséla nú nyuie.",0.9375,0.3404
+790,"Wonɔ woƒe aflaga yome le Elisama, Amihud ƒe viŋutsu ƒe kpɔkplɔ te.",Wò nɔ́ kpɔ́ afɔlagã yí wòmlɛ́ elisama. Amihud fɛ́ vinuchu fɛ́ kpɔ́kpɔ́.,0.9167,0.4151
+791,"“Ne wolé fiafitɔ aɖe wònɔ gegem ɖe ame aɖe ƒe aƒe me be yeafi fi le zã me, eye wowui la, amewula la medze agɔ o.","Ne wòla fiafitɔadewò nɔ gbe gãm da amaade papae ma, gbe ya fiafia le zã me. Eye wòwui la, amawula la ama je agɔ",0.7308,0.3012
+792,Ale Mose kple Aron gblɔ na Israelviwo katã be: “Egbe fiẽ mianyae be Aƒetɔ ye kplɔ mi dzoe le Egipte vavã.,"Mose kple Aron gblɔ na Israel vio ka tambe, egbe fie mia nye ebe akpɔ ta kplɔmi yi Egypt vayi.",0.7619,0.2805
+793,eye wògale abe ku si nu meɖia ƒo na o ene.,"Eyi o galle, abeg, ku si nu me di afo na o.",0.7273,0.3226
+794,Nu dzodzro siwo nye kpɔfufluwo la.,"Nu dzro dzro si wonya, kpo fuflui",1.0,0.25
+795,’ Migate ɖe toa ŋu kura o va se ɖe esime miase lãdzokpẽ aɖe ƒe ɖiɖi zi ɖeka sesĩe.,"Mígatɔ̃ de tuawukulao vasa de sime, miasɔ̃ lajokpɔ̃a de odidi zi deka. Sesie",0.9444,0.3387
+796,Enya avɔɖaɖa hã nyuie eye wòtea ŋu ɖaa avɔ aɖabɛ dzĩtɔ kple blɔtɔ kple nyagãdzĩtɔ hã.,"anya vo dada, ha nwe ye wota ngu da vo ada be eji to kple bloto kple nya ga ji to",1.1875,0.4783
+797,"Gake nya si wose la, meɖe vi na wo o, elabena ame siwo see la mexɔe se o.","Meka nya si wòse la, mada비나우. Ele gbena, ama si wòse la mekpoe so.",0.7778,0.4151
+798,Egblɔ le exɔlɔ̃wo kple Samaria-ʋakɔ ŋkume be: “Nu ka wɔm Yudatɔ beli siawo le?,"Egbolo le eho lo o, ble samaria fa kom me be. Nuka wom Judah to Belisia",1.0714,0.35
+799,"Le Israelviwo ƒe dzodzo le Egipte ƒe ɣleti etɔ̃ megbe la, wova ɖo Sinai gbedzi.","Israel viwo fɔ ɖe to dzi le Egypt fɔ gletia tɔ me gbe la, wo va do si na",1.1333,0.3548
+800,"Ne eva ɖo afi sia kaba la, nye kplii míava kpɔ mi ɖa.","Ne eva do afisia, kabla nye kple imi ava kpom",0.7692,0.2051
+801,"Nenye wò asi alo afɔe nana be nèwɔa nu vɔ̃ la, lãe ɖa ne nàtsɔe aƒu gbe.",Nanya wu asi alo afo inana be ne wo anu vonla. Nlai da ne nacho afugbe,0.7647,0.3585
+802,"Eye Yehowa gblɔ na Mose be, “Yi dukɔ la gbɔ, eye nàkpɔ be ameawo le klalo na nye vava.",Ayiye ho agblɔ na mɔ si be ye dukɔ la gblɔ ayi na kpɔ be ama wòle klalo na nyewava.,0.7368,0.2031
+803,"Aʋakplɔlawo kple kpẽkulawo ƒo xlãe, eye dukɔ blibo la le aseye tsom; kpẽwo le ɖiɖim eye hadzilawo tsɔ hadzinu vovovowo le kafukafuha dzim.","Aba kplɔla o, blekpe kplɔla o fo hã ye, eye ejukɔ blema le Aseɛtɔm, kple wo le didim eha ji la o, tɔhaji nu, fofo le kafukafu ha ji",1.1304,0.3894
+804,"Ezra ɖoe kplikpaa be yeadzro Aƒetɔ ƒe se la me, azɔ ɖe enu, eye yeafia eƒe ɖoɖowo kple kɔnuwo le Israel.",Ezra do eklipka be ya juro afetawo sela me aso de enu oye ya fia eperudo kple konuo le Israel.,0.6667,0.2963
+805,"Elabe wole gbɔgblɔm be: ‘Aƒetɔ mele mía kpɔm o, Aƒetɔ gblẽ anyigba la ɖi.","wòla be wòla gbagbɔ̃mbe, afetɔ melemia kpɔm o, afetɔ gblɔ anyigba la",0.7143,0.2143
+806,"Ɖo ŋku wò Wɔla dzi hafi ɣe, kekeli.","Donkue, wòla dži, afi ga kekeli",0.875,0.3462
+807,Ʋu si miesi ɖe ʋɔtrutiwo ŋu la anye dzesi be mieɖoa tom.,Míusime si de ŋuteti ŋu la anye jeshi be míado ato.,0.5833,0.3864
+808,"Gbe ɖeka la, Yesu kple eƒe nusrɔ̃lawo zɔ to bligble aɖewo me yina afi aɖe.",Yesu kplɔ̃ fa nu srɔ̃la ozotobliwo ada uma yi na afiade,0.9333,0.4386
+809,"Bubumewo dɔa woƒe dɔlawo ɖe tsikuƒe; woyina ɖe vudowo to, gake womekpɔa tsi le wo me o.","Bubu mawo do awu podo lawo de chikofe, woyi na de fu do to, baka wo ma kpo achi la wo ma.",1.2353,0.3529
+810,"Esi wonɔ mɔa dzi yina la, Yehosafat tɔ ameawo eye wògblɔ na wo be, “Miɖo tom, Yuda kple Yerusalemtɔwo.","Esia wonu mwoa dzi yi na la, Yehoshaphat to amawu a ye wu gblo na ugbe. Mido tome, Judah kple Jerusalem to",1.0,0.2785
+811,"“Ne ame aɖe ɣe nɔvia ƒe lã alo nu bubu aɖe, eye nuvevi wɔ lã la alo wòku la, ne nutɔ menɔ afi ma ɣe ma ɣi o la, ekema ele be ame si ɣee la naxe fe ɖe eta.","Na ma dega nofiape la alu nu bugbode, aye nuvavi wo la alu wokula. Na nu tome no afi ma ghi maghi ola, akama alebe amasi gho ila nakhe fode.",0.9,0.4
+812,"Le nyateƒe me, mana miakpɔ ŋutifafa mavɔ le teƒe sia.",le ŋkɔ tɔfɛ me. Ma na miakɔ ŋuti faa ma vɔ le tɔfɛ sia,1.0,0.2619
+813,Lo bubu aɖe si Yesu do le dziƒofiaɖuƒe la ŋu lae nye esi: “Agbletɔ aɖe do go gbe ɖeka ŋdi aɖe be yeadi apaɖilawo woawɔ dɔ le yeƒe waingble me.,Lɔbubu ade si Yesu do le Jipko fia do kpɔla nula nye si. Agbetɔ ade do go gbe ka di ade be ya di apa di lao wa wo do le ye kpe wa ngbe,0.8667,0.2909
+814,” Ale Mose ɖi yi dukɔ la gbɔ ɖagblɔ nyaawo na wo.,Ale si wo sɔ gbɔ ta gblɔ nya o na o.,0.8182,0.4167
+815,"O nye Mawu, wò ŋku nanɔ nu sia dzi, eye mègaŋlɔ nu nyui siwo katã mewɔ na nye Mawu ƒe aƒe la kple mawusubɔsubɔ le Mawu ƒe aƒe la me be o.",wo nyemawu wo nkuna no nu si aji eye maga nlo nu nwi si okata mawu o na nyemawu fe afela kple mawu subosubo le mawu fe afela me,0.8438,0.2427
+816,"Ege ɖe Mawu ƒe aƒe la me, eye togbɔ be se meɖe mɔ be eya kple eŋutimewo naɖu vɔsabolo la o, elabe nunɔlawo koe kpɔ mɔ aɖui hã la, eya kple eŋutimeawo ɖui.","Ega le mawu fe afelama, eye togbuiwo, sema demowo eye yakplɔ ntim wo na du, fosa bulu lawo. La bu nulawo kple kpoma, adui, hala, eye yakplɔ ntim yawo du.",0.9394,0.3814
+817,"Menye nu si yina ɖe ame ƒe nu me lae ƒoa ɖi ame o, ke boŋ nu si doa go tso ame nu lae ƒoa ɖi ame.","Mewana asi le na da, ama pa, nu me le ayefuadi ama o. Kpao me niso do ago to ama nu layefuadi ama.",0.8519,0.4493
+818,"Esi Migdaltɔwo kpɔ nu si dzɔ la, wosi yi mɔ si te ɖe Baal Berit, ƒe subɔƒe la me.","Míedaa tó kpɔnu si jɔla, wòsì mɔsi tere barbarit pesu bɔfɛla",0.9474,0.4
+819,"womafɔ fu o, eye womado fu hã o.","Oma fofo, eoma dofu ha.",1.0,0.3478
+820,"Ena nunya kple nugɔmesesee be wòatu gbedoxɔ na Aƒetɔ, eye wòatu fiasã na eɖokui.","Ena nu nya kple nu gome sesẽ be wòtu gbedoxɔ na Afetɔ, eye wòtu fiasá na Edoku.",0.7143,0.1385
+821,Mana ɖeke srɔ̃a lɔlɔ̃a gɔ̃ kaka wòahayi ɖe na ge viawo dometɔ aɖe o.,"Mena daka suwa loloa gon, kaka ahayi de naga viawo dometo adaka o.",0.7857,0.3725
+822,"Ne ŋutsu la gbe nu etɔ̃ siawo dometɔ ɖeka wɔwɔ la, ekema kosi la kpɔ mɔ adzo, eye maxe fe aɖeke o.",Ndi wu choo la gba nu eto si a wu dum eto di ka o wu la. O ka ma ko si la kpo mu ajo. Anyi ma ha fa di ka o.,1.2727,0.4384
+823,"“Esi miele kɔkɔe, eye mienye nye dukɔ tɔxɛ ta la, migaɖu lã aɖeke si lã wɔadã aɖe wu o.",Aseye mi le kɔkɔe. Aseye mi nya nyadu kɔtɔhi tala. Bi ga du la de ke si la wada de wu.,1.0,0.3231
+824,Ale Yehowa gblɔ tso dukɔ sia ŋutie nye esi: “Wolɔ̃a tsaglalãtsatsa vivivo; woƒe afɔwo menɔa teƒe ɖeka o.,"Mawu Yehowa blibo tɔ dukɔ si aŋuti ŋɔli esi wòlu achaglaracha cha bi vivo, ufafo umenu atepe de ka",0.8889,0.4268
+825,"Wokplɔe vɛ na Yehu eye wowui heɖi elabe wogblɔ be: “Yosafat, ame si di Aƒetɔ kple dzi blibo la ƒe tɔgbuiyɔvi ye.","Wò kplɔ́ éva ná ye hú. Éyá wò wí hé dí, élabena wò kplɔ́ bé Yosafat amesi dzi apétɔ́ kplɔ́ Jibribola pétɔ́ gbɔ́ ví",1.0455,0.4023
+826,"Aƒetɔ Yehowa, ame si ƒo Israel ƒe amewo nu ƒu la be.","Apeto Yehowa, amasifo Israel fa ama unu fu la",0.75,0.3077
+827,"Le toa dzi la, Yesu ƒe dzedzeme trɔ enumake.",Yesu fa jeje ma tro anume,1.0,0.6176
+828,"Míawoe nye si le ŋkuwò me le míaƒe agɔdzedze me togbɔ be, le esia ta mía dometɔ ɖeka hɔ̃ɔ hã mate ŋu atsi tsitre ɖe ŋkuwò me o hafi hã.","Mia we nye amesi wòle nku ome, le miapa go jeje me togbɔe, le esi ata, mia dometɔ le ka hɔ̃ ha. Maate ŋu achi sitru le nku ome o hafi ha.",0.8333,0.3204
+829,Salomo ɖo be yeatu xɔ si me woasubɔ Aƒetɔ le kple fiasã na ye ɖokui.,"Salumu odobé, yatuho simé, wa subo afeto le blefiasana Yeroku",0.9333,0.3208
+830,Kpẽkuku la ƒe ɖiɖi le sesẽm ɖe edzi wu.,Wɔkɔkula fafedi na sɔsɔm d'a ji,1.0,0.6667
+831,eye ya aƒo woƒe seƒoƒowo adzoe abe ʋuʋudedi ene.,"Ayi yaa, afofoe, zafofoe ajui, abafofoe daddy",1.0,0.6667
+832,Gbedoxɔmesubɔlawo kple Solomo ƒe dɔlawo ƒe dzidzimeviwo le ame alafa etɔ̃ kple blaasiekɛ-vɔ-eve .,Bado ho masubalao. Solomon fedo lao feji meo. Le ame alafe ato. Le blase ke voeve.,1.0769,0.4125
+833,"Ne mieva ɖo anyigba si Aƒetɔ le tsɔtsɔ ge na mi, abe ale si wòdo ŋugbe ene la dzi la, ele be mianɔ subɔsubɔ sia wɔm.","Miavado anyigba sia fũtɔ le toto ge nami, agbe yari si wodo ngɔ ene la ajila. Ele be miano subɔsubɔ siawó",0.6538,0.2727
+834,"” Woɖo du ma ke ɖem zi ene, eye nye hã meɖo ŋuɖoɖo ma ke ɖe wo ɣe sia ɣi.",Enye ha me do ngdodome akede ohe sia,0.9474,0.6275
+835,"Wogblɔ be, “Ɖe Yehowa ƒo nu to Mose ɖeɖe ko dzia?",Oglaba de Yehowa nu to Mose dodo kple oji a.,0.7273,0.4444
+836,"Nɔae nye Zibya, etso Beer-Seba.",Nuaenye zibia etso,0.8,0.4167
+837,"Tete Yuda-dukɔ blibo la tsɔ Uziya, ame si xɔ ƒe wui ade la, ɖo fiae ɖe tɔ́a Amazya teƒe.","Teteu daju kobli bola, Josiah, amasi hopé vi adela, lo fi ede tua amazia tefe",1.0,0.3538
+838,Amegãxi kple alẽvi anɔ teƒe ɖeka; lãkle atsyɔ akɔ ɖe gbɔ̃vi gbɔ.,"Amegã Hikple Alivi anɔ teƒe deka, la kple Aƒewɔ Akɔ de gbonu",0.8333,0.3
+839,“Mawu bubu aɖeke meganɔ asiwò le ŋkunye me o.,"Mawu bubu adeke mega nɔ asiwò o, nkunyem",0.7778,0.1714
+840,"Afi ma mia fofowo dom kpɔ, eye wotem kpɔ le.","Afima mia fofo do nkpo, eye wòte nkpo",0.8,0.2727
+841,Elabe esia le nam abe Noa ƒe ŋkekewo ene.,Esi wòle abɔ nu wòaplkɛ kakewo,1.0,0.6875
+842,"Nuvuɣi li, eye nutɔɣi li; ɖoɖoeziɣi li, eye nuƒoɣi li.","nu vu ili, eye nu tɔ ili, dodo ezi ili, eye nu fo ili",1.2,0.1707
+843,"Yerixo-ŋutsuwo ɖo glia ƒe akpa si kplɔe ɖo la, eye Sakur, Imri vi, ɖo akpa si kplɔ Yerixo-ŋutsuawo tɔ ɖo la.",Yerenhu nutsuo do gliafe akpa sekplo dola eye sako imrivi do akpa sekplo yerenhu nutsuo,0.8571,0.3659
+844,"Fia la kple Yoyada tsɔ gaa na dɔnunɔla siwo le Aƒetɔ ƒe aƒe la dzadzraɖo nu, eye woawo tsɔ xɔtulawo kple atikpalawo be woagbugbɔ Aƒetɔ ƒe aƒe la aɖɔ ɖo.","fia la ple yui ada, tso gana donu no la si ole afetofe afela, yajira do nu. ewa ucho hochu la ple achi pala obe wa gbugbo afetofe afela do",0.9333,0.3719
+845,"Alilikpo dodo aɖe ɖiɖi ɖe to la dzi, eye kpẽ aɖe ɖi sesĩe ale gbegbe be ame siwo katã le asaɖa la me la dzo nyanyanya.","Aleli gbadodoade didi la tola ji, eye wo kpeade di sesi e ale be gbadodada be amesiwo katã le asa da la mla jo nyanya",0.8846,0.3516
+846,"Ke ŋkeke adrelia nye dzudzɔgbe le Yehowa, wò Mawu la ŋkume.","Ka ka ka, adryanya jojo gbe le Yehowa, Mawu la nkuma.",0.7273,0.383
+847,Eyome woana eƒe aƒe nazu aɖukpo.,"Ayo Me, wòanna ape ape nazu adukpo",1.0,0.2692
+848,"Migaɖui mumu alo aɖae hafi aɖu o, ke boŋ mimee dɔnogoe, ta kple afɔwo siaa.","Míegadui mumua alo adayi hafi adu o, ke boŋ míme dɔnugui ta kplɔ̃ fɔ́ sia",0.6,0.3103
+849,"Tso Yosua, Nun ƒe vi ƒe ŋkekewo me va se ɖe gbe ma gbe la, Israelviwo megaɖu azã sia kpɔ abe ale si woɖui gbe ma gbe ene o, eye woƒe dzidzɔkpɔkpɔ gbã go.","Josua na wo fe vinka ka ome, vasere gbe ma gbe la, Israel viome ga dza sia kpo, abale si o du igbe ma gbe no o, eya fe jijokpokpo gba",0.7941,0.3448
+850,"hafi agbe ƒe klosaloka natso, sikagba nagbã.",Afi agbape closer look na cho si ka gba na,1.4286,0.3611
+851,"Israel ƒe aʋakɔ si Amazia gbugbɔ ɖo ɖe aƒe la, ge ɖe Yudanyigba dzi eye woha nu le du geɖewo me le Bet Horon lɔƒo ɖo ta Samaria.","Israel paapaa kọsii amaazi a gụgbọdọ, na akpela, geda Yudani gbaaji, a ye wọ haa nu le geda uma le Bet Horon, lọfọdọ ta Samaria.",0.7143,0.3636
+852,"Ne megbugbɔ nu siwo megblẽ la ɖɔɖola, ekema mezu sedzidala.",Nema gbugbo nusi o magbala dodo la. Akama mazusa ji dala.,1.0,0.3125
+853,eye ame sia ame asi ayi wo denyigba dzi.,"Ayi amasi ama, asi ayi wo danyi gbaji",0.6667,0.2581
+854,"Bakbuk, Hakufa, Harhur.",back book ha ku fa ha hu,2.3333,0.2778
+855,Ke Yehoram kple eƒe tasiaɖam megãwo kpe aʋa kple Edomtɔwo hekpe wo dzi hesi to wo dome dzo.,"kple yehoho kple kpetasiwo me gawo, kple afakple dometowo kple kpeoji, ha si to domo",0.8889,0.3973
+856,Ke mede dzesii be nu ɖeka ma ke koe dzɔna.,"Kama dze asi ba, nu da kama ke ko ijo",0.8,0.4688
+857,"Aser-to ƒe aʋakɔkplɔlae nye Pegiel, Oxran vi, eye Axira, Enan vie nye Naftali-to ƒe aʋakɔkplɔla.","Aser tofe afakoklo enye pegiel, osranu vi eye asira enanu vi enye naftali tofe afakoklo",0.8,0.2368
+858,"’ Megblɔ be, ‘Miɖo tom, miwɔ nu siwo katã meɖo na mi, ekema mianye nye dukɔ eye nye hã manye miaƒe Mawu.","Megblɔ be mi do tome, miwɔ nu siawukata ma do na mi. Ekema anye nyadzuko na wo, eye nye ha ma nye miafe mawa.",0.7143,0.2468
+859,"Mikpɔ ale si ame siwo le anyigba la dzi hã le, ne wonye ame sesẽwo alo ame benɔewo, ne wosɔ gbɔ alo womesɔ gbɔ o.",Mkpọrọ ahịrị si a mụọ si ụlọ anyị gbalaga ịhaala. N'ewu nye a mụsịrị ya alụọ nwa bọ nọọ. N'ewu sọgbọ alụọ ụmụ sọgbọ.,0.96,0.5465
+860,"“Nenye be alẽ alafa ɖeka le ame aɖe si, eye ɖeka bu la, aleke wòawɔ?",Nye ba ala ala fa deka le amadzi. Eye deka bula. Aleke wo,0.8667,0.28
+861,"Tso Pasur ƒe dzidzimeviwo me, ame akpe ɖeka alafa eve kple blaene-vɔ-adre .","Ame akpereká ala fá ve, bleblanu vá dre.",1.0,0.5763
+862,“Ele be woawu ame sia ame si aƒo fofoa alo dadaa.,alaba wawu amesi amesi fufufu alu dada,1.0,0.3514
+863,"” Gake womeɖo to Mose o, eye ame aɖewo gblẽe ɖi ŋu ke ɖe edzi; ke edze nyé eye wòƒaƒã.","Ke, omegboto Mose o, eye amewo gblẽli nu ke, de ji ke ejenya eye wòfa fa.",0.7368,0.3333
+864,Ɖoɖo sia mee Israelviwo ƒe towo nɔna hezɔa mɔ.,"Dodo sia me Israel viwo fa tu nona, hazo",0.8889,0.3784
+865,elabe womeɖo toe o; woanye tsatsalawo le dukɔwo dome.,"Elabewu me do tu o, wanye chachala o le juko dome.",0.8889,0.3023
+866,Wonɔ akpata la kple vɔsamlekpui la dome.,Wò nɔ akpatala kple avɔ samekpɔla dome.,0.7143,0.1515
+867,"Asna, Meunim, Nefusim.",Asna meonim ya fusin,1.0,0.2353
+868,Gake abolo agbɔsɔsɔ sinu ame ɖeka ate ŋu aɖu gbe ɖeka la ko ame sia ame kpɔ mɔ afɔ le ŋkeke ɖeka dzi.,Gake abolo agbɔsɔsɔ si nu amewo katã adu gbadza la ko amesiawo kpɔm afo le kekeake dzi,0.6957,0.2564
+869,Migana aʋakɔ gã sia nana dzidzi naƒo mi o elabena aʋa la menye mia tɔe o ke boŋ Mawu tɔe!,Miga na ava kɔ gasia na na jiji na fɔmiewo la abena ava la menye mia tɔ ewuke bu ma wu tɔ,0.95,0.2609
+870,"Na nunɔla siwo ate ɖe ŋunye hã nawɔ wo ɖokui dzadzɛ, ne Aƒetɔ magaɖe gbe ɖe wo dzi o.","Nanu nola, siu atete nu nyela ha. Nawo wodo kui jaje ne apoto mega degbe de hoji",0.9474,0.3846
+871,Fiateƒenɔla Rexum kple agbalẽŋlɔla Simsai woŋlɔ agbalẽ tso Yerusalem nu ɖo ɖe fia.,"Fia David nɔla rehumme kple agba le nula, Simeon, wòŋlɔ agbalẽ to Yerusalem nu dodefia",1.0,0.2754
+872,"Ale si Aƒetɔ kpɔ dzidzɔ le mia ŋu, wɔ nyui na mi, eye wòna miedzi sɔ gbɔ fũu la, nenema ke wòakpɔ dzidzɔ le mia wuwu kple mia tsɔtsrɔ̃ ŋutii.","Ale si wòpotokpo dɔdɔ le mia ŋu wònyuina mi, eyee wòna meji sɔgbɔ fũ la, ana make wòpɔ dɔdɔ le mia ŋu owo kple miatɔtrɔ nti",0.6667,0.2897
+873,"Yesu do lo bubu na wo be: “Dziƒofiaɖuƒea ɖi ame aɖe, si wu nuku nyuiwo ɖe eƒe agble me.","Yesu dɔ la bubu na wò be, dɔfofiaropu a di amewala, si wònu ku nyuie dahepe agblẽ",0.7368,0.3538
+874,"Esi Zaxarya nɔ kukum la, egblɔ be: “Aƒetɔ nekpɔe ne wòabia hlɔ̃.","Mese be haɖia nɔ kukum la, egblo be afeto ne kpue ni wobia",0.75,0.3542
+875,Etso du yeyewo ɖe Asdod nutomewo kple teƒe bubuwo le Filistitɔwo ƒe anyigba dzi.,Metsɔ duye yeye o de asdodo nu to me nu o. Mletafe bubu o le Felicita ofa nyigba dzi.,1.2143,0.303
+876,eye Midiantɔwo le dzodzom nyànyanya.,Midianto le jojom nyanya,0.8,0.3871
+877,"’ Elabe tso esia dzi yina la, womeganye ame eve o, ke boŋ wozu ɖeka.","Mía beto si adyi yinala, amoga nye ama vovo, ke bum ozuruka",0.9286,0.34
+878,"Se la nye nu nyui siwo gbɔna la ƒe vɔvɔli ko, eye menye nua ŋutɔwo o.",Se la nye nu nwi si ogbo na la kple vovoli ko. Eye menye nu anute o.,0.5,0.25
+879,"Yehowa gblɔ na Mose azɔ be, “Dɔ ŋkutsalawo ɖe Kanaanyigba, anyigba si mele tsɔtsɔm na Israel la dzi.","Yehowa gblɔ na Mose azɔngbe, dɔ nkutachala ude ka na Anyigba. Anyigba si mele chɔchɔm na Israel la",0.5,0.2025
+880,"Wogblɔ na ameawo be, “Anyigba si dzi míetsa ŋku le la le edzinɔlawo mim.",Ogblona ama uba. Anyi gbasiri ji mee chaa nkwu lelele eji nọla uminu,1.0,0.4107
+881,Pasur ƒe viwo le ame akpe ɖeka alafa eve kple blaene-vɔ-adre .,Passe-partout view la main kpléka à la fin avril ou en novembre.,1.0909,0.6875
+882,"Esiwo tso Bani viŋutsuwo dome: Mesulam, Malux, Adaya, Yasub, Seal kple Yeramot.","Asioto, Bani, Vintodo, Me, Mesulam, Malus, Adaya, Yasub, Selekple, Iramot",0.6667,0.2097
+883,Elabe kplɔlaawo dzɔ lã.,"Mèla be, mèle wo dɔ̃",1.25,0.5789
+884,"Ɣe ma ɣi la, miagblɔ be: “Aƒetɔ, mada akpe na wò!","Amayi la, mia gblɔ be afetɔ Mada kpe na",0.7273,0.2059
+885,Mana wò xɔta ƒe tsutsyɔẽƒewo nanye gbloti.,"Mada wò xɔta fɔ, tutui fɔ wò na nye gbloti.",1.0,0.3143
+886,Nyee nye agbledela si ƒã bli ɖe nye agble me la.,nye agladela si fabli de nye agble me,0.5455,0.2973
+887,"Le esime ameawo le tsitre ɖe adzɔge la, Mose ge ɖe blukɔ si me Mawu nɔ la me.","Mese me amawu, le tsitodzo ajogela. Mese geda burkosi me mawu nola.",0.8333,0.3621
+888,"Le dzinu ewolia ƒe ŋkeke gbãtɔ dzi la, wonɔ anyi be woaku nya la me, eye le dzinu gbãtɔ ƒe ŋkeke gbãtɔ dzi la, wowu ŋutsu siwo katã ɖe dutasrɔ̃ la ƒe nyawo nu.",Ele dzi nu ewole ya fe nuka ke gba to dzi la. Wunu anyi be woaku nyala mi. Ele dzi nu gba to fe nuka ke gba to dzi la. Wowo chusi ukata ade duta sro la fe nya wunu.,0.9412,0.2893
+889,"Ne menye nenema o la, míatra tso wo gbɔ.","Manya nane ma o la, mia tra",0.7778,0.4667
+890,” Ale dukɔ la dzudzɔ eɖokui le ŋkeke adrẽa gbe.,"Ale jukɔla dodo, odokui le nkeke adriangɔ̃",0.7778,0.3333
+891,ne yeawɔ nɔƒe ɖe dziƒo ke be yeasi le gbegblẽ nu.,"Ne awo nofe de ji fo ke, be ya sile nu gbe gbe nu",0.9091,0.3684
+892,"Edze na ku elabe egbã vɔsamlekpui si míeɖi na Baal, eye wòlã nyɔnumawu Asera si le egbɔ la hã ɖa.","Agbo, tete gege mpo je si azo be apeto apedola",0.95,0.8158
+893,"Mede se na wo be, womaʋu Yerusalem ƒe agboawo o va se ɖe esime ɣe nadze nyuie hafi, eye woatu wo, ade ga wo me le esime dzɔlawo aganɔ gliawo ŋu dzɔm ko.","Medese na wò be, Mawu akplɔ ye rusanu fa gbo, vasere si mege na je nwi hafi ewa tuo. Ade ga ome le sime jola o, aga no gla o njom",0.8485,0.3966
+894,"“Ke miagade asi Yehowa, miaƒe Mawu la didi me.","Mía ga de asi Yehowa, miafomawula didi",0.7778,0.2
+895,Nenema ke mia Tɔ́ si le dziƒo la medi be nenem ŋusẽmanɔŋutɔ siawo dometɔ aɖeke natsrɔ̃ o.,"Anam ake, my thoughts are with you all. May God in His infinite mercy comfort and strengthen you all.",1.1176,0.9143
+896,Aƒetɔ ƒe dɔlawo ƒe domenyinu nye esia.,Apetorpe dɔlawo ƒe dɔmenyinu nye,0.5714,0.2903
+897,"Míalé be na wò, elabena Yehowa do nu nyui geɖewo ŋugbe na Israel!","Mía le bɔna wu, elabena Yehowa dɔ nunyigadewu ngɔ na Israel.",0.6923,0.2353
+898,"“Gake amiti ɖo eŋu na wo be, ‘Ɖe madzudzɔ amidzidzi, ami si wotsɔna dea bubu mawuwo kple amegbetɔwo ŋu be mava ɖu fia ɖe atiwo dzia?","Kaka ameti do na obe, de ma jojo amijiji, amisi ocho na dia bubu mawo, plamegweta onu, bemava dufia re ati",0.9231,0.3922
+899,"Wolé ame akpe ewo bubu agbagbe, kplɔ wo yi to aɖe tame; wotu asi wo tso afi ma eye woge dze agakpewo dzi le balime la, nuvevi wɔ wo eye woku.","Wòla ma kpɔ́ wò bubu agbagbe, blɔ́ wò yí tɔ́ adá tamɛ. Wò tu asi wò chu afi ma ye wò ge je aga kpɔ́ oji le bali me la. Nuvevi wò wò ye wò",0.871,0.3084
+900,alo Yuda nagaxaxa Israel ɖo o.,"Alo, Yuda, na ga haha Israel",0.6667,0.2083
+901,Wowɔ esia le Persia-fia Kores ƒe dziɖuɣi katã va ɖo Persia-fia Dario ŋɔli.,Wòwò èsìa le pèsiafia kple dɔwutunyawo ŋuti le pèsiafia Dario Noli.,0.8462,0.4915
+902,"” Yesu blu ɖe gbɔgbɔ vɔ̃ la ta, eye wòdo go le ɖevi la me ale be eƒe lãme sẽ enumake.","Yesu blu da gbagba fɔlata, eye wòdogola da vila me, alebe afala me sa enu ma",0.8,0.2459
+903,Agbalẽfiala Ezra de agba kɔkɔ aɖe si wowɔ kple ʋuƒo hena ŋkekea la dzi.,"Agbalẽfia la Ezra de agba kɔkɔa de si wowɔ kple fukpo, ena nkekea la",0.5714,0.1579
+904,Ate ŋu azu kplɔla na ame akpe akpewo eye ame sia ame alɔ̃e.,Atonu azu kpolana ama akpe akpe o. Onye amasi ama anọ.,0.8462,0.2889
+905,"Wode dzesii le Seawo sɔsrɔ̃ me be, Yehowa de se to Mose dzi be, ele na Israelviwo be, woanɔ agbadɔwo me le Agbadɔmeŋkekenyuiwo me.",wò de dzi si le sauso strom ebe ihu ate se to mose jibe ele na Israel viwo be wo ano agbado ome le agbado me nkeke enyi ome,0.9167,0.2353
+906,Kanan nyɔnu la ƒe xɔse.,"ameha la, eye wògblɔ na wo be midoto nya sia igblɔ ge mala",2.6,2.1111
+907,Gbedoxɔmedɔwɔlawo kple Solomo ƒe subɔlawo ƒe dzidzimeviwo le ame alafa etɔ̃ kple blaasiekɛ-vɔ-eve .,"Dodo homedo lao, le Solomon festival la fe didime vio, la la fa aton le Blantyre kple Blantyre.",1.3077,0.561
+908,"Gawu la, míekpɔ Anak ƒe dzidzimeviwo gɔ̃ hã le afi ma!","ga wula. Mepɔ anakpɔjiji mevi o, gonu ha la afi",0.9091,0.3902
+909,"Esi Israel kpɔ ŋusẽ triakɔ si Aƒetɔ tsɔ tu nu kple Egiptetɔwo la, dukɔ la vɔ̃ Aƒetɔ, eye woxɔ eyama kple eƒe dɔla Mose dzi se.","Esi Israel kple amewo triakɔwo siawo pete tɔ tu, nukplẽ Egypt tɔwo, dukɔ la pete eya wòho, eya ma kplẽ epodola Moses ditsa.",0.8077,0.3711
+910,"Le ƒe eve megbe la, eƒe dɔkaviwo do go eye wòku le vevesese geɖe me.",Afe do ka vi odogo eye wo cool le vevesese gome.,0.8667,0.4808
+911,Elabe Israel ƒe Kɔkɔetɔ triakɔ la.,alaba ezidodo kokoto triako,1.0,0.6071
+912,"Ke ame siwo ŋu wodea bubui la, ame ka ke wonye hã la, nyemetsɔ ɖeke le eme o; Mawu mekpɔa ame ŋkume o, ame siwo buna bena wonye nane la, womegblɔ nya aɖeke fiam o.",Ke amasiom wo da bubu ila. Amaka ke ewo nya hala. Ya mecho dekele ema o. Ma wu meku amanku ma o. Amasiom bu na be na. Wo nya na nela. Uma gblo nya deke fiam o.,0.9143,0.2602
+913,Meɖo na wo hã be woawo nanɔ nu siwo amewo dzɔ la mam na wo tɔwo.,Mado na wò ha be wòwo na nusiwo ama ojola mâmna wò tɔ,0.875,0.3542
+914,"Esi wòku la, womefae o, woɖii ɖe Yerusalem gake menye ɖe fiawo ƒe ameɖibɔ me o.","Asiwo kulla, wòmafai o, wòdi ire Yerusalem ga ka, manye da fia wòpe amri bome o.",0.875,0.2951
+915,"Esia megbe, Mose, Aron, Nadab, Abihu kple Israel-me tsitsi bla adrẽ la yi toa dzi.","Yesu yaa mɔgba, Mose, Aron, Nadab, Abihu kple Israel-vi 70 bla aɖanula yi tu agba",0.6,0.3387
+916,"Enyo be woatsɔ amenuveve ado ŋusẽ miaƒe dziwo, ke menye to nuɖuɖu tɔxɛ aɖewo ƒe sewo dzi wɔwɔ me o, esiwo mehea viɖe aɖeke vanɛ na ame siwo ɖunɛ la o.",Anyigba wacho amenuveve hado wu se miakpeji o. Ke manya to nududu toka ya de ukpe se wu jiwowo ma o. Esi wo meha viliade ke vanyi na amesi oduna ila o.,0.9032,0.3761
+917,Ɖe nèbe yeawu nye hã abe ale si nèwu Egiptetɔ ma enea?,"Wòe nye nya a, abui ale si wònye Egyptotɔwo tɔ ma ene",0.8333,0.5952
+918,"Ke hã la, ewu eƒe dɔ la nu tso xexea me ƒe gɔmedzedzea me ke.",kple awu akpa dollar nu chohe ka mepe gomedze dzia me,0.8667,0.4889
+919,"Mawu na Sekemtɔwo hã kpe fu ɖe woƒe ŋutasesẽ ta, abe ale si Yotam, Yerubaal ƒe vi gblɔe do ŋgɔ, esi wòƒo fi de wo la ene.","Mawu na sike m ton ha kpe fude ofenwita sese ta. Abale si yotam, ye ruba fevi igble do ngo. Esi ofofide ula ene.",0.7407,0.2747
+920,Elabena ame siawo ƒe dziwo ku atri; woƒe towo hã mesea nu o.,"Mía labena, amesia wònye fia Jioquim III. Fia tɔ̃a masanu",1.0,0.587
+921,"Ele be Eliya nava, aɖɔ nu sia nu ɖo hafi Kristo la nava.","alaba lia nava, adonu sia nudo hafi kristo nava",0.6154,0.2381
+922,"Ne wokpɔ nu si wòfi la agbagbee le esi, nyitsu lae loo, tedzi lae loo, alo alẽ lae la, ele be wòaxe eƒe fe teƒe eve.","Nɔkplɔ̃si wòhwlã agbagbe le esi. Nyitula elo, tejila elo, alɔ̃la ela. Alebe wòxe akpe fotɛpe",0.9231,0.3488
+923,"’ ” Ke ameawo ɖo nugbe ɖe eŋu, eye fia la ɖe gbe woƒu kpee wòku le Aƒetɔ ƒe aƒe la ƒe xɔxɔnu.","Ke amewo do nu gbedeenu, eye wofiale degbe ofukpe wokule afetofe afefe hoho",0.9048,0.3731
+924,"Ne èlɔ̃ la, na míawɔ agbadɔ etɔ̃, ɖeka nanye tɔwò, ɖeka nanye Mose tɔ, ɖeka nanye Eliya hã tɔ.",na alonla na miawo agbado eton deka nanye to deka nanye mosi to deka nanye eliyahu to,0.7895,0.2754
+925,"Wo kplɔlae nye Naheson, Aminadab vi.","Wò kplɔ́ la enyá na hɛ́son, amenadábí",1.1667,0.2414
+926,"Nu sia tae metsɔa lododo fia nu amewoe ɖo be; “Togbɔ be woanɔ nua kpɔm hã la, womakpɔe adze sii o.","Nu sia ta e matsua lo dodo, fia nu ama we do ba. Togbui wanɔ nu akpɔm hala, uma kpɔ ajasi",0.9048,0.2568
+927,"Migaŋlɔ nyuiwɔwɔ be o, eye miama nu kple mia nɔewo, elabena vɔsa siawo tɔgbie dzea Mawu ŋu.","Migan nlon, mi wo wo bo. Eyi mi ama nu kple mi ano. La be na, vo sasi awu to gbe je ama wu.",1.2941,0.2917
+928,"Hadzilawo: Asaf ƒe dzidzimeviwo, ame alafa ɖeka kple blaeve-vɔ-enyi .","Hajilao, asafiaji mevio, amalafare kaakla blaave vo enyi.",1.0,0.3091
+929,Ame siwo tso Betel kple Ai le ame alafa eve kple blaeve-vɔ-etɔ̃ .,Metsi o cho Bethel pele ai le amaala faave pele blaave vo eton.,0.9167,0.3265
+930,Ahab bia Yehosafat be wòakpe ɖe ye ŋu yewoaho aʋa ɖe Ramot Gilead ŋu.,Ahabe Yehu safadbe wa kplele ye nu Yehu ahu. Afade Ramot Giliad,0.8571,0.3091
+931,"Ne eɖoe be yeatsɔe na ye viŋutsu ne wòaɖe la, ekema awɔ nɛ abe eya ŋutɔ via nyɔnu ene.","Nane a be, ya tu na ya vi ntu na wo adela, ekema awu na ya be ya ntor via nyonu",0.9474,0.4242
+932,Enye ame si melɔ̃.,"Egblɔe si a be, mawu kpɔ nyasi, wo gblɔ na to afagbe pan dela Isaiah jila na fa ma be, kplɔ ra nye dɔla si ma tia la enye si, enye a me si ma",8.25,7.0
+933,"Ke ame aɖewo ya gayi nuɖuɖu la fɔ ge, togbɔ be gbe ma gbee nye ŋkeke adrelia, ke nuɖuɖu aɖeke menɔ anyigba wofɔ o.","Amaa do ya ga nu dudu la foge, to gbo be gbe ma gbe nye nke ka dreli a, ke nu dudu adeke me no anyi gba wu fo.",0.9583,0.2386
+934,"Ameha gã aɖe gaƒo ƒu ɖe eŋu ale gbegbe be ege ɖe ʋu aɖe me, eye wòyi ɖe ƒua dzi vie nɔ anyi, ke ameha la tɔ ɖe ƒua ta.","Ameha gã de gafo fu de enu, ale gbegbe, ege de fu ademe, eye woyide fu aji vie no anyi. Ke ameha la to de fu",0.6333,0.2674
+935,"Eye ame siwo woɖo ɖi na aboyomeyiyi la, ayi aboyome.",Ayi a me si wo do di na agbo yome yila ayi agbo,1.1,0.3415
+936,"Nu si ganyo wu esiae nye, ame etɔ̃ nanɔ akpa ɖeka.",Míesii ga ŋu hu asianyiama etɔ̃ na nu akpa la,0.9091,0.4324
+937,"Le ɣeyiɣi sia me la, nusrɔ̃lawo va Yesu gbɔ va biae be, “Ame kae nye gãtɔ le dziƒofiaɖuƒe la me?",Le yi si amala. Nu suala wo ye su gbo va bia ebe amaka nya ga to le ji fo fe ru pala,1.0,0.3472
+938,Eɣla eɖokui ɖe wo gbɔ le Mawu ƒe aƒe la me ƒe ade esime Atalya ɖu dukɔa dzi.,"Ele dɔkui dẽ, wògbɔ le mɔ̃ufe afelame fe adẽ. Esi Natalia du dukwaji.",0.9444,0.3448
+939,eɖanye nyui alo vɔ̃.,nyemlovo,1.0,0.6
+940,"Gblɔ na wo be ale Yehowa, Israel ƒe Mawu la gblɔe nye esi: ‘Fiƒode le ame si mewɔ ɖe nubabla sia me nyawo dzi o la dzi.",Mawu Mawu Yehowa Israel-vi mawula gblɔ enye si. Fifu de la masi mawu o de nuba gblɔ si amenya wu Jehovah la,0.9259,0.3483
+941,Wodzidze eƒe domegliawo kple akpata la hã.,Wòdide afè dume gli o ple akpatala,1.0,0.3429
+942,"Evenɔnɔ nyo wu akogotsitsi, elabe evenɔlawo kpɔa viɖe tso wo nɔewo ƒe agbagbadzedze me.","Evo no no nyowu akogo chichi, elabe evo no lao gba vidacho wunye ofe agbagba jeje",1.0714,0.375
+943,Tete Mose sí le enu yi Midian-nyigba dzi.,Mose si le nu yi me dzi anyigba dzi,0.75,0.2812
+944,"Àbia nyɔnu ta be yeaɖe, ke ŋutsu bubu adɔ egbɔ.",bia miɔnuta be yade ke ntu bobo adɔ,0.7,0.3889
+945,"“Ŋuti gblɔ na atiawo be, ‘Ne miaɖom fiae ɖe mia nu vavã la, ekema miva be ɖe nye vɔvɔli te, ke ne menye nenema o la, mina dzo nado tso ŋuti la me ava bi Lebanon ƒe sedatiwo.","Nwuti gboro na atiawobe, na emi adomfia edemianu vavala, ekema mi va berenye vovolite, kenemenye neme aula, nina ju nado cho nwuti lame, ava bile baro fe se that you",0.9474,0.2403
+946,Ame aɖeke mage ɖe Yehowa ƒe gbedoxɔ la me o negbe nunɔlawo kple Levitɔ siwo anɔ dɔ wɔm ko.,Amã dũkẽ magblɔ na Yehowa fa gbe dũ hãla me o. Ne gbe nũ nɔlae wòkplele vĩtɔ si wòanɔ dɔwɔm,0.8947,0.3099
+947,Yoyada tsi eye agbe ɖi ƒo nɛ hafi wòku.,"Yoo, dachi. Eya gbe difu nee hafi",0.8889,0.4667
+948,"Evɔ la, eyama ƒe dzi dze eme wu ame kemɛ tɔ.","Ewola, eyama fe jijeme wu amekeme",0.8182,0.3438
+949,Ɖe menye wòe tsɔ anyigba sia na xɔ̃wò Abraham ƒe dzidzimeviwo oa?,Demanya wea cho anyi gba si ana ho wu Abraham fa jiji ma view,1.0833,0.4231
+950,"Ame aɖeke mate ŋu ade vovototo dzidzɔɣli la kple aviɣli la dome o, elabena ameawo ƒe aseyetsotso de dzi ŋutɔ.","Amareke maten adefu toto jorila, ble avirila domeo. Ela be na amawo kwase chocho deji nwuto",1.0,0.3864
+951,"Woawu wò nyitsu le ŋkuwò me nàkpɔ, gake màkpɔ eƒe lã aɖu o.","Wòwò wònyetɔ̀, laŋkúɔ́mɛ̀ nàkpɔ̀ kàkà nàkpɔ̀ fɛ́lɛ́ àdú",0.9231,0.5111
+952,Gbe si Mawu ƒe gbeƒãɖela Xabakuk do ɖa lae nye esi: Woadzii abe konyifaha ene.,"Be si ima wupe gbe pande la ha ba ko ke do da la enye si, wa ji abeko nyifa ha",1.2667,0.3065
+953,"Nɔvi Kristotɔ, siwo le afi sia kplim la le gbe dom na mi.",Novi Kristo tɔsiwle afisia kplim la le gbadome,0.7692,0.1628
+954,"Wo katã do go tso anyi me, eye anyi kee wogatrɔna zuna.","Wòkata dogo tso anyime, eye anyike wòga trɔ na zuna.",0.8333,0.0952
+955,eye woaŋe abe nyɔnu si le ku lém la ene.,"Ayiwa, abe nyonu si le ku lem la ene.",0.4,0.2333
+956,"Le nyateƒe me la, ame aɖe le afi sia si de ŋgɔ boo wu gbedoxɔ sia!","le ñafe mela, ama de le afisia si dango bowu gbedoxsia",0.8125,0.2449
+957,"Abdi, Yeremot kple Eliya.","Abdi, ye remote pele Elijah.",1.0,0.2
+958,"Nenye be Israelviwo ƒã nu la, Midiantɔwo kple Amalekitɔwo kpakple ɣedzeƒeviwo ɖea fu na wo vevie.","Nye be Israel viwo panula, mi ja to kple amalekitoo, kple yebusetoviwo de afuna",0.9375,0.35
+959,"Kpɔ ɖa, made adã ta me na Mediatɔwo ɖe wo ŋu; ame siwo mebua klosalo ɖe naneke me o.","Mɔra, ma da da ta me na, media tɔ da wu. Amasiɔ me bua kplɔsalu da na nika me",0.8421,0.3492
+960,"Ke Yesu ya nya nu si ŋuti bum wole ale wògblɔ na wo be, “O!","Gake yesu ya nya nu si nu ti bum wòle, ale wògblɔ na wo be",0.3333,0.119
+961,"Míekpɔ eƒe ɣletivi le ɣedzeƒe ke, ale míeva be míasubɔe.","Mía kpɔfɛla TV le Jefta ka, ale miafabe mia subɔ.",0.8,0.4444
+962,Woɖe asi le nyɔnuawo kple wo viwo ŋu.,Wòde asi le nyonuawo kple wòfiawo ŋu.,0.5,0.2069
+963,"Ame bubuawo na sika kilogram alafa ɖeka kple blade-vɔ-enyi , klosalo kilogram alafa ɖeka kple blaene kple osɔfowo ƒe awudodo blaade-vɔ-adre.",Amegbogawo na sika kilogram alafa eve enyi. Klosalo kilogram alafa eve enyi. Le usofo fa vidodo alafa eve adre,0.7,0.3596
+964,"Esi míaƒe futɔwo kple dukɔ siwo ƒo xlã mí se be míegbugbɔ gli la ɖo vɔ la, vɔvɔ̃ ɖo wo, eye dzi ɖe le wo ƒo, elabena wodze sii be míaƒe Mawu ƒe kpekpeɖeŋue na míete ŋu wu dɔ la nu.","Esime miafe fuitoo, wòdu kɔsiu fu klami, sebe miaegugbɔ glila dovɔla vɔvɔ̃dɔ̃, ejidela ofu, elabena ojesi be miafe mamanu ufe kpekpe de nuvie na, miete wu dɔla",0.9512,0.4074
+965,"Akpata la didi meta ewo, eye wòkeke meta ade.",akpatele jiji meta ewo ahia wekeke meta,0.6667,0.3429
+966,"Woƒo ƒu eye wodze Yehowa, Dziƒoʋakɔwo ƒe Aƒetɔ, woƒe Mawu la ƒe gbedoxɔ tutu gɔme le ɣleti adelia ƒe ŋkeke blaeve-vɔ-enelia dzi.","Wòfòfò, èyí wọ̀ jẹ́ Yehowa, Jihova kọ́ f'afẹtọ́, wòfẹ́ m'awúlà f'egbèdó hò tútù gòmè. Lẹ́lẹ́ti adélíafẹ́ nkakéblá vòvòyí n'elíaji",0.9545,0.549
+967,"Fia Salomo ɖo du ɖe Tiro-fia Xuram be: “Èwɔ nyui na tɔ́nye David, eye nèɖo sederti ɖee be wòatsɔ atu xɔe anɔ eme.","Fia Salomo do Judea tirofia huam be ewo nyui na tonyi David. Ee, edo se jechi de ebe wacho achuhoe ano em",0.6957,0.3294
+968,"Ke esi ŋusẽ ɖo eŋu la, ede asi dàda me, si na wòva dze anyi.","Esi nu sɔ̃ do enu la, eɖe asi da da me. Sina wòva je anyi",0.7333,0.2326
+969,"Ke ne ƒometɔwo lɔ̃ la, woaxe fe si dzi ʋɔnudrɔ̃lawo alɔ̃ ɖo, ekema womagawu nyitɔ la o.","Ke na fu ma to o lon la, wa he fe si ji, o ndu o la wa lo du, eke ma wu ma ga wu yi to la o.",1.4118,0.3692
+970,Ke eɖo dedinɔnɔ ƒe gli ƒo xlã mí le Yuda kple Yerusalem.,Ke du de di nofe glifoklami le Yuda kple Yerusalem.,0.5833,0.25
+971,"Tete nunɔla Azarya kplɔe ɖo yi, eye nunɔla kalẽtɔ bla enyi hã kpe ɖe eŋu.","Etɛ nɔnɔla azãria kple dɔyi, eye nɔnɔla kalẽtɔ bla enyi ha kpeɖe ŋu.",0.7333,0.193
+972,"Fofoa ƒe viŋutsu bubuwoe nye Azaria, Yehiel, Zekaria, Azaria, Mikael kple Sefatia.","Wòfia kple viŋutsu bubuwo nye Azaria, Yehiyel, Zekaria, Azaria, Mikael kple Sefatia.",0.3333,0.1212
+973,"Ame kawoe nye ame siwo se nya la, eye wodze aglã?",Amegãwoe nye Amegã Sio Senyala. Eyae nye agogoe,0.9091,0.3784
+974,"Nu siwo katã dzɔna la, nu dzodzro ko wonye.","Míusio ka ta jɔ na la, míujo juro ko",0.8889,0.5152
+975,"Mose gblɔ be, “Esiae nye miaƒe egbe ƒe nuɖuɖu, elabena egbee nye dzudzɔgbe na Yehowa, eye nuɖuɖu aɖeke maganɔ anyigba miafɔ egbe o.","Mɔse gblɔ be, esi wònye mia fɔe gbe fɔe nu dudu la, abɔ na egbe inya jujogbe na Yehowa. Anyi nu dudu adeke maga nɔ anyi igba mia fɔe gbe o.",1.1304,0.25
+976,"Ne èle aƒe la, woayra wò, eye ne èyi nugbe hã, woayra wò.","ne lafela wo ayira wu, eye ne yi nugbe ha wo ayira wu",0.7692,0.2195
+977,ke màgase nu o eye wò gbe anɔ ƒoƒom.,kama gasanu o. Enye ogbe anofofo,0.8889,0.3704
+978,eye woaxɔ ŋutasẽla ƒe nu si wòlé gɔ̃ hã la le esi nyateƒe.,"Agoo, ta se la penusi wo le go ha la le esi. Nyatefe",0.7692,0.3636
+979,Nuteƒewɔwɔ alo dɔmenyowɔwɔ kple sidzedze Mawu.,"Metepe wò, àlò domenyowò, kple sidede mma",1.0,0.425
+980,Aƒekɔ ɖeka nalé alẽ ɖeka; aƒekɔ sue eve nalé alẽ ɖeka.,Afe ko de ka na le ale de ka. Afe ko sue ve na le ale de ka.,1.5455,0.2857
+981,“Ne èke duɖime kple afɔzɔlawo.,akpa Judima,1.0,0.8333
+982,"“Azɔ miɖo to, maɖe lododo le nukuwula la ŋuti gɔme miase.",Mado dodo le nu kuwula nti gome miase.,0.8182,0.3864
+983,"Fia ƒe agbalẽŋlɔla kple nunɔlagã teƒenɔla vana, eye wotrɔa gaa le aɖakaa me gagbugbɔa aɖakaa va dana ɖe eteƒe.",fiafe agbalẽŋɔlɔ la kple nɔla ga tefe nɔla vana eye wòtrɔa agale adaka me ka gbugbɔ adaka va dana de tefe,0.8421,0.2
+984,"Ame aɖe hã va Yesu gbɔ kple biabia sia be, “Nufiala, nu nyui ka mawɔ be manyi agbe mavɔ ƒe dome mahã?",Amadzoha faa ye sugbo kple biabia siabeawo nufiala nunyikamawo be manyi agbema vofo dome,0.7273,0.2632
+985,Ke nyae be Mawu le ʋɔnu drɔ̃ ge wò le nu siawo katã ta.,Gbe nye be mawu le vo nu droge wu le nu siawo katã,0.5,0.225
+986,"Azɔ la Yehowa, Dziƒoʋakɔwo ƒe Aƒetɔ la gblɔ be, “Mibu ta me nyuie tso miaƒe zɔzɔme ŋuti.","Azonla, Yehowa ji fofofe tola glo be, mi buta me nwi cho mi afe zozo me nwu",0.9412,0.4265
+987,eye nye xɔname anɔ anyi tso dzidzime yi dzidzime.,"Ayi nya xɔ nam o, anɔ nyicho jijim, yi jijim.",1.0,0.425
+988,ale be womagaɖo ŋku eƒe ŋkɔ dzi gbeɖegbeɖe o.,Alebe woma ga do nku efe nkoji gbedegbede o.,0.8889,0.25
+989,"Nuɖuɖua ƒe akpa si miatsɔ ƒo aboloe la, mitsɔe ƒoe, eye esi miaɖa la, miɖae.","Duduwo afa akpasi, miacho fu abolo ela, miacho fue eye asi miadala miade",0.9333,0.3621
+990,"Ewɔ nu siawo ale be miadze sii, be Yehowae nye Mawu, eye mawu bubu aɖeke megali abe eya ene o.",awonusi awu alebe ya jesi we ye hu wa nye mawu eyi mawu bubu adekama gali abayi ya nu,0.8,0.2917
+991,Mègade ta agu na ɖeke alo asubɔ ɖeke o.,Mégadetta aguna deke alo asubua deke,0.8889,0.2333
+992,"Esi wova ɖo Yerusalem la, ameha blibo la bla nu kple fia la le Mawu ƒe gbedoxɔ la me.","Asiovaro Yerusalem la, amegãwo la bla nu kple fiawo la, mawukpɔgbedodokɔla",0.6316,0.3077
+993,"Mose gblɔ na wo be, “Esiawoe nye abolo si Yehowa na mi be miaɖu.","Mose gblɔ na wò be, esi wòenye Aboro si Yehowa na mi be miadu",0.3571,0.1042
+994,"Woalũ ɖe dziwò, adze dziwò abe ale si hɔ̃ lũna ɖe nu dzi ƒona ene.","Wòlò nò djiwò, adè djiwò, abò yà lè si, hòlò nò nò dji fò nà",1.0,0.5306
+995,"Aƒetɔ ate wò ɖe anyi, awɔ funyafunya wò va se ɖe esime nàtsrɔ̃ vɔ.","Apeto atɔ̃ anyi, afunyafunya wo vasa de asi ma na tso",0.9286,0.38
+996,"Kpɔ ɖa, eƒe ŋkekewo katã nye vevesese ko eye eƒe dɔwɔwɔwo katã nye nuxaxa ko.","Wòda, afɔ ka ka wòkataa nye vava sesẽku? Eye afɔdɔwò kataa nye nuka?",0.8,0.5246
+997,Nye ŋutɔe lɔ̃ xe ga home ma ke na ame sia ame.,"Nyatefe lo, ga homa maka na mesia",0.8333,0.4242
+998,"Ekpa kerubi eve ƒe nɔnɔme ɖe kɔkɔeƒewo ƒe kɔkɔeƒe la, eye wofa sika ɖe wo ŋu.","kpa kirubi efe fe nono me, le kokofe fe kokofe la, eye wofe asika le",0.9375,0.4
+999,"Ne meho wo ɖa vɔ megbe la, magakpɔ nublanui na wo.",ne wo ho da vo me gbe la ma ga kpo nu bloyi na,1.0909,0.3158
