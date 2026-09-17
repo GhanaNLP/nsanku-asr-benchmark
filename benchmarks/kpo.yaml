@@ -152,3 +152,21 @@ benchmarks:
       avg_seconds_per_sample: 3.71
       no_answer: 72
   source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: kpo
+  wer: 2.1111
+  cer: 1.2487
+  per_category:
+    waxal:
+      wer: 2.1111
+      cer: 1.2487
+      samples: 1000
+      valid: 996
+      avg_seconds_per_sample: 0.32
+      failures:
+        TypeError: 16
+  source: evaluated
