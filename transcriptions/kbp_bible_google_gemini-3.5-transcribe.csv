@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Halɩ maawobi mamʋ takayɩsɩ pa-maɣmaɣ pɔ-cɔlɔ se mowoni ɖɛ-tɛ ñɩma cɔlɔ Damaasɩ nɛ pɩsɛɣ mankpa patɩŋa nɛ mɔnkɔnɩ-wɛ Yeruusalɛm cɩnɛ nɛ pɔhɔ pa-nɩŋgbaaŋ.,"Ha le, ma obu mamuta ka esi pa mmanu obojoro, so mu onwe m adighi m ojoro. Dama si na pusa m gbabadi nga na mu onwe m ga-ewere Jerusalem je na na po ha ba na ngwa",1.6522,0.629
+1,"Eeheyi-wɛ se ɛ-wayɩ lɛ, nɔɔyʋ kɔŋ, pɛwɛnɩ lidaʋ ɛ-yɔɔ.","Ehe wɛɛ a waila, nɔ kɔn pɔn ilidaa oyɔ. Ɔnɔ",1.1111,0.525
+2,"Pa nɛ mbá paana-ɩ ɛsʋlʋmaɣ yɔ, pana-ɩ ḿbʋ́ lɛ, pɔtɔŋ se: «Pɩtɛkɛ abalʋ ɛnɛ ɛɛcaɣna nɛ ɛsʋlʋmʋʋ yaa we?","Panemba baane yezulumaayo, baane imbule, botongze. Bedaka balona echaana na yezuluma ya",1.0,0.5921
+3,"Pʋwayɩ lɛ, pata pɩsaʋ cikpeluu ŋgʋ́ kɩwɛɣ mɛlɛ ɛsɩndaa yɔ nɛ pakpazɩ se heɣlim eketi-kʋ nɛ puwoni kidiiliŋ cɔlɔ.","Onye na-akwado ọrụ a bụ Kedi Healthcare, ụlọ ọrụ na-ahụ maka ahụike na ọdịmma mmadụ.",1.0,0.8111
+4,"Yee ɖɩkpɛzaa se ɖɩtala kɩwɛɛkɩm nabʋyʋ kaʋ yɔ, ɖɩyaɣ Ɛsɔ se cɛtɩyʋ, pɩwɩlɩɣ se ɖɩtasɩ ɛ-tɔm.","Éric Bazaï, le délégué médical de Bokoro, dit que les autorités jettent les poubelles aux ordures.",1.0,0.9863
+5,"Peeɖe Pɩyɛ pɔzɩ-ɩ se: «Heyi-m nɛ mana se liidiye nɖɩ́ ɩpɛdɩ mɩ-tɛtʋ yɔ, ɖɩtɩŋa yɔ yaa we?","Pee, pee a boze eze. Hem na mana zi, n'idi ndi ebe di mma di otu a, idi nga o ya abu",1.2353,0.6462
+6,"Pʋbʋ wayɩ lɛ, pɔpɔzɩ Ɛsɔ se ɛsɩɩ-wɛ wiyaʋ.","Poboyila, pobo si oso si esi we wiya",1.0,0.5938
+7,"Ma Pɔɔlɩ weyi pɩkɛdɩnɩ Ɛsɔ nɛ eyele se mɛnkɛ Krɩstʋ Yesu tiyiyu yɔ, ma nɛ taabalʋ Timootee ɖɩmaɣnɩ takayaɣ kanɛ taabalaa Ɛsɔ ñɩma mbá mɩ ɩwɛ Koloosi nɛ ɩtɩŋɩɣ Krɩstʋ nʋmɔʋ ɛzɩ pʋpɔzʋʋ mɩ nɛ ɩ mɩ-kpɛndʋʋ yɔɔ yɔ.",ma ponu webe ga di na so na yiri zamu ga Klisti Yesu di ya. Mana ta abali Timoteere mana daka ya ga na ta abali a osoyi ma mbemee o Kolosi na ite ngo Klisti unu muwusi bu gbo so umene emi gwa ndu yoyo,1.1282,0.5444
+8,"Mbʋ́ pʋyɔɔ yɔ, paatasɩɣ tayɩnaʋ pe-lelaa tɔɔnaɣ paa evemiye nɖɩ́.","Mbo bi aya, pa dasu daino belila dono pa fi mindi.",1.1,0.6275
+9,Pɩtamʋnɩ se ɖɩwɛɛ ɛzɩ Satanɩ ñɩnʋ Kayɛnɩ weyi ɛkʋ e-neu yɔ.,"kà nyị́ a dọ́ zàtá nụ́, kà ị́ nụ́ ka ị́ nụ́ wéé gụ́ nụ́",1.3636,0.8085
+10,"» Halʋ ɛnʋ, ɛpɔzɩ-ɩ ḿbʋ́, mbʋ́ pʋyɔɔ yɔ, Samaarɩɩ ñɩma nɛ Yuda ñɩma paacaɣ ɖama.",,,
+11,"Yesu heyi-wɛ ḿbʋ́ lɛ, pekitini wayɩ wayɩ nɛ pɔtɔlɩ tataa.","Yesu hewa mbole, yigiti nua waye na botoli zata.",0.9,0.4545
+12,Halɩ Fezuu ŋ́gʋ́ kʋ-yɔɔ ɛtɩŋnaa nɛ ewolo esusi Ɛsɔtɔm ɖɔɖɔ kalɩzasɩ nzɩ́ sɩɩwɛ salaka taa yɔ.,"Halikaleza ngekoyo, edinwa neowulu osuzikaleza fa esodomsala kada.",1.0,0.6301
+13,"Toovenim lɛ, ɖe-liu kɛwɛɛ kpem se ɩtɔɔ kewiyaɣ nɛ ɖɩkɔɔ ɖa nɛ mɩ ɖɩtɔɔ-kɛ.",,,
+14,Ɛzɩma pɩlaba nɛ lɛɛlɛɛyɔ ɛnaɣ?,"Ebe a bu nne ya bu Sekuliya, onye Josue. Abali wee baa ya oso Jesu ya, ela bu na aho ya pazi na etu a m si ya",5.6,2.8
+15,» Pɩlabɩ ɛzɩ náyʋ Yereemii maʋ Yesu tɔm Ɛsɔtɔm Takayaɣ taa yɔ.,Kpaa bezi loyu du yeremi ma Yesu udo me sodom da ka yoda,1.0909,0.5714
+16,Mansaŋ Ɛsɔ ɛzɩma mbʋ́ eyeba nɛ mɔyɔɔdʋʋ kʋnʋmɩŋ ndɩ ndɩ nɛ pɩkɩlɩ mɩtɩŋa payɩ yɔ.,"Maan zango so, es mambu iyi ba. Na moyo doko na man dende, na fa kelimatina baye.",1.1333,0.5538
+17,"Ŋgʋ́, kʋjɔʋ ŋgʋ́ Fezuu Kiɖeɖeu lakɩ paa weyi se pʋwazɩ ɖatɩŋa payɩ yɔ, ŋ́gʋ́ wɩlɩɣna se kɩwɛ ɛ-cɔlɔ.",,,
+18,Ḿbʋ́ eyeki nɛ ɩtɛzɩ pɩʋ nɛ ɩwɛɛ cɩɖɩcɩɖɩ nɛ paanaɣ kawanaɣ nakɛyɛ mɩ-yɔɔ ɖa-Caa Ɛsɔ ɛsɩndaa puwiye nɖɩ́ ɖa-Kɩpaɣlʋ Yesu nɛ ɛ-ñɩma tɩŋa payɩ pɔkɔŋ yɔ.,Mbo eyi ke na etezibo na ewe chirechire na paano ka ona naka eme ya. Taja oso esi ndakwu ya ndi dika boolu Yesu na enyemaka n'afa Chukwu onye.,1.1154,0.6154
+19,Ɛnʋ yekina nɛ ɩɖaŋ se ɩkɔŋ sʋʋ Ɛsɔ koboyaɣ taa.,Onye kị na-erán? Ọ kọ nsọ ọ sọ gị bụ ya.,1.1,0.6757
+20,"Ḿbʋ́ ɖɔɖɔ Leevi liɖe taa tʋ nɔɔyʋ kɛwɛ Ciiprɩ ɛjaɖɛ taa, payaɣ-ɩ se Yozɛɛfʋ.",number level,1.0,0.9322
+21,"Pʋ-yɔɔ Daaviidi tasɩ maʋ ɖoli lɛɛɖɛ se: ‹Ña Kɩpaɣlʋ, ŋŋyeki ña-ñɩnʋ.",,,
+22,"Peeɖe ɛha nɔɔ se mbá pasɩm lɩm yaʋ yɔ, pacalɩ falʋʋ pɩ-taa nɛ paya nɛ palɩɩ kidiiliŋ yɔɔ nɛ piyele lɛlaa ñɔñɔkɔyɩnɩ kpoŋgbolonaa yaa mɛlɛ hɔɔlasɩ nɛ patɩŋ pa-wayɩ.","Ehen oze, m babaziri m ya uwa, fa chere na fa ga-eweta ya, na fa ga-enwe ike idiri ya. Na ha biara laa na nyonyo ka ha na-agba mgbirigba na, ya mere ha olasiri. Fa tinye banyere",1.2759,0.7328
+23,"Yee kewiyaɣ nakɛyɛ ɛwɛɛ nɛ ka-taa ñɩma youni ɖama yɔ, kaalaɣzɩɣ yɔkʋʋ.",Ihe a ka ụmụaka a na-eme ka daa anyị ma yoo unu rịọ ya ka unu azụta ụyọkọ,1.5,0.7321
+24,"» Ɛlɛ́, Yesu heyi-wɛ se: «Yee ḿbʋ́ ɩla mbʋ́ Abraham laba yɔ.","Ihe udi a bu ihe i buze. Mba, ego m nyere gi, ele ego m zi bu umu gi wa nyeere gi daa. I bughi nwuru anwu ka i yo.",2.7273,1.6
+25,"Ɛlɛ́, mantañɩnɩ se mamanɩ ñɔ-yɔɔ nɛ mala nabʋyʋ: maacɛyɩɣ-ŋ se ŋlabɩ-m mbʋ́ pʋwɛ ɖeu yɔ.",Manta ngi n'esem ma ma n'inyo. N'ama n'apoyo. Ma k'e nza laba mbu buede wu,1.0,0.5758
+26,"Ɛlɛ́, weyi ɛkpɛzɩɣ ɛyáa ɛsɩndaa se pɩtɛkɛ mantɩnɩ-ɩ yɔ, mɔnkɔŋ kpɛzʋʋ ɖɔɖɔ Ɛsɔ tiyiyaa ɛsɩndaa se pɩtɛkɛ mantɩnɩ-ɩ.","wee egbe zuo ya asi na Thursday, ya ebido kemgbe na iyo. Mgbe ngbe zuo ya asi na Thursday, ya ebido kemgbe na",1.2778,0.8043
+27,"Ɛlɛ́, ɛlakɩ mbá paba ñetisiɣ pa-tɩ yɔ lootiye.",Alakpa mba bu nyi di so ba di olu,1.125,0.7143
+28,Piyeba pɩlaʋ kpɛɖɛ.,do you honest,1.0,0.9375
+29,"Pilaatɩ nɩ ḿbʋ́ lɛ, sɔɔndʋ tɛzɩ-ɩ kpaʋ nɛ ɛpɩsɩ ɛsʋʋ nɛ ɛpɔzɩ Yesu se: «Ñɛ-tɛ le?",,,
+30,"Toovenim lɛ, meheyiɣ-mɩ se: paa le posusuu Laŋhɛzɩyɛ Tɔm yɔ, pɔkɔŋ kɛdʋʋ mbʋ́ halʋ ɛnɛ ɛlabɩ mɔ-yɔɔ yɔ pʋ-tɔm nɛ ɛyáa ɛtaasɔɔ ɛ-yɔɔ kaʋ.","To bonum le, mehe umize, pale bozu solan heze dom yo, pogon gedo mbu halo na elabomoyo yo pudom, ne eya adaso yo",1.0,0.5481
+31,"Yuda ñɩma pɔzʋʋ se pala hama lakasɩ nɛ pana nɛ pʋcɔ petisi, Grɛɛkɩ ñɩma ñañɩnɩɣ lɔŋsɩnɖɛ se pʋcɔ.",Kéé ré k'anyị ma anyị anọlọ nzọnde sị bụ,1.0,0.8718
+32,Ḿbʋ́ yebina nɛ ñɔɔsɩ ñawɩɣ nabɛyɛ nɛ sʋlʋm ñakʋʋ lɛlaa.,Mbu yoo abunnan yoo asinyaa wonna baye. Nya solom nya koola la.,1.2,0.5909
+33,"Pʋwayɩ lɛ, mana kpɩnɛ naɖɩyɛ, ɖɩlɩɣaɣnɩ teŋgu taa.","Wàilé, m̀ nà-ekwu na nàrị ya. Ụlọ ọ́ na-adị gị mma?",1.375,0.725
+34,"Yee ɛha nɔɔyʋ se ɛsɩnɩ lɛlaa yɔ, pʋwɛɛ se ɛsɩnɩ-wɛ nɛ ɖoŋ weyi Ɛsɔ ha-ɩ yɔ.","E ha noise esinilalayo, weze esinwenidunwe iye sohayi.",1.0,0.5714
+35,"Pʋkɔma pɩɖɛɛ Pɔɔlɩ lɛ, ɛpɩsɩnɩ pɛlɛ ɛnʋ ɛ-yɔɔ nɛ eholini eleeu weyi ɛwɛ ɛ-wayɩ yɔ se: «Yesu Krɩstʋ ɖoŋ taa lɛ, meheyiɣ-ŋ se ŋse pɛlɛ ɛnʋ ɛ-wayɩ!","O gwanne ya ka ọ lee ebe si na be ya nọ yọ na ihe ọ na-ele nwere ike ịbụ ihe ọjọọ. Jizọs Kristị rịọ ndụ ala, na ihe ịze si be ya nọ",1.2593,0.7982
+36,"Yee mɩ-taa nabɛyɛ ɛyɔɔdʋʋ kʋnʋmɩŋ ndɩ ndɩ yɔ, pɛwɛɛ naalɛ yaa naadozo, pataaɖɛɛ pʋ-yɔɔ.",Ihe mụ na nna m na-arụ bụ ọrụ ugbo na mmanụ nkwụ. Papa m na-arịa ọrịa na-adịghị agwụ agwụ.,1.3571,0.7826
+37,Peeɖe ɛ́lɛ́ ñɔpɔzɩ-ɩ se: «Ña lɛ Yuda ñɩma wiyaʋ sɔsɔ naa we?,Nyɛ́ré alɩ̃́ ɲɔ́bʋ́ sɩ́sɛ́. Ɲɔ́lɩ́ yʊ́dá ɲímʊ́ wɩ́yá ʊ́ sɔ́ sɔ́ ná áwé,1.0833,0.4884
+38,"Mbʋ́ pʋyɔɔ yɔ, ɛ-maɣmaɣ ɛsɔɔlɩ-mɩ se ɩsɔɔlɩ-m nɛ ɩwɛnɩ lidaʋ se ɛ-cɔlɔ malɩnaa.","Mpo bi aya. E ma ma e zọlụ m, zọlụ m na ị bụ onye ndú m zị ejọrọ mma na.",1.6154,0.7167
+39,"Ɛkɛ Krɩstʋ tʋmlaɖʋ mɩ-cɔlɔ, ɛlakɩ mbʋ́ pʋpɔzʋʋ yɔ.",kpakpa kpakpa,1.0,0.8718
+40,"Nabʋyʋ kɛwɛɛ nɛ pʋcɔ Ɛsɔ la kedeŋa, ɖɩnɩ pʋ-tɔm nɛ ɖɩna-pʋ nɛ ɖɛ-ɛsɛ nɛ ɖɩcɔnɩ-pʋ kpem, ɖitukuni-pʋ nɛ ɖe-nesi.",,,
+41,"Ɛlɛ́, Pɩyɛ heyi-kɛ se: «Mɛnfɛyɩnɩ liidiye yaa sika, ɛlɛ́, mahaɣ-ŋ mbʋ́ mɛwɛna yɔ: Nazarɛɛtɩ tʋ Yesu Krɩstʋ ɖoŋ taa lɛ, kʋyɩ ŋɖɔ!","ele, p'e he'e gáze. Mánzã lídi yázi ka, ele, mahõ ngú m'awoné yó. Nazareto di Yesu Kristo dóngu d'ale,",0.9545,0.6064
+42,Ḿbá kɛɖɛnɩ ma nɛ ɩ nɔɔ nɛ powolo paɖaŋ-ɖʋ Trowaasɩ tɛtʋ taa.,"Mpaa garanama na yino, n'pɔlɔ baranrɔ turuwa si deteda",1.0,0.6596
+43,"Mbʋ́ pʋyɔɔ yɔ, ɖɩnawa se ɛyáa kizi ŋgbɛyɛ nɖɩ́ ŋwɛ ɖɩ-taa yɔ ɖɩ-tɔm paa le.","Mbu bu ya ayo. Na wazi, e ya agisi ngbe ndi nwere dayo ruo m baali.",1.0667,0.5818
+44,» Halʋ ɛnʋ ecosi-i se: «Kɩpaɣlʋ!,dassn,1.0,0.8636
+45,"» Ḿbʋ́ ɖɔɖɔ pɛtɛm tɔɔnaɣ tɔɔʋ lɛ, ɛkpaɣ sʋlʋm nɛ caɖaɣ nɛ ɛtɔ se: «Sʋlʋm caɖaɣ kanɛ lɛ nɔɔ haʋ kɩfam mbʋ́ pɩtɩŋnɩ man-calɩm yɔɔ nɛ pʋwɛɛ yɔ.","mbu rọ bẹ dạm dọ nọ dọ wụla, ekpa Solom njara na etozi. Solom njara ga na alị nọ ha wụ gịfa mbu bẹ dịng na ma njalịm yọ na bụrụ",1.1481,0.6571
+46,"Ŋgʋ́, ma-maɣmaɣ mɛntɛkɛ weyi ɛtasɩ Ɛsɔ paɣtʋ yɔ.",Maman Maman dɛkɛ wɛ ɛdasɩ ọsọbɔtɛ,1.0,0.5135
+47,"› Ɛlɛ́, ecosuu-mɩ se: ‹Mantasɩ ɖenɖe ɩlɩnaa yɔ.","elemihe eze. taa na-etu gị ọnụ na ntị gị taa na-enwele obi ụtọ. e dasom ije suzie. kedụ kedụ m? ị ree m ya, ọ dị mma. mandasiri ndị ịle na-ayọ",4.4286,2.5758
+48,Pɛwɛ ɛzɩ tɩɩnzɩ nzɩ́ sɩɩcakɩ lone kʋɖʋmɖɩyɛ taa yɔ.,"Ewe, ese, tinzanzu se jakulo nu kuru mbe daa.",1.0,0.6098
+49,"Mentendiɣ Ɛsɔ se eyele nɛ nɔɔ kʋɖʋmaɣ ŋgá pɩtɩŋnɩ lidaʋ ŋgʋ́ ɖɩwɛnɩ yɔ kʋ-yɔɔ nɛ ɖɩla yɔ, kasɩnɩ-ŋ nɛ ŋtɩlɩ ñɩm kɩbam mbʋ́ pɩtɩŋa payɩ ɖɩwɛnɩ ɖa nɛ Krɩstʋ ɖɛ-kpɛndʋʋ taa yɔ.",Mba'e ndoikói elé. Na'ogueromai ngapete neli angote wane akoya o'etela ya. Ka'sina. Neli nyi ngaba mbu bete ngapayi. Wane ta na kreso de gba ndo'aya.,1.0,0.6296
+50,"Ɛlɛ́, Ɛsɔ koboyaɣ nɛ e-ɖoŋ peyele nɛ ñɔsɩ nasɩyɩ ñɛyɩ ɖɩɣa ŋ́gá ka-taa.","E le, asu gbe o ni rungbe ele ne, nyonso na sinye rungbe",1.0,0.717
+51,"» Ɛyɔɔdɩ ḿbʋ́ lɛ, ɛtasɩ se: «Đɛ-ɛgbaɣdʋ Lazaarɩ ɖou, ɛlɛ́, mowoki menfezi-i.","E yodium bolé, that's easy. Tèkwa di lazarro, èlè m'okimè",1.0,0.6481
+52,"Ɛlɛ́, ɩɖʋ mɩ-taa se Krɩstʋ lɛ Kɩpaɣlʋ nɛ ɩɖʋ-ɩ hɩɖɛ.","A la, a rumdaazi Kristo le kpalu na erihiri.",1.0,0.6053
+53,"Kpaagbaa ḿbʋ́ lɛ, kɔkɔɖɛ naɖɩyɛ lɩɩnɩ ɛsɔdaa ɛzɩ heɣlim sɔsɔm makʋʋ yɔ nɛ ɖisu ɖɩɣa ŋgá ka-taa paawɛɛ yɔ katɩŋa.",,,
+54,Ɛnʋ lɛ ɖiyiyu weyi ɛcɔŋnɩ mɩ-yɔɔ yɔ.,애는 울리지 않게 조심해야.,1.0,1.0
+55,"Ɛlɛ́, yee ɖiheyi ɖa-kɩwɛɛkɩm yɔ, Ɛsɔ kpeɣiɣ-ɖʋ-pʋ nɛ ɛñalɩ ɖa-kɩdɛkɛdɩm tɩŋa.",Alee rii hera go ekim yo. Asogbo oro bu na enyal da go ekim.,1.2727,0.7288
+56,"Pasʋ pɩlaʋ taa lɛ, pamaɣnɩ evebu nɔɔyʋ caɣ pa-nɩwaŋ yɔɔ.",Paso que dala paman ife bu nno ije opanu wanyo.,1.0,0.5455
+57,Đɩsɛ-mɩ: ɖa-Caa Ɛsɔ ɛlabɩ-mɩ lootiye nɛ ɛhɛzɩ mɩ-laŋa!,Taja,1.0,0.9268
+58,"Yesu lɩnɩ kpɩyʋʋ taa nɛ etii lɛ, abalʋ nɔɔyʋ tɩlɩʋnɩ pɩlaŋ taa nɛ ewolo ɛ-cɔlɔ.","Yesu lengebe odani tile, abali no idili ona bulanda ne ewulu ejọọ.",0.9333,0.5968
+59,"Ɛlɛ́, Yuda ñɩma pazɩ kubusi mabʋ se: «Yee ŋyebi abalʋ ɛnʋ yɔ, ŋtɛkɛ Room wiyaʋ sɔsɔ ɛgbaɣdʋ!",,,
+60,"Pekpeɣlaa lɛ, eheyi-wɛ se: «Man-taabalaa!",Manda bala.,1.0,0.7419
+61,Nabɛyɛ wokaɣnɩ abalʋ nɔɔyʋ paa ɖooye nɛ pacaɣzɩɣ Ɛsɔ ɖɩɣa nɔnɔɔ ŋgá payaɣ se Nɔnɔɔ Đeu Ñɩŋga yɔ ka-taa se ɛsʋlʋmɩ mbá pasʋʋ yɔ liidiye.,"Nna be anyi, nke a bu akụkọ na-egosi na ọ bụghị ihe niile mmadụ na-ahụ ka ọ dị, ọ sọrọ mụ na gị nwee obi ụtọ na ọ bụghị ihe niile mmadụ na-ahụ ka ọ dị. Ọ sọrọ mụ na gị nwee obi ụtọ na ọ bụghị ihe niile mmadụ na-ahụ ka ọ dị.",2.16,1.2477
+62,"Pɩlɛdaa lɛ, Yesu nɛ ɛ-tɔmkpɛlɩkɩyaa hiu nɛ naalɛ pacaɣ tɔɔnaɣ ɖɩtɔɔyɛ.","Yesu nɛ zɔngbɛlɛ kɛya hiu nɛlɛ, pacaa tɔnɔrɔ.",0.8182,0.5263
+63,Ɩla ḿbʋ́ ɖɔɖɔ awiya nɛ ñʋndɩnaa patɩŋa payɩ pɔ-yɔɔ nɛ ɖɩpɩzɩ ɖɩcaɣ wezuu laŋhɛzɩyɛ taa fɛɛɛ nɛ ɖɩña Ɛsɔ camɩyɛ nɛ ɖɩla mbʋ́ pʋmʋnaa yɔ.,"E lamburu a wiya na nyon da na apatu nga payi boyo. Nete biziri kya wezu lanha si tafe, nete nya oso jam ya, nete lambu bu mu na",1.16,0.5514
+64,"Đɔɖɔ lɛ, Ɛsɔ weyi efezi Kɩpaɣlʋ nɛ sɩm taa yɔ, ɛkɔŋ-ɖʋ fezuu ɖɔɖɔ nɛ e-ɖoŋ.",,,
+65,"Pʋwayɩ lɛ, Yesu yebi-wɛ peeɖe nɛ ewolo Betaanii nɛ ɛsʋʋ.","Koyile, esu ye buwe bere, ne wulu betani ne",1.0,0.5
+66,"Ɛlɛ́, heɣlim ḿbʋ́ pʋwɛnɩ pɩmakɩ ɖoŋ ḿbʋ́ nɛ ɖɩtɛzɩ lɔʋ liu se ɖɔ-tɔm tɛma.","Olu m bu be unu, ma kuru m bu. Ndi be anyi si na olu bu ihe eji achu dom dom.",1.5,0.9091
+67,"Patanɩ-wɛ tɔm hʋyaa sɔsaa cɔlɔ lɛ, cɔjɔnaa ñʋʋdʋ pazɩ-wɛ tɔm pɔzʋʋ se: «Đikizini-mɩ kpem se ɩtaatasɩ wɩlʋʋ nɛ abalʋ ɛnʋ ɛ-nɔɔ lɛ, ɛbɛ ɩlaba yɔ?",Pigiziri mụ ikpe mmeze ebe a dasịworo unu abalị unu ọnwa ole? Ebe ole a,1.0,0.7909
+68,Ɛzɩma kpem ɖɩpɩzɩɣ ɖɩsa Ɛsɔ mɩ-yɔɔ laŋhʋlʋmɩyɛ nɖɩ́ iyeba nɛ ɖɩwɛnɩ ɛ-ɛsɩndaa yɔ ɖɩ-yɔɔ?,"Ezi na-ụlọ m dịkwa mma, o ruo n'oge na-adịghị anya, anyị ga-ezute na isi ndị arịọ.",1.1429,0.8286
+69,"Peeɖe manɩɣ puholuuni ɛsɔdaa ɖoŋ se: «Lɛɛlɛɛyɔ, ñʋʋ yabʋ alɩwaatʋ talaa!",,,
+70,"Ɛlɛ́, Yesu heyi-wɛ se: «Alɩwaatʋ tatalɩda se mowolo peeɖe.","Alee, yoo suu hee wazee.",1.0,0.7955
+71,"Pɩkɛdaa lɛ, ɛna lelu kʋñɔndʋ nɔɔyʋ woni liidiye pɔɔyɩsɩ cikpesi naalɛ nɛ ɛɖʋ.","Aga ale, enele lugunyondo no iwo na lidi i boyi jikpesi ale",1.0,0.5714
+72,"Ńdʋ́ lɛ se: «Iheyi Siiyɔɔ ñɩma se: ɩcɔnɩ ɩna, mi-wiyaʋ sɔsɔ kɔŋ!","to lese. Ehee, si onye mbeze. Ejonene na mu bu",1.0,0.7609
+73,"Ńdʋ́ ɖɛ-ɛgbaɣdʋ Epafraasɩ weyi ɖa nɛ ɩ ɖɩlakɩ tʋmɩyɛ yɔ, ɛwɩlɩ-mɩ.",ndɔrɛ kpadɔ ɛpafras wɛɛrɛ nɛrɛ lakatɔmɛ ya,1.0,0.6078
+74,"Mbʋ́ pʋyɔɔ yɔ, Yeruusalɛm ñɩma tɩŋa na keɣlee se ḿbá labɩnɩ hama lakasɩ ńzɩ́.","Mbu bu yoo yoo. Jerusalem nyima, tinya na keleze. Mbala m na ehamala ga sinza",1.0,0.4167
+75,Ɩtɛm naʋ mɩ-maɣmaɣ se Ɛsɔ lɩzɩ-m mɩ-hɛkʋ taa cɩnɛ kajalaɣ alɩwaatʋ taa se mowolo meheyi mbá pɛtɛkɛ Yuda ñɩma yɔ Laŋhɛzɩyɛ Tɔm nɛ pɛwɛnɩ lidaʋ Yesu yɔɔ.,Etem no momozi. Asili me koda gina kajila aluwati dazi. Moli mehi mbaba deka yuda nyemayo lanhezi dom. Nebe wenli dawu yesu yo.,0.9259,0.5289
+76,Peeɖe powobi Yohanɛɛsɩ cɔlɔ nɛ pɔpɔzɩ-ɩ se: «Wɩlɩyʋ!,E bu bi wa n'esị jonụ nụ pọpọsị ịzị.,1.125,0.7561
+77,"Weyi ɛ́lɛ́ lakɩ kɩwɛɛkɩm yɔ, ɛɛɖɔŋ Ɛsɔ paɣtʋ yɔɔ.","Wɛɛlɛ lakagou akumi yɔ, ɛɛrɔŋ sɔbatu yɔ.",0.8889,0.4595
+78,Ekem eleeu nɔɔyʋ nɛ ɛcɔʋ ɛtɩyɩɣ nɛ eheyiɣ ɛyáa mbʋ́ pʋkɔŋ labʋ yɔ nɛ ɛkɔŋnɩ ɛ-caanaa liidiye sakɩyɛ.,"N'oge mụ na ya lụọ di, na etu a na ihe ndị a mụ bụ gị na ya bụ. Na ya kwụọ na ezigbo onye na-edu isi akị.",1.5556,0.85
+79,"Pʋ-yɔɔ lɛ, taabalaa, paa ɖɩnɩɣ siziŋ nɛ ɖɩtɔkɩ kʋñɔmɩŋ yɔ, ɖa-laŋɩyɛ hɛnɩ-mɩ mi-lidaʋ wɛnaʋ yɔɔ.","Piyola, taa balaa. Fari na usisi m norutokwu kwu nyom nyo. Talanga hene mmiri taa wee na.",1.1333,0.5676
+80,"Paa ḿbʋ́ yɔ, ɛnɩwa se pɩwɩɣ Lazaarɩ lɛ, ɛtasɩ caɣʋ kɩyakɩŋ naalɛ ɖenɖe ɛɛwɛɛ yɔ.","Mba'a mbo yɔ, ɛnweze bu Lazaru le, dasi yɔ ke kɩŋ na le tende we",0.9333,0.5484
+81,"Peeɖe lɔŋsɩnɖaa mbá pɛkɛ Epikuri nɛ Sitoyiisi pa-aŋgba taa ñɩma yɔ, powobi Pɔɔlɩ cɔlɔ nɛ pa nɛ ɩ pɔyɔɔdʋʋ nɛ pa-taa lɛlaa tɔŋ se: «Abalʋ kɔkɔɖɛ yaɖʋ ɛnɛ, se we ɛyɔɔdʋʋ yee?","Pe elụ ụwa sị na ọ bụ bekee Epicure, na-esetụ isi pangwada anya mayo, ka ọ bụpụrụ jọlọ na-panahị ya bụ ọdụ na-bada alị laa tọọnzị. Abalị kọgọrọ ya arụ ịnetụ wee ịọdụ ya.",1.0625,0.6119
+82,"Pɩlabɩ kɩyakɩŋ kagbaanzɩ lɛ, cɔjɔnaa ñʋʋdʋ Anaanɩyaasɩ nɛ ɛjaɖɛ taa sɔsaa nabɛyɛ nɛ tɔm loluyu Tɛrtuluusi patalɩ Sezaaree wiyaʋ sɔsɔ Feliksɩ tɛ se pakʋyɩ Pɔɔlɩ yɔɔ.","Laba yaa kanka gbanzele, choje na anyu da anani asi na ejere da azosa na be na domlulu yotere Tulusi. Patali Cesare wey ososo Felix de seba kwebulu yo.",1.1154,0.4891
+83,"Pʋbʋ, sɔɔndʋ ɛɛkpaɣ-mɩ nɛ mi-koyindinaa nabʋyʋ taa.","Sọndee kpaa mụ e, na mụ gwa gị dị na anabata ịda.",1.7143,0.6098
+84,Pɔɔlɩ susaa se pakam Krɩstʋ kaamaŋkaɣ yɔɔ.,kacara nyin ganga poloma kurenti nyi mayo,1.0,0.8857
+85,"Ɩla ɛzɩ ma yɔ, mbʋ́ pʋyɔɔ yɔ, ma-maɣmaɣ malakɩ ɛzɩ Krɩstʋ yɔ.",Nyung hiyun gurmu,1.0,0.9333
+86,"Feliksɩ caɣaɣ se pɩla Yuda ñɩma leleŋ lɛ, eyele Pɔɔlɩ salaka taa ḿbʋ́.",Félicitations à tous les animaux de l'île et le Paul et ça la cadeau.,1.0769,0.6727
+87,"Ŋgʋ́, pɩɩwɛɛ se mɩ-ɛsɛ ɛñɩŋ nɛ ɩɖɔɔnɩ weyi ɛlabɩ lakasɩ ńzɩ́ yɔ mɩ-ŋgbɛyɛ taa.",Pewa eseme enyị na ọrụ nwa ya labara ka sị nzia ome gbaada.,1.0,0.6102
+88,Pʋwɛɛ se mowolo palabɩ-m lɩm sɔʋ sɔnzɩ nɛ mentendi Kɩpaɣlʋ nɛ ɛñalɩ-m man-kɩwɛɛkɩm.,N'ama na-ewe ọtụtụ oge. N'ama na-ele na ọdị adị mma. Mgbe ụfọdụ ọyọ.,1.0,0.8507
+89,"» Peeɖe ɛ-tɔmkpɛlɩkɩyaa taa lɛlʋ weyi payaɣ se Andree nɛ ɛkɛ Siimɔɔ Pɩyɛ neu yɔ, eheyi-i se: «Abalɩbɩɣa nakɛyɛ wɛ cɩnɛ, kɛwɛnɩ tindine hɔɔlasɩ kagbaanzɩ nɛ kpakpasɩ naalɛ.",Amalụ mụ na ya ka ọ dị ndị na-akpa azịna akpa si na ya.,1.0,0.8235
+90,"Cɔjɔnaa sɔsaa nɛ Ɛsɔ ɖɩɣa yɔɔ ɖaŋɩyaa pana-ɩ lɛ, pamakɩ kobusi se: «Kam-ɩ kaamaŋkaɣ yɔɔ!",,,
+91,"› Yee nɔɔyʋ ɛwɛ ka-taa nɛ ɛñɩnɩɣ laŋhɛzɩyɛ yɔ, mɩ-laŋhɛzɩyɛ tɔm wɛɣ ɛ-cɔlɔ.","Yɛɛ noyɔɔ gbadaa na ɛnyɛ n'ulanghezegoyɔɔ, milanghezegodomwɔɔ",1.0,0.6316
+92,"Peeɖe pukuluu ɛ-lɩmaɣza wena awɛ mɛsaɣ tɛɛ yɔ a-yɔɔ nɛ ɛpa ɛ-ɛsɛ nɛ tɛtʋ nɛ ɛsa Ɛsɔ nɛ ɛkaɖɩ kpayɩ se: «Toovenim, Ɛsɔ wɛ mɩ-hɛkʋ taa.","Tovo num, eso we me koda",1.0,0.9
+93,"Đooo lɛ, ḿbʋ́ ɖɔɖɔ ɩlakaɣ alɩwaatʋ ndʋ́ ɩɩwɛ kɩwɛɛkɩm ḿbʋ́ pɩ-taa yɔ.",Mbu ro elakọ a lotụ ndị ewekwara eki mbu bụta.,1.0,0.6923
+94,» Yesu cosi-wɛ nɛ eduuye taa se: «Meheyiɣ-mɩ se: ɩñaɣ pana nɛ ɩtɩŋnɩ ɖɛɛmɛnɖɛɛ taa nɛ ɩsʋʋ nɛ ihiɣ wezuu.,"Yesu Jesu wɛɛ odudui daaze. Mɛɛ heyi mize, enyi aba nna etinre mɛɛ nda na eso na ihi wezu.",0.9474,0.519
+95,"Ɛlɛ́, manɖaŋaa ɖɔɖɔ se paa sɩm yɔ, mansɩ Kɩpaɣlʋ Yesu yɔɔ Yeruusalɛm.",Mantan garu rose pasemiyo. Man sekewali yesuyo yerusaleme.,1.0,0.4444
+96,"Yee ɖa-maɣmaɣ ɖɩmaɣzaa nɛ ɖɩtɩlɩ ɖa-tɩ nɛ pʋcɔ yɔ, Ɛsɔ ɛɛhʋʋnɩ-ɖʋ.","yé ràm à matà mà ganir tà dàdè. Nà bikéyò, à sà èhònò",1.1818,0.7451
+97,"Ɛlɛ́, yee nɔɔyʋ ɛɖɔŋ ɖoó taa yɔ, putuuluu-i, mbʋ́ pʋyɔɔ yɔ, ɛfɛyɩnɩ ñalɩmɩyɛ.","Eleyi no rondo dake o, bu julu yi, mbo bi oya efe enyala mi.",1.0769,0.6842
+98,"Ŋgʋ́, lɔŋsɩnɖɛ tɔm ɖisusuu ɛyáa mbá papɩ Ɛsɔ nʋmɔʋ taa siŋŋ yɔ.","lɔ zɛndɛ dɔm tɔsusu, ɛyɛ mbabafe ɔsɔnɛm uda si",1.0,0.5306
+99,Sɔɔndʋ kpaɣaɣ-wɛ se mɛlɛ ɛtaakɔɔ kuyoni ɛwasɩ nasɩyɩ.,"So, ndụkwa ọwụwa anyị? Mela ya dika ọgwụ ga-ewasi na",1.25,0.7273
+100,"Mbʋ́ pʋyɔɔ yɔ, Kɩpaɣlʋ cɔŋnɩ mbá patʋʋzɩ ɛ-ɛsɩndaa yɔ pɔ-yɔɔ.","Bubu yaya, kpalakpala yongnèm babadozi èsinda yoboyo.",1.0,0.7021
+101,"Yesu tɛm ɛ-tɔmkpɛlɩkɩyaa yɔɔ Ɛsɔ tenduu ḿbʋ́ lɛ, ɛ nɛ wɛ powolo pɛtɛzɩ lɔmʋʋ ŋgʋ́ payaɣ se Sedrɔɔ yɔ nɛ pasʋʋ kaɖaɣ ŋgá kɛwɛ peeɖe yɔ ka-taa.",Yesu dɛmɛ dɛngbɛlɛ kiyaya osi dɛngbɛlɛ. Nɛ wɛ bulu bɛ tɛzɛlɛ mɔ ngubu yɔ zi sidu yɔ. Nɛ basu gara angaga ube yɔ kada.,0.8148,0.5505
+102,Ɩtɔzɩ se ɛkɔŋ-mɩ hɛyʋʋ ñɩm mbʋ́ ɛñɔɔzaa nɛ ɛɖaŋnɩ ɛ-ñɩma yɔ.,akwụkwọ m he yoo. Ihe m bụ onye ozo a na-eraghị na-enye m,1.1818,0.7609
+103,Maakpa halaa nɛ abalaa nɛ mɔhɔkɩ-wɛ nɛ manɖʋ salaka.,ma kwahala n'abali a na mụ kwụọ kwa ya na mụ ndusala,1.3333,0.5
+104,"Powoba lɛ, ɛlɩzɩ pa-taa ɛyáa hiu nɛ naalɛ se pɛkɛ e-tiyiyaa.","Obele, elisepada ya hu n'ala, si beke ediya.",1.0,0.5652
+105,Fɛstuusi cosi-wɛ se Pɔɔlɩ wɛ salaka taa Sezaaree.,Pastors Josuéze. Paulo Vazalakada se zare.,1.0,0.5
+106,"Pɩkɛdaa lɛ, pɩlabɩ-ɩ liii nɛ ɛlɩɩnɩ ɖɩ-yɔɔ ɖooo ɛsɔdaa kuduyuu naadozo ñɩŋgʋ taa nɛ etii ɛfalɩ tataa.","Oge ahụ niile, eliri ya ọzọ na-adịghị anya site na ngwụcha, na etiti afọ data.",1.0,0.7531
+107,"Alɩwaatʋ talɩɣ lɛ, ɛlabɩ-pʋ: ekpeɣliɣ mbʋ́ pɩtɩŋa payɩ pʋwɛ ɛsɔdaa nɛ tataa yɔ wiyaʋ kʋɖʋm koŋ tɛɛ.","alụlọta alụlọ ya. Ọ ga-abụ egwu elom bụrụkwa nke kacha ọhụrụ na taa, ọ bụ ya bụ abụ kacha ọhụrụ",1.1765,0.8205
+108,"Ɛlɛ́, Room sɔɔja sɔsɔ kizini-wɛ, mbʋ́ pʋyɔɔ yɔ, e-liu wɛɛ se ɛya Pɔɔlɩ ñʋʋ.","Ele, o rum so Jesus Christ ni we, mbu bi yoo yoo. Ele uwe eya Paul",1.1429,0.6111
+109,"Pʋ-yɔɔ lɛ, pʋwɛɛ se ɖa ɖɔɖɔ ɖɩsɩ ɖa-taabalaa yɔɔ.","O yoo le, o wa ni saraaro. Jisoro daa balaayo.",1.1111,0.6486
+110,Yesu ha tɔɔnaɣ samaɣ sɔsɔɔ nɛ kɔtɔɔ.,dom duanes mawaio nyungloro,1.0,0.8276
+111,"Ŋgʋ́, Yesu taatɩtalɩda tɛtʋ taa, ɛlɛ́, ɛɛwɛ ɖenɖe Maarta kakatɩ-ɩ yɔ ḿbʋ́.","Ngụyeesụ daa taa lụdettụ daa. Ele, ewere ndị mmadụ gaa tee ya",1.0,0.5818
+112,Ɩsɛɛ mbá patɩŋa payɩ pɛkɛ Ɛsɔ ñɩma pa nɛ Krɩstʋ Yesu pɛ-kpɛndʋʋ taa yɔ.,sɛ mba patɛŋka payɛ pɛkɛ Ɔsɛnyɛma pa na Kristo Yesu bagwa nti ndeɛ.,0.7143,0.4464
+113,Peeɖe Siimɔɔ nɛ ɛ-taabalaa papazɩ-ɩ ñɩnʋʋ.,"Tɛtʋ daa ayaadɩŋa pɩyɛ kʋlʋtʋaŋa kɔnɔnɔ daale, Yesu la",1.5,1.1765
+114,Ɛɛpɩzɩɣ ɛtasɩ labʋ kɩwɛɛkɩm: ɛ-Caa lɛ Ɛsɔ.,Ebe zɔ dasi labo gwekɛm. Eja le,1.0,0.6667
+115,"Ɛlɛ́, ɛcaɣ nɛ ɛmaɣzɩ ɛ-taa se: ‹Mala ɛzɩma lee?",Echa na-eme osisi dazi. Malu ezi na ulo gi. Kpọọ etali mzi mụzụ mụ na ọnọdụ gị. I riela nri ehihie?,2.3333,1.8485
+116,"Mɛwɛ tanɩm taa yaa mɛwɛnɩ sakɩyɛ yɔ, mansɩm man-tɩ ɖɔkʋʋ.",못 알아듣아요. 무슨 말인지 모르겠어요. 말씀만 드렸고,1.0,1.0
+117,"Paa sɩm yɔ, mansɩkɩ ñɔ-yɔɔ!",Eze mbu bu eze eleyo. Ya enyeta ala bu uyo ihike umedi. Pete ka m di nga amaro odu. Ma nzi mba maliza yo. Ele bu eze tom ndubam eso di m dika ya odai.,7.0,5.1
+118,"Mbʋ́ pʋyɔɔ yɔ, paɖʋ tɩ-taa se: «Nɔ weyi ɛmakɩ mɩla yɔ, paahɔkʋʋ ɛ-nɔɔ se ɛtaatɔɔ.","Mubiyayo, barudasi. No wayi makamileyo, bahokwe nodidato.",1.0,0.6271
+119,"Kɩyakʋ ŋgʋ́ Yesu tukaɣ aduwa yɔ, kɩ-ɖanaɣ yɔɔ eheyi ɛ-tɔmkpɛlɩkɩyaa se: «Đɩtɛzɩ teŋgu kidiiliŋ lɛɛkʋ yɔɔ.",kɛ ya kʊngʊ yɛsʊ dʊkɔ aduɛrɛ kɛrana yɔ ihɛ ɛdɔngbɛlɛ kɛyazi tɛtɛzi di ngʊgdi nglɛ kɛyɔ,1.0,0.5663
+120,"Ɛ-taa ɛɛhʋlʋmʋʋnɩ kɩdɛkɛdɩm, ɛlɛ́, toovenim ɛ-taa hʋlʋmʋʋna.",mɛda ɛhɔlɔ mɔnɛ kɛdɛ kɛdɛm ɛlɛ tɔfuni mɛda ɛhɔlɔ mɔnɛ,1.2857,0.4583
+121,"Maarkɩ nɛ Aristaarkɩ nɛ Demaasɩ nɛ Luka mbá ma nɛ wɛ ɖɩlakɩ tʋmɩyɛ kʋɖʋmɖɩyɛ yɔ, pɛsɛ-ŋ ɖɔɖɔ.","Marc, Aristarque, Démas, Luc",1.0,0.7838
+122,Đa-Caa Ɛsɔ maɣmaɣ nɛ ɖa-Kɩpaɣlʋ Yesu pɔñɔɔzɩ ɖa-nʋmɔʋ nɛ ɖɩpɩzɩ ɖɩtalɩ-mɩ!,"Ta yaa se mɔmɔ, na ta ga baa lu ye su, pɔnyɔ sara n'mɔ, na tebe sere talime.",1.6364,0.5424
+123,Yesu laba nɛ lɩm pɩsɩ sʋlʋm Kana tɛtʋ taa.,Yɛ dɔm du yɔ anɛs mawa yɔ nyuŋ naale.,1.0,0.8485
+124,"Ɛlɛ́, halʋ ɛnʋ ese nɛ ɛsʋʋ lakʋ taa ɖenɖe Ɛsɔ kɔñɔɔzɩ-ɩ ɖɩjaɣyɛ se pɔcɔnɩ ɛ-yɔɔ kɩyakɩŋ kutoku nɛ nasɩlɛ nɛ nɩɩnʋwa nɛ hiu yɔ.","Aloo nụ ezinụlọ koodu a, tupu ihe a sogonụ ozi erije anyị. Sị biko nụ ya ka ekunkudo kụọ nna sị na nne nụ",1.0,0.7143
+125,"Mbʋ́ pʋyɔɔ yɔ, ḿbʋ́ pʋmʋnaa se pɛhɛyɩ tʋmlaɖʋ ɛ-tʋmɩyɛ yɔɔ.",Mbo bu ya. Mbo bu muna zi pehe ya tumlaru edumiyo.,1.1,0.6222
+126,Yesu ɖɔɔnɩ aleewaa abalʋ nɔɔyʋ wayɩ.,Haziya dam du marki mawayo nyu ngagbanze.,1.1667,1.0
+127,Peeɖe ɖɩɖaŋnɩ Kɩpaɣlʋ Yesu Krɩstʋ se ɛkɔɔ ɛya ɖa-ñʋʋ.,"Père ranakpaali Jésus Christ, c'est à toi je rends",1.0,0.7209
+128,"Pɩkɛdaa lɛ, Maarɩɩ kpaɣ tɩlaaɖɩ ŋgʋ́ palabɩnɩ naarɩ nɛ petesidi kɩ-taa pʋyʋ yɔ ɛzɩ litri hɔɔlʋʋ yɔ nɛ ɛpɩyɩ Yesu naŋgbanzɩ yɔɔ.",O ga-adịrị gị mma. Ma na-echeta na ọ bụghị gị mere onwe gị. Na ebidoro gị na mbụ. Na ọ bụghị gị so na ngbanwe.,1.1364,0.8333
+129,"Nakʋyʋ wiye Ɛsɔ tiyi abalʋ nɔɔyʋ, payaɣ-ɩ se Yohanɛɛsɩ.","Na kiewie sɔdi abalɔ nɔ yɔ, ba yɔɛzi Yohane.",1.0,0.4773
+130,Pʋwɛɛ se pʋdʋ ɛha ɛzaɣ́tʋ siɣ́ye nɛ ɛla mbʋ́ pʋwɛ ɖeu yɔ.,Wɛɛ zɛ bʊdʊ́ xá zàtʊ́ zìyɛ́ nɛ́ɛ́ lǎm bʊ́ bʊ́rɛ́ wɛ́,1.0,0.6667
+131,"Peeɖe eheyi-wɛ se: «Ma lɛ, mɛnkɛ Yuda tʋ, palʋlɩ-m Taarsɩ Siliisii ɛjaɖɛ taa.",Pey hey wezet. Mala. Mange yudato. Pallam tarsa sili si yarada.,1.0,0.431
+132,"Yee ḿbʋ́ Ɛsɔ ɛsɔɔlɩ-ɖʋ yɔ, pʋwɛɛ se ɖa ɖɔɖɔ ɖɩsɔɔlɩ ɖama.","Yé mbuwɛ sɔzɔlɔrɔ yɔ, wɛzɛrɛ rɔrɔrɛ sɔlɛrɛ",0.9091,0.6279
+133,"Yohanɛɛsɩ ɛnʋ, esuwaɣ toko ŋgʋ́ palʋnɩ kpaŋnɔ siɣá naalɛ tʋ hʋndʋ yɔ.",Iwu a na-asị na ezughị oke gị ịbale n'ụkwụ gị ndị gbaa n'ụhụ ndị,1.1667,0.6909
+134,"Pʋcɔ ewolo Galilee lɛ, pɩɩwɛɛ se ɛtɩŋnɩ Samaarɩɩ egeetiye taa.",Putchawul Galilelele. Te way zay teng na samarie geti da.,1.0,0.549
+135,Halɩ ɖɩɩlaba kʋñɔŋ siŋŋ nɛ pʋcɔ ɖɩlɩzɩ kpɩyʋʋ cikpeluu ŋgʋ́ palɩzɩɣnɩ ɛyáa yɔ.,"Aladé lábúnyọ́nsín, ní fìtòròlísèbáyò jíkpèlóngó palézò náyà.",1.0,0.7188
+136,Peeɖe pɩɖɩɣzɩ-wɛ yem ɖɩɣ ɖɩɣ nɛ pɔtɔŋ se: «Ɛzɩ ɛyáa panɛ pɛtɛkɛ Galilee ñɩma patɩŋa na?,"Peboro wɛɛ yoo ndoro na patɔŋzɛ. Esii ya abanɛ, patigaliŋ m'abadɩŋa.",1.0,0.6029
+137,"Paa ḿbʋ́ yɔ, mbá panɩ tɔm ńdʋ́ yɔ, pa-taa sakɩyɛ tisi-tʋ nɛ pɔsɔzɩ lɛlaa yɔɔ nɛ pɛtɛzɩ ɖɔʋ.","Mba'ambo'yo, mba'e panido mboyo? Padasa ka'e disido? Nepo'sazelela ayo, nepetezuro",1.0,0.5075
+138,"Krɩstʋ ŋgbɛyɛ taa ñɩma mbá Ɛsɔ lɩzɩ Babilooni ɖɔɖɔ ɛzɩ mɩ yɔ nɛ Maarkɩ weyi ɛkɛ man-pɩɣa yɔ, pɛsɛ-mɩ.",Keresetụ gị gba ndị mmadụ asị na ịbụ onye Babịlọn doro asị mụ ịọ. Na mmadụ ole ị ga-amagbu ayọ? Pezem,1.1053,0.7468
+139,"Yesu na ɛyáa samaɣ ḿbʋ́ lɛ, ɛkpa piyaɣ nakɛyɛ yɔɔ nɛ ɛcaɣ.",Yɛsuna ya samam bolɛ. Ɛkpa biara na ka yɛhɔ na ɛkyerɛ.,1.0,0.4091
+140,"Toovenim lɛ, meheyiɣ-ŋ se: paɖʋ-ŋ-kɛ yɔ, ŋwɛɣ peeɖe ḿbʋ́ ka ka nɛ pʋkɔɔ pɩsɩɩnɩ kɩyakʋ ŋgʋ́ ŋhɛyɩ ña-kɩmɩyɛ tɩŋa payɩ nɛ pɩtakazɩ paa koba yɔ.","Mburu na abụọ na-ewe ya ejazogide nke ọjị na nyomne, e siwe ya. E deke nyomdo esọsị nda.",1.0,0.8611
+141,Ḿbʋ́ yekina nɛ pɩtɩŋnɩ lidaʋ ŋgʋ́ ɩwɛna yɔ kʋ-yɔɔ nɛ Krɩstʋ wɛɛ mɩ-laŋa taa nɛ ɩtɛzɩ pɩʋ sɔɔlɩm taa siŋŋ.,na Christ,1.0,0.9383
+142,"Paba nɩ ḿbʋ́ lɛ, pa nɛ wɛ pɛkpɛndɩ patɩŋa nɛ pɛsɛɛ Ɛsɔ se: «Caabiyuu!","Pàbà nì m bòle, pànà wòbà kpàndì bàdìnà pèsè sòzì. Jabi",1.0,0.6078
+143,Peeɖe palɩzɩ Yesu tiyiyaa ḿbá pɛ-hɛkʋ taa nɛ pɔpɔzɩ-wɛ se: «A-ɖoŋ taa yaa a-hɩɖɛ taa ɩlaba nɛ abalʋ ɛnʋ ɛ-yɔɔ cɛ?,"Pɛɛ balɛ si yɛ sudii yambaa pɛɛ koda, nɛ bɔbɔzɩ wɛɛzɩ. Adoo ngda ya ahiri da elabane abalunu eyoo.",1.0,0.5059
+144,"Pɛɖɛɣaɣ lɛ, ŋgbɛyɛ taa ñɩma cɛlɩ-wɛ mbʋ́ pʋpɔzʋʋ-wɛ pa-nʋmɔʋ ɖɔm taa yɔ.","Ebe danyi mechelu we, mbu bu ozu we banu mu oru m dayi.",1.0833,0.7273
+145,"Pɩkɛdaa lɛ, tɛtʋ tɩñamsɩ siŋŋ nɛ pɩkpɛndɩnɩ salaka kuduyuu nɛ kʋ-nɔnɔsɩ tɩŋa tɩtʋlɩ yem nɛ yoŋgbasɩ nzɩ́ paaɖɩ salaka tɩnaa tɩŋa yɔ sɩtɩcɛbʋ.","kedu ka ị dị? Tetete ụra m sị sị, m na-ekwe kwa nkwa na m sagharịrị gburugburu, na kwa na ọ sịghị m tịdịrị ya. Na ya onwe ya sị m zepaa arịsị ala ka dị na adịghị ya, sị tịjee",1.7826,0.7478
+146,"Yee nɔɔyʋ ɛtɔm se ɛwɛ ñalɩmɩyɛ taa nɛ ɛpaɖɩɣ ɛ-taabalaa yɔ, pɩwɩlɩɣ se ɛwɛ cɩkpɛndʋʋ taa tam.","ye noyodo mɛsɛ, owanyalɛ mi da nɛ baro dabala kɔyɔ, oloze we jikpɛndu da",0.9412,0.6216
+147,"E-Fezuu Kiɖeɖeu ŋgʋ́ ɛha-ɖʋ yɔ, ŋ́gʋ́ wɩlɩɣnɩ-ɖʋ se ɖa nɛ ɩ ɖɩwɛ ɖama taa.",Agalaza nga haro yo nga wulu nulu ze re ne roramda.,1.0,0.7547
+148,Tɩ-taa ɩmɩzɩɣ ɖama nɛ paa weyi ekpe ɛ-tɛ nɛ iyele men-ɖeke.,Sida emezuọrọ ma na-abụghị ekpe ikpe na enyemaka ndị,0.9091,0.7111
+149,"Paa ɩtana-ɩ yɔ, ɩwɛnɩ lidaʋ ɛ-yɔɔ nɛ mɩ-laŋa hʋlʋmɩ siŋŋ, pɩfɛyɩ yɔɔdʋʋ.","Pa a danayigọ, ewu ndi d'ọyọ na mmalụ ngị hụlụ sịị pụfụ yọdụ.",1.0833,0.6727
+150,-Peheyi Farɩsɩ ñɩma se: «Yesu tɔmkpɛlɩkɩyaa kɩlɩ Yohanɛɛsɩ ñɩma ɖɔʋ.,"Nanza. Kpali yɛɛ so ga nweze, ehee ifarisi nyɛɛ mbazi.",1.0,0.8727
+151,» Lɛlaa se: «Ɛzɩma kɩwɛɛkɩm laɖʋ pɩzɩɣ ɛla hama lakasɩ ḿbʋ́?,,,
+152,"Panɩ tɔm ńdʋ́ ḿbʋ́ lɛ, pa-taa sɔsaa calɩ lɔyʋʋ kʋɖʋm kʋɖʋm nɛ pɛɖɛɛ patɩŋa payɩ nɛ piyele halʋ ɛnʋ e-ɖeke koŋ Yesu ɛsɩndaa.","A ni dɔm dɔm bolɛ, pɛdɛɛ sɔsɔ a chal rɔyɔ kɔyɛm kɔyɛm, nɛ bɛrɛɛ ba dɛngɛ pɛyɛ, nɛ bɛɛ lɔ hanolu nɛ kɛkɛngɛ Yesu sɔsɔ nda.",1.0,0.5579
+153,"Mbʋ́ pʋyɔɔ yɔ, ɛjaɖɛ ńɖɩ́ ɖɩ-taa ñɩma laŋa wɛ kpɩzɩŋ nɛ.","Eya, eya. Eya rɛndiri taa nyɩma langa wɛ kpesɩŋ.",0.9091,0.5366
+154,"Yee toovenim se ɛnʋ ɛhanɩ-ŋ-pʋ lɛ, pɩlabɩ ɛzɩma ŋkʋndʋʋnɩ-pʋ ɛzɩ pataha-ŋ-pʋ kɩhaʋ yɔ?",,,
+155,"Paa ɩtɛm sɩm tɔm ndʋ́ meheyiɣ-mɩ yɔ camɩyɛ yɔ, me-liu wɛɛ se mɔntɔzɩ-mɩ-tʋ.","Ba Adam zama tumtum, dumhe yomi oja mi oyo. Meluwa zi m'ondo osi",1.0,0.6607
+156,› Peeɖe mɔnpɔzaa se: ‹Kɩpaɣlʋ!,Elejo Simi,1.0,0.8636
+157,Ŋ́gʋ́ lɛ taŋga nɛ mɩnʋʋ nɛ nɩɩnʋwa nɛ hiu nɛ loɖo.,"Tango le, tanga niminu, n'eninu n'isu n'ululu.",1.0,0.6216
+158,Mankʋyʋʋ manpɩsɩ man-caa cɔlɔ nɛ meheyi-i se: caa!,Mangu yuman bese manja jon ne me heze.,1.0,0.5385
+159,"Pʋ-yɔɔ lɛ, mɩ nɛ Yesu Krɩstʋ mɩ-kpɛndʋʋ ɛwɛɛ ḿbʋ́ ɛzɩ Fezuu Kiɖeɖeu ŋ́gʋ́ kɩwɩlʋʋ-mɩ yɔ.","Yaale, mini Yesu Kristo migbanje we mbu, ezigala zanga ga wulu m",0.9333,0.6515
+160,Ñɔ-lɔŋsɩnɖɛ yɔɔ pɩtɩŋnaa nɛ pɛlɛɣzɩ wɛtʋ sakɩyɛ ɛjaɖɛ ɖɩnɛ ɖɩ-taa se piɖeni-ɖɩ.,Nyɔlɔŋ sɩndɛ o pɛtɛŋ na nɛ pɛlɛɛsɩ wɛtʋ zakiyɛ ɛjarɩnɛrɩda sɩbiri nɛ,1.0,0.3906
+161,"Lɛɛlɛɛyɔ, manawa se mbá mɩ mɩtɩŋa payɩ mɔnkɔm mɩ-hɛkʋ taa nɛ monsusi Ɛsɔ Kewiyaɣ tɔm yɔ, mɩ-taa nɔɔyʋ ɛɛtasɩɣ naʋ mɛ-ɛsɩbiye taa kaʋ.","naa yaa, mana o si mpa mme mme tinye ka payi, mụ gwa mme ya kụda, na mụ nsụsị ọ sọgọọ ya ọ dọọ mụ ya. Mịda a nọọ e dasị na o, mụ e sị bụ ịda ka",1.6957,0.6571
+162,Maapɔzʋʋ nɔɔyʋ se ɛlabɩ-m mbʋ́ pʋmʋnaa se palabɩ-m tɩ-yɔɔ yɔ.,"Maa pɔsɔnɔ yɛ, alafom bukumunase, alafom tiyɔ.",1.0,0.4894
+163,"Pɔɔlɩ nɩ ḿbʋ́ lɛ, ɛsʋʋ ɛ-cɔlɔ nɛ ɛtɩnɩ ɛ-yɔɔ nesi nɛ ɛsɛɛ Ɛsɔ nɛ ɛ-yɔɔ cɛ.","Pɔlɛ nɛ́mbɔlɛ, ɛsɔ yɔlɔ nɛ́tɛ́ne ɛyɔ nɛ́si nɛ́seɛsɔ nɛ́ɛyɔ",1.0,0.3585
+164,"Ɛ́lɛ́ kɔma lɛ, Feliksɩ heyi-i se ɛkɛdɩ-ɩ Krɩstʋ Yesu yɔɔ lidaʋ wɛnaʋ tɔm.","Elu gọọ mụ ala, felisi heeze, eka di ikuku so ya so ya oli daa wee na udọ.",1.3846,0.6
+165,Tasɩ-kʋ yebu pɩnaɣ kanɛ nɛ mohuyi kɩ-tɛɛ nɛ manɖʋ huɖe nɛ mana.,tasi gu ye bubu na ga ne na mo hwi gi de na ma ndu hure na ma,1.5,0.4694
+166,"Me-liu wɛɛ ɖɔɖɔ se halaa esuu wondu ɛzɩma mbʋ́ pʋmʋnaa yɔ, pataaɖɛlɛsɩ niye, pataakɩlɩ pa-tɩ canʋʋ.","Bịa luwe ọdọ si hala esu wụ ndụ, esị m a mbọpụ mụ na ayọ. Pata kịlịsị ni ya. Pata kịlịbata ịga nụ.",1.4375,0.4744
+167,Pʋwɛɛ kpem se ɖɩlɛɣzɩ ɖɛ-wɛtʋ.,mwayo nyung hune nados,1.0,0.9583
+168,"Đooo lɔŋ, ɩɩkpaɣ alɩwaatʋ siŋŋ nɛ ɩla ɛzɩ mbá paañaŋ Ɛsɔ yɔ palakʋʋ mbʋ́ pe-liu wɛɛ yɔ.",Tụọla anya ịpaa arụ a tụsị na LS Mba Baanyị ọsọ ya kwara ka ọ mbubelụ uwa.,0.9412,0.6418
+169,"Kɩyakʋ kɩhɛzʋʋ talaa lɛ, pasʋʋ Yuda ñɩma Ɛsɔ ɖɩsɛyɛ taa nɛ pacaɣ.","ya kuga hezwo da laale, pasu yuda anyi ma sori se yida anabacha",1.0,0.5
+170,"Peeɖe ɛkʋyaa nɛ ɛpɔzɩ-ɩ se: «Đɔ-kɔɔ, pɛwɛ le tɛ?",Togo,1.0,1.0
+171,Ɛsɔ kɔŋ-m haʋ ɖɔɖɔ koboyaɣ ŋgá ɛkɔŋ lɩzʋʋ nɛ ɛwɩlɩ-ɖʋ yɔ.,"Sɔgɔnɔn haoro kɔbiyɔnga, ɛgɔn lezeona ewoliri",1.0,0.6364
+172,Pʋ-yɔɔ ɖɩlɩzɩɣ kʋ-tɔm ńdʋ́ tɩ-tɔbʋʋ mbá Ɛsɔ ha-wɛ-kʋ yɔ.,"Yoruba le so kọtam to dabo, mba sa hawe ga",1.0,0.6829
+173,Mbʋ́ pʋwɛɛ yɔ lɛ se: ɩɖɔ camɩyɛ ɛzɩ Krɩstʋ Laŋhɛzɩyɛ Tɔm pɔzʋʋ yɔ.,Mbuwa yoo lese. Oro jamu yezé krisolanghezi do mboso,1.0,0.6667
+174,"Yee ḿbʋ́ lɛ, ɛzɩma ɖɩɩpɩzɩɣ ɖɩhʋʋ kedeŋa yɔɔ cɩnɛ tɔm yɔ?","Kémbola. Esengo na liboso, okoki koyebisa ngai",1.0,0.8864
+175,Nɛ weyi ɛ́lɛ́ woba sukuli yɔ?,Kanda,1.0,0.9524
+176,"Ɛlɛ́, Fezuu Kiɖeɖeu tii kɩwɛɛ patɩŋa pɔ-yɔɔ nɛ papazɩ yɔɔdʋʋ kʋnʋmɩŋ ndɩ ndɩ weyi kɩha-wɛ ɖoŋ se pɔyɔɔdɩ yɔ.","Ehe, esé galézɔ́ tìgò è bàdàngà bòyò, nè bàbàzì yò dòkò nà mǎng dindì wèè gàhò wèè rùnzì kpòyò.",1.0,0.8
+177,"Patalɩ Room nɛ pɩla kɩyakɩŋ naadozo lɛ, Pɔɔlɩ yaa Yuda ñɩma ñʋndɩnaa mbá pɛwɛ peeɖe yɔ ɛ-tɛ.",,,
+178,"Lɛɛlɛɛyɔ, manɖʋzʋʋ mɩtɩŋa payɩ Ɛsɔ nɛ e-lootiye tɔm pe-nesi taa.","Lelaa, manesomɛtɛngaa pai, osɔ n'oloti etom.",1.0,0.6471
+179,"Pɩkɛdaa lɛ, Siimɔɔ Pɩyɛ heyi-wɛ se: «Mowoki mankpa kpakpasɩ.",Moweke mangwa gbagba,1.0,0.7872
+180,"Tʋma wena ŋlakɩ yɔ, apaɣlaa kpem, pɩfɛyɩ yɔɔdʋʋ!",mụ na nne ya abụọ na-akpa nri na-efe ya,1.125,0.7632
+181,Ńdʋ́ lɛ se ɖooo lɔŋ Kɩpaɣlʋ yabɩ Izrɛɛlɩ ñɩma ñʋʋ Ejiptɩ ɛjaɖɛ taa.,Toulouse,1.0,0.9434
+182,"Yee paapɛdɩ-kʋ, kɩtaaɖɛɛ ɛzɩ kɩyakɩŋ nasidozo tʋmɩyɛ liidiye yɔ nɛ patayɩ kʋñɔndɩnaa naa we?",ye baa petuko kadare se kyakun nasi dosu tomili deyon pate kyon dunana,1.0,0.5263
+183,"Ɛlɛ́, Sɔɔjanaa ñʋʋdʋ Lisiyaasɩ tɩkɔm ɛlɛɣ-ɩ nɛ ɖoŋ ɖe-nesi taa nɛ eheyi-ɖʋ se ɖɩkɔɔ ñɔ-cɔlɔ.",elle soye na nyodoli si asidogom elle ayi nuru denis da na he ruze to konyo,1.0667,0.6901
+184,"Weyi ɛ́lɛ́ tisiɣ se ɛsɩm Ɛsɔ Pɩyalʋ yɔ, ɛsɩm ɖɔɖɔ Caa Ɛsɔ.","Oye, Ale de Souza, ese me hace subir a Leo, ese me lo deja",1.1667,0.8372
+185,"Mbʋ́ pʋyɔɔ yɔ, weyi ɛtɔkɩ nɛ ɛñɔɔ yem nɛ ɛtamaɣzɩ camɩyɛ se ɛna mbʋ́ Kɩpaɣlʋ tomnaɣ kɛwa yɔ, mbʋ́ ɛtɔkɩ nɛ ɛñɔʋ yɔ, ḿbʋ́ kʋʋnɩ ɛ-maɣmaɣ ɛ-tɔm.",Mbu ya aya. We odokene onyo iyi. Na edama si ya mense ena mbu ge ba lutum na aga waya. Mbu odokene onyo uya. Pukwu na emama odo.,1.037,0.6132
+186,"› Meheyiɣ-mɩ se ḿbʋ́ ɖɔɖɔ pʋwɛɛ: yee kɩwɛɛkɩm laɖʋ kʋɖʋm nɔɔyʋ ɛlɛɣzɩ wɛtʋ yɔ, Ɛsɔ tiyiyaa laŋa hʋlʋmʋʋ ɖeu.",M̀ hɛ́ yu mísɛ́ m̀ búrù rɔ̀ bʊ́ ɛ́. Yɛ́ ɛ́ kʊ́ ɛ́ kɛ́ m̀ lárʊ́ kʊ́rʊ́ m̀ nɔ́ ɛ́ lázɔ́ wɛ́ tɔ́ yɔ́. Ɛ́ sɔ́ dɪ́ yá lá ngá hɔ́lʊ́ m̀ rɛ́,1.7778,0.5952
+187,"Ma lɛ, malakɩ-mɩ lɩm sɔʋ sɔnzɩ, ɛnʋ lɛ, ɛkɔŋ-mɩ labʋ sɔnzɩ nɛ Fezuu Kiɖeɖeu ɖoŋ.",malé,1.0,0.95
+188,"Ɛlɛ́, ɖɩsɩm se alɩwaatʋ ndʋ́ Yesu Krɩstʋ pɩsɩɣ ɛkɔɔ nɛ pana-ɩ yɔ, ɖɩwɛɣ ɛzɩ ɛwɛʋ yɔ, mbʋ́ pʋyɔɔ yɔ, ɖɩnaɣ-ɩ ɛzɩ ɛwɛʋ yɔ.","alewa tundu Yesu Kristi obi so na eko na eba na iyo, tiwa ozi ewa uyo mgbe bu iyo, tinna ozi ewa uyo",1.0,0.6705
+189,» Peeɖe Zaacee titiba nɛ ɛ nɛ Yesu powolo ɛ-tɛ nɛ ɛmʋ-ɩ nɛ laŋhʋlʋmɩyɛ.,Pe sachet di deba. Ene ye subolo ede na omu yi ne la nhulu mi.,1.1538,0.5741
+190,Piyeki nɛ pɛhɛzɩnɩ pa-tʋma: pɔkɔŋ-wɛ hɛyʋʋ a-yɔɔ.,"Bịa kị nụ pẹ hẹ nụ pado ma, pọgọ nwe hẹ yụ ayọ.",1.8571,0.6053
+191,Ɛsɔ ɛlabɩ-mɩ lootiye!,Aso elavamilo tiɛ.,1.0,0.5294
+192,Pɔɔlɩ tasɩ yɔɔdʋʋ se: «Pʋ-yɔɔ mankpaɣ nʋmɔʋ nɛ mɔnkɔɔ mɔñɔtɩnɩ Damaasɩ.,"O le dasi yoo doze. O ya, ma ngbọ́ ọ́ ná mọ́, o ma ngbọ́ ọ́, o ma nyọ́ titi di àárọ̀.",2.0,0.7368
+193,Ɛsɔ wɩlɩnɩ-ɩ-pʋ se ɛwɩlɩ ɛ-tʋmlaɖaa nɛ pana mbʋ́ pʋkɔŋ labʋ alɩwaatʋ pazɩ taa yɔ nɛ ɛtɩŋnɩ e-tiyiyu yɔɔ nɛ ɛwɩlɩ-pʋ ɛ-tʋmlaɖʋ Yohanɛɛsɩ.,"So, nna ya bu si owelle odomlaranya na fa na mbubuko nlabo ala otu basida ayo na etinye edii ya na owelle bu odomlaranya",1.0909,0.6542
+194,Ɩtaapɔzɩ mɩ-tɩ tɔm natʋyʋ pʋ-yɔɔ nɛ pʋkɔɔ piliɣti-mɩ.,"aya. Età kpọ́ọ sị mị tẹ́étọ́ m na Tụ́ọ̀bị̀ọ̀, nụ́bụ́kọ́ ọbụlị tị́",1.5,0.8095
+195,"Pɛtɛm-wɛ lɩzʋʋ ḿbʋ́ lɛ, powoni-wɛ tiyiyaa ḿbá pɔ-cɔlɔ nɛ paba sɛɛ pɔ-yɔɔ Ɛsɔ nɛ patɩnɩ pɔ-yɔɔ nesi.","Adamou Alizou Mboule, bonouwe di ya amba ba jolo, ne ba bisse ba yoso, ne patine ba yoni.",1.0588,0.6133
+196,"Ɛlɛ́, paa weyi ɛ-maɣmaɣ ɛ-kalɩzaɣ tɩlɩɣnɩ mbʋ́ pʋwɛ ɛ-taa yɔ.",Pà wí àmọ́ mọ́ ẹ kàlẹ́ sọ́tùn lùnà. Mbugbọ̀ ẹdá,1.0,0.7778
+197,"Peeɖe taabalaa tɔm se: yee ḿbʋ́, Pɔɔlɩ nɛ Barnaabaasɩ nɛ pa-taa nabɛyɛ powolo Yeruusalɛm, Krɩstʋ tiyiyaa nɛ ɛ-ŋgbɛyɛ taa sɔsaa pɔ-cɔlɔ nɛ pana-tʋ.","Ede a bala dom si, ye mbu, Paul ne ba na ba se, ne ba da na be Paul Yerusalem, Keresi odi ya na egbe eda so sa po joro ne",1.3478,0.5391
+198,Ḿbʋ́ ɖɔɖɔ pʋwɛnɩ weyi Fezuu Kiɖeɖeu yeki nɛ ɛwɛnɩ Ɛsɔ wezuu yɔ.,"mburu puo na nwe eso galiza ye kine, ewe eso wezi",1.0,0.68
+199,"Pʋwɛɛ se ɖɩsɔɔlɩ ɖama, mbʋ́ pʋyɔɔ yɔ, Ɛsɔ cɔlɔ sɔɔlɩm lɩɣna.","Oweziri soro ha ma. Mbu bu oya, esoghi m jụọ azụ olu mụ na unu",1.3636,0.8261
+200,Ŋfɛyɩnɩ natʋyʋ se ŋcosuu yaa we?,Ele ya esusu na edata si Josu na te ya. Pere pere si Pilati ya m toro. Mehe yu,3.1667,1.8077
+201,Nɔɔyʋ tasɩ mbʋ́ mɛnkɛnaa yɔ nɛ pɩtasɩnɩ man-Caa nɛ nɔɔyʋ tasɩm-ɩ nɛ pɩtasɩnɩ ɛ-Pɩyalʋ ma nɛ mbá mɔnsɔɔlaa se mawɩlɩ-ɩ-wɛ yɔ.,"Nnoo ịdị asị mụ mụ na gị na ya, na ịbụ ịdị asị na mụ na gị na ya. Nnoo ịdị asị mụ na gị na ya bụ ịbụ alụma na mbanụzọ na azịma ụlọ ụwa.",1.7143,0.6907
+202,"Ɛlɛ́, yee paɖʋ nɔɔyʋ tʋmɩyɛ miŋ taa nɛ ɖɩñaɣ yɔ, pʋdʋ lesiɣ ɛ-kɩhɛyʋʋ.","Eparno domi amin daaniri nyayo, otulisue egehe",1.0,0.717
+203,"» Kpaagbaa ḿbʋ́ lɛ, Yesu tɩlɩ tɔm ndʋ́ pahʋwaɣ pa-taa ḿbʋ́ yɔ nɛ ɛpɔzɩ-wɛ se: «Pɩlabɩ ɛzɩma ɩhʋʋ mɩ-taa ḿbʋ́?","Bàbá mbu le, Jesu Kristi mbu kpàhuwà pa dà mbu yọ na ègbò zi zi.",1.0,0.7436
+204,"Ɛkʋyɩ pɔ-cɔlɔ se ɛɖɛɣ lɛ, eheyi-wɛ se: «Yee Ɛsɔ etisaa yɔ, manpɩsɩɣ mɩ-cɔlɔ.",Agọ́ yí bà jọ́ lẹ́ sẹ́ rọ́ lẹ́. Ẹ̀hẹ́ wọ̀zẹ́. Yé asọ̀ èdìsáyọ̀. Màmbé sọ́ọ́mụ̀ jọ́,1.2308,0.7679
+205,Ḿbá lɛ mbá patɩŋa payɩ patama pa-hɩla wezuu takayaɣ taa ɖooo ɛzɩ Ɛsɔ labʋ kedeŋa yɔ.,,,
+206,"Iyele nɛ Krɩstʋ laŋhɛzɩyɛ la tʋmɩyɛ mɩ-laŋa taa, mbʋ́ pʋyɔɔ yɔ, ɖɩ-tɔm taa Ɛsɔ ya-mɩ nɛ ɩkpɛndɩ ɖama nɛ ɩpɩsɩ ɛyʋ kʋɖʋm.","E ye le, ne k'e so langa se la tomia melanga ta. Mbu bu yo yo. To tom da o se ya me ne ekpe ndrama ne ebeso ewu goro.",1.3182,0.5761
+207,"Pakalɩ-kɛ patɩŋa pɛ-ɛsɩndaa lɛ, pɩlabɩ-wɛ hʋnʋm nɛ pa-laŋa hʋlʋmɩ.",Bagaal ga baden payi ba sindaale. Pila buwe hunum ni balang a holum.,1.4444,0.5577
+208,"Mɛwɛɣ mbá patasɩ Mooyiizi paɣtʋ yɔ pɔ-cɔlɔ lɛ, mɛwɛ ɖɔɖɔ ɛzɩ ḿbá yɔ.",Mô tả phim,1.0,0.9245
+209,"Ɛyáa panɛ, pɩtɛkɛ sʋlʋm kʋʋnɩ-wɛ ɛzɩ ɩyɔɔdʋʋ yɔ, mbʋ́ pʋyɔɔ yɔ, pɩkɩlɩ tanaŋ.",ya bane. Kuma daga zolum go na wè e zai yô wò yô. Mbo bu yô yô. Pakali da na.,1.5385,0.678
+210,"Đoo yuu lɛ, ewolo ɛsʋʋ pʋʋ ŋgʋ́ payaɣ se Somiŋ Pʋʋ yɔ, kʋ-yɔɔ.","O yule, o le supo ngupaya guze, sumungbo yokuya.",1.0,0.5778
+211,Powona Yesu Room wiyaʋ Pilaatɩ tɛ.,mawayo nyu nyu na gbanze,1.0,0.7857
+212,"Yee nabɛyɛ ɛmaɣzɩɣ se papɩzɩɣ pataa pa-maɣmaɣ pa-tɩ liu yɔ, mɛwɛnɩ waɖɛ nɛ pɩkɩlɩ-wɛ.","Ihe na-abụghị mọzụzụ, baba zọpụta agba mọọma baa na olu ya. Ma ọ nụwarị na bụkiri",1.1429,0.6567
+213,Pʋ-yɔɔ ɩpɩsɩ mbá pawɩlɩɣ nʋmɔʋ mbá patɩŋa payɩ pɛwɛnɩ lidaʋ Ɛsɔ yɔɔ Masedonii nɛ Akayɩ pa-ageeta taa yɔ.,"pụrụ ya ebe sị mba paụlụ nụ mụọ, mba bata nụ ka paipu onye ndu ọsọ ya bụ macedonia na aka anyị baa gate dị anyị",1.3333,0.5952
+214,"Piyele ɖa lɛ, ɖisusuu Krɩstʋ weyi pakam-ɩ kaamaŋkaɣ yɔɔ yɔ ɛ-tɔm.","Tutu, Christ",1.0,0.902
+215,"Mbá ɩɖʋ-wɛ salaka yɔ, pɛwɛ Ɛsɔ ɖɩɣa taa nɛ pawɩlɩɣ ɛyáa tɔm.","Anaba wɛ salakɛ, pɛ sɔrɩ anaba wɛ lɔɔya.",1.0,0.5652
+216,"Mbʋ́ pʋyɔɔ yɔ, pama Ɛsɔtɔm Takayaɣ taa se: «Ɛsɔ ɛɛnaɣ mbá pakpazɩɣ pa-tɩ yɔ nɛ ɛsɩyɛ.",bụ be ọyọ. Mama sọrọ m da ka ya daa zi. Ị sọrọ ya na ọ mba bakwazi ọbụna ị na-esi,1.3125,0.625
+217,"Pɩnzɩ naalɛ kɔm sɩɖɛɛ lɛ, abalʋ weyi payaɣ se Pɔɔrsiyuusi Fɛstuusi yɔ, ɛlɛɣzɩ Feliksɩ lone taa nɛ ɛkɛ wiyaʋ sɔsɔ.","Pensez-nous à la gomme sur elle. Avez-vous eu peur de vous? Heureusement, je suis là.",1.0,0.8242
+218,"Pʋwayɩ lɛ, Yesu tɔmkpɛlɩkɩyaa hiu nɛ naalɛ taa weyi payaɣ se Yudaasɩ Iskarɩyɔɔtɩ yɔ, ewolo ɛna Yuda ñɩma cɔjɔnaa sɔsaa nɛ ɛpɔzɩ-wɛ se: «Yee manpɩzaa mankpa Yesu nɛ mɛncɛlɩ-mɩ, ɛbɛ ɩhaɣ-m?","Yesu danguɛlɛ kɛ a huna n'alatawɛ bayasi Yuda Iskarioti yɔ. E wɛlɛ na Yuda, e nyɛma jɔjɔ n'azɔsa na e bɔzɔ ezi. Ye mambaza man kpa Yesu nyɛma njɛlɛmɛ. E bɛ hɔ",1.0,0.4595
+219,"Ɛlɛ́, weyi ɛlakɩ mbʋ́ Ɛsɔ liu wɛɛ yɔ, ɛ́lɛ́ cakɩ wezuu tam.","Hello, well, I can't wait to see you. I'll let you know as soon as",1.25,0.9512
+220,"Fileemɔɔ, alɩwaatʋ ndʋ́ tɩtɩŋa mɛnsɛɣ Ɛsɔ ñɔ-yɔɔ yɔ, mansaŋ-ɩ.","Halua tundu dutunga mansa osonyayo, mansa",1.0,0.6042
+221,"Ɛlɛ́, pɩkɛnɩ halʋ hɩɖɛ ɖʋʋ se ɛ́lɛ́ ñɩnzɩ esu.",Pikanna hallo herose. Elenyi nzi,1.0,0.697
+222,"Ŋgʋ́, ɖɩpɩzaɣ ɖinuuti-mɩ se ɖɩkɛ Krɩstʋ tiyiyaa.","Tɛmisaaru nuutume, sɩrɛga kɩrɛsoti yaa",1.0,0.6316
+223,"Weyi ɛsɔɔlʋʋ ɛyáa yɔ, ɛɖɔkʋʋ ɛ-tɩ, ɛsɩŋnɩ-wɛ, ɛɛwɛɣ ɛsɩsɛmɩyɛ.",,,
+224,Peeɖe ɛyáa woba nɛ pɔpɔzɩ Yesu se: «Pɩlabɩ ɛzɩma Farɩsɩ ñɩma tɔmkpɛlɩkɩyaa nɛ Yohanɛɛsɩ ñɩma pɔhɔkʋʋ nɔɔ nɛ ña-ñɩma ñaahɔkʋʋ?,Bérée éyá wóbè n'bóbózi yé súsé.,1.0,0.9118
+225,"Pʋ-yɔɔ lɛ, yee halʋ nɔɔyʋ etohuuzi pʋyʋ ɛ-ñʋʋ yɔɔ yɔ, ɛtɛzɩ ɛ-ñɔsɩ hʋm.","pụọla. Ị hụghị na ọ bụ ụzọ pụọ, onye ọ bụla ga-apụọ. Ị tese, ịnyụsịghị",1.1538,0.9057
+226,"Ɛlɛ́, ɛtaasɔɔlɩ se pɛkɛ mbá pamʋnaa yɔ nɛ piyebi-ɖʋ.",Ɛda sɔlɔ sɔ bɛkɛ mbapa munayo ne biye buru.,1.0,0.425
+227,"Mbá poluŋuu kpɩnɛ nɛ ɖɩ-sɩʋ kpelaɣ pɛ-tɛɛ yɔ nɛ mbá palabɩ pɔ-yɔɔ ɖɩ-hɩɖɛ yʋsaɣ yɔ, paahɛzɩɣ wɩsɩ nɛ ɖoó.","Mba bụrụ na ụbọchị ahụ na-esote ụbọchị ahụ, na mba ọzọ bụ ụbọchị dị iche na ụbọchị ahụ, ọ bụ ihe nwute.",1.0526,0.8519
+228,"Etiyi-wɛ nabʋlɛ ɖeɖe lɛ, Yozɛɛfʋ yele se ɛ-ɖalaa ɛsɩm-ɩ.",Yosef yeles erala esen.,1.0,0.6977
+229,"Tɛʋ fema lɛ, Yohanɛɛsɩ na Yesu wokaɣ ɛ-cɔlɔ.",ihea na esi jide ya? Fara si ngbe anyi mbụ ga-ewebata. Papa ụbọchị izizi. Ndị nke wee sọlụzị anyị. Ya,2.5,1.9706
+230,Wiɖiyi nɔɔyʋ takatɩ-m Ɛsɔ ɖɩɣa taa yaa Yuda ñɩma Ɛsɔ ɖɩsɛyɛ naɖɩyɛ taa yaa tɛtʋ taa se ma nɛ nɔɔyʋ ɖiɖiɣni tɔm hɔm yaa mansazaɣ samaɣ se kalɩɩ ɛyáa wayɩ.,"uri na etiti osisi dị a, Yuda nyịm osisi ị na-arị dị a, ya tetu daa si. Ma nụ na odidi enutu m hụm ya masaza samaa, sekali ị ya awa",1.0,0.541
+231,"Pɩtɛ ɛyáa ḿbá, ɖɛ-hɛkʋ taa palɩnaa, ɛlɛ́, pataakɛ ɖa-ñɩma siŋŋ.","bị tẹ. Ẹ yá àmbá, tẹ́ẹ̀ kùdábalẹ́ ná, ẹlẹ́, padá kàrànyí mọ́ sín",1.3,0.7021
+232,Halʋ acɛyɛ tʋ nɔɔyʋ tɔm.,Mawayo nyonglutoso.,1.0,0.8421
+233,"Tɩtalaa lɛ, mbá pɛwɛ Yudee egeetiye taa yɔ, pese pakpanɩ pʋŋ taa nɛ mbá paba wɛ Yeruusalɛm yɔ, pese pɛɖɛɛ poliŋ.",Jerusalem,1.0,0.9205
+234,"Yee ña-taabalʋ nɔɔyʋ ɛyʋsɩnɩ-ŋ yɔ, heyi-i se mbʋ́ ɛlaba yɔ pɩfɛyɩ ɖeu.","Yɛ nya da baanu ɛwɔ sika ngɔ, hey, izɛ, mbu ɛlabayɔ bi vɛɛri",1.0833,0.566
+235,Meheyi-mɩ tɔm ńdʋ́ tɩtɩŋa payɩ se ɩwɛɛ laŋhɛzɩyɛ taa ma nɛ mɩ ɖɛ-kpɛndʋʋ taa.,"Mehe mi dum du ti tengappai, se ewe langhe seida, mana mi regbe du da.",1.0,0.6333
+236,"Pʋcɔ nɛ Yesu pazɩ ɛ-tʋmɩyɛ lɛ, Yohanɛɛsɩ kosusi Ɛsɔtɔm Izrɛɛlɩ ñɩma kpeekpe se pɛlɛɣzɩ wɛtʋ nɛ palabɩ-wɛ lɩm sɔʋ sɔnzɩ.","Kpujeni Yesu pasa otu m ya ele. Yohaness kosise osodom, Israel nyemego ekwe. Sepelesi weto nepali bu weli m so so nso.",1.1,0.5208
+237,"Pɛtɛŋɛlaa kpem, mbʋ́ pʋyɔɔ yɔ, pakʋyɩ Ɛsɔ yɔɔ ɛzɩ Kooree kalabʋ yɔ.",아침에 라면 먹었어요. 밥 위에 에쎄요 에지 고래 갈라요.,1.0,1.0
+238,"Mbʋ́ pʋyɔɔ yɔ, ɛnɩɣzɩnɩ halʋ weyi pahʋm-ɩ koloŋgolo se paɖʋ-ɩ fɛyɛ yɔ.","Mbu biara m nozi na halu e, na hu ma ikolu ngolu ze, paru ife",1.25,0.6111
+239,» Nabɛyɛ se: «Ɛnʋ.,Lalaze.,1.0,0.8182
+240,"Ɛlɛ́, Pɔɔlɩ tetisi tɔm ńdʋ́ nɛ ɛyɔɔdɩ se: «Mantayʋsɩnɩ Yuda ñɩma paɣtʋ yaa Ɛsɔ ɖɩɣa yaa Room wiyaʋ sɔsɔ.","O le di di sudom do, na ya o di zi. Manda ya osi na yu da anyi ma paatu, ya osoro ya, Rome wu ya osuso.",1.4211,0.575
+241,"Meheyiɣ-mɩ ḿbʋ́, mbʋ́ pʋyɔɔ yɔ, mbá pɛcɛtɩɣ se pɛkɛ náyaa yɔ palɩ kedeŋa yɔɔ sakɩyɛ.","Mba, i me mbo. Mba bu ya ayo. Mba bu ihe tuuzi, ba ga lo isi na ayo. Paali gi di n'ihu zaa kii.",1.5333,0.7344
+242,"Peeɖe Farɩsɩ ñɩma nabɛyɛ woba pañɩ ɛ-nɔɔ cɔlɔ tɔm se: «Đa-paɣtʋ taa lɛ, pɩha nʋmɔʋ se ɛyʋ pɩzɩɣ ɛɖɔɔnɩ ɛ-halʋ naa we?",Kedu ka a na-esi nyere ụmụ na-enweghị panye aka na ọrụ aka ha?,1.0,0.8315
+243,Sɔɔndʋ kpaɣaɣ-wɛ se pataawolo pakpa Liibii kidiiliŋ kañɩŋa huwa yɔɔ.,"So, o nweghi kwa ozo. Mana o nwere kwa ihe i ga-eme ka anyi nwuo",1.5,0.807
+244,"Mɩ yomaa lɛ, ɩña kedeŋa yɔɔ cɩnɛ mɩ-caanaa pɩtɩŋa payɩ pɩ-taa.",Mii yomale. Enyagidengaa ajeni miji anapi tengaa,1.0,0.6458
+245,"Pɩtɩŋa payɩ pɩlɩnɩ kedeŋa yɔɔ, pɩtɛkɛ Caa Ɛsɔ cɔlɔ pɩlɩnaa.",Belen gba'a belen gidinyeo. Belen gya'a su jolo belen.,1.0,0.7708
+246,"Pʋwayɩ lɛ, Yesu lɩzɩ ɛ-tɩ nɛ ɛwɩlɩ ɛ-tɔmkpɛlɩkɩyaa hiu nɛ kʋɖʋm alɩwaatʋ ndʋ́ pacaɣaɣ pɔtɔkɩ tɔɔnaɣ yɔ nɛ ɛkalɩ-wɛ se pɩlabɩ ɛzɩma nɛ pa-laŋa wɛɛ kpɩzɩŋ.","Onye isi ala, Yesu leziri anya na ewelu edo mgbele ka ya hiwe na gburugburu alụọtu ndị banye n'ọbọdọ dị ọnụ ọgụgụ. Na ekele wee sị, ""Biko hapụzie mụ na ndị bálịnga wa ekwezị",1.2692,0.8264
+247,Fezuu Kiɖeɖeu yɔɔ ɖɩtɩŋɩɣna nɛ ɖiluŋuu ɛ-tɛɛ nɛ ɖɩkʋndʋʋnɩ Yesu Krɩstʋ.,Yesu Kristo,0.9091,0.8644
+248,"Ŋgʋ́, alɩwaatʋ ndʋ́ ɛyáa tʋʋ-ɖʋ yɔ, ɖɩwazɩɣ-wɛ.",ngọ alụọkwa ndụ ị ga-adịrọ ya ruo wa zụọ,1.2857,0.7059
+249,"Đa lɛ, ɖɩñɔɔzʋʋ ɖa-tɩ se ɖɩwa lidaʋ nʋmɔʋ taa nɛ palabɩ-ɖʋ kʋjɔʋ ŋgʋ́ kɩwɛɣ tam yɔ.",,,
+250,"Đɩna e-koboyaɣ, kɛwɛ ɛzɩ Caa Pɩyalʋ ɛgbamɩyɛ ñɩŋga yɔ.",,,
+251,"Peeɖe Yesu ya ɛ-tɔmkpɛlɩkɩyaa nɛ eheyi-wɛ se: «Ɛyáa panɛ, pɛwɛ-m pʋtɔdɩyɛ.","Peere Yesu ya atomu galakaya na ihewu ze. Eya bane, so wunbu dodi",1.0,0.5263
+252,Sɔɔndʋ kɔŋ ɛyáa kpaʋ sɩm yɔɔ sɩm yɔɔ alɩwaatʋ ndʋ́ pamaɣzɩɣ mbʋ́ pʋkɔŋ labʋ yɔ pʋ-yɔɔ yɔ.,Sɔndugɔn eyi agba ozimyo ozimyo aluwa tu ndubamɔzu mbubugɔn labiyo piyo.,1.0,0.5507
+253,Halʋ nɔɔyʋ nɛ coojo pɔ-tɔm.,Nyeŋ hị́ ụnɛ́ nà,1.0,0.9048
+254,"» Patalaa lɛ, panaɣ pɩtɛm tʋlʋʋ pɩyɛ sɔsɔɖɛ ńɖɩ́ yem nɛ pɩsɩɩ-ɖɩ kɩjaʋ.","Palaale, pana apida mtoloti asosore ndiyem ne pisere kije",1.0,0.537
+255,"Ɛnʋ lɛ pɩyɛ nɖɩ́ ɖɩhaɣ wezuu yɔ, ɛyáa kizi-ɖɩ se ɖɩɩwazɩɣ pʋyʋ.",Eya agiziri siri waso,1.0,0.7917
+256,"Pʋ-yɔɔ ɛyáa samaɣ kʋyaa se pakatɩɣ-ɩ, mbʋ́ pʋyɔɔ yɔ, panɩwa se ɛlabɩ hama lakasɩ ńzɩ́.","O yoo aya zama, o yoo aya zama gatu yi, mbu bu yoo aya, fa ni weze laba ha malagasinzi.",1.3333,0.5385
+257,"Mbʋ́ pʋyɔɔ yɔ, ɖɛkɛnɩ mbá pɛpɛlɩ-wɛ siŋŋ yɔ, pɩtɛkɛ ḿbá.",,,
+258,"Ɛlɛ́, alɩwaatʋ ndʋ́ mbʋ́ pʋwɛ pɩtɩŋa payɩ yɔ pʋkɔŋ lɛ, mbʋ́ pɩfɛyɩ pɩtɩŋa payɩ yɔ pʋmʋkɩ.",le alu wa tondo mbu bua betanga ya buko le mbu bufa betanga payo,1.0,0.6716
+259,Mooyiizi ɖʋ paɣtʋ taa se payaɣ pɩtɛ halaa ḿbá pɛɛ nɛ pasɩ.,"Mụ onwe m jụrụ baa n'asaa, fa ya bụ ndị hala mba be ya n'ebe",1.1667,0.6957
+260,"Pʋ-yɔɔ lɛ, ɩɖɔkɩ mɩ-tɩ nɛ ɩcaɣnɩ mɩ-ɛsɛ nɛ ɩpɩzɩ ɩsɛɛ Ɛsɔ.",ɔdɔ kɛmɛde na ekyerɛɛ me kwan na mebɛsɛ,1.0,0.7674
+261,"Mɔyɔɔdʋʋ ḿbʋ́, mbʋ́ pʋyɔɔ yɔ, mbá paañaŋ Ɛsɔ yɔ pa-taa nabɛyɛ sʋ mɩ-hɛkʋ taa mɛsaɣ tɛɛ.","Mba, adighi mbo mbo biara. Mba ba anya oso. Pada na be ezumike di na Mbaise.",0.9375,0.6769
+262,Halɩ mɩ-maɣmaɣ mɩ-caanaa nɛ mi-ɖoonaa nɛ mɩ-ɖalaa yaa mi-newaa nɛ mɩ-ñɩma lɛlaa nɛ mɩ-ɛgbaɣdɩnaa pɔkɔŋnɩ-mɩ kpaʋ paɖʋzɩ mi-koyindinaa nesi taa nɛ pakʋ mɩ-taa ɛyáa sakɩyɛ.,"Ha le m ma ma, m jee na, m ruo na, na m rala ya, m nee ya, na m nye m lala, na m igba odi na apogo m igba, kparuzi mụ go ndị na-eso daa na bakuru mụ ndị a ga-azakị ya.",1.76,0.5259
+263,"Paa nɔɔyʋ ɛtɩɩɖʋʋ-mɩ kʋñɔŋ se ɩlakɩ mbʋ́ pʋtʋʋzaa yɔ yɔ, ɩkɔŋ hiɣu mɩ-tɩ!","Paanu eji ruo m eku nyocha, elak m bu uzo zaya oyo. Egon m di ihu.",1.2308,0.7321
+264,Ɩnawa se paɖʋ mɩ-taabalaa mbá pɛwɛ kedeŋa yɔɔ yɔ patɩŋa payɩ kʋñɔmɩŋ weyi paɖʋ-mɩ yɔ.,"A na-azụ barumụta abalị abụọ gị dịrị gị ọyọ, ọ dịrị gị pay, ka ụmụ gị nwee ịbarụmụta.",1.2,0.6912
+265,"Paa ɖooye pañɩnaɣ Ɛsɔtɔm Takayaɣ taa se pana se tɔm ndʋ́ Pɔɔlɩ yɔɔdʋʋ yɔ, tɩkɛ toovenim na.","Paa rui, panyin osudom takada asapanazi, tom do poli odoyo, tege dufunum.",0.9412,0.5972
+266,"Ɛyáa hiu nɛ lutozo mbá Siloowee kuduyuu sɔsɔʋ kpɛzaa kɩɖabɩ-wɛ nɛ pasɩ yɔ, ɩmaɣzɩɣ se ḿbá kɩlɩnɩ wɛɛkʋʋ Yeruusalɛm ñɩma lɛlaa tɩŋa payɩ yaa we?","ya bu na lutozim basi lowe gude usoso gwadagira bu na basi o. Emazuzi mba ginne wa ka o Yerusalem, ya melala di nga paya",1.0,0.5259
+267,"Ɛlɛ́, Yesu Krɩstʋ yɔɔ ɛtɩŋnaa nɛ ɛlabɩ-ɖʋ lootiye nɛ ɛwɩlɩ-ɖʋ toovenim.",Yesu Kristo yɔɔ dɩŋ na nɛ la buru lotii nɛ wɛlɛ rudu fu,0.9091,0.5
+268,"Ɛlɛ́, manɩɩ tɩlaaɖɩ ɖɩhɔɖɛ yɔɔdʋʋ se: «Ɛɛ, Kɩpaɣlʋ Ɛsɔ Đoŋ Tɩŋa Tʋ!",Eeeh,1.0,0.98
+269,Lɔŋsɩnɖʋ kʋɖʋm nɔɔyʋ fɛyɩ mɩ-hɛkʋ taa se ɛpɩzɩɣ ɛhʋʋ ɛ-taabalaa mɩ mɩ-tɔm naa we?,"n'onwe ha, mekwadaze ebe zọ ụhọ. Ịdị abara mụ uru dị mma na",1.0,0.7812
+270,"Pʋwayɩ lɛ, mantasɩ cɔnaʋ nɛ manaɣ Heɣa sɩŋ Siiyɔɔ pʋʋ yɔɔ, ka nɛ ɛyáa kutokiŋ mɩnʋʋ nɛ nɩɩnaza nɛ naanza.","Wailé, m'anda si jononé m'an'a hé wozingui si yombuyo, k'an'a ya gudukun m'an'a un'a nni un'a nanzan.",1.0,0.5904
+271,"Pʋwayɩ lɛ, Yesu tasɩ-wɛ tuuu eduuye se: «Yee halʋ nɔɔyʋ ɛwɛnɩ liidiye pɔɔyɩsɩ hiu nɛ sɩ-taa kʋɖʋmaɣ le, ɛɛsɔkɩ kanɖʋ nɛ ɛhazɩ ɛ-ɖɩɣa tɩŋa nɛ ɛñɩnɩ-kɛ camɩyɛ nɛ pʋkɔɔ pɩsɩɩnɩ alɩwaatʋ ndʋ́ ɛna-kɛ yɔ yaa we?",Ihe siri ike ịghọta bụ na ọtụtụ ndị na-ere ahịa na-enwe nsogbu ịkwụ ụgwọ ụlọ ahịa ha na-ere ihe dị iche iche.,1.0,0.8805
+272,"Pʋwayɩ lɛ, Yesu tɛzɩ Galilee teŋgu ŋgʋ́ payaɣ-kʋ ɖɔɖɔ se Tiberiyaadɩ teŋgu yɔ.","Wailé, yé suti zé galilé dé ngu. Ngu ba ya roro zi tiri riad dé ngu",1.2308,0.5645
+273,"Ɛlɛ́, paba pɩsɩnɩ-wɛ se: «Mɩ-maɣmaɣ ɩmaɣzɩ nɛ ɩna se: pʋwɛ ɖeu ḿbʋ́ Ɛsɔ ɛsɩndaa se pañam-mɩ nɛ piyele Ɛsɔ yaa we?","Pààbà bɛ̀ sín nà wàzì. Ì mɔ́ mɔ̀, ì mɔ́ zì nà è nà zì. Hòrè ǹbù wù sɔ́ sìn dà zì, Pààbà mɛ̀ nɛ̀ bɛ̀ l'ɛ̀ sɔ́ yà wè.",1.381,0.7108
+274,"Pɛlɛ ɛnʋ ɛ-caanaa nawa se ɛɛtasɩɣ-wɛ liidiye cazʋʋ lɛ, pakpa Pɔɔlɩ nɛ ɛ-taabalʋ Silaasɩ nɛ pɔhɔm-wɛ nɛ powoni ɛyáa samaɣ ɖikpeɣliye, tɛtʋ ñʋndɩnaa cɔlɔ.","kpele nu, ejikwala nwayọ zize, edasuo elili di ya ejazi wụlụ. kpokpo bọọlụ na eda abali sịlị asị, na kpọọ mma, kpọọ nuwe ihe azụma rịgbo elị ya, tekene m di na ajọlụ.",1.375,0.6639
+275,Nɔɔyʋ fɛyɩ kedeŋa yɔɔ cɩnɛ se ɛpɩzɩɣ ɛhʋlɩsɩ-tʋ ḿbʋ́.,Nɔɔ fɛɛ kɛdɛŋai yɔɔ tɛɛnɛɛsɛ ɛpɛsɔɔ a hɔlɔ sɔdɔm.,0.8889,0.5714
+276,Mɩ-maɣmaɣ ɩnawa se malabɩ tʋmɩyɛ nɛ ma-maɣmaɣ me-nesi nɛ mehiɣ mbʋ́ pɩtɛɖaɣ ma nɛ man-taabalaa yɔ.,"Mmemme a nọọsị. Abalị ụbọchị iri na abụọ nke ọnwa Mee, bụ ụbọchị mba ụwa maka ndị nọọsị.",1.125,0.7662
+277,Coojo ha-ɖɩ e-ɖoŋ nɛ ɛ-abalɩtʋ sɔsɔtʋ nɛ ɛcɛlɩ-ɖɩ e-kewiyaɣ kpelaɣ.,"Jọjọ hari erung na balatutu, lekele ria gi yọgbolọ.",1.0,0.7115
+278,"» Ɛlɛ́, ecosi-wɛ se: «Pɩtɛkɛ ɛ-kɩwɛɛkɩm yɔɔ yaa mbá palʋlɩ-ɩ yɔ pa-ñɩmbʋ yɔɔ.","le yoo suweze. Edeke ego ekim ya, ya mba balu le yoo panye mbu yoo",1.1667,0.6
+279,"Ńdʋ́ lɛ se: ‹Ña Ɛsɔ, halɩ ŋyeba nɛ piya sɔsɔsɩ nɛ cikpesi pasam-ŋ.",nyaso hali nyebene,1.0,0.7917
+280,E-nesi taa Ɛsɔ ɖʋzɩ e-tiyiyaa nɛ mbʋ́ pɩtɩŋa payɩ pʋwɛnɩ ɖoŋ ɛsɔdaa yɔ.,Elezi da osoro ze ediya na mbu budi nga pai puani dun osodayo.,1.0,0.6182
+281,"» Yesu yɔɔdaɣ ḿbʋ́ lɛ, ɛyáa sakɩyɛ wɛnɩ lidaʋ ɛ-yɔɔ.","Ewe soro daa harara ka o joro, na ewe luwe ya.",1.2222,0.8421
+282,"Yesu tɛm yɔɔdʋʋ ḿbʋ́ lɛ, e-tiyiyaa heyi-i se: «Kɩpaɣlʋ!",Yesu dɛm yɔdɔm bɔlɛ. Edi ya hize.,0.8889,0.5
+283,"Paa lɛlaa ɛtɔm se malabɩ mbʋ́ pʋmʋnaa yɔ yaa mbʋ́ pɩtamʋna yɔ yɔ, pɩtana-m nɛ pʋyʋ.",ya m buputa m n'ụyọọ. Buta na m na-efe,1.0,0.746
+284,"Mbʋ́ pʋyɔɔ yɔ, paa koyindinaa ɛɖɔwa yɔ, pɩha-m waɖɛ se mala tʋmɩyɛ sɔsɔɖɛ nɖɩ́ ɖɩwɛ wazaɣ yɔ.","mgbè ọbụla, akụkụ ndị na-arọ waya, ụmụ nwanyị si malite na izu nke asaa dịrị n'ọwajụ.",1.0,0.7324
+285,pʋ-yɔɔ ɛtɩŋnaa nɛ ɛla ḿbʋ́ nɛ ɛkɔnɩ laŋhɛzɩyɛ.,pụọ edinaala elambo na ọkwanụla nhezi,1.0,0.6111
+286,"Ŋgʋ́, mi-ɖeke koŋ ɖɩtaɣ liu, mɩ ɖa-taa hʋlʋmʋʋna.",Mire ka ko daalu? Me rada holmona,1.0,0.5278
+287,"› Kpaagbaa ḿbʋ́ lɛ, mɛ-ɛsɛ kuli nɛ manaɣ-ɩ camɩyɛ.",Papan bola. Mba Setu Guli. Namanya,1.0,0.6389
+288,"Alɩwaatʋ ńdʋ́ tɩ-yɔɔ ɖeyi ɖeyi lɛ, ɛma kubuka se: «Yesu Nazarɛɛtɩ tʋ, ɛbɛ ŋcaɣnɩ-ɖʋ?","Aloo atunu di di ile, e ma gbukwa ze.",1.0,0.7619
+289,"» Ɛlɛ́, pasʋʋ kubusi mabʋ yɔɔ se: «Kʋ-ɩ!",Where is manga?,1.0,0.8846
+290,Caa Ɛsɔ sɔɔlɩ ɛ-Pɩyalʋ nɛ ɛkpaɣ pɩtɩŋa payɩ ɛ́ɖʋzɩ e-nesi taa.,"Da, eso sale a bialo ne akwa beteng'a payi oru ze ne",1.0909,0.6458
+291,Pʋ-yɔɔ ɛkpaɣ-kʋ esuu nɛ ɛfalɩ lɩm taa se ewoki ɛ-cɔlɔ.,"Wee agbagho, esu na efalili m daa ze nwoke jo",1.0,0.6098
+292,Aɖamɛɛ tɔm.,,,
+293,"Ŋgʋ́, ma ɖɔɖɔ manpɩzaɣ se mantaa ma-maɣmaɣ man-tɩ.",Parramambazo zemandá momo moman,1.0,0.6316
+294,Pʋ-yɔɔ mɩ-taa ɛyáa sakɩyɛ hɛnɩ kʋdɔmɩŋ nɛ papɩsɩ ajamaa nɛ mɩ-taa nabɛyɛ sɩ.,"Yoo mɛ daa ya sakɛ hɛn kpamun, nɛ papisi ayama, nɛ mɛ daa na payɛ",1.0,0.4333
+295,Yaa Ɛsɔ ŋgbɛyɛ taa ñɩma iniɣziɣ nɛ ɩɖʋʋ fɛyɛ mbá pɛfɛyɩ pʋyʋ yɔ?,"Ya ọ sị gị, ebe a etani ma enu izu na ụnọ ụwa ya mbàbà fa ebe ahụ.",1.3846,0.7059
+296,"Akilaasɩ nɛ Prisiili nɛ Yesu ŋgbɛyɛ taa ñɩma mbá pekpeɣliɣ pa-ɖɩɣa taa yɔ, pɛsɛ-mɩ ɖeu Kɩpaɣlʋ weyi ɛkpɛndɩɣ-ɖʋ yɔ ɛ-yɔɔ.",A kịlasị na Brọsịlị na Yésụ egbanyeghị maba be gwelụ bara adaghị. Fesem ịteụ kupaalụ ị egbe ndụrụ ya ọyọ.,1.0,0.625
+297,"Pɩtɛkɛ lɩm sɔʋ sɔnzɩ ńzɩ́ si-ɖeke sɩwɩlɩɣnɩ weyi ɛkɛnaa yɔ, ɛlɛ́, sɩ nɛ calɩm kpɛdʋʋ pawɩlɩɣnɩ weyi ɛkɛnaa yɔ.","Pe dekelim zo zo sinzi, sirike ze olo nya mbu ga na yo. Ele, si na jalim kpedo ba olo nya mbu ga na yo.",1.3158,0.6512
+298,Pakpaɣ-mɩ nɛ powoni-mɩ nɛ pahʋʋnɩ-mɩ tɔm Ɛsɔ ɖɩsɛyɛ ndɩ ndɩ taa nɛ awiya sɔsɔna nɛ tɛtʋ ñʋndɩnaa pɔ-cɔlɔ nɛ paɖʋ-mɩ salaka mɔ-yɔɔ.,"pa gbam e, na be unu me nipa hu unu me dom esoro ze ndende da. Na awi sosona na tetu nyu ndi na abojolo na paru me izala ka moyo.",1.4091,0.5392
+299,» Ecosi se: «Aayɩ.,Ah,1.0,0.9091
+300,Caa Ɛsɔ kpazɩ-ɩ ɛ-cɔlɔ lone kɩbanɖɛ taa nɛ ɛcɛlɩ-ɩ e-Fezuu Kiɖeɖeu ŋgʋ́ ɛɖʋwa se ɛhaɣ ɛyáa yɔ: etisi-kʋ ɖɔ-yɔɔ.,Ya sọgbazị ọjọọ lụlụụ gba ndụda na echelị akalaka ha ọdịwazị ọhọ ịyọ edisịga ịyọ,1.0,0.7381
+301,"Weyi ɛ́lɛ́ takpaɣ ɛ-ñɩŋgʋ nɛ ɛ́yáa pʋyʋ kedeŋa yɔɔ cɩnɛ yɔ, eelesiɣ-kʋ, ehikiɣ wezuu maatɛŋ.","Onye na-edakwa anya na-egbu na-egbu ya bu ugo, e lesie ugo, e hie ugo e zuo umu aturu.",1.2,0.7
+302,"Pʋwayɩ lɛ, Krɩstʋ tiyiyaa nɛ ɛ-ŋgbɛyɛ taa ñɩma nɛ pɔ-sɔsaa, patɩŋa payɩ pala lɩmaɣza se palɩzɩ pa-taa nabɛyɛ nɛ pɔsɔzɩ Pɔɔlɩ nɛ Barnaabaasɩ pɔ-yɔɔ nɛ petiyi-wɛ Antɩyɔɔsɩ.",Keresimesi na-egbu oge anyị ma na-ebugharị ya pa dị ṅụrị pa lele ma ọzọ zize pa le si ba da anabata ya na postọ ụzọ pọọlụ na Barnabas bụ ya na betiwe Antịọsị.,1.2222,0.6471
+303,"Yee nɔɔyʋ ɛna ɛ-taabalʋ lakɩ kɩwɛɛkɩm mbʋ́ piiyeki se ɛ́lɛ́ ɛsɩ yɔ yɔ, pʋmʋnaa se ɛsɛɛ Ɛsɔ ɛ-yɔɔ nɛ ɛ́lɛ́ ha-ɩ wezuu.","Ye no enye dabi, na ɛyɛ adwuma a kyerɛwfoɔ kyerɛw. Ɛyɛ kwan a ɛfa akwan akwan so fa kwan titiriw so.",1.0,0.814
+304,"Pʋ-yɔɔ lɛ, iyele nɛ tɔm ndʋ́ ɩnɩ ɖooo kiɖe tɛɛ yɔ, tɩcaɣ mɩ-taa.","Yoo, ale. Iye, lesi tomdo eni ruu kirideeyo. Icho me da",1.0,0.6522
+305,Pɩtamʋnɩ se mankpaɣ Yesu ŋgbɛyɛ taa halʋ nɛ ma nɛ ɩ ɖɩɖɔŋ nʋmɔʋ ɛzɩ e-tiyiyaa lɛlaa nɛ Kɩpaɣlʋ newaa nɛ Pɩyɛ palakʋʋ yɔ yaa we?,"Mana na-erughi n'ime ozi, etu ya na ala na-agba olu na-ewu a, na-piyabara ku ya ya",1.0,0.6634
+306,"Mbʋ́ pʋyɔɔ yɔ, sɔɔndʋ kpaɣaɣ-m se takɩyʋ ɛtaakɔɔ ɛtakɩ-mɩ nɛ tʋmɩyɛ nɖɩ́ ɖɩlaba yɔ, ɖɩpɩsɩ falaa ñɩnɖɛ.","mbo bi aya, so ndi kpa amse. Takayo, etako etakame, netu me ndi ridem labayo, tepi si fala nye",1.1176,0.525
+307,"Miŋ hohou kpa-ɖɩ lɛ, ɖɩlɩɩ nɛ ɖɩñasɩ-ɩ nɛ ɖisusini e-nesi.","M'maho barele, tele n're nya se, n'etozisi n'enesu.",1.0,0.6136
+308,"» Yesu tasɩ yɔɔdʋʋ se: «Lɛɛlɛɛyɔ, mowoki weyi etiyi-m yɔ ɛ-cɔlɔ nɛ mɩ-taa nɔɔyʋ ɛɛpɔzʋʋ-m se: ‹Le ŋwoki?",Yesu dasi yodo ze. Lele moku we ediam yojolo na meda nu ebosum ze le enwo,0.8824,0.6053
+309,"Yesu nɩwa se tɔm ńdʋ́ʋ́ ɛyáa yɔɔdʋʋ lɛ, ɛkʋyɩ Yudee egeetiye taa nɛ ɛpɩsɩ Galilee ñɩnɖɛ taa.",,,
+310,"Pʋwayɩ lɛ, Ɛsɔ tiyiyaa lʋbɛ mbá pɔɖɔkɩ sʋlʋm caɖasɩ ńzɩ́ sɩ-lʋbɛ yɔ, pa-taa lɛlʋ kɔɔ ɛyɔɔdʋʋnɩ-m se: «Kɔɔ, mawɩlɩɣ-ŋ ɛzɩma mbʋ́ Ɛsɔ hʋʋnɩ abiɖe nɖɩ́ ɖɩpɛdɩɣ ɖɩ-tɩ yɔ.",,,
+311,Ḿbʋ́ Kɩpaɣlʋ kaɖʋwa se meheyi-wɛ.,,,
+312,Điheyaɣ-wɛ ɖɔɖɔ se pama sɩʋ kpelaɣ nakɛyɛ nɛ paɖʋnɩ kpɩnɛ nɖɩ́ paalom sɩɣa nɛ ɖɩɖaɣnɩ wɛʋ wezuu yɔ hɩɖɛ.,"Ya bụrụzi na mụ zụrụ gị ụlọ na nke na-abụghị na gị bụ ndị baa lụmziwa, na riri ọ na-ewe ụwezi gị ọhịa.",1.2105,0.7711
+313,"Mbʋ́ pʋyɔɔ yɔ, peyeba nɛ ma nɛ mɩ ɖa-laŋa hɛɛ.",Mbo vyɔɔ. Pɛɛbɛnɛ máná mɛ́ talanga,1.0,0.5455
+314,"Ɛlɛ́, ɖɩma-wɛ takayaɣ nɛ ɖiheyi-wɛ se pataatɔɔ kɩlaʋ nandʋ, mbʋ́ pʋyɔɔ yɔ, tipisiɣ ɛyáa.","ele? Timawa etakaya ndi hewesi, pada talk la nando. Mbu be yoyo, tibi si ya.",1.0714,0.4478
+315,Pa-taa lɛ: Yuda ñɩma mbá palɩnɩ Siirɛɛnɩ nɛ Alɛksandrii nɛ lɛlaa mbá paba ñalɩnɩ Siliisii nɛ Aazii egeetiye taa yɔ.,"Pala, yoo danye mamba pala ne Sirene na Alexandre. Ne le amba papanyale ne Silisi na Azi ge chi dae.",1.0,0.4409
+316,"Yee pataapɛlɩ nɔɔyʋ nɛ pʋcɔ Ɛsɔ yaa-ɩ yɔ, pɩfɛyɩ se ɛtɔ se pɛpɛlɩ-ɩ.",,,
+317,"Ɛ-yɔɔ Yohanɛɛsɩ lɩzɩ aseɣɖe nɛ ɛma kubuka se: «Ɛ-tɔm mɔyɔɔdaɣ se: ‹Ma-wayɩ lɛ, weyi ɛkɔŋ yɔ, ɛkɩlɩ-m, mbʋ́ pʋyɔɔ yɔ, ɛɛwɛɛ nɛ pʋcɔ palʋlɩ-m.","A ya a yuwa na eselezi a siiri na ya ma ku bukeze. Odimma, daalu si. Ma wa ile, we gwa ya ekele m. Mu bu ya oya, ewe m chibado",1.2917,0.6471
+318,Ɛnʋ lɩzɩnɩ ɖɔɖɔ mbá pɛfɛyɩ wazaɣ nakɛyɛ kedeŋa yɔɔ cɩnɛ nɛ ɛyáa takpaɣ-wɛ payaa pʋyʋ nɛ pɛfɛyɩ natʋyʋ taa kpem yɔ.,Nna befe wasa na aka ya gidinanya na ya takwaa ya hapụ ya na befe na Twitter kwem.,1.0,0.6413
+319,"Pʋwayɩ lɛ, ɛtasɩ ɛyáa sakɩyɛ tiyuu nɛ pama lɛlaa nɛ pakʋ lɛlaa pasɩ.","fayile, eda si azaki e di une, pamala la ne bakula la",1.0,0.5556
+320,"Pʋ-yɔɔ lɛ, pɩkpaɣʋnɩ lɛɛlɛɛyɔ nɛ pɩɖɛɣ yɔ, pʋwɛɛ se mbá pakpaɣ halaa yɔ, pacaɣ wezuu ɛzɩ aɖamɛɛ yɔ.","Piyala, kpọkọọ ụmụ nne gị na ụmụ nna gị ụmụ nwoke, wee kpọkọọ ọha na eze, kpọchaa ndị eze ụzọ arụmela.",1.1667,0.8052
+321,"Nɛ tindine nɖɩ́ ɖɩcɩyɩɣ yɔ, ɖɩɩkpɛndɩɣ ɖa nɛ Krɩstʋ tomnaɣ alɩwaatʋ ndʋ́ ɖɩtɔkɩ-ɖɩ yɔ yaa we?",N'etiti ndị na-eje ozi na ekpere ndọrọ naịkịrịsị ụdị mmụọ n'alụ ọgụ ndọrọ ndọrọ ọchịchị,1.0,0.8219
+322,"Paa lɛlaa ɛtakpaɣ-m se mɛnkɛ Krɩstʋ tiyiyu yɔ, pʋwɛɛ se mɩ mɩkpaɣ-m se mɛnkɛ-ɩ.",Pala la ekpakum samanga Kristo ti uyo. We zimi kporm samanga,1.0,0.541
+323,Pʋwɛɛ se abalʋ ɛla ɛ-halʋ mbʋ́ pʋpɔzʋʋ-ɩ yɔ nɛ halʋ ñala ɖɔɖɔ ɛ-walʋ mbʋ́ pʋpɔzʋʋ ɛ́lɛ́ yɔ.,O wee sị ha banye n'ime ụlọ mgbaba ụzo ya. Na ha lụnyere rụọ n'ime ụlọ mgbaba ụzo ya.,1.1176,0.7761
+324,"Ɛlɛ́ lɛɛlɛɛyɔ, Ɛsɔ ñalɩ mɩ-kɩwɛɛkɩm nɛ ɛpɩsɩ-mɩ ɛ-ñɩma nɛ pɩtɩŋnɩ e-Fezuu Kiɖeɖeu yɔɔ nɛ ɩkɛ kʋtʋʋzaa ɛ-ɛsɩndaa Kɩpaɣlʋ Yesu Krɩstʋ yɔɔ.",ala layo. O si nyalu mu gwa ekene na ebe si me enyima na pete nna ekarizo ya. Na ekegote uza a isi nda akibu olu Jesu Kristi ya.,1.381,0.6204
+325,"Ɛlɛ́, Pɩyɛ heyi Yesu se: «Wɩlɩyʋ!",,,
+326,Yesu heyi ɛyáa se palɩzɩ kɛtɛzaɣ ɖɩjaɣyɛ.,"Yesu kanazama mbu, mbaba ya tooro dooyo, palazoore joye gbande. Piiyo duwe duwiise. Ye noo eyanka zanturiri ne, ngulo yo. Ta huwiise nle palazoore joye",3.4286,3.1176
+327,"Mbá pɛtɛkɛ Yuda ñɩma yɔ, panɩ-tʋ ḿbʋ́ lɛ, pa-taa labɩ-tʋ nɛ leleŋ pɩŋŋ nɛ pɔtɔ se Kɩpaɣlʋ tɔm wɛ ɖeu.",,,
+328,Mbʋ́ pʋwɛɛ kpem se ɩla yɔ lɛ se ɩsɔɔlɩ ɖama siŋŋ.,"Bubu kpèmzè alayolèzè, èsòlramasi",1.0,0.5946
+329,E-liu wɛɛ se patɩlɩ ñɩm sɔsɔm mbʋ́ pʋwɛ mɛsaɣ tɛɛ nɛ posusuu pʋ-tɔm ajɛya kpeekpe taa yɔ.,"Mɛsra de, n'posu subu dɔm aje gbe gbe da.",1.0,0.7536
+330,"Toovenim lɛ, weyi ekiziɣ Ɛsɔ Pɩyalʋ yɔ, ɛtasɩ ɖɔɖɔ Caa Ɛsɔ.","wunem le, we gizo asobialo, edasiroro ja",1.0,0.7174
+331,Peeɖe Pɩyɛ pɔzɩ-ɩ se: «Anaanɩyaasɩ!,Ebi abozizi.,1.0,0.9259
+332,Kɩpaɣlʋ eyele nɛ ɩtɛzɩ ɖama sɔɔlʋʋ nɛ ɩtɛzɩ ɖɔɖɔ lɛlaa tɩŋa payɩ sɔɔlʋʋ ɛzɩ ɖɩsɔɔlʋʋ-mɩ yɔ.,,,
+333,Coojo sɔsɔ ɛnʋ ɛsɩŋ teŋgu kañɩŋa yɔɔ.,"Jojoson, ezi tengu ka anyi nyere gi.",1.0,0.7
+334,Pʋ-yɔɔ petisi kpɩyʋʋ ŋgʋ́ palɩzɩɣnɩ ɛyáa yɔ nɛ pɛcɛtɩ se powoki petisi ndʋ́ tʋtʋ wɛ ɛsɩndaa yɔ.,"Iyo, ebe disi bu onye owu kpaliri ya ayo, na be jeteze, bu oku ebe disi tutu wa esi nda ayo.",1.2353,0.6133
+335,"Pana-kɛ ḿbʋ́ lɛ, pɩla patɩŋa piti pɩŋŋ nɛ pasaŋ Ɛsɔ nɛ pɔtɔŋ se: «Đooo yɔ, ɖɩtanata mbʋ́ Yesu labɩ ɛzʋnɔ yɔ pɩ-ɖaɣʋ.","M'ana gã mbuye le, m'pala padã gã pitti pẽ na pasan eso na botongu ze.",1.0,0.7209
+336,"Pʋ-yɔɔ ɛpɔzɩ-wɛ se: «Mɔyɔɔdaa se: ‹Pɩkazɩ pazɩ ɩɩtasɩɣ-m naʋ nɛ pɩtasɩ labʋ pazɩ lɛ, ɩtasɩ-m naʋ› yɔɔ ɩwɛɛ ɩpɔzʋʋ ɖama tɔm naa we?","Ya bụ azụ eze. Mụ ya adịghị azụ ya. Ebe a bụ azụ ịdá som nụ. Na ebe a sị na bụ azụ ịlè ịdá som nụ. Ya, ewee bụzụ ramụ adụm na",1.4348,0.732
+337,Ɛnʋ kɛcɛtɩnɩ ɖɛ-tɛ ñɩma nɛ ɛnazɩ ɖɔ-cɔzɔnaa nɛ halɩ ɛcɛyɩ-wɛ se pɔlɔ pe-piya cikpesi nɛ sɩsɩ.,Bolu ga jetenere danyi ma na enasiri ojoso na na hala echei we si bolu be bi echegbe si na,1.25,0.7123
+338,"Mbá pa nɛ Yesu paawɛ alɩwaatʋ ndʋ́ ɛya Lazaarɩ nɛ pɩlaʋ taa nɛ efezi-i nɛ ɛlɩɩ yɔ, pɛkɛdaɣ ɛyáa mbʋ́ panawa yɔ.",Dada niye suba waaluwa tundu eyi Lazar ne bilau da ni fezi ne leyo. Dada o ya mbu ba na wa,1.0,0.4706
+339,"Ɛlɛ́, ewobini pɔ-yɔɔ nɛ ɛpɔzɩ-wɛ se: «Anɩ ɩñɩnɩɣ?",A nee nyenom,1.0,0.8571
+340,Mentendiɣ-i ḿbʋ́ se eyele nɛ pɩtɩŋnɩ e-Fezuu Kiɖeɖeu yɔɔ nɛ ɩkpa ɖoŋ siŋŋ mɩ-lɩmaɣza taa ɛzɩ e-koboyaɣ wɛʋ nɛ kɛfɛyɩ tɩnaɣ yɔ.,m̀tụ́ndị́ mbụ́sé ị́yẹ̀lẹ̀ ná pẹ̀tẹ̀ ná èkàlụ̀ sáwụ́yà ònè èkwàrụ́ m̀ sí m̀ mị́lị́ m̀ọ́sàdà èzé ògòbùyà òwàwụ́ ná kàfé ànyị́ tẹ̀ná,1.0,0.6364
+341,"Abalʋ nɔɔyʋ kɛwɛ Farɩsɩ ñɩma ŋgbɛyɛ taa, payaɣ-ɩ se Niikodɛm.","Abalụ nọ ego ha fanyere mụ na ngwá édá, ọ ya bụ ezigbo ụdị.",1.4,0.7347
+342,Peeɖe ɛtɩnɩ weyi pamakaɣ-ɩ yɔ ɛ-yɔɔ nɛ ɛma Ejiptɩ tʋ nɛ ɛ́lɛ́ sɩ.,Pɛrɛ ɛdɛnɛ wɛba makaya ayɔnɛ ɛma Egypte dɛnɛ,0.9231,0.5417
+343,"Mɩ-yɔɔ lɛ, ma-laŋɩyɛ hʋlʋmaa siŋŋ nɛ mankʋndʋʋnɩ-mɩ.",m'y aller.,1.0,0.878
+344,» Paba cosi-i se: «Wɩlɩyʋ!,,,
+345,"Pʋ-yɔɔ lɛ, Ɛyʋ Pɩyalʋ sɩmnɩ mbʋ́ pʋwɛɛ se pala kɩyakʋ kɩhɛzʋʋ wiye yɔ.","Ewole! Ewu bialu si m na m bu bu eze, palaga ya koo gi ha eze.",1.2308,0.6852
+346,"Man-taa hʋlʋmaa, mbʋ́ pʋyɔɔ yɔ, manaɣ ɛzɩma mbʋ́ ɩwɛɛ ɩlakɩ ɛzɩ pʋmʋnaʋ yɔ nɛ ɩɖɔkʋʋ mɩ-tɩ siŋŋ mi-lidaʋ ŋgʋ́ ɩwɛnɩ Krɩstʋ yɔɔ yɔ kɩ-taa yɔ.","Mandaa holoma, mbo bu yoo. Mana esma mbo owe elake, esibu muna yoo, na otoko omi di sim mili daungo owe na Kristu yoo kitaa yoo.",1.04,0.5283
+347,Ɩka lila ɛ-yɔɔ nɛ ɩpaɣlɩ nɛ ɩtɛzɩ pɩʋ mi-lidaʋ wɛnaʋ taa ɛzɩ pawɩlʋʋ-mɩ yɔ.,kalila ayo na ebole na etazibo milita wenawuda esipawulo,1.0,0.569
+348,"Yee ɩɩnɩnɩ-m nɛ ɖɩcaɣ Krɛɛtɩ yɔ, ɖɩtaasʋʋ asayʋʋ kʋnɛ kɩ-taa nɛ ɖilesi wondu ɛzʋnɔ.",Ya e na-amaghị na ọ dị ya kịakịa kịakịa. Ịtá asịọ asịọ na ị naghị etinye lesiọndụ. Ọ sọ,1.3571,0.803
+349,"Pʋ-yɔɔ pɩwɩzɩ-ɩ nɛ ɛtɛzɩ ɖɛʋ ewolo Yuda ñɩma Ɛsɔ ɖɩsɛyɛ taa nɛ ɛ nɛ Yuda ñɩma nɛ mbá pɛtɛkɛ Yuda ñɩma nɛ pañaŋ Ɛsɔ yɔ, palakɩ lɩmaɣza Yesu tɔm yɔɔ.","Ya abuozi, na etiti unu olu Judah nyere ma sooro za ya da, na Ndi Judah nyima na mba bido ka Judah nyima na ba ya nsoyo. Palakilimozaya sudom ya.",1.0,0.6228
+350,"Kalɩkalaɣ ŋ́gá kana Pɩyɛ nɛ Yohanɛɛsɩ pasʋwaɣ Ɛsɔ ɖɩɣa taa lɛ, kasʋlʋmɩ-wɛ se paha-kɛ pʋyʋ.","Kalakala nga, kanapiye na Yohane si pasuworo daale. Kasulu mwa si pahaga ebe.",1.0,0.4444
+351,"Nakʋyʋ wiye lɛ, pa-taa cikpelu heyi pa-caa se: ‹Man-caa!",la cuillère padji koli hé bajazé manja,1.0,0.6585
+352,"Mbʋ́ pʋyɔɔ yɔ, Caa weyi ɩlakɩ tʋmɩyɛ ńɖɩ́ yɔ, ɛnʋ lɛ Krɩstʋ.","mubi yɔ yɔ. Kyaa wɛɛ elakutomee ndiyɔ, Ɔnɔle Kristo",0.9167,0.5227
+353,"Yuda ñɩma mbá pɛwɛ Tesalooniki yɔ, panɩwa se Pɔɔlɩ wɛɛ nɛ esusuu Ɛsɔtɔm Beree ḿbʋ́ lɛ, pakʋyɩ powolo peeɖe nɛ peseɣtiɣ ɛyáa nɛ peliɣtiɣ pa-lɩmaɣza.","Ndu anyi amaba ba na Tesalonika, fa noo ya polo wee na osuso so do mberede mbole. Fa kwa ibulu be ya, bezo tuo ya na pelu tuo balu ma ozo.",1.24,0.5763
+354,"Abalʋ ɛnʋ, ɛɛkɛ ɛyáa lʋbɛ mbá palɩzɩ Yeruusalɛm se pɛkɛ Krɩstʋ ŋgbɛyɛ taa tayɩyaa yɔ pa-taa lɛlʋ.","E ke ya alube mba kpalizi wee Yerusalem, sebege Kristi o gba ya daa ya ayo kpalizi",1.0,0.5641
+355,"Pʋ-yɔɔ mbá paawɛ kɩ-taa yɔ, pa-taa sakɩyɛ tisaa se pakʋyɩ peeɖe nɛ pɛɖɛɛ.",Pata sakidi sa zaba kwi be ne bere.,1.0,0.75
+356,"Pɩtɛkɛ halʋ tɩnɩ ɛ-tɩ, ɛlɛ́, ɛ-walʋ tɩnɩ-ɩ.",అలా,1.0,1.0
+357,"Ŋgʋ́, me-liu taawɛɛ se mɩ-lɩmaɣza ɛkʋ-mɩ.","Mɛ lu taa wɛɛzɛ, mɛ lɔ ma sɔkɔ",1.3333,0.5333
+358,"› Patalɩ ɖɩɣa lɛ, ɛ-caa heyi ɛ-tʋmlaɖaa se: ‹Iwolo lɛɛlɛɛ ɩkpaɣ toko kitibuu ŋgʋ́ kɩkɩlɩ ɖeu yɔ nɛ ɩkɔnɩ isuu-i.","Patal dole, ejiro ya odum lara zi. O nwere otu oduku gi bu ngwo ka e gilde uyo na-ekwe na-esu uyo.",1.1053,0.6905
+359,"Lɛɛlɛɛyɔ, mɔyɔɔdʋʋnɩ mɩ-taa mbá pɛkɛ Krɩstʋ ŋgbɛyɛ taa sɔsaa yɔ.","Moo doon m'daan b'bge Kristo, igbɛɛd'a sɔsɔ",1.0,0.6154
+360,"Ŋgʋ́, Farɩsɩ ñɩma nɛ Yuda ñɩma lɛlaa tɩŋa pɔɖɔkɩ pɔ-cɔzɔnaa sɔnzɩ.",ngu fari sinima na yuda nyama lala di nga poro ke bojozo na so,1.1818,0.5192
+361,"Piyebi Pɔɔlɩ nɛ Barnaabaasɩ lɛ, paba ñacaɣ Antɩyɔɔsɩ peeɖe nɛ pa nɛ lɛlaa sakɩyɛ pawɩlɩɣ nɛ posusuu Kɩpaɣlʋ tɔm.","Yɛbɛpɔɔlɛ Bernabasɛɛ, panyin kɛntii yɔɔ subee, nipa nɛlɛ laa za kɛɛ pawolo unu bɛ suzu kɛ bɔɔlɛ dɔɔ.",1.0,0.4674
+362,Kɩyakʋ kɩhɛzʋʋ nakʋyʋ wiye Yesu nɛ ɛ-tɔmkpɛlɩkɩyaa pɔɖɔŋaɣ hayɩm nabʋyʋ taa.,na kuyi wi ye. Yesu na edomgbele ka ya boru ngwo hayi m na bu Juda.,1.3636,0.5938
+363,"Ɛlɛ́, ɩɖʋ mɩ-ñʋŋ taa se pɩfɛyɩ se ɩnɩɣzɩ tɔm ndʋ́ ɩɩyɔɔdɩ nɛ ɩlɩɩ pɩ-taa yɔ tɩ-yɔɔ.","Oru mu nyu ndaazi, pe wezi enyose domdo eyodi ne elebe dayo tiyo.",1.0,0.7377
+364,"Pʋwayɩ lɛ, ɛha-wɛ nʋmɔɖɛyaa nɛ pʋkɔɔ pɩsɩɩnɩ náyʋ Samʋyɛɛlɩ alɩwaatʋ.",Aha m nụrụ ya. Na-fụkwaa ka ọbụ sị na ọbụ ụdị samụla arụ atọ.,1.4,0.7719
+365,Đɩnawa se ɖɩkɛ Ɛsɔ ñɩma nɛ piyele kedeŋa ñɩma tɩŋa payɩ ñɛwɛɛ Satanɩ nesi taa.,"tenaze, n'guessan yima, n'dié lé guidi n'yé onyi n'yé dinan pay, nya wé ka nya do satan n'sida",1.2,0.7937
+366,"Pɩkɛdaa lɛ, nɔɔyʋ pɔzɩ-ɩ se: «Kɩpaɣlʋ!","No, it was easy.",1.0,0.8571
+367,"Ɛlɛ́, ecosi-wɛ se: «Iwolo tɛtʋ taa nɔɔyʋ cɔlɔ nɛ iheyi-i se Wɩlɩyʋ se ɛ-sɩm alɩwaatʋ talaa, ñɛ-tɛ ɛ nɛ ɛ-tɔmkpɛlɩkɩyaa pɔkɔŋ pɔtɔɔ Yuda ñɩma Paska Kazandʋ.","Ewuli data daa na oyi joro, na-ehe ize, wuli ize, ezi maru atu dara. Nyede ene dum mgbe niile ka ya abugo mbọtọ oyom ịdaara ụgaza.",1.0,0.7227
+368,"Ḿbʋ́ yebina nɛ kpaɣ kɩyakʋ ŋgʋ́ manɩ lidaʋ ŋgʋ́ ɩwɛnɩ Kɩpaɣlʋ Yesu yɔɔ yɔ nɛ sɔɔlɩm mbʋ́ ɩsɔɔlɩ Ɛsɔ ñɩma tɩŋa yɔ pɔ-tɔm lɛ, ma ɖɔɖɔ mɛwɛɛ mansaŋ Ɛsɔ mɩ-yɔɔ alɩwaatʋ ndʋ́ mentendiɣ-i mɩ-yɔɔ yɔ.","Mbuya binakpa ke aku ngoma nili da ngor, owe na ke gbaro Yesu yoyo. Na so oli mbu, ozo oli oso nyemata nga pa ya budomle. Maro mowe manzan so miyo. Alotu ndume ndi ndi miyo",1.0,0.5578
+369,"Mɩ halaa lɛ, paa weyi eluzi ɛ-tɩ ɛ-walʋ tɛɛ ɛzɩ pʋpɔzʋʋ mɩ nɛ Kɩpaɣlʋ mɩ-kpɛndʋʋ taa yɔ.","Mè halale, pa wè ulusèdè walu tè sè pupòsò mè nè kpalu mè gba ndutha.",1.0,0.5821
+370,"Yee ɩlakɩ mbʋ́ pʋwɛ ɖeu yɔ nɛ nabʋyʋ ɛɛkpaɣ-mɩ sɔɔndʋ yɔ, ɩpɩsɩ e-liɖe taa ñɩma.","Eeh, akam bu Buwaeri, onye Nnewi North LGA. Ebe si elili di anyi",1.0,0.7377
+371,"Sɩlɩwa lɛ, ɖɔ-cɔzɔnaa wɛɛ kʋñɔŋ sɔsɔʋ nakʋyʋ taa nɛ paanaɣ pʋyʋ se pɔtɔɔ.","N'oge ahụ niile, Chọchị Sịntị Pọọlụ na Kụịdọ nọ na-ekpe ekpere maka udo na mba ahụ.",1.2308,0.9828
+372,"Yee meheyi-wɛ se pekpe ñɔɔsɩ yɔ, pɔtɔlʋʋ nʋmɔʋ taa.",Ihe m na-agwa unu ma ugbua bu na ọdịrị unu mma udo,1.3333,0.875
+373,"Yee ɛyáa ɛlɩzɩɣ aseɣɖe nɛ ɖitisiɣ lɛ, pɩlabɩ ɛzɩma ɖiitisiɣ aseɣɖe nɖɩ́ Ɛsɔ ñalɩzɩ ɛ-Pɩyalʋ yɔɔ yɔ?","ye yali zu asiri n'erdi sule, plavezi meri di su asiri ndi asonyali ze bialu",1.0,0.6329
+374,"Ɛlɛ́, paa ḿbʋ́ yɔ, mɩ-ñʋŋ taa ñɔsɩ wɛʋ yɔ, sɩ-taa nakɛyɛ eeleki yem nɛ Ɛsɔ tatɩlɩ.","ele ba mbu yọ, mu nyun da nyọ suọ yọ, si da nna ka ele ki yọ mna esọ da",1.25,0.5763
+375,"Ɛlɛ́, ɩtɩlɩ ɖeu se Ɛsɔ Kewiyaɣ talɩ mɩ-cɔlɔ kpam.","ele etilde uze, esogewi ya dalu mu joro",1.0,0.5946
+376,"Đɔɖɔ lɛ, pɩtɛkɛ halʋ yɔɔ Ɛsɔ labɩ abalʋ, ɛlɛ́, abalʋ yɔɔ ɛlabɩ halʋ.",ala kɛtɛ ka halu yɔɔ osala ba balo ala abalu yɔɔ osala ba,0.8462,0.451
+377,Mɩ ɖɔɖɔ lɛ ɖa-wabɩyɛ yʋsaɣ ŋgá ɖɩkʋndʋʋnɩ puwiye nɖɩ́ ɖa-Kɩpaɣlʋ Yesu pɩsɩɣ ɛkɔɔ yɔ.,Mérò àlááfíà bóyá o sọ. Nkaru kwo ndu n'ekpe oye ndi Kibaali Jesu Kristi ụka ọyọ.,1.1429,0.7015
+378,"Ɩtaalabɩ-ɖɩ ɛzɩ ɛyáa ɩlakɩ-ɖɩ yɔ, ɛlɛ́, ɩlabɩ-ɖɩ ɛzɩ Kɩpaɣlʋ ɩlakɩ-ɖɩ yɔ.",ɛla ɛlabarɛsɛ ɛla kreyo ɛlɛ ɛlabarɛsɛ kɛbaolo ɛla kreyo,0.9091,0.5636
+379,"» Ɛlɛ́, pɩkpazɩ-wɛ ɛsɔdaa yem nɛ pasʋʋ mɩndʋ, po-koyindinaa cɔŋaɣnɩ-wɛ.","Ebe bukwa zi we so daa im ne ba su umu ndu, bu go ndi na ajo nwa onu.",2.1111,0.5741
+380,Mɛnfɛyɩ nɔɔyʋ se ɛkpaɣ-m nɛ etisi-m lɩm taa alɩwaatʋ ndʋ́ peciɣdiɣ-pʋ yɔ.,Mba enweghi noise ekweghi m na edisimmiri m daa alubata ndu bu ji ndu.,1.1667,0.7018
+381,"Mbá mɩ mɩtɩŋa payɩ mɩ nɛ Krɩstʋ ɩkpɛndaa yɔ, ɩwɛɛ laŋhɛzɩyɛ taa.","Bịa mụ na di mụ a pụghị, mana Kraistọ ekwe na anyị ọ eweela nwaezida.",1.25,0.7255
+382,"Coojo sɔsɔ ɛnʋ, ɛha-ɖɩ nɔɔ nɛ ɖɩyɔɔdʋʋ cɛjɛyɛ tɔm nɛ ɖɩtʋʋ Ɛsɔ.","Jojosonu, ahari no neri odudu agayi dum neru tuwe.",1.0,0.7143
+383,"Yee nɔɔyʋ ɛyʋsɩnɩ-ŋ yɔ, pʋwɛɛ se ŋkpeɣ-i ɛzɩ Kɩpaɣlʋ kpeɣu-mɩ ɖɔɖɔ yɔ.",Yɛnɔɔ ɛsɛ na nyɔɔ. Wɔɛsɛ ngbɔyɛ ɛsɛ kɛ baaligbɛɛ wula.,1.0,0.7037
+384,Ɩla nɛ kʋdɔndɩnaa mbá pɛwɛ peeɖe yɔ pɔ-yɔɔ cɛ nɛ iheyi-wɛ se Ɛsɔ Kewiyaɣ talɩ mɩ-cɔlɔ kpam.,na guda ondụ na amba pawa beere yọ pọyọ che na ehee weze osi ga we ya odali mu jọlọ kpa,1.2353,0.5352
+385,Cɔjɔnaa ñʋʋdʋ Ana nɛ ɛ-hɔʋ taa ñɩma tɩŋa payɩ nɛ Kayifu nɛ Yohanɛɛsɩ nɛ Alɛksandrɩ paawɛ peeɖe ɖɔɖɔ.,"Chineke na-anụ olu anyị mgbe niile, na Kaịfo, na Yụaness, na Alexandra baa obodo ịrọ.",1.0,0.6914
+386,"Kujuka wiye tanaŋ tɛɛ cu lɛ, halaa ḿbá pakpaɣ num ndɩ ndɩ nɛ tɩlaaɖɩnaa mbá paañɩnaa yɔ se powoki pɩlaʋ yɔɔ.",Kujaku ye danande chule halamba pakpa num dende ne dilarinamba panye nayo subu ke bilauyo,0.9524,0.4535
+387,Peeɖe ɛ-tɔmkpɛlɩkɩyaa woba ɛ-cɔlɔ nɛ ɛpazɩ-wɛ tɔm wɩlʋʋ.,"Ere dọm bẹlẹ kị ya wụ bẹ jọlọ, nẹ eba zwẹ dọm",1.5,0.6667
+388,"Ɛlɛ́, yee toovenim ɛfɛyɩ mbʋ́ pɔtɔŋ se malaba yɔ pɩ-taa yɔ, pɩtaha nɔɔyʋ nʋmɔʋ se ɛ́ɖʋzɩ-m pe-nesi taa.",Ye to fenim efayim bobodon somala be pita ayo. Pita ho na oyonum se oru si mbenisida. To yoo le. Mbo si,1.2222,0.6364
+389,"Weyi ɛ́lɛ́ ɖɔŋ Ɛsɔtɔm yɔɔ yɔ, ɛkɛ weyi ɛsɔɔlɩ-ɩ nɛ ɛ-laŋɩyɛ tɩŋa pilim yɔ.","Wee elee mụ na ya so domụ ya, ege wee ya ntị, ọ lee anya na-ala ngịngị.",1.2143,0.8545
+390,Đɩ-taa nɔɔyʋ tɩɩkalɩɣ ɛyáa tɩŋa ɛsɩndaa Mooyiizi paɣtʋ nɛ náyaa pa-takayɩsɩ taa.,"Sidaa noo yite galu, e yaa dinga sinda mo yisiboto, looyis di na abada gayisida.",1.25,0.6212
+391,"Mbʋ́ pʋyɔɔ yɔ, ɛnʋ manɩ-wɛ, ɛlakɩ ɖɔɖɔ mbʋ́ ɛɖʋwa yɔ.","Mɔ́bɛ́ yá, ónú máná wɛ́, ɛ́lɛ́kɛ́rɔ́ mgbóó rụ́ wá yá.",1.0,0.6316
+392,Ńɖɩ́ mɔnɖɔŋ lʋbʋ lɛɛlɛɛyɔ nɛ ɩnɩɣ ɖɩ-taŋ.,Mondom l'obolélé na enewu dan.,1.0,0.7188
+393,"Ɛlɛ́, kɩyakɩŋ naadozo nɛ hɔɔlʋʋ ɩnʋ ɩ-wayɩ lɛ, wezuu fezuu nakʋyʋ lɩɩnɩ Ɛsɔ cɔlɔ nɛ kɩsʋʋ sɩɖaa naalɛ ḿbá pa-taa nɛ pakʋyɩ pasɩŋ pa-naŋgbanzɩ yɔɔ nɛ sɔɔndʋ kpa mbá pɔcɔŋaɣnɩ-wɛ yɔ siŋŋ.",ya kị na-adụzị nụ ha ụlọ n'ụwa a ịlọ. Wee zụọ galaa zụọ na-akara ha ihe niile ha chọrọ na ka ha soro gị na-ali mbabata. Na-akwụ ha ụgwọ ụlọ na ngwụcha ọnwa na-ezighịkwa ha mbabata ọ bụla ọzọ,1.2188,0.7603
+394,Yesu sɛ Ɛsɔ Jesemaanɩ.,"Emu, na enyom di nga pay. Solombonu na alim njali mbu, pegwedi oya za ka iya ozi.",4.25,2.9444
+395,"Ɛ-tɔmkpɛlɩkɩyaa na ḿbʋ́ lɛ, pa-taa wɩɩnɩ halʋ ɛnʋ nɛ pɔtɔŋ se: «Halʋ ɛnɛ, ɛwɛɛkʋʋ tɩlaaɖɩ ŋ́gʋ́ nɛ ɛlɔʋ yem yɔ, pʋwazɩɣ-ɩ we?","kedu ka ị mere? Ọ dịghị ihe na-adịghị mma. Ọ dịghị ihe. Ọ bụrụ na ị chọrọ ịlụ nwanyị, ị ga-alụ ya.",1.0,0.8804
+396,"Ŋgʋ́ Kɩpaɣlʋ ɛsɩndaa lɛ, halʋ fɛyɩ ɛ-tɩ yɔɔ abalʋ cɔlɔ.",Halisi,1.0,0.9286
+397,"Ɛtasɩ-wɛ heyuu se yee Pɔɔlɩ ɛlabɩ kɩwɛɛkɩm nabʋyʋ yɔ, ɛ nɛ pa-taa sɔsaa powolo Sezaaree nɛ pakʋyɩ ɛ-yɔɔ.","Eda suwe he use, Paul elabukwe ekim na be uyo. Ene bata su sa police zare ne bakwe uyo.",1.0556,0.5122
+398,"Kpaagbaa ḿbʋ́ lɛ, Eliimaasɩ yʋlʋmɩ nɛ ekiitiɣ yem nɛ ɛñɩnɩɣ nɔɔyʋ se ɛhɔm-ɩ.","Agba mbo ule, elili m asusu olumi na-ege ntị ya na enye na ulo oyibo ihoro m.",1.3077,0.6667
+399,Ɛtɛm lɩʋ sɩm taa nɛ ehiɣ wezuu maatɛŋ.,,,
+400,Kpɩnɛ nɖɩ́ ɖɩlɩnɩ teŋgu taa yɔ ɖɩ-tɔm.,Kayan gayu hannes mawa yo nyu hune na doso,1.2857,1.0345
+401,"Yee ɩlabɩ ḿbʋ́ yɔ, Điyiyaa Ñʋʋdʋ lakɩ-mɩ koboyaɣ kʋjɔʋ ŋgʋ́ kɩwɛɣ tam yɔ, alɩwaatʋ ndʋ́ ɛlɩzɩɣ ɛ-tɩ nɛ ɛwɩlɩ-mɩ yɔ.",Je suis à la bourre. Tu as eu de la chance mais il faudra que je vous donne un coup de main.,1.1,0.8736
+402,"Ɛcɔnaa lɛ, ɛna Ɛsɔ tiyiyaa naalɛ nabɛyɛ, posu wondu kʋhʋlʋmʋtʋ nɛ pacaɣ ɖenɖe paahɛzɩ Yesu yɔ: lɛlʋ ɛ-ñʋʋ ɖeɖe nɛ lɛlʋ ɛ-naŋgbanzɩ ɖeɖe.","ya na ala, ana eso di ya na ala na be ya. O zugo ndu gburu-mmanu na be choro ndi be ha iziga ya isu ya. Lelee onye uriri, na lelee ya na ngba nzuzu.",1.5217,0.6296
+403,"» Ecosi-i se: «Payaɣ-m se you laɖaa tikaɣ, mbʋ́ pʋyɔɔ yɔ, ɖɩɖɔwa.","Elu-igwe na-esu choo, si ebe ahu onu ya ga-eraza ejare ndi di taa. Ngozi afa na-adiri ka ana-akpo ya ka o pojuo uwa niile.",2.1818,1.5778
+404,"Pʋwayɩ lɛ, Yesu nɛ ɛ-tɔmkpɛlɩkɩyaa pakʋyɩ se powoki Galilee teŋgu nɔɔ, ɛlɛ́ ɛyáa sakɩyɛ tɩŋ-wɛ.","Walahi, Yesu na'a zama balakiyaba kwisibo'o ti galile tenzuno, ele iya zaki tenge",0.9333,0.5467
+405,Coojo sɔsɔ ɛnʋ lɛ ɖʋm kɩbɩnʋ weyi payaɣ se Eleeu nɛ pɛtɛ patasɩ-ɩ se Satanɩ yɔ.,"Yoo, yoo, yoo, sɔnɔ laa rɔm gbeenu, weebayaa zii lew, na bata bada siiyaa wa zakaanyaa duu zanta ne.",1.1875,0.8871
+406,» Peeɖe ɛkʋsɩ ɛ-ɛsɛ nɛ ɛcɔnɩ ɛyáa mbá pacaɣ ɛ-cɔlɔ kpɛɛɛ yɔ nɛ ɛtɔ se: «Na!,"Ndeere ekusa ese, na echuna iya mbabaja ejolo kpeyo na etozi.",1.0,0.6296
+407,"Pɩkɛdaa lɛ, ɛpɔzɩ-wɛ se: «Men-piya!",Mbiya.,1.0,0.84
+408,"Ɛlɛ́, weyi ɛlakɩ mbʋ́ pɩtatʋʋzɩ yɔ, pɩ-kɩhɛyʋʋ ɛkɔŋ mʋ́ʋ, mbʋ́ pʋyɔɔ yɔ, Ɛsɔ ɛɛcɔŋnɩ nɔɔyʋ ɛsɩndaa se pʋcɔ ɛlabɩ-ɩ pʋyʋ.",Onye na-akwado ụgbọ mmiri na-akwọ ụgbọ mmiri.,1.0,0.8889
+409,"Ɛlɛ́, ɛ́yáa ḿbá, pɛkɛdɩɣ Ɛsɔ tʋma sɔsɔna tɔm nɛ ɖatɩŋa ɖɩnɩɣ ɖa-kʋnʋmɩŋ ndɩ ndɩ taa!","Eya m'pɛ ka duaso dumasosɔn dɔm. N'aradun, k'ennɔ da kunun dindinda.",1.0,0.5781
+410,Pɩfɛyɩ se ɖɩñɩnɩ nɛ ɖɩna tam ɛzɩma ɖɩpɩzɩɣ ɖɩla kɩwɛɛkɩm nɛ pʋcɔ ɛhɔ ɖa-nɩŋgbaŋʋʋ yɔ.,"Eze re nyane eze re na, to m'eze m'ambo. Kepe soro la ku wa eke m'ne bu cho ke ba lo koro na ngwa ngwe.",1.6667,0.8261
+411,"Mbá pewiliɣ yɔ, pacaɣ wezuu ɛzɩ paawiliɣ yɔ.",Mba ba wulu ya. Wacha wuzuzan mba ba wulu ya.,1.125,0.5714
+412,"Mansaŋ-mɩ ɛzɩma mbʋ́ ɩtɔzʋʋ mɔ-yɔɔ paa ɖooye nɛ ɩɖɔkɩ ma-lakasɩ nɛ tɔm ndʋ́ pawɩlɩ-m nɛ mawɩlɩ-mɩ yɔ, pɔ-yɔɔ.",Mazi Amechi esemgbo odazo ma ya abali iri na oro ka malaga si metomdukwa ulam na mawulu ma ife o.,1.1111,0.6707
+413,"Ɛɛlakɩ mbʋ́ pɩkpaɣ ɛyáa fɛyɛ yɔ, ɛɛñɩnɩɣ e-ɖeke e-ɖeɖe, ɛɛmʋʋ pana, ɛɛcakɩnɩ lɛlaa.",E ya ka m buo ba ya fe ya. E nyinu iriri. E muo ba na. E ja ka m lala.,1.6154,0.6875
+414,"Ɛlɛ́, paayeki se tɩlabɩ-wɛ tʋmɩyɛ camɩyɛ.","Ba ekisize, tela buwe edume ya jamia",1.1667,0.625
+415,"Pɔyɔɔdaɣnɩ ɖama ḿbʋ́ lɛ, Yesu ɖɔ nɛ ewolo pɔ-cɔlɔ nɛ ɛ nɛ wɛ pɛɖɛɣ.","O yoo do on ramaa mbole, yoo suru on oolu bajol ne eno weebere.",1.0,0.68
+416,"Alɩwaatʋ ndʋ́ ɛsɩsɛmɩyɛ nɛ you pɛwɛ mɩ-hɛkʋ taa yɔ, ɩfɛyɩ ɛzɩ ɩɩwɛʋ yɔ yaa we?",alọatụndụ SSMI na yowu ọma ya kụda ya. Ebe a ịzị ịwụ ya ya,1.0,0.65
+417,"Mbʋ́ pʋyɔɔ yɔ, tiyiyaa ḿbá pawɩlaɣ nɛ posusuu Laŋhɛzɩyɛ Tɔm se Yesu lɛ Weyi Ɛsɔ Lɩzaa Yɔ.","Mbu bi yoo, tiya mba, pawulanu bu susu lang heze domze, ye sule wayi osolozayo.",0.9412,0.4571
+418,"Ɛñɩnaɣ se ɛna weyi payaɣ se Yesu yɔ, ɛlɛ́, ɛtapɩzɩ.","Enyenaze, enewebayozi yesuyo, ele edabizi.",1.0,0.5789
+419,"Kifem kujuka lɛ, pakʋyɩ tanaŋ cu se patalɩ pɩlaʋ yɔɔ nɛ pʋcɔ wɩsɩ kpa.","Givim gutpela pako i tanim chu, sapata bilong yo ese ose yao.",1.0,0.6545
+420,"Taabalaa mbá ma nɛ wɛ ɖɩwɛɛ yɔ, pɛsɛ-mɩ.",ta vala mba mana wa to yene o. Peze,1.0,0.5667
+421,"Pɔ-tɔm tɛkɛdɩnɩ Ɛsɔ, papɩsɩ ɛyáa tɩŋa koyindinaa.",Pɔtam dɛ kɛdɛnɛ sɔ. Kpabisa yaa dɩngu goyɩndɩ na,1.2857,0.425
+422,"Mbʋ́ pʋyɔɔ yɔ, ɖe-wezuu caɣʋ kedeŋa yɔɔ cɩnɛ nɩɣzɩnɩ Yesu ñɩmbʋ.","bobo yaa, chewezu jaa ugi dinye oji na, na azina Yesu nyi",1.0,0.62
+423,Mentiyiɣ-ŋ se ŋwolo ŋkuli pɛ-ɛsɛ nɛ ŋlɩzɩ-wɛ cɩkpɛndʋʋ taa nɛ ŋwoni-wɛ ñalɩmɩyɛ taa.,m jiri nche m nwere ngwuli be eze na m leziwe ejikwa ndu a na m nwere na ya nyere m ida leziwe ruru aka nyadu satanas ida na m nwere,2.3846,1.1791
+424,"› Peeɖe tʋmlaɖʋ ɛnʋ ɛhʋ ɛ-taa se: ‹Nɔɔnɔɔ man-caa lɩzɩɣ-m tʋmɩyɛ taa, malakɩ ɛzɩma lee?",Ere dum l'arọ nụ ehu dị azị. Nọ nọ ma njị alịzị m dum ịda. Malakụ ezịmịlị,1.2143,0.5846
+425,"Kifema lɛ, ɖɩkʋyɩ peeɖe nɛ ɖiwolo Roodi ñɩnɖɛ taa nɛ ɖɩkʋyɩ ɖɩɖɩ taa nɛ ɖiwolo Pataraa tɛtʋ taa.","Kuvimale, tukuyibandula rodi nyintha da, netukuyirida nidu patara detida.",1.0,0.6364
+426,"Weyi ɛcaɣ se ɛla mbʋ́ Ɛsɔ liu wɛɛ yɔ, ɛkɔŋ naʋ se mbʋ́ mawɩlɩɣ yɔ, Ɛsɔ cɔlɔ pɩlɩnaa yaa ma-maɣmaɣ mɔn-cɔlɔ pɩlɩnaa.","Wee eji George elambo solu wee yọ ha ego nna ha ụzọ, mbu ma ụlọ ya. Esoghị ya ọbịrị na-aghara ma ma ma ma ghara ọbịrị na. Wee ya ọdịrọ ya mma ma ọdịrọ ya mma, George basara m. Wee ele George basara wee edie ya",2.0909,1.4253
+427,"Palabʋ-mɩ lɩm sɔʋ sɔnzɩ yɔ, mɩ nɛ Krɩstʋ pepima.","Mɛlɛm sɔsɔnsi yɔ, mɛnɛ Kristo",0.8889,0.5405
+428,"Pʋ-yɔɔ ɛyáa ɖʋ-ɖʋ hɩɖɛ siŋŋ, ɖɩcaɣaɣ se ɖɩsʋʋ mɛlɛ lɛɛkʋ nɛ ɖɩɖɛɛ lɛ, paha-ɖʋ mbʋ́ pɩtɩŋa pʋpɔzʋʋ-ɖʋ ɖa-nʋmɔʋ ɖɔm taa yɔ.","Yaa yar roo hirasin, ta jaa roo so me lele kuna ta dayale, faa roo mbu bi din bu bosu roo tan mu rom daye.",1.1905,0.75
+429,"Lɛlaa kɛkɛ kʋñɔndɩnaa, posuu heŋ nɛ pʋŋ pɔ-tɔna wondu nɛ pɛwɛɛ pɔcɔʋ paa le.","La la ka kai goyon duna, buzuwo heng nu bong bodona wendu, ne ba ya bo cow bali.",1.2857,0.6833
+430,"Kɩyakɩŋ ɩnʋ ɩ-taa lɛ, ɛyáa samaɣ tasɩ kpeɣluu pɩtɩɩfɛyɩ, ɛlɛ́ pɛfɛyɩnɩ tɔɔnaɣ.","Kɛ a kɛŋɛ nu edale, ɛyaa sama ta sikpɛɛlu pɛde fɛi, ɛlɛ pɛfɛi nu tɔɔnɔ.",1.0833,0.4032
+431,"Đooo lɛ, tɩɩwɛ kpaɖɩŋ tɩŋa taa ɛyáa mɛsaɣ tɛɛ, ɛlɛ́ lɛɛlɛɛyɔ, ekuli tɩ-yɔɔ nɛ ɛwɩlɩ ɛ-ñɩma.","Tɔɔla, tɔɔ kparantɩŋ kɛda ɛyaa mɛsɔdɛ. Ɛlɛlɛyɔ, ogulutu yɔ na ewelu enyi.",0.9375,0.5217
+432,"Pɔɔlɩ weyi ma paɖʋ-m salaka se malakɩ Krɩstʋ Yesu tʋmɩyɛ yɔ, ma nɛ ɖa-taabalʋ Timootee ɖɩmaɣnɩ takayaɣ kanɛ.","Paul weyi ma paaru musala ka si, ma la ka Kristu Yesu tumi yo, ma nara da abalu Timotee re ma na da ka",1.1111,0.3678
+433,"Ɛlɛ́, ɩcaɣ se ɩkʋ-m, mbʋ́ pʋyɔɔ yɔ, mɔn-tɔm fɛyɩnɩ ɖɩjaɣyɛ mɩ-taa.","Mba bu ya, erughi tata alda. Ihe su di se ya azum bu ihe uze. Manda, ego ngi nyere m, ele ego m ziri bu umu gi wa ekim da",2.6364,1.6383
+434,"Weyi ɛlakɩ mbʋ́ pʋtʋʋzaa yɔ, ɛkɛ kʋtʋʋzʋ ɛzɩ Yesu Krɩstʋ yɔ.","Wèla k'mbo budo zayo, ègè k'tozo zi Yesu Kristo",0.9091,0.5532
+435,Iwolo iheyi Pɩyɛ nɛ Yesu tɔmkpɛlɩkɩyaa lɛlaa se ɛɖɛ-wɛ nɔɔ nɛ ewolo Galilee egeetiye taa.,Olee ihe mere Jesu domkiri ala laze? Erụọla n'ọlọ Galili egeti na,1.0,0.6301
+436,"Ḿbʋ́ wɩlɩɣnɩ-wɛ se nʋmɔʋ kilebuu taa pɛwɛɛ nɛ pɩwɩlɩ-mɩ se mɩ mɩwɛ ñʋʋ yabʋ nʋmɔʋ taa, Ɛsɔ cɔlɔ pɩlɩnaa.",mbu olu na nwanyi na mu kene buta fa waya na puo olu m ise mi monye ya bu na muta o si joro be nna,1.3684,0.6296
+437,"Ɛlɛ́, Yuda ñɩma ḿbá, pasazɩ abila wena awokaɣ Ɛsɔ ɖɩsɛyɛ taa yɔ nɛ pɩkpɛndɩnɩ tɛtʋ ñʋndɩnaa nɛ pakʋyɩ Pɔɔlɩ nɛ Barnaabaasɩ pɔ-yɔɔ nɛ pɔɖɔɔnɩ-wɛ pɛ-ɛjaɖɛ ńɖɩ́ ɖɩ-taa.","Yoo daa nya mamba, pasaza bili wena awu ko ono suru zayda ya, ne bukwe ndiri nyu ndina, ne bakwa ibo olu ne bari na ba subu yo, ne poro onu webe jare ndiri da.",1.2593,0.5846
+438,"Pɩlakɩ ḿbʋ́ se: Pɔcɔnɩ camɩyɛ, ɛlɛ́, pataana.",Black M. Peewee Césaire.,1.0,0.8182
+439,"Wiyaʋ Daaviidi Sayɩ» lɛ, pɩwɩzɩ-wɛ.",,,
+440,Pʋ-yɔɔ pakpaɣ nʋmɔʋ nɛ patɩŋnɩ Frijii egeetiye nɛ Galaasii ɛjaɖɛ pa-taa se pɛɖɛɣ.,"Piyobogba nimo, na batun na firiji i ga etie na galasi i ga-araba da asubaro.",1.1538,0.5152
+441,Pʋ-yɔɔ petisi ñɩɣtʋ ndʋ́ pasɩzɩɣnɩ mɛlɛnaa yɔ naanza mɛlɛ wayɩ nɛ pacaɣnɩ pɛ-ɛsɛ nɛ paɖaŋ kpam se tɛʋ efe.,"Yoo, abidi si ya otu ndu banyere nzọụkwụ meere na ayọ na nzọụkwụ meere waị. Na pacha ya na be sọ na para nkpamzị dewụ.",1.3158,0.7262
+442,"Yesu aŋgba taa ñɩma mbá pɛwɛ Aazii egeetiye taa yɔ, pɛsɛ-mɩ.",Yesu agbada anyi ma mbo bo azi egede dayo. Peze,0.9091,0.4894
+443,» Peeɖe pekpeɣli mbʋ́ pɩkazɩ tindine hɔɔlasɩ kagbaanzɩ ńzɩ́ sɩ-taa yɔ nɛ pusu ɖɔkɩŋ hiu nɛ naalɛ.,"Ebe obula etiti me ka kpanza na-ahụrụ sịnsị si gazie ahụ, na-ekwusi dokwụ nku n'ụlọ na-ala.",1.0,0.7763
+444,"mbʋ́ pʋyɔɔ yɔ, pana ɛzɩma mbʋ́ ŋtʋʋzɩ ña-lakasɩ taa yɔ.","Pana esima mbo, ntolo se nyalaka si daayo.",1.0,0.5854
+445,"Ɛyɔɔdɩ ɛyáa samaɣ taa se: «Ma-wayɩ lɛ, weyi ɛkɔŋ yɔ, ɛkɩlɩ-m.","Mawuli le, we gon egele",1.0,0.8409
+446,"Ɛlɛ́, eheyi mbá pɛwɛ peeɖe yɔ se: «Ɛsɔ yɔɔdaa nɛ pama ɛ-Tɔm Takayaɣ taa se: ‹Man-ɖɩɣa kɛɣnɩ Ɛsɔ ɖɩsɛyɛ.",Es-ce que,1.0,0.9605
+447,"Abalʋ ɛnʋ, aleewaa kɛwɛ ɛ-wayɩ nɛ ɛwɛɛ pɩlaŋ taa, paa paahɔkɩ-ɩ ɛbɛ yɔ, ɛcɛkɩ-pʋ.","Abalenu, alu akwa ewayi na ewayi blanda, baba hu kai eboyo, eja",1.0,0.6066
+448,"Ma Pɔɔlɩ pakam kaamaŋkaɣ yɔɔ mɩ-yɔɔ, yaa mɔ-nɔɔ palabɩnɩ-mɩ lɩm sɔʋ sɔnzɩ?",Maa paala ba kam kam angayo moya. Muna ba la bu na melem zozonze.,1.1667,0.5172
+449,"Manaɣ se ɖa-nʋmɔʋ ŋ́gʋ́ kʋwɛɣ kaɖɛ, yee ɖɩtakpa ɖa-tɩ yɔ, mɛlɛ kʋnɛ nɛ kɩ-taa wondu sakɩyɛ pɔkɔŋ wɛɛkʋʋ, halɩ ɖa-maɣmaɣ ɖɩpɩzɩɣ ɖifeti wezuu.",Manna zitanumongu kwo ukare. Yere takwara di uyo. Melekwe nene kita wu ndi saka ya bukwanwe ku. Halite ma o di bizu ri fetu we zu,1.1304,0.5596
+450,"Toovenim lɛ, tɔm ndʋ́ manpam-mɩ heyuu yɔ, ńdʋ́ mantasɩɣ-mɩ heyuu lɛɛlɛɛyɔ nɛ ɛsɩtɛɣlɩm.","Ife venim la, t'om do mamba m'ihe ewu yọ, ndu m'ọ nda sọ m'ihe ewu lele e n'esitari.",1.3846,0.5294
+451,Obɛɛdɩ ñalʋlɩ Yesee nɛ Yesee ñalʋlɩ wiyaʋ sɔsɔ Daaviidi.,"Obèdinyalu le yese, ne yese nyalu le wii osusu David.",1.1111,0.4255
+452,"Ɩɩnaɣ Ɛsɔ hama lakasɩ nzɩ́ mbá pɛwɛnɩ lidaʋ ɛ-yɔɔ yɔ, pɔkɔŋ labʋ yɔ: pɔɖɔɔnʋʋ aleewaa nɛ mon-ɖoŋ nɛ pɔyɔɔdɩ kʋnʋmɩŋ ndɩ ndɩ ɖɔɖɔ.","E noesọ ha malaga sịnze, mba baa onye ndú ọhụrụ ọgọ nlabịọ. Ọrụ ọnụ alị ịwa nụ m ndụ, na bụ ọrụ dị gị n'ime m dị ndụ.",1.1739,0.6535
+453,"Yesu talɩ Betaanii lɛ, ɛmaɣnɩ pɛtɛm Lazaarɩ pim nɛ pɩtɛ labʋ kɩyakɩŋ naanza.","Yesu daalụ be taa nile. Ịma na ọbụ gị mere azaa ịbụ m, na ịbụla onye nke m na-anọ.",1.3846,0.5645
+454,"Ɛlɛ́, yee pɩha-ŋ waɖɛ se ŋwɛɛ ña-tɩ yɔɔ yɔ, ñaɣ pana.",Yebhu hangwara za'n uwa nya de yoyo.,1.0,0.7838
+455,"Mbʋ́ mɩ-maɣmaɣ ɩnaɣ kedeŋa yɔɔ cɩnɛ yɔ, pɩɩwɩlɩɣ-mɩ se pɩkɛnɩ abalʋ fɛyɛ se eyele ɛ-ñɔsɩ nɛ susu yaa we?","Bụ mụ ma ma, enaghị m adị m ka onye na-eje n'ọrụ. Peewee lụrụ nwanyị ọzọ, ọ bụ ya na-enyere ya ọsị n'esusị ya.",1.2632,0.7625
+456,"Lɛɛlɛɛyɔ, ɖenɖe ɖɩnɩwa se ɩwɛ mi-ɖeɖe ḿbʋ́ mɩ nɛ Kɩpaɣlʋ mɩ-kpɛndʋʋ taa yɔ, pʋ-yɔɔ lɛ, ɖitisi fezuu.",Tɛndɛrɛ nɔ zɛ awamiri rɛ mbɔ mini kaba alu mi gba ndu tɔ ayɔ. Pɛyɔlɛ. Tɛtisi,1.0,0.6053
+457,"Mbʋ́ pʋyɔɔ yɔ, Ɛsɔ ya-mɩ se mɩ nɛ lɛlaa ɩwɛɛ laŋhɛzɩyɛ taa.",Mbu bu ya. O si ya mere zi m na-elela eweleghi anya n'ihe a.,1.1667,0.7045
+458,"Pʋbʋ, Ɛsɔ Pɩyalʋ Yesu calɩm ñalɩɣ ɖa-kɩwɛɛkɩm tɩŋa payɩ.","Kobo, esobi aliye sujalem nyalorago ekim ding'",1.0,0.6444
+459,Pahayɩ tɔɔnaɣ nakɛyɛ pɩ-taa nɛ ɛ-tɔmkpɛlɩkɩyaa pɛlɩɣ nɛ nʋmɔʋ nɛ ponuutuu nɛ pasalɩɣ.,Bịa ha dozie na Kabba na ụdọ mgbeleke ya belụ na nụmụ na gọmentị na basalu.,1.2308,0.6714
+460,"Náyaa lɛ, pʋwɛɛ se naalɛ yaa naadozo ɛyɔɔdɩna nɛ lɛlaa maɣzɩ nɛ pana.",n'ala. Onye ziri n'ala ya nna ya ziri ya ọyọdịna. N'ala laa mazi,1.0,0.6364
+461,Pɩtɩŋnɩ mɩ nɛ Krɩstʋ Yesu mɩ-kpɛndʋʋ yɔɔ nɛ ɩkɛ ɛ-ñɩma.,Etɛnne me ne Kristo Yesu me gba ndɔ yɔɔ na eka enyigba,1.0,0.5349
+462,"Pʋwayɩ lɛ, manɩɩ pʋyɔɔdʋʋ ɛzɩ samaɣ sɔsɔɔ nakɛyɛ nɔɔ yɔ yaa lɩm sɔsɔm falʋʋ yɔ yaa tɛʋ nazʋʋ ɖoŋ yɔ se: «Aleluuya!","Wailé, m na-ebi ndụ oge niile n'ime ọzọsọ na-enwe ọṅụ. Ya mere mzọsọ m bara uru. Ya mere m na-azụ ụdị mmụọ nsọ. Alleluia",1.0909,0.7753
+463,"Mɔyɔɔdɩ ḿbʋ́, mbʋ́ pʋyɔɔ yɔ, ɖooo lɔŋ ɛyáa wɩlaɣ Mooyiizi paɣtʋ paa tɛtʋ ndʋ́ tɩ-taa paa kɩyakʋ kɩhɛzʋʋ ŋgʋ́ ki-wiye Yuda ñɩma Ɛsɔ ɖɩsɛyɛ ndɩ ndɩ taa.","Maka ọdịmbụ mbụ ehihie ya, ụlọ ọgwụ ya bụ L'Hôpital Saint-Jean-Baptiste dị na Faakersee bụ ebe ngwụcha izu ya. Ihe eji mara ya bụ na ọ bụghị naanị ụlọ ọgwụ, kama ọ bụkwa ebe obibi ndị nọn.",1.3704,1.0522
+464,"Mbʋ́ pʋyɔɔ yɔ, pɩkɩlɩ wee wee se mansɩ ɛzɩ maasʋlʋmɩ nɔɔyʋ pʋyʋ yɔ: nɔɔyʋ ɛɛkaɣ wɛɛkʋʋ mbʋ́ malabɩ falaa nɛ mankʋndʋʋnɩ-pʋ yɔ.",Mbo be aya. Piki lue we samanse. Saman so luma nyo be aya. Nyo e kawe ko. Mbo malaba fala. Namangon do na be,1.0909,0.5354
+465,"Ɛsʋ ɖenɖe lɛ, ɩtɩŋ-ɩ nɛ iheyi ɖɩɣa tʋ se: ‹Wɩlɩyʋ tiyini-ɖʋ se ɖɩkɔɔ ŋwɩlɩ-ɖʋ kuduyuu ŋgʋ́ kɩ-taa ɛ nɛ ɛ-tɔmkpɛlɩkɩyaa pacakɩ nɛ pɔtɔɔ Yuda ñɩma Paska Kazandʋ yɔ.","Ezuo ndu ele, etinye ya n'obosoro ndu ze. Wulili di ndu ze, tuko nwulili ogwu di ngo gi daa, ene odomgbele ka ya baja ka ni poto yomi daa le ukaza ndi",1.1429,0.704
+466,"Mbʋ́ pʋyɔɔ yɔ, mɩ nɛ Kɩpaɣlʋ mɩ-kpɛndʋʋ taa lɛ, mɩ lɛ mbʋ́ pɩwɩlɩɣ toovenim se malabɩ Krɩstʋ tiyiyu tʋmɩyɛ yɔ.",Mba bu ya oya. M na-ekpe abali m gbanwee uzo ala. M ga-eleba bu olu di efenim si. Malu ba Kristi uto di na ya.,1.25,0.6588
+467,Ɛsɔtɔm ɛlabɩ-mɩ liu tam ɛzɩ hɩlɩm lakʋʋ piya ajamaa liu yɔ nɛ pɩtɩŋnɩ tɩ-yɔɔ nɛ ɩtɛzɩ pɩʋ nɛ pʋkɔɔ pɩya mɩ-ñʋʋ.,"Ɛsɔdɔm mla milutam, ɛsɛ hili mla kɔ pi ajama luyu. Nɛ pɛtɛng nɛ diɔ nɛ etɛsbu nɛ bukɔbɛ ya mu",0.9048,0.4598
+468,Sɔɔjanaa pɛŋ Yesu tɛtɛ.,,,
+469,"Abalʋ ɛnɛ, ɛkɛ kɩdɛkɛdʋʋ: ɛwɛɛ eyozuu Yuda ñɩma tɩŋa kedeŋa kpeekpe yɔɔ.",balune egekede kedo,1.0,0.8103
+470,"Đa mɩ-taabalaa Krɩstʋ tiyiyaa nɛ Yeruusalɛm ŋgbɛyɛ taa ñɩma nɛ pɔ-sɔsaa ɖamaɣnɩ-mɩ takayaɣ kanɛ, ɖɩsɛ-mɩ!","Kpata kpata Kristu diya Yerusalem egbe d'anyi ma. N'ubochi saa, mụ ana m etakwara aka m, si ya",1.2,0.5647
+471,"Peeɖe eheyi hayɩm ḿbʋ́ pʋ-yɔɔ cɔnɩyʋ se: ‹Cɔnɩ ŋna, pɩlabɩ pɩnzɩ naadozo yɔ, mɔnkɔŋ se monkoyuu pee lɛ, maanaɣ pʋyʋ.","Bịa lee, ihe a bụ ihe m bu bịa ọjọọ na ezize. Chọọ nna. Bịa laba be unu na adịghị uzuọ. Mongozị mongozị ube ịlẹ ma na abụ",1.4,0.7191
+472,Ɛwɛ kedeŋa kpeekpe yɔɔ nɛ pɩtɩŋa payɩ pʋwɛɛ e-nesi taa.,"Tɔɔgɛ dɩŋbɩ kʋɛɛ yɔ, nɛ pɩtɛŋgɩ pɩyʋ ɛnɩ sɩda.",0.9,0.6364
+473,"Pʋ-yɔɔ lɛ, ɩcaɣnɩ mɩ-ɛsɛ nɛ ɩsɛɛ Ɛsɔ alɩwaatʋ kpeekpe nɛ ihiɣ ɖoŋ nɛ ɩpɩzɩ ɩlɩɩ mbʋ́ pʋkɔŋ labʋ yɔ pɩ-taa nɛ iwolo Ɛyʋ Pɩyalʋ cɔlɔ.","Yọlụ ya, e chọrọ m ịsị na ịsị a sọọ, alụwa atụgbọ ekpe na ịhụ ụlọ, na ebe sịrị ịlọ m bụ bugo m labụ yọ, na daa, na ewelụ ya bụ ya lụrụ jọ.",1.4,0.6832
+474,"Peeɖe Yuda ñɩma lɩmaɣza kɛwɛ ɖeu nɛ pɩkɩlɩ Tesalooniki ñɩma, mbʋ́ pʋyɔɔ yɔ, paatisi Ɛsɔtɔm nɛ pa-laŋɩyɛ tɩŋa pilim.","Bé yuda nyamal mazi koworo na bäkë lëttë saloni konyama. Mbobiyo, pa disi osodom na palangë dëngë mbili",0.9474,0.5543
+475,"Ɛlɛ́, puwoni-kʋ nɛ puyoni kañɩŋa huuye naɖɩyɛ nɛ kʋ-nɔɔ sʋʋ ka-taa nɛ pɩfɛyɩ ciɣduu nɛ lɩm hola sɔsɔna ñɛpɛlɩ-kʋ nɛ wayɩ.",O nụ gịnị bụ ihe o na-agwa gị? Nụgịnị ọ sọ gị daa na be fa e ji ụdụ? Na lim hụrụzụ sọ na nye be gị nụ,1.3333,0.7447
+476,"Đaŋʋʋ ḿbʋ́, Laŋhɛzɩyɛ Tɔm ndʋ́ ɩnɩwa yɔ, tɩ-yɔɔ pɩtɩŋnaa nɛ ɩɖaŋ.","Ntangombo, langeti tomdo enewayo, tuya obeding nani",1.0,0.6939
+477,Pɔyɔɔdʋʋ tɔm camɩyɛ nɛ pepeɣziɣ ɛyáa nɛ pɔ-nɔɔ leleŋ se pehiɣ kɛzɛɣa.,M'pɛpɛɛyɛ a anpono liliŋ.,1.0,0.7857
+478,Ḿbʋ́ Yohanɛɛsɩ kɔm ɛwɛɛ lakʋ taa nɛ ɛyáa woki ɛ-cɔlɔ nɛ esusuu-wɛ se pɛlɛɣzɩ wɛtʋ nɛ ɛlabɩ-wɛ lɩm sɔʋ sɔnzɩ nɛ Ɛsɔ kpeɣ-wɛ pa-kɩwɛɛkɩm.,"Ụbọchị ụka ọ bụla, ndị mmadụ na-ezukọta n'ụlọ ụka iji kelee Chineke, na-ekpe ekpere, ma na-anụ ozi ọma nke na-enyere ha aka ịghọta ihe Chineke chọrọ ka ha mee.",1.2083,1.0
+479,Yesu tasɩ-wɛ heyuu se: «Ɩnɩwa se paaheyi ɖɔ-cɔzɔnaa se: ‹Taakʋ ɛyʋ.,ye sudaswe heuze. Eneze ba heito jozo naze ta koye,1.0,0.5
+480,Peeɖe Yuda ñɩma sɔsaa nɛ pɔ-cɔjɔnaa sɔsaa powobi ɛ-cɔlɔ nɛ pɔpɔzɩ-ɩ se: «Aha-ŋ nɔɔ se ŋɖɔɔnɩ ɛyáa?,"Aha, nozo ndo ne ya",1.0,0.8667
+481,"Ma lɛ, mamaɣzɩɣ se yee ɛcaɣ ḿbʋ́ yɔ, ɛ-laŋɩyɛ hʋlʋmʋʋ nɛ pɩkɩlɩ ɛzɩ ɛɛɖaɣnɩ walʋʋ yɔ.","maala. Omazu zie ege amụọ ya, e na-agwa ya okwu na-ekpekele eze ịra nwaanyị.",1.0,0.7077
+482,"» Pʋbʋ lɛ, nɔɔyʋ ɛɛtɩnɩɣ lɛlʋ yɔɔ nɛ ɛkpazɩ ɛ-tɩ nɛ eniɣzi lɛlʋ.",Paseo de Nueva York,1.0,0.9167
+483,Ɛsɔ kaha Yesu tiyiyaa ɖoŋ siŋŋ nɛ palɩzɩɣnɩ Kɩpaɣlʋ Yesu sɩm nɛ e-fem pa-aseɣɖe nɛ Ɛsɔ ɛnʋ ɛwazɩɣ samaɣ ŋ́gá katɩŋa kɔ-yɔɔ pɩtɩɩfɛyɩ.,"A sị ka m ga-esoro gị arụ ọrụ, na-apụtaghị na m ga-abụ onye isi gị. Na-esoro gị, ọ bụghị na m ga-abụ onye isi gị.",1.087,0.8208
+484,Mɛ-ɛsɩyɛ kɛsɛnɩ Ɛsɔ tʋmɩyɛ ɛzɩ mɩtɩŋa mɩ-ñɩna sɛʋnɩ-ɖɩ sɔnɔ yɔ.,M'esseyi k'esɛnɔ asu dɔ miɛ. Esɛ m'etengamɛ nyinɛ sɛ unɛrɛ sɔnɔ,1.1,0.58
+485,Manawa ɖɔɖɔ se Fezuu Kiɖeɖeu heyini-m ndʋ́ mɔyɔɔdɩ ḿbʋ́ yɔ.,Anaworozi asakalesa henam tomdomayodombo.,1.0,0.6957
+486,"Mbʋ́ pʋyɔɔ yɔ, pɩkɛdɩnɩ Ɛsɔ nɛ eyele ɛ-maɣmaɣ ɛwɛɛ ɛ-Pɩyalʋ ɛnʋ ɛ-taa pilim.",mbu bi ya oya. Ekeedi na eso na eyi le. E mama owa ebe ya lu unu that,1.3846,0.6034
+487,"Pɩkɛdaa lɛ, Yesu tɔmkpɛlɩkɩyaa nɩɩnʋwa nɛ nɩɩlɛ nɛ naalɛ ḿbá papɩsɩ ɛ-cɔlɔ nɛ laŋhʋlʋmɩyɛ nɛ peheyi-i se: «Kɩpaɣlʋ!",kabal,1.0,0.9457
+488,"Ɛlɛ́, ndʋ́ tɩtɩŋa payɩ kɩnɩɣ yɔ, kɩkɛdɩɣ-mɩ nɛ kiheyi-mɩ mbʋ́ pʋkɔŋ labʋ yɔ.","Elenzu, etu i si nga payi gane wọyọ, ka ga di ume na kehe yu mee mbụbụkọ nlabịa.",1.3846,0.6607
+489,"Ɛzɩma mbʋ́ tindine kʋɖʋmɖɩyɛ koŋ ɖɩtɔkɩ yɔ, ḿbʋ́ ɖɔɖɔ paa ɖɩɖɔwa yɔ, ɖɩkɛ tomnaɣ kʋɖʋmaɣ.",,,
+490,Yesu tiyi ɛ-tɔmkpɛlɩkɩyaa nɩɩnʋwa nɛ nɩɩlɛ nɛ naalɛ se powolo posusi Ɛsɔ kewiyaɣ tɔm.,haziye dam du lu ka mawayo nyong hiu,1.0,0.8429
+491,"Pʋ-yɔɔ lɛ, ɩlɛɣzɩ wɛtʋ nɛ itisi ɛ-Laŋhɛzɩyɛ Tɔm.","Yoo le, elozi wethu neyidiselana",1.0,0.7297
+492,"Mbʋ́ pʋyɔɔ yɔ, Ɛsɔ ɖʋ pa-taa se pala mbʋ́ e-liu wɛɛ yɔ.","Mbu bi aya, asoro badase, hala mbu elu uwa",1.0,0.5526
+493,"Ɛlɛ́, ɛɖʋwa se ɛyakɩ mbá pɛwɛnɩ lidaʋ tɔm ndʋ́ ɖisusuu-wɛ yɔ tɩ-yɔɔ yɔ pa-ñʋʋ.","Rosa, ya kamba ba wani lidawu. Tom durusu we yoto yoyo banyo",1.0,0.569
+494,"Ŋgʋ́, pɩtɛkɛ tɔɔnaɣ nakɛyɛ tɔɔʋ yekina nɛ ɖɩpɩsɩ ɛyáa kɩbama Ɛsɔ ɛsɩndaa.",Tɛ bɛsɛ ɛyɛ akwaba ma asoasinda.,1.0,0.7119
+495,Đɩmaɣ-kɛ mbá mɩ ɩkɛ Ɛsɔ ñɩma mɩ nɛ Krɩstʋ Yesu mɩ-kpɛndʋʋ yɔɔ nɛ ɩwɛɛ Filiipu tɛtʋ taa yɔ mɩtɩŋa payɩ.,Tamaga mbame ege osenyima. Mene Kristo Yesu megbe ndu yo. Ne owe fili peto da yo,0.95,0.5875
+496,Đɩsɛ-mɩ: Ɛsɔ ɛlabɩ-mɩ lootiye nɛ ɛhɛzɩ mɩ-laŋa!,mɛ. Ɔsɔɛ la pɛmɛ lotiɛ na ehɛzɛmɛ,1.0,0.5556
+497,"Ɛlɛ́, yee poɖu-ɖɩ nɛ ɖɩsɩ yɔ, ɖɩlʋlʋʋ pee sakɩyɛ.",Toli ye boru re na resuya to lulu be zake,1.1111,0.6667
+498,"Paa pa-taa weyi lɛ, tʋmɩyɛ nɖɩ́ ɛlaba yɔ, ɖɩ-yɔɔ Ɛsɔ kɔŋ-ɩ hɛyʋʋ.",,,
+499,"Pʋkɔma ɛzɩ wɩsɩ siɣu yɔ lɛ, ñalɩmɩyɛ sɔsɔɖɛ naɖɩyɛ tɩlɩʋnɩ ɛsɔdaa yem nɛ ɖitii mɔ-yɔɔ.",Okwameze wusizi uyaala. Yaala mezuo si na a na-etele unu osodaya m na-erite ihe ọma ya.,1.0667,0.6812
+500,"Puwiye ńɖɩ́, Yeruusalɛm Krɩstʋ ŋgbɛyɛ sʋ kʋñɔŋ sɔsɔʋ taa.","Puis-je vous dire que Jérusalem, Christ, est le roi de tous les",1.3333,0.8696
+501,"Mbá palakɩ kɩwɛɛkɩm mbʋ́ piiyeki se pasɩ yɔ, pe-ɖeke pɔ-yɔɔ mɔntɔŋ se pɛsɛɛ Ɛsɔ.","Mba abalake go akimbu, i ekesibe si o, dere ke bu ya omonde nwe se so.",1.0714,0.6129
+502,"Ɛlɛ́, pɛcɛyɩ-ɩ se: «Kɔɔ ɖa nɛ ŋ ɖɩsʋʋ cɩnɛ.",,,
+503,"Ɛyáa nɩwa se ɛwɛ ɖɩɣa lɛ, pekpeɣli pɩtɩɩfɛyɩ nɛ posu nɛ pɩkpɛndɩnɩ awayɩ nɔnɔɔ taa nɛ ɛtasɩ-wɛ heyuu Ɛsɔtɔm.","Ya nụzị eziokwu a, biko unu debe ya na obi unu na ụbọchị ọzọ na ịdị asọ nsọ ga-esote.",1.0,0.8046
+504,"Pɩkɛdaa lɛ, paɖʋ se ɖɩsʋʋ mɛlɛ Sezaaree nɛ ɖiwolo Itaalii.",Pugnale. Parlez-vous seulement les Césarées et le rôle Italie?,1.0,0.766
+505,"Đɔɖɔ lɛ, yee ɩpaŋnɩ yɔɔdʋʋ kʋnʋmɩŋ ndɩ ndɩ lɛ, ɛzɩma patɩlɩɣ ndʋ́ ɩcaɣ yɔɔdʋʋ yɔ?",ọrọ a le. Ihe a abụghị ọrụ dị ụnọ m ga-adị na ya. Ịsị m hapụ adịlụ ndụ eji ọrụ,1.3333,0.8095
+506,"Ɛlɛ́, ɛkɛ mɩ́lʋ́ yɔɔ ɛyɔɔdaɣ ḿbʋ́: ɛnʋ ɖɔkaɣnɩ liidiye huyuu nɛ ɛmɩlɩɣ mbʋ́ paɖʋwaɣ kɩ-taa yɔ.",,,
+507,Yuda ñɩma sakɩyɛ kowobi Maarta nɛ Maarɩɩ pɛ-tɛ se pɛsɛɛ-wɛ leɣa.,Yudañi mza ke gobe Marta na Mariya bedes be se welu,1.0,0.5882
+508,"Ɛjaɖɛ nɖɩ́ ɖɩ-taa paawɛ ḿbʋ́ yɔ, ɖɩ-taa wiyaʋ weyi payaɣ se Publiyuusi yɔ, ɛɛwɛnɩ ɖɩɣa nakɛyɛ pʋ-cɔlɔ peeɖe nɛ ɛmʋ-ɖʋ nɛ laŋhʋlʋmɩyɛ nɛ ɖɩsʋʋ ɛ-tɛ kɩyakɩŋ naadozo.","Ajaran dídá pa ohun bíyo, dídáwọ́ dúró bí ayé sísọ. Èyí wà lára àwọn ohun tí ó jẹ́ kí ó mọràn láti sọ̀rọ̀ nípa rẹ̀ ní rúsú èdè gẹ́gẹ́ bí a ti sọ.",1.2222,0.8425
+509,Pʋ-yɔɔ mañakɩ pana se man-taa ɛwɛɛ ɖeu Ɛsɔ nɛ ɛyáa pɛ-ɛsɩndaa tam.,ya manya kabanese manta ewe dewu oso na eya afa esi nda,1.0,0.5098
+510,"Pɔɔlɩ tasɩ-wɛ heyuu se pʋwɛɛ se patɩlɩ se mbá pɛtɛkɛ Yuda ñɩma yɔ, ḿbá Ɛsɔ tiyini ñʋʋ yabʋ tɔm tʋnɛ.","Mba, asị m na ịnye m ya. Mba, asị m na ịnye m ya.",0.95,0.8077
+511,Pʋ-yɔɔ Pɔɔlɩ paɣ́ mɛlɛ taa ñɩma se: «Taabalaa!,Pio Paul Bamele danye mazi. Tabala,1.0,0.5588
+512,Ńdʋ́ wɛɣnɩ lɛɣzʋʋ yɔɔ ḿbʋ́ nɛ ɩkɔɔ ɩtɛzɩ tɩlʋʋ pɩtɩŋa payɩ.,ndu awula la zoya ombu na oko etezitele obite nga,1.0,0.6957
+513,"Mbʋ́ pʋyɔɔ yɔ, mantaɣ liu se Ɛsɔ nɩɣ mɩ-sɛtʋ nɛ paha-m nʋmɔʋ nɛ mɔnkɔɔ mɩ-cɔlɔ.","Mba, biko ayia. Mentaa lụsị, ọ sị na ụmụ ya atọ na-apaghị nụ mụ na mụ na gị ọlụghị.",1.2667,0.6949
+514,"Pɔɔlɩ tɛm yɔɔdʋʋ ḿbʋ́ lɛ, ɛkpaɣ tindine nɛ ɛsɛɛ ɖɩ-yɔɔ Ɛsɔ patɩŋa pɛ-ɛsɩndaa nɛ ɛcɩyɩ-ɖɩ nɛ ɛpazɩ tɔɔʋ.",kpolie m ya odogwu m bole. Ekwe odindi na esere ya oso baa esi nda na echeiri na ebazi,1.0556,0.6875
+515,"Mbá Ɛsɔ ya-wɛ nɛ ɛlɩzɩ-wɛ nɛ pɔɖɔŋ ɛ-nʋmɔʋ taa nɛ pa nɛ kɛ pɛwɛɛ yɔ, pawakɩ-wɛ ɖɔɖɔ.","Mba sọ ya bụ, na elezughị ya na ndụrọ ndụ ụmụ nwụba, ịba nke bụrụ eziokwu, ọwa kụrụ erọ.",1.0588,0.8387
+516,Manawa se mantasɩɣ caɣʋ wezuu nɛ mɛwɛɛ mɩtɩŋa payɩ mɩ-cɔlɔ nɛ mansɩnɩ-mɩ nɛ ɩɖɛɛnɩ ɛsɩndaa nɛ mɩ-laŋa hʋlʋmɩ mi-lidaʋ wɛnaʋ taa.,"M'anaza m'andaa su yaa ruwezu, n'emowaa emete n'paa emuyolo, n'manza n'mene erenesenda, n'melaa n'ka kulu me milidaa wenaa daa.",1.0,0.5146
+517,"Toovenim lɛ, ɩtɩŋ Yudee Ɛsɔ aŋgba taa ñɩma nʋmɔʋ.",Ete nyu de oso agwada anyi ma na,1.0,0.6154
+518,"Pʋcɔ Ɛsɔ la kedeŋa lɛ, ɛɛɖʋwa se pɩtɩŋnɩ ɖɩ-yɔɔ nɛ ɖɩwɛɛ e-koboyaɣ taa.",,,
+519,"Mbʋ́ pʋyɔɔ yɔ, ɛzɩma ɛpɩzɩɣ ɛsɔɔlɩ Ɛsɔ weyi ɛɛnaɣ ɛ́lɛ́ yɔ nɛ pɩkazɩ ɛpaɖɩ ɛ-taabalʋ weyi ɛ nɛ ɩ panaɣ ɖama yɔ?",,,
+520,"Paa pɩɩwɛɛ se ɩla kʋñɔŋ alɩwaatʋ pazɩ yɔ, Ɛsɔ ɛnʋ ɛ-maɣmaɣ ɛtɛzɩ-mɩ ñɔɔzʋʋ nɛ ɩpɩɩ ɛ-nʋmɔʋ taa nɛ ɩkpa ɖoŋ nɛ nabʋyʋ ɛtaaciɣdi-mɩ kaʋ.",bịa wee zaa ala kunyere m alụọ tupu mụ ayọọ ya arịrịọ. E wee maa edezị m ya ọzọ na ebe a anọ m ụda na ekwe arụ m na na bụ ya edachiri m,1.4583,0.7714
+521,"Ɩtɛm nɩʋ se paa pɩɩla ɛzɩma ɛkɔŋ, lɛɛlɛɛyɔ ɛtɛm kɔm kedeŋa yɔɔ.","Edem noze, ba bi lasma, egon, leleyo, edem gom gidi ne.",1.0,0.72
+522,"Peeɖe ɛtɔm se: «Toovenim lɛ, meheyiɣ-mɩ se lelu kʋñɔndʋ ɛnɛ, ɛhawa nɛ pɩkɩlɩ lɛlaa tɩŋa.","peɛdɔm seɛ. Tɔwɔnum leɛ, mehe yɛɛmizɛ le lukunyɔndɔwɔneɛ. Eha wane pekel lala dɛŋ.",1.0,0.4706
+523,"Weyi ɛ́lɛ́ tɔsɔɔlɩ-wɛ yɔ, ɛtasɩ Ɛsɔ, mbʋ́ pʋyɔɔ yɔ, Ɛsɔ lɛ sɔɔlɩm tʋ.",,,
+524,"Mbʋ́ pʋyɔɔ yɔ, ɩcakɩ sɩ-ɖɩlaɖɛ lɛ, paa weyi ekpedesiɣ se ɛtɔɔ ɛ-maɣmaɣ ɛ-tɔɔnaɣ.",Mbu we yaya? Ejakat serelarele. Pa wi ekwedi susu oto amama odonon.,1.0,0.5902
+525,"Yee ɩkɔm ɩnaɣ pɩtɩŋa payɩ ḿbʋ́ lɛ, ɩtɩlɩ kpaagbaa se Ɛsɔ Kewiyaɣ talɩ mɩ-cɔlɔ kpam.","Yɛ gome na bɛ dɛn ga payi mbule, etɛlɛ gbagbazi, esoge wiyɔ dalimujɔlɔ kpa",1.0,0.5077
+526,Mentendiɣ-i ɖɔɖɔ se ekuli mɩ-lɩmaɣza yɔɔ nɛ ɩtɩlɩ mbʋ́ ɛya-mɩ se ɩɖaŋ kpam yɔ nɛ ɛzɩma mbʋ́ ɛ-ñɩm koboyaɣ ɖewa pɩtɩɩfɛyɩ yɔ.,"Nde ndi erurasu ekulimili maseya, na etalumbu ayamesa erankpamia, na esama mbu enyemgobo ya diwa pidi feyo.",1.0,0.5208
+527,"Mbʋ́ pʋyɔɔ yɔ, yee ŋlabɩ ḿbʋ́ yɔ, ŋyakɩ ña nɛ mbá pewelesiɣni-ŋ yɔ mɩ-ñʋʋ.",Mba bu ya ya. Ye la ba mba bu ya. Ya ka ya na mba bu welu su na ya. Munyu.,1.4286,0.5185
+528,"Pakʋyɩ pʋʋ yɔɔ nɛ petiki lɛ, Yesu paɣ́-wɛ se: «Ɩtaaheyi nɔɔyʋ mbʋ́ ɩnawa yɔ nɛ pʋkɔɔ pɩsɩɩnɩ kɩyakʋ ŋgʋ́ Ɛyʋ Pɩyalʋ fema nɛ ɛlɩɩnɩ sɩɖaa taa yɔ.","Biko, i nyere m aka na ihe a na-eme na ụka m.",1.0,0.8545
+529,"Đa nɛ mbá pasɩ Pɔɔlɩ yɔ ɖɩyasɩ ɖama lɛ, ɖɩsʋʋ mɛlɛ nɛ ɖɩɖɛɛ Kɔɔsɩ ɛjaɖɛ taa kpaagbaa.",Tɔ numbu paasɩ pɔlɩyɔtɩyasɩ ramalɛ. Tɔsʊmɛlɛndɩrɛ kɔsɛɛ jarɩda agbaagba.,1.0,0.3582
+530,Ḿbá Kɩpaɣlʋ lɩzaa se pɔcɔnɩ mɩ-yɔɔ nɛ paka mɩ-ñʋŋ taa.,Mba ka ba lesa asibọchọnụ m ya na paka mụọ ndụ.,0.9,0.5714
+531,"Tɔm tʋnɛ tɩ-wayɩ lɛ, maasaŋ-mɩ lɛɛtʋ ndʋ́ manpazɩɣ yɔɔdʋʋ yɔ tɩ-taa.","Tɔm dɔnɔ tɔ wayɛ la, ma sang mɛɛlɛ tɔm dɔmɔ mbazɔ yɔdɔ yɛ tɛda.",1.1818,0.5192
+532,"Pɔkɔnɩ kpaŋaɣ nɛ ke-piye lɛ, pɔhɔzɩ po-wondu lɛɛtʋ nɛ pɔpɔ pɔ-yɔɔ nɛ Yesu kpa ɛcaɣ.",Pakanpanka nika diɛlɛ. Pɔhɔsɩ bɔndu letu. Na pɔpɔpɛyɔ nɩ Yesu pɛyɩ.,0.9333,0.4531
+533,"Pɔɔlɩ kaɖʋwa se ɛɛsɩŋɩɣ Efɛɛzɩ Aazii egeetiye taa, pɩtɛkɛ ḿbʋ́, elesiɣ alɩwaatʋ yem.","Pala ka rose esingoi feza azigeti da, pita kambo eliso alua tuya.",1.0,0.5441
+534,"Pʋwayɩ lɛ, Yesu tasɩ yɔɔdʋʋ se: «Ɛsɔ Kewiyaɣ kɔm wɛ ɛzɩ ɛyʋ ɖúu ɖomaɣ ɛ-hayɩm taa yɔ.",Yesu dasi yɔɔ duuse. Esɔge wiya gom wɛɛzi ewi ruuru mɔɔ ehayi mdaani.,0.9412,0.5
+535,"» Ɛlɛ́, sɔɔndʋ tɛzɩ-wɛ kpaʋ nɛ pɔpɔzʋʋ pa-tɩ se: «Ɛbɛ ɛnɛ ɛkɛnaa kpem nɛ pɩkpɛndɩnɩ heɣlim nɛ lɩm nɛ pañaŋ-ɩ?","Elesi so n'utezu egbawu, na-bụghịzi ọrụ dịzị. Ebe a, e na-ege na-ekwe m na-ekwe ndị na-eho elim na-elem na-banye n'anya gị.",1.1053,0.7654
+536,Pʋnɛ pɩtɩŋa payɩ pʋwɛ ɛzɩ lɩm sɔʋ sɔnzɩ nzɩ́ palabɩ-mɩ nɛ sɩya mɩ-ñʋʋ lɛɛlɛɛyɔ yɔ.,"K'onubido ng'a payi, wa zilimu sozo nzi palapeme na zia munyu ulilayi.",1.0,0.6406
+537,"Ɩɖʋ-wɛ hɩɖɛ, mbʋ́ pʋyɔɔ yɔ, wezuu ŋgʋ́ Ɛsɔ ha-mɩ falaa yɔ, mɩ nɛ wɛ ɛha-kʋ.","A du m a hịrị m bụrụ onye ọrụ. Wezụngụ ọsọ ha mefalụ, mụ na ya aghaghị",1.1333,0.7115
+538,"Peeɖe tɔmkpɛlɩkɩyʋ weyi Yesu kɩlɩ sɔɔlʋʋ yɔ, eheyi Pɩyɛ se: «Naze Kɩpaɣlʋ!",,,
+539,"Mbʋ́ piyeki nɛ pahʋʋnɩ ɛyáa yɔ lɛ se: weyi ɛkɛ ñalɩmɩyɛ yɔ, ɛkɔm ɛyáa kpeekpe cɔlɔ.","Mbu bia kene fa, ha wee nee ya ayolessin, wee ege nyala m iyo, ekom ya agweje.",1.0625,0.6406
+540,"Ɛwɩzɩ talʋʋ lɛ, ɛ-caa losi-i poliŋ nɛ pɩlabɩ-ɩ pʋtɔdɩyɛ pɩŋŋ.",Ɛwɔ sɛ dalɔ le. Ɛjaale osi bolim na pɛla be budoji pɛn.,1.2,0.5532
+541,"Ɛlɛ́, mɔnkɔm se tɔm ndʋ́ pɔyɔɔdaa yɔ tɩla.",Mɔngɔm zɛ tɔm ndu pɔyɔ da yɔ tɛlɛ,0.875,0.3548
+542,"Ewobi ɛkɔ ḿbʋ́ nɛ ɛpɩsɩ lɛ, ɛ-ɛsɛ kuli.",Logo kombo nebesiele esukulu,1.0,0.6429
+543,Peeɖe Fezuu Kiɖeɖeu tibi kɩwɛɛ patɩŋa pɔ-yɔɔ nɛ papazɩ Ɛsɔtɔm susuu kaalɛyɩtʋ.,,,
+544,"Pɩkɛdaa lɛ, ɛkpalɩ fiɣa ŋ́gá kɔ-nɔɔ nɛ ɛpɩyɩ-kʋ Yesu ñʋʋ taa waaa.",Bịa ka daalụ ebe afụrụ gị afụ n'ebe ịgụrụ Yesu n'ụdị awa.,1.0,0.68
+545,Ɛnʋ lɛ weyi ɛkpɛzɩɣ se pɩtɛkɛ Yesu lɛ Weyi Ɛsɔ Lɩzaa yɔ.,"Oluwa o le se, o de ke Jesu Oluwa o so le sa.",1.0833,0.7273
+546,Pɔɔlɩ yɔɔdʋʋnɩ e-piya nzɩ́ ɛsɔɔlɩ-sɩ siŋŋ yɔ.,,,
+547,"Tʋmlaɖʋ weyi ɛsɩm mbʋ́ ɛ-caa liu wɛɛ yɔ nɛ ɛtɔñɔɔzɩ ɛ-tɩ se ɛlabɩ-pʋ yɔ, poluu-i agbazɛɛ ɖeu siŋŋ.","Mbururọ ọbụ onye wee ejazi oge dị ka ya ọji na-enyim na, esewe dị ya. Edeke nyim do, esé ọsị nda. Pụọ ịle, ị ga-esị ihe ịdọ mgbe ka ya azị. Pụọ mee ihe ịyọ mịzị.",2.0,1.3649
+548,"Me-liu wɛ ḿbʋ́ kpem nɛ pɩɩsaŋ lɛ, mɛntɛzɩ tiyuu Timootee se ɛkɔɔ nɛ mana se ɩwɛnɩ lidaʋ mbʋ́?",M'elu wam bukpe m na pesi sowule. Nte si ti Timote si oko. Nema nesi ewu ne lida,1.0,0.493
+549,Eɖezi Kanaanɩ ɛjaɖɛ taa hɔɔlɩŋ lʋbɛ taa ñɩma nɛ ɛkpaɣ pɛ-tɛtʋ ɛha-wɛ.,Eze Kana na eji arụrụ lụveta anyị ma na ekpe obodo tọọ na aha,1.1667,0.6545
+550,» Peeɖe manawa se halʋ ɛnʋ ɛñɔ Ɛsɔ ñɩma nɛ Yesu aseɣɖe tɩnaa mbá pakʋ-wɛ yɔ pa-calɩm nɛ pʋkʋʋ-ɩ ɛzɩ sʋlʋm yɔ.,"Ehen, m na-azalụ nụ. Anyị osinri mụ na Jisọs Kraist na, mba bakoọ ya bụ njọ alị m, na bụkwa ya bụ eziokwu m.",1.1429,0.7229
+551,"Ɛlɛ́, ɖɩsɛɛ-ɩ mbʋ́ ɛhaɣ-ɖʋ yɔ pʋ-yɔɔ.",To say,1.0,0.88
+552,"Ɛyáa ḿbá, pa-taa lɛlaa tisi tɔm ńdʋ́ nɛ patɩŋ Pɔɔlɩ nɛ Silaasɩ pa-wayɩ nɛ pɩkpɛndɩnɩ Grɛɛkɩ ñɩma sakɩyɛ mbá pañaŋaɣ Ɛsɔ yɔ nɛ abila naayɛ.","예암바, 바달라라 디수도 음도, 네바땅 폴르 네질라수 바와이, 네부꿴데 네그레 끈예마자 께예, 음바바 뇨아오세요, 나 아빌리나에.",1.0,1.0
+553,Peeɖe ɛ́lɛ́ kitini-ɖʋ se: «Pɩlabɩ ɛzɩma nɛ iwiliɣ nɛ ɩñɩnɩɣ se itisi mon-toma taa ḿbʋ́?,Pele kị tinụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụlaa kị tinụrụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụụndịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịịụ,1.0,434.4769
+554,"Pʋ-yɔɔ lɛ, ɩñaɣ pana nɛ ɩɖɔkɩ mɩ-tɩ camɩyɛ nɛ ihiɣ ñʋʋ yabʋ.","Piyole, enyị ọbụla ọrụ kị mị dị ịja mị ene, ịhụ unyọ ya",1.0833,0.7333
+555,"Ɛyáa samaɣ tɩna Yesu lɛ, pɩɖɩɣzɩ patɩŋa nɛ pese powolo se pɛsɛɛ-ɩ.","Oya, do something even if na elele soso adajo. O dobu",1.0,0.8077
+556,Ɛ-yɔɔ Ɛsɔ tɩŋnaa nɛ ɛpɩsɩ-ɖʋ kʋtʋʋzaa nɛ ɖɩpɩsɩ ɛ-ñɩma nɛ ɛya ɖa-ñʋʋ.,"Eya asoteng na na epeseli kotoza, mpe tebesi enyima na eyalanyo.",1.0,0.6415
+557,"Ḿbá ɛɛñaŋnɩ Ɛsɔ, palakɩ kɩdɛkɛdɩm mbʋ́ pa-maɣmaɣ pe-liu wɛɛ yɔ.","Mba, e nyere m ya so. A na m ekwe nkwa na m bughi ma o bu obere uwe a.",1.9,0.7347
+558,"Pʋ-yɔɔ mɔntɔm se tɔm ndʋ́ mɔyɔɔdaa yɔ, ńdʋ́ Fezuu Kiɖeɖeu kɔŋ-mɩ heyuu.","Bịa mụọ ndụm zị, tọmụ dụm ọyọ daa yọ, ndụ esogaliza gọ mụ ịhụ.",1.1667,0.7222
+559,Man-taa hʋlʋmɩnɩ Stefanaasɩ nɛ Fɔɔrtunaatusi nɛ Akayikuusi pɔ-kɔm.,andá holomén Stefanás na Fortunatus na Achaïcus,1.0,0.5179
+560,Ńdʋ́ lɛ se ɛwɩlɩ-m mbʋ́ pɩɩwɛ mɛsaɣ tɛɛ yɔ nɛ mansɩm-pʋ ɛzɩ mamaʋ tɔm pee ana lɛɛlɛɛyɔ yɔ.,nduule se ola mbo pe o messa da ya na manzembo esa mama utombe ana elele,0.8889,0.6176
+561,Mbʋ́ Ɛsɔ liu wɛɛ yɔ lɛ se: ɩtɛzɩ wɛʋ cɩɖɩcɩɖɩ.,mbo osuli weyɔ lesi etesi w'owukeri,1.0,0.6471
+562,Pɔcɔwaɣ lakɩŋ nɛ pʋŋ pa-taa nɛ pasʋʋ ɛwasɩ pɔŋ nɛ tɛtɛɛ ñɩŋ pa-taa.,"Pojawol a kënne bong bata, nebaso ewa si bong nete te nyin bata.",1.0,0.6346
+563,"Pʋ-yɔɔ me-liu wɛɛ se abalaa ɛsɛɣ Ɛsɔ paa le lɛ, pakpazɩ pe-nesi ɛsɔdaa.","Yoo, meluu eze, abala eze wụ sọọbaa lee lee. Kpakpando enisi sọọba",1.0,0.5556
+564,"Paa mɛnkɛ weyi ɛwɛ ɛ-tɩ yɔɔ ɛyáa tɩŋa ɛsɩndaa yɔ, manpɩsɩ man-tɩ patɩŋa payɩ po-yom se manpɩzɩ mansɩnɩ ɛyáa sakɩyɛ nɛ pɛwɛnɩ lidaʋ Krɩstʋ yɔɔ.",paa mụ ga-ewere ya adịghị ya adịghị m ka m si na ya. Mụ abụghịzi mmadụ ịba dịka Bible kwuru m si. Mụ abụghịzi mmadụ na ya asakị ya na bụ onye lidawụ Kraist.,1.32,0.7434
+565,"Pɩkɛdaa lɛ, Fezuu Kiɖeɖeu heyi-wɛ se: «Ɩlɩzɩ Barnaabaasɩ nɛ Sɔɔlɩ nɛ pala tʋmɩyɛ nɖɩ́ manɖʋ-wɛ yɔ.","Ɛkɛda alɛ, asɔkalɛ zɔhi wɛzɛ. Ɛlɛzɛ barna abasɩ nɛ sɔlɛ, nɛ baladumiyɛ ndɩ mɔndʊ wɛ",0.875,0.4342
+566,"Mbʋ́ pʋyɔɔ yɔ, ŋtakpaɣ ɛyáa wɛtʋ nɛ ŋlabɩnɩ tʋmɩyɛ.","Ngwụbe ayá, mba ụmụazi mba Edune Edunye nde. E yá zamá yọle, ba na azị ba le zịma, ele bibe.",2.2222,1.5
+567,«Pʋpɔzʋʋ cɩnɛ lɛɣtʋ nɛ lɔŋsɩnɖɛ: ñʋŋ lʋbɛ ɩnʋ lɛ pʋŋ lʋbɛ weyi ɩ-yɔɔ halʋ ɛnʋ ɛcaɣaɣ yɔ.,"O bu so k'inele ya to, o luo nsi nde. Ihe unu luo be nu le, unu luo be we ya o halu, unu echa ya.",1.5294,0.7794
+568,"Ɛlɛ́, weyi ɛɛkpakɩɣ ɛ-ñɩnʋ yɔ, ɛlabɩ camɩyɛ nɛ pɩkɩlɩ.","Ehen? Wee, elee kwa ka o nyere ya? Ee, na biko nyere m",1.4444,0.8293
+569,"Mɛnkɛ Izrɛɛlɩ tʋ, palʋlɩ-m Bɛnjamɛɛ liɖe taa.","Manka Israel to, Palam Benjamin lirta.",1.0,0.4444
+570,"Yesu kʋsɩ ɛ-ɛsɛ lɛ, ɛna ñɩm tɩnaa wokaɣ paɖʋʋ liidiye haɖɛ aɖakaɣ taa Ɛsɔ ɖɩɣa taa.",Yesu kuse sàlè. Ànè nyim dínà wù kà wò bàrùlù díè hár àrì kòdà òsòròdà.,0.9375,0.7231
+571,"Tɛɛ nɛ pʋ-yɔɔ ñɩma ḿbá, pa-ñʋŋ taa wɩlɩ kaŋ kaŋ ɛzɩ pɔhɔbɩ ñɩmɩyɛ miŋ nɛ pañaɣzɩ pe-feteɣnim yɔ.","te ne bu yo anya mba. Panyin da a wele ka nkan nkan zi, po ho be nye mi mi, ne panyin ya ozi be fete ne mi",1.5,0.5811
+572,Đitendiɣ-mɩ se ɩña mbá pɛwɛ mɩ-hɛkʋ taa nɛ palakɩ tʋmɩyɛ yɔ.,"Ndu mụ sị ya, mpa gị abụọ ekwuda anị, biko mee.",1.0,0.7447
+573,"Mbʋ́ pʋyɔɔ yɔ, alɩwaatʋ ńdʋ́ʋ́ Ɛsɔ wɩlɩɣ ɛ-pana se ndʋ́ tɩtɩŋa pama ɛ-Tɔm Takayaɣ taa yɔ tɩla.","Alu wa tun do eso wele eba nezi, ndu di di nga bama edum deka ya dayo",1.0,0.6571
+574,"Pɩlabʋ ḿbʋ́ yɔ, pʋwɛ ɛzɩ palabɩ patɩŋa payɩ lɩm sɔʋ sɔnzɩ ɛsɔmɩnʋʋ tɛɛ nɛ Teŋgu Kɩsɛmʋʋ taa yɔ.","Pala pombeyo, poyesa pala pathu ngapayalume zosiyanasiyana, osamene ude na tengu",1.0,0.68
+575,"Tɔm ndʋ́ ɩnɩ ɖooo kajalaɣ taa yɔ, ńdʋ́ lɛ se: pʋwɛɛ se ɖɩsɔɔlɩ ɖama.",ndu ni du kachala adayo ndu lese,1.0,0.7
+576,"Mbʋ́ pʋyɔɔ yɔ, mɩ-maɣmaɣ ɩsɩm ɖeu se kɩyakʋ ŋgʋ́ Kɩpaɣlʋ kɔŋ yɔ, kʋkɔŋ-mɩ tuduu ɛzɩ mɩ́lʋ́ tuduu ɛyáa ɖoó taa yɔ.","Mba, biko ayo. Mụ mama esim tọọsị. Kedu ka unu ga-esi wee alụkwa nwanyị? Ụmụ m etudo. Esim unu tuduo, unu alụọ.",1.0476,0.7619
+577,"Ɛlɛ́, ɛlɩzɩ-wɛ nɛ awayɩ nɛ ɛpɔzɩ-wɛ se: «Caawaa!","Ele, ele zuwa na, waye na ubochi wezi?",1.0,0.6765
+578,"Pʋ-yɔɔ eheyi ɛyáa ḿbá se pekpe nɛ kɩyakʋ ŋgʋ́ sɔɔjanaa ñʋʋdʋ Lisiyaasɩ ɛkɔma lɛ, ɛɛtazɩ pɔ-tɔm taa nɛ ɛna.","Ehe, ya bụ ihe biko na, ya kọngọsọ nye na anyị ụdị lụzị ya sọọ gọọ ma alụ. Ịta zịbọdọ m dị a na-ena.",1.2632,0.6386
+579,"Ɛyɔɔdɩ ḿbʋ́ lɛ, sɔɔjanaa wolo pɛsɛtɩ kpɩyʋʋ nimee nɛ peyebi-kʋ kɩɖɛɛ.","A ya adim bule, kedu ihe na-ewelite okpukpe onye mee na o ga-elekọta",1.1818,0.7273
+580,Yesu yɔɔdaa se Ɛsɔ ɖɩɣa kɔŋ yɔɔkʋʋ.,Héziom du markimawayo. Nyun hyun nadozo.,1.0,1.1071
+581,"Toovenim lɛ, Laŋhɛzɩyɛ Tɔm ndʋ́ posusi-mɩ yɔ, ńdʋ́ lɛ.","Tɔfɔnɔm la, laŋhaze dɔm ndu pɔzuzum yɔ, ndɔla.",0.8889,0.475
+582,Pʋwɛ ɛzɩ pamaʋ Ɛsɔtɔm Takayaɣ taa se: «Ɛsɔ kpaɣ lɔŋsɩnɖaa nɛ pa-maɣmaɣ pɛ-cɛtɩm» yɔ.,,,
+583,Đɩ-naŋgbanzɩ wɛ ɛzɩ kpemiɣa ñɩnzɩ yɔ nɛ ɖɩ-nɔɔ ñɛwɛɛ ɛzɩ tɔɔyʋʋ ñɩŋga yɔ.,N'enụ n'onye wezu tọọ onye,1.0,0.8276
+584,Peeɖe Farɩsɩ ñɩma nɛ paɣtʋ wɩlɩyaa pa-taa wɩnɩ-ɩ nɛ pɔyɔɔdʋʋ pa-taa pe-ɖeke se: «Ɩna ɛzɩma mbʋ́ ɛ nɛ kɩwɛɛkɩm laɖaa pɛkpɛndaa pɔtɔkɩ yɔ!,"Pe farizienyɛ mɛn, bɔtɔwuli a padawu ne, bɔyɔdu padawu bɛrikizi. Ɛnna, ɛzimanbɔɛn kɔɛkɛ nglaradɔgben dabodokɛ.",1.0,0.6321
+585,"Peeɖe eheyi-wɛ se: «Kʋmtʋ ɖɔwa, ɛlɛ́, kʋnɖaa tɔɖɔɔ.","Komtoro wa, ele gunda doro.",1.0,0.7838
+586,"» Ɛyáa ḿbá, pɔ-nɔsɩ taa ɛɛnɩɣ nɛ pɛwɛɛ patɩmɩɣ.",Yamba. Pono da eno neba we batimu.,1.0,0.6
+587,"Peeɖe esewa ɛɖɛɛ nɔɔ nɛ ewolo ɛkpa tɩʋ nakʋyʋ yɔɔ se Yesu ɛkɔm ɛɖɛɣ lɛ, ɛna-ɩ.",Bịa zuru ezu na ole? Ole ekpere unu na-ekpe ya? Jesus ugboro ole? Ena,1.0,0.7667
+588,"Paa tʋmɩyɛ nɖɩ́ paɖʋ-mɩ yɔ, ɩlabɩ-ɖɩ nɛ mɩ-laŋɩyɛ tɩŋa pilim.",paa tumi nte baa romu o. Ena abere na emela nti mpe,1.1,0.6957
+589,"Mbá patɩŋa peseɣ yɔ, pɛpɛŋ pa-tɩ mbʋ́ pɩtɩŋa payɩ pʋwɛɛ se pɛpɛ pa-tɩ yɔ se papɩzɩ pese nɛ pawa nɛ pehiɣ kʋjɔʋ.","Mba, mputa m ka beze gi o. Poson, mputa m ka paye waya poso ya. C'est parce que n'a pas wé na behi ugwu gi.",1.0909,0.6824
+590,"Alɩwaatʋ ńdʋ́ tɩ-yɔɔ tɛtʋ ñamsɩ siŋŋ nɛ yee patayɩ tɛtʋ ndʋ́ tɩ-taa paawɛɛ yɔ tam hiu yɔ, hɔɔlʋʋ kʋɖʋmʋʋ yɔkaa.","Alɔwa tundu di yɔɔ tɛtu nyam sususum, nɛ yee bɛ dɛɛdɛ tundu daabaa wɛɛ tɔm yuugoo, olugui muyu ka.",0.95,0.5349
+591,"» Ɛlɛ́, Room sɔɔja sɔsɔ ɛnʋ, ɛɛwɛnɩ lidaʋ mɛlɛ sayʋ nɛ kʋ-tʋ pɔ-yɔɔ nɛ pɩkɩlɩ ndʋ́ Pɔɔlɩ yɔɔdaa yɔ.","Oru m sojojị sị nụ, e nwere ndị dọkịta na-aza Enugwu-Ukwu ọbụ yọ na-epekele ndị Paul yọ dị.",1.0,0.7945
+592,"Ŋgʋ́, halʋ nɛ abalʋ nɛ pɩtɩŋa payɩ Ɛsɔ cɔlɔ pɩlɩnaa.","Han na abalo na bedeng pay, waseyolo benna.",1.0,0.625
+593,"Ɛlɛ́, pɛpɛlɩ Yaasɔɔ nɛ ɛ-taabalaa kɩmɩyɛ nɛ pɛhɛyɩ-ɖɩ nɛ pʋcɔ peyebi-wɛ.","Ebele, ebele ya so na ya dabara gi mee. Na be ha iru na buchi bu",1.4545,0.75
+594,Peeɖe pɛtɛzɩ Miisii ñɩnɖɛ taa tɩŋnaʋ nɛ powolo Trowaasɩ.,"Père et mère de monsieur Ignace Ndatengnaon, Paul et Thérèse",1.1111,0.7872
+595,Peeɖe ɛtɩlɛɣzɩ lɩmaɣza nɛ ekiti ɛtɩŋnɩ Masedonii.,"Pee, etelaa ze le maazen, eketee tengna masedoni.",1.1429,0.4286
+596,Pakʋʋ ɖɔɖɔ kɩwɛɛkɩm laɖaa ḿbá tɔm ɛzaɣ́tʋ ndʋ́ tɩtɩŋa payɩ pɔyɔɔdɩ-ɩ yɔ tɩ-yɔɔ.,Kpakpa roro ku ekum la ramba to maza tundu dede ngba pai boyo di yo di yo.,1.3077,0.629
+597,"Yee patayɩ tɩɩnzɩ tɩŋa tam naadozo yɔ, pɩmakɩnɩ hɔɔlʋʋ kʋɖʋmʋʋ.",Ebe a bụ ebe ndị isi na-adọm na azụzụ ya. Mmakọ na-ahụkwa ya n'anya.,1.4,0.75
+598,"Pʋwayɩ lɛ, Yesu nɛ ɛ-tɔmkpɛlɩkɩyaa pakʋyɩ ɖenɖe paawɛɛ yɔ nɛ powolo Nazarɛɛtɩ tɛtʋ ndʋ́ tɩ-taa ɛcaɣaɣ nɛ ɛpaɣlɩ yɔ.","Wɛlɛ, Yesu n'adamgalakɛ ya ba kwi dɛndɛ baa wɛ yɔ nɛ Pɔlɔ nɛ Nazarɛtɛ tɛtɛ ndutuda e cawa nɛ e baa li.",1.0,0.5
+599,"Đɩkɔm ɖɩtalɩ Ciiprɩ ɛjaɖɛ nɖɩ́ lɩm cɔ-ɖɩ pɩta yɔ ɖɩ-hadɛ kiŋ lɛ, ɖiyebi-ɖɩ nɩmɩyɛ yɔɔ nɛ ɖiwolo Tiiri tɛtʋ taa Siirii ɛjaɖɛ taa.","Tukpambɩta lechipu re jaranɖe lim joroikundu kuyo tɩ haɖe kɩŋ le. Tɩ ebre nɛ mi yoo, nɛ duoliti re dɛtda siri jaranɖe",1.0,0.62
+600,Peeɖe pɩɖɩɣzɩ-ɩ nɛ ɛzɩma mbʋ́ pɛfɛyɩnɩ lidaʋ ɛ-yɔɔ yɔ.,"Père, Père, ozi na ezinụlọ m bu ihe nile a bụ eziokwu. Pụrụ iche, Jisọs chọrọ ka ụmụ Chineke dị ndụ, ndụ dịwa ebighị ebi na-adịghị agwụ agwụ.",3.1111,2.2619
+601,"Mbʋ́ pʋyɔɔ yɔ, yee paasɩm-ɖɩ yɔ, pataaka Kɩpaɣlʋ weyi ɛtɩnɩ koboyaɣ yɔ kaamaŋkaɣ yɔɔ.","Mbu bi yoo, iye ba sam do yoo, ba dakka kaba luee, edenu go bi yoo, kamangayo.",1.2143,0.6119
+602,Peeɖe pana ɛ-tɔmkpɛlɩkɩyaa lɛlaa tɔkaɣ tɔɔnaɣ nɛ patasaŋ pe-nesi ɛzɩ paɖʋʋ pɔ-sɔnzɩ taa se pala yɔ.,Père et père et mère et tante et oncle et grand-père et grand-mère et parrain et marraine et cousin et cousine et,1.375,0.95
+603,Đɩmaɣ-mɩ tɔm tʋnɛ se ɖa nɛ mɩ ɖa-laŋa ɩtɛzɩ hʋlʋmʋʋ.,"Maman, m'aideront de là, c'est la dernière fois que je te demande.",1.2,1.075
+604,"Ɛwɛnɩ pɛlaa naanza, patawalɩda, pɛkɛ náyaa.","wanna bala na nza, pada walda, pegalois dina",1.3333,0.5714
+605,"» Đa nɛ Sezaaree ñɩma ɖɩnɩ ḿbʋ́ lɛ, ɖitendi Pɔɔlɩ se ɛtaatasɩ pɩsʋʋ Yeruusalɛm.","Tɛnɛsɩ zɩrɛnyɩma rɛ nɛ mbule, tɩtɛndɩpolɩzɩ ɛda adasɩbɩsɩ Yeruzalɛm.",1.0,0.4516
+606,"Mbʋ́ pʋyɔɔ yɔ, kɛtɛm sɩm se Yohanɛɛsɩ kɛkɛ náyʋ.",Pè Boujisi Jezi,1.0,0.9189
+607,"Ɛtɛma nɛ ɛɖɛɣ lɛ, ɛna Alfee pɩyalʋ Leevi, ɛcaɣ ɛ-tʋmɩyɛ taa tikee ɖɩmʋyɛ.","Ede mụ na Errol na Althea bialụ Lagos, eji m oge ahụ bịa site na",1.1538,0.7544
+608,Sɔnɔ pɩlabɩ-m leleŋ pɩŋŋ se mɔyɔɔdʋʋ kʋyʋʋ mbʋ́ pɩtɩŋa payɩ Yuda ñɩma kʋyʋʋ mɔ-yɔɔ yɔ pʋ-tɔm ñɛ-ɛsɩndaa.,"Sana palavam leleng ping, samoyo to koyo mbu beteng payi. Yuda nyime koyo moyo putom yesi",0.9412,0.5854
+609,"Peeɖe pakpa Yaasɔɔ nɛ pɛkpɛndɩnɩ taabalaa nabɛyɛ nɛ pɔhɔm-wɛ nɛ powoni tɛtʋ ñʋndɩnaa cɔlɔ nɛ poholuu se: «Ɛyáa panɛ, pɛwɛɛkɩɣ kedeŋa kpeekpe, lɛɛlɛɛyɔ, patalɩ ɖɛ-tɛ cɩnɛ nɛ Yaasɔɔ mʋ-wɛ nɛ pɛwɛɛ ɛ-tɛ!","Bịa, bẹkwe bịa sọ. Na bẹkwe ndị a abalị a na bẹ. Na bọhọ mme. Na bọhọ unu wee detunye ndị na-ajụlụ, na bọhọ lụ uzo. Ihe a abalị a bụ akụkọ gbasara ekpere. Lelee bata adịghị gị na ị ga-asọ mụọ na bẹ",1.375,0.7107
+610,"Pʋ-yɔɔ lɛ, ɩtaaha nɔɔyʋ waɖɛ se ɛkpɛzɩnɩ-mɩ mbʋ́ ɩtɔkɩ yaa ɩñɔʋ yɔ pʋ-yɔɔ yaa mbʋ́ pʋwɛɛ se ɩla kazandʋ natʋyʋ wiye yaa ɩla alɩwaatʋ ndʋ́ fenaɣ kɩfalaɣ lɩɣ yɔ yaa kɩyakʋ kɩhɛzʋʋ wiye yɔ pʋ-yɔɔ.",bụ ya. Ịda aha na ọ bụ ụwarịsị ekwesịrị m ịbụ ọdọkị. Ya bụ onye ọ bụla bụ ya. Ya bụkwa na ọ ga-alakwuru ndị fụrụ ya na ọ ga-afụrụ ndị fụrụ ya. Ya ka akụkụ ụwa ya bụ,1.1143,0.7533
+611,"Ɩɖaŋ kpam nɛ yee nabɛyɛ ɩpɔzɩ-mɩ se pɩlabɩ ɛzɩma nɛ ɩtaɣ-ɩ liu lɛ, icosi-wɛ nɛ nɔɔ kɩbaŋga nɛ ñamtʋ.",Na yee na be ebosu nti na ebeese me na eto elula. Ojosua na oge banga na nyam,1.0,0.6753
+612,"Lɛlaa ñɛwɛ ɛzɩ tɛtʋ kɩbandʋ ndʋ́ tɩ-taa pee tɔlaa nɛ añɔ nɛ pɩpaɣlɩ tɩŋ nɛ ɩlʋlɩ pee yɔ: lɛɛkʋ lʋlɩ pee niidozo, lɛɛkʋ nɩɩnʋwa nɛ hiu nɛ lɛɛkʋ mɩnʋʋ.","Lala nyáwɛ́ zɛ́, tɛ́tu gba ndu ndu dídá, pɛ́dɔ́ lá nɛ́ anyɔ́ nɛ́ pɛ́bɔ́ lédín nɛ́ olulu bɛ́ yɔ́. Lɛ́kúlú bɛ́ n'idozu, lɛ́kú nɛ́ n'unu hiu nɛ́ lɛ́kú mɛnɛ́",0.8276,0.5086
+613,Po-tomnasɩ wɛɣ tɛtʋ sɔsɔtʋ ndʋ́ pamaɣzɩnɩ Sodom nɛ Ejiptɩ nɛ payaa-tʋ ḿbʋ́ yɔ tɩ-habɛɛ yɔɔ.,"Ebe mụ wa detụrụzịrị ndụ pamaazị n'ụlọ ọgwụ n'Ijipt, ebe a adịghị mbuọ, taa abụọ.",1.0,0.7042
+614,"Weyi ɛwɛnɩ lidaʋ ɛ-yɔɔ yɔ, peɖeziɣ-i Ɛsɔ ɛsɩndaa mbʋ́ pɩtɩŋa pɩ-taa Mooyiizi paɣtʋ ñaapɩzɩɣ tiɖezi-i yɔ.",wee wee di na oyoyo. Terezi wee osisi nda. Mgbè obula m ga-abèà m wee sàbààtù. Ya bu zi Terezi.,1.25,0.6951
+615,Peeɖe Yesu hɔm kʋdɔndʋ ɛnʋ nɛ ɛla nɛ ɛ-yɔɔ cɛ nɛ eheyi-i se: «Wolo ŋɖɛɛ.,E yɛɛ suhummudɔndɔn na ɛla na ɛyɛ ochɛ na ɛhɛɛ iweze,0.9333,0.5849
+616,Đɩnɩwa se ɛyáa nabɛyɛ lɩnɩ ɖɛ-tɛ nɛ pɔkɔɔ mɩ-tɛ nɛ peliɣti-mɩ nɛ pɛkpɛzɩ mɩ-kalɩzasɩ nɛ pɔ-tɔm.,"N'ihe m si ya na belu nlele, na biko omide, belu itimi, na bekwaazi m ka ha zaa si na bodom.",1.3125,0.6622
+617,"Ɛ́lɛ́ wayɩ lɛ, Galilee tʋ weyi payaɣ se Yudaasɩ yɔ, ɛhɔ ɛyáa samaɣ nakɛyɛ kɩkalʋʋ alɩwaatʋ taa nɛ katɩŋɩɣ ɛ-wayɩ.",E le wa ila. Kalilu dupe yosiu dasio. Eho ya zamonake ki galu aluatu da. Nega tinio ewa,1.0,0.5909
+618,"Toovenim lɛ, Yeruusalɛm ñɩma nɛ pa-awiya, pekizi Yesu nɛ pɩkpɛndɩnɩ náyaa tɔm ndʋ́ pakalaɣ paa kɩyakʋ kɩhɛzʋʋ ŋgʋ́ yɔ.",Tụfukwa kwa nu na ọ bụ ya mere na Chineke ji kee nwoke na nwanyị ka ha na-adị mma.,1.0,0.7766
+619,"Alɩwaatʋ ńdʋ́ tɩ-yɔɔ lɛ, ɛyáa kpeɣli sakɩyɛ nɛ pɛfɛyɩɣ ɖama naŋgbanzɩ yɔɔ.","Aloo a tunye di ya ole? E ya agba elu ga ma ofe, na be fa yurum na ngwa nzu.",1.6667,0.6441
+620,"Đɔɖɔ lɛ, ɛyáa mbá pa-wayɩ wɛ aleewaa yɔ, polosuu Yesu lɛ, aleewaa tuyuu-wɛ nɛ powoki poluŋuu ɛ-tɛɛ nɛ pamakɩ kubusi se: «Ña lɛ Ɛsɔ Pɩyalʋ.","Toro le, eyamba pawa iwe alu ayo, olosu yesule alu akiwele, okibulu nwo ebe, lebama ku kubu sisi.",1.0,0.5714
+621,"Ɛlɛ́, pakpaɣ-tʋ se tɩkɛ kɩmɛlɛndʋ tɔm nɛ petetisi-tʋ.","Paa kpaa doosɛdɛkɛ kɛ mɛlɛntu dɔm, mɛ fɛɛ di disu",1.25,0.5854
+622,"Đoo tɩyuwa lɛ, taabalaa heyi Pɔɔlɩ nɛ Silaasɩ se pɛɖɛɛ Beree tɛtʋ taa.","Taba lahi polensi la seze, pere bere deteda.",1.0,0.5714
+623,"Ɛlɛ́, nɔɔ ŋ́gá keheyi-m se: «Pʋwɛɛ se ŋɖaɣnɩ susuu samaɣ ndɩ ndɩ nɛ ajɛya sakɩyɛ nɛ kʋnʋmɩŋ sakɩyɛ nɛ awiya sakɩyɛ pɔ-tɔm ndʋ́ Ɛsɔ kɔŋ-ŋ heyuu yɔ.",,,
+624,"Yaa abalʋ yɔɔ lɛ, Ɛsɔ sɩ halʋ weyi ɛ́lɛ́ fɛyɩnɩ lidaʋ Krɩstʋ yɔɔ yɔ nɛ hɔɔlʋʋ se ɛkɛ ɛ-ñɩnʋ ɖɔɖɔ.","Ya abali ọla, ọ sị ha lụọ ya, ha lefanye na lịda okwukwe ha na-ahụ n'ọlụ ụzọ. Eke enye ndụ",1.0,0.7123
+625,"Yesu Krɩstʋ weyi ɛkɛ aseɣɖe tʋ weyi ɛlakɩ mbʋ́ ɛɖʋwa se ɛlakɩ yɔ, ɛlabɩ-mɩ ḿbʋ́ ɖɔɖɔ.","Yesu Kristu we a ga si o rụrụ, we a laa kụmbọ ọrụ zelaa keyọ, a laa mmụọ mbụrụ.",1.125,0.6
+626,"Ɖɔɖɔ lɛ, ɖɩnawa se alɩwaatʋ tʋnɛ tɩ-taa e-koyindinaa sakɩyɛ lɩwa.","Tena zalwatu duniyadali, ogu indinaza ka ilwa",1.0,0.6154
+627,Pʋdʋ ñɩlɩsaɣ pelu pelu ɛzɩ ñɩɣlɩ́m pɩyɛ nɖɩ́ ɖɩwɛ maɖʋ maɖʋ nɛ ɖɩwɛɛ kpʋzʋyɛɛ yɔ.,"Wodé yinin zaa beli beli ze, nyuulim biɛndir waa maromaro. Nɛrweeb puzii",1.0,0.7031
+628,"Ɛ-tɔmkpɛlɩkɩyaa na ḿbʋ́ lɛ, pɩɖɩɣzɩ-wɛ nɛ pɔpɔzɩ-ɩ se: «Ɛzɩma hiyuú ŋ́gʋ́ kɩwɩlɩ kpaagbaa ḿbʋ́?","Eziokwu a, ya bụ eziokwu. Ezi ma ahụ ihe ụmụaka na-ekwu n'ọnụ.",1.0,0.8451
+629,Peeɖe Pɔɔlɩ tɩlɩwa etii nɛ eluŋ ɛ-yɔɔ nɛ ɛkpaɣ-ɩ e-nesi taa nɛ ɛtɔ se: «Sɔɔndʋ ɛtaakpa-mɩ: ɛ nɛ ɛ-ɛsɛ!,"Epolu di lu etiti na elu ngyo, na ekpo ya na sida na etozi. So ndi e da kpa m. Ena ese",1.1579,0.5867
+630,Pɔɔlɩ katɩ Yeruusalɛm Krɩstʋ ŋgbɛyɛ taa sɔsaa.,,,
+631,Mɩ-maɣmaɣ ɩtɛm naʋ se kʋñɔmɩŋ ɩnʋ Ɛsɔ ɖʋwa se pɩtɛmnɩ-ɖʋ.,"Mụ mama, edem na-ose, ọnụ ọsọrọ wụ ase, wetem na",1.0,0.6
+632,"Ɛnaɣ-kɛ lɛ, ɛyaɣ ɛ-ɛgbaɣdɩnaa nɛ ɛ-cɔlɔ ñɩma se: ‹Ɩkɔɔ ma nɛ mɩ ɖɩmayɩ amaya.","na-agela. Ebe a egbawadighi na ya, ejighi ya meziri. E ka omana mmiri me ya me",1.1429,0.7895
+633,"Yesu talɩ ḿbʋ́ lɛ, ɛsʋʋ Ɛsɔ ɖɩɣa kadaɣ taa nɛ ɛɖɔɔnɩ pɛdɩyaa nɛ yaɖaa patɩŋa payɩ.",Yesu da lambo la.,0.9375,0.8438
+634,Paaya Yesu nɛ ɛ-tɔmkpɛlɩkɩyaa kazandʋ ńdʋ́ ti-ɖeɖe.,Bịa yeesu na-adọm gbelekị ya ga san dundu diriri.,1.2857,0.561
+635,Ŋ́gʋ́ wɩlɩɣnɩ ɖɔɖɔ se ɛhaɣ-ɖʋ ñɩm mbʋ́ ɛɛñɔɔzaa se ɛcɛlɩɣ-ɖʋ puwiye nɖɩ́ eholuu mbá ehiɣa se pasa e-koboyaɣ yɔ.,Aha rọ ya bụ Enyịọsị ejelu rukwuo ya ndị oholu mbe ihu ha zị pasa egwu yọ.,0.9474,0.7294
+636,E-ɖoŋ weyi ɛwakɩnɩ pɩtɩŋa payɩ yɔ ɛlakɩnɩ ḿbʋ́.,kuruŋgwi awakanifatangafayo alakana mbo,1.0,0.6216
+637,"Ka-taa nɔɔyʋ taatɛɖɩɣ pʋyʋ: mbá patɩŋa paawɛnɩ hayɩm yaa kuduyiŋ yɔ, pɛpɛdaɣ nɛ powokini pi-liidiye pɛcɛlɩɣ tiyiyaa nɛ paba maɣzɩɣnɩ mbʋ́ pɩtɛɖɩɣ paa weyi yɔ nɛ patayɩɣ.","tada noo ida terebe. Mba ba dinga baa we na hayim ya gudun yo, bebe daa unu bu okene bili di ya, pechele di ya. Pa ma ozo unu bu derebe a we yo, na bata ya.",1.3333,0.5985
+638,"Etisiɣ pɩtɩŋa payɩ, ɛwɛnɩ lidaʋ pɩtɩŋa pɩ-taa, ɛtaɣ liu se pɩtɩŋa payɩ pʋkɔŋ labʋ, ɛɖɔkʋʋ ɛ-tɩ pɩtɩŋa pɩ-taa.",E di suwa di nga pay. A wuni di ta wa di nga pata. E da lu su di nga pu kwan labo. O roko ede di nga pata.,1.6111,0.6588
+639,"Ɛcaɣ peeɖe alɩwaatʋ cabɩ lɛ, ɛkʋyɩ ɛtɩŋnɩ Galaasii nɛ Frijii pa-ageeta taa nɛ eyele nɛ a-taa Krɩstʋ wayɩ tɩŋɩyaa tɩŋa kpa ɖoŋ pe-lidaʋ wɛnaʋ taa.",Aja be alwati chabe le. Akwa iting na galasi ni firiji ba ge ti da. Na iye le na ada kire so waye di ya di kparu bili da wanna uda.,1.24,0.5431
+640,"Haɖɛ nɖɩ́ pahaɣ se pasɩnɩ Ɛsɔ ñɩma yɔ ɖɩ-tɔm taa lɛ, mɩ ɖɔɖɔ ɩla ɛzɩ meheyuu Yesu aŋgba taa ñɩma mbá pɛwɛ Galaasii yɔ.","Aharan da ba haza, basu san osanyi ma ya to dam daale. Mero elezi me hewu Yesu agbada anyi ma, mbe bo gala si",0.9583,0.5385
+641,Ana lɛ ñɔsɩ hɔkʋʋ nɛ sika nɩŋgbacaɣlɩnaa nɛ sika lɩtʋ pɛ-lɛʋ nɛ wondu kɩbandʋ suu.,Ana alụ ṅụsọ akwụkwọ na ezikana ngbachala na ezikana litubeleụ na ụndu gị ba ndụsụ,0.9333,0.5909
+642,Yesu tasɩ yɔɔdʋʋ ɖɔɖɔ se: «Ɛbɛ mɛnkɛdɩɣnɩ Ɛsɔ Kewiyaɣ lee?,Yesu da si odo roro ze. Ebe me ge du ne so ge wi ale.,1.4,0.587
+643,Nabɛyɛ kizi sɔɔlɩm tɔm ńdʋ́ nɛ pɛ-ɛsɛ sɛɛnɩ tɔm ndʋ́ tɩɩwazɩɣ pʋyʋ kpem yɔ tɩ-yɔɔdʋʋ.,,,
+644,Yesu wɩlɩ ɛ-tɩ Tiberiyaadɩ teŋgu nɔɔ.,Yɛ dɔm du Johannes mawa yɔ. Nyung nɛn nɛ gurmu,1.6667,1.0333
+645,"Ɛtɛŋ-kɛ ɖúú lɛ, ɛwɛɛ yem nɛ kɔñɔ nɛ kapaɣlɩɣ.","Adan ga rule e, ewee im na kwo nyonu ga bole.",1.2222,0.8235
+646,"» Ɛlɛ́, Yesu tuu-wɛ eduuye se: «Yee mɩ-taa nɔɔyʋ ɛwɛnɩ heŋ mɩnʋʋ nɛ ɩ-taa kʋɖʋm le, eeyeki kʋɖʋm fɛyɩ mɩnʋʋ weyi ɩkazaa yɔ ñɩtʋ ɖɩtɔɔyɛ nɛ ɛɖɛɛ heu ɛnʋ ɛ-ñɩnʋʋ nɛ pʋkɔɔ pɩsɩɩnɩ alɩwaatʋ ndʋ́ ɛna-ɩ yɔ yaa we?",Yeesu tuu u du ise. Ye mda no ewe na hi munu na e da gurum le. E ye ka gurum fa munu we e gazia onye turu do ya na ere hiwu enu enyi na unu. Puku obi si na luo atu ndu e na eyo ya.,1.2368,0.6154
+647,Sɔnzɩ ńzɩ́ sɩpɔzʋʋ se pasaŋ camɩyɛ nɛ pʋcɔ pɔtɔɔ.,"Sɔn zinzinsu bazuzi, pasan dame nu bu cobo",1.0,0.6154
+648,Peeɖe manawa se pɩkɛnɩ-m kɩcɛyʋʋ se mama-mɩ kanɛ nɛ pɩlabɩ-mɩ hʋnʋm nɛ ɩlʋ lidaʋ yɔɔ.,,,
+649,"Pʋ-yɔɔ lɛ, weyi ɛyɔɔdʋʋ kʋnʋmɩŋ ndɩ ndɩ yɔ, pʋwɛɛ se ɛsɛɛ Ɛsɔ se ɛlabɩ-ɩ kʋjɔʋ ŋgʋ́ ɛɛlɩzɩnɩ ɩ-tɔbɩŋ yɔ.","O ya. O ya, o dogonem ndende ya. O wee sị, ""Esé, nsogbu adịghị. M ga-enyere gị aka.""",1.0,0.7848
+650,Mɩ ɛlɩzɩ cɩkpɛndʋʋ taa nɛ ewoni ɛ-ñalɩmɩyɛ nɖɩ́ ɖɩkɩlɩ pɩtɩŋa payɩ yɔ ɖɩ-taa se isusi ɛ-tʋma sɔsɔna tɔm.,"Mee yaa na-esichikwado nri a na ewu na-enyara m ndidi, gị lebido ya nke ọma ka ọ sụzị ọdụ ma ọ sọọ nọdụ.",1.2778,0.8293
+651,Manawa se mɩ nɛ Krɩstʋ mɩ-kpɛndʋʋ yeki nɛ ɩkpa ɖoŋ nɛ ɛ-sɔɔlɩm ñeyele nɛ pɩlabɩ-mɩ hʋnʋm.,Maanawu zamin Kristo megbe ndu yeke na ekpatong na osali myele na palamero,1.0,0.5286
+652,"Piyele abalʋ weyi ña ŋwɛnɩ lidaʋ Krɩstʋ yɔɔ yɔ, ñalabɩ ɛzɩma ŋtɩlɩ se ŋpɩzɩɣ ŋya ña-halʋ ñʋʋ?","P.L. Abalu enya, nwelu ndụ Kraist ọhụrụ. Ya laba ezumike na ndụrize. Mpezụ onye anya hụrụ",1.0,0.7027
+653,"Mbʋ́ pʋyɔɔ yɔ, Kɩpaɣlʋ tɔm lɩnɩ mɩ-tɛ nɛ tɩcɔʋ ageeta ana a-taa.",Kpaa alidom leneme denetu ciao aketa ana ada,0.9167,0.625
+654,"Faarɛɛzɩ ñalʋlɩ Ɛsrɔm, Ɛsrɔm ñalʋlɩ Aram, Aram ñalʋlɩ Aminaadaabɩ, Aminaadaabɩ ñalʋlɩ Naasɔɔnɩ, Naasɔɔnɩ ñalʋlɩ Salɩmɔɔ, Salɩmɔɔ ñalʋlɩ Boozi.","Farès nyá lú le Ephron, Ephron nyá lú le Aram, Aram nyá lú le Aminadab, Aminadab nyá lú le Naasson, Naasson nyá lú le Salmon, Salmon nyá lú le Booz.",1.5556,0.4874
+655,Peeɖe paba kpizi-wɛ pa-naŋgbanzɩ taa mʋzʋʋ nɛ pɩwɩlɩ se peyebi-wɛ nɛ pa-sʋʋtʋ.,"Pé babou kpé banang banza damozo, né pawolwézé pébou wé napasot.",1.0,0.5968
+656,"Yee ɖɩlakɩ ḿbʋ́ yɔ, pɩwɩlɩɣ-ɖʋ se ɖɩkɛ toovenim tɩnaa.",የኤርላክም ቦዮ ፖሎ ሮዘርጌ ደቡንም,1.0,1.0
+657,Itendi-i ɖɔɖɔ ɖɔ-yɔɔ nɛ ɛha-ɖʋ nʋmɔʋ nɛ ɖisusi ɛ-tɔm nɛ ɖɩpɩzɩ ɖɩlɩzɩ Krɩstʋ tɔm ndʋ́ tɩwɛ ɛyáa tɩŋa mɛsaɣ tɛɛ yɔ tɩ-tɔbʋʋ.,na eharu unu m'onu tusu si dom na tebeserele si kristu dom doto a ya di nga me so de ya,1.0,0.7368
+658,"Pacaɣ Antɩyɔɔsɩ kɩyakɩŋ cabɩ lɛ, Pɔɔlɩ heyi Barnaabaasɩ se papɩsɩ taabalaa cɔlɔ tɛtʋ ndʋ́ tɩtɩŋa tɩ-taa paasusi Kɩpaɣlʋ tɔm yɔ nɛ pana se pɩsɩnɩ le.","Ya antu ya si ka kincabe le. Paul he barnaba si ze, papsi ta bala joro tetu ndu, te den da pa suzu gba olu dom yo, ne pa na zi pezin le.",1.28,0.5083
+659,"Toovenim lɛ, yee paakɛ ɖa-ñɩma yɔ, paawɛ ɖɛ-hɛkʋ taa.",도움이 될 거예요.,1.0,1.0
+660,"Paa pɔ-tɔm ɛɛwɛ kaɖɛ yɔ, ɛɛcɔnɩ pɔ-yɔɔ lakʋ taa nɛ pɩtalɩ ɛzɩ pɩnzɩ nɩɩnaza yɔ.",pa badom ewa karaya. Ekyonopayo lakoda napetalese penseni nase,1.0,0.6066
+661,"Đɔɖɔ lɛ, lɛɛlɛɛyɔ paɖʋ-m salaka Krɩstʋ Yesu yɔɔ.","Toro le, lele parumsala ka Klisto Yesu.",0.875,0.5
+662,"Ɩtaayele nɛ mbá pawaɣnɩ se poluzuu pa-tɩ nɛ poluŋuu Ɛsɔ tiyiyaa tɛɛ yɔ, pa-taa nɔɔyʋ kʋ mɩ-tɔm.",a daa iyele na mpapa wa na so polisii ụba de na polungụ ọ sọti ya adaghị yọ. Fada anọghị ya kọmụdọ.,1.2941,0.5541
+663,Đɩha ɛsɛ nɛ hadɛ kiŋ wɩsɩ ɖɩɖʋyɛ nɛ hayo kiŋ wɩsɩ ɖɩɖʋyɛ pɔ-hɔɔlʋʋ taa.,na haade kɩŋ wɩsɩ rɩyɛ na haayɩ kɩŋ wɩsɩ rɩyɛ bɔhɔlʊʊ,0.8571,0.4821
+664,"Tɔm ndʋ́ náyʋ Yowɛɛlɩ kɔyɔɔdaa yɔ, ńdʋ́ lakɩnɩ lɛɛlɛɛyɔ yɔ.","Tụm dulo yọ dụ yụ welụ kọ yọ d'ayọ, dula kị nlele yọ.",1.3,0.6087
+665,"Lɛɛlɛɛyɔ, mbʋ́ mancalɩɣ ɛyáa heyuu yɔ lɛ se: pɛsɛɛ Ɛsɔ nɛ petendi-i nɛ pasam-ɩ ɛyáa kpeekpe yɔɔ.","Lélé yɔ, mbu ma njalo yaya héwú yɔ l'ésé, pɛsɛ sɔ na pɛ tɛndi na pasa mɛ y'agbɛkpɛ yɔ.",1.0588,0.4189
+666,Meheyiɣ-mɩ se ɖa-taa halaa nabɛyɛ yeba nɛ pɩɖɩɣzɩ-ɖʋ pɩŋŋ.,Ezinye da kigko wanye Jerusalem na nta ne mbo,1.0,0.8261
+667,Ɛya-mɩ se pɩtɩŋnɩ Krɩstʋ yɔɔ nɛ ɩcaɣ wezuu ɛzɩ pɩkɛdɩnaʋ-ɩ yɔ.,Mɛ sɔpɛtɛ nɛ Kristo yɔ nɛ ekya wɛ wɛzu pɛkɛdɛɛ ʊna yɔ.,0.9091,0.551
+668,Peeɖe Yeruusalɛm ñɩma tɩŋa nɛ Yudee egeetiye taa hɔɔlɩŋ tɩŋa taa ñɩma powokaɣ ɛ-cɔlɔ nɛ paa weyi ɛyɔɔdʋʋ ɛ-kɩwɛɛkɩm mbʋ́ ɛlaba yɔ nɛ ɛlakɩ-wɛ lɩm sɔʋ sɔnzɩ Yɔɔrdaŋ pɔɔ taa.,"Peere Yerusalem nyịma tị nga, na Yuda ege tị daa hụọlị tị nga daa nyịma, pụọ kọ ejọlọ, na mba wị eyọdụ ege we kemụ mgbọ elaba ya, na ela kọ elịm zọọzọ nze ka yọ dọọnụ pụọ daa.",1.3,0.5797
+669,» Ɛnɛ se: «Kɩpaɣlʋ!,Kabalo,1.0,0.75
+670,Yesu kowobi Betaanii tɛtʋ cikpetu taa nɛ ɛsʋʋ Siimɔɔ weyi ɛɛkɛ canaɣ yɔ ɛ-ɖɩɣa taa.,"Yesu kɔbɛ taa nɛ tɔtuu kipeluu daa. Nɛ esu simaa o, eye kaja na o yaa ra",1.0,0.5373
+671,"Đooo mbá mɩ ɩtaakɛ liɖe kʋɖʋmɖɩyɛ taa ñɩma yɔ, lɛɛlɛɛyɔ, ɩpɩsɩ ɛ-ñɩma.",,,
+672,Pʋwɛɛ se Fezuu Kiɖeɖeu kʋjɔŋ ɩwazɩ Krɩstʋ ñɩma tɩŋa.,ka ya ka jalanyi nga nga pol ma korinti nyi mayo nyu hi une na,1.6667,1.0233
+673,"Ɛtalaa lɛ, ɛɖɔŋnɩ sɩŋʋʋ sɩŋʋʋ nɛ ɛkɛdɩɣ Ɛsɔtɔm sakɩyɛ nɛ pɩlakɩ ɛyáa hʋnʋm.",,,
+674,Pʋ-yɔɔ ɛkaɖɩ kpayɩ se: «Lazaarɩ sɩba.,Tiyɔɔ garpaaze.,1.0,0.7143
+675,"» Pʋ-yɔɔ pɛtɛzaɣ-ɩ welesinaʋ, mbʋ́ pʋyɔɔ yɔ, ɛwɛɛ ɛlakɩ hama lakasɩ nɛ pɩɖɩɣzɩɣ-wɛ nɛ sɩ.",,,
+676,"Pɔkɔŋ pɛtɛ pa-aseɣɖe lɩzʋʋ lɛ, kpɩnɛ nɖɩ́ ɖɩlɩɣnɩ asayʋʋ pɔʋ taa yɔ, ɖiyooni-wɛ nɛ ɖɩwabɩ-wɛ nɛ ɖɩkʋ-wɛ pasɩ.",Ọgọọ m bụ onye na-asụ Igbo nke ọma. Ụmụ nne m ndị ọzọ na-asụ ya bụ ụdị ayọ. Ihe ị na-enweghị ike ịghọta bụ na ọ bụrụ na ị tupu onye na-asụ,1.7778,1.0119
+677,Yesu talɩ Yeruusalɛm tɛtʋ taa.,Mawayo. Nyung ne negurumu.,1.0,0.88
+678,"Kɩyakʋ sɩŋaa lɛ, Yesu tɔmkpɛlɩkɩyaa ɖaɣnɩ kpeɣluu kuduyuu ŋ́gʋ́ kɩ-tɛɛ.","Kujukkan ka karana ye sudham balakiya, wo bepali guju nakoide.",1.0,0.7544
+679,"Mbʋ́ pʋyɔɔ yɔ, man-pɩyalʋ ɛnɛ, pʋwɛ ɛzɩ ɛsɩba nɛ efe yɔ.","Mbi yɔɔ, mpi alu nɛ kɔzɛɛ kɛzɛba nɛ efii",0.9091,0.5122
+680,"Pʋkɔma pileɖi nɛ paanɩɣ natʋyʋ lɛ, peyele pɔtɔŋ se abalʋ ɛnʋ ɛkɛ ɛsɔ nɔɔyʋ kpem.","Pukompi lerinɛ, panɛ onati olɛ. Pɛlɛ batongu se, abalɛ onogɛ sɔnɔ ikpe",0.9333,0.4688
+681,Pɩlabɩ ɛzɩma nɛ ŋwɛɛ ma-wayɩ kaŋ kaŋ nɛ ŋɖʋʋ ña-tɩ kʋñɔŋ nɛ ña-nɩŋgbaaŋ ɖoŋ ḿbʋ́?,"Labaezim na nwa m nwanyi kankankan na ndu ya di kwanu nne, ya na mgbangdu m.",1.0667,0.6452
+682,Ɛsɔ tiyiyaa lʋbɛ nɛ kɛtɛzaɣ kʋñɔmɩŋ pɔ-tɔm.,"Kɛ́ yɔ́ ngá yó Johannes mawa yɔ́, nyúŋ hṹ unyúŋ gbaá",1.5714,0.9714
+683,"Pamawa se Ɛsɔ heyi ɛ-Pɩyalʋ se: «Na, mancalɩɣ men-tiyiyu tiyuu.","Maa wazɛ, eso hɛɛ ebeyaluzi.",1.0,0.75
+684,"Taabalaa, ɩcɔnɩ ɩna mbʋ́ ɩɩkɛwa nɛ pʋcɔ Ɛsɔ yaa-mɩ yɔ.",Taba la. O cho na na mbo ekawa ni buche ose ya,1.2,0.561
+685,Ḿbá yɔ: Yuda ñɩma cɔjɔnaa sɔsaa nɛ pɛ-ŋgbɛyɛ taa sɔsaa nɛ pa-paɣtʋ wɩlɩyaa.,"Mba ya, yuda anyi mma jọjọ na asụsa, na be ebe da asụsa na be ba tọlịa.",1.1538,0.5424
+686,"» Ɛ́lɛ́ nɩ ḿbʋ́ lɛ, ewolo eheyi pa-ñʋʋdʋ sɔsɔ se: «Abalʋ ɛnʋ ɛkɛ Room tʋ!","na mụ nụzị ihe a adịghị mma, m bụrụkwa onye na-adịghị anụ ihe ọ bụla. A na m ya asị dam m, gịnị ka ọ bụ?",1.8571,1.28
+687,Peeɖe pasɩnzɩ-ɩ ɛyáa hɛkʋ taa nɛ peheyi Yesu se: «Wɩlɩyʋ!,"Wè, vázìn zà yè kòdá, né b'é wù Yésúsè.",1.0,0.8182
+688,Ɛɛkɛ Yuda tʋ nɛ ɛkpakɩɣ ɛ-tɩ se ɛkɛ náyʋ.,E ka yọ ụnụ adị. Ụnụ akwụkọ dịzị? Ụnụ alọọ,1.1111,0.871
+689,"Esu toko sɔsɔʋ kʋhʋlʋmʋʋ nakʋyʋ waaa, ɛlɛ́ sɔɔndʋ kpa-wɛ.","Etu koso so gboho lumuna kwiwa, eleso ndu",1.0,0.6
+690,"Đɔɖɔ lɛ, weyi ɛyɔɔdʋʋ kʋnʋmɩŋ ndɩ ndɩ yɔ, pɩsɩŋnɩ-ɩ nɛ ɛ-maɣmaɣ ɛpɩɩ Ɛsɔ nʋmɔʋ taa.",toro la. We wey odogwu na mang dende o. He get emama e be osanobua.,1.0,0.7344
+691,"Pɩtacazɩ pɔzʋʋ se ɖɩma alɩwaatʋ ndʋ́ yaa wɛtʋ ndʋ́ tɩ-taa pʋkɔŋ labʋ ḿbʋ́ yɔ, pʋ-tɔm nɛ ɖiheyi-mɩ.",kedu ka ọbụrụ na Septemba a na-ewetụ ndụ ya wetụ ndụ na daabụkwaa na bụ mbụ ya bụ ụdọm n'ihe banyere,1.2353,0.7027
+692,"Yee nɔɔyʋ ɛfɛyɩ mɩ-hɛkʋ taa peeɖe se ɛɖɛzɩɣ yɔ, pʋwɛɛ se pɛtɛzɩ sum.","E no efe yeme koda? Ezi ezi uyo. Pues, pete",1.0,0.717
+693,"Piyele mbá patɩŋa payɩ pamʋ-ɩ nɛ pɛwɛnɩ lidaʋ ɛ-yɔɔ yɔ, ɛha-wɛ ɖoŋ se papɩsɩ Ɛsɔ piya.","Yɛlɛnba badɛngɛ payɛ pamui nɛbɛ wɛni didawɔyɔ, ha wɛɛ dunsɛ babɛ sɔsɔbiɛ.",1.0,0.5303
+694,Ñʋʋ ŋ́gʋ́ kiyekina nɛ hola nɛ ɖɩtanɛ pɛkpɛndɩ ɖama nɛ papaɣlɩ ɛzɩ Ɛsɔ liu wɛʋ yɔ.,Nguyɛ kɛnɛ holan arida na pɔkpan drama na pɔpɔlɛzi osoliwawɛ,1.0,0.5079
+695,"Alɩwaatʋ ndʋ́ Pɔɔlɩ wɛ Efɛɛzɩ tɛtʋ taa ḿbʋ́ yɔ, pɩɩkɔnɩ ñaɖʋʋ sɔsɔʋ nakʋyʋ Kɩpaɣlʋ wayɩ tɩŋʋʋ nʋmɔʋ yɔɔ.",,,
+696,"Mɛwɛ nʋmɔʋ ŋ́gʋ́ kɩ-taa nɛ pʋkɔɔ ɛzɩ wɩsɩ siɣu yɔ lɛ, mana ñalɩmɩyɛ naɖɩyɛ lɩnɩ ɛsɔdaa yem nɛ ɖɩñalɩ ma nɛ man-taabalaa ɖɔ-yɔɔ ñammm.","Ọ nọ mụ ngọgịta, anụbụkwa m ọsị wụ sịsị wụ ya ọrịa. Mana nyalụ m ị nara ịlị na ọsọda anya mmiri. Nịta nyalụ m anụ m ndị abalị arọ ya ọnya.",1.2917,0.6505
+697,"Papɩzɩɣ pakpa ɖʋmaa mbá pañasɩɣ ɛyáa nɛ pasɩkɩ yɔ nɛ pe-nesi nɛ pɔñɔɔ mbʋ́ pʋkʋʋ ɛyáa yɔ ɖɔɖɔ, ɛlɛ́, pɩɩlakɩ-wɛ pʋyʋ.","Aha ya bụ Akụkọ Maamịkpọ ya sọ ya na-bazi ka ya na Benisi na-bụrụkwa ụmụbụgọ ya ayọrọ. Ele, ịla ka ọ ga-abụ",1.0476,0.6667
+698,"Daaviidi lɛ, ɛɛlaba mbʋ́ Ɛsɔ liu wɛɛ siŋŋ yɔ ɛ-alɩwaatʋ taa nɛ ɛkɔɔ ɛsɩ nɛ pepim-i ɛ-cɔzɔnaa cɔlɔ nɛ ɛɖazɩ.",da vida ya. Elavanyo hotel wɛɛ sin yɔ alu atuda na okwɔɔ esi nepebi mi ojɔsɔ na ajɔlɔ.,0.9,0.5366
+699,"Pɩtalɩ kɩyakʋ kɩhɛzʋʋ lɛ, ɖɩlɩɩnɩ tɩ-taa nɛ ɖiwolo pɔɔ nɔɔ ɖenɖe ɖɩmaɣzaɣ se Yuda ñɩma Ɛsɔ ɖɩsɛyɛ naɖɩyɛ wɛɛ yɔ.",,,
+700,Ḿbʋ́ pɩtɩŋnɩ mbʋ́ pɩɩsɩkɩ kaʋ yɔ pʋ-yɔɔ nɛ ihiɣ wezuu.,Nambo beteng nambo besik kawe buya na ehu,1.0,0.7317
+701,Mɛnsɛ-mɩ: ɖa-Caa Ɛsɔ nɛ Kɩpaɣlʋ Yesu Krɩstʋ palabɩ-mɩ lootiye nɛ pɛhɛzɩ mɩ-laŋa.,Pɛɛsɛmɛ Pɛɛsɛmɛ pɛɛsɛmɛ pɛɛsɛmɛ,1.0,0.7619
+702,"Weyi ɛ́lɛ́ wɛnɩ ɛ-ɛsɛ nɛ ɛwɛnɩ lidaʋ mɔ-yɔɔ yɔ, ɛɛsɩkɩ kaʋ.",wee elee ya na esa na ewee na lida omume ọyọ. Eezi kịkka,1.1818,0.6744
+703,Ɛkɔnɩ-ɖʋ tɔm kɩbandʋ mi-lidaʋ wɛnaʋ nɛ mɩ-sɔɔlɩm nɛ ɛzɩma mbʋ́ ɩwɛɛ ɩtɔzʋʋ ɖɔ-yɔɔ camɩyɛ nɛ ɛzɩma mbʋ́ mi-liu wɛɛ kpem ɖɔɖɔ ɛzɩ ɖa yɔ se ɩtasɩ-ɖʋ naʋ yɔ pɔ-yɔɔ.,Na mụ so alụm na ịsị mụ bụ onye ọ ga-atọ sọrọ ya acham ya na ịsị mụ bụ mmiri onye ga-ekwe mụ doro sọrọ ya na etasiri mụ na uyo.,1.069,0.8033
+704,"Yesu nɛ e-tiyiyaa petibini pʋʋ yɔɔ lɛ, ewolo ɖɩɣa nɛ ɛyáa samaɣ tasɩ ɛ-wayɩ tɩŋʋʋ.","Yesu na-edị ya pedịbị na bu ya ole, ewelu duwa na, e ya asama odasi ewa ite ngwo.",1.1333,0.5312
+705,"Peeɖe mbá patɩŋa pɩɩwɛɛ se pehiɣ wezuu maatɛŋ yɔ, pɛwɛnɩ lidaʋ Yesu yɔɔ.","Mba, ebe a adighi ekpe ya ekpere. O bughi ya bu ihe eji etinye ya. O bu ya na-edowe ya n'esu ya.",1.6923,0.9483
+706,"Pɔɔlɩ kaawɛ Atɛɛnɩ nɛ ɛɖaŋ Silaasɩ nɛ Timootee lɛ, ɛna se agɔlɩma coka ɖeke suni tɩ-taa.","Pòl kàwà tènè rang sèlè sènè Timoté lé, ènèzè àgòlò mé jùkà ríkízù nètè da",1.0,0.6429
+707,Pañɩnɩɣ se pala mɔ-yɔɔ ɛsɩsɛmɩyɛ nɛ piyele mɛntɛzɩ labʋ kʋñɔŋ salaka taa.,Tayi nusa palama yɔ esese mi yɛ. Mɛ piale mɛntɛsɛla bɔ konyɔŋ sala ka,1.1667,0.3833
+708,Moluŋuu ɛ-tɛɛ ɛzɩ mbá payaɣ se ŋgbɛyɛ ɛzaɣ́ʋ taa ñɩma yɔ palakʋʋ yɔ.,"Mulungo edae, esin babbayosi, egbe esauyo palakuyo.",1.0,0.6792
+709,"Yee ɖɩnawa se ɖɩpɔzɩ-ɩ paa ɛbɛ ɛnɩɣnɩ-ɖʋ yɔ, ɖɩnaɣ ɖɔɖɔ se ɛhaɣ-ɖʋ mbʋ́ ɖɩpɔzʋʋ-ɩ yɔ.","Yɛ rɛ naze, to bɔzɛɛ baa bɛ nɔ ndu yɔ, jɛ nɔ roro zɛɛ hɔ rɔ mburu bɔzɔ yɔ.",1.1333,0.6406
+710,Ɛma ɖɔɖɔ tilimiye nɖɩ́ ɖɩ-yɔɔ pasɩŋɩɣ nɛ pefeŋiɣ yɔ.,Ɛmarɔ dilimiyɛndiriyo pazɛngau nɛ pɛfɛngu,0.8889,0.5854
+711,Ɛkpaɣ ɛ-maɣmaɣ ɛ-tɩ nɛ ɛhɛyɩ ɛyáa yɔɔ se puholi patɩŋa payɩ: ḿbʋ́ lɩzɩnɩ aseɣɖe alɩwaatʋ ndʋ́ Ɛsɔ ɖʋwa yɔ se Ɛsɔ ɛnʋ e-liu wɛɛ se ɛya ɛyáa tɩŋa payɩ ñʋʋ.,"amama edeni ehey eya o si, puho li bata nga pai. Mbulu zi na asi ire alu ato ndu oso tuwayo. Si oso nu elu uwa esi, eya eya ti nga pai nyu",1.1,0.5299
+712,"» Peeɖe ɛlɩzɩ-wɛ eduuye ńɖɩ́ ɖɩ-tɔbʋʋ se: «Abalʋ ɛnʋ, pʋwɛ ɛzɩ Ɛsɔtɔm ɛmɩzaa yɔ.",Père et le Fils et le Saint-Esprit. Amen. Abalụ nụ. Pọọzị ọ sọrọ m meere unu,1.2308,0.7797
+713,Ɛsɔ laŋhɛzɩyɛ tʋ maɣmaɣ eyele nɛ ɩtɛzɩ wɛʋ cɩɖɩcɩɖɩ.,A sɔlɔ̃ nɛsɛtɛ mama i yɛlɛ na etɛsɛ wɛ wuchiɛrɛ,1.1111,0.6047
+714,"Weyi esusuu tɔm ndʋ́ tɩlɩnɩ Ɛsɔ cɔlɔ yɔ, Yesu ŋgbɛyɛ taa ñɩma ɛ́lɛ́ yeki se papɩɩ Ɛsɔ nʋmɔʋ taa.","Yesu agbada anyi ma elie ya, etu papa ya oso nu mu da.",1.0,0.7671
+715,Pʋwɛɛ se ɛ-maɣmaɣ ɛpɩzɩ ɛcɔnɩ ɛ-hɔʋ taa ñɩma yɔɔ camɩyɛ nɛ ɛkpɛlɩkɩ e-piya nɛ siluzi sɩ-tɩ ɛ-tɛɛ nɛ sɩñam-ɩ ɖeu siŋŋ.,"Wɛɛzɛ emamɔ ɛbɛzɛ Ɔchɔnɔ Ɔhɔudanu yimɛ ya jam ya, na ɛgbɛli kɛ ɛbi yɛ na sulu ziside ɛdɛ na si nyam idewu si",1.0952,0.5556
+716,Pʋ-yɔɔ pɛcɛyaɣ pa-tɩ se patɩlɩ alɩwaatʋ ndʋ́ pʋkɔŋ labʋ yɔ nɛ ɛzɩma mbʋ́ pɩlakɩ yɔ.,"Puyɔ pɛjɛɛ patɩ, sɩpatɩlɩ alɩwaatɩ ntʊ pʊkɔŋ labʊ yɔ, nɛ ɛsɩma mbʊ pʊlakɩ.",0.8,0.2656
+717,"Mbʋ́ pʋyɔɔ yɔ, ɛfɛyɩnɩ lidaʋ ɛ-yɔɔ, ŋgʋ́ ɛnʋ lɛ ɛ-Pɩyalʋ ɛgbamɩyɛ.","Efe ni li da wo eyọ, ngụ ẹnụlẹ ebi alọ ogwami",1.0,0.7143
+718,» Pocosi-i se: «Ɛzɩ ŋtanɩɩ mbʋ́ pɩlabɩ Nazarɛɛtɩ tʋ Yesu yɔ?,Onye isi. Ezinne nne m bu Lolo Lilian Azuka Nnaji.,1.0,0.7955
+719,"Ŋgʋ́, alɩwaatʋ ńdʋ́ tɩ-taa lɛ, Abraham taawɛnɩ pɩɣa.",Abraham,0.875,0.8205
+720,Mɩ-taa ɛwɛɛ ɖeu nɛ fɛyɛ kpa mbá pakʋyʋʋ mɩ-yɔɔ nɛ pɛwɛɛkɩɣ mɩ-hɩla se mɩ nɛ Krɩstʋ ɩkpɛndaa yɔ.,"Mba, ewe di. Mpepa mpa pagọ ya ụmụ ya. Mpepa ka o mee hira. Si mụ na Kristi wee gba ndụ.",1.1667,0.6622
+721,Ḿbʋ́ ɖɩtɩlɩɣnɩ se toovenim Fezuu wɛnɩ nɔɔyʋ cɔlɔ yaa cɛtɩm ñɩŋgʋ wɛna.,"mboro delu nze, to bunum galaza wenu ojole a, chetem nye ngawenu",1.0,0.7018
+722,Đɩ-taa ñɩma kamʋ-ɖʋ ɖeu siŋŋ: paɖʋ miŋ sɔsɔŋ nɩɩyɩ nɛ ɖikpeɣli ɛ-cɔlɔ ɖatɩŋa nɛ ɖihoyuu.,,,
+723,"Ɩtaawanɩ mɩ-tɩ yɔɔ wɛʋ ḿbʋ́ nɛ ɩla ɛzaɣ́tʋ, ɛlɛ́, pʋwɛɛ se ɩwɛɛ ɛzɩ Ɛsɔ yomaa yɔ.",ada wa na m di owa mbu na-ele ezato ele wee si e wee sị so you might,1.125,0.661
+724,Ñɩm kʋɖʋmʋm ɖɔɖɔ ɛɖʋwa se ɛhaɣ-wɛ pa nɛ Krɩstʋ Yesu pɛ-kpɛndʋʋ taa.,Nyem kụrụ mụọmụ dọrọ ọrụ ọrụ ọrụ ọrụ. Pana Kristu Yesu bụkwanụ ụzọ.,1.0,0.6981
+725,Man-taa hʋlʋmaa se pɩha-mɩ waɖɛ lɛɛlɛɛyɔ se ɩɖaɣnɩ mɔ-yɔɔ tɔzʋʋ.,Panda holmasi paka me warelele si. Eranu me odoso.,1.0,0.6275
+726,"Pɔlɔ-ɩ lɛ, pakpa kpakpasɩ pɩtɩɩfɛyɩ, halɩ pe-piyiŋ caɣ cɛbʋ.","Palaele, papa gwa si beghi ve, hali beghi nchi oji.",1.1111,0.6809
+727,"Ɩkpa mɩ-tɩ nɛ tʋmlaɖaa azaɣ́a, pɛkɛ hasɩ mancaaciwaa, pɛtɛpɛlɩ-wɛ siŋŋ.",na tumla ra'asa. Baka hasumun gyaki wa. Ba da ba luwa,1.1,0.625
+728,Ɩɖɔkɩ Ɛsɔtɔm mɩ-laŋa taa kpam nɛ ɩwa Satanɩ.,Ɛyɛ kwan a ɛsɔ dɔm mu kwan a ɛwɔ Ganya to sata.,1.5,0.6857
+729,Ɛpɩyɩ tɩlaaɖɩ ŋ́gʋ́ mon-tomnaɣ yɔɔ se ɛñɔɔzɩ-kɛ nɛ pʋcɔ pepim-m.,"Ebe dlarin gomu dum no yo oze, enye oze ge ne buche",1.2,0.7551
+730,"Tɩ-tɔbʋʋ se nandʋ ndʋ́ pala agɔlɩma yɔɔ yɔ, tɩkɛ pʋyʋ yaa we?",Tụtabụrụ sị na ndụ balụ agọlụ m ya ọyọ. Tiga bụ ya,1.0,0.6087
+731,"Mbʋ́ pʋyɔɔ yɔ, meheyi-mɩ mbʋ́ Ɛsɔ ɖʋwa se ɛkɔŋ labʋ yɔ pɩtɩŋa payɩ, mɛntɛmɛsɩ-mɩ natʋyʋ.","mbo bi ya ya, mehe me mbo osolu asi, akwam laa ya oputa nga faii. Manta mmesime na",1.2,0.6119
+732,"Alɩwaatʋ ndʋ́ pɛnɛɣdɩɣ yɔ, ɩsɩm kpaagbaa se tɛsoŋiye wɩzaa.",alewa tundu ba na odoyor eze ngba agbazidesi ngi wu za,1.2222,0.625
+733,» Peeɖe ewoba nɛ ɛ nɛ wɛ pɛwɛɛ.,,,
+734,"Ɛlɛ́, eheyi-wɛ se: «Me-liu wɛɛ se ɩwɛɛ mɔn-cɔlɔ nɛ mentiyiɣ-mɩ nɛ isusuu Ɛsɔtɔm.","Malu eze, ewe m njo nne me ndi iume na ezusu",1.0,0.6949
+735,Mɩ lɛ ñalɩmɩyɛ pɛ-hɛkʋ taa ɛzɩ ɛsɔdaa tɩɩnzɩ yɔ.,"meelɛ nyamɩyabɛ kodazi, sɔsɔda tenzi",1.0,0.5789
+736,"Alɩwaatʋ ndʋ́ tɩtɩŋa payɩ mɔntɔzʋʋ mɩ-yɔɔ yɔ, mansaŋ Ɛsɔ mɩ-yɔɔ.",Mansa Musa,1.0,0.88
+737,Yesu kowobi Betaanii tɛtʋ cikpetu taa nɛ ɛsʋʋ Siimɔɔ weyi ɛɛkɛ canaɣ yɔ ɛ-ɖɩɣa taa.,Yesu go be betani da to jigbetuda na esu si ma we e ka ja na edowado,1.0667,0.5522
+738,"Pʋ-yɔɔ lɛ, iyele kɩwɛɛkɩm tɩŋa payɩ labʋ: kañatʋ nɛ cɛtʋʋ nɛ tɛɛ nɛ pʋ-yɔɔ lakasɩ nɛ ɛsɩsɛmɩyɛ nɛ lɛlaa tɔm ɛzaɣ́tʋ yɔɔdʋʋ.","bụ ya ọla. Ị ga-elekwa anya na-akpa ya labụ. Ka ya tọọ, na-eche tọọ, na-ete ya na bụ ya ọla gasị, na-ezisa ya, na-elela adọm asatọ ya adọm.",1.2727,0.6458
+739,"Mbʋ́ pʋyɔɔ yɔ, ḿbʋ́ yekina nɛ mɩ-laŋa tɛzɩ hʋlʋmʋʋ ɖɔɖɔ siŋŋ puwiye nɖɩ́ ɛlɩzɩɣ e-koboyaɣ nɛ ɛwɩlɩ ɛyáa yɔ.","Mbu yoo, mbu yoo kinne, malangatazoholo muoro siin, o yoo ende elezu ogobo yoo ni ewele eyi ayi.",1.0,0.5976
+740,Ɛbɛ laba nɛ Yesu tuki aduwa.,"Yesu na dɔngalɛ kya huyu naale, nɛ mba baawe ejolɛ yɔ. Pali iya samɔ daanubotu si padilɛ, bobozi si eleziwe adu",3.3333,3.2727
+741,"Evebiya sʋwa lɛ, pamaɣnɩ ɛtɛm sɩbʋ nɛ pakpaɣ-ɩ powoni pepi ɛ-walʋ cɔlɔ.","ebe ezu-ala, pomade na edemzi bu, pawpaw, ole na ole ewaluju",1.0,0.6786
+742,"Ɛlɛ́, mɔnkɔŋ hɔm mbá papɩsɩɣ ña-sayɩnaa ḿbá yomaa yɔ pa-nɩŋgbaaŋ.","Mụ onwe m, m bịara eleta unu anya na mba a mara mma nke a.",1.4,0.6863
+743,"Mbʋ́ pʋyɔɔ yɔ, lɩm kɔɖɔ peeɖe.",Obi ayɛ. Ɛneɛ m'akɔro bɛɛ.,1.0,0.8182
+744,"Mancaɣ se ɩtɩlɩ se mbʋ́ pɩtalɩ-m yɔ, halɩ piyeba nɛ ɖɩtɛzɩɣ Laŋhɛzɩyɛ Tɔm susuu.",M'anyɛ saa etelɛ se mpo bɛda lamio. Hali biɛba n'ɛretɛ so langa se dɔm sosɔ.,1.0,0.5714
+745,Pɩlabɩ ɛzɩma ɩɩpɩzɩɣ se ɩɖɔkɩ mɩ-tɩ alɩwaatʋ ndʋ́ nɔɔyʋ lakɩ-mɩ kɩdɛkɛdɩm yaa ɛmɩlɩ mɩ-pʋyʋ yɔ?,Nna biko mee ebere zọzọọrọ kụọ mụ ede. A na m atụ na ọ gaghị akụ mụ nke dika dị mụ. Ya emela mụ be ya.,1.7333,0.7632
+746,"Ɛlɛ́, pɩtɛkɛ se mancaɣ mankʋyɩ mɛ-ɛjaɖɛ taa ñɩma yɔɔ.","Mankwe,",1.0,0.9024
+747,"Yee ḿbá ɛɛwɛnɩnɩ natʋyʋ se pakʋyʋʋ mɔ-yɔɔ yɔ, ḿbá pɩɩmʋnaa se pɔkɔɔ ñɔ-cɔlɔ.",Ye mba ewe na ntu esepakwa ya umu ya oyo. Mba abughi na ase bu kwanye joro,1.1538,0.5833
+748,Mbʋ́ pʋpɔzʋʋ weyi paɖʋzɩ e-nesi taa pʋyʋ yɔ lɛ se: ɛla mbʋ́ pʋmʋnaa yɔ.,Mgbago ugwu ebe a adịghị anya ebe a ị ga-alọta. Ịla mgbago ugwu na-aga.,1.0,0.8302
+749,Ɛsɔ labɩ paa mɩ-taa weyi kʋjɔʋ nɛ kɩ-ndɩ se ɛla tʋma ndɩ ndɩ.,Sọlọba mụ daa wee kụjọọ gị ka ị ndụzị. Ẹla dụ mụ ndụ.,1.0,0.6087
+750,"Yesu tɛm-wɛ wɩlʋʋ ḿbʋ́ lɛ, ɛkʋyɩ ewolo Yudee egeetiye taa nɛ ɛtɛzɩ Yɔɔrdaŋ pɔɔ wayɩ.","Yesu damu a wulu mbele, ekwi wulu Jude ege tida na etasi ya don bọwa.",0.9333,0.5758
+751,Ɛnʋ tɩŋnɩnɩ ɖa-Kɩpaɣlʋ Yesu Krɩstʋ yɔɔ nɛ ɛya ɖa-ñʋʋ.,Tɔɔnɛ tɛŋ nɛ nɛ takabalo Yesu Kristo yɔ nɛ ayara nyu,1.0,0.4524
+752,"Pa-maɣmaɣ liu ŋgʋ́ pataɣ yɔ, ŋ́gʋ́ mantaɣ ɖɔɖɔ.","Kwamama, lewụ ngwa ngwa, bịa ebe a. Ngwa ngwa, m na-arịọ gị.",1.5,0.9412
+753,"Tɛʋ fema lɛ, ɛyáa samaɣ sɔsɔɔ ŋgá kowobi Paska Kazandʋ tɔɔʋ yɔ, kanɩɩ se Yesu woki Yeruusalɛm.",Ya zama ozo song ka ga wube yomi da alu ka zandu do wu yo. Ka ni zi ye su oki roza.,1.2941,0.6533
+754,"Mɔyɔɔdʋʋ ḿbʋ́ yɔ, pɩtatɩɩkɛʋ mbá pɛfɛyɩ mɩ-ŋgbɛyɛ taa yɔ, pɔ-tɔm mɔyɔɔdʋʋ.","Mɔ yɔ tɔm bɛ yɔ. Ɖatɛ ka mɔ bɛ fɛfɛɛ mɛ gba ta yɔ, mɔ tɔm mɔ yɔ tɔm.",1.5455,0.4828
+755,Yesu tasɩ-wɛ heyuu se: «Paakpakɩɣ pɩsaʋ kɩfalʋʋ hɔɔlaɣ nɛ pɔtɔnɩ wonuu kɩbɩnʋʋ.,Yesu tasu a hewuse. Pa agwa kobesa woga fale uho olo na botonu wone ugebe na,1.25,0.5
+756,Pʋ-yɔɔ mankaɖɩɣ-mɩ se: nɔɔyʋ fɛyɩ se ɛyɔɔdʋʋnɩ Fezuu Kiɖeɖeu ɖoŋ nɛ ɛtɛ ɛtɔ se: «Ɛsɔ ɛwɩlɩ Yesu kpalʋʋ.,"Piyo mɛn karoo mɛ se, nɔɔ fɛɛzɛ oyoo dɔɔ nɔɔ sɔɔ kalizɛ dɔŋ nɛ etɛɛ tɔɔzɛ. Sɔɔ owulii Yesu balu.",1.0,0.5625
+757,"Mbʋ́ pʋyɔɔ yɔ, mɔnkɔmnɩ monsusi-mɩ Krɩstʋ Yesu Laŋhɛzɩyɛ Tɔm nɛ pɩtɩŋnɩ pʋ-yɔɔ nɛ manpɩsɩ ɛzɩ mɩ-caa yɔ.","Mó bí yọ́, mọ́ kọ́ m n'ùnzú si m'é Kristu Yesu l'anhẹ́zi dọ́m n'epiti n'ubọ́ ihọ́. Ẹma mbẹsẹ́ ẹzẹ́ m'é gyá.",1.1765,0.5976
+758,"Ɛlɛ́, manawa se: lɛɛlɛɛyɔ, paa ŋpɔzɩ Ɛsɔ ɛbɛ yɔ, ɛhaɣ-ŋ-pʋ.","M'anazɛ, léléobam bɔzɛ sɔyɔ, ɛhɔng",1.0,0.619
+759,Mama-mɩ-kɛ ɖɔɖɔ se mawɩlɩ-mɩ ɛzɩma mbʋ́ Ɛsɔ labɩ-mɩ lootiye yɔ.,Mama mɛ kɛ rɔrɔsɩ ma wɛlɛ mɛ ɛzma mbu ɩsɔlabɩ mɩ lʊtiye.,1.2,0.2917
+760,"» Paa ḿbʋ́ yɔ, pɔyɔɔdaɣ mɛsaɣ tɛɛ, mbʋ́ pʋyɔɔ yɔ, peseɣaɣ Yuda ñɩma ñʋndɩnaa.","Mba mbụ ya, ọ bụghịkwa mụ sọrọ ya. Mụ bụ ya, ezuo mụ ike, anyị bịa nyongde na.",1.3846,0.7544
+761,"Ɛlɛ́, pala tʋma kɩbana ɛzɩ pʋmʋnaʋ se halaa mbá pɔtɔŋ pa-tɩ se pañaŋ Ɛsɔ yɔ pala yɔ.","Pala, tuma kabanai se pumu now. Se hala mbabodo ngbadi se panya ngoso pala",0.8235,0.4844
+762,"Ɛyɔɔdaɣ ḿbʋ́ lɛ, ɛsɔmɩnʋʋ nakʋyʋ kɔɔ kuhuuzi pɔ-yɔɔ nɛ panɩɩ pʋyɔɔdʋʋnɩ-wɛ nɛ kɩ-tɛɛ se: «Ɛnɛ lɛ man-Pɩyalʋ kʋsɔɔlʋ, maahʋʋ ɛ-yɔɔ kaʋ.","Ya do m bu ile, esemenu na kwekwaghị ụzọ ya, na-panịpụ ya ọdụ na ya enekide ya esi. Ee, lemaa m bịara ịkụsọlụ ma ahụọ ya ọka",1.2857,0.6505
+763,"Ŋgʋ́, ɩnawa se Yesu Krɩstʋ kɔm kedeŋa yɔɔ se ɛlɩzɩ ɛyáa pa-kɩwɛɛkɩm taa, ɛtala kɩwɛɛkɩm nabʋyʋ.","Ngwanu aze, Yesu Kristi gwa m gidi gị ihe ọzọ, elezela ya abakwa ekem daa. E dalakwa ekem na",1.1875,0.5733
+764,Meheyiɣ-ŋ se mantayɩɣ ma-ñɩm tam naalɛ nɛ mankpaɣ hɔɔlʋʋ maha kʋñɔndɩnaa.,"Kedu ihe ị na-ekwu? Mụ onwe m, mụ na ndị mụrụ m nọrọ, mana ọ bụghị mụ na ndị na-eso gị.",1.9091,0.85
+765,"Weyi ɛyɔɔdʋʋ ɛ-maɣmaɣ ɛ-tɔm yɔ, ɛcaɣ se pasam-ɩ.","Wee ayo dọọ ịma ma ọdọmịọ, Elijah Basta mị. Wee Elijah Basta",1.5,1.0278
+766,"Ma lɛ, maamaɣzaa se manɖɩkɩ nʋmɔŋ tɩŋa payɩ nɛ nɔɔyʋ ɛtaatasɩ yaʋ Nazarɛɛtɩ tʋ Yesu hɩɖɛ.",Maa le. Maa mɔɔ saasaman tukunumun dindin pay.,1.0,0.7361
+767,"Ɛyáa mbá pɛwɛ mɩ-hɛkʋ taa yɔ, ḿbʋ́ ɖɔɖɔ palakɩ.",rambobo me koda mboro bala,1.0,0.6857
+768,"Ɛlɛ́, me-liu wɛɛ se yee Kɩpaɣlʋ etisiɣ yɔ, mancaɣ mɩ-cɔlɔ pazɩ.",Mɛ luwe si ye gba le edisɔ yɔ? Mɛn ja mɛn ja la,1.0909,0.5957
+769,"Ɛlɛ́, yee pɩlabɩ se nɔɔyʋ labɩ kɩwɛɛkɩm yɔ, pʋdʋ ɛtɩlɩ se nɔɔyʋ wɛ Caa Ɛsɔ cɔlɔ nɛ etendiɣ-i se ekpeɣ-ɖʋ ɖa-kɩwɛɛkɩm.","예, 물론입니다. 새로운 러브코미디고요. 모두들 새로운 여자 주인공을",1.0,1.0
+770,Sɔɔlɩm kɩlɩ pɩtɩŋa.,Gangan Paul ma courant nyi mayo. Nyung hiu,2.6667,1.9375
+771,» Peeɖe pekitini-i se: «Yudee egeetiye taa tʋ nɔɔyʋ tetiyini-ɖʋ takayaɣ nakɛyɛ ñɔ-tɔm taa.,"Ebee ka ị tinyere ya? Ụdị egechi na-adị nọọ dị ka ịndụ daka, a na-aka enyocha m daa.",1.3846,0.6571
+772,"Pataakɩlɩ posinaʋ kidiiliŋ, pɩɩsɛɣ-wɛ ɛzɩ mɛtanaa mɩnʋʋ ḿbʋ́ yɔ.",,,
+773,Pʋwɛɛ se ɩña ɛyáa mbá patɩŋa payɩ pɛwɛ ɖɔɖɔ ɛzɩ ɛnʋ yɔ.,Wɛɛzɩ ɛyaa ɛyaa mbʊ pʋtɔgɩ payɩ pɔrɔzɩ-nɛ,0.8333,0.5116
+774,"Yee nɔɔyʋ ɛtɔm se ɛsɔɔlɩ Ɛsɔ nɛ ɛpaɖɩɣ lɛlaa yɔ, ɛkɛ pɔpɔtʋ.",ye noidomese zolesso neba rola lago ege boboto,1.0,0.7234
+775,"» Đɔɖɔ lɛ, Feliksɩ maɣzaɣ se pʋtɔmaɣ yɔ, pɩkɛdɩɣ Pɔɔlɩ ha-ɩ liidiye.",To roll a felice tomazo zepudomayo together pull highly,1.0,0.7115
+776,Cɔjɔnaa sɔsaa tam Yesu yɔɔ nɔɔ.,ye domdumarki mawayo nyunyunen,1.0,0.88
+777,"Maarɩɩ weyi ɛlʋlɩ-ɩ yɔ, ɛɛkɛ pɛlɛ weyi posu Yozɛɛfʋ yɔ.",Madi wɛlɛ layɛ. Ɛ kɛbɛlɛ wɛi pɔzui Joseph,1.0,0.5814
+778,» Pɔpɔzɩ-ɩ ḿbʋ́ se pañɩ ɛ-nɔɔ cɔlɔ tɔm nɛ pana ndʋ́ paawana nɛ pakʋyɩ ɛ-yɔɔ yɔ.,"Bụbá zé ị́mbụ́zé, banyé n'ọjọ́rụ́ ọ́dọ́m, nébá ná ndụ́bá wọ́né nébá kwụ́ yá.",1.0,0.7193
+779,"Weyi ekiziɣ tɔm tʋnɛ yɔ, pɩtɛkɛ ɛyʋ ekizaa.","Oui, exécutez-moi. Peut-être que",1.0,0.8529
+780,"Kɔkɔɖɛ nɖɩ́ manɩɣaɣ yɔ, ɖɩwɛ ɛzɩ cɩmɩŋ maɖaa makʋʋ cɩmɩŋ yɔ.","Kɔkɔrɔn ji ma nuɔyɔ, tuɛ zi ji mi mara ma kɔ ji mi",1.1818,0.5745
+781,Pʋ-yɔɔ meheyiɣ-mɩ se pitaatisi mi-toma taa kʋñɔmɩŋ weyi mɔntɔkɩ mɩ-yɔɔ yɔ ɩ-yɔɔ.,Ihe omume a bụ ihe e ji mara ndị ọdịnala akwụnyere. Mụ na ndị ọkụ mụ ihe ọzọ ịọ.,1.5833,0.8095
+782,"Ɛlɛ́, meheyi-mɩ ḿbʋ́ se yee pɔkɔm palakɩ ḿbʋ́ lɛ, ɩtɔzɩ se maatɛm-mɩ-tʋ heyuu.","Ele me deu meio embuçu, e eu abri um balaio de bolo e tosse. Sem mais, me deu",1.3846,0.7018
+783,Tɛtɛ kpɩna hɛkʋ taa ɛɛwɛɛ nɛ Ɛsɔ tiyiyaa wolo ɛ-cɔlɔ nɛ pasɩŋnɩ-ɩ.,Tɛtɛ gbanɛ hɛkoda ɛwɛ nɛ ɛsɔ di ya wɛlɛ ɛjɔlɔ nɛ pasin,0.75,0.3846
+784,Yuda ñɩma tɩŋa sɩm mbʋ́ mɛnkɛ ɖooo me-evebutu taa yɔ.,M'pomenka to mevevi,1.0,0.7805
+785,"Toovenim lɛ, Krɩstʋ wɛ ɛzɩ tomnaɣ kʋɖʋmaɣ ŋgá kɛwɛnɩ pilinzi sakɩyɛ yɔ.",,,
+786,Ɩtaatɩlɩ nɔsɩ haʋ mbʋ́ Ɛsɔ ɖʋ ɛ nɛ wɛ pɛ-hɛkʋ taa yɔ.,"A taa tɛlɛ nɔsɔ ha umbo, osoto ɛnɛ obaa kuta",1.0,0.5128
+787,"Mbʋ́ pʋyɔɔ yɔ, pʋwɛɛ se mantɩŋnɩ peeɖe nɛ pʋcɔ.",,,
+788,"Toovenim lɛ, pɔyɔɔdɩ ɛzɩma mbʋ́ ɩwɛnɩ lidaʋ Krɩstʋ Yesu yɔɔ yɔ nɛ ɛzɩma mbʋ́ ɩsɔɔlɩ Ɛsɔ ñɩma tɩŋa payɩ yɔ pʋ-tɔm nɛ ɖɩnɩɩ.","Tụọ ife niile, ọ ga-adị ka isi ma ọ bụ 1 L krisịsị ya esịrị ya. Na isi ma ọ bụ ọsọrọ ọsọ nyemaka ga-pịa ya pụdọm na-adịghị anya.",1.2609,0.7684
+789,"Alɩwaatʋ ndʋ́ ɛkɔŋ yɔ, ɛwɩlɩɣ kedeŋa ñɩma mbʋ́ pɩkɛ kɩwɛɛkɩm yɔ nɛ mbʋ́ pʋtʋʋzaa yɔ nɛ ɛzɩma mbʋ́ Ɛsɔ hʋʋ tɔm yɔ.",alewatu ndu ogonjo ewelu gede nge nyi ma mbu bi ge gi wa eke mbu na mbu bu dozi ayo na ezime mbu eso hu udo mbu,1.2273,0.6279
+790,Listrɩ taabalaa nɛ Ikoniyɔm ñɩma palɩzaɣ aseɣɖe kɩbanɖɛ ɛ-yɔɔ.,"Misi da balan, ikoni omnye mpalizo aseur gbandeeyo.",1.0,0.5
+791,"» Peeɖe Yesu heyi-wɛ se: «Ma ɖɔɖɔ, mɔnpɔzʋʋ-mɩ tɔm kʋɖʋmtʋ.",,,
+792,Ḿbá kelemni pa-tɩ sɩm nɔɔ taa ɖa-Kɩpaɣlʋ Yesu Krɩstʋ yɔɔ.,"Mba, e leghi m anya na simu na-ada, taa bu ahuelu Jesu Kristi.",1.1,0.6444
+793,"Ḿbʋ́ yebina nɛ wiyaʋ sɔsɔ ɖɩɣa yɔɔ ɖaŋɩyaa nɛ ɛyáa lɛlaa, patɩŋa payɩ patɩlɩ se malakɩ Krɩstʋ tʋmɩyɛ yɔɔ paɖʋ-m salaka.",Mbu yebunnu wu yawo soso aya rangaya na eyalala patu ngapayi patulisi malakakristu tumeyo barumsa,1.0,0.4947
+794,"Ɛkpawa lɛ, eheyi-i se etuzi-kʋ lɩm taa pazɩ.",He is,1.0,0.8788
+795,"Ŋgʋ́, yee nɔɔyʋ ɛsɔɔlɩ Ɛsɔ yɔ, Ɛsɔ sɩm-ɩ.",이 노래 어설퍼요.,1.0,1.0
+796,"Pɔtɔkaɣ tɔɔnaɣ lɛ, halʋ nɔɔyʋ sʋʋ pɔ-cɔlɔ, ɛɖɔkɩ tɩlaaɖɩ ŋgʋ́ kʋwɛ liidiye pɩtɩɩfɛyɩ yɔ, fiɣa kɩñɩlɩsaɣ nakɛyɛ taa ɖo.",,,
+797,"Đoo yuwa lɛ, Pɔɔlɩ ɖozi se Masedonii tʋ nɔɔyʋ kɔm ɛsɩŋ ɛ-yɔɔ nɛ etendi-i se: «Kʋyɩ ŋtɛzɩ ɖɛ-tɛ nɛ ŋsɩnɩ-ɖʋ.","Tɔ yua le, pɔlɔ ruz masedoni dɔnɔ wɛɛ sɩn ayɔ nɛ tɛndɩze.",0.95,0.625
+798,"» Pʋwayɩ lɛ, pɔpɔzɩ-ɩ se: «Pɩlabɩ ɛzɩma nɛ paɣtʋ wɩlɩyaa tɔŋ se pʋwɛɛ se náyʋ Elii ɛlayɩ Weyi Ɛsɔ Lɩzaa Yɔ kɔm?",Yesu cho siweze tovinim,1.0,0.9048
+799,Pɩkɩlɩ wee wee se pɛlɛɛ e-liu tɛɛ pɩyɛ sɔsɔɖɛ nɛ powoni pɛpɛɖɩ teŋgu taa ɖenɖe ɛzɩ eeyele nɛ mbá patakpaɣ-wɛ payaa pʋyʋ yɔ pa-taa nɔɔyʋ la kɩwɛɛkɩm yɔ.,"Pikili we we ze pele elu de peso swe na bo ni pe beredi nguta. Tende ze eyi le na, mpa pa da kpa we ba ya bo yo pa da no ila kwe ekemu.",1.25,0.5167
+800,"Pʋwayɩ lɛ, ɛkʋyɩ taabalaa cɔlɔ nɛ ɛ nɛ Prisiili nɛ ɛ-walʋ Akilaasɩ pasʋʋ mɛlɛ se powoki Siirii ɛjaɖɛ taa.","Oyele, o kɛɛ daa bala yɔnne, ɛɛne prisili na e wɛlɛ a kilasi, pasu mɛlɛ zibo kɛ siri jara daa.",1.0,0.4524
+801,"Kɩpaɣlʋ yɔɔ lɛ, mantaɣ liu se ma-maɣmaɣ mɔnkɔŋ ɖɔɖɔ alɩwaatʋ tʋnɛ tɩ-taa nɛ mana-mɩ.",kabalé olé mandalusu mamamamonkonduro alatu dineti dani,1.0,0.5758
+802,Alɩwaatʋ ńdʋ́ʋ́ Kɩpaɣlʋ tɔm pazɩ cɔʋ egeetiye ńɖɩ́ ɖɩtɩŋa ɖɩ-taa.,Aloo atundu kuboltom pasijoge tiyende tedengere da.,1.0,0.6078
+803,"Pa-taa nɔɔyʋ ɛɛɖɔŋ mbʋ́ Room wiyaʋ sɔsɔ ɖʋwa yɔ pʋ-yɔɔ, pɔyɔɔdʋʋ se nɔɔyʋ wɛɛ ɖɔɖɔ, ɛkɛ wiyaʋ sɔsɔ, ɛnʋ lɛ Yesu.",Ọdịghị onye na-eromụrọ mụ onwe m ka onye na-esoso unu lee anya.,1.0,0.8588
+804,Ɛnʋ lɛ karɩka sɔsɔɔ ŋgá kɔcɔŋnɩ Etiyoopii abiɖe Kandaasɩ ñɩm yɔɔ yɔ.,"Anọlụ m karịa ka so nga, ka m jụọ na Etiopia abịrịka ndị asịrị m ya.",1.3333,0.5536
+805,"» Maarɩɩ tɩnɩ ḿbʋ́ lɛ, ɛkʋyɩ kpaka se ɛkatɩ-ɩ.",Naari denimbule okpakase ka,1.0,0.5152
+806,"Yee mantasɩ pɩsʋʋ mɩ-tɛ yɔ, maakpeɣu mɩ-taa nɔɔyʋ.",Ye m'andasi be so m'eda ya. Ma song m'eda n'ɔ,1.25,0.5897
+807,"Ɛlɛ́, kʋdɔndɩnaa pazɩ yɔɔ ɛtɩnɩ nesi nɛ pɔ-yɔɔ cɛ.","ya na pasiya edinisi na boyo che. Pere pere uzi na ezime mbu befe nili ta wu eyoyo. Puwayile, Yesu cho te tuchi betu ndende ndo diwa bujole",3.1111,2.5526
+808,"Kujuka wiye lɛ, ɖikpeɣli ɖama se ɖɩlakɩ tindine tayʋʋ sɔnzɩ.",Kujua kawi yela.,1.0,0.7755
+809,Maarɩɩ ɛnʋ ɛɛpɩyɩnɩ Kɩpaɣlʋ naŋgbanzɩ yɔɔ tɩlaaɖɩ nɛ ɛhɛzɩnɩ ɛ-ñɔsɩ.,"Maa ree nu yebin gbaali na ngbanzi yoo dilari, na yi hizu ne nyos.",1.4,0.614
+810,"Yee Ɛsɔ ɛha nɔɔyʋ se esusi ɛ-tɔm yɔ, ńdʋ́ pʋwɛɛ se esusi.",Ye eso Hanoi osusu dom yɔ. Ndo bua ye osusu,0.9167,0.5476
+811,"Mbʋ́ pʋyɔɔ yɔ, nɔɔyʋ fɛyɩ se ɛpɩzɩɣ ɛla hama lakasɩ nzɩ́ ŋlaba yɔ nɛ Ɛsɔ fɛyɩ ɛ-cɔlɔ.","Mbu bi yoo, na o yii vee se ebe zola hamela ka sinzin laba yoo na eso vee joo.",1.0588,0.5938
+812,Pasɩm ɖɔɖɔ ɛzɩma mbʋ́ maacaɣ wezuu Yeruusalɛm mɛ-ɛjaɖɛ taa ñɩma hɛkʋ taa yɔ.,"A sị m na ọ bụrụ na ị sị m na mụ akwụọ ụgwọ ụyere, ọ sị na ọ dị mma, m ga-ejere gị ozi.",1.9231,0.8361
+813,"Pɩtɛkɛ se ɖɩñɩnɩɣ se ɖɔ-tɔm ɛkɛdɩnɩ ɛyáa, ɛlɛ́, Ɛsɔ ɖɩñɩnɩɣ se tɩkɛdɩna, ɛnʋ naɣnɩ mbʋ́ pʋwɛ ɖa-laŋa taa yɔ.","tɛ nyɔ̃ sɔrɔ dɔmɛ kɛ dɛnɛ ya. Ɛlɛ, ɔ sɔrɔ nyɔ̃ sɔrɔ tɛ kɛ dɛnɛ. Ɔnɛ nɔnɛ mbubu warala ngada ayi.",1.0526,0.5366
+814,Pʋ-yɔɔ ma Yakubu meheyiɣ-mɩ se ɩtaakɔnɩ kaɖɛ mbá pɛtɛkɛ Yuda ñɩma nɛ pɔsɔɔlɩ se papɩsɩnɩ Ɛsɔ yɔɔ yɔ.,"Onye oma Yaakubu, mehee anyị isi ezigbo akọnịkàrọ mgbaba dịka Yuuda anyị ma. N'ihi Saọl sị na ya bụ",1.0556,0.6625
+815,"Ɛɖɛɣaɣ lɛ, ɛtalɩ Samaarɩɩ egeetiye taa tɛtʋ ndʋ́ payaɣ se Siicaarɩ yɔ tɩ-taa.","Eroale, etalaza mariye getida, chetondo bayo sikariyo.",1.0,0.5902
+816,"Mɩ ɖɔɖɔ lɛ, mɩ-taa ɛhʋlʋmɩ nɛ ma nɛ mɩ ɖɩkpɛndɩ ɖɩmayɩ amaya.",Mɛ rɔla. Mɛ taa ɔhɔlɛ. Nɛ ma na mɛ rɛ pɛndɛrɛ ma yɔ.,0.9167,0.5319
+817,ñe-liu wɛna nɛ pala pɩtɩŋa nɛ pʋwɛɛ.,Yelo wɛna bala badɛlɩ nɛ gʊwa.,0.7143,0.5714
+818,"Yesu lɩɣaɣnɩ lɩm taa lɛ, ɛna ɛsɔdaa tʋlaa nɛ Fezuu Kiɖeɖeu lɩɩ nɛ kitiki ɛ-yɔɔ ɛzɩ halikuku yɔ.","Yesu lụana n'ụmụ ndale, ya na eso dọ n'ụlọ ya na eso galịzaa ya na kee dịkị eyozi halụkụ",1.0,0.6933
+819,Đɩɩyɔɔdʋʋ pʋ-tɔm nɛ tɔm ndʋ́ kedeŋa lɔŋsɩnɖaa wɩlɩɣ yɔ.,,,
+820,"Ḿbʋ́ labɩna nɛ Ɛsɔ tiyiyaa yɔɔ lɛ, pʋwɛɛ se halʋ ehuuzi pʋyʋ ɛ-ñʋʋ yɔɔ nɛ pɩwɩlɩ se eluzi ɛ-tɩ ɛ-walʋ tɛɛ.","mgbago laba nọọ, ọ sị ya yọọle. Pụọ eze halụ ụgwụzụ pụọ onye nwe ya. Na pụọ oliza oliza dị ya n'ala.",1.0476,0.725
+821,"Nakʋyʋ wiye ɛyáa nabɛyɛ lɩnɩ Yudee egeetiye taa nɛ powolo Antɩyɔɔsɩ nɛ peheyiɣ taabalaa se yee peteyele nɛ pɛpɛlɩ-wɛ ɛzɩ palakʋʋ sɔnzɩ nzɩ́ Mooyiizi ɖʋwa yɔ sɩ-taa yɔ, paahikiɣ ñʋʋ yabʋ.","Nke a bu ihe a na-akpọ Judea na-eti da na Poland tuọsị. N'ebe ahụ dị a balazi, ya ebe dị na bebelu eze, pala kọzịlị zị mọ yị zụrụ ọyọ ọyọ, pa hịkụnyụ ya",1.0968,0.649
+822,Ɛsɔ haɣ-ɖʋ wezuu ɖa nɛ Yesu ɖɛ-kpɛndʋʋ taa.,Nyungapul ma efes nyimayon. Nyung na,1.0,0.8788
+823,Peeɖe kpɩnɛ ńɖɩ́ ɖikuli ɖɩ-nɔɔ nɛ ɖɩtʋʋ Ɛsɔ.,"Ee, piniendi, tuguluru na oneru tuwase.",1.0,0.7059
+824,"Miŋ sɔsɔŋ ɛnʋ, ɛ-ñɔsɩ ñɛyɩɣ pɩnzɩ ɛgbaŋ ɛgbaŋ.","Mì nɔ sɔsɔn é nú, anyɔ sin yɛ́ o, é nzi é gban é gban.",1.875,0.5278
+825,"Kɩpaɣlʋ Yesu tɛm ɛ-tɔmkpɛlɩkɩyaa yɔɔdɩnaʋ ḿbʋ́ lɛ, pɩkpazɩ-ɩ ɛsɔdaa yem nɛ ɛcaɣ Ɛsɔ cɔlɔ lone kɩbanɖɛ taa.",kpaa yoo di na mgbe ile. Biko zie ozi di anyi na echa esojoro ndi nke be ndi taa.,1.0588,0.7412
+826,"Ɛlɛ́, ɛ-Pɩyalʋ ɛgbamɩyɛ nɖɩ́ ɖɩ nɛ Caa pɛwɛ ɖama taa nɛ ɖɩkɛ Ɛsɔ yɔ, ńɖɩ́ wɩlɩnɩ-ɖʋ mbʋ́ Ɛsɔ kɛnaa yɔ.","Lè bi àlụ́ gbà mí ndi, m na-ejá bọ̀wé Ramadan dika èsòyọ̀ ndi wụ́ n'erú mbọ̀sọ́ gị na ya.",1.0,0.6622
+827,"Mbʋ́ pʋwɛɛ yɔ lɛ se: Ɛsɔ nʋmɔʋ ŋgʋ́ ɖɩɖɔŋ kɩ-taa yɔ, ɖɩwɛɛ kɩ-taa ḿbʋ́ nɛ pɩɖɛɛnɩ ɛsɩndaa.",Bụrụ wa yọrọ ịsị. Ọ sọrọ mụ nguru rọ ngidi ayọ. Tụwa ya gịda mbu nebere n'esị,1.0,0.7727
+828,"Ɛlɛ́, ɛ-pɩyalʋ Salomɔɔ manɩ Ɛsɔ ɖɩɣa.","ɛlɛ sɔ tiizi, e wolo ɛka pɛwii a na ɛlɛ zuwa yomi da.",2.0,1.0714
+829,» Nɛ pɔtɔʋ ɛ-yɔɔ ndaatʋ nɛ pamʋʋ ɖaʋ ŋgʋ́ paacɛlɩ-ɩ yɔ nɛ pamakɩ ɛ-ñʋʋ taa.,"So, je n'ai pas su ça.",1.0,0.9091
+830,Peeɖe sɔɔndʋ kpa halaa ḿbá nɛ paka pɛ-ɛsɛ nɛ tɛtʋ nɛ abalaa ḿbá pɔpɔzʋʋ-wɛ se: «Pɩlabɩ ɛzɩma nɛ ɩñɩnɩɣ weyi ɛwɛnɩ ɛ-ɛsɛ yɔ ɖenɖe sɩɖaa wɛɣ yɔ?,"Pe so n'okwu balamba, na paka beghi ndeto na balamba, ọbụzọ weze. Labazi menu n'uwe wa na-eseyo ndị ziri awa",0.963,0.5818
+831,"Ndʋ́ mɔyɔɔdaa yɔ, tɩtɛkɛnɩ-mɩ paɣtʋ.",tuma wataayo. Tuda kanu miyaba,1.0,0.6786
+832,"Mantaɣ liu se manaɣ mbʋ́ pɩtɛŋnɩ-m yɔ lɛ, mentiyiɣni-mɩ-ɩ.",Manda luzi. Mandana mbupe tanamiyale. Mendi numi,1.0,0.5227
+833,Mankaŋ mɩ-ñʋʋ taa nɛ Kɩpaɣlʋ nɔɔ se ɩkalɩ takayaɣ kanɛ nɛ taabalaa tɩŋa nɩɩ.,"Maka onweghi onye uda na-ekwu okwu n'ulo-oru, e kalite ka aga nleta abali adinga na ya.",1.1429,0.7213
+834,"Pʋ-yɔɔ lɛ, ŋpɩzɩɣ ŋyele nɛ pɩkpaɣ ña-tʋmlaɖʋ ma laŋhɛzɩyɛ taa.","K'ọwụla, mụ na gị ga-anọkwa ya adịm larụ ma na ịhụta ibe anyị.",1.2,0.7755
+835,"Đɩlɩ cɩŋɩlɩm ḿbʋ́ lɛ, ɖiɖiɣzini se ɛjaɖɛ nɖɩ́ lɩm cɔ-ɖɩ pɩta nɛ payaɣ-ɖɩ se Maltɩ yɔ, ɖɩ-taa ɖɩwɛɛ.","Tulu jangal bolle, tulu jangal jori kunduku, na bayaru malteyo tulu daru.",1.0,0.7838
+836,"Ndʋ́ mɛntɛzɩɣnɩ yɔ lɛ se: mɩtɩŋa payɩ ɩwɛnɩ lɩmaɣza kʋɖʋma, ɩwɛnɩ ɖɔɖɔ hɔyɛ kʋɖʋmɖɩyɛ.",mɛ tɛŋa pai ɛwɛɛnɛlɛ masɔkɔrɔma ɛwɛɛnɛ dɔdɔ hɔi gɔrɔm dɛ,1.0,0.6522
+837,"Đɔɖɔ lɛ, patakpaɣ pe-wezuu payaa pʋyʋ nɛ petisi se yee paa sɩm yɔ, pasɩ.","Kwarai kuwa, ba ta kwa bujuba ya boyo, ni fadi shi, fa simni yo ba",1.0714,0.7455
+838,"Mbʋ́ pʋyɔɔ yɔ, Ɛsɔ liu wɛɛ se ɩwɛnɩ wɛtʋ kɩbandʋ.",Mɔ bi aya. A salu wezi ewe nɛ wɛ tigbanu,1.0,0.5946
+839,Ɩtatɩlɩ se mi-tomnaɣ lɛ Fezuu ŋgʋ́ Ɛsɔ ha-mɩ nɛ kɩwɛɛ mɩ-taa yɔ kɩ-ɖɩɣa naa we?,Nke a bụ ihe mụ na gị ga-ekwu maka ya n'oge na-adịghị anya.,1.0,0.7797
+840,Ɛnʋ lɛ weyi ɛ-caa yekini-i ɖɩɣa se ɛcɔŋnɩ kɔ-yɔɔ nɛ ɛcɛlɩɣ tʋmlaɖaa lɛlaa tɔɔnaɣ alɩwaatʋ ndʋ́ pʋmʋnaa yɔ.,"m'elenya. Sọ ndụ a na-adị m mma m nzeke. Ẹla ka ọgbawa m bụbụ dịka ndụ a na-adị n'nze ya dị ya. Peeye esidasị ya ọdụ ụzọ. M bụrụrụ ọbụọ na-ewu ejazu gị dịka ọjị na nyimne, ęsịwe dị",2.1667,1.3571
+841,Panɩ Ɛsɔtɔm nɛ pɔ́ɖɔ́kɩ-tʋ camɩyɛ nɛ pʋwazɩ ɛyáa.,"Bane sodom, na poro koda ujamie na buo ze ya.",1.25,0.6842
+842,Ma-maɣmaɣ mamaɣnɩ se: ma Pɔɔlɩ mɔnkɔŋ-ŋ-ɖɩ hɛyʋʋ.,Mma mma mma nụsị. M abụọla mụ onwe m dị ihe a,1.7143,0.6053
+843,"Piyele sɩɖaa lɛlaa yɔ, paafeŋ nɛ pʋkɔɔ pɩsɩɩnɩ alɩwaatʋ ndʋ́ pɩnzɩ kutoku ŋ́gʋ́ kɩtɛma yɔ.","yeele zra lala yoo, fa seng na bu kobe si na lwa tondu pinzi kudo kongo kedema",1.1333,0.5634
+844,"Patalɩ Bɛtlɛhɛm nɛ pɛwɛɛ lɛ, pɩtalɩ se Maarɩɩ ɛlʋlɩ.",Pitala betala hemna pawa ella. Pitala zama reul.,1.0,0.5476
+845,Peeɖe kpɩna ana a-naanza acosaa se: «Pɩla ḿbʋ́!,Bégnana n'anza ju sazé.,1.0,0.6857
+846,"Lɛɛlɛɛyɔ ɖɩnawa se ŋsɩm pɩtɩŋa payɩ, pɩtacazɩ pɔzʋʋ se pɔpɔzɩ-ŋ natʋyʋ.",,,
+847,Yaa mi-wezuu caɣʋ ñɛfɛyɩ ɖɔɖɔ ɛzɩ ɛyáa lɛlaa yɔ?,ya mu soke ya wa wuya fa ya roro se ya alalai,1.3333,0.7105
+848,Pɩtɩŋa pɩɩwɛ ḿbʋ́ nɛ pʋkɔɔ pɩtalɩ ɛzɩ pɩnzɩ nasɩnaza nɛ nɩɩnʋwa ḿbʋ́ yɔ.,Pata ngapi wambo na puko pata na pensen nasa nasa na ene na wambo,1.0769,0.5614
+849,Pʋ-yɔɔ Ɛsɔ hɔm pa-nɩŋgbaaŋ nɛ ɛɖʋ-wɛ miŋ weyi eeɖeŋ kaʋ yɔ ɛ-taa.,"Ya, asoham panangbang na erwe mingwei yiren kawo eda",1.0,0.5918
+850,"Ɛlɛ́, Ɛsɔ hanɩ-ɖʋ e-Fezuu Kiɖeɖeu se ɖɩpɩzɩ ɖɩtɩlɩ ɛ-ñɩm mbʋ́ paha-ɖʋ falaa yɔ.",ala asakhanro ekalizo ziri ziri tile enyim bobaharo fala,1.0,0.678
+851,Yesu lɩzɩ ɖuyu eduuye tɔbʋʋ.,"Wayi le, yee suposi edombele kiyase. Yee edane eduwirine dobole. Ezimale kine enile dobole.",2.8,2.7391
+852,"Fezuu Kiɖeɖeu yɔɔdɩ kpayɩ se kɛtɛzaɣ alɩwaatʋ taa lɛ, ɛyáa nabɛyɛ kɔŋ yebu lidaʋ ŋgʋ́ pɛwɛnɩ Krɩstʋ yɔɔ yɔ nɛ panɩɣnɩ feziŋ weyi ɩcɛtɩɣ yɔ nɛ pewelesiɣ tɔm ndʋ́ aleewaa wɩlɩɣ yɔ.","Asi ka na za yoo da kpai, se ka te za alua taa le. Eya na pa ikwonye buli daa ngopowe ne Kristu yoo. Ne pa ne wone ka la za sinsin si ke tu yoo, ne pa wele su domdo alua wulu yoo.",1.3125,0.6014
+853,"Yee ḿbʋ́, ɩtakalɩdɩ tɔm ndʋ́ pama Ɛsɔtɔm Takayaɣ taa yɔ kaʋ yaa we?",Yɛmbɔ da ka dɔm duba mɛsɔ dɔm dɛka yɛda yɛka o.,1.0,0.5294
+854,"Ɛnʋ lɛ Ɛsɔ maɣmaɣ kpem, ɛnʋ lɛ wezuu maatɛŋ.","Onye nwe ala so m ama kpe m, onye nwe ala wezuo be",1.4444,0.7647
+855,"Pɔlɔ-kɛ lɛ, wiyaʋ sɔsɔ pɛlɛ hii-kɛ nɛ ɛɖɔkɩ-kɛ ɛzɩ ɛ-maɣmaɣ ɛ-pɩyalʋ yɔ.",O nwere ike ịbụ na ọ bụghị naanị gị na-eche echiche banyere otu esi emeziwanye ndụ gị.,1.4167,1.1667
+856,Pʋ-yɔɔ eheyi-i se: «Đajaa!,Tɔja,1.0,0.8333
+857,Pɛkɛ Yuda ñɩma nɛ pawɩlɩɣ-ɖʋ sɔnzɩ nzɩ́ pɩtaha ɖa Room ñɩma nʋmɔʋ se ɖitisi yaa ɖɩla yɔ.,"Biko nyere m aka. Na biko, enyere m aka na m na-achọ ịmara ma ọ bụrụ na e nwere ụzọ ọzọ m ga-esi mara ma ọ bụrụ na nwa m nwanyị dị ime.",1.9412,1.1594
+858,"Pʋwayɩ lɛ, mana yʋsaɣ sɔsɔɔ lɛɛka nakɛyɛ ɛsɔdaa, kɛfɛyɩ yɔɔdʋʋ: Ɛsɔ tiyiyaa lʋbɛ nabɛyɛ ɖɔkɩ kɛtɛzaɣ kʋñɔmɩŋ lʋbɛ.",Onye iro so gi so na nke a ọ sọrọ gị. Ka ihe ọjọọ a na-abịaruo gị kedezie ogwu nyomụrụ.,1.1111,0.8602
+859,"Ɛlɛ́, Barnaabaasɩ kpaɣ Maarkɩ nɛ ɛ nɛ ɩ pasʋʋ mɛlɛ nɛ powolo Ciiprɩ ɛjaɖɛ taa.",Bara na ba supermarket na ene basu mele na poli cipre jara da,1.0,0.541
+860,"Pʋ-yɔɔ Krɩstʋ susi Laŋhɛzɩyɛ Tɔm sɩɖaa se paa pasɩba ɛzɩ pʋpɔzʋʋ ɛyáa tɩŋa payɩ yɔ yɔ, pɩtɩŋnɩ Fezuu Kiɖeɖeu yɔɔ nɛ pɛwɛɛ wezuu.",Ya krisimesi langi ya dom seraze. Paa basibeti bu bo so ya dinga payi oyo. Peti na esukulu ya oyo ni pe,0.9565,0.6505
+861,"Ɛlɛ́, patasɩm-ɩ, mbʋ́ pʋyɔɔ yɔ, piihuuzi pɛ-ɛsɛ yɔɔ.","Père, pas de soucis. Mbuvi oyo. PII, who's the best?",1.25,0.8378
+862,"Fezuu Kiɖeɖeu tibi Yesu yɔɔ lɛ, ɛlɩɩnɩ Yɔɔrdaŋ pɔɔ nɔɔ nɛ ɛpɩsɩɣ.","Asɛka lasa dabi yɛ su yɔle, ɛli yɛ yɔle danguɔ nɔɔ na ebiso.",1.0,0.5962
+863,"Pʋ-yɔɔ lɛ, weyi ɛkpakɩɣ ɛ-ɖaŋ yɔ, ɛlabɩ camɩyɛ.",Piyala. Wi akwa koraa nyɛ. Ɛla kpamia,1.0,0.5714
+864,Mɛnsɛ-mɩ: Caa Ɛsɔ ɛtɛzɩ-mɩ labʋ lootiye nɛ ɛtɛzɩ mɩ-laŋa hɛzʋʋ.,Mɛnsa mɛ caa sɔɔ tɛzmɛ labolotiye nɛ tɛzmɛlaa hɛzʊ.,0.9,0.2857
+865,"Yee ḿbʋ́, ma nɛ mɩ ɖe-ɖeke koŋ ɖɩsɩnɩnɩ ɖama.",Mani muna da ƙoƙon pesan na rama.,1.0,0.6667
+866,"Yee ɩnɩ pɔyɔɔdʋʋ you nɛ ɖama wayɩ lɩʋ pɔ-tɔm lɛ, sɔɔndʋ ɛtaakpa-mɩ.","Yɛn nipo odoyow n'etama w'ayɛ ubodɔm le, sɔ ndu da",1.0,0.5962
+867,"Pʋwayɩ lɛ, Yesu pɩsɩ Ɛsɔ ɖɩɣa kadaɣ taa nɛ ɛwɩlɩɣ ɛyáa Ɛsɔtɔm.","kwaile, yesu wese soro gado da ne wele ya sodo",0.9167,0.6327
+868,"Pɛtɛma lɛ, palɩzɩ Kɩpaɣlʋ aseɣɖe nɛ posusi ɛ-tɔm nɛ pakʋyɩ pɔɖɔŋnɩ susuu Laŋhɛzɩyɛ Tɔm Samaarɩɩ tɛtʋ cikpetu sakɩyɛ taa nɛ papɩsɩ Yeruusalɛm.",Pade mal. Palesa gbalu asiri na busu ze domne. Pakwe iforo n'isi zulanghe ze domne samari that jikwete zaka ida na ba si Jerusalem.,1.0909,0.5897
+869,"Pɩtalabɩdɩ pʋyʋ yɔ, ɖɩ-taa ñɩma ñɩnaɣ se pakʋ-ŋ nɛ pɛɛ nɛ ŋcaɣ se ŋpɩsɩ peeɖe ɖɔɖɔ yaa we?",Yesu Josuɛzɛ,1.0,0.942
+870,"Mbʋ́ pʋyɔɔ yɔ, tɔm ndʋ́ Kɩpaɣlʋ heyi-ɖʋ yɔ, ńdʋ́ lɛ se: ‹Malɩzɩ-mɩ se ɩkɛnɩ ajɛya kpeekpe taa ɛyáa ñalɩmɩyɛ.",,,
+871,"Patalaa lɛ, paanaɣ se pɔyɔɔdɩ se we, mbʋ́ pʋyɔɔ yɔ, paa weyi ɛnɩɣaɣ tɔm ndʋ́ taabalaa yɔɔdaɣ yɔ nɛ ɛ-tɛ taa.",fa da laale fa no zopai odi suwe mpo pe o yo fa we enu odo mdu ede abala yo odo oya na ede da,1.1905,0.6173
+872,"Pʋ-yɔɔ lɛ, ɩñaɣ pana nɛ ɩtɩlɩ mbʋ́ pɩkɛdɩnɩ Kɩpaɣlʋ yɔ.","Bia, ọla. Enyị ọbannem, etu ịlụ mbọbị ka ị na-aga?",1.0,0.7857
+873,Đa-Kɩpaɣlʋ Yesu Krɩstʋ ɛlabɩ-mɩ lootiye!,taka boli Yesu Kristo ala melo tie.,1.2,0.4242
+874,Ɩsɛɛ ɖama ɛzɩ pʋmʋnaʋ yɔ nɛ pɩwɩlɩ se ɩsɔɔlɩ ɖama.,Esi Ramaa zepu muna uyo nebe wulise esi olu Ramaa,1.0,0.525
+875,Ma na?,mana? N'eze. Ka ọ baa n'ime. Mana,3.5,4.5
+876,"Tɛʋ fema lɛ, ewolo ɛcaɣ tɔm ɖɩhʋyɛ nɛ etiyi se powoni Pɔɔlɩ.","Tɔ vɩ malɩ, olé cɔdɔm rohoya, nɛ tɩ zɩbʊʊ nɛ pɔlɩ.",0.9167,0.5957
+877,"» Eheyi-wɛ ḿbʋ́ lɛ, petisi nɛ pakʋyɩ tanaŋ wɩsɩ nɛ powolo Ɛsɔ ɖɩɣa taa nɛ papazɩ ɛyáa wɩlʋʋ.","hewe m bole, na di sị na bọkọ ya na nwunye ya na bọkọ ya sịrị na bọbazi ya a welu",1.2353,0.6571
+878,"Kɩyakʋ kɩhɛzʋʋ ɖɛwa lɛ, Yoosi nɛ Yakubu po-ɖoo Maarɩɩ nɛ Magdala Maarɩɩ nɛ Saloomee powolo paya kɔyɛ sɔzɩŋ ñɩnɖɛ se powoni pataa Yesu yɔɔ.","Kɛ akɔkɛ hɛzʋ tɔwɛlɛ, yoo si na yaa Kpoboro Mari, na Magdala Mari, na Salome, pɔlɔ paya kɔyɛ sɔzɩŋ nyɩndɛ sɛpʋ ɩnɛ pɛtɛɛ Yesu yɔ.",0.8333,0.3571
+879,"Paa hɩlʋʋ ŋgʋ́ kʋ-nɔɔ taa nɛ awiya hulaɣ, pama paa ñʋʋ ŋgʋ́ kʋ-yɔɔ hɩla wena atʋʋ Ɛsɔ yɔ.",ba hili ongu ku no daa ne awi hulo pama ba anyu ongu ku yo ele we na di,1.0,0.5606
+880,"Ɛlɛ́, taabalaa yele nɛ pɩlabɩ-ɩ hʋnʋm nɛ pama egeetiye ńɖɩ́ ɖɩ-taa taabalaa takayaɣ se ɛtalaa lɛ, pamʋ-ɩ ɖeu.",Taba la ayel niba la beyo hunum. Niba ma igeti ndida taba la dakayo se dalale pamir,1.0,0.4643
+881,"Đɩtalɩ Room lɛ, paha Pɔɔlɩ nʋmɔʋ se ɛ nɛ sɔɔja weyi ɛɖaŋɩɣ ɛ-yɔɔ yɔ, pacaɣnɩ nɖeke.","Tatalu room le, paha pole numoze, ene so je we rang oye oyo pacha ni nduk.",0.875,0.5156
+882,"Mbá patɩŋa pana ḿbʋ́ yɔ, pɩtamaɣ-wɛ nɛ pemidiɣ pa-taa pe-ɖeke se: «Halɩ ɛkʋyaa nɛ ewolo ɛsʋʋ kɩwɛɛkɩm laɖʋ tɛ!",ba ba dinga ba na mbe yo. Bada ma wa na pe mi di uba da bere keze. Ha le ku ya na ewele su kwa ya ki ndaru,1.5263,0.5119
+883,"Mɩ lɛ, iwolo kazandʋ taa, ma maapadɩɣ wobu, mbʋ́ pʋyɔɔ yɔ, ma-alɩwaatʋ tatalɩda.","N'iile, ụlọ ọrụ gazịntụda ma ma abadụ ụlọ bụ mbọbịọyọ ma a lụọta datalụ",1.0,0.623
+884,Aseɣɖe ńɖɩ́ lɛ se: ɛtɩŋnɩ ɛ-Pɩyalʋ yɔɔ nɛ ɛha-ɖʋ wezuu maatɛŋ.,,,
+885,Ɛnʋ pʋwɛɛ se ɛhʋʋ mɔn-tɔm.,n'onwe ha bụ ndị ọrụ mọndọm. Mandaa na-ewu ụlọ anyị ma kwuo ya kemgbe na-adịghị anya. E si ya ma ma ndị m ziri nyo. Ya mere a na-akwụ ya kemgbe na-adịghị anya. Na-akwụ ya,7.0,5.95
+886,"Yee ɖɩɖɔŋ Ɛsɔ paɣtʋ yɔɔ yɔ, pɩwɩlɩɣ toovenim se ɖɩsɔɔlɩ-ɩ.","예, 여러분, 어서 와두요.",1.0,1.0
+887,"Pɩtakɩɣ-mɩ takʋʋ mbʋ́ yɔ, pɩfɛyɩ ndɩ nɛ ɛyáa lɛlaa takʋʋ.","Atakumbe atakumbe o, ife m na-eyere unu atakumbe.",1.0,0.7273
+888,Tɛɛ nɛ pʋ-yɔɔ lakasɩ kizuu.,haziya domdulu ka mawa yo nyu,1.2,0.9524
+889,"Mana ɖɔɖɔ Ɛsɔ tiyiyu ɖoŋ tʋ nɔɔyʋ, ɛpɔzaɣnɩ hola se: «Amʋnaa se ɛkpɛzɩ ɖenɖe ɖenɖe pañɩɣ nesi yɔ nɛ ekuli takayaɣ ŋ́gá».",A mụ na-asị ekwezị tinderị ndị ịbanye n'ụlọ nsọ na-ekwulite ka ha gaa.,1.0,0.7634
+890,"Mbʋ́ pʋyɔɔ yɔ, mɛnkɛnɩ Krɩstʋ tiyiyaa taa tɔyaɣ.",Mbu bia ya. Aka na-ekiri so ti ya na-ato ya.,1.25,0.6053
+891,"Alɩwaatʋ ndʋ́ maakɛ pɩɣa yɔ, mɔyɔɔdaɣ nɛ mamaɣzɩɣ nɛ mahʋʋ man-taa ɛzɩ pɩɣa yɔ.","Aloo, otu a ka m si akpọwa ya. Mụwa na ọnọdụ mụ na ọsọ na-ama ụmụ nwanyị azụ pụwa ya.",1.4286,0.6935
+892,"Eholaɣ ɖoŋ se: «Ɩsɔɔndɩ Ɛsɔ nɛ ɩɖʋ-ɩ hɩɖɛ, mbʋ́ pʋyɔɔ yɔ, ɛ-tɔm hʋʋ alɩwaatʋ talaa.",,,
+893,Ɛcaɣ peeɖe kɩyakɩŋ nɩɩnaza nɛ Satanɩ wolo ɛ-cɔlɔ nɛ ɛtakɩɣ-ɩ.,E chaa wee re yaa n'ihi na za na gaghị adị satanụọlụ ejola na etakọọ ya.,1.6,0.7347
+894,Ɛsɔ koboyaɣ tʋ kalɩzɩ ɛ-tɩ nɛ ɛwɩlɩ ɖɔ-cɔzɔ Abraham alɩwaatʋ ndʋ́ ɛɛwɛ Mezoopotamii yɔ nɛ pʋcɔ ɛ́lɛ́ kʋyɩ ewolo Haraɣ.,Sɔgɔbɛ yaa dɔ kaalɩsɩ ɛdɩnɛ evelu tɔjɔsɩ Abraham alɩwaatʊndʊ evelu Mésopotamie yɔ. Nɛ pʊcɔ ɛlɛ kʊyɩ evelu Haran.,0.8,0.3763
+895,Eeheyi-i se: ‹Kʋyɩ ñɛ-ɛjaɖɛ taa nɛ ŋyele ña-ñɩma nɛ ŋwolo ɛjaɖɛ nɖɩ́ mawɩlɩɣ-ŋ yɔ ɖɩ-taa.,Kuye nyaja rada ni nyili nyanyima. Na nwol eja ndi ma wola nyotada.,1.0,0.6061
+896,"Paa ḿbʋ́ yɔ, pɔsɔɔlɩ cɩkpɛndʋʋ nɛ pɩkɩlɩ-ɖɩ, mbʋ́ pʋyɔɔ yɔ, palakɩ ɛzaɣ́tʋ.","Pambuyo, pazolinga zikupereka nduna yaikulu, mbuyo yake, palakeza",1.0,0.7321
+897,"Piyele mbá pɛfɛyɩnɩ lidaʋ ɛ-yɔɔ yɔ, pʋwɛ-wɛ ɛzɩ pamaʋ Ɛsɔtɔm Takayaɣ taa yɔ.","Nye nụ m bafe n'ụlọ ọgwụ ọyọọ, ọ bụ ya eze bama ọsọ dom daka ọdị anyị.",1.3077,0.6667
+898,Pɩɩsɩŋnɩ mbʋ́ Ɛsɔ ɖʋwa se ɛlakɩ yɔ se puwobini ɛsɩndaa.,Pe s'en nombe osodua se elakayo se puo nne s'nda.,0.9,0.4773
+899,"Mbʋ́ pʋyɔɔ yɔ, ekizini Yuda ñɩma tɔm nɛ abalɩtʋ ɛyáa tɩŋa ɛsɩndaa kaŋŋ nɛ ɛtɩŋnɩ Ɛsɔtɔm Takayaɣ taa tɔm yɔɔ nɛ ɛwɩlɩ-wɛ se Yesu lɛ Weyi Ɛsɔ Lɩzaa Yɔ.","mbo be yɔ. Ɛkɛzɩnɛ yʊdanyɩma dɔm na abalɩtʊ yaa adɩŋa esiŋda kaŋ. Nɛ etin nɛ esudom daa adɔm yɔ, nɛ owolo wazi. Yesu wolo wɛɛ esuli za yɔ.",0.8276,0.4786
+900,"Ɛlɛ́, tɔm ndʋ́ ɖɩtɛzɩɣnɩ-mɩ yɔ lɛ se ɖɩsazɩɣ-mɩ nɛ ɖiheyiɣ-mɩ ɖa nɛ Kɩpaɣlʋ Yesu ɖɛ-kpɛndʋʋ taa se: ɩla nɛ pɩkɩlɩ ḿbʋ́!",ɛla tɔm dɔm tɛ sɔnɔ mɛ yɔlɛ sɩ tɛ sa sɔ mɛ nɛ tɩ hɛɛ mɛ tanakabali yɛ sɔ tɛ kpa nti ʊdasi ɛla nɛ pɛkɛlɩm,1.1429,0.5056
+901,Yeruusalɛm Krɩstʋ ŋgbɛyɛ sʋ kʋñɔŋ sɔsɔʋ taa.,"ya nembole. To wunem nyem na be kpayi, na be bi mi",1.7143,0.9189
+902,"Weyi ɛkalɩɣ tɔm ndʋ́ tɩlɩnɩ Ɛsɔ cɔlɔ nɛ pama-tʋ takayaɣ kanɛ ka-taa yɔ, ehiɣ ɛ-tɩ!",,,
+903,"Pɩlabɩ kɩyakɩŋ cabɩ lɛ, Yesu pɩsɩ Kapɛrnayum.","Pilabɔ kɛ yaa kʊnchaabɩlɛ, yeesu pɩsɩka pɛɛlɛ nɑyʊ.",1.1429,0.4054
+904,"Pɩkɛ toovenim, mbʋ́ pʋyɔɔ yɔ, wiyaʋ Eroodi nɛ wiyaʋ Pɔɔnsɩ Pilaatɩ nɛ Izrɛɛlɩ ñɩma nɛ mbá pɛtɛkɛ Izrɛɛlɩ ñɩma yɔ, patam nɔɔ ña-tʋmlaɖʋ kɩbanʋ Yesu weyi ŋlɩzaa yɔ ɛ-yɔɔ tɛtʋ tʋnɛ tɩ-taa.",Mbu bu ya a. Bu ya bu Erodi na bu ya Ponsi Pilati na Izrayeli nyi ma na mba bete ka Izrayeli nyi ma ya. Padam na onye adum laru gi ba na ya si we leza ya. Eyo tetu zo nete da.,1.3125,0.5685
+905,"Mana ɖɔɖɔ weyi ɛcaɣ kewiyaɣ kpelaɣ yɔɔ yɔ e-nesi kɩbanzɩ taa takayaɣ nakɛyɛ, pama ka-taa nɛ ka-wayɩ nɛ pataaɖɩ-kɛ nɛ nesi ñɩɣʋ tam lʋbɛ taa.",Manner rowi ajakuyak bulaya aya. Enesigbanza adaka yonke. Bamagada nagawai. Nabata origeni nesi nyu dom lubada.,0.96,0.5091
+906,Paɖʋ-m se mawɩlɩ mbá pɛtɛkɛ Yuda ñɩma yɔ toovenim nɛ lidaʋ pɔ-tɔm.,"Pardon, samaale, mpebe de ka Yuda nyi me to evenim na leader o.",1.0,0.5769
+907,"Ɛlɛ́, patapɩzɩɣ se palabɩ-ɩ pʋyʋ, mbʋ́ pʋyɔɔ yɔ, ɛyɔɔdaɣnɩ lɔŋsɩnɖɛ nɖɩ́ Fezuu Kiɖeɖeu ha-ɩ yɔ.","E le, pada be so, so pala baby, mbu bi oyo, oyo donlon si dende, osokali zo hayi.",1.2,0.6528
+908,"Pʋwayɩ lɛ, ɛma koloŋa nɛ ɛcɔzɩ nɛ ɛla ɖenɖe ɛpɩzɩɣ ɛñazɩ a-lɩm yɔ.","Walahi, emma golu nganna choze, na eleri de e nyaze wa lemi.",1.0,0.7059
+909,"Mbʋ́ pʋyɔɔ yɔ, efezi Yesu ɛzɩ ɛyɔɔdʋʋ nɛ pama Keɣsi Takayaɣ ñʋŋ naalɛ taa yɔ.","Mgbabe anya, ebezi Jesu ziri ya ozi ọma, na-ebameke isi dịka onye na-alịda anya.",1.0,0.6167
+910,"Weyi ma ɛlabɩ lootiye nɛ pʋmʋna se ɛyʋ ɛta-m liu yɔ, ma-maɣmaɣ ma-lɩmaɣza meheyiɣ-mɩ.","Onye ma ala bulu tiye na-bu munu si, o ga-etamli ya. O ma amamali, ma asaghi m ihe o ga-eme.",1.3571,0.5303
+911,Ɩñaɣ pana nɛ ɩwɛɛ laŋhɛzɩyɛ taa fɛɛɛ nɛ ɩnɩɩnɩ mɩ-maɣmaɣ mɩ-tɔm nɛ ɩla tʋma nɛ mi-nesi ɛzɩ ɖɩtɛm-mɩ heyuu yɔ.,"anya mbanu, ewe langa si daa fee na enu ni mu mamu dom na ela dom ni mi nisi. Chasiri dem ihe ewu",1.15,0.6471
+912,"Sɩɖaa tɔm taa lɛ, ɖe-liu fɛyɩ se ɩwɛɛ kaatɩlɩtʋ taa nɛ piyele mɩ-ɛsɛ kɔɔ añɩŋ ɛzɩ lɛlaa mbá paataɣ pʋyʋ liu yɔ.","Sɛ Radom daalɛ, tɛlɛvuwa ɛsɛ a waya ka talatɛ daa na piɛlɛ mɛ sakɔɔ anyɛn, ɛsɛ la la mpa paatɛ buwulu",1.0,0.5349
+913,"Pʋ-yɔɔ lɛ, mbá pɔtɔkɩ kʋñɔŋ ɛzɩ Ɛsɔ liu wɛʋ yɔ, pʋwɛɛ se pakpaɣ pa-tɩ pilim nɛ paɖʋzɩ e-nesi taa nɛ pala camɩyɛ.","kedu ka ị dị? Biko, dozie nsogbu a maka m. Anyị chọrọ ịbịakwute gị maka ihe nkiri anyị na-eme ugbu a, na-eme atụmatụ.",1.0455,0.8941
+914,"Mbʋ́ pʋyɔɔ yɔ, ma-maɣmaɣ mahaɣnɩ-mɩ lɔŋ nɛ ɩyɔɔdɩ nɛ mi-koyindinaa taa nɔɔyʋ ɛɛpɩzɩ ecosi yaa ɛkʋ mɩ-tɔm ndʋ́ ɩyɔɔdaa yɔ.","Mba, ọ bụghị ya. Ma ma ma ma ha na-eme nla na ndọndọ ehihie na mgbede na-adịghị anya ebe a bido ejosi ya okwute ya.",1.25,0.7234
+915,"Mamaɣ-ŋ takayaɣ kanɛ, ɛlɛ́, mamaɣzɩɣ se mɔnkɔŋ ñɛ-tɛ alɩwaatʋ tʋnɛ tɩ-taa.","Maan daka ya ka na. Ɛne? M'ama wo so se, m'ankwan nyinaa yɛde aro atutu ne kwan.",1.4545,0.5789
+916,"Ɛjaɖɛ lɛɛɖɛ kʋyʋʋ lɛɛɖɛ yɔɔ, kewiyaɣ lɛɛka ñakʋyɩ lɛɛka yɔɔ nɛ tɛtʋ ñamsɩ hɔɔlɩŋ ndɩ ndɩ taa nɛ ñɔɔsɩ lɩɩ.","Yesu yọ adambụnụ eli Yeruzalemle, e wulekwa zụọụmụ ngbọ yọ nụ echa nụ ịha ge nụ ịsa. Pụọ ya ndịle, Pịa nụ Yakubu nụ Yuwanesa.",1.25,1.0118
+917,Ɛɛkpɛlɩkɩ Kɩpaɣlʋ wayɩ tɩŋʋʋ tɔm camɩyɛ nɛ ɛwɛnɩ kpekpeka nɛ esusuu Yesu tɔm nɛ ɛwɩlɩɣ-tʋ tɩ-nasɩ taa.,Ebalakago baluwayi denga udomi jami. Nawayi anegbegbeka nesuzu yesu udomi. Naewele odudu na sida.,0.9412,0.6627
+918,Samaɣ nɛ cejewee nɛ kʋnʋmɩŋ nɛ ajɛya pa-taa ɛyáa nabɛyɛ kɔŋ cɔnaʋ po-tomnasɩ kɩyakɩŋ naadozo nɛ hɔɔlʋʋ.,"Kamụ anụ ejije wee, na-anụ mụ na-aje ebe dị a, na-abịa gụọ njem na Bible ma keekene adụzị n'ụlọ.",1.1176,0.6667
+919,"Ɛlɛ́, yee ɛyʋ ɛwɛɛkɩ Fezuu Kiɖeɖeu hɩɖɛ yɔ, Ɛsɔ eekpeɣiɣ-i kaʋ: ɛ-kɩwɛɛkɩm wɛɣ ɛ-yɔɔ tam.","E le ewe ewe a ka e sọgaliza hiri a yọ, e sọ ekwe o ịkaụ. Egu a ka mụ a yọ",1.4667,0.7612
+920,"Manawa se paa pɩɩla ɛzɩma yɔ, Ɛsɔ weyi ɛpazɩ tʋmɩyɛ kɩbanɖɛ mɩ-taa yɔ, ɛlakɩ-ɖɩ ḿbʋ́ nɛ ɛkɔɔ ɛtɛm-ɖɩ kɩyakʋ ŋgʋ́ Krɩstʋ Yesu kɔŋ yɔ.",Mana asụsụ Baibụl ezughị ya. Ọ sụọ ebe a zaa ọtụtụ ebe a na-emeghị ya. Ọ lakiri mbu na okwu etem na-ekwu ya bụ Klisto Jisọs gọọ,1.125,0.703
+921,E-Fezuu Kiɖeɖeu ɖoŋ yebina nɛ ɩkɛ ḿbʋ́ nɛ ɩña Yesu Krɩstʋ.,Akalazaru yibin na akambu na anya Yesu Kristo.,0.9091,0.5778
+922,"Peeɖe pɩɖɩɣzɩ patɩŋa yem ɖɩɣ ɖɩɣ, paanaɣ se pɔyɔɔdɩ se we nɛ pɔpɔzʋʋ ɖama se: «Tɔm tʋnɛ, tɩ-tɔbʋʋ se we?",,,
+923,"Lɛɛlɛɛyɔ, pɩkɛnɩ-m kɩcɛyʋʋ se mowolo Yeruusalɛm ɛzɩ Fezuu Kiɖeɖeu heyuu-m yɔ.","Léléo, é kɛ́ nám kà yɔ́ sɔ́ mɔ́ɔ̀ lɔ́ Jérusalem, é sɔ́ sɔ́ kalɩ sɔ́ hɛ́ɛ́ yim.",1.5455,0.6825
+924,Ɛnʋ yɔkɩnɩ koloŋa ŋgá kaawɛ Yuda ñɩma nɛ mbá pɛtɛkɛ Yuda ñɩma yɔ pɛ-hɛkʋ taa nɛ piyele pala nɔɔ kʋɖʋmaɣ.,Onye nyere gị nụ go l'nganga ka a bụ Yuda anyị ma na mberede ka Yuda anyị ma ya bụ ekwensu. Na Pịelụ balụ n'ọgwụrụ m.,1.2,0.6386
+925,"Mbá panaɣ lɛlaa pʋtɔdɩyɛ yɔ, pehiɣ pa-tɩ!",Mba ba na lala bu do di ya. Pe hu ba,1.4286,0.5312
+926,"Yee weyi ɛcaɣ se ɛ-kʋdɔndʋ yɔɔ ɛcɛ yɔ, ɛtʋʋzɩnɩ kɩyakɩŋ ɩnʋ ɩ-taa nakʋyʋ nɛ ɛkɔɔ.","예, 웨이. 애자스 에부도 은투요 에차요. 에토스 은케야 케응누 에다나쿠이 나에코",1.0,1.0
+927,"Ɛtalaa lɛ, eluŋ nɛ ɛcɔnɩ pɩlaʋ taa nɛ ɛna pɩsaŋ weyi paahuuzi Yesu yɔɔ yɔ tataa.",dalale oluŋ ne chone belo da ne na pesa ngui ba huze yesu ro yotata,0.9375,0.5079
+928,"Ɛlɛ́, yee mɩ-taa nɔɔyʋ ɛtakpaɣ-tʋ ɛ́yáa pʋyʋ yɔ, paakpakɩɣ pʋdʋ payaa pʋyʋ ɖɔɖɔ.","ye mitaa no yɔ etakpaado, eya abeyɔ, paakwa kɔɔ Dubaai abeyɔ",1.0,0.5246
+929,"Ɛnʋ labɩnɩ kedeŋa kpeekpe nɛ mbʋ́ pɩtɩŋa pʋwɛ kɔ-yɔɔ yɔ, ɛnʋ lɛ Kɩpaɣlʋ ɛsɔdaa nɛ tataa.","na agom mgbago be ya, padum ya na asatọ ụfụrụ maala, ọbụghịkwa ya dị m so n'ụyo. Mbughị ha nụpụọlụ iwere",1.3125,1.058
+930,"Mbʋ́ pʋyɔɔ yɔ, ɖa lɛ mbá pata Krɩstʋ liu nɛ pʋcɔ ɛkɔɔ yɔ.","Mbu bu aya, taa le mpa pa ta Kristu lu, na pu kyo oko ye.",1.1538,0.5476
+931,"Tɔm kɩbandʋ ńdʋ́, tɩwɛ Laŋhɛzɩyɛ Tɔm ndʋ́ tɩkɛ koboyaɣ yɔ tɩ-taa.",또 뭔가 반도. 또 알았어. 또 안 듣고 보여요.,1.0,1.0
+932,"Ɛɖɛɣaɣ lɛ, ɛkatɩ Etiyoopii abalʋ nɔɔyʋ, ɛkɛ eleɣye.","Eka Ethiopia abalụ nọọ, eka elo",1.0,0.6341
+933,"Ḿbʋ́ yebina nɛ weyi ɛkpa-m nɛ ɛkɔnɩ ñɔ-cɔlɔ yɔ, ɛ-kɩwɛɛkɩm kɩlɩ ña-ñɩmbʋ.","Ndi be nne nne, unu egbam na ekwe n'inyo joro ya, ego a ekem kili ya anya.",1.4167,0.7636
+934,"Mbʋ́ pʋyɔɔ yɔ, yee mɛnsɛɣ Ɛsɔ nɛ kʋnʋmɩŋ ɩnʋ yɔ, man-kalɩzaɣ wɛ Ɛsɔ sɛʋ yɔɔ.","mbo bi aya, ye mɛn za osɔnɔ kɔnɔ mɛn aya, mangalaza wulu osɔnɔ wulu",1.0,0.5789
+935,Peeɖe sɔɔja sɔsɔ ɛnʋ ɛna mɛlɛ ŋgʋ́ kɩlɩnɩ Alɛksandrii nɛ kuwoki Itaalii yɔ nɛ ɛsʋzɩ-ɖʋ-kʋ.,Ɛnɛ mɛlɛngu kɛlɛ Alexandrie nɛ kooko Italie yɔ nɛ ɛsusu,0.8,0.5417
+936,Ɩkpaɣ-ɩ nɛ ɩsɩnɩnɩ Yesu ŋgbɛyɛ taa ñɩma nɛ papɩɩ pe-lidaʋ wɛnaʋ taa.,Ekwubahị na-esị n'ihe so ekweghị adị anyị mma. Nna pa bụ ibe lịda wee na-uda.,1.25,0.7222
+937,› Peeɖe eheyi-i se: ‹Ŋŋnaɣ ña-kɩmɩyɛ takayaɣ!,mere ehee ze nna ya gi mere kee o,1.5,0.6667
+938,"Weyi paɖʋʋ ɛ-tʋmɩyɛ miŋ taa nɛ ɖɩtañaɣ yɔ, pɔkɔŋ-ɩ hɛyʋʋ.",we baro otu m ga-eme n'ihi na eruteghị m ya. Ọkwa m ga-ehi,1.3,0.8182
+939,"Peeɖe eheyi-i se: «Welesi ŋnɩɩ, lɛɛlɛɛyɔ, ñɔ-yɔɔ cɛba.",heye ze ko'in ba nyanyalu ne ndok heye di yor di mbole abalo ne yor,1.875,1.125
+940,"Pʋwayɩ lɛ, pakʋyɩ Antɩyɔɔsɩ Pisidii egeetiye taa peeɖe nɛ powolo pacaɣ Ikoniyɔm tɛtʋ taa.","waile, ba koya nti osi bi siti ge ti da be, ne bo lu bacha iko nu yom deteda",1.3571,0.5541
+941,"Ɛha-ɖɩ waɖɛ se ɖɩla nɛ sɩʋ kpelaɣ ŋgá pama ɛzɩ kajalaɣ kpɩnɛ ńɖɩ́ yɔ, kɛwɛɛ wezuu nɛ kɔyɔɔdɩ nɛ kala nɛ mbá patɩŋa payɩ paaluŋuu kɛ-tɛɛ yɔ, pasɩ.",Aha ewere m ezerela na juo m ihe m ga-agwa mmadu ihe ka jiri aguna ndu ya ka ewee wezuo unu ka onye obuna kala na mba obula kpoo ebe aruru ya ogada ya,1.1429,0.7143
+942,"Ɛtaasɔɔlɩ se ɛcɔɔ Yudee ñɩnɖɛ taa, mbʋ́ pʋyɔɔ yɔ, Yuda ñɩma ñʋndɩnaa ñɩnaɣ se pakʋ-ɩ.","Dhaasol ziɛɛk yude nyin dhaa, mbupu yoo, yuda nyim nyung dhaa nyin ozobak.",0.9333,0.5909
+943,Pʋkɔŋ wɩlʋʋ kawɩlɩsɩ ndɩ ndɩ ɛsɔdaa nɛ sɔɔndʋ kpa ɛyáa pɩtɩɩfɛyɩ.,"Ugwụ ọṅụ nwere onwe ya bụrụ lasị ndende, esoda anụ sọọ ndụ kwa eya abụọ ife",1.4545,0.7407
+944,Pɩpɩzaɣ se pɩkɛ hendu yaa tɔm natʋyʋ se ɛwɩlɩɣ yaa Ɛsɔ wɩlɩ-ɩ nabʋyʋ yaa ɛwɛnɩ tɔm natʋyʋ se ɛyɔɔdʋʋnɩ kʋnʋŋ ŋgʋ́ ɛyáa ɛɛnɩɣ yɔ kɩ-taa nɛ lɛlʋ ɖɛzɩɣ-tʋ.,O bu nani ka onye ya tọrọ na tọọzị ewelu ya ọ sọọ ya na tọọ ya ewe nị tọọzị ọ ya ọdị unu gị nụ gị ya enweghị ike dị na ndụ ndị,1.2143,0.75
+945,"Yesu tasɩ heyuu ɛ-tɔmkpɛlɩkɩyaa se: «Mbʋ́ piyeki se ɛyáa ɛla kɩwɛɛkɩm yɔ, pʋwɛ tam.",Yesu tasɛ heyudom galkiyaze. Mbu biye kize eyalagu ekem yopu,0.9286,0.4844
+946,"Pʋbʋ, ɩɖɔŋ Kɩpaɣlʋ ɛsɩndaa ɛzɩ pʋmʋnaʋ yɔ nɛ pɩkɛdɩnɩ-ɩ pɩtɩŋa pɩ-taa.","Povo, ọrọn gba alọ esin da si pọ mụ na wụ yọ, na pị kịde na ịbịte ngabịta.",1.6364,0.6607
+947,"Ɛlɛ́, kɛtɛzɩ ɖɛʋ nɛ laŋhʋlʋmɩyɛ nɛ Filiipu ñatɩnaʋ ɛ-tɩ yem Azɔɔtɩ tɛtʋ taa.",Kete srauna lang holomi na filipinyate na odi yem azote deteda.,0.9231,0.5833
+948,"Ɛlɛ́, pataanɩdɩ tɔm ndʋ́ pama Ɛsɔtɔm Takayaɣ taa se pʋwɛɛ se Yesu ɛsɩ nɛ efe yɔ tɩ-tɔbʋʋ.",,,
+949,Pʋ-yɔɔ efezi ɖa nɛ Krɩstʋ alɩwaatʋ ndʋ́ ɖɩɩsɩbɩ ɖa-kɩwɛɛkɩm yɔɔ ḿbʋ́ yɔ.,"Mpo ya evizeli na Kristo, aloba ete te, soki balakeli yo mpo",1.0,0.6964
+950,Ɩtɛm naʋ se ɛyáa kʋyʋ fɛyɩnɩ wezuu maatɛŋ.,"Madam, nọọzị. A ya agụrụ m gị ezigbo agụụ.",1.125,0.7941
+951,"Toovenim lɛ, nabɛyɛ kpakɩɣ ɛsɔdaa nɛ tataa wondu natʋyʋ se tɩkɛ pɛ-ɛsɔnaa.","tupu m laa m pụgbọwa sọda anetata na ya akpaka obuse, peesọ",1.0,0.7167
+952,"Ńdʋ́ ñɔzɩnɩ ajɛya kpeekpe taa ɛyáa tɩ-sʋlʋm nɛ pʋkʋʋ-wɛ, ḿbʋ́ lɛ tɩ-acɛyɛ ndʋ́ tɩlakɩ yɔ.",Tindii wɛ́ɛ́ zǐn àgɛ́ɛ́ kpɛ́kpɛ́ dǎ ɛ́yá sùsùlú m̀. Nɛ́ bɔ́ kɔ́ wɛ́. M̀bɛ́ wɛ́ɛ́ tɛ́ kɛ́ anyi tindii tɛ́ la kiyoo.,1.4,0.7015
+953,"Pʋwɛɛ se weyi ɛkɛ tayɩyʋ yɔ, ɛwɛnɩ halʋ kʋɖʋm koŋ.","O wee si wee e gata ya, ọ na-halụgoro m",1.0,0.6923
+954,Ɛsɔ tɩŋnɩnɩ e-ɖoŋ yɔɔ nɛ ɛlabɩ-m lootiye se manpɩzɩ malabɩ-ɖɩ.,na elabum lo ti,1.0,0.7959
+955,Ɛha-ɖɩ ɖɔɖɔ ɖoŋ cejewee tɩŋa nɛ samaɣ tɩŋa nɛ kʋnʋmɩŋ tɩŋa nɛ ajɛya tɩŋa pa-taa ñɩma yɔɔ.,"Aha, erororun, jeje we dindin, na zama dindin, na kunnomun dindin, na aje dindin, fada anyi mbayoo.",1.0,0.7429
+956,"Tɔm ndʋ́ Ɛsɔ kaɖʋwa nɛ eheyi Abraham yɔ, tɩ-alɩwaatʋ wɩzaa.",Tɔm sɔsɔ karuwɛnɛ ehey Abraham yɔ taa lotu wiza,0.8,0.3478
+957,"Yee ɖɩtɔm se ɖa nɛ Ɛsɔ ɖɩlabɩ nɔɔ kʋɖʋmaɣ nɛ ɖɩwɛɛ ɖɩlakɩ cɩkpɛndʋʋ tɛɛ lakasɩ yɔ, ɖɩkɛ pɔpɔtɩnaa, ɖɩɩɖɔŋ toovenim nʋmɔʋ taa.","Ihe ịrụ ụmụazi, tupu e soro laba n'okwu ịma, na-erugharị ka jikere ụdị ya lagasịrị ọyọ, jikere bọbọ dị na, jiri ndụ gị nụm nụm ụda.",1.1818,0.8119
+958,"Pɛtɛma lɛ, patɩŋa pɛsɛɛ Pɔɔlɩ siŋŋ nesi naalɛ nɛ palabɩ-ɩ wele wele nɛ pɛ-ɛsɩtɛɣlɩm kpe cɔɔɔ.",,,
+959,"Yudaasɩ weyi ɛkɔŋ ɖʋzʋʋ Yesu koyindinaa nesi taa yɔ, ɛsɩm ɖɔɖɔ peeɖe.",Yuda suwegon ruzu ye sugo inda na nishidayo. Ezem doro be,1.0,0.5714
+960,"Mbʋ́ pɩtɩŋa payɩ pɩlaba yɔ, pʋwɛɛ e-ɖoo taa nɛ ɛtɔzʋʋ pʋ-yɔɔ paa ɖooye.",,,
+961,» Peeɖe Niikodɛm pɔzɩ-ɩ se: «Ɛzɩma papɩzɩɣ paɖaɣnɩ lʋlʋʋ ɛyʋ weyi ɛtɛm paɣlʋʋ yɔ?,Eyi ni kudembo zeze. Esama bezo poronlolo ewi dembo,1.0,0.7143
+962,Mantala nabʋyʋ nɛ pɩfɛyɩ ɖeu nɛ pɩtasɩnɩ tɔm kʋɖʋmtʋ kɔŋ ndʋ́ mansɩŋ pɛ-ɛsɩndaa nɛ moholi yɔ.,,,
+963,Paatɩŋnɩ Fenisii nɛ Samaarɩɩ pa-ageeta taa nɛ Pɔɔlɩ nɛ Barnaabaasɩ pɛkɛdɩɣ a-taa ñɩma ɛzɩma mbʋ́ Ɛsɔ yeba nɛ mbá pɛtɛkɛ Yuda ñɩma yɔ papɩsɩnɩ ɛ-yɔɔ yɔ piye piye nɛ tɩla taabalaa tɩŋa leleŋ pɩŋŋ.,"Pa dongo ne fini zi, ne samari ba ge tida, ne Polo ne Barnaba su pekedo, ada anyim a, ezi ma mbu osi yebene, mbebe de kuyu d'anyim ayo, pabe si ne ba de yoyo bie bie. Ne tele da bala dongo aleling be",1.2941,0.5192
+964,"Mɩ piya caanaa lɛ, ɩtaañasɩ-sɩ tɔm, pɩtɛkɛ ḿbʋ́, pitiki si-toma taa.",Mibi ya na ala? Eta ya soso idom. Kedu kambo?,1.0,0.6667
+965,nɛ pʋkɔɔ pɩsɩɩnɩ alɩwaatʋ ndʋ́ mankpa ño-koyindinaa nɛ moluzi-wɛ ñɛ-tɛɛ yɔ.,na-akpọkwa gị site na alowatụ ndị a ma ngwanụ ngwanụ ndị na-emulizi waya nyere,1.2727,0.6667
+966,Ɛbɛ pʋwɛɛ se mala?,"bụrụ asimala. Eleghị anya ọ bụsịrị gị nwaanyị mara mma, ị na-ebe ihe mgbe ụfọdụ dị ka ọ sọrọ",4.75,4.7143
+967,"Peeɖe Ɛsɔ tiyiyu weyi mana ɛsɩŋ teŋgu nɛ tɛtʋ pɔ-yɔɔ yɔ, ɛkpazɩ e-nesi kɩbanzɩ nɛ Ɛsɔ nɛ eɖuuni weyi ɛwɛ wezuu pɩnzɩ ɛgbaŋ ɛgbaŋ yɔ.","Ehe, eso di uwa na ezi na tengu na etu tubayo. Egbazi na isi gbanzi na eso na eru niwa ewe wezu pinzi egbangba egbangba.",1.0,0.6058
+968,Pʋ-yɔɔ ɛ́lɛ́ kpazɩ-ɩ lone nɖɩ́ ɖɩkɩlɩ kʋyʋʋ yɔ ɖɩ-taa nɛ ɛ́yáa-ɩ hɩɖɛ nɖɩ́ ɖɩkɩlɩ lɛɛna tɩŋa payɩ yɔ.,"Elagbaza ilo na ndiri gele gwo uwa taa, na eya hi ndiri gele le ndi nga payi",1.0,0.6892
+969,"Ɛlɛ́, pʋwɛɛ se ɖɩtɔɔ-tʋ nɛ tindine nɖɩ́ ɖɩ-taa fɛyɩ sɔsɔɔna yɔ.",,,
+970,"Mɩ tʋmlaɖaa lɛ, pʋwɛɛ se iluzi mɩ-tɩ mɩ-caanaa tɛɛ nɛ ɩñam-wɛ siŋŋ.","Mèdụ́m nà àlà, pụ́èzè lụ́zụ̀ mụ́ dẹ́ m'ị́ jà n'àdị́ n'ènyà m'é sị́",1.0833,0.7647
+971,"Mɩ-taa ɛhʋlʋmɩ nɛ ɩmayɩ amaya, mbʋ́ pʋyɔɔ yɔ, mɩ-kɩhɛyʋʋ ɖɔ Ɛsɔ cɔlɔ pɩtɩɩfɛyɩ.",mụ da eholu m na emaghi ama ya. M bụbụ onye ọjọọ. Mụ gi haị ụtọ ịsọ jọrọ obi dị ihe,1.6154,0.7541
+972,"Đɩtalɩ peeɖe lɛ, ɖɩmaɣnɩ mɛlɛ ŋgʋ́ kuwoki Fenisii ɛjaɖɛ taa yɔ nɛ ɖɩsʋʋ-kʋ nɛ ɖɩɖɛɛ.",,,
+973,"Peeɖe ɛ-tɔmkpɛlɩkɩyaa taa lɛlaa pɔzaɣ ɖama se: «Tɔm ndʋ́ ɛyɔɔdɩ ḿbʋ́ yɔ, tɩ-tɔbʋʋ se we?",E domba la kiya dala la bozo ramaze?,1.0,0.7727
+974,"Maarta tɛm yɔɔdʋʋ ḿbʋ́ lɛ, ɛpɩsɩ nɛ ɛ́yáa e-neu Maarɩɩ nɛ eheyiɣ-i mɛsaɣ tɛɛ se: «Wɩlɩyʋ kɔma, ɛyaɣ-ŋ se ŋwolo.","Már ti dɛm yɔdɔ́ ʊ́mbɛ́lɛ́, ɛ́bɛ́ɛ́sí nɛ́ yáa nɛ́ ʊ́márɛ́ nɛ́ hɛ́ɛ́ ímɛ́ sɔ́dɛ́ɛ́zi. Wɛ́lɛ́ yɔ́kwa má, ɛ́yáa ngzínwɛ́lɛ́",0.9,0.561
+975,"Paa ḿbʋ́ yɔ, meheyiɣ-mɩ toovenim se: yee mɛnɖɛwa yɔ, pɩkɩlɩɣ-mɩ sɛʋ.",pa mboyo me heyumi do vonumze ye manda woyo pegele omeze,1.0,0.5098
+976,"Mbʋ́ pʋyɔɔ yɔ, cɩkpɛndʋʋ ɖɔŋ ɖɛʋ nɛ ñalɩmɩyɛ ñapazɩ ñalʋʋ: ńɖɩ́ lɛ toovenim mbʋ́ pʋwɛ mɩ nɛ Yesu Krɩstʋ mɩ-taa yɔ.",Mbu bu ayo. Chi kpe ndu oha na eze oha na nyalu m ibazi nyalu. Nde ole di bu nu m bu bu mme mme Jesu Kristi medalu.,1.3333,0.7241
+977,Ɛsɔ kpazɩ-ɩ koboyaɣ taa.,asokpaza ye go bu ya oda,1.5,0.5263
+978,Pɩtɛkɛ acɛyɛ yɔɔ palabɩ tomnaɣ: palabɩ-kɛ se kawazɩ Kɩpaɣlʋ nɛ ɛcɔnɩ kɔ-yɔɔ.,"Pita ka haiti o balabudum no. Balabaga sakawa si gabu alu ne, okyonu ga",1.1667,0.6557
+979,Peeɖe kitolisi-i nɛ kiwoni-i lakʋ taa nɛ ɛcaɣ peeɖe kɩyakɩŋ nɩɩnaza nɛ Satanɩ wɛɛ ɛtakɩɣ-ɩ.,"Béé godulsi, ko néé la koda, néé kyobéé ya kan néé naza, na kanya du satan wéé edakoyi.",1.2,0.7123
+980,Tɩwɛ hayɩm mbʋ́ Yakɔɔbʋ ha ɛ-pɩyalʋ Yozɛɛfʋ yɔ pʋ-cɔlɔ.,Tɔɔ haa yambou yaa kɔɔ bɔɔ haa byalu Yosef yɔɔ pɔjɔlɔ.,1.2222,0.5116
+981,Malɩzɩɣ ɛ-aseɣɖe se ɛñakɩ pana siŋŋ mɩ nɛ Laodisee nɛ Iyerapoolisi ñɩma mɩ-yɔɔ.,Malaika wa asili si anya ka ba na si me na laodi si na ya ra polisi nyi ma,1.4615,0.5
+982,"Paa pɩɩla ɛzɩma ŋsɩm Ɛsɔ paɣtʋ ndʋ́ paɖʋwa se: taala acɛyɛ, taakʋ ɛyʋ, taamɩlɩ, taacɛtɩnɩ lɛlʋ taa nɛ ŋña ña-caa nɛ ño-ɖoo yɔ?",paa bee lazima nzimba sobatu ndu parozze taala haydu taa koyo taa mele taa jeti nlelda na nya nya jaa nmeru,0.913,0.5312
+983,» Yesu pɔzɩ-wɛ se: «Paɣtʋ ndʋ́ Mooyiizi ɖʋ-mɩ?,"Moïse hanu o, o yebɛze ɛma kɛtse daka yɛnkyɛn a anɛ ron. Bɛre a Yesu joso wɛsɛ, Melangɛ bɛze nyɔ Moïse ruma ba",3.1429,2.2812
+984,"Piyele kajalaɣ ñɩma yɔ, paasusuu Krɩstʋ tɔm nɛ lɩmaɣza kɩbana.",piye lek njalukke maem?,1.0,0.7255
+985,Mancaɣ se ɩcaɣ wezuu ɛzɩ pʋmʋnaʋ yɔ nɛ ɩtɩŋ Kɩpaɣlʋ wayɩ nɛ mɩ-laŋɩyɛ tɩŋa pilim.,,,
+986,"Ńdʋ́ lɛ se: yee nɔɔyʋ ɛcaɣ se ɛkɛ Yesu ŋgbɛyɛ taa ñɩma yɔɔ cɔnɩyʋ yɔ, tʋmɩyɛ kɩbanɖɛ pʋdʋ liu wɛɛ.","Dolesse, yé nọ éjásè éka yé só égbè d'anyi ma yó chọ n'oyon. Tọmè ékaba ndè pótulúwè.",1.0,0.6533
+987,"Ɛlɛ́, ɛnaɣ ɛyáa pʋtɔdɩyɛ pɩŋŋ, ɛsɔɔlɩ-ɖʋ kámaɣ́ fɛyɩ.",ana ayabudati pɔ̃ɔ̃ ɔzɔ̃ dɔkama,1.0,0.7
+988,"Piyele mɩ yɔ, mɩ lɛ liɖe nɖɩ́ Ɛsɔ lɩzaa yɔ ɖɩ-taa ñɩma.",Mú nà liri ndu sọlụ zàrị d'anyị,1.0,0.775
+989,Ɩtɛm sɩm mɔn-ɖɔnɛ alɩwaatʋ ndʋ́ ma nɛ mɩ ɖɩɩwɛɛ kpaɣ ɖooo kɩyakʋ ŋgʋ́ mancalɩ fɛyʋʋ mɩ-tɛ Aazii egeetiye taa yɔ.,"anyi dum si mu ndone, alu atu ndu ma na-emeta iwe. Kpaodu, kpiaku nguma njalu fa ihe o mere. Asi egitide anyi",1.1,0.6023
+990,"Pʋ-yɔɔ lɛ, halʋ weyi ña ŋwɛnɩ lidaʋ Krɩstʋ yɔɔ yɔ, ŋlabɩ ɛzɩma ŋtɩlɩ se ŋpɩzɩɣ ŋya ña-walʋ ñʋʋ?",yoo la halu weenyan wulitao krisiyo la baesemen delise mbezo nyanyawalu,1.0,0.589
+991,"Yee ɖɩpɔzʋʋ Ɛsɔ mbʋ́ e-liu wɛɛ yɔ yɔ, ɛnɩɣnɩ-ɖʋ.",Yeol was awesome.,1.0,0.8571
+992,"-Ma Yesu tiyiyu Pɔɔlɩ nɛ man-taabalaa tɩŋa mbá pɛwɛ cɩnɛ yɔ, ɖɩmaɣnɩ Krɩstʋ aŋgba wena awɛ Galaatɩ egeetiye taa yɔ a-taa ñɩma takayaɣ kanɛ.","Ma yesu di upa la, na mmadụ abalị atọ ga-anọkwa ya. Tọọ ma na Kristo agbaala na Galati egeti dị anyị adịghị mma ka ya gaa n'ihu.",1.0417,0.5405
+993,"Peeɖe mbʋ́ ŋsɩma yɔ, pilesiɣ weyi ɛtapɩɩ Ɛsɔ nʋmɔʋ taa yɔ.",Mbee mbonzama ya? Nlesi weyitave oso numudayi,1.0,0.5111
+994,Peeɖe ɛpɔzɩ-wɛ se: «Tɔm ndʋ́ ɩyɔɔdʋʋnɩ ɖama nʋmɔʋ taa ḿbʋ́?,Tɛ́ yɛ́ bɔ́ zɔ́ wɛ́ zɛ́. Tɔ́m̀dɔ́ ɛ́yɔ́ dɔ́ ndáma nʊ́ mɛ́ wɛ́ dɔ́ amba.,1.5,0.5682
+995,"Mbʋ́ pʋyɔɔ yɔ, ɩha Ɛsɔ weyi ɛtɩŋnɩ Krɩstʋ lootiye yɔɔ nɛ ɛ́yáa-mɩ se ɩkɛ ɛ-ñɩma yɔ siɣ́ye yem kɛlɛʋ nɛ ɩnɩɣnɩ Laŋhɛzɩyɛ Tɔm lɛɛtʋ.","Mbu bia ya, etete nga aha oso we ete m na keri soloti ya na ya amesi eke anyi ma esi ya na enu na langa si domlet.",1.1667,0.69
+996,"Pɩtasɩɩnɩ ɖe-ɖeke, ɛlɛ́, Fezuu Kiɖeɖeu ŋgʋ́ Ɛsɔ ha mbá pañaŋ-ɩ yɔ, kɩkɛ tɩ-aseɣɖe tʋ ɖɔɖɔ.","ta si nde ke, kale, kala zonga oso ha mba banya ngiyo, ta si ro",0.9333,0.6716
+997,"Peeɖe mbá paawɛnɩ lidaʋ Krɩstʋ yɔɔ nɛ pʋcɔ pasɩ yɔ, pɛlɛyɩɣ fem.","Bịa, mba baa, olee taa bụ Krismas, unu bụchaghịkwa si ya? Kedu ihe",1.0,0.8235
+998,Mawɩlɩ-mɩ pɩtɩŋa pɩ-taa se ḿbʋ́ pʋwɛɛ se ɩla tʋmɩyɛ nɛ ɩsɩnɩ kʋñɔndɩnaa nɛ ɖatɩŋa ɖɩtɔzɩ tɔm ndʋ́ Kɩpaɣlʋ Yesu maɣmaɣ yɔɔdaa yɔ tɩ-yɔɔ.,"M̀bọ̀lọ́ m̀ yí pẹ̀lú àwọn ọ̀rọ̀ wọ̀nyí, m̀bọ̀lọ́",1.0,0.9159
+999,"Tʋtʋ nɛ tɔm ɛzaɣ́tʋ nɛ niɣzuu tɔm, pataatɩɩlɩʋ ɖɔɖɔ mɩ-nɔɔ taa: pɩfɛyɩ ɖeu.","tôt, le temps est à tôt, le nid du temps pas d'atelier",1.0,0.8103
