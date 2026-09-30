@@ -223,18 +223,17 @@ h3.section-title { font-size: 0.98rem; font-weight: 600; color: var(--text-stron
           <!-- Three kinds of system, not one ranking. The stored class for
                proprietary ASR is still "api", which is how those results are
                delivered; "proprietary" is what actually distinguishes them from
-               the open track, and what a reader cares about. Open is the default
-               because it is the only track whose weights are fixed and whose
-               scores anyone can reproduce. -->
-          <option value="non-llm" selected>ASR (open models)</option>
+               the open track, and what a reader cares about. All is the default so
+               nothing is hidden; the open track is one filter away, and it is the
+               only one whose weights are fixed and whose scores anyone can reproduce. -->
+          <option value="All" selected>All</option>
+          <option value="non-llm">ASR (open models)</option>
           <option value="cpu">CPU models (≤0.3B)</option>
           <option value="api">ASR (closed models)</option>
           <option value="llm">LLM</option>
-          <option value="All">All</option>
         </select>
       </div>
       <p style="color:var(--text-muted); margin-bottom:8px;">Best model per language — ranked by CER (lower is better). Individual WER/CER scores shown for transparency.</p>
-      <p style="color:var(--text-muted); margin-bottom:8px;">Open models are the core of this benchmark: their weights can be downloaded and the scores re-run by anyone. The closed models and LLM tracks are shown for comparison.</p>
       <p id="global-api-note" class="section-note" style="display:none; margin-bottom:8px;"></p>
       <p id="global-source-note" class="section-note" style="display:none; margin-bottom:14px;"></p>
       <div class="table-wrap">
