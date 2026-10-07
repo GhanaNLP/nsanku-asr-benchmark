@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Esiane mʼankasa mʼanuonyam ne mʼakoa Dawid nti.,Esiane mankasa anuonyam ma kua Dawid nti.,0.5714,0.175
+1,” Ɔyɛɛ saa de adagyaw a nʼanan nso sisi fam dii akɔneaba.,Ɔyɛɛ saa de adagyaw a n'anan nso sisi fam dii akwan aba.,0.2727,0.0909
+2,"Munnue, mo a mode nnaadaa nhoma twetwe bɔne.","Monnue, mo a mode nnaadaa homa twetwe bɔne.",0.25,0.0571
+3,"Mommma mo werɛ mmfi sɛ mobɛyɛ mo ho mo ho papa aboaboa mo ho mo ho, efisɛ ɛno ne afɔrebɔ a ɛsɔ Onyankopɔn ani.","mmoemfisɛ mobɛyɛ mo ho mo ho a, aboaboa ɛsoankopɔn ni.",0.75,0.4941
+4,"Eye, na afei ananafo ano ne kasa foforo.",eye na afei ananafo ano ne kasa foforɔ.,0.125,0.0323
+5,Eyi di ho adanse sɛ na ɔyɛ onipa kɛse a Agya Abraham mpo tumi ma no nʼasade mu nkyɛmu du mu baako.,Yi hɔn dan nso sɛ na ɔyɛ onipa kɛse a Agya abrampotumi ma no na sɛdeɛ mu nti mu du mu baako.,0.5,0.2105
+6,Nkɔmhyɛ A Etia Arabia.,Nkɔmhyɛ a etia areaaarea.,0.25,0.2778
+7,na wɔde wɔn anofafa hyɛ me anuonyam.,"na moka kyerɛɛ no se, ""Mesrɛ wo kenkan yɛ yi a, wobɛbue menni maka.",1.8571,1.3103
+8,Yuda rehwe ase; wɔn nsɛm ne nneyɛe tia Awurade.,Yuda rehwe ase; wɔn sɛ ne ne yɛn tia Awurade.,0.3333,0.1081
+9,Afei nguan bɛkɔ adidi te sɛnea wɔwɔ wɔn adidibea; nguantenmma bedidi wɔ asikafo amamfo so.,Afei wan bɛkɔ adidi te sɛnea wɔwɔ wɔn adidibea; nguantenmma bedidi wɔ asikafo amamfo so.,0.0667,0.0405
+10,Monnka Hebri na nnipa a wɔwɔ ɔfasu no so no bɛte ase.,Monnka Hebri na nnipa a wɔwɔ ɔfasu no so bɛte ase.,0.0833,0.0488
+11,abɛpete trenee agu wo so.,abɛpete tenenee agu wo soa,0.4,0.15
+12,"fii nʼakyirikyiri ntwea so, na mefrɛɛ wo.","fii nakyiri kyiri ntweaso, na mefrɛɛ wo",0.4286,0.0303
+13,Ɔde dua no mu fa sɔ ogya; so na ɔnoa nʼaduan.,Ɔde dua no mu fa sɔ gya so na ɔno na aduan,0.3636,0.0909
+14,“Nanso Israelfo bɛyɛ sɛ mpoano nwea a wontumi nkan wɔn.,Nanso salo bɛyɛ sɛ mpoano nwea a wontumi nka wɔn.,0.2,0.1136
+15,Wɔyɛɛ afoforo bi nso ayayade sɛ anka wɔmpa Onyankopɔn na wonnyaa wɔn.,ɔyɛ afu bisaa sɛ anka wɔmpa Onyankopɔn na wonnyaa wɔn.,0.4167,0.2456
+16,"Muntwa nkɔ Tarsis; muntwa adwo, mo a mowɔ supɔw no so.","Montwa nkɔtase montwa adwo, mo a mowɔ supɔ no so.",0.4545,0.1463
+17,"Memaa wɔn aduan no, wodi mee; wɔmee no, wɔyɛɛ ahantan; na wɔn werɛ fii me.","mema wɔn aduan no, wodi mee; wɔmee no, wɔyɛɛ ahantan; na wɔnwiee.",0.3333,0.1273
+18,"oguamanfo a wɔnnkae wo; bɔ sankuten no yiye, to nnwom bebree.",oguamanfo a wɔnnkae wo; bɔ sankuten etuwo bebree.,0.3636,0.1875
+19,"” Nanso na ɔhene no redwene sɛ, ne bere so de, obenya asomdwoe ne bammɔ.","Nanso na ɔhene no redwene sɛ, ne bere so de, obenya so dwene bambɔ.",0.2143,0.0741
+20,a ɛrentwa mu da.,a ɛrentwam,0.75,0.25
+21,"” Ɛnyɛ ɔno na ɔhene Hesekia atutu nʼabosonnan ne afɔremuka nyinaa, ahyɛ Yudafo sɛ wɔnsom wɔ afɔremuka a ɛwɔ Yerusalem ha nko ara so no?",Ɛnyɛ ɔno na ɔhene Hesekia atutu na abosonnan ne afɔremuka nyinaa ahyɛ Yudafo sɛ wɔnsom wɔ farm ka a ɛwɔ Yerusalem ha nko ara so no.,0.1667,0.0463
+22,ahemfo somfo no; “Ahene behu wo na wɔasɔre.,"ahemfo somfo no, ahene behu wo na wɔasɔre.",0.0,0.0
+23,"Wɔka kyerɛɛ no se, “Sɛnea ɔhene Hesekia ka ni: Saa da yi yɛ ɔhaw, animka ne animguase da.","Wɔka kyerɛɛ no se, ""Sɛnea ɔhene Hesekia kenaana nguase da.",0.5556,0.3284
+24,"“Mommoaboa mo ho ano na mommra; munhyia mu, mo aguanfo a mufi amanaman so.","Mommoaboa mo ho ano na mommra; munhyia mu, mo aguanfo a mufi amanaman so.",0.0,0.0
+25,Mɛma Kores so wɔ me trenee mu; meteɛteɛ nʼakwan nyinaa.,Mɛma Kores so wɔ metene mu mɛtetenkwan nyinaa.,0.4,0.1591
+26,ɔfasu tenten bi a ahyɛ kam na akyea.,ɔfasu tenten bi a ahyɛ kam na akyea.,0.0,0.0
+27,Afoforo bi nso wɔ hɔ a wama wɔn kwan sɛ wonnya ɔhome no.,.,1.0,1.0
+28,"Hesekia buae se, “Wohuu biribiara a ɛwɔ mʼahemfi ha.","Hesekia buae se, ""Wohuu biribiara a ɛwɔ maheni ha.",0.1111,0.0732
+29,Momma yɛntwe yɛn ho mfi akwanside nyinaa ne bɔne a akyekyere yɛn denneennen no nyinaa ho na yɛnyere yɛn ho wɔ mmirikakansi a ɛda yɛn anim no mu.,mma yɛntwe yɛn ho fi akwanside nyinaa ne bɔne a asekyerɛ yɛ de ne ne ne nyinaa ho na yɛayeyɛ ho wɔ mekasa ɛda yɛnim mu.,0.5357,0.2414
+30,"na wɔkari dwetɛ wɔ nsania so; wɔbɔ sika dwumfo paa, ma ɔde yɛ onyame bi.",na wɔkari dwetɛ wɔ nsania so ɛnam.,0.6,0.5091
+31,"Asomdwoe kwan no, wonnim; atɛntrenee nni wɔn akwan so.","Asomdwoeɛ kwan no, wɔnnim; atɛntenenee nni wɔn akwan so.",0.3333,0.093
+32,nnyigyei no maa mʼano poo biribiri; ɔporɔw hyɛn me nnompe mu.,Na gyinma mano pobibi enum.,1.0,0.5918
+33,"“Montwiw mmɛn me na muntie eyi: “Efi nkaebɔ a edi kan no, menkasaa wɔ kokoa mu; bere biara a ebesi no, na mewɔ hɔ.",Montwi mma me na muntie eyi; hɔ.,0.7917,0.7262
+34,"Esiane saa nti, bere a Kristo rebɛba wiase no, ɔka kyerɛɛ Onyankopɔn se: “Wompɛ afɔrebɔ ne ayɛyɛde.","Esiane saa nti, perart rebɛwie no, ka kyerɛɛ Onyankopɔn se, ""Wopɛ afɔrebɔnayɛ de.",0.5882,0.1923
+35,na odi maa mmaratofo.,na ɔdi maa mmaratofoɔ.,0.5,0.1176
+36,Ma wonhu wo mmɔdemmɔ wɔ wo nkurɔfo ho na ɛnhyɛ wɔn aniwu; ma ogya a wɔasɔ ama wʼatamfo no nhyew wɔn.,Ma wonhu wo mmɔdemmɔ wɔ wo nkurɔfo ho na ɛnhyɛ wɔn aniwu; ma ogya a woasɔ ama w'atamfo no nso wɔn.,0.1429,0.0769
+37,Wɔn a wɔyɛ ahoni nyinaa bɛfɛre na wɔn anim agu ase; wɔbɛbɔ mu akɔ animguase mu.,Wɔn a wɔyɛ ahoni nyinaa bɛfɛre na wɔn anim agu ase; wɔbɛbɔ mu akɔ anurse mu.,0.0625,0.0645
+38,"Efisɛ mo, moapirim mo koma; moasisiw mo aso.",efisɛ mo mapirim koma masisi wo m'aso.,0.625,0.1765
+39,"Saa bere no, wɔde akyɛde bɛbrɛ Asafo Awurade.","Saa bere no, wɔde akyɛde bɛbrɛ Asafo Awurade.",0.0,0.0
+40,sɛnea Salman sɛee Bet Arbel ɔko da no.,"Sene Saman sɛe Bɛt-Abel ɔko da no, da ɔde ananom ne wɔn mma hwehwee fam no.",1.75,1.2333
+41,"Munyi sikanibere mfi mo abrabɔ mu, na momma mo ani nsɔ nea mo nsa ka.","Monyi anim abrabɔ mu, na mo a mo ani nsɔ nea mo nsa ka.",0.4,0.2642
+42,Awurade na ose.,Awurade na,0.3333,0.25
+43,"” Enti, ɔwaree Diblaim babea Gomer, na onyinsɛn woo ɔbabarima maa no.",Nkyɛ ɔware dibela gomnanim maa no.,0.8182,0.5926
+44,Awurade nsa bɛda saa bepɔw yi so; nanso obetiatia Moab so.,Awurade nsa bɛda saa bepɔ yi so; nanso ɔbɛtiatia Moab so.,0.1818,0.0652
+45,ne nkataso a ɛkata aman nyinaa so no; Ɔbɛmene owu afebɔɔ.,"ne nkataso a ɛkata aman nyinaa so no, ɔbɛmene owu afebɔɔ.",0.0,0.0
+46,ne wʼakofo bebrebe no so.,wo,1.0,0.9
+47,Ampa ara aman no te sɛ nsu sope wɔ bokiti mu; wɔde wɔn toto mfutuma a egu nsania so ho; ɔkari nsupɔw te sɛnea ɛyɛ mfutuma muhumuhu.,Ampa ara aman no te sɛ nsosɔ pe wɔ bokiti mu; wɔde wɔn ho too mfutuma agu nsania so ho; mu.,0.4815,0.3824
+48,"Sɛ wubenya apɔnkɔsotefo mpenu, afi wo asraafo mu a, ɔbɛma wɔn apɔnkɔ mpenu ama wɔatenatena wɔn so.","Sɛ wobɛnya apɔnkɔsotefo mpenu, afi wo asraafo mu a, ɔbɛma wɔn apɔnkɔ mpenu ama wɔatenatena wɔn so.",0.0588,0.0253
+49,"Ne nne wosow asase saa bere no, nanso mprempren wahyɛ bɔ se, “Ɛnyɛ asase nko na mɛsan awosow no, na mɛwosow ɔsoro nso bio saa ara.","ne nne wosow asase saa berɛ no, nanso mpempranne mɛsan awosow no, na wo so ɔsoro nso bio saa.",0.4615,0.3
+50,sɛnea Melkisedek asɔfokwan nhyehyɛe te no.,"Sɛnea makesee asɔfokwan so hyɛeɛ no, yi.",0.6667,0.3611
+51,nea ɔte ase daa a ne din yɛ kronkron no se: “Mete beae a ɛkorɔn na ɛyɛ kronkron.,"nea ɔte ase daa a ne din yɛ kronkron no se: ""Mete beae a ɛkorɔn na ɛyɛ kronkron.",0.0,0.0
+52,obesiesie nnuan pa ne nsa a adi nna; nam pa ne nsa pa ama nnipa nyinaa.,ɔbɛsiesie nampa ne nsa a adi nna; na mane nsa pa ama nnipa nyinaa.,0.375,0.1111
+53,"“Nanso mo mmuada da no, moyɛ nea mopɛ.","Nanso momuadada no, moyɛ nea mopɛ.",0.375,0.0357
+54,"mo a mowɔ asase ano nyinaa; efisɛ mene Onyankopɔn, na obiara nni hɔ.",Mo a mowɔ asase ano nyinaa fiena,0.5385,0.5094
+55,nea menwen no na meyɛɛ no.,"Nea menwie no na meyɛ no, momfa wɔn a wɔwɔ ani, nanso wɔadɔɔso.",1.5,1.55
+56,na wasisi ahemfi akɛseakɛse; Yuda abɔ nkurow bebree ho ban.,na wɔsisi ahemfi akɛseakɛse; kurobo a,0.7,0.375
+57,Momma yɛmfa yɛn ani nto Yesu a yɛn gyidi mfiase ne nʼawie gyina ne so no so.,Momma yɛmfa yɛn ani to Yesu a yɛn gyidi mfiase ne awiei no so no so.,0.2353,0.1356
+58,"Obi nnim Melkisedek agya, ne na, ne ne mpanyimfo ho asɛm.",Obi nnim kesed agya ne na ne ne mpanimfoɔ ho asɛm.,0.1818,0.1818
+59,"Mete sɛ dua a nʼahaban mpo; sɛ wobɛsow aba a, egyina me so.","Mete sɛ aduanan mpo sɛ wobɛso aba a, gyina so.",0.4615,0.25
+60,Ma nweatam ne so nkurow mma wɔn nne so; ma atenae a Kedar te so no nsɛpɛw wɔn ho.,Ma nnua tam ne so nkurow ma wɔn ne so ma ataraa so no nsɛpɛ wɔn ho.,0.4737,0.2295
+61,"Na Misraimfo yi yɛ nnipa kɛkɛ, wɔnyɛ Onyankopɔn.","Na Misraimfo yi yɛ nnipa kɛkɛ, wɔnyɛ Onyankopɔn.",0.0,0.0
+62,"Woka se wowɔ akodi ho nyansa ne nʼahoɔden, nanso woka nsɛm hunu.",Woka se wowɔ akodi ho nyansa ne n'ahoɔden nanso woka nsenhunu.,0.25,0.0588
+63,Monhwɛ yiye na mo mu bi anyɛ sɛ afifide a ɛyɛ nwen a enyin ma ne bɔnwoma no haw afoforo.,Monhwɛ yie na mo mu bi anyɛ sɛ afifide a ɛyɛ nwen a enyin ma ne bɔnwoma no haw afoforo.,0.05,0.0147
+64,na ɔde kyerɛwdua sensan; na ɔde pɛe yiyi ho.,na ɔde kyerɛwdua sensan; na ɔde pɛe yiyi ho.,0.0,0.0
+65,"” Efisɛ, “me fi abubu.",Ebaana,1.0,0.8571
+66,Lebanon bɛhwe ase wɔ Ɔkɛse no anim.,Lebanon bɛhwɛ ase wɔ ɔkɛse no anim.,0.1429,0.0357
+67,Ɔde mogya a ɔde bɔ ɔno ankasa ne ne nkurɔfo mfomso ho afɔre ka ne ho kɔ.,Ɔde mogya a ɔde bɔ ɔno ankasa ne ne nkurɔfo momoho afɔre ka ne ho kɔ.,0.1176,0.0364
+68,wɔn a wɔne no ayɛ dɔm benya so akatua; nsupɔw no nso obetua wɔn ka sɛnea ɛfata wɔn.,wɔn a wɔne no ayɛ dɔm benya so akatua; na wɔn,0.4444,0.4688
+69,Gyidi yɛ ahotoso a yɛwɔ wɔ nneɛma a yɛn ani da so ne awerehyɛmu a yɛwɔ wɔ nneɛma a yɛn ani nhu mu.,Gyidi yɛ ahotoso a yɛwɔ wɔ nneɛma a yɛn ani da so na ayehyɛ maeɛ wɔ wɔ nneɛma a yɛn ani kum.,0.2609,0.12
+70,Yɛn agyanom a wɔwɔ asase so ha twee yɛn aso sɛnea wɔpɛ wɔ bere tiaa bi.,Yɛn agyanom a wɔwɔ asase so atwen aso sɛnea wɔpɛ wɔ biriti bi.,0.3125,0.1455
+71,"Wɔde adaeso a ɛyɛ nwonwa akyerɛ me: Ɔfatwafo di huammɔ, ɔfomfo fa asade.","wɔde adasyeɛ a ɛyɛ nwonwa akyerɛ me ɔfatwafo di hwammɔ, ɔfaade",0.3846,0.2105
+72,saa ara na mʼasɛm a efi mʼanom no te: Ɛrensan mma me nkyɛn kwa.,Saa ara na masɛm a ɛfi m'anim no te rensane ma me nkyɛn kwa.,0.3571,0.125
+73,"‘Me ne no, obiara nni hɔ ka me ho.","Mene no, obiara nni hɔ a ne ho a",0.5556,0.1304
+74,"Saa nantwi ba yi, odwumfo bi na osenii; ɛnyɛ Onyankopɔn!","a nantwiba yi, odwumfo bi na osii nyɛnɔ.",0.6,0.2955
+75,na sɛ onyan a ɔte sɛ ɔkɔm de no no; sɛnea obi a osukɔm de no so dae sɛ ɔrenom nsu.,"na sɛ onyan a ɔte sɛ ɔkɔm de no no, sɛnea obi a sukɔm de no no so dae sɛ ɔrenom nsu.",0.0952,0.05
+76,Minni aduan anaa ntama wɔ me fi; mfa me nyɛ nnipa no so kannifo.,Minni aduan anaa ntama wɔ me fi; mfa menyinsɛn,0.4286,0.2653
+77,"Ɛbɛyɛ hintabea ne onwini wɔ awia anoden mu, na osu ne ahum mu nso, ɛbɛyɛ guankɔbea ne hintabea.","Ɛbɛyɛ hintabea ne onwini wɔ awia anoden mu, na osu ne ahum mu nso, ɛbɛyɛ guankɔbea ne hintabea.",0.0,0.0
+78,Hena na nʼani afura sɛ nea ɔde ne werɛ ahyɛ me mu.,Hena ne n'ani afura asɛ nea ɔde ne yere ahyɛ me mu.,0.3333,0.1316
+79,na wɔagya mo kwan asomdwoe mu; mmepɔw ne nkoko.,na wɔagya mo kwan asomdwoeɛ mu; mmepɔ ne nkoko.,0.2222,0.0541
+80,"“nea ɔka fa Yerusalem ho se, ‘Wɔbɛtena mu,’.","Nea ɔkafo Yerusalem ho se, 'Wɔbɛtena u",0.375,0.0645
+81,Nnome nka wɔn!,Nnomaa wɔn.,0.6667,0.2727
+82,a worentumi mfa mpata nyi mfi hɔ; atoyerɛnkyɛm a ɛnnaa ne ho adi nkyerɛɛ wo.,worentumi mfa mpata nyi mfi hɔ; na akyerɛ,0.6,0.45
+83,mefow wɔn ademude; mebrɛɛ wɔn ahemfo ase te sɛ ɔbran.,Mefi wɔn ada mu de mebrɛɛ wɔn ahemfo ase te sɛ ɔbran,0.4,0.0714
+84,"Wɔn nsusuwii bɔne no dɛɛdɛɛ anadwo mu nyinaa; anɔpa, ɛdɛw te sɛ ogyatannaa.",Wonsuɔn dada anadwo mu nyinaa anaa dates gyata,0.7692,0.4333
+85,"“Me de, eyi yɛ me ne wɔn apam,” sɛnea Awurade se ni.","Me de, eyi yɛ me ne wɔn apam sɛnea Awurade se ni.",0.0,0.0
+86,Oguadini de asisi nsania yɛ nʼadwuma; nʼani gye asisi ho.,"Oguadini de asisi nsania yɛ n'adwuma, na anigyeɛ si o.",0.5,0.1304
+87,twa ɔdɔ aba a ɛtena hɔ daa.,"Twa ɔdɔ ba ɛtena daa, seesei wasase a wofuntum so no, na",1.2857,1.5
+88,Na Serafim a wɔn mu biara wɔ ntaban asia wɔ nʼatifi.,Na Serafim a wɔn mu biara wɔ ntaban asia wɔ n'atifi.,0.0909,0.0244
+89,na yɛn trenee nneyɛe nyinaa te sɛ ntamagow fi; yɛn nyinaa akisa te sɛ ahaban.,na yɛn tenenee ne yɛn nyinaa te sɛ ntomago fi; yɛn nyinaa akisa te sɛ ahaban.,0.2667,0.0984
+90,"na wɔn a wɔte so nyinaa wuwu; wuram mmoa, wim nnomaa.",na wotso nyinaa wuwuu no ma.,0.8182,0.475
+91,mɛyɛ mmepɔw tamaa; mebubu kɔbere mfrafrae apon agu.,na yɛ mmepɔw tamaa; mebubu kɔbere mfrafrae apon agu.,0.25,0.0476
+92,"Saa da no, Awurade bɛma ne nsa so ne mprenu so de agye ne nkurɔfo a wɔaka afi Asiria, Misraim anafo fam, Misraim atifi fam, Kus, Elam, Babilonia, Hamat ne Po so asupɔw.","Saa da no, Awurade bɛma ne nsa so ne mprenu so de agya ne nkurɔfoɔ a wɔaka afi Asiria, Misraim anafo fam, Misraim atifi fam, Kus, Elam, Babilonia, Hamat ne Po so asupɔw.",0.0606,0.0156
+93,"Wakasa akyerɛ me, na ɔno ankasa na wayɛ eyi.","Wakasa akyerɛ me, na ɔno ankasa na wayɛ yi.",0.1111,0.0294
+94,"Saa adehu yi baa afe a ɔhene Ahas wui no: Munnni ahurusi, mo Filistifo.","Saa adehu yi baa afe a ɔhene Ahas wui no, monni ahurisie mofiristifoɔ",0.2857,0.1091
+95,Wɔde nnwonto bɛhyɛn Sion; anigye a ɛnsa da bɛyɛ wɔn abotiri.,Wɔde nnwonto bɛhyɛn Sion; anigye a ɛnsa da bɛyɛ wɔn abotiri.,0.0,0.0
+96,"Esiane sɛ ɛsɛ sɛ wobu wɔn adwuma ho akontaa nti, wɔhwɛ mo kra so a wɔnhome koraa.","Esiane sɛ ɛsɛ sɛ wobu wɔn adwuma ho akonta nti, wɔhwɛ mo kra so a wɔnhome koraa.",0.0588,0.0159
+97,Ne werɛ remfi adwuma a moyɛe anaa ɔdɔ a modaa no adi maa no ne mmoa a mode boaa mo mfɛfo Kristofo na mugu so de boa wɔn no.,remfi adwuma a moyɛe anaa ɔdɔ a moda no adi maa no na moamodo momfa Kristofo na mugu so de boa wɔn no.,0.3448,0.1809
+98,"Gyidi nti na bere a Onyankopɔn ka kyerɛɛ Abraham se ɔnkɔ asase a wahyɛ ho bɔ sɛ ɔde bɛma no no so no, otiei na ɔkɔe.","Gyidi nti na bere a Onyankopɔn ka kyerɛɛ Abram se, ɔnkase wahyɛ ho bɔ sɛ ɔde bɛma no no no so no otina ɔkwa.",0.3077,0.1348
+99,"Na Awurade ka kyerɛɛ Hosea se, “To ne din Lo-ruhama efisɛ, merenna me dɔ adi nkyerɛ Israelfo bio, na meremfa wɔn ho nkyɛ wɔn koraa.","na wɔde ka kyerɛɛ Hosea se, tumidi Loruhama, efisɛ merennye Israelfo bio, na meremfa wɔn ho nkyɛ wɔna.",0.44,0.2376
+100,te sɛ dubaa a wɔapo; wɔde wɔn a wɔatotɔ akata wo so.,te sɛ dubaa a wɔapo; wɔde wɔn a wɔatotɔ akata wo so.,0.0,0.0
+101,Nanso yɛrentumi nka nneɛma yi ho asɛm nkɔ akyiri mprempren.,nanso yɛntumi nka ne mehu nsɛm nkwa akyi pempen,0.8,0.3265
+102,"Na sɛ nsɔe ne nwura hunu fifi wɔ so a, enye mma hwee.","Na sɛ nsɔe ne wura hunu fifi wɔ so a, ɛnyɛ mahwɛ.",0.3077,0.1538
+103,Wubetim wɔ trenee mu: Wo ne nhyɛsotraso ntam kwan bɛware.,"Wobɛtim wɔ tenenee mu, wo na nhyɛsotraso ntam kwan bɛware.",0.3,0.1087
+104,"Saa mpaebɔ yi, Habakuk too no sɛ dwom: Awurade, mate wo ho nsɛm nyinaa.",amabɔ yi aba kutu no sɛ adwuma matwo nsɛm nyinaa.,0.6429,0.3519
+105,nea mayi no na ɔsɔ mʼani; mede me Honhom begu no so.,"nea mayi no na ɔso mani, mede me honhom begu no so",0.1667,0.0513
+106,Monhwɛ yiye na mo mu bi annan nʼakyi ankyerɛ Onyankopɔn adom no.,Monhwɛ yiye na mo mu bi anan nakyi ankyerɛ Onyankopɔn adom no.,0.1667,0.0385
+107,“Asomdwoe nni hɔ mma amumɔyɛfo.,.,1.0,1.0
+108,"Bere a Onyankopɔn hyɛɛ Abraham bɔ no, ɔkaa nea wahyɛ ho bɔ no ho ntam.","Bere a Onyankopɔn hyɛ abrabɔ no, ɔka ne wɔhyɛ ho bɔ no ho ntam.",0.4,0.1296
+109,"Mo werɛ afi nkuranhyɛsɛm a Onyankopɔn ka kyerɛɛ mo, sɛnea agya kasa kyerɛ ne mma no?","Wowerɛ fi nkuranhyɛsɛm a Onyankopɔn ka kyerɛɛ mo, sɛnea agya kasa yɛnmoa",0.4375,0.1343
+110,na mo ayaresa aba ntɛm so; afei mo trenee bedi mo anim.,na mo ayaresa aba ntɛm so; find manim.,0.5,0.3095
+111,"Yesu de, ɔnam ntam so bɛyɛɛ ɔsɔfo bere a Onyankopɔn ka kyerɛɛ no se.",Yesu de ɔnam ntam so bɛyɛɛ ɔsɔfo bere a Onyankopɔn kyerɛɛ no,0.1429,0.0755
+112,Nanso wʼawufo benya nkwa; wɔn nipadua bɛsɔre.,Nanso wahufubenya nkwa wɔn nipadua bɛsɔre.,0.2857,0.0811
+113,"Saa anisoadehu a ɛfa Yuda ne Yerusalem ho no baa Amos babarima Yesaia so wɔ Yuda ahemfo Usia, Yotam, Ahas ne Hesekia mmere so.","Saa anisoadehu a ɛfa Yuda ne Yerusalem ho no baa Amos babarima Yesaia so wɔ Yuda henfo Usia, Yotam, Ahas ne Hesekia mmere so.",0.0417,0.02
+114,Wɔakɔfa amanehunu aba wɔn ho so.,"Wɔakɔfa amanehunu aba wɔn ho so, ka kyerɛ atene ebɛsɛɛ wɔbɛdi wɔn yɛ so.",1.3333,1.1923
+115,Ɛno nti na apam a edi kan no wɔnam mogya so na wɔhyɛɛ no den no.,Ɛno nti na apam yɛdikan no wɔnam mogya so na wɔayɛ no den no.,0.25,0.0833
+116,Ma wɔmmfa wɔn nnansefo mmra mmedi adanse sɛ wodi bem.,Ma wɔmmfa wɔn nnansefo mmra mmedi adanse sɛ wodi bem.,0.0,0.0
+117,"Monyɛ komm, mo nnipa a mowɔ supɔw no so.","Monyɛ komm, mo nnipa a mowɔ supɔ no so.",0.1111,0.0333
+118,Ɔman bi so nyame atumi agye ne man afi Asiriahene nsam pɛn ana?,Ɔman bi so anyame atumi agye ne man afi Asiriahene nsam pɛn ana?,0.0769,0.02
+119,dwom a ɛfa ne bobeturo ho: Na me dɔfo wɔ bobe turo bi.,"Hom afa ne bobeturo ho, na me dɔfo wɔ bobe turo bi.",0.2308,0.075
+120,mo a mote nʼasɛm a mo ho popo: “Mo nuanom mmarima a wɔtan mo.,mo a mote nasɛm a mo ho popo monua mmarima wɔatane mo.,0.3571,0.1556
+121,Ananafo bɛhwɛ mo nguankuw; ahɔho bɛyɛ adwuma wɔ mo mfuw ne bobeturo mu.,Ananafo bɛhwɛ mo mu nku ahɔho bɛyɛ adwuma wɔ mo mfuw ne bobeturo mu.,0.1538,0.0702
+122,"Monhwɛ Sion, yɛn afahyɛ kuropɔn no; mo ani behu Yerusalem.","Monhwɛ Sion, yɛn afahyɛ kuropɔn no; mo ani behu Yerusalem.",0.0,0.0
+123,Ampa ara mobɛfrɛ aman a munnim wɔn.,Ampa ara mobɛfrɛ aman a monnim wɔn.,0.1429,0.0357
+124,na nʼaba bɛyɛ ɔwɔ a ne ho yɛ hare na nʼano wɔ bɔre.,na n'aba bɛyɛ ɔwɔ a ne ho yɛ hare na no wɔ bɔre.,0.1538,0.1053
+125,Awiporowbea ne nsakyiamoa rentumi mma nnipa no aduan; nsa foforo nso bɛbɔ wɔn.,Awiporowbea ne nsanka moare ntumi mma nnipa no aduanso no bɔ wɔn,0.6154,0.2031
+126,mparuwbo bɛsɛe wo guankɔbea a ɛyɛ atoro no.,mparuwbo bɛsɛe wɔ guankɔbea a ɛyɛ atorɔ no.,0.25,0.0571
+127,Minim Efraim ho nsɛm nyinaa; wɔmfaa Israel nhintaw me ɛ.,Menim firi ho nsɛm nyinaa; wɔmfaa Israel ntam.,0.5,0.2444
+128,"Ɔde eyi kaa mʼano kae se, “Hwɛ, eyi aka wʼanofafa, wɔayi wʼafɔdi na wɔatua wo bɔne so ka.","Ɔde eyi kaa ma no ka se, ""Hwɛ, eyi aka atawo.",0.6667,0.5373
+129,“Efi saa bere yi de rekɔ mɛka nsɛm foforo akyerɛ mo.,efisɛ bere yi de rekɔ mɛka nsɛmfoforɔ akyerɛ mo.,0.3636,0.075
+130,"Me nuanom akronkronfo a Onyankopɔn afrɛ mo, munnwen Yesu a yegye no to mu sɛ Ɔsomafo no ho.","Menuanom akronkronfo a Onyankopɔn afrɛ mo, nwesa no ho.",0.6111,0.375
+131,"Nanso mfe aduɔson akyi no, nea ɛbɛto Tiro no bɛyɛ sɛnea ɛwɔ oguamanfo no dwom mu no: “Ma sankuten no so, pase fa kuropɔn no mu.","Nanso mfeɛ aduɔson akyi no, sɛnea ɛbɛtu tiro no bɛyɛ sɛnea ɛwɔ oguamanfo no dwom mu no masankuo so asefo ɔn no mu.",0.3462,0.1443
+132,Ayɛ te sɛnea abaa tumi dannan nea ɔmaa no so.,Ayɛ te sɛnea abaa tumi dannan nea ɔmaa no so.,0.0,0.0
+133,na wɔn akra ani gye wɔn akyiwade ho; enti me nso mɛpɛ ayayade ayɛ wɔn.,na wɔn akra ani gye wɔn akyiwade ho; enti me nso mɛpɛ ayayade ayɛ wɔn.,0.0,0.0
+134,Nanso ɛyɛɛ Awurade pɛ sɛ ɔbɛdwerɛw no ama no ahu amane.,Nanso ɛyɛɛ Awurade pɛ sɛ ɔbɛdwerɛ no ama no ahu amane.,0.0909,0.0227
+135,"Wɔama Awurade so, na ɔte ɔsorosoro; ɔde trenee ne adetreneeyɛ bɛhyɛ Sion ma.","Wɔama Awurade so, na ɔte ɔsorosoro; ɔde tenenee ne adeteneneeyɛ bɛhyɛ sena.",0.3077,0.1148
+136,Nanso woadua atirimɔden aba.,a,1.0,0.9583
+137,Merennɔ wɔn bio; efisɛ wɔn ntuanofo nyinaa yɛ atuatewfo.,"Mene wo bio, efisɛ wɔn ntuanofo nyinaa yɛ atuatewfo.",0.2222,0.1304
+138,"Me Awurade wɔn Nyankopɔn, mede me tumi begye wɔn afi wɔn atamfo nsam a meremfa tadua, afoa anaa ɔko anaa apɔnkɔ ne apɔnkɔsotefo.","Me Awurade wɔn Nyankopɔn, mede me tu begye wɔn afi wɔn atamfo nsam a meremfa tadua, afoa anaa ɔko anaa apɔnkɔ ne akɔkɔhyɛ yɛfo.",0.1304,0.0874
+139,"Wɔasie wo no, wobɛkasa afi asase mu; wo kasa a mu ntew no befi mfutuma mu aba.","asie wo no, wobɛkasa asem.",0.8235,0.661
+140,na ɔsoro yɛ wo nsa ano adwuma.,na ɔsoro yɛ wo nsa ano adwuma ne nyinaa bɛtwam na wode bɛtena,0.8571,1.1304
+141,ɛbɛbɔ afi nweatam so; osu rentɔ asusowbere.,ɛbɛbɔ afi nyatso osutɔ asusoberɛ,0.7143,0.2571
+142,Yɛn nyinaa woro so te sɛ sisi; yɛde awerɛhow kurum sɛ mmorɔnoma.,Yei nyinaa woro so te sɛ sisi; yɛde awerɛho kurum sɛ mmorɔnoma.,0.1667,0.0588
+143,wɔmfa teaseɛnam hankare mfa ntɛtɛ so; wɔde pema na ɛboro ɛme.,wɔmfa teaseɛnam hankare mfa ntɛtɛ so; wɔde pema na ɛboro me.,0.0909,0.0204
+144,"Bisa wɔn se, ‘Mo a moaka yi mu hena na ohuu saa ofi yi anuonyam sɛnea na ɛte kan no?","Misa wonse ""Momma yi mu hena na hunu saa ofi anuonyam sɛnea na ɛte kan no.",0.4,0.1613
+145,"Mokaa se, ‘yɛbɛtena apɔnkɔ a wɔn ho yɛ hare so akɔ.","Moka se, 'yɛbɛtena apɔnkɔ a wɔn ho yɛ hare so akɔntaa.",0.1818,0.1316
+146,wontumi mmobɔ mu; wɔdeda hɔ na wɔsoso dae.,Wɔntumi mmubomu; wɔde da hɔ a wɔsoso adae.,0.75,0.1515
+147,“Kuropɔn a ahum abubu wo na wɔnkyekyee wo werɛ ɛ.,kuropɔn a ahum abubu wo na wɔnkyekyee wo werɛ.,0.1,0.0263
+148,ama wɔn a wɔpam atamfo wɔ nkurow apon ano.,ama wɔn a wɔpam atamfo wɔ nkurow apon ano.,0.0,0.0
+149,Enti momma yɛnkɔ ne nkyɛn wɔ beae no akyi nkogye animguase no bi.,Enti momma yɛnkɔ ne nkyɛn wɔ biara no akyi nkogye animguase no bi.,0.0769,0.0577
+150,"na nkwagyeda no, mɛboa wo; mɛkora wo na mede wo ayɛ.","na nkwagye da no, mɛboa wo; mɛkora wo na mede wo ayɛ",0.1818,0.0
+151,"Sɛ yɛma yɛn bo yɛ duru na yɛwɔ gyidi wɔ yɛn anidaso mu a, na yɛyɛ ne fi no.","Sɛ yɛma yɛn bo yɛ duru na yɛwɔ gyidi wɔ yɛn anidaso mu a, na ɛyɛ ne in.",0.1579,0.0545
+152,"Ɛno nti ɔyɛɛ ɔkɛse sen abɔfo no, efisɛ din a Onyankopɔn de too no no yɛ kɛse sen wɔn de no.","Ɛno nti ɔyɛɛ kɛse sen abɔfo no, efisɛ ɛdina Onyankopɔn de too no yɛ kɛse sen wɔn de no.",0.1905,0.058
+153,"Na wɔka kyerɛɛ Dawidfi se, “Aram ne Efraim ayɛ apam;” Enti Ahas ne ne nkurɔfo ho wosow sɛnea kwaennua wosow wɔ mframa ano no.","Na wɔka kyerɛɛ Dawid fi se, ""Aram ne Efraim ayɛ apam. ahankron kwaennua woso wɔ mframa no no.",0.5,0.2577
+154,na me mmepɔw no sodifo afi Yuda aba; me nkurɔfo a mapaw wɔn no bedi wɔn ade.,Na me mepɔn no sodifo afi Yuda aba; me nkurɔfo a mapaw no bedi wɔn ade.,0.1176,0.0862
+155,Babiloniafo hemmea kurow; wɔremfrɛ wo bio se.,Babiloniafo hemmea kurow; wɔremfrɛ wo bio se.,0.0,0.0
+156,Israel Ɔkronkronni ne ne Yɛfo; Nea ɛfa nneɛma a ɛreba ho no.,Israel Ɔkronkronni ne ne yɛfo; nea ɛfa nneɛma a ɛreba ho no.,0.0,0.0
+157,Afei Asiriahene somaa nʼananmusifo fi Lakis a asraafo dɔm kɛse ka ne ho kohyiaa Ɔhene Hesekia wɔ Yerusalem.,"Afei, Asiriahene somaa na nanmusifofi Lati a asraafo dɔm kɛse ka ne ho kɔhyiaa Ɔhene Zikia wɔ Yerusalem.",0.2778,0.0899
+158,begye hɔ afa; patu ne kwaakwaadabi bɛtena hɔ.,begye hɔ afa; patu wawatena hɔ.,0.375,0.3333
+159,” Sɛɛ na Awurade se.,"Sɛɛ na Awurade se: """,0.0,0.0
+160,"Anyame a wɔwɔ aman a me nenanom sɛee wɔn no, aman te sɛ, Gosan, Haran, Resef ne Edenfo a na wɔwɔ Talasar no anyame gyee wɔn ana?","Anyame a wɔwɔ aman a me ne me ne nam sɛ wɔn no, aman te sɛ Gosan, Haran, Resef ne Edenfo a wɔwɔ Talasar no anyame gyee wɔn ana?",0.2222,0.0825
+161,” Sɛnea Awurade se ni.,"""o,",1.0,1.0
+162,"Ɔsram foforo, homenna ne nhyiamu ahorow.","Ɔsram foforo, homenna ne nhyiamu ahorow.",0.0,0.0
+163,na yɛn ankasa apɛ yɛn adurade; ma wo din nna yɛn so kɛkɛ.,na yɛnkasa apɛ yɛn adurade; ma wo din na yɛn so kɛkɛ.,0.2308,0.0698
+164,"obehu nkwa hann, na ne koma atɔ ne yam; na ne suahu mu me somfo treneeni no bebu bebree bem.","obehu nkwa hann, ne koma atɔ ne yam; na ne suahu mu efoto",0.4,0.3857
+165,Nnɛ ara wobegyina wɔ Nob; wobehim wɔn nsa.,Nnɛ ara wobegyina wɔ Nob; wobehim wɔn nsa.,0.0,0.0
+166,"Nanso hwɛ, anigye ne ahosɛpɛw wɔ hɔ; wokunkum anantwi ne nguan; wɔwe nam na wɔbow nsa!","Nanso hwɛ, anigye ne ahosɛpɛw wɔ hɔ; wokunkum anantwi ne nguan waaboa",0.3125,0.1642
+167,"onnua ɛme, na ɔmpete ntɛtɛ wɔ so ana?","ɔnnua ɛme, na ɔmpete ntɛtɛ wɔ so ana?",0.125,0.0357
+168,Ɛnso mma mo sɛ mobɛsɔ nnipa ntoboase ahwɛ?,Ɛnso mma mo sɛ mobɛsɔ nnipa atɔboaseahwɛ.,0.25,0.0588
+169,"Wohuu sɛ na ɔyɛ sononko, enti na wɔansuro sɛ wobebu ɔhene no mmara so no.","wohunu sɛ na ɔyɛ sononko, wobɛbue maso no.",0.6667,0.4737
+170,"Ao Awurade, hu yɛn mmɔbɔ; yɛn ani da wo so.","Ao Awurade, hu yɛn mmɔbɔ; yɛn ani da wo so.",0.0,0.0
+171,"Bere a ɔhyɛɛ Aaron asefo asɔfo no, na ntam a ɛte saa nni hɔ.","Bere a ɔhyɛɛ Aaron asefo asɔfo no, na ntam a ɛte sɛ ne hɔ.",0.1429,0.0889
+172,"Bere a ɔhene Hesekia tee eyinom no, osunsuan ne ntade mu, na ofuraa atweaatam, na ɔkɔɔ Awurade asɔredan mu.","Bere a ɔhene Hesekia tee eyinom no, osunsuan ne ntade mu, na ɔfiraa fata na ɔkɔɔ Awurade asɔredan mu.",0.1053,0.0941
+173,"na wɔka kyerɛ nsɛsode se, ‘Moyɛ yɛn anyame’ no.","na wɔka kyerɛ nsɛsode se, 'Moyɛ yɛn anyame no.",0.0,0.0
+174,"meteɛ mu, mehome a ensi so na mehome afrɛ so.","Metia mu, mehome a ensi so na mehome afrɛ so.",0.1,0.0588
+175,"Sɛ na apam a edi kan no ye a, anka ɛho nhia sɛ wɔbɛyɛ apam a ɛto so abien no.","Sɛ na apam a edi kan no yɛ a, anka ɛho nhia sɛ wɔbɛyɛ apam a ɛto so abien no.",0.05,0.0179
+176,Ma nnipa a wɔwɔ Sela nto nnwom nnye wɔn ani; ma wɔnteɛ mu mfi mmepɔw no atifi!,na nnipa a wɔwɔ Sela nto nnwom nnye wo m'anitumpɔn.,0.5882,0.3833
+177,"ɔte sɛ osu a ɛne mframa nam, ne osuhweam a ɛhyɛ suka ma.","ɔte sɛ osu a ɛne mframa nam, ne osuhweam a ɛhyɛ suka ma.",0.0,0.0
+178,Sɛ da no du a.,Sɛdeɛ Israel hene no koraa.,1.0,1.6667
+179,"Na wɔnwoo Lewi ɛ, nanso esiane sɛ na ɔhyɛ ne nena Abraham mu saa bere no a Melkisedek hyiaa no no nti na otuae.",na wɔanu Lewis sayɛnse.,0.9583,0.814
+180,"Wo, Awurade, woapaw wɔn sɛ wommu atɛn; wo, me Botantim, woahyɛ wɔn sɛ wɔntwe aso.","Wo Awurade, woapa wɔn sɛ wo mu atɛn, wo me botantim ɔhyɛ wɔn sɛ wɔntwe aso.",0.2667,0.082
+181,"Me na meyɛɛ wo, woyɛ me somfo; Ao Israel, me werɛ remfi wo.","Me na meyɛɛ wo, woyɛ me somfo; Ao Israel, me Yearim wo.",0.1538,0.1395
+182,Wuhu sɛ ne gyidi ne ne nneyɛe nyinaa redi dwuma na ne nneyɛe no maa ne gyidi no dii mu.,Wonsɛ ngyine nyinaa redi dwuma na ne yɛ no a ne gyidi ne mu dim.,0.6,0.3731
+183,na wɔagye asade afi otirimɔdenfo nsam; me ne wɔn a wɔne wo nya no benya.,na wɔagye asade afi otirimɔdenfo nsam; me ne wɔn a wɔne wo anya ne benya,0.1333,0.0357
+184,"Ɛho nhia nso sɛ yɛbɛkɔ so akyerɛkyerɛ asubɔ, nsa a wɔde gu nnipa so, awufosɔre ne daa atemmu ho nsɛm bio.","Ɛho nhia nso sɛ yɛbɛkɔ so akyerɛkyerɛ asubɔ, asa wode gu nnipa so, awufosɔre ne daa atemmu ho nsɛm bio.",0.1429,0.0366
+185,Saa ara nso na Kristo annye anto ne ho so sɛ ɔyɛ Ɔsɔfopanyin amfa anhyɛ ne ho anuonyam.,Saa ara nso na Kristo annye anto ne ho sɛ ɔyɛ ɔsɔfopanyin amfa asɛne honam.,0.2778,0.1449
+186,"“ ‘Na eyi ne nsɛnkyerɛnne a Awurade bɛyɛ de adi ho adanse sɛ, obedi ne bɔhyɛ so: Mɛma owia ano sunsuma atwe akɔ nʼakyi anammɔn du wɔ Ahas antweri so.","Na eyi ne nsɛnkyerɛnne a Awurade bɛyɛ de adi ho adanse sɛ, obedi ne bɔhyɛ so na mma owia ano sunsuma atwe akɔ n'akyi anammɔn du wɔ Ahas antweri so.",0.1034,0.0348
+187,na wonni obi a obegye wɔn; wɔayɛ wɔn akorɔnne.,na wɔnni obi a ɔbɛgye wɔn; wɔayɛ wɔn akorɔnne.,0.2222,0.0833
+188,"Mene Awurade, obiara nni hɔ bio; Onyankopɔn biara nni hɔ ka me ho.","Mene Awurade, obiara nni hɔ bio, Nyankopɔn biara nni hɔ ka me ho.",0.0769,0.0196
+189,Efisɛ wɔannantew nʼakwan so; na wɔanni ne mmara so.,"Efi sɛ woanante nakwan so, na wɔanni ne mmara so.",0.4444,0.0976
+190,"Mpɛn dodow biara a ɛbɛba no ɛbɛsoa mo akɔ; anɔpa, awia ne anadwo biara.","Mpɛn biara a ɛbɛba no ɛbɛsoa mo akɔ; anɔpa, awia ne anadwo biara.",0.0714,0.0909
+191,"Na wɔbɛka se: “Monyɛ, monyɛ, munsiesie ɔkwan no!","Na wɔbɛka se: ""Monyɛ, monyɛ, munsiesie ɔkwan no.",0.0,0.0
+192,"Sɛ nsamansew bi wɔ hɔ a, ɛsɛ sɛ wotumi kyerɛ sɛ onipa a ɔhyɛɛ saa nsamansew no awu.","Sɛ nsamanseɛ bi wɔ hɔ a, ɛsɛ sɛ wotumi kyerɛ sɛ onipa a ɔyɛ saa nsɛm no no awu.",0.2222,0.125
+193,"Na mo de, moaba Sion Bepɔw so ne Onyankopɔn a ɔte ase no kurow, ɔsorosoro Yerusalem a ɔsoro abɔfo mpempem wɔ mu no mu.","na mo de ma Sion bepɔ so ne Onyankopɔn a ɔte ase no kuro, ɔsorosoro Yerusalem a ɔsoro abɔfo mpempem wɔ mu no mu",0.125,0.0543
+194,"Aram, Efraim ne Remalia babarima abɔ wo sɛe ho pɔw se, “Momma yɛntow nhyɛ Yuda so, na yɛntetew wɔn mu na yɛnkyɛ mfa, na yensi Tabeel babarima hene wɔ so.","Aram, Efraim ne Remalia babarima abɔ wo sɛe ho pɔw se, ""Momma yɛntow nhyɛ Yuda so, ɛyɛ ntete wɔ mu na yɛnkyɛmfa na yensi Tabeel babarima hene wɔn so.",0.2,0.0424
+195,ne wɔn a wɔbɛka asase no so no so.,ne wɔn a wɔbɛka asase no so no so.,0.0,0.0
+196,"Obiara a ɔkasa tia ne nua anaa obu no atɛn no, kasa tia mmara no.","Obiara a ɔkasa kyɛ ne nua na obu no atɛn no, kasa kyia no.",0.2667,0.2449
+197,na obiara nnwen ho wɔ ne koma mu; wɔfa nyamesurofo kɔ.,Na obiara a mieho wɔ ne koma mu; wɔfa nyamesurofo kɔ.,0.1818,0.0952
+198,"Esiane sɛ odwo na ɔde ne ho nyinaa som no no nti, Onyankopɔn tiee no.","Esiane sɛ odwan ɔde ne ho nyinaa som no no nti, Onyankopɔn tiee no.",0.1333,0.0377
+199,Eyi ne nea mubenya afi me nsa mu; mobɛdeda fam wɔ ɔyaw mu.,Eyi ne nea mubenya afi me nsam mobɛdeda fam wɔ ɔyaw mu.,0.1538,0.0227
+200,"Nanso ebia Awurade, mo Nyankopɔn ate sɛ Asiria nanmusini no regu Onyankopɔn teasefo no anim ase, na wɔbɛtwe nʼaso wɔ ne nsɛnkeka no ho.","Nanso ebia Awurade, mo Nyankopɔn ate sɛ Asiria na mu sini regu Onyankopɔn teasefo no anim ase, na wɔbɛtwe n'aso wɔ ne nsɛnkeka no ho.",0.1667,0.0367
+201,nanso ɔkɔm bɛde wɔn; benkum so wobedidi.,"nanso ɔkɔm bɛde wɔn; benkum so, wɔbɛdidi.",0.1429,0.0625
+202,"Mo de, saa anisoadehu yi nyinaa nka hwee mma mo, ɛte sɛ nsɛm a wɔasɔw ano wɔ nhoma mmobɔwee mu.","Mode saa nisuadeɛhu yi nyinaa nka hwee mma mo, ɛte sɛ nsɛm a wɔasɔ ano wɔ homa mobɔwe mu.",0.3,0.0959
+203,"Onyankopɔn anyan yɛn Awurade Yesu a ɔyɛ oguanhwɛfo panyin no afi awufo mu ama yɛn, na ɛnam ne wu no so nti wɔasɔw daa apam no ano ama yɛn.","Onyankopɔn anya yɛn Awurade Yesu a ɔyɛ oguanhwɛfo panyin no afi awufo mu ama yɛn, na ɛnam ne wu no nti wasan ama yɛn.",0.2414,0.1481
+204,"te sɛ ɔkofo no, ɔbɛhyɛ ne mmɔdemmɔ mu den; ɔde nteɛmu bɛyɛ ɔkofo nkanyan.","te sɛ ɔkofo no, ɔbɛhyɛ ne mmɔdemmɔ mu den; ɔde nti mu bɛyɛ ɔkofo nkanyan.",0.1429,0.0351
+205,"Momfa nkɔ nsase ano; monka se, “Awurade abegye ne somfo Yakob.",Momfa nkɔ nsase ano; monka yenso,0.5455,0.4583
+206,ahenni a wɔn nsɛsode sen nea ɛwɔ Yerusalem ne Samaria no.,Ahenni wɔn nsɛsode sen nea ɛwɔ Yerusalem samaria no.,0.1818,0.0652
+207,"wo a wonwoo da; pae mu to nnwom, teɛ mu di ahurusi.",Wo a worenoa.,0.8333,0.7568
+208,"Momfa anigye nteɛ mu, ɔsoro; di ahurusi, asase; mompae mu nnwonto mu, mmepɔw!","Momfa ni gyentia mu ɔsoro,",0.7692,0.678
+209,"Da a ɛto so aduonu baako wɔ ɔsram a ɛto so ason no, Awurade de asɛm faa Odiyifo Hagai so se: “Ka eyi kyerɛ Sealtiel babarima Serubabel a ɔyɛ Yuda amrado ne Ɔsɔfopanyin Yehosadak babarima Yosua ne Onyankopɔn nkurɔfo nkae a wɔwɔ asase no so hɔ no.","to suadun baako wɔ Samto asan no, Awurade de asɛm faa Odiyifo gasee babarima Serubabel a anihafoɔ asase no so hɔ no.",0.6596,0.5333
+210,"Nanso Kristo de, odi nokware sɛ Ɔba a ɔhwɛ Onyankopɔn fi so.","Nanso Kristo de, odi no kaa sɛ ɔbaa a ɔhwɛ Onyankopɔn pɛ so.",0.3333,0.1277
+211,"Na Yesaia kae se, “Momfa borɔdɔma nyɛ nku mfa nsra pɔmpɔ no so, na ne ho bɛtɔ no.","Na Yesaia kae se, ""Momfa borɔdɔma nyɛ nku mfa nsra kɔmpɔn no so, na ne ho bɛtɔ no.",0.0556,0.0333
+212,"Sɛ Yesu wɔ asase so a, anka ɔrenyɛ ɔsɔfo koraa efisɛ asɔfo wɔ hɔ a wɔde afɔrebɔde ma, sɛnea Yudafo mmara kyerɛ no.","Sɛ Yesu wɔ asase so a, anka ɔrenyɛ ɔsɔfo koraa efisɛ asɔfo wɔ hɔ a wɔde afɔrebɔde ma, sɛnea Yudafo mmara kyerɛ no",0.0,0.0
+213,"Ɔdan a edi kan no a wɔfrɛ no Kronkronbea no na kaneadua, ɔpon ne brodo a wɔatew ho a wɔde ma Onyankopɔn no wɔ.","Ɔdanee kan no a wɔfrɛ no Kronkronbea no na kaneadua, ɔpon no buaa wɔatew o a wɔde ma Onyankopɔn wɔ",0.3333,0.1294
+214,"na trenee ne no nnyin; Me, Awurade na mayɛ.",na tene ne no nyi me Awurade na mayɛ.,0.2222,0.125
+215,"Ɔtew nnipa ho fii wɔn bɔne mu wiei no, ɔtenaa Otumfo Nyankopɔn nifa so wɔ ɔsoro.","Ɔtoo nipa ho fi wɔn bɔne mu wiei no, ɔtenaa Otumfo Nyankopɔn nifa so wɔ ɔsoro.",0.1875,0.0635
+216,na me nsa na ɛtrɛw ɔsorosoro mu; sɛ mefrɛ wɔn a.,na me nsa na ɛtrɛw ɔsorosoro mu; sɛ mefrɛ wɔn a.,0.0,0.0
+217,"Mmara no yɛ nneɛma pa nsusuwso a ɛreba, na mmom ɛnyɛ nneɛma pa no ankasa nen.","Mmara no yɛ nneɛma pa nsusuwso a ɛreba, na mmom ɛnyɛ nneɛma pa no ankasa no",0.0625,0.0333
+218,"wo Gyefo, Yakob Tumfo No.","Wo gyefo, Yakob Tumfo no,",0.0,0.0
+219,"Wotwiw bɛn, na wɔba anim; na obiara boa ne yɔnko.","Wɔtwi bɛn, na wɔba anim; na obiara boa ne yɔnko.",0.1,0.0541
+220,"Munya akatua, na mode gu sika nkotoku a wɔatutu mu atokuru mu.",Monnya kɛtua na mode gu sika nkotoku a wɔatutu mu atokuru,0.25,0.1224
+221,Saa nneɛma abien yi na ɛrentumi nsesa na Onyankopɔn ntumi nni ho atoro.,Saa nneɛma bue yi na ɛrentumi nsesa na Onyankopɔn ntumi nni ho atoro.,0.0769,0.0517
+222,Mede dɔm betwa wo ho ahyia; mesisi abantenten atwa wo ho ahyia.,Mede dɔm bɛtwa wo ho ahyia; mesisi abantenten atwa wo ho ahyia.,0.0833,0.02
+223,Adehu a ɛfa Duma ho: Obi frɛ me fi Seir.,Adehu a ɛfa dum,0.7,0.5862
+224,Israel yɛɛ bobe a ɛtrɛtrɛw; ɔsow aba maa ne ho.,Israel yɛɛ bobe a ɛtrɛtrɛw soamane ho,0.4,0.1389
+225,“Ɛsɛ sɛ Onyankopɔn abɔfo nyinaa som no.,soano.,1.0,0.8387
+226,Wobɔɔ no ma ɔyɛɛ akumaa kakra sen abɔfo; na wode wʼanuonyam ne nidi abɔ no abotiri.,Wobɔɔ no ma ɔyɛɛ akumaa kakra sen abɔfo; na wode anuonyam ne nidi abɔ no abotire.,0.125,0.0455
+227,na montoto apon no mu; momfa mo ho nsie bere tiaa bi.,na montoto apon no mu; momfa mo ho nsie britia bi.,0.1667,0.075
+228,"Na mmom, ɔman pa a ɛyɛ ɔsoro man no na na wɔrepere.","Na mmom, ɔman pa a ɛyɛ ɔsoro man no na na wɔrepra.",0.0833,0.0526
+229,Nkaebɔ No Sodi.,a mode mo nsa arabani sodi.,1.6667,1.0833
+230,"ne ɔwora; mede ɔsɛeprae bɛpra no,”.",ne no.,0.6667,0.8462
+231,Monkae ɔkwan a wɔfaa so tenaa ase na munsua wɔn gyidi no.,"Monkae ɔkwan a ɔfa astena ase, na mo suahu yino.",0.5833,0.2444
+232,"Amorifo no nso twaa Yordan kɔɔ atɔe fam kɔtow hyɛɛ Yuda, Benyamin ne Efraim so, Israelfo kɔɔ ahokyere kɛse mu.","Amorifo nso twaa Yordan kɔɔ team kɔto hyɛɛ Yuda, Benyamin ne Efraim so, Israelfo kɔɔ ahokyere kɛse mu.",0.2,0.0682
+233,"Yiw, montwa adwo mma afi a wogye wɔn ani wɔ mu.","Yiw, montwa adwo mma afi a wogye wɔn ani wɔ mu.",0.0,0.0
+234,Ɛsɛ sɛ saa onipa no frɛ asafo mpanyimfo na wɔde Awurade din bɔ mpae ma no na wɔsra no ngo.,"Ɛsɛ sɛ onipa no frɛ asafo mpanyimfo na wɔde Awurade din bɔ mpae ma no, na wɔsane ho.",0.2,0.1
+235,"nanso onyan a na watɔ beraw, na osukɔm de no ara no.",nanso onyan a na watɔ berɛ no na osukɔnde no ara no.,0.3333,0.1026
+236,na nnipa bɛyɛ mmabaa ama ogya no; na obiara remfa ne nua ho nkyɛ no.,na nnipa bɛyɛ mmabaa ama ogya no; na obiara remfa ne nua ho nkyɛ no.,0.0,0.0
+237,"Na ɔsomaa Eliakim a ɔhwɛ ahemfi ntotoe so, Sebna, a ɔyɛ ɔkyerɛwfo ne asɔfo akunini a wɔn nyinaa furafura atweaatam, kɔɔ Amos babarima Odiyifo Yesaia nkyɛn.","Na ɔsomaa Eliakim a ɔhwɛ ahemfi ntotoe so, sɛ bena a ɔyɛ ɔkyerɛwfo ne ɔsɔfoɔ akunini a wɔn nyinaa firi afiri awiata kɔɔ Amos babarima Odiyifo Yesaia nkyɛn.",0.2308,0.0952
+238,Ɛkyerɛ sɛ akyɛde ne mmoa a na wɔde bɔ afɔre ma Onyankopɔn no rentumi mma wɔn a wɔsom no koma mu nyɛ kronkron.,Ɔkyerɛ sɛ akyɛre ne mmoa a na wɔde bɔ afɔre ma Onyankopɔn no rentumi mma wɔn a wɔsom no ɔmanmu no nyɛ kronkron.,0.1739,0.0814
+239,"Na Kyerɛwsɛm no baa mu se, Abraham gyee Onyankopɔn dii na esiane ne gyidi no nti, Onyankopɔn gyee no sɛ ɔtreneeni.","Na kyerɛ no sɛ baa mu se, ""Abraham gyee Onyankopɔn dii, na sɛ ne ne gyidi no nti, Onyankopɔn gyee no sɛ ɔte ni",0.2857,0.1319
+240,ehu ma me ho popo; na hann a mepɛɛ sɛ mihu no.,ehu ma me ho popo; na hann a mepɛɛ sɛ mehu no.,0.0833,0.0303
+241,"Nea edi kan no, Mose kaa mmaransɛm no nyinaa, sɛnea ɛwɔ mmara no mu no kyerɛɛ nnipa no.","Deɛ ne kan no, mosamransɛm no nyinaa, sɛnea wɔma no mu no kyerɛni o.",0.5556,0.2836
+242,Yɛde nnareka to ɔpɔnkɔ anom sɛnea obetie yɛn na yɛatumi ama wakɔ baabiara a yɛpɛ sɛ ɔkɔ.,Yɛde area to pɔnkɔ anim sɛnea abitiɛ. na yɛatumi ama wakɔ baabiara a ɔpɛ sɛ ɔkɔ.,0.3529,0.169
+243,Momma yennyae Kristo mfiase ho nkyerɛkyerɛ na yensua ne ho nsɛm a ɛkɔ anim no.,mɔyɛ nyɛ kito fisoh nkyerɛkyerɛ na yensua ne ho nsɛm a ɛkɔ ni no.,0.4,0.254
+244,"Afei mobɛfrɛ, na Awurade begye mo so; mobɛteɛ mu ahwehwɛ mmoa, na ɔbɛka se: Mini.","Afei mobɛfrɛ, na Awurade bɛgye mo so; mobɛteam ahwehwɛ mmoa, na ɔbɛka se, ""Mini.",0.2,0.0484
+245,“Saa mmuadadi yi na mepɛ: sɛ mubeyiyi ntɛnkyew nkɔnsɔnkɔnsɔn.,Saa mmuadadi yi na mepɛ sɛ mobɛyi yɛn ntɛnkyew nkɔnsɔnkɔnsɔn.,0.2222,0.08
+246,a wokum mmoa we ne wuram mmoa; nnomaa no bedi wɔn nam wɔ ahuhuru bere mu.,Wokuna wuram mu.,0.875,0.7857
+247,"Asɛm a ɛsɛ sɛ moka ne se, “Sɛ Awurade pɛ a, yɛbɛyɛ eyi anaa eyi.","asɛm sɛ moka ne sɛ, ""Sɛ Awurade pɛ a, yɛbɛyi eyi anaa eyi.",0.2667,0.1304
+248,"Me nuanom, monkae adiyifo a wɔde Awurade din kasae no.","Me nuanom, monkae diyifo a wɔde Awurade din kasa no.",0.2,0.0465
+249,na mowo sare; mo home yɛ ogya a ɛhyew mo.,na mowo sare; mo gya ɛhyew mo.,0.4,0.2667
+250,"Nanso ɔka kyerɛɛ me se, ‘Wubenyinsɛn na woawo ɔbabarima.","Nanso ɔka kyerɛɛ me se, Wobɛnyinsɛn na wowɔ babarima.",0.3333,0.0889
+251,"Sɛ onipa a ɔhyɛɛ nsamansew no te ase a, saa nsamansew no nka hwee.","Sɛ onipa a ɔhyɛ nsɛm nso no te aseɛ a, saa nsɛm nso no na we.",0.5714,0.2549
+252,"Yenim pefee sɛ yɛwɔ adwene a emu da hɔ, efisɛ yɛpɛ sɛ bere biara yɛyɛ ade a eye.","Yinim pefeesɛ yɛwɔ adwene a emu da hɔ, efisɛ yɛpɛ sɛ biribiara yɛyɛ ade a ɛyi.",0.3333,0.082
+253,Ibsan Bɛyɛ Israel So Temmufo.,a,1.0,0.9583
+254,"Obiara a otie asɛm no na ɔmfa nni dwuma no te sɛ obi a ɔhwɛ ahwehwɛ mu, na ohu sɛnea ɔte.","Obiara a ɔtie asɛm no no mfa nni dwuma no te sɛ obi a ɔhwɛ ahwehwɛ mu, na ohu sɛnea ɔte.",0.1429,0.0448
+255,na akekaboa biara rensi so; wɔrenhu wɔn wɔ hɔ.,na akekaboa biara rensi so; wɔrenhu wɔn wɔ hɔ.,0.0,0.0
+256,"mmara foforo akyi mmara; ɛha kakra, ɛhɔ kakra.","mmara foforo akyi mmara; ɛha kakra, ɛhɔ kakra.",0.0,0.0
+257,"Abimelek wu akyi no, Pua a ɔyɛ Dodo aseni no babarima Tola ba begyee Israel.","Abimelek akyi no, pa ɔyɛ Dodo ase no no babarima Tola ba begyee Israel.",0.3333,0.0833
+258,Nanso Lewi asefo a wɔyɛ asɔfo no Mmara na ɛhyɛ wɔn sɛ wonnye nkyɛmu du mu baako mfi wɔn ara wɔn nkurɔfo Israelfo a wɔn nso yɛ Abraham asefo no nkyɛn.,"Nanso Lewi asefo a wɔyɛ asɔfo no, mmara na hyɛ wɔn sɛ wɔnnye nkyɛmu du mu baako miwɔ ara wɔn krɔfo Israelfoɔ a wɔn nso yɛ abraham asefo no kyɛn.",0.2258,0.0678
+259,Nnome nka nhwiren abotiri a ɛyɛ Efraim asabowfo ahohoahoade no.,ne me nka nhwiren abotiri a ɛyɛ Efraim asabowfo ahohoahoade no.,0.2,0.0377
+260,"Gyidi nti na Yosef rebewu no, ɔka kyerɛɛ Israelfo se, wobetu afi Misraim, na ɔhyɛɛ nea sɛ owu a, wɔnyɛ nʼamu no.","Gyidi nti na Yosef rebewu no, ɔka kyerɛɛ Israelfo se, betu afi Misraim na ɔsɛ sɛ wawɔ yɛ ne mu no.",0.3182,0.1512
+261,Sɛɛ na Awurade se: “Ɛhe na awaregyae ho adansedi nhoma.,"Sɛɛ na Awurade se: ""Ɛhe na awaregyae ho adansedi ho ma.",0.2,0.0233
+262,Na meyɛ ɔwerɛhowni ne obonin; wotuu me kɔɔ asase foforo so na wɔpoo me.,Na meyɛ ɔwerɛhoni ne ɔbuni wɔtumi kɔɔ asase foforo so na wɔpoo me.,0.2857,0.125
+263,ɛnyɛ eyi ne nea ɛwɔ nʼadwene mu; ne botae ne sɛ ɔbɛsɛe.,"Ɛnyɛ eyi ne nea ɛwɔ n'adwene mu, ne bota ne sɛ ɔbɛsɛe.",0.1667,0.0476
+264,biribiara a saa nkurɔfo yi frɛ no tirisopam no; Munnsuro nea wosuro.,biribiara a saa nkurɔfo yi frɛ no tirisopam no; monsuro nea wosuro.,0.0833,0.0364
+265,na ahemfo nyinaa ahu wʼanuonyam; wɔbɛfrɛ wo din foforo.,na ahemfo nyinaa hu w'anyamfoɔ.,0.6667,0.4667
+266,Mɛsɛe Asiria pasaa wɔ mʼasase so; metiatia no so me mmepɔw so.,"Mɛsɛe Asiria pasaa wɔ masase so, na tiatia no so mmepɔw so.",0.3333,0.102
+267,"Afei wɔbɛhwɛ asase no so, na wubehu ahohiahia ne sum a ɛyɛ hu, na wɔde wɔn bɛhyɛn sum kabii mu.","Afei wɔbɛhwɛ asase no so, na wubehu ahohiahia ne sum a ɛyɛ hu, na wɔde wɔn bɛhyɛn so kabii mu.",0.05,0.0274
+268,"Yɛyɛ nsɛnkyerɛnne ne agyiraehyɛde wɔ Israel, na yefi Asafo Awurade a ɔte Sion Bepɔw so no nkyɛn.","Yɛyɛ nsɛnkyerɛnne ne agyirahyɛdeɛ wɔ Israel, na yefi Asafo Awurade a ɔte Sion bepɔ so no nkyɛn.",0.1176,0.0385
+269,na ɔbrɛ kuropɔn a ɛkorɔn no ase; obubu gu fam pasaa.,na ɔbrɛ kuropɔn a ɛkorɔn no ase; obubu gu fam pasaa.,0.0,0.0
+270,"Woguu afoforo anim ase, bɔɔ wɔn mmaa, na wɔkyekyeree ebinom de wɔn guu afiase.",Woguu afoforo ni asɔmman de wɔn gu afiase.,0.6429,0.4516
+271,"Saa bere no na Amonfo asraafo aboa wɔn ho ano wɔ Gilead, sɛ wɔrekɔtow ahyɛ Israel asraafo so wɔ Mispa.","Saa berɛ no na Amonfo asraafo aboa wɔn ho na Ogilad,sɛ wɔrekɔto ahyɛ Israel asraafo so wɔ Mispa.",0.3,0.0864
+272,Wo nko ara na woyɛ Onyankopɔn wɔ asase so ahenni nyinaa so.,wo nkwa na woyɛ Onyankopɔn wɔ asase so ahenni nyinaa so.,0.1667,0.0638
+273,"Munnim sɛ, sɛ mofa wiase adamfo a, na moyɛ Onyankopɔn atamfo?","Monnim sɛ, sɛ mofa wiase adamfo a, na moyɛ Onyankopɔn atamfo?",0.0909,0.0208
+274,na mo nnwuma so nni mfaso; nea ɔfa mo no yɛ akyiwade.,na monnyima so nni mfaso; nea ɔfa mo no yɛ akyiwade.,0.1667,0.05
+275,Amanehunu wɔ wɔn so!,"Amanehunu wɔ wɔn so, wɔbɛtua wɔn ne wɔn nsa ayɛ no so.",2.0,1.5625
+276,Mo mmabarima resan aba ntɛm so; na wɔn a wɔsɛe mo no refi mo nkyɛn akɔ.,Mo mmabarima resan aba ntɛm so; na wɔn a wɔsɛe mo no refi mo nkyɛn akɔ.,0.0,0.0
+277,"Sɛɛ na Asafo Awurade se: “Hwɛ, menyama amanamanmufo.","Saa na Asafo Awurade se: ""Hwɛ, menyama amanamanmufo.",0.125,0.0488
+278,te sɛ sankuten so kwadwom; na me yam hyehye me ma Kir Hereset.,te sɛ sankuten so kwadwom; na meyɛ hyehyɛ me ma Kir-Heres.,0.3846,0.1042
+279,"Dwene ɔhaw a ɔfaa mu no ho sɛ nnipa nnebɔneyɛfo tan a wɔtan no nso, otumi gyinaa ano no.","Dwene ɔhaw fa mu no ho sɛ, nipa ne bɔne fota wɔtan nsogyina ano no.",0.5263,0.25
+280,"Na mode baa fie no, mihuw gui.",na wa,0.8571,0.8636
+281,na ne nsa da so wɔ soro.,Na ne nsa da so wɔ sor.,0.1429,0.0588
+282,"Na sɛ mohwɛ nnipa anim de gye wɔn a, mudi ho fɔ na mmara no di tia mo sɛ mmaratofo.","Na sɛ mohwɛ nnipa anim de gye wɔn a, modi ho fɔ na mano di kyiamo sɛ mmaratofo.",0.25,0.0968
+283,"Mmom, waba prɛko a nneɛma nyinaa reba awiei, na ɔnam afɔre a ɔde ne ho bɔe no so apepa bɔne.",moma prakonam nyinaa ba awie na ɔnam afɔre a ɔde ne ho bɔeɛ no so apepa bɔne.,0.4,0.2
+284,"Ɔpɛ sɛ wɔte sɛ, sɛ moamma mo nsa so a, wobetua kuropɔn yi.","Ɔpɛ sɛ wɔte sɛ, sɛ moamma mo nsa so a, wɔbɛtua kuropɔn yi.",0.0769,0.0465
+285,"Na ɔkae se, “Kɔ na kɔka kyerɛ saa nkurɔfo yi se.","na ɔkae se, ""Kɔ na kɔka kyerɛ saa nkurɔfo yi se.",0.0,0.0
+286,"afei nnipa bɛhyɛ wo so ma, ama aboro wo so.","afei nnipa bɛhyɛ wo so ma, ama aboro so.",0.1,0.0625
+287,"Bere a Ɔhene Hesekia mpanyimfo no de ɔhene no nkra brɛɛ Yesaia no, Yesaia ka kyerɛɛ wɔn se, “Ka kyerɛ wo wura se, ‘Sɛnea Awurade se ni: Mma abususɛm a Asiriahene asomafo no ka tiaa me no nhaw wo.","Bere a ɔhene Hesekia mpanyimfo no de ɔhene no nkra brɛɛ Yesaia no, Yesaia ka kyerɛɛ wɔn se, ""Ka kyerɛ waseeh wɔ.",0.4872,0.4267
+288,"Hena na mode me besusuw no, na mode no atoto me ho?","Hena na mode me bɛsusu no, na mode no atoto me ho.",0.0833,0.0526
+289,Nanso metua Ariel ano; obedi awerɛhow na wato kwadwom.,Nanso metua Ariel ano; obedi awerɛhow na wato kwadwom.,0.0,0.0
+290,"Ɛsɛ sɛ ɔnam abrabɔ pa, nnwuma pa a wɔnam ahobrɛase ne nyansa so, da no adi.","Ɛsɛ sɛ ɔnam abrabɔ pa, nnwuma pa a wɔnam ahobrɛase ne nyansa so da no adi.",0.0,0.0
+291,Ɔpɛɛ atɛntrenee nanso ohuu mogyahwiegu; ɔpɛɛ trenee nanso ɔtee mmɔborɔsu.,Ɔpɛ atɛntenenee nanso ohuu mogyahwiegu; ɔpɛɛ tenenee nanso ɔtee mu boroso.,0.5,0.1452
+292,"Na ne mmabarima aduasa tena wɔn mfurum so kyinkyin, na wodi nkurow aduasa so wɔ Gilead asase so, a ebesi nnɛ wɔfrɛ hɔ Yair Nkurow.","na ne mmabarima aduasa tena wɔn mfurum so kyinkyin, na wodi nkurow aduasa so glad asase so, a ɛbɛsi na wɔfrɛ hɔ Yarkurom",0.24,0.1068
+293,"Nnanson so no, esiane haw a ɔhaw no nti, ɔkyerɛɛ no ase.","na aka na aponto no aba wie n'awie nyinaa, na nsonso no, esiane haw haw no nti ɔtena ase",1.25,0.9286
+294,ama ayɛ mfutuma.,ama ayɛfo,0.6667,0.4615
+295,Wobetwa apam a wo ne owu ayɛ no mu; nhyehyɛe a wo ne ɔda ayɛ no nso rennyina.,wɔbɛtwa apam a wo ne owu ayɛ no mu nhyehyɛeɛ a wonni ɔda ayɛ no nso rennyina.,0.2222,0.0862
+296,Hena na ɔtaa wʼakyi a enti wotew mʼanim atua?,Hena na ɔtaa wakyi a enti wotew manim akyi.,0.3333,0.1389
+297,"Bio, wugye di sɛ, maba sɛ merebɛtow ahyɛ asase yi so asɛe no kwa a Awurade nsa nni mu?","Bio, wogye di sɛ, maba sɛ merebɛto ahyɛ asase yi so asɛe no kwa a Awurade nsa nni mu",0.1053,0.0308
+298,"Ka kyerɛ no se, ‘Hwɛ yiye, yɛ komm na nsuro.","ka kyerɛɛ no se, ""Hwɛ yiye, yɛ komm na nsuro.",0.1,0.0323
+299,Awurade ne yɛn hene; na ɔno na obegye yɛn nkwa.,"Awurade ne yɛn hene, na ɔno na ɔbɛgye yɛn nkwa.",0.1,0.0556
+300,” Wo Nyankopɔn na ose.,"Wo Nyankopɔn na ɔse, Monsane",0.5,0.4375
+301,“Monnka anisoadehu a ɛyɛ nokware no nkyerɛ yɛn bio!,Monka anisoadehu a ɛyɛ nokware no nkyerɛ yɛn bio.,0.1111,0.0244
+302,Nea Asiriahene ka ni: Mo ne me nyɛ asomdwoe nhyehyɛe na mommra me nkyɛn.,Nea Asiriahene Kenini me nyɛ asomdwoe nhyehyɛe na mommra me nkyɛn.,0.2857,0.0702
+303,"Me na midii kan ka kyerɛɛ Sion, ‘Hwɛ, woni!","Me na medii kan kyerɛɛ wo Sion hwɛ, wonni,",0.4444,0.1935
+304,na miguu mʼagyapade ho fi; mede wɔn hyɛɛ wo nsa.,na meguu magyapadeho fi; mede wɔn hyɛɛ wo nsa.,0.3,0.0541
+305,Ɔde wɔn kyɛfa ma wɔn; ɔde ne nsa yɛ susudua kyekyɛ.,Ɔde wɔn kyɛfa bɛma wɔn ɔne nsa yɛ susudua kyekyɛ.,0.2727,0.1026
+306,"Yɛhwehwɛ atɛntrenee nso yenhu bi; ogye, nanso ɛwɔ akyirikyiri.",Yɛhwehwɛ atɛntenenee so yɛ hu bi ogye nanso Awakyirikyiri.,0.6667,0.1373
+307,"Wonnim hwee, na wɔnte hwee ase; wɔatare wɔn ani so nti wonhu ade.",wanim hwee na wɔnte hwee ase; wɔatare wɔn ani so nti wɔhe.,0.2308,0.14
+308,Enti ne na de nnwetɛbona ahannu kɔmaa dwetɛdwumfo na ɔde yɛɛ ohoni.,Enti ne na de nyɛboa ahanu kɔmaa twitwodwumfo na ɔde yɛɛ ohoni.,0.25,0.1818
+309,na mubetwa adwo afi honhom a ayɛ mmrɛw mu.,na mubetwa adwo afi honhom a ayɛ mmerɛ mu.,0.1111,0.0606
+310,na wɔbobɔ mu sɛ gyatamma; wɔbobɔ mu kyere wɔn hanam.,na wɔbobɔ mu sɛ gyatamma; wɔbobɔ mu kyere wɔn hanam.,0.0,0.0
+311,"Misraimfo no pɛɛ sɛ wotwa bi no, asu no bu faa wɔn so.","Misraimfo no pɛɛ sɛ wɔtwa bi no, asu no buaa wɔn so.",0.2308,0.05
+312,"Na Kyerɛwsɛm no mu baabi wɔ hɔ a wɔka biribi fa da a ɛto so ason no ho se, “Da a ɛto so ason no, Onyankopɔn home fii ne nnwuma nyinaa mu.","na kyerɛ sɛ no mu baabi wɔ hɔ a wɔakari da ɛto so ason no ho se, ""Da tosonnkotɔn home fie ne nua nyinaa.",0.4688,0.2745
+313,"Sɛ obi susuw sɛ ɔyɛ Onyamesomni na wanto ne tɛkrɛma nnareka a, ne nyamesom no so nni mfaso na ɔdaadaa ne ho nso.","Sɛ obi so hyɛ yɛ Onyimso ne na wanont ɛma nnareka, na ne nyamesom no nni aso na ɔdaan ne",0.6087,0.3182
+314,"Na Awurade kae se, “To ne din Lo-ami, efisɛ monnyɛ me nkurɔfo na mennyɛ mo Nyankopɔn.","na wɔde kaa se, ""Tumi a",0.875,0.8
+315,"Esiane sɛ na obiara nni hɔ a ɔkorɔn sen no no nti, ɔde ɔno ara ne din na ɛkaa saa ntam no.","Esiane sɛ na obiara nni hɔ a ɔkorɔn sen no no nti, ɔde ɔno ara ne din na ɛkaa saa ntam no.",0.0,0.0
+316,” Saa na Awurade ka.,.,1.0,1.0
+317,Yɛamfa nkwagye amma asase so; wɔanwo nnipa amma asase so.,"Yɛamfa nkwagye amma asase no, wɔanoa amma asase no.",0.4,0.1522
+318,na yegye yɛn amumɔyɛ to mu: atuatew ne nkontompo a etia Awurade.,Na yɛgyeɛ amumɔyɛ to mu: atuatew ne nkontompo a etia Awurade.,0.1667,0.0588
+319,Ɔbɛyɛ agya ama wɔn a wɔtete Yerusalem ne Yuda fi.,Ɔbɛyɛ agya ama wɔn a wɔtete Yerusalem ne Yuda fi.,0.0,0.0
+320,na moato pon wɔ mo agya Yakob agyapade so.,na moato pon wɔ mo agya Yakob agyapade so.,0.0,0.0
+321,Mpo kosi mo nkwakoraa bere ne bere a mubefuw dwen mu.,Mpo kosi mo nkwakoraa bere ne bere a mubefuw dwen mu.,0.0,0.0
+322,"na Israel nso nnye yɛn nto mu de; nanso wo, Awurade, wo ne yɛn Agya; efi tete, wo din ne; Yɛn Gyefo.","Na Israel nso nnye yɛ ntumu de, nanso wo, Awurade, wo ne yɛn agya efite wo din ne yɛn gyefo.",0.2273,0.0556
+323,"Na afei eduu bere bi a ɔpɛɛ sɛ ne nsa ka nʼagya hɔ nhyira no, ɔde kamee no.","Na afei eduu bere bi a ɔpɛɛ sɛ ne nsa ka n'agya ho nhyira no, ɔde kamee no.",0.1111,0.0357
+324,efisɛ wobedi wɔn nneyɛe so aba.,efisɛ wobedi wɔn ne yɛ so aba no me na amumɔyɛfo amanehunu wɔ wɔn so.,1.6667,1.32
+325,Wo nne befi asase no mu aba te sɛ ɔsaman de; wo kasa befi mfutuma mu aka asomsɛm.,Wo ne befi asase no mu aba te sɛ ɔsaman de; wo kasa befi mfutuma mu aka asomsɛm,0.0556,0.0161
+326,"mo gyefo, Israel Kronkronni no: “Mene Awurade mo Nyankopɔn.","mo gyefo, Israel Kronkronni no mene Awurade mo Nyankopɔn.",0.0,0.0
+327,“Mfiase no wotoo asase fapem.,Mfiase no wotoo asase pansom.,0.2,0.1739
+328,"Me nuanom, monhwɛ yiye na mo mu bi annya koma bɔne a ɔrennye Onyankopɔn nni a ɛbɛma watwe ne ho afi Onyankopɔn teasefo no ho.","Me nuanom monhwɛ yie na mo mu bi annya koma bɔne a, ɔrenyi Onyankopɔn nni a ɛma wɔatwe ne ho afi Onyankopɔn tease no.",0.24,0.101
+329,"Na saa asɛm yi fii Awurade nkyɛn kɔɔ Yesaia hɔ se, “San kɔ Hesekia nkyɛn, na kɔka kyerɛ no se, ‘Sɛɛ na Awurade, wʼagya Dawid Nyankopɔn, ka: Mate wo mpaebɔ no, na mahu wo nisu.","Na saa asɛm yi fii Awurade nkyɛn kɔɔ Yesaia hɔ se, ""San kɔ Yesaia nkyɛn, na kɔka kyerɛ no se, ""Sɛ Awurade wagya Dawid Nyankopɔn a",0.3714,0.2595
+330,Wʼaniwa yɛ kronkron a wuntumi nhwɛ nnebɔne; wunnyigye nnebɔne so.,ani kronkron a wontumi nhwɛ ne bɔne wonyin bɔne so.,0.7,0.2778
+331,"Efisɛ obi a wanhu mmɔbɔ no, Onyankopɔn atemmu mu no, wɔrenhu no mmɔbɔ.","Ɛfiri sɛ obi a wahu bɔ no, Onyankopɔn atemmu no mu wɔrenom.",0.6154,0.3273
+332,na Ɔkronkron Nyankopɔn de ne trenee bɛda ne ho adi sɛ Ɔkronkronni.,na Ɔkronkron Nyankopɔn de ne trenee bɛda ne ho adi sɛ ɔkronkronni,0.0,0.0
+333,Nanso ɔde bi sen onyame na ɔsɔre no; ɔyɛ ohoni na ɔkotow no.,Nanso ɔde bi sen onyame na ɔsɔre no; ɔyɛ ohoni na ɔkoto no.,0.0769,0.0217
+334,"Wɔn a wɔaka wɔ Sion, a wɔte Yerusalem no, wɔbɛfrɛ wɔn kronkron, wɔn a wɔakyerɛw wɔn din aka ateasefo ho wɔ Yerusalem nyinaa.","Wɔn a wɔaka wɔ sion a wɔte Yerusalem no, wɔbɛfrɛ wɔn kronkron, wɔn a wɔkyerɛ wɔn din aka ateasefo ho wɔ Yerusalem nyinaa.",0.0435,0.0204
+335,na bobesa ma wohinhim; bobesa ma asɔfo ne adiyifo tɔ ntintan.,na bobesa ma wohinhim; bobesa ma asɔfo ne adiyifo tɔ ntintan.,0.0,0.0
+336,"Asafo Awurade apae mu aka ama mate: “Nokwarem, afi akɛse no bɛda mpan.",Asafo Awurade apae mu aka ama mate: nokware mu afi akɛse no bɛda mpan.,0.1538,0.0185
+337,na wɔn tadua nyinaa ayɛ krado; wɔn apɔnkɔ tɔte te sɛ ɔtwɛrebo.,na wɔn taada nyinaa ayɛ krado; wɔn apɔnkɔ tɔte te sɛ ɔtwɛrebo.,0.0833,0.0408
+338,"Onipa tumi dwudwo mmoadoma, nnomaa, mmoa a wɔwea, po mu mmoa nyinaa, nanso obiara rentumi nnwudwo tɛkrɛma da.","Onipa tumi dwodwo mmoadoma, na mma moma wɔwea, po mu nyinaa nanso obiara ntumi dwodwoeɛ a.",0.5,0.2529
+339,Na Israelfo wɔ akofo mpem ahannan a wokurakura mfoa a Benyamin akofo nka ho.,Nasafo wɔ akofo mpem ahanan a wɔkurakura mfoɔ a bɛgyamakofom nka ho.,0.5,0.1935
+340,Muntuaa nnipa a wɔyɛɛ adwuma wɔ mo mfuw mu no ka enti wɔresi apini.,"Montwa nnipa a wɔyɛ adwuma wɔ mo ho no mu a, nti wɔresian",0.5714,0.283
+341,sɛ mmepɔw no nyinaa ti; ebegye din aboro nkoko nyinaa so.,sɛ mepɛ no nyinaa tiboa.,0.7273,0.6
+342,“Medaa me ho adi kyerɛɛ wɔn a wɔammisa mʼase; wɔn a wɔnhwehwɛ me no huu me.,"Medaa me ho adi kyerɛɛ wɔn a wɔammisa m'ase, wɔn a wɔnhwehwɛ me no hu me.",0.125,0.0351
+343,"Bere a ɔsahene no tee sɛ Asiriahene afi Lakis no, ɔsan nʼakyi kohuu sɛ ɔhene no ne Libna reko.","Bere a ɔsahene no tee sɛ Asiriahene afi Lakis no, ɔsan nakyi kohuu sɛ ɔhene no ne Libna reko.",0.0526,0.0135
+344,"Eyi nti na wɔbɔɔ Mose kɔkɔ bere a ɔpɛɛ sɛ osi ntamadan no, Onyankopɔn ka kyerɛɛ no se, “Si no sɛnea merekyerɛ wo wɔ bepɔw no so pɛpɛɛpɛ.","Yei nti na wɔbɔɔ Mose kɔkɔ bere a ɔpɛɛ sɛ osi ntamadan no, Onyankopɔn kyerɛɛ pɛpɛɛpɛ.",0.4643,0.3714
+345,Na wo babarima no bɛyɛ obi a wɔayi no asi hɔ ama Onyankopɔn sɛ Nasareni fi awo mu kosi bere a obewu.,Na ɔbarima no bɛyɛ obi a wɔayi no asi hɔ ama Onyankopɔn sɛ na dzeani fi awo mu kosi bere a obewu.,0.1818,0.1026
+346,saa ara na wo mmabarima bɛware wo; sɛ ayeforokunu ani gye nʼayeforo ho no.,Saa ara na ɔmma barima baabae wo; sɛ ayeforokunu ani gye na ɛforo ho no.,0.3571,0.1525
+347,"Enti nsuro, na mene wo wɔ hɔ; mma wo werɛ nhow, na mene wo Nyankopɔn.","Enti nsuro, na me no wɔ hɔ, mawerɛho na mene wo Nyankopɔn.",0.4,0.1373
+348,Yɛbɛyɛ sɛnea woka biara.,bɛyɛ nianianaa,1.0,0.55
+349,"Sɛ yɛn agyanom a wɔwɔ asase so twee yɛn aso ma yebuu wɔn a, mpɛn ahe na ɛnsɛ sɛ yɛbrɛ yɛn ho ase ma honhom mu Agya no na yetumi tena ase?","Sɛ yɛn agyanom a wɔwɔ asase so twee ɛn asoma yɛbuu wɔn a, mepɛ hena ɛnsɛ sɛ yɛbrɛ yɛn ho asɛm a humyan na yɛtumi tena ase",0.4375,0.1538
+350,Ɛsɛ sɛ obiara a ɔba Onyankopɔn nkyɛn no nya gyidi sɛ Onyankopɔn te ase na ɔdom wɔn a wɔhwehwɛ no no.,"Ɛsɛ sɛ obiara a ɔbɔ Nyankopɔn nkyɛn no nya gyidi sɛ Onyankopɔn tease, na ɔdom when no.",0.381,0.1519
+351,Ɔsan bɔɔ mpae bio maa osu tɔ maa asase nyaa nnɔbae.,Ɔbɔɔ mpae nokware mu sɛ osutɔ na mpaasom,0.9091,0.675
+352,"Awurade buae se, “Mannye mo amfi Misraimfo, Amorifo, Amonfo, Filistifo, Sidonfo, Amalekfo ne Maonfo nsam?","Awurade buae se, ""Manya mu afi Misraimfo, Amorifo, Amonfo, Filistifo, Sidonfo, Amalekfo ne mmafo nsam.",0.2667,0.0843
+353,"Obi bɛka se, ‘Meyɛ Awurade de’; ɔfoforo bɛfrɛ ne ho se Yakob; afoforo bɛkɔ so akyerɛw wɔn nsa ho se, ‘Awurade de,’.","Obi bɛka se, 'Meyɛ Awurade de ɔfoforo bɛfrɛ ne ho se, Yakob, afoforɔ so akyerɛ wɔn ho se, Awurade de.",0.1818,0.0952
+354,yɛretwɛn wo; na wo din ne ne kɛseyɛ.,yɛretwɛn wo; na wo din ne ne kɛseyɛ.,0.0,0.0
+355,na atirimɔdenfo bebrebe no ayɛ sɛ ntɛtɛ a mframa abɔ.,na atimuɔdenfo bebreebe no ayɛ sɛ ntɛtɛ a mframa abɔ.,0.2,0.093
+356,Obiara nhwehwɛ atɛntrenee; obiara mfa nokwaredi mmɔ ne nkurow.,Obiara nhwehwɛ atɛntrenee; obiara mfa nokwaredi mmɔ ne nkurow.,0.0,0.0
+357,te sɛ abɔnten sɛ wɔnnantew so no.,te sɛ abɔnten sɛ wɔnnantew so no.,0.0,0.0
+358,” Enti Israelfo nyinaa ano kɔɔ bɛnkoro boaa wɔn ho ano sɛ wɔbɛkɔ akɔtow ahyɛ kurow no so.,Enti Israelfo nyinaa no kɔ Banko wɔn ho ano sɛ wokɔ kɔto hyɛ nkuro.,0.5882,0.3
+359,"Te sɛ anifuraefo no, yɛkeka wɔ afasu ho.","te sɛ anifuraefo no, yɛkeka wɔ afasu ho.",0.0,0.0
+360,mpo ɔde tia Ɔkronkronni nokwafo no.,"mpo ɔde tia Ɔkronkronni nokwafo o,",0.1667,0.0345
+361,ɔyaw ne apinisi bekita wɔn; wobebubu wɔn mu te sɛ ɔbea a awo aka no.,Ɔhe a wo ne apinisi bekita wɔn; wobebubu wɔn mu te sɛ ɔbea a awo aka no.,0.2,0.0577
+362,"Bel bɔ ne mu ase, Nebo brɛ ne dibea ase; mfurum soa wɔn ahoni.",Ben bɔne masene brɛ ne dibea nusu ahoni.,0.7143,0.3696
+363,Ɔbɛsan akodi ne paa sɛ oguamanfo na ɔne ahenni a ɛwɔ asase so nyinaa adi gua.,Ɔbɛsan akodi nnipa sɛ oguamanfo na ɔne ahenni a ɛwɔ asase no so nyinaa adi gua.,0.1875,0.082
+364,"“Mommra,” obiara teɛ mu se, “momma me nsa!","Mommra, obiara teamams",0.75,0.3793
+365,Wɔn koma te sɛ fononoo; wɔde atirimpɔw bɔne kɔ ɔhene anim.,"Wɔn koma te sɛ fono, wɔde atumpɔn bɔne kɔ ɔhene mu",0.2727,0.2391
+366,"Saa da no Awurade Baa no bɛyɛ fɛ na anya anuonyam, na asase no so aba bɛyɛ ahohoahoa ne anuonyam ama Israel nkae no.","Saa da no Awurade Baa no bɛyɛ fɛ na ɛnya nunyam, na asase no so aba bɛyɛ ahohoahoa ne anuonyam ama Israel nkae no.",0.0833,0.033
+367,"Saa bere no na Israel nni ɔhene, nti na nea nnipa no gye di sɛ eye wɔ wɔn ani so no na wɔyɛ.","Saa bere no Israel nni ɔhene, nti na nipa no gye di sɛ nea ɛyɛ wɔ wɔn ani so na wɔyɛ",0.2609,0.1765
+368,"Sɛ nnanson aponto yi mu, mutumi yi ano a, mɛma mo sirikyitam ntade aduasa ne ntade ahorow bi nso aduasa.","Sɛ nsono tu yi mu, mutumi yi ano a, na mamusi kita ntadeɛ aduasa ne ntade ahorow bi nso aduasa",0.3,0.1829
+369,Nanso Efraim ahyɛ no abufuw yayaayaw; nʼAwurade bɛma ne mogyahwiegu ho afɔdi ada no so.,Nanso firms no abufuo a ayana Awurade bɛma nemogyahiegu ho afɔdi ada no so.,0.5333,0.2113
+370,"Na ɛbɛyɛ dɛn na yɛanya yerenom ama wɔn a wɔaka no, esiane Awurade ntam a yɛaka sɛ yɛremfa yɛn mmabea mu biara mma wɔn aware nti?","Na ɛbɛyɛ dɛn na yɛanya yerenom ama wɔn a wɔaka no, esiane Awurade ntam a aka sɛ yɛremfa yɛma ba mu biara mma wɔn aware nti?",0.1154,0.0495
+371,“Eyi ne asɛm a Awurade ka fa Asiriahene ho: “Ɔrenhyɛn saa kuropɔn yi mu.,Eyi ne asɛm a Awurade ka fa Asiriahene ho: ɔrenhyɛne kuropɔn yi mu.,0.1429,0.0545
+372,"na berɛw ne demmire nso, ɔde da koro pɛ; mpanyimfo ne akunini no ne eti no.","na berɛw ne demmire nso, ɔde da koro pɛ mpanyimfo ne akuno ne eti no.",0.125,0.0702
+373,"Enti Samson yere de su baa ne nkyɛn bɛkae se, “Wonnɔ me.","Nti Samson yere di so baa ne nkyɛn bɛkae se, ""Wonnɔ me.",0.25,0.0714
+374,Kuropɔn a Ɛrenyɛ Amamfo Bio.,Kuropɔn a Ɛrenyɛ Amamfo bio.,0.0,0.0
+375,na mimiaa wɔn so wɔ mʼabufuwhyew mu; wɔn mogya bɔ petee me ntade mu.,"na memiaa wɔn so wɔ mabufuhyeɛ mu, mogya bɔ petee me ntade mu.",0.2143,0.1321
+376,mo nyinaa beguan akɔ.,.,1.0,1.0
+377,"“Nnome nka Asiriani no, mʼabufuw abaa.","Nnome nka Asiriani no, m'ebufuw abaa.",0.1667,0.0667
+378,‘Na mɛma asomdwoe aba ha.,na Asafo Awurade se bɛkasa.,0.8,0.7895
+379,"Na nnipa no yɛɛ komm a wɔamma mmuae biara, efisɛ na Hesekia aka akyerɛ wɔn se wɔnnkasa.","na nnipa no yɛ komm wɔn mma mmua biara, ɛfiri sɛ na Hesekia aka akyerɛ wɔn sɛ, wɔn kasa.",0.5294,0.1304
+380,Da biara Yudani sɔfo sɔre yɛ nʼasɔfodwuma na wabɔ afɔre mpɛn pii.,"Dabiara Yuda no sɔfo sɔre yɛ nasɔfodwuma na wɔaba aforempanpii, nanso saa for",0.75,0.3208
+381,"Wɔn amanehunu nyinaa mu, ɔno nso huu amane.",namanehunu nyinaa mu ɔno nso huu amane.,0.25,0.0588
+382,Ɔsram anim begu ase na owia ani awu; na Asafo Awurade bedi hene.,Ɔsram anim begu ase na owia ani awu; na Asafo Awurade bɛdi hene,0.0769,0.02
+383,"Nkɔmhyɛ a ɛfa Damasko ho: “Hwɛ, Damasko renyɛ kuropɔn bio.","Nkɔmhyɛ a ɛfa Damasko ho: Hwɛ, Damasko bio.",0.2,0.2667
+384,Nsuka beyi hua; na nsuwa a ɛwɔ Misraim bɛtwe na ayow.,Nuabeanom bɛtwena awew.,1.0,0.5854
+385,amumɔyɛfo a wɔwɔ Gibea no so ana?,Amɔwɔ Gibea no a.,0.7143,0.5
+386,"Enti Lewini a ɔyɛ ɔbea a wokum no no kunu no kae se, “Me ne me mpena baa Gibea a ɛwɔ Benyamin asase so bɛdaa hɔ.","Enti Lewini a ɔyɛ ɔba a wokum no no kunu no kae se, ""Me ne me mpena baa Gibea wɔ Benyamin asase so bɛdaa hɔ.",0.1154,0.0357
+387,"Enti Israelfo no tenaa Kanaanfo, Hetifo, Amorifo, Perisifo, Hewifo ne Yebusifo no mu.","Enti Israelfo no tenaa Kanaanfo, Hetifo, Amorifo, Perisifo, Hewifo ne abusi no mu.",0.0769,0.0588
+388,"wɔde akyɛde bɛba Sion Bepɔw so, faako a Asafo Awurade din atim no.","wɔde akyɛde bɛba Sion bepɔw so, faako a Asafo Awurade din atim no.",0.0,0.0
+389,Mo mu bi wɔ ahotɔ mu ana?,M.,1.0,0.9444
+390,Me ara me nsa na mede trɛw ɔsoro mu; nsoromma ahorow nyinaa hyɛ mʼase.,"Me ara me nsa na mede kyerɛ ɔsoro mu, nsoromahoro nyinaa hyɛ m'ase.",0.2857,0.1455
+391,"Ɛno de, Onyankopɔn ankasa bɛma mo nsɛnkyerɛnne; ɔbabun no benyinsɛn, na wawo ɔbabarima, na wɔbɛfrɛ no Immanuel.","Ɛno de, Nyankopɔn ankasa bɛma mo nsɛnkyerɛnne; ɔbabun no benyinsɛn, wɔwɔ babarima wɔbɛfrɛ no ma no a.",0.4118,0.1333
+392,‘Ɛha sua ma yɛn dodo; momma yɛn asase no bi nka ho na yɛntena so.,hesa ma yɛn dodo; momma yɛn asase no bi nka ho na yɛntena so;,0.1333,0.0625
+393,“Nea odidi mu na wonya biribi a wodi; ɔhoɔdenfo mu na ade dɛɛdɛ fi ba.,Nya odidi mu na wɔnya biribi a ɔdi,0.6667,0.5283
+394,"Barak nteaseɛnam ne ɔtamfo no nsraadɔm no ara kosii Haroset-Hagoyim, kunkum Sisera akofo no nyinaa.","Batea na wontaa ɔtamfo no nsraadɔm no ara kɔsii Haroset-Hagoyim, kunkum si saako no nyinaa",0.4,0.2073
+395,nantwi ba ne gyata ne ne ba bɛbɔ mu; na abofra ketewa bi adi wɔn anim.,nantwiba ne gyata ne ne ba bɛbɔ mu na abofra ketewa bi adi wɔn anim.,0.125,0.0
+396,Wɔnnto dwom mfa nnom nsa bio; mmorɔsa ayɛ nwen ama anomfo.,wɔn nto dwom mfa nnom nsa bio; mmorɔsa ayɛ nwen ama anomfo.,0.1818,0.0
+397,Aba bi aka asan no so ana?,wiaseni.,1.0,0.7895
+398,"Sɛ ɔyɛɛ saa a, anka efi adebɔ mfiase no, obehu amane mpɛn bebree.","Sɛ ɔyɛ saa a, anka efi adebɔ mfiase no, obehu amane mpɛn bebree.",0.0769,0.02
+399,"Mo nyinaa nni aware ni, na okununom ne ɔyerenom nni wɔn ho wɔn ho nokware, efisɛ Onyankopɔn bebu nguamanfo ne aguamammɔ atɛn.","Mo nyinaa nni aware ni, na okunu ne ɔyere ne wɔn ho wɔn ho nokwarem.",0.5,0.495
+400,"Hwɛ, mede no ayɛ adansedi ama nnipa no.","Hwɛ, mede no ayɛ adansedi ama nnipa no.",0.0,0.0
+401,na wɔmmɔɔ wo din mfrɛɛ wɔn da.,na wɔn mmɔ wo din mfrɛɛ wo da.,0.4286,0.1739
+402,"Me, Israel Nyankopɔn, merennyaw wɔn.","Me, Israel Nyankopɔn, merennyaw wɔn.",0.0,0.0
+403,"Ne nneyɛe maa Onyankopɔn buu no bem, efisɛ ogyee Yudafo bi a wɔsomaa wɔn, boaa wɔn ma woguan faa ɔkwan foforo bi so.",ne ne yɛma Onyankopɔn buu no bu,0.8261,0.7253
+404,Israelfo Tu Benyaminfo So Sa.,Israelfo Tu benya me fo so sa.,0.6,0.0833
+405,Na Israelfo mmusuakuw ne mmusua no fii hɔ san kɔɔ wɔn ankasa afi mu.,Na Israelfo mmusuakuw ne musan fii hɔ san kɔɔ wɔn ankasa afi mu.,0.1429,0.0556
+406,Awurade bɛsɔre sɛnea ɔsɔree wɔ Perasim bepɔw so no.,Awurade bɛsɔre sɛnea ɔsɔree wɔ Perasim bepɔw so no.,0.0,0.0
+407,"Obesow ne mma, na ɔde ne ntaban akata wɔn so; ɛhɔ na nkorɔma bɛboaboa wɔn ho ano.","Obesow ne mma, na ɔde ne ntaban akata wɔn so; ɛhɔ na nkorɔma bɛboaboa wɔn ho ano.",0.0,0.0
+408,wo a awo nkaa wo da; efisɛ ɔbea a wannya awo da no mma.,wo a awo nkaa wo da; ɛfiri ma.,0.5714,0.55
+409,"Me nkurɔfo, mo akwankyerɛfo ma moyera; wɔma moman fi ɔtempɔn no so.","Me nkurɔfo, mo akwankyerɛfo ma moyera; wɔma moman fi ɔtempɔn no so,",0.0,0.0
+410,mo a muguan wɔ bere a na atamfo no wɔ akyirikyiri.,Mo a mo gua wɔ bere a na atamfo no wɔ akyirikyiri.,0.1818,0.0513
+411,Mo mu bi yare ana?,Monka,1.0,0.7692
+412,"Na obiara nni hɔ a obegye kurow no mufo, efisɛ na nea wɔte no ne Sidon mu twe na wonni adɔfo a wɔbɛn nso.","Na obiara a no ho eye kurow no mufo, fisɛ na ne wɔtene ne so dɔm mu twe na wonni adɔfo a wɔbɛn nso.",0.4167,0.15
+413,Nsu pa ne nsu a ɛyɛ nkyenenkyene betumi afi asuti baako mu aba ana?,Nsu pa ne nsuo a ɛyɛ nkyenenkyene betumi afi asuti baako aba no.,0.2143,0.0943
+414,"Nanso wɔammu asɛm a wɔka kyerɛɛ wɔn no, efisɛ wɔn a wotiee no no annye anni.","Nanso wɔammu asɛm a wɔka kyerɛɛ wɔn no, efisɛ wɔn a wɔtie no no annye anni.",0.0625,0.0339
+415,saa ara na mɛboaboa amanaman no nyinaa ano; obiara ammɔ ne ntaban mu.,"Saa ara na mɛboaboa amanaman no nyinaa no, obiara ammɔ ne ntaban mu.",0.0769,0.0182
+416,"Wokyinkyin sɛ atutenafo wɔ sare ne mmepɔw so, abodan ne asase so abon mu.","wɔtiti sɛ atutenafo wɔ sare ne bepɔw so, abodan ne asase so abunu.",0.2857,0.1897
+417,"ne anafo fam se, ‘Munnye wɔn ntena ha.","na anafo fam se, ""Monyɛ wɔn tenaa makyire.",0.5,0.4286
+418,"Akyiri no a ɔresan akɔ Timna akohyia ayeforo no, ɔman kɔhwɛɛ gyata no funu no.","Akyire no resan ktiakiaYɛforo no, ɔman nkɔhwɛ gyata no funu no.",0.5333,0.2419
+419,na mayɛ mmeae a ɛyɛ abonkyiabonkyi no trontrom.,na mayɛ mmeae a ɛyɛ abonkyiabonkyi no trontrom.,0.0,0.0
+420,"Ɔkaa ntam no se, “Mehyɛ wo bɔ sɛ, mehyira wo na mama wʼase adɔ.","Ɔkaa ntam no se, ""Mehyɛ wo bɔ se, ""Mehyɛ wo na mama wase ado.",0.2857,0.1304
+421,Adetreneeyɛ bɛsow asomdwoe aba; nea adetreneeyɛ de ba no bɛyɛ kommyɛ ne ahotoso a enni awiei.,Adeteneneeyɛ bɛso asomdwoeɛ aba; ne adeteneneeyɛ de ba no bɛyɛ kommyɛ ne ahotoso a enni awiei,0.3125,0.0921
+422,Adaka no so hɔ nso na anuonyam Kerubim a wɔatrɛw wɔn ntaban mu akata adaka no nkataso no so si.,"Adaka no so hɔ nso na anuonyam Karuma watɛwɔnkaben mu akata adaka no so, nkataso no si.",0.35,0.1733
+423,"” Enti mmarima baanum no kɔɔ Mika fi, faako a Lewini aberante no te na wokyiaa no fɛw so.","nima ban no kɔɔ Mika fi, faako a ewia ne te na wokyia no fɛw so.",0.3889,0.3088
+424,"“Hena ho na mode me bɛto, anaa mubebu no me sɛso?","hena ho na mode me bɛto, anaa mubebu no me sɛso?",0.0,0.0
+425,"“Wowɔ atade, bɛyɛ yɛn dikanfo; wɔ kurow a adan mmubui siw yi so.","Wowɔ atade, bɛyɛ yɛn dikanfo; wɔ kurow a adan mmubui siw yi so.",0.0,0.0
+426,"Munnni ntam no ho fɔ, efisɛ ɛnyɛ mo na mode mo mmabea maa wɔn aware.","Monni ntam no ho fa, firisɛ a na mode mo mmabea maa wɔn aware.",0.3333,0.2115
+427,"Saa bere no na Midianfo, Amalekfo ne nnipa no nkae a wofifi apuei fam no abɛfɔre so te sɛ mmoadabi wɔ obon no mu.","Saa bere no na mediafo Amalek ne nnipa no nkae a wofi apue fam no, abɛfo so te sɛ moab wɔ bon mu.",0.3333,0.1932
+428,"Mmere a atwa mu no, na Onyankopɔn nam akwan ahorow bebree so fa adiyifo so kasa kyerɛ yɛn mpanyimfo no.","Mmerɛ a atwam no, na Onyankopɔn nam akwan ho bree so fa adiyifo so kasa kyerɛ yɛn pɛn. no.",0.3,0.1829
+429,na mankɔ ɔsɛe amoa mu; na wode me bɔne nyinaa akyɛ me.,na mankɔ ɔsɛe amoa mu; na wode me bɔne nyinaa kyerɛ me.,0.0833,0.0732
+430,"Wɔsom Baal ne Astoret ahoni ne Aram, Sidon, Moab, Amon ne Filisti anyame.","Wɔsom Baal ne Astoret ahoni ne Aram, Sidon, Moab, Amon ne Filisti anyame.",0.0,0.0
+431,"” Ɔde nnwetɛbona kilogram du abien ne fa no maa ne na no, ne na no kae se, “Metew me nnwetɛbona yi ho ma Awurade.","Ɔde ne tabon kilogram dumienu a no maa ne na no, ne na no aseet ne tɔberɛ ho ma Awurade.",0.5,0.2857
+432,"Na wɔka kyerɛɛ Benyamin mmarima a wɔda so hwehwɛ yerenom no se, “Monkɔtɛw wɔ bobe nturo no mu.","Na wɔka kyerɛɛ Benyamin mmarima a wɔda so hwɛ yerenom no se, ""Monkɔtɛw be tonom.",0.3333,0.1486
+433,na obetua nʼanimtiaabu no so ka.,na wetwa ne ne miabu no so a,0.8333,0.3462
+434,apue wɔ amanaman anim.,apue wɔ amanaman anim,0.0,0.0
+435,Ɛbɛyɛ sɛnea nnɔbaetwafo twa aburow a egyina afuw so.,ɛbɛyɛ sɛ nea nnɔbaa twafo twa aburow a egyina afuw so.,0.4444,0.0233
+436,"na me din nti wotwa mo gyaw no, aka se.","na me din nti wotwa mo gyaw no, aka si",0.1,0.0357
+437,"Nea Agya Onyankopɔn fa no sɛ ɛyɛ onyamesom pa no ni: Ɔhwɛ nyisaa ne akunafo wɔ wɔn ahohia mu, na oyi ne ho fi wiase porɔwee ho.",Agyanoa sɛɛnamɔ,1.0,0.8571
+438,"Saa onipa no di nsõ, nnaadaa koma ma no to kwan; ɔrentumi nnye ne ho, anaa nka se.","Saa nipa no di so, na adaka ma no tokwane ho anaa nka se.",0.5,0.3279
+439,wɔanhintiw; te sɛ anantwi a wɔkɔ sare so.,wɔahini sɛ nantwie wɔrekɔsra so.,0.75,0.3438
+440,Ne din ne Otniel a ɔyɛ Kaleb nua kumaa Kenas babarima.,Medii ne Otin a ɔyɛ Kaleb no akumaKenas babarima.,0.5455,0.1628
+441,Efisɛ Kristo ankɔ kronkronbea a nnipa de wɔn nsa na ayɛ a ɛyɛ ade kann ho nhwɛso no hɔ.,Efisɛ Kristo ankɔ kronkronbea a nnipa de wɔn nsa na ayɛ a ɛyɛ adaka ho hwɛ so no wɔ.,0.2632,0.0735
+442,Onyankopɔn yii wiase yi mu ahiafo sɛ wɔnyɛ adefo wɔ gyidi mu na wɔanya ahenni a ɔhyɛɛ wɔn a wɔdɔ no no ho bɔ no.,Onyankopɔn yii wiase mu ahiafo sɛ wɔnyɛ adefo wɔ gyidi mu na wɔnya ahenni a ɔhyɛɛ wɔn a wɔdɔ no no no ho bɔ no.,0.12,0.0575
+443,“Ma wʼani so na hwɛ wo ho hyia: wɔn nyinaa aboa wɔn ho ano reba wo nkyɛn; wo mmabarima fifi akyirikyiri.,"Ma w'ani so na hwɛ wo ho hyia, ɔnanani akyirikyiri.",0.619,0.5125
+444,Saa ɔkwan yi ara so na wɔnam ma biribiara a ɛyɛ ɔsoro nhwɛsode no ho tew.,Saa akɔyi ara so na wɔnam ma biribiara a ɛyɛ ɔsoro nhwɛsode no no te.,0.25,0.1053
+445,Nsase no nyinaa rehome wɔ asomdwoe mu; na wɔto dwom.,Asase no nyinaa rehome wɔ asomdwoeɛ mu na wɔto dwom.,0.2,0.0488
+446,Awurade wɔ sobo de bɔ Yuda; ɔbɛtwe Yakob aso wɔ nʼakwan ho.,"Awurade wɔ sobo ebɔ Yuda, ɔbɛteaseɔ nano",0.6667,0.3043
+447,Efisɛ wobɛtrɛw akɔ nifa ne benkum; wʼasefo begye aman afa.,Ɛfiri sɛ wobɛtrɛ akɔ nifa ne benkum asefo begye aman afa.,0.4,0.1277
+448,"Munnue, mo a moka se, “Onyankopɔn nyɛ ntɛm.","Monnue, mo a moka se, ""Onyankopɔn nyɛ ntɛm.",0.125,0.0312
+449,Enti Sekemfo ne Bet-Milofo yɛɛ nhyiamu wɔ odupɔn a ɛbɛn nkaedum a ɛwɔ Sekem no ase.,Enti sɛ tamfo ne Bet-miloyiɛ nhyiamu wɔ wɔ dupɔn abanka dum a ɛwɔ Sekem no ase.,0.5,0.1818
+450,ɔhyew aduhuam maa Baal no ho; ɔde nkaa ne agude hyehyɛɛ ne ho.,Ɔhyew aduhwam Bankanage yɛne,0.9231,0.5
+451,"Sɛ moantumi anyi ano nso a, mo nso mobɛma me sirikyitam ntade aduasa ne ntade ahorow bi nso aduasa.","Sɛ moantumi anyi ano nso a, monsoma misi yia ntadeɛ aduasa ne ntadeɛ ahorow bi nso aduasa.",0.3684,0.1519
+452,"Wɔbɛkɔ abisa wɔ ahoni, ne awufo ahonhom.","Wɔbɛkɔ abisa wɔ ahoni, ne awufo ahonhom.",0.0,0.0
+453,hɔ na wɔdeda; wɔwe so nnua no mman ma ho yɛ kokwakokwa.,hɔ na wɔdeda; wɔwe so nnua no mman ma ho yɛ kokwakokwa.,0.0,0.0
+454,"wʼAgyenkwa, Israel Kronkronni no: “Mo nti, mɛsoma akɔ Babilonia.","W'agyenkwa Israel Kronkronni no, mo nti mɛsoma akɔ Babilonia.",0.1111,0.0196
+455,"Ɛde ogyaframa bunkam wɔn so, nanso wɔante ase.","Ɛde ogyaframa bunkam wɔn so, nanso wɔnte ase.",0.125,0.027
+456,"Enti afei, obetumi aboa wɔn a wɔasɔ wɔn ahwɛ no, efisɛ wɔsɔɔ ɔno ankasa hwɛe, ma ohuu amane.","Enti afei, obetumi aboa wɔn a wɔasɔ wɔn ahwɛ no, ɛfirisɛ wɔsɔɔ ɔno ankasa hwɛ na ɔhunu amane",0.2222,0.0986
+457,Ɔbobɔ ohoni no mu nnadewa sɛnea ɛrentu nhwe fam.,Ɔbobɔ ahoni no mu nnadewa sɛnea ɛrentu nhwe fam.,0.1111,0.0256
+458,mo a mo ne trenee ntam kwan ware; Mede me trenee rebɛn.,mo a mo ne trenee ntam kwan ware; Mede me trenee rebɛn.,0.0,0.0
+459,Mika yɛɛ nsɔre so na ɔyɛɛ asɔfotade ne ne fifo ahoni kaa ho.,Mika yɛɛ nsɔre so na ɔyɛɛ asɔfotade ne fifo ahoni kaa ho.,0.0769,0.0426
+460,fa wo ho kosie asase no mu esiane Awurade ho hu.,Fa wo ho kɔsie asase no mu esiane Awurade ho hu.,0.0909,0.027
+461,"Enti ɔfaa asɔfotade kronkron no, abusua ahoni ne ohoni a wɔagu no.","Enti ɔfaa asɔfotade kronkron no, abusua hu no noni wagu no.",0.4167,0.1509
+462,Nea ɔyɛ ohoni no de ne ho to ɔno ankasa nsa ano adwuma so; na ɔyɛ anyame a wontumi nkasa.,"Nea ɔyɛ ohoni de ne ho to ɔno ankasa nsa na adwuma so, na ɔyɛ nyame a wɔntumi nkasa.",0.2,0.0882
+463,mo ne mo Nyankopɔn ntam; mo bɔne ama nʼanim ahintaw mo.,mone mo Nyankopɔn ntam amanaman mo.,0.6364,0.3256
+464,Adehu a ɛfa Moab ho: Wɔasɛe Ar a ɛwɔ Moab.,Adehu a ɛfa Moab ho: wɔasɛ ar a ɛwɔ Moab.,0.1,0.0323
+465,na wɔasiesie mmeaemmeae a asɛe dedaada no; wɔbɛyɛ nkuropɔn a asɛe no foforo.,na wɔasiesie mmeammea a asɛe dedaada no; wɔbɛyɛ nkuropɔn a asɛe no foforɔ.,0.1538,0.0484
+466,"na woagye wɔn a wɔda afiase amoa mu, wɔn a wɔte sum kabii mu no.","na wagye wɔn a wɔda afiase amoa mu, wɔn a wɔte sum kabii mu no.",0.0667,0.0208
+467,"Adɛn, Awurade, na woma yɛkwati wʼakwan.","Adɛn, Awurade, na woma yɛkwati w'akwan.",0.1667,0.0323
+468,Wɔde nnwonto bɛhyɛn Sion; anigye a ɛnsa da bɛyɛ wɔn ahenkyɛw.,Wɔde dwonto bɛhyɛn Sion; anigye a ɛnsa da bɛyɛ wɔn ahenkyɛw.,0.0909,0.0408
+469,"Wowiawiaa mmea a wɔbaa afahyɛ no ase, de wɔn kɔɔ asase a ɛyɛ wɔn agyapade no so.","Wowiewie me a wɔbaa fahyɛ no ase, de wɔn kɔ asase a ɛwɔ agyapade no so.",0.3529,0.1613
+470,a moabrɛ ho no bio; wɔn a wotwa no na wobedi.,mabrɛ hona.,1.0,0.7273
+471,Wɔbɛhyew aman no ama wɔatɔ nso; wɔbɛto wɔn mu gya te sɛ nsɔe a wɔatwa.,wɔbɛhye wo aman no ama wɔatɔ nso; wɔbɛto wɔn mu gya te sɛ nsɔe a wɔatwa.,0.1333,0.0185
+472,"ɔnnan nkɔ yɛn Nyankopɔn nkyɛn, na ɔde ne ho bɛkyɛ no.","Ɔnam nkɔyɛ Nyankopɔn nkyɛn, na ɔde ne ho bɛkyɛ no.",0.2727,0.0732
+473,"nanso wonsua treneeyɛ; na mpo atreneefo asase so no, wɔkɔ so yɛ bɔne.","nanso wɔnnsua tenenee yɛ; na mpo atwene asase so no, wɔkɔ so yɛ bɔne.",0.3077,0.1481
+474,ne huuyɛ a efi wo asanku no; wɔde nsaammoa asɛw kɛtɛ ama wo.,ne huuyɛ a ɛfiri wo sɛ nku no ɔde nsa ama asɛ kɛtɛ ama wo.,0.5385,0.1957
+475,Ɔde nʼano abaa na ɛbɛbɔ asase; ɔde nʼanofafa home bekunkum amumɔyɛfo.,Ɔde nano abaa na ɛbɛbɔ asase; ɔde nanammɔyɛfo.,0.4545,0.3509
+476,’ Saa na Asafo Awurade se.,""". a.",1.0,0.9474
+477,"Yiw, moahwie nsa afɔrebɔde agu wɔn so.","Yiw, mahwie nsa afɔrebɔde agu wɔn so.",0.1429,0.0333
+478,"Woahu nneɛma bebree, nanso amfa wo ho; Ɔkwan da wʼasom, nanso wonte hwee.","Woahu nneɛma bebree, nanso amfa wo ho; Ɔkwan da w'asom nanso wonte soe.",0.1538,0.0702
+479,Saa bere koro no ara mu na Onyankopɔn nam ne nsɛnkyerɛnne ne nʼanwonwadwuma so dii ho adanse.,Saa bere koro no remona Onyankopɔn nam ne nsa nkyɛn na hodwumaso dii ho adanse.,0.4118,0.2105
+480,nea asisi fi bere a migyee me tete nkurɔfo sii hɔ.,nye esi si fi bere a migyee me tete nkurɔfo sii hɔ.,0.2727,0.0769
+481,"Bere a Dan abusuakuw mu nnipa no afi Mika fi kɔ akyirikyiri no, Mika ne nʼafipamfo mu bi tiw wɔn.","Bere a na abusuakuw mu nnipa no afi Mika fi kɔ akyirikyiri no, meka nafipamfo bi te wɔn.",0.3,0.1316
+482,ama nea ogye bosea sɛnea ɛbɛyɛ ama nea ɔma bosea.,ama nea ogye bosea sɛnea ɛbɛyɛ ama nea ɔma bosea.,0.0,0.0
+483,"Animguase nka wo, Sidon, ne wo, po so abandennen.","Animguase nka wo, Sidon, ne wo, po so abandennen.",0.0,0.0
+484,"Sɛ wɔkɔ a, mɛtow mʼasau agu wɔn so; atwe wɔn aba fam te sɛ wim nnomaa.","Sɛ wokɔ mɛto masɛe agu wɔn so, atwa aba fam te sɛ yuoa",0.5,0.3269
+485,"” Ɔbarima no sɔree sɛ anka ɔrekɔ, nanso nʼase no hyɛɛ no sɛ ɔntena.","Ɔbarima no sɔre saa nkɔkɔ, na nso na se no hyɛɛ no sɛ ɔntena.",0.5385,0.1176
+486,Ɔde nantwika abaa kum Filistifo ahansia.,Ɔde nantwika abaa kum Filistifo ahansia.,0.0,0.0
+487,"Awurade bɔfo yii ne ho adi kyerɛɛ Gideon, kae se, “Dɔmmarima, Awurade ka wo ho.","Awurade bɔfo yii ne ho adi kyerɛɛ Gibeon ka se, ""Dɔmmarima, Awurade ka wo ho.",0.1333,0.0333
+488,"Nanso atemmufo no wu akyi no, nnipa no san kɔɔ wɔn bra bɔne no mu a, afei na wɔasɛesɛe sen wɔn a wodii wɔn anim kan no.","Nanso atemmufo no wu akyi no, nipa no san kɔ wn brabɔne ne mu a afei na wɔasɛesɛe sen wɔn a wɔdi anim kan no.",0.2963,0.1
+489,Wotu mmirika kɔyɛ bɔne; wɔnkyɛ opira ne awudi ho.,Wotu mmirika kɔyɛ bɔne; wɔnkyɛ opira ne awudi ho.,0.0,0.0
+490,Nanso Onyankopɔn huu mfomso wɔ ne nkurɔfo ho bere a ɔkae se.,Nanso Onyankopɔn huu mfomso wɔ ne nkurɔfo ho bere a ɔkae si,0.0833,0.0208
+491,Wonni mma ayisaa; na akunafo nsɛm nkɔ wɔn anim.,Wonni mma ayisaa; na akunafo nsɛm nkɔ wɔn anim.,0.0,0.0
+492,"mo a mote asase no so: “Nokware, ɔdɔ, anaa Onyankopɔn ho nimdeɛ nni asase no so.",Mo a mote asase no so na Onyankopɔn de asase no so.,0.375,0.35
+493,"Afei, bere a nʼagya reyɛ ahoboa ama awaregye no, Samson too pon wɔ Timna, sɛnea amanne kyerɛ saa bere no.","Afei, bere a agyare yɛ ahoboa ama awaregye no, Samson too pon wɔ Timna, sɛnea amanne kyerɛ saa eno.",0.2,0.061
+494,Saa nhwiren abotiri no a ɛyɛ Efraim asabowfo ahohoahoade no.,Saa nhwiren botu no a ɛyɛ Efraim asabofoɔ ahohoahoadeɛ no.,0.3,0.14
+495,"Amanehunu biara a ɛbɛto mo no, munnhinhim na momfa no sɛ Agya no nteɛso, efisɛ mo amanehunu no kyerɛ nteɛso a Onyankopɔn wɔ ma ne mma.","Amanehunu biara a ɛbɛto mo no, onyini na momfa no sɛ Agya no nteɛso, efisɛ manean nema.",0.4615,0.3774
+496,"Eyi da no adi pefee sɛ Onyankopɔn nam onipa nneyɛe so na obu no bem, na ɛnnam ne gyidi nko so.","Eyi da no adi pefee sɛ, Onyankopɔn nam onipa nneyɛe so na obu no bem, na ɛnnam ne gyidi nko so.",0.0,0.0
+497,Ebegu Efraim anim ase; na Israel ani bewu wɔ ne nnua ahoni ho.,"ɛbɛgu firimnim ase, na Israel ani bewu wɔ ne nua ahoni o.",0.3846,0.1667
+498,Asahene no bɔɔ nsra fii Makir; ɔsahene pemakurafo fi Sebulon bae.,Asahene bɔ nsra fii Makers ne pomakurafobulon ban.,0.7273,0.2642
+499,"Nsuro, efisɛ meka mo ho; mede wo mma befi apuei fam aba.","Nsuro, efisɛ meka mo ho edema.",0.5833,0.4524
+500,Ɔkɔm renne wɔn na osukɔm nso renne wɔn; nweatam so hyew ne owia ano hyew renka wɔn.,Ɔkɔm renne wɔn na osukɔm nso renne wɔn nnuane ne owia no Serena wɔn.,0.3529,0.2308
+501,"” Ɔkaa nhyehyɛe a ɔne Mika ayɛ kyerɛɛ wɔn na ɔkyerɛɛ mu sɛ, ɔyɛ ɔsɔfo ma Mika.","Ɔka hyɛeɛ ne meka ayɛ kyerɛɛ wɔn na ɔkyerɛ mu se, ""Ɔyɛ ɔsɔfo ma meka.",0.5,0.1864
+502,na ɔyɛ ɔsotifo sɛ ɔbɔfo a mesoma no?,na ɔyɛ ɔsotifo sɛ ɔbɔfo a mesoma no.,0.0,0.0
+503,"Ɛka se Onyankopɔn bɔɔ onipa sɛ, “Nneɛma nyinaa sodifo,” eyi da no adi sɛ biribiara ka ho.","Ɔtane Onyankopɔn bɔɔ onipa sɛ, ne manyna sodifo yi da no adi sɛ biribiara ka ho.",0.2941,0.1176
+504,Ɛhɔ na ɔretwɛn mprempren kosi sɛ Onyankopɔn bɛma nʼatamfo ayɛ nʼanan ase ntiaso.,wɔna.,1.0,0.9403
+505,"Nanso Israelfo su frɛɛ Awurade no, oyii ɔbarima bi sɛ ogyefo maa wɔn.","Nanso Israelfo su frɛɛ Awurade no, woyɛ ɔbarima bi sɛ ogyefo maa wɔn.",0.0769,0.0545
+506,"Gideon wui ara pɛ, Israelfo no kɔsom Baal ahoni, de bɔɔ wɔn ho ahohwi.",adehyeɛ ahyehyɛdeɛ ne nkɔnsɔnkɔnsɔn a egu wɔn komu nka ho.,0.9286,0.7778
+507,"Na Manoa bɔɔ Awurade mpae se, “Ao Awurade, mesrɛ wo, ma Onyankopɔn nipa no nsan mmra yɛn nkyɛn na ɔmmɛkyerɛ yɛn nhyehyɛe a ɛfa abarimaa a wɔbɛwo no no ho.","na ano abɔ Awurade mpae se, ""Ao Awurade, mesrɛ wo, mo nyankopɔn nsa mmra yɛnkyɛkyɛ yɛn nhyehyɛeɛ a barima a wɔbɛwo no no ho.",0.4667,0.2
+508,bere a wofi Misraim bae no.,"Bere a wɔfiri Misraim baeɛ no,",0.3333,0.1905
+509,"Sɛ okuafo funtum asase sɛ ɔrebedua so a, ɔyɛ no daa ana?","Sɛ kuafoɔ ntim asase sɛ ɔrebedua so a, ɔyɛ no daa na",0.25,0.1163
+510,na treneeyɛ ayɛ ɔfasu kirebennyɛ susuhama.,na teneneeyɛ ayɛ ɔfasu kirebennyɛ susuhama.,0.1667,0.0556
+511,Fa Asera dua a wutwae no nnyansin yɛ ogya.,Ɔbotan so na hwie nkwan no gu so na idea.,1.0,0.7879
+512,Nanso mʼani begye Awurade mu; me ho bɛsɛpɛw me wɔ Onyankopɔn a.,Nanso mani bɛgye Awurade mu; ne ho bɛsɛpɛ Onyankopɔn a,0.5,0.16
+513,Gyidi nti na Israelfo de nnanson twaa Yeriko afasu ho hyia dwiriw gui no.,Gyidi nti a Israelfo de nsonaareko afasu no ho hyia dirigu no.,0.5,0.2373
+514,"Anadwo no Gibea ntuanofo no mu bi betwaa ofi no ho hyiae, pɛɛ sɛ wokum me, na wɔtoo me mpena no mmonnaa ma owui.","Anadwo no Gibea ntuanofo no mu reba bɛtwafine ho hyiae, pɛɛ sɛ wɔkum ɔtemana wu.",0.5833,0.3488
+515,"Me nuanom, borɔdɔma dua betumi asow ngodua aba ana?","Me nuanom, wɔde ma dua bɛtumi aso ngo dua ba na.",0.8889,0.1951
+516,"Yɛn asɔredan kronkron a ɛwɔ anuonyam, faako a yɛn nenanom yii wo ayɛ no.","Yɛn asɔredan kronkron a ɛwɔ anuonyam, faako a yɛn nenanom yii wo ayɛ no.",0.0,0.0
+517,wobegyaw agu hɔ na wɔahyew; ɛbɛyɛ nea ɛma ogya dɛw.,wɔbɛgya agu hɔ na wahyɛ ɛbɛyɛ nea ɛma ogya dɛw.,0.2,0.15
+518,"Osukɔm anne wɔn bere a odii wɔn anim, wɔ nweatam ahorow so no.","Osukɔm anne wɔn bere a odii wɔn anim wɔ anuatamahoro no so no, ɔmaa nsu fii ɔbotan mu ama wɔn ɔpaani",0.7692,0.7292
+519,na wɔde nnipa ahomaso ahwe fam; Awurade nko ara na wɔbɛma no so da no.,na wɔde nnipa ahomaso ahwe fam; Awurade nko ara na wɔma no so da no.,0.0667,0.037
+520,"Wɔatow mmara dedaw no akyene, efisɛ sintɔ bi wɔ mmara no mu, na so nni mfaso nso, efisɛ Mose Mmara no antumi amma biribiara anni mu, na wɔde anidaso pa bi a yɛnam so bɛn Onyankopɔn aba.","Wato mada no akyene, efisɛ sintɔ bi wɔ mmara no mu, na sunifasonso, efisɛ Mose Mmara no antumi amma biribiara aninenaa bɛnyan aba.",0.5135,0.2847
+521,"Na Sebul a otua kurow no ano tee nea Gaal rekeka no, ne bo fuwii.",""".",1.0,1.0
+522,"“Nanso mo, mommra ha, mo ɔbayifo mma.","Nanso mo, mommra ha, mo ɔbaafo ma.",0.2857,0.1111
+523,Monkae wɔn a wɔda afiase na momfa no sɛ mo ne wɔn na ɛda hɔ.,Monkae wɔn a wɔde afiase na momfa no sɛ monwɔ na ɛda hɔ.,0.2667,0.0667
+524,"wobɛka akyerɛ nneduafo se, ‘Mumfi mmra!","wobɛka akyerɛ nneduafo se, Momfi mmara",0.3333,0.0645
+525,"Mmom, ɔno ara de ne mogya na ɛbɔɔ afɔre de gyee nkwa a enni awiei maa yɛn.",mmom ɔno ara de ne mogya na ɛbɔɔ afɔre gyee nkwa a ɛnni Awiemyɛn.,0.2941,0.1071
+526,"Nanso obi betumi aka se, “Obi wɔ gyidi na afoforo nso wɔ nneyɛe.","Nanso obi betumi akɛse, ""Obi wɔ gyidi na afoforo nso wɔ ne yɛn.",0.3077,0.0612
+527,Nkoko wosee a ɛwɔ nweatam no nyinaa so no.,Nkoko wosee a ɛwɔ nweatam no nyinaa so no.,0.0,0.0
+528,Midi Moab ho awerɛhow wɔ me koma mu; nʼaguanfo guan kodu Soar.,Medi Moab ho awerɛhow wɔ me koma mu; na aguanfo guankɔdusoa,0.4167,0.0816
+529,Gyidi nti na ɛmaa Yakob hyiraa Yosef mma no nyinaa ansa na ɔrewu.,Gyidi nti na ɛma yakoraa ma no nyinaa ansa na ɔrewu.,0.3846,0.2115
+530,Mede Dawid fi safe bɛma no; nea obebue no obiara rentumi nto mu; na nea ɔbɛto mu nso a obiara rentumi mmue.,Mede Dawid fi safe bɛma no; na obebue no obiara rentumi nto mu; na ne ɔbɛma obiara ntumi mie.,0.3636,0.1446
+531,"Ao, sɛ anka wubesunsuane ɔsorosoro mu, asian aba fam a.","Ao, sɛ anka wobɛsunsuane ɔsorosoro mu, asian bɛfa mu.",0.4,0.1163
+532,"Hwɛ mahoa mo ho, ɛnyɛ sɛnea wɔnan dwetɛ ho; mmom, masɔ wo ahwɛ wɔ amanehunu fononoo mu.","Hwɛ, mahoa mo ho, ɛnyɛ sɛnea wɔnan dwetɛ ho; mmom, masɔ wahwɛ wɔ amanehunufo no no mu.",0.2941,0.0299
+533,"Afei na wɔayɛ koraa, ɛnkyɛe; ebesi nnɛ no na anka montee ho hwee.","Afei na wɔayɛ koraa, ɛnkyɛ ɛbɛsi nnɛ no na anka montee ho hwee.",0.1538,0.06
+534,Nnipa bi kɔɔ Abimelek nkyɛn kotii nʼase.,amanaman nianigo nafieboa,1.0,0.8182
+535,Momma mo ani so nhwɛ mo ho nhyia; mo mmabarima nyinaa reboa wɔn ho ano aba mo nkyɛn.,Momma mo ani so nhwɛ mo ho nhyia; mo mmabarima nyinaa reboa wɔn ho ano aba mo nkyɛn.,0.0,0.0
+536,"Sɛnea onipadua a honhom nni mu awu no, saa ara nso na gyidi a nneyɛe mmata ho no nso awu.","Sɛnea onipadua a honhom nni mu awu no, saa nso na gyidi a neyɛma hɔ no so wu",0.3,0.1618
+537,"Saa bere no na akofo ahansia a wofi Dan abusuakuw mu no gyinagyina abɔntenpon no ano pɛɛ, na akwansrafo baanum no kɔɔ nsɔree so hɔ, kɔfaa ohoni, asɔfotade kronkron, ne abusua ahoni no.","Saa berɛ no na akofo ahansia a fida abusuakuw mu no gyegyina bɔte pɔn no anopa na akwansrafo baanum no kɔɔ nsɔre so hɔ, kɔfaa ohoni, asɔfotade kronkron, ne abusua honi no.",0.303,0.102
+538,hyɛ nkotodwe a ahodwow no mu den; Ka kyerɛ wɔn a wɔn koma atu no se.,Sɛ nkotodwe a ahodwo no mu den kyerɛwa,0.6875,0.4118
+539,"Akofo mpem aduonu asia a wokurakura afoa koduu Gibea, kɔkaa akofo ahanson a na wɔte hɔ dedaw no ho.","Akofo mpem aduonu asia a wokurakura afoa koduu Gibea, kɔkaa kofan ɔtoɔdo ho.",0.4211,0.2278
+540,Na Awurade akasa: “Matetew mma ama wɔanyinyin.,Na Awurade aaataa,0.7143,0.5946
+541,Kronkron ne Asafo Awurade; Nʼanuonyam ahyɛ asase nyinaa so ma!,Kronkron ne Asafo Awurade na nunyam ahyɛ asase nyinaa so ma.,0.2,0.0392
+542,"Enti nokware, Abraham tuaa nkyɛmu du no, Lewi a nʼasefo gye nkyɛmu du no nso nam Abraham so tuaa bi maa Melkisedek.","Enti nokware, Abram tua nkyɛmu du no, Lewi asefo gye nkyɛmu du no nso nam abrafotuabi maa merekasa.",0.4091,0.1978
+543,"Ɔkɔm ne osukɔm werɛmfo bɛde nkurɔfo no ara kosi sɛ, wobedi wɔn ara agyanan, anom wɔn dwonsɔ.","Ɔkɔm ne osukɔm werɛmfo bɛde nkurɔfo no ara kɔsi sɛ, wɔbɛdi wɔn ara agyanan, anom wɔn dwonsɔ.",0.1176,0.0411
+544,ɔhaw ne ho kwa; sɛ ɔkɔ nʼabosonnan mu kɔbɔ mpae a.,ɔha ne ho kwa; sɛ ɔkɔ abosome,0.5455,0.4211
+545,"Awurade, Asafo Awurade ayi me asotiw se, “Wɔremfa saa bɔne yi nkyɛ wo da kosi wo wuda,” sɛnea Awurade, Asafo Awurade se ni.","Awurade, Asafo Awurade ayi m'asotimsi, ""Wɔremfa saa bɔne nkyɛ wo da si wowu da sɛnea Awurade asafo Awurade se ni.",0.3043,0.0745
+546,"Nea Yudahene Hesekia kyerɛw wɔ ne yare ne nʼayaresa akyi ni: Mekae se, “Mʼasetena mu nnapa yi mu.",Nea Yudahene Hesekia kyerɛw wɔ ne yare ne ayaresa kyinii mu.,0.5,0.3553
+547,Na ɔpɛ sɛ ɔne Onyankopɔn mma behu amane sen sɛ obegye nʼani wɔ bɔne mu mmere tiaa bi.,Na ɔpɛ sɛ ɔne Onyankopɔn mma behu amane sen sɛ wobɛgyina ni wɔ bɔne mu mretia bi.,0.2222,0.1045
+548,wɔbɛsɛpɛw wɔn ho wɔ wɔn adedi mu; ne saa nti wɔn asase no so kyɛfa bɛyɛ mmɔho.,wɔbɛsɛpɛ wɔn ho wɔ wɔn adedi mu; ne saa nti wɔn asase no so kyɛfa bɛyɛ mmɔho.,0.0588,0.0167
+549,"Na Gilead ntuanofo no keka kyerɛɛ wɔn ho wɔn ho se, “Obiara a obedi kan atow ahyɛ Amonfo so no bɛyɛ nea obedi Gileadfo nyinaa so.","Na Gilead ntuanofoɔ ka kyerɛɛ wɔn ho wɔn ho se, ""Obiara a obedi kan atow ahyɛ Amanfoso no bɛyɛ nea obedi Gileadfo nyinaa o,",0.2308,0.0594
+550,Asɛm a Asafo Awurade ka ni: “Munnwen mo akwan ho yiye.,Asɛm a Asafo Awurade kanyann yi.,0.6364,0.4146
+551,ɛyɛɛ no nwonwa sɛ obiara nni hɔ a ɔbɛpata; enti ɔno ankasa basa dii nkwagye ho dwuma maa no.,Ɛyɛɛ no nwonwa sɛ obiara nni hɔ a ɔbɛpata; enti ɔno ankasa basa dii nkwagye ho dwuma maa no.,0.0,0.0
+552,"Enti Israelfo dii Moabfo so nkonim saa da no, na asomdwoe baa asase no so mfirihyia aduɔwɔtwe.","nti sae no di mabonomu saa da no, na asomdwoe ba asase no so mfirinhyia aduɔwɔtwe",0.4706,0.2105
+553,Nkɔmhyɛ a etia Anisoadehu Bon no: Dɛn na ɛhaw mo mprempren.,"Nkɔmhyɛ a etia Anisoadehu bo no, dɛnarmpre",0.5455,0.2553
+554,Na ɔbarima bi a ofi Lewi abusuakuw mu te Efraim bepɔw asase no so akyirikyiri baabi.,Na ɔbarima bi firi Lewi abusuakuw mu te Efraim bepɔw asase so akyirikyiri baabi.,0.1875,0.0735
+555,Sɛ obi pɛ sɛ ɔyɛ Onyankopɔn apɛde a obehu sɛ me nkyerɛkyerɛ no fi Onyankopɔn nkyɛn anaa efi mʼankasa.,"Sɛ obi pɛ sɛ ɔyɛ Onyankopɔn apɛdeɛ a, ɔbɛhu sɛ mekyɛkyɛ fi Onyankopɔn nkyɛn anaa efi makasa.",0.3158,0.1463
+556,nea ɔboaboa Israelfo a wɔatwa wɔn asu ano no ka se: “Mɛkɔ so aboaboa afoforo ano aka wɔn ho.,"nea ɔboaboa Israelfo a wɔatwa wɔn asu no ano no ka se: ""Mɛkɔ so aboaboa afoforo ano aka wɔn ho.",0.0526,0.0282
+557,Obiara a ogye akyinnye no te sɛ po asorɔkye a mframa bɔ no kɔ baabiara a ɛpɛ.,Obiara a gyekyi no te sɛ po sɔkye mframa bɔ no kɔ baabiara a ɛpɛ.,0.2353,0.1667
+558,"Nanso bere a Ehud duu abo ahoni a ɛbɛn Gilgal no, ɔsan nʼakyi baa Eglon nkyɛn bɛka kyerɛɛ no se, “Mewɔ kokoamsɛm bi ka kyerɛ wo.","Nanso bere a ɛhu duu abo ahoni a ɛbɛn Gilgal no, ɔsan akyi a elonbɛkakyerɛɛ no se, ""Mewɔ kokoamsɛm bi ka kyerɛ wo",0.2692,0.1212
+559,"Nanso, ɔsoro nneɛma no ankasa de, afɔre a eye kyɛn eyinom na wɔde tew ho.","Nanso, ɔsoro nneɛma no ankasa de, afɔre a ɛyɛ kyɛn yeinom na wɔde tew ho.",0.1333,0.0714
+560,Mo bosu te sɛ anɔpa bosu; asase beyi nʼafunu apue.,Mo bosu te sɛ anɔpa bosu; asase beyi n'afunu apue.,0.1,0.0256
+561,Enti mmarima a wofi Dan abusuakuw yii akofo baanum a na wɔte Sora ne Estaol sɛ wɔnkɔhwehwɛ asase a wobetumi atena so.,Nti mmarima a wofi Dan abusuakuw yii akofo baanum a na wɔte Sora ne Estaol sɛ wɔnkɔhwehwɛ asase a wobetumi atena so.,0.0455,0.0105
+562,Dua foforo bi befifi wɔ Yisai dunsin ho; efi ne ntin mu na Dubaa bi bɛsow aba.,Dua foforo bi befifi wɔ Yisai dunsin ho; efi ne ntimu na duban bi bɛso aba.,0.2353,0.05
+563,"Yotam tee asɛm yi no, ɔforo kɔɔ Gerisim bepɔw no atifi na ɔteɛɛ mu ka kyerɛɛ wɔn se, “Sekemfo muntie me!","Yotateasɛm yi no, ɔforo kɔ Gerson bepɔ no atifi a ɔteam akyerɛ wɔn se, ""Sɛ kafum nti me.",0.6667,0.2375
+564,"To dwom ma Awurade, efisɛ, wayɛ nea ɛwɔ anuonyam bebree.","tu dwom Awurade, efisɛ, wayɛ nea ɛwɔ anuonyam bebree.",0.2,0.0682
+565,Wayɛ Ɔsɔfopanyin afebɔɔ sɛnea Melkisedek asɔfokwan nhyehyɛe te no.,"Wayɛ sɔfopanyin afebɔɔ ɛnyame so dekasɔfokwan hyehyɛeɛ no,",0.6667,0.1754
+566,"Mede me nkwa too me nsam kɔkoe a monnka ho, nanso Awurade ma midii Amonfo so nkonim.","Mede me kwao me sɛ kɔkoeɛ a monnka ho, na sora mami amosu nkonim.",0.5882,0.303
+567,"na wɔma kontibaa so tia mo, sɛnea Misraim yɛe no.","na wɔma kontibaa so tia mo, sɛnea Misraim yɛe no.",0.0,0.0
+568,"Ehud akyi no, Anat babarima Samgar gyee Israelfo.","Ehud akyi no, ana dabarima Samgar GieIsraelfo.",0.5,0.1
+569,"Eye sɛ mudi yɛn Awurade mmara a ɛka se, “Dɔ wo yɔnko sɛ wo ho” no so.","Eyes mu deɛ Awurade mmara a ɛka se, ""Dɔ we ko sɛ wo ho no so.",0.3529,0.1633
+570,"Nnaanu akyi, ɔbɛma yɛanya ahoɔden; nansa so, ɔde yɛn besi yɛn sibea.","Na nuakyi, ɔbɛma yɛn nya ahoɔden, nasodie sibea.",0.8333,0.3208
+571,nanso wammue nʼano; wɔde no kɔɔ te sɛ oguamma a wɔrekokum no.,"nanso wammue nano, wɔnkɔtɔ kum no.",0.75,0.4375
+572,Enti nnom bobesa anaa nsa a ano yɛ den na nni biribiara a ɛyɛ akyiwade.,Enti nombea anaa saa no yɛ den nani biribiara yɛ kye wade.,0.6667,0.1964
+573,Saa afɔrebɔ yi bɛyɛ sɛ asufo brodo de ama wɔn; wɔn a wodi nyinaa ho begu fi.,"Saa afɔrebɔ yi bɛyɛ sɛ asufo budam wɔn, wɔn adinyina if",0.5294,0.2759
+574,Efisɛ woyii no fii asase yi so; me nkurɔfo mmarato nti wɔtwee nʼaso.,"efisɛ wɔayi no fii asase yi so, me nkurɔfo mmarato nti wɔtwee n'aso.",0.1538,0.0741
+575,"Ɛno nti, montwe mo ho mfi afide ne atirimɔden ho.","Ɛno nti, montwe mo ho mfi afide ne atirimɔden ho.",0.0,0.0
+576,wɔn a wɔtow hyɛ ɔne nʼaban so na wotua nʼano no.,Wɔn a wɔto hyɛ ɔne naban so na wɔtwa no no no.,0.4545,0.1622
+577,Som a wɔsom me no.,Som a wɔsom me no yɛmma,0.2,0.3846
+578,"“Wɔn a wɔn bo afuw wo no nyinaa, ampa ara.","Wɔn a wɔn bo afuw wo no nyinaa, ampa ara.",0.0,0.0
+579,"Monsan nkɔ nea moayɛ dɔm atia no no nkyɛn, Israelfo.","Monsan nkɔ nea moayɛ dɔm atia no no nkyɛn, Israelfo.",0.0,0.0
+580,Na ɔtempɔn bɛda hɔ; wɔbɛfrɛ no Ahotefo Kwan.,Na ɔtempɔn bɛda hɔ; wɔbɛfrɛ no Ahotefo Kwan.,0.0,0.0
+581,saa onipa no ara bu ɔkraman kɔn mu; nea ɔbɔ aduan afɔre no.,"Saa onipa no ara bu ɔkraman nko mu, na ɔbɔ adanfoɔ ne no.",0.3077,0.1778
+582,"nhwiren a ɛrepa, nʼahoɔfɛ a ɛho wɔ nyam.",Nhwiren na ɛrepa na hoɔfɛ wɔ nya.,0.625,0.2258
+583,"na monkaee Ɔbotan no, mo abandennen no.","na monkaee Ɔbotan no, mo abandennen no.",0.0,0.0
+584,Moate Hiob boasetɔ no na munim nea Awurade de dom no awiei no; efisɛ Awurade yɛ ɔdomfo ne mmɔborɔhunufo.,"Mote fi guat no, na monni ne Awurade de dom no awie no, efisɛ Awurade yɛ ɔdomfo ne mbom.",0.3684,0.2857
+585,"Ɔde sika no maa no wiee no, Ehud gyaa wɔn a na wɔso sika no kwan ma wɔkɔɔ fie.","Ɔde sika no ma no wie no, ahuri ya wɔn a na wɔsi a no kwan ma wɔkɔɔ fie.",0.3158,0.1552
+586,"Enti mprempren, ɛsɛ sɛ Israelfo nyinaa fa adwene wɔ eyi ho.",impempie sɛ Israelfo nyinaa awewe o.,0.7273,0.383
+587,"Mo ho nyɛ mo hyew na munnidi yiye” na sɛ woamma wɔn asetena yi mu nea ehia wɔn a, papa bɛn na woayɛ wɔn?","Wo ho yɛ mohyew na munnidi yie, na sɛ woamma wɔn asetena yi mu nea wɔyɛ wɔn.",0.5,0.2692
+588,"Wo ne wo babarima ne wo nena bɛyɛ yɛn ahemfo, efisɛ woagye yɛn afi Midianfo nsam.",Wo na ɔbarima wonbɛyɛ ahemfo firi sɛ wogyai Midianfo nsam.,0.75,0.3438
+589,Madmena reguan; Gebimfo kɔtetɛw.,Madmena reguan; Gebimfo kɔtetɛ.,0.25,0.037
+590,yɛn mu biara afa ne kwan; na Awurade de yɛn nyinaa.,Ye mu biara afa ne kwan; na Awurade die nyina,0.3636,0.1795
+591,"Sɛ Awurade wie nʼadwuma a etia Bepɔw Sion ne Yerusalem nyinaa a, ɔbɛka se, “Mɛtwe Asiriahene aso wɔ ne komapirim ne nʼani a ɛnsɔ ade no ho.","Sɛ Awurade wie n'adwuma a etia Bepɔw Sion ne Yerusalem nyinaa a, ɔbɛka se, ""Mɛtwe Asiriahene aso wɔ ne komapirim ne n'ani a ɛnsa ade no ho.",0.1111,0.0275
+592,” Nanso mprempren mohoahoa mo ho de mo nsa si mo bo.,Nanso Prempe mohoahoa mo ho de mo nsa ɛsi mo,0.2727,0.1538
+593,"Nanso yɛrentumi mfa yɛn mmabea mma wɔn aware, efisɛ yɛaka ntankɛse sɛ, obiara a ɔde ne babea bɛma Benyaminni aware no, Awurade nnome mmra ne so.","Nanso yɛrentumi mfa yɛn mabaa wɔn aware, is yakatswaa de ne ababɛnyam no.",0.6923,0.4957
+594,"asomdwoe tenabea, ntamadan a wontutu; wɔrentutu ne nnyinaso da.","asomdwoe tenabea, ntamadan a wontutu; wɔrentutu ne nyinaa so da.",0.2222,0.0385
+595,"Na Awurade bɔfo fi Gilgal kɔɔ Bokim de nkra kɔmaa Israelfo no se, “Miyii mo fii Misraim, de mo baa asase a mekaa ho ntam sɛ mede bɛma mo agyanom no so.","Na Awurade bɔfo fi Gilgal kɔɔ Bokim de nkra kɔma Israelfo no se, ""Me yi mu for Misraim, na mobaa a mekaa ho ntam sɛ mede bɛma magyanom no so.",0.3438,0.1207
+596,Wɔatwe wɔn ho afi Awurade ho; wɔapo Israel Kronkronni no.,Wɔatwe wɔn ho afi Awurade ho; wɔapo Israel Kronkronni no.,0.0,0.0
+597,"Wubenyinsɛn na woawo ɔbabarima, na hwɛ sɛ oyiwan renka ne ti, efisɛ ɛsɛ sɛ ɔyɛ Nasareni a wɔayi no asi hɔ ama Onyankopɔn fi awo mu.","Wobɛnyinsɛn na woawo ɔbabarima, na fɛ oyiwan ne ti, efisɛ ɛsɛ sɛ ɔyɛ naseni wɔayi no asi hɔ ama Onyankopɔn fi awo mu.",0.2308,0.1359
+598,"Mɛfrɛ anomaa a ɔkyere mmoa afi apuei fam; afi akyirikyiri asase so, onipa a ɔbɛhyɛ me botae ma.","Mɛfrɛ anomaa a ɔkyere aboa afi apue fam; afi akyirikyiri asase so, onipa a ɔbɛhyɛ me botae ma.",0.1111,0.04
+599,"Ehud kɔe akyi no, ɔhene asomfo no baa hɔ behuu sɛ wɔatoto apon a ɛkɔ aban no so no mu.","Ehud kɔeɛ akyi no, ɔhene asomfo no baa hɔ behuu sɛ ɔtoto apon a ɛkɔ aban no so no mu.",0.1,0.0462
+600,"Na Israelfo no dii yaw wɔ Benyaminfo no ho kae se, “Nnɛ yi, abusuakuw baako afi yɛn mu; na nʼase reyɛ atɔre.","Na Israelfo no dii yaw wɔ Benyaminfo no ho ka se, ""Na yi abusuakuw baako afi ma nase ya atɔre.",0.3182,0.1463
+601,"Mo ani abere denneennen rehwehwɛ nneɛma bi, nanso mo nsa nka, enti akasakasa ne ɔko nam so ba.","ani abere ne ne rehwehwɛ nneɛma bi, nanso mo nsa nka, enti akasakasa ne ɔko nam so a.",0.2222,0.1216
+602,"Mo adwennwen mu, mobɛbooboo nea na ohunahuna mo no ho: “Odwumayɛni panyin no wɔ he?","Mo adwennwen mu, mobɛbooboo nea na ohunahuna mo no ho, ogyina yɛ nipa yi no wɔ he?",0.2667,0.0923
+603,mosoɛ wɔ Arabia adɔtɔ ase.,Mo dedan akwantufoɔ a mosoɛ wɔ Arabia adɔtɔ ase.,0.8,0.8571
+604,"Na wɔkae se, “Bisa Awurade ma yɛn sɛ yɛn akwantu yi besi yiye anaasɛ ɛrensi yiye.","Na wɔkaa sɛ, ""Misiwurade mayɛ sɛ akwantu yi bi sii anaa sɛ resie.",0.75,0.2857
+605,"Bere a Gomer twaa Lo-ruhama nufu akyi no, ɔwoo ɔba barima foforo.","Bere a Gomoa Loruhama no fo akyi no, ɔwoo ɔbabarima for.",0.5833,0.1961
+606,"Saa da no, ɔtempɔn befi Misraim ne Asiria.","Saa da no, ɔtempɔn befi Misraim ne Asiria.",0.0,0.0
+607,"Nnipa no mu fa kɛse no ara gyee no dii na wobisae se, “Sɛ Agyenkwa no ba a obetumi ayɛ anwonwade bebree sen nea ɔbarima yi ayɛ no ana?",nnipa mfa kɛse no ara gyee no dii obisaa,0.7586,0.6893
+608,Sɛnea ɔhene no se ni: Mommma Hesekia nnaadaa mo.,Sɛnea ɔhene no see nimma Hesekia nnaadaa mo.,0.3333,0.1053
+609,Wɔn a wɔka saa no da no adi pefee sɛ wɔrehwehwɛ wɔn ankasa wɔn man.,wɔn a wɔka saa no daa no adi pefee sɛ wɔrehwehwɛ wɔn ankasa wɔn a,0.1333,0.0577
+610,"Wɔn nyinaa bɛba abegu aku a mu dɔ ne ntokuru a ɛwɔ abotan mu, nkyɛkyerɛ ne suka mu.","Wɔn nyinaa bɛba abegu aku a emu dɔ ne ntokuro a ɛwɔ abotan mu, nkyekyere ne suka mu.",0.1667,0.0625
+611,"Afei, yehu sɛ wɔantumi ankɔ ɔhome no mu, efisɛ wɔannye anni.","Afei, yehu sɛ wɔantumi ankɔ ɔhome no mu, efisɛ wɔanya",0.1818,0.1064
+612,ne nyinaa yɛ adwumfo anyansafo nsa ano nnwuma.,ne nyinaa yɛ adwumfo nyansafo nsa ano adwuma.,0.25,0.0789
+613,osisii afɔremuka bebree; nʼasase rekɔ so yɛ yiye no.,osisii afɔremuka bebree; na asereyɛ yi no.,0.5556,0.1905
+614,"Saa da no Israel bɛto Misraim ne Asiria so sɛ abiɛsa, a ayɛ nhyira wɔ asase so.","Saa da no, Israel bɛto Misraim ne Asiria so sɛ abiɛsa, a ayɛ nhyira wɔ asase so.",0.0,0.0
+615,"Woama ɔman no ayɛ kɛse, Awurade; woama ɔman no ayɛ kɛse; woahyɛ wo ho anuonyam; woatrɛtrɛw asase no ahye nyinaa mu.","Woama ɔman no ayɛ kɛse, Awurade; woama ɔman no ayɛ kɛse; woahyɛ wo ho anuonyam; wakyerɛkyerɛ asase no ahye nyinaa mu.",0.0476,0.0889
+616,Ɔfaa abonnua twaa mman bi fii dua bi so na ɔde guu ne mmati so.,made a baabiani,1.0,0.8125
+617,"Monkae nneɛma a atwam no, teteete nneɛma no; Mene Onyankopɔn, na obi nni hɔ; Mene Onyankopɔn, na obiara nte sɛ me.","Monkae nneɛma a atwa mu no, teteete nneɛma no; Mene Onyankopɔn, na obi nni hɔ Onyankopɔn na obiara nte sɛ",0.1905,0.0795
+618,"wɔde mmirikatɛntɛ, Sisera apɔnkɔ ahoɔdenfo no mmirikatɛntɛ.","Wɔde mmirikatɛntɛ, Sisera akɔnkɔn ahoɔdenfo no mmirikatɛntɛ.",0.1429,0.0392
+619,"Afe a ɔhene Usia wui mu no, mihuu Awurade sɛ ɔte ahengua a ɛkorɔn na wapagyaw so na nʼatade mmuano ayɛ hyiadan mu hɔ ma.","Afe a ɔhene Usia wui no mu no, mihuu Awurade sɛ ɔte ahengua a ɛkorɔn na wapagya so na natadeɛ mmuano ayɛ hye ananmu hɔ ma.",0.2,0.0745
+620,sɛ ɔbɛma ne mmara ayɛ kɛse na anya anuonyam.,sɛ ɔbɛma ne mmara ayɛ kɛse na anya nunyam,0.1111,0.0571
+621,"Sɛ Awurade te ase yi, sɛ moankum wɔn a, anka me nso merenkum mo.","Sɛ Awurade te ase yi, sɛ moankum wɔn a, aka me so merenkɔ.",0.2857,0.125
+622,"Ɛno nti, ka kyerɛ nnipa no se, ‘Obiara a ɔyɛ bɔtee anaa osuro no, onyi ne ho mfi mu na ɔnkɔ fie.","Ɛno nti, ka kyerɛ nnipa no se, obiara a ɔyɛ bɔtee anaa osuro no, woyi ne ho mfi mu na ɔnkɔ fie.",0.0455,0.0286
+623,"Nhyira nka onipa a onya gyidi wɔ amanehunu mu, efisɛ ɔno na obenya akyɛde a Onyankopɔn ahyɛ ho bɔ ama wɔn a wɔdɔ no no.","Nsra onipa a onya gyidi wɔ amanehunu mu, efisɛ ɔno na ɔbɛnya akyɛdeɛ a Onyankopɔn ahyɛ bɔ na wɔn a wɔdɔ no no.",0.24,0.1398
+624,"” Enti metɔɔ abɔso sɛnea Awurade kyerɛe no, na mede bɔɔ mʼasen.","Enti metɔɔ abɔso sɛnea Awurade kyerɛɛ no, na mede bɔɔ mo asen.",0.2727,0.0408
+625,"Ɔyɛ Onyankopɔn sɛso pɛpɛɛpɛ, na ɔde nʼasɛm a tumi wɔ mu no so wiase mu.","Ɔyɛ Onyankopɔn sɛso pɛpɛɛpɛ, na ɔnsɛm a tumi wɔ mu no so wiase mu.",0.1333,0.0727
+626,"Na wotiee wɔn adwenkyerɛ no, wɔpenee so faa Abimelek, efisɛ ɔyɛ wɔn busuani.","na wɔtie wɔn adwenkyerɛ no, wɔpene so fa Bemelekfisɛ ɔyɛ wo busuani.",0.4615,0.1475
+627,de kɔma nea aman buu no animtiaa na wokyii no.,de kɔma nea aman buu no animtiaa na wokyii no.,0.0,0.0
+628,Ɛno nti Awurade nnye wɔn nto mu; afei ɔbɛkae wɔn amumɔyɛsɛm no.,Ɛno nti Awurade nnye wɔn ntumu afei ɔbɛkae wɔn amumɔyɛsɛm no.,0.1667,0.02
+629,"Ebinom nso bisae se, “Ɛbɛyɛ dɛn na Kristo no befi Galilea?","binom so bisae se, ""Ɛbɛyɛ dɛn na Kristo no bi fi",0.3636,0.2222
+630,"Ansa na wɔrebefi ɔko no ase no, Israelfo no kɔɔ Bet-El kobisaa Onyankopɔn se, “Abusuakuw bɛn na ɛsɛ sɛ wodi ɔko no anim tia Benyaminfo no?","asade bi kɔn ase no, Israelfo no kɔɔ Betel kɔbisa Onyankopɔn se, ""Abusuakuw bɛn na ɛsɛ sɛ wodi ɔko no anim tia Benyaminfo no?",0.2308,0.1204
+631,Wɔn mu bebree bɛwatiri; wɔbɛhwe ase a wɔrensɔre bio.,Woamu bebree bɛwatiri; wɔbɛhwe ase a wɔrensɔre bio.,0.2222,0.0476
+632,"Awurade ka kyerɛɛ me se, “Nka se ‘meyɛ abofra.","Awurade ka kyerɛɛ me se, ""Nka se me yɛ abofra wɔ obiara.",0.4444,0.2353
+633,Wɔbɛyɛ mo nkyɛn mu nsɔe na wɔn anyame nso ayɛ mfiri a wɔasum ahintaw mo.,Wɔbɛyɛ mo nkyɛnmu nsa na monnyae sɛ yɛamfiri a wɔasum ahintaw mo.,0.5333,0.1754
+634,Na Yoas babarima Gideon reporow awi wɔ nsakyiamoa ase sɛ ɔde resie Midianfo no.,Na Yoas babarima Gideon pono ayi wɔn nsakyiamoase sɛ ɔde resinedianfo no.,0.5,0.1538
+635,"munyaa wɔn mu anigye no; wobegu mo anim ase, esiane nturo.",monyaa wɔn mu anigye no; wobegu manase,0.5455,0.3333
+636,"“Ansa na mereyɛ wo wɔ awotwaa mu no na minim wo; ansa na wɔrebɛwo wo no, miyii wo sii nkyɛn; meyɛɛ wo odiyifo maa aman no.","ansa na mereyɛ wo wɔ wɔ twamu no na menim wo, asanboa no.",0.6538,0.5543
+637,"Ɛnam so maa Onyankopɔn buu wiase fɔ, na Noa de, ne nsa kaa trenee a wonya fi gyidi mu no.","nam so maa Onyankopɔn buu wiase fɔ, na ne ade na Sakani a ɔnya iyi mu no.",0.45,0.2388
+638,Asase bɛda mogya a wɔahwie agu no so no adi; ɔrentumi mfa nʼatɔfo nsie bio.,Asase bɛda mogya a wɔahwie agu no so no adi; ɔrentumi mfa atɔfo nsie bio.,0.0667,0.0339
+639,Moaba Yesu a ɔhyehyɛɛ apam foforo ne mogya a wɔapete a ɛka nneɛma pa ho asɛm sen Habel mogya no ho.,Moba Yesua ɔhyehyɛɛ apam ofrom mogya a wɔapete a ɛka nneɛma pa ho asɛm sɛ abɛ mogyano.,0.4762,0.1538
+640,"Afei, Awurade pagyaw atemmufo ma wobegyee Israelfo fii wɔn atamfo nsam.","Afei, repagya temmufo wobɛyere ofi wɔn atamfoɔ nsam.",0.7273,0.322
+641,Nanso yɛwɔ afɔremuka bi a Asɔfo a wɔsom wɔ Ahyiae Ntamadan mu no mpo nni ho kwan sɛ wodidi so.,Nanso yɛwɔ afɔremuka bi a asɔfo a wɔsom Akyiantamadan mu no mpo nni kwan sɛ wɔdidi so.,0.25,0.0946
+642,"Bio, Israelfo no yɛɛ nea ɛyɛ bɔne wɔ Awurade ani so, enti Awurade de wɔn hyɛɛ Filistifo nsam ma wɔhyɛɛ wɔn so mfe aduanan.","Bio, Israelfo yɛɛ nea ɛyɛ bɔne wɔ Awurade ani so, ntere wɔnhyɛ Filistifo nsam wɔhyɛ wɔn so mfe aduanan.",0.3333,0.1562
+643,Rama ho popo; Saulo kurow Gibea nso guan.,Rama ho popo; Saulo kuro Gibea nso guan.,0.125,0.0312
+644,Mede wʼatade yuu bɛhyɛ no na mede wʼabɔso abebare nʼasen mu na mede wo tumi ahyɛ ne nsa.,Mede w'atadeɛ wuu bɛhyɛ no na mede w'abɔ so abebare nase mu a mede wo tumi ahyɛ ne nsa.,0.3333,0.1
+645,a obiara rentumi nnum.,a obiara rentumi,0.25,0.2222
+646,Farisifo Nsɛmmisa Wɔ Ayaresa No Ho.,wɔaanom.,1.0,0.7931
+647,ɛyɛɛ me ahodwiriw sɛ obiara anso me mu; enti mʼankasa abasa yɛɛ nkwagyedwuma maa me.,Ɛyɛ mahudwiri sɛ obiara anso me mu; enti mankasa abasa yɛɛ nkwagyedwuma maa me.,0.2667,0.0735
+648,"Enti Israel ntuanofo no bisae se, “Sɛ wɔatɔre mmea a wofi Benyamin ase yi, ɛbɛyɛ dɛn na yɛanya yerenom ama mmarima a wɔaka no?","Enti Israel ntuanofo no bisae se, ""Sɛ wɔatɔre mmea a wofi Benyamin ase yi, ɛbɛyɛ dɛn na yɛnyere no ama mmarima a wɔka no.",0.125,0.0505
+649,Muntie me nsɛm yi yiye; monyɛ aso mma nea meka.,Montie me nsɛm yi yie; monyɛ aso mma nea meka.,0.2,0.0556
+650,"Oduu ɔbea no agya fi no, ɔde no kɔɔ ofi no mu maa nʼagya no gyee no fɛw so.","Oduu ɔbea no agya fi no, ɔde no kɔɔ ofi no mu maa n'agya no gyee no fɛ so.",0.1053,0.0364
+651,Yesu yɛ apam a ɛkyɛn so a wogyina bɔhyɛ a ɛkyɛn so so hyɛe no ntamgyinafo.,"Yesu yɛ apam a ɛkyerɛ nsuo a, ɔgyina bɔhyɛ a ɛkyɛn so so hyɛeɛ no ntamgyinafo.",0.25,0.1034
+652,"Bere a wɔka kyerɛɛ Sisera sɛ Abinoam ba Barak aforo kɔ Tabor bepɔw so no, ɔboaboaa ne nnade nteaseɛnam ahankron ano ne nʼakofo nyinaa, na wotu sen fii Haroset-Hagoyim kɔɔ Asubɔnten Kison ho.","berɛ a wɔka kyerɛ Sisala Abinamaforo kɔabɔbpɛw so no, ɔboaboa ne ade nteaseɛnam ahankron no na ofoint si fii Haroset-Hagoyim kɔɔ Asubɔnten Kison ho.",0.5758,0.2468
+653,"Nna bebree akyi no, Awurade ka kyerɛɛ me se, “Afei kɔ Eufrate ho na kɔfa abɔso a meka kyerɛɛ wo se fa kosie hɔ no.","Nna bebree akyi no, Awurade ka kyerɛɛ me se, ""Afei kɔ Eufrate ho na kɔfa abɔso a meka kyerɛɛ wo se fa kɔsi hɔ no.",0.04,0.0233
+654,"Sɛ wudi yɛn anim ma yɛko tia Amonfo a, yɛbɛyɛ wo Gileadfo nyinaa sodifo.","Sɛ wodeɛ no nimayɛkutia Amonfoɔ a, yɛbɛyɛ obia fo nyinaa sodifo yɛfa",0.7143,0.2807
+655,"Na ne mmabarima no to pon nnidiso nnidiso wɔ wɔn afi mu, na wɔto nsa frɛ wɔn nuabeanom baasa no ne wɔn bɔ mu didi, nom.","na ne mmabarima no to one dundo so wɔ wɔn afi mu, na wɔto nsa frɛ wɔn nuabeanom baasa no ne wɔn bomdi no.",0.2692,0.1648
+656,"Onifuraefo no afipamfo a wohuu no sɛ ɔte kwan ho srɛsrɛ ade no huu no no, wobisabisaa wɔn ho wɔn ho se, “Ɛnyɛ aberante a na ɔsrɛsrɛ ade no ni?","nifrafono afipamfo a wohuu no sɛ ɔte kwan ho sɛ sɛ adeɛ no huu no no, bisabisa wɔn ho wɔn ho se, ""Ɛnyɛ branteɛ ɔsɛeadeɛ o ni.",0.4,0.1743
+657,ɔbɛyɛ kronkronbea: nanso Israel ne Yuda de.,Ɔbɛyɛ kronkronbea nanso Israel ne Yuda de.,0.0,0.0
+658,Nʼatitiriw rennya biribiara a ɛbɛma wɔafrɛ no ahenni.,Na dzitsinya biribiara a ɛbɛma wɔafrɛ no ahenni.,0.25,0.2
+659,"Na ɔman Israel bɛwɔ hɔ nna tenten bi a ɔhene anaa ɔheneba nni mu, na wɔremmɔ afɔre.",Na ɔman Israel ɛhɔ na tenten bi a ɔhene anaa ɔheneba nni na wɔremafɔre.,0.3529,0.1231
+660,"Akyiri no, awitwabere mu no, Samson faa abirekyi ba sɛ ɔde rekɔkyɛ ne yere.","Akyire no, ayutwabermu no, sansom a berekyi ba sɛ ɔde rekɔkyɛ ne yere.",0.4286,0.1695
+661,tweatibo a ɛsom bo ama fapem a ɛyɛ den; nea ɔde ne ho to so no remmɔ hu.,Twetia asombo ama fapem a ɛyɛ den na ɔde ne ho to so no remmɔ hu.,0.2778,0.0943
+662,"Nnipa no tee asɛm a Yesu kae no, wofii ase fii hɔ mmaako mmaako fii mpanyin no so.","Nnipa no tee asɛm a Yesu kae no, wofii sifoɔm mako fipamni no o.",0.4444,0.2857
+663,"Na ɔnam so agye wɔn a esiane sɛ wosuro owu nti, wɔayɛ akoa wɔ wɔn asetena nyinaa mu no.","na ɔnam so agye wɔn a ɛsiane sɛ wosuro owu nti, wɔayɛ akoa wɔ wɔn asen nyina no.",0.2105,0.1045
+664,"Muntie me, mo mpoano aman; monyɛ aso mo akyirikyiri aman.","Montie me, mo mpoano aman; monyɛ nso mo akyirikyiri aman.",0.2,0.0444
+665,Nanso Farao bammɔ bɛyɛ animguase ama mo.,Nanso Farao bammɔ bɛyɛ animguase ama mo.,0.0,0.0
+666,"Munni awerɛhow, munsu, na muntwa agyaadwo; momma mo serew nnan osu, na mo anigye nnan awerɛhow.",Monni awerɛho no nso na montwa namanye ho.,0.9375,0.6133
+667,“Wo nso woayɛ mmerɛw sɛ yɛn; woayɛ sɛ yɛn ara.,Wɔn nso wayɛ mmerɛ sɛɛnyɛsɛyɛn ara.,0.8,0.2353
+668,"Aman no te wo nne mmubomu a, woguan; sɛ woma wo ho so a amanaman no bɔ ahwete.","Aman no te wo ne mmobomu a woguan sɛ wo ma wo ho so a, amanaman no bɔ ahwete.",0.2222,0.0345
+669,"Nanso Samson ka kyerɛɛ nʼagya se, “Kɔyɛ ne ho ade ma me.","Na aso Samson ka kyerɛɛ n'agya se, ""Kɔyɛ ne ho ade no.",0.4167,0.1429
+670,ɛbɛyɛ fitaa sɛ sukyerɛmma; mpo sɛ ɛyɛ kɔkɔɔ te sɛ mogya a.,ɛbɛyɛ fitaa sɛ sukyerɛmma; mpo sɛ ɛyɛ kɔkɔɔ te sɛ mogya a.,0.0,0.0
+671,Nanso Awurade ahyɛ Resin atamfo den atia wɔn.,Nanso Awurade ahyɛ resin atamfo den atia wɔn.,0.0,0.0
+672,afi asase ano de akosi ano nohɔ; obiara remfa ne ho nni.,"afi asase ano de akosi ano no ho, obiara mfa ne ho nni.",0.25,0.0698
+673,"Hwɛ, nnɛ, mede wo asi aman ne ahenni so sɛ, tutu na dwiriw gu, sɛe na tu gu, kyekyere na dua.","Hwɛ, ɛnnɛ mede wo asi aman ne ahenni so sɛ, tutu na dugu sɛ natugu kyekyere na dua.",0.3333,0.1045
+674,"Wɔbɛdan akɔ Awurade nkyɛn, na obetie wɔn sufrɛ, na wasa wɔn yare.","Wɔbɛdan akɔ Awurade nɛnɛte wɔn sufrɛ, na asaw yare",0.4167,0.2157
+675,Wɔatew no afi nnebɔneyɛfo ho na wɔama no so aboro ɔsoro so.,Wɔatow no afi ne bɔne foo na wɔama no so aboro ɔsoro so.,0.3333,0.1064
+676,"Nanso afe a ɛto so abiɛsa no de, wo ara dua na twa.","Nanso afe a ɛto so bisa no de, wɔaraduanatwa.",0.4615,0.0811
+677,Wɔasɛe me ntamadan; wɔatwitwa nʼahama nyinaa mu.,Wɔasɛe me ntamadan; wɔatwitwa nahamani mu.,0.2857,0.125
+678,Wɔde afoa kunkum asomfo no na me nko ara na miguanee a merebɛbɔ wo amanneɛ yi.,Wɔde afoa kunkum asomfo no na meka na meguan merebɔ wɔanyi.,0.5625,0.2581
+679,Mo kasatɔmmɛ yɛ mmɛbu a ɛte sɛ nsõ; mo anoyi yɛ dɔte twann anoyi.,"Mokasa tɔ ma yɛ mmɛbua te sɛ nso, mo anoyi yɛ dɔte twann anoyi.",0.5,0.08
+680,Onyankopɔn maa mudii Oreb ne Seeb a na wɔyɛ Midian asahene no so.,Nyankopɔn ma modii Oreb ne Seeb a na wɔyɛ Midian no so,0.3077,0.1923
+681,Awurade bo afuw amanaman nyinaa; nʼabufuwhyew no tia wɔn asraafo nyinaa.,Awurade bo afuw amanaman nyinaa; abufuwhyew no tia wɔn asraafo nyinaa.,0.0909,0.0333
+682,Momfa wɔn sɛ nhwɛso wɔ wɔn boasetɔ ne tumi a wotumi de tenaa amanehunu mu no.,Momfa wo nsa nhwɛso wɔ wɔn boasetɔ bɛtumi a wotumi tena amanehunu mu no.,0.375,0.1148
+683,te sɛ nea moyɛɛ bere a mosɔre tiaa Onyankopɔn no; sɛnea moyɛɛ da a na mowɔ sare so a mosɔɔ no hwɛe no.,te sɛ nea moyɛɛ bere a mosɔre kye Onyankopɔn no sɛnea moyɛɛ da a na mowɔ sare so a mosɔɔ no hwɛɛ no.,0.087,0.0641
+684,"Hwɛ Awurade nhoma mmobɔwee no mu, na kenkan: Eyinom mu biara renyera.","Hwɛ, Awurade homa mo bɔ wo no mu, na kenkan mu biara renyera.",0.4167,0.1818
+685,"Anuanom, munnni nseku ntia mo ho mo ho, na Onyankopɔn ammu mo atɛn.","anuanom, monni si kunim hom ho, na Onyankopɔn aman.",0.6923,0.2692
+686,"Mampae mu anka eyi, manhyɛ ho amfi teteete ana?","Mampae mu anka eyi, manhyɛ ho amfi teteete ana?",0.0,0.0
+687,"Enti Awurade bo fuw Israelfo, na ɔde wɔn hyɛɛ Filistifo ne Amorifo nsa, na wofii ase hyɛɛ wɔn so saa afe no.","Enti Awurade bo fuu Israelfoɔ, na ɔde wɔn hyɛɛ Filistifo ne Amorifo nsa, na wofii ase hyɛɛ wɔn so saa afe no.",0.0909,0.0238
+688,"Ntwamu no akyi a wɔfrɛ hɔ Kronkron mu Kronkron no, na sika aduhuamyɛfo afɔremuka ne Apam Adaka a wɔde sika adura ho nyinaa wɔ.","Ntwamu no akyi a wɔfrɛ hɔ kronkron mu kronkron no, na sika aduhuamyɛfo afɔremuka ne apam daa wɔde sika adura ho nyinaa wɔ",0.0833,0.0297
+689,Ɛsɛ sɛ Benyaminfo a wɔaka no nya adedifo sɛnea ɛbɛyɛ a Israel abusuakuw bi ase ntɔre.,Ɛnsɛ benyamin fa waka no nya adedifo sɛnea ɛbɛyɛ a Israel abusuakuw bi ase ntɔre.,0.3125,0.058
+690,wɔ bere a ɛreba no mu.,Ɛwom na mmara no kyerɛ sɛ wɔnyɛ saa a.,1.5,1.5
+691,a wɔahyɛ ho mmara ketee na ɛbɛba asase no so nyinaa.,a wɔahyɛ no ho mmara ketee na ɛbɛba asase no so nyinaa.,0.0909,0.0488
+692,na ayɛ sakraman atu.,na wonguu no abɔ ahwete amane.,1.25,1.125
+693,wɔn mu biara nni nimdeɛ; wɔn nyinaa yɛ akraman mum.,Womu biara nni nimdeɛ; wɔn nyinaa yɛ akraman,0.3,0.125
+694,Ogye wiase akannifo adwene fi wɔn nsam; na ɔma wokyinkyin asase wosee a ɔkwan nna so so.,"Ogya wiase akannifo adwene fi wɔn nsam, na ma wokyinkyin asase wosee kwan no so.",0.3529,0.1
+695,Adɛn nti na ɛnsɛ sɛ yɛkasa na yɛyɛ ho biribi?,"Montie, Adarean munyamunya anɔpa",1.0,0.8286
+696,Ampa ara Awurade nsa nyɛ tiaa sɛ ɛrennye nkwa.,Ampa ara Awurade nsa nyɛ tiaa sɛ ɛrennye nka,0.1111,0.027
+697,Da no wobeyi wɔn adesoa no afi wɔn mmati so.,"Da no, wɔbɛyi wɔn adesoa no afi wɔn mmati so.",0.1,0.0588
+698,wɔrekɔ nyinaa na wɔresu; Horonaim kwan so nso.,wɔrekɔ nyinaa na wɔresu; Horonaim kwan so nso.,0.0,0.0
+699,"Na Sukot ntuanofo no buae se, “Kyere Seba ne Salmuna ansa na yɛama wʼakofo no aduan adi.","Na Sukɔt ntuanofo no buae se, ""Kyere seba ne amuna yawa no dua",0.4706,0.3188
+700,"Mo fam de ne sɛ, mo ne nnipa a wɔte asase yi so no nnyɛ apam biara na mmom mobɛsɛe wɔn afɔremuka nyinaa.","Mo a mo de ne sɛ, nonifa wɔte asase no so na na akwan biara, na mmom mobɛsɛe wɔn afɔremuka nyina.",0.4783,0.225
+701,monsɔre na muntie me; mo mmabea a mususuw sɛ mowɔ bammɔ.,monsɔre na montie me; mo mmabea a mususuw sɛ mowɔ bammɔ,0.0909,0.0227
+702,"Saa bere no Merodak-Baladan a ɔyɛ Babiloniahene Baladan babarima soma ma wɔde krataa ne akyɛde kɔmaa Hesekia, efisɛ na wate sɛ wayare ama ne ho atɔ no.","Saa bere no Merodak-Baladan a ɔyɛ Babiloniahene Baladan babarima mama wɔde krataa ne akyɛde kɔmaa Hesekia, efisɛ wate sɛ wayare ama ne ho atɔ no.",0.1111,0.0328
+703,"Mommma Hesekia mfa saa asɛm a ɔkae se, ‘Awurade begye yɛn!","Mommma Hesekia mfa saa asɛm a ɔkae se, 'Awurade bɛgye yɛn!",0.0909,0.0222
+704,Enti Israelfo no sii mu anɔpahema kɔkyeree nsraban wɔ baabi a ɛbɛn Gibea.,"Enti Israelfo no sii mu anɔpahema kɔkyeree sraban wɔ baabi a ban Gibea, afi wo tutaa Dawn ani kyerɛ Gibea",0.6923,0.4833
+705,me dɔ a to ntwa da a mede hyɛɛ Dawid bɔ no.,me dɔ a tuntwada a mede hyɛɛ Dawid bɔ no.,0.25,0.0323
+706,mommrɛ aguanfo no aduan.,Mo a motete temammufo aduane.,1.25,0.7
+707,Enti sɛɛ na Israel Ɔkronkronni no se: “Esiane sɛ moapo saa nkra yi.,"Enti sɛɛ na Israel Kronkronni no se, ɛsiane sɛ moapo saa nkra yi.",0.1538,0.0385
+708,"Mika huu sɛ nnipa no dɔɔso a enti ontumi ntow nhyɛ wɔn so no, ɔdan ne ho kɔɔ fie.","Meka huu sɛ nnipa no dɔɔso enti ɔntumi nto nhyɛ wɔn so no, ɔdan ne ho kɔɔ fie.",0.2105,0.0656
+709,Nanso nnipa no nsan nkɔɔ nea ɔtwee wɔn aso no nkyɛn.,Nanso nnipa no nsan nkɔɔ nea ɔtwee wɔn aso no nkyɛn.,0.0,0.0
+710,"Ɔkae se, “Esiane sɛ saa nnipa yi abu apam a me ne wɔn agyanom yɛe so, na wɔapo me mmara nsɛm nti, merempam aman a Yosua anni wɔn so ansa na ɔrewu no.","Ɔkae se, ""Ne sane sɛ saa nnipa yi abu apam me ne no agyanom yɛe so, na woapo mmara nsɛm nti, mɛrimma man a Yosua anni wɔn so asa no rewɔ no.",0.3333,0.1518
+711,"Enti ɛnyɛ Onyankopɔn aniwu sɛ ɔma wɔfrɛ no wɔn Nyankopɔn, efisɛ wasiesie ɔman bi ama wɔn.","Enti, ɛnyɛ Onyankopɔn anim sɛ, ma wɔfrɛ no wɔn Nyankopɔn, efisɛ wasiesie ɔman bi ama o.",0.1875,0.0833
+712,Efisɛ wode wo ho ato wʼahoɔden.,Sɛ wohwɛ Awurade osisane,1.0,0.76
+713,"Wubenya bammɔ, efisɛ anidaso wɔ hɔ; wobɛhwɛ wo ho ahyia, na wahome asomdwoe mu.","Wobɛnya banbɔ, fi sɛ ne da so wɔ hɔ, wobɛhwɛ wo ho ahyia, na wahome asomdwoe mu.",0.5,0.1129
+714,otii mu kaa saa nsɛm yi kyerɛɛ ne ho se: ‘Wɔrekyɛ asade a wonyae no.,"ɔtii mu kaa sɛm yi kyerɛɛ ne ho se, Wɔrekyɛ asadeɛ wɔnyaeɛ o.",0.4667,0.1569
+715,"ɔpepaw, ɔsɛsɛ ne kwabɔhɔre bɛbɔ mu.",Ɔpepaw ɔsɛsɛ ne kwabɔhɔre bɛbɔ mu.,0.0,0.0
+716,Wɔn a anka wɔkasa ma wɔn no ani afura; wonnim wɔn ankasa animguase ho hwee.,Wɔn a anka wɔkasa ma wɔn no ani afura; wonnim wɔn ankasa animguase ho hwee.,0.0,0.0
+717,"” Eyi kyerɛ sɛ ɔkwan biara so no, ɛsɛ sɛ ɔyɛ sɛ ne nuanom, sɛnea ɛbɛyɛ a ɔbɛyɛ wɔn Sɔfopanyin nokwafo ne mmɔborɔhunufo wɔ Onyankopɔn som mu, na anam so ma wɔde nnipa bɔne akyɛ wɔn.","Yi trɛ kwan biara so no, ɛsɛ sɛ ɔyɛ sɛ ne nuanom, sɛnea ɛbɛyɛ a ɔbɛyɛ wɔn so panyin nokwafo ne morowona so ma wɔde nnipa bɔne akyɛ wɔn.",0.3714,0.2643
+718,"Afei Yesaia ka kyerɛɛ Hesekia se, “Tie asɛm a efi Asafo Awurade nkyɛn: Nokware, bere bi bɛba a, wɔbɛsoa biribiara a ɛwɔ wʼahemfi ne agyapade a wʼagyanom akora de abedu nnɛ no akɔ Babilonia.","Afei, Yesaia ka kyerɛɛ Hesekia se, ""Tie asɛm a efi Asafo Awurade nkyɛn, nokware biribiara a ɛwɔ ahemfi ne agyapade bela.",0.4412,0.3667
+719,"Saa nna no mu no, Hesekia yaree owuyare, na Amos babarima Odiyifo Yesaia kɔɔ ne nkyɛn kɔkae se, “Sɛnea Awurade se ni: Toto wʼakwan yiye, efisɛ worebewu; na wo ho renyɛ wo den bio.","Saa na no mu no, asike yaree owuyare, na Amos babarima odiyifo Yesaia kɔɔ ne nkyɛn kɔkae se, ""Sɛnea Awurade se ni: akyire wodidi.",0.4118,0.3116
+720,"Da bi, Lewini aberante bi a ofi Betlehem a ɛwɔ Yuda beduu saa beae hɔ wɔ Efraim asase so a ɔrehwehwɛ baabi foforo atena.","Da bi, na wine abranteɛ bi fi Betlehem a ɛwɔ Yuda beduu saa beae hɔ wɔ Efraim asase so a ɔrehwehwɛ baabi foforo atena.",0.2083,0.0737
+721,"Gideon buae se, “Sɛ wobɛboa me ampa ara de a, yɛ nsɛnkyerɛnne bi ma minhu sɛ, nokware, ɛyɛ wo Awurade na worekasa kyerɛ me yi.","Gideon buae se, ""Sɛ wobɛboa me ampa ara deɛ a, yɛnsankyerɛ bi ma me hu sɛ na kware, yɛ w'awurade na worekakyerɛ me.",0.48,0.1458
+722,"Asɛm a Asafo Awurade ka ni: “Nnipa no reka se, ‘Bere no nya nnuu sɛ wosi Awurade fi no.",Asɛm a Asafo Awurade ka ni: nepa no rekɛseɛ wosiae no.,0.5789,0.375
+723,Sɛnea oguamma yɛ komm wɔ ne nwitwitwafo anim no.,Sɛnea oguamma yɛ komm wɔ ne nwitwitwafo anim no.,0.0,0.0
+724,"Na akyiri no a wɔn a wɔfa saa asotwe no mu no nya wɔn ho ntease no, wonya asomdwoe na wɔtena ase trenee mu.","na akyiri no a wɔn a wɔfa saa asotwe no mu no, na wɔn ho ntease no, wonya asomdwoe na wɔtena ase tene mu.",0.0833,0.0366
+725,"Wʼankasa wʼano bu wo kumfɔ, ɛnyɛ me de; wʼankasa wʼano di adanse tia wo.","ankasa wɔno kumfɔ, ɛnyɛ me de akasa wɔne diane wo.",0.6429,0.3571
+726,Saa ara na wɔde Kristo nso bɔɔ afɔre baako pɛ de gyee dodow no ara wɔ wɔn bɔne mu.,Saa ara na wɔde Kristo nso bɔɔ afɔre baako pɛ de gyee dodoɔ no ara wɔ wɔn bɔne mu.,0.0526,0.0159
+727,"“Saa da no,” sɛnea Asafo Awurade se ni, “pɛe a wɔabɔ so ama atim no, betu ahwe fam na nʼadesoa no nso asɛe, Awurade, akasa!","Saa da no, sɛnea Asafo Awurade se ni: Pɛ a wɔabɔ so ama atim no bɛtu ahwe fam, na adesoa no nso asɛe",0.2,0.1778
+728,Na agyantowfo a wɔbɛka ne Kedar akofo bɛyɛ kakraa bi.,na agya nto wo fo a wɔbɛka ne Kedar akofo bɛyɛ kakraa bi.,0.4,0.0233
+729,Wasɛe me akwannuasa nyinaa so de awie me; watu mʼanidaso ase te sɛ dua.,wasɛm akwanya sɛ nyinaa so de awie me; woatumi ada sase te sɛ dua.,0.4286,0.1786
+730,"Me Awurade, meka nokware no; meka nea eye.","Me Awurade, meka nokware no; meka nea eyi.",0.125,0.0312
+731,"“Muntie me, me nkurɔfo; monyɛ aso mma me, me man: Mmara no befi me nkyɛn akɔ; na mʼatɛntrenee bɛyɛ hann ama aman no.","Montie me, me nkurɔfo; monyɛ nso mma me me man mranimnkyɛn akɔ na atentene bɛyɛ hann ama aman no.",0.3478,0.1609
+732,"ne abopaebea a wotuu mo fii hɔ no; Monhwɛ Abraham, mo agya.",ne abopaebea wɔtumi,0.8333,0.6444
+733,Na sɛ Asafo Awurade ayɛ nʼadwene a hena na obesiw no kwan?,"Na sɛ asafo Awurade ayɛ n'adwene a, hena na obesi wo nkwa.",0.3333,0.087
+734,“Ɛwɔ mu sɛ Efraim sisii afɔremuka bebree a wɔbɔ bɔnefakyɛ afɔre wɔ so de.,Ɛwom sɛ Efraim sisii afɔremuka bebree a wɔbɔ anopaeɛ ɔrewɔ de.,0.4286,0.2069
+735,"Afei, Bepɔw Sion ne wɔn a wɔboa wɔn ano wɔ hɔ nyinaa, Awurade de wusiw mununkum bɛkata wɔn so awia, na ɔde ogya a ɛdɛw akata wɔn so anadwo; ntama kyinii bɛkata anuonyam yi nyinaa so.","Afei, mepɔnsion ne wɔn a wɔboa wɔn ho ano wɔ hɔ nyinaa Awurade de wusiw mununkum bɛkata wɔn so awia, na ɔde ogya a ɛdɛw akata wɔn so anadwo; nkaakaa anuonyam yi nyinaa so.",0.1667,0.1056
+736,Eyi ne Awurade asɛm a ɔde maa Yeremia a ɛfa nsuyow ho: “Yuda resu.,Eyi ne Awurade asɛm a ɔde maa edena ɛfa nsuo ho Yuda resu,0.2143,0.14
+737,"Ne nnebɔne adifudepɛ maa me bo fuwii; metwee nʼaso, na mede abufuw yii mʼani.",Ne nnebɔne adifudepɛ maa me bu fuw metwee n'aso na mede abufuw yii mani.,0.2857,0.082
+738,Ɔde sonkahiri sika no brɛɛ Eglon a wayɛ kɛse tobonn no.,Ɔde sonkahiri sika no brɛɛ Eglon a wayɛ kɛse to bɔn no.,0.1818,0.0455
+739,mene nea ɔwɔ ahonu na ɔyɛ honhom mu hiani nso te.,"mene nea ɔwɔ ahoni, na ɔyɛ honhom mu hiani nso te.",0.0909,0.0263
+740,"Yehu no sɛ esiane owu a owui no nti, wɔahyɛ no anuonyam.","Yehu no sɛ esiane owu a owui no nti, wɔahyɛ no anuonyam.",0.0,0.0
+741,"Awurade, woama yɛn asomdwoe; nea yɛatumi ayɛ nyinaa wo na woayɛ ama yɛn.","Awurade, woama yɛn asomdwoe; na yɛatumi ayɛ nyinaa wo na woayɛ ama yɛn.",0.0769,0.0175
+742,"Mɛtetew wɔn mu nketenkete, na makɔ; Mɛsoa wɔn akɔ, na obiara rentumi nnye wɔn.",Mereyɛ nkatenkete na makɛhɛn nye wɔn.,0.8571,0.5902
+743,"Awurade honhom baa ne so, enti ɔbɛyɛɛ Israel otemmufo.","Awurade wo homa no so, nti ɔbɛyɛɛ Israel otemmufo.",0.4444,0.1364
+744,"Mefrɛ me somfo, na ommua; mpo, metew mʼano srɛ no.","Mefrɛ me somfo, na ommua; mpo, metew man sɛ no.",0.2,0.0811
+745,Akyinnye biara nni ho sɛ nea ɔma nhyira so sen nea ogye nhyira.,ɛkunya biara nnim sɛ nea ɔma nhyira so some gyene.,0.5385,0.34
+746,Wɔde ahopopo bɛba Awurade nkyɛn na wobenya ne nhyira wɔ nna a edi akyiri no mu.,Wɔde ahopopo bɛba Awurade nkyɛn ma benyan hyia wɔ na ɛdi akyire no mu.,0.5,0.1587
+747,"Da bi, Samson kɔɔ Filistifo kuropɔn Gasa mu, na ɔne ɔbea guamanfo bi kɔdaa anadwo no.","Da bi, Samson kɔɔ Filistifo kuropɔn adzem na ɔno baguafo bi kɔdaa adwo.",0.4375,0.2239
+748,Momma mo ani so nhwɛ ɔsoro: Hena na ɔbɔɔ eyinom nyinaa?,"Momma mo ani so nhwɛ ɔsoro, na nɔɔ eyinom nyinaa.",0.1818,0.1163
+749,a ɔpɛ awiporowbea adwuma.,a.,0.75,0.9524
+750,"Ɛno nti, ɛsɛ sɛ yɛn Sɔfopanyin nya biribi a ɔde bɛbɔ afɔre.","Ɛno nti, ɛsɛ sɛ yɛn sɛkan nyɛ biribi a ɔde bɔ afɔre.",0.25,0.2174
+751,"Bere a Israelfo nsraadɔm kɛse no duu Baal-Tamar no, wɔdan wɔn ho koe.",Mariama,1.0,0.9074
+752,"Afei, Ehud totoo apon no mu foroo agyanan dan no, faa ne asuten no mu guan kɔe.","Afei, wototo apono mu foroo agyanan dan no, faa asuten no mu gakɔ.",0.4118,0.1833
+753,"Na wɔbɛhwehwɛ mʼakyi kwan; wɔn awerɛhow mu, wɔbɛhwehwɛ me anibere so.",na worehwɛ m'akyi kwan wɔn awerɛho mu ɔbɛhwɛ me anibere so.,0.3636,0.1964
+754,Da no mo mu biara bɛpo dwetɛ ne sikakɔkɔɔ ahoni a mode mo nsa a ɛho agu fi ayɛ no.,Da no mu mu biara bɛpo dwetɛ ne sikakɔkɔɔ ahoni a mode mo nsa a ɛho agu fi ayɛ no.,0.05,0.0161
+755,"Obedi nufusu ani srade ne ɛwo, bere a wahu nea ɛbɛma watumi apo bɔne na wafa nea eye no.",Ɔbɛdi nufosuo ani saa ade na ɛwɔ bere a wahu nea ɛbɛma watumi apo bɔne na wafa nea ɛyɛ no.,0.3684,0.1471
+756,Gyidihunu a efi apuei fam ahyɛ wɔn ma; wɔhyɛ nkɔm sɛ Filistifo.,Gyidihunu a efi apuei fam ahyɛ wɔn ma; wɔhyɛ nkɔm sɛ Filistifo.,0.0,0.0
+757,"Nanso esiane sɛ Yesu wɔ hɔ daa no nti, ɔwɔ asɔfodi a ɛtena hɔ daa.","Nanso esane sɛ Yesu wɔ hɔ daa no nti, ɔwɔ asɔfodi a ɛtena hɔ daa.",0.0667,0.02
+758,Muntie na monte me nne; monwɛn mo aso na muntie nea meka.,Montie na monte me nne; monwɛn mo aso na muntie nea meka.,0.0833,0.0227
+759,"Wɔn nne nnyigyei maa apon ne abobow ano wosowee, na wusiw yɛɛ hyiadan mu hɔ ma.",Wɔn ne negyee maa apon ne abobow ano wɔsensam hɔ ma.,0.5,0.3871
+760,nanso wɔbobɔɔ me nnompe mu te sɛ gyata; awia ne anadwo wutwaa me nkwa so.,nanso wɔbobɔɔ me nnompe mu te sɛ gyata; awia ne anadwo wotwaa me nkwa so.,0.0667,0.0175
+761,"Yenim sɛ Agyenkwa no nya ba a, obiara rentumi nkyerɛ faako a ofi bae nanso saa onipa yi de, yenim faako a ofi.",nanim sɛ Agyenkwa no nya mmae obiara ntumi kyerɛ akoa a ofi bɛbaeɛ nanso saa onipa yi yɛ nimaka ofi.,0.4783,0.2353
+762,"Nanso wo, Asafo Awurade, wo a wubu atɛntrenee.","Awurade se ni, Medeama,",0.875,0.7778
+763,mfi wʼabufuw mu nyɛ; anyɛ saa a wobɛdwerɛw me.,few bufu so nyɛ anyɛ saa a wobɛdwerɛw aaawo.,0.4444,0.3333
+764,"Yebuu no sɛ, Onyankopɔn na wabɔ no na wadwerɛw no.",Yebuu no sɛ Onyankopɔn na wabɔ no na wadwerɛ no.,0.1,0.0256
+765,"ɛno de, bɔne nni wo ho, wobɛma wo ti so; wubegyina pintinn a worensuro.","Ɛno de, bɔne nni wo ho, wobɛma wo ti so wobɛgyina pintinn a worensuro.",0.0714,0.037
+766,Ma wɔnhyɛ Awurade anuonyam; na wɔmpae mu nka nʼayeyi no wɔ asupɔw no so.,Ma wɔnhyɛ Awurade anuonyam; na wɔmpae mu nka na yɛyi no wɔ nsupɔ no so.,0.2143,0.0702
+767,ɛka aba no abien anaa abiɛsa wɔ atifi mman no so.,Eka abano abien anaa abiɛsa wɔ atifi mman no so.,0.2727,0.0263
+768,"Da koro bi, ɔka kyerɛɛ ne na se, “Metee sɛ wodomee ɔkorɔmfo a owiaa wo nnwetɛbona kilogram du abien ne fa fii wo nkyɛn no.","Dakori bi, ɔka kyerɛɛ no se, wokrowa ne tabrimon fie nkyɛn no.",0.72,0.5532
+769,ne wɔn amumɔyɛ bio.,"Ne dikan no, ɔka se, ""Eyi ne apam a me ne wɔn bɛpam wɔ berɛ a ɛreba no mu wura",4.5,3.0
+770,"wobebu wɔn bem, na wɔahoahoa wɔn ho.","Wobɛbu wɔn bem, na wɔahoahoa wɔn ho.",0.1429,0.0357
+771,"efisɛ, wɔanyɛ osetie amma no; Wobekyinkyin aman no mu.",efisɛ wɔayɛ osii ma no ɔbɛtutu ama no mu,0.5556,0.4186
+772,na mama ayeyi aba wɔn a wɔredi awerɛhow wɔ Israel no ano.,na mama ayeyi aba wɔn a wɔredi awerɛhow wɔ Israel no ano.,0.0,0.0
+773,Nanso wʼatamfo bebrebe no bɛyɛ sɛ mfutuma muhumuhu.,Nanso watamfo bebrebe no bɛyɛ sɛ mfutuma mu hu mu,0.5,0.0698
+774,"Gideon buae se, “Sɛ Awurade ma midi Seba ne Salmuna so nkonim a, mɛsan aba de sare so nsɔe ne akraate abesunsuan mo honam ani.","Yudea buae se, ""Sɛ Awurade ma medi sɛ ba ne saa mnason a mɛsan aba de saa no sɛ ne nkrantɛ besunsuan mo honam.",0.52,0.2653
+775,na wɔato fapem a akyɛ no; wɔbɛfrɛ mo Nea Osiesie Afasu a Abubu no.,na wɔato fapem a ɛkye no wɔbɛfrɛ mo nea osiesie afasuo a abubu no.,0.1429,0.0588
+776,Madi nʼanammɔn akyi pɛɛ; na manantew nʼakwan so a mamman.,Mede nanam akyi pɛ manante nakwan so ama aman,0.8,0.2609
+777,nanso mifi ayamhyehye a mu dɔ mu bɛsan de wo aba.,nanso mifi ayamhyehye a emu dɔ mu bɛsan de wo aba.,0.0909,0.0263
+778,nanso wɔn koma mmɛn me.,"na wɔde wɔn anofafa hyɛ me anuonyam, nanso wakoma mma me.",1.8,1.8333
+779,Kuropɔn a wɔasɛe no ada mpan; wɔatoto ofi biara apon mu.,Kuropɔn a wɔasɛe no ada mpan; wɔatoto ofi biara apon mu.,0.0,0.0
+780,ka ne nteaseɛnamkafo ne apɔnkɔ ho; Kir ama kyɛm no so.,kane ntuase nam kafo ne apɔnkɔ ho; Kir ama kyɛm no so.,0.3636,0.0476
+781,Na ɔtenaa Debora Abɛ Dua ase a ɛwɔ Rama ne Bet-El ntam wɔ Efraim bepɔw asase no so.,na ɔtena dabua abɛduase a ɛwɔ AwanBetentam wɔyɛ ramp asase no so,0.6667,0.25
+782,"Anɔpahema, Yerub-Baal ne nʼakofo kɔɔ ara kosii Harod asu ho.","Anɔpahema, Yerubaal ane n'akofo kɔɔ Sarakus Harod asu ho.",0.5,0.1458
+783,Monkae wɔn a wɔrehu amane na momfa no sɛ mo ne wɔn na wɔrehu saa amane no.,"nka wɔn a wɔrehuan, na momfa no sɛ monna worensane no.",0.5882,0.2982
+784,Medi anifuraefo anim afa akwan a wonnim so so.,Madi anifirafoɔ anim afa akwan a wɔnnim so so.,0.3333,0.1351
+785,"Mʼafoa anom nea ɛmee no no wɔ ɔsoro; hwɛ, ɛresian de atemmu aba Edom so.","Mafo anom nea ɛmee no no wɔ ɔsoro; hwɛ, resan de atemmu aba Edom so.",0.1333,0.0727
+786,Moaba Onyankopɔn a ɔyɛ nnipa nyinaa temmufo ne atreneefo a wɔayɛ wɔn pɛ no mu.,Mabɔ Onyankopɔn a ɔyɛ nnipa nyinaa temmufo natenaeɛ a wɔayɛ wɔn anim.,0.4,0.1746
+787,na wada adagyaw te sɛ da a wɔwoo no no; mɛma wayɛ sɛ nweatam.,na wadagya te sɛ na wɔwɔ ntam.,0.7857,0.5435
+788,na wɔn nguankuw no abɔ ahwete.,anaa ɔbɛsiesie me suhyɛ. ahwɛ.,1.0,0.8333
+789,"Wɔrenya obiara nsie wɔn: wɔn yerenom, wɔn mmabarima anaa wɔn mmabea.","Wɔrenya obiara nsie wɔn, wɔn yerenom wɔ ma barima anaa wɔ mmabea.",0.3636,0.0545
+790,"na wɔn nso aka se, ‘Wone me Nyankopɔn.","na wɔn nso akɛse, wonim Nyankopɔn",0.5,0.1071
+791,eyi na ɛbɛyɛ ne bɔne asetu so aba a edi mu: bere a ɔyɛ afɔremuka so abo.,Eyi na ɛbɛyɛ ne bɔne asetu so aba a ɛdi mu bere a ɔyɛ afɔremuka so abo.,0.0588,0.0185
+792,"Awurade de mae, na Awurade afa; nhyira nka Awurade din!","Awurade de mae, na Awurade afa; nhyinawurade din.",0.3,0.093
+793,"Afei, ɔka kyerɛɛ wɔn se, “Monhwɛ me.","Afei ɔka kyerɛɛ wɔn se, ""Monhwɛ me menni mmaakyire biara",0.4286,0.7308
+794,"Ɔde ne nyinaa guu ne mmati so, soa de kɔɔ bepɔw bi a ɛne Hebron di nhwɛanim no atifi.",ɔno nyinaa no bɛto so sɛ ade kɔɔ bepɔ bi a ne hebron nhwɛanim no ti.,0.5789,0.2923
+795,"Sɛ mema mo nyinaa ko tia Midianfo a, Israelfo no bɛhoahoa wɔn ho akyerɛ me sɛ wɔn ara nam wɔn ahoɔden so na wogyee wɔn ho sii hɔ.",ma mo nyinaa kɔtimidianfoɔ a Israelfo no bɛhoahoa wɔn ho akyerɛ me sɛ wɔn ara na mo ahoɔden so na wogye wɔn ho sii hɔ.,0.2857,0.11
+796,asi Onyankopɔn nsoromma atifi; mɛtena ase adi hene wɔ ahyiae bepɔw so.,Esi Onyankopɔn soma atifi; mɛtena ase adi hene wɔ ahyiae doɔ so,0.25,0.1579
+797,"Okunkum nnipa no, sɛee kuropɔn no, na ɔpetee nkyene wɔ hɔ nyinaa.",.,1.0,1.0
+798,"Ɛwɔ mu, ɔde nʼawiporowee teaseɛnam hankare fa so de.","Ɛwɔ mu, ɔde n'awie porowee teaseɛnam hankare fa so de.",0.2222,0.0476
+799,na mo nhwiren nso atu akɔ sɛ mfutuma; efisɛ moapo Asafo Awurade mmara.,na monhwie nso atu akɔ sɛ mfutuma; efisɛ moapo asawurademma.,0.3846,0.125
+800,"” Enti mede kosiee Eufrate ho, sɛnea Awurade ka kyerɛɛ me no.","Enti mede kosiee Eufrate ho, sɛnea Awurade ka kyerɛɛ me no.",0.0,0.0
+801,"” Efisɛ bɔne rentumi nsɔ Onyankopɔn nhwɛ, na ɔno Onyankopɔn nso nsɔ obi nhwɛ.","Efisɛ bɔne rentumi nsɔ Onyankopɔn nhwɛ, na ɔno Onyankopɔn nso nsɔ obi mfa.",0.0769,0.0656
+802,"Awurade buae se, “Yuda na ɛsɛ sɛ wodi anim.","Awurade buae se, ""Meda ne sɛ sɛ wodi animanim nkwahyeɛ srawai.",0.6667,0.6875
+803,Asiriafo bɛkɔ Misraim na Misraimfo akɔ Asiria.,Asiriafo bɛkɔ Misraim na Misraimfo akɔ Asiria.,0.0,0.0
+804,Owia pue de ne hyew no hyew afifide no ma nʼahoɔfɛ sɛe.,Owia pue de ne hyew no so afifide no ma n'ahoɔfɛ sɛ.,0.25,0.1395
+805,Me home bɔn me yere; me ho afono mʼankasa nuabarimanom.,ehomɔ me yere me ho afono mankasa nuabarima no,0.6,0.1364
+806,Efisɛ Awurade huu ne nkurɔfo a wɔredi wɔn nya na wɔrehu amane no mmɔbɔ.,Efisɛ Awurade hu ne nkurɔfo a wɔredi wɔn nya na wɔrehu amane mɔ.,0.2143,0.1053
+807,"Dabi da, ɛyɛ wo, Awurade yɛn Nyankopɔn.",Debiara yɛnyankopɔn,1.0,0.4333
+808,"Afei, metee Awurade nne a ɛrebisa se, “Hena na mensoma no?","Afei, metee Awurade nne a ɛrebisa se, ""Hena na me nso ma no.",0.2727,0.0
+809,"Morepɛ nneɛma bi nanso morentumi nnya, ɛno nti moayɛ mo adwene sɛ mubedi awu.","Worefa nima bi nanso morentumi nnya, ne ntuma mo adwene sɛ mobɛdi awu.",0.4286,0.2258
+810,Ɛbɛyɛ nsɛnkyerɛnne ne adansede ama Asafo Awurade wɔ Misraim asase so.,Ɛbɛyɛ nsɛnkyerɛnne ne adansede ama asafo Awurade wɔ Misraim asase so.,0.0,0.0
+811,"Efisɛ woahwie nnipa mogya agu; woasɛe nsase, nkuropɔn ne wɔn a wɔtete mu.","bisa wahina mogya agu, asɛnsan ne wɔn a wɔte mu.",0.5385,0.3966
+812,Sɛɛ na Awurade se: “Nneɛma a efi Misraim ne aguade a efi Kus.,"Sɛɛ na Awurade se: ""Nneɛma a efi Misraim ne aguade a efi kus",0.0,0.0
+813,"Yosua gyaa nkurɔfo no kwan akyi no, mmusuakuw no mu biara kɔfaa nʼagyapade a wɔde maa no sɛ ne kyɛfa no.","Yosua gyaa nkurɔfo no kwan akyi no, obosuu no biara kɔfaa nagyapadeɛ a wɔde maa no sɛ ne tan no.",0.1905,0.1829
+814,"Gilead yere woo mmabarima bebree, na saa mmabarima no nyinyinii no, wɔpam Yefta fii asase no so.","Gilead yere wo mbarima bibree nasaaba no nyini no, wɔpam Yefta fi asase no so.",0.4706,0.2078
+815,"Mede honhom bi rebɛhyɛ ne mu, sɛnea ɛbɛyɛ a sɛ ɔte asɛm bi a ɔbɛsan akɔ ne man mu na hɔ na mɛma wɔde afoa akum no.","Mede honhom bi rebɛhyɛ ne mu, sɛnea ɛbɛyɛ a sɛ ɔte asɛm bi a ɔbɛsan akɔ ne man mu na hɔ na mɛma wɔde afoa akum no.",0.0,0.0
+816,efisɛ wonni ntease; ɔkɔm bekum wɔn mu atitiriw.,efisɛ wonni ntease; ɔkɔm bekum wɔn mu atitire.,0.125,0.0526
+817,Awurade ankasa ka kyerɛɛ me se menkɔko ntia saa asase yi na mensɛe no.,"Awurade ankasa ka kyerɛɛ me se, ""Me nkɔko ntia saa asase yi na mensɛe no.",0.1429,0.0
+818,Nnipa beguan akɔhyɛ abodan a ɛwɔ abotan mu.,Nnipa beguan akɔhyɛ abodan a ɛwɔ ɔbotan mu.,0.125,0.0286
+819,Awurade bɛhohoro Sion mmea ho fi; ɔde atemmu honhom ne ogya honhom bɛpepa mogya nkekae a ɛwɔ Yerusalem.,Awurade bɛhohoro Sion mmea ho fi; ɔde atemmu honhom ne ogya honhom bɛpepa mogya nkekae a ɛwɔ Yerusalem.,0.0,0.0
+820,Awurade na ose.,Awurade na ose,0.0,0.0
+821,saa ara na ahiafo no yɛ wɔn adwuma de pɛ aduan; asase kesee no so na wonya aduan ma wɔn mma.,Saa na ahiafo no yɛ wɔn adwuma de pɛ aduan; sesaa wɔn a.,0.4762,0.4
+822,"Monhwɛ, wɔn mmarima akokodurufo su teɛteɛɛ mu wɔ mmɔnten so; asomdwoe ho abɔfo su yayaayaw.","Monhwɛ, wɔmmarima akukuduro su tiatia mu wɔ mmɔnten so; asomdwoe ho abɔfo su yayaaya",0.3333,0.1486
+823,"Hwɛ wʼani da Misraim so, demmire a emu abu a ɛte sɛ pema a wutweri a ɛbɛwɔ wo nsa mu apira wo no!","Hwɛ, w'ani da Misraim so, de mmerɛ a emu abu a ɛte sɛ pema a wotwere a ɛbɛbɔ wo nsa mu apira wo no.",0.2174,0.0822
+824,obiara a me din da no so.,"obiara a me din da no so, na mebɔɔ no de hyɛɛ me ho anuonyam. men",1.2857,1.6667
+825,"Awurade ka kyerɛɛ Satan se, “Eye, nea ɔwɔ nyinaa wɔ wo nsam, nanso ɔno ankasa de, mfa wo nsateaa nka no.","Morad ka kyerɛ Satan ne sɛ ɛyɛ nea ɔwɔ nyinaa wɔ wo nsam, nanso nankasa de mfa sate nka.",0.4762,0.2436
+826,Ne nsɛsode yɛ atoro; wonni ɔhome biara wɔ wɔn mu.,Ne nsɛsode yɛ atoro; wonni ɔhome biara wɔ wɔn mu.,0.0,0.0
+827,na adesɛe to betwa; opoobɔfo no bɛyera wɔ asase no so.,na adesɛe to betwa; opoobɔfo no bɛyera wɔ asase no so.,0.0,0.0
+828,Asiria rentumi nnye yɛn; yɛrentena akofo apɔnkɔ so.,Asiria rentumi nyɛ yɛntaafoɔ apɔnkɔ so.,0.5,0.2619
+829,sɛ abaa a ɛbɔɔ mo no mu abubu; saa ɔwɔ no ase na ahurutoa befi aba.,sɛ abaa a ɛbɔɔ mo no mu abubu.,0.5,0.56
+830,"sɛnea Onyankopɔn aka se, “Enti mifi mʼabufuw mu ka ntam se.","Sɛnea Onyankopɔn aka se, ""Enti mifi abufuw mu kan ntam se.",0.1818,0.0652
+831,"Ɔtɔn wɔn maa wɔn atamfo a wɔatwa wɔn ho ahyia, na wɔantumi annyina wɔn ano.","Ɔtɔn wɔn maa wɔn atamfo a wɔatwa wɔn ho ahyia, na wɔntumi anan.",0.2667,0.1695
+832,"Na afei mɛma ntam a mekaa mo agyanom se, mɛma wɔn asase a nufusu ne ɛwo sen wɔ so no aba mu,’ asase a mote so nnɛ yi.","Na afei mɛma ntam a mekaa mo agyanom se, mɛma wɔn asase a nufusu ne ɛwo sen wɔ so no aba mu, asase a mote so nnɛ yi.",0.0,0.0
+833,“Onipa ne hena a wokae no; na onipa ba nso ne hena a wʼani ku ne ho?,"Onipa no hene a wɔkae no, nipa a nso ne hen a wankwan",0.6471,0.3061
+834,"Faako a wɔka kyerɛɛ wɔn se, ‘Monnyɛ me nkurɔfo’ no, wɔbɛka se, ‘Moyɛ Onyankopɔn teasefo no mma.","faako a ɔka kyerɛɛ mo se, ""Monyɛ me nkurɔfo no ɔbɛkae woyɛ Onyankopɔn ase no ma.",0.4706,0.1806
+835,"Obiara nte sɛ ɔno wɔ asase so, ne ho nni asɛm na ɔteɛ, ɔyɛ onipa a osuro Onyankopɔn na okyi bɔne.","Obiara nte sɛ ɔno wɔ asase so, na huni sɛmena yi bɔne.",0.5714,0.473
+836,Yɛde tɛkrɛma kamfo yɛn Awurade ne yɛn Agya na yɛde ɛno ara nso adome nnipa a wɔbɔɔ wɔn Onyankopɔn sɛso so no.,Dedekam kamfo yɛn Awurade ne yɛn agya na yɛde no ara nso demen.,0.5455,0.4713
+837,"Eyi aba saa, efisɛ owu bi asi a egye nnipa fi wɔn bɔne a wɔyɛɛ bere a na wɔwɔ apam a edi kan no mu no mu.","Eyi aba saa, ɛfiri sɛ owu bi asi a ɛgye ne pa fi wɔn bɔne a wɔyɛɛ bere a na wɔwɔ apam a ɛdikan mu no mu.",0.2963,0.1169
+838,Ibsan buu Israel atɛn mfe ason.,mfeɛ siawoe so.,1.0,0.8
+839,"Esiane sɛ na ɔyɛ Salem hene no nti, wɔkyerɛɛ ne din no ase sɛ Asomdwoe hene.","Esiane sɛ na ɔyɛ Salemhene no nti, wɔkyeree no ase sɛ asomdwoeɛ ne",0.4375,0.1356
+840,"Nokware, sɛnea mmara no kyerɛ no, ɛkame ayɛ sɛ mogya na etumi tew ade nyinaa ho, na saa ara nso na gye sɛ mogya ahwie agu ansa na bɔnefakyɛ aba.","Nokware, sɛnea mmara no kyerɛ no, ɛkame ayɛ sɛ mogya no tumi te adennan na wɔnfa yɛ aba.",0.6,0.3964
+841,abɛko wɔ Sion Bepɔw ne ne sorɔnsorɔmmea so.,abɛko wɔ Sion bepɔ ne ne sorɔnsorɔmmea so.,0.125,0.0286
+842,"Da no, Awurade de oyiwan a obegye wɔ Asubɔnten no agya nohɔ wɔ Asiriahene nkyɛn, no beyi mo ti so ne mo anan ho nwi na wayi mo abogyesɛ nso.","Da no, Awurade de oyiwan a obegye wɔ Asubɔnten no agya nohɔ wɔ Asiriahene nkyɛn no beyi mo ti so muna ho nwi na wayi mo abogyesɛ nso.",0.1,0.0463
+843,"Nanso afei de, ɔbarima no pɛɛ sɛ ɔbɛkɔ.","Nanso afei de, ɔbarima no pɛɛ sɛ ɔkɔ nkyiamu biara ahyehyɛ na wɔde wɔn ani kyerɛɛ Yebus,",1.25,1.3667
+844,"Wɔn a wɔde wɔn ho too Kus so, na wɔde Misraim hoahoaa wɔn ho no besuro na wɔn ani awu.",Wɔn a wɔde wɔn ho to kusus na wɔde Misraim hoahoaa wɔn ho no bɛsuro wɔnanibewu.,0.4,0.1231
+845,Ɔbɛdan nea ɔbrɛ nyae no aba a ɔrenni bi; ɔremfa nʼaguadi mu mfaso nnye nʼani.,Ɔbɛdan nea ɔbrɛ nyaa no aba a ɔrenni bi; ɔremfa aguadi mu mfaso nnye nani.,0.2,0.0656
+846,abehyia wo kwan; ɛkanyan wɔn a wɔafi mu no honhom.,abɛhyia wo kwan,0.8,0.6923
+847,"“Dua mpo anidaso wɔ hɔ ma no: Sɛ wotwa a, ɛbɛfefɛw bio.","Dua pa ne da so wɔ hɔ ma no, sɛ wɔtwa bɛfa bio.",0.5833,0.25
+848,"Na Israelfo no ka kyerɛɛ Gideon se, “Di yɛn so hene.","Na Israel no ka kyerɛɛ Gideon se, ""Di yɛn so hene wɔ na mbarima wɔnbɛyɛ ahemfo fisɛwogyaana afi Midianfo Gideon",0.9091,1.4103
+849,"Nokware, esiane sɛ wɔantumi antu wɔn no nti, Kanaanfo no dɔɔso wɔ asase a Aserfo no te so no so.",wɔfrɛ hɔ kiriatyea.,1.0,0.8919
+850,Onni ahoɔfɛ anaa anuonyam a ɛbɛtwetwe yɛn akɔ ne nkyɛn.,Onni ahoɔfɛ anaa anuonyam a ɛbɛtwetwe yɛn akɔ ne nkyɛn.,0.0,0.0
+851,"Da koro bi, Yerub-Baal babarima Abimelek kɔɔ Sekem kɔsraa ne wɔfanom a wɔyɛ ne na nuabarimanom.","Dakoro bi, Yerubaarima Beekekemkɔsa no anoma wɔyɛ ne nanabarima no.",0.8125,0.2857
+852,Nanso wɔn a na wɔwɔ ahohiahia mu no renni awerɛhow bio.,Nanso wɔn a wɔwɔ ahohiahia mu no renni awerɛho bio.,0.1818,0.0682
+853,"Efraimfo ntuanofo no buae se, “Gileadfo nyɛ nnipa biara sɛ aguanfo a wofi Efraim ne Manase.","Efraim ntuanofo no bua se, Gilead hyɛ nnipa biara sɛ aguanfo a wofi ɛfiri ne mase.",0.375,0.1644
+854,"Ɔno de, ɛnnam onipa mmara so na wɔhyɛɛ no ɔsɔfo, na mmom wɔnam nkwa a enni awiei tumi so na ɛyɛɛ no ɔsɔfo.","Ɔno de, ɛnnam onipa mmara so na wɔhyɛɛ no ɔsɔfo, na mmom ɔnam nkaeɛ yi tumi so na ɛyɛɛ no ɔsɔfo.",0.2174,0.1235
+855,"Yesu buaa wɔn se, “Nea merekyerɛ no mfi mʼankasa, na mmom efi Onyankopɔn a ɔsomaa me no.","Yesu buaa wɔn se, ""Nea merekyerɛkyerɛ mankasa mo fi Onyankopɔn a ɔsomaa me no.",0.4118,0.1618
+856,"Na ne ho nni asɛm na ɔyɛ pɛ; na osuro Onyankopɔn, na ɔtwe ne ho fi bɔne ho.",na ne hunu sɛ na ɔyɛ pɛ no soronko na weoinh.,0.6667,0.4364
+857,"Afei mekae se, ‘Mewɔ ha rebɛyɛ nea wopɛ sɛ meyɛ.","Afei me ka se, ""Mewɔ hare bɛyɛ nea ɔpɛ sɛ meyɛ.",0.5,0.0833
+858,sɛnea asuguarefo trɛtrɛw wɔn nsa mu de guare.,sɛnea asuguarefo trɛtrɛ wɔn nsɛm mu de gu are,0.5,0.0811
+859,"“ ‘Asɛm a otumfo, Asiriahene ka ni: Dɛn na wode wo ho to so a ɛma wugye wo ho di saa?",asɛm a Otumfo siriahene Kanda na wode wo ho to so a ɛma wogye wo ho di saa.,0.25,0.0833
+860,"Mpo, sɛ nkyɛmu du mu baako ka asase no so a.","Mpo, sɛ nkyɛmu du mu baako ka asase no so a.",0.0,0.0
+861,"“Ne korakora ne sɛ, nnua no nyinaa ka kyerɛɛ nsɔe se, ‘Bedi yɛn so hene.","nokorakora no sɛ nunya ka kyerɛɛ sose, bɛdi yɛn so hene.",0.6,0.2453
+862,na wɔn a wɔntee no nso bɛte ase.,Na wɔn a wɔntee no nso bɛte ase,0.0,0.0
+863,Sɛ ne bo fuw a asase wosow; na amanaman no ntumi nnyina nʼabufuwhyew ano.,"Sɛ ne bo fu a, asase woso; na amanaman no ntumi nnyina abufuwhyew ano.",0.2143,0.069
+864,Nnipa a wofi atɔe fam ho adwiriw wɔn wɔ nea ato no no ho; na aninyanne bunkam wɔn a wɔwɔ apuei fam no so.,"Nnipa a wofi atɔfa ho adwiri wɔn wɔn a na ato no no ho, na nnyane bunkam wɔn a wɔwɔ apue fam no so.",0.3333,0.1125
+865,"Me nuanom, sɛ obi ka se, “Mewɔ gyidi” na onni gyidi no ho dwuma a, mfaso bɛn na ɛwɔ so?","Menuanom so obi ka se, ""Mewɔ gyidi na ongyina mfaso bɛn wɔ so.",0.55,0.2581
+866,"efisɛ Ɔbabea Babun no, me nkurɔfo.","efisɛ ɔbabea baabu no, me nkurɔfo.",0.1667,0.0741
+867,Nanso Onyankopɔn de ne tumi bɔɔ asase; ɔtoo wiase fapem wɔ ne nyansa mu.,Nanso Onyankopɔn de ne tumi bɔɔ asase; ɔtoo wiase fapem wɔ ne nyansa mu.,0.0,0.0
+868,"Gyidi nti na Sara nso de nyaa tumi nyinsɛnee, bere a na wanyin na ontumi nwo no.",Gyidi nti na ano de nyaa tumi nyinsɛn berɛ a na wanyin na ontumi ho no.,0.2941,0.1452
+869,Moabu nea ɔnnsɔre ntia mo no na onni fɔ no kumfɔ akum no.,"Mabu ne ɔntɔre ntia mo no no, na onipa no kumfɔ akum no.",0.4615,0.2045
+870,"Na obisa se, ‘Ahemfo nyinaa nyɛ mʼasahene ana?","Na obisa se, 'Ahemfo nyanyɛ asahene ana?",0.375,0.1389
+871,"Atoyerɛnkyɛm kɔn dɔ no; na sɛ ɔhwe ase a, amanehunu retwɛn no.","Atorenkyɛm kɔn dɔ no, na sawe ase a, amanehunu retwɛn no.",0.25,0.125
+872,"Bio, Israelfo no yɛɛ nea ɛyɛ Awurade ani so bɔne, na ɛno nti, Awurade de tumi hyɛɛ Moabhene Eglon nsa ma odii Israel so.","""Israelfo no yɛ ne yɛwurade ani so bɔne, na nti Awurade de tumi hyɛɛ Moabhene Eglon nsa ma odii Israel so.",0.25,0.1075
+873,onipa ba a ɔyɛ osunson bi kɛkɛ!,onipa ba a ɔyɛ sunsum bi kɛkɛ.,0.1429,0.125
+874,"Nea saa afɔrebɔ yi yɛ ne sɛ, ɛkae wɔn wɔn bɔne afe biara.","Na saa afɔrebɔ yi yɛ ne sɛ, ɛkae wɔn wɔn bɔne afe biara.",0.0769,0.0233
+875,Saa na Misraimhene Farao te ma wɔn a wɔde wɔn ho to ne so no nyinaa.,Saa ara na Misraimhene Farao te ma wɔn a wɔde wɔn ho to ne so no nyinaa.,0.0625,0.0577
+876,Wɔyɛ akraman a wɔpɛ aduan yiye; wonnidi mmee da.,Wɔyɛ akraman a wɔpɛ aduan yiye; wonnidi mmee da.,0.0,0.0
+877,"Bere a ogu so rekasa no, ɔbɔfo foforo bi ba bɛkae se, “Na wo mmabarima ne wo mmabea redidi na wɔrenom bobesa wɔ wɔn nuabarima panyin fi, na prɛko pɛ, ahum bi bɔ fii sare no so bedwiraa ofi no ntwea anan no.","berɛ a wobɛsre kasa no, ɔfoforɔ ba bɛkaa se, ""Na womama ɔma beared na wɔre no bobesa wɔ wɔn nuabarima panyin fi, na prɛko pɛ bubonet no.",0.6512,0.3987
+878,"oturu wɔn ne koko so; na nguan a wɔwɔ mma no, ɔka wɔn brɛoo.","oturu wɔn ne koko so, na nananom wo.",0.5714,0.4091
+879,"Na sɛ onipa twe ne ho na ɔno ara nʼakɔnnɔ yi no a, na ayɛ sɔhwɛ ama no.","Na sɛ onipa twe ne ho na ɔno ara na akɔ no yi no a, na ayɛ sɔhwɛ ama no.",0.1667,0.0577
+880,me nso mapo mo sɛ mʼasɔfo; sɛ moabu mo ani agu mo Nyankopɔn mmara so nti.,Me so mafom sɛ m'asɔfo sɛ moabu ani agu mo Onyankopɔn a ti.,0.5625,0.25
+881,Wɔn mu biara kɔ so yɛ ne mfomso; ɔbaako mpo nni hɔ a obetumi agye wo.,Womu biara kɔ so yɛ ne mfomso; ɔbaako pɔnne hɔ a ɔbɛtumi agye,0.375,0.1731
+882,"Awurade ka kyerɛɛ Satan se, “Eye, ɔwɔ wo nsam na ne nkwa de gyaa mu ma no.","Awurade ka kyerɛɛ Satan se, ɛyɛ ɔwɔ wɔnsam na ne nkwa de gye mu ma.",0.2941,0.1296
+883,"bere a ɛreba no mu, Awurade na ose: Mede me mmara bɛhyɛ wɔn adwene mu.","Bere a ɛreba no mu, Awurade na ose, wɔn adwenem.",0.4,0.3208
+884,"Ɔka kyerɛɛ wɔn ne ne na fifo nkae no se, “Mummisa ɔmanfo a wɔwɔ Sekem no se, wɔpɛ sɛ Yerub-Baal mmabarima aduɔson no nyinaa di wɔn so anaasɛ wɔpɛ sɛ ɔbarima baako di wɔn so?","kyerɛɛ wɔn ne na fifo nkae no se, ""Wo misɔmɔ wɔ Sekem no se, ɔpɛ sɛ Yerubarima aduɔson no nyinaa di wɔn so anaasɛ ɔpɛ sɛ ɔbarima baako di wɔn so.",0.2857,0.1866
+885,"mebɔɔ nkae, na medaa no adi; afei mpofirim mekekaa me ho na ɛbaa mu.","mebɔɔ nkae, na medaa no adi; afei mpofirim mekekaa me ho na ɛbaa mu.",0.0,0.0
+886,"Bere a Usia babarima Yotam babarima Ahas bedii Yudaman so hene no, Aramhene Resin ne Remalia babarima Peka a ɔyɛ Israelhene baa Yerusalem ne wɔn bɛkoe, nanso wɔantumi anni ne so.","Bere a Usia babarima Yotam babarima Ahas bedii Yudaman so hene no, Aramhene Resin ne Remalia babarima Peka a ɔyɛ Israelhene baa Yerusalem ne wɔn bɛkɔ nanso wɔantumi anni ne so.",0.0323,0.0138
+887,"Asomdwoe, asomdwoe mmra wɔn a wɔwɔ akyirikyiri ne wɔn a wɔbɛn so,”.",Asomdwoeɛ yi asomdwoeɛ mmra wɔn a wɔwɔ akyirikyiri ne wɔn a wɔbɛn so.,0.25,0.0769
+888,"Sɛɛ na Awurade ka kyerɛɛ me: “Kɔ na kɔtɔ nwera abɔso bɔ wʼasen, nanso mma no nka nsu.","Sɛɛ na Awurade ka kyerɛɛ me, ""Kɔ na kɔtɔ nwera bɔ so bɔ asenaso mma no nka nsu.",0.2222,0.0781
+889,"Mebua wɔn ansa, mpo, na wɔafrɛ me.","Mebua wɔn ansa, mpo, na wɔafrɛ me.",0.0,0.0
+890,Ahoni ahyɛ wɔn asase no so ma; wɔkotow sɔre wɔn ankasa nsa ano adwuma.,Ahoni ahyɛ wɔn asase no so ma wɔkoto sɔre wɔn ankasa nsa ano adwuma.,0.0714,0.0182
+891,"Nnipa a na wɔwɔ Yerusalem no mu bi bisae se, “Ɛnyɛ saa onipa yi ne nea wɔpɛ sɛ wokum no no ana?","Nnipa a na wɔwɔ Yerusalem no bisae se, ""Ɛnyɛ saa onipa yi ne nea wopɛ sɛ wokum no no ana?",0.1364,0.0704
+892,"Enti Satan fii Awurade anim, na ɔmaa akuru a ɛyɛ yaw totɔɔ Hiob ho fi ne nʼanan ase kosii nʼapampam.","Enti satan fi Awurade anim, na ɔmaa akuru yɛawo Hiob ho firi ne nan ase kɔsii n'apampam.",0.45,0.1772
+893,Wɔn mu hena na ɔkaa eyi fii mfiase.,.,1.0,1.0
+894,Sum kabii yɛ adekyee ma wɔn nyinaa; wɔne sum mu nneɛma a ɛyɛ hu fa nnamfo.,Sum kabiya kyema wɔn nyinaa wɔn no som nneɛma ɛyɛ ho fa na mfo.,0.6875,0.2281
+895,"Meyɛ onipa a mʼano ho ntew, na mete nnipa a wɔn ano ho ntew mu, na mʼani ahu Ɔhene, Awurade Asafo no yi.","Meyɛ onipa a mano ho ntew, na mete nnipa a wɔn ano ho ntew mu, na mani ahu ɔhene awurade asafo no yi.",0.087,0.0256
+896,"Eyi nti, mede nsɔe besiw no kwan; mɛto ɔfasu afa ne ho, sɛnea ɛbɛyɛ a ɔrenhu kwan.","Eyi nti, mede nsɔe bɛsi wo nkwantanan ɛbɛyɛ a ɔrenhu a.",0.5882,0.371
+897,adehyetumi nso befi Damasko; Aram nkae bɛyɛ.,adehyetumi nso befi Damasko; Aram nkae bɛyɛ.,0.0,0.0
+898,Momma ntoboase no ntena mo mu daa nyinaa sɛnea ɛbɛyɛ a mobɛyɛ pɛ a biribiara ho renhia mo.,matao ntena onua nyinaa sɛnea ɛbɛyɛ a mobɛyɛ pɛ bibiara no renhia mo.,0.5,0.25
+899,"Afei, Efraimfo no bisaa Gideon se, “Adɛn nti na woyɛ yɛn saa?","Afei, efurafo no bisaa Gideon se, ""Adɛn nti na woyɛ saa",0.1667,0.1304
+900,"Wasoma me se, menkyekye wɔn a wodi awerɛhow nyinaa werɛ.","Wasoma me se, menkyekye wɔn a wodi awerɛhow nyinaa werɛ",0.0,0.0
+901,"Afei Awurade, yɛn Nyankopɔn, gye yɛn fi ne nsam, na ama ahenni a ɛwɔ asase so nyinaa ahu sɛ, wo nko ara, Awurade, ne Onyankopɔn.","Afei Awurade, yɛn Nyankopɔn, gye yɛn fi ne nsam, na ama ahenni a ɛwɔ asase so no nyinaa hu sɛ wo nko ara, Awurade, ne Onyankopɔn.",0.08,0.0309
+902,Ebinom pɛɛ sɛ wɔkyere no nanso obiara amfa ne nsa anka no.,""" a",1.0,0.9783
+903,wɔrentumi nguan; na wɔn anidaso bɛdan owu ahomegu.,Wɔne ntumi nwan so bɛdan owu ahomegu.,0.625,0.2927
+904,ne wɔn a wɔbɔ yɛn korɔn kyɛfa ni.,ne wɔn a wɔbɔ yɛn korɔn kyɛfa ne,0.125,0.04
+905,Gyidi nti na ɛmaa Isak hyiraa Yakob ne Esau maa wɔn daakye asetena.,Gyidi nti na ɛmaa Isak sɛ Yakob nsaama wɔn daakye asetena.,0.3077,0.1852
+906,"Wɔn a aka no nyinaa nso, na wobu nkotodwe de wɔn ano nom nsu fi asuwa no mu.",Wɔn aka no nyinaa so ma wɔbu gododo anim no so fi asuwa no mu,0.5556,0.3333
+907,“Mate nsɛm bebree a ɛte sɛ eyinom; na mo nyinaa moyɛ ogyamserewfo!,"m'atonsɛn bebree te sɛ yɛnom, na monyinaa moyɛ ogyamserewfo!",0.5833,0.1154
+908,"Israelfo no, mpo Efraim hintihintiw wɔ wɔn amumɔyɛ mu; Yuda nso ne wɔn hintiw saa ara.",Israelfo no mpo Efraim enti wo nti wɔ wɔn amumɔyɛ mu; Yuda nso ne wɔn mu nti saa.,0.375,0.1618
+909,"Minnyae me ngo a wɔde hyɛ Onyankopɔn ne nnipa anuonyam no, na minkokyinkyin nnua a aka so ana?","Menya egawɔ hyɛn ankona ni onyam no, na menkɔkyinkyin aka so anaa",0.7778,0.3733
+910,"Sɛ woyɛ Kristo apɛde o, sɛ woanyɛ nʼapɛde o, wubebu wo ho atɛn.",Sɛ woyɛ Kristo paduo sɛ wanyɛ na paduo wobu ho atɛn.,0.5385,0.25
+911,na obehu sɛ me ho nni asɛm; sɛ mʼanammɔntu afom ɔkwan.,"na wobɛhu sɛ mehu ne asɛm, sɛ mana monto afom ɔkwan.",0.5455,0.2143
+912,"Na sɛ wɔn agyanom ne wɔn nuanom mmarima ba sɛ wɔmpene so a, yɛbɛka akyerɛ wɔn se, ‘Yɛsrɛ mo, monte ase.","Na sɛ wɔn agya no ne wɔnamabarima basa wɔmpene so a, ɛbɛka kyerɛ wɔn se, ""Yɛsrɛ mo, monte ase.",0.4286,0.1282
+913,Abusuakuw no tow hyɛ me so wɔ me nifa so; wosum mʼanan mfiri.,Abusuakuw no tow hyɛ so me nifa so; wɔsum na firi,0.3846,0.2128
+914,Sɛ minim baabi a mehu no; anaasɛ metumi akɔ ne tenabea a.,Sɛ me ne baabi a mehu no; anaasɛ metumi akɔ ne tenabea a.,0.1667,0.0682
+915,sɛ ɔka wɔn anim a woguan kɔ akyirikyiri.,Sɛ ɔka wɔn anim a woguan kɔ akyirikyiri.,0.0,0.0
+916,"Da no wɔn nkuropɔn a ɛwɔ bammɔ dennen, a Israelfo nti wogyaw hɔ no, bɛyɛ sɛ mmeaemmeae a wɔagyaw ama nnɔtɔ ne nwura.",Dan wɔn nkuropɔn a ɛwɔ bamode ne a Israel nti wogyaa hɔ no bɛyɛ sɛ mmeaemmeae a wɔagya ama nnɔtɔ ne nwura.,0.3043,0.0989
+917,ama wɔn a mapaw wɔn; Otumfo Awurade bekum wo.,ama wɔn a mapa wɔn; Otumfoɔ Awurade bɛkum wɔ,0.4444,0.1143
+918,"Ɛwɔ mu sɛ ɔde nusu peree sɛ wanya adwensakra de, nanso anyɛ yiye.","Ɛwom sɛ ɔde ne su pres wanya adwensakra de, nanso anyɛ yiye.",0.3846,0.1176
+919,Ɔpa abaw sɛ obeguan afi sum mu; wɔabɔ no ato hɔ ama afoa.,Ɔpa abaw sɛ obeguan afi sum mu; wɔabɔ no ato hɔ ama afoa.,0.0,0.0
+920,"Metwa nʼafahyɛ nyinaa so: nʼafirihyia afahyɛ, Ɔsram Foforo afahyɛ.","metena ahyɛ nyinaa so, na afei hyia ɔsaase",0.7778,0.4727
+921,Ne mma bɛpata ahiafo; ɛsɛ sɛ nʼankasa de nʼahonya san ma.,na mmabaa ahiafo so nanade nahonya san ma.,0.7273,0.2889
+922,"Me nuanom, sɛ moyɛ agyidifo wɔ Awurade Kristo anuonyam mu yi, monnyɛ nhwɛanim.","Me nuanom, sɛ moyɛ agyidifoɔ awurade kristo ani nya muyi monnyina.",0.5385,0.1746
+923,sɛnea ɛbɛyɛ a nkurɔfo de amanaman no ahonya bɛbrɛ wo.,sɛnea ɛbɛyɛ a nkurɔfo de amanaman no ahonya bɛbrɛ wo.,0.0,0.0
+924,"Ɛhɔ na patu bɛyɛ ne berebuw, na watow ne nkesua.",Ɛhɔ na pɛteɛ yɛ ne berɛbuw na wɔate wo ne nkesua.,0.5,0.1892
+925,” Enti osu guu ne so bere biara a ɔne no wɔ hɔ.,"Enti sugu no so biribiara a ɔne no wɔ hɔ, ɔkɔsraa apono",0.5833,0.5152
+926,Onyankopɔn hyira asase a ɛnom osu a ɛtɔ gu so na ɛma afifide yɛ yie ma wɔn a wɔn nti woduae no.,"Onyankopɔn hyira asase a nimus a ɛto gu so na ɛma fidie yie, wɔn a wɔti wɔdua no.",0.4091,0.2192
+927,Wɔn nyinaa yɛ ahonhom a wɔsom Onyankopɔn na ɔsoma wɔn ma wɔkɔboa wɔn a wɔrehwehwɛ nkwagye no.,bɛyɛ nase,1.0,0.9211
+928,"Wɔrehyɛ nkɔm fa atoro anisoadehu, asumansɛm, abosonsom ne wɔn ankasa nnaadaa adwene ho.","Wɔrehyɛ nkɔm fa atoro anisoadehu, asumansɛm, abosonsom ne wɔn ankasa nnaadaa adwene ho.",0.0,0.0
+929,Enti afei wɔbɛfa Awurade asɛm a ɔde ma wɔn no sɛ: Yɛ eyi anaa eyi.,Enti afei wɔbɛfa Awurade asɛm a ɔde ma wɔn no sɛ: Yɛ eyi anaa eyi.,0.0,0.0
+930,Nso me ne wo bɛkasa afa wʼatɛntrenee ho: Adɛn nti na amumɔyɛfo kwan si wɔn yiye?,Nso me ne wo bɛkasa afa w'atentene honam,0.625,0.5079
+931,"Saa da no, obiara bɛyɛn nantwi ba baako ne mmirekyi abien.","Saa da no, obiara bɛyɛn nantwi ba baako ne mmirekyi abien",0.0,0.0
+932,"Na Asafo Awurade behyira wɔn, aka se, “Nhyira nka Misraim, me nkurɔfo, Asiria me nsa ano adwuma ne Israel mʼagyapade.","na Asafo Awurade bɛhyira wɔn aka se, ""Nsuro Misraim me nkurɔfo, Asiria me nsa ano adwuma ne Israel agyapade",0.2,0.1087
+933,"Mo sika ne mo dwetɛ agye nkannare na saa nkannare no bedi adanse atia mo, na ahyew mo honam sɛ ogya.","Mo sika ne mo dwetɛ gyinae, na saa na na rebedi adanseɛ atia mo, na sɛ mohunu sɛ ogya.",0.4286,0.2564
+934,Ɛnna Israelfo no kɔɔ Bet-El kosuu wɔ Awurade anim kyen kɔm kosii anwummere.,nokuafoɔ,1.0,0.9016
+935,"fi wʼahengua a ɛkorɔn, ɛyɛ kronkron na ho wɔ nyam no so.",fi w'ahengua ɛkorɔn yɛ kronkron na wo ho wɔ nyam no so.,0.3333,0.1163
+936,"Na sɛ worebɔ mpae a, ɛsɛ sɛ wugye di a wunnye ho akyinnye.","Na sɛ worebɔ mpae a, ɛsɛ sɛ wogye di a wonnye ho akyi.",0.2308,0.1364
+937,“Asiria bɛhwe ase wɔ afoa a ɛnyɛ onipa de ano; afoa a ɛnyɛ onipa de bɛsɛe wɔn.,Asiria bɛhwe ase wɔ afoa a ɛnyɛ onipa de ano; afoa a ɛnyɛ onipa de bɛsɛe wɔn.,0.0,0.0
+938,na ne kra nso po aduan a ɛyɛ akɔnnɔ pa ara; ɔfɔn yɛ basaa.,na ne kra nso po aduan a ɛyɛ akɔnnɔ pa ara; yɛ basaa.,0.0714,0.093
+939,"Saa ara na tɛkrɛma te; sua a esua nyinaa akyi no, etumi hoahoa ne ho.","Saa tɛkrɛma so sɛ nyinaa akyi no, ɛtumi ha ku ano.",0.6667,0.3654
+940,"Na Onyankopɔn aka akyerɛ no se, “Ɛnam Isak so na wʼase bɛterɛw.","Na Onyankopɔn aka kyerɛ no se, ""Ɛnam akoso na wiase bɛkyerɛ.",0.4167,0.1633
+941,Momma yɛmfa Yesu so mfa yɛn anofafa nkamfo Onyankopɔn din daa sɛ yɛn afɔrebɔde.,Momma yɛmfa Yesu so mfa yɛn anofafa nkamfo Onyankopɔn din daa sɛ yɛn afɔrebɔde.,0.0,0.0
+942,"Bere a Gideon de nʼakofo no kɔɔ asu no ho no, Awurade ka kyerɛɛ no se, “Kyɛ nnipa no mu akuw abien.","Bere a Gideon de akofo no kɔɔ asu no ho no, wode ka kyerɛɛ no se, ""Tena no akuabu",0.3182,0.2432
+943,Na nnwewemmoa bɛwe wɔn te sɛnea wɔwe atade; asunson bɛsɛe wɔn te sɛnea wɔsɛe kuntu.,Na nnwewemmoa bɛwe wɔn te sɛ sɛnea wɔwe atade; asum wɔn te sɛ nea ɔsɛ kum,0.4667,0.2388
+944,"na okum ohiani ne mmɔborɔni; anadwo, mu owiawia ne ho sɛ ɔkorɔmfo.","na okum ohiani ne mmɔborɔni; anadwo, mu owiawia ne ho sɛ ɔkorɔmfo.",0.0,0.0
+945,"na waka afa asɔredan no ho se, “Ma wɔnto ne fapem.","na waka afa asɔredan no ho se, ""Ma wɔnto ne fapem.",0.0,0.0
+946,"na sɛ manyɛ bɔne a, mfaso bɛn na menya?","na sɛ manyɛ bɔne a, fa so bɛn na menyaa sɛ me na wonam.",0.7778,0.4483
+947,"Na esiane nufusu dodow a wɔbɛma nti, obenya nufusu ani srade adi.","Na esiane nufusu dodow a wɔbɛma nti, obenya nufusu ani srade adi.",0.0,0.0
+948,Momma asase nyinaa nyɛ komm wɔ nʼanim.,Momma asase nyinaa kum wɔ nanim,0.4286,0.1935
+949,Enti mede gram ɔha aduoson baako ne atoko lita ɔha aduɔwɔtwe abien ne atoko lita aduɔkron baako kɔpataa no.,"Enti mede gram ɔha aduoson baako ne atoko lita ɔha aduɔwɔtwe abien, na atokotawo baako kɔpataa o.",0.2632,0.125
+950,Ɔde me asi nʼani so; nʼagyantowfo atwa me ho ahyia.,"Ɔde me asi n'ani so, na agyantofoɔ atwa me ho ahyia.",0.3,0.1
+951,nea ofi Bosra a nkekae kɔkɔɔ wɔ nʼatade mu yi?,nea ofi Bosra a nkekae kɔkɔɔ wɔ atade mu yi.,0.1,0.0556
+952,"Onyankopɔn nam ne tumi so twe atumfo kɔ; ɛwɔ mu sɛ wonya asetena pa de, nanso wonni nkwa ho bɔhyɛ.","Onyankopɔn nam ne tumi so twe atumfo kɔ; ɛwɔ mu sɛ wɔnya asetena pa de, nanso wɔnni nkwa ho bɔhyɛ.",0.1,0.0263
+953,"ɔno na ɔbɛboa wo: Nsuro Yakob, me somfo.","ɔno na ɔbɛboa wo: Nsuro Yakob, me somfo.",0.0,0.0
+954,"Mobɛhwehwɛ me nanso morenhu me, efisɛ faako a merekɔ no morentumi nkɔ hɔ.",Mobɛhwehwɛ me nanso moremfɛm ntumi nkɔ.,0.6923,0.4407
+955,"Hwehwɛ ɔkwan a wobɛfa so, nanso wɔbɛsɛe no; da wo nsusuwii adi, nanso ɛrennyina.","Hwehwɛ ɔkwan a wobɛfa so, nanso wɔbɛsɛe no; da wo nsusuwii adi, nanso ɛrennyina.",0.0,0.0
+956,"Ɛrenkyɛ koraa, wɔrennan Lebanon nyɛ no asasebere.",.,1.0,1.0
+957,"Moafa mʼanyame nyinaa ne me sɔfo, na minni hwee bio!","Ma manameyinaa ne me sɔfo, na minni hwee bio, daa marima no we",0.7,0.4634
+958,"Gideon buae se, “Na Awurade, mɛyɛ dɛn agye Israelfo?","Gideon buae se, ""Na Awurade, madane srelo.",0.4444,0.25
+959,"Ennya nnuu twabere, a nhwiren bere atwam no.","Enya nu twabere, a nhwiren bere atwam no.",0.25,0.0857
+960,Enti Filistifo ntuanofo no de agyan so ahama ason a ɛnwoe brɛɛ Delila ma ɔde kyekyeree Samson.,Ntifilistifo ntuano fo de agya no Ahamasu a ɛnwoeɛ Dela mɔdere Sanso.,0.8824,0.2857
+961,"Akyiri no, Delila ka kyerɛɛ no se, “Wudii me ho fɛw, twaa me nkontompo.","Akyire no, Elalakyerɛɛ no se, ""Wo din me ho fa twaa me nkontomposɛm sɛnea wobetumi akyekyere wo a",0.9286,0.6981
+962,Afei ɔforo kɔɔ Awurade asɔredan no mu kɔtrɛw mu wɔ Awurade anim.,Afei ɔforo kɔɔ Awurade asɔredan no mu kɔkyerɛ mu wɔ Awurade anim.,0.0833,0.0769
+963,Nanso Awurade yɛ onyansafo a obetumi de ɔhaw aba; ɔnsesa nʼano.,Nanso Awurade yɛ onyansafo a ɔbɛtumi de ɔhaw aba; ɔnsesa na no.,0.2727,0.0588
+964,"Melkisedek nyɛ Lewi aseni, nanso ogyee nkyɛmu du mu baako fii Abraham nkyɛn hyiraa no ma onyaa Onyankopɔn bɔhyɛ no.","Melkisedek nye Lewi aseni, nanso ogyee nkyɛmu du mu baako fi abrammoɔ ɔyɛ no.",0.5,0.3511
+965,So ɛnsɛ sɛ mo ne wɔn a ɔkɔm de wɔn kyɛ mo aduan.,Sɛ ɛnyɛ sɛ mo ne wɔn a ɔkɔm de wɔn kyɛ mo aduan.,0.1538,0.0571
+966,ɔde atɛntrenee besi gyinae ama asase so ahiafo.,ɔde atɛntenenee bɛsi gyina ama asase so ahiafo.,0.375,0.1026
+967,"Saa ntam yi nti, Yesu gyina mu ma yɛn, na ɛma yɛne Onyankopɔn apam no di mu.","Saa ntam yi nti, Yesu gyina mu ma yɛn, na ɛma yɛne Onyankopɔn apam no di mu.",0.0,0.0
+968,"Wɔde kurow no too Dan a ɔyɛ wɔn tete agya Israel no ba, na kan no wɔfrɛ hɔ Lais.","Wɔde or no too Dan a ɔyɛ wɔn tete agya Israel no ba, na ka no wɔfrɛ hɔ lies.",0.1579,0.1167
+969,"” Na Abraham nim sɛ Onyankopɔn betumi anyan awufo afi owu mu, na ɔkwan bi so no, yebetumi aka se Onyankopɔn nyan Isak fii owu mu.",Na Abraham nim sɛ Onyankopɔn betumi anyan awufo afi nakai.,0.64,0.52
+970,"Efi atɔe fam, nnipa besuro Awurade din.","Efi atɔe fam, nnipa besu Awurade din.",0.1429,0.0645
+971,Na ɛsow aba pa a efi aba a asomdwoefo duaa no asomdwoe mu no mu.,Na soaba pa a efi aba a asomdwoefo duaa no asomdwoeɛ mu no ho,0.2667,0.102
+972,"Mmom, wofifi wɔn nkurow mu boaa wɔn ho ano wɔ Gibea sɛ wɔne Israelfo no rebɛko.","Mmom, wofifi wɔn kuro mu boaa wɔn ho ano wɔ Gibea sɛ wɔne Israelfo no rebɛko.",0.0625,0.0323
+973,"sɛnea wɔrekɔ no ɛbɛma wɔapini wɔn akyi; wobepirapira, na wɔatɔ afiri mu, na wɔakyere wɔn.",sɛnea wɔrekɔ no ɛbɛma wɔapini wɔn akyi; wobetwa wɔn,0.4667,0.4085
+974,"Yesu maa ne mu so no, obisaa ɔbea no se, “Nnipa a wɔde wo bae no wɔ he?","Yesu maa ne mu so no, bisa ɔba no se, ""Nnipa a wɔde wo baa no wɔ he?",0.1667,0.08
+975,Sɛɛ na Awurade ka kyerɛ me: “Sɛnea gyata woro so.,Sɛɛ na Awurade ka kyerɛ me sɛnea gyata woro so.,0.0,0.0
+976,"“Mo anyansafo, muntie me nsɛm; mo nimdefo monyɛ aso mma me.",Moanya asafo montie me nsɛm; mo nimdefo monyɛ soma no.,0.5455,0.1333
+977,ebefi nnipa a wɔwoware na wɔn honam yɛ trontrom hɔ.,ebefi nnipa a wɔwoware a wɔn honam yɛ trontrom hɔ.,0.1,0.0244
+978,"Ankyɛ, ɔhene Sanaherib nyaa nkra se, Tirhaka Etiopiani a ɔyɛ Misraimhene di asraafo anim rebɛko atia no.","Ankyɛ, ɔhene Sanaherib nyaa nkra se, Taapin a ɔyɛ Misraimhene di asraafo anim rebɛko atia no.",0.1176,0.1176
+979,"anaa waka ato hɔ, sɛnea yebetumi aka se, ‘Ne de no ye’?","anaa waka ato hɔ, sɛnea ɛbɛtumi aka se, 'Ne de no yi,",0.1667,0.1026
+980,Awurade ne nʼakode a ɛyɛ nʼabufuwhyew; bɛsɛe ɔman no nyinaa.,Awurade ne akode a ɛyɛ n'ebufuhyew bɛsɛe ɔman no nyinaa.,0.2,0.102
+981,“Ka eyi kyerɛ wɔn: ‘Saa anyame a ɛnyɛ wɔn na wɔyɛɛ ɔsoro ne asase no bɛyera afi asase so ne ɔsorosoro ase.,Ka yi kyerɛ wɔn a nyamanya wɔyɛɛ ɔsoro ne asase no bɛyera afi asase so ne ɔsorosoro ase.,0.2727,0.1358
+982,Ɔne Isak ne Yakob a Onyankopɔn hyɛɛ wɔn bɔ koro no ara bi tenaa ntamadan mu.,Ɔne Isak ne Yakob Onyankopɔn nhyia wɔn bɔ koro no abien ntam den mu.,0.375,0.1833
+983,"Saa da no, Misraimfo bɛyɛ sɛ mmea, Asafo Awurade nsa a wama so atia wɔn no bɛma wɔn abɔ hu na wɔn ho apopo.","Saa da no, Misraimfo bɛyɛ sɛ mmea, Asafo Awurade nsa a wama so atia wɔn no bɛma wɔn abɔ hu na wɔn ho apopo.",0.0,0.0
+984,Ampa ara asupɔw no ani da me so; Tarsis ahyɛn na wodi anim.,"Ampa ara supɔ no ani da me so, Tassahyɛnna wɔdi anim.",0.3846,0.1111
+985,"Sɛ wɔn nhyɛsofo nti wosu frɛ Awurade a, ɔbɛsoma ogyefo ne bammɔni, na obegye wɔn.","sɛ wɔn nhyɛsofo nti wosu frɛ Awurade a, ɔbɛsoma ogyefo ne ba bone na ɔbɛgye wɔn.",0.2,0.0938
+986,"Ɔno nso buae se, “Meyɛ Lewini a mifi Betlehem wɔ Yuda na merehwehwɛ baabi atena.","Ɔno nso buae se, ""Meyɛ Lewini a fi betrehoYuda na mehwɛ baabi atena.",0.3333,0.1905
+987,Ɔbabea Babilonia; tena fam na mfa ahengua.,Ɔbabea Babilonia; tena fam na mfa ahengua.,0.0,0.0
+988,"“Nanso obiara nni hɔ ka ne ho, na hena na obetumi atia no?","nanso obiara nni hɔ ka ne ho, na hena ɔbɛtumi atia no?",0.1538,0.093
+989,"Yɛn mu bi bo nkyɛ fuw, anhwɛ a wɔn bo befuw na wɔakum wo ne wʼabusuafo.","Ye mu biribi nkyɛ fuw, anhwɛ a wɔn bobefuw na wakum wɔn abusuafo.",0.5625,0.1852
+990,"Ankyɛ na kurowmma no tee sɛ Samson wɔ hɔ, enti Gasa mmarima boaboaa wɔn ho ano na wɔtwɛn kurow no pon ano anadwo mu no nyinaa.","Ankyɛ na kurom no tee sɛ Samson wɔ hɔ, nti gaaama wɔn ho ano na wɔtwɛn kuro no pono ano womuo yina.",0.4231,0.2424
+991,Nnipa bue wɔn ano di me ho fɛw; wɔbɔ me sotɔre de bu me animtiaa.,Nnipa bi wɔ no de me ho fɛw; wɔbɔ me sotɔre de bu me animtia.,0.3333,0.1224
+992,"Awurade ka kyerɛɛ me se, “Fa nhoma mmobɔwee kɛse no na fa kyerɛwdua biara kyerɛw so.","Awurade ka kyerɛɛ me se, ""Fa homa mo bɔ we kɛse no na fa kyerɛwdua biara kyerɛw so.",0.25,0.0455
+993,"Israelhene ne Ogyefo, Asafo Awurade se: Mene odikanfo ne okyikafo; Onyankopɔn biara nni hɔ sɛ me.","Israelhene ne Ogyefo, Asafo Awurade se: Mene odikanfo ne okyikafo.",0.375,0.3077
+994,"Bere a Onyankopɔn kaa ntam se, “Wɔremma me home mu da” no, na ɔreka akyerɛ ɛhefo?","Bere a Onyankopɔn kaa ntam se, ""Wɔremma me hu mo mu da no, na ɔreka akyerɛ ahemfo",0.1875,0.0656
+995,mede mʼanom nsɛm kunkum mo; mʼatemmu baa mo so sɛ anyinam.,Me mnim sɛ kunkumm matema,1.0,0.5652
+996,Mʼahɔho ne me mmaawa bu me sɛ ɔhɔho; mete sɛ ɔnanani ma wɔn.,Maho ne memaa wabue sɛ ɔhɔho; mete sɛ ɔnanani wɔn.,0.4615,0.1522
+997,"Na Sisera wɔ nnade nteaseɛnam ahankron, na ɔde atirimɔden hyɛɛ Israelfo no so mfirihyia aduonu.","Na sɛ sɛ wɔn adenteseɛnam ahankron, na ɔde timanye no so mfirihyia aduonu.",0.4667,0.2785
+998,"Enti wobisae se, “Bere a yɛde yɛn ho kyerɛɛ Awurade wɔ Mispa no na obi nni hɔ bi ana?","Enti obisae se, ""Bra ɛde yɛn ho werɛ Awurade wɔ Mispa no na obi nni hɔ bi ana?",0.2632,0.1094
+999,"Ɔsɔre anɔpahema bɔ ɔhyew afɔre ma wɔn mu biara, efisɛ na osusuw sɛ, “Ebia na me mma no ayɛ bɔne na wɔadome Onyankopɔn wɔ wɔn koma mu.",Ɔsɔre na ahoma ɔhyew farma wɔn mu biara misinosusuu sɛ ebia na ne mma no ayɛ bɔne adom nyankopɔn wɔn koma mu.,0.4444,0.2233

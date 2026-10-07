@@ -77,39 +77,6 @@ benchmarks:
       avg_seconds_per_sample: 0.05
   source: evaluated
   evaluated_at: '2026-08-14'
-- model: facebook/omniASR-LLM-7B-v2
-  model_url: https://github.com/facebookresearch/omnilingual-asr
-  owner: facebook
-  model_class: llm
-  params: 7B
-  wer: 0.6621
-  cer: 0.3678
-  per_category:
-    bible:
-      wer: 0.3537
-      cer: 0.1004
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.57
-    finance:
-      wer: 1.0387
-      cer: 0.5661
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.3
-    jw:
-      wer: 0.5983
-      cer: 0.4119
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.56
-    lds:
-      wer: 0.6578
-      cer: 0.3928
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.54
-  source: evaluated
 - model: facebook/sherpa-onnx-omniASR-CTC-300M-v2
   model_url: https://huggingface.co/michsethowusu/sherpa-onnx-omnilingual-asr-1600-languages-ctc-v2
   owner: facebook
@@ -144,6 +111,40 @@ benchmarks:
       valid: 998
       avg_seconds_per_sample: 0.66
   source: evaluated
+- model: Qlerqly/griot-edge
+  model_url: https://huggingface.co/Qlerqly/griot-edge
+  owner: Qlerqly
+  model_class: non-llm
+  params: 0.1B
+  wer: 0.5752
+  cer: 0.3819
+  score: 0.3819
+  per_category:
+    bible:
+      wer: 0.2978
+      cer: 0.119
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.03
+    finance:
+      wer: 0.0669
+      cer: 0.0316
+      samples: 1000
+      valid: 998
+      avg_seconds_per_sample: 0.02
+    jw:
+      wer: 0.9956
+      cer: 0.5979
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.03
+    lds:
+      wer: 0.9404
+      cer: 0.7789
+      samples: 1000
+      valid: 999
+      avg_seconds_per_sample: 0.03
+  source: evaluated
 - model: facebook/sherpa-onnx-omniASR-CTC-300M-v1
   model_url: https://huggingface.co/csukuangfj/sherpa-onnx-omnilingual-asr-1600-languages-300M-ctc-2025-11-12
   owner: facebook
@@ -176,6 +177,79 @@ benchmarks:
       cer: 0.4571
       samples: 1000
       valid: 989
+      avg_seconds_per_sample: 0.54
+  source: evaluated
+- model: google/gemma-4-12B-it-nothink
+  model_url: https://huggingface.co/google/gemma-4-12B-it
+  owner: google
+  model_class: llm
+  params: 11.96B
+  score: 1.1628
+  runtime: local-gpu
+  thinking: nothink
+  wer: 1.4533
+  cer: 1.1628
+  per_category:
+    bible:
+      wer: 1.569
+      cer: 1.1751
+      samples: 1000
+      valid: 799
+      avg_seconds_per_sample: 1.99
+      no_answer: 201
+    finance:
+      wer: 1.22
+      cer: 0.8579
+      samples: 1000
+      valid: 961
+      avg_seconds_per_sample: 0.46
+      no_answer: 39
+    jw:
+      wer: 1.4315
+      cer: 1.2806
+      samples: 1000
+      valid: 950
+      avg_seconds_per_sample: 1.56
+      no_answer: 50
+    lds:
+      wer: 1.5927
+      cer: 1.3377
+      samples: 1000
+      valid: 744
+      avg_seconds_per_sample: 1.82
+      no_answer: 256
+  source: evaluated
+- model: facebook/omniASR-LLM-7B-v2
+  model_url: https://github.com/facebookresearch/omnilingual-asr
+  owner: facebook
+  model_class: llm
+  params: 7B
+  wer: 0.6621
+  cer: 0.3678
+  per_category:
+    bible:
+      wer: 0.3537
+      cer: 0.1004
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.57
+    finance:
+      wer: 1.0387
+      cer: 0.5661
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.3
+    jw:
+      wer: 0.5983
+      cer: 0.4119
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.56
+    lds:
+      wer: 0.6578
+      cer: 0.3928
+      samples: 1000
+      valid: 1000
       avg_seconds_per_sample: 0.54
   source: evaluated
 - model: google/gemini-3.5-transcribe
@@ -250,44 +324,4 @@ benchmarks:
       samples: 1000
       valid: 1000
       avg_seconds_per_sample: 0.88
-  source: evaluated
-- model: google/gemma-4-12B-it-nothink
-  model_url: https://huggingface.co/google/gemma-4-12B-it
-  owner: google
-  model_class: llm
-  params: 11.96B
-  score: 1.1628
-  runtime: local-gpu
-  thinking: nothink
-  wer: 1.4533
-  cer: 1.1628
-  per_category:
-    bible:
-      wer: 1.569
-      cer: 1.1751
-      samples: 1000
-      valid: 799
-      avg_seconds_per_sample: 1.99
-      no_answer: 201
-    finance:
-      wer: 1.22
-      cer: 0.8579
-      samples: 1000
-      valid: 961
-      avg_seconds_per_sample: 0.46
-      no_answer: 39
-    jw:
-      wer: 1.4315
-      cer: 1.2806
-      samples: 1000
-      valid: 950
-      avg_seconds_per_sample: 1.56
-      no_answer: 50
-    lds:
-      wer: 1.5927
-      cer: 1.3377
-      samples: 1000
-      valid: 744
-      avg_seconds_per_sample: 1.82
-      no_answer: 256
   source: evaluated

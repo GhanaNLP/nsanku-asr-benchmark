@@ -5,6 +5,28 @@ categories:
 - bible
 - finance
 benchmarks:
+- model: Qlerqly/griot-edge
+  model_url: https://huggingface.co/Qlerqly/griot-edge
+  owner: Qlerqly
+  model_class: non-llm
+  params: 0.1B
+  wer: 0.2472
+  cer: 0.1327
+  score: 0.1327
+  per_category:
+    bible:
+      wer: 0.3467
+      cer: 0.2004
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.05
+    finance:
+      wer: 0.1477
+      cer: 0.065
+      samples: 1000
+      valid: 982
+      avg_seconds_per_sample: 0.02
+  source: evaluated
 - model: Qlerqly/griot-nano-1
   model_url: https://huggingface.co/Qlerqly/griot-nano-1
   owner: Qlerqly
@@ -73,27 +95,6 @@ benchmarks:
       avg_seconds_per_sample: 0.04
   source: evaluated
   evaluated_at: '2026-08-14'
-- model: facebook/omniASR-LLM-7B-v2
-  model_url: https://github.com/facebookresearch/omnilingual-asr
-  owner: facebook
-  model_class: llm
-  params: 7B
-  wer: 0.6529
-  cer: 0.3375
-  per_category:
-    bible:
-      wer: 0.4146
-      cer: 0.2725
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.48
-    finance:
-      wer: 0.8912
-      cer: 0.4025
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.31
-  source: evaluated
 - model: facebook/sherpa-onnx-omniASR-CTC-300M-v2
   model_url: https://huggingface.co/michsethowusu/sherpa-onnx-omnilingual-asr-1600-languages-ctc-v2
   owner: facebook
@@ -161,51 +162,6 @@ benchmarks:
       avg_seconds_per_sample: 0.01
   source: evaluated
   evaluated_at: '2026-08-14'
-- model: google/gemini-3.5-transcribe
-  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
-  owner: google
-  model_class: llm
-  params: API
-  language_code_hint: twi
-  wer: 0.8853
-  cer: 0.4518
-  per_category:
-    bible:
-      wer: 0.923
-      cer: 0.5218
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.2
-    finance:
-      wer: 0.8476
-      cer: 0.3818
-      samples: 1000
-      valid: 981
-      avg_seconds_per_sample: 0.21
-      failures:
-        TypeError: 76
-  source: evaluated
-- model: google/gemini-3.6-flash
-  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.6-flash
-  owner: google
-  model_class: llm
-  params: API
-  wer: 0.884
-  cer: 0.5111
-  per_category:
-    bible:
-      wer: 0.8843
-      cer: 0.5395
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.9
-    finance:
-      wer: 0.8836
-      cer: 0.4828
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.6
-  source: evaluated
 - model: Sunbird/asr-whisper-51-african-languages
   model_url: https://huggingface.co/Sunbird/asr-whisper-51-african-languages
   owner: Sunbird
@@ -389,3 +345,69 @@ benchmarks:
       avg_seconds_per_sample: 0.07
   source: evaluated
   evaluated_at: '2026-08-14'
+- model: facebook/omniASR-LLM-7B-v2
+  model_url: https://github.com/facebookresearch/omnilingual-asr
+  owner: facebook
+  model_class: llm
+  params: 7B
+  wer: 0.6529
+  cer: 0.3375
+  per_category:
+    bible:
+      wer: 0.4146
+      cer: 0.2725
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.48
+    finance:
+      wer: 0.8912
+      cer: 0.4025
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.31
+  source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: twi
+  wer: 0.8853
+  cer: 0.4518
+  per_category:
+    bible:
+      wer: 0.923
+      cer: 0.5218
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.2
+    finance:
+      wer: 0.8476
+      cer: 0.3818
+      samples: 1000
+      valid: 981
+      avg_seconds_per_sample: 0.21
+      failures:
+        TypeError: 76
+  source: evaluated
+- model: google/gemini-3.6-flash
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.6-flash
+  owner: google
+  model_class: llm
+  params: API
+  wer: 0.884
+  cer: 0.5111
+  per_category:
+    bible:
+      wer: 0.8843
+      cer: 0.5395
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.9
+    finance:
+      wer: 0.8836
+      cer: 0.4828
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.6
+  source: evaluated

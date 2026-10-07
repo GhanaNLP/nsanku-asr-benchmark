@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,Ɔtoo nsa frɛɛ nkorɔfoɔ no sɛ wɔmmra mma wɔmfa wɔn nsa nhyɛ Ne nkyɛn na wɔnte nnadewa a ɛwɔ Ne nsa ne Ne nan mu no ntwerɛwee nka.,Ɔtoo nsa frɛɛ nkorɔfoɔ no sɛ wɔmmra na wɔmfa wɔn nsa nhyɛ ne nkyɛn ne ne mfe ne ne nnam na bea a wɔde bɔɔ no.,0.5,0.35
+1,na wɔnim [Warden Duffy] pa ara ɛnam ne mmɔdemmɔ sɛ ɔboa nnipa a wɔwɔ n’afiase hɔ ma wɔnya asetena pa.,na ɔnim hwɛfoɔ afi pananmɔdempɔ sɛ ɔbaa foforɔ mu na setena pa,0.85,0.5256
+2,"nneɛma a yɛyi,",ɛyɛ ma ho nhia yi a yɛbɛtumi asua wɔ saa Asetena,3.3333,2.9091
+3,"na ɛtɔ da a ɔdi awerɛhoɔ nya atenka sɛ ɔyɛ ankonam a ɔnni asɛmmisa,","na ɛtɔ da bi a ɔdi awerɛhoɔ te nka sɛ yankwan a ɔnni asɛmmisa,",0.3571,0.2075
+4,"sɛ yɛhyɛn ɔkwan teateaa ne teateaa a ɛde yɛn bɛsan akɔ Ɔsoro Agya anim no a,",bɛnantee kwan no so na ɛde yɛn akɔ ɔsoro Agya no,0.625,0.5167
+5,ɔsom wɔ Asɔre no mu sɛ pɛɛwa agyinatukuo kɛseɛ ba.,Ɔsoma asɔrempan,1.0,0.675
+6,M’agya nam Twerɛsɛm ne atenka hodoɔ a ɔkaa ho asɛm no so boaa me ma mede gyidie fapem a ɛyɛ den sii hɔ wɔ Awurade Yesu Kristo mu.,mɛgya nam twerɛsɛm ne atenka hodoɔ a ɔkaa ho asɛm no so boa me ma me gyedie fapem a ɛdi si awurade Yesu Kristo so.,0.3571,0.16
+7,"Amansan SodifoɔAduɔson a wɔdidi soɔ yi wɔbɛma wɔn agye wɔn ahome na wɔama wɔn emeritus dibea,",Amansan sodifoɔ dɔso a wɔdidi soɔ yi wɔbɛma wɔn agye wɔn ahome na wɔama wɔn merits dibea,0.1875,0.0649
+8,Nsakraeɛ a aba Mpɔtam Aduɔsonfoɔ mu Wɔgyee Mpɔtam Aduɔsonfoɔ a wɔdidi soɔ yi too mu wɔ akannifoɔ nhyiamu bi a wɔyɛeɛ sɛ amansan nhyiamu fa bi:,"Ɛfiri Ɔsanaa,",1.0,0.9138
+9,yɛsua no pefee sɛ yɛn Soro Agya no akyerɛ saa nkyerɛkyerɛ a ɛsomboɔ yi fiti mfitiaseɛ ankasa.,yɛyi anaa yɛyɛ,1.0,0.8553
+10,na saa kuo yi hyiaa nsɛmdennden pii.,araban,1.0,0.8621
+11,mede m’ahoɔden nyinaa pia sɛdeɛ ɛbɛyɛ a mframa rensa wɔ sankuo no mu.,mede mahoɔden nyinaa pia sɛdeɛ ɛbɛyɛ a mframa de bɔ sankuo no mu.,0.1538,0.0909
+12,a ɔhyɛ atadeɛ a ɔde da na ɔkuta Mormon Nwoma Abasɛm.,a ɔhyɛ atadeɛ a ɔde da na ɔkuta mommoma abasam,0.2727,0.1463
+13,"Berɛ a na ɔrekɔ sukuu wɔ asraafoɔ atenaeɛ bi wɔ Germany no,",berɛ biara na etɔna,0.8333,0.7447
+14,baabi a mekae yie a na mekɔ Yesu Kristo Asɔre no sakramɛmte nhyiamu berɛ a na meyɛ abɔfra no.,Baabi a na wasi yɛsu Kristo yɛ kɔ Mitanim na meyɛ abɔfra no.,0.5789,0.5
+15,"na yɛbɔ mmɔden sɛ yɛbɛyɛ Yesu Kristo asuafoɔ mmapa a,",wɔhyɛ yɛbɔ ho mmɔden mɔ.,0.9,0.8372
+16,tete ne ɛnnɛ yi deɛ no nyinaa.,Tete andena.,0.8571,0.6087
+17,na saa onuabaa yi nyaa mfeɛ  kaa ho tenaa ase sɛ okunafoɔ.,asaana yi nya mfeen asese okunafoɔ.,0.8333,0.3778
+18,Ɔkyerɛɛ mu sɛ na ɔnnya nhyira a na ɔrehwɛ anim afiri asɔre a asane aba bio no mu.,kyerɛɛ mu sɛ na onyan nhyira na ɔrehwɛ anim afiri asɔre a asane aba bio no mu.,0.1667,0.0794
+19,wobɛyɛ dɛn atumi ada wɔ berɛ a ɛte sɛɛ mu?,Wobɛdane atumi ada berɛte sɛ mu.,0.7,0.2812
+20,"yɛrebɔ mmɔden—ɛwɔ mu sɛ yɛnwie pɛ yɛ—sɛ yɛbɛyɛ nnamfonom,","Yɛrebɔ mmɔden wɔ mu sɛ yɛnni pɛyɛ sɛ ɛbɛyɛ namfonom,",0.7778,0.1087
+21,amen.,amen.,0.0,0.0
+22,“Mese mo sɛ monyɛ baako;,mese mo sɛ monyɛ baa,0.2,0.1111
+23,yɛhwehwɛ mmoa firi fibea afoforɔ sɛ ɛbɛboa yɛn.,ahwehwɛ nimdeɛ afiri bafoɔm.,1.0,0.641
+24,na ɛfata ahene mu Hene ne Asomdwoeɛ Hene no.,nokorɛdie ho no.,0.8889,0.8286
+25,nnipa bɛtumi asua Yesu Kristo ho asɛm wɔ honhom wiase.,nsa etumi asɛ Yesu Kristo ho asɛm honhom wiase.,0.4,0.2045
+26,Na wakɔsra honhom wiase no na wahyehyɛ asɛmpa no asɛnka wɔ hɔ.,na wɔkɔsraa hom wiase na wahyehyɛ asɛmpa no asɛm hɔ,0.4167,0.22
+27,yɛn abrabɔ bɛyɛ yɛn Gyefoɔ ne Ne din ho adanseɛ a ɛte aseɛ.,yɛn abrabɔ bɛyɛ yɛn gyefoɔ ne ne din ho adanseɛ a ɛte aseɛ.,0.0,0.0
+28,amen.,Amen.,0.0,0.0
+29,"Moroni hyɛ bɔ sɛ sɛ yɛkenkan Mormon Nwoma no na afei yɛbisa Onyankopɔn Daa Agya no,",More nansɛ bɔ sɛ yɛkenkan mɔnom no na afei yɛbisa Onyankopɔn ada agya no.,0.375,0.2239
+30,Nkrasɛm biara nni hɔ a anidasoɔ ahyɛ mu ma.,.,1.0,1.0
+31,ɛhia sɛ meboa bishop no.,ɛhia sɛ meboa bishop no.,0.0,0.0
+32,Ɔmaa kwan sɛ yɛbɛgyai aweretɔ akoma no.,ma yɛn kwan sɛ bɛgyae aweretɔ akoma mu,0.5714,0.2812
+33,Yɛyɛ nea yɛahu ne nea yɛate nyinaa ho twerɛtohɔ.,Yei ne yɛ hunu ne nea yɛte nyinaa ho twerɛtoɔ eyɛ adansefoɔ ɛdi adanseɛ na sadata,1.3333,0.9744
+34,"Wɔ m’ankasa m’adwumayɛ suahunu ne Asɔre som adwuma mu no,",adwumayɛ,1.0,0.8222
+35,"Mo nsiyɛ ne honhom mu ahoɔden no yɛ me nwanwa wɔ yareɛ,",wɔn suɛ ne honhom ahoɔden yareɛ.,0.6667,0.4651
+36,ne mmɔdemmɔ a wɔde ma honhom ne honam mu nneɛma a ɛhia ma yɛn ankasa ne abusua asetena.,ne mmɔdemmɔ a honhom fam no honam fam no hia yɛ wɔsuman boawatena.,0.7778,0.5072
+37,– yɛkenkan sɛ:,",",1.0,1.0
+38,na mene wɔn ntam atenka nyɛɛ te sɛ deɛ ɛteɛ seesei da.,"Na wɔtaa,",0.9167,0.8333
+39,na ama yɛn mu biara atu anammɔn sɛnea Asuafoɔ no yɛeɛ no.,na ma yɛn mu biara atu anamɔn sɛ nasuafoɔ,0.5833,0.2667
+40,"Yɛde anidie ma sɛ yɛwɔ asase so berɛ a Asɔre no renyini wɔ dodoɔyɛ mu ne nkɛntɛnsoɔ mu,",Yɛde anidie ma sɛ yɛwɔ asase so berɛ a asɔre no nyini wɔ dodoɔ yɛ mu ne nkɛntɛnsoɔ mu.,0.1667,0.029
+41,"na mehunu mpoma bi a wɔde ahwehwɛ ayɛ a ɛyɛ nwanwa,",me hunu sɛ mpoma bi a ɔde awewa ɛyɛ nwanwa,0.6364,0.275
+42,Wɔn a wɔpɛ sɛ wɔne yɛn bom da saa anuanom yi ne wɔn mmusua ase wɔ som pa a wɔdaa no adie no bɛtumi akyerɛ.,wɔn a wɔpɛ sɛ wɔne yɛn bom de saa ne onyame ne wɔn mmusua asaase so ɛbɛtumi akyerɛ.,0.52,0.3333
+43,"Berɛ a yɛbɔ mmɔden sɛ yɛbɛbɔ yɛn bra ma ɛne Yesu Kristo asɛmpa no ahyia no,",Berɛ a ɛbɛbɔ mmɔden sɛ ɛbɛbɔ rama ne Yesu Kristo asɛmpa no hyia no.,0.4375,0.1525
+44,Nanso masua sɛ menyɛ ankonam wɔ saa atenka yi mu.,menyaa atenka no seesei a me ne mo kasa sɛ menyasena mu.,1.1,0.7949
+45,"Yɛaboa yɛn ano saa Homeda anɔpa fɛɛfɛ yi sɛ yɛrekasa afa Kristo ho,",yɛaboa no saa homeda no pa fefe sɛ yɛkasa fa Kristo ho.,0.5385,0.2593
+46,mmɔborohunu ahyɛ me ma.,moboro ma monyaa,1.0,0.6316
+47,Ɔdɔ a yɛwɔ ma yɛn mma no mu biara yɛ krogyee na ɛma abotɔyam na ɛdi mu.,Ɔdɔ a yɛwɔ ma yɛn mma no mu biara yɛ krogyee na ɛma abotɔyam a yɛdi mu.,0.1176,0.037
+48,"yɛhunuu yɛn sukuu pɔn mu nnamfoɔ ne asɛmpatrɛfoɔ ayɔnkofoɔ a wɔafiri mu anaasɛ,",Yɛhunuu wɔn nsuku pɔn mu nam foɔ ne asɛmpatrɛfoɔ ayɔnkofoɔ a wofiri mu anaa sɛ,0.5385,0.1061
+49,ɛbɛtumi awie dabɔne ama wo.,bɛtumi apia afiri kwan a ɛsɛ sɛ wo,1.4,0.7273
+50,na yɛtumi nya aduane firi Rahma ne Nna a ɛdi Akyire Ahotefoɔ [Adɔeɛkuo] gyaade.,na yɛtumi nya aduane firi Rama na na ɛdi akyia tefoɔ adɔ gyaade.,0.5,0.2063
+51,"”  Ɛmfa ho ne ɔsoro mmoa nwanwasoɔ,",Ieans,1.0,0.8462
+52,Dima aforebɔ no ne Yesu Kristo Wusɔreɛ no sesaa yɛn mu biara abrabɔ afebɔɔ.,amanehunufoɔ.,1.0,0.8525
+53,Wɔn a wɔpɛ sɛ wɔkyerɛ anisɔ wɔ som pa a anuanom yi ne wɔn yerenom ne mmusua wɔmfeɛ a wɔasom afa wiase mu no mma wɔn nsa so.,Wɔn a wɔpene so wɔ kyerɛ anisɔ wɔ som pa a nuanom yi de wɔn yerenom ne mmusua a wɔasom afa wiase mu no mma wɔn nsa so.,0.25,0.1263
+54,ne wɔn adwene a wɔwɔ ɔpɛ sɛ Yesu ne Kristo no ampa.,ne wɔn adwene a wɔwɔ ɔpɛ sɛ Yesu ne Kristo no ampa.,0.0,0.0
+55,Mmɔborɔhunu ne anigyeɛ baa Alma so ɛfiri sɛ ɔne n’agya de wɔn adwene sii Agyenkwa no so.,Mmɔborɔhunu ne anigyeɛ a mahwehwɛ no baa ne nkyɛn ɛfiri sɛ na ɔgyina dwene si Kristo so,0.7647,0.5286
+56,"Ɔnyaa haw bebree n’apɔmuden mu na ɛnam ne nkwadaa berɛ mu nkwanhyia bi wɔ agodibea nti,","nya ho bebree n'apɔmuden mu na ɛnam ne nkwadaabrɛ mu akwanhyia bi a wɔ agodibea nti,",0.375,0.1
+57,wɔde onuabaa bi a wanyini wɔ me ward mu maa me sɛ memma no efie nkyerɛkyerɛ.,wɔde onuabaa bi a wanyini wɔ mewɔa mesan finkyerɛkyerɛ.,0.625,0.25
+58,na mmom meda so ara kae ne nne nnyegyeɛ ne honhom mu atenka a na mewɔ bere a ɔkaa ho asɛm no.,moansane na ɔde,0.9545,0.8592
+59,Moyɛ Yesu Kristo asuafoɔ.,"Moyɛ Yesu Kristo asuafoɔ,",0.0,0.0
+60,too nsa frɛɛ me sɛ me ne n’abusua mmedi mmerɛ kakra wɔ nenkyɛn wɔ United States mu.,safarme,1.0,0.9077
+61,"Nkɔmhyɛ fa kuro no mu wura baae a ɛnkyɛreeɛ no,",a,0.9,0.973
+62,Wɔn a wɔmpene so nkyerɛ.,Wɔn a wɔmpene so nkyerɛ.,0.0,0.0
+63,"berɛ a yɛtenaa lɔɔre mu akɔ fie no,",berɛ a gadeni Mosene anim.,0.75,0.6296
+64,Agyenkwa no mmuaeɛ a ɔde maa Nifaefoɔ no ka akoma na ɛkyerɛkyerɛ.,Agyenkwa no mmaeɛ a ɔde maa nifa foɔ no ka akoma na ɛkyerɛkyerɛ.,0.25,0.0377
+65,"“Ɛno nti,",",",1.0,1.0
+66,"ne Asɔre no agyapadeɛ wɔ afe  mu no,",no,0.875,0.9259
+67,"” Afei,",""".",1.0,1.0
+68,"wiemhyɛn agyinaeɛ,",a wɔnwene namfofo,1.5,0.875
+69,yɛkae Nephi sɛ na ɔyɛ nokwafoɔ ne akoa pa ma Awurade no.,yɛkae no sɛ Awurade no somfoɔ no kɔfoɔ nanso,0.8333,0.6364
+70,"Damon ka kyerɛɛ ne sɔfo panin sɛ,",Dama a,1.0,0.8077
+71,Yɛwɔ anidasoɔ sɛ mobɛtumi ate yɛn nokorɛ adansedie nka.,Yɛwɔ anidasoɔ sɛ mobɛtumi ate yɛn nokorɛ adansedie nka.,0.0,0.0
+72,Yɛama Elders Weatherford T.,yɛlo.,1.0,0.8261
+73,"medi m’ankasa adanseɛ sɛ,",adwene,1.0,0.85
+74,"ne Ne Ba,","wabɔn,",1.0,1.0
+75,Saa suahunu ahodoɔ a ɛtoatoa so yi maa Nephi nyaa Onyankopɔn mu ahotosoɔ a ɛmu yɛ den maa adwumaden kɛseɛ a na ɛda n’anim sɛ ɔbɛyɛ suhyɛn no.,Saa suahunu ahodoɔ toatoaso ma ne fa na,0.8571,0.7232
+76,Wɔn mu biara wɔ deɛ nti a ɔsusu sɛ ɔno ne papa no.,wɔn mu biara ne wɔ dentists no ne papa no.,0.5385,0.2703
+77,mpo berɛ a wɔasom aboro so anaa wɔannsom annwie ɛnam yareɛ a atu atese no nti.,Mpoano,1.0,0.9032
+78,sɛ ayɛ sɛ daa yɛte awerɛhosɛm a ɛrebufa yɛn so no.,sɛ ayɛ sɛ daa yɛbɛtwemu fa yɛn so no.,0.3636,0.359
+79,"Agyenkwa no srɛɛe de agyidifoɔ nyinaa kaa ho “Na ɛnyɛ yeinom nkotoo nti na mesrɛ,",aaada.,1.0,0.9231
+80,Ɔgyee saa bɔne no.,"Ɔkaa sɛ,",1.0,0.7857
+81,"Agyinatukuo a wɔhwɛ Ntotosoɔ dudu Tebea so—a ɛyɛ Titenafoɔ a Wɔdi Kan,",Agyinatukuo a wɔhwɛ ntotosoɔ dudu tebea so ayɛ ɛyɛ titenafoɔ a wɔdi kan.,0.1667,0.0351
+82,"mehunuui sɛ yɛn babaa Michelle a wadi mfeɛ num no agya me nkrasɛm bi,",Mehunu sɛ yɛn babaa misaaa me nkransɛm b,0.7143,0.4545
+83,Ɛbinom yɛ mfomsoɔ gye nkransɛm no sɛ adwenesakyera yɛ dakoro adeɛ.,ebinom genefonsɔ kwan sesɛ adwensakyera yɛda koraa deɛ.,1.0,0.3273
+84,yɛn adidi kronkron ne nhyiamu afoforɔ twe adwene si Yesu Kristo so.,yɛn adidie kronkron ne nhyɛma ofoɔ ahyɛ adwene si escristo so.,0.5,0.2364
+85,” Sɛdeɛ Lehi kyerɛkyerɛɛ ne babarima Jacob:,a,1.0,0.9714
+86,"ako no ho mframa piaa Japan asraafoɔ no kɔɔ Okinawa mpoano,","apono ho faa gyaasɛ afoɔ no kɔɔ Okinawa mpoano,",0.5455,0.2917
+87,"Wɔsus sɛ yɛtae deɛ wɔdidi soɔ yi sɛ Relif Sosiety Atitenafoɔ foforɔ,",Wɔsusu sɛ yɛgye wɔn a wɔdidi soɔ ntum sɛ mmakoma santitenafoɔ foforɔ.,0.6667,0.4107
+88,ɛyɛɛ nkabom too me ne asɛmpatrɛfoɔ ntam wɔ berɛ a mehyiaa wɔn no.,ɛde nkabom kɛseɛ a me ne asɛmpatrɛfoɔ no ma,0.7692,0.5577
+89,"berɛ a wɔgyee me too mu wɔ me frɛ foforɔ sɛ Aduɔson Kuo ba no,","Berɛ a wɔgye me tu mu wɔ me frɛfoforɔ sɛ aduɔson baako no,",0.4,0.1702
+90,yareeɛ berɛ a yɛresom ahotefoɔ a wɔate wɔn ho wɔ Europe Apueɛ Mpɔtam.,yɛrebɛsom ahotefoɔ a wɔate wɔn ho wɔ soro.,0.5385,0.4464
+91,"Ɔwiee ntoasoɔ sukuu no na ɔkɔsomm berɛ hyɛ ma asɛmpatrɛ dwuma no wɔ Ghana Cape Coast asɛmpatrɛbea,","Owie ntoaso sukuu no kɔkɔɔsoɔ aspata gyumadie mu wɔ Ghana Cipost, mesesaa a.",0.7647,0.5185
+92,“Onyankopɔn pɛ sɛ woware ansa na woawo mma.,aane,1.0,0.9118
+93,Mekae sɛ yɛ firii yɛn fɛfoɔ a wɔn wɔ yɛn gyinapɛn no hɔ kɔɔ beaeɛ bi a ɛbɛn agodibea hɔ.,"ntumi me ho ne nkaatia,",1.0,0.8676
+94,Ɔkaa sɛ:,a,1.0,0.8333
+95,"Wɔ saa abasɛm yi mu,",wɔn nyinaa kɔɔ asomdwoeɛ mu.,0.8,0.9333
+96,na Nigeriafo bɔɔ wɔn asu sɛ “Adaeɛso Kuo.,adeɛ,1.0,0.875
+97,"ɔmfa nhwɛsoɔ mma Ne mma nkaeɛ no sɛ wɔnni so,",ɔmfa nhwɛsoɔ mma ne mma nkaeɛ no sɛ nnisoɔ,0.2,0.0857
+98,Mede ahobraseɛ di Onyankopɔn Ba ne Ne nyamesu ho adanseɛ.,Mede ahobraseɛ di Onyankopɔn Ba no enenamsom o.,0.5,0.2553
+99,amen.,Amen.,0.0,0.0
+100,"Bosome mmiɛnsa awerɛhoɔ mu wɔ ,","Mfiriaseɛ mɔ,",1.0,0.72
+101,"Wontɔ sini sɛ wo sombo anaa mfasoɔ anaa wɔdɔ wo mu sɛ onipa,",Wɔnto sini sɛ wɔsom bɔ anaa mfasoɔ anaa wɔdɔ wɔn sɛ nnipa,0.4615,0.1702
+102,"ɔkwan so basabasayɛ,",twɛn ho firi kwan,1.3333,0.7647
+103,na m’asubɔ akyiri no me bɛyɛɛ Yesu Kristo Osuani.,"emasɛi,",1.0,0.8718
+104,” Titenani Russell M.,"Kae,",1.0,0.875
+105,"ɛyɛ kwa,",ɛfa,1.0,0.6667
+106,Asɔremmaa yɛɛ rɔba bi tɔnee a wɔfrɛ no Japanese Saints Sing.,asɔre ma yɛ sɛ wɔyɛ woɔbaa no yaanisi sen.,0.9091,0.5714
+107,“Dɛn na ɛwɔ aberanteɛ yi ho?,Deɛn na ɛwɔ aberanteɛ yi ho?,0.1667,0.0476
+108,"Na me mpaebɔ no anoyie yɛɛ pefee,",",",1.0,1.0
+109,Ɛnnɛ mɛpɛ sɛ mɛhyɛ aseɛ afiri adanseɛ a akyinnyeɛ nni ho wɔ m’akoma mu sɛ Onyankopɔn te yɛn mpaebɔ na ɔbua wɔ ɔkwan a ɛfa ankorankoro ho so.,Ɛneɛ sɛ mehyɛ aseɛ firi adanseɛ a ɛkyere ne ho wɔ m'akoma mu sɛ nankoɔ teɛ mpaebɔ na ɔbua wɔ kwan a ɛfa akwakora so n,0.4643,0.2703
+110,Ɔpɛ deɛ ɛyɛ papa ma yɛn.,Ɔpɛ deɛ ɛyɛ papa yɛ,0.3333,0.1667
+111,efie bi a ɛwɔ kuro no agya a ɛmmɛn kuro mu.,efie bi a ɛwɔ kuro no agya me ko.,0.3636,0.2812
+112,nanso na ne hwɛbea yɛ anigyeɛ ne animuonyam ne anisɔ suban.,nanso nhwɛbea yɛ anigyeɛ ne animuonyam ne anisɔ so ban.,0.4545,0.0833
+113,anaa asosifoɔ anaa nea ɔwɔ ɔhaw wɔ ɔkwan biara so?,anaa na wɔtaa atɔ baha sofoɔ anaa nea ɔwɔ ɔhaw wɔ kwan biara so.,0.6,0.375
+114,Wɔbɔɔ no soboɔ sɛ n’amanehunu nyinaa firi sɛ wayɛ n’adwene sɛ ɔbɛdɔm Kristofoɔ asɔre.,Wɔbɔɔ no so woasamanunu nyinaa firi sɛ wayɛ n'adwene sɛ ɔbɛdɔm Kristofoɔ asɔre.,0.2143,0.087
+115,Wɔagyae Mpɔtam Aduɔsonfoɔ a wɔdidi soɔ yi afiri wɔn nnwuma mu:,Wɔgyaa mpatam Aduɔsonfoɔ wɔdidisoɔ yi afiri wɔn nnim mu.,0.5455,0.1373
+116,na ɛyɛɛ me sɛ manyini na me ho akokwa a mɛtumi adi wɔn akyi.,na ɛyɛ me sɛ manyini akɔka metumi adi wɔ akyi.,0.5714,0.2609
+117,Megye tom sɛ ɛyɛ awerɛho sɛ mahunu sɛ saa dan a medɔ firi me mmɔfrase yi yɛ nkaeɛ kɛkɛ seesei.,ɛgyesɛ sɛ manamey abɔfra no mebunu sɛ yɛ dan kɛkɛ,0.8,0.6757
+118,Nkrasɛm foforɔ biara ntumi nyi aperedie mfiri yɛn aman mu.,Nkrasɛm foforɔ biara ntumi nyi aperedie mfiri yɛn ananmu.,0.2,0.0208
+119,"wɔhunuu nsɛmmɔnedie pii a wɔayɛ atia nnipa a wɔn mfeɛ akɔ anim a wɔte hɔ no te sɛ gyae a wɔgyaee wɔn,",a,0.9545,0.9873
+120,Mede ahwɛyie faa Jarom;,maa.,1.0,0.8421
+121,Deɛ na ɛyɛ nokorɛ wɔ Alma nna no mu no yɛ nokorɛ a akyinnyeɛ nni ho ma yɛn:,deɛn na ɛyɛ nokorɛ wɔ ama nanim no yɛ nokorɛ wɔ yɛn brɛ,0.6111,0.3684
+122,Awurade hyiraa me maa me hunuu sɛ “wɔ N’ahoɔden mu mɛtumi ayɛ nneɛma nyinaa .,Awurade hyira me ma me hunu sɛ wɔ nahoɔden mu na metumi ayɛ nneɛma ni nyina.,0.5,0.15
+123,Medi adanseɛ kann fa Agyenkwa kronkronyɛ ne nokorɛyɛ fa Ne Mpata no ho.,Medi adanseɛ kann fa Agyenkwa kronkronyɛ no.,0.4615,0.3621
+124,"Nkekaawa a ɛwɔ ɔwofoɔ ne abɔfra ayɔnkofa ntam no so te berɛ a wɔde wɔn adwene si ɔdɔ so Ɛduru baabi a,",kaka wɔ a ɛwɔ awofoɔ ne abɔfra ayɔnkofa ntam no te sɛ berɛ a woretwa adwensɔ,0.6364,0.3875
+125,"Onyankopɔn wɔ ɔdɔ mu hyɛ yɛn bɔ [sɛ] ɛmfa ho ne dea yɛayɛ ne baabi a yɛ wɔ,",Onyankopɔn wɔ dumu hyɛ yɛn bɔ sɛ mfa ho ne deɛ yɛayɛ ne baabi a yɛwɔ yɛbɛtumi asan yɛ,0.4444,0.3273
+126,Na ɛyɛ den sɛ wobɛhu aberanteɛ nwanwasoɔ a ɔnnyiniiɛ sei sɛ ɔrehu amane na ɔrebɔ bra a ɛnsɛ ɔno!,na nani anyarewa no.,0.9474,0.8182
+127,ɔrenyini nanso na ne gyedie so a na ɛyɛ nkuranhyɛ ma wɔn a wɔnim no nyinaa.,onini nanso ne gyidie sua na ɛyɛ nkuranhyɛ ma obiara a ɔnim,0.5625,0.3729
+128,"Ɔgyaee awareɛ berɛ a wadi mfeɛ  a ɔwɔ nkwadaa nketewa nan sɛ ɔhwɛ wɔn na ɔma wɔn ahiadeɛ,","Ogya weba wɔde mfeɛ tata wɔ kwadanketewa nan a ɔsɔɔhwɛ wɔn ma wɔn ahiadeɛ,",0.7222,0.3286
+129,amen.,ame.,1.0,0.25
+130,"Wɔ ako a na asɔre mu te sɛ Midway ne Iwo Jima,",wɔkoo asɔre mu te sɛ medwene wo yem.,0.6667,0.3235
+131,Wɔnim yɛn sɛ Yesu Kristo asuafoɔ.,wɔ asɔre mu na akoma ne wɔn asetena mu soɔ,1.6667,0.9259
+132,"“Ɛnna Dawid gyee deɛ ɔde brɛɛ no no ne nsam,",Ɛnna Dawid agyedeɛ Abiadi,0.8,0.5455
+133,mpo te sɛ deɛ na yɛwɔ Galilea bepɔ no so berɛ a ɔhyɛɛ aseɛ kaeɛ no.,mpo te sɛ deɛ yɛwɔ lendy bepɔ so na berɛ a yɛrehyɛ aseɛ ka no.,0.375,0.3529
+134,"Seesei stake ,","Seesei sei, 5.",1.0,0.3636
+135,"biribiara sesa—yɛn abusuabɔ,",ho,1.0,1.0
+136,yɛkae akwanya ayɛne mo hyiam wɔ asafo akɛseɛ ne nketewa mu.,yɛkae akwanya a ɛwɔ sɛ yɛne mo hyiam wɔ asafo akɛseɛ ne nketewa mu.,0.3636,0.1042
+137,kɔsii berɛ a kuromfoɔ no bɛka kyerɛɛ wɔn sɛ ɔko no aba awieeɛ.,Kwasi brankɔno bɛka kyerɛ wɔn sɛ ɔko no aba awieeɛ.,0.4615,0.2653
+138,"berɛ a na yɛresom wɔ mpasua korɔ no ara mu no,","me kakra bi akyi berɛ a yɛresom wɔ mpasua korɔ so no,",0.7273,0.5714
+139,"ne nkwagyeɛ nhyehyɛeɛ de ma obiara,",ne nkwagyeɛ hyehyee ma obiara.,0.3333,0.1379
+140,Wo bɛpɛ ahunu nwoma no din kaekae.,wobɛpɛ sɛ wobɛhunu nhoma no din a kae.,0.8571,0.3333
+141,me ne m’abusua a medɔ wɔn no faa esum nna bi mu.,Me ne m'abusua a medɔ wɔn no faa ahum na bi mu.,0.1667,0.0857
+142,Mpɔtam Aduɔsonfoɔ ne Amansa Asomfoɔ a wɔwɔ Asɔre no mu bɛkyerɛ ma moagye wɔn atom.,npotɛmu Aduɔsonfoɔ ne Amansan Asomfoɔ a wɔwɔ Asɔre no mu bɛkyerɛ ma moagye wɔn to.,0.2,0.1045
+143,"Duncan sɛ Aduɔson the Atitenafoɔ no baako ɛfiri Ɔsanaa ,",Dankanamo Atitenafoɔ no baako ɛfiri ɔsane de to so baako,1.0,0.4783
+144,Worekae berɛ bi ansa na wɔrewo wo.,ɔkae berɛ a ansa na wɔwɔ.,0.5714,0.4074
+145,Yɛn babarima Dan yaree pa ara wɔ n’asɛmpatrɛ mu wɔ Abibiman mu na wɔde no kɔɔ aduroyɛ-bea a deɛ wɔde di dwuma tɔ sini.,Yɛn babarima Dan niraba no wɔ asɛmpa kyerɛ yema di bibiman ne kɔɔ ayaresabea a wɔntumi,0.75,0.5
+146,nanso na m’ani so atan me a manhunu sɛ anka mɛtumi aboa me ho.,nanso na m'ani so atan me a me hunu sɛ anka metumi aboa me ho.,0.2143,0.0638
+147,nnipadɔm a wɔn ani agye guu Nigeria kuro ne kuro biara mmɔnten so;,Nnipa dɔm a na wɔn anigyeɛ tee wɔn ho Legon.,1.0,0.6038
+148,"ɔnantee nsuo no ani,",naatsii,1.0,0.6875
+149,“ɛyɛ adehia kɛseɛ pa ara a ɛrekɔ so wɔ asase yi so ɛnnɛ.,ɛyɛ adeɛ hia kɛseɛ paa rekɔ so wɔ asase yi so ɛnnɛ.,0.4615,0.119
+150,Bishop no ne n’afotufoɔ na wɔkyerɛ dwumadie a ɛwɔ Aaron Asɔfodie akuo ne Maayewa agyinapɛn wɔ ward no mu.,no ne ne fotufoɔ no so dumasia ɔbɛhɛɛn bɛkɔ,0.8421,0.7294
+151,Wɔn a wɔpɛ sɛ wɔne yɛn bom da saa anuanom yi ase wɔ som pa a wɔdaa no adie no mma wɔn nsa so.,Wɔn a wɔpɛ sɛ wɔne yɛn bom da saa anuanom yi ase ɔsompa a wɔdaa no adie no mma wɔn nsa so.,0.125,0.0145
+152,"kyerɛpɛn no mu baako a ɛyɛ nkaeɛ kɛse pa ara wɔ nnwom a yɛpɛ pa ara mu bisa sɛ,","kyerɛpɛn akoayɛ nkaeɛ kɛseɛ pa ara wɔ nnwom a yɛpɛ paa mu bisa sɛ,",0.4211,0.1667
+153,Yesu Kristo mu gyedie yɛ gyedie nyinaa fapem ne ɔsoro tumi nkataho.,Yesu Kristo mu gyidie yɛn yidie a nyinaa fapem ne ɔsoro tumi nkataho.,0.3333,0.0727
+154,Afei medwene Apollo  a ɛnenam wiem sɛ ɛbɛkɔ akɔsi bosome so!,Apolo tayawo,1.0,0.8333
+155,"Awurade de ɔhyɛ sononko too sɛdeɛ wɔbɛsi ahwɛ mmɔborɔfoɔ,","Awurade de ɔhyɛ sononko too sɛdeɛ ɔbɛsi ahwɛ mmorɔfo,",0.2222,0.0833
+156,ne Henry Bennion Eyring sɛ Ofotuni a ɔtɔ so mmienu wɔ Atitenafoɔ a Wɔdikan no mu.,ne Herbal A.re ɔfotufoɔ ɔtɔ so mmienu wɔ Titenafoɔ a wɔdi kan no mu.,0.5625,0.3077
+157,na yɛhwehwɛ sɛ yɛyɛ yei nam Yesu Kristo nhwɛsoɔ so.,na ahwehwɛ ne ayɛ yie nam Yesu Kristo nhwɛsoɔ so.,0.4,0.1951
+158,amen.,name.,1.0,0.5
+159,Ɛfiri sɛ saa din yi na wɔde bɛfrɛ mo wɔ ɛda a ɛdi akyire no mu;,ɛfiri sɛ saa adeɛ yi na wɔde bɛfrɛ mo wɔ ɛda a ɛdi akyire no.,0.125,0.1064
+160,mebisaa ɔbaa a ɔsuro Onyankopɔn yi nea ɛmaa ɔsane baa yɛn nhyiamu ahodoɔ berɛ tenten saa.,Mebisa ɔbaa a ɔsuro nyankopɔn yi ni maa wɔsane baa yɛnhyia mu ahodoɔ tenten saa.,0.5,0.1507
+161,"” Ɛnam N’amanehunu so,","more his Maame,",1.0,0.9375
+162,nanso n’atenka a ɛso sɛ ɔbɛkɔ nkan piaa no sɛ ɔnsua pii kɔsii sɛ ɔbɛyɛɛ kasa mmienu ɔhɔhogyefoɔ wɔ hɔ.,ne sɛ wobɛtumi akɔnkɔnsa kasa wodome afoforɔ.,0.9,0.7407
+163,yei deɛ ɛyɛ.,"Yei deɛ yɛde waaa,",0.6667,0.7778
+164,Amy Eileen Wright sɛ Fotufoɔ a ɔdi Kan ne Tracy Y.,ame Liistufoɔ a wɔdi kan ne Trinia,0.7273,0.4615
+165,"Wɔsusu sɛ yɛgye afotufoɔ a wɔwɔ Titenafoɔ a Wɔdi Kan no mu ne Asomafoɔ Dummienu Kuo no mu tom sɛ nkɔmhyɛfoɔ,","Wɔsusu sɛ yɛgye afotufoɔ a wɔwɔ na Titenafoɔ a wɔdi kan no mu ne Asomafoɔ Dummienu Kuo no tom sɛ nkɔmhyɛfoɔ,",0.0952,0.046
+166,Na me nua Claudio ahunu mmɔden a merebɔ sɛ mɛyɛ me ho sɛ ɔpanin na ɔboaa me.,Na me nua kado mɔdemmɔ a merebɔ sɛ mɛyɛ me ho sɛ ɔpanin na ɔboaa me.,0.1765,0.2034
+167,Mebɔ mpaeɛ sɛ yɛrenhwere saa animuonyam berɛ yi!,Mebɔ mpaeɛ sɛ yɛnhwɛ saa animuonyam berɛ yi.,0.125,0.125
+168,anigyeɛ a ɔkaa ho asɛm sɛ ɛyɛ fɛ!,anigyeɛ na ɔbisaa ɛnanyɛ nso na wɔn,0.875,0.6
+169,ɛfiri sɛ Onyankopɔn kɔsra Ne nkurɔfoɔ wɔ wɔn amanehunu mfimfini (hwɛ Mosaya :,ɛfiri sɛ waka sɛ Onyankopɔn kɔsra nkorɔfoɔ no wɔ wɔn amanehunu mfimfini,0.5,0.3175
+170,"Yɛte ayɛsɛm fa ahwehwɛfoɔ akokoɔdurufoɔ a wɔn nhyɛma butuo,",Yɛte ayɛsɛm fa ahwehwɛfoɔ akokoduru a wɔn hyɛ mabutuo.,0.3333,0.1
+171,Menyɛ ɔbenfoɔ;,Menyɛ fɛnkyi,0.5,0.5
+172,ɔnyaa ne botaeɛ berɛ a ɔtwee nitroglycerin guu birirbi a na asɛ ɛso nni mfasoɔ a wɔfrɛ no diatomaceous asase anaa kieselguhr.,Onya ne botaeɛ berɛ a ɔtwee atodwe bi biribi a na asɛ so nifaso a ɔfrɛ no Damatosios asase anaa kesaa,0.4545,0.3301
+173,yɛyɛ adedifoɔ nso;,"Yɛn Nyankopɔn mma yɛn yɛma yɛyɛ adedifoɔ nso,",1.6667,1.4667
+174,nhyɛmabutuo wɔ Antaateke nsukyeneeɛ mu na wɔkɔkaa supɔ bi a hwee nni so so bɛyɛ mfeɛ mmienu.,Nebɛ mmienu,0.9412,0.8667
+175,na wɔatu akwan wɔ wiase afanaa nyinaa rekyerɛkyerɛ amanaman na wɔabɔ wɔn a wɔgye nnepa a ɛwɔ asɛmpa a asane aba no to mu asu.,na wɔte kan wɔ wiase afa no nyinaa rekyerɛkyerɛ amansan na wabɔ wɔn a wɔn agye nsɛmpa no adi no asu.,0.64,0.31
+176,Mefrɛɛ no.,Mese Lebanabii kɔkyinkyin o.,2.0,2.5
+177,yɛnhyɛ apam bɔhyɛ nko ara—ɛsɛ sɛ yɛdi so.,yɛnhyɛ apam bɔhyɛ nkoaa ɛsɛ sɛ yɛdi so.,0.25,0.0312
+178,Monim sɛ mmusua bɛtumi ayɛ afebɔɔ.,"mommee,",1.0,0.8214
+179,ne Wusɔreɛ ka ho.,ne us,0.75,0.6923
+180,na yɛkɔtoo wɔn wɔ hɔ.,na wo.,0.8,0.8125
+181,afei na yɛahyɛ aseɛ.,Afei na yɛahyɛ ase.,0.25,0.0625
+182,"ɛfiri sɛ sɛ yɛfrɛ Onyankopɔn a,","firi sɛ yɛfrɛ Onyankopɔn a aseɛ sɛ,",0.6667,0.36
+183,mpanimfoɔ ne nkwadaa  foroo hyɛn firii Tokyo tuu kwan kɔɔ Hawii Tɛmpol.,mpanimfoɔ ne nkwadaa wɔ sesafoɔ ahyɛn fitoot kɔhwanyan,0.75,0.5172
+184,Ɔhwehwɛ sɛ wode nhyehyɛeɛ bɔ wo bra.,n'ani kwasea.,1.0,0.8621
+185,na ɛyɛ den yie sɛ ɔbɛdane ne ho afiri nneɛma a ɔde ne ho ahyɛ mu ne n’asetena kwan so.,Nanso na ɛyɛ den yie sɛ ɔbɛdane ne ho afiri nneɛma a ɔde ne ho ahyɛ mu ani n'asetena kwan so.,0.1,0.1077
+186,Na nsesaeɛ titiriw kɛse pa ara no wɔ n’ani so —na hann a ɛwɔ n’ani so no ano abrɛ ase.,na ɛka meayɛ sɛ wontumi nhunu ananabea.,0.95,0.7143
+187,fa wɔn sie wo din mu [m’asuafoɔ] sɛ wɔnyɛ baako sɛ yɛn.,Fa wisie,0.9167,0.85
+188,"” ɛbɛyɛ yie sɛ yɛsiesie anaa yɛgyae nsonoeɛ,","bɛyɛ yesessage nsonoeɛ,",0.8571,0.4571
+189,"asɛmpatrɛ anuanom mmaa baanu firi Yesu Kristo Asɔre a Ɛwɔ hɔ ma Nna a Ɛdi Akyire Ahotefoɔ mu baa ne fie na wɔkyerɛkyerɛɛ no sɛ owuo akyi,",Asɛmpatrɛ nianema in firi Yesu Kristo Asɔre hɔ ma nadiyifoɔ baa ne fie na wɔkyerɛ teɛna,0.5926,0.3818
+190,Yɛ kae No?,yɛnkaekae no.,0.6667,0.5714
+191,sɛ yɛsi dɔ wɔn na yɛbɔ mpaeɛ ma wɔn!,ɛyɛ neyee.,1.0,0.7778
+192,Wɔde gyedie sɛdeɛ yɛnim yɛn nkurɔfoɔ no twɛn.,gyidie,1.0,0.8649
+193,“Yɛakɔ tɛmpol mprɛ bebrebee.,"Haa,",1.0,0.9565
+194,"wɔatwerɛ ato hɔ na wɔde asom sɛdeɛ Asɔre no mpenesoɔ wɔ akontabuo mu,",wɔatwerɛ to hɔ na wɔde asom sɛdeɛ Asɔre no nso wɔ Akontamu te,0.3077,0.1786
+195,"atenka bunkamm yɛn so Penekyɛre mu Anigyeɛ a ɛnnsesa Yɛntee nkasaho fa anigyeɛ ho saa kwan yi so da,",a me ne mmarina sansani ntontan biara.,0.9474,0.7407
+196,mehunuu sɛ ɛyɛ adwinniyɛfoɔ bi mfonin a ɛfa Samariani baa no ne Yesu wɔ nsubura no ho.,Mehunuu sɛ na ɛyɛ mfoni a ɛfa Samariani baa ne Agyenkwa wɔ subura no ho.,0.4118,0.3333
+197,"Yɛba bɛnya ahotosoɔ yɛn asetena nyinaa mu berɛ a yɛrenyini wɔ honhom ahoɔden,",ɛbɛtumi ayɛ ahotɔsoɔ wɔ abrabɔ mu nyinaa berɛ a ɛbɛtumi akɔ nkan wɔ hɔ nom.,0.9231,0.6406
+198,Yesu hyiraa no mprenu so ansa na “wɔresan de no aba.,"Yesu hyiraa no mprenu so ansa na wasan de no abahɔ,",0.1818,0.125
+199,ɛtɔ da a yɛdi agorɔ bi a yɛfrɛ no “Ahotosoɔ Dwumadie a ɛyɛ Anika.,"tebiaa go bi a frɛ no ahotoso yɛ agyimisɛm apɔmte,",0.7857,0.56
+200,"m’adwene taa twe si adidikronkron no ma nhyehyɛeɛ so—ahosiesie,",madwene bɛsan a ɛfa so hyehyɛ sakraman no,0.8889,0.6346
+201,Ɔbɛbɔ wo kɔkɔ afa asiane a ahinta ho.,Ɔbɛbɔ wo kɔkɔ afa sane a ɛhinta ho,0.25,0.1034
+202,na na Ɔne me nwieeɛ.,Na ɔwiee mfonin.,0.8,0.6667
+203,na Wasɔre no ma ɔnyaa mmaransɛm firii Agya no hɔ sɛ ɔne Nifaefoɔ nkyɛ Twerɛsɛm a ɛbɛhyira daakye awoɔ ntoatoasoɔ.,na wɔasɔre no ama wɔnyaa mmaransɛm firii agya hɔ na ɔde maa nifa foɔ nkyerɛkyerɛ sɛm a ɛbɛkyerɛ wɔn daa ntotosoɔ,0.75,0.3226
+204,"Awerɛhosɛm ne sɛ,","honi,",1.0,0.7857
+205,Saa nsakyeraeɛ yi ɛfa asubɔ a wɔmmɔ no wɔ tɛmpol mu nyinaa.,Saa nsɛkyerɛwa subɔa yɛnkɔto ne kɔ,0.9167,0.5532
+206,wɔhyehyɛ wɔ asase ase botan a ɛyɛ den so yɛn adwensakyera a yɛwɔ wɔ Awurade Yesu Kristo mu.,wɔhyehyɛ no wɔ asase ase botan a ɛyɛ den so yɛn adwensakyera a yɛwɔ wɔ Awurade sKristomu.,0.2222,0.0685
+207,Yɛhunu Kristo asubɔ ho asɛm.,"mpaeɛ,",1.0,0.913
+208,Yei bɛtumi ama yɛde mmoa ne mmoa farebae ankasa a ɛbɛtumi ako atia honam asetena yi mu ɔhaw ahodoɔ no ato akyire.,ɛbɛtumi ama yɛde mmoa ne mmoa farebae ankasa a ɛbɛtumi ako atia honam asene yi mu ɔhaw ahodoɔ no ato kyerɛ.,0.1818,0.0989
+209,"Onyankopɔn Ba bi,",a,1.0,0.9286
+210,Sɛn na mɛ yɛ Yesu Kristo mfoni a ɛkyerɛ Ne Honhom?,Bɛ na mɛfa so yɛmfoni a Yesu Kristo ho omumu,0.9091,0.6667
+211,"Ɔbɛgye yɛn afiri yɛn ahweaseɛ tebea mu,",ɔbɛgye yɛn afiri yɛn yɛn ahweaseɛ tebea aseni.,0.2857,0.25
+212,Mewɔ nkaeɛ a ɛyɛ anigyeɛ sɛ me ne me maame ne me nuanom wɔ yɛn gyaade a yɛrekora apple a wɔatete ama awɔberɛ a ɛreba no berɛ a yɛde hyehyɛ nkotokuo mu na yɛkata ano.,Maaseya maame ne nwanwa gyaade saa wasesa wɔabrɛ,0.9143,0.7385
+213,"asɛmpatrɛ adwuma ne asɛmpatrɛfoɔ,","mo,",1.0,0.931
+214,"nanso asɔre a ɔsoro ma ho kwan ho hia sɛ wɔka kyerɛ,","nanso asɔre a ɔsoro ma ho kwan ho hia sɛ wɔka kyerɛ,",0.0,0.0
+215,Ɔyɛɛ saa na ɔkyerɛɛ sɛ saa ɔbaa yi a ɔnyɛ Asɔreba no asra Asɔre no bɛyɛ mfeɛ mmienu.,Ɔyɛɛ saa na ɔkyerɛɛ sɛ saa ɔbaa yi a ɔnyɛ asɔreba no asera asɔre no bɛyɛ mfeɛ mmienu.,0.0556,0.0152
+216,Ɛyɛ me anisɔ sɛ meka mo ho saa Amanehunu da nwanwasoɔ anɔpa yi.,ɛyɛ mmienu so sɛ meka mo ho saa amanehunu da wasan pa yi,0.3077,0.24
+217,Abigail de ahoɔhare boaa aduane ne nneɛma ano kɔmaa wɔn.,be ka kyerɛɛ Abigail nebanatuona kɔwɔ.,1.0,0.6957
+218,"Ɛfiri yɛn mmɔfra nketewa kɔsi panin pa ara a ɔwɔ yɛn mu so,","ɛfiri yɛn mfranketewa kɔsi Penipa ara wɔ yɛn mu no,",0.5385,0.1522
+219,"Nanso mesrɛ,",na.,1.0,0.8
+220,Wɔbɛtumi ahunu ahotosoɔ sɛ adesua asɛm ma mpaninfoɔ.,yɛbɛtumi ahunu ahotosoɔ sɛ adesua nsɛm ma mpanimfoɔ.,0.375,0.0909
+221,ne anwanwaduma a ɛnni ano bɛgu nokwafoɔ no so.,ne awonawonafo no so.,0.6667,0.5946
+222,"Wɔn a wɔhwɛɛ asɛm no wɔ kaseɛ so wieeɛ a wɔbɔɔ mpaeɛ nyinaa,",Wɔn a wɔhwɛɛ asɛm no ɔkasa wie yɛ ɔbɔ mpaeɛ nyinaa,0.4615,0.1915
+223,Medi adanseɛ kann fa Agyenkwa kronkronyɛ ne nokorɛyɛ fa Ne Mpata no ho.,Medi adanseɛ kann fa Agyenkwa kronkronyɛ ne ne nkuku fa ne mpata no ho yɛ Agyenkwa.,0.3077,0.2931
+224,metwii kaa duruu kunafoɔ yi fie prɛko pɛ.,metwaa kɔduruu kunafoɔ yi fie prɛko pɛ.,0.375,0.1212
+225,ne Henry Bennion Eyring sɛ Fotufoɔ a Ɔtɔ so Mmienu wɔ Titenafoɔ a Wɔdi Kan no mu.,Ne Hene Arena ɔtɔ so mmienu wɔ Tesano a wɔdi kan no mu.,0.4118,0.4062
+226,Mayɛ yei bɛboro apem—mmom nyɛ sɛ mmarimma akukudan  ɛte makyi prɛkopɛ sei da.,fiamee nyɛnaa,1.0,0.8548
+227,Asɔfodie ayɛyɛdeɛ na apam bɔhyɛ ma Nyankopɔn kwan ma ɔte yɛn ho na afei ɛyɛ anwanwadeɛ wɔ yɛn abrabɔ mu.,Asɔfodie ayɛyɛdeɛ mu kyɛfa na yɛdi apam bɔhyɛ so ma Onyankopɔn kwan ma ɔte yɛn ho na ɔyɛ anwanwadeɛ wɔ yɛn abrabɔ mu.,0.35,0.2262
+228,"Awofoɔ a wɔhyɛ da kyerɛkyerɛ wɔn mma gyedie wɔ Yesu Kristo mu,",Awofoɔ ne nananom.,0.9167,0.78
+229,berɛ a Joseph Smith paa ne nua Samuel sɛ asɛmpatrɛ kannifoɔ ma Yesu Kristo Asɔre no.,Berɛ a deseeeeline foɔ ma Yesu Kristo Asɔre no.,0.5625,0.5147
+230,Ned ne ne hokafoɔ de adesua bi a ɛdi nkaeɛ baa yɛn fie.,ne kɔneɛnyɛne u.,0.9231,0.7619
+231,Ne pɛ ne sɛ dakoro bi ɔbɛba abɛyɛ ɔhwɛsofoɔ wɔ ahɔhogyebea titiri mu.,ɛpaasɔɔm mu.,0.9231,0.8571
+232,"dodoɔ no,","dodoɔ no a,",0.5,0.1429
+233,ɛbɛtumi ayɛ te sɛ deɛ nhyehyɛeɛ no nnyɛ adwuma.,ɛbɛtumi ayɛ te sɛ deɛ ɔsoro Agya hyehyɛeɛ no nyɛ adwuma.,0.4444,0.2632
+234,"Mehyɛɛ aseɛ wɔ mpaebɔ mu de mmeranteɛ ne mmayewa bebree,",mehyɛɛ aseɛ de mpaebɔ di mmaranteɛ ne mabaawa ne maa.,0.7,0.3261
+235,"a ɛrehyɛ Awurade nkonimdie a ɔde wuraa Yerusalem,","a ɛyɛ Awurade nkonimdie a ɔde wuraa Yerusalem,",0.125,0.0732
+236,“Adanseɛ” ne “adansedie” yɛ nsɛmfua a yɛde di dwuma berɛ a yɛkyɛ yɛn nimdeɛ ne yɛn atinka a ɛfa Yesu Kristo asɛmpa no nokorɛ ho no.,adanseɛ ne adansedie yɛ nsɛm foɔ a yɛdidi dwuma berɛ a yɛkyɛ yɛn nimdeɛ ne yɛn atenka a ɛfa Yesu Kristo asɛmpa no nokorɛ ho no.,0.1923,0.0396
+237,"tɔn no kɔɔ nkoasom mu,",berɛ a na nuanom,1.0,0.7647
+238,asɛmfua ɔpɛ kaa m’akoma deɛ ɛbi nsii da.,sɛ yɛwɔ,1.0,0.9032
+239,"” Mehyɛ bɔ sɛ,",ma,1.0,0.8889
+240,"” Ɔbɛyɛɛ ɔdansefoɔ kɛseɛ,",asefoɔ kɛseɛ.,0.6667,0.45
+241,"“Na ɔkaa sɛ,","na sɛ,",0.3333,0.5
+242,Ohu yɛn apereperedie ne amanehunu biara—na ayamhyehyeɛ ahyɛ no ma ma yɛn.,ɔhu yɛn aperedie ne amanehunu biara na yɛnhyehyɛ ahyɛ no ma ama yɛn.,0.5,0.1667
+243,"wɔato nsa afrɛ yɛn sɛ yɛnyɛ setie mma N’ahyɛdeɛ no ɛnnɛ,",yɛatena afrɛ yɛn sɛ yɛn ne sitie mma nahyɛdeɛ no ɛnɛ,0.5455,0.1818
+244,"berɛ a na meresom wɔ South Amerika Atifi-atɔeɛ Mpɔtam na mete Lima a ɛwɔ Peru no,","Berɛ a mesoaa nothesea,",0.875,0.7656
+245,"Ntɛmso na mehunuu sɛ mede varnish no yɛɛ so ntɛm dodo,","ntɛm so, na mehunuu sɛ mede vanish yɛɛ so ntɛm dodo,",0.3636,0.0698
+246,suaa sɛ ɔbɛtumi “atu mpɔn nketekete.,saseɛ.,1.0,0.8621
+247,"“Na ɔkaa sɛ,",napab,1.0,0.625
+248,"Menuabaa panin a ɔtɔ so nson hyɛɛ sɛ m’awofoɔ nto me din “Kimo,",no nyaa baapanyin sesons ma wɔfanom din ntimu.,0.9231,0.5
+249,sɛ wɔde nsuo yɛ nkoa na wɔyɛ no wɔ Agya no ne Ɔba no ne Sunsum Kronkron no din mu.,sɛ wɔde nsuo ne nkoaa na yɛ a ɛwɔ agya ne ɔba ne sononko no din no mu.,0.5,0.3387
+250,"Agyinatukuo a wɔhwɛ Ntotosoɔ du du Tebea so—a ɛyɛ Titenafoɔ a Wɔdi Kan,","ginetoɔ a wɔhwɛ ntoɔba yɛtetene ɔdikan,",0.8462,0.5088
+251,ɔkwan bi bɛba daa a yɛbɛfa so adwane saa ɔhaw ahodoɔ yi (hwɛ (hwɛ  Korintofoɔ :,yɛnsɛee,1.0,0.9167
+252,"ɛfiri Ɔsanaa ,",ɛfiri,0.5,0.5455
+253,"Wɔsusu sɛ yɛgye afotufoɔ a wɔwɔ Titenafoɔ a Wɔdi Kan no mu ne Asomafoɔ Dumienu Kuo no mu tom sɛ nkɔmhyɛfoɔ,",Wɔsusu sɛ yɛgye afotufoɔ a wɔwɔ Titenafoɔ a wɔdi kan no mu ne asomafoɔ dukuno no tum sɛ nkɔnhyɛfoɔ,0.2381,0.1163
+254,amen.,amen.,0.0,0.0
+255,"sɛ wɔwɔ ɔpɛ sɛ wɔbɛfa wo Ba no din ato wɔn ho so,",Sɛ wopɛ sɛ wɔbɛfa wo ba no din ato wo ho so.,0.2308,0.1667
+256,Titenani Nelson akyerɛkyerɛ sɛ:,"Titenani Nelson akyerɛkyerɛ sɛ,",0.0,0.0
+257,na wɔde ehu teateaa mu.,na o.,0.8,0.8889
+258,"Ne nkuranhyɛ a ɛyɛ sɛ yɛbɛhwɛ sɛ yɛn ankasa bɛte,",Ne nkuranhyɛ a ɛyɛ sɛ yɛbɛhwɛ yɛte aseɛ ankasa.,0.3,0.2821
+259,ɔno a [ɔgyee] ne nkorɔfoɔ no.,"ɔno a ɔgyee ne nkurɔfoɔ no,",0.1667,0.0476
+260,Na meredi awerɛhoɔ na meyɛɛ mmrɛ na menni banbɔ.,Na mediauhammad.,0.8889,0.6923
+261,"Berɛ a na mete gyinabea hɔ na me yere te asafo no mu no,",Berɛ a na mete gyinabea hɔ na me yere te asafo no mu;,0.0714,0.0476
+262,"wɔ deɛ seesei yɛfrɛ no Nnawɔtwe Kronkron mu no,",Wɔde deɛ seesei yɛfrɛ no na ɔtwe kronkron no.,0.4444,0.1579
+263,amen.,amen.,0.0,0.0
+264,” Onyankopɔn kyerɛɛ Mose ne daapem nipaban.,Kasanako kyerɛɛ Mose ne daapem ne Paran.,0.5,0.2571
+265,Ɔkɔɔ so hwehwɛɛ gyidie kɛseɛ wɔ Yesu Kristo mu.,Ɔkɔɔ so hwehwɛɛ gyidie kɛseɛ wɔ Yesu Kristo a,0.1111,0.0526
+266,berɛ a yɛsusu yɛn kan kɔ na yɛde yɛn ho toto honhom mu asase ahyɛnso a Onyankopɔn asiesie ama Ne mma ho.,"abrɛso,",1.0,0.9512
+267,amen.,ame.,1.0,0.25
+268,"yɛn Agya nhyehyɛeɛ fɛɛfɛ no,","yɛngyehyɛeɛ fɛfɛ no,",0.8,0.2609
+269,yɛbɛba abɛyɛ nkorɔfoɔ a Titenani Nelson susuuiɛ no:,yɛbɛba abɛyɛ nkorɔfoɔ a Titenani Nelson susuuiɛ nkurɔfoɔ.,0.125,0.1395
+270,“Nhyira nka Ɔhene a ɔba Awurade din mu no:,Nhyira ne ɔhene a ɔnam Awurade din mu reba no.,0.3333,0.25
+271,Saa nhyiamu yi mu baako yɛ mmuadadie ne adansedie nhyiamu.,Saa nhyiamu yi mu baako yɛ moadeda deɛ ne adansedie nhyiamu.,0.2,0.125
+272,"wɔatwerɛ ato hɔ na wɔayɛ no sɛdeɛ sikasɛm-nsusuiɛ a Asɔre gye to mu,",wɔatwerɛ ato no ayɛ no sika sɛm susua agye ato mu.,0.6923,0.3333
+273,"Yɛhyɛ no nso sɛ wɔgyee Mantam Aduɔsonfoɔ  too mu wɔ amansan akannifoɔ nhyiamu berɛ mu wɔ Yawoada,",Velia Sela,1.0,0.9367
+274,"Na ɔtamfo a ne ho yɛ hu no taa taataa nkorɔfoɔ a na ɔdi wɔn anim na ɔdɔ wɔn no,",Na ɔtamfoɔ ɔne ne ho yɛ atankurɔfoɔ a na ɔdi wɔn anim a ɔdɔ wɔn no.,0.4,0.2712
+275,Nsamsoɔ ahodoɔ a ɛsesɛn soro no yɛ me nwanwa.,nsam so ahodoɔ a ɛsene soro no yɛ nna,0.5556,0.25
+276,Onyankopɔn nnɔ me bio.,Onyankopɔn nnomee bio.,0.5,0.1111
+277,"Ɛdɛ nsuyire ne suahunu kronkron hyɛɛ m’dwene ne m’akoma ma,","Ɛdan nso yie ne suahunu kronkron hyɛɛ m'adwene ne m'akoma ma,",0.4,0.1064
+278,"ani no,",",",1.0,1.0
+279,Woreto wo gyedie mu de wo werɛ ahyɛ Ne mu no hia mmɔdemmɔ.,Wotu wo gyidie mu de wo werɛ ahyɛ no mu no a mɔdemmɔ.,0.3846,0.1778
+280,mesrɛ mo monsiesie mo ho mfata sɛ mobɛka Awurade asraafoɔ dɔm no ho!,Mesrɛ mo ho siesie mo ho mfata sɛ mobɛka Awurade asraafoɔ dɔm no ho.,0.1538,0.0364
+281,na Shawna ne yɛn mma maa mmiɛnsa—a wɔn nyinaa nnii mfeɛ nsia—ba adwumabea hɔ bɛbom didi awia.,Na hyɛ na neyɛma mmiɛnsa a wɔnyinaa ni mfeɛ nsia ba adwuma beabi awie.,0.8824,0.2838
+282,"na m’ahantan ne ɔpɛ a mewɔ sɛ mɛyɛ me ho ɔpanin no mu yɛ den,",na m'ahantan ne ɔpɛ sɛ mɛyɛ me ho sɛ ɔpanin ne din.,0.4667,0.2889
+283,wɔhunuu sɛ me kunu Greg anya yareɛ bi a ɛbɛhwehwɛ sɛ wɔyɛ no oprehyɛn a emu yɛ denna wɔde nnuro a wɔde sa yareɛ no ma no abosome pii.,hunuu sɛ me kunu rahan yareɛ bi a ɛbɛhwehwɛ sɛ wɔn operation mu den na wɔde dua a ɔde sa yareɛ no mu no abosome pii.,0.4483,0.2404
+284,"Lehi kyerɛkyerɛ sɛ Adam ne Hawa annhwe ase a anka “wɔkaa bemdie tebea mu,",leaked Hawa ahweaseɛ wɔkaa babiabia mu,0.7857,0.5345
+285,"Wɔsusu sɛ yɛgye Russell Marion Nelson tom sɛ nkɔmhyɛni,","Wosusu sɛ yɛagye wasel Marines tum sɛ nkɔmhyɛni,",0.6667,0.2609
+286,"Ne yareɛ akyire a yɛkann ne krataa a ɛdi kan ma yɛn no,","Danye,",1.0,0.9048
+287,"ɔhunuu amane,","ɔhunuu amane,",0.0,0.0
+288,"M’afotuo a mede ma wɔn a wɔatwe wɔn ho afiri apam kwan biara so ne sɛ,",anakyerɛkyerɛ,1.0,0.8491
+289,"ɛkura animdefoɔ a wɔagye wɔn ato mu,",nimdefoɔ ɔgyenee,1.0,0.5517
+290,"Ɔsoro hann mfitiaseɛ bɛwura wo haw ahodoɔ no sunsum mu,",Ɔsoro hann adekyeɛ bɛhyɛ wɔ sɔhwɛso nsom,0.8,0.5778
+291,"Ebia wobɛtumi asusu sɛnea yei ahobrɛaseɛ atenka teɛ,","Ebia wobɛtumi asusu sɛnea yei ahobrɛaseɛ atenka teɛ,",0.0,0.0
+292,"Wɔkyerɛ ahotosoɔ mu sɛ ɛyɛ “nimdeɛ,",yɛkyerɛkyerɛ yɛ ahotɔsoɔ sɛ nimdeɛ.,0.6667,0.5357
+293,"na ɛyɛ ɔkontonkorɔ wɔ Asɔre no asoɛeɛ afoforɔ ne akuo nyinaa mu no,",a ɔyɛ kronkron a tiata,1.0,0.7593
+294,na mmɔfra hwɛfoɔ kokoɔdurofoɔ mmoa nko ara na ɛbɛtumi aboa yɛn tɛmpol akwantuo no!,Na mbofra no hwɛfoɔ kurodua nkoatono.,0.9286,0.6618
+295,"ne Korihor aka sɛ gyedie yɛ nkwaseasɛm,","ne Karkor, akasae yɛ nkwaseasɛm",0.5714,0.2812
+296,amen.,amen.,0.0,0.0
+297,"Sɛ Onyankopɔn nni hɔ a,",sɛ yɛn.,0.8,0.7778
+298,Mannyae sɛ meredwene baabi a n’asɛmmisa no de yɛn bɛkɔ.,berɛ a sakayɛ,0.9,0.8409
+299,Asɔredan Dada bi a ɛwɔ Zwickau Afe  ayɛ sɛ afe a ɛho hia ma me.,Afei anada ɛhohia mae.,1.0,0.6596
+300,"Jerome Prevost/Getty Mfoni ahodoɔ Ɛduruu akansie no mu berɛ bi no,","ɔbɛsi wɔn nɔma were minitialister akansie no,",0.8182,0.7407
+301,"“wɔasie wɔ ɛpo bunu mu,","amake,",1.0,0.8824
+302,Winters.,a,1.0,1.0
+303,Ned kaee yɛn sɛ na nnidisoɔ wɔ sɛdeɛ Onyankopɔn bɔɔ asase no mu.,fiaso,1.0,0.9216
+304,Na mennyaa penekyɛre ne anigyeɛ a ɛnnsesa da wɔ m’asetena mu.,"na menya penekyɛre ne anigyeɛ a na menya bi wɔ mayasaa nim,",0.5455,0.3265
+305,Ɛbinom gye no mfomsoɔ kwan so sɛ adwenesakyera ne nsakraeɛ nkransɛm ho nhia.,ebinom gyeneskwansesɛ adwensakyera ne nsakraeɛ nkrasɛm ho nhia,0.6923,0.1746
+306,"teneneeyɛ mpɛmpɛnsoɔ,",a na wayɛ no prhimer,2.5,0.8421
+307,M’ani gyee n’asukɔ no ho ara ma m’anhunu asorɔkye a na ɛdi hɔ ɛreba no.,yenono,1.0,0.8868
+308,"“Ne bɔne,",ne,0.5,0.6667
+309,"Dawid yɛɛ ne nkorɔfoɔ krado sɛ wɔbɛkɔ Nabel ne ne fiefoɔ so aka sɛ,","Yei yɛ de nkurɔfoɔ krado sɛ wɔbɛkɔ nebone n'afie foɔ akɔkasɛ,",0.7857,0.2642
+310,”  Saa ɔpanyin no kaa Elder Richard G.,"ɔgyedie,",1.0,0.8214
+311,"baabi a atemmuo ne animtiabuo ahyɛ amanifoɔ nsɛnka ananmu,",baabiara a atɛmasamanifoɔ nsa nkaa ne mu,0.8889,0.4694
+312,Nkɔnhyɛni Joseph Smith hunuu Oyankopɔn Agya ne Yesu Kristo na ɔtee Wɔn nne.,Nkɔnhyɛni Joseph Mite hunuu Onyankopɔn agya ne ne Yesu Kristo sɛ ɔte wɔn ne.,0.4615,0.1452
+313,"Yɛbɛdi nokorɛ atena apam kwan no so,",yɛbɛdi Awurade mmaransɛm no so bɛkɔ,0.7143,0.6207
+314,wontumi nte saa nsɛmfua yi mfiri Nkɔmhyɛni Joseph Smith hɔ a w’ani nnye mma worensere!,wontumi nte saa nsɛmfoɔ yi mfiri kɔhyɛn Joseph metɔ a wani nye ma wɔn nserɛ.,0.5333,0.2143
+315,"Ɛwiee aseɛ no ne nanabaa tuu n’aso sɛ ɛbɛyɛ bɔkɔɔ,",fea.,1.0,0.9487
+316,yɛyɛɛ atuu na yɛmaa yɛn ho baebaei.,yɛyɛ to na yɛnyaa yɛhama ho baankye,0.7143,0.5357
+317,megye too me ho so sɛ mɛkenkan afa pii afiri Mormon Nwoma no.,betpases aseɛ kenkanka no,0.9231,0.6875
+318,ɛfiri sɛ medwo na mebrɛ me ho ase akoma mu;,Ɛfiri sɛ medware aso akoma mu.,0.6,0.303
+319,nanso atiefoɔ a wɔato nsa afrɛ wɔn sɛ wɔba Nhyiamu Prama so ma saa ɔfa yi yɛ mmaa ne mmaayewa a wɔn mfeɛ firi dumienu de kɔ mpanin mu.,"Nanso, atiafoɔ a wɔato nsa frɛ wɔ sɛ ɔbɛhyia mu prama so saa kyekyeree mmayewa a wofidie ɔmpanin no.",0.6897,0.3524
+320,Ɔsoro Asodie sɛ Yɛhwɛ Ahiafoɔ Ɛyɛ ɔsoro akwankyerɛ sɛ Yesu Kristo Asɔre no hwɛ ahiafoɔ.,sɛ ɔsrane sɛ Yesu Kristo Asɔre no hwɛ ahiafoɔ.,0.4667,0.4861
+321,ne deɛ wɔde di dwuma berɛ tiawa mu tumi yɛ ɔdanseni.,ne bia wɔagye biayebiaa,0.9091,0.7805
+322,"siesiee deɛ na wɔsiesie no a ɛnnyɛ yie,",ɛsiesie wɔsesee yɛyeyɛ deɛ ɔhyɛ ne bɔ a wenyi,1.0,0.8387
+323,"awareɛ ɛbaa mu ne ɔwofoyɛ,",awareaware,1.0,0.6667
+324,Nsakraeɛ a aba Mpɔtam Aduɔsonfoɔ mu Wɔgyee Mpɔtam Aduɔsonfoɔ a wɔdidi soɔ yi too mu wɔ akannifoɔ nhyiamu bi a wɔyɛeɛ sɛ amansan nhyiamu fa bi:,"sɔre akannifoɔ,",0.9615,0.8966
+325,“Ɔsoro awareɛ yɛ adeɛ titire wɔ ahosiesie ma daa nkwa.,aseɛ hunu awia,1.0,0.8605
+326,"nhyiamu dwumadie bi de me kɔɔ California,",isafe,1.0,0.9118
+327,"Me nnamfonom,",a,1.0,0.9091
+328,"bubuu mu de maa asuafoɔ no,",ba.,1.0,0.9048
+329,"Sɛ medwene m’ankasa me suaniyɛ akwantuo ho a,",Sɛ medwene m'ankasa me sua yɛ akontuo ho a,0.375,0.1111
+330,"Within Our Grasp,",.,1.0,1.0
+331,"agye no adi,",Sɛ ne mmɔborɔhunu no a ɔno ne anigyeɛ na ɔbaeɛ no ne yɛ nkokon,4.3333,4.7778
+332,Yɛn anigye sɛ yɛahyiamu wɔ Yesu Kristo Asɔre a ɛwɔ hɔ ma Nna a Ɛdi Akyire Ahoteɛfoɔ amansan nhyiamu ase.,ɛni adeɛ yɛahyiamu wɔ Yesu Kristo Asɔre a ɛwɔ ma na ɛdi akyiatefoɔ ama sanya mu asɛ,0.55,0.2381
+333,"Onyankopɔn ba biara fata akwanya sɛ ɔte na ɔgye Yesu Kristo yaresa,","Onyankopɔn ba biara fata akwanya sɛ ɔte na ɔgye Yesu Kristo ayaresa,",0.0833,0.0182
+334,"Berɛ a na meresiesie me ho sɛ mɛkasa wɔ n’ayie ase no,","Berɛ a na mesiesie me ho sɛ mɛkasa wɔ n'ayie ase no,",0.0833,0.0488
+335,nkorɔfoɔ no nyaa nkabom;,Nkorɔfoɔ no nyankom,0.5,0.15
+336,"Oskar ne Albertina tee asɛmpa a wɔasan de aba no nka ɛsiane sɛ Onyankopɔn nkɔnhyɛni bi frɛɛe,",Ɔsane batin ate asɛmpa a wɔasan de aba wɔ mukuro hɔnom,0.7059,0.5789
+337,"“Momfa me kɔndua nto mo ho so,",a,1.0,0.9545
+338,ɛnyɛ mmrɛ sɛ yɛbɛma ɔtanfo agyae ne botaeɛ sɛ ɔbɛdaadaa na wasɛe yɛn no.,ɛnyɛ mmerɛ sɛ yɛbɛma ɔtanfo agyae ne botaeɛ sɛ ɔbɛdaadaa na wasɛe yɛn no,0.0714,0.0172
+339,"Ankyɛre koraa na me ɛnniawieeɛ hokafoɔ dɔfoɔ nyanee me kaa sɛ,","Ankyɛre koraa na me ne awieɛ hokafoɔ no nyanaa sɛ,",0.5455,0.2549
+340,"“Berɛ a mframa nwununwunu bi a ɛde mosses ne columbine nnua ho mpanpan bɔ faa abotan no a na ɛtaataa so ho no,",Berɛ a mframa no hunuiɛ mose nirba nahoma bɔ faa ɔbotan a ɛtaataa so ho o.,0.6087,0.3953
+341,"Yɛn Agyenkwa,","a,",1.0,0.9091
+342,"Ɔnyaa mmubuo yareɛ wɔ ne mmɔfra berɛ mu,",Onyaba wɔn mmɔfra.,0.875,0.5625
+343,"Mepɛ sɛ mekasa fa asɛmpa no nokorɛ baako bi a animuonyam,","Mepɛ sɛ mekasa fa asɛmpa no nokorɛ bi a ne mu nyam,",0.3636,0.1739
+344,"wɔde wɔn gu nsraban mu anaa wɔbɛdane adwanefoɔ,","Wɔde wɔn abu nsraban mu anaa wɔbɛdane adwanefoɔ,",0.125,0.0513
+345,Nobel too saa nitroglycerin ne kieselguhr afidie no din sɛ dynamite.,na ɔbaa ɛto saa na towers ne kasa Gafi no din sɛ dan namanye.,0.8182,0.5088
+346,"Berɛ a wɔhyɛɛ me den sɛ Amansan Aduɔson nii foforɔ no,",wedom korona atwa nnoɔso.,1.0,0.7442
+347,"Na mfie ɛdi anim berɛ no,","no,",0.8333,0.8947
+348,mɛsra me nkurɔfoɔ wɔ wɔn amanehunu mu.,Mɛsrɛ foɔ wɔ mu,0.7143,0.6452
+349,yɛ m’abrabɔ mu animuonyamhyɛ akɛseɛ no mu baako.,sɛ abrabɔ mu animuonyamhyɛ akɛseɛ no mu baako!,0.25,0.0513
+350,Ɔtemanmuni bi a m’ankasa mibisabisaa no nsɛm wɔ pro bono adwuma no mu ne ɔbaa bi a wadi mfeɛ  a ɔwɔ akoma pa a wɔfrɛ no Lúcia.,deɛ biasani no na ɛkɔ so a,0.9259,0.8351
+351,na me honhom mu anisoadehunu ɛ?,monam,1.0,0.84
+352,ne ayarefoɔ afoforɔ.,o.,1.0,0.9412
+353,"yɛrentumi nsesa saa ara kwa—anaa koraa no,",nimisaani,1.0,0.7941
+354,"Wɔn a wɔpɛ sɛ wɔne yɛn bom da saa anuanom yi ase wɔ ɔsompa a wɔdaa no adie no,",Wɔn a wɔpɛ sɛ wɔne yɛn bom bisaa anuanom yi ase wɔ ɔsompa a wɔdaa no adi no.,0.1579,0.0508
+355,"” Ne korakora,",a,1.0,0.9
+356,Ɔkɔɔ adidi kronkron nhyiamu bi a ne nua kumaa kaa n’adansedie ansa na ɔrekɔ akɔyɛ asɛmpatrɛ adwuma.,"kadi kronkronyɛ mu bi a na ne nua kumaa dinadanseɛ ansa na ɔrekɔ yɛ asɛmpatrɛ adwuma,",0.4706,0.2469
+357,Larson Adwuma Hwɛsofoɔ,Lasen adwuma ahwɛsofoɔ,0.6667,0.15
+358,bisket adaka bi bɛduruu Asɔre no ɔfese a na nkrasɛm a ɛdi soɔ yi ka ho:,Besia damai beduu soɔ no feankrasɛmyi ka ho.,0.8125,0.4545
+359,"Wɔpere hwehwɛɛ Anwanwadeɛ Wɔ Apam Foforɔ no mu no yɛte Bartimeo a na n’ani afira no ho asɛm,",tiraanfooma,1.0,0.8767
+360,"a ɛka sɛ,","ɛka sɛ,",0.3333,0.1667
+361,"yɛde akoma pa ma mo akwaaba da mo ase sɛ moabɛka yɛn ho sɛ yɛbɛsom Agyenkwa no,",yɛde akoma ma wɔkaa sɛ moabɛka homage no.,0.6471,0.5
+362,"Ɔde awerɛhoɔ kakyerɛɛ me sɛ berɛ a na ɔda ayaresabea hɔ no,",ɔde awerɛho ka kyerɛɛ me sɛ brɛ a na wodaa no,0.5833,0.3191
+363,asɛmpatrɛ adwuma yɛ asɔfodie asɛdeɛ.,Sampatama no,1.0,0.7097
+364,org.,.,1.0,1.0
+365,yɛbɛnya anigyeɛ kɛseɛ akoduru baabi a yɛrempɛ sɛ yɛbɛgyae yɛ.,yɛbɛnya anigyeɛ kɛseɛ akokoduru baabi a yɛmpɛ sɛ yɛbɛgya a.,0.4,0.1373
+366,sɛ yɛbɛfa Ne nhyehyɛeɛ no.,sɛ yɛbɛfa Ne nhyehyɛeɛ no.,0.0,0.0
+367,ɛnyɛ deɛ ɛde mobɛkɔ aboɔnten.,na siane,1.0,0.8333
+368,amen.,amen.,0.0,0.0
+369,Nanso na ɛwɔ sɛ metɔkɔso na megyae deɛ ɛbɛtumi asi biara ma no.,Nanso na wɔsɛ metɔ so kɔɔ na megyae deɛ ɛbɛtumi asi biara ma no.,0.3077,0.1
+370,Nkwadaa Akwankyerɛ nwoma no ka sɛ:,Na nkuranhyɛ.,1.0,0.7143
+371,"… Wo nkwa nna awieɛ no,",onkwan awie,1.0,0.375
+372,afei Milton Wright penee so na ɔhwɛeɛ sɛ Wilbur ne Orville bɔɔ mu tuiɛ berɛ a na ɛdi kan.,efiepanin mma no mienu ntumu ɛdi kan.,0.8947,0.7429
+373,Isabelle kɔɔe.,sabila.,1.0,0.6667
+374,wɔrentumi nnyina.,"wɔ baabiara no so no,",2.5,0.8
+375,"Asɔre no kuo ahodoɔ sikayie gyina sikasɛm-nsusuiɛ a wɔagye ato mu,",Asɔre no ahodoɔ gyinagyina sikasɛm a,0.6364,0.5
+376,na saa nkrasɛm yi yɛ nwanwasoɔ kɛse pa ara.,a na inan,1.0,0.7941
+377,"Amansan Sodifoɔ Aduɔson a wɔdidi soɔ yi wɔbɛma wɔn ahomegyeɛ afiri wɔn nnwumadie mu,","Amansan so dofo aduɔson a ɔdi yi wɔbɛma wɔn ahomegyeɛ afiri wɔn nnwumadie mu,",0.2857,0.1143
+378,na ɔnyaa suahunu bi a ɛnam so ma wɔhunuu ɔkwan a adwene nam so hunu kwan san ba nsutene a wɔwoo wɔn too mu no mu.,na ɔnyaa suahunu bi a ɛnam so a wo hunu wɔ kwan apata no so nuuwa saa ba tona a wɔwɔ ntoma,0.6538,0.3448
+379,Ɔpaee mu kae sɛ Ɔno ne Wiase Hann no na ɔhyɛɛ Agya no animuonyam wɔ wiase bɔne a ɔfaa mu no mu.,"ɔpae mu ka sɛ ɔno ne wiase hann no, na ɔhyɛɛ Agya no animuonyam wɔ wiase bɔne a ɔfa mu no",0.1818,0.0685
+380,na yɛbɔɔmu tenaa onwunu mu wɔ abrannaa no atraponono so.,na ɔhunu amane,0.9,0.8043
+381,“Papa kae sɛ wobɛdɔ me.,sɛ wobɛdɔ me.,0.4,0.4118
+382,metumi gyaee adwennwene na medaeɛ.,Metumi agyae adwendwen no awie no medaeɛ.,1.0,0.3103
+383,"a na afei ɔnhunnu nsutene a ɛsɔne firi mmepɔ mu gu fam a na n’ani gye ho bio no,","a na afei ɔnhunu nsutene a ɛsɛ sane firi bepɔ muguaan yi ho bi mu,",0.6842,0.3
+384,"“Menim sɛ wopɛ sɛ mekenkan ma wo na meboa wo sɛ wobɛda,",Menim sɛ wopɛ sɛ mekenkan ma wo na meboa ma wo da.,0.25,0.1429
+385,Ɛno nti na ampa ara ɔkyerɛkyerɛɛ abasɛm mmeɛnsa a yɛhunu wɔ Luka  nsɛmpa mu:,Ɛno nti na ampaara ɔkyerɛkyerɛɛ abasɛm mmeɛnsa wɔ yɛhunuu,0.5,0.2459
+386,"Afei Awurade bisa sɛ fa wo kra nyinaa dɔ—wo nipa su a wɔahyira no nyinaa—na awieeɛ no,","Afei Awurade bisa sɛ fa wo kra nyinaa dɔ onipa su a wɔahyira no nyinaa awie no,",0.2353,0.0746
+387,"Kristo kyerɛɛ yɛn sɛ “monkɔ nkɔso aba,",Kristo kyerɛɛ yɛn sɛ monkɔfa nfa,0.4286,0.2333
+388,Nabel de atɛmdidie buaa Dawid na ɔpamoo ne nkorɔfoɔ no sɛ wɔnkɔ nsapan.,Na body atifi baanan nkurɔfoɔ ne sɛ ɔnkɔ nsapan.,0.7692,0.4138
+389,Mekasa kyerɛ wɔn a berɛ bi “na wɔte nka sɛ wɔto ɔdɔ a ɔdi maa mo no ho dwom” nanso wɔnni “saa atenka no seesei.,Mekasa kyerɛ wɔn a berɛ bi a na wɔte nka sɛ wɔto ɔdɔ a ɛdi maa mo no ho womassakane sesei,0.36,0.2169
+390,Mommma yɛ werɛ mfiri deɛ Kristo faa mu de gyee yɛn no da.,momma yɛwerɛfirideɛ Kristo faa mu de gyee yɛn kwa no.,0.5385,0.1591
+391,Wɔsusu sɛ yɛgye wɔn a wɔdidi soɔ yi sɛ Amansan Sodifoɔ Aduɔson tom:,Wɔsusu sɛ yɛgye wɔn a wɔdidi soɔ yi sɛ amansan sodifoɔ aduɔson to.,0.0769,0.0185
+392,"anaa nea watɔbaha,",anaa kwata wɔtaa watɔ baha.,1.3333,0.6
+393,Yɛto nsa frɛ mo sɛ monsɔ saa anuanom yi mu wɔ wɔn nnwumadie afoforɔ yi mu.,Evans,1.0,0.9483
+394,Ɔyɛɛ nosɛn?,"yɛ,",1.0,0.7778
+395,"ne anigye a ɛbaaɛ a nkorɔfoɔ didiiɛ,",nipa,1.0,0.8966
+396,"” Akyire yi a ɔhwiee saa dadwene yi firii n’akoma mu no,",akyin.,1.0,0.881
+397,N’abusua mu nnipa bi ne ne borɔnosofoɔ tweetwee no.,nabusua mu nnipa bi ne ne brano sofoɔ atukwan no.,0.3333,0.2195
+398,Mesrɛ sɛ obiara nkyerɛ n’agyinasie wɔ kwan a yɛnim dada no so wɔ baabi a ɔwɔ.,Mesrɛ sɛ obiara nkyerɛ n'agyinasie wɔ kwan a yɛnim dada no so wɔ baabi a wɔ.,0.0625,0.0167
+399,Ɔdɔ wo.,.,1.0,1.0
+400,yɛsrɛ wɔnkyerɛ.,Sesa,1.0,0.8462
+401,Saa suahunu yi buee ɛpono maa Yesu Kristo Asɛmpa San-fa-ma no toaso.,Saa feahunuyi bue pono maa Yesu Kristo asɛmpa no a,0.5,0.2778
+402,yɛbɛnya kakra bi kɔsi sɛ yɛrennya bi koraa.,yɛbɛnya bebree bonnets a yɛbɛnya kakra bi kɔsi sɛ yɛnnyɛ bi koraa.,0.625,0.6857
+403,Mɛtumi aka afiri me ara me suahunu mu sɛdeɛ me ankasa ne ahofama mu Titenafoɔ a wɔdi Kan fa saa ahyɛdeɛ no.,Metumi aka afiri me a esuahunu mu sɛ da me ankasa ne ahofama mu titenafoɔ a wɔdi kan fa saa ahyɛdeɛ no.,0.2727,0.0706
+404,na nyansahufoɔ a wɔwɔ Max Planck Institute ma Biological Cybernetics sɔɔ saa asɛm yi hwɛɛe.,na anyansafoɔ akasaeɛ.,0.9333,0.7895
+405,"Adidikronkron no mu kyɛfa bɛma me ne Awurade Honhom no afɛkubɔ ayɛ kɛse,",ade adidie no bɛboa me honhom Kronkron no ayɔnkofa bɛ,0.8462,0.7119
+406,"akɔnkyene ne mpaebɔ a ɛkɔɔ so wɔ nnawɔtwe nnum akyi no,","akɔnkyene mpaebɔ yɛ kɔɔ so na wɔtwee nnum akyi no,",0.4545,0.1591
+407,"mmom no,",",",1.0,1.0
+408,Ɔne no kasaeɛ a wamfa anisoadehunu anaa nsɛm a ɔteeɛ so.,Ɛno ne kasaa a wamfa ne nisoadehunu no nanso ɔtee ne nka,0.9091,0.4
+409,” Yei yɛ kɔkɔbɔ kann a akyinnyeɛ nni ho sɛ yɛsiesie yɛn nkanea na yɛma yɛn honhom mu ngo a yeakora no dɔɔsoɔ.,ɛyɛ kɔkɔbɔ kann akyinyɛ iand,0.9091,0.7294
+410,"Ɛmmrɛa na mewɔ asoɔden honhom no,","mmerɛ a wɔblema asoɔden ho no,",0.6667,0.4444
+411,"berɛ a meresiesie me ho afa adidikronkron no nnawɔtwe bebree akyi wɔ siteki nhyiamu nnwumadie akyi,",berɛ a mesese me ho afa diikonkron no na wotwe bibiaa wɔ State shia mu dwumadi akyi.,0.5625,0.3012
+412,Ɔne n’abusua sakyera maa Agyenkwa no na wɔbɔɔ asu.,Ɔne n'abusua sakyera maa Agyenkwa no ma wɔbɔɔ wɔn asu.,0.2222,0.1
+413,“M’agya fie tenabea bebree wɔ hɔ.,Jafet bebiree wɔ hɔ.,0.6667,0.44
+414,"Berɛ a me ne me yere Elaine kɔɔ Spain wɔ afe  mu no,","Berɛ a na ne ne yere wineosition mu no,",0.5385,0.4474
+415,"” Ne nyansa mmuaeɛ ntɛm so no maa mehunuu bio sɛ wode Yesu Kristo asɛmpa no rebɔ bra nyi yea ne nsɔnhwɛ,",fie,1.0,0.9753
+416,"Nanso anwanwasɛm,","a,,",1.0,0.9333
+417,"mfeɛ a wɔadi,",mfeɛ a wadi,0.3333,0.1
+418,"Yɛte mmerɛ a ɛnsii da a tete nkɔmhyɛfoɔ hyɛɛ ho nkɔm,",Yɛte mmerɛ a ɛnsi da a tete nkɔmhyɛfoɔ hyɛɛ ho nkɔm a,0.1818,0.0476
+419,Sɛyɛbɛnyini ama Awurade no nti na yɛwɔ asaase yi so.,see bɛnyinaa na Awurade ne nti na ɛwɔ asase yi so.,0.6,0.1905
+420,Wɔn a wɔn adwuma ne sɛ wɔkasa fa ɛmu nsonsonoeɛ ho no fata nkuranhyɛ ne aseda.,wɔn a wɔn adwuma ne sɛ wɔkasa fa ɛmu nsunsuansoɔ ho no fata nkuranhyɛ ne Aseda,0.0625,0.0968
+421,"berɛ a magyina ntentene de amansan nhyiamu kasa boro  ama no,",perannan,1.0,0.8571
+422,"“Mommra me nkyɛn,",mayɛ,1.0,0.6923
+423,Mfatoho papapaa yɛ abrabɔ kann nhwɛso kɛseɛ.,grateaabraba kan hwɛ so kɛseɛ,0.8571,0.4324
+424,woyɛ me babarima.,hudeɛ,1.0,0.9286
+425,"kaseɛbɔ kuo bi de too dwa faa kwan a ɛnanom kuo bi a ɛwɔ Poland,",kaseɛ bɔ kuo bi de to dwa faa kwan a ɛbinom akodu mfiri Poland a.,0.6,0.2653
+426,"Ɛbɛtumi asi,",bɛtumi akɔ so,1.5,0.4
+427,Ɔsoro Agya hyɛ bɔ sɛ ɔde yɛn bɔne bɛkyɛ yɛn na wama yɛn Sunsum Kronkron no ayɔnkofa.,Ɔsoro Agya shɛb sɛ adeɛ bɔne bɛhyɛne ama yɛsosoo kron no ayɔnkofa.,0.6471,0.2985
+428,kyerɛkyerɛɛ sɛ:,Shekem Peter no deɛ ɔnyɛ,2.5,1.1538
+429,ɛnyɛ w’asodie.,Ɛnyɛ wo na asodie.,1.5,0.2727
+430,"Asɔre no akuo ahodoɔ de sika di dwuma sɛdeɛ wɔn akontabuo mpenesoɔ,","Asɔre no akuafoɔ de ka di dwuma sɛdeɛ wɔn akontabuo mpenesoɔ,",0.25,0.1091
+431,na ɛwɔ sɛ meyɛ na mesan yɛ no bio ne bio.,"na ɛwɔ sɛ meyɛ na mesan yɛ bi na meyɛ bio,",0.2727,0.2333
+432,Ɛhefa na Yɛbɛtumi Anya Anigyeɛ?,.,1.0,1.0
+433,wɔsan de asɔfodie no maa Joseph Smith ne Oliver Cowdery.,Wɔsane de asɔfodie no ma Dwoematene Oliverer,0.7,0.3043
+434,"ebia yɛbɛte nka sɛ yɛpɛ sɛ yɛde yɛn ho to ankorankoro tumi ne nneɛma a yɛpɛ so kɛseɛ,","ebia yɛbɛte nka sɛ yɛpɛ sɛ yɛde yɛn ho to yɛn ankasa tumi ne nneɛma a yɛpɛ so kɛseɛ,",0.1111,0.1194
+435,"nkyekyere yɛn werɛ,",nkyerɛkyerɛkyerɛ yɛ.,1.0,0.5
+436,"Ɔtee Abinadi nsɛm,","Ɔtee abanano,",0.6667,0.4
+437,nanso ɔnyaa adwuma wɔ nsrahwɛbea ne adɔeɛdie dwumadibea.,ano no nyadwumayadeɛ.,1.0,0.7083
+438,Ned Brimley de asɛmtia bi yɛɛ nsanhɔ maa ne nkanyan kasa no:,Na brɛma,1.0,0.875
+439,"Apam-korafoɔ a wɔwɔ asɔre mu wɔ honhom akyɛdeɛ a ɛbi ne Yesu Kristo ho adanseɛ sɛ yɛn Agyenkwa,",Apam akurafoɔ no a wɔwɔ asɔre no honhom akyɛdeɛ a ɛbi Yesu Kristo ho a adasa agye nkwa.,0.5556,0.25
+440,Yɛde asɔfodie akannifoɔ binom aka ho a wɔbɛhwɛ akuo a wɔreyɛ bi no so.,Yɛde asɔfodie akanum aka ho a wɔbɛhwɛ akuo a wɔreyɛ bi no so.,0.1429,0.1607
+441,"Wɔn a wɔpɛ sɛ wɔne yɛn bom da saa anuanom yi ase wɔ ɔsompa a wɔdaa no adie no,",Wɔn a wɔpɛ sɛ ɔne yɛn bom da saa anuanom ase wɔ so panned,0.4211,0.2881
+442,kaa n’awerɛhoɔ kyerɛɛ No.,kaa awerɛhosɛm kyerɛɛ,0.5,0.3
+443,mede anigyeɛ di adanseɛ sɛ Titenani Nelson yɛ Onyankopɔn nkɔmhyɛni teasefoɔ na Yesu Kristo Asɔre a ɛwɔ hɔ ma Nna a Ɛdi Akyire Ahotefoɔ no yɛ Kristo Asɔre a wɔasan de aba no restored Church.,Mede anigyeɛ di adanseɛ sɛ Titenani Nelson ne Anyakopɔn kɔhyɛn ti teasefoɔ no ayisu Kristo asɔre wɔ hɔ a na ɛdi,0.6857,0.461
+444,"Saa adansedie yi ahyɛ me den mfeɛ nan a atwam a me yere,",saa adanseɛ yi ahyɛ me deme nan a atwam a me yere,0.2308,0.1395
+445,“Mepere duru botaeɛ No Ho sɛdeɛ mɛnya ɔsoro frɛ a Onyankopɔn nam Yesu Kristo so afrɛ me ne mu nkonimboɔ no.,Mepɛ sɛ me duru botan no ho sɛdeɛ mɛnya ɔsoro frɛ Onyankopɔn a Yesu Kristo so frɛ me o.,0.5238,0.2824
+446,"sɛnea ɛbɛyɛ a ayɛyɛdeɛ bi bɛda Onyankopɔn tumi adi wɔ yɛn abrabɔ mu no,","sɛnea ɛbɛyɛ a yɛde bi bɛda Onyankopɔn tumi adi wɔ abrabɔ mu no,",0.1429,0.1228
+447,"Berɛ a wɔn mu biara si so dua sɛnea wɔyɛ abɔfra a wɔdɔ no sene obiara no,","berɛ a wɔn mu biara kyewee wɔyɛ abɔfra a wɔdɔ no sene biara no,",0.2941,0.2143
+448,"Ewiase agofomma a wɔregyina ama aman bɛboro  bɛkyerɛɛ ahoɔden,",Yɛnyaa Gagoa ɔgyina ma aman bureau bɛkyerɛ ahoɔden.,0.7778,0.4038
+449,"maa No,",a,1.0,0.8
+450,"Yɛkae Ne dɔ frɛ “mommra me nkyɛn,",yɛkae no dɔfo mmra me nkyɛn.,0.5714,0.16
+451,"‘awieeɛ’ a yɛbɛpɛ sɛ yenya paa ne sɛ yɛne yɛn mmusua bɛtena daa wɔ tebea a ɛkorɔn mu a yɛbɛtena Onyankopɔn,",ɛwɔ yɛbiribiara,1.0,0.9048
+452,meda saa nokorɛ yi adi kyerɛ mo ne wiase nyinaa!,Meda saa nokorɛ yi adi akyerɛ mo ne ewiase nyinaa.,0.2,0.0526
+453,"Na Petro si firii kodoɔ no mu no,",na ɔkaa sɛ firi ne mu no.,0.625,0.52
+454,Japan mission president no nyaa nkanyan hyɛɛ Japan asɔremma no wɔnyɛ ahoboa sɛ wɔbɛkĨɔ tɛmpol.,"yɛapase preson nyanyanyanya yapase ma no so ɔnyamaase ɔbɛkɔ tɛmpol,",0.8667,0.4557
+455,ne Eastern Canada yɛ dwumadie a ɛyɛ hu a ɛto nnipa papa bi nso.,Ne Estera.,0.9286,0.8367
+456,ne Henry Bennion Eyring sɛ Fotufoɔ a Ɔtɔ so Mmienu wɔ Titenafoɔ a Wɔdi Kan no mu.,sɛ Fotufoɔ a ɔtɔ so mmienu wɔ Atitenafoɔ anim,0.5882,0.4688
+457,amen.,ame.,1.0,0.25
+458,"“Na ntɛm ara Yesu tenee ne nsa,",na ɔfirii aseɛ sɛ,0.8571,0.7391
+459,"Brazil Calabar,","Bezalel Calabar,",0.5,0.3077
+460,“Mma w’adwene nkɔ wo haw so pii a ɛmma wonhunu mmuaeɛ no.,Ma mo adwene nkɔ haw so pii a ɛmma wonhunu maeɛ no.,0.4167,0.1628
+461,watua ɛka aboɔden ama yɛn anigyeɛ.,Wɔtua ɛka aboɔden ama yɛn anigyeɛ.,0.1667,0.0357
+462,monyɛ dɔmmarimma mapa na monsesa mo kwan esiane mo asefoɔ nti.,ɛbama naporɔso,1.0,0.8235
+463,"firii Utah kɔɔ Los Angeles,",anaa,1.0,0.9091
+464,"Hwan bio na ɔsene kunafoɔ dɔfoɔ sɛ ɔbɛnya ne bishop a ɔkuta ne nsa,",Hwan bio na ɔsene kunafoɔ dɔfoɔ sɛ ɔbɛnya ne bishop a ɔkuta ne nsa,0.0,0.0
+465,nanso na wɔda so ara rebɔ mmɔden sɛ wɔbɛtete mmɔfra atenenee wɔ wiase a amumuyɛ wom mu.,nanso na wɔda so a bɔ mmɔden sɛ wɔbɛtete mmɔfra atene wɔ wiase a wome wɔ mu.,0.2941,0.2143
+466,"Berɛ a ebia nneɛma bi gyina nsɛm a ɛfa so no,",Berɛ bi a nneɛma bi gyina nsɛm a ɛfa so no.,0.1818,0.0588
+467,Adɛn na ɛyɛ den ma yɛn sɛ yɛbɛnante wɔ kwan ntentensoɔ so?,Ɛdɛn na ɛyɛ den ma yɛn sɛ yɛbɛnante wɔ kwan ntentensoɔ so?,0.0833,0.0217
+468,"Packer kyerɛkyerɛɛ sɛ “saa sɛnkyerɛnne kwan so adeyɛ yi wiase no antie,",akyerɛkyerɛ sɛ saa nsɛnkyerɛni kwan so adeyɛ wiase no nti.,0.4167,0.2241
+469,yɛbɛtumi anya ɔdɛ atenka a ɛmfa ho ne deɛ ɛresi﻿—anaa sɛ ɛnsi wɔ yɛn﻿—abrabɔ mu.,yɛbɛtumi anya ɔdɛ atenka a ɛmfa ho ne deɛ esiane nsiyɛ wɔ yɛn abrabɔ mu.,0.3333,0.1475
+470,Wobɛtumi anya mmuaeɛ bi a ɛbɛyɛ wo nwanwa a ɛne wasɛm a wahyehyɛ no bɔ abira.,Wobɛtumi anya mayɛ bi a ɛbɛyɛ nwanwa ne wasɛm a wahyehyɛ no bɔ abira.,0.25,0.1148
+471,"” “bra na bɛsom,","""",1.0,1.0
+472,"Nelson aka no mpɛn pii sɛ Onyankopɔn gyeɛ nokorɛ no nyɛ ɔhyɛ so,",Nasona ka ho mpempii sɛ Onyankopɔn gyeɛ nokorɛ no nyɛ ɔhyɛɛ,0.5385,0.1373
+473,"Nna a ɛdi Akyire Ahotefoɔ Adɔeɛkuo ne Rahma Worldwide adwumayɛfoɔ akokoɔdurofoɔ bi hyɛɛ aseɛ de aduane bi a ɛyɛ hye,",Na di akyerɛ ahotefoɔ do yɛ kɔ ne Rama Worldwide adwumayɛfoɔ kokodurufoɔ bi hyɛɛ aseɛ de aduane a ɛhyɛɛ,0.6,0.2083
+474,Na adeɛ a na ɛyɛ ntama fitaa no hyɛɛ aseɛ bɛyɛɛ biribi dodoɔ.,Na adeɛ a na ɛyɛ nkumafitaa no hyɛɛ aseɛ bɛyɛɛ biribi foforɔ.,0.2308,0.1042
+475,mesɛeɛ berɛ kakra wɔ deɛ mepɛ sononko ho.,Medeba bi di dwuma wɔ kɔtenaa,1.0,0.7576
+476,"Na aseɛ ne sɛn,",na mehome.,0.75,0.7273
+477,metoa so kenkan yɛ!,me,1.0,0.8667
+478,“Na wɔn nyinaa ayɛ baako;,na yɛ ankaa,0.8,0.6842
+479,"Mmom sɛ mobɛdwene deɛ enti a ɔbɔfoɔ bi mma mmɛboa wo ba no ma ɔnu ne ho no,",.,1.0,1.0
+480,Ne mpata afɔreɛ a ɛnni ano a ɔbɔ maa yɛn no de honam a ɛnnwuo ne daa nkwa brɛ yɛn.,Ne mpata afɔreɛ a ɔbɔ maa yɛn no de honam a wuna nkwa brɛ yɛn.,0.3,0.2419
+481,Anoboaboa no da nsonoeɛ wɔ ɛnni awieɛ mu ma obiara.,ayeresa.,1.0,0.9024
+482,mekɔɔ Elaine nkyɛn kɔsrɛɛ no sɛ ɔmfa me nkyerɛ n’adamfo foforɔ no.,Mekɔɔ Elenose no sɛ ɔmfa ne nkyerɛ n'adamfo orforɔ no.,0.4167,0.283
+483,ɛbɛtumi akanyan yɛn atenka a ɛwɔ yɛn soro fie no.,ɛbɛtumi anya akanyan atenka wɔ afie,0.8,0.4103
+484,Monyɛ baabi a ɛyɛ den no.,"bɛna bi wɔ da,",1.0,0.7368
+485,"mommɔ mpaeɛ mma wɔn a taa mo,","Mo atamfo mmaema wɔn a wɔtaa mo,",0.5714,0.4545
+486,nsɛmfua a mate no mpɛn bebree de ɔhyɛ bi baa m’adwene ne m’akoma mu.,asɛmfoɔ a mate no mpɛn bebree de ɔhyɛ bi baa m'adwene ne m'akoma mu.,0.0714,0.0577
+487,"Saa abakɔsɛm da wɔ Kitty Hawk no mfeɛ nson akyi,",Saa abakɔsɛm wɔ Ketewa ko mfeɛ nso akyi.,0.5,0.2368
+488,"Ɛmfa ho ne ne nkwa nna mu nsɛm denden,",ɛmfa ho ne ne ne nkwanasene,0.5556,0.3793
+489,Na wɔnim no na wɔdɔ no na “wɔbɛpɛ sɛ [ɔyɛ] wɔn kandifoɔ.,na wonnim na wɔdɔɔso.,0.8333,0.6585
+490,"kaa sɛ,",a,1.0,0.8
+491,Saa nsatoɔ no a megye too mu no sesaa m’asetena.,"magye saa ɔfɛn Automara,",1.0,0.7838
+492,amen.,men.,1.0,0.25
+493,Kristo mpata akyɛdeɛ kɛseɛ no yi honam ne honhom mu owuo akwansideɛ biara a ɛbɛtete yɛn ne yɛn ɛnniawieeɛ fie no firi hɔ.,Kristo mpata akyɛdeɛ kɛseɛ no yi honam ne honhom mu owuo akwansideɛ biara a ɛbɛtena yɛn mu afiri hɔ.,0.3043,0.2041
+494,Russell Ballard sɛ Titenani Ananmusini wɔ Asomafoɔ Dummienu Kuo no mu.,Realise anamsɔ Asomafoɔ Dumako no mu.,0.7273,0.5085
+495,"Ɛyɛ me nwanwa sɛ ɔbɛsiane afiri n’ahennwa kronkron so Abɛgye ɔkra a ɔyɛ otuatefoɔ ne ahantan te sɛ me,",ɛyɛ me nwanwa sɛ ɔbɛsiane afiri nahennwa kɔnkron so bɛgye ɔkra ɔyɛ ahantan te sɛ me.,0.2632,0.1829
+496,wɔatwe me akɔ Helaman ne Amon nkurɔfoɔ mma a wɔaduru wɔn mfeɛ soɔ ho asɛm no so.,wɔatwe me akɔ Helaman ne Amon nkurɔfoɔ mma wɔduru wɔn mfeɛ so ho asɛm no so.,0.1765,0.0476
+497,me ne m’abusua kɔdii akwamma wɔ mpoano bi a ɛwɔ me man Chile mu.,menim m'abusua kɔdii akwamma wɔ mpoano bi a ɛwɔ me man kyili mu.,0.2143,0.102
+498,na ɔdi Yesu Kristo ho adanseɛ ahunu saa haw yi amanehunu ne nsɔhwɛ dabiara.,wɔyi Kristo ho adanseɛ housayse da biara.,0.7857,0.5082
+499,Ɛyɛ “ahoɔden akyɛdeɛ“ a ɔde ma no na ɛma yɛbɛyɛ ateneneefoɔ.,ɛyɛ ne mmoa kronkron a wɔde ma yɛn no na ɛma yɛ bɛfata,0.6364,0.617
+500,na wɔn mmusua ahyɛ den na wɔasɔ wɔn mmusua ano.,"na wɔn abusua ahyɛ den na wɔasow n'abusua,",0.5,0.2432
+501,ɛna na wɔtumi deka topaeɛ ho a wɔnsɛe n’ahoɔden.,etumi de to paasɛ na hoɔden.,1.0,0.4474
+502,Hwanyan ne haw no abunkam nnipa bebree so ama wɔayɛ mmrɛ.,ho nyɛ nahanban bebree so ama wayɛ mmerɛ.,0.7273,0.3913
+503,Meka Yesu Kristo Asɔre ho no som bo ma me.,ka Yesu Kristo Asɔre no so meboa.,0.6,0.25
+504,Wɔbɛtumi akyɛ ɛboɔ no mu mmienu sɛ asɔremma a wɔwɔ Japan no han adupre de kɔ Hawaii wɔ ahomegyeɛ berɛ mu.,Wobɛtumi akyerɛ aboano mu mmienu sɛ asɔremma a wɔgyaa no han adupre ne kɔ Haywahomegyeɛ mu.,0.5238,0.2381
+505,"mpo Ne nhyehyɛeɛ “nwanwasoɔ” no,",mpo nom sɛ ɔbadeɛnyi,0.8,0.72
+506,Wɔsusu sɛ yɛntae wɔn a wɔdidi soɔ yi akyi sɛ Amansan Aduɔson Mpanimfoɔ:,Wɔsus yɛntae wɔn wɔdidi soɔ yi akyi samansamanfoɔ.,0.5385,0.2759
+507,"Berɛ a yɛbɔ mpaeɛ na afei yɛtie Honhom no nkannyan no,",werɛ a yɛbɔ mpaeɛ na so no horonkron no,0.4545,0.4419
+508,Farisini bi a na ɔyɛ mmaranimfoɔ bisaa Agyenkwa no asɛm bi a na ɔnim sɛ ɛkame ayɛ sɛ ɛrentumi nyɛ yie sɛ ɔbɛbua:,Farisini bi a na ɔyɛ mmaranimfoɔ bisaa Agyenkwa no nsɛm bi a na ɔnnim sɛ ɛka me a sɛ ɛntumi nyɛ yie sɛ bababa.,0.3043,0.1124
+509,"Twerɛsɛm twerɛtohɔ fa Enok som frɛ ho kyerɛ sɛ “ɔtee nne firi soro a ɛreka sɛ ,",twerɛsɛm twerɛtoɔ fa Enok som frɛ ho kyerɛ sɛ friskainom,0.5,0.3115
+510,na ama wɔanya ne Honhom no ne wɔn atena mmerɛ nyinaa.,na mɔnanehonhom ne wɔn atena mmerɛ nyinaa.,0.4545,0.1667
+511,"gyina ano,","Na,",1.0,0.75
+512,amen.,'.,1.0,1.0
+513,ChurchofJesusChrist.,"Christ,",1.0,0.6842
+514,"honhom mu suahunu sononko bi so bueeɛ a ɛmaa no Onyankopɔn dɔ a ɔwɔ ma no no nokorɛ a ɛyɛ,",Hom mu fihunu sɛ nkubi so bie maa onyankopɔn daa ɔwɔ ma no no no koraa ɛyɛ,0.6,0.2714
+515,Yɛto nsa frɛ mo sɛ mommoa ma yɛntae anuanom yi akyi wɔ wɔn nnwumadie foforɔ mu.,Yɛto nsa frɛ mo sɛ mommoa ma yɛntae anuanom yi akyi wɔ wɔn nua die foforɔ mu.,0.125,0.0476
+516,"Ɔyɛ “[yɛn] “honhom Agya no ,","yɛ Onyankopɔn a,",1.0,0.6667
+517,amen.,Amen.,0.0,0.0
+518,"Ɔsomaa Ne Dɔba a ɔsom bo no baa wiase a ahwease yi mu sɛ ɔntena ase wɔ nnipa suahunu no nyinaa mu,",Ɔsomaa ne dɔba a ɔsom bo ma wiase a ɔhwee mu sɛ ɔntena ase wɔ nnipa suahunu no nyinaa mu.,0.1818,0.1184
+519,Nanso ɛwɔ sɛ saa tɛmpol yi si hɔ kyɛre yie.,Nanso saa asɛm po sɛ ɛgyina hɔ kyɛ yie.,0.7,0.4242
+520,anwanwadeɛ foforɔ siiɛ.,deɛ ɛyɛ ahodwirie,1.0,0.85
+521,yɛkɔɔ Kwasiada nhyiamu wɔ yɛn wɔɔd foforɔ a ɛyɛ nwanwa no mu.,Yɛkɔ kɔsi adaneamu wɔ yɛn wɔɔd foforɔ a ɛyɛ nwanwa num.,0.4167,0.1633
+522,mefri Tonga Ahennie a ɛwɔ Pasific Anaafoɔ na mmom wɔtetee me wɔ Amɛrika Atifi.,Mefiri Tongahemfie a ɛwɔ Pasific anafoɔ a ɛtete mo Maria,0.7857,0.375
+523,(Sɛnea yɛn a yɛaka wɔ Nigeria no yɛeɛ no!,is great joy as did the rest of course in Nigeria I,1.3333,1.0645
+524,"David Cannon/Allsport/Mfoni ahodoɔ Berɛ a Nigeria mmarima bɔɔlbɔ kuo no suaa sɛ wɔbɛbu wɔn ani agu nneɛma pii a ɛtwetwe wɔn adwene so,",is olimpa akansie.,1.0,0.8899
+525,ɛwɔ sɛ yɛyɛ nhwɛsoɔ ma yɛne afoforɔ asetena—titire berɛ a yɛwɔ adwene nsonoeɛ.,ɛwɔ sɛ yɛnhwɛso mma yɛn ne afoforɔ asetena mu ne titire no berɛ a yɛwɔ adwene nso nsonyɛ,0.8462,0.2031
+526,deɛn na wɔhunuiɛ?,deɛn na,0.3333,0.5714
+527,ɛtwee deɛ na ɔretwetwe homa no tɔɔ nakyiri na ɛtwee no hare so de no baa mmɔnkum no ano.,teebia watwetwe oman fo nakyiwadeɛ mu no nkontan,0.9474,0.5797
+528,"”Yɛte Agyenkwa no Mpata nwanwasoɔ a abunkam so ne Ne ɔgyeɛ ayɛyɛdeɛ ne apam,",Yɛte ahonu ne tenenee nnwuma nyinaa seeannot abunkam,0.8571,0.6885
+529,Anka mɛhunu sɛ ɛnkaa me nko ara.,anka makyi nhabanmono.,0.8571,0.64
+530,"agye yɛn,","way,",1.0,0.8571
+531,taa kɔ—ɛnnyɛ kakrabi.,takɔbiri bi.,1.0,0.5882
+532,"Elder Alonso babarima wuo akyiri berɛ tiawa bi,",Elder Hose ..ba wu Akyire tiawa,0.75,0.4359
+533,"Ɔbɛtumi ayɛ “nsakraeɛ kɛseɛ wɔ … yɛn akoma mu,","ɔbɛtumi ayɛ nsakyeraeɛ kɛseɛ wɔ yɛn akoma mu,",0.125,0.0571
+534,ɛfiri sɛ Kristo nsɛm no bɛka akyerɛ yɛn biribiara a ɛhia sɛ yɛyɛ (hwɛ  Nifae :,"ɛfiri sɛ Kristo nsɛm no bɛka akyerɛ yɛn biribiara a ɛhia,",0.2667,0.2333
+535,Ankorankorɛ a wɔyɛ mmerɛ abrɛ—na wɔgu so brɛ.,Ankorankorɛ a wɔyɛ mmerɛ berɛ na agu so brɛ.,0.375,0.1111
+536,Yɛkasa fa wɔn adomakyɛdeɛ a wɔn wɔ ho.,yɛkasa fa ahodom akyɛdeɛ yɛ wɔ ho.,0.5,0.2667
+537,”(Nkyerɛkyerɛ ne Apam :,abe,1.0,0.9412
+538,Ɛyɛ nhyira sɛ yɛgye Awurade adwene ne ne pɛ firii Ne nkɔmhyɛfoɔ ne asomafoɔ nkyerɛkyerɛ mu Titenani Russell M.,"Ɛyɛ nhyira sɛ yɛgye Awurade adwene ne ne pɛfiri nkɔnhyɛfoɔ no somafoɔ nkyerɛkyerɛne,",0.5789,0.2418
+539,"Asɔre no di nhyehyɛeɛ a wɔkyerɛ asɔremma no so,",Asɔre no di nhyehyɛeɛ a wɔkyerɛ asɔremma no so.,0.0,0.0
+540,ɛna ward mufoɔ nam adesua yi a wosuaeɛ no so.,Ɛnna wɔmoayiyi a wɔsua no so.,0.7,0.5143
+541,Ɛnhia edin agyiraeɛ anaa atwerɛdeɛ biara.,asoa.,1.0,0.9429
+542,"Ɔka wɔn ho asɛm wɔ abusua nhyiamu hodoɔ ase,","ɔka wɔ asɛm wɔ abusua nhyiamu hodoɔ ase,",0.2222,0.0857
+543,Na ɔremem kɔ annye annie kɛseɛ mu fa Agyenkwa no ne N’Asɔre ho.,Agyenkwa no ase,0.8462,0.7347
+544,"na anya tumi kɛseɛ wɔ nkorɔfoɔ no adwene so sene nkrantɛ,","na ɛnyɛ tumi kɛseɛ wɔ nkurɔfoɔ no adwene so sene nkrantɛ,",0.1818,0.0652
+545,"mehunuu sɛnkyerɛnneɛ bi a ɛma hann wɔ dan no soro wɔ m’anim a na ɛka sɛ,","Mehunuu nsɛnsɛn bi a ɛma ɛha wɔ adan no mu a ɛtwerɛ sɛ,",0.5,0.4909
+546,"ɛbɛtumi aboa ma yɛahunu sɛ yɛdan Yesu Kristo,",tumi boa ma yɛnhunu yɛ ahwe aseɛ aboa,0.875,0.4865
+547,"Na yɛwɔ beaeɛ a ɛnnuru kwansini  (mita ) firi fie,",o,1.0,1.0
+548,"sɛdeɛ wɔatwerɛ wɔ ɔfa  wɔ Nkyerɛkyerɛ ne Apam mu no,",sɛdeɛ wɔatwerɛ ne wɔankyekyere apam no.,0.6,0.2927
+549,"Worekae nea woyɛ Onyankopɔn ba—a ɔdɔ wo—Deɛ nti a wowɔ asase yi so,",Wokae nea ɔyɛ Onyankopɔn a ɔdɔ wo wnann,0.7692,0.4615
+550,Asɔreba biara a wabɔ asu bɛtumi ayɛ ɔdanseni wɔ ateasefoɔ asubɔ mu.,Asɔreba biara a wabɔ asu bɛtumi ayɛ adansedie wɔ atasefoɔ asubɔ mu.,0.1667,0.0727
+551,"ɛyɛ me nwanwa wɔ ɔkwan a Paulo nyaa nkanyan ɛnam ɔdɔ ne anisɔ so berɛ a na ɔresom,",ɛyɛ me nwanwa wɔ ɔkwan a polo nyaa nkanyan ɛnam ɔdɔ ne anisɔ berɛ a na ɔso.,0.1667,0.1094
+552,"asɔfodie akuo,",saa hyɛdeɛ wɔ akwan ahodoɔ pii so a ebi ne asɔfodie kuo.,5.5,2.8333
+553,Woretie me nkransɛm wɔ saa amansan nhyiamu yi ase yɛ gyidie anammɔntuo.,Wote nkansɛm saa amansan nhyiamu yi ase yɛ gyidie anammɔntuo.,0.3333,0.1356
+554,wɔ mo gyedie ne mpaebɔ a mokɔ so gyina Asɔre akannifoɔ ananmu bɔ.,Ho.,1.0,0.9808
+555,"“Monhwɛ mede m’asɛmpa no ama mo,",wohwɛ mede m'asɛmpa no ama me asɛmpa no a mede mema mo.,1.1667,0.875
+556,a obiara akyi kyerɛ ɔfoforɔ.,a,0.8,0.9565
+557,"sɛdeɛ asɛm no nkyerɛkyerɛ wɔ su kɛseɛ sɛ ɛbɛdi nkorɔfoɔ no anim ma wɔayɛ deɛ ɛtene—aane,",sɛdeɛ asɛm no nkyerɛkyerɛ wɔ su kɛseɛ a ɛdi nkurɔfoɔ no anim ma wɔayɛ deɛ ɛtene ne,0.3125,0.0986
+558,Nelson akyerɛkyerɛ yɛn nansa yi sɛ:,Nelson akyerɛkyerɛ nsrɛ,0.6667,0.3103
+559,Sesa sɛdeɛ wo da hwɛbea teɛ.,wosesa.,1.0,0.8636
+560,"Agyenkwa no adwuma kɛseɛ bɛtumi aba awieeɛ wɔ ɔkwan kakraabi,",Agyenkwa no atumi akɛseɛ bɛtumi awieɛ kakra bi.,0.7,0.2941
+561,"ne mmaa afoforɔ dii Joseph ne Nicodemus akyiri,",ne mma afoforɔ iJohn kɔdimu akyiri.,0.625,0.3333
+562,Worebisa asɛm a ɛte saa no twe ɔdanseni sɛ ɔnkyerɛ wo—ɔtemmuani no ne abadwafoɔ no—biribi a wonnim dada.,Wobisa asɛm a ɛte saa tweaso no biribiara wonnim dada.,0.6111,0.5238
+563,"anwanwadeɛ yi amma amonom hɔ ara Mmom no,",awadeɛ yiman,1.0,0.6667
+564,"Medi me adanseɛ a ɛyɛ nokorɛ,",ideali adanseɛ sɛ,0.8333,0.6522
+565,a Japan ka ho.,"Haa,",1.0,0.8
+566,Akoma a ɛtumi nanteɛ mpo pere berɛ a yɛretu mmirika foro bepɔ.,Akoma a ɛtumi nanteɛ mpo pere yɛretumi ka foroe.,0.5,0.22
+567,Na wei bɛyɛ akwanya kɛseɛ ama me sɛ mesua brɔfo kasa.,Na wei bɛyɛ akwanya kɛseɛ ama me sɛ mesua brɔfo kasa.,0.0,0.0
+568,Larson Kwankyerɛfoɔ Panin,atete,1.0,0.913
+569,metee yɛn babarima a wadi mfie nkron no sɛ:,Metee sɛ yɛbɛ barima a wadi nfie nkuro sɛ:,0.6667,0.2647
+570,"Nsamsoɔ adeɛ biara nya mmoa a ɛma ɛmu duro firi abantenten a ɛyɛ pɛpɛɛpɛ no mu,",nsa so adeɛ biara nya mmoa a ɛma emuduro firi abantenten a ɛyɛ pɛpɛɛpɛ no mu.,0.25,0.0476
+571,"nanso wɔ saa da yi,","Na beaeɛ,",1.0,0.7857
+572,mehunuu sɛdeɛ wɔahyira me sɛ menim na medɔ Twerɛsɛm a n’ani gye ho paa.,mehunuu sɛdeɛ wɔahyira me sɛ menim na medɔ Twerɛsɛm ne gye ho paa.,0.1429,0.0714
+573,"Anuanom mmaa ne mmarima,",is Macra.,1.0,0.8
+574,Wɔtaa bisa me ahintasɛm a ama matena ase akyɛ saa.,Wɔtaa bisa me sɛ yɛn nti na na atasekyeɛsaa.,0.7,0.425
+575,"Wobɛtumi agyae abufuo,",u,1.0,0.9474
+576,"na merebɛwie me abɔdin krataa a ɛdikan wɔ asaasesɛm sua wɔ ntoasoɔ sukuu mu Wɔ afe no awieɛ no,",ne tututaa mebɛwiee mu wɔ hɔ napɔna hyɛ,0.8947,0.7763
+577,Cook bɛkyerɛkyerɛ yɛn nsakyeraeɛ a ɛfa mmranteɛ no ho.,kubɛrɛbɛrɛ a mmeranteɛ no ho.,0.6667,0.5778
+578,"ɔbutuufam na ɔkasa kyerɛɛ Awurade,",notoora.,1.0,0.8966
+579,"wɔatwerɛ ato hɔ na wɔayɛ no sɛdeɛ sikasɛm-nsusuiɛ a Asɔre gye to mu,",Kpeawo,1.0,0.9259
+580,"Sɛ mode akyidiyɛ a ɛmu yɛ den yii mo nsɔhwɛ ano a,",na mo de akyideda yɛ den yi mu nhwɛhaa a,0.75,0.3947
+581,ne Ne dwumadie a ɛhia wɔ Agya no gyeɛ nhyehyɛeɛ ma me ne m’abusua.,ne ne dwumadie a ɛhia wɔ Agya no hyɛɛ mu a me ne m'abusua.,0.2143,0.1961
+582,asɛm baako a ɛyɛ a metaa bisa wɔn a wɔasakra no ne sɛ ɔkwan a wɔne wɔn abusuafoɔ nam so bɛhunu Asɔre no ɛne ɔkwan a wɔnam so bɛbɔɔ asuo.,Asɛm baako a metaa bisa wɔn a wɔasakra no ne ɔkwan a wɔne wɔn ebusua nam so bɛhunu asɔre no ne ɛkwan nam so bɔ asuo.,0.3,0.1698
+583,amen.,Amen.,0.0,0.0
+584,"Ɛyɛ mfeɛ aduɔson nnum firi berɛ a wɔbɔɔ me asu na wɔhyɛɛ me den sɛ Yesu Kristo Asɔre a ɛwɔ hɔ ma Nna a Ɛdi Akyire Ahotefoɔ muni wɔ Zwickau,",ɛyɛ usianmfiri berɛ a ɛwɔ asuo hyɛɛ asɔre sɛ kredono wɔ sika wo,0.8667,0.6422
+585,Ankyɛ koraa na merehu sɛ nsɛmfua koro no ara na mede di dwuma da biara da sɛ mmaranimfoɔ no nso yɛ nsɛmfua a mede di dwuma wɔ m’asɛmpa nkɔmmɔdie mu.,antɛkoraa na mehunu sɛ nsɛfo akorɔ no ara na medi dwuma da biara sɛ mmaranimfoɔ no nso yɛ nsɛmfoɔ a mede di dwuma wɔ m'asɛmpa nkɔmmɔdie mu.,0.3,0.1197
+586,anammɔn a wɔtu wɔ apam kwan so:,na yɛyɛ titiriw so.,0.8571,0.75
+587,Nnansa yi ara na medii m’awoda a ɛto so  na menam saayɛ so firii m’afe a ɛto so  ase.,Masɛya na bidiɛ so biara mensie wɔ ha no ase.,0.8421,0.6613
+588,"Newsweek rebɔ Titenani Nelson awoda ho amanneɛ no,",Neseere wɔn titenani nansoaa ama deɛ no.,0.75,0.3571
+589,Agyenkwa no ahummɔborɔ ne tema a ɔnya maa Mary no yɛ me nwanwa;,"Agyenkwa no ho mmɔborɔ ne tema a ɔnya a marine yɛ menana,",0.5385,0.16
+590,a asom yie boro mfeha no.,a asom yie boro mfeɛ wɔ ha no akyiri no.,0.8333,0.5789
+591,"Anuanom mmarima ne mmaa adɔfoɔ,","naa,",1.0,0.8846
+592,Nanso nnyinasosɛm pɔtee bɛn nti na ɛmaa Nkɔmhyɛni no kaa saa anigyesɛm yi?,na yɛguso dedam ha bere a yɛde nhyɛ no ayɛ adwuma nanso nasɛm ɔteateaa maa kɔyɛne no kaa saa anigyesɛm,1.3077,0.8197
+593,“Yei ne mmaransɛm kɛseɛ ne deɛ ɛdi kan no.,Yei ne mmara no kɛseɛ yɛ deɛ dikan,0.6667,0.25
+594,"Ansa na Agyenkwa no de Ne ho maa Getsemane ne Calvary amanehunu no,","ansa na Agyenkwa no de ne honhom Getsemane ne Karea me nhono no,",0.3846,0.2407
+595,ɔyɛ maa moMehyɛ mo nkuran sɛ monnye brɛ nnawɔtwe biara—mo nkwa nna a aka biara—mfa nyini wɔ mo nteaseɛ mu mfa Yesu Kristo Mpata no ho.,ɛyɛ ma moanom,1.0,0.8962
+596,nanso Dawid faa sɛ ɔde ne ho bɛto Yesu Kristo so.,Nanso Dawid faa sɛ ɔde ne ho bɛto Yesu Kristo so.,0.0,0.0
+597,” Sɛ yɛwɔ adansedie nko ara nso hɔ.,""". yɛdanee,",1.0,0.7308
+598,“Dodoɔ sɛn na yɛhia no nnawɔtwe yi mu de ahyɛ deɛ yɛhia no mu?,Dodoɔ sɛn na ɛhia mo na ɔtwemu sɛ mbabawa adwuma no,0.7143,0.4681
+599,M’ani bɛsɔ Agyenkwa no afebɔɔ sɛ mɛtumi asesa na meho bɛfiri.,M'ani bɛsɔ Agyenkwa no afebɔɔ sɛ mɛtumi asesa na meho befi.,0.0909,0.0612
+600,Nkwagyeɛ ne abasobɔ ayɛyɛdeɛ no yɛ nnidisoɔ wɔ ne bɔsu.,"nkwagyeɛ soɛeɛ,",0.9,0.7111
+601,Ebia na ɛfiri sɛ yɛnni gyedie a yɛde bɛgye mmuaeɛ a yɛbɛnya no.,Ebia na ɛfiri sɛ yɛnni gyedie a yɛde bɛgye mmuaeɛ a yɛbɛnya no.,0.0,0.0
+602,mehyira mo wɔ ɔpɛ a mode bɛdi wiase so.,mehyira mo wɔ ɔpɛ a mode bɛdi wiase so.,0.0,0.0
+603,” Me bisaaeɛ.,Na nna,1.0,0.8889
+604,Yesu akyidifoɔ a akoma mu nyinaa yɛn ani gye wɔ yɛn ankasa akwantuo mu sɛ asuafoɔ.,Yesu akyidifoɔ a akoma mu nyinaa yɛn ani gye wɔ yɛn ankasa akwantuo mu sɛ asuafoɔ.,0.0,0.0
+605,"Ɔkɔɔ so yɛɛe,","Ɔkɔɔ so,",0.3333,0.4
+606,Wɔyɛɛ mmoa awɛnfoɔ ne asomfoɔ maa ɔdefoɔ bi a wɔfrɛ no Nabel a na ne tirim yɛ den.,"Ɔyɛɛ moawefoɔne asomfoɔ ma ɔdefoɔ bi a na ɔfrɛ no bɔɔ a na ne tirim yɛ den,",0.4444,0.1875
+607,Nna a ɛdi Akyire Ahoteɛfoɔ a wɔatwa wiase ho ahyia yɛ nhyira sɛ wɔsom Yesu Kristo wɔ Ne tɛmpol mu.,Nna a ɛdi akyire ahotefoɔ a wɔatwa wiase ho ahyia yɛ nhyira sɛ wɔsoso wɔ ne nampo,0.3,0.1923
+608,ɛfiri sɛ Agyenkwa no de ahobrɛaseɛ kyerɛkyerɛɛ sɛ Ɔno ne Agya no “yɛ baako” (hwɛ Yohane :,ɛfiri sɛ Agyenkwa no de ahobraseɛ kyerɛkyerɛ sɛ ɔne agya no yɛ baako,0.375,0.1884
+609,wɔn ho firiiɛ.,Wɔn ho firi,0.3333,0.1818
+610,yɛdi awerɛhoɔ na yɛpere soa yɛn ho nnesoa.,di awerɛhoɔ na yɛpere ɛnyae.,0.625,0.3824
+611,"nhyira a ɛbata yɛn apam ho no bɛtumi atrɛ akɔ akyiri asen saa asetena yi na wɔasɔ ano wɔ yɛn so,",Nhyira batanpa no ho bɛtumi akyerɛ akwaahyia asɛsɛsɛ na wɔasɔ yɛn ano,0.7143,0.4667
+612,“Nwoma Adwinnadeɛ Dada a Wɔkura no.,mfitiaseɛ said,1.0,0.7857
+613,"Yɛn Tebea Dada ne Foforɔ Ntumi Nsesa Yɛn Daakye Anuanom mmaa,",yɛn tebea dada ne foforɔ ntumi nsesa yɛn daakye,0.1818,0.22
+614,"Deɛ ɛka saa dwumadie soronko yi ho ne ahoɔden a yɛde reka fapem dada no ho,",yɛkasa dwumadie so nkoane ahoɔden a yɛde ka fapem dada no ho.,0.5,0.2034
+615,Yesu Kristo Asɛmpa no ne Yesu Kristo Asɔre a Ɛwɔ hɔ ma Nna a Ɛdi Akyire Ahotefoɔ no kabom ma yɛn nsakraeɛ a mfasoɔ wɔ so.,Yesu Kristo asɛmpa no ne Yesu Kristo Asɔre a ɛwɔ ma na adi akyire ahotefoɔ no kabom yɛ nyansakyerɛ a de mfasoɔ ba yɛ so.,0.3846,0.1789
+616,“Asɛmpatrɛfoɔ ankasa deɛ wɔapaw wɔn sɛ wɔnyɛ saa adwuma yi.,asɛmpa kyerɛ ankasa deɛ wɔapaw wɔn sɛ wɔne saa adwuma yi.,0.3,0.1667
+617,"na ɛsane yɛ me mfie ɛtwa toɔ wɔ m’abɔdin adesua nti,",na me sɛ na me babies adagya,0.8182,0.725
+618,"Nanso berɛ kɔɔ nanim na trafik dɔɔsoɔ no,","Nanso, ɛberɛ kɔ n'anim no na trafiɔso ho.",0.75,0.2727
+619,“Yerehwɛ Salt Lake Tɛmpol fapem dada no Megyina beaeɛ a na ɛwɔ Garden Room ase.,sɔree tamponade dadaanom gadenwo nase.,1.0,0.619
+620,"wɔn a wode wɔn ama me no,",Wɔn a wode maa me o.,0.4286,0.2778
+621,Nkrasɛm a mfomsoɔ nnim a ɛdisoɔ yi firii maame no hɔ baa ne babarima no adwene mu:,nkransɛm mfomsoɔ nnim a ɛdisoɔ yi firi ne maame a ba nom no nkyɛn mu.,0.5882,0.3385
+622,"wɔ sikasɛm mu afɔrebɔ bebree akyi sɛ yɛbɛtu kwan afiri Mexico City no,",Wosika sɛ mu afɔrebɔ bebree akyi sɛ yɛbɛtumi kwan firi Magics si no.,0.4615,0.193
+623,wɔahyɛ Nyankopɔn mma no sɛ wɔnyina Nyankopɔn Ba no ananmu.,wɔahyɛ Onyankopɔn mma no sɛ wɔn nyinaa wɔnyina wɔ Onyankopɔn ba nananmu.,0.7,0.2917
+624,dwene sɛlɛtia!,dwene sɛlɛtia.,0.0,0.0
+625,"Yɛbɛtumi abɔ mmɔden ama no akyɛre anaa ayi yɛn ani afiri so,",Yɛbɛtumi abɔ mmɔden ama n'akye anaa ayi yɛn afiri so,0.25,0.125
+626,Russell Ballard sɛ Titenani Ananmusini wɔ Asomafoɔ Dummienu Kuo no mu.,sɛ Titenani anamsɔ Asomafoɔ Dummienu Kuo no mu.,0.3636,0.339
+627,Ɔboaa wɔn ma wɔnyaa nkɔsoɔ na wɔn ho akokwa wɔ teneneeyɛ mu.,Ɔboaa wɔn ma wonnyankɔ na wɔn ho akokwa wɔ tenenee mu.,0.25,0.1667
+628,"Ɔhaw yɛ nhyehyɛeɛ no fa na ɛnkyerɛ sɛ wɔagya wo asi hɔ,",hwan kwan ɔhaw yɛnhyehyɛeɛ sɛ wagya wasi hɔ,0.8333,0.5349
+629,ne nhaban afoforɔ mu wɔ ɔkwan a Yesu faa so no atwa ne ho ahyia.,ne ahahaban,0.9333,0.8571
+630,"Na yei yɛ nokorɛ ɛnnyɛ sɛ esiane sɛ wɔyɛɛ yɛn nyinaa “wɔ [Ne] suban so,","na yɛn yɛ nokorɛ ɛnyɛ sɛ sɛnsɛ wɔyɛɛ yɛn nyinaa wɔ ne suban so,",0.2667,0.1321
+631,Na ne bo kasɛɛ abubu.,na meremma,0.8,0.75
+632,"Mmaa (nokorɛ mu wɔnyɛ mmrɛ saa) retwe twitwiridie te sɛ mmoa,",Ma nokorɛ mu wɔ nyammrasɛm sɛ mo,0.7273,0.5417
+633,sei na woyɛ no.,sin,1.0,0.7273
+634,” Titenani Russell M.,a,1.0,0.9375
+635,Nanso saa suahunu yi gyaa me atenka a me werɛ remfiri da.,Nanso saa suahunu agya me atenka a me werɛ mfiri da.,0.25,0.1111
+636,M’awofoɔ nhwɛso pa yi daso wɔ nsunsuansoɔ wɔ m’abrabɔ ɛnɛ.,na amiɔ.,1.0,0.8913
+637,yɛn abusua no sii gyinaɛ sɛ yɛbɛsua asɛmpatrɛfoɔ biara din ansa na yɛaduru asɛnka mu.,yeanɛbɛsua asɛmpatrɛ adi ansa na yɛde sa ka wo,0.9333,0.5286
+638,"Hwehwɛ Yesu kyerɛkyerɛɛ sɛ,",wɔ yɛabrabɔ,1.0,0.8261
+639,Mede akoma pa ne adwene paa bɔɔ mpaeɛ (Hwɛ Moronae :,ntoasoɔ ho mpaeɛ,0.9,0.825
+640,"Apereapereɛ fɛɛfɛ a yɛtwerɛ no wɔ yɛn nsɛm mu no ne deɛ ɛtwe yɛn bɛn Agyenkwa no na ɛsɔne yɛn so,",Apereapereɛ fefaa yɛtwerɛ no wɔ yɛn nsɛm no deɛ ɛtweɛn bernan,0.619,0.3684
+641,amen.,Amen.,0.0,0.0
+642,Yɛdi awerɛhoɔ wɔ nneɛma a yɛntumi nwie ne nnwom a yɛntumi nto ho.,Yɛdi awɔwɔ wɔ neɛma a yɛntumi nnwene nnoɔma a yɛntumi nto ho.,0.3846,0.2115
+643,Worebɛyɛ Yesu Kristo suani nokwafoɔ no mfiri mu.,Worebɛyɛ Yesu Kristo suani nokwafoɔ no mfiri mu.,0.0,0.0
+644,Ahene mu Hene no.,ahene mu Hene.,0.25,0.1538
+645,"M’awofoɔ ne awarefoɔ asɛmpatrɛfoɔ a wɔakɔsom aba mpem,",M'awofoɔ ne awafaɛmpatfɔ akɔsoma pempem dunsɔyɛ a wɔnyaa o.,0.875,0.6222
+646,Ɛsa a woka ho asɛm wɔ w’asɛm mu no yɛ deɛ ɛtene na ɛyɛ hwiahwia?,ɛsiane wo ka ho asɛm no wɔ nsɛm a ɛtene wum,0.8,0.5833
+647,bɛsɔ ahyɛdeɛ biara ano wɔ wɔn a wɔdi nokorɛ ma wɔn apam no so sɛdeɛ ɛbɛyɛ a ɛbɛyɛ adwuma wɔ owuo akyi.,bɛɛya ne babaa yɛduruiɛ yasene mu,1.0,0.8125
+648,a ɛrekyerɛ yɛn sɛdeɛ yɛbɛtwe Agyenkwa no tumi aba yɛn abrabɔ mu.,a ɛkyerɛ yɛn sɛdeɛ yɛte Agyenkwa no tumi aba yɛn abrabɔ mu;,0.1667,0.0962
+649,"Mmerɛ dodoɔ a yɛsiesie yɛn ho wɔ berɛ ne honhom fam no,","Mmerɛ dodoɔ a yɛsesei yɛn ho wɔ berɛ ne honhom fam no, dodoɔ no ara na yɛbɛtumi asi ɔtamfo",0.6667,0.7442
+650,"Nna a ɛdi Akyire Ahotefoɔ akannifoɔ wɔ Kirtland,",na ɛdi akyi hotefoɔ kaa,0.875,0.525
+651,Ɔtamfo no nsɔhwɛ ahodoɔ a nnyae sen biara no mu pii fa abrabɔ fam ahoteɛ a wobu so ho.,Ɔtamfoɔ no sɔhwɛ ahodoɔ a ɛnya,0.8421,0.6716
+652,tɛmpol adwumayɛfoɔ no mu baako bɔɔ yɛn amaneɛ sɛ Teton Dam a wɔasi no foforɔ wɔ Idaho apueɛ fam no adwiri!,Temple adwumayɛfoɔ no bɔɔ ko bɔɔ ne amaneɛ sɛ titna wɔn a wɔasie no foforɔ no wɔ da hɔ no pue fam na adwiri.,0.619,0.2941
+653,"Yesu Kristo asɛmpa no nkyerɛkyerɛ wɔ hɔ ma obiara,",Yesu Kristo asɛmpa no nkyerɛkyerɛ wɔ hɔ ma obiara.,0.0,0.0
+654,sei na Ɔsoro Nyankopɔn no seɛ!,Saa wɔnyanee,1.0,0.7083
+655,Mmra fɛkuo yi adwuma titiriw ne sɛ wɔbɛhwɛ ahiafoɔ ne wɔn a wɔhia mmoa.,"na nyɛaana,",1.0,0.8772
+656,nanso seesei ɔde ɔdɔ ne asomdwoeɛ asɛmpa na ɛwɔ ha.,Nanso sɛ asie ɔayewɔdane asomdwoeɛsɛm pa ne wɔ ha.,0.8,0.2683
+657,"ne saa nti ɔnnsɔ yɛn nhwɛ mma yɛn ntwe yɛnho mfiri nokorɛ kwan no ho,",Yesu Kristo a nkrɔfoɔ,1.0,0.8148
+658,Na Helaman yɛ ɔbarima a Ammonfoɔ mmeranteɛ bɛtumi de wɔn ho ato no soɔ.,Na Helaman famtunns.,0.8571,0.7193
+659,Mebɔ mpaeɛ sɛ Honhom no bɛsoa me nkra no akɔ mo akoma mu nnɛ.,Mebɔ mpaeɛ sɛ honhom no bɛsoa me nkra no akɔ obiara koma mu no.,0.2143,0.1489
+660,Yɛbɛnya nhunumuu a ɛtrɛ wɔ yɛn tebea mu ne nteaseɛ a ɛmu dɔ a ɛfa botaeɛ a ɛwɔ asetena mu.,"yɛbɛnya ne nhini a yɛtwerɛ wɔ yɛn ɛbiane aseɛ,",0.85,0.6571
+661,Oaks to mu sɛ Asomafoɔ Dummienu Kuo no Titenani ne Jeffrey R.,Oaks tom sɛ Asomafoɔ Dummienu Kuo no Titenani ne efiri R.,0.25,0.102
+662,Na sɛ Dawid aboɔ no mu biara gyina hɔ ma ahoɔden bi a yɛhia na ama yɛadi nkonim wɔ yɛn asetena mu nso?,Na sɛ Dawid aboɔ no mu biara gyina hɔ ma ahodoɔ bi a yɛhia na moayɛ de nkunim wɔ asetena mu hɔ.,0.2609,0.1772
+663,"sɛ mekae sɛdeɛ meka apple a abere na nsuo wom ne ne hwam no a,","Sɛ mekae sɛ deɛ metieeɛ ne fi wɔ mu na ma me animia,",0.8667,0.5532
+664,Meda ase sɛ yɛwɔ nkanyan akwankyerɛ ɛfa agya panin nhyira ho wɔ Asɔre no General Handbookmu:,Meda ase sɛ yɛwɔ nkanyan akwankyerɛ afa agyapanin nhyira ho wɔ asɔre no gye no ambu mu.,0.4375,0.1579
+665,"na wɔbɛnante,","kyerɛe,",1.0,0.8182
+666,na panin no ka kyerɛɛ no sɛ sɛ mepɛ sɛ mesesa kaa no a ɔnsan mfa me nkɔ wiemhyɛn gyinabea hɔ.,nkwanyi saampampa paaya.,1.0,0.8194
+667,"Ananmusie asubɔ a wɔbɔ ma awufoɔ no obiara a ɔkura tɛmpol adansedie krataa foforɔ,",anamso bɔma awufoɔ krataa ataoɔ,0.8571,0.6176
+668,banbɔ hyeɛ so a wɔde regyina atia Asraafoɔ a wɔaka wɔn ho abom wɔ Japan nsase mfimfini.,Bambɔ hyɛɛ aseɛ so aserafo baahoo abomu ɔgyaa sansim,1.0,0.6143
+669,"yɛbɛba abɛyɛ asuafoɔ,",ɔdefoɔ.,1.0,0.8333
+670,"” Na wei de akwannya baa sɛ wɔbɛdi asɛmpa no ho nkɔmmɔ wɔ kwan pa so,",abakɔsɛm,1.0,0.8654
+671,Kieselguhr yɛ boɔ a ɛnyɛ den na wɔbɛtumi ayam ayɛ no pawoda.,"Kesea yɛboa yɛ den na wɔbɛtumi ayɛ ayɛ de yɛpaa,",0.6667,0.375
+672,Yɛn Memeneda kyekyɛ berɛ no wɔ abakɔsɛm fa botaeɛ nsonoeɛ ne atiefoɔ nsonoeɛ ho.,Yɛ me me da kyekyɛ berɛ no wɔ abakɔsɛm fa botaeɛ nso ne atiefoɔ nsuaeɛ so ho.,0.5,0.1818
+673,Na ɔpɛ sɛ wokɔso ara tete w’adom akyɛdeɛ berɛ a woregye nteteɛ.,nso na ɛwɔ sɛ timattere akyɛdeɛ gyane ma wɔ Tete,0.8333,0.58
+674,"” Mmom,",nan,1.0,1.0
+675,"sɛ me dwene abasɛm nhyehyeɛ a ɛsiiɛ a,",Sɛ medwene no maa me yɔna ɛno ho afe,1.0,0.5667
+676,Mepa wokyɛw wobetumi apa no kyɛw sɛ ɔnnyae di anaa?,na nka kyerɛ sɛ nyawo,0.9,0.7805
+677,mehunuu taksi drɔba a n’anim teɛ bi sɛ ɔretwɛn me sɛdeɛ yɛtaa fa taksi no.,ayɛ taker a na ɔsoɔdenfo firi saa kɔna.,0.9333,0.7414
+678,“Ɛdeɛn na ɛma mo asɔre da nso firi Kristosom nsɔre a aka no ho?,ɛdeɛn na mma masɔre da so kokofiriAkusofoɔ a aka no ho.,0.5,0.3542
+679,Ɛyɛ me nwanwa wɔ gyedie ne adansedie a moda no adi daa ne daa.,Ɛyɛ me nwanwa wɔ gyedie ne adansedie a moda no dida ne daa.,0.1429,0.0417
+680,"nkɔmɔdie bi akyi wɔ suapɔn sukuu mu fa Amɛreka anyamesom abakɔsɛm ho,",nkɔmɔdie bi akyi wɔ sponsors mu o.,0.5833,0.5789
+681,"Saa nkaedum dan yi de ɔkwan a ɛyɛ fɛ,",ensia,1.0,0.8571
+682,Deɛ ɔmpene so nkyerɛ.,",",1.0,1.0
+683,ahohia anaa ahometeɛ anaa ɔtaa anaa ɛkɔm anaa adagya anaa amanenya anaa nkrantɛ?,Ahohia anaa ahometeɛ anaa ten anaa ɛkɔm anaa adagya anaa amanenya anaa nkrantɛ?,0.0769,0.0448
+684,a watwerɛ wɔ Post krataa so na ɔde atare m’adwumayɛbea ahomatorofoɔ no ho.,a wɔatwerɛ no wɔ wayɛasefoɔ no.,0.8462,0.6833
+685,Yɛani asɔ ne nkannyan afotuo ne akwankyerɛ a yɛn nsa aka no ɛnnɛ yi.,yɛnni sɔ ne nkana fotuo ne akwankyerɛ a yɛnya no anyɛ.,0.6429,0.2778
+686,adehwereɛ ne ankonamyɛ anim.,adehwereɛ ne nkoda yɛɛ anim.,0.5,0.1667
+687,"ɛsɛ sɛ yɛhwɛ sɛ wɔbɛma yɛn adesua na wɔakyerɛkyerɛ yɛn,",ɛsɛ sɛ yɛhwɛ sɛ wɔn ma yɛn adesua ne nkyerɛkyerɛ yɛ na ɔkyekyer yɛn.,0.6,0.4
+688,"na afei kyerɛkyerɛ wɔn sɛ wɔwɔ nipadua ne honhom nyinaa,",yɛkyerɛ ɔsɛsahu ne nsa,0.9,0.6522
+689,"Mmaeɛ bio no yɛ nnidisoɔ,",Mmaeɛ bio no yɛ nso,0.2,0.25
+690,"ne Asɔre no agyapadeɛ wɔ afe  mu no,",asɔrepanyin no.,0.875,0.6667
+691,anaasɛ yɛntumi nhunu yɛn ɛnniawieɛ akwantuo no.,anaasɛ yɛntumi nhunu yɛn daa nkwa akwantuo no,0.2857,0.2
+692,na ɔntu asɔre no fo.,"na ɔbɛyi no ahuhɔɛ nkyerɛkyerɛkyerɛ smatasɔre no,",1.2,2.1333
+693,Nnipa Asetena Nyinaa Botaeɛ Ɛnhia mpo sɛ yɛbɛka sɛ obiara pɛ sɛ ɔnya anigyeɛ.,kɛseɛ paa hia osɛbɛi sɛ wɔnyaneeɛ,0.9286,0.6667
+694,Wobɛtumi de esum ato wɔn adwene so afa Nkɔmhyɛni Joseph Smith asɛmpatrɛ adwuma ho?,Wobɛtumi de asum ato wɔn adwene so afa nkɔmhyɛ ne Joseph Metas mpatadwuma ho.,0.4286,0.1176
+695,ne mmoa a ɔkyeree wɔn firii asuwa bi a ɛbɛn wɔn no mu diiɛ.,ne mo a kyekyɛ wɔn firii asuwa bi a ɛbɛn wɔn no din.,0.2857,0.2222
+696,"“Berɛ a wosua wo twerɛnsɛm no,",nson,1.0,0.8696
+697,"Sɛ yɛne Onyankopɔn yɛ apam na yɛdi so a,",na ɔka Onyankopɔn nhyira ma ne mma hasmona,0.8889,0.6452
+698,"Wɔsusu sɛ yɛgye Russell Marion Nelson tom sɛ nkɔmhyɛni,",Wɔsusu sɛ yɛgye romani,0.6667,0.6087
+699,Tɛmpol hɔ ayɛyɛdeɛ ne ahyɛdeɛ ahodoɔ no wɔ ɛnniawieɛ mfasoɔ.,mpo aaahodoɔ a ɛwɔ nwanwaso biribiara ho dwuma,1.0,0.8
+700,"Wɔn a wɔmpene so,",Ɔpaa,1.0,0.8462
+701,saa twe a wɔtwe wɔn ho firi Onyankopɔn nokorɛ ho yi de awerɛhoɔ kɛseɛ aba.,saa atwe a yɛtwe firi Onyankopɔn nokorɛ ho no de kɔ awerɛhoɔ kɛseɛ mu.,0.4667,0.2542
+702,"” Bɛyɛ mfenhia mmienu ni twerɛsɛm nsaneyareɛ bi akata yɛn asase so,",ni,0.9091,0.963
+703,boasetɔ wɔ ahohiahia mu;,na,1.0,0.95
+704,Amansan Asomfoɔ ne Mantam Aduɔsonfoɔ a wɔwɔ Asɔre no mu kyerɛ ma mogye wɔn to mu.,Amansan asomfoɔ ne mantam Aduɔsonfoɔ a wɔ Asɔre no mu kyerɛ ma mogye wɔn mu tumi.,0.1875,0.0923
+705,Agya no de nsafoa ne tumi hyɛɛ Yesu Kristo nsa sɛ ɔnhwɛ N’asɔfodie ayɛyɛdeɛ a wɔde bɛma no so.,Ɛdano de nsafoɔ ne tumi hyɛɛ Yesu Kristo nsa ɔnhwɛ nasɔfodie ayɛ deɛ a wɔde bɛma no so.,0.3158,0.1081
+706,adomakyɛdeɛ ne ahokeka berɛ a wɔsii akan wɔ ewiase bɔɔlobɔ animuonyam kɛseɛ paa.,adom akyɛdeɛ ne ahokeka berɛ a wɔsi akan wiase bɔbɔ animuonyam kɛseɛ paa.,0.4615,0.1045
+707,yɛpae mu ka sɛ “yɛkae no mmerɛ nyinaa.,Yɛpae mu ka sɛ yɛkae no mmerɛ nyinaa na,0.125,0.069
+708,wannyae sɛ ɔbɛyɛ ama ne werɛ afiri ne daapem nipaban.,wanyɛ sɛ ɔbɛyɛ ama ne werɛ afiri ne daapem nipa ban.,0.3,0.0698
+709,… Saa nkorɔfoɔ yi mu dodoɔ no ara rehwehwɛ botaeɛ wɔ abrabɔ mu.,dodoɔ hwehwɛ botan ababɔ mu.,0.8333,0.551
+710,amen.,amen.,0.0,0.0
+711,"Me nuanom mmarima ne mmaa adɔfoɔ wɔ wiase nyina ara,","Me nuanom mmarima ne mmaa adɔfoɔ a wɔwɔ wiase nyinaa,",0.4,0.119
+712,"“Ɔbɛdua wɔ nkwadaa no akoma mu bɔhyɛ a ɔhyɛɛ agyanom,",bɛdwam mu.,0.9,0.8095
+713,"Ɛwom sɛ wɔahyɛ da abɔ saa ɔfa yi ho dawuro ama wiase baabiara atiefoɔ te sɛ amansan nhyiamu afa nyinaa,",wum sɛ ɔbɛhyɛ da abɔ dawuro ama wiase baabiara tiɛhimi nyinaa.,0.6,0.4458
+714,wɔtuu wɔn ho mmaeɛ wɔ nna nyinaa yɛɛ saa.,Wɔte wɔn ho mmaeɛ wɔn ne wɔn kanna,0.6667,0.375
+715,"“Ɔbarima [anaa ɔbaa] biara nnim Ɔba no,",ɔbarima anaa ɔbaa biara nnim Ɔba no.,0.0,0.0
+716,Abraham faa Mamre dupɔn a ɛnnɔree papa no.,"Abraham Lot, kwan ma woyi asase a ɔpapa,",0.875,0.6176
+717,"Yesu kyerɛkyerɛɛ Nifaefoɔ no sɛdeɛ ɛho hia sɛ wɔsakyera,","Yesu kyerɛkyerɛɛ Nifaefoɔ no sɛdeɛ ɛho hia sɛ wɔsakyera,",0.0,0.0
+718,Afei metieeɛ na metee nsuo no so mpaeɛ nsɛm a ɛrewurawura:,"Afei, metee na metee nsuo no so mpaeɛ nsɛm a ɛwura wura.",0.2727,0.0851
+719,ɛna na Ananias ate Saul ne n’atirimuɔden a ɔnnyae sɛ ɔde taa Ahotefoɔ no.,"Masoodeɛ adi n'anim kan, na ananasase sɔtɔn a wɔnyaeɛ taatahotefoɔ no.",0.8571,0.569
+720,"Menuabaa panin a ɔtɔ so nson hyɛɛ sɛ m’awofoɔ nto me din “Kimo,",no nyaa baapanyin sesons ma wɔfanom din ntimu.,0.9231,0.5
+721,"” Nanso,",",",1.0,1.0
+722,"Teixeira ɛfiri ne som mu wɔ Aduɔsonfoɔ Titenafoɔ no mu,","Takara firi ne som wɔ dɔso foɔ titenano mu,",0.6,0.3111
+723,"ankyɛ na ofirii aseɛ maa ɛsrɛ a ɛyɛ ahabammono,","ankyɛ na ofirii aseɛ maa ɛsrɛ a ɛyɛ ahammono o,",0.2222,0.0789
+724,Onyankopɔn No ankasa na wahyehyɛ saa ɛhyeɛ yi wɔ ɛnniawieeɛ nokorɛ so de ma yɛn yiedie ne nhyira nti.,heyina nokorɛdie nti.,0.9474,0.7805
+725,na wɔakae no mmerɛ nyinaa na wɔadi ne mmaransɛm a ɔde ama wɔn no so;,Na ɔkaa no mmerɛ nyinaa na wɔde ne mmransɛm a wɔde ama no no so.,0.3333,0.1887
+726,metwaa m’ani hwɛɛ awarefoɔ mpanimfoɔ no.,mekyini hwɛɛ awɔfoɔ mpanimfoɔ no.,0.5,0.2727
+727,Na ɛnfaho sɛ empo na wɔn nnim sɛ wayera anaa.,Na mfaso sɛ mpo wɔ nnim sɛ wayera,0.5,0.3143
+728,"Onyankopɔn bɔsu ne Ne suban,",kua,1.0,0.8696
+729,"” Nkabom nhia pɛpɛɛpɛ yɛ,",nkabom nhia pɛpɛɛpɛ sɛ,0.25,0.0526
+730,"wɔ asodie sɛ ɛyɛ nhwehwɛmu sɛdeɛ wɔbɛma ahotosoɔ a ɛfata fa ntoboa a wɔnyaaeɛ,",na asɛdeɛ kwansin.,1.0,0.8594
+731,adeɛ nyinaa wɔayɛ wɔ deɛ onim nyansa no mu adeɛ nyinaa.,wonhuseɛ wonim,1.0,0.8409
+732,yɛde bi ka saa abakɔsɛm yi ho berɛ a yɛrehyɛ aseɛ wɔ botaeɛ ne ɔkwan foforɔ so ma daakye a yɛahunu asie no.,yɛde bi ka saa abakɔsɛm ho ɛhyɛ aseɛ wɔ botaeɛ ne ɔkwan foforɔ so ma daakye a yɛhu a asie no.,0.2609,0.1548
+733,Susu Abibiman mu nnɛte kɔkɔɔ nkuraaseɛ ho berɛ tiawa.,Susanna ho berekia a.,0.8889,0.6591
+734,"Saa adwene a wɔde wɔn ani sii so yi maa wɔnyaa sika kɔkɔɔ nkonimboɔ,",na,1.0,0.963
+735,"mo abusua,",",",1.0,1.0
+736,Ahyɛaseɛ no Louisa nyaa anigyeɛ kakra wɔ akwantuo no mu.,Ahyɛaseɛ no Lizenigyeɛ kakra wɔ akwantuo no mu.,0.3,0.1957
+737,Tonga Ɛldafoɔ binom asom wɔ asɛmpatrɛ mu mfeɛ mmiɛnsa na anuanom mmaa nso aboro mfeɛ mmienu!,Tonga no bebree monosomies besusoo fi me o.,0.9375,0.75
+738,"wɔ saa Yesu Amanehunu berɛ yi mu yɛtwe yɛn adwene si yɛn Awurade ne Agyenkwa,",Yesu amanehunu birim yɛtwe adwene yɛn awurade agyenkwa agyenkwa.,0.5333,0.3387
+739,ɛnnɛ mepɛ sɛ me ne mo kasa tee—Asɔre no mmabunu.,"ɛnnɛ mepɛ sɛ me ne mo kasa teere no mmabunu,",0.1,0.0811
+740,N’ani gyee wɔ nkerɛkyerɛ sɛ n’awofoɔ bɛtumi afa sɛ wɔbɛdi Yesu Kristo akyi wɔ owuo akyi na wagye n’asubɔ a wɔbɔ ma wɔn wɔ kronkron mmea a wɔfrɛ no tɛmpol.,na hwee wɔ nkyɛkyerɛ sɛ na wɔfa bɛtumi afa sɛ abɛdi Yesu Kristo akyi sɛ ɔwu akyi na wagye ne subɔna wɔbɔ ma wɔn kokoma ɔfrɛ no Tampo.,0.5333,0.2397
+741,na mɛda me ho adi akyerɛ me nkorɔfoɔ wɔ mmɔborɔhunu mu wɔ saa fie yi mu.,na mɛda me ho adi akyerɛ me nkorɔfoɔ wɔ mmɔborɔhunu wɔ mu wɔ saa aseɛ yi mu.,0.125,0.0893
+742,Afei ɔkyerɛkyerɛɛ nkyerɛkyerɛ a yɛresua afe yi mu pii wɔ Apam Foforɔ no mu.,Afei ɔkyerɛkyerɛɛ nkyerɛkyerɛ a yɛresua afe yi mu pii wɔ apam foforɔ no mu.,0.0,0.0
+743,"Obubuo ,",.,1.0,1.0
+744,"M’adamfo pa bi soma de asɛm dada bi firii Nebraska Advertisermu brɛɛ me,",adamfo pa bi de asɛm dada bi firi Nebraska advertisment berɛ mu.,0.4615,0.2241
+745,Ayɛyie kɛseɛ nka no.,ayɛ yɛn ka Dawid no,1.0,0.5625
+746,"baeɛ nnɔnhwere kakra akyi bɛtenaa ase,",baahere,1.0,0.8125
+747,"na nna pii akyi no—ne yie mu no Kɔtɔnima ,",.,1.0,1.0
+748,"Meyɛɛ wiemhyɛn gyinabea hɔ nhyehyɛeɛ nyinaa wieeɛ akyire no,",Matoama a,1.0,0.902
+749,yɛbɛtwe yɛn ho afiri Onyankopɔn ho akɔ akyiri;,ɔnyaa Nyankopɔn na,1.0,0.6842
+750,"ne nhyehyɛeɛ,",as independent,1.0,1.0
+751,Oaks sɛ Fotufoɔ a Ɔdi Kan wɔ Titenafoɔ a Wɔdi Kan no mu;,O sɛ Fotufoɔ a ɔdi kan wɔ setena wɔdi kan no mu.,0.2308,0.2093
+752,Ɛyɛ afe a atwam firi berɛ a wɔfrɛɛ yɛn Mmaabunu Atitenafoɔ Mpanimfoɔ.,ɛyɛ afe a atwam firi berɛ a wɔfrɛɛ yɛn abunu atitenafoɔ mpanimfoɔ.,0.0833,0.0526
+753,"Awurade to nsa frɛ yɛn sɛ yɛn hwehwɛ akyɛdeɛ no mu kɛseɛ,",Awurade toear yɛɛkyɛke no wo kɛseɛ,0.75,0.4444
+754,"“Asafoba biara a wɔabɔ no asu na ɔfata no wɔ ho kwan sɛ ɔgye agya panin nhyira,",asafo ba biara a wɔabɔ no asu no fata wɔn ho kwan sɛ ɔkɔgye agyapanin hyira.,0.5882,0.1311
+755,Oaks tom sɛ Asomafoɔ Dumienu Kuo no Titenani ne M.,somasomafoɔ Dummienu Kuo no Titenani ne M.,0.5,0.175
+756,adɔfoɔ yi dii aperepereɛ wɔ wɔn awaresɛm mu mfeɛ bebree.,adɔfoɔ yi de prapra wɔn awerɛho mu mfeɛ bebree.,0.4,0.3261
+757,"Danny kaa sɛ,",a,1.0,0.9
+758,yɛkɔɔ Kwasiada nhyiamu wɔ Asɔre no kuo ketewa bi mu wɔ hɔ.,Yɛkɔɔ kɔsi adaya mu asɔre no kotwa bi mu wɔ hɔ.,0.4167,0.2391
+759,Na mmom ɔwɔ mmɔborɔhunu ma yɛn awerɛhoɔ ne yɛn amanehunu.,na mmom ɔwɔ mmɔborɔhunu ma yɛn awerɛhoɔ n yɛn amanehunu.,0.1,0.0213
+760,"Biribiara a wɔkyerɛ wɔ tɛmpol fa akwankyerɛ so ne Honhom no so,",Biribiara a wɔkyerɛ wo tampa akwankyerɛ so ne honhom no so.,0.25,0.098
+761,” Titenani Russell M.,",",1.0,1.0
+762,Wɔfaa awerɛhoɔ a ɛboro soɔ mu wɔ nnawɔte ne abosome a ɛtoa so no.,Wɔfaa awerɛhoɔ a ɛboro soɔ mu wɔ nawɔtwe ne abosome a ɛtoa so no.,0.0714,0.0392
+763,"Yɛrentoto biribiara ase sɛ yɛbɛma saa animuonyam tɛmpol yi a,",yɛntu biribiara a animuonyam tapoi,0.8,0.451
+764,"Na yɛn mmeranteɛ no mu baako,",na yɛdɔ,0.8333,0.8261
+765,Na mentumi nhunu anaa nte biribiara nka berɛ a na ɛretoto me kɔ no.,Na mentumi nhunu anaa nte biribiara nka berɛ a na ɛtoto me kɔ no.,0.0714,0.0377
+766,"Mfeɛ kakra akyiri no,","Mfeɛ kakra akyiri no,",0.0,0.0
+767,Nsɛmmisa Kɛseɛ no Ɛnti woasusu sɛnea wobɛtumi adi Onyankopɔn nokorɛ berɛ a wote wiase a bɔne wom mu no ho pɛn?,ntiatiaso ho pɛɛ.,0.9524,0.8539
+768,"deɛ ɛyɛɛ abufu koraa ne sɛ adwumayɛfoɔ no baako anyɛ n’adwuma yie,",deɛ yɛ bufaso yie,0.8333,0.7358
+769,na ɛnyɛ den mma me sɛ mɛsusu nea ebia ahyɛ n’adwene ma no ho.,na ɛnyɛ den ma me sɛ metsona ebia ahyɛ n'adwene ma no ho.,0.2143,0.1304
+770,ɛnnɛ mesusuu sɛ mɛtena ase ayɛ saa.,"Ɛndeɛ sɛ megyina seease,",0.8571,0.6429
+771,saa onipa no ara na ɔbɛgye no nkwa wɔ ɛda a ɛdi akyire no mu.,saa onipa no ara na ɔbɛgye no nkwa wɔ ɛda a ɛdi akyire,0.1333,0.087
+772,"abɔdeɛ ho nyansahu,",yɛnnaadaa a,1.0,0.75
+773,"menyaa mfasoɔ firii m’akokoɔduro dodoɔ sɛ mede me ho kyerɛɛ sɛ Yesu Kristo akyidini nokwafoɔ ne N’Asɔre wɔ tebea nyinaa mu ne nkorɔfoɔ nyinaa,",Medɔ hokaniane,1.0,0.8879
+774,Amerika ko ahyɛn twaa supɔ no ho hyiaae a wɔreboro no atuo.,amaa ka ko ahyɛnso pɔ no ho hyiae wɔ berɛ a wɔrebɔ afiri.,0.9167,0.4894
+775,Nanso so Onyankopɔn nnɔ yɛn wɔ yɛn sintɔ mu ana?,Nanso so Onyankopɔn nnɔ yɛ wɔ yɛn sintɔ mu ana?,0.1,0.0263
+776,"Afei Samariani no “yii denare mmienu,","Afei Samariani no yi enameden mu panin no na ɔka kyerɛɛ no sɛ hwɛ,",1.8333,0.9667
+777,nanso ɛsɛ sɛ yɛhwɛ No daa sɛ ɔbɛboa yɛn ama yɛahunu na yɛanya anigyeɛ wɔ N’anim.,Nanso ɛsɛ sɛ yɛhwɛ no daa sɛ ɔbɛboa yɛn ama yɛnhunu no yɛanya anigyeɛ wɔ n'anim.,0.125,0.0317
+778,"Mehunuu sɛ me Soro Agya nim me yie pa ara,",Mehunuu sɛ me soro Agya nim yie pa ara.,0.1,0.0625
+779,Wɔn a wɔpɛ sɛ wɔkyerɛ anisɔ ma Elder Teixeira wɔ ne som pa ho wɔ saa dibea yi mu bɛtumi ayɛ saa.,Wɔn a wɔpɛ sɛ wɔkyerɛ anisɔ ma Elder Teere wɔn som pa ho saa yebeyi mu bɛtumi ayɛ saa.,0.2727,0.1351
+780,"nanso mekae saa berɛ no paa ne atinka a me nyaeɛ berɛ a ɔkaasɛ “Mepɛsɛ medi adanseɛ sɛ saa nwoma yi yɛ nokorɛ,",de mekaa pɔtanee sɛ medi adanseɛ wɔ nwoma yi,0.8261,0.6395
+781,na Onyankopɔn asɛm no ne ade titiriw a ɛde baeɛ.,Na Onyankopɔn asɛm no ne ade tete a ɛde baeɛ.,0.1,0.1316
+782,yɛn mu biara anya afiri yɛn Soro Agya hɔ asɛmpatrɛ adwuma sɛ yɛboaboa Israel ano wɔ nkataanim no afa mmienu no mu.,Yɛn mu duraa firi yɛn soro Agya hɔ asɛmpatrɛ adwuma sɛ yɛbɛboaboa Israel ano wɔ nkatanim no fa mienu no mu.,0.3182,0.1304
+783,Nsanyareɛ ne kɔfabaae afoforɔ binom de owuo ne yea abrɛɛ yɛn abusua ɛnam adɔfoɔ pa bi wuo nti.,nsaeɛ ne kɔfabae foforɔ bi nom de owuo ne yɛabrɛ yɛn abusua ɛnam adɔfoɔ bi a owuiɛ nti.,0.5556,0.1974
+784,"Sɛ yɛn asetena mu botaeɛ gyina Onyankopɔn nkwagyeɛ nhyehyɛɛ no so a,","Sɛ asesɛm botaeɛ gyina Onyankopɔn nkwagyeɛ nhyehyɛɛ no so a,",0.25,0.1429
+785,"sɛ yɛde yɛ adwuma na yɛyɛ no berɛbiara wɔ yɛn abrabɔ mu a,",sɛ yɛde yɛ adwuma wɔ yɛn abrabɔ ho a kɛba yɛn yi.,0.6154,0.4667
+786,"”  Sɛdeɛ ɛteɛ biara,","sɛdeɛ ɛteɛ biara,",0.0,0.0
+787,"berɛ a meresusu nsɛm a Yesu de maa N’asuafoɔ no ho no,",berɛ a mesusu nsɛm a Yesu de maa N'asuafoɔ no ho no.,0.0833,0.0488
+788,Onyankopɔn ne yɛn Agya a ɔwɔ Ɔsoro.,Onyankopɔn ne yɛn gya wɔ soro yɛyɛ.,0.5714,0.2857
+789,Ɔdɔ a ɔwɔ ma Onyankopɔn no nni ɛhyeɛ anaa ɛnni ano Ɛyɛ deɛ ɛnni ano na ɛtena hɔ daa.,ɔdɔ a ɔwɔ ma Onyankopɔn no nni ɛhyeɛ anaa ɛnni ano de ni ano na ɛtena hɔ daa.,0.1579,0.0923
+790,"”  Ɛno nti,",",",1.0,1.0
+791,yɛnim Nea “ɔdɔ [yɛn]” na “[ɔyɛ] biribiara ma [yɛn] yiedie ne anigyeɛ.,yɛnnim berɛ nyinaa hɔn na ɔdɔ yɛn na ɔyɛ neɛma nyinaa ara yɛn daa yi denies,0.9167,0.7083
+792,ɔtwerɛɛ ne din wɔ BYU–Pathway Worldwide a seesei ɔrefa adesua mu sɛ ɔbɛnya abɔdin krataa wɔ adɔeɛsɛm ne nsrahwɛbea nhwɛsoɔ mu.,Ɔde no kɔɔ bi wɔ patanima,0.9524,0.8654
+793,na ɔkanyan nnipa akoma ma wɔne wɔn ho wɔn ho de abufuo di aperepereɛ.,na ɔkananipa akoma ma wɔne wɔn no wɔn ho de busuo di apreprese.,0.3571,0.1818
+794,ɛfiri sɛ Ɔne ɔwofoɔ biara ne abɔfra biara ahoɔden.,husband,1.0,0.878
+795,"saa mmranimfoɔ yi bisabisaa nnipa bɛboro  a wɔte hɔ no nsɛm mmaako mmaako,",me,1.0,0.9667
+796,“Yɛn Soro Agya de N’ahonhom a wɔkorɔn pa ara no asie—ebia Ne kuo a ɛyɛ pa ara—ama ɔfa a ɛtwa toɔ yi.,Yɛsrɛ Agada ho hom a wɔakɔ baanahi ebia ne kuo a ɛyɛ paa ɔfatwa toi.,0.7727,0.3514
+797,Oaks tom sɛ Asomafoɔ Dummienu Kuo no Titenani ne M.,O um sɛ Asomafoɔ Dummienu knots ne M.,0.5,0.3415
+798,anim ne anim akannifoɔ nteteɛ a ɛhia wɔ dwumadibea mu.,ne ano,0.9,0.8864
+799,Wɔsusu sɛ yɛgye wɔn a wɔdidisoɔ yi tom sɛ Asomafoɔ Dumienu Kuo no mma:,Wɔsus yɛgye wɔn a wɔdidi soɔ yi tom sɛ Asomafoɔ Dummienu Kuo no ma.,0.4286,0.0893
+800,"ɔwɔ asodie sɛ ɔyɛ nhwehwɛmu ma botaeɛ sɛdeɛ wɔbɛma ahotɔsoɔ a nyansa wɔ mu fa ntoboa a wɔnyaae,",ɔwɔ asodie sɛ ɔyɛ ahwehwɛ mu ma botaeɛ sɛdeɛ wɔbɛma ahotɔsoɔ a nyansa wɔ mu fa ntoboa a wɔnyɛ,0.1667,0.0519
+801,Beaeɛ Aduɔsonfoɔ a wɔdidi soɔ yi wɔama wɔn ahomegyeɛ afiri wɔn nnwuma ho seesei ara:,Beaeɛ Aduɔsonfoɔ redio yi wɔama wɔn ahomegyeɛ afiri wɔn nnwuma ho seesei ara.,0.2,0.1014
+802,mfididwuma ho nimdeɛ a ɛwɔ adan a ɛyɛ den yi mu no yɛ me nwanwa.,mfididwuma ho nimdeɛ a ɛwɔ adan a ɛyɛ den yi mu no yɛ dwuma.,0.1333,0.1224
+803,Onyankopɔn bɛgye wɔn.,Onyankopɔn na,0.6667,0.4444
+804,Oaks sɛ Fotufoɔ a Ɔdi Kan wɔ Titenafoɔ a Wɔdi Kan no mu;,Sɛ tufoɔ a ɔdi kan wɔ Atitenafoɔ ɔdi kan no mu.,0.3846,0.2093
+805,"deɛ n’akwantuo de no faa mfuturo kwan bi so,",deɛ n'akwantuo de no faa mfuturo pan bi so.,0.1111,0.0588
+806,M’anigye saa akwanya yi ho sɛ mene mo kasa nnɛ.,yerimaa kyerɛ,1.0,0.8056
+807,"Mekae sɛ Kathy dii akɔneaba kɔsii anɔpatutuutu,","Mekae sɛ ka tidinebakɔsii anɔpatutuutu,",0.5714,0.175
+808,meyi ayɛ sɛ meka mo ho anɔpa yi ne mo rekyɛ m’akoma so atenka.,a manigyeɛ meka mo ho ano ne mobɛyam so atena.,0.6429,0.4255
+809,ne bɔne ho na waboa yɛn ama yɛabɛyɛ biribi dodoɔ.,ne bɔne ho aboayɛ biribi,0.6,0.4872
+810,"Ebia ɛno nti na yɛyi sɛ yɛbɛbata nsɛm a y’atwerɛ ama yɛn ho,",ebia nntia yɛyi sɛ yɛbaayɛ yɛn ho.,0.6154,0.413
+811,anigyeɛ a ɛyɛ atenka wɔ Onyankopɔn ɛnni awieeɛ dɔ mu ma wo no.,anigyeɛ a ɛwɔ moayɛne ɛyɛ,0.8462,0.6735
+812,saa beaeɛ yi a na nsutene firi mmepɔ mu soro siane gu fam yi ho nkaeɛ baa m’adwene mu.,abaha na.,0.9474,0.9091
+813,amen.,amen.,0.0,0.0
+814,"” m’adamfo kaa sɛ,",a,1.0,0.9167
+815,Wɔn a wɔpɛ sɛ wɔkyerɛ anisɔ wɔ som pa a anuanom yi ne wɔn yerenom ne abusua asom no mma wɔn nsa so.,Wɔn a wɔpɛ sɛ wɔkyerɛ ne sɔɔ somaa anuanom yie wɔn abusua ne wɔn,0.6087,0.3553
+816,medwenee sintɔ a ɛwɔ otwa yi ho.,ne asɔɔdaa,1.0,0.76
+817,Yɛahunu papa ne bɔne mfitiaseɛ nhwɛsoɔ nyinaa bi.,yɛntiine?,1.0,0.8293
+818,"Awurade ayɛ ntɛm,",Awurade ayɛ ayɛ,0.3333,0.2143
+819,saa amaneɛ yei nyinaa nso ɔnyi mo totwene.,sɛ asɛmpakafoɔ,1.0,0.8235
+820,mebɔ mpaeɛ sɛ mobɛte Wɔn dɔ a wɔwɔ ma mo no nka.,Mebɔ mpaeɛ sɛ wobɛte wɔn dɔ a wɔwɔ ma mo no nka.,0.0833,0.0278
+821,N’akyɛdeɛ ma yɛn honam wusɔreɛ ka ho.,nakyɛdeɛ ama yɛn honam wusɔreɛ ka ho.,0.1429,0.0345
+822,Asɛmmisa a ɛye sene saa bɛyɛ sɛ “Deɛn na masua wɔ bɛyɛ mfeɛ ɔha a mede atena ase mu?,asɛm bisaa meyina mɛsuae wɔ ha a matenase no.,0.8947,0.5469
+823,"Wɔsusu sɛ yɛgye Russell Marion Nelson tom sɛ nkɔmhyɛni,","Wɔsusu sɛ yɛgye Rasar nelson tom sɛ nkɔnhyɛni,",0.3333,0.2174
+824,nsuo no an nyae.,nsuo gya,0.75,0.5
+825,"Nanso sɛ abrabɔ nkɔ sɛdeɛ na yɛn ani da so a,",Nanso saa abrabɔ ankyerɛ sɛdeɛ yɛnnidasoɔ,0.7273,0.3235
+826,ɛfiri sɛ w’asɛmpatrɛ berɛ no aso” (Nkyerɛkyerɛ ne Apam :,sɛsɛɛ,1.0,0.8837
+827,Medwene sɛ mobɛhunu deɛ enti a dwom “How Firm a Foundation”  abɛnya nteseɛ foforɔ ama me.,bɛhunu sɛ nea yɛ nwoma ɛfafao aman,0.9375,0.7286
+828,na yɛde Yesu Kristo Nna a Ɛdi Akyire Ahotefoɔ Asɔre no akyerɛ nnipa pii sene berɛ biara.,su Kristo Asɔre a ɛwɔ ho kyerɛɛ nnipa pii so biribiara,0.7647,0.5211
+829,ɛfiri sɛ na mframa no rehyia wɔn.,ɛfiri sɛ mframa no rehyia o.,0.2857,0.1923
+830,"Nsɔhwɛ yɛ nneɛma a ɛkabom ma y’asɛm a yɛpɛ ka akoma,","Nsɔhwɛ yɛ nneɛma a ɛka bom ma yɛn asɛm a yɛpɛ ka akoma,",0.3636,0.05
+831,na ɔbɔ mpaeɛ.,.,1.0,1.0
+832,Asɔre akannifoɔ kyerɛkyerɛ nnɛ yi sɛ “Awurade hwehwɛ sɛ abarimaa biara a ɔtumi no nsiesie ne ho sɛ ɔbɛsom.,banima asokyerɛ yerɛ sɛ biara na so,0.8947,0.7442
+833,"Brazil mu,","Brazil 5,",0.5,0.25
+834,” tete nkɔmhyɛni bi na ɔkaaeɛ berɛ bi.,Na presentook,0.8571,0.8966
+835,Hwɛ sɛnea nneɛma pii asi wɔ afe a atwam yi mu!,Hwɛ sɛnea nneɛma pii asi wɔ afe a ɛtwa me yi mu.,0.1818,0.0571
+836,Megyinaa saa mpoma no ho na mesusuu nea ebia Emma bɛdwene berɛ a ɔhwɛɛ nnua no so no ho.,megyina saa mpoma no ho na mesusuu na ebia ɛma bɛdwene berɛ a ɔhwee nnua no so no ho.,0.2105,0.087
+837,mehunuu sɛ ɔbɛtumi asa me yareɛ.,Mehunu sɛ wobɛtumi asa me yareɛ.,0.3333,0.1154
+838,Nelson ase wɔ nkɔmhyɛ tumi frɛ a ɔde ma asɛmpatrɛ adwuma no ne Titenani M.,"Nelson firii ɔde ma asɛmpatrɛ dwuma no nitan,",0.6667,0.4237
+839,"” Me kyerɛkyerɛɛ no mu sɛ me wɔ haw denden bi yɛ wɔ berɛ a ɔbisaa me sɛ,",kama,1.0,0.9434
+840,ɛyɛ deɛ meyɛ de boaa m’abusua.,Yɛahunu,1.0,0.7826
+841,"na berɛ a saa taboɔ no de nkutahodie biribiara baa nsensɛnmu,",Na ɛberɛ a saa soboɔ no ne kutoo deɛ biribiara ɛbaa nsɛnsɛm a.,0.7273,0.26
+842,Ɔwoso ne tiri mpɛn pii kɛkɛ na ɔde ne nsa akyerɛ ɔkwan foforɔ so.,wosoɔ.,1.0,0.902
+843,"ɛyɛ me ahohoahoa sɛ mede Amansan Mpanimfoɔ,",mahohoahoa sɛ mede Amansan mpanimfoɔ.,0.4286,0.1111
+844,baabiara a mɛtu kwan wɔ wiase.,Baabi a metukwan wɔ wiase,0.5,0.1667
+845,Mfitiaseɛ tumi firi kwan biara so.,mfiri,1.0,0.8214
+846,amen.,Amen.,0.0,0.0
+847,"abusua pae mu ka,",abusua pae,0.5,0.3077
+848,"Ɔbaa a ɔde ngo sraa Agyenkwa no nan ase no,",ɔbaa no a wɔde no sraa Agyenkwa no na yɛa,0.6,0.303
+849,Yɛde tumi biara abɔ mmɔden sɛ yɛbɛbɛn nkorɔfoɔ a wɔwɔ asiane mu no daa.,yɛretumi biara bɔ mmɔden sɛ yɛbɛbɛn nkorɔfoɔ a wɔwɔ asase mu daa.,0.3571,0.1053
+850,Yɛsu akra a wɔyeraeɛ no na yɛ ma mmusua a wɔn ho aka no daakena.,"yɛnnwane,",1.0,0.8367
+851,"na ɛte sɛ nea wanya ahoɔden bi wɔ n’anammɔn mu,","a ɛte saa no ne wɔnyaahoɔden bi wɔ n'anim mo,",0.7,0.3333
+852,"Meka kyerɛɛ no sɛ,","a,",1.0,0.9286
+853,m’awofoɔ dwenee ho sɛ wɔbɛsesa efie fam nkatadeɛ no.,madikan,1.0,0.8333
+854,sɛ Kristo mma .,.,1.0,1.0
+855,menyaeɛ a anka wotee wɔn nokorɛ anisɔ mpaeɛ ne ayɛyie a wɔde maa Onyankopɔn.,ɔnya anka wɔtɔn koransan ayɛ ɔde maa Onyankopɔn.,0.7857,0.3871
+856,Dakoro bi metoo nkra faa kasa-dekɔ-ntwerɛ so wɔ me tetefon so kɔmaa me babaa ne m’ase- barima .,Dakoro bi metoo nkra faa asadeɛ so wɔ me tɛtɛfon so kɔmaa me babaa ne asebaa,0.2353,0.1918
+857,"” Ɛnneɛ,","sɛɛ,",1.0,0.8
+858,Wɔn nyinaa kɔɔe ma ɛkaa Mary Magdalene a na ɔnhunu deɛ ato Agyenkwa no amu no.,Wɔnyinaa kɔɔ yɛ ma aka merema alea na wɔnhunu deɛ ato Agyenkwa no mu no.,0.5625,0.2097
+859,amen.,ame.,1.0,0.25
+860,"Ɔnyiniiɛ no,",",",1.0,1.0
+861,"mobɛte “ɔko ne akosɛm,",akonkosɛm,1.0,0.5294
+862,ɛne Hwɛsofoɔ Dwamtenafoɔ—ɛna ɛma kwan wɔ Asɔre no sikayie ho.,ɛnneɛfoɔ Dwamtenafoɔa yi ho.,0.9,0.56
+863,Mesrɛ mo sɛ monyɛ deɛ mobɛtumi biara nsi ntawantawa a ɛrekɔ so wɔ mo ankasa abrabɔ mu seesei no ano.,Mesrɛ mo sɛ monyɛ deɛ mobɛtumi biara nsi ntawantawa a ɛkɔ so wɔ m'abrabɔ mu nyinaa seesei no ano.,0.25,0.1875
+864,Nsusuiɛ a ɛtɔ so :,Nsusuiɛ ɛtɔ so ntanta.,0.5,0.5385
+865,abusua no hyɛɛ wɔn abrabɔ ase—ne wɔn paanoo adwuma no—bio wɔ ɔman foforɔ so.,Abusua no hyɛ wɔn abrabɔ ase no wɔ mpaano adwuma no bio wɔ man foforɔ so.,0.5714,0.0833
+866,"Enti wote aseɛ sɛ berɛ a na wowɔ w’asetena ansa na wɔrewo wo mu no,",Enti wote aseɛ sɛ berɛ a na wɔwɔ asetena ansa na wɔwoo mo no.,0.3333,0.1176
+867,"” Wɔ ehu mmirika so,",dan,1.0,0.9286
+868,"medi adanseɛ ɛnnɛ yi sɛ yɛretae awoɔ ntoatoasoɔ a ɛresɔre yi akyiri wɔ berɛ a nsɛm denden a ɛntaa nsi ne nsɔhwɛ mu no,",Medi adanseɛ ani yi sɛ retaa wɔ ntotosoɔ resɔre yi akyiri wɔ berɛ a nsɛm denden a ntɛsen nsɔhwɛ no no.,0.4167,0.2021
+869,Pɛ berɛ na ma wo honhom mu ahoɔden akwaa no nkɔ soro berɛ a worekae nhyira a wanya afiri Awurade hɔ.,ɛberɛ no ma wo honhom ahoɔden kwan no kɔsoeɛ a wɔka yɛhyiahyia Awurade ho.,0.6667,0.3418
+870,Emma bɛsua emu ahoteɛ ne apam nkutahodie a ɛbɛma saa asɔfodie ayɛyɛdeɛ no tumi a wɔde bɛyɛ adwuma wɔ n’abrabɔ mu no akɔ soro.,ma bɛsua emu ahoteɛ ne apam nkutahodie a ɛbɛma saa asɔfodie ayɛ deɛ no tumi a ɔde bɛyɛ adwuma wɔ abrabɔ mu no akɔ soro.,0.2083,0.06
+871,"ahohiahia mu,","mu,",0.5,0.8182
+872,baako yɛ Agyenkwa Yesu Kristo mfonin ɛna baako nso yɛ Joseph Smith a ɔwɔ Kwaeɛ Kronkron no mu mfonin.,a yɛ Yesu Kristo mfoni na baako no nso yɛ Memia wɔ kwaeɛ mu no mfonim.,0.6316,0.439
+873,"Megya mo nhyira bi a mobɛhunu na moanya ɔsoro nhyira pii na moanya adanseɛ sɛ Onyankopɔn tie mo,",me you will the cover and expertise ne manya,1.0,0.7949
+874,"mekae sɛ me ne me papa te kaa mu a na mehunu ankorankorɛ a wɔakɔ tebea a ɛyɛ den mu anaa wɔhia mmoa,",Mekae sɛ sɛne me ne mpatemu anhu amamfoɔ a wɔnam kwan ho a ɔhia mo,0.7826,0.5455
+875,"Sɛdeɛ Ɔsomafoɔ Paul ka no,",yɛsoano.,1.0,0.7143
+876,na ɛbɛhia sɛ me ne menuanom bɛyi ɔwofoɔ a yɛne no bɛtena.,na ɛbɛhia sɛ me ne menuanom bɛyi ɔwofoɔ a yɛne no bɛtena.,0.0,0.0
+877,"“berɛ biara a Awurade nkorɔfoɔ a wɔwɔ asase so bɛdi N’asɛm so no,","Bere biara a Awurade nkorɔfoɔ a wɔwɔ asase so bɛdi N'asɛm so no,",0.0769,0.02
+878,Yɛdɔ No na yɛde anisɔ som Ɔne yɛn Soro Agya no.,Yɛdɔ mo yɛsomaa wɔ.,0.9091,0.6667
+879,yɛtumi hyiraa wɔn.,"yɛtumi hyiraa dwen,",0.3333,0.1333
+880,"Baabi a wɔhyia no nyɛ ɛdan anaa mpo ntomadan,","baabi a wɔahyia no nyɛ dan anaa mpo ntomadan,",0.2222,0.0556
+881,Ɔredi yea wɔ ne mu.,Wɔde yawo,1.0,0.7143
+882,"ne berɛ a mobɛda,",ɛberɛ a monnom.,0.75,0.4615
+883,na tɛmpol ahodoɔ nsia a ɛyɛ adwuma wɔ Asɔre no mu —baako biara wɔ St.,Na emponia,0.9333,0.8491
+884,"Wɔbom soa adesoa a ɛwɔ nhoma titire a wɔde sɛn so a ɛprapra ne nhoma a ɛsensɛn hɔ a ɛda hɔ,",bom so adesoa a ɛwɔ homa ntitire a ɔde di sɛn ɛprapra homa seehadow,0.7619,0.3571
+885,Enti yɛmpɛ sɛ wɔ animuonyam mu berɛ a deɛ ɔdi akotene no bɛdi apereapereɛ no so nkunim anaa?,Enti yɛn pɛ sɛ animuonyam mu berɛ a deɛ ɔdi akotene no di apereapereɛ no so nkonim anaa?,0.2778,0.0811
+886,—ɔbɔɔ me asu na ɔhyɛɛ me asɔreba wɔ Yesu Kristo Asɔre a Ɛwɔ Hɔ Mma Nna A Edi Akyire Ahotefoɔ Mu.,abosomdan Kristo Asɔre a ɛwɔ hɔ ma wieeɛ ahotefoɔ no.,0.7143,0.5676
+887,kanyan honhom mfitiaseɛ papa no.,Hɛna honhom ahoɔden papa no.,0.4,0.4444
+888,deɛ ɛka sɛ momfa Kristo din no a ɛyɛ me din no nto mo so no anaa?,Deɛ ɛka sɛ momfa Kristo din no a ɛyɛ nedino anaa?,0.4118,0.2292
+889,Medi adanseɛ sɛ Onyankopɔn asan de tumi a wɔde kyekyere nneɛma wɔ asase so ne ɔsoro no ama.,"a,",0.9444,0.9863
+890,"” Ɔno “hunuu asɛnnua amaneɛ,",a,1.0,0.9524
+891,nni nkoguo mma saa berɛ yi haw soronko no.,nni nkoguo maaroo no.,0.6667,0.4848
+892,me sukuu yɔnkoɔ baako too nsa frɛɛ me wɔ nkɔmmɔdie mu.,hufam,1.0,0.9302
+893,"sɛdeɛ na ɛteɛ,",sɛ yɛhunu,1.0,0.7273
+894,Yɛahyia mo mu bebree na yɛasua Kristo nkyerɛkyerɛ abom.,yɛhyia mu mu bebree na yɛsua Kristo nkyerɛkyerɛ abom.,0.3333,0.0652
+895,"” Wɔ Oforisuo ,","mma,",1.0,1.0
+896,"ɔsom a yɛnam Relief Society,",so wɔ akwan ahodoɔ pii so,1.2,0.8261
+897,Wɔsusu sɛ yɛtaa wɔn a wɔdidi soɔ yi akyi sɛ Amansan Sodifoɔ Aduɔson:,Wosusu sɛ yɛtaa wɔn a wɔdidi soɔ yi akyi sɛ Amansan sodifoɔ aduɔson,0.0769,0.0182
+898,"Yei ma yɛn ho kwan ma yɛsoma Asɔre akannifoɔ kɔyɛ berɛ ano berɛ ano,",Yei ma yɛn kwan so asɔre akandifoɔ berɛ ano ano,0.4286,0.3148
+899,"“nhyira bi ba ntɛm,",nyinaa,1.0,0.6429
+900,Nhwɛsoɔ a ɛtɔ so mmienu:,"mu,",1.0,0.8947
+901,na ɛde ɔdɔ nkabom sononko bi a ɛbɛtumi de anigyeɛ ahyɛ wɔn awofoɔ akoma ma.,na ɛde ɔdɔ nkabom som kubi a ɔbɛtumi de anigyeɛ wɔ awofoɔ akoma mu mu.,0.4667,0.2167
+902,N’asɛdeɛ titire ne sɛ ɔbɛhwɛ mmranteɛ ne mmaayewa a wɔwɔ ne ward so.,na ne nebotae ɔbɛhwɛ,0.8462,0.7963
+903,Afei Titenani Whitworth maa Jeff asɔfodie nhyira a ɛbɛboa no ma wadi ne haw no so.,senior Maafred ne has,0.9375,0.7576
+904,"Mehwɛ adwinniɛ a ɛwɔ saa dan yi nyinaa ho a,",mehwɛɛ a ɛwɔ saa dan no nyinaa ho a.,0.3,0.2647
+905,Na Omar ayɛ Asɔreba fiti ne mmɔfrase.,na ɔma.,0.8571,0.8333
+906,berɛ a wɔfrɛɛ yɛn kɔɔ Asomafoɔ Dummienu Kuo no mu.,berɛ a wɔwosoɔ no,0.7,0.7
+907,"asa yɛn yareɛ kɛkɛ nanso wɔ ne nyinaa mu no,",asa yɛn yareɛ kɛna,0.7,0.5588
+908,akuo hyɛɛ aseɛ baa Hawaii bɛgyee tɛmpol nhyira no.,akusa,1.0,0.878
+909,"Awurade hyɛɛ Adam ne Hawa sɛ wɔmmɔ mpaeɛ,","Awurade hyɛɛ Adam ne Hawa sɛ wɔmmɔ mpaeɛ,",0.0,0.0
+910,Mesrɛ sɛ kyerɛ wo mmoa wɔ kwan korɔ no ara so wɔ baabi a wowɔ.,Mesrɛ sɛ kyerɛ wo mmoa wɔ kwan korɔ no ara so wɔ baabi biara wowɔ,0.0667,0.0851
+911,"a yɛwɔ akoma a ɛyɛ nokorɛ a yɛwɔ adwene ankasa,","a yɛwɔ akoma a ɛyɛ nokorɛ a yɛwɔ adwene ankasa,",0.0,0.0
+912,"Yɛde ahomegyeɛ ma Amansan Mmaayewa Atitenafoɔa sɛ wɔdidi soɔ yi,",Yɛde ahomegyeɛ ma Amansan mmaayewa atitenafoɔ sɛ wɔdidisoɔ yi.,0.3,0.0185
+913,"Ɔsomaa Ne Ba,",sɛdeɛ kwan sɛ,1.0,1.0
+914,"na ɛhɔ na wɔbuu nkotodwe wɔ mpaebɔ mu,","Na hɔn wɔbuu nkotodwe wɔ mpaebɔ mu,",0.25,0.0667
+915,"Ɛwom sɛ onipa no wɔ akyirikyiri,",Awo sɛ onipa no wɔ akyirikyiri.,0.1667,0.0769
+916,Apam kwan no yɛ ɔkwan korɔ a ɛde yɛn kɔ mpagya ne nkwa a ɛnni awieɛ mu.,Apam kwan no yɛ ɔkwan korɔ a agye yɛn kɔ mpagya ne nkwa a ɛnni awieɛ mu.,0.0588,0.0556
+917,ntɛm ara na yɛfirii aseɛ bɔɔ mpaeɛ hwehwɛɛ ɔsoro mmoa ne Onyankopɔn tumi.,ntɛm ara na yɛfiri aseɛ bɔɔ mpaeɛ hwehwɛ ɔsoro mmoa ne Onyankopɔn tumi.,0.1538,0.0333
+918,"Ɛnkyɛree na m’adamfo bi daa mpa mu wɔ Buronya anɔpa bi,",Ɛnkyɛree na m'adamfo bi da mpa mu wɔ Buronya anɔpa bi,0.0909,0.0233
+919,Nwununwunu ne dɔteɛ no ntrɛmu tebea wɔ Winnipeg yɛɛ ɔhaw wɔ tɛmpol no fapem nsiesie mu.,nwenneɛ ne nteamu tebea wɔ wonni pak yɛ ɔhaw wɔtee no fapem nsiesie ho.,0.625,0.3521
+920,"odiyifoɔ no kaa sɛnea Awurade yii ne ho adi wɔ asɔredan mu no ho asɛm,",Odiyifoɔ no kaa sɛnea Awurade yi ne ho adi wɔ asɔredan no,0.2667,0.1636
+921,mɛpɛ sɛ mɛgyina Ne nkyɛn afebɔɔ.,mɛpɛ sɛ mɛgyina Ne nkyɛn afebɔɔ,0.0,0.0
+922,Nna a Ɛdi Akyire Ahotefoɔ bɛtumi ayɛ nsakraeɛ pa wɔ wiase.,Ɛnɛ bɛmuna,1.0,0.8511
+923,ɛho hia sɛ yɛsua sɛ yɛbɛyɛ Yesu Kristo asuafoɔ.,hiasɛ Yesu Kristo asuafoɔ,0.6667,0.4211
+924,dɔ wo yɔnko;,.,1.0,1.0
+925,yɛgye di na yɛbɛtumi anyini wɔ nokorɛ mmiɛnsa titiriw mu.,Yɛgyedi a yɛbɛtumi anyini wɔ nokorɛ manattere mu.,0.5,0.1915
+926,” Yɛn dɔfo pa Titenani Russell M.,faitnan Rule,1.0,0.6
+927,Wɔsusu sɛ yɛgye Dallin H.,Wɔsusu sɛ yɛgye a,0.4,0.3
+928,atenka bi rekɔso a ɛretwe yɛn kɔ Awurade fie.,atenka bi a ekɔ so retwe yɛn aba Awurade fie.,0.5556,0.1667
+929,sɛ ɛbɛsi mmirika a bɔne ne mmerɛ mu nsɛnkyerɛnneɛ retu a ano reyɛ den no ano.,sɛ yɛbɛsi mmirika a bɔne ne rasante yɛ mu no.,0.625,0.5246
+930,na wɔyɛ anokwafoɔ.,na ɔyɛ nokwafoɔ.,0.6667,0.1333
+931,"El SalvadorMedellín,",of served,1.0,0.7778
+932,"Asɛm “Mutual” bɛgye n’ahome na abɛyɛ “Mmaayewa dwumadie,",sɛ wɔn a esɔfoiaku no bi mu.,1.0,0.8182
+933,amen.,amen.,0.0,0.0
+934,"“Masua sɛ sɛ abɔfra a wɔawo no foforɔ di kan mia ne papa nsateaa wɔ ne nsateaa ketewaa no mu a,","Masua sɛ abɔfra wɔn wɔ no foforɔ di kan mia ne papa nsateaa wɔ ne nsa tena ketewa no mu a,",0.2857,0.0959
+935,"na ɔdanseni a ɔyi yɛn nsɛm ano ne Honhom Kronkron no,",na ɔdanseni a ɔyi yɛn nsɛm no ano ne hononkron no.,0.2727,0.1667
+936,"na ɔmaa me hokwan sɛ mɛtumi de ama ne bishop no,",kaa nafenaa no.,0.9091,0.7838
+937,mmɔfra ne mmabunu ahyehyɛdeɛ a dwumadie a anika ne wɔn ankasa nyini ɛka ho a Titenani Russell M.,mmɔfra ne mmabunu ahyehyɛdeɛ a dwumadie a anika wɔn ankasa nyini ɛka ho reanson,0.2778,0.1923
+938,"Ɛfiri berɛ a asɛmpatrɛfoɔ no kyerɛkyerɛɛ me ne me yere na yɛkɔkaa Asɔre no ho mfeɛ pii a atwam no,",berɛ a asɛmpatrɛfoɔ no kyekyerɛ me ne me yere na yɛkɔkaa asɔre no ho mfe pii atwa no.,0.25,0.141
+939,na nhyira nka wo sɛ woasianka me nnɛ da yi na mankɔdi mogya ho so na mamfa me ara me nsa mantɔ werɛ.,nyrana wasane me mfa me nsa nkɔka mogya.,0.8696,0.6883
+940,medwenndwenee saa akyɛdeɛ yi a ɛbɛma manya tumi a ɛfiri Ne hɔ a na mehia paa no ho.,Medwendwene akyɛdeɛ bɛma matwe tumi a ɛfiri Onyankopɔn hɔ a na me hia.,0.6111,0.4308
+941,"Asafo mma a na wɔwɔ akandifoɔ Asɔre no,","Asafo mma a na wɔwɔ aaakafo asɔre no,",0.125,0.1613
+942,Abantenten akɛseɛ mmienu mu duru a ɛrekɔ soro wɔ po no atifi no ne nneɛma a ɛdi kan a wɔsiiɛ.,Abantenten akɛseɛ mmienu mu duru a ɛforo kɔ soro wɔ Prono atifi no ne neɛma a ɛdi kan a wɔsiiɛ.,0.25,0.0685
+943,ne suapɔn ahodoɔ mu wɔ wiase nyinaa.,ne tampon.,0.8571,0.8276
+944,"yɛn Amansan Relief Society Titenanni ne ne kunu Doug,",yɛn Amansan Resistance wɔ,0.7778,0.5909
+945,"Sɛ wo dɔ ma Ɔsoro Agya no ne nkɛntɛnsoɔ a ɛho hia paa wɔ w’abrabɔ mu a,",Sɛ wodɔ ma ɔsoro Agya no ne nkɛntɛn nso a ɛhuhia sene biara wɔ wabrabɔ mu a,0.4118,0.1887
+946,Yɛnya saa yea atenka a ɛmu yɛ duru korɔ no ara berɛ a yɛne yɛn adɔfoɔ adi honam mu mpaepae mu no.,Yɛnya saa yea atenka a ɛmu yɛ duru korɔ no ara berɛ a yɛne yɛn adɔfoɔ adi honam mu mpaepae mu no.,0.0,0.0
+947,"Wɔsusu sɛ yɛgye afotufoɔ a wɔwɔ Titenafoɔ a Wɔdi Kan no mu ne Asomafoɔ Dummienu Kuo no mu tom sɛ nkɔmhyɛfoɔ,",Wɔsusu sɛ yɛgye afotufoɔ a wɔwɔ Titenafoɔ ɔdi kan no mu no ne asomafoɔ dummienu kuro no tumi sɛ Nkɔmhyɛfoɔ,0.2857,0.1034
+948,"wɔn a wɔde wɔn ho maae wɔ berɛ a na ɛnyɛ mu anaa wɔfirii ɔdɔ mu yii sika maa nnipa yiedie fotoɔ no nyinaa na wɔnyaa gyedie sɛ ɛbɛyɛ biribi papa no,","wɔn a wɔde wɔn ho ma yɛbrɛ a na emu nya mu anaa wɔfiri Odom yi sika ma humbrɔfoto no nyinaa gyidie sɛ bɛyɛ biaa no,",0.5938,0.3739
+949,Wɔbɛgye yɛn?,Wɔ hawa,1.0,0.8
+950,"na ɛyɛ me nwanwa deɛ nti a Agyenkwa no suuiɛ berɛ a ɔhunuu sɛ Mary redi yea berɛ a na ne nua,",na yɛ me nwanwa deɛ nti agyenkwa no so bra ɔhunu sɛ meridian nu,0.6364,0.338
+951,Medi me ankasa adanseɛ sɛ Onyankopɔn wɔ yɛn ntam na nokorɛ mu Ɔbɛtwe abɛn obiara a ɔtwe bɛn no.,Medi me ankasa adanseɛ sɛ Onyankopɔn wɔ yɛn ntam na nokorɛ mu Ɔbɛtwe abɛn wɔn a wɔtwe bɛn no.,0.1053,0.0789
+952,"Wilfried tumi ma ne ɔnni awieɛ hokafoɔ ne nkwadaa mmienu deɛ wɔhia,",Refidim hwee ne mamiɛnu.,0.9167,0.7455
+953,amen.,Amen.,0.0,0.0
+954,Wɔmaa no so na na ɔwɔ Ne daapem tumi ne ne tumi nyinaa.,wɔama no so na wɔwɔ daapem tumi ne tumi nyinaa.,0.3846,0.1905
+955,na moaka akyerɛ obi sɛ ɔnyane mo berɛ a saa basabasa yi atwam.,na mama kyerɛ obi sɛ wonya no mu na basabasa no atwam.,0.6154,0.3265
+956,"“Afei yɛ gyedi,","Afei yɛgye di no,",1.0,0.1818
+957,"Wɔtaa bisa Yesu Kristo Asɔre a Ɛwɔ hɔ ma Nna a Ɛdi Akyire Ahotefoɔ sɛ,",Wɔtaa bisa sɛ Yesu Kristo Asɔre a ɛwɔ manade akyire ahotefoɔ no.,0.4667,0.1818
+958,"ɔkɔbɔɔ mpaeɛ wɔ turo bi a na ɛbɛn ne fie sɛ ɔrehwehwɛ nokorɛ,","ɔkɔbɔɔ mpaeɛ wɔ turo bi a ɛbɛ ne fie sɛ ɔrehwehwɛ nokorɛ,",0.1538,0.0625
+959,Alma kyerɛɛ sɛ ɛwɔ sɛ yɛ “ka adwensakyeraeɛ ne gyedie wɔ Awurade mu nko ara.,ama kyerɛ sɛ ɛwɔ sɛ yɛka adwensakyera ne gyedie wɔ Awurade mu nko ara.,0.3333,0.0667
+960,“Gyedie nni hɔ a ɛyɛ den sɛ yɛsɔ [Onyankopɔ ani]:,didie nni hɔ a ɛyɛ den sɛ ɛsɔ Onyankopɔn ani.,0.3,0.1389
+961,ɛhia sɛ yɛbɛkai sɛ akyɛdeɛ nkoaa mma obi nyɛ ɔbenfoɔ.,Ɛhia sɛ yɛbɛkae sɛ akyɛdeɛ nkoaa mma obi nya ahemfo,0.3,0.1395
+962,mede asodie no too me ho so sɛ mamfa m’adwene nsi akwankyerɛ nhyehyɛeɛ no so yie.,mede asodie de maa me ho sɛ manawee ho akwan no hyehyɛɛ no,0.625,0.4375
+963,"me ne me yere som sɛ asɛmpatrɛ akannifoɔ wɔ Tokyo,",atwanannom,1.0,0.825
+964,kieselguhr twe nitroglycerin no na ɛma no yɛ te sɛ nku a wɔtumi yɛ no sɛ “mmabaa.,Kisekatwenatodw resoma no yɛ te sɛ nku a wobɛtumi ayɛ no sɛ maa,0.5294,0.4127
+965,onipa a ɔwɔ anim no gyae ne ho kɔ n’akyi wɔ wɔn yɔnko no abasa a ɛretwɛn mu.,deɛ anim no gyae ne ho kanyia na bɛɛmu.,0.7222,0.5614
+966,hunu sɛ Awurade de ɔbɔfoɔ a ɔwuo ato ne kwan mu:,ho de ɔbɔfoɔ bi bɛba abɛsesa wɔn.,0.8182,0.7027
+967,"Obubuo ,",a,1.0,1.0
+968,Na yɛredi saa apam no so no ma yɛn ho kwan bɛyɛ nhwɛsoɔ ma no twe afoforɔ ba Agyenkwa no hɔ.,na yɛdi a pam no so no mma yɛn ho kwan bɛyɛ nhwɛsoɔ ma no twe afoforɔ ba yankwan ho.,0.3333,0.1549
+969,"M’ani gye ne pɛ a ɔwɔ sɛ ɔde n’ankasa pɛ,",Mane gye ɔpɛ a ɔwɔ sɛ ɔde ankaa,0.5,0.2414
+970,Kirtland Tɛmpol no wɔtee ho.,Ketan temple no wɔtee.,0.6,0.3913
+971,"“Mene owusɔreɛ no ne nkwa no,",Mene owusɔreɛ ne nkwa no.,0.1667,0.0909
+972,Ɛfiri apam ayɔnkofa kɛseɛ a Ɔpɛ sɛ Ne mma nyinaa nya.,fraa,1.0,0.9048
+973,yɛkenkan sɛ Yesu ka kyerɛɛ nkorɔfoɔ no sɛ ɛberɛ aso sɛ Ɔkɔ Agya no nkyɛn na ɔsan nso yi ne ho adi kyerɛ Israel mmusuakuo a wɔayera no.,"yɛkenkan sɛ Yesu ka kyerɛɛ nkurɔfoɔ no sɛ, ɛberɛ no aso sɛ wokɔ agya no nkyɛn na ɔsan nso yi ne ho adi kyerɛ Israel mmusuakuo a wɔayera no.",0.1071,0.0472
+974,mehunuu sɛ wɔde pampim bi asi kwan no a polisini bi te hɔ sɛ ɔbɛdanedane kaa ahodoɔ berɛ a wɔaduru pampim no ho.,Mehu sɛ wɔboae bi ase kwan no so na poresi bi te hɔ na ɔda ne dan a hɔnomfoɔ.,0.6957,0.5506
+975,"twee nagyapadeɛ nyinaa wɔ teaseɛnam kumaa mu kɔɔ anweatam fie bi a obi nnim—na ɛtɔ da a,",he nagyapadeɛ nyinaa wɔ teaseɛnam kumaa mu kɔɔ anweatam fie bi a obi nnim na ɛtɔ da mpa,0.2353,0.0714
+976,"Philippines Jakarta,",Flora,1.0,0.8333
+977,”Ɛyɛ nokorɛ paa ma me.,ɛyɛ nwanwa foro nyankopɔn nuanom mmarima ne mmaa wɔyɛ,1.6,2.0625
+978,"Egya a ɛresɛe adeɛ wɔ Maui a ɛwɔ Hawaii,",Egya a ɛhyehyɛeɛ wɔ ma a ɛwɔ ha wa.,0.5556,0.3548
+979,"Maxfield,",,,
+980,Asɔreba yamyɛfoɔ bi maa me akwanya sɛ ɔde me ne me abusuafoɔ bɛfa ɔno ara ne wiemhyɛn afri Puerto Rico akɔ Salt Lake City sɛdeɛ ɛbɛyɛ a anka yɛbetumi asɔ yɛnho ano wɔ tempol.,Asɔreba na nemae masanim sɛ ɔde hwɛmhyɛbefiri Kotokoals akabu ba mu hɔ tam,0.9118,0.7
+981,Onipa biara a wabɔ no asu no wɔ saa nhyira yi ho bɔhyɛ ne akwanya sɛ ɔdi saa apam a ɔyɛɛ no saa da soronko no so a.,ɛyɛ pɛ bi a wɔbɔne sumɔ sɛ nhyira ho bɔhyɛ ne akɔnya ɔsoasɛm yi sankonoo,0.8571,0.4828
+982,"Mmuaɛ no a Worehwehwɛ Berɛ a Dawid de ɔboɔ baako pɛ kum Goliat no,","braian,",1.0,0.8846
+983,“Anɔpa yi anɔpatutuutu Mormonfoɔ kuo bi twaam wɔ wɔn akwantuo a wɔrekɔ Salt Lake no mu.,Anɔpa yi anɔpatutuutu mommfa kɔbitwaamu wɔ wɔn akɔntuo.,0.6875,0.4143
+984,"Ɔbɛnem ,",",",1.0,1.0
+985,bɛhyira mo asetena wɔ akwan a ɔsom foforɔ biara rentumi mma.,bɛkyere mo asetena wɔ ɔkwan a ɔsomfoforɔ biara ntumi mma.,0.4545,0.1224
+986,"Asɔre no kuo ahodoɔ sikayie gyina sikasɛm-nsusuiɛ a wɔagye ato mu,","Asɔre no kuaahodoɔ sikayie gyina sikasɛm nso sua wɔagyegye ato mu,",0.5455,0.1296
+987,Me susu sɛ Dawid ne Goliat suahunu no bɛtumi aboa.,Mesusu sɛ Dawid ne Goliat tua hunu no bɛtumi aboa.,0.4,0.025
+988,wɔsɔɔ yɛn ano sɛ daa okunu ne ɔyere wɔ Mesa Arizona Tɛmple mu wɔ afe  mu.,wɔsɔɔ yɛn ano sɛ ɔde kunuwɔm Arizona temple wo,0.6875,0.4107
+989,"Na wanom kuruwa a ɛyɛ nwononwono no na wahu amaneɛ nyinaa sɛnea ɛbɛyɛ a sɛ yɛsakyera a,",na wanom kuruwa a ɛnwono na hunu amaneɛ nyinaa mu sɛ bɛyɛ a yɛ,0.5294,0.3857
+990,Ɛmmra sɛ mɛnya akokoɔduro araa ma mɛkyerɛ sɛ afe yi yɛafiri mfeɛ du a ebia ɛbɛda adi sɛ ɛho hia te sɛ nea ɛdii saa mfeɛ du a ɛso bi nni a wɔde sii hɔ no akyi bɛyɛ mfeha mmienu a atwam ni no ase.,menkyerɛ mufiri bɛyɛ ne ahohiahiafoɔ biara efisɛ,0.9778,0.7919
+991,"Na meyɛ Primary abɔfra berɛ a wɔka kyerɛɛ me sɛ ɛbɛba sɛ wɔbɛgyae awareɛ da bi,",na me yɛpɛ nabɔfra berɛ a ɔka kyerɛɛ me sɛ ɛba sɛ wɔbɛgya wareɛ dani.,0.5625,0.1905
+992,"“Seesei sɛ mehwɛ deɛ abɛɛfo mfidinnwuma nimdefoɔ,",seesei sɛ mehwɛ deɛ adansefoɔ adwinneɛ ne difoɔ.,0.5714,0.3902
+993,"Awurade Yesu Kristo ne Odwanhwɛfoɔ Pa no na ɔnim Ne nnwankuo no,",edianan,1.0,0.8846
+994,"Ɔkɔɔ so,","Ɔkɔɔ so,",0.0,0.0
+995,na ɔhwɛɛ wɔn pintinn te sɛ nea wɔbɛsrɛ No sɛ ɔntra hɔ nkyɛ kakra.,Na ɔhwɛɛ wɔn anim pintinn te sɛ nea wɔbɛsrɛ no sɛ wɔntena hɔ nkyɛ kakra.,0.1429,0.1373
+996,nkwadaa hwɛ mu yi botaeɛ ahodoɔ wɔ onyini akwan nan no mu biara so.,"kaanya,",1.0,0.8868
+997,"Mmom ɛbaa sɛ Nifae ne Lihae,","mmom ɛbaa sɛ ne fa ne Lehi,",0.5,0.2273
+998,"Berɛ a saa anammɔntui ma yɛn so na ɛpia yɛn sɛ yɛnyɛ papa no,",saa ahyehyɛeɛ ne nyinaa ne deɛ ɛtumi pagyaa tumi ma nipa ɛgyaso.,0.9286,0.8936
+999,"Yɛnhiaa honhom mu mfitiaseɛ papa sene sɛdeɛ yɛhia no nnɛ yi,",Yɛhia hom fitiaseɛ papa sene sɛdeɛ ɛhia no yɛ.,0.6364,0.2653

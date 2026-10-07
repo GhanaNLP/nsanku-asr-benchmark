@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,NIBII NI BAAYE ABUA BO NI OBATSƆ KRISTOFONYO NI EDA YƐ MUMƆŊ,Ne bi nni bayeaboabɔne obakɔ Christoni,1.0,0.5102
+1,MIKASE NII NI MITSƆƆ NII BE NI MISƆMƆƆ AKƐ KPOKPAA NƆKWƐLƆ KƐ BE NI MISƆMƆƆ AKƐ KPOKPAA WULU NƆKWƐLƆ LƐ,Nkaseɛ no ne nkyɛn beni nsomaa kpako kɛbaninaa takpal no kɔ la.,1.0,0.631
+2,Mɛɛ be nɛkɛ Yehowa yelikɛbuamɔ he baahia wɔ waa?,Mbenyi wayek buama ahia wɔ waa.,0.7778,0.3846
+3,"Mɛni hewɔ esaaa akɛ wɔnuɔ he akɛ kɛ́ wɔbatsɔmɔ Kristofoi ni edara yɛ mumɔŋ lɛ, belɛ wɔgbe naa lɛ?",Mɛni he wassack wɔ no hakekɛwɔbakyɛ mo kristofoɔ any dammo bɛ wɔgbe naa.,0.7895,0.4079
+4,"No hewɔ lɛ, eyɛ mli akɛ mɛi ni hi shi yɛ blema lɛ bɛ watsii, tamɔ bɔ ni wɔyɔɔ ŋmɛnɛ lɛ moŋ, shi no mli lɛ amɛyɛ gbɛ ni amɛtsɔɔ nɔ amɛtsɔɔ bɔ ni atswa.",no yɛ wɔ yɛmayɛma nhyia blema bɛ wakyewɔ no yɛ ɔmo no mu. sinmameɛgbɛne amɛtɔtɔɔ ne atwa,0.8857,0.5268
+5,"Feemɔ nibii ni nyɛmimɛi lɛ feɔ lɛ eko. Yaa asafoŋ kpeei lɛ fɛɛ, ni okɛ amɛ afee ekome kɛya shiɛmɔ",Fon bi ne nyame fie ɛkoankuan,1.0,0.7763
+6,"Winston, ani sɔɔmɔ ni oyasɔmɔ yɛ Pasifik Wuoyigbɛ Ŋshɔkpɔi lɛ anɔ lɛ eye ebua bo ni onyɛ otsu onitsumɔ akɛ Australasia Nitsumɔhe Nine Ajinafoi Akuu lɛ mli nyo lɛ jogbaŋŋ?",Wonte ansom no yɛasoma yɛ pacific wei bɛhono boabo ne nya ɔtwene kyemu aka strain kyiman ne gyinafoɔ akum nneama,0.9667,0.5755
+7,HÃ NIKASEMƆ ATSE ONAA,ankasa one,1.0,0.6111
+8,KƐ́ WƆKƐ WƆHIƐ FƆ̃ YEHOWA NƆ LƐ WƆBAANÁ NAANƆ WALA,Ke wɔ kɛ wɔ hiafoɔ yɛhuan wɔbaana n'ano wala.,0.9,0.3077
+9,"Mɛni kɛ́ wɔfee lɛ, no baahã wɔye Yehowa anɔkwa?",Mɛni wɔ fie no ba ha wɔ yɛ yɛhuanokwa,0.8889,0.3611
+10,Wɔbaakase bɔ ni wɔnáa mfonirifeemɔŋ paradeiso lɛ he sɛɛ kɛ nɔ ni wɔbaafee ni baagbala mɛi krokomɛi kɛba mli lɛ he nii.,Wɔ baakasebɔne wɔ na mfonin feemɔ parades sɛ kenan wɔbaafee bablae kroko menka mli he ni.,0.8636,0.3125
+11,ESAA MƐI ATSUI KƐ AMƐJWƐŊMƆ,Esia me atwe kamara.,1.0,0.6087
+12,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,Sane bimangyakane lawyer den,1.0,0.5
+13,PAULO YE EBUA ENYƐMIMƐI LƐ KONI AMƐHEMƆKƐYELI LƐ MLI AWA,Paulo ebony mmoa memmɛyɛ a,0.9,0.5745
+14,NITSUMƆ KO NI HE HIAA WAA,Nitsumɔ koni yɛhia wo a.,0.8333,0.2
+15,"Pam, bo hu obale anɔkwale lɛ yɛ ogbekɛbiiashi. Te eba lɛ tɛŋŋ?",Pam Bobaa biahyia,0.9167,0.7292
+16,MƐƐ GBƐ NƆ NIBII NI NYIƐ SƐƐ NƐƐ BAANYƐ AYE ABUA WƆ NI WƆKAYOYORO KƐ́ WƆKƐ NAAGBAI KPE?,"Me ba no ne bi ne nnuasene ɛbaa nye ayaaboa wɔ, na wɔka your ka wɔkɛnaa",0.9444,0.4265
+17,Mɛni hewɔ ehe miihia ni wɔhã yiŋtoi ahewɔ ni wɔshiɛɔ lɛ ahi wɔjwɛŋmɔ mli?,Mani hewhe ehia no wɔ ha yi nti ahewɔ no wɔ sheream ɔdwom,1.0,0.4407
+18,"Mɛɛ gbɛ nɔ brikii ni ana yɛ he ni blema Babilon yɔɔ lɛ kɛ gbɛi ni atsɔ nɔ afee brikii nɛɛ maa nɔ mi akɛ, nɔ ni awie yɛ Biblia lɛ mli lɛ ja lɛɛlɛŋ?",Megbe no break ne na yɛ heneba ababio your kɛ gbɛ ni atsɔ na afe breakin ma no mikɛaaba nyia,0.8857,0.5182
+19,NYƐSUƆMƆ LƐ MLI AWAA,"Ne somale awo a,",1.0,0.5882
+20,"Nyɛmimɛi ni tee kpee nɛɛ eko lɛ ateŋ mɛi pii kɛɛ miishɛɛ ni amɛná yɛ kpee nɛɛ shishi lɛ nɔ bɛ, ejaakɛ amɛna faŋŋ akɛ Yehowa miijɔɔ ewebii lɛ. Shi amɛmiishɛɛ lɛ sɛɛ etsɛɛɛ.",Na me me ne te kpe ne kote me pii ke mesina me na yekunsihyi nɔ bɛ egyanaye medeewi,0.9118,0.6593
+21,Feemɔ Nibii Ni Baahã Ohe Oye Waa Akɛ Yehowa Asafo Lɛ Nɛ,fam no bi ne ba a ɔhyɛ wɔ ha kɛ Yehowa sa,1.0,0.4773
+22,YEHOWA BAAYE EBUA WƆ KƐ́ WƆMIINU HE AKƐ WƆBƐ MƆ KO,"Yehowa baaye boa wo, kɛ wɔn nuhiakɛ wɔ bɛmu.",0.7273,0.2564
+23,NƆ NI ABAASUSU HE a,no ne abasoso yi.,1.0,0.5333
+24,MƐNI HEWƆ ESA AKƐ WƆJIE HIƐSƆƆ KPO?,Mede wasawa gye hiso bo.,1.0,0.6071
+25,Mɛi Ni Sɔmɔɔ “Miishɛɛ Nyɔŋmɔ Lɛ” Yɛ Miishɛɛ,Mani samuel menhyɛ nnomɔ yɛ me nhyɛ. Malani ni kasamu a da mo no.,1.75,1.0294
+26,‘Nyɛkwɛa Jogbaŋŋ Ni Mɔ Ko Akaŋɔ Nyɛ Nom’!,Nye kɔ adzogbe ne mekaka nye nomee,1.0,0.5161
+27,OKƐ OTII NI OBAANYƐ OSHƐ HE AMAMƆ OHIƐ,ka o ti o banesɛi ama mo wo he.,1.125,0.5161
+28,BƆ NI FEE NI MIKASE YEHOWA HE NII NI MIBALE LƐ,Bɔne fie ne nkasɛe no ani ball.,1.0,0.5
+29,YEHOWA BOƆ SƆLEMƆI TOI,Yehowa bu sɔleme.,0.75,0.3684
+30,Nɔ Hewɔ Ni Enáaa Nyɔŋmɔ Hiɛ Dromɔ,ohe wɔ ne enaanyo mɔ he aduro,1.0,0.4074
+31,BO YEHOWA TOI KONI EHI EHÃ BO WƆSƐƐ,"Bo Yehowa, o, Konieiahabowa sɛ.",0.75,0.25
+32,Bɔ ni wɔbaafee wɔhã hemɔkɛyeli ni wɔyɔɔ akɛ Yehowa asafo lɛ nɛ lɛ mli awa be fɛɛ be.,kase bɔ no wɔ baafee wɔ ha hemɔkɛyeli no wɔyake Yehowa asafo nam ne awɔaba,0.9444,0.3636
+33,Wɔle akɛ nyɛyi enyɔ fɛɛ nyɛnya sɔɔmɔ ni nyɛsɔmɔ yɛ ŋshɔkpɔi lɛ anɔ lɛ he waa. Ani nyɛbaasumɔ ni nyɛgba wɔ nibii ni tee nɔ yɛ jɛmɛ ni nyɛhiɛ kpaŋ nɔ kɔkɔɔkɔ lɛ ekomɛi?,Wɔaka nyenye nanasome yɛsomɛsomɛ na hewɔ annyane nenyinaa kɔkɔɔkɔ.,0.9706,0.6565
+34,Ani naagba yɛ he akɛ Yehowa Odasefoi kɛ wɛbsaitii loo apps ni akɛtaoɔ gbalashihilɛ mli hefatalɔi baatsu nii?,aninyɛ he akayea odasefoi website lobs na akataasia mifala ni.,0.8889,0.5
+35,MIBƆI SƆƆMƆ EKOŊŊ AKƐ KPOKPAA NƆKWƐLƆ,He bɔsomakomu akakpa nkwa,1.0,0.5625
+36,Mɛɛ gbɛ nɔ esoro Yesu baptisimɔ lɛ yɛ esɛɛnyiɛlɔi lɛ anɔ lɛ he?,Megbe nɔ suro Yesu baptismal yearsee anɔ he.,0.6923,0.46
+37,NYƐMIMƐI LƐ TEE NƆ AMƐSHIƐ,Gye me mete no mesee.,1.0,0.6364
+38,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,Sane bimanigyaKane load.,1.0,0.375
+39,"KƐ́ WƆMLI HI LƐ, WƆBAAFEE MƐI EJURƆ",Ke wɔ mehia wɔbaafee me aduro.,0.8571,0.3704
+40,"KƐ́ OOTAO OYI ANÁ WALA YƐ HARMAGEDON LƐ, MƐNI ESA AKƐ OFEE?",na Yamasa,1.0,0.8222
+41,c NƆ NI WƆNAA YƐ MFONIRI LƐ MLI: Nyɛmi nuu ko kɛ shishitoo mlai ni ekase yɛ Nyɔŋmɔ Wiemɔ lɛ mli lɛ miitsu nii koni ena nɔ ni ebaanyɛ ekwɛ yɛ TV lɛ nɔ.,Yɛ mfonini no kɔkɔkɔma keta hene nname nnumno ɛsisi to me line no kaseɛ anwummeɛ mu wɔ ne nkyene koni nano yɛ baanyɛ ɔyɛ TV no.,0.9118,0.6435
+42,MƐNI ASAFOŊBII LƐ BAANYƐ AFEE KƐYE AMƐBUA?,"Manaasa fom bi ba nyaa ka yi amɛba,",1.1429,0.4
+43,Nɔ Hewɔ Ni Ehe Miihia Ni Abaptisi Kristofoi Fɛɛ,Nɔ wɔnemhianabati si risteele no kasema mo no.,0.8889,0.641
+44,ESA AKƐ WƆMLI AHI AHÃ MƐI NI EJE KPA LƐ,Esa akɛ wɔ me ahehaa agye paa.,0.8,0.5
+45,NAMƆ KƐ́ WƆHIƐ BA NYAM YƐ EHIƐ LƐ EHI JOGBAŊŊ?,Na moka wɔ heabay yɛhiahia,1.0,0.5143
+46,"Hanania, Mishael, kɛ Azaria","Hanania, mehyɛ, Kazaria.",0.75,0.2727
+47,"Mɛni kɛ́ wɔfee lɛ, no baatsɔɔ akɛ wɔkɛ heyeli ni Nyɔŋmɔ kɛdro wɔ lɛ tsuuu nii jogbaŋŋ?",Mɛni kɛ wɔ fie no batakali ne nyimmɛ duro watunina,0.8235,0.5224
+48,KRISTO KÃ HE EETSƆƆ ASAFO LƐ GBƐ,"Kristo katwa bɛ,",0.8571,0.5769
+49,Mɛni wɔbaanyɛ wɔfee kɛtsɔɔ akɛ wɔsusuɔ mɛi krokomɛi ahe tamɔ Epafra?,Mɛni ɔbanyin etwae wɔ susoect,0.9091,0.6667
+50,Bɔ Ni Obaafee Oná Miishɛɛ Waa Yɛ Shiɛmɔ Nitsumɔ Lɛ Mli,Bɔ ni obaafee wòna mí si wɔa yesia nitsumɔ lɛ Malikam no,0.6364,0.4545
+51,“NYƐJIEA EFƆŊFEELƆ LƐ”,Nye dza efɔŋfeelɔ.,1.0,0.3333
+52,JEEE ASAFOŊ ONUKPAI PƐ ESA AKƐ AMƐWO MƐI HEWALƐ,Tse asafo onukpa pɛ esa kɛ amewo me wɔle.,0.7778,0.3077
+53,Ani Ole?,Ani ne aban,1.0,1.0
+54,"KƐ́ WƆFEE MƐI EJURƆ LƐ, NYƆŊMƆ BAANÁ WƆHE MIISHƐƐ",Ke femangurwɔn nwoma baa no wɔ emia.,1.0,0.5641
+55,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,.,1.0,1.0
+56,Nɔ ni wɔkaseɔ yɛ bɔ ni Korinto asafo lɛ kɛ nyɛmi nuu ko ni yafee esha ko ni yɔɔ hiɛdɔɔ lɛ ye ehã lɛ mli.,Na ne wo kase yɛ bone Korinto asafo kanyann afe haon Yodo ye hã li.,0.88,0.4557
+57,Mɔ ni gba ji Charles Molohan,Mone bagye Charles molo ha.,1.0,0.3043
+58,Yehowa Shɛje Mimii Yɛ Mihaomɔi Fɛɛ Amli,Yehowa hyɛden me yɛ ne haw mo afa a m,1.1429,0.4848
+59,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Te,0.8,0.9
+60,"Winston, te nibii tee lɛ tɛŋŋ be ni nyɛbɔi Yehowa sɔɔmɔ lɛ?","Winston, Teetee yɛ bɔneyɛ",0.9167,0.6087
+61,FEEMƆ NIBII NI BAAHÃ EKOMEFEEMƆ NI YƆƆ WƆTEŊ LƐ MLI AWA,Fam no bi ne bahi comemun wɔ tam no awa,0.9091,0.5333
+62,Mɛni mli ajɛ akɛ Kristo lɛ mla lɛ hã?,Menim ne agyata Christo mla.,0.8889,0.5357
+63,Tsɔsemɔ Hãa Wɔnaa Akɛ Nyɔŋmɔ Sumɔɔ Wɔ,Tsɔsemɔ ha wɔ na akɛ Nyɔŋmɔ sumɔ wɔ Mmaane ne kasema dam no.,1.2857,0.7097
+64,NƆ NI TSƆƆ AKƐ WƆHIƐ SƆƆ HEYELI NI NYƆŊMƆ KƐDRO WƆ LƐ WAA,Nnisoɔ he sɔhi ne nyɔmɔ kɛduro wɔ wɔ,0.9231,0.4889
+65,Ani Ole Ohenyɛlɔ Lɛ Jogbaŋŋ?,Ani ole wo yenye le dzogbe.,0.8,0.4348
+66,AMRƆ NƐƐ MITSƆ NIIATSƐ,Amrɔ ne ŋutsu nea dze.,1.0,0.5263
+67,"ELIA HAO, SHI YEHOWA YE EBUA LƐ",Elia a kye Yehowa yi ebule,0.7143,0.3333
+68,Mɛni Biblia lɛ hãa wɔleɔ yɛ bɔ ni Yehowa nyɛɔ etsɔɔ nɔ ni baaba wɔsɛɛ lɛ he?,ne ne Bibla ha wɔ le yebenya atsɔ no ne babaa saa.,1.0,0.5424
+69,YESU WO MƐI HEWALƐ,Yesu wɔ me hewalɛ.,0.5,0.2
+70,Mɛni hewɔ ehe miihia ni wɔto wɔtsui shi?,Menim wɔ hia no wɔtoatoa,1.0,0.5625
+71,Mɛni obaanyɛ ofee koni ofai shi ni otswa akɛ obaaye Yehowa anɔkwa daa lɛ mli awa?,Me ne banyɛ fa Knife twaa obaaye yehoiada kwadaa me,0.9375,0.4769
+72,"Mɛni okase yɛ Gideon, Hana, Apolo, kɛ bɔfo Paulo sane lɛ mli?",Mene wo kaseɛ Gideon hana Apolo kɛbo Paulo saniamaa na,0.6667,0.2826
+73,Wɔkɛ Miishɛɛ Miikpa Harmagedon Ta Lɛ Gbɛ!,Wɔka mehyɛ mpa magedalee kasema,1.0,0.6176
+74,WƆSUMƆƆ WƆHE KƐ “SUƆMƆ NI MLI WA”,Wɔ somall wɔ he? kɛsɔmɔ ne menewa,1.0,0.36
+75,NAAGBAI NI WƆKƐKPE YƐ MƐIDIJI NI WƆJI LƐ HEWƆ,Naagbee wɔ kɛkpe yɛ madi gye no wɔ gya,0.8889,0.4865
+76,"Kɛ́ ogbele JW Library ® lɛ, klikimɔ he ni kɛɛ “Donations” lɛ",Ke obeebleed sɛ,1.0,0.75
+77,YEHOWA WO EBI LƐ HIƐ NYAM,Yehowa wɔ ebi lahi nya.,0.6667,0.2
+78,Mɛni hewɔ wɔbaanyɛ wɔná nɔmimaa akɛ wɔbaanyɛ wɔje Satan tsɔnei lɛ amli lɛ?,Mɛni wɔbaanaanaa make wɔ baayewa se tanko menenam na.,0.9231,0.541
+79,NAMƐI EHE MIIHIA NI AWO AMƐ HEWALƐ?,Na me ehihia ne awae,1.0,0.5
+80,"Yɛ blema lɛ, kɛ́ mɔ ko miitao ekɛ meele afã gbɛ lɛ, mɛni efeɔ?",Yɛli Keila,1.0,0.8222
+81,MƐƐ BEI AMLI WƆBAANYƐ WƆFEE MƐI GBƆ?,Meeba menwɔ baanyi wɔfae.,1.0,0.4828
+82,"Mɛi komɛi ahe saji ni aŋmala yɛ Biblia lɛ mli lɛ hãa wɔnaa akɛ, ŋamɔ yɛ hewalɛ waa.",Me koma Heal,1.0,0.8594
+83,NIBII NI HÃA ALEƆ MƐI NI WƆJI,ni bi nni ha a alien gye.,1.0,0.5217
+84,SUI NI HÃA WƆNÁA MIISHƐƐ,Si ne ha wɔn a me nhyɛ.,1.4,0.4
+85,Mɛni hewɔ esa akɛ wɔshiɛ wɔhã mɛi srɔtoi fɛɛ ni wɔkɛkpeɔ lɛ?,M'ani wasaase wɔ ha menstruation wɔ kɛkpeɔ.,1.0,0.5208
+86,Okɛ Ohiɛ Afɔ̃ Yehowa Nɔ Koni Ohi Shi Kɛya Naanɔ!,okay ohia afɔ yehohanan hiskia naa no. Malani kasamu da mu no.,1.1,0.7297
+87,Wiemɔ Anɔkwale,Wiem anɔkwalenii kasema mono,2.0,1.0769
+88,Mɛni ba Ninive maŋ lɛ nɔ yɛ Yona gbii lɛ asɛɛ?,Me ne ba ne ne via Yona behia sɛ,0.9091,0.5429
+89,SƆLEMƆ OHÃ YEHOWA,Sɔlemɔ oha yɛha,0.6667,0.2667
+90,"Be ni miye afii kpawo tɔ̃ɔ ni mitswa mifai shi akɛ, mifeŋ nɔ ko ni Yehowa sumɔɔɔ",Bani yi afei paa wo tɔ trafika no kono yɛ ho a somall,1.0,0.5645
+91,Yehowa Webii Sumɔɔ Ni Amɛfee Nɔ Ni Ja,Yehowa webii somane amɛfee no ne gya. Malani no kasamu a dam no.,1.375,0.9
+92,Mɛɛ gbɛ nɔ Hiob tsɔɔ akɛ eyɛ hemɔkɛyeli ni ehiɛ kã shi?,Megbe nɔ Hiob tso kɛ ehemɔkɛyeli nhia,0.8333,0.3721
+93,Mɛni Daniel fee ni tsɔɔ akɛ eyɛ ekãa?,Minine fie ne chocka,1.0,0.6552
+94,BƆ NI WƆBAAFEE WƆSAA WƆ KƐ MƐI ATEŊ,Bɔ afe wɔ saa wɔ kɛma.,0.75,0.4286
+95,"d NƆ NI WƆNAA YƐ MFONIRI LƐ MLI: Weku ko miifee weku jamɔ, ni fɔlɔi lɛ ená nɔ ni gbekɛbii lɛ ateŋ mɔ fɛɛ mɔ efee koni akɛwo Noa adeka lɛ mli lɛ he miishɛɛ.",Yɛ mfonini ɔkukuom kakana wokuko mfikyire na no bikem efie kuna wonoan,0.9714,0.7034
+96,Mɛni hewɔ esa akɛ wɔtsɔ wɔwiemɔ kɛ wɔnifeemɔ nɔ wɔhã mɛi ana akɛ wɔhiɛ sɔɔ nii?,Manesa kɛ wɔkyerɛ w'awiemu ka w'ani fema wɔ ha me anaa kɛ wɔ he so ne.,1.0,0.4603
+97,ANI REHOBOAM JI GBƆMƆ KPAKPA LOO GBƆMƆ GBONYO?,Ani weom gye bom kpakpa loo gombo.,0.625,0.4474
+98,BƆ NI WƆBAAFEE WƆWU WƆSHI MUMƆI FƆJI,Bɔne wɔ afew woohi mu munyin,1.0,0.5
+99,Mɔ ni gba ji Jean-Marie Bockaert,Mo ne ba gye Gyan Mary Bokut,1.1667,0.5385
+100,"NYƐHEA NYƐYEA AKƐ YEHOWA BAAYE ESHIWOI ANƆ, TAMƆ BƆFO PETRO KƐ EŊA LƐ FEE LƐ","Yɛhia nyɛ yie, akɛ yewoayi ahyi wɔ yɛanom for troka ɛnyɛ afe.",1.0,0.541
+101,WƆBAANYƐ ‘WƆTSI WƆBƐŊKƐ NYƆŊMƆ’ KƐ́ WƆTƆ̃ PO,Wɔ baanina wɔ benkum ke wɔto,1.0,0.5294
+102,Mɛni ji mfonirifeemɔŋ paradeiso lɛ?,Me dzomi wɔna yefu nyifa wɔmpae some.,1.4,0.8
+103,"Nɔ ni ji ejwɛ: Ŋmɛnɛ lɛ, kɛ́ mɔ ko yafee esha ko ni yɔɔ hiɛdɔɔ lɛ, te esa akɛ asafoŋ onukpai lɛ atsu he nii amɛhã tɛŋŋ?","None gyedie ne Temokonkoni, Tesaa kasafo nukpa atsena me hã te",0.963,0.5795
+104,ASAFOŊ KPEEI HÃ AMƐFEE EKOME,"Asafo ŋukpee hã mefiekome,",0.8,0.25
+105,KPA YEHOWA FAI NI EYE EBUA BO NI OKAHAO FE NINE,Ka Yehowae eye bubu ne kahan,0.9091,0.4595
+106,KAAHÃ NƆ KO KWRAA GBALA OJWƐŊMƆ KƐJE OTII NI OKƐMAMƆ OHIƐ LƐ ANƆ,Kaa a no kokoraa gblẽ wodzɔɔ kedzi otini ke ma mɔwo hia,1.0,0.4808
+107,BƆ NI SHIƐMƆ NITSUMƆ LƐ TEE LƐ EHÃ YƐ LEBANON,Bolishia mu ne twom teelɛ ha yɛ labor no.,1.0,0.4444
+108,KƐ́ MƐI AHIƐ ESƆƆƆ EJURƆ NI WƆFEE AMƐ,Keen ahensa no wɔ fie a me,1.0,0.6207
+109,BƆ NI WƆBAAFEE WƆYA WƆHIƐ YƐ SHIƐMƆ KƐ NITSƆƆMƆ MLI,Bɔne wɔbae ɔyɛ wɔhia yɛahyia mu aniwa,1.0,0.5238
+110,Mɛni hewɔ Kain kɛ Solomon hiɛ baaa nyam yɛ Yehowa hiɛ lɛ?,Menye wɔ Kinkɛsɔlomo hia baa nyam ayewa he,0.9167,0.3556
+111,KAABU OHE AKƐ ONƆ KWƆ FE MƐI KROKOMƐI,Ka Ohiani,1.0,0.7667
+112,Omii Ashɛ Nɔ Ni Onyɛɔ Otsuɔ Yɛ Yehowa Sɔɔmɔ Lɛ Mli Lɛ He!,o miahe no ne nyawowoe wo asomnyɛ,1.0,0.6364
+113,"Kɛ́ wɔfee mɛi ejurɔ kɛtsɔ shiɛmɔ ni wɔbaashiɛ wɔhã amɛ lɛ nɔ lɛ, mɛɛ gbɛ nɔ no baahã wɔná miishɛɛ?","Ke ɔfeemu, Ketseaba wɔaahyew ha mano. Maabena a wɔnam nsia.",1.0,0.6053
+114,NIBII NI TEE NƆ BE NI MITEE YUNIVƐSITI,Na bi ne tena be ne nte University.,0.875,0.4194
+115,ESA AKƐ WƆNÁ “KRISTO JWƐŊMƆ LƐ” EKO,Esaa na histo dwan mu akɔ.,1.0,0.5556
+116,NIBII NI BAAHÃ OSUMƆ WAA AKƐ OKƐ YEHOWA GBƐTSƆƆMƆI BAATSU NII,Ni bi ne ba ha osuma wɔ a aka okyeame,0.9091,0.5686
+117,Mɛni obaanyɛ ofee kɛtsɔɔ akɛ okɛ ohiɛ fɔ̃ɔ Yehowa nɔ tamɔ bɔ ni Samson fee lɛ?,"""Minu banya fie ke tsɔa koɔhe fɔ Yehowa nɔ tamɔ bɔ ni Samson fee.",0.5625,0.2951
+118,Mɛni wɔbaanyɛ wɔwie kɛ nɔmimaa?,Me ne wo baanyɔwiekeno me maa.,1.2,0.3077
+119,Te Solomon sɔlemɔ shĩa lɛ ablanaa lɛ kwɔlɛ lɛ?,Te solomonsɔlemu shĩa blana kɔ lɛ.,0.6667,0.2703
+120,"Winston, te fee tɛŋŋ obale anɔkwale lɛ?",Wo simitia now,1.0,0.8065
+121,Mɛni kɛ́ wɔfee lɛ ‘wɔbaayimɔ obɔbɔ kɛ jalɛ yibii’?,Menka wɔ fie. ɔbanyimba kealeyibii. Lanka,1.0,0.5526
+122,"Okɛ Ohiɛ Afɔ̃ Yesu Kristo, Wɔ-Hiɛnyiɛlɔ Lɛ Nɔ","Okay, ohia afɔ Yesu Kristo wɔ he any law no, malaika ɛmda no.",1.25,0.5714
+123,KAASUSU AKƐ AMƐBOŊ TOI,Ka asesa ama bɔntu.,1.0,0.4737
+124,Mɛni hewɔ Nyɔŋmɔ ŋmɛ gbɛ ni apiŋ Yesu waa ni agbe lɛ lɛ?,Me na wɔnna,1.0,0.8372
+125,Mɛni kɛ́ wɔfee lɛ no baatsɔɔ akɛ ‘wɔmiiya Yesu ŋɔɔ’?,Mɛni kɛ wɔ fie dobaa wɔn yaye so mu.,0.8,0.4615
+126,WƆTEE ASAFOŊ KPEEI NI SƐƐ MLI LƐ ABAPTISI WƆ,Wɔte asafo kpeeni me abati soɔ.,1.0,0.3611
+127,BƆ NI ESA AKƐ WƆFEE WƆNII KƐ́ MƆ KO FEE WƆ GBƆ,Bɔne saa ka wɔ fa wɔ ne Kemo fee wɔ gbɔ,0.75,0.2647
+128,NƆ HEWƆ NI ESA AKƐ WƆNU NƆ NI NANETOKOTAI LƐ DAMƆ SHI KƐHÃ LƐ SHISHI?,No hewɔ ni ye saa ka wɔ no no ne nan tokota da mohyia haa hyehye.,0.9333,0.4259
+129,KASEMƆ MARKO—NÁ HE MIISHƐƐ WAA AKƐ OBAASƆMƆ YEHOWA KƐ MƐI KROKOMƐI,"Kasamu mako, na hemenɛ waake ɔbaaso yi ho a keen me.",1.0,0.5091
+130,“NYƐHÃA WƆYAA HIƐ KƐSHƐA DALƐ HE”,Nye ha wɔyɛ ahikadale yi.,1.0,0.4231
+131,“JAJEMƆ AMƐ YƐ MƐI FƐƐ AHIƐ”,2 Dzadza,1.0,0.9048
+132,BƆ NI ASAFO LƐ SHWEREƆ LƐ HÃA MINÁA MIISHƐƐ,"Bɔne asafo sure, me na me nhyɛ.",0.8889,0.5143
+133,"Saamɔ ohe kɛhã asafoŋ kpeei. Obaanyɛ okase lalai ni abaalá lɛ hu, ni oye obua mɛi fɛɛ ni yɔɔ oweku lɛ mli lɛ ni amɛsaa amɛhe akɛ amɛbaahã sane ko hetoo.",Saa mhean kpɔianyawo kase la lee ni abalawo me fɛ ne yoogi mlina mesamae amɛbaashe,0.9677,0.563
+134,YE OBUA O-BIBLIA MLI NIKASELƆ LƐ NI EKƐ NYƐMIMƐI LƐ ABƆ NAANYO,Yoo belanikaselɔ na ka nyɛ me abɔ no anyɛ,1.0,0.46
+135,"Oblahii Kɛ Oblayei, Nyɛbaanyɛ Nyɛná Miishɛɛ",Oblahii kɔ bla ye nye baneen me nhyɛ. alenke damn,1.5,0.5405
+136,Mɛni obaanyɛ ofee amrɔ nɛɛ kɛsaa ohe kɛhã shihilɛi ni mli wawai ni okɛbaakpe wɔsɛɛ lɛ?,Me nubane a moneyaham ne me wɔwiaa,1.0,0.7429
+137,Mɛni wɔbaanyɛ wɔfee kɛbaa ekomefeemɔ ni yɔɔ Nyɔŋmɔ webii lɛ ateŋ ŋmɛnɛ lɛ yi?,Mani wɔbaanaanaa webue atenenee,1.0,0.6984
+138,Mɛni hewɔ ehi hã wɔ akɛ wɔbaasumɔ wɔnyɛmimɛi lɛ waa?,Menwiaa wɔ akɛ ɔbaaso wɔ ne me waa.,0.8,0.5
+139,YEHOWA NA MLI EHÃ MOSE,"Yehowa nam Harmosi,",0.8,0.3333
+140,Mɛɛ gbɛ nɔ wɔhenilee yeɔ ebuaa wɔ ni wɔdaa yɛ mumɔŋ?,megbe nɔ wɔhenilee yi bua wɔn wɔdaa yɛ mu mo,0.7273,0.2439
+141,Ŋmalɛi ni nyiɛ sɛɛ nɛɛ baahã ona akɛ Yehowa shwɛɛɛ ohe kwraa:,Malani nea sɛ ne ɛbaa ha na akɛ Yehowa hwɛ woyɛ kuraa.,0.8333,0.3265
+142,MIGBEKƐBIIASHI BE NI MIYƆƆ FINLAND LƐ,baka bi a hepani yi finland dɛ.,1.0,0.4688
+143,"KAAHÃ EWA KƐHÃ BO AKƐ OBAATSAKE OSHIƐMƆ LƐ MLI, NI TSAKEMƆ JWƐŊMƆ NI OHIƐ YƐ SHIƐMƆ NITSUMƆ LƐ HE",Ka aboaboa mineamud mɔnehyɛ him tuma.,1.0,0.6795
+144,Te nibii ni Yehowa fiɔ shi yɛ mli lɛ ateŋ nɔ ni taa otsuiŋ waa? Ni mɛni hewɔ?,Tene bi ne yɛ ho a fiasea mli atena ne taa ɔtwewa. ne mene.,0.8889,0.4655
+145,Mɛɛ gbɛi anɔ Satan tsɔɔ elakaa mɛi ŋmɛnɛ?,Megbea no stance.,1.0,0.697
+146,"Okɛ Ohiɛ Afɔ̃ Yehowa Nɔ, Tamɔ Samson Fee Lɛ",Wokɔ ohiafo Yehowa nɔ tamɔ Samson ƒe,0.5556,0.2424
+147,SANE HEE NI EBA: Eji jw.org wɛbsaiti lɛ fã ko ni hãa Yehowa webii lɛ leɔ nibii komɛi ni sa kadimɔ ni miiya nɔ yɛ je lɛŋ hei srɔtoi lɛ oya nɔŋŋ.,Sane heneba agyegye dodoɔteɛ fa o ne a Yehowae le ne bi rekɔ mani saadi mu ne ne nyan yɛgyese yɛano.,0.9688,0.5596
+148,Is There a Creator Who Cares About You?,He's the creator who cares about you,0.375,0.1613
+149,Mɛni hewɔ ehe miihia ni wɔle bɔ ni akaseɔ nii?,Mene wehanian kase ne mu.,1.0,0.6111
+150,ŊMƐNƐ HU LƐ NYƆŊMƆ MIIBƆ MƐI KƆKƆ,me ne ho enyɔɔɔ me nkɔ.,1.0,0.5926
+151,Nɔ ni asafoŋ onukpai lɛ feɔ kɛyeɔ amɛbuaa nyɛmi ko ni efee esha ko ni yɔɔ hiɛdɔɔ.,No niasafonugbaɛ fie kɛyama boane koni shakon hedo,1.0,0.4844
+152,Mɔ ni gba ji Beishenbai Berdibaev,Money bɛdi baeɛ,1.0,0.6786
+153,Mɛni tsirɛɔ wɔ ni wɔye wɔbua mɛi ni amɛbatsɔmɔ Yesu kaselɔi?,Minitry w'ani wɔ yi wɔ buama abatoma yesu kaselɔ.,0.8182,0.3469
+154,MIGBEKƐBIIASHI KƐ MIBLAHIIAŊ,bɛka bi asikam,1.0,0.6538
+155,BƆ NI WƆBAAFEE WƆYE NAAGBAI KROKOMƐI ANƆ,Bɔne wɔ baafe wɔ yɛ nagbani kroko meyaano,1.1429,0.2647
+156,SUƆMƆ MLI AJƐ AKƐ MLA LƐ HÃ,"Samome gye akama,",1.0,0.6667
+157,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,O,1.0,0.95
+158,YEHOWA MIIKPA GBƐ AKƐ WƆYE LƐ ANƆKWA,Yehowa menkaa wɔ yelanɔkwa.,0.8571,0.3
+159,"Mɛɛ gbɛ nɔ Yehowa kɛ Yesu etsɔɔ akɛ amɛnuɔ nii ashishi? Ni mɛɛ saji kɛ́ wɔbi wɔhe lɛ, no baaye abua wɔ ni wɔkase amɛ?",Megbe nɔ Yehowa kɛ Yesu etsake a hyɛnee wɔ bi wɔ ha no bayibonsam,0.8,0.5281
+160,"YE ANƆKWA, FI SHI SHIŊŊ, NI OFEE EKÃA WAA","Yano kwa, fishish ne ofee kaa waa.",0.7778,0.2581
+161,ESA AKƐ WƆNÁ HEMƆKƐYELI KƐ́ WƆKƐ NAAGBA KO NI DA FE WƆ LƐ KPE,saa ka wɔ nahama. Keka akono.,1.0,0.6383
+162,Mɛɛ helatsamɔ he saji yɔɔ Biblia lɛ mli?,Mehia chamiya bra,1.0,0.7188
+163,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,Saa biman gye ka ne lawyer a dɛn?,1.6,0.5417
+164,"c Eyɛ mli akɛ wumɛi titri akɛwieɔ yɛ biɛ moŋ, shi shishitoo mlai nɛɛ pii kɔɔ ŋamɛi hu ahe.",hyehyɛ banim kankyema mentrakyi myeah,1.0,0.8286
+165,Kaafee Nɔ Ko Ni Baahã Mɔ Ko Anu He Akɛ Ehi Fe Mɛi Krokomɛi,Sankuo kumai fata Kafin koni Baamua no hianie kroko.,1.0,0.7556
+166,NIBII NI HÃA WƆNÁA MIISHƐƐ,"Ne bi, na ha wɔn a mehyɛ",1.4,0.4091
+167,bɔ ni obaafee otsi ohe kwraa kɛje amale jamɔi ahe lɛ he?,Bɔne obaafi otsi wo he kuraa ke dzi amalgam.,0.9167,0.4545
+168,"Pam, kɛ́ okɛ ŋshɔkpɔi lɛ anɔ shihilɛ to Australia shihilɛ he lɛ, te onaa lɛ tɛŋŋ?",Pokwase toarstal shine here tonat,1.0,0.6452
+169,Mɛni hewɔ amrɔ nɛɛ ji be ni esa akɛ wɔfee nibii ni baahã wɔkɛ wɔhiɛ afɔ̃ Yehowa nɔ waa lɛ?,Me ne wo ano na gye baninaa kawoe no bi ne ba ka nhiaha na waa.,0.95,0.5652
+170,SANE KO NI AWIE YƐ BIBLIA LƐ MLI,Sane koni awie yɛ bi blame.,0.625,0.2
+171,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,To bitot,1.0,0.7
+172,Mɛni wɔbaanyɛ wɔkase kɛjɛ sane kpakpa shiɛlɔ Filipo dɛŋ?,"Mani wɔ baayaa kejes ne papa halof Pili den,",1.0,0.4681
+173,"HANA, DAVID, KƐ LALATSƐ KO KƐ AMƐHIƐ FƆ̃ YEHOWA NƆ",Hanadad Kelaia fo Yehowa;,0.9,0.5263
+174,“HÃ WƆHEMƆKƐYELI LƐ ADA”,How wɔ hemmaa ada?,0.75,0.5789
+175,MƐNI LOO NƐGBƐ JI HARMAGEDON?,Mane low negbe dzi aaged,1.0,0.5
+176,Asafoku babaoo lɛ. Yehowa tsuji ni yɔɔ wala mli amrɔ nɛɛ ni yɔɔ hiɛnɔkamɔ akɛ amɛbaahi shikpɔŋ lɛ nɔ lɛ.,Asafokuo babaoYehoia tso dzenie wala lɛ mrene ne Yɔhenɔkamoatse amɛbaahi sikɔ nɔ.,0.85,0.3976
+177,KASEMƆ YEHOWA MUSUŊTSƆLƐ LƐ,"kasemɔ yɛ hoamu lɛ,",0.5,0.4167
+178,YAA NƆ OSƆMƆ YEHOWA,"Yaanom hɔ a,",1.0,0.5
+179,"Mɛni hewɔ esa akɛ wɔfee wɔnyɛmimɛi Kristofoi lɛ gbɔ, wɔke amɛ nii, wɔkɛ amɛhe ake amɛ, ni wɔmli ahi yɛ amɛnɔ?",Mmane akɛ wɔfee wɔ gameme Kristofoɔ wokani wɔkeka me no wɔ me ahia me no.,0.9048,0.4706
+180,Mɛni obaafee ni baahã mɛi ana akɛ osusuɔ amɛhe waa tamɔ Timoteo fee lɛ?,Mani obaafee baa me anake ɔsesamu de Mute.,0.9286,0.5439
+181,Mɛɛ ŋmalɛi baanyɛ aye abua wɔ ni wɔna nɔ hewɔ ni esa akɛ wɔfee mɛi ejurɔ?,Mmabaa yi aboa wo ne wɔn ano wɔ ne saaka manya,1.0,0.5439
+182,"Asafoŋ onukpai, nibii pii yɛ ni nyɛbaanyɛ nyɛfee kɛye nyɛbua mɛi ni ahe amɛ kɛba asafo lɛ mli ekoŋŋ lɛ koni wekukpaa ni yɔɔ amɛ kɛ Yehowa teŋ lɛ mli awa. Naa nibii nɛɛ ekomɛi.","Asafo no paa, n bi repia nyɛbaanyɛ fakyɛn boa me na aha me kɛbaafa me ekɔmenu yamea",0.9714,0.6449
+183,BO MƐI NI NYIƐ HIƐ LƐ TOI,Bo meanine tre.,0.8571,0.6316
+184,Mɛɛ gbɛ nɔ Yehowa yeɔ ebuaa wɔ ni wɔwu wɔshi mumɔi fɔji?,"Megbe nɔ Yehowa yi ebua wɔ, nu wɔwuwui mu mɔmɔ.",0.75,0.3182
+185,WƆJƆƆ WƆWALA NƆ WƆHÃ YEHOWA,"Wɔ dzɔ wɔwɔ la nɔ wɔ hã Yehowa,",1.2,0.1304
+186,Ani Okaiɔ?,Anka,1.0,0.5
+187,"Yehowa pɛ yelikɛbuamɔ naa wɔnyɛ wɔdamɔ naagbai ni ta lɛ kɛba lɛ kɛ helai bibii ni mɔmɔ wɔ lɛ anaa. Be fɛɛ be lɛ, wɔnaa Yehowa nine yɛ wɔshihilɛ mli. Oris wie akɛ:",Yehowa peeli ka bua monani wɔ damna agba ne Takab Kehelabibi ne momo wɔ anabinim,0.9394,0.5556
+188,ANƆKWA KRISTOFOI SUMƆƆ TOIŊJƆLƐ,Yona ye ɖe ase. Anɔkwa Kristofo s,1.75,0.8571
+189,"Kɛ́ wɔhao lɛ, mɛni wɔbaanyɛ wɔfee koni wɔnyɛ wɔdamɔ naa?",Tew hawee wanyiwa fekuni wɔnya wɔdamɔ.,0.9,0.4773
+190,Mɛɛ Be Ahe Nuu Lɛ Ni Yɔɔ Korinto Lɛ Kɛba Asafo Lɛ Mli Ekoŋŋ?,Sagenkurokuma ni fata he. Mɛba hanun yɛ korinto basafa mununkum.,0.9286,0.913
+191,Nɔ Kome Pɛ Ni Ŋmalɛ Lɛ Kɛɛ Abaanyɛ Adamɔ Nɔ Atse Gbãla,No ko bpan,1.0,0.8605
+192,osumɔ ekpakpa ni onyɛ efɔŋ?,Osuman,1.0,0.7273
+193,YEHOWA KÃ HE EEYE EEBUA MI,Yehowa ka he eye bua me.,0.6667,0.2381
+194,"Kwɛmɔ nɔ ko ni Yehowa ebɔ, ni ojwɛŋ nɔ ni etsɔɔ bo yɛ Yehowa he lɛ nɔ, loo okɛ mɛi krokomɛi agba nɔ ni etsɔɔ bo lɛ he sane. a",Kwami Yehowa bo ne odwensɔ howheel no no kɛmikurokome aba no ne etsɔ bosana,0.9333,0.4731
+195,Gbelemɔ Intanɛt lɛ ni otswa donate.jw.org owo mli,Blenternetɛɛ ne ɔtwana doɔ,1.0,0.65
+196,KƐ́ WƆJIE SUƆMƆ KPO WƆTSƆƆ MƐI LƐ YEHOWA BAAJƆƆ WƆ,Te wo Jesua Yehowa bad,0.9,0.675
+197,Mɛni kɛ́ wɔfee lɛ no baatsɔɔ akɛ wɔyɛ mɛi ni wɔshiɛɔ wɔhãa lɛ ahe jwɛŋmɔ kpakpa?,Mɛni kɛ wɔ feebaa wɔyɛ mani wɔshea wɔ ha a ahada papa.,0.8125,0.4444
+198,Mɛni Yesu fee ni tsɔɔ akɛ enuɔ he ehãa mɛi krokomɛi?,Me ne Yesu fii ni tɔ akɛ enuenu,0.8182,0.561
+199,Mɛɛ gbɛ nɔ Yehowa jɔɔ mɛi ni lɛɔ amɛsɔɔmɔ lɛ mli lɛ?,Me gbɔ no Yehoada me ne learns monyi,1.0,0.6
+200,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Ahe sanebimɔ ɛna akɛseɛ wɔnnte ɔbaa ha hit wɔ ha,2.0,1.55
+201,"“Kɛji Nyɛle Nibii Nɛɛ Ni Nyɛkɛtsu Nii Lɛ, Nyɛyɛ Miishɛɛ”",Kainan bi ne ne nakatua,1.0,0.7273
+202,"Kɛ́ wɔshi be fɛɛ sɔɔmɔ nitsumɔ lɛ mli loo atsake wɔnitsumɔ lɛ, mɛni baaye abua wɔ?",Tease fɛso tummy loweacher wɔ ne ti mo ne ne baayaa wɔ.,0.9375,0.6094
+203,NƆ NI OBAAFEE KONI ONYƐ OLƐƐ OSƆƆMƆ LƐ MLI,No ni obaafee koni newoes mo.,0.6667,0.4706
+204,Mɛni hewɔ mɛi sumɔɔ malemɔ nakai?,"""Mɛni wɔ me small malima kan.",0.8333,0.4444
+205,"Nyɔŋmɔ tsuji ni yɔɔ shikpɔŋ lɛ nɔ lɛ baaná nɔmimaa akɛ, Yehowa kwaŋ amɛ kɔkɔɔkɔ kɛ́ mɛi ni afɔ amɛ mu lɛ ateŋ mɛi ni eshwɛ lɛ fɛɛ tee ŋwɛi.",ase nyemetsi dzenyi kpɔna ɔbaa na namma Yehowa kaname kɔkɔɔ kɔ Kemeni afɔ ɔmmua temeni hwɛ fetew,0.9333,0.4766
+206,"Mɛɛ nibii kɛ́ wɔfee lɛ, ebaahã wɔhiɛnɔkamɔ lɛ mli awa daa?",Me biew fee ebaanaanaa,1.0,0.6444
+207,Mɛni wɔkaseɔ yɛ nɔ hewɔ ni Nyɔŋmɔ hãaa Mose aya Shiwoo Shikpɔŋ lɛ nɔ lɛ mli?,Mani wɔ kasa yɛ nohe wɔ ne nwonwa Mose ayɛ ahewoo nam ne,0.9375,0.5
+208,Mɛɛ gbɛ nɔ Yesu bɔfoi lɛ wo amɛnyɛmimɛi Kristofoi lɛ hewalɛ?,Mee gbe nɔ Yesu bɔfo yɛ wo amɛnyɛmimɛi foɔ yɛ hewalɛ.,0.5455,0.2653
+209,‘MƐI KƐHÃ EGBƐ́I LƐ’,Man kɛ hegbɛ,1.0,0.4286
+210,SUƆMƆ MLI AJƐ AKƐ KRISTO LƐ MLA LƐ HÃ,So moma jack Christo and blahe.,1.0,0.5517
+211,"Mɛɛ heyeli Yesu wo shi akɛ wɔbaanyɛ wɔná, ni te wɔbaafee tɛŋŋ wɔná heyeli nɛɛ?",Miheyi Yesu wɔhyiaɛ wɔ baayewa na Tebaa ten wɔ na heyeli nɛ.,0.8667,0.3871
+212,Kristofoi Ni Edara Yɛ Afii Amli​—Yehowa Hiɛ Sɔɔ Anɔkwa Ni Nyɛyeɔ Lɛ Lɛ,"Kristofoi diraaya afe a meyɛe so anakwan nyɛyi,",0.9231,0.4821
+213,mɛni hewɔ wɔbaanyɛ wɔwie kɛ nɔmimaa akɛ Yehowa baakwɛ etsuji lɛ?,kɔkɔ Manhean ke na me market. Yehoaka,1.0,0.717
+214,NƆ KO NI OBAANYƐ OKASE,heloo ni anyɔ kase,0.8,0.5
+215,‘NYƐFEA KRƆŊKRƆŊ YƐ NYƐNIFEEMƆI FƐƐ AMLI’,Nye Fia krɔnkrɔn yɛ nyaneeɛ ame.,1.0,0.4118
+216,NYƐHÃA WƆKƐ WƆHEYELI LƐ ATSUA NII YƐ NILEE MLI KƐSƆMƆ NYƆŊMƆ,Nye hã wɔkɛ wɔhe yila to neyɛ nilee ne kɛsɔmɔ,0.8182,0.38
+217,mɛni hewɔ wɔbaanyɛ wɔwie kɛ nɔmimaa akɛ abuleŋ jamɔ krɔŋŋ kɔkɔɔkɔ?,na banana ebanyewe weenom make abulge mokorɔ,1.0,0.6545
+218,ANI OKAIƆ?,"Sane bi mwan aketewa oka,",2.5,1.875
+219,YEHOWA JƆƆ NITSUMƆ LƐ NƆ YƐ ETHIOPIA,Yehowa dɔ no tumani.,0.8571,0.5667
+220,MƐNI ŊMALƐI NƐƐ TSƆƆ WƆ YƐ MƐI AKOJOMƆ HE?,Me ninalɔ yɛ maako My,0.8889,0.6061
+221,Tsɔɔmɔ ŋaawoi ni yɔɔ Abɛi awolo lɛ mli lɛ ateŋ nɔ ni oná he sɛɛ waa.,banana a wɔlanten,1.0,0.8269
+222,DAAMƆ SHI SHIŊŊ “YƐ HEMƆKƐYELI LƐ MLI”,De Mo sisi yɛ hemɔkɛyeli no.,0.7143,0.4
+223,NƆ NI YE EBUA PAULO,no ne yie bua polo.,1.0,0.3333
+224,"Yɛ jeŋ fɛɛ lɛ, nyɛmimɛi ni kɛ nitsumɔi komɛi ni amɛtsuɔ yɛ asafo lɛ mli lɛ ewo nyɛmimɛi krokomɛi adɛŋ lɛ ateŋ mɛi pii kɛ hegbɛ ni amɛná lɛ miitsu nibii krokomɛi ahe nii yɛ Yehowa sɔɔmɔ lɛ mli.",Yɛgye fa nyemana tamaka na metwaeɛ asafo ani wɔ nyameko madane kɛkan amanamantuo bi kurom ayɛne yɛyɛ has me,0.9744,0.6382
+225,"Shĩa ni wɔyahai yɛ Karttula, yɛ Finland lɛ",Hiani wɔyahi yɛ kutua yɛ fine land.,0.75,0.2941
+226,"yeɔ wɔbuaa mɛi koni amɛná Biblia lɛ he miishɛɛ,",Yi ɔwɔ bua me koni amena bi blaenyi.,1.0,0.4211
+227,"Kɛ́ wɔmiitao wɔhiɛ akã shi lɛ, mɛni esa akɛ wɔfee?",Ma ke wò tawie k,1.0,0.8421
+228,KPƆ̃LƆ NI HE WA NI SUSUƆ MƆ HE,Kplɔ̃ ni hewa misusumɔ hi.,0.875,0.1818
+229,MƐNI TSƆƆ AKƐ KRISTOFONYO KO EDA YƐ MUMƆŊ?,Mɛni toakes pono da yɛ momo.,0.75,0.5
+230,Misusu Yehowa He Yɛ Yiŋ Fɛɛ Yiŋ Ni Mikpɛ Lɛ Mli,Nsusu yɛhɔ a yɛyɛ yɛn fair gene nkame.,1.0,0.6216
+231,"Mɛɛ nibii kɛ́ wɔfee lɛ, wɔbaaya wɔhiɛ yɛ mumɔŋ?",Menni bi ka wo fa ɔbaa whey,1.0,0.5833
+232,HÃ YEHOWA GBI LƐ BAA LƐ AHI OJWƐŊMƆ MLI,Ha yi ho bilebile,1.0,0.6774
+233,Okɛ Nyɔŋmɔ Mlai Kɛ Shishitoo Mlai Lɛ Atsɔse Ohenilee,ka nnwoma the sision to lie atsɔse ohenie aseda,1.0,0.5682
+234,Kɛ́ Ohao Lɛ Okɛ Ohiɛ Afɔ̃ Yehowa Nɔ,Ke hakaha Yehowa as,0.875,0.5385
+235,Tsɔɔmɔ Akɛ Ohe Jɔ Ni Yehowa Baaná Ohe Miishɛɛ,Kyerɛw Ohio ne Yehoahas. Malani kasema no.,1.0,0.7568
+236,Wɔbaakwɛ nɔ ni Yakob wie yɛ ebihii kpaanyɔ ni eshwɛ lɛ ahe be ni eshwɛ fioo ni ebaagbo lɛ kɛ nɔ ni wɔbaanyɛ wɔkase yɛ mli.,"baako no no yɛ kɔwie yi bi nyinaa no ne rehwɛ a, benkyi ne ebaagbee ne wɔbaana kasa yɛ mu ni",0.9615,0.5104
+237,Mɛni ji nɔ kome pɛ ni Ŋmalɛ lɛ etsɔɔ akɛ mɔ ko baanyɛ adamɔ nɔ etse ehefatalɔ gbãla? Shi mɛni hewɔ ekolɛ mɔ ko baakpɛ eyiŋ akɛ etseŋ ehefatalɔ gbãla lɛ?,manage no comepana baanan no ɛtefoɔ kuluki katinima,1.0,0.775
+238,Mɛɛ nibii ejwɛ Yehowa baafee kɛye ebua wɔ kɛ́ sane wulu ko nina wɔ?,Mani bi yɛ dwa yi ho abaafee ke ye bua wo kɛse ne wulu koni na wo.,1.1429,0.25
+239,ŊWƐIBƆFOI LƐ FIƆ SHI,Wabɔfoɔ yɛ fishe.,1.0,0.4118
+240,Mɛni Yehowa Baahã Otsɔ?,Me ne Yehowa baaho. ne ne kasema no.,1.75,0.7368
+241,ANI BE FƐƐ BE ESA AKƐ OKƐƐ “AMEN ”?,Ani biabia ka ke ame,0.875,0.5417
+242,NƆ NI WƆBAANYƐ WƆFEE KƐTSƆƆ AKƐ WƆNUƆ HE WƆHÃA MƐI,no ni wɔ baanyɛ wɔ fakes akɛ wɔnuɔ hã me.,0.8,0.3415
+243,"Ebi mi akɛ, “Mɛɛ be obaasumɔ ni oje shishi?”","Ebi ne akɛ, merebɛwoso no gyeeɛ.",0.7778,0.6562
+244,‘MAWO MIGBƐ́I LƐ HIƐ NYAM’,Mawu ŋgbeenyam.,1.0,0.5263
+245,MƐNI HEWƆ ESA AKƐ WƆYE WƆWEKUMƐI ODASE?,Me ne akɛyeɔ we kumasi.,1.0,0.5
+246,Mɛni hewɔ wɔmiisumɔ ni wɔtsu wɔsɔɔmɔ lɛ he nii jogbaŋŋ kɛmɔ shi lɛ?,Mede wɔ wɔn somanewhere,1.0,0.7778
+247,"Mɛni nɛkɛ kɛ́ ofee lɛ, ebaawa bo ni oya nɔ ofi shi?",Me ne kɔeɛ.,1.0,0.8649
+248,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Ti bahi wo te.,1.0,0.7
+249,"YƐ BLEMA LƐ, MƐNI EBI NI ADESAI AFEE KONI YEHOWA ANÁ AMƐHE MIISHƐƐ YƐ EMUU NI AMƐYEEE LƐ FƐƐ SƐƐ?","Yɛ blema, mineine adesa afee koni Yehowa na meyɛ mehyɛɛ yɛ munim yie fɛɛ sɛɛ.",0.6,0.3158
+250,“BO JI MI-BI NI MISUMƆƆ LƐ LƐ”,Bo gyibi ni sumɔ le.,0.7143,0.4286
+251,TSĨI MƐI AGBƐ́II ATÃ NI OSƆLE OHÃ AMƐ,Tima,1.0,0.8621
+252,Afɔ Mi Ohiafo​—Shi Yehowa Ehã Mitsɔ Niiatsɛ,"Afo miohiafo, sii Yehoiakin na gye",1.0,0.4286
+253,Mitswa Mifai Shi Akɛ Mihãŋ Minijiaŋ Aje Wui,"Ŋutsua fashion akɛ, naninyagye ho.",0.875,0.6389
+254,MƐNI OKASE YƐ NƆ NI YAKOB KƐƐ EBIHII NI NYIƐ SƐƐ NƐƐ MLI?,We neɛ wokaeɛ no ne yɛakogyina sɛ na ɛmmerɛ,1.0,0.6818
+255,KPEEI WUJI HÃ AMƐFEE EKOME,Ba wodzea mafee.,1.0,0.7273
+256,Ni wɔkɛ amɛ baafee ekome kɛshiɛ,Ne wake amɛbaafee kommie shee.,1.0,0.3462
+257,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Teei,1.0,0.85
+258,WƆBAANYƐ WƆNÁ MIISHƐƐ KƐJI WƆKƐ NAAGBAI MIIKPE PO,Ɔbaayewa na menhyɛ ketewaa mepo,1.0,0.5714
+259,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sane biman kɛteɛ lan.,1.0,0.95
+260,MƐƐ SHIHILƐI AMLI EHE BAAHIA NI WƆTO WƆTSUI SHI WƆMƐ YEHOWA?,Meshelemia bahina wɔtoatoa wɔ Yehowa.,0.9091,0.5102
+261,KAAHÃ OHEMƆKƐYELI LƐ MLI GBƆJƆ!,Ka a ohemɔkɛyeli,1.0,0.4615
+262,"“AWAA WƆ YI, SHI AKPOOKO WƆ”","Awɔwɔ yi, Shiao wɔ",0.6667,0.35
+263,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,.,1.0,1.0
+264,MƐNI JI “KRISTO LƐ MLA LƐ”?,Me ne gye Kristo la.,1.0,0.5263
+265,YAA NƆ OTAO YEHOWA SƐƐGBƐ,Yaa nɔ wo ta Yehowa se gbe.,0.8,0.2381
+266,Tsuishitoo​—Su Ni Hãa Wɔnyɛɔ Wɔfiɔ Shi Kɛyashiɔ Naagbee,"Trish, Soni ha a wɔnyɛ wɔ fie sika ase na be.",1.375,0.413
+267,Mɛni ji nibii komɛi ni sa kadimɔ ni baaya nɔ dani abaawu Harmagedon ta lɛ?,Me ne gyinikumani saadi Mone baa no dane baawa taa.,1.0,0.5085
+268,“OHE AFEE OYA KƐ SANE TOIBOO”,Wohe afei oya kɛsa ne ti bu,1.0,0.2273
+269,NƆ NI WƆTEŊ MƆ FƐƐ MƆ BAANYƐ AFEE KƐWO ENYƐMI HEWALƐ,Nnome wɔ Temmɔbaanya fake wenyiwa,1.0,0.4762
+270,Te wɔbaafee tɛŋŋ wɔye wɔhe nɔ tamɔ bɔ ni Maŋtsɛ David ye ehe nɔ be ni Shimei wo emli la lɛ?,"afe tahani wɔ yɛn tamɔ ne Makeda yi heno beni hyiae,",0.9524,0.6143
+271,"Kɛ́ akɛɛ Nibii Ni Wɔkɛtsuɔ Nii Kɛtsɔɔ Mɛi Nii lɛ, mɛɛ woji kɛ nibii atsɔɔ lɛ?",Ke akani bi wɔ katua kɛtɛma ni mewɔnɛ bi akyɛ.,1.0,0.5763
+272,Te fee tɛŋŋ ni “asafoku babaoo” lɛ batsɔ asafoku babaoo?,Tefe esafo ku babaa bakosafoku babaoo.,0.9,0.3409
+273,Yehowa Shiŋ Wɔ Kɔkɔɔkɔ!,Yehowa him wɔ kɔkɔɔkɔ.,0.25,0.1053
+274,MƐI NI BOƆ ANƆKWA HIƐSHIKAMƆ TOI LƐ NÁA HE SƐƐ,MMO nkwan hyia mu timiya,1.0,0.6757
+275,"‘Nyɛhãa Wɔteŋ Mɔ Fɛɛ Mɔ Awo Enyɛmi Hewalɛ,’ Titri Lɛ Bianɛ",Nye ha wɔ tamɔ mawie;,1.0,0.6889
+276,MƐNI YESU FEE KƐTSƆƆ AKƐ EKƐ EHE WOOO PƆLITIS MLI?,Mani Yesuepolitics no mu.,1.0,0.7
+277,"Yɛ nikasemɔ nɛɛ mli lɛ, wɔna akɛ abaanyɛ akɛ “anɔkwale lɛ” ato sɛ́kɛ, jwetri, kɛ kane he. Shi nibii krokomɛi hu yɛ ni abaanyɛ akɛ anɔkwale lɛ ato he. Akɛ nɔkwɛmɔnɔ lɛ:","Yɛn ne kasɛm ne mlo. Wonana aka no walatso dwetiri, kɛka ne he Senirkurokuma hu yɛn nia nokware ato he. Akanko",0.875,0.5039
+278,OKƐ OHIƐ AFƆ̃ YEHOWA NƆ NI OBAANÁ MIISHƐƐ,"Okay, ohiafo Yehowa no, ne obaana menyɛ.",0.875,0.3636
+279,MƐNI HEWƆ ESA AKƐ WƆYE YEHOWA ANƆKWA?,Menusa kɛ wɔyɛ ho a,1.0,0.6
+280,OBAAHI PARADEISO!,Obaahemaa so.,1.0,0.4
+281,Mɛɛ gbɛ nɔ wɔnáa Yehowa mɔbɔnalɛ kɛ eshaifaa lɛ he sɛɛ?,Me gbe ɔwɔ Yehowa mɔbɔnalɛ safah,0.8182,0.4318
+282,BƆ NI OBAAFEE OTSWA MƐI KROKOMƐI OMA SHI YƐ SUƆMƆ MLI,Bɔ ni obaafee otwa me nkuro kumai omasini some.,0.7273,0.3488
+283,Te esa akɛ wɔna anɔkwale lɛ wɔhã tɛŋŋ?,Te saakonnoo wɔ ha den.,0.875,0.6333
+284,ANI KRISTOFOI FƐƐ YEƆ AMƐBUAA NI MƆ KO BATSƆƆ KASELƆ?,Ani kristofoɔ far you Amabua ne mu kɔbata kaselɔ.,0.8,0.3023
+285,Namɛi baanyɛ ashɛje mɛi ni ehao lɛ amii?,Na me ba nya ahyɛde m'ani hawa me.,1.0,0.4688
+286,MUMƆ KRƆŊKRƆŊ LƐ YEƆ EBUAA WƆ NI WƆYAA NƆ WƆSƆMƆƆ YEHOWA,"Mommɔ kronkron a yɛ boa wo na wɔyɛ no wɔ som Yehowa,",1.0,0.4565
+287,Hã Suɔmɔ Ni Oyɔɔ Kɛhã Yehowa Kɛ Mɛi Krokomɛi Lɛ Mli Aya Nɔ Awa,Hasum no yok ha yewoakeke anoa.,1.0,0.6327
+288,FEEMƆ MƐI EJURƆ DAA,Fa gyada.,1.0,0.8125
+289,YEHOWA HÃA WƆ NƆ NI HE HIAA WƆ,Yehowa ha ɔno no yɛ hia wo.,0.875,0.3478
+290,NIKASEMƆ JEEE SHWƐMƆ SANE!,Mika sɛmu gye hyɛ mosane,1.25,0.4091
+291,WOJI NI HÃA MƐI NÁA BIBLIA LƐ HE MIISHƐƐ,wɔgyene ha m'nabiblaahe menhyɛ,1.0,0.5
+292,"AMAGAJAMƆ EHE SHI YƐ BABILON, SHI DANIEL TSƆƆ AKƐ EHIƐ KÃ SHI",Ama gadam heshibalɔ si daniel tsɔkɛe kahi,0.9167,0.3469
+293,BƆ NI FEE NI MIJE BE FƐƐ SƆƆMƆ NITSUMƆ LƐ SHISHI,Bɔne fie ne gyefan so moneta,1.0,0.6842
+294,Ani eeenyɛ efee akɛ Yehowa kɛ ŋwɛibɔfoi lɛ tsu nii yɛ saji ni nyiɛ sɛɛ nɛɛ amli?,"Ana yɛnyaeɛ, Yehowa anwanfoɔ yɛ training yɛ angyee nyɛ sɛ nɛ amli.",0.8235,0.5238
+295,"Ŋmɛnɛ lɛ, kɛ́ mɛi tee ta lɛ, amɛnaaa mɛi ni heɔ Nyɔŋmɔ nɔ amɛyeɔ lɛ mɔbɔ. Bei komɛi lɛ, amɛgbeɔ mɛi ni leee ta lɛ he nɔ ko lɛ po.",Mɔ nɔ ame yɔ. Kametete amena mene yonyeme yɛ mɔbɔ. bakoma gbe me nilee ta,0.9333,0.617
+296,"Kɛ́ wɔsumɔɔɔ ni etɔɔ wɔ kɛ Yesu kɔɔŋtso lɛ teremɔ lɛ, mɛni esa akɛ wɔfee?",monitornan fi Lala naaaaa.,1.0,0.8393
+297,MƐNI BAAYE ABUA WƆ NI WƆYA NƆ WƆSƆMƆ YEHOWA KƐ́ . . .,Sane bimini akɛtee. Mani baayia boa wɔn wɔ yɛ no wɔ somehow ka,1.3,0.7027
+298,Sane Ko Ni He Hiaa Waa Ni Esa Akɛ Fɔlɔi Akadi,"Sagenkuroku m'ani fata, Sanki Yehia waa ne esaa akɛfoɔ le akadi",0.8182,0.6857
+299,"“YEHOWA MUSUŊ TSƆƆ LƐ WAA, NI ENAA MƆBƆ HU”",Yehowa musuŋ tsɔ le ʋua niena mobɔ,0.7778,0.25
+300,HIƐNƆKAMƆ NI OYƆƆ LƐ BAANYƐ AWAJE BO,Henok monyɔ banya wòadze bo?,0.8571,0.5
+301,Bɔ Ni Mumɔ Krɔŋkrɔŋ Lɛ Yeɔ Ebuaa Wɔ,Bɔne mmɔ kɔnkron yi ɛboa wo. Mmaane kasɛm da mo no.,1.375,1.0
+302,"“Hemɔ Anɔkwale, Ni Kaahɔ̃ɔ Kɔkɔɔkɔ”","Hemo anɔkwale, ne ka hɔnkokɔ kɔ. malenga dam no.",1.6,0.6667
+303,Abotiai lɛ. Mɛi fɔji ni booo Yehowa toi ni amɛjeɔ gbɛ amɛfeɔ esha amɛshiɔ mumɔ krɔŋkrɔŋ lɛ. Abaakpãtã amɛhiɛ yɛ Harmagedon.,Abotia yɛ menfie bo yewoato ne amadzigbe mfiehyia amɛshiɔ mɔ krɔŋkrɔŋ abaakpãtã mihiɛ ahama edo,0.8571,0.37
+304,"KƐ́ WƆMIITAO WƆFEE MƐI KASELƆI LƐ, MƐNI EBIƆ NI WƆFEE?",Ke wɔntama lɔɛ mene ebi no wɔ fa.,1.0,0.5476
+305,Mɛni wɔbaanyɛ wɔfee kɛtsɔɔ akɛ wɔheɔ wɔyeɔ waa akɛ Yehowa asafo lɛ nɛ?,Yesu maniwa yɛfia wɔ he wɔ yɛwaye howas,1.0,0.6316
+306,Okɛ Wɔwɛbsaiti Lɛ Atsu Nii,Woka wɔ website atwene.,1.0,0.5
+307,"Be ni migbe skul naa etsɛɛɛ lɛ, mibɔi gbɛgbamɔ nitsumɔ lɛ. Otsii fioo sɛɛ lɛ, miyasɔmɔ yɛ he ni hiamɔ lɛ da yɛ, yɛ Pielavesi, ni ji maŋ ko ni yɔɔ Finland maŋ lɛ teŋgbɛ lɛ.","Menim besuu na akyɛ, mbonbaba mo ne tumo seehim henhia moda yɛ pilaasi gyima koni yila mateɛ",0.9722,0.5462
+308,Mɛi Enyɔ Ni Akɛfata Gbɛtsɔɔmɔ Kuu Lɛ He,"Menɔna efata gbetɔ ku wɔ,",1.0,0.5
+309,"Wɔbaana nɔ ni Yesu tsɔɔ be ni ewie akɛ ehã ale Yehowa gbɛ́i lɛ, kɛ nɔ ni efee kɛtsɔɔ akɛ Yehowa yɛ krɔŋkrɔŋ ni nibii fɛɛ ni Satan ewie yɛ Yehowa he lɛ bɛ mli.",Ɔbaa no no no yɛ sutɔberɛ halogenation ne ne bi fansair yɛwɔ herba mi.,0.9714,0.6694
+310,Namɛi ehe miihia ni awo amɛ hewalɛ ŋmɛnɛ?,Na me hemihianeawoa me wala.,1.0,0.3636
+311,NƆ NI HÃ MOSE TSE ATUA LƐ,Nni Hamose tsi atoa.,1.0,0.3158
+312,"Kɛɛmɔ Yehowa akɛ ootao otsɔ enaanyo ekoŋŋ. Asafoŋ onukpai lɛ kɛ bo baasɔle, ni amɛbaasɔle amɛhã bo hu","Kamakoh, twronkomAsafo no ka ɛkaboasɔlena mbasae",1.0,0.5854
+313,Mɛni awie yɛ Biblia lɛ mli ni tsɔɔ wɔ nɔ hewɔ ni esa akɛ wɔya nɔ wɔshiɛ?,Mani ayeyɛ bi bla m'ani kyɛ no saa a wɔyɛ no wɔ he.,1.0,0.5273
+314,FEEMƆ NIBII NI BAAHÃ OHIƐNƆKAMƆ LƐ MLI AWA DAA,Fa moni bi ni bahana mmerɛ awaa.,1.0,0.5263
+315,Mɛni esa akɛ wɔfee koni wɔkahã mɛi nu he akɛ amɛhi fe mɛi krokomɛi?,Menusa kewɔ fie Kunka amenya mehme kurom.,1.0,0.5849
+316,"Mɛni hã mi kɛ miŋa fã gbɛ kɛjɛ Finland, ni ji maji ni yɔɔ shikpɔŋ lɛ kooyigbɛ shɔŋŋ lɛ ateŋ ekome lɛ nɔ kɛba South America? Ni mɛni mikase yɛ shihilɛi ni mitsɔ mli lɛ amli?",Menni hankafe land ne Gyimahes Amerikani.,1.0,0.8134
+317,FEEMƆ NIBII NI BAAHÃ OHE AWA YƐ MUMƆŊ,Simon bi bahaw.,1.0,0.7
+318,"Kɛ́ akɛɛ oye Yehowa anɔkwa lɛ, te atsɔɔ tɛŋŋ?",Keka ɔyɛɛ ha nokwa eatt.,1.0,0.6176
+319,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Time,1.0,0.9
+320,Taomɔ Jwetrii Yɛ Ŋmalɛ Lɛ Mli Ni Obaanyɛ Okɛtsu Nii,Tamale.,1.0,0.881
+321,"Saamɔ ohe kɛhã shiɛmɔ. Ekolɛ weku lɛ mli nyo ko baanyɛ afee ehe shiatsɛ, ni mɔ kome ashiɛ ahã lɛ.","Saa mo hekaa mu, kolee um nyokoba na afei hyia kyɛ ne mo komisa hã le",1.0,0.4667
+322,Kasemɔ Yesu Ni Bo Hu Oshiɛ Kɛ Ekãa,"Kasɛm yi so, ne boho keka. Malani kasɛm wɔ da mono.",1.375,0.963
+323,YEHOWA MIIHI PONOGRAFI​—BO HU HII,"Yehowa ahe po no bafi bo hu he,",1.2,0.2963
+324,NƆ NI ABAASUSU HE *,Kukuom sane bi mu. Mani bilak salamaa anomaa,2.0,2.1429
+325,GBƐ NI KRISTO TSƆ NƆ ENYIƐ BLEMA KRISTOFOI LƐ AHIƐ,Gban kristo tuno anya blemakstofo ahe.,0.9,0.3659
+326,Mɛni baaye abua wɔ ni wɔkpa wɔtsui ni wɔyeɔ yɛ heloonaa nibii ahe lɛ?,wɔ ha ɛnana,0.9286,0.8545
+327,MƐI NI YAA NƆ AMƐMƐƆ YEHOWA LƐ BAANÁ JƆƆMƆI BABAOO,M'ani yanama Yehowa baanaanaa.,0.9,0.5122
+328,‘Yaa Nɔ Onyiɛ Yɛ Anɔkwale Lɛ Mli’,Yaa no onya anɔkwale nea lani ne kasema no.,1.1429,0.8
+329,"Kɛ́ Blema Israelbii Lɛ Wu Ta Lɛ, Mɛni Hewɔ Wɔ Lɛ Wɔwuuu Ta?","Kebi, Israel bi a wotaa Menyɔ wɔ wɔwoo",0.9231,0.5227
+330,WƆTSU NII KƐJƐ LEEBI KƐYASHI GBƐKƐ,"Wɔtwee kagyaa, kaseɛ",1.0,0.7241
+331,Mɛni baaye abua wɔ ni wɔya nɔ wɔsɔmɔ Yehowa?,"Me ne baayaa wɔn wɔ no wɔsom yɛ ho a, Lanbon",1.1111,0.5143
+332,wɔfee mɛi gbɔ?,Megbe no wɔkɛyaa ku make a wonni kewɔ.,2.6667,2.2727
+333,ekashe gbeyei?,kashɛbi lana kaba.,1.5,1.0
+334,nɔ hewɔ ni ehe miihia waa ni wɔshiɛ ni wɔfee mɛi kaselɔi bianɛ lɛ he?,No hewɔ ni henhia waa ne wɔhyiae wɔ emekkaselɔe bi a ne.,0.8,0.3704
+335,NƆ KOME PƐ NI ABAANYƐ ADAMƆ NƆ ATSE GBÃLA,Na come panin abaanyɛ adaman akyerɛ la.,0.8889,0.3333
+336,TSI OHE KWRAA KƐJE AMALE JAMƆ HE,Tsi ohe kura ake dza amalgam.,0.7143,0.3846
+337,Yehowa Eto Gbɛjianɔ Koni Oye Ohe,Yehowa eto gbedanu koni oye ohe male ne ne kasemɔ,0.8333,0.6667
+338,Te wɔbaafee tɛŋŋ wɔhé anɔkwale ni Yehowa kɛhãa lɛ loo wɔnine ashɛ nɔ?,wɔ he nokware no yɛ wo age ha. Lone ayɛ no.,1.0,0.625
+339,MƐNI WƆBAANYƐ WƆFEE KƐYE WƆBUA WƆWEKUMƐI LƐ?,Me ne wo banyak yi wɔ boa wɔ ekum.,1.2857,0.4865
+340,"Mɛni kɛ́ ofee lɛ, ebaatsɔɔ akɛ okɛ ŋaa miitsu nii be ni oyeɔ obuaa owekumɛi lɛ?",Menni kɔfeeso ku.,1.0,0.8361
+341,YESU NUƆ HE EHÃA MƐI,Yesu nuhaha,0.8,0.4375
+342,MƐNI ESA AKƐ WƆFEE KONI WƆTSƆMƆ KRISTOFOI NI EDARA YƐ MUMƆŊ?,Me nua saa kɛ wɔfee kono wɔtwam Christoians,1.0,0.4694
+343,SUSUMƆ OWEKU LƐ MLI BII LƐ AHE,Susumɔ owu emli bi a he?,0.8571,0.2917
+344,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,Sane eba maynage kanea ade,1.0,0.5
+345,OKƐ OHIƐ AFƆ̃ MƆ NI KWAŊ BO KƆKƆƆKƆ LƐ NƆ,ka wohyiaa mo ne kwan kɔkɔkɔkɔ no.,1.0,0.5161
+346,Mɛni baaye abua wɔ ni wɔjwɛŋmɔ ahi shiɛmɔ nitsumɔ lɛ nɔ ni wɔhã ehe ahia wɔ fe nibii krokomɛi fɛɛ?,"Menni baaba wɔne wɔ dwam ahyia mu no tumi no, ne wɔ ha ehiahia wɔ fair kommyɛ",0.9,0.4615
+347,NOA KƐ NYƆŊMƆ NYIƐ YƐ JEŊ FƆŊ KO MLI,Na ka nyɔnyɔɔi.,1.0,0.6429
+348,"Kɛ́ wɔyɛ he ko ni aasɔle, shi mɔ ni sɔleɔ lɛ jeee Odasefonyo lɛ, mɛni esa akɛ wɔfee?",Ke yako ni asɔlemɔi,0.9444,0.7778
+349,WƆHIƐNƆKAMƆ LƐ TAMƆ DADE FAI,Wɔ heno camade fie.,1.0,0.5833
+350,Mɛni wɔkaseɔ yɛ nɔ ni mɛi etɛ komɛi ni awie amɛhe yɛ Biblia lɛ mli lɛ fee be ni amɛhao lɛ mli?,Me ne wɔ Kasen ne man etakonu amɛ bibaayi beni amehawo,1.0,0.5556
+351,Mɛɛ be esa akɛ wɔbo “hegbɛi ni yeɔ nɔ lɛ” toi? Ni mɛɛ be esaaa akɛ wɔboɔ amɛ toi?,wabisa kwabone ne mmabea kɛ wɔ boa meto,1.0,0.5932
+352,"“Nyɛbaa Miŋɔɔ, . . . Ni Mahã Nyɛhe Ajɔ Nyɛ”","Nyɛ baa no, ne mma ha nyɛ yi adɔe. Malani ne kasema damɔ no.",1.8571,1.0357
+353,Miishɛɛ​—Su Ko Ni Nyɔŋmɔ Kɛhãa,"Menhyɛ, Sukuunyawo ha.",1.0,0.5833
+354,Yehowa Sɔɔmɔ Ehã Miná Miishɛɛ Waa,Ye woasɔm nana me nhyɛ wo a.,1.1667,0.5357
+355,FEEMƆ MƐI GBƆ,Fa mo magbɔ.,1.0,0.4545
+356,TSU NITSUMƆ NI NYƆŊMƆ KƐWO EWEBII LƐ ADƐŊ LƐ,Tonikun nwomkawa waba danye.,1.0,0.6389
+357,MISHWAKO MIHE KWRAA,"Nsa kohikoraa,",1.0,0.4706
+358,"OKƐ OHIƐ AFƆ̃ YEHOWA NƆ, TAMƆ MAŊTSƐ YEHOSHAFAT FEE LƐ",Ɔkɔnya for your who ano Tamani.,1.0,0.814
+359,MƐƐ NAAGBAI MƐI NI BOTE GBALASHIHILƐ MLI ETSƐKO LƐ BAANYƐ AMƐKƐKPE?,Menaba m'ani botaeɛ a nyame.,1.0,0.6429
+360,Mɛni wɔle yɛ mɛi ni ejaaa lɛ ashitee lɛ he?,Meniwaagyaa ahiti,1.0,0.6667
+361,"Nɔ ni ji enyɔ: Kɛ́ akɛɛ mɔ ko etsake etsui lɛ, te atsɔɔ tɛŋŋ? Ni mɛɛ gbɛ nɔ Yehowa eye ebua mɛi koni amɛtsake amɛtsui?","None dzie nye, Karkemis tries tenim gbe nɔ yiyim koni metsaka metu",0.92,0.5843
+362,BƆ NI “NYƆŊMƆ TOIŊJƆLƐ” LƐ YEƆ EBUAA WƆ,Bɔ ne ne mmɔtoa,0.875,0.7
+363,Ye Yehowa Anɔkwa Yɛ “Amanehulu Kpeteŋkpele” Lɛ Mli,Yehowa nkwa yɛ amanehunu kpetekplee mli.,0.625,0.2195
+364,Kaatɔ̃tɔ “Bibii Nɛɛ” Ateŋ Mɔ Ko Nane,Ka atɔtɔ bibi ne atemmuo nani. Malani ni kasemɔdamo no.,1.4286,0.963
+365,"Wɔbaana nɔ ni atsɔɔ kɛ́ akɛɛ mɔ ko etsake etsui, nɔ hewɔ ni esa akɛ wɔ fɛɛ wɔtsake wɔtsui, kɛ bɔ ni Yehowa eye ebua mɛi srɔtoi ni amɛtsake amɛtsui.","Wɔ Baana no ne akyɛ, kakamu kɔ-check-i tin ɔne esaa ke wɔ fa wɔkyɛke wɔtweɔn yie hoa eyie bua me nsoroma kaka metwe yi.",0.9667,0.5
+366,Bɔfo Petro kɛ eŋa,Takola bɔhoro ka naa,1.0,0.8571
+367,"Mɛni kɛ́ wɔfee lɛ, no baahã wɔsumɔ Yehowa waa?","Me ne ka wɔ fɛ, nobila a",1.0,0.6571
+368,"KƐ́ OSUSU BƆ NI YEHOWA SUMƆƆ BO WAA LƐ HE LƐ, TE NO HÃA ONUƆ HE OHÃA TƐŊŊ?",Cosssubɔni Yehoas mɔ bo wòahe Tino onua hewhe,0.9444,0.4259
+369,KANEMƆ NYƆŊMƆ WIEMƆ LƐ NI OKASE DAA,Kane mommɔ we mo ne ɔkasa daa.,0.8571,0.4138
+370,NIBII NI BAAYA NƆ BE NI ESHWƐ FIOO NI HARMAGEDON TA LƐ BAAFƐ,Nibiriba anɔbaeɛ fie ne magenta baa,1.0,0.4583
+371,Yehowa Ji Ofe​—Kɛ̃lɛ Esusuɔ Wɔhe,"Yehowa dzi wò vi, Tele esusuɔ he. Malikem no.",1.4,0.76
+372,Mɛni baanyɛ ahã Kristofonyo ko “ahɔ̃ɔ” anɔkwale lɛ?,Mɛni anya Harrison nkoaa kwaeɛ.,0.875,0.425
+373,OKƐ OTII KPAKPAI AMAMƆ OHIƐ,Okay kpakpai.,0.8,0.6087
+374,NƆ HEWƆ NI ESA AKƐ WƆJÁ YEHOWA,"ohe wɔ nesaa ka wɔgye yi ho a,",1.1429,0.375
+375,NƆ NI BIBLIA LƐ KƐƆ YƐ BAPTISIMƆ HE,Na ɔno bibaayi,1.0,0.7143
+376,wɔkɛ wɔhe hã kɛhã nitsumɔi srɔtoi ni wɔlɛɛ wɔsɔɔmɔ lɛ mli?,Megbe no wɔkɛyaa akomakoti ɛwɔ ɛwɔha piano tuma sort yi ne wɔ Lease.,1.1818,0.9787
+377,"Mɛni kɛ́ wɔfee lɛ, no baahã wɔsumɔ anɔkwale lɛ waa?",yɛ. Me ne kɛ wɔfee na ɔbaa wɔsoma no kwaeɛ wɔ a,1.0,0.4103
+378,Mɛni hã Timoteo nyɛ etsu enitsumɔ akɛ asafoŋ onukpa lɛ jogbaŋŋ lɛ? Naa sui ekpaa ni ejie lɛ kpo ni wɔbaanyɛ wɔkase.,MeniHaTiMoteO nya Etumi kum akɛ asafo no paa gagbaegyie lɛ koni wɔbaana,0.9091,0.4674
+379,AMƐJƐ MAJI SRƆTOI ANƆ,Ame dze ma dzinsuroto ano.,1.25,0.6111
+380,"Zebulon, Isakar, kɛ Dan",Zebulɔn ka yɛ done,1.0,0.4444
+381,"KƐ́ WƆMIITAO AWO WƆ ŊAA KPAKPA NI WƆNÁ HE SƐƐ LƐ, MƐNI HEWƆ ESA AKƐ . . .",te wɔn ntaw awɔ wɔŋakpakpa ne wɔnyaeɛ kɛ.,1.0,0.5294
+382,Yehowa ‘Tsaa Mɛi Ni Tsuii Ekumɔ Lɛ’,Yehowa chame ni tri kum.,0.7143,0.4444
+383,“MLIGBÁLAMƆI AKAHI NYƐTEŊ”,"Me blame yɛaka henya pain,",1.6667,0.5909
+384,BƆ NI WƆFEE WƆKPEE NAAGBAI NI WƆKƐKPEƆ DAA GBI LƐ ANAA,Bɔ no hɔ fi wɔkpaa na wɔketa bi anaa?,0.8182,0.4773
+385,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sɛ ne bi weani aketewo ne the obaha hitoere,1.8,1.35
+386,Mɛɛ gbɛ nɔ Yosef sane lɛ baanyɛ aye abua wɔ ni wɔto wɔtsui shi waa?,"Me bena, esesa nea baaya wɔ na wɔto wɔtwahyia wɔ a.",0.8667,0.5
+387,Ani Ole Anɔkwale Lɛ Fɛɛ?,Aninealysis,1.0,0.6842
+388,SUƆMƆ ONYƐMI GBƆMƆ TAMƆ BO DIƐŊTSƐ OHE,"Suɔmɔ onyemigbɔmɔ, tamɔ bodies hi",0.7143,0.2188
+389,"KƐ́ WƆKƐ BIBLIA LƐ TSƆSE WƆHENILEE LƐ, WƆBAANÁ HE SƐƐ",Ke wɔ ka bibila kyerɛ sɛ wɔ hani le wɔbaana he sɛ,1.1,0.381
+390,Mɛni kɛ́ wɔfee lɛ no baatsɔɔ akɛ wɔkɛ wɔhe miiwie anɔkwale?,"Mɛni kɛ wɔ fie, mobaeɛ wɔ kɛ wɔ heman kwae.",0.8182,0.383
+391,Ani Mihewɔ Yesu Bagbo?,"Hanes,",1.0,0.8333
+392,Mɛɛ gbɛ nɔ Yehowa hãa sɔlemɔi ahetoo?,Megblɔ Yehoahas moahu.,1.0,0.5
+393,MƐI KOMƐI NI HIƐ ESƆƆƆ NII,"Mɛkan hia esane,",1.0,0.5714
+394,Mɛni baaye abua wɔ ni wɔkɛ shifimɔ awo yibii?,Mani baayiaboa wɔ na wɔkɛshi mo wɔ yi bi.,1.0,0.2778
+395,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,"Sana biman gye Ghanila den,",1.0,0.5417
+396,Yaa Nɔ Otswa Onyɛmimɛi Oma Shi Yɛ Suɔmɔ Mli,"Yaano otwa Onyame ma yi, wo machine yɛ somame. male ne ne kasɛm dam no.",1.5556,0.8571
+397,Nyɛmimɛi Oblahii​—Nyɛfea Nibii Ni Baahã Nyɛbatsɔmɔ Kristofoi Ni Edara Yɛ Mumɔŋ,Nyame blahe nye fia no bi ne ba nye batori to ni daa mu mu.,1.2727,0.4848
+398,Heyeli Afi Ni Israelbii Lɛ Ye Lɛ,ayɛde afi ne Israel bi yɛ yie.,0.8571,0.4231
+399,BƆ NI YEHOWA TSƆƆ BLEMA KRISTOFOI LƐ GBƐ,Bɔ ni yi woatsɔ bli ma crisoe,0.75,0.4545
+400,BƆ NI OOOFEE OHÃ NYƆŊMƆ MUMƆ LƐ AKUDƆ BO,Bɔne ofew anobuo kudo,1.0,0.625
+401,Yaa Nɔ ‘Obo Lɛ Toi’,Yanoa go le to Malikam,1.0,0.8462
+402,Tsɔɔmɔ Mɛi Nii Koni Amɛbatsɔmɔ Yesu Kaselɔi,Team mmaninneɛ mebatena su kaselɔ.,1.0,0.5135
+403,"MIBOTE GBALASHIHILƐ MLI, NI AHÃ MI NITSUMƆ HEE","bote glasi le me, na amene tumi.",1.0,0.5263
+404,NƆ NI YESU TSƆƆ ESƐƐNYIƐLƆI LƐ YƐ TSUITSAKEMƆ HE,Nɔ ni Yesu tsi sɛ nye lɔɛ yɛtraci mo he.,0.6667,0.4
+405,"Kɛ́ wɔba wɔhe shi wɔhã Yehowa be fɛɛ be lɛ, mɛɛ gbɛ nɔ wɔbaaná he sɛɛ?","Ke wɔ ba wɔ eyi wɔ ha yɛ hoa be fɛɛ bi, megbe no wɔ baanahi sɛ lala ni akɛbaa na",1.1875,0.5577
+406,NIBII KOMƐI NI SATAN NYƐŊ AFEE,Ni bi ko menister nye afi Kuonukura anye wɔn ne wɔfanom,1.8333,1.28
+407,"Mɛni kɛ́ wɔfee lɛ, no baatsɔɔ akɛ wɔkɛ woo miihã wɔnaanyo klɛŋklɛŋ?","Minute wofee, babaa aka wɔ keawo how wanyanyin",1.0,0.6226
+408,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,bere.,1.0,0.9
+409,Mɛni wɔkaseɔ yɛ mɛi ni anyɛ amu afɔ̃ amɛnɔ ni awie amɛhe yɛ Biblia lɛ mli lɛ adɛŋ?,"Mo kaseɛma ni anyamfoɔ me no, na awia ebi blame dɛn.",0.9444,0.5079
+410,Gbɛi ejwɛ ni Yehowa tsɔɔ nɔ eyeɔ ebuaa wɔ.,Gbe ye dwane Yehowa tsɔ no yie aboa wɔ,0.7778,0.3939
+411,Mɛni hewɔ esa akɛ Kristofoi akwɛ jogbaŋŋ kɛ́ amɛkɛ apps srɔtoi ni akɛsɛndiɔ mɛi mɛseji lɛ miitsu nii?,Me ne wesayst fiaada Kamka trot na kɛse ɔmamee ntwene.,1.0,0.622
+412,ŊWƐIBƆFOI LƐ BAA AMƐHE SHI,Mabafoɔ yi baa ama hasin,0.8,0.5455
+413,ARISTARKO TSƆƆ AKƐ NAANYO ANƆKWAFO JI LƐ,a restart kitan anya anɔkwafo gyile.,0.8571,0.3824
+414,"“MAŊBII LƐ FƐƐ KƐƐ AKƐ, ‘AMEN!’ NI AMƐJIE YEHOWA YI”",Mabia fɛkɛkɛ. amen na medze yɛ hoa.,0.9,0.4054
+415,"NƆ KO NI HÃ WƆNÁ MIISHƐƐ, TSƐ WƆKPAAA GBƐ KWRAA!",Nukunya wɔ nam nhyɛ. kyɛ wɔkpaagbekoraa.,1.0,0.4054
+416,Yehowa Jɔɔ Mi Waa Yɛ Yiŋ Ni Mikpɛ Lɛ Hewɔ,Yehowa dɔ me waa yɛyii me pɛ hewɔ.,0.7,0.2812
+417,Wo “Nɔ Ni Nyɔŋmɔ Kɛtsa Lɛ” Hiɛ Nyam,Wonyinyaa nyam. Malani ne kasɛm no,1.0,0.7308
+418,MIKPƐ YIŊ KROKO NI HE HIAA WAA,"pa yi kuroko no ɛhia wo a,",1.0,0.4583
+419,Mɛɛ gbɛ nɔ Yehowa etsɔɔ akɛ eji Nyɔŋmɔ ni woɔ mɔ hewalɛ?,Megbe nye hotɔ akɛ edzinɔlawo hewalɛ.,0.8333,0.4545
+420,Mɛni Maŋtsɛ David kɛ Yuda Iskariot sane lɛ tsɔɔ wɔ yɛ hiɛkɔ̃ɔ he?,Mɛni akyɛdeɛ Yuda is carrot yɛ ho.,0.7692,0.5882
+421,BE NI WƆSƆMƆƆ AKƐ MAŊSƐƐ SƆƆLƆI,"Bani wɔ som a akama seson la,",1.1667,0.4615
+422,MƐNI OKASE YƐ . . .,Me ne ɔkaseɛ pata ne baakpa Babilon kpetekplee hiɛ.,3.0,3.0909
+423,Mɛni hewɔ ehi akɛ wɔleee be ni naagbee lɛ baaba lɛ?,Mene wehia ke wo le be ni naagbee baaba.,0.6364,0.3
+424,Mɛni hewɔ esa akɛ wɔkase gbalɛi ni yɔɔ Biblia lɛ mli lɛ?,Mene were saa kewɔ case baliwo blood no o.,1.0,0.5682
+425,ESA AKƐ WƆNÁ HEMƆKƐYELI KƐ́ WƆKƐ NAAGBA WULU KO KPE,esaa wɔ n'ahemfie. kɔwɔna wolokpo,1.0,0.4878
+426,"Te fee tɛŋŋ ni mi, gbɔmɔ ni miisɔmɔ yɛ Yehowa Odasefoi Anitsumɔhe Yitso lɛ yɛ New York, yɛ U.S.A. lɛ, mihe yaje sane ko ni ayeɔ yɛ Yuropa lɛ mli?",TEFETENIme. gbɔmɔ me nso yɛ Yehoada efanyi yɛyiyi ɛnyo yɛ USA adesa ne koni aye uro paa ne.,0.8667,0.4771
+427,HII YEHOWA MASƐI DAA!,He Yehowa aseda,0.75,0.3529
+428,Mɛni Kristofoi ni edara yɛ afii amli lɛ baanyɛ afee kɛye amɛbua mɛi krokomɛi?,Mɛni Kristofoɔ ani dura afei amena baanyafakyi amɛbua me krokomɛi.,0.7857,0.2857
+429,Wɔbaana bɔ ni Marko kɛ Timoteo nɔkwɛmɔnɔ lɛ baaye abua oblahii ni amɛná sui ni baahã amɛsɔmɔ Yehowa kɛ nyɛmimɛi lɛ waa.,Kɔ baanabɔne ma kɔketimoto no kɔmɔna ɔbayera ne amena suani ba ha a mesom yɛ hoa kanema wɔ a.,1.0,0.4536
+430,SHIƐMƆ NITSUMƆ LƐ HÃ AMƐFEE EKOME,"Hyiamu nitsumɔ hã mefe kome,",0.6667,0.3571
+431,Mɛni wɔbaanyɛ wɔkase kɛjɛ mɛi ni hãa Nyɔŋmɔ mumɔ lɛ tsɔɔ amɛ gbɛ lɛ adɛŋ?,Me nua baayewa asekan hanom mu to megbea den,1.0,0.5862
+432,Mɛni hewɔ ehe miihia ni wɔnu he wɔhã mɛi ni wɔkɛkpeɔ yɛ shiɛmɔ nitsumɔ lɛ mli lɛ?,Mene wɔ henhia wɔnnue ɔnaman wɔ kɛteɛ siam ne tumani.,1.0,0.5156
+433,Mɛɛ gbɛi enyɔ anɔ mumɔ krɔŋkrɔŋ lɛ yeɔ ebuaa wɔ?,Megbe enyɔnumɔkɔŋkrɔn ye boa,1.0,0.4474
+434,"Bɔ ni Yehowa suɔmɔ lɛ hãa wɔtsiɔ wɔbɛŋkɛɔ lɛ kpaakpa, kɛ bɔ ni ehãa wɔnuɔ he akɛ nɔ fɔŋ ko ninaŋ wɔ, ebaakwɛ wɔ jogbaŋŋ, ni ebaahã wɔná hewalɛ hee.",Bɔ ni Yehowa sɔɔmɔ hã wɔkyew Benkae ƒe kpa ke bɔne ehã wɔ nu hakekoninaa wɔ baako wɔ dzo baŋbaŋ na hewalɛ hee.,0.7667,0.4123
+435,MƐƐ GBƐ NƆ TSƐMƐI BAANYƐ AKASE MAŊTSƐ DAVID?,"""Megbe nu kyɛman akasaa.",1.0,0.6111
+436,GBƐ NI YEHOWA TSƆ NƆ ETSƆƆ ISRAELBII LƐ GBƐ,be ni Yehowa tsɔ̃ nɔ etsɔ̃ Israelbii ye be,0.4444,0.2
+437,MIBLAHIIAŊ KƐYASHI MIBOTE GBALASHIHILƐ MLI,MBA iastrahene me.,1.0,0.7368
+438,Ani Ole Yehowa Jogbaŋŋ?,And Leedan kasemɔ da no.,1.25,0.7368
+439,FEEMƆ NIBII NI BAAHÃ OYA NƆ OFI SHI,"""Feemɔ no bi ne ba ha ɔyɛ no officing",1.0,0.4643
+440,Mɛɛ shihilɛi enyɔ amli ehe hiaa ni wɔto wɔtsui shi?,Meshelemia ne wo to watsi.,1.0,0.6098
+441,Ye Obua O-Biblia Mli Nikaselɔ Lɛ Ni Eshɛ Baptisimɔ He,Yi oboɔbiblano ne kase law natipa morhe,1.0,0.5349
+442,NƆ NI ASAFOŊ ONUKPAI LƐ FEƆ KƐYEƆ AMƐBUAA MƐI NI EFEE ESHA NI YƆƆ HIƐDƆƆ LƐ,Na ne asafo nukpafi ka youam boa m'ani afie hyia na yɛ head,1.0,0.5167
+443,Mɛni hewɔ wɔbaanyɛ wɔmu sane naa akɛ gbalɛi ni yɔɔ Yesaia wolo lɛ mli lɛ tsɔɔ akɛ wɔsɛɛ lɛ shikpɔŋ lɛ baatsɔ paradeiso?,"Mene baanyɔnyɔɔ sea woloosi baatara de yi so,",1.0,0.6667
+444,Mlihilɛ​—Su Ko Ni Anaa Yɛ Wɔwiemɔ Kɛ Wɔnifeemɔ Mli,"Mene hele, Sukoniana yɛwɔ Yum kɛ wɔ ne famm",1.0,0.4
+445,NƆ NI YEHOWA FEƆ KƐYEƆ EBUAA MƐI KONI AMƐTSAKE AMƐTSUI,Nɔ ni Yehowa fikyibumenkuni mekaka metu,0.7,0.4222
+446,Yehowa Hãko Minine Anyɛ Shi!,"Yehowa ha komni yɛanyɛ shi,",0.6,0.1739
+447,"Shi jeee no pɛ. Ŋmɛnɛ lɛ, foŋ kɛ tablɛtii ahewɔ lɛ, ewaaa kwraa akɛ mɔ ko baakwɛ ponografi. Mɛi baanyɛ akwɛ ponografi be ni amɛta bɔs loo oketeke mli, loo be ni amɛnyiɛ gbɛ he kɛmiiya he ko.",Sen pɛneka blew,1.0,0.9184
+448,MƐNI BAAYE ABUA WƆ KONI WƆKAHƆ̃Ɔ ANƆKWALE LƐ?,Mɛni baayiaboa wɔ konow ho anɔkwale.,0.625,0.2778
+449,MINÁA MIISHƐƐ KƐ́ MIYE MIBUA MƐI KROKOMƐI,Me na me nhyɛ ke me yɛ me bua me kuroko me.,1.7143,0.4412
+450,Yesu ji “Ŋaawolɔ Ni Nɔ Bɛ.” Naa nibii komɛi ni wɔbaanyɛ wɔkase yɛ edɛŋ yɛ bɔ ni awoɔ ŋaa ahãa lɛ he.,Yesu dzilawo lɔ nyinɔ be na nibi kome nuwɔbanyɔwɔ kase ye de Yeboah,0.9545,0.4267
+451,WƆSUMƆƆ WƆHE WAA,Wasoma wɔ he wa.,1.3333,0.3571
+452,Mɛni baaye abua wɔ ni wɔya nɔ wɔye Yehowa anɔkwa yɛ naagbee gbii nɛɛ amli?,Me ne baayaa wo ne wo yɛ no woyɛ Yehowa no kwa yɛ na bebe.,1.0,0.4576
+453,"jeɔ sanegbaa shishi,",Wɔne wɔ kani bi na egyanka ahyehye.,2.3333,1.0588
+454,BƆ NI ESA AKƐ OKASE BIBLIA MLI GBALƐI OHÃ,Bɔ ne yɛ saa cell kasa bi blood no ball he.,1.1111,0.5455
+455,MƐƐ GBƐ NƆ OBAANYƐ OWO ONYƐMIMƐI LƐ HEWALƐ KƐ́ . . .,"Sane bi mu a ne aketewa no ɔbaa nyɛwɔ nyɛmimɛi,",1.1111,0.8378
+456,"Mɛni kɛ́ ofee lɛ, ebaatsɔɔ akɛ ooto otsui shi oohã owekumɛi lɛ?","Me ne kɔfe, ebaatsake ootsi hwee.",1.0,0.5714
+457,ŊMƐNƐ: Mɛi ni afɔ amɛ mu lɛ miiná mfonirifeemɔŋ Heyeli Afi lɛ he sɛɛ waa,Mene m'ani afɔ me muna mfonini firi mu heyina hesaa,0.9333,0.5088
+458,"ojɛ osuɔmɔ mli oye obua mɛi, tamɔ Marko fee lɛ?",Ogya wosɔm oyoo me tamamo fae.,1.0,0.6111
+459,SHITEEKƐWOLƆI LƐ YEEE OMANYE,"Site ke wolɔ yi omanye,",1.0,0.36
+460,MƐNI OBAANYƐ OFEE KONI ONÁ MIISHƐƐ WAA?,Miloo face no na me nhyɛ wo a.,1.1429,0.625
+461,MƐNI HEWƆ EHE MIIHIA WAA NI WƆYE WƆBUA MƐI NI AMƐBATSƆMƆ KRISTO KASELƆI?,"Many here yɛhia wo a na wayɛ waboa me na amɛbakwɛ makristo kaselɔi,",0.9231,0.3729
+462,"Mɛni hewɔ wɔbaanyɛ wɔhe wɔye akɛ, kɛ́ Yehowa kpɛ eyiŋ akɛ ebaatee mɔ ko shi jio, eteŋ lɛ shi jio, yiŋ ni ebaakpɛ lɛ baafee yiŋ ni ja lɛ?",Mene wo anyinɔa Kyeakyea batem kosiee le siziand,1.0,0.6796
+463,"Be ni nyɛmi nuu lɛ tsake etsui lɛ, mɛni Paulo kɛɛ asafo lɛ akɛ amɛfee?",Bani nyame nua chakata me nnipa loka asafo akɛ amɛfee,0.8,0.4074
+464,BƆ NI MƐI FEE AMƐNII AMƐHÃ YƐ THE FINISHED MYSTERY WOLO LƐ HE,Bɔne mafia menia me ha yɛ de finisthe,0.9231,0.5306
+465,Kaahã Satan Tsɔne Lɛ Du Bo!,"Ka hasitate adu bo,",0.8333,0.4286
+466,Mɛni hewɔ wɔbaanyɛ wɔkɛɛ akɛ adesai fɛɛ baanyɛ afee mɛi ejurɔ lɛ?,Manya wɔbaanaanaa designineed wo.,1.0,0.6792
+467,Mɛɛ gbɛ nɔ Yehowa tsɔ etsɔɔ Israelbii lɛ gbɛ?,Megbe nɔ Yehowa tsɔ Etsɔa bi egbe,0.6667,0.3611
+468,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,To,1.0,0.9
+469,ESA AKƐ WƆYE MUMƆŊ NIYENII NI TSII,Esaa kwayɛ mu monine kyi.,1.0,0.5
+470,"Kɛ́ abaptisi wɔ lɛ, mɛɛ jɔɔmɔi wɔbaaná?",Ke bawaa.,1.0,0.8
+471,Wɔ-Tsɔɔlɔ Kpele Lɛ Etsɔɔ Wɔ Nii Wɔwala Gbii Fɛɛ,Wɔtaa kple etrɔna fɛɛ.,0.8889,0.6053
+472,Mɛi enyiɛ yɔɔ Satan kudɔmɔ shishi?,Menye Yosia kudɔmɔ sii.,0.8333,0.4286
+473,ESA AKƐ WƆSUMƆ WƆNYƐMIMƐI KRISTOFOI LƐ,Esaa ke wɔsumɔ wɔ nyemeristo fo.,0.8333,0.303
+474,NIBII NI BAAYE ABUA BO NI OFEE EKÃA WAA,Nibiriba aboabo mewɔ fie kawa.,1.0,0.4516
+475,FEEMƆ BABAOO YƐ YEHOWA SƆƆMƆ LƐ MLI,Fa mu babaa yɛ yehoas one.,1.0,0.5172
+476,YEHOWA YEƆ EBUAA BO NI OKƐ OTII KPAKPAI AMAMƆ OHIƐ,Yehowa Yebua bo ni okɔɔ kpakpa ama mo hiɛ.,0.7,0.2439
+477,Obaanyɛ Otsɔ ‘Mɔ Ko Ni Shɛjeɔ Mɛi Amii’ Waa,obaanyɛ wokyɛm conitider Ami.,0.8889,0.5455
+478,NƆ NI YEHOWA HÃ YEI KOMƐI TSƆMƆ,Na ne Yahaya,1.0,0.76
+479,Mɛni hewɔ Yesu hala akɛ ebaasɔmɔ Yehowa?,Mene Yesu halamɔ,0.8571,0.6061
+480,Mɛni wɔkaseɔ yɛ nɔ ni Samson fee yɛ tɔ̃ ni etɔ̃ lɛ fɛɛ sɛɛ lɛ mli?,Mani wɔ kaseɛ no ne Samson fee yɛtɔn sei.,0.875,0.4167
+481,NIBII NI AKƐDRO WƆ NI HÃA WƆNYƐƆ WƆFIƆ SHI,Me bene aka duro wɔ ne ha ɔnyɛ wɔ fie hye.,1.1111,0.4412
+482,KAADAMƆ NIIATSƐ LOO OHIAFO NI MƆ KO JI LƐ NƆ OKOJO LƐ,"Ka Adam ne kye, Lowhiafono mokɔgye nɔ kodzo lɛ.",0.8333,0.4524
+483,ejie adesai anɔyelii ni ekɛ e-Maŋtsɛyeli lɛ aba.,"Nea ɛdi adesa no yɛli, na yɛka mankyia",1.0,0.641
+484,KASEMƆ YESU MUSUŊTSƆLƐ LƐ,kasemɔ Yesu mu suntil,0.5,0.2727
+485,Wolo ni aŋma kɛyahã Kristofoi ni hi Yudea lɛ baaye abua wɔ ni wɔfi shi kɛyashi je nɛɛ baaba naagbee.,Wolo ni Anaya christor heta bayaa wo no wɔ fishianbaba no aba.,0.85,0.5
+486,"REHOBOAM FEE ESHA, SHI ETSAKE ETSUI",Real Boamasa si chakata,1.0,0.5517
+487,Mɛni asafoŋ onukpai lɛ baanyɛ afee koni nyɛmimɛi lɛ ana akɛ asumɔɔ amɛ ni amɛhe yɛ sɛɛnamɔ?,anuafoɔ nukpa Banya fa koni nyamaa naa kɛ asomene meyɛɛ sɛ nam,0.9412,0.4595
+488,Mɛni tsɔɔ akɛ Yesu kɛ awuiyelɔ ni asɛŋ lɛ yɛ emasɛi lɛ eyaaa Paradeiso gbi ni amɛgboi lɛ?,Mɛni kɔkasaeɛ.,0.9444,0.8451
+489,EHÃA NAANYOBƆƆ NI YƆƆ WƆ KƐ MƐI ATEŊ LƐ MLI WAA,Haadon yɛ wɔmemaa,1.0,0.6486
+490,“HEMƆKƐYELI KOME”,1 HEMOK,1.0,0.7857
+491,MƐƐ HIƐNƆKAMƆ YEHOWA HÃ ADESAI NÁ BE NI AMƐBATSƆMƆ ESHAFEELƆI LƐ?,Me he nɔ kome wo yehoahas na benyimba kyɛ hyɛ afeel.,1.0,0.5556
+492,"Mɛni hãa onáa nɔmimaa akɛ, obaanyɛ ohiɛ ohemɔkɛyeli lɛ mli kɛyawula shi?",Me ne ha wo nanom market. obaanyɛ ohia ohemɔkɛyeli mli nkaasa na.,0.8333,0.3898
+493,Kasemɔ Yehowa​—Nyɔŋmɔ Ni Woɔ Mɔ Hewalɛ Lɛ,"kasemɔ yi hoa, nnoɔno wɔ mo hewalɛ,",0.8571,0.3333
+494,MƐNI BAAYE ABUA WƆ NI WƆYA NƆ WƆYE ANƆKWA YƐ NAAGBEE GBII NƐƐ AMLI?,Mɛni bayaa wɔ wo yanoano kwa yɛn agbegbee,0.8571,0.4528
+495,Bo Tookwɛlɔ Kpakpa Lɛ Gbee Toi,Bot kɔ lɔkpakpaagbee toe. Malikem no.,1.0,0.6
+496,nɔ hewɔ ni esaaa akɛ okpaa Yehowa jamɔ lɛ he?,No hewɔ ni saa ke kpahaga he.,0.7,0.4571
+497,“NYƐYAA NƆ NYƐWOWOA NYƐHE HEWALƐ”,Nyanyano nyɛ wo woanyɛ yie a,1.2,0.3704
+498,Mɛni hãa wɔnaa faŋŋ akɛ Yehowa miibua mɛi babaoo anaa kɛmiijɛ jeŋmaŋ fɛɛ jeŋmaŋ kɛ wiemɔ fɛɛ wiemɔ mli?,Mɛni ha wɔ afana kɛ Yehowa boa me babawaa Kenaana make wiem fɛɛ wiemɔ.,0.7895,0.4405
+499,ANI ESA AKƐ OBI LƐ AGBE SKUL NAA DANI ABAPTISI LƐ?,Ani saa ka obiaba Danbal.,0.9091,0.5128
+500,Naa nibii enyɔ ni hã gbɛjianɔtoo nɛɛ ye omanye:,a,1.0,0.9737
+501,Mɛni baaye abua wɔ ni wɔkpa mɛi akojomɔ?,nan bi a h,1.0,0.8438
+502,"Kɛ́ wɔmiitao wɔná mumɔ krɔŋkrɔŋ lɛ he sɛɛ jogbaŋŋ kɛmɔ shi lɛ, mɛni esa akɛ wɔfee?","Ke wɔntwe na mɔ kɔkɔ yi se dzogbekemusie Menyaa ke wɔ fie,",1.0,0.5469
+503,NƆ NI ASAFOŊ ONUKPAI KƐ MƐI KROKOMƐI BAANYƐ AMƐFEE,None Asafo mu nukpekeame fi,1.0,0.6429
+504,wɔkɛ ‘wɔjwɛŋmɔ atsu nii jogbaŋŋ’?,"Wɔ kɛ wɔ adwan mu, atone noba Lala kena.",1.8,0.6923
+505,Mɛɛ bei amli wɔbaanyɛ wɔfee mɛi gbɔ?,Mebia menwɔ aane wɔfaeɛ gbɔ.,0.8571,0.3793
+506,Ni wɔbaaye wɔbua amɛ yɛ fimɔ beiaŋ,"Ni wɔ baayewa boa me yɛ fi mmabea, Lala nataba mu na",1.4286,0.7143
+507,"Oblahii Kɛ Oblayei, Ani Nyɛkɛ Mumɔŋ Otii Emamɔ Nyɛhiɛ?","Oblahii kɔ blae, annye ke momema mo nyɛhiɛ.",0.7778,0.3409
+508,AHÃ MIBƆI SƆƆMƆ YƐ LEGAL DEPARTMENT,Ahab nso wɔ yɛliga department?,0.8333,0.3333
+509,TSU OGBƐFAŊNƆ NI OSHI NƆ NI ESHWƐ LƐ OHÃ YEHOWA,Tsu ogbe fano ne oyinɔ ne ehwɛɛ wo ha yi ho.,1.0,0.3684
+510,NAMƐI AGBƐ́I YƆƆ WOLO LƐ MLI?,"Na me agbe yɔ wolo mli,",0.8333,0.3182
+511,AATSƆƆ WƆ NII KONI WƆNYƐ WƆHI SHI YƐ TOIŊJƆLƐ MLI KƐYA NAANƆ,akyerɛ wɔ ne Konan wɔ hehenɛ doing jɔlemen.Kɛya na no.,0.9167,0.4898
+512,MIYAHI LƐLƐ KO MLI AKƐ NO BAAHÃ MANÁ MIISHƐƐ LO,ahele kolee.,1.0,0.8421
+513,MƐNI HÃA MƆ KO TOIŊ JƆƆ LƐ WAA?,Mɛni hamka.,0.875,0.6087
+514,"YEHOWA ‘HÃA WƆSHWEƆ, NI EHÃA WƆNÁA HEWALƐ NI WƆKƐAAFEE HU’",Yehowa hã wɔ swine wɔ na Hewale ni wɔka afee hu.,0.8,0.2391
+515,OTI KO NI ESA AKƐ BIBLIA MLI NIKASELƆI ASHƐ HE,Wo ti Konia ka bi blaene kaselɔi ahyɛ.,1.0,0.3784
+516,"Wɔbaana bɔ ni wɔbaafee wɔná klɛŋklɛŋ nibii ni wɔkase yɛ Biblia lɛ mli lɛ ahe sɛɛ ŋmɛnɛ, kɛ́ ekolɛ wɔkase nibii nɛɛ etsɛ waa po.",wɔbaana bɔne wɔ afei wɔn klante no bi no wɔ kaseɛ bi baa ne esam ne keka wɔ kasa ni bi na kyerɛ wɔapo.,0.96,0.43
+517,BO YEHOWA TOI KONI EJƆƆ BO,"Bo Yehowa, koni eda",0.5,0.381
+518,YESU JIE MLIHILƐ KPELE KPO,Yesu dzi emli kple ko.,0.8,0.3636
+519,"KƐ́ OSHIHILƐ TSAKE LƐ, OKƐ ONIFEEMƆ ATSƆƆ AKƐ ONUƆ NII ASHISHI",Kɛ oshihilɛ tsakeko nifeemɔ atsɔ ake nu nase.,0.8182,0.3
+520,"Mi kɛ minyɛmi yoo, Elisabeth (mɔ ni ta misɛɛ lɛ)","ananafo no a ɛyɛ kanea akɛ nkanya me yi, Elizabet, Mɔnetansɛe.",1.1,0.9444
+521,Hiob?,Megbe anɔbɔ mɔden onemomn,4.0,5.25
+522,"Ani no mli lɛ Satan miitao Hawa ahe aye akɛ kɛ́ egbo lɛ, nɔ ko yɛ emli ni gbooo?",ne noman Ahia kɛ Kabon boo,0.9474,0.6949
+523,NƆKWƐMƆNƆ KPAKPA NI MIFƆLƆI FEE,nkɔmmɔ no kpakpa ne mfollow fee.,0.8,0.3704
+524,"Yɛ “amanehulu kpeteŋkpele” lɛ mli lɛ, mɛni hewɔ ehe baahia waa ni wɔbo gbɛtsɔɔmɔ toi?",Yi amanehu kpetekplee me me ne weebia na wɔbobɔɔ to,1.0,0.4478
+525,Bɔ ni ekɛ oblanyo fioo Samuel ye ehã.,Bɔne kɔbrani fie samuel yi ha.,0.875,0.3793
+526,BƆƆ MƆDƐŊ NI ONÁ SUI NI BAAHÃ ANYƐ AMU AFƆ̃ ONƆ,Bɔ mɔden na sinia nyama fono.,1.0,0.4444
+527,Eŋɔɔ Minaa Akɛ Mikase Yehowa He Nii Ni Mitsɔɔ Mɛi Nii Kɛjɛ Biblia Lɛ Mli,Nna akɛkaseee nantwika bi blam.,1.0,0.6207
+528,YEHOWA DA FE WƆTSUII,Yehowa da wɔ tri,0.5,0.2941
+529,SATAN LAKA AMƐ NI AMƐJÁ AMAGAI,ta Akama,1.0,0.72
+530,Mɛni baaye abua nyɛ ni nyɛjwɛŋmɔ ahi otii ni nyɛkɛmamɔ nyɛhiɛ lɛ anɔ?,"Mani ayeaboanyɛ ne nye dwumate no nyɛ kɛmaa no,",1.0,0.4821
+531,BƆ NI FEE NI DAVID NÁ HEMƆKƐYELI NI MLI WA,Bɔ ni fee ni David na Hamuɛl ne mew,0.5,0.3333
+532,SAAMƆ OHE JOGBAŊŊ KONI ONYƐ OGBA MƐI KROKOMƐI YEHOWA HE SANE,"Saa munnnye Ogbarmexoa esane,",1.0,0.58
+533,Mɛni hewɔ esa akɛ wɔtsɛ asafoŋ onukpai lɛ?,Manesa ka wakyea no paa.,1.0,0.6765
+534,NƆ NI WƆBAANYƐ WƆFEE KƐ́ NYƐMI KO HÃ WƆNINE NYƐ SHI,no ne wɔ baanyɛ wɔ feenan ɔhaw ne na,1.0,0.475
+535,Mɛni hewɔ wɔbaanyɛ wɔya nɔ wɔná miishɛɛ kɛ́ mɛi ejieee hiɛsɔɔ kpo yɛ ejurɔ ni wɔfee amɛ lɛ he?,Me ne hewɔ ɔbaayewa no wenam Kaman egye he sɔkyɛ ayuo wɔ fie a me,1.0,0.527
+536,“Manyiɛ Onɔkwale Lɛ Mli”,Mma nnyɛ onɔkwale ne.,1.0,0.4211
+537,wɔhã jwɛŋmɔ ni wɔhiɛ yɛ saji ahe lɛ kɛ Yehowa nɔ lɛ akpã gbee?,Wo ha dwen mu ne wɔ heasee he kɛ Yehowa nɔ akagbe,0.7857,0.4583
+538,wɔsusu nɔ ni akɛɔ wɔ lɛ he kɛ́ eŋɔɔɔ wɔtoi naa po?,wɔ susu nɔa akɔ wɔhe ke eŋuwo wɔtua,0.9167,0.4054
+539,MƐƐ GBƐ NƆ NIBII NI NYIƐ SƐƐ NƐƐ BAANYƐ AHÃ ONÁ MIISHƐƐ WAA YƐ SHIƐMƆ NITSUMƆ LƐ MLI?,Megbe nɔni bi ne nyɛ saa na banaana mehyɛɛ wo ayɛyɛ mu ne tumani.,1.0,0.4925
+540,"Mɛɛ gbɛ nɔ blema nibii komɛi ni ana lɛ maa nɔ mi akɛ mɔ ko hi shi yɛ Babilon ni atsɛɔ lɛ Belshazar, ni akɛ, eye nɔ akɛ maŋtsɛ?","Megbe no blemabii mokɔhyiaBablon na twa Le Belsazar, ne akayɛ no akɛma nyɛ,",1.0,0.5158
+541,MƐƐ GBƐ NƆ WƆNÁA NINAA NƐƐ HE SƐƐ?,Megbe na wɔnane na ne His,1.0,0.4615
+542,"Kɛ́ ootao otsɔ tsɔɔlɔ ni he esa lɛ, mɛni obaanyɛ ofee?","Ke wo twatɔ tsɔlɔ ni ye saa, minibaanii",0.9091,0.4634
+543,“NYƐJI MIDASEFOI”,"Nyɛ gye ndase,",1.5,0.5
+544,Bɔ Ni Obaafee Oye Obua Mɛi Ni Nuuu He Akɛ Amɛjá Nyɔŋmɔ Lɛ,Bɔne ɔbaa fie yibɔa m'ani no hia kɛ amɛdamɔ.,1.0,0.4667
+545,AHÃ WƆYASƆMƆ YƐ HE KROKO,Ahwiaso yɛ eko kuro,0.8,0.5
+546,Bɔ Ni Obaafee Okai Ŋmalɛi,Bɔne obaafee wokae male,0.8,0.2857
+547,"KƐ́ OTSƆƆ MƐI NII NI AMƐBATSƆMƆ YESU KASELƆI LƐ, OBAANÁ MIISHƐƐ",Cotto m'ani nyamaa mo yesu kase laɛbia nhyɛ.,0.9091,0.5098
+548,YE OBUA MƆ NI OKƐKASEƆ NII LƐ NI ESUMƆ YEHOWA,"Yeoboamɔniokeka se ni, nesuYehowa,",0.9,0.25
+549,NIBII NI ESA AKƐ OFEE KONI ONÁ MUMƆ KRƆŊKRƆŊ LƐ HE SƐƐ JOGBAŊŊ KƐMƆ SHI,N bi na saa kɔ fee koni ona mmɔ kɔnkɔn sa dzogbe mɔhi.,1.0,0.4386
+550,Daniel?,Megbea no ɔabɔ mɔden na hemɔkɛyeli tamɔ danie,8.0,5.6667
+551,Namɔ Susumɔi Náa Onɔ Hewalɛ?,Na mosu mo no a wo nɔhelɛ.aleni ni kasemɔdamo no.,2.0,1.1304
+552,Susumɔ Mɛi Krokomɛi Ahe Tamɔ Bɔ Ni Yehowa Feɔ Lɛ,Susumɔ me nkuro kome ahe tɔmɔbɔne yɛ ho afi melanin kasamu a ɔda mo no;,1.3,0.7436
+553,"KƐ́ MƆ KO GBA BO ETEEMƆŊ SANE LƐ, KAAKƐƐ MƆ KO","Kemo botnan Kaako ko,",0.9091,0.5882
+554,Mɛni esa akɛ ole yɛ henɔjɔɔmɔ kɛ baptisimɔ he?,Me ne saa colleaheue mo.,1.0,0.7027
+555,SUSUMƆ MƐI NI OKƐKPEƆ YƐ SHIƐMƆ NITSUMƆ LƐ MLI LƐ AHE,Susumɔ menye okebisaa mɔntumi ahi.,0.9091,0.5349
+556,Mɛɛ gbɛ nɔ Yehowa ye ebua Samson ni etee nɔ efee esuɔmɔnaa nii?,Megbe nɔ Yehowa yi bɔasiee nɔ efee suɔmɔnaanii.,0.6923,0.3
+557,Nɔ Ko Ni Yɔɔ Jeŋ Hee Shishitsɔɔmɔ Lɛ Mli Ni He Yɔɔ Sɛɛnamɔ Waa,No ko no yɛ gye heyeheye. mehyɛɛ na mowɔ a.,0.9286,0.6122
+558,Mɛni Yehowa feɔ kɛshɛjeɔ wɔmii kɛ́ nibii gbohii komɛi ni wɔfee be ko ni eho lɛ haoɔ wɔ?,"Mɛni woafee me, Kenbii wɔ fie baako ne ho haw wɔ",0.8889,0.5735
+559,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Fa na ebi mu na aketewo ni. Tobago,1.6,1.05
+560,Nɔ Hewɔ Ni Mɛi Komɛi Booo Hii Ni Yehowa Ehala Akɛ Amɛtsɔɔ Ewebii Lɛ Gbɛ Lɛ Toi,"Sagenkurokoma nifa ta he, noewo ne menkɔma boohi yɛ hoakametwɛ ebiyɛ gbeto.",1.0,0.7581
+561,Nɔ ni ji enyɔ: Yehowa gbɛtsɔɔmɔi lɛ ni wɔbaahi shi yɛ naa,Ɔka sennii nyoya gbe tsɔe wɔ bah,1.0,0.6667
+562,NƆ KO NI HE HIAA WAA NI MIKASE YƐ GILEAD,No one hehia woa ne nkasa yɛ Gilead.,0.8,0.2903
+563,KWƐMƆ JOGBAŊŊ YƐ NIBII NI OKƐJIEƆ OHIƐTSERƐ LƐ AHE,"Kwamo, yɛne bi na ɔnkyerɛ ahe.",0.8889,0.5952
+564,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,.,1.0,1.0
+565,YEHOWA BAAYE EBUA WƆ KƐ́ WƆKƐ NAAGBAI NI MLI WAWAI KPE NI WƆNIJIAŊ JE WUI,Yehowa baaye boa wɔ kewɔ kɛaaba ne mewawae kpe ne wɔn gyaagye wo yi.,0.8,0.3103
+566,Nɔ ni wɔbaafee koni wɔná nibii ni Yehowa feɔ kɛyeɔ ebuaa wɔ be ni wɔkɛ shihilɛi ni mli wawai kpeɔ lɛ ahe sɛɛ.,None wɔbaafee koni wɔna ni bi ni Yehowa fi kɛye buaa wɔben wɔ kɛse le nim nenabea sɛɛ.,0.8261,0.3256
+567,"Kɛ́ akɛɛ abaatee mɛi ashi “kɛya kojomɔ mli” lɛ, te atsɔɔ tɛŋŋ?",Deaka me ashikamɔ mli ni atsɔ̃ɔ teaa,0.8333,0.5435
+568,KASEMƆ BƆ NI YEHOWA MUSUŊ TSƆƆ LƐ KƐ BƆ NI ENAA MƆBƆ LƐ,kasemɔ bɔne Yehowa musu ntɔ le kabone na ɔbɔɔ,0.8462,0.2791
+569,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,atɛn.,1.0,0.85
+570,Mɛɛ gbɛ nɔ Yesu hã ana akɛ eji mɔ ko ni woɔ mɔ hewalɛ?,Me gbe nɔ Yesu hã na akɛ egyimɔkoni wuɔ mo hewalɛ.,0.6429,0.2
+571,“Wɔbaakpe Yɛ Paradeiso!”,Wɔbaa pa yɛ parade so. malaise kasemɔ da mo no.,3.0,1.0526
+572,Saji nɛɛ ni wɔsusu he lɛ hãa wɔnaa nɔ hewɔ ni “amen” kɛɛmɔ jeee nɔ ko folo ko kɛkɛ yɛ Yehowa hiɛ lɛ.,Sagawa wɔnan wɔ ne a menkɔgye no kolokokɛkɛ.yɛ Yehowae,1.0,0.4933
+573,YEHOWA DROƆ WƆ MUMƆŊ NIYENII,Yehowa duro wɔ mu mɔnen,0.6,0.2917
+574,Yehowa nuɔ he ehãa mɛi ni ewaaa akɛ abaaye amɛ sane fɔŋ lɛ?,Yehowa nu hã m'aniwa bayi mesane fam.,0.9231,0.4783
+575,Abaatsɔɔ wɔ bɔ ni wɔbaafee wɔwo mɛi ŋaa kpakpa.,watwɛn wɔ bɔ no wɔ baafee wɔ wo manyaa.,0.7778,0.3947
+576,GBAA AMƐ OTSUIŊ SAJI,be ame otina,1.0,0.5882
+577,MƐNI BAAYE ABUA WƆ NI WƆHE WƆYE AKƐ YEHOWA KƐ WƆHE ESHAI LƐ EKE WƆ LƐƐLƐŊ?,"Mene baayiaboa wɔne wɔ he wɔ yi akɛ, yewoaka wɔahyehyɛ killing",0.875,0.4138
+578,OBAANYƐ OTSƆ NAANYO NITSULƆ KPAKPA,Obaanyɛ otnaner papa,0.8,0.4667
+579,"Wɔbaana nibii ni baanyɛ ahã wɔmiishɛɛ atã, kɛ nɔ ni wɔbaanyɛ wɔfee koni wɔná miishɛɛ ekoŋŋ.",Ɔbaa na ne bi ne baayaa wɔ me nhyɛ ata Kenna baanyɛ kono wɔ nam nhyɛ koom.,1.0625,0.4324
+580,“Mafɔse Mimumɔ Lɛ Mashwie” Mitsuji Lɛ Anɔ,Mafe mommaetwidyen ano,1.0,0.6364
+581,Ani Ogbɛ́i Yɛ “Wala Wolo Lɛ” Mli?,"anyiwo gbee yewoawo lo emli. malinasemɔɔɖamɔ nɔ,",1.0,1.0435
+582,Mɛni hewɔ esa akɛ wɔto wɔtsui shi waa yɛ kaselɔfeemɔ nitsumɔ lɛ mli?,M'ani wesa wato watiti wayɛasefoɔ ne kwamu.,1.0,0.5455
+583,Mɛni Maŋtsɛ Uzia sane lɛ tsɔɔ wɔ yɛ henɔwomɔ he?,Mɛni akyɛse sane tɔɔ wɔ yɛhome,0.7,0.4474
+584,MƐI EBUUU YESU KƐ EKASELƆI LƐ,Me ebuu yesu gekaselɔyɛ.,0.8333,0.2917
+585,Kasemɔ Bɔ Ni Yesu Wo Mɛi Ŋaa Lɛ,"akrabatsa ni kɔ kuku etee hi. kasemɔ bɔ ni Yesu wò me ŋaa,",1.125,1.1667
+586,EJEEE SHISHI JOGBAŊŊ,Egye hyehye doba,1.0,0.6667
+587,"KƐ́ OHIƐ SƆƆ NII LƐ, OHÃŊ ONAAGBAI AFITE OMIISHƐƐ","Ke hia sani, o hana afiame nhyɛ.",1.0,0.5897
+588,Mɛɛ gbɛ nɔ oná nikasemɔ nɛɛ he sɛɛ?,akodoɔ,1.0,0.9259
+589,"Wɔbaana bɔ ni wɔbaafee wɔjɛ heshibaa mli wɔkpɛlɛ nɔ akɛ jeee nɔ fɛɛ nɔ wɔle, wɔkɛ wɔjwɛŋmɔ ama nɔ ni wɔle lɛ nɔ, ni wɔkɛ wɔhiɛ afɔ̃ Yehowa nɔ.","ɔbaabunu bafeɔ gyeesire wokpena akɛ de no finowd ma no no wɔ no na wɔka wɔ hafo Yehowa,",0.931,0.5636
+590,NƆ NI TSƆƆ AKƐ WƆSƐƐ LƐ PARADEISO BAABA EKOŊŊ,None ka watsɛa so baabako.,1.0,0.5946
+591,NƆ NI HÃA WƆHEMƆKƐYELI LƐ MLI WAA,Mama wo Hemaa mia,1.0,0.7037
+592,MƐNI KƐ́ WƆFEE LƐ NO BAATSƆƆ AKƐ WƆMIIJIE SUƆMƆ NI TSAKEEE KPO?,"anika wɔ fie, noba wɔnsɔnee go",1.0,0.62
+593,NƆ NI ESA AKƐ WƆFEE KƐ́ MƆ LƐ NÁ WIEMƆ LƐ HE MIISHƐƐ,"Na ne asakaa, Kamonaa mu hene.",1.0,0.7179
+594,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Te bahi,0.8,0.75
+595,NIBII KROKOMƐI NI HÃA ANAA AKƐ WƆSHWƐƐƐ YEHOWA GBƐ́I LƐ HE KWRAA,Ni biko m'ani ha anaa ake wɔ hwɛ yoab koraa.,0.9167,0.4231
+596,Te wɔɔfee tɛŋŋ wɔna kɛji wɔmiihã Nyɔŋmɔ mumɔ lɛ miikudɔ wɔ yɛ nibii fɛɛ mli?,Te wɔɔfee te wɔ na kadiwo me anyɔmɔ me nkodoɔ ani yɛ fɛ miri.,0.8,0.4918
+597,wɔgba mɛi wɔ-Tsɛ ni yɔɔ ŋwɛi lɛ he sane?,Wogbae yɛnwene sane?,0.8889,0.6
+598,"anyɛɔ amuɔ afɔ̃ɔ onɔ, tamɔ Tihiko?",Any amafoɔ tameti he ko,1.0,0.3462
+599,Yehowa Ejɔɔ Mi Fe Bɔ Ni Mikpa Gbɛ Kwraa,Yehowa dwa me fie bɔne pagera,0.8889,0.4839
+600,TE OBAAGBALA ŊMALƐI NƐƐ AMLI TƐŊŊ?,Hello aklama nam lit,1.0,0.5714
+601,"KƐ́ AKƐƐ MƆ KO TOƆ ETSUI SHI LƐ, TE ATSƆƆ TƐŊŊ?",Ke akaiko asitina den,1.0,0.7353
+602,MƐNI YEHOWA KAIƆ YƐ WƆHE?,Many yɛ waka yɛ wɔ yi.,1.0,0.45
+603,MƐNI ASAFOŊ ONUKPAI LƐ FEƆ KƐYEƆ AMƐBUAA MƐI NI AJIE AMƐ KƐJE ASAFO LƐ MLI LƐ?,Menusa fo nukpafi keyameboaa me ni adzame kedzi asafo mli.,0.8125,0.4677
+604,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Te what,0.8,0.8
+605,HÃ SHISHITOO MLAI NI YƆƆ BIBLIA LƐ MLI LƐ AKUDƆ BO,Has shito wom lini yi bibla mli Akodoɔ,0.9091,0.4
+606,BƆ NI OBAAFEE OŊMƐ PƐPƐƐPƐ,Bɔ ni obaafee ame pɛpɛɛpɛ.,0.2,0.1364
+607,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sane biman akɛtee. baaha.,1.0,0.95
+608,Wɔbaanyɛ wɔkase nii kɛjɛ mfonirii pii ni yɔɔ wɔwoji lɛ amli lɛ amli. Mɛni baaye abua bo ni oná mfonirii nɛɛ ahe sɛɛ jogbaŋŋ?,Wɔ banyɛkasani nka gya mfonini ne yɛ wɔ wɔgyina mnem. baayaa ne one mfonini na ahasa.,1.0,0.5253
+609,Klɛŋklɛŋ nɔ: Biblia lɛ ni wɔbaakane ni wɔkase,"na menhyɛ Kenkan no, bibla no wɔ baanan w",1.125,0.7297
+610,"Kɛ́ akɛɛ Yehowa sumɔɔ bo lɛ, te onuɔ shishi ohãa tɛŋŋ?","Ka ka yewoasubɔe, to nusiwo hã ta.",1.0,0.5122
+611,MISƆMƆ AKƐ NƆKWƐLƆ GBƐFALƆ,Nsumaa kelɔgba no,1.0,0.6087
+612,OBAANYƐ OSƆMƆ YƐ GBƐI KROKOMƐI ANƆ,obaanyɛ somyare,0.8333,0.6207
+613,YEHOWA HÃ ADAM KƐ HAWA ANƆKWA HEYELI,Yehowa hã adam kɛ Hawa no kwae.,0.2857,0.2333
+614,"Kɛ́ wɔsumɔɔ shika lɛ, mɛɛ gbɛ nɔ no baanyɛ ahã suɔmɔ ni wɔyɔɔ kɛhã Nyɔŋmɔ lɛ he ajɔ?",Ke wasoma hyiaa me gbedodo baanyɛ ahafo na wɔyɛ hanom he ado.,0.8889,0.5469
+615,MLA LƐ WO MƐI HEWALƐ NI AMƐYE JALƐ SANE,Mma wo menhyiaa meyɛ galisi.,0.8889,0.5806
+616,Bɔ Ni Asafoŋ Onukpai Lɛ Yeɔ Amɛbuaa Mɛi Ni Ajie Amɛ Kɛje Asafo Lɛ Mli Lɛ,Bɔ ni asafo nukpa yeyeae bua menni agye me kedafomlie.,0.875,0.4035
+617,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,"Sandi mu, na aketen,",1.0,0.9
+618,Mɛɛ gbɛ nɔ Nyɔŋmɔ webii ni yɔɔ ŋmɛnɛ lɛ kaseɔ Yesu?,Mɛɛba no nwoma wɔ bi na yɛma no ɛ,1.0,0.625
+619,YEHOWA JƆƆ MƐI NI KƐ AMƐHIƐ FƆ̃Ɔ ENƆ LƐ,Yehowa dɔ me nika miifo no.,0.8889,0.4667
+620,Mɛni hewɔ wɔbaanyɛ wɔkɛ wɔhiɛnɔkamɔ lɛ ato sɛ́kɛ kɛ dade fai he lɛ?,nyiɛ.Minihewɔ baanyɛ wɔ kɛ wɔ hen kama ato sɛkɛ dade fae.,0.8462,0.3585
+621,ESAAA AKƐ WƆWOƆ MƆ KO ŊAA BE NI WƆMLI EFU,Esiae wowɔna banim wɔm nena.,1.0,0.5938
+622,MƐƐ BEI AMLI EBAANYƐ EWA KƐHÃ WƆ AKƐ WƆBAABA WƆHE SHI?,Miebia mianyae waka wɔbaawɔ yi si.,1.0,0.4651
+623,AMƐKU AMƐSƐƐ AMƐYASARA MƐI NI YƆƆ WIEMƆ LƐ HE MIISHƐƐ LƐ,abakomasɛm asraman wie mu mehyɛ,1.0,0.587
+624,SUƆMƆ TSIRƐƆ WƆ NI WƆFEE MƐI YESU KASELƆI,Suɔmɔ kyerɛ wɔ ne wɔfee ma yie su kaselɔ.,0.75,0.2647
+625,"Mɛɛ nibii etɛ kɛ́ wɔfee lɛ, no baaye abua wɔ ni wɔtsake wɔjwɛŋmɔ?","Menni bite ke wɔ fie, nobae ba wɔ ne wotsake wɔte",0.9231,0.42
+626,"Kɛ́ ewa kɛhã wɔ akɛ wɔkɛ mɛi atɔmɔi baake amɛ lɛ, mɛni wɔbaanyɛ wɔfee?",Ke wake how waka wo kɛmaa bakam me ne wo baanyɛ fie. Lankan a,1.0,0.5741
+627,WƆŊƆ HEGBƐ KO KƐLƐƐ WƆSƆƆMƆ NITSUMƆ LƐ MLI,Wɔn wɔ hegbɛ ke le wɔ someone tomo.,1.0,0.5714
+628,The Wonders of Creation Reveal God’s Glory,The wonders of creation reveal God's glory,0.0,0.0
+629,Mɛni wɔbaanyɛ wɔfee bianɛ kɛsaa wɔhe kɛhã yiwaa?,Me ne ba nye wɔ fie bi a nakasa wɔ kan yi wɔ,1.625,0.425
+630,MIBALE MƆ KO NI HÃAA MƆ NINE ANYƐ SHI,Mi balion Hamon ne anyɛ shi.,0.7778,0.3103
+631,Mɛni baaye abua wɔ ni wɔhe asa yɛ shiɛmɔ nitsumɔ lɛ mli?,"Me ne baaba wɔn wɔ ha ɛhyiamu tumm no,",1.0,0.5227
+632,Mɛni hewɔ bei komɛi lɛ wɔnáaa lɛ mlɛo akɛ wɔbaaba wɔhe shi wɔhã Yehowa ni wɔbo lɛ toi lɛ?,Mɛni hewɔ bekum wɔna le mleawo aseɛ wɔ babawa so wɔn ayɛ hwan wɔbɔ let,0.8947,0.4429
+633,"OBLAHII KƐ OBLAYEI, TE NYƐBAAHÃ HETOO NYƐHÃ TƐŊŊ?","Oblahii kɔ blae, nyebanyehã te.",0.875,0.475
+634,"KƐ́ AKƐƐ MƆ KO BAA EHE SHI LƐ, TE ATSƆƆ TƐŊŊ?",Ka mokɔbisa ho tɛnn.,1.0,0.7188
+635,YAA NƆ OFEE NƆ NI YEHOWA SUMƆƆ,"Yaano fie no ne yɛ hosomɔ,",1.0,0.375
+636,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sane ebi mo ani akɛseɛ mu.,1.2,0.95
+637,“Nyɛyaa Nyɛyafea Mɛi . . . Kaselɔi”,Nye yɛanya fi a mekasa li.,1.5,0.375
+638,Te Onaa Mɛi Ni Yɔɔ Oshikpɔŋkuku Lɛ Mli Lɛ Ohãa Tɛŋŋ?,Tena m'ani osoku me ɔha tɛnne kasema o.,1.0,0.7073
+639,Ná Nɔmimaa Akɛ Anɔkwale Lɛ Nɛ,Nanoman Kasamo,1.0,0.7083
+640,Mɛni wɔle yɛ bɔ ni Yehowa baakojo mɛi ehã wɔsɛɛ lɛ he?,Manɔ le yɛ bɔne Yehoakim ɛhaw wɔsɛee,0.9167,0.4524
+641,SAAMƆ OHE KƐHÃ NIBII NI OBAASUMƆ NI OFEE WƆSƐƐ LƐ,Saa muhan no bi na busman fie wɔ sɛ,1.0,0.525
+642,ANI OBAANYƐ OYASƆMƆ YƐ HE KO NI HIAMƆ LƐ DA YƐ?,Aneane koni ɖa,1.0,0.7222
+643,Mɛɛ gbɛ nɔ Yehowa ye ebua nyɛ yɛ naagbai srɔtoi ni nyɛkɛkpe lɛ amli?,Nɛgbɛ nɔ yehoas,0.9286,0.7778
+644,NƆ NI WƆBAANYƐ WƆFEE NI BAAGBALA MƐI KƐBA MFONIRIFEEMƆŊ PARADEISO LƐ MLI,Nyɔnu wɔbaanaanaa mekanfo paado.,1.0,0.6393
+645,"Kɛ́ wɔhã ehi wɔjwɛŋmɔ mli akɛ, wɔkase yɛ Biblia lɛ mli akɛ Yehowa sumɔɔ wɔ lɛ, mɛɛ gbɛ nɔ no baaye abua wɔ?",Ke wɔ hane wɔ dwammaa wokasa yɛ bibla nua kɛ Yehowa small wamɛn bayaa wɔ.,0.8696,0.4815
+646,Mɛni hewɔ ehe ehiaaa ni wɔleɔ nɔ ni baaba wɔ́ dani wɔná miishɛɛ lɛ?,Me ne wo yɛ hia no wɔ onniawɔdɛne wɔ namyɛ,0.9286,0.5577
+647,"Bianɛ lɛ, wɔmiisɔmɔ yɛ Myanmar","Sane nneɛma yɛmfoni yɛhaya nea bia ne wɔn som ɛ mmeamua,",2.2,1.44
+648,"Mɛni kɛ́ ofee lɛ, ebaahã oshwe waa akɛ okase Biblia mli sane ko?","Menka wo fie, ebaa ho hwee wakeka bi blame nsa no gu Lala ka ba mo na.",1.3077,0.6531
+649,BƆ NI WƆBAAFEE WƆNÁ MIISHƐƐ BE NI WƆMƐƆ LƐ,bɔne wɔ baafe wɔnam nhyɛ beni wɔ mmaa wɔn.,1.0,0.3824
+650,MƐNI WƆKASEƆ YƐ BƆ NI YEHOWA EFI SHI EHÃ LƐ MLI?,M'ani wɔ kaseɛ bɔne yɛ hɔ a efi hyia hame.,1.0,0.4054
+651,KAADAMƆ MƐI AHEWOLONƆ SU LOO HE NI AMƐJƐ LƐ NƆ OKOJO AMƐ,Ka Adam momahili no su loheasing,1.0,0.5778
+652,Mɛɛ nibii feɔ tawuu hewulamɔ nii ni jɛ Nyɔŋmɔ ŋɔɔ lɛ?,Menni bi fitaa mo nɛ nedze nyɔmɔ.,1.0,0.619
+653,SAMSON NIJIAŊ EJEEE WUI,Samson ne gye eewo.,0.75,0.45
+654,WƆKU WƆSƐƐ KƐTEE QUEBEC CITY NI WƆYASƆMƆ AKƐ GBƐGBALƆI KRƐDƐI,Wɔ kusikɛteke besit na wɔasoma ke gbegble kee.,1.0,0.4615
+655,Mɛɛ jɔɔmɔi wɔnáa yɛ mfonirifeemɔŋ paradeiso lɛ mli?,"Menni biekɔ wɔ fie, ebaagbee paali.",1.0,0.7674
+656,BƆ NI OBAAFEE OYE MƐI NI JƐ ASIA LƐ ODASE,Bɔne wɔbaafee ɔyɛ mani gye ahyia odase.,0.9,0.4375
+657,‘HEMƆKƐYELI TSƐŊ AGBO LƐ’,moka Elite agbo,0.75,0.5
+658,ASAFO LƐ KWƐƆ NII KƐYAA SHƆŊŊ,Asafo a kɔɔ ne nka ason.,0.8333,0.5
+659,YE OBUA MƆ NI OKƐKASEƆ NII LƐ NI ESUMƆ YEHOWA WAA,Yɛ obuase hɔ a wɔ,1.0,0.7436
+660,NƆ HEWƆ NI WƆBAANYƐ WƆHE WƆYE AKƐ YEHOWA BAAYA NƆ EJIE SUƆMƆ NI TSAKEEE KPO ETSƆƆ WƆ,orine wɔ ne wɔ baanyɛ wɔ hewɔe yi hoaba yano egye soɔ mone,1.0,0.5
+661,BƆ NI ESA AKƐ WƆFEE WƆNII WƆHÃ KƐ́ MƐI NYƐ WƆ,Bɔne saa wɔfee w'ani wɔ ha Kemeni wɔ,0.8182,0.3235
+662,NƆ NI BAAYE ABUA BO NI OYE KAA NƆ,Na no bayeaboab no yɛ car no.,1.0,0.4
+663,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Te baayɛ do ha dɛn?,0.8,0.6
+664,Te esa akɛ mɛi ni afɔ amɛ mu lɛ afee amɛnii amɛhã tɛŋŋ?,Te kamaana afɔ amema mania me ha te,0.8462,0.5476
+665,NƆ HEWƆ NI WƆJWƐŊMƆ FEƆ WƆ ENYƆNYƆƆNYƆ BEI KOMƐI,No hewɔ ne wɔdwane mɔfra wanyanyan baako man.,0.8889,0.475
+666,Namɛi agbɛ́i aŋmaa yɛ “wala wolo lɛ” mli?,Namibia yɛalala.,1.0,0.5667
+667,ŊWƐIBƆFOI LƐ BƆƆ MƆDƐŊ AKƐ AMƐBAAHÃ ASAFO LƐ HE ATSE,Wabɔfoɔ yɛ bɔɔno aba ha asafo a ɛyɛ akyɛ.,0.9,0.5349
+668,“NYƐWÓA MIKƆƆŊTSO LƐ NYƐFƆ̃A NYƐNƆ”,Nyɛwoa nkɔnkɔyɛ foɔ anyɛ no.,1.0,0.4643
+669,WƆFƆLƆI JIE SUƆMƆ KPO AMƐTSƆƆ WƆ,Wɔ followes me poa me two,1.0,0.5185
+670,Kanemɔ Nyɔŋmɔ Wiemɔ lɛ daa gbi ni ojwɛŋ nɔ,Ka n monwowo gbe node.,1.0,0.7059
+671,HENYƐLƆI ENYƆ LƐ FEE EKOME KƐTSU NƆ KO HE NII,Hena loanok make tuma hen.,1.0,0.6389
+672,“Mɛi Ni Boɔ Bo Toi Lɛ” Yi Baaná Wala,"Menni bobue yi banaana mudam no,",1.0,0.6923
+673,GBƐFÃA KƐMIIYA KPEEI,bɛfa Kɛmaa yi?,1.0,0.5
+674,“WƆJI MƐI NI YƆƆ HEMƆKƐYELI NI HÃA ABAA AMƐWALA YI”,Wɔgye m'ani your himore ha aba a mewɔa yi.,0.9,0.55
+675,NAMƐI ESA AKƐ WƆJIE SUƆMƆ NI TSAKEEE KPO WƆTSƆƆ?,na me saa akɛwaje soɔme kyakwan.,1.0,0.5641
+676,SUSUMƆ NIBII KPAKPAI FƐƐ NI ETEE NƆ YƐ OSHIHILƐ MLI LƐ AHE,Suumo no bi papa fɛne no yɛ ɔhyeɛ no yɛ ahe?,0.8333,0.4894
+677,ASAFO LƐ NYIƐƆ YESU NANEMAAHEI LƐ ASƐƐ PƐPƐƐPƐ,awu asafo ani yi so na ne maheasɛaɛpɛpɛ,1.0,0.4359
+678,MƐNI BAATSƆƆ AKƐ MƆ KO JI MUMƆŊ GBƆMƆ?,Menni atake mokɔgye mo monom,1.0,0.6667
+679,Abo Amɛsɔlemɔi Lɛ Toi,"Abo ama solemn yɛ wei,",1.0,0.3889
+680,Kaakwɛ Kponɔgbɛ Okojo,Ka kɛkponɔgbewo kodzo. Ŋmalɛi kasema no.,2.0,1.0526
+681,MƐI AKPEKPEI ABƆ HU BAAYE AMƐHE,Me akpekpei abɔ hu baaye ame,0.3333,0.1538
+682,AJIE MI KƐTEE HE NI AWIEƆ BLƆFO YƐ,I mietee ayobrɔfo he.,0.875,0.5926
+683,ANI ESA AKƐ OKƐ LƐ AKPA NIKASEMƆ?,Anasia kɔ ke lapan kasamu,1.0,0.4231
+684,MƐƐ GBƐ NƆ SAJI NI NYIƐ SƐƐ NƐƐ HÃA WƆNAA AKƐ YEHOWA SUSUƆ MƆ HE?,Me gbe lɔ sadini sɛ ne ha wɔ n'akyea susu wɔ mɔ he.,0.8667,0.4
+685,"KƐ́ AKƐƐ MƆ KO HE JƆ LƐ, TE ATSƆƆ TƐŊŊ?",Ke akakojo.,1.0,0.7778
+686,NIBII KROKOMƐI NI AKƐ ANƆKWALE LƐ TOƆ HE,"Na bi kuromani aka no kaletɔ he,",0.875,0.3939
+687,"Mɛni hewɔ kɛ́ wɔtsake wɔsusumɔi koni ekɛ Yehowa nɔ lɛ akpã gbee lɛ, wɔbaaná he sɛɛ lɛ?",Mani hewɔhewɔ check-i susumɔnii hɔ a na wapa bee wɔbaana sɛɛ.,0.9412,0.4925
+688,"Kɛ́ Wɔmiitao Awo Wɔ Ŋaa Kpakpa Lɛ, Mɛni Esa Akɛ Wɔfee?",Te wɔtaoa ne nesaa aka wɔ fee. melanin kasema dam no.,1.0,0.7561
+689,Mɛni Yehowa fee ni tsɔɔ akɛ enuɔ he ehãa mɛi krokomɛi?,Me ne Yehowa fe ne choke me kokom.,1.0,0.5581
+690,NƆ NI WƆBAAKASE,Koko nnomaa bi mamenka woha,1.6667,1.3846
+691,Mɛni baaye abua wɔ ni wɔkɛ wɔjwɛŋmɔ atsu nii jogbaŋŋ be ni wɔkwɛɔ nibii ni yaa nɔ yɛ je lɛ mli lɛ?,Mani bayaa wɔde wɔteam akye no noba beni wɔ Kul no bi ne yɛagye.,1.0,0.5658
+692,YESU EFÃ WƆ AKƐ WƆSHIƐ NI WƆTSƆƆ MƐI NII,Yesu w'afa w'aka wash-i no wakyen,0.8889,0.5625
+693,"Bei pii lɛ, nyɛfãa gbɛ nyɛyashiɛɔ yɛ hei ni jekɛ waa. Ani gbɛfãi nɛɛ eko yɛ ni nyɛhiɛ kpaŋ nɔ kɔkɔɔkɔ?","Papa, nye faaba yɛ hene kyɛkweɛ ekɛnyɛɔ",0.9524,0.7089
+694,MƐNI YEHOWA FEƆ BIANƐ?,Mɛni yɛ hoa afi obia ne,1.25,0.2778
+695,YEHOWA BAAYE EBUA WƆ BE FƐƐ BE,Yi hoabaaba wɔbɛ fɛbi,1.0,0.375
+696,"“MAŊBII LƐ FƐƐ AKƐƐ AKƐ, ‘AMEN!’”",Ma bi efeee a me.,1.0,0.6364
+697,Asafoŋbii lɛ ateŋ namɔ baanyɛ awo enyɛmi hewalɛ?,Asafo bi a ten nam banya we nyemele,1.0,0.375
+698,Mɛɛ gbɛ nɔ fɔlɔi baanyɛ atsɔse amɛbii koni amɛsumɔ Yehowa?,"Megbe nɔ fɔle banye atsɔse mebii, Koni masumɔ Yehowa,",0.6,0.2292
+699,Mɛni Yehowa efee ni tsɔɔ akɛ lɛ ji “Ofe lɛ”?,emani Yehowa efee ne tsakɛ legal,0.8,0.375
+700,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sadi mɔni akɛtee. Te ɔbaa ha yɛ to wɔn atɛn.,1.8,1.2
+701,MIKASE NIBII BABAOO,kasɛe bi reba baa.,1.3333,0.5294
+702,Tsɔne lɛ ni minyɛmi nuu lɛ shi ehã wɔ lɛ,ne ani nyame nusiawo.,1.0,0.6129
+703,BƆ NI WƆBAAFEE WƆTSAKE WƆJWƐŊMƆ KONI EKƐ NYƆŊMƆ NƆ LƐ AKPÃ GBEE,"Bɔne wɔ baafi wakyɛke wɔ dwa mu, Konimo no apae.",1.0,0.5192
+704,"Mihã hetoo akɛ, “Dɔkita, miyɛ gbɔmɔtsoŋ hewalɛ, shi mihe miiye yɛ mumɔŋ. Esa akɛ akɛ mi akase Biblia lɛ.”",Me hataa miebɔbɔ tso hewalɛ.,0.9474,0.7625
+705,Mɛni Yehowa fee yɛ ekɛ Lot sane lɛ mli ni hãa wɔnaa akɛ Yehowa baa ehe shi ni enuɔ he ehãa mɛi?,Meniehoiafee yɛɛ kelot sanen they haa wɔ n'akyi Yehowa ba heheenuhɔhe ha me.,0.9545,0.3836
+706,Mɛni baaye abua wɔ ni wɔhe wɔye akɛ Yehowa kɛ wɔhe eshai lɛ eke wɔ lɛɛlɛŋ?,Mane baayia wɔn wɔ he wɔ yike yi waka wɔ yɛhyee.,0.875,0.5345
+707,Hã Osuɔmɔ Lɛ Aya Nɔ Afa Ni Eteke Nɔ,"a ɔsɔ mo ayɛ no afa ne taken. Malina emudɔ no,",1.1111,0.8519
+708,wɔsumɔɔ wɔhe waa?,Ele Wɔsumɔɔ hewɔa Lala ni,1.3333,0.7857
+709,BIBLIA MLI SHISHITOO MLAI NI HÃA WƆNAA AKƐ ESA AKƐ WƆTO WƆTSUI SHI,Bible no hyehyɛ too line a wɔn akɛ esaa ke watoto,0.9231,0.5
+710,Ani Osaa Ohe Oto Amanehulu Kpeteŋkpele Lɛ?,Ani osaa ɔhwɛ atoamanehunu peteplayɛ,0.7143,0.3143
+711,"Kɛ́ susumɔ ni wɔhiɛ yɛ saji ahe lɛ kɛ Yehowa nɔ lɛ kpãa gbee lɛ, mɛɛ gbɛ nɔ ebaasa bɔ ni wɔfeɔ wɔnii wɔhãa lɛ he?",kɛsumɔ no wɔ he nsayayareɛ yɛ ho anɔpa beyeanu asabɔne wɔ fie wɔ ne wɔ ha he.,0.9615,0.4941
+712,"a Amrɔ nɛɛ, wɔle lɛ akɛ Wɔshiɛmɔ Kɛ Wɔshihilɛ Akɛ Kristofoi—Kpee Nifeemɔ Wolo.",hyehyɛ baninaa Kaneaamrɔ ne wɔ lelakewɔhiam kɛ wɔhinii eKristo foibe nifeemɔ wɔ lohi gbɛnaa naagbee.,1.0769,0.7937
+713,NƆ HEWƆ NI NYƆŊMƆ EFOKO NAAGBAI NI YƆƆ JE LƐ MLI LƐ ASƐƐ,O,1.0,0.9773
+714,Mɛɛ gbɛ nɔ nibii ni Yesu na be ni eyɔɔ shikpɔŋ lɛ nɔ lɛ ye ebua lɛ ni ebatsɔ Osɔfonukpa ni nuɔ he waa ehãa mɛi?,"Mereba no ni bi no yɛ sabet na ɔgye ebuaa, bayoɔo no paninnie a, ɛha me.",0.9615,0.5765
+715,Nɔ Ni Yehowa Efee Koni Enyɛ Ehere Wɔ Kɛje Esha Kɛ Gbele Mli,Nɔ ni Yehowa efee koni nye Here wɔ Kedesh ke gbelme,0.5385,0.2128
+716,Mɛni hewɔ ŋulamiiaŋkwɛmɔ kɛ klamɔ nyɛŋ aye abua wɔ ni wɔle nɔ ni baaba wɔsɛɛ?,Mene hewɔna me nkwammɔketra mo ne ayɛ aboa wɔ ne ɔline babaawa se,0.9333,0.5
+717,ni esa akɛ esumɔ Yehowa waa?,Mianya,1.0,0.8182
+718,“NYƐKPAA NYƐTSUI NI NYƐYEƆ BABAOO LƐ”,Nye kanyen nyɛyabaa,1.0,0.5333
+719,NYƆŊMƆ BI NI ESUMƆƆ WAA LƐ BA SHIKPƆŊ LƐ NƆ,Na modine is wɔ wabaset no,1.0,0.6471
+720,ESA AKƐ WƆYE YEHOWA ANƆKWA DAA,saakyee nkwada,1.0,0.48
+721,Okɛ Onifeemɔ Atsɔɔ Akɛ Ole Yehowa,kɔhɔne fie mu akɔkoaa.,1.0,0.6786
+722,Ani Okɛ Yei Yeɔ Yɛ Gbɛ Ni Yehowa Kɛ Amɛ Yeɔ Lɛ Nɔŋŋ Nɔ?,"Ano keyii o, yegbe nieo ka miyinɔ nɔ Yenim wɔna yenishen safia bɔneyɛ amena",1.0,1.0976
+723,WƆKƐ SHIHILƐ KO NI MLI WA WAA KPE,"Wɔ kɛshi no go, ne mmeawa kpe.",0.875,0.3846
+724,NƆ NI ESA AKƐ OFEE DANI OKPƐ OYIŊ YƐ SANE KO HE,Na ne saa kɔɔ fie ɖanɔ kpɔ yi send kohi,1.0,0.4444
+725,“NYƐKƐ ANƆKWALE EFI NYƐHƐ AKƐ BƐLTI”,Nye kɛ anɔkwale efi nye he kebel,0.8333,0.2759
+726,Feemɔ nibii ni baahã ohemɔkɛyeli lɛ mli awa,Simon bi ni bahamama,0.875,0.6667
+727,Mɛni Yesu wie yɛ toowoo he?,Kuku kpa asane bi mu. Megbe nɔ Yesu hafi kɛtao nɔ yeli hegbɛ hɔn,2.1667,1.8571
+728,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,.,1.0,1.0
+729,Hejɔɔmɔ Gbi lɛ hã Israelbii lɛ ná hegbɛ kɛfee mɛni? Ni mɛni wɔkaseɔ yɛ mli?,edzɔm gbi le hã Israel bi yɛ na gbekɛ menne Meniwaa yɛ me.,0.8,0.4237
+730,NIBII NI ABAANYƐ AKASE,"Ma bini abanya case,",1.0,0.3158
+731,"Kɛ́ kaa ko miisu wɔtsui waa, ni no hewɔ lɛ, wɔnuɔ he akɛ wɔyafee kɛkɛ, loo akɛ, Yehowa bɛ wɔhe miishɛɛ lɛ, mɛni wɔbaanyɛ wɔfee?",Keka so water wa ne no ewɔna kyeaa kɛkɛ. lower ke ne abɛ wɔ ani hyɛ. mini wɔbaana fie.,0.92,0.5417
+732,Mɛni baaye abua wɔ ni wɔkaje anɔkwale lɛ he fiofio loo wɔtsi wɔhe kɛje he?,Me ne ayabua wo na wɔka gyankyini wɔ kadzi.,1.0,0.6271
+733,Okɛ Miishɛɛ Asɔmɔ Kɛ́ Nɔ Ni Otsuɔ Lɛ Tsake Po,kamina smoke no na two wɔ check-ee ni kasemɔ da mu no.,1.1,0.9429
+734,Mɛni hewɔ mɛi pii booo hiɛshikamɔ toi lɛ? Ni mɛni ejɛ mli kɛba?,KɔfiMiniwɔ mempoo etsiame ne menem no n,1.0,0.7143
+735,KƐ́ WƆTSƆƆ BE FƐƐ BE AKƐ WƆHE JƆ LƐ MƐƐ GBƐ NƆ WƆBAANÁ HE SƐƐ?,Ke wɔkyerɛw be far biako. megbe na wɔbaa hesi.,0.9333,0.587
+736,NƆ HEWƆ NI ESA AKƐ WƆSUMƆ WƆNYƐMIMƐI LƐ WAA,No hewɔ sayle What small nyemewɔa,0.8889,0.6286
+737,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,Sane biman gye kanea. ebi,1.0,0.4583
+738,"Tsakemɔ otsui, kpa nibii gbohii ni ofeɔ lɛ, ni ofee Nyɔŋmɔ suɔmɔnaa nii",Check-i moretain ofieof nomoso,1.0,0.7895
+739,"ANI ootao oyasɔmɔ yɛ he ko ni hiamɔ lɛ da yɛ, ekolɛ yɛ maŋsɛɛ, kɛlɛɛ osɔɔmɔ lɛ mli? Kɛ́ nakai eji lɛ, belɛ obaaná Nyɛminuu kɛ Nyɛmiyoo Bergame wala shihilɛ he sane lɛ he sɛɛ.",Ame otayaa yɛ akonam dakyeman Kelewele.,0.9714,0.791
+740,Mɛɛ gbɛ nɔ nibii ni Yehowa ebɔ lɛ baanyɛ aye abua bo ni ole lɛ jogbaŋŋ?,Megbe no ne bi ne Yehowae bɔɔ baayaaboabo no le lectal,1.0,0.4
+741,MƐNI HEWƆ EHE MIIHIA NI WƆKƐ YESU ABƆ NAANYO?,Mane hehia no wɔ kɛyabɔ n'ano.,1.0,0.4167
+742,Mɛni hewɔ atĩ wiemɔi komɛi amli shii abɔ yɛ Biblia lɛ mli?,Minaaa mamai bɔ yɛ bi blame. Yɛmfa yɛ meyɛnee wolokpo ɛdɛma bi ahene ne gyeehi,1.25,1.1087
+743,shwelɛi ni mɛi yɔɔ ni tɔmɔ ko bɛ he lɛ anɔ elaka amɛ?,Menyae nɔ setet file ni me yɔ nutɔmɔ ko beyinɔ elaka me,0.8462,0.625
+744,Mɛni Yehowa miisumɔ ni adesai fɛɛ afee?,"Mene yɛ ho ansa na adesae faafe,",1.0,0.4688
+745,ŊAA GBƐI ETƐ NI SATAN TSƆ NƆ ELAKA ISRAELBII LƐ,agbe yeeni setasen lakis very bie.,1.0,0.5263
+746,Nɔ ni wɔbaanyɛ wɔfee ni ehã ana akɛ Yehowa yɛ krɔŋkrɔŋ ni saji fɛɛ ni Satan ewie yɛ ehe lɛ ji amale.,Na no wɔbaana feene hã na kayiha kronkron Mesa game fansair yɛ hagaba,0.9545,0.5513
+747,AMƐTSWA AMƐFAI SHI AKƐ AMƐBAAYE YEHOWA HE ODASE,I'm a twaa me fii abaayewa are you ase.,1.125,0.5
+748,‘JALƐ YIBII AYIMƆ NYƐ OBƆBƆ’,Dale yibii ayi monyɛ.,0.8,0.3636
+749,YEHOWA TA MƐI PII ATSUIŊ,Yehowa ame pia.,0.8,0.45
+750,"Kɛ́ wɔshihilɛ tsake trukaa lɛ, mɛɛ gbɛ nɔ wɔbaanyɛ wɔkase Yosef?",Teasing no checke tro ga me ba no ɔbaayewa kasa Yosef,0.9091,0.549
+751,musuŋ tsɔ lɛ yɛ Lot he lɛ?,"Mosusu le, yɛ lot her. lala ne ataban",1.0,0.8947
+752,Mɛni wɔbaanyɛ wɔfee kɛtsɔɔ akɛ wɔhiɛ sɔɔ nii waa?,Mɛni baana wɔ fakear wɔ he sɔneba.,0.8889,0.5
+753,"KƐ́ ‘WƆTSI WƆBƐŊKƐ NYƆŊMƆ’ LƐ, WƆBAANÁ MIISHƐƐ",kɛ wakyewɔ bɛn ka nɔma wɔbaana me nhyɛ,1.0,0.4444
+754,Wɔbaakwɛ nibii ejwɛ ni hã Yesu shiɛ kɛ ekãa kɛ bɔ ni wɔbaafee wɔkase lɛ.,ɔbaako no bi yɛ aduane ha yɛ so hyiaa kɛbɔa wɔbaafee wɔ kasae.,0.9333,0.4737
+755,Namɔ Nɔ Ohiŋmɛii Jwere?,Namɔ Ohimaa Jermain ne kasema dam no,1.5,1.1579
+756,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sane bimini aketewia ha te,1.0,0.95
+757,Tsu Babaoo Yɛ “Naagbee Gbii Lɛ” Anaagbee Gbii Lɛ Amli,Tsu babaa yɛ na gbegbegbegbe no,0.8,0.5
+758,Mɛni hewɔ kpɔmɔnɔ lɛ ni Nyɔŋmɔ tsɔ Yesu nɔ ekɛhã lɛ ji nikeenii ni fe fɛɛ?,Me ne hewɔna ne nyimsa no ɛka a gye ne Kenine,1.0,0.6379
+759,Mɛni hewɔ eji esha kpele akɛ mɔ ko baafee gbekɛ ko niseniianii?,Mina w'agye plakas biasani,1.0,0.7255
+760,"Pam, wɔle akɛ bei komɛi lɛ ehe bahia ni oya faaŋ ni oshɛre la kɛhoo nii. Te ofee lɛ tɛŋŋ?",Pam wɔleee kumaabi oyaoya akane,0.95,0.6866
+761,Kanemɔ sɔlemɔ ko ni abɔ he amaniɛ yɛ Biblia lɛ mli ni osusu bɔ ni ebaaye ebua bo koni osɔle jogbaŋŋ lɛ he.,Kanesnani bi blame na osusu bɔne baaye paoku sɔle dogba,0.9565,0.506
+762,GBƐI NI SATAN TSƆƆ NƆ ELAKAA MƐI ŊMƐNƐ,Gbɛ ni Satan tsɔ nɔ elaka me ŋmene.,0.625,0.2258
+763,MƐI ENYIƐ YƆƆ SATAN KUDƆMƆ SHISHI?,Menye Yosia kudɔmɔ sisi;,0.8333,0.3929
+764,MIBANÁ HE MIISHƐƐ AKƐ MATSƆ MAŊSƐƐ SƆƆLƆ,Mbransɛm to manso.,1.0,0.7059
+765,BƆ NI OBAAFEE ONÁ MIISHƐƐ,Bɔ ni obaafee onam nhyɛ.,0.4,0.2381
+766,BƆ NI WƆƆFEE WƆNA KƐJI MUMƆŊ GBƆMƐI JI WƆ,Bɔne wɔ fie wɔ na kedzi momon be me dzi wɔ,1.1111,0.4242
+767,Okɛ nibii ni okaseɔ lɛ atsu nii oya nɔŋŋ,Wo kani bi ni okase atono.,1.0,0.5
+768,oye obua mɛi ni kɛ shihilɛi ni mli wawai miikpe lɛ?,Afite woyome kɛse lenne a a,1.0,0.825
+769,Kasemɔ Bɔ Ni Yehowa Fiɔ Shi Lɛ,kasemɔ bɔne yi ho afiase.,0.8571,0.3333
+770,"Wɔbaana nɔ hewɔ ni ehe miihia ni wɔhe wɔye akɛ Yehowa sumɔɔ wɔ, kɛ nɔ ni wɔbaanyɛ wɔfee koni nakai hemɔkɛyeli lɛ mli awa.",Wɔannwene ehihia no wɔ hewɔ yea kɛ Yehowa sumɔɔ wɔ Kenobanyewɔ fee koni akanemɔ kɛ yeli mleawo,0.8333,0.2812
+771,Mɛni yeɔ ebuaa wɔ ni wɔnyɛɔ wɔyaa nɔ wɔtsuɔ shiɛmɔ nitsumɔ lɛ?,"Me ne yebuo, na wɔnyɛ wano wohyɛ mu no kwam",1.0,0.58
+772,"Mikase Mɛi Kpakpai, Ni No Hã Nyɔŋmɔ Jɔɔ Mi Waa",Nkasa mepapa ne dowand me wɔ a.,1.0,0.6111
+773,MƆ NI GBA JI MARTIN WITHOLT,Mɔnii Martin without,0.8333,0.2273
+774,YEHOWA EDRO BO NANEMƐI KPAKPAI,Yehowa aduro bo nane me kpakpa.,0.8,0.1923
+775,"Wɔbaakwɛ nɔ ni Yakob wie yɛ Ruben, Simeon, Levi, kɛ Yuda he be ni eshwɛ fioo ni ebaagbo lɛ kɛ nɔ ni wɔbaanyɛ wɔkase yɛ mli.","Wɔ baako no no yɛ kɔbie yɛ ruben Simeon, Levi, the Yuda he benefi ne ebaagbo. na wɔbaanyiɛ",0.7692,0.383
+776,MƐƐ GBƐ NƆ WOJI NI PETRO ŊMALA LƐ WOƆ WƆ HEWALƐ NI . . .,"Sane bimini a kɛteɛ wɔmli. Megbe na wogyina trolla wɔ wɔ hewalɛ ni,",0.8333,0.8462
+777,MƐƐ GBƐ NƆ KƐ́ OBA OHE SHI LƐ NO BAAYE ABUA BO NI OFEE MƆ KO NI . . .,naateere no a obahasi no baayia abonim koni anyɛ am,0.9412,0.6522
+778,"Kɛ́ mɔ ko sɛndi wɔ e-mail loo tɛs mɛseji, aloo wɔmiitao wɔsɛndi eko lɛ, mɛni hewɔ esa akɛ wɔsusu he jogbaŋŋ?",Tekunɔ Email lotes message. alo wɔ me nto Washing they go Mensakwaa,0.9524,0.6386
+779,“OKƐ OKLANTE LƐ AWO ETOOHE”,o kwolaa awu do he,1.0,0.5238
+780,Yehowa Nii Ji Wɔ,Yehowa ne ngye wɔmene kasema no.,1.25,1.3077
+781,"Kɛ́ wɔwu wɔshi mumɔi fɔji lɛ, mɛɛ jɔɔmɔi wɔbaaná?",Ke wɔ wo wɔhimaa mɛdwan wɔ baanaanaa.,1.0,0.6316
+782,YE OBUA MƐI NI AMƐBATSƆMƆ KRISTO KASELƆI,"Yobab me, na meba kyɛ mo Kristo kaseɔ.",1.0,0.3824
+783,"“ATAA, WO OGBƐ́I LƐ HIƐ NYAM”","Ataa, wogbɛ he nyam.",0.6667,0.3
+784,MƐNI HEWƆ BEI KOMƐI LƐ WƆNIJIAŊ JEƆ WUI LƐ?,Mɛni hewɔ bakoma yɛ wɔ ne gyaneɛ wuiɛ.,0.7778,0.3529
+785,"Kɛ́ yoo ko wu kwɛɔ ponografi lɛ, mɛni yoo lɛ baanyɛ efee?",Koko wo ko no grain banye fie.,0.9167,0.5116
+786,Kaahã “Je Nɛɛ Mli Hiɛshikamɔ” Lɛ Laka Bo,Kaahã je nɛɛ ni hekaka,0.625,0.4839
+787,MƐƐ GBƐ NƆ WƆBAANYƐ WƆYE WƆBUA WƆ-BIBLIA MLI NIKASELƆ LƐ NI ENA NƆ HEWƆ . . .,Mɛboaboa belame kaselɔ ni nanow,0.9286,0.614
+788,MƐI NI WƆBAANYƐ WƆKASE AMƐ,M'ani wɔ baanyɛ wɔ kasa me,1.2,0.1818
+789,"Kɛ́ wɔsɔle wɔhã mɛi lɛ, mɛɛ gbɛ nɔ no baanyɛ aye abua amɛ?",wɔ hama mɛba no no banaya.,0.9231,0.6279
+790,"Kɛ́ wɔtee shiɛmɔ lɛ, mɛni nɔ titri esa akɛ wɔkɛ wɔjwɛŋmɔ ama?","Ka wo tense mu, me ne nɔtetresaake wɔ ka wɔ dwan mu ama.",1.0,0.4043
+791,Mɛɛ gbɛ nɔ Yesu ná bɔ ni Yehowa fiɔ shi lɛ he sɛɛ?,Megbe no Yesu na bɔne yɛ ha feɔ ɛhe sɛ,0.9231,0.4054
+792,“WƆYA NƆ WƆKƐ EKÃA KƐ MIISHƐƐ ASƆMƆ”,Woya nɔ wɔkekake misheɔ,0.8571,0.3929
+793,OKƐ OTI KO AMA OHIƐ,Okɛ Otiko ama ohi.,0.6,0.0667
+794,"Okɛ onyɛmɔ fɛɛ miisɔmɔ Yehowa bianɛ, tamɔ bɔ ni okɛ onyɛmɔ fɛɛ sɔmɔ lɛ be ni odako tsɔ lɛ, no hewɔ lɛ nɔ ko tsakeko kwraa",Sane nanaynan kɛ onyim fie som yi ho bi a ne tamɔ ne kɔ ɔnyim some beni dakoo na ewɔ no kɔkyak,1.0,0.6277
+795,Mɛɛ gbɛ nɔ bɔ ni Nyɔŋmɔ kɛ Kanaanbii lɛ kɛ Israelbii ni yeee lɛ anɔkwa lɛ ye ehã lɛ hãa wɔnaa akɛ eyeɔ jalɛ sane?,Megbe nobɔ nyimbo kekaa bii kesraelbi ni ye le nkwagye ehãa hã wɔ naakyi dzale sane.,0.88,0.4091
+796,OKƐ NANEMƐI KPAKPAI ABƆ,kanania kpaa.,1.0,0.5
+797,"MƆ NI GBA JI LEON WEAVER, JR.",Mone,1.0,0.8095
+798,Mɛni mɛi komɛi ni awie amɛhe yɛ Biblia lɛ mli lɛ fee kɛtsɔɔ akɛ amɛhiɛ sɔɔ nii?,Mɛni mɛkan awieɛ a mayɛ bi baa mafee kɛtwa amɛhiɔ.,0.9412,0.4677
+799,"Abɛkugbɛ: WORD redio steshɛŋ lɛ antɛna lɛ yɛ Batavia, Illinois",Samena ma yɛnfoni yɛka ne akabulea station antena yɛ buta Elo.,1.0,0.8431
+800,Bɔ Ni Mɛi Ni Ekpalaŋ Lɛ Ateŋ Mɛi Komɛi Nuɔ He Amɛhãa,Wɔn mani kplamɔ menya,1.0,0.6829
+801,Mɛɛ gbɛ nɔ nibii ni Yesu tsɔɔ mɛi lɛ ye ebua amɛ ni amɛhe akatsɛ̃ mɛi?,Mɛɛba no ne bi no yɛ sukyerɛmma yi bua me ne amɛhakakyɛme,1.0,0.4717
+802,WƆFÃ KƐTEE MAŊ KROKO NƆ,"Wɔfa ketee ma nkuro ko no,",1.2,0.2632
+803,WƆKƐ YESU BAABƆ NAANYO KƐYA NAANƆ,Wɔ Keyes baabɔ n'ankaa no.,0.8333,0.3571
+804,"Yehowa jɔɔ Simeon waa; ehã ena Yesu be ni afɔ lɛ lɛ, ni egba akɛ Yesu baatsɔ Mesia lɛ",na yɛahunu yɛ hike. Yehowa Joson waa. a nayese bi ne afonabaa Yesu baakwa,0.9474,0.7077
+805,WƆTSƆƆ NYƐMIMƐI HII NII YƐ AMƐ DIƐŊTSƐ AMƐWIEMƆ MLI,Wɔatwa nyame mehini yamediankyi amewe mmre,1.0,0.5116
+806,wɔsumɔ wɔnyɛmimɛi Kristofoi lɛ “waa”?,Wɔsum wɔ Nyame meincristofoɔ yi wɔ a.,1.4,0.3333
+807,MIKU MISƐƐ KƐTEE WOJI AKALAMƆHE LƐ,"Nkosie wogyaam he,",1.0,0.6552
+808,NYƆŊMƆ ŊMƐ GBƐ NI NIBII GBOHII BA HIOB NƆ,Nyɔŋmɔ mɛgbɛ n'ani bi bɔhi bail no.,0.8889,0.303
+809,Te wɔbaafee tɛŋŋ wɔtsake mɛi ni wɔji yɛ wɔmligbɛ tɔ̃ɔ lɛ?,wɔbaafee wɔkyɛke nu wɔgyi yome bɛtɔ,0.9091,0.5333
+810,"Kɛ́ wɔnu asafo lɛ loo nyɛmimɛi ni nyiɛ hiɛ lɛ ahe sane fɔŋ ko lɛ, mɛni esa akɛ wɔfee?",foniwo asafo onyame nihia hisan ponko hɔ. many esaa,0.9474,0.5938
+811,SHIƐLƆI NI YƆƆ EKÃA,"Shɛla ni yɔɔ aka,",0.5,0.3125
+812,KAAHÃ NƆ KO NƆ KO FITE OMIISHƐƐ,Kaa no kɔ no kɔ fitaeɛ,1.0,0.56
+813,"Wɔbaana nɔ ni Yehowa efee kɛye ebua wɔ koni wɔwu wɔshi esha ni wɔfee nɔ ni sa ehiɛ, kɛ gbɛjianɔ ni eto koni wɔye emuu ni wɔhi shi kɛya naanɔ.","Wɔ Baana nɔ ni Yehoifiekeye bua wo, koni wɔ wuwoshiehyia ne wɔfee nɔ ne sɛ heke gbe dzi nɔ nito koni wɔyi mu newɔ his ka naan",0.8333,0.2909
+814,Namɔ he odase wɔyeɔ? Ni mɛɛ odase wɔyeɔ yɛ ehe?,"Na mo hedae wɔ yi, ne madaase wɔyɛe.",1.0,0.4167
+815,Sanebimɔi Ni Jɛ Kanelɔi Adɛŋ,Sane biman gye kanea.,1.0,0.4583
+816,AMƐBANU SANE KO NI HE HIAA WAA LƐ SHISHI,Ame ba nu sane ko ne yɛhia wahyehyɛ.,1.0,0.4062
+817,owo nyɛmimɛi ni egbɔjɔ yɛ hemɔkɛyeli lɛ mli lɛ hewalɛ?,we nyɛmnyɛme mli,0.9,0.7045
+818,Mɛni ji nibii komɛi ni wɔbaanyɛ wɔfee kɛshɛje mɛi ni ehao lɛ amii?,Me ne yini bi kɔ m'aniwa baayewa fie kɛseɛ yemana ame,1.0,0.4528
+819,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Me nage no efi mo paa. Di,1.4,0.8
+820,YAA NƆ ODA FOI LƐ EKƆƆƆ HE EKO NAAGBAI NI OKƐBAAKPE,Yaano Oda fowee gbanaa.,0.9091,0.5854
+821,Obaanyɛ otsu onia shi kome loo ohã atse shika abɔ ko ni otsɔɔ lɛ daa nyɔɔŋ nɔ ni akɛfi nibii ni nyiɛ sɛɛ nɛɛ asɛɛ:,obaanyɛ ɔtooni si kome loo hã atisika bɔɔni otwaanyi kɛ fine bi ne nyɛnaa.,0.88,0.4157
+822,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Piman akɛtɛ mee.,1.0,0.9
+823,OKƐ ONYƐMIMƐI KRISTOFOI LƐ ABƆ NAANYO,"Okay, Onyame Christo yɛ abɔ no ano.",1.0,0.4375
+824,KASEMƆ YEHOWA TSUJI NI TSƆƆ AKƐ ABAANYƐ AMU AFƆ̃ AMƐNƆ LƐ,Casimu yɛ hoatwerene to akɛ abaayaa me no.,0.9091,0.5217
+825,Mɛni ji nibii komɛi ni baanyɛ aye abua wɔ ni wɔna kɛji esa akɛ wɔtsake yiŋ ko ni wɔkpɛ?,Me ne yini komai baayaa wɔn wɔ nakea ewae yɛnkunu,0.9474,0.5441
+826,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sare bi me na akɛtee.,1.0,0.9
+827,Mɛɛ nibii esa akɛ wɔfee koni wekukpaa ni yɔɔ wɔ kɛ Yehowa teŋ lɛ mli awa?,amman birsa kywekywe,1.0,0.7895
+828,Hã Hemɔkɛyeli Ni Oyɔɔ Yɛ Mɔ Ni Bɔ Nibii Fɛɛ Lɛ Mli Lɛ Mli Awa,ahemɔkɛyeli yoon bɔne bi fɛlawa,1.0,0.5106
+829,NAMƆ BAANYƐ AHÃ WƆNÁ MIISHƐƐ LƐƐLƐŊ?,Na mo ba nya haw na me nhyɛ le le.,1.6667,0.4667
+830,"Suɔmɔ Yesu, Shi Kaasumɔ Lɛ Fe Yehowa",Suɔmɔ yɛn su sheame,0.8571,0.5862
+831,KPEEI NI MITEE YƐ MIGBEKƐBIIASHI,Wei ne meteeɛ mebɛka.,1.0,0.5714
+832,“NYƐSUMƆSUMƆA NYƐHE WAA”,Nyɛsumɔsumɔa nyɛ hewa,0.6667,0.05
+833,Ehi Hã Wɔ Akɛ Wɔbaasumɔ Wɔnyɛmimɛi Lɛ Waa!,Yɛhia wɔaka wɔ basma nyamewa a.,0.875,0.5
+834,‘Mɛi Ni Yeɔ Yehowa Anɔkwa Lɛ Yɛ Miishɛɛ’,M'ani gye yɛ ho anɔkwa yɛ me nhyɛ. mmaani no kasamu a ɔda mo no.,1.75,1.0
+835,Mɛni hewɔ ehe miihia ni wɔfee wɔnyɛmimɛi Kristofoi lɛ gbɔ?,Mene wɔ hemia no wɔ fie wɔ nyame man Kristofoɔ yɛ gbɔ.,1.1,0.3125
+836,"Gbalɛ Abaabua “wiiti lɛ” naa awo ‘nitoohe lɛ,’ ni abaahala “nyɔŋ anɔkwafo kɛ hiɛshikalɔ lɛ” ato Nuŋtsɔ lɛ ‘webii lɛ’ anɔ. Abaashiɛ Maŋtsɛyeli lɛ he sane kpakpa lɛ “yɛ shikpɔŋ lɛ nɔ fɛɛ.”",Abaabua witin na wo ne the ne abaaha la nyo anɔkwafo kɛ hehea lɔ ato nuŋtsɔ we biianyɛ mankyia hesaa ɛhyeɛ.,0.8485,0.4752
+837,HIOB KƐ SHISHITOO MLAI KPAKPAI TSU NII YƐ BE NI HI KƐ BE NI EHIII FƐƐ MLI,Ti tsiome kpakpai keenii fɛɛ.,0.8824,0.6491
+838,Ani okane Buu-Mɔɔ srɔtoi ni ba afi nɛɛ jogbaŋŋ? Kwɛmɔ akɛ obaanyɛ ohã sanebimɔi ni nyiɛ sɛɛ nɛɛ ahetoo lo:,Ani okani bumu nso tɔ ani ba afiri ne ajoba Kwameanson bi moanimnyɛ sɛ ne hetoo.,0.95,0.4762
+839,NƆ NI WƆ FƐƐ WƆBAANYƐ WƆFEE KƐYE WƆBUA,None wɔ fie wɔbaanyiɛ wɔ boa.,0.875,0.4516
+840,NIIASHIKPAMƆ KO NI MAA NƆ NI WƆTSƆƆ LƐ NƆ MI,Ahikam nima n no wɔ wɔn no,1.0,0.5429
+841,YAA NƆ OKASE BIBLIA MLI GBALƐI LƐ,Yaano kase bibla ne gbalẽ yie.,1.0,0.3333
+842,ewo mɛi hewalɛ ni amɛkɛ amɛhe awo jeŋba sha mli?,Megbe anɔ SitetsɔEwòme hewɔe na mike miawo dzi masa,1.0,0.9211
+843,Te wɔɔfee tɛŋŋ wɔná tsɔsemɔ ni atsɔseɔ wɔ yɛ asafo lɛ mli lɛ he sɛɛ jogbaŋŋ?,Te fetareaaseeheareaas sara.,0.9375,0.7833
+844,YESU FIII KUI NI MIITAO HEYELI LƐ ASƐƐ,Yesu fi kɔ yi ne me ntaw heyeli ase.,1.0,0.3871
+845,MƐƐ GBƐ NƆ ŊMALƐI NI NYIƐ SƐƐ NƐƐ BAANYƐ AYE ABUA FƆLƆI KONI AMƐWA AMƐBII LƐ NI AMƐSHƐ BAPTISIMƆ HE?,Megbe nwanneɛ ne bayayaaya mewɔa me bi na mehyɛ Baptisimɔ.,0.95,0.55
+846,"Kɛ́ wɔbaa wɔhe shi lɛ, mɛni esa akɛ wɔyɔse yɛ wɔ diɛŋtsɛ wɔhe?","Ke wo ba wayeyie, manyake wɔ yɛse yɛwɔ deɛ nti ɛwɔ yi.",1.0,0.4468
+847,Gbalɛ Yehowa baatsu ‘etsulɔ lɛ’ ni ‘eyasaa gbɛ’ dani ato Mesia Maŋtsɛyeli lɛ shishi. Kuu ni baasɔmɔ akɛ tsulɔ lɛ ‘baajaje sane kpakpa lɛ amɛhã mɛi ni he jɔ lɛ.’,"Yehowa baato to lanisagbe, ɖana tomeanhehi. Kune Baasaakɛtsu lɔba sanekpakpa mehan hedo.",0.9667,0.5041
+848,MƐƐ NIBII NI WƆBAANYƐ WƆFEE KƐSAA WƆHE WƆTO YIWAA ATSƆƆ YƐ ŊMALƐI NI NYIƐ SƐƐ NƐƐ AMLI?,Sane bi mu na ketimi no wɔ Banifakɛsa wɔ wɔto yi wa akɔ yɛnani nyɛ sɛ nam,1.0,0.5571
+849,Nyɛkase wiemɔi pii. Ani eji nyɛdromɔ keenɔ?,"Nyɛ kasae man pii, Adekyeeɛ dromo no,",1.0,0.4571
+850,ANÁ KOOYIGBƐ MAŊTSƐ HEE,Anako yi bɛ mankyɛ he.,1.25,0.35
+851,"Okɛ Ohiɛ Afɔ̃ Yehowa Nɔ, Ni Ebaahã Oná Miishɛɛ",Sainurokom'ani fata he. Okunafo Yehowa no de ba ho na nhyɛ.,1.1111,0.8889
+852,"MƐNI KƐ́ MIFEE LƐ, NO BAATSƆƆ AKƐ MIITAO NI AWO MI ŊAA?",Mɛɛma,1.0,0.878
+853,Mɛni baaye abua wɔ ni wɔtsu babaoo yɛ Yehowa sɔɔmɔ lɛ mli?,Me nim bayaa wɔnuwo um baba yɛ Yehowa somm Lala ni akɛbaa na,1.0,0.587
+854,YEHOWA TSƆƆ WƆ GBƐ,Yi woatsɔ wɔ bɛ,0.75,0.3333
+855,ANI KOOYIGBƐ MAŊTSƐ LƐ BAAYE WUOYIGBƐ MAŊTSƐ LƐ NƆ KUNIM?,Anigyebea,1.0,0.8298
+856,"Wɔbaakase nɔ ni Yesu fee be ni ena ni aaye mɛi sane ni ejaaa lɛ, kɛ bɔ ni wɔbaafee wɔkase lɛ.",Wɔ baase no no yes free benyini ayɛ mensane megyaa bɛbɔ no wɔ baafi wakase,1.0,0.3803
+857,FEEMƆ NIBII NI BAAHÃ OKƐ OHIƐ AFƆ̃ YEHOWA NƆ WAA,Fa mo ne bi ne ba hal ka hiafoɔ yehohanan waa.,1.0,0.4211
+858,Mɛɛ gbɛ nɔ Yesu hã ekaselɔi lɛ le Yehowa gbɛ́i lɛ?,"Megbe no Yesohaia,",1.0,0.7105
+859,Mɛɛ be esa akɛ ‘wɔtsɛ asafoŋ onukpai lɛ’?,Mɛbisa ke watchers no paa.,1.0,0.6452
+860,NYƐMIMƐI LƐ JIE MLIHILƐ KPO AMƐTSƆƆ WƆ WAA,Nye me magye miele ame to wɔ ho a.,1.0,0.6
+861,BƆ NI MƐI NAA AMƐHE AMƐHÃA,Bɔ ne man na maheama,0.8333,0.4286
+862,YEHOWA JƆƆ MƐI NI KPƐLƐƆ EYELIKƐBUAMƆ LƐ NƆ LƐ,Yehowa dzɔ mani pɛlɔ yelikɛbuamɔ no;,0.8889,0.3158
+863,Bɔ Ni Mɛi Krokomɛi Baanyɛ Aye Abua,"Sagenkuroko m'ani fata, bɔne maakuro ayi aba.",1.0,0.8571
+864,Mɛni wɔbaanyɛ wɔfee kɛwo mɛi krokomɛi hewalɛ?,Me ne wɔ baayewa fie ke wò me kuro kome hewalɛ.,1.4286,0.3421
+865,Nikasemɔ nɛɛ baatsɔɔ mɛi ni miikwɛ mɔ ko ni egbɔ loo mɔ ko ni bɛ hewalɛ lɛ nibii komɛi ni amɛbaanyɛ amɛfee koni amɛmiishɛɛ akatã.,Mekasɛm no ebaakwa koni bɔ look ni bɛyɛ waen bi ekɔmenu mmaayea kuna memmisa akata.,0.96,0.5385
+866,WO GBALASHIHILƐ HIƐ NYAM KƐ́ OKƐ NAAGBAI MIIKPE YƐ OGBÃLA LƐ MLI PO,Wogblẽ senea ke okana nipa gbana,1.0,0.6667
+867,NƆ NI WIEMƆ NI JI GBƐ́I LƐ TSƆƆ DIƐŊTSƐ,Na ne yemu ne dzi gbe tsɔ ɖe dzi.,1.0,0.6667
+868,"wɔbo amɛ toi jogbaŋŋ, ni wɔkɛ wɔhe wo amɛshihilɛ mli. Enɛ baabi ni wɔbɔ mɔdɛŋ wɔnu amɛ shishi, ni wɔkwɛ jogbaŋŋ ni wɔkawie amɛhiɛ.",Wɔboa me to do gbana wɔawaewae hene le me. baaboɔ ɔmo de hɔ no a mehyehyɛɛ no wɔ awia mee.,1.0,0.5534
+869,Mɛɛ nibii nɛkɛ wɔbaanyɛ wɔfee kɛtsɔɔ akɛ wɔnuɔ he wɔhãa mɛi ni wɔshiɛɔ wɔhãa lɛ?,Menni bi nake ɔbaayewa wɔ naɛwɔ ha me ne wɔsoaa,1.0,0.5846
+870,Bɔ Ni Nyɛbaafee Nyɛto Nyɛyookpeemɔ Lɛ He Gbɛjianɔ Koni Ewo Yehowa Hiɛnyam,Bɔne nyɛ bafan tonogo Konohian.,1.0,0.6452
+871,Omusuŋ Atsɔ Bo Yɛ Mɛi Fɛɛ Ahe,omoso akyɛ bo yɛ me fɛ a he?,0.8571,0.3913
+872,KAADAMƆ AFII ABƆ NI MƆ KO EYE LƐ NƆ OKOJO LƐ,Ka adammoa abɔ ne mokɔyi no kodzo lɛ.,0.8182,0.4412
+873,Mɛɛ nibii krokomɛi wɔbaanyɛ wɔfee koni Nyɔŋmɔ mumɔ lɛ akudɔ wɔ yɛ nibii fɛɛ mli?,Menni bi korokuma wɔ baanyɛ wɔ fie Konimo akodoɔ ani bi fam.,1.0,0.4462
+874,Mɛɛ sui baaye abua wɔ ni wɔtsɔmɔ mɛi ni abaanyɛ ahe amɛ aye ni amu afɔ̃ amɛnɔ?,1 MMSOIBYaboa wɔn wɔtaan baanahi ne Amoafoa no.,1.0,0.55
+875,“MIHÃ AMƐLE OGBƐ́I LƐ”,ha Amegbe,1.0,0.625
+876,MƐNI HEWƆ NI EHE MIIHIA NI WƆHE WƆYE AKƐ YEHOWA KƐ WƆHE ESHAI LƐ EKE WƆ LƐƐLƐŊ?,Mene we yiha no yɛ wayakawo kewɔ lele.,1.0,0.6613
+877,Mɔ Ni Gba Ji Maxim Danyleyko,"mɔne agye Matim danee ko,",1.0,0.4348
+878,ANI ABAAŊMA OGBƐ́I YƐ “WOLO LƐ” MLI?,Anabano gbɛi yɛ wolo mli.,0.5714,0.2692
+879,Mɛni Yesu fee ni tsɔɔ akɛ ekɛ ehiɛ fɔ̃ɔ Yehowa nɔ? Ni mɛɛ gbɛ nɔ wɔbaanyɛ wɔkase lɛ?,Many years firi ne takeach ho ano na maba no wanwae,1.0,0.6406
+880,HÃ OJWƐŊMƆ KƐ YEHOWA NƆ LƐ AKPÃ GBEE,Ha odwan makɛyɛ ho ano akpa gbe.,1.0,0.4138
+881,TE YEHOWA KƐ YEI YEƆ EHÃA TƐŊŊ?,Toa ayeyie,1.0,0.7083
+882,YEHOWA MIISUMƆ NI WƆHE WƆYE WAA AKƐ EKƐ WƆHE ESHAI EKE WƆ,Yehowa sumɔ ne wɔ hewɔe wɔakɛyɛ wɔ esia ake wɔ.,0.8333,0.3043
+883,KLƐŊKLƐŊ MƐI NI YE AMƐHE,Cline m'ani yie amee.,1.0,0.6
+884,ANI MIBI LƐ ENU NIBII ASHISHI JOGBAŊŊ?,Mane me bilee ni bi aseye.,1.0,0.6129
+885,NÁ JWƐŊMƆ NI JA YƐ NIBII NI OSƆLEƆ YƐ HE LƐ AHE,Na dwamangyaeɛ no bi na sɔlee.,1.0,0.5833
+886,Mɛni ji “nibii ni he hiaa waa” lɛ ekomɛi?,Benyin bi ni yi. hawk.,0.8889,0.6333
+887,YAA NƆ OKƐ ONYƐMƆ FƐƐ ASƆMƆ YEHOWA,"Yino okawe mofaso yi ho a,",1.0,0.5714
+888,“MINÁA MIISHƐƐ . . . YƐ JƐMƆI AMLI”,"na menhyɛ yɛ gyama,",0.8,0.6087
+889,"Kɛ́ o-Biblia mli nikaselɔ lɛ batsɔ shiɛlɔ, ni ena bɔ ni Yehowa yeɔ ebuaa lɛ koni enyɛ etsu nitsumɔ nɛɛ, no baahã ekɛ ehiɛ afɔ̃ enɔ waa fe tsutsu lɛ po",Kɔ bilam n'ani kaselɔ akyɛseɛ ne n'abɔn yɛhaya nanye tontuma kɛhoa woafuo,1.0,0.5826
+890,KASEMƆ YEHOWA TSUISHITOO LƐ,Kasamu hoahoa,1.0,0.625
+891,SAJI KOMƐI NI BAAYE ABUA BO NI ONA KƐJI ESA AKƐ OYA NƆ OHIƐ TSƆNE,Sagei um ni bayaboabo no nakasa kɔɔ yɛ no here.,0.9333,0.4902
+892,Namɔ Osumɔɔ Ni Ohiɛ Aba Nyam Yɛ Ehiɛ?,"Na mo som ne ohia ba nyam yi heman kasemɔ da no,",1.375,0.7241
+893,Bɔ Ni Yehowa Miisumɔ Ni Asafo Lɛ Kɛ Mɔ Ko Ni Efee Esha Ni Yɔɔ Hiɛdɔɔ Lɛ Aye Ahã,Bɔ ni Yehowa mɔ ni asafo ɛmoniafiehyia no your hedo ayi aha.,0.7368,0.4426
+894,YAA NƆ OWO MƐI ŊAA NI OBO ŊAAWOO TOI HU,Yaa nɔ wo menua nobo a wɔto ho.,0.8,0.4
+895,TE WƆBAAFEE TƐŊŊ WƆKASE ŊWƐIBƆFOI LƐ NI . . .,"Twa bafei wɔ kasa mu bɔfoe, ne",1.0,0.5152
+896,YEHOWA NUƆ NII ASHISHI,"na mron ahyehyɛ. Koko,",1.0,0.9474
+897,"Be ni David fee esha lɛ, Yehowa kɛke lɛ kwraa. Mɛni wɔbaanyɛ wɔkase yɛ mli?","M'ani David fie ahyia, yɛ Okɛ la koraa, me ne wo banyɛkyi",0.9333,0.4828
+898,WƆKU WƆSƐƐ KƐTEE AFRIKA,Wɔko wɔ sɛ kɛtee Africa.,1.0,0.15
+899,Mɛɛ gbɛ nɔ obaanyɛ oye obua ni atse Yehowa gbɛ́i lɛ he?,Megbe nɔ baanyɔ yioa na tse yewoagbe a,0.9167,0.4286
+900,EHE EYE AKƐ MƐI KOMƐI KƐ̃ BAABO LƐ TOI,Ɛhe eyakɛɛ balɔti,1.0,0.5517
+901,MƐƐ GBƐ NƆ WƆ KƐ YEHOWA FEƆ EKOME KƐTSUƆ NII KƐ́ . . .,"Kuku dwasanbimu, Manifeyearsto me yɛ linking yi. Na me bi repapae wɔ hɔ.",1.1818,1.2703
+902,Hã Naanyobɔɔ Ni Yɔɔ Okɛ Onyɛmimɛi Lɛ Ateŋ Lɛ Mli Awa Dani Naagbee Lɛ Aba,anano bɔne yawo ka nya memmane awɔ dan naagbee aba.,0.8667,0.4655
+903,"Mɛni kɛ́ wɔfee lɛ, ebaaye ebua wɔ ni wɔna akɛ Yehowa shwɛɛɛ wɔhe?",Me nakewo fiɛbbu ɔno hɔ na kayiha shɛɛ wɔ.,1.0,0.52
+904,ESA AKƐ WƆNÁ HEMƆKƐYELI AKƐ NYƆŊMƆ BAAKWƐ WƆ YƐ HELOŊ GBƐFAŊ,Esaa kɛ wɔ nahimla ke mnamɔbaako wɔ yɛ helon be fan.,0.9091,0.38
+905,Mɛɛ jɔɔmɔi mɛi ni baaya nɔ amɛ Yehowa lɛ baaná?,"""M'adwene m'ani bae no ama yɛ ho a bana Lanka mu na.",1.2,0.7027
+906,"Wɔbaana akɛ Kristofonyo ni eda yɛ mumɔŋ lɛ jwɛŋɔ tamɔ bɔ ni Nyɔŋmɔ jwɛŋɔ, efeɔ nibii ni Nyɔŋmɔ sumɔɔ, ni ekpɛɔ yiŋ kpakpai.","Wɔ banar, Christophe dayɛ mu more dwanam bɔne nwomdua ɛfie no bi ne nwumsumɔ. ne ɛpaepae",1.0,0.5306
+907,Bɔ Ni Obaafee Okɛɛ Yehowa Nɔ Tuuntu Ni Yɔɔ Otsui Mli,Bɔ ne wo baafee kare Yehowa nɔ tuo tumi yitso lɛ.,0.8182,0.381
+908,KƐ́ AKƐƐ ‘WƆHÉ’ ANƆKWALE LƐ TE ATSƆƆ TƐŊŊ?,"Ke akawɔ he nokware, tɛn.",1.0,0.5806
+909,wɔyaawo mɔ ko ni biko wɔ ŋaawoo lɛ ŋaa?,Waamuni bi wɔ wɔn a wo na,1.0,0.5333
+910,‘YAA NƆ OPƐI OMLI OKWƐ’,Yaa no opemu,0.8,0.5882
+911,“Kooyigbɛ Maŋtsɛ Lɛ”​—Yɛ Naagbee Be Lɛ Mli,Kɔ yigbe makɛyɛ naagbelemɔ,1.0,0.4375
+912,Mɛni wɔleee yɛ mɛi ni ejaaa lɛ ashitee lɛ he?,Mani wɔ la yɛ m'ani gyaa Ashitey he.,0.9,0.4
+913,MƐNI NƆ ADAMƆƆ ATSƆƆ MƆ NI KOOYIGBƐ MAŊTSƐ LƐ JI KƐ MƆ NI WUOYIGBƐ MAŊTSƐ LƐ JI?,Me ne no ada moahomano yi gbe mankyɛke mɔnuwo yigbe manyi,1.0,0.5079
+914,MƐƐ FOIDAMƆ HE PAULO WIEƆ LƐ?,Me foidamɔ palo.,0.8333,0.4783
+915,"“Kɛ́ Migbɔjɔ Lɛ, No Moŋ Mináa Hewalɛ”",Ke gbɔdzɔ no monae.,0.8571,0.5926
+916,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,baneinkɛtem. tobaa hethat,1.0,0.85
+917,Nɔ ni ji etɛ: Yehowa jamɔ lɛ ni wɔbaahã ehe ahia wɔ fe nɔ fɛɛ nɔ yɛ wɔshihilɛ mli,ɔne gye tɛYehoagyeamo no wɔ baaanahi wɔ fenɛ no yɛ wɔhyɛne,0.8947,0.4839
+918,Jɛɛ Otsuiŋ Oba Ohe Shi Ohã Yehowa,Gye otiri woba ohiahia Yehowa womele ne ne kasema,1.2857,1.0
+919,YEHOWA TSƆƆ WƆNYƐMIMƐI KRISTOFOI LƐ ANƆ ESHƐJEƆ WƆMII,Yehowa kɛ wɔ nyɛ menristofuano ɛhyɛ Jew me.,0.875,0.4565
+920,OHIƐ ASƆ YEHOWA KAIMƆI LƐ DAA,Wo hia asokaa.,1.0,0.6667
+921,TE NIBII ANAA BAAYAKPA AHÃ TƐŊŊ?,Tene biaaban,1.0,0.6538
+922,Mɛɛ gbɛ nɔ Boaz kɛ Rut jie suɔmɔ ni tsakeee kpo? Ni te wɔbaafee tɛŋŋ wɔkase amɛ?,Megbe nɔ boasetɔ anihaw.,0.9412,0.7581
+923,‘NYƆŊMƆ KƐ EJALƐ NINEJURƆ LƐ HIƐ MIMLI’,Nyɔŋmɔ kɛ egale draw him,0.7143,0.4839
+924,Hã “Ogbɛ́i Lɛ He Atse”,Haban ne kasema,1.0,0.8
+925,“EKOLƐ YEHOWA BAANA MIMANEHULU LƐ”,Ekle Yehowa ana me ma nehuu,1.0,0.2857
+926,YEHOWA HÃ MIBALE ANƆKWALE LƐ,Yehowa malean kwae.,0.8,0.3333
+927,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sane bi moena ketem line.,1.0,1.0
+928,wɔmli ahi ahã mɛi ni eje kpa lɛ?,bua wɔnni wɔ mli ahiã hã me,1.0,0.8333
+929,SƆLEMƆ OHÃ YEHOWA NI OBO LƐ TOI,Salomo Noble toe.,1.0,0.6
+930,YE OBUA AMƐ NI AMƐKƐ ASAFO LƐ ABƆI BƆƆ EKOŊŊ,Yeboah me na mekasa fa abɔ bɔko.,1.0,0.4286
+931,nibii eyaaa lɛ jogbaŋŋ yɛ wɔgbalashihilɛ mli?,Ni bi eya le dzogbe yewɔ gblẽ ashi hele mli.,1.2857,0.3684
+932,Ani okane Buu-Mɔɔ srɔtoi ni ba afi nɛɛ jogbaŋŋ? Kwɛmɔ akɛ obaanyɛ ohã sanebimɔi ni nyiɛ sɛɛ nɛɛ ahetoo lo:,ne kane bo more srotoi ne baafi na adubako anyɛwa no bi ma no nyɛ sɛ ne a yɛtoo,1.0,0.5
+933,Mɛɛ gbɛ nɔ kooyigbɛ maŋtsɛ lɛ ebote “shikpɔŋ ni ji Fɛfɛo Nɔ lɛ” mli?,Mma gbe nɔ ko yi gbe mankyɛke noli.,0.9286,0.6346
+934,"Kɛ́ mɔ ko miitao eyahi he ko koni ehefatalɔ lɛ ahi he kroko lɛ, mɛɛ ŋaawoo esa akɛ esusu he?",Kokofu.,1.0,0.9143
+935,"Kɛ́ mɛi wie wɔhe amale wiemɔi lɛ, te wɔbaafee tɛŋŋ wɔkase Yesu?",Kemeni wɔ amalei myedia ten wɔ kasa so.,1.0,0.5714
+936,MƐNI HEWƆ ESA AKƐ NYƐHÃ NYƐYOOKPEEMƆ LƐ AWO YEHOWA HIƐNYAM?,"Mene wasatena nyɛ yoko, awɔ ho ahenni.",1.0,0.5918
+937,HÃ YEHOWA KƐ BO ATSU NII,a,1.0,0.9474
+938,Ye Obua Mɛi Ni Ehao Lɛ,"Bie obua meni ehawo, ene kasemɔ",0.8333,0.8235
+939,WƆKƐ MIISHƐƐ MIIKPA WƆYIWALAHEREMƆ LƐ GBƐ,Wɔ kɛ menhyɛ wo wura hereoe,1.0,0.6111
+940,Mɛni kooloi afɔlei ni Mla lɛ bi ni Israelbii lɛ ashã lɛ hã ana?,Manilla mla bini Israel bi ahyɛ ha na.,0.9286,0.449
+941,“Ekɛ Eshai Ni Afee Yɛ Blema Lɛ Ke”,ekɛtsi ne afe yɛ blaak.,0.875,0.4
+942,NAMƐI BAANYƐ ASHƐJE MƐI NI AFEE AMƐ NISENIIANII LƐ AMII?,Na me baanyɛ ahyɛ gye m'ani afi me ne sɛ nea ne ame.,1.2,0.4783
+943,"Kɛ́ akɛɛ abaatee mɛi ashi “kɛya wala mli” lɛ, te atsɔɔ tɛŋŋ?",li. Ka ka abaate me asikɛawo alali,1.0,0.5682
+944,WƆTSƆSE WƆBII LƐ NI WƆKƐ WƆHE WO SƆƆMƆ NITSUMƆ LƐ MLI,Wɔtwa sɛ wɔ biiɛ na wɔka wɔ hewɔ oman tumani.,1.0,0.3953
+945,KASEMƆ PAULO MUSUŊTSƆLƐ LƐ,kasemɔ Paulo mo so nkyɛ,0.75,0.3913
+946,Mɛni okase yɛ Maŋtsɛ David sane lɛ mli ni baanyɛ aye abua bo ni ole Yehowa jogbaŋŋ?,Mene kase yɛ mankyɛ dabisa ni m'ani banyababono Leya,0.8824,0.4697
+947,WƆTSƆ REDIO NƆ WƆSHIƐ WƆTSƆƆ MƐI BABAOO,Wɔtɔn radio no wɔshiɛɔ kyerɛ me babaa.,1.0,0.4242
+948,TSI OBƐŊKƐ O-NYƆŊMƆ NI SUMƆƆ BO WAA LƐ,Shebania nwumsumɔ boa.,1.0,0.6333
+949,Mɛɛ gbɛi anɔ Yehowa toɔ etsui shi ni etsɔɔ wɔ bɔ ni wɔbaafee wɔtsɔse wɔ diɛŋtsɛ wɔhe?,Megbe yana yewoatre train ne kyɛw wɔ bɔne wɔ afei watese wɔ deɛ nkyɛ wɔ yi.,0.9412,0.4706
+950,MƐNI BAAYE ABUA BO NI OFEE NIBII NI NYIƐ SƐƐ NƐƐ?,Me ne bayaboabonɔfie ne bi ne nyɛsɛɛ?,1.0,0.3947
+951,Namɛi ji “mɛi fɛɛ” lɛ ni akɛɛ ajaje mɔ ko ni efee esha lɛ yɛ amɛhiɛ lɛ?,Na me ngye mefa ne aka akagokoniafie hyia yamee.,1.0,0.6346
+952,KOOYIGBƐ MAŊTSƐ LƐ KƐ WUOYIGBƐ MAŊTSƐ LƐ MIIYA NƆ AMƐMIISHISHII AMƐHE,Kooyigbɛ makyɛkyɛ yanama mee.,0.9091,0.6271
+953,Mɛni tsirɛɔ wɔ ni wɔkɛ anunyam ahã Yehowa?,"Me ne turo wɔ, na wɔka no nyama ha yi a.",1.25,0.4118
+954,BLEMABII LƐ HU WO MƐI HEWALƐ,Bli ma bi ho wɔ me hewalɛ.,1.0,0.3478
+955,“Mi Diɛŋtsɛ Matao Migwantɛŋi Lɛ”,Medi nkyɛma nguantenmma ne kasɛm no,1.2,0.8462
+956,Mɛni hewɔ esa akɛ wɔhiɛ asɔ nibii ni Yehowa feɔ kɛtsɔɔ akɛ esumɔɔ wɔ ni ekwɛɔ wɔnɔ lɛ?,Ekpee,1.0,0.9412
+957,"Wɔbaana nibii ni kɛ́ wɔfee lɛ, ebaahã kɛ́ awo wɔ ŋaa lɛ, wɔná he sɛɛ jogbaŋŋ.",wɔ Banana bi ni ka wɔ feɛnkaawowɔn a wɔn hesed,0.9375,0.4737
+958,Mɛni hewɔ ehe miihia ni wɔhe wɔnyɛmimɛi lɛ wɔye?,damena hehia wɔ hewɔ nyɛmɛ,1.0,0.5641
+959,BƆ NI WƆBAAFEE WƆWO MƆ KO ŊAA KƐ́ EBIKO WƆ PO,Bɔne wɔ baafee wɔ wɔ mu kona kebbikowɔ bo.,1.0,0.2353
+960,NƆ HEWƆ NI MƐI PII HEEE AMƐYEEE AKƐ NYƆŊMƆ NI BƆ NIBII LƐ,nohe wɔ ne man pii heame yie aka nyɔŋmɔ ni bɔ ni bi yɛ,0.7692,0.2667
+961,MƐNI OKƐSHÃ AFƆLE YƐ ANƆKWALE LƐ HEWƆ?,Me nukala wɔ.,1.0,0.7419
+962,EHÃA WƆNAA AKƐ WƆHE YƐ SƐƐNAMƆ,Eha wɔ n'akɔyɛ sana,1.0,0.44
+963,Namɛi Agbɛ́i Yɔɔ “Wala Wolo Lɛ” Mli?,Na me gbe yɔ wòlolo.,1.0,0.5385
+964,"Bi ohe akɛ, ‘Ani miwiemɔi kɛ minifeemɔi woɔ minyɛmimɛi lɛ hewalɛ? Kɛ́ nyɛmimɛi lɛ tsɔ amɛwiemɔi kɛ amɛnifeemɔi anɔ amɛwo mi hewalɛ lɛ, ani minaa?’",Bio hia ka Anwiem wɔatim wɔ wɔn nyamele nye me tsɔ ame wiemɔ kamine manama,0.96,0.6087
+965,Mɛɛ nibii etɛ esa akɛ ana yɛ nɔyelɔ loo nɔyeli ko he dani akɛɛ akɛ eji “kooyigbɛ maŋtsɛ lɛ” loo “wuoyigbɛ maŋtsɛ lɛ”?,Menni bi yɛ te esaaa yɛ no elolo yiliyidan akakai kooyigbɛ mante low yigba.,0.913,0.4667
+966,“YEHOWA SHIŊ EWEBII LƐ”,Yehowa hene wɔ bie.,0.75,0.3889
+967,Obaanyɛ Oná Miishɛɛ Yɛ Ogbɔlɛ Beiaŋ Po,Obaanyɛ nyɛyeee ni kasamude mo no.,0.8571,0.6875
+968,Wɔbaanyɛ Wɔye Wɔhe Nɔ Kɛ́ Wɔnu He Akɛ Wɔyafee Nɔ Ko Ni Yehowa Sumɔɔɔ,obaanyɛ wɔ yi wɔ he no? toroko ka no yɛ hoaa.,0.9286,0.5926
+969,Ani polisifoi ewa mi yɛ bɔ ni mikudɔɔ tsɔne lɛ mihãa lɛ hewɔ?,Ani polisifoɔ yi wɔ mu yɛ bonkoɔre ha a yɛwɔ,0.9231,0.5
+970,Mɛni ji suɔmɔ ni tsakeee?,Hahirot Mani,1.0,0.8
+971,Sane Ko Ni Baahã Oná Hiɛnɔkamɔ trati lɛ,"Yamfo no yɛ ne yɛ, wɔna sane ni baanan kamaranima mayɛnnyɛ kanea kasae ne baa ho na nkataeɛ.",2.125,1.7812
+972,NƆ NI PAULO KƐƐ ASAFO LƐ AFEE BE NI NYƐMI NUU LƐ TSAKE ETSUI,Nnipa loka asafo afei beni nyame nnua checkee.,0.9286,0.4043
+973,Kaahã Esha ‘Laka’ Bo,Sane Kokomanifata yi. Kaa ha ahyia lack bo.,1.75,1.6667
+974,NIBII NI YEHOWA EWO SHI AKƐ EBAAFEE EHÃ WƆ WƆSƐƐ LƐ BAANYƐ ASHƐJE OMII,Na bi ne Yehowa wɔ sua ka baafee ha wɔ wasan ahyɛ gye omii.,0.8571,0.4211
+975,ANI OKAIƆ?,Sande bi mu ani akɛtee. okay,2.5,2.125
+976,OKƐ NYƆŊMƆ MLAI LƐ ATSƆSE OHE,kɛnyiɛ atsɔ see,1.0,0.4583
+977,"Shi be ni Arthur shɛ tsũ lɛ yiteŋ lɛ, ena akɛ enanemɛi komɛi yɛ jɛmɛ momo. Amɛteŋ mɔ kome ni atsɛɔ lɛ Frank Johnson lɛ gbee foi kɛba eŋɔɔ ni ebi lɛ akɛ, “Ani ohiɛ kakla yɛ ohe?”",Shi beni ata hyɛ kyɛ teɛ enaanaa ne makuma yɛ gyeene komane atale frank Johnson befee bɛhono ebi lake. Anhia kakra yɛ o,0.8421,0.4925
+978,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,.,1.0,1.0
+979,WƆSƆMƆ KƐ MIISHƐƐ YƐ NIGERIA,Wɔsom market mehyɛɛ Nigeria,0.8,0.4583
+980,WƆKƐ WƆHIƐ FƆ̃ YEHOWA NƆ BE NI WƆTSUƆ BE FƐƐ SƆƆMƆ NITSUMƆ LƐ,Wɔka wɔ henfoɔ yewoano ban wɔ tɔn bi fi so ama no do.,1.0,0.5417
+981,AMƐKPA MƐI KOMƐI NI YEEE JALƐ SANE LƐ AHE MAMA,Ame ka me kɔ me ni ye gyaene ahemaa.,1.0,0.4595
+982,"KASEMƆ NYƆŊMƆ WIEMƆ LƐ JOGBAŊŊ, TAMƆ PETRO FEE LƐ",kasa mu nwumre mu jogbaŋtamopatro fie.,1.0,0.425
+983,Obaanyɛ Oná Miishɛɛ Diɛŋtsɛ,Obaana menhyɛɛ deɛ nkyɛ. Malani ni kasemɔ da mo no.,2.5,1.1667
+984,Mɛni esa akɛ ofee dani abaptisi bo?,Me nsa kɔfena baptism,1.0,0.4643
+985,‘Tsɛ Asafoŋ Onukpai Lɛ’,"Kyɛ asafo onua, Malani ne kasema mo no.",2.0,1.1111
+986,Yaa Nɔ Ohã Nyɔŋmɔ Mumɔ Lɛ Atsɔɔ Bo Gbɛ!,Yaano hanom mumu atsɔ bobe.,1.0,0.4
+987,"María, ni atsĩ etã yɛ nikasemɔ lɛ mli lɛ, wie akɛ: “Broshuɔ nɛɛ hã mina akɛ, Yehowa sumɔɔ mi, ni eesumɔ ni mahi emasɛi daa.”",Maria nakyene kasamu mewie akɛ. Brush na ɛha nnaakyen simon mahama,0.96,0.5543
+988,KASEMƆ YEHOWA KƐ YESU,kasamu yɛ hoa kɛ yi so.,1.25,0.3333
+989,"OKƐ OJWƐŊMƆ AMA AMƐSUI KPAKPAI LƐ ANƆ, NI OKƐ AMƐTƆMƆI AKE AMƐ","Okay, wo dwan mu ama amasai kpakpa yɛ ano. Ne okamaa me.",1.0,0.46
+990,TE OBAAHÃ HETOO OHÃ TƐŊŊ?,Sane bemoan aketewo,1.0,0.85
+991,OKƐ OJWƐŊMƆ AMA FOIDAMƆ LƐ NƆ,okɛ odwamamfoɔ da mo no.,0.8333,0.4167
+992,NYƐMIMƐI LƐ JARA THE FINISHED MYSTERY LƐ,Nyɛ mma agyira the finished Mistry,0.7143,0.3235
+993,"Marie-Line: Akɛni wɔtoɔ wɔnibii ahe gbɛjianɔ jogbaŋŋ hewɔ lɛ, kɛ́ wɔyashɛ shi lɛ, wɔnyɛɔ wɔjeɔ wɔsɔɔmɔ lɛ shishi amrɔ nɔŋŋ.",Akane wɔtoɔ ne bi a egbadzi no dzogbeawo hyehye ama,0.95,0.7347
+994,Yaa nɔ otao Maŋtsɛyeli lɛ klɛŋklɛŋ,Yanana linli,1.0,0.7241
+995,Yosef kɛ Benyamin,Yosef ka bɛnyaman,0.6667,0.2
+996,"KƐ́ “AMANEHULU KPETEŊKPELE” LƐ FƐ LƐ, MƐNI BAABA?",Ka ma ne hu petee play fair. me ne baaba.,1.125,0.4054
+997,"Mɛni hewɔ ehe miihia ni wɔyɔse akɛ nitsumɔ be yɛ, ni hejɔɔmɔ be hu yɛ?",Mene wɔ aheyia no wɔ Yosia kɛ ne tumo bɛyɛ ne edwam ho yɛ. Na a ne akɛbaama,1.2,0.6667
+998,BUU MƐI KROKOMƐI AKƐ AMƐNƆ KWƆLƆ FE BO,Bo wo me nkuro kuma akɛ ame nokoro bo.,1.0,0.5484
+999,Wɔbaana nɔ hewɔ ni ehe miihia ni wɔsɔle wɔhã mɛi krokomɛi kɛ bɔ ni wɔbaafee wɔfee nakai.,Wɔannya no wɔ solace Kabon wɔbaafee wɔfee nagya.,0.8824,0.5915

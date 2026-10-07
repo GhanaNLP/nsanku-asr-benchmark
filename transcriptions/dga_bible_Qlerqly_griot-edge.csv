@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Ka maa bare ba ne a kɔŋ ka ba kulo, ba na yĩĩe la a sobiriŋ, bonso, ba mine yi la tentɔbɔ a wa.",Kamara ne akɔ kabakaba ba mine yi la tontobɔ a,0.75,0.5
+1,"Yɛ puoro korɔ te meŋ a yɛ puoruu poɔ ka Naaŋmen yuo sori ko te ka te moɔle a Kirista yelsɔglaa na eŋɛ N naŋ be a nempagdie poɔ, ka ka N na toɔ̃ manne a weliweli ka a sãã a seŋ N naŋ na manne a lɛ.",Ye purore me ayɛ purpo kana mu no osɔrekote karima kristo Yerusa na ŋa nnan be anampa diepoɔ ka kantaman welee ka asaa asenaman lɛ.,0.8958,0.3973
+2,"A Yeezu naŋ da gɛrɛ Gyɛruzɛlɛm, O da kpɛ la a teŋkponni ane a tembilii poore a kanna a noba gɛrɛ.","Eye zu nana ge ɖe dzeɖuzalan, woɖakpe ateke ni ane Atimbiliipuore akana anoba gɛrɛ.",0.9048,0.3467
+3,A Naaŋmen Bagmaale Wederebɛ Nembɛrɛ Zusoba Naŋ Soore Yeezu Soorebie.,a,0.9,0.9828
+4,"A yelderebɛ naŋ yi a be naŋ da wa woŋ a te yɛlɛ, ba da yi la Apeyo Daa Poɔ ane Teree Taavens ka ba tuori te.",Ɛyɛ diriba nda yi abe na da wawoateyɛla bɛ dayi la apao daa poɔ a ne tiri tabini ka bɛ tuuri ti,0.8148,0.3
+5,"Azuiŋ, yɛ ta daŋ di sɛrɛɛ kyɛ ka a saŋ ba ta; kyɛ ka a Daana waabo naŋ ba ta sɛre.",Aso yɛtaadi sara kyɛka bata yɛkane na bata sare.,1.0,0.4407
+6,"O naŋ da wa pɔge te a Azɔ poɔ, o da kpɛ la a gbori ka te gaa Mitelen.",Ona da wɔ Pauline a asuo odeaba te gaa mitili,0.7895,0.5102
+7,"Ba da lɔɔ o la bare ka o sigi wa a teŋɛzu, a lɔɔ a o malekere meŋ poɔ o eŋɛ.",Baalwo labareka Usia amakuo eŋa,1.0,0.5741
+8,"Ka a toŋkpeɛne ama naŋ toŋ fo poɔ, da toŋ Sodom teŋɛ poɔ, o da na kyɛnɛ bebe la wa ta zenɛ.",Ka tokpane ama nantofp datoodomtena poɔ ɔdanyane beela awɔtɔn,0.8636,0.3731
+9,"Azuiŋ, yɛ tɔglɔ Naaŋmen yɛ naŋ waa O poyɛŋ biiri, a taa nɔmmo aŋa lɛ a Kirista naŋ da nɔŋ te lɛ, a de O meŋɛ tere ka ba maale ne bagre naŋ nyuuro noɔ Naaŋmen zie.",Aso yetwa na ŋu ne yɛ na wo ɔponba mo anaa arisandand mereka bababa nanyo na ni.,1.0,0.5984
+10,"A banaŋ naŋ da zo yaare da yi yoɔrɔ la, a moɔlɔ a yelbiri.",ɖe,1.0,0.9767
+11,"N poyɛŋ noba, nɔpaalaa naane ka N sɛgrɛ korɔ yɛ, kyɛ a nɔkoraa na yɛ naŋ da taa yi a piiluu saŋ la.",Mpoano la.,0.9565,0.9054
+12,"” Ka Yeezu da yeli, “Yɛ e ka a noba zeŋ teŋɛ.",yɛdalana dataa zaa daa turi nu la la ka ye idea boroboro a puori na ŋmaara kyɛ de poŋ a noba naŋ daa.,1.8182,2.1
+13,Wola pãã ka a weɛ soba na e a wɛkaareba ŋa?,Wole paa kawona awareba n,1.0,0.4688
+14,"Ba naŋ wa te kpeɛrɛ a die, ba da nyɛ la a bie ne O ma Mareya, ka ba da gbi dumo a puori O ne emmo, kyɛ yuo ba woore a ko O kyɔɔtaare; salema, ensɛnse ane turaali.",Banawa te kpe adie ba a nyɛla a bie niŋ o ma maria ka ba da gbidumo a puori o ni mothey ba wuhiri akɔtata salima nsansia turaali,0.641,0.2966
+15,Ona la boɔrɔ ka neɛzaa nyɛ faabo a kyɛ wa baŋ a yelmeŋɛ.,lala brakes nye abo atswaa yilima.,1.0,0.5814
+16,"O naŋ da wono tuo, O da ba yeli yɛlɛ tɔ dabeɛ̃ eŋ neɛzaa; kyɛ O da dɛle la a soba na naŋ maŋ di sɛrɛɛ ne mennoŋ.",Onana wo no tuoee ye le tɔ dabi enyima zaa kyɛ ɔdaale la asoma nam ma di sare ne me no.,0.8571,0.3951
+17,"O naŋ da wa ta a mane noɔre, O da nyɛ la nembeɛoŋ ka ba nembaaloŋ kpɛ O yaga, ka O da saŋ a ba baalba.","Ɔnam dɛ watetɛ Amannor, o daa nyɛla ni biakabaniŋ baaloŋ kpabiya ka woda san aba baala.",0.9231,0.3514
+18,"A Yeezu pãã da leɛ soore ba la, “Yɛ buo soba la ka o bie bee o naadɛre na le bulee poɔ a pɛnnoo bebiri daare ka o koŋ page iri o a bulee poɔ?",Eye Isu a adadeɛ so reba Yebusua la ka bie be o naara le bulee poɔ a pɛne bebree daare ka kumpa iru a bulee poɔ,0.6286,0.3173
+19,Pɔɔl Naŋ Puori A Filipae Deme Yaane.,"Paulo nansa kɔ afilia tenee Filipi, G.",1.0,0.6897
+20,"Bonso, ba da ba sage de a banaŋ zaa naŋ da wa yeli a O kuuni poɔ leɛ-iruu yɛlɛ ko ba.",Bonso ba daba sa di aban zaa na da wayiko pole Iriya la kaba,0.8095,0.3387
+21,” Ba da do la a sazu a zunzugri poɔ ka a ba dɔndɔnne da kaara ba.,Mada do la sazu aduntire poɔ kaa ba dɔndɔn daara.,0.6875,0.2766
+22,"Serɛzaa, a ba fere ka te de danseɛ gama wa ne yɛ zie, bee a de kaŋ yi yɛ zie, aŋa ba mine naŋ maŋ e lɛ, bee a ferɛɛ la?",Sra abafra de danseɛ gama wɔn yɛsie bee Adzekai yesi anaba mine na ma Ele be afrɛ a.,0.8065,0.3095
+23,"Ka maa de n boma zaa poŋ ko nembaalba, a de n eŋɛ tere ka ba nyege vũũ poɔ ka ka N na toɔ̃ duoro n meŋɛ, kyɛ ba taa nɔmmo, N koŋ nyɛ tɔnɔ zaa.",kamandee zaa po kunabaa adze nyɛ tere ka bɛ nyige vuu pua ka ka nature meŋ kyɛ ba taa nom nkonya tɔn zaa.,0.75,0.3529
+24,"Kyɛ a saŋ Naaŋmen naŋ da kaa-iri ma sɛre kyɛ ka ba wa dɔge ma, O poɔ da pɛlɛɛ la ka O tu O garaaseɛ zie a boɔle ma, a iri a O Bidɔɔ wuli ma, ka a lɛ e ka N moɔle O yɛlɛ a Nemboore-yobo poɔ.",Taanak Imarkm ɔdaa ka utagalamsey poɔ.,0.9583,0.7941
+25,"Kyɛ a ŋaa la ka yɛ mine da waa, kyɛ ka ba da pɛge yɛ.",anyankamade wɔ sɛka atalia,1.0,0.6757
+26,"Ba naŋ da laŋ ũũ yɛ ne O a suobu poɔ, lɛ meŋ la ka ba e ka yɛ ne O leɛ-iri a yɛ yeldeebo yɛ naŋ taa a Naaŋmen kpeɛ̃õ zuiŋ, O naŋ da e ka a Kirista leɛ-iri yi a kũũ poɔ.",Ba nandaan ŋu yɛ ne o asobuo le me la ka ba e keenlYe yɛnntaa ŋuti zonal Irey akuo.,0.8182,0.5714
+27,"Ka fõõ meŋɛ soore o, fo na nyɛ la ka a yɛlɛ zaa te naŋ yeli kyaare ne o waa la a lɛ.","kafum sure o, ƒunanyalaka aelay litsin wala le.",0.9565,0.5333
+28,"“Daana, a piiluu saŋ, fõõ la iri a teŋɛ.",Apiate.,1.0,0.7857
+29,"Bebie ata puoriŋ, a Pɔɔl da boɔle la a Gyuumine nembɛrɛ naŋ da be a be lantaa.",Baabiara tepoore Apalo dabo ne na dunia ne brɛnde be a be la taa.,0.8824,0.45
+30,A Maleke Na Naŋ Taa A Ganlee Yɛlɛ.,Ir wu la gazu pia.,1.0,0.8846
+31,Nɔmmo maŋ taa la teɛretɔroo ne yelzaa kyɛ maŋ di kannyiri ne yelzaa.,Na momentatter tɔri zaa tsema keyii ni Yeza.,1.0,0.5273
+32,"N naŋ da wa nyɛ O, N da le vɔgle la muro O gbɛɛ puliŋ a waa ŋa neɛ naŋ kpi.",Nna a wanya wɔ ne levage puliŋ,0.9524,0.6604
+33,"Ba da te nyɛ la a yaa noɔre kuuri ka ba billi bare, kyɛ ba naŋ da te kpɛ a yaa poɔ, ba da ba nyɛ a Daana Yeezu eŋɛ.",Baatan laa noari ka ba biliary baandae pɛ ayaa pua ba daba nya ada no yesina.,0.9,0.3976
+34,"A Yeezu naŋ da wa nyɛ a dɔɔ baala ka o gaŋ a be, kyɛ ka O da baŋ ka o gaŋ la a be ka a kɔɔre, O da soore la a dɔɔ, “Fo boɔrɔ la ka fo nyɛ laafeɛ be?",eye dzi nanawo nye adɔ ba la ka o gaŋ abe tse ka o daba o gaŋ la a be ka a kɔre o dasore la a dɔɔ ba boɔrɔ la ka fanyɛ laafeɛ,0.5238,0.2157
+35,"Ba e la a teŋɛzu noba, lɛnso ka bon ba naŋ yele waa a teŋɛzu yɛlɛ, ka a teŋɛzu noba pãã maŋ kyɛllɛ wono ba yɛlɛ.","Ba ela atiŋu noba la sikaboa naŋ yele waa atiŋu, zina paa ma kyɛ le o naba yɛla.",0.8077,0.3929
+36,"Lɛ la ka o da boɔle o a soore o, ‘Boŋ la ka N wono kyaare ne fo ya?",Gala ka Oda boa no asoro be la ka ŋu nɔ tsa foa,0.8421,0.4565
+37,"Yɛ kaa a Izerayɛl biiri nyɛ; a banaŋ naŋ maŋ di a Naaŋmen bagmaale boma, ba ba maŋ waa a Naaŋmen bagmaalkuuri laŋne deme be?",Yɛka Israelbii nye: Abaana man di anaa munanom babaawa anamuna bamaku la ne din be,0.92,0.4227
+38,Kyɛ N na ko la a N dansediribe bayi naŋ su boɔre kparre kpeɛ̃õ ka ba yeli Ŋmen-yelmanna yelyelii bebie turi dɔgle kɔɔraayi ne lezaata.,Tsina kola ndandribebai nanso bore kpare pia ka ba yi ŋun yɛli ma na yeliyeli bebe turi dɔglaa ne la zaa.,0.96,0.3458
+39,Te sɛgrɛ la a yɛlɛ ama ka ka a te kyelloo na paale.,Te sɛ relaaya la ama kaka atete na paale.,0.6923,0.2632
+40,ka ba da de O do ne sazu ne puubu.,Ka berade done sauna,0.9,0.4167
+41,"Bonso, neɛ naŋ da waa gbaŋgbaa kyɛ ka ba boɔle o a Daana eŋɛ, so la o meŋɛ a waa a Daana soobo aŋa neɛ naŋ da so o meŋɛ a saŋ ba naŋ da boɔle o ka o leɛ a Kirista gbaŋgbaa lɛ.",bonso mienana wɔaboaboa boa lo adan no nyɛ sola omena adan no so bɔ ananad so omena asabaa dabol ka o leɛ atrial,0.8636,0.4651
+42,"A pɛnnoo bebiri kaŋ daare Yeezu naŋ da kyɛnɛ te tu kyi weɛ poɔ, a O potuuribo da kɔɔ la a kazuri mine a ŋmeɛnɛ ne ba nuuri ɔɔrɔ.",Apeno bebreek no daare yee zu nan da kyɛnɛtutukyiwiɛ poɔ na opotuuribo dakogla ka zuri mine a ŋuna ne ba nuuri ɔre.,0.7586,0.2143
+43,"Yɛ gu yɛmenne yi a nensaal-baare zie, a gu yɛmenne yi a yelfa-erebɛ zie, a gu yɛmenne yi a banaŋ naŋ maŋ kyerɛ noba eŋgama zie!",Yego Yemen ane salaries akyeman yi ayera Erbi aguaman yi Banana mankyerɛ no ma nam zi.,0.9231,0.4227
+44,"Azuiŋ la ka ba yeli: “Gɔŋgbire, iri!",Azu la ka ba yeli.,0.4286,0.5
+45,"Pampana te ba de a andonɛɛ vooroŋ, kyɛ te de la a Vooroŋ na naŋ yi Naaŋmen zie, ka lɛ vɛŋ ka te na toɔ̃ baŋ a kyɔɔtaare na Naaŋmen naŋ ko te.",ampa datobade a andone voro yɛtete avoo no na yi na mindzi kaleven katentoaban akyɛre na naaman kote,0.8485,0.3524
+46,Bebie yaga ka te da mɔŋ a gbori bale bale a da di dɔgɛɛ kyɛ te ta Sinidu.,Dabiara yara kate daman agboi balibali dedidi akyɛ teta send,1.0,0.3636
+47,"” A daadaalɛ ka a bie saa ŋmɛ kpɛlle a yeli, “N sage deɛ la, soŋ a n yeldeebo naŋ ba seŋ bon.",Ka yesua kafuna toyizie a koni zaa nansa dɛ adaadaa la kaa bie saa ŋmɛ kple ayi sadila sɔŋ aŋedi bi namba sem,1.0,0.8636
+48,"Kyɛ pampana ŋa, N yele korɔ yɛ la ka yɛ nyɔge yɛmenne, bonso yɛ kanzaa koŋ wɛ, ka a gbori yoŋ naane.",pampala nyikan nane.,1.0,0.7867
+49,"Kyɛ a Gyuumine da erɛ la nyuuri, ka zɔɔŋmareba mine naŋ da be a daa poɔ da wa poɔ ba poɔ a soŋ ba ka ba da dɔ̃ɔ̃ a teŋɛ.",Tsia dumeadeɛ la nyuuri ka zuɣu ŋmaariba mine meŋ naŋ da be a daa poɔ daa poɔ ba poɔ a soba ka ba da dɔɔ a te,0.4333,0.2644
+50,"Kyɛ o naŋ da woŋ ka Akyilɔ la leɛre o saa Hɛrɔde zu a di a Gyudiya naaloŋ, a Yuzɛb da zoro la dabeɛ̃ ka o gaa a be.",Ka o namda wuhi ka Atilɔ la leri o saa hardis adi adidi naalo ayisaa daarila dabi ka o ga a b,0.7241,0.381
+51,Yeezu Naŋ Koŋ A Gyɛruzɛlɛm Teŋɛ Yɛlɛ.,na Pilila,1.0,0.8667
+52,A Yeezu Kirista Sããkommine Yɛlɛ.,Yesu Kristo yɛremem!,1.0,0.6296
+53,"O da kyerɛ la ka ka a naŋ wa taa eebo, ka o ta Gyɛruzɛlɛm a Pɛnteko bebiri daare.",Ɔda kyerɛ la kaka anaa wata baka otaers apɛntuo bebi daara.,0.8947,0.3279
+54,"Yɛ de fentere wa eŋ o nubiriŋ, kyɛ de nɔɔteɛ wa eŋ o gbɛɛŋ.",Yɛde Fantere wa nonber ɛdɔɔba n.,0.9286,0.5227
+55,"Yelmeŋɛ zaa, te naŋ da be yɛ zie, te da daŋ yeli ko yɛ la ka te na nyɛ la dɔgɛɛ; ka a da e a lɛ seŋ yɛ naŋ da baŋ.",Yei me nea Tanana be yedzi te dadaniel kua la tatenne la daga ka daa yi ale sion dabam.,0.8438,0.4557
+56,"Yɛ ta gaa a Samareya noba meŋ teŋɛ kanzaa, kyɛ yɛ gaa a Izerayɛl peere naŋ bɔre na zie.",Yɛpa ga asamaria no ba mentena kansa kyɛɛ gaa Israel pirinambɔri na zie,0.8421,0.2985
+57,haali a banaŋ naŋ kyɔge O ne a kpane; kyɛ a tendaa nemboorɔ zaa na koŋ la O yɛlɛ.,Hali abe na natsɔe kpaneɛ atena ne mboro zaa na koŋ la o yɛla.,0.6842,0.2951
+58,"Moɔ nimiri kanna a gansoŋ korɔ noba, a yele yɛlɛ teɛrɛ ba, kyɛ kanna ba te ta saŋ na N naŋ na wa.",Mo ne me ekana adanso koraa na bayerɛbea na wa.,0.8696,0.5972
+59,"Tensogɔ koŋ la bebe; ba koŋ la boɔrɔ fentelɛ bee ŋmenaa veɛloŋ, bonso, a Daana Naaŋmen na la a ba veɛloŋ kyɛ ka ba di naaloŋ tegitegilɛ.",Tsia kula be be ba laboratif kyɛ ka ba de naalo tete,0.8519,0.6792
+60,"Ka a soba ŋa ne o zu wa e fo faa gbɛre boyopoi bebi-yeni poɔ, kyɛ leɛ wa fo zie gbɛre boyopoi a wa yeli, ‘N sããɛ la’, a ferɛɛ la ka fo di suuri ko o.",Ka asubene osu waefofoa gberiboyopoi bebeye ne po kɛlewfodzie berebuyopoin away nsa la afrɛ la kafui sure kɔɔ,0.9189,0.3113
+61,A zuyɔɔ-derebɛ ane yelbe-erebɛ zaa da tagra tara la a Yeezu zie ka ba woŋ O yɛlɛ.,Ezu yo adere bɛ ane yeli be ebebada taataa laye zizi ka ba wono yɛ la.,0.8824,0.2742
+62,A Farazii kaŋ da bebe la ka o yuori di Nikodemu.,Afa adi kane bebe la ka o yoori di Nikodemo.,0.5455,0.2162
+63,"Ka a Yeezu soore a bie saa, “O naŋ maŋ erɛ a ŋaa kɔɔre seŋ la wola?",Kaesare anaa ɔresaw,1.0,0.6667
+64,"N ba baŋ ne yeli zaa naŋ do ma, kyɛ lɛ naane so ka N ba taa saanaa.",Mbabaa ne yelaa nan doma kyɛ lanne so ka bata a naa.,0.7778,0.25
+65,"Ka fõõ boɔle fo tɔsoba, ‘Neŋlaane ŋa’, a seŋ ka ba de fo lɔɔ eŋ dazugovũũ poɔ.",Kafu boa le otɔsoba ne la ane a asen ka ba de folɔ eŋ dizugu vuu poɔ.,0.7059,0.2105
+66,"Lɛ la ka N da woŋ kɔkɔre kaŋ a saluoni poɔ ka o yele: “N noba, yɛ wa yi o poɔ.",Lala ka edewo kɔkɔre ka asalo ni poɔ ka o yele noba yi wa yuu pu,0.619,0.2222
+67,"O da iri arɛɛ la ka O sɔre, ka ba de a Ŋmen-yelmanna Azaaya gansɛgraa ko O.",Do nediaduano zaa kyɛ yele puhones ba de la,0.8824,0.8036
+68,"Lɛ la ka Piita yeli ko a Yeezu, “Wulwullo, a soma la ka te be a kyɛ, vɛŋ ka te ti sege ata, ka fo so kaŋ, ka Moozul so kaŋ, ka Elaagya meŋ so kaŋ.",Le la ka Pita yɛl kayili asomkeka sike ata kaoso Mozano ka.,0.8889,0.6117
+69,Neɛzaa ba nyɛ fo saanaa ka fo seŋ ne la kũũ be?,Ne zana foyen afosene la ku bi.,0.9167,0.4571
+70,A ŋaa la tori kyɛ pɛllɛ Naaŋmen a te Faara poɔ.,Aŋeto sɛ pelaane Atefa poɔ.,0.9091,0.5
+71,Te da kpɛ la a gbori a be ka Arestaku naŋ da waa Masedoniya neɛ kyɛ da yi Tɛsalonika da beɛle te.,"Te dapala gbori be kaa Aristako, na da wanbes do nia nea kyɛ de yie Selonikadabea le te.",0.7727,0.2533
+72,"Pampana, nembuo mɔɔ la na e yɛ yelfaa, ka yɛneŋ wa kyerɛ ka yɛ e yɛlɛ naŋ e velaa?",Papa na mebu maa yɛyeyɛ yɛana.,0.9474,0.623
+73,"A soba na naŋ da faa te yi ne a dɔgɛɛ naŋ tɔgle kũũ, naŋ na kyɛnɛ faa te la.",Afona na dafaateyine adɔna tɔle nanam kyɛne fatera.,0.95,0.3091
+74,Ba sɛge la a begɛ gane poɔ: “Noba naŋ yele kɔkɔsaama.,Basaga adie ganna na yɛne kɔkɔm.,1.0,0.5
+75,Biiri na kyiiri la ba dɔgreba a vɛŋ ka ba ko ba.,biri na tsire la ba dɔɔra avena akɔba.,0.75,0.3611
+76,"Yɛ erɛ yɛlɛ ne yɛŋ a kyaara noba na naŋ ba poɔ yɛ poɔ, kyɛ maŋ vɛŋ ka wagre zaa yire tɔnɔ.",Ye le ya le ne yaayaa no na nam ba puapua kyɛman wage zaa yi tɔ na.,0.9091,0.4328
+77,A ŋaa zie la ka te baŋ ka a baaraa saŋ taɛ la.,Alazi la katin baŋ ka abe ara santa no.,0.7692,0.3333
+78,"N ko yɛ la garebanyɛ bonso, yɛ taa la n teɛroŋ yelzaa poɔ kyɛ tuuro a yɛlɛ zaa a seŋ N naŋ da wuli yɛ lɛ.",Ekala gari ba nyɛ bonsoɛ taala ntrini zaa poɔ kɛkura asendawuliyɛ la.,0.9615,0.3718
+79,Kyɛ ba da de la soba na zaa yuori ba naŋ ba sɛge eŋ a nyɔvore gane poɔ lɔɔ eŋ a baa vũũ poɔ.,Te baɖa la subana zaa yuori ba naŋ ba sage a nyɔri gan poɔ lɔ abaa,0.6667,0.3382
+80,"A dɛndɛŋ soba da yi waɛ la, a wa yeli, ‘Daana, a fo warbiri yi la warbie pie tɔnɔ dɔgle o zu.",adandan nso bɛda yiwala awɔye daa na afowarbiriyila wale pie tɔnɔ dɔgle o zu.,0.7727,0.1791
+81,A yelwulaa yɛ naŋ na nyɛ la ŋa: yɛ na nyɛ la bie ba naŋ pilli ne bipɛmɛ a gaale O donne bondi gbori poɔ.,ayewaa yɛn na nyɛla yɛn nyɛla bi ɛnam piniiɛ gaalo duni bundiripoɔ.,0.96,0.3718
+82,"Nemmeŋɛ maŋ iri la bonsonne yi o nabonsonne poɔ, ka nenfaa meŋ maŋ iri bonfaare yi o nabonfaare poɔ.",kanea zaa kongo ɔkɔkɔre asadzi ɔkɔ,1.0,0.825
+83,"A lɛ puoriŋ, Yeezu da de la O meŋɛ wuli a O potuuribo pie ne yeni, a saŋ na ba naŋ da lantaa a zeŋ dire.",Ale puoriŋ yɛnidi la o meŋa wuli apɔtrɔ pie ni yɛn afanan ba naŋ da lantaa a ziiri.,0.6154,0.3421
+84,"A maleke bayopoi soba pãã da peɛle la a o eele, ka kɔkɔkpeɛne da yele yɛlɛ tenvelaa poɔ, a yele: “A tendaa naaloŋ leɛ la a te Daana.","MakbeYopoin siba paanapil la lɛ, ka kɔkɔna yili yɛla tɛm vila poɔ a yili a tandan deɛ laati daa.",0.8214,0.44
+85,"Bonso, a e la vi ka neɛ yeli a yɛlɛ ama taaba noba naŋ maŋ sɔglɔ erɛ, kyɛ yɛlɛ na zaa a kyaane naŋ maŋ wa iri wuli maŋ sãã la ka ba nyɛ, bonso, bonzaa naŋ maŋ wa sãã waa la kyaane.",Bonso ale kanei le ayaawa no ba na mansa ereyankam rulinen maŋa waala kyaane.,0.9302,0.594
+86,"Bonso, neɛzaa koŋ la baŋ biŋ yiri pare zaa ka a onaŋ ba naŋ biŋ naane; a yiri pare ŋa la a Yeezu Kirista.",Bonsukoda babi Yaraa ka o nam banaŋ biŋ a ne ayiri pareŋ la yezu Kristo,0.8333,0.3291
+87,A O eŋɛ la ka a yiri lamboe zaa mɛ lantaa a baa te leɛ Naaŋmen die naŋ e soŋ a be a Daana eŋɛ.,nye la ka yi le gbe same la ta aba tiaa mudie na esɔ abe adane eŋ.,0.92,0.4348
+88,"” Ka O yeli ko ba, “N nyɛ la Setaana ka o yi sazu a le teŋɛ a ŋa saa naŋ nyegre.",Ka Oyekan la titank oyisu Aletan anyera.,0.9048,0.4545
+89,"Kyɛ deɛ yeli a yelbiri yoŋ, a vɛŋ ka N gbaŋgbaa nyɛ o sammo.",sedie ayirebi on avakabaŋgbanye osam.,1.0,0.4889
+90,” O da kaara ba la polipoli a teɛre ka ba na ko o la bonkaŋ.,Ɔakaa ba na polipoli a teɛ ka ba na kolabɔnkan.,0.6,0.2326
+91,A Naaŋmen yelbiri da yɛllɛ la ka a potuuribo meŋ da yɛllɛ yaga zaa a Gyɛruzɛlɛm teŋɛ poɔ kyɛ ka Naaŋmen bagmaalba yaga meŋ da sage de a Yeezu yɛlɛ.,anaa monei dayel kaa potre da yɛla yaga zaa a yerusalem tiŋa pua sɛ ka naa ŋmanaa ba yaga nenda dea yi,0.8333,0.4444
+92,"Aŋa noba naŋ taa posaanaa kyɛ ka te taa popeɛloŋ tegitegilɛ, aŋa noba naŋ waa nandaanema kyɛ ka te erɛ ka noba yaga leɛrɛ bondaanema, aŋa noba naŋ ba taa bonzaa kyɛ taa bonzaa.",anane a nantaa so anaa kyɛka popan nteketeke le ananonannt ekata ka noba yaga liɛba no ma aane na ba taa bonzaa kyɛ taa bonzaa.,0.7353,0.4
+93,"Ka maa puori Naaŋmen ameseɛrɛ kyɛ di a bondirii, bonso ka ba na saana n yuori ne bondirii N naŋ puori Naaŋmen ameseɛrɛ kyɛ di?",Kaman pulnan amesi kede aboni bonsua a nana nyuri ne bondirii namporo naaman amisi kyɛ de,0.84,0.38
+94,"Saa nyegroo ane hooroo ane saa tannoo da yire la a nakogi zie, kyɛ ka fentele ayopoĩ da dire a nakogi niŋesogɔ.",sayeahs,1.0,0.9205
+95,"N da guoli yɛ la ane beroŋ, a da ba e bondi-tage, bonso, yɛ da naŋ ba ta bondi-tage diibu.",Na gooli la ane bero adaba di buni tae bonso yɛda namba tabindi talima.,0.85,0.2769
+96,Yuoni zaa poɔ a Yeezu dɔgrebɔ da maŋ gaa la Gyɛruzɛlɛm a te di a Ista tigri.,Yoo ni zaa poɔ ɛyɛ Isrudorebaa danan galeeusanam atidi a Isak tii.,0.8824,0.4576
+97,"Ka a naŋ wa seŋ ka N meŋ gaa, ba na beɛle ma la ka te gaa.",Ka anansene ga baabiara ma la katea.,0.8235,0.4
+98,Yɛ Ta Kyerɛ.,ɛreyɛ,1.0,0.6667
+99,Ba da teɛre ka O be la a noba poɔ ka ba zaa kyɛnɛ a sori poɔ.,Ma datea ka o be la a noba poɔ ka ba zaa kyɛnɛ a sori poɔ.,0.1765,0.0909
+100,"Lɛ la ka Yeezu da lɔɔ sekpɔgre ŋa, “Dɔɔ kaŋ la sɛle kaŋkanteɛ o dãã teere weɛ poɔ, a pãã da wa boɔrɔ wɔmɔ a teɛ zu kyɛ ba nyɛ wɔne zaa.",Na ne ka ye zudanɔsepaur ŋa dɔɔ kaŋ la sɛle.ankanteɛ odanteerewiɛ poɔ apaaboɔ wɔma ate zu kyɛ ba nyɛ wɔne,0.6562,0.27
+101,Neɛzaa kontoɔ̃ pigi ma sori ka N ta ire n meŋɛ yuori!,Nea konto pigmesore ka ntare yi o.,0.9167,0.4
+102,"A Yeezu naŋ da wa nyɛ o, O da boɔle o la ka o wa O zie, ka O yeli ko o, “Pɔge, a fo baaloŋ baarɛɛ la.",ayeso nan da wanyɛ ɔaboa loo la ka wo wɔ wu zie ka woyi kɔfa afɔle.,0.8214,0.5
+103,"Te baŋ ka te yi la kũũ poɔ a kpɛ nyɔvore poɔ, te naŋ nɔŋ taa zuiŋ.",Take yi le ku ƒo akpanyatata zi,0.9412,0.5833
+104,"N baŋ ka a N gaabo puoriŋ, noba mine naŋ waa ŋa gboŋgbo-faare na wa kpɛ la yɛ poɔ, a koŋ bare a peere.",Mankaae puorebo mine naagaga fare na woakpla po akoma atim.,0.9167,0.52
+105,"Kyɛ Pɔɔl da sigi te zuuni la o zu, a nyɔge o zɛle eŋ o nuuriŋ kyɛ yeli, “Yɛ ta zoro dabeɛ̃, bonso, a o vooroŋ naŋ ba sigi.",Tsɛ Paul the Sitin sriyawo nuurikyɛ yili Yetro bonsu a ovor na bɛsi,0.9655,0.5747
+106,"O da ba di bonzaa a bebie na zaa poɔ, kyɛ O naŋ da wa te baare, kɔŋ da kpɛ O la yaga.",dabadabondzaa abɛbiaaoa kyɛ onana wate baare kɔn daka na ya,0.913,0.3167
+107,"A seŋɛɛ la ka a serɛ tonɔ o sɛŋgaabo feroo toma korɔ a o pɔge, ka a pɔge meŋ tonɔ o sɛŋgaabo feroo toma korɔ a o serɛ.","Asen la ka asorto no ɔsɛnkafo toma koraa ɔpɛ kaa pɔge tono Osagbafor, kuraase.",0.8571,0.4607
+108,"Ka a kuuni leɛ-iruu ba kyebe, ka lɛ, ba da ba e ka a Kirista leɛ-iri a kuuni poɔ; ka banaŋ da ba e ka a Kirista leɛ-iri a kuuni poɔ, ka lɛ, a yɛlɛ te naŋ moɔlɔ waa la weɛlɛ, ka a yɛ yeldeebo meŋ waa weɛlɛ.",Paku ne le Irom bɛkyere kaleda eka Aristarko no po kabana aristarko kaletɔ wɔleee mi wawuo.,1.0,0.5878
+109,Ba na de a la lɔɔ bare.,a,0.8571,0.9375
+110,"Kyɛ te naŋ ba boɔrɔ ka fo zeŋ kɔɔre zuiŋ, N sɔrɔ fo la, aŋa fo naŋ maŋ sagra yɛlɛ lɛ, vɛŋ ka N kyɛ a yɛlɛ ŋmaare ko fo.",Keina mabua kafui kɔrisi nsɔre aŋa fonam man sari yɛla lɛ vɛŋ ka n chɛ a yɛla ŋmaari kof,0.8,0.3953
+111,"Serɛzaa, a wa tɔ a zenɛ bebiri, ka ba naŋ wa woŋ a nɔkoraa gane ka ba kanne, a pɛne na ne o zu naŋ maŋ bebe la; bonso, a Kirista yoŋ zie la ka neɛ na tu a iri o bare.",Sesa Awatotse ne bebree kabakaba beebiaa bar.,0.9762,0.7395
+112,"” Ka O yeli, “Yɛ gu yɛmenne velaa ka ba ta wa bɛlle yɛ.",Ka yilila belee.,0.9231,0.7368
+113,Kyɛ a Yeezu naŋ da bale a O kyɛmmo poɔ la so ka O da wa zeŋ a bulee noɔreŋ.,sɛ ayɛ dzinn daba le a otama so ka daweage noare,0.85,0.4727
+114,Ba suuri da iree la yaga ane ba naŋ da kanna a noba kyɛ moɔlɔ ka a Yeezu zie la ka kuuni leɛ-iruu be.,asuwuie Ire la yaga ane banaana ka na anaba kyɛma kaa yie zizi la ka kuu ni lee Ira.,0.8333,0.2895
+115,Piita Ane Gyɔɔn Naŋ Are A Sɛrediribe Niŋesogɔ.,aura,1.0,0.9211
+116,"Bonso, te waa la Naaŋmen tontonema naŋ laŋ tonɔ, yɛnee la a Naaŋmen weɛ, a Naaŋmen yiri.","Bonso, twanana tontonma na lanten yɛne la naaman wie anaa nni",0.8824,0.3676
+117,"Pɔɔl da tuuri la dabilii lantaa a eŋnɛ a vũũ poɔ, kyɛ a vũũ toloŋ da eɛɛ la ka dompane kaŋ da vare yi a wa do mele o nu.",Paulo bɛto worila bili lantaa a enna afu puakyɛavu tonon da yɛla ketoa no kaŋ davoro yi a wodomee on,0.8,0.382
+118,"Yɛ kaara yɛ yel-erre velaa a Nemboore-yobo poɔ, ka ba naŋ wa yele ka yɛ waa la yelfa-erebɛ, ka ba nyɛ a yɛ yelveɛle a de dannoo ko Naaŋmen ka O naŋ wa wa ka O di sɛrɛɛ.","Ye kara yeye rev la ane mburiyewapoɔ, ka ba naŋ ŋɔ ye le ka yɛ waala yela rebeka ba nyɛ ayeyeviɛle a de daano ko naaŋmen ka onaŋ wɔ waka odi sara.",0.7105,0.224
+119,Kyɛ yɛ kyellɛ ne yɛ naŋ poɔ a Kirista dɔgɛɛ poɔ ka lɛ vɛŋ ka yɛ meŋ na kyaara ne popeɛloŋ ka a O veɛloŋ wa sãã.,"Tse yatse le me ye nam poɔ akristoɣeƒoɔ, Kalenga me nasara ne popeɛloŋ ka ohia la wasan",0.8519,0.4524
+120,"A ŋaa zuiŋ la ka Yeezu ba zoro vi ka O boɔle ba O yɔɔmine ane n yɔɔpuuli, a yele: “N na yeli la fo yɛlɛ ko a N yɔɔmine ane n yɔɔpuuli.",Agazu la ka ye zu ba zorovikaobuale ba oyonne ane eyewole ayɛ le na yere la foyel ko eyome ane yopoi.,0.7576,0.3673
+121,"Pɔlbile kaŋ yuori naŋ da di Yutaaku da zeŋ la a takoro noɔreŋ a gbire kyuuro, a Pɔɔl naŋ da yele yɛlɛ.",Kolibil ka yuri nanade UtakudazeLato koro no are agure tuuro paload yela yɛla.,1.0,0.3544
+122,"Lɛ la ka noba mine da yi a Gyudiya a sigi wa Antoɔki a wa kanna a yɔɔmine, “Ka yɛnee ba iri yɛ dɛgre a seŋ a Moozul bege naŋ yeli lɛ, yɛ koŋ baŋ nyɛ faabo.",la ka noba mine de yi agyidie anteke a waka na ayoma yɛne ba Ilia dɛre ase amusiei naŋ yeli lɛ yakobo nyɛ faa,0.7027,0.3652
+123,"Lɛ la ka a yelderebɛ da eŋ a Pɔɔl sori ka o gaa a mane noɔre daadaalɛ, kyɛ ka Selase ane Timoti da zeŋ a Bɛroya teŋɛ poɔ.",Lala ka yɛli diriba da eŋ apolo sori ka o ga amane noare daa daa lɛ kyɛ ka Selasi ane timoteo dadze a bera teŋa poɔ.,0.6429,0.2283
+124,"” Ka O yeli ko o, “Bonso ka fo soorɔ ma bon naŋ e soŋ yɛlɛ?",Ka o yɛli ka bi nso ka fosu ma bona nsonyɛ la.,0.7333,0.325
+125,A ŋaa zie la ka te maŋ baŋ a yelmeŋɛ vooroŋ ane a tuluu vooroŋ.,Aŋaziela katema ba ayi le mlɔɔ ane atuu voorɔ,0.9333,0.3542
+126,N zoro la dabeɛ̃ ka a toma N naŋ toŋ ko yɛ na pɔɔ wa e la weɛlɛ.,"Nsuro dabi, kaatoa nantenka na paul wɔ Ela wuiɛ.",0.9444,0.4667
+127,"Kyɛ a Vooroŋ Soŋ la a dansedire, bonso a Vooroŋ Soŋ la a yelmeŋɛ.",tse avuwo ɔnsɔ la adansidie bonso avurans la ayili meŋa.,0.7857,0.42
+128,"bonso, yɛ baŋ la a soba na naŋ bebe a yi a piiluu saŋ.",bosaa.,1.0,0.8718
+129,"” Ka a Yeezu da yeli sɔge, “Yɛ mɔɔ ba sɔre a gane poɔ a nyɛ lɛ Davil naŋ da e a saŋ na kɔŋ naŋ da kpɛ o ne o noba be?",Ka yesua yɛli Saul yɛaware aane poɔ ane lɛ David nana a sanna kɔna da kplɔwo ne o noba,0.75,0.358
+130,"” Ka a noba da yeli sɔge, “Fo taa la sefaa!",Kaaba,1.0,0.8276
+131,” Kyɛ a Yeezu da taŋ la O noɔre a ba yeli yelzaa sɔge.,Batagalia zie kaŋ ba naŋ boɔla gasam ka a yi zu day.,0.9231,0.8462
+132,"O naŋ da wa te yeli a yɛlɛ baare, O da yeli ko la a Saamon Piita, “Mɔŋ a gbori kpɛ a koɔ̃ zizuluŋ zie kyɛ lɔɔ a yɛ zonkyogri, a nyɔge zoma.","na nda wate yi ayɛ nabaare odaye kolaa saa montie mo abori kpɛ akodzi zuludzie, kyɛ lɔ ayɛ zukogri a nyɔge zu",0.8788,0.2376
+133,"Bonso, N dire la o danseɛ ka o toŋ la toma yaga ko yɛ ane banaŋ naŋ be Laodisiya teŋɛ ane Hɛrapoli teŋɛ poɔ.",Bonsu ndua ɔdansi ka tom la toma yala kyɛ ane ba na naŋ be Laodisia tiɛneherapoli tiŋa poɔ.,0.75,0.241
+134,” A lɛ la ka ba da yi moɔle ka neɛzaa leɛ o eebo a yi o yelbebe poɔ.,alala ka bɛ da yi mɔɣili ka neɛzaa buyiyi be bepɔ.,0.7222,0.375
+135,"” Ba da yeli la a ŋaa ka ba e O nyɛ, a pãã na toɔ̃ nyɛ saanaa tuo O.",Ba ɖe yela aŋaa ka ba nyaa.,0.8421,0.6
+136,"Ba naŋ da wa te kpɛ a yaa poɔ, ba da nyɛ la pɔlbile kaŋ ka o zeŋ a duluŋ seŋ a su kparpelaa, ka dabeɛ̃ da kpɛ ba yaga zaa.",Banana wate kpɛ ayaapoɔbada nyɛla pɔlibile kaŋ ka o zeŋ a duluŋ a su kpare pilaa ka dabi da kpaba yaga zaa,0.6129,0.125
+137,"Soba na zaa naŋ yeli, “N baŋ O la,” kyɛ ba sagra a O nɔɛ, waa la zirŋmaara, ka a yelmeŋɛ ba kye o zie.",Somaaleba la kɛbaanyiɛ o zie.,0.88,0.7042
+138,“Pampana ŋa N teɛroŋ zaa gyɛrɛɛ la.,pampa nana ntira gɛrɛ.,1.0,0.4074
+139,"Lɛ la ka Gyudase Ezekarɔte, naŋ da waa a potuuribo pie ne bayi na kaŋ, da gaa a Naaŋmen bagmaalkare zie ka ba te bɔ lɛ o naŋ na e a iri a Yeezu ko ba.",Nakai daanabitali yesu kuma.,1.0,0.8304
+140,A Daana la na wa e ka yɛlɛ naŋ sɔgle lige poɔ sãã veɛloŋ ka bon naŋ be sukyiri poɔ meŋ sãã.,Ada na la na ekayana saulo lieu saa via lo ka bonna be sukyire poɔ minaa.,0.7727,0.3768
+141,"A Yeezu da yi la a be a wa O meŋɛ teŋɛ poɔ, ka a O potuuribo da tu O wa.","Ayani da yi na abe Awamiatiapoɔ, ka o po turiba atuu wɔ.",0.8095,0.36
+142,"N na iri la a gaa a N saa zie a te yeli ko o, “N saa, N eɛɛ yelbieri a kyaare Naaŋmen ane fõõ.",na Ira aga a nsaadze akyeyere nsa yɛyere a kyaare Naaŋmen anafo.,0.8,0.3788
+143,Ba da ko o la sori meŋ ka o zɔɔ ne a nensonne a toɔ̃ ba.,Baako wo le serimkaozɔr ne ananso ne atoa ba.,0.875,0.2564
+144,"Azuiŋ, yɛ ko a teŋɛzu yɛlɛ zaa naŋ be yɛ enneŋ: peɛ̃mo toma, yeldɛgɛ, vɔlfaare, yelfaare boɔbo ane bombɔ-gaŋne .",Ezek atenasɛe zaa nam bɛyɛ ne pitom,0.9474,0.7647
+145,"Serɛzaa, N na kyɛnɛ kyellɛ la, bonso, N baŋ ka a yɛ puoruu ane a Yeezu Kirista Vooroŋ na soŋ la ka a yeli ŋa wa ne n faabo.",razakyɛnekyi le la bosomba ka aye puri ane Yesu Kristo voro na so la ka yili ŋa wane mfa ba.,0.7586,0.3407
+146,"A noba mine bare la a yɛlɛ ama kyɛ leɛ yele yelfoglo, a boɔrɔ ka ba e a Naaŋmen bege wulwulibo kyɛ ba baŋ bon ba naŋ yele tɛgɛ bee a baŋ a bonna eŋɛ ba naŋ yele a yɛlɛ ama.",Anamuna barila ayɛ la ama felie yelo glo aborbaa nibii wulwulo baabɔne abaanaanaa ayaama.,0.9512,0.5231
+147,"O da te kyilli la O meŋɛ ba niŋesogɔ, ka O bonsuuri pɛle parepare lɛ, ka bonzaa kyebe a teŋɛzu na e ka a pɛle gaŋ lɛ.",dade kyene Lome bɛ nensa ka wo bonsuuri pɛ papa li ka buaa chɛ bɛ tiŋa zinaa apɛli gali.,0.8889,0.4545
+148,"Ka neɛzaa wa sãã a Naaŋmen die, Naaŋmen meŋ na sãã la o soba, bonso, a Naaŋmen die waa la soŋ, kyɛ yɛnee meŋ la a Naaŋmen die ŋa.",Ka niezawɔSa anaa mudie namnam nasalba bosuana mudie wala so yɛ yenema anaa mini na.,0.9655,0.4167
+149,A banaŋ naŋ puoro a wɛdoŋɔ ane a o teebo ane neɛzaa naŋ de a o yuori ŋmaaroŋ daŋ koŋ nyɛ pɛnnoo ŋmenaa bee tensogɔ.,Abaana porowee ɔteene nan de a yiri marada konya pɛnno ŋmenaa bee tinsi.,0.84,0.4222
+150,"Maata la da kaara a bondirii yɛlɛ, ka Laazoro da e a neɛ na kaŋ naŋ da laŋ zeŋ a diibu zie ne a Yeezu.",Mata la aka ara abonyi yɛla ka Lazaro dae a neɛkaŋa ndaaze a dizenaa yet,0.84,0.3158
+151,fo naŋ nare biŋ a andonɛɛ zaa niŋesogɔ.,ɔnanaben a andunds a.,0.875,0.6452
+152,"Kyɛ a pɔge naŋ ba taa serɛ ane a bitorri maŋ kyerɛ la a Daana toma yɛlɛ, ka ka o eŋɛ ane o seɛ na e soŋ; kyɛ a pɔge naŋ taa serɛ maŋ kyerɛ la a teŋɛzu boma eŋɛ, lɛ o naŋ na e pɛle a o serɛ poɔ.","Ka pagenambataa serɛ ane bɛtoro mankyerɛ la adantem yɛli, kakawo anye osi na eso kyɛ aponta mankyerɛ la ti so ma eŋalaa pɛle a osrapoɔ.",0.84,0.35
+153,"N erɛ la ama zaa a Ŋmen-yelnoore zuiŋ, ka ka N na toɔ̃ nyɛ a yelnoore maaloo.",la me zaani ka kanaan ayili maaloo,0.8235,0.5789
+154,O da laŋ kpeɛrɛ ne la a wɛdonne; ka a malekere da kaara O zie.,O daa lan kuri mi la wɛdunni ka a mali kiri dakari zi.,0.7333,0.3913
+155,"” Ba waa la noba naŋ ŋmoonɔ yɛlɛ, a waa noba naŋ taa posaanaa, kyɛ maŋ tuuro bamenne vɔlfaare; a maŋ yele yelbɛrɛ, a puuro noba ne nɔnoɔ ka ba toɔ̃ nyɛ ba yelboɔre.",Baaliba na ŋunyala a waanoa na taaposanachɛ mantra mini ivorian yili yili bɛrɛ a puuro noa ni nɔnaa to nya ba yɛli buri.,0.9091,0.4194
+156,A Yeezu da zɛge la O zu a nyɛ bondaanema naŋ eŋnɛ ba kyɔɔtaare a kyɔɔtaare daga poɔ.,ayesudadzenaa osu anyɛ bɔndane ma na ni na batɔre atware daga poɔ.,0.8889,0.3788
+157,"Yɛ nyɛ, N tonɔ yɛ la aŋa pebilii ka yɛ yi te kpɛ gboŋgboe poɔ.",Yɛnyɛ ntona la aŋa pebilii ayeyie pɛ bengee o.,0.8,0.3043
+158,"Yɛ ta erɛ ka a Naaŋmen Vooroŋ Soŋ poɔ saana, Ona la a ŋmaaroŋ Naaŋmen naŋ eŋ yɛ a kyɛllɛ ne a faabo bebiri.",Yet Ele ka anaa mo nouns posaanaa na nyɛ kyɛlee afabee.,0.9583,0.561
+159,"N sɔre la a fo potuuribo ka ba digi a sefaa ka o yi, kyɛ ka ba digi fãã.",Nsɔre lɔƒo oturu ka ba diiseaise ka ba dibia,0.7895,0.4423
+160,"Bonso, a Laazoro kuuni poɔ leɛ-iruu yɛlɛ la so ka a Gyuumine yaga da sagra derɛ a Yeezu yɛlɛ kyɛ zagra a ba yɛlɛ.",BO,1.0,0.977
+161,"Yɛ da kpie la a yɛ saanaa ane yelbebe zuiŋ, a poɔŋ la ka yɛ da be, a tuuro a teŋɛzu yɛlɛ, a tuuro a sazu sefaare naa, a seɛ na naŋ tonɔ toma pampana a banaŋ naŋ zagra noɔre tuubu zie.",Yoda pue la aya Saa anyi bebe zu apoa kede atuo atiesie atuo Asasse na asent toma pampana banana zagere tubu zi.,0.9048,0.4307
+162,"Pampana, a Vooroŋ Soŋ yeli la weliweli ka a bebi-baare saŋ, a noba mine na zagre la a yeldeebo bare kyɛ leɛ sagra a sebɛlbɛllɛ ane sefaare wuluu, a yi a zirŋmaareba gagarre yɛlɛ zuiŋ.",ampa na aboro so yilila walibu li ka bibiara ana mine na Zarala ayi dibu kyɛ leɛ sara sebebele ane sefar wulu ayi Azunaba gaaree zui.,0.8286,0.3681
+163,"Azuiŋ, a neɛ na naŋ sɛle bee a neɛ naŋ mere a koɔ̃ ba waa bonzaa, kyɛ Naaŋmen yoŋ la a neɛ naŋ erɛ ka a boma baara.",Zoan nansaleba anaa na mere akoɔba aboa kyɛnaana anaa reka aboa.,0.9286,0.4524
+164,"” Ba naŋ da wa woŋ a naa noɔre yɛlɛ baare, ba da yi gɛrɛ la, ka a ŋmarbiri na ba naŋ da nyɛ a sapareŋ la lɛ, a wa de ba weɛ, a gɛrɛ te kyulli are a zie na a bie naŋ be.",Banana wawu anaa noɔriyɛlabari ba da yi gari la ka a marinabananda nya asaar la la a wa diba wuyɛ a gari ti culan a bie na be,0.7045,0.322
+165,Leɛ-teɛre nyɛ bonna naŋ da e ka fo le; leɛ fo eebo a kyɛ tonɔ a toma na fo naŋ da tonɔ a dɛndɛŋ saŋ.,Vitina enaanaafuli viaoes na atoaa inanato na adandan.,0.96,0.6164
+166,"Ba naŋ da leŋ noɔre kyɛ da puoro a Daana, a Vooroŋ Soŋ da yeli ko ba la, “Yɛ iri Banabase ane Sɔɔl ko ma, N boɔle ba la tonnoɔre kaŋ eŋɛ.",Banadeléenua ɖe tsɛ ɖe puoro a daa na avurans dayel kɔba la yɛ Irababa si ansalam boliba la to noɔre kaŋ eŋ,0.8438,0.3366
+167,"O narɛɛ la ka ka a saŋ wa ta, O na de la boma zaa naŋ be O poɔ lantaa, boma naŋ be sazu ane boma naŋ be a teŋɛzu.",naɖea kaka asaŋ watane ane be opulent boma na beseeome be ate zu.,0.9,0.4444
+168,Naaŋmen eɛɛ la ka te ne O leɛ-iri yi a kũũ poɔ a e ka te ne O laŋ zeŋ a tenvelaa poɔ a Kirista Yeezu eŋɛ.,Na me ne ele katilari yi akutuɔ ayɛ katea se atemfoɔ akristoYesu nya,0.9259,0.5065
+169,"Ka o naŋ wa te nyɛ o, o na boɔle la o kyɛmmine ane o laŋkpɛrebɛ a lantaa a yeli ko ba, ‘Yɛ wa laŋ ne ma ka te kyelle, bonso, N nyɛ la a n warbiri naŋ da bɔre.",Ka ɔnaatena le la otsine ane lankpɛrebɛ alanta ayera yɛwene makate lɛ bonsɔɔlaa enga biri na dabari,0.925,0.3894
+170,ka turi pie ne turi ayi da yi a Bɛŋgyamen bale poɔ ka ba da eŋ a ŋmaaroŋ.,Katrinitriyi dayi abenya bapo ka ba da eŋaa,0.8333,0.4
+171,"Te naŋ da wa te bare ba baare, te da kpɛ la a gbori a tu a sori daadaa a te ta Kose, a nyaazie gaa Urode, a yi be gaa Patara.",Senaa wate bare Babar to dɛkpana aboro atu asori daadaa atetɛ kosi anyadie gaa rode ayi begaa Patara,0.875,0.1778
+172,"Kyɛ a O kããsoŋ soɔbo naŋ kanna yɛ a kyaare ne yelzaa naŋ e yelmeŋɛ, ka a ba e zirii, kyɛ yɛ be O poɔ aŋa lɛ O naŋ kanne yɛ.",Sɛ ɔka sonso naka na yaasania eyimeke yɛ.,0.9677,0.7222
+173,"A ba seŋ ka o e Kiristabi-paalaa, ka lɛ naane, o na baŋ paale ne la pɔloo a le a sebɛlbɛllɛ dɔgroŋ poɔ.",abasene kristo bipala galanani naban paa ne lapal ale Asibe belor mpo,0.9565,0.4026
+174,"Ka Yeezu da soore a bege baŋnema ane a Faraziimine, “Sori bebe la ka ba saŋ baala a pɛnnoo bebiri daare bee sori kyebe.",Ka yesu dasore adeda baa no maa ne afarid mine Serubabel la kaba sam baa la apɛn bebree daare bi so rekyerɛ.,0.875,0.2903
+175,Ona la vɛŋ ka te baŋ lɛ yɛ naŋ taa nɔmmo a Vooroŋ Soŋ poɔ.,Ɔne vaKate yenates poɔ.,0.9333,0.6744
+176,"Yɛ naŋ sage tu a yelmeŋɛ pampana, yɛ pɛge la a yɛ seere ka ka yɛ na taa nɔmmo naŋ sereŋ e meŋɛ.",yɛnansa tu Ayele meŋpampana yɛ pɛgla ayɛ sere ka kayantanɔmo nansɛma,0.8696,0.2817
+177,"Kyɛ a Soŋ Soba da sɔ yɛ la kããsoŋ, ka yɛ zaa taa yelbammo.",sɛ asɔ ŋusẽe ɖe sɔ ya la ka sɔŋ ke eza eye li bammɔ.,0.9286,0.5116
+178,ka turi pie ne turi ayi da yi a Manaasɛ bale poɔ.,Ke true ne trayi ɖe yi ama nase bale ƒoa,0.75,0.3514
+179,"Yiri na zaa poɔ yɛ naŋ wa kpɛ, yɛ daŋ yeli, ‘Ka maaroŋ be a yiri ŋa poɔ!",Yerinsa po yɛ n'angoa pɛ Yɛdanee ka Maru be a yiri poɔ.,0.6667,0.3529
+180,"A ŋaa puoriŋ, N da woŋ la kpɛlle kaŋ naŋ waa ŋa nembeɛoŋ naŋ be a tenvelaa poɔ kɔkɔɛ ka a kyaara yaga zaa yele: Haleluya!","Alaboin da wo la kple kana waa ŋa ne bia naŋ be a tɛmpelaa poɔ kɔkɔɛ ka a kyaare yaga zaa yili a leli,",0.5769,0.2796
+181,Bee boŋ la ka Kiristabie ne neɛ naŋ ba sage de a Kirista yɛlɛ laŋ?,Benyin kristo bie ne nanam basal de akita aye le la.,0.8667,0.4314
+182,"Yɛ ta wa poɔrɔ sazu, bonso, o e la Naaŋmen nakogi, bee a poɔrɔ a teŋɛ, bonso, o meŋ waa la a Naaŋmen gbɛɛ-bimmu zie.",Yetwa sazu bonso wɔ Ela naaŋmen nako aporɔ atsen ɔmaŋa anaa ŋmɛnɛ bi mu zi,0.88,0.4
+183,"Ba naŋ da wa kanne a Naaŋmen nɔɛ ane a Ŋmen-yelmanneba gama baare, a puoruudie nembɛrɛ da toŋɛɛ la ka ba wa yeli ko ba, “N yɔɔmine, ka yɛnee wa taa yelbiri zaa ka yɛ yeli teɛ a noba, yɛ wa yeli.",Ba nandaakanne anaa ŋmɛnnɛ ane a me ne yemana ba dama baare apuei ne bradato ɛna kaba wayiko n-yi mine ka yɛ ne wotayilibirizaa ka yi yɛli ti a noba yɛwei.,0.8333,0.274
+184,Te da taa la yɛ vɔlaa kyɛ da nɔnɔ yaga ka te wa ka te nyɛ taa nimisogre.,Te dataa vɔle yɛda no no yala katwa katema nim sor.,0.9444,0.3519
+185,"Ba da ko a la sori ka a dɔgre ba kyuuri anuu kyɛ ta ko ba, ka a dɔgroŋ da waa ŋa naŋ naŋ maŋ teɛ neɛ ka o zɔɔrɔ o soba lɛ.",Ba dafua le sori ka adɔre batua tsaka ka dɔro da waa ŋa na mantena ka o zoro sabala.,0.7273,0.3864
+186,"N are la a dendɔre noɔre a kpaara; ka fooŋ wa woŋ a N kɔkɔre, a yuo a pane, N na wa kpɛ la, a laŋ ne fo di, ka fo meŋ laŋ ne ma di.",are la dendɔrenoɔreŋ a kaara ka fuwo a kɔkɔre a yuo a pane na wapɛ la a laŋ ne fidi ka fomena,0.5556,0.2444
+187,"A gaŋ a zaa, yɛ de nɔmmo su pɔge yɛmenne, ona la maŋ leŋ boma zaa lantaa velaa zaa.",Agaza yerenom osuane na melalaa vila zaa.,0.9474,0.5484
+188,"N naŋ da ba baŋ lɛ N naŋ na e a baŋ a yɛlɛ ama tɛgɛ, N da soore o la ka o na boɔrɔ la ka o gaa Gyɛruzɛlɛm ka ba te di a o sɛrɛɛ a be a yɛlɛ ama zuiŋ be.",Namda ba ba la nana aban ayɛ la ama tɛra da soro o la ka nabura la a gaa Jerusalɛm ka bɛ ti di a osaraa be a yɛla ama zuna.,0.6818,0.3271
+189,"Pampana ŋa, N de yɛ la ko Naaŋmen ane a Naaŋmen yelbiri garaaseɛ.",pampala dila kuna ŋuni anaamui gaase.,1.0,0.5098
+190,"Ba naŋ da ba nyɛ O, ba da leɛ gaa la a Gyɛruzɛlɛm ka ba te bɔ O.",Na nandaan ba daliga la agyira ka bate bɔɔ,0.8333,0.3778
+191,” Kyɛ ba da ba baŋ a yɛlɛ O naŋ yeli ko ba tɛgɛ.,Yɛba banka asɛnka m-be saa yiri poɔ bi chɛ ba daba baŋ yɛla o na yeli kɔbata da a yɛrepa da tu,1.4615,1.4242
+192,"” A yeli ŋa da wa ne la tage taa, ka nɔkpeɛne da kpɛ a Pɔɔl ane Banabase ane a noba na sogɔŋ.",ɛyɛ no na da wane ataka kankua no da kwaapa anaba naba anaa nea nasogam.,0.9091,0.4118
+193,"A Yuzɛb ne a Mareya naŋ da wa te tu a tuuluŋ zaa naŋ seŋ a Daana begɛ naŋ wuli lɛ baare, ba da leɛ kuli la a ba teŋɛ Naazɛrɛ naŋ be Galili poɔ.",Zani Amaria nan da watutu a tulo zaa nansan adaa na bi da na wuli la baare ba da leaku la abɛtena nazare nam be gali puu.,0.7429,0.3271
+194,"Ka Kirista-bipɔge zaa meŋ wa taa serɛ naŋ ba sage de a Kirista yɛlɛ, kyɛ ka a dɔɔ sage na laŋ kpeɛrɛ ne o, a ba seŋ ka o bare a dɔɔ.",kakito bi pawa menwataserɛ na mbaa de Kristo yele kyɛkaadɔɔsar na Lankan abɛsen ɔbae adɔ.,0.9375,0.3814
+195,"Azuiŋ, yɛ baŋ ne a, a ta inni ka yuomo ata tensogɔ bee ŋmenaa, ka N ba nage ka N kpãã yɛ ane nentaŋ.",Ayebea ate nikee ataso bimi kabaka ekpaa ni nenam.,1.0,0.5753
+196,"Ka a soba na naŋ da zeŋ a nakogi zu da waa ŋa kusi-veɛle mine ba naŋ boɔlɔ gyaspa ane kaneliyan, ka sagoŋgoŋ naŋ waa ŋa vaare naŋ nyegrɛ ŋmaagyili a nakogi.",Ka asiane anako zu da waa ŋa kusi viɛli mine ba nambo la gas pa ane kanelia ka saugu naŋ waa ŋa vaare naŋ nyigrɛ ŋmaa gyili a nako,0.625,0.2295
+197,"Te nyɛ la dɔgɛɛ boorɔ zaa, kyɛ naŋ voorɔ; ka te teɛroŋ gyɛre, kyɛ ka te nuuri ba yoɔrɔ.",eye le dɔgelɔ za cenanater gyere kyɛ ka tinu ayare.,0.8947,0.5385
+198,"N na boɔrɔ la ka yɛ zaa yele kɔkɔsaama, kyɛ a gaŋ a zaa N na boɔrɔ la ka yɛ yele Ŋmen-yelmanna yelyelii.",Nna borolakeezaa yeriko ɔsama kyɛ gaŋaa naborɔme anaye,0.9565,0.481
+199,Enyaabo zaa daŋ ba pɔge yɛ naŋ daŋ ba pɔge nensaala.,Eya bosaa dam ba payɛ nandamba pa ne nsa a.,0.9091,0.3415
+200,"Azuiŋ, te laŋ la noɔre a kaa-iri noba a toŋ ba yɛ zie, ba ne Banabase ane Pɔɔl te naŋ nɔŋ, ba naŋ de ba nyɔvoɛ zaa kpimare a te Daana Yeezu Kirista zuiŋ.","Azula la noare aka Ioba atoma zie, ba ne ba na baasa anampɔ tsinana banana nyɔvia Kimati daa na yesii zo.",0.8529,0.4261
+201,"Yɛ vɛŋ ka a Kirista maaroŋ di naaloŋ yɛ sukyie poore, a maaroŋ ŋa poɔ la ka ba da sereŋ boɔle yɛ eŋ a enda-yeni eŋɛ.","Yɛbɛka Kristo Maron di naa lo yesusuo, amaran ka ba asraban andanyi ne na.",0.8846,0.5
+202,A banaŋ N naŋ nɔŋ la ka N maŋ wuli kyɛ tage ba tobo.,Abana nanolakammaŋ wuligibu tɔbu.,1.0,0.3947
+203,"A Naaŋmen da di la a Davil danseɛ a yeli, ‘N nyɛ la Davil, a Gyɛse bidɔɔ, ka o waa N yɛŋ neɛ.",Anaa mindedia David da sia ayi lenelene nɛ.,1.0,0.6061
+204,"Lɛ la ka a bie da yeli ko a o saa, ‘N saa, N sãã la Naaŋmen poɔ, a sãã fo meŋ poɔ.",Lala ka bi da yelikoawosaa nsa nsa la naa ŋun poɔ asafo meŋ po,0.8261,0.2182
+205,"A bama moɔlɔ la a Kirista yɛlɛ ne nɔmmo, a baŋ ka ba eŋ ma la a kyɛ N naŋ zɔɔrɔ a Ŋmen-yelnoore zɔɔre zuiŋ.",abamamɔa krisye le nenɔ mɔ abaka ba ema la atsɛ na zɔra aininouizɔre zui.,0.92,0.3875
+206,"A malekere zaa naŋ da are gyeere a nakogi ane a nembɛrɛ ane a bonvoba anaare zaa da le vɔgle la muro a nakogi niŋesogɔ kyɛ puori Naaŋmen, a yiele.",Amaria anan da aridee ana koge ane a nembɛrɛ ane aboboa anaare saa da levwe muro anako sogɔ kyɛ puori naaŋmen a yili.,0.6,0.2609
+207,Ka o da boɔle a gbaŋgbaa kaŋ a soore o bonna naŋ erɛ.,Ka wo dabua le agbagba ka asorobene er,0.9231,0.375
+208,Yeezu Naŋ Saŋ Neɛ Kaŋ Ba Naŋ Dɔge Ne Zɔnnoŋ.,"Jon Gazi awa,",1.0,0.8824
+209,ka turi pie ne turi ayi da yi a Nafetali bale poɔ.,Ketu pini trayi ɖe yi ana fita li bale ƒo.,0.9167,0.3158
+210,"Azuiŋ, yɛ ta vɛŋ ka neɛzaa ko yɛ saanaa a yɛ bondirii ane bonnyuuri yɛlɛ, bee yɛ tige diibu, bee a kyuu paalaa tigri diibu bee a pɛnnoo bebiri daare yɛlɛ.",Aso Yɛtawan kaneaa akɔyɛ saa na ayɛ bondirii ane bonyuuri la bi yɛtie dii bobe akwalaa tiridi bi pɛn bebe a yɛla.,0.9032,0.3583
+211,"Moozul da yelee la, ‘A Daana a yɛ Naaŋmen na iri la Ŋmen-yelmanna a yɛ meŋɛ noba poɔ ka o waa aŋa maa.",Moza ye le la ada na ayena ŋena Ire la niyeli mana ayame noba poɔ ka o waa ŋa maa,0.6522,0.2763
+212,"“Yuomo lezaayi puoriŋ, maleke da wuli la o meŋɛ ko a Moozul vũũ naŋ da dire tuu kaŋ poɔ a Sanae taŋ wɛgyɛŋ poɔ.",YOMelizaiyi porila ko Amozo unander kaŋanaŋ we dzana.,0.9583,0.6235
+213,"Ka neɛ kaŋ wa yele kɔkɔsaana, vɛŋ ka ba e noba bayi bee bata gaŋ noba bata, kyɛ ka kaŋ maŋ yeli kyɛ ko o tɔ kyɛ ka kaŋ maŋ iri a tɛgɛ.",Kanea ka wo YekɔsamaVenkaba noba bayi bee ba ta ganoa bata kyerɛ kaman yili kyɛ ko o tɔ kyɛ ka a Iri ata.,0.6364,0.2828
+214,Kyɛ fo taa la garebanyɛ ne a yeli ŋa: fo kyiire la a Nikoletan deme tontonne na N meŋ naŋ kyiire.,safoa are banana Ayele la a ne kolitanteme tontonne na mentie.,0.8095,0.4267
+215,"Pampana, a malekere ayopoĩ na naŋ da taa a eelɛ ayopoĩ da narɛɛ la ka ba peɛle a eelɛ.",Papa na amakeed a ileayopoinda nareakaba piɛle a Ela.,0.8421,0.4545
+216,"Aneazaa ka N ba be yɛ zie ane n eŋɛ, N teɛroŋ eŋ be la yɛ zie; a Daana Yeezu yuori eŋɛ, N di la a neɛ ŋa naŋ e a yeli ŋa sɛrɛɛ baare aŋa N naŋ da bebe.",Anaa ka mabɛyie ane nya ntere laese adan yi nso yiriŋ ndzi la aneŋ na ayera serɛ baare aŋa enade,0.875,0.4352
+217,"” A Yeezu naŋ da woŋ a ŋaa, O da yeli ko la a dɔɔ, “Yelyeni kaŋ la kyɛre ka fo ba taa.","Ɛyɛ dzi nandaan anaa ɔdeyi ko na adɔ yelihi kaŋ la kyɛre, ka obaa.",0.7727,0.3559
+218,"A Yeezu naŋ da wa kyɛnɛ a Galili Mane noɔreŋ, O da nyɛ la Saamon ne o yɔɔ Anduru ka ba lɔɔrɔ ba zonkyogri a mane poɔ; bonso, ba da waa la zonnyɔgrebɔ.",Ayɛnnandawa chɛna againi man noɔriŋ o daa nyɛla saamon ni o yo anduri ka ba lɔra bɛ zinchili amankɔɔ nso ba da waala zi nyɔri,0.7879,0.3246
+219,’ Lɛ la ka a saa da de a o boma poŋ a o biiri na bayi.,Le la ka saa ɖade aobo mapo abiri na be ye,0.8125,0.2222
+220,yɛ ta dare a yɛ sukyie aŋa lɛ a yɛ sããkommine naŋ da zɔɔ ne Naaŋmen.,Yɛta dare ayɛ sike anane ayɛ sankuma na ndadze ne nanam,0.875,0.4038
+221,"Ka Yeezu yeli, “Pɔlbile, maa yeli ko fo, vaa-iri!",Ka yesu pobili maa nyɛla kofoo.,0.7778,0.5143
+222,"Ka lɛ pãã, Naaŋmen maŋ ko yɛ la Vooroŋ Soŋ kyɛ tonɔ toŋkpeɛne a yɛ poɔ yɛ naŋ tonɔ a bege toma zuiŋ bee yɛ naŋ sage de bonna yɛ naŋ da woŋ la?",Alea namanama ku la voronsoŋ kyɛ notouneayɛpoɔ yɛnantenabig tomazie be yɛnansa de bona yɛnda wum la.,0.8824,0.3645
+223,"” Lɛ la ka a Pɔɔl da leɛ do a peɛzudie, kyɛ o naŋ da wa te ŋmaa a boroboro a ɔɔ baare, o da naŋ yeli ne ba la yɛlɛ ka a te ta zivɛlemɛ, kyɛ pãã da gaa.",Na Lakapaulo dadeɛ do apedu die kyɛ ona daapem aboroo a ɔrebaare ɔdan yɛlinibalayɛla ka atitina kyɛ paa daga.,0.8718,0.3551
+224,"A yelwolɔ naŋ waana zuiŋ, N teɛre ka a na soma la ka neɛzaa naŋ kyɛnɛ waa lɛ zaa o naŋ da waa.",Ayowa wowɔ nazu ntira aasoma la kaneaa nan kyɛne wa le zaa na daa.,0.913,0.3857
+225,Maa Gyɔɔn la a soba na naŋ da woŋ kyɛ nyɛ a yɛlɛ ama.,dɔlanyɔnu.,1.0,0.8462
+226,Ona la e ka te taa faŋ a waa a nɔpaalaa tontonema.,ɔnoaa ɛkataa fan awaana alato a.,0.9167,0.4474
+227,"A yɛlɛ na eŋ naŋ kyɛre, N na wuli yɛ la ka maa wa wa yɛ zie.",ayɛ na na nnantew la kaman wawae,0.8235,0.5
+228,a zɔɔrɔ ne a Daana ane a O Mɛzaaya.,Azara na adaa na ana a omedia,0.8889,0.3846
+229,"Yɛ nyɛ nɔmmo na tɔ a Saa naŋ nɔŋ te, a e ka ba boɔlɔ te Naaŋmen bibiiri; ka te sereŋ waa a lɛ.",yenye nɔmenatɔ asaana nante a kaabulinima ale.,0.9583,0.5588
+230,O da gaa te de la a gane yi a soba na naŋ da zeŋ a nakogi zu nuduluŋ poɔ.,Odagaatsedela aganɛyi asubɔnanaɖaze ana kogu nuɖolɔ̃mpo,1.0,0.2642
+231,"Yɛ saŋna a baalba naŋ be a be, kyɛ yeli ko ba, ‘A Naaŋmen naaloŋ wa peɛle yɛ la.",Yesana Ababaa be abe yeelo anaa manana pala.,0.9474,0.4655
+232,"Ŋa yoŋ la: ka N moɔlɔ a Ŋmen-yelnoore korɔ noba weɛlɛ, kyɛ bare a tɔnɔ na N naŋ da taa sori ka N nyɛ a yelnoore moɔloo zuiŋ.",Na You la ka Imoaninrikorɔ noba weleaimloo zui.,0.8929,0.6344
+233,"Kyɛ tɔnɔ na zaa N naŋ da nyɛ, N de a la ka a waa zaglaa a Kirista zuiŋ.",sɛ tɔ no na zaa na danye ndia ka waala akristozuin.,0.8947,0.3333
+234,Kyɛ soba na zaa naŋ ba sage de a yelbiri na wɛ la.,Te subana zaa nam basake ayirebi nawɔa?,0.9231,0.4054
+235,A ŋa la a n noɔre N naŋ wullo a puoruu laŋne yie zaa poore.,Aŋa le aenea wulo apule li yie zaa polo.,0.8667,0.4545
+236,Serɛzaa ka N yele korɔ yɛ: Gyɔɔn Bati e la kpoŋ gaŋ banaŋ zaa pɔgeba naŋ dɔge a teŋɛzu.,"Sra kanyie koraa, dɔm bati Elakɔ gaana zaa pɔgba naŋ dɔg ateŋ zuɣ",0.8421,0.3433
+237,"Bonso, dɔgroŋ la so ka dabeɛ̃ bebe, kyɛ neɛ na zaa naŋ zoro dabeɛ̃ ba taa nɔmmo naŋ e soŋ.",Bodwase baanan.,1.0,0.8182
+238,"Azuiŋ a ferɛɛ la ka te maaleŋ kyɛlle velaa bon te naŋ da woŋ, ka te ta wa sare yi a poɔ.",Zoar la ketane le va Bonten da wɔn kataase yi apoɔ.,0.8636,0.4615
+239,"” Ka O yeli sɔge ba, “Nembuo la N ma ane N yɔɔmine?",""".",1.0,1.0
+240,"A yɛlɛ ama da eɛɛ la ka a e yelwulaa ko te, ka ka te na ta boɔrɔ yelfaare aŋa ba naŋ da e lɛ.",ayera ama da yɛ la ka eyewole kakana eliaa banana enu.,0.84,0.4925
+241,"Kyɛ ka o naŋ wa poɔ̃, o maŋ buli la a eŋ bie yaga.",Taka Onan wapoma a nbia,0.9286,0.5588
+242,A ŋaa la vɛŋ ka te ba zoro dabeɛ̃ a Naaŋmen niŋeŋ a yi a Kirista zuiŋ.,Anala vɛ keteawo dabi anaa nie ayi arisee,1.0,0.4615
+243,"Kyɛ Pɔɔl da ba boɔrɔ ka o taa neɛ naŋ da zo kyɛ bare ba Pamfiliya poɔ, a ba tu ba a toŋ a toma.",Tsɛ paulo dababuara ka o taa ne nan do zukyɛ bariba pamfilia poɔ a ba tu ba ato atom.,0.68,0.2319
+244,"Kyɛ ŋmenaa naŋ da wa do, a bombulo da zoɔlɛɛ la, a ko, a naŋ da ba taa nyaga zuiŋ.",Tsaenananɖewɔ ɖo abombulo dazulee la ko ana daba taa yaga zu,0.85,0.339
+245,"A weɛ soba da naŋ taa la neŋyenaa kaŋ, a o poyɛŋ bie.",Awia so ba dan antaa la ni ye naka opɛm bii.,0.9231,0.3077
+246,"N naŋ da wa nyɛ o, N noɔre da maaɛ la yaga.",na da w'anya wo enured maa la yaga,0.75,0.3
+247,Dabeɛ̃ ne nɔmaa da kpɛ ba la ne a yeli ŋa naŋ da e a gbɛre ŋa zie.,gabiae nnamaa ba la ne ayera na da a gbɛre a zi,0.6667,0.383
+248,"Ka yɛnee wa teɛrɛ ka yɛ taa la yɛŋ a teŋɛzu kyɛ, a seŋ ka yɛ leɛ dambolo, lɛ la ka yɛ na toɔ̃ leɛ yɛmbaŋnema.",Kae ne waterk a taala yɛn atiso kyɛ asenkyɛn Lida bolo naana to deɛ yɛma no ma.,0.9615,0.375
+249,"Kyɛ Gyekɔb naŋ da wa woŋ ka bondirii be la a Igyipiti teŋɛ poɔ, o da toŋ la a te sããkommine a Igyipiti teŋɛ a dɛndɛŋ soba.",Tse dzekɔnu de wɔwokabundirii be la Ijipt tiŋa poɔ o dato la atsesɛm a Ijipti trɛ adendansoa.,0.7778,0.4043
+250,"A Fɛstu pãã da tere la noɔre, ka ba taa a Pɔɔl wa ne.",Afei so paatere ka bata a Paulo wɔ ne.,0.7857,0.5
+251,"Bonso, temenne yɛlɛ naane ka te moɔlɔ; a Yeezu Kirista yɛlɛ la ka te moɔlɔ ka Ona la a Daana, kyɛ ka te waa yɛ gbaŋgbaare a Yeezu zuiŋ.",Bosome mineean Katembo yesu risa lakamɔ ka onaa adanna kekaeɛ banaare ayisu zui.,0.9655,0.4563
+252,"Pampana ŋa, vi ba erɛ ma, ka maa gba erɛ pɔloo yaga ne a kpeɛ̃õ a Daana naŋ tere ka N de maale ne yɛ.",Mama no na viberal yala ne Apuna ka deman,0.92,0.6164
+253,"” Ka Yeezu da yeli ko o, “Yelmeŋɛ ka N yele korɔ yɛ.",.,1.0,1.0
+254,"A Galili teŋɛ naa Hɛrɔde da woŋ la a yɛlɛ zaa naŋ e, ka o teɛroŋ zaa da gyɛre, bonso, a noba mine da yeli ka ba eɛɛ la ka a Gyɔɔn leɛ-iri yi a kuuni poɔ.",Literal aaanaanaa bosombaa yi a ni po,0.9459,0.7321
+255,"Saamon Piita ane Tɔmaase ba naŋ boɔlɔ Yeebaa, ane Nataneɛl naŋ yi Keeina teŋɛ naŋ be a Galili paaloŋ poɔ, a Zɛbɛdii bibiiri, a de ne a potuuribo mine bayi da laŋ la taa.",Sam pita anemia yeanan na be agile minaaa ta.,0.9706,0.7348
+256,"Yɛ vɛŋ ka neɛzaa maŋ sigre o meŋɛ korɔ a teŋɛzu wederebɛ; bonso, wederɛ zaa ba kyebe ka Naaŋmen zie naane ka o yi.",Yeve kanea me sigle oleko atiŋuwo Bonsoe abɛtem kana munsina ne ka oyi,0.9583,0.4773
+257,"Yelmeŋɛ zaa la ka N yele korɔ yɛ, ka kabiri ba le teŋɛ a poɔ̃, o maŋ e la kabi-yeni.",Yɛlim' zaa ka nyɛ la koraa ka kabiri ba letan Ilai,0.75,0.5
+258,"Te baŋɛɛ la ka banaŋ Naaŋmen naŋ dɔge ba erɛ yelbieri, kyɛ a soba na Naaŋmen naŋ dɔge maŋ gu ba la taa ka a faaloŋ soba koŋ seene ba.",baŋ la ka baanan baeɛ biri kyɛ Asobaa kaansa kɔnsini ba.,0.8667,0.6078
+259,"Kyɛ Naaŋmen naŋ da kpãã ba ba zannoo poɔ, ka ba ta wa leɛ gɛrɛ a Hɛrɔde zie zuiŋ, ba da tu la so-yuo a gaa ba teŋɛ.",Chana ŋuni Nana kpamba bɛ zaŋ niŋ poɔ ka ba taa le gari ahard ziɛ zin bɛ di tuma sou agaba tiŋa.,0.8929,0.3929
+260,"Ka maa pãã la bee ka bana la, a yeli ŋa la ka te moɔle ka yɛ da sage de.",kamapaa la bi kabana la a yeli ŋa la atimidia da.,0.65,0.3922
+261,"A malekere zaa ba waa seere a Naaŋmen toma poɔ, ka ba toŋ ba ka ba te toŋ ko a banaŋ naŋ na nyɛ faabo be?",Amakrizarbawa siri anaa antoma poɔ ka ba toba ka batitɔnkɔ abananananyɛ faa bobe.,0.8462,0.2436
+262,"O eŋɛ da kɔɔ guree la, ka o da kontoɔ̃ dɔle o meŋɛ.",nado gure la ka o da kɔntua dɔo omena,0.6923,0.4444
+263,"Bonso, a ba seŋ ka o voorɔ.",mezu abandenden ataataa,1.0,0.8947
+264,"Bonso, o yeli la o poɔŋ: ‘N dire la naaloŋ aŋa pɔgenaa; N ba waa pɔgekoɔre.",Bɔ nso yela opuandi la naa lo ana poɔ naa ba waa pɔge koɔ.,0.9375,0.3091
+265,Kyɛ a Yeezu da ba yeli ko o ka o koŋ kpi.,Wo ka aaalalaa suandaandi kyɛ eŋe amankoaf,1.0,1.0
+266,"O da de la a Mareya ka o e o pɔge, kyɛ o da ba baŋ o sɛŋ poɔ, kyɛ ka o te dɔge o bidɔɔ dɛndɛŋ; ka o pore O yuori Yeezu.",O da dila Amaria ka o pɔga chɛ o daba baŋ o sɛ poɔ chɛ ka o ti dɔg bi dɔda daŋa ka o pori o yuori yesu,0.5758,0.2651
+267,"Kyɛ a nyɔvore N naŋ taa pampana a eŋgane poɔ, N taa o la a yeldeebo n naŋ taa a Naaŋmen Bie eŋɛ, Ona la da nɔŋ ma a de O meŋɛ tere N zuiŋ.",kɛ anwofoɔ nantaa pampa na angan poɔ taawaaye nanta anaa me bie na hɔn na danom agye omunae. nui.,0.9429,0.4257
+268,"Ka Timoti wa wa yɛ zie, yɛ taa o velaa, ka o ta kpeɛrɛ a yɛ zie ne dabeɛ̃, bonso, a Daana toma la ka o meŋ tonɔ aŋa N naŋ tonɔ lɛ.","Ka tumtum a wɔyezie, yɛtaa vela ka wo tapua ɖe ayeee dabi bonso adan no toma la ka mentena anantuma la.",0.8182,0.3587
+269,"Neɛ kaŋ da soore O la, “Daana, noba belaa la na nyɛ faabo be?",Mi akadoo na daa na ne ba bilaa la naŋ e faaba,0.9286,0.4091
+270,A apostoliimine ane a nembɛrɛ da laŋ la taa ka ba kaa a yeli ŋa nyɛ.,a Aposin anaa ne brada la la taa ka ba kaa ayili a na,0.625,0.3077
+271,"bonso, fo yɔɔ la a fo tontonema, a Ŋmen-yelmanneba.",Bosoom afotuma.,1.0,0.7179
+272,Yɛ ta de faaloŋ yɔɔ ne neɛzaa naŋ e yɛ faaloŋ; kyɛ yɛ maŋ moɔrɔ ka yɛ erɛ yɛlɛ naŋ soma noba zaa zie.,Yɛada lony ne niezaa na yɛ fa alo kyɛma moreka eleee nanso a noba zaa zie.,0.7917,0.3553
+273,"O ba kye kyɛ, ba eɛɛ la ka O leɛ-iri yi a kuuni poɔ.",Ɔbɛteɛ ba yɛla ka o iri yi a koni.,0.6429,0.4444
+274,"Bonso, ba sɛge la a Moozul begɛ poɔ, “Ta leŋ a naadɛre naŋ ŋmeɛrɛ kyi noɔre.",bɔsoaa Mose begapo talaare naŋ yɛrekyere,0.9375,0.5088
+275,"Aŋa a naŋ waa lɛ, te naŋ ba nyɛ ba ka ba di naaloŋ a boma zaa zu sɛre, kyɛ te nyɛ la Yeezu, Ona la ka Naaŋmen da sigri bebie belaa lɛ gaŋ a malekere.",Ana anaa wo le traaaaaa dinama serekye la ye zu onaanaa de sii bibibi la le ga amale.,0.9444,0.4909
+276,N maŋ leŋ la noɔre gbɛre boyi daa gbuli zaa poɔ.,Malé la nu ɖe gbe ebui dagli zaa poɔ.,0.7273,0.3784
+277,” A noba naŋ da bebe da ta ŋa turi anuu.,na ndaban turi anu.,0.9,0.5
+278,"Ba maŋ vɔge la a ba nazupile biŋ a nakogi niŋesogɔ, kyɛ yiele: “Te Daana Naaŋmen, fo seŋ ne la.",Baalabii akonsia,1.0,0.7887
+279,"Kyɛ a danseɛ la ŋa: Naaŋmen ko te la nyɔvore naŋ ba taa baaraa, ka a nyɔvore ŋa be a O Bie poɔ.",Tsi adasala ŋa naŋ ŋkulem bata bara ka nyura aobiepoa.,0.8696,0.5
+280,Taaba Sane Yaabo Yɛlɛ.,Ame puei yela zaya na ŋɔ yela dɔɔlaa belebele.,2.25,1.5556
+281,"A pɔge da su la kpareze-velaa, ka o lenni ne salema ane lɛɛbie ane kusi-veɛle.",Apae su la kpare ze la ka oleee ne salema anilee bie ane kusi via le.,0.8667,0.25
+282,"A zenɛ ŋa, ba dɔge la a yɛ Faara a Davil teŋkpoŋ poɔ, Ona la a Mɛzaaya, a Daana.",Aznana dɔla yɛfaa davidos adan,1.0,0.6034
+283,"A deɛ ba e ka ba maŋ zeŋ la weɛlɛ yoŋ kyɛ ba meŋ maŋ zuuro la noba poe, a de ba nuuri eŋnɛ noba yɛlɛ poɔ kyɛ yele yɛlɛ a naŋ ba seŋ ka ba yeli.",Adeɛ a kabaa zeŋ la wele yoŋ kyɛ ba me man zuuro la noba podareɛ noba yɛapɔkyɛ yeleyɛlɛ ananase ka bɛ yili,0.7297,0.2476
+284,"Azuiŋ ba da ŋmaa la kpaakpaa vaare, a yi ka ba te tuori O.",Azaka,1.0,0.8837
+285,"Noba yaga naŋ da be a be a woŋ a O kannoo nɔɛ da maaɛ la ka ba yele, “Yeŋ ka a dɔɔ ŋa pɔge a yɛlɛ ama zaa?",Noba la a nana be a be a wo akano no da maa la ka ba yele ye kaa dɔɔ pɔɔyaa yɛlɛ ama zaa,0.5172,0.2267
+286,"Amine meŋ da le la tɛnnoɔ poɔ, a buli, a maale eŋ bie kɔɔ.",Amina me da le la tano abui amale vie kɔɔ.,0.7143,0.3095
+287,"Ba da ba puori a wɛdoŋɔ bee a o teebo, a da ba de a o ŋmaaroŋ a ba gberi bee ba nuuri eŋɛ.",Baaba puori wɔdɔ bi a otiee nuriŋ.,0.9167,0.6154
+288,"Ba maŋ erɛ la a lɛ a na de bon naŋ maŋ wɛ, kyɛ tenee deni ba weɛrɛ.",Mama ɖe la le adebɔ na ma wɔ yɛtenetene bawaa.,0.8889,0.4375
+289,"Ka fõõ wa to fo yɔɔ bee fo yɔɔpuulee, a seŋ ka ba zeŋ ne fo nembɛrɛ niŋesogɔ.",Kafu wòato fo Yor bi fu You le asen ka ba ene fo ne berina so kɔ.,0.8333,0.3966
+290,Naboma Naŋ Be Yagraa Dogre Poɔ.,nti gamais,1.0,0.88
+291,"” Lɛ la ka o da de ma seeloŋ poɔ kpɛ ne a wɛgyɛŋ poɔ ka N da te nyɛ pɔge kaŋ naŋ zeŋ wɛdoŋ-zeɛ kaŋ zu naŋ da paale ne yoe naŋ toorɔ Naaŋmen zoma, kyɛ ka o da taa zuri ayopoĩ ane eelɛ pie.",Le la ka woɖademasilon poa kpe ne awɔda ku ka datinyapɔge kana zegedsikaŋzu na dapal ni yo nanton zuma kyɛ ka o da taa zuri ayopɔin ane rapi,0.7556,0.3841
+292,"Lɛ la ka o toŋ ka ba te ko bibiiri na zaa naŋ ta yuomo ayi kyɛ sigre, a Bɛtelɛhɛm ane o tembilii poore.",Lala ka o tuŋ ka ba ti ku bibiiri na zaa naŋ ta yuomo a yi chɛ sikiritinim ani o tibili puori,0.5417,0.2949
+293,A o soba ta boɔrɔ ka o sɔglɔ a dɛgre iruu ŋmaaroŋ.,Awosotaboɔro ka osɔo adage Urim ano.,0.9167,0.4211
+294,"Lɛ la ka Yeezu da toŋ Piita ane Gyɔɔn, a yele, “Yɛ gaa te nare a Ista tigri bondiraa ka te di.",Lala ka yi zu date mpii ta ane Jon aye le Yɛatena a Istartigribund ra ka tsii.,0.8636,0.2754
+295,"” Ba naŋ da wa gbole kaa, ba ba la nyɛ neɛzaa ka a Yeezu yoŋ naane.",Banana woable ka ba baanyɛ nea zaa kaa yesu yɛna.,0.9375,0.3125
+296,"N naŋ baŋ a yeli ŋa ta zuiŋ, N baŋ ka N na kyɛnɛ be la yɛ zaa zie, a yɛ niŋe gaabo ane a yɛ popeɛloŋ a yeldeebo poɔ zuiŋ, ka ka N na poɔ yɛ poɔ ka te erɛ pɔloo a Kirista Yeezu eŋɛ ka maa wa leɛ wa yɛ zie.",Nyam baŋ ayera tasi mma nka nakyi na be la a zaa zie ayi nine gabo ani yɛ popeɛloo ayɛ dibu pzi ka kɛ ena poɔ yɛpo kate Irepa aristoyesu na kaman wɔlawo yi zie.,0.8113,0.3649
+297,a da de O meŋɛ tere a yɔɔ de nensaalba zaa; ba da di la a yeli ŋa danseɛ a saŋ meŋɛ naŋ da wa ta.,Adade omena tere ayɛ de ne nsa abɛsa batadie danseɛ asan mine andata,0.8846,0.3571
+298,"O naŋ da wa de a suobu baare, o da be la a Filipi zie tegitegilɛ.",Ɔdandawade aso bebare o de belaa filipi zie tete la.,0.875,0.25
+299,Fo ba ŋmaa a zirii ŋa ko te kyɛ Naaŋmen la ka fo ŋmaa tere.,fo bɛma Aziako te kyɛ naana la kama tɛre.,0.7333,0.3636
+300,"A tigri naŋ da wa di baare, ka ba da leɛ kulo, a ba bie Yeezu da zeŋ la a Gyɛruzɛlɛm poɔ kyɛ ka O saa ne O ma da ba baŋ ne a.","Ɛtiri na dɛ wadi baare ka baalekulo, aba bie yie zu dadea agyerusalam poɔ kyɛ ka o saa ne oma dababaŋ nea",0.7353,0.1573
+301,"Ka a deɛ tu lɛ ba naŋ da sɛge a gansoŋ poɔ: “Zaayɔn pɔgeyaa, ta zoro dabeɛ̃.",kalendare,1.0,0.8545
+302,"Yelmeŋɛ zaa, yɛnee la a te puubu ane a te popeɛloŋ!",Yei menza yɛne la Atipui nate,0.9091,0.4872
+303,"Kyɛ a ŋmenaa naŋ da wa puri, a bombulo da zoɔlɛɛ la, a ko, a naŋ da ba taa nyaga zuiŋ.",teɛ ahwan nan da wɔ pure abombulo dazulee la ko ana daba taa nyaa zu.,0.8095,0.3065
+304,Vɛŋ ka soba na zaa naŋ taa toori kyɛlle woŋ bonna a Vooroŋ Soŋ naŋ yele korɔ a puoruu laŋne yie.,Vensa zaa nantariga mpona Avorsonanilo kuro a puoriŋ.,0.9048,0.5733
+305,"A lɛ ne o zu la ka a waa bon-ŋmeɛre naŋ ba voorɔ zie, ka ba ŋmeɛrɛ ka a kono, aŋa wulee bee pɛnnaa.",Ale nu zaka boŋue nambao zi ka ba ŋmeɛrɛ ka kono aŋewu bi pɛn.,0.7917,0.4167
+306,"Nyɛ, N yuo la dendɔre bare fo niŋesogɔ, ka neɛzaa kontoɔ̃ pɔge o.",Na wo la de nririba kuta.,0.9231,0.7347
+307,"Neɛzaa ba baŋ a Bidɔɔ, ka a Saa yoŋ naane, ka neɛzaa meŋ ba baŋ a Saa ka a Bidɔɔ yoŋ naane, ane banaŋ yoŋ a Bidɔɔ naŋ boɔrɔ ka O wuli ba a Saa.",Ne azaaba ban abiɔ kasana ni ka neɛ zaa meŋ ba ba a saa kaa bidɔɔ yo naani nembanayoŋ a bidɔɔ naŋ boɔrɔ ka o wuli ba a sa.,0.6,0.1714
+308,"Maa Pɔɔl, a naŋ e a Naaŋmen poboɔbo ka N waa a Yeezu Kirista apostolii la sɛgrɛ a lɛtɛ ŋa korɔ a nensonne naŋ be Efesu teŋɛ poɔ a taa yelmennoŋ a e yeni a Yeezu Kirista poɔ.",Ma Paul anaa anaa wano boakua yesu Kristo aposo la sege Aletan korɔ ananso ne nan be afi so tiapo atayi mene a eye ne yesu Kristo poɔ.,0.8684,0.403
+309,"O maŋ toɔ̃ taa la sumaaroŋ ne a babaŋneba ane banaŋ naŋ bɔre a sori, o meŋɛ naŋ na baŋ waa bambaala zuiŋ.","Ɔman ntoataa la so maara ne ababan ba ane banaana bɔre asɔre, ɔmene nana bawaa ba baala zu.",0.8696,0.2625
+310,N na baŋ ŋmɛ la nyaa yɛ yɛlɛ a Daana eŋɛ ka yɛ koŋ taa teɛroŋ yuo zaa.,na Bangbale nye yeye le adane ke kunati Yuza,0.9444,0.5577
+311,"Kyɛ a O Bidɔɔ eŋ zie, O yelee la: “Oo Naaŋmen, a fo naaloŋ kogi na bebe la tegitegilɛ.",tse awubdɔ-nzie woye le la nàŋe afenaa bebe la tete.,0.8421,0.5238
+312,Lɛ la ka Naaŋmen pãã na nyɛ puubu yelzaa poɔ a Yeezu Kirista eŋɛ.,Lala ka naa heman nyɛ puu yili zaa poɔ a yie zu Kristo na,0.8571,0.3529
+313,"Lɛ la ka ba da sɔgle tɔ noba mine eŋ ka ba yeli, “Te woŋee la ka o to Moozul ane Naaŋmen zoma.","Le la kaba saulo tɔ ne ba mine nkaba yili, tiwula ka wo tumor anaa zuma",0.8261,0.4058
+314,"Yɛ ta di neɛzaa sane, ka nɔmmo yɛ naŋ na nɔŋ taa naane; bonso, soba na naŋ nɔŋ o tɔsoba tu seŋ la lɛ a bege naŋ wuli.",Yet dzi niezaa ne anoma yɛnan ɔntaa na ne bo nso sɛ mnanam no otɔsoba to sinle abien wui.,0.9643,0.3837
+315,"Yɔɔ na maŋ iri la o yɔɔ tere ka ba ko, ka saa iri o bie tere ka ba ko.",Yona man Irelaoyɔɔ treakɔ kasaa Irietɛrɛkabako.,1.0,0.2857
+316,"Kyɛ te naŋ waa a ŋmenaa noba, yɛ vɛŋ ka te taa temenne velaa, kyɛ de yeldeebo ane nɔmmo ka a waa aŋa kuri kparoo ba naŋ maŋ su pɔge a nyaa, a de a faabo teɛretɔroo vɔgle aŋa kpogli.",keteawo anwenneɛ nkatete me ne vela kyɛdeɛ dibu ananom ka waa anakiri kparoo ba nama supɔ anaa adze aaabote alea.,0.9,0.442
+317,"Banaŋ zaa naŋ boɔrɔ bamenne nyɔvoɛ, na kɔŋ la ba nyɔvoɛ, kyɛ banaŋ zaa meŋ naŋ kɔŋ ba nyɔvoɛ N zuiŋ, na leɛ nyɛ la ba nyɔvoɛ.",Banana nam bɔra mineove na kɔŋla ba nyɛvoya zaa naŋ kɔŋ ba nyɔvia n-zu na lenyɛlaban.,0.7407,0.3684
+318,Bebiri zaa ba da maŋ te zegle o la a Naaŋmen die dendɔre na ba naŋ boɔlɔ Veɛloŋ Dendɔre ka o na sɔrɔ boma yire noba naŋ maŋ wa kpeɛrɛ a Naaŋmen die poɔ.,Baabi dizaandiri na bana boɔ lavender ka ona sorabo ma yire noba naŋ maŋ wa peɛrɛ anaa me die poɔ.,0.7353,0.3983
+319,"Yelmeŋɛ zaa, kɔkɔtɛɛtɛɛ be la a teŋɛzu, kyɛ kanzaa ba kyebe ka a o yelbie ba taa tɛgɛ.",yelima kɔkɔtɔ belaa so kyɛka zaa bɛkyere kaa oyii bibata tɛ.,1.0,0.3939
+320,"O naŋ da wa peere yelbebe zaa bare, O da zeŋ la a Naaloŋ Soba nuduluŋ seŋ a sazu poɔ.",nan da w'apereɛ bebebree la anaa losoe a sazu poɔ.,0.75,0.4219
+321,Ba na nyɛ la O niŋe kyɛ ka ba sɛge a O yuori eŋ a ba gberi eŋɛ.,Banana o niŋe kyɛ ka ba sɛ a yoori n aba gbere na,0.6667,0.2667
+322,"A malekere bayopoi na kaŋ naŋ da taa a laare pãã da waɛ la a wa yeli ko ma, “Wa, N na wuli fo la lɛ ba naŋ na di a gyɛnter-kpoŋ sɛrɛɛ, a onaŋ naŋ zeŋ a kɔŋyaga zu.",Amaki be yopoi naka na data alreadwe la awɔ yi lum wɔ nnafua la ba nannabea kosɛɛ a onanae a kɔnya.,0.875,0.4576
+323,"O da soore la a Yeezu, “Wulwullo, boŋ ka a fere ka N e a nyɛ nyɔvore naŋ ba taa baaroo?",Ɔda so worila Iran wulo boŋkara ka anyanya na bata baaro.,0.9524,0.4444
+324,"Ba naŋ da wa boɔle a puoruu laŋne deme lantaa, ba da de la a gane ko ba.",Na nandaboaLeabu dunan de no lantaa ba dade la Gan kɔba.,0.8333,0.3208
+325,"Ba da maŋ kyɛllɛ la a koɔ̃ dɔ̃ɔ̃mo saŋ, bonso, wagre mine poɔ a Daana maleke da maŋ sigi wa la a koɔ̃-puu zie, a wa dɔ̃ɔ̃ a koɔ̃.",Badama ŋtsi alé la akɔdɔ mɔsaamɔ la aku zie a wɔdɔ ako.,0.8621,0.5955
+326,’ Lɛ la ka a bidɔɔ kpoŋ suuri da iri ka o zagre ka o kpɛ a die.,Le la ka bi okpo su iare ka oza okpɛ adie,0.8235,0.3636
+327,"Ka maa boɔrɔ ka N duoro n meŋɛ, kyɛ N koŋ e damboli, bonso, a yelmeŋɛ la ka N na yele.",kaman bork n-duri mikɛdamɔ bonsu ayirima ka nayil,0.9524,0.5
+328,"Ona la da bebe, Ona la bebe, Ona la na wa.",lala ɖe bebe one la bebe a la na.,0.5455,0.3103
+329,"Azuiŋ, ba da eŋ la Setaana tontonɔ naŋ waa ŋa goɔ a n eŋgane poɔ ka o dɔgrɔ ma, ka N na ta wa erɛ pɔloo.",Aso baa Elastanatonto no na woana gu a engan poɔ ka ɔdɔroma kanna ɛrepa,0.8846,0.3947
+330,"” A daadaalɛ, ka a Vooroŋ Soŋ da sigi ma, ka N da nyɛ nakogi ka o be a tenvelaa poɔ, ka neɛ kaŋ da zeŋ a nakogi zu!","adaadaa le kavosuɖesima, ka edanɛ la ko ka be ateaa poɔ ka neɛkaŋa a nako",0.7857,0.3659
+331,"Ŋmenaa ane tensogɔ ka a maŋ yiele tegitegilɛ, a yele.",Me na ne tensokaamenyi le tete le ayi la.,1.0,0.3571
+332,” N da nyɛ la a pɔge ka o kuoli ne a nensonne zẽẽ ane a Yeezu dansediribe zẽẽ.,Na nye la Paul ka kole ne anisoze ane ayeira zie,0.7778,0.5172
+333,"Saŋ na yɛ naŋ maŋ wa lantaa, ka n teɛroŋ bebe, a te Daana Yeezu kpeɛ̃õ zuiŋ, yɛ de a neɛ ŋa eŋ Setaana nuuriŋ ka o sãã a o eŋɛ, ka ka o seɛ na toɔ̃ nyɛ faabo a Daana waabo bebiri.",Sana ɛnema lantaa ka tierme atane kisaki yɛde aninyanne ka wo saa na kaka osiandɛ faa adan abebe.,0.907,0.5462
+334,"A duoro te naŋ da woŋ yi a Yeezu zie a yele korɔ yɛ la ŋa: Naaŋmen e la kyaane, ka ligruŋ zaa ba kye O poɔ togitogi zaa.",duoro tnane wo nyi eye dudzi eye le kraa laŋna liri zaa ba te o puoto zaa.,0.8276,0.4831
+335,A koɔ̃ ŋa da e la yelmannaa naŋ are ko suobu deebo naŋ maŋ faa yɛ pampana.,Akoa hã da ela yelima na are ko sobobnammamfaa yɛ pampa na.,0.8235,0.3036
+336,"Ka fõõ wa boɔrɔ, N na ti la segre ata, ka fo so kaŋ, ka Moozul so kaŋ, ka Elaagya meŋ so kaŋ.",afuo wɔ boaria ka foon Moonson kaalaa me so ka.,0.8696,0.5606
+337,"A o serɛ Yuzɛb naŋ da waa nemmeŋɛ zuiŋ, o da ba boɔrɔ ka o eŋ o vi noba poɔ.","Asra Yisia, na daware miazu daba bɔraa vi ni ba poɔ.",0.9,0.4545
+338,"” Ka a sefaa e ka a dɔɔ iri gyemɛ, a kyeerɛ ne kɔkɔkpeɛŋaa kyɛ wa yi a dɔɔ eŋɛ.",Ka yedaia kɛ wayaka nikanni.,0.9474,0.7895
+339,"’ Ka N yeli sɔge, ‘Aŋ la fo, Daana?",Daala.,1.0,0.8182
+340,"Ba waa la sagama naŋ ba taa koɔ̃ ka saseɛ fuuro a gɛrɛ ne, a waa ŋa teere naŋ ba wɔnɔ kpankyaane saŋ, a kpi a zaa ka ba tu a lɔɔ bare.",Ba wala sagama namba taa koɔ ka sɛ seeur gari ni awaa teere namba worn kwan chani saŋ puli a zaa ka bɛ tu a lɔba.,0.6364,0.2959
+341,"Naaŋmen niŋesogɔŋ la ka N sɛgrɛ a yɛlɛ ama korɔ yɛ, N ba ŋmaara zirii!",na ame nine sola ka nsɛe ayaam koraa marezi.,1.0,0.4444
+342,"Ba naŋ da wa te moɔle a yelnoore a Dɛɛbe poɔ a nyɛ potuuribo yaga a be, ba pãã da leɛ gaa la Lisitera, a yi a be gaa Ikoniyo ane a Antoɔki.",Banana w'ate mmoa le ayɛ noore ada bi pua anyɛ poturibo yaga a be ba paa daeɛ gala le store ayi abe gaa koni ania antia,0.8485,0.2692
+343,"Lɛ la ka a Pɔɔl da yeli sɔge, “Boŋ la ka yɛ erɛ, a kono a saana n poɔ?","Lala ka Paulo gayi li sa, bokan asane mpo.",0.9474,0.5417
+344,"Bonso, a Daana meŋɛ na yi la tenvelaa sigi wa ne kɔkɔkpeɛŋaa, ka maleke kpoŋ kɔkɔre ane Naaŋmen eele koŋ, ka a noba naŋ kpi a Kirista eŋɛ daŋ iri yi a kũũ poɔ.",Bonso adane me ne nayra tefli ne kɔkɔe no kamali pɔnkɔkɔ ne nameine ko kaana npia dan riyi akuo.,0.9412,0.4836
+345,"Kyɛ yɛ da e la noba naŋ tɔglɔ te yel-erre ane a Daana yel-erre, aneazaa ka yɛ da be la dɔgɛɛ poɔ kyɛ yɛ da de la a Naaŋmen yelbiri a Vooroŋ Soŋ naŋ tere ne popeɛloŋ.",Tse yedila noba naŋ tɔgle ti yeli Ireanda nayili le anaa kede la dɔɔ poɔ kyɛ de la naamani biri aforosane ne popeɛloŋ.,0.7568,0.384
+346,"Ka a gbaŋgbaa leɛ yeli sɔge o, ‘A fo yɔɔ la wa, ka a fo saa ko a naabɛroŋ na, o naŋ leɛ nyɛ a fo yɔɔ ka o naŋ waa kpeɛŋaa kyɛ taa emmaaroŋ zuiŋ.",Kabalabala mu.,1.0,0.8846
+347,"Lɛnso, te nyɛɛ la ka ba da ba toɔ̃ kpɛ a pɛnnoo poɔ ba naŋ da ba taa yeldeebo zuiŋ.",ne la Kabadono mandated,0.95,0.6885
+348,Kyɛ ba da baŋ ka ba da waa la a Yeezu potuuribo.,Shɛba daba ka ba da waa la eye zu potuuribo.,0.5,0.1389
+349,"Ka teŋɛ zaa ba wa de yɛ saanoŋ kyɛ zagre ka ba kyɛlle woŋ a yɛ kannoo, ka yɛnee wa yire a be yɛ piŋ a yɛ gbɛɛ uuruŋ bare ka a e danseɛ do ba.","Kaŋazaa adisane, Tearea ba kyɛle ayaka ka yɛ niŋgo yiri a be ye piŋ a yɛ bɛ urare ka a e danseɛ do.",0.6389,0.3942
+350,"Azuiŋ, a seŋ ka yɛ di suuri ko o, a moore ko o, ka a soba ta wa taa posãã-kpoŋ ka a te zuo o faŋ.",Azaka de suro Amorkor ka asoatene Katiso,0.9615,0.597
+351,"Lɛ meŋ la ka tonsonne maŋ sãã kperaa lɛ; kyɛ ka a naŋ ba sãã meŋ gba, a kontoɔ̃ sɔgle.",Le me la katoo masa perlease,0.95,0.6667
+352,"Azuiŋ, N puoro la ka ka yɛ nuuri ta wa yoɔre ne a dɔgɛɛ N naŋ dire yɛ zuiŋ; a e la yɛ puubu.",Eso mporo le keke nuuri tabini adɔge na dzre zu a elabe puu.,0.9167,0.5
+353,Yeezu Naŋ De O Meŋɛ Wuli A Potuuribo.,Mbabane ba nantin.,1.0,0.8276
+354,"” Ka a Yeezu yeli, “Ka lɛ yɛ meŋ naŋ ba baŋ a yɛlɛ tɛgɛ?","Ka Pita yɛli ka Iliasekpɔriŋa parkty li, ka lɛ yɛ mi namba ban ayɛ taa.",0.9286,0.9211
+355,"’ Ka o yeli sɔge, ‘A dɔndɔmɔ la e a lɛ.",Latoya yɛ,1.0,0.84
+356,A Yeezu da do la taŋzu kyɛ boɔle a banaŋ O naŋ da boɔrɔ ka ba wa O zie.,yes dada tanzɛɛ bɔla abano daba ka ba wɔ oyi.,0.8947,0.4615
+357,"N da maŋ dɔgre ba la gbɛɛ yaga a puoruuderi poore, kyɛ da maŋ erɛ aneɛ ka N fere ba ka ba to Naaŋmen; kyɛ a n suuri naŋ da iri ba zu yaga zuiŋ, da eɛɛ la ka N digi ba te kpɛ ne paaloŋ yobo.",indana gbɛi yaga a puori diri puori kyɛ damaan ka efia baton nsuaa Iri bɛ zuya zu a elada tipanima yubu.,0.9149,0.5252
+358,"A vũũ toloŋ kpoŋ da vuuli ba la, kyɛ ba da ba leɛ ba eebo a de puubu ko Naaŋmen, kyɛ da kaara eŋnɛ a Naaŋmen yuori naŋ taa kpeɛ̃õ a yelwolɔ ama zu.",Eʋuuuu kpoŋ ɖevi ba la dze vaabu kɔname Kedar na anamontuo ayili ama zu.,0.8529,0.6273
+359,"N da woŋ la a banaŋ ba naŋ da eŋ a ŋmaaroŋ noɔre, ka ba da waa noba turi lezaapoi ne turi anaare.",woabaabaa,1.0,0.8767
+360,A lɛ poɔ la ka pɔge kaŋ sefaare naŋ da e ka o gbɛre yuomo pie ne anii da be a be.,Ale pala ka pɔge kaŋ seaare nan da ka ogbaya pie ne ani de be a be.,0.5455,0.2542
+361,A Naaŋmen naŋ da e ka a Daana leɛ-iri a kuuni poɔ na e la ka te meŋ leɛ-iri a kuuni poɔ ne O kpeɛ̃õ.,anaa mananana Iran poɔ na laati iri aku no poɔ ne okum.,0.84,0.4861
+362,"Kyɛ a Gyuumine da yi la Antoɔki ane Ikoniyo a wa a be, a da wa leɛre a nembeɛoŋ teɛroŋ.",Sɛ jumin de yila antia ana konnua a wabe Adawa leɛre a ne biaa tere.,0.9,0.3939
+363,"Bonso, n yɔɔmine ane n yɔɔpuuli, Kɔloe yideme yeli ko ma la ka nɔkpeɛne be la yɛ sogɔŋ.",Bonso nyemena ane eyoo kɔle yi de me yɛrekuma ka nɔkpeɛne be la yɛsoano.,0.6667,0.3284
+364,"Ka a bombie mine le pikubo zu, a be da ba taa tɛne yaga, ka a da buli wieouŋ zaa, a tɛne naŋ da ba e zuluŋ zuiŋ.",Ka bonbie mine le pikubo zu abe abata tɛnya ka a dabili wie zaa a tɛne naŋ daba e zuluŋ,0.5357,0.1852
+365,"Ba naŋ da nyɛ a ŋmarbiri ka o are, ba poore da pɛle la yaga zaa a ba taa mannoo.",Banana nyɛ a ŋmarila o are baa puuri dapala yaga zaa a ba taa maŋ no.,0.6,0.2542
+366,"A apostoliimine da di la danseɛ kpeɛŋaa zaa a kyaare ne a Daana Yeezu kuuni poɔ leɛ-iruu, kyɛ ka Naaŋmen garaase-kpoŋ da be ba zaa zie.",Aposin dadi nadanseɛ panaa akyɛre ne daa ne yesu ku ne poliecy ka naa min garas konda beba zaa zie.,0.8462,0.3491
+367,A fo yɔɔ ba naŋ kaa-iri na bibiiri puoro fo la.,Aƒo banana Irna biiri profa,1.0,0.4
+368,"” Lɛ la ka a Yeezu soore o, “Fo nyɛ la a yibɛrɛ ama?",Lala ka yesu soro fonye la ayi bere ama.,0.7692,0.2571
+369,"Te da de la weɛ a te kpɛ a gbori a gaa Azɔ, be la ka te da boɔrɔ ka te gaa te de a Pɔɔl, bonso, o meŋɛ la da nare a lɛ biŋ, a da boɔrɔ ka o gaa be ane gbɛɛ.","Pedaia wuiɛ, atikɛawo azɔ be leadareaas megale dan nare a labina dabaraka o gaa be ane gbɛɛ.",0.7955,0.4722
+370,"Ka pɔgekoɔre wa taa bibiiri bee yaamine, a seŋ ka ba daŋ de weɛ toŋ a Naaŋmen puoruu feroo toma a ba yideme zie, a kaara ba dɔgrebɔ a yɔɔ a sama mine; bonso, a ŋaa la pɛllɛ Naaŋmen poɔ.",kapoore wataa bibiiri bi yamin asika ba dandeɛtɔ anaa munuu friotom aba yideme zie a kaara ba dɔbɔ a yoo asaman bonso ana la pɛlaa monto,0.75,0.2979
+371,"“Sori bebe la ka neɛ baŋ e yelzaa,” kyɛ yelzaa naane terɛ sommo.",a,1.0,0.9792
+372,Lɛ la ka a Naaŋmen maaroŋ naŋ zuo bammo zaa na gu yɛ sukyie ane yɛ teɛrɛ a Kirista Yeezu eŋɛ.,"Na la ka naa ŋuni maaro nazu bamozaa negusikyie aneesee, atwiste Yesu na",0.9048,0.4028
+373,"Maa la be kyɛ, a nare ka N wa yɛ zie a gbɛre bota soba, kyɛ N koŋ eŋ yɛ toɔrɔ poɔ, bonso, N ba boɔrɔ yɛ bonzaa, yɛmenne la ka N boɔrɔ.",Ma lebet anaa ka wɔ yei abadeɛbaba yɛ bonzaa yɛ mene la ka mboa.,0.8485,0.5729
+374,"A Pɔɔl da gaa te nyɛ o la, a da puori eŋ o kyɛ da pare o nuuri o zu ka o da nyɛ sammo.","Apolo gaaden wɔla aɖe pue, tseaa onurse odeny Sama.",1.0,0.55
+375,"Ka yɛnee wa kpɛ teŋkpoŋ bee tembile zaa poɔ, yɛ maŋ daŋ bɔ neɛ naŋ na baŋ de yɛ saanoŋ, ka yɛ kpeɛrɛ a be a te ta saŋ na yɛ naŋ na yi a teŋɛ poɔ.",Ka yɛne wapɛ tinkpɛŋ bi tibile zaa poɔ yɛma dabɔne nana bandi saa no ka yɛpere a be teaseɛnam ne yi a teŋɛ p,0.7568,0.3019
+376,A yeluu ŋa e la yelmeŋɛ kyɛ taa dɛloo a seŋ ne deebo.,Aye le ŋa Ele yilimiya tadeo asene dii,0.9231,0.475
+377,"Ka maa puoro yele kɔkɔsaama, n seɛ maŋ puoro la kyɛ n yɛŋ ba erɛ bonzaa.",Ka Mampon yili kɔkasaa nsie ma puoro la kyɛ eŋ yamba nɛbɔ zaa.,0.75,0.3636
+378,"Sogyɛre kɔɔ neŋkpoŋ kaŋ naŋ da be a teŋɛ na poɔ da taa la o gbaŋgbaa kaŋ o naŋ taa o yɛlɛ yaga zaa, ka o da beɛrɛ a te tɔgle kũũ.",Sogyare kɔ ne nkɔkan da bee atena napo data la obabaa kan nantaa o yɛla yaga zaa ka o dabiara atetɔ kunu.,0.7812,0.3125
+379,"” Nɔmmo soba ba erɛ faa korɔ o tɔsoba; azuiŋ, ka fõõ wa nɔnɔ fo taaba wuli ka fo tu la a bege ka a ta.",Na ɔmo so aba refa korɔ ɔasofoɔ no foaa wɔkataa ata.,0.96,0.5479
+380,"Yɛ sigre yɛmenne korɔ taa, yɛ naŋ ennɛ a Kirista zuiŋ.",Yesu glean kɔta yɛnan ene akita.,1.0,0.5238
+381,"Kyɛ ba naŋ da ba nyɛ ka a seŋɛɛ la ka ba ko Naaŋmen O gyeremɛ zuiŋ, a Naaŋmen da bare ba la ka ba taa ba teɛre faare a erɛ yelfaare naŋ ba seŋ ka ba e.",sɛ Bandbanyɛ ka asene la ka ba koraa ma ne ogyimi zu anaa me da babaa ka ba taa ba teraa a ɛreyere nambas ka ba e.,0.6579,0.3304
+382,A banaŋ naŋ boɔrɔ yuori a nensaaloŋ poɔ la ferɛ yɛ ka yɛ iri a yɛ dɛgre; kyɛ ba erɛ la a lɛ ka ba na ta wa dɔgre ba a Kirista dagaraa zuiŋ.,Aban nan boro Yoana nsa alopa frɛɛ Kariya dalee laala dograa Akisa zui.,1.0,0.5192
+383,Yeezu Naŋ Kpɛ Gyɛruzɛlɛm Poɔ Ane Gandaaloŋ.,Rogan,1.0,0.8611
+384,"A ba e bonnoo ka yɛ da woŋ la lɛ n nyɔvore naŋ da waa a Gyuumine puoruu laŋne deme poɔ, lɛ N naŋ da dɔgrɔ a Naaŋmen puoruu laŋne deme faa zaa, a da moɔrɔ ka N sãã o bare.",Abeibee ɖewo le le enyɔ vɔ ɖe nandaan puu la ni deme le nadadao laid faa adamaa.,0.9512,0.622
+385,Neɛzaa naŋ erɛ yelbebe ba nyɛ O bee a baŋ O.,Ne zana reyi beba nye bi aba ŋɔ.,1.0,0.4242
+386,"Tenee la a O yiri, ka teneŋ wa nyɔge a te bambaare taa kpeɛŋaa ane a pɔloo naŋ kyaare ne teɛretɔroo.",Tene la awoyere wanya ate babata ane apɔnkye ne tete.,0.8571,0.5128
+387,"Pampana, te baŋ ka a bege soma la ka neɛŋ wa tuuro o lɛ a naŋ seŋ ne.",ampa na te banka abiesa a neawater lɛ anansan.,0.8889,0.38
+388,A fo poɔ la ka ba da nyɛ a Ŋmen-yelmanneba ane a nensonne.,Afɔku la ka ba da nye ame yɛlima ba ane anansene.,0.6923,0.3409
+389,nyɛ maaloo ane emmo ane puubu ane faŋ.,na,1.0,0.9333
+390,"Ka banaŋ da de neɛre kuuri leŋ yagle o soba kɔkɔreŋ, a de o lɔɔ eŋ mane poɔ, anaŋ da na seɛ ko o gaŋ o naŋ na e ka a bibiiri bama kanzaa ŋmɛ gbɛre le.",Ka Bandai niri kuri legali o sobakɔkɔreŋ a do lɔɔ mane poɔ a na danseɛ koo gaŋ o nana ekabibiiri bama kaŋ zaa ŋmɛgele,0.7297,0.2072
+391,"Ba da teɛrɛ la ka o na mɔre la bee a deɛ le kpi, kyɛ ba naŋ da kyɛlle ka a kɔɔre kyɛ ka ba da ba nyɛ yelfaa zaa ka o e a Pɔɔl, ba teɛroŋ da leɛɛ la ka ba yeli ka o waa la ŋmen.","Baatere ka ɔnamana bi adeɛ Lekki kyɛ banana kyɛllɛ, ka a kɔre kyɛ ka ba ba nya Yefura ka opal ba tear dalee la ka ba yeli ka o waa la me.",0.625,0.2857
+392,Ka banaŋ zaa naŋ da woŋ a yɛlɛ a pekyeemɛ naŋ yeli ko ba nɔɛ da maa yaga.,Ka banana nan dawo ayɛ la a pihim nan yili kɔba no dama yaga.,0.8333,0.3273
+393,"A bombie mine meŋ da le la pikubo poɔ, zie naŋ ba taa tɛne yaga, ka a bombie buli wieouŋ zaa, a tɛne naŋ ba e zuluŋ zuiŋ.",Abubia mine me dala pikubo poɔ zie na ba taa tanya ka bombie bliwo zaa a tane namba zuluŋ zu.,0.6071,0.2444
+394,"” Ka a Pilato soore ba, “Wola, boŋ yelfaa la ka O e?",Na a,0.9167,0.9429
+395,Lɛnso ka N da yeli ko yɛ ka O na de la bon naŋ e N soobo a wuli yɛ.,"Le nso ka Indayelkoyɛ, ka ona dala bon na nsoobi",0.9,0.2766
+396,"Fo naŋ da wa koɔre a zie baare, a libie da ba waa fo soobo be?",Fa nana w'akɔ Asiba alibaasa bobe.,1.0,0.4889
+397,"” Ka a Yeezu da yeli ko ba, “Ka yɛnee maŋ wa puoro, yɛ maŋ yeli: Te Saa, ka a fo yuori waa soŋ.","Ka yesu da yeli kɔ, ka yɛ ne ma wɔ puroayɛli, te saa ka fuorowaasɔ.",0.6957,0.3231
+398,N taaɛ la ka a seŋ ma ne a kyɔɔtaare yɛ naŋ da tere ka Epafiroditu wa ko ma.,ntaa ka asɛm ne akyere yɛ na date ka Epafrodito wakoma.,0.7895,0.2807
+399,"Bon-yeni voorɔ la kyɛ ka a kaŋ naŋ ba wa sɛre, kyɛ ka o naŋ wa wa, a ferɛɛ la ka o bebe belaa lɛ.",bunyeni vorila kyɛ ka kaŋ a ba wasɛkyɛ ka ona wɔ wɔafrɛ la ka o beebia,0.68,0.2754
+400,"A nempagdie kaara naŋ da wa dɔ̃ɔ̃ iri o goɔŋ poɔ a nyɛ ka a dendɔɛ zaa yuore, o da voɔ la o zɔɔzɔɔ-soɔ a da boɔrɔ ka o ko o meŋɛ, bonso, o da teɛre ka a nempɔgre da yi zoe la.",Anampo deɛ kaa nana wadɔ Ire oguan mpo anyɛ kaa dendeɛ yuore davɔ la ozɔzɔsoɔ adabraka Okoman bɔnso ɔda teraa ne mpɔre Dayiri la.,0.9302,0.3175
+401,"N bibiiri, yɛ ta vɛŋ ka te nɔmmo e noɔre poɔ nɔmmo, kyɛ te taa nɔmmo ne yelmennoŋ ane te eroŋ poɔ.",Mibiri yɛtake.,1.0,0.8514
+402,"A Yeezu naŋ da wa zɛge O zu a nyɛ nembeɛoŋ ka ba waana O zie, O da soore la Filipi, “Yeŋ ka te na nyɛ bondirii da ko a noba bama ka ba di?",Aedu nan da wɔdze osu anyɛ ne mpia kaba waana osie dasore filipi rekanni dako anaa ka bɛ di.,0.8571,0.39
+403,Yɛnee la da de a begɛ a malekere zie kyɛ da ba tu a.,Yane la dade abee Amaleki zie tsɛ da bat.,0.7857,0.2895
+404,"A ŋaa puoriŋ, a Daana da iri la noba lezaata ne pie mine meŋ, a da toŋ ba bayi bayi ka ba daŋ gaa a tenne ane a ziiri na zaa o meŋɛ naŋ boɔrɔ gaabo.",Anaa purenadaa na dɛ Ibilaniba liza ta ne pie mine meŋ a data babani bɛni ka ba dangaa atene ane adzii na zaa o meŋa nabura aa ba.,0.6944,0.2364
+405,"Ka Piita da soore o, “Yeli ko ma, a ŋaa la ka fo ne a fo serɛ koɔre a zie be?","Ka Pita da soro yelo, aŋala ka fone afoseɛkore zibi.",0.8571,0.2453
+406,Yeli zaa na baŋ nyɛ la eebo a ko neɛzaa naŋ sage de.,""".",1.0,1.0
+407,"Banaŋ naŋ erɛ yɛlɛ naŋ waana ne maaroŋ maŋ bore la maaroŋ, a de mennoŋ boma.",Banana reela na wanane aaron mabra Maron ade me noboa,1.0,0.339
+408,Maa Gyimisi naŋ waa Naaŋmen ane te Daana Yeezu Kirista tontonɔ la sɛgrɛ a lɛtɛ ŋa korɔ a Izerayɛl bale pie ne bayi naŋ yaare be a tendaa zaa poɔ: Yɛ yaane.,Manes na wa namean Yesu Kristo tontone alters bainima yi na yareɛ atenaa zaa poɔ yɛ yaa.,0.9062,0.4918
+409,"Ka o da le teŋɛ kyɛ woŋ kɔkɔre kaŋ naŋ yele korɔ o, “Sɔɔl, Sɔɔl, bonso ka fo dɔgrɔ ma lɛ?","Ka wode letie tse wɔ kɔkɔka nan yi la koroo, Saul bonsua udara mali.",0.9524,0.4844
+410,"Bonso, N nyɛɛ la ka fo taa la pokpegri kyɛ ka potuoloŋ bɔnzɔlɔ leŋ fo taa.",bɔse la afɔteƒe kyɛ ka potroblem,0.8125,0.6491
+411,"Kyɛ pampana, a Timoti leɛ yi la a yɛ zie wa te zie, a wa ko te duor-noɔ a kyaare ne yɛ yeldeebo ane yɛ nɔmmo.",ɛpapa na atime la ayeee wɔtiatia akyɛne yeedzi ne yɛnom.,0.9231,0.55
+412,"O da yeli ko ba la, “A weɛ boma maalɛɛ la yaga, kyɛ ka a tontonema ba seŋ bon, azuiŋ, yɛ sɔre a weɛ boma Daana ka o toŋ tontonema ka ba gaa te de a weɛ boma.",dɛ yili kɔ ba la awua boma maale la yaga kyɛ ka tontonma ase bɔn a zu yɛsɔre awu boma daa na ka o tontonna ka ba gaa te de aweabo,0.6316,0.2193
+413,"Te da kpɛ la gbori a be, a da mɔŋ tu a Sapuru, bonso, saseɛ da fuuro tuoro te la.","ti da kpala gbore abe adamɔ ntu asaporo,bɔnso sasid furo tuoe tena",0.95,0.2414
+414,"Yeezu da leɛ kaa la a dɔɔ kyɛ yeli, “A na waa la tuo yaga ko bondaanema ka ba kpɛ a Naaŋmen naaloŋ!","Yesu da leak ala adɔ tse yili, ana wala too yaga ko bondaanaa ka ba kpɛ anaa ŋuna.",0.7391,0.2703
+415,"A apostoliimine naŋ da wa woŋ a Gyɛruzɛlɛm poɔ ka a Samareya noba sage de la a Naaŋmen yelbiri, ba da toŋ la Piita ane Gyɔɔn ba zie.",Aposin nunana nda w'awuagyerusalem poa kaa Samaria ne basa de la na me ne yelbiri a datolapiita ane gon ba zie.,0.8214,0.2913
+416,Naaŋmen taa la ameseɛrɛ ne a O kyɔɔtaa naŋ ba taa mannoo!,Na montala ameseɛ ne ɔketa na matama,0.9167,0.4222
+417,Kyɛ yɛ yelee la ka N nyaayɛlɛ zuiŋ la so ka N da bɛlle nyɔge yɛ.,se yeye le la ka enyale zu la so ka dabiya ye.,0.6875,0.4583
+418,"Ka ba naŋ wa taa yɛ kpɛ ne a puoruuderi ka ba di yɛ sɛrɛɛ, bee a gaa ne yɛ a namine ane a teŋɛ nembɛrɛ zie, yɛ ta miine ne lɛ yɛ naŋ na yeli faa yɛmenne, bee bon yɛ naŋ na yeli sɔge ba.",Ka Baamaaya ka ne Aporidari ka bɛ di sɛɛbii aganye ana mine ane atinasie tamina ne lɛ yɛ nana yeli faaming yeli sɔga.,0.7826,0.4191
+419,Ba da tu la a banaŋ naŋ da taa a yelnoore wa ne yɛ zie a yi a Vooroŋ Soŋ ba naŋ da toŋ ka o yi tenvelaa wa.,Maɖe tu la abana naneta aye ŋuɖe wanye zie ayi avɔwo sɔŋ ba nan dato ka yi teela wɔ.,0.7931,0.3462
+420,"N pãã da woŋ la kɔkɔre kaŋ a Naaŋmen puoruudie poɔ ka o yele yɛlɛ korɔ a malekere bayopoi na, “Yɛ gaa te kyiri a Naaŋmen supuriyaaraa naŋ be a laare ayopoĩ poɔ na eŋ a teŋɛzu.",Maadwoa akanewo kaekae.,1.0,0.8897
+421,"Fo zeŋ la a be, a yeli ka fo dire la n sɛrɛɛ ne a begɛ, kyɛ saana a begɛ ne fo naŋ tere sori ka ba ŋmɛ ma?",Peseafodirela nsrɛne abigail,1.0,0.7067
+422,"” A potuuribo naŋ da wa woŋ a yɛlɛ ama, dabeɛ̃ da kpɛ ba la yaga, ka ba le vɔgle teŋɛ.",Apoobɔ nanewɔwɔ ayɛ la ama dabiaa la yaga ka ba de Levi,0.75,0.459
+423,"Kyɛ ka teneŋ wa moɔrɔ ka te leɛ nemmenne a Kirista eŋɛ, kyɛ ka ba nyɛ te ka te waa yelbe-erebɛ, a Kirista mɔɔ waa la yelbieri tontonɔ be?",yɛkane woammoa atenene mene Aritna kyɛka wanyɛ te katea yelee mawowa yilibia tontona be.,0.931,0.4571
+424,Yɛ ta wa zɔɔrɔ yɛlɛ aŋa ba mine naŋ da e lɛ ka a sããsaana da ko ba.,Yet zɔ ɖe ye le aŋamenananda Ele ka asaana da kɔb,0.8889,0.4082
+425,Kyɛ ba na manne la a yɛlɛ na zaa ba naŋ e a ba nyɔvore saŋ ko a soba na naŋ are a nare gu ka O di a voba ane a kuuni sɛrɛɛ.,Tse banaana la a yɛlɛ na zaa ba naŋ e a ba nyaare sankɔ asaman na are anaigukaodi avɔa ane akunini.,0.6176,0.2809
+426,"Lɛ la ka ba kaŋ yuori naŋ di Kilopa leɛ soore a Yeezu, “Fo yoŋ la saana naŋ be a Gyɛruzɛlɛm poɔ a ba baŋ a yɛlɛ naŋ e a bebie ŋa poɔ be?",Na nakakra di kilo palas raye zu foyen la sana nam be agyerusalɛm poɔ ababan ayera naŋ e a bebe a poɔ be.,0.7353,0.32
+427,Kyɛ a te Daana garaaseɛ da paale ma la ne yeldeebo ane nɔmmo naŋ be a Kirista Yeezu eŋɛ.,Te atidanagara sia dapal mala ne edziban nɔ mɔ na be akita yesu na.,0.8421,0.3913
+428,"Yɛ yeli ko ma, yɛ banaŋ naŋ boɔrɔ ka yɛ tuuro a bege, yɛ mɔɔ koŋ kyɛlle woŋ bon a bege naŋ yele be?",Yeyeekomma yɛba nanam bore ɖo abe yɛawono bon Abigail be,0.9167,0.5205
+429,bee nensaalba biiri la boŋ ka fo taa ba yɛlɛ lɛ?,be nesalba boŋ ka fata bayere a,0.8182,0.4595
+430,kyɛ ka teŋɛzu kyɛ ka banaŋ O poɔ naŋ pɛle ne nyɛ emmaaroŋ!,Sɛ katinsi te ka bana ɔpono a pɛne na maa.,0.9231,0.5333
+431,"A yeli dɛndɛŋ soba la ŋa, ba yeli ko ma la ka yɛ naŋ maŋ wa lantaa aŋa puoruu deme, ka wɛltaa maŋ be la yɛ poɔ; kyɛ N deɛ la ka yelmeŋɛ belaa be la a poɔ.",eye dendenansana mananana anyarewa be la a poɔ kyɛ endelay miabla be la a poɔ.,0.7895,0.5664
+432,"Bonso, Naaŋmen waa la meŋɛ soba naŋ nyɛrɛ a yɛ tonsonne yɛ naŋ tonɔ korɔ a nensonne ane a nɔmmo yɛ naŋ wuli ba a Naaŋmen zuiŋ aŋa yɛ naŋ naŋ kyɛnɛ erɛ lɛ.",Bɔnsa na ŋena la menya soba na nyera ayatsɛ ne yɛn antena korɔ anansene ane anɔmo yɛnanwuliba anaa ŋunzɛya nan nan kyɛnɛ yerɛ,0.8529,0.3277
+433,Nyɔvore Naŋ Pɛllɛ Naaŋmen Poɔ.,NKA,1.0,0.92
+434,N ba boɔrɔ ka a e ŋa N moɔrɔ la ka N ŋmaa dabeɛ̃ eŋ yɛ ne a n gansɛgre.,Mmabaa a moral ka maadai nyɛ ne a nansa gari.,0.8,0.48
+435,ka a sonyaara zaa soli; kyɛ ka a andonɛɛ zaa nyɛ a Naaŋmen faabo.,Ka so nyara chɛka doneany anamuna.,0.9286,0.52
+436,"N yɔɔmine ane n yɔɔpuuli, yɛ baŋ ka Setefanase yideme la daŋ leɛ Kiristabiiri a Akaya poɔ, a da kpimare a tonɔ korɔ a nensonne.","Nyona ane nyo puli Yɛanka sitefano se, Yideme la dan Likia biiri a kaapo Adakuma atonorsone.",0.84,0.34
+437,"Azuiŋ, N sɛge la a yɛlɛ ama N naŋ ba kye a yɛ zie, ka ka maa wa wa ka N ta de a kpeɛ̃õ a Daana naŋ ko ma a ferɛ ne yɛ, bonso, O ko ma la a kpeɛ̃õ ka N taa maala ne yɛ, a ba e ka yɛ saamo zuiŋ la.",Aso nsa la ayɛ la ama nam bɛkyɛ ayedee kakaa kanta akoa adan na koma afraeɛ bonso ɔkoba lapia ka ntama no yɛ abakasa zi,0.9091,0.4211
+438,"Bonso, a soba na naŋ peerɛ yelbebe bara ane banaŋ yelbebe ba naŋ peere bare zaa taa la Saa yeni.",Monsɔ asebaa naŋ peerɛ yele ba bara ane banail bebe banaŋ piiri bare zaa taa la saa yini.,0.6,0.1733
+439,Ba da ba nyɛ ka N ŋmeɛrɛ nɔkpeɛne ane neɛzaa bee a nyɛ ka N dɔɔnɔ noba laŋna taa a Naaŋmen die poɔ bee a puoruuderi poore bee a teŋkpoŋ poɔ.,adaba nye ka ŋmeri nɔkpeɛne ani nizaa anyɛ ka edɔɔɔ noba laŋtaa ananmu die poɔ bi a puridepobi atipɔn,0.7742,0.3578
+440,Yɛ e ko o aŋa lɛ o naŋ da e ko a noba.,"Yɛ ko ana la nan da kɔ, ano.",0.7692,0.4
+441,Bee a noba pie ne banii na a Silom daŋkyinkpoŋ naŋ da le ko; yɛ teɛre ka ba da e la faa yaga gaŋ a banaŋ zaa naŋ da kpeɛrɛ a Gyɛruzɛlɛm poɔ be?,bi a noba pie ne ba ni na asilandaŋkyin ponaa le kɔ yɛteka bada Ela fa yaga gaŋ a banana naŋ da kpeɛrɛ a Jerusalɛm poɔ.,0.6176,0.2222
+442,A Gyɛnter-kpoŋ Ane A Wɛdoŋɔ Yɛlɛ.,a galisiri pinaayopɔin,0.8333,0.6923
+443,A noba bama yeli ka kultaa e la kyiiruŋ kyɛ tere noɔre ka ba ta dire bondirii mine Naaŋmen naŋ iri ka a da seŋ ka a banaŋ naŋ sage de a Naaŋmen yɛlɛ kyɛ baŋ a yelmeŋɛ na dire kyɛ puoro O bareka.,"anoba ma yelka kuta letsir, tsɛ treni ka bi da diebudirimini naaman irks dansa de anaa ŋuniya ba ayi li mine na direyɛ barika.",0.9091,0.4733
+444,"A maleke kaŋ da taa la salema laa ba naŋ maŋ eŋ ensɛnse o poɔ a nyege, a da wa are a Naaŋmen bagmaalkuuri niŋesogɔ.",Amalek data la salema la ba na man nsase ɔpoɔ anye ada wa are anaa ŋme ba maa kuri ni soɔ.,0.88,0.2584
+445,"Kyɛ N tonɔ la a yɔɔmine a yɛ zie, ka a temenne te naŋ wullo a yɛ zuiŋ a yeli ŋa poɔ ta wa e zaglaa kyɛ ka yɛ na toɔ̃ nare aŋa N naŋ daŋ yeli ka yɛ nare baarɛɛ la.",Ka ntona yɛ mene yei kaa temeni te nawu la yesu ayili na poɔ tawa Isaka kyɛka to nare ana na dada yili ka yɛ areare a,0.8571,0.3814
+446,Haali te naŋ da waa kuuni te saanaa zuiŋ kyɛ O da eɛɛ la ka te ne a Kirista leɛ laŋ voorɔ .,halted kuni tesano kɛdaa atena Kristo le la vuoro,0.9545,0.4559
+447,Lɛ la ka ba da za a Pɔɔl ne kubo kyɛ vu o yi ne a teŋɛ poɔ a te bare a be a teɛre ka o kpie la.,Na akabaa za apolo ne kubo kyefuyini a teŋa poɔ teba abe ateka okua la.,0.7931,0.3182
+448,"Ka o naŋ wa zagre ka o kyɛlle ba yɛlɛ, te yeli ko a puoruu laŋne deme.",Ka o naŋ wa zagere ka o kyɛle baalɛ ti yeriko aporo la ni dam.,0.6471,0.25
+449,Ba da yiele la yieluŋ paalaa a nakogi niŋesogɔ ane a bonvoba anaare niŋesogɔ ane a nɛmbɛrɛ niŋesogɔ.,Ba ɖe yilila yelon paala ana kogi niŋ soga a ne abofoa anaare niŋesoga ane a nembɛrɛ niŋesogɔ,0.7222,0.1829
+450,"A gɔbena naŋ da wa ko a Pɔɔl sori ka o yeli yɛlɛ, O da yelee la: “N poɔ pɛle la yaga ka N tu n noɔre ko fo, bonso, N baŋ ka fo di la a teŋɛ ŋa noba sɛrɛɛ yuomo yaga.","Ɔbea nanawo Paulo sori ka yeli yɛla, o dayel la popelaa ka ntu nor kofo bɔnso manka dzi la atena ne ba saraymuyaɣa.",0.8372,0.3675
+451,"Ba naŋ da wa yeli a yɛlɛ baare, Gyimisi da yeli sɔgɛɛ la, “N yɔɔmine, yɛ kyɛlle woŋ n noɔre yɛlɛ.","Na namda wayi ayɛ la baare yi miida yili sɔgela, yoomi yɛkyene ya la.",0.9524,0.375
+452,"Bon N naŋ yele tɛgɛ la, yɛ mine maŋ yeli la, “Te tuuro la Pɔɔl,” ka mine yeli, “Te tuuro la Apolo,” ka mine yeli, “Te tuuro la Sefase,” ka mine yeli, “Te tuuro la a Kirista.","bɔne nanere la tuuro la pɔlilee tuuro la polo, ka mine yeli tuuro la siaa ka mine yeli tituo la a kirisi.",0.5946,0.3884
+453,"A zirii kirista la ŋa, ona la a soba na naŋ zagre a Saa ne a O Bie.",Azirikrisala lãna la asiba na zabi asane a obi.,0.8333,0.3125
+454,Ka ba da wa yeli ko a bondaana ŋa ka a o tontonema zukaara saana la a o boma bara.,abadae ko bondaanaa a ɔto ntoma sokraa na la ɔboa.,0.85,0.4194
+455,"’ Kyɛ a zuyɔɔ-derɛ eŋ da te are la tɔɔre zaa a ba sage ka o doɔ o zu kaa sazu, kyɛ da gbɛlɛ o nuuri a yele, ‘Naaŋmen, zo N nembaaloŋ, maa yelbe-erɛ!",Teazuyɔɖeɖe eŋ nate Alate saka Udoozukasezi dze ɖagbe le o nuri ayena ŋmen zu ene baaloŋ maanili be e,0.9394,0.4151
+456,Kyɛ N teɛre ka a Naaŋmen Vooroŋ are ko ma la a yeli ŋa yeluu poɔ.,sɛ ntira anaa onfor arekomala ayi na yeloo,1.0,0.4082
+457,"A bonvoba anaare kanzaa maŋ taa la begɛ ayoɔbo, a taa nimie gyeere a lamboe zaa ane a pooreŋ meŋ.",abofoa anaare ka zaa matala begaand bo zaa ane purim,0.85,0.4868
+458,"a o yelwolɔ poɔ; bonso, a o yelbebe gboŋ do te ta la a saluoni.",a yili wula pua bonsoi salon.,0.9333,0.6739
+459,"Yelwulaa naŋ waa kpoŋ da sãã la a saluoni poɔ: pɔge kaŋ da su la a ŋmenaa aŋa kparoo kyɛ ka a kyuu be o gbɛɛ puliŋ, ka nazupili naŋ taa ŋmarbie pie ne ayi da be o zu eŋɛ.",Yei wulana ŋu woakpɔ da saa la ase loo ni ƒoa kandele na akpakei nazupili natama pie ne ayi de be o zu ŋa.,0.775,0.4766
+460,"A ensɛnse nyegebo saŋ naŋ da wa ta, a noba zaa da be la a yeŋ poɔ a puoro.",a nsansan sanan da wata a noba zaa da be la a yeŋ poɔ a puuri.,0.3684,0.2407
+461,"N kyellɛ la ne a Setefanase ane Fɔkyunatu ane Akyayaku waabo, bonso, ba leɛre la a yɛ zu.","Enti la la ne sitia no se, ane foke ane kyɛkaara",0.8333,0.6232
+462,"Ta vɛŋ ka bon fo naŋ dire e ka neɛ na zuiŋ a Kirista naŋ da kpi, wɛ.",Tank bonu na dire kaninazui akristonanda kpi wɔ.,0.8889,0.3061
+463,Lɛ la ka ba da iri Pɔɔl ane Banabase ane a noba na mine ka ba gaa Gyɛruzɛlɛm a te nyɛ a apostoliimine ane a nembɛrɛ ka ba gyɛle a yeli ŋa.,Le akaba de Iripɔul ane Banabas ania ne ba na mine ka ba gaa Jerusalem atinya posomneane ane dara ka ba gel ayɛri ny,0.7188,0.3019
+464,"Daare kaŋ Yeezu naŋ da are peɛle a Gɛnnesarɛ baa, ka neŋyaga da daara taa, a wa te fogle O a boɔrɔ ka ba kyɛlle woŋ a Naaŋmen yelbiri.",Daa ka ye zu nandar peɛle a gane Sara baa ka nenyaga da daara taa a wate foroo a boɔrɔ ka ba kyɛle wo anaa me ne elebe,0.6552,0.2136
+465,Giriki noba mine da poɔ la a noba na naŋ da gaa a tigri zie ka ba te puori.,Grikinoba mine dapula anobaanandaga atiesie ka ba ti puori.,0.7895,0.1964
+466,N da do gaa la a be N naŋ da nyɛ yel-iriwulaa kaŋ zuiŋ.,edo gã la abe naanyi Ill kaŋ zui.,0.8571,0.45
+467,"Naaŋmen na baŋ ko yɛ la maaloo boorɔ zaa ka a gore, ka yɛ na taa bonzaa ka a seŋ tegitegilɛ, a na maŋ tere yaga a tonveɛle zaa zuiŋ.",Na amona ban kpee la Malo boora zaa ka guri kenatbonzaa kaa sinkete a namanteyaga atoii zaa zu.,0.8,0.38
+468,"A wagre na poɔ la ka o da wa, a piili puuro Naaŋmen a kyɛ manna a bie yɛlɛ korɔ banaŋ zaa naŋ da kyɛllɛ a Gyɛruzɛlɛm faabo.",Awara napo naka ɔda wo apini puuro naaman akyɛma na abie yɛla koraba nan zaa nan da kyɛla agerusalamfaa bo.,0.8929,0.234
+469,"Lɛ la ka a Yeezu da yeli ko ba, “Ŋmen-yelmanneba maŋ nyɛ la emmo zie zaa ka bamenne teŋɛ poɔ ane bamenne noba zie naane ka ba ba taa emmo.",Lala ka ayi da yɛliba nindi man ma ma nyɛla muzizaa ka bɛ mini ti na poɔ ane ba mini ni noba zenaa ni ka ba bata m,0.8333,0.3619
+470,"” A Yeezu naŋ da wa de O nuuri pare a pɔge zu la ka a o eŋɛ deɛ dɔle ka o iri are tori o zaa, a piili ire Naaŋmen yuori.",Ɛyɛ unan da wadwo no repare apa zula kaa enade dol ka wuri are tori a o zaa a piili Irana mini yuri,0.7742,0.314
+471,Te puoro la nimizeɛ zaa tensogɔ ane ŋmenaa ka ka te na toɔ̃ nyɛ taa nimisogre bebiri kaŋ ka te maale a yɛlɛ na zaa naŋ kyɛre a yɛ yeldeebo poɔ eŋ.,Tipuure le ni misaa tensor ane mena kɛkataa nye ta nimisogere bebe ka katema ayalon zaa naŋ kyɛre a yɛ yedii poɔ en,0.75,0.3274
+472,"” Ka a Yeezu yeli ko ba, “Elaagya sereŋ na de la weɛ wa, a wa maale a yɛlɛ zaa eŋ a bogriŋ.",Ka yesua na delayamage,0.9091,0.75
+473,"Kyɛ a potuuribo naŋ da wa nyɛ a lɛ, ba suuri da iree la ka ba yeli, “A saamo ŋa tɛgɛ la boŋ?",Tsiaƒuto na da wanyɛ ale be suuri da Irelakaba yɛlimaŋtali boŋ.,0.8261,0.3788
+474,"Neɛ na zaa naŋ ba maŋ ŋmɛ gbɛre o yɛlɛ yeluu poɔ waa la nemmeŋɛ, a na toɔ̃ taa o nyɔvore velaa ne o noɔre bantaabo.",ni ena zana ba maŋ megbee oye le yeloo wòala meanana ne onuabaa o.,0.8846,0.5172
+475,"Ka bon ba naŋ daa bare konkoori wa taa veɛloŋ wa ne, bon naŋ bebe tegitegilɛ veɛloŋ na waa la kpoŋ yaga zaa!",ka bɛ naba nandar kɔŋkori wataa veɛlon wani bɔnam be be tetel viɛla ni wala poŋ yaga zaa.,0.8696,0.3095
+476,"” A naa poɔ da sããɛ la yaga, kyɛ a poɔbo o naŋ da pɔ ane a saama vi zuiŋ, o da tere la noɔre ka ba e a lɛ.",Anaa po nasaalaa yɛ apɔapɔ viidio kaba.,1.0,0.6164
+477,"A mane da iri la a kuuni naŋ be o poɔ tere, Kũũ ane Dazugovũũ meŋ da iri la a kuuni naŋ da be a poore tere ka ba da di ba zaa sɛrɛɛ a seŋ bonna ba naŋ da e.",Amanda Iri la a kuu ni nam be o potre ane dazuovmindɛ Irani naŋ da be aporeeɛ ka bɛ di di ba zaa seɛ asebaananda,0.7073,0.307
+478,"A maleke bayi soba da kyiri la a boma naŋ be a o laa poɔ eŋ a mane poɔ ka a mane koɔ̃ da leɛ waa ŋa kũũ zẽẽ, ka a mane poɔ bonvoba zaa da kpi.",Ame ka bayi sebadia abuman be a ɔapon poɔ ka a mane koɔ dane waana k zie ka a mane poɔ bɔmfoɔ zaa daku.,0.6486,0.3592
+479,ka a tendaa namine ne o da toŋ peɛ̃mo toma.,Ka tindaannim ne ne dati tuma.,0.8,0.4375
+480,"” Lɛ la ka N da gaa a maleke zie a te yeli ko o ka o de a ganlee ko ma; ka o da yeli ko ma, “De ɔɔ, o na waa la tuo fo poɔŋ, kyɛ noma aŋa seere a fo noɔre poɔ.",Lala ka edagaamaleki si ati yelo ka wode agala ka ode yelkaŋa poɔ.,0.9091,0.5833
+481,"Epaferase naŋ waa n nempɔge-tɔ a Kirista Yeezu zuiŋ puoro fo la, a lɛ la ka Marko, Arestaku, Dɛmase ane Luka naŋ waa n tonton-taaba meŋ puoro fo.",o.,1.0,0.9911
+482,"Yɛ te nyɔge a naabo na naŋ eŋ kãã yaga a ko, ka te maale tigri.",Yɛte gag anaaba na nkanya akɔ katembiiri.,0.9375,0.4348
+483,Kyɛ laboreŋ yeli: “N na dɛle O la.,Sela renyi Na dal la,0.75,0.5
+484,"A Gyudase ane Selase meŋ naŋ da waa Ŋmen-yelmanneba, da yeli la yɛlɛ yaga teɛ a yɔɔmine a ko ba faŋ paalaa.",Awoda ase aniase na nan da w'awene yɛlima no ba daylayyaga tia ayoma koba fam paa,0.9545,0.4458
+485,"A yeli ŋa zuiŋ, a seŋ ka pɔge leŋ zutaraa ka a e yelwulaa ka o be la o serɛ kpeɛ̃õ puliŋ a malekere zuiŋ.",Ayele zo asɛnka pɔge Lezo tara ka yelima ka o bela osekuni amalek zui.,0.84,0.3846
+486,"Bonso, ka fooŋ tuori de a soba, fo na poɔ la a o soba yelfaare poɔ.",Bosuaba.,1.0,0.8571
+487,"Bonso, bibiiri naane so ka ba bɔ biŋ ba dɔgreba, kyɛ dɔgreba la seŋ ka ba bɔ biŋ ba bibiiri.",Bonsu bibire na ne nso kabɔbi badara yɛdaase kama bɔbi ba bi.,0.95,0.3857
+488,A yɛ buo soba la da iri o dɛgre kyɛ ka Naaŋmen pãã da wa boɔle o?,ayaboaboa Ire Odar kyɛ ka namanama waboa no.,0.8824,0.4583
+489,"N da maŋ yeli la ba yɛlɛ ko yɛ, kyɛ pampana N yele la ba yɛlɛ korɔ yɛ a gba ŋmaara nentaŋ; bonso, ba yaga leɛ la a Kirista dagaraa dɔndɔnne a yi lɛ ba naŋ taa ba nyɔvoɛ.",Naman yili la a yɛla kuya kɛ pampana yi la ba yarekorɔ ya agbaa ne ntam bonso ba yagele la kristo daga la dɔndɔn ayi la banana ba yovua.,0.7949,0.3071
+490,"N na tu la Masedoniya kyɛ pãã wa yɛ zie; bonso, N teɛroŋ la ka N tu Masedoniya.",Na tonamesedonia kyɛpa wɔ Yese banso ntira ka ntu Masidɔnia.,0.8889,0.339
+491,"” O da ba toɔ̃ toŋ toŋkpeɛŋaa zaa a be, ka a naŋ ba e O naŋ da de O nuuri pare baalba bawola mine eŋɛ ka ba da nyɛ ba sammo yoŋ naane.",o daba tontontan abe kanaanni baabaaba yi naani.,0.9697,0.6392
+492,“Yɛ digi a potuo soba ka o yi a yɛ poɔ.,"Yedu apoto suba ka oyi ayɛ po,",0.9091,0.2593
+493,"Kyɛ a bebie ata ne ŋmaa puoriŋ, nyɔvore vooroŋ naŋ yi a Naaŋmen zie da kpɛ ba la, ka ba da iri are, ka dabeɛ̃ da kpɛ a banaŋ naŋ da nyɛ ba.",tɛ abibitam dana.,1.0,0.8824
+494,"A lɛ zuiŋ, bonna Naaŋmen naŋ wa lantaa, nensaala zaa ba taa sori ka o wɛle a taa.",Alizin Bona naanaa lantaa nensaalaa sori ka owala.,0.8333,0.3607
+495,"A o waaloŋ da waa ŋa saa naŋ nyegrɛ, kyɛ ka o bonsuuri pɛle parepare lɛ aŋa sakubo.",Ao waaloŋ saa na nye getso bonsuurii pɛiparipare la a ŋa Saku.,0.8889,0.3438
+496,"A Moozul da taa ba la yi ne a Igyipiti teŋɛ poɔ, o naŋ da toŋ toŋkpeɛne ane yelwulii a Igyipiti teŋɛ poɔ, a Manzeɛ poɔ ane a dalempoɔ poɔ yuomo lezaayi.",Amewo zi data be le yini Igiptteŋapɔɔ wonana nto kpui ne niyeli wuli Ijipt tiŋa poɔ Amazia poɔ ane dalempoɔ poɔ yomee zaa yi.,0.875,0.3475
+497,wola ka a pãã na waa ko banaŋ naŋ ba puoro Naaŋmen ane a yelbebe deme?,Wo la ka apanawoako aban na bapuori naaŋmen ane ayili bebe de me.,0.875,0.1852
+498,Te baŋ la O saa ne O ma.,Zɔ mɔ me ka a noba kaŋ zaa dii ka asebaa daa di tebaare. yɛ zidol kola potuuribo.,2.25,3.1875
+499,"Ka a koɔraa tontonema wa soore o, ‘Daana, bombi-sonne yoŋ naane ka fo da bore a weɛ poɔ be?","Ka kurano, wɔasɔre daa na bombone yona ne kafua bore awipore.",0.8947,0.3824
+500,"“Yɛ woŋee la ka ba da yeli ko la a dakoroŋ noba, ‘Ta ko neɛ’; kyɛ ‘onaŋ soba zaa naŋ wa ko neɛ, ba na di la o sɛrɛɛ.",Yewo ŋe la ka ba de yeloo la dakoro noba akona kyɛ o nanso ba zaa naa koni bɛna dila osɛɛ.,0.7931,0.225
+501,"A banaŋ naŋ naŋ kyɛnɛ be yelbieri poɔ, yeli a ba saanaa a noba zaa niŋesogɔŋ, ka a banaŋ naŋ kyɛre na zoro dabeɛ̃.",Aban na nkyene yɛlibiɛri poɔ yeli abasa na anaa zaa niŋesogɔ ka baanan kyɛrɛ na zora bi.,0.7917,0.2874
+502,"Bonso, ba da kpa O la a dagaraa zu bambaaloŋ poɔ, kyɛ ka O voorɔ a Naaŋmen kpeɛ̃õ poɔ.",bɔsoaa la daga a zu babaoo kyɛ ka voromi pini poɔ.,0.7368,0.4844
+503,"Yɛ kaara a zu ne popeɛloŋ aŋa lɛ Naaŋmen naŋ boɔrɔ, ka a ta e feroo bee tɔnɔ nyaabo zuiŋ, kyɛ ka a e yɛ naŋ nɔnɔ ka yɛ e zuiŋ.","Yɛkaa zunipopiala, aŋala we nam bɔraa fire bi tɔn nyabu zu kyɛ kaa e yɛnnan ka yɛ Isui.",0.871,0.4086
+504,Soba na zaa naŋ be peɛzu ta la leɛ sigi bee a kpɛ die poɔ ka o de bonzaa yi ne.,So banaa na bepue zu Palais bi apediepoɔka Odabo zaa yi ni,0.9524,0.3276
+505,A te Naaŋmen la so faabo ane puubu ane kpeɛ̃õ.,Atemmu le sofa beanine kuiwo,1.0,0.5714
+506,"’ Lɛ eŋ, a ba la fere ka a soba ŋa eŋ o saa.",Le Abakoase.,1.0,0.6786
+507,"A malekere naŋ da wa bare ba kyɛ leɛ gaa tenvelaa, a pekyeemɛ da yeli ko la taa, “Yɛ e ka te gaa a Bɛtelɛhɛm pampana ŋa, a te nyɛ a yeli ŋa naŋ e, ka a Daana iri wuli te.",Amalek rennda wababa kyɛ legate vela apiki ma da yili kom na taa yɛ katia a betlehem pɔmpɔn nya a tenye a yiri ŋa naŋ e kaa daana iri,0.7073,0.3065
+508,"A bombie mine meŋ da le la tɛnnoɔ poɔ, a maale velaa.",abom biara mene me da lean poɔ amale.,0.8333,0.425
+509,"Bon naŋ so ka N yele a yɛlɛ ne sekpɔgɔ korɔ ba la, ‘ba kaara la, kyɛ ba nyɛrɛ, a wono kyɛ ba kyɛllɛ, bee a baŋ a tɛgɛ.","Bona nso ka nye le ye le ne nso kpa gakɔ ba la, bakara la sɛbɛyɛ a wo no taatɛɛ bi aba atɔeɛ.",0.8276,0.369
+510,Kyɛ a seŋɛɛ la ka te ta teŋɛ kaŋ naŋ are a mane sogɔŋ.,Jaasiɛl ketetata are amansan.,0.9286,0.525
+511,"Lɛ la ka Saamon Piita meŋ da tu o puori wa, a te kpɛ a yaa poɔ.",Le la kasa amepitamiɖe tso opuori wa ate kpe aya ƒu,0.8824,0.3333
+512,A lɛ ne o zu ka a na waa ko neɛ naŋ taa a eebo.,Alane osua ana wo kɔ Nianta a emu.,0.9333,0.4375
+513,"Azuiŋ, ka yɛ ne a Kirista wa laŋ iri yi a kũũ poɔ, yɛ boɔrɔ boma naŋ be sazu poɔ, be a Kirista naŋ zeŋ a Naaŋmen nuduluŋ seŋ.",Aso ka ane Kristonii Akupo yɛbora be sazu be arisandand onsan,0.8621,0.5699
+514,Ba na boɔle fo la Sefase” .,a,1.0,0.9474
+515,"A naŋ da la nyaa zie, te da wa ta la Samose, ka zie da la nyaa ka te ta Miletu.",anaaa nya zie tiawa la Samu ka zie daa nya ka ti ta milit,0.7143,0.2857
+516,"Kyɛ soba na zaa naŋ kyiiri o kiristabi-tɔsoba be la ligruŋ poɔ, a kyɛnɛ ligruŋ poɔ, a ba baŋ benee o naŋ gɛrɛ, bonso, a ligruŋ eɛɛ la ka o be zɔnnoŋ poɔ.",sibasa.,1.0,0.9478
+517,A pɛnnoo bebiri daare a Yeezu da piili kanna la a puoruudie poɔ.,Apeno bibire daari ayɛ da pili kana la a puori die poɔ,0.7692,0.2745
+518,"Ka a Yeezu Kirista, a yelmeŋɛ dansedire, a bidɛndɛŋ naŋ leɛ-iri yi a kũũ poɔ a kyɛ di naaloŋ a tendaa namine zaa zu ko yɛ garaaseɛ ane maaroŋ.",Ka yi sukristo ayimaa si de abi dandan nane Iri aku poated naala atena ne mineaukoyɛ galaasi ane maaroŋ.,0.8621,0.3818
+519,"Ka a Farazii noba mine da soore, “Bonso ka yɛ erɛ yɛlɛ naŋ ba taa sori ka yɛ e a pɛnnoo bebiri daare?",Kafri no ba mine a soreba namba soro a pɛne daa,0.913,0.5395
+520,A N pɔgebo ŋa vɛŋɛɛ la ka a yɔɔmine ane a yɔɔpuuli yaga zie ba bonnɔ a Daana eŋɛŋ kyɛ moɔlɔ a yelbiri ne gandaaloŋ kyɛ ba zoro dabeɛ̃ zaa.,a mpɔboa velia ka yomee anapa zie ba bono adane ŋkɛa a yili birini gandaaloŋ kyɛ ba zorodabiɛzaa.,0.7333,0.3832
+521,Ka a Daana Yeezu Kirista garaaseɛ be yɛ seere poɔ.,"Ka dae Yesu Kristo gaasi beye Sero,",0.9,0.425
+522,"Yɛ woŋee la ka ba da yeli, ‘Ta gaŋ ne fo tɔ pɔge bee serɛ.",yewoŋe la ka ba dailies,0.8,0.5854
+523,"Kyɛ o da ba la taa bonzaa, ka o pãã da ŋmaara nyunno.",Tia ɔdabaa bonzaa ka paanare nyun.,0.8462,0.4615
+524,"Maa yeli ko yɛ, O na bo la bo-soŋ ko ba wieouŋ zaa.",Mahe kɔyɛnabolaboson kɔbaunzaa.,1.0,0.3611
+525,"A fentele ayopoĩ la a Naaŋmen seere ayopoĩ; ka bonkaŋ da be a nakogi niŋesogɔ a waa ŋa mane koɔ̃ naŋ nyegrɛ aŋa kyaanaa, a e yileŋyileŋ aŋa biiree poɔ koɔ̃.",Afei nteteayɛpɔn anaa ŋanii ayopoin mankanyɛ a kyɛnaana bi poɔ,0.9355,0.6529
+526,"O zuiŋ la ka ba kpa a andonɛɛ n nyɔvore poɔ kyɛ kpa n meŋ a andonɛɛ zie Bonso, dɛgre iruu bee dɛgre ba-iruu ba poɔ yelzaa poɔ, kyɛ ba maale la yelzaa ka a e paalaa.",Osaka Aanonooro ɛkame andone bonsɛbla okɛaale zaa kaa e pala,0.973,0.6048
+527,Neɛ kaŋ naŋ su nabi-kparre la be?,ne nanam na wa beaten nkyɛn la ka a noba naŋ da waayɛ zu zie daale la Jɔn ba te la tonto zie ka te waa suure a neɛ na ŋ.,4.1429,2.88
+528,"A teŋɛ deme naŋ da nyɛ ka a waabo mele a o nu, ba da yeli ko la taa, “A dɔɔ ŋa waa la neŋkoorɔ, aneazaa ka o yi la a mane poɔ, kyɛ yelmennoŋ naŋ ba sage ka o voorɔ.",Atenema nan da nya ka woaboa onu bɛ da yili ko lataa adɔna wala ne nkorɔn ka yila man poɔ ka yɛli meŋ nɔ nabasa ka o vɔ.,0.8049,0.3475
+529,N pãã de a Kirista nandaare e ka a leɛ gyɛnterɛ nandaare be?,mpaene Aritanley yɛntena dare,1.0,0.5532
+530,"A maleke pãã da wuli ma la a nyɔvore baa koɔ̃ ka a koɔ̃ pɛle aŋa sakuurii a da zoro yire a Naaŋmen ane a Pilee nakogi zie, a tu a teŋkpoŋ sokoɔraa sogɔŋ.",Ame kepalm ma la anya vɔvɔ kõɔ pɛle aŋekuriadazoro yiri anaa min a ni apilako zie a tu a teŋkpoŋ sɔkoɔraa sogɔŋ.,0.7059,0.3103
+531,"Ka yɛnee wa wono zɔɔre yɛlɛ ane zɔɔre yɛlɛ ba naŋ hunno yele, yɛ ta wa vɛŋ ka dabeɛ̃ kpɛ yɛ.",Ka yɛne wɔ wo nudzɔɖegelɛ ane zɔriya la banannele nyɛtaa ka dabi pɛyɛ.,0.8571,0.3623
+532,"” A Piita da ba baŋ bonna o naŋ na yeli, bonso dabeɛ̃ da kpɛ ba la yaga zaa.",Apia daba ban bona onana yili bonso dabida kabala yaga zaa.,0.8333,0.1852
+533,Bee boŋ lantaa la be kyaane ane ligruŋ sogɔŋ?,"Bi Bonata la, betsan Aneli sogaŋ.",0.8889,0.4167
+534,"Kyɛ Naaŋmen da kaa-iri la bon naŋ e damboluŋ a andonɛɛ poɔ ka O eŋ a yɛmbaŋnema vi, a kaa-iri bambaaloŋ a andonɛɛ poɔ ka O eŋ a gandaare vi.",Sɛ named Ila bona edan bolo andone ka o eŋ ayamaa aka Irababa loanok agana refi,0.9,0.4673
+535,"Bonso, ka a dɛndɛŋ noɔre na da ba taa saanaa zaa, a da koŋ la fere ka ba leɛre o ne a ayi soba.",Bɔnsa ka ɖeɖe ɔrenaɖabata sa nazaadakola firi ka ba lere o ni ayi soba,0.75,0.3188
+536,"Pampana, N dire la a yeli ŋa danseɛ, kyɛ kpaala yɛ a Daana eŋɛ: yɛ ta la erɛ yɛlɛ aŋa a Nemboore-yobo naŋ maŋ erɛ lɛ a ba teɛroŋ weere poɔ.",pampana nyirila yili ŋa dansi kyɛ kpalaa adane ne Yɛtenaa buraberi poɔ.,0.871,0.5288
+537,"Lɛ la ka a maleke kaŋ, a ayi soba da tu a yele, “Baabilɔŋ, a teŋyuori lee la, o lee la!",Lala ka amakata eyi Subodetu aye le Babilɔn atidi lee la lee la.,0.7619,0.3115
+538,"Kyɛ fo naŋ kyɛnɛ taa la noba mine belaa naŋ be a Saadise teŋɛ poɔ naŋ da ba dɛge a ba bonsuuri; ba na su la kparpeɛle ka maa ne ba laŋ kyɛŋ, bonso, ba seŋ ne la a lɛ.",afona mine be la na be a sadest poɔ nanaba dage a babuure ba na sula kpare peɛle ka maaniba lanten bonso ba seŋ ne la a.,0.65,0.3415
+539,N waɛ la ka N tɔ zɔɔre eŋ bie ane o saa.,ŋu la ka tɔɔban osaa.,0.8333,0.5
+540,"A Naaŋmen Bie, Yeezu Kirista yelnoore piiluu.",Ana ŋun bie Yesusayɛnore pii no.,0.8571,0.4324
+541,"Ka a o eŋɛ la bee ka o seɛ la ka ba de do ne, N ba baŋ, Naaŋmen la baŋ.","Ka nye labi ka osi la, Kabadonbaba name laban",0.8571,0.3542
+542,Maa Pɔɔl la sɛge a yaane puoruu ŋa ne n meŋɛ nu.,Ma pɔlle sege ayanina ne miŋa.,0.9167,0.5
+543,"Ka O ko yɛ sukyie faŋ, ka yɛ e soŋ, a ta taa faaloŋ zaa a te Saa Naaŋmen niŋesogɔ ane a te Daana Yeezu ane a O nensonne zaa waabo daare.","Ka wo ku su tsie fa kɛ esom ateaa nza ateaa anaa me nni so, anated no yesu anaa ɔne no ne saa waboa",0.9688,0.402
+544,"Neɛzaa naŋ ba kyɛnɛ a Kirista wuluu poɔ, kyɛ maŋ gaŋ a wuluu bare ba taa Naaŋmen.",Ne zã ana ba tsenɛ akristwulu pua emaaa lure bata na ŋu.,1.0,0.4286
+545,Kyɛ maa eŋ zie a e la yelbile ka yɛ di n sɛrɛɛ bee ka a teŋɛzu sɛrediribe kanzaa di n sɛrɛɛ.,yɛma ndzi a la yele le Kades be ka atenasɛe dibea zaa di nsa.,0.8182,0.4286
+546,Ka fõõ taa nimi-yeni anaŋ seɛ fo naŋ taa nimie ayi kyɛ ka fo endaa zaa te kpɛ dazugovũũ poɔ.,Ka fɔta ne me ye ne anansa ntane ne ayi kɛkafo ndaadaa te kpɛ dasuom poɔ.,0.75,0.3521
+547,Ba Naŋ Wa Ne Yeezu A Hɛrɔde Zie.,a,0.875,0.9583
+548,Lɛ la ka o da leɛ pɔgekoɔre te ta yuomo lezaanaare ne anaare.,Le la ka o dali pokuaɖeteta yuomo liza naare ne anaare.,0.6154,0.2292
+549,"Noba zaa naŋ baŋ a yɛ noɔre tuubu zuiŋ, eɛɛ la ka n poɔ pɛllɛ ne yɛ.",Noba zaa nam ba ayɛ nortubuso yɛ la ka mpoɔpɛlineyɛ.,0.7647,0.28
+550,A yelbiri ŋa meŋ la tonɔ toma yɛnee a yelderebɛ nyɔvoɛ poɔ.,Ɛyere bi nyame la tontoma yɛne ayadeɛ yamfoɔ poɔ.,0.8333,0.4043
+551,O na e la ka a Izerayɛl biiri yaga leɛ wa a Daana ba Naaŋmen zie.,Ɔna Ela ka Izraɛl bi yaala adan na banannize.,0.9375,0.3673
+552,"Bonso, a wa tɔ ŋaa, te kyeenɛ la wale a wono tuo, te naŋ de te teɛretɔroo eŋ a Naaŋmen-vore eŋɛ zuiŋ.","Boso awɔtɔn a titina la wole awu no tu tenderer anaa nore,a zi",0.9545,0.4667
+553,"A lɛ zuiŋ, yɛ leɛ yɛ eebo, a leɛ gaa Naaŋmen zie kyɛ yɛ na nyɛ la yelbebe sudi.",Ale zuin yaliɛ align ŋuzitsɔame bi su di.,1.0,0.6207
+554,"Ta la nyuuro koɔ̃ yoŋ, kyɛ maŋ nyu dãã belaa, a fo poɔ ane a fo baaloŋ bilii bilii zuiŋ.",Tele nuɖeke ye ŋusemenyuɖa be la afuo ane afoano bilibili zu ni.,0.95,0.4462
+555,A Yeezu da laboreŋ piili kanna la a noba a mane noɔreŋ.,Aye dala birim pii kana la a noba Amannor,0.75,0.3023
+556,"Be la ka ba da kpɛ gbori a gaa Antoɔki, a be la ka a noba da daŋ sɔre a Naaŋmen maaloo ko ba ane a toma na ba naŋ da toŋ baare.",Belɛ kaba dapɛgere aga anteke beeaandd nsɔre anaa menom loo ko ba ane atoma naba nan dato baare.,0.8788,0.2688
+557,"Laboreŋ, yelmeŋɛ ka N yele korɔ yɛ, ka yɛ bayi wa laŋ noɔre a sɔre bonzaa a teŋɛzu kyɛ, a N Saa naŋ be tenvelaa poɔ na e ko yɛ la.",Larente la.,0.9677,0.9062
+558,"Lɛ la ka a neŋkpoŋ kaŋ da yeli yɛlɛ ko ma, a soorɔ, “Aŋ mine la a noba bama naŋ su a kparpeɛle?","Le la ka anyi ŋkpɔŋkande yili ya akoma, asuallas",0.913,0.6087
+559,"Kyɛ aŋa lɛ saŋ a bie na ba naŋ da dɔge nensaaloŋ poɔ naŋ da dɔgrɔ a bie na ba naŋ da dɔge a Vooroŋ Soŋ eŋɛ, a lɛ meŋ la ka a waa pampana.",sɛ aŋa le san abenaa nan da dɔ ne nsaano poɔ nadadao abien banana dɔ avurans ne alamelek aaama a.,0.9143,0.3762
+560,"” A Filipi da gaa te yeli ko la Anduru, ka a Anduru ane a Filipi zaa da gaa te yeli ko a Yeezu.",Afi lipid gati ye le ko la anro ka enuane filipi zaa gatsi yi loo aye zu.,0.7826,0.3188
+561,"O naŋ da borɔ, a bombie mine da le la sobiri zu ka nuuli wa de di.",Ɔnan dabrɔ Abobiri ne alea sobiri zu ka nuuri a did,0.8235,0.25
+562,"A Pɔɔl naŋ da wa nyɛ ba, o da puori la Naaŋmen ameseɛrɛ kyɛ da nyɛ faŋ paalaa.","Apalo na da wanyɛ ba odapurila namene ani siare, kyɛ da yɛfam pala.",0.7778,0.2881
+563,"A ba e ŋa Ŋmen-yelnoore yuo kaŋ bebe la, kyɛ a noba mine eŋnɛ yɛ la buriburi poɔ, a boɔrɔ ka ba sãã a Kirista yelnoore.",Abaana onini Yukabebe la kyɛ anuane eŋaaa buruburu poɔ a bora ba sa akristonora.,0.8077,0.4111
+564,"Ka yɛnee wa kpɛ yiri zaa poɔ, yɛ maŋ puori a yideme.",Ka yɛne nwak Yiria poɔ yɛmampuri ayi dem.,0.8333,0.2051
+565,"Kyɛ O da de la O nuduluŋ dɔgle n zu a kyɛ yele, “Ta zoro dabeɛ̃; maa la a dɛndɛŋ ane a baaraa, ane a soba na naŋ voorɔ.",Ka o aɖe la o nu doldole zu a kyɛ yele Taere maala a dɛdɛ ane a baara ane a subana navɔ.,0.5862,0.2941
+566,A daadaalɛ ka a Vooroŋ Soŋ de a Yeezu te kpɛ ne a wɛgyɛŋ poɔ.,adaadaa la ka a vuhiri si dia yili zu tikpari w'agya poɔ.,0.8,0.4348
+567,Pɔgekɔ-nandaana kaŋ meŋ da wa eŋ la warbie ayi naŋ lantaa e kobo.,.,1.0,1.0
+568,"N taa la feroo toma a banaŋ niŋe naŋ yuo ane banaŋ niŋe naŋ ba yuo zie, a taa feroo toma a yɛmbaŋnema ane dambolo zie.",Naleru abanina ane ba nananmu atafere toma ayamaa ane dabolizii.,0.8462,0.4835
+569,Boŋ yelwontaa la ka Naaŋmen puoruu die taa ne tebɛ die?,Boye ntanaa ŋun pun di tane tibigi.,1.0,0.4773
+570,"Yɛ ta zoro dabeɛ̃, bonso, yɛ gaŋ la a daviime.",Yeter bi bɔnso yagla adave.,1.0,0.4848
+571,"Bonso, O eŋɛŋ la ka a Naaŋmennoŋ zaa be a eŋgannoŋ poɔ, ka yɛ wa taa a nyɔvore zaa O poɔŋ, Ona la a namine ane a kpeɛ̃õ deme zaa zusoba.",Bonsoe ka anaa menoaa be a nano kaa nyɔɔre zaa poɔ na namine ane a pedia zusa,0.7742,0.4257
+572,O da yeli la yɛlɛ ka a kɔɔre te ta tensogpozentaa.,Odayeli la yɛla ka a kɔre ti patensogpozi taa.,0.7273,0.1538
+573,"Aneazaa ka te baŋ ka ka tenee wa kpeɛrɛ a eŋɛŋ, te waa la tɔɔre ne a Daana, bonso, yeldeebo la ka te kyɛnɛ ne, a ba e yɛlɛ te naŋ nyɛrɛ.",Anaa akataban ka katanga eare a na ewala tɔre ne adan bonsoi diba katekyeɛ aba eyɛ tnanere.,0.9062,0.39
+574,"A ŋaa zie la ka te na sereŋ baŋ ka te be la O poɔ: soba na zaa naŋ yeli, “N laŋ ne O la,” seŋ ka o tu a sori na O naŋ da tu.",aŋa zie la katenaserembaŋ ka ti be la o suban liesten.,0.8333,0.5301
+575,"O naŋ da kyɛnɛ gɛrɛ, O da nyɛ la Levi, a Alfeo bidɔɔ ka o zeŋ zuyɔɔ die poɔ, ka O yeli ko o, “Iri tuuro ma.",nandahima gari Oda nyɛna Levi afididwuma.,0.963,0.6667
+576,’ Kyɛ N naŋ da yeli a yɛlɛ ama ko yɛ zuiŋ yɛ poore da sããɛ la.,tsɛ nnanaye ayɛ la ama Kwesi yapae dasaa la.,0.875,0.4545
+577,"Soba na zaa naŋ wa daŋ kpɛ a koɔ̃ saŋ na ba naŋ wa dɔ̃ɔ̃ a baare, maŋ nyɛ la sammo yi o baaloŋ na zaa o naŋ beɛrɛ.",suban na wɔ daka sanna banado abare manya Samu yi obaana zaa onam biara.,0.8966,0.3951
+578,"Kyɛ a bege poɔ, Moozul da tere la noɔre ka te za a pɔge ŋa tɔ ne kubo ko.",Daa begapo Molare la nor ka ti zaŋ a pɔga tɔ ne nkukuo,0.7368,0.3962
+579,"Bee a puoruu laŋne la ka yɛ kaabanyɛ, kyɛ eŋnɛ a banaŋ nuuri naŋ ba taa vi?","Miyi apuro la ne la kekaa banye, kyɛ eŋnɛ abaanu na bata vi.",0.7647,0.3333
+580,"A sogyɛre neŋkpoŋ ŋa naŋ da wa woŋ a Yeezu yɛlɛ, o da toŋ la a Gyuumine nembɛrɛ mine a Yeezu zie, ka ba te sɔre O ka O wa saŋ a o gbaŋgbaa.","Asogya re ne nkona daa wɔwoayezuyɛla, o dato na adwuma ne dɛre ne ne ayi zu zie ka ba te sɔro ka wasan a obabaa",0.7941,0.3204
+581,” Lɛ la ka ba da boɔle ba a ko ba noɔre ka ba ta daŋ wa yele bee a wullo noba a Yeezu yuori eŋɛŋ zaa.,Na akabadaboale ba akɔba noare ka bata da wayelbiiawulo noba aye zu yuri eŋa zaa.,0.8462,0.2055
+582,"Bonso, a te bammo e la ŋmaara ŋmaara, ka a te Ŋmen-yelmanneba yelyelii meŋ e ŋmaara ŋmaara.",Bonsu ateaa Ela maramara kateni malimali li me nwanwa.,1.0,0.5211
+583,"A banaŋ naŋ dire ta maŋ taa kaabanyɛ kyaare ne a banaŋ naŋ ba dire, ka banaŋ naŋ ba dire ta di banaŋ naŋ dire sɛrɛɛ, bonso, Naaŋmen tuori de ba la.",aba nan nan dire tamantaakaaba nyɛ kyaare ne banana ba dire ka banana ba dire tadibanaŋ dire sɛɛ bonso naa mentored ba,0.6562,0.1696
+584,"A Naaŋmen nɔɛ sereŋ da tu la Moozul zie wa, ka garaaseɛ ane yelmennoŋ tu a Yeezu zie wa.",Ana ŋmenɔesridetr le Moza Kagara asi aniyelinutru aye su sie o.,1.0,0.4412
+585,"A boroboro te naŋ maŋ ŋmaa, a Kirista eŋɛ naane ka te maŋ poŋ be?",bɔrebɔre tena mama akisa nane katema kpɔna.,1.0,0.4286
+586,"N pãã da nyɛ la tenvel-paalaa ane tempaalaa; bonso, a dɛndɛŋ saluoni ane a dɛndɛŋ teŋɛ da wa tɔle gaaɛ la, ka a mane meŋ da ba la kyebe.",Maɖanya la te va lala ane temple bonso adandan ane adandnta da watɔ ga la ka a mane meŋ debate,0.6897,0.3883
+587,"Yɛ ta bɛllɛ yɛmenne: “Ka fõõ tuuro kɔŋkaara, fo na mɔge la mɛmɛrɛɛ.",Le lãwo ka nuba na naŋ de suban beberee ba naŋ akonkan liriti bonsuaa na konoba subab,1.3077,1.1176
+588,"Ŋaa la nɔmmo: a ba e ŋa tenee la da nɔŋ Naaŋmen, kyɛ Ona la da nɔŋ te, a toŋ O Bie ka O wa leɛ te yelbebe sane bagmaale bon.",Ŋa alanama eŋuti la dana na ŋena.,0.9355,0.7444
+589,"Kyɛ ba da taa la a pɔlbile na ka o waa vore a kuli ne, ka ba poore da pɛle yaga zaa.",sɛ ata la polo bile na ka o waa vɔr akunini ka ba puori data li yagazaa,0.6818,0.2951
+590,"Azuiŋ ka te pãã voorɔ la bee ka te kpie la, a Daana la so te.",Azikpui la be ketekela abana so te.,0.8125,0.4545
+591,Yɛ puoro a Vooroŋ Soŋ poɔ; yɛ be a Naaŋmen nɔmmo poɔ; yɛ kyɛllɛ a te Daana Yeezu Kirista nembaalonzoe ka O taa yɛ gaa ne a nyɔvo-babaaraa poɔ.,Ye puroavɔrosompo aona poɔ.,0.9655,0.8091
+592,"a bebie na puoriŋ, a Daana yelee la: N na eŋ la a N bege a ba teɛrɛ poɔ.",adedie napo adan yililana eŋla a eŋ beget poɔ.,0.8947,0.4118
+593,"Lɛ la ka a te banaŋ ba naŋ bare ka te naŋ voorɔ, na laŋ ne ba a sagama poɔ ka te tuori a Daana a saluoni poɔ, ka te ne a Daana pãã te bebe tegitegilɛ.",Na lakaa ba na ba nambare ka tenaafoɔ la naŋ ne ba asaawa poɔ ka titore adan na saluoni poɔ ka teniadanapan te bebe teenga.,0.7027,0.2703
+594,"Lɛ la ka a Yeezu yeli ko ba, “Yɛ ta zoro dabeɛ̃, yɛ gaa te yeli ko a N yɔɔmine ka ba gaa Galili, be la ka ba na nyɛ ma.","Lala ka yi zuliya kɔba, yɛtuo dabi Yegyaee ka ba gaale be lakaa nyam.",0.871,0.506
+595,"Ba deme na bebe la bonso, a Daana taa la kpeɛ̃õ a na e ka ba are.",Badame la bɔnsaa taala ana kaba are.,0.8824,0.413
+596,"Ka neɛzaa wa e ka posãã bebe, n poɔ naane ka o soba sãã.",Kanea wɔ kposa bebe mpo na ne ka ɔsoa.,0.8571,0.3902
+597,A Gayose naŋ de ma ane a puoruu laŋne deme saanoŋ puoro yɛ la.,Agyese na ndze ma ana apue la me de me nsa no more la.,0.9286,0.3958
+598,"Bonso, a pɛnnoo bebiri ŋa da e la bebi-kpoŋ.",.,1.0,1.0
+599,"A ŋaa puoriŋ, Yeezu da yɔ yoɔrɔ la a Galili paaloŋ.",Alakur yeedzi ɖe yayra la agli. pa alɔ.,0.9091,0.4872
+600,"Ona la so puubu, a puoruu laŋne poɔ ane a Kirista Yeezu poɔ tegitegilɛ ane yuoni yuoni zaa.",lɔle sukuu apule poɔ ane risaysupotekegle anyiyi ne Yona.,0.8889,0.5139
+601,"“Ka,” o da yeli, “yɛ e ka banaŋ naŋ taa sori tu ma sigi a Sezaareya ka a dɔɔ wa taa saanaa zaa, ka ba yeli.",Ka deei.,0.9615,0.92
+602,A zozoribo maŋ baŋ la bamenne taabo yelzaa poɔ.,asosoemblieso,1.0,0.7895
+603,"Kyɛ aŋa lɛ a soba na naŋ boɔle yɛ naŋ waa soŋ, yɛ meŋ waa soŋ yɛ yel-erre zaa poɔ.",tsɛ aŋala asebaa bule ya na wɔasɔ yɛmaso yɛyɛ Ariza poɔ.,0.9,0.4333
+604,"A soba na naŋ terɛ a boreborɔ bomboorɔ, kyɛ terɛ bondirii, na ko yɛ la kyɛ e ka a yɛ bomboorɔ erɛ yaga, kyɛ e ka a yɛ mennoŋ kyeɛbo e yaga.",Aso na nanteɛ aboboro bɔ mboro kyereben dii nakoa kyɛkaabonbora Eleale kyeɛbo ya.,0.9375,0.4423
+605,"Yɛ vɛŋ ka noba bayi bee bata yele Ŋmen-yelmanna yelyelii, kyɛ ka a banaŋ naŋ kyɛre gyɛle nyɛ a yɛlɛ ba naŋ yeli.",Yeve kanoba yi bibata yere myeloma yelikaayi jeliya banye.,1.0,0.5402
+606,Lɛ la ka Yeezu da de a dɔɔ baala a saŋ o kyɛ e ka o gɛrɛ.,Le nakai zu dabia dɔba la asaŋ kɛ eka ogra,1.0,0.325
+607,"Ba naŋ da wa be a be ka a kɔɔre belaa, a yelderebɛ da puori ba la kyɛ eŋ ba sori ka ba leɛ gaa a noba na naŋ toŋ ba zie.",Ba nadab abeka kɔ are dɛlaa ayɛ diriba uria la kyɛ ba sori ka ba leɛ gaa a noba na naŋ to ba zie.,0.5312,0.2299
+608,"Ba da ko te la gyeremɛ yaga zaa, kyɛ te naŋ da wa kpɛ a gbori a na gaa, ba da ko te la bonzaa te naŋ boɔrɔ.",baakoto nagyeria yaɣi zaa kyɛ te nan da w'apɛ agor anaa ba da koto n'aban zaa ti namba.,0.7857,0.2987
+609,"A ŋaa puoriŋ, N da kaaɛ la a nyɛ dendɔre ka o yuo gaŋ a tenvelaa poɔ!",Alaboin la anye dendɔre ka yo gaŋ ate vela poɔ.,0.7059,0.3333
+610,"Kyɛ ŋmenaa bee ŋmarbie naŋ da ba puri beri yaga poɔ, ka a saseɛ da fuuro yaga zaa, te nuuri da yoɔrɛɛ la ka te da ba la taa teɛretɔroo ka te na yi la a poɔ.",yɛmmea bernard bi na dabapuribere yaga poɔ ka a saseɛ dafur yaga zaa uria ure na ka ti daantatere tɔre ka kyinayilapoɔ,0.7568,0.3077
+611,"Naaŋmen poɔ maŋ pɛle ne la soba na naŋ tonɔ korɔ a Kirista, kyɛ ka nensaalba meŋ de o yɛlɛ.",Na amonom paline la subana to nakuro akristokyɛka nensaalba meŋ de yɛla.,0.8,0.2714
+612,Soba na zaa naŋ be weɛ poɔ ta wa leɛ kulo ka o te de kparoo.,Sɛ wanzam bewie poɔ towel kulo ka otade kparo.,0.8125,0.3409
+613,"” Ona meŋɛ la e ka a O veɛloŋ kyaane a te sukyie poɔ, ka te na baŋ a Naaŋmen puubu na naŋ sãã a Kirista niŋesogɔ.",Ɔnam na la ka vilant sekyee katea ban anaa mu no puuni nsa kristo nineo,0.9231,0.4762
+614,haali a Nemboore-yobo banaŋ zaa N naŋ boɔle N yuori eŋɛ.,Hal anibre Banza na mboa nyura.,1.0,0.5227
+615,” N da kpãã la banaŋ naŋ da e yelbieri koroŋ zaa ane a banaŋ zaa.,Ekpala bana na de eyi biara korona ane a banana.,0.8667,0.375
+616,"” O da nyɔge la o nuduluŋ a e ka o iri, ka a tɔntɔbaalɛ, ka o gbɛɛ ne o nɔɔkyoomɔ deɛ e kpeɛne.",Ɔda nynaa odono a kurkaakii.,0.9565,0.7941
+617,"A ŋaa zuiŋ, ba da kaa-iri ma la ka N waa yelmoɔlɔ ane apostolii , a waa a Nemboore-yobo kankanna a yeldeebo ane yelmennoŋ poɔ.",Anaa ziimaa rimono Mola ane Aposaga ka nyili banaare awankane ane yeli manomo,0.9167,0.5876
+618,"A O Poyɛŋ Bie zẽẽ zie la ka te tu nyɛ faabo, a nyɛ yelbebe sudi yi a O garaase-tɛɛtɛɛ naŋ ba poɔrɔ, O naŋ de ko te yaga lɛ.","Awɔpoɛnbiezizi la katiinyefab, anye yeli bebe su dii a ogaastɛtɛ nambapoɔrɔ onane kote yaga lɛ.",0.8667,0.2667
+619,"Ka tenee bore seeloŋ bonveɛle eŋ a yɛ poɔ, a na waa la yelkpoŋ ka te nyɛ a teŋɛzu boma mine yi a yɛ zie be?",atene boroso bonveɛle ayɛ poɔ ana waree pon kateni atiso boma mine yi ayase.,0.8077,0.35
+620,"A Gyuumine zie, N maŋ erɛ la yɛlɛ aŋa N naŋ waa Gyuu, ka N toɔ̃ nyɛ a Gyuu noba mine ko a Kirista.",Adoni mman mra yɛ la ana na wadu ka naton adunom mine ko akristo.,0.8333,0.4648
+621,"Kyɛ serɛzaa, a te lantaa e la te ne a Saa ne a O Bie Yeezu Kirista lantaa.",Te serezaatelanta elate ne asa ane a obie ye zikuia lantaa.,0.7778,0.2182
+622,"Bonso, ka maa da erɛ a ŋaa n meŋɛ poboɔbo eŋɛ, N na nyɛ la san-yɔɔ; kyɛ ka maa meŋɛ poboɔbo naane, lɛ eŋ, feroo toma la ka ba de ko ma.",Bonsu kamaa Irana menaba na nanyra yɔɔ kyɛ ka maa min o boaboaa le eneroadkom.,0.875,0.4948
+623,A Naaŋmen nakogi ane a Pilee nakogi la na be o poɔ kyɛ ka O tontonema puoro O.,Anaa ŋmana kɔbini a pileen koge la na be o poɔ kyɛ ka o tontonma puoroo,0.5,0.15
+624,"Ka a Yeezu da yeli ko a dɔɔ nu kũũ, “Yi wa kyɛ.",Gaadiri koakyia tɛ.,1.0,0.625
+625,A Naaŋmen poboɔbo eŋɛ la ka te nyɛ pɛgeyiibu yi O naŋ de a Yeezu Kirista eŋɛ maale bagre dayeni yoŋ.,anaa wonmpoboɔbo nyɛla katema pɛyie buyi wɔnan dɛ ayedzekrista nyamaa le bare dayeni ɛho.,0.9524,0.3291
+626,"” Ba da leɛ yi la a yaa zie wieouŋ lɛ ane dabeɛ̃ ane kyelloo yaga, a zoro ka ba te yeli ko a O potuuribo.",Ba dalee yila ayaa wuiaŋ la a ni dabi a niche la yaga a zoro ka ba ti yɛli kaawo tuuba,0.72,0.3421
+627,"Yɛ naŋ waa a Naaŋmen garaaseɛ tontonema, yɛ yeni yeni zaa de a kyɔɔtaa na zaa o naŋ taa a soŋnɔ ne o taaba.",Yɛnna anaa egaɖe asi tenten a yɛyɛ yinae akyaana nanta asomene ɔtaaeɛ.,0.9583,0.4634
+628,Nensaaloŋ poɔ la ka ba tu dɔge a gbaŋgbaa bie kyɛ tu a nɔ-eŋnaa zie a dɔge a onaŋ naŋ ba e pɔg-gbaŋgbaa bie.,Nesaal poɔ la ka ba tu dɔe agbagba be tetaa zi adɔna nam ba pɔɔbɔ baabi.,0.75,0.3659
+629,A n Naaŋmen na ko yɛ la bonzaa yɛ naŋ boɔrɔ yi a O puubu bondaanoŋ naŋ be a Kirista Yeezu eŋɛ.,"a na me na kwaa bonzaa yɛnam bora yi a pubuo dan no, na be akristoYesu na",0.7273,0.3472
+630,"’ Azuiŋ, yɛ nyɔge yɛmenne n bamine, bonso, N taa la yeldeebo ka a na e seŋ la lɛ ba naŋ yeli ko ma.",Asenemanso ntaeaseɛ nayi kom.,1.0,0.6761
+631,"Serɛzaa, sori zaa poɔ ane yɛlɛ zaa poɔ, te wulee la ka a sãã weliweli ko yɛ.",Sra solusapoɔ ane yelaa tiwula welwel.,0.9412,0.5263
+632,Ka a n nɔmmo be yɛ zaa zie a Kirista Yeezu eŋɛ.,Ka nɔmbasi akisi nya.,0.9167,0.6286
+633,"Ba naŋ da wa kaa n yɛlɛ nyɛ, a Uroma noba da boɔrɔ la ka ba bare ma, bonso, ba da ba nyɛ n saanaa zaa naŋ seŋ ne kũũ.",Mana nda wɔ ka yereyere na bɔrila ka ba barima bonsu ba diba nyɛ nsanaazaa nansini ku,0.8667,0.369
+634,"Pampana, te yɔɔmine ane te yɔɔpuuli, a ba fere ka ba sɛge bonzaa ko yɛ a kyaare ne a saŋ ane a bebie na poɔ a yɛlɛ ama naŋ na e.","Pa pa na ti Yoin antie le, abafraba sɛge bonzaa kɔyɛ akyɛre ne asan ane abɛbi na poɔ ayɛ la ama nana ɛ.",0.7742,0.2842
+635,"Bonso a saŋ na ba naŋ da be dɔgroŋ kpoŋ poɔ, a ba kyelloo naŋ e kpoŋ kyɛ ka ba da ba taa ka a seŋ, ba da naŋ yuo la ba nuuri a tere kyɔɔtaare yaga.",bonso asana no da bedwo nkomo abakyenpom kyɛkaadaba taa kaa se baanan yuo la ba nuuri atenka a.,0.8108,0.3519
+636,"Yɛ maŋ boɔrɔ a Naaŋmen yelbiri berekoɔ̃ aŋa bilɛɛre ka ka yɛ na nyu a baa, a kpɛ faabo poɔ, ka yɛnee wa sereŋ lɛnne a Daana yɛlɛ nyɛ ka o soma.",Yɛma boɔra anaa nunye birebire ko ana bilee ka ka yɛannya a kpɛ fabo ka yɛne wasene daana yela nyɛ ka o soma.,0.6875,0.3056
+637,"O naŋ da yi a weɛ kulo waana, a wa te peɛlɛ a yiri, o da woŋ la boma naŋ ŋmeɛrɛ ka ba seɛrɛ.",Ɔnanani awoko waana a wɔate peɛlɛ a yiri wodahɔ la boma naŋ gɛrɛ ka ba seɛrɛ.,0.5417,0.2424
+638,"O da kpɛ la a gbori kaŋ naŋ da waa Saamon deni, a yeli ko o ka o mɔŋ a gbori kpɛ a koɔ̃ belaa.",daka la a boran da wasan de no ayɛ ko ka omo abori akuaba,0.8,0.4328
+639,O waa ŋa dããbilɛ pɔge naŋ de bu ne zɔŋ ŋmannɔɛ ata poɔ ka a zɔŋ zaa iri p.,wɔ nadab pɔnne bun zɔŋaa ata poɔ ka zanza er,0.8421,0.5091
+640,"bonso, ba de la a soba na naŋ maŋ korɔ a te yɔɔmine saanaa lɔɔ bare a teŋɛzu.",Bo balaaa na maŋ kura ations lɔba a tiŋa.,0.8333,0.5517
+641,N yele la a ŋaa ka ka neɛzaa na ta wa bɛlle yɛ ne nɔkpeɛŋ-zirii.,Yili la na kakana natɔ belee ne nɔpa.,0.8,0.5417
+642,Yɛ taa kyelloo a ŋaa eŋɛ haali ka yɛneŋ wa kpɛ dɔgɛɛ tɛɛtɛɛ poɔ belaa pampana ŋa.,Yet tsila ŋahali kyenee bela pampana,0.9412,0.6094
+643,"Bana yoŋ naane ka N puoro bareka, kyɛ N puoro la a Nemboore-yobo puoruu laŋne deme meŋ zaa bareka.",ba na Yona ne ka mporibaa kyɛ mporo la ne mboro pro laŋ ne demee zaa barika.,0.8421,0.2987
+644,Ba da su la kparpeɛle kyɛ taa kpaakpaa vaare ba nuuri poɔ a da are a nakogi ane a Pilee niŋesogɔ.,Maɖe sula kpare pile tse ta kpakpa va rebenurioaɖa are ane koge ane apili niŋesogɔ.,0.8571,0.2895
+645,"Maa Pɔɔl, Silivaanu ane Timoti la sɛgrɛ a lɛtɛ ŋa korɔ a Saa Naaŋmen ane a Daana Yeezu Kirista puoruu laŋne naŋ be a Tɛsalonika teŋɛ poɔ: Ka garaaseɛ ane maaroŋ be yɛ zie.",Mapɔ siliva no Antimal Aletan kuro saa na mo ne anaano yesu Kito la ne na be teson katiŋa poɔ ka gaasere bɛyɛ zi.,0.8824,0.4593
+646,"N sɔrɔ yɛ la n yɔɔmine ane n yɔɔpuuli, ka yɛ baŋ ne a banaŋ naŋ maŋ waana ne wɛltaa kyɛ dɔɔnɔ noba suuri, a zɔɔrɔ ne a Naaŋmen yɛlɛ yɛ naŋ da zanne; yɛ tage yɛmenne yi ba zie.",Nsɔre la nyo mina ne yuli kaaba ne banana maŋ waa na ne wɔtaa kyɛ dɔɔ no noba suuri a zɔɔre ne anaa mini yɛlɛ yɛn dansane yɛtan yɛ mini yi ba zie.,0.7,0.2576
+647,Kyɛ yɛ kanzaa maŋ sigre o meŋɛ kyɛ di o meŋɛ sɛrɛɛ a seŋ lɛ Naaŋmen naŋ ko yɛ yeni yeni zaa yeldeebo a seŋ lɛ.,tsyaka za mensuro kyɛ de o mineser asiana me naŋ ko yɛ yiniyini zaa yɛ dibu aseni.,0.7692,0.4643
+648,O na kpeɛrɛ la ba poɔ a waa ba Naaŋmen; ka ba meŋ waa O noba.,nɔpelaa a waba na menam waa on,0.875,0.4773
+649,"Boŋ ka N na yeli, ‘N Saa, faa ma yi a tuo ŋa poɔ be’?",Bɔnka na yele nsa fama yi atuo ŋa poɔ be.,0.6667,0.1765
+650,"fo ba waa a Gyuda namine zaa poɔ bile soba; bonso, fo poɔŋ la ka naa na yi.",foaa aduda na mine zaa poɔ biisa bonso popoa anaa nayi.,0.8333,0.2545
+651,"A noba mine yelbebe maŋ sãã la kperaa lɛ, a de ba weɛ gaa a sɛrɛɛdiibu zie kyɛ ka ba mine yelbebe maŋ tu ba puori gaa be.",nobamine yere bema saa pira le adebisadeɛ ba mine rebeate gabi.,0.9286,0.5326
+652,"Ba naŋ da wa nyɛ lɛ a Piita ane Gyɔɔn naŋ da yele a yɛlɛ a ba zoro dabeɛ̃ kyɛ ka ba da baŋ ka ba da ba e noba naŋ zanne gane, ba nɔɛ da maaɛ la.",Na namda wanyɛ la piita ane dan na ndae la yɛla aba zoro dabia kyɛ ka ba dabankabada ba e noba naŋ zani gan ba nɛɛ da maa a,0.6842,0.1923
+653,"Tenee ba naŋ dɔge ka te waa Gyuumine a ba waa Nemboore-yobo naŋ waa yelbe-erebɛ, kyɛ te baŋ ka neɛ ba maŋ leɛ nemmeŋɛ a yi a bege toma eŋɛ kyɛ neɛ maŋ leɛ la nemmeŋɛ a yi yeldeebo o soba naŋ taa a Yeezu Kirista eŋɛ.",aaanaanaa,1.0,0.9455
+654,"Moɔ nimiri ka fo be a Naaŋmennoŋ poɔ, aneazaa ka tɔnɔ belaa be la yelzaa neɛ naŋ maŋ e a dɔ̃ɔ̃ o kɔbɔ, kyɛ Naaŋmennoŋ taa la tɔnɔ yelzaa poɔ, a terɛ nyɔvore pampana ane a nendaare kaŋ nyɔvore naŋ na wa.",Mɔ ni merikafobe anaane nopo anaa zakat no be la be la yela nenam adɔ kɔma kyɛ na mental ɔno yeaa poɔ atry pampana ananakan nyɔɔre na na wɔ,0.8571,0.3484
+655,"Azuiŋ, a puoruu laŋne yie niŋesogɔ, yɛ wuli ba ka yɛ sereŋ nɔnɔ ba la kyɛ wuli ba bon naŋ so ka te wullo temenne a yɛ zuiŋ.",so aporeeɛ Yehuba kaaraa la kɛwulaa so ka tiwula mene ayɛ zu,0.8929,0.5699
+656,"Lɛ la ka yelwulaa kaŋ meŋ da la sãã a saluoni poɔ: wa-beɛ kaŋ naŋ waa kpoŋ a e zeɛ tõẽtõẽ, a taa zuri ayopoĩ ane eelɛ pie ka nazupile da be a zuri zaa eŋɛ.",Lala ka yɛli wula ka mini dala saa a saluo ni po wabakan naŋ waa kpoŋ a Izraɛl tɔtoatoa yopoi ani Ilai pa nazupili de be a zuri zaa ŋa.,0.7222,0.3448
+657,Kyɛ Sɔɔl da iri la o nimiri eŋ a puoruu laŋne deme.,Tsɛ Saul the Ila oni miri apuru laŋ ne dem.,1.0,0.3333
+658,Lɛ la ka ba zaa da e a yi dondoli zu kyɛ ka yelzaa ba e kanzaa.,Lala ka ba zaa da ayi dondoli zu kyɛ ka yɛli zaa ba ka zaa.,0.5294,0.1304
+659,"Kyɛ ka neɛ kaŋ wa yeli ko yɛ, “Ba ko la a nɛne ŋa eŋ teebo eŋɛ,” lɛ eŋ, yɛ ta wa dire, a soba na naŋ yeli a lɛ ko yɛ yɛlɛ zuiŋ ane teɛroŋ dɔ̃ɔ̃mo zuiŋ.",Sekania wo yere kyɛ ba koraa na ne na nti bo na la ni yɛtaadi asan nan yeli aleke zu ane teandm sui.,0.9211,0.4762
+660,Kyɛ neɛ na zaa naŋ la eŋnɛ yɛ buriburi poɔ na nyɛ la o san-yɔɔ.,Kɛnania naŋ la neyɛ buruburu poɔ na nyɛla o sane.,0.6667,0.2979
+661,"Kyɛ a nembeɛoŋ naŋ da wa woŋ O yɛlɛ, ba da yi la a tenne poore a kyɛŋ beɛre gaa O zie.",Ka anabi na da wawuo yɛla baayi la a ti ni puori a chɛbiri ga o yi.,0.8182,0.4286
+662,"Ka O naŋ wa wa, O na wuli la a tendaa noba ka ba tulee la a kyaare ne ba yelbebe, yelmennoŋ ane sɛrɛɛdiibu yɛlɛ.",Ka ona wawa ɔno wagu liaten noba ka ba turee la a kyaare ne ba yili bebe yelmeŋ no ne sɛrɛɛ diebu a.,0.76,0.2471
+663,"Ba da yele korɔ la taa, “Aŋ mɔɔ na billi a kuuri bare a yaa noɔreŋ ko te?",baaye li koraa ta mana bili a kuri bare a yɛ noɔre ka,0.8333,0.3208
+664,"“Bondiraa waa la poɔ soobo, ka a poɔ waa a bondiraa soobo,” kyɛ Naaŋmen na sãã la a bondiraa ane a puori zaa bare.",Bondiri wala so wɔ kaapo abotiabi aane aporibaa,1.0,0.593
+665,"Kyɛ Naaŋmen da leɛ la O puori ko ba a bare ba ka ba puoro a sazu boma aŋa ba naŋ sɛge a Ŋmen-yelmanneba gane poɔ lɛ: ‘Izerayɛl biiri, a yuomo lezaayi yɛ naŋ kpɛ a wɛgyɛŋ poɔ.",tsena ŋun delila o puori ko ba a bariba ka ba puori a saazu boma aŋa ba naŋ sɛge a ŋunye man ma gan poɔ lɛ Israel biiri a yuma zaa yi yɛn kpe awaga,0.5789,0.2803
+666,"” Ka o yeli sɔge ba, “Soba na zaa naŋ taa kparre ayi, a ferɛɛ la ka o iri kaŋ ko neɛ naŋ ba taa togitogi, ka a fere ka soba na zaa meŋ naŋ taa bondirii e a lɛ ne o zu.",ka oyela zaaraa la ka yiri kaŋ ko ne nam bata togtogi kasana zaa min nataade a lɛ ne o zu,0.7381,0.4538
+667,"Bonso, a N bie ŋa da kpie la kyɛ leɛ-iri, o da bɔrɛɛ la kyɛ ka te leɛ nyɛ o!",bodealy.,1.0,0.8679
+668,"Ka tenee wa erɛ yɛlɛ aŋa noba zu naŋ ba kyebe, Naaŋmen zuiŋ la; ka tenee wa erɛ yɛmbaŋ yɛlɛ, yɛ zuiŋ la.",atene areal andeason bɛkyere nanu nyui la kateme yɛn ba yɛlɛ yesui.,0.913,0.4872
+669,N mɔɔ da bonnɔ la a saŋ N naŋ da boɔrɔ ka N e a yeli ŋa be?,Mma dabaa asan na dabaraka nyini na be,0.9444,0.439
+670,"Bonso, te da boɔrɔ la ka te wa yɛ zie, kyɛ ka Setaana da pigi te sori.","Bonso, todarea wɔyiyii minaa mampaama nyɛ yɛ borɔborɔ yɛkasa na apetse.",0.8824,0.8235
+671,"A ba e ŋa a kyɔɔtaare la ka N boɔrɔ, kyɛ a tɔnɔ yɛ naŋ na nyɛ a kyɔɔtaare teroo puoriŋ la ka N boɔrɔ.",Abaana atɔtɔ la ka mbɔrkan yɛnnane atsɔ tare triple la ka mbra.,0.84,0.4933
+672,"Serɛzaa, ka tenee wa yage o bare, te koŋ taa eŋkpoŋkpoli.",Sra a tenaa bare kunta mponpo le.,0.9091,0.5227
+673,aŋa lɛ ba naŋ maŋ ŋmare yagraa dogre naŋ ba nyoɔ yi velaa; lɛ meŋ gba la ka N da nyɛ kpeɛ̃õ yi a N Saa zie.,Anala namanama yagraa ɖe namba nyo yi velaa meŋ gba la ka danyi a saa zi.,0.6667,0.3333
+674,N na yeli la a pɔge yelsɔglɔ ane a wɛdoŋɔ naŋ taa a zuri ayopoĩ ane a eelɛ pie naŋ tuo a pɔge yɛlɛ ko fo.,Na yellapayɛsala ane Awadaa a zuri ayopɔin ane a letinantoo apagya kɔɔ,0.7692,0.4684
+675,"A lɛ yoŋ naane, kyɛ a puoruu laŋne yie la kaa-iri o ka te zaa tu a sori a tonɔ a nɔmmo toma ŋa te naŋ tonɔ a Daana puubu eŋɛ, kyɛ wuli te meŋ poteɛre sonne.",Ale Yona ne kyɛ a purely la ka Irokatizaa tu a sori a tona anɔmomaŋa tenatena adane pubewipotiar so ni.,0.7838,0.3707
+676,"Ka maa da ba zanne baŋ yɛlɛ yeluu, kyɛ yɛŋ bammo eŋ naane.",Ka mandaa zane bayeli kyɛ yamba ma nani.,0.8462,0.4091
+677,” A lɛ la ka N da de a ganlee yi a maleke nu poɔ a ɔɔ.,Ale la ka edade agali yi amaki nu poɔ a o,0.625,0.2778
+678,"Kyɛ yɛ baŋ la bon naŋ pigre o sori pampana, ka ka ba na iri o wuli ka a o saŋ wa ta.",Kɛya labina piri osɔre pampa na ka ka ba na Iuul ka a osaa,0.7391,0.3333
+679,"Te naŋ da wa kpɛ a gbori yi a Taaya teŋɛ a te ta a Potolemese teŋɛ baare, te da te puori la a yelderebɛ kyɛ zeŋ ba zie bebi-gbuli.",te nandaapɛ agboi ayi Ataa tena atetɛ ɛpotu limi se te Nabari te date porinamda kazim bɛdie bebi buli.,0.9,0.3673
+680,"Ba naŋ da kpeɛrɛ a be ka a kɔɔre belaa zuiŋ, a Fɛstu da de la a Pɔɔl yɛlɛ lɔɔ ko a naa, a yele, “Neɛ kaŋ Fɛlise naŋ bare a nempagdie poɔ be la a kyɛ.",Ba namda kpɛra Abeka kɔ de belaa afasu dada na apalo yɛna nɔ ko anaa eye ne nye kasaase nam bar animpa die poɔ be a kyɛ.,0.8108,0.3333
+681,"Nyɛ, a Gyuda bale Gbeŋni, a Davil Nyeɛne zɔɔtoɔ̃ɛɛ la, ka lɛ vɛŋ ka o na toɔ̃ lagre a suni ba naŋ mare ziiri ayopoĩ kyɛ yuo a gane.",Na Adiaba bi ne Adaia zoola ka lava ka ona to laɣiri a su ni ba naŋ mare ziiri a yopoi kyɛ yuo gan,0.7586,0.3711
+682,O da de te la saanoŋ velaa zaa bebie ata.,dadeɛ na saa no vilaabebiata.,1.0,0.3226
+683,"Beri mine naŋ da wa tɔle puoriŋ, Yeezu da leɛ gaa la Kapanum teŋɛ ka a noba da woŋ ka O leɛ kuli waɛ la.",Berimine nanda'li puori Yesali gala ka penu teŋaa noba da wo ka o lee kul wala.,0.84,0.2821
+684,"Kirista la a bonwɔmɔ dɛndɛŋ soba, a pãã de a banaŋ naŋ waa a Kirista noba a O waabo saŋ.",Kristala aboɔma dandan soba aande aban na wakristo a wɔabu san.,0.9,0.3582
+685,"’ Kyɛ anealɛzaa, Naaŋmen toma sereŋ wuli la a Naaŋmen yɛŋ.",Kyɛ Analisa naaŋmen ma serera anaa ŋunye.,0.8,0.3556
+686,"ka fo nyɛ puubu, emmo ane kpeɛ̃õ.","""",1.0,1.0
+687,a fo sɛrɛɛdiibu waa la serɛ kyɛ waa meŋɛ!,Afosua rekyew.,1.0,0.6875
+688,” Ka o da vaa-iri a daadaalɛ.,adaadaa onsonnel ntontobɔ ka ekaa iri ka o taa o,1.5,1.5
+689,"Lɛ la ka a dɔɔ-zɔŋ da gaa te pɛge o niŋe a da leɛ wa a Yeezu zie, a nyɛrɛ.",Lala ka adɔ zɔŋ gagateeg onine adalia wɔ aye zu zie anyera.,0.9,0.2692
+690,ne popeɛloŋ kããsoŋ a gaŋ fo taaba.,ne piano.,0.8571,0.8148
+691,Noba da taa la ba bibiiri gba waana ne a Yeezu zie ka O seene ba.,baata na ba bibiiri ba wa na ne ayi sisie ka o siene ba.,0.6875,0.2653
+692,"Kyɛ bee yɛ ba kanne a begɛ poɔ, ka a pɛnnoo bebiri daare a Naaŋmen bagmaale nembɛrɛ naŋ be a Naaŋmen die poɔ, maŋ sãã la a pɛnnoo bebiri kyɛ ka a ba taa yelsaanaa zaa be?",sɛbi yɛbɛkan abɛkaeka peno bebree daare a naa ŋa ba maale nembɛrɛ naŋ be a na mo die poɔ masaa la a pɛ no bebiri kyɛ ka ba taa yɛ saana,0.6757,0.313
+693,Te da na di la o sɛrɛɛ a seŋ a te begɛ naŋ biŋ lɛ.,Kidenadiluse ɖe ase atuego bi la.,1.0,0.5143
+694,"O na dɔge la bidɔɔ ka fo pore O yuori ka Yeezu, bonso, O na faa la O noba a yi ne ba yelbebe poɔ.",nadab ka fooroo yeboo ɔnfaa ɔnoa ayinaa yɛli bepɔ.,0.96,0.4857
+695,A waa la kyɔɔtaare nyuu naŋ noma kyɛ e bagmaale bon naŋ seŋ ne deebo kyɛ pɛllɛ Naaŋmen poɔ.,awala tsɔ ta ɖe nyinaa kyɛ ebaabo nanseni deebo kyɛ pɛle na mento,0.8421,0.375
+696,"Yɛ ta de woore, bee kparre ayi, bee nɔɔteɛ, bee dabɔle na gu ne yɛmenne; bonso, a seŋɛɛ la ka tontonɔ zaa nyɛ o noɔre bondiraa.",Yɛta de wòɖe bi kpari ayi bi nɔteɛ bi dabɔle na guni yɛmene Bonso a seɛ la kutuntonazaa nyɛ o noɔre bindir,0.6154,0.2292
+697,"Ka ba da yeli ko o, “Bɛtelɛhɛm teŋɛ naŋ be Gyudiya paaloŋ poɔ la, bonso, lɛ la ka a Ŋmen-yelmanneba da sɛge biŋ: ‘Fõõ, Bɛtelɛhɛm naŋ be Gyuda paaloŋ poɔ.",Ka ba dayɛlikabatili hɛmtiŋanimbe didia paalɔ n-pa bɔnso lala ka ŋuni yilanima da sɛge bin publihenam be Juda paaloŋ o.,0.7667,0.3913
+698,A da ferɛɛ la ka O e ka a soba na naŋ na de ba weɛ e ka ba faabo tori dɔgɛɛ poɔ.,dɛfrɛ la ka wokasa na nana de ba wiɛ ka bɛfaa dɔge o.,0.7391,0.4035
+699,A lɛ la ka Saara da sagra Aboraham noɔre a da maŋ boɔle o daana.,Ale la kasaa dasara abraham noɔre adama bole o daa na.,0.8667,0.1429
+700,"kyɛ leɛ yɔɔ a o yel-erre san-yɔɔ gbɛre boyi; yɛ pulli a o ŋmanlee poɔ, dãã naŋ e kpeɛŋaa gbɛre boyi ko o.",Chɛliya yɛarisanyɔ gbɛbu Yapul a ŋmanlee poa daa na epiaŋbɛribui ko.,0.8696,0.4615
+701,"Yelmeŋɛ yeluu poɔ ane Naaŋmen kpeɛ̃õ poɔ; a laŋ ne mennoŋ zɔɔzɔɔ-boma te naŋ taa te nuduluŋ ane nugɔɔ poɔ, yuori nyaabo poɔ ane vi poɔ, yofaa ane yovelaa poɔ.",Yei mineopoɔanana mopia Alane me nonono boma tnanat ne dula nugɔɔ Uriya poɔ ane fi poɔ Yohane la poɔ,0.8,0.4634
+702,"A ba teɛroŋ be la lige poɔ, ka ba ba poɔ a nyɔvore Naaŋmen naŋ terɛ poɔ a ba sukyie naŋ dare kyɛ ka ba be babammo poɔ zuiŋ.",abatime le legio ka ba poɔ nyɔɔre na manante poɔ abasoyie nan dare kyɛ ka ba be babaoo zu.,0.6897,0.3441
+703,A puoruu laŋne yie noba naŋ be Ezeya poɔ puoro yɛ la.,Apono la ni yino ma nam be esia popori a.,0.9167,0.439
+704,"Faabo ba la kye neɛ kanzaa zie, bonso, yuori zaa ba kye a teŋɛzu kyɛ Naaŋmen naŋ tere a nensaalba poɔ ka te na tu a nyɛ faabo.",Faults nye kaabo Yuribanus naante anansapaae anyɛ faa.,1.0,0.6146
+705,"Kyɛ ka ba naŋ wa boɔle fo, gaa te zeŋ a nembilii zie, ka a neɛ naŋ boɔle fo wa wa, kaapɔge o na yeli ko fo la, ‘N ba, iri gaa zusogɔ kyɛ’; a lɛ fo pãã na nyɛ la yuori a fo lanzennemɛ zie.",Tra ka bana waboa le fɔ gates anim bilii ka neen boa le foaa kaa pɔg o nayili koala m-ba yirigu sɔga kyɛ alɛɛfo paa na nyɛla yuori a fulani zi.,0.8478,0.3308
+706,"Dɔɔ kaŋ yuori naŋ da di Saamon da daŋ erɛ la yelbeere a teŋkpoŋ poɔ, ka a Samareya teŋɛ noba nɔɛ da maa, kyɛ ka o da yele ka o waa la gandaa.",Dɔɔ ka yuri nanedia Moon dada Irani biiri atenka pua ka samaria tiŋa ni ba nɛɛ da maa kyɛ ka o da yili ka waa la gan daa.,0.697,0.3208
+707,"A Pɔɔl ane Banabase naŋ da wa yire, a noba da sɔre ba la ka ba leɛ wa a pɛnnoo bebiri naŋ waana a wa manne a yɛlɛ na zaa ba naŋ da manne ko ba.",Apolo ane aba n'abasa na nda waayire a noba da sɔre ba la ka ba leɛ wa apɛn bebire nam waa na a wɔama ne ayɛ a nasaaba nandaan kɔba.,0.6667,0.2075
+708,"O da yelee la, “A Yeezu ŋa yɛlɛ N naŋ manna korɔ yɛ, ona la a Mɛzaaya.",ɖe ye le la yesu la ye le namaaraa ɔnaa ame zaa.,0.9412,0.48
+709,"Kyɛ ka a pɔlbile da yeli ko ba, “Yɛ ta zoro dabeɛ̃; a Yeezu naŋ yi Naazɛrɛ, ka ba da kpa a dagaraa zu la ka yɛ boɔrɔ.",Chɛ ka a pɔlibili daylike zuri dabi a yiinila ka adaka adaka si la ka yaba.,0.7857,0.5
+710,Ba da kyɛŋ la a tendaa zaa zu kyɛ da ŋmaagyili a nensonne kpeɛbozie ane a teŋkpoŋ Naaŋmen naŋ nɔŋ.,Ba ɖatsa la ti daa zaa zu tsɛ ɖe ma dzi le ananso ni kpibu sie ania teŋkpoŋ na me na nɔ.,0.9,0.3846
+711,"Azuiŋ, ba da manne la a koɔ̃ a nyɛ ka a zuluŋ da waa fiiti lezaayoɔbo, ka ba da la zo belaa kyɛ la manne ka a zuluŋ da la waa fiiti lezaanaare ne pie.",Azu badman nakoa anyɛ ka Zuland w'afeili Yoab ka baaleba kyɛ namane ka zuli dala waa fetiliza naari ne pi.,0.8286,0.3482
+712,kyɛ ka zele zaa na danna Naaŋmen.,Tsɛ ka zele zaa na danna naa.,0.2857,0.2308
+713,"Lɛ la ka O da wa a Samareya teŋkpoŋ kaŋ yuori naŋ di Sika, naŋ are peɛle a weɛ na Gyekɔb naŋ da da ko o bidɔɔ Yuzɛb.",Le la ka woawɔ asamai tiŋkpɔŋkaŋori nandi seka naŋ are peɛle Awuna Jakob naŋ dadako obi dɔ Yuza,0.7857,0.2644
+714,"Ka toma na neɛzaa naŋ toŋ dɔgle a yiri pare wa toɔ̃ are, a mɛmeɛrɛ na nyɛ la san-yɔɔ.",atoma na niezaa nantom dɔgle a yiri pareŋ a toɔ are amamerɛ la nyɛla say,0.6842,0.1905
+715,"’ Kyɛ a wɛkaareba bama naŋ da wa nyɛ a bie la ka ba da yeli ko taa, ‘A gbandire la a ŋa; yɛ wa ka te ko o kyɛ de a o gbandiruŋ boma.",Te Awearobama nandaan abie la ka ba dayel kota agbedelawo katekete ɖe awɔbanu bɔm,0.9118,0.4194
+716,"Bonso, te da ba zuoro a te tɔrebogri a saŋ te naŋ da wa ta yɛ zie.",Banso teabazuoro atetare asa ntena awaye.,1.0,0.3333
+717,"Yɛ vɛŋ ka yɛ enne kyerɛ ne a toma; yɛ taa nimizeɛ ne a seeloŋ poɔ yɛlɛ, a tonɔ a Daana toma.",Yeve ka ne kyerɛ ne atoma yenim ne Asimpon adan a toma.,0.7273,0.4412
+718,A Naaŋmen Supuriyaaraa Laare Yɛlɛ.,a ganir,0.8,0.8276
+719,"” Ka a Yeezu da boɔle ba wa ne O zie, a wa lɔɔ sekpɔgɔ ko ba, “Wola ka Setaana na toɔ̃ digi Setaana bare?",Ka Yesu da boɔa wɔn osie a wɔlose pɔgeba wu la kasta na tondisitaana bare.,0.7917,0.3333
+720,Kyɛ ba da zoro la dabeɛ̃ ka ba soore O a tɛgɛ.,Pool ka o nina dakyini o zaa kyɛ ka bonsuuri pɛli azaa.,1.0,0.9394
+721,Kyɛ tenee eŋ taa la a Kirista poteɛrɛ.,tsetsee eta la kristo potiɛ,0.875,0.4333
+722,Lɛ la ka ba da lori a gbori bon-leŋne bare a mane poɔ.,Lala ka ba de lori aguaree near amane poɔ.,0.6923,0.3
+723,"O da eɛɛ la ka a teŋɛ ane a o noba puoro a dɛndɛŋ wɛdoŋɔ, a onaŋ fele naŋ da maa na.",atenae.,1.0,0.9016
+724,"A Ŋmen-yelnoore kyaare la a O Bidɔɔ naŋ da e Davil bale a nensaaloŋ poɔ, kyɛ ka a Vooroŋ Soŋ da wuli ka O waa la Naaŋmen Bie naŋ taa kpeɛ̃õ ne O naŋ leɛ-iri yi a kuuni poɔ.","Ameyiwo etsa aɖe la, a bid nanead bali anansampɔ kyɛ ka avɔɖowo ka owala na ŋun bie naŋtaa ne onan lee yirii kuuni poɔ.",0.7692,0.4109
+725,"Banaŋ zaa naŋ taa, ba na ko ba la bon-yaga poɔ, ka ba taa ka a gore ba.","Banana nantaa ba na koba la bonyaga poɔ, ka ba taa ka Agriba.",0.5,0.12
+726,A noɔre ŋa la ka a te bale pie ne bayi da kyellɛ ka ba nyɛ a eebo ba zie kyɛ da moɔ nimiri puoro tensogɔ ane ŋmenaa zaa.,ano renameead ka ba nye abesentia zaa.,0.8966,0.7253
+727,Filipi da sigi gaa la a Samareya teŋkpoŋ poɔ a te moɔle a Mɛzaaya yɛlɛ ko ba.,FilIPIDasigalasa Maria te nkopoɔ atemmuo amedzia yɛla kɔba.,0.9412,0.3333
+728,"Ka a o poboɔbo pãã wa taa poɔ baare, o maŋ dɔge la yelbieri, ka a yelbieri na wa baa ta, o maŋ dɔge la kũũ.",Kaa ɔpo boa wo paa watap baaraa dɔla yelbiri ka yeli birina wabaa ta ɔman dɔla ku,0.9231,0.3077
+729,"Gbaŋgbaare, yɛ sigre yɛmenne korɔ a yɛ nembɛrɛ ne emmo zaa boorɔ, ka a ta e a banaŋ naŋ taa nimimaaroŋ ane nimibaaloŋ yoŋ, kyɛ yɛ eŋnɛ a nimikuoŋaa deme meŋ.",bayerɛ mene korɔ ayɛ nembɛrɛ ne mmoaboa ka tae abana nantam maaro ane ne me baaloo eŋne anemuna de memen.,0.8387,0.3821
+730,"Noba turi ayopoĩ da kpi la a teŋɛ gbigruu poɔ, ka dabeɛ̃ da kpɛ a banaŋ naŋ kyɛre ka ba da danne a tenvelaa Naaŋmen.",Noba turi ayopɔin kakula tiŋbi poɔ ka dabida a banaŋ na yɛreka ba adanneɛma naa ŋɔ.,0.72,0.3708
+731,"a seŋ fo yelbiri naŋ yeli; bonso, a n nimie nyɛ la a fo faabo na.",Asefo yere birini bonso a enimnylaafofa bon,0.875,0.2979
+732,"A ferɛɛ la ka o kaara o meŋɛ yideme zu velaa, a e ka o bibiiri sigre bamenne kyɛ eŋnɛ noba yelzaa poɔ; bonso, ka neɛ ba baŋ lɛ o naŋ na e kaa o meŋɛ yideme zu, wola ka o na toɔ̃ e kaa a Naaŋmen puoruu laŋne deme zu?",Afra la ka kaara menai deme so velaa ɛka obibiman kyɛ nyanee.,0.902,0.7358
+733,Kyɛ a lɛ fo naŋ waa ne o zu la ka fo waa.,Ke ale fona wa ne zila ka foɔ,0.8462,0.3571
+734,"Ba naŋ da wa te ta, ba da boɔle la a puoruu laŋne deme lantaa, a manne a toma zaa Naaŋmen naŋ da de ba toŋ ne, ane a lɛ O naŋ yuo a yeldeebo dendɔre a ko a Nemboore-yobo meŋ.",Banana teta ba daba le na aburu na ne din lantaa ama ne atoma zaa na manan dade baton ne ania la onanyi ayɛ diibo dɔ ndɔr akoa ne mburi yɛba mɛŋ.,0.9024,0.3023
+735,Yɛ nyɛ a O nuuri naŋ tonɔ toŋkpeɛne lɛ!,Ye nye onur natrɔ to kianela.,1.0,0.4333
+736,"A noba naŋ da wa lantaa a te ta ŋa turi ne dɔglɔ, a neɛrɛ taa gbɛɛ la ka Yeezu da piili yele korɔ a O potuuribo, “Yɛ gu yɛmenne velaa a yi a Faraziimine gagarre yɛlɛ poɔ.",a noba na daa lantaa a titaŋa ne dɔla a neɛrɛ taa gbɛɛ la ka ye zu dapiiliyela korɔ a o potuuribo yɛ gua meneva yi afarmineerpoɔ.,0.5526,0.2481
+737,"Yelmeŋɛ ka N yele korɔ yɛ, zie na zaa ba naŋ na manne a Ŋmen-yelnoore ŋa a tendaa zaa poɔ, ba na yeli la bonna a pɔge ŋa naŋ e, ka ba leɛ-teɛre o yɛlɛ.",yɛlimaŋa ka nele koraa yɛ Viena banana mma ne aŋidi noore a atenaa poɔ ba nayili la bona a pɔge ŋa naŋ e ka ba lettere o yɛla.,0.6,0.2703
+738,"Lɛ la ka a gbaŋgbaa da le gbi dumo o niŋeŋ, a yele, ‘Di kannyiri ne ma, N na yɔɔ la a fo sane zaa.",Le laka gaɖeedumoniŋe aye le di kanyi ne ma nyɔla afosane zaa.,0.8,0.3188
+739,"” Ba da eŋ la toori a kyɛllɛ o yɛlɛ, bonso, o da toŋ la nɔmaa toma ka a maa ba nɔɛ ka a kɔɔre.","Megale tori akyɛla yɛ la, bonso o datolnamaatoma kaa maa bana ka akɔre.",0.8333,0.2576
+740,"O da yi la a faaloŋ soba zie, a da ko o yɔɔ.",ɖe yi la ƒe alɔ sue zik,0.8462,0.6667
+741,A noɔre ŋa la ka yɛ da woŋ yi a piiluu saŋ; a fere ka yɛ kyɛnɛ o poɔ.,ano aɖe la la ka ye ɖewo yi epila afiase,0.8421,0.5714
+742,"A daare na zaa, a Yeezu potuuribo mine bayi da yi gɛrɛ la teŋɛ kaŋ naŋ di Emmawuse.",adaadaa yensuoturuwa mine bayi da yigaatenyakaŋ nan de ma wo ɛ.,0.8333,0.4062
+743,"Kyɛ yelbieri kaŋ bebe la a e kũũ yelbieri, ona yɛlɛ naane ka N yeli ka yɛ puori.",Te yɛlibiɛri kam be be la a ku yɛ liberal na ne ka yela yɛpo,0.8889,0.4262
+744,"lɛnso ka a Daana da yeli, N ba la taa ba yɛlɛ.",Le seka da na ɖe yeli balaaa bayaa,0.9167,0.3636
+745,N da boɔrɔ la ka o be n zie a leɛre fo gbɛɛ a soŋnɔ ma a saŋ N naŋ da be a nempagdie poɔ a Ŋmen-yelnoore zuiŋ.,Na boro la ka o be dzi aleefu gbe asono asan na da be anampɔ diepoɔ aninyanne zu.,0.7857,0.358
+746,"Bonso, a sɛrɛɛdiibu naŋ tuuro a neŋyeni saanaa wa ne la sɛrɛɛ poɔ leebu, kyɛ a kyɔɔtaa naŋ waa weɛlɛ a tuuro yelbebe yaga puori waana ne la sonnoŋ.",Bonso Asrebuso annyene saana wɔ ne la sɛrɛ bliboa akɔtawu la a tuuro a yili bebe yaga purine la soɔ,0.7586,0.4569
+747,Pɔgpoore ane banaŋ naŋ taa biiri ka ba ɛnnɛ a bebie na poɔ yuori la we!,Popori a ne ba na naŋ taa biiri ka ba ennɛ a bibie na poɔ yurila wu,0.625,0.1636
+748,"A te sããkoma Aboraham tonveɛle eŋɛ naane ka o da leɛ nemmeŋɛ, o naŋ da de a o bidɔɔ Aziki maale ne bagre a bagmaalkuuri zu be?",Ate sanko Abraham to via le ŋe na ne kadalaa ne meŋ onanae awobi dɔ asekan bareba maale kuri zu bi.,0.9259,0.3571
+749,"Yeezu da yeli ko la O potuuribo, “A ferɛɛ la ka gbɛŋmɛ leebu saŋ wa, kyɛ zubie soba la neɛ na zaa zie anaŋ na tu wa!",Yesu da yili kolaa potuuribo arɛɛ la ka bɛ ŋme Lebaga ezua ba la nana zaazi anaa nato.,0.8148,0.3256
+750,"Pampana, N kyellɛ la n dɔgɛɛ poɔ yɛ zuiŋ, kyɛ a n eŋgane poɔ, N baare dire la a Kirista dɔgɛɛ naŋ kyɛre, a puoruu laŋne naŋ waa a O eŋgane zuiŋ.","ampa na nkyia ndɔpe, yɛannyane poɔ mbaa di la Kristo nnkyɛre aporo laŋe na waa a onnan zui.",0.875,0.4259
+751,Kyɛ a noba yaga naŋ da woŋ a yelbiri da sage deɛ la.,sɛ ano ba ya nan da wo ayɛ libiri ba sage deɛ a.,0.7692,0.2564
+752,Ta pagra ka fo puori a de fo nuuri pare neɛzaa zu a ta wa poɔrɔ noba yelbebe poɔ.,Talekefupuore adefunu parenazu atapre no mayelbebepu,1.0,0.3871
+753,"Fo baŋ la a Naaŋmen nɔɛ, ‘Ta toŋ moɔrɔ toma; Ta ko neɛ; Ta zu bon; Ta dire danse-zirii; Eŋnɛ fo saa ne fo ma.",baa anaa ne atumaa takoɛ taunts ziri enaaa ne fam.,0.96,0.5455
+754,A Pɔge Ane A Wa-beɛ Yɛlɛ.,a gander pinaayi.,0.8333,0.7222
+755,"Noba yaga na wa la N yuori eŋɛ a wa yele, ‘Maa la O!",Noba yaga na wala nyuri ŋaayeli maa loo.,0.7143,0.1667
+756,"N da na nɔnɔ la ka N be yɛ zie pampana a leɛre n kɔkɔre, bonso, a yɛ yɛlɛ yoɔre la n nuuri yaga.",nananɔ la ka mbeyipampana aleenɔ bonsu ayɛ yele yoori la nyuriya,0.875,0.3286
+757,"N da woŋ la kɔkɔre kaŋ ka o yele a saluoni poɔ, “Sɛge a yeli ŋa: A piili pampana kyɛ gɛrɛ, banaŋ naŋ kpiire a Daana eŋɛ nyɛ la maaloo.",Na woakɔkyea asansa piripa yɛara banaŋ naŋ yire na eŋala.,0.9333,0.59
+758,"O eŋɛŋ meŋ la ka ba iri yɛ dɛgre ne a seeloŋ dɛgre iruu, ne yɛ naŋ da iri a eŋgannoŋ bare yɛ naŋ da taa a dɛgre iruu a Kirista eŋɛŋ zuiŋ.",Wo na me la ka ba iri yɛ dare ne asinudɔ Iru ne yɛnante iri a enana yɛn data adareatristo ŋai.,0.7273,0.4563
+759,"Ŋaa mɔɔ naane ka o na yeli ko o, ‘Maale zimaane diibu ko ma, a de fo bondirii maaloo kparoo su, a kyɛllɛ ma ka N wa di kyɛ nyu baare, kyɛ a puoriŋ, ka fo meŋ pãã di kyɛ nyu’?","Na mona ne a ona Yeloko,Malizi mani diiko Adefo bondirii maaloo kparo Akala gɔdi kyɛ nebarɛ apuoriŋ ka fomena ne tenye.",0.878,0.3571
+760,A Kirista Dagaraa Zu Kpaabo Danseɛ.,nti Gandana.,1.0,0.7931
+761,Kyɛ a Galliyo da leɛ la o kpaare tere a yɛlɛ ama zaa naŋ da erɛ.,kɛaatee.,1.0,0.8542
+762,"“Yɛnee zukpeɛne deme, noba sukyie naŋ dare ka yɛ tobo ba wono yɛlɛ ka yɛ ba sage ka yɛ leɛ yɛ eebo.",Yane dzikui nu de me n bɛ sikinadari ka yɛtoaa wunyaa ka yɛ ba sage ka yɛliya ebu.,0.7727,0.36
+763,"Kyɛ a Pɔɔl naŋ da yeli ka ba pɔge o te ta saŋ na a nakpoŋ naŋ na di o sɛrɛɛ, N da tere la noɔre ka ba gu o te ta saŋ na N naŋ na toɔ̃ taa o gaa ne a nakpoŋ zie.",Tsɛ apɔ nada yeli ka ba paŋ o titsa anapɔn di o sɛɛdatrola noɔre ka ba gu otia naŋ na toɔna gaane anapo,0.7333,0.3628
+764,N da gaa la be ka N te nyɔge banaŋ naŋ da be a be a leŋ ba taa wa ne a Gyɛruzɛlɛm ka ba wa dɔgre ba.,agala be kanyanee baleba ne adzesɛm kabɔdia,0.9286,0.5694
+765,"Bonso, yɛ yeni yeni zaa na toɔ̃ yeli la Ŋmen-yelmanna yelyelii kyɛ ko taa, ka a noba zaa na toɔ̃ zanne kyɛ yeli yɛlɛ teɛtaa.",Bonsɛn zaa na toera nniema na yeliyeli kyɛ kotaa ka anoba zaa natan kyɛ yili yɛlɛ teɛtaa.,0.68,0.2979
+766,"Ka ba naŋ wa toorɔ yɛ a Kirista yuori eŋɛ, yɛ nyɛ la maaloo, bonso, a puubu vooroŋ naŋ waa a Naaŋmen Vooroŋ be la yɛ zie.",Ka banaare yɛ aristobulo naŋ waa anaa me nuvowo bela Yezie.,0.8519,0.5385
+767,ka ba ũũ ba nimie; ka ka ba na ta kaa ne ba nimie.,Ka ba ŋubanimia Kakaban taka ne ba nimie.,0.6429,0.1429
+768,Ba da kyɛnɛ la kyɛ manna a yɛlɛ zaa naŋ e a korɔ taa.,Madan na kyɛman ayɛ ladan akoraa.,1.0,0.4103
+769,"Kyɛ a yi a yɛlɛ naŋ kyɛre puoriŋ, N sukyiri maŋ dɔɔnɔ ma la bebiri zaa N naŋ kyerɛ a puoruu laŋne yie noba zaa yɛlɛ zuiŋ.",Fia yi aye le nankyenema dɔn no ma la bebe zaa nan kyerɛ apuli yi noba zaa yɛli zui.,0.7407,0.4301
+770,"Ka o da yele korɔ a noba, “Beri ayoɔbo la be a daa gbuli zaa poɔ ka neɛ na toɔ̃ toŋ toma.",ka odaye la kora anaba beria you la be a daa bulaa poɔ ka neɛ na tutuntum,0.5909,0.2344
+771,” ’ Lɛ la ka o da iri a teŋɛ na poɔ a leɛ kuli a o saa zie.,ataale a saa zie.,0.8235,0.6579
+772,"Ona la ka te de te teɛretɔroo zaa eŋ, ka O na la faa te la, a yɛ meŋ naŋ poɔ a soŋnɔ te ne a yɛ puoruu, ka ka noba yaga na puori Naaŋmen bareka te zuiŋ, ne a maaloo te naŋ nyɛ yi a neŋyaga puoruu eŋɛ.",nɔla katee Tititɔ zaa ka na laatila ayɛ menam poɔ asonte ne ayer ka ka noba yala na purenameporena.,0.8163,0.517
+773,A Yeezu da kanna la noba a puoruudie kaŋ poɔ a pɛnnoo bebiri daare.,Ɛyɛ soda ka na la noba apuru die kaŋ poɔ a pɛnoo bebree daare,0.5714,0.2264
+774,"Nembeɛoŋ da yɛre la ba bonsuuri a sori zu, ka ba mine ŋmaara teere ulbili a yɛre a sori zu.",ni bi da yɛrila abusua sori mine ŋmaara tiri bi a yɛra.,0.8,0.4714
+775,"Kyɛ a potuuribo naŋ da nyɛ a lɛ, ba da nyare la a noba zu, ka ba ta erɛ a lɛ.",Sɛ potuuronanda nya ale bɛda nyana anoba zu ka bata real.,0.9048,0.2778
+776,"Lɛ la ka a maleke dɛndɛŋ soba da gaa te kyiri a boma naŋ be a o laa poɔ dɔgle a teŋɛzu, ka felɛ naŋ buoro kyɛ nyuuro da yi a banaŋ naŋ da taa a wɛdoŋɔ ŋmaaroŋ a kyɛ puoro a o teebo enne.",Le la ka makiandg ti chiaanambe a omadleatmizu ka filaakiri di yea banana da taa a wɛdoŋa ŋmaaroŋ a kyɛ puoro a o teebu,0.7111,0.4429
+777,"Te e la a lɛ ka te pigi Setaana sori ka o ta toɔ̃ te; bonso, te ba be babammo poɔ a kyaare ne o poteɛrɛ.",To lale katti Tanaso eka wotatɔ te bonsoi poɔ akane opoti.,0.9231,0.48
+778,Yɛ vɛŋ ka a yɛlɛ yɛ naŋ da woŋ a piiluu saŋ be yɛ sukyie poɔ.,Yevia yenwu?,1.0,0.8444
+779,"Bonso, boma na te naŋ nyɛrɛ na tɔle gaa la, kyɛ boma te naŋ ba nyɛrɛ na bebe la tegitegilɛ.",bobaa kyɛbayi,1.0,0.8261
+780,"Azuiŋ, soba na naŋ de pɔgsarlee o naŋ eŋ noɔre ka o na de la, e la velaa; kyɛ neɛ naŋ ba de pɔge la mɔ yaga.",ISU wɔn a andeal on annɔre ka Oadell kyɛnaa ba de apae lama.,0.8889,0.5128
+781,"Ka neɛzaa wa wa yɛ zie kyɛ ba taa a wuluu ŋa, yɛ ta sage de o a yɛ yiri poɔ bee a de o saanoŋ.",Kanea wɔ wɔ yesisai adesa nɔ.,1.0,0.7313
+782,"Pampana ŋa, a kyaare ne a yɛlɛ na yɛ naŋ da sɛge, “A e la yelvelaa ka dɔɔ ta de pɔge.",Papa no na ayrae ayɛnyadeɛ leela kadada.,0.9524,0.541
+783,"A zie sɔgɛɛ la gaa tɔɔre yaga, ka zinyaane peɛle.",Asese la atɔre kainan piɛla.,0.9,0.5
+784,"Kyɛ a banaŋ naŋ na tuuro a wuluu ŋa eŋ; ka maaroŋ ane nembaalonzoe be ba zie, kyɛ be a Naaŋmen noba Izerayɛl deme zie.",aba no na na turo awula nkamaa ane ne balso bebae kyɛbe anaa man no ba Israel din zie.,0.88,0.3516
+785,Dããbilɛ belaa maŋ vɛŋ la ka a zɔŋ zaa iri pi.,Daba be la mava la ka azɔ va ip,0.8182,0.4412
+786,A Pɔɔl Koobo Yɛlɛ.,Ɔba nka owalabe ne nkom bonsuaa teelare ne anobuo.,2.25,2.4286
+787,"Ba zaa da koŋee la yaga, a da nyɔge a Pɔɔl kori kyɛ moore o.",Ba zaa dakoŋe la yaga a dɛnara Paul kor kyɛmu oo.,0.6667,0.2727
+788,"Te baŋ ka te e la Naaŋmen bibiiri, kyɛ ka a andonɛɛ zaa be a faaloŋ soba kpeɛ̃õ puliŋ.",Takara na ŋubiri anaabui,1.0,0.7077
+789,"A teŋkpoŋ da poŋ la ziiri ata, ka a paaloŋ teŋkponni da le.",Atikpala zi ɖe ta ka palo ti kpo ni de si.,1.0,0.4667
+790,Ona la ba leɛrɛ bee a taa ligruŋ zaa.,na labali be atalia,1.0,0.4643
+791,"A yelbaaraa, N yɔɔmine ane n yɔɔpuuli, N puoro yɛ la.",year nyemena ane nyuuli mpora a.,0.9091,0.475
+792,"Ba da wuli yɛ la ka yɛ bare a yɛ saŋ kaŋ yelkorɔ eebo, a yɛ waaloŋ koraa na naŋ poɔ̃ ka o vɔlfaare bɛllɛ yɛ.",aɖewole le kaya bare ayɛ sanka yelkurɔIbo ayɛ waaloŋ koraa na na poɔ ka o vɔri belee.,0.7308,0.3125
+793,"A tɛgɛ la, Naaŋmen da tu la a Kirista zie kyɛ maale O ne a andonɛɛ yɛlɛ ka a leɛ noma, a bare a ba saanaa ka a baare kyɛ de a leɛ maale taa tonnoɔre ko te ka te moɔlɔ korɔ a noba.",Atala namontuo riseise ɔne ananonannt de alearet ka timɔ korɔ anaa,0.9318,0.6617
+794,"O da kpɛ la a Naaŋmen yiri a te de a Boroboro na ba naŋ maŋ de ko Naaŋmen, ka o ne o a noba ɔɔ, kyɛ ka neɛzaa da ba taa sori ka o ɔɔ a, ka a Naaŋmen bagmaale nembɛrɛ yoŋ naane?",Ɔda kpla anaa ŋuni ateere na banana ka one onooted bataa sorikoɔraa naa ŋun ba maa ni biri o na.,0.9091,0.4884
+795,"A ferɛɛ la ka a ama zaa e, kyɛ ka a teŋɛ naŋ koŋ baare sɛre.",Afrɛ la ka Amaze katinkombari sɛɛ.,0.875,0.4419
+796,"A nɔkpeɛne da wa kpɛ la faa, ka a lɛ da e ka ba da wɛltaa; Banabase da taa la a Marko ka ba kpɛ gbori a gaa Saapuru.","Anɔpa no da wakanafaa kaleda kabadaweltaa, Banabas dataa la maruk ka bɛ kpe gbori gasaa polo.",0.8621,0.2588
+797,"Serɛzaa, te da teɛre ka ba da tere la noɔre ka ba ko te, lɛnso ka te da ba la dɛle temenne faŋ, kyɛ da dɛle Naaŋmen, a soba na naŋ maŋ e ka a kuuni leɛ-iri.",Saa teateateatea so kadalaa,1.0,0.7982
+798,"Bonso, a yɛmenne noba da dɔgre yɛ la aŋa lɛ ne o zu a Gyuumine naŋ da dɔgre ba.",a.,0.9474,0.9831
+799,"O da kpãã ba la ka ba ta wa derɛ bonzaa a ba sori kyɛmmo poɔ, ka daŋgbale yoŋ naane.",Ɔda kpamba la ka ba taa diriba aba sorikoɔraa gariya a.,0.85,0.4286
+800,"A banaŋ naŋ ba sage de a Naaŋmen yɛlɛ eŋ, a teŋɛ ŋa zu ŋmen ligi la a ba teɛroŋ ka ba kontoɔ̃ nyɛ a Kirista yelnoore puubu veɛloŋ.",aban a na basare naaman yɛla n ateamini la batere baton to nyɛ Aristorpubu viɛla.,0.8966,0.4242
+801,Ona la boɔle yɛ kpɛ ne a O Bie te Daana Yeezu Kirista laŋne poɔ.,la bolike su Kristo alan,0.9333,0.6735
+802,"Pampana ŋa, a kyaare ne a kyeɛraa yɛ naŋ na de ko a nensonne yɛlɛ: yɛ tuuro seŋ lɛ N naŋ wuli a Galesiya puoruu laŋne yie noba.",Papa no na akyɛre akyea yɛnna dze ko anasoo yɛleturosela nawui agility nima.,0.9643,0.4845
+803,"O da be la a wɛgyɛŋ poɔ beri lezaayi, ka Setaana da wa e O nyɛ.",O da bela Aweanu berina ka sitaa dawn.,0.8125,0.4783
+804,N ba taa neɛzaa aŋa a Timoti naŋ taa a yɛ maaloo yɛlɛ ne o poɔ zaa lɛ.,bɛtane zaa anatot nantaa ayɛ malo yele ne opoɔzaale.,0.9444,0.2885
+805,"“Ta di fo tɔ sɛrɛɛ, ka ba ta wa di fo meŋ sɛrɛɛ.",Ta difoɔ serɛ abata wɔde fame sare.,0.9231,0.3333
+806,"Kyɛ N da nyɛ la nembaalonzoe, bonso, N da erɛ la a lɛ babammo poɔ, N naŋ da ba taa yeldeebo zuiŋ.",kɛ danyaan baalo bonso nɛ ɖe lalam poɔ na dabaa dubu zu.,0.9091,0.4583
+807,"Bonso, maa eŋ zie, ka maa voorɔ, N voorɔ korɔ la a Kirista, ka maa kpi meŋ, a na e la tɔnɔ ko ma.",Bosoma sie kaman voro voro koraa Kristo kamani ane Elat ne koma,1.0,0.3529
+808,"Bonso, neɛzaa koŋ baŋ e a yelwulii ama fo naŋ erɛ ka Naaŋmen ba kye o soba zie.",ɔsonson eyewole ama fona era kanaan ba kyɛ zua.,0.8889,0.5167
+809,"A Yeezu naŋ da leɛ-iri yi a kuuni poɔ puoriŋ, a koseɛraa bebi-dɛndɛŋ daare bagu-pipi saŋ, O daŋ de la O meŋɛ wuli Mareya Magdalina, ona eŋɛ la ka a Yeezu da digi sefaare ayopoĩ bare.",Ayeee iyi aku no poɔ puoriŋ a kosia bebi dandan daare pipi san dandaa maŋa wuli mari maderia ɔna eŋala kaa yesidi si fare ayopɔin ba.,0.8889,0.3929
+810,"O da yi la Bɛtani, a Mareya ane o yɔɔ Maata teŋɛ.",ɖe yi la betani amaria ane o Matat.,0.6667,0.3611
+811,"Neɛ kaŋ naŋ da be a noba poɔ da yeli ko la a Yeezu, “Wulwullo, vɛŋ ka N yɔɔ e ka te poŋ a te gbandi-boma.",ne ɛkan de be a noba poɔ de yili kolaa zu wuliwulo ɛnka nya ekatpoŋate gbandibumu.,0.8462,0.24
+812,"Pampana, a soba na kpeɛ̃õ naŋ tonɔ te poɔŋ taa la faŋ a na e yɛlɛ zaa a gaŋ bonna zaa te naŋ sɔrɔ bee a teɛrɛ.",pampala asobuo na ntonto alafa ana yɛla agabo na zaa tensor bin ateɛ.,0.8889,0.3951
+813,"A Kirista nɔmmo la teɛ te taa, bonso, te ba bonnɔ togitogi ka neŋyeni la da kpi ko a noba zaa, azuiŋ a noba zaa kpie la.",Akis nɔm na teateaa bɔɔso oman to to kanina de ɖekpuia anaba zaa ansua zaa ku la.,0.8889,0.5
+814,Noba mine naŋ tuuro a yɛlɛ ama bɔre yi la a yeldeebo poɔ a kpɛ weɛ.,Na ne na tulo aye la ama bɔrila ye dibu o Apewu.,0.9375,0.4314
+815,"Bonso, gogo yeni poɔ la ka ba e ka o wɛ o zaa.",Bogoyili poɔla ka ba e ka o wa o zaa.,0.4615,0.25
+816,"Lɛ meŋ la ka a waa yɛ zie, yɛ naŋ kyerɛ ka yɛ nyɛ a Vooroŋ Soŋ kyɔɔtaare, yɛ moɔ nimiri ka yɛ de a tonɔ ne ka a puoruu laŋne na baara duoro.","Le me la ka woaye zi yenate kae nye avɔsitsɔtaɖe, yemana",0.9412,0.6923
+817,"A beri na poɔ, Yeezu da yi la Naazɛrɛ naŋ be Galili paaloŋ a wa ka Gyɔɔn ko O suobu a Gyɔɔdan baa poɔ.",Aber na poɔ Yedaia Nazari name Galili palo a wɔka Jɔn kusuu a Jɔɔdɛn baa poɔ.,0.7083,0.3117
+818,"” Ka neɛ naŋ ba sage de a Kirista yɛlɛ wa boɔle yɛ ka yɛ wa di, ka yɛ sage a o soba boɔlaa, yɛ di bonzaa o naŋ ko yɛ, kyɛ ta vɛŋ ka yelzaa dɔɔnɔ yɛ teɛroŋ.",Ka nenam basal de atwiste waboa le kewɔ di kasa a Osoa bola bonzaa nankyɛ ka yela dɔ no yɛ term.,0.8421,0.4286
+819,"Ka a O potuuribo yeli ko O, “Ka a naŋ waa ŋaa dɔɔ ne o pɔge zie, ka neɛ vɛŋ pɔge deebo a naŋ seɛ.",Ka o poturibyɛlika ka anaa waa dɔɔ ne opae ka nea va adibua si.,0.72,0.4348
+820,Yɛ kontoɔ̃ maŋ di a Daana bondirii a kyɛ la di a sefaare meŋ bondirii.,yɛkonton di adan bundirii akyeadeɛ rememene,0.9333,0.4259
+821,"A baaraa zaa, n yɔɔmine ane n yɔɔpuuli, yɛ kyellɛ a Daana eŋɛ.",Abaayea nnyepi.,1.0,0.7447
+822,"A yelbiri taa la kpeɛ̃õ a na e ka yɛ baa, kyɛ ka o ko a yɛ banaŋ zaa naŋ pɛgeyi a o gbandiruŋ.",yilibia la poɔ ana ekaba kyɛ ka o ko ayɛba zaa nampiane mu.,0.75,0.4265
+823,"A noba zaa naŋ da wa nyɛ a Yeezu, a daadaalɛ ka nɔmaa naŋ ba taa mannoo da kpɛ ba, ka ba zo gaa ka ba te puori O.",A noba zaa naŋ daa nyɛ yeada daa na ka no ma na bataa mano dakaba ka bɛ zo a ka ba ti puri.,0.6552,0.2561
+824,kyɛ ka ba ũũ ba nimie; ka ka ba na ta wa toɔ̃ kaa ne ba nimie.,banima kanea.,1.0,0.7442
+825,"O da ba yire a Naaŋmen die poɔ, kyɛ da maŋ leŋ noɔre, a puoro Naaŋmen ŋmenaa ane tensogɔ.",daba yire a na me die poɔ kyɛ dama le noɔre a puoro namine menaa ane tensɔg.,0.5789,0.1765
+826,Ba da yiele la yieluŋ paalaa: “Fo seŋɛɛ la ka fo de a gane.,Baayi le la yelmaale a gaŋ.,0.8571,0.5581
+827,"A noba mine naŋ da zagre a teɛroŋ soŋ ŋa bare zuiŋ, a ba yeldeebo da lee la.",Anaman azaa sonar soyabean a.,0.9444,0.6842
+828,Ka boŋ mɔɔ la ka yɛ pãã da yi gaa ka yɛ te nyɛ?,Ka bomɔ la kayaa yiga kaete ny,0.8571,0.3333
+829,Nembuo la daŋ tonɔ sogyɛ toma kyɛ maŋ leɛ de o meŋɛ libie yɔɔ ne o meŋɛ?,Nimble antoaso yɛ toma kyɛ maligim libie ɔne mana.,0.8235,0.4364
+830,Yɛ ba leɛ-teɛre ka N da yeli la a yɛlɛ ama ko yɛ N naŋ da naŋ kyɛnɛ be yɛ zie be?,Yamala nda yiri la ayɛ la ama kɔeɛ na dankyen be Yesii,0.8636,0.4483
+831,"Ka yiri zaa deme meŋ wa kyataa a zɔɔrɔ ne bamenne, a yiri na na le la.",kiriatarba na lala.,0.9412,0.7115
+832,Ona la ka Yeezu da e ka o leɛ-iri yi a kuuni poɔ.,Ɔna la ka ye di ɖe eka oli Iriyakuni poɔ.,0.7692,0.2857
+833,"Ka naaloŋ wa kyataa a leɛ zɔɔrɔ ne o meŋɛ, a naaloŋ na na le la.",kaalaka alzone omeŋa onana le la.,0.875,0.4468
+834,"A Takyiku ne Onesimu la waana yɛ zie, a n yɔɔ naŋ taa yelmeŋɛ, a e n yɔɔ-nɔnaa, kyɛ waa yɛ kaŋ.",atatsi ko ne ɔne suma woanye sie ahonni menana na kyɛw yɛ kam.,0.9091,0.5072
+835,"Ba da yelee la, “A dɔɔ ŋa wullo la noba ka ba puoro Naaŋmen lɛnɛɛ naŋ ba tu a begɛ.",Ba de yele la a do ŋewu le la nuba ka ba puori na ŋmanla ne namba tu a be,0.6,0.2787
+836,Kyɛ neɛ kaŋ da di la danseɛ a gansoŋ poɔ zie kaŋ a yele: “Nensaalba la boŋ ka fo taa ba teɛroŋ lɛ.,Tsɛmíekaŋɖeɖi la ɖasi agasɔ po zie kaŋ Ayele nensaaba la boŋ afɔta abatsir,0.7826,0.3425
+837,"Kyɛ a gɔnne ŋa zuiŋ, a nembeɛoŋ da laŋ la taa, ka ba nɔɛ zaa da maa bonso ba yeni yeni zaa da woŋee la ka ba yele o meŋɛ teŋɛ kɔkɔre.",Sɛ aban no nasodie biara da nantaa ka ba neɛzaa dama bonso ba yɛ no yɛ ne daa daweakabaye la o meŋa atena kɔkɔe.,0.8125,0.3838
+838,"Aŋa lɛ ba naŋ sɛge a Ŋmen-yelmanna Azaaya gane poɔ: “Nyɛ, N tonɔ la n tontonɔ ka o de fo weɛ.",Ana lebanon sare awonya ma na azaa gan poɔ nyɛ ntena la ntenten ka odi fowi.,0.8095,0.3382
+839,Lɛ la ka ba da piŋ ba gbɛɛ uuruŋ ane posaanaa eŋ ba kyɛ gaa Ikoniyo.,Le la ka ba de pim ba bee Urim ana mpo saa na mba kyɛ gaa Ikonio.,0.6875,0.2885
+840,"Ka a Kirista ba leɛ-iri a kuuni poɔ, a yɛ yeldeebo waa la weɛlɛ kyɛ ka yɛ naŋ kyɛnɛ be a yɛ yelbebe poɔ.",Kraisa bale Eli aku no poɔ eye dibea le wuie le tekyenene be ayeyie bebe poɔ.,0.875,0.4872
+841,A Noɔre Ba Naŋ Da Eŋ Ko Aboraham.,Kenaz tsee enim na ŋuni so abigo bonso aseba nana ne me.,1.5,1.28
+842,"N waa la bonzaa a noba zaa zie, ka ka anaŋ waa wola zaa, ka N na toɔ̃ faa ba mine ko a Kirista.",ewala be zaa anaba zaa zie kaa anaa la zaa ka nataba mine kɔ akita.,0.7917,0.2941
+843,Zɔɔre da le la a tenvelaa poɔ; Mikɛl ane o malekere da zɔɔ ne la a wɛdombeɛ ka a wa-beɛ ane o malekere meŋ da zɔɔ ne ba.,Zɔ ɖeɖe la te va la ƒo Mikal ane malaria ne la abodo bia ka wabia ane amakeed zɔɔ ne ba.,0.7143,0.4111
+844,"Haali a banaŋ ba naŋ iri ba dɛgre ba tuuro a bege, kyɛ ba boɔrɔ la ka yɛ iri yɛ dɛgre ka a na e yo-iri ko ba nensaaloŋ poɔ.",Hali abana banelibadarre bɔtoro abegye bora ba iligar ka na yorkman salo poɔ,0.8667,0.4286
+845,"Leɛ a fo eebo yi a fo potuyɛlɛ poɔ, kyɛ sɔre a Daana ka anaŋ wa taa eebo ka O di a fo poteɛre faare suuri ko fo.",fɔ,1.0,0.9759
+846,Ba da sɔre o la ka o soŋ ba a e ka ba leɛ taa a Pɔɔl wa ne a Gyɛruzɛlɛm.,Ba dasɔre la ka o so ba a kabaleataa Paulo wɔ ne Jerusalɛm.,0.6667,0.2941
+847,"” Lɛ la ka a potuuribo da gaa a teŋkpoŋ poɔ, a te nyɛ a yɛlɛ zaa ka a e seŋ a lɛ a Yeezu naŋ da yeli ko ba; ka ba da nare a Ista tigri bondirii a be.",Le ɖaka poturibo daga atikpo poɔ atena ayera zaa ka esi alea yesin da yili koba ka ba daara statr bundirii bi.,0.8462,0.3019
+848,"Bonso, a yeli ŋa la ka te de a Daana yelbiri yele ne korɔ yɛ, ka a te banaŋ ba naŋ bare ka te naŋ voorɔ te ta a Daana waabo daare, koŋ baŋ de a banaŋ naŋ da kpi weɛ.",bonsuaa pate de ada no yɛlibil nekokano teandd,0.9756,0.719
+849,"Bonso, te ba sɛge bonzaa yɛ naŋ kontoɔ̃ sɔre a baŋ a tɛgɛ.",Bonso tease bonzaa yɛn nkonton sɔre ba ata.,0.7692,0.2558
+850,"O naŋ da wa nyɛ a Piita ane Gyɔɔn ka ba wa kpeɛrɛ a Naaŋmen die, o da sɔre la boma ba zie.",Ɔnanani pita ane Joan ka ba waa poer anaa ŋmendie o da sɔre na boma ba zie.,0.6087,0.2727
+851,Ba taa la kpeɛ̃õ a koɔ̃ zaa zu a na toɔ̃ e ka a leɛ zẽẽ kyɛ e ka baaloŋ faa boorɔ zaa le a teŋɛzu a seŋ lɛ ba naŋ boɔrɔ.,"batalawo ako dzedzi anato ekala zi te ekaba lɔn fa aborɔde atiŋu, asenamambo a.",0.9688,0.4588
+852,Hammeneyon ane Alɛzanda da poɔ la a noba ŋa poɔ.,Amenin ane Alizanda Dapola a ne ba apo.,0.8,0.2632
+853,Ameena.,me.,1.0,0.6667
+854,"Bonso, soba na zaa naŋ ba taa a yɛlɛ ama ba nyɛrɛ tɔɔre kyɛ o zɔŋɛɛ la, kyɛ inni a dɛndɛŋ yelbebe ba naŋ da pɛge bare yɛlɛ.",Bosoom na zaa namatɛ ayera ama banyere tɔɔre kyɛ o zɔŋ la sɛ enni adada yeli bebe banana pɛbrɛ a,0.75,0.3441
+855,"A pɔgeba meŋ seŋ ka ba taa nimizeɛ, a ta e yosaanema, kyɛ ba baŋ bamenne taabo, a taa yelmeŋɛ yelzaa poɔ.",Aaba Mensinabataa ne mezia ata eyama yɛbaba ba mine taabo atayi ne ne Yezapoɔ.,0.9091,0.3625
+856,Kyɛ a sɛrɛɛdiibu daare Naaŋmen na zo la a Taaya ane Sedɔŋ nembaaloŋ gaŋ yɛ.,trɛ aseredibudaa ɖe naaŋmene zɔ la taa ane nsedɔ ne mbaa long.,0.8667,0.3333
+857,"Yeezu da yeli ko la a neɛ na naŋ da boɔle O, “Ka fõõ wa maale tigri a boɔle noba, ta boɔle fo bamine bee fo yɔɔmine bee fo dɔgrebɔ bee fo laŋkpɛtaaba bee a bondaanema.","Yesu da yɛli konania nanandaboa loo, ka fuwɔame tiri aboloa, tabolo ba mine be foone bi fodoɔ bi fulak bi aboda no a.",0.9167,0.4219
+858,"Yɛ pãã leɛ gaa wieouŋ zaa a te yeli ko a O potuuribo, ‘O iri yi la a kũũ poɔ.",Yapala gago za ati yeriko wopotoɔ Iriya kuku.,1.0,0.5273
+859,"Bonso, a na e la maaloo ko yɛ, ka yɛneŋ wa sage di kannyiri a woŋ tuo yɛ naŋ ba seŋ ka yɛ nyɛ, a Naaŋmen noɔre sagoo zuiŋ.",Wɔsoaa ele maɖewo kɔ kenesini awo ŋutsuwo heabay anaa noɔree,1.0,0.6222
+860,"bonso, ba da ko fo la, kyɛ ka fo da de fo zẽẽ yɔɔ de ne.",Bɔnsa takada food,1.0,0.6842
+861,A Naaŋmen la iri boma zaa ka ka O tu a puoruu laŋne deme zie a e ka a namine ane a kpeɛ̃õ deme naŋ be a sazu poɔ baŋ a Naaŋmen yɛŋ parɛɛ parɛɛ.,anaa miabakae anapa.,1.0,0.8505
+862,"Ba da taa la a boŋ-ma ane o bile wa ne, a wa yɛre ba bonsuuri pare a zu, ka O zɔŋ.",Baapaalaa boma ane o bila a wɔyɛ ba bunsi pare a zu ka o zaŋ,0.5909,0.2632
+863,"Bonso, nembaalba na maŋ be la yɛ zie tegitegilɛ, ka yɛ na toɔ̃ soŋ ba saŋ na zaa yɛ naŋ boɔrɔ; kyɛ maa koŋ be yɛ zie tegitegilɛ.",Babaninye lɛ.,1.0,0.8854
+864,Nembuo la kpãã yɛ ka yɛ zo muri a Naaŋmen supuriyaaraa na naŋ waana?,ni bula paya ka yɛ zoro anaa mensuaa nana wɔn a.,0.8571,0.4074
+865,"Ona la ka a teŋɛzu namine ne o da toŋ peɛ̃mo toma, ka a noba naŋ be a teŋɛzu kuoli ne a o peɛ̃mo toma dãã.",Ɔno la ka tedzia mine ne o datoa kaa noba naŋ be a teŋa zukolon a pɛma da,0.6538,0.3636
+866,Fo maŋ puori la a gbaŋgbaa bareka ne o naŋ sage a fo noɔre be?,Komanporela agbagbaa barka ne nansa aforoeɛ,0.9333,0.3191
+867,"Dansediribe bata la bebe: a Vooroŋ, a koɔ̃ ane a zẽẽ, kyɛ a ba bata ŋa taa la noɔre yeni.",Dane direebates ababaa a ta la noɔri yini.,0.9,0.5385
+868,A Naaŋmen supuriyaaraa sãã la sazu sigre waana ka O zɔɔ ne banaŋ zaa naŋ de ba yelfa-yɛlɛ ane potuoloŋ pigre ne a yelmeŋɛ.,Na munsua saa lesoso ka ozone Banana andebate muna.,0.9583,0.6598
+869,"” Ka O yeli, “Yɛ gaa a teŋkpoŋ poɔ, dɔɔ kaŋ zie, a te yeli ko o, ‘A Wulwullo yeli ka N saŋ peɛlɛɛ la, N ne N potuuribo na di la a Ista tigri fo yiri poɔ.","Ka o yɛli, Yaa atsikpakpa",0.9459,0.8411
+870,"A Izerayɛl noba ŋa poɔ la ka Naaŋmen da kaa-iri a te sããkommine, a e ka ba waa gandaare a saŋ na ba naŋ da be a Igyipiti teŋɛ poɔ.",A Israel noba ŋa pola ka naa munaka Iliaskumni ayi kaba wagadre asan na ba na de be a Ijipti poɔ.,0.7,0.3469
+871,"Kyɛ yɛ gaa te yeli ko a O potuuribo ane Piita, ka O de la yɛ weɛ a gɛrɛ Galili teŋɛ; be la ka yɛ na te nyɛ O, a seŋ O naŋ da yeli ko yɛ lɛ.",Kɛya yilikpariba anika ka o de la yɛwura be la a yɛntena se o naŋ daily.,0.7895,0.4898
+872,"Nɔmmo maŋ sagra la yelzaa, a sagra derɛ yelzaa.",na ɔma saa yi zaa asaade elisa .,1.0,0.4865
+873,"’ Kyɛ maa yele korɔ yɛ la ka ka neɛzaa wa bare o pɔge, ka a ba e moɔrɔ yɛlɛ zuiŋ, o soba vɛŋɛɛ la ka a pɔge toŋ moɔrɔ toma.","Tema yele kuro yɛ la, ka kaneaa waba opagekaaba Emoro yɛla zu o su ba vaŋa la ka a pɔge tumor toma.",0.6667,0.2697
+874,A koŋ la kɔɔre kyɛ ka a emmaaroŋ Naaŋmen ŋmore Setaana biŋ yɛ gbɛɛ puliŋ.,Akɔla kɔre kɛkɛ mmara na mane mmeresitana bi yɛ gbɛ poli.,0.9333,0.3793
+875,"A Boroboro Dambo tigri bebi-dɛndɛŋ daare, a potuuribo da wa la a Yeezu zie a wa yeli, “Yeŋ la ka fo boɔrɔ ka te nare ka fo di a Ista tigri?",bɔrɔbɔro dambu tiri bɛbiaa daari apotowia ayeira auditati,1.0,0.6058
+876,"Kyɛ ka tenee wa laŋ ne a Kirista kpi, te sage deɛ la ka te meŋ ne O na laŋ voorɔ la.",ɛkate walaŋ ne Akristoite sadeen wo na la ŋu. la.,0.8636,0.4262
+877,kyɛ Naaŋmen meŋɛ zaa na be la ba zie; O na eɛre la nentaŋ zaa bare ba nimieŋ.,na monmen zaa na be la ba zie o naŋ erɛ la ne tanzaa baba nimi,0.5556,0.2931
+878,"Yɛ kyɛlle woŋ a n sɔroo, a maale yelzaa velaa, a taa yelwontaa ne taa, a kpeɛrɛ ne emmaaroŋ; kyɛ a Naaŋmen naŋ waa nɔmmo ane emmaaroŋ soba na be la yɛ zie.",Yeyewo a nsɔre amale vela atayer wɔntane taa apene mmaranyɛ anaa menana noman mmara nso ba na bela zi.,0.9091,0.3814
+879,"Ka tenee baŋ ka O maŋ kyɛlle woŋ la bonzaa te na maŋ sɔre, te baŋ ka te nyɛ la a bon te naŋ sɔre yi O zie.",Katie ban ka omanye wo la bonzaa tena mansɔre ebanina la bon tenase yi o zie.,0.7143,0.2987
+880,Kyɛ a teŋɛ da wa soŋ la a pɔge; o da yuo la o noɔre a vɔle a baa na a wa-beɛ naŋ da ogi yi a o noɔre poɔ.,sɛ atedua woroo la o noare avɔ le abaana a wabena da oyi a nore poɔ,0.8,0.3562
+881,"Pampana, ammine da la a banaŋ naŋ da woŋ a yɛlɛ kyɛ da zɔɔrɔ ne Naaŋmen?",pampa na amena gala abana nan dɛwɔ ayɛ lɛ kɛ razor ne na me.,1.0,0.3091
+882,"A potuuribo lezaata ne pie da leɛ waɛ la ne kyelloo a wa yele, “Daana, a fo yuoriŋ, haali a sefaare sage la te noɔre!",potuuribo Liate ne mieda le wanane kyɛnaa yele daana afuor Hali sefar sala tenae.,0.84,0.3182
+883,"A bebie na poɔ, noba na maŋ bɔ la kũũ kyɛ koŋ nyɛ o; ba na maŋ boɔrɔ la ka ba kpi, kyɛ kũũ na maŋ zo yi la ba zie wieouŋ zaa.",Abe bie napona le kukyana yila ezui zaa.,0.9697,0.6854
+884,"Lɛ meŋ la ka a waa yɛ zie, ka yɛnee yele kɔkɔsaama ka a ba e weliweli, wola ka neɛ na e baŋ bonna yɛ naŋ yele?",Le mele ka wɔ aye vi ka yinye kokɔ saama ka be eelee wo la ka neneba bonyeni.,0.8519,0.4074
+885,"Bibiiri, yɛ sagra a yɛ dɔgreba nɔɛ yelzaa poɔ, bonso, a ŋaa la yɛ feroo toma naŋ seŋ ne a Daana zie.",Bibiiri yasara ayɛ dɔba nayili zaa poɔ bonso ana la ɛforoo a nansan adan zie.,0.7727,0.2933
+886,"Azuiŋ, boŋ tɔnɔ pãã la ka yɛ da nyɛ yi a yɛlɛ ama naŋ erɛ yɛ vi pampana?",Izobontono paa lakaa nyɛ yi ayɛ la ama na reyi papa na.,0.8333,0.3585
+887,"” Ka a Yeezu yeli sɔge, “Fõõ la yeli a lɛ.",Kapita,1.0,0.8571
+888,"Yɛ ba nyɛ O pampana kyɛ yɛ sage de la O yɛlɛ, a kyellɛ ne popeɛloŋ naŋ ba taa mannoo, bonso, a yɛ yeldeebo tɔnɔ yɛ naŋ na nyɛ la a yɛ seere faabo.",Ye banya wo pampa na yɛyɛ be la o ye la atrene popia la na bata manɔ bonso ayeyie tɔ nɔ yɛnnane la ayɛ siria,0.8824,0.3945
+889,"A tuo belaa ŋa te naŋ nyɛrɛ pampana ŋa, nara te la ka te na nyɛ puubu naŋ ba taa baaroo ka ba kontoɔ̃ manne, bonso, te teɛroŋ ba be boma na nimiri naŋ na toɔ̃ nyɛ poɔ, kyɛ te teɛroŋ be la boma na nimiri naŋ kontoɔ̃ nyɛ poɔ.",atobi la a tnanere pampa no no na bɛtataye puu nam bata Barka bakoto many bonso titinae nanim na na na toyoɔ kyetee be la mana nimntonyapoɔ.,0.88,0.4277
+890,Fo mɔɔ da waa la gbaŋgbaa a saŋ Naaŋmen naŋ boɔle fo be?,foma wala gbagba asaaman boafo be,0.9231,0.3953
+891,yiri pare kuuri ba naŋ kaa-iri ka o waa bon-yuori; ka vi koŋ kpɛ soba na zaa naŋ sage de o yɛlɛ.,Yiri parki banana rika waa bonyuuri ka vi kɔpɛsi na zaa nasadɔɔ,0.7273,0.3521
+892,"Azuiŋ, yɛ yele yɛlɛ teɛrɛ taa kyɛ soŋnɔ taa ka yɛ baara duoro, aŋa yɛ naŋ sereŋ erɛ a lɛ.",Asuyereye la tirata kyɛ so ntake bare duro a yɛnsane era.,0.95,0.4627
+893,"N poyɛŋ noba, yɛ daŋ ta wa derɛ yɛmenne zɔɔre a zɔɔrɔ, kyɛ yɛ maŋ bare vuo ko a Naaŋmen supuriyaaraa; bonso, ba sɛgɛɛ la, “Maa la so san-yaabo, N na yaa la a sane, a Daana la yeli.",Mpo yɛnoa yɛdaadaa mini zɔra kyɛma barook anaa munsua bonsu basaa Maaseya la asa adane la yi.,0.9487,0.5076
+894,"N yɔɔ, N sereŋ nyɛ la popeɛloŋ ane yelteɛbo yi a fo nɔmmo eŋɛ, bonso a nensonne sukyie leɛ nyɛ la faŋ paalaa a yi fo zie.",nsene la popelaa yetie afonam na bosonsonni sike le nya la fam pala yi fui.,0.8889,0.4783
+895,"Yɛlɛ na zaa meŋ yɛ naŋ woŋ ka N waale yeli, yɛ do peere zu a te moɔle a gboligboli.",Yeranazaamen yɛnanom ka nware yɛli zutal,0.95,0.5645
+896,"“A Gyuumine zaa baŋ la n nyɔvore yɛlɛ a yi n biiluŋ saŋ, N naŋ da laŋ kpɛ ne maa meŋɛ noba a Gyɛruzɛlɛm poɔ, a yi a piiluu saŋ.",Adwuma ba la nyɔvia le ayi mbisa ne alakpa noba ayerɛmo ayi pili sam.,0.9,0.5213
+897,Ba da boɔrɔ la yelmeŋɛ zaa ka ba ŋmaa nyɔge o a sori poɔ a ko.,Ba dabua lɛ yeli min a zaa ka ba ŋmaa nyɔge a sori poɔ ako.,0.5,0.2174
+898,"N de la Naaŋmen sɔrɔ fo, ta dɔgre ma.",dua nanosa.,1.0,0.7407
+899,‘Azuiŋ la ka N are a fo niŋesogɔ ka ba dire n sɛrɛɛ a zenɛ bebiri.,Azu la ka adefo ne so ka ba dire nsaaseber,0.6875,0.3878
+900,"” Ka Yeezu da yeli ko o, “Pɔge, sage de N yɛlɛ.",traaaaaa boɔnaa bule waa zuu yɛnkan.,1.0,0.9032
+901,"Neɛ na zaa naŋ teɛre ka o baŋ la bonkaŋ, o ba taa a yelbammo a naŋ seŋ ka o taa sɛre; kyɛ neɛ na zaa naŋ nɔnɔ Naaŋmen, a Naaŋmen maŋ baŋ la a soba.",Ni enaaa nantee ka ɔba la bonkaŋ ɔbataa ayeba ananse nka ɔtaa sere kyɛ nena na nɔnaa ŋmani anaa monam ban la asoa.,0.8333,0.2963
+902,"A dɔgroŋ ŋa a noba yaga zie naŋ ko a neɛ ŋa tɔ, seŋɛɛ la.",Adwoa anobayagezie nankɔ anana Simea.,1.0,0.439
+903,A Pɔɔl Naŋ Puori A Korinti Teŋɛ Puoruu Laŋne Biiri.,Paulo nansa ku akoranteɛ me Kontinue n,1.0,0.7073
+904,"A potuuribo pie ne bayi naŋ da leɛ wa, ba da manne ko la Yeezu bonna zaa ba naŋ e.",Apotoro pie ne bayi na nda neawadama no kolebonazaaba nan,0.85,0.3115
+905,A ŋaa eŋɛ la ka Naaŋmen da boɔle yɛ ka ka yɛ na di O maaloo gbandiruŋ.,Ana ne la ka naŋedaboaleyɛ kakee nèdi maalo gbandiroŋ,0.8824,0.283
+906,"Lɛ la ka O yɔɔmine da yeli ko O, “Yi a kyɛ a gaa Gyudiya poɔ ka a fo potuuribo meŋ te nyɛ a toma fo naŋ tonɔ.",Lala ka woyɔ mine ɖe ye le ko ataade poɔ ka foto meŋ ti nye atomfo na tomo.,0.8571,0.4304
+907,Kyɔɔtaare Ba Naŋ Kyeɛre Na Ko Kiristabiiri Naŋ Be A Gyɛruzɛlɛm Poɔ.,ti Gaman,1.0,0.9273
+908,"Yɛ vɛŋ ka te pãã lɔɔ a ligruŋ toma bare, kyɛ de a veɛloŋ zɔɔre boma su.",Yei kanea Lɔli ntoma bare kyɛ de vili s.,0.8235,0.5472
+909,"” Ka a Faraziimine la soore O, “Ka wola pãã la so ka Moozul da tere sori ka ka dɔɔ wa boɔrɔ ka o bare o pɔge, ka o ko o pɔg-bare gane kyɛ bare o?",Ka afraimini Lasaro ka wula paala sika Moz datii sori ka ka dɔɔ a bɔri ka o bari o page ka o ku pobriga chɛ Bar.,0.6857,0.3269
+910,” kyɛ ka “Naaŋmen kaa O noba ane nimibaaloŋ.,a,1.0,0.9697
+911,"Ba naŋ da leɛ wa a potuuribo zie, ba da nyɛ la nembeɛoŋ ka ba ŋmaagyili ba, ka a Naaŋmen bege wulwulibo ŋmeɛrɛ nɔkpeɛne ne ba.",Manama wɔ apotre baa nyɛla nin biŋ ka bɛ ŋmaai jina ka naa ŋun biri wuriwuri mɛrina ni nima.,0.9231,0.4796
+912,"” Aneazaa ka Hɛrɔde da boɔrɔ la ka o ko a Gyɔɔn, kyɛ o da zoro la a noba dabeɛ̃, bonso, ba da sage ka a Gyɔɔn waa la Ŋmen-yelmanna.",Anaa ka Herode da bɔrila ka o ko Jɔn chɛ o da zoro la a noba dabiɛm bonso baasa ka Jɔn waala miali mani.,0.5517,0.3158
+913,Yɛ ba baŋ ka a seŋ ka N be N Saa yiri poɔ be?,eye brama aseabi esaa yiri po,0.9286,0.4516
+914,"A Aboraham naŋ da te zɔɔtoɔ̃ a namine kyɛ da leɛ waana, a Mɛlekizɛdɛk da tuori o la a maale o.",Abraham nandatezɔɔ to anamon kyɛ dala waana amɛleka la amale.,0.8571,0.3239
+915,"Aŋa yɛ naŋ da woŋ ka a zirii kirista waana la, pampana, a zirii kirista mine yaga waɛ la.",Aŋa ye nende wo ka ziri kristo waana la pampana Azirikista mini yaga wɔe la.,0.6316,0.2206
+916,"Yɛ vaa ba mine yi vũũ poɔ a faa ba; kyɛ yɛ taa nembaaloŋ ba mine eŋɛ ne dabeɛ̃, a gba kyiiri ba bonsuuri naŋ e ka ba mɔge dɛgre.",Yaaba mini yi vu pu aaabanina mini a ni dabba chirisi dari.,0.9333,0.6316
+917,"Gbaŋgbaare, yɛ sagra a banaŋ naŋ so yɛ nɔɛ yelzaa poɔ, ka a ta waa ka saŋ ba naŋ kaara yɛ yoŋ, ka yɛ e ka ba poore pɛle kyɛ yɛ sagra ba nɔɛ ne yɛ poore zaa yɛ naŋ zoro a Daana zuiŋ.",Gbaai abanasi sambana kaare yoma ka ba puori pɛkyɛɛ ba no ne yɛ puri zaa yɛn zoro a anazi.,0.8182,0.5448
+918,"” Bonso, a yɛlɛ na zaa ba naŋ da sɛge a dakoroŋ saŋ, ba da sɛge a la ka a wuli te, ka ka a te kannyiri diibu ane yelteɛbo naŋ yi a gansoŋ poɔ na e ka te taa teɛretɔroo.",Bonsu ayɛ le naaaaa dase dakorobia kaaekyir dibayi nayi aanom poɔ na katita tirɔ,0.95,0.5041
+919,"Yɛ zaa seŋ ka yɛ taa Sigruumilluu ne taa, bonso, ba sɛge la a gansoŋ poɔ: “Naaŋmen maŋ zagre la a pɔloo deme yɛlɛ.",YEzsŋkayata sir mi lone ta bɔnso Masala agasɔ poɔ namininge no apono deme yɛla.,0.9167,0.4186
+920,Yeezu Naŋ Ko Noba Turi Anaare Bondirii Ka Ba Di.,ko Galili.,0.9,0.8684
+921,ka turi pie ne turi ayi da yi a Levi bale poɔ.,Ke turi ni trayi ɖe yi ale vi ba le ƒo.,0.9167,0.3235
+922,"Andonɛɛ, yɛ yuori la we, a gbɛŋmɛ le boma zuiŋ!",Aduna ye yo lawoe agbe me le boma zu.,0.8,0.4
+923,"A yɛlɛ ama da eɛɛ la ka ka a Ŋmen-yelmanna Gyɛremaaya yelbie na tu a tuubu, aŋa lɛ o naŋ da yeli: “Ba da woŋ la neɛ kaŋ kɔkɔre naŋ yire Urama poɔ.",A yɛla ama daa yɛla ka ka Amiɛl mana Jɛrimia yɛli bɛ ni tu atuu aŋala onana yili bɛ di wuna mɛka ka kɔrinyiri Rama po,0.8788,0.3761
+924,"Naaŋmen zie la ka a ama zaa yi, Ona la tu a Kirista zie a maale te ne O yɛlɛ ka a leɛ noma, kyɛ de a leɛ maale taa tonnoɔre ko te.",na monsie le ka ama zaɣi oneetistosi ama atene oye la kalinsi alamati nyɔri kot.,0.9394,0.4947
+925,"A yɛlɛ ama zaa da e la ba zie ka a e yelwulaa ko ba, kyɛ ka ba da sɛge a biŋ ka a na e wuluu ko te, bonso, te be la a vuo na poɔ naŋ peɛle a baaroo saŋ.",Ayele ama zaa de Ele be zie ka ye lubu la kobaare biŋ kaa Intentional abaasa.,0.881,0.5421
+926,"Fo naŋ da sage de a N yɛlɛ taa ane kannyiri zuiŋ, N na gu fo la taa ka a dɔgɛɛ na naŋ waana a tendaa zaa ka o e a noba naŋ be a teŋɛzu nyɛ, ta pɔge fo.",Fa nanasa de a eyelataaane kanyi zuiŋ na gula taa kaa dɔgɛɛ na naŋ waana a tendaa zaa ka o e a noba naŋ be a teŋɛ zuŋ nyɛ kapɔge,0.5,0.1651
+927,A Yeezu yuori da yaare la a zie zaa a te kpɛ Naa Hɛrɔde naŋ da e Galili teŋɛ naa tobo.,AyezuYur da yaarila avia ate kpe na Harɔd nan di Agilitiŋanaa tob,0.9524,0.3077
+928,A nɔ-eŋnaa daga zu da taa la puubu malekere ka a kyigi pɔge a nembaalonzoe dakogi zusogɔ.,Ana nnaadaa zu data le ku wo malkirakyi pɔge ane ba le noe dakogizu soga.,0.9412,0.3099
+929,A O kannoo da ba waa ŋa a Naaŋmen bege wulwulibo kannoo.,aoka no daba woa na anaa wo drew nuwa ka no,1.0,0.4545
+930,"“Serɛzaa, maa meŋɛ da sage deɛ la ka a seŋɛɛ la ka N e yɛlɛ yaga sãã a Yeezu, a Naazɛrɛ Bie yuori.",Sreme ame geɖe saladi la ka asiel kae yeliyaga sa aye zu anaa ɖe bi yuori.,0.8696,0.4167
+931,A Wɛdoŋɔ Dɛndɛŋ Soba Yɛlɛ.,agaiin,1.0,0.9048
+932,Nɔmmo ba boɔrɔ o yoŋ tɛgɛ boma; o suuri ba ire bee a diire yelfaare binne.,Na ɔmo bɛboro yentem osua re bin adiye fare beni.,1.0,0.4912
+933,"A gansoŋ da yelee la, “Naaŋmen taa la a vooroŋ O naŋ e ka o kpeɛrɛ te poɔ yɛlɛ yaga zaa,” yɛ teɛre ka a gansoŋ naŋ da yeli a lɛ waa la weɛlɛ be?",Aganɔ de yele la na ŋuta la avorekawokpua etoɔ ye le yagazaa nadaawa wui le be,0.9143,0.5238
+934,"Ka yɛ kanzaa wa taa yelbawontaa ne o tɔsoba, boŋ na wuli ka o taa o gaa ne a banaŋ naŋ ba waa Kiristabiiri zie ka ba maale a yɛlɛ, kyɛ ka a da seŋ ka o taa a yɛlɛ gaa ne a nensonne zie?",Ka kasa wɔ taayi ba wɔntaa ne otɔsobɔ bɔn a wuli ka o taa gane ba na nam baa Kristo biiri zie ka ba maale ayeyɛ ka dase ka o taa a yela gaane a nanso ne zie.,0.6444,0.2246
+935,"Yɛ ta vɛŋ ka neɛzaa bɛlle yɛ ne yelfoglo, bonso a yɛlɛ ama zuiŋ la ka Naaŋmen supuriyaaraa waana a banaŋ naŋ zagra O noɔre eŋɛ.",Yɛtenaa belee ne Yelo lo bonsu ayera ama zuna kanaanni puya waana aban nansaala noɔre na.,0.8462,0.43
+936,"Kyɛ a potuuribo naŋ da wa ŋmaagyili o, o da iree la a da leɛ kpɛ a teŋkpoŋ poɔ.",yɛapoto na wanmailoode Ire la adalia kpa atiŋkpa,0.9474,0.4237
+937,"A yɛlɛ ama zaa poɔ, N wuli yɛ la ka toma tommo poɔ la ka te na toɔ̃ soŋ a nembaalba, kyɛ teɛre a yelbie a Daana Yeezu meŋɛ naŋ da yeli, ‘A e la maaloo yaga ka fo tere a gaŋ fo naŋ derɛ.",Aye la mezu ŋu lia la katema katasɔ ane balba tsetse ayi libie adane zumlion.,0.9556,0.6444
+938,"” A tɔntɔbaalɛ ka maleke beɛoŋ deɛ daa yi wa are ane a maleke na, ka ba puuro Naaŋmen, a yele: “Ka Naaŋmen nyɛ puubu a sazu tɔɔre zaa.",Atɔ ntabea mareke bia di baa yi wa are ane amalek na ka ba puuri naa min a yele ka naa mini ne puba sazu tɔɔre z,0.6071,0.27
+939,"A Naaŋmen naŋ da e ka a Yeezu leɛ-iri a kuuni poɔ a koŋ la kpi zaa, O da yeli la ŋaa: ‘N na ko yɛ la a nɔsonne na N naŋ da eŋ ko Davil.",anaa wonana kaaye le Eran poɔ akolaa odaye la na nakwaa anɔ so ne na nan da no deid,0.8611,0.4316
+940,"Lɛ la ka a potuuribo wa soore O, “Bonso ka fo lɔɔrɔ sekpɔgɔ korɔ a noba?",Lala ka potuurobo so kefloo sepɔkɔraanab.,0.9375,0.4815
+941,A sobo da waa ŋa wie ba naŋ nare gu ne zɔɔre.,Aso bo ɖa woaŋe wui banana regu ni sɔre.,1.0,0.2727
+942,"Tɔntɔbaalɛ, ka Moozul ane Elaagya deɛ daa sãã, ka ba ne O yele yɛlɛ.",tontobɔ la ka mo zuri ane elaaje dee dansa ka ba ni yili yila.,0.8571,0.4038
+943,"Azuiŋ, yɛ e ka te gɛrɛ niŋe, a toro a Naaŋmen yelbiri bammo poɔ, kyɛ ta naŋ be a bibil-yelbie na ba naŋ da piili wuli te kyaare ne a Kirista.",Azu yɛ kɛtere atoro anaa ŋu yili biriba poɔ kyɛ a nan bee a bibilii bina banana pii wutiee ne akrista.,0.8387,0.3491
+944,"A pɛnnoo bebiri naŋ da la wa ta, a teŋɛ noba yaga zaa zie da laŋ la taa a na kyɛlle a Daana yelbiri.",apɛ no bebree na daa wata a tiŋa ni bayaga zaa zie dala la taa a na kyɛle a daa na yɛli bi.,0.75,0.2
+945,"Lɛ la ka Yeezu da leɛ kuli yiri; ka a nembeɛoŋ la maaleŋ wa lantaa, ka O ne a O potuuribo da ba taa aroo na di diibu.",Lala ga yili zi dalee kuli iri ka a ni biɛɣu la maali walanti ka o niŋ o potuuribo daba ta aroo na didi.,0.6786,0.2644
+946,"Yɛ ba baŋ ka zogantaa poɔ, a zozoribo zaa maŋ danna la taa ka ba zaa zo baare, kyɛ ka neŋyeni yoŋ de a kyɔɔtaa be?",Yaraba ka degantaapoɔ asosorobosaa mman dana la taa ka ba zaa zo baare kyɛ ka yi yino de akɔta be,0.5385,0.2558
+947,"Azuiŋ, soba na zaa naŋ na zagre a Naaŋmen nɔɛ yelbi-bile ŋa kanzaa, a wullo o taaba meŋ ka ba erɛ a lɛ, na waa la a tenvelaa naaloŋ noba zaa nembile soba.",Azu subana nana zagre anaa ŋunye bibile ŋa kaŋ zaa a wulo o taaba meŋ ka ba era lɛ na waa la a te vilaa naalo noba zaa nimbili so,0.6061,0.1966
+948,A zele waa ŋa a teŋɛzu faaloŋ naŋ be a te endaa poɔ.,Zelia Atiŋu faana mbe atena poɔ.,0.9231,0.4103
+949,Kyɛ a ferɛɛ la ka ba daŋ moɔle a Ŋmen-yelnoore a tenne zaa poore.,Te afrɛ la ka ba dammoa le aŋe ga no ɖe atena pore.,0.7857,0.38
+950,"Yɛ ta wa teɛrɛ ka N wa ne la maaroŋ a teŋɛzu; N ba wa ka N tere maaroŋ, kyɛ zɔɔre la ka N wa ne.",Yatwatiɖeka nguan la maaroŋ ateŋ zu mbaa ntrɛmu kyɛ zɔɔre la ka wan,0.7692,0.3382
+951,"Ka a pɔgpaalaa serɛ naŋ wa kyɛnɛ be ba zie, ba kontoɔ̃ leŋ noɔre.",Ka paala sere na guasɛn be ba zie ba kontonlee noɔre.,0.5714,0.2653
+952,"Tensogɔ kaŋ, a Daana da yeli ko la a Pɔɔl o nyaabo poɔ, “Ta zoro dabeɛ̃, manna a yɛlɛ kyɛ ta pɔge fo noɔre; bonso, N be la fo zie.",Kansanaakolaa paulo nyaabo poɔ kazirdabel mana ayɛ lɛ kyɛ ka kɔgo noɔre bonso m be la fui,0.7667,0.3333
+953,"Bonso, banaŋ zaa naŋ di kyɛ nyu kyɛ ba baŋ a tɛgɛ, dire la kyɛ nyuuro sɛrɛɛ dɔglɔ bamenne zu.",Bonuban zaandi kɛnyiɛ bɛba atɛbia tenyuo serɛ dɔglaa mini zu.,0.95,0.4225
+954,"Aŋa lɛ yɛ naŋ da de yɛ nandaare ka a waa yeldɛgɛ ane faaloŋ naŋ ba poɔrɔ gbaŋgbaare, pampana ŋa, yɛ de yɛ nandaare ka a waa mennoŋ gbaŋgbaare ka yɛ na nyɛ pɛgeyiibu.",Aane yeadae yɛnane kaa wayie ane faa lo na ba poɔrɔ gbaŋgbale pampa ne a yɛdeɛ nan daare ka a waa menuabaa ka ɛnanyɛ tɛyi,0.8235,0.3178
+955,"Bonso, a Naaŋmen nɔmmo la ŋa, ka te sagra a O nɔɛ.",Banana.,1.0,0.8333
+956,"Yɛ maŋ kpeɛrɛ a yiri na poɔ a dire kyɛ nyuuro bonna a yideme naŋ korɔ yɛ, bonso, tontonɔ zaa seŋ ne la o san-yɔɔ.",Yɛ mankura ayiri na poɔ a dire kyɛ nyuuro bo na ayi damena kurobo tontona zaa se ne la o sanyoo.,0.56,0.2235
+957,A Stefanuu da paale ne la garaaseɛ ane kpeɛ̃õ a da tonɔ toŋkpeɛne kyɛ erɛ yelwulii a noba poɔ.,Asefo no da paale ne nagase ane pua adate ntɔnka ne so reyɛ wuli anaba poɔ.,0.7368,0.3919
+958,Ba maŋ iri la Naaŋmen bagmaalkare neŋkpoŋ zaa ka o terɛ kyɔɔtaare kyɛ maala bagre.,Mama ira naama malkiepɔŋzaa ka tratɔ tare kɛmaa la bare.,0.9333,0.3881
+959,Maa eŋ daŋ koŋ e pɔloo yelzaa eŋɛ ka a te Daana Yeezu Kirista dagaraa yoŋ eŋɛ naane.,Ma ndan Epo ye zaa eŋ kata ne yesua a one nani.,0.9444,0.5606
+960,"A bombie anaŋ ba naŋ da bore a sori zu la neɛzaa naŋ woŋ a naaloŋ yelbiri kyɛ ba baŋ a tɛgɛ, a sebɛlbɛllɛ maŋ wa zeɛ la a bonna ba naŋ bore o sukyiri poɔ gaa ne.",abom bi a anaa banana bor asoro la neɛzaa na ngo anaa longli kyɛ ba ba atɛeɛ bɛɛmaa zeɛ la a bonbaare o sukyiri pɔɔ gaa,0.7368,0.3033
+961,Yɛ sage deɛ la ka Naaŋmen e la yeni; yɛ mɔɛ la.,Yake deaka naaŋmene Elaine Yamoa la.,0.9167,0.3529
+962,"Banaŋ naŋ kyɛnɛ ŋmenaa saŋ ba ŋmeɛrɛ gbɛɛ, bonso, ba maŋ nyɛrɛ la a teŋɛ ŋa zu kyaane.",Banana nanasa Banera bonso bama nyeraa atena zu taa ne.,0.9444,0.4242
+963,"N ba yele a ŋaa a wuli ka yɛ sããɛ la, bonso, N da daŋ yelee la ka yɛ be la te sukyie poɔ, a na laŋ kpi kyɛ leɛ laŋ voorɔ.",bayeli anaa awuraa saa la bonsoi la kaaba tsike poɔ ana la kpi yɛleave,0.875,0.4535
+964,"Bonso, ba sɛgɛɛ la: “A Daana yelee la, N naŋ voorɔ zuiŋ, dumo zaa na gbi la N niŋesogɔ.","bonsuaa, Adaaroma nabila niŋesogɔ.",0.9474,0.5714
+965,Soba na zaa naŋ erɛ Naaŋmen poboɔbo waa la N yɔɔ ane N yɔɔpuulee ane N ma.,Onana waka ano ba nanseng no da yele la ma ane nyooi la ba manane kyɛ su ba na zaa naŋ erɛ a onoɔ waa la nyɔge a ne yoo puuli a,1.6471,1.1754
+966,N sɛgrɛ la a yɛlɛ ama korɔ yɛ a kyaare ne a banaŋ naŋ na wa bɛlle yɛ zuiŋ.,sara la ayɛ la ama koraa ataare ne Abana nana woabɛlzuny.,0.8421,0.3455
+967,"” Ka o yeli ko a Yeezu, “A yi o biiluŋ saŋ zaa la ka o erɛ a lɛ.",Ka o yɛrekɔyi obisa vaaare,0.8889,0.619
+968,"” Ka a Yeezu da yeli sɔge, “Gbelli pie ne ayi naane be a ŋmenaa saŋ be?",Kae zie yeagbee be aŋaa ŋgbi.,0.9375,0.6667
+969,"Ka fõõ gba na toɔ̃ yi a gbaŋgbaaloŋ poɔ a so fo meŋɛ, e aneɛ kyɛ de a vuo ŋa e ne a lɛ.",Kafo ba na tuhi gbangbampoɔ asofo mene anikyeɛ avuwo ene ale.,0.9583,0.377
+970,"Yɛ ta de ganlɔge, bee woɔ, bee nɔɔteɛ, a kyɛ ta puori neɛzaa a sobiriŋ.",Gata de galɔ bi wɔ Binui atsitrea zaa asobi,0.9333,0.5283
+971,"Serɛzaa, te waa la nensaalba, kyɛ te ba zɔɔrɔ zɔɔre ne nensaaloŋ, bonso, a te zɔɔzɔɔ-boma deɛ ba waa nensaaloŋ zɔɔzɔɔ-boma, kyɛ a taa la Naaŋmen kpeɛ̃õ, a na toɔ̃ sãã gandaare zaa.","Sra to walansa, yɛtoaso zɔ ɖe ne ne nsa ano bonso atesɛ bima deban nsa lo nsoɔma kyɛ talaa monitor zaa.",0.9091,0.5109
+972,"” Ane a ba yeluu ŋa zaa, ba da ba toɔ̃ pigi a noba sori ka ba na ta maale a bagre ko ba.",Ɛne aba yeoabadabatowa pii a noba sori ka ba natama le baare kɔba.,0.7826,0.2459
+973,O da nyɛ la kopɔg-nembaala kaŋ meŋ ka o taa neeneene ayi wa eŋ a kyɔɔtaa daga poɔ.,ɔdane la kopɔn mbaa lakamɔ ka ɔtaa ne ne ne yiwa atɔa poɔ,0.8333,0.3651
+974,A tu la sori ka te yɔɔrɔ te zuyɔɔ korɔ a Naa Siiza bee a ba seŋ?,Ɔteso ka tiyare dzi yɔ kora anasa bia Abasɛm.,0.9412,0.4894
+975,"” A daadaalɛ ka a Yeezu da baŋ ka ba da teɛrɛ la a yɛlɛ ama ba pooreŋ, ka O soore ba, “Bonso ka yɛ taa a teɛrɛ ama taaba?",adaadaa le kaa yesia ka ba akɛlala yɛla ama ba puure ka o sorabo kaa taa a teɛ amɛtaa.,0.7241,0.3563
+976,"Fo na taa la kyelloo ane popeɛloŋ, kyɛ ka noba yaga kyelle a o dɔgebo saŋ, bonso, o na waa la nentegroŋ a Daana zie.",Wɔnaaa tilapia la kyɛ ka noba yaga kyɛ lɛ a dɔsoo on waa la neŋ tegroŋ a daani.,0.72,0.4205
+977,"O naŋ da la kyɛŋ tɔle belaa la ka O nyɛ Zɛbɛdii bidɔbɔ Gyimisi ane o yɔɔ Gyɔɔn, ka ba be ba gbori poɔ a liire ba zonkyogri.",Onana chɛn tɔri bi lala ka o nya Zɛbidii bidɔba ji misi a nuu yoon ka bɛ be ba gbori ko a liri ba zinchili.,0.7143,0.3723
+978,"Banaŋ zaa naŋ taa a teɛretɔroo ŋa a Kirista poɔ maŋ pɛge la bamenne, aŋa O naŋ pɛge yi lɛ.",Banana nanta atertɔrɔŋa akisa poɔ Mampɛabamenɛ aŋa ɔnam pɛli yi la.,0.85,0.3333
+979,N sɔrɔ yɛ la ka yɛ tonɔ korɔ a noba bama taaba ane neɛzaa naŋ laŋ ne ba tonɔ a kyeenɛ wale.,Nsɔre la Ketakor anomaa taba anene zaana la ne ba tena akyi na wole.,0.8636,0.3478
+980,"O naŋ da wa te ta, o da soŋ la a banaŋ a Naaŋmen garaaseɛ naŋ da e ka ba sage de O yɛlɛ yaga zaa, bonso, o da maŋ yeli toɔ̃ la a Gyuumine neŋyaga poɔ.",Ɔnam dɛ watetɛ Odasabanan anaa man garas nan da kaba sare deo yɛla yaga zaa bonso o daa yɛl tuma la Jumia neŋyaga poɔ.,0.7838,0.2844
+981,O da iri la a boma zaa te naŋ nyɛrɛ a yi boma te naŋ ba nyɛrɛ zie.,Ɔde Inia aboma zaa tnanere ayi boma tenaa nyere,0.8889,0.3125
+982,A ensɛnse nyoore ane a nensonne puoruu da yi la a maleke nu poɔ a do a Naaŋmen niŋesogɔ.,nsason ananonann.,1.0,0.7971
+983,Kyɛ yelbieri ba duoro neɛ benee a bege naŋ ba kye.,sɛ yei biara ba duoro ne bene abena akyi.,0.9091,0.3077
+984,"Lɛ la ka a baaraa na ta, a saŋ O naŋ na sãã naaloŋ zaa ane faŋ zaa ane kpeɛ̃õ zaa kyɛ de a naaloŋ ko a Saa Naaŋmen.",Le laka abaana ta Asana Sanaalonzaa ane fan zaa ane piaa kyɛ de anaa look asa na mui.,0.7931,0.2976
+985,Kɔnnoɔ ane kɔŋtuo na toɔ̃ laŋ yire la bulnimi-yeni poɔ be?,Kɔ no ane nkotuo na to la yi la blimpoabɛ.,0.8182,0.4
+986,"Ba da leɛ kuli te manne la a yɛlɛ ko ba taaba na, kyɛ ba da ba sage de a ba yɛlɛ.",Bara leaku ti mani la a yɛaka ba taaba na chɛ ba daba sadia bɛyɛ,0.7273,0.3103
+987,"Aŋa lɛ o naŋ wɔnɔ wɔmɔ kyɛ baara a tendaa zaa poɔ, a lɛ ka o wɔnɔ wɔmɔ a yɛmenne poɔ a yi a daare na yɛ naŋ da woŋ a kyɛ baŋ a Naaŋmen garaaseɛ tɛgɛ ka a ta.",Ana le nawɔ na wɔm kyɛ bara Atenase poɔ alkaone wɔmayɛ mene poɔ ayi Adarean akyɛ ban anaa mungante ka ate.,0.9,0.3621
+988,"” A Yeezu naŋ da wa yeli a ŋaa baare, O da yeli ko ba la, “A te ba Laazoro gbiree la, kyɛ N gɛrɛ la a be ka N te seŋ o.",Aye dzi nanewo yeli aŋaa ate bagere la kyɛ garalaa ka etese,0.875,0.5185
+989,"Lɛ la ka Piita da wa soore O, “Daana, ka a puoruu laŋne neɛ kaŋ wa e ma yelfaa, gbɛre bowola ka N na di suuri ko o?",Lakai dawadawa miawɔla ko.,0.9643,0.759
+990,"O da nyɛ la a kũũ pɛmɛ ka a biŋ a yoŋ zie, ka o leɛ kuli ne nɔmaa ane lɛ a yɛlɛ naŋ e.",danya ku pɛneka ayiri ka one kulina ane lɛ ayea na,0.88,0.4667
+991,"O maŋ zɔɔrɔ la kyɛ duoro o meŋɛ gaŋ kaŋwaa ŋmen bee bonzaa ba naŋ puoro, ka ka o na zeŋ o dakogi zu a Naaŋmen die poɔ kyɛ boɔlɔ o meŋɛ Naaŋmen.",Mansoɔre kyerɛ duroin gakawo anoboa ba nampuro kaawo nasem odaku so anaa mudie poɔ kyɛ bualɔ omena nananmu.,0.9091,0.4495
+992,Azuiŋ temenne ŋmeɛrɛ la nyaa yɛ zuiŋ a Naaŋmen puoruu laŋne yie poore ne a yɛ kpimaroo ane yɛ yeldeebo a saŋ yɛ naŋ da dire dɔgɛɛ ane a woore zaa yɛ naŋ nyɛrɛ.,Zemira na Yesu anaano la ne yipelaa pema aniɛden dadda ne aworaa yɛ nyara.,0.9412,0.592
+993,"N yele la yɛlɛ nensaaloŋ poɔ, a yɛ nensaala bambaaloŋ zuiŋ.",yili la yɛla ninsal anisa la ba baalo zu.,0.9091,0.4255
+994,A e ma la vi ka N yeli ka te maaleŋ waa la bambaalba te zuo a yeli ŋa poɔ!,mele vi ka eyike te maale waala abalati zu yiina.,0.85,0.4074
+995,"Teɛ na zaa naŋ ba wɔnɔ wɔŋ veɛle, ba na kyɛ o la a lɔɔ eŋ vũũ poɔ.","Tina zaana ba wɔn a wɔn viɛle, baatswa.",0.8889,0.5106
+996,"Bonso, ba sɛge la a gansoŋ poɔ: “Yɛ nyɛ, N binne la kuuri Zaayɔn poɔ.",Bonso basaa aganɔ yɛnyabi la wurano.,0.8667,0.46
+997,"Ka a danweɛ soba yeli ko o, ‘N da la weɛ kaŋ, ka a fere ka N gaa te nyɛ.",Kadabini,1.0,0.8571
+998,"Ka a tonnoɔre na naŋ waana ne kũũ wa taa puubu, a tonnoɔre na naŋ waana ne mennoŋ koŋ taa puubu yaga gaŋ a lɛ!",Ka atono na na wanane ku watap bi ato noɔre no na wanane menom kontapobuyaa gan ale.,0.88,0.2976
+999,Azuiŋ N yele la yɛlɛ korɔ yɛ aŋa bibiiri.,Aso nyia la yɛla koroyɛ ana bibiiri.,0.7778,0.3125

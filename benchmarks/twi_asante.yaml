@@ -48,6 +48,46 @@ benchmarks:
       valid: 1000
       avg_seconds_per_sample: 0.02
   source: evaluated
+- model: Qlerqly/griot-edge
+  model_url: https://huggingface.co/Qlerqly/griot-edge
+  owner: Qlerqly
+  model_class: non-llm
+  params: 0.1B
+  wer: 0.3738
+  cer: 0.223
+  score: 0.223
+  per_category:
+    bible:
+      wer: 0.1444
+      cer: 0.066
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.03
+    finance:
+      wer: 0.1626
+      cer: 0.0655
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.02
+    lds:
+      wer: 0.6515
+      cer: 0.4663
+      samples: 1000
+      valid: 999
+      avg_seconds_per_sample: 0.03
+    unicef:
+      wer: 0.6789
+      cer: 0.4229
+      samples: 196
+      valid: 196
+      avg_seconds_per_sample: 0.12
+    waxal:
+      wer: 0.2317
+      cer: 0.0943
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.09
+  source: evaluated
 - model: KhayaAI/khaya-asr-v3
   model_url: https://translation-api.ghananlp.org/
   owner: KhayaAI
@@ -130,47 +170,6 @@ benchmarks:
   source: evaluated
   evaluated_at: '2026-08-14'
   score: 0.3927
-- model: facebook/omniASR-LLM-7B-v2
-  model_url: https://github.com/facebookresearch/omnilingual-asr
-  owner: facebook
-  model_class: llm
-  params: 7B
-  wer: 0.7193
-  cer: 0.4003
-  per_category:
-    bible:
-      wer: 0.3575
-      cer: 0.1428
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.52
-    finance:
-      wer: 0.7779
-      cer: 0.3138
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.19
-    lds:
-      wer: 1.4051
-      cer: 1.0182
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.37
-    unicef:
-      wer: 0.6528
-      cer: 0.378
-      samples: 196
-      valid: 194
-      avg_seconds_per_sample: 1.36
-      failures:
-        audio_too_long (> 39s): 2
-    waxal:
-      wer: 0.403
-      cer: 0.1487
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.78
-  source: evaluated
 - model: FarmerlineML/w2v-bert-2.0_twi_alpha_v1
   model_url: https://huggingface.co/FarmerlineML/w2v-bert-2.0_twi_alpha_v1
   owner: FarmerlineML
@@ -413,45 +412,6 @@ benchmarks:
       valid: 1000
       avg_seconds_per_sample: 0.75
   source: evaluated
-- model: google/gemini-3.6-flash
-  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.6-flash
-  owner: google
-  model_class: llm
-  params: API
-  wer: 0.8447
-  cer: 0.5031
-  per_category:
-    bible:
-      wer: 0.6241
-      cer: 0.3216
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.95
-    finance:
-      wer: 0.7561
-      cer: 0.368
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.53
-    lds:
-      wer: 1.5012
-      cer: 1.0657
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.68
-    unicef:
-      wer: 0.7673
-      cer: 0.4847
-      samples: 196
-      valid: 196
-      avg_seconds_per_sample: 1.11
-    waxal:
-      wer: 0.5747
-      cer: 0.2756
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.96
-  source: evaluated
 - model: waxal-benchmarking/whisper-small-waxal-aka
   model_url: https://huggingface.co/waxal-benchmarking/whisper-small-waxal-aka
   owner: waxal-benchmarking
@@ -493,52 +453,6 @@ benchmarks:
       avg_seconds_per_sample: 0.65
   source: evaluated
   evaluated_at: '2026-08-14'
-- model: google/gemini-3.5-transcribe
-  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
-  owner: google
-  model_class: llm
-  params: API
-  language_code_hint: twi
-  wer: 0.941
-  cer: 0.5424
-  per_category:
-    bible:
-      wer: 0.6874
-      cer: 0.3289
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.17
-    finance:
-      wer: 0.7718
-      cer: 0.325
-      samples: 1000
-      valid: 998
-      avg_seconds_per_sample: 0.19
-      failures:
-        TypeError: 8
-    lds:
-      wer: 1.6893
-      cer: 1.2161
-      samples: 1000
-      valid: 995
-      avg_seconds_per_sample: 0.21
-      failures:
-        TypeError: 20
-    unicef:
-      wer: 0.8209
-      cer: 0.4967
-      samples: 196
-      valid: 195
-      avg_seconds_per_sample: 0.17
-      failures:
-        TypeError: 4
-    waxal:
-      wer: 0.7356
-      cer: 0.3454
-      samples: 1000
-      valid: 1000
-      avg_seconds_per_sample: 0.15
-  source: evaluated
 - model: katrintomanek/whisper-large-v3-turbo_Akan_standardspeech_specaugment
   model_url: https://huggingface.co/katrintomanek/whisper-large-v3-turbo_Akan_standardspeech_specaugment
   owner: katrintomanek
@@ -706,4 +620,130 @@ benchmarks:
       valid: 970
       avg_seconds_per_sample: 3.42
       no_answer: 30
+  source: evaluated
+- model: facebook/omniASR-LLM-7B-v2
+  model_url: https://github.com/facebookresearch/omnilingual-asr
+  owner: facebook
+  model_class: llm
+  params: 7B
+  wer: 0.7193
+  cer: 0.4003
+  per_category:
+    bible:
+      wer: 0.3575
+      cer: 0.1428
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.52
+    finance:
+      wer: 0.7779
+      cer: 0.3138
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.19
+    lds:
+      wer: 1.4051
+      cer: 1.0182
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.37
+    unicef:
+      wer: 0.6528
+      cer: 0.378
+      samples: 196
+      valid: 194
+      avg_seconds_per_sample: 1.36
+      failures:
+        audio_too_long (> 39s): 2
+    waxal:
+      wer: 0.403
+      cer: 0.1487
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.78
+  source: evaluated
+- model: google/gemini-3.6-flash
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.6-flash
+  owner: google
+  model_class: llm
+  params: API
+  wer: 0.8447
+  cer: 0.5031
+  per_category:
+    bible:
+      wer: 0.6241
+      cer: 0.3216
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.95
+    finance:
+      wer: 0.7561
+      cer: 0.368
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.53
+    lds:
+      wer: 1.5012
+      cer: 1.0657
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.68
+    unicef:
+      wer: 0.7673
+      cer: 0.4847
+      samples: 196
+      valid: 196
+      avg_seconds_per_sample: 1.11
+    waxal:
+      wer: 0.5747
+      cer: 0.2756
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.96
+  source: evaluated
+- model: google/gemini-3.5-transcribe
+  model_url: https://ai.google.dev/gemini-api/docs/models#gemini-3.5-transcribe
+  owner: google
+  model_class: llm
+  params: API
+  language_code_hint: twi
+  wer: 0.941
+  cer: 0.5424
+  per_category:
+    bible:
+      wer: 0.6874
+      cer: 0.3289
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.17
+    finance:
+      wer: 0.7718
+      cer: 0.325
+      samples: 1000
+      valid: 998
+      avg_seconds_per_sample: 0.19
+      failures:
+        TypeError: 8
+    lds:
+      wer: 1.6893
+      cer: 1.2161
+      samples: 1000
+      valid: 995
+      avg_seconds_per_sample: 0.21
+      failures:
+        TypeError: 20
+    unicef:
+      wer: 0.8209
+      cer: 0.4967
+      samples: 196
+      valid: 195
+      avg_seconds_per_sample: 0.17
+      failures:
+        TypeError: 4
+    waxal:
+      wer: 0.7356
+      cer: 0.3454
+      samples: 1000
+      valid: 1000
+      avg_seconds_per_sample: 0.15
   source: evaluated

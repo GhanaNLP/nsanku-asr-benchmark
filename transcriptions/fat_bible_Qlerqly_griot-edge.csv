@@ -1,0 +1,1001 @@
+sample_id,reference,hypothesis,wer,cer
+0,"Obiara n’enyi nnyɛ dzen dɛ ɔbɔbɔ no nkenyan; Na sɛ dɛm a, woana koraa nye nyia obotum emi m’enyim gyina?",Obiara n'enyi nnyɛ dzen dɛ ɔbɔbɔ no nkenyan; na Sadam a wɔn akoraa nye nyia obotum emi nyiya.,0.3,0.125
+1,"Nyew, ebɛyɛ dɛ nyia ɔda epo finimfin.",O ebɛyɛ dɛ nea ɔda po fimfini,0.5714,0.3448
+2,"Na obisaa hɔn dɛ, Afotu bɛn na hom dze ma, ma yɛdze mbuae aasan akɛma ɔman yi a wɔaka akyerɛ me, dɛ, Yɛ kɔndua a w’egya dze too hɛn do no harhar no?","Na ɔbisaa wɔn dɛ, Afotu bɛn na hom dze ma, ma yɛdze mbuae asan aka ma ɔman yi a wɔaka akyerɛ dɛ, yɛ kondua wogya dze too hɛn do no hahan.",0.3333,0.1091
+3,"Na aka kakrabaabi na ebufuhyew no abɔ adze, na n’ebufuw adan ayɛ hɔn sɛɛe.","na aka kebab, mebufuhyɛwn abɔdze na n'ebufuw adan ayɛ hɔn sɛɛe.",0.4286,0.1897
+4,Judamba afamu dze no mu na Simeonmba egyapadze fi: osiandɛ Judamba kyɛpɛn no dɔɔ so dodow ma hɔn: dɛm ntsi Simeonmba nyaa egyapadze wɔ hɔn egyapadze no mu.,"Juda bafom dzi no mu na Simeon egyapadze fi: osiandɛ Judamba ɛpɛn no dɔɔso dodo ma hɔn, dɛ minsisii bɛnya egyapadze wɔ hɔn egyapadze no.",0.4643,0.176
+5,Aso wɔbɛka w’adɔyɛ akyerɛ wɔ adakamona mu?,Aso ɔba ka w'adɔeɛ akyerɛ wɔ adaka mu mu.,0.7143,0.1765
+6,Obobu Bɛt-semes a ɔwɔ Egypt asaase do no n’edum no; na ɔdze gya ahyew Egypt abosom efi no nyina.,"Obobu betsemes saa ɔwyaaasedono ne dum no, na ɔdze gya ahyew Egypt abosom efi ne nyinaa,",0.5263,0.1486
+7,"Ɔsor so sosɔɔw wɔ Nyankopɔn enyim: Sinai noara mpo wosoow wɔ Nyankopɔn, Israel Nyankopɔn no enyim.","Ɔsoro so susɔ wɔ Nyankopɔn anim, Sinai noara mpo wɔ so wɔ Nyankopɔn, Israel nyankopɔn ni.",0.4375,0.175
+8,"Nna Solomon kaa dɛ, EWURADZE ase dɛ, ɔbɛtsena sum kebii mu.","Na Salomo kaa dɛ, EWURADZE ase dɛ, ɔbɛtsena sum kebii mu.",0.1818,0.0652
+9,Na Netania ba Ismael nye mbarimba baawɔtwe fii Karea nsa kɔr Ammonmba no nkyɛn.,Na Natan ba Ismael nye mbarimba baawɔtwe fii Karea nsa hɔ amamba no nkyɛn.,0.2143,0.1231
+10,"Dɛm ntsi afei, meserɛ wo, bra, ma memma wo akwankyerɛ, ma edze agye wankasa woho nkwa, na wo ba Solomon nkwa.","Dɛm ntafi me srɛ wo, bra, ma memma wo akwankyerɛ, ma Edzidze wankasa woho nkwa, na wobɛsom kwa.",0.4286,0.1687
+11,"Na sɛ eka hɛn asɛm yi kyerɛ a, ɔnodze, yennkedzi so wɔ wo ntam a ama yɛaka yi ho.","Na sɛ kaa na asɛm yi kyerɛ a, ɔnodze, yennkedzi so wɔ wɔn ntam a ama yɛaka yi ho.",0.1579,0.1
+12,Mpo ber a Elnatan na Delaia na Gemaria totɔe serɛɛ ɔhen no dɛ nkyɛ mma ɔnnhyew nwoma mbobɔwee no: oenntsie hɔn.,"Mpo ber a Erenatan, ne Dalia na Gemaria totɔe sɛ ɔhen no dɛ, nkyɛma ɔhyew momma mbobowano nti hɔn.",0.5238,0.2472
+13,"Na Josua sanee, na Israel nyinara ka no ho, baa nseraban no mu wɔ Gilgal.","Na Josua sanee, na Israel nyinara ka no ho, baa nsraban no mu wɔ Gilgal.",0.0667,0.0179
+14,"bɛnantsew hɔn bosom dzin mu nkorkor, na hɛn dze.","bɛnantsew hɔn bosom dzin mu nkorkor, na hɛn dze",0.0,0.0
+15,Kyɛfa a otsia esuon no bae maa Danmba ebusuakuw dɛ mbrɛ hɔn ebusua ebusua tsetsee.,EO 7danmbaEbusua kuw dabrɛ wɔn ebusuasantse.,1.0,0.4925
+16,"Na ɔyɛɛ mbeambea sorɔnsorɔm do adan, na ɔhyɛɛ ɔman no mu binom a wommfi Levimba mu no asɔfo.","Na ɔyɛɛ mbeambea sorɔnsorɔm do adan, na ɔhyɛɛ ɔman no mu binom a wommfi Levimba mu no asɔfo.",0.0,0.0
+17,"Hom ntow ndwom mma Nyankopɔn, hom ntow ayɛyindwom mma ne dzin: Hom mbɔ ɔtsempɔn kwan mma nyia ɔtse adze do nam sar do no; Ne dzin nye EWURADZE; na hom ndzi n’enyim ehurusi.","Hom to nwoma Nyankopɔn ho too ayendwom,meno dzen,hombɔ ɔtsempɔn kwan mma nyia ɔtse adze do nam sar do no, ne dzin nye EWURADZE, na hom dze ne nyim ehurusi.",0.4242,0.1343
+18,"Nyia ɔbɛtsena kurow yi mu no, obowu afona, na ɔkɔm, na ɔyardɔm ano: na nyia obefir edzi na ɔakɔtɔ Kaldeafo a woetwa hom ho mu no, ɔbɛtsena ase, na no nkwa bɛyɛ afonam ama no.","Nyɛ a ɔbɛsa kuro yi mu no, obowu afona, na ɔkɔm, na ɔyardɔm ano: na nyia obefir edzi w'akɔtɔ kadiafo a wɔka honhom no, ɔbɛtsena ase, na ne nkwa bɛyɛ afonam ama no.",0.3429,0.1278
+19,Nyankopɔn ne tsenabea nyɛ hɛndze no.,nkɔneba nyɛ handan,0.8333,0.5333
+20,"Na ɔsee dɛ, Dɛ mbrɛ hom nsɛm yi tse no ara, wɔmma ɔnyɛ hɔ.","Na ɔsee dɛ, Dɛ mbrɛ hom nsɛm yi tse ara wɔ mɔnyɛ.",0.2857,0.1429
+21,"Nna Jeremia kasaa kyerɛɛ mbapɔmba nyinara na ɔman no nyinara, dɛ, EWURADZE na ɔsomaa me dɛ membɛhyɛ asɛm a hom atse yi nyina ho nkɔm ntsia ofi yi na kurow yi.","Na Jeremia kasaa kyerɛɛ mapaa nyinara na ɔman no nyinara dɛ, EWURADZE na ɔsoro me dɛ no no mehyɛ asɛm a hom atse nyinaa ho nkɔm ntsia ɔfirii ne kuro yi.",0.3871,0.176
+22,"Mbrɛ gyata a ɔropɔw, na osisi a origyam tse no.",bɛgyaa a orupun ɔsisa ɔregyam si no.,0.8,0.3889
+23,"Ana adze yi mo wura ɔhen na ɔyɛe, na annda no edzi annkyerɛ wo nkowaa nyia ɔbɛtsena mo wura ɔhen n’ahengua do wɔ n’ekyir a?","Ana adze yi mura ɔhen na ɔyɛe, na ana no edzi ankyerɛ wo nkoa nyia ɔbɛtsena mura ɔhen nahingu do wɔ w'ekyir.",0.4,0.1368
+24,"Asodzi afɔr sika, na bɔn ho afɔr sika no dze, wɔammfa ammba Ewuradzefie: ɔyɛ asɔfo no dze.",Asodzi afɔrisika na bɔn ho afɔrisika no dze wɔamfa amma EWURADZE fie: ɔyɛ asɔfo no dze,0.4706,0.0571
+25,"Na Elija see no dɛ, Mma nnsuro; kɔ kɛyɛ dɛ mbrɛ ase no: mbom dzi kan yɛ bi tatar kakra ma me, na fa brɛ me, na n’ekyir no ayɛ ɔwo na wo ba dze.","Na Elija see dɛ, mensuro kɔkaa dɛ mbrɛ ase, mbom dzi kan bi tata kakrama na fa brɛm na n'ekyir no ayɛ ɔwo na wo ba dze.",0.3714,0.1569
+26,"Na Silonfo mu; abakan Asaia, na ne mba.","Na Silonfo mu; abakan Asaia, na ne mba.",0.0,0.0
+27,Kyɛfa a otsia esia no bae maa Naftalimba no dɛ mbrɛ hɔn ebusua ebusua tsetsee.,SEFA Otis no bae maa Naftalimba no dɛ mbrɛ hɔn ebusua busua tsetsee.,0.3333,0.1587
+28,Levifo nkurow a ɔwɔ Israelmba hɔn enyadze mu nyinara yɛ nkurow eduanan awɔtwe nye no ho mfikyisaase.,Levifo nkurow a ɔwɔ Israelmba hɔn egyapadze mu nyinara yɛ nkurow eduanan awɔtwe nye no ho mfikyisaase.,0.0588,0.0361
+29,"Na ɔbaa dɛ adze kyee no, Pasur tuu Jeremia fii dua mu.","Na ɔbaa dɛ adze kyee no, Pasur tuu Jeria hwee duam",0.3333,0.1707
+30,"Nna Jeremia see no dɛ, EWURADZE mmfrɛɛ wo dzin Pasur, na mbom Magor-misabib.","Nadziria see no dɛ, EWURADZE mfiri wo dzin pa so, na momma goes bem.",0.6154,0.3167
+31,na ɔahyɛ dɛ ɔmbra.,na wɔahyɛ dɛ ɔmbra.,0.25,0.0714
+32,Ana ɔwo ibotum edze ntampehoma ahyɛ no hwen mu?,Ana ɔwo ebotu me edze ntampehoma ahyɛ no hen mu,0.3333,0.0789
+33,"Na asɛm a osian ntsi ma ɔmaa ne nsa do tsiaa ɔhen no nye yi: Solomon sii Millo, na osisiiw n’egya David kurow ho etokur.","Na asɛm a osian tima ɔma ne nsa bi tia ɔhene nyiyi Salomo sii Milo, na osisii n'egya David kurow ho etokur",0.48,0.1522
+34,"Mma hom nnsuro Babilɔnhen a hom suro no no; mma hom nnsuro no, EWURADZE na ɔse: na mowɔ hom nkyɛn dɛ mebɛgye hom nkwa, na meyi hom efi ne nsamu.","Ma hom soro Babilɔnhen a hom sunon ma hom suro EWURADZE na ɔse, na mowɔ hom nkyɛn dɛ mebɛgye hom nkwa, na meyi hom efi ne nsam",0.3,0.1182
+35,"Na wɔkɔree, na wɔkɔr ɔbaa huhunyi bi a ne dzin dze Rahab ne fie, na wɔkɔsoɛɛ hɔ.","Na wɔkɔree, na wɔkɔr ɔbaa ohonyi bi a ne dzin dze Rahab ne fie, na wɔkɔsoɛɛ hɔ",0.0588,0.0492
+36,Na nyimpa akakaben mboanofo no rohwehwɛ mo nkwa.,"Na nyimpa akakaben ban fo no, na hwehwɛ ma nkwa.",0.625,0.15
+37,"Na ɔdze kor kesii Bɛtɛl, na ɔdze kor so kesii Dan.","Na ɔdze kor kesii Bɛtɛl, na ɔdze kor so kesii Dan.",0.0,0.0
+38,Iyi nye Judamba ebusuakuw no hɔn egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,yinyidzudamba ebusuakuw no hɔn egyapadze dɛ mbrɛ hɔn ebusua busua tsetsee.,0.3077,0.0781
+39,Na wowiee asaase no mu kyɛ.,Na wɔwiee asase no but,0.6667,0.2857
+40,"Na aber a odur ɔhen n’enyim no, ɔbɔɔ no mu adze dze n’enyim boom famu wɔ ɔhen n’enyim.","Na aber a odur ɔhen n'enyim no, ɔbɔɔ no mu adze dze n'enyim boom famu wɔ hen ni.",0.1111,0.0781
+41,Mbrɛ Jehu sii sɛɛ Baal fii Israel nye no.,Mbrɛ hu sii sɛ Baal fii Israel nyina.,0.4444,0.1562
+42,"Ebɛka dɛ, Wɔabɔbɔ me, na annka me; Wɔabor me, naaso manntse: Ebɛn aber na mibenyan?","Ebɛka dɛ, wɔabobɔ me, na anka me waboro me, naaso manntse: Ebɛn aber na mebɛnya no.",0.3333,0.1111
+43,"Yɛ hɔn etsitsir dɛ Oreb na Zeeb; Nyew, hɔn mbapɔmba nyinara dɛ Zeba na Zalmunna: Hɔn a wɔsee dɛ, Hom mma yɛmfa.","Yɛn hunti sɛ dɛ Oreb na dzi yiwowɔ bapɔmba nyinara dɛ diba na damu na hɔn a wɔsee dɛ, Hom nyam",0.5455,0.3294
+44,na woetsiw hɔn dɛ mbepɔw do ntsɛw wɔ mframa mu.,na wesi hɔn dɛ mbepɔw do ntsɛw wɔ mframa mu.,0.1,0.0811
+45,"Na ɔbaa dɛ, nsɛm yi ekyir no, ɔbaa ofiwura no ne babanyin yaree; na ne yarba no mu yɛɛ dzen dodoodow, ma ahom biara annka no mu.","Na ɔbaa dɛ, nsɛm yi akyiri no, ɔbaa ofiwura no ne babanyin yaree; na ne yɛbɛnom yɛɛ dzen dodow do, ma ahom biara anka no mu.",0.2593,0.0928
+46,"Na ɔsee dɛ, Tase egyen menaba no: na ɔtasee.","Na ɔsee dɛ, Tase egyen menaba na ɔtasee",0.1111,0.0606
+47,"Ɔwo, Nyankopɔn, maa nyankom tɔɔ berdzedzeedze.",Ɔwo Nyankopɔn anyɛnko tɔ berdzedze,0.6667,0.2368
+48,"Ne nda nyinara mu no woemmfi EWURADZE, hɔn egyanom Nyankopɔn no, n’ekyir dzi no ho emmfir.","ne nda nyinara mu no womfi EWURADZE, hɔn egyanom Nyankopɔn n'ekyir dzi no ho mfi.",0.1875,0.0986
+49,Na ɔdze etsifi mbasu nye anaafo mbasu no maa no.,na ɔdze etsifi mbasu nye anaafo mbasu no maa o.,0.1,0.0263
+50,Na owungyam bi nnyi hɔn wu mu: Na mbom hɔn ahoɔdzen wɔ hɔ pintsinn.,"Na ɔngye bi nnyi hɔn wɔ mu, na mbom hɔn ahoɔdzen wɔ hɔ pintinn",0.2143,0.1346
+51,Woana na osiesie akonkoran n’edziban ma no.,Wɔn a na osiesie akronkron n'edziban ma no.,0.4286,0.1429
+52,Ana ɔwo na eyɛ ha nya afonam ma gyataber.,Ana ɔwo na eyɛ ha nya afonam ma gyataber.,0.0,0.0
+53,"Mber no mu no, Siriahen Hazael sii mu kɔree, na ɔnye Gat kɔkoe, na ɔfae: na Hazael dze sii n’enyi do dɛ ɔrokɔfow akɔ Jerusalɛm.","Mbon mu Siriahen Hazael sii mu kɔree, na ɔnye Gat kɔkoe, na ɔfae: na Hazel de sii n'enyi do dɛ ɔrokɔfow akɔ Jerusalɛm.",0.2,0.0722
+54,Na ma w’ebufuhyew no a ɔwɔ hɛn do no mbɔ adze.,na mawu hye wo no a ɔwɔ hen don mmade.,0.7273,0.2941
+55,na ahendzi wɔ Damaskɔs; na Siria nkaa bɛyɛ dɛ.,"na ahendzi wɔ de masks, na Siria nkaa bɛyɛ dɛ.",0.2222,0.0556
+56,"Na wɔbɔtotɔ mfuwa wɔ asaase yi a hom ka wɔ ho dɛ, Ɔyɛ amamfo, nyimpa anaa abowa nnyi do; wɔdze ahyɛ Kaldeafo nsa no mu.","Na wɔbɔtotɔ mfuwa wɔ asaase a hom ka ho dɛ, Ɔyɛ amamfo, nyimpa anaa aboɔ nnyi do; wɔdze ahyɛ adiafoɔ nsan mu.",0.24,0.1209
+57,"Iyi nye Gadmba no hɔn egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow no nye no nkurobaase.","Eye nye Gadmba no hɔn egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow no nye no nkurobaase.",0.0588,0.026
+58,"Ɔno na yennkefi wo nkyɛn akɔ ekyir: Ma yennya nkwa, na yɛbɔbɔ wo dzin.","Ɔno na yefi wo nkyɛn apekyir,manyi nyankwan yɛbɔbɔ wodze.",0.6429,0.2222
+59,"Na Josua dze n’enyim butuuw famu, na ɔsɔɔr no, na ɔsee no dɛ, Na mo wura ese n’akowaa dɛn?","Na Jesua dze n'enyim butuuw famu, na ɔsɔr no, na ɔsee no dɛ, na mura Esinakɔadɛn.",0.3684,0.1212
+60,Mbrɛ aboɔdzembo kotoku a ɔhyɛ abo ntamu tse no.,Mbrɛ abɔdze kotokua ɔhyɛ abo ntamu tse no.,0.3333,0.1053
+61,"Emumuyɛfo guan wɔ aber a nyimpa biara nntaa hɔn do: Na atseneneefo dze, wɔyɛ ndam dɛ ogyata.","Emuyɛfo guan wɔ aber a nyimpa biara ntam hɔn do, na atseneneefo dze, wɔyɛ ndam dɛ ogyata.",0.1176,0.0548
+62,dɛ abaa a ɔhwee wo no ebu ntsi: na ɔwɔ no ndwow mu na ɔkyerben befir aba.,"de aba a ɔhwɛ wo no ebu ntsi: na wɔne ndwom, na ɔkyere ben befi aba.",0.5882,0.1818
+63,Mbrɛ ɔmansotwenyi sɔ aperper mu ogya ara nye no.,Mbrɛ ɔmansotwenyi sɔ apapem Aran.,0.6667,0.3077
+64,Ana ɔwo ibotum akyekyer Aberwa na mba no n’ahoma.,na ɔwo ibotum akyekyer Aberwa na mba no n'ahoma.,0.1111,0.0256
+65,"Na ɔatsen ne nsa, na woana na ɔbɔpon mu?","Na watene nsa, na woana na ɔbɔpon mu.",0.2222,0.1
+66,Na dɛtse atɔw atɔw no abɔ mu afemfam ho no?,Na date atɔwatɔw no abɔ mu afemfam ho no.,0.3,0.0606
+67,"Nna wɔdze ntampehoma no twee Jeremia baa sor, na woyii no fii mona efiadze no mu: na Jeremia tsenaa aweɔmfo abangua no mu.","Na wɔdze ntampe ma no twee garia baa sor, na woyii no fii mona efiadze no mu, na Jeremia tsenaa anwemfo abangua no mu.",0.2174,0.0928
+68,Ma munhu w’awerdzi wɔ hɔn do; na ɔwo na maka m’asɛm akyerɛ wo.,na mo ho anawedze wɔ hɔn do: na ɔwo na maka m'asɛm akyerɛ wo,0.3077,0.1739
+69,"Na wɔkɔree kodur bepɔw no do, na wɔtsenaa hɔ ndaansa, kodur dɛ etsiwfo no sanee: na etsiwfo no hwehwɛɛ hɔn wɔ kwan no mu nyina, na woennhu hɔn.","Na wɔkɔree kodur bepɔw no do, na wɔtsenaa hɔ ndaansa, kodur dɛ etsiwfo no sanee: na etsiwfo no hwehwɛɛ hɔn wɔ kwan no mu nyinaa na wɔnhunu.",0.1071,0.0631
+70,"Na Safan ba Ahikam ne nsa wɔ Jeremia afa, dɛ mma wonnyi no nnhyɛ ɔman no nsa mma wonnku no.","Na Safan ba ayɛ kam, nensa wɔ Jeremia afa, dɛ mma wonyin nhyɛ ɔman no nsa ma wonko",0.45,0.1286
+71,ma aabɔsom me; na sɛ iyi dza ɔsom bo fi dza ɔyɛ huhuw no mu a.,Na abosome dza ɔsom bo fi dza ɔyɛ huhuw no mu a.,0.3125,0.2444
+72,"Na Hadad nyaa enyimnyam kɛse wɔ Farao enyim, ma ɔdze nankasa ne yer no nua, ɔhembaa Tafenes no nua, maa no ayewar.","Na Hadad nyaa enyimnyam kɛse wɔ Farao enyim, ma ɔdze nankasa ne yernom na ɔhen ba Tafenes no nua, maa no ayewar.",0.1818,0.0449
+73,"Dɛ mbrɛ mframa bɔ wusiw kɔ no, dɛmara so na bɔ hɔn kɔ: Dɛ mbrɛ ihua nan wɔ gya enyim no.","Dan mbrɛ nframa bɔ wosokwano, dɛmaso na bɔhene kɔ de brɛ yi hunan wɔgyenimno",0.8095,0.2769
+74,"Anantwisaa kuw no, ɔnye aman anantwimba no enyim.","Ɛno nti saa kuo no, ɔnye aman ne nti manim.",0.875,0.3
+75,"Na ɔsoɛree, na ɔnye no sianee kɔr ɔhen no nkyɛn.","Na ɔsɔree, na ɔnye no sanee kɔr ɔhen no nkyɛn",0.2,0.0811
+76,"Na ɔwo, mo wura ɔhen, na Israel nyinara enyi da wo do dɛ ebɛkyerɛ hɔn nyia ɔbɛtsena w’ahengua do wɔ w’ekyir.",Na ɔwo Nurohenna Israelnyi enyi da wo do dɛ ebɛtse hɔn nyia ɔbɛtsena w'ahengua do wɔ w'ekyir.,0.3333,0.1566
+77,Nna Asiriahen no dze enyimguase sanee kɔr nankasa n’asaase do.,Nna Asiriahen no dze enyimguase sanee kɔr nankasa n'asaase do.,0.0,0.0
+78,Ɔtse dɛ obi a osuo bɔdɔm n’asowa mu.,Ɔtse dɛ obi a wosɔ bɔdɔm n'asomu.,0.375,0.1852
+79,"Na Elija faa abofra no na ɔdze no fi pia no mu sianee baa ɔdan no mu, na ɔdze no maa ne na: na Elija see dɛ, Hwɛ, wo ba enya nkwa.","Na Elija faa abofra no, na ɔdze no fi pia no mu sanee baa ɔdan no mu, na ɔdze no maa ne na, na Elija see dɛ, Hwɛ, wo ba nyankwa.",0.0938,0.0213
+80,"Mbrɛ EWURADZE se nye yi: Sɛ hom ayeyɛ petsepetsee, na hom dɔɔ so mpo a.","Mbrɛ EWURADZE se nye sɛ hom ayeyɛ petsepetsee, na hom dɔɔso mpo a.",0.2,0.037
+81,Na ɔtsenaa ahemfo ahengua no do.,na wɔtsena ahemfo ahengua no o.,0.3333,0.1154
+82,"Galim babaa, ma wo ndze do tsea mu!","Galim babaa, ma wɔdze do siam",0.5,0.1923
+83,Nyia medze sar pradada no ayɛ ne fi.,Nyia medze sar fra dada no ayɛ ne fi.,0.25,0.0357
+84,na hɔn a mehiahia hɔn ho no; na mebɛma osiifo no ayɛ nkaase.,Na hɔn a mehiahia hɔn hɔn na mebɛma osiifo no ayɛ nkaase.,0.1538,0.0435
+85,"Na Joas yɛɛ dza ɔtsen wɔ EWURADZE enyiwa do, wɔ ne nda a ɔsɔfo Jehoiada kyerɛkyerɛɛ no wɔ mu nyinara.","Ne Joas yɛ dza tsen wɔ EWURADZE enyiwa do, wɔ ne nda a ɔsɔfo Jehoiada kyerɛkyerɛɛ no wɔ mu no nyinaa.",0.25,0.075
+86,"Na ɔbaa dɛ, nsɛm yi ekyir no, ɔbaa ofiwura no ne babanyin yaree; na ne yarba no mu yɛɛ dzen dodoodow, ma ahom biara annka no mu.","Na ɔbaa dɛ, nsɛm yi akyiri no, ɔbaa ofiwura no ne babanyin yaree; na ne yɛbɛnom yɛɛ dzen dodow do, ma ahom biara anka no mu.",0.2593,0.0928
+87,"Na ɔronnhwɛ afɔrmbukyia, ne nsaano edwuma no, eso n’enyi ronnsɔ dza ne nsatseaba ayɛ, Aserim, anaadɛ ewia ehonyi no.","Na ɔrehwɛ afram kyia, nsaano edwuma no, nsuo n'enyi rensɔ dzaa nsatseaba ayɛ asarum anaadɛ ewia ehonyi n",0.4737,0.1957
+88,Sen nyimpa beesuon a wotum kyerɛkyerɛ asɛm ase.,Sen nyimpa besua wo tum kyɛkyɛ asɛm ase.,0.5,0.1795
+89,Elkosnyi Nahum n’enyido adzehu nwoma a ɔfa Ninive atsɛmbu ho.,Elkosini nahum n'enyi daadze ho womaa ɔfa ne nvi atsɛmbu ho.,0.7,0.16
+90,"EWURADZE, ɔwo adom w’asaase: Ɔwo edze Jakob egyapadze asan aba.","EWURADZE, ɔwo adom w'asaase: Ɔwo Is Jakob egyapadze asan aba.",0.1,0.08
+91,na medwuruw w’aban dzendzen nyina: na mubotwitwa wo mbɔnsansɛm efi wo nsamu; na innkenya sebramufo bio: na mubotwitwa ehonyi.,"Na meduruu w'aban dzendzen nyina: na mubotwitwa wo mbɔnsansɛm efi wo nsamu, na nkanya sebramufo bio: na mubotwitwa ehuyi.",0.1579,0.0686
+92,Emi dze memmpɛɛ ntsɛm minngyaae dɛ meyɛ oguanhwɛfo dzi w’ekyir: eso memmpɛɛ mbusu da no.,"Ema mempɛ ntsɛm mengyae dɛ meyɛ oguantwɛfo dze wɔkyire me mpeemu da no,",0.6667,0.2817
+93,"Nna ɔhen tse awɔwber dan no mu, wɔ bosoom a otsia akron no mu: na mbukyia mu ogya a ɔredzɛw taa n’enyim.","Na ɔhene no te awɔberɛ dan no mu, wɔ bosom a otsia akron no mu, na mkyemu ogya a ɔredzɛw taa no nyi.",0.4545,0.1772
+94,Ɔwoara nko nye Ɔsorsornyi wɔ asaase nyinara do.,woara nko yi ɔsor yi wɔ asaase nyinara do.,0.5,0.1795
+95,"Nna ɔdze ntampee duaa tokura mu gogoow hɔn sisii famu: osiandɛ ne dan no si kurow no ho fasu no do, na fasu no do na ɔtse.","Nna ɔdze ntampee duaa tokura mu gugu hɔn sisii famu: osiandɛ ne dan no si kurow no ho fasu no do, na fasu no do na ɔtse.",0.037,0.043
+96,Aso nyia ɔyɛ nyiyiano no ɔnye Otumfo no bɛham?,Aso nyia ɔyɛ nyiyiano no ɔnye Otumfo no bɛham.,0.0,0.0
+97,Na Omri ne ba Ahab yɛɛ dza omuo wɔ EWURADZE enyim seen hɔn a wodzii n’enyim nyinara.,"Na Omri ne ba Ahab yɛɛ dza ɔmɔ wɔ EWURADZE enyim, sen hɔn a wodzi n'nyina",0.2941,0.1818
+98,"Hwɛ, ogya fi sor sianee bɛhyeew nkan no eduonum do asafohemfo beenu no nye hɔn eduonum eduonum no: na afei ma mo nkwa nsom bo wɔ w’enyi do.","""gas nammonkwan bo wɔ wonye.",0.9286,0.8148
+99,"Na Aser ebusuakuw mu dze, Misal, Abdon; Helkat nye Rehob nye hɔn ho mfikyisaase, nkurow anan.","Na Aser ebusuakuw mu dze, Misal, Abdon, Helkat nye Rehob nye hɔn ho mfikyisaase; nkurow anan.",0.0,0.0
+100,Mbrɛ ɔkwadwefo so da ne mpa do ara nye no.,Mbrɛ ɔkwadwefo so da ne mpa do ara no.,0.1,0.0938
+101,"Fa hɛn san si yie, ao hɛn nkwagye Nyankopɔn.",Fa hen sinseee a hen wɔ yenyankopɔn.,0.8889,0.3235
+102,"Na iyi ntsi mibehiahia David n’asefo ho, na nnyɛ daa nyina.","Na Iyintimebɛhiahia David n'asefo ho, na nnyɛ daa nyina.",0.2727,0.0652
+103,"Nna ɔhen Joas kɛfrɛɛ ɔsɔfo Jehoiada, na asɔfo nkaa no, na obisaa hɔn dɛ, Ɔyɛ dɛn ntsi na hom mmpempaam ofi no n’agow no yi?","Nna ɔhen Joas kɛfrɛɛ ɔsɔfo Jehoiada, na asɔfo nkaa no, na obisaa hɔn dɛ, ɔyɛ dɛn ntsi na hom mpempam ofi no n'agow yi?",0.08,0.0426
+104,"Nyia ɔkata ne mbrato do no, ɔnnkɛyɛ prɔmprɔm: Na obiara a ɔka to gua na ɔpow no, obenya ehumbɔbɔr.","Nyia ɔkata ne mbrato do no, nka yɛ prɔmprɔm, na obiara a ɔka to gua na ɔpow no, obenya ahumbɔn.",0.1579,0.0921
+105,"Na Neria ba Baruk yɛɛ dɛ dza nkɔnhyɛnyi Jeremia hyɛɛ no no nyina, na ɔkenkaan EWURADZE nsɛm no a ɔwɔ nwoma no mu no wɔ EWURADZE fie.","Na Neria baaro Yezer nkɔnhyɛnyi hyɛɛ no no nyina, na ɔkenkaan EWURADZE nsɛm no na ɔwɔ woman no mu no, wɔ EWURADZE fie.",0.2963,0.1923
+106,Ana woeyi wu no mbobotsen no akyerɛ wo?,Ana woeyi wu no bubu tsen no atserɛw o.,0.5,0.1613
+107,"Ɔhen dze atsɛmbu ma asaase gyina: Na nyia odzi mboaba no, obutuw no.","Ɔhen dze atsɛmbu ma asaase gyina: Na nyia odzi mboaba no, wobotwa no",0.0769,0.0755
+108,Ana akɛhɛn esukwankyɛba no korabea.,Ana akahe esukwankyɛba no korabea.,0.2,0.1
+109,Na wɔbɛkaa asɛm yi kyerɛɛ ɔhen no.,Na wɔbɛkaa asɛm yi kyerɛɛ ɔhen no.,0.0,0.0
+110,na etsetsɛw mu enyame ananaben: mpo sɛ wo ntsɛwee da no ara mu ema ofifir.,na ɛte sɛ wo mu enyame ananaben impo sɛ wonsa weeduo da no ara ma ma ofie.,0.6,0.2586
+111,"Ɔno dze honam abasa na ɔnye no wɔ hɔ; na hɛn dze, hɛn EWURADZE Nyankopɔn na ɔnye hɔn wɔ hɔ dɛ ɔbɔboa hɛn, na ɔaako hɛn ko ama hɛn.","Ɔno dze, hɔn abasa na ɔnye no wɔ hɔ, na hen dze nye EWURADZE Nyankopɔn na ɔnye hɔn wɔ hɔ dɛ ɔbɔboa hɛn, na w'akɔha ko ama hɛn.",0.1724,0.1224
+112,Mbrɛ enyidzi so mmfata ɔkwasea ara nye no.,Mbrɛ enyidzi so mmfata ɔkwasea ara nye no.,0.0,0.0
+113,Nna mbapɔmba na ɔman no nyina kaa kyerɛɛ asɔfo na nkɔnhyɛfo no dɛ: Ɔbarimba yi nnsɛ wu; osiandɛ EWURADZE hɛn Nyankopɔn dzin mu na ɔakasa akyerɛ hɛn.,"Na mmapɔmma ne ɔman no nyinaa ka kyerɛ asɔfo no na nkwanyɛfo no dɛ, ɔbarima yi nsa owu osiane EWURADZE hene a kopɔn dzi no mu na wɔakakyerɛ hen.",0.7407,0.2353
+114,"Mbrɛ EWURADZE se nye yi, Wɔdze kurow yi bɛhyɛ Babilɔnhen no dɔm nsa ara ampa, na wɔagye.","Mbrɛ EWURADZE se yi, Wɔdze kurow bi bɛhyɛ Babilɔnhen no dɔm nsa ara ampa, na wɔagye.",0.1176,0.058
+115,Nokwar befi asaase mu efir; Na tsenenee efi sor ahwɛ famu.,Nokwar befi asaase mu efir; na tenenee afiri soro ahwɛfo mu.,0.4545,0.1304
+116,"Na EWURADZE maa ɔtamfo bi soɛree tsiaa Solomon, Edomnyi Hadad a ofi ɔhen n’asefo mu wɔ Edom no a.","Na EWURADZE maa ɔtamfo bi sɔre tia Solomon, Edomnyi Hadad a ofi ɔhen n'asefo mu wɔ Edom no a",0.1053,0.0658
+117,Ebɛn asɛm na wɔdze bobua amanaman asomafo no?,Ebaasa odzibobua amanaman asomafo no.,0.625,0.2162
+118,"Na asafohen no bo fuuw Jeremia, na wɔhwee no, na wɔdze no kɔtoo efiadze wɔ ɔkyerɛwfo Jonatan fie; nna hɔ na wɔdze ayɛ efiadze.","Na asafohen bu fuw Jeremia, na wɔhwee no, na wɔdze no kɔtoo efiadze wɔ ɔkyerɛwfo Jonatan fie, na hɔ na wɔdze ayɛ efiadze.",0.1667,0.0505
+119,Dɛ gyama abaa bi him nyia ɔma do no do.,Dɛ gyama abaa bi him nyia ɔma do no do.,0.0,0.0
+120,"dɛ gyatafɔr wɔ nguan ekuwekuw mu: ɔno a sɛ ɔhɛn mu a, otsiatsia do.",dɛ gyatafɔr wɔ nguan ekuwekuw mu: ɔno a sɛ ɔhen no mu a otsiatsia do.,0.1429,0.0588
+121,"Naaso Hezekia brɛɛ noho adze wɔ n’akoma ne ntsɛn no ho, ɔno na Jerusalɛm atsefo nyinara, ma dɛm ntsi EWURADZE n’ebufuw no ammba hɔn do wɔ Hezekia ne nda no mu.","Na aso edze kia brɛɛ noho adze wɔ n'akoma ne ntsɛn no ho, ɔno na Jerusalɛm atsefo nyinara, ma dɛm ntsi EWURADZE n'ebufuw no ammba hɔn do wɔ ediki ne nda no mu",0.1613,0.0484
+122,"Hwɛ, aber a ɔwo nye ɔhen da ho rekasa wɔ hɔ no, mo so mibedzi w’ekyir maba, na mabɛhyɛ wo nsɛm no ma.","yabra ɔwo nye ɔhen da ho rekasa wɔ hɔn mosom mebei maba, na mabɛhyɛ wo nsɛm no ma.",0.3913,0.1892
+123,Ɔbabanyin na ɔdɔba kor ma me na na m’egya no.,Ɔbabanyin na ɔdɔba kor ma me na na m'egya no.,0.0,0.0
+124,"Ao Nyankopɔn kyerɛ w’ahoɔdzen: Kyerɛ wo tum, Ao Nyankopɔn, dza edze agye hɛn no.","Ao Nyankopɔn kyerɛ w'ahoɔdzen: Kyerɛ wo tum, anyankopɔn dza edze agye hɛn no.",0.1429,0.0161
+125,Nna wogyaa dɛ wɔnye no kasa; osiandɛ woennhu asɛm no.,Na wɔgyaa dɛ wɔn kasa; osiandɛ woehu asɛm.,0.6,0.2381
+126,Afei Ahija no nkɔdaayɛ ntsi n’enyiwa ayɛ kusukusu na onnhu adze.,"Afei Ayidan kɔdae nti, nenyiwa ayɛ kusukusu na onhu ade.",0.5455,0.1923
+127,"Na Hilkia buae see ɔkyerɛwfo Safan dɛ, Mehu mbra nwoma no wɔ EWURADZE fie.","Na Hilkia buae see ɔkyerɛwfo no Safan dɛ, Mehu mbra nwoma no wɔ EWURADZE fie.",0.0714,0.0339
+128,"Na boka afamu he nye Nkyen Po no, mekyerɛ ɔdze kodu Jordan ewiei.",Na boka famu he nye nkyɛn pono mekyerɛ odzikodu Jordan ewiei.,0.4615,0.0784
+129,Tappua asaase no yɛ Manaasɛ dze: na Tappua a ɔwɔ Manaasɛ he do no dze ɔyɛ Efraimmba no dze.,Tapua asaase no yɛ Manase de; na tapua ɔwɔ Manasee do no dze ɔyɛ Efraimmba no de.,0.4211,0.1408
+130,"Wotwa mu wɔ Nyinsu bɔnsa no mu a wɔdan no bea a mbasu wɔ; Nyew, adɔwnsu dze nhyira kata do.","Wotwa ɔnyisu banson mu a, wɔde ne bea a mbasu wɔ nyɛ wo ado nso dze nhyira kata do.",0.55,0.2174
+131,Na wɔnkyɛ mu kyɛpɛn esuon: Juda ntsena ne he do wɔ kwaamu afamu.,"Na wɔntetɛpɛnesu no, Juda ntsena ne he do wɔ kwaamu afamu",0.3077,0.18
+132,"Naaso wo nda mu dze merennyɛ, osian w’egya David ntsi: na mbom mebɛtsew efi wo ba nsamu.","Naaso wo nda mu dze merennyɛ, osian w'egya David ntsi: na mbom mebɛtsew efi wo bɛnsɛm",0.1176,0.0441
+133,"Nyia ɔtwer nankasa n’akoma no, ɔkwasea a: Na obiara a ɔnantsew nyansa mu no dze, wɔbɛgye no nkwa.","Nyia ɔtwer nankasa n'akoma no, ɔkwasea na obiara a ɔnantsew nyansa mu no dze, ɔbɛgye no nkɔ",0.1667,0.0533
+134,Nyia ɔsoɛr anapahema dze ndze kɛse hyira ne nyɛnko no.,Nyia ɔsɔr anapahema dze ndze kɛse hyɛ ne nyɛnko no.,0.2,0.1136
+135,Aso wɔbɛka w’adɔyɛ akyerɛ wɔ adakamona mu?,Aso ɔba ka w'adɔeɛ akyerɛ wɔ adaka mu mu.,0.7143,0.1765
+136,Na ofi hɔ fowee kɔr Debir a nkan no na ne dzin nye Kiriat-Sefer no do.,Na ofi hɔ fowee kɔr Debir nkaa no na n'edzinye Kiriat Sefer no do,0.375,0.0566
+137,"Hwɛ, menye wo enya, ɔwo a etse bɔnsa mu e.","Hwɛ, me yiwo nya wɔ esibɔnsamuy.",0.9,0.3
+138,"Nna Jeremia see Zedekia dɛ, Aso mepaa mu ka kyerɛ wo a, ana nnyɛ oku ara na woboku me bi?","Ne demia se Yedekia dɛ, Aso mepem ka kyerɛ wo a, ana nyɛ oku ara na woboku bi.",0.4,0.1791
+139,"Dɛm ntsi afei hom nyiyi Israel ebusuakuw ebusuakuw mu mbanyin duebien, ebusuakuw biara mu nyimpa baako.","Dɛm ntsi afei hom nyiyi Israel ebusuakuw ebusuakuw mu mbanyin duebien, ebusuakuw biara mu nyimpa baako.",0.0,0.0
+140,"Afei, me Nyankopɔn, meserɛ wo, bue w’enyiwa, na kyɛn w’aso wɔ mpaabɔ a wɔbɔ wɔ ha yi do.","Afei, me nyankopɔn, me srɛ wo, bue wonyiwa na kyɛn w'aso wɔ mpaabɔ a wɔbɔ wɔ ha yi do.",0.1667,0.0312
+141,"Otwitwa nankasa ne nan, na ɔnom mbusu.","Otwitwa nankasa ne nan, na ɔnom musu.",0.1429,0.0333
+142,Ana ɔnam w’anosɛm do na ɔkɔrpɔn ma noho do.,Ana ɔnam w'anosɛm do na ɔkɔrpɔn ma noho do.,0.0,0.0
+143,"Na Solomon kɔr ne nsamankyir, na wosiee no wɔ n’egya David kurow mu: na ne ba Rehoboam dzii hen wɔ n’ananmu.","Na Salomo kɔɔ ne nsamankyir, na wosiee no wɔ nagya Dawid kuro mu; na ne ba Rehoboam dzii hen wɔ nanem.",0.2857,0.1084
+144,"Na medze m’enyi mibesi hɔn do wɔ yie ntsi, na medze hɔn aba asaase yi do bio: na medze hɔn mibesisi hɔ, na murunndwuruw hɔn; na mebɛtsɛw hɔn, na murunntutu hɔn.","Na medze m'enyi mbesi hɔn do wɔ yie ntsi, na medze hɔn aba asaase do bio, na medze hɔn me bɛsisi hɔ, na morenwie hɔn, na mebɛtsɛw hɔn, na moretu hɔn.",0.1935,0.1545
+145,Dadze sew dadze ano; Dɛmara so na nyimpa sew ne nyɛnko enyim.,Dade sew dadze ano; dɛm aso na nyimpa sew ne nyanko enyim.,0.3333,0.0833
+146,"Na mobɔsoma afona, na ɔkɔm, na ɔyardɔm wɔ hɔn mu, ma ekesi dɛ wɔbɛsa koraa wɔ asaase a medze maa hɔn na hɔn egyanom no do.","Mo wɔbɔsoa afona na ɔkɔm na ɔyardɔm wɔ hɔn mu, ma akɛse dɛ wɔbɛsa koraa asaase a medze m'ankwan na hɔn egyanom no do.",0.2308,0.1505
+147,"Afei Zimri no ho nsɛm nkaa no na no nkontompɔ a otwae no, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn Mbermunsɛm nwoma no mu?","Afei Zimri no ho nsɛm nkaa no, na no nkontompɔ a otwae no, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn mber mu nsɛm no ma no mu.",0.2083,0.0104
+148,"Na ɔhwɛɛ ahemfo no nyinara do dze fi Esutsen no ho araa dze kodur Filistiafo asaase do, na Egypt ahe do.","Na ɔhwɛɛ ahemfo no nyinara do dze fi Esutsen no ho ara dze kodur Filistiafo asaase do, na Egypt ahe do.",0.0476,0.0122
+149,EWURADZE tse ase yi; nna amanaman bɛyɛ esiarfo wɔ no mu.,"AWURADE saase, na amanaman bɛyɛ esiarfo wɔ no mu.",0.4545,0.1591
+150,"Dɔm ahemfo guanguan, woguanguan: Na nyia ɔtse fie na ɔkyɛ asadze mu.",Dɔm ahemfo benguan wɔgugu na nyia ɔtse fie na ɔkyɛ asadze mu.,0.1667,0.1481
+151,Ama wo mbɔdɔm tɛkyerɛma eenya ne kyɛpɛn wɔ w’atamfo ho.,Amewo bɔdɔm tetea nya ne tsipɛn wɔ w'atamfo ho.,0.6,0.2955
+152,Ntsi migyaa hɔn ma wodzii hɔn akomadzen ekyir.,"nsi megyaahɔn, a wodzii hɔn akomadzen ekyir.",0.5,0.0789
+153,"Na ɔsee dɛ, Bue boka afamu tokura no: na obuei.","Na ɔsee dɛ, Bue boka afamu tokura no: na ɔbuee",0.1,0.0571
+154,"Na sɛ hom ayɛ dɛ nsoɛ kantankantan, na hom afɔw takaa wɔ hom nsanom mu mpo a.","Na Sahome a yɛda nsɔeɛ kantankantan, na hom afɔw takaa wɔ hom nsanom mu mpo a",0.2941,0.0847
+155,"Aber a obui faa do, dɛ gyama ofi yafun mu rupue no; Aber a medze mununkum yɛɛ n’akataho.","Aber a obui faa do, dɛ gyama ofi yafun mu rupue no, aber a medze mununkum yɛɛ n'akataho.",0.0,0.0
+156,Aso emumuyɛ akoradze wɔ emumuyɛ fi no mu.,Aso emumuyɛ akoradze wɔ emumuyɛ fi no mu.,0.0,0.0
+157,"Na Reubenmba no hɔn he nye Jordan, nye ne he.",Na Ruben ba no hɔn hianyi Jordan nine.,0.7,0.2647
+158,"Na, hwɛ, mber a ɔda ho nye ɔhen no rekasa no, nkɔnhyɛnyi Natan bae.","Na hwɛ, mber a ɔda ho nye ɔhen no rekasa no, nkɔnhyia etan baa",0.2143,0.12
+159,Afei hwɛ esuson a meyɛɛ no kaa wo ho no; Odzi efuw dɛ nantwi.,Afei hwɛ esuson a meyɛɛ no kaa wo ho odzi efuw dɛ nantwi.,0.0714,0.0435
+160,"Israelhen Joahaz ne ba Jehoas n’afe a otsia ebien no mu nna Amazia, Judahen Joas ne ba no, hyɛɛ ase dzii hen.","Israelhen Joahaz ne ba Jehoas n'afe otsia ebien no mu na Amazia, Judahen Joas ne ba no hyɛ asadze.",0.2727,0.0952
+161,"Na ɔyɛɛ ɔtamfo maa Israel wɔ Solomon ne nda nyinara mu, na ɔno so tseetsee hɔn dɛ mbrɛ Hadad yɛe no: na okyiir Israel, na odzii Siria do hen.","Na ɔyɛɛ ɔtamfo maa Israel wɔ Solomon ne nda nyinara mu, na ɔno so tseetsee hɔn dɛ mbrɛ Hadad yɛe no, na ɔkyiri Israel, na odzii Siria do hen.",0.0345,0.0275
+162,"Dɛm ntsi afei mma hom nngyegye sika wɔ hom amanyimfo hɔ bio, na hom nyi mma ma wɔmfa mpempam ofi no n’agow no.","Dɛm ntsi afei mma ho gyegye sika wɔ hom amanyimfo hɔ bio, na hom nyi mma ma wɔmfa mpempam ofi n'agow no.",0.1304,0.0588
+163,Hom mper ngye abɔbɔfo na ehiafo: Hom nhwim hɔn mfi nyimpa bɔn no nsamu.,Hom mper nti abɔbɔfo ne ehiafo: Hom fim hɔn fi nyimpa bɔn nsam.,0.4286,0.1964
+164,Dɛmara so na abɔbɔfo do ɔhen tsirmɔdzennyi tse.,Na ma so na abɔbɔfo do ɔnyɛ emɔdzi nyi.,0.625,0.3846
+165,"Na ɔyɛɛ dza ɔtsen wɔ EWURADZE n’enyiwa do, na ɔnantseew n’egya David n’akwan do, na ɔanndan ammfa nkyɛn annkɔ enyimfa anaa abankum.","Na ɔyɛɛ dza ɔtsen wɔ EWURADZE n'enyiwa do, na nantsew n'egya David n'akwan do, na wadan amfa nkyɛn ankɔ enyimfa anaa abankum.",0.1818,0.0673
+166,Mbrɛ Jeremia tsenaa aweɔmfo abangua no mu nye no.,"Mbrɛ yama tsena anwomfoɔ abangua no mu yi no,",0.4444,0.275
+167,na ɔdze n’abasa bubu mbɛtsem no; ɔbɛyɛ dɛ aber a obi ridzi mbɛtsem mpɛpɛw.,Na ɔdze n'abasa bubu mbɛtsem no; ɔbɛyɛ dɛ aber a obi ridzi mbɛtsem mpɛpɛw o,0.0714,0.0172
+168,Ana ofitsi dɛ wo nda hyɛɛ ase yi ahyɛ anapa do pɛn.,Ana ofitsi dɛ wo nda hyɛɛ ase yi ahyɛ anapa do pɛn.,0.0,0.0
+169,"Na Hadad nyaa enyimnyam kɛse wɔ Farao enyim, ma ɔdze nankasa ne yer no nua, ɔhembaa Tafenes no nua, maa no ayewar.","Na Hadad nyaa enyimnyam kɛse wɔ Farao enyim, ma ɔdze nankasa ne yernom na ɔhen ba Tafenes no nua, maa no ayewar.",0.1818,0.0449
+170,"Ngyanka hɔn egya, na ekunafo hɔn sɛndzifo.","Danka hɔn egya, na ekunafo hɔn sende fo",0.4286,0.1765
+171,Asɔfo No Hyɛ Hɔn Dwumadzi Ase.,Asɔfo hyɛɛ hɔn dwumadzi ase.,0.3333,0.125
+172,na Memfis banodzifo adwen efura mu; na hɔn a wɔyɛ no mbusuakuw kutuwdo bo no.,"Na menhwebano dzefoadwen efura,na hɔn a wɔayɛ no mu fiko kutuwdo bo no",0.6,0.2295
+173,"Ebɛka dɛ, Wɔabɔbɔ me, na annka me; Wɔabor me, naaso manntse: Ebɛn aber na mibenyan?","Ebɛka dɛ, wɔabobɔ me, na anka me waboro me, naaso manntse: Ebɛn aber na mebɛnya no.",0.3333,0.1111
+174,Obu mpɔtsibaa dɛ mburonan: Ɔserew nkambaa no huuyɛ.,Obu mpɔtsibaa ɖe mburonan ɔsoro nkambaa no huuyɛ.,0.25,0.119
+175,"Nyew, dɛ mbrɛ gyata no pɔw, na gyata bɔyafo ne ndze.",O nedze.,1.0,0.8462
+176,"Afei nna ɔhen David ayɛ akɔdaa a oedzi mfe pii; ɔwɔ mu dɛ wɔdze atam kataa no do, naaso no ho annyɛ no hyew.","Afei nna ɔhen David ayɛ akɔdaa a oedzi mfe pii; ɔwɔ mu dɛ wɔdze atam kataa no do, naaso no ho anyɛ no yɛ.",0.0833,0.0488
+177,"Enyena sa a, ogya dum: Na bɔtomkɛka nnyi hɔ a, mansotwe gyaa.","Nnyina sa a, ogya dum: Na bɔtomkɛka nnyi hɔ a ma sowegyaa.",0.25,0.087
+178,"Na Ahija tae suoo atar fofor a ɔhyɛ no no mu, na ɔtsetseew mu esinesin duebien.","Na Ahiya ta so atafoforɔ a ɔhye no mu, na ɔtsetseew mu esinesin duebien.",0.4375,0.1452
+179,"Da no mu ɔtsempɔn kwan bɛda hɔ fi Egypt akɔ Asiria, na Asirianyi aba Egypt, na Egyptnyi akɔ Asiria; na Egyptfo nye Asiriafo abɔ mu asom.","Dan mu atsempɔn kwan bɛda hɔ fi Egypt akɔ Asiria, na asireyiaba Egypt, na Egyptnyi akɔ Asiria; na gyefo yi Asiriafo abɔ mu asom.",0.2692,0.0935
+180,"Me bepɔw a ewɔ wiramu, medze w’ahodze na w’akoradze nyina bɛma ma wɔaafom afa, na wo nsorɔnsorɔmbea no, wɔ bɔn ntsi, wɔ w’ahe nyinara do.","Me bepɔ a ɛwɔ wiramu, mese w'ahodze na w'akoradze nyina bɛma me wɔafom afa na wɔsonsom bean wo bɔne nti, wahina do.",0.56,0.219
+181,Kaansa enyitan dze ndaadaa kata noho mpo a.,Kansa enyitan dze ndaadaa kata noho mpo a.,0.125,0.0286
+182,"Ɔtwerɛw bɔnsa mu, na odzi ehurusi wɔ n’ahoɔdzen mu: Opue kehyia akofo a woemia.","Ɔtwerɛɛ bɔ nsamu na ɔdze ehurusi wɔ n'ahoɔdzen mu, ɔpue kehyia akofa a woemia.",0.4286,0.0806
+183,"EWURADZE na ɔse; hom a hom ka dɛ, Woana botum esian aba hɛn do?","EWURADZE na ɔse; hom a hom ka dɛ, wɔn botum esian aba ne do.",0.1429,0.1277
+184,Anaadɛ nyia ɔda hɛn mu frankadua etsifi.,Ana ɖe nyia ɔda hɛn mu frankadua etsifi.,0.2857,0.0909
+185,dɛ mbrɛ ɔsabokwafo tɔ ntentan wɔ ne fe mu.,Dɛn brɛ ɔsabokwafo tɔ tenten wɔ ne fi mu.,0.4444,0.1212
+186,"Na ɔsee Israelhen no dɛ, Fa wo nsa to egyen no do: na ɔdze ne nsa too do.","Na ɔsee Israelhen no dɛ, Fa wo nsa to Egyano do, na ɔdze ne nsa too do.",0.1111,0.0377
+187,"Na ɔbaa dɛ, aber a wowiee ɔman no nyinara twatsia twitwa no, wɔtsenatsenaa hɔn ananmu wɔ nseraban no mu ma wɔtsee apɔw ana.","Na ɔbaa dɛ, aber a wowiee ɔman no nyinara twatsia twitwa no, wɔtsenatsenaa hɔn ane mu wɔ nsraban no mu maa wɔtsee apɔw ana.",0.1739,0.0408
+188,"Makasa prɛko, na murummbua; Nyew, mprɛnu, na moronnkɔ kan bio.","Makasa prɛko, na moremmua nyew, mprenu, na moronnkɔ kan bio.",0.2,0.0833
+189,"Wo mboanofo tsenaa mu: Ɔwo, Nyankopɔn, na isiesiee abɔbɔfo wɔ w’ayamuyie mu.","Wo buano fo sinema Nyankopɔn, na isiesiee abɔbɔfo wɔ way my mu.",0.5,0.2333
+190,"Na Juda mbapɔmba tsee ndzɛmba yinom no, wofii ahemfie fowee baa EWURADZE fie ɔponkɛse fofor no ano.",Na Juda bapɔmba tsee ndzemomwɔhwi ahemfie fofoe baa EWURADZE fie ɔponkɛse fofor no ano.,0.3529,0.1728
+191,"Judahen Asa n’afe a otsia eduasa biako no mu na Omri hyɛɛ ase dzii hen wɔ Israel do, na odzii hen mfe duebien: mfe esia na ɔdze dzii hen wɔ Tirza.","Judahen Asa n'awa otsia eduasa biako no mu na Omri hyɛɛ ase dzii hen wɔ Israel do, na odzii nye mfi duebien mfeɛ sia na ɔdze dzii hen wɔ Sela.",0.2258,0.0982
+192,"Nna Farao see no dɛ, Na ebɛnadze na ehia no wɔ me nkyɛn, ma erohwehwɛ dɛ ekɔ wankasa wo man mu yi?","Na Farao se no dɛ, Na ebɛnadze na ehia no wɔ me nkyɛn, ma Erehwehwɛ dɛ ekɔ wankasa wo man mu yi.",0.1364,0.0405
+193,"Nna wɔfaa Jeremia, na wɔkotoow no kyeen ɔhenba Malkia mona efiadze a ɔwɔ aweɔmfo abanguado no mu: na wɔdze ntampehoma gyaagyaa Jeremia siaan mu.","Na wɔfaa Jeremia, wokɔtoo kyɛn ɔhen ba Malkia mona efiadze a ɔwɔ anwemfo abanguado no mu: na wɔdze ntampehoma gyegye german sene mu",0.4167,0.2034
+194,"Wɔse dɛ, Hom mbra ma yenkruw hɔn ase ma wongyaa dɛ wɔbɛyɛ ɔman; Ama wɔnnkɛkaa Israel dzin bio.","Wɔse dɛ, Hom bra me nye nku wɔn ase, mawunya a dɛ wɔbɛyɛ ɔman; ama wɔn nkaka Israel dzi bio.",0.5556,0.1351
+195,"Na ɔfowee kɔr ne nkyɛn: na, hwɛ, ɔtse koko no n’etsifi.","Na ɔfowee kɔr ne nkyɛn, na hwɛ, ɔtse koko no etsifi.",0.0909,0.025
+196,"Na wobuaa dɛ, Ahazia no nuanom nye hɛn: na yerisian akɔ ekekyiakyia ɔhen ne mba, na ɔhembaa ne mba no.","Na wɔbua aɖe, Ahazia no nuanom nye hɛn: na Yerusan akɔ ekekyiakyia ɔhen ne mba, na ɔhembaa ne mma",0.25,0.1013
+197,"Afei nna Josua ayɛ akɔdaa na oedzi mfe ara yie; na EWURADZE see no dɛ, Ayɛ akɔdaa na edzi mfe ara yie, na asaase a aka so dɛ wɔkɛfa no dɔɔ so dodow.","Afei na Josua ayɛ akwadaa na woedzi mfe arege na EWURADZE see no dɛ, Ayɛ akɔdaa na edzi mfe are yie, na asaase a aka so dɛ wɔkɛfa no dɔɔso dodo.",0.2727,0.0804
+198,"Nna Jeremia see no dɛ, EWURADZE mmfrɛɛ wo dzin Pasur, na mbom Magor-misabib.","Nadziria see no dɛ, EWURADZE mfiri wo dzin pa so, na momma goes bem.",0.6154,0.3167
+199,"Na Sallum, a ofi Kore, Ebiasaf, na Kora asefo no mu, na no nuanom a wofi n’egya fie.","Na Salum a ofi Kore, Ebiasaf, na Kora asefo no mu, na no nuanom a wofi n'egya fie.",0.0556,0.0164
+200,"bɛba dɔm EWURADZE ne dzin tsenabea, bepɔw Zion no do.","bɛba dɔm EWURADZE ne dzin sa bea, bepɔw dzin no do.",0.3,0.119
+201,Ana ɔnam w’anosɛm do na ɔkɔrpɔn ma noho do.,Ana ɔnam w'anosɛm do na ɔkɔrpɔn ma noho do.,0.0,0.0
+202,"Hɔn a wɔdan wo gya nyina enyi bɔto; hɔn a wofi wo nkyɛn kɔ no, wɔbɛkyerɛw hɔn edzin aka asaase ase mba ho.",Hɔn a wɔdan wo gya nyina enyi bɔto; hɔn a wɔhwɛ nkyɛn kwan bɛkyerɛ wɔn edzin aka asaase ba ho.,0.3478,0.1728
+203,"Na Adonija n’aponto asefo no nyinara suroi, na wɔsoɛrsoɛree na nyimpa biara faa no kwan kɔree.","Na Adonodnpontu asefo no nyinara suroi, na wɔsɔ sɔree na nyimpa biara faa no kwan kɔree.",0.25,0.1316
+204,Hom nka nkyerɛ amanaman dɛ wɔreba; hom mma wɔntse no Jerusalɛm.,Hom nka nkyerɛɛ amanaman dɛ wɔreba; hom mma wɔntse Jerusalɛm.,0.1818,0.0588
+205,"sɛ wosi frankaa wɔ mbepɔw do a, hom nhwɛ; na sɛ wɔbɔ akasamu mu a, hom ntsie.","Sɛ wosi frankaa wɔ mepa do a, hom hwɛ, na sɛ wobɔ atesɛm a hom si",0.3529,0.2456
+206,"Na eso mbrɛ ɔhen no see nye yi, Nhyira nka EWURADZE, Israel Nyankopɔn no a ɔama obi atsena m’ahengua do ndɛ da yi, ma mara m’enyiwa ehu.","Na eso mbrɛ ɔhen no see nye nhyira nka EWURADZE Israel Nyankopɔn no a wɔama obi atsena mangɔ do ndɛ da yi, mamama yi wehu",0.2593,0.1154
+207,"Na Kohatmba nkaa no nam tontotwe do nyae fii Efraim, Dan, nye Manaasɛ ebusuakuw fa no mu nkurow du.","Na Kohat mma, nkaa no nam tontotwe do nyae fii Efraim, Dan, nye manase ebusuakuw fa no mu nkurow du.",0.1579,0.0385
+208,Iyi nye Benjaminmba no egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,Enyi benyamin ban egyapadze ɖe mbrɛ hɔn ebusua ebusua tsetsee:,0.4545,0.1607
+209,Na ɔkaa Israelmba mu ebusuakuw esuon a wonnyae nnkyɛɛ hɔn egyapadze.,Na ɔkaa Israelmba mu ebusuakuw esuon a wɔnyane nkyɛ hɔn egyapadze.,0.1818,0.0877
+210,"Afei Solomon n’edwuma nyinara wosiesiei maa da a wɔtoow EWURADZE ne dan no ne fapem, na okodur dɛ wowiei.","Afei Solomon dwuma nyinara wɔ siesiea da a wɔtoow EWURADZE ne dan no ne fapem, na ɔkɔduru dɛ wowiei.",0.2105,0.1071
+211,"dɛmara so na wobotwitwa hom egu, na hom etwa mu akɔ.",Dɛmara so na mubotwitwa ho egu na hom etwa m'akɔ.,0.3636,0.1
+212,"Na ɔbaa dɛ nkorɔfo nyina a wɔwɔ Ismael nkyɛn no hun Karea ba Johanan, na dɔm asafohemfo nyina a wɔka no ho no, hɔn enyi gyee.","Na ɔbaa dɛ nkurɔfo nyinaa wɔwɔ Ismael nkyɛn no hun tereba Johanan, na dɔm asafohemfo nyina a wɔka no hɔn hɔn yiye.",0.3462,0.1031
+213,"Na wɔkɔree, na wɔkɔr ɔbaa huhunyi bi a ne dzin dze Rahab ne fie, na wɔkɔsoɛɛ hɔ.","Na wɔkɔree, na wɔkɔr ɔbaa ohonyi bi a ne dzin dze Rahab ne fie, na wɔkɔsoɛɛ hɔ",0.0588,0.0492
+214,na ɔmaa ahendzi hihimii no nye yi; nyia ɔmaa wiadze yi yɛɛ dɛ sar.,na ɔmaa ahendzi hihimii na nyinyinyi ɔma wiadze yi dɛ sar,0.4286,0.1569
+215,nye w’ayeforber mu dɔ no ma wo; mbrɛ idzii m’ekyir wɔ sar no do.,"Nyini w'ayeforber mu dɔ na ma wo, mbrɛ esramekyir wɔ sar do.",0.3571,0.234
+216,"Wɔdze ogya ahyew no, woetwa ato famu: W’enyim nkaenyim ntsi wɔasɛɛ.",Wodzi gya ahwonwoetwa atofoɔ nyinyanyim tse w'asɛ,1.0,0.3585
+217,"Na aber a Seba ɔhembaa no tsee Solomon ne nka wɔ EWURADZE ne dzin ho no, ɔbaa dɛ ɔdze nsɛmbisa dzendzen robɔsɔ no ahwɛ.",Na berɛ a Sebo hem ba no tsee Solomon ne nka wɔ EWURADZE ne dzin ho ɔbaa dɔdesɛm is dzendzen robɔsɔ no ahwɛ.,0.3333,0.1277
+218,"Na wɔdze afona anomu kunkum hɔn; na brampafo na asafohemfo no totoow hɔn gui, na wosii mu kɔr Baal fie kurow no mu.","Na wɔdze afona anomu kunkum hɔn; na brampafo na asafohemfo no totoow hɔn gui, na wosii mu kɔr Baal fie kurow no mu.",0.0,0.0
+219,"Naaso ɔpoow nkɔdaa no hɔn afotu a wɔdze maa no no, na ɔnye mberantsɛ a wɔnye no nyinii a afei wɔabɛyɛ n’apamfo no no dwenee.","Nanso ɔpoo nkwadaa no hɔn afotu a wɔdze maa no no, na ɔnye mberantsɛ a wɔn no nyinii a afei wɔabɛyɛ n'apamfo no no twetwe",0.2,0.0928
+220,Ɔwo edze hɛn yɛ aperdzi ma hɛn asɔnmufo: Na hɛn atamfo sereserew wɔ hɔnara hɔn mu.,"Ɔwo dzeha ayɛ atiridii mehen asomfo, na hɛn atamfo saso wɔ hen a hɔn mu.",0.625,0.3385
+221,anaadɛ poma bɛma nyia ɔnnyɛ dua no no do.,Anaa de poma bɛbanya ɔnye dua no do.,0.6667,0.2188
+222,Na asɛm yi maa wɔyɛɛ bɔn: osiandɛ ɔman no kɔree kɔsoom hɔn wɔ Bɛtɛl araa dze kɔr Dan.,Na asɛm yi maa wɔyɛɛ bɔn osiandɛ ɔman no kɔree kɔsoom hɔn wɔ Betel Arad kɔr Dan.,0.1667,0.0758
+223,"Obeyi wo wɔ ahohia esia mu; Nyew, dza otsia esuon no mu mpo mbusu bi rennka wo.","Ɔbɛyi wo wɔ ahohia esia mu; nyew, za otsie so no mu mpo mbusu bi renka wo.",0.2941,0.1167
+224,Na Josua twee ho tonto maa hɔn wɔ Siloh wɔ EWURADZE enyim: na hɔ na Josua kyɛɛ asaase no maa Israelmba no dɛ mbrɛ hɔn nkyekyɛmu tsetsee.,"Na Josua twee ho tonto maa hɔn wɔ silo wɔ EWURADZE enyim, na hɔ na Josua kyɛɛ asaase no maa Israelmba no dɛ mbrɛ hɔn nkyekyɛmu tsetsee.",0.037,0.0093
+225,"Nna Atalia tsetseew ne ntar mu, na ɔkekaa mu dɛ, Etuatsew o, iyi yɛ etuatsew.","Na Talitetsew ne ntar mu, na ɔkekaa mu dɛ, Etuatsew Iyi yɛ etuatsew.",0.2667,0.1017
+226,Woana na ɔwɔ enyiwa a ayɛ kɔɔ?,wɔn a na ɔwɔ enyiwa a ayɛ kɔɔ.,0.2857,0.087
+227,Mo honam na m’akoma repa: Na Nyankopɔn nye m’akoma n’ahoɔdzen na me kyɛpɛn daa.,"Mohunam na makoa pa, nankoɔ no nyi m'akoma n'ahoɔdzen na me kyɛpɛn daa.",0.5,0.1639
+228,"Na mobɔsɔ gya wɔ Egypt abosom efi mu, na ɔbɛhyew hɔn, na ɔasoa hɔn akɔ ndɔmmum: na ɔdze Egypt asaase bofura dɛ mbrɛ oguanhwɛfo dze n’atar hyɛ; na ofi hɔ befir edzi asomdwee mu.","Na mobɔsɔ gya wɔ Egypt abosom efi mu, na ɔbɛhyɛ hɔn, na wɔahyɛ wɔn akɔ ndom no, na ɔdze gye asaase bofura dɛ mbrɛ oguanhwɛfo dze n'atar hyɛ; na ofi hɔ befir edzi asomdwoeɛ no",0.2353,0.1314
+229,"Na EWURADZE n’asɛm baa ne nkyɛn dɛ, Fi ha fir, na kɔ boka afamu, na fa woho kosuma ɔwora Kerit a ɔwɔ Jordan enyim no ho.","Na EWURADZE n'asɛm baa ne nkyɛn dɛ, Fi ha fir, na kɔbɔ kaa fam, na fa wo nkosuma ɔwora Kerit a ɔwɔ Jordan enyim no ho.",0.1923,0.0444
+230,NWOMA A OTSIA EBIASA.,Woma otse ebaasa ndwom eduasa.,1.25,0.8824
+231,Aso nyia ɔyɛ nyiyiano no ɔnye Otumfo no bɛham?,Aso nyia ɔyɛ nyiyiano no ɔnye Otumfo no bɛham.,0.0,0.0
+232,"Bi a wɔdze hɔn nkotoserɛ bogu EWURADZE enyim, na hɔn mu biara bɛsan efi no kwan bɔn no do: na ebufuw na ebufuhyew a EWURADZE aka egu ɔman yi do no ɔso.","Bi a wɔdze hɔn do tɔ srɛ bogu EWURADZE enyim, na hom biara bɛsan efi no kwan bɔn no do: na ebufuw na ebufuhyew a EWURADZE aka egu ɔman yi do so.",0.2188,0.0855
+233,"Mbrɛ gyata a ɔropɔw, na osisi a origyam tse no.",bɛgyaa a orupun ɔsisa ɔregyam si no.,0.8,0.3889
+234,Afei wɔdze asɛm bi baa me nkyɛn nsumaa mu.,Afei wɔdze asɛm bi baa me nkyɛn nsumaa mu.,0.0,0.0
+235,"Na Josua, na Israel nyinara ka no ho, sanee baa nseraban no mu wɔ Gilgal.","Na Josua na Israel nyinara ka no ho, sanee baa nsraban no mu wɔ Gilgal,",0.0667,0.0179
+236,"Na Huram no nkowaa, na Solomon no nkowaa no a wɔdze sika fi Ofir bae no, wɔdze algum ndua na abo a ɔsom bo so bae.","Na Huram no nkowaa, na Solomon no nkoa no a wɔdze sika fi Ofir bae no, wɔdze algum ndua na abo a ɔsom bo so bae.",0.0385,0.0233
+237,Bɔtomkɛkanyi ne nsɛm tse dɛ ntrɔma dɛɛdɛw.,Bɔtomkɛkanyi ne nsɛm tse dɛ ntoama dɛdɛ,0.2857,0.1143
+238,Na wɔnkyɛ mu kyɛpɛn esuon: Juda ntsena ne he do wɔ kwaamu afamu.,"Na wɔntetɛpɛnesu no, Juda ntsena ne he do wɔ kwaamu afamu",0.3077,0.18
+239,Nna ɔno so yɛ nyimpa fɛɛfɛw; nna ɔno nye Absalom n’ekyir ba.,Nna ɔno so yɛ nyimpa fɛɛfɛw; nna ɔno nye Absalom ne kyi a.,0.25,0.0435
+240,"EWURADZE butuuw hɔn, na oennya tsema biara no: na wɔmma ɔntse osu anapa.","EWURADZE butuuw hɔn, na woenya tsenabea no, na wɔma ɔnse osu anapa.",0.3846,0.1404
+241,"Nna ɔhen Rehoboam somaa Adoram a ɔhwɛ ɔtowyi edwuma do no; na Israel nyinara siiw no abo, ma ɔtɔree.","Nna ɔhen Rehoboam somaa Adoram a ɔhyɛ ɔtowyi edwuma do no; na Israel nyinara siiw no abo, ma ɔtɔree.",0.0526,0.0127
+242,dze hu bɛpempan ndubaa no: na ndupɔn atsentsen no wɔbɔtotow ato famu.,"Dze hu bɛpempan ndubaa no: na ndepɔnatsentsɛn, ɔbɔtotow atoom.",0.5,0.1429
+243,"Emumuyɛfo kwan tse dɛ sum: Wofintsiw, naaso wonnhu dza wofintsiw do no.","mmuyɛfo kwan tse dɛ so wɔ fi ntsi, naaso wɔhu dza wofintsiw do no.",0.5,0.1579
+244,Hɔn a wokyinkyim nsa ho no a; Hɔn a wɔhwehwɛ aforafora nsa no a.,Monna wokyinkyim nsa ho no a wɔn a wɔhwehwɛ aforafora nsa no a.,0.2143,0.0816
+245,"Iyi nye Reubenmba no hɔn egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow no nye no nkurobaase.","eye nye Ruben ba no hɔn egyapadze dɛ mbrɛ hɔn ebusua busua tsetsee, nkurow no nye no nkurobaase.",0.2353,0.0625
+246,"Na EWURADZE n’ebufuw dzɛwee wɔ Israel do, na oyii hɔn hyɛɛ Siriahen Hazael nsa, na Hazael ne ba Ben-hadad nsa daa.","Na EWURADZE n'ebufuw dzɛwee wɔ Israel do, na oyii hɔn hyɛɛ Siriahen Hasena ne Hezioneba Ben-hadad nsa daa.",0.2381,0.1011
+247,"Na ɔhen Solomon maa Seba ɔhembaa no n’apɛdze nyinara, biribiara a obisae no, ɔsor dza ofi ɔhen Solomon nsamu a ɔdze maa no no.","Na ɔhen Solomon maa Seba ɔhembaa no n'apa nyinara, biribiara a obisae no, ɔsor dza ofi ɔhen Solomon nsamu a ɔdze maa no no.",0.0417,0.0404
+248,Nna Jeremia tsenaa aweɔmfo abangua no mu ara dze kodur dɛ wɔgyee Jerusalɛm.,Na eliminan abangua no mu redzi kodu dɛ wɔgyee gyerusalɛm,0.6154,0.3548
+249,Na Jehoahaz kɔr ne nsamankyir; na wosiee no wɔ Samaria: na ne babanyin Joas dzii hen wɔ n’ananmu.,"Na Jehoahaz kɔr ne nsamankyir, na wosiee no wɔ Samaria na ne babanyin Joas dzii hen wɔ nane.",0.0556,0.0526
+250,"Na hom mu ekuw ebien no, mekyerɛ hɔn a wofir edzi ahomgyeda no nyinara no, wɔnhwɛ EWURADZE ne fi do hwɛ no wɔ ɔhen no ho.","Na hom mu ekuw ebien no, mekyerɛ wɔn a wɔfiri edzi ahomgyeda no nyinara no, wɔnhwɛ EWURADZE ne fi do hwɛ no wɔ ɔhen no ho.",0.0769,0.0323
+251,Onyaa mbabanyin beesuon na mbabaa baasa so.,"Onyaa mbabanyin be suan na mbabaa baasa so,",0.2857,0.0556
+252,"Na ɔbaa dɛ, wɔbaa kurow no ne finimfin no, Netania ba Ismael, ɔnoara na mbarimba a wɔka no ho no kunkum hɔn, na wɔtoow hɔn guu mona no mu.","Na ɔbaa dɛ, wɔbaa kurow no mfimfini no, na tena ba Ismael, ɔnoara na mbarimba a wɔka ne ho no kunkum no, wɔto hɔn um nom",0.4138,0.2
+253,Eso mma wo kɔn nndɔ dɛ enye hɔn bɛtsena: Na hɔn akoma susu amenhyɛ.,"Eso na wokɔ no dɔ dɛ nye hɔn bɛtena, na hɔn akoma susu amenhyɛ.",0.4286,0.1154
+254,"Na Solomon yɛɛ dza omuo wɔ EWURADZE enyi do, na oenndzi EWURADZE ekyir ennwie, dɛ mbrɛ n’egya David yɛe.","Na Solomon yɛɛ dza omu wɔ EWURADZE enyi do, na woedzi EWURADZE ekyir ewie dɛ mbrɛ n'egya David yɛe.",0.1579,0.0732
+255,kurow no na hɔn a wɔtse mu do: na nyimpa bɛkeka mu.,Kurow na hɔn a wɔtse do na nipa bɛka.,0.4167,0.2632
+256,"Na Josua see hɔn dɛ, Mma hom nnsuro, mma hom abaw mu nntu so; hom nhyɛ dzen na wonnya akokodur: na dɛm na EWURADZE bɛyɛ hom atamfo a hom nye hɔn ko nyinara.","Na Jehu see hɔn dɛ, Mma munsuro ma hom aba mu ntu so, monhyɛ dze no, na wɔnya kokoduo na dɛm na EWURADZE bɛyɛ hom atamfo a monyi hɔn po nyinara.",0.4242,0.1681
+257,Amma ɔannyɛ noara n’enyiwa do onyansafo.,"Ama woanyɛ nɔrenyiwado, onyansafo.",0.8333,0.2424
+258,"Ɔwo eyi m’amanyimfo efi me nkyɛn akɔ ekyirekyir; Ɔwo ayɛ me ekyiwadze ama hɔn: Wɔatow me mu, na munntum mmpue.","Ɔwo nye m'amanyimfo efi me nkyɛn akɔ ekyirekyir; Ɔwo ayɛ ekyiwadze ama hɔn: wɔato me mu, ma muntum n",0.3,0.1395
+259,"dɛ hom ndzi no do aba na no do ndzepa; na mbom hom baa mu no, hom guu m’asaase ho fi.",De homdze no do aba na no do ndzepa; na bɛhome muno hogu m'asase mu fi.,0.5714,0.2295
+260,Na ebufuhyewnyi ne mbrato bu do.,Na ebufuhyewnyi ne mbrato bu do.,0.0,0.0
+261,"Ao me man, kaa egyina a Moabhen Balak tui.","a ɔma man, kaa egyina a Moabhen Balak tui.",0.2222,0.0625
+262,dza woedua no wɔ Nael ho nyina boguan.,"""Zaawoeduano wɔ n'enhu nyinaa boguan",0.75,0.2
+263,hyɛɛ hɔn amen a obi ennsianka no.,Sɛ hɔn amen a obi nsanka no:,0.2857,0.2308
+264,"Nna Solomon sii bea sorɔnsorɔm maa Moab ekyiwadze Kemos, wɔ bepɔw a ɔwɔ Jerusalɛm enyim no do, na Ammonmba ekyiwadze Molek.","Nna Solomon sii bi sorɔnsorɔm maa Moab ekyiwadze Kemos, wɔ bepɔw a ɔwɔ gyerusalɛm enyim no do, na Amon ba ekyiwadze Molek.",0.1905,0.06
+265,"Na wodzii apaho no n’adzekyee no nna wodzii asaase no do eburow dadaw, epitsi tatar nye eburow kyewee.","Na wodzii apaho no na adekye no na wodzii asaase no do eburow dadaw, epitsi tatar nye eburow kyewee.",0.1667,0.0488
+266,"Na Mika mba nye; Piton, Melek, Tarea, na Ahaz.","Na Mika mba nye: Piton, Melek, Tarea, na Ahaz.",0.0,0.0
+267,"Na Bat-seba kɔr ɔhen no nkyɛn wɔ pia mu; na ɔhen no ayɛ akɔdaa dodow; na Abisag, Sunamnyi no soom ɔhen no.",Na Batseba kɔr ɔhen ne nkyɛn wɔ Pim na ɔhen no ayɛ akwadaa dodo na Abisag Sunamni no som ɔhen no,0.3182,0.1
+268,"Ebɛn ntsi na edze EWURADZE dzin ahyɛ nkɔm, dɛ, Ofi yi bɛyɛ dɛ Siloh na kurow yi ayɛ ekurofo a obi nntsena do?","Ebɛn ntsi na edze EWURADZE dze no ahyɛ nkɔm, dɛ, ofi bɛyɛ dɛ Silo ne kuro yi ayɛ ekurofo a obi nsiado.",0.3478,0.131
+269,"Na Elija see no dɛ, Mma nnsuro; kɔ kɛyɛ dɛ mbrɛ ase no: mbom dzi kan yɛ bi tatar kakra ma me, na fa brɛ me, na n’ekyir no ayɛ ɔwo na wo ba dze.","Na Elija see dɛ, mensuro kɔkaa dɛ mbrɛ ase, mbom dzi kan bi tata kakrama na fa brɛm na n'ekyir no ayɛ ɔwo na wo ba dze.",0.3714,0.1569
+270,"Na no mu dze, ɔprapra ndaadaa boa ano: Sɛ ɔkasa dɛɛdɛw a, mma nngye no nndzi; Na n’akoma mu wɔ ekyiwadze esuon.","Na ne mu dze, ɔprapra ndaadaa boa no, sɛ ɔkasa dada a mma nyini na n'akoma mu wɔ ekyiwadze esuon.",0.2727,0.1667
+271,"Na emi mankasa medze nsa a atsen na basa a ɔyɛ dzen, mekyerɛ ebufuw, na ebufuhyew, na enyiber kɛse menye hom bɔko.","Na me mankasa medze nsa a asen na basaa ɔyɛ dze no, mekyerɛ ebufuw, na ebufuhyew, na enyiber kɛse ehomɔ",0.4091,0.1236
+272,"na ogyataba nantsew, na obi nnyi hɔn hu no?","na ogyataba nantsew, na obi nnyi hɔn hu",0.1111,0.0606
+273,"Na aber a Job bɔɔ n’anyɛnkofo no hɔn tsir mpaa no, EWURADZE daan no ndɔmmumyɛ no: na EWURADZE maa Job adze dodow a nkyɛ ɔwɔ no mbɔho ebien.","Na Abraa dobɔ na yɛn kofan hɔn tsir mpaa no, EWURADZE daan no no ndom yɛ no, na EWURADZE maa Job adze dodow a nkyɛ ɔwɔ no mbɔho ebien.",0.3214,0.1204
+274,"Na Safan dze nwoma no kɛmaa ɔhen no, na nkyii so ɔbɔɔ ɔhen no amandzɛɛ dɛ, Dza wɔdze hyɛɛ wo nkowaa nsa no nyinara wɔreyɛ.","Na Safan dze nwoma no kɛmaa ɔhen ne nkyi so ɔbɔɔ ɔhen no amandzɛɛ dɛ, Dza wɔdze hyɛɛ wo nkoa nsa nyinara wɔreyɛ",0.2,0.0842
+275,"Na mobɔbɔ kurow yi mu atsefo, nyimpa na mbowa nyina: na ɔyardɔm kɛse bɛma woewuwu.","Na mobɔbɔ kurow yi mu atsefo, nyimpa na monyinaa na ɔyardɔm kɛse bɛma woewuwu.",0.1333,0.0615
+276,"Na nda a Jeroboam dze dzii hen yɛ mfe eduonu ebien: na ɔkɔr ne nsamankyir, na ne babanyin Nadab na ɔhyɛɛ n’ananmu dzii hen.","Na ɛndaagyeeboam dze dzii hen yɛ mfe eduonu ebien: na ɔkɔr ne nsamankyir, na ne babanyin Nadab na ɔhyɛɛ nanme he",0.25,0.1354
+277,"Na Egypt no sunsum bɔtɔ pan wɔ no mu; na mebɛsɛɛ n’egyinatu; wobɔkɔ ebisa wɔ ebisatsirfo, asamamfrɛfo, na abayifo nkyɛn.","Ne Egiptenɔɔpan wɔ nom,namebɛsɛɛ n'egyinatu; wobɔkɔ ebisa bisa tsefo asamanfrɛfo na abayifo nkyɛn.",0.65,0.1895
+278,"Judamba ebusuakuw kyɛfa, dɛ mbrɛ hɔn ebusua ebusua tsetsee no si Edom he do, mekyerɛ Zin sar do pomu afamu, wɔ pomu afamu ekyir noho ara.","Judamba ebusuakuw tafa dɛ mbrɛ hɔn ebusua ebusua tsetsee no si Edom he do, mekyerɛ Zin Saulo pomafam,wɔpom afam ekyir noho ara.",0.3077,0.0833
+279,"Ahomka aka wo nkorɔfo, ahomka aka wo nkowaa yi a wogyinagyina w’enyim daa, na wotsie wo nyansaa no.","Ahomka aka wo nkorɔfo, ahomka aka wo nkowaa yi a wɔgyinagyina wanim daa na wotie wo nyansa no.",0.2222,0.0641
+280,Ɔsɛɛ bɔtɔ ɔsɛɛ do; wɔafa asaase no nyina afo: awerɛfir mu ara nna wɔafa me ntamadan afo.,sɛ bɔtɔ ɔsadweam,0.9412,0.8116
+281,Dɛm ntsi na no nkorɔfo san ba ha: Na wɔsɔn nsu a ofi kɔɔpow a ayɛ ma mu.,Dɛm ntsi na no nkorɔfo san ba ha: na woso nsua ofi kɔɔpow a yɛ mmu,0.3333,0.0943
+282,Wobobubu no awerɛfir mu a onnkenya ano edur.,Wobobu no ayefor ma ɔnkan ano edu,0.75,0.3611
+283,Sohor bɔ n’atsaban mu ehurusidzi mu; Ana ne ntsaban na ne ntɛkyerɛ tse dɛ esukɔnkɔn dze?,Sohor bɔ n'atsaban mu ehurusidzi mu; anansan ntɛkyerɛ se dɛ esukɔnkɔn dze.,0.375,0.1429
+284,"Dɛm ntsi mopow moho, na munu moho.","Dɛm ntsi mopow moho, na mo no mo ho.",0.5714,0.0769
+285,Dadze sew dadze ano; Dɛmara so na nyimpa sew ne nyɛnko enyim.,Dade sew dadze ano; dɛm aso na nyimpa sew ne nyanko enyim.,0.3333,0.0833
+286,"Na Jeroboam ne yer no soɛree sii mu, na ɔbaa Tirza: na obodur ofi no n’apondua ase dze no do ara nna abofra no wui.","Na Jeroboam ne yɛn sare si mu, na ɔbaa a tilaa obodu ofi no n'apondua ase dze no do ara na abofra no wui.",0.32,0.1494
+287,"Na sɛ no bo fuw o, ɔserew o, ahomgye biara nnyi hɔ.",na sɛ ne bufuo ɔsoro ahomgyebea neho.,0.8333,0.3514
+288,"Nna Elisha see dɛ, Tow: na ɔtowee.","Na Elisha see dɛ, To na ɔtoe.",0.4286,0.16
+289,"Na obuaa dɛ, Nnyɛ biribiara a: naaso ɔkwan ara na gya me ma monkɔ.","Na obuaa dɛ, Nnyɛ biribiara naaso ɔkwan ara na gya me ma monkɔ.",0.0714,0.02
+290,"Na EWURADZE see Josua dɛ, Ndɛ da yi na meyi Egypt enyimguase no efi hom do.",Na AWURADE se gyesɛ ndɛ da yi na meyi Egypt enyimguase no efi ho bɔ.,0.375,0.1897
+291,Ɔboaboa ano ma nyia ohu ɔbɔbɔfo mbɔbɔr.,Ɔboɔ boa ano manya ohu ɔbɔbɔfo mbɔbɔr.,0.5714,0.0625
+292,"Iyi nye Isakarmba ebusuakuw egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow no ɔnye no nkurobaase.","Enye nye Isakar ba ebusuakuw gyaadze dɛbrɛ wɔn ebusua ebusua tsetsee, nkurow no nye no nkuraase.",0.5625,0.1294
+293,Mbrɛ abow twa noho apontsɛr do no.,Mbrɛ Abu twa no ho apontsɛdo no.,0.5714,0.1111
+294,"Nyia ɔkata ne mbrato do no, ɔnnkɛyɛ prɔmprɔm: Na obiara a ɔka to gua na ɔpow no, obenya ehumbɔbɔr.","Nyia ɔkata ne mbrato do no, nka yɛ prɔmprɔm, na obiara a ɔka to gua na ɔpow no, obenya ahumbɔn.",0.1579,0.0921
+295,na ohianyi ada hɔ dwudwoodwo: na medze ɔkɔm boku wo ndwow.,"Na ɔhen yi ada hɔ Yudowodzo, na medze ɔkɔm boku wo do.",0.3636,0.2391
+296,Na ogya fi sor sianee bɛhyeew ɔno na n’eduonum no.,Na ogya fi sor sianee bɛso ɔno na n'eduonum no,0.1,0.1282
+297,Na ɔmaa hɔn a wohun hɔn wɔ Jerusalɛm na Benjamin mu nyinara peen do.,Na ɔmaa hɔn a wohun hɔn wɔ Jerusalɛm na Benjamin mu nyinara peen do.,0.0,0.0
+298,Na ɔbɛyɛ dɛ otwafo pempan eburow a osisi hɔ.,Na ɔbɛyɛ dɛ otwafo pempan eburow a osisi hɔ.,0.0,0.0
+299,Mbrɛ enyidzi so mmfata ɔkwasea ara nye no.,Mbrɛ enyidzi so mmfata ɔkwasea ara nye no.,0.0,0.0
+300,Mbɔbɔrhu na nokwar behyia; Tsenenee na asomdwee bedzi hɔnho mfewano.,"mɔbɔhu na nokwar behyia; tenenee, na asomdwee bedzi hɔn hwan o.",0.5,0.1228
+301,Na mpɔnkɔ hɔn ntɔtse a osisi famu pipi no ne gyegye.,Na mpɔnkɔ wo ntɔtse a osisi famu pipi no yiye.,0.2727,0.1951
+302,"Nkaa no bɛsan aba, Jakob nkaa no bɛba Onyame katakyi no nkyɛn.","Nkaa no bɛsen aba, Zekakano bɛba Onyame katakyi no nkyɛn.",0.3333,0.1429
+303,Tɛkyerɛma torfo kyir hɔn a oepirapira hɔn no.,Tɛkyerɛma trofo kyer hɔn a woprapra hɔn no.,0.375,0.1892
+304,Ebufuwfafo huenyan mansotwe mu.,Ebufuwfafo kenya mansotwe mu.,0.25,0.1111
+305,Naaso EWURADZE wɔ me nkyɛn dɛ ɔkatakyi a no ho yɛ hu: dɛm ntsi m’ahohiahiafo befintsiw.,Nanso EWURADZE wɔ me nkyɛn dɛ ɔkatakyi a no ho yɛ hu da me nsi nanhia fo efintsiw.,0.4375,0.1594
+306,"Nna Farao see no dɛ, Na ebɛnadze na ehia no wɔ me nkyɛn, ma erohwehwɛ dɛ ekɔ wankasa wo man mu yi?","Na Farao se no dɛ, Na ebɛnadze na ehia no wɔ me nkyɛn, ma Erehwehwɛ dɛ ekɔ wankasa wo man mu yi.",0.1364,0.0405
+307,osiandɛ mayɛ bɔn etsia no; ekodu dɛ obedzi m’asɛm ama me.,San da mayɛ bɔne etsia no; ekodu dɛ obedzi m'asɛm ama me,0.2727,0.0909
+308,"Na ɔbɛba wɔ da no mu, EWURADZE na ɔse, dɛ ɔhen n’akoma bɛhera, ɔnye mbapɔmba akoma; na asɔfo ho bɔbow hɔn, na nkɔnhyɛfo no ayɛ hɔn nwanwa.","Na ɔbɛbɔ wɔn dan mu, EWURADZE na ɔse, dɛ ɔhen n'ako bɛhera, ɔnye mbapɔmba akoma; na asɔfo ho bɔbow wɔn, na nkwahyɛfo no ayɛ hɔn ana.",0.2963,0.1048
+309,"Nna nkorɔfo a Ismael soaa hɔn ndɔmmum fii Mizpa kɔree no, wɔdandaan hɔnho, na wɔsensanee, na wɔkɔr Karea ba Johanan nkyɛn.","Nna nkurɔfo a Israel sua hɔn do mumfi mesakra no, wɔdandan hɔn ho, na wɔsensanee, na wɔkɔr Karea ba Johanan nkyɛn.",0.4762,0.1531
+310,"Na akataasia no no ho yɛ fɛw dodow; na oyiayiaa ɔhen no, na ɔsoom no; naaso ɔhen no ammfa no ho annka no.","Na akataasia no ho yɛ fɛ dodo, na oyiyi ɔhen no na ɔsom no, naaso ɔhen no amfa no ho anka no",0.3043,0.1266
+311,Adze kor bi yɛ dansewa wɔ ohianyi na opoobɔnyi ho: EWURADZE na ɔtsew hɔn beenu nyina enyi do.,"Adze kor bi yɛ dansewa wɔ onyinyi na pɔbɔ nyin ho,EWURADZE na ɔtsew hɔn beenu nyina enyi do.",0.2222,0.0946
+312,mo honam mu aba memma wɔ me kra no bɔn ntsi?,Mo honam mu aba mama wɔ me kra of no bɔne nti.,0.3636,0.1818
+313,"Nna odzii ndan, na osii mu kɔr nankasa n’asaase do, ɔno na no nkowaa.","Nna odzii ndan, na osii mu kɔr nankasa n'asaase do, ɔno na no nkowaa.",0.0,0.0
+314,"Fa woho kɛhyɛ wo bɔha mu; gye w’ahom, na taa dzinn.","a wo ka kyerɛ wo ɔham gye w'ahom, na taa den",0.6364,0.2973
+315,"Nyankopɔn dze ankonam si ebusua mu: Otu adaduafo dze hɔn ba eyiedzi mu: Na etuatsewfo dze, wɔtsena asaase a woetwee do.","Nyankopɔn dzi ankana si ebusuamotu adaduafo dze hɔn ba eyiedzi mu: na etuatsewfo dze, wɔtsena asaase a woetwa no.",0.3333,0.0737
+316,na nkekamu ewiaber; osiandɛ oennku me yafun mu; na nkyɛ me na aadan m’adakamona.,"na nkekamu ewiaber; osiandɛ wo nku me yɛ funu, na nkyɛm na adan makoma mo na",0.7143,0.1587
+317,Sen nyimpa beesuon a wotum kyerɛkyerɛ asɛm ase.,Sen nyimpa besua wo tum kyɛkyɛ asɛm ase.,0.5,0.1795
+318,na akoko a amema do nyinara do; na abantsentsen biara.,Na akoko a amema do nyinara do; na abantsentsen biara.,0.0,0.0
+319,"Na Elija faa abofra no na ɔdze no fi pia no mu sianee baa ɔdan no mu, na ɔdze no maa ne na: na Elija see dɛ, Hwɛ, wo ba enya nkwa.","Na Elija faa abofra no, na ɔdze no fi pia no mu sanee baa ɔdan no mu, na ɔdze no maa ne na, na Elija see dɛ, Hwɛ, wo ba nyankwa.",0.0938,0.0213
+320,"Nyia ɔka kyerɛ omumuyɛnyi dɛ, Eyɛ tseneneenyi no.",Nyia ɔka tsre ouyen dɛ eyɛ tsenn.,0.5,0.45
+321,Anaa ɔbɛkasa kasa mberɛw akyerɛ wo?,Anaa ɔbɛkasa kasa mberɛw akyerɛ wo?,0.0,0.0
+322,"Na da biara nnyi hɔ a ɔtse dɛ iyi da, dɛ abɛsen anaa dza ɔbɛba a EWURADZE etsie nyimpa ne ndze dɛm: na EWURADZE koe maa Israel.","Na da biara nnyi hɔ a ɔtse dɛ enye da, dɛ abɛsen anaa dza ɔbɛba a EWURADZE etsie nyimpa ne ndze dɛm: na EWURADZE koe maa Israel.",0.037,0.0306
+323,"Na ɔsee hɔn dɛ, Ɔbarimba a ɔfowee bae behyiaa hom na ɔkaa nsɛm yi kyerɛɛ hom no tse dɛn?","Na ɔsee hɔn dɛ, Ɔbarimba a ɔfowee bae behyiaa hom na ɔkaa nsɛm yi kyerɛɛ hom no tse dɛ.",0.0526,0.0147
+324,"Hɔn mu dza oye kyɛn biara tse dɛ ohwirom: tɔɔtsenyɛnyi biara a ɔkyɛn no, omuo sen nsoɛban: w’aweɔmfo da no, wo sera da no, aba; afei na hɔn basabasayɛ bɛba.","Hɔn mu dza oye kyɛn biara tse dɛ ohwirom: tɔɔtsenyɛnyi biara a ɔkyɛn no, omoso nsoɛban: wanhwɛmfo da no, wo sra da no, aba; afei na hɔn basabasayɛ bɛba.",0.1333,0.0672
+325,"Sɛ emi dze a, nkyɛ mobɔhwehwɛ Nyankopɔn n’ekyir kwan.",Sɛ Amidze nkyɛmbɔhwehwɛ Nyankopɔn n'ekyir kwan.,0.5556,0.0714
+326,Dɛ mbrɛ wɔdze ewi efiefi ba wɔ ne ber mu no.,Dɛ mbrɛ wɔdze ewi efiefi ba wɔ ne birim no,0.1818,0.0909
+327,Nna asafohen no nyinara baa Jeremia nkyɛn bebisaa no: na ɔkaa nsɛm yi a ɔhen no hyɛɛ no no nyinara kyerɛɛ hɔn dɛmara.,Nna asafohen nyinara baa Jeremia nkyɛn bebisaa na ɔkaa nsɛm yi a ɔhen no hyɛɛ no nyinara kyerɛɛ hɔn dɛmara.,0.1304,0.0645
+328,Ana ɔwo edze ahoma bɛsa ɔnantwi bɔyafo wɔ funtumka ho?,Ana ɔwo edze ahoma bɛsa ɔnantwi bɔnefo wɔ funtum ka ho.,0.3,0.0455
+329,"Na wɔdze hɔn ekyiwadze sisii ofi a wɔdze me dzin ato no no mu, dɛ wongu ho fi.","na wɔdze hɔn ekyiwadze sisii ofi a wɔdze medze ato no mu, dɛ wɔngu ho fi.",0.2222,0.0847
+330,Na gyataber ne mba bɔ apetse no.,Na gyataber ne mba bɔ apetse no.,0.0,0.0
+331,Wɔbɛtafer huntuma dɛ abowatsena; dɛ asaase mbowa a wɔtsen famu.,"Wɔbɛtafer huntuma dɛ aboɔ tsena, dɛ asaase boa a wɔtsen famu.",0.3,0.0769
+332,"Afei bɔ w’asen do dɛ barimba; Na mibebisa wo, na ɔwo eyi me ano.","Afei bɔ w'asen do dɛ barima, na mebɛbisa wo, na ɔwo eyi m'ano.",0.2857,0.0851
+333,"EWURADZE fa ebufuw nyaa, na no tum so.","EWURADZE fa ebufuw nyaa, na no tum so.",0.0,0.0
+334,"Dɛm ntsi afei mbrɛ EWURADZE se nye yi, Mpa no a afow no rimmfi do nnsian, na owu ara na ibowu.","Dɛm ntsi afei mbrɛ EWURADZE se nye: mpa no a afow no remfiri dunan, na ɔware na ebu wu.",0.381,0.2113
+335,"Nna Josua see dɛ, Hom mbue ɔbo tu no ano, na hom nyi ahemfo beenum no mfi ɔbo tu no mu mbrɛ me.","Na Jehu see dɛ, Hom mbue ɔbo tu no ano, na hom yi ahemfo beenum no mfi ɔbo tu no mu mbra mu",0.2174,0.1
+336,"Na hyɛ asɔfo a wɔso ahyɛmudaka no, dɛ, Sɛ hom du Jordan nsu no no nkɔkɔnoa a, hom ngyina dzinn wɔ Jordan no mu.","Na hyɛ asɔfo a wɔso asɛm daka no dɛ, sɛ hunu du Jordan nsu no no nkɔnkɔnoa hom ngyina dzinn wɔ Jordan mu",0.25,0.119
+337,Remalia ne ba Peka n’afe a otsia duesuon no mu na Judahen Jotam ne ba Ahaz hyɛɛ ase dzii hen.,Remalia ne ba Peka nafia otsia duesuon no mu na Judahen Jotam ne ba Ahaz hyɛɛ ase dzen.,0.2,0.0556
+338,"Ebufuhyew yɛ etsirmɔdzen, na ebufuw yɛ ewurkadze; Na woana na obotum egyina nyinkun enyim?",Ebufuhyew yɛ etsiɔdzen na ebufuw yɛ ewurkadze; na wɔn a botum egyina nyinkun enyim.,0.2857,0.0946
+339,"Dɛm ntsi afei mma hom nngyegye sika wɔ hom amanyimfo hɔ bio, na hom nyi mma ma wɔmfa mpempam ofi no n’agow no.","Dɛm ntsi afei mma ho gyegye sika wɔ hom amanyimfo hɔ bio, na hom nyi mma ma wɔmfa mpempam ofi n'agow no.",0.1304,0.0588
+340,"Ana ɔwo ibotum asoma enyinam, ma wɔaakɔ.",Ana ɔwo botum asoma nyinam ma wɔako,0.4286,0.125
+341,Mbrɛ nsoɛ si kohwira sabokwanyi ne nsamu no.,mbra nsɛe kohwira bukoi ne nsɛm no.,0.625,0.3611
+342,Aso ɔbɛyɛ dɛ ababaawa no werɛ befir n’ahyehyɛdze.,Aso ɔbɛyɛ dɛ ababaawa ne ibefir na hyehyɛ dze.,0.625,0.1
+343,"Nna EWURADZE see me dɛ, Jeremia, ihu ebɛn?","Na EWURADZE se me dɛ, Danoma, ehu ebɛn.",0.5,0.25
+344,"Na Josua see Israelmba no dɛ, Hom mbra ha mbetsie EWURADZE hom Nyankopɔn ne nsɛm.","Na Josua see Israelmba no dɛ, Hom mbra ha mbetsie EWURADZE hom Nyankopɔn ne nsɛm.",0.0,0.0
+345,"Na wɔdze mpɔnkɔ fi Egypt, na asaase nyinara brɛɛ Solomon.","Na wɔdze mpɔnkɔ fi Egypt, na asaase yi nara brɛɛ Solomon.",0.2,0.0217
+346,Wɔbɛda n’emumuyɛ no edzi akyerɛ mboanofo no petee.,Ɔbɛda nemɛ no edzi akyerɛ mboanofo petee.,0.375,0.1707
+347,Tsenenee bedzi n’enyim; Na ɔdze hɛn esi n’anamɔn kwan do.,"senee bedzi ne nyim na ɔdze hɛn esi na na man kwan do,",0.6,0.0909
+348,"na wɔabobɔ hɔn ndze mu; wɔama n’asaase ayɛ amamfo; na wɔahyehyew no nkurow, dɛ obi nntse mu.","na wɔabobɔ hɔn ndze mu; wɔama n'asaase ayɛ amamfo; na wɔahyehyew no nkurow, dɛ obi ntim.",0.1176,0.0563
+349,"Yi no akwa, mma nntwa mu wɔ ho; Fi ho fi, na twa mu kɔ.","Yi no akwa, mma ntam no nkɔhia twam kɔ.",0.6667,0.3514
+350,"Nna ɔhen no hyɛɛ Etiopianyi Ebed-melek, dɛ, Fa mbarimba eduasa fi ha ka wo ho, na keyi nkɔnhyɛnyi Jeremia fi mona efiadze no mu, ansaana oewu.","Na hen hyɛɛ Etiopianyi Ebed-melek, dɛ, Fa mbarimba eduasa fi ha kɔ, wo ho, na keyi nkɔnhyɛnyi gyera wimu na efiadze no mu, ansa na wawu.",0.3846,0.1351
+351,Ɔma ɔkwan hyerɛn dzi n’ekyir; Obi bobu bun no dɛ oehura gon.,"Ɔma ɔkwan hyerɛn dzi n'ekyir; Obi bobubu no dɛ, woehura gun",0.3333,0.0652
+352,na etsetsɛw mu enyame ananaben: mpo sɛ wo ntsɛwee da no ara mu ema ofifir.,na ɛte sɛ wo mu enyame ananaben impo sɛ wonsa weeduo da no ara ma ma ofie.,0.6,0.2586
+353,"Ao, Dɔm EWURADZE Nyankopɔn, tsie me mpaayi: Ao, Jakob Nyankopɔn, yɛ aso.","Ao, Dɔm EWURADZE Nyankopɔn, sie me mpae a, Jakob gyankopɔn, yɛ aso.",0.3333,0.1091
+354,"Mbrɛ ɔhyewber mu esukwankyɛba tse, na mbrɛ otwaber mu nyankom tse no.","mbra ɔhyewber esukwankyɛba tse, na mbrɛ otwaber mu nyankom tse no.",0.1667,0.0536
+355,"Omumuyɛnyi ne mbrato mu wɔ efir: Na ɔtseneneenyi dze, ɔtow ndwom na odzi ehurusi.",ɔmonyɛ nyini mbrato mu wɔ efie na ɔtenee dze ɔtonnwom na odzi hui.,0.5,0.2769
+356,na orummbu fɔdzinyi bem ara da: EWURADZE no kwan wɔ ekyinehyia mframa na ehum mu.,"Na ɔwubufodzinyi bi mu ara da, EWURADZE no kwan wɔ Ekyinehyia frama na ehum.",0.3333,0.1538
+357,"Na ɔyɛɛ dza ɔtsen wɔ EWURADZE enyiwa do, naaso ɔnntse dɛ n’egya David: ɔyɛɛ dɛ mbrɛ n’egya Joas yɛe no nyinara.","Na ɔyɛɛ dza ɔtsen wɔ EWURADZE enyiwa do, naaso ɔnte dɛ n'egya David ɔyɛɛ dɛ mbrɛ n'egya Joas yɛe no nyinara.",0.0476,0.0233
+358,a hɔn ehonyi a woegu kyɛn Jerusalɛm na Samaria dze no; aso nnyɛ dza medze ayɛ Samaria nye n’abosom no.,wɔn ahonya begye kyerɛɛ na Samariani dza medze ayɛ sɛ maria nyin' abosom no a,0.85,0.375
+359,"Na Adonija n’aponto asefo no nyinara suroi, na wɔsoɛrsoɛree na nyimpa biara faa no kwan kɔree.","Na Adonodnpontu asefo no nyinara suroi, na wɔsɔ sɔree na nyimpa biara faa no kwan kɔree.",0.25,0.1316
+360,"Hom mbepɔw, hom ntsie EWURADZE no nkurobɔ, na hom asaase mfapem a wɔwɔ hɔ daa no: na EWURADZE nye ne man enya ham.","Hommepɔw montee EWURADZE no nkurobɔ, na hom asaase mfapem a wɔwɔ hɔ daa no, na EWURADZE nye nama enya ham.",0.2609,0.0795
+361,"Na mma hom mmfi ehyiadzibuw no n’abowano nda esuon, kyerɛ hom etuhoakyɛ afɔr nda no aso ana: na nda esuon na ɔdze rutu hom akyɛ.",na mahom mfi ehyiadzibuw no ano ndaesukyer moatu ho akyɛ afɔ ndan asaana nda esɔa ɔdze rutu hom akyɛ.,0.68,0.21
+362,na anapa no ara iduae no ema w’aba no bɔ nkukuduuduw mpo a: no twaber no boguan wɔ yaw na.,"Na anapan ara iduae no ema w'aba no bɔ wuwu du du mpo a, na twaber no boguan wɔ yaw na",0.3,0.1029
+363,"Na EWURADZE tsiee Elija ne ndze: na abofra no ne kra baa no mu bio, na onyaa nkwa.","Na EWURADZE tsee Elija ne ndze: na abofra no ne kra baa no mu bio, na onyaa nkwa",0.0556,0.0161
+364,"Ɔwo aba me nkyɛn dɛ edze mo bɔn reba nkaa mu, na eku me ba!","Ɔwo aba menkyɛn dɛ edze mo bɔn reba nkaa mu, na ekumaba",0.3333,0.0233
+365,ofitsi ɔkra do kesi nyimpadua do: na ɔayɛ dɛ aber a frankaakitsafo rotɔ bitsi.,"Ofitsi krado kesi nyimpadua do, na wɔayɛ dɛ abraa frankaa fo rtoise",0.5714,0.2222
+366,kwaweeyɛ nye owu sunsuma asaase do.,kwaweeyɛ nye owu sunsuma asaase do.,0.0,0.0
+367,"Na ɔbaa no sii mu kɔree kɛyɛɛ dɛ mbrɛ Elija n’asɛm no tse: na ɔnye Elija, na ɔnoara na ne fie dzii no nda pii.","Na ɔbaa no sii mu kɔree kɛyɛɛ dɛ mbrɛ Elija nasem no tse, ɔnye Elija, na ɔnora ne ne fie dzii no nda pii.",0.16,0.061
+368,dɛ wo dzin bɛyew efi asaase do: mubotwitwa ehonyi a asen na egu nyina.,Dɛ wodze bɛyi wo efi asaase do: mubotwitwa eho yi a asen egu nyina.,0.4286,0.1273
+369,mebɛma m’ahengua do atra; na matsena mboanofo bepɔw no do.,Mebɛma m'ahengua do ara na matsena mboanofo bepɔw no do.,0.1,0.0217
+370,"Na nyia osie wo kra no, ana no so onnyim?",Na nyia osie wo kra no anan so nyim.,0.3,0.1
+371,"Dɛm ntsi afei hom nsuro EWURADZE, na hom nsom no turododo nye nokwar mu: na hom ntow enyame a hom egyanom somee wɔ Esu no n’egya, nye Egypt no ngu; na hom nsom EWURADZE.","Na mentae ho so EWURADZE na hom nsom no turododo nye nokwar mu, na wotuna a magyanom somee wɔ Esu n'egya, nye Egypt ngu, na monsom AWURADE.",0.4412,0.2385
+372,"Nyimpa ho suro sua efir: Na obiara a ɔdze no werɛ hyɛ EWURADZE mu no dze, ɔbɛyɛ sɔkyee.","Nnipa musuo sua efie na obiara a ɔdze no werɛ hyɛ EWURADZE mu no dze, ɔbɛyɛ sɔkyee.",0.2222,0.0896
+373,"Ao Nyankopɔn, soɛr ɛ, bu asaase atsɛn; Na ɔwo na ibedzi adze wɔ amanaman nyinara mu.","Ao Nyankopɔn, sɔre, bu asaase atsɛn; na ɔwo na ebedzi adze wɔ amanaman nyinaa mu.",0.25,0.0769
+374,"Na ɔbaa no see Elija dɛ, Afei na mehu dɛ Nyame nyimpa nye wo, na EWURADZE n’asɛm a ɔwɔ w’anomu yɛ nokwar.","Na ɔbaa no see Elija dɛ, Afei na mehu dɛ Nyame nyimpa nyew, na EWURADZE n'asɛm a ɔwɔ no yɛ nokwar.",0.1364,0.0633
+375,"Onyansafo no ho yɛ dzen; Nyew, onyimdzefo to n’ahoɔdzen mu.",Onyansafo ho yɛ dzen nye onyimdzefo to n'ahoɔdzen o.,0.3,0.1087
+376,"Na Moses nye Aaron kɛhɛɛn ehyiadzibuw no mu, na wopuei, na wohyiraa ɔman no; na EWURADZE enyimnyam yii noho kyerɛɛ ɔman no nyinara.","Na Moses nye Aaron, kahan ehyiadzibuw no mu, na wopuei, na wohyiraa ɔman no no, na EWURADZE enyimnyam yii noho kyerɛɛ ɔman no hena.",0.1304,0.0952
+377,"Na ɔsee no dɛ, Mo wura, ɔwoara dze EWURADZE wo Nyankopɔn kaa ntam kyerɛɛ w’afonabaa dɛ, Ampaara wo ba Solomon ara na obedzi hen wɔ w’ekyir, na ɔnoara na ɔbɛtsena m’ahengua do.","Na ɔsee no dɛ, Mua ɔwɔ redze EWURADZE wo Nyankopɔn kaa ntam kyerɛɛ w'afonabaa dɛ, Ampaara wo bɛsooonArana obedzi hen wɔ w'ekyir, na ɔnoara na ɔbɛtsena Mahing. do.",0.2812,0.0882
+378,Ekunyin fi Egypt bɛba; Etiopia bɛyɛ ntsɛm atsen ne nsa ama Nyankopɔn.,Ekunyin fi Eye to bɛba ne tipa bɛyɛ ntsɛm atsen ne nsa ama nyankopɔn.,0.3333,0.1071
+379,Kyɛfa a otsia anan no bae maa Isakarmba no dɛ mbrɛ hɔn ebusua ebusua tsetsee.,sefatia maa Isakarmba no dɛ mbrɛ hɔn ebusua ebusua tsetsee.,0.4,0.2419
+380,Na ɔdze ne nsa maa no; ma ɔmaa no do kɔr ne nkyɛn wɔ tseaseanam no mu.,Na ɔdze ne nsa maa no; ma ɔmaa no do kɔr ne nkyɛn wɔ tseaseanam no mu.,0.0,0.0
+381,"Libna, Eter, Asan; Ifta, Asna, Nezib; Keila, Akizib nye Maresa; nkurow akron nye no nkuraase.","Lebana, It Asan, Ifta, Asna, Nezib, Keila, Akizib nye Maresa; nkurow akron nye no nkuraase.",0.1333,0.0714
+382,"Na ahemfo yi nyinara nye hɔn asaase no, Josua gyee no aber kor mu, osiandɛ EWURADZE, Israel Nyankopɔn no, koe maa Israel.","Na ahemfo nyinara nye wɔn asase no Johugen abikurom,Osian dɛ EWURADZE Israel Nyankopɔn no koni maa Israel.",0.5,0.1684
+383,wɔ ebufuw na ebufuwhyew mu.,wɔ ebufuw na ebufuwhyew mu.,0.0,0.0
+384,"Nyew, ebɛyɛ dɛ nyia ɔda epo finimfin.",O ebɛyɛ dɛ nea ɔda po fimfini,0.5714,0.3448
+385,"Wosi atwetwe, na ndzebɔnyɛ mu wɔka nhyɛdosɛm: Wɔka ekromponsɛm.",Wosi tsitsiae bɔnefo mu wɔka nhyɛdosɛm: Wɔka ekromponsɛ,0.4444,0.25
+386,Ɔhen Lemuel ne nsɛm; nkɔnhyɛsɛm a ne na dze kyerɛɛ no no.,Ɔhen Lemuel ne nsɛm; nkɔnhyɛsɛm a ne na de kyerɛ no.,0.25,0.0909
+387,Nna osii mu kɔree kɛyɛɛ dɛ mbrɛ EWURADZE n’asɛm tse: osiandɛ osii mu kɔree kɛtsenaa ɔwora Kerit a ɔwɔ Jordan enyim no ho.,"no na osii mu kɔree kɛyɛɛ dɛ mbrɛ EWURADZE, na asɛm te osiandɛ osii mu kɔree kɛtsenaa ɔra Kerit a ɔwɔ Jordan ne nim no.",0.3913,0.0938
+388,"Na eha ara na w’asorɛkye ntsɛntsɛn no mbegyina, no?",na ɛha ara na wasorɔkyeɛ ntsantsan no mbegyina no,0.3333,0.125
+389,"Sen nyia ɔkyea wɔ n’akwan mu, kansɛ ɔyɛ obirɛmpɔn mpo a.",Sen nyaa ɔkye wɔ n'akɔnmu kansɛ ɔyɛ ɔberempɔn pa,0.6364,0.2093
+390,Siw wo nan kwan ma no ho annda hɔ.,Sɛ wo nan kwan ma no ho na wɔ.,0.3333,0.24
+391,"Afei ɔsɔfo Immer ba Pasur a ɔyɛ EWURADZE fie ɔsomfo otsitsir no, ɔtsee dɛ Jeremia rehyɛ yinom ho nkɔm.","Afei ɔsɔfo Emil baa Pusa ɔyɛ EWURADZE fi ɔsomfo otsitsir no, ɔtsee dɛ Gyemirehyɛ yinom ho nkɔm.",0.3684,0.1463
+392,"na etsetseew wo nkyehoma mu; na ɔwo ekaa dɛ, Monnkɔsom.",na etsetsɛw wo nkyehoma mu; na ɔwo eka dɛ mo nkɔso.,0.4,0.1163
+393,Nna owui dɛ mbrɛ EWURADZE n’asɛm no a Elija kae no tse.,Na owu de brɛ EWURADZE n'asɛm no a Elija kae no tse.,0.3333,0.0952
+394,"Na ɔbɔɔ afɔr na ɔhyeew eduhuam wɔ mbea sorɔnsorɔm no do, na akoko do, na dua momon biara ase.","Na ɔbɔɔ afɔr na ɔhyew eduhuam wɔ mbea sorɔnsorɔm no do, na akoko do, na dua mommu no biara ase.",0.1579,0.0556
+395,Aso Judahen Hezekia na Judafo nyina kum no?,Aso dwoda hen Zikia na Judafo nyina kum no.,0.375,0.1714
+396,Anaa ɔbɛtsena wo mbowa edzidzidaka ho?,Anaa ɔbɛtsena wo mmoa edzidzidaka ho,0.1667,0.0625
+397,Ampaara no nkwagye bɛn hɔn a wosuro no no; Ama enyimnyam aatsena hɛn asaase do.,"Ampaara no nkwagye bɛn hɔn a wɔso no no, ama enyimnyam atsena hɛn asaase do.",0.1333,0.0635
+398,Na Siriahen Hazael tseetsee Israel wɔ Jehoahaz ne nda nyinara mu.,Na Siriahen Haziel tseetsee Israel wɔ Jehoahaz ne nda nyina mu.,0.1818,0.0556
+399,"Obiara a odzi mbra do no, ɔyɛ ɔba nyansafo: Na nyia ɔnye etumfur fa nyɛnko no, ogu n’egya n’enyim ase.","Obiara a odzi mbra do no, ɔyɛ ɔba nyansafo: Na nyia ɔnye etumfo fa Nyankon, ogu n'egya n'enyim ase.",0.15,0.0519
+400,Na Jonatan ne ba nye Merib-baal; na Merib-baal woo Mika.,Na Jonatan ne ba nye Meribaal na Meribaal woo Mika.,0.2,0.0465
+401,Na Moses dze egyapadze maa Manaasɛ ebusuakuw fa no: na ɔyɛɛ Manaasɛmba ebusuakuw fa no dze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,Na Moses dze egyapadze maa Manaasɛ ebusuakuw fa na ɔyɛ Manase ba ebusuakuw fa no dze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,0.1818,0.0588
+402,"Na afei ɔtoo wo yi dze, ɔwo atɔ bahaw.","Na afei ɔtoo wo yi dze, ɔwo atɔ bahaw.",0.0,0.0
+403,"Na Josua see Israelmba no dɛ, Hom mbra ha mbetsie EWURADZE hom Nyankopɔn ne nsɛm.","Na Josua see Israelmba no dɛ, Hom mbra ha mbetsie EWURADZE hom Nyankopɔn ne nsɛm.",0.0,0.0
+404,Na Adonija na n’aponto asefo no a wɔwɔ ne nkyɛn no nyinara tsee wɔ aber a wowiee edzidzi no.,Na Adoniya aponta efo no a wɔwɔ ne nkyɛn no nyinara tsee wɔ aber a wowiee edzidzi n,0.2632,0.0972
+405,Ma w’enyiwa nhwɛ w’enyim kan ara.,Ma wɔnnyina nhwe wonyim kan ara.,0.5,0.2
+406,"Na ɔhohoor ayamudze nye ntwɛr no ho, na ɔhyeew no wɔ ɔhyew afɔr no do wɔ afɔrmbukyia no do.",Na ɔhohoor ayamudze nye ntwa no ho na ɔhyew no wɔ ɔhyew afɔr no do wɔ afamu kyea no no do.,0.2632,0.1268
+407,Na ɔhen Solomon dze sika a wɔabor yɛɛ akyɛm akɛse ahaenu: sika a wɔabor dwetɛbona ahaesia na ɔdze duraa kyɛm kor ho.,"Na ɔhen Solomon de sika a wɔabor yɛɛ akyɛm akɛse ahanu, sika a wɔabor dwetɛbona ahaesia na ɔdze duraa kyɛm kor ho.",0.0909,0.0215
+408,"Nna Solomon sii mu kɔr Ezion-geber, na Elot, wɔ mpoano wɔ Edom asaase do.",Nna Solomon sii mu kɔr Ezion Geber na Elowɔ mpoano wɔ Edom asaase do.,0.2857,0.0179
+409,"Na ɔbaa dɛ mfe eduonu a Solomon dze sisii EWURADZE ne fi, na nankasa ne fi, n’ewiei no, nna nkurow a Huram dze maa Solomon no, Solomon kyekyeree, na ɔmaa Israelmba kɛtsenatsenaa hɔ.","Na ɔbaa dɛ mfi eduonu a Solomon dze sisii EWURADZE ne fi, na nankasa ne fi, n'ewiei no, na nkurow a Huram dze maa Solomon no, Solomon kyekyeree, na ɔmaa Israel batan hɔ.",0.1212,0.0915
+410,"Na ɔhen no daan n’enyi, na ohyiraa Israel mboanofo nyinara: na Israel mboanofo no nyinara gyinagyinaa tsentsen.","Na ɔhene no dan n'enyi, na ohyiraa Israel mboanofo nyinara: na Israel mboanofo no nyinara gyinagyina tenten.",0.2353,0.0549
+411,Judamba afamu dze no mu na Simeonmba egyapadze fi: osiandɛ Judamba kyɛpɛn no dɔɔ so dodow ma hɔn: dɛm ntsi Simeonmba nyaa egyapadze wɔ hɔn egyapadze no mu.,"Juda bafom dzi no mu na Simeon egyapadze fi: osiandɛ Judamba ɛpɛn no dɔɔso dodo ma hɔn, dɛ minsisii bɛnya egyapadze wɔ hɔn egyapadze no.",0.4643,0.176
+412,na mpanyindzifo ahempoma so; nyia ɔdze ebufuw bobɔɔ aman.,na mpanyindzifo ayekoma so nyaa ɔdze ebufuw bobɔɔ ɔman no,0.4444,0.1489
+413,"Na Jehoahaz paa EWURADZE kyɛw, na EWURADZE tsiee no: osiandɛ ohun Israel hɔn atseetsee, mbrɛ Siriahen no sii tseetsee hɔn.","Na Jehoas paa AWURADE kyɛw, na EWURADZE tsee no, osiandɛ ohun Israel hɔn atseetsee, mbrɛ siria heno sii tseetsee hɔn.",0.25,0.0707
+414,"Na ɔbɛba wɔ da no mu dɛ n’adzesoa beyi efi wo batsir do, na kɔndua efi wo kɔn ho, na kɔndua no asɛɛ wɔ seradze no ntsi.","Na ɔbɛba wɔdaano mu dɛ n'adzesoa beyi efi obetsiw do, na kɔndua efi okɔn ho, akondwa asɛ wɔ sradze ne ntsi.",0.4815,0.1461
+415,"Na osiandɛ onnyi ba ntsi, Joram hyɛɛ ase dzii hen wɔ n’ananmu wɔ Judahen Jehosafat ne ba Jehoram n’afe a otsia ebien no mu.","Na osiandɛ ɔnye bɛnti, Joram hyɛɛ ase dzii hen wɔ nanim wɔ Judahen Jehosafat ne ba Jehoram n'afe a otsia ebien no mu.",0.1667,0.0833
+416,"Naaso merenntsew ahendzi no nyinara; na medze ebusuakuw kor bɛma wo ba, osian m’akowaa David, na Jerusalɛm a masan mu meyi no ntsi.","Nanso merente ahendzi no nyinara, na dze ebusuakuw kor bɛma wo wɔ ba, osian makoa David, na Jerusalɛm a masan mu meyi no nti.",0.2609,0.1058
+417,na wo mbɛntasanku dede no; wɔasɛw nsaamaa mpa dɛ wɔ w’ase.,Na wo bentse sanku dedan w'asansa mba mpaeda w'ase.,0.7273,0.3333
+418,"Iyi nye Reubenmba no hɔn egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow no nye no nkurobaase.","eye nye Ruben ba no hɔn egyapadze dɛ mbrɛ hɔn ebusua busua tsetsee, nkurow no nye no nkurobaase.",0.2353,0.0625
+419,"Nyia otwuw nyimpa enyim no, n’ekyir no obenya enyimpa.","Nyia otwa nyimpa enyim no, ne ti no obenya enyimpa.",0.3333,0.1163
+420,"Na ɔbaa dɛ, aber a Solomon yɛɛ akɔdaa no, ne yernom daan n’akoma kedzii enyame fofor ekyir: na n’akoma enndzi mu wɔ EWURADZE ne Nyankopɔn ho, dɛ mbrɛ n’egya David n’akoma tse.","Na ɔbaa dɛ aber a Solomon yɛɛ akɔdaa no, ne yernom daan n'akoma kedzii enyame fofor ekyir, na nakoma ndzi mu wɔ EWURADZE ne Nyankopɔn ho, dɛ mbrɛ n'egya David n'akoma tse.",0.0312,0.0148
+421,"Na ɔtseaa mu frɛɛ EWURADZE see dɛ, EWURADZE, me Nyankopɔn e, ana edze mbusu aba okunafo yi so a mabɔsoɛ ne nkyɛn yi do, dɛ iruboku ne ba?","Na ɔteaa mu firi EWURADZE see dɛ, EWURADZE, me Nyankopɔn e, ana edze mbusu aba okunafo yi so a mabɔsoɛ ne nkyɛn yi do, dɛ Eruboku na ba",0.1429,0.0571
+422,"Balaam, Beor ne babanyin, ɔsebramunyi no so, Israelmba dze afona kum no foraa hɔn atɔfun nkaa no mu.","Balme ne mbabanyin ɔsebi no so, Israelmba dze afona kum no foraa hɔn atɔfun nkaa no mu.",0.2222,0.1519
+423,"Yɛ hɔn dɛ Midian; Dɛ Sisera, dɛ Jabin, wɔ Kison esutsen ho: Wɔherae wɔ En-dor; Wɔyɛɛ efikyir maa asaase.","Yehondɛ median de Sisera dɛ Jabin, wɔ Kison esutsen ho: wɔ ha wɔ Endor, wɔyi efiti ma asase.",0.5789,0.1772
+424,Asen nyia ɔdze ne tɛkyerɛma dzɛfɛdzɛfɛw no.,Asi nye ɔdze ne tɛkyerɛma dzefedzefɛ no.,0.4286,0.2222
+425,Na hɛn nda nyinara etwa mu kɔ wɔ w’ebufuw mu: Hɛn mfe ba ewiei dɛ ahomgu.,Na hɛn dɛ nyinara etwa mu kɔ w'ebufuw hɛn fi ba ewiei dɛ ahomgu.,0.25,0.1455
+426,a nsisi abrambo wɔ mu wɔ ne nsamu no bem anaa?,a nsisi abrambo wɔ mu wɔ ne nsamu no bi ma anaa?,0.1818,0.0571
+427,"Dɛm ntsi Josua hyɛɛ asɔfo no, dɛ, Hom mfi Jordan mu mbra.",Dɛm ntsi Josua hyɛɛ asɔfo no dɛ huumi Jordan mu mbra.,0.1667,0.0698
+428,"Mfe ebiasa na ɔdze dzii hen wɔ Jerusalɛm: na ne na ne dzin dze Maaka, Absalom ne babaa a.","Mfeɛ baasa na odzidzii hen wɔ Jerusalɛm: na ne na ne dzin dze Maaka, Absalom ne babaa",0.2632,0.0735
+429,"Ɔhen a onnyi ntseasee no, na ɔhyɛ atseetsee kɛse so: Na nyia okyir enyiber no dze, ɔbɛma ne nda awar.","Ɔnye na onyinsese no, na ɔse atseetsee kɛse so: na nyia okyir nyi bi no dze, ɔbɛma ne da awar.",0.4,0.1667
+430,"Ɔyɛ etsiɔdzen wɔ ne mba do, dɛ gyama wɔnnyɛ nedze: Kaansa ne berɛ yɛ gyan mpo a, ɔmmfa no ho; Osiandɛ Nyankopɔn ama nyansa abɔ no.","Oye sɔde wɔ namba do, dɛ gyama wɔnnyɛ no dze, kansa ne berɛ yɛ gyan mpo a, ɔmfa no ho, osiandɛ Nyankopɔn ama nyansa abɔ no,",0.3077,0.1
+431,"Me ba, dzi ewo, na oye; Na wokyɛm a ɔyɛ w’anomu fenemfenem no: Ɔno na ibohu nyansa dze ama wo kra: Sɛ inya ihu a, nna ibenya akatua.","Me ba, dzi ewo, na oye; Na wokyɛm a ɔyɛ wo no fimfen no, ɔno na ibohu nyansa dze ama wo kra, sɛ nya nhua nna ibenya akatua.",0.2143,0.1031
+432,"Mpɛn ebiasa na Joas dzii no do konyim no, na ɔdaan Israel nkurow no bae.","Mpen ebaasa na Joas dzii no do konyim no, na ɔdaan Israel nkurow no bae,",0.1333,0.0357
+433,Na Safan kenkaan no wɔ ɔhen no enyim.,Na Safan kenkaan no wɔ ɔhen enyim.,0.125,0.069
+434,Na Moses dze egyapadze maa Manaasɛ ebusuakuw fa no: na ɔyɛɛ Manaasɛmba ebusuakuw fa no dze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,Na Moses dze egyapadze maa Manaasɛ ebusuakuw fa na ɔyɛ Manase ba ebusuakuw fa no dze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,0.1818,0.0588
+435,Aso Judahen Hezekia na Judafo nyina kum no?,Aso dwoda hen Zikia na Judafo nyina kum no.,0.375,0.1714
+436,"Na Jehoiada dze ahyɛmu too EWURADZE na ɔhen no na ɔman no ntamu, dɛ wɔnyɛ EWURADZE ne man; na ɔdze too ɔhen no na ɔman no so ntamu.","Na Jehoiada dze ahyɛmu too EWURADZE na ɔhen no na ɔman no ntamu, dɛ wɔnyɛ EWURADZE ne man, na ɔdze too ɔhen no na ɔman no so ntam",0.0357,0.0099
+437,"Na Kaldeafo no bɛba bio, na wɔnye kurow yi abɔko, na wɔbɛgye na wɔdze gya ahyew no.","Na Kaldeafoɔ no bɛba bio, wɔnyi kuro yi abɔko, na wɔbɛgye na wɔdze gya ahyew no.",0.2353,0.0781
+438,Dɛ mbrɛ akowaa hwehwɛ nwinwin enyiberdo.,Dɛ mbrɛ akowaa hwehwɛ nwinwin enyiberdo.,0.0,0.0
+439,Na ne babanyin Manaasɛ dzii hen wɔ n’ananmu.,Na ne babanyin manase dzii hen wɔ nanim.,0.25,0.1429
+440,Wɔdzedze ndwetɛbona robɔsom; Ɔno na ɔabɔ aman a wɔpɛ akodzi no apetse.,Wɔdzedze dwetɛbona robɔsom; Ɔno na ɔabɔ aman a wɔpɛ akodzi no apetse.,0.0833,0.0175
+441,"Hwɛ, aber a ɔwo nye ɔhen da ho rekasa wɔ hɔ no, mo so mibedzi w’ekyir maba, na mabɛhyɛ wo nsɛm no ma.","yabra ɔwo nye ɔhen da ho rekasa wɔ hɔn mosom mebei maba, na mabɛhyɛ wo nsɛm no ma.",0.3913,0.1892
+442,Mekyerɛ Judahen Asa n’afe a otsia ebiasa no mu na Baasha kum no na odzii hen wɔ n’ananmu.,"Mekyerɛ Judahen Asa na fia otsia ebiasa no no mu, na Bahekum no, na odzii hen wɔ n'ananmu.",0.2778,0.087
+443,"Nankasa ɔbɔtɔ noara no mona no mu: Na hɔn a wodzi mu no dze, wobenya papa edzi.","Nankasa ɔbɔtɔ nara ne mu na no mu, na hɔn a wodzi mu no dze, wobenya papa edzi.",0.2353,0.05
+444,"Na Amori ahemfo beenum yi guanee, na wɔdze hɔnho kosumaa Makeda ɔbo tu no mu.","Na Amori ahemfo beenum yi guanee, na wɔdze hɔnho kosumaa Makeda ɔbo tu no mu",0.0,0.0
+445,Etsipaa aba Gaza do; Ashkelon ataa dzinn.,Etsipaa aba Gaza do; Ashkelon ataade.,0.2857,0.1212
+446,"Ɔtse botan do, na ɔwɔ ne dabew wɔ hɔ.",Ɔtse botan no na ɔwɔ ne dabew wɔ hɔ.,0.1111,0.037
+447,Na ne nsa nyimfa mu ngo sɔnsɔn.,Na ne sɛ ne mfra ngo sɔnsɔn.,0.4286,0.2917
+448,"Na wɔkasaa Jerusalɛm Nyankopɔn no ho, tse dɛ, asaase do aman enyame no a wɔyɛ nyimpa nsaano edwuma no ho.",Na wɔkasaa Jerusalɛm Nyankopɔn ho tse dɛ asaase do aman enyame no a wɔyɛ nyimpa nsaano edwuma no ho.,0.05,0.0241
+449,"Na Jeroboam ne yer no soɛree sii mu, na ɔbaa Tirza: na obodur ofi no n’apondua ase dze no do ara nna abofra no wui.","Na Jeroboam ne yɛn sare si mu, na ɔbaa a tilaa obodu ofi no n'apondua ase dze no do ara na abofra no wui.",0.32,0.1494
+450,"Ma Nyankopɔn nsoɛr, ma n’atamfo mpetse; Ma hɔn so a wɔtan no no mfi n’enyim nguan.","Ma Nyankopɔn nsɔr, ma n'atamfo mpetse; na hɔn so a wɔtena no mfi ne nim guan.",0.4375,0.129
+451,"Na wɔkaa kyerɛɛ ɔhen no, dɛ, Hwɛ, nkɔnhyɛnyi Natan aba wo hɔ.","Na wɔkaa kyerɛɛ ɔhen no dɛ, hwɛ, nkonhini ten aba wo hɔ",0.1667,0.1522
+452,"Na wi siankae wɔ sor finimfin, na ɔannyɛ ntsɛm annkɔtɔ bɛyɛ adzekyeekwansin mu.",Na wisa nkaa wɔ So fine mfinmna wanyansaankɔtɔ bɛyɛ adzekyeekwansin o.,0.6923,0.2154
+453,wɔ ebufuw na ebufuwhyew mu.,wɔ ebufuw na ebufuwhyew mu.,0.0,0.0
+454,"Na hwɛ, hɔn a wɔnye wo ntamu twe no wɔbɛsɛɛ: Ɔwo asɛɛ hɔn a wofi wo nkyɛn kɔgor ndwamangor nyinara.","Na hwɛ, hɔn a wɔyɛ ntemtem wɔbɛsɛ ɔwo afe hɔn a wofi wo nkyɛn kɔgu womaganyinaara.",0.5,0.2857
+455,Ohim no dua dɛ nkyindur ndua: Ne nserɛ mu ntsin so pempam ho.,Ohim me dua dɛ nkyimuru ne nsamu ntenso pempam ho.,0.5385,0.2553
+456,Na mbrɛ EWURADZE se Judamba nye Jerusalɛmmba nye yi.,Na mbrɛ EWURADZE se Judamba Jerusalɛm ba nyi.,0.4444,0.1395
+457,"Afei Rehoboam no ho nsɛm nkaa, na dza ɔyɛe no nyinara, ana wɔnnkyerɛɛw no wɔ Juda ahemfo hɔn Mbermunsɛm nwoma no mu?","Afei wobom no ho nsɛm nnkaa na zaa ɔyɛɛ no nyinara, ana wɔnkyerɛw no wɔ Juda ahemfo hɔn mber mu nsɛm ho man mu.",0.4545,0.1413
+458,"Abaa na nkaenyim ma nyansa: Na abofra a wɔato pansam dze, ɔhyɛ ne na enyito.","Abaa na nkaenyim ma nyansa: Na abofra a wɔato pansam dze, ɔhyɛ ne na ne to",0.1333,0.0508
+459,"Ao onyimpa, wɔakyerɛ wo dza oye; na ebɛnadze bio.","Ao onyimpa, wɔakyerɛ wo dza oye; na ebɛnadze bio",0.0,0.0
+460,"Na ɔnantsewee wɔ n’egya no bɔn a ɔyɛe no wɔ n’enyim no nyinara mu: na n’akoma enndzi mu wɔ EWURADZE ne Nyankopɔn enyim, dɛ n’egya David n’akoma.","Na ɔnantsewee wɔ n'egya no bɔn a ɔyɛe no wɔ n'enyim no nyinara mu, na n'akoma enndzi mu wɔ EWURADZE ne Nyankopɔn enyim, dɛ n'egya David n'akoma.",0.0,0.0
+461,na innkowie yie wɔ hɔn mu.,Na kowiee wɔ wɔn mu.,0.5,0.3
+462,Mbrɛ abow twa noho apontsɛr do no.,Mbrɛ Abu twa no ho apontsɛdo no.,0.5714,0.1111
+463,"Ɔno na mohwɛe, na modwendwen ho yie: Muhunii, na mefaa mu nyansa.","Ɔno na mohwɛe, na modwendwen ho yie: no ho ni na mefaa mo nyansa.",0.3333,0.1
+464,Nyia ɔda ho nam n’afɔdzi mu ne tsir a woesie no tsimum no a.,Nyia ɔda honam n'afɔdzi ne tsir a woesiesie nkyemu mu na.,0.5714,0.2444
+465,"Na mobɔbɔ kurow yi mu atsefo, nyimpa na mbowa nyina: na ɔyardɔm kɛse bɛma woewuwu.","Na mobɔbɔ kurow yi mu atsefo, nyimpa na monyinaa na ɔyardɔm kɛse bɛma woewuwu.",0.1333,0.0615
+466,"Nkyii so yennyi egyapadze wɔ Jesse ne ba no mu: Israel e, hom nkɔ hom asesee mu oo: afei David, hwɛ wankasa wo fie.","Enti so, gye nye egyapadze wɔ gye si ne ba no mu, Israel, hom nkɔ mma sisii mo afei David, hwɛ wankasa wo fie.",0.4167,0.2184
+467,"Na aber a Joab tsee abɛn no ndze no, obisaa dɛ, Kurow no mu dede yi a ayɛ dɛ abɔ ebutuw yi ase nye dɛn?","Na aber a Joas abɛn no ndze no, obisaa dɛ, kuro no mu dede yi a ayɛ dɛ abɔ ebutu yi ase nye dɛn?",0.16,0.0789
+468,Na kyɛfa a otsia ebien no bae maa Simeonmba ebusuakuw no dɛ mbrɛ hɔn ebusua ebusua tsetsee: nye hɔn egyapadze wɔ Judamba egyapadze no mu.,Na kyɛfa otsia bie no bae maa Simeonmba ebusuakuw no dɛ mbrɛ hɔn ebusua ebusua tsetsee: nye hɔn egyapadze wɔ Judamba egyapadze no.,0.12,0.045
+469,Na ɔyɛɛ dza omuo wɔ EWURADZE enyi do; oemmfi Nebat ne ba Jeroboam no bɔn nyinara a ɔdze maa Israel yɛɛ bɔn no ho emmfi: na ɔnantsewee wɔ mu.,"Na ɔyɛɛ dza a ɔmɔ wɔ EWURADZE enyi do, wɔnfinabat ne ba Jeroboam no bɔn nyinara a ɔdze maa Israel yɛɛ bɔn no ho mfi, na ɔnantsewee wɔ mu.",0.1724,0.1009
+470,Na mbrɛ EWURADZE se nye yi: Asaase no nyinara bɛyɛ amamfo; naaso murunnwie no korakora.,"Na mbrɛ EWURADZE se yi, asase no nyinaa bɛyɛ amamfo nanso morewie no korakora.",0.3333,0.1429
+471,"Na EWURADZE yii noho kyerɛɛ Solomon anadwe, na ɔsee no dɛ, Matse wo mpaabɔ, na masan mu eyi bea yi ama moho dɛ afɔrbɔ fie.","Na AWURADE yi kyerɛɛ Solomon anadwe, na ɔsee no dɛ, Matse wo mpaabɔ, na masan mu eyi beyi ama mo ho dɛ afɔrbɔ fie.",0.28,0.0851
+472,"Woana na ɔtse dɛ ɔwo, Nyankopɔn a edze emumuyɛ kyɛ.","Wɔn a na ɔtse dɛ ɔwo, Nyankopɔn a edze emumuyɛ kyɛ.",0.2,0.05
+473,"Jordan Tɛtɛr mu hɔ na ɔhen no gui, wɔ hyirew daadze mu wɔ Sukɔt na Zereda ntamu.","Jordan tete lɔ na ɔhen no gui, wɔ Serew daadze mu wɔ Sukɔt na Zera da ntam.",0.4118,0.1774
+474,"Na asɔfo no enntum annhɛn EWURADZE ne dan no mu, osiandɛ EWURADZE n’enyimnyam no ahyɛ EWURADZE ne dan no ma.","Na ɔsɔfo nntum ahɛn EWURADZE ne dan no mu, osiandɛ EWURADZE n'enyimnyam ahyɛ EWURADZE ne dan no ma.",0.25,0.093
+475,"Dɛm ntsi asafohen no somaa Jehudi a ofi Kusi ebusua mu no wɔ Baruk hɔ, dɛ, Fa nwoma mbobɔwee no a akenkan mu nsɛm wɔ ɔman no asomu no kitsa wo nsamu bra.","Dɛm ntsi asafohen somaa yehudi a ofi Kusi ebusua mu, na wɔba hɔ dɛ sɛ wɔma mmɔbɔɔ na akenkan mu nsɛm no wɔ man no asom Kitawonsa bra.",0.5152,0.2203
+476,"Nyew, me nsɛbɛ ho bɛsɛpɛw no.",O me nsa bɛhu bɛsɛpɛ no.,0.6667,0.3182
+477,"Ao Nyankopɔn, soɛr ɛ, bu asaase atsɛn; Na ɔwo na ibedzi adze wɔ amanaman nyinara mu.","Ao Nyankopɔn, sɔre, bu asaase atsɛn; na ɔwo na ebedzi adze wɔ amanaman nyinaa mu.",0.25,0.0769
+478,Ɔkyenkyen ansaana efuw biara akyenkyen: Mbrɛ hɔn a hɔn werɛ fir Nyankopɔn nyinara hɔn akwan tse nye no; Na nyaatwomnyi n’enyidado bɛhera: N’enyidado botwitwa.,"Ɔkyenkyen ansa na ɛfi biara kyenkyen, ɛmbra hɔn a hɔn we firi Nyankopɔn nyinara hɔn akwan tse nye no, na nyaatwomnyi n'enyidado bɛhera: na enyidado botwitwa.",0.375,0.0853
+479,"Na Asa kɔr ne nsamankyir, na wosiee no wɔ n’egyanom nkyɛn wɔ n’egya David kurow no mu: na ne babanyin Jehosafat na odzii hen wɔ n’ananmu.","Na Asa kɔr ne nsamankyir, na wosiee no wɔ n'egyanom nkyɛn wɔ n'egya David kurow no mu, na ne babanyin Jehosafat na odzii hen wɔ nanim.",0.0385,0.0283
+480,"Afei Asa no ho nsɛm nyinara, na ne ndam nyinara, na dza ɔyɛe nyinara na nkurow a ɔkyekyeree no, ana wɔnnkyerɛɛw no wɔ Juda ahemfo hɔn Mbermunsɛm nwoma no mu a?","Afei Asa no ho nsɛm nyinara, na ne nda mu nyinara, na dza ɔyɛe nyinara, na nkurow a ɔkyekyeree no, ana wɔnnkyerɛɛw no wɔ Juda ahemfo hɔn mber mu nsɛm mu no mu.",0.2258,0.048
+481,"Na mosomaa Moses nye Aaron, na mehaaw Egypt, dɛ mbrɛ dza meyɛe no wɔ mu no tse no: na n’ekyir no miyii hom puei.","Na mosomaa Moses nye Aaron, na mehaaw Egypt, dɛ mbrɛ dza meyɛɛ no wɔ mu no tse; na n'ekyir no miyii hom pue.",0.125,0.0476
+482,"Ekron, ɔnye no ho nkurow nye no nkuraase: ofi Ekron araa dze kodu po no ho, dza ɔwɔ Ashdod nkyɛnmu nyinara, ɔnye no nkuraase.","AKOƆnyeno ho nkurow nye no nkuraase: ofi Ekron araa dze kodu po no ho, dza ɔwɔ Astonkyɛnmu nyinara, ɔnye no nkuraase.",0.2083,0.0619
+483,"Na ɔbɛba da no mu dɛ, Israel nkaa no nye Jakob fi mu hɔn a woefi nsa no nnkɔtwer nyia ɔbobɔɔ hɔn no bio: na wɔbɔtwer EWURADZE, Israel Krɔnkrɔnnyi no nokwar mu.","Na ɔbabaa dan mu dɛ, Israel nkaa nye Jakob fi mu hɔn a woefi nsa no nnkɔtwer nyia ɔbobɔɔ hɔn no bio: na wɔbɔtwer EWURADZE, Israel kronkron nyin nokwarem.",0.25,0.0806
+484,Na ɔsomaa eduonum do safohen fofor so nye n’eduonum wɔ no hɔ bio.,Na ɔsoma eduonum do safohen fofor so nye eduonum wɔ no ho bia,0.3077,0.0784
+485,na enantsew hɔn apam mu: mebɛma aayɛ amamfo.,na enantsew hɔn apam mu: mebɛma ayɛ amamfo.,0.125,0.0286
+486,Nna Jeremia frɛɛ Neria ba Baruk; na Baruk kyerɛɛw EWURADZE nsɛm a ɔkaa kyerɛɛ Jeremia nyina fir n’anomu hyɛɛ nwoma mbobɔwee no mu.,"""Ne Jeria frɛɛ ne Ewia ba Baruk, na Baruk kyerɛw EWURADZE nsɛm a ɔka kyerɛɛ Yemanyinaa fi n'anum hyɛ wo ma mobɔwe nom.",0.6522,0.2
+487,"na ɔnye me nyansaa so, osiandɛ meyɛ ɔbadwembafo: na matwe aman no hɔn ahe no.","Na ɔnye nyansa so, osiandɛ meyɛ ɔbadwembafo: na matwe aman no hɔn ahe",0.2,0.0833
+488,"Mbom, hom mma ɔkwan a wosusu a ɔbɛyɛ basafa apem nda hom nye ahyɛmudaka no ntamu: na mma hom mmbɛn no.",Mbom hom mma ɔkwan a wosusu a ɔbɛyɛ basafa apem nda hom nye ahyɛmudaka no ntamu: na mma hom mba no.,0.0476,0.038
+489,"Na ɔbaa dɛ, Israelmba no ho yɛɛ dzen no, wɔhyɛɛ Keenanfo no ma wɔyɛɛ ɔsom edwuma mu, na mbom woenntu hɔn ase korakora.","Na ɔbaa dɛ Israelmba no ho yɛɛ dzen no, wɔhyɛɛ Kanaanfo no ma wɔyɛɛ ɔsom edwuma mu, na mbom we ntun ase korakora.",0.1304,0.0761
+490,"Hwɛ, iyi na yɛahwehwɛ mu ehu, na mbrɛ ɔtse nye yi; Tsie ɛ, na ɔwo so hu fa ma woho.","Hwɛ, iyi na yɛahwehwɛ mu ehu, na mbrɛ ɔtse nye yi sɛɛ, na ɔwo so hu fa ma wo ho,",0.2,0.0508
+491,"Aber a obui faa do, dɛ gyama ofi yafun mu rupue no; Aber a medze mununkum yɛɛ n’akataho.","Aber a obui faa do, dɛ gyama ofi yafun mu rupue no, aber a medze mununkum yɛɛ n'akataho.",0.0,0.0
+492,"Na okum ɔhyew afɔr no; na Aaron ne mbabanyin no dze bɔgya no kɛmaa no, na ɔdze petsee afɔrmbukyia no do hyiae.","Na okum ɔhyew afɔr no, na Aaron ne mbabanyin no dze bɔgya no kaman na ɔdze petsee afɔbɔkyɛ no do hyiae.",0.1364,0.093
+493,dɛ ɔbaa roko awoo: na afei ibefi kurow no mu epue.,"Dɛ ɔbaa kwa wo, na afei ibefi kurow no mu epue",0.1818,0.1053
+494,EWURADZE na ɔse: na mobɔsɔ gya wɔ no kwaa mu.,EWURADZE na ɔse: na mɔso gya wo ne kwe u,0.5,0.2353
+495,"Na da a wodzii asaase no do eburow dadaw no, adzekyee no ara nna manna no siankae; na Israelmba no ennya manna bio; mbom wodzii Keenan asaase no do ndɔbaa wɔ afe no mu.","Na da a wodzii asaase no do eburow dadaw no, adekyee no ara na manan sanka na Israelmba no ennya mma na bio; mbom wodzii Kanaan asaase no do ndɔbaa afe no mu",0.2647,0.0992
+496,"Na sor bɔsu kyenkyenee no, woana na ɔwoo no?","Na soroboso kyenkyenee no, wɔn a na ɔwoo no.",0.4444,0.1471
+497,"Woyinom nye Levifo mu egyanom efiefi do etsitsir, wɔ hɔn ebusuasantsen nyina mu, nyimpa tsitsir: woyinom na wɔtsenaa Jerusalɛm.","Woyinom nye Levifo mu egyanom efiefi do etsitsir, wɔ hɔn ebusuasantsen nyina mu, nyimpa titse woyinom na wɔtsenaa Jerusalɛm.",0.0526,0.0286
+498,"Dɛm ntsi, ɔsee dɛ, afei hom ntow enyame ananaben a wɔwɔ hom mu no ngu, na hom ndan hom akoma mma EWURADZE, Israel Nyankopɔn no.","Damini wɔsee dɛ, Afei hom ntow nyame ananaben a wɔwɔ hom mu no ngu, na hom ndan mmakoma mma EWURADZE, Israel Nyankopɔn.",0.28,0.102
+499,Ohu dɛ n’eguadzi yɛ mfaso: Ne kandzea so nndum anadwe.,"rhudɛ, ne egudzi yɛmfa so, ne kandzea so ndom anadwo.",0.7,0.1429
+500,"Mohwɛe, na, hwɛ, nyimpa bi nnyi hɔ.","mohwɛe, na hwɛ, nyimpa bi ni hɔ",0.1429,0.08
+501,"Iyi nyinara nye Merarimba nkurow dɛ mbrɛ hɔn ebusua ebusua tsetsee, mekyerɛ Levifo ebusua ebusua nkaa no; na hɔn kyɛfa yɛ nkurow duebien.","Eyi na nye Merarimba nkurow dɛ mbrɛ hɔn ebusua busua tsetsee, mekyerɛ Levifo ebusua ebusua nkaa no, na hɔn kyɛfa yɛ nkurow duebien.",0.1304,0.0625
+502,"Na obuaa dɛ, Oho, nnyɛ no mu biara, na mbom dɛ EWURADZE no dɔm safohen panyin no, na afei maba.","Na obuaa dɛ, Oho, nnyɛ no mu biara, na mbom dɛ EWURADZE no dɔm safohen panyin no na afei maba.",0.0,0.0
+503,Na Solomon kyerɛɛ no ne nsɛm nyinara ano: asɛm biara ennsuma ɔhen no a ɔannka annkyerɛ no.,Na Salomo kyerɛɛ no ne nsɛm nyinara ano: asɛm biara ennsuma ɔhen no a wɔaka nkyeɛn.,0.2353,0.125
+504,"Afei medze ɔtɔ nwoma no maa Neria ba Baruk n’ekyir no, miyii mpaa maa EWURADZE, dɛ, Ao EWURADZE Nyankopɔn!","Afei medɔma no maa Neria ba Baruk n'ekyir no, miyii mpaama EWURADZE dɛ, Ao EWURADZE Nyankopɔn.",0.2632,0.0964
+505,"Amanaman yɛ weɔɔ dɛ esu pii no weɔɔyɛ: naaso ɔbɔbɔ hɔn ham, na woeguan akɔ ekyirekyir.","Anaman, yɛɛ wɔ de esi pii ne weeɛ,naaso ɔbɔbɔ hɔn ham, na woeguan akɔ ekyirekyir.",0.5,0.1618
+506,"Naaso mbea sorɔnsorɔm no dze, woennyiyi no hɔ: ɔman no kɔr do bɔɔ afɔr na wɔhyeew eduhuam wɔ mbea sorɔnsorɔm no do.","Naaso mbea sonso no dze, woennyiyi no hɔ: ɔman no kɔr do bɔɔ afɔr na wɔhyew eduhuam wɔ mbea so nsom no do.",0.1818,0.1099
+507,"abobɔ adam wɔ abrɔn mu, wɔsesɛ ho wɔ nguabɔ mu; hɔn hwɛbea tse dɛ ngyatsɛn.",abobɔ adam aboro no mu wɔsesaa,0.8,0.6552
+508,Mma mmfa ɔkyena nntuw woho; Na innyim dza eda no dze bɛba.,"Mma mfa ɔtena nto ho, na nyemedzea eda no dze bɛba.",0.5,0.2667
+509,"Na ɔbaa a ohwinhwin, wɔsɛ pɛr: Nyia ɔpɛ dɛ osianka no no, osianka mframa.","Na ɔbaa ohuhunɔsɛpɛ, nea ɔpɛ dɛ osianka no no, osianka mframa.",0.3571,0.1786
+510,"Hwɛ, menye wo enya, ɔwo a etse bɔnsa mu e.","Hwɛ, me yiwo nya wɔ esibɔnsamuy.",0.9,0.3
+511,"Ma obi nkamfo wo, na nnyɛ woara w’ano a; Ɔhɔho ei, na nnyɛ woara w’anofamfa bi a.","Ma obi nkamfo na nyɛ wɔranaɔhohwe, na nyɛ wɔra wanofafa dua.",0.7059,0.2881
+512,Asafohen no dze nwoma mbobɔwee no siee ɔkyerɛwfo Elisama ne pia no mu; na wɔkɔr ɔhen no nkyɛn wɔ abangua no do; na wɔkaa nsɛm no nyina wɔ ɔhen no asomu.,"Asafo ne Israel woma mbobowano see ɔkyerɛwfo Elisama ne pia no mu, na wɔkɔr ɔhen no nkyɛn wɔ abangua no do, wɔ kansɛm no nyinaa wɔ hen aso mu.",0.4516,0.1513
+513,Tsenenee bedzi n’enyim; Na ɔdze hɛn esi n’anamɔn kwan do.,"senee bedzi ne nyim na ɔdze hɛn esi na na man kwan do,",0.6,0.0909
+514,mo honam mu aba memma wɔ me kra no bɔn ntsi?,Mo honam mu aba mama wɔ me kra of no bɔne nti.,0.3636,0.1818
+515,Nkyii so orunnsuo ebusuyɛfo no mu nngyina.,Nkyii so orusu ebusuyɛfo no mu nyina.,0.2857,0.1429
+516,na ahomemadonyi biara do; na ɔbɛba Lebanon nkyindur a.,Na ahomemadonyi biara do; na ɔbɛba Lebanon nkyindur a,0.0,0.0
+517,"Na kurow no ho haban, nye no nkuraase no dze, wɔdze maa Jefune babanyin Kaleb dɛ n’enyadze.","Na kuro no ho haban, nyin no nkuraase no dze, wɔdze maa Jefune babanyin Kaleb dɛ n'enyadze.",0.1176,0.0423
+518,Na ɔkɔr ne nyame fie no nna hɔn a wofi nankasa ne yafun mu no bi dze afona kum no wɔ hɔ.,"Na ɔkɔ ne nyame fie no, nna hɔn a wofi nankasa ne yafunu mu no bi dze afona kum no wɔ hɔ.",0.0909,0.0303
+519,"Obiara a owiawia n’egya anaa ne na, na ɔdɛ, Ɔnnyɛ mbrato, no; Ɔno kor no ara ɔyɛ ɔsɛɛfo nyɛnko.","Obiara a ɔwew n'egya anaa ne na, na ɔdɛ, anyɛ mbrato no, ɔno koro no ara ɔyɛ ɔsɛɛfo nyɛnko.",0.1579,0.1127
+520,Na Siriahen Hazael wui; na ne babanyin Ben-hadad dzii hen wɔ n’ananmu.,Na Siriahen Hazael wui; na ne babanyin Ben-hadad dzii hen wɔ nanim.,0.0833,0.0545
+521,"Fa hɛn san si yie, ao hɛn nkwagye Nyankopɔn.",Fa hen sinseee a hen wɔ yenyankopɔn.,0.8889,0.3235
+522,Nyankopɔn Bɛsɛɛ Babilɔn.,Na Nyankopɔn bɛsɛ Babilon.,1.0,0.1905
+523,Na ɔhen Solomon dze sika a wɔabor yɛɛ akyɛm akɛse ahaenu: sika a wɔabor dwetɛbona ahaesia na ɔdze duraa kyɛm kor ho.,"Na ɔhen Solomon de sika a wɔabor yɛɛ akyɛm akɛse ahanu, sika a wɔabor dwetɛbona ahaesia na ɔdze duraa kyɛm kor ho.",0.0909,0.0215
+524,"Osiandɛ ɔwo, edze EWURADZE ayɛ wo guandɔbew!",Osiandɛ ɔwo IzeWURADZE ayɛ woanda,0.5714,0.25
+525,"Nna Hagit ba Adonija memaa noho do, dɛ, Mara na mibedzi hen; na ɔhyehyɛɛ ntseaseanam na mpɔnkɔdofo, na mbarimba eduonum a wɔyɛ n’abrampɔfo.","Nna Hagit ba Adon gya me ma no ho do, dɛ, Mara na medze hen; na ɔhyehyɛɛ ntseaseanam na mpɔnkɔdofo, na mbarimba eduonum a wɔyɛ n'abrampɔfo.",0.3043,0.0541
+526,"osiandɛ asɛɛ w’asaase, ekuku wo mamba.","Osiandɛ asɛ wasase, ekuku wo mamba.",0.3333,0.0667
+527,"Zekaria, Meselemia ne ba no, nye ehyiadzibuw no n’abowanohwɛfo.",ZEKARIA Meslemia naban nye ehyiadzibuw n'aboa no hwɛfo.,0.6667,0.1176
+528,"Na Jeroboam ne yer no yɛɛ dɛm, na ɔsoɛree na osii mu kɔr Siloh, na ɔbaa Ahija ne fie.","Na egyereboam ne yɛ no yɛɛ dɛm, na ɔsɔree na osii mu kɔr silo na ɔbaa Ahija ne fie.",0.2105,0.1406
+529,Ɔkɔm ber mu ɔbɛgye wo efi wu mu; Na akodzi mu so ɔagye wo efi afona ano; Ɔbɔkora wo efi tɛkyerɛma mpire ano; Nkyii so irunnsuro ɔsɛɛ a ɔreba.,"Ɔkɔm birim ɔbɛgye wo efi wu mu; na akodzi mu so w'agye wo efi afona no, ɔbɔ kora wo efi tɛkyerɛma mpire ano, nkyi so Erensuro ɔsɛe a ɔreba.",0.3103,0.0917
+530,"Natan bisaa dɛ, Mo wura ɔhen, ana ase dɛ, Adonija na ondzi hen wɔ w’ekyir, na ɔno na ɔntsena w’ahengua do a?","Ne tebiaa dɛ, Murohenana ase dɛ Adoniya na ondzi hen wɔ w'ekyir, na ɔno na ɔntsena w'ahengua do.",0.3636,0.125
+531,"Na Bat-seba kɔr ɔhen no nkyɛn wɔ pia mu; na ɔhen no ayɛ akɔdaa dodow; na Abisag, Sunamnyi no soom ɔhen no.",Na Batseba kɔr ɔhen ne nkyɛn wɔ Pim na ɔhen no ayɛ akwadaa dodo na Abisag Sunamni no som ɔhen no,0.3182,0.1
+532,"Na aweɔmfo safohen Nebuzaradan gyaa ɔman no mu ehiafo a wonnyi hwee no wɔ Juda asaase do, na ɔdze wenyin nture na mfuwa memaa hɔn da no ara.","Na awɛmfoɔ safohen nebusaradan gyaa ɔman no mu ehiafo a wonnyi hwee nwɔduda asaase do, na ɔdze wonntena mfuw ne mmaa hɔn da no ara.",0.3571,0.1351
+533,Hom mfa pɛrpɛryɛ ndzi abɔbɔfo na ngyanka asɛm: Hom ndzi nsɛntsenenee mma ɔmandzehunyi na ɔkɔhweaban.,Hom mfa pɛpɛryɛ ndzi abɔbɔfo na ngyanka asɛm: Hom dzi nsɛntsenenee mma ɔmandzehunyi na ɔkɔhweaban.,0.1333,0.0238
+534,"Na Judahen ne fie ho dze, hom ntsie EWURADZE n’asɛm no: David fifo e, mbrɛ EWURADZE se nye yi.","Na Yuda hene fie ho dze, hom tsie EWURADZE n'asɛm no, dabi tefo yi, Mbrɛ WURADZEsenyi.",0.5263,0.169
+535,ammbɛhyew mbrɛ obi nntum nndum no.,mahyɛ mbrɛ obi nntum doman,0.5,0.3929
+536,Nkyii so ɔnntse ɔkafo ntseatseamu no.,Nkyii so ɔnntse ɔkafo ntietia no.,0.1667,0.1935
+537,"Na aber a Hadad tsee no wɔ Egypt dɛ David nye n’egyanom akɛda, na dɔm safohen Joab so ewu no, Hadad see Farao dɛ; Gya me kwan ma monkɔ mankasa me man mu.","Na aber a Hadad tsee no wɔ Egypt dɛ David nye n'egyanom aka da na dɔm safohen Joab boso ewu no, Hadad see Farao dɛ, Jamkwanomamunkɔ Mankasa manomu.",0.3333,0.0948
+538,"Nna Pasur bɔɔ nkɔnhyɛnyi Jeremia, na ɔdze no too dua mu, wɔ Benjamin ɔponkɛse a odzi sor wɔ EWURADZE fie no mu.","Na Pasur bɔɔ nkɔnhyɛnyi gami na ɔdze no too dim, wɔ benyamin ɔpon kasaa ogyisorowɔ EWURADZE fi no mu.",0.5,0.1839
+539,"Na ɔhyeew ne hyew afɔr na n’edziban afɔr, na ohuee no nom afɔr, na ɔdze n’asomdwee afɔr bɔgyaa no petsee afɔrmbukyia no do.","Na ɔhyew ne hyia fɔr na Nesaafa, na hue no no nom afɔr, na ɔdze n'asomdwee afɔr bɔgyaa no petsee afɔrebukyia no.",0.3913,0.1667
+540,"Wɔnndze anosɛm twe ɔsomfo aso: Na sɛ ɔtse ase mpo a, ɔmmfa nnyɛ hwee.","Wɔn dze anosɛm twe ɔsomfo aso na sɛ ɔtse ase mpo a, ɔmfa nyɛ hwee.",0.2857,0.0566
+541,Ɔka mu frɛ n’akofo etsitsir: wofintsiw hɔn nantsew mu; wɔyɛ har kɔ ne fasu no ho.,Oka mu frɛ n'akofo etsitsir: wo fi ntsinhɔn nantsew mu; wɔyɛ har kɔ ne fasu no ho.,0.25,0.0323
+542,"Dɛm ntsi afei hom nyiyi Israel ebusuakuw ebusuakuw mu mbanyin duebien, ebusuakuw biara mu nyimpa baako.","Dɛm ntsi afei hom nyiyi Israel ebusuakuw ebusuakuw mu mbanyin duebien, ebusuakuw biara mu nyimpa baako.",0.0,0.0
+543,Na wɔaanndan amandzehunyi biara n’atsɛmbu enyi.,na wɔadan ama dziyibiara n'atsɛmbu enyi.,0.5,0.2
+544,"Mpɛn ebiasa na Joas dzii no do konyim no, na ɔdaan Israel nkurow no bae.","Mpen ebaasa na Joas dzii no do konyim no, na ɔdaan Israel nkurow no bae,",0.1333,0.0357
+545,ɔwonawona wɔ n’akwan do; hamu asoaso a ɔakokwaa sar do a.,"na mu na wɔ na akwan do, Habaya wakɔkɔsra a",0.9091,0.4773
+546,"Na ɔdaa famu dae wɔ ɔsɛsɛ dua bi ase; na, hwɛ, ɔbɔfo bi kaa no, na ɔsee no dɛ, Soɛr dzidzi.","Na ɔdaa afamu daa wɔ ɔsese deɛ no bi ase, na hwɛ, ɔbɔfo bi kaa no, na ɔsee no dɛ, Sɛredi",0.3333,0.2
+547,Hue w’ebufuw mbordo no gu: Na hwɛ obiara a ɔyɛ ntsɛn na brɛ no adze.,"Hue w'ebufuw mbordo no gu, na hwɛ obiara a ɔyɛ ntsɛn na brɛ no adze.",0.0,0.0
+548,Ɔwo eyi w’ebufuw nyinara kɔ: Na adan woho efi w’ebufuw ne hyeehyew no ho.,Ɔwo eyi wo abufuw nyinara kɔna adan ho efi ebufuw mu; na hyihye no.,0.7143,0.2321
+549,Ɔbɛtsena mbea a ayɛ kɛsɛɛ no do wɔ sar no do.,abasam biara a ayɛ kɛsɛɛ no do wɔ sar no do.,0.1818,0.2353
+550,"Nna Josua fi Gilgal fowee kɔree, ɔnoara, ɔnye akofo a wɔwɔ ne nkyɛn nyinara, nye mbarimba akatakyi a wɔyɛ ndam nyinara.","Nna Josua fi Gilgal fowee kɔree, ɔnoara, ɔnye akofo a wɔwɔ ne nkyɛn nyinara, nye mbarimba akatakyi a wɔyɛ ndam nyinara.",0.0,0.0
+551,"Mma nnhwehwɛ: na, hwɛ, medze mbusu bɛba adasamba nyinara do, EWURADZE na ɔse: na medze mo nkwa bɛma wo ayɛ afonam wɔ mbea a erokɔ do nyinara do.","Mahwehwɛ na hwɛ, medze musu bɛba adasamba nyinara do, EWURADZE na ɔse: na medze mo nkwa bɛma wo ayɛ afonam wɔ mbea a ɛrekɔ do nyinara do.",0.1429,0.0541
+552,"Wɔnndze anosɛm twe ɔsomfo aso: Na sɛ ɔtse ase mpo a, ɔmmfa nnyɛ hwee.","Wɔn dze anosɛm twe ɔsomfo aso na sɛ ɔtse ase mpo a, ɔmfa nyɛ hwee.",0.2857,0.0566
+553,"Woyinom na wobuu ano hɔn ebusuasantsen do wɔ hɔn nkurobaase, hɔn na David na ɔdzehunyi Samuel dze hɔn sisii hɔn nokwardzi edwuma mu.",Woyinom na wobuu ano hɔn ebusuasantsen do wɔ wɔn nkurow baase hɔna David na ɔdzehunyi Samuel dze hɔn sisii hɔn nokwardzi edwuma mu.,0.1739,0.0278
+554,Hom mfa ahoɔdzen mma Nyankopɔn: N’enyimnyam kata Israel do.,"Hom mfa ahoɔdzen me Nyankopɔn, na enyimnyam kata Israel do.",0.3333,0.0625
+555,"Wohun wo nsɛm, na midzii; na wo nsɛm yɛɛ me enyigye.","Wɔhunu wɔn nsam, na mesi na wɔnsam yɛ no enyigye.",0.7273,0.359
+556,Ɔno edze sekan bɛhyɛ wo meneba mu.,Ɔno dze sekan bɛhyɛ mine ba mu.,0.4286,0.1481
+557,"Jakob fifo, na Israel fie mu mbusua nyinara, hom ntsie EWURADZE n’asɛm: mbrɛ EWURADZE se nye yi.","Jakob fifo, na Israel fie mu mmusua nyinara, hom tsie EWURADZE n'asɛm: Mbrɛ EWURADZE se ni.",0.2353,0.0667
+558,Na mahohor me nsa ho wɔ abemdzi mu kwa; Na woeguan mo ho adzekyee nyinara.,Na mahohor me nsa ho wɔ abemdzi mu kwa; na woeguan ho adehyenra.,0.2,0.1552
+559,"Na Karea ba Johanan, na dɔm no mu asafohemfo no nyina, na ɔman no nyina, woenntsie EWURADZE ne ndze dɛ wɔbɛtsena Juda asaase do.","Na Karea ba Johanan, na dɔm no mu asafohemfo no nyina, na ɔman no nyinaa wɔn nsie EWURADZE ne ndze dɛ wɔbɛtsena Juda asase do.",0.1667,0.0495
+560,Na wɔbaa Baal fie; na Baal fie no yɛɛ ma fi tsir kɔ tsir.,"Na wɔbaa Baal fie, na Baal fie no yɛ mma fitsi kɔtsi",0.4286,0.0714
+561,"Ɔnokwafo ne nhyira bobu do: Na nyia ɔpɛ ntsɛm yɛ ɔhonyanyi no dze, ɔnnkɛfa noho tɔtrɔtɔ.","Ɔne kɔfoɔ ne nhyira bobu do: nyɛ apɛnsɛmyiɛ ɔhonyanyi no dze, ɔnkafa no ho tɔtrɔtɔ.",0.625,0.1714
+562,"ɛhɛɛ, wiadze, na hɔn a wɔtse mu nyina mpo.","Ɛhɛ, wiadze, na hɔn a wɔtse mu nyina mpo.",0.1111,0.0323
+563,Na ebufuhyewnyi ne mbrato bu do.,Na ebufuhyewnyi ne mbrato bu do.,0.0,0.0
+564,"Efa ebufuw nyaa, na wo mbɔbɔrhu na wo nokwar dɔɔ so.","Efa ebufuw nyaa, na wo bobɔe na wo nokwar dɔɔ so.",0.0909,0.125
+565,"Na Elisha see no dɛ, Kɛfa egyen na egyen menaba: na ɔkɛfaa egyen na egyen menaba brɛɛ no.","Na lashes no dɛ, Kɛfa egyen na egyen menaba: na ɔkɛfaa egyan na egyen menaba brɛɛ no.",0.1667,0.087
+566,"Na Etiopianyi Ebed-melek see Jeremia dɛ, Fa ntangow dadaw a atsetsew na esusuw no hyehyɛ w’ambɔtoadze wɔ ntampehoma no ase.",Na kyiopiniebɛd mele se yɛnmisa sɛ ntangow dadaw a atsetsew na esusow no hyehyɛ w'ambɔtoadze wɔ ntampehoma no ase.,0.35,0.16
+567,N’ase tse dɛ ntankofɛr a n’ano yɛ ndam: Ɔtwe no dɛ ewuporow tseaseanam wɔ adɛtsebir do.,Naaso tse dɛ ntankofɛr a n'ano yɛ nam ɔtwe no dɛ ewuporow tseaseanam wɔ adate bere do.,0.25,0.1029
+568,"Nna ɔdze ntampee duaa tokura mu gogoow hɔn sisii famu: osiandɛ ne dan no si kurow no ho fasu no do, na fasu no do na ɔtse.","Nna ɔdze ntampee duaa tokura mu gugu hɔn sisii famu: osiandɛ ne dan no si kurow no ho fasu no do, na fasu no do na ɔtse.",0.037,0.043
+569,Nna ɔnoara dze hɔn akɔ ɔdan etsifi na ɔdze hɔn ekosuma asaaba a wɔmmpaae bi a ɔaboaboa no yie wɔ ɔdan etsifi no mu.,Nna ɔnoara dze hɔn akɔ ɔdan etsifi na ɔdze hɔn ekosuma asaaba a wɔmpae biara a wɔaboaboa no yi yie wɔ ɔdan etsifi no mu.,0.1667,0.0879
+570,"ne ntseaseanam ne nkyirdidi, no nhwiir no kurduduyɛ ntsi.",Me nsa asan nam ne kyirdidi; no nhimekurduduyɛ ni.,0.8889,0.2766
+571,"Asaase nyina adwe, na ɔayɛ dzinn: wɔtow ehurusi ndwom.","Asaase nyina adwe, na ɔayɛ dzinn wɔto ehurusi ndwom.",0.1111,0.0233
+572,Na wo fie dakordzi ye sen apem wɔ ananabea.,Na wo fie dakordzi ye sen apem wɔ ananabea.,0.0,0.0
+573,Anaa ɔbɛtsena wo mbowa edzidzidaka ho?,Anaa ɔbɛtsena wo mmoa edzidzidaka ho,0.1667,0.0625
+574,"Nyia ɔdɔw n’asaase no, obenya edziban pii: Na nyia odzi akwasampafo ekyir no dze, obedzi hia ara yie.","Nyia ɔdɔ n'asase no, obenya edziban pii: na nyia odzi akwasampafo ekyir no dze, obedzi hia ara yie.",0.1111,0.0253
+575,na Bashan nsudur nyinara do; na mbepɔw sorɔnsorɔm nyinara.,Na Baha nsudur nyinara do; na bepɔw so nso minaa.,0.5556,0.2083
+576,Na Jordan nye ne he wɔ boka afamu.,Na Jordan nye ne he wɔ boka fam.,0.125,0.0769
+577,"Na woehue sika a wohun no wɔ EWURADZE fie no, na wɔdze ahyɛ ahwɛdofo no na edwumayɛfo no nsa.","Na woehue sika a wohun no wɔ EWURADZE fie no, na wɔdze ahyɛ ahwɛdofo no na edwumayɛfo no nsa.",0.0,0.0
+578,Wotwa mo ho hyia dɛ nsu adzekyee nyinara; Wɔbɔ mu twa mo ho kɔntɔnkrɔn.,wɔtwaa ho hyia dɛ nsu adzekyee nyinara; woabomu twam ho kɔntɔnkrɔn.,0.4286,0.125
+579,"Dɛm ntsi hom nhwɛ yie papaara, dɛ hom bɔdɔ EWURADZE hom Nyankopɔn.","Dɛm timunhwɛyie papaara, dɛ hom bɔdɔ EWURADZE hom Nyankopɔn.",0.3333,0.0943
+580,na wɔdze hɔn mpeaa abobɔ ndar: ɔman bi remma afona do nntsia ɔman bi.,Na wɔdze hɔn mpeaa abobɔ ndar: ɔman bi remma afona do nti ma no bi.,0.2143,0.0926
+581,Na ɔwo ahyɛ anankoroma a egura no dzen.,Na ɔwo ahyɛ anankoroma a egura no dzen.,0.0,0.0
+582,"Na Josua see ɔman no dɛ, Hom ntsew homho: na ɔkyena EWURADZE bɛyɛ hom mu anwanwadze.","Na Josua see ɔman no dɛ, Hom ntsew homho: na ɔkyena EWURADZE bɛyɛ hom mu amamɔdze.",0.0625,0.0758
+583,"Na Abijam no ho nsɛm nkaa no, na dza ɔyɛe no nyinara, ana wɔnnkyerɛɛw no wɔ Juda ahemfo hɔn Mbermunsɛm nwoma no mu a?","Na Abijam no ho nsɛm nkaa no, na dza ɔyɛe no nyinara, ana wɔnkyerɛ no wɔ Juda ahemfo hɔn mber mu sɛm no ma no mu.",0.2917,0.0659
+584,Na matse ndze bi a ɔtse dɛ ɔbaa a ɔroko awoo nedze.,Matee bi a ɔtse dɛ ɔbaa a ɔreko awo no ndze.,0.5833,0.2308
+585,Ngo na eduhuam ma akoma dzi ehurusi: Mbrɛ nyimpa ne nyɛnko ho dɛw a ofi apam a ofi akoma mu so tse ara nye no.,ngo nna edom ma akoma dzi horuse mbanyin nyanko ho da a ofi apam a ofi akoma mu so te ara no.,0.4,0.25
+586,Ana ɔwo ibotum edze nkwaba atwe dɛnkyɛmnyin?,Ana ɔwo ebotu edze nkwaba atwe dɛnkyɛmnyin.,0.1429,0.0541
+587,"Judahen Asa n’afe a otsia ebiasa no mu na Ahija ne babanyin Baasha hyɛɛ ase dzii hen wɔ Israel nyinara do wɔ Tirza, na odzii hen mfe eduonu anan.","Judahen Asa nafia otsia ebaasa no mu na Ahiya ne babanyin baa ha hyɛ asede hen wɔ Israel nyinara do, wɔtsew za, na odzii hen mfe eduonu anaa",0.3793,0.1053
+588,Ehen na kwan a wɔdze kɔ kan ne tsenabew wɔ.,Ɛhe na kwan a wɔdze kɔ kan ne tsenabew wɔ.,0.1,0.0606
+589,"Mobɔbɔ Egyptfo, Babilɔnfo, Filistiafo, Traefo nye Etiopiafo edzin akyerɛ.","Mobɔbɔ gyefo, babilon fo, folisiafo frao yi etiopiafoɔ edzin akyerɛ.",0.7778,0.1967
+590,Obiara a ɔma tɔɔtsenyɛnyi tɔ kwan bɔn mu dɔnsuar no.,Obiara a ɔma tɔteen ka no bɔn do nsɔr no.,0.5,0.381
+591,"Nna Siriahen Rezin na Israelhen Peka, Remalia ne ba no fowee baa Jerusalɛm dɛ wɔrobɔko: na wɔkɔr Ahaz ntuae, na mbom woenntum enndzi no do nyim.","Nna Siriahen Rezin na Israelhen Peka, Remalia ne ba no fowee baa Jerusalɛm dɛ wɔrobɔko: na wɔkɔr Ahaz ntuae, na mbom woenntum edzi no do yi.",0.0769,0.0348
+592,"Na wɔmaa ahyɛmudaka no do, na wokedzii ɔman no enyim.","Na wɔmaa ahyɛmudaka no do, na wokedzii ɔman enyim.",0.1,0.0476
+593,Mma wo kɔn nndɔ n’adɔkɔdɔkɔdze no; Osiandɛ ɔyɛ ndaadaa edziban.,"Mma wo kɔn anɔ nɔkɔnɔkɔe no, osiandɛ ɔyɛ ndaadaa edziban.",0.2,0.1373
+594,Bɔ mbɔdzen hu mbrɛ wo nguan ekuwekuw no tsetsee.,Bɔ mbɔdzen hu mbrɛ wo nguan ekuku no tsetsee.,0.1111,0.0769
+595,Na wosiee no wɔ n’asaase he do wɔ Timnat-sera a ɔwɔ Efraim nkokodo nkurow mu no wɔ bepɔw Gaas no kwaamu afamu.,Na wɔsiee no wɔ n'asaase he do wɔ Timnat-sera a ɔwɔ Efraim nkokodo nkurow mu no wɔ mbepɔw gas no kum afam.,0.2273,0.093
+596,Nkyii so wonnkohu no bio wɔ ne tsenabew.,Nkyii so wonnkohu no bio wɔ ne tsenabea.,0.125,0.0312
+597,ɔbɛba nkontompɔfo na ahopɔwfo nyina do.,ɔbɛba nkontompɔfo na ahopɔwfo nyina do.,0.0,0.0
+598,Egyen menaba remma onnguan: Tseabo mu abo yɛ no dɛ mburonan.,Egyanom naba rema onguan. mu abo yɛ no dɛ mburonan.,0.4545,0.2292
+599,"Ana adze yi mo wura ɔhen na ɔyɛe, na annda no edzi annkyerɛ wo nkowaa nyia ɔbɛtsena mo wura ɔhen n’ahengua do wɔ n’ekyir a?","Ana adze yi mura ɔhen na ɔyɛe, na ana no edzi ankyerɛ wo nkoa nyia ɔbɛtsena mura ɔhen nahingu do wɔ w'ekyir.",0.4,0.1368
+600,Afei fa akɛseyɛ na tumdzi hyehyɛ woho; Na fa enyimnyam na ahoɔfɛw kata woho.,"Afei fa akase yɛn tumi de hyehyɛ wo ho, na fa enyimnyam na ahoɔfɛw kata wo ho.",0.5714,0.082
+601,"Nna Jeroboam na ɔman no nyinara baa Rehoboam nkyɛn da a otsia ebiasa no, dɛ mbrɛ ɔhen no kae no, dɛ, Da a otsia ebiasa no, hom nsan mbra me nkyɛn, no.","Na Jeroboam na ɔman no nyinara baa Rehoboam nkyɛn da a otsia ebiasa no, dɛ mbrɛ ɔhen no kae no, dɛ da a otsia ebaasa no, hom nsan mbra me nkyɛn, no.",0.0625,0.0177
+602,"Nna Elisha see dɛ, Tow: na ɔtowee.","Na Elisha see dɛ, To na ɔtoe.",0.4286,0.16
+603,Ana ɔwo ibotum ama wo ndze do ekodu mununkum mu.,Ana ɔwo botum ama wo ndze do ekodu mununkum mu.,0.1,0.0263
+604,Nna asafohen no nyinara baa Jeremia nkyɛn bebisaa no: na ɔkaa nsɛm yi a ɔhen no hyɛɛ no no nyinara kyerɛɛ hɔn dɛmara.,Nna asafohen nyinara baa Jeremia nkyɛn bebisaa na ɔkaa nsɛm yi a ɔhen no hyɛɛ no nyinara kyerɛɛ hɔn dɛmara.,0.1304,0.0645
+605,"Na Moses dze maa Gad ebusuakuw no, Gadmba no, dɛ mbrɛ hɔn ebusua ebusua tsetsee.","Na Moses dze maa Gad ebusuakuw no, Gadmba no, dɛ mbrɛ hɔn ebusua ebusua tsetsee.",0.0,0.0
+606,"Afei Nadab no ho nsɛm nkaa no, na dza ɔyɛe nyinara, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn Mbermunsɛm nwoma no mu?","Afei Nadab no ho nsɛm nkaa no, na dza ɔyɛe nyinara, ana wɔnkyerɛ no wɔ Israel ahemfo hɔn mber mu nsɛm woman mu",0.2273,0.0549
+607,"Na Juda ɔman no nyinara faa Azaria a oedzi mfe duesia no, na wɔhyɛɛ no hen wɔ n’egya Amazia n’ananmu.","Na Juda ɔman no nyinara faa Azaria woedzi mfe duesia no, na wɔhyɛɛ no hen wɔ n'egya amadia na nam.",0.25,0.0513
+608,"Na obuae see no dɛ, Nyame nyimpa, mbrɛ ɔhen se nye yi, Yɛ ntsɛm sian bra.","Na obuae see no dɛ, Nyame nyimpa, mbrɛ ɔhen ne sini, yɛ ntsɛm sɛn ba.",0.3125,0.1481
+609,Mpo ber a Elnatan na Delaia na Gemaria totɔe serɛɛ ɔhen no dɛ nkyɛ mma ɔnnhyew nwoma mbobɔwee no: oenntsie hɔn.,"Mpo ber a Erenatan, ne Dalia na Gemaria totɔe sɛ ɔhen no dɛ, nkyɛma ɔhyew momma mbobowano nti hɔn.",0.5238,0.2472
+610,ɔdze hɛn fii Egypt asaase do bae no wɔ henfa; ɔno a ɔgyee hɛn duaa sar no do.,Ɔde henii Egypt asaase do bae wɔ henfa; ɔno na ɔgye hɛn duaa no do.,0.3889,0.1724
+611,"Na wɔsee no dɛ, Tsena ase ɛ, na kenkan no hɛn asomu.","Na ɔsee no dɛ, Senase na kenkan, hena asom.",0.5833,0.2368
+612,"Na ɔhwɛe, na, hwɛ, tatar a wɔato no wɔ gyansenama do, na nsu kɔɔpow si n’etsifi.","na ɔhyɛe, na hwɛ, tatar a wɔato no wɔ gyansenama do, na nsu kɔɔpow si natifi.",0.125,0.0508
+613,"Na ɔhyeew asɔfo no hɔn mbiew no wɔ hɔn afɔrmbukyia no do, na ɔtseew Juda na Jerusalɛm ho.","Na ɔhyew asɔfo no hɔn mbiew no wɔ wɔn afamu kyɛ no do, na ɔtsew Juda na Jerusalɛm ho.",0.2778,0.1143
+614,Na Solomon ne ba Rehoboam dzii hen wɔ Juda.,Na Solomon ne ba Rehoboam tii hen wɔ Juda.,0.1111,0.0588
+615,"Me Nyankopɔn, yɛ hɔn dɛ huntuma a oridzi kyinhyia; Dɛ mframa enyim ntsɛw.","Me Nyankopɔn, yɛ hɔn dɛ huntuma a oridzi kyinhyia; Dɛ mframa enyim ntsɛw.",0.0,0.0
+616,"Na ɔbɛba abɔbɔ Egypt asaase; hɔn a wɔsɛ owu no, wobowu, na hɔn a wɔsɛ ndɔmmum kɔ no, wɔakɔ ndɔmmum, na hɔn a wɔsɛ afona no, afona aka hɔn.","Na ɔbɛba abɔbɔ Egyiptasaase hɔn a wɔse owu no, wobowu, na hɔn a wɔsɛ ndɔmmum kwan wɔbɔnom, na hɔn a wɔse afona no, afona aka hɔn",0.2759,0.1262
+617,Na Solomon dzii Israel nyinara do hen wɔ Jerusalɛm mfe eduanan.,Na Solomon dzii Israel nyinara do hen wɔ Jerusalɛm mfe eduanan.,0.0,0.0
+618,Na mbrɛ EWURADZE se Judamba nye Jerusalɛmmba nye yi.,Na mbrɛ EWURADZE se Judamba Jerusalɛm ba nyi.,0.4444,0.1395
+619,na ofi no ne bepɔw no ayɛ dɛ kwaa mu nsorɔnsorɔmbea.,"Na ofi no ne mmepɔw no ayɛ dɛ, kwaamu nsonsoa.",0.3636,0.2195
+620,"Na emumuyɛfo nyinara yɛ prɔmprɔm mpo a; Wɔbɛsɛɛ hɔn koraa: Naaso ɔwo EWURADZE dze, ekrɔn daa.","Na emumuyɛfo nyinara yɛ prɔmprɔm mpo a wɔbɛsɛe wɔn koraa nanso ɔwo EWURADZE dze, kurandaa",0.3125,0.0811
+621,emi a meyɛ nkwa nsu no nsunyiwa no.,"Mmia a meyɛ nkwa nsu ne nsii wano,",0.5,0.2222
+622,Ana akodzi bi nnyi hɔ mma dasanyi wɔ asaase do?,Ana akodzi bi nnyi hɔ mma dasanyi wɔ asaase do.,0.0,0.0
+623,"EWURADZE butuuw hɔn, na oennya tsema biara no: na wɔmma ɔntse osu anapa.","EWURADZE butuuw hɔn, na woenya tsenabea no, na wɔma ɔnse osu anapa.",0.3846,0.1404
+624,yɛnkɔ Jakob ne Nyankopɔn fie; na ɔbɛkyerɛ hɛn no kwan.,Yɛnkɔgye kɔb ne Nyankopɔn fie; na ɔbɛkyerɛ hɛn kwan.,0.3,0.1395
+625,Mbrɛ ogyimfo a ɔtotow gyantsia.,Mbrɛ ogyimfo a ɔtotow gyantsia.,0.0,0.0
+626,"Iyi nye Isakarmba ebusuakuw egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow no ɔnye no nkurobaase.","Enye nye Isakar ba ebusuakuw gyaadze dɛbrɛ wɔn ebusua ebusua tsetsee, nkurow no nye no nkuraase.",0.5625,0.1294
+627,"Na ɔbɛba dɛ da no mu no, EWURADZE na ɔse.","Na ɔbɛba dɛ da no mu no, EWURADZE na ɔse.",0.0,0.0
+628,nye hɔn a wotwa hɛn dwo hɔn afamudze.,Nye hɔn a wɔtwe hedo hɔn afamudze.,0.375,0.1724
+629,EWURADZE asɛm a ɔbaa nkɔnhyɛnyi Jeremia hɔ wɔ Filistiafo ho ansaana Farao robɔ Gaza.,EWURADZE asɛm a ɔbaa nkɔnhyɛnyi hɔ wɔ filistifoɔ ho ansa na Farao robɔ Gaza.,0.2857,0.1429
+630,Mbepɔw krɔnkrɔn no do na mo kurow fapem si.,"Mepa kronkron no do, na mo kurow fapem si.",0.2222,0.1471
+631,"Na mbanyin no see no dɛ, Yennkedzi so wɔ wo ntam a ama yɛaka yi ho.","Na mbanyin see no dɛ, Yennkedzi so wɔ wo ntam a ama yɛaka yi ho.",0.0625,0.04
+632,Na mebɛma asom w’atamfo wɔ asaase a innyim no do; osiandɛ ogya bi asɔ wɔ m’ebufuw mu a ɔbɛdzɛw wɔ hom do.,"na mama ma asom w'atamfo wɔ asaase ehim no do, osiandɛ ogye bi asɔ wɔ mabufuo mu a ɔbɛdzɛw wɔ hom do.",0.2727,0.1375
+633,"Nna Jeroboam kyekyeer Sekem wɔ Efraim nkokodo nkurow no mu, na ɔtsenaa mu; na ofii hɔ kɔree kɛkyekyeer Penuel.","Nna Jeroboam kyekyɛ Sekem wɔ Efraim nkokodo nkurow no mu, na ɔtsenaa mu; na ofii hɔ kɔree akyekyere Penuel.",0.1053,0.0787
+634,"Ɔwo efrɛe wɔ fona mu, na miyii wo wɔ mu; Megyee wo do wɔ ɔsenaman huntsabea mu; Mosɔɔ wo hwɛe wɔ Meriba nsu no ho.","Ɔwo efira wɔ fonam na meyii wo wɔ mu, megyee wo do wɔ ɔsenaman huntsabea mu; mosɔɔw hwɛ wɔ meriba nsu no ho.",0.28,0.0814
+635,Ana ɔwo na ayɛ no ma ohuruhuruw dɛ abɛbɛw yi?,Ana ɔwo na ayɛ no ma ohuruhuruw dɛ abɛbɛw yi?,0.0,0.0
+636,"Na odzidzii na ɔnomee, na ɔdaa famu bio.","Na odzidzii na ɔnomee, na ɔdaa fam.",0.25,0.129
+637,"Wɔfemfam ho nkorkor; Woesuo mu kor, ma wɔtsetsew hɔn mu a ɔnnkɛyɛ.",Wɔfemfam ho kroko woesumukor ma wɔtetew hɔn mu a ɔkaeɛ,0.5,0.2115
+638,"Na Baasha kɔr ne nsamankyir, na wosiee no Tirza; na ne babanyin Ela na odzii hen wɔ n’ananmu.","Na Baasha kɔr ne nsamankyir, na wosiee no tse zana ne babanyin Ela na odzii hen wɔ nanem.",0.1667,0.0694
+639,"Na obuaa dɛ, Nnyɛ biribiara a: naaso ɔkwan ara na gya me ma monkɔ.","Na obuaa dɛ, Nnyɛ biribiara naaso ɔkwan ara na gya me ma monkɔ.",0.0714,0.02
+640,na wɔbrɛ nyimpa adze: dɛm ntsi mma mmfa nnkyɛ hɔn.,na wɔbrɛ nyimpa adze: na mimama nkyɛ wɔn.,0.6,0.2564
+641,"Ao, Nyankopɔn, ntsɛntsɛmfo asoɛr etsia me.","Ao, Nyankopɔn, ntsɛntsɛmfo asɔre esia o.",0.5,0.1471
+642,na menye hom mba hɔn mba so medzi esi.,na menye hom mba hɔn ba so medzi esi.,0.1111,0.0345
+643,Wɔakyer no ho etwa ehyia dɛ mfuwa ahwɛdofo; osiandɛ ɔatsew mo do etua.,Wakye no ho etwa ehyia dɛ mfuwa ahwɛdofo; osian na wɔasom do etua.,0.3077,0.1607
+644,Na kyɛfa a otsia enum no bae maa Asermba ebusuakuw dɛ mbrɛ hɔn ebusua ebusua tsetsee.,Na kyɛfa a otsia enum no bae maa Asermba ebusuakuw dɛ mbrɛ hɔn ebusua ebusua tsetsee.,0.0,0.0
+645,Ana wɔnnkyerɛɛw iyi wɔ Jasar nwoma no mu?,Ana wɔnnkyerɛɛw iyi wɔ Jasar nwoma no mu.,0.0,0.0
+646,Nkurow yi nyinara wowɔ mfikyisaase a abobɔ ho aprɔw: na nkurow yi nyinara mbrɛ ɔtsetsee ara nye no.,Nkuro yi nyinara wowɔ mfikyisaase a abobɔ ho aprɔw: na nkurow yi nyinara mbrɛ ɔtsetsee ara nye,0.1111,0.0375
+647,"Na dɛmara so na ɔyɛɛ no wɔ Manaasɛ na Efraim na Simeon nkurow do, araa dze kodur Naftali, wɔ hɔn amamfo do hyiae.","Na dɛmara so na ɔyɛɛ no wɔ Manaasɛ na Efraim na Simeon nkurow do, Arad kodur Naftali, wɔ hɔn amamfo do hyiae.",0.087,0.0341
+648,Mbrɛ ɔkwadwefo so da ne mpa do ara nye no.,Mbrɛ ɔkwadwefo so da ne mpa do ara no.,0.1,0.0938
+649,"Na ɔwo Pasur na hɔn a wɔtse wo fie nyinara bɔkɔ ndɔmmum: na ebɛba Babilɔn, na hɔ na ibowu, na hɔ na wobesie wo, ɔwo, na wo nsɛfo nyinara a ahyɛ nkɔntor akyerɛ hɔn no.","Na ɔwo pa sor, na hɔn a wɔtse wo hwie nyinaa bɔ kɔ ndom,na ɛbɛba babilon na hɔ na ebu wu, na hɔ na wobesie wo, ɔwo, na wo nsɛfo nyinara a ahyɛ nkɔntor kyerɛ hɔn.",0.3714,0.119
+650,Nyia ɔdze nsiho na apempensi dɔr n’ahodze no.,Nyia ɔdze nsiho na apempensi dɔr n'ahodze o.,0.125,0.0278
+651,kurow no na hɔn a wɔtse mu do: na nyimpa bɛkeka mu.,Kurow na hɔn a wɔtse do na nipa bɛka.,0.4167,0.2632
+652,no nsoɛ nye no nkɔkrɔw nyina da kor.,Nu nsuenyi no kɔkrɔw nyinaa da koro.,0.75,0.25
+653,Madmena ayɛ oguamfo; Gebim atsefo aboa hɔn ano ruguan.,Made mi na ayɛ oguamfo; gye dum atsefo abɔ hɔn ano ruguan.,0.6667,0.1591
+654,"Ɔbadwembanyi hu mbusu, na osuma noho: Na adwenharfo dze, wotwa mu, na wohu ho amandze.","Ɔbadwembanyi hu mmusu na osuma no ho, na adwenhafodze woatwam na wonhuhu amandze.",0.6,0.0896
+655,na ɔahyɛ dɛ ɔmbra.,na wɔahyɛ dɛ ɔmbra.,0.25,0.0714
+656,"Na EWURADZE n’asɛm baa ne nkyɛn dɛ, Fi ha fir, na kɔ boka afamu, na fa woho kosuma ɔwora Kerit a ɔwɔ Jordan enyim no ho.","Na EWURADZE n'asɛm baa ne nkyɛn dɛ, Fi ha fir, na kɔbɔ kaa fam, na fa wo nkosuma ɔwora Kerit a ɔwɔ Jordan enyim no ho.",0.1923,0.0444
+657,Nna Jeremia frɛɛ Neria ba Baruk; na Baruk kyerɛɛw EWURADZE nsɛm a ɔkaa kyerɛɛ Jeremia nyina fir n’anomu hyɛɛ nwoma mbobɔwee no mu.,"""Ne Jeria frɛɛ ne Ewia ba Baruk, na Baruk kyerɛw EWURADZE nsɛm a ɔka kyerɛɛ Yemanyinaa fi n'anum hyɛ wo ma mobɔwe nom.",0.6522,0.2
+658,"Judahen Asa n’afe a otsia ebiasa no mu na Ahija ne babanyin Baasha hyɛɛ ase dzii hen wɔ Israel nyinara do wɔ Tirza, na odzii hen mfe eduonu anan.","Judahen Asa nafia otsia ebaasa no mu na Ahiya ne babanyin baa ha hyɛ asede hen wɔ Israel nyinara do, wɔtsew za, na odzii hen mfe eduonu anaa",0.3793,0.1053
+659,"Afei Baasha no ho nsɛm nkaa no, na dza ɔyɛe, na ne ndam, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn Mbermunsɛm nwoma no mu?","Afei Baasha no ho nsɛm nkaa no, na dza ɔyɛe, na ne ndam, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn mber mu nsɛm no anom.",0.1667,0.0323
+660,"Na Josua sanee, na Israel nyinara ka no ho, baa nseraban no mu wɔ Gilgal.","Na Josua sanee, na Israel nyinara ka no ho, baa nsraban no mu wɔ Gilgal.",0.0667,0.0179
+661,Ɔwo edze wo nkorɔfo dɛ wenyindua fi Egypt bae; Ɔwo epampaam amanaman na etsɛɛw wo man.,"Ɔwo edze nkurɔfo dɛ, wenyindua fi Egypt a, ɔwo mpampam amanaman na esiwo ma.",0.4375,0.1739
+662,"Na Reubenmba no hɔn he nye Jordan, nye ne he.",Na Ruben ba no hɔn hianyi Jordan nine.,0.7,0.2647
+663,"Hwɛ, ɔwo etu dodowara fo.","Hwɛ, ɔwo etu dodowara fo.",0.0,0.0
+664,m’akoma reper mo mu: munntum mmua m’ano; osiandɛ me kra atse akasamu no ne ndze.,"Makom mu, mo ntumano osiane makra ase akasa no dze",0.8667,0.3934
+665,Wɔ mbabaawa a wɔrowosow nkasaa no hɔn finimfin.,Wɔ mbabaawa a wɔwoso nkasa no on fimfin.,0.5,0.2051
+666,"bɛba dɔm EWURADZE ne dzin tsenabea, bepɔw Zion no do.","bɛba dɔm EWURADZE ne dzin sa bea, bepɔw dzin no do.",0.3,0.119
+667,"Adwontofo no dzii enyim, asankubɔfo no dzii ekyir.",Adwentofo dzi enyim asankubɔfo no dzii ekyir.,0.375,0.0976
+668,"Me Nyankopɔn, yɛ hɔn dɛ huntuma a oridzi kyinhyia; Dɛ mframa enyim ntsɛw.","Me Nyankopɔn, yɛ hɔn dɛ huntuma a oridzi kyinhyia; Dɛ mframa enyim ntsɛw.",0.0,0.0
+669,Woana na ɔwɔ epirakur a onnyi ase?,wɔn a na ɔwɔ epirakur a onnyi ase.,0.2857,0.0741
+670,na mombɔkotow ɔsorsor Nyankopɔn no?,na mombɔkotow ɔsorosoro Nyankopɔn no.,0.2,0.0667
+671,"Na ɔbɛba dɛ da no mu no, EWURADZE na ɔse.","Na ɔbɛba dɛ da no mu no, EWURADZE na ɔse.",0.0,0.0
+672,Mefrɛ wo wɔ mo fona da mu; Osiandɛ ɔwo na egye me do.,"Mefrɛ wo wɔ mu fa da mu, osiandɛ ɔwo na agye mo do.",0.3077,0.1282
+673,Nkurow a ɔyɛ Kohatmba nkaa no hɔn ebusua ebusua no dze nyinara yɛ du nye hɔn ho mfikyisaase.,Nkurow a ɔyɛ Koat banka no hɔn ebusua busuane dze nyinara yɛ du nye hɔn ho mfikyisaase.,0.2222,0.0676
+674,Na ɔdze sika a wɔabor yɛɛ akyɛm nkakraba ahaasa; sika dwetɛbona ahaasa na ɔdze duraa kyɛm kor ho: na ɔhen no dze koguu Lebanon kwaa dan no mu.,Na ɔde sika a wɔabor yɛɛ akyɛm nkakraba ahaasa; sika dwetɛbona ahaasa na ɔdze duraa kyɛm kor ho: na ɔhen no dze koguu Lebanon kwaa dan no mu,0.0357,0.0089
+675,"Nna Omri kɔr ne nsamankyir, na wosiee no wɔ Samaria: na ne babanyin Ahab dzii hen wɔ n’ananmu.","Na ɔmmrekɔr ne nsamankyir, na wosiee no wɔ Samaria, na ne babanyin Ahab dzii hen wɔ nane no.",0.2778,0.0959
+676,"Wɔ hɔn a wonyim me mpo a: Oyinom, wɔwoo hɔn hɔ ara.","Wɔ hɔn a wɔnyinyimu mpo a, ɔyi no wɔ wo hɔn hɔ ara.",0.5,0.2162
+677,"Naaso me man dze, hɔn werɛ efir me.","Nanso me man dze, hɔn wiee efraim",0.5,0.3077
+678,"Me ba, fa nyansa mapa na adwenmutsewee sie; Na mma mma wɔnndan mmfi w’enyiwa do; Nna wɔbɛyɛ nkwa ama wo kra.","Me ba, fa nyansa mapa ne adwumase sina mma mma wɔnndan mmfi w'enyiwa do; na ɔbɛyɛ nkwa ama wo ara.",0.3333,0.1446
+679,Mbrɛ enyim kyerɛ enyim wɔ nsu mu no.,Nɛnim kyerɛ nyim wɔ nsu no no,0.5,0.2857
+680,"Na iyi ntsi mibehiahia David n’asefo ho, na nnyɛ daa nyina.","Na Iyintimebɛhiahia David n'asefo ho, na nnyɛ daa nyina.",0.2727,0.0652
+681,"Na ɔrokɔ akɛsaw no, ɔfrɛɛ no, na ɔsee dɛ, Meserɛ wo, fa boodoo trɔma bi kitsa wo nsamu brɛ me.","Na ɔrekɔ akasa wɔ no, ɔfrɛɛ no na ɔsee dɛ, mesrɛw fa boodoo trɔma bi kita wo nsambrɛ mu",0.45,0.1143
+682,"Ao me tamfo, mma nndzi me eduwa: sɛ mohwe ase a, mobɔsoɛr; na sɛ metse sum mu a.","A metamfo, mendi me dua sɛ mohwɛ as a mobɔ sor, na sɛ mete so a.",0.7222,0.2586
+683,na ne ntseaseanam ayɛ dɛ ekyinehyia mframa: no mpɔnkɔ ho yɛ har sen nkɔr.,na ne nsa asa nam ayɛ dɛ ekyinehyia mframa; na mpɔnkɔ ho yɛ har sen nkɔr.,0.2857,0.069
+684,"Na EWURADZE n’asɛm baa mo hɔ, dɛ, Kɔ, kɛpaa mu wɔ Jerusalɛm asomu dɛ, Mbrɛ EWURADZE se nye yi.","Na EWURADZE n'asɛm baa mo hɔ, dɛ, hɔ pepe mogyerusalem aso mu dɛ, mbra EWURADZE se yi.",0.4211,0.2
+685,"Na Solomon sii mu kɔr Hamat-zoba, na okedzii do nyim.","Na Salomo sii mu kɔr Hamat-zoba, na okedzii dini.",0.3,0.122
+686,"Na hɔn nuanom no a wofi Kohatfo mu no mu binom na wɔhwɛ kyerɛpaanoo no do, dɛ wonsiesie no ahomgyeda biara.","Na hɔn nuanom no a wofi Kohatfo mu no mu binom na wɔhwɛ kyerɛpaanoo no do, dɛ wonsiesie no ahomgyeda biara.",0.0,0.0
+687,"Enyimpa ndaadaa a, na ahoɔfɛw so adze gyangyan a.",Enyimpa ndaadaa na ahoɔfɛw so adze nyena.,0.3333,0.1538
+688,EWURADZE tse ase yi; nna amanaman bɛyɛ esiarfo wɔ no mu.,"AWURADE saase, na amanaman bɛyɛ esiarfo wɔ no mu.",0.4545,0.1591
+689,"Na eha ara na w’asorɛkye ntsɛntsɛn no mbegyina, no?",na ɛha ara na wasorɔkyeɛ ntsantsan no mbegyina no,0.3333,0.125
+690,Obue n’ano nyansa mu; Na ayamuyie mbra wɔ ne tɛkyerɛma do.,"Obue n'ano nyansam,na ayeyie mbra wɔ ne tɛkyɛma do.",0.4545,0.1333
+691,"Nna Solomon hyɛɛ fa no aber no mu, nda esuon, na Israel nyinara ka no ho, mboanofo kɛsenara, wofi Hamat ahɛnee dze kodu Egypt ɔwora no ho.","Na Salomo hyɛɛ fa no abinom ndaesuon; na Israel nyinara ka no ho, mboanofo kɛsenara, wofi Hamat ahene dze kodu Egypt ɔwora no ho.",0.2963,0.0748
+692,"Dɛm ntsi afei mbrɛ EWURADZE se nye yi, Mpa no a afow no rimmfi do nnsian, na owu ara na ibowu.","Dɛm ntsi afei mbrɛ EWURADZE se nye: mpa no a afow no remfiri dunan, na ɔware na ebu wu.",0.381,0.2113
+693,Ma wo nsa mma do wɔ w’ahohiahiafo do.,Ma wo nsa mma do wɔ w'ahohiahiafo do.,0.0,0.0
+694,Hezekia ne Yarba na Ntsɛn a Ɔyɛe.,Hezekia ne Yarba na Ntsɛn a Ɔyɛe.,0.0,0.0
+695,Mbrɛ ogyimfo a ɔtotow gyantsia.,Mbrɛ ogyimfo a ɔtotow gyantsia.,0.0,0.0
+696,Nkyii so EWURADZE bɛma ɔhen bi do ama noho wɔ Israel a da no obotwa Jeroboam fi akyen: na ebɛnadze a?,NkyisoAWURADZE bɛma ɔhen bi do ama noho wɔ Israel a da no obotwa Jeroboam fi akyen: na Ebɛnadze,0.1905,0.038
+697,"EWURADZE see dɛ, Medze fi Basan bɛba bio.","EWURADZE se dɛ, Medze fi Basan bɛba bio.",0.125,0.0312
+698,"Na ɔhyeew ne hyew afɔr na n’edziban afɔr, na ohuee no nom afɔr, na ɔdze n’asomdwee afɔr bɔgyaa no petsee afɔrmbukyia no do.","Na ɔhyew ne hyia fɔr na Nesaafa, na hue no no nom afɔr, na ɔdze n'asomdwee afɔr bɔgyaa no petsee afɔrebukyia no.",0.3913,0.1667
+699,"Na ɔbaa dɛ iyinom ekyir no, Josua Nun ne babanyin no, EWURADZE n’akowaa no, wui, nna oedzi mfe ɔha nye du.","Na ɔbaa dɛ iyinom ekyir no, Josua no ne babanyin no, EWURADZE na akoa no wuwui, na woedzi mfe ɔha nye du.",0.2857,0.1125
+700,"Na Israel soom EWURADZE Josua ne nda nyinara, nye mpanyimfo a Josua wui gyaa hɔn, na wohun EWURADZE n’edwuma nyinara a ɔyɛe maa Israel no, hɔn nda nyinara mu.","Na Israel soom EWURADZE Jesua ne nda nyinara, nye mpanyimfo a Jehu gyaa hɔn, na wohun EWURADZE n'edwuma nyinara a ɔyɛe maa Israel no, hɔn nda nyinara mu.",0.1034,0.056
+701,"Na Josua see ɔman no dɛ, Homara nye hom ho adasefo dɛ hom asan mu afa EWURADZE dɛ hom bɔsom no.","Na Josua see ɔman no dɛ, Homara nye hom ho dɛ sɛfo dɛ hom asan mu afa EWURADZE dɛ hom bɔsom no.",0.0952,0.0411
+702,na Lebanon nam ɔkatakyi nsa do ahwe ase.,na Lebanon nam ɔkatakyi nsa do ahwe ase.,0.0,0.0
+703,na ohianyi ada hɔ dwudwoodwo: na medze ɔkɔm boku wo ndwow.,"Na ɔhen yi ada hɔ Yudowodzo, na medze ɔkɔm boku wo do.",0.3636,0.2391
+704,Afei ma wɔnka nkyerɛ wo ɛ ma wonhu; tsirmpɔw a dɔm EWURADZE abɔ no wɔ Egypt ho.,"Afei, ma wɔnka nkyerɛ wo, ma wohu sempo a dɔm EWURADZE abɔ no Egypt ho.",0.2353,0.1475
+705,"Na EWURADZE n’asɛm baa Elija nkyɛn, dɛ, Soɛr, kɔ Zarefat a ɔyɛ Zidon dze no, na kɛtsena hɔ: hwɛ, mahyɛ ɔbaa kunafo bi wɔ hɔ dɛ ɔmbɔ wo akɔhoma.","NEURDZEn'asɛm ba Elajankyɛn dɛ, Sɔr kɔ Zarefat a ɔyɛ Zidon Zeno na Kɛtsena hɔ hwɛ, mahyɛ ɔbaa kunafo bi wɔ hɔ dɛ ɔmbɔ wo akɔhoma.",0.3103,0.0748
+706,Ɔkwantsennyi a ɔhaw noho wɔ aperper a ɔmmfa no ho mu no.,Ɔkwan ntsena ɔho no ho wɔ aprapra ɔmfa no ho no no.,0.75,0.2727
+707,Fitsi mo mbofraber mu na mehu amandze na owu abɛn me: Morosɔw wo ho hu na mayɛ hahaaha.,"Fise mbufa biom na mehu amandze na owu abɛn mu, mmorosoɔ huhu na mayɛ hahaaha.",0.5,0.2353
+708,"EWURADZE na ɔse; hom a hom ka dɛ, Woana botum esian aba hɛn do?","EWURADZE na ɔse; hom a hom ka dɛ, wɔn botum esian aba ne do.",0.1429,0.1277
+709,Na Ahab no wu ekyir no Moab tseew etua wɔ Israel do.,Na Ahab no wekyiri no Moab tsew etua wɔ Israel do.,0.25,0.075
+710,Na hɔn pomfo no yɛ otumfo; Obedzi hɔn asɛm etsia wo.,Na hɔn pomfo no yɛ otumfo; Obedzi hɔn asɛm etsia o.,0.0909,0.025
+711,"Obiara n’enyi nnyɛ dzen dɛ ɔbɔbɔ no nkenyan; Na sɛ dɛm a, woana koraa nye nyia obotum emi m’enyim gyina?",Obiara n'enyi nnyɛ dzen dɛ ɔbɔbɔ no nkenyan; na Sadam a wɔn akoraa nye nyia obotum emi nyiya.,0.3,0.125
+712,"Ɔnokwafo ne nhyira bobu do: Na nyia ɔpɛ ntsɛm yɛ ɔhonyanyi no dze, ɔnnkɛfa noho tɔtrɔtɔ.","Ɔne kɔfoɔ ne nhyira bobu do: nyɛ apɛnsɛmyiɛ ɔhonyanyi no dze, ɔnkafa no ho tɔtrɔtɔ.",0.625,0.1714
+713,Na nyimpa yi na ɔbɛyɛ hɛn asomdwee: na sɛ Asirianyi ba hɛn asaase do.,meyimpa yi na ɔbɛyɛ hɛn asomdwee: na sɛ Asirianyi ba hɛn asaase do.,0.1429,0.0556
+714,"Judahen Asa n’afe a otsia eduonu esia no mu na Baasha ne babanyin Ela hyɛɛ ase dzii hen wɔ Israel do wɔ Tirza, na odzii hen mfe ebien.","Judahen Asa n'afe a otsia eduonu esia no mu na Baasha ne babanyin Ela hyɛɛ ase dzii hen wɔ Israel do wɔ Tirza, na odzii hen mfe ebien.",0.0,0.0
+715,"Asodzi afɔr sika, na bɔn ho afɔr sika no dze, wɔammfa ammba Ewuradzefie: ɔyɛ asɔfo no dze.",Asodzi afɔrisika na bɔn ho afɔrisika no dze wɔamfa amma EWURADZE fie: ɔyɛ asɔfo no dze,0.4706,0.0571
+716,"Kenyan wo tum, wɔ Efraim na Benjamin na Manaasɛ enyim.","Kenyan wo tum, wɔ Efraim ne Benyamin na manase enyim.",0.3,0.093
+717,Na ne ntsaban ase na iboguan akɔdɔ: No nokwar yɛ kyɛm na nkataenyim.,na ne nsa bɛnase ne boguan akɔdɔ no na kwayɛkyɛm ne nkenyan.,0.6923,0.2222
+718,"Me man, tsie, mo kɔkɔbɔ: Ao, Israel, sɛ nkyɛ ibetsie me a!","Me man, si mexɔ kɔbɔ, Ao Israel, sɛnkyeetie mea?",0.6667,0.1951
+719,"Na binom kaa kyerɛɛ Jerikohen no, dɛ, Hwɛ, mbanyin bi fi Israelmba mu baa ha anadwe yi dɛ wɔrebɛsera asaase yi.","Na binom kaa kyerɛɛ Jerikohen no, dɛ, Hwɛ, mbanyin bi fi Israelmba mu baa ha anadwe yi dɛ wɔrebɛsera asaase yi.",0.0,0.0
+720,"Nna Zedekia kaa ntam nsumaa mu kyerɛɛ Jeremia, dɛ, Dɛ EWURADZE a ɔyɛɛ hɛn kra yi tse ase yi, murunnku wo, eso meremmfa wo nhyɛ mbarimba yi a wɔrohwehwɛ wo nkwa yi nsamu.","Nna Zedekia kaa ntam nsuro mu kyerɛɛ Jeremia, dɛ, Dɛ EWURADZE a ɔyɛ hɛn kra yi saase, woruku esomaa wonhyɛ barima yi a wɔrehwɛ wɔ nkwanyi nsam.",0.5152,0.2121
+721,"Na ɔsee dɛ, Hom ngu no ekuw ebien wɔ kuropon ahɛnee no ano nkodu anapa.","Na ɔsee dɛ, Hom ngu no ekuw ebien wɔ kuropon ahene no ano nkodu anapa.",0.0667,0.0364
+722,"Nna EWURADZE nsɛm baa nkɔnhyɛnyi Jeremia hɔ, dɛ, Mbrɛ EWURADZE, Israel Nyankopɔn no, ɔse nye yi: Mbrɛ hom nkɛse Judahen a ɔsomaa hom me nkyɛn dɛ hom mbebisa mo hɔ adze no, nye yi.","Na EWURADZE nsɛm baa nkɔnhyɛnyi gema hɔ dɛ mbrɛ EWURADZE Israel Nyankopɔn no, ɔse yi: Mbrɛ hom nkɛse Judahen a ɔsoma home nkyɛn dɛ hom ebisa mo hɔ adze no, nye yi",0.2059,0.0863
+723,bɛma ɔfɔn aba n’abran do; na ɔasɔ n’enyimnyam ase ogya a ɔredzɛw.,bɛma ɔfɔn aba n'abran do; na wasɔre ne nemam ase ogya a ɔredzɛw.,0.25,0.14
+724,na wɔatwetwe ndzɛmba iyinom ama wo; w’emumuyɛ nye iyi; ampaara ɔyɛ wen.,"na wɔatwetwe ndzɛmba nyinyim ama wo,ma yi yi ampaara ɔyɛ wen.",0.4167,0.2143
+725,"naaso emi dze, ma mma m’akoma nntu: fa mbusu da no bra hɔn do.","Nanso amidze mama makontu,fa mmusu dan dɔ hɔn do.",0.8571,0.2444
+726,"Afei nna ɔhen David ayɛ akɔdaa a oedzi mfe pii; ɔwɔ mu dɛ wɔdze atam kataa no do, naaso no ho annyɛ no hyew.","Afei nna ɔhen David ayɛ akɔdaa a oedzi mfe pii; ɔwɔ mu dɛ wɔdze atam kataa no do, naaso no ho anyɛ no yɛ.",0.0833,0.0488
+727,Esusow dzendzen ber mu daa nsosɔwee.,Esusu dzendzen ber mu daa nsosɔwee.,0.1667,0.0667
+728,"Dɛm ntsi mpa no a afow no irimmfi do nnsian, na owu ara na ibowu.","Dɛm ntsi mpa no a afow no Erifo do nsan, na ɔwoara na ebɔ wu.",0.4,0.2041
+729,"Na Omri yɛɛ dza omuo wɔ EWURADZE enyi do, na ɔyɛɛ emumuyɛdze seen hɔn a wodzii n’enyim nyinara.","Na Omri yɛɛ dza ɔmo wɔ EWURADZE enyi do, na ɔyɛɛ emumuyɛ sen hɔn a wodzii n'enyim nyina.",0.2222,0.1067
+730,Na ne nsa nyimfa mu ngo sɔnsɔn.,Na ne sɛ ne mfra ngo sɔnsɔn.,0.4286,0.2917
+731,"Na Kaleb see dɛ, Nyia ɔbɔbɔ Kiriat-sefer, na ɔagye no, ɔno na medze me babaa Aksa bɛma no ayewar.","Na Kaleb see dɛ, nyaa ɔbɔbɔ Kiriat-sefer, na wɔagye no, ɔno na medze me babaa Aksa bɛma no ayɛ wɔn",0.2105,0.0676
+732,"Ao, Dɔm Nyankopɔn, yɛserɛ wo, san w’ekyir: Kom w’enyi adze fi sor, na hwɛ, na bɛsera wo wenyindua yi.","Ao, Dɔm miakpɔ no, yɛsra, san w'ekyir, homide fi sor, na hwɛ, na bɛsrɛ wondueyi.",0.5263,0.3243
+733,"Na sɛ wo na yɛ aberwa mpo a, mma mmbu no enyimtsia.","Na sɛ wo na yɛ abrewa mpo a, ma mbo no enyimtsia.",0.25,0.1316
+734,"Na ɔbaa hɔ ɔbo tu bi ho, na ɔsoɛɛ hɔ; na, hwɛ, EWURADZE n’asɛm baa ne nkyɛn, na ɔsee no dɛ, Elija, ereyɛ ebɛnadze wɔ ha?","Na ɔbaa hɔ ɔbo tu bi ho, na ɔsɛeɛ hɔ, na hwɛ, EWURADZE n'asɛm baa ne nkyɛn, na ɔsee no dɛ, Elija, Eraba dzowɔ a.",0.1923,0.1163
+735,Ma aso ampa dɛ Nyankopɔn bɛtsena nyimpa nkyɛn wɔ asaase do a?,Ma aso ampa dɛ Nyankopɔn bɛtsena nyanyɛ asaase do a,0.25,0.1429
+736,"Hwɛ, mukotwaa mu wɔ ɔkwadwefo no kwa ho.","Hwɛ, nkɔtwa mu wɔ ɔkwadwefo no kwa ho.",0.125,0.129
+737,Osiandɛ emimdzi ahyɛ no mu ahonyafo no amaama.,Osiandɛ emimdzi ahyɛ no mu ahonyafo amaama.,0.125,0.0526
+738,"Na mebɛtsea ɔno na n’asefo na no nkowaa wɔ hɔn emumuyɛ ntsi, na medze mbusu nyina a maka etsia hɔn no, na woenntsie no, bɛba hɔn na Jerusalɛm nyina, na Judamba do.","Na mebɛtsena ɔno na n'asefo na ne nkoa wɔ hɔn amumuyɛ ntsi, na medze mbusu nyina maka etsia hɔn na woentsie no, bɛba hɔn na Jerusalɛm nyina, na Judamba do.",0.2188,0.0714
+739,"Mohwɛɛ asaase, na hwɛ, ayɛ afoafo nye pan: na ɔsorsor so, na wonnyi kan bi.","Mohwɛ asase, na hwɛ, ayɛ afao nye pa no, na ɔsoso so wɔ nyikan bi.",0.6,0.1964
+740,"Na Hanania kae wɔ ɔman no nyina enyim, dɛ, Mbrɛ EWURADZE se nye yi: Dɛmara na mubobubu Babilɔnhen Nebukadenezar no kɔndua no mefi amanaman nyina hɔn mu mfe ebien ara pɛr mu.",Anania kae wɔ man no nyinaa nyim dɛ mber EWURADZE se yi demanobobo Babilon abuka desar na kɔndua no mefi amanaman nyina hɔn mu mfe ebien ara pɛr mu.,0.4062,0.2101
+741,"Nna ɔhen Rehoboam somaa Adoram a ɔhwɛ ɔtowyi edwuma do no; na Israel nyinara siiw no abo, ma ɔtɔree.","Nna ɔhen Rehoboam somaa Adoram a ɔhyɛ ɔtowyi edwuma do no; na Israel nyinara siiw no abo, ma ɔtɔree.",0.0526,0.0127
+742,na obiara nntsen wɔ adasamba mu: hɔn nyina tsetsɛw bɔgya; hɔn mu nyimpa biara sua no nua efir.,na obiara nntsen wɔ adasamba mu: hɔn nyina tsetsɛw bɔgya; hɔn mu nyimpa biara sua no nua efir.,0.0,0.0
+743,Nkyii so fona mmfi famu mmfifir; Mbom wɔwo nyimpa ma fona.,Nkyii so fona mmfi famu nfifim wɔwo nyimpa mmɔfra.,0.3636,0.2174
+744,"Na ɔbɛba dɛ da a EWURADZE bɛma wo ahomgye efi wo yaw, wo fona, na wo nhyɛsom dzendzen a wɔdze wo kɔr mu no mu no, edze bɛ yi bobu Babilɔnhen, na ase dɛ.","Na ɔbɛba dɛ da a EWURADZE bɛma wo ahomgye efi wo yaw, wo fona, na wo nhyɛsom dzendzen a wɔdze kɔr mu no mu no, edzi be yi bobu Babilɔnhen, na ase dɛ.",0.0882,0.0351
+745,"Kora me kra do, na midzi nokwar ma wo: Me Nyankopɔn, gye w’akowaa a ɔdze noho twer wo no nkwa.","Kame krado, na medi kwaamu, me nyankopɔn, gye w'akoa a ɔde ne ho twere wo no nkwa.",0.65,0.2143
+746,Aber a opuee faa Egypt asaase no do no: Mbrɛ metsee obi a minnyim no ne kasaa.,"Aber a opuee faa Egypt asaase no do no, mbrɛ misii obi a minnyim no no ne kasaa.",0.1176,0.1
+747,Dɛmara na nyia ɔbɔ ɔkwasea paa na nyia ɔbɔ ɔkwantsemfo paa tse ara nye no.,Dɛmara na nyia ɔbɔ ɔkwasea paa na nyia ɔbɔ ɔkwantsefo paati ara no.,0.2667,0.1017
+748,na ɔdze n’abasa bubu mbɛtsem no; ɔbɛyɛ dɛ aber a obi ridzi mbɛtsem mpɛpɛw.,Na ɔdze n'abasa bubu mbɛtsem no; ɔbɛyɛ dɛ aber a obi ridzi mbɛtsem mpɛpɛw o,0.0714,0.0172
+749,"Ibodua, na innkobu: ibetsiatsia ngoaba do, na ennkɛsera woho ngo; na ebɛtsetsew wenyinaba, naaso eronnom nsa no bi.","Ebo dua na kobu ɛbɛtiatia ngu aba do, na nkasa wo ho ngo; na ebɛtsetsew wenyinaba, naaso Eron nsa no bi.",0.5556,0.1848
+750,Na abaa fata nkwasea hɔn ekyir.,na abaa fata nkwasea hɔn ekyir.,0.0,0.0
+751,"Ao me man, kaa egyina a Moabhen Balak tui.","a ɔma man, kaa egyina a Moabhen Balak tui.",0.2222,0.0625
+752,Iyi nye Benjaminmba no egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee.,Enyi benyamin ban egyapadze ɖe mbrɛ hɔn ebusua ebusua tsetsee:,0.4545,0.1607
+753,Nna Babilɔnhen kunkum Zedekia ne mba wɔ Ribla wɔ n’enyim: eso Babilɔnhen kunkum Juda ekunyin no nyinara.,"""Na Babilon kunkum Zedekia ne mba wɔ Ribla wɔ n'enyim: sobablonhen kunkum Juda ekunyin no nyinaa.",0.2941,0.1059
+754,"Na ɔbaa ɔhen no n’enyim, na obegyinaa ɔhen no enyim.","Na ɔbaa ɔhen no n'enyim, na obegyinaa ɔhen no ni.",0.1,0.075
+755,Iyi nye Manaasɛ n’ebusuakuw kyɛfa: osiandɛ ɔyɛ Josef n’abakan.,yi nye Manase n'ebusuakuw kyɛfa: osiandɛ ɔyɛ Josef n'abakan.,0.2222,0.06
+756,Wɔ mbabaawa a wɔrowosow nkasaa no hɔn finimfin.,Wɔ mbabaawa a wɔwoso nkasa no on fimfin.,0.5,0.2051
+757,Ɔpempam ndwera ntar na ɔtontɔn; Na ɔdze abɔyamu ma oguadzinyi no.,Ɔpempam ndwera ntar na ɔtontɔn; Na ɔdze abɔyamu ma oguadzinyi no.,0.0,0.0
+758,Dwendwen dza osi w’enyim no ho yie; Na sɛ eyɛ otumfur a.,Dwendwen dza osi wonyim no ho yie; na sɛ yɛ otumfur a.,0.1667,0.0476
+759,"Ɔhen a onnyi ntseasee no, na ɔhyɛ atseetsee kɛse so: Na nyia okyir enyiber no dze, ɔbɛma ne nda awar.","Ɔnye na onyinsese no, na ɔse atseetsee kɛse so: na nyia okyir nyi bi no dze, ɔbɛma ne da awar.",0.4,0.1667
+760,"Na wi siankae wɔ sor finimfin, na ɔannyɛ ntsɛm annkɔtɔ bɛyɛ adzekyeekwansin mu.",Na wisa nkaa wɔ So fine mfinmna wanyansaankɔtɔ bɛyɛ adzekyeekwansin o.,0.6923,0.2154
+761,"Nyankopɔn ntseaseanam yɛ apeduonu mpempem mpempem mpo: EWURADZE wɔ hɔn mu, dɛ Sinai krɔnkrɔnbea no mu.","Nyankopɔn tsasanam yɛ apeduonu mpempem mpempem mpo: EWURADZE wɔ hɔn mu, dɛ sena kronkronbea mu.",0.25,0.1071
+762,Na aber bɛn na w’anomu nsɛm bɛyɛ dɛ mframa dzendzen ekodu?,Na berɛ bɛn na wo nom nsam bɛyɛ dɛ mframa dzendzen ekodu?,0.3636,0.1087
+763,"Na mesee dɛ, Adɔmba a; adɔmba papa no, oye dodow; na dza omuo no, omuo dodow ma wodzi a ɔnnyɛ, omuo koraa.","Na mesee dɛ, Adɔmba adɔmapapapa no, ɔyɛ dodo, na dza omuo wɔ mɔdodo ma wodzi onyɛ omu koraa",0.5,0.2051
+764,"Na Israelmba no nyinara poon hɔnho kehyiae wɔ Siloh, na wosii ehyiadzibuw no wɔ hɔ: na wɔberɛɛ asaase no adze wɔ hɔn enyim.",Na Israelmba no nyinara pono hɔn ho kehyiae wɔ Silo na wosii ehyiadzibuw no wɔ hɔ na wɔberɛɛ asaase no adze wɔ hɔn enyim.,0.1739,0.0306
+765,"Na Jabes ne ba Sallum paam ne tsir do, na ɔbɔɔ no wɔ ɔman no enyim kum no, na odzii hen wɔ n’ananmu.","Na Jabes ne ba Salum pam ne tsir do, na ɔbɔɔ no wɔ ɔman no enyim kum no, na odzii hen wɔ n'ananmu.",0.087,0.027
+766,Mma mmfona woho dɛ ebɛyɛ ɔhonyanyi; Gyaa woara wo nyansaa ekyir dzi.,Mma mfona oho dɛ ebɛyɛ ɔhonyanyi; Gyaa wɔra wo nyansa akyiri dzi.,0.4167,0.1091
+767,Hɔn a wokyir wo bofura enyito; Na nyimpa bɔn atsenae ronnko hɔ bio.,Wɔn a wotsiw bofura enyito; Na nyimpa bɔn atsenae ronnko hɔ bio.,0.2308,0.0943
+768,"Ɔbo yɛ dur, na anhwea yɛ pembɔɔ; Naaso ɔkwasea n’ebufuw yɛ dur sen ebien nyina.","Ɔbo yɛ dur, na anyɛ pembɔɔ ɔkɔsɛ n'ebufuw yɛ dur sen ebien yi na",0.4,0.2295
+769,"Na woehue sika a wohun no wɔ EWURADZE fie no, na wɔdze ahyɛ ahwɛdofo no na edwumayɛfo no nsa.","Na woehue sika a wohun no wɔ EWURADZE fie no, na wɔdze ahyɛ ahwɛdofo no na edwumayɛfo no nsa.",0.0,0.0
+770,"Ɔbɔtwer ne dan, na orinngyina: Obosuo mu dzen, na ɔronnko hɔ.","Ɔbɔtwer ne dan, na orinngyina: ɔbosom dzen, na ɔrenkɔ hɔ.",0.2727,0.1277
+771,Na afei mubobubu Ninive kɔndua no mu efi wo do.,Na afei mubobubu nenevikondua no no mu efi wo do.,0.2,0.1622
+772,"Na ɔbaa no see Elija dɛ, Afei na mehu dɛ Nyame nyimpa nye wo, na EWURADZE n’asɛm a ɔwɔ w’anomu yɛ nokwar.","Na ɔbaa no see Elija dɛ, Afei na mehu dɛ Nyame nyimpa nyew, na EWURADZE n'asɛm a ɔwɔ no yɛ nokwar.",0.1364,0.0633
+773,"na medze m’anamɔn etsiatsia no do wɔ me mbepɔw do; nna no kɔndua befi hɔn do akɔ, na n’adzesoa efi hɔn abatsir.","Na medze m'anaman etsiatsia no do wɔ me mbepɔw do, na no kɔndua befi hɔn do akɔ, na adze hyɛ efi hɔn abɛkyire.",0.2273,0.1176
+774,Aber a Josia hyɛɛ ase dɛ oridzi hen no nna oedzi mfe awɔtwe; na odzii hen mfe eduasa biako wɔ Jerusalɛm.,Aber a Josia hyɛɛ ase dɛ oridzi hen na na oedzi mfe awɔtwe; na odzii hen mfe eduasa biako wɔ Jerusalɛm.,0.0952,0.0244
+775,Nna osii mu kɔree kɛyɛɛ dɛ mbrɛ EWURADZE n’asɛm tse: osiandɛ osii mu kɔree kɛtsenaa ɔwora Kerit a ɔwɔ Jordan enyim no ho.,"no na osii mu kɔree kɛyɛɛ dɛ mbrɛ EWURADZE, na asɛm te osiandɛ osii mu kɔree kɛtsenaa ɔra Kerit a ɔwɔ Jordan ne nim no.",0.3913,0.0938
+776,"Botan ano hwironhwirom, na akoban do.",Botan ano hyerɛnhyerɛna akoban no o.,0.6667,0.3
+777,"Na mesee dɛ, Adɔmba a; adɔmba papa no, oye dodow; na dza omuo no, omuo dodow ma wodzi a ɔnnyɛ, omuo koraa.","Na mesee dɛ, Adɔmba adɔmapapapa no, ɔyɛ dodo, na dza omuo wɔ mɔdodo ma wodzi onyɛ omu koraa",0.5,0.2051
+778,"Na mosomaa Moses nye Aaron, na mehaaw Egypt, dɛ mbrɛ dza meyɛe no wɔ mu no tse no: na n’ekyir no miyii hom puei.","Na mosomaa Moses nye Aaron, na mehaaw Egypt, dɛ mbrɛ dza meyɛɛ no wɔ mu no tse; na n'ekyir no miyii hom pue.",0.125,0.0476
+779,"Na nkyii hom ndzi n’ekyir mfow mbra, na ɔmbra mbɛtsena m’ahengua do; na ɔno na ondzi hen wɔ m’ananmu: na mahyɛ no dɛ ɔnyɛ ɔpanyin wɔ Israel na Juda do.","Ne nti mo mu ndzi n'ekyir mfow mbra, na ɔmbra mbɛtsena mahunu do, na ɔno na ondzi hen wɔ manam na mahyɛ no dɛ ɔnyɛ ɔpanyin wɔ Israel na dwudado.",0.2667,0.113
+780,Ama maakɔhwehwɛ so bio.,"Ame maakɔhwehwɛ so bio,",0.25,0.0526
+781,"Mbom Hezekia annhyɛ ananmu dɛ mbrɛ yie a wɔyɛe maa no no tse; na n’akoma maa noho do: dɛm ntsi ebufuw baa ɔnoara, na Juda na Jerusalɛm do.","Mbom Hezekia anhyɛ ananmu dɛ mbrɛ yie a wɔyɛe maa no no no tse; na n'akoma no ho do dɛm ntsi ebufuw baa ɔnoara, na Juda na Jerusalɛm do.",0.1429,0.0566
+782,"Na afei sɛ m’egya dze kɔndua durdur soaa hom a, emi so mobɔto hom kɔndua no do: sɛ m’egya dze mpire tseaa hom a, emi dze, medze nyankom nketsebowa mebɛtsea hom.",Na afei sɛ megya dze kondua dudu su a hom a miso mobɔto hom kɔndua no do: sɛ m'egya dze mpire sia hom a medze medze nyankom nketsebowa mebɛtsea hom.,0.2903,0.0894
+783,"Na emi dze, EWURADZE na mobɔhwɛ no kwan; mobɔtweɔn mo nkwagye Nyankopɔn: minyim dɛ me Nyankopɔn betsie me.","Na emi dze, EWURADZE na mobɔhwɛ no kwan; mobɔtwe mo nkwagye Nyankopɔn, me nyim dɛ me Nyankopɔn betsie me,",0.1667,0.0353
+784,Dɛ mbrɛ akokɔhwerɛw da nkyirefuwa a nnyɛ ɔno bi towee do tse no.,"Dɛ mbrɛ akɔhwɛ da nkyerɛfoɔ a nyɛ ɔno bi toe bitsi,",0.5385,0.3529
+785,Na ɔsɔfo no hyehyɛɛ EWURADZE ne fi do ahwɛdofo.,Na ɔsɔfo no hyehyɛɛ EWURADZE ne fi do ahwɛdofo.,0.0,0.0
+786,Aso EWURADZE n’enyi bɔsɔ nguannyin mpempem.,Aso EWURADZE n'enyi bɔsɔ mbanyin mpempem.,0.1667,0.1111
+787,Nyew edze Ɔsorsornyi no ayɛ wo tsenabew; Mbusu biara nnkɔtɔ wo do.,Nyew edze ɔsoso ayɛ wosaba usu biara nkɔtɔ o.,0.6667,0.3396
+788,"EWURADZE, sa me yarba, na mo ho bɛsan; gye me nkwa, na mibenya nkwa: na ɔwo nye m’ayɛyi.","EWURADZE, sa myaaa na mobɛsan gye me nkwa, na mobɛnya nkwa, na ɔwo nye m'ayɛyi.",0.3333,0.1094
+789,"na ɔsor ebir wɔ wimu: osiandɛ emi na maka, emi na mesua.",Na ɔsoro bi wɔ wiem. osiandɛ Emena maka mi ni mesua.,0.5833,0.1667
+790,"Na ɔbɛba abɔbɔ Egypt asaase; hɔn a wɔsɛ owu no, wobowu, na hɔn a wɔsɛ ndɔmmum kɔ no, wɔakɔ ndɔmmum, na hɔn a wɔsɛ afona no, afona aka hɔn.","Na ɔbɛba abɔbɔ Egyiptasaase hɔn a wɔse owu no, wobowu, na hɔn a wɔsɛ ndɔmmum kwan wɔbɔnom, na hɔn a wɔse afona no, afona aka hɔn",0.2759,0.1262
+791,"Na Juda dzii nkogu wɔ Israel enyim; na woguanguanee, nyimpa biara kɔr n’asesee mu.","Na Juda dzii nkogu wɔ Israel enyim; na woguanguanee, nyimpa biara kɔr n'asesee mu.",0.0,0.0
+792,"Na amanaman pii botwa mu wɔ kurow yi ho, dɛ, Ɔyɛ dɛn ntsi na EWURADZE ayɛ kurow kɛse yi dɛm yi?","Na amanamantubotwa mu wɔ kuro yi ho, dɛ, ɔyɛ dɛn ntsi na EWURADZE ayɛ kurow kɛse a mi.",0.3333,0.125
+793,"Na metwa dzin na hɔn a wɔaka, mba na asefo nyinara efi Babilɔn.","Na metwee na hɔn a wɔaka, mba na asefo nyinara efi Babilon.",0.2308,0.1224
+794,Nguambaa wɔ hɔ ma w’efuradze.,guanbere,1.0,0.6957
+795,"Na ɔbaa no sii mu kɔree kɛyɛɛ dɛ mbrɛ Elija n’asɛm no tse: na ɔnye Elija, na ɔnoara na ne fie dzii no nda pii.","Na ɔbaa no sii mu kɔree kɛyɛɛ dɛ mbrɛ Elija nasem no tse, ɔnye Elija, na ɔnora ne ne fie dzii no nda pii.",0.16,0.061
+796,"Dɛm ntsi afei hom nyeyɛ hom akwan na hom nyɛe yie, na hom ntsie EWURADZE hom Nyankopɔn ne ndze; na EWURADZE bonu noho wɔ mbusu a ɔaka etsia hom no ho.","Dɛm ntsi afei hom nyɛ hom akwan na hom yɛ yie, na hom tsee EWURADZE hom Nyankopɔn ne ndze, na EWURADZE bonu noho wɔ mu sua wɔaka atia hom no ho",0.2258,0.0855
+797,Naaso onnyim dɛ ohia bɛba no do.,Nanso onnyim dɛ ohia bɛba no do.,0.1429,0.04
+798,"Na Hilkia buae see ɔkyerɛwfo Safan dɛ, Mehu mbra nwoma no wɔ EWURADZE fie.","Na Hilkia buae see ɔkyerɛwfo no Safan dɛ, Mehu mbra nwoma no wɔ EWURADZE fie.",0.0714,0.0339
+799,Na ama adzekyee ehu ne dzibew; Ama ɔaata esuo asaase n’atsaban mu.,Na ama adzekyee ehu ne dzibew; ama woate esu asaase n'atsaban mu.,0.1667,0.0769
+800,"Na Amori ahemfo beenum yi guanee, na wɔdze hɔnho kosumaa Makeda ɔbo tu no mu.","Na Amori ahemfo beenum yi guanee, na wɔdze hɔnho kosumaa Makeda ɔbo tu no mu",0.0,0.0
+801,Hɔn a wokyir wo bofura enyito; Na nyimpa bɔn atsenae ronnko hɔ bio.,Wɔn a wotsiw bofura enyito; Na nyimpa bɔn atsenae ronnko hɔ bio.,0.2308,0.0943
+802,dɛ mbrɛ ato Asiria maa w’enyi toe no.,"Dɛm brɛ ato Asiria maa w'enyi tuno,",0.5,0.0714
+803,"Na ɔweɔmfo no bɔɔ mu dɛ ogyata dɛ; Ao, EWURADZE, migyina aweɔnee aban do.","Na ɔmamfo no bɔɔ mu dɛ gyata dɛ, Ao EWURADZE, megyina anwene aba no.",0.4286,0.1607
+804,"Hwɛ mbrɛ esi atɔ, ayɛ hahoo, na ayɛ amamfo a: w’akoma anan, w’anankoroma sesɛ ho.","Hwɛ mbrɛ Esaatɔ,ayɛ haho na ayɛ amamfo a, w'akoma anan, w'anankoroma sesɛ ho.",0.2667,0.0333
+805,Adze kor bi yɛ dansewa wɔ ohianyi na opoobɔnyi ho: EWURADZE na ɔtsew hɔn beenu nyina enyi do.,"Adze kor bi yɛ dansewa wɔ onyinyi na pɔbɔ nyin ho,EWURADZE na ɔtsew hɔn beenu nyina enyi do.",0.2222,0.0946
+806,"Wɔmmbrɛɛ hɔnho adze ara dze bodu ndɛ da yi mpo, eso wonnsuroi, eso wɔnnantseew me mbra, anaa m’ahyɛdze a medze mesi hom enyim, na hom egyanom enyim.","Wɔ brɛɛ onhande awerdzi boded yi mpo, esu wonsuro, nso wɔnantsew me mbra, anaa m'ahyɛdze a medze mesi hɔn enyim, na hom egyanom him.",0.5185,0.2328
+807,Ɔtse dɛ eguadzifo nsuhɛn; Ɔdze edziban fi ekyirekyir ba.,Ɔtse dɛ eguadzifo nsuhɛn; Ɔdze edziban fi ekyirekyir ba.,0.0,0.0
+808,Na ɔmaa hɔn a wohun hɔn wɔ Jerusalɛm na Benjamin mu nyinara peen do.,Na ɔmaa hɔn a wohun hɔn wɔ Jerusalɛm na Benjamin mu nyinara peen do.,0.0,0.0
+809,na wɔakata wo do; dɛ fun a ɔnamɔn etsiatsia do.,na wɔakata wo do; dɛ fun a ɔnamɔn etsiatsia do.,0.0,0.0
+810,"Na ɔwo dze, wɔatow wo efi w’asamandan mu akyen.","Na ɔwo dze, wɔatow efi w'asɛm adan mu akyen.",0.3333,0.1111
+811,"Nkyii so yennyi egyapadze wɔ Jesse ne ba no mu: Israel e, hom nkɔ hom asesee mu oo: afei David, hwɛ wankasa wo fie.","Enti so, gye nye egyapadze wɔ gye si ne ba no mu, Israel, hom nkɔ mma sisii mo afei David, hwɛ wankasa wo fie.",0.4167,0.2184
+812,Elija Na Ɔpɛ Dzendzen No.,Elija Na ɔpɛ dzendzen.,0.2,0.1
+813,Ne nyimdzee do na esubun no mu paapaae.,"Ne yimisa do, na esu bɔn no mu papae.",0.5,0.2581
+814,Nna Israelhen Jehoas sii mu kɔree; na ɔno na Judahen Amazia dzii ako wɔ Bɛt-semes a ɔyɛ Juda dze no.,"Na Israelhen Jehoas sii mu kɔe, na ɔno na Judahen ama dzedzi ako wɔ Bɛt-semes a ɔyɛ Juda dze o.",0.25,0.1026
+815,Fa nyia odzi ɔhɔho egyinamu no n’efuradze; Na fa nyia odzi ɔbaa sansanyi egyinamu no si ahoba.,Fa nyia odzi ɔhɔho egyinamu no n'efuradze; Na fa nyia odzi ɔbaa sansanyi egyinamu no si ahoba.,0.0,0.0
+816,"Atwetwesifo sɔ kurow mu ogya: Na enyansafo dze, woyi ebufuw fi hɔ.","Atwetwesifo sɔ kuro mu gya, na enyansafo dze, woyi ebufuw fo hɔ.",0.25,0.0577
+817,"Iyi nye Asermba ebusuakuw egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow yi ɔnye no nkurobaase.","ehiyi Asermba ebusuakuw egyapadze dɛ mbrɛ hɔn ebusua ebusua tsetsee, nkurow yi ɔnye no nkurobaase.",0.125,0.0482
+818,"Na Josua so dze abo duebien sisii Jordan finimfin, wɔ beebi mbrɛ asɔfo a wɔso ahyɛmudaka no dze hɔn anan sisii no: na ɔwɔ hɔ dze bodu ndɛ da yi.","Na Josia so dze abo duebien sisii Jordan finimfin, wɔ beebi mbrɛ asɔfo a wɔso asɛm daka no dze hɔn anan sisii no: na ɔwɔ hɔ dze bodu ndɛ da yi.",0.1,0.0357
+819,Na mbom no nkɔdaaber mu no ɔyaar n’anan.,Na mbom no nkɔdaaber mu no ɔyaar n'anan.,0.0,0.0
+820,"Na ɔhyeew asɔfo no hɔn mbiew no wɔ hɔn afɔrmbukyia no do, na ɔtseew Juda na Jerusalɛm ho.","Na ɔhyew asɔfo no hɔn mbiew no wɔ wɔn afamu kyɛ no do, na ɔtsew Juda na Jerusalɛm ho.",0.2778,0.1143
+821,"Merarimba dɛ mbrɛ hɔn ebusua ebusua tsetsee nyaa Reuben, Gad, nye Zebulun ebusuakuw mu nkurow duebien.","Me wuriba dɛ mbrɛ hɔn ebusua busua tsetsee nyaa Ruben, Gad nyidzebuln ebusuakuw mu nkurow duebien.",0.375,0.0952
+822,Dɛm ntsi ntsɛn tse dɛ ntweaban brabra hɔn kɔn ho; Akatabansɛm kata hɔn ho dɛ atar.,"Dɛm ntsi tsentsen ntwaban bɛbɛ hɔn kɔn ho, akatabansɛm kata hɔn do dɛ atar.",0.375,0.1538
+823,Na ɔyɛɛ dza omuo wɔ EWURADZE enyi do: oemmfi Nebat ne ba Jeroboam no bɔn a ɔdze maa Israel fomee no nyinara ho.,"Na ɔyɛɛ dza ɔmo wɔ EWURADZE enyi do, wɔ mfi na bat ne ba Jeroboam no bɔn a ɔdze maa Israel fomee no nyinaa ho.",0.2609,0.0805
+824,Na ahonya nntsena hɔ daa; Na aso ahenkyɛw kyɛr kodu mbasantsen nyinara do?,Na ahonya ntena hɔ daa; na aso ahenkyɛw kyɛr kodu mɛsane na do.,0.2308,0.2
+825,"Na Jehoas kɔr ne nsamankyir, na wosiee no wɔ Samaria kaa Israel ahemfo no ho; na ne babanyin Jeroboam dzii hen wɔ n’ananmu.","Na Jehoas kɔr ne nsamankyir, na wosiee no wɔ Samaria kaa Israel ahemfo no ho, na ne babanyin Jeroboam dzii hen wɔ n'ano.",0.0435,0.0412
+826,"Na ɔyɛɛ dza omuo wɔ EWURADZE enyi do, na odzii Nebat ne ba Jeroboam a ɔmaa Israel yɛɛ bɔn no no ne ndzeyɛɛ bɔn ekyir; na oemmfi ho emmfir.","Na ɔyɛɛ dza ɔmɔ wɔ EWURADZE enyi do, na odzii naba ne ba Jeroboam a ɔmaa Israel yɛɛ bɔn no ne ndzeyɛɛ bɔn ekyir; na woefi ho emfi",0.1724,0.1121
+827,"Na ɔwo dze, wɔatow wo efi w’asamandan mu akyen.","Na ɔwo dze, wɔatow efi w'asɛm adan mu akyen.",0.3333,0.1111
+828,Fitsi mo mbofraber mu na mehu amandze na owu abɛn me: Morosɔw wo ho hu na mayɛ hahaaha.,"Fise mbufa biom na mehu amandze na owu abɛn mu, mmorosoɔ huhu na mayɛ hahaaha.",0.5,0.2353
+829,"Iyi nye egyapadze a Moses kyɛɛ no Moab tɛtɛr mu, Jeriko Jordan egya boka afamu no.","Eyi nye egyapadze a Moses kyɛɛ no Moab tete mu, Jeriko Jordan egya boka afamu no.",0.125,0.0615
+830,"Nyia ɔwɔ enyiwa bɔn no, ɔpɛ ntsɛm hwehwɛ ahonya.","Nyia ɔwɔ enyiwa bɔn no, ɔpɛ ntsɛm hwehwɛ ahonya.",0.0,0.0
+831,"Na mbeambea sorɔnsorɔm no dze oennyiyi: naaso Asa n’akoma dzii mu wɔ EWURADZE enyim, ne nda nyinara.","Na mbea bia sorɔnsorɔm dze wonyiyi naaso Asa n'akoma dzii mu wɔ EWURADZE enyim, ne nda nyinara.",0.2353,0.0875
+832,ekodu ber a ɔwokofo no bɔwo: nna no nuanom nkaase no.,ekodu ber a ɔwokofo no bɔwo: nna no nuanom nkaase no.,0.0,0.0
+833,Ne mbiew yɛ dɛ boran a woehun mu; N’akwaa tse dɛ adaban.,Na bio yɛ dɛ boran a woehun mu; na akwaa tse dɛ adaban.,0.3333,0.119
+834,"Na no mu dze, ɔprapra ndaadaa boa ano: Sɛ ɔkasa dɛɛdɛw a, mma nngye no nndzi; Na n’akoma mu wɔ ekyiwadze esuon.","Na ne mu dze, ɔprapra ndaadaa boa no, sɛ ɔkasa dada a mma nyini na n'akoma mu wɔ ekyiwadze esuon.",0.2727,0.1667
+835,"Ao, EWURADZE, mbersantsen nyina.","Ao EWURADZE, brɛ santsen nyinaa",0.75,0.1538
+836,"Na asaase do ahemfo nyinara hwehwɛɛ Solomon n’enyim ehu, dɛ wobetsie ne nyansaa a Nyankopɔn dze ahyɛ n’akoma mu no.","Na asaase do ahemfo nyinara hwehwɛɛ Solomon n'enyim ehu, dɛ wobetsie ne nyansaa a yɛ nkɔpɔn dze ahyɛ n'akoma mu no,",0.1,0.0326
+837,Wɔmfa nsadzen mma nyia aka no na owu no.,Wɔmfa nsadzen ma nyia aka no na owu no.,0.1111,0.0323
+838,Na wɔbɔ mu tu egyina wɔ hɔn a ehuntsa hɔn no tsir do.,Na ɔbɔ mu tu egyina wɔ hɔn a nhunta wɔn ne tsir do.,0.3077,0.125
+839,Na medze m’asɛm ahyɛ ne nsa: Ɔno a ɔyɛ ndzɛmba akɛse a onnyi nhwehwɛmu; Anwanwadze a onnyi anobu: Ɔno a ɔma nyankom tɔ gu asaase do.,"Na medze m'asɛm ahyɛ ne nsa, ɔno a ɔyɛ ndzɛmakasa a onyinsehwɛmu, a wɔ wɔadze a ɔnya no bu ɔno a ɔma nyankom tɔ gu asaase do.",0.3462,0.1373
+840,na wɔbrɛ nyimpa adze: dɛm ntsi mma mmfa nnkyɛ hɔn.,na wɔbrɛ nyimpa adze: na mimama nkyɛ wɔn.,0.6,0.2564
+841,"Na ne na Maaka so otuu no do dɛ ɔyɛ ɔhembaa, osiandɛ ɔyɛɛ ekyiwadze honyi bi maa Asera ntsi; na Asa twaa no honyi no, na ɔkɛhyeew no wɔ ɔwora Kidron do.","Na ne na maka so otuu no do dɛ ɔyɛ ɔhembaa, osiandɛ ɔyɛɛ ekyiwadze honyi bi maa Asera ntsi; na Asa twaa no honyi no, na ɔkɛhyeew no wɔ ɔwora Kidron do.",0.0312,0.0085
+842,"Na Etiopianyi Ebed-melek see Jeremia dɛ, Fa ntangow dadaw a atsetsew na esusuw no hyehyɛ w’ambɔtoadze wɔ ntampehoma no ase.",Na kyiopiniebɛd mele se yɛnmisa sɛ ntangow dadaw a atsetsew na esusow no hyehyɛ w'ambɔtoadze wɔ ntampehoma no ase.,0.35,0.16
+843,Naaso mowɔ wo nkyɛn daa: Ɔwo na esuo me nsa enyimfa mu.,"Nanso mewɔ wo nkyɛn daa, ɔwone Esumensa nyim.",0.75,0.2143
+844,Na ɔdze bɔn ho afɔr nantwisaa no bae: na Aaron nye ne mbabanyin no dze hɔn nsa guu bɔn ho afɔr nantwisaa no n’etsifi.,"Na ɔdze bɔn ho afɔr nantwi no bae, na Aaron nye ne mba no dze hɔn nsa guu bɔn ho afɔ nantwisaa no n'etsifi.",0.125,0.1099
+845,"Na wɔhɛɛn abɛn no; na ɔman no nyinara see dɛ, Nyame ngye ɔhen Solomon nkwa.","Na ɔhen abɛnunaɔmaa no nyinara see dɛ, Nyame ngye ɔhen Solomon nkwa.",0.3333,0.1034
+846,"Amanaman yɛ weɔɔ dɛ esu pii no weɔɔyɛ: naaso ɔbɔbɔ hɔn ham, na woeguan akɔ ekyirekyir.","Anaman, yɛɛ wɔ de esi pii ne weeɛ,naaso ɔbɔbɔ hɔn ham, na woeguan akɔ ekyirekyir.",0.5,0.1618
+847,wɔ EWURADZE ne Nyankopɔn no ne dzin tumdzi mu: na wɔbɛtsena hɔ; osiandɛ ɔbɛyɛ kɛse ekesi asaase ewiei.,WeAWURADZE ne Nyankopɔn ne dzin tumdzi na wɔbɛtsena hɔ; sand ɔbɛyɛ kɛse ekesi asaase ewiei.,0.2778,0.1098
+848,Ebufuwfafo huenyan mansotwe mu.,Ebufuwfafo kenya mansotwe mu.,0.25,0.1111
+849,Anaa anantsew bun eduodoo eduodoo mu?,Anaa anantsew bun eduodoo eduodoo mu?,0.0,0.0
+850,"Ɔno na yennkefi wo nkyɛn akɔ ekyir: Ma yennya nkwa, na yɛbɔbɔ wo dzin.","Ɔno na yefi wo nkyɛn apekyir,manyi nyankwan yɛbɔbɔ wodze.",0.6429,0.2222
+851,"Afei Zekaria no ho nsɛm nkaa no, hwɛ, wɔakyerɛw no wɔ Israel ahemfo hɔn Mbermunsɛm nwoma no mu.","Afei Zakaria no ho nsɛm nkaa no, hwɛ, wɔakyerɛw no wɔ Israel ahemfo hɔn birim sɛm oman mu",0.2222,0.12
+852,"Na EWURADZE benya ayamuhyehye wɔ Jakob ho, na ɔasan mu eyi Israel bio, na ɔdze hɔn esi hɔnankasa hɔn asaase do; na ɔnanaben dze noho abɔ hɔn ho, na wɔatakyer Jakob fi ho.","Na EWURADZE benya ɛyɛ hyehye wo gya ka ho, na wɔasan mu eyi Israel bio, na ɔdze hɔn esi hɔnankasa hɔn asaase do, na ananaben dze noho abɔ hɔn ho, na wɔatakyer gye kabi ho.",0.2727,0.1203
+853,"Nna nkɔnhyɛnyi Jeremia see nkɔnhyɛnyi Hanania dɛ, Hanania, afei tsie; EWURADZE annsoma wo; na ɔwo ema ɔman yi dze hɔnho twer atorsɛm.","Na nkɔnyingyamia sei nkɔnhyɛnyi ane nyɛdɛ Hanania afe tsee EWURADZE ansoma wo, na ɔwo ema man yi dze hɔnho twer atorsɛm.",0.4545,0.1682
+854,Naaso woebuebue esutsen ano mbobokɛse no dada.,Naaso woebuebue esutsen ano mbobokɛse no dada.,0.0,0.0
+855,"Na wɔkɔree kodur bepɔw no do, na wɔtsenaa hɔ ndaansa, kodur dɛ etsiwfo no sanee: na etsiwfo no hwehwɛɛ hɔn wɔ kwan no mu nyina, na woennhu hɔn.","Na wɔkɔree kodur bepɔw no do, na wɔtsenaa hɔ ndaansa, kodur dɛ etsiwfo no sanee: na etsiwfo no hwehwɛɛ hɔn wɔ kwan no mu nyinaa na wɔnhunu.",0.1071,0.0631
+856,"Na ɔsee dɛ, Pue kɔ, na kegyina bepɔw no do wɔ EWURADZE enyim.","Na ɔsee dɛ, Pue kɔ, na kegyina bepɔw no no do wɔ EWURADZE enyim.",0.0769,0.0435
+857,"Na ɔdaan anantwi no gyae, na otuu mbirika dzii Elija ekyir, na ɔsee dɛ, Meserɛ wo, ma menkɛfew m’egya na me na ano, na nkyii mimbedzi w’ekyir.","na ɔda na nantwi no gyae, na otuu mbirika dzii Elija ekyir, na ɔsee dɛ, Meserɛ wo, ma me nka fi wo megya na me na no, na nkyɛn mimbedzi wekyi",0.3704,0.0741
+858,"Na Omri fi Gibeton sii mu kɔree, na Israel akofo nyinara ka no ho, na wokotuaa Tirza.","Na Omri fi Gibeton sii mu kɔree, na Israel akofo nyinara ka no ho, na wɔkɔtuaa Tsila",0.1176,0.0758
+859,Ama wo mbɔdɔm tɛkyerɛma eenya ne kyɛpɛn wɔ w’atamfo ho.,Amewo bɔdɔm tetea nya ne tsipɛn wɔ w'atamfo ho.,0.6,0.2955
+860,"Ismael so kunkum Jewfo a wɔnye Gedalia wɔ Mizpa nyina, na Kaldeafo a wohun hɔn wɔ hɔ no, mbarimba akofo no a.","Israel so kunkum Jua wɔn gyidie eria wɔ Mesan nyinaa, na Kade wohun hɔn wɔ hɔn mbarimba akofo no.",0.5455,0.2824
+861,Na ma ɔbaa a ɔwoo wo no ondzi ehurusi.,na mma ɔbaa a ɔwoo no no ndzi ehurusi.,0.3333,0.1034
+862,Hom mbɔ akasamu no mu wɔ asaase no do: hom ntsea mu dzendzen na hom nse dɛ.,"Hom bɔ akasamu wɔ asase no do, hoteame dzendzen na hom se dɛ.",0.4706,0.193
+863,"Medze wo fii Egypt asaase do bae no: Bue w’anomu tɛtɛɛtɛr, na mebɛhyɛ no ma.","Medze wo fi Egypt asaase do bae no, beanomtetɛtɛr na mɛyɛ wo ma.",0.4,0.1724
+864,"Na miyii hom egyanom fii Egypt: na hom baa po no ho: na Egyptfo dze ntseaseanam, na ɔnye mpɔnkɔdofo tsiiw hom egyanom baa Mbɛw Po no ho.","na meyii humegyanom fii Egypt, na hom baa po no ho, na Egyptfo dze ntseaseanam, na ɔnye mpɔnkɔdofo tuho egyanom baa mbea po no ho.",0.2222,0.0849
+865,"Na ɔbaa ɔhen no n’enyim, na obegyinaa ɔhen no enyim.","Na ɔbaa ɔhen no n'enyim, na obegyinaa ɔhen no ni.",0.1,0.075
+866,Ana ɔwo ibotum edze nkwaba atwe dɛnkyɛmnyin?,Ana ɔwo ebotu edze nkwaba atwe dɛnkyɛmnyin.,0.1429,0.0541
+867,Gersonfo nkurow nyinara dɛ mbrɛ hɔn ebusua ebusua tsetsee yɛ nkurow duebiasa nye hɔn ho mfikyisaase.,"Gilsonfo, nkuro nyinara dɛ mbrɛ hɔn ebusua busua tsetsee: yɛ nkuro duebiasa nye hɔn ho mfikyisaase.",0.25,0.0595
+868,"Na oyii no fii no bo mu, na ɔmaa no do kɔr pia mu, mbrɛ ɔtse no, na ɔdze no kɔtoo nankasa ne mpa do.","Na oyii no fii no bo mu, na ɔmaa no do kɔr pia mu, mbrɛ ɔtsen, na ɔdze no kɔtoo nankasa ne mpa do.",0.08,0.0139
+869,"Na aber a Joab tsee abɛn no ndze no, obisaa dɛ, Kurow no mu dede yi a ayɛ dɛ abɔ ebutuw yi ase nye dɛn?","Na aber a Joas abɛn no ndze no, obisaa dɛ, kuro no mu dede yi a ayɛ dɛ abɔ ebutu yi ase nye dɛn?",0.16,0.0789
+870,"Nna aweɔmfo safohen no maa no akwantu mu edziban na ahyɛdze, na ogyaa no kwan.","Na numfo safohen no maa no akwantu mu edziban na ahyɛdze, na ogyaa no kwan",0.1333,0.0806
+871,Afei hom nhu dɛ EWURADZE n’asɛm a EWURADZE kae no wɔ Ahab fi ho no mu biara ronntɔ famu: na EWURADZE ayɛ dza ɔnam n’akowaa Elija do kae no.,"Afei hom ho dɛ EWURADZE n'asɛm a EWURADZE kae no wɔ Ahab fi ho no mu biara Runtɔfamu, na EWURADZE ayɛ dza ɔnam nakoa Elija doka",0.2414,0.0841
+872,"Mbrɛ biriw tse ma ogyansenama, na enyena tse ma ogya no.",Mbrɛ biriw tse ma ogya sama na nye na tse ma ogya no.,0.3636,0.0909
+873,"Bɔgyakafo kyir nyia odzi mu: Na tɔɔtsenyɛnyi dze, wɔhwehwɛ no nkwa.","Bɔgyakafo kyir nyia odzi mu, na tɔɔtsenyɛnyi dze, ɔhwehwɛ no nkɔ",0.1818,0.0556
+874,Wɔakan me afora hɔn a wosian kɔ adakamona mu no; Mayɛ dɛ nyimpa a onnyi boafo: Wɔatow me akyen ewufo mu prododo.,"Woakane aforo hɔn a wosian kɔ de famu no mu no, mayɛ dɛ nyimpa a ɔnye boafo wɔato akye na efom prododo.",0.5455,0.2045
+875,"Na mfe eduanan biako na ɔdze dzii hen wɔ Jerusalɛm: na ne na ne dzin dze Maaka, Absalom ne babaa a.","Na mfe eduanan biako na odzidzii hen wɔ Jerusalɛm: na ne na ne dzin dze Maaka, Absalom ne babaa",0.1429,0.0395
+876,"Afei Ahazia no ho nsɛm nkaa no, dza ɔyɛe no, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn Mbermunsɛm nwoma no mu a?","Afei Ahazia no ho nsɛm nkaa no, dza ɔyɛe no, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn mbermunsɛm home no mu,",0.0909,0.0465
+877,"Na EWURADZE dze awerɛhow aka me yaw ho; maberɛ na m’apensi, na minnya ahomgye biara.","Na EWURADZE dze awerɛhow aka me yaw ho; maberɛ na m'apensi, na menya ahomegye biara.",0.1333,0.0455
+878,"Na hwɛ, ndze bi baa ne nkyɛn, see dɛ, Elija, ereyɛ ebɛnadze wɔ ha?","Na hwɛ, ndze bi baa ne nkyɛn, see dɛ, Elija, Ereyɛ ade a.",0.2143,0.1667
+879,Ɔtse dɛ nsu a ɔpra adze kɔ na ɔmma edziban mmba.,ɔte dɛ nsu a ɔpra adze kɔ na ɔmma edziban mmba.,0.0909,0.027
+880,Na w’akoma bɛka akɔntɔnkyesɛm.,Na w'akoma bɛka akɔntɔnkyesɛm.,0.0,0.0
+881,"Na mbrɛ EWURADZE, Israel Nyankopɔn, se nye yi, Isiam barba no ronnhwer, nkyii so ngo pɔr no rennsa, dze ekodu da a EWURADZE bɛma nsu atɔ egu asaase do.","Na mbrɛ EWURADZE Israel Nyankopɔn se yi, Isiam baaba no Runhwer, nkyesogopɔno rensa, dze ekodu da a EWURADZE bɛma nsu atɔ egu asaase do.",0.3103,0.094
+882,Amma ɔannyɛ noara n’enyiwa do onyansafo.,"Ama woanyɛ nɔrenyiwado, onyansafo.",0.8333,0.2424
+883,Nna ɔhen no somae na wokehyiaa Juda na Jerusalɛm amampanyin no nyinara ma wɔbaa ne nkyɛn.,Na ɔhen no somae na wokehyiaa Juda na Jerusalɛm amampanyin no nyinara ma wɔbaa ne nkyɛn.,0.0625,0.0137
+884,"Na Juda asaase bɛyɛ Egypt hu, obiara a wɔbɔ ne dzin kyerɛ no bosuro, wɔ dɔm EWURADZE ne tsirmpɔw a ɔabɔ etsia no ntsi.","Na Juda asaase bɛyɛ Egypt hu, obiara a ɔbɔ ne dzin nkyɛn bosuro, wɔ dɔm EWURADZE ne tsirmpɔw a wɔabɔ esi ne nti.",0.2917,0.1087
+885,"Na Reubenmba nye Gadmba frɛɛ afɔrmbukyia no Ed: Na, wɔsee dɛ, ɔyɛ hɛn ntamu dase dɛ EWURADZE nye Nyankopɔn.","Na Ruben ba nye Gadmba frɛɛ afɔrebukyia no red na wɔsee dɛ, ɔyɛ hɛn ntamu dase dɛ EWURADZE nye Nyankopɔn.",0.2105,0.0471
+886,"Juda nkaasefo, EWURADZE aka wɔ hom do dɛ, Mma hom nnkɔ Egypt: hom nhu no kotoo dɛ medzi hom dase ndɛ da yi.","Dua nkaWURADZE akan wɔ hom mu dɛ, mahom kɔ Egypt hom ho no kotoo dɛ medzi hom dase ne duyi.",0.5217,0.2346
+887,Ɔno na ɔma enyitseweefo nhyehyɛɛ yɛ kwa.,Ɔno na ɔma enyitseweefo nhyehyɛɛ yɛ kwa.,0.0,0.0
+888,"Na ɔyɛɛ dza omuo wɔ EWURADZE enyi do, dɛ mbrɛ n’egyanom yɛe: oemmfi Nebat ne ba Jeroboam no bɔn a ɔdze maa Israel fomee no ho.","Na ɔyɛɛ dza omuo wɔ EWURADZE enyi do, dɛ mbrɛ n'egyanom yɛe: woefi na bat ne ba Jeroboam no bɔn a ɔdze maa Israelfo mano",0.2692,0.0825
+889,"Na abo duebien no a woyiyii no wɔ Jordan mu no, Josua dze hyɛɛ siw wɔ Gilgal.","Na ɔbo duebien a woyiyii no wɔ Jordan mu no, Josua dze hyɛɛ wɔ Gilgal",0.1765,0.1017
+890,"Na Moses faa ɔserango, na ɔdze seraa ntamadan no nye dza ɔwɔ mu nyinara, na ɔyɛɛ no krɔnkrɔn.","Na Moses faa ɔserango no, na ɔdze seraa ntamadan no nye dza ɔwɔ mu nyinara, na ɔyɛɛ no kɔnkɔn.",0.1111,0.0548
+891,Mepɛ dɛ meyɛ me Nyankopɔn fi abowano ɔweɔmfo; Sen dɛ mebɛtsena ndzebɔnyɛfo asesee mu.,Mepɛ dɛ meyɛ me Nyankopɔn twi aboa no ɔnwemfo sendɛ mebɛtsena debɔneyɛfo asesei mu,0.5,0.1286
+892,"Wotwa mu wɔ Nyinsu bɔnsa no mu a wɔdan no bea a mbasu wɔ; Nyew, adɔwnsu dze nhyira kata do.","Wotwa ɔnyisu banson mu a, wɔde ne bea a mbasu wɔ nyɛ wo ado nso dze nhyira kata do.",0.55,0.2174
+893,na nhyiren adan wenyinaba a ɔregyegye no.,na nhyiren adan wenyinaba a ɔregyegye no.,0.0,0.0
+894,"Nna Pasur bɔɔ nkɔnhyɛnyi Jeremia, na ɔdze no too dua mu, wɔ Benjamin ɔponkɛse a odzi sor wɔ EWURADZE fie no mu.","Na Pasur bɔɔ nkɔnhyɛnyi gami na ɔdze no too dim, wɔ benyamin ɔpon kasaa ogyisorowɔ EWURADZE fi no mu.",0.5,0.1839
+895,"nyew, wɔhwehwee ase dedaa hɔnho do: na wɔsee dɛ.","Nyew, wɔhwehwɛ ase dedaa hɔnho do: na wɔsee dɛ.",0.1111,0.0541
+896,Ana ɔwo botum eyi ewia kwan mu nworaba no epue wɔ ne ber mu?,Ana ɔwo botum eyi ewia kwan mu Awuraba no epue wɔ ne ber mu.,0.0714,0.0435
+897,"Na abɔfo no sanee baa ne nkyɛn, na ɔsee hɔn dɛ, Ɔyɛ dɛn ntsi na hom asan yi?","Na abɔfo no sanee baa ne nkyɛn, na ɔsee hɔn dɛ, ɔyɛ dɛn ntsi na hom ase no y",0.1667,0.0536
+898,Naaso me man enntsie me ndze; Na Israel ammpɛ mo ho hwee.,"Nanso me man nsie me ndze, na Israel ampe mo ho hwee",0.25,0.1364
+899,"Nna Josua gyaa ɔman no kwan, ma nyimpa biara kɔr n’egyapadze ho.","Na Jehu gyaa ɔman no kwan, ma nyimpa biara kɔr n'egyapadze ho.",0.1667,0.08
+900,naaso worunntum nnka wo nngu; na mowɔ wo nkyɛn dɛ.,Nanso wonntum ka wo ngua mo wɔ nsɛnde,0.9,0.3077
+901,"Nna ɔhen no hyɛɛ Etiopianyi Ebed-melek, dɛ, Fa mbarimba eduasa fi ha ka wo ho, na keyi nkɔnhyɛnyi Jeremia fi mona efiadze no mu, ansaana oewu.","Na hen hyɛɛ Etiopianyi Ebed-melek, dɛ, Fa mbarimba eduasa fi ha kɔ, wo ho, na keyi nkɔnhyɛnyi gyera wimu na efiadze no mu, ansa na wawu.",0.3846,0.1351
+902,N’ase tse dɛ ntankofɛr a n’ano yɛ ndam: Ɔtwe no dɛ ewuporow tseaseanam wɔ adɛtsebir do.,Naaso tse dɛ ntankofɛr a n'ano yɛ nam ɔtwe no dɛ ewuporow tseaseanam wɔ adate bere do.,0.25,0.1029
+903,Na ɔdze dadze etwitwa kwaa mu adɔtɔ.,Na ɔdze dadze etwitwa kwaa mu adɔtɔ.,0.0,0.0
+904,"Na mbrɛ EWURADZE se nye yi: Dɛ mbrɛ medze mbusu kɛse yi nyinara maba ɔman yi do no, dɛmara so na medze yie a mabɔ hɔn ho anohoba nyina mebɛba hɔn do.","Na me EWURADZE se yi, dɛ mbrɛ medze mmusu kɛse nyinaa mabɔ ɔman yi do no, dɛmara so na medze yie a mabɔ no hɔn ho ano ba nyina mebɛba hɔn do.",0.2812,0.1304
+905,"Na ɔsee dɛ, Tase egyen menaba no: na ɔtasee.","Na ɔsee dɛ, Tase egyen menaba na ɔtasee",0.1111,0.0606
+906,Ɔkwadwefo dze ne nsa nu nkwansɛn mu; Naaso haw n’enyi dɛ ɔdze bɛsan n’anomu bio.,Ɔkwadwefo dze ne nsa no nkwansɛm na aso haw n'enyi dɛ ɔdze bɛsan n'anomu bio.,0.2667,0.0484
+907,"Na n’ekyir no Josua bobɔɔ hɔn kunkum hɔn, na ɔdze hɔn sensɛɛn ndua do: na wɔsensɛɛn ndua no do araa kodur ewimbir.","Na n'ekyir ngyesuobɔɔ hɔn kunkum hɔn, na ɔdze hɔn sensɛn ndua do: na wɔsensɛn ndua no do ara kɔduru nimie.",0.3636,0.1461
+908,Ɔwo ema nyimpa pem kɔ dɛ nsuyirii; wɔyɛ dɛ adaaso: Anapa wɔtse dɛ nkyɛkyɛr a ɔfefɛw.,"Ɔwo menyimpapem kɔda nsuyire wɔnyɛ dɛ adaaso, anapa a wɔte dɛ nkyekyere a ɔhwehwɛ o.",0.75,0.2424
+909,Dɛmara na ɔkwasea si do yɛ no nkwaseadze ara nye no.,Dama na ɔkwasea si do yɛ no kwasɛdze ara nyina.,0.3636,0.1951
+910,"Na afei mebɛda huntuma mu; Na ɔwo bɔhwehwɛ me enyiberdo, naaso nna minnyi hɔ bio.","Na afei mebɛda huntuma mu; na ɔwo bɔhwehwɛ me enyiberdo, naaso na meyi hɔ bio,",0.1333,0.0625
+911,"na afona rinyinam, na peaa reyerɛyerɛw; na atɔfo pii.","na afona rinyinam, na peaa reyerɛyerɛw; na atɔfo pii.",0.0,0.0
+912,Mma nndwendwen mbusu nntsia wo nyɛnko.,Mma nndwendwen mbusu nntsia wo nyɛnko.,0.0,0.0
+913,Mma nnyɛ ohuyifo mma me; ɔwo nye mo guandɔbea wɔ mbusu da no mu.,"manyɛ honyifommam, ɔnyeme guandɔbea wɔ mu sudan mu.",0.7857,0.2245
+914,Hom mbɔ akasamu no mu wɔ asaase no do: hom ntsea mu dzendzen na hom nse dɛ.,"Hom bɔ akasamu wɔ asase no do, hoteame dzendzen na hom se dɛ.",0.4706,0.193
+915,Nyia ɔda ho nam n’afɔdzi mu ne tsir a woesie no tsimum no a.,Nyia ɔda honam n'afɔdzi ne tsir a woesiesie nkyemu mu na.,0.5714,0.2444
+916,"Na n’ekyir no Josua bobɔɔ hɔn kunkum hɔn, na ɔdze hɔn sensɛɛn ndua do: na wɔsensɛɛn ndua no do araa kodur ewimbir.","Na n'ekyir ngyesuobɔɔ hɔn kunkum hɔn, na ɔdze hɔn sensɛn ndua do: na wɔsensɛn ndua no do ara kɔduru nimie.",0.3636,0.1461
+917,"Na mona efiadze no hɔ nnyi nsu, dɛ adɛtsebir nko: na Jeremia homee kɔr adɛtsebir no mu.",na mo ne efiadze no hɔ hiso dɛ adɛtsebir nko: na Jeremia homee kɔr adɛtsebir no mu.,0.2353,0.0882
+918,"Hom nsi frankaa nkyerɛ Zion do; hom mbɔ hom ho eguaa, mma hom nngyina: na medze mbusu fi kwaamu afamu reba.","Hom sifra nka nkyerɛ Zion do; hom bɔ hom ho eguaa, ma ho gyina na medze musu hike afam reba.",0.4762,0.1807
+919,"Mma nyame, nanaben bi nntsena wo mu; Nkyii so ma nnsɔr nyame nanaben bi.","anyame na nabii tsewo mu, nkyeso,mansɔl nyame nanaben bi.",0.7143,0.2321
+920,"EWURADZE no a, hom a hom fi Israel nsunyiwa no mu.",EWURADZE na hom a hom fi Israel si no mu.,0.2727,0.1842
+921,"Ɔmmfata ahemfo, ao Lemuel, ɔmmfata ahemfo dɛ wɔbɔnom nsa; Anaa mbapɔmba, dɛ wɔbɛse dɛ, Nsadzen wɔ hen o?","Ɔmfata ahemfo, ao Lemuel, mfata anyemfodɛ ɔbɔ nom nsa, anaa mbapɔmba dɛ ɔbɛse dɛ, Nsadzen wɔ hen o",0.3333,0.0864
+922,"Sɛ mayɛ bɔn a, ebɛnadze na mayɛ wo, ɔwo nyimpa weɔmfo?","Semaia bɔn a ebɛnadze na mayɛ wo, ɔwo nyimpa wɛmfo.",0.2727,0.122
+923,Nkyii so orunnsuo ebusuyɛfo no mu nngyina.,Nkyii so orusu ebusuyɛfo no mu nyina.,0.2857,0.1429
+924,"Ne nda nyinara mu no woemmfi EWURADZE, hɔn egyanom Nyankopɔn no, n’ekyir dzi no ho emmfir.","ne nda nyinara mu no womfi EWURADZE, hɔn egyanom Nyankopɔn n'ekyir dzi no ho mfi.",0.1875,0.0986
+925,Ber a orisian tromm no: Osiandɛ ewiei no ɔsɔw dɛ ɔwɔ.,"Berɛ a ɔresan trim no, osiandɛ ewia no wɔasɔ dɛ ɔwɔ",0.4545,0.2683
+926,na enyito akata no do; ɔno a ɔsee me dɛ.,Na n'enyi to akata no do; ɔno a ɔsee me dɛ.,0.2,0.0345
+927,Woana nye nyia ɔnam nsɛm a nyimdzee nnyi mu do bir afotu enyi yi?,Wɔn a nyinyaa ɔnam nsɛm a nimdi nyim do bir afotu enyi yi?,0.4286,0.1961
+928,"Na wɔkaa kyerɛɛ no dɛ, Sɛ ndɛ yi ɔwo eyɛ akowaa ma ɔman yi, na esom hɔn, na ibua hɔn, na eka nsɛm pa kyerɛ hɔn a, ɔno wɔbɛyɛ wo nkowaa daa nyina.","Na wɔkaa kyerɛɛ no dɛ, Sɛ ndɛ yi ɔwo eyɛ akoa ma ɔman yi, na esom hɔn, na ibua hɔn, na eka nsɛm pa trɛ hɔ na ɔno wɔbɛyɛ wo nkowaa daa nyina.",0.1212,0.0467
+929,"Na aber a ɔhen no fi Damaskɔs bae na obohun afɔrmbukyia no, ɔtwee piin ho, na ɔbɔɔ do afɔr.","Na berɛ a ɔhen no fi Damaskɔs bae na obohun afɔrebukyia no, ɔtwee pin ho, na ɔbɔɔ do afɔr",0.1579,0.0571
+930,Dɛ wankasa wo nsa enyimfa na ɔbɛgye wo.,dɛ woankasa wo nsa enyimfa na ɔbɛgye wo.,0.125,0.0323
+931,"Woana na ɔtse dɛ ɔwo, Nyankopɔn a edze emumuyɛ kyɛ.","Wɔn a na ɔtse dɛ ɔwo, Nyankopɔn a edze emumuyɛ kyɛ.",0.2,0.05
+932,ekodu ber a ɔwokofo no bɔwo: nna no nuanom nkaase no.,ekodu ber a ɔwokofo no bɔwo: nna no nuanom nkaase no.,0.0,0.0
+933,"Mebɛyɛ komm, na mahwɛ wɔ me tsenabea; dɛ ewiaber ketee mu ɔhyew.",Mebɛyɛ kom na mahwɛ wɔ mesan bea dɛ ewiaber ketee mu ɔhyew.,0.25,0.08
+934,"osiandɛ asɛɛ w’asaase, ekuku wo mamba.","Osiandɛ asɛ wasase, ekuku wo mamba.",0.3333,0.0667
+935,"Na otwitwaa oguannyin no mu esinesin; na ɔhyeew tsir no, nye esinesin no, nye seradze no.","Na otwitwaa oguannyin no no mu esinesin, na ɔhyeew tsir no, nye esinesin no, nye seradze no.",0.0625,0.0286
+936,Dɛ mbrɛ bɔdɔm san kɔ ne fe ho no.,Dan brɛ bɔdɔm san kɔ ne fie ho no?,0.3333,0.125
+937,Na henfa na hom bɛdan hom enyimnyam egya?,Na henfa na hom bɛdan hom enyimnyam egya?,0.0,0.0
+938,wɔ hɔn nsa a agow ntsi; osian da a ɔreba no ntsi.,"wɔ hɔn nsa a agu nsi,Osianda ɔrebɛnti.",0.6667,0.2222
+939,"Ana nnyɛ ndaadaa na Hezekia redaadaa hom, ma ɔdze hom ahyɛ owu nsa wɔ ɔkɔm na nsukɔm mu, dɛ, Hɛn EWURADZE Nyankopɔn beyi hɛn efi Asiriahen no nsamu no bi a?","Ana nye ndaadaa na Iska redaadaa hom, ma ɔdze hom ahyɛ owu nsa wɔ ɔkɔm na nsukɔm mu, dɛ ne AWURADE Nyankopɔn bɛyɛ hɛn efi Asiriahen nsamu no bia",0.2581,0.123
+940,Ne mbiew yɛ dɛ boran a woehun mu; N’akwaa tse dɛ adaban.,Na bio yɛ dɛ boran a woehun mu; na akwaa tse dɛ adaban.,0.3333,0.119
+941,Nkyii so ɔhen no yɛɛ asombɛn ahengua kɛsenara na ɔdze sika mapa duraa ho.,Ntesoɔhen no yɛɛ asombɛn ahengua kɛsenara na ɔdze sika mapa dura ho.,0.2857,0.0847
+942,"Na EWURADZE see Josua dɛ, Ndɛ da yi na mebɛhyɛ ase mama wo do wɔ Israel nyinara enyi do, na woeehu dɛ, dɛ mbrɛ midzii Moses ekyir no, dɛmara so na mibedzi w’ekyir.","Na EWURADZE see Jehu dɛ, dada yi na mebɛhyɛ ase mama wo do wɔ Israelmba nyinara enyi do, na woehu dɛ dɛ mbrɛ midzii Moses ekyir no, dɛmara so na mibedzi wakyi.",0.1818,0.088
+943,"Na, hwɛ, w’atamfo yɛ weɔɔ weɔɔ: Na hɔn a wokyir wo ama hɔn tsir do.","Na hwɛ, w'atamfo yɛ wo yɔyɔ na hɔn a wokyir wo ama hɔn nsa do.",0.2,0.1667
+944,"na wo meneba so ma nsukɔm anndze wo: naaso ɔwo esee dɛ, Dabida!","na wome n'aba so ma nsukɔm anndze wo: nanso awosedɛ, dabi a",0.5385,0.125
+945,Nna Neria ba Baruk faa nwoma mbobɔwee no kitsaa ne nsamu na ɔbaa hɔn nkyɛn.,"Na Neria ba Baruk faa woman bɔwenKitaa ne nsam, na ɔbaa hɔn nkyɛn.",0.4,0.15
+946,Ebɛsan ebenya hɛn ho ayamuhyehye; edze w’ananadze betsiatsia hɛn emumuyɛ do: na ɔwo ebɔtow hɛn bɔn nyina.,"ɛbɛsan abɛyɛ hene ho ayɛ hyehye, edze w'ananadze betsiatsia hɛn amumuyɛ do, na ɔwo ebɔtow hɛn bɔn nyina.",0.3529,0.1294
+947,"Na da a otsia ebien no wokyiin kurow no ho prɛko, na wɔsanee kɔr nseraban no mu: wɔyɛɛ dɛm ara nda esia.","Na da a otsia ebien no wɔkyiri kurow no ho prɛko, na wɔsane kɔ nsraban no mu: wɔyɛɛ dɛm ara nda esia.",0.1818,0.075
+948,Aso Kalno nntse dɛ Karkemis bi a?,"Aso Kalno nte dɛ, kakam si bia.",0.5714,0.2308
+949,Ana apofo ekuwekuw dze no bedzi bata?,Ana apofo ekuwekuw dze no bedzi bata?,0.0,0.0
+950,Na ɔtsenaa ahemfo ahengua no do.,na wɔtsena ahemfo ahengua no o.,0.3333,0.1154
+951,"Dɛm ntsi mbrɛ dɔm EWURADZE, Israel Nyankopɔn no se nye yi: Hwɛ, medze m’enyi bɛsa hom do, ma aayɛ hom mbusu, mekyerɛ dɛ wobokuruw Juda nyinara ase.","Deɛ me nse mbɛda EWURADZE yesany kopɔn si yi, hwɛ, medze menyi bɛsɛn hom do, ma ayɛ hom mbusu, mekyerɛ dɛ wobokuruw Juda nyinara ase.",0.4074,0.2018
+952,"Na mebɛyɛ no nkɔtɔkɔ tsenabew, na nsu ntaataae so, na medze ɔsɛɛ mena mapra no, dɔm EWURADZE na ɔse.","na mebɛyɛ no nkɔtɔkɔ fenabe na nsu taataa so na medze ɔsɛɛ mena mapra no, dɔm EWURADZE na ɔse.",0.1053,0.0641
+953,"Sɛ emumuyɛfo dzi tum a, mbrato dɔɔ so: Naaso atseneneefo no bohu emumuyɛfo no hɔn asehwe.","Sɛ moyɛ fo dze tuma mbrato dɔɔso, nanso atseneneefo no bohu mu yɛfo no hɔn ase ho.",0.6875,0.1549
+954,Anaa woana na ɔdze kutuwdo bo no toe?,anaa wɔn na ɔdze kutuu bo bo no toe?,0.375,0.1724
+955,"Na ibohu dɛ w’asesee wɔ asomdwee mu; Na ebɛsera wo nguamban, na erennyew hwee.","Na ɛbɔhu dɛ w'asesee wɔ asomdwee mu, na ɛbɛsrɛ wo nguamban, na EWonye wo hwee.",0.2857,0.1475
+956,"Afei, me Nyankopɔn, meserɛ wo, bue w’enyiwa, na kyɛn w’aso wɔ mpaabɔ a wɔbɔ wɔ ha yi do.","Afei, me nyankopɔn, me srɛ wo, bue wonyiwa na kyɛn w'aso wɔ mpaabɔ a wɔbɔ wɔ ha yi do.",0.1667,0.0312
+957,"Nyankopɔn yɛ EWURADZE nyinkufo a odzi wer a; ampaara, EWURADZE dzi wer na ebufuw tum hyɛ no ma; EWURADZE tɔ n’ahohiahiafo do wer.","Nyankopɔn yɛ EWURADZE nyinkufo a odzi wer ampaara, EWURADZE dzi wer na ebufuw tum hyɛ no ma; EWURADZE tɔ n'ahohiahiafo do wer.",0.0435,0.0098
+958,"Na afei na masan mu eyi fie yi na mayɛ no krɔnkrɔn, dɛ me dzin ntsena hɔ daa: na m’enyiwa na m’akoma bɛtsena hɔ daa nyinara.","Na afei na masan mu eyi fie yi na mayɛ no krɔnkrɔn dɛ Mizen ntena hɔ daa, na menyina makoma bɛtena hɔ daa nyinaa.",0.2692,0.0851
+959,Na woennhu mbaa a hɔn ho yɛ fɛw dɛ Job ne mbabaa no wɔ asaase no nyinara do: na hɔn egya memaa hɔn egyapadze wɔ hɔn nuanom mu.,"na wonhu mmaa a hɔn ho yɛ fɛw dɛ Job nam abaa wɔ asaase no nyinara do, na hɔn egya memaa hɔn egyapadze wɔ hɔn nuanom mu.",0.1786,0.0722
+960,"Ɔkwasea, Ɔkwadwefo na Ɔnokumnyi.",Ɔkwasea ɔkwadwofoɔ na ɔno kumiy,0.75,0.1481
+961,Naaso woennyi mbea sorɔnsorɔm no wɔ hɔ: ɔman no kɔr hɔ bɔɔ afɔr na wɔhyeew eduhuam wɔ mbea sorɔnsorɔm no do.,Nanso wɔnnyiyi mbea sorɔnsorɔm no wɔ hɔ ɔman no kɔr hɔ bɔɔ afa na wɔhyew edu hɔn wɔ mbea sonson no do.,0.3333,0.186
+962,yɛnkɔ Jakob Nyankopɔn no ne fie; ama ɔaakyerɛkyerɛ hɛn n’akwan.,"Nanka yakob Nyankopɔn ne hwie,amaa wakyerɛkyerɛ hen na akɔn.",0.8,0.2745
+963,"Na Josua poon Israel ebusuakuw ebusuakuw nyinara hyiaa Sekem, na ɔkɛfrɛɛ Israel mpanyimfo, nye hɔn etsitsir, nye hɔn ntsɛmbuafo, nye hɔn ahwɛdofo no; na wokehyiae wɔ Nyankopɔn enyim.","Na Jesua pon Israel ebusuakuw ebusuakuw nyinara hyiaa sika ɔkɛfrɛɛ Israel mpanyimfo, nye hɔn etsitsir, nye hɔn ntsɛmbuafo, nye hɔn ahwɛdofo no, na wokehyiae wɔ Nyankopɔn enyim.",0.1429,0.0403
+964,"Naaso me man dze, wɔdze hɔn enyimnyam.","Naaso me man dze, wɔdze hom nyina.",0.2857,0.2
+965,Ber no mu wɔdze akyɛdze bɛbrɛ dɔm EWURADZE; wɔdze fi nkorɔfo apankor trontrom no.,DWOM dakyɛ dze bɛbrɛ dɔm EWURADZE; wɔdze fi nkorɔfo apankor trontrom no.,0.3571,0.1364
+966,Na Josua yɛɛ dɛm.,"Na Doha,",0.75,0.6923
+967,"Afei Jehu no ho nsɛm nkaa no, na dza ɔyɛe nyinara, na ne mbanyinndam nyinara, ana wɔnnkyerɛɛw no wɔ Israel ahemfo hɔn Mbermunsɛm nwoma mu?","Afei Jehu no ho nsɛm nkaa no, na dza ɔyɛe nyinara, na ne mma nyindam nyinara, ana wɔnkyerɛw no wɔ Israel ahemfo hɔn mber mu sɛ omu",0.28,0.0909
+968,"Na ɔdze edziban afɔr no kɛmae, na ɔyɛɛ no dɛ mbrɛ mbra no tse no ara.",Na ɔdze edziban afɔr no kama na ɔyɛɛ dɛ mbrɛ mbra no tse no ara.,0.125,0.0769
+969,"Na ɔsee Israelhen no dɛ, Tow bɔ famu: na ɔtowee bɔɔ famu mprɛnsa, na ogyaae.","Na ɔsee Israelhen no dɛ, Tobo fam, na ɔtoebɔɔ fam mprɛnsa, na ogyaae.",0.4,0.1034
+970,"na emi dze, mma m’enyi nnto; hɔn dze, ma hɔn akoma ntu.","Na medze ma menyi nto, hɔn dze, ma hɔn akoma ntu.",0.3333,0.1026
+971,"Na binom kaa kyerɛɛ Jerikohen no, dɛ, Hwɛ, mbanyin bi fi Israelmba mu baa ha anadwe yi dɛ wɔrebɛsera asaase yi.","Na binom kaa kyerɛɛ Jerikohen no, dɛ, Hwɛ, mbanyin bi fi Israelmba mu baa ha anadwe yi dɛ wɔrebɛsera asaase yi.",0.0,0.0
+972,"Na ɔyɛɛ dza ɔtsen wɔ EWURADZE n’enyiwa do, na ɔnantseew n’egya David n’akwan do, na ɔanndan ammfa nkyɛn annkɔ enyimfa anaa abankum.","Na ɔyɛɛ dza ɔtsen wɔ EWURADZE n'enyiwa do, na nantsew n'egya David n'akwan do, na wadan amfa nkyɛn ankɔ enyimfa anaa abankum.",0.1818,0.0673
+973,"Asɛm a EWURADZE kaa kyerɛɛ nkɔnhyɛnyi Jeremia, mbrɛ Babilɔnhen Nebukadenezar bɛba abɔbɔ Egypt asaase no.","Asɛm a EWURADZE ka kyerɛ nkɔnhyɛnyi Jeremia, mbrɛ babilon hen na beka dadze bɛba abɔbɔ Egyiptasaase no,",0.6,0.125
+974,Mma nnhaw woho wɔ ndzebɔnyɛfo ntsi; Eso mma w’enyi mmber emumuyɛfo: Na omumuyɛnyi nnkenya akatua biara; Emumuyɛfo kandzea bodum.,"Mma nka wo ho wɔ ndzebɔnyɛfo ntsi; Eso mma wonyim amuyɛfo,na ɔmunyi yi nka nya akatua biara emufokandzea bodum.",0.5789,0.2095
+975,"Wɔfemfam ho nkorkor; Woesuo mu kor, ma wɔtsetsew hɔn mu a ɔnnkɛyɛ.",Wɔfemfam ho kroko woesumukor ma wɔtetew hɔn mu a ɔkaeɛ,0.5,0.2115
+976,Na Menahem kɔr ne nsamankyir; na ne babanyin Pekahia dzii hen wɔ n’ananmu.,"Na Menahem kɔr ne nsamankyir, na ne babanyin Pekahia dzii hen wɔ nanim.",0.0769,0.0508
+977,na dza Beor ba Balaam dze buaa no; kaa ofitsi Sittim kodu Gilgal.,Na dza Beor ba Balaam dze buaa no; kaa ofitsi Sitim kodu Gilgal.,0.0769,0.0196
+978,Nyankopɔn tsena ɔsor mboanofo mu; Obu atsɛn wɔ enyame mu.,Nyankopɔn tsena ɔsor mboanofo mu; Obu atsɛn wɔ enyame mu.,0.0,0.0
+979,na woetsiw hɔn dɛ mbepɔw do ntsɛw wɔ mframa mu.,na wesi hɔn dɛ mbepɔw do ntsɛw wɔ mframa mu.,0.1,0.0811
+980,"Ana nnyɛ EWURADZE na osuroo no, na ɔdze nkotoserɛ bisaa EWURADZE n’enyimpa, na EWURADZE so nuu noho wɔ mbusu a ɔkae tsiaa hɔn no ho.","Anaa nyɛ EWURADZE na osuroo no, na ɔdze nkotoserɛ bisaa EWURADZE n'enyimpa, na EWURADZE so nuu no ho ɔmusa ɔkanea hono.",0.44,0.125
+981,ama nkusi na mpan; ama wɔaakɛhɛn abotan ntokur.,ama nkusi na mpan; ama wɔaakɛhɛn abotan ntokur.,0.0,0.0
+982,"Na ɔhen no daan n’enyi, na ohyiraa Israel mboanofo nyinara: na Israel mboanofo no nyinara gyinagyinaa tsentsen.","Na ɔhene no dan n'enyi, na ohyiraa Israel mboanofo nyinara: na Israel mboanofo no nyinara gyinagyina tenten.",0.2353,0.0549
+983,"Na wɔpaam ne tsir do wɔ Jerusalɛm; na oguanee kɔr Lakis: na wɔsomae ma wotsiiw no kɔr Lakis, na wokokum no wɔ hɔ.",Na wɔpaam ne tsir do wɔ Jerusalɛm; na oguanee kɔr Lakis: na wɔsomae ma wotsi no kɔr nakes na wokokum no wɔ,0.1304,0.069
+984,Ana ɔwo ekan abosoom dodow a hɔn efur dze nyin?,Ana ɔwo ekan abosom dodow a hɔn efur dze nyin?,0.1,0.027
+985,Na ɔdze dadze etwitwa kwaa mu adɔtɔ.,Na ɔdze dadze etwitwa kwaa mu adɔtɔ.,0.0,0.0
+986,"Ɔnyɛnko pira wo a, ɔyɛ nokwar: Na ɔtamfo ne mfewano dze, ndaadaa a.",Ɔnyɛnko pra wo a ɔyɛ nokwa ɔtamfo no fi wɔn dze ndaadaa.,0.5385,0.1961
+987,"Na asɛm no yɛɛ Israelmba enyisɔ; na Israelmba hyiraa Nyankopɔn, na wɔannka bio dɛ worutu hɔn do sa, wɔakɛsɛɛ asaase a Reubenmba nye Gadmba tse do no.","Na asɛm no yɛɛ Israelmba enyisɔ; na Israelmba hyiraa Nyankopɔn, na wɔannka bio dɛ worutu hɔn do sa, wɔakɛsɛɛ asaase a Ruben ba nye Gad matsen",0.2222,0.0504
+988,Na mbrɛ EWURADZE ka wɔ Judahen ne fi ho nye yi: Ɔwo yɛ dɛ Gilead ma me.,Na mbrɛ EWURADZE ka wɔ Yuda fie ho nyiyi ɔwoo YedeGilead mam,0.6471,0.2264
+989,"Na Solomon yɛɛ dza omuo wɔ EWURADZE enyi do, na oenndzi EWURADZE ekyir ennwie, dɛ mbrɛ n’egya David yɛe.","Na Solomon yɛɛ dza omu wɔ EWURADZE enyi do, na woedzi EWURADZE ekyir ewie dɛ mbrɛ n'egya David yɛe.",0.1579,0.0732
+990,"Asaase do nhenman, hom ntow ndwom mma Nyankopɔn: Hom ntow ayɛyindwom mma EWURADZE; Nyia ɔtse ɔsorsor mu ɔsorsor a ofi tsetse no do no; Hwɛ, ɔbɔ ne ndze mu, na tum ndze a.","Asaase do nhenman, hom ntow ndwom mma Nyankopɔn, hɔn to yɛnnwom ma EWURADZE nye ɔtse ɔsosoɔsosor a ofitsi no do no, hwɛ, abɔne dzem etumide",0.5455,0.2061
+991,ber a ɔbɔsoɛr abɔwosow asaase dzendzenndzen no.,Boro a ɔbɔsɔr abɔwoso asase dzendzendzen,0.8571,0.225
+992,"Ɔdwendwen haban ho, na ɔtɔ: Ɔdze ne nsaano aba tsetsɛw wenyin ture mu.","Ɔdwendwen haban ho, na ɔtɔ: Ɔdze ne sa no aba tawhenyinumu.",0.4615,0.2
+993,na ne Krɔnkrɔnnyi no adan gyaframee: na ɔbɛhyew na ɔaamen.,Na ne kronkron nyin adanga frame na ɔbɛhyew na woame.,0.5,0.1702
+994,"Ɔnyɛnko pira wo a, ɔyɛ nokwar: Na ɔtamfo ne mfewano dze, ndaadaa a.",Ɔnyɛnko pra wo a ɔyɛ nokwa ɔtamfo no fi wɔn dze ndaadaa.,0.5385,0.1961
+995,Na Juda yɛɛ dza omuo wɔ EWURADZE enyi do; na wɔdze hɔn bɔn a wɔyɛe no yii EWURADZE nyinkun seen dza hɔn egyanom yɛe no nyinara.,"Na Juda yɛɛ dza omuo wɔ EWURADZE enyi do, na wɔdze hɔn bɔn a wɔyɛe no yii EWURADZE nyinkun seen dza hɔn egyanom yɛe no nyinara.",0.0,0.0
+996,"Na akataasia no no ho yɛ fɛw dodow; na oyiayiaa ɔhen no, na ɔsoom no; naaso ɔhen no ammfa no ho annka no.","Na akataasia no ho yɛ fɛ dodo, na oyiyi ɔhen no na ɔsom no, naaso ɔhen no amfa no ho anka no",0.3043,0.1266
+997,Sɛ etɔ bahaw wɔ ahohia da mu a.,Sɛ Eto bahaw wɔ ahohia da mu.,0.25,0.087
+998,"na ɔtsetsew mu esinesin, na obi nnyi hɔ a ɔgye.",na ɔtsetsew Moene senna obi nnyi hɔ a ɔgye.,0.3,0.1111
+999,"Naaso mbea sorɔnsorɔm no dze, woennyiyi no hɔ: ɔman no kɔr do bɔɔ afɔr na wɔhyeew eduhuam wɔ mbea sorɔnsorɔm no do.","Naaso mbea sonso no dze, woennyiyi no hɔ: ɔman no kɔr do bɔɔ afɔr na wɔhyew eduhuam wɔ mbea so nsom no do.",0.1818,0.1099
